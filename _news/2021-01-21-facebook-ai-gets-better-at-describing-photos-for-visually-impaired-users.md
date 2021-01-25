@@ -9,8 +9,8 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/363767"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/363767"
 type: article
 quality: 88
-heat: -1
-published: false
+heat: 148
+published: true
 
 provider:
   name: Entrepreneur
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook uses AI to improve photo descriptions for the visually impaired"
-    excerpt: "One of the most common types of content shared on Facebook, and other social media platforms are photographs. While most social media users can look at an image and see what it represents,"
-    publishedDateTime: 2021-01-20T12:28:00Z
-    webUrl: "https://www.slashgear.com/facebook-uses-ai-to-improve-photo-descriptions-for-the-visually-impaired-20655881/"
-    ampWebUrl: "https://www.slashgear.com/facebook-uses-ai-to-improve-photo-descriptions-for-the-visually-impaired-20655881/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/facebook-uses-ai-to-improve-photo-descriptions-for-the-visually-impaired-20655881/amp/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 88
-    images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/01/ai-img-desc.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Facebook Improves Photo Experience For The Blind, Visually Impaired"
     excerpt: "Facebook said it has launched an improved version of its automatic alternative text or AAT feature to improve photo descriptions for its users who are blind or visually impaired. AAT utilizes object recognition to generate descriptions of photos on demand so that blind or visually impaired,"
     publishedDateTime: 2021-01-20T14:21:00Z
@@ -58,20 +42,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "Facebook AI Gets Better at Describing Photos for Visually Impaired Users"
-    excerpt: "In an effort to better accommodate users who are blind or visually impaired, Facebook this week updated its automatic alternative text (AAT) technology. The feature, introduced in 2016 (and granted the Helen Keller Achievement Award from the American Foundation for the Blind in 2018),"
-    publishedDateTime: 2021-01-20T12:49:00Z
-    webUrl: "https://uk.pcmag.com/social-media/131125/facebook-ai-gets-better-at-describing-photos-for-visually-impaired-users"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 68
-    images:
-      - url: "https://sm.pcmag.com/t/pcmag_uk/news/f/facebook-a/facebook-ai-gets-better-at-describing-photos-for-visually-im_njkb.1200.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Good News for Visually Impaired: Facebook can Describe Photos Better for You"
     excerpt: "Facebook announced new improvements in its artificial intelligence (AI) technology. Facebook can now generate descriptions of photos posted on its platforms including Instagram for the visually-impaired users."
     publishedDateTime: 2021-01-21T08:08:00Z
@@ -87,6 +57,22 @@ related:
       - url: "https://images.medindia.net/amp-images/health-images/facebook.jpg"
         width: 1200
         height: 1000
+        isCached: true
+  - title: "Facebook updates its automatic alternative text system with expanded object recognition"
+    excerpt: "The next-generation AAT system can identify more objects in photos, perceive where each object is located relative to each other and provide more detailed descriptions."
+    publishedDateTime: 2021-01-20T20:59:00Z
+    webUrl: "https://www.dpreview.com/news/1012238603/facebook-updates-its-automatic-alternative-text-system-with-expanded-object-recognition"
+    ampWebUrl: "https://m.dpreview.com/news/1012238603/facebook-updates-its-automatic-alternative-text-system-with-expanded-object-recognition.amp"
+    cdnAmpWebUrl: "https://m-dpreview-com.cdn.ampproject.org/c/s/m.dpreview.com/news/1012238603/facebook-updates-its-automatic-alternative-text-system-with-expanded-object-recognition.amp"
+    type: article
+    provider:
+      name: Digital Photography Review
+      domain: dpreview.com
+    quality: 51
+    images:
+      - url: "https://3.img-dpreview.com/files/p/E~TS590x0~articles/1012238603/facebook.png"
+        width: 590
+        height: 332
         isCached: true
   - title: "Facebook Improves Its AI Audio Photo Descriptions for the Visually Impaired"
     excerpt: "Facebook has been using AI to audibly describe the contents of photos for the visually impaired for some time, but it's improving those efforts this year."

@@ -41,22 +41,6 @@ related:
         width: 4393
         height: 2928
         isCached: true
-  - title: "Trump Pardons The Guy Who Stole Self-Driving Car Secrets From Google’s Waymo"
-    excerpt: "Anthony Levandowski was sentenced to 18 months in prison, though he didn't actually serve time due to COVID-19."
-    publishedDateTime: 2021-01-20T12:57:00Z
-    webUrl: "https://www.carscoops.com/2021/01/trump-pardons-ex-google-uber-engineer-anthony-levandowski/"
-    ampWebUrl: "https://www.carscoops.com/2021/01/trump-pardons-ex-google-uber-engineer-anthony-levandowski/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/01/trump-pardons-ex-google-uber-engineer-anthony-levandowski/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 56
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2021/01/trump-pardons-anthony-levandowski-2-1024x555.jpg"
-        width: 1024
-        height: 555
-        isCached: true
   - title: "Trump pardons former Google self-driving car engineer Anthony Levandowski"
     excerpt: "Donald Trump has given a full pardon to Anthony Levandowski, a former Google engineer who stole trade secret on self-driving cars.Read MoreRead"
     publishedDateTime: 2021-01-21T07:09:00Z

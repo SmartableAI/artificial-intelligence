@@ -1,67 +1,28 @@
 ---
 category: news
 title: "Delhi airport evaluating 'computer vision' tech to track flyers, ensure social distancing: Official"
-excerpt: "Delhi airport is evaluating a 'computer vision' technology to track passengers, reduce waiting time and ensure social distancing at its terminals, a t"
-publishedDateTime: 2021-01-19T11:57:00Z
-originalUrl: "https://timesofindia.indiatimes.com/city/delhi/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official/articleshow/80347698.cms"
-webUrl: "https://timesofindia.indiatimes.com/city/delhi/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official/articleshow/80347698.cms"
-ampWebUrl: "https://m.timesofindia.com/city/delhi/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official/amp_articleshow/80347698.cms"
-cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/delhi/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official/amp_articleshow/80347698.cms"
+excerpt: "Delhi airport, which is also led by a GMR group-headed consortium, installed the 'Xovis' passenger tracking system at Terminal 3 last month"
+publishedDateTime: 2021-01-19T11:31:00Z
+originalUrl: "https://www.livemint.com/companies/news/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official-11611054333198.html"
+webUrl: "https://www.livemint.com/companies/news/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official-11611054333198.html"
+ampWebUrl: "https://www.livemint.com/companies/news/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official/amp-11611054333198.html"
+cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official/amp-11611054333198.html"
 type: article
-quality: 60
-heat: 90
-published: true
 
 provider:
-  name: India Times
-  domain: indiatimes.com
+  name: Mint
+  domain: livemint.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://static.toiimg.com/photo/msid-80144619,width-242,height-136/80144619.jpg"
-    width: 620
-    height: 413
+  - url: "https://images.livemint.com/img/2021/01/19/600x338/PTI23-12-2020_000268B_1611054870782_1611054896014.jpg"
+    width: 600
+    height: 338
     isCached: true
 
-related:
-  - title: "Delhi Airport evaluating computer vision to ensure social distancing"
-    excerpt: "In today technology news, we covered about the Delhi Airport evaluating computer vision to ensure social distancing"
-    publishedDateTime: 2021-01-20T14:37:00Z
-    webUrl: "https://www.compsmag.com/news/technology/delhi-airport-evaluating-computer-vision-to-ensure-social-distancing/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/delhi-airport-evaluating-computer-vision-to-ensure-social-distancing/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/delhi-airport-evaluating-computer-vision-to-ensure-social-distancing/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 54
-  - title: "Delhi airport evaluating ‘computer vision’ tech to track flyers, ensure social distancing"
-    excerpt: "Delhi airport is evaluating a \"computer vision\" technology to track passengers, reduce waiting time and ensure social distancing at its"
-    publishedDateTime: 2021-01-19T21:40:00Z
-    webUrl: "https://www.dailyexcelsior.com/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing/"
-    type: article
-    provider:
-      name: Daily Excelsior
-      domain: dailyexcelsior.com
-    quality: 45
-    images:
-      - url: "https://www.dailyexcelsior.com/wp-content/uploads/2021/01/4-8.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Delhi airport evaluating ‘computer vision’ tech to track passengers, ensure social distancing: CEO"
-    excerpt: "Delhi airport is evaluating \"computer vision\" technology to track passengers, reduce waiting time and ensure social distancing at its"
-    publishedDateTime: 2021-01-19T18:50:00Z
-    webUrl: "https://www.dailyexcelsior.com/delhi-airport-evaluating-computer-vision-tech-to-track-passengers-ensure-social-distancing-ceo/"
-    type: article
-    provider:
-      name: Daily Excelsior
-      domain: dailyexcelsior.com
-    quality: 20
-
-secured: "39IPNgE2VEbuh2zb8/+5WAOyde3ShJOimzL4bYu/NT3FjVABEb0MQdsDy7wFvg5hghMBH+d0Piy0soOMYdvVG0M22xXo6rAJtesLa759NTecpYuEuRJRKZaYJ7lPler9bJ5BN6cC8bCoou7pF67hNjD60GajUmwOZVN8QOTIeLEUC9OelsgjxhdFOcTzFMv7JDSAsz6sZXLl50Y2Z2XQDwfDx2XUZ8s9OU7rys1gPmYmbSfegwsItxSgKyIHnd+CCKJzb8fIFKEQRKTfNWZ8B3drnN5KumBSvPmGhCJjGFjDryfCEzIvTAaq4fwzbya9aOFNKXaAwhZ9WLnYIutz1MLxmXVp+qrRc/5eYtpvwNe8eCpPiWcQAvk8kt68bQl85y+q91YKgjpm0fjlej6hguBNMUmnRpCBE4Tsc60b1bnBbhj0MBSB3X8rc592YIr8BuF/HEPdUK3Aap3XuVPil1TJp5anoyPeiWDjk/nAdyNj6bUviVw6sSk5GbbNkPv7ta8CGd0Y/tErugX1s9ovqg==;1fFVQ1hORkKIKXY8I3c0Dg=="
+secured: "CUxl+V8EfmNzY0Wk9/hvVPBD8ol6gh/gYSUsbHRLUpsabyUuVQJBRIBtWHpC7qarO/ZZjSXU4znaoftzH5e75+PgsQgBFxIDISQWCK0QPYBVpoNGjHRF5a/9/a4RGkagU7Z0EdrIK/C3C2jJICiDilFiP3c4CeNqtCx+QrWxPyC5xz64AxUx2RfJM3vOJtuMV3OJyfYxIA5u6UpHLenhAxYSNnp0sJn7eI44AazeptqbtS9PoGPsft8lDwaxKCtmhuN5to1MZ472naL0gYa3QxYhis/R6FxH92fCJ6F7XRTOEVQg8C1Ie3qIg5d+rRVRW9mCJ9JSvhY9jqCUGC1kCrddH8Y9KSQO6J4C9nTUtrY=;3+SWQtU+R0YinpTnlMlJBw=="
 ---
 

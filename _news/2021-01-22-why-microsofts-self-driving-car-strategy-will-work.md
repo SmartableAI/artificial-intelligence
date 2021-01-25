@@ -84,20 +84,6 @@ related:
         width: 740
         height: 493
         isCached: true
-  - title: "The Earth’s atmosphere has been modelled in Microsoft Azure as part of a project to tackle climate change caused by aviation"
-    excerpt: "SATAVIA, which is based in Cambridge, uses artificial intelligence and data analytics to study and tackle aircraft contrail formation."
-    publishedDateTime: 2021-01-20T12:10:00Z
-    webUrl: "https://news.microsoft.com/en-gb/2021/01/20/the-earths-atmosphere-has-been-modelled-in-microsoft-azure-as-part-of-a-project-to-tackle-climate-change-caused-by-aviation/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/68/2021/01/190913165136-a7-bbg-qatarairways-777-2dz-lr-akl-doh-20190613-epx27085-cnn-web-768x432.jpg"
-        width: 768
-        height: 432
-        isCached: true
   - title: "Microsoft To Do's task suggestion feature uses AI to improve productivity"
     excerpt: "Microsoft To Do for the web has a new Tasks that seem important feature that uses AI to suggests tasks you should take care of."
     publishedDateTime: 2021-01-22T15:22:00Z
@@ -127,22 +113,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Microsoft joins self-driving race in new deal with Cruise, GM"
-    excerpt: "Microsoftis making a bold bet on self-driving with Cruise and General Motors. GM and Cruise said on Tuesday that they have entered into a \"long-term strategic relationship\" with t"
-    publishedDateTime: 2021-01-20T11:05:00Z
-    webUrl: "https://www.usatoday.com/story/money/cars/2021/01/20/microsoft-self-driving-car-deal-cruise-gm/115331658/"
-    ampWebUrl: "https://amp.usatoday.com/amp/115331658"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/115331658"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 61
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/fa914244af5254218ff03a5d6773eeb3b7df7f39/c=0-100-1920-1180/local/-/media/2021/01/19/USATODAY/usatsports/cruise-track-3-in-seattle.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Microsoft (MSFT) Invests in Self-Driving Electric Car Venture"
     excerpt: "Microsoft (MSFT) has entered into a long-term strategic relationship with the Cruise unit of GM to develop self-driving electric vehicles."
@@ -248,20 +218,6 @@ related:
         width: 400
         height: 284
         isCached: true
-  - title: "Cruise to use Azure as Microsoft invests $2bn in autonomous vehicle company"
-    excerpt: "Microsoft will invest $2bn in self-driving car company Cruise, entering into a partnership that will see it offer cloud and Edge support. Cruise was acquired by GM back in 2016, but is operated as a somewhat independent company."
-    publishedDateTime: 2021-01-20T12:28:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/cruise-use-azure-microsoft-invests-2bn-autonomous-vehicle-company/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 52
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Cruise.width-358.jpg"
-        width: 358
-        height: 238
-        isCached: true
   - title: "Nextech AR Integrates Microsoft Azure Cloud Computing Platform Other OTC:NEXCF"
     excerpt: "Nextech AR Integrates Microsoft Azure Cloud Computing Platform Other OTC:NEXCF. Cloud-based data enables Nextech AR to host"
     publishedDateTime: 2021-01-24T22:29:00Z
@@ -273,20 +229,6 @@ related:
       name: Windows
       domain: compsmag.com
     quality: 50
-  - title: "Microsoft, GM, Cruise Partner on Self-Driving Cars"
-    excerpt: "A strategic partnership with Microsoft was announced Tuesday by General Motors and Cruise aimed at speeding up the commercialization of shared self-driving vehicles. In addition, Microsoft will be joining GM,"
-    publishedDateTime: 2021-01-20T12:00:00Z
-    webUrl: "https://www.technewsworld.com/story/86988.html"
-    type: article
-    provider:
-      name: TechNewsWorld
-      domain: technewsworld.com
-    quality: 41
-    images:
-      - url: "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2021-cruise-msft-gm-1.jpg"
-        width: 620
-        height: 300
-        isCached: true
   - title: "Microsoft Invests in GM’s Cruise Self-Driving Cars Unit, Big Time"
     excerpt: "The software giant's cloud computing will help Cruise manage its forthcoming fleet of self-driving robo-taxis and delivery vans."
     publishedDateTime: 2021-01-20T14:30:00Z

@@ -1,0 +1,47 @@
+---
+category: news
+title: "Amazon plans to overhaul film age classification with new AI system"
+excerpt: "Amazon is exploring developing an artificial intelligence (AI) system that automatically assigns age ratings to films and television shows, eliminating the need for human checks. A patent application filed by the US e-commerce business this month shows that Amazon has invented a way to scan films using a form of AI that could explain to people about to stream a film how much sexual content,"
+publishedDateTime: 2021-01-24T06:00:00Z
+originalUrl: "https://www.telegraph.co.uk/technology/2021/01/24/amazon-plans-overhaul-film-age-classification-new-ai-system/"
+webUrl: "https://www.telegraph.co.uk/technology/2021/01/24/amazon-plans-overhaul-film-age-classification-new-ai-system/"
+ampWebUrl: "https://www.telegraph.co.uk/technology/2021/01/24/amazon-plans-overhaul-film-age-classification-new-ai-system/amp/"
+cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2021/01/24/amazon-plans-overhaul-film-age-classification-new-ai-system/amp/"
+type: article
+quality: 59
+heat: 69
+published: false
+
+provider:
+  name: The Daily Telegraph
+  domain: telegraph.co.uk
+
+topics:
+  - AWS AI
+  - AI
+
+images:
+  - url: "https://www.telegraph.co.uk/content/dam/technology/2020/10/09/TELEMMGLPICT000195076254_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg"
+    width: 2501
+    height: 1563
+    isCached: true
+
+related:
+  - title: "New artificial intelligence tool to better assist U of T students with course selection"
+    excerpt: "The Centre for Analytics and Artificial Intelligence Engineering (CARTE) has created an in-development artificial intelligence (AI) tool named Education Pathways to help U of T students with course selection."
+    publishedDateTime: 2021-01-25T02:40:00Z
+    webUrl: "https://thevarsity.ca/2021/01/24/new-artificial-intelligence-tool-to-better-assist-u-of-t-students-with-course-selection/"
+    type: article
+    provider:
+      name: The Varsity
+      domain: thevarsity.ca
+    quality: 29
+    images:
+      - url: "https://thevarsity.ca/wp-content/uploads/2021/01/News_Course-planning-ai-72_Troy-Lawrence.jpg"
+        width: 1080
+        height: 720
+        isCached: true
+
+secured: "hp3b65BwKgzurHiiaqksaJ4Xl3brtuO6cY4xm7IsxOdxy/pV+8+9BZqy5Arwh4Y1y2CELJHQWFDvJNmilx1jmHf/HFDwl1tfejInLKpDu3x+Q3bI211BpERf7TIgQnEqdnbz/42ExnP0+sUZz8xbTWxImKEtNWb7dZbl9za7zrXnHIApwOROX33EGHpSx7b8R8mr0/6pJEoIVZDyGT/Dna6YtMDbAUneOs/InaaV4T20rP5j2xJi+OihKTHx1A/oijtMGsX6Cf57holRLzglkbO3VP7vrEryAnG6Hv2ApCHx/dIVX1ghNz/PTEL1i906QwefMP4vksbjpUMvPWMfrMIMZenv9hSYD/n+uGcmqo4=;93akwR6u73zB6KCVXUsPEw=="
+---
+

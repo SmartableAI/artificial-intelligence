@@ -20,19 +20,6 @@ topics:
   - Machine Learning
   - AI
 
-related:
-  - title: "The Skyrim fan creates an impressive trailer using machine learning AI mod instead of voice actors"
-    excerpt: "The Skyrim fan creates an impressive trailer using machine learning AI mod instead of voice actors Ten years later, the Skyrim community"
-    publishedDateTime: 2021-01-20T11:52:00Z
-    webUrl: "https://www.compsmag.com/news/gaming/the-skyrim-fan-creates-an-impressive-trailer-using-machine-learning-ai-mod-instead-of-voice-actors/"
-    ampWebUrl: "https://www.compsmag.com/news/gaming/the-skyrim-fan-creates-an-impressive-trailer-using-machine-learning-ai-mod-instead-of-voice-actors/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/the-skyrim-fan-creates-an-impressive-trailer-using-machine-learning-ai-mod-instead-of-voice-actors/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 40
-
 secured: "NYKS7mCvg102jz8SG1y5fXOb6X4JT3GTZajtJYq9ZPEDhecvtJsGeotbdVznwaheKeVtNS3DUhGftM535XUwLuUawQf9ia2/n8L7bjsLqcFT+4PJFkJghNN0Ol8z2Y1kM10t/IFnLKx5XfXApTMh1KcqeioN8czcWia4ft0JbUqjn4y3xdHL/7WYkxEsIq3VVtu/xf6x3vsmYNZEHz3JawwWQzB4Fb6HgbhCZwv59IC7XCp0GdkPw6TzbKL8KVgY5deJQPo0p31zpQay9KrROC+SZXToHYRL1YxgkHUTLpGIf23MtvRo/HG+Dy5crwDP9wy3HTRLe/dIE51K5vyqyU+brB5EVsfWU6dvrIFFTy4=;4H4QnbLzA8Ie+Pzz2LdHSQ=="
 ---
 

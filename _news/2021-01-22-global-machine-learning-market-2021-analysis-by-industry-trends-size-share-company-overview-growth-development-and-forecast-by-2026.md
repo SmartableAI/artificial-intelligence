@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Healthcare Market in India Growing Popularity and Emerging Trends"
-    excerpt: "A new research document is added in HTF MI database of 50 pages titled as Artificial Intelligence AI in Healthcare Market in India 2018 2023 with detailed analysis Competitive landscape forecast and strategies The study covers geographic analysis that includes"
-    publishedDateTime: 2021-01-20T12:38:00Z
-    webUrl: "https://www.openpr.com/news/2228125/artificial-intelligence-ai-in-healthcare-market-in-india"
-    ampWebUrl: "https://www.openpr.com/amp/2228125/artificial-intelligence-ai-in-healthcare-market-in-india"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2228125/artificial-intelligence-ai-in-healthcare-market-in-india"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 76
-    images:
-      - url: "https://cdn.openpr.com/U/1/U120136029_g.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Machine Learning Market Global Industry Trends, Share, Size and Forecast Report"
     excerpt: "Machine Learning Market Opportunities, Size, Share, Emerging Trends, Technological Innovation and Forecasts \"The report on the global machine learning market provides qualitative and quantitative analysis for the period from 2018 to 2026."
     publishedDateTime: 2021-01-20T14:21:00Z
@@ -129,6 +113,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Market 2020 Global Industry Trends, Statistics, Size, Share, Regional Analysis by Key Players"
+    excerpt: "Jan (Heraldkeepers) -- The report covers detailed competitive outlook including the market share and company profiles of the key"
+    publishedDateTime: 2021-01-25T03:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2020-global-industry-trends-statistics-size-share-regional-analysis-by-key-players-2021-01-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Solutions Market Future Demands, Companies, Trends, Share and Size Forecast"
     excerpt: "DeepResearchReports has uploaded a latest report on Artificial Intelligence Solutions Industry from its research database Artificial Intelligence Solutions Market is segmented by Regions Countries All the key market aspects that influence the Artificial Intelligence Solutions Market currently and will have"
     publishedDateTime: 2021-01-22T15:13:00Z
@@ -156,6 +154,20 @@ related:
       name: Windows
       domain: compsmag.com
     quality: 41
+  - title: "Artificial Intelligence in Aviation Market 2020 Global Industry Trends, Statistics, Size, Share, Regional Analysis by Key Players"
+    excerpt: "Jan (Heraldkeepers) -- Artificial Intelligence is nothing but a machine that mimics human psychological feature therefore on deliver the goods"
+    publishedDateTime: 2021-01-25T03:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-2020-global-industry-trends-statistics-size-share-regional-analysis-by-key-players-2021-01-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine Learning Market to Witness Astonishing Growth with Key Players, Analysis with Impact of COVID-19, Analysis, Demand, Forecast 2025"
     excerpt: "Jan (The Expresswire) -- Global \"Machine Learning Market\"(2021-2026) status and position of worldwide andprovides pin-point analysis for"
     publishedDateTime: 2021-01-22T04:28:00Z

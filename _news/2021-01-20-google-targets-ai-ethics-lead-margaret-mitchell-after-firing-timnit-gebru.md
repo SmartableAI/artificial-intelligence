@@ -51,17 +51,6 @@ related:
       name: Daily Mail
       domain: dailymail.co.uk
     quality: 54
-  - title: "Google locks AI researcher Margaret Mitchell's computer access"
-    excerpt: "In a statement about AI researcher Margaret Mitchell, #Google said: \"Our systems detected that an account had exfiltrated thousands of files and shared them with multiple external accounts.\""
-    publishedDateTime: 2021-01-20T12:31:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/01/20/google-locks-ai-researchers-computer-access.html"
-    ampWebUrl: "https://www.bizjournals.com/sanjose/news/2021/01/20/google-locks-ai-researchers-computer-access.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2021/01/20/google-locks-ai-researchers-computer-access.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 39
 
 secured: "0iHmeOwGGdirfTy38JelsS30U8/u4rsRuxJQgjXVcMXis1/fXN/wChGxdSVGjTsHuw4QpBRRZsHFq3JTEw+7I4jFwXtI4jkEFMBdOo2rKZvunuzkOnWEJSDeIHqZ3IVmMl1PpdiErsSW2r7uUnCcwnbJmSzYfQiNwlvCK8GGqAZea/cPoJ5iNstr/lHBNCzxeiZ8V6kz9vnR0XBrhb+V8s520JNTL1DjqFLXBOzDqiHNwiE62M9Tl+SYmF5JnhMjeLZtT+rNdu8BRUA2ZALo8vQ0+3bdjoCp6Vw7AZEFqRVvtHv6yUyuKYC2l/zWrbFf9VpYtQBGtLkONPAL/rzSik2ZboXdl7DjpA4e79zk9WtH+MCdEZ1Jp2jcN88uOhC1PLZaqiQ2APGEwC1imMbKi01OoKrlbw354ktXhLqZA96e+SjNS0wl1GancLYcnMaOdl6qaiwdXTgTQKj/AxbiLAqSw4peuDUxYnc8Op3gOMIkmY1tyeh/7C3+zzXfhXt0D2YIT76ReB32xUMVS2ngBg==;bHzurQel1vwJk7Zs+yHbpg=="
 ---

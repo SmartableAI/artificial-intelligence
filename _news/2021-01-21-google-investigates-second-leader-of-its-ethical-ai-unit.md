@@ -46,17 +46,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Google locks AI researcher Margaret Mitchell's computer access"
-    excerpt: "In a statement about AI researcher Margaret Mitchell, #Google said: \"Our systems detected that an account had exfiltrated thousands of files and shared them with multiple external accounts.\""
-    publishedDateTime: 2021-01-20T12:31:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/01/20/google-locks-ai-researchers-computer-access.html"
-    ampWebUrl: "https://www.bizjournals.com/sanjose/news/2021/01/20/google-locks-ai-researchers-computer-access.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2021/01/20/google-locks-ai-researchers-computer-access.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 39
 
 secured: "TVqF3XIIaN9Rfp24GYQqrKVLENjDlqBcHdk7KxnuedHroEtAjyeei+2ZC4c/booWUWkKWbPyGd0rq9T+YjWG/sjJT7MFoH2zU8mXHEq3acFzBVJquFCgVdUUUi7S6fmfjVMjTjcZOorNedXYa0J+ybsCB6zBcg+vwRcY8JOywQ79G5kg2R2g9/CUwHTNP0ltWqB+mJRhGGOgsrKkOxBzXANQErovOT8fNzhzimOP94jBqXA/NojkB7QPZlTd+3B2+Sf2bSWEmUoo4oJch8ecc8lXSeGtRj7ERNqsswmnlVonvaCx6psa0juQD9NVfyuoyr8asv3ADmVJKYKeJvR90bRlj1EelDsSt20T9oQUrqBnrs4/xUySJuCuzpFsvLfANXkuG3lEe1Bvq+GE1gjneylCfHpAsmJAFaeeSQeLlcQ3iEj8WMO/HSGIN8zq191bq1TCQWoqZBW6HLwh+xyfhV9Z5D7BwPxrxQCAimmI9q/vsljwausUlESutFOxELntDd+famR2EV6qKKUrA8I6lw==;EtcjSE41jt09IoFbk4yiaw=="
 ---

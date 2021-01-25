@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/2021/01/20/google-targets-ai-ethics-lead-m
 webUrl: "https://www.m-mitchell.com/"
 type: article
 quality: 163
-heat: 193
+heat: 183
 published: true
 
 provider:
@@ -50,17 +50,6 @@ related:
       name: Daily Mail
       domain: dailymail.co.uk
     quality: 54
-  - title: "Google locks AI researcher Margaret Mitchell's computer access"
-    excerpt: "In a statement about AI researcher Margaret Mitchell, #Google said: \"Our systems detected that an account had exfiltrated thousands of files and shared them with multiple external accounts.\""
-    publishedDateTime: 2021-01-20T12:31:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/01/20/google-locks-ai-researchers-computer-access.html"
-    ampWebUrl: "https://www.bizjournals.com/sanjose/news/2021/01/20/google-locks-ai-researchers-computer-access.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2021/01/20/google-locks-ai-researchers-computer-access.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 39
 
 secured: "qqfiMI0b2rIgUQck/icEghUz2ivPJg+7xxXUapf4zTn9QqZDHRlyNU1gZt50jNWhfWfKu/WPwuMl3KUKRhXcBvJkRJ0O89AJ/HKkPlbHw/4P3ZDa5cAbyIEb5hPaKrFi/A8DLpmq2DcxKw8qhRlThAKMqn0D1cndvatHkpLFVsUMOIuOKCr/kvaEWZrVdWMMcPKQbOynE8ACy5AZid+JRRuEyJPYnmN0jGyCW69s+BbWR6UKAlVf0VA0vq9h2GUaD11HHXm0FHRJ8IgF3fEdvApLaChkEaLk/JnuQnIgh8fRT8DfRMAIp+ZN06BwKRdat8RFtTHwNoggaqjCSOkoVBnlO3eWmukJPcKPhjP5+D1/jv8RuUs+M6O+Mo+dZqrsEN/Dl4JntbMWP11sXw4ecSqx8egjck2+eVWMAjiglkvxkNQrCiEDRVSTA0scHMSk1oDqVComgs3Xam4LdxB5hZWIMWN+KzwNHJrmnc4VP5gs9R5OS65E3jgOlDm+aQy0bqVWg4AwKLaGJTP/q2peekWFmb4JQQ+5Mg+tvil6Oek=;PZBUzI0uSGo4PhClvvXJuQ=="
 ---

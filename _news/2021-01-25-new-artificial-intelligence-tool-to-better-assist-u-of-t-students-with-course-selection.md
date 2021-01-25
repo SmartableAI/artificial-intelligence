@@ -24,19 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Engineering course teaches students to harness power of AI for good"
-    excerpt: "Computer scientist Mathias Unberath teaches the fundamentals of artificial intelligence and ethical approaches to using the powerful technology"
-    publishedDateTime: 2021-01-22T19:52:00Z
-    webUrl: "https://hub.jhu.edu/2021/01/22/ethical-artificial-intelligence-deep-fakes/"
+  - title: "Amazon plans to overhaul film age classification with new AI system"
+    excerpt: "Amazon is exploring developing an artificial intelligence (AI) system that automatically assigns age ratings to films and television shows, eliminating the need for human checks. A patent application filed by the US e-commerce business this month shows that Amazon has invented a way to scan films using a form of AI that could explain to people about to stream a film how much sexual content,"
+    publishedDateTime: 2021-01-24T06:00:00Z
+    webUrl: "https://www.telegraph.co.uk/technology/2021/01/24/amazon-plans-overhaul-film-age-classification-new-ai-system/"
+    ampWebUrl: "https://www.telegraph.co.uk/technology/2021/01/24/amazon-plans-overhaul-film-age-classification-new-ai-system/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2021/01/24/amazon-plans-overhaul-film-age-classification-new-ai-system/amp/"
     type: article
     provider:
-      name: HUB
-      domain: jhu.edu
-    quality: 39
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 59
     images:
-      - url: "https://api.hub.jhu.edu/factory/sites/default/files/styles/soft_crop_2400/public/Artificial_intelligence_012221.jpg?itok=AI9ZgdXv"
-        width: 2400
-        height: 1280
+      - url: "https://www.telegraph.co.uk/content/dam/technology/2020/10/09/TELEMMGLPICT000195076254_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg"
+        width: 2501
+        height: 1563
         isCached: true
 
 secured: "0STrcfcw33o2wPnIEUMN+JZMikvvtNSRkQSvvLNStLSiMRmbmOtDd7DSjWhk9T68e8/TqK1PLU3c6Oi49KBvAEn5wkNneQbCBHODAxILafUVomnEIendq7wE4U5dRUswlG1HL3lzGR88IkiNjpVAR9cfocmxUQM0uXGjd/KycY6Wp/ZjgY1hEjUSjgvx0A/SmSq1WSmiwfLRsxqlURg6oo+PDkgRdanJqCF5+HqOaJeO2hZO7zovGRnTComXU1aIXsFVt7jBy0cGU799syyC+HiQEJQqd1Er8myCRbU0Od7/+ChPcHjDH10/G9BA/POi3Ir+S5jHHB26qTlzyWJTKc+0RsM6fjMjAbNfKCkNbZc=;kp+6C3pasmdLA+Qa0LOEnQ=="

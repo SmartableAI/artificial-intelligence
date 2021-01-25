@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AlphaICs raises $8 million for AI-at-the-edge processors"
-    excerpt: "AlphaICs has raised $8 million in funding for artificial intelligence processors for edge computing applications such as cars and wearables."
-    publishedDateTime: 2021-01-20T12:03:00Z
-    webUrl: "https://venturebeat.com/2021/01/20/alphaics-raises-8-million-for-ai-at-the-edge-processors/"
-    ampWebUrl: "https://venturebeat.com/2021/01/20/alphaics-raises-8-million-for-ai-at-the-edge-processors/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/20/alphaics-raises-8-million-for-ai-at-the-edge-processors/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/01/alpha-2.jpg?w=1200&strip=all"
-        width: 1190
-        height: 686
-        isCached: true
   - title: "AI-startup AlphaICs raises $8 million in Series B funding"
     excerpt: "The funding was led by Endiya Partners and Emerald Technology Ventures.The startup will use the funds to develop the software stack and to build system solutions for its target markets"
     publishedDateTime: 2021-01-20T14:09:00Z
@@ -58,6 +42,17 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "India’s health technology startup MFine raises $ 16 million in latest funding round led by Heritas Capital"
+    excerpt: "India's health technology startup MFine raises $ 16 million in latest funding round led by Heritas Capital Health tech AI startup MFine"
+    publishedDateTime: 2021-01-21T05:14:00Z
+    webUrl: "https://www.compsmag.com/news/technology/indias-health-technology-startup-mfine-raises-16-million-in-latest-funding-round-led-by-heritas-capital/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/indias-health-technology-startup-mfine-raises-16-million-in-latest-funding-round-led-by-heritas-capital/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/indias-health-technology-startup-mfine-raises-16-million-in-latest-funding-round-led-by-heritas-capital/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 19
 
 secured: "8+N+WuSh2twSvMq19CaBkdJVbwWYhb6CSCBjtQS+7FzelpAWWDcnW9C4P3WCcUfFuouiEvGqy+IQ4PiTke5ItT2lifUD8vt2QjDZQQ7MHuNOUN5apNswg0rMPrOVm7Ij0j/Uv67+B7rwl9qR6m9WQMasEAgcXx9g+RbSLsm2wyy1GnIarqjq+kZ4p0I/Ql9vnH0dTY+7w6ioX6kTgnWYwcmV72NM47KpXpLPo2OkDsyiAJmKRKJGn/JXIud25tkAMdyDl3kqqTLjz01mbrP3hHPbehuBwnZpDP/6qwzIkw0no0Rs2nKlYDuHuxBCletzABwgmM7jlQOk+LnAfztikj2NGI+9CALhUPtDfENGTjZHcZ8RzmxAPtYXiiB3RdLx1rVxPzCOu5WDiTVfYIZg93OWFN+ZgZrlJnwp2dtRJ7UB/UcADPRzMFn3JeqnciubtiUQGWULJ7zy6MN8qfv7fNWpX+AanKD9cjaFYLqzXIDsXUT8SpmejX4QlqGmteckxLjjVLCBDlkx81RSWWSTrA==;DlfKeOpXB26QU7JmVG7g5Q=="
 ---
