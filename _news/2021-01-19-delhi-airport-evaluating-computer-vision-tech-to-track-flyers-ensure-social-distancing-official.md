@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Delhi airport evaluating 'computer vision' tech to track flyers, ensure social distancing: Official"
-excerpt: "Delhi airport, which is also led by a GMR group-headed consortium, installed the 'Xovis' passenger tracking system at Terminal 3 last month"
-publishedDateTime: 2021-01-19T11:31:00Z
-originalUrl: "https://www.livemint.com/companies/news/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official-11611054333198.html"
-webUrl: "https://www.livemint.com/companies/news/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official-11611054333198.html"
-ampWebUrl: "https://www.livemint.com/companies/news/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official/amp-11611054333198.html"
-cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official/amp-11611054333198.html"
+excerpt: "Delhi airport is evaluating a 'computer vision' technology to track passengers, reduce waiting time and ensure social distancing at its terminals, a t"
+publishedDateTime: 2021-01-19T11:57:00Z
+originalUrl: "https://timesofindia.indiatimes.com/city/delhi/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official/articleshow/80347698.cms"
+webUrl: "https://timesofindia.indiatimes.com/city/delhi/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official/articleshow/80347698.cms"
+ampWebUrl: "https://m.timesofindia.com/city/delhi/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official/amp_articleshow/80347698.cms"
+cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/delhi/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official/amp_articleshow/80347698.cms"
 type: article
 
 provider:
-  name: Mint
-  domain: livemint.com
+  name: India Times
+  domain: indiatimes.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://images.livemint.com/img/2021/01/19/600x338/PTI23-12-2020_000268B_1611054870782_1611054896014.jpg"
-    width: 600
-    height: 338
+  - url: "https://static.toiimg.com/photo/msid-80144619,width-242,height-136/80144619.jpg"
+    width: 620
+    height: 413
     isCached: true
 
-secured: "CUxl+V8EfmNzY0Wk9/hvVPBD8ol6gh/gYSUsbHRLUpsabyUuVQJBRIBtWHpC7qarO/ZZjSXU4znaoftzH5e75+PgsQgBFxIDISQWCK0QPYBVpoNGjHRF5a/9/a4RGkagU7Z0EdrIK/C3C2jJICiDilFiP3c4CeNqtCx+QrWxPyC5xz64AxUx2RfJM3vOJtuMV3OJyfYxIA5u6UpHLenhAxYSNnp0sJn7eI44AazeptqbtS9PoGPsft8lDwaxKCtmhuN5to1MZ472naL0gYa3QxYhis/R6FxH92fCJ6F7XRTOEVQg8C1Ie3qIg5d+rRVRW9mCJ9JSvhY9jqCUGC1kCrddH8Y9KSQO6J4C9nTUtrY=;3+SWQtU+R0YinpTnlMlJBw=="
+secured: "7PheAr5sXvq/tqc/W9Cz6X/j2CPmuQv8x/0nTAhEv1udd2jJTnQc6DQhXOzmG1MMs0z+UGegIqpoOEm3+ZNVwsolHg8Z0ck/DEd1ObGYsaE1UFgImXqI1lpAIxcLxrCviHNW1ujhRt3qVLQFGRAiXjsCCnWqEucbAM/H6xMz5HgfQUswmXNhzR14VAS3Ac7Af6b0TMCCWy1onOafP5sQ2BybP4ZR/jOdrvPDmclhvOiU38qDco4tov1HTEU4QoIZPKyoVY/zwjMZn63bJ9m1OQSbR/5XPOE8HJPComiCPM/aPFpcRhOCQWnoWkdtWns265nTYWoC4eZGqacfzP/ONYeB4jof6h6pBZQiYtCNuA0=;joqvp8IgAbRvf/GhFLIxkQ=="
 ---
 

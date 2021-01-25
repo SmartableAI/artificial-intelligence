@@ -6,7 +6,7 @@ publishedDateTime: 2021-01-25T03:51:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2020-global-industry-trends-statistics-size-share-regional-analysis-by-key-players-2021-01-24"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2020-global-industry-trends-statistics-size-share-regional-analysis-by-key-players-2021-01-24"
 type: article
-quality: 46
+quality: 48
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -38,20 +39,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 86
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Machine Learning Market Global Industry Trends, Share, Size and Forecast Report"
-    excerpt: "Machine Learning Market Opportunities, Size, Share, Emerging Trends, Technological Innovation and Forecasts \"The report on the global machine learning market provides qualitative and quantitative analysis for the period from 2018 to 2026."
-    publishedDateTime: 2021-01-20T14:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-global-industry-trends-share-size-and-forecast-report-2021-01-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -182,6 +169,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) Hardware Market to record 37.5% CAGR through 2027"
+    excerpt: "Global Artificial Intelligence (AI) Hardware Market Report from its database. The report provides study with in-depth overview, describing about the Product, Size, Share, and Industry Scope and elaborates market outlook and status to 2027."
+    publishedDateTime: 2021-01-20T15:35:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/137201/artificial-intelligence-ai-hardware-market-to/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 30
   - title: "Global Data Center Accelerator Market Size 2021 Research Findings, Market Growth Factors Analysis and Forecasts – 2026"
     excerpt: "In 2021 , Data Center Accelerator Market :- Modern data centers are being transformed to increase networking bandwidth"
     publishedDateTime: 2021-01-21T04:15:00Z

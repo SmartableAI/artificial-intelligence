@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-25-hearing-aids-now-come-with-artificial-intelligence-what-does-that-mean.md",
+      "title": "Hearing aids now come with artificial intelligence. What does that mean?",
+      "excerpt": "Premium hearing aids may use artificial intelligence like machine learning and deep neural networks to help process sound. Learn why this is a significant improvement for people with hearing loss.",
+      "sourceUrl": null,
+      "webUrl": "https://www.healthyhearing.com/report/53168-Hearing-aids-artificial-intelligence-deep-learning-oticon",
+      "originalUrl": "https://www.healthyhearing.com/report/53168-Hearing-aids-artificial-intelligence-deep-learning-oticon",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.healthyhearing.com/uploads/images/ai-hearing-aids-hh19-fb.png",
+          "width": 800,
+          "height": 418,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-24T22:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Unitron Hearing Aids",
+        "domain": "healthyhearing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-01-23-100-years-later-the-dystopian-origin-of-the-word-robot-still-rings-true.md",
       "title": "100 years later, the dystopian origin of the word ‘robot’ still rings true",
       "excerpt": "In that same interview, Čapek reflected on the origin of one of the play’s characters: The old inventor, Mr. Rossum (whose name translated into English signifies “Mr. Intellectual” or “Mr. Brain”), is a typical representative of the scientific materialism of the last [nineteenth] century.",
@@ -1332,49 +1376,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-watch-samsungs-clever-home-robot-lay-the-table-and-pour-wine.md",
-      "title": "Watch Samsung’s clever home robot lay the table and pour wine",
-      "excerpt": "Meet Bot Handy, Samsung's work-in-progress home robot that can load a dishwasher, lay the table, and perhaps most importantly, pour a glass of wine.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/news/watch-samsungs-clever-home-robot-lay-the-table-and-pour-wine/",
-      "originalUrl": "https://www.digitaltrends.com/news/watch-samsungs-clever-home-robot-lay-the-table-and-pour-wine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/news/watch-samsungs-clever-home-robot-lay-the-table-and-pour-wine/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/watch-samsungs-clever-home-robot-lay-the-table-and-pour-wine/?amp",
-      "publishedDateTime": "2021-01-11T19:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

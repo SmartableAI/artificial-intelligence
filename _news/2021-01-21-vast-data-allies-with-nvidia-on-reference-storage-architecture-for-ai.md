@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/21/vast-data-allies-with-nvidia-on-r
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/21/vast-data-allies-with-nvidia-on-reference-storage-architecture-for-ai/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "AMAX Accelerates Next-Gen AI Computing With NVIDIA A100 GPU Test Drive Program"
-    excerpt: "AMAX ’s HPC and AI Solutions Group announced the launch of its NVIDIA A100 GPU Test Drive program for customers to accelerate their most demanding analytics, high-performance computing (HPC), inference,"
-    publishedDateTime: 2021-01-20T14:33:00Z
-    webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-data-storage-d0c5c4e9b24d538fcdd7262d3e7e8839"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 50
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "AMAX Accelerates Next-gen AI Computing with NVIDIA A100 GPU Test Drive Program"
     excerpt: "AMAX ’s HPC and AI Solutions Group announced the launch of its NVIDIA A100 GPU Test Drive program for customers to"
     publishedDateTime: 2021-01-21T15:39:00Z

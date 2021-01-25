@@ -9,8 +9,8 @@ ampWebUrl: "https://www.telegraph.co.uk/technology/2021/01/24/amazon-plans-overh
 cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2021/01/24/amazon-plans-overhaul-film-age-classification-new-ai-system/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Daily Telegraph
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "The Promise of Artificial Intelligence in Precision Medication Dosing"
+    excerpt: "The most compelling approach to solving this important problem to date is with the application of artificial intelligence to enable precision dosing. Precision dosing is an umbrella term that refers to the process of transforming a “one-size-fits-all ..."
+    publishedDateTime: 2021-01-22T16:11:00Z
+    webUrl: "https://www.analyticsinsight.net/the-promise-of-artificial-intelligence-in-precision-medication-dosing/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/Precision-Dosing.jpg"
+        width: 960
+        height: 540
+        isCached: true
   - title: "New artificial intelligence tool to better assist U of T students with course selection"
     excerpt: "The Centre for Analytics and Artificial Intelligence Engineering (CARTE) has created an in-development artificial intelligence (AI) tool named Education Pathways to help U of T students with course selection."
     publishedDateTime: 2021-01-25T02:40:00Z
@@ -42,6 +56,6 @@ related:
         height: 720
         isCached: true
 
-secured: "hp3b65BwKgzurHiiaqksaJ4Xl3brtuO6cY4xm7IsxOdxy/pV+8+9BZqy5Arwh4Y1y2CELJHQWFDvJNmilx1jmHf/HFDwl1tfejInLKpDu3x+Q3bI211BpERf7TIgQnEqdnbz/42ExnP0+sUZz8xbTWxImKEtNWb7dZbl9za7zrXnHIApwOROX33EGHpSx7b8R8mr0/6pJEoIVZDyGT/Dna6YtMDbAUneOs/InaaV4T20rP5j2xJi+OihKTHx1A/oijtMGsX6Cf57holRLzglkbO3VP7vrEryAnG6Hv2ApCHx/dIVX1ghNz/PTEL1i906QwefMP4vksbjpUMvPWMfrMIMZenv9hSYD/n+uGcmqo4=;93akwR6u73zB6KCVXUsPEw=="
+secured: "GTz4XCum5FDN+1xBYFugs4KUpHOIim4uO/tY6G5gSzh3qx+B2eV3688EMw/RS9B8nEQUAzFKbMKWISv18A1WqF0jGAXNhMC2j7kdEPhKWL3+p0ZBym2J7ZRBzsqYBkhVliWX9XV1cbr1mzhep9sU/cVWGbwnf1EZ++0KJgSC+qZyFjA8PbRNeKpxEV20QjBXsvRncuQ4dV3MoJlmkiBICKTV9BnGTcdM7USgAPCCNns3+NaL7os4LwsnnwP2jK/X4uCPv2HiP36UXGQj+BwbKjmZQCiamUN1WVPk2UdjOh4/eS8tFkUGqlZsiSjb3li0x2h/UwSgn7xFaj6L4upAfgYz6VmvioWMGgnvIYZFGKqCLlhivD/4ZLPOeQQTG6ovSYbI/rBfsnK0e3NVSMJcRePtIAkcCqCxX1nm5tdO2yrbQH95QQ2DEtLdwBT98aUJCvBIFuiiEYTbVEi3p2umMPYUoL9e3oqGozFDvcyS26Ciog44qo5UfTOgrBxJZsTve/dSKcvJUYXLNaH1ZNm00A==;iAEU/IZBxPyGrvGTOd9NvQ=="
 ---
 

@@ -41,17 +41,6 @@ related:
         width: 4393
         height: 2928
         isCached: true
-  - title: "Trump Pardons Former Google Self-Driving Car Engineer Levandowski"
-    excerpt: "U.S. President Donald Trump said on Wednesday he had given a full pardon to a former Google engineer sentenced for stealing a trade secret on self-driving cars months before he briefly headed Uber Technologies Inc's rival unit."
-    publishedDateTime: 2021-01-20T15:26:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-20/trump-pardons-former-google-engineer-anthony-levandowski"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-20/trump-pardons-former-google-engineer-anthony-levandowski?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-20/trump-pardons-former-google-engineer-anthony-levandowski?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 54
   - title: "Trump Pardons Levandowski, Who Stole Self-Driving Truck Trade Secrets"
     excerpt: "The self-driving truck entrepreneur who committed what one judge called the 'biggest trade secret crime I have ever seen” will avoid his 18-month prison sentence thanks to a last-minute pardon from President Trump."
     publishedDateTime: 2021-01-20T16:50:00Z

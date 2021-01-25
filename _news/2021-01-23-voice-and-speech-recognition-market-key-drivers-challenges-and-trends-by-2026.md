@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recogni
 webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-key-drivers-challenges-and-trends-by-2026-2021-01-22"
 type: article
 quality: 65
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: MarketWatch
@@ -27,22 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Cleaning Robot Market Covid-19 Impact Challenges, Key Vendors, Drivers, Trends and Forecast"
-    excerpt: "Top Boosters and Key Deterrents . Since the COVID-19 outbreak and the rapid spread of the pandemic, cleanliness has become a major focus worldwide. The adoption of cleaning robots"
-    publishedDateTime: 2021-01-20T13:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cleaning-robot-market-covid-19-impact-challenges-key-vendors-drivers-trends-and-forecast-2021-01-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "Pbhh/tT7H0ZoiqSEAoGp5Ht8mlFKGDNh1RN/DDqx+VE26iCuahWIBA1N4vMXQ+2SGmtQPDhhV1YbqXy6bdadWlPUrkK4f1yAJ2L0d7670XHYGYPnekwlS5AYmz6rWOSDv7g7VHOuDUGK6kNTAz63G8akjtDis8gHp716RQ81wMWFcjweQJk1fqjhri0du3GDEltmYVaCUskNeWKHDlwzJnNsiwKJm72bLsrl0b0W52+wGIl7xYYfiXZqSbQXwkTYlWdTROusSxytX1fBZAtpuYal8IQSRDwZTmLOu0WjZT8aLdKE8bNivHpImTpNGzpxKpxOaJs8Mwdzxzb0WFv07/hE7j96jhdGMXhRvtCH3kw=;IOH3BBUEFjHiFX3gapvEfA=="
 ---

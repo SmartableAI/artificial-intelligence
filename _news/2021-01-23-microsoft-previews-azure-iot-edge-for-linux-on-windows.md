@@ -68,17 +68,6 @@ related:
         width: 1200
         height: 601
         isCached: true
-  - title: "General Motors (GM), Microsoft Ally on Driverless Technology"
-    excerpt: "General Motors GM recently inked a long-term strategic relationship with Microsoft MSFT for its Cruise autonomous driving venture. The automaker will join forces with the tech giant to merge software and hardware engineering superiority,"
-    publishedDateTime: 2021-01-20T13:04:00Z
-    webUrl: "https://www.nasdaq.com/articles/general-motors-gm-microsoft-ally-on-driverless-technology-2021-01-20"
-    ampWebUrl: "https://www.nasdaq.com/articles/general-motors-gm-microsoft-ally-on-driverless-technology-2021-01-20?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/general-motors-gm-microsoft-ally-on-driverless-technology-2021-01-20?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 86
   - title: "Review: Microsoft Azure AI and Machine Learning aims for the enterprise"
     excerpt: "Microsoft Azure combines a wide range of cognitive services and a solid platform for machine learning that supports automated ML, no-code/low-code ML, and Python-based notebooks."
     publishedDateTime: 2021-01-21T05:29:00Z
@@ -171,20 +160,6 @@ related:
         width: 1440
         height: 810
         isCached: true
-  - title: "Nextech AR Integrates Microsoft Azure Cloud Computing Platform"
-    excerpt: "Azure, Microsoft’s cloud, and edge computing platform is the gold standard. Nextech AR will enter Microsoft’s Co-sell program, opening additional opportunities to extend the reach of Nextech products and create new customer connections."
-    publishedDateTime: 2021-01-20T13:11:00Z
-    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-virtual-reality-technology-products-and-services-cloud-computing-73b4c77f87f8708468bd2b0f4ab0fb69"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 54
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Ooredoo provides managed services for Microsoft Azure"
     excerpt: "Ooredoo Qatar, a Microsoft Gold-certified partner, has signed a strategic partnership agreement with Wipro Limited, a leading global information technology, consulting, and business process services company"
     publishedDateTime: 2021-01-23T15:22:00Z
@@ -224,17 +199,6 @@ related:
       name: Windows
       domain: compsmag.com
     quality: 50
-  - title: "Microsoft Invests in GM’s Cruise Self-Driving Cars Unit, Big Time"
-    excerpt: "The software giant's cloud computing will help Cruise manage its forthcoming fleet of self-driving robo-taxis and delivery vans."
-    publishedDateTime: 2021-01-20T14:30:00Z
-    webUrl: "https://www.motortrend.com/news/microsoft-invests-gm-cruise-self-driving-car-division/"
-    ampWebUrl: "https://www.motortrend.com/news/microsoft-invests-gm-cruise-self-driving-car-division/amp/"
-    cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/microsoft-invests-gm-cruise-self-driving-car-division/amp/"
-    type: article
-    provider:
-      name: Motor Trend
-      domain: motortrend.com
-    quality: 41
   - title: "GM, Microsoft team up on self-driving vehicles"
     excerpt: "General Motors Co (GM) is teaming up with Microsoft Corp to accelerate its rollout of electric, self-driving vehicles. In the partnership announced on Tuesday, the companies said that Microsoft’s Azure cloud and edge computing platform would be used to “commercialize its unique autonomous vehicle solutions at scale."
     publishedDateTime: 2021-01-20T22:38:00Z

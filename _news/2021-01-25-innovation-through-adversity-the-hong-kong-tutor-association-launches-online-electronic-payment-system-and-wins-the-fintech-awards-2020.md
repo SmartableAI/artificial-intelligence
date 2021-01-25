@@ -9,7 +9,7 @@ ampWebUrl: "https://www.asiaone.com/business/innovation-through-adversity-hong-k
 cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/innovation-through-adversity-hong-kong-tutor-association-launches-online-electronic?amp"
 type: article
 quality: 12
-heat: -1
+heat: 12
 published: false
 
 provider:
@@ -25,36 +25,6 @@ images:
     width: 763
     height: 509
     isCached: true
-
-related:
-  - title: "Fintech Expands Data Services Through Acquisition of Aperity"
-    excerpt: "PRNewswire/ -- Financial Information Technologies, LLC (\"Fintech\" or \"the Company\"), the leading business solutions provider for the beverage"
-    publishedDateTime: 2021-01-20T14:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/fintech-expands-data-services-through-acquisition-of-aperity-301211182.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 24
-    images:
-      - url: "https://mma.prnewswire.com/media/562037/Fintech_logo_with_tm_dk_bl.jpg?p=facebook"
-        width: 1367
-        height: 716
-        isCached: true
-  - title: "Nottingham fintech firm makes second acquisition of 2021"
-    excerpt: "This is our second acquisition of 2021, accelerating our strategy of becoming the leading global provider of financial services software.” Fraser Hamilton, CEO of HubSolv, said: “The acquisition provides a great opportunity for HubSolv to accelerate product innovation and growth."
-    publishedDateTime: 2021-01-21T09:28:00Z
-    webUrl: "https://www.thebusinessdesk.com/eastmidlands/news/2044797-nottingham-fintech-firm-makes-second-acquisition-of-2021"
-    type: article
-    provider:
-      name: The UK
-      domain: thebusinessdesk.com
-    quality: 24
-    images:
-      - url: "https://www.thebusinessdesk.com/_files/images/jan_21/ColinBrown_CEO_Aryza.jpg"
-        width: 898
-        height: 813
-        isCached: true
 
 secured: "ffxdNBAeLhAYXbQTjfBqCYxgGud4TdMdW3PlJ3/5LUNAqFkjLqBcMaOTfX98BmHODtzNynmbpuQUx4ZAu+zp2mig4QlgVbPSGgoSRE902eEkNXIFKaBPHwOKXf20Fdi9tKMLIZ9kslXgsopUSV/PeNwk/jg3+S33Ryg6GI8saidO/JDiQn8GvtG9lhwmv+W8fcdS7pVR29+orgLIpY1lCXnwRAzS7vpGkE5JjVRAL+bEzi6qsPfQHNG7hykctj8tIJ9b55BRN0iWiqpgNoswstcfCPkJ777uPu6DkISomUNWKqHDQHsCZK0HSLO9yS3XaxweiRsArteG/ofh54Dg9qcIgsuRY7q3wKJJKzgZhW0IKsPxWqF7TVEasryHGUnUjcT8wRs6MoloH2Ne085uZdKZErQx/6t8VokshOD+u4Te65IfpsJB5xCJsUV0j7mQZuavKTMn7rciaNlIhQQSXsRcp0AbKZjS6twiXjH0zgVhZRwGvbnGm3Q9sDFnz//LJry96l4YPbV1hA7rDkw9aw==;Hb/MFmO9805NfTzNh8BK6w=="
 ---

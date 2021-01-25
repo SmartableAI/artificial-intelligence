@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "AMAX Accelerates Next-Gen AI Computing With NVIDIA A100 GPU Test Drive Program"
-    excerpt: "AMAX ’s HPC and AI Solutions Group announced the launch of its NVIDIA A100 GPU Test Drive program for customers to accelerate their most demanding analytics, high-performance computing (HPC), inference,"
-    publishedDateTime: 2021-01-20T14:33:00Z
-    webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-data-storage-d0c5c4e9b24d538fcdd7262d3e7e8839"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 50
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "VAST Data Unveils Joint Reference Architecture with NVIDIA for Large-scale AI Workloads"
     excerpt: "VAST Data, a storage company, today announced a new reference architecture based on NVIDIA DGX A100 systems and VAST Data’s"
     publishedDateTime: 2021-01-22T04:30:00Z

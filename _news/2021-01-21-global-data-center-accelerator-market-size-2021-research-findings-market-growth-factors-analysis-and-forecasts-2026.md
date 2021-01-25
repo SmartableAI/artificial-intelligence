@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning Market Global Industry Trends, Share, Size and Forecast Report"
-    excerpt: "Machine Learning Market Opportunities, Size, Share, Emerging Trends, Technological Innovation and Forecasts \"The report on the global machine learning market provides qualitative and quantitative analysis for the period from 2018 to 2026."
-    publishedDateTime: 2021-01-20T14:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-global-industry-trends-share-size-and-forecast-report-2021-01-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Market 2021 Share, Size, Production, Sales, Supply, Demand, Analysis and Forecast to 2026"
     excerpt: "Jan (The Expresswire) -- Global “Artificial Intelligence Market” research report contains in depth information of industry by size,"
     publishedDateTime: 2021-01-21T03:46:00Z
@@ -121,7 +107,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 46
+    quality: 48
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -196,6 +182,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) Hardware Market to record 37.5% CAGR through 2027"
+    excerpt: "Global Artificial Intelligence (AI) Hardware Market Report from its database. The report provides study with in-depth overview, describing about the Product, Size, Share, and Industry Scope and elaborates market outlook and status to 2027."
+    publishedDateTime: 2021-01-20T15:35:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/137201/artificial-intelligence-ai-hardware-market-to/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 30
   - title: "Voice Recognition Software Market Share 2021 Top Key Players, Analysis, Revenue, Price, Size, Growth Rate, Forecast by 2026"
     excerpt: "Global “ Voice Recognition Software Market ” research report contains in depth information of industry by size, major manufacturers, growth rate, drivers and challenges, industry trends, and their impact on the market till the forecast year 2026."
     publishedDateTime: 2021-01-21T03:52:00Z

@@ -40,6 +40,20 @@ related:
         width: 2501
         height: 1563
         isCached: true
+  - title: "The Promise of Artificial Intelligence in Precision Medication Dosing"
+    excerpt: "The most compelling approach to solving this important problem to date is with the application of artificial intelligence to enable precision dosing. Precision dosing is an umbrella term that refers to the process of transforming a “one-size-fits-all ..."
+    publishedDateTime: 2021-01-22T16:11:00Z
+    webUrl: "https://www.analyticsinsight.net/the-promise-of-artificial-intelligence-in-precision-medication-dosing/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/Precision-Dosing.jpg"
+        width: 960
+        height: 540
+        isCached: true
 
 secured: "0STrcfcw33o2wPnIEUMN+JZMikvvtNSRkQSvvLNStLSiMRmbmOtDd7DSjWhk9T68e8/TqK1PLU3c6Oi49KBvAEn5wkNneQbCBHODAxILafUVomnEIendq7wE4U5dRUswlG1HL3lzGR88IkiNjpVAR9cfocmxUQM0uXGjd/KycY6Wp/ZjgY1hEjUSjgvx0A/SmSq1WSmiwfLRsxqlURg6oo+PDkgRdanJqCF5+HqOaJeO2hZO7zovGRnTComXU1aIXsFVt7jBy0cGU799syyC+HiQEJQqd1Er8myCRbU0Od7/+ChPcHjDH10/G9BA/POi3Ir+S5jHHB26qTlzyWJTKc+0RsM6fjMjAbNfKCkNbZc=;kp+6C3pasmdLA+Qa0LOEnQ=="
 ---

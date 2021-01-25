@@ -41,17 +41,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Facebook Improves Photo Experience For The Blind, Visually Impaired"
-    excerpt: "Facebook said it has launched an improved version of its automatic alternative text or AAT feature to improve photo descriptions for its users who are blind or visually impaired. AAT utilizes object recognition to generate descriptions of photos on demand so that blind or visually impaired,"
-    publishedDateTime: 2021-01-20T14:21:00Z
-    webUrl: "https://www.nasdaq.com/articles/facebook-improves-photo-experience-for-the-blind-visually-impaired-2021-01-20"
-    ampWebUrl: "https://www.nasdaq.com/articles/facebook-improves-photo-experience-for-the-blind-visually-impaired-2021-01-20?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/facebook-improves-photo-experience-for-the-blind-visually-impaired-2021-01-20?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
   - title: "Good News for Visually Impaired: Facebook can Describe Photos Better for You"
     excerpt: "Facebook announced new improvements in its artificial intelligence (AI) technology. Facebook can now generate descriptions of photos posted on its platforms including Instagram for the visually-impaired users."
     publishedDateTime: 2021-01-21T08:08:00Z

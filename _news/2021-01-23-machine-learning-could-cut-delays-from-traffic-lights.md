@@ -7,7 +7,7 @@ originalUrl: "https://gcn.com/articles/2021/01/22/ml-traffic-signals.aspx"
 webUrl: "https://gcn.com/articles/2021/01/22/ml-traffic-signals.aspx"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 760
     height: 368
     isCached: true
-
-related:
-  - title: "Machine learning could cut delays from traffic lights"
-    excerpt: "Researchers have designed a new system that uses machine learning to improve the flow of vehicles at traffic lights."
-    publishedDateTime: 2021-01-20T14:20:00Z
-    webUrl: "https://www.futurity.org/traffic-lights-machine-learning-2503962-2/"
-    type: article
-    provider:
-      name: Futurity News
-      domain: futurity.org
-    quality: 39
-    images:
-      - url: "https://www.futurity.org/wp/wp-content/uploads/2021/01/traffic_lights_machine_learning_1600.jpg"
-        width: 1600
-        height: 915
-        isCached: true
 
 secured: "ocfDQSYylbuzNh2E/IxPgtMvusphDQkV3+EO21/qcxf4MjWkBYANubPDDXiTIulzBMaReqJNSbrsgEJXTzUucfGx7SNQMX9VYTIm+yQBK+y64CGy/K85nT3mpJ0Y6+HUC8MoeA0GqubB/GD5p58M1TT15k2dK+kdaorUIScYevYrHhPCaRBKxDvcdsar4exj6Ejgth8TLvr3AtYW1hIRj2w7jwUNMMe5xgSG9Hn0ag1Yq71NcPtUy3TwsGZNhCW8kzsR+tSDRn/YhcZf7RcRecfwbBhj+2nwfv3AkT2a9iht+OajPJHNieMLBledGDVH1QrFe/3l/XQNQGVQ8goyqgTTUq0ObjVVzBb2xXZbXV0DK+PndPKOLNITEDOvIWdFeeTj5sE1G196dd4x5mzTBoo/485LMbKHfWmjs2WmBsdiyDakfWxFKhdFlH3hK+tO2H140leCQIq1eqjQOUPOV/HdF/bcxwKM0cjb/HKfUQDlYjKhk2PxJW4uAjQ7bhut/vOlaqAR6zGn+S+7T2criw==;NRKGRBfiYL1v9VMklsJniw=="
 ---
