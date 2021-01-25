@@ -6,8 +6,8 @@ publishedDateTime: 2021-01-25T13:17:00Z
 originalUrl: "https://www.geeky-gadgets.com/ai-camera-module-25-01-2021/"
 webUrl: "https://www.geeky-gadgets.com/ai-camera-module-25-01-2021/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/01/AI-camera-module.jpg"
@@ -24,6 +25,6 @@ images:
     height: 500
     isCached: true
 
-secured: "CZKwpVtnbd0yNs3jAFrEsLjCM2pbpPXbQLJMFbByqxJwZYLbdYPtlfB4wf4Jv0u/oG4q6hWgdGAgy1dvlorj+/il5xQi2LHWi6IOvXCk5wRNInvkyGAH/BpllxViwqjamo5dvCHYHwJTKTB4CtOHOBtwYIAn0hHGabLtuR1+HkjnopajbwHnWq8lzPW/adFUrFeILQuvt/M4O0njWzPSW2/aMX+DU1XkY+P1HkVFi/oBdC1mz/350LMHVT55lv5kVwbCayVwjvxRGU2GQksOhGlS4CNHdbcp2lDvwKFczS56zOsmItY8FhvTYl8705hPkKRbiUTlSgDQLE5ioo0cJQLEcD/KzViuo3acWSyPE+Y=;zeP4HXOo5ytEjdwesyOvfA=="
+secured: "TkbvC7yCuWSbRQ8R59OuJdWloxuYLQLAsrz2gQ6iSh07QgyMgsd80V+wi2y2sBvgKJghcwgBB+e7z5bQIKRSaWmvWbrommUqoH/0HA1C4Q818ly7Lpx9B4vOcCpxzz5FJvy9frid/6ZvgMDupgPQglfI2+EiQc8c9B9Gdb9MS6qTmX6ZfvXikU6MMSXn9awBkIAkGB9hUZZbofE4+KkLmXAQCtY6wRoSoDXS7KJeylyw63CEbiZFV6BRv9Dit0DFEi5sJlGRdqWPAJGhdClA9oN1zw8NWk/KMGgPNJRma/hQTokyitkbaqeX9TsuuN/H2XfeeulNEJ0YUyjyzZcyLUOcKeQwOz8wMRAQZcGVOOZmAkmzvO1Ky+7aK1yGCeTLLz05haRthF6xScij6sc27cUQeIP6Ix5a2QXM8EGQoxx6k3367ZjT1xap6FkbKRLA7L05GJJuCYwDtWXjmJ+CkYQ9G0CP0yEEIyssdfzzqPkZqUSZv5dgKGjW8eU2TUQM5j2vFE61bw0+dp/dIp+lXg==;edl6k/UZs7mptCw5KR8CeQ=="
 ---
 

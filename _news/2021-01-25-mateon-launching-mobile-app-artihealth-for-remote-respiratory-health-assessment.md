@@ -3,8 +3,8 @@ category: news
 title: "MATEON LAUNCHING MOBILE APP, ARTIHEALTH™, FOR REMOTE RESPIRATORY HEALTH ASSESSMENT"
 excerpt: "AGOURA HILLS, California, Jan. 25, 2021 (GLOBE NEWSWIRE) -- Mateon Therapeutics, Inc. (OTCQB:MATN) (“Mateon”), a leading developer of TGF-β therapeutics for oncology and infectious diseases, announced"
 publishedDateTime: 2021-01-25T12:00:00Z
-originalUrl: "https://omaha.com/business/consumer/article_cfc57f49-c967-5758-ac96-ee1d2d2ead45.html"
-webUrl: "https://omaha.com/business/consumer/article_cfc57f49-c967-5758-ac96-ee1d2d2ead45.html"
+originalUrl: "https://omaha.com/article_cfc57f49-c967-5758-ac96-ee1d2d2ead45.html"
+webUrl: "https://omaha.com/article_cfc57f49-c967-5758-ac96-ee1d2d2ead45.html"
 type: article
 quality: 18
 heat: 18
@@ -24,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "KnJIsJqEdI1v2ZCpfr1EXdqH6NX7/Y2D8IiiqtZvBDtXDnUncUpDOT1Xu+gwuoTUWKogV+rsOMO6M+lZlRSxvND/u8RT+ie4+2XwuDy+PfwAOhkEyOxd9BFCERnJnu7bAabNB5LwqAo5uc6QXA8RwztZpBNvS2ho34n0nDnhVvqzH9P4U5x037ZLEFJiVj87Xpy8RxK02H58h7Yt5AS8iElOLvafDhS+SAjS8cRPjP3yDy4fLC31oI6F3axOFB34qvkMJI7287vOZ2z9xMsZSUh7/Fj4pQegckT1/3dz6bUEItx6YK+j1pQgeAbmB+lEV77MXAa6Co7HMReZF2nqlxGrmHicD2nkQzHGtHhAfY0=;a0k3Gq85VqbLCfsHfu0fJw=="
+secured: "g2+wJoWaobSaWSQxlNk9Si4uUpmvDWmFYp2Hj0pxHAAoD1nnGpY6/2cCPpG5Uku6H8kh9xi48146sGsrl+e/bIqoyfbU3wzNVjSz+k8PP0H2no1fh/Na/RpXBo09l0LgDKnfWNPdaAe9+LKT4xDWrzzd7Ie4Qs7E7XaEkF6AIOeAuQiPboPVq8xnx2kQfXBdjFj7pPfKzG9epU1KYZOzmlBL4a/UrcjhgEmgIAZLOZSTvqiJjK71dymDU1d/QJZ4+N1w0TUNcX+3KpHvXUiJQb3QyaEudswwAnIVLEmXJjlrc0jr+SdpzDHe8blFM/dF5IZAUpYjX7AoSGZIkS08qtFLQtYrOv08+Q0AvCbYOhQ=;8A5J6eMNpEz5V8EdDK8WVg=="
 ---
 

@@ -3,10 +3,10 @@ category: news
 title: "Hyundai debuts DAL-e: your future customer service robot"
 excerpt: "Hyundai has introduced DAL-e, an automated robot the company hopes will serve humans in an \"intimate and personal way.\" DAL-e, short for \"Drive you, Assist you, Link with you-experience,\" is a compact robot measuring 1,"
 publishedDateTime: 2021-01-25T01:38:00Z
-originalUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/article/hyundai-debuts-dal-e-your-future-customer-service-robot/"
-webUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/article/hyundai-debuts-dal-e-your-future-customer-service-robot/"
-ampWebUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/hyundai-debuts-dal-e-your-future-customer-service-robot/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/hyundai-debuts-dal-e-your-future-customer-service-robot/"
+originalUrl: "https://www.zdnet.com/article/hyundai-debuts-dal-e-your-future-customer-service-robot/"
+webUrl: "https://www.zdnet.com/article/hyundai-debuts-dal-e-your-future-customer-service-robot/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/hyundai-debuts-dal-e-your-future-customer-service-robot/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/hyundai-debuts-dal-e-your-future-customer-service-robot/"
 type: article
 quality: 104
 heat: -1
@@ -78,6 +78,6 @@ related:
         height: 300
         isCached: true
 
-secured: "xbPLdpsQfHGPMcO9DaGIzxT07d8qVaVM1p+RuJyo/px5PKUbm6mv0fOB8ofb/D7s0+tV1RR7vtOOwPbavesIxAjQlfhjajqH9YpJFbYrNzY/XvAdqT8UasYfb7CdHuKGTD5oGktd4oWNvyDCQwuIdaLzP6l6bMthX2ZBkSs1RQQm/Rta6OLn2ERbwinvVLih5Ca3cPHl9ekCP9Tz/TYQGCDPImZQ1CD+9QqVxOfa/kKM+ghJutIYkLyTvsIzybjMXxnaRq1mP0C9j2vWh5V/Erw3b/2Blk3z5Ha+JxZvwqNFqL7MDladivdabxH7zdCK/inJTD/9Ycg/BsdR0HWJjBdbNhfdQ2aDSwuD8UHnEqc=;9m/ZyVRoxAXvrT1dctWHAA=="
+secured: "+V9eOA5SSqzexwPpMAr/BCgOqanHCG9w9b0aVErLOWUbOjiBo3EJqtpYeEOV/HDAqciKl10S2W913VpfRZSpVBzGfMv6ehhdh70GK74vHrgwsWwDbIp7iiiRVFYsSBGFPYCm9//PD1NcTwC3D/MU9e3joRZJ+c6rMGuk4gXl6alVHmQ/zlYud9jh5Ppe8mIb5Aewm6Lpk0qblnbl76KiF4IHjwC3ZOvJE831yodb4o/D0ft7/g+88SrSwrJ73srUk+laawPJqPdeQZKap2qM1fx77bGn05wduEgONVcIRSKgCUa94zUbpqWYqLFMkq1EfMUsjKBewDBpLw39J6MocBS1G/1obw2pFIJPsbR4t/Y=;FpKLN5WbCjz4NHsHh8nTGg=="
 ---
 

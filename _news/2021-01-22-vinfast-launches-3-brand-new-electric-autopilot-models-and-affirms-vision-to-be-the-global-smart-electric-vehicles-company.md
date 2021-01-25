@@ -41,6 +41,20 @@ related:
         width: 680
         height: 408
         isCached: true
+  - title: "Cruise self-driving cars headed to Japan"
+    excerpt: "Cruise self-driving car prototypes will start testing in Japan later in 2021 ahead of the launch of a fully automated taxi service."
+    publishedDateTime: 2021-01-22T14:45:00Z
+    webUrl: "https://www.motorauthority.com/news/1131026_cruise-self-driving-cars-headed-to-japan"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
+    images:
+      - url: "https://images.hgmsites.net/hug/cruise-self-driving-car-prototype_100777355_h.jpg"
+        width: 1920
+        height: 1189
+        isCached: true
 
 secured: "FCaVhXRVqKh4F64/1UwogQX0q1RaeaWHRsTqPiiOmmut9KS4IP7rpq3dy4xnts4QsNPWDUhP280pYEISxAuu/Z+ewN2KwJjBk1nvjJQ61zy3dDEwEQZyGm5aWghn+Y45KhZIt3xEmW4XbxJrWKu3xSvthwKNle5ZnSIjUz9I658YnLf+0CnQ6BmSD9UrXFvJO2YRJi8YA3mmuqpNuIQ1sMWoKpGCsyvg+uwic0PkFyEUD66t2wb//f7uOEuMaPiPiopD54yB3vayn4hWujZljXHFaCWQEovBVHAYNrQJ/zkclx2jirRcLG87+ksbfyBtVpVpxXEKHcB/KNaJBz/0QhZPhe3yWyoYedZ1EbQTgP0=;dr/cWrMn+axJkVKLFUuOtQ=="
 ---

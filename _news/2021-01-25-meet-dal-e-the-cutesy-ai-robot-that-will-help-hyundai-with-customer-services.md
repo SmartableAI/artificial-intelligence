@@ -44,9 +44,9 @@ related:
   - title: "Hyundai debuts DAL-e: your future customer service robot"
     excerpt: "Hyundai has introduced DAL-e, an automated robot the company hopes will serve humans in an \"intimate and personal way.\" DAL-e, short for \"Drive you, Assist you, Link with you-experience,\" is a compact robot measuring 1,"
     publishedDateTime: 2021-01-25T01:38:00Z
-    webUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/article/hyundai-debuts-dal-e-your-future-customer-service-robot/"
-    ampWebUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/hyundai-debuts-dal-e-your-future-customer-service-robot/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/hyundai-debuts-dal-e-your-future-customer-service-robot/"
+    webUrl: "https://www.zdnet.com/article/hyundai-debuts-dal-e-your-future-customer-service-robot/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/hyundai-debuts-dal-e-your-future-customer-service-robot/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/hyundai-debuts-dal-e-your-future-customer-service-robot/"
     type: article
     provider:
       name: ZDNet
@@ -74,6 +74,6 @@ related:
         height: 640
         isCached: true
 
-secured: "jJaAXtfEi2Eij5fQCUVJU6toowK6LRPX8Vc3pbXQt6pWvMLUEy/+irwmHiutuoGZOORAgBJQJR+Smmrbo26JssGjvDL+UCT+j84RUwLELqGF6hZ7N3U/zguFTWFOD1dMv0zvYJpxO2xegwdBBlYLcL/oTSmAyoUFJUlREatfZBWTLvcXw21lMAUivreZXZT6lIF8rJgHLRTvdaSUekz0IeIHPDkPy+31PtHoeJrGsAPLoAxMDE1tC/m7W/Qk5zxdJGyVbBtNnqxK0rrkd8z41OmFPkk8mytswRPdX4UsOp1/+oQdRbrZS34SDxzTsyWu7f6Ss7xAp1ga6/LAhKJbbcqistJZf7Y3QSs2gngja30=;0AiI2FY4VzGzmEQcvWDajQ=="
+secured: "7IYix93HK1Fkw0JzHi+Syyjx8E16w4Ap8CJCFrfLc5JDMdXcSZvdLMxjAJTiwhGDqzQTVGDBvFO9CfCUgsCUnKt/y31cKcRGD9UE7zbmS9lJbNfeGffisQYltRKN4/jLedLZResjtQzd38ydXxdMPmWPwhowaB56i3IDCyjcccaMoaFwZaTnZGWGkLZdNotT5zlxngAbB6UP1jP5JngQSsF5VeMK3mdNMZYVTAZe2+J0rdn2Qf9IPp2GCxtRvZyR7YjPZeAzPSzbApBL+3xBcvEcNlc5mM2h4ZRKFp+Hw8333e3I6Soy6Y5HYfHPVxuUq/F+be21gcai7JWcO5ePYyRFLXc/HZnmUiKSxbTyQeIplU1JxUzJWhW/HvSwOLqKAXzS1AgUE6010XeVKBMRTHRZM2M9/begFZgdrJruwVpMguHrkZ13Kku6hnzNZl1kb9mzXS1XfAvdwQY0LXWNm14ItVS4wuSZpD2aZMsrm8qGcZPFx1HzjO3079ht3ajVK5BxgS9XAn8Y7LCPxvpGeg==;HyKKuglmU7At9o5Moq/sJg=="
 ---
 

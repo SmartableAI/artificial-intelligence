@@ -93,6 +93,20 @@ related:
       name: CBS Local
       domain: cbslocal.com
     quality: 39
+  - title: "New advances in the detection of bias in face recognition"
+    excerpt: "A team from the Computer Vision Center CVC and the University of Barcelona has published the results of a study that evaluates the accuracy and bias in gender"
+    publishedDateTime: 2021-01-25T16:45:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/267641987/new-advances-in-the-detection-of-bias-in-face-recognition"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 39
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1611593005.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Proposed ban on facial recognition technology moves forward in Minneapolis"
     excerpt: "Minneapolis is one step closer to banning police and other city departments from using facial recognition technology."
     publishedDateTime: 2021-01-22T22:20:00Z

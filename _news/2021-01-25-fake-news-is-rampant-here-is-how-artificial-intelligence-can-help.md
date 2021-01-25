@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2021/01/25/fake-news-is-ram
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/01/25/fake-news-is-rampant-here-is-how-artificial-intelligence-can-help/amp/"
 type: article
 quality: 87
-heat: 128
+heat: 118
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "When a story is breaking, AI can help consumers identify fake news"
-    excerpt: "Warnings about misinformation are now regularly posted on Twitter, Facebook, and other social media platforms, but not all of these cautions are created equal. New research from Rensselaer Polytechnic Institute shows that artificial intelligence can help form accurate news assessments -- but only when a news story is first emerging."
-    publishedDateTime: 2021-01-21T00:00:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/01/210121150940.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
   - title: "When a Story is Breaking, AI Can Help Identify Fake News"
     excerpt: "Early intervention with tailored messaging may stop the spread of misinformation Screenshot of Twitter actions for"
     publishedDateTime: 2021-01-21T15:38:00Z

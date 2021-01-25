@@ -26,22 +26,45 @@ images:
     isCached: true
 
 related:
-  - title: "Shinan AI leader set to attract more investors"
-    excerpt: "Shinhan AI CEO Bae Jin-soo will place a focus on attracting more retail investors for its artificial intelligence (AI) platforms during his second term. The AI arm of Shinhan Financial Group was launched in 2019 under a group-wide vision of developing more accurate,"
-    publishedDateTime: 2021-01-25T07:32:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/biz/2021/01/175_303018.html"
-    ampWebUrl: "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=303018"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=303018"
+  - title: "US leading race in artificial intelligence, China rising: Survey"
+    excerpt: "The United States leads, with an overall score of 44.6 points on a 100-point scale, followed by China with 32 and the European Union with 23.3, the report based on 2020 data found"
+    publishedDateTime: 2021-01-25T06:03:00Z
+    webUrl: "https://www.monitor.co.ug/uganda/business/technology/us-leading-race-in-artificial-intelligence-china-rising-survey-3267846"
+    ampWebUrl: "https://www.monitor.co.ug/uganda/business/technology/us-leading-race-in-artificial-intelligence-china-rising-survey-3267846?view=htmlamp"
+    cdnAmpWebUrl: "https://www-monitor-co-ug.cdn.ampproject.org/c/s/www.monitor.co.ug/uganda/business/technology/us-leading-race-in-artificial-intelligence-china-rising-survey-3267846?view=htmlamp"
     type: article
     provider:
-      name: koreatimes.co.kr
-      domain: koreatimes.co.kr
-    quality: 57
+      name: Daily Monitor
+      domain: monitor.co.ug
+    quality: 59
     images:
-      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202101/b451cd3e554b45d887b1fcff5bf9fc5c.jpg"
-        width: 394
-        height: 489
+      - url: "https://www.monitor.co.ug/resource/blob/3267858/8e346f729e541dc25077188a88d66374/tech01pix-data.jpg"
+        width: 600
+        height: 400
         isCached: true
+  - title: "Credential Stuffing: AI’s Role in Slaying a Hydra"
+    excerpt: "Credential stuffing is a relatively inexpensive means of attack. But organizations trying to prevent breaches may do well to invest in AI against it."
+    publishedDateTime: 2021-01-25T13:02:00Z
+    webUrl: "https://securityintelligence.com/articles/ai-role-in-credential-stuffing/"
+    type: article
+    provider:
+      name: Hack
+      domain: securityintelligence.com
+    quality: 37
+    images:
+      - url: "https://securityintelligence.com/wp-content/uploads/2021/01/Credential-Stuffing-.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "US leads AI race with China close behind"
+    excerpt: "The US is leading rivals in development and use of artificial intelligence while China is rising quickly and European Union is lagging, a research report showed Monday. The study by the Information Technology and Innovation Foundation assessed AI using 30 separate metrics including human talent,"
+    publishedDateTime: 2021-01-25T06:45:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/business/2021/01/25/us-leads-ai-race-with-china-close-behind/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 19
 
 secured: "EXbF9cvj6Rv5gEoqdLubxhPZJXMjtm3Ytf0qKTcflpgg8kBo5AE8wURNT7kEhGi0H5xwY4PJLcdJ/Z0t7+f1Hhvt6Jf4rcBvgDFb/mLZSCLwEB9ifRqWhBSioY+X7PjUPpIqZOwLT3/gTU7ESgqBGCUfbqqMjr80fRBs59i+G7ozpZg3Y8RrFdIJRpB2944tWSwLl+x40wposBhMZig6Zf+mzq8tJj5H+sAqfXb/wghwqZ3DqN1/OvCLd2vAUjjEMK1SNITTrzQXSfzJSM233J1pxfQJfYva+aeEkqZe4p+C5AJR9WoNnW/2qJJfvpHgwYJCVYCYP0kpn+Yi6P7nI3BMCxDofa+WNIE/L4Yv+JQ=;efpT74OSjl9dE0f1Ntpxcw=="
 ---

@@ -34,9 +34,9 @@ related:
   - title: "Hyundai debuts DAL-e: your future customer service robot"
     excerpt: "Hyundai has introduced DAL-e, an automated robot the company hopes will serve humans in an \"intimate and personal way.\" DAL-e, short for \"Drive you, Assist you, Link with you-experience,\" is a compact robot measuring 1,"
     publishedDateTime: 2021-01-25T01:38:00Z
-    webUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/article/hyundai-debuts-dal-e-your-future-customer-service-robot/"
-    ampWebUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/hyundai-debuts-dal-e-your-future-customer-service-robot/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/hyundai-debuts-dal-e-your-future-customer-service-robot/"
+    webUrl: "https://www.zdnet.com/article/hyundai-debuts-dal-e-your-future-customer-service-robot/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/hyundai-debuts-dal-e-your-future-customer-service-robot/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/hyundai-debuts-dal-e-your-future-customer-service-robot/"
     type: article
     provider:
       name: ZDNet

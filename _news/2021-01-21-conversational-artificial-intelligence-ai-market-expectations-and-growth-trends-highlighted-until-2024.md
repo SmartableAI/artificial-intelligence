@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/conversational-artificia
 webUrl: "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-ai-market-expectations-and-growth-trends-highlighted-until-2024-2021-01-21"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Conversational Kiosks Take Orders with AI and CV"
+    excerpt: "Learn how Sodaclick, a provider of cloud-based digital signage solutions, seized the opportunity to create a voice-controlled solution that today’s customers want."
+    publishedDateTime: 2021-01-25T15:35:00Z
+    webUrl: "https://www.infoworld.com/resources/213164/conversational-kiosks-take-orders-with-ai-and-cv"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 67
+    images:
+      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Artificial Intelligence Market Demand, Growth Opportunities and Top Key Players Analysis Report 2021 – 2024"
     excerpt: "As per the latest report published by Variant Market Research, Global Artificial Intelligence is estimated to reach"
     publishedDateTime: 2021-01-21T14:58:00Z

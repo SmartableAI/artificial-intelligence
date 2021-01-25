@@ -1,45 +1,20 @@
 ---
 category: news
 title: "Scaling AI-based Natural Language Apps Made Easy with expert.ai NL API"
-excerpt: "Expert.ai announced today the availability of commercial options for its NL API. Powered by expert.ai technology, which mimics the"
-publishedDateTime: 2021-01-11T13:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/scaling-ai-based-natural-language-apps-made-easy-with-expertai-nl-api-301205111.html"
-webUrl: "https://www.prnewswire.com/news-releases/scaling-ai-based-natural-language-apps-made-easy-with-expertai-nl-api-301205111.html"
+excerpt: "Expert.ai announced today the availability of commercial options for its NL API. Powered by expert.ai technology, which mimics the human ability to understand"
+publishedDateTime: 2021-01-11T12:30:00Z
+originalUrl: "https://www.heraldmailmedia.com/news/state/scaling-ai-based-natural-language-apps-made-easy-with-expert-ai-nl-api/article_850234d7-affe-53a3-b21d-33fce0496d67.html"
+webUrl: "https://www.heraldmailmedia.com/news/state/scaling-ai-based-natural-language-apps-made-easy-with-expert-ai-nl-api/article_850234d7-affe-53a3-b21d-33fce0496d67.html"
 type: article
-quality: 39
-heat: -1
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: The Herald-Mail
+  domain: heraldmailmedia.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1283900/Expert_ai_Logo.jpg?p=facebook"
-    width: 1500
-    height: 785
-    isCached: true
-
-related:
-  - title: "Opening the black box: AI, applied"
-    excerpt: "In the accounting profession, there is a similar uneasiness when dealing with the idea of AI, though it has nothing to with how the software looks. The technology has the potential for high-level automation of processes,"
-    publishedDateTime: 2021-01-11T14:08:00Z
-    webUrl: "https://www.accountingtoday.com/news/opening-the-black-box-ai-applied"
-    type: article
-    provider:
-      name: Accounting Today
-      domain: accountingtoday.com
-    quality: 41
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/538890f/2147483647/strip/true/crop/3150x1654+0+1048/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F18%2F95%2Fa04124434b48ac7dbdc768334c53%2Fact1021-cover-image.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-
-secured: "z1Yn1qwNDEga/gPYuJIPJOjiPfhNzr/lJbw8Qt7HOdW914EWotBoz6zEwcWwFW10tll2BLKIBD8bJWwl/2riCySSjfULkmnjD+PXJ1Onki3bwlRf1/FIvHwfTsZUym09mk15njX1OUhgAQIHSVSCtgE4W50/fwo9W7NW0upNSCMdVa8uhso9qF7J70U4kw/NCYKJugV2rIOC10otpHLbBNDIX2QmlBZOy9IxW98BT5JHyuH9uouuM7MoCR8ZUCwZnoVqIwlQORlGIF5qwvAawxII1WHSCi8d9VKohI9hNHxgc4YOVDRY3sUaEG5h3uy/kAtLCMMgi8j+CpynRGTGxwJgDr/o7asLNyH97yqYvwI=;SZXrT+Q5R/RWfcQuxEqMGQ=="
+secured: "umZ3SPEmJ3faiv7ovk/lZA+Jw/KXngCWAaknS2dk69QShfR73yMkMSciHafhk8O3ue4uVZOzmdCamVDU+vesK8KDl1bl11T/rdEtlmbI87adSo0McwjpAMI9K2Tzrammv7a/qmK5y262p9nGRhnMjdYMRemaIDDJW2L6qlOItZr/Xzh3DeQtNglzDHIBrzFzxgIEcZ043Qsjx+mJxbkBID2i092D9VhxuZbhHjxfRhHN0wapGv3yoMGojEA7882QyVyD1cztO73e1kLO/WsOXH29OyTHZgCNFtLPBtD9EDolxByy2dv0xVmyWW90o2U5QJOyemN37lFEgSPvOJwKHPDuxcJCuXOyXuQbssVr1rusRF/dq34dNmEhqiQwOaoqX5XGMeD9HU83HuJJUjiesYHIxuOnZ2IHeka78w/96n3xWdraPTgFxB4WHMEta8s9BSLwnwbXVJft/W4lLJ8Km4PP7RxljpGdadnIPTz+Y2dfBWDI0aWtaVyZkMimBCqvcL1T/wgB1ePyKjVklukNVw==;7a34+DaifJsc0v7xPoe1fQ=="
 ---
 

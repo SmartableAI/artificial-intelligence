@@ -56,6 +56,22 @@ related:
         width: 1000
         height: 560
         isCached: true
+  - title: "Prostate Cancer may be diagnosed using a urine test with artificial intelligence"
+    excerpt: "Prostate cancer is one of the most common cancers among men. Patients are determined to have prostate cancer primarily based on *PSA, a cancer factor in blood. However, as diagnostic accuracy is"
+    publishedDateTime: 2021-01-25T15:45:00Z
+    webUrl: "https://medicaldialogues.in/oncology/news/prostate-cancer-may-be-diagnosed-using-a-urine-test-with-artificial-intelligence-73853"
+    ampWebUrl: "https://medicaldialogues.in/amp/oncology/news/prostate-cancer-may-be-diagnosed-using-a-urine-test-with-artificial-intelligence-73853"
+    cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/oncology/news/prostate-cancer-may-be-diagnosed-using-a-urine-test-with-artificial-intelligence-73853"
+    type: article
+    provider:
+      name: Daily
+      domain: medicaldialogues.in
+    quality: 52
+    images:
+      - url: "https://medicaldialogues.in/h-upload/2020/09/02/133894-prostate-cancer.jpg"
+        width: 1600
+        height: 960
+        isCached: true
   - title: "Cancer can be precisely diagnosed using a urine test with artificial intelligence"
     excerpt: "The Korea Institute of Science and Technology(KIST) announced that the collaborative research team led by Dr. Kwan Hyi Lee from the Biomaterials Research Center and Professor In Gab Jeong from Asan Medical Center developed a technique for diagnosing prostate cancer from urine within only twenty minutes with almost 100% accuracy."
     publishedDateTime: 2021-01-21T05:03:00Z

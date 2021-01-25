@@ -24,22 +24,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "AI/ML Innovations Inc. Completes Initial Closing of Over-Subscribed Strategic Financing"
-    excerpt: "TORONTO, ON / ACCESSWIRE / January 20, 2021 / AI/ML Innovations Inc. (CSE:AIML) announces that it has completed a non-brokered private placement offering (the “Offering”) to identified strategic health technology investors of 2,"
-    publishedDateTime: 2021-01-21T00:47:00Z
-    webUrl: "https://apnews.com/press-release/accesswire/technology-business-corporate-news-products-and-services-new-products-and-services-98637e156b79745cb531894d17b399e8"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 46
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-
 secured: "aXmaccr1cnoCxLGLlSRFlqU+lt8KpivJ8XnuC6KVxCUjOW/hXo2USE9NL0P3gH8+bAoVzU3YbHjIXXqL6opOBqvxC6GNfIKV34UnPzFnCoU5JamqBOye7gAD4Mo9CE7diVCgROzlzQ8ubsVQl0cvptX+Oos0ICV8bolTtAhLkF5znqHGeR+m8ZyT6+xe33mM75JI8imh7hvzvzvVBTP9xMlw1cW+7mSIlGQQ2zFtyry2srE5s4tj/OJ2t+1RBjtU028uhxHoyn28VTSUfAoRkgdn3XFq58WOzds//M3QqGPLE5XpZKlLJgK7UYCnW4Vq+7wfEnHTy3i2NahzDZpzAV4ibTsaO6QmZ1poDnJPtaw=;OqjM7FO+QE/5VtjOr6RFdw=="
 ---
 

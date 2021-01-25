@@ -43,6 +43,33 @@ related:
         width: 1200
         height: 835
         isCached: true
+  - title: "Tesla will never achieve full self-driving capabilities, says Waymo CEO"
+    excerpt: "The CEO called Tesla's approach a \"misconception,\" while the Alphabet Inc. subsidiary tackles lidar and more advanced systems."
+    publishedDateTime: 2021-01-25T16:39:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/tesla-will-never-achieve-full-self-driving-capabilities-says-waymo-ceo/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-will-never-achieve-full-self-driving-capabilities-says-waymo-ceo/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-will-never-achieve-full-self-driving-capabilities-says-waymo-ceo/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 104
+    images:
+      - url: "https://cnet2.cbsistatic.com/img/AVtNDbflfjRE8PTezweZ2ehMrBE=/2019/12/20/5d1f0f70-a427-4959-bc2c-7714bcc0c954/ogi-autopilot.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Waymo chief says Tesla's 'not a competitor at all' on self-driving cars"
+    excerpt: "\"We manufacture a completely autonomous driving system,\" Waymo CEO John Krafcik told an interviewer. \"Tesla is an automaker that is developing a really good driver assistance system.\""
+    publishedDateTime: 2021-01-25T12:00:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2021/01/25/waymo-chief-dismisses-tesla-as-competitor.html"
+    ampWebUrl: "https://www.bizjournals.com/sanjose/news/2021/01/25/waymo-chief-dismisses-tesla-as-competitor.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2021/01/25/waymo-chief-dismisses-tesla-as-competitor.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 54
 
 secured: "K2rS2zc7YRHMcAoH3YNPVxctCrx8wuftzkoOLzGkLqt8JWKXjm0HoSIp6+kQi81imw20qw51nBWw0aiqFwpAdHpF42XnZADaiAQ06VVHCNxTnzCYgZqskrN6gsVryGaFjUMtVe8zozV4bq/xlcG57LLYu02SFT/AN/m4+AFUpkBF9F6JzF0glzjtAadhVraq/7cD2c3d+TaZXbIbfb78CjFnPrwphzmSAw2Y92csYKWt8jS0vsuUP3JBFMOGzTmsQnh35sKCDErNGKYOv4V7mF8AhZcpc2/4OA/kcFeKeeO+ZuJ1cddsB1gK5x8YFO+z8Xxr8lW3MyYQ4/U6FMMfq+mH34tixAhVDtlG/U8VmqY=;pD6p2Ip84nhmavukNcNobA=="
 ---

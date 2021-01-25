@@ -19,37 +19,47 @@ topics:
   - AI
 
 related:
-  - title: "CES 2021 Celebrates New Era With Whimsical Robots, AI Influencers And Billie Eilish"
-    excerpt: "Meet the robots of CES 2021, ones that will pour you a glass of wine, soar you across the sky and land firmly on the moon. A look at AI innovation with an eye toward sustainability and equity at Samsung,"
-    publishedDateTime: 2021-01-20T23:20:00Z
-    webUrl: "https://www.forbes.com/sites/martineparis/2021/01/20/ces-2021-celebrates-new-era-with-whimsical-robots-ai-influencers-and-billie-eilish/"
-    ampWebUrl: "https://www.forbes.com/sites/martineparis/2021/01/20/ces-2021-celebrates-new-era-with-whimsical-robots-ai-influencers-and-billie-eilish/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2021/01/20/ces-2021-celebrates-new-era-with-whimsical-robots-ai-influencers-and-billie-eilish/amp/"
+  - title: "GBT Researching AI based, Robotics Technology for the Medical Field"
+    excerpt: "GBT is commencing new research that is targeting medical application robotics, empowered by its AI system. In this research, the Company will focus on the innovation and technological advancements that is offered by AI to enable medical robots achieving higher standards."
+    publishedDateTime: 2021-01-21T12:42:00Z
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-medical-research-artificial-intelligence-communication-technology-integrated-circuits-840d518726887292c8cb151d76072b60"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 98
+      name: Associated Press
+      domain: apnews.com
+    quality: 69
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6005fdd972d4e4bb491e4d76%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D840%26cropY1%3D24%26cropY2%3D496"
-        width: 840
-        height: 472
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "CES 2021 Celebrates Biden Era With Whimsical Robots, AI Influencers And Billie Eilish"
-    excerpt: "Meet the robots of CES 2021, ones that will pour you a glass of wine, soar you across the sky and land firmly on the moon. A look at the latest AI innovations showcased at CES 2021 by Samsung, LG, Softbank,"
-    publishedDateTime: 2021-01-20T23:20:00Z
-    webUrl: "https://www.forbes.com/sites/martineparis/2021/01/20/ces-2021-celebrates-new-era-with-whimsical-robots-ai-influencers-and-billie-eilish/"
-    ampWebUrl: "https://www.forbes.com/sites/martineparis/2021/01/20/ces-2021-celebrates-new-era-with-whimsical-robots-ai-influencers-and-billie-eilish/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2021/01/20/ces-2021-celebrates-new-era-with-whimsical-robots-ai-influencers-and-billie-eilish/amp/"
+  - title: "First global standards for securing AI on the way"
+    excerpt: "ETSI SAI is the first standardisation initiative dedicated to securing AI. In the report, the problem of securing AI-based systems and solutions is unpacked, with a focus on machine learning (ML), and challenges in terms of confidentiality,"
+    publishedDateTime: 2021-01-21T07:05:00Z
+    webUrl: "https://www.itweb.co.za/content/GxwQD71Z4eVMlPVo"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 97
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 39
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6005fdd972d4e4bb491e4d76%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D840%26cropY1%3D24%26cropY2%3D496"
-        width: 840
-        height: 472
+      - url: "https://lh3.googleusercontent.com/1YtEKuSUxY1qBWaY9BcRMo0kAZsEstuV54ChHg8orspy0dBbN7B7eSFrgvBWoeFiV1wxPXJPcX7SyEW80CBMFErnuDspmB6JJ6FqTQ=w816-h428"
+        width: 761
+        height: 428
+        isCached: true
+  - title: "Global Medical Alert System Markets, 2020-2025: Revolution Brought by Emerging Technologies - IoT & AI - ResearchAndMarkets.com"
+    excerpt: "The “Global Medical Alert System Market (2020-2025) by System Type, Connection Type, End-user, Offering, Technology, Geography, Competitive Analysis and the Impact of Covid-19 with Ansoff Analysis” report has been added to ResearchAndMarkets."
+    publishedDateTime: 2021-01-25T11:49:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-technology-health-care-policy-health-care-reform-artificial-intelligence-b15efc25b16c44b6a9abae41604c495d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 9
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "dTnRHb8hmbWECC9i4m9kaKDDrZcBsVTIQMcwc9Ne1fHPPhJUU9SUAR/1g9rMXpNzFtYnp04WG8L4zBib/eDs98nDsGn+MFYagSeWR2ZQLgtM/Twua5ytqPTDDJkwe8wPYEEQppxhB6BN+9wHLxNUtfKoylN9mG9gB/wERkHCaUhTCrXZ6cf0n9Zy88k/5YQuXtGwwLjCIlk1GthSudPJi1zRA+gpiq8KRWQCCBPfq5XPhyVqOhiKkGo1FxPj+JxCoVzguRTQUwb+RtfNdDfpHAywx5VrzeIyH2JFPkwOkM13ZI1VY+ENGf38MZuB5bkMWxcqmBLfjD4mCAWNBHtN+dC7CMejWOYeNOx0wqvPkwM=;JlyM6BlKrKk0/GYdms10gQ=="
