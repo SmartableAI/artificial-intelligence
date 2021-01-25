@@ -71,20 +71,6 @@ related:
         width: 1050
         height: 700
         isCached: true
-  - title: "Edge AI company AlphaICs raises $8 million in funding round"
-    excerpt: "AlphaICs the artificial intelligence technology company from California-based Milpitas said on Wednesday it has secured funding worth eight million dollars a"
-    publishedDateTime: 2021-01-20T08:31:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/267589404/edge-ai-company-alphaics-raises-8-million-in-funding-round"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 39
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1611129635.jpg"
-        width: 630
-        height: 420
-        isCached: true
 
 secured: "qdZ9vQ6GJZHKhZjLcSEJUuhzjCCu0l58K2rHG6PQz3ZccpYN80uUrDXofk+KEHpVjBPBib4rAfaEJlc/9ly5UWuVeFdmYOfiG4hC4MglrnfFSbVlkPD1p9cqD+ZXigHUueg6BZwK3kToHeDS11Gsp6AVjgmB2b5TERgYg1nwpkUAdF/6BhvyPzJpoO08XPyUJQpHhpFX/aTlDkAErb8HtxUkL+8L+DvWsDJ8OOqDx+XgdjnZlcvpOCIPUPpzGlhrkz75qQ6GnbPtH8UUC1DlwRqc9TMZc1WB6UXCksR9pBVBVJVjjxyTpqdGr/O2U0Wb8OCdeWHuK4ZzVXwep3W4R0Gw+zG0zwrjPAovN1tECBj+6knw+NfK0GmYUNX02iRUr8FCGWwkAvDqEyQWq82n0OtkcAAJ66n/dXI+q60AkFzLdgohgK3tTTR58z2lVHua/hWPkc/yeuj+kDip32nqMEZUB/RV8hJBy1bBg3z6lUAzWgYOArayzEqEVfqKUddL8fvGnu4NWKoh56pv3vHD/g==;8VAosUqwAe/gNt/RSulLSQ=="
 ---

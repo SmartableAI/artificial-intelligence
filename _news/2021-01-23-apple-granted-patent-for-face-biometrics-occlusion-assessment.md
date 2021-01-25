@@ -25,51 +25,58 @@ images:
     isCached: true
 
 related:
-  - title: "Apple patents next gen Face ID, which uses facial heat mapping"
-    excerpt: "Apple has just been granted a new patent that is related to its Face ID biometric security system. The patent details a next gen advancement in facial recognition technology, which apparently uses facial heat mapping for authentication."
-    publishedDateTime: 2021-01-20T07:24:00Z
-    webUrl: "https://www.gizmochina.com/2021/01/20/apple-patents-next-gen-face-id-facial-heat-mapping/"
+  - title: "Face recognition Tech and biometrics under the microscope at FTC | Wiley Rein LLP"
+    excerpt: "Face recognition Tech and biometrics under the microscope at FTC | Wiley Rein LLP On January 11, 2021, the Federal Trade Commission (FTC)"
+    publishedDateTime: 2021-01-20T22:32:00Z
+    webUrl: "https://www.compsmag.com/news/technology/face-recognition-tech-and-biometrics-under-the-microscope-at-ftc-wiley-rein-llp/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/face-recognition-tech-and-biometrics-under-the-microscope-at-ftc-wiley-rein-llp/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/face-recognition-tech-and-biometrics-under-the-microscope-at-ftc-wiley-rein-llp/amp/"
     type: article
     provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 54
+      name: Windows
+      domain: compsmag.com
+    quality: 34
+  - title: "Herta launches face biometrics-based emotion recognition solution"
+    excerpt: "Herta Security video analysis solution BioObserver provides a platform for automatic micro-expression detection based on face biometrics."
+    publishedDateTime: 2021-01-20T22:56:00Z
+    webUrl: "https://www.biometricupdate.com/202101/herta-launches-face-biometrics-based-emotion-recognition-solution"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
     images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2017/10/Screen-Shot-2017-10-29-at-9.34.42-PM.png"
-        width: 1053
-        height: 729
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing-1024x662.jpeg"
+        width: 1024
+        height: 662
         isCached: true
-  - title: "Apple patents the next-generation Face ID technology"
-    excerpt: "Apple has received a new patent related to Face ID, which is a biometric user authentication system. The patent details next-generation face recognition technology that"
-    publishedDateTime: 2021-01-20T11:26:00Z
-    webUrl: "https://www.gizchina.com/2021/01/20/apple-patents-the-next-generation-face-id-technology/"
-    ampWebUrl: "https://www.gizchina.com/2021/01/20/apple-patents-the-next-generation-face-id-technology/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/01/20/apple-patents-the-next-generation-face-id-technology/amp/"
+  - title: "Rank One unveils real-time face biometrics video analytics solution"
+    excerpt: "Rank One Computing facial recognition plugin for Milestone’s XProtect Video Management System provides instant analysis of video streams."
+    publishedDateTime: 2021-01-20T22:41:00Z
+    webUrl: "https://www.biometricupdate.com/202101/rank-one-unveils-real-time-face-biometrics-video-analytics-solution"
     type: article
     provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 44
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
     images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2021/01/6a0120a5580826970c0263e9898541200b.jpg"
-        width: 914
-        height: 495
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/08/03144630/smart-camera-edge-device-retail.jpg"
+        width: 1000
+        height: 667
         isCached: true
-  - title: "Apple delaying launch of Face ID on Mac, says Bloomberg"
-    excerpt: "Bloomberg today has claimed that Apple has developed the underlying technology to bring Face ID to the Mac however, it is unlikely that we will see the facial recognition authentication system, which"
-    publishedDateTime: 2021-01-22T13:10:00Z
-    webUrl: "https://www.theapplepost.com/2021/01/22/apple-delaying-launch-of-face-id-on-mac-says-bloomberg/"
-    ampWebUrl: "https://www.theapplepost.com/2021/01/22/apple-delaying-launch-of-face-id-on-mac-says-bloomberg/amp/"
-    cdnAmpWebUrl: "https://www-theapplepost-com.cdn.ampproject.org/c/s/www.theapplepost.com/2021/01/22/apple-delaying-launch-of-face-id-on-mac-says-bloomberg/amp/"
+  - title: "German Police face biometrics use increasing rapidly, report shows"
+    excerpt: "A total of 76,535 queries were made in the facial recognition system of the Federal Criminal Police Office, up from the about 54,000 in the previous year."
+    publishedDateTime: 2021-01-21T21:21:00Z
+    webUrl: "https://www.biometricupdate.com/202101/german-police-face-biometrics-use-increasing-rapidly-report-shows"
     type: article
     provider:
-      name: theapplepost.com
-      domain: theapplepost.com
-    quality: 44
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
     images:
-      - url: "https://www.theapplepost.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
         isCached: true
 
 secured: "zWo88ByP1Q1OmVSc8YHWjB2QxtyA2WgnVMMI3quh2OFHjF1qGeHSp7haSwEhgzPDzZFadvi2CcjJolTuCO9GfA0gj1iajn9Xh0zSey+7iVdfGPGTMxPZ+uDpEFP5MAR+ObfYFeWvy4/v9fKlIlBxppfifEEQeKIb3ulsWgqZhpP0+N4cOKkeN5JbOe1q20hmaJAHoq4pZuAnGdw+lpGeSozG1KVRw0PAB+5MrhnAgw4Dsfklj/ZCEq04LKKZM0UEIptxR9lzlxKuhicd5hqcvgWqMkarNlJ/MnGm839xke05DPIr0tO7wNA3T3EQtnz0Dg5vYnh9s0bscHD4G5Tz03MTDTJVRK7vMJtEV1Cdmhr0b4bO2+H0HUW8MjcpQlOOXkVGAkT1yw8B/nlnAwX5OevcXbuHMZMquw3u2Y30xnaJ78XG+Rz6u9Ht8EyOrwaUuAIV4jEECvsNKWS2T1orzDXky5r+VPIYvP+tXxSm6W5aTg/6QLgmgf7viufp243tifEJ0Z/PsfRYv287ty/DMw==;E099fXGRFdF17Ol0n9+3zQ=="

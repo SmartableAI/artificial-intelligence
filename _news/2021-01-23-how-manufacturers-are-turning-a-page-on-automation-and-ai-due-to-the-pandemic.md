@@ -26,20 +26,6 @@ images:
 
 related:
   - title: "In a Bid to Capture New Growth, Telcos Turn to AI and Operations Automation in 5G Networks"
-    excerpt: "G is a composition of several network layers that leverage technology with varied maturity levels, such as Open RAN, network slicing,"
-    publishedDateTime: 2021-01-20T09:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/in-a-bid-to-capture-new-growth-telcos-turn-to-ai-and-operations-automation-in-5g-networks-301211097.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 27
-    images:
-      - url: "https://mma.prnewswire.com/media/276887/abi_research_logo.jpg?p=facebook"
-        width: 643
-        height: 337
-        isCached: true
-  - title: "In a Bid to Capture New Growth, Telcos Turn to AI and Operations Automation in 5G Networks"
     excerpt: "Telcos are actively expanding the utilization of AI/ML beyond merely digitizing internal and external interactions."
     publishedDateTime: 2021-01-20T20:24:00Z
     webUrl: "https://www.abiresearch.com/press/bid-capture-new-growth-telcos-turn-ai-and-operations-automation-5g-networks/"

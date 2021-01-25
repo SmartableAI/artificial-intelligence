@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/yellow-messenger-integrates-microsoft-azu
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/yellow-messenger-integrates-microsoft-azure-cognitive-services-on-its-platform/"
 type: article
 quality: 115
-heat: 415
+heat: 405
 published: true
 
 provider:
@@ -434,15 +434,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 25
-  - title: "Microsoft joins self-driving space with investment in GM's Cruise"
-    excerpt: "Cruise and General Motors entered a long-term strategic relationship with Microsoft to accelerate the commercialisation of self-driving vehicles. As part of the partnership, Microsoft will join General Motors,"
-    publishedDateTime: 2021-01-20T08:38:00Z
-    webUrl: "https://www.telecompaper.com/news/microsoft-joins-self-driving-space-with-investment-in-gms-cruise--1369231"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 21
 
 secured: "4uJmTBqPhDZk1YFaHeTmWLYJr5xEPLvjnz8SyXLgTwTu+70Iyaa1X5JwtlIDRq9aG0YtY/Tt9SPevDc3dJEBexxoXPfi8NiLbxeb8YRXREkvZk1BN+EPqbU0+rDHIbnV20rJdCTiAALmG5Ji8TO8R7FoAhFc3o/BthlKe+cWRNaDQJrDX/ZwXlWQ8nkV/ob+5uGjAjox2xYE2HEUzrx9tz5uorSZRYErql6JGA+/VVHG2F3ff10UaGdhA/GjyfacPDE2JmeIH/K6+3Sp5Koai+T7LptnY7uCQ7rXsToLt9xckzGHv6bCMSs6xExRrJdvopvcqvWWC74yoHn3RGnmDGUoElYfG5vgWB9XBxhFLQPj3/KwrV4hOpp7EATswrBfSf+GnkL8AvbH7eo9YY67fetHcJp2e2PJfl1M2gSCuDdoc9W9x+xfJdiKBAcI3p/b5pVKHpGV8V58HIdVG0c7lEQX4xsDb4rRa6stI9ekdIedgM39r6eboaQDRAxm/KOL+dDDT8reyZMhpm6xRuAmuQ==;X8l05964/dqZwMolSmQXwg=="
 ---

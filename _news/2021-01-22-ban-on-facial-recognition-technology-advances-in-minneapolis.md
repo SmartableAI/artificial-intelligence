@@ -94,6 +94,20 @@ related:
         width: 763
         height: 509
         isCached: true
+  - title: "Ban on facial recognition technology advances in Minneapolis"
+    excerpt: "MINNEAPOLIS (AP) - A proposal to ban the use of facial recognition technology by Minneapolis police and other city departments is advancing. The technology has raised concerns by some who worry it could be a dangerous step toward a surveillance state where people’s movements are tracked the moment they leave their homes."
+    publishedDateTime: 2021-01-24T23:02:00Z
+    webUrl: "https://www.weau.com/2021/01/24/ban-on-facial-recognition-technology-advances-in-minneapolis/"
+    type: article
+    provider:
+      name: WEAU
+      domain: weau.com
+    quality: 39
+    images:
+      - url: "https://gray-weau-prod.cdn.arcpublishing.com/resizer/zCXcMt6FemPyR2OAR4yKMWc2efs=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/5JUAEHMN7JA3VKC7WRW3MC4ZRA.jpg"
+        width: 980
+        height: 574
+        isCached: true
   - title: "Proposed ban on law enforcement facial recognition technology advances in Minneapolis"
     excerpt: "Minneapolis could soon join a small but growing number of American cities that have banned most uses of facial recognition technology by its police and other municipal departments. The proposal, which has been quietly discussed for months among a coalition of progressive groups including the American Civil Liberties Union,"
     publishedDateTime: 2021-01-21T23:44:00Z
@@ -122,15 +136,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Spoof detection for facial recognition in casinos"
-    excerpt: "A non-intrusive spoof detection feature for facial recognition technology has been released by Innovative Technology of the UK."
-    publishedDateTime: 2021-01-20T07:34:00Z
-    webUrl: "https://www.intergameonline.com/casino/news/spoof-detection-for-facial-recognition-in-casinos"
-    type: article
-    provider:
-      name: InterGame
-      domain: intergameonline.com
-    quality: 19
 
 secured: "myjiB9OTpUFy/jqHufzoo3+uq07+9hn8+8C+FZOHB5br/bilwAc/CiCTcGeLnrGRK20q1R9KJ7LjgTg1WUUgu0IlIWb3De8WSBD/7Gs71J6lETt1QWUZz8WuCMifW+us1z/sHH9TfAMpr8vwtqeQoUOSVi4WmM0hYtQUdaiIAmtaRXrEmYGeEiWcpHNvJAZlHD1JX6kYqdKHSH0EiA5TgiDy3ttLjmE1hWVg7jVzdn8h2FIfjCYQx0qBhVI6H35w8ESg76T4T5m450NU+CrrSjHRUMsL1pnBIDJP0riNgzY2HLVAQe8MYxEVDrkiigdBK2hUIhnnPgQ+VByEfHZJqdR9vxIi/eEOIYdccf2K9wU=;jKdpdPoWRfHmluK1UbBNdQ=="
 ---

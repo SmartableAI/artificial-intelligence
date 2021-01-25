@@ -1,28 +1,28 @@
 ---
 category: news
 title: "HistoIndex Explores the Clinical Utility of Stain-free AI Digital Pathology Platform in 388 Patients with Triple-Negative Breast Cancer (TNBC)"
-excerpt: "HistoIndex's stain-free AI digital pathology platform, incorporating Second Harmonic Generation (SHG), holds promise as a quantitative tool"
-publishedDateTime: 2021-01-24T22:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/histoindex-explores-the-clinical-utility-of-stain-free-ai-digital-pathology-platform-in-388-patients-with-triple-negative-breast-cancer-tnbc-301213034.html"
-webUrl: "https://www.prnewswire.com/news-releases/histoindex-explores-the-clinical-utility-of-stain-free-ai-digital-pathology-platform-in-388-patients-with-triple-negative-breast-cancer-tnbc-301213034.html"
+excerpt: "Picture A shows a patient’s TNBC biopsy scanned by HistoIndex’s stain-free AI digital pathology platform. The collagen fibers as well as changes in collagen structures are highlighted in green when detected by SHG and shows a comparison of the tissue area occupied by the ATC and DTC fibers based on intensity,"
+publishedDateTime: 2021-01-24T23:29:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/cancer-health-tumors-detail-breast-cancer-f64bd54bf5a5f40633c4bb17559ef485"
+webUrl: "https://apnews.com/press-release/pr-newswire/cancer-health-tumors-detail-breast-cancer-f64bd54bf5a5f40633c4bb17559ef485"
 type: article
 quality: 1
 heat: 1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1424655/HistoIndex.jpg?p=facebook"
-    width: 2698
-    height: 1414
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "uMODT0TLHgi12xwu7nnGDKiJ2uIKUUSFWK2b2WgIFvN2Ic9/iGjAAR7B0AQFNd0cr9dfGTesqdNmbjAWMujSbTA425CYz0T5vWSaFpmQ94tzCSFt4e/Op2BP0rOPCTGtHQGcmrcoInZRQq4uE/4vYCtlwX8kaHl5dfvNJyjylNR/1gB00EKTb0HcDS/XtiAYvS73ygpI9BYRiXTv3/APiC3j7tXqc7Bm/muvEIfagk9PG2xXT1SwN4oNz7t0L5SBxafkeL3n78Z9vV9Wt1E7qQGrB6w+LQ9romyE8FDjKO2Tc0VdngQKXgnr2ZN5XDhiVjNBVLV3DTgFLrC1A1EjFY8+Q7uyu1lUYJ/XGl4SmFk=;BZYDpzuT/CAIu7x2GaFY3w=="
+secured: "m6sDb6DNSpdhkmLqabO3ag793giKlwKAFqfF0hraEYCRxGLeUo365VedBAMpOGjsBELE6M6eFVnl+HB2q2WXvBNh5RkPSwoXKxTGf10UIPURRl3cG4T+j+/rAECgooQPf07YAN5Tqdlp1gFZbsX03HYXygBUuw+BPTnWI+1kIMbYBNXHEHx3J80jC5xdNGxweHOIGH3bkvgK3F0AkFWnbwHbnrUeqCqIbsBkENS+L26d6+3afSpdSz1fAlUhaCztXgld3bZCeYPeml7pHJ01WHAjXXlWskS69TYxSz4BfDJj/W5Q0NGk3ojnJrXwPktwWsKFYod2D5lSjxL02ec/Noebn2/7/m6GHZzu/C4l/vM=;vBFgGsRBlK8486uwqkkBZw=="
 ---
 

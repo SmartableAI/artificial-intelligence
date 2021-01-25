@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/20/alphaics-raises-8-million-for-ai-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/20/alphaics-raises-8-million-for-ai-at-the-edge-processors/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/unsplash-1.png"
         width: 1050
         height: 700
-        isCached: true
-  - title: "Edge AI company AlphaICs raises $8 million in funding round"
-    excerpt: "AlphaICs the artificial intelligence technology company from California-based Milpitas said on Wednesday it has secured funding worth eight million dollars a"
-    publishedDateTime: 2021-01-20T08:31:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/267589404/edge-ai-company-alphaics-raises-8-million-in-funding-round"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 39
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1611129635.jpg"
-        width: 630
-        height: 420
         isCached: true
   - title: "Edge AI Company AlphaICs Raises $8 Million In Series B"
     excerpt: "Edge AI technology company from Bangalore, AlphaICs announced today that it has secured $8 million funding in a Series B round."

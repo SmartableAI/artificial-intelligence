@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Proposed ban on law enforcement facial recognition technology advances in Minneapolis"
-excerpt: "Minneapolis could soon join a small but growing number of American cities that have banned most uses of facial recognition technology by its police and other municipal departments. The proposal, which has been quietly discussed for months among a coalition of progressive groups including the American Civil Liberties Union,"
-publishedDateTime: 2021-01-21T23:44:00Z
-originalUrl: "https://www.startribune.com/proposed-ban-on-law-enforcement-facial-recognition-technology-advances-in-minneapolis/600013504/"
-webUrl: "https://www.startribune.com/proposed-ban-on-law-enforcement-facial-recognition-technology-advances-in-minneapolis/600013504/"
+title: "Ban on facial recognition technology advances in Minneapolis"
+excerpt: "MINNEAPOLIS (AP) - A proposal to ban the use of facial recognition technology by Minneapolis police and other city departments is advancing. The technology has raised concerns by some who worry it could be a dangerous step toward a surveillance state where people’s movements are tracked the moment they leave their homes."
+publishedDateTime: 2021-01-24T23:02:00Z
+originalUrl: "https://www.weau.com/2021/01/24/ban-on-facial-recognition-technology-advances-in-minneapolis/"
+webUrl: "https://www.weau.com/2021/01/24/ban-on-facial-recognition-technology-advances-in-minneapolis/"
 type: article
-quality: 32
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: StarTribune
-  domain: startribune.com
+  name: WEAU
+  domain: weau.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://chorus.stimg.co/22251394/ows_89490f87_9bba_4404_b792_a88e9b90abaa.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
-    width: 1200
-    height: 630
+  - url: "https://gray-weau-prod.cdn.arcpublishing.com/resizer/zCXcMt6FemPyR2OAR4yKMWc2efs=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/5JUAEHMN7JA3VKC7WRW3MC4ZRA.jpg"
+    width: 980
+    height: 574
     isCached: true
 
 related:
@@ -108,19 +108,19 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Ban on facial recognition technology advances in Minneapolis"
-    excerpt: "MINNEAPOLIS (AP) - A proposal to ban the use of facial recognition technology by Minneapolis police and other city departments is advancing. The technology has raised concerns by some who worry it could be a dangerous step toward a surveillance state where people’s movements are tracked the moment they leave their homes."
-    publishedDateTime: 2021-01-24T23:02:00Z
-    webUrl: "https://www.weau.com/2021/01/24/ban-on-facial-recognition-technology-advances-in-minneapolis/"
+  - title: "Proposed ban on law enforcement facial recognition technology advances in Minneapolis"
+    excerpt: "Minneapolis could soon join a small but growing number of American cities that have banned most uses of facial recognition technology by its police and other municipal departments. The proposal, which has been quietly discussed for months among a coalition of progressive groups including the American Civil Liberties Union,"
+    publishedDateTime: 2021-01-21T23:44:00Z
+    webUrl: "https://www.startribune.com/proposed-ban-on-law-enforcement-facial-recognition-technology-advances-in-minneapolis/600013504/"
     type: article
     provider:
-      name: WEAU
-      domain: weau.com
-    quality: 39
+      name: StarTribune
+      domain: startribune.com
+    quality: 32
     images:
-      - url: "https://gray-weau-prod.cdn.arcpublishing.com/resizer/zCXcMt6FemPyR2OAR4yKMWc2efs=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/5JUAEHMN7JA3VKC7WRW3MC4ZRA.jpg"
-        width: 980
-        height: 574
+      - url: "https://chorus.stimg.co/22251394/ows_89490f87_9bba_4404_b792_a88e9b90abaa.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Proposed ban on use of facial recognition technology by police advances in Minneapolis"
     excerpt: "Minneapolis could soon join a small but growing number of American cities that have banned most uses of facial recognition technology by its police and other municipal departments. The proposal, which has been quietly discussed for months among a coalition of progressive groups including the American Civil Liberties Union,"
@@ -137,6 +137,6 @@ related:
         height: 630
         isCached: true
 
-secured: "SU2RT8nkBKey3QFhT4NVW+krGOXBRMdiReZnLNdHGGHGxOcLLnOrNJQEygSvllgfwXNmaVIR3SMeggJmGAc8QABi4hZ1ZStkVcsSKgFhtN2AykE6YhQsimCZjy1dAu1zPOFS+E4qjHJf1cyW5LDo4dAK/+V+vWNZwuqHNjTlV1Ge2JtQ0gunabW7k4bm40wyQitNvaPGuDTJSXSAJ3cNhbBopRvIlemKVJG/H4p83UeL3aeiiChENAiNPz3OKjfS+HHepqVW6nyfP5r6XisOqFdFWCbEl6xuNPttoBBvnfzLwPUnglVZmBa4u5mHLrgya44uGgYNc6I9Pn4hqXNtkFqm+cUbOuucxbqt9cpnToU=;vhE6U8o2moDuFjW9Qzww5g=="
+secured: "8FEXuPMdBMM4H2ws81uEFpWo86HKyGm553SOkhGaiHMWWdxa3O4Uai64B6v5n4mFn7EewDlFLvHrew3SLCATB+gzTJaxHSY7uKQ9VXmpa0JT+D6CjwJ4/U1JZyHywPCf4dQV2lRvwDh/B19/Z5NOIdnIJk5ZPn0WhhQ2KPAVjSVgaK9luAZJ1z7YdCMpbt+QY7fqaOQU/3iuWEqpekUtAF+KdtANOMvBYhSZyKiHJbgjwpxSQnLmOPZp0D22ZyoDvCCCN61glrgMLqNM1383vPlgScBM3QMDH+IQRaGrV+x5plhtXvHPz64ZyngF88NM18hUJCARxn00UUNQntG6qqNTdOgyHyF31RZqbvFR1oo=;O481Gyf8yc+IvJsHSYz5eg=="
 ---
 

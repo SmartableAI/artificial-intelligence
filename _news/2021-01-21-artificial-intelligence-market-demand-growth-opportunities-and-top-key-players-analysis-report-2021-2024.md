@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Market Analysis with Key Players, Applications, Trends and Forecasts to 2026"
-    excerpt: "Selbyville, Delaware the newly Added research report at Market Study Report titled \"2020-2026 Global Facial Recognition Market Report\" provides data, information, brief analysis, company profiles, statistics for past years and forecasts for next few years."
-    publishedDateTime: 2021-01-20T07:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-analysis-with-key-players-applications-trends-and-forecasts-to-2026-2021-01-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "KVpkEUio49iIBRtSVQMfgcVod16pRAM9dS1ypoh1ZqOvkFfbOCLzgDNFyrhisZ4JOl6AjI6s1SkqWAvfSa5YV7won1Z5c3R4qQYWLnSlNoB65k7pmqXEEWCMThZQD3Tg7xWh7VRDbmIpOKF200Vk2Lp8w7M/XZ3VpZHhVjg8gAGGVBQfY6ld0Z/NzPdyX0Tod5fZZrpBVgXqwlUokcSm8nrUnG8uSZLhxfRy/mRQQI5yKh95NkurpbwEj0ua7prWr3Mt83i3xLClJHuAnPDBr7Ouo+cbYmYY4Ao2uRTXf7oHGB6GrECwotByQaBGyOjzKNw+nu1wxrP6fTw6sRrqCRMHi3jhuMEzjCkWNk+ZCSY=;kwOFqf3fQ1wRuv00lnipqA=="
 ---

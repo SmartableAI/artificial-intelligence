@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-marketing-market-size-share-analysis-report-forecast-to-2025-2021-01-23"
 type: article
 quality: 86
-heat: 236
+heat: 226
 published: true
 
 provider:
@@ -142,20 +142,6 @@ related:
       name: Windows
       domain: compsmag.com
     quality: 41
-  - title: "Artificial Intelligence Market Size, Gross Margin, Trends, Future Demand, Analysis by Top Leading Players and Forecast till 2026"
-    excerpt: "The artificial intelligence market in North America is set for rapid growth. The growth witnessed in this region"
-    publishedDateTime: 2021-01-20T08:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-gross-margin-trends-future-demand-analysis-by-top-leading-players-and-forecast-till-2026-2021-01-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Machine Learning Market 2021 Analysis by Industry Trends, Size, Share, Company Overview, Growth, Development and Forecast by 2026"
     excerpt: "Market Size, Share, Price, Trend and Forecast is an expert and inside and out examination on the present status of the worldwide Machine Learning industry. This report studiesthe worldwide market competition landscape,"
     publishedDateTime: 2021-01-22T06:34:00Z

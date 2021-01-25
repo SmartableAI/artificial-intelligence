@@ -9,8 +9,8 @@ ampWebUrl: "https://www.slashgear.com/facebook-uses-ai-to-improve-photo-descript
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/facebook-uses-ai-to-improve-photo-descriptions-for-the-visually-impaired-20655881/amp/"
 type: article
 quality: 88
-heat: -1
-published: false
+heat: 168
+published: true
 
 provider:
   name: SlashGear
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook enhances AI used to describe photos for visually impaired users"
-    excerpt: "Facebook has announced new improvements to its artificial intelligence (AI) technology that is used to generate descriptions of photos posted on the social network for visually impaired users. The technology,"
-    publishedDateTime: 2021-01-20T08:57:00Z
-    webUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/article/facebook-enhances-ai-used-to-describe-photos-for-visually-impaired-users/"
-    ampWebUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/facebook-enhances-ai-used-to-describe-photos-for-visually-impaired-users/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/facebook-enhances-ai-used-to-describe-photos-for-visually-impaired-users/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 88
-    images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/2021/01/20/320b9ac2-461d-41c8-a63f-477d00d43a01/nrp-cross-post-using-ai-to-improve-photo-descriptions-for-the-blind-banner-2.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Facebook AI Gets Better at Describing Photos for Visually Impaired Users"
     excerpt: "In an effort to better accommodate users who are blind or visually impaired, Facebook this week updated its automatic alternative text (AAT) technology. The feature, introduced in 2016 (and granted the Helen Keller Achievement Award from the American Foundation for the Blind in 2018),"
     publishedDateTime: 2021-01-20T16:30:00Z

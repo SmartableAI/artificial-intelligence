@@ -431,15 +431,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 25
-  - title: "Microsoft joins self-driving space with investment in GM's Cruise"
-    excerpt: "Cruise and General Motors entered a long-term strategic relationship with Microsoft to accelerate the commercialisation of self-driving vehicles. As part of the partnership, Microsoft will join General Motors,"
-    publishedDateTime: 2021-01-20T08:38:00Z
-    webUrl: "https://www.telecompaper.com/news/microsoft-joins-self-driving-space-with-investment-in-gms-cruise--1369231"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 21
 
 secured: "gr58Mw+sKn3civOa+i/zlE1R+nIN2+m9yty4IZx/0DITPVtpioRnERmeKzJ/yW79TGZirpVIeSYA2BpJ9iD4KfWt1uBwwKgZKwGoxhznCpIHDheXT+llPjtDaurD0vKc/CL0gwTfVmQeK5t5/wrnvc/sghYYl04N8Jv1GDotcjnLbsyWsi9GV4z7mpI1IXutzx5PdvaafLfpj+Mxvnlodko6uVuoTt695pldDn+DMQ3+xsd6hVGhN0370kpTeG4FpsWDlht2Sg6ix4RyHE9YkyFJ1NeG8LnzfX8stVyopxcwLijKdwcM6isaawIw4YesaVx9kfq/HZ+w9LMF7L6o955rQ/xO0L4ayZ5JhxNnZV4o1IrVott63hOE9oFghO+2pJIbJM9UdoQUG/i+Yeu0ug7IEktMy0FJCQYkg5K3vasgavstOHctPBELpmhI2D1DDumY959QGE14iuAttKLTO0oHH8xFhycAjk3ylWtM+KGgumvliSc/RvAfN7mNzsJJ/uwwFKDs0kAGtwDFJUaHKA==;Q7DtrlOUlbqnIbfOM96Irw=="
 ---
