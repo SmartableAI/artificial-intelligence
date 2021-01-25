@@ -108,22 +108,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft (MSFT) Invests in Self-Driving Electric Car Venture"
-    excerpt: "Microsoft (MSFT) has entered into a long-term strategic relationship with the Cruise unit of GM to develop self-driving electric vehicles."
-    publishedDateTime: 2021-01-20T17:44:00Z
-    webUrl: "https://www.investopedia.com/microsoft-msft-invests-in-self-driving-electric-car-venture-5096128"
-    ampWebUrl: "https://www.investopedia.com/amp/microsoft-msft-invests-in-self-driving-electric-car-venture-5096128"
-    cdnAmpWebUrl: "https://www-investopedia-com.cdn.ampproject.org/c/s/www.investopedia.com/amp/microsoft-msft-invests-in-self-driving-electric-car-venture-5096128"
-    type: article
-    provider:
-      name: Investopedia
-      domain: investopedia.com
-    quality: 61
-    images:
-      - url: "https://www.investopedia.com/thmb/hcU1NTsE99Uh1TJbBND7qoB3bkw=/680x453/filters:fill(auto,1)/shutterstock_251998009_1_self_driving_car-5bfc3e4a4cedfd0026c5b77d.jpg"
-        width: 680
-        height: 453
-        isCached: true
   - title: "Microsoft’s latest HUGE investment: Self-driving car technologies"
     excerpt: "(TECH NEWS) Microsoft invests in self-driving car technology by joining other investors in a combined equity investment of $2 billion."
     publishedDateTime: 2021-01-22T16:42:00Z
@@ -139,22 +123,6 @@ related:
       - url: "https://149369349.v2.pressablecdn.com/wp-content/uploads/2021/01/CarCityHighway.jpg"
         width: 1000
         height: 500
-        isCached: true
-  - title: "Microsoft partners with GM, invests $2bn in self-driving start-up Cruise"
-    excerpt: "Microsoft has jumped headlong into the driverless car space by investing $2 billion in Cruise. Microsoft's stake in General Motors' autonomous vehicle subsidiary takes its total valuation to an impressive $30 billion."
-    publishedDateTime: 2021-01-20T18:54:00Z
-    webUrl: "https://www.newsbytesapp.com/news/business/microsoft-partners-with-gm-invests-2bn-in-cruise/story"
-    ampWebUrl: "https://www.newsbytesapp.com/news/business/microsoft-partners-with-gm-invests-2bn-in-cruise/story/amp"
-    cdnAmpWebUrl: "https://www-newsbytesapp-com.cdn.ampproject.org/c/s/www.newsbytesapp.com/news/business/microsoft-partners-with-gm-invests-2bn-in-cruise/story/amp"
-    type: article
-    provider:
-      name: newsbytesapp.com
-      domain: newsbytesapp.com
-    quality: 60
-    images:
-      - url: "https://i.cdn.newsbytesapp.com/images/l220_26701611143398.jpg"
-        width: 1440
-        height: 810
         isCached: true
   - title: "Microsoft Previews Azure IoT Edge for Linux on Windows"
     excerpt: "Microsoft announced a preview of Azure IoT Edge for Linux on Windows, which lets organizations tap Linux virtual machine processes that also work with Windows- and Azure-based processes and services."
@@ -225,20 +193,6 @@ related:
       - url: "https://s1.econotimes.com/assets/uploads/20210121c5e791e25593208ea_th_1024x0.jpg"
         width: 1024
         height: 768
-        isCached: true
-  - title: "Microsoft teams up with General Motors for self-driving cars"
-    excerpt: "Self-driving cars are all the rage nowadays, and big tech companies are more than happy to clamber aboard the bandwagon. In the most recent such development, Microsoft has teamed up with automotive titan General Motors (GM) to work on producing electric,"
-    publishedDateTime: 2021-01-20T18:47:00Z
-    webUrl: "https://www.techjuice.pk/microsoft-teams-up-with-general-motors-for-self-driving-cars/"
-    type: article
-    provider:
-      name: techjuice.pk
-      domain: techjuice.pk
-    quality: 41
-    images:
-      - url: "https://cdn.techjuice.pk/wp-content/uploads/2021/01/ms-cars.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Cruise and GM partner with Microsoft to commercialize self-driving vehicles"
     excerpt: "Cruise and General Motors have entered a long-term strategic relationship with Microsoft to accelerate the commercialization of self-driving vehicles. The companies will bring together their"

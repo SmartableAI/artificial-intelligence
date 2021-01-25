@@ -36,20 +36,6 @@ related:
       name: Law360
       domain: law360.com
     quality: 39
-  - title: "Kami now sells a $129 smart doorbell camera with baked-in facial recognition and human detection"
-    excerpt: "The device costs $129 and includes a suite of note-worthy features. The most significant feature is. This allows the camera to notify users when someone is at the door, and more specifically, who’s at the door."
-    publishedDateTime: 2021-01-20T17:07:00Z
-    webUrl: "https://knowtechie.com/kami-now-sells-a-129-smart-doorbell-camera-with-baked-in-facial-recognition-and-human-detection/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 26
-    images:
-      - url: "https://mk0knowtechie1qof48y.kinstacdn.com/wp-content/uploads/2021/01/kami-doorbell-camera-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
 
 secured: "bI2DsJy5MJtiHO1Z/Yg6VMxbg1FL9/lX0iW8gkfkDerY4ypc2/re5+EZqocyG4YkHEsA4xjxQKEvd5mfgPK5hkwJ7Nv3qqcOAfNt1g1UBHprxnr6Urw7CgXF8qXXc2qQej0dfFvMjGmU0bhTiYSenSoFv/jVIhpp5+y2EMxEPsaklxKllSyvdSy0tHWqCbrYBueicN3R/BYvRTGFSoaT1YK0eHGyazU9uWowR7O3PtjWCTk16Q8OjNL7fcAVFnwlVUOL8+p/ye6xjJfxfJxq8n3znnw/aW0ESXk9ugtBzQoqqVpJUR8jnzJaBuwEPrnMvJmPl1OiarIrha1xC2SfOBHq9KmfwHfGdemlQbwNnJ7KsRKJvnw3cbTxM97ErzLFK+EBpbMbVtuaA5EFDMxxWapjPLfwVhJo88H65ZskkEAAjwm7KuR3HHOL4cKjObmRETtyAHyqBYJqgS25It7MDO0st/Mi3UFHqQCzOHapJ30BGjYA+pgcz48Ps7fEI7I+yaokPO/IeGOXg09cJyqX0g==;y5qD5xRbGyVWyzyHQQc2/Q=="
 ---

@@ -1,0 +1,65 @@
+---
+category: news
+title: "Makers of Sophia the robot plan to produce THOUSANDS of lifelike droids by the end of 2021 to provide company for people who are lonely and socially isolated during Covid-19 ..."
+excerpt: "Hong Kong-based Hanson Robotics, the firm behind the famous humanoid robot, Sophia, has revealed that four models, including Sophia, will be mass-produced this year."
+publishedDateTime: 2021-01-25T10:35:00Z
+originalUrl: "https://www.dailymail.co.uk/sciencetech/article-9182767/Makers-Sophia-robot-plan-mass-rollout-amid-pandemic.html"
+webUrl: "https://www.dailymail.co.uk/sciencetech/article-9182767/Makers-Sophia-robot-plan-mass-rollout-amid-pandemic.html"
+ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9182767/amp/Makers-Sophia-robot-plan-mass-rollout-amid-pandemic.html"
+cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9182767/amp/Makers-Sophia-robot-plan-mass-rollout-amid-pandemic.html"
+type: article
+quality: 6
+heat: -1
+published: false
+
+provider:
+  name: Daily Mail
+  domain: dailymail.co.uk
+
+topics:
+  - AI in Robotics
+  - AI
+
+images:
+  - url: "https://i.dailymail.co.uk/1s/2021/01/25/09/38442136-0-image-a-5_1611567714629.jpg"
+    width: 636
+    height: 382
+    isCached: true
+
+related:
+  - title: "\"Thousands\" of Sophia the robot units to be sold to help people cope with COVID-19"
+    excerpt: "The Hong Kong-based maker of Sophia the robot plans to sell thousands of units amid the ongoing COVID-19 pandemic in 2021."
+    publishedDateTime: 2021-01-25T09:42:00Z
+    webUrl: "https://sea.mashable.com/tech/14213/thousands-of-sophia-the-robot-units-to-be-sold-to-help-people-cope-with-covid-19"
+    ampWebUrl: "https://sea.mashable.com/tech/14213/thousands-of-sophia-the-robot-units-to-be-sold-to-help-people-cope-with-covid-19?amp=1"
+    cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/14213/thousands-of-sophia-the-robot-units-to-be-sold-to-help-people-cope-with-covid-19?amp=1"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 83
+    images:
+      - url: "https://sm.mashable.com/t/mashable_sea/photo/default/sophia-the-robot_1typ.620.png"
+        width: 620
+        height: 310
+        isCached: true
+  - title: "40% of supply chains in multinational corporations could not cope with COVID-19 pandemic"
+    excerpt: "Organizations need real-time data insights, agility, and digitalization to mitigate risk and be successful, a new report finds."
+    publishedDateTime: 2021-01-22T16:42:00Z
+    webUrl: "https://www.techrepublic.com/article/40-of-supply-chains-in-multinational-corporations-could-not-cope-with-covid-19-pandemic/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/40-of-supply-chains-in-multinational-corporations-could-not-cope-with-covid-19-pandemic/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/40-of-supply-chains-in-multinational-corporations-could-not-cope-with-covid-19-pandemic/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 78
+    images:
+      - url: "https://tr1.cbsistatic.com/hub/i/r/2020/05/15/c7b2f24c-5bd6-4c2e-8da4-e5a71849d9c0/resize/1200x/b7ddd4e0c59a0375d3225b6af03e58de/istock-1213521693.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+
+secured: "L1ZTISY6DUMdkqQMRgGv1UeztqlzhbrCOnrvLqjcHT2KMfV/K9bEqmyj+byuEBLnPoOA5MUvrcy15kb69E3ErnfnSFiIoqVlrb3E5+LU0cnpoD1C3B0VHw5y/cJgl/3l9xWoh+E1zmdDLaL2oD/SkT8V9zxleW6+oTQDozpGOImWuFnGsfWZt6X04wsG7XeYzgyAQSTznN2CL9sBTf0i8+heCIVTqwx6Hx8fAuyNvYc3oUanoxEdP7m2GCuURnmMg+8V7mp4EYcybqfczQVeqDpGP6HwiHeupeOYgYO+ad3frYTQBbdOesZd9UvWGXeo2NAw6niIawdp4N4kgd3NBzCfG2NPHUpo3GMHfCPO5NA=;ysiltS1GzJuPGXzds/WHLg=="
+---
+

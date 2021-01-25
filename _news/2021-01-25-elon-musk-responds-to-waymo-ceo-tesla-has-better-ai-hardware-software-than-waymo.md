@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2021/01/25/elon-musk-respon
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2021/01/25/elon-musk-responds-to-waymo-ceo-tesla-has-better-ai-hardware--software-than-waymo/amp/"
 type: article
 quality: 112
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     height: 835
     isCached: true
 
-secured: "e8HqySK5X8qU6wPaJmSbsqK0nmaHctRhTnV3bWudAGNpDe4pscKJitCFLADLgsNBlPupCQrvGJYUDXLolzSm5viPW/FppufOgBKoj5H0wUKSZDsCp9DuiBSnur72J11iNl06DAf5ScO++/s25zk/BSCO8jjsGaIyfehu9OBz3BEivk6s8h/jjlHrC1ouBNFwb43BC8MWjUQvH6tJoXMQCyeJKz1A7oEVa4YGu9fQ9QlzWC65itW8EIh8MuKNBDp9J5ho6olz4nqQUcO9vWix2/lJmsg9jXjMzL2dqdM3MDodfg+yKqg47WK2w/LvO8w4eaGmEY5kUKOzIP5oLmSarCpkyEZHp6CZ7//VACXI4LY=;45/BVnF3ZPTnZUL3mc5I3A=="
+related:
+  - title: "Elon Musk gives replay to Waymo boss for doubting Tesla's full self-driving system"
+    excerpt: "Tesla CEO Elon Musk has countered recent remarks by CEO of Google’s self-driving unit Waymo that Tesla has taken a misguided approach to develop..|News Track"
+    publishedDateTime: 2021-01-25T10:05:00Z
+    webUrl: "https://english.newstracklive.com/news/elon-musk-gives-replay-to--waymo-boss-for-doubting-teslas-full-selfdriving-system-sc73-nu272-ta272-1142749-1.html"
+    ampWebUrl: "https://english.newstracklive.com/ampnews/elon-musk-gives-replay-to--waymo-boss-for-doubting-teslas-full-selfdriving-system-sc73-nu272-ta272-1142749-1.html"
+    cdnAmpWebUrl: "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/elon-musk-gives-replay-to--waymo-boss-for-doubting-teslas-full-selfdriving-system-sc73-nu272-ta272-1142749-1.html"
+    type: article
+    provider:
+      name: News Track
+      domain: newstracklive.com
+    quality: 68
+    images:
+      - url: "https://media.newstracklive.com/uploads/automobile-news/cars-news/Jan/25/big_thumb/jhjg_600e96985eb90.jpg"
+        width: 600
+        height: 450
+        isCached: true
+
+secured: "9mVhpcIDwtKKS5ftDgRXM1B7Lzwg8AJeChV+iEDqZLr5ysPGW8OMkKnPBwGhep4uNgXQGPc874UbU2R+c4nq0JMzQmdGkSahcvSK5H3NT/8holAobxnM37KRJ/0menfvaia5evGz8gHMvqAEwcz7fKNkunrQPjUgDNZU8PACGV0k8t4j0sdztAW5dZcZ0ZjDvDG+PaYTPAbNcbfGVV6KQzYNxyxy18ElOo7RKIUAxDXYBs6BeEYaoR60+ocISmOvfUpOMl78NYRyQ5J3ut3AWkRkaue8cRFOiHgcfsMh+bNJsGdgThouUPM/+V3/ARlr1GOcjg1RzNwtbA9N+NPUqjQoI5bqbdBf7noTD/l9jim575bqu4O/ZCm6xtI2lcjnb3n/fPBstCXPJEQgPAhp3FooR13S8S4Exk8qu+Yu/Q7h/TiW2Ybm0m+p7jGSy2gtbcStWukI5jUfHPOwWFdf50DBnpRcoGWwIWalUnWl15a843k/EBvgRAndC+wMKjPHOO1CK3W94QfRyoKHsyqfSw==;X4xgpjqxCr5f0p9oIrIEyg=="
 ---
 

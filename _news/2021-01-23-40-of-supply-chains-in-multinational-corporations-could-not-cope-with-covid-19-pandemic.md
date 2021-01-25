@@ -9,8 +9,8 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/40-of-supply-chains-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/40-of-supply-chains-in-multinational-corporations-could-not-cope-with-covid-19-pandemic/"
 type: article
 quality: 78
-heat: 88
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechRepublic
@@ -30,21 +30,37 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning Technique Could Enhance Predictions of COVID-19 Outcomes"
-    excerpt: "Emerging technique holds promise to create more robust machine learning models that extend beyond a single health system without compromising patient privacy"
-    publishedDateTime: 2021-01-21T16:24:00Z
-    webUrl: "https://www.labmanager.com/news/machine-learning-technique-could-enhance-predictions-of-covid-19-outcomes-24912"
-    ampWebUrl: "https://www.labmanager.com/news/machine-learning-technique-could-enhance-predictions-of-covid-19-outcomes-24912/amp"
-    cdnAmpWebUrl: "https://www-labmanager-com.cdn.ampproject.org/c/s/www.labmanager.com/news/machine-learning-technique-could-enhance-predictions-of-covid-19-outcomes-24912/amp"
+  - title: "\"Thousands\" of Sophia the robot units to be sold to help people cope with COVID-19"
+    excerpt: "The Hong Kong-based maker of Sophia the robot plans to sell thousands of units amid the ongoing COVID-19 pandemic in 2021."
+    publishedDateTime: 2021-01-25T09:42:00Z
+    webUrl: "https://sea.mashable.com/tech/14213/thousands-of-sophia-the-robot-units-to-be-sold-to-help-people-cope-with-covid-19"
+    ampWebUrl: "https://sea.mashable.com/tech/14213/thousands-of-sophia-the-robot-units-to-be-sold-to-help-people-cope-with-covid-19?amp=1"
+    cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/14213/thousands-of-sophia-the-robot-units-to-be-sold-to-help-people-cope-with-covid-19?amp=1"
     type: article
     provider:
-      name: Lab Manager
-      domain: labmanager.com
-    quality: 58
+      name: Mashable
+      domain: mashable.com
+    quality: 83
     images:
-      - url: "https://lmg-labmanager.s3.amazonaws.com/assets/articleNo/24912/aImg/46165/predicting-outcomes-for-covid-19-patients-m.png"
-        width: 800
-        height: 400
+      - url: "https://sm.mashable.com/t/mashable_sea/photo/default/sophia-the-robot_1typ.620.png"
+        width: 620
+        height: 310
+        isCached: true
+  - title: "Makers of Sophia the robot plan to produce THOUSANDS of lifelike droids by the end of 2021 to provide company for people who are lonely and socially isolated during Covid-19 ..."
+    excerpt: "Hong Kong-based Hanson Robotics, the firm behind the famous humanoid robot, Sophia, has revealed that four models, including Sophia, will be mass-produced this year."
+    publishedDateTime: 2021-01-25T10:35:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-9182767/Makers-Sophia-robot-plan-mass-rollout-amid-pandemic.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9182767/amp/Makers-Sophia-robot-plan-mass-rollout-amid-pandemic.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9182767/amp/Makers-Sophia-robot-plan-mass-rollout-amid-pandemic.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 6
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/01/25/09/38442136-0-image-a-5_1611567714629.jpg"
+        width: 636
+        height: 382
         isCached: true
 
 secured: "GsUjdvDduszJ4JkypDbtwZ4KUsvYvfk57HwYpjALfMVe/tKLbOV6qrOWwL1+zLRNu0O+WP4enJVf28oJbykjiU9qnCvVFiOVe+t6QQhhqZIUKObOovTbPyI2FWwQC9mH51paz90AZWRL6r0qzlk0a1f6izrvFUVeEDh6VEL6PcCq5puE3TaIM1OzXNqxHuglm8MmLQgr0nHT4IuwLxEKA+NHsE6ggtaPNiEpd1u1nky+uPqy3MvDGLrkNg9tqlIPnZGHvGDeTRqU85g0fYqzisLLBjc1M2r9csT/im0TKsrpCpOxSvw9fpZwQ6M/HXLZWIiVz7Oj2B+vKsmmwE7MDOdTxe7w1xH9yvAe5hWTudo=;7r1oEmG4qgWRn5WeRhd4LQ=="

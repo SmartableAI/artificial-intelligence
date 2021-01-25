@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "MediaTek announces new 5G chips"
-    excerpt: "MediaTek said its new Dimensity 1200 and Dimensity 1100 chips for 5G smartphones sport new AI, camera and multimedia features."
-    publishedDateTime: 2021-01-20T17:36:00Z
-    webUrl: "https://www.lightreading.com/5g/mediatek-announces-new-5g-chips/d/d-id/766778"
-    type: article
-    provider:
-      name: Light Reading
-      domain: lightreading.com
-    quality: 39
-    images:
-      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
-        width: 600
-        height: 600
-        isCached: true
 
 secured: "5peIVwLCkINGew6c+l4v0URVbyhSAUKfy1YU4u0YuYdnsEQ/l1cYdlPv6Avai05dIpybFkNWKsFSs2KK7mf65hRwP6WgOCwlzVLFAsg8TiqNJ398R3apSleqE8mVfS4+5YphTr93z+xXGgCSCz/BZa/LVNrw7LWiOrFENyUBkfCNT2Q4UCxgxgFmr7g4IYTVN73232CJz/JZG4KgXBwVY4XhJ9kfVmp/ovt+BqGCPAijPIQjeCsz3B1qjY2+fvPekz7Fp4tXhlO32kGPdAKzmJss1wD8wQVsXlUIp/tnB5yuM7T22XSkrqyPiC5v7pxOuqPnc+K1HPq6EonMldiiiLLUg9ifMlRE6dzgUPg6YZo=;xWP0HFMxm1n0LgrEGBHJIg=="
 ---

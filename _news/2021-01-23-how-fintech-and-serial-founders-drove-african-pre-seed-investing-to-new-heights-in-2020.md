@@ -77,15 +77,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Things Are Just Beginning At Peak Fintech"
-    excerpt: "Get started today » We bought shares of Canadian fintech company Peak Fintech (OTCQX:PKKFF) for our SHU Growth Portfolio at $1.15 and $1.12 on December 11 and 21, respectively. We think that its B2B lending platform fills a real need and is only just starting to scale."
-    publishedDateTime: 2021-01-20T18:20:00Z
-    webUrl: "https://seekingalpha.com/article/4399939-things-are-just-beginning-peak-fintech"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
   - title: "WEVO Selected for MassChallenge FinTech 2021 Program"
     excerpt: "BOSTON, MA / ACCESSWIRE / January / WEVO, a customer experience platform that provides the fastest, most accurate insight to optimize digital experiences, was selected to participate in the 2021 MassChallenge FinTech program."
     publishedDateTime: 2021-01-21T07:00:00Z

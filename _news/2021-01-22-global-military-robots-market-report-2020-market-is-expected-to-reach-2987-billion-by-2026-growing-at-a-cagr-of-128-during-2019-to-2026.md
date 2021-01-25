@@ -21,17 +21,20 @@ topics:
   - AI
 
 related:
-  - title: "Global AI-based Learning Market Surges to $34.9 Billion by 2026"
-    excerpt: "Worldwide AI-based Learning Market\" is now available for sale. According to the report, the five-year compound annual growth rate (CAGR) for the global AI-based Learning market is a robust 32.8% and revenues will more than quadruple to $34."
-    publishedDateTime: 2021-01-20T18:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/n19240095/global-ai-based-learning-market-surges-to-34-9-billion-by-2026"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19240095"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19240095"
+  - title: "Cleaning Robot Market Size USD 3578.5 Million By 2026 At CAGR of 7.0% - Valuates Reports"
+    excerpt: "Cleaning Robot Market is segmented by Product-Type - Personal Cleaning Robot, Professional Cleaning Robot, Application -"
+    publishedDateTime: 2021-01-21T13:46:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/cleaning-robot-market-size-usd-3578-5-million-by-2026-at-cagr-of-7-0-valuates-reports-806251882.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 30
+    images:
+      - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
+        width: 920
+        height: 482
+        isCached: true
 
 secured: "XerAI6VWLzBk6dReWSXghdlS1DuEI1+Z1V8v88xp4/btwirDMzD8tGWkKvtQJok0ZC0wmv1/p9RoDJftohjfvnJpTPsHP1MgQP0UtPS9Ai0QU/qArjD5YVOKTwMFcj+I2WRFMMf4uxJg2b2nVLiFHHDMagMr2BZoTs4DwpLew6NYG9hy6nvsNBzn5KoxS5Eh615SoJTOEcEXVwr4kw+IFOJ0mD71abhQu2h/5Pu7q7D5UmxEWbCMeNibM3er+KD7SX91PfXHB/9Si2uuxMi8s2G7zbmHi8GBrtsUH8iKWffy3/o/BW/4kBS1hhwbLRVZpYFG+XPjBWt+m7keZu1EVosu/231t+s4o8JLGPmd/ok=;paUhX9BPz96Eu5wDTAzKJg=="
 ---

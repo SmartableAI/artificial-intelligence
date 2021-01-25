@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Baidu, Geely join hands to establish intelligent EV company"
-excerpt: "\"At Baidu, we have long believed in the future of intelligent driving and have over the past decade invested heavily in AI to build a portfolio of world-class self-driving services,\" Robin Li, Co-founder and CEO of Baidu, said in a statement. According to ..."
-publishedDateTime: 2021-01-11T12:45:00Z
-originalUrl: "https://www.prokerala.com/news/articles/a1120051.html"
-webUrl: "https://www.prokerala.com/news/articles/a1120051.html"
-ampWebUrl: "https://www.prokerala.com/news/articles/a1120051.html?amp=1"
-cdnAmpWebUrl: "https://www-prokerala-com.cdn.ampproject.org/c/s/www.prokerala.com/news/articles/a1120051.html?amp=1"
+excerpt: "\"At Baidu, we have long believed in the future of intelligent driving and have over the past decade invested heavily in AI to build a portfolio of world-class self-driving services,\" Robin Li ..."
+publishedDateTime: 2021-01-11T13:54:00Z
+originalUrl: "https://menafn.com/1101418893/Baidu-Geely-join-hands-to-establish-intelligent-EV-company&source=30"
+webUrl: "https://menafn.com/1101418893/Baidu-Geely-join-hands-to-establish-intelligent-EV-company&source=30"
 type: article
 
 provider:
-  name: Prokerala
-  domain: prokerala.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.prokerala.com/news/photos/imgs/1200/self-driving-cars-can-easily-mimic-human-drivers-xinhua-ju-huanzong-ians-993334.jpg"
-    width: 1200
-    height: 800
+  - url: "https://menafn.com/updates/pr/2021-01/11/I_a0679f55-dimage_story.jpg"
+    width: 400
+    height: 267
     isCached: true
 
-secured: "GAhXYWOyve5iyk5MTrsFQsrVK2xm302W/WhmJeMGGHlfs2jh23gutMakSwconcAe2zU+gaNMfF/Ce8b7buCyLo3n56BZRpO1Wl7SWEUfvIsM/5Lq8K51SZR650RHr/RqQMACZKvNrb0lgvAGNqt9OrHdGKw9tk0JZUKP/bInsai5XgRbH/NnppgAoxlK2/RstIuByZZO4xsar6ZiUkjIDvHesPEDSSAm3mb03IY5r/CU6BnLFXiWB+r2dyOKjQQZRagW+N5xsMzyJGTaiwNTC4zlPSH+0tlk5LsgKMmZjbqgU7AqWoXdnL1gpdjTG6yGzD3x1+3uO2Pg5R3fEzs5ZptU8YGENo6w3sgsgjpmLcg=;xqRhp2KJ0Po7MHNUoQoylg=="
+secured: "gU2GaF4+msxntIOs2uwUqnyOydbYp0gfl25dllJOc403Q4MLDeE+hx0gqsumEw7ZZ95x5HnL7LML+9C0rRxAm4UjPpCNPBAMwEXoSes2VVSjna3MDBiMikeqWHXUK3xhXffi4GeQAoLVbjxl6ErJUZQ6Qv4ZQDs+wvXKZnSbgzRGTu80+UeSqcJ5gF7cXDQh7VX687CmuVvfhXf2w9X/bGMhoYKbE9nQ5q5rH4//N2ckCGERIFj0Y2UCH7rcalpcvIx/Zb3hHqzqpwwQdGmraKGIMqtKQf4Sd1ozypMoJqdh1mYDqn4I4uLdFlZSbCAsMfi7MzEsZ/WyoC+X3juduvV04rJfeYWqPUJyn/XNWnY=;RvaC3aCraT35U36TslVrkQ=="
 ---
 

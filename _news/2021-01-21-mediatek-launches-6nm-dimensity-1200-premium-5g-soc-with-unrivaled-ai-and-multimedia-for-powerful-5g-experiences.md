@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "MediaTek announces new 5G chips"
-    excerpt: "MediaTek said its new Dimensity 1200 and Dimensity 1100 chips for 5G smartphones sport new AI, camera and multimedia features."
-    publishedDateTime: 2021-01-20T17:36:00Z
-    webUrl: "https://www.lightreading.com/5g/mediatek-announces-new-5g-chips/d/d-id/766778"
-    type: article
-    provider:
-      name: Light Reading
-      domain: lightreading.com
-    quality: 39
-    images:
-      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
-        width: 600
-        height: 600
-        isCached: true
   - title: "MediaTek launches 6nm 5G SoC chips"
     excerpt: "MediaTek has unveiled its new Dimensity 1200 and 1100 5G smartphone SoC series built using 6nm process technology."
     publishedDateTime: 2021-01-21T00:54:00Z

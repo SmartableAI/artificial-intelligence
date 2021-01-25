@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "New AI system counts endangered elephants from space"
-    excerpt: "Scientists have combined satellite cameras with a convolutional neural network (CNN) to detect African elephants moving through forests and grasslands."
-    publishedDateTime: 2021-01-20T17:35:00Z
-    webUrl: "https://thenextweb.com/neural/2021/01/20/new-ai-system-counts-endangered-elephants-from-space/"
-    ampWebUrl: "https://thenextweb.com/neural/2021/01/20/new-ai-system-counts-endangered-elephants-from-space/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/20/new-ai-system-counts-endangered-elephants-from-space/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 87
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/Screenshot-2021-01-20-at-15.12.33-796x449.png"
-        width: 796
-        height: 449
-        isCached: true
   - title: "Satellite Images to Aid Elephant Conservation From Space"
     excerpt: "Conservationists have started using satellite imagery to count elephants from space, a technique that British experts hope will help protect threatened populations in Africa."
     publishedDateTime: 2021-01-21T15:48:00Z
@@ -58,19 +42,19 @@ related:
         width: 1200
         height: 807
         isCached: true
-  - title: "New AI System Accelerates Speech Therapy"
-    excerpt: "TikTalk, a new, artificial intelligence-based (AI) system can accelerate speech therapy with unparalleled lesson customization and innovative training for K-6-aged children using highly engaging video games to encourage more frequent home practice."
-    publishedDateTime: 2021-01-23T18:33:00Z
-    webUrl: "https://www.unite.ai/new-ai-system-accelerates-speech-therapy/"
+  - title: "Space satellites equipped with machine learning count elephants on Earth"
+    excerpt: "Researchers are using satellite images processed with computer algorithms, which are trained with more than 1,000 images of elephants to help spot the creatures."
+    publishedDateTime: 2021-01-21T14:42:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-9171837/Space-satellites-equipped-machine-learning-count-elephants-Earth.html"
     type: article
     provider:
-      name: unite
-      domain: unite.ai
-    quality: 56
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 38
     images:
-      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.f8AX~1c8f3/w:945/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2021/01/speech3.jpg"
-        width: 945
-        height: 600
+      - url: "https://i.dailymail.co.uk/1s/2021/01/21/13/38307498-0-image-a-2_1611235686430.jpg"
+        width: 636
+        height: 382
         isCached: true
 
 secured: "JfD8i8NWnspFV1zNa3RKQIikUmPUh9V9MdrFgvK/Gl6b6TtCXodwRdNBKU93vN8RdtI9b2vyxuACp2cmFJm/eK4oMLYQAS3zIARCk6e96iIoRFftJ6k5Kpi61K32ytMWSUCUjmWklKko7dA3m+6PSF4w8pzvE88MHfoxhXmQcrpeXCDIMTnU/xb7BEwlaOJ6XfWCvkAvQpOKEuVBSGBx4f3ZpMMTpJvVU/QTpHQWCh0I2qiQCst/B2CWZoIgEpY1DriG7Sdb85H+cPrxyqcZQ6ObUcDY7vO3pUr/+lP8wLm6j9+T4lvRP4tpbvAV/poFvMYKvEqmQM05/YjvJEkmpH/UPacATMjJgvphVjwNc3pmwi1qfTeWAlyVpSNHCA9/9hYPjRI8E07MnOhRIGtDitUFUeIvZyf6Y4idi2n6JuBoskxqHgpG+ugyomsMx/8BBM4d+QWHszLgZzXwAKGEYEGJVZUQGyJk6AiXHR+wDo52h87IP3Lx8tHm6QVYHH9MsCbebnhjUc+wKJhQP9LlqA==;6UB0G9w7UOipvA5Jka62+Q=="
