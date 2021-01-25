@@ -7,7 +7,7 @@ originalUrl: "https://news.mit.edu/2021/robot-customized-hardware-0121"
 webUrl: "https://news.mit.edu/2021/robot-customized-hardware-0121"
 type: article
 quality: 84
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -68,6 +68,20 @@ related:
       name: Windows
       domain: compsmag.com
     quality: 54
+  - title: "Robomorphic Computing: Designing Customized “Brains” for Robots"
+    excerpt: "A new system devises hardware architectures to hasten robots’ response time. Contemporary robots can move quickly. “The motors are fast, and they’re powerful,” says Sabrina Neuman. Yet in complex situations,"
+    publishedDateTime: 2021-01-25T02:38:00Z
+    webUrl: "https://scitechdaily.com/robomorphic-computing-designing-customized-brains-for-robots/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 54
+    images:
+      - url: "https://scitechdaily.com/images/Robot-Brain-Concept-scaled.jpg"
+        width: 2560
+        height: 1446
+        isCached: true
 
 secured: "mg3VoaCjagsm8ejbL+u8GO0B4VQpALFrzdHEEKvnfqHEQ06na4Suzg+wK5VQzf5ZdAwBBWgrRLAe9sN3OoEnu1rFxFBw27B2JUTI1dhZJg5bk5XXxd70geEH/oU+Yt2eax7sutZHUj+xX/NlfKvigYyOOs5NJtfIypm2S9IhskG1Uj73V/fYB6l6CAM57yyQMiQYUiB3Q/2nBMSeEnJORKtagB7TEcsjDZ4GBM1eelHhX5U6Bwr9/jeUzs3sE5yHrlZE0/wuJa32qCuhKTOkIOiccqFB41ULh0d5Svn4bocbwSzo09cP4Ts+iEz1qRvciBR8JJ+uy/xGzm3Gcb13Pa+TH2osfcrZ9VqzV82Bx8wYFF2WF3GmQOitn4hJ36+pp7xbru47IWKacYNHTBuk67Eai70QlahVPGsXhYmu3WZynPUD51SH+rOp1pT+m0TdP7WFm3Aj9VVesJYMn/qmhMqOKcgVtlbnpYa1ZOQNFfz5krYApPH2kBmI9a1Rx+vsJ06wva+3L/oggj4tIwxYVg==;z4OBNrLbMUhvCWo3J/qryQ=="
 ---

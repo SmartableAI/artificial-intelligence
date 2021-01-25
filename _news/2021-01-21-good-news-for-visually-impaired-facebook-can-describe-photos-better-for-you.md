@@ -84,22 +84,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "FB Improves AI used to Describe Images for Visually Impaired Users"
-    excerpt: "Facebook has announced new modifications to its artificial intelligence (AI) technology for assisting visually impaired users."
-    publishedDateTime: 2021-01-20T09:20:00Z
-    webUrl: "https://www.phoneworld.com.pk/fb-improves-ai-used-to-describe-images-for-visually-impaired-users/"
-    ampWebUrl: "https://www.phoneworld.com.pk/fb-improves-ai-used-to-describe-images-for-visually-impaired-users/amp/"
-    cdnAmpWebUrl: "https://www-phoneworld-com-pk.cdn.ampproject.org/c/s/www.phoneworld.com.pk/fb-improves-ai-used-to-describe-images-for-visually-impaired-users/amp/"
-    type: article
-    provider:
-      name: phoneworld.com.pk
-      domain: phoneworld.com.pk
-    quality: 59
-    images:
-      - url: "https://www.phoneworld.com.pk/wp-content/uploads/2021/01/fb-hero-image-001.jpeg"
-        width: 1200
-        height: 678
-        isCached: true
   - title: "Facebook Improves Its AI Audio Photo Descriptions for the Visually Impaired"
     excerpt: "Facebook has been using AI to audibly describe the contents of photos for the visually impaired for some time, but it's improving those efforts this year."
     publishedDateTime: 2021-01-20T20:08:00Z

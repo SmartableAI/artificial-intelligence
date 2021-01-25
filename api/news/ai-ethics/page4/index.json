@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-26-who-will-your-algorithm-harm-next-why-businesses-need-to-start-thinking-about-evil-ai-now.md",
+      "title": "Who will your algorithm harm next? Why businesses need to start thinking about evil AI now",
+      "excerpt": "Building AI systems that are ethical is no longer a box-ticking exercise, and could deliver a key competitive advantage to the businesses that embrace responsible technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/who-will-your-algorithm-harm-next-why-businesses-need-to-start-thinking-about-evil-ai-now/",
+      "originalUrl": "https://www.zdnet.com/article/who-will-your-algorithm-harm-next-why-businesses-need-to-start-thinking-about-evil-ai-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2019/03/26/df8e2dc9-750c-48d0-96d1-e773830a900a/thumbnail/1200x675/f36a16e7b4dd0d52f29f0dded0d20a88/how-you-can-build-an-ethical-ai-project-5c99faee2f64e300dd74a9aa-1-mar-26-2019-12-32-00-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/who-will-your-algorithm-harm-next-why-businesses-need-to-start-thinking-about-evil-ai-now/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/who-will-your-algorithm-harm-next-why-businesses-need-to-start-thinking-about-evil-ai-now/",
+      "publishedDateTime": "2020-11-26T05:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-11-26-the-impact-of-machine-learning-ai-on-advertising-in-a-privacy-compliant-age.md",
       "title": "The impact of machine learning & AI on advertising in a privacy compliant age",
       "excerpt": "Sian Williams, Audience Strategy and Planning Director at MediaCom North, explains how AI offers a future of increased automation, faster decision-making and ‘hyper-personalisation’ that will make marketing comms more effective and businesses more efficient.",

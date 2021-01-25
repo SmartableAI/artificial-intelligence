@@ -2,6 +2,92 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-01-12-a-new-technique-called-concept-whitening-promises-to-provide-neural-network-interpretability.md",
+      "title": "A new technique called ‘concept whitening’ promises to provide neural network interpretability",
+      "excerpt": "\"Concept whitening\" can help steer neural networks toward learning specific concepts without sacrificing performance.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/12/a-new-technique-called-concept-whitening-promises-to-provide-neural-network-interpretability/",
+      "originalUrl": "https://venturebeat.com/2021/01/12/a-new-technique-called-concept-whitening-promises-to-provide-neural-network-interpretability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/Deep-learning-concept-whitening.jpg?w=1200&strip=all",
+          "width": 696,
+          "height": 392,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/12/a-new-technique-called-concept-whitening-promises-to-provide-neural-network-interpretability/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/12/a-new-technique-called-concept-whitening-promises-to-provide-neural-network-interpretability/amp/",
+      "publishedDateTime": "2021-01-12T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-compeer-financial-delivers-superior-user-experience-with-citrix.md",
+      "title": "Compeer Financial Delivers Superior User Experience with Citrix®",
+      "excerpt": "Our lives are driven by technology and we expect it to be always on and perform flawlessly– especially at work. It’ s a tall order, but one that just got easier to deliver at Compeer Financial, thanks to Citrix Systems,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/press-release/compeer-financial-delivers-superior-user-experience-with-citrixr-2021-01-12",
+      "originalUrl": "https://www.nasdaq.com/press-release/compeer-financial-delivers-superior-user-experience-with-citrixr-2021-01-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-12T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-ces-2021-taiwan-startup-genkitek-designs-and-develops-ai-cameras-and-ai-networking-video-recorders.md",
       "title": "CES 2021 Taiwan startup GenkiTek designs and develops AI cameras and AI networking video recorders",
       "excerpt": "GenkiTek, a spinoff company from Taiwan's Industrial Technology Research Institute designs and develops AI cameras and AI networking",
@@ -1102,101 +1188,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-chinas-baidu-to-team-up-with-geely-on-evs.md",
-      "title": "China's Baidu to team up with Geely on EVs",
-      "excerpt": "The new company will make and sell electric cars. Baidu will provide the technology for self-driving, while Geely will likely handle production. Baidu has not provided further details, such as ...",
-      "sourceUrl": null,
-      "webUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20210112_09/",
-      "originalUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20210112_09/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20210112_09_929166_L.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20210112_09/amp.html",
-      "cdnAmpWebUrl": "https://www3-nhk-or-jp.cdn.ampproject.org/c/s/www3.nhk.or.jp/nhkworld/en/news/20210112_09/amp.html",
-      "publishedDateTime": "2021-01-11T16:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NHK",
-        "domain": "nhk.or.jp",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-ibm-acquires-7summits-to-deepen-its-salesforce-consulting-expertise.md",
-      "title": "IBM acquires 7Summits to deepen its salesforce consulting expertise",
-      "excerpt": "IBM acquires 7Summits to expand scope of Salesforce consulting practice focusing on digital business transformation",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/11/ibm-acquires-7summits-to-deepen-its-salesforce-consulting-expertise/",
-      "originalUrl": "https://venturebeat.com/2021/01/11/ibm-acquires-7summits-to-deepen-its-salesforce-consulting-expertise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/7summits-ibm.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/11/ibm-acquires-7summits-to-deepen-its-salesforce-consulting-expertise/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/11/ibm-acquires-7summits-to-deepen-its-salesforce-consulting-expertise/amp/",
-      "publishedDateTime": "2021-01-11T15:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

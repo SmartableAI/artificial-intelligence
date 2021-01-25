@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recogni
 webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-key-drivers-challenges-and-trends-by-2026-2021-01-22"
 type: article
 quality: 65
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Self-Driving Car Market Trends, Drivers, Challenges, Segmentation based on Products till 2021 – 2024"
-    excerpt: "Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024. A self-driving car or a driverless car or even robotic car navigates without any human input as the vehicle has the capability of sensing its surroundings while driving on road."
-    publishedDateTime: 2021-01-20T10:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-trends-drivers-challenges-segmentation-based-on-products-till-2021-2024-2021-01-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

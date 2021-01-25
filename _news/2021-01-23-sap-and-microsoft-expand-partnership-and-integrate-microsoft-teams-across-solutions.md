@@ -261,20 +261,6 @@ related:
         width: 358
         height: 238
         isCached: true
-  - title: "Microsoft teams up with GM to create autonomous electric cars to challenge Tesla"
-    excerpt: "\"This is a major shot across the bow from Microsoft to Tesla and Waymo and other EV autonomous ... vehicles with Azure computing and artificial intelligence capabilities promises a boon for ..."
-    publishedDateTime: 2021-01-20T09:01:00Z
-    webUrl: "https://www.iol.co.za/motoring/industry-news/microsoft-teams-up-with-gm-to-create-autonomous-electric-cars-to-challenge-tesla-4dee8d62-1779-4f0d-b6a8-9001db1351c2"
-    type: article
-    provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 51
-    images:
-      - url: "https://image-prod.iol.co.za/resize/2280x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/ca8c9b0f-d547-5b79-bcfb-57ba54143f04&operation=CROP&offset=0x237&resize=2280x1283"
-        width: 650
-        height: 366
-        isCached: true
   - title: "Nextech AR Integrates Microsoft Azure Cloud Computing Platform Other OTC:NEXCF"
     excerpt: "Nextech AR Integrates Microsoft Azure Cloud Computing Platform Other OTC:NEXCF. Cloud-based data enables Nextech AR to host"
     publishedDateTime: 2021-01-24T22:29:00Z
@@ -394,20 +380,6 @@ related:
       - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/microsoft-to-integrate-teams-across-sap-solutions-2021-01-24.jpg"
         width: 1000
         height: 800
-        isCached: true
-  - title: "GM, Microsoft lead $2 billion in funding for Cruise, team up on technology"
-    excerpt: "General Motors and Microsoft are leading a $2 billion investment round in self-driving car startup Cruise in a deal that will bring the software giant’s cloud and edge-computing capabilities to the venture."
-    publishedDateTime: 2021-01-20T09:04:00Z
-    webUrl: "https://europe.autonews.com/automakers/gm-microsoft-lead-2-billion-funding-cruise-team-technology"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 37
-    images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/RTX3KCD1.jpg"
-        width: 800
-        height: 600
         isCached: true
   - title: "SAP and Microsoft expand partnership and integrate Microsoft Teams across solutions"
     excerpt: "SAP SE (NYSE: SAP) and Corp. announced plans to integrate Teams with SAP’s intelligent suite of solutions. The companies also formalized an extensive expansion of an existing strategic partnership to accelerate the adoption of SAP S/4HANA® on Azure."

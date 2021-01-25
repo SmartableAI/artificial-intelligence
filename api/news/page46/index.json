@@ -2,6 +2,100 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2020-12-11-teachable-ai-will-help-alexa-users-set-up-preferences.md",
+      "title": "Teachable AI will help Alexa users set up preferences",
+      "excerpt": "Amazon says that in the coming months, Alexa customers will be able to 'teach' the virtual assistant their preferences.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/11/teachable-ai-will-help-alexa-users-set-up-preferences/",
+      "originalUrl": "https://venturebeat.com/2020/12/11/teachable-ai-will-help-alexa-users-set-up-preferences/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/09/amazon-echo-dot-2019-e1571958500413.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/11/teachable-ai-will-help-alexa-users-set-up-preferences/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/11/teachable-ai-will-help-alexa-users-set-up-preferences/amp/",
+      "publishedDateTime": "2020-12-11T07:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-11-tiny-four-bit-computers-are-now-all-you-need-to-train-ai.md",
+      "title": "Tiny four-bit computers are now all you need to train AI",
+      "excerpt": "Some researchers have rushed to find new directions, like algorithms that can train on less data, or hardware that can run those algorithms faster. Now IBM researchers are proposing a different one: to reduce the number of bits,",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2020/12/11/1014102/ai-trains-on-4-bit-computers/",
+      "originalUrl": "https://www.technologyreview.com/2020/12/11/1014102/ai-trains-on-4-bit-computers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh5.googleusercontent.com/zQLYOIjEH08BXrs2j4Ii8uG8JzjDPjzeKSI7PAIWs553o4-qOXf2dWp9s2RRO4bAV0xu9qiJA_wMRBohAUYAC1VWtCmLVAZBYvrz7GMKmrp34ycLbND7_bHyKT-ru3ZG1UTjbAOx",
+          "width": 700,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2020/12/11/1014102/ai-trains-on-4-bit-computers/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/12/11/1014102/ai-trains-on-4-bit-computers/amp/",
+      "publishedDateTime": "2020-12-11T07:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-12-11-entertainment-robots-market-new-opportunities-for-sustained-growth-and-expansion-with-covid-19-impact-2020-2026.md",
       "title": "Entertainment Robots Market New Opportunities for Sustained Growth and Expansion (With Covid-19 Impact) 2020-2026",
       "excerpt": "Global Entertainment Robots Market Growth 2020-2026 This study specially analyses the impact of Covid-19 outbreak",
@@ -1083,101 +1177,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-study-details-first-artificial-intelligence-tool-to-help-labs-rule-out-covid-19.md",
-      "title": "Study details first artificial intelligence tool to help labs rule-out COVID-19",
-      "excerpt": "Hospital-based laboratories and doctors at the front line of the COVID-19 pandemic might soon add artificial intelligence to their testing toolkit. A recent study describes the performance of Biocogniv's new AI-COVID™ software,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-12/lcom-sdf121020.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-12/lcom-sdf121020.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-10T13:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-watson-assistant-improves-intent-detection-accuracy-leads-against-ai-vendors-cited-in-published-study.md",
-      "title": "Watson Assistant improves intent detection accuracy, leads against AI vendors cited in published study",
-      "excerpt": "Have you ever used a chatbot to get help? If you have, chances are that you’re all too familiar with answers like, “I’m sorry, I don’t understand” or “Can you try rephrasing?” With frustrating responses like these, many businesses still see chatbots as immature tools for customer service. The biggest",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/12/watson-assistant-improves-intent-detection-accuracy-leads-against-ai-vendors-cited-in-published-study/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2020/12/watson-assistant-improves-intent-detection-accuracy-leads-against-ai-vendors-cited-in-published-study/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/12/WA_NLU_TableAccuracy-1024x558.jpg",
-          "width": 1024,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-10T13:40:14-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-11-gm-self-driving-company-hires-former-delta-executive-as-coo.md",
+      "title": "GM Self-Driving Company Hires Former Delta Executive as COO",
+      "excerpt": "Cruise LLC, the self-driving car startup majority owned by General Motors Co., has hired former Delta Air Lines Inc. Chief Operating Officer Gil West for the same position as it prepares to start offering paid robotaxi rides in San Francisco.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-01-08/gm-self-driving-unit-hires-former-delta-air-lines-exec-as-coo",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-01-08/gm-self-driving-unit-hires-former-delta-air-lines-exec-as-coo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ii4e.7a3qcDM/v0/360x-1.jpg",
+          "width": 360,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2021-01-08/gm-self-driving-unit-hires-former-delta-air-lines-exec-as-coo",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2021-01-08/gm-self-driving-unit-hires-former-delta-air-lines-exec-as-coo",
+      "publishedDateTime": "2021-01-11T02:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-11-baidu-geely-forge-smart-electric-vehicle-venture.md",
       "title": "Baidu, Geely forge smart electric vehicle venture",
       "excerpt": "Chinese internet giant Baidu announced plans to supply automaker Zhejiang Geely Holding with its intelligent driving technologies as part of a joint venture to manufacture smart electric vehicles (EV).",
@@ -1393,58 +1445,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-01-04-were-google-workers-and-we-are-forming-a-union.md",
-      "title": "We’re Google Workers, and We Are Forming a Union",
-      "excerpt": "Google employees, along with employees of Waymo, Verily and other Alphabet companies, stopped working and walked off the job in cities around the world. A week earlier, The New York Times reported that the company had paid tens of millions of dollars to two executives who had been accused of sexual misconduct toward our co-workers,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/01/04/opinion/google-union.html",
-      "originalUrl": "https://www.nytimes.com/2021/01/04/opinion/google-union.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/01/04/opinion/04google-02/04google-02-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/01/04/opinion/google-union.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/04/opinion/google-union.amp.html",
-      "publishedDateTime": "2021-01-04T03:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

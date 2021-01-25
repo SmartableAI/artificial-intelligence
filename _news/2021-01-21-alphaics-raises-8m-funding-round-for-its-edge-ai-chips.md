@@ -58,20 +58,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Edge AI Company AlphaICs Raises $8 Million In Series B"
-    excerpt: "Edge AI technology company from Bangalore, AlphaICs announced today that it has secured $8 million funding in a Series B round."
-    publishedDateTime: 2021-01-20T10:58:00Z
-    webUrl: "https://analyticsindiamag.com/edge-ai-company-alphaics-raises-8-million-in-series-b/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2021/01/Prashant-Trivedi-VP-Business-Development-Co-founder-AlphaICs.jpg"
-        width: 1220
-        height: 915
-        isCached: true
 
 secured: "8+N+WuSh2twSvMq19CaBkdJVbwWYhb6CSCBjtQS+7FzelpAWWDcnW9C4P3WCcUfFuouiEvGqy+IQ4PiTke5ItT2lifUD8vt2QjDZQQ7MHuNOUN5apNswg0rMPrOVm7Ij0j/Uv67+B7rwl9qR6m9WQMasEAgcXx9g+RbSLsm2wyy1GnIarqjq+kZ4p0I/Ql9vnH0dTY+7w6ioX6kTgnWYwcmV72NM47KpXpLPo2OkDsyiAJmKRKJGn/JXIud25tkAMdyDl3kqqTLjz01mbrP3hHPbehuBwnZpDP/6qwzIkw0no0Rs2nKlYDuHuxBCletzABwgmM7jlQOk+LnAfztikj2NGI+9CALhUPtDfENGTjZHcZ8RzmxAPtYXiiB3RdLx1rVxPzCOu5WDiTVfYIZg93OWFN+ZgZrlJnwp2dtRJ7UB/UcADPRzMFn3JeqnciubtiUQGWULJ7zy6MN8qfv7fNWpX+AanKD9cjaFYLqzXIDsXUT8SpmejX4QlqGmteckxLjjVLCBDlkx81RSWWSTrA==;DlfKeOpXB26QU7JmVG7g5Q=="
 ---

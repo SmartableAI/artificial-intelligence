@@ -47,6 +47,22 @@ related:
         width: 1500
         height: 842
         isCached: true
+  - title: "Use of facial recognition tech sparks privacy fears"
+    excerpt: "The Lucknow police’s decision to use facial recognition technology (FRT) to monitor women’s expressions to prevent street harassment has spurred privacy concerns among Indians. The government needs to create strict and clear regulations before it allows law enforcement agencies to use facial recognition for policing,"
+    publishedDateTime: 2021-01-25T01:34:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/use-of-facial-recognition-tech-sparks-privacy-fears-11611536778871.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/use-of-facial-recognition-tech-sparks-privacy-fears/amp-11611536778871.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/use-of-facial-recognition-tech-sparks-privacy-fears/amp-11611536778871.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://images.livemint.com/img/2021/01/25/600x338/262f1b54-5e54-11eb-a9a9-2635882cf050_1611536777677_1611536858259.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "This site posted every face from Parler’s Capitol Hill insurrection videos"
     excerpt: "The site's creator tells WIRED that he used simple open source machine learning and facial recognition software to detect, extract, and deduplicate every face from the 827 videos that were posted to Parler from inside and outside the Capitol building on January 6,"
     publishedDateTime: 2021-01-23T11:40:00Z

@@ -2,6 +2,110 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-01-15-i-am-not-a-soldier-but-i-have-been-trained-to-kill.md",
+      "title": "I Am Not a Soldier, but I Have Been Trained to Kill",
+      "excerpt": "A sprawling tactical industry is teaching American civilians how to fight like Special Ops forces. By preparing for violence at home, are they calling it into being?",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/anthony-levandowski-artificial-intelligence-religion/",
+      "originalUrl": "https://www.wired.com/story/america-civilian-tactical-training-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5a0a046174c62b689459d7c4/master/pass/LEAD%20Anthony%20Levandoski_Michelle%20Le03.JPG",
+          "width": 4500,
+          "height": 3000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/anthony-levandowski-artificial-intelligence-religion/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/anthony-levandowski-artificial-intelligence-religion/amp",
+      "publishedDateTime": "2021-01-15T07:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-15-the-ai-incident-database-wants-to-improve-the-safety-of-machine-learning.md",
+      "title": "The AI Incident Database wants to improve the safety of machine learning",
+      "excerpt": "The AI Incident Database documents failures of AI systems in the real world, revealing past failures to avoid repeating them.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/15/the-ai-incident-database-wants-to-improve-the-safety-of-machine-learning/",
+      "originalUrl": "https://venturebeat.com/2021/01/15/the-ai-incident-database-wants-to-improve-the-safety-of-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/AI-incident-database.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/15/the-ai-incident-database-wants-to-improve-the-safety-of-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/15/the-ai-incident-database-wants-to-improve-the-safety-of-machine-learning/amp/",
+      "publishedDateTime": "2021-01-15T07:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-15-three-ways-brands-can-win-the-buy-box-using-search-and-ai.md",
       "title": "Three Ways Brands Can Win The Buy Box Using Search And AI",
       "excerpt": "AI makes it possible for these marketplaces to do predictive analysis of massive datasets to understand consumer/shopper behavior. Algorithms power almost every aspect of e-commerce for brands and the consumers they serve: discovery (search),",
@@ -1092,111 +1196,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-this-ai-powered-assistant-helps-marketing-and-sales-teams-scale.md",
-      "title": "This AI-Powered Assistant Helps Marketing and Sales Teams Scale",
-      "excerpt": "With millions of their employees working from home during the pandemic, many companies have turned to AI technology to improve their marketing and sales teams’ productivity. Ila",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/video/363273",
-      "originalUrl": "https://www.entrepreneur.com/video/363273",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1610555017-ilan2.JPG",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-14T10:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-automating-amazon-personalize-solution-using-the-aws-step-functions-data-science-sdk.md",
-      "title": "Automating Amazon Personalize solution using the AWS Step Functions Data Science SDK",
-      "excerpt": "Machine learning (ML)-based recommender systems aren’t a new concept across organizations such as retail, media and entertainment, and education, but developing such a system can be a resource-intensive task—from data labelling, training and inference, to scaling. You also need to apply continuous integration,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automating-amazon-personalize-solution-using-the-aws-step-functions-data-science-sdk/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automating-amazon-personalize-solution-using-the-aws-step-functions-data-science-sdk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/01/12/ML-1267-12.jpg",
-          "width": 633,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-14T09:47:17-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

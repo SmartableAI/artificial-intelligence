@@ -64,6 +64,20 @@ related:
       name: Windows
       domain: compsmag.com
     quality: 54
+  - title: "Robomorphic Computing: Designing Customized “Brains” for Robots"
+    excerpt: "A new system devises hardware architectures to hasten robots’ response time. Contemporary robots can move quickly. “The motors are fast, and they’re powerful,” says Sabrina Neuman. Yet in complex situations,"
+    publishedDateTime: 2021-01-25T02:38:00Z
+    webUrl: "https://scitechdaily.com/robomorphic-computing-designing-customized-brains-for-robots/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 54
+    images:
+      - url: "https://scitechdaily.com/images/Robot-Brain-Concept-scaled.jpg"
+        width: 2560
+        height: 1446
+        isCached: true
 
 secured: "S2ZCZTpT2GK3B5Dh3yp8zXJYlN7nCAd+eljRV1DSJZ8Y0PXG3BXJQvq63DVniPy9exBrAovASDXRKxtbTHY/Cug27AJin0ZjRtP9e/dTKMjul+2JGR5xmzX4+97zY+bgvqSGGhpiwhKASUz95HdZbxL4NbXsFG9m9ea7QNnkPPGgGXMvP/Le3ju+lDGXvs1GRCjaEtUonRSqfh6hmiRfXgJqqkeups+Wi1kMuDGa9316k4aemWSJkeL2jVEGb3mgMwAhYxku5jIyK3ekbwMDHflKBU3mKRat7yLTLJPUpFL3c4ctt0OzgRUjw/pyBkCIlAl9HujPvw8R4HdUXk9JJshMw8gAtow+2rZaHNDshww=;+3UV9FZn31zazQ2ffHgNwQ=="
 ---

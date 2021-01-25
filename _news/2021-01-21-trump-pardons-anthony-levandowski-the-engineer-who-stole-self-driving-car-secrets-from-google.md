@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/01/20/anthony-levandowski-pardoned-aft
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/20/anthony-levandowski-pardoned-after-stealing-trade-secrets-from-google.html"
 type: article
 quality: 62
-heat: -1
-published: false
+heat: 122
+published: true
 
 provider:
   name: CNBC
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump pardons former Google self-driving car engineer Anthony Levandowski"
-    excerpt: "Donald Trump has given a full pardon to Anthony Levandowski, a former Google engineer who stole trade secret on self-driving cars."
-    publishedDateTime: 2021-01-20T10:43:00Z
-    webUrl: "https://venturebeat.com/2021/01/20/trump-pardons-former-google-self-driving-car-engineer-anthony-levandowski/"
-    ampWebUrl: "https://venturebeat.com/2021/01/20/trump-pardons-former-google-self-driving-car-engineer-anthony-levandowski/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/20/trump-pardons-former-google-self-driving-car-engineer-anthony-levandowski/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 73
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-1176871826.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Trump Pardons The Guy Who Stole Self-Driving Car Secrets From Google’s Waymo"
     excerpt: "Anthony Levandowski was sentenced to 18 months in prison, though he didn't actually serve time due to COVID-19."
     publishedDateTime: 2021-01-20T12:57:00Z
@@ -85,22 +69,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 53
-  - title: "Trump pardons former Google self-driving car engineer Anthony Levandowski – Jaweb"
-    excerpt: "U.S. President Donald Trump said on Wednesday he had given a full pardon to a former Google engineer sentenced for stealing a trade secret on self-driving cars months before he briefly headed Uber’s rival unit."
-    publishedDateTime: 2021-01-20T10:49:00Z
-    webUrl: "https://elmoudjaweb.com/trump-pardons-former-google-self-driving-car-engineer-anthony-levandowski-jaweb/"
-    ampWebUrl: "https://elmoudjaweb.com/trump-pardons-former-google-self-driving-car-engineer-anthony-levandowski-jaweb/?amp"
-    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/trump-pardons-former-google-self-driving-car-engineer-anthony-levandowski-jaweb/?amp"
-    type: article
-    provider:
-      name: Elmoudjaweb
-      domain: elmoudjaweb.com
-    quality: 39
-    images:
-      - url: "https://elmoudjaweb.com/wp-content/uploads/2021/01/Trump-pardons-former-Google-self-driving-car-engineer-Anthony-Levandowski-–.jpg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Trump Pardons Levandowski, Who Stole Self-Driving Truck Trade Secrets"
     excerpt: "The self-driving truck entrepreneur who committed what one judge called the 'biggest trade secret crime I have ever seen” will avoid his 18-month prison sentence thanks to a last-minute pardon from President Trump."
     publishedDateTime: 2021-01-20T16:50:00Z

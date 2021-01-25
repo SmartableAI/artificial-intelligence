@@ -39,6 +39,22 @@ related:
         width: 898
         height: 813
         isCached: true
+  - title: "Innovation Through Adversity The Hong Kong Tutor Association Launches Online Electronic Payment System and Wins the Fintech Awards 2020"
+    excerpt: "HKTA Hong Kong Tutor Association Ltd launched online electronic payment systems including TA e-wallet, Loyalty Member Reward Points program, and e-gateway payment access system, these"
+    publishedDateTime: 2021-01-25T02:00:00Z
+    webUrl: "https://www.asiaone.com/business/innovation-through-adversity-hong-kong-tutor-association-launches-online-electronic"
+    ampWebUrl: "https://www.asiaone.com/business/innovation-through-adversity-hong-kong-tutor-association-launches-online-electronic?amp"
+    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/innovation-through-adversity-hong-kong-tutor-association-launches-online-electronic?amp"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 12
+    images:
+      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jan2021/HKTA-Logo.jpeg?itok=tpSmFjd9"
+        width: 763
+        height: 509
+        isCached: true
 
 secured: "zgt3lRnjna70YjvAJn/WicxjNgdE6LSZZO8I8y6pAuA5bXeJqiikJ4QY83v3rC52KgwO4iaRs9wej7Cb/u/lm9b5bNXl3k2zxM9kDGYzqwxHBbQ0GzOU6qkPj0rllG7Tj1gHrVueXraMzewzqlgYMfSMkEwRIrueW76Zr3uuQEueBzaSuYs2xtN9KNVmRw4cHxo+69maXg29cDN/172b5m9ZEH4UKNSaoM49dOxW6P8up0HHZgbIGE5OTUXbPUaoGr73eB8DG6mUmZtoYELGDVzdFiFvsT+MQQE7o1xDIXIPA5JNkK769kKLlSFg1xbiO15SZ1u+A5hFcoBhYUuKmOJHN1TvBiJKc1S4nBmDzIs=;CC1ddJZZ4uP8/u8cP3kCqA=="
 ---

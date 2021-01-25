@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-Driving Car Market Trends, Drivers, Challenges, Segmentation based on Products till 2021 – 2024"
-    excerpt: "Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024. A self-driving car or a driverless car or even robotic car navigates without any human input as the vehicle has the capability of sensing its surroundings while driving on road."
-    publishedDateTime: 2021-01-20T10:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-trends-drivers-challenges-segmentation-based-on-products-till-2021-2024-2021-01-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "1Rd/4IKeI5OAWf4tPq67FfzgHl/+e1sIi4p+3uTbYZliF2mQP8/K8B9Kqa6YdgritZLyx61waicFsopvbSBvR31+tCaSjhCI9e60X08xTEpJaqbeHefQGRLtUVUwWS4koFsSuX/ngifWaMCDyRWnfDgjG7LrHzIOvJ2TuhlbChR7xjOLO7ySsFp9whurpC9Ka8vxvi+8mIGpWgymwrixHTdk1JQg9BA2gawsMyhG6d1kC87Z7rI8SrMGxm5MP4HF3XWuLCk/hd7BYp/ByOpFH/9OPghgWrGZMiARqnCwlp/VKdxYYgVyPiMG1BHFroRjlggnmDOGYxkFiPQeM/qX76t4Wi8FcvxxkwP/ukNR6Hs=;sAI+Pmzeq7NpDBU5WZMfMw=="
 ---

@@ -10,7 +10,7 @@
       "originalUrl": "https://news.mit.edu/2021/robot-customized-hardware-0121",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -207,6 +207,101 @@
         "AI",
         "Google AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-trump-pardons-anthony-levandowski-the-engineer-who-stole-self-driving-car-secrets-from-google.md",
+      "title": "Trump pardons Anthony Levandowski, the engineer who stole self-driving car secrets from Google",
+      "excerpt": "Tech billionaire Peter Thiel — previously one of Trump's top allies in Silicon Valley — was among those the White House listed as supporters of Levandowski's pardon.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/01/20/anthony-levandowski-pardoned-after-stealing-trade-secrets-from-google.html",
+      "originalUrl": "https://www.cnbc.com/2021/01/20/anthony-levandowski-pardoned-after-stealing-trade-secrets-from-google.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106648265-1596584130509-UBER-LEVANDOWSKI.JPG?v=1596584247",
+          "width": 4393,
+          "height": 2928,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/01/20/anthony-levandowski-pardoned-after-stealing-trade-secrets-from-google.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/20/anthony-levandowski-pardoned-after-stealing-trade-secrets-from-google.html",
+      "publishedDateTime": "2021-01-20T18:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-google-investigates-ethical-ai-team-member-over-handling-of-sensitive-data.md",
+      "title": "Google investigates ethical AI team member over handling of sensitive data",
+      "excerpt": "Alphabet Inc’s Google is investigating a member of its ethical AI team and has locked the corporate account linked to that person after finding that thousands of files were retrieved from its server and shared with external accounts,",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxbusiness.com/technology/google-investigates-ethical-ai-team-member-over-handling-of-sensitive-data",
+      "originalUrl": "https://www.foxbusiness.com/technology/google-investigates-ethical-ai-team-member-over-handling-of-sensitive-data",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c24beea8-2f80-4be7-8a30-bc57baf899d4/a74a6776-b80e-42d9-b9a7-74f73bb7a609/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxbusiness.com/technology/google-investigates-ethical-ai-team-member-over-handling-of-sensitive-data.amp",
+      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/google-investigates-ethical-ai-team-member-over-handling-of-sensitive-data.amp",
+      "publishedDateTime": "2021-01-20T17:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox Business",
+        "domain": "foxbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     },
     {
@@ -450,7 +545,7 @@
       "originalUrl": "https://www.techspot.com/news/88353-skyrim-modders-have-new-machine-learning-tool-turns.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -502,7 +597,7 @@
       "originalUrl": "https://www.vice.com/en/article/xgz7g7/facial-recognition-parler-videos",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -1146,110 +1241,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-facebook-uses-ai-to-improve-photo-descriptions-for-the-visually-impaired.md",
-      "title": "Facebook uses AI to improve photo descriptions for the visually impaired",
-      "excerpt": "One of the most common types of content shared on Facebook, and other social media platforms are photographs. While most social media users can look at an image and see what it represents,",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/facebook-uses-ai-to-improve-photo-descriptions-for-the-visually-impaired-20655881/",
-      "originalUrl": "https://www.slashgear.com/facebook-uses-ai-to-improve-photo-descriptions-for-the-visually-impaired-20655881/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/01/ai-img-desc.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/facebook-uses-ai-to-improve-photo-descriptions-for-the-visually-impaired-20655881/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/facebook-uses-ai-to-improve-photo-descriptions-for-the-visually-impaired-20655881/amp/",
-      "publishedDateTime": "2021-01-20T04:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-heres-why-investors-should-pay-close-attention-to-artificial-intelligence.md",
-      "title": "Here's Why Investors Should Pay Close Attention to Artificial Intelligence",
-      "excerpt": "Artificial intelligence is ingrained into our lives. It’s influencing our shopping choices online, helping us book meetings, and even finding the best deals. The auto industry is using AI to create driverless cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/heres-why-investors-should-pay-close-attention-to-artificial-intelligence-2021-01-20-41974544",
-      "originalUrl": "https://www.marketwatch.com/press-release/heres-why-investors-should-pay-close-attention-to-artificial-intelligence-2021-01-20-41974544",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-20T04:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

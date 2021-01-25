@@ -57,6 +57,22 @@ related:
         width: 2095
         height: 1178
         isCached: true
+  - title: "Use of facial recognition tech sparks privacy fears"
+    excerpt: "The Lucknow police’s decision to use facial recognition technology (FRT) to monitor women’s expressions to prevent street harassment has spurred privacy concerns among Indians. The government needs to create strict and clear regulations before it allows law enforcement agencies to use facial recognition for policing,"
+    publishedDateTime: 2021-01-25T01:34:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/use-of-facial-recognition-tech-sparks-privacy-fears-11611536778871.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/use-of-facial-recognition-tech-sparks-privacy-fears/amp-11611536778871.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/use-of-facial-recognition-tech-sparks-privacy-fears/amp-11611536778871.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://images.livemint.com/img/2021/01/25/600x338/262f1b54-5e54-11eb-a9a9-2635882cf050_1611536777677_1611536858259.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "This site posted every face from Parler’s Capitol Hill insurrection videos"
     excerpt: "The site's creator tells WIRED that he used simple open source machine learning and facial recognition software to detect, extract, and deduplicate every face from the 827 videos that were posted to Parler from inside and outside the Capitol building on January 6,"
     publishedDateTime: 2021-01-23T11:40:00Z
@@ -137,6 +153,6 @@ related:
         height: 630
         isCached: true
 
-secured: "8FEXuPMdBMM4H2ws81uEFpWo86HKyGm553SOkhGaiHMWWdxa3O4Uai64B6v5n4mFn7EewDlFLvHrew3SLCATB+gzTJaxHSY7uKQ9VXmpa0JT+D6CjwJ4/U1JZyHywPCf4dQV2lRvwDh/B19/Z5NOIdnIJk5ZPn0WhhQ2KPAVjSVgaK9luAZJ1z7YdCMpbt+QY7fqaOQU/3iuWEqpekUtAF+KdtANOMvBYhSZyKiHJbgjwpxSQnLmOPZp0D22ZyoDvCCCN61glrgMLqNM1383vPlgScBM3QMDH+IQRaGrV+x5plhtXvHPz64ZyngF88NM18hUJCARxn00UUNQntG6qqNTdOgyHyF31RZqbvFR1oo=;O481Gyf8yc+IvJsHSYz5eg=="
+secured: "hhBdF62NoBHAZLz7gwt+49WNZV62Vgh2q6ygQPSXXN2tpFOMfUG1k5fxXHs4B4HB6GvVB8q6anEl2ugfzFgICjVoRyxFArXnQMpeFJXhJ1HXx6Y1FlCetqA/wEu28s5/yEIg2VIj6lJo6G5jBY2X9dDLQTMsQvufgdCoIikFq+Wk+rNM46K2K7KvVU+u4HR5oRmX6hzxpqKcrCb8Tk49XULCmlz9BEt01dCxEVMq9H+nKmUYjFSAovdz3dthORSb9QVGnx+Ylo5kF+mQPKHzhGQrzzY7ZBPLohSfGqfBe+yWj/CnjBgwI49kezAgLRHi27V5bx2jv9T+vhtfWUht+VXUQ4P5/J6sOrJVUaJ0cDp1tDBSx/w0AsqzCmFsXs3v10RsGnGJs4pNrjjp4tUFXRrtbOwJDUH0tLbbEUTHZuEBfVcvRy2PBfYobl+VtRpFti1H+yCKtZd/vwED/4RTj3LABXC0pxGgbH5NuqyzUCXbzQso/qN1YDU6ThfRSdAuIvdnhO9tImgYBXN8hUsw6w==;y7vk0ir4BSMRG66VdBOvMw=="
 ---
 

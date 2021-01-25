@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/20/alphaics-raises-8-million-for-ai-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/20/alphaics-raises-8-million-for-ai-at-the-edge-processors/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/unsplash-1.png"
         width: 1050
         height: 700
-        isCached: true
-  - title: "Edge AI Company AlphaICs Raises $8 Million In Series B"
-    excerpt: "Edge AI technology company from Bangalore, AlphaICs announced today that it has secured $8 million funding in a Series B round."
-    publishedDateTime: 2021-01-20T10:58:00Z
-    webUrl: "https://analyticsindiamag.com/edge-ai-company-alphaics-raises-8-million-in-series-b/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2021/01/Prashant-Trivedi-VP-Business-Development-Co-founder-AlphaICs.jpg"
-        width: 1220
-        height: 915
         isCached: true
 
 secured: "+vvGr4wd+wa++9SWFAfCv1qFB+OXeqUMoKCNuu8CKzyPz5zV/4tG0fDsxa2OhvQ2bSG9Crjtu94FxE/uh3tqkDsecKlFCNYDvi1hFfk7znMVDUPQkfuWlKY68xNFCmoqD2SAMOQAMPa2I4nU4Hmr+nhh+2hOpEgmLGMm5ZIM+Ixa63zi5oPmcInT6kYdBT55DxrKq1cPcpnmA2efI7c6ERI0EAGUsoKIXpgN4O+8ydVv8C0LDaFVFa6E4ogE9TTG6Uinc1L8bIgGVredtuNCKUUB4GzdZY7kYCT1ONZ8sGGLIdTfjy0ivMsMtJlRE7dTVg3+cLjbLhGQq27dFpgg/KTARtC+/ByzvpipiGpOPtR0DZEXafoRg+3BrdyHRMDgqsiNJ3k6liuxGnmE90H1PRBUc+GCEZPXgeRwZsZt5GLcRPmzt8jEIHQ9MU+zeiYBtPpkQUfR4TSUp0h0kGoDuMYiBzJrNATgHdw9awtLP/RfUrKX0aL7ELKutQONZKOxiow0zs8FU2IFaFV0lu2ohQ==;Y3rZagho3YHVUKQ6XrfXkQ=="
