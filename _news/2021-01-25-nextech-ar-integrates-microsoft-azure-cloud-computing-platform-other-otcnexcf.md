@@ -240,20 +240,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Cruise, GM Team Up With Microsoft To Commercialize Self-Driving Vehicles"
-    excerpt: "Microsoft will join General Motors, Honda and institutional investors in a combined new equity investment of more than $2 billion in Cruise."
-    publishedDateTime: 2021-01-20T16:00:00Z
-    webUrl: "https://www.aftermarketnews.com/cruise-gm-team-up-with-microsoft-to-commercialize-self-driving-vehicles/"
-    type: article
-    provider:
-      name: After Market News
-      domain: aftermarketnews.com
-    quality: 40
-    images:
-      - url: "https://s19538.pcdn.co/wp-content/uploads/2021/01/self-driving-1000x563.jpg"
-        width: 1000
-        height: 563
-        isCached: true
   - title: "Cruise and GM partner with Microsoft to commercialize self-driving vehicles"
     excerpt: "Cruise and General Motors have entered a long-term strategic relationship with Microsoft to accelerate the commercialization of self-driving vehicles. The companies will bring together their"
     publishedDateTime: 2021-01-21T08:45:00Z

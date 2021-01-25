@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Supermicro Unveils NVIDIA GPU Server Remote Test Drive Program"
-    excerpt: "Super Micro Computer, Inc. (Nasdaq: SMCI), a global leader in enterprise computing, storage, networking solutions, and"
-    publishedDateTime: 2021-01-20T15:54:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/supermicro-unveils-nvidia-gpu-server-remote-test-drive-program/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 39
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/shutterstock_bushfire-405x228.jpg"
-        width: 405
-        height: 228
-        isCached: true
   - title: "Nvidia confirms changes to Max-Q laptop GPU branding"
     excerpt: "For previous generations of Nvidia laptop GPUs, the company has differentiated between SKUs with a Max-Q or Max-P moniker, indicating that the GPU has a lower power target. With the upcoming generation of RTX 30 series GPUs for laptops,"
     publishedDateTime: 2021-01-21T15:34:00Z
@@ -73,15 +59,6 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 16
-  - title: "Supermicro Unveils NVIDIA GPU Server Test Drive Program with Leading Channel Partners to Deliver Workload Qualification on Remote Supermicro Servers"
-    excerpt: "With Colfax's expertise in the HPC and AI space, we'll be able to help users select the best GPU solution for their organization.\" \"Exxact Corporation is excited to be collaborating with ..."
-    publishedDateTime: 2021-01-21T18:44:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1179845&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
 
 secured: "TOEsgyn3gYTTg5EhCxTXOsZ24z7pzfzUaqsR3m7tk9Lz+vmo9DaGl7lUu5YIgiuCfB5E5kDIiUEcsAGhK8ot2+QbcMCAq46xcOCAayPfIJbNZusGPHFFrgSEDqX1emTUO115R3x6oPVLXQgSaONQhNoAKhbT8o2/ekmPpA4TWCteuHGevGRWbzp/o1cjRN/6NxrZXnfjtOOyhW67V2oEY8NaUOeBnhRf8C2TlNSk/MzKU8fjHWeJMWjjPNN5WTYLfCIZrfT7fwUYZQYjPXIElPjDVBREqYSOzdoDk9zK9riwMz0ZoERDuhVXIZgkI1BrBdWiE520yAj9lSIYbu8eM2+dAjCXDnhQnkv8GbI5Z2+MPQWIycDzyzOri6S3gRZICLdpB9YQJyjzGJhCNLQ8/veFBxKjKuqU4HL+ZTp7+2xk3W9H8vTyjdfjFMltEUqdVQ1ISECwR9IsoxMEo7lsJXTMMgCpA5G12lfA7a9sEe0Vz0XPI1WmLsUh15ahmi8NMd+1qmpQqL6N8biV8BkMww==;tuWZojIX06G1rha1BX8nNA=="
 ---

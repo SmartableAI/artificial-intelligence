@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Innovate Finance: The UK Retains European Fintech Investment Crown in 2020"
-    excerpt: "Innovate Finance has published a note regarding Fintech investment in the UK. According to their numbers, the UK retains its title as the top investment destination in Europe for Fintech firms at with $4."
-    publishedDateTime: 2021-01-20T16:35:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/01/171416-innovate-finance-the-uk-retains-fintech-investment-crown-in-2020/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/01/171416-innovate-finance-the-uk-retains-fintech-investment-crown-in-2020/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/01/171416-innovate-finance-the-uk-retains-fintech-investment-crown-in-2020/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 72
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/03/London-UK-Fintech-600x447.jpg"
-        width: 600
-        height: 447
-        isCached: true
   - title: "5G, fintech and mega-projects: What 2021 will mean for tech in the Middle East"
     excerpt: "The MENA region is in the middle of a digital transformation, which 2020 and COVID-19 has only accelerated. I asked five experts to share the tech trends they see influencing the Middle East and North Africa (MENA) this year,"
     publishedDateTime: 2021-01-22T03:08:00Z
@@ -67,20 +51,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "With AI, Big Data and Blockchain, Brazilian Fintech Grows in Business Finance Market"
-    excerpt: "Weel's platform uses its own algorithm and electronic tax receipt system to assess credit risk; the company has already processed R$1 billion (US$185) in loans."
-    publishedDateTime: 2021-01-23T12:19:00Z
-    webUrl: "https://riotimesonline.com/brazil-news/brazil/with-ai-big-data-and-blockchain-brazilian-fintech-grows-in-credit-market/"
-    type: article
-    provider:
-      name: The Rio Times
-      domain: riotimesonline.com
-    quality: 47
-    images:
-      - url: "https://riotimes-11af1.kxcdn.com/wp-content/uploads/2021/01/Weel-Solutions.jpeg"
-        width: 800
-        height: 400
-        isCached: true
   - title: "Fintech Advancement in the Time of COVID-19"
     excerpt: "As with most years, I started 2020 with a sense of optimism, looking forward to another productive year at work and doing the Appetite for Disruption podcast with my co-host Troy Paredes. In fact, he"
     publishedDateTime: 2021-01-20T23:02:00Z
@@ -97,6 +67,29 @@ related:
         width: 600
         height: 511
         isCached: true
+  - title: "WEVO Selected for MassChallenge FinTech 2021 Program"
+    excerpt: "BOSTON, MA / ACCESSWIRE / January 21, 2021 / WEVO, a customer experience platform that provides the fastest, most accurate insight to optimize digital experiences, was selected to participate in the 2021 MassChallenge FinTech program."
+    publishedDateTime: 2021-01-22T06:06:00Z
+    webUrl: "https://apnews.com/press-release/accesswire/technology-business-corporate-news-corporate-sponsorship-products-and-services-9dd948164ced57d8a238705174e0a5c0"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "WEVO Selected for MassChallenge FinTech 2021 Program"
+    excerpt: "BOSTON, MA / ACCESSWIRE / January / WEVO, a customer experience platform that provides the fastest, most accurate insight to optimize digital experiences, was selected to participate in the 2021 MassChallenge FinTech program."
+    publishedDateTime: 2021-01-21T07:00:00Z
+    webUrl: "https://www.morningstar.com/news/accesswire/625144msn/wevo-selected-for-masschallenge-fintech-2021-program"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 4
 
 secured: "uB5tG3GtmSAiuhv8lcg+KkUTrYudcR0Hi2/OM8q+cDGMkfNBO/LvcM6OksgIlQAmSGSXxj03IB4WM5DadlpSlAAsKtoV4AuekDdywTFawxvrgiBSgytEXmsNGxyA9P+ECd2CeqkLI0/p1F20VYzj4tDkbv15eMG+HSlGwkxfwaKc6brjeC8PCbp7KDN/1TpiyncC0rWcRVkEISd7wFWpEFERpfOOOJLPEWNgclu16PT8O7DGdh9uRlY7Kthr96o5dz47YrJ4oSaZJgHGgp5hmYQIah4dTrwd3ASwdBBdH5p8Dp5wBzgbfsknaj2F57fjihiZXFCYTGl/kaF0wtAb0rZQWLgjtH5K+QcPXzavhWI=;bjVekOxtCS434oGFj4GjVQ=="
 ---

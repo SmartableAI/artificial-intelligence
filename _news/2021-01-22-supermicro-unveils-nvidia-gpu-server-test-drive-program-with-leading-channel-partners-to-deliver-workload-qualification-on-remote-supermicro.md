@@ -7,7 +7,7 @@ originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=11798
 webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1179845&cat=PR News Wire"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -17,70 +17,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-
-related:
-  - title: "Supermicro Unveils NVIDIA GPU Server Remote Test Drive Program"
-    excerpt: "Super Micro Computer, Inc. (Nasdaq: SMCI), a global leader in enterprise computing, storage, networking solutions, and"
-    publishedDateTime: 2021-01-20T15:54:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/supermicro-unveils-nvidia-gpu-server-remote-test-drive-program/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 39
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/shutterstock_bushfire-405x228.jpg"
-        width: 405
-        height: 228
-        isCached: true
-  - title: "Nvidia confirms changes to Max-Q laptop GPU branding"
-    excerpt: "For previous generations of Nvidia laptop GPUs, the company has differentiated between SKUs with a Max-Q or Max-P moniker, indicating that the GPU has a lower power target. With the upcoming generation of RTX 30 series GPUs for laptops,"
-    publishedDateTime: 2021-01-21T15:34:00Z
-    webUrl: "https://www.kitguru.net/components/graphic-cards/matthew-wilson/nvidia-confirms-changes-to-max-q-laptop-gpu-branding/"
-    type: article
-    provider:
-      name: KitGuru
-      domain: kitguru.net
-    quality: 39
-    images:
-      - url: "https://www.kitguru.net/wp-content/uploads/2021/01/RTX-laptop-700x330.jpg"
-        width: 700
-        height: 330
-        isCached: true
-  - title: "Supermicro Unveils NVIDIA GPU Server Test Drive Program"
-    excerpt: "\"Supermicro's collaboration with NVIDIA in the GPU test drive program delivers through channel partners a unique opportunity to test workloads on remote Supermicro servers leveraging NVIDIA's HGX A100 platforms,"
-    publishedDateTime: 2021-01-21T09:28:00Z
-    webUrl: "https://tass.com/press-releases/1247347"
-    ampWebUrl: "https://tass.com/press-releases/1247347/amp"
-    cdnAmpWebUrl: "https://tass-com.cdn.ampproject.org/c/s/tass.com/press-releases/1247347/amp"
-    type: article
-    provider:
-      name: TASS
-      domain: tass.com
-    quality: 39
-  - title: "Altron partners GPU designer NVIDIA"
-    excerpt: "Altron Systems Integration, a subsidiary of JSE-listed Altron, has joined the NVIDIA Partner Network (NPN), becoming the first compute DGX partner and solutions provider in SA. NVIDIA DGX is a line of NVIDIA-produced servers and workstations which specialise in using general-purpose computing on graphics processing units (GPU) to accelerate deep learning applications."
-    publishedDateTime: 2021-01-22T08:50:00Z
-    webUrl: "https://www.itweb.co.za/content/G98YdMLYgKrqX2PD"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 39
-    images:
-      - url: "https://lh3.googleusercontent.com/thTnWvnhobgR11ST-FlgUfA4lKVXQevOL1btkxlfTmplnb7QAXfWzZ8NSlyJBxzjisR9pNBifWk1Ib-fz1uCFiE=w816-h428"
-        width: 761
-        height: 428
-        isCached: true
-  - title: "Supermicro Unveils Nvidia GPU Server Test Drive Program with Channel Partners"
-    excerpt: "Supermicro, an enterprise computing, storage, networking and green computing technology company, released details on a new GPU test-drive program. Called STEP (Supermicro Test drive Engagement with Partners),"
-    publishedDateTime: 2021-01-22T15:10:00Z
-    webUrl: "https://insidehpc.com/2021/01/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-channel-partners/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 16
 
 secured: "9gn7nsbOzXRgMSKgYPzOxJeEJcyc9YCHXAALVRUxZH2/7UrCc2Rvcdl7FmijFhVx3bvqg/R3qrvSrwxIXcp0B/UYg69Vf3cTwPCs9Lic+yMsAy2be+BbbDW0s39t4j9N5t5ip/KZt3fH4d6Q/V0M+yymkyZLbC0ugS7T0Qz+5MfMaEg/FecIINuS6MdZ3rOJ8kb5XYQgAzTvlDZETQJa9ysIPY7+FLJ+L1Ghx5qcamKkOy3qefhl7MHpzm2VBK1CdONGSZ/X2uV2kZBRcA5SedHT5KFE20K6kIGGBtbR6XPsfiM9F5R5+Z6iqrmokzh1MHEXj1drqtnQFObzhEmsE101Mq+c/NhgrVyev1wHVRA=;7AofWC1WDTW0uqCwmbLPBA=="
 ---

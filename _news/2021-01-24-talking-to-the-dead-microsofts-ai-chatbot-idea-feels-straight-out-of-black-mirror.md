@@ -27,35 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft researchers tap AI for anonymous data sharing for health care providers"
-    excerpt: "Microsoft and University of British Columbia researchers propose FELICA, a system that leverages AI to let health providers share data."
-    publishedDateTime: 2021-01-20T15:54:00Z
-    webUrl: "https://venturebeat.com/2021/01/20/microsofts-felicia-taps-ai-to-enable-health-providers-to-share-data-anonymously/"
-    ampWebUrl: "https://venturebeat.com/2021/01/20/microsofts-felicia-taps-ai-to-enable-health-providers-to-share-data-anonymously/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/20/microsofts-felicia-taps-ai-to-enable-health-providers-to-share-data-anonymously/amp/"
+  - title: "Microsoft’s AI Chatbot Patent Resembles A Particularly Disturbing Episode Of ‘Black Mirror’"
+    excerpt: "According to documents from the US Patent and Trademark Office, Microsoft has been granted a patent that would allow the tech giant to construct an AI-assisted chatbot using the personal data of the deceased,"
+    publishedDateTime: 2021-01-22T21:40:00Z
+    webUrl: "https://www.forbes.com/sites/danidiplacido/2021/01/22/microsofts-ai-chatbot-patent-resembles-a-particularly-disturbing-episode-of-black-mirror/"
+    ampWebUrl: "https://www.forbes.com/sites/danidiplacido/2021/01/22/microsofts-ai-chatbot-patent-resembles-a-particularly-disturbing-episode-of-black-mirror/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danidiplacido/2021/01/22/microsofts-ai-chatbot-patent-resembles-a-particularly-disturbing-episode-of-black-mirror/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 99
+      name: Forbes
+      domain: forbes.com
+    quality: 94
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/02/shutterstock_400845934-e1572448996720.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Microsoft looks to bolster the self-driving car market with new Cruise and GM partnership"
-    excerpt: "Microsoft appears to be re-entering the automotive market in a significantly greater capacity than it has been previously. A few years back, Microsoft seemingly slunk away from the automotive"
-    publishedDateTime: 2021-01-20T15:19:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-looks-to-bolster-the-self-driving-car-market-with-new-cruise-and-gm-partnership"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 32
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2021/01/Cruise-Microsoft-cropped.jpg"
-        width: 1024
-        height: 768
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600b4538ef819ee40beeb605%2F0x0.jpg"
+        width: 1199
+        height: 783
         isCached: true
 
 secured: "NXju/qMV/clZLxFRd0UmpWVwt92biadCuiGIb/Kj9hgSPQzNwPTmUpPUsZeVvWYxkadvR3qzxxqY3c5VyiJhWueIAH5w2IJBRc0SWDFWmaXOMJb97Mg9Pfpch2fsplY+q23v5VyU9peSPgIUzTMKcTFgUO7IB/ZGFYA7U4FaBL2MUN0KV2/b5DwfZn8LlrvKjzXfhoabeZ50kXkzag8m57wHTqs38iwsdeeqwtOrcOKQUyeycpxkHtW+INt8TyazygOuJzJaHGquE9ErB3UkIpPeCoXOVvj9LaYoCyJGpqH8u3MGeE33uxYw4qSlDxKDEZE6cEZ/3mlz4BP1xIKY65rfQm9BHBQK/2L1xzUHQW+oG9B3HeExInNsxi70w+mYnaK9Ce/6FB6GYLFIF8NXfqoyvX4hsS/9Z/+csYAFr8PYt0gfYQ9Yp9j6syL6ybdgY8vAS/RjjvLOjbenOuzPKMCHM29hN/T9p41ZuDgCLdR1va5+bvx0RmaOYn3JEjA1k8wPVeU2DcjK8Ffdgjc6oA==;EiJDNhr6gqYwAUDq68aCrw=="

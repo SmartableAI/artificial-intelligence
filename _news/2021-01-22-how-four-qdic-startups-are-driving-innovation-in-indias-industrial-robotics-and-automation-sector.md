@@ -9,7 +9,7 @@ ampWebUrl: "https://yourstory.com/2021/01/qdic-startups-driving-innovation-india
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/01/qdic-startups-driving-innovation-india-industrial-robotics-automation/amp"
 type: article
 quality: 60
-heat: 110
+heat: 100
 published: true
 
 provider:
@@ -85,15 +85,6 @@ related:
         width: 1601
         height: 901
         isCached: true
-  - title: "Atos, IBM and Red Hat team up on new industrial automation services"
-    excerpt: "ICT company Atos is expanding its strategic alliance with IBM to develop joint offerings focused on automation in manufacturing, logistics and supply chain. One of the new cloud-based applications will help manufacturers and waste management companies control their energy consumption,"
-    publishedDateTime: 2021-01-20T16:00:00Z
-    webUrl: "https://www.telecompaper.com/news/atos-ibm-and-red-hat-team-up-on-new-industrial-automation-services--1369371"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 4
 
 secured: "OI4B1FbIOUinCxpXtMUufJMrjvS/Z+zcKWOcTGv7O/oqIOm2CpCMYfSjJf5V8IDLJ93SsXCdGl1mYuGP+l7DWhMAtSfjy79ssg3rKFozCHwrt2i9Q9We+7ki454KX+AJ1j/hwPbXMOCUoTVQ0fDhHoct8STG5bEmUaqxn74ZJfPeOUg1Gy6bHqeDrMxYC0WJ0Wrw5vlgxpPxwTaEScA9Z7WsnUql0gsdyHT3dtcJNDduUL+f1XPONf60AaCsIP/NGOYjST+KXhPP+NMdO7ldiMyND0+zBplj+rUv8sENES/CAIz/qFHKa5lbdc8LFv8qyEeHzrj0RP5+MHDr9MTKYOetkmuay7l+AXZTadio6ffgWtpqXPnm/3iqyTdU7tJy3qYhE+a8Y/JTWy+CRdz7uMPloHhxH2hb9jICERbfB93Pvj4WKlp5ahxHfqNUvKqXK9n9FO6LTlh4PhL/Vsiz52FDvoZ/b8xKPGsW9xJa5Zwf7lA7VuTKHSc1krqvw2jfNhyC7IoMBIrDDydpTsf78Q==;mpAtE03kB9zOTIoIxVw/+g=="
 ---

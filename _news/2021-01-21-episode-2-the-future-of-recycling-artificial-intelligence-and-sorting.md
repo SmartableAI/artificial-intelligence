@@ -41,20 +41,6 @@ related:
         width: 651
         height: 366
         isCached: true
-  - title: "Robotics, AI and the future of food: ‘The COVID-19 pandemic is a crisis that robots were built to address’"
-    excerpt: "COVID-19 has accelerated interest in the role that automation, robotics and data can play in food and agricultural production. We speak to industry leaders to learn about the latest developments."
-    publishedDateTime: 2021-01-20T16:39:00Z
-    webUrl: "https://www.foodnavigator.com/Article/2021/01/20/Robotics-AI-and-the-future-of-food-The-COVID-19-pandemic-is-a-crisis-that-robots-were-built-to-address"
-    type: article
-    provider:
-      name: FoodNavigator
-      domain: foodnavigator.com
-    quality: 51
-    images:
-      - url: "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/foodnavigator.com/news/market-trends/robotics-ai-and-the-future-of-food-the-covid-19-pandemic-is-a-crisis-that-robots-were-built-to-address/12116417-1-eng-GB/Robotics-AI-and-the-future-of-food-The-COVID-19-pandemic-is-a-crisis-that-robots-were-built-to-address.jpg"
-        width: 759
-        height: 459
-        isCached: true
 
 secured: "z5wWXTkGp4P+8/cpV1muhufDw698QiS29Op4K1szjzEoc3QTwVOqyM5dX1dSzCeddNGsHUIYF9WxSdnRQeNkzSAI3BZqSV0/IeT9dKHNN1TciVz4DD1Hvt2zWMnlgetl+GIdPfhJOKbAYmeDzz0aj1gOdCOTifxsqdikEkM775hFpZX6kiNXxXvyOAzTac2Ihu/0VKxZ5n9Fya9pdahyTF1GzO/9tO//6f36GaazF2o+tv653PEnUSNW5F5+kPCoj9una97p0xaooX/1347q3VzJHOEXexFUK9f2ot7lYYPh1zdySXJN3T5qCBS8io0nSjXAm5RpRQWkf4M/C8ubLDOhEuvZaiTAnyvirUMdbT7x4llPBqS8HweXd88+BZ77z7p3ilk+qxgp7qp0VBfYbhgs/RMWlBvPl3Nh5LtmrXnfyP5lXxGRxPT6SbsYuyUemcGRRp7XrFyugxY4tyb7RV9u9d1lJVdE2n0Vcm5ut7uDsHpdckE85UeWlR7McftVO0UO404sX/Slttt1HeemDA==;CtDuNy43yBHcWrO72ADVtg=="
 ---

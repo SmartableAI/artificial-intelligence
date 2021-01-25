@@ -9,8 +9,8 @@ ampWebUrl: "https://www.iol.co.za/amp/travel/travel-news/hotel-sky-is-a-hotel-of
 cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/travel/travel-news/hotel-sky-is-a-hotel-of-the-future-with-its-ai-robots-and-self-check-in-96a54dac-534c-479e-926f-d8e40c565c12"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: IOL News
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robotics, AI and the future of food: ‘The COVID-19 pandemic is a crisis that robots were built to address’"
-    excerpt: "COVID-19 has accelerated interest in the role that automation, robotics and data can play in food and agricultural production. We speak to industry leaders to learn about the latest developments."
-    publishedDateTime: 2021-01-20T16:39:00Z
-    webUrl: "https://www.foodnavigator.com/Article/2021/01/20/Robotics-AI-and-the-future-of-food-The-COVID-19-pandemic-is-a-crisis-that-robots-were-built-to-address"
-    type: article
-    provider:
-      name: FoodNavigator
-      domain: foodnavigator.com
-    quality: 51
-    images:
-      - url: "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/foodnavigator.com/news/market-trends/robotics-ai-and-the-future-of-food-the-covid-19-pandemic-is-a-crisis-that-robots-were-built-to-address/12116417-1-eng-GB/Robotics-AI-and-the-future-of-food-The-COVID-19-pandemic-is-a-crisis-that-robots-were-built-to-address.jpg"
-        width: 759
-        height: 459
-        isCached: true
   - title: "Episode 2: The Future of Recycling - Artificial Intelligence and Sorting"
     excerpt: "In this episode of Stef Talks Trash, Editorial Director Stefanie Valentic discusses how artificial intelligence (AI) systems are advancing material recovery facilities (MRFs). AMP Robotics recently entered into an agreement with Waste Connections to implement AI systems on the company’s container,"
     publishedDateTime: 2021-01-20T20:29:00Z

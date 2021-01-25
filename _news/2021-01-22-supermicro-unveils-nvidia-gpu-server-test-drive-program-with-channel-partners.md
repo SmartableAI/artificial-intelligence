@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Supermicro Unveils NVIDIA GPU Server Remote Test Drive Program"
-    excerpt: "Super Micro Computer, Inc. (Nasdaq: SMCI), a global leader in enterprise computing, storage, networking solutions, and"
-    publishedDateTime: 2021-01-20T15:54:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/supermicro-unveils-nvidia-gpu-server-remote-test-drive-program/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 39
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/shutterstock_bushfire-405x228.jpg"
-        width: 405
-        height: 228
-        isCached: true
   - title: "Nvidia confirms changes to Max-Q laptop GPU branding"
     excerpt: "For previous generations of Nvidia laptop GPUs, the company has differentiated between SKUs with a Max-Q or Max-P moniker, indicating that the GPU has a lower power target. With the upcoming generation of RTX 30 series GPUs for laptops,"
     publishedDateTime: 2021-01-21T15:34:00Z
@@ -72,15 +58,6 @@ related:
         width: 761
         height: 428
         isCached: true
-  - title: "Supermicro Unveils NVIDIA GPU Server Test Drive Program with Leading Channel Partners to Deliver Workload Qualification on Remote Supermicro Servers"
-    excerpt: "With Colfax's expertise in the HPC and AI space, we'll be able to help users select the best GPU solution for their organization.\" \"Exxact Corporation is excited to be collaborating with ..."
-    publishedDateTime: 2021-01-21T18:44:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1179845&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
 
 secured: "NSVMkuRUdbFoT79qfylr+e8pqE9QSgSE8XC0d4ycuj1lP4H/2rWKPMdZvEFUPLyZYmNIpxe9fXPPaVDrI5F5InRNaknk5XyCl7CnoNgsfMljXP4AVjprpi3YCOPzAnipJeqbIr/KOYNf1FvHfnrPX8T1njxpjL9LPZYhTMuGx0lIFPzElPBHt1SHkQUkIvJ8xUfGu4T8dPqiYkWozDaQCaeKuTMn/de3LLCh9bNcra4YzYIDj1O7UeAGA7Nc5Q7wE9pnM3v8/TIcNEAFPfvEgU4U4FuNAAe0tQqLa4dr4DiQrZWXfXN/2hyTt7fYmO+bHjiB4O90ebYmWHNOY5cBtnasNfuvupoDcI66eJFIdEs=;rP4NqiPUnblocr2o4L0trw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://stockhouse.com/news/press-releases/2021/01/20/here-s-why-i
 webUrl: "https://stockhouse.com/news/press-releases/2021/01/20/here-s-why-investors-should-pay-close-attention-to-artificial-intelligence"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,24 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "Shinan AI leader set to attract more investors"
+    excerpt: "Shinhan AI CEO Bae Jin-soo will place a focus on attracting more retail investors for its artificial intelligence (AI) platforms during his second term. The AI arm of Shinhan Financial Group was launched in 2019 under a group-wide vision of developing more accurate,"
+    publishedDateTime: 2021-01-25T07:32:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/biz/2021/01/175_303018.html"
+    ampWebUrl: "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=303018"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=303018"
+    type: article
+    provider:
+      name: koreatimes.co.kr
+      domain: koreatimes.co.kr
+    quality: 57
+    images:
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202101/b451cd3e554b45d887b1fcff5bf9fc5c.jpg"
+        width: 394
+        height: 489
+        isCached: true
 
 secured: "KGxLrXl3V54vb0XH8nDYWMd/IxLTwiz1Rm2flXF9Mrt8BYHUEDVjIl37poS3hZyOjzFw8qhzxMt8lO9Qjn36/yG0hIEVtru3PBDe4D9abp0/UhYIPcJws8jWr4az1heQLdTn5Ctsx/gJg+Hfao+/+AULQuAdQ6jrZ483A7DZzDI35+qJdceRuO3xLupH9XWuYJkklP76uoLFImdKmWXDCM3yzEbtv1p6OcPevgopLplnGuA9+fJyjNWPptCy3u0DQ+H8+Y50Gb3w+kvNR17Lh4407TuDf69t3rKcbY+GInguIX5lkB+Zjayqd9snXCoW6/vFLq0sJ4uly8sE/kI5r/qyj44Ghn67hIi2iAlKK0hL937GebfXAOBEyzBkZClUfCKmqdAt5oM2/LrTa7T+bHNM8aU28A8dFbRQNr1yvw9CqwWU0moY5pVEBYt5psxZDFl1Xh1jwMtvhNwtjwUlIvJT2GcKCJ/xRwlOr30mH8YFEPjT74ii+fpFIf+F+AMGcvTeb3TonxpQcTjXBiixRQ==;9qZ/ov3eOk/Z1i74C98u6Q=="
 ---

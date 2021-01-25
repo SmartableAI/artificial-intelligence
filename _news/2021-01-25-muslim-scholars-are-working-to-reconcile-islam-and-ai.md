@@ -6,8 +6,8 @@ publishedDateTime: 2021-01-25T06:19:00Z
 originalUrl: "https://www.wired.co.uk/article/islamic-ai"
 webUrl: "https://www.wired.co.uk/article/islamic-ai"
 type: article
-quality: 37
-heat: 37
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,8 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
+  - AI Ethics
 
 images:
   - url: "https://wi-images.condecdn.net/image/VEn6NPoQayb/crop/1440/0.5235602094240838/f/0121stislamicai__01.jpg"
@@ -23,6 +25,6 @@ images:
     height: 753
     isCached: true
 
-secured: "ozbRJ/QE7LwZuyAUQ7BuzBuZgJKEAG2QljNEGJwT/b2EQA95EhgmpCNqbFXc6Ktvtjvcke+Ycy4MaRvMtYELoW8OJFTIrwSb62oeBoLV9CE6GafjRW9zANaGsXGMEd+NJXsw9hUA9n4+8NwKjTZSa4hPAAd0gFF+DYGlb4xcQnd6Xv8MWSSFgTG/5mlF4tEMWZT3XyK7UobayhGQ7R9Bp3IRrmkpiHJmhVflvtOMfuWSFhe5KW1XgCl4/wXK04B2hLf7fita8vkXmUFqkSBGC3zYmhE91M7m52P50DXUaUia3kx0Zxmfq9GpzTi6YIjP0cy20MiEXLQKIcW+sg+R7UN6u1l9emFE6hbJIH+jNNE=;fGzxZUQngUwRe77vf4smBA=="
+secured: "Vh5977unaJlNi+ZectQEaieso1jiFuccQo8iLhdYtLpkzcjDb8A0y5yBVQ40z+l5ljlyd6HZw1FHJ1+gfZrr9M0F88DgjsxxYb7eL6SeR3Ub94NkILVF0b1PTXtzKU1ApB/RYVvis0hOV4YNMZP5Zq630+olBQo172zoupumrCnbpDRoW7P+LCp3zciMomu9pQH9dMbzbMN0mbOO5cQaS7TjwsLPUEZOJ2Z/BPh+i5qsfBc2rrS9a/fQ6/tQCCMliUfwnOFzyJhIaPUPKwOXyAMyU6bIM/jaVGqFpiXaQ5761s3yubvVubfhkJOTV8oM5Bu9ZTCDInl1pL/vRBNAgldWE0B+vunUy/tA29dB2o8nrwsqugFZdbI6TwhF6bHjpkBGifZcQOtfz8cjehACLYeJztuMQR4Gn3+8x/1DzXRs/fcjI7mt/uJzHFbS3MIarjO9lm+fehTyFTrbAP0Ukx2Dm3S8Jljm6KsZxcmRiyVw+VnuKz6VbeY0tlp9FNI5lcpDrq3b63B4a8NMUPVkWg==;6N0GgyswdzXuiCoxTuTexg=="
 ---
 

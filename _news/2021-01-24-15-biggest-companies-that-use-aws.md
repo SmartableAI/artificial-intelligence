@@ -24,6 +24,22 @@ images:
     height: 667
     isCached: true
 
+related:
+  - title: "Telecoming becomes an AWS Technology Partner"
+    excerpt: "Telecoming, an international technology company specialized in digital services monetization, announced today that it has become a member of the Amazon Web Services (AWS) Partner Network (AWS) as a Technology Partner."
+    publishedDateTime: 2021-01-25T08:42:00Z
+    webUrl: "https://www.lelezard.com/en/news-19613458.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 39
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
+
 secured: "p0BR+hSECc0l3AKC2yLxWtycvWtszwAxHRpFnW5tSM58ejzIF+SoSTfpjyIe9hmBiBRI9uF9UIB/W666tZWtuikrV4JQmTO+ptsxxiaKL+KsaFGBAAjg/WMUZ+QeNpbtQYd4tMyqjNhLOeY5SDICx3Oaumin74RN+m/tNITPjC9xaGx1uU7+TLBwVB0mthO0ce3wUy50BwulzqbI1rQttS0L8yQhwk9H9IuUL1LY2UlMpOo9zoe1gNoU91nYWAGCU0/BmXJNHdcJ1nJygDDq07mipgvrfhyCnojGyYGu9B51au86rLuDmO1/S3b+7ixfXdtpHiugIwWO4aoKwMosBTASUqtHbsRKH/zL20Lxk8HAAObmgZl5PM6NA44/WEkuwMpOjTwybfg3SztEB7p/NUmzMTPnuPWRCnOEqtktwYYp/WynnoCjdHZ2l4ey3tQplG8AIYoG6lpIsg/DUWCV9PnDmL92IR3aYwvrwjvcK8sonIgi1Z2AbyZq/mVpqlLSH9/jWBDqb5w4RXucLcY3cA==;MjlugLrgXeXgxypmst80+Q=="
 ---
 

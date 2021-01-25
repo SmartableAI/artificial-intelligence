@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-25-elon-musk-responds-to-waymo-ceo-tesla-has-better-ai-hardware-software-than-waymo.md",
+      "title": "Elon Musk Responds To Waymo CEO: “Tesla Has Better AI Hardware & Software Than Waymo”",
+      "excerpt": "In an interview with German business publication Manager Magazin, Waymo CEO John Krafcik said Tesla is not a competitor to Waymo.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johanmoreno/2021/01/25/elon-musk-responds-to-waymo-ceo-tesla-has-better-ai-hardware--software-than-waymo/",
+      "originalUrl": "https://www.forbes.com/sites/johanmoreno/2021/01/25/elon-musk-responds-to-waymo-ceo-tesla-has-better-ai-hardware--software-than-waymo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600e6ec4610dbde7ff2d2458%2F0x0.jpg",
+          "width": 1200,
+          "height": 835,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2021/01/25/elon-musk-responds-to-waymo-ceo-tesla-has-better-ai-hardware--software-than-waymo/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2021/01/25/elon-musk-responds-to-waymo-ceo-tesla-has-better-ai-hardware--software-than-waymo/amp/",
+      "publishedDateTime": "2021-01-24T23:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-01-25-hearing-aids-now-come-with-artificial-intelligence-what-does-that-mean.md",
       "title": "Hearing aids now come with artificial intelligence. What does that mean?",
       "excerpt": "Premium hearing aids may use artificial intelligence like machine learning and deep neural networks to help process sound. Learn why this is a significant improvement for people with hearing loss.",
@@ -85,48 +137,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-24-hotel-sky-is-a-hotel-of-the-future-with-its-ai-robots-and-self-check-in.md",
-      "title": "Hotel Sky is a hotel of the future with its AI robots and self check-in",
-      "excerpt": "Having a robot carry your bags to your room seems like something out of a futuristic sci-fi film, but for this Sandton hotel, it’s just part of the package.",
-      "sourceUrl": null,
-      "webUrl": "https://www.iol.co.za/travel/travel-news/hotel-sky-is-a-hotel-of-the-future-with-its-ai-robots-and-self-check-in-96a54dac-534c-479e-926f-d8e40c565c12",
-      "originalUrl": "https://www.iol.co.za/travel/travel-news/hotel-sky-is-a-hotel-of-the-future-with-its-ai-robots-and-self-check-in-96a54dac-534c-479e-926f-d8e40c565c12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image-prod.iol.co.za/resize/1080x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/8419cf20-5caa-561f-81bf-513f7ffaf6ea&operation=CROP&offset=105x379&resize=951x535",
-          "width": 651,
-          "height": 366,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.iol.co.za/amp/travel/travel-news/hotel-sky-is-a-hotel-of-the-future-with-its-ai-robots-and-self-check-in-96a54dac-534c-479e-926f-d8e40c565c12",
-      "cdnAmpWebUrl": "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/travel/travel-news/hotel-sky-is-a-hotel-of-the-future-with-its-ai-robots-and-self-check-in-96a54dac-534c-479e-926f-d8e40c565c12",
-      "publishedDateTime": "2021-01-24T00:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IOL News",
-        "domain": "iol.co.za",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -390,7 +400,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-marketing-market-size-share-analysis-report-forecast-to-2025-2021-01-23",
       "featuredContent": null,
       "highlight": null,
-      "heat": 236,
+      "heat": 296,
       "tags": null,
       "images": [
         {
@@ -442,7 +452,7 @@
       "originalUrl": "https://www.neowin.net/news/yellow-messenger-integrates-microsoft-azure-cognitive-services-on-its-platform",
       "featuredContent": null,
       "highlight": null,
-      "heat": 315,
+      "heat": 305,
       "tags": null,
       "images": [
         {
@@ -641,7 +651,7 @@
       "originalUrl": "https://www.forbes.com/sites/danidiplacido/2021/01/22/microsofts-ai-chatbot-patent-resembles-a-particularly-disturbing-episode-of-black-mirror/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1166,7 +1176,7 @@
       "originalUrl": "https://yourstory.com/2021/01/qdic-startups-driving-innovation-india-industrial-robotics-automation",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 100,
       "tags": null,
       "images": [
         {

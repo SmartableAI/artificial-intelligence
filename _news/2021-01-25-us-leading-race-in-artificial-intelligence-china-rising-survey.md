@@ -1,29 +1,23 @@
 ---
 category: news
-title: "US leading race in artificial intelligence, China rising: survey"
-excerpt: "The study by the Information Technology and Innovation Foundation assessed AI using 30 separate metrics including human talent, research activity, commercial development and investment in hardware and software."
-publishedDateTime: 2021-01-25T06:46:00Z
-originalUrl: "https://www.thejakartapost.com/life/2021/01/25/us-leading-race-in-artificial-intelligence-china-rising-survey-.html"
-webUrl: "https://www.thejakartapost.com/life/2021/01/25/us-leading-race-in-artificial-intelligence-china-rising-survey-.html"
-ampWebUrl: "https://www.thejakartapost.com/amp/life/2021/01/25/us-leading-race-in-artificial-intelligence-china-rising-survey-.html"
-cdnAmpWebUrl: "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/life/2021/01/25/us-leading-race-in-artificial-intelligence-china-rising-survey-.html"
+title: "US Leading Race In Artificial Intelligence, China Rising: Survey"
+excerpt: "The United States is leading rivals in development and use of artificial intelligence while China is rising quickly and European Union is lagging, a research report showed Monday."
+publishedDateTime: 2021-01-25T05:27:00Z
+originalUrl: "https://www.barrons.com/news/us-leading-race-in-artificial-intelligence-china-rising-survey-01611551104"
+webUrl: "https://www.barrons.com/news/us-leading-race-in-artificial-intelligence-china-rising-survey-01611551104"
+ampWebUrl: "https://www.barrons.com/amp/news/us-leading-race-in-artificial-intelligence-china-rising-survey-01611551104"
+cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/us-leading-race-in-artificial-intelligence-china-rising-survey-01611551104"
 type: article
-quality: 57
-heat: 67
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: The Jakarta Post
-  domain: thejakartapost.com
+  name: Barron's
+  domain: barrons.com
 
 topics:
   - AI
-
-images:
-  - url: "https://img.jakpost.net/c/2017/05/26/2017_05_26_27625_1495766853._medium.jpg"
-    width: 747
-    height: 500
-    isCached: true
 
 related:
   - title: "US leads AI race with China close behind"
@@ -36,6 +30,6 @@ related:
       domain: freemalaysiatoday.com
     quality: 19
 
-secured: "TBNO9BwDshclLQRGUi+we9+BGaDBQIIpre/8uRmKcDJfzDGNpk+hkSfMZbr21CQcvuTFmd9XREj5dr9Z4g0gbPTovX8yjdWrtvlurjsnkcNk6wRneCShCKznG+CrTtdiwAH+atc/NDis8quVARTI2oMKZt2Xgyu5imdof3f6gEEGlNJIk3gVUvREISj6/8q++9BzeXgxu6Z3gVW3SqHwNJRlRod321p2ZuxvsFAkZoXFhdLelzHPqpdndOoHErn5c8b8d7LuBxdyNONIrnKrxH6lCdzq9bfaQpqN9BsaEsB/F9FBNHDywKt3QXF4Z9YohnXSm9etWCaG8CcE5VUzYS7akW1zo2NEims+8WSrpIE=;gozGGiz5/fWDtqd5wrRWKg=="
+secured: "wF6IJzT6ppt+/A8yt3Y6wSEBHTszjC7pvJsqfOgxR/MvKgiihiq9gcmJVg4COVxClGaVtunL8Nx2mYljzJRL8mUfrcHL9JVy3z238fOo5qL/g46yWkU9lp0iXlJyB6se267pITKXTfi2dwaAN8hEls55qCkwp0QJ+ufB0Yp3iUcW/sTpcNcOTKfyucdtxx5xeXVKIi+fl8vpWeSiaIVNuirfUBlQgTfqLTmWX7MkMAHp7TMiPdB/LoBxj23xlS9Pywa0ZAjJT+TOUVDmX4dKNR/iwNIzXuwFSknq809CmSAPfFMwYyjwZPwkirtaFPALTMfg99eJBtanwUIvsRBWAqZRCOKzedbjjaNOuGdFOmc=;7TII7IqSIMkBzSE+ZOUMzg=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/5g-fintech-and-mega-project
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/5g-fintech-and-mega-projects-what-2021-will-mean-for-tech-in-the-middle-east/"
 type: article
 quality: 70
-heat: -1
-published: false
+heat: 120
+published: true
 
 provider:
   name: ZDNet
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Innovate Finance: The UK Retains European Fintech Investment Crown in 2020"
-    excerpt: "Innovate Finance has published a note regarding Fintech investment in the UK. According to their numbers, the UK retains its title as the top investment destination in Europe for Fintech firms at with $4."
-    publishedDateTime: 2021-01-20T16:35:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/01/171416-innovate-finance-the-uk-retains-fintech-investment-crown-in-2020/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/01/171416-innovate-finance-the-uk-retains-fintech-investment-crown-in-2020/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/01/171416-innovate-finance-the-uk-retains-fintech-investment-crown-in-2020/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 72
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/03/London-UK-Fintech-600x447.jpg"
-        width: 600
-        height: 447
-        isCached: true
   - title: "How fintech and serial founders drove African pre-seed investing to new heights in 2020"
     excerpt: "When Stripe-subsidiary Paystack raised its seed round of $1.3 million in 2016, it was one of the largest disclosed rounds at that stage in Nigeria.  At the time, seven-figure seed investments in African startups were a rarity."
     publishedDateTime: 2021-01-23T07:02:00Z
@@ -62,20 +46,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2021/01/africa-preseed-investment.jpg?w=1024"
         width: 1024
         height: 576
-        isCached: true
-  - title: "With AI, Big Data and Blockchain, Brazilian Fintech Grows in Business Finance Market"
-    excerpt: "Weel's platform uses its own algorithm and electronic tax receipt system to assess credit risk; the company has already processed R$1 billion (US$185) in loans."
-    publishedDateTime: 2021-01-23T12:19:00Z
-    webUrl: "https://riotimesonline.com/brazil-news/brazil/with-ai-big-data-and-blockchain-brazilian-fintech-grows-in-credit-market/"
-    type: article
-    provider:
-      name: The Rio Times
-      domain: riotimesonline.com
-    quality: 47
-    images:
-      - url: "https://riotimes-11af1.kxcdn.com/wp-content/uploads/2021/01/Weel-Solutions.jpeg"
-        width: 800
-        height: 400
         isCached: true
   - title: "Fintech Advancement in the Time of COVID-19"
     excerpt: "As with most years, I started 2020 with a sense of optimism, looking forward to another productive year at work and doing the Appetite for Disruption podcast with my co-host Troy Paredes. In fact, he"
@@ -93,6 +63,20 @@ related:
         width: 600
         height: 511
         isCached: true
+  - title: "WEVO Selected for MassChallenge FinTech 2021 Program"
+    excerpt: "BOSTON, MA / ACCESSWIRE / January 21, 2021 / WEVO, a customer experience platform that provides the fastest, most accurate insight to optimize digital experiences, was selected to participate in the 2021 MassChallenge FinTech program."
+    publishedDateTime: 2021-01-22T06:06:00Z
+    webUrl: "https://apnews.com/press-release/accesswire/technology-business-corporate-news-corporate-sponsorship-products-and-services-9dd948164ced57d8a238705174e0a5c0"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Things Are Just Beginning At Peak Fintech"
     excerpt: "Get started today » We bought shares of Canadian fintech company Peak Fintech (OTCQX:PKKFF) for our SHU Growth Portfolio at $1.15 and $1.12 on December 11 and 21, respectively. We think that its B2B lending platform fills a real need and is only just starting to scale."
     publishedDateTime: 2021-01-20T18:20:00Z
@@ -101,6 +85,15 @@ related:
     provider:
       name: Seeking Alpha
       domain: seekingalpha.com
+    quality: 4
+  - title: "WEVO Selected for MassChallenge FinTech 2021 Program"
+    excerpt: "BOSTON, MA / ACCESSWIRE / January / WEVO, a customer experience platform that provides the fastest, most accurate insight to optimize digital experiences, was selected to participate in the 2021 MassChallenge FinTech program."
+    publishedDateTime: 2021-01-21T07:00:00Z
+    webUrl: "https://www.morningstar.com/news/accesswire/625144msn/wevo-selected-for-masschallenge-fintech-2021-program"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
     quality: 4
 
 secured: "N5VHNyI5XbPH6zbvRTl/a6VO1rlxF6316XR5rvFO/81yuEr1P3WnebKcGe549ZQSwPAkg4dEYj38D18/7M9Gr9nTkhLaUpW9XE7BNLGIqkKTNq4GtayVIfT2SuT3md0ERSuBGQk7he6Po9/ZaInugfRLMONT80k1RhsxgM3dfIQzFEn220nv+jKzs8mwX5YNBkyZpiSKpN3bZUxHGwR1xjKcgedsgRR53zNZ0hP6/G41aEcDydIkUPNb/XB+A2FPdIEWa2og4l/R18sQS/lpqZ5aAr4VTEiWX4Il/LQEN4pbN+eRfXeIRlOgjJ6smI1i04ZhRYgGw2zO8Uy6m43fUJy51fHXnurJLk4p2j7E2PAM+HYm7TX/caYZ6SvdQMimABAPJEz9rSgRPXSIGuA8m7d4U8Y1E3TxR247u2yRflxTl4E602DQF/EDz5YsRuZB3Jg9vjAR8bOLCgkEz2YVm2TZjTDEquveH2VGf/As2zHhMdegKe9v/1OZHA10ea9HAFV85bWe6ra9yBSbhzhWDw==;GY1nv30aKa9QRKf6qgqgrQ=="

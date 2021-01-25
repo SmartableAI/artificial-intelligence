@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/01/20/anthony-levandowski-pardoned-aft
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/20/anthony-levandowski-pardoned-after-stealing-trade-secrets-from-google.html"
 type: article
 quality: 62
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 53
-  - title: "Trump Pardons Levandowski, Who Stole Self-Driving Truck Trade Secrets"
-    excerpt: "The self-driving truck entrepreneur who committed what one judge called the 'biggest trade secret crime I have ever seen” will avoid his 18-month prison sentence thanks to a last-minute pardon from President Trump."
-    publishedDateTime: 2021-01-20T16:50:00Z
-    webUrl: "https://www.truckinginfo.com/10135034/trump-pardons-levandowski-for-stealing-self-driving-truck-trade-secrets"
-    type: article
-    provider:
-      name: Truckinginfo
-      domain: truckinginfo.com
-    quality: 24
-    images:
-      - url: "https://fleetimages.bobitstudios.com/upload/trucking-info/content/news/2021-01/anthony-levandowski-pronto-web-__-1200x630-s.jpg"
-        width: 788
-        height: 630
-        isCached: true
   - title: "Pardon for Ex-Google Exec Who Took Self-Driving Car Secrets to Uber"
     excerpt: "A long-running Silicon Valley soap opera took an unexpected twist on Wednesday after outgoing President Donald Trump pardoned a former Google engineer for"
     publishedDateTime: 2021-01-22T15:47:00Z

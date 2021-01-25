@@ -256,20 +256,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Cruise, GM Team Up With Microsoft To Commercialize Self-Driving Vehicles"
-    excerpt: "Microsoft will join General Motors, Honda and institutional investors in a combined new equity investment of more than $2 billion in Cruise."
-    publishedDateTime: 2021-01-20T16:00:00Z
-    webUrl: "https://www.aftermarketnews.com/cruise-gm-team-up-with-microsoft-to-commercialize-self-driving-vehicles/"
-    type: article
-    provider:
-      name: After Market News
-      domain: aftermarketnews.com
-    quality: 40
-    images:
-      - url: "https://s19538.pcdn.co/wp-content/uploads/2021/01/self-driving-1000x563.jpg"
-        width: 1000
-        height: 563
-        isCached: true
   - title: "Microsoft to integrate Teams across SAP solutions"
     excerpt: "Enterprise application software provider SAP and Microsoft have announced to integrate video conference and collaboration platform Teams with SAPs intelligent suite of solutions. The companies also expanded an existing partnership to accelerate the adoption of SAP S/4HANA on Microsoft Azure."
     publishedDateTime: 2021-01-24T05:49:00Z
