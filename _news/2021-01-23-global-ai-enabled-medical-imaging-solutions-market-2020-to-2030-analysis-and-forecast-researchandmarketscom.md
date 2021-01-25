@@ -94,6 +94,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Self Driving Trucks Market Analysis, Trends, Growth, Size, Share and Forecast 2020 to 2026"
+    excerpt: "Jan (Heraldkeepers) -- Self-driving truck market is an undergoing technology which can let trucks or freights to run on their own."
+    publishedDateTime: 2021-01-25T11:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-trucks-market-analysis-trends-growth-size-share-and-forecast-2020-to-2026-2021-01-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Healthcare Market 2021: Global Industry Manufacturers, Outlook, Share, Growth and Forecast 2027"
     excerpt: "Jan (Heraldkeepers) -- Global Artificial Intelligence in Healthcare Industry Global Artificial Intelligence in Healthcare Market Report Outline"
     publishedDateTime: 2021-01-25T07:07:00Z
@@ -208,17 +222,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial intelligence (AI) chip market through Technology, Application and Geography – Analysis and Forecasting to 2027 – KSU"
-    excerpt: "News Highlights: Artificial intelligence (AI) chip market through Technology, Application and Geography - Analysis and Forecasting to 2027 - KSU A"
-    publishedDateTime: 2021-01-20T19:36:00Z
-    webUrl: "https://www.compsmag.com/news/technology/artificial-intelligence-ai-chip-market-through-technology-application-and-geography-analysis-and-forecasting-to-2027-ksu/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/artificial-intelligence-ai-chip-market-through-technology-application-and-geography-analysis-and-forecasting-to-2027-ksu/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/artificial-intelligence-ai-chip-market-through-technology-application-and-geography-analysis-and-forecasting-to-2027-ksu/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 41
   - title: "Machine Learning as a Service Market Global Industry Analysis by Trends, Size, Share, Company Overview, Growth and Forecast By 2027"
     excerpt: "Jan (Heraldkeepers) -- Machine learning as a service Market incorporates a comprehensive vary of services and solutions and techniques"
     publishedDateTime: 2021-01-25T07:07:00Z
@@ -302,6 +305,22 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Far Field Speech Voice Recognition Market Size, Industry Trends, Leading Players, Share and Forecast 2019-2025"
+    excerpt: "The global far field voice and speech recognition market size is expected to grow at a CAGR of 24 56 during the forecast period Long distance speech recognition is an essential technology for voice interaction and aims to enable smart"
+    publishedDateTime: 2021-01-25T12:54:00Z
+    webUrl: "https://www.openpr.com/news/2230781/far-field-speech-voice-recognition-market-size-industry"
+    ampWebUrl: "https://www.openpr.com/amp/2230781/far-field-speech-voice-recognition-market-size-industry"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2230781/far-field-speech-voice-recognition-market-size-industry"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 24
+    images:
+      - url: "https://cdn.openpr.com/U/1/U125249135_g.jpg"
+        width: 630
+        height: 400
         isCached: true
   - title: "Robot Assisted Surgical Systems Market to Reach USD 17.80 Billion | Size, Share, Industry Analysis and Global Forecast to 2027"
     excerpt: "Growing demand for robot assisted minimally invasive surgeries is predicted to acquire the highest accuracy and success rate and boost market growth."

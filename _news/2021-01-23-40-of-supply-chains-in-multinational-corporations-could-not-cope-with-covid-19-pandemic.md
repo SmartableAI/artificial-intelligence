@@ -46,6 +46,22 @@ related:
         width: 620
         height: 310
         isCached: true
+  - title: "Every household will have a Sophia robot by end of the year"
+    excerpt: "HONG KONG: \"Social robots like me can take care of the sick or elderly,\" Sophia says as she conducts a tour of her lab in Hong Kong. \"I can help communicate, give therapy and prov"
+    publishedDateTime: 2021-01-25T12:11:00Z
+    webUrl: "https://economictimes.indiatimes.com/magazines/panache/every-household-will-have-a-sophia-robot-by-end-of-the-year/articleshow/80446907.cms"
+    ampWebUrl: "https://m.economictimes.com/magazines/panache/every-household-will-have-a-sophia-robot-by-end-of-the-year/amp_articleshow/80446907.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/every-household-will-have-a-sophia-robot-by-end-of-the-year/amp_articleshow/80446907.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-581650,msid-80447425/hanson-robotics-said-four-models-including-sophia-would-start-rolling-out-of-factories-in-the-first-half-of-2021-.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Makers of Sophia the robot plan to produce THOUSANDS of lifelike droids by the end of 2021 to provide company for people who are lonely and socially isolated during Covid-19 ..."
     excerpt: "Hong Kong-based Hanson Robotics, the firm behind the famous humanoid robot, Sophia, has revealed that four models, including Sophia, will be mass-produced this year."
     publishedDateTime: 2021-01-25T10:35:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/how-facebooks-latest-image-descripti
 webUrl: "https://analyticsindiamag.com/how-facebooks-latest-image-description-tool-for-the-visually-impaired-really-works/"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1600
     height: 900
     isCached: true
+
+related:
+  - title: "Facebook is getting better at providing more details to visually impaired users"
+    excerpt: "Facebook is improving its Automatic Alternative Text (AAT) technology to better utilize object recognition to generate descriptions of photos"
+    publishedDateTime: 2021-01-21T07:05:00Z
+    webUrl: "https://pocketnow.com/facebook-is-getting-better-at-providing-more-details-to-visually-impaired-users"
+    type: article
+    provider:
+      name: pocketnow.com
+      domain: pocketnow.com
+    quality: 35
+    images:
+      - url: "https://pocketnow.com/wp/../files/2021/01/Facebook-AI-for-blind.jpg"
+        width: 1536
+        height: 864
+        isCached: true
 
 secured: "IMscR8XO7aNiZCopHF8o6xkuMPnwTWgti0XYCdlqgS9Z1f8+MIIPHpZNb0VFJJa9dnTTQhpjU76ipG0rCTUj3x2WX69+EY/Cu8uXvFui/R93YoDg8JkNQZyCOrHCg7TVs/6IXi6mkuFv/DeLi8AgbXFEp9AklZ/ojZedFQTAWF5g0xpTvChzqcRgdkuKgchlBkG4CbPuW8Rg1MWjAr98fSnE0liyW2r5Dng83R7MDe0EQqYmeP69FlihyITqsHGPtXg7OqFQ46kwhMSGtd463bW457uVq2x6Sa2a4Hitx7Nonvdssf4T6OVMSLKKGx7YCW6E0gLcsLIyP946FuCuCZWcThruEu70yNaDAwy6U4o=;GwB0yEJ9f91W27dagTibMg=="
 ---

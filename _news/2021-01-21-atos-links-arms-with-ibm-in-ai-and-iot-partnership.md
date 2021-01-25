@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Leading-Edge Use Cases For AI In 2021, With IBM’s Bob Lord"
-    excerpt: "This podcast is sponsored by IBM Watson Advertising. Brands have long been sold the vision that artificial intelligence will one day supercharge their marketing plans, but results have been mixed. In this episode, Bob Lord, IBM’s SVP of cognitive appli ..."
-    publishedDateTime: 2021-01-20T20:27:00Z
-    webUrl: "https://www.adexchanger.com/podcast/leading-edge-use-cases-for-ai-in-2021-with-ibms-bob-lord/"
-    type: article
-    provider:
-      name: AdExchanger
-      domain: adexchanger.com
-    quality: 19
   - title: "Atos and IBM Collaborate to Accelerate Digital Transformation in the Enterprise with AI and Red Hat OpenShift Technologies"
     excerpt: "Atos and IBM (NYSE: IBM) today announced the expansion of a strategic global alliance to help companies accelerate their digital transformation and optimize business processes. The expanded alliance includes an intended focus on the development of joint offerings built on Atos' vertical decarbonized solution and service delivery assets,"
     publishedDateTime: 2021-01-20T21:44:00Z

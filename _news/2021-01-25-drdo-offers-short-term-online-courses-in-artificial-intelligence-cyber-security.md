@@ -24,6 +24,19 @@ images:
     height: 400
     isCached: true
 
-secured: "7SNS1ytH9ioXVqKs763KtsGoSC55aYyfsZxp1Ib4qLQCd65ZznKqeNYCYIvKGVmgZgpBa15FCBnQ11jT033JGkCkP6VyWU/5VD29fDoGRPi/DQW//xZuvi/Xjg0id6A55idCWqWjtoCJPE56aJL42Kgt7idtUm4vo+NZgAZYuo4FQ1siAtxBNEHG4BSRsT93G7FyGJDzuykr4FLA5kDkvhQQvzGTD07cUNCj4Dlbpc+t0gczsANLQqmoMSnYGJYjDI7lPykysKAAN1k09BHKODLMrEGiqQYsfEV5x5Adkf9aiuJlR4NajkNpFYivmZ/rd6QpemkguKk6QTcPsdcAL+CBi9jTOqGTiFgvN4CSxLM=;PYxqK0UhhgO0FME35ssHtg=="
+related:
+  - title: "DRDO Online Courses 2021: DIAT offers Artificial Intelligence, Cyber Security courses on diat.ac.in-"
+    excerpt: "Defense Institute of Advanced Technology Start DIAT the registration process for DRDO Online Courses 2021 on Artificial Intelligence and Cyber ​​Security. The registration process for both courses would begin on the official January 28,"
+    publishedDateTime: 2021-01-25T12:47:00Z
+    webUrl: "https://www.compsmag.com/news/hacking/drdo-online-courses-2021-diat-offers-artificial-intelligence-cyber-security-courses-on-diat-ac-in/"
+    ampWebUrl: "https://www.compsmag.com/news/hacking/drdo-online-courses-2021-diat-offers-artificial-intelligence-cyber-security-courses-on-diat-ac-in/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/hacking/drdo-online-courses-2021-diat-offers-artificial-intelligence-cyber-security-courses-on-diat-ac-in/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 39
+
+secured: "OIGonPy9E18poI1yKA6oZ3+pDQZmRL7AkVtRTvSdC8cazVhx9F/E1uAVnCfs8Op4kZSMo22dpXrg8rGbjfZdEhWkxc6SxN2VN5m3CEEZACS0+oxN0OPo5ouSqHOxID6FTMaidYhl80jvBceXqM7tBtPEt5yIT4SMoKdQe7B8XeuuUs6A5gxpGkBCSZKczOrFSNpHC3rUmxsSSgr5K+iXn6vAcY03Gz7EGC3XXdV1CluF3FAosYoK5f2ATswspbdPBozVbDRHD88W+bGvpg8T+70NASWFqnzJSXXu9HoWlpu96yhvDeUnxNjt9kYJS4tEGAB4EHQcJMdNryhGc/PX8okUSVGhpzPk487HngFsxoStAz5fyZ1Rv4+4zowStBXYE2dgs3frm25KQDIzWNrZ2bkKW4L3PxM+aMJaYpJ1ChXa8C0J0oM+sL7gtYBDKDW/fz7PWk9cpAptX8WsFMb4zIjb0fuafYhowbvMNBIQYw9BxUDLAAiuVekI44EKvi4Cc8H+o9gG1fK8q5/E+I3aJw==;AIh+syVH7n1U8bZR4v671g=="
 ---
 

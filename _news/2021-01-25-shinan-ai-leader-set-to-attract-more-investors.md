@@ -9,8 +9,8 @@ ampWebUrl: "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=303018"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=303018"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: koreatimes.co.kr
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "US leads race in artificial intelligence as China rises to the top - survey"
+    excerpt: "The United States is leading rivals in development and use of artificial intelligence while China is rising quickly and European Union is lagging, a research report showed Monday."
+    publishedDateTime: 2021-01-25T11:22:00Z
+    webUrl: "https://www.iol.co.za/technology/software-and-internet/us-leads-race-in-artificial-intelligence-as-china-rises-to-the-top-survey-3fb0c1fa-aab4-49bd-a1c5-731850f8529b"
+    ampWebUrl: "https://www.iol.co.za/amp/technology/software-and-internet/us-leads-race-in-artificial-intelligence-as-china-rises-to-the-top-survey-3fb0c1fa-aab4-49bd-a1c5-731850f8529b"
+    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/software-and-internet/us-leads-race-in-artificial-intelligence-as-china-rises-to-the-top-survey-3fb0c1fa-aab4-49bd-a1c5-731850f8529b"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 55
+    images:
+      - url: "https://image-prod.iol.co.za/resize/1280x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/fb718a16-caa7-5490-8675-dcef913ff589&operation=CROP&offset=0x67&resize=1280x720"
+        width: 651
+        height: 366
+        isCached: true
   - title: "Here's Why Investors Should Pay Close Attention to Artificial Intelligence"
     excerpt: "Artificial intelligence is ingrained into our lives. It’s influencing our shopping choices online, helping us book meetings, and even finding the best deals. The auto industry is using AI to create driverless cars."
     publishedDateTime: 2021-01-20T21:24:00Z

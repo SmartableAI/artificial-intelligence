@@ -7,7 +7,7 @@ originalUrl: "https://pocketnow.com/facebook-is-getting-better-at-providing-more
 webUrl: "https://pocketnow.com/facebook-is-getting-better-at-providing-more-details-to-visually-impaired-users"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -25,35 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook updates its automatic alternative text system with expanded object recognition"
-    excerpt: "The next-generation AAT system can identify more objects in photos, perceive where each object is located relative to each other and provide more detailed descriptions."
-    publishedDateTime: 2021-01-20T20:59:00Z
-    webUrl: "https://www.dpreview.com/news/1012238603/facebook-updates-its-automatic-alternative-text-system-with-expanded-object-recognition"
-    ampWebUrl: "https://m.dpreview.com/news/1012238603/facebook-updates-its-automatic-alternative-text-system-with-expanded-object-recognition.amp"
-    cdnAmpWebUrl: "https://m-dpreview-com.cdn.ampproject.org/c/s/m.dpreview.com/news/1012238603/facebook-updates-its-automatic-alternative-text-system-with-expanded-object-recognition.amp"
+  - title: "How Facebook’s Latest Image Description Tool For The Visually Impaired Really Works"
+    excerpt: "The first version of AAT was developed using human-labelled data. The data was then used to train a deep convolutional neural network."
+    publishedDateTime: 2021-01-23T10:34:00Z
+    webUrl: "https://analyticsindiamag.com/how-facebooks-latest-image-description-tool-for-the-visually-impaired-really-works/"
     type: article
     provider:
-      name: Digital Photography Review
-      domain: dpreview.com
-    quality: 51
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 33
     images:
-      - url: "https://3.img-dpreview.com/files/p/E~TS590x0~articles/1012238603/facebook.png"
-        width: 590
-        height: 332
-        isCached: true
-  - title: "Facebook Improves Its AI Audio Photo Descriptions for the Visually Impaired"
-    excerpt: "Facebook has been using AI to audibly describe the contents of photos for the visually impaired for some time, but it's improving those efforts this year."
-    publishedDateTime: 2021-01-20T20:08:00Z
-    webUrl: "https://petapixel.com/2021/01/20/facebook-improves-its-ai-audio-photo-descriptions-for-visually-impaired/"
-    type: article
-    provider:
-      name: PetaPixel
-      domain: petapixel.com
-    quality: 37
-    images:
-      - url: "https://petapixel.com/assets/uploads/2021/01/Facebook-Improves-its-AI-Audio-Photo-Descriptions-for-Visually-Impaired.jpg"
+      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2021/01/2021-01-22.jpg"
         width: 1600
-        height: 840
+        height: 900
         isCached: true
 
 secured: "zrgkvTMUHcujKdYn/kQ0QHsHUahBgQQEHQsJ3ZGIl3r1cT2HM5LIFIgrFiUjF23r71AGLCGPms0NYmEn9HGVMY+530ip/Fy/kZt4ldCGE4DxErpq2B6ftAgtvJ89RRq0GhvOwsfuJMQFz2+oa4dcwEMaSIouRNs3QF9ZMf2Y/LOdY7Mevd66chapq+ZX6iC/YCtKDEm/x8n6Opiw5qbuXBfObwxOi79niTQqxgXgckRh4S3rBmRP2k/plX/sI5T3wEp3VJs2AXpkcfpkC8UwuWSyzMHj8dEE/fz6TrRraBbrcwgB7Fn7bkXMK20USBalpEhQ8dX1Wfl45twA+oVxRXOoJZ9s5wqarYpe1F8jRfZhm74GqmVBoAe/Fvt5MMIiV+gH/OmxfeRZEA+igPAqPTRIIZ1tIfe2SpWhvleDYLcr8/FooNNwg+fZbH0qFJEzLlddPzIX4+Ua2r+i13/1BNa9pPDGvR8jWUirDnnBlMWIrPiRnavEuFFakbg870j1FKuwe3TEjq/dQS859jSuhw==;qj5V+0HoCxJnxjDcY5QGhg=="

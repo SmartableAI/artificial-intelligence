@@ -9,7 +9,7 @@ ampWebUrl: "https://sea.mashable.com/tech/14213/thousands-of-sophia-the-robot-un
 cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/14213/thousands-of-sophia-the-robot-units-to-be-sold-to-help-people-cope-with-covid-19?amp=1"
 type: article
 quality: 83
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Every household will have a Sophia robot by end of the year"
+    excerpt: "HONG KONG: \"Social robots like me can take care of the sick or elderly,\" Sophia says as she conducts a tour of her lab in Hong Kong. \"I can help communicate, give therapy and prov"
+    publishedDateTime: 2021-01-25T12:11:00Z
+    webUrl: "https://economictimes.indiatimes.com/magazines/panache/every-household-will-have-a-sophia-robot-by-end-of-the-year/articleshow/80446907.cms"
+    ampWebUrl: "https://m.economictimes.com/magazines/panache/every-household-will-have-a-sophia-robot-by-end-of-the-year/amp_articleshow/80446907.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/every-household-will-have-a-sophia-robot-by-end-of-the-year/amp_articleshow/80446907.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-581650,msid-80447425/hanson-robotics-said-four-models-including-sophia-would-start-rolling-out-of-factories-in-the-first-half-of-2021-.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Makers of Sophia the robot plan to produce THOUSANDS of lifelike droids by the end of 2021 to provide company for people who are lonely and socially isolated during Covid-19 ..."
     excerpt: "Hong Kong-based Hanson Robotics, the firm behind the famous humanoid robot, Sophia, has revealed that four models, including Sophia, will be mass-produced this year."
     publishedDateTime: 2021-01-25T10:35:00Z
@@ -60,6 +76,6 @@ related:
         height: 382
         isCached: true
 
-secured: "0/UpRKjDxpMdcpMtzSIgqauyk6x/+IO4czRDWOTdppRiEe6ViSwQHz6JQuSqOhddIki7YJNVQEIj05lMxr0ru+w3w9rlDJ0xNSLevdJyS84e6mobdybEZnxhL4wSbgJSZ+CdgHCsnj1PGwym3IaJlxMkunNDX8QSPPm6Hvt8DbaxLdtkySSlQEMJPrMwv4npo4Yymle4fN6Jm54mZ4sqOoFd/yf9LX0eMItoMMEmD7I+66dLYB7fFmy0qMtltorAp4b6c1a6TDjVq/MYXeWqGfxxEs7Lrkk58eFhKIAJw8UrHdPafmDD5Crn2amitjFXh0BX4JSHKXoK419EtUnrZDXGwVuEArWffHwgtmS3Kg4=;YTTFXPKeH4Cyujbt7QyjJQ=="
+secured: "Ts42glXhUPmegR+h0jzi0lT1c0m+nEPQhIbk+Ikbozl+OriG6gKQ7kJeukJq6d/F4liCCKnX3NmyHTmd+3AAyf2bo4yCi6bk9BXR46pNoFKDhjDHb9hpCzrrA1H5RriOKzM59y5MwjvyhGLsECGjKyt6GgMnIhbPedgUeywTgs7p/BwUphsp9CERBXyaJtw7GWD80fKMvDcUHlYu3NVf+VULZx33E2wT81lYLu7Ka9JLWfjFyZ90duscj9qE8MwF8wIM06bgMAkJ0G6WoRlGrSWbm206ZRH/4E9FfTA02T37hZlpsxtWUeOuUDFwLdpyWVIeZAPXW9+KhUsZUMB6OrZd5K/TVjO0HPRniFWltK0qSVuZnCek5Qyv+GGcw9ZpLP2+nI5/5oGyM3s/vzERw3oVGpIF2NWFpxpBb9wqMd2qhyP8FqqLvG+C1kIVwqOiy10Edx7F95v7LZ1eJaAKdC/4jELAhU1JuiNwtFrzJtq1CRz4zGVKhgKSLJDmYt+oQZtF+oywPlbUuiuMpzM8kw==;Li//LIzCYoM3g3BcDf2YpA=="
 ---
 

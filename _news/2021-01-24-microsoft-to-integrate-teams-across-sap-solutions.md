@@ -76,7 +76,7 @@ related:
     provider:
       name: Reseller News
       domain: reseller.co.nz
-    quality: 86
+    quality: 88
     images:
       - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/promoted_content/promo/azure.jpg"
         width: 740
@@ -181,6 +181,31 @@ related:
       name: Windows
       domain: compsmag.com
     quality: 50
+  - title: "Microsoft Tweaks Data-for-AI Policy After Big Tech Voice Data Collection Controversies"
+    excerpt: "Users of Microsoft Translator and Skype can now opt out of having their voice clips used to improve speech recognition AI."
+    publishedDateTime: 2021-01-25T11:03:00Z
+    webUrl: "https://slator.com/industry-news/microsoft-tweaks-data-for-ai-policy-after-big-tech-voice-data-collection-controversies/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 48
+    images:
+      - url: "https://slator.com/assets/2021/01/Microsoft-Language-Data-Policy-Change-for-Translation-and-Machine-Translation.png"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Microsoft adjusts Data-for-AI policy after Big Tech Controversies over the collection of voice data"
+    excerpt: "Microsoft users can now choose whether the software giant can use their voice recordings while interacting with Microsoft Translator, Skype voice translator and other products and services, according to the company on January 15,"
+    publishedDateTime: 2021-01-25T12:23:00Z
+    webUrl: "https://www.compsmag.com/news/technology/microsoft-adjusts-data-for-ai-policy-after-big-tech-controversies-over-the-collection-of-voice-data/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/microsoft-adjusts-data-for-ai-policy-after-big-tech-controversies-over-the-collection-of-voice-data/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/microsoft-adjusts-data-for-ai-policy-after-big-tech-controversies-over-the-collection-of-voice-data/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 42
   - title: "GM, Microsoft team up on self-driving vehicles"
     excerpt: "General Motors Co (GM) is teaming up with Microsoft Corp to accelerate its rollout of electric, self-driving vehicles. In the partnership announced on Tuesday, the companies said that Microsoft’s Azure cloud and edge computing platform would be used to “commercialize its unique autonomous vehicle solutions at scale."
     publishedDateTime: 2021-01-20T22:38:00Z

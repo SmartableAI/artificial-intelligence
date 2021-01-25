@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-07-blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure.md",
+      "title": "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure",
+      "excerpt": "New offering extends Blue Prism’s intelligent automation leadership in the cloud and brings increased benefits to Microsoft Azure users",
+      "sourceUrl": null,
+      "webUrl": "https://www.biztechafrica.com/article/blue-prism-accelerates-intelligent-automation-clou/16368/",
+      "originalUrl": "https://www.biztechafrica.com/article/blue-prism-accelerates-intelligent-automation-clou/16368/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.biztechafrica.com/media/images/stories/Screen_Shot_2021-01-06_at_6.42.51_PM.png",
+          "width": 509,
+          "height": 249,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-06T12:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BiztechAfrica",
+        "domain": "biztechafrica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops.md",
       "title": "Microsoft, Seneca and RBC to offer free Microsoft Azure Fundamentals workshops",
       "excerpt": "Seneca College has teamed up with Microsoft Canada and the Royal Bank of Canada (RBC) to create opportunities for Canadian students, graduates",
@@ -1341,49 +1384,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-cloud-api-market-2020-research-report-rationalize-share-size-and-future-opportunities-ca-technologies-dell-google-ibm-microsoft-corpo.md",
-      "title": "Cloud API Market 2020, Research Report Rationalize Share, Size and Future Opportunities - CA Technologies, Dell, Google, IBM, Microsoft Corpo",
-      "excerpt": "The cloud application programming interface (API) allows the development of applications and services utilized to ... such as speech recognition and cognitive computing are some factors ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2214107/cloud-api-market-2020-research-report-rationalize-share-size",
-      "originalUrl": "https://www.openpr.com/news/2214107/cloud-api-market-2020-research-report-rationalize-share-size",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/c/Tc21135012_g.jpg",
-          "width": 626,
-          "height": 352,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2214107/cloud-api-market-2020-research-report-rationalize-share-size",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2214107/cloud-api-market-2020-research-report-rationalize-share-size",
-      "publishedDateTime": "2020-12-21T02:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,92 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-01-14-the-best-new-robot-vacuums-of-ces-2021.md",
+      "title": "The best new robot vacuums of CES 2021",
+      "excerpt": "At CES 2021, we're seeing vacuums that will be able to clean your home better than ever before. Here are some of the best robot vacuums on display this year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/home/best-robot-vacuums-ces-2021/",
+      "originalUrl": "https://www.digitaltrends.com/home/best-robot-vacuums-ces-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/home/best-robot-vacuums-ces-2021/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/best-robot-vacuums-ces-2021/?amp",
+      "publishedDateTime": "2021-01-14T05:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-14-even-ais-cant-help-but-turn-into-hateful-jerks-on-facebook.md",
+      "title": "Even AIs can't help but turn into hateful jerks on Facebook",
+      "excerpt": "The popular South Korean Al chatbot, Lee Luda, has been suspended from Facebook after being reported for making racist remarks, and discriminatory comments about members of the LGBTQ+ community, as well as people considered to have disabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcgamer.com/au/ai-chatbot-suspended-facebook/",
+      "originalUrl": "https://www.pcgamer.com/au/ai-chatbot-suspended-facebook/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/tEzDTfy6yUTw4Q56rQneYf-1200-80.jpg",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcgamer.com/au/amp/ai-chatbot-suspended-facebook/",
+      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/au/amp/ai-chatbot-suspended-facebook/",
+      "publishedDateTime": "2021-01-14T05:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-14-milrem-robotics-rolls-out-its-new-type-x-rcv.md",
       "title": "Milrem Robotics rolls out its new Type-X RCV",
       "excerpt": "X Robotic Combat Vehicle by the European leading robotics and autonomous systems developer Milrem Robotics passed its initial mobility",
@@ -1089,91 +1175,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-surveillance-group-exposes-disturbing-huawei-patent-for-ai-powered-uighur-detection.md",
-      "title": "Surveillance group exposes disturbing Huawei patent for AI-powered Uighur detection",
-      "excerpt": "Researchers from IPVM revealed that Huawei and a range of other Chinese tech firms have filed patents for spotting Uighurs and other ethnic groups.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/01/13/surveillance-group-exposes-disturbing-huawei-patent-for-ai-powered-uighur-detection/",
-      "originalUrl": "https://thenextweb.com/neural/2021/01/13/surveillance-group-exposes-disturbing-huawei-patent-for-ai-powered-uighur-detection/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/Untitled-design-2021-01-13T145309.087-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/01/13/surveillance-group-exposes-disturbing-huawei-patent-for-ai-powered-uighur-detection/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/13/surveillance-group-exposes-disturbing-huawei-patent-for-ai-powered-uighur-detection/amp/",
-      "publishedDateTime": "2021-01-13T10:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-5-things-to-know-about-employee-recognition-in-2021.md",
-      "title": "5 Things to Know About Employee Recognition in 2021",
-      "excerpt": "Employee recognition company Terryberry discusses how organizations are changing they way they recognize and appreciate teams the midst of a global pandemic. GRAND RAPIDS, Mich.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/01/p19149002/5-things-to-know-about-employee-recognition-in-2021",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/01/p19149002/5-things-to-know-about-employee-recognition-in-2021",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/19149002",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19149002",
-      "publishedDateTime": "2021-01-13T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

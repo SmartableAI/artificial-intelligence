@@ -81,6 +81,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "US Fintech Startup, Flaist is Selected for the Prestigious International Accelerator Program, Techstars Hub71 Abu Dhabi"
+    excerpt: "The fintech startup, Flaist, has announced it's been selected for the prestigious 2021 class of Techstars Hub71 Accelerator Program in Abu Dhabi. Techstars is a global platform for investment and innovation that helps entrepreneurs scale"
+    publishedDateTime: 2021-01-25T12:24:00Z
+    webUrl: "https://www.lelezard.com/en/news-19613712.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 15
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "jkWkoOhtq3WQFfHW/ZLOoJTM+gaJNnYM1jpIE5d0nBkLtTOsDlPDUY7uMyE6VHHPNWhzUrKrRGZoJiIuGfVszPEgCEUandLMgZSGrJFnp4isw9ltVxgLWqAounzyfZSn8SolHqbKP6/xQS9PSUvGy8aECA4U7Q+LiI9MVp3k6Kep3c4kiNSlpd2JdcaVWY0gh3mdQlhubRLzzerwFqdnQdPDZ85+M2pJRrHuWsl55yb4+GlGZ2YDj80KTw4xdlPUVCYVd/Xvh8zdcWl9VeWxt6qIaxnSpN0nCQq86O9V5cYIlBoscxF7/VR7JL8gGTuvVDH8ktRhaAIfzgike33JH04FbAOffMd+2gdy/pSRAiM=;W3+B7FkR+b7n+nOwH0K1XQ=="
 ---

@@ -1,47 +1,21 @@
 ---
 category: news
 title: "INFINIQ to Enter Global Market by Establishing European Sales Headquarters and Participating in CES 2021"
-excerpt: "INFINIQ is establishing European sales headquarters to expand the scope of its business beyond Korea to the global autonomous driving data market. INFINIQ is a Korean company that provides artificial intelligence data sets,"
-publishedDateTime: 2021-01-11T09:23:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/business-technology-driverless-cars-products-and-services-asia-66117911a7184923a25326255246d862"
-webUrl: "https://apnews.com/press-release/business-wire/business-technology-driverless-cars-products-and-services-asia-66117911a7184923a25326255246d862"
+excerpt: "This platform provides automatic object recognition algorithms and annotation tools that can be effectively utilized by companies that need to build a dataset for autonomous driving. These ..."
+publishedDateTime: 2021-01-11T11:25:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210111005450/en/"
+webUrl: "https://www.businesswire.com/news/home/20210111005450/en/"
 type: article
-quality: 26
-heat: 26
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
-  - AI in Autos
+  - Computer Vision
   - AI
   - AI in Sales
-  - Computer Vision
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-related:
-  - title: "INFINIQ steigt durch Gründung einer europäischen Vertriebszentrale und Teilnahme an der CES 2021 in den weltweiten Markt ein"
-    excerpt: "INFINIQ is establishing European sales headquarters to expand the scope of its business beyond Korea to the global autonomous driving data market. INFINIQ is a Korean company that provides artificial intelligence data sets,"
-    publishedDateTime: 2021-01-11T09:23:00Z
-    webUrl: "https://apnews.com/article/d5bf98cf10cc485e8fefe6709e72c32e"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-
-secured: "nx6Jd9jwlf3kojPiLzF30qOcPEXSdqH02rF0m7Uv9mwVG0AO/U1f9VvTDfQJw882AcJl/NoKAtFjKDE/ohsojNn5Wgal9nSVRksavz1Jl9KGK5WMnqCWJSeKqqPbl6J1hHvhGw/XyU8lNC7EArfEK2GbrvCntlY2yLunTvK7hFYdq7ZE6LXSYJap4TVk/IRtArrC09rAvf5ALYbxOtLInw5lh/o+Mdkab5lLCTWKoms2LlMnDTGRaXDNj5Ml3kUpjBEjADBG7vOohJiEJcG4ozL6CrHoa6ftWpTKKjGgGxwms/A3JIEb4Qr5MMzFihLW7LMeWRMvvCEVUD0lvXF4oPj8mUueXd0pNq0QcvNO0is=;03UTekdZg4j2YpyzUpsgSQ=="
+secured: "QjnZc922atWOJpfCNfpGTUVr0mxiixJSxfre8yrzvyT3uvwfvDqG4NtWfzltvbJh5+43LKT9DZM0Piw82VIJDK2rTdJdrOGqmaid3v87DjcsaW1mF8zqzmCrQANVLP4zG4sDRgX22eHmyH4n/FNsIr5iF8IRYZ4i0zDxihwuOS9DAH3Y1EWTS8gpxsQmKlUXYsowtyt40bBaODMhWVe13cKflBKZ4GR3x8WZJd4OcoGKV2rNwt5Fj+k6mFkpydh9QsOYdjCI7nS1krwWTM6MSbd2M5fMsPw8E2uJGqiP6Ytn8Am0/MwVv0l0rg2rBDL12gug8m0kJb8Jx3PRjvm7UzVm85ybHEJYMsprE8XBFrg=;cvC9gQGVUBejSikDdu82xg=="
 ---
 

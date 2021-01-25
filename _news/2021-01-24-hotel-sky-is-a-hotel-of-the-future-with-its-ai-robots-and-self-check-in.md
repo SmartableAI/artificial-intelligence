@@ -9,7 +9,7 @@ ampWebUrl: "https://www.iol.co.za/amp/travel/travel-news/hotel-sky-is-a-hotel-of
 cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/travel/travel-news/hotel-sky-is-a-hotel-of-the-future-with-its-ai-robots-and-self-check-in-96a54dac-534c-479e-926f-d8e40c565c12"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 651
     height: 366
     isCached: true
-
-related:
-  - title: "Episode 2: The Future of Recycling - Artificial Intelligence and Sorting"
-    excerpt: "In this episode of Stef Talks Trash, Editorial Director Stefanie Valentic discusses how artificial intelligence (AI) systems are advancing material recovery facilities (MRFs). AMP Robotics recently entered into an agreement with Waste Connections to implement AI systems on the company’s container,"
-    publishedDateTime: 2021-01-20T20:29:00Z
-    webUrl: "https://www.waste360.com/recycling/episode-2-future-recycling-artificial-intelligence-and-sorting"
-    type: article
-    provider:
-      name: Waste360
-      domain: waste360.com
-    quality: 38
-    images:
-      - url: "https://www.waste360.com/sites/waste360.com/files/EPISODE2STTfeat.jpg"
-        width: 1540
-        height: 800
-        isCached: true
 
 secured: "908s3uQqQwN78BZU1u9mYv56JR856qzcc0ei9YisWhCeZteURx9/nsDOG6Psl4ivVHAsNwx+XLDJP5dlp98ZuRl4EG4g59YCy7wqLlcJAgkZkPPJnlKu5iNH9Qj5SOeXnMEOnkJoQcu7It4xvQfRWmaWRP52a2LzPs6Ofma9ufamPXMyomYJ7k/Sequ1K0rAsLzFlipTaLDkCpwqwnGqUz5j9bGvGQRP4StIz+LmiVnzAoFkMYOSd80Ndu0VllrTP+g6HRhs+KKrWM76mkSS/jW8mDFoNeEpulLQWghKS5vJ8DZZEX9SuLpFbourUJsMC612cUmPk5Klb6uPYR9iEnevySotbvkTpoJK6vdIy/M=;meiKVEgxet9cjhYrFBF/Gw=="
 ---

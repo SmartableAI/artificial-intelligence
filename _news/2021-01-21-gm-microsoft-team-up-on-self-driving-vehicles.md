@@ -77,7 +77,7 @@ related:
     provider:
       name: Reseller News
       domain: reseller.co.nz
-    quality: 86
+    quality: 88
     images:
       - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/promoted_content/promo/azure.jpg"
         width: 740
@@ -182,6 +182,31 @@ related:
       name: Windows
       domain: compsmag.com
     quality: 50
+  - title: "Microsoft Tweaks Data-for-AI Policy After Big Tech Voice Data Collection Controversies"
+    excerpt: "Users of Microsoft Translator and Skype can now opt out of having their voice clips used to improve speech recognition AI."
+    publishedDateTime: 2021-01-25T11:03:00Z
+    webUrl: "https://slator.com/industry-news/microsoft-tweaks-data-for-ai-policy-after-big-tech-voice-data-collection-controversies/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 48
+    images:
+      - url: "https://slator.com/assets/2021/01/Microsoft-Language-Data-Policy-Change-for-Translation-and-Machine-Translation.png"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Microsoft adjusts Data-for-AI policy after Big Tech Controversies over the collection of voice data"
+    excerpt: "Microsoft users can now choose whether the software giant can use their voice recordings while interacting with Microsoft Translator, Skype voice translator and other products and services, according to the company on January 15,"
+    publishedDateTime: 2021-01-25T12:23:00Z
+    webUrl: "https://www.compsmag.com/news/technology/microsoft-adjusts-data-for-ai-policy-after-big-tech-controversies-over-the-collection-of-voice-data/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/microsoft-adjusts-data-for-ai-policy-after-big-tech-controversies-over-the-collection-of-voice-data/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/microsoft-adjusts-data-for-ai-policy-after-big-tech-controversies-over-the-collection-of-voice-data/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 42
   - title: "Microsoft invests in GM's self-driving car company"
     excerpt: "GM-owned self-driving firm Cruise pushed its total value to $30 billion with Microsofts participation in a $2 billion equity investment. It was not divulged how much Microsoft infused in the equity investment and"
     publishedDateTime: 2021-01-21T10:25:00Z

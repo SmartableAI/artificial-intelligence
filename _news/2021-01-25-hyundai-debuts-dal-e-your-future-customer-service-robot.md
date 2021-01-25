@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/hyundai-debuts-dal-e-your-f
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/hyundai-debuts-dal-e-your-future-customer-service-robot/"
 type: article
 quality: 104
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     height: 1140
     isCached: true
 
-secured: "kEfMeiaB6rtIJKsTbf9zJWt5skxLn41oNJ4bSf1KdkQnwhDIAPlAjqhoEU7ApSS1w/g01gaYsnImEMNcEclEQ8V7RhN6mp72xHg6VMze1VkZYyfAKmwpfX4mA9qwK+uGYs46g1+VOCcBLhIWWC9O4CRy9HQEac1y6qu/bMnAOqbN1QxJP5oqeStiNJGw3BNqgE6lbxwXL6TzI5xiiDhRbJZT/l5IkJ1mIVtXD4HaW4S3ChWm9KRupEsLRVJdcxmVMOaaci+rhreIczp6OJZIP877pJFE2lpxkzf7e/gMszDLkwFSVT/+UfOBYGOiwiVStlxkYLopHI4wqpVNwVKCaYxAyi6HXL7e/8TX7ASoy28=;ZSSSLC3lLWGXIfNEezqg+w=="
+related:
+  - title: "Hyundai Motor Group Introduces Advanced Humanoid Robot ‘Dal-E’ for Automated Customer Services"
+    excerpt: "Hyundai Motor Group has launched the “DAL-e,” a highly advanced customer service robot that independently communicates with people using precise recogni"
+    publishedDateTime: 2021-01-25T12:33:00Z
+    webUrl: "https://www.albawaba.com/business/pr/hyundai-motor-group-introduces-advanced-humanoid-robot-‘dal-e’-automated-customer"
+    ampWebUrl: "https://www.albawaba.com/amp/business/pr/hyundai-motor-group-introduces-advanced-humanoid-robot-%E2%80%98dal-e%E2%80%99-automated-customer"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/hyundai-motor-group-introduces-advanced-humanoid-robot-%E2%80%98dal-e%E2%80%99-automated-customer"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 62
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2021-01/DAL-e%20%281%29.jpg?itok=10v65UmZ"
+        width: 960
+        height: 640
+        isCached: true
+
+secured: "5+rqYbo9px0mpvt9WR2nvr+sVbNjE9BAf2htGmLiQDViw8XG4DtQMAFYM9MlQgWq/IGFAVhmEX4om6ViZZLth2B6hooxMtJEn4NhyZMsmkW6jVEB8WYnEdgKcnfME15OfS6UYNWTdNKkZrMPNC2C0jv8ax0xokAMBdFeJagojpchBZYeFZmsJbPVKGJKbL0AbK7/KwaLGAEqBiPHEY6ZKxmAg0QdBHXTPBkK/oc5D6zdQU6U1nSjwyi9h8yJhzllRPNr6DkQln5thUCgmyhNoe5osfvsxjv/b7UTAvAcsj7uz4lB47RPnOWDzLfOrtWrGCxUqwEebqKV1JvQN1q7vOTKSJwnmpaV6m2A9OOXH4Ij/yj73RD3ZlQsrsMTNUcf+ipaCAlhmXrXSugTUGEOUvcu/mOPz2ef1nuz4JvQyZfO2kLI+5vNUAuky07ZPhVOFxVj1cqXryisW0Atw+naVyWivIfua434V450hdNXKUSBWe6GBHzLzzl1Er3MQ8//jpjtaZ+ClqVybSb2BhOBnw==;GI6SZL84HBGhptYZAfGy3w=="
 ---
 

@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Every household will have a Sophia robot by end of the year"
+    excerpt: "HONG KONG: \"Social robots like me can take care of the sick or elderly,\" Sophia says as she conducts a tour of her lab in Hong Kong. \"I can help communicate, give therapy and prov"
+    publishedDateTime: 2021-01-25T12:11:00Z
+    webUrl: "https://economictimes.indiatimes.com/magazines/panache/every-household-will-have-a-sophia-robot-by-end-of-the-year/articleshow/80446907.cms"
+    ampWebUrl: "https://m.economictimes.com/magazines/panache/every-household-will-have-a-sophia-robot-by-end-of-the-year/amp_articleshow/80446907.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/every-household-will-have-a-sophia-robot-by-end-of-the-year/amp_articleshow/80446907.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-581650,msid-80447425/hanson-robotics-said-four-models-including-sophia-would-start-rolling-out-of-factories-in-the-first-half-of-2021-.jpg"
+        width: 600
+        height: 450
+        isCached: true
 
 secured: "L1ZTISY6DUMdkqQMRgGv1UeztqlzhbrCOnrvLqjcHT2KMfV/K9bEqmyj+byuEBLnPoOA5MUvrcy15kb69E3ErnfnSFiIoqVlrb3E5+LU0cnpoD1C3B0VHw5y/cJgl/3l9xWoh+E1zmdDLaL2oD/SkT8V9zxleW6+oTQDozpGOImWuFnGsfWZt6X04wsG7XeYzgyAQSTznN2CL9sBTf0i8+heCIVTqwx6Hx8fAuyNvYc3oUanoxEdP7m2GCuURnmMg+8V7mp4EYcybqfczQVeqDpGP6HwiHeupeOYgYO+ad3frYTQBbdOesZd9UvWGXeo2NAw6niIawdp4N4kgd3NBzCfG2NPHUpo3GMHfCPO5NA=;ysiltS1GzJuPGXzds/WHLg=="
 ---

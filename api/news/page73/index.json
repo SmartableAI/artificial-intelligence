@@ -2,6 +2,298 @@
   "page": 73,
   "value": [
     {
+      "path": "_news/2020-11-24-csiro-wants-to-use-ai-to-end-australias-plastic-waste.md",
+      "title": "CSIRO wants to use AI to end Australia's plastic waste",
+      "excerpt": "Microsoft and Hobart City Council are working with the government agency to develop these technology solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/video/csiro-to-use-artificial-intelligence-machine-learning-and-sensors-to-end-plastic-waste/",
+      "originalUrl": "https://www.zdnet.com/video/csiro-to-use-artificial-intelligence-machine-learning-and-sensors-to-end-plastic-waste/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/11/09/5ca01cf2-98c4-4a98-b8d3-ab2cccb7a4c9/thumbnail/770x578/94918bcad0df8e93d29f6b864475f246/csiro-to-use-artificial-intelligence-mac-5fa899016df74d74600b5d6d-1-nov-09-2020-5-21-09-poster.jpg",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-23T23:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-how-archaeologists-are-using-deep-learning-to-dig-deeper.md",
+      "title": "How Archaeologists Are Using Deep Learning to Dig Deeper",
+      "excerpt": "Dr. Caspari hopes that their creation will give archaeologists a way to find new tombs and to identify important sites so that they can be protected from looters. Other convolutional neural networks are beginning to automate a variety of repetitive tasks that are usually foisted on to graduate students.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/11/24/science/artificial-intelligence-archaeology-cnn.html",
+      "originalUrl": "https://www.nytimes.com/2020/11/24/science/artificial-intelligence-archaeology-cnn.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/24/science/21SCI-AI-ARCHAEOLOGY1/merlin_180180867_e06b03e9-8617-426b-add7-98e70a1f46fd-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/11/24/science/artificial-intelligence-archaeology-cnn.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/24/science/artificial-intelligence-archaeology-cnn.amp.html",
+      "publishedDateTime": "2020-11-23T23:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-preludedx-announces-partnership-with-americas-choice-provider-network.md",
+      "title": "PreludeDx™ Announces Partnership with America's Choice Provider Network",
+      "excerpt": "\"DCISionRT combines the latest innovations in molecular biology with artificial intelligence and machine ... surgery alone or surgery with radiation therapy is appropriate.\" ACPN contracts ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/preludedx-announces-partnership-with-americas-choice-provider-network-301179195.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/preludedx-announces-partnership-with-americas-choice-provider-network-301179195.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/613101/PreludeDXLogoPMS_Logo.jpg?p=facebook",
+          "width": 2700,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-23T23:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-recent-trends-in-global-mobile-speech-recognition-software-market-to-expand-with-covid-19-impact-2020-2026.md",
+      "title": "Recent Trends In Global Mobile Speech Recognition Software Market - To Expand With Covid-19 Impact [2020-2026]",
+      "excerpt": "Global Mobile Speech Recognition Software Market report provides a crucial document of Technology and Media for the industry players to understand competitive Mobile Speech Recognition Software market scenario.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/recent-trends-in-global-mobile-speech-recognition-software-market---to-expand-with-covid-19-impact-2020-2026-2020-11-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/recent-trends-in-global-mobile-speech-recognition-software-market---to-expand-with-covid-19-impact-2020-2026-2020-11-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-23T21:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-artificial-intelligence-ai-in-healthcare-market-advancements-in-technology-current-scenario-of-industry-and-demand-forecast-by-2027.md",
+      "title": "Artificial Intelligence (AI) In Healthcare Market Advancements in Technology, Current Scenario of Industry and Demand Forecast by 2027",
+      "excerpt": "Pune, Maharashtra, India, November 24 2020 (Wiredrelease) Allied Analytics –:AI in healthcare market is majorly driven by surge in processing power of AI systems leading to enhanced AI capabilities and application of AI for novel surgeries. Furthermore ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pharmiweb.com/press-release/2020-11-24/artificial-intelligence-ai-in-healthcare-market-advancements-in-technology-current-scenario-of-in",
+      "originalUrl": "https://www.pharmiweb.com/press-release/2020-11-24/artificial-intelligence-ai-in-healthcare-market-advancements-in-technology-current-scenario-of-in",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png",
+          "width": 1200,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-23T20:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PharmiWeb",
+        "domain": "pharmiweb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-softbank-led-round-values-uber-like-truck-startup-at-12-billion.md",
+      "title": "SoftBank-Led Round Values Uber-Like Truck Startup at $12 Billion",
+      "excerpt": "known as Manbang in Chinese, said Tuesday it broke even this year and currently handles transactions for some 10 million truckers and 5 million shippers. It’s also expanding into automotive technology and backs autonomous trucking startup Plus.AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-11-24/softbank-led-round-values-uber-like-truck-startup-at-12-billion",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-11-24/softbank-led-round-values-uber-like-truck-startup-at-12-billion",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZmQLXcawPmM/v0/360x-1.jpg",
+          "width": 360,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-11-24/softbank-led-round-values-uber-like-truck-startup-at-12-billion",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-11-24/softbank-led-round-values-uber-like-truck-startup-at-12-billion",
+      "publishedDateTime": "2020-11-23T20:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-24-grai-matter-labs-raises-14m-to-bring-fastest-ai-per-watt-to-every-device-on-the-edge.md",
       "title": "GrAI Matter Labs Raises $14M to Bring Fastest AI per Watt to Every Device on the Edge",
       "excerpt": "Press Release GrAI Matter Labs, a pioneer of brain inspired ultra-low latency computing, today announced its latest financing round of $14 million. The round was led by iBionext, joined by all existing investors and newly welcomed Bpifrance through the Future",
@@ -895,289 +1187,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-accern-upgrades-no-code-ai-platform-with-powerful-advanced-features-for-financial-services.md",
-      "title": "Accern Upgrades No-Code, AI Platform with Powerful, Advanced Features for Financial Services",
-      "excerpt": "PRNewswire/ -- Accern Corporation, a leading no-code, Artificial Intelligence (AI) company today released the upgrade of its no-code AI platform, which provides the ultimate user-friendly experience with easy navigation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20201123ny01033/accern-upgrades-no-code-ai-platform-with-powerful-advanced-features-for-financial-services",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20201123ny01033/accern-upgrades-no-code-ai-platform-with-powerful-advanced-features-for-financial-services",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1276354/Accern_Logo.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-23T07:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-the-new-need-for-robots-ai-and-data-analytics-in-supermarkets.md",
-      "title": "The New Need for Robots, AI and Data Analytics in Supermarkets",
-      "excerpt": "After all, tools that might have fallen flat with grocers a year ago — shelf sensors, inventory management software, grab-and-go stores, robotics, AI for better order personalization ... them to partner with tech start-ups. But, as promising as ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/359653",
-      "originalUrl": "https://www.entrepreneur.com/article/359653",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1605905967-GettyImages-1066949406.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/359653",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/359653",
-      "publishedDateTime": "2020-11-23T07:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-building-ai-brain-trust-advancing-leadership-skills-in-ai-strategy-a-board-director-and-ceo-duty-of-care.md",
-      "title": "Building AI Brain Trust: Advancing Leadership Skills In AI Strategy: A Board Director And CEO Duty Of Care",
-      "excerpt": "I have now written two blogs framing the critical need for a Board Director and CEO to build a focused AI Brain Trust and leadership program to build stronger skills and competencies to advance AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2020/11/23/building-ai-brain-trust-advancing-leadership-skills-in-ai-strategy-a-board-director-and-ceo-duty-of-care/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2020/11/23/building-ai-brain-trust-advancing-leadership-skills-in-ai-strategy-a-board-director-and-ceo-duty-of-care/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-23T05:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-dassault-aviation-partners-the-paris-region-challenge-ai-for-industry-2020.md",
-      "title": "Dassault Aviation partners the Paris Region Challenge AI for Industry 2020",
-      "excerpt": "Dassault Aviation partners the Paris Region Challenge AI for Industry 2020 Saint-Cloud, France, November 23rd, 2020 – The “Paris Region Challenge",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/dassault-aviation-partners-the-paris-region-challenge-ai-for-industry-2020-1029830084",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/dassault-aviation-partners-the-paris-region-challenge-ai-for-industry-2020-1029830084",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Dassault-Aviation-partners-the-Paris-Region-Challenge-AI-for-Industry-2020-1029830084",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Dassault-Aviation-partners-the-Paris-Region-Challenge-AI-for-Industry-2020-1029830084",
-      "publishedDateTime": "2020-11-23T05:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-gatik-and-loblaw-partner-to-bring-first-ever-driverless-deliveries-to-canada.md",
-      "title": "Gatik And Loblaw Partner To Bring First-Ever Driverless Deliveries To Canada",
-      "excerpt": "Canada is poised to see driverless commercial delivery of goods come to Toronto, thanks to startup Gatik bagging a $25M infusion of capital plus a partnership with Canada’s largest retailer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/richardbishop1/2020/11/23/gatik-and-loblaw-partner-to-bring-first-ever-driverless-deliveries-to-canada/",
-      "originalUrl": "https://www.forbes.com/sites/richardbishop1/2020/11/23/gatik-and-loblaw-partner-to-bring-first-ever-driverless-deliveries-to-canada/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fbab97107d4f398e3ecce1d%2F0x0.jpg%3FcropX1%3D109%26cropX2%3D1886%26cropY1%3D0%26cropY2%3D1332",
-          "width": 1199,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/richardbishop1/2020/11/23/gatik-and-loblaw-partner-to-bring-first-ever-driverless-deliveries-to-canada/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richardbishop1/2020/11/23/gatik-and-loblaw-partner-to-bring-first-ever-driverless-deliveries-to-canada/amp/",
-      "publishedDateTime": "2020-11-23T05:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-ibm-takes-the-next-step-with-cloud-pak-for-data.md",
-      "title": "IBM takes the next step with Cloud Pak for Data",
-      "excerpt": "IBM is in the midst of rolling out Cloud Pak for Data as a managed service on the IBM Cloud. It finally makes this end-to-end environment into the self-service offering that it was designed to be.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ibm-takes-the-next-step-with-cloud-pak-for-data/",
-      "originalUrl": "https://www.zdnet.com/article/ibm-takes-the-next-step-with-cloud-pak-for-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/11/21/7fd6f1d6-f2f9-4102-9b3d-5c4225480509/ibm-cloud-pak.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-takes-the-next-step-with-cloud-pak-for-data/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-takes-the-next-step-with-cloud-pak-for-data/",
-      "publishedDateTime": "2020-11-23T05:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

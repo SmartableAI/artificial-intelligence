@@ -1,45 +1,26 @@
 ---
 category: news
 title: "INFINIQ steigt durch Gründung einer europäischen Vertriebszentrale und Teilnahme an der CES 2021 in den weltweiten Markt ein"
-excerpt: "INFINIQ is establishing European sales headquarters to expand the scope of its business beyond Korea to the global autonomous driving data market. INFINIQ is a Korean company that provides artificial intelligence data sets,"
-publishedDateTime: 2021-01-11T09:23:00Z
-originalUrl: "https://apnews.com/article/d5bf98cf10cc485e8fefe6709e72c32e"
-webUrl: "https://apnews.com/article/d5bf98cf10cc485e8fefe6709e72c32e"
+excerpt: "This platform provides automatic object recognition algorithms and annotation tools that can be effectively utilized by companies that need to build a dataset for autonomous driving. (Graphic ..."
+publishedDateTime: 2021-01-11T09:59:00Z
+originalUrl: "https://www.thedailytimes.com/business/infiniq-steigt-durch-gr-ndung-einer-europ-ischen-vertriebszentrale-und-teilnahme-an-der-ces-2021/article_d7391a6f-ad00-573a-96d3-c092493e999d.html"
+webUrl: "https://www.thedailytimes.com/business/infiniq-steigt-durch-gr-ndung-einer-europ-ischen-vertriebszentrale-und-teilnahme-an-der-ces-2021/article_d7391a6f-ad00-573a-96d3-c092493e999d.html"
 type: article
-quality: 0
-heat: -1
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: thedailytimes.com
+  domain: thedailytimes.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/assets/v3/editorial/3/44/3449c40e-c55b-5e89-af3b-12e8ac2d605d/5ffc1e66a9ac6.image.jpg?crop=1200%2C675%2C0%2C0&resize=1120%2C630&order=crop%2Cresize"
+    width: 1120
+    height: 630
     isCached: true
 
-related:
-  - title: "INFINIQ to Enter Global Market by Establishing European Sales Headquarters and Participating in CES 2021"
-    excerpt: "INFINIQ is establishing European sales headquarters to expand the scope of its business beyond Korea to the global autonomous driving data market. INFINIQ is a Korean company that provides artificial intelligence data sets,"
-    publishedDateTime: 2021-01-11T09:23:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/business-technology-driverless-cars-products-and-services-asia-66117911a7184923a25326255246d862"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 26
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-
-secured: "yDYKRse4PWXSBZbQ3FK5zVunOZH++54qODoPXPlSkp9QovR9k+IySLMiIpycAw0QJteKMABT0Q+bP2EW11/psRzZxokR92IfV6k76CC4F1NvBiZezdE0aXM75xJiBQGjdnKR4AGaxGAD9yh6Xpj5z8h7fCSzKI2h+SPBx4ZoPJOMC2zG+Ku5pgJ60IjR53UZEstnghP8T0waXP6c1BdLvSFc5EdIt33v0DvTQUYsUGsfiU5MLA3nPRhUdk4OERoJPJsPI9FWqfTRQY/BLxUJGBatxfFO/j9UfCBJ29nzann80FU4Pe1Z2keeBBuVoq14teABAyfw3qlNV0qeyhrpofwR41XiEm1cLP6YE8gyoRo=;O79YvPbSrWlb/aKckTlvuA=="
+secured: "NTbk8TYn5PWA+bKlh39SJOprLPndPwB0zm0oi/A+Aqv+KsuJ1+D/ew0D4RWGzCOidHsZwkZXBzFLKU71BwM5nzpnrOwT5nxgqwt0VFkenQqo/MHhaRAZiYJoEt6hZsibpSAbxHBZi3IqxOn+FjDs0+qvAzcyaILaZM9Q2j+SAFVRhNEHO1tI0oQq0FBrrkPwxhx7M+lnZPlmKIkj10VCiN306EKGbmLkNPio64tsXc/uKNkb74tMv7CBDwZgd7FnngSbaGXLQHHn267C7U9eiwcrtFxoHCL1f5aS9JFNF3hd7U6dbKuW9Ux0/FYOrjm8Gv9iNhDhXNZByl6KZ3ycGDIfc673tz1pQ/dSREJaQ2M=;db1YmRJKLBKZPWTkP7PQKA=="
 ---
 

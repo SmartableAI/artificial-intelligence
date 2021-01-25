@@ -9,8 +9,8 @@ ampWebUrl: "https://qz.com/1956974/where-the-word-robot-comes-from/amp/"
 cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1956974/where-the-word-robot-comes-from/amp/"
 type: article
 quality: 87
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: Quartz
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "100 Years Later, The Future Of Robots Still Lies In Science Fiction"
+    excerpt: "Every year there is some version of this remembrance on the internet, dated January 25th and full of science fiction references and doom-saying. This is the 2021 version. Today marks the 100th anniversary of the first use of the term \"robot\" to describe a non-human,"
+    publishedDateTime: 2021-01-25T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/curtissilver/2021/01/25/100-years-later-the-future-of-robots-still-lies-in-science-fiction/"
+    ampWebUrl: "https://www.forbes.com/sites/curtissilver/2021/01/25/100-years-later-the-future-of-robots-still-lies-in-science-fiction/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/curtissilver/2021/01/25/100-years-later-the-future-of-robots-still-lies-in-science-fiction/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600da4573c6f05ba1eaa23c9%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "100 years later, the dystopian origin of the word ‘robot’ still rings true – Jaweb"
     excerpt: "By the time his play “RUR” (which stands for “Rossum’s Universal Robots”) premiered in Prague in 1921, Karel Čapek was a well-known Czech intellectual. Like many of his peers, he was appalled by the carnage wrought by the mechanical and chemical weapons that marked World War I as a departure from previous combat."
     publishedDateTime: 2021-01-23T09:19:00Z

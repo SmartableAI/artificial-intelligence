@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-m
 webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-medical-research-artificial-intelligence-communication-technology-integrated-circuits-840d518726887292c8cb151d76072b60"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       - url: "https://lh3.googleusercontent.com/1YtEKuSUxY1qBWaY9BcRMo0kAZsEstuV54ChHg8orspy0dBbN7B7eSFrgvBWoeFiV1wxPXJPcX7SyEW80CBMFErnuDspmB6JJ6FqTQ=w816-h428"
         width: 761
         height: 428
+        isCached: true
+  - title: "Global Medical Alert System Markets, 2020-2025: Revolution Brought by Emerging Technologies - IoT & AI - ResearchAndMarkets.com"
+    excerpt: "The “Global Medical Alert System Market (2020-2025) by System Type, Connection Type, End-user, Offering, Technology, Geography, Competitive Analysis and the Impact of Covid-19 with Ansoff Analysis” report has been added to ResearchAndMarkets."
+    publishedDateTime: 2021-01-25T11:49:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-technology-health-care-policy-health-care-reform-artificial-intelligence-b15efc25b16c44b6a9abae41604c495d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 9
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "135eQVVbJ33lMsHTBcl8str7kI6SteoOqOi/APVy/rlx6rPTOyLkrYBXd8XzzgP+8d4zYtMMnDLbZnwrhjYFZO2Gk67ooRk8nBWg6cSxBkh/vP9FoobZe9wLkXDdLvjxQltIu5wnDQ6dfe+8I5Fgwn5Mg/5zHWi/r00TsHWDuGDb5U/fQ5jsrjGWJKikMkDqGoskIxHshfrGbEmLbnTmQWLQkn7XVbBqo+jXq+SCxX2ahXs3QBfYJtmUsN0dFe4MCIl24MvNv/zeu0mXZ9XBH4RPWvT5y0QEsy1n0y35hEBnF2wdekoELYOLw3J7kGgdVsA33xokH/aUM0fYzmcHjXdtebSHpBSX75ylR/LDq3o=;bBEC73qmaLHqFbetvhYt3g=="

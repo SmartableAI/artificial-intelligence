@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/5g-fintech-and-mega-project
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/5g-fintech-and-mega-projects-what-2021-will-mean-for-tech-in-the-middle-east/"
 type: article
 quality: 70
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "US Fintech Startup, Flaist is Selected for the Prestigious International Accelerator Program, Techstars Hub71 Abu Dhabi"
+    excerpt: "The fintech startup, Flaist, has announced it's been selected for the prestigious 2021 class of Techstars Hub71 Accelerator Program in Abu Dhabi. Techstars is a global platform for investment and innovation that helps entrepreneurs scale"
+    publishedDateTime: 2021-01-25T12:24:00Z
+    webUrl: "https://www.lelezard.com/en/news-19613712.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 15
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
   - title: "WEVO Selected for MassChallenge FinTech 2021 Program"
     excerpt: "BOSTON, MA / ACCESSWIRE / January / WEVO, a customer experience platform that provides the fastest, most accurate insight to optimize digital experiences, was selected to participate in the 2021 MassChallenge FinTech program."
