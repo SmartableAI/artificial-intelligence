@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-26-computer-vision-researchers-develop-city-scale-smart-tracking-platform.md",
+      "title": "Computer vision researchers develop city-scale smart tracking platform",
+      "excerpt": "Tracking a vehicle or person moving between multiple city-scale locations will become considerably easier thanks to AI camera innovations.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/25/computer-vision-researchers-develop-city-scale-smart-tracking-platform/",
+      "originalUrl": "https://venturebeat.com/2021/01/25/computer-vision-researchers-develop-city-scale-smart-tracking-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/anveshak.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/25/computer-vision-researchers-develop-city-scale-smart-tracking-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/25/computer-vision-researchers-develop-city-scale-smart-tracking-platform/amp/",
+      "publishedDateTime": "2021-01-25T11:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-25-building-your-own-brand-detection-and-visibility-using-amazon-sagemaker-ground-truth-and-amazon-rekognition-custom-labels-part-1-end-to-end.md",
       "title": "Building your own brand detection and visibility using Amazon SageMaker Ground Truth and Amazon Rekognition Custom Labels – Part 1: End-to-end solution",
       "excerpt": "According to Gartner, 58% of marketing leaders believe brand is a critical driver of buyer behavior for prospects, and 65% believe it’s a critical driver of buyer behavior for existing customers. Companies spend huge amounts of money on advertisement to raise brand visibility and awareness. In fact,",
@@ -784,19 +836,19 @@
     {
       "path": "_news/2021-01-19-delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official.md",
       "title": "Delhi airport evaluating 'computer vision' tech to track flyers, ensure social distancing: Official",
-      "excerpt": "Delhi airport is evaluating a 'computer vision' technology to track passengers, reduce waiting time and ensure social distancing at its terminals, a t",
+      "excerpt": "Delhi airport, which is also led by a GMR group-headed consortium, installed the 'Xovis' passenger tracking system at Terminal 3 last month",
       "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/city/delhi/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official/articleshow/80347698.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/city/delhi/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official/articleshow/80347698.cms",
+      "webUrl": "https://www.livemint.com/companies/news/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official-11611054333198.html",
+      "originalUrl": "https://www.livemint.com/companies/news/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official-11611054333198.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://static.toiimg.com/photo/msid-80144619,width-242,height-136/80144619.jpg",
-          "width": 620,
-          "height": 413,
+          "url": "https://images.livemint.com/img/2021/01/19/600x338/PTI23-12-2020_000268B_1611054870782_1611054896014.jpg",
+          "width": 600,
+          "height": 338,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -804,13 +856,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/city/delhi/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official/amp_articleshow/80347698.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/delhi/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official/amp_articleshow/80347698.cms",
-      "publishedDateTime": "2021-01-19T03:57:00-08:00",
+      "ampWebUrl": "https://www.livemint.com/companies/news/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official/amp-11611054333198.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official/amp-11611054333198.html",
+      "publishedDateTime": "2021-01-19T03:31:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
+        "name": "Mint",
+        "domain": "livemint.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1404,58 +1456,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-job-screening-service-halts-facial-analysis-of-applicants.md",
-      "title": "Job Screening Service Halts Facial Analysis of Applicants",
-      "excerpt": "HireVue, a leading provider of software for vetting job candidates based on an algorithmic assessment, said Tuesday it is killing off a controversial feature of its software: analyzing a person’s facial expressions in a video to discern certain characteristics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/job-screening-service-halts-facial-analysis-applicants/",
-      "originalUrl": "https://www.wired.com/story/job-screening-service-halts-facial-analysis-applicants/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ffcea25072d3ec215c55753/master/pass/hirevue-1210924894.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/job-screening-service-halts-facial-analysis-applicants/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/job-screening-service-halts-facial-analysis-applicants/amp",
-      "publishedDateTime": "2021-01-12T14:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

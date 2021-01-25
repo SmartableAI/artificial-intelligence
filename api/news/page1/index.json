@@ -2,6 +2,198 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-26-natural-language-processing-market-is-booming-worldwide-with-ibm-microsoft-google-amazon-web-services.md",
+      "title": "Natural Language Processing Market is Booming Worldwide with IBM, Microsoft, Google, Amazon Web Services",
+      "excerpt": "A new business intelligence report released by Advance Market Analytics with title Global Natural Language Processing Market Insights Forecast to 2025 This report provides a detailed overview of key factors in the Global Natural Language Processing Market and factors such",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2231045/natural-language-processing-market-is-booming-worldwide-with",
+      "originalUrl": "https://www.openpr.com/news/2231045/natural-language-processing-market-is-booming-worldwide-with",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/1/U125333671_g.jpg",
+          "width": 800,
+          "height": 425,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2231045/natural-language-processing-market-is-booming-worldwide-with",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2231045/natural-language-processing-market-is-booming-worldwide-with",
+      "publishedDateTime": "2021-01-25T12:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-nvidia-views-kubernetes-as-key-to-gpu-accelerated-ai-scale.md",
+      "title": "Nvidia Views Kubernetes as Key to GPU Accelerated AI Scale",
+      "excerpt": "When you think about Kubernetes, clusters of CPU and memory resources all scaling to meet the demands of container workloads probably springs to mind. But where does GPU acceleration fit […]",
+      "sourceUrl": null,
+      "webUrl": "https://ctovision.com/nvidia-views-kubernetes-as-key-to-gpu-accelerated-ai-scale/",
+      "originalUrl": "https://ctovision.com/nvidia-views-kubernetes-as-key-to-gpu-accelerated-ai-scale/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ctovision.com/wp-content/uploads/space.jpg",
+          "width": 632,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-25T12:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ctovision.com",
+        "domain": "ctovision.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-gartner-the-future-of-ai-is-not-as-rosy-as-some-might-think.md",
+      "title": "Gartner: The future of AI is not as rosy as some might think",
+      "excerpt": "A Gartner report predicts that the second-order consequences of widespread AI will have massive societal impacts, to the point of making us unsure if and when we can trust our own eyes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/gartner-the-future-of-ai-is-not-as-rosy-as-some-might-think/",
+      "originalUrl": "https://www.techrepublic.com/article/gartner-the-future-of-ai-is-not-as-rosy-as-some-might-think/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2019/08/15/0bc8e7f5-39d1-49a8-be07-f3db2e40f43b/resize/1200x/68fd21b9b4138bea071e9d1c1e4253f2/istock-1135819437.jpg",
+          "width": 1200,
+          "height": 729,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/gartner-the-future-of-ai-is-not-as-rosy-as-some-might-think/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/gartner-the-future-of-ai-is-not-as-rosy-as-some-might-think/",
+      "publishedDateTime": "2021-01-25T12:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-computer-vision-researchers-develop-city-scale-smart-tracking-platform.md",
+      "title": "Computer vision researchers develop city-scale smart tracking platform",
+      "excerpt": "Tracking a vehicle or person moving between multiple city-scale locations will become considerably easier thanks to AI camera innovations.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/25/computer-vision-researchers-develop-city-scale-smart-tracking-platform/",
+      "originalUrl": "https://venturebeat.com/2021/01/25/computer-vision-researchers-develop-city-scale-smart-tracking-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/anveshak.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/25/computer-vision-researchers-develop-city-scale-smart-tracking-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/25/computer-vision-researchers-develop-city-scale-smart-tracking-platform/amp/",
+      "publishedDateTime": "2021-01-25T11:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-25-building-your-own-brand-detection-and-visibility-using-amazon-sagemaker-ground-truth-and-amazon-rekognition-custom-labels-part-1-end-to-end.md",
       "title": "Building your own brand detection and visibility using Amazon SageMaker Ground Truth and Amazon Rekognition Custom Labels – Part 1: End-to-end solution",
       "excerpt": "According to Gartner, 58% of marketing leaders believe brand is a critical driver of buyer behavior for prospects, and 65% believe it’s a critical driver of buyer behavior for existing customers. Companies spend huge amounts of money on advertisement to raise brand visibility and awareness. In fact,",
@@ -63,7 +255,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/model-serving-made-easier-with-deep-java-library-and-aws-lambda/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -166,7 +358,7 @@
       "originalUrl": "https://thenextweb.com/neural/2021/01/25/report-brexit-could-help-china-and-the-us-in-the-global-ai-race/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -205,7 +397,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -369,8 +562,8 @@
       "title": "Python remains most popular programming language to learn",
       "excerpt": "Though Python may be tops, interest is also growing in other languages, including JavaScript, C, and C++, says O'Reilly.",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/python-remains-most-popular-programming-language-to-learn/",
-      "originalUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/python-remains-most-popular-programming-language-to-learn/",
+      "webUrl": "https://www.techrepublic.com/index.php/article/python-remains-most-popular-programming-language-to-learn/",
+      "originalUrl": "https://www.techrepublic.com/index.php/article/python-remains-most-popular-programming-language-to-learn/",
       "featuredContent": null,
       "highlight": null,
       "heat": 99,
@@ -387,8 +580,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/python-remains-most-popular-programming-language-to-learn/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/python-remains-most-popular-programming-language-to-learn/",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/google-amp/article/python-remains-most-popular-programming-language-to-learn/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/python-remains-most-popular-programming-language-to-learn/",
       "publishedDateTime": "2021-01-25T07:56:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -412,7 +605,7 @@
         "news"
       ],
       "topics": [
-        "Google AI",
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -579,7 +772,7 @@
       "originalUrl": "https://electrek.co/2021/01/25/tesla-partners-samsung-new-5nm-chip-full-self-driving-report/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -632,7 +825,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/ehave-inc-utilizes-artificial-intelligence-and-machine-learning-for-big-data-management-in-mental-healthcare-1029999161",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 121,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1052,195 +1245,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-elon-musk-responds-to-waymo-ceo-tesla-has-better-ai-hardware-software-than-waymo.md",
-      "title": "Elon Musk Responds To Waymo CEO: “Tesla Has Better AI Hardware & Software Than Waymo”",
-      "excerpt": "In an interview with German business publication Manager Magazin, Waymo CEO John Krafcik said Tesla is not a competitor to Waymo.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johanmoreno/2021/01/25/elon-musk-responds-to-waymo-ceo-tesla-has-better-ai-hardware--software-than-waymo/",
-      "originalUrl": "https://www.forbes.com/sites/johanmoreno/2021/01/25/elon-musk-responds-to-waymo-ceo-tesla-has-better-ai-hardware--software-than-waymo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600e6ec4610dbde7ff2d2458%2F0x0.jpg",
-          "width": 1200,
-          "height": 835,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2021/01/25/elon-musk-responds-to-waymo-ceo-tesla-has-better-ai-hardware--software-than-waymo/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2021/01/25/elon-musk-responds-to-waymo-ceo-tesla-has-better-ai-hardware--software-than-waymo/amp/",
-      "publishedDateTime": "2021-01-24T23:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-hearing-aids-now-come-with-artificial-intelligence-what-does-that-mean.md",
-      "title": "Hearing aids now come with artificial intelligence. What does that mean?",
-      "excerpt": "Premium hearing aids may use artificial intelligence like machine learning and deep neural networks to help process sound. Learn why this is a significant improvement for people with hearing loss.",
-      "sourceUrl": null,
-      "webUrl": "https://www.healthyhearing.com/report/53168-Hearing-aids-artificial-intelligence-deep-learning-oticon",
-      "originalUrl": "https://www.healthyhearing.com/report/53168-Hearing-aids-artificial-intelligence-deep-learning-oticon",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.healthyhearing.com/uploads/images/ai-hearing-aids-hh19-fb.png",
-          "width": 800,
-          "height": 418,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-24T22:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Unitron Hearing Aids",
-        "domain": "healthyhearing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-fake-news-is-rampant-here-is-how-artificial-intelligence-can-help.md",
-      "title": "Fake News Is Rampant, Here Is How Artificial Intelligence Can Help",
-      "excerpt": "As with so many of our modern problems, artificial intelligence is now on the job helping to fight false news. Logically is one company that uses artificial intelligence to provide fact-checking services for consumers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2021/01/25/fake-news-is-rampant-here-is-how-artificial-intelligence-can-help/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/01/25/fake-news-is-rampant-here-is-how-artificial-intelligence-can-help/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600e55afcd20ae16e22d2456%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2021/01/25/fake-news-is-rampant-here-is-how-artificial-intelligence-can-help/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/01/25/fake-news-is-rampant-here-is-how-artificial-intelligence-can-help/amp/",
-      "publishedDateTime": "2021-01-24T21:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-24-hidden-in-plain-sight-the-infrastructures-that-support-artificial-intelligence.md",
-      "title": "Hidden in plain sight: The infrastructures that support artificial intelligence",
-      "excerpt": "Artificial intelligence is supported by an infrastructure of hardware and software that is growing increasingly present in our lives, yet remains hidden in plain view.",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/hidden-in-plain-sight-the-infrastructures-that-support-artificial-intelligence-146087",
-      "originalUrl": "https://theconversation.com/hidden-in-plain-sight-the-infrastructures-that-support-artificial-intelligence-146087",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/360096/original/file-20200926-22-vahctv.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop",
-          "width": 320,
-          "height": 213,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/hidden-in-plain-sight-the-infrastructures-that-support-artificial-intelligence-146087",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/hidden-in-plain-sight-the-infrastructures-that-support-artificial-intelligence-146087",
-      "publishedDateTime": "2021-01-24T06:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

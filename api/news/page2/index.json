@@ -2,6 +2,195 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-25-elon-musk-responds-to-waymo-ceo-tesla-has-better-ai-hardware-software-than-waymo.md",
+      "title": "Elon Musk Responds To Waymo CEO: “Tesla Has Better AI Hardware & Software Than Waymo”",
+      "excerpt": "In an interview with German business publication Manager Magazin, Waymo CEO John Krafcik said Tesla is not a competitor to Waymo.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johanmoreno/2021/01/25/elon-musk-responds-to-waymo-ceo-tesla-has-better-ai-hardware--software-than-waymo/",
+      "originalUrl": "https://www.forbes.com/sites/johanmoreno/2021/01/25/elon-musk-responds-to-waymo-ceo-tesla-has-better-ai-hardware--software-than-waymo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600e6ec4610dbde7ff2d2458%2F0x0.jpg",
+          "width": 1200,
+          "height": 835,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2021/01/25/elon-musk-responds-to-waymo-ceo-tesla-has-better-ai-hardware--software-than-waymo/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2021/01/25/elon-musk-responds-to-waymo-ceo-tesla-has-better-ai-hardware--software-than-waymo/amp/",
+      "publishedDateTime": "2021-01-24T23:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-01-25-hearing-aids-now-come-with-artificial-intelligence-what-does-that-mean.md",
+      "title": "Hearing aids now come with artificial intelligence. What does that mean?",
+      "excerpt": "Premium hearing aids may use artificial intelligence like machine learning and deep neural networks to help process sound. Learn why this is a significant improvement for people with hearing loss.",
+      "sourceUrl": null,
+      "webUrl": "https://www.healthyhearing.com/report/53168-Hearing-aids-artificial-intelligence-deep-learning-oticon",
+      "originalUrl": "https://www.healthyhearing.com/report/53168-Hearing-aids-artificial-intelligence-deep-learning-oticon",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.healthyhearing.com/uploads/images/ai-hearing-aids-hh19-fb.png",
+          "width": 800,
+          "height": 418,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-24T22:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Unitron Hearing Aids",
+        "domain": "healthyhearing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-01-25-fake-news-is-rampant-here-is-how-artificial-intelligence-can-help.md",
+      "title": "Fake News Is Rampant, Here Is How Artificial Intelligence Can Help",
+      "excerpt": "As with so many of our modern problems, artificial intelligence is now on the job helping to fight false news. Logically is one company that uses artificial intelligence to provide fact-checking services for consumers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2021/01/25/fake-news-is-rampant-here-is-how-artificial-intelligence-can-help/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/01/25/fake-news-is-rampant-here-is-how-artificial-intelligence-can-help/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600e55afcd20ae16e22d2456%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2021/01/25/fake-news-is-rampant-here-is-how-artificial-intelligence-can-help/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/01/25/fake-news-is-rampant-here-is-how-artificial-intelligence-can-help/amp/",
+      "publishedDateTime": "2021-01-24T21:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-24-hidden-in-plain-sight-the-infrastructures-that-support-artificial-intelligence.md",
+      "title": "Hidden in plain sight: The infrastructures that support artificial intelligence",
+      "excerpt": "Artificial intelligence is supported by an infrastructure of hardware and software that is growing increasingly present in our lives, yet remains hidden in plain view.",
+      "sourceUrl": null,
+      "webUrl": "https://theconversation.com/hidden-in-plain-sight-the-infrastructures-that-support-artificial-intelligence-146087",
+      "originalUrl": "https://theconversation.com/hidden-in-plain-sight-the-infrastructures-that-support-artificial-intelligence-146087",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.theconversation.com/files/360096/original/file-20200926-22-vahctv.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop",
+          "width": 320,
+          "height": 213,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theconversation.com/amp/hidden-in-plain-sight-the-infrastructures-that-support-artificial-intelligence-146087",
+      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/hidden-in-plain-sight-the-infrastructures-that-support-artificial-intelligence-146087",
+      "publishedDateTime": "2021-01-24T06:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Conversation",
+        "domain": "theconversation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-24-amazon-plans-to-overhaul-film-age-classification-with-new-ai-system.md",
       "title": "Amazon plans to overhaul film age classification with new AI system",
       "excerpt": "Amazon is exploring developing an artificial intelligence (AI) system that automatically assigns age ratings to films and television shows, eliminating the need for human checks. A patent application filed by the US e-commerce business this month shows that Amazon has invented a way to scan films using a form of AI that could explain to people about to stream a film how much sexual content,",
@@ -106,7 +295,7 @@
       "originalUrl": "https://www.engadget.com/hitting-the-books-new-laws-of-robotics-frank-pasquale-harvard-university-press-163059703.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -158,7 +347,7 @@
       "originalUrl": "https://www.techradar.com/news/ai-is-on-the-verge-of-mastering-the-creative-arts",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 122,
       "tags": null,
       "images": [
         {
@@ -253,7 +442,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-marketing-market-size-share-analysis-report-forecast-to-2025-2021-01-23",
       "featuredContent": null,
       "highlight": null,
-      "heat": 306,
+      "heat": 286,
       "tags": null,
       "images": [
         {
@@ -305,7 +494,7 @@
       "originalUrl": "https://www.neowin.net/news/yellow-messenger-integrates-microsoft-azure-cognitive-services-on-its-platform",
       "featuredContent": null,
       "highlight": null,
-      "heat": 295,
+      "heat": 305,
       "tags": null,
       "images": [
         {
@@ -1009,204 +1198,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-computer-vision-market-2020-to-2025rising-demand-share-trends-growth-opportunities.md",
-      "title": "Computer Vision Market 2020 to 2025|Rising Demand, Share, Trends, Growth, Opportunities",
-      "excerpt": "The Final Report will cover the impact analysis of COVID-19 on this industry: Computer Vision can be best defined as a branch of computer science which deals with improving the digitization and processing of computer aided tasks for better understanding.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-2020-to-2025rising-demand-share-trends-growth-opportunities-2021-01-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-2020-to-2025rising-demand-share-trends-growth-opportunities-2021-01-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-21T23:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-ai-systems-to-get-an-ethics-code-dod.md",
-      "title": "AI Systems to get an Ethics Code: DoD",
-      "excerpt": "Ethical considerations will go into Artificial Intelligence (AI)’s design and employment because it enables autonomy, decision making and system execution at incredibly fast speeds, a DoD official said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.defenseworld.net/news/28810/AI_Systems_to_get_an_Ethics_Code__DoD",
-      "originalUrl": "https://www.defenseworld.net/news/28810/AI_Systems_to_get_an_Ethics_Code__DoD",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.defenseworld.net/uploads//news/big/autonomou_1608524511.jpg",
-          "width": 640,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-21T21:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Defense World",
-        "domain": "defenseworld.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-this-start-up-founder-sees-a-data-privacy-reckoning-on-the-horizon.md",
-      "title": "This Start-Up Founder Sees A Data Privacy Reckoning On The Horizon",
-      "excerpt": "Patricia Thaine is a young start-up founder of Private AI, creating a suite of privacy tools. She discusses the state of privacy, how we got here, whether privacy as a default becomes the norm and how Private AI will enable this new normal.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/hessiejones/2021/01/21/this-start-up-founder-sees-a-data-privacy-reckoning-on-the-horizon/",
-      "originalUrl": "https://www.forbes.com/sites/hessiejones/2021/01/21/this-start-up-founder-sees-a-data-privacy-reckoning-on-the-horizon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600a3e8f7f4f95414914aafb%2F0x0.jpg",
-          "width": 1200,
-          "height": 908,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/hessiejones/2021/01/21/this-start-up-founder-sees-a-data-privacy-reckoning-on-the-horizon/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hessiejones/2021/01/21/this-start-up-founder-sees-a-data-privacy-reckoning-on-the-horizon/amp/",
-      "publishedDateTime": "2021-01-21T19:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-5g-fintech-and-mega-projects-what-2021-will-mean-for-tech-in-the-middle-east.md",
-      "title": "5G, fintech and mega-projects: What 2021 will mean for tech in the Middle East",
-      "excerpt": "The MENA region is in the middle of a digital transformation, which 2020 and COVID-19 has only accelerated. I asked five experts to share the tech trends they see influencing the Middle East and North Africa (MENA) this year,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/5g-fintech-and-mega-projects-what-2021-will-mean-for-tech-in-the-middle-east/",
-      "originalUrl": "https://www.zdnet.com/article/5g-fintech-and-mega-projects-what-2021-will-mean-for-tech-in-the-middle-east/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/01/14/fe0581d7-3dc7-4fa7-a1c5-25388306266b/thumbnail/1200x675/990265b0101deff5bded0bc31bc9276b/us-troops-deploying-to-the-middle-east-t-5e1db2285413ee0001a552fc-1-jan-14-2020-13-17-19-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/5g-fintech-and-mega-projects-what-2021-will-mean-for-tech-in-the-middle-east/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/5g-fintech-and-mega-projects-what-2021-will-mean-for-tech-in-the-middle-east/",
-      "publishedDateTime": "2021-01-21T19:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

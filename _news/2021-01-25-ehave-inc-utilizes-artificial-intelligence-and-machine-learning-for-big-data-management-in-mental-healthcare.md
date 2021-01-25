@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/Ehave-Inc-Utilizes-Arti
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Ehave-Inc-Utilizes-Artificial-Intelligence-and-Machine-Learning-for-Big-Data-Management-in-Mental-Healthcare-1029999161"
 type: article
 quality: 81
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -37,6 +37,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 81
+  - title: "AI and the Virtuous Cycle of Unprecedented Data Management"
+    excerpt: "This is the first article in a four-part series that examines how new AI architectures are leading to a renaissance in computer architecture, and why there’s a renewed focus on memory systems."
+    publishedDateTime: 2021-01-25T20:10:00Z
+    webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21153217/rambus-ai-and-the-virtuous-cycle-of-unprecedented-data-management"
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 39
+    images:
+      - url: "https://base.imgix.net/files/base/ebm/electronicdesign/image/2021/01/DataCenter_AI_promo.600f1f0648349.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "New Deep Learning Discovery Paves Way for AI Interpretation of Brainwave Data"
     excerpt: "A new paper published in the Journal of Neural Engineering shows the successful first application of self-supervised learning, a very promising recent approach to train deep neural networks, to directly learn what EEG looks like,"
     publishedDateTime: 2021-01-21T10:00:00Z

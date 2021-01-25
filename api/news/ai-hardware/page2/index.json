@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-13-the-weather-company-raises-gpu-storage-forecasts.md",
+      "title": "The Weather Company Raises GPU, Storage Forecasts",
+      "excerpt": "For those who follow supercomputing, weather forecasting is one area to watch for systems that are designed for maximum capability. Unlike the many other",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2021/01/12/the-weather-company-raises-gpu-storage-forecasts/",
+      "originalUrl": "https://www.nextplatform.com/2021/01/12/the-weather-company-raises-gpu-storage-forecasts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/29ibm-web-superJumbo.jpg",
+          "width": 2048,
+          "height": 1365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2021/01/12/the-weather-company-raises-gpu-storage-forecasts/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/01/12/the-weather-company-raises-gpu-storage-forecasts/amp/",
+      "publishedDateTime": "2021-01-12T12:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu.md",
+      "title": "CES 2021: Asus Republic of Gamers unveils Flow X13 convertible gaming laptop with external GPU",
+      "excerpt": "The new 13-inch gaming PC converts between a laptop and tablet via a 360-degree hinge and gets a performance boost from an external GPU.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu/",
+      "originalUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2021/01/12/b217b9e2-8472-4358-9fd7-36b134d84990/resize/1200x/97ea6a08734939b0c166dc9b21c9cf79/flow-x13-and-xg-mobile.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu/",
+      "publishedDateTime": "2021-01-12T10:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-13-nvidia-introduces-geforce-rtx-3060-next-generation-of-the-worlds-most-popular-gpu.md",
       "title": "NVIDIA Introduces GeForce RTX 3060, Next Generation of the World’s Most Popular GPU",
       "excerpt": "NVIDIA today announced that it is bringing the NVIDIA Ampere architecture to millions more PC gamers with the new GeForce® RTX™ 3060 GPU. With its efficient, high-performance architecture and the second generation of NVIDIA RTX™,",
@@ -1323,101 +1418,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-shenzhen-to-focus-on-chips-ai-and-biomedicine-to-grow-gdp-40-per-cent-over-five-years-in-the-face-of-us-hostility-and-economic-slowdown.md",
-      "title": "Shenzhen to focus on chips, AI and biomedicine to grow GDP 40 per cent over five years in the face of US hostility and economic slowdown",
-      "excerpt": "China’s southern tech hub of Shenzhen aims for 40 per cent growth over five years, with the goal of becoming an international hub of innovation, despite challenges from the US for local tech giants.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/policy/article/3115999/shenzhen-focus-chips-ai-and-biomedicine-grow-gdp-40-cent-over-five",
-      "originalUrl": "https://www.scmp.com/tech/policy/article/3115999/shenzhen-focus-chips-ai-and-biomedicine-grow-gdp-40-cent-over-five",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/12/31/ce039f8a-4b44-11eb-9c55-93e83087d811_image_hires_182210.jpg?itok=5b-jJpU-&v=1609410137",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/policy/article/3115999/shenzhen-focus-chips-ai-and-biomedicine-grow-gdp-40-cent-over-five",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/policy/article/3115999/shenzhen-focus-chips-ai-and-biomedicine-grow-gdp-40-cent-over-five",
-      "publishedDateTime": "2020-12-31T03:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-30-analysts-see-more-gains-for-chip-stocks-here-are-their-top-picks.md",
-      "title": "Analysts See More Gains for Chip Stocks. Here Are Their Top Picks.",
-      "excerpt": "Chip stocks have had a strong year despite the Covid-19 pandemic. Analysts at Mizuho Securities think there are more gains to come, powered by growth in next generation smartphone technology, a return to strength among auto makers,",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/here-are-the-top-semi-stocks-for-2021-according-to-one-analyst-51609200436",
-      "originalUrl": "https://www.barrons.com/articles/here-are-the-top-semi-stocks-for-2021-according-to-one-analyst-51609200436",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-278683/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/here-are-the-top-semi-stocks-for-2021-according-to-one-analyst-51609200436",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/here-are-the-top-semi-stocks-for-2021-according-to-one-analyst-51609200436",
-      "publishedDateTime": "2020-12-29T10:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

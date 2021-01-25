@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-09-viacomcbs-taps-aws-as-cloud-provider-for-broadcast-operations.md",
+      "title": "ViacomCBS Taps AWS as Cloud Provider for Broadcast Operations",
+      "excerpt": "Amazon Web Services and ViacomCBS have announced a strategic partnership that will see AWS become the cloud provider for ViacomCBS’ global broadcast media operations. This deal will see the migration of ViacomCBS’ 425 linear TV channels and 40 global data and media centers to the AWS cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tvtechnology.com/news/viacomcbs-taps-aws-as-cloud-provider-for-broadcast-operations",
+      "originalUrl": "https://www.tvtechnology.com/news/viacomcbs-taps-aws-as-cloud-provider-for-broadcast-operations",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/otUuP58TKN4bPkNUZ7urJ3-1200-80.jpg",
+          "width": 434,
+          "height": 244,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tvtechnology.com/amp/news/viacomcbs-taps-aws-as-cloud-provider-for-broadcast-operations",
+      "cdnAmpWebUrl": "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/viacomcbs-taps-aws-as-cloud-provider-for-broadcast-operations",
+      "publishedDateTime": "2020-12-08T08:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TV Technology",
+        "domain": "tvtechnology.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-08-amazon-amzn-aws-teams-up-with-mgm-bolsters-cloud-clientele.md",
       "title": "Amazon (AMZN) AWS Teams Up With MGM, Bolsters Cloud Clientele",
       "excerpt": "Amazon’s AMZN cloud computing arm — Amazon Web Services (“AWS”) — entered a multi-year agreement with Metro Goldwyn Mayer (“MGM”). As part of the latest collaboration, MGM is shifting library and critical SAP workloads to AWS to make advancements in its core media supply chain and enterprise-wide media distribution platform.",
@@ -1231,59 +1274,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal.md",
-      "title": "Intel's Habana starts to chip away at Nvidia in cloud with AWS deal",
-      "excerpt": "Intel Corp's Habana Labs business said on Wednesday it would take time to gain market share from Nvida in cloud and data centre computing but its deal this week with Amazon Web Services (AWS) was a solid first step.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/intel-habana-aws-idINL8N2II3SZ",
-      "originalUrl": "https://www.reuters.com/article/intel-habana-aws-idINL8N2II3SZ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543204037&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB115R",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN28C225",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28C225",
-      "publishedDateTime": "2020-12-02T11:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI",
         "AWS AI"
       ]

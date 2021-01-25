@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/01/25/tesla-partners-samsung-new-5nm-chip-f
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/01/25/tesla-partners-samsung-new-5nm-chip-full-self-driving-report/amp/"
 type: article
 quality: 102
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -30,6 +30,19 @@ images:
     width: 1200
     height: 628
     isCached: true
+
+related:
+  - title: "ATB Ventures focusing on digital identity, removing bias from artificial intelligence, creating key partnerships"
+    excerpt: "CALGARY, AB, Jan. 25, 2021 /CNW/ - ATB Ventures is helping Alberta foster innovation through advancements in digital identity and removing bias from artificial intelligence. ATB Financial's innovation lab is building, investing and partnering with ..."
+    publishedDateTime: 2021-01-25T19:05:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/n19306126/atb-ventures-focusing-on-digital-identity-removing-bias-from-artificial-intelligence-creating-key-"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19306126"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19306126"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 16
 
 secured: "5a63fQ6fbDxdgJscXzw5SZ45ZQVmPyKWucSC1uVjKN9OeTWQSXyYB4WXh/Y7QSuGgMy/sVrVUI+pI/3Jv2ghljEU7UYnPx0f9x1qO+mQnLuQqusy/FrXbSZ/9g4dDuVhSLD1nWUNAnqOe1bIJ0u82lLl8xR7o+B/IleLbBCYR4nO0b8T0s5yT/3VPI1GI7I6FaiNPpBUcOwrMAhrmeWV/6Ctkutm7xZwlxk0J7mJhWgw649JVfPmUwL7XGpHmC4xaqq1K0/2HFjbUfne9crIdFjR0lVdWFI1fSborX79AdZ5bYbI4k5CwsRVNn3HAy3FpGOhoj3Vfzxrm1IHRpCHSs9IV382/Hy1VyHgXun6xuy/eyA0omb92/fzeo9r+uU8NxArn+pyCt1GkvTqm1si8fpeXLakYjErcl9EyG9cGvhqdobhYdU/9ZVpVWgbWdpYdtsq2EwuPmQbt+1aoUYBKsLZB1XDrQYQ2DKGURc2pPz2pr/UGfUHDQ2POG9Hzzg9lbrfZkdDFU2/N70PNe7rfw==;aNvtIGoCb+W+51LadYPv2w=="
 ---

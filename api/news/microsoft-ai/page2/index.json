@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-07-microsoft-deberta-surpasses-human-performance-on-the-superglue-benchmark.md",
+      "title": "Microsoft DeBERTa surpasses human performance on the SuperGLUE benchmark",
+      "excerpt": "The Microsoft AI model DeBERTa—being integrated into the next version of Microsoft Turing—set a new state of the art in natural language understanding. Learn how it uses 3 novel techniques to surpass human performance on and top the SuperGLUE leaderboard.",
+      "sourceUrl": null,
+      "webUrl": "https://www.microsoft.com/en-us/research/blog/microsoft-deberta-surpasses-human-performance-on-the-superglue-benchmark/",
+      "originalUrl": "https://www.microsoft.com/en-us/research/blog/microsoft-deberta-surpasses-human-performance-on-the-superglue-benchmark/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.microsoft.com/en-us/research/uploads/prod/2021/01/1400x788_Deberta_nologo_still-scaled.jpg",
+          "width": 2560,
+          "height": 1441,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-06T16:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-brief-novartis-microsoft-announce-artificial-intelligence-collaboration.md",
       "title": "BRIEF-Novartis, Microsoft Announce Artificial Intelligence Collaboration",
       "excerpt": "JOINT RESEARCH ACTIVITIES WILL INCLUDE PERSONALIZED THERAPIES FOR MACULAR DEGENERATION, CELL & GENE THERAPY, DRUG DESIGN Source text for Eikon: Further company coverage: (Berlin Speed Desk ...",
@@ -1341,58 +1393,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-explore-the-verges-2020-science-time-capsule-stored-in-dna.md",
-      "title": "Explore the Verge’s 2020 science time capsule, stored in DNA",
-      "excerpt": "The post Explore the Verge’s 2020 science time capsule, stored in DNA appeared first on The AI Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/science/22188122/dna-data-storage-synthetic-time-capsule",
-      "originalUrl": "https://www.theverge.com/science/22188122/dna-data-storage-synthetic-time-capsule",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/i_2zr4RDKtQXHTzptmkHR5RQFzU=/0x0:1920x1080/1400x933/filters:focal(807x387:1113x693):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68560013/Container_2.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/science/22188122/dna-data-storage-synthetic-time-capsule",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/science/22188122/dna-data-storage-synthetic-time-capsule",
-      "publishedDateTime": "2020-12-21T09:38:21-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

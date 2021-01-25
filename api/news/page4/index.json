@@ -2,6 +2,196 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-21-google-and-its-ethics-ai-team-row-what-we-know-so-far.md",
+      "title": "Google and its ethics AI team row: What we know so far",
+      "excerpt": "Google has drawn major criticism on the move of sudden investigation of Mitchell and suspension of her system access.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/world-news/google-and-its-ethics-ai-team-row-what-we-know-so-far-101611227280286.html",
+      "originalUrl": "https://www.hindustantimes.com/world-news/google-and-its-ethics-ai-team-row-what-we-know-so-far-101611227280286.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/img/2021/01/21/550x309/AFP_8Z94GT_1611227607102_1611227625827.jpg",
+          "width": 549,
+          "height": 309,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/world-news/google-and-its-ethics-ai-team-row-what-we-know-so-far-101611227280286-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/world-news/google-and-its-ethics-ai-team-row-what-we-know-so-far-101611227280286-amp.html",
+      "publishedDateTime": "2021-01-21T03:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-conversational-artificial-intelligence-ai-market-expectations-and-growth-trends-highlighted-until-2024.md",
+      "title": "Conversational Artificial Intelligence (AI) Market Expectations and Growth Trends Highlighted Until 2024",
+      "excerpt": "Available Exclusive Sample Copy of this Report @  The global market for conversational artificial intelligence (AI) is estimated to grow at a significant rate during the forecast period from 2019 to 2024.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-ai-market-expectations-and-growth-trends-highlighted-until-2024-2021-01-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-ai-market-expectations-and-growth-trends-highlighted-until-2024-2021-01-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-21T03:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-artificial-intelligence-in-retail-market-to-witness-a-healthy-growth-by-2023.md",
+      "title": "Artificial Intelligence in Retail Market to Witness a Healthy Growth by 2023",
+      "excerpt": "Artificial Intelligence is expected to disrupt every business and enterprises across the world. One of the major factors",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-to-witness-a-healthy-growth-by-2023-2021-01-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-to-witness-a-healthy-growth-by-2023-2021-01-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-21T03:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-trump-pardons-former-google-self-driving-car-engineer-anthony-levandowski.md",
+      "title": "Trump pardons former Google self-driving car engineer Anthony Levandowski",
+      "excerpt": "Donald Trump has given a full pardon to Anthony Levandowski, a former Google engineer who stole trade secret on self-driving cars.Read MoreRead",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/trump-pardons-former-google-self-driving-car-engineer-anthony-levandowski-9713165",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/trump-pardons-former-google-self-driving-car-engineer-anthony-levandowski-9713165",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/trump-pardons-former-google-self-driving-car-engineer-anthony-levandowski-9713165",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/trump-pardons-former-google-self-driving-car-engineer-anthony-levandowski-9713165",
+      "publishedDateTime": "2021-01-20T23:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-university-of-pisa-leans-into-the-io-challenge-ai-applications-create.md",
       "title": "University of Pisa leans into the I/O challenge AI applications create",
       "excerpt": "University of Pisa adopts NVMesh software from Excelero to enable AI researchers to access Nvidia GPU servers more efficiently.",
@@ -844,11 +1034,11 @@
       "title": "Understanding machine learning will go a long way toward higher adoption for SMBs",
       "excerpt": "Expert says larger companies are more willing to spend money for top talent to achieve machine learning, whereas smaller companies aren't able to do so. Pre-configured solutions can help.",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/understanding-machine-learning-will-go-a-long-way-toward-higher-adoption-for-smbs/",
-      "originalUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/understanding-machine-learning-will-go-a-long-way-toward-higher-adoption-for-smbs/",
+      "webUrl": "https://www.techrepublic.com/article/understanding-machine-learning-will-go-a-long-way-toward-higher-adoption-for-smbs/",
+      "originalUrl": "https://www.techrepublic.com/article/understanding-machine-learning-will-go-a-long-way-toward-higher-adoption-for-smbs/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": null,
       "tags": null,
       "images": [
         {
@@ -862,8 +1052,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/understanding-machine-learning-will-go-a-long-way-toward-higher-adoption-for-smbs/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/understanding-machine-learning-will-go-a-long-way-toward-higher-adoption-for-smbs/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/understanding-machine-learning-will-go-a-long-way-toward-higher-adoption-for-smbs/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/understanding-machine-learning-will-go-a-long-way-toward-higher-adoption-for-smbs/",
       "publishedDateTime": "2021-01-20T11:56:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -1044,205 +1234,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-innovate-finance-the-uk-retains-european-fintech-investment-crown-in-2020.md",
-      "title": "Innovate Finance: The UK Retains European Fintech Investment Crown in 2020",
-      "excerpt": "Innovate Finance has published a note regarding Fintech investment in the UK. According to their numbers, the UK retains its title as the top investment destination in Europe for Fintech firms at with $4.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2021/01/171416-innovate-finance-the-uk-retains-fintech-investment-crown-in-2020/",
-      "originalUrl": "https://www.crowdfundinsider.com/2021/01/171416-innovate-finance-the-uk-retains-fintech-investment-crown-in-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2018/03/London-UK-Fintech-600x447.jpg",
-          "width": 600,
-          "height": 447,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2021/01/171416-innovate-finance-the-uk-retains-fintech-investment-crown-in-2020/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/01/171416-innovate-finance-the-uk-retains-fintech-investment-crown-in-2020/amp/",
-      "publishedDateTime": "2021-01-20T08:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-facebook-ai-gets-better-at-describing-photos-for-visually-impaired-users.md",
-      "title": "Facebook AI Gets Better at Describing Photos for Visually Impaired Users",
-      "excerpt": "In an effort to better accommodate users who are blind or visually impaired, Facebook this week updated its automatic alternative text (AAT) technology. The feature, introduced in 2016 (and granted the Helen Keller Achievement Award from the American Foundation for the Blind in 2018),",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/363767",
-      "originalUrl": "https://www.entrepreneur.com/article/363767",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1611158780-03y4aZSGaxg8n0A3gIm3L57-11611143412fit-limfit-limsize-1696x.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/363767",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/363767",
-      "publishedDateTime": "2021-01-20T08:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-microsoft-researchers-tap-ai-for-anonymous-data-sharing-for-health-care-providers.md",
-      "title": "Microsoft researchers tap AI for anonymous data sharing for health care providers",
-      "excerpt": "Microsoft and University of British Columbia researchers propose FELICA, a system that leverages AI to let health providers share data.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/20/microsofts-felicia-taps-ai-to-enable-health-providers-to-share-data-anonymously/",
-      "originalUrl": "https://venturebeat.com/2021/01/20/microsofts-felicia-taps-ai-to-enable-health-providers-to-share-data-anonymously/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/02/shutterstock_400845934-e1572448996720.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/20/microsofts-felicia-taps-ai-to-enable-health-providers-to-share-data-anonymously/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/20/microsofts-felicia-taps-ai-to-enable-health-providers-to-share-data-anonymously/amp/",
-      "publishedDateTime": "2021-01-20T07:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-will-2021-be-the-year-that-ai-finally-scales.md",
-      "title": "Will 2021 Be The Year That AI Finally Scales?",
-      "excerpt": "Growing businesses need to unlock the enormous potential of becoming AI-enabled - will 2021 be the year AI finally scales?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/edstacey/2021/01/20/will-2021-be-the-year-that-ai-finally-scales/",
-      "originalUrl": "https://www.forbes.com/sites/edstacey/2021/01/20/will-2021-be-the-year-that-ai-finally-scales/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6008425e5c7cd8d2b54d06ea%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D942%26cropY1%3D12%26cropY2%3D543",
-          "width": 942,
-          "height": 531,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/edstacey/2021/01/20/will-2021-be-the-year-that-ai-finally-scales/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edstacey/2021/01/20/will-2021-be-the-year-that-ai-finally-scales/amp/",
-      "publishedDateTime": "2021-01-20T06:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

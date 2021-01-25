@@ -75,6 +75,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Waymo CEO Blasts Tesla’s Self-Driving Tech"
+    excerpt: "Once again, extremely niche trash talk is being exchanged in the world of self-driving cars. John Krafcik, the CEO of the Google-affiliated self-driving car company Waym"
+    publishedDateTime: 2021-01-25T17:16:00Z
+    webUrl: "https://futurism.com/the-byte/waymo-ceo-blasts-teslas-self-driving-tech"
+    ampWebUrl: "https://futurism.com/waymo-ceo-blasts-teslas-self-driving-tech/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/waymo-ceo-blasts-teslas-self-driving-tech/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 74
+    images:
+      - url: "https://wp-assets.futurism.com/2021/01/waymo-tes-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Waymo chief says Tesla's 'not a competitor at all' on self-driving cars"
     excerpt: "\"We manufacture a completely autonomous driving system,\" Waymo CEO John Krafcik told an interviewer. \"Tesla is an automaker that is developing a really good driver assistance system.\""
     publishedDateTime: 2021-01-25T12:00:00Z

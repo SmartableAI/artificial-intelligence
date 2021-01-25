@@ -33,6 +33,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Learning with — and about — AI technology"
+    excerpt: "MIT Media Lab Personal Robots group head Cynthia Breazeal joined MIT Education Arcade Director Eric Klopfer for a conversation about AI's role in K-12 education as part of a new webinar series from MIT Open Learning."
+    publishedDateTime: 2021-01-25T19:37:00Z
+    webUrl: "https://news.mit.edu/2021/learning-and-about-ai-technology-0125"
+    type: article
+    provider:
+      name: Massachusetts Institute of Technology
+      domain: mit.edu
+    quality: 67
+    images:
+      - url: "https://news.mit.edu/sites/default/files/images/202101/child-homework.png"
+        width: 800
+        height: 534
+        isCached: true
   - title: "First global standards for securing AI on the way"
     excerpt: "ETSI SAI is the first standardisation initiative dedicated to securing AI. In the report, the problem of securing AI-based systems and solutions is unpacked, with a focus on machine learning (ML), and challenges in terms of confidentiality,"
     publishedDateTime: 2021-01-21T07:05:00Z

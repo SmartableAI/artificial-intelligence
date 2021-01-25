@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-22-how-face-masks-can-disrupt-facial-recognition-and-daily-life.md",
+      "title": "How face masks can disrupt facial recognition — and daily life",
+      "excerpt": "Thanks to preventative measures to reduce COVID-19 transmission — including social distancing and wearing face masks — the possibility of meaningful public interaction is all but gone. “For those of you who don’t always recognize a friend or acquaintance wearing a mask,",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/12/21/face-masks-disrupt-facial-recognition-and-daily-life-study/",
+      "originalUrl": "https://nypost.com/2020/12/21/face-masks-disrupt-facial-recognition-and-daily-life-study/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/12/face-masks-43.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/12/21/face-masks-disrupt-facial-recognition-and-daily-life-study/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/21/face-masks-disrupt-facial-recognition-and-daily-life-study/amp/",
+      "publishedDateTime": "2020-12-21T15:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-22-facial-recognition-legislation-rolls-on-in-new-orleans-and-oakland-boston-celtics-players-urge-passage.md",
       "title": "Facial recognition legislation rolls on in New Orleans and Oakland, Boston Celtics players urge passage",
       "excerpt": "New Orleans passes ban on use of facial recognition by police, Oakland follows suit, Massachusetts governor urged to sign restrictions, tenants are surveilled.",
@@ -1353,49 +1396,6 @@
       "provider": {
         "name": "openpr.com",
         "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-moraine-valley-grads-written-work-receives-national-recognition.md",
-      "title": "Moraine Valley Grad's Written Work Receives National Recognition",
-      "excerpt": "Moraine Valley graduate John Guinta, of Evergreen Park, poem \"Mojave Girl\" recognized by League for Innovation in the Community College.",
-      "sourceUrl": null,
-      "webUrl": "https://patch.com/illinois/evergreenpark/moraine-valley-grads-written-work-receives-national-recognition",
-      "originalUrl": "https://patch.com/illinois/evergreenpark/moraine-valley-grads-written-work-receives-national-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://patch.com/img/cdn20/shutterstock/44719/20201210/011135/styles/patch_image/public/shutterstock-243374959___10011018659.jpg?width=984",
-          "width": 701,
-          "height": 526,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://patch.com/illinois/evergreenpark/amp/29131879/moraine-valley-grads-written-work-receives-national-recognition",
-      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/illinois/evergreenpark/amp/29131879/moraine-valley-grads-written-work-receives-national-recognition",
-      "publishedDateTime": "2020-12-10T00:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Patch",
-        "domain": "patch.com",
         "images": null,
         "publishers": null,
         "authors": null

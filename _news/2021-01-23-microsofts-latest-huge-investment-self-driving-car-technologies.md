@@ -101,6 +101,22 @@ related:
         width: 740
         height: 493
         isCached: true
+  - title: "Microsoft’s new vision-language model outranks humans at image captioning"
+    excerpt: "Microsoft researchers have developed a new object-attribute detection model for image encoding: VinVL (visual features in vision-language) Vision-language (VL) systems make it possible to search relevant images for a text query (or vice versa)."
+    publishedDateTime: 2021-01-25T19:03:00Z
+    webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358422/microsofts-new-vision-language-model-outranks-humans-at-image"
+    ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358422/microsofts-new-vision-language-model-outranks-humans-at-image?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/358422/microsofts-new-vision-language-model-outranks-humans-at-image?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 88
+    images:
+      - url: "https://media.itpro.co.uk//image/upload/v1591696456/itpro/MicrosoftSignHQ.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Microsoft To Do's task suggestion feature uses AI to improve productivity"
     excerpt: "Microsoft To Do for the web has a new Tasks that seem important feature that uses AI to suggests tasks you should take care of."
     publishedDateTime: 2021-01-22T15:22:00Z

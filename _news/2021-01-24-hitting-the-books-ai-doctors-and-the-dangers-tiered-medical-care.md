@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/hitting-the-books-new-laws-of-robotics-
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/hitting-the-books-new-laws-of-robotics-frank-pasquale-harvard-university-press-163059703.html"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 600
     height: 350
     isCached: true
+
+related:
+  - title: "Scientists Trying to Build Medical AI That’s Less Racist Than Doctors"
+    excerpt: "A new medical artificial intelligence system seems to actually be better than human doctors at diagnosing Black patients — because it takes doctors’ biases out of the equation. Typically, AI algorithms built to spot disease or other medical conditions will be trained on doctors’ assessments of x-rays or MRI scans."
+    publishedDateTime: 2021-01-25T19:46:00Z
+    webUrl: "https://futurism.com/neoscope/scientists-medical-ai-less-racist-doctors"
+    ampWebUrl: "https://futurism.com/scientists-medical-ai-less-racist-doctors/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/scientists-medical-ai-less-racist-doctors/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 57
+    images:
+      - url: "https://wp-assets.futurism.com/2021/01/scientists-build-medical-ai-less-racist-doctors-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "2d9VSPyuePRFDF6zFSB5IlxMIwFnqg0m+xhSqIo+25GKe5XQ6KM+WJ2jqr0sCev1v4q20nmTgH+ZfBHNy+ROXWF6yCSkXM0z8RK017wg6z6EfX9DpJ+iQIfIy1rLMEr+0XRWpVmxalP8D1sQDPDshFVRhLOVgHQAZv+pW4+bMPdsD0uvY0ZZrwAKHPPjqmr4yWv0+EPjSNIssMI2W35m4aQkM+lOpN0ytUAaXJfDhEnpHx2bxXMZzgxs0aZlHDoZxgJB44LMf95gtDj76vmCplgaffkxVA5MIrlrAEgxQrS9OoxeTs7sn2UrU2kcuP10QrHhbd9SftunXzfjdjo5oKZOO/Tq9K/67JFOl8hMMyU=;uRwDIhstf8kEvTuwrYeZ+w=="
 ---

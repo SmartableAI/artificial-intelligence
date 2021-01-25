@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/01/21/google-union-slams-companys
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/21/google-union-slams-companys-treatment-of-ai-ethics-researchers/amp/"
 type: article
 quality: 104
-heat: 174
+heat: 154
 published: true
 
 provider:
@@ -104,34 +104,6 @@ related:
       - url: "https://www.computing.co.uk/api/v1/wps/a48db76/d391d217-af07-4a3f-abbc-1edc0d560229/5/Google-370x229.jpg"
         width: 370
         height: 229
-        isCached: true
-  - title: "Google sidelines second AI researcher"
-    excerpt: "A union called the move an \"attack on the people who are trying to make Google's technology more ethical.\". Read more at straitstimes.com."
-    publishedDateTime: 2021-01-21T03:26:00Z
-    webUrl: "https://www.straitstimes.com/business/companies-markets/google-sidelines-second-ai-researcher"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 39
-    images:
-      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2021/01/21/nz_google_210167.jpg?itok=rj24MpuV"
-        width: 763
-        height: 509
-        isCached: true
-  - title: "Google sidelines second artificial intelligence researcher"
-    excerpt: "Google locked out artificial intelligence researcher Margaret Mitchell from its corporate systems, making her the second outspoken critic at the company to be sidelined."
-    publishedDateTime: 2021-01-21T04:44:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/01/21/google-sidelines-second-artificial-intelligence-researcher"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/01/21/1015964.jpg"
-        width: 1240
-        height: 827
         isCached: true
 
 secured: "brC8NbFwn2o83psag43/hBNVZL8SdX8rKN60YgrSxTIIsGdpb0dmNC1S99ktpFuNw6gqWKib4IDEO7H6GSRP9OCRbKHdvfkvVgq+fvho2fw3ag1a/4/eOcwQWZD6MOs1/I+PVgy2qsa9N0if+fuevvu+cJ+z/gedCNxHR3Y4pe6ADhGvyCYhTOFjetfXPTD4Gjx5SAv0nL1mYFSPS18/LZe8a5QFgTMudpBA97JLzCAaTdm2iYhLSqxhIiomOfp/xfo/fCOHSLenLDBlTxNtTzfayFSFZrfE456igIV3nowCz7L20cjvVS0Eg0NdRaERxjXyfqozLGEy/kcESN09IBco3w2uu1qcQMsYF3OUnZfn9gZrPk/G08aQScap7E0TMhZaVWZyQLXHHa/GFaSglrVlhOQyZBOZnHGBYWjxXjhzL0xWpU6WuTrM2vREh6d9PMcTJ8p89Oe16nLwxNSqk392NY5zjeAFDuaee/xACeWCRhXdlVgDuQEjdwFC9NxmTZCUGuP81XrBRicERghRAA==;ytP48cwndSt7xJUSuXm5iw=="

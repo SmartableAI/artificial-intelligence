@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2021/01/25/elon-musk-respon
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2021/01/25/elon-musk-responds-to-waymo-ceo-tesla-has-better-ai-hardware--software-than-waymo/amp/"
 type: article
 quality: 112
-heat: 162
+heat: 172
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2020/11/Tesla-full-self-driving-road-debris.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Waymo CEO Blasts Tesla’s Self-Driving Tech"
+    excerpt: "Once again, extremely niche trash talk is being exchanged in the world of self-driving cars. John Krafcik, the CEO of the Google-affiliated self-driving car company Waym"
+    publishedDateTime: 2021-01-25T17:16:00Z
+    webUrl: "https://futurism.com/the-byte/waymo-ceo-blasts-teslas-self-driving-tech"
+    ampWebUrl: "https://futurism.com/waymo-ceo-blasts-teslas-self-driving-tech/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/waymo-ceo-blasts-teslas-self-driving-tech/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 74
+    images:
+      - url: "https://wp-assets.futurism.com/2021/01/waymo-tes-600x315.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "Elon Musk gives replay to Waymo boss for doubting Tesla's full self-driving system"
     excerpt: "Tesla CEO Elon Musk has countered recent remarks by CEO of Google’s self-driving unit Waymo that Tesla has taken a misguided approach to develop..|News Track"

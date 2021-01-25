@@ -38,6 +38,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Learning with — and about — AI technology"
+    excerpt: "MIT Media Lab Personal Robots group head Cynthia Breazeal joined MIT Education Arcade Director Eric Klopfer for a conversation about AI's role in K-12 education as part of a new webinar series from MIT Open Learning."
+    publishedDateTime: 2021-01-25T19:37:00Z
+    webUrl: "https://news.mit.edu/2021/learning-and-about-ai-technology-0125"
+    type: article
+    provider:
+      name: Massachusetts Institute of Technology
+      domain: mit.edu
+    quality: 67
+    images:
+      - url: "https://news.mit.edu/sites/default/files/images/202101/child-homework.png"
+        width: 800
+        height: 534
+        isCached: true
   - title: "ITRI Exhibits Innovations in AI and Robotics at CES 2021"
     excerpt: "Taiwan's largest and one of the world's leading high-tech applied research institutions, today announced it will introduce and demonstrate AI and robotics technologies at its CES 2021 event site ( A MiR500 Robot Lowers Transport Costs at Schneider Electric Talking to Machines - New Operating Concepts With Artificial Intelligence Incremental Steps to Creating Value With Industrial Data Analytics Warehouses Turn to Automation to Meet Permanent Peak Demand ITRI's featured technologies include the Dual Arm Robot System (DARS),"
     publishedDateTime: 2021-01-21T20:19:00Z

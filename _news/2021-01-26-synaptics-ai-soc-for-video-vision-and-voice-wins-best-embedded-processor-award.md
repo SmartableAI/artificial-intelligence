@@ -1,32 +1,23 @@
 ---
 category: news
-title: "Synaptics' AI SoC for Video, Vision and Voice Wins Best Embedded Processor Award"
-excerpt: "SAN JOSE, Calif., Jan 25, 2021 (GLOBE NEWSWIRE via COMTEX) -- SAN JOSE, Calif., (GLOBE NEWSWIRE) -- Synaptics(R) Incorporated (Nasdaq:"
-publishedDateTime: 2021-01-25T17:42:00Z
-originalUrl: "https://www.marketwatch.com/press-release/synaptics-ai-soc-for-video-vision-and-voice-wins-best-embedded-processor-award-2021-01-25-11184235"
-webUrl: "https://www.marketwatch.com/press-release/synaptics-ai-soc-for-video-vision-and-voice-wins-best-embedded-processor-award-2021-01-25-11184235"
+title: "Synaptics’ AI SoC for Video, Vision and Voice Wins Best Embedded Processor Award"
+excerpt: "(GLOBE NEWSWIRE) -- Synaptics® Incorporated (Nasdaq: SYNA), today announced its VideoSmart™ VS680 solution has been chosen as the Best Embedded Processor in The Linley Group’s Analysts’ Choice Awards 2020."
+publishedDateTime: 2021-01-25T17:31:00Z
+originalUrl: "https://www.morningstar.com/news/globe-newswire/8141095/synaptics-ai-soc-for-video-vision-and-voice-wins-best-embedded-processor-award"
+webUrl: "https://www.morningstar.com/news/globe-newswire/8141095/synaptics-ai-soc-for-video-vision-and-voice-wins-best-embedded-processor-award"
 type: article
-quality: 62
-heat: 62
+quality: 14
+heat: 14
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
+  - Computer Vision
   - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "7AWc6FbuPXvZMvoCPlJqLu0b9nZyiHVGVyV4BLFp8weXIpi9q2T89vmyQKT/IjbbjGtyW1EWCESxTtb0e0vTCLvSaGPsBGtGYJPIsou3dsZSJIKFWjyv9/Fvhm0tgV4JKuEt8J9HD1++B/2H3g1PIJfHYkQVsbVhmz0XOQF74LbUl21jcSXRGHGaWS+4d+BBBjnAe7/1jKrLRYfijPrXD+cIDRhnNLuS362t5AuIFFEtSxaPkAxkGeTCxaE2lekbfW6DRCtND88EJH5cRFusl9msECbJ7XAFyby0xlJgJVC7+KOCY9RN2eBAu/oErFZncB79mUq6hEA7068e3i2RildTp10x+LPiJTeiPfViPZI=;maisHPoUt3+JAl05MZx6AA=="
+secured: "fTZ7csnyx3EWoyFVQSmRQc8OyYT2seuljOWj9rY8JwMnmXxBBVPDJK1Vs9QvoEfXGHjUb2L9pycibjoP22CUzydMPULg6n0ajj/0qO0Sf+UeC4BNg/36hv0BreSnsLAHcG9cKmOrvM/WLeXWvTYlS3bsIl9s7K7ry/h4axUkNyNvqk0IUiK47EsraYE6zKSHYTTQZer7O0T1QME4kusUrY9J4HO1lwNcJWThg4l2b3jFIqgQZPh9v6vcXL0pYje/wonbHPw0W6xDkNMFqNsBHjvHkdy+kYB/hv8kKJdXPw2EI8U/GQF1gZBcM+Y5yU3IoKAOGS6T8j6oSdIgwiBMYUc03YWAg9zzdyXx06NUrzU=;9W0IzK3BWY2fLzAIJJZjWw=="
 ---
 

@@ -10,7 +10,7 @@
       "originalUrl": "https://electrek.co/2021/01/25/tesla-partners-samsung-new-5nm-chip-full-self-driving-report/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -63,7 +63,7 @@
       "originalUrl": "https://www.forbes.com/sites/johanmoreno/2021/01/25/elon-musk-responds-to-waymo-ceo-tesla-has-better-ai-hardware--software-than-waymo/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 162,
+      "heat": 172,
       "tags": null,
       "images": [
         {
@@ -1022,34 +1022,34 @@
     {
       "path": "_news/2021-01-14-chinese-drone-firm-dji-builds-team-to-work-on-self-driving-tech-job-posts-sources.md",
       "title": "Chinese drone firm DJI builds team to work on self-driving tech: job posts, sources",
-      "excerpt": "China's SZ DJI Technology Co, the world's largest drone maker, is building an engineering team to work on self-driving technologies, according to job posts and people familiar with the company's strategy.",
+      "excerpt": "Chinese electric vehicle maker Xpeng Inc has said it would use Livox’s lidar technology for self-driving functions ... unit and is developing sensors. Baidu, which has been working on autonomous ...",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-dji-auto/chinese-drone-firm-dji-builds-team-to-work-on-self-driving-tech-job-posts-sources-idUSKBN29J0DA",
-      "originalUrl": "https://www.reuters.com/article/us-dji-auto/chinese-drone-firm-dji-builds-team-to-work-on-self-driving-tech-job-posts-sources-idUSKBN29J0DA",
+      "webUrl": "https://www.metro.us/chinese-drone-firm-dji/",
+      "originalUrl": "https://www.metro.us/chinese-drone-firm-dji/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXMPEH0D073-BASEIMAGE.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-14T00:50:00-08:00",
+      "ampWebUrl": "https://www.metro.us/chinese-drone-firm-dji/amp/",
+      "cdnAmpWebUrl": "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/chinese-drone-firm-dji/amp/",
+      "publishedDateTime": "2021-01-13T19:54:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Metro US",
+        "domain": "metro.us",
+        "images": null,
         "publishers": null,
         "authors": null
       },

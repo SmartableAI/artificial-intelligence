@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Chinese drone firm DJI builds team to work on self-driving tech: job posts, sources"
-excerpt: "China's SZ DJI Technology Co, the world's largest drone maker, is building an engineering team to work on self-driving technologies, according to job posts and people familiar with the company's strategy."
-publishedDateTime: 2021-01-14T08:50:00Z
-originalUrl: "https://www.reuters.com/article/us-dji-auto/chinese-drone-firm-dji-builds-team-to-work-on-self-driving-tech-job-posts-sources-idUSKBN29J0DA"
-webUrl: "https://www.reuters.com/article/us-dji-auto/chinese-drone-firm-dji-builds-team-to-work-on-self-driving-tech-job-posts-sources-idUSKBN29J0DA"
+excerpt: "Chinese electric vehicle maker Xpeng Inc has said it would use Livox’s lidar technology for self-driving functions ... unit and is developing sensors. Baidu, which has been working on autonomous ..."
+publishedDateTime: 2021-01-14T03:54:00Z
+originalUrl: "https://www.metro.us/chinese-drone-firm-dji/"
+webUrl: "https://www.metro.us/chinese-drone-firm-dji/"
+ampWebUrl: "https://www.metro.us/chinese-drone-firm-dji/amp/"
+cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/chinese-drone-firm-dji/amp/"
 type: article
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Metro US
+  domain: metro.us
 
 topics:
   - AI in Autos
   - AI
 
-secured: "1AYVWYR8jzBLvJQNskW+ocab86RDRY27SVrQMtn7QgMMym1Uwba7fpwohNIUSBJmZTKjljFOzpt+WyHpQvOCDUv/jT5QFakf8OE3AtLNSbwNisjpFGyeN7q+6+sHIfekk8hvkCFscqAJziIH2JHItG7tHDyDYhHNYbK47pM8p3N64dQB/Q9XwqWqikYf3WmibNoLYPv4PJJu79iuinegq1cLPqNAyhngSBvThxYAlBK+D8Tuij5zWIN7FYr3KttxGEZiYuY7HDY4ENG8K8REsy7BmpGdKcqK/I71Y77uf4/sTTH9MCe6D2hGSGUl95mE3KklrroAXdjv1H+LUGYpHcCvhAObdTvzXr68dtJy3/XUET4fWSIGQxUO/RrPkr2TYJRSGuBrA5+62yGcAtM7e8E0JRAXn0Q/pIsiriO09QoANvTYu5vFg2vist4INNO/fDezO+Fs/7Bq+wS0k0Gc/4YQ/9xW0E5cG488lDwLENVZ3/EoKwH/quZrMz6f3cCO+Uj/10Jdnbpk9YQzb+DSSQ==;cVBn4+tgdb2M6MT7yrajxQ=="
+images:
+  - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXMPEH0D073-BASEIMAGE.jpg"
+    width: 800
+    height: 533
+    isCached: true
+
+secured: "BrMRX10cK20i/jgDcXXBSTJIm/M+YjjCVNORqsnTHEbUzCl6kmdLa1Jv4jGuRWndOKpm3Vcf3O/o6NQrMBd5r2MNb2528LKwDbZvTLNaCfsZ8GGr7SCNgdAdE1qLtrwd0mqmg+0TmKQhSOm7XfD5WRgj8QGf3mr4IluUc14Ev3cYneRdIg9381rXxSgZbMiRgd3V/5hMreKT2Luu6vdpUte10hAECQdyPlMY0YH/BZK/Nf77K3xsiaH6LhIa59x17lOaEICpgg8Zu55nLzCBlJgz8/75ddOkFgbUiadtlwkLFdpzG0JjRqmsy5F1GiFiH9iL8Y/Tu5tYKSmYFydcsSTKeAHwfCS3fk1Yav2iWkk=;OgVXh06ERGYOkdJDkGIcvw=="
 ---
 

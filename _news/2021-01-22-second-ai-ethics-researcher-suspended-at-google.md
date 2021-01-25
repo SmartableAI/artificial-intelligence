@@ -101,34 +101,6 @@ related:
         width: 370
         height: 229
         isCached: true
-  - title: "Google sidelines second AI researcher"
-    excerpt: "A union called the move an \"attack on the people who are trying to make Google's technology more ethical.\". Read more at straitstimes.com."
-    publishedDateTime: 2021-01-21T03:26:00Z
-    webUrl: "https://www.straitstimes.com/business/companies-markets/google-sidelines-second-ai-researcher"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 39
-    images:
-      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2021/01/21/nz_google_210167.jpg?itok=rj24MpuV"
-        width: 763
-        height: 509
-        isCached: true
-  - title: "Google sidelines second artificial intelligence researcher"
-    excerpt: "Google locked out artificial intelligence researcher Margaret Mitchell from its corporate systems, making her the second outspoken critic at the company to be sidelined."
-    publishedDateTime: 2021-01-21T04:44:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/01/21/google-sidelines-second-artificial-intelligence-researcher"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/01/21/1015964.jpg"
-        width: 1240
-        height: 827
-        isCached: true
 
 secured: "9DWUICc1hS0Ly0pgg7VvGhzGSp6Jszqj9ALxApZucxQj0iz8tmzeBes2MfCxCcapMMKMBPbPMInxC7ymXAQ4dzdYXr/8uuJIWDaPWrCivpFoluDlsvV3IMQy7Xy8kwPM5SB/vDs9m3YFnDT3Mn+ESSepEGKJMrqREhZxqYUySeE4LDK+02BKHLMMJi3iLLBmEQXfYSOl4aj7fZokBuHQQyKTNO61QN+D8buqAXkt5Zp4m1Yk2CzicmDNZjccO3ZO8fx+yNoCmB7K2pyF4xioezIJ3cbaQrU1uVJcGc2fqEAcBzzY/ChiEdg8cgnfuaJllrfr3+O9ExrMN8Ln4oVPjqdMTUlw9vdr2NdPkHAWGTw=;5nvUkzjcXc2+dpZWbGovRw=="
 ---

@@ -101,34 +101,6 @@ related:
         width: 370
         height: 229
         isCached: true
-  - title: "Google sidelines second AI researcher"
-    excerpt: "A union called the move an \"attack on the people who are trying to make Google's technology more ethical.\". Read more at straitstimes.com."
-    publishedDateTime: 2021-01-21T03:26:00Z
-    webUrl: "https://www.straitstimes.com/business/companies-markets/google-sidelines-second-ai-researcher"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 39
-    images:
-      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2021/01/21/nz_google_210167.jpg?itok=rj24MpuV"
-        width: 763
-        height: 509
-        isCached: true
-  - title: "Google sidelines second artificial intelligence researcher"
-    excerpt: "Google locked out artificial intelligence researcher Margaret Mitchell from its corporate systems, making her the second outspoken critic at the company to be sidelined."
-    publishedDateTime: 2021-01-21T04:44:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/01/21/google-sidelines-second-artificial-intelligence-researcher"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/01/21/1015964.jpg"
-        width: 1240
-        height: 827
-        isCached: true
 
 secured: "fBcJ19iHIZmGQzZSgcYadoIanHvYddMbrIw26m3oaNoH5j9qisCxPk3VL8R4ZYBPwb8jP9Q5sNVRE8nP2hCRGjWpFWPwu678QGCo84VNgawrl+EHtfryxYU5L6NM3CY7Np1PNs96lZJ9XLj6NqdXcI9D33U6RuBJP0KB4/Dyo1hrobdWruZKoqZSxGJ7e5suJeshW5V3hnWN/lOe8uDZWm6xts4WaCxGEUayEneTjyVZv63X5Pb4r9dCAPh6hMrpksRS97GKgJxEvt8XYiS2TnMmhVBcoV33XjAzriS+rJ1TD7mcUEqtjOorA8YsVo8o65GHraHuYGMDNYYfcBf7Qa9KIgrtWIIqD4jBuEXU7qj5DKIuW2qtPTfv9aLPSqm9TARmg+79lPedhD7bBBxqdNbhmRDF++VuGAmzdtxQuwliiqjG8gvIon+fEZijL2xwM99KoQDP3Mghocog9ANgqGhFlTcabNxvchzdu8nbx6Oyzb0DMxYO9JEvZcfFTjSq9YnNcMdNMoYPoF/CPE+SlA==;C5y813k7Z23FoCZCU4r31g=="
 ---

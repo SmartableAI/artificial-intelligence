@@ -2,6 +2,197 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-01-16-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-up-906-in-december.md",
+      "title": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Short Interest Up 90.6% in December",
+      "excerpt": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) was the target of a significant growth in short interest in the month of December. As of December 31st, there was short interest totalling 6,",
+      "sourceUrl": null,
+      "webUrl": "https://theenterpriseleader.com/2021/01/16/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-up-90-6-in-december.html",
+      "originalUrl": "https://theenterpriseleader.com/2021/01/16/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-up-90-6-in-december.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
+          "width": 450,
+          "height": 323,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theenterpriseleader.com/2021/01/16/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-up-90-6-in-december.html/amp",
+      "cdnAmpWebUrl": "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2021/01/16/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-up-90-6-in-december.html/amp",
+      "publishedDateTime": "2021-01-15T16:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theenterpriseleader.com",
+        "domain": "theenterpriseleader.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-16-aws-goes-big-with-contact-center-intelligence.md",
+      "title": "AWS Goes Big with Contact Center Intelligence",
+      "excerpt": "Artificial intelligence is redefining contact centers and AWS is taking a leading position. We are two weeks into 2021, and Amazon Web Services has wasted no time in making a splash in the contact center industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/cloud/aws-goes-big-with-contact-center-intelligence",
+      "originalUrl": "https://www.eweek.com/cloud/aws-goes-big-with-contact-center-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/imagesvr_ez/b2bezp/2021/01/AWS.Connect.call.center.png?alias=social_image",
+          "width": 560,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-15T16:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-16-2-fintech-ipos-to-watch.md",
+      "title": "2 Fintech IPOs to Watch",
+      "excerpt": "Then, the pair take a closer look at fintech start-up SoFi, which is getting set to go public via a SPAC merger with Social Capital Hedosophia Holdings V (NYSE:IPOE). And last but not least, we discuss the recent correction in bitcoin and other cryptocurrencies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/01/15/2-fintech-ipos-to-watch/",
+      "originalUrl": "https://www.fool.com/investing/2021/01/15/2-fintech-ipos-to-watch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/01/15/2-fintech-ipos-to-watch/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/01/15/2-fintech-ipos-to-watch/",
+      "publishedDateTime": "2021-01-15T15:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-16-former-dod-head-the-us-needs-a-new-plan-to-beat-china-on-ai.md",
+      "title": "Former DOD Head: The US Needs a New Plan to Beat China on AI",
+      "excerpt": "In an interview with WIRED, former secretary of defense Ash Carter discussed how to build morality into AI—and make sure other countries do too.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/former-dod-head-us-needs-new-plan-to-beat-china-ai/",
+      "originalUrl": "https://www.wired.com/story/former-dod-head-us-needs-new-plan-to-beat-china-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6001f2c2e5adb74950e3d73d/master/pass/Sec_AshCarter_631997374.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/former-dod-head-us-needs-new-plan-to-beat-china-ai/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/former-dod-head-us-needs-new-plan-to-beat-china-ai/amp",
+      "publishedDateTime": "2021-01-15T14:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-16-faa-approves-first-fully-automated-commercial-drone-flights.md",
       "title": "FAA Approves First Fully Automated Commercial Drone Flights",
       "excerpt": "A small Massachusetts-based company was granted permission to operate drones without hands-on piloting or direct observation by human controllers or observers.",
@@ -1034,184 +1225,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-ces-2021-taiwanese-startup-acsi-gives-new-technological-shine-to-traditional-chinese-medical-treatments.md",
-      "title": "CES 2021 Taiwanese Startup ACSI Gives New Technological Shine to Traditional Chinese Medical Treatments",
-      "excerpt": "Chinese medicine has been receiving increased attention worldwide. These traditional therapeutic treatments are now being combined with modern technology and integrated into Western medicine. Acupuncture,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ces-2021-taiwanese-startup-acsi-gives-new-technological-shine-to-traditional-chinese-medical-treatments-1029971493",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ces-2021-taiwanese-startup-acsi-gives-new-technological-shine-to-traditional-chinese-medical-treatments-1029971493",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/ces-2021-taiwanese-startup-acsi-gives-new-technological-shine-to-traditional-chinese-medical-treatments-1029971493",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ces-2021-taiwanese-startup-acsi-gives-new-technological-shine-to-traditional-chinese-medical-treatments-1029971493",
-      "publishedDateTime": "2021-01-14T22:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-deeprouteai-showcases-groundbreaking-inference-engine-for-autonomous-vehicles-at-ces.md",
-      "title": "DeepRoute.ai Showcases Groundbreaking Inference Engine for Autonomous Vehicles at CES",
-      "excerpt": "Autonomous vehicle startup to debut new technology that will improve efficiency and advance self-driving solutions",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210114006062/en/DeepRoute.ai-Showcases-Groundbreaking-Inference-Engine-for-Autonomous-Vehicles-at-CES",
-      "originalUrl": "https://www.businesswire.com/news/home/20210114006062/en/DeepRoute.ai-Showcases-Groundbreaking-Inference-Engine-for-Autonomous-Vehicles-at-CES",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-14T22:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-smart-collar-translates-dog-barks-into-emotions-startup-company-says.md",
-      "title": "Smart collar translates dog barks into emotions, startup company says",
-      "excerpt": "Now you can find out what your dog is saying when it barks -- or at least, you’ll know how it’s feeling. South Korean startup Petpuls has created a smart collar that can identify five emotions in dogs using AI-enabled voice recognition technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/lifestyle/smart-dog-collar-translates-barks-emotions",
-      "originalUrl": "https://www.foxnews.com/lifestyle/smart-dog-collar-translates-barks-emotions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/iStock-156869127.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/lifestyle/smart-dog-collar-translates-barks-emotions.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/smart-dog-collar-translates-barks-emotions.amp",
-      "publishedDateTime": "2021-01-14T18:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-2020-was-impossible-to-predict-can-ai-save-2021.md",
-      "title": "2020 Was Impossible To Predict. Can AI Save 2021?",
-      "excerpt": "Is 2021 the year that businesses and governments start building an AI strategy so computers can look at data the way humans too frequently don’t?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/andrewfilev/2021/01/14/2020-was-impossible-to-predict-can-ai-save-2021/",
-      "originalUrl": "https://www.forbes.com/sites/andrewfilev/2021/01/14/2020-was-impossible-to-predict-can-ai-save-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fff4443003dc6aa290e8a51%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/andrewfilev/2021/01/14/2020-was-impossible-to-predict-can-ai-save-2021/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewfilev/2021/01/14/2020-was-impossible-to-predict-can-ai-save-2021/amp/",
-      "publishedDateTime": "2021-01-14T14:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

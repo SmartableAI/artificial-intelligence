@@ -26,6 +26,36 @@ images:
     height: 545
     isCached: true
 
+related:
+  - title: "Kyligence Launches Intelligent Data Cloud for Interactive Analytics"
+    excerpt: "Kyligence, originator of Apache Kylin and developer of the AI-augmented analytics platform Kyligence Cloud, has announced the availability of Kyligence Cloud 4, its new cloud-native distributed big data analytics platform."
+    publishedDateTime: 2021-01-21T16:38:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Kyligence-Launches-Intelligent-Data-Cloud-for-Interactive-Analytics-144837.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 24
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Kyligence Launches Intelligent Data Cloud for Interactive Analytics at Massive Concurrency and Scale"
+    excerpt: "Kyligence, originator of Apache Kylin and developer of the AI-augmented analytics platform Kyligence Cloud, today announced the immediate availability of Kyligence Cloud 4, its new cloud-native distributed big data analytics platform."
+    publishedDateTime: 2021-01-22T06:14:00Z
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-north-america-environment-and-nature-software-industry-dae5db10cbc14e0f658111c0366875b7"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 9
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
 secured: "0artyFhgkjGfaO0YSOsoSWiK2to2MoxoybfDzlHkuDtjdEH3HP+cUm3DzZvxsiixel4w8ZhEGk382/lAGu9bLCFcvSRyScwxZ6h7F5KZE4+4bDC9PRb44oLiRESfIoqf0qVDAB1CBp3eeFIzRh6VgaHAcI/STUd1BXlM0nulVVRuH3zjLXJjBxnXCDHWV0erQXBntTfrBC5lCId+lGUFCQawTid7PXGUTGjCQFyqbAAAhsOFL5VnzW4lQ+cALBJRD9JFA723IEtFEwPdbBZEH+DLpiW/NedIuQRp7VgPZu6KxvO1abkbGe8qaudYZ2k6GCl6TqIKu/uuGE7hawwhhN+ZR3zriSXTcCv4TzBUzLA=;nhYx1ARswKWRWtIAU4RIVg=="
 ---
 

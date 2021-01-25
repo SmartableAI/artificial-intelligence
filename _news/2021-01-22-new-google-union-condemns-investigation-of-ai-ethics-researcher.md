@@ -101,34 +101,6 @@ related:
         width: 370
         height: 229
         isCached: true
-  - title: "Google sidelines second AI researcher"
-    excerpt: "A union called the move an \"attack on the people who are trying to make Google's technology more ethical.\". Read more at straitstimes.com."
-    publishedDateTime: 2021-01-21T03:26:00Z
-    webUrl: "https://www.straitstimes.com/business/companies-markets/google-sidelines-second-ai-researcher"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 39
-    images:
-      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2021/01/21/nz_google_210167.jpg?itok=rj24MpuV"
-        width: 763
-        height: 509
-        isCached: true
-  - title: "Google sidelines second artificial intelligence researcher"
-    excerpt: "Google locked out artificial intelligence researcher Margaret Mitchell from its corporate systems, making her the second outspoken critic at the company to be sidelined."
-    publishedDateTime: 2021-01-21T04:44:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/01/21/google-sidelines-second-artificial-intelligence-researcher"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/01/21/1015964.jpg"
-        width: 1240
-        height: 827
-        isCached: true
 
 secured: "pZXEzlxqHSltFD1X42KE81cr6Lya8DT0DzQ8ipjLEPKUiVje26lKFdryXLXX9m4E6n7AVwKmGU68hCLtzwggYjO5F5PuWIiaFmMN60nfTB2G4m89DIld4jGgvhIxw1ZKhcw6uTqpwTawZgSFCT27Y3Z2XYI89WUeYceX/72ANyxCkSTMnSHI18ZTGs7zJ2cxTebejosclHSIiz2bb33nuTmrB6qEoXQlQTXkc89k5IrfoPX8hZXGYSyV6C+Lc8M65cHMI0PPHJRtpTWaUNMg+RJLwF7prh9UsjbM1ypKtZAnLjQYb+6m6JUA+ClXqoRPkfdEal1SJmdBWTA8f5clXQHhFFcTS7m5oUUt84U3wR6GdEnjvrt5gjwgjjIa38qeXQ2HttZhkj7pVc2qJLRwxBZL2gaFkVk3gHAbxsZbQYIcLpPLyWnSSQS0yHmKDsRR4qohHVjhGuHLk7vgwCwcfFkjwiSWlNDEeVaMmYe/kNrKhva6P2w9MrwyxQBpCMeomUNF+FCcIWvXAd6GqA93Aw==;eXr9FzKd86WvY3rIREDOEQ=="
 ---

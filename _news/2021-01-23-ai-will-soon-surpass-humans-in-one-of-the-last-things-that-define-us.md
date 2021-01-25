@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/ai-is-on-the-verge-of-mastering-t
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/ai-is-on-the-verge-of-mastering-the-creative-arts"
 type: article
 quality: 87
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Humanizing Work In The Age Of Creepy AI"
+    excerpt: "Horror tales of an Orwellian future of work have haunted humans for decades, but they seem uncomfortably real today."
+    publishedDateTime: 2021-01-25T20:52:00Z
+    webUrl: "https://www.forbes.com/sites/tomaspremuzic/2021/01/25/humanizing-work-in-the-age-of-creepy-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/tomaspremuzic/2021/01/25/humanizing-work-in-the-age-of-creepy-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomaspremuzic/2021/01/25/humanizing-work-in-the-age-of-creepy-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600ee93ba7c94cbdcd79d59b%2F0x0.jpg"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "6 developments that will define AI governance in 2021"
     excerpt: "This year is poised to be a highly impactful period for the governance of artificial intelligence (AI). The Trump administration successfully pushed for hundreds of millions of dollars in AI research funding,"
     publishedDateTime: 2021-01-21T19:00:00Z

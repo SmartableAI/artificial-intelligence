@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2021/01/21/kyligences-apache-kylin-based-
 webUrl: "https://siliconangle.com/2021/01/21/kyligences-apache-kylin-based-distributed-data-warehouse-gets-cloud-native-features/"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -23,52 +23,6 @@ images:
     width: 1920
     height: 1080
     isCached: true
-
-related:
-  - title: "Kyligence launches revamped cloud-native OLAP-on-big-data platform"
-    excerpt: "New version 4 of the BI + big data platform is based on Spark and Parquet, leverages machine learning and is optimized for cloud storage. It's available on the Azure Marketplace now and coming to the AWS Marketplace soon."
-    publishedDateTime: 2021-01-21T05:00:00Z
-    webUrl: "https://www.zdnet.com/article/kyligence-launches-cloud-native-big-data-olap-on-azure-marketplace/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/kyligence-launches-cloud-native-big-data-olap-on-azure-marketplace/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/kyligence-launches-cloud-native-big-data-olap-on-azure-marketplace/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 74
-    images:
-      - url: "https://zdnet4.cbsistatic.com/hub/i/2021/01/20/6e47e0c7-f199-4a04-853c-50d9a7d4d9cb/kyligence-architecture-diagram.jpg"
-        width: 872
-        height: 360
-        isCached: true
-  - title: "Kyligence Launches Intelligent Data Cloud for Interactive Analytics"
-    excerpt: "Kyligence, originator of Apache Kylin and developer of the AI-augmented analytics platform Kyligence Cloud, has announced the availability of Kyligence Cloud 4, its new cloud-native distributed big data analytics platform."
-    publishedDateTime: 2021-01-21T16:38:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Kyligence-Launches-Intelligent-Data-Cloud-for-Interactive-Analytics-144837.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 24
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Kyligence Launches Intelligent Data Cloud for Interactive Analytics at Massive Concurrency and Scale"
-    excerpt: "Kyligence, originator of Apache Kylin and developer of the AI-augmented analytics platform Kyligence Cloud, today announced the immediate availability of Kyligence Cloud 4, its new cloud-native distributed big data analytics platform."
-    publishedDateTime: 2021-01-22T06:14:00Z
-    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-north-america-environment-and-nature-software-industry-dae5db10cbc14e0f658111c0366875b7"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 9
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "6KERs8699gZxYvaFl2n1aliT4naxkPQ1Y+3HTEkT3RFmrpEKvOWDSA9F2XToYjka6slHR0kQds973EYunEefaBUA0JDB6BXdCncxp5lXhMPG1+PkMbWFybDI0ew4mJjjjAhgCTbXXShZgBbdG73qC9hEeJpHOWxmXmyYxOw8Zz+O2wQKD16qhPoRY2mISG4yyiCfMIoh8XnSBOFWuX4o64EoaQYygmtYcjA+Jqp/pd0CCNbLnddePWwdGaYrNo3NI2+si1zSaWALlRxg3gANjXajIf00GDzkaXw0tT8s9rTsx0NDiHoPzydws+sQrFJ8aifXOKJWhOjwMDmYOHvsMixQ2Drpxile0Hq1CNwTAcU=;wUA5MBpkY99prNFI1XH6dQ=="
 ---

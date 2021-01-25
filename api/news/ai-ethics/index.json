@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-26-gartner-the-future-of-ai-is-not-as-rosy-as-some-might-think.md",
+      "title": "Gartner: The future of AI is not as rosy as some might think",
+      "excerpt": "A Gartner report predicts that the second-order consequences of widespread AI will have massive societal impacts, to the point of making us unsure if and when we can trust our own eyes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/gartner-the-future-of-ai-is-not-as-rosy-as-some-might-think/",
+      "originalUrl": "https://www.techrepublic.com/article/gartner-the-future-of-ai-is-not-as-rosy-as-some-might-think/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2019/08/15/0bc8e7f5-39d1-49a8-be07-f3db2e40f43b/resize/1200x/68fd21b9b4138bea071e9d1c1e4253f2/istock-1135819437.jpg",
+          "width": 1200,
+          "height": 729,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/gartner-the-future-of-ai-is-not-as-rosy-as-some-might-think/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/gartner-the-future-of-ai-is-not-as-rosy-as-some-might-think/",
+      "publishedDateTime": "2021-01-25T12:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-23-center-for-applied-data-ethics-suggests-treating-ai-like-a-bureaucracy.md",
       "title": "Center for Applied Data Ethics suggests treating AI like a bureaucracy",
       "excerpt": "A new research paper suggests AI practitioners adopt anthropology terms to assess large machine learning models that harm people.",
@@ -201,7 +253,7 @@
       "originalUrl": "https://thenextweb.com/neural/2021/01/21/google-union-slams-companys-treatment-of-ai-ethics-researchers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -1396,49 +1448,6 @@
         "AI Ethics",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-what-buddhism-can-do-for-ai-ethics.md",
-      "title": "What Buddhism can do for AI ethics",
-      "excerpt": "Buddhism teaches us to focus our energy on eliminating suffering in the world. The explosive growth of artificial intelligence has fostered hope that it will help us solve many of the world’s most intractable problems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2021/01/06/1015779/what-buddhism-can-do-ai-ethics/",
-      "originalUrl": "https://www.technologyreview.com/2021/01/06/1015779/what-buddhism-can-do-ai-ethics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/01/SA_celine-haeberly-DwpmtAo01fY-unsplash.jpeg?w=3000",
-          "width": 3000,
-          "height": 1688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2021/01/06/1015779/what-buddhism-can-do-ai-ethics/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/01/06/1015779/what-buddhism-can-do-ai-ethics/amp/",
-      "publishedDateTime": "2021-01-06T03:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

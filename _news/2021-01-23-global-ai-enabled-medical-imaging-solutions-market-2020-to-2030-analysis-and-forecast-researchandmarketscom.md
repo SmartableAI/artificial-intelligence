@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market 2021 Share, Size, Production, Sales, Supply, Demand, Analysis and Forecast to 2026"
-    excerpt: "Jan (The Expresswire) -- Global “Artificial Intelligence Market” research report contains in depth information of industry by size,"
-    publishedDateTime: 2021-01-21T03:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2021-share-size-production-sales-supply-demand-analysis-and-forecast-to-2026-2021-01-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) in Fintech Market Size, Historical Growth, Analysis, Opportunities and Forecast To 2025"
     excerpt: "Selbyville, Delaware According to the research report titled 'Global Artificial Intelligence (AI) in Fintech Market Analysis, 2020', available with Market Study Report LLC, global artificial intelligence (AI) in fintech market is projected to accrue massive returns,"
     publishedDateTime: 2021-01-21T08:21:00Z
@@ -145,6 +131,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Automotive Market Likely to Emerge by 2026| Industry Insights, COVID-19 Impact, Analysis, Opportunities"
+    excerpt: "Jan (Market Insight Reports) -- Selbyville, Delaware, MarketStudyReport.com offers report on Global Artificial Intelligence (AI) in"
+    publishedDateTime: 2021-01-25T19:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-likely-to-emerge-by-2026-industry-insights-covid-19-impact-analysis-opportunities-2021-01-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -273,34 +273,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Data Center Accelerator Market Size 2021 Research Findings, Market Growth Factors Analysis and Forecasts – 2026"
-    excerpt: "In 2021 , Data Center Accelerator Market :- Modern data centers are being transformed to increase networking bandwidth"
-    publishedDateTime: 2021-01-21T04:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-data-center-accelerator-market-size-2021-research-findings-market-growth-factors-analysis-and-forecasts-2026-2021-01-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Voice Recognition Software Market Share 2021 Top Key Players, Analysis, Revenue, Price, Size, Growth Rate, Forecast by 2026"
-    excerpt: "Global “ Voice Recognition Software Market ” research report contains in depth information of industry by size, major manufacturers, growth rate, drivers and challenges, industry trends, and their impact on the market till the forecast year 2026."
-    publishedDateTime: 2021-01-21T03:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-software-market-share-2021-top-key-players-analysis-revenue-price-size-growth-rate-forecast-by-2026-2021-01-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 28
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

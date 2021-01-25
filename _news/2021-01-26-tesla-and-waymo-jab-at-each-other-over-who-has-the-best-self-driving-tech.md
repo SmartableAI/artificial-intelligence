@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Waymo CEO Blasts Tesla’s Self-Driving Tech"
+    excerpt: "Once again, extremely niche trash talk is being exchanged in the world of self-driving cars. John Krafcik, the CEO of the Google-affiliated self-driving car company Waym"
+    publishedDateTime: 2021-01-25T17:16:00Z
+    webUrl: "https://futurism.com/the-byte/waymo-ceo-blasts-teslas-self-driving-tech"
+    ampWebUrl: "https://futurism.com/waymo-ceo-blasts-teslas-self-driving-tech/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/waymo-ceo-blasts-teslas-self-driving-tech/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 74
+    images:
+      - url: "https://wp-assets.futurism.com/2021/01/waymo-tes-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Elon Musk gives replay to Waymo boss for doubting Tesla's full self-driving system"
     excerpt: "Tesla CEO Elon Musk has countered recent remarks by CEO of Google’s self-driving unit Waymo that Tesla has taken a misguided approach to develop..|News Track"
     publishedDateTime: 2021-01-25T10:05:00Z
@@ -102,6 +118,6 @@ related:
       domain: bizjournals.com
     quality: 54
 
-secured: "dMbxw4tSTXEVED0JhzqzzMnV6301RpQTk4KmhZmY78cpzgAOMUZeq3bFIvyZBX9hyIZMoX+XUqXmYKMezcIysH/Wag/SVrcCTM6w3wCwxPePZkbYXYNhK+bA/SnNocrCIQ5jpTnSoV5WfBpOIvTqY2S6EOvJU+B0Ly3bEMVpAg1Rs+xVgZ95a8nyBmKjmyKQQzDAIWP3edXBavCYFcg0FWHAa0eS+IGq4iovOPPrrNqSnV7u33p8RsURHXIzJsYWuMYEP5dC8c1sc5Nymp/ElFOSRZDww50/iNA0JdkMKJEWgMdkc/MlV8kJAbqH+N780JfNbcQyROpehGCO6c6SQQIH29DfMO4fr/OTZ1WfAQc=;Cj0wQKiOvRDCoskST6AEjQ=="
+secured: "WHLfCYMpn9XYNTrfyWMai/HsNldNZ4FWU3pvEsLO8zOr37Y0w1PKeupWQG4BJVhaPOVgcHC/nMmfaH4GTt/Nyr5Z5J/M0rKBifg0AtDIKpWK4dLZElX4yAt5Vapsrs3xXRDAy03uS45FvMoEjFqA19ohH9v7A2uoWoW8je95WMcDIEhAZ1iA2IVW+QCkDIMYG9XL7D/MlYqdlqzBeNzKoOvXzuXpoWizn0FWcMEIhdF7KLe0B4JhWQRcB+ZJJm+Iy+gU9G/040pylaHeUzi0YUaDD4u4k4CwvKEf9xHXIJmYbufIOxNf8MnqUUrHaajyw/0gyLwjzmZN4CXY5tknQpjRU4yIw5ScLIjBsjbpp4pjCx7SyYNLygJ/YU0OvCcfQmH5kFyKQO3CWL+MGFBki9z9YiTgpqfScZoXVgfWTEBoIu+kbYg8LZc7B2Y2y/f/XUj+BZj84N//R/t3lYSeNHBF/xqgtWcLLsBe920ETtejGegwfhzQYEuFk5UbA1sVwQd1xy1+HOTNndUyYNfqLg==;gH/OmRUIGeAS7IhnqP5NRw=="
 ---
 

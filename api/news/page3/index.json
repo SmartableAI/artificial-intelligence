@@ -2,6 +2,204 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-22-computer-vision-market-2020-to-2025rising-demand-share-trends-growth-opportunities.md",
+      "title": "Computer Vision Market 2020 to 2025|Rising Demand, Share, Trends, Growth, Opportunities",
+      "excerpt": "The Final Report will cover the impact analysis of COVID-19 on this industry: Computer Vision can be best defined as a branch of computer science which deals with improving the digitization and processing of computer aided tasks for better understanding.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-2020-to-2025rising-demand-share-trends-growth-opportunities-2021-01-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-2020-to-2025rising-demand-share-trends-growth-opportunities-2021-01-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-21T23:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-ai-systems-to-get-an-ethics-code-dod.md",
+      "title": "AI Systems to get an Ethics Code: DoD",
+      "excerpt": "Ethical considerations will go into Artificial Intelligence (AI)’s design and employment because it enables autonomy, decision making and system execution at incredibly fast speeds, a DoD official said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.defenseworld.net/news/28810/AI_Systems_to_get_an_Ethics_Code__DoD",
+      "originalUrl": "https://www.defenseworld.net/news/28810/AI_Systems_to_get_an_Ethics_Code__DoD",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.defenseworld.net/uploads//news/big/autonomou_1608524511.jpg",
+          "width": 640,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-21T21:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Defense World",
+        "domain": "defenseworld.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-this-start-up-founder-sees-a-data-privacy-reckoning-on-the-horizon.md",
+      "title": "This Start-Up Founder Sees A Data Privacy Reckoning On The Horizon",
+      "excerpt": "Patricia Thaine is a young start-up founder of Private AI, creating a suite of privacy tools. She discusses the state of privacy, how we got here, whether privacy as a default becomes the norm and how Private AI will enable this new normal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/hessiejones/2021/01/21/this-start-up-founder-sees-a-data-privacy-reckoning-on-the-horizon/",
+      "originalUrl": "https://www.forbes.com/sites/hessiejones/2021/01/21/this-start-up-founder-sees-a-data-privacy-reckoning-on-the-horizon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600a3e8f7f4f95414914aafb%2F0x0.jpg",
+          "width": 1200,
+          "height": 908,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/hessiejones/2021/01/21/this-start-up-founder-sees-a-data-privacy-reckoning-on-the-horizon/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hessiejones/2021/01/21/this-start-up-founder-sees-a-data-privacy-reckoning-on-the-horizon/amp/",
+      "publishedDateTime": "2021-01-21T19:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-5g-fintech-and-mega-projects-what-2021-will-mean-for-tech-in-the-middle-east.md",
+      "title": "5G, fintech and mega-projects: What 2021 will mean for tech in the Middle East",
+      "excerpt": "The MENA region is in the middle of a digital transformation, which 2020 and COVID-19 has only accelerated. I asked five experts to share the tech trends they see influencing the Middle East and North Africa (MENA) this year,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/5g-fintech-and-mega-projects-what-2021-will-mean-for-tech-in-the-middle-east/",
+      "originalUrl": "https://www.zdnet.com/article/5g-fintech-and-mega-projects-what-2021-will-mean-for-tech-in-the-middle-east/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/01/14/fe0581d7-3dc7-4fa7-a1c5-25388306266b/thumbnail/1200x675/990265b0101deff5bded0bc31bc9276b/us-troops-deploying-to-the-middle-east-t-5e1db2285413ee0001a552fc-1-jan-14-2020-13-17-19-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/5g-fintech-and-mega-projects-what-2021-will-mean-for-tech-in-the-middle-east/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/5g-fintech-and-mega-projects-what-2021-will-mean-for-tech-in-the-middle-east/",
+      "publishedDateTime": "2021-01-21T19:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-22-the-new-raspberry-pi-pico-is-an-incredibly-powerful-little-chip-for-just-4.md",
       "title": "The new Raspberry Pi Pico is an incredibly powerful little chip for just $4",
       "excerpt": "The Pico is the first microcontroller board from Raspberry Pi and has been built around the new, custom RP2040 chip.",
@@ -519,7 +717,7 @@
       "originalUrl": "https://thenextweb.com/neural/2021/01/21/google-union-slams-companys-treatment-of-ai-ethics-researchers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -819,7 +1017,7 @@
       "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-medical-research-artificial-intelligence-communication-technology-integrated-circuits-840d518726887292c8cb151d76072b60",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1060,196 +1258,6 @@
         "Facebook AI",
         "AI Ethics",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-google-and-its-ethics-ai-team-row-what-we-know-so-far.md",
-      "title": "Google and its ethics AI team row: What we know so far",
-      "excerpt": "Google has drawn major criticism on the move of sudden investigation of Mitchell and suspension of her system access.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/world-news/google-and-its-ethics-ai-team-row-what-we-know-so-far-101611227280286.html",
-      "originalUrl": "https://www.hindustantimes.com/world-news/google-and-its-ethics-ai-team-row-what-we-know-so-far-101611227280286.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/img/2021/01/21/550x309/AFP_8Z94GT_1611227607102_1611227625827.jpg",
-          "width": 549,
-          "height": 309,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/world-news/google-and-its-ethics-ai-team-row-what-we-know-so-far-101611227280286-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/world-news/google-and-its-ethics-ai-team-row-what-we-know-so-far-101611227280286-amp.html",
-      "publishedDateTime": "2021-01-21T03:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-conversational-artificial-intelligence-ai-market-expectations-and-growth-trends-highlighted-until-2024.md",
-      "title": "Conversational Artificial Intelligence (AI) Market Expectations and Growth Trends Highlighted Until 2024",
-      "excerpt": "Available Exclusive Sample Copy of this Report @  The global market for conversational artificial intelligence (AI) is estimated to grow at a significant rate during the forecast period from 2019 to 2024.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-ai-market-expectations-and-growth-trends-highlighted-until-2024-2021-01-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-ai-market-expectations-and-growth-trends-highlighted-until-2024-2021-01-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-21T03:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-artificial-intelligence-in-retail-market-to-witness-a-healthy-growth-by-2023.md",
-      "title": "Artificial Intelligence in Retail Market to Witness a Healthy Growth by 2023",
-      "excerpt": "Artificial Intelligence is expected to disrupt every business and enterprises across the world. One of the major factors",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-to-witness-a-healthy-growth-by-2023-2021-01-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-to-witness-a-healthy-growth-by-2023-2021-01-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-21T03:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-trump-pardons-former-google-self-driving-car-engineer-anthony-levandowski.md",
-      "title": "Trump pardons former Google self-driving car engineer Anthony Levandowski",
-      "excerpt": "Donald Trump has given a full pardon to Anthony Levandowski, a former Google engineer who stole trade secret on self-driving cars.Read MoreRead",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/trump-pardons-former-google-self-driving-car-engineer-anthony-levandowski-9713165",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/trump-pardons-former-google-self-driving-car-engineer-anthony-levandowski-9713165",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/trump-pardons-former-google-self-driving-car-engineer-anthony-levandowski-9713165",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/trump-pardons-former-google-self-driving-car-engineer-anthony-levandowski-9713165",
-      "publishedDateTime": "2021-01-20T23:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],
