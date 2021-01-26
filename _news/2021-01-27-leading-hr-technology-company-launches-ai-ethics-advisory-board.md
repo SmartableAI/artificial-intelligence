@@ -65,6 +65,6 @@ related:
       domain: compsmag.com
     quality: 41
 
-secured: "w/kvljMqcSL2izlfcNcMQ7prMxmZ+jK7oN48gEYa/xoo0JryZz+LjGDT3HY/UkOIduMPBV2xUUdqlbKJON0THFWS2s/zqQiWfthldJ57k6ptRJyVn1PIDARCKS9sPLEabc/dyyW4yZF//2oi6yThV48MpUg6TJ2zhgDwymqm/2rFracTs8P8GZYcrVlCUgOUxz6wAHSybtGkB7R83q1I7rDuytKiNVB5r4FarkZgyLqfqYHTPFsBrqDZ/Ozy2dDi7eanngrraAiMHYAfnttU8EYbzaQV9nAzwRF71t6z84K8essuCHPmNKUysdPFJBMWpyiVmcggc5K4AALz+I4gZV0x9i5dMriNSD60ULAR//w=;2LxBaDNSDWhm6jRlbhVaTg=="
+secured: "LvnB6Tm9P/Fp5ZdlnC7kkltT19lDlZZL1AxAUVzKaupFJ0IcbhOfSm/Oh1xD7LFkfLn40wp1Nl9vwv0G/gGACQMlAAdIyhwW66SHseRG3syzRucYI5R+qkXrXKvOYqz2aV7D07X2BADd6zBX9Dvu7TRf4+WcamvkutdzNowpBi/MfTnDUn+Q+lqicfWpjeCSTS+2ADjjP6uNTu8+vs9AOpv6pT2+puHsvqf5j1WOT+WBly4DCi1OzTwj2OSlOr2oI9cZFRW9k+eiaILnFleTC77Ryi5hPCa24xFaB7qM3HswM8mFBWlkG8HvyNrjt0JuEfOx8Qr2AlvBBFib/DXZPM2WsusE2C2B6oyIXrPQeGQ=;cmg+kD2sUdzKttpDczKoFg=="
 ---
 

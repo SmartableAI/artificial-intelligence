@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/26/sales-startup-insent-ai-raises-2-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/26/sales-startup-insent-ai-raises-2-million-to-expand-its-data-strategy-with-automated-chatbots/amp/"
 type: article
 quality: 93
-heat: 133
+heat: 143
 published: true
 
 provider:
@@ -92,6 +92,20 @@ related:
       - url: "https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg"
         width: 400
         height: 400
+        isCached: true
+  - title: "Research Methods and Data Science Offers a Hands-On Experience with Chatbots"
+    excerpt: "Learn more about chatbots with (RMDS)’s virtual course “Everything About Chatbots: A Hands on Journey,” starting at 5 p.m. Wednesday, Jan. 27. The webinar continues every Wednesday up to Feb. 24. For those who are not familiar with the term,"
+    publishedDateTime: 2021-01-25T00:00:00Z
+    webUrl: "https://www.pasadenanow.com/weekendr/research-methods-and-data-science-offers-a-hands-on-experience-with-chatbots/"
+    type: article
+    provider:
+      name: Pasadena Now
+      domain: pasadenanow.com
+    quality: 21
+    images:
+      - url: "https://www.pasadenanow.com/weekendr/wp-content/uploads/2021/01/2020-04-09-JK-Automotive-300x250-copy.jpg"
+        width: 300
+        height: 250
         isCached: true
 
 secured: "42AJsqUF5SO0QNIsz7sViGP/TnY0WpNskrJgqqot6opJrsdYMXXMjGcriv83Vba2HNiI4cFT942GUImUvuG3JhzNgMtKAoLKAGQPOIgwk1xq3nCRRxbcbJBaumUwhyCpTzY5wG8nCJxpNkOnvLzCb7W/whLP2X781ij0X2F9upkEgNNVbFF8sif+0/kkn2TkTI1r54UCHwY3ggzm2E3DgXouxIDhC3voSVtMB21lQwLQNkWFgZj1mGCCATWKeEYDK1hkRy/et6eXp9OFto8/k1hU2Ai0sUM5zhrBzCwMTAe+rEo5iyh0ssnBT/4q49WDVPK0Wr2dohJriz9h7qnTHVTd2q+DyET0OIZPQ3cN9tw=;MH8rSYH0AbhLBUzjikNVgw=="

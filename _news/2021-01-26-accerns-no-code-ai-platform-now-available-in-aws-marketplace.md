@@ -3,27 +3,25 @@ category: news
 title: "Accern's No-Code AI Platform Now Available in AWS Marketplace"
 excerpt: "Accern, a leading no-code, artificial intelligence (AI) company today announced that its no-code AI platform will now be available"
 publishedDateTime: 2021-01-26T15:15:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/01/n19323864/accerns-no-code-ai-platform-now-available-in-aws-marketplace"
-webUrl: "https://www.benzinga.com/pressreleases/21/01/n19323864/accerns-no-code-ai-platform-now-available-in-aws-marketplace"
-ampWebUrl: "https://amp.benzinga.com/amp/content/19323864"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19323864"
+originalUrl: "https://www.prnewswire.com/news-releases/accerns-no-code-ai-platform-now-available-in-aws-marketplace-301215278.html"
+webUrl: "https://www.prnewswire.com/news-releases/accerns-no-code-ai-platform-now-available-in-aws-marketplace-301215278.html"
 type: article
-quality: 74
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1276354/Accern_Logo.jpg"
-    width: 400
-    height: 400
+  - url: "https://mma.prnewswire.com/media/1276354/Accern_Logo.jpg?p=facebook"
+    width: 2700
+    height: 1414
     isCached: true
 
 related:
@@ -72,6 +70,6 @@ related:
         height: 512
         isCached: true
 
-secured: "qYn4TYUFwazzGtVdLXCfygwZJsErDMzRhKhcpd9P3EIWwH9b6G/dJlTNG29PVDWNQSsdNSAMUckUfiRWE4JSlr5wTsHjyIkis4R6y06B5jNEhJS1eShMJZNWyUZaro3vDbElayKU1NfOYSasav7FMjmpLuRf5eZwmyRfX/XxHd/dNNfkg+fz0vw76MJIXhEmwlQ5hToMte/pSNQBMAB2xJu+nt6i16031b7Qd/qBwJtQshmMtphlNu/L6dbrAUmBoZFxGMs1LN6cYnqVOM5mEonmXMfnuNNkKYWm7svVjkO5vkb2sSXpWnBk7c2srQDrIFpoghL2gFNUBtdG8XuNpdGeTlpJPc6kgxdhGRTMJ/U=;iXTrucW3x/BEbzEz6ITzXQ=="
+secured: "SqP/jDmRtiSfTsardyOX0RTaqsgfyOeNRP9QnhNghvkwgVLNeJmjFeeAsLdhzoeF3O5Azsf0UdQFanfVNJRIisI89+gHwsnIfn8MNq820qiseNdW4keMChjvGsfcQkMOe2kPydK7bd3WvacQC+rGXz37PDzSd8DkwxwRpaRZSrTC9BoP/cc1P6Qm6zlNmGXRnjvfKUJodDMuSulK+GblgT06xiva0e79uP3RnBw0XcolyeHkT0RMzgwVIBgq60aZvNMlMa6GcCirWbuuTrcE5WS6f3Hvw2iS45twvt5cunj+KYLvBd/lzxDLu7HU2oURgpw24LM4SXVLjR2W7l5Mc9+4t3frn2lCIF+3mGnbUjg=;DyS9KWx6OmVAZeSlaX7hSA=="
 ---
 

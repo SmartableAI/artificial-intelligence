@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Accern's No-Code AI Platform Now Available in AWS Marketplace"
-    excerpt: "Accern, a leading no-code, artificial intelligence (AI) company today announced that its no-code AI platform will now be available"
-    publishedDateTime: 2021-01-26T15:15:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/n19323864/accerns-no-code-ai-platform-now-available-in-aws-marketplace"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19323864"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19323864"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 74
-    images:
-      - url: "https://mma.prnewswire.com/media/1276354/Accern_Logo.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "New AI System Accelerates Speech Therapy"
     excerpt: "TikTalk, a new, artificial intelligence-based (AI) system can accelerate speech therapy with unparalleled lesson customization and innovative training for K-6-aged children using highly engaging video games to encourage more frequent home practice."
     publishedDateTime: 2021-01-23T18:33:00Z
@@ -73,6 +57,20 @@ related:
       - url: "https://www.finextra.com/about/finextra-logo.png"
         width: 512
         height: 512
+        isCached: true
+  - title: "Accern's No-Code AI Platform Now Available in AWS Marketplace"
+    excerpt: "Accern, a leading no-code, artificial intelligence (AI) company today announced that its no-code AI platform will now be available"
+    publishedDateTime: 2021-01-26T15:15:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/accerns-no-code-ai-platform-now-available-in-aws-marketplace-301215278.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 54
+    images:
+      - url: "https://mma.prnewswire.com/media/1276354/Accern_Logo.jpg?p=facebook"
+        width: 2700
+        height: 1414
         isCached: true
 
 secured: "Ta7C/ISMuW4ZTMTth5rzCzxz4XcpdBwqqy+uDs3dTjhuIUJlSTgYEeb/IesnKY9nYfEUNq3KwF0Bxat5YFM/SEeAXj4jucyRDH5OfidndMlRiC/Ylc/hLeVi9MlTYQiUoxeGJRapucNy5ZsEoC3pcFIFSS0YvVa+T3/1/orqRQFRVugEHPiiZa1ruGIZexj2fFyNC1cg3iUpGGwZY1rwEjtmNbbnYN+HjCYDJ49OAwf+buFSevR+tjwUUkiX9y+LFCOo8GAUCd7ui5ojdUk1ROXysh5/TuugbvJSxBd0G1/CWjrDKDi+wDEFCBaLGcuYXcWJuN5PzlwHwHdSwAI7NmHg3wSQm1/pDsO5/je5DNzXwuHe4ywkG3l7Y8gUhXJV2fAOwFQXgmMaLhn9ea2OvCSmZYCtE4J8+ctKfMTVNrFWth/2k8VV8Zq1wrz+1lvHw1QG/H9ej/IFaHYyKZqxA3zXuuvaaPz7ATGTGnifA1In2MjrCTlFYTrA+sJ/HNgmL+zETh74NvzOk6yJk/265w==;FtkG2yJvIrCSrztgBu8Ukw=="

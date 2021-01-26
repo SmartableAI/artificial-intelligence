@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wlwt.com/amp/article/sen-sherrod-brown-files-ethics-comp
 cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/sen-sherrod-brown-files-ethics-complaint-against-ted-cruz-josh-hawley/35290144"
 type: article
 quality: 76
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -91,22 +91,6 @@ related:
       - url: "https://media.12newsnow.com/assets/KSDK/images/f469da1b-de70-4cab-b04e-b669eb1e3295/f469da1b-de70-4cab-b04e-b669eb1e3295_1140x641.jpg"
         width: 1140
         height: 641
-        isCached: true
-  - title: "Oregon’s Ron Wyden among 7 Democrats asking ethics panel to investigate Ted Cruz, Josh Hawley"
-    excerpt: "They asked whether the senators failed to put loyalty “to the highest moral principles and to country above loyalty to persons, party, or Government department.”"
-    publishedDateTime: 2021-01-22T06:00:00Z
-    webUrl: "https://www.oregonlive.com/politics/2021/01/oregons-ron-wyden-among-7-democrats-asking-ethics-panel-to-investigate-ted-cruz-josh-hawley.html"
-    ampWebUrl: "https://www.oregonlive.com/politics/2021/01/oregons-ron-wyden-among-7-democrats-asking-ethics-panel-to-investigate-ted-cruz-josh-hawley.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2021/01/oregons-ron-wyden-among-7-democrats-asking-ethics-panel-to-investigate-ted-cruz-josh-hawley.html?outputType=amp"
-    type: article
-    provider:
-      name: Oregonian
-      domain: oregonlive.com
-    quality: 50
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/HCX4STLNIFDFFKPDMINP53A4WA.JPG"
-        width: 4839
-        height: 3226
         isCached: true
   - title: "Democrats seek investigation of Cruz, Hawley"
     excerpt: "The Democratic senators said the question for the Senate to determine is whether Hawley and Cruz failed to put loyalty “to the highest moral principles and to country above loyalty to persons, party,"

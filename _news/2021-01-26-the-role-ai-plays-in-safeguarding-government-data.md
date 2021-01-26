@@ -7,7 +7,7 @@ originalUrl: "https://www.nextgov.com/ideas/2021/01/role-ai-plays-safeguarding-g
 webUrl: "https://www.nextgov.com/ideas/2021/01/role-ai-plays-safeguarding-government-data/171602/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 400
     height: 400
     isCached: true
+
+related:
+  - title: "The AI Incident Database Aims to Make AI Algorithms Safer"
+    excerpt: "Any sufficiently large system will have errors, and part of correcting for these errors is having a database of these errors that can be analyzed for impacts and potential causes. Much like the FDA maintains a database for adverse medication reactions or the National Transportation Safety Board maintains a database for aviation accidents,"
+    publishedDateTime: 2021-01-26T22:30:00Z
+    webUrl: "https://www.unite.ai/the-ai-incident-database-aims-to-make-ai-algorithms-safer/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 39
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.f8AX~1c8f3/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2021/01/AIID.png"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "oBF/g96/7EKNczcKBCW0TIgLNpudQkB9igcG+HRr85maSb1SzdMAFXRslDWtWo1ByGyAiQlmV1yOkjXVMpwWXC4zZmuk1KP37C9nb3MbxRew0iEOvQXGA5OR37pVw39Wg9DgvTHP5aofueS/TKMnuzKnNv4yFZu4zaJBToeVXvZ6072wdtzfCSBVKLMsocCLEJCzzHqRGdrO/tMWrrEitSF7NJYzAu0D17DC/odmXXdUTqRtr7v+vfhqshHv0CN0lVpFkKij8cxVfPTHGSWeTuyoKvDViBDJdUt1sVh4cWNm4MCcJe71vE5iMu38fcGKAYbpvk3HYeVFdqI31CA1vplrYRi4550kZvax/HEpZWM=;XKgZews1y2kdomX05CIc+Q=="
 ---

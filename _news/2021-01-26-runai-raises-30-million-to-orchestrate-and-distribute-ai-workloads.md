@@ -93,6 +93,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Research Methods and Data Science Offers a Hands-On Experience with Chatbots"
+    excerpt: "Learn more about chatbots with (RMDS)’s virtual course “Everything About Chatbots: A Hands on Journey,” starting at 5 p.m. Wednesday, Jan. 27. The webinar continues every Wednesday up to Feb. 24. For those who are not familiar with the term,"
+    publishedDateTime: 2021-01-25T00:00:00Z
+    webUrl: "https://www.pasadenanow.com/weekendr/research-methods-and-data-science-offers-a-hands-on-experience-with-chatbots/"
+    type: article
+    provider:
+      name: Pasadena Now
+      domain: pasadenanow.com
+    quality: 21
+    images:
+      - url: "https://www.pasadenanow.com/weekendr/wp-content/uploads/2021/01/2020-04-09-JK-Automotive-300x250-copy.jpg"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "5kVr/zJkikGPQPYLsHGb4uH24kDtAjWN5vrvEzoEMf4sH8Gt1b6CxTOP6OcBMBr+PzEo4wm/3PMFKwRbmnCjgAGwE4e6YSNMpIAwaRJ6VTq78rMVOBm/ZGuowY/sis2HJ8SVn7h0jqo3gcSIoh/lSKAkG3BgtAOhOF2AAuw3juA5640HqhDAAsJR9vjIBN5bZXBARrsPTBL/vK1HkSsh8Gscyo8TQWtCg82J0+33q342WVa960nj28Xoa11aArtdNH5F7xjxkdfdT2wf/1iBv8xy1oagThS8PqMxV0a17rrksn5bcdvz/twxehFaV7k2zrYm1CGdSHMEhdxN3heoRRhOUmPL+QQtcRPby0Py2lw=;N3EgUDBpu1D2D9KU6EQ1iQ=="
 ---

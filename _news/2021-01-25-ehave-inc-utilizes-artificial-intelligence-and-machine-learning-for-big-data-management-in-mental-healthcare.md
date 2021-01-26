@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/Ehave-Inc-Utilizes-Arti
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Ehave-Inc-Utilizes-Artificial-Intelligence-and-Machine-Learning-for-Big-Data-Management-in-Mental-Healthcare-1029999161"
 type: article
 quality: 81
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -37,6 +37,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 81
+  - title: "Ehave, Inc. Utilizes Artificial Intelligence and Machine Learning for Big Data Management in Mental Healthcare"
+    excerpt: "Ehave, Inc. (OTC Pink: EHVVF) (the “Company”), a provider of digital therapeutics for the psychedelic and mental health sectors, announced today plans to continue to address the needs of big data management in mental healthcare."
+    publishedDateTime: 2021-01-26T19:25:00Z
+    webUrl: "https://www.globalbankingandfinance.com/category/news/ehave-inc-utilizes-artificial-intelligence-and-machine-learning-for-big-data-management-in-mental-healthcare/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 53
+    images:
+      - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "New Deep Learning Discovery Paves Way for AI Interpretation of Brainwave Data"
     excerpt: "Interpreting the results of electroencephalogram (EEG) graphs, which are used to visualize brain activity of everything from meditation"
     publishedDateTime: 2021-01-25T23:30:00Z

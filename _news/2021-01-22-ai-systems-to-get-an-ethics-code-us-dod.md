@@ -7,7 +7,7 @@ originalUrl: "https://www.defenseworld.net/news/28810/AI_Systems_to_get_an_Ethic
 webUrl: "https://www.defenseworld.net/news/28810/AI_Systems_to_get_an_Ethics_Code__U_S__DoD"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Systems to get an Ethics Code: DoD"
-    excerpt: "Ethical considerations will go into Artificial Intelligence (AI)’s design and employment because it enables autonomy, decision making and system execution at incredibly fast speeds, a DoD official said."
-    publishedDateTime: 2021-01-22T05:17:00Z
-    webUrl: "https://www.defenseworld.net/news/28810/AI_Systems_to_get_an_Ethics_Code__DoD"
-    type: article
-    provider:
-      name: Defense World
-      domain: defenseworld.net
-    quality: 54
-    images:
-      - url: "https://www.defenseworld.net/uploads//news/big/autonomou_1608524511.jpg"
-        width: 640
-        height: 427
-        isCached: true
   - title: "DOD’s Alka Patel: AI Ethics Must Apply to All Military AI Systems"
     excerpt: "Alka Patel, who leads artificial intelligence ethics policy at the Joint AI Center (JAIC), said Department of Defense (DOD) officials believe ethical concerns must be applied to the technology's design and use,"
     publishedDateTime: 2021-01-22T21:51:00Z

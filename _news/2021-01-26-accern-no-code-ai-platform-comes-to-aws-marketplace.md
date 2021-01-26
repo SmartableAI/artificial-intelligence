@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 534
         isCached: true
-  - title: "Accern's No-Code AI Platform Now Available in AWS Marketplace"
-    excerpt: "Accern, a leading no-code, artificial intelligence (AI) company today announced that its no-code AI platform will now be available"
-    publishedDateTime: 2021-01-26T15:15:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/n19323864/accerns-no-code-ai-platform-now-available-in-aws-marketplace"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19323864"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19323864"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 74
-    images:
-      - url: "https://mma.prnewswire.com/media/1276354/Accern_Logo.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "New AI System Accelerates Speech Therapy"
     excerpt: "TikTalk, a new, artificial intelligence-based (AI) system can accelerate speech therapy with unparalleled lesson customization and innovative training for K-6-aged children using highly engaging video games to encourage more frequent home practice."
     publishedDateTime: 2021-01-23T18:33:00Z
@@ -70,6 +54,20 @@ related:
       - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.f8AX~1c8f3/w:945/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2021/01/speech3.jpg"
         width: 945
         height: 600
+        isCached: true
+  - title: "Accern's No-Code AI Platform Now Available in AWS Marketplace"
+    excerpt: "Accern, a leading no-code, artificial intelligence (AI) company today announced that its no-code AI platform will now be available"
+    publishedDateTime: 2021-01-26T15:15:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/accerns-no-code-ai-platform-now-available-in-aws-marketplace-301215278.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 54
+    images:
+      - url: "https://mma.prnewswire.com/media/1276354/Accern_Logo.jpg?p=facebook"
+        width: 2700
+        height: 1414
         isCached: true
 
 secured: "+vypDtwOwFfmLSL/X0btCGHIuUtUs+r0ijqd4ywjfECjY2uFf5+jBA91D1QUR7uj8ze9BBZ6OK+Bmv8uGI30bo6T0GIIsdAYjzgdR4Dtme2Sc9mdvyfdSKsZN9NEDPz3TZD8uYN3pXPwCapJSqd9+1DqIoPgtk8pKzOsv6L3lbhp8KeWbVOqDfAzcVR1muiemVTK3x05dRJ7w7mPrbAkYJpozO0PIRWKZHWr5KmKtgAJOi4hCFXjLiPjiB3+bCIqNrMKUN8uLPu5jZOTsGp2WV0LtueDF1nPgnoWPdoiIXHJLgr4x9M8rUGm6jDazgkEOkUupw2u67kWzkDRDryXITmDCx0/6S0/Bj/C6z17zVw=;FWbLKVYi8TSmEi30xiCYjg=="

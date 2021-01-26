@@ -2,27 +2,28 @@
 category: news
 title: "Artificial Intelligence (AI) Delivers for CloudCommerce"
 excerpt: "Our clients are reaping the benefit of our real-world application of artificial intelligence. Our goal is to continue to work toward potentially reducing the costs of advertising by as much as 50%.” The Company is developing SWARM into a cloud hosted software platform that will harness the power of artificial intelligence,"
-publishedDateTime: 2021-01-26T08:26:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-marketing-and-advertising-corporate-news-marketing-campaigns-66fd70c577a5eeeb50e3990141edbed3"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-marketing-and-advertising-corporate-news-marketing-campaigns-66fd70c577a5eeeb50e3990141edbed3"
+publishedDateTime: 2021-01-26T08:24:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-ai-delivers-for-cloudcommerce-1030002696"
+webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-ai-delivers-for-cloudcommerce-1030002696"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/Artificial-Intelligence-AI-Delivers-for-CloudCommerce-1030002696"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Artificial-Intelligence-AI-Delivers-for-CloudCommerce-1030002696"
 type: article
-quality: 52
-heat: 52
-published: false
+quality: 84
+heat: 84
+published: true
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - Facebook AI
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "XDRDGO2EThsO2V+l4jwnWaMwJw1D8Qgg/6ajlaV5AyQnMoMcNCey5b7osgkZGh4Kc5rr68QHfU0EId5F7Sieq8pJWLH3BVfZiMrnuscsrQ0L6HI0LrH9vsU9TMyDRspBzEZ4Mtp4iiXw+RtRNn8kf5hKjsqxisg7yT6Pc34cHDKI2nrf3d3b1KrCsfy8chwgCyMctfS5emPuP4M4fB7sH3gIFBkPqxEd3iG78zbGeHRbGSikzdrvO1exsW7mG736cV0pJyCC5VpqSkzN3a7Rvqs6HPMkY1c4/3Rg3KEGYAbiBgWkCujjJTkN6snpmpsgd2VEiuH2hoZP4XlHD2auwPLfdXnmq7DdMADhiWDCdRU=;6Vt/kH6BxIQYxldQ88KNLg=="
+secured: "EpoNQz4cvSmHYuV6TUTW1mAbm9iTj0zCPAs/ZS5ujJt9xVFmbaJBGk9v/ON/9n2EDsD+VwwDtUmjVZy5aN/B6oMc+qyaaUASSwX3bxOiF5Ikbi5j3lFlA7XTlla5a2TdKX9cpIFb6ntPqKrKcg99OJ2yovzYnGLpIahWenxvEs+yG5bU7QTbJXzX22//v3MWIIFhOLPBU4iP/qfliB8/04gfNWiW6fVZerl2R503kcYzMjr6ZFbgVkMyZUW/biU7CSoKHIsuVs47ke3wjb1rz8hs00JlG0jfAzOwi8EBsJTciHYeo4E8Ht+hBU6uA3aCwWrOlqYY0EG4HOOwo2DjLo/5xyLGtfyFmJJVKf3O0G8=;KKUaadlI419yYRpErOECHw=="
 ---
 

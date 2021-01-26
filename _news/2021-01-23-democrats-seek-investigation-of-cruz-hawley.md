@@ -107,22 +107,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Oregon’s Ron Wyden among 7 Democrats asking ethics panel to investigate Ted Cruz, Josh Hawley"
-    excerpt: "They asked whether the senators failed to put loyalty “to the highest moral principles and to country above loyalty to persons, party, or Government department.”"
-    publishedDateTime: 2021-01-22T06:00:00Z
-    webUrl: "https://www.oregonlive.com/politics/2021/01/oregons-ron-wyden-among-7-democrats-asking-ethics-panel-to-investigate-ted-cruz-josh-hawley.html"
-    ampWebUrl: "https://www.oregonlive.com/politics/2021/01/oregons-ron-wyden-among-7-democrats-asking-ethics-panel-to-investigate-ted-cruz-josh-hawley.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2021/01/oregons-ron-wyden-among-7-democrats-asking-ethics-panel-to-investigate-ted-cruz-josh-hawley.html?outputType=amp"
-    type: article
-    provider:
-      name: Oregonian
-      domain: oregonlive.com
-    quality: 50
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/HCX4STLNIFDFFKPDMINP53A4WA.JPG"
-        width: 4839
-        height: 3226
-        isCached: true
 
 secured: "sHwWwy2a0bNq9mxbUvOmkCVG1jcPQmurIMF4HY6yrD3jxzUkoYWcyOstYX4miaMS5cIefj8UHqHpU4OB6Cuz/2Q0lR6tc5ZKxNWuc9mun/vtoEDnzZQkTyOMMfEGmJygvefiD+XMOw9E6RRg5DtTKs+4Swqu2MA2iqndho6m5Q6CkUtP5EF9dyuAft0gIQVG8aKZeoInoZ+xyKMG0oJfaEt/oa+pXxOxFVUXKjyqh9iZG3c2dbJIvmxR9NRXwtgVwPqSla8NkIgtXPCjGu0iWr+wleqQ6s6trwzkmbpHe4Oa3PR6xpukFl0UBR41P64RlP8wEEOobCYLvWUd2YsGsIgjCI2YBNcwnIv1G/Mn14s=;/K1DGgX6vX2ch8HKYM4N6A=="
 ---
