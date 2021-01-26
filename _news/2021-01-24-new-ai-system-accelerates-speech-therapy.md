@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 534
         isCached: true
+  - title: "Accern no-code AI platform comes to AWS Marketplace"
+    excerpt: "Accern, a leading no-code, artificial intelligence (AI) company today announced that its no-code AI platform will now be available for subscription in AWS Marketplace."
+    publishedDateTime: 2021-01-26T05:33:00Z
+    webUrl: "https://www.finextra.com/pressarticle/85849/accern-no-code-ai-platform-comes-to-aws-marketplace"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 54
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
 
 secured: "E8CCztDJv6G8q0GSj7vrNjh9sNsyfNka+V0emsacc1ijeukICcOiLY6b4hWFLTnA7laejF/PgguHSLadYsAOrZnF32Vqk1cH0N6v9RXF+O6+l1dvsXLQPGHSF38AKkQIG08m6NlMh3U9K6gopume3tvy781DGp0LQPEMBKQ2DFDGLR2ihY2jrziki1/dRrMp7QhqrwZp8akBQt1phjYKJXWJMRzVMTFciqDT6iaRvTVDn8jsgcvpCc4mWmeapo2jWtLFwHR97WJl5fbGwRzuszuF647z7XAtxBoxsRG7BJJOE7CoskEbWJqex0Ellr/WPpR0zGU50hKTQsVI3tXCAu/SvFjZhesg+w/6qBAhkpnVBYG1sSuZI1S9xPx10WayZJeOb/6YdCP7/jBnpCUoHbxCF48yL1QHh9j3PotktQNGLkSv7xAbWWws3LCBlVEX/COn9SNyz+yizIZgA8o+mUJAvY4aL2B8+gpCdb4SvG0/mjD/xKUXb8RZ+7rPgHEyjjNHNq3uAkiv1pXOMNwBdA==;jUj4ji9SZK7WpNwbHShj/w=="
 ---

@@ -2,6 +2,49 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-01-13-the-weather-company-raises-gpu-storage-forecasts.md",
+      "title": "The Weather Company Raises GPU, Storage Forecasts",
+      "excerpt": "For those who follow supercomputing, weather forecasting is one area to watch for systems that are designed for maximum capability. Unlike the many other",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2021/01/12/the-weather-company-raises-gpu-storage-forecasts/",
+      "originalUrl": "https://www.nextplatform.com/2021/01/12/the-weather-company-raises-gpu-storage-forecasts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/29ibm-web-superJumbo.jpg",
+          "width": 2048,
+          "height": 1365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2021/01/12/the-weather-company-raises-gpu-storage-forecasts/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/01/12/the-weather-company-raises-gpu-storage-forecasts/amp/",
+      "publishedDateTime": "2021-01-12T12:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-kpmgs-marisa-ferrara-boston-embraces-auditing-disruption-with-watson.md",
       "title": "KPMG’s Marisa Ferrara Boston embraces auditing disruption with Watson",
       "excerpt": "“We understand that audit is going to be disrupted,” says Marisa Ferrara Boston, the Automation and AI Lead Architect at KPMG, one of the world’s top providers of auditing services. Marisa is clear-eyed about the seismic shifts that her industry faces, but she is hopeful that with preparation, these",
@@ -662,42 +705,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-13-talkdesk-broadens-machine-learning-capabilities-with-amazon-web-services-contact-center-intelligence.md",
-      "title": "Talkdesk Broadens Machine Learning Capabilities With Amazon Web Services Contact Center Intelligence",
-      "excerpt": "Talkdesk®, Inc., the cloud contact center for innovative enterprises, is participating in the global expansion of Amazon Web Services (AWS) Contact Center Intelligence (CCI) solutions. AWS CCI solutions enable customers to leverage off-the-shelf functionalities powered by AWS machine learning (ML) with their current contact center provider to gain greater efficiencies and deliver increasingly tailored customer experiences — with no ML expertise required.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/talkdesk-broadens-machine-learning-capabilities-with-amazon-web-services-contact-center-intelligence/",
-      "originalUrl": "https://www.financialbuzz.com/talkdesk-broadens-machine-learning-capabilities-with-amazon-web-services-contact-center-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-12T08:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-13-roboflow-raises-21m-for-its-end-to-end-computer-vision-platform.md",
       "title": "Roboflow raises $2.1M for its end-to-end computer vision platform",
       "excerpt": "Roboflow, a startup that aims to simplify the process of building computer vision models, today announced that it has raised a $2.1 million seed round co-led by Lachy Groom and Craft Ventures. Additional investors include Segment co-founder Calvin French-Owen,",
@@ -1063,6 +1070,59 @@
       ]
     },
     {
+      "path": "_news/2021-01-12-amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend.md",
+      "title": "Amid cloud spending boom, Microsoft Azure, AWS gain IT spend",
+      "excerpt": "The COVID-19 pandemic has accelerated spending on digital transformation and cloud and Microsoft and AWS are the big winners.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/price/freetotry/index.php/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/",
+      "originalUrl": "https://www.zdnet.com/index.php/price/freetotry/index.php/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2021/01/09/cc0a1fa0-25c9-463e-9795-f6d360999169/flexera-tech-spend-3.png",
+          "width": 893,
+          "height": 439,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/price/freetotry/index.php/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/price/freetotry/index.php/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/",
+      "publishedDateTime": "2021-01-12T06:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-a-new-technique-called-concept-whitening-promises-to-provide-neural-network-interpretability.md",
       "title": "A new technique called ‘concept whitening’ promises to provide neural network interpretability",
       "excerpt": "\"Concept whitening\" can help steer neural networks toward learning specific concepts without sacrificing performance.",
@@ -1111,40 +1171,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-compeer-financial-delivers-superior-user-experience-with-citrix.md",
-      "title": "Compeer Financial Delivers Superior User Experience with Citrix®",
-      "excerpt": "Our lives are driven by technology and we expect it to be always on and perform flawlessly– especially at work. It’ s a tall order, but one that just got easier to deliver at Compeer Financial, thanks to Citrix Systems,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/compeer-financial-delivers-superior-user-experience-with-citrixr-2021-01-12",
-      "originalUrl": "https://www.nasdaq.com/press-release/compeer-financial-delivers-superior-user-experience-with-citrixr-2021-01-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-12T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

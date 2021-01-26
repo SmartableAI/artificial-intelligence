@@ -2,6 +2,49 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-01-08-seoul-robotics-democratizes-lidar-with-breakthrough-perception-software-platform.md",
+      "title": "Seoul Robotics Democratizes LiDAR With Breakthrough Perception Software Platform",
+      "excerpt": "Seoul Robotics, the 3D computer vision company using AI and machine learning to power the future of mobility, today makes its formal debut to the US market with the announcement of its first commercial product,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-driverless-cars-3d-technology-3ed0d75aa4dbd97fe329a8819573fcd0",
+      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-driverless-cars-3d-technology-3ed0d75aa4dbd97fe329a8819573fcd0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-07T22:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-meet-the-robots-taking-the-virtual-stage-at-ces-2021.md",
       "title": "Meet the robots taking the virtual stage at CES 2021",
       "excerpt": "This year's all-digital CES is going to be a tough one for everyone involved, but it may be even harder if you're a robot. Robots can pique people's interest via the written word or videos, but there's nothing like showing people what you can do in person to really make a good first impression.",
@@ -1136,40 +1179,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-4-stocks-to-gain-traction-from-fintech-evolution-in-2021.md",
-      "title": "4 Stocks to Gain Traction From Fintech Evolution in 2021",
-      "excerpt": "Certain behavioral changes induced by the pandemic like online shopping, cashless payments and no-contact deliveries are here to stay and will continue to boost the Fintech space in 2021 and the years to come.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/4-stocks-to-gain-traction-from-fintech-evolution-in-2021-2021-01-07",
-      "originalUrl": "https://www.nasdaq.com/articles/4-stocks-to-gain-traction-from-fintech-evolution-in-2021-2021-01-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/4-stocks-to-gain-traction-from-fintech-evolution-in-2021-2021-01-07?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-stocks-to-gain-traction-from-fintech-evolution-in-2021-2021-01-07?amp",
-      "publishedDateTime": "2021-01-07T06:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

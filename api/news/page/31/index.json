@@ -2,6 +2,49 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2020-12-29-artificial-intelligence-robotics-market-to-see-major-growth-by-2025-nvidia-intel-ibm.md",
+      "title": "Artificial Intelligence Robotics Market to See Major Growth by 2025: NVIDIA, Intel, IBM",
+      "excerpt": "Latest Study on Artificial Intelligence Robotics Market published by AMA offers a detailed overview of the factors influencing the global business scope Artificial Intelligence Robotics Market research report shows the latest market insights with upcoming trends and breakdown of",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2218051/artificial-intelligence-robotics-market-to-see-major-growth",
+      "originalUrl": "https://www.openpr.com/news/2218051/artificial-intelligence-robotics-market-to-see-major-growth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/c/Tc29648211_g.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2218051/artificial-intelligence-robotics-market-to-see-major-growth",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2218051/artificial-intelligence-robotics-market-to-see-major-growth",
+      "publishedDateTime": "2020-12-28T21:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-29-how-doe-researchers-are-using-ai-and-robots-to-design-the-successor-to-lithium-ion-batteries.md",
       "title": "How DOE Researchers Are Using AI And Robots To Design The Successor To Lithium-Ion Batteries",
       "excerpt": "Building the better battery may be too big a job for humans, according to researchers at the Joint Center for Energy Storage Research, so the researchers are turning to artificial intelligence to find the right ingredients and to robots to make and test them.",
@@ -1147,57 +1190,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-28-youtube-cofounder-steve-chen-launches-hedge-fund-that-uses-ai-to-make-investment-decisions.md",
-      "title": "YouTube Cofounder Steve Chen Launches Hedge Fund That Uses AI To Make Investment Decisions",
-      "excerpt": "YouTube cofounder Steve Chen is partnering with veteran money manager Jack Fu to launch a hedge fund that picks stocks and fixed-income assets through the use of artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ralphjennings/2021/12/27/youtube-cofounder-steve-chen-launches-hedge-fund-that-uses-ai-to-make-investment-decisions/",
-      "originalUrl": "https://www.forbes.com/sites/ralphjennings/2021/12/27/youtube-cofounder-steve-chen-launches-hedge-fund-that-uses-ai-to-make-investment-decisions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe3eddcf2b252f7a283b42b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D676%26cropY1%3D97%26cropY2%3D478",
-          "width": 676,
-          "height": 381,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ralphjennings/2021/12/27/youtube-cofounder-steve-chen-launches-hedge-fund-that-uses-ai-to-make-investment-decisions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ralphjennings/2021/12/27/youtube-cofounder-steve-chen-launches-hedge-fund-that-uses-ai-to-make-investment-decisions/amp/",
-      "publishedDateTime": "2020-12-27T20:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -25,83 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Google union slams company’s treatment of AI ethics researchers"
-    excerpt: "The Alphabet Workers Union said the actions against Margaret Mitchell and Timnit Gebru \"call into question Google’s commitment to ethics.\""
-    publishedDateTime: 2021-01-21T15:02:00Z
-    webUrl: "https://thenextweb.com/neural/2021/01/21/google-union-slams-companys-treatment-of-ai-ethics-researchers/"
-    ampWebUrl: "https://thenextweb.com/neural/2021/01/21/google-union-slams-companys-treatment-of-ai-ethics-researchers/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/21/google-union-slams-companys-treatment-of-ai-ethics-researchers/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 104
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/Untitled-design-2021-01-21T145619.798-796x417.png"
-        width: 796
-        height: 417
-        isCached: true
-  - title: "New Google union condemns investigation of AI ethics researcher"
-    excerpt: "A union of workers at Google and its parent company Alphabet is condemning Google's investigation of an AI ethics researcher."
-    publishedDateTime: 2021-01-21T18:32:00Z
-    webUrl: "https://www.foxbusiness.com/technology/google-union-investigation-ai-ethics-researcher"
-    ampWebUrl: "https://www.foxbusiness.com/technology/google-union-investigation-ai-ethics-researcher.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/google-union-investigation-ai-ethics-researcher.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 74
-    images:
-      - url: "https://media.foxbusiness.com/BrightCove/854081161001/202012/226/854081161001_6218250239001_6218243109001-vs.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "New Google union ‘concerned’ after a senior A.I. ethics researcher is reportedly locked out of her account"
-    excerpt: "The Alphabet Workers Union has said it is concerned over Google's decision to lock Margaret Mitchell, a senior AI ethics researcher, out of her account."
-    publishedDateTime: 2021-01-21T22:01:00Z
-    webUrl: "https://www.cnbc.com/2021/01/21/margaret-mitchell-google-investigating-ai-researcher-awu-concerned.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/01/21/margaret-mitchell-google-investigating-ai-researcher-awu-concerned.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/21/margaret-mitchell-google-investigating-ai-researcher-awu-concerned.html"
+  - title: "Artificial intelligence researchers rank the top A.I. labs worldwide"
+    excerpt: "Artificial intelligence researchers don’t like it when you ask them to name the top AI labs in the world, possibly because it’s so hard to answer. There are some obvious contenders. U.S. Big Tech — Google,"
+    publishedDateTime: 2021-01-21T15:49:00Z
+    webUrl: "https://www.cnbc.com/2021/01/21/deepmind-openai-fair-ai-researchers-rank-the-top-ai-labs-worldwide.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/01/21/deepmind-openai-fair-ai-researchers-rank-the-top-ai-labs-worldwide.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/21/deepmind-openai-fair-ai-researchers-rank-the-top-ai-labs-worldwide.html"
     type: article
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 71
+    quality: 89
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/103724796-GettyImages-461180134.jpg?v=1532564092"
-        width: 3000
-        height: 1978
-        isCached: true
-  - title: "Controversial Google Investigation Centers On AI Ethicist Data Breach"
-    excerpt: "Google has now officially launched an investigation into AI ethicist Margaret Mitchell, reports indicate. The investigation itself seems reasonably"
-    publishedDateTime: 2021-01-25T22:30:00Z
-    webUrl: "https://www.androidheadlines.com/2021/01/google-investigation-ai-ethicist-controversial.html"
-    ampWebUrl: "https://www.androidheadlines.com/2021/01/google-investigation-ai-ethicist-controversial.html/amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/01/google-investigation-ai-ethicist-controversial.html/amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 57
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2019/04/Google-Pixel-Event-Logo-2017-AH-4-AH-2019.jpg"
-        width: 1600
-        height: 1000
-        isCached: true
-  - title: "Second AI ethics researcher suspended at Google"
-    excerpt: "Google has suspended an artificial intelligence ethics researcher weeks after dismissing another member of the team, a recently formed union says. The Alphabet Workers Union, which was created by employees of Google’s parent firm,"
-    publishedDateTime: 2021-01-21T18:21:00Z
-    webUrl: "https://www.timesofisrael.com/liveblog_entry/second-ai-ethics-researcher-suspended-at-google/"
-    type: article
-    provider:
-      name: The Times of Israel
-      domain: timesofisrael.com
-    quality: 54
-    images:
-      - url: "https://static.timesofisrael.com/www/images/toi-ln-1200.png"
-        width: 1200
-        height: 630
+      - url: "https://image.cnbcfm.com/api/v1/image/103928104-GettyImages-514242504.jpg?v=1532564035"
+        width: 1024
+        height: 678
         isCached: true
 
 secured: "fBcJ19iHIZmGQzZSgcYadoIanHvYddMbrIw26m3oaNoH5j9qisCxPk3VL8R4ZYBPwb8jP9Q5sNVRE8nP2hCRGjWpFWPwu678QGCo84VNgawrl+EHtfryxYU5L6NM3CY7Np1PNs96lZJ9XLj6NqdXcI9D33U6RuBJP0KB4/Dyo1hrobdWruZKoqZSxGJ7e5suJeshW5V3hnWN/lOe8uDZWm6xts4WaCxGEUayEneTjyVZv63X5Pb4r9dCAPh6hMrpksRS97GKgJxEvt8XYiS2TnMmhVBcoV33XjAzriS+rJ1TD7mcUEqtjOorA8YsVo8o65GHraHuYGMDNYYfcBf7Qa9KIgrtWIIqD4jBuEXU7qj5DKIuW2qtPTfv9aLPSqm9TARmg+79lPedhD7bBBxqdNbhmRDF++VuGAmzdtxQuwliiqjG8gvIon+fEZijL2xwM99KoQDP3Mghocog9ANgqGhFlTcabNxvchzdu8nbx6Oyzb0DMxYO9JEvZcfFTjSq9YnNcMdNMoYPoF/CPE+SlA==;C5y813k7Z23FoCZCU4r31g=="

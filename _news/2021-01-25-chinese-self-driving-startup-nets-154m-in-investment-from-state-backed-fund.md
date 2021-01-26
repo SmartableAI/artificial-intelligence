@@ -3,8 +3,8 @@ category: news
 title: "Chinese self-driving startup nets $154m in investment from state-backed fund"
 excerpt: "With the new funds, Uisee will further develop its autonomous driving technology and accelerate its monetization."
 publishedDateTime: 2021-01-25T11:30:00Z
-originalUrl: "https://www.techinasia.com/chinese-selfdriving-startup-uisee-nets-154m-investment-statebacked-fund?ref=recommender-671597"
-webUrl: "https://www.techinasia.com/chinese-selfdriving-startup-uisee-nets-154m-investment-statebacked-fund?ref=recommender-671597"
+originalUrl: "https://www.techinasia.com/chinese-selfdriving-startup-uisee-nets-154m-investment-statebacked-fund?ref=recommender-671252"
+webUrl: "https://www.techinasia.com/chinese-selfdriving-startup-uisee-nets-154m-investment-statebacked-fund?ref=recommender-671252"
 type: article
 quality: 31
 heat: 31
@@ -22,6 +22,6 @@ topics:
   - AI in Autos
   - AI
 
-secured: "bqaKI74Nqk4ooFotq8aywho28+zIYrAFOEhxqcKEzt7F0qWK68omuzb+a3jIOgDLGUePX47B/2P5dA4swWkHLscMwb3w+pPjiMcU6GMsWaBgY9ia1MiHJuPUrfkGxkXxO1mRH6rTvfMezPpAcYEQAPCQWPT8j08uywAsB3LCsYNlyv2ccC6r52X3inxId55C7dI39EsIawZ6BCmC/wMayugnXA0T4UflOZrC1c+P3i4BDaR95AJ1q35zTHDKXcHt3qNBrjOSxx1ISmA/Idgmq5+Nkjse60WmI9/Pbonq2EIFtesHkUyCf+8RgxF3trFfLOZBAxUREjXoCIspeHEefM6swg1arwP6wM7sRyVnb5vFRlLu4BVTG8M+JfHkT4DgnZQHCxhyonJbEnZYo6imvLDq8y9JtVWSrh8VVIiB3VvtcgU67LvfmXEBO9vQQluytQ8DhPCYX+0XLNprdlCJ2/e0XvrrJCy+DKz603dsQq/IJKChoYrzWnCD4c6Vfd+/SxNO9fROLtpanLz06eAVqg==;r3WEN3AAopElXagUBphVow=="
+secured: "gB9XQYTaxKDhF6RQ7yLZ9gyDf47NhZtbdwONZq7bYB5Doyl5IDP8fCHNq+woqoFLHB83+jXer3P/fAvZBD8Oa1f09xVoUQ0bv8AFqFCr5DC7nM7js11SiRnQrTI0A9bOKw3k1T+1vJ8qBqscrjDC2FAa9/D9t0tBgxhhpwWWCBICnRTZK9c5G+sBmam77LwAkVRoMg1m0BMJWzi3gdtyuA0Qia3PdOzYDIW4beQTJKqGNbcyg1whGJxVkNiqoyB4SyPLoYj1bgn9IWUTGg0e/IfT6yU7vrWU0t+sMfJfUl7A129VEY4o/Cxo9GUfXJwDjs24Q7sdVpMKte1So1so42fc3uj/OV0LChRo23+X92Kh3DFBYJf58b34M87FHaycrXuqsBSnyV2evbDZAf6Yo84/AfKJzugZBA4Do3NOIFbjdgtcWZX9TMGBkWDpz6CVslDvEkg3q8jBPCyI3Y4PH3nT6phWlDEImgzS33bMU8HWq7dhd60iafOMgoxIxQcizMHO9AnRYsR8ZugFcVFHqA==;5i2Ri5+XQOt75pJ6NAz4cQ=="
 ---
 

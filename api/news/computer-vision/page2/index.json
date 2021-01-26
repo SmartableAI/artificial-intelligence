@@ -2,101 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-01-13-chinese-facial-recognition-unicorn-megvii-prepares-china-ipo.md",
-      "title": "Chinese facial recognition unicorn Megvii prepares China IPO",
-      "excerpt": "Megvii, one of China’s largest facial recognition startups, is gearing up for an initial public offering in Shanghai. The company is working with CITIC Securities to prepare for its planned listing, according to an announcement posted by the China Securities Regulatory Commission on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/01/12/megvii-ipo-china/",
-      "originalUrl": "https://www.msn.com/en-us/news/technology/chinese-facial-recognition-unicorn-megvii-prepares-china-ipo/ar-BB1cHL4R",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/05/megvii-e1557323313961.jpg?w=1024",
-          "width": 1024,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/01/12/megvii-ipo-china/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/12/megvii-ipo-china/amp/",
-      "publishedDateTime": "2021-01-12T23:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "https://techcrunch.com/2021/01/12/megvii-ipo-china/",
-        "domain": "https://techcrunch.com/2021/01/12/megvii-ipo-china/",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-job-screening-service-halts-facial-analysis-of-applicants.md",
-      "title": "Job Screening Service Halts Facial Analysis of Applicants",
-      "excerpt": "HireVue, a leading provider of software for vetting job candidates based on an algorithmic assessment, said Tuesday it is killing off a controversial feature of its software: analyzing a person’s facial expressions in a video to discern certain characteristics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/job-screening-service-halts-facial-analysis-applicants/",
-      "originalUrl": "https://www.wired.com/story/job-screening-service-halts-facial-analysis-applicants/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ffcea25072d3ec215c55753/master/pass/hirevue-1210924894.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/job-screening-service-halts-facial-analysis-applicants/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/job-screening-service-halts-facial-analysis-applicants/amp",
-      "publishedDateTime": "2021-01-12T14:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-13-ces-liveblog-laptops-robovacs-and-lab-grown-breast-milk.md",
       "title": "CES Liveblog: Laptops, Robovacs, and Lab-Grown Breast Milk",
       "excerpt": "The consumer tech show is virtual this year, and the WIRED Gear crew is watching all the Zooms to bring you up-to-the-minute highlights of news from CES.",
@@ -1426,6 +1331,102 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-nec-says-new-facial-recognition-system-isnt-stopped-by-masks.md",
+      "title": "NEC says new facial recognition system isn't stopped by masks",
+      "excerpt": "NEC says face masks aren't an obstacle to its facial recognition tech. The Japanese company (via Reuters) claims its new facial recognition system can identify people with face masks in less than one second,",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/nec-face-recognition-mask/",
+      "originalUrl": "https://mashable.com/article/nec-face-recognition-mask/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2021%252F01%252F07%252Fb8%252F20f2df8786314079b5690b601cd55a66.f7cc6.jpg%252F1200x630.jpg?signature=AAXqsror3UXNs87tye1ghBfsBwM=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/nec-face-recognition-mask.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/nec-face-recognition-mask.amp",
+      "publishedDateTime": "2021-01-07T07:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-seoul-robotics-a-3d-vision-of-the-future.md",
+      "title": "Seoul Robotics: A 3D Vision Of The Future",
+      "excerpt": "Seoul Robotics leverages LiDAR 3D vision to make robots intelligent and enable autonomous systems from smart cities to smart factories",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/marcoannunziata/2021/01/07/seoul-robotics-a-3d-vision-of-the-future/",
+      "originalUrl": "https://www.forbes.com/sites/marcoannunziata/2021/01/07/seoul-robotics-a-3d-vision-of-the-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff7162c24227293870c722f%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/marcoannunziata/2021/01/07/seoul-robotics-a-3d-vision-of-the-future/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcoannunziata/2021/01/07/seoul-robotics-a-3d-vision-of-the-future/amp/",
+      "publishedDateTime": "2021-01-07T06:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

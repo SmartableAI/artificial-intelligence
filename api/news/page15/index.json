@@ -2,6 +2,40 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-01-12-compeer-financial-delivers-superior-user-experience-with-citrix.md",
+      "title": "Compeer Financial Delivers Superior User Experience with Citrix®",
+      "excerpt": "Our lives are driven by technology and we expect it to be always on and perform flawlessly– especially at work. It’ s a tall order, but one that just got easier to deliver at Compeer Financial, thanks to Citrix Systems,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/press-release/compeer-financial-delivers-superior-user-experience-with-citrixr-2021-01-12",
+      "originalUrl": "https://www.nasdaq.com/press-release/compeer-financial-delivers-superior-user-experience-with-citrixr-2021-01-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-12T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-ces-2021-taiwan-startup-genkitek-designs-and-develops-ai-cameras-and-ai-networking-video-recorders.md",
       "title": "CES 2021 Taiwan startup GenkiTek designs and develops AI cameras and AI networking video recorders",
       "excerpt": "GenkiTek, a spinoff company from Taiwan's Industrial Technology Research Institute designs and develops AI cameras and AI networking",
@@ -835,59 +869,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend.md",
-      "title": "Amid cloud spending boom, Microsoft Azure, AWS gain IT spend",
-      "excerpt": "The COVID-19 pandemic has accelerated spending on digital transformation and cloud and Microsoft and AWS are the big winners.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/",
-      "originalUrl": "https://www.zdnet.com/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2021/01/09/cc0a1fa0-25c9-463e-9795-f6d360999169/flexera-tech-spend-3.png",
-          "width": 893,
-          "height": 439,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/",
-      "publishedDateTime": "2021-01-11T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
       ]
     },
     {

@@ -3,8 +3,8 @@ category: news
 title: "Philips and Rennes University Hospital sign 5-year technology, research and innovation ..."
 excerpt: "Hospital will have access to Philips’ latest technologies and informatics solutions to enhance the diagnosis, treatment, monitoring and management of patients Multi-year strategic partnership will accelerate clinical research focused on image-guided minimally-invasive therapy,"
 publishedDateTime: 2021-01-25T08:18:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/business-technology-artificial-intelligence-diagnostic-imaging-western-europe-62a1000e07e44799667613b7fdf65163"
-webUrl: "https://apnews.com/press-release/globe-newswire/business-technology-artificial-intelligence-diagnostic-imaging-western-europe-62a1000e07e44799667613b7fdf65163"
+originalUrl: "https://apnews.com/press-release/globenewswire-mobile/business-technology-artificial-intelligence-diagnostic-imaging-western-europe-62a1000e07e44799667613b7fdf65163"
+webUrl: "https://apnews.com/press-release/globenewswire-mobile/business-technology-artificial-intelligence-diagnostic-imaging-western-europe-62a1000e07e44799667613b7fdf65163"
 type: article
 quality: 14
 heat: -1
@@ -40,6 +40,6 @@ related:
         height: 1206
         isCached: true
 
-secured: "UW6eDkRHWAt6IigE19Pvp2bbxl2C74YcHFkExO7RPDnnT8jlo86D2xts49nXxKHmbwJYKR5q4Mr9odWpWQuRNvX1o1Fzqmn5Yef3MI0WbBwoP5ZKlsLVZUIZ7wbyxqmm0ORQpWEMFJYYBFfku2E5/oK4ooXtp4SlgDYlrxPgfluKg/Isdoj7CSHF5Vw8ziPl7wTIabo95xvkXZPseppgLVHx2mOOVd4GuGCKHmJNknFXM9JEIhKT6TDPbCvn6AUajmRWz9XumrpR8LhyBIRpQXz2V7lieEYXqrM95spFwgseP3cYrOqt69OhFnoY+PiT170B6jdAV5idIsFx1sRo74RobTEng/gH9h+M8HyOiOE=;ko7xdgJzoJNlcDHgE0pWeA=="
+secured: "EODC3z4copKf5StVBMTja/i5SHrN9EPgRghyoGkwguVtgroGhEMZ7dcCLoYsahwaQ5283atVOmdmULWiHrM8tHPNhts60CzzZIkGlCuBz6v3pX3ctVQKKlR09h8IGk/bvb05l+P4aeE7EisvYU4laVWp+qrpXc2iQ1LvpYuK3P1vPzSWoHglCq/zdrYz+oPWIJJOO5fSH1OCJUTlmEDiCTobMet15xt1mqN0dMs0eE5F94uk5TGDwmHi7r0cUH/JMzatTOmQuBs5xcGQ+NLnXAE86v7UpBOet6jvvvBqsMdfGrIHyaGibjeU7Ib4THu9zPDZU7JSGaLvqksYTLc9CKzy9+UVtltn7x4QpOwsvCI=;W8Wn1/Ei/bjnPxRTkljp9A=="
 ---
 

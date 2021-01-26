@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Designing customized robot brains for critical applications"
-    excerpt: "While robots are stronger and moving faster than ever before, they still struggle with complex situations and their movements grind to a halt. “The hang up is"
-    publishedDateTime: 2021-01-21T15:01:00Z
-    webUrl: "https://www.controleng.com/articles/designing-customized-robot-brains-for-critical-applications/"
-    type: article
-    provider:
-      name: Control Engineering
-      domain: controleng.com
-    quality: 54
-    images:
-      - url: "https://www.controleng.com/wp-content/uploads/sites/2/2021/01/CTL2101_WEB_IMG_MIT_Robot_Brains.jpg"
-        width: 645
-        height: 350
-        isCached: true
   - title: "Designing customized \"brains\" for robots"
     excerpt: "MIT researchers have developed an automated way to design customized hardware that speeds up a robot's operation. The system, called robomorphic computing, accounts for the robot's physical layout in suggesting an optimized hardware architecture."
     publishedDateTime: 2021-01-21T18:57:00Z

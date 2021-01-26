@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2021/01/25/fake-news-is-ram
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/01/25/fake-news-is-rampant-here-is-how-artificial-intelligence-can-help/amp/"
 type: article
 quality: 87
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -71,6 +71,20 @@ related:
       - url: "https://www.eurekalert.org/multimedia/pub/web/254200_web.jpg"
         width: 640
         height: 360
+        isCached: true
+  - title: "How AI is helping retailers reinvent themselves"
+    excerpt: "Everyday activities, once normal, have taken on a new element of risk and consumers are prioritising those retailers who are capable of rapidly adjusting to changes in the business environment.” Retailers are moving to a multi-channel environment offering a variety of shopping options for customers,"
+    publishedDateTime: 2021-01-26T06:50:00Z
+    webUrl: "https://www.moneyweb.co.za/in-depth/microsoft-south-africa/how-ai-is-helping-retailers-reinvent-themselves/"
+    type: article
+    provider:
+      name: Moneyweb
+      domain: moneyweb.co.za
+    quality: 39
+    images:
+      - url: "https://www.moneyweb.co.za/wp-content/uploads/2014/10/Shopping-Shutterstock-4-1024x684.jpg"
+        width: 1024
+        height: 684
         isCached: true
 
 secured: "SVbY9yUdc9y83zY0VMq6LHpNI+SZTLOryhn9Vakxfe5OKCjhZRk3712tS8dH5sH/M7Nm69QVRUsPQueLILaXfAajjxFMI5cQLz+xbaCp0TDxli1QmkquEiApUG1YynCVVBoRH2+HEWaq9pWqaOAAWThdg45EYxK7F1nVGXcxRdt0ISdLxH71FeR8zPMQ70MrdK1kyynXCcED1XschtdRY94J4YmXqyMdzGbNbzgbQW9J8m1kjm+GhAtm21ylBISVzPvREqDIeSgZ1kGV8tMxQFUvw5m8FuXCTTDFFivb97vZyoMiOCOJu/yKUzPu9n7QuAdXV/mv4dI1Mk5BpfEtU61IRQMVKOIbhP0FmyiN+M1SyEI1bJWh7UVDm4/+H68JidHzIkjf4sv1LDEKKdTVNrQ5lENZhQEbZqBy5gTY+PsjpSGtt9hZ81uGRRWnMVw5bH3oVO/0EaUJI8L0Ge2SqQW0dEOvMtclTPmtBe99VRJvYFzC/aU/egNyl2nFMEZSmFavtV+ZY0XJ0pQBvjO0wA==;BZSHg9b/LNZvyyiTbrOSoA=="

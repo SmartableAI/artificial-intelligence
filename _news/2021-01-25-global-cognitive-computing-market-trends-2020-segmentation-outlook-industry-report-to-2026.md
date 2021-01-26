@@ -285,15 +285,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Robot Assisted Surgical Systems Market to Reach USD 17.80 Billion | Size, Share, Industry Analysis and Global Forecast to 2027"
-    excerpt: "Growing demand for robot assisted minimally invasive surgeries is predicted to acquire the highest accuracy and success rate and boost market growth."
-    publishedDateTime: 2021-01-21T13:52:00Z
-    webUrl: "https://www.medgadget.com/2021/01/robot-assisted-surgical-systems-market-to-reach-usd-17-80-billion-size-share-industry-analysis-and-global-forecast-to-2027.html"
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 0
 
 secured: "0UWx5EixX7cF4UG9l2RRhVV60+VZkpgkcoDuDrtrrHGPyJZOYF7v4N1DT29bRAX1zmBta6pUWjloKGYgrAIvQsEVrulG2B21AyT1hYULWH6xGac/p2/STGouTzfEv55+wWfnt+Pn3gvoXvLPlXFX/H3FEDHqkBAyfH36le7yGtysH97ynf5bjufCMBIHbqNJyD3CXx5SNfwwsg/GyB8KoemQlNNoiSNDkr6JCCNvTIIE/5Y1yjqdRxX/4yUhMgOUphJ0XjIKzZ0VPiLxw+v+HgRIpjdylsg1GSWWvjCjFgSV9Y8OAopVvlqUUwomMVh92/1jLp+NqdGP/HHV1bLQc3VdBTiBpoyLnd6voYl7iLE=;vfb7tlJlmOdKAtWAEN8D5Q=="
 ---

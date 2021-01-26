@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-marketing-market-size-share-analysis-report-forecast-to-2025-2021-01-23"
 type: article
 quality: 86
-heat: 276
+heat: 266
 published: true
 
 provider:
@@ -285,15 +285,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Robot Assisted Surgical Systems Market to Reach USD 17.80 Billion | Size, Share, Industry Analysis and Global Forecast to 2027"
-    excerpt: "Growing demand for robot assisted minimally invasive surgeries is predicted to acquire the highest accuracy and success rate and boost market growth."
-    publishedDateTime: 2021-01-21T13:52:00Z
-    webUrl: "https://www.medgadget.com/2021/01/robot-assisted-surgical-systems-market-to-reach-usd-17-80-billion-size-share-industry-analysis-and-global-forecast-to-2027.html"
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 0
 
 secured: "RF5DfgQmj2HQElXNWVw7H/V2rIsbvYtov371zsTondn7iO6oCJKPSpP2StSjeMfRKwUSdVRUOExgbtBCFxAa3nLe4/jZavDMBumbfgRs1l1P/Exb8dtFUacOgP+B+3FmMmWbPqCnMlOYTzDB9GRtrE5F4bYmKZgSQc1kSq3gEyRutZlaoDzdnj+nrdFj1RGWUDSTo3pUVRC57dU6GJtBLgUhaO6Gw5iRdR5e/MoWY6KTZKIDla6SAAFSVKue9N1niWXmmLUGK/3ewKX017uccH1uf/MmSoa6qbH7pX87qsSQZzkz+PxWUIzk6fl5r45KThDiVQrtGw4Gri3EsqqICKcRX/OxG01WvJ0PMaLVp3U=;K5mSmcHS8vb3PpdH7T44dw=="
 ---

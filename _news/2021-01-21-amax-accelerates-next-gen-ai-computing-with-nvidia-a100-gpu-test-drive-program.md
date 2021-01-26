@@ -25,63 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "VAST Data allies with Nvidia on reference storage architecture for AI"
-    excerpt: "VAST Data collaborates with Nvidia to create reference architecture for attaching its storage systems to GPU servers."
-    publishedDateTime: 2021-01-21T14:05:00Z
-    webUrl: "https://venturebeat.com/2021/01/21/vast-data-allies-with-nvidia-on-reference-storage-architecture-for-ai/"
-    ampWebUrl: "https://venturebeat.com/2021/01/21/vast-data-allies-with-nvidia-on-reference-storage-architecture-for-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/21/vast-data-allies-with-nvidia-on-reference-storage-architecture-for-ai/amp/"
+  - title: "Nvidia Views Kubernetes as Key to GPU Accelerated AI Scale"
+    excerpt: "When you think about Kubernetes, clusters of CPU and memory resources all scaling to meet the demands of container workloads probably springs to mind. But where does GPU acceleration fit […]"
+    publishedDateTime: 2021-01-25T20:20:00Z
+    webUrl: "https://ctovision.com/nvidia-views-kubernetes-as-key-to-gpu-accelerated-ai-scale/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: ctovision.com
+      domain: ctovision.com
+    quality: 54
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/01/artificial_intelligence-e1611234784519.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://ctovision.com/wp-content/uploads/space.jpg"
+        width: 632
+        height: 422
         isCached: true
-  - title: "VAST Data Unveils Joint Reference Architecture with NVIDIA for Large-scale AI Workloads"
-    excerpt: "VAST Data, a storage company, today announced a new reference architecture based on NVIDIA DGX A100 systems and VAST Data’s"
-    publishedDateTime: 2021-01-22T04:30:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/vast-data-unveils-joint-reference-architecture-with-nvidia-for-large-scale-ai-workloads/"
+  - title: "Nvidia confirms changes to Max-Q laptop GPU branding"
+    excerpt: "For previous generations of Nvidia laptop GPUs, the company has differentiated between SKUs with a Max-Q or Max-P moniker, indicating that the GPU has a lower power target. With the upcoming generation of RTX 30 series GPUs for laptops,"
+    publishedDateTime: 2021-01-21T15:34:00Z
+    webUrl: "https://www.kitguru.net/components/graphic-cards/matthew-wilson/nvidia-confirms-changes-to-max-q-laptop-gpu-branding/"
     type: article
     provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 31
+      name: KitGuru
+      domain: kitguru.net
+    quality: 39
     images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/IBM-In-Memory-Computing-405x228.jpg"
-        width: 405
-        height: 228
+      - url: "https://www.kitguru.net/wp-content/uploads/2021/01/RTX-laptop-700x330.jpg"
+        width: 700
+        height: 330
         isCached: true
-  - title: "It’s time for a data architecture do-over"
-    excerpt: "With the amount of data that people are moving to the cloud, you’re going to see the use of analytics, AI for business outcomes explode.” Chirapurath spoke with Dave Vellante, host of theCUBE, SiliconANGLE Media’s livestreaming studio,"
-    publishedDateTime: 2021-01-21T22:58:00Z
-    webUrl: "https://siliconangle.com/2021/01/21/its-time-for-a-data-architecture-do-over-cubeoncloud/"
+  - title: "Altron partners GPU designer NVIDIA"
+    excerpt: "Altron Systems Integration, a subsidiary of JSE-listed Altron, has joined the NVIDIA Partner Network (NPN), becoming the first compute DGX partner and solutions provider in SA. NVIDIA DGX is a line of NVIDIA-produced servers and workstations which specialise in using general-purpose computing on graphics processing units (GPU) to accelerate deep learning applications."
+    publishedDateTime: 2021-01-22T08:50:00Z
+    webUrl: "https://www.itweb.co.za/content/G98YdMLYgKrqX2PD"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 24
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 39
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/John-JG-Chirapurath-theCUBE-on-Cloud-2021.jpg"
-        width: 1565
-        height: 880
-        isCached: true
-  - title: "VAST Data Unveils Joint Reference Architecture with NVIDIA Designed to Significantly Increase Storage Performance for Large-Scale AI Workloads"
-    excerpt: "VAST Data, the storage company breaking decades-old tradeoffs, today announced a new reference architecture based on NVIDIA DGX™ A100 systems and VAST Data’s Universal Storage platform. This reference architecture is designed to significantly increase storage performance for AI use cases such as large-scale training of conversational AI models and petabyte-scale"
-    publishedDateTime: 2021-01-22T13:27:43Z
-    webUrl: "https://www.globalbankingandfinance.com/category/news/vast-data-unveils-joint-reference-architecture-with-nvidia-designed-to-significantly-increase-storage-performance-for-large-scale-ai-workloads/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 3
-    images:
-      - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
-        width: 1000
-        height: 600
+      - url: "https://lh3.googleusercontent.com/thTnWvnhobgR11ST-FlgUfA4lKVXQevOL1btkxlfTmplnb7QAXfWzZ8NSlyJBxzjisR9pNBifWk1Ib-fz1uCFiE=w816-h428"
+        width: 761
+        height: 428
         isCached: true
 
 secured: "IpIinWAq0YQBk+7q4yjhJovVghiQMG9FhU48LtDuNtLX6lN5tmIziGoDbRnXnzr24mqQUoJBcec3+69fgG1+1CgTBygQPwcy4JIfCzymfSvJv3xXoTbElmlzW/hCaNIHRqwkUazstc9XNUdyNHXQOWVXAgAoJDM2k6jMHQ4TbF2saPo5rtdRjCnHGmzwif7a9RLjSEl1TujM8QH3ULCDjedVeHJFWM5YY86tPZZq2FgPaZS2U7j8tJymF6zWWtfNmLPgCpIeFbtq2Lz4+vuNaWfCzBb1jArtw8R6H1Id3i+rcHN9SomR6Mo9vGXLuk7sbNcIjBHSyv9XY+j8+i6JlvX2NKenTg7ATItRJnv7tibtWOHkgoRqGqlNigBq8otPqP6JkPUTVvAd/Iv3ZXBra1OeKiZpg2HLqgeKKP7oOgiEYCilE/Qb+3vDAgy4xh9VJb0EZrjMAAjhVaHKVf1Mz2ak8u6sx1P5i7X/soK2xg3yJt/QAdFmtz0g3dtY9p4u6uBPaoFrYakyeE5BfCn6Cg==;FM/GXfYfi1OyjxnxSPFAfg=="

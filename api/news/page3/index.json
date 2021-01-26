@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-01-23-center-for-applied-data-ethics-suggests-treating-ai-like-a-bureaucracy.md",
-      "title": "Center for Applied Data Ethics suggests treating AI like a bureaucracy",
-      "excerpt": "A new research paper suggests AI practitioners adopt anthropology terms to assess large machine learning models that harm people.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/22/center-for-applied-data-ethics-suggests-treating-ai-like-a-bureaucracy/",
-      "originalUrl": "https://venturebeat.com/2021/01/22/center-for-applied-data-ethics-suggests-treating-ai-like-a-bureaucracy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/ian-hutchinson-U8WfiRpsQ7Y-unsplash.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/22/center-for-applied-data-ethics-suggests-treating-ai-like-a-bureaucracy/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/22/center-for-applied-data-ethics-suggests-treating-ai-like-a-bureaucracy/amp/",
-      "publishedDateTime": "2021-01-22T08:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_news/2021-01-23-ban-on-facial-recognition-technology-by-minneapolis-police-advances.md",
       "title": "Ban on facial recognition technology by Minneapolis police advances",
       "excerpt": "A proposal to ban the use of facial recognition technology by Minneapolis police and other city departments is advancing. A council committee advanced the measure Thursday which will go to the full council Feb.",
@@ -253,7 +201,7 @@
       "originalUrl": "https://www.bloombergquint.com/businessweek/alphabet-workers-union-leader-parul-koul-takes-on-google-googl",
       "featuredContent": null,
       "highlight": null,
-      "heat": 132,
+      "heat": 122,
       "tags": null,
       "images": [
         {
@@ -369,58 +317,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-computer-vision-market-2020-to-2025rising-demand-share-trends-growth-opportunities.md",
-      "title": "Computer Vision Market 2020 to 2025|Rising Demand, Share, Trends, Growth, Opportunities",
-      "excerpt": "The Final Report will cover the impact analysis of COVID-19 on this industry: Computer Vision can be best defined as a branch of computer science which deals with improving the digitization and processing of computer aided tasks for better understanding.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-2020-to-2025rising-demand-share-trends-growth-opportunities-2021-01-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-2020-to-2025rising-demand-share-trends-growth-opportunities-2021-01-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-21T23:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     },
@@ -675,6 +571,49 @@
       ]
     },
     {
+      "path": "_news/2021-01-22-designing-customized-brains-for-robots.md",
+      "title": "Designing customized \"brains\" for robots",
+      "excerpt": "MIT researchers have developed an automated way to design customized hardware that speeds up a robot's operation. The system, called robomorphic computing, accounts for the robot's physical layout in suggesting an optimized hardware architecture.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/pub_releases/2021-01/miot-dc012021.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-01/miot-dc012021.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-21T10:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-22-this-ai-can-tell-if-you-have-prostate-cancer-by-looking-at-your-pee.md",
       "title": "This AI can tell if you have prostate cancer by looking at your pee",
       "excerpt": "Researchers at the Korean Institute of Science and Technology (KIST) recently developed a machine for detecting prostate cancer that only needs 20 minutes of your time and a few ounces of your pee to achieve near 100-percent accuracy.",
@@ -776,6 +715,49 @@
         "Machine Learning",
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-new-google-union-condemns-investigation-of-ai-ethics-researcher.md",
+      "title": "New Google union condemns investigation of AI ethics researcher",
+      "excerpt": "A union of workers at Google and its parent company Alphabet is condemning Google's investigation of an AI ethics researcher.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxbusiness.com/technology/google-union-investigation-ai-ethics-researcher",
+      "originalUrl": "https://www.foxbusiness.com/technology/google-union-investigation-ai-ethics-researcher",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.foxbusiness.com/BrightCove/854081161001/202012/226/854081161001_6218250239001_6218243109001-vs.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxbusiness.com/technology/google-union-investigation-ai-ethics-researcher.amp",
+      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/google-union-investigation-ai-ethics-researcher.amp",
+      "publishedDateTime": "2021-01-21T10:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox Business",
+        "domain": "foxbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     },
     {
@@ -993,7 +975,7 @@
       "originalUrl": "https://www.cnbc.com/2021/01/21/deepmind-openai-fair-ai-researchers-rank-the-top-ai-labs-worldwide.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {

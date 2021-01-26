@@ -55,7 +55,7 @@
       "originalUrl": "https://www.neowin.net/news/yellow-messenger-integrates-microsoft-azure-cognitive-services-on-its-platform",
       "featuredContent": null,
       "highlight": null,
-      "heat": 295,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -856,8 +856,8 @@
       "title": "Amid cloud spending boom, Microsoft Azure, AWS gain IT spend",
       "excerpt": "The COVID-19 pandemic has accelerated spending on digital transformation and cloud and Microsoft and AWS are the big winners.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/",
-      "originalUrl": "https://www.zdnet.com/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/",
+      "webUrl": "https://www.zdnet.com/index.php/price/freetotry/index.php/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/",
+      "originalUrl": "https://www.zdnet.com/index.php/price/freetotry/index.php/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -874,9 +874,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/",
-      "publishedDateTime": "2021-01-11T22:00:00-08:00",
+      "ampWebUrl": "https://www.zdnet.com/index.php/price/freetotry/index.php/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/price/freetotry/index.php/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/",
+      "publishedDateTime": "2021-01-12T06:08:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",

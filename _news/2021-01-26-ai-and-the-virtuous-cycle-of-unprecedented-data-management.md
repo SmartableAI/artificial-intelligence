@@ -61,6 +61,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Ehave, Inc. Utilizes Artificial Intelligence and Machine Learning for Big Data Management in ..."
+    excerpt: "The Ehave Dashboard will continue to evolve to include its artificial intelligence and machine learning functions in order to become more integrated with clinical care in the coming years. Ehave Dashboard has been in the forefront of using data analytics with its blockchain data warehouse that provides insights to clinicians and patients."
+    publishedDateTime: 2021-01-26T06:02:00Z
+    webUrl: "https://apnews.com/article/technology-government-regulations-medical-technology-lung-disease-coronavirus-pandemic-23b526e4b4ead9ea7e999196b97d23a3"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 41
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "New Deep Learning Discovery Paves Way for AI Interpretation of Brainwave Data"
     excerpt: "A new paper published in the Journal of Neural Engineering shows the successful first application of self-supervised learning, a very promising recent approach to train deep neural networks, to directly learn what EEG looks like,"
     publishedDateTime: 2021-01-21T21:00:00Z

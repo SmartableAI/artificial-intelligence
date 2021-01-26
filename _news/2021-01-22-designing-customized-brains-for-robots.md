@@ -7,8 +7,8 @@ originalUrl: "https://www.eurekalert.org/pub_releases/2021-01/miot-dc012021.php"
 webUrl: "https://www.eurekalert.org/pub_releases/2021-01/miot-dc012021.php"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: EurekAlert!
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Designing customized robot brains for critical applications"
-    excerpt: "While robots are stronger and moving faster than ever before, they still struggle with complex situations and their movements grind to a halt. “The hang up is"
-    publishedDateTime: 2021-01-21T15:01:00Z
-    webUrl: "https://www.controleng.com/articles/designing-customized-robot-brains-for-critical-applications/"
-    type: article
-    provider:
-      name: Control Engineering
-      domain: controleng.com
-    quality: 54
-    images:
-      - url: "https://www.controleng.com/wp-content/uploads/sites/2/2021/01/CTL2101_WEB_IMG_MIT_Robot_Brains.jpg"
-        width: 645
-        height: 350
-        isCached: true
   - title: "Designing customized “brains” for robots | MIT News"
     excerpt: "Modern robots can move quickly. “The engines are fast and powerful,” says Sabrina Neuman. But in complex situations, such as interactions with humans, robots often do not move quickly. “The hanging is what goes on in the robot’s head,"
     publishedDateTime: 2021-01-24T00:42:00Z

@@ -341,6 +341,49 @@
       ]
     },
     {
+      "path": "_news/2021-01-22-new-google-union-condemns-investigation-of-ai-ethics-researcher.md",
+      "title": "New Google union condemns investigation of AI ethics researcher",
+      "excerpt": "A union of workers at Google and its parent company Alphabet is condemning Google's investigation of an AI ethics researcher.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxbusiness.com/technology/google-union-investigation-ai-ethics-researcher",
+      "originalUrl": "https://www.foxbusiness.com/technology/google-union-investigation-ai-ethics-researcher",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.foxbusiness.com/BrightCove/854081161001/202012/226/854081161001_6218250239001_6218243109001-vs.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxbusiness.com/technology/google-union-investigation-ai-ethics-researcher.amp",
+      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/google-union-investigation-ai-ethics-researcher.amp",
+      "publishedDateTime": "2021-01-21T10:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox Business",
+        "domain": "foxbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-google-union-slams-companys-treatment-of-ai-ethics-researchers.md",
       "title": "Google union slams company’s treatment of AI ethics researchers",
       "excerpt": "The Alphabet Workers Union said the actions against Margaret Mitchell and Timnit Gebru \"call into question Google’s commitment to ethics.\"",
@@ -1267,6 +1310,40 @@
       ]
     },
     {
+      "path": "_news/2021-01-11-ethics-and-governance-of-ai.md",
+      "title": "Ethics and Governance of AI",
+      "excerpt": "The rapidly growing capabilities and increasing presence of AI-based systems in our lives raise pressing questions about the impact, governance, ethics, and accountability of these technologies around the world. How can we narrow the knowledge gap between ...",
+      "sourceUrl": null,
+      "webUrl": "https://cyber.harvard.edu/topics/ethics-and-governance-ai",
+      "originalUrl": "https://cyber.harvard.edu/topics/ethics-and-governance-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-10T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Medical School",
+        "domain": "harvard.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-10-can-we-make-artificial-intelligence-ethical.md",
       "title": "Can we make artificial intelligence ethical?",
       "excerpt": "And one thing I see every day is that most companies and industries are about to be transformed, if they haven’t been already, by artificial ... take advantage of self-driving vehicles.",
@@ -1352,110 +1429,6 @@
         "AI Ethics",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-to-make-ai-a-success-every-child-needs-to-understand-the-risk-and-potential-of-algorithms.md",
-      "title": "To make AI a success, every child needs to understand the risk and potential of algorithms",
-      "excerpt": "According to the AI Council, the biggest barrier to AI deployment is skills - and it starts as early as school.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/to-make-ai-a-success-every-child-needs-to-understand-the-risk-and-potential-of-algorithms/",
-      "originalUrl": "https://www.zdnet.com/article/to-make-ai-a-success-every-child-needs-to-understand-the-risk-and-potential-of-algorithms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/05/13/1d2488f7-7d90-4718-9183-a7ba6a3e36b1/thumbnail/1200x675/3a290ad3c2420e8d73f71b23f5d76141/thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/to-make-ai-a-success-every-child-needs-to-understand-the-risk-and-potential-of-algorithms/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/to-make-ai-a-success-every-child-needs-to-understand-the-risk-and-potential-of-algorithms/",
-      "publishedDateTime": "2021-01-08T02:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-how-ai-can-remove-bias-from-the-hiring-process-and-promote-diversity-and-inclusion.md",
-      "title": "How AI Can Remove Bias From The Hiring Process And Promote Diversity And Inclusion",
-      "excerpt": "Companies have been struggling with how to mitigate and reduce biases of all kinds in their hiring practices, while attempting to promote diversity and inclusion in their cultures and ecosystems, to help their organizations and employees thrive at the highest levels.",
-      "sourceUrl": null,
-      "webUrl": "https://www.vox.com/recode/2019/12/12/20993665/artificial-intelligence-ai-job-screen",
-      "originalUrl": "https://www.forbes.com/sites/kathycaprino/2021/01/07/how-ai-can-remove-bias-from-the-hiring-process-and-promote-diversity-and-inclusion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/IhvXOlrGI-P27kWzQo8AmzXVhug=/1400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19484592/GettyImages_1189384731.jpg",
-          "width": 1400,
-          "height": 934,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vox.com/platform/amp/recode/2019/12/12/20993665/artificial-intelligence-ai-job-screen",
-      "cdnAmpWebUrl": "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/recode/2019/12/12/20993665/artificial-intelligence-ai-job-screen",
-      "publishedDateTime": "2021-01-07T08:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

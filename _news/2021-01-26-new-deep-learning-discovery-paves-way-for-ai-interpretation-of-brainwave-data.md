@@ -47,6 +47,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 81
+  - title: "Ehave, Inc. Utilizes Artificial Intelligence and Machine Learning for Big Data Management in ..."
+    excerpt: "The Ehave Dashboard will continue to evolve to include its artificial intelligence and machine learning functions in order to become more integrated with clinical care in the coming years. Ehave Dashboard has been in the forefront of using data analytics with its blockchain data warehouse that provides insights to clinicians and patients."
+    publishedDateTime: 2021-01-26T06:02:00Z
+    webUrl: "https://apnews.com/article/technology-government-regulations-medical-technology-lung-disease-coronavirus-pandemic-23b526e4b4ead9ea7e999196b97d23a3"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 41
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "AI and the Virtuous Cycle of Unprecedented Data Management"
     excerpt: "This is the first article in a four-part series that examines how new AI architectures are leading to a renaissance in computer architecture, and why there’s a renewed focus on memory systems."
     publishedDateTime: 2021-01-25T20:10:00Z

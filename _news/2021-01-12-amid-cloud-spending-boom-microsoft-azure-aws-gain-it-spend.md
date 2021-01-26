@@ -2,11 +2,11 @@
 category: news
 title: "Amid cloud spending boom, Microsoft Azure, AWS gain IT spend"
 excerpt: "The COVID-19 pandemic has accelerated spending on digital transformation and cloud and Microsoft and AWS are the big winners."
-publishedDateTime: 2021-01-12T06:00:00Z
-originalUrl: "https://www.zdnet.com/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-webUrl: "https://www.zdnet.com/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+publishedDateTime: 2021-01-12T14:08:00Z
+originalUrl: "https://www.zdnet.com/index.php/price/freetotry/index.php/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+webUrl: "https://www.zdnet.com/index.php/price/freetotry/index.php/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+ampWebUrl: "https://www.zdnet.com/index.php/price/freetotry/index.php/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/price/freetotry/index.php/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
 type: article
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 439
     isCached: true
 
-secured: "BWPK+buEZL2oPChm/o36a+3sVMSt24ZEGLtXuLiCVEuHWv7YO3iDuWLi0HDBdciXNHJ/0EDrjPMEQZtDxf+aC9oGxsBiU1wuBg29XIt7nyvsErDdNtNEeFti4njZcNKOU9Zb6fgv/wLdV0VptOD6suGvomjWK0H/O2pPTzC2FxVNVXCjk7YBAgr7ConPXyqlcp6zgzuOKDCp32hpBBDnT1ufKnEr14wdydUqkcNMJ35k38Yhu4EwT14Lwh2M3mj6Z6dSiz3snf/1ioh4Dv3l9KGtI0ty2Rw3Tg6HzhOdkgNgkry+64zCZ+sBVbGDMc/KQwDgBJL1XfghKRxijUzDZZdL0c7taUYJV6xYxWVShAcaMkFKPve5TVDiIl9wimEyszJWNnIzOKnniSpVWkgZkmlQNpDDu8uDdizalPitsBBhy8WLg9mkUgvzPWOzTNBDalPhQPfX7/q/cw5UfZwdR7Rh1HnGdZiGxR8l5UYF9tp5AZfTfFZbUeg4RwEV47QnsFVScGZYhbNwbvlbQNwawQ==;eGtqU5hqf18iTS+WGWBI+g=="
+secured: "za1VDLAQfVSDqrEqazHbNlJ60Br/ti83YCm6mhro21rqrAyGuCHucjylFg6PGoe37+6zFcWlUI5SFs7RDOO9ylxe+cBar2iGZA82j6sItguW/YcIp/tmwCkIlOom6FkLZ8Kw/EUwCLB8WX1AU6nvqMKHbXttYMYBvwYVcUVsnzS9FevzigIwuXC+Z9X6gJ9AStEeNBPqFshK6hiqJERsjNUzOAUD8ysH5LIMFpRT8v7MPKF7o12q3RWK8PREp84JBp3jWkTFD1V+pZbCcQTNSCditOZkU1BvcpCTlez4H7JTcOgZcfxLYPCKalnF2dSlY7UPUg1s2PNXOaE7cN3yzGBCfCnqf/r2ZBquZUtEOrY=;c5sVSgfum9BH6z3fVac47w=="
 ---
 
