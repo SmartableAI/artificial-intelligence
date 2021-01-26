@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "The real self-driving revolution remains years away"
-    excerpt: "This year, new technologies will enable more drivers to take their hands off the wheel while on the road. But that doesn't mean their cars will be fully self-driving -- that day still remains far in the future."
-    publishedDateTime: 2021-01-21T12:54:00Z
-    webUrl: "https://www.cnn.com/2021/01/21/success/self-driving-car-technology-2021/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/21/success/self-driving-car-technology-2021/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/21/success/self-driving-car-technology-2021/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 89
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200204152457-02-cadillac-escalade-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Self-Driving Cars Being Blocked By Human Drivers Using Road Bouldering Tactics"
     excerpt: "Human drivers use road bouldering to block other cars, and the question arises as to how self-driving cars will handle such machinations."
     publishedDateTime: 2021-01-21T16:30:00Z
@@ -57,44 +41,35 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Waymo’s Self-Driving Future Looks Real Now That the Hype Is Fading"
-    excerpt: "Blown deadlines led the public to look away, but the company’s technology is making progress—and more pilot projects are coming soon."
-    publishedDateTime: 2021-01-21T12:18:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-01-21/waymo-self-driving-taxis-are-coming-to-more-u-s-cities"
+  - title: "Toyota and Stanford Just Built a Self-Driving Supra That Can Drift on Its Own"
+    excerpt: "As far-fetched as that may sound, researchers at Toyota Research Institute (TRI) and Stanford University’s Dynamic Design Lab have built a self-driving Supra that can do just that. Of course, the vehicle isn’t just an experiment in doing cool things—even though that’s just what this is—it’s part of a broader attempt to make the roads safer going forward."
+    publishedDateTime: 2021-01-21T21:10:00Z
+    webUrl: "https://robbreport.com/motors/cars/toyota-stanford-self-driving-supra-drift-1234592655/"
+    ampWebUrl: "https://robbreport.com/motors/cars/toyota-stanford-self-driving-supra-drift-1234592655/amp/"
+    cdnAmpWebUrl: "https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/motors/cars/toyota-stanford-self-driving-supra-drift-1234592655/amp/"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
+      name: Robb Report
+      domain: robbreport.com
+    quality: 41
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGHbYrVyOoNU/v2/1200x800.jpg"
-        width: 1200
-        height: 800
+      - url: "https://robbreport.com/wp-content/uploads/2021/01/supra01.jpg?w=1000"
+        width: 1000
+        height: 562
         isCached: true
-  - title: "Luminar Is a Great Bet on the Future of Self-Driving Cars"
-    excerpt: "Stock Market News, Stock Advice & Trading Tips We may still be years away from an autonomous vehicle takeover, but this"
-    publishedDateTime: 2021-01-25T21:05:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/lazr-stock-is-a-great-bet-on-the-future-of-self-driving-cars-1029999019"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/lazr-stock-is-a-great-bet-on-the-future-of-self-driving-cars-1029999019"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/lazr-stock-is-a-great-bet-on-the-future-of-self-driving-cars-1029999019"
+  - title: "Cruise self-driving cars headed to Japan"
+    excerpt: "Cruise self-driving car prototypes will start testing in Japan later in 2021 ahead of the launch of a fully automated taxi service."
+    publishedDateTime: 2021-01-22T14:45:00Z
+    webUrl: "https://www.motorauthority.com/news/1131026_cruise-self-driving-cars-headed-to-japan"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
-  - title: "Why We’re Still Decades Away From Self-Driving Cars"
-    excerpt: "While self-driving cars are becoming a much-discussed piece of technology, experts say that we’re still decades away from seeing cars drive themselves autonomously. While there are a good number"
-    publishedDateTime: 2021-01-21T11:25:00Z
-    webUrl: "https://roboticsandautomationnews.com/2021/01/21/why-were-still-decades-away-from-self-driving-cars/39827/"
-    type: article
-    provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
+      name: Motor Authority
+      domain: motorauthority.com
     quality: 24
     images:
-      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2021/01/car-dashboard-1.png"
-        width: 800
-        height: 532
+      - url: "https://images.hgmsites.net/hug/cruise-self-driving-car-prototype_100777355_h.jpg"
+        width: 1920
+        height: 1189
         isCached: true
 
 secured: "RhjO3wztdvB95emZLGuNR4KQbtYMM2oF2fe3Dtv3YHneXqrQdT/yrDIDd4vTN503wtAWNIstzUvLgMiRryAx8oHBPxbp5+7dAzvQNRQHFUTFopMKrE/VYgU5bvH1JSCej8ZOOJapalEw3ONEu7AEklJTZ86cdIh2pt/lxp/m8cDwrVRLdx1HA7czOUpqYiMYOs9a7pK3QmyUlSVSG5rJjv4+iCEbXqRpUSjmcAZdNWKj/t/DIuIkllDTqEYvfPheaA9/wG8dNXWYgGJAlShGGZYnUSy7hMtt7euj941lfJicrBrAZThWIp7w9QHBIVlAlmkWhBrtv4Os7Fk1J0IeiiTfYFn41v1APJZC4ZxcNSw=;251L8mXKXrOB4QWnjHxS+w=="

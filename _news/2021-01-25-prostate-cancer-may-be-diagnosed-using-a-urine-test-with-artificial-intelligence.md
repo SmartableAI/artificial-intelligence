@@ -58,6 +58,20 @@ related:
         width: 1000
         height: 560
         isCached: true
+  - title: "This Deep Learning Training Can Serve As Your Springboard To A Career in AI"
+    excerpt: "Deep learning and machine learning have been deeply embedded in modern-day technology that it's no longer a matter of what it has touched, but what it hasn't. From the virtual assistants you interact with to the facial recognition of your smartphone to your Netflix to-watch queue,"
+    publishedDateTime: 2021-01-26T04:33:00Z
+    webUrl: "https://sea.ign.com/news/168055/this-deep-learning-training-can-serve-as-your-springboard-to-a-career-in-ai"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 52
+    images:
+      - url: "https://sm.ign.com/t/ign_ap/news/t/this-deep-/this-deep-learning-training-can-serve-as-your-springboard-to_w6xv.1200.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "AI can grade your skill at piano by watching you play"
     excerpt: "An artificial intelligence that can grade the skill of a pianist with near-human accuracy could be used in online music tutoring"
     publishedDateTime: 2021-01-22T10:42:00Z

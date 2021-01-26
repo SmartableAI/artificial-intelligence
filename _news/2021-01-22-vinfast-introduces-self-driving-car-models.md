@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cruise self-driving cars headed to Japan"
-    excerpt: "Cruise self-driving car prototypes will start testing in Japan later in 2021 ahead of the launch of a fully automated taxi service."
-    publishedDateTime: 2021-01-22T14:45:00Z
-    webUrl: "https://www.motorauthority.com/news/1131026_cruise-self-driving-cars-headed-to-japan"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 24
-    images:
-      - url: "https://images.hgmsites.net/hug/cruise-self-driving-car-prototype_100777355_h.jpg"
-        width: 1920
-        height: 1189
-        isCached: true
   - title: "VinFast Launches 3 Brand New Electric Autopilot Models And Affirms Vision To Be The Global Smart Electric Vehicles Company"
     excerpt: "VinFast’s strategic vision to become a global high-tech automobile brand; Three new Smart EV models: VF31, VF32, VF33; In particular, VF32 and VF33 will recieve orders in US and Canadian and European market in November 2021;"
     publishedDateTime: 2021-01-22T13:22:00Z

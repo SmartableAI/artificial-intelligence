@@ -42,6 +42,20 @@ related:
         width: 394
         height: 489
         isCached: true
+  - title: "US leading race in artificial intelligence, China rising"
+    excerpt: "The researchers found the US leading in key areas such as investment in start-ups and research and development funding"
+    publishedDateTime: 2021-01-25T07:46:00Z
+    webUrl: "https://www.dhakatribune.com/world/2021/01/25/us-leading-race-in-artificial-intelligence-china-rising"
+    type: article
+    provider:
+      name: Dhaka Tribune
+      domain: dhakatribune.com
+    quality: 37
+    images:
+      - url: "https://media-eng.dhakatribune.com/uploads/2021/01/watermarked/356775/1611560015814ai-artificial-intelligence-bigstock-1611559995400.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "EXbF9cvj6Rv5gEoqdLubxhPZJXMjtm3Ytf0qKTcflpgg8kBo5AE8wURNT7kEhGi0H5xwY4PJLcdJ/Z0t7+f1Hhvt6Jf4rcBvgDFb/mLZSCLwEB9ifRqWhBSioY+X7PjUPpIqZOwLT3/gTU7ESgqBGCUfbqqMjr80fRBs59i+G7ozpZg3Y8RrFdIJRpB2944tWSwLl+x40wposBhMZig6Zf+mzq8tJj5H+sAqfXb/wghwqZ3DqN1/OvCLd2vAUjjEMK1SNITTrzQXSfzJSM233J1pxfQJfYva+aeEkqZe4p+C5AJR9WoNnW/2qJJfvpHgwYJCVYCYP0kpn+Yi6P7nI3BMCxDofa+WNIE/L4Yv+JQ=;efpT74OSjl9dE0f1Ntpxcw=="
 ---

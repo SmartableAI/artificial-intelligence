@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2021/01/23/the-most-impor
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2021/01/23/the-most-important-voice-in-artificial-intelligence-frontline-workers/amp/"
 type: article
 quality: 91
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -30,24 +30,6 @@ images:
     width: 1200
     height: 801
     isCached: true
-
-related:
-  - title: "Kahun Launches AI Diagnostic Tool for Frontline Doctors"
-    excerpt: "Kahun, an Israeli medtech startup that utilizes artificial intelligence (AI), has announced the beta release of its diagnostic app for medical professionals. The application has already been widely trialled by hundreds of doctors and medical students."
-    publishedDateTime: 2021-01-21T11:13:00Z
-    webUrl: "https://techbullion.com/kahun-launches-ai-diagnostic-tool-for-frontline-doctors/"
-    ampWebUrl: "https://techbullion.com/kahun-launches-ai-diagnostic-tool-for-frontline-doctors/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/kahun-launches-ai-diagnostic-tool-for-frontline-doctors/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 57
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2021/01/featured-photo.jpg"
-        width: 700
-        height: 472
-        isCached: true
 
 secured: "CsQV+ltCGrOqfSsXNrsLGP50IOoNeURSZXieIrOWIb9e9MDWux5y6Yr9pekyxeQlYAPR/sW75mOcBNk1vj8fjTcYAhsy02wPr+2sB7DlWKM7w6KXGDgC2y69mcoIzD44q7xN+WqySMSuqkSurv21OGtXgonR4Sd7YfTKjvPN++p3fDYjys4HIgD5eTgWDI3cx/Dn+z7DjdDMbNxCkpJ3SFc2FjMrkwGu7pwQiFDHS8PWKQ//wKNeX+WtBjzTOTexmFqib8DtedJ9JbIwEg+KNS2lhWviiewpNCRCBx66Gi9eFZxjguHhBlZ0bwPSBKq9xqz6xperKnSPBqrTP8jSTK+AlRobs+/4/CAAlbAgKVyi4UjruLk4Ak0XckYMuGcMsahnfoi07joIyPftZCwge7mPCszDS6GDfoGTd1RZpogqGeRw33swDQnN+su6GRLCBONK5BVC8noDiVk4vdoj7DGsx1byQ/SrYcIUmCEi4nYNp7cabjUkpCPFDmCH2FPFSHkDqaQsX8SDI1Vh2k1ufw==;2DCs1wn3pcjqPCz8lv51Qw=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=303018"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=303018"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: koreatimes.co.kr
@@ -42,6 +42,20 @@ related:
       - url: "https://image-prod.iol.co.za/resize/1280x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/fb718a16-caa7-5490-8675-dcef913ff589&operation=CROP&offset=0x67&resize=1280x720"
         width: 651
         height: 366
+        isCached: true
+  - title: "US leading race in artificial intelligence, China rising"
+    excerpt: "The researchers found the US leading in key areas such as investment in start-ups and research and development funding"
+    publishedDateTime: 2021-01-25T07:46:00Z
+    webUrl: "https://www.dhakatribune.com/world/2021/01/25/us-leading-race-in-artificial-intelligence-china-rising"
+    type: article
+    provider:
+      name: Dhaka Tribune
+      domain: dhakatribune.com
+    quality: 37
+    images:
+      - url: "https://media-eng.dhakatribune.com/uploads/2021/01/watermarked/356775/1611560015814ai-artificial-intelligence-bigstock-1611559995400.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "45ykQbZzE8RKWp2pbSFJ/ZVOL3KmAlLtMjYT1X0s5HvkVKArMGiLGiXemC/EHm+6f7Ij7nYDDR7kVygc4vPeb9TZiQMIuqUTg/JPodDZqhj3M5DIdsjtn325KDlBpT5F3rfd67r+OWrnsQvZ2u6osJZloLIfQKN9gl/Y/8nYtOw8sOX5J0ZAcF8izxNI3Blf9E3CcTPnV1zwNZhR/dhyy54B9Pcdvlbo3qMRzBn+/JJcvXM8/N8nxu3j5XGSbeZ00t9lo5nGWU76YtA0jgYTyXH+d9KREMhdON+AVoa0rgu4g5vINUMcpuM4BUS23bxEshYGChMXtnmkhVGsVxF+Df1tk6YgH2QFP9CCz3Cmz2Y=;ANMuURB+f9376gJGVTdMtQ=="

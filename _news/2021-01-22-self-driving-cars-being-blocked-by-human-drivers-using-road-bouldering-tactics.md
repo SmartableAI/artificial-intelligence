@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/01/21/self-driving-cars
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/01/21/self-driving-cars-being-blocked-by-human-drivers-using-road-bouldering-tactics/amp/"
 type: article
 quality: 70
-heat: -1
-published: false
+heat: 100
+published: true
 
 provider:
   name: Forbes
@@ -31,47 +31,22 @@ images:
     isCached: true
 
 related:
-  - title: "The real self-driving revolution remains years away"
-    excerpt: "This year, new technologies will enable more drivers to take their hands off the wheel while on the road. But that doesn't mean their cars will be fully self-driving -- that day still remains far in the future."
-    publishedDateTime: 2021-01-21T12:54:00Z
-    webUrl: "https://www.cnn.com/2021/01/21/success/self-driving-car-technology-2021/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/21/success/self-driving-car-technology-2021/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/21/success/self-driving-car-technology-2021/index.html"
+  - title: "Toyota and Stanford Just Built a Self-Driving Supra That Can Drift on Its Own"
+    excerpt: "As far-fetched as that may sound, researchers at Toyota Research Institute (TRI) and Stanford University’s Dynamic Design Lab have built a self-driving Supra that can do just that. Of course, the vehicle isn’t just an experiment in doing cool things—even though that’s just what this is—it’s part of a broader attempt to make the roads safer going forward."
+    publishedDateTime: 2021-01-21T21:10:00Z
+    webUrl: "https://robbreport.com/motors/cars/toyota-stanford-self-driving-supra-drift-1234592655/"
+    ampWebUrl: "https://robbreport.com/motors/cars/toyota-stanford-self-driving-supra-drift-1234592655/amp/"
+    cdnAmpWebUrl: "https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/motors/cars/toyota-stanford-self-driving-supra-drift-1234592655/amp/"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 89
+      name: Robb Report
+      domain: robbreport.com
+    quality: 41
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200204152457-02-cadillac-escalade-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://robbreport.com/wp-content/uploads/2021/01/supra01.jpg?w=1000"
+        width: 1000
+        height: 562
         isCached: true
-  - title: "Waymo’s Self-Driving Future Looks Real Now That the Hype Is Fading"
-    excerpt: "Blown deadlines led the public to look away, but the company’s technology is making progress—and more pilot projects are coming soon."
-    publishedDateTime: 2021-01-21T12:18:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-01-21/waymo-self-driving-taxis-are-coming-to-more-u-s-cities"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGHbYrVyOoNU/v2/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Luminar Is a Great Bet on the Future of Self-Driving Cars"
-    excerpt: "Stock Market News, Stock Advice & Trading Tips We may still be years away from an autonomous vehicle takeover, but this"
-    publishedDateTime: 2021-01-25T21:05:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/lazr-stock-is-a-great-bet-on-the-future-of-self-driving-cars-1029999019"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/lazr-stock-is-a-great-bet-on-the-future-of-self-driving-cars-1029999019"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/lazr-stock-is-a-great-bet-on-the-future-of-self-driving-cars-1029999019"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
   - title: "The real self-driving revolution remains years away"
     excerpt: "This year, new technologies will enable more drivers to take their hands off the wheel while on the road. But that doesn't mean their cars will be fully self-driving --"
     publishedDateTime: 2021-01-21T16:33:00Z
@@ -86,19 +61,19 @@ related:
         width: 820
         height: 462
         isCached: true
-  - title: "Why We’re Still Decades Away From Self-Driving Cars"
-    excerpt: "While self-driving cars are becoming a much-discussed piece of technology, experts say that we’re still decades away from seeing cars drive themselves autonomously. While there are a good number"
-    publishedDateTime: 2021-01-21T11:25:00Z
-    webUrl: "https://roboticsandautomationnews.com/2021/01/21/why-were-still-decades-away-from-self-driving-cars/39827/"
+  - title: "Cruise self-driving cars headed to Japan"
+    excerpt: "Cruise self-driving car prototypes will start testing in Japan later in 2021 ahead of the launch of a fully automated taxi service."
+    publishedDateTime: 2021-01-22T14:45:00Z
+    webUrl: "https://www.motorauthority.com/news/1131026_cruise-self-driving-cars-headed-to-japan"
     type: article
     provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
+      name: Motor Authority
+      domain: motorauthority.com
     quality: 24
     images:
-      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2021/01/car-dashboard-1.png"
-        width: 800
-        height: 532
+      - url: "https://images.hgmsites.net/hug/cruise-self-driving-car-prototype_100777355_h.jpg"
+        width: 1920
+        height: 1189
         isCached: true
 
 secured: "zOn4n//wkeN1UN3C5P6ouaAX+x2kOGX/5X5xWk93cl8p9FrJqHJL1jeKLqK/mTl/ynI1y3szFlfbWQ+W/Dvy/JoEXGnsJlrvL8+efB71m7PkyIvsLJa978TtZab3kIxicn8skuZ4IWYb1Xbv8FmvXZCDqtEifqLSbrPK8teNkHs/q02cIeEJfuj4q3isUZfFQR8UoIW6vt01p8+7wHNNsb0gsE2FD7wvzdGf1F1I0iiSZaAyXMyOK1gg3JyO385yyjz0LufXe+J8QeoHlM+qiJES5Z3ZO6ZYvE887eo0WAI0b3gqXlSZqpYUZ0nHvoF8oafE/znCOTh+S4VQcb3ARYZJY62xAb7vOyQ8cXznsrO9PgfDg0tELbTQR+lFo2FICrTfXysj2Xdo4DCGQqMMn94So+CKbCn6WKjIZYWAjVi9dczOSHQq68+4BkNVp3Pj4NOOpW1H3fVhafahsbY0Ca//gowNoeQbSBdrz1ehFm/bs5x77axqKueSYI1Zr8NUoLHceAVUZESGSVBotA3cOw==;069biddtmaiAKptdDLHj5g=="

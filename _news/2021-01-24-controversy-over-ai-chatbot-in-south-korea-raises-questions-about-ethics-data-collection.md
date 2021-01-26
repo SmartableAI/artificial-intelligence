@@ -25,33 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "AI chatbot controversy in S. Korea raises heat about ethics, data collection"
-    excerpt: "Meet Luda Lee, a self-professed 20-year-old female college student from South Korea who loves eating fried chicken, playing with cats and scrolling through Instagram.. Read more at straitstimes.com."
-    publishedDateTime: 2021-01-23T21:36:00Z
-    webUrl: "https://www.straitstimes.com/asia/east-asia/ai-chatbot-controversy-in-s-korea-raises-heat-about-ethics-data-collection"
+  - title: "South Korea has used AI to bring a dead superstar's voice back to the stage, but ethical concerns abound"
+    excerpt: "For the first time in 25 years, the distinctive vocals of South Korean superstar Kim Kwang-seok will be heard on national television singing new material."
+    publishedDateTime: 2021-01-26T03:22:00Z
+    webUrl: "https://www.kmov.com/south-korea-has-used-ai-to-bring-a-dead-superstars-voice-back-to-the-stage/article_f9df111e-b879-5c9e-80c9-aec19cbedc28.html?block_id=985917"
+    ampWebUrl: "https://www.kmov.com/south-korea-has-used-ai-to-bring-a-dead-superstars-voice-back-to-the-stage/article_f9df111e-b879-5c9e-80c9-aec19cbedc28.amp.html"
+    cdnAmpWebUrl: "https://www-kmov-com.cdn.ampproject.org/c/s/www.kmov.com/south-korea-has-used-ai-to-bring-a-dead-superstars-voice-back-to-the-stage/article_f9df111e-b879-5c9e-80c9-aec19cbedc28.amp.html"
     type: article
     provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 51
+      name: KMOV
+      domain: kmov.com
+    quality: 57
     images:
-      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2021/01/24/ST_20210124_CHAT24_6283167.jpg?itok=ofxQSrwm"
-        width: 763
-        height: 509
+      - url: "https://bloximages.newyork1.vip.townnews.com/kmov.com/content/tncms/assets/v3/editorial/3/11/3115ece7-f6d5-54d4-b780-a1540b9d3563/600f85b6def34.image.jpg?resize=1024%2C576"
+        width: 1024
+        height: 576
         isCached: true
   - title: "South Korea has used AI to bring a superstar back to life, but ethical concerns abound"
-    excerpt: "Recent AI performances have excited fans of their music and the technology, but others have raised concerns about the ethics and legalities of resurrecting the voices of the dead."
-    publishedDateTime: 2021-01-26T02:34:00Z
-    webUrl: "https://cnnphilippines.com/world/2021/1/26/South-Korea-AI-superstar-back-to-life.html"
+    excerpt: "For the first time in 25 years, the distinctive vocals of South Korean superstar Kim Kwang-seok will be heard on national television singing new material."
+    publishedDateTime: 2021-01-26T01:55:00Z
+    webUrl: "https://www.albanyherald.com/news/world_nation/south-korea-has-used-ai-to-bring-a-superstar-back-to-life-but-ethical-concerns/article_8a7d9a56-12ca-5374-adf2-2f975042092a.html"
     type: article
     provider:
-      name: CNN Philippines
-      domain: cnnphilippines.com
+      name: Albany Herald
+      domain: albanyherald.com
     quality: 46
     images:
-      - url: "http://cnnphilippines.com/.imaging/mte/demo-cnn-new/750x450/dam/cnn/2021/1/26/ai-singing-show-south-korea_CNNPH.jpg/jcr:content/ai-singing-show-south-korea_CNNPH.jpg"
-        width: 750
-        height: 450
+      - url: "https://bloximages.newyork1.vip.townnews.com/albanyherald.com/content/tncms/assets/v3/editorial/7/da/7da39f2f-a6b2-5d52-a4ac-07248759135c/600f7b82a3d6b.image.jpg?resize=1120%2C630"
+        width: 1120
+        height: 630
         isCached: true
 
 secured: "8tyQBATmXGnljEk0nAx34L4r7jdqlKG+Art5XwmEAseNOoClXq8ZLG7cEe5QLD8VHzQzz3smzmBr4gr5NETEvKpx6fs5uaV5ZPqzRAQ2VXZpqjsuadNL42ZGEg1Wd0Twf8iksiWcIhShR4ehmpj+pP8nklFYrZ4ArrnaCBURj40pTf0RFhenwmtyLFr0k+E95Vc4BUcp6PkRcphkjHSpnuVl9MQ4cvnWs75siaRMYTsdV0T27b/4B2Crx1VKKT39yByxWp638w/kQlVfabJard4XtzrH8K8Uf3+G4bAAeQWP0L9bfxg2efx6o3HGSpS4tr7AFwUKa0FidYl52XUQPWfccqXed7qBLjcs/C8fF88=;DBPKb6b0XTTETKQNHEDaqg=="

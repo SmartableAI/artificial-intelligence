@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/01/21/this-ai-can-tell-if-you-hav
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/21/this-ai-can-tell-if-you-have-prostate-cancer-by-looking-at-your-pee/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://medicaldialogues.in/h-upload/2020/09/02/133894-prostate-cancer.jpg"
         width: 1600
         height: 960
+        isCached: true
+  - title: "This Deep Learning Training Can Serve As Your Springboard To A Career in AI"
+    excerpt: "Deep learning and machine learning have been deeply embedded in modern-day technology that it's no longer a matter of what it has touched, but what it hasn't. From the virtual assistants you interact with to the facial recognition of your smartphone to your Netflix to-watch queue,"
+    publishedDateTime: 2021-01-26T04:33:00Z
+    webUrl: "https://sea.ign.com/news/168055/this-deep-learning-training-can-serve-as-your-springboard-to-a-career-in-ai"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 52
+    images:
+      - url: "https://sm.ign.com/t/ign_ap/news/t/this-deep-/this-deep-learning-training-can-serve-as-your-springboard-to_w6xv.1200.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "AI can grade your skill at piano by watching you play"
     excerpt: "An artificial intelligence that can grade the skill of a pianist with near-human accuracy could be used in online music tutoring"

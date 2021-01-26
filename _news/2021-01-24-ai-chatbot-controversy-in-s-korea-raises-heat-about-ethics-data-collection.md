@@ -7,8 +7,8 @@ originalUrl: "https://www.straitstimes.com/asia/east-asia/ai-chatbot-controversy
 webUrl: "https://www.straitstimes.com/asia/east-asia/ai-chatbot-controversy-in-s-korea-raises-heat-about-ethics-data-collection"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: 51
+published: false
 
 provider:
   name: The Straits Times
@@ -23,36 +23,6 @@ images:
     width: 763
     height: 509
     isCached: true
-
-related:
-  - title: "South Korea has used AI to bring a superstar back to life, but ethical concerns abound"
-    excerpt: "Recent AI performances have excited fans of their music and the technology, but others have raised concerns about the ethics and legalities of resurrecting the voices of the dead."
-    publishedDateTime: 2021-01-26T02:34:00Z
-    webUrl: "https://cnnphilippines.com/world/2021/1/26/South-Korea-AI-superstar-back-to-life.html"
-    type: article
-    provider:
-      name: CNN Philippines
-      domain: cnnphilippines.com
-    quality: 46
-    images:
-      - url: "http://cnnphilippines.com/.imaging/mte/demo-cnn-new/750x450/dam/cnn/2021/1/26/ai-singing-show-south-korea_CNNPH.jpg/jcr:content/ai-singing-show-south-korea_CNNPH.jpg"
-        width: 750
-        height: 450
-        isCached: true
-  - title: "Controversy over AI chatbot in South Korea raises questions about ethics, data collection"
-    excerpt: "Offensive comments and data leaks spark calls for stricter rules and user guidelines.. Read more at straitstimes.com."
-    publishedDateTime: 2021-01-23T16:02:00Z
-    webUrl: "https://www.straitstimes.com/asia/east-asia/controversy-over-ai-chatbot-in-south-korea-raises-questions-about-ethics-data"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 45
-    images:
-      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2021/01/23/ak_ll_2301.jpg?itok=8j6blQ_X"
-        width: 763
-        height: 509
-        isCached: true
 
 secured: "UL4USY5MDU5ig03MzypuESEwjtFzzGh0wUbBVrjjLfEV1bYeFEMaFhaxRIO4c4p2FsXre+SvEpahEGrZ5nQdrMnYLKaQCJx7j+/IytPuN+EQOALbDTiMJeyUIGyW6OkXn7yZNtbv3pYub0Q+pGG0po4rSTyVa6lrVaBhmNuxMQj2giTyPhSV50Q8ozYF4ZyF5t2DnFl9XFX5+MFp1xH4p6f7ggV4w7zoQiriRvb5PFcU2012F8ESblbkFyc/cXhxxHMNrBOMsJmRw2Z8N9ixZ0SopL8bP/+DWERRwbtUdtd7aWNTtqA+mWjwO8bUwm6sMzSWHHOFpgt3uH7hyqg8/XiF2V+knIOyMTZ6xt+OV+Q=;ldgC1jhz92kKnZjOfqXFoA=="
 ---

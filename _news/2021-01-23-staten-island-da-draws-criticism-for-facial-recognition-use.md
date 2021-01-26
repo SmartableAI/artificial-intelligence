@@ -9,8 +9,8 @@ ampWebUrl: "https://www.govtech.com/public-safety/Staten-Island-DA-Draws-Critici
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Staten-Island-DA-Draws-Criticism-for-Facial-Recognition-Use.html?AMP"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Government Technology
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Staten Island DA Quietly Purchased Controversial Facial Recognition Software"
-    excerpt: "\"Facial recognition technology, especially Clearview AI, poses a direct threat to New Yorkers’ basic privacy and civil rights,” public defender Diane Akerman said."
-    publishedDateTime: 2021-01-21T12:00:00Z
-    webUrl: "https://gothamist.com/news/staten-island-da-quietly-purchased-controversial-facial-recognition-software"
-    ampWebUrl: "https://champ.gothamist.com/champ/gothamist/news/staten-island-da-quietly-purchased-controversial-facial-recognition-software"
-    cdnAmpWebUrl: "https://champ-gothamist-com.cdn.ampproject.org/c/s/champ.gothamist.com/champ/gothamist/news/staten-island-da-quietly-purchased-controversial-facial-recognition-software"
-    type: article
-    provider:
-      name: Gothamist
-      domain: gothamist.com
-    quality: 56
-    images:
-      - url: "https://cms.prod.nypr.digital/images/292043/fill-661x496/"
-        width: 568
-        height: 426
-        isCached: true
   - title: "Staten Island D.A. Uses Controversial Facial Recognition Tool"
     excerpt: "The Legal Aid Society has denounced the district attorney’s use of Clearview AI, the surveillance database, and has demanded the D.A. disclose how his office has used and is using the technology. (TNS) — The Legal Aid Society on Thursday denounced the ..."
     publishedDateTime: 2021-01-22T21:42:00Z

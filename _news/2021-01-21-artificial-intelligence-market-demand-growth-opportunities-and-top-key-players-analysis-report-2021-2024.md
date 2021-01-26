@@ -30,33 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "Conversational Artificial Intelligence (AI) Market Expectations and Growth Trends Highlighted Until 2024"
-    excerpt: "Available Exclusive Sample Copy of this Report @  The global market for conversational artificial intelligence (AI) is estimated to grow at a significant rate during the forecast period from 2019 to 2024."
-    publishedDateTime: 2021-01-21T11:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-ai-market-expectations-and-growth-trends-highlighted-until-2024-2021-01-21"
+  - title: "Computer Vision in Healthcare Market Outlook By Industry Size, Share, Revenue, Regions and Top Key Players Analysis"
+    excerpt: "Computer Vision in Healthcare Market Outlook and Forecasts By Top Manufacturers, Production, Consumption, Trade Statistics,Size, Analysis ,Growth Analysis & Regional Analysis (Latin America, North America,"
+    publishedDateTime: 2021-01-26T00:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-outlook-by-industry-size-share-revenue-regions-and-top-key-players-analysis-2021-01-25"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 67
+    quality: 64
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Conversational Kiosks Take Orders with AI and CV"
-    excerpt: "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software."
-    publishedDateTime: 2021-01-25T15:32:00Z
-    webUrl: "https://www.cio.com/resources/213164/conversational-kiosks-take-orders-with-ai-and-cv"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 37
-    images:
-      - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
-        width: 300
-        height: 300
         isCached: true
 
 secured: "KVpkEUio49iIBRtSVQMfgcVod16pRAM9dS1ypoh1ZqOvkFfbOCLzgDNFyrhisZ4JOl6AjI6s1SkqWAvfSa5YV7won1Z5c3R4qQYWLnSlNoB65k7pmqXEEWCMThZQD3Tg7xWh7VRDbmIpOKF200Vk2Lp8w7M/XZ3VpZHhVjg8gAGGVBQfY6ld0Z/NzPdyX0Tod5fZZrpBVgXqwlUokcSm8nrUnG8uSZLhxfRy/mRQQI5yKh95NkurpbwEj0ua7prWr3Mt83i3xLClJHuAnPDBr7Ouo+cbYmYY4Ao2uRTXf7oHGB6GrECwotByQaBGyOjzKNw+nu1wxrP6fTw6sRrqCRMHi3jhuMEzjCkWNk+ZCSY=;kwOFqf3fQ1wRuv00lnipqA=="

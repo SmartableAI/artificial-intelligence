@@ -24,37 +24,37 @@ images:
     isCached: true
 
 related:
-  - title: "This Chinese Lab Is Aiming for Big AI Breakthroughs"
-    excerpt: "China produces as many artificial intelligence researchers as the US, but it lags in key fields like machine learning. The government hopes to make up ground."
-    publishedDateTime: 2021-01-21T12:06:00Z
-    webUrl: "https://www.wired.com/story/chinese-lab-aiming-big-ai-breakthroughs/"
-    ampWebUrl: "https://www.wired.com/story/chinese-lab-aiming-big-ai-breakthroughs/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/chinese-lab-aiming-big-ai-breakthroughs/amp"
+  - title: "Shinan AI leader set to attract more investors"
+    excerpt: "Shinhan AI CEO Bae Jin-soo will place a focus on attracting more retail investors for its artificial intelligence (AI) platforms during his second term. The AI arm of Shinhan Financial Group was launched in 2019 under a group-wide vision of developing more accurate,"
+    publishedDateTime: 2021-01-25T07:32:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/biz/2021/01/602_303018.html"
+    ampWebUrl: "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=303018"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=303018"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 95
+      name: koreatimes.co.kr
+      domain: koreatimes.co.kr
+    quality: 59
     images:
-      - url: "https://media.wired.com/photos/60089079a9a24f451b08fc1e/master/pass/Business-BAAI-Building.jpg"
-        width: 2400
-        height: 1352
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202101/b451cd3e554b45d887b1fcff5bf9fc5c.jpg"
+        width: 394
+        height: 489
         isCached: true
-  - title: "US leads world on artificial intelligence but China is catching up: study"
-    excerpt: "China has more of the world’s 500 most powerful supercomputers than any other nation, researchers say, as countries vie for competitiveness in key industries."
-    publishedDateTime: 2021-01-25T07:02:00Z
-    webUrl: "https://www.scmp.com/news/china/science/article/3119115/us-leads-world-artificial-intelligence-china-catching-study"
-    ampWebUrl: "https://amp.scmp.com/news/china/science/article/3119115/us-leads-world-artificial-intelligence-china-catching-study"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/science/article/3119115/us-leads-world-artificial-intelligence-china-catching-study"
+  - title: "US leads race in artificial intelligence as China rises to the top - survey"
+    excerpt: "The United States is leading rivals in development and use of artificial intelligence while China is rising quickly and European Union is lagging, a research report showed Monday."
+    publishedDateTime: 2021-01-25T11:22:00Z
+    webUrl: "https://www.iol.co.za/technology/software-and-internet/us-leads-race-in-artificial-intelligence-as-china-rises-to-the-top-survey-3fb0c1fa-aab4-49bd-a1c5-731850f8529b"
+    ampWebUrl: "https://www.iol.co.za/amp/technology/software-and-internet/us-leads-race-in-artificial-intelligence-as-china-rises-to-the-top-survey-3fb0c1fa-aab4-49bd-a1c5-731850f8529b"
+    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/software-and-internet/us-leads-race-in-artificial-intelligence-as-china-rises-to-the-top-survey-3fb0c1fa-aab4-49bd-a1c5-731850f8529b"
     type: article
     provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 88
+      name: IOL News
+      domain: iol.co.za
+    quality: 55
     images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/01/25/ae8a9ab0-5ed5-11eb-9099-aaa38b7b3943_image_hires_145105.jpeg?itok=edHse04w&v=1611557476"
-        width: 1200
-        height: 630
+      - url: "https://image-prod.iol.co.za/resize/1280x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/fb718a16-caa7-5490-8675-dcef913ff589&operation=CROP&offset=0x67&resize=1280x720"
+        width: 651
+        height: 366
         isCached: true
 
 secured: "yWJ0v4RGYJ4i4kjPiJZonATGNHtOjjt9EOgldQLul2GL8dGD/H2FUalJ1ROAKv6+svT84v2yrxfbexjt+E5oixzWbLAQj1/f1IfIe3bwyq/arZa35NC2WCM+JFW+r1KA1FCdl+HUzwEixKos/qdrtAB9bhUl1qEpGYLuIecjkUrqn9myswXkIWQ5qJELbWN2DDsYAqvU0WVfT5YihODnYMEVVlbv55Fg5rGWMfy5cfg0ZzTHT3jdpnO90AW9OaStqgBeYdIeg6QOih/TBCBsUOBK+L9CYhzioWy+2DDn2qfunHJNca5iX42plT7DXaqBmtDLo4s2fL6ZrTstCquxP+IU6MG6Yryk/FvIuxze29E=;Kzl+pD13VijpOgFkVwh4Lg=="

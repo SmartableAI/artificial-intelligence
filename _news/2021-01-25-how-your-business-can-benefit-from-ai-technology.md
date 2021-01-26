@@ -40,20 +40,6 @@ related:
         width: 800
         height: 534
         isCached: true
-  - title: "GBT Researching AI based, Robotics Technology for the Medical Field"
-    excerpt: "GBT is commencing new research that is targeting medical application robotics, empowered by its AI system. In this research, the Company will focus on the innovation and technological advancements that is offered by AI to enable medical robots achieving higher standards."
-    publishedDateTime: 2021-01-21T12:42:00Z
-    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-medical-research-artificial-intelligence-communication-technology-integrated-circuits-840d518726887292c8cb151d76072b60"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 69
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Learning with – and about – AI technology | MIT News"
     excerpt: "MIT News. Between distance learning, spending more time at home, and working parents trying to keep their kids occ"
     publishedDateTime: 2021-01-25T19:51:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/computer-vision-in-healt
 webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-outlook-by-industry-size-share-revenue-regions-and-top-key-players-analysis-2021-01-25"
 type: article
 quality: 64
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: MarketWatch
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Artificial Intelligence Market Demand, Growth Opportunities and Top Key Players Analysis Report 2021 – 2024"
+    excerpt: "As per the latest report published by Variant Market Research, Global Artificial Intelligence is estimated to reach"
+    publishedDateTime: 2021-01-21T14:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-demand-growth-opportunities-and-top-key-players-analysis-report-2021-2024-2021-01-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "X1zAT1IVWiyzyCEr5t1UAYPDk7UTurqGbjgM/m+BvGNpE8uvxVkGGub4dA3XyPQWwsztQY42iun+bx6+6jjkTb/2iPloLVdW0TETy6TH0u//6HVfFOekiGUSkIZBpBTeYHmrnrgVscaCo/t8WTGea2lb+wx5q4Zh2AzTC1gW1sT3sGJe9IllkBBiM/AT2zT4tlLEg+ltzhVX+P7trhxXIlC9M9qrt7VorGWPVtRwexPPIPhSaMY/8346ZsfizUPgsBRlmuBSClya12Lg2eMQgIFBx2/EuTVUe9w5gmK1S7GzgVBozYkje7Tz5cL6YJ8lD5c/vxSSbJ9yXNe2//huYgeQZMnjl453TIdvIPpAPvg=;sJESZp0xdpyZpRKfnErALQ=="
 ---

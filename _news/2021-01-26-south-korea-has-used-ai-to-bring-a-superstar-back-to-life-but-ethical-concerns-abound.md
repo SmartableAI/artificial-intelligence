@@ -1,43 +1,45 @@
 ---
 category: news
 title: "South Korea has used AI to bring a superstar back to life, but ethical concerns abound"
-excerpt: "Recent AI performances have excited fans of their music and the technology, but others have raised concerns about the ethics and legalities of resurrecting the voices of the dead."
-publishedDateTime: 2021-01-26T02:34:00Z
-originalUrl: "https://cnnphilippines.com/world/2021/1/26/South-Korea-AI-superstar-back-to-life.html"
-webUrl: "https://cnnphilippines.com/world/2021/1/26/South-Korea-AI-superstar-back-to-life.html"
+excerpt: "For the first time in 25 years, the distinctive vocals of South Korean superstar Kim Kwang-seok will be heard on national television singing new material."
+publishedDateTime: 2021-01-26T01:55:00Z
+originalUrl: "https://www.albanyherald.com/news/world_nation/south-korea-has-used-ai-to-bring-a-superstar-back-to-life-but-ethical-concerns/article_8a7d9a56-12ca-5374-adf2-2f975042092a.html"
+webUrl: "https://www.albanyherald.com/news/world_nation/south-korea-has-used-ai-to-bring-a-superstar-back-to-life-but-ethical-concerns/article_8a7d9a56-12ca-5374-adf2-2f975042092a.html"
 type: article
 quality: 46
 heat: -1
 published: false
 
 provider:
-  name: CNN Philippines
-  domain: cnnphilippines.com
+  name: Albany Herald
+  domain: albanyherald.com
 
 topics:
-  - AI Ethics
   - AI
+  - AI Ethics
 
 images:
-  - url: "http://cnnphilippines.com/.imaging/mte/demo-cnn-new/750x450/dam/cnn/2021/1/26/ai-singing-show-south-korea_CNNPH.jpg/jcr:content/ai-singing-show-south-korea_CNNPH.jpg"
-    width: 750
-    height: 450
+  - url: "https://bloximages.newyork1.vip.townnews.com/albanyherald.com/content/tncms/assets/v3/editorial/7/da/7da39f2f-a6b2-5d52-a4ac-07248759135c/600f7b82a3d6b.image.jpg?resize=1120%2C630"
+    width: 1120
+    height: 630
     isCached: true
 
 related:
-  - title: "AI chatbot controversy in S. Korea raises heat about ethics, data collection"
-    excerpt: "Meet Luda Lee, a self-professed 20-year-old female college student from South Korea who loves eating fried chicken, playing with cats and scrolling through Instagram.. Read more at straitstimes.com."
-    publishedDateTime: 2021-01-23T21:36:00Z
-    webUrl: "https://www.straitstimes.com/asia/east-asia/ai-chatbot-controversy-in-s-korea-raises-heat-about-ethics-data-collection"
+  - title: "South Korea has used AI to bring a dead superstar's voice back to the stage, but ethical concerns abound"
+    excerpt: "For the first time in 25 years, the distinctive vocals of South Korean superstar Kim Kwang-seok will be heard on national television singing new material."
+    publishedDateTime: 2021-01-26T03:22:00Z
+    webUrl: "https://www.kmov.com/south-korea-has-used-ai-to-bring-a-dead-superstars-voice-back-to-the-stage/article_f9df111e-b879-5c9e-80c9-aec19cbedc28.html?block_id=985917"
+    ampWebUrl: "https://www.kmov.com/south-korea-has-used-ai-to-bring-a-dead-superstars-voice-back-to-the-stage/article_f9df111e-b879-5c9e-80c9-aec19cbedc28.amp.html"
+    cdnAmpWebUrl: "https://www-kmov-com.cdn.ampproject.org/c/s/www.kmov.com/south-korea-has-used-ai-to-bring-a-dead-superstars-voice-back-to-the-stage/article_f9df111e-b879-5c9e-80c9-aec19cbedc28.amp.html"
     type: article
     provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 51
+      name: KMOV
+      domain: kmov.com
+    quality: 57
     images:
-      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2021/01/24/ST_20210124_CHAT24_6283167.jpg?itok=ofxQSrwm"
-        width: 763
-        height: 509
+      - url: "https://bloximages.newyork1.vip.townnews.com/kmov.com/content/tncms/assets/v3/editorial/3/11/3115ece7-f6d5-54d4-b780-a1540b9d3563/600f85b6def34.image.jpg?resize=1024%2C576"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Controversy over AI chatbot in South Korea raises questions about ethics, data collection"
     excerpt: "Offensive comments and data leaks spark calls for stricter rules and user guidelines.. Read more at straitstimes.com."
@@ -54,6 +56,6 @@ related:
         height: 509
         isCached: true
 
-secured: "+cfVK9ie/iECb2pXdL/6B1PzZ+fpZZlTXRk5EsfyYh5hyBYKn0OI18KVAQWKv1mwXqNXSkTfbmDtucnHwCw4ZRr+Bg1F9F8RiiQttDGnEScCIFAgVI2oKavpCskvzaAZOvUmcdakbHv5bzrZ4Vy73sF2UlPR/XzjnmBZy/nINt9GWKthPPt2UcFgx7nTt9Cm6vpgo9N57WutpnRj7JWTKC0zi/W9MOg3T2pcd5vauJGpXXL+k8RV7NsG2Rm18zSsGoLYKgfHhbpZXUAKr1U0XFJjl4zU7kpQROP2m4Q57Pv0VFkpwT4WrbbLCOs69u6R5cC5o79IvoFS9eZ/syBr/p8lWJGB9rqRtPix0f8he30=;775My3cQtDkSQYxkqaf59Q=="
+secured: "XbbxJWjTTtE5aJ1ho5bTCmoM42Bz+EMCK/tWsnYz3lmvIwdwh5eJm5uu5RS5WcZsrWCmSjE/xYkf0CJ7oaYLeP/SR3lM4T6Hk74Y+WbY5KADdGApnamGBWLoJkx0csiBEd00eH95bbhj8HzylIzXEeVQcUB70tz0lWuTsIXaqu9jOGHPL1kmV1OM2XqwXvM3xuWyuXF4LiuQ8DhNj3k3MtUTWAYMXWCvbnx+yBvpj9VHfvAfc3ZMf5RIR1VG/1PoHZ2Jo7Vhhs3fgPfrm4p3k0P1WGEMOKHeN8mpT5ayvGvMRgSHQDcmEwTJtzXA215sVQn0diEAPgzgYkzFbvzefcyLGUemldfxW95m4xMWlPo=;WNy50jdlyWbJ10EDHPPBPA=="
 ---
 
