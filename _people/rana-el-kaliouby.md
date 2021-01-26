@@ -10,7 +10,7 @@ website: https://t.co/CptEKpnJzd
 twitter:
   username: kaliouby
   url: https://twitter.com/kaliouby
-  followers: 22947
+  followers: 22948
 
 linkedin:
   url: https://www.linkedin.com/in/kaliouby/
