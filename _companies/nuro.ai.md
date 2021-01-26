@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "nurobots"
   url: "https://www.twitter.com/nurobots"
-  followers: 3462
+  followers: 3463
 
 size: 201-500 employees
 yearFounded: 2016
