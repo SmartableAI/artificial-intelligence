@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AWS AI
 
 related:
   - title: "How to manage your power bill while adopting AI"

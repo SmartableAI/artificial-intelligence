@@ -108,20 +108,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Facial recognition tech deployed in UP to help women in distress"
-    excerpt: "Facial recognition tech deployed in UP to help women in distress - The Lucknow police are deploying facial recognition technology backed by security cameras that will"
-    publishedDateTime: 2021-01-22T04:12:00Z
-    webUrl: "https://www.siliconindia.com/news/general/facial-recognition-tech-deployed-in-up-to-help-women-in-distress-nid-215091-cid-1.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 39
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/pqE9y3e2.jpg"
-        width: 570
-        height: 367
-        isCached: true
   - title: "Indian city plans facial recognition to spot ‘women in need’ | Technology News"
     excerpt: "Indian city plans facial recognition to spot 'women in need' | Technology News A plan to monitor women's facial expressions with facial"
     publishedDateTime: 2021-01-22T13:36:00Z

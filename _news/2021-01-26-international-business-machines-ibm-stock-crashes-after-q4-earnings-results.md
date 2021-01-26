@@ -26,17 +26,6 @@ images:
     height: 240
     isCached: true
 
-related:
-  - title: "International Business Machines Corporation's (IBM) CEO Arvind Krishna on Q4 2020 Results - Earnings Call Transcript"
-    excerpt: "(NYSE:IBM) Q4 2020 Earnings Conference Call January 21, 2021 5:00 PM ET. Company Participants. Patricia Murphy - Vice President-Investo"
-    publishedDateTime: 2021-01-22T03:18:00Z
-    webUrl: "https://seekingalpha.com/article/4400317-international-business-machines-corporations-ibm-ceo-arvind-krishna-on-q4-2020-results"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 0
-
 secured: "MLrI18X1IwpXFAV1RF33RB2ei+TazIGu3LrTEpepjnWfkdKFL3FDMIvp7cRtk1zUkObHw0m+PUvtiVYjYeIKB+21h7ltg4TmwzUvFF12Xn/2Hw8G+ZB5GA6IRjbEOSUIGlnvHJJdx7diWC+WSKa2yPaLG0udOiVOFnHVE4TEleS1sDcmHb7jc1sWX+cpS09DgcVzteVxrUsmd1zmfo5Qioe5a7lQkIS02hzmCty0M4i+ca3eB/rKauSDMZoOBtVPxY7Xv4Xakw6DsHDq0Mp9jZjIg0JCMuJZA5/ubWwfTHK/E2BoRiob/3DVmuHdQxUvejhbdFCREbAD7xe8Q6Xe0vITmImwexhqR+d9b31ddXg=;TOjeBs5DsTNrIF2VhlQCAA=="
 ---
 

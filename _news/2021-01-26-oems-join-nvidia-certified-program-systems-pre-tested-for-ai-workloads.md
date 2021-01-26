@@ -47,20 +47,6 @@ related:
         width: 948
         height: 474
         isCached: true
-  - title: "VAST Data Unveils Joint Reference Architecture with NVIDIA for Large-scale AI Workloads"
-    excerpt: "VAST Data, a storage company, today announced a new reference architecture based on NVIDIA DGX A100 systems and VAST Data’s"
-    publishedDateTime: 2021-01-22T04:30:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/vast-data-unveils-joint-reference-architecture-with-nvidia-for-large-scale-ai-workloads/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 31
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/IBM-In-Memory-Computing-405x228.jpg"
-        width: 405
-        height: 228
-        isCached: true
   - title: "Supermicro Unveils Nvidia GPU Server Test Drive Program with Channel Partners"
     excerpt: "Supermicro, an enterprise computing, storage, networking and green computing technology company, released details on a new GPU test-drive program. Called STEP (Supermicro Test drive Engagement with Partners),"
     publishedDateTime: 2021-01-22T15:10:00Z

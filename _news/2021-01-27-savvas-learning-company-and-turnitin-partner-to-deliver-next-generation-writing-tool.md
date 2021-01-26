@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/savvas-learning-company-a
 webUrl: "https://www.prnewswire.com/news-releases/savvas-learning-company-and-turnitin-partner-to-deliver-next-generation-writing-tool-301215485.html"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,47 @@ images:
     width: 2700
     height: 1414
     isCached: true
+
+related:
+  - title: "How to deliver natural conversational experiences using Amazon Lex Streaming APIs"
+    excerpt: "Natural conversations often include pauses and interruptions. During customer service calls, a caller may ask to pause the conversation or hold the line while they look up the necessary information before continuing to answer a question. For example, callers often need time to retrieve credit card details"
+    publishedDateTime: 2021-01-26T19:19:32Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/delivering-natural-conversational-experiences-using-amazon-lex-streaming-apis/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 84
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/01/26/Lex-Streaming-API-Image-01.26.21.jpg"
+        width: 680
+        height: 340
+        isCached: true
+  - title: "Speech Technology Helps Retailers Deliver on Consumer Expectations for Contactless Shopping Experiences"
+    excerpt: "Businesses across sectors are turning to voice technologies in response to COVID-19 health and safety concerns. These concerns are fueling consumer expectations for more contactless experiences everywhere they go,"
+    publishedDateTime: 2021-01-25T16:00:00Z
+    webUrl: "https://retailtouchpoints.com/features/executive-viewpoints/speech-technology-helps-retailers-deliver-on-consumer-expectations-for-contactless-shopping-experiences"
+    ampWebUrl: "https://retailtouchpoints.com/features/executive-viewpoints/speech-technology-helps-retailers-deliver-on-consumer-expectations-for-contactless-shopping-experiences/amp"
+    cdnAmpWebUrl: "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/features/executive-viewpoints/speech-technology-helps-retailers-deliver-on-consumer-expectations-for-contactless-shopping-experiences/amp"
+    type: article
+    provider:
+      name: Retail TouchPoints
+      domain: retailtouchpoints.com
+    quality: 43
+    images:
+      - url: "https://retailtouchpoints.com/wp-content/uploads/2021/01/voice-ai.jpg"
+        width: 1000
+        height: 581
+        isCached: true
+  - title: "Pindrop and TiVo Partner, Simplifying Video Streaming Content Discovery with Voice Enabled Personalization"
+    excerpt: "TiVo and Pindrop have partnered to deliver a streamlined content discovery experience for consumers, unlocked through voice AI. \"Contextual awareness is key when engaging users through a Natural User Interface."
+    publishedDateTime: 2021-01-26T14:02:00Z
+    webUrl: "https://www.oaoa.com/news/business/pindrop-and-tivo-partner-simplifying-video-streaming-content-discovery-with-voice-enabled-personalization/article_2b3acbe2-04fb-553a-888b-629863257ab8.html"
+    type: article
+    provider:
+      name: Odessa American
+      domain: oaoa.com
+    quality: 0
 
 secured: "booxITiU7zBQuw7n0lbhtAWHc7RsRSfypmf+0FZs7WI5qDStElB674SunA5vyjPcteU3Wu2yI6OAQvBGf2gHcSKa8cr6JSyQkkCxv7/DuW9d3A3fVBJM/S0aEsAgEHACo2sSrdytWAs6vWbi91hCfLI/6eanNRnBh7lmaJen56JknA3leY8gqKfo+aDHduqMtb4mRE9dCOi6bwoVItitPw3Oggv8FRmJGZnfbu9LAtmxQV2QGTlELpOTYhA4igQXdaTSZxFILZP6wyD+BwwfC7N514P/4NJsiqd6Wg/n150NaajQ5bvdCwPDnlEIWIA9742ViJ3uRUFvFZzV8GqRJq094VUOvAloBXJEgUGgL98=;w1RGby3wokXf5PoZwndqVg=="
 ---

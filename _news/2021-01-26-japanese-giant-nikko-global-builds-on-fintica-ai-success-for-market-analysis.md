@@ -24,6 +24,22 @@ images:
     height: 315
     isCached: true
 
+related:
+  - title: "Japanese giant Nikko Global builds on Fintica AI success for market analysis"
+    excerpt: "Fintica AI, Ltd. announced today the successful execution of a project for leading international Japan-based asset management company,"
+    publishedDateTime: 2021-01-26T19:57:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/japanese-giant-nikko-global-builds-on-fintica-ai-success-for-market-analysis-301215010.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 36
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
+
 secured: "+x7Z8+JH+v988S3qKP4aK6F7swebQ2QdMUbuYpWVlfkZdzbmY0+dtepdBOCyoDDRi5GMpgWyv2eEIxscpbv5Mg7rR6ANxwWVAfvGuuCS7yCdBKd00MGuURyrgHSWa4Nx72phMadugwU2UV/enwmqH2DglIuudrhzK4AFZLk5iHTsae4XY+xii7ak38YocdUr7YZSYALvCwN21Xzh3kceEEJtpv+44RuQjGbOAsG/1fYnC0m4XjPcnbu/JE4YUYIqr4tAqNxTK0wQevR2AI21wyFmJ56ipD9e4bVnhRcKyOrmVDUsRkyOP1d21gAVUMrumvZXAQw4XaYBL0WYr84uTHpZssKqSKyDRMdWg3xesPw=;M/bYuTum6AqRy0sqNi3mAA=="
 ---
 

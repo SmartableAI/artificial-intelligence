@@ -9,8 +9,8 @@ ampWebUrl: "https://www.androidheadlines.com/2021/01/google-investigation-ai-eth
 cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/01/google-investigation-ai-ethicist-controversial.html/amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Android
@@ -39,20 +39,6 @@ related:
       - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2021/01/ethical-ai-google.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Controversy over AI chatbot in South Korea raises questions about ethics, data collection"
-    excerpt: "Offensive comments and data leaks spark calls for stricter rules and user guidelines.. Read more at straitstimes.com."
-    publishedDateTime: 2021-01-23T16:02:00Z
-    webUrl: "https://www.straitstimes.com/asia/east-asia/controversy-over-ai-chatbot-in-south-korea-raises-questions-about-ethics-data"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 45
-    images:
-      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2021/01/23/ak_ll_2301.jpg?itok=8j6blQ_X"
-        width: 763
-        height: 509
         isCached: true
 
 secured: "N8r4eWWhtTyOXKtAs+BAt+Jp1voS1VqiUlkewNoDvzQFk1JG5YWEUmqvMPjBagEEDN6g5PJBxFlh3Z25g0HcW/6nDg7p6OqTvZKW4gYNNyHEQKw5m1/QL73X9r77s//7If75Iekmi4+FMHzjjvHf/R4DXN+Y1sQJ3YBAiEtJmdK3aX1fIsOGVO7lUdwS3NMyM+8GWp1sz8OwkXmpINIhTDmBuMawT8F6GaJQI2iI+UAusgl+byOneuE7tnN8/Y3fVfavKlW9y4gS8l9E8Y4OgThTUf/2cfoi0wR7VjKquedjdktSeswH6jFDcqtPb2qKBEDwDiSVuk21OrXaiztuo81uyJFEdg+8nklnTuF8bBq+xGeymwIGw8vxxD71X242MGW2SvuGagLef5ayRA1NWfdFzd0aLmMoTHIozA9hnBDoCcF5LN/LD3wteeSrLbAEvyw+rPnM7sbck42PPMa5wRKPXdYnSk4AfVqdj9LRHeAYRyyN6K9Y5GbuGoV/nabsiBMAVwEcGbEb2x7Yw2P4qg==;Z2lvtycxIzzbw9jLvofbig=="

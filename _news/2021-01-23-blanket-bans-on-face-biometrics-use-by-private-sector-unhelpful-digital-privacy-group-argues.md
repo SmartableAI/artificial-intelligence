@@ -39,6 +39,20 @@ related:
         width: 730
         height: 499
         isCached: true
+  - title: "T-Money trials face biometrics for contactless payments to public transportation"
+    excerpt: "T-Money operator Korea Smart Card will evaluate the speed of payment using the facial recognition system, and then look at ways of better commercializing it."
+    publishedDateTime: 2021-01-25T21:42:00Z
+    webUrl: "https://www.biometricupdate.com/202101/t-money-trials-face-biometrics-for-contactless-payments-to-public-transportation"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 19
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/01/25160527/t-money-facial-recognition-payment-1024x662.jpg"
+        width: 1024
+        height: 662
+        isCached: true
 
 secured: "5PXX5rWZzxGEvrVBrh9/6I/cXWVo3eyPG1h16eKTSC18yMJ5u9bzDD8O0cIXsXRqbrloUaImbZVrUrG4eVEce38D3zSGuUnaR6+4CITPVLCDAyjVGWms6XbyRrY6WxH+G9nJA78egfD1XQd5fU6OOIWiQjSMIawgDKzQ6A2+TwcnJHCd0BXmXkLdSitkEctCB45ql9eoyIzqr3Uzov2URVCTPVhmCKgSHm6BH+4X7oxXtmWLn3GU+ZxXlF+8OD3UyZQ4KrLIgx/yUiFjzj59fPUzZD/FP0+3dfEQqLZRIQEZg8KS/MLAonAEC6UEmplWVTkA5FH3kBBcl1ZCMgebH+PIksnVyCZItwuyiuqwqCY=;8+zm3ko+GB8JDnmFvNGIaA=="
 ---

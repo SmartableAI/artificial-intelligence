@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/home-theater/pindrop-voice-recognition
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home-theater/pindrop-voice-recognition-biometric-id-user-profiles-tivo/?amp"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -75,15 +75,6 @@ related:
         width: 600
         height: 600
         isCached: true
-  - title: "Pindrop and TiVo Partner, Simplifying Video Streaming Content Discovery with Voice Enabled Personalization"
-    excerpt: "TiVo and Pindrop have partnered to deliver a streamlined content discovery experience for consumers, unlocked through voice AI. \"Contextual awareness is key when engaging users through a Natural User Interface."
-    publishedDateTime: 2021-01-26T14:02:00Z
-    webUrl: "https://www.oaoa.com/news/business/pindrop-and-tivo-partner-simplifying-video-streaming-content-discovery-with-voice-enabled-personalization/article_2b3acbe2-04fb-553a-888b-629863257ab8.html"
-    type: article
-    provider:
-      name: Odessa American
-      domain: oaoa.com
-    quality: 0
 
 secured: "f/uqdaQEBEX4TETIGl8IeKdK1h1DhXsH9Bzkg9EXNYTKIc8+4uH/ZuCBvKyTwzWyCJiqcxNuh5WIZ2p0AKn85ZwqbpmP8YqcuXDCp9ixLZs1AuOvDK2Wp5OUfCZnn36mCgApAM8vIi1jNtiOi1BrLLXzaXw20qWh5gNuu6eeCrDw8eK2yKH1gXUTtD3/zm2I8XeIvwbh+lGS5aKaD+dvm2NeCD6cpvbauYkIQFFKBI5PWHZEA8Gf2CYjY2rhuiTgMEGo+IJ9kzoJdtQZ3JNsP/DLWSJcuS0aOaV3z93wR47AbJClXkqCIwefA1aI24gUzDJXfkNPq94XbUI/YGMnceqmOJczA9t5t1qOTTpgCic=;rwsbmNcqm9u/9LPE//zkRw=="
 ---

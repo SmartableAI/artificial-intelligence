@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2021/01/22/how-fintech-and-serial-founders-dr
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/22/how-fintech-and-serial-founders-drove-african-pre-seed-investing-to-new-heights-in-2020/amp/"
 type: article
 quality: 66
-heat: -1
-published: false
+heat: 76
+published: true
 
 provider:
   name: TechCrunch
@@ -31,47 +31,15 @@ images:
     isCached: true
 
 related:
-  - title: "5G, fintech and mega-projects: What 2021 will mean for tech in the Middle East"
-    excerpt: "The MENA region is in the middle of a digital transformation, which 2020 and COVID-19 has only accelerated. I asked five experts to share the tech trends they see influencing the Middle East and North Africa (MENA) this year,"
-    publishedDateTime: 2021-01-22T03:08:00Z
-    webUrl: "https://www.zdnet.com/article/5g-fintech-and-mega-projects-what-2021-will-mean-for-tech-in-the-middle-east/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/5g-fintech-and-mega-projects-what-2021-will-mean-for-tech-in-the-middle-east/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/5g-fintech-and-mega-projects-what-2021-will-mean-for-tech-in-the-middle-east/"
+  - title: "AI fintech start-up looking to tackle small business late payments gets seed funding"
+    excerpt: "A fintech start-up that's looking to tackle the late payments epidemic, and ensure small businesses get paid on time, has raised seed funding. London-based Previse has bagged £2m in the round, which was led by Hambro Perks,"
+    publishedDateTime: 2021-01-26T11:59:00Z
+    webUrl: "https://startups.co.uk/news/ai-fintech-start-up-looking-to-tackle-small-business-late-payments-gets-seed-funding/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 70
-    images:
-      - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/01/14/fe0581d7-3dc7-4fa7-a1c5-25388306266b/thumbnail/1200x675/990265b0101deff5bded0bc31bc9276b/us-troops-deploying-to-the-middle-east-t-5e1db2285413ee0001a552fc-1-jan-14-2020-13-17-19-poster.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "WEVO Selected for MassChallenge FinTech 2021 Program"
-    excerpt: "BOSTON, MA / ACCESSWIRE / January 21, 2021 / WEVO, a customer experience platform that provides the fastest, most accurate insight to optimize digital experiences, was selected to participate in the 2021 MassChallenge FinTech program."
-    publishedDateTime: 2021-01-22T06:06:00Z
-    webUrl: "https://apnews.com/press-release/accesswire/technology-business-corporate-news-corporate-sponsorship-products-and-services-9dd948164ced57d8a238705174e0a5c0"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "US Fintech Startup, Flaist is Selected for the Prestigious International Accelerator Program, Techstars Hub71 Abu Dhabi"
-    excerpt: "The fintech startup, Flaist, has announced it's been selected for the prestigious 2021 class of Techstars Hub71"
-    publishedDateTime: 2021-01-25T12:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/n19292996/us-fintech-startup-flaist-is-selected-for-the-prestigious-international-accelerator-program-techst"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19292996"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19292996"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 15
+      name: Startups
+      domain: startups.co.uk
+    quality: 12
 
 secured: "y77+b2528mvBOAywWJXuXM1aNV41jsipgBK2D5nfHY8gOvMh2UM4c2lOyovo84hGZXodYst2GZ6pFcT7GVSMlXYVkYT36LXy6ttCvRtX0+o6bCqXvQWeCIlZmiR2WWLdoj0TWQBz3zxRuQNXS0yIIPU7Z/zrmRgScAZvJ2Kgxgpozq2zmKbW89noIS14e64EIA09EVn6dTQYlw4ObyShKV/L1lJJCRWnTkbYaLWy+TGOR0EeAeyvF7n7HxBVCAj34/aRAFqopjETOiXO13gk72T7QcTeClQhCVGuv65S4nqOjpQkh7Vw1xgSnVtW1fQjSAg2nHvhkIDslrETeUXPRyQ0S9c3TQy1/iEZ/uCsd4zNZLT72EgWB2bU08R3bZTWHBvY88S/S/5ju5vdt32iy94U9NZqz1vLkm92cznj12QgFUWdoAfiIfz/JxfDJosKpdOe5geTh9DYoMdlCZRDyEVn1B/9IzYtBtqVfN94f1TxyfCPomBqW5xsrHTnWgRQT2TXFpv9zAMWGasGBkGicg==;Y2RTyaKohOSk/QCfmPgkAg=="
 ---

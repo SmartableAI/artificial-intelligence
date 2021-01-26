@@ -93,17 +93,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
-  - title: "Minneapolis Considers Facial Recognition Tech Ban"
-    excerpt: "A controversial crime-fighting tool could soon be off limits in Minneapolis, reports Erin Hassanzadeh (2:06). WCCO 4 News At 10 - January 21, 2021"
-    publishedDateTime: 2021-01-22T04:51:00Z
-    webUrl: "https://minnesota.cbslocal.com/video/5222289-minneapolis-considers-facial-recognition-tech-ban/"
-    ampWebUrl: "https://minnesota.cbslocal.com/video/5222289-minneapolis-considers-facial-recognition-tech-ban/amp/"
-    cdnAmpWebUrl: "https://minnesota-cbslocal-com.cdn.ampproject.org/c/s/minnesota.cbslocal.com/video/5222289-minneapolis-considers-facial-recognition-tech-ban/amp/"
-    type: article
-    provider:
-      name: CBS Local
-      domain: cbslocal.com
-    quality: 39
   - title: "New advances in the detection of bias in face recognition"
     excerpt: "A team from the Computer Vision Center CVC and the University of Barcelona has published the results of a study that evaluates the accuracy and bias in gender"
     publishedDateTime: 2021-01-25T16:45:00Z

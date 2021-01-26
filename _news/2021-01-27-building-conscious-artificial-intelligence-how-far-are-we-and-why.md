@@ -6,8 +6,8 @@ publishedDateTime: 2021-01-26T17:52:00Z
 originalUrl: "https://www.analyticsinsight.net/building-conscious-artificial-intelligence-how-far-are-we-and-why/"
 webUrl: "https://www.analyticsinsight.net/building-conscious-artificial-intelligence-how-far-are-we-and-why/"
 type: article
-quality: 39
-heat: 39
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -17,6 +17,8 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Robotics
+  - Machine Learning
 
 images:
   - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/Conscious-AI.jpg"

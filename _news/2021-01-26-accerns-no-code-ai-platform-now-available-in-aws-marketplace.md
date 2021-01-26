@@ -1,28 +1,30 @@
 ---
 category: news
 title: "Accern's No-Code AI Platform Now Available in AWS Marketplace"
-excerpt: "Accern, a leading no-code, artificial intelligence (AI) company today announced that its no-code AI platform will now be available for subscription in AWS Marketplace. Amazon Web Services (AWS) customers can subscribe to Accern to rapidly build and deploy AI models and immediately gain insights on ESG behaviors and controversies,"
-publishedDateTime: 2021-01-26T15:26:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/accern-s-no-code-ai-platform-now-available-in-aws-marketplace-1030005268"
-webUrl: "https://markets.businessinsider.com/news/stocks/accern-s-no-code-ai-platform-now-available-in-aws-marketplace-1030005268"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/accern-s-no-code-ai-platform-now-available-in-aws-marketplace-1030005268"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/accern-s-no-code-ai-platform-now-available-in-aws-marketplace-1030005268"
+excerpt: "Accern, a leading no-code, artificial intelligence (AI) company today announced that its no-code AI platform will now be available"
+publishedDateTime: 2021-01-26T15:15:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/01/n19323864/accerns-no-code-ai-platform-now-available-in-aws-marketplace"
+webUrl: "https://www.benzinga.com/pressreleases/21/01/n19323864/accerns-no-code-ai-platform-now-available-in-aws-marketplace"
+ampWebUrl: "https://amp.benzinga.com/amp/content/19323864"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19323864"
 type: article
-quality: 84
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - AI
   - AWS AI
+  - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1276354/Accern_Logo.jpg"
+    width: 400
+    height: 400
+    isCached: true
 
 related:
   - title: "JetPlay’s Ludo AI platform accelerates game concept creation"
@@ -70,6 +72,6 @@ related:
         height: 512
         isCached: true
 
-secured: "lzC/V8472ioXxWhB9on1R2AnI8OGCak3IfS6ro4VS367xLV/yOM253rp3wkHHKvnxK/Z2gLWIxIT0zdIbKEUJqUWkoyJAG6HWy5XlawUsnKSMWNWs7Ld5lspgMBhGIdaXz65BFS8N4vGtezSlOt2b9YSZ/ufPWxgfkHHwZSkLhofkr3G4AtQqVqcLjmNOhnlWhneV1Qv+qxkjZV+wCVDgQJDp6LIntlUQO+OCsk4pXAP5yE4+6icAFz9a9fDCKe08x93n5K6iUFLubPrsngxNUptbkt5Ypg4DkdARbQlKZ7o0oTNIf1DOKQT7lWQgRPWQpBkfqH5cUy9bFG4kZ3NaNYlhSgnCFrFQeHXh81Ffk0=;VVb44OpLYt1M7LoBbhBsdg=="
+secured: "qYn4TYUFwazzGtVdLXCfygwZJsErDMzRhKhcpd9P3EIWwH9b6G/dJlTNG29PVDWNQSsdNSAMUckUfiRWE4JSlr5wTsHjyIkis4R6y06B5jNEhJS1eShMJZNWyUZaro3vDbElayKU1NfOYSasav7FMjmpLuRf5eZwmyRfX/XxHd/dNNfkg+fz0vw76MJIXhEmwlQ5hToMte/pSNQBMAB2xJu+nt6i16031b7Qd/qBwJtQshmMtphlNu/L6dbrAUmBoZFxGMs1LN6cYnqVOM5mEonmXMfnuNNkKYWm7svVjkO5vkb2sSXpWnBk7c2srQDrIFpoghL2gFNUBtdG8XuNpdGeTlpJPc6kgxdhGRTMJ/U=;iXTrucW3x/BEbzEz6ITzXQ=="
 ---
 

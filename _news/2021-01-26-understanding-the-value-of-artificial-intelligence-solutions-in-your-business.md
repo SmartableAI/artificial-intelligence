@@ -46,17 +46,6 @@ related:
         width: 500
         height: 333
         isCached: true
-  - title: "Spraoi's Machine Learning Solution Deployed for Reliance Standard's Retirement Services Operations"
-    excerpt: "Spraoi announced today that Reliance Standard Life Insurance Company (Reliance Standard) successfully deployed models for the identification of operational inconsistencies (e.g. churning, anomalous activity) across new business and in-force transactions within their block of traditional and indexed annuity business."
-    publishedDateTime: 2021-01-26T18:21:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/spraoi-s-machine-learning-solution-deployed-for-reliance-standard-s-retirement-services-operations-1030005913"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/spraoi-s-machine-learning-solution-deployed-for-reliance-standard-s-retirement-services-operations-1030005913"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/spraoi-s-machine-learning-solution-deployed-for-reliance-standard-s-retirement-services-operations-1030005913"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 55
   - title: "Ouriginal Partners With AI-based Solution Provider Analytikus To Support Higher Education In ..."
     excerpt: "Advanced analytics solutions to strengthen academic integrity even in digital education environments (STOCKHOLM/MIAMI, 26 January 2021) - Ouriginal, Europe’s leading provider of text-matching solutions for plagiarism prevention and text-similarity detection,"
     publishedDateTime: 2021-01-26T08:30:00Z
@@ -84,6 +73,20 @@ related:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/AI-1-scaled.jpg"
         width: 2560
         height: 1711
+        isCached: true
+  - title: "Spraoi’s Machine Learning Solution Deployed for Reliance Standard’s Retirement Services Operations"
+    excerpt: "Spraoi announced today that Reliance Standard Life Insurance Company (Reliance Standard) successfully deployed models for the identification of operational inconsistencies (e.g. churning, anomalous activity) across new business and in-force transactions within their block of traditional and indexed annuity business."
+    publishedDateTime: 2021-01-26T19:34:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/business-financial-services-life-insurance-providers-insurance-industry-1cd972f5778f677a438716a1503955d7"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 27
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "Bzj0Fi7D69jfNdzNOGm8ucQNLZ8ZRElx227tLJlLCNeTX6uep2TmXcf+TsBad2zDdL4/nJk3ZqmIJnwBcn7znTBeFjh0wJkPd07IsIpkDRoOabF+3zUZVOF50sE/qssAQ5j4MlxaKtA177t8PU7HiE6GS2VsZmBN/VpGqiTUr5i1z0t1UqVMwWe0nEF55fjVosjeGGYPCoT6UR0PL4M/3hVqClT2GCKDCtBcyLOwiCNzWXA8PJI5ll24aaG1RAxJxBunfJGLMVzuFFxmfWZMdDPgYbo57kkVimbiAgkZdxoh5a0/weLOZrivtVBknvRiUKI+sAQcO70JLeprYLhmM+rnrxTOBnnH666GUI4xS2k=;mVyAuIJY5PEPV1TcnsdHpQ=="

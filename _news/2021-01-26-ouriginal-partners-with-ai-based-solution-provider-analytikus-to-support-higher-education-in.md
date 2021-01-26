@@ -57,17 +57,6 @@ related:
         width: 500
         height: 333
         isCached: true
-  - title: "Spraoi's Machine Learning Solution Deployed for Reliance Standard's Retirement Services Operations"
-    excerpt: "Spraoi announced today that Reliance Standard Life Insurance Company (Reliance Standard) successfully deployed models for the identification of operational inconsistencies (e.g. churning, anomalous activity) across new business and in-force transactions within their block of traditional and indexed annuity business."
-    publishedDateTime: 2021-01-26T18:21:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/spraoi-s-machine-learning-solution-deployed-for-reliance-standard-s-retirement-services-operations-1030005913"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/spraoi-s-machine-learning-solution-deployed-for-reliance-standard-s-retirement-services-operations-1030005913"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/spraoi-s-machine-learning-solution-deployed-for-reliance-standard-s-retirement-services-operations-1030005913"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 55
   - title: "Understanding the reasons behind the Huge Energy And Power Demands of Artificial Intelligence"
     excerpt: "The high energy consumption of artificial intelligence models, especially in neural network training (e.g. BERT) leads to huge carbon footprint. Spiking Neural network (SNN) has been proposed to start age of Green AI."
     publishedDateTime: 2021-01-24T11:47:00Z
@@ -81,6 +70,20 @@ related:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/AI-1-scaled.jpg"
         width: 2560
         height: 1711
+        isCached: true
+  - title: "Spraoi’s Machine Learning Solution Deployed for Reliance Standard’s Retirement Services Operations"
+    excerpt: "Spraoi announced today that Reliance Standard Life Insurance Company (Reliance Standard) successfully deployed models for the identification of operational inconsistencies (e.g. churning, anomalous activity) across new business and in-force transactions within their block of traditional and indexed annuity business."
+    publishedDateTime: 2021-01-26T19:34:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/business-financial-services-life-insurance-providers-insurance-industry-1cd972f5778f677a438716a1503955d7"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 27
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "yqjnC8PBy2WMELH0Bw4bt4MIz4f46c0A0heyIQDAyCnODBgmKfjjLl1nbMVlryX9qm5G0bxfHNy5JP6FLlDos8KLDcFXsVEOgl3gRqn7ErhAQqZ065XatKgp3hp8zlVUzDUryNsVBe+mPBI1BRLWzEkjcOh1LhZiCtlZRjJOeBotTaypo3h1I31q1W3Jb3gx3JO5TFcSeaZ0BjUL5iN9YG9G2fxJvs1B1EokJLwzb8Z9QSYLNw5clpF40RIC4hue3mpZsKtyz0ZVT3oY8f06NwljwKgzkQ1SO0v75wPkWy0YY+8nFlElhHNfFOpbTmLnSRR56cOk0+RnyDoYo50AwrHtic7239gmgyWTJv9POac=;F7hqb1cIe5NWgaEB69sCew=="

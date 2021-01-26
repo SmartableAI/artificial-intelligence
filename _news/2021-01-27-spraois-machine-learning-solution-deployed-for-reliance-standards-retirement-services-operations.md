@@ -1,28 +1,29 @@
 ---
 category: news
-title: "Spraoi's Machine Learning Solution Deployed for Reliance Standard's Retirement Services Operations"
+title: "Spraoi’s Machine Learning Solution Deployed for Reliance Standard’s Retirement Services Operations"
 excerpt: "Spraoi announced today that Reliance Standard Life Insurance Company (Reliance Standard) successfully deployed models for the identification of operational inconsistencies (e.g. churning, anomalous activity) across new business and in-force transactions within their block of traditional and indexed annuity business."
-publishedDateTime: 2021-01-26T18:21:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/spraoi-s-machine-learning-solution-deployed-for-reliance-standard-s-retirement-services-operations-1030005913"
-webUrl: "https://markets.businessinsider.com/news/stocks/spraoi-s-machine-learning-solution-deployed-for-reliance-standard-s-retirement-services-operations-1030005913"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/spraoi-s-machine-learning-solution-deployed-for-reliance-standard-s-retirement-services-operations-1030005913"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/spraoi-s-machine-learning-solution-deployed-for-reliance-standard-s-retirement-services-operations-1030005913"
+publishedDateTime: 2021-01-26T19:34:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/business-financial-services-life-insurance-providers-insurance-industry-1cd972f5778f677a438716a1503955d7"
+webUrl: "https://apnews.com/press-release/pr-newswire/business-financial-services-life-insurance-providers-insurance-industry-1cd972f5778f677a438716a1503955d7"
 type: article
-quality: 55
+quality: 27
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
+  - Machine Learning
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Understanding The Value Of Artificial Intelligence Solutions In Your Business"
@@ -86,6 +87,6 @@ related:
         height: 1711
         isCached: true
 
-secured: "JWSjSxvvEVqJnMyyhD38Aez6QY6IU0M2Zd19gm/YZ+4ZwQdb8alRUhIgRtYvFYOUsE9crG4NkagiCPdgPFVd6TWR5e6gdzm/D+UrA8bdegip1bfJ9BS2dwghcf9K2Jy8Zljzn8OsgL8NuqsF7Ea2/kS9yZhaSfxLmiQKU+cAm0JMNdYwrY72uzlNRBftryUfizuisMWK9z9l4L52DABTbAGvT8IJgqOYuzYkbSgDQ84htU8ltpynqK+XIxu1EMq7as13mhYbQauMFN4s/COqPBSwImcDSoNpXAtohH3/6oD4+eLzBAY2+MC1oXANtrJv85Su/5Gy/cR/RdegDIwPMJgzGufpLHyI/a43rnwVdxo=;Hv2638yn0n9ZcyLZQzoE0g=="
+secured: "YBeO2Eb8XASYIpmYTtp6+zTOLo0ODvTpL6M1B74LsRAVWmj+DnrwsI33zYj3f4Qfc4/bP5thqbN34y26fUSwtv2UD7CQlG1cXw8kRt2GLxoaYeMY/bS7i8MbS/HBzCMqGYDf6l6VcMDkgiFvtotQvD+YWrm4OmaQkxtKAQqCoKem+t4YoM9sQyb7RdiXkimjydxYu1mrAPiZDPAV8F/U0xTzvQKKK9+0mX8Gu6WWGjbphsVkTkFmjbMHaKY3hM+UPIW34C0KwJ2AwhW7+Y9cXraurs3YsIN16H5BOj5LsUUDQePg8UIFmuXecfuxFAUORJLqWCXLY595J25VDxTfGXSTHW1IZYAkMx9mTymcuU0=;qu8HzoiW7iJSoVBKOQqDdg=="
 ---
 

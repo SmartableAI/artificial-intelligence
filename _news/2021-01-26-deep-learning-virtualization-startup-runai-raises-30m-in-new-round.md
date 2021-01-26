@@ -42,6 +42,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Run:AI raises $30M putting GPUs to work"
+    excerpt: "Run:AI looks at training resources a little differently. The Israeli AI company, which was founded in 2018 by CEO Omri Geller and Dr. Ronen Dar, has built an orchestration and virtualization software layer tailored to the unique needs of AI workloads running on GPUs and similar chipsets."
+    publishedDateTime: 2021-01-26T19:51:00Z
+    webUrl: "https://www.geektime.com/run-ai-raises-30m-putting-gpus-to-work/"
+    ampWebUrl: "https://www.geektime.com/run-ai-raises-30m-putting-gpus-to-work/amp/"
+    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/run-ai-raises-30m-putting-gpus-to-work/amp/"
+    type: article
+    provider:
+      name: Geektime
+      domain: geektime.com
+    quality: 57
+    images:
+      - url: "https://www.geektime.com/content/images/2021/01/RunAi-company-image2-01-1-1611498110-1536x1024.jpg"
+        width: 1536
+        height: 1024
+        isCached: true
   - title: "Run:AI Raises $30M To Split Up GPUs Into AI, HPC Containers"
     excerpt: "Run:AI has raised a new $30 million Series B funding round for its virtualization platform, which can split up GPUs and spin them into Kubernetes containers."
     publishedDateTime: 2021-01-26T14:21:00Z

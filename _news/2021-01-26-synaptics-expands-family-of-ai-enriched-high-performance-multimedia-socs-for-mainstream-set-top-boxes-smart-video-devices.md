@@ -1,27 +1,23 @@
 ---
 category: news
 title: "Synaptics Expands Family of AI-enriched, High-Performance Multimedia SoCs for Mainstream Set-Top Boxes, Smart Video Devices"
-excerpt: "Synaptics® Incorporated (Nasdaq: SYNA), today announced customer sampling of its VideoSmart™ VS640, a next generation edge computing SoC that is AI-enriched for emerging set-top boxes, streaming OTT devices,"
-publishedDateTime: 2021-01-26T13:11:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/synaptics-expands-family-of-ai-enriched-high-performance-multimedia-socs-for-mainstream-set-top-boxes-smart-video-devices-1030003834"
-webUrl: "https://markets.businessinsider.com/news/stocks/synaptics-expands-family-of-ai-enriched-high-performance-multimedia-socs-for-mainstream-set-top-boxes-smart-video-devices-1030003834"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/Synaptics-Expands-Family-of-AI-enriched-High-Performance-Multimedia-SoCs-for-Mainstream-Set-Top-Boxes-Smart-Video-Devices-1030003834"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Synaptics-Expands-Family-of-AI-enriched-High-Performance-Multimedia-SoCs-for-Mainstream-Set-Top-Boxes-Smart-Video-Devices-1030003834"
+excerpt: "Synaptics® Incorporated (NASDAQ: SYNA ), today announced customer sampling of its VideoSmart™ VS640, a next generation edge computing SoC that is AI-enriched for emerging set-top boxes, streaming OTT devices,"
+publishedDateTime: 2021-01-26T13:02:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/01/g19318053/synaptics-expands-family-of-ai-enriched-high-performance-multimedia-socs-for-mainstream-set-top-bo"
+webUrl: "https://www.benzinga.com/pressreleases/21/01/g19318053/synaptics-expands-family-of-ai-enriched-high-performance-multimedia-socs-for-mainstream-set-top-bo"
+ampWebUrl: "https://amp.benzinga.com/amp/content/19318053"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19318053"
 type: article
-quality: 43
-heat: 43
+quality: 13
+heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - AI Hardware
+  - Google AI
   - AI
 
 related:
@@ -40,6 +36,6 @@ related:
         height: 450
         isCached: true
 
-secured: "zyG5s54v6G2HQqMVSfYIbqjqiOwct0Sbcz9jyjhWmi4cc/kqh2BZguoyvWWfn4yFOuBNlef2f/UMfcuA3U6I/9Jsw0UuJtFAxlmaTaIisSUkmKGhiOCQVTaB93SJYcTTHmq3muxZTSknQQsYAtWooECQu3ZvY0lkBoQvVbOYcOdrEnh6mbHJ17HoJk2kFpy6Lyt7aX/NZQBmWvT7Rww+wCJvPX5VUyYwAda1nxaOyU6GVi98ucyoYnL28ybKfuvgYkXmS8mZeBN1HF3EMRlSQclDu5UYAfbbTe2iStkk6eLK1Y9Fak5gg+ZprBCPs+GAbQkdMjhr5RHHL0ZKuIxxtQSCDZSg6o4z+xRppd1xTq0=;KiqGe1qogFCwemrABfefcA=="
+secured: "A3QIS5aYCkPe+CJdUxS3AzbNLF0fk9MGdrBkIYTcG0KnMKMszWUAnQhuyILcFHjXpDI+TNjLnqjGgyGHA48DJqC4LZBUDvBGsVOMd1SvuAjlRVcPTOYk85iDLzfKtyArGbLmNlO16Jfy1z7O4R/ViYUDNFiwua5BTe13sms3U+jfJM6rRXTLtewYAB1EHz8pCrrhicaKpBM+KsUngXzXvzvsvyQMeLj8E6wBLPS6K6qPlXTklXpiWhgTrAYID1XpVdFICH+iJcZt9TnFOYkDocbm3/8s0H8WSzprwhiu8c/xFjsTy7TBAbisrfyVBmBOPHtAp2lhc+Re6W/JRlAGInosQdsNVfTH4Z65uzWknZE=;RxmaSA87/jm0/PLcXTGE2g=="
 ---
 

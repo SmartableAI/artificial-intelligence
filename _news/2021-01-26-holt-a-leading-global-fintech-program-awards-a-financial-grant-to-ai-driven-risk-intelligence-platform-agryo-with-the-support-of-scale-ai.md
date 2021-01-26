@@ -35,15 +35,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
-  - title: "AI fintech start-up looking to tackle small business late payments gets seed funding"
-    excerpt: "A fintech start-up that's looking to tackle the late payments epidemic, and ensure small businesses get paid on time, has raised seed funding. London-based Previse has bagged £2m in the round, which was led by Hambro Perks,"
-    publishedDateTime: 2021-01-26T11:59:00Z
-    webUrl: "https://startups.co.uk/news/ai-fintech-start-up-looking-to-tackle-small-business-late-payments-gets-seed-funding/"
-    type: article
-    provider:
-      name: Startups
-      domain: startups.co.uk
-    quality: 12
 
 secured: "aYRnB8PbKyw9V6/akMxmqu62C6E+QROyHoLDe9oFV7MG4Kq2rtqgO49YYdJ24q56/hanIb5yihbCNp1ijHpPCjnikR/jvJ4SIs3GgNWNzBMTDS9o1J1F01kby3zOwcfR2+XKk7ybSzSslWxquIdcAlc8DrabTKOfZLhCyEDGWU5D9saUj5vv5CSzIEjiqhMHFCRDeTFpPLMwZNL8uhrcwy+CuubiLI9Oqacg60UPNm/hP5ObTAIwwNKaNhCV0dLtyNT1QnBI/mBnt+7xYjgF+TAs/bJW7OBz5wRscuJsiUzpX/QzWgHXZS1w+WVFb3C6O28ZMlfWaBU80/DfoiRpTn4MiEiiikpLrZe6LGjjA9A=;2zPgiXFxaItXT0ovnQs5PQ=="
 ---

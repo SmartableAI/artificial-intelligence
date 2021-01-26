@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.wdio.com/articles/ban-facial-recognition-minneapolis--59
 cdnAmpWebUrl: "https://amp-wdio-com.cdn.ampproject.org/c/s/amp.wdio.com/articles/ban-facial-recognition-minneapolis--5986531.html"
 type: article
 quality: 59
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -79,17 +79,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
-  - title: "Minneapolis Considers Facial Recognition Tech Ban"
-    excerpt: "A controversial crime-fighting tool could soon be off limits in Minneapolis, reports Erin Hassanzadeh (2:06). WCCO 4 News At 10 - January 21, 2021"
-    publishedDateTime: 2021-01-22T04:51:00Z
-    webUrl: "https://minnesota.cbslocal.com/video/5222289-minneapolis-considers-facial-recognition-tech-ban/"
-    ampWebUrl: "https://minnesota.cbslocal.com/video/5222289-minneapolis-considers-facial-recognition-tech-ban/amp/"
-    cdnAmpWebUrl: "https://minnesota-cbslocal-com.cdn.ampproject.org/c/s/minnesota.cbslocal.com/video/5222289-minneapolis-considers-facial-recognition-tech-ban/amp/"
-    type: article
-    provider:
-      name: CBS Local
-      domain: cbslocal.com
-    quality: 39
   - title: "Ban on facial recognition technology advances in Minneapolis"
     excerpt: "MINNEAPOLIS (AP) - A proposal to ban the use of facial recognition technology by Minneapolis police and other city departments is advancing. The technology has raised concerns by some who worry it could be a dangerous step toward a surveillance state where people’s movements are tracked the moment they leave their homes."
     publishedDateTime: 2021-01-24T23:02:00Z

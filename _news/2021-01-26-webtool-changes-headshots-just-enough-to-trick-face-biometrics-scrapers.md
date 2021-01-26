@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "T-Money trials face biometrics for contactless payments to public transportation"
+    excerpt: "T-Money operator Korea Smart Card will evaluate the speed of payment using the facial recognition system, and then look at ways of better commercializing it."
+    publishedDateTime: 2021-01-25T21:42:00Z
+    webUrl: "https://www.biometricupdate.com/202101/t-money-trials-face-biometrics-for-contactless-payments-to-public-transportation"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 19
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/01/25160527/t-money-facial-recognition-payment-1024x662.jpg"
+        width: 1024
+        height: 662
+        isCached: true
   - title: "Blanket bans on face biometrics use by private sector unhelpful, digital privacy group argues"
     excerpt: "Robust regulation can ensure private sector use of facial recognition that balances people’s freedom to use biometric technology with its risks, argues the EFF."
     publishedDateTime: 2021-01-22T22:21:00Z

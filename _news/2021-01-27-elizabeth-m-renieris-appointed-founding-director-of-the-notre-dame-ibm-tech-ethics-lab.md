@@ -24,6 +24,19 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Elizabeth M. Renieris is named founder and director of Notre Dame-IBM Tech Ethics Lab | News | Notre Dame News"
+    excerpt: "Elizabeth M. Renieris is named founder and director of Notre Dame-IBM Tech Ethics Lab | News | Notre Dame News Elizabeth Renieris"
+    publishedDateTime: 2021-01-26T20:11:00Z
+    webUrl: "https://www.compsmag.com/news/technology/elizabeth-m-renieris-is-named-founder-and-director-of-notre-dame-ibm-tech-ethics-lab-news-notre-dame-news/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/elizabeth-m-renieris-is-named-founder-and-director-of-notre-dame-ibm-tech-ethics-lab-news-notre-dame-news/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/elizabeth-m-renieris-is-named-founder-and-director-of-notre-dame-ibm-tech-ethics-lab-news-notre-dame-news/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 19
+
 secured: "hlRQCJpoRj3g9Ymf7lF4AmMVsTR0xh6Z5LE7VEiXXAcfNGF4sFsqatSL4ySkXSUhaFJnE4KbmQZ7Jc5VwAjkjHwhZe11RQIEgmcdHvvfDqj+xuvsW+McD7fr8mRJFYVm8UTqskKWFmKKO3PXIAApaM5U3tKp41xS/CGIN+8pv2znRgO44uKbLDdFLzqzOBysP31h54fUpE8hD/x1c9IxK7jf5w0kFl1WaSBgNUsvkfzmvuPlXzUxo0MyDwV1a0p0BaEIxkG/nX0G6eEF8Cs16gqTFgsiA5MnOSLa9m7LpCB0r+m+ae4lY7HuK7DBdvW4mRrVcI56aRRvvlcgKO4sXQYzUZI4ReUvRlER71ZeuFE=;DnviJrUEm706N1onsDQOXA=="
 ---
 
