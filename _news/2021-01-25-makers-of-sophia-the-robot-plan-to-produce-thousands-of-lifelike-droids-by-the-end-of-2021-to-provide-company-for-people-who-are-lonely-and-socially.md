@@ -91,6 +91,22 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Feeling Lonely! Sophia The Robot For Android Company"
+    excerpt: "With her lifelike face and unusual sense of humour, Sophia the robot is one of the most famous androids around the world."
+    publishedDateTime: 2021-01-26T00:33:00Z
+    webUrl: "https://www.albawaba.com/editors-choice/feeling-lonely-sophia-robot-android-company-1407106"
+    ampWebUrl: "https://www.albawaba.com/amp/editors-choice/feeling-lonely-sophia-robot-android-company-1407106"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/editors-choice/feeling-lonely-sophia-robot-android-company-1407106"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 59
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2021-01/http___cdn.cnn_.com_cnnnext_dam_assets_181024140824-sophia-robot-5.jpg?itok=GPHUetsv"
+        width: 727
+        height: 485
+        isCached: true
 
 secured: "Wo1MT5QyzKZ4ln7oQCB/bR9nhN/JznTE6oQQWoUHoLyV7DH857rfi5hS3/+TVhRVOrWnx8ZT84QF+ohif3nOdyen1s5FKViKl3IcxivE1y5MxS0rsZOT6PXgVqpHJcP/hdupYBx9bDpVxd2DcFoiaicauoQ6zHLUnEZ8dfAcJPFx9KMb77WZjCV/l7AP3RPCbTSYhaB1Q+ndn3eCI5aD7tG/GjZS0JZNFPWyEPhhmBoO47Gz9WwjLUlvf43ae68T152n6NmwUeu4buM1bizmSVkNHMWjiOoV/j2oUHZgCNJ+mvFp/kewIPwjEZxZLuJzMDJ3wguwRz//y3seRYiFPy2Z2MZxhCnyjNVxbkrXjyDtNPvgGHbMdBSIxfi9cC2+OhlzAPbmeB1i1n5rAfYc2GKkSg/GpQz4peDDf3N/cvTFi60bdQNDUlM3IoYA8owS43705D3xP47XYJyvSu+PNnQhXCAyVIPqhnxhGRjbLc7QD3gvXh7F4y8gHhdgPf3H0qjl3dc5yOhH1VgTwOBcbQ==;hKwEC1RaqM9qKnyYlWZf1w=="
 ---

@@ -78,7 +78,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2021/01/microsoft-self-driving-car-cropped.jpg?w=1200&strip=all"
         width: 1200
@@ -238,20 +238,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Cruise and GM partner with Microsoft to commercialize self-driving vehicles"
-    excerpt: "Cruise and General Motors have entered a long-term strategic relationship with Microsoft to accelerate the commercialization of self-driving vehicles. The companies will bring together their"
-    publishedDateTime: 2021-01-21T08:45:00Z
-    webUrl: "https://roboticsandautomationnews.com/2021/01/21/cruise-and-gm-partner-with-microsoft-to-commercialize-self-driving-vehicles/39819/"
-    type: article
-    provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 39
-    images:
-      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2021/01/cruise-gm.png"
-        width: 763
-        height: 765
-        isCached: true
   - title: "Cruise And GM Team Up With Microsoft To Commercialize Self-Driving Vehicles"
     excerpt: "Cruise and General Motors on Tuesday announced they have entered a long-term strategic relationship with Microsoft to accelerate the commercialization of self-driving vehicles."
     publishedDateTime: 2021-01-25T22:27:00Z
@@ -288,6 +274,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 25
+  - title: "Cruise, General Motors, and Microsoft team up to develop self-driving vehicles"
+    excerpt: "Cruise and General Motors announced they have entered a long-term strategic relationship with Microsoft to accelerate the commercialization of self-driving vehicles."
+    publishedDateTime: 2021-01-25T00:00:00Z
+    webUrl: "https://www.plantservices.com/industrynews/2021/cruise-general-motors-and-microsoft-team-up-to-develop-self-driving-vehicles/"
+    type: article
+    provider:
+      name: Plant Services
+      domain: plantservices.com
+    quality: 17
 
 secured: "67MBxz9GgU1ting4WWdEzKbVjHmQ1qsf56fCxwG4ztBBmMvjG0ahym4a9HYPhNE3NmBkYaC1UDCBg5GzWNa78W5ZpeG3LYsUAWq7080M25EvADbA/dkAZnt0RyBq/viQXyJVTmkEeQbGGIQRNFWBfinIj6ecptD2ix0+Ool/oPiQBngqVW9aydzuDwGBPtWR691w9k3Glb2XO7QeJkkEDSUuZspania58lBfyTve/wIPBbDy3USWowR3JC4L0zfiZ3dnh9MrPdpPWwJ61xoPnZS9xZJS9YSkNio317lhZIF+b3VhwKVLyR+jTmQFfodVhXSijLFTVe9b2h+UuCNpFUzsxJNYXcU765cIFjjxjCA=;S890tAc71Q675WiVKQKyrA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/Ehave-Inc-Utilizes-Arti
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Ehave-Inc-Utilizes-Artificial-Intelligence-and-Machine-Learning-for-Big-Data-Management-in-Mental-Healthcare-1029999161"
 type: article
 quality: 81
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -37,6 +37,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 81
+  - title: "New Deep Learning Discovery Paves Way for AI Interpretation of Brainwave Data"
+    excerpt: "Interpreting the results of electroencephalogram (EEG) graphs, which are used to visualize brain activity of everything from meditation"
+    publishedDateTime: 2021-01-25T23:30:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/new-deep-learning-discovery-paves-way-for-ai-interpretation-of-brainwave-data-898183188.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 51
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "AI and the Virtuous Cycle of Unprecedented Data Management"
     excerpt: "This is the first article in a four-part series that examines how new AI architectures are leading to a renaissance in computer architecture, and why there’s a renewed focus on memory systems."
     publishedDateTime: 2021-01-25T20:10:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2021/01/25/elon-musk-respon
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2021/01/25/elon-musk-responds-to-waymo-ceo-tesla-has-better-ai-hardware--software-than-waymo/amp/"
 type: article
 quality: 112
-heat: 182
+heat: 192
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2020/11/Tesla-full-self-driving-road-debris.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Waymo CEO dismisses Tesla self-driving plan: “This is not how it works”"
+    excerpt: "Many Tesla fans view the electric carmaker as a world leader in self-driving technology. CEO Elon Musk himself has repeatedly claimed that the company is less than two years away from perfecting fully self-driving technology."
+    publishedDateTime: 2021-01-22T22:58:00Z
+    webUrl: "https://arstechnica.com/cars/2021/01/waymo-ceo-tesla-is-not-a-competitor-at-all/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 84
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/01/GettyImages-956121586-760x380.jpg"
+        width: 760
+        height: 380
         isCached: true
   - title: "Waymo CEO Blasts Tesla’s Self-Driving Tech"
     excerpt: "Once again, extremely niche trash talk is being exchanged in the world of self-driving cars. John Krafcik, the CEO of the Google-affiliated self-driving car company Waym"

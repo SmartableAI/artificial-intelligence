@@ -36,6 +36,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "The Samsung Exynos platform for Tesla self-driving cars is to upgrade to 5nm: new report"
+    excerpt: "Samsung has partnered with Tesla to supply its cars with processors for their \"auto-pilot\" functions in the past, although the silicon in question has come from 14 nanometer (nm) process nodes. However,"
+    publishedDateTime: 2021-01-25T23:36:00Z
+    webUrl: "https://www.notebookcheck.net/The-Samsung-Exynos-platform-for-Tesla-self-driving-cars-is-to-upgrade-to-5nm-new-report.516984.0.html"
+    type: article
+    provider:
+      name: NotebookCheck
+      domain: notebookcheck.net
+    quality: 30
+    images:
+      - url: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/2019010308365557008_1546472215.jpg"
+        width: 745
+        height: 355
+        isCached: true
 
 secured: "8TIvdxwNk5oCd9GFcOZ66zVgkww6T/15flq7OdGhkUG92bDVk+NmDhEizyqyZp4pmD+Qke0QBCLiZCr5OO6c0SguXP6g+9WAdn2CMgQU2r1X1A8Mh9TGOjUcBRSRKHjMt7v/O1pLWjACERuMyj/Xqgu7KM8i7cqaih+HTJOwcPds7ApnaLEPNHI8GtV5fWdJRpaHGuRkYddPbXmqynntSsjubt3Grdz6gz2L1+hbCeYU4mbH9EOtbJNYsP/qdrxE9uhQm6E07yT0w4FlVyaIAvZjj5SdlXW8Ftw6zJh03HlAa/P9e/GjmNSgq9pU7+oGF0nYTEulNQ6JTgSp1OSm35q4ohXk1x4oBkoKZCUH8lk=;+kcILuNrd+Y1e9mt86swDw=="
 ---

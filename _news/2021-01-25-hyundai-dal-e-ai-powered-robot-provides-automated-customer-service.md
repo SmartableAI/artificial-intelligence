@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/hyundai-dal-e-ai-powered-robot-provides-au
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/hyundai-dal-e-ai-powered-robot-provides-automated-customer-service-25656524/amp/"
 type: article
 quality: 104
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://cdn.motor1.com/images/mgl/PExAX/s1/hyundai-customer-service-robot.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Social Distancing? Hyundai's DAL-e Robot Helps Showroom Customers Without Wearing A Mask"
+    excerpt: "The robots come installed with a state-of-the-art artificial intelligence technology for facial recognition and an automatic communication system."
+    publishedDateTime: 2021-01-26T00:42:00Z
+    webUrl: "https://www.hotcars.com/hyundais-dal-e-robot-helps-showroom-customers-socially-distance-without-wearing-a-mask/"
+    ampWebUrl: "https://www.hotcars.com/hyundais-dal-e-robot-helps-showroom-customers-socially-distance-without-wearing-a-mask/amp/"
+    cdnAmpWebUrl: "https://www-hotcars-com.cdn.ampproject.org/c/s/www.hotcars.com/hyundais-dal-e-robot-helps-showroom-customers-socially-distance-without-wearing-a-mask/amp/"
+    type: article
+    provider:
+      name: hotcars
+      domain: hotcars.com
+    quality: 65
+    images:
+      - url: "https://static1.hotcarsimages.com/wordpress/wp-content/uploads/2021/01/DAL-e-with-SUV.jpg"
+        width: 1710
+        height: 900
         isCached: true
   - title: "Hyundai Motor Group Introduces Advanced Humanoid Robot ‘Dal-E’ for Automated Customer Services"
     excerpt: "Hyundai Motor Group has launched the “DAL-e,” a highly advanced customer service robot that independently communicates with people using precise recogni"

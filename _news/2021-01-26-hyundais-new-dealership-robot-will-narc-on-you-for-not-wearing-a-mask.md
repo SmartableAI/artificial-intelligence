@@ -75,6 +75,22 @@ related:
         width: 1200
         height: 761
         isCached: true
+  - title: "Social Distancing? Hyundai's DAL-e Robot Helps Showroom Customers Without Wearing A Mask"
+    excerpt: "The robots come installed with a state-of-the-art artificial intelligence technology for facial recognition and an automatic communication system."
+    publishedDateTime: 2021-01-26T00:42:00Z
+    webUrl: "https://www.hotcars.com/hyundais-dal-e-robot-helps-showroom-customers-socially-distance-without-wearing-a-mask/"
+    ampWebUrl: "https://www.hotcars.com/hyundais-dal-e-robot-helps-showroom-customers-socially-distance-without-wearing-a-mask/amp/"
+    cdnAmpWebUrl: "https://www-hotcars-com.cdn.ampproject.org/c/s/www.hotcars.com/hyundais-dal-e-robot-helps-showroom-customers-socially-distance-without-wearing-a-mask/amp/"
+    type: article
+    provider:
+      name: hotcars
+      domain: hotcars.com
+    quality: 65
+    images:
+      - url: "https://static1.hotcarsimages.com/wordpress/wp-content/uploads/2021/01/DAL-e-with-SUV.jpg"
+        width: 1710
+        height: 900
+        isCached: true
   - title: "Hyundai Motor Group Introduces Advanced Humanoid Robot ‘Dal-E’ for Automated Customer Services"
     excerpt: "Hyundai Motor Group has launched the “DAL-e,” a highly advanced customer service robot that independently communicates with people using precise recogni"
     publishedDateTime: 2021-01-25T12:33:00Z
@@ -106,6 +122,6 @@ related:
         height: 300
         isCached: true
 
-secured: "ioGeB0IzYNMniXp+wmcdwfYOaH42ZfNVJilEAHuAK6kOha3eEUiLVZUZ4y76oVVsyPY4pblkRDJKpKhubPRY1lbZMx+G39bZZ5LlgHhD3/03/E+L/0Su0HFVCr4kgtV2c0fJnuhthAkJEcL65H999qSbw61iVd2r+FAGJxP/E0J5dxxM31KvebleaE23IzyfUtCqGsbmpuWBICL5a5Quv/6CmtznN1L/Y7IDifopr2sTsWq4AXp43xnAXx6w5Oz3yCTBQSlOCZ4peVSjbRrrG208JkCGBWx/YTKFF8VyDArydDeArH6mYdLh7XlfpDiM1be3JzQH2V62wFFGRgHl8xPOdeS51U2quq3YhWaIY/c=;sWmtV2r61efOLiVFIRD7rw=="
+secured: "Pc5p97tPUvTijyudE8Fsv4B7gm8bl2TvL1yZaXPQkykaNRjlxqOAN12SJ2ykKTpIitFIsrzLX6p40o9wnBZnAo5D+rVL2iA4tGxIBlSwqi1M3tswkY3F3o6/GzV1M4HbS75LcLJZh5U+1Mji3ebRjSkpa4QfTw1O/Y/KDbCLMNhFu+JY70ryzw7r1Ep3zGZZFspKM7DHaZhWbkNNsoqw4ctXiJu3FCGXLCWT2qKSBsQ3n28vQGf4Pvnb39YV+33rZqSze537l0eWMIUXITp+dix1WUb32wtp+jbolxPfAryuS+CbbzLD5ZXCByFQXKMCHP3kIY+fC2taQIC3EoAx410kRkaDCEC4Z+7HepFvHBXvjAV65fk/f5QMmS6DWof/CsWOaRF4jwEoZvGLO3wLDYNT8RGoQcdAjwB2/a2amV1OrIr3kgWwpNK+eD7Fuw+KTWYrV+vKfbu0jOoISunChghqAr8X2KY7cWA6/wJNncgnaXa9355gIpP/++QEAMw+mzC2pTv+AcDxJcexPh9IRw==;pTSTm2iy8XsTmPeuMI/kZw=="
 ---
 

@@ -91,6 +91,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Social Distancing? Hyundai's DAL-e Robot Helps Showroom Customers Without Wearing A Mask"
+    excerpt: "The robots come installed with a state-of-the-art artificial intelligence technology for facial recognition and an automatic communication system."
+    publishedDateTime: 2021-01-26T00:42:00Z
+    webUrl: "https://www.hotcars.com/hyundais-dal-e-robot-helps-showroom-customers-socially-distance-without-wearing-a-mask/"
+    ampWebUrl: "https://www.hotcars.com/hyundais-dal-e-robot-helps-showroom-customers-socially-distance-without-wearing-a-mask/amp/"
+    cdnAmpWebUrl: "https://www-hotcars-com.cdn.ampproject.org/c/s/www.hotcars.com/hyundais-dal-e-robot-helps-showroom-customers-socially-distance-without-wearing-a-mask/amp/"
+    type: article
+    provider:
+      name: hotcars
+      domain: hotcars.com
+    quality: 65
+    images:
+      - url: "https://static1.hotcarsimages.com/wordpress/wp-content/uploads/2021/01/DAL-e-with-SUV.jpg"
+        width: 1710
+        height: 900
+        isCached: true
   - title: "Meet “DAL-e,” the Cutesy AI Robot That Will Help Hyundai With Customer Services"
     excerpt: "Don’t worry, this little robot is way too cute to bring back memories of HAL 9000-infused nightmares to folks that grew up reading Arthur C. Clarke's Space Odyssey series. Instead, it could open a window into the future of seamless,"
     publishedDateTime: 2021-01-25T14:21:00Z

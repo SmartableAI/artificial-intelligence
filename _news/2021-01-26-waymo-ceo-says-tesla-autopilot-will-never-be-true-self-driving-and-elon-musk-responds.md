@@ -75,6 +75,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Waymo CEO dismisses Tesla self-driving plan: “This is not how it works”"
+    excerpt: "Many Tesla fans view the electric carmaker as a world leader in self-driving technology. CEO Elon Musk himself has repeatedly claimed that the company is less than two years away from perfecting fully self-driving technology."
+    publishedDateTime: 2021-01-22T22:58:00Z
+    webUrl: "https://arstechnica.com/cars/2021/01/waymo-ceo-tesla-is-not-a-competitor-at-all/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 84
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/01/GettyImages-956121586-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "Waymo CEO Blasts Tesla’s Self-Driving Tech"
     excerpt: "Once again, extremely niche trash talk is being exchanged in the world of self-driving cars. John Krafcik, the CEO of the Google-affiliated self-driving car company Waym"
     publishedDateTime: 2021-01-25T17:16:00Z
@@ -130,6 +144,6 @@ related:
       domain: bizjournals.com
     quality: 54
 
-secured: "XveciOtXF6gg0Duu5k6bzxmVFRaW/5/Cl3jBXToc1nhJhcfNr9cQSH5Pn0aQjSiigsi/oGthQqBQpMv7q3r7opBbsiEQkR514xkvtqThCWbeMctmGhC3xmT4tGT9AbrZHFRROOWidca1tKOdBGjCUJsXonG1nXVjbqxiA9s1gaqLm02bS6QFzRpN5qll0pnzFVZT8Y7rWnm6qdgkKHAiYQsQC3G6HrfYt4tJDsENjHYjPD6oHFlJJVIb6G7XAFWg8qp906t28uucD5YuZv8l1FOm5u8q+NRRz2pSZvtlUn+awzLL0JshXTWMHcm1+d0pPPpghwsZNojpLN3KQe9Zy7aMwIsrrgHtXDvhg3/9T8k=;6rbJkKEw5mHYh5xqhqpEOQ=="
+secured: "Zcj2UvMuGK+kwc209tBqR1VpJ9xU0IRZ03r+IWWpuA/K9Lk028CWupGn7gIBO8IjNHe9Okvuz/joIOTv312wln/p0rDZFue+mXYaywpoSXfr5/vXHngzHCyeH/11f7tRcDoE95FCwuzervfMvwYWfSckfM2hZsNBVAwnG0EV3UF/r+lxcXnx9aFOSCqmn7UCemuQnrn4dLXaPuM7JcN7VGWU6cwFCOVdhul+MLl6lCtCBAhO+D8du2Eyt0T0RIC556qh6Uddll469howzYWnO4FlX4BulBE8L8OJv46BFJbU+8JfUIbVxfJiO6fIetamdxtdvmqJVRzKg0ZPoMZ4k1ApaUxiwmtWWCGUPLb/g/HKA+IL6l0uQUg4oAhNzWXZrzsanb3VIAv+dSxxDjhxOnoW2fUuZTj1yOKp5t4TFoZjyb4FW7WQELIzRCR0/myh+Z3VaW7mUzDTpY1/QnDQ9+q9nrDZJ6JqLQYJUDQWg3ZtAtrMuySi1c6yAhS6v3kyZn5W2avzVE30VFolWwUQkQ==;dTXNmnaiUwYraXIzJLJWIg=="
 ---
 

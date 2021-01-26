@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidteich/2021/01/21/threat-detection-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/01/21/threat-detection-and-security-are-aided-by-integrated-machine-learning--artificial-intelligence/amp/"
 type: article
 quality: 123
-heat: 123
+heat: 133
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     width: 876
     height: 494
     isCached: true
+
+related:
+  - title: "US leading race in AI, China rising"
+    excerpt: "The United States is leading rivals in development and use of artificial intelligence while China is rising quickly and the European Union is lagging, a research report showed Monday. The study by the Information Technology and Innovation Foundation assessed AI using 30 separate metrics including human talent,"
+    publishedDateTime: 2021-01-26T00:40:00Z
+    webUrl: "https://www.brecorder.com/news/40055921"
+    ampWebUrl: "https://www.brecorder.com/news/amp/40055921"
+    cdnAmpWebUrl: "https://www-brecorder-com.cdn.ampproject.org/c/s/www.brecorder.com/news/amp/40055921"
+    type: article
+    provider:
+      name: Business Recorder
+      domain: brecorder.com
+    quality: 59
+    images:
+      - url: "https://i.brecorder.com/large/2021/01/600f43904667f.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "/5ud7KZHWcbEWiry6Wbogc6ytsJmDYPpGx02Zlrrr/WOX6VaDGRjjOf/yDgKj2DOHw3x67F0LaOEjrQjTBOpeLwls4gJa35lsZ16TqVe/YpSZ3QuSpeEs4eZU3NavzAaqHeqmWSp0i1eXdVwhhCczf0kOfiZF6xmt83yFy8pOjbfwuq8TRKgL/z06V+oiBJJhIppayPukkkiV03zmp0+tacZGWzZdsX88ITfJjpvcYaP85JmOVABzxgexV3nQfwI/7k+KNO0XCqxMAq1GGZVnBPYBexXaCedugNLgw5xAqr3pTb5xIJaKYQrebnjOuWmjvQp9u05gelZHzNYKbN3ooGVW7idXSCeNI0Lq4hoBbCDPF7zLeMEgUJvdLkJ/JB8YuwAGjlvtddDfdKjGrWDMPTWJlocHcpngyu3Vl6KPz/0raMXmiwf2qRzezKVv0llYIstk4Iu3kYlHn2JLzWFY6A0F7d1HyGDVf24wux1nzcOYhv4n74f0hkugWQ0rNeg6qSERn1UubeIbemXQfjBLA==;kqT/kY/vK9xbwa98tAcCQg=="
 ---

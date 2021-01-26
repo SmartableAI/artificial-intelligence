@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/01/25/tesla-partners-samsung-new-5nm-chip-f
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/01/25/tesla-partners-samsung-new-5nm-chip-full-self-driving-report/amp/"
 type: article
 quality: 102
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "The Samsung Exynos platform for Tesla self-driving cars is to upgrade to 5nm: new report"
+    excerpt: "Samsung has partnered with Tesla to supply its cars with processors for their \"auto-pilot\" functions in the past, although the silicon in question has come from 14 nanometer (nm) process nodes. However,"
+    publishedDateTime: 2021-01-25T23:36:00Z
+    webUrl: "https://www.notebookcheck.net/The-Samsung-Exynos-platform-for-Tesla-self-driving-cars-is-to-upgrade-to-5nm-new-report.516984.0.html"
+    type: article
+    provider:
+      name: NotebookCheck
+      domain: notebookcheck.net
+    quality: 30
+    images:
+      - url: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/2019010308365557008_1546472215.jpg"
+        width: 745
+        height: 355
+        isCached: true
   - title: "ATB Ventures focusing on digital identity, removing bias from artificial intelligence, creating key partnerships"
     excerpt: "CALGARY, AB, Jan. 25, 2021 /CNW/ - ATB Ventures is helping Alberta foster innovation through advancements in digital identity and removing bias from artificial intelligence. ATB Financial's innovation lab is building, investing and partnering with ..."
     publishedDateTime: 2021-01-25T19:05:00Z

@@ -78,6 +78,22 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Feeling Lonely! Sophia The Robot For Android Company"
+    excerpt: "With her lifelike face and unusual sense of humour, Sophia the robot is one of the most famous androids around the world."
+    publishedDateTime: 2021-01-26T00:33:00Z
+    webUrl: "https://www.albawaba.com/editors-choice/feeling-lonely-sophia-robot-android-company-1407106"
+    ampWebUrl: "https://www.albawaba.com/amp/editors-choice/feeling-lonely-sophia-robot-android-company-1407106"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/editors-choice/feeling-lonely-sophia-robot-android-company-1407106"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 59
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2021-01/http___cdn.cnn_.com_cnnnext_dam_assets_181024140824-sophia-robot-5.jpg?itok=GPHUetsv"
+        width: 727
+        height: 485
+        isCached: true
   - title: "Makers of Sophia the robot plan to produce THOUSANDS of lifelike droids by the end of 2021 to provide company for people who are lonely and socially isolated during Covid-19 ..."
     excerpt: "Hong Kong-based Hanson Robotics, the firm behind the famous humanoid robot, Sophia, has revealed that four models, including Sophia, will be mass-produced this year."
     publishedDateTime: 2021-01-25T10:35:00Z

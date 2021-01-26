@@ -3,10 +3,10 @@ category: news
 title: "Python remains most popular programming language to learn"
 excerpt: "Though Python may be tops, interest is also growing in other languages, including JavaScript, C, and C++, says O'Reilly."
 publishedDateTime: 2021-01-25T15:56:00Z
-originalUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/python-remains-most-popular-programming-language-to-learn/"
-webUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/python-remains-most-popular-programming-language-to-learn/"
-ampWebUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/python-remains-most-popular-programming-language-to-learn/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/python-remains-most-popular-programming-language-to-learn/"
+originalUrl: "https://www.techrepublic.com/index.php/article/python-remains-most-popular-programming-language-to-learn/"
+webUrl: "https://www.techrepublic.com/index.php/article/python-remains-most-popular-programming-language-to-learn/"
+ampWebUrl: "https://www.techrepublic.com/index.php/google-amp/article/python-remains-most-popular-programming-language-to-learn/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/python-remains-most-popular-programming-language-to-learn/"
 type: article
 quality: 89
 heat: 99
@@ -21,7 +21,7 @@ provider:
       height: 50
 
 topics:
-  - Google AI
+  - Natural Language Processing
   - AI
 
 images:
@@ -46,6 +46,6 @@ related:
         height: 500
         isCached: true
 
-secured: "5UoySkpaIoLWmQJ+PBCyF5nmWjUQOayacQq65y6+Twyd6pMhk2pW1bd9Qqso0Q/GekE/wxdPd4LfSc4ehu3mOfN/yymCzwOXCrdviziUbvN3qsl8umfj2QD5pURMIoB6vfRQb9fTYl7oT4feSpSAZO+t75fsJdrNKTkNAGI+npeoySzEA9OleFoBcic9UixuB54RNBSXD1OovL4hloILnObgNu5bkJSSjfnOHhDlSetk2ejoFNL6NDvWwNFIrWQLdQpA0p602oRdPtJAVJA8Efhx48oDAV39kStl8CVoENP1b1YPXRBI4mHUVf8AmNUcPoh+dX5MJ+FeZBN48A2NBSAtFNKxYOzhLvbaxxKzzmw=;zFdYGea5lOk/y3nBPx3F3g=="
+secured: "mObbF88Y331Jo52XLaQUfc0YczuMLtI4T0xFoyF1Q/fzC477I75LfGRjF87T2yJ6PYSo9bzt61M6GGcz+NHUFIAHUM3PKTV3fFHjcRzOhUOYBrOFcDFvCe82aYIuZFyNhgLIBDO10ODojWhIFIeovhCBj28cXk9XyNsug1YbjnK397wejIxUZHLfLlSwmHFdJ1gyftH/Im9/5UFvA2mCSRyxWUl1QL1Ye2Cq6TfrcBhWGDq1TuPhx2fV2Sdx/XhMWXuQhwqYnzsoHA4lXtjBmw2cFnK3zdf+MdAz0EFoASNPmoIDxAaPWyDpLHY2OvStaNg52JLTCKnTacWiM+R3mL2YOPZoe69dLtE9jrK9e/4=;8NWYiS6iZ3c8OY7g2pGTRA=="
 ---
 

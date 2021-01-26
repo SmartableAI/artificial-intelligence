@@ -75,6 +75,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Waymo CEO dismisses Tesla self-driving plan: “This is not how it works”"
+    excerpt: "Many Tesla fans view the electric carmaker as a world leader in self-driving technology. CEO Elon Musk himself has repeatedly claimed that the company is less than two years away from perfecting fully self-driving technology."
+    publishedDateTime: 2021-01-22T22:58:00Z
+    webUrl: "https://arstechnica.com/cars/2021/01/waymo-ceo-tesla-is-not-a-competitor-at-all/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 84
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/01/GettyImages-956121586-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "Elon Musk gives replay to Waymo boss for doubting Tesla's full self-driving system"
     excerpt: "Tesla CEO Elon Musk has countered recent remarks by CEO of Google’s self-driving unit Waymo that Tesla has taken a misguided approach to develop..|News Track"
     publishedDateTime: 2021-01-25T10:05:00Z

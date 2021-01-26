@@ -121,6 +121,17 @@ related:
       name: Fox 9
       domain: fox9.com
     quality: 37
+  - title: "Ban dangerous facial recognition technology that reinforces racist police work"
+    excerpt: "Ban dangerous facial recognition technology that reinforces racist police work Amnesty International today launched a global campaign to"
+    publishedDateTime: 2021-01-26T00:51:00Z
+    webUrl: "https://www.compsmag.com/news/technology/ban-dangerous-facial-recognition-technology-that-reinforces-racist-police-work/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/ban-dangerous-facial-recognition-technology-that-reinforces-racist-police-work/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/ban-dangerous-facial-recognition-technology-that-reinforces-racist-police-work/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 35
   - title: "Proposed ban on law enforcement facial recognition technology advances in Minneapolis"
     excerpt: "Minneapolis could soon join a small but growing number of American cities that have banned most uses of facial recognition technology by its police and other municipal departments. The proposal, which has been quietly discussed for months among a coalition of progressive groups including the American Civil Liberties Union,"
     publishedDateTime: 2021-01-21T23:44:00Z

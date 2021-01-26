@@ -21,17 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Trump pardons former Google self-driving car engineer Anthony Levandowski"
-    excerpt: "Donald Trump has given a full pardon to Anthony Levandowski, a former Google engineer who stole trade secret on self-driving cars.Read MoreRead"
-    publishedDateTime: 2021-01-21T07:09:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/trump-pardons-former-google-self-driving-car-engineer-anthony-levandowski-9713165"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/trump-pardons-former-google-self-driving-car-engineer-anthony-levandowski-9713165"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/trump-pardons-former-google-self-driving-car-engineer-anthony-levandowski-9713165"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 53
   - title: "Pardon for Ex-Google Exec Who Took Self-Driving Car Secrets to Uber"
     excerpt: "A long-running Silicon Valley soap opera took an unexpected twist on Wednesday after outgoing President Donald Trump pardoned a former Google engineer for"
     publishedDateTime: 2021-01-22T15:47:00Z

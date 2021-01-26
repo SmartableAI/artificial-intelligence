@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 807
         isCached: true
-  - title: "Elephant populations surveyed from space using artificial intelligence"
-    excerpt: "The world-first study opens the door to more effective methods of monitoring the movements of endangered species."
-    publishedDateTime: 2021-01-21T08:51:00Z
-    webUrl: "https://www.sciencefocus.com/news/elephant-populations-surveyed-from-space-using-artificial-intelligence/"
-    ampWebUrl: "https://www.sciencefocus.com/news/elephant-populations-surveyed-from-space-using-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-sciencefocus-com.cdn.ampproject.org/c/s/www.sciencefocus.com/news/elephant-populations-surveyed-from-space-using-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: BBC Focus
-      domain: sciencefocus.com
-    quality: 57
-    images:
-      - url: "https://images.immediate.co.uk/production/volatile/sites/4/2021/01/GettyImages-1292611562-3163682.jpg?quality=90&crop=5px,34px,929px,400px&resize=960,413"
-        width: 960
-        height: 413
-        isCached: true
 
 secured: "89YhKhc5A6i6/VsRh/8npqV/QM4TEJMisIMRjbQ7FXAyAKM+FQuqwPgPtEmncknplFSg1UtBYtqXAKjGSygKn1kISoP0trQpgg3cdtUtEjR1uKlDXutBEL4Lw8xxmbakPfbORhSlDIcCIoM6pzu3GG6RnJ/Bp8hX0h4FgO2EsO2wuj9daoyd4eAaDAPL8Hx9g9KRcT/skt9Mw+PF2Kg0eLEdNXdrwhejT6pvDSTdvYcrKogUEj5onefFfgVDjDr19cKvF5J5wFBLmtZCyaYY6Vlfr83rZoo+iKPI/HLCpnugp5d6uxqrSlCTy7/w7Xw4PEdAFFWDXvUf7klTNlCpI9TMl3xCh1EjfC+zL0JWZDA=;dZNUjpG/AWjNs1IVFAwP8Q=="
 ---

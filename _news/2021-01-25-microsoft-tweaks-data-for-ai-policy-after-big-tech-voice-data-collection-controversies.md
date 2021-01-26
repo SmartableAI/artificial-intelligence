@@ -79,7 +79,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2021/01/microsoft-self-driving-car-cropped.jpg?w=1200&strip=all"
         width: 1200
@@ -225,20 +225,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Cruise and GM partner with Microsoft to commercialize self-driving vehicles"
-    excerpt: "Cruise and General Motors have entered a long-term strategic relationship with Microsoft to accelerate the commercialization of self-driving vehicles. The companies will bring together their"
-    publishedDateTime: 2021-01-21T08:45:00Z
-    webUrl: "https://roboticsandautomationnews.com/2021/01/21/cruise-and-gm-partner-with-microsoft-to-commercialize-self-driving-vehicles/39819/"
-    type: article
-    provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 39
-    images:
-      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2021/01/cruise-gm.png"
-        width: 763
-        height: 765
-        isCached: true
   - title: "Microsoft to integrate Teams across SAP solutions"
     excerpt: "Enterprise application software provider SAP and Microsoft have announced to integrate video conference and collaboration platform Teams with SAPs intelligent suite of solutions. The companies also expanded an existing partnership to accelerate the adoption of SAP S/4HANA on Microsoft Azure."
     publishedDateTime: 2021-01-24T05:49:00Z
@@ -289,6 +275,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 25
+  - title: "Cruise, General Motors, and Microsoft team up to develop self-driving vehicles"
+    excerpt: "Cruise and General Motors announced they have entered a long-term strategic relationship with Microsoft to accelerate the commercialization of self-driving vehicles."
+    publishedDateTime: 2021-01-25T00:00:00Z
+    webUrl: "https://www.plantservices.com/industrynews/2021/cruise-general-motors-and-microsoft-team-up-to-develop-self-driving-vehicles/"
+    type: article
+    provider:
+      name: Plant Services
+      domain: plantservices.com
+    quality: 17
 
 secured: "Ar861a+VRSHdUPODZ/Om5orwFhTbAKSBMjL8fTdwgrOjFfClcXy/Q8rF/08tI+21s/5z8ia2vqfnhm5r8IUrM0weTsdN9iuuIhf0Ad5JgjYvbkAnX2Qncly67hLc39NzY8F5LxYIyvEA8/IYM0/15Gs2txZg+QM8J8rg0iRIU5hKCI8xKo3A/tp5qN0CXHJNKATv53WmPMsjRXBgcpnYJJs+0ImE/E2OWhuakNWBnpaXqx1ZoajMoB0RJVYshPRc6tgn+J+dk+qqw0FEZ4+B6+rbHArXh/hgJRf4xE1Lgnjv7RkF78dwRG6+xACgV7qU/YO1C9w7gHXDa+uEwVQ8Xnu/jy6sV6UM08whMsBilvlhPsS4Mt18SLJM6dTbKmugvHa9c+xaNm+XxbH5DMQx+EUkhIxkyFVg3APZD0Dh/d1xqmpWiKl7H+gCFjbRCTKILDpnI3euGOAPw+5ew2fBSIyuYlHta1aicWFnTOtyRqU9WerMrRjp9FyB0pX7flhNi5KRq5zWdKFm4qAoW/PF7A==;WiXjUboJrtmfJhlhgxXdyg=="
 ---

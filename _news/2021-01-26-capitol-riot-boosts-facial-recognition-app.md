@@ -3,18 +3,18 @@ category: news
 title: "Capitol riot boosts facial recognition app"
 excerpt: "A facial recognition app saw a large increase in use the day after rioters stormed the U.S. Capitol building in Washington, D.C. Source by: Stringr"
 publishedDateTime: 2021-01-25T22:15:00Z
-originalUrl: "https://madison.com/news/national/capitol-riot-boosts-facial-recognition-app/video_e2cf5b13-bdb9-5d82-acdd-536d2d5701a4.html"
-webUrl: "https://madison.com/news/national/capitol-riot-boosts-facial-recognition-app/video_e2cf5b13-bdb9-5d82-acdd-536d2d5701a4.html"
-ampWebUrl: "https://madison.com/news/national/capitol-riot-boosts-facial-recognition-app/video_e2cf5b13-bdb9-5d82-acdd-536d2d5701a4.amp.html"
-cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/national/capitol-riot-boosts-facial-recognition-app/video_e2cf5b13-bdb9-5d82-acdd-536d2d5701a4.amp.html"
+originalUrl: "https://omaha.com/news/national/capitol-riot-boosts-facial-recognition-app/video_9ca5b88f-7e20-5e03-ab79-fa237383edb0.html"
+webUrl: "https://omaha.com/news/national/capitol-riot-boosts-facial-recognition-app/video_9ca5b88f-7e20-5e03-ab79-fa237383edb0.html"
+ampWebUrl: "https://omaha.com/news/national/capitol-riot-boosts-facial-recognition-app/video_9ca5b88f-7e20-5e03-ab79-fa237383edb0.amp.html"
+cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/national/capitol-riot-boosts-facial-recognition-app/video_9ca5b88f-7e20-5e03-ab79-fa237383edb0.amp.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Madison.com
-  domain: madison.com
+  name: Omaha.com
+  domain: omaha.com
 
 topics:
   - Computer Vision
@@ -45,6 +45,6 @@ related:
       domain: globalspec.com
     quality: 19
 
-secured: "uVaHhgyrQtq+Ssmk4T5fI10KBm1mHlQka4N5FjXKhEuP+mu2AC/DwqmaKC5LkQe3ktvd3J3NMbMsMO0FkVN0cYgsNwA6w1Q+Ov2gQDsisM3yHUVy4YgiO2AVVLegBjiJrLjL6mqcrazcNzXv0L3OiCmmxbhwKlTMfacAOgPLzgHNTil6fSdmnBEf6uoRIfkeERCA8UpXykxT2h/jkFdWXGTb3IJL6IFo42r/G5wfVHXrJTHwshMhUP1DBhLAh2XYJSP+WcEhqy/mTqvc5Sbv7WtaiyrMWz/RvZ54va12WcNix328WO9+FoxUbNyA1tHgCn/yPuhM4+elf1mOYbTOWtdv305/X6cP0jX2g5FsMQgkzsi/9MaNtvYdWKNLxcehH0k16gtch+3tAPDgDX1/WZfO4WfmefASkuZoPW8OXP7nJKQAy5wnZAtLS4iruMmfEKmIarmyRWUVKqPohGT1n36LGHMT8DDBDXPryzM6j/Nfzx3DznSjVhFeZUNuKlvyAaHaXjdgEiUf1kkb0R+uZA==;Mx1Bh8l8G9X03bPUuJqqxw=="
+secured: "pUblV1sgEeg4gYQHkjetz4HunExUjeq6dFNxJyU1yl4ucVU+HQwL7X1s8fRDCFyMrz3M6HbUvecAdsv5N+wyQjLe0S2PzCVGY4XhYwf5NSasxFcUixZP5TjUL7D9U+KV4PnckMjKrU0DJtK/I2qgwL+64JrHjCRv33Qawe+B25FBYgv7Cw2SqPzt7nfds1HS7YE4Kr014VtTjmDOYV5ot97gPr4KNHZLQc0WrG0FSBtHw9rZdC8wu+PT52U5lpswL7lmSeaAh60Hg4wA8q8YHCLTItP0dxXZk9nNpAYDQ40k/MRI5a6fM46obHIx1XvTndgjzHj2tb+QlqrocEe14fv0BFrUesI3KRQJQYC6bl+68uSJ8nVmzqla7YxY3CUXFiTfLcSoEMwAQh4SOq/dvZmZwBugDZl/swArBuGzAFkykGXrrVcDWpeIhWzyRzcync3sxlSrNNWBVfCsr4599PnE/E8EldXwALy/RaPw2PAkVvJ5OUP50nK3haRB0pmizmXoTjzwoM9PcRm9wvKf5g==;EUhcZEZJW6uh2Ns5gbRhgw=="
 ---
 

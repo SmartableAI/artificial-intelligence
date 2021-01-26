@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Fintech Market Size, Historical Growth, Analysis, Opportunities and Forecast To 2025"
-    excerpt: "Selbyville, Delaware According to the research report titled 'Global Artificial Intelligence (AI) in Fintech Market Analysis, 2020', available with Market Study Report LLC, global artificial intelligence (AI) in fintech market is projected to accrue massive returns,"
-    publishedDateTime: 2021-01-21T08:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-size-historical-growth-analysis-opportunities-and-forecast-to-2025-2021-01-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence In Military Market Trends and Analysis Research Report 2021 – 2025"
     excerpt: "Jan 25, 2021 (AmericaNewsHour) -- Global Artificial Intelligence in Military Market is estimated to reach $18.8 billion by 2025; growing at a CAGR of"
     publishedDateTime: 2021-01-25T07:35:00Z
