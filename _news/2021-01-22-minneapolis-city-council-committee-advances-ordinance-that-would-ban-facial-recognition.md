@@ -59,6 +59,17 @@ related:
         width: 620
         height: 359
         isCached: true
+  - title: "'Ban The Scan' Campaign Targets Facial Recognition Technology"
+    excerpt: "A global campaign launched was launched Tuesday to ban facial recognition technology. Critics say it creates privacy issues and can contribute to racial profiling. CBS2's Natalie Duddridge reports."
+    publishedDateTime: 2021-01-26T17:45:00Z
+    webUrl: "https://newyork.cbslocal.com/video/5233334-ban-the-scan-campaign-targets-facial-recognition-technology/"
+    ampWebUrl: "https://newyork.cbslocal.com/video/5233334-ban-the-scan-campaign-targets-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://newyork-cbslocal-com.cdn.ampproject.org/c/s/newyork.cbslocal.com/video/5233334-ban-the-scan-campaign-targets-facial-recognition-technology/amp/"
+    type: article
+    provider:
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 54
   - title: "Ban on Facial Recognition Technology Advances in Minneapolis"
     excerpt: "A proposal to ban the use of facial recognition technology by Minneapolis police and other city departments is advancing."
     publishedDateTime: 2021-01-22T16:02:00Z
@@ -107,6 +118,20 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Call to Ban Facial Recognition Technology that amplifies racist policing"
+    excerpt: "We are Amnesty International UK. We are ordinary people from across the world standing up for humanity and human rights."
+    publishedDateTime: 2021-01-26T18:47:00Z
+    webUrl: "https://www.amnesty.org.uk/press-releases/call-ban-facial-recognition-technology-amplifies-racist-policing"
+    type: article
+    provider:
+      name: Amnesty UK
+      domain: amnesty.org.uk
+    quality: 38
+    images:
+      - url: "https://www.amnesty.org.uk/files/styles/social_share_image/s3/settings/amnesty_logo_0.jpg?qA0vtal7uIyyFfzdjtm85CBfSTsi5Vt0&itok=V8GH6KNO"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Proposed ban on facial recognition technology moves forward in Minneapolis"
     excerpt: "Minneapolis is one step closer to banning police and other city departments from using facial recognition technology."
     publishedDateTime: 2021-01-22T22:20:00Z
@@ -129,20 +154,6 @@ related:
       name: Windows
       domain: compsmag.com
     quality: 35
-  - title: "Proposed ban on use of facial recognition technology by police advances in Minneapolis"
-    excerpt: "Minneapolis could soon join a small but growing number of American cities that have banned most uses of facial recognition technology by its police and other municipal departments. The proposal, which has been quietly discussed for months among a coalition of progressive groups including the American Civil Liberties Union,"
-    publishedDateTime: 2021-01-22T02:14:00Z
-    webUrl: "https://www.startribune.com/proposed-ban-on-use-of-facial-recognition-technology-by-police-advances-in-minneapolis/600013504/"
-    type: article
-    provider:
-      name: StarTribune
-      domain: startribune.com
-    quality: 31
-    images:
-      - url: "https://chorus.stimg.co/22251394/ows_89490f87_9bba_4404_b792_a88e9b90abaa.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Minneapolis City Council to consider banning use of facial recognition technology by police"
     excerpt: "Plus: judge rejects bid to delay Chauvin trial; Minnesota dodges major post-holiday spike in COVID-19 cases; uneven mask compliance among high school athletes; and more."
     publishedDateTime: 2021-01-22T12:04:00Z

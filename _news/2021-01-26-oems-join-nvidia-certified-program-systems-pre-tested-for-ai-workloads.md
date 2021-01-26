@@ -19,6 +19,34 @@ topics:
   - AI
 
 related:
+  - title: "Nvidia Puts Certified AI Servers At Forefront In New Program"
+    excerpt: "Nvidia is recommending customers buy GPU servers that have been certified for optimized AI performance under a new program."
+    publishedDateTime: 2021-01-26T18:34:00Z
+    webUrl: "https://www.crn.com/news/data-center/nvidia-puts-certified-ai-servers-at-forefront-in-new-program"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 39
+    images:
+      - url: "https://www.crn.com/resources/0265-116d6281c8f0-011499036a81-1000/nvidia-certified.jpg"
+        width: 610
+        height: 457
+        isCached: true
+  - title: "Nvidia Rolls Out Certified Server Program Targeting AI Applications"
+    excerpt: "Nvidia today launched a certified systems program in which participating vendors can offer Nvidia-certified servers with up to eight A100 GPUs. Separate"
+    publishedDateTime: 2021-01-26T18:08:00Z
+    webUrl: "https://www.hpcwire.com/2021/01/26/nvidia-rolls-out-certified-server-program-targeting-ai-applications/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 39
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/NVIDIA-Certified-Press-Graphic1-copy.jpg"
+        width: 948
+        height: 474
+        isCached: true
   - title: "VAST Data Unveils Joint Reference Architecture with NVIDIA for Large-scale AI Workloads"
     excerpt: "VAST Data, a storage company, today announced a new reference architecture based on NVIDIA DGX A100 systems and VAST Data’s"
     publishedDateTime: 2021-01-22T04:30:00Z
@@ -33,20 +61,15 @@ related:
         width: 405
         height: 228
         isCached: true
-  - title: "VAST Data Unveils Joint Reference Architecture with NVIDIA Designed to Significantly Increase Storage Performance for Large-Scale AI Workloads"
-    excerpt: "VAST Data, the storage company breaking decades-old tradeoffs, today announced a new reference architecture based on NVIDIA DGX™ A100 systems and VAST Data’s Universal Storage platform. This reference architecture is designed to significantly increase storage performance for AI use cases such as large-scale training of conversational AI models and petabyte-scale"
-    publishedDateTime: 2021-01-22T13:27:43Z
-    webUrl: "https://www.globalbankingandfinance.com/category/news/vast-data-unveils-joint-reference-architecture-with-nvidia-designed-to-significantly-increase-storage-performance-for-large-scale-ai-workloads/"
+  - title: "Supermicro Unveils Nvidia GPU Server Test Drive Program with Channel Partners"
+    excerpt: "Supermicro, an enterprise computing, storage, networking and green computing technology company, released details on a new GPU test-drive program. Called STEP (Supermicro Test drive Engagement with Partners),"
+    publishedDateTime: 2021-01-22T15:10:00Z
+    webUrl: "https://insidehpc.com/2021/01/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-channel-partners/"
     type: article
     provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 3
-    images:
-      - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 16
 
 secured: "kl4Io4MkzW4E9Z513qclazQGsGKcQUuZQmnOLzOJNaosBE4Loh0jgX/o7RyTFomeVaYL02u4cAljbWUmUQeEojLXwptx5k02Qy1XCvCvHGBe9A1xr9vWSzyCJ1SQY4BPOM63VFBH58VPdOILZNU3U9B5h57rY7p3B3IR3YJGhS6ETm2sRmdzV6JkA4vgg7uGmZKb/rO1Rb6sis3hlZiOVXBgp3twl6yyAgA7H0X5gxe1ehH98HPGwIfUW2O9Tf5fmcxFAOY+Y9IS5caHSIQq2wyeVBWHbsvnBAXEJQiMlUbyrCUUfj5hnsYkZMLoBQ6lcrpma2pdLAz9oAEdyvmIjH31efFZLceCNaUJMjfmldI=;lfPDdoKs/Z24WGvImmhibw=="
 ---

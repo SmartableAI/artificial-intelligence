@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/01/22/ai-robots-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/22/ai-robots-and-play-2021-predictions-for-a-virtual-workplace/amp/"
 type: article
 quality: 104
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Dell Precision Workstations for AI"
+    excerpt: "Why developers are turning to ultra-powerful workstations for more creative freedom at less cost. Research shows that"
+    publishedDateTime: 2021-01-26T18:44:00Z
+    webUrl: "https://www.techrepublic.com/resource-library/whitepapers/dell-precision-workstations-for-ai/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/resource-library/whitepapers/dell-precision-workstations-for-ai/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/dell-precision-workstations-for-ai/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 67
 
 secured: "ZOxG/tTQNsZQY1wz7TWbCdhgoZZoBZZ4HMc8ebzPJW2fiBa1d2GYbSqgJweT3uMVlvp8KLlqyFOY4qSB3/v0TV+419wY+KuoCRuCeabBToiR48KRl216mQZLkqkuvgnjNOAC1YMvHIwK9SBRJ+LEW9xR2ZlqOoUb17270Llwb2n2ePSw7Uw7ztJU5DdY3NB/chzdvVKu1nA8as7NTvkpwUtXDqt+9XfpXMbpEbdR2mBHAgJ1aP8nrjoqTTGnlxK18v0jlSAtN855Z0OO4BActvPGdjSHOp8Al8TyxhpbJlQF6Gr8uwk6hB2+kolQjsbnj6/tsPL1hYtfyrSygPxOaBX4HudJQNbasDYvixxeBPbdVkS+iGCh6U2BPX9t1I3FXNWvY8y8eB8T6TOglenMngvHDDysddxtSHAOj9xFu3xMjme+Df0uhs2BeUfPVKJ8mMEwMPXX3YQepnV6MPznE94+xGprCpRD6t8jZACXRPjzJHdBg/s7uLKQyNgx2X31d7lrJw2u7riXwMpwyhN8ZQ==;QXskrHwgIQPxAt4He27ATQ=="
 ---

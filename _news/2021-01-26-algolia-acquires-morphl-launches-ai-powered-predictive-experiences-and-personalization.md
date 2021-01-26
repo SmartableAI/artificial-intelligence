@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/algolia-acquires-morphl-
 webUrl: "https://www.marketwatch.com/press-release/algolia-acquires-morphl-launches-ai-powered-predictive-experiences-and-personalization-2021-01-26"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -28,20 +28,61 @@ images:
     isCached: true
 
 related:
-  - title: "Algolia acquires MorphL to embed AI into its enterprise search tech"
-    excerpt: "Search-as-a-service provider Algolia Inc. said today it has acquired a Google Digital News Initiative-funded startup called MorphL AI Inc. Moreover, it has already integrated the company’s tech to power a new artificial intelligence offering called Algolia AI that the company says will enable developers and marketers to predict someone’s intent when they make an online search."
-    publishedDateTime: 2021-01-26T13:18:00Z
-    webUrl: "https://siliconangle.com/2021/01/26/algolia-acquires-morphl-embed-ai-enterprise-search-tech/"
+  - title: "TiVo takes personalization to the next level with voice ID"
+    excerpt: "TiVo and voice authentication company, Pindrop, have joined forces to let TiVo users get personalized content recommendations using just their voices."
+    publishedDateTime: 2021-01-26T16:00:00Z
+    webUrl: "https://www.digitaltrends.com/home-theater/pindrop-voice-recognition-biometric-id-user-profiles-tivo/"
+    ampWebUrl: "https://www.digitaltrends.com/home-theater/pindrop-voice-recognition-biometric-id-user-profiles-tivo/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home-theater/pindrop-voice-recognition-biometric-id-user-profiles-tivo/?amp"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 74
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/jnfgvfc65pqbk863pjcw.jpg"
-        width: 6009
-        height: 3350
+      - url: "https://icdn3.digitaltrends.com/image/digitaltrends/tivo-stream-4k-00013-1200x630-c-ar1.91.jpg"
+        width: 1200
+        height: 628
         isCached: true
+  - title: "Voice recognition features return to TiVo through a partnership with Atlanta-based Pindrop"
+    excerpt: "TiVo devices are getting new voice recognition capabilities thanks to a partnership with the Atlanta-based startup Pindrop, which is now offering its voice recognition and personalization technologies for consumer devices."
+    publishedDateTime: 2021-01-26T14:03:00Z
+    webUrl: "https://techcrunch.com/2021/01/26/voice-recognition-features-return-to-tivo-through-a-partnership-with-atlanta-based-pindrop/"
+    ampWebUrl: "https://techcrunch.com/2021/01/26/voice-recognition-features-return-to-tivo-through-a-partnership-with-atlanta-based-pindrop/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/26/voice-recognition-features-return-to-tivo-through-a-partnership-with-atlanta-based-pindrop/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 64
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/10/introducing-tivo-plus.png?w=1024"
+        width: 1024
+        height: 571
+        isCached: true
+  - title: "TiVo teams with Pindrop for AI-aided, voice-based content discovery"
+    excerpt: "TiVo and Pindrop have partnered to deliver a streamlined content discovery experience for consumers, unlocked through voice AI. Pindrop and TiVo will be continuing to collaborate to bring voice authentication technology to TiVo's Conversation Services product so that users have their own personalized experience."
+    publishedDateTime: 2021-01-26T15:09:00Z
+    webUrl: "https://www.lightreading.com/aiautomation/tivo-teams-with-pindrop-for-ai-aided-voice-based-content-discovery-/d/d-id/766907"
+    type: article
+    provider:
+      name: Light Reading
+      domain: lightreading.com
+    quality: 39
+    images:
+      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
+        width: 600
+        height: 600
+        isCached: true
+  - title: "Pindrop and TiVo Partner, Simplifying Video Streaming Content Discovery with Voice Enabled Personalization"
+    excerpt: "TiVo and Pindrop have partnered to deliver a streamlined content discovery experience for consumers, unlocked through voice AI. \"Contextual awareness is key when engaging users through a Natural User Interface."
+    publishedDateTime: 2021-01-26T14:02:00Z
+    webUrl: "https://www.oaoa.com/news/business/pindrop-and-tivo-partner-simplifying-video-streaming-content-discovery-with-voice-enabled-personalization/article_2b3acbe2-04fb-553a-888b-629863257ab8.html"
+    type: article
+    provider:
+      name: Odessa American
+      domain: oaoa.com
+    quality: 0
 
 secured: "0Uw7cBDU6Enlxpc6EAPoqUsYWzYGW7Q1vWokIg3DJlILwBM0ve1ieA0U7M8DuBNgxxF/wIErKms6gG3p1tZ3Eq+I+evEh1434/DGo892ec78iLYd8etxv0Gent2J2E5OSUPhb6xNTyoKpF5izphbb39r+txI3Y+TnTQC8eNsJNwVS20KXi1n8VQXJNn7rYURKhObbuJaI2OeTdhShrYhhpUggZHjGdzyG7flqNY5BhInnG0d5EJvIMkzj/TpvFzd5S+q+DFaYPlrJo0qxqH7Ha/Jy49Z5g68wEoMlLMa8Dm6MgDLyrekPNoYgLnXtr78Hzd5CfCkB2DITXpAgKlhuccbCGV/oqjHY11r2jm/VyE=;0cOY9NPMxAPRKkRE5LOdhQ=="
 ---

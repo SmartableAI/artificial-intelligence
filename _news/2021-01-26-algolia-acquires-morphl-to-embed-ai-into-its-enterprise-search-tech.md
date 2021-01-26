@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2021/01/26/algolia-acquires-morphl-embed-
 webUrl: "https://siliconangle.com/2021/01/26/algolia-acquires-morphl-embed-ai-enterprise-search-tech/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 6009
     height: 3350
     isCached: true
-
-related:
-  - title: "Algolia Acquires MorphL, Launches AI-Powered Predictive Experiences and Personalization"
-    excerpt: "Algolia acquires Google DNI-funded MorphL, an AI/ML platform MorphL's AI/ML platform to fuel Algolia's new AI offerings Algolia's headless,"
-    publishedDateTime: 2021-01-26T14:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/algolia-acquires-morphl-launches-ai-powered-predictive-experiences-and-personalization-2021-01-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "le5Hhy7wQQmmDmeWDp/Ys2fGPsngaXuif+OvnV4maqQgGkUkPrQeheyGFrUb//syafdAmvqZ0GX0aH3dbbQ8eCmLj7TOw/9rKJQDqVJzWQRdMFCcAPgW8UtlpUrUyxMnNhdPGsc3SOe0cUp/JRRdCMJaa5DwCiSv1yUrqmP9RJwgXerET0uZxh5ZerKtx8BcBMG/z4xGf0XvHrD4O5Hp1Bi9iNSVZC5/OHt/my5ePxu2St3km9a+SjHbMCGacZP+tD32xW6iZhZ6qvmaV2MTXAjncDDQbQrNWwxL2XyuyvPMvgJL2glCw2/DK2HEdSFlqttqTxQSB1aJkeZCiOLDG2MxFPwtlOZMXrvdJG+tVuU=;vmeEyWlaDcQn6sm3qHERVw=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2021-01-26T16:39:00Z
 originalUrl: "https://insidehpc.com/2021/01/kao-data-to-host-instadeeps-hpc-and-ai-supercomputer-expanding-rd-capabilities/"
 webUrl: "https://insidehpc.com/2021/01/kao-data-to-host-instadeeps-hpc-and-ai-supercomputer-expanding-rd-capabilities/"
 type: article
-quality: 12
+quality: 14
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 related:
   - title: "Kao Data to Host InstaDeep's HPC and AI Supercomputer, Expanding R&D Capabilities"

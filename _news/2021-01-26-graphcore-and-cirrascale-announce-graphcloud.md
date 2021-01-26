@@ -41,6 +41,20 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "Graphcore democratises the datacentre"
+    excerpt: "Graphcore and Cirrascale Cloud Services are harnessing the full power of AI in the cloud with the first publicly available Mk2 IPU-POD scale-out cluster, o"
+    publishedDateTime: 2021-01-26T18:13:00Z
+    webUrl: "https://www.electronicsweekly.com/uncategorised/graphcore-democratises-datacentre-2021-01/"
+    type: article
+    provider:
+      name: Electronics Weekly
+      domain: electronicsweekly.com
+    quality: 24
+    images:
+      - url: "https://static.electronicsweekly.com/wp-content/uploads/2021/01/26083639/5D8713EA-A283-4BB0-A988-3BAA6989402D.png"
+        width: 500
+        height: 374
+        isCached: true
   - title: "Cirrascale Cloud Services® and Graphcore® Announce Availability of Graphcloud for Machine Intelligence"
     excerpt: "Cirrascale Cloud Services®, a premier cloud services provider of deep learning infrastructure solutions for autonomous"
     publishedDateTime: 2021-01-26T06:00:00Z

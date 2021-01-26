@@ -7,7 +7,7 @@ originalUrl: "https://news.mit.edu/2021/learning-and-about-ai-technology-0125"
 webUrl: "https://news.mit.edu/2021/learning-and-about-ai-technology-0125"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Leading AI Experts Teach Innovative Machine Learning Technique"
+    excerpt: "MindsDB, the open-source AI layer for existing databases, will co-host a webinar with top Big Data and AI influencer Kirk Borne on how to run machine learning inside a database. The webinar, held on February 16th at 4 PM GMT,"
+    publishedDateTime: 2021-01-26T18:15:00Z
+    webUrl: "https://www.lelezard.com/en/news-19617895.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 54
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Learning with – and about – AI technology | MIT News"
     excerpt: "MIT News. Between distance learning, spending more time at home, and working parents trying to keep their kids occ"
     publishedDateTime: 2021-01-25T19:51:00Z

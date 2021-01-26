@@ -19,6 +19,7 @@ topics:
   - AI
   - Microsoft AI
   - AI in Finance
+  - Natural Language Processing
 
 images:
   - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/promoted_content/promo/azure.jpg"

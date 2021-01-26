@@ -6,7 +6,7 @@ publishedDateTime: 2021-01-26T15:11:00Z
 originalUrl: "https://siliconangle.com/2021/01/26/deep-learning-virtualization-startup-runai-raises-30m-series-b-round/"
 webUrl: "https://siliconangle.com/2021/01/26/deep-learning-virtualization-startup-runai-raises-30m-series-b-round/"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI Hardware
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/RunAI-Platform.png"

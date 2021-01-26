@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2021/01/26/voice-recognition-features-return-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/26/voice-recognition-features-return-to-tivo-through-a-partnership-with-atlanta-based-pindrop/amp/"
 type: article
 quality: 64
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -31,6 +31,36 @@ images:
     isCached: true
 
 related:
+  - title: "TiVo takes personalization to the next level with voice ID"
+    excerpt: "TiVo and voice authentication company, Pindrop, have joined forces to let TiVo users get personalized content recommendations using just their voices."
+    publishedDateTime: 2021-01-26T16:00:00Z
+    webUrl: "https://www.digitaltrends.com/home-theater/pindrop-voice-recognition-biometric-id-user-profiles-tivo/"
+    ampWebUrl: "https://www.digitaltrends.com/home-theater/pindrop-voice-recognition-biometric-id-user-profiles-tivo/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home-theater/pindrop-voice-recognition-biometric-id-user-profiles-tivo/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 74
+    images:
+      - url: "https://icdn3.digitaltrends.com/image/digitaltrends/tivo-stream-4k-00013-1200x630-c-ar1.91.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Algolia Acquires MorphL, Launches AI-Powered Predictive Experiences and Personalization"
+    excerpt: "Algolia acquires Google DNI-funded MorphL, an AI/ML platform MorphL's AI/ML platform to fuel Algolia's new AI offerings Algolia's headless,"
+    publishedDateTime: 2021-01-26T14:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/algolia-acquires-morphl-launches-ai-powered-predictive-experiences-and-personalization-2021-01-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "TiVo teams with Pindrop for AI-aided, voice-based content discovery"
     excerpt: "TiVo and Pindrop have partnered to deliver a streamlined content discovery experience for consumers, unlocked through voice AI. Pindrop and TiVo will be continuing to collaborate to bring voice authentication technology to TiVo's Conversation Services product so that users have their own personalized experience."
     publishedDateTime: 2021-01-26T15:09:00Z

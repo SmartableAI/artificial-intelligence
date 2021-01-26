@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "TiVo takes personalization to the next level with voice ID"
+    excerpt: "TiVo and voice authentication company, Pindrop, have joined forces to let TiVo users get personalized content recommendations using just their voices."
+    publishedDateTime: 2021-01-26T16:00:00Z
+    webUrl: "https://www.digitaltrends.com/home-theater/pindrop-voice-recognition-biometric-id-user-profiles-tivo/"
+    ampWebUrl: "https://www.digitaltrends.com/home-theater/pindrop-voice-recognition-biometric-id-user-profiles-tivo/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home-theater/pindrop-voice-recognition-biometric-id-user-profiles-tivo/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 74
+    images:
+      - url: "https://icdn3.digitaltrends.com/image/digitaltrends/tivo-stream-4k-00013-1200x630-c-ar1.91.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Voice recognition features return to TiVo through a partnership with Atlanta-based Pindrop"
     excerpt: "TiVo devices are getting new voice recognition capabilities thanks to a partnership with the Atlanta-based startup Pindrop, which is now offering its voice recognition and personalization technologies for consumer devices."
     publishedDateTime: 2021-01-26T14:03:00Z
@@ -40,6 +56,20 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2019/10/introducing-tivo-plus.png?w=1024"
         width: 1024
         height: 571
+        isCached: true
+  - title: "Algolia Acquires MorphL, Launches AI-Powered Predictive Experiences and Personalization"
+    excerpt: "Algolia acquires Google DNI-funded MorphL, an AI/ML platform MorphL's AI/ML platform to fuel Algolia's new AI offerings Algolia's headless,"
+    publishedDateTime: 2021-01-26T14:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/algolia-acquires-morphl-launches-ai-powered-predictive-experiences-and-personalization-2021-01-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Pindrop and TiVo Partner, Simplifying Video Streaming Content Discovery with Voice Enabled Personalization"
     excerpt: "TiVo and Pindrop have partnered to deliver a streamlined content discovery experience for consumers, unlocked through voice AI. \"Contextual awareness is key when engaging users through a Natural User Interface."
