@@ -21,19 +21,35 @@ topics:
   - AI
 
 related:
-  - title: "Kami releases smart video doorbell with facial recognition capabilities"
-    excerpt: "Vision artificial intelligence (AI) company Kami has released a new smart video doorbell with face biometric capabilities. The Kami Doorbell Camera utilizes edge computing technology and advanced AI to enable human detection and facial recognition features."
-    publishedDateTime: 2021-01-21T23:01:00Z
-    webUrl: "https://www.biometricupdate.com/202101/kami-releases-smart-video-doorbell-with-facial-recognition-capabilities"
+  - title: "How Facial Recognition Algorithms Can Cut Out Bias"
+    excerpt: "A team has published the results of a study that evaluates the accuracy and bias in gender and skin colour of automatic face recognition algorithms tested with real world data."
+    publishedDateTime: 2021-01-26T11:52:00Z
+    webUrl: "https://www.technologynetworks.com/neuroscience/news/how-facial-recognition-algorithms-can-cut-out-bias-344899"
+    ampWebUrl: "https://www.technologynetworks.com/neuroscience/news/amp/how-facial-recognition-algorithms-can-cut-out-bias-344899"
+    cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/neuroscience/news/amp/how-facial-recognition-algorithms-can-cut-out-bias-344899"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
+      name: technologynetworks.com
+      domain: technologynetworks.com
+    quality: 59
+    images:
+      - url: "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/how-facial-recognition-algorithms-can-cut-out-bias-344899.jpg?v=11082843"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "New advances in the detection of bias in face recognition algorithms"
+    excerpt: "A team from the Computer Vision Center (CVC) and the University of Barcelona has published the results of a study that evaluates the accuracy and bias in gender and skin colour of automatic face recognition algorithms tested with real world data."
+    publishedDateTime: 2021-01-25T15:39:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-01/uob-nai012521.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
     quality: 39
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/01/21175048/kami-edge-ai-doorbell-camera-1024x683.jpg"
-        width: 1024
-        height: 683
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Capitol riot boosts facial recognition app"
     excerpt: "A facial recognition app saw a large increase in use the day after rioters stormed the U.S. Capitol building in Washington, D.C. Source by: Stringr"

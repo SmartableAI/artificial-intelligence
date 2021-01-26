@@ -278,6 +278,17 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 30
+  - title: "Artificial Intelligence (AI) in Manufacturing Market 2020 Recent Industry Trends and Significant Developments by 2027"
+    excerpt: "Market Research Intellect have recently published a new report on the Global Artificial Intelligence AI in Manufacturing Market The study provides profound insights into updated market events and market trends This in turn helps one in better comprehending the market"
+    publishedDateTime: 2021-01-26T11:18:00Z
+    webUrl: "https://www.openpr.com/news/2231110/artificial-intelligence-ai-in-manufacturing-market-2020"
+    ampWebUrl: "https://www.openpr.com/amp/2231110/artificial-intelligence-ai-in-manufacturing-market-2020"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2231110/artificial-intelligence-ai-in-manufacturing-market-2020"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 29
   - title: "Global AI-Enabled Medical Imaging Solutions Market (2020 to 2030) - Analysis and Forecast - ResearchAndMarkets.com"
     excerpt: "ResearchAndMarkets.com The “Global AI-Enabled Medical Imaging Solutions Market: 15 Countries Analysis - Analysis and Forecast, 2020-2030” report has been added to ResearchAndMarkets.com’s offering. The global AI-enabled medical imaging solutions market was valued at $636."
     publishedDateTime: 2021-01-22T16:44:00Z

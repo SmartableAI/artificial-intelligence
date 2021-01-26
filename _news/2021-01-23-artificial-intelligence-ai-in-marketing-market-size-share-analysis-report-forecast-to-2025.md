@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-marketing-market-size-share-analysis-report-forecast-to-2025-2021-01-23"
 type: article
 quality: 86
-heat: 276
+heat: 286
 published: true
 
 provider:
@@ -266,6 +266,17 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 30
+  - title: "Artificial Intelligence (AI) in Manufacturing Market 2020 Recent Industry Trends and Significant Developments by 2027"
+    excerpt: "Market Research Intellect have recently published a new report on the Global Artificial Intelligence AI in Manufacturing Market The study provides profound insights into updated market events and market trends This in turn helps one in better comprehending the market"
+    publishedDateTime: 2021-01-26T11:18:00Z
+    webUrl: "https://www.openpr.com/news/2231110/artificial-intelligence-ai-in-manufacturing-market-2020"
+    ampWebUrl: "https://www.openpr.com/amp/2231110/artificial-intelligence-ai-in-manufacturing-market-2020"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2231110/artificial-intelligence-ai-in-manufacturing-market-2020"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 29
   - title: "Far Field Speech Voice Recognition Market Size, Industry Trends, Leading Players, Share and Forecast 2019-2025"
     excerpt: "The global far field voice and speech recognition market size is expected to grow at a CAGR of 24 56 during the forecast period Long distance speech recognition is an essential technology for voice interaction and aims to enable smart"
     publishedDateTime: 2021-01-25T12:54:00Z

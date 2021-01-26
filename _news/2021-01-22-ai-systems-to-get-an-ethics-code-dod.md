@@ -7,7 +7,7 @@ originalUrl: "https://www.defenseworld.net/news/28810/AI_Systems_to_get_an_Ethic
 webUrl: "https://www.defenseworld.net/news/28810/AI_Systems_to_get_an_Ethics_Code__DoD"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       - url: "https://www.defenseworld.net/uploads//news/big/autonomou_1608524511.jpg"
         width: 640
         height: 427
-        isCached: true
-  - title: "DOD Incorporating AI Ethics Into Systems Engineering, Official Says"
-    excerpt: "Alka Patel, head of artificial intelligence ethics policy at the Joint Artificial Intelligence Center, said that because AI enables autonomy, decision making and system execution at incredibly fast"
-    publishedDateTime: 2021-01-21T20:56:00Z
-    webUrl: "https://www.defense.gov/Explore/News/Article/Article/2478900/dod-incorporating-ai-ethics-into-systems-engineering-official-says/"
-    type: article
-    provider:
-      name: US Department of Defense
-      domain: defense.gov
-    quality: 54
-    images:
-      - url: "https://media.defense.gov/2020/Feb/25/2002254870/1280/1280/0/200205-M-VG714-0068M.JPG"
-        width: 1280
-        height: 853
         isCached: true
   - title: "DOD’s Alka Patel: AI Ethics Must Apply to All Military AI Systems"
     excerpt: "Alka Patel, who leads artificial intelligence ethics policy at the Joint AI Center (JAIC), said Department of Defense (DOD) officials believe ethical concerns must be applied to the technology's design and use,"

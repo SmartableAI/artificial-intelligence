@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/Ehave-Inc-Utilizes-Arti
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Ehave-Inc-Utilizes-Artificial-Intelligence-and-Machine-Learning-for-Big-Data-Management-in-Mental-Healthcare-1029999161"
 type: article
 quality: 81
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -79,15 +79,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "New Deep Learning Discovery Paves Way for AI Interpretation of Brainwave Data"
-    excerpt: "A new paper published in the Journal of Neural Engineering shows the successful first application of self-supervised learning, a very promising recent approach to train deep neural networks, to directly learn what EEG looks like,"
-    publishedDateTime: 2021-01-21T21:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210121005681/en/New-Deep-Learning-Discovery-Paves-Way-for-AI-Interpretation-of-Brainwave-Data"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 31
 
 secured: "NI5/cCAjhv1PUjD+S5Od4szDfLvei9Wyj4nAgzp/ZtpEE7Jy5EGNtPPX7AQYBDmOG0/1tSLxRNUwFYecQn4FPQ43ihXNMUCMZJn4PUHb7MunOc/7uP2ZDMTYNE21s5YtC7L0LkjtpPJLb/ZaTppLrH0Viw45pE/QQF4c96ABchTt7BVQVXnqOlPHLYxqd1Z86XwnhmxoUAhFEL9fCuR0EvcAA0HjBWxlvO8KqhdGQNqPTJk1zFircfKPZLfQJIdzDGn9BK7rl7FZUYWTuZzM+Lgd5sK3V1nqZ+6VI0wJncpAN4fH8mHMKxa8/iz1f4/O2oUrTZkLJHE9Yo4RPv4HgcVD20TMI7A3U+3kp90Wehk=;DhrZJMVSH8/+zyMffjcwTQ=="
 ---

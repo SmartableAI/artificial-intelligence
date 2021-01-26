@@ -9,7 +9,7 @@ ampWebUrl: "https://www.kmov.com/south-korea-has-used-ai-to-bring-a-dead-superst
 cdnAmpWebUrl: "https://www-kmov-com.cdn.ampproject.org/c/s/www.kmov.com/south-korea-has-used-ai-to-bring-a-dead-superstars-voice-back-to-the-stage/article_f9df111e-b879-5c9e-80c9-aec19cbedc28.amp.html"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "South Korea: AI To Recreate Deceased Singer's Voice For TV Show"
+    excerpt: "National broadcaster SBS plans to use AI to recreate the voice of late singer Kim Kwang-seok, but concerns have been raised over the ethics of using this technology."
+    publishedDateTime: 2021-01-26T11:12:00Z
+    webUrl: "https://www.ibtimes.com/south-korea-ai-recreate-deceased-singers-voice-tv-show-3130674"
+    ampWebUrl: "https://www.ibtimes.com/south-korea-ai-recreate-deceased-singers-voice-tv-show-3130674?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/south-korea-ai-recreate-deceased-singers-voice-tv-show-3130674?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 59
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/07/27/artificial-intelligence-23320041920.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "South Korea has used AI to bring a superstar back to life, but ethical concerns abound"
     excerpt: "For the first time in 25 years, the distinctive vocals of South Korean superstar Kim Kwang-seok will be heard on national television singing new material."
     publishedDateTime: 2021-01-26T01:55:00Z
@@ -42,6 +58,6 @@ related:
         height: 630
         isCached: true
 
-secured: "A+DA70DG31FieBWa4Xiimy3JH8gT6+yi8NVBUzfvRn64Ospx+fPVqZaL337DUHekBvhSWuTl8Jm3gOoClK3jWDQj4qno0KmNNO0OnSC8YtBkrGAfSLv4r1OEesE33kfh34JMc9+2PIs/cc7Uq4W04bdlaHwWhRB3UsbSQFcQyfI0X/XAaQEv5WuNFrHeOS4KVB75gEW8iJnYvdPxGd0VeF+QPmj4wdiL3vChlnD62CvXfx3p/ncAuadI/63LQSaVU2OLp3eLv/tpQdPf7CfM9ZDfQjStvVnooewmmuzCALCJmpP8/F2yAGPmTEpeIdYPJbmRlIGZGPiQ+JFXhA2+3PTtkh/KmcREoQkseMp4cLs=;XthgR9dzK1dM2JPnDuYSwQ=="
+secured: "TrsnEGekQY3+usr5B0k0keishxqS4SPnCvtxJBc2tA8WiDhEeNrKKT/SaP2ErrUcRRnabcTDQ/6xWHmHltMe5JjFW1KlAJTYLE7hodObupgMi6mg0FGsqe8N/fCNe7j3H9m8oqtzJ1Q+iYsygoM++BWEGF5NZi2aBNZwoymFlCC8OesS1LvwuRKJ2k/n8qtR0izztxrGpWEo03ehHW9fV2RcvM57gZfDgrFb/XVHcDMF3iQ8H2D/3XH2R4PKtyFAmtt/emjC9s/0GmuuNGCpWUzUAzW0LOoqyHOu4YbY/tYur7S8YeDx6hS0eGzvSqmLQrmTv7jJl2mW+j4A3Com+b2kLFZWCapxjxbKb+VU0/M=;cSJJw4chUoM6S8WrZ69UsA=="
 ---
 

@@ -37,6 +37,20 @@ related:
       name: Windows
       domain: compsmag.com
     quality: 24
+  - title: "MATEON LAUNCHING MOBILE APP, ARTIHEALTH™, FOR REMOTE RESPIRATORY HEALTH ASSESSMENT"
+    excerpt: "Previously, Mateon had reported that PulmoHealTM more than doubled the recovery rate of COVID-19 patients. “Mateon’s artificial intelligence (AI) telemedicine platform, ArtiHealthTM, provides respiratory assessments for integrated treatment of respiratory diseases such as COVID-19,"
+    publishedDateTime: 2021-01-26T06:09:00Z
+    webUrl: "https://apnews.com/article/business-technology-products-and-services-media-coronavirus-pandemic-a78120f12f3e6c239514cf860dfe52a9"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 18
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "3o0IkHkMWgZbWiDcZEUO+7x90EGfdzoVyoC7TKh5juLYmPNCdgofCFyqf9jOzFeIDGrPZEiW/XaqsMw8W9XzvhSiAJtHq8ltw8Q3nPXd4LgS8D05pr/w/iHWQCxrpsl7jEJEkUkVyXOweiGLAVx62Y71HQFQMqmjPISXkdcJpidjzAi5NK6vdw0ky4mH7mOubR47w1l2VL+xAL9XMe23cta4HnzvKhiv9flVmN+XzzvykrhI64J2ucNlujv0kgHG0CjyMCPlyvrnyYHQUHs298F58G8nJjBXH10l6OAhXc81u3uRe29KYY65WMeX/wecs7UHZpHbfjYcqgckX3vIezvkUTw9VtbKtP5G4vEfTaU=;t97zomtS8aStknCUwZmB+w=="
 ---

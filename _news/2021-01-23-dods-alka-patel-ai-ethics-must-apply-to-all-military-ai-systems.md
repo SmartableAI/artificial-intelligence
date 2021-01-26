@@ -53,20 +53,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "DOD Incorporating AI Ethics Into Systems Engineering, Official Says"
-    excerpt: "Alka Patel, head of artificial intelligence ethics policy at the Joint Artificial Intelligence Center, said that because AI enables autonomy, decision making and system execution at incredibly fast"
-    publishedDateTime: 2021-01-21T20:56:00Z
-    webUrl: "https://www.defense.gov/Explore/News/Article/Article/2478900/dod-incorporating-ai-ethics-into-systems-engineering-official-says/"
-    type: article
-    provider:
-      name: US Department of Defense
-      domain: defense.gov
-    quality: 54
-    images:
-      - url: "https://media.defense.gov/2020/Feb/25/2002254870/1280/1280/0/200205-M-VG714-0068M.JPG"
-        width: 1280
-        height: 853
-        isCached: true
 
 secured: "G3XHuogG21Pv1tuA7KUxah+Qpe9nfzY5ZKdMSt5bh/ftJ5SPmJeFzTM0sU32mdnlebxuqRRkSXjLtnWLSxmlIlUoi6gBmGFTUOwRjGCwbkqYUjeqDbxL4wli94C7pbqXrrTzKNJGpHhfEeMaNzR4ZZHjZd7YWy4YAWbR/z4ryM7/zhB7oo+hwvP+L7vph4Wz1/2UiqjjKcNPcvaSaWWw/SZ5NazYjBh1scEljScK5o4dEF3ynNpl8tebqPoQdB9AIHiAxNCzq3mPzNkIxkvZX45aA+d6NypSnkpkAvc4zKn/8/2Q15C6Od4QhtV6qNtqAjaAzslW4DUU/lvHc1Uvtyy5NRVLTx4SI9WPQyE+PPXy/qvNSY8DpJCa/WYE1fYT6YxtYbIoNv6bzZ5uSie4Sp1WldQaHA5C4BFkPQ+1lr0Wrt8BNGwwFBBiQmqBlVoaaKnz6J3fHA7iJk0yyfHIApBI/1Jb8gYWLkUY+fMZQGZ+QbOEsdPjwmNj8SocHhE/UUJhsntn6nPjcvosH4PaLA==;bztsaIy1fodWt62tMAJUNA=="
 ---

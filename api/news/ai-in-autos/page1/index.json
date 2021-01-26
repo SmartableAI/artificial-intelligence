@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-26-this-ai-could-go-from-art-to-steering-a-self-driving-car.md",
+      "title": "This AI Could Go From ‘Art’ to Steering a Self-Driving Car",
+      "excerpt": "DALL-E drew laughs for creating images of a daikon radish in a tutu. But it builds on an important advance in computer vision with serious applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ai-go-art-steering-self-driving-car/",
+      "originalUrl": "https://www.wired.com/story/ai-go-art-steering-self-driving-car/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/600f51cd4774061ec087b7da/master/pass/Business-OpenAI-Spaghetti-Knights.jpg",
+          "width": 2057,
+          "height": 1029,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/ai-go-art-steering-self-driving-car/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-go-art-steering-self-driving-car/amp",
+      "publishedDateTime": "2021-01-26T04:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-25-musk-says-tesla-beats-waymo-at-self-driving-tech-after-krafcik-criticises-it.md",
       "title": "Musk says Tesla beats Waymo at self-driving tech after Krafcik criticises it",
       "excerpt": "Elon Musk has responded to criticsm of Tesla's 'self-driving' systems by Waymo CEO John Krafcik, saying his tech is better.",
@@ -1458,49 +1511,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-baidu-geely-team-up-to-make-smart-electric-cars.md",
-      "title": "Baidu, Geely team up to make smart electric cars",
-      "excerpt": "Baidu will provide intelligent driving capabilities ... in artificial intelligence to build a portfolio of world-class self-driving services. China has become the world's largest market for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.chinadaily.com.cn/a/202101/11/WS5ffbc2cba31024ad0baa1c08.html",
-      "originalUrl": "https://www.chinadaily.com.cn/a/202101/11/WS5ffbc2cba31024ad0baa1c08.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img2.chinadaily.com.cn/images/202101/11/5ffbc2cba31024adbdade55c.png",
-          "width": 602,
-          "height": 401,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-11T23:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "China Daily",
-        "domain": "chinadaily.com.cn",
-        "images": null,
         "publishers": null,
         "authors": null
       },

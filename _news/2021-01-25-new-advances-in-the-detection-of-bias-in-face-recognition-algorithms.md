@@ -25,20 +25,44 @@ images:
     isCached: true
 
 related:
-  - title: "AnyVision offers 5 indications for fair, ethical and unbiased use of face recognition amidst rising public debate in the US"
-    excerpt: "AnyVision has offered five indications for fair, ethical and unbiased use of face recognition amidst a rising public debate in the US."
-    publishedDateTime: 2021-01-25T13:03:00Z
-    webUrl: "https://www.ifsecglobal.com/video-surveillance/anyvision-5-indications-for-fair-ethical-and-unbiased-use-face-recognition/"
+  - title: "How Facial Recognition Algorithms Can Cut Out Bias"
+    excerpt: "A team has published the results of a study that evaluates the accuracy and bias in gender and skin colour of automatic face recognition algorithms tested with real world data."
+    publishedDateTime: 2021-01-26T11:52:00Z
+    webUrl: "https://www.technologynetworks.com/neuroscience/news/how-facial-recognition-algorithms-can-cut-out-bias-344899"
+    ampWebUrl: "https://www.technologynetworks.com/neuroscience/news/amp/how-facial-recognition-algorithms-can-cut-out-bias-344899"
+    cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/neuroscience/news/amp/how-facial-recognition-algorithms-can-cut-out-bias-344899"
     type: article
     provider:
-      name: ifsecglobal.com
-      domain: ifsecglobal.com
-    quality: 45
+      name: technologynetworks.com
+      domain: technologynetworks.com
+    quality: 59
     images:
-      - url: "https://s33644.pcdn.co/wp-content/uploads/2017/11/facial-recognition-biometrics-vectors-e1509551615893.jpeg"
-        width: 300
-        height: 300
+      - url: "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/how-facial-recognition-algorithms-can-cut-out-bias-344899.jpg?v=11082843"
+        width: 640
+        height: 360
         isCached: true
+  - title: "How Cos. Can Comply With Portland Facial Recognition Ban"
+    excerpt: "Due to the breadth of Portland, Oregon's, recent ban on facial recognition technology, companies both within and outside the city should take several actionable steps to leverage the technology while satisfying their compliance obligations,"
+    publishedDateTime: 2021-01-22T22:58:00Z
+    webUrl: "https://www.law360.com/articles/1346906/how-cos-can-comply-with-portland-facial-recognition-ban"
+    ampWebUrl: "https://www.law360.com/amp/articles/1346906"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1346906"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 39
+  - title: "Capitol riot boosts facial recognition app"
+    excerpt: "A facial recognition app saw a large increase in use the day after rioters stormed the U.S. Capitol building in Washington, D.C. Source by: Stringr"
+    publishedDateTime: 2021-01-25T22:15:00Z
+    webUrl: "https://omaha.com/news/national/capitol-riot-boosts-facial-recognition-app/video_9ca5b88f-7e20-5e03-ab79-fa237383edb0.html"
+    ampWebUrl: "https://omaha.com/news/national/capitol-riot-boosts-facial-recognition-app/video_9ca5b88f-7e20-5e03-ab79-fa237383edb0.amp.html"
+    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/national/capitol-riot-boosts-facial-recognition-app/video_9ca5b88f-7e20-5e03-ab79-fa237383edb0.amp.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 39
 
 secured: "ZA+UMOiBg8Pwkr69Ba0yBiEALZs1dNnyI/JNkMDfiDAjizpoO1EJzWy23gH9OoAfVsvG9iBjSQwcrlI8BiwVKqB6/lD6LArMK1t9+nVd9B5PI/8ykUIOyXk4UqzahiXji0zEu4F1RYB7fxzbrYxNvhjQHIp7gnxPodGBY9nJqT5dKfu/4Krnf8DBlpGops3JihY1e0fRi9SFhHjA3xBJsEcEirGGV8TCfn4mZctCKVL+QaFbQiAg+ozBtD2jQtQXYwQvD10oV9BptBmgIt0d47xCQUnbP+n/70zouOZb68xTCXB38oH5911NZLqcj+dir2OK6zI+PoPy0rp8A06kZaIVVD1nnkxxUxfrYhS/sVA=;zDqrCjVYunR3muxwxMg3Dg=="
 ---

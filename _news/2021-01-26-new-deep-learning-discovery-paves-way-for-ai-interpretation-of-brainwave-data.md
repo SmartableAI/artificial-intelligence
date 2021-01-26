@@ -75,15 +75,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "New Deep Learning Discovery Paves Way for AI Interpretation of Brainwave Data"
-    excerpt: "A new paper published in the Journal of Neural Engineering shows the successful first application of self-supervised learning, a very promising recent approach to train deep neural networks, to directly learn what EEG looks like,"
-    publishedDateTime: 2021-01-21T21:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210121005681/en/New-Deep-Learning-Discovery-Paves-Way-for-AI-Interpretation-of-Brainwave-Data"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 31
 
 secured: "2w4EpPRaXQiLqFAAaHN2mX7XFbdZXYrVMQkpBEM49DZNfAIlSzVh0zmBduvi7wEVn/ZS7JpgMuFEBpLRer7U9BonGRhNffPDbG67PdJMvPLSSvYpEJKIcuLLtZ+WiaZM5dfmMcoiCqgF+jQ0ZOw7URot7OI7jKNGoc6OsJWd7Vxmr+7FWE//un061QiFBb1cwgieOuAvMcz/bFz7wOY8r3jgcf8ZzZkKhLlF4nfSCThHI+HndPK7mhMeSs224ux5FbMAEm/Ow7gSxGCYoz+1z75x+UaO6KmHp2pV0xzvtPaq0DHNaRw0MLPLP0wfyKVur5ofAO7HmergpZ+a9WkJ8GvqSNZoZfCqlEzrcMT/5go=;lRNzdkEoPZONKPiSey0SOA=="
 ---

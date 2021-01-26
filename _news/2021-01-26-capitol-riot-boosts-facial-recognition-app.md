@@ -21,19 +21,21 @@ topics:
   - AI
 
 related:
-  - title: "Kami releases smart video doorbell with facial recognition capabilities"
-    excerpt: "Vision artificial intelligence (AI) company Kami has released a new smart video doorbell with face biometric capabilities. The Kami Doorbell Camera utilizes edge computing technology and advanced AI to enable human detection and facial recognition features."
-    publishedDateTime: 2021-01-21T23:01:00Z
-    webUrl: "https://www.biometricupdate.com/202101/kami-releases-smart-video-doorbell-with-facial-recognition-capabilities"
+  - title: "How Facial Recognition Algorithms Can Cut Out Bias"
+    excerpt: "A team has published the results of a study that evaluates the accuracy and bias in gender and skin colour of automatic face recognition algorithms tested with real world data."
+    publishedDateTime: 2021-01-26T11:52:00Z
+    webUrl: "https://www.technologynetworks.com/neuroscience/news/how-facial-recognition-algorithms-can-cut-out-bias-344899"
+    ampWebUrl: "https://www.technologynetworks.com/neuroscience/news/amp/how-facial-recognition-algorithms-can-cut-out-bias-344899"
+    cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/neuroscience/news/amp/how-facial-recognition-algorithms-can-cut-out-bias-344899"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
+      name: technologynetworks.com
+      domain: technologynetworks.com
+    quality: 59
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/01/21175048/kami-edge-ai-doorbell-camera-1024x683.jpg"
-        width: 1024
-        height: 683
+      - url: "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/how-facial-recognition-algorithms-can-cut-out-bias-344899.jpg?v=11082843"
+        width: 640
+        height: 360
         isCached: true
   - title: "How Cos. Can Comply With Portland Facial Recognition Ban"
     excerpt: "Due to the breadth of Portland, Oregon's, recent ban on facial recognition technology, companies both within and outside the city should take several actionable steps to leverage the technology while satisfying their compliance obligations,"
@@ -46,6 +48,20 @@ related:
       name: Law360
       domain: law360.com
     quality: 39
+  - title: "New advances in the detection of bias in face recognition algorithms"
+    excerpt: "A team from the Computer Vision Center (CVC) and the University of Barcelona has published the results of a study that evaluates the accuracy and bias in gender and skin colour of automatic face recognition algorithms tested with real world data."
+    publishedDateTime: 2021-01-25T15:39:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-01/uob-nai012521.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "pUblV1sgEeg4gYQHkjetz4HunExUjeq6dFNxJyU1yl4ucVU+HQwL7X1s8fRDCFyMrz3M6HbUvecAdsv5N+wyQjLe0S2PzCVGY4XhYwf5NSasxFcUixZP5TjUL7D9U+KV4PnckMjKrU0DJtK/I2qgwL+64JrHjCRv33Qawe+B25FBYgv7Cw2SqPzt7nfds1HS7YE4Kr014VtTjmDOYV5ot97gPr4KNHZLQc0WrG0FSBtHw9rZdC8wu+PT52U5lpswL7lmSeaAh60Hg4wA8q8YHCLTItP0dxXZk9nNpAYDQ40k/MRI5a6fM46obHIx1XvTndgjzHj2tb+QlqrocEe14fv0BFrUesI3KRQJQYC6bl+68uSJ8nVmzqla7YxY3CUXFiTfLcSoEMwAQh4SOq/dvZmZwBugDZl/swArBuGzAFkykGXrrVcDWpeIhWzyRzcync3sxlSrNNWBVfCsr4599PnE/E8EldXwALy/RaPw2PAkVvJ5OUP50nK3haRB0pmizmXoTjzwoM9PcRm9wvKf5g==;EUhcZEZJW6uh2Ns5gbRhgw=="
 ---

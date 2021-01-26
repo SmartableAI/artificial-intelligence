@@ -24,30 +24,6 @@ images:
     height: 683
     isCached: true
 
-related:
-  - title: "How Cos. Can Comply With Portland Facial Recognition Ban"
-    excerpt: "Due to the breadth of Portland, Oregon's, recent ban on facial recognition technology, companies both within and outside the city should take several actionable steps to leverage the technology while satisfying their compliance obligations,"
-    publishedDateTime: 2021-01-22T22:58:00Z
-    webUrl: "https://www.law360.com/articles/1346906/how-cos-can-comply-with-portland-facial-recognition-ban"
-    ampWebUrl: "https://www.law360.com/amp/articles/1346906"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1346906"
-    type: article
-    provider:
-      name: Law360
-      domain: law360.com
-    quality: 39
-  - title: "Capitol riot boosts facial recognition app"
-    excerpt: "A facial recognition app saw a large increase in use the day after rioters stormed the U.S. Capitol building in Washington, D.C. Source by: Stringr"
-    publishedDateTime: 2021-01-25T22:15:00Z
-    webUrl: "https://omaha.com/news/national/capitol-riot-boosts-facial-recognition-app/video_9ca5b88f-7e20-5e03-ab79-fa237383edb0.html"
-    ampWebUrl: "https://omaha.com/news/national/capitol-riot-boosts-facial-recognition-app/video_9ca5b88f-7e20-5e03-ab79-fa237383edb0.amp.html"
-    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/national/capitol-riot-boosts-facial-recognition-app/video_9ca5b88f-7e20-5e03-ab79-fa237383edb0.amp.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 39
-
 secured: "bI2DsJy5MJtiHO1Z/Yg6VMxbg1FL9/lX0iW8gkfkDerY4ypc2/re5+EZqocyG4YkHEsA4xjxQKEvd5mfgPK5hkwJ7Nv3qqcOAfNt1g1UBHprxnr6Urw7CgXF8qXXc2qQej0dfFvMjGmU0bhTiYSenSoFv/jVIhpp5+y2EMxEPsaklxKllSyvdSy0tHWqCbrYBueicN3R/BYvRTGFSoaT1YK0eHGyazU9uWowR7O3PtjWCTk16Q8OjNL7fcAVFnwlVUOL8+p/ye6xjJfxfJxq8n3znnw/aW0ESXk9ugtBzQoqqVpJUR8jnzJaBuwEPrnMvJmPl1OiarIrha1xC2SfOBHq9KmfwHfGdemlQbwNnJ7KsRKJvnw3cbTxM97ErzLFK+EBpbMbVtuaA5EFDMxxWapjPLfwVhJo88H65ZskkEAAjwm7KuR3HHOL4cKjObmRETtyAHyqBYJqgS25It7MDO0st/Mi3UFHqQCzOHapJ30BGjYA+pgcz48Ps7fEI7I+yaokPO/IeGOXg09cJyqX0g==;y5qD5xRbGyVWyzyHQQc2/Q=="
 ---
 

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-26-south-korea-ai-to-recreate-deceased-singers-voice-for-tv-show.md",
+      "title": "South Korea: AI To Recreate Deceased Singer's Voice For TV Show",
+      "excerpt": "National broadcaster SBS plans to use AI to recreate the voice of late singer Kim Kwang-seok, but concerns have been raised over the ethics of using this technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/south-korea-ai-recreate-deceased-singers-voice-tv-show-3130674",
+      "originalUrl": "https://www.ibtimes.com/south-korea-ai-recreate-deceased-singers-voice-tv-show-3130674",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/07/27/artificial-intelligence-23320041920.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/south-korea-ai-recreate-deceased-singers-voice-tv-show-3130674?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/south-korea-ai-recreate-deceased-singers-voice-tv-show-3130674?amp=1",
+      "publishedDateTime": "2021-01-26T03:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-gartner-the-future-of-ai-is-not-as-rosy-as-some-might-think.md",
       "title": "Gartner: The future of AI is not as rosy as some might think",
       "excerpt": "A Gartner report predicts that the second-order consequences of widespread AI will have massive societal impacts, to the point of making us unsure if and when we can trust our own eyes.",
@@ -263,7 +306,7 @@
       "originalUrl": "https://www.defenseworld.net/news/28810/AI_Systems_to_get_an_Ethics_Code__DoD",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -1394,50 +1437,6 @@
         "AI in Autos",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-01-09-five-ways-to-make-ai-a-greater-force-for-good-in-2021.md",
-      "title": "Five ways to make AI a greater force for good in 2021",
-      "excerpt": "A year ago, none the wiser about what 2020 would bring, I reflected on the pivotal moment that the AI community was in. 2018 had seen a series of high-profile automated failures, like self-driving car crashes and discriminatory recruiting tools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2021/01/08/1015907/ai-force-for-good-in-2021/",
-      "originalUrl": "https://www.technologyreview.com/2021/01/08/1015907/ai-force-for-good-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/01/SA-GettyImages-1193127525.jpeg?w=3000",
-          "width": 3000,
-          "height": 1688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2021/01/08/1015907/ai-force-for-good-in-2021/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/01/08/1015907/ai-force-for-good-in-2021/amp/",
-      "publishedDateTime": "2021-01-08T08:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],
