@@ -41,20 +41,6 @@ related:
         width: 970
         height: 545
         isCached: true
-  - title: "Kyligence Launches Intelligent Data Cloud for Interactive Analytics"
-    excerpt: "Kyligence, originator of Apache Kylin and developer of the AI-augmented analytics platform Kyligence Cloud, has announced the availability of Kyligence Cloud 4, its new cloud-native distributed big data analytics platform."
-    publishedDateTime: 2021-01-21T16:38:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Kyligence-Launches-Intelligent-Data-Cloud-for-Interactive-Analytics-144837.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 24
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "YaydwxdIEj3xlZIhdpUlpahBpHpf2vgsvCnIy8oBxF5hSU+yix6MEUhWJFE8/lR8WCw8E2FWjRmFcnaECSPnkIy19bFkiK4caw6Fcnd8kijZHinYGiXQpWM4PKqqDj1WWuOPEhA7vrdyKVciq/w1hpQF9uHBvGMTf94Vju9PaTvzr9ONmpIjTbRwoen3KjFauXYbyeRJi7ZyHzzPwRpJxH5hcBReUJjP4gtVKnp3981HHvFP2omIU7p1p04UCaLJF+Jh0KZbzMnAHHVaFG1Eqbg9aOag2dkskE1b2NOw3MsjjsMOiUokHvhXOW5X42p3/o2KQoAt2HTDzO5fI3gtzHLm1ZHbd0RECE6Ww0rnnI4=;TtnBUx997TEdW2By7RfQAQ=="
 ---

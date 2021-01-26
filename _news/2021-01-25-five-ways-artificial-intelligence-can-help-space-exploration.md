@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI spacefarers and cosmic testbeds: Robust robotic systems forge path for human space exploration"
-    excerpt: "With global dust storms, extreme temperature fluctuations, and cosmic radiation, life beyond the Earth's comparatively cozy confines is no picnic."
-    publishedDateTime: 2021-01-21T15:54:00Z
-    webUrl: "https://www.techrepublic.com/article/ai-spacefarers-and-cosmic-testbeds-robust-robotic-systems-forge-path-for-human-space-exploration/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-spacefarers-and-cosmic-testbeds-robust-robotic-systems-forge-path-for-human-space-exploration/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-spacefarers-and-cosmic-testbeds-robust-robotic-systems-forge-path-for-human-space-exploration/"
+  - title: "Seven ways AI can help govts transform public services"
+    excerpt: "Governments are starting to explore the potential of AI and can work with policy-makers, public servants and data scientists to fully realise its benefits."
+    publishedDateTime: 2021-01-24T04:00:00Z
+    webUrl: "https://theprint.in/tech/seven-ways-ai-can-help-govts-transform-public-services/590745/"
+    ampWebUrl: "https://theprint.in/tech/seven-ways-ai-can-help-govts-transform-public-services/590745/?amp"
+    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/tech/seven-ways-ai-can-help-govts-transform-public-services/590745/?amp"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 74
+      name: ThePrint
+      domain: theprint.in
+    quality: 59
     images:
-      - url: "https://tr2.cbsistatic.com/hub/i/r/2020/07/16/c951a0d1-cc8b-46da-988f-c58fe571e60b/resize/1200x/c86c0af5787ca81d7c75643556e811bc/mars-2020.jpg"
+      - url: "https://static.theprint.in/wp-content/uploads/2018/09/AI-final.jpg"
         width: 1200
-        height: 900
+        height: 675
         isCached: true
 
 secured: "QMe0Hsrryy0d/Sybn6qmZliBitbACkgrfbIpAFZcuasuudQlTSihRnHqrfbBD0M0jav4hFyHtsQJBqiJIhi/SJpSHRr7eawEJIuKEa1hSnuYi4uuGQc2mWMuppdC/aKOmSrslrei2Rhqq3efEPmNZQr3EJ02O3mkKY3Fp9Ahr1UGYKfS9iAbAipJC3aDmllaJJHL+qd8xPfHMAjwfAilIb6Mz+hgYnpDWHNLLUzMXnQhG7MexKuFGt8GldIbysxhQfqLfkTLoGs2m77qNokaAUUYfIDJ/Mg/BqHNZz1HnVpUncveT/nHWN55Es5PmIZSq6P2g8X778DhCW6Pv+tHSSGHxS8N9aqcG/5wqExhEND9lmQJk16WPF4oWb8s25klhY6OTwD1+65tW3TFqPzzVqEi3i6gh35TTfgMLhJ/tCOzZgO3eIh7nPf4X0+9UXvSBGThiuxzzJ8y7iM4uqmCy5DGrbLSkgXlQiET+ux2ojAptnHwE40EaEir6rpA8bkugLGf8Aqd7Z5soNELnPVEyQ==;InKTBXm7lSTYYXnGo+VW5w=="

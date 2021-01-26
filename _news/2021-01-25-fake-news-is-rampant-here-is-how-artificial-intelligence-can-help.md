@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2021/01/25/fake-news-is-ram
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/01/25/fake-news-is-rampant-here-is-how-artificial-intelligence-can-help/amp/"
 type: article
 quality: 87
-heat: 128
+heat: 108
 published: true
 
 provider:
@@ -30,34 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "When a Story is Breaking, AI Can Help Identify Fake News"
-    excerpt: "Early intervention with tailored messaging may stop the spread of misinformation Screenshot of Twitter actions for"
-    publishedDateTime: 2021-01-21T15:38:00Z
-    webUrl: "https://www.miragenews.com/when-a-story-is-breaking-ai-can-help-identify-fake-news/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 39
-    images:
-      - url: "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/person/image/3827/s960_Neil_Richard_Bush.jpg"
-        width: 960
-        height: 640
-        isCached: true
-  - title: "When News is Breaking, AI Can Help News Consumers Identify Fake News"
-    excerpt: "Warnings about misinformation are now regularly posted on Twitter, Facebook, and other social media platforms, but not all of these cautions are created equal. New research from Rensselaer Polytechnic Institute shows that artificial intelligence can help form accurate news assessments — but only when a news story is first emerging."
-    publishedDateTime: 2021-01-21T15:43:00Z
-    webUrl: "https://news.rpi.edu/content/2021/01/21/when-news-breaking-ai-can-help-news-consumers-identify-fake-news"
-    type: article
-    provider:
-      name: RPI News
-      domain: rpi.edu
-    quality: 39
-    images:
-      - url: "https://www.rpi.edu/dept/cct/apps/web-branding/v1/header/meganav/img/thearch.jpg"
-        width: 667
-        height: 446
-        isCached: true
   - title: "When a story is breaking, AI can help consumers identify fake news"
     excerpt: "Warnings about misinformation are now regularly posted on Twitter, Facebook, and other social media platforms, but not all of these cautions are created equal. New research from Rensselaer Polytechnic Institute shows that artificial intelligence can help form accurate news assessments -- but only when a news story is first emerging."
     publishedDateTime: 2021-01-21T18:28:00Z
@@ -75,7 +47,7 @@ related:
   - title: "How AI is helping retailers reinvent themselves"
     excerpt: "Everyday activities, once normal, have taken on a new element of risk and consumers are prioritising those retailers who are capable of rapidly adjusting to changes in the business environment.” Retailers are moving to a multi-channel environment offering a variety of shopping options for customers,"
     publishedDateTime: 2021-01-26T06:50:00Z
-    webUrl: "https://www.moneyweb.co.za/in-depth/microsoft-south-africa/how-ai-is-helping-retailers-reinvent-themselves/"
+    webUrl: "https://www.moneyweb.co.za/news/tech/how-ai-is-helping-retailers-reinvent-themselves/"
     type: article
     provider:
       name: Moneyweb

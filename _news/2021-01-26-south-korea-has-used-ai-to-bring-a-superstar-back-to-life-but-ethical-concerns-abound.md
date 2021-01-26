@@ -26,20 +26,20 @@ images:
 
 related:
   - title: "South Korea has used AI to bring a dead superstar's voice back to the stage, but ethical concerns abound"
-    excerpt: "For the first time in 25 years, the distinctive vocals of South Korean superstar Kim Kwang-seok will be heard on national television singing new material."
-    publishedDateTime: 2021-01-26T03:22:00Z
-    webUrl: "https://www.kmov.com/south-korea-has-used-ai-to-bring-a-dead-superstars-voice-back-to-the-stage/article_f9df111e-b879-5c9e-80c9-aec19cbedc28.html?block_id=985917"
-    ampWebUrl: "https://www.kmov.com/south-korea-has-used-ai-to-bring-a-dead-superstars-voice-back-to-the-stage/article_f9df111e-b879-5c9e-80c9-aec19cbedc28.amp.html"
-    cdnAmpWebUrl: "https://www-kmov-com.cdn.ampproject.org/c/s/www.kmov.com/south-korea-has-used-ai-to-bring-a-dead-superstars-voice-back-to-the-stage/article_f9df111e-b879-5c9e-80c9-aec19cbedc28.amp.html"
+    excerpt: "Recent AI performances have excited fans of their music and the technology, but others have raised concerns about the ethics and legalities of resurrecting the voices of the dead."
+    publishedDateTime: 2021-01-26T02:34:00Z
+    webUrl: "https://edition.cnn.com/2021/01/25/asia/south-korea-kim-kwang-seok-ai-dst-hnk-intl/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/asia/south-korea-kim-kwang-seok-ai-dst-hnk-intl/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/asia/south-korea-kim-kwang-seok-ai-dst-hnk-intl/index.html"
     type: article
     provider:
-      name: KMOV
-      domain: kmov.com
-    quality: 57
+      name: CNN
+      domain: cnn.com
+    quality: 87
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/kmov.com/content/tncms/assets/v3/editorial/3/11/3115ece7-f6d5-54d4-b780-a1540b9d3563/600f85b6def34.image.jpg?resize=1024%2C576"
-        width: 1024
-        height: 576
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210122002517-03-ai-singing-show-south-korea-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Controversy over AI chatbot in South Korea raises questions about ethics, data collection"
     excerpt: "Offensive comments and data leaks spark calls for stricter rules and user guidelines.. Read more at straitstimes.com."

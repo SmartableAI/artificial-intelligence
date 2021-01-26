@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2021/01/22/1016652/biden-administra
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/01/22/1016652/biden-administration-ai-plans-what-to-expect/amp/"
 type: article
 quality: 159
-heat: 189
+heat: 179
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       name: Windows
       domain: compsmag.com
     quality: 39
-  - title: "Some are renewing a push for federal recognition of Native Hawaiians under Biden administration"
-    excerpt: "As President Biden took the oath of office at the U.S. Capitol back in Hawaii the State Capitol was surrounded by a sea of Hawaiian flags. For Kumu Hina Wong it’s a reminder that a changing of the guard does not change history."
-    publishedDateTime: 2021-01-21T16:58:00Z
-    webUrl: "https://kvia.com/regional-news/2021/01/21/some-are-renewing-a-push-for-federal-recognition-of-native-hawaiians-under-biden-administration/"
-    type: article
-    provider:
-      name: KVIA
-      domain: kvia.com
-    quality: 27
-    images:
-      - url: "https://kvia.com/wp-content/themes/storymate-npg/assets/images/weather-icons/9003_partly%20cloudy_day.png"
-        width: 280
-        height: 360
-        isCached: true
 
 secured: "u8IKFVARuD+X2BHYrkcp5oJi3rpef89hAH+a/mymlF3O8Psb8xjNyY8qn9SWSoeJqKrzfiWDLW189PghpiW4Ho4fpuhMSj1/i7sdeklokwvcl7EnMJLOx5ohRTlvOuHSOQIf7UDDCRhcDZXA9t7oO8d7BTrCVcznDKIl//vbsuuWBMkQHPphPXYJay+hgKgvw4H7ELL1uPhx/563c9g+X9s6zkT2xPH9Flx+KdLehvjxFMXhufQ5+uPiB0k3lBLYp8qcP2Nt0szfwCF3GZ2WVa7hPw7e+80lXPp45wdgqX3sSjVIXfQ9xbD3glyPA9rg9WiP+ZrZzkXvqxLH3biKMCwCogg2QFZIsLKDJiLk0Pdx2EFh1Jo0NZyU0xHstsy58m7CDNO1Q2vFbYZJca6d60ANHoiDs/X/7cEyRtBHw72udax833LAeiONLCW2o548eEkCCzQu9Vk48KoFeuyqBmfjQoImTGRpSCdu2xCWlgQf3Cpcp6ftHQMlpwN6iM+54+QTW7zacQjIoJPGNKSpXgk9fb+QVi4Ei64/McI6Tks=;p39B5tEHah9xGPq50YOb3g=="
 ---

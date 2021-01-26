@@ -3,10 +3,10 @@ category: news
 title: "Governance: Companies mature in their use of AI know that it needs guardrails"
 excerpt: "Quality governance ensures responsible data models and AI execution, as well as helps the data models stay true to the business objectives."
 publishedDateTime: 2021-01-25T21:36:00Z
-originalUrl: "https://www.techrepublic.com/article/governance-companies-mature-in-their-use-of-ai-know-that-it-needs-guardrails/"
-webUrl: "https://www.techrepublic.com/article/governance-companies-mature-in-their-use-of-ai-know-that-it-needs-guardrails/"
-ampWebUrl: "https://www.techrepublic.com/google-amp/article/governance-companies-mature-in-their-use-of-ai-know-that-it-needs-guardrails/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/governance-companies-mature-in-their-use-of-ai-know-that-it-needs-guardrails/"
+originalUrl: "https://www.techrepublic.com/index.php/category/10250/4/index.php/article/governance-companies-mature-in-their-use-of-ai-know-that-it-needs-guardrails/"
+webUrl: "https://www.techrepublic.com/index.php/category/10250/4/index.php/article/governance-companies-mature-in-their-use-of-ai-know-that-it-needs-guardrails/"
+ampWebUrl: "https://www.techrepublic.com/index.php/category/10250/4/index.php/google-amp/article/governance-companies-mature-in-their-use-of-ai-know-that-it-needs-guardrails/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/10250/4/index.php/google-amp/article/governance-companies-mature-in-their-use-of-ai-know-that-it-needs-guardrails/"
 type: article
 quality: 84
 heat: 84
@@ -29,6 +29,6 @@ images:
     height: 801
     isCached: true
 
-secured: "rMn5IYaNvZcON+S65H96xd6jn9SUo93F2swWrpD0nMcGBOYKURJTOymzz48UbaXrvqYxF6qAOD1YzotM43XizcxHjdkbxCDRIScLsEia29jFk4ziC84FYjmPzgpsvwH6cqqCoR24gkfnN4SOFEgJMQjwLFaIKcGHTC3l047kyVwUQfG9axoEBQi6KKY5d2ScMlqvTWmHNQHXiAqbSsZoszgEPtK/6pVMslR8GfR8c2rcTVqUXT3WJjuAYSpMWuRDhsOmxen5syccEp+iXysSJVd0XZAjjiNi0LtKNM543vWQR5r6a+fjM2j5FAIEpqDd8gIyieGUdwgHolRMlZj/zuHmCPqNnlEd+koIwy0Iau1MvlUmhA4L8o6H4fQbY8YM8j836IE/ystK4mVNshR99NHmAHJp+TF7AYEA3xpmLJap+KxBDyNpY3q0vHtQM3nEtpV9lcxmp2Eg0V/ADvaTa+F+/vdRaOWJ+fDJHQiWDwEK7vN6xJpsP/jHgmMg2fppznFSiKLvU+K+I7OId5JITQ==;kIykpxonz/E7pi2sFUaSbw=="
+secured: "0LgeLyCtTxRDd497zIx839LQYuvM+vtRWHGd8qSy/0mZPcrhwlcKppULAxtge4y9cP+0CqCx43SQ6l+uqm2FYe9hDe5k4MAdZ2DcYW5Nst7qAwY8uFkp5hS4qipEsVIpmoYP/vKlNRREZEQlAqsUTh5rD5wpE8wAWXcSCBCbfQOk0a8BH4NkP699hiFg8+TKzy4FaJiB+tiWH/Hh4OwWPg2XYt94sK0nqhFryh+RCkzPILhi0Dtu8W9oczWEz6LxVGWOVdg1aRPDKzb38wg4xtesFkS859GVk3/ZlNXYnty/KW9LK4y4klggJAOqQ5nj8+tHXCTDNQyEmWcUENPd4jmfFRLulXIdjbUzVhSkYrY=;I+C0iSzeC2Sa4NKi/JgzVw=="
 ---
 

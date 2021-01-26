@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Aiforia partners with Pathan to bring artificial intelligence assisted diagnostics to the pathology lab"
-    excerpt: "Pathan, one of the largest pathology laboratories in the Netherlands, has started a collaboration with Aiforia, a leading software company providing artificial intelligence (AI) solutions for medical image analysis."
-    publishedDateTime: 2021-01-21T15:21:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-medical-technology-information-technology-diagnosis-and-treatment-f11ca5c4e6b068a1026892482e17b1e3"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 38
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "vhypgTHvHF3YQH0GurgsXb8sWgemWuk2NOGT8STdOIBGlm/wVEZ2bzB8pd9+UkMULbtU8NCDixWNebs1aKbwAFKcNhcnj4I9UXhQAVEkBjbVzXi48vvUBQLiQ5BKieM6SEu4H8VtAuN+PDx7+sL+2aJ28gok3goO4s5aLkKleomgPg9o0RU1yj1u4hpSK+wV/oTIve2bfbJ1OUKwvVOICmbXFPffuxCQyl5xuY9IpBntoovy+AxG3JMmDFz5sTRM9lOSo60I2OGWg9BjZaQmhOAOQ099eCcQoDwRSxbA1pjglX4Z9IMVn+4nPQ0IulzaoeOpjTO8FIPckMO27dcnEcXjPeB0mQVFXLpvlNuAHKE6q7rCA2VPuPQmPZX9iUq91ft9x4AmeX+gxjU5rFjrB6KfXW+Skq0R7Sr4TD1yuK7mb5RvW2ucn2hzQ7PQV2eNVruJO5J3PY90v7W5hxBVrNTICSbaQ0yYahFP4/SmeangCHvlAsLgp3+uqZKR43ACyMncuMV/iyqmMfaSBR+oNw==;78I+ktKIC91FsP0LYpKeZQ=="
 ---

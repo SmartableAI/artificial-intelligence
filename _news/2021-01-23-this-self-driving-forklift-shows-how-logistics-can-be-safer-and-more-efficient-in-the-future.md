@@ -7,7 +7,7 @@ originalUrl: "https://www.yankodesign.com/2021/01/22/this-self-driving-forklift-
 webUrl: "https://www.yankodesign.com/2021/01/22/this-self-driving-forklift-shows-how-logistics-can-be-safer-and-more-efficient-in-the-future/"
 type: article
 quality: 13
-heat: -1
+heat: 13
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 510
     height: 314
     isCached: true
-
-related:
-  - title: "Toyota and Standford Just Built a Self-Driving Supra That Can Drift on Its Own"
-    excerpt: "As far-fetched as that may sound, researchers at Toyota Research Institute (TRI) and Stanford University’s Dynamic Design Lab have built a self-driving Supra that can do just that. Of course, the vehicle isn’t just an experiment in doing cool things—even though that’s just what this is—it’s part of a broader attempt to make the roads safer going forward."
-    publishedDateTime: 2021-01-21T19:31:00Z
-    webUrl: "https://robbreport.com/motors/cars/toyota-and-standford-just-built-a-self-driving-supra-that-can-drift-on-its-own-1234592655/"
-    ampWebUrl: "https://robbreport.com/motors/cars/toyota-and-standford-just-built-a-self-driving-supra-that-can-drift-on-its-own-1234592655/amp/"
-    cdnAmpWebUrl: "https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/motors/cars/toyota-and-standford-just-built-a-self-driving-supra-that-can-drift-on-its-own-1234592655/amp/"
-    type: article
-    provider:
-      name: Robb Report
-      domain: robbreport.com
-    quality: 40
-    images:
-      - url: "https://robbreport.com/wp-content/uploads/2021/01/supra01.jpg?w=1000"
-        width: 1000
-        height: 562
-        isCached: true
 
 secured: "4TvJCXRFEpysq4V47OfyMk4QbwwZFCyi/1N1uLsLggDNjwBqlCtrca/5/yOCBFOt2XYGc3W+/T3NyG1VNqqSYTeao0uop2+vQQFHEme3YwvtsSpXoRdPxuzaGCRcdLQsjIoRpb7/T2QIA7KzJp66UdBmpXktCif0m+qq3xaiHvbanoFT0StmD3r3lSB/SzhImT2dGzmA2QOa4XS5+kHeyEj9rO5NmwR4v1biHGZUOWujLB+ldk5TwcJVTKguyFps552QWfH6DT0MqyPfg3iQuhMEMB+mTx9znq2zIJDDfsGPPz3DUXvfE23TSihibsX5HLZOZfVEhpu1ejXelzvbqAV3zmupI0sptyV/XC32j7LccWx1TXrWv33J5ftEy67xHxt87GWsaxR2R8/+4ttCZOvk7vfv0SQ/x8EyLgw0FYeSI1HxBNZs6IycCkshn9AqN0ucKGzoC5KTTGKvuqbwsYN/Xe7wBQeLSTcvg1UTrJn976gszhDK+x6n/OqAFDOZ/5hzrOUq2Vvqfq/7hFyp8w==;pco5g1v6xG8Y8QChiq4iGw=="
 ---

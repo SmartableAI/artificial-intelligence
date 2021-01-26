@@ -56,20 +56,6 @@ related:
       name: Windows
       domain: compsmag.com
     quality: 39
-  - title: "Some are renewing a push for federal recognition of Native Hawaiians under Biden administration"
-    excerpt: "As President Biden took the oath of office at the U.S. Capitol back in Hawaii the State Capitol was surrounded by a sea of Hawaiian flags. For Kumu Hina Wong it’s a reminder that a changing of the guard does not change history."
-    publishedDateTime: 2021-01-21T16:58:00Z
-    webUrl: "https://kvia.com/regional-news/2021/01/21/some-are-renewing-a-push-for-federal-recognition-of-native-hawaiians-under-biden-administration/"
-    type: article
-    provider:
-      name: KVIA
-      domain: kvia.com
-    quality: 27
-    images:
-      - url: "https://kvia.com/wp-content/themes/storymate-npg/assets/images/weather-icons/9003_partly%20cloudy_day.png"
-        width: 280
-        height: 360
-        isCached: true
 
 secured: "IuX4AgN0NxXUInFLuHebfTHVZmCLe2NDj5XOpThFCYdj7hQ2lf5uLvEFyF16dzIz3EBs3MAGlGmNYTWW1yhcUV/t/sNoSF94NvHe3j8E0SPrUM6ug40zOdr1U7tieKukXFe8IIJ6CCQuhFP644kwmwva5ajQq0RMgXwY/CesY7OCphec03tjpQ76PU3bUvujBkv9YjVHtbBkc/mTfX6ZqPQnU0+GtvNh9KAXF0PyBnIxpZx5b4rEaTv+X1trA+SjUZsyrivPslrebsk58I4t8TQjXLcdhwFuNm9lZ+1Fwm4onjvdMoUsj8A4T6jIBfymqNXuqETfCnXFbQZDF56NcuBQPyH6yVMOke0TURe206RKv5v7zU2Z1vNSB2daP+2Deg/LPgen2wenK4UXCz3+gIngCuH78IrG6+jV7fFlEabsaTpTd81+sAjgJBGdg9wgWzpcVaw0sMVxoB3a5inHuePMbh2KdeH8BadYGoi+awBym5qc8A0+aqiknMjP7NBC7jvTPqacctvXr6GB4o5KiA==;8hig/HXt7EyQ8LUNsFtfGg=="
 ---

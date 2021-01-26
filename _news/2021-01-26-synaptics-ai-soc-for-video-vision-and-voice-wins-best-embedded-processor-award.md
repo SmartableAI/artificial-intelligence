@@ -6,8 +6,8 @@ publishedDateTime: 2021-01-26T06:02:00Z
 originalUrl: "https://apnews.com/article/technology-business-integrated-circuits-industrial-products-and-services-electronic-parts-manufacturing-81fd869ef19b4d6e3989c20961c4273d"
 webUrl: "https://apnews.com/article/technology-business-integrated-circuits-industrial-products-and-services-electronic-parts-manufacturing-81fd869ef19b4d6e3989c20961c4273d"
 type: article
-quality: 34
-heat: 34
+quality: 36
+heat: 36
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AI Hardware
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

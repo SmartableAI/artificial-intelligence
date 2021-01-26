@@ -9,7 +9,7 @@ ampWebUrl: "https://theprint.in/tech/seven-ways-ai-can-help-govts-transform-publ
 cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/tech/seven-ways-ai-can-help-govts-transform-public-services/590745/?amp"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Five ways artificial intelligence can help space exploration"
+    excerpt: "From designing missions to clearing Earth’s orbit of junk, here are a few ways artificial intelligence can help us venture further in space. Do you remember Tars and Case, the assistant robots from the film Interstellar?"
+    publishedDateTime: 2021-01-25T14:43:00Z
+    webUrl: "https://theconversation.com/five-ways-artificial-intelligence-can-help-space-exploration-153664"
+    ampWebUrl: "https://theconversation.com/amp/five-ways-artificial-intelligence-can-help-space-exploration-153664"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/five-ways-artificial-intelligence-can-help-space-exploration-153664"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 59
+    images:
+      - url: "https://images.theconversation.com/files/379734/original/file-20210120-15-ni8svg.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=320&fit=crop"
+        width: 320
+        height: 320
+        isCached: true
 
 secured: "81wcqmtmUl4ndwBp+yX5HzeovkxMra2qT6YZPbUq3w3l/Zk3c7Iki9Oh5bLtkdrN7l7dDprj7e+pn4/tJnbTpJHfDTJ3rA8h+77NgSqXIYH736LUNXsiOUA0uyt500LNxm0+J27u3aaW0eX1IVMzimPwI6xWhacQzKuW0CKKbu31eVGhwOWs8JxwC27mD6RhSpWGooN5vT5Dc92Ue1tSbZVIEV4HLM8PpLD5qP1ICWxCKG6KKRe/yZTcUc7TTwvXSvuGLcDtKMob+4DNhyjB+HeOlCALUjbFqZVq2eSuTWbagBtI5/v3+p3EpMT+gLT2eQf17mJb+4VTAFB7t1FrgpcMIQj3Ciu1ufdX5f1DGoTvdN1wjINQIhLH/VSrSGuQdQRuVkKWrUpW9bnJAqy0kfl+Iqv0cNiO7ysq6jyBAI2vVE540tAyV51TszL3+RxpaRM9Sez6wiL8F4TA3jpwz4SLZbInm784J+zvanpEL++lYaVml3llPTkwmiazrGiodXDTdrkFEcQghF9D8rzfqQ==;ZHOgNBSmHzKQ+uIdYkAH6w=="
 ---

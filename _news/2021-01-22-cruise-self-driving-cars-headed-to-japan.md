@@ -25,51 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Self-Driving Cars Being Blocked By Human Drivers Using Road Bouldering Tactics"
-    excerpt: "Human drivers use road bouldering to block other cars, and the question arises as to how self-driving cars will handle such machinations."
-    publishedDateTime: 2021-01-21T16:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/01/21/self-driving-cars-being-blocked-by-human-drivers-using-road-bouldering-tactics/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/01/21/self-driving-cars-being-blocked-by-human-drivers-using-road-bouldering-tactics/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/01/21/self-driving-cars-being-blocked-by-human-drivers-using-road-bouldering-tactics/amp/"
+  - title: "VinFast introduces self-driving car models"
+    excerpt: "Vietnamese automaker VinFast introduced Friday three new electric self-driving car models that will hit the market this year."
+    publishedDateTime: 2021-01-22T11:59:00Z
+    webUrl: "https://e.vnexpress.net/news/business/companies/vinfast-introduces-self-driving-car-models-4225027.html"
+    ampWebUrl: "https://ampe.vnexpress.net/news/business/companies/vinfast-introduces-self-driving-car-models-4225027.html"
+    cdnAmpWebUrl: "https://ampe-vnexpress-net.cdn.ampproject.org/c/s/ampe.vnexpress.net/news/business/companies/vinfast-introduces-self-driving-car-models-4225027.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 70
+      name: VN Express
+      domain: vnexpress.net
+    quality: 44
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6008b4ae194950933a679a95%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5200%26cropY1%3D264%26cropY2%3D3189"
-        width: 1200
-        height: 675
+      - url: "https://i-english.vnecdn.net/2021/01/22/VF33frontview-1611298937-6527-1611301727_680x0.jpg"
+        width: 680
+        height: 408
         isCached: true
-  - title: "Toyota and Stanford Just Built a Self-Driving Supra That Can Drift on Its Own"
-    excerpt: "As far-fetched as that may sound, researchers at Toyota Research Institute (TRI) and Stanford University’s Dynamic Design Lab have built a self-driving Supra that can do just that. Of course, the vehicle isn’t just an experiment in doing cool things—even though that’s just what this is—it’s part of a broader attempt to make the roads safer going forward."
-    publishedDateTime: 2021-01-21T21:10:00Z
-    webUrl: "https://robbreport.com/motors/cars/toyota-stanford-self-driving-supra-drift-1234592655/"
-    ampWebUrl: "https://robbreport.com/motors/cars/toyota-stanford-self-driving-supra-drift-1234592655/amp/"
-    cdnAmpWebUrl: "https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/motors/cars/toyota-stanford-self-driving-supra-drift-1234592655/amp/"
+  - title: "VinFast Launches 3 Brand New Electric Autopilot Models And Affirms Vision To Be The Global Smart Electric Vehicles Company"
+    excerpt: "VinFast’s strategic vision to become a global high-tech automobile brand; Three new Smart EV models: VF31, VF32, VF33; In particular, VF32 and VF33 will recieve orders in US and Canadian and European market in November 2021;"
+    publishedDateTime: 2021-01-22T13:22:00Z
+    webUrl: "https://apnews.com/press-release/news-direct-corporation/business-technology-driverless-cars-transportation-technology-asia-ce718a82dddcdd75d8a69dfd7a1e5682"
     type: article
     provider:
-      name: Robb Report
-      domain: robbreport.com
-    quality: 41
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
     images:
-      - url: "https://robbreport.com/wp-content/uploads/2021/01/supra01.jpg?w=1000"
-        width: 1000
-        height: 562
-        isCached: true
-  - title: "The real self-driving revolution remains years away"
-    excerpt: "This year, new technologies will enable more drivers to take their hands off the wheel while on the road. But that doesn't mean their cars will be fully self-driving --"
-    publishedDateTime: 2021-01-21T16:33:00Z
-    webUrl: "https://www.kctv5.com/the-real-self-driving-revolution-remains-years-away/article_55d3729a-48eb-5c1e-9a5f-30fbde3d7b48.html"
-    type: article
-    provider:
-      name: KCTV News
-      domain: kctv5.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/kctv5.com/content/tncms/custom/image/022e6960-5753-11eb-8d89-07ba8c1a1370.jpg"
-        width: 820
-        height: 462
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "FIiJ2l+fAOw2SMZM6XpmZYE2MXy8Bgst3A9Ru6XyrUHu3/bA4aM+X0GjtOTwV1Y6XkAOywkrbAuVc8MX9FlvMgVP0rzSbqb0qm7LKO1anBifxJ23L7iLhRhEFTytzCNILppSa4qe6oAZHAZPqGHNmnAFpc9bohtDmMdiGbl0zWc4ptvCHeeu7U/nv1P6I65ddRE+ylAw3AmCoFpWWYQHiRyrxCoeTYIfDwVOOaT9AYEowzKOsqeflksxI797qJWNRAIgRd3JEBU0Kb7ctSZ+fZDWVxnaZF9+biiBup1BgEK4mybvhDql5l2qQNdpAS3oNVHjssVKjC9Yju5Y+y3ehF0Dmjr0pWDGIqh4kkhneFu/giJudmNn9Y3GrPRV/lJ6nGQmHrGS6Hl0TUvaHNxsDYgQJvVT4DoDWej4W36rfOVhl2O7ETWbFO++HnhxWE7vM2844IQnAoi27yOsS+qR7KZJARFkI8HpKdQ11pSyng3mkR4VrcC2bHiLZ/g1p9Nvmbx8GK4UN10+evwIf7vWYg==;IadiJU2MIGcVSGUpR2Q43w=="

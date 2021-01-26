@@ -35,6 +35,17 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Capitol riot boosts facial recognition app"
+    excerpt: "A facial recognition app saw a large increase in use the day after rioters stormed the U.S. Capitol building in Washington, D.C. Source by: Stringr"
+    publishedDateTime: 2021-01-25T22:15:00Z
+    webUrl: "https://omaha.com/news/national/capitol-riot-boosts-facial-recognition-app/video_9ca5b88f-7e20-5e03-ab79-fa237383edb0.html"
+    ampWebUrl: "https://omaha.com/news/national/capitol-riot-boosts-facial-recognition-app/video_9ca5b88f-7e20-5e03-ab79-fa237383edb0.amp.html"
+    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/national/capitol-riot-boosts-facial-recognition-app/video_9ca5b88f-7e20-5e03-ab79-fa237383edb0.amp.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 39
 
 secured: "Z4o5F4+pFW+SILWQuiVXSOvLFZp26K8RNMQ4SOzJtN7qXtOBFaaKcpoEBY3od5X0sUXFIZqwlSCZLMR3ZrztVmF0BP/1P5x8VrhdtyHn6M3SnCMgOYmU1xu7Z4SkkRRXPo8YDbib5SVM0stXtrG5L3tdOO01UC8scuigSgTLnxWk6SMYLEBnTl4/2ua1UKSK21DiYzDQpq0eJvKkEYsbwl8Z84x5lpCmJ4A3h3qAOrL4ad3uV9x0Gn4Ybrn8z7x1e2Z2sE9W3oeZhDMZvKb+HJTdOn1wPV2lRmWattbOiacAfsvnrS+ArqLuL0p+ADP3Ql10sqMBpoLrM6zw7hK/HNQJeaiNKEi0X927NPmXk/0=;etqe8k6Hidc6Va6rbvtiBw=="
 ---

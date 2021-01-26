@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-25-musk-says-tesla-beats-waymo-at-self-driving-tech-after-krafcik-criticises-it.md",
+      "title": "Musk says Tesla beats Waymo at self-driving tech after Krafcik criticises it",
+      "excerpt": "Elon Musk has responded to criticsm of Tesla's 'self-driving' systems by Waymo CEO John Krafcik, saying his tech is better.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxbusiness.com/lifestyle/musk-says-tesla-waymo-self-driving-tech-krafcik",
+      "originalUrl": "https://www.foxbusiness.com/lifestyle/musk-says-tesla-waymo-self-driving-tech-krafcik",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.foxbusiness.com/BrightCove/854081161001/201904/3793/854081161001_6023044704001_6023051501001-vs.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxbusiness.com/lifestyle/musk-says-tesla-waymo-self-driving-tech-krafcik.amp",
+      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/lifestyle/musk-says-tesla-waymo-self-driving-tech-krafcik.amp",
+      "publishedDateTime": "2021-01-25T07:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox Business",
+        "domain": "foxbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-25-tesla-partners-with-samsung-on-new-5nm-chip-for-full-self-driving-report-says.md",
       "title": "Tesla partners with Samsung on new 5nm chip for full self-driving, report says",
       "excerpt": "Tesla has reportedly partnered with Samsung on a new 5nm chip for full self-driving, according to a new report coming from Korea. Tesla moves to design its own chips Back in 2016, Tesla started building a team of chip architects led by legendary chip designer Jim Keller to develop its own silicon.",
@@ -1457,49 +1500,6 @@
       "provider": {
         "name": "China Daily",
         "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-chinas-baidu-to-team-up-with-geely-on-evs.md",
-      "title": "China's Baidu to team up with Geely on EVs",
-      "excerpt": "The new company will make and sell electric cars. Baidu will provide the technology for self-driving, while Geely will likely handle production. Baidu has not provided further details, such as ...",
-      "sourceUrl": null,
-      "webUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20210112_09/",
-      "originalUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20210112_09/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20210112_09_929166_L.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20210112_09/amp.html",
-      "cdnAmpWebUrl": "https://www3-nhk-or-jp.cdn.ampproject.org/c/s/www3.nhk.or.jp/nhkworld/en/news/20210112_09/amp.html",
-      "publishedDateTime": "2021-01-11T16:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NHK",
-        "domain": "nhk.or.jp",
         "images": null,
         "publishers": null,
         "authors": null

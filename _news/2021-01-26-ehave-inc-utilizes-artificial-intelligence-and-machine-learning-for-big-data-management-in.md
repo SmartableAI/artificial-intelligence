@@ -6,7 +6,7 @@ publishedDateTime: 2021-01-26T06:02:00Z
 originalUrl: "https://apnews.com/article/technology-government-regulations-medical-technology-lung-disease-coronavirus-pandemic-23b526e4b4ead9ea7e999196b97d23a3"
 webUrl: "https://apnews.com/article/technology-government-regulations-medical-technology-lung-disease-coronavirus-pandemic-23b526e4b4ead9ea7e999196b97d23a3"
 type: article
-quality: 41
+quality: 43
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI in Healthcare
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

@@ -3,8 +3,8 @@ category: news
 title: "Chinese self-driving startup nets $154m in investment from state-backed fund"
 excerpt: "With the new funds, Uisee will further develop its autonomous driving technology and accelerate its monetization."
 publishedDateTime: 2021-01-25T11:30:00Z
-originalUrl: "https://www.techinasia.com/chinese-selfdriving-startup-uisee-nets-154m-investment-statebacked-fund?ref=recommender-671252"
-webUrl: "https://www.techinasia.com/chinese-selfdriving-startup-uisee-nets-154m-investment-statebacked-fund?ref=recommender-671252"
+originalUrl: "https://www.techinasia.com/chinese-selfdriving-startup-uisee-nets-154m-investment-statebacked-fund?ref=recommender-671380"
+webUrl: "https://www.techinasia.com/chinese-selfdriving-startup-uisee-nets-154m-investment-statebacked-fund?ref=recommender-671380"
 type: article
 quality: 31
 heat: 31
@@ -22,6 +22,6 @@ topics:
   - AI in Autos
   - AI
 
-secured: "gB9XQYTaxKDhF6RQ7yLZ9gyDf47NhZtbdwONZq7bYB5Doyl5IDP8fCHNq+woqoFLHB83+jXer3P/fAvZBD8Oa1f09xVoUQ0bv8AFqFCr5DC7nM7js11SiRnQrTI0A9bOKw3k1T+1vJ8qBqscrjDC2FAa9/D9t0tBgxhhpwWWCBICnRTZK9c5G+sBmam77LwAkVRoMg1m0BMJWzi3gdtyuA0Qia3PdOzYDIW4beQTJKqGNbcyg1whGJxVkNiqoyB4SyPLoYj1bgn9IWUTGg0e/IfT6yU7vrWU0t+sMfJfUl7A129VEY4o/Cxo9GUfXJwDjs24Q7sdVpMKte1So1so42fc3uj/OV0LChRo23+X92Kh3DFBYJf58b34M87FHaycrXuqsBSnyV2evbDZAf6Yo84/AfKJzugZBA4Do3NOIFbjdgtcWZX9TMGBkWDpz6CVslDvEkg3q8jBPCyI3Y4PH3nT6phWlDEImgzS33bMU8HWq7dhd60iafOMgoxIxQcizMHO9AnRYsR8ZugFcVFHqA==;5i2Ri5+XQOt75pJ6NAz4cQ=="
+secured: "V4IiUEgtnWPU7Q2LkUvf/izQtGd9YwRM0YRmNXQyNT7ihNDFcwqCfs4/WgnURQ+lO8oLXAtxbmd+Ui9YNOqiKGKmFvQNqZwFFV3z7Iz+ecNP5apXZa9w84nVmYcNE01KG1vNm3Af3QMB6/MEhpWRZz66t77n1RoUWFQQhrpDKq/pOco9zG6KuibgwJL2ILkyY7sE+DUF7+uySyDtEPm5FvhzmOaoFS9k9A3jgepjc8VMHhOxBLeZkcrkp7hXeANg+5lHcWaPVeuT1qb8raNDJGWdzxGDBoXqbkZJdBCrHJvtWpI3+80+5hMYSGOy0sfl7Ffw1aW3vVP1jheOZhN/JYAWHn5lBi4YEkMf4GnyNF2IlSXXanVlQm0raKWLlvOUZxbAOGOr5vz0N14C8t0/xa85clBimIdWtobVGasCELZRXsIrDHvvo0QxfM+ljhtjDV+D1EhfRxVlrnbwuVsL4oKt51muqZLTEz4LUVCafgokM98k2GRf6D/JkhbW/tSBjOGcBgos6+b2jtmRpEx8pA==;JbLhVAHZcTx8jGWQtFegnA=="
 ---
 

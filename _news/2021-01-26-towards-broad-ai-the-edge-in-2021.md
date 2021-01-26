@@ -28,17 +28,6 @@ images:
     height: 500
     isCached: true
 
-related:
-  - title: "Edge AI Vision Product of the Year expands awards"
-    excerpt: "The Edge AI and Vision Product of the Year Awards celebrate the innovation and achievement of companies that are enabling and developing products incorporating edge AI and computer vision technologies."
-    publishedDateTime: 2021-01-21T15:09:00Z
-    webUrl: "https://www.controldesign.com/industrynews/2021/edge-ai-vision-product-of-the-year-expands-awards/"
-    type: article
-    provider:
-      name: Control Design
-      domain: controldesign.com
-    quality: 19
-
 secured: "0wc9Y2ZDceF6UcTbF+ZsAQoWc8vUJTVmonug64pfDEJop9q5YTCeGX8rqJYKluMkbv3xeUXB7Yz5rc4z+F6HXMboWJZWwUw9bhfUha4neIP7GGwUyRZsldBSZ0RpRQBmCQdENrMmopg+dMpO4hMtpxn0zV4ppCL0siwXVMbjsKAbQucdWf3QInWdhf1SbbysRLHUFbFhAebU+gND3WZ116JOC+urpV0SHJ645GCwYG8Q/OGtO9gz6UlWoXjKB37RiCGtIE8afDhBFiyfCz15wUuj+hq+u4LA/Autvh5GNBKvcQENpX+iP7B6iaEEDTjP811PzPk6cTuDsK8T+hXhR6SPcWGh0cCez3O3eAmfDHgz4BV2sISxE/CFP/qrcQYeC9FYizjeI2KR52yqvI2laKhIQi157lWpjOfwKIlwNS6OJxDcrJp3bxdVEWeUr7tn2E9zcgysp+OaLGw96lTlgARa/+Wn6K7Dj6ep8WLzflc9PetIB9MYFuz/+cMl6f0yw7cg3kjUnMW2vc8TV9Gdtg==;On0oLlF+zOFGrVlkgLzOkg=="
 ---
 

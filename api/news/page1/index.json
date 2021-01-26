@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-01-26-south-korea-has-used-ai-to-bring-a-dead-superstars-voice-back-to-the-stage-but-ethical-concerns-abound.md",
-      "title": "South Korea has used AI to bring a dead superstar's voice back to the stage, but ethical concerns abound",
-      "excerpt": "For the first time in 25 years, the distinctive vocals of South Korean superstar Kim Kwang-seok will be heard on national television singing new material.",
+      "path": "_news/2021-01-26-kili-technology-unveils-data-annotation-platform-to-improve-ai-raises-7-million.md",
+      "title": "Kili Technology unveils data annotation platform to improve AI, raises $7 million",
+      "excerpt": "Kili Technology raised $7 million for its service that allows enterprises to annotate raw data to improve data sets for AI.",
       "sourceUrl": null,
-      "webUrl": "https://www.kmov.com/south-korea-has-used-ai-to-bring-a-dead-superstars-voice-back-to-the-stage/article_f9df111e-b879-5c9e-80c9-aec19cbedc28.html?block_id=985917",
-      "originalUrl": "https://www.kmov.com/south-korea-has-used-ai-to-bring-a-dead-superstars-voice-back-to-the-stage/article_f9df111e-b879-5c9e-80c9-aec19cbedc28.html?block_id=985917",
+      "webUrl": "https://venturebeat.com/2021/01/26/kili-technology-unveils-data-annotation-platform-to-improve-ai-raises-7-million/",
+      "originalUrl": "https://venturebeat.com/2021/01/26/kili-technology-unveils-data-annotation-platform-to-improve-ai-raises-7-million/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 92,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/kmov.com/content/tncms/assets/v3/editorial/3/11/3115ece7-f6d5-54d4-b780-a1540b9d3563/600f85b6def34.image.jpg?resize=1024%2C576",
-          "width": 1024,
-          "height": 576,
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/Kili-image_classif_poly-e1611606041327.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.kmov.com/south-korea-has-used-ai-to-bring-a-dead-superstars-voice-back-to-the-stage/article_f9df111e-b879-5c9e-80c9-aec19cbedc28.amp.html",
-      "cdnAmpWebUrl": "https://www-kmov-com.cdn.ampproject.org/c/s/www.kmov.com/south-korea-has-used-ai-to-bring-a-dead-superstars-voice-back-to-the-stage/article_f9df111e-b879-5c9e-80c9-aec19cbedc28.amp.html",
-      "publishedDateTime": "2021-01-25T19:22:00-08:00",
+      "ampWebUrl": "https://venturebeat.com/2021/01/26/kili-technology-unveils-data-annotation-platform-to-improve-ai-raises-7-million/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/26/kili-technology-unveils-data-annotation-platform-to-improve-ai-raises-7-million/amp/",
+      "publishedDateTime": "2021-01-26T00:23:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "KMOV",
-        "domain": "kmov.com",
-        "images": null,
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -40,7 +49,6 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
         "AI"
       ]
     },
@@ -94,6 +102,58 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-south-korea-has-used-ai-to-bring-a-dead-superstars-voice-back-to-the-stage-but-ethical-concerns-abound.md",
+      "title": "South Korea has used AI to bring a dead superstar's voice back to the stage, but ethical concerns abound",
+      "excerpt": "Recent AI performances have excited fans of their music and the technology, but others have raised concerns about the ethics and legalities of resurrecting the voices of the dead.",
+      "sourceUrl": null,
+      "webUrl": "https://edition.cnn.com/2021/01/25/asia/south-korea-kim-kwang-seok-ai-dst-hnk-intl/index.html",
+      "originalUrl": "https://edition.cnn.com/2021/01/25/asia/south-korea-kim-kwang-seok-ai-dst-hnk-intl/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210122002517-03-ai-singing-show-south-korea-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/25/asia/south-korea-kim-kwang-seok-ai-dst-hnk-intl/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/asia/south-korea-kim-kwang-seok-ai-dst-hnk-intl/index.html",
+      "publishedDateTime": "2021-01-25T18:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -152,8 +212,8 @@
       "title": "Governance: Companies mature in their use of AI know that it needs guardrails",
       "excerpt": "Quality governance ensures responsible data models and AI execution, as well as helps the data models stay true to the business objectives.",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/governance-companies-mature-in-their-use-of-ai-know-that-it-needs-guardrails/",
-      "originalUrl": "https://www.techrepublic.com/article/governance-companies-mature-in-their-use-of-ai-know-that-it-needs-guardrails/",
+      "webUrl": "https://www.techrepublic.com/index.php/category/10250/4/index.php/article/governance-companies-mature-in-their-use-of-ai-know-that-it-needs-guardrails/",
+      "originalUrl": "https://www.techrepublic.com/index.php/category/10250/4/index.php/article/governance-companies-mature-in-their-use-of-ai-know-that-it-needs-guardrails/",
       "featuredContent": null,
       "highlight": null,
       "heat": 84,
@@ -170,8 +230,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/governance-companies-mature-in-their-use-of-ai-know-that-it-needs-guardrails/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/governance-companies-mature-in-their-use-of-ai-know-that-it-needs-guardrails/",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/category/10250/4/index.php/google-amp/article/governance-companies-mature-in-their-use-of-ai-know-that-it-needs-guardrails/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/10250/4/index.php/google-amp/article/governance-companies-mature-in-their-use-of-ai-know-that-it-needs-guardrails/",
       "publishedDateTime": "2021-01-25T13:36:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -295,58 +355,15 @@
       ]
     },
     {
-      "path": "_news/2021-01-26-nvidia-views-kubernetes-as-key-to-gpu-accelerated-ai-scale.md",
-      "title": "Nvidia Views Kubernetes as Key to GPU Accelerated AI Scale",
-      "excerpt": "When you think about Kubernetes, clusters of CPU and memory resources all scaling to meet the demands of container workloads probably springs to mind. But where does GPU acceleration fit […]",
-      "sourceUrl": null,
-      "webUrl": "https://ctovision.com/nvidia-views-kubernetes-as-key-to-gpu-accelerated-ai-scale/",
-      "originalUrl": "https://ctovision.com/nvidia-views-kubernetes-as-key-to-gpu-accelerated-ai-scale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ctovision.com/wp-content/uploads/space.jpg",
-          "width": 632,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-25T12:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ctovision.com",
-        "domain": "ctovision.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-26-gartner-the-future-of-ai-is-not-as-rosy-as-some-might-think.md",
       "title": "Gartner: The future of AI is not as rosy as some might think",
       "excerpt": "A Gartner report predicts that the second-order consequences of widespread AI will have massive societal impacts, to the point of making us unsure if and when we can trust our own eyes.",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/gartner-the-future-of-ai-is-not-as-rosy-as-some-might-think/",
-      "originalUrl": "https://www.techrepublic.com/article/gartner-the-future-of-ai-is-not-as-rosy-as-some-might-think/",
+      "webUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/gartner-the-future-of-ai-is-not-as-rosy-as-some-might-think/",
+      "originalUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/gartner-the-future-of-ai-is-not-as-rosy-as-some-might-think/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -360,8 +377,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/gartner-the-future-of-ai-is-not-as-rosy-as-some-might-think/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/gartner-the-future-of-ai-is-not-as-rosy-as-some-might-think/",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/gartner-the-future-of-ai-is-not-as-rosy-as-some-might-think/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/gartner-the-future-of-ai-is-not-as-rosy-as-some-might-think/",
       "publishedDateTime": "2021-01-25T12:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -385,7 +402,6 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
         "AI"
       ]
     },
@@ -863,8 +879,8 @@
       "title": "Python remains most popular programming language to learn",
       "excerpt": "Though Python may be tops, interest is also growing in other languages, including JavaScript, C, and C++, says O'Reilly.",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/article/python-remains-most-popular-programming-language-to-learn/",
-      "originalUrl": "https://www.techrepublic.com/index.php/article/python-remains-most-popular-programming-language-to-learn/",
+      "webUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/python-remains-most-popular-programming-language-to-learn/",
+      "originalUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/python-remains-most-popular-programming-language-to-learn/",
       "featuredContent": null,
       "highlight": null,
       "heat": 99,
@@ -881,8 +897,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/google-amp/article/python-remains-most-popular-programming-language-to-learn/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/python-remains-most-popular-programming-language-to-learn/",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/python-remains-most-popular-programming-language-to-learn/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/python-remains-most-popular-programming-language-to-learn/",
       "publishedDateTime": "2021-01-25T07:56:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -906,7 +922,50 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-25-musk-says-tesla-beats-waymo-at-self-driving-tech-after-krafcik-criticises-it.md",
+      "title": "Musk says Tesla beats Waymo at self-driving tech after Krafcik criticises it",
+      "excerpt": "Elon Musk has responded to criticsm of Tesla's 'self-driving' systems by Waymo CEO John Krafcik, saying his tech is better.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxbusiness.com/lifestyle/musk-says-tesla-waymo-self-driving-tech-krafcik",
+      "originalUrl": "https://www.foxbusiness.com/lifestyle/musk-says-tesla-waymo-self-driving-tech-krafcik",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.foxbusiness.com/BrightCove/854081161001/201904/3793/854081161001_6023044704001_6023051501001-vs.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxbusiness.com/lifestyle/musk-says-tesla-waymo-self-driving-tech-krafcik.amp",
+      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/lifestyle/musk-says-tesla-waymo-self-driving-tech-krafcik.amp",
+      "publishedDateTime": "2021-01-25T07:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox Business",
+        "domain": "foxbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1210,58 +1269,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-hyundai-dal-e-ai-powered-robot-provides-automated-customer-service.md",
-      "title": "Hyundai DAL-e AI-powered robot provides automated customer service",
-      "excerpt": "Automaker Hyundai has a new employee working in one of its showrooms in Seoul, Korea. The employee is an AI-powered automated robot called DAL-e that provides customer services at the showroom.",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/hyundai-dal-e-ai-powered-robot-provides-automated-customer-service-25656524/",
-      "originalUrl": "https://www.slashgear.com/hyundai-dal-e-ai-powered-robot-provides-automated-customer-service-25656524/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/01/kia-robot-1.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/hyundai-dal-e-ai-powered-robot-provides-automated-customer-service-25656524/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/hyundai-dal-e-ai-powered-robot-provides-automated-customer-service-25656524/amp/",
-      "publishedDateTime": "2021-01-25T05:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -1,29 +1,33 @@
 ---
 category: news
 title: "South Korea has used AI to bring a dead superstar's voice back to the stage, but ethical concerns abound"
-excerpt: "For the first time in 25 years, the distinctive vocals of South Korean superstar Kim Kwang-seok will be heard on national television singing new material."
-publishedDateTime: 2021-01-26T03:22:00Z
-originalUrl: "https://www.kmov.com/south-korea-has-used-ai-to-bring-a-dead-superstars-voice-back-to-the-stage/article_f9df111e-b879-5c9e-80c9-aec19cbedc28.html?block_id=985917"
-webUrl: "https://www.kmov.com/south-korea-has-used-ai-to-bring-a-dead-superstars-voice-back-to-the-stage/article_f9df111e-b879-5c9e-80c9-aec19cbedc28.html?block_id=985917"
-ampWebUrl: "https://www.kmov.com/south-korea-has-used-ai-to-bring-a-dead-superstars-voice-back-to-the-stage/article_f9df111e-b879-5c9e-80c9-aec19cbedc28.amp.html"
-cdnAmpWebUrl: "https://www-kmov-com.cdn.ampproject.org/c/s/www.kmov.com/south-korea-has-used-ai-to-bring-a-dead-superstars-voice-back-to-the-stage/article_f9df111e-b879-5c9e-80c9-aec19cbedc28.amp.html"
+excerpt: "Recent AI performances have excited fans of their music and the technology, but others have raised concerns about the ethics and legalities of resurrecting the voices of the dead."
+publishedDateTime: 2021-01-26T02:34:00Z
+originalUrl: "https://edition.cnn.com/2021/01/25/asia/south-korea-kim-kwang-seok-ai-dst-hnk-intl/index.html"
+webUrl: "https://edition.cnn.com/2021/01/25/asia/south-korea-kim-kwang-seok-ai-dst-hnk-intl/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/asia/south-korea-kim-kwang-seok-ai-dst-hnk-intl/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/asia/south-korea-kim-kwang-seok-ai-dst-hnk-intl/index.html"
 type: article
-quality: 57
-heat: 77
+quality: 87
+heat: 107
 published: true
 
 provider:
-  name: KMOV
-  domain: kmov.com
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI Ethics
   - AI
+  - AI Ethics
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/kmov.com/content/tncms/assets/v3/editorial/3/11/3115ece7-f6d5-54d4-b780-a1540b9d3563/600f85b6def34.image.jpg?resize=1024%2C576"
-    width: 1024
-    height: 576
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210122002517-03-ai-singing-show-south-korea-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -56,6 +60,6 @@ related:
         height: 509
         isCached: true
 
-secured: "DBDd8z+iKDLBvreXZSaIoJZq34QnhIiRmILZsfFRWADCTccNbmMfOwvLGT+9UNL75G/eE7rYMTG1lHX0oCeLBLcn9PFA3Rx9o/s1gTfTYH/khjXVk4O6ux06aAj3Ve06zL1uSZModBW0+KmOKiB7JSBX6XgG1fUvna6YFhATj3SZrRGXcidGsavjJriNBytaR6QRVwZLIR4JmvD2lDXzN1kriLLqQeWj+M4vGiXgIitPCxlJKXbqnNMilcrV5H/ou/t8ESkE4xej/Ov/zO8cGYZJsG8wbAc0srxmRgq+VhOgqY68X0Y2wSlXzAdFSO/djOk7k7eKTfsATRn2HJFPeLRoGpeg4DOlDzuc1xEa+1g=;zCS7P12cV29muzJ6Ek0a0g=="
+secured: "/pqP/gllCMfLgemIgEPIxP5MFcmUAKV1H4THCZgFR0lRXPmi2l0Hrl9cwc5mmY1if4IwX1SQdX5cac6NHl67s/DNZ6Ovafj6Pe6DijZhcesS8Bjw0M9SfQLeOm0No+mnScMeKRFRAuuqvptT6TWzJEWRWnc92hc8qjEz9WAjGyI5eh6UaM74alAnnvOaxTagCmVyfRl7w4S5j0Xkg80x02uXl+SOgU2FTDskft+DUNciZXjxIPgD4y6HA+F6QL04NuQu33RQLcA4Gn3AluW54ROLZh+caYFz9s9/f+vOuvXY/pGhQWahd8mkhn18mbunVeAmb1fvcjZOhUKuihcMpPpjx53Yz4qltisydJHcewQ=;410pLdwdVmda9ifx9BsXRg=="
 ---
 
