@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/hyundai-dal-e-ai-powered-robot-provides-au
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/hyundai-dal-e-ai-powered-robot-provides-automated-customer-service-25656524/amp/"
 type: article
 quality: 104
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -125,6 +125,17 @@ related:
         width: 728
         height: 300
         isCached: true
+  - title: "Wake Up Humans, The Robots Are Coming: Meet Hyundai’s DAL-e AI Customer Service Robot"
+    excerpt: "Hyundai Motor Group has just launched a humanoid customer service robot called “DAL-e”. It’s a highly advanced machine designed to communicates with people using precise recognition capabilities and mobility function."
+    publishedDateTime: 2021-01-26T01:45:00Z
+    webUrl: "https://www.carscoops.com/2021/01/wake-up-humans-the-robots-are-coming-meet-hyundais-dal-e-ai-customer-service-robot/"
+    ampWebUrl: "https://www.carscoops.com/2021/01/wake-up-humans-the-robots-are-coming-meet-hyundais-dal-e-ai-customer-service-robot/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/01/wake-up-humans-the-robots-are-coming-meet-hyundais-dal-e-ai-customer-service-robot/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 47
 
 secured: "vMEWyQlFSqYeFyUhzQ0CDzKtCPq/z/51FKMvqym2YMz2Y3NWLMKdTItZtbnbbpfP40YkZ9af2M+7gchCxo//xPkKZxu6DGPs0McRKXjY1I6s4jeuMgRnlBF7gMOK+Glk+pkk1DdCwQf3hyzdAnghaY/+WYFfCn6idphh8hE0RdfASAOzdPXWc6SSams4co4h67JlPFdOySdzbJSeD3FgtXuelBpT9VK+XIqzZWNWNbFeIv8rAm/5exgvP+IcPg6O2dOdQN7iPMv8AcowNSJtyp73D2GcWCu2tD4tyqnG6dNh/h6jog8oil9HsKklBZmiLvYHzITKXzqRxjfR4xQTOSyWXB4VoH3zPloKtlNAP1w=;+30Zdl5EgwNnD81ow3q1ZA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.lelezard.com/en/news-19612339.html"
 webUrl: "https://www.lelezard.com/en/news-19612339.html"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 640
     height: 480
     isCached: true
-
-related:
-  - title: "Nottingham fintech firm makes second acquisition of 2021"
-    excerpt: "This is our second acquisition of 2021, accelerating our strategy of becoming the leading global provider of financial services software.” Fraser Hamilton, CEO of HubSolv, said: “The acquisition provides a great opportunity for HubSolv to accelerate product innovation and growth."
-    publishedDateTime: 2021-01-21T09:28:00Z
-    webUrl: "https://www.thebusinessdesk.com/eastmidlands/news/2044797-nottingham-fintech-firm-makes-second-acquisition-of-2021"
-    type: article
-    provider:
-      name: The UK
-      domain: thebusinessdesk.com
-    quality: 24
-    images:
-      - url: "https://www.thebusinessdesk.com/_files/images/jan_21/ColinBrown_CEO_Aryza.jpg"
-        width: 898
-        height: 813
-        isCached: true
 
 secured: "nGvTo/s9AftUDfQFooBgCMu4lrkFUdrZ2iGKS9EgXXoPW3cEVjYo9jsT+6hzIjCJBdKIgMWNODJsHWBqVuwWe6dABSjVeE5tueS7hUzW0c0mcxuxujhgtrKfi0Gu4JBhHZBQSC6DT+cRMHM1opixVA/YappVY4zwIfG7/aa6F5KzbcAPSRIztDcJURmTpIJ9BIKKZMLUI8gC5qOoNDXkGJnjSBr5JhEnhwjksW4XkJhuQhR5oqzBZ5D48MA0rgTLOnhBBjQ0aQR7YUXvl9Z4ZrTQIzD6VZP6A8O5p2Nk6LK+1K8tNftzhthAURd0jluSWoRHTbuLnPVKq26CH8kLaIn6B/9XDNRdo+WhENXy1Ug=;oqRBdPfFVN15PuM3e3xmGw=="
 ---

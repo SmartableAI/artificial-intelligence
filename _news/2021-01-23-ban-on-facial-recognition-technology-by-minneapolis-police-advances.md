@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.wdio.com/articles/ban-facial-recognition-minneapolis--59
 cdnAmpWebUrl: "https://amp-wdio-com.cdn.ampproject.org/c/s/amp.wdio.com/articles/ban-facial-recognition-minneapolis--5986531.html"
 type: article
 quality: 59
-heat: 189
+heat: 179
 published: true
 
 provider:
@@ -182,20 +182,6 @@ related:
       name: Windows
       domain: compsmag.com
     quality: 23
-  - title: "Police authorities conclude facial and license plate recognition video surveillance tests"
-    excerpt: "The Unitary Police Service (SPU) announced today (Thursday) that they has completed with \"satisfactory results\" the first two rounds of testi"
-    publishedDateTime: 2021-01-21T10:32:00Z
-    webUrl: "https://www.macaubusiness.com/police-authorities-conclude-facial-and-license-plate-recognition-video-surveillance-tests/"
-    type: article
-    provider:
-      name: Macau Business
-      domain: macaubusiness.com
-    quality: 15
-    images:
-      - url: "https://macaubusiness.b-cdn.net/wp-content/uploads/2021/01/eyes-in-the-sky.jpeg"
-        width: 1000
-        height: 775
-        isCached: true
 
 secured: "206qQQckj1aAZSx48HMHlI2hlKreeQhYHWrtEXUcrWwml0N6hS9HSaoJGBa6ANS6B4Sto16F+H4jdrj384x6J/YcylDPigX3SpjxlQ9xDL+O1ejPWHHCaF0rBpfuUeGFWTUKi3hX841XQtnjPhDKDFWcHUCwNL4aAYEnXaRbo/B0QaFmDIzBuWqvVtGKaxw2zADLBep77IbDjtFBlzcUCwCB08TUYySdI7fRZ89YEJCInAMOCQLJNloCt/PdYj0UHiFiYbfSMlofdQ/Y46DNtDmYI8cHzwFmFI0D/rCCmDD2mpZisAqIZyLRRCXYQZImNK28TEUk50+NZuNLxBNY9o1IWv0kA/qKCjSkLryqawe+hzvDnrZ72HbO4JvF+7viCcCSpvUSn+0iSgYiS/rVCyFLExpuxhpJ6eoix0dMth7qiXYsQDJsXeM3+5c3RUuHot00B31tTN/uaoKd1vTF8WwUBIIn3H1l4eHrmtkYjJ6oLatluvrH1dVNwRJUHcegmpDXPJK7qCmBVkDpe6NGTw==;UyyfrqDzjH06rkpH0zYTrQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2021/01/25/elon-musk-respon
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2021/01/25/elon-musk-responds-to-waymo-ceo-tesla-has-better-ai-hardware--software-than-waymo/amp/"
 type: article
 quality: 112
-heat: 192
+heat: 202
 published: true
 
 provider:
@@ -147,6 +147,17 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 54
+  - title: "Musk says Tesla beats Waymo in self-driving technology after Krafcik criticizes it"
+    excerpt: "Musk says Tesla beats Waymo in self-driving technology after Krafcik criticizes it FBN's Liz Claman interviews Waymo CEO John Krafcik"
+    publishedDateTime: 2021-01-26T02:12:00Z
+    webUrl: "https://www.compsmag.com/news/technology/musk-says-tesla-beats-waymo-in-self-driving-technology-after-krafcik-criticizes-it/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/musk-says-tesla-beats-waymo-in-self-driving-technology-after-krafcik-criticizes-it/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/musk-says-tesla-beats-waymo-in-self-driving-technology-after-krafcik-criticizes-it/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 48
 
 secured: "9mVhpcIDwtKKS5ftDgRXM1B7Lzwg8AJeChV+iEDqZLr5ysPGW8OMkKnPBwGhep4uNgXQGPc874UbU2R+c4nq0JMzQmdGkSahcvSK5H3NT/8holAobxnM37KRJ/0menfvaia5evGz8gHMvqAEwcz7fKNkunrQPjUgDNZU8PACGV0k8t4j0sdztAW5dZcZ0ZjDvDG+PaYTPAbNcbfGVV6KQzYNxyxy18ElOo7RKIUAxDXYBs6BeEYaoR60+ocISmOvfUpOMl78NYRyQ5J3ut3AWkRkaue8cRFOiHgcfsMh+bNJsGdgThouUPM/+V3/ARlr1GOcjg1RzNwtbA9N+NPUqjQoI5bqbdBf7noTD/l9jim575bqu4O/ZCm6xtI2lcjnb3n/fPBstCXPJEQgPAhp3FooR13S8S4Exk8qu+Yu/Q7h/TiW2Ybm0m+p7jGSy2gtbcStWukI5jUfHPOwWFdf50DBnpRcoGWwIWalUnWl15a843k/EBvgRAndC+wMKjPHOO1CK3W94QfRyoKHsyqfSw==;X4xgpjqxCr5f0p9oIrIEyg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/njfalk/2021/01/21/how-to-find-your-purp
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/njfalk/2021/01/21/how-to-find-your-purpose-in-life-using-emotional-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,19 +28,6 @@ images:
     width: 1200
     height: 858
     isCached: true
-
-related:
-  - title: "Discover how business proposals almost write themselves with the use of Artificial Intelligence in a new update from Offorte.com"
-    excerpt: "Proposal software Offorte makes it easy to create business proposals using the new artificial intelligence functionality, which helps you write proposal texts. The new tool generates texts composed based on your limited personal input."
-    publishedDateTime: 2021-01-21T10:15:00Z
-    webUrl: "https://news.europawire.eu/discover-how-business-proposals-almost-write-themselves-with-the-use-of-artificial-intelligence-in-a-new-update-from-offorte-com-037000/eu-press-release/2021/01/21/11/13/04/85204/"
-    ampWebUrl: "https://news.europawire.eu/discover-how-business-proposals-almost-write-themselves-with-the-use-of-artificial-intelligence-in-a-new-update-from-offorte-com-037000/eu-press-release/2021/01/21/11/13/04/85204/?amp"
-    cdnAmpWebUrl: "https://news-europawire-eu.cdn.ampproject.org/c/s/news.europawire.eu/discover-how-business-proposals-almost-write-themselves-with-the-use-of-artificial-intelligence-in-a-new-update-from-offorte-com-037000/eu-press-release/2021/01/21/11/13/04/85204/?amp"
-    type: article
-    provider:
-      name: EuropaWire
-      domain: europawire.eu
-    quality: 8
 
 secured: "vuHmTlIDu730GjdXoeYaY4wOJTmiI+f0vlLFEG8S6YpS1sk14jZkX9oQkmf3/AovlGoa3Bc821A84B635b7wh92BqIen1/7dKO7EEZWzhZT0iN3Ku84KlDRwXMZ1fthwDwbBRsS8PKCNdMNYokWBglOyl2ttDdvaHxX9xMoi/gwNyOx1wTqsKT7qPDXj2Tp0KY8WBxN4ixk6FglvRd2IJj76cjfpRv+08otg9vQIoAdLm1pHvh1UPzyBpNEx80HOinO2+4ZFGunUWXK+DqYI7jbhS6plvJTOmAnYjKdKhnekELdy01GpJai+QkkztFSR3EI5nJgyVCkoZuA3B+7OKKoniZgtf97L4JIGl0QDPsri1EU8M97/Dkm8kFKDQDSOcoI2HeyDEWENTJpVMOmr5qBaRnjqgy+XCrEux0CVNeL5QPi9C3fsp7vbq20I0dVEhFq8L2o/hppuyEP+7aF3ELnASuyIOP9wj0Eqiww8D3Bfa2IgRDt9IRG2ihgGrghi97AAOO6FLNcaSgCByY7Fbg==;ykfSMv7WHKi0GWIwtsUH3A=="
 ---

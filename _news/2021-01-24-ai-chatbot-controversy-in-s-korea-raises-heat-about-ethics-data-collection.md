@@ -7,8 +7,8 @@ originalUrl: "https://www.straitstimes.com/asia/east-asia/ai-chatbot-controversy
 webUrl: "https://www.straitstimes.com/asia/east-asia/ai-chatbot-controversy-in-s-korea-raises-heat-about-ethics-data-collection"
 type: article
 quality: 51
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: The Straits Times
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "South Korea has used AI to bring a superstar back to life, but ethical concerns abound"
+    excerpt: "Recent AI performances have excited fans of their music and the technology, but others have raised concerns about the ethics and legalities of resurrecting the voices of the dead."
+    publishedDateTime: 2021-01-26T02:34:00Z
+    webUrl: "https://cnnphilippines.com/world/2021/1/26/South-Korea-AI-superstar-back-to-life.html"
+    type: article
+    provider:
+      name: CNN Philippines
+      domain: cnnphilippines.com
+    quality: 46
+    images:
+      - url: "http://cnnphilippines.com/.imaging/mte/demo-cnn-new/750x450/dam/cnn/2021/1/26/ai-singing-show-south-korea_CNNPH.jpg/jcr:content/ai-singing-show-south-korea_CNNPH.jpg"
+        width: 750
+        height: 450
+        isCached: true
   - title: "Controversy over AI chatbot in South Korea raises questions about ethics, data collection"
     excerpt: "Offensive comments and data leaks spark calls for stricter rules and user guidelines.. Read more at straitstimes.com."
     publishedDateTime: 2021-01-23T16:02:00Z

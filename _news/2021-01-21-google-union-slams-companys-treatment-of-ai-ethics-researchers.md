@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/01/21/google-union-slams-companys
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/21/google-union-slams-companys-treatment-of-ai-ethics-researchers/amp/"
 type: article
 quality: 104
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -106,20 +106,6 @@ related:
       - url: "https://static.timesofisrael.com/www/images/toi-ln-1200.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Google locks out another top AI ethicist"
-    excerpt: "Google has locked the corporate employee account of ethical AI team leader Margaret Mitchell, and is investigating her activity, according to Bloomberg. The move comes about a month after another prominent AI researcher,"
-    publishedDateTime: 2021-01-21T09:32:00Z
-    webUrl: "https://www.computing.co.uk/news/4026087/google-locks-ai-ethicist"
-    type: article
-    provider:
-      name: Computing
-      domain: computing.co.uk
-    quality: 39
-    images:
-      - url: "https://www.computing.co.uk/api/v1/wps/a48db76/d391d217-af07-4a3f-abbc-1edc0d560229/5/Google-370x229.jpg"
-        width: 370
-        height: 229
         isCached: true
 
 secured: "brC8NbFwn2o83psag43/hBNVZL8SdX8rKN60YgrSxTIIsGdpb0dmNC1S99ktpFuNw6gqWKib4IDEO7H6GSRP9OCRbKHdvfkvVgq+fvho2fw3ag1a/4/eOcwQWZD6MOs1/I+PVgy2qsa9N0if+fuevvu+cJ+z/gedCNxHR3Y4pe6ADhGvyCYhTOFjetfXPTD4Gjx5SAv0nL1mYFSPS18/LZe8a5QFgTMudpBA97JLzCAaTdm2iYhLSqxhIiomOfp/xfo/fCOHSLenLDBlTxNtTzfayFSFZrfE456igIV3nowCz7L20cjvVS0Eg0NdRaERxjXyfqozLGEy/kcESN09IBco3w2uu1qcQMsYF3OUnZfn9gZrPk/G08aQScap7E0TMhZaVWZyQLXHHa/GFaSglrVlhOQyZBOZnHGBYWjxXjhzL0xWpU6WuTrM2vREh6d9PMcTJ8p89Oe16nLwxNSqk392NY5zjeAFDuaee/xACeWCRhXdlVgDuQEjdwFC9NxmTZCUGuP81XrBRicERghRAA==;ytP48cwndSt7xJUSuXm5iw=="

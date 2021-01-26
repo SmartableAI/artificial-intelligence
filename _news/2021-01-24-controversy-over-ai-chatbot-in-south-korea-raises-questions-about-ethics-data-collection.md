@@ -39,6 +39,20 @@ related:
         width: 763
         height: 509
         isCached: true
+  - title: "South Korea has used AI to bring a superstar back to life, but ethical concerns abound"
+    excerpt: "Recent AI performances have excited fans of their music and the technology, but others have raised concerns about the ethics and legalities of resurrecting the voices of the dead."
+    publishedDateTime: 2021-01-26T02:34:00Z
+    webUrl: "https://cnnphilippines.com/world/2021/1/26/South-Korea-AI-superstar-back-to-life.html"
+    type: article
+    provider:
+      name: CNN Philippines
+      domain: cnnphilippines.com
+    quality: 46
+    images:
+      - url: "http://cnnphilippines.com/.imaging/mte/demo-cnn-new/750x450/dam/cnn/2021/1/26/ai-singing-show-south-korea_CNNPH.jpg/jcr:content/ai-singing-show-south-korea_CNNPH.jpg"
+        width: 750
+        height: 450
+        isCached: true
 
 secured: "8tyQBATmXGnljEk0nAx34L4r7jdqlKG+Art5XwmEAseNOoClXq8ZLG7cEe5QLD8VHzQzz3smzmBr4gr5NETEvKpx6fs5uaV5ZPqzRAQ2VXZpqjsuadNL42ZGEg1Wd0Twf8iksiWcIhShR4ehmpj+pP8nklFYrZ4ArrnaCBURj40pTf0RFhenwmtyLFr0k+E95Vc4BUcp6PkRcphkjHSpnuVl9MQ4cvnWs75siaRMYTsdV0T27b/4B2Crx1VKKT39yByxWp638w/kQlVfabJard4XtzrH8K8Uf3+G4bAAeQWP0L9bfxg2efx6o3HGSpS4tr7AFwUKa0FidYl52XUQPWfccqXed7qBLjcs/C8fF88=;DBPKb6b0XTTETKQNHEDaqg=="
 ---

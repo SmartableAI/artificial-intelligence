@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Conversational Kiosks Take Orders with AI and CV"
-    excerpt: "Learn how Sodaclick, a provider of cloud-based digital signage solutions, seized the opportunity to create a voice-controlled solution that today’s customers want."
-    publishedDateTime: 2021-01-25T15:35:00Z
-    webUrl: "https://www.infoworld.com/resources/213164/conversational-kiosks-take-orders-with-ai-and-cv"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 67
-    images:
-      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Artificial Intelligence Market Demand, Growth Opportunities and Top Key Players Analysis Report 2021 – 2024"
     excerpt: "As per the latest report published by Variant Market Research, Global Artificial Intelligence is estimated to reach"
     publishedDateTime: 2021-01-21T14:58:00Z
@@ -56,6 +42,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Conversational Kiosks Take Orders with AI and CV"
+    excerpt: "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software."
+    publishedDateTime: 2021-01-25T15:32:00Z
+    webUrl: "https://www.cio.com/resources/213164/conversational-kiosks-take-orders-with-ai-and-cv"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 37
+    images:
+      - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
+        width: 300
+        height: 300
         isCached: true
 
 secured: "nw9SqzSk0AyGvJt4lfERyq9DbZQJWNADpiViUnXJt5GhlCorJ4A8HwBw3If83EThoL7uM3H0VID6aq2JdRlWRu6B/JotsnPDzzLqDdNM9PCQC8horGcwLpd0I6rS/rm5dymJKlYOVlUd2GwwyH4f6Hmk7ighyIZMoQfE4DTL0zMpj+eddC1ZTmxkf2MaNpjGagEWHKUe3jDvmEfowzKAkTzaPewdNJjxqFbR0Y1BVwUOz+Ye3Bk7+iQ/oculohLBtmtYDpNt1BuX/axdVPEtaWf+dzFxvQOgHq212r2xA5Ai2FcpopQ7Dp64wovfTVrq0CwueA3RjPADu7D3vtrqmLrzRFqxM62i9NfwsT6prfE=;fCkm7JaUXWABX1wIRqZJ+g=="

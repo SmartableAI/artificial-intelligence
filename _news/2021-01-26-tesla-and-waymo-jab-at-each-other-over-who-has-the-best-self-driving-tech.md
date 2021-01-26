@@ -147,6 +147,17 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 54
+  - title: "Musk says Tesla beats Waymo in self-driving technology after Krafcik criticizes it"
+    excerpt: "Musk says Tesla beats Waymo in self-driving technology after Krafcik criticizes it FBN's Liz Claman interviews Waymo CEO John Krafcik"
+    publishedDateTime: 2021-01-26T02:12:00Z
+    webUrl: "https://www.compsmag.com/news/technology/musk-says-tesla-beats-waymo-in-self-driving-technology-after-krafcik-criticizes-it/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/musk-says-tesla-beats-waymo-in-self-driving-technology-after-krafcik-criticizes-it/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/musk-says-tesla-beats-waymo-in-self-driving-technology-after-krafcik-criticizes-it/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 48
 
 secured: "WHLfCYMpn9XYNTrfyWMai/HsNldNZ4FWU3pvEsLO8zOr37Y0w1PKeupWQG4BJVhaPOVgcHC/nMmfaH4GTt/Nyr5Z5J/M0rKBifg0AtDIKpWK4dLZElX4yAt5Vapsrs3xXRDAy03uS45FvMoEjFqA19ohH9v7A2uoWoW8je95WMcDIEhAZ1iA2IVW+QCkDIMYG9XL7D/MlYqdlqzBeNzKoOvXzuXpoWizn0FWcMEIhdF7KLe0B4JhWQRcB+ZJJm+Iy+gU9G/040pylaHeUzi0YUaDD4u4k4CwvKEf9xHXIJmYbufIOxNf8MnqUUrHaajyw/0gyLwjzmZN4CXY5tknQpjRU4yIw5ScLIjBsjbpp4pjCx7SyYNLygJ/YU0OvCcfQmH5kFyKQO3CWL+MGFBki9z9YiTgpqfScZoXVgfWTEBoIu+kbYg8LZc7B2Y2y/f/XUj+BZj84N//R/t3lYSeNHBF/xqgtWcLLsBe920ETtejGegwfhzQYEuFk5UbA1sVwQd1xy1+HOTNndUyYNfqLg==;gH/OmRUIGeAS7IhnqP5NRw=="
 ---

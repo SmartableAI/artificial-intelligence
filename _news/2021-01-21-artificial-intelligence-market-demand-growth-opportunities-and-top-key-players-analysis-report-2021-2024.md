@@ -45,16 +45,16 @@ related:
         height: 630
         isCached: true
   - title: "Conversational Kiosks Take Orders with AI and CV"
-    excerpt: "Learn how Sodaclick, a provider of cloud-based digital signage solutions, seized the opportunity to create a voice-controlled solution that today’s customers want."
-    publishedDateTime: 2021-01-25T15:35:00Z
-    webUrl: "https://www.infoworld.com/resources/213164/conversational-kiosks-take-orders-with-ai-and-cv"
+    excerpt: "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software."
+    publishedDateTime: 2021-01-25T15:32:00Z
+    webUrl: "https://www.cio.com/resources/213164/conversational-kiosks-take-orders-with-ai-and-cv"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 67
+      name: CIO
+      domain: cio.com
+    quality: 37
     images:
-      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
+      - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
         width: 300
         height: 300
         isCached: true

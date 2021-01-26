@@ -19,17 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Supermicro Unveils NVIDIA GPU Server Test Drive Program"
-    excerpt: "\"Supermicro's collaboration with NVIDIA in the GPU test drive program delivers through channel partners a unique opportunity to test workloads on remote Supermicro servers leveraging NVIDIA's HGX A100 platforms,"
-    publishedDateTime: 2021-01-21T09:28:00Z
-    webUrl: "https://tass.com/press-releases/1247347"
-    ampWebUrl: "https://tass.com/press-releases/1247347/amp"
-    cdnAmpWebUrl: "https://tass-com.cdn.ampproject.org/c/s/tass.com/press-releases/1247347/amp"
-    type: article
-    provider:
-      name: TASS
-      domain: tass.com
-    quality: 39
   - title: "Supermicro Unveils Nvidia GPU Server Test Drive Program with Channel Partners"
     excerpt: "Supermicro, an enterprise computing, storage, networking and green computing technology company, released details on a new GPU test-drive program. Called STEP (Supermicro Test drive Engagement with Partners),"
     publishedDateTime: 2021-01-22T15:10:00Z

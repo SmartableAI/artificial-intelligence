@@ -210,20 +210,6 @@ related:
       name: Windows
       domain: compsmag.com
     quality: 42
-  - title: "Microsoft invests in GM's self-driving car company"
-    excerpt: "GM-owned self-driving firm Cruise pushed its total value to $30 billion with Microsofts participation in a $2 billion equity investment. It was not divulged how much Microsoft infused in the equity investment and"
-    publishedDateTime: 2021-01-21T10:25:00Z
-    webUrl: "https://www.econotimes.com/Microsoft-invests-in-GMs-self-driving-car-company-1600604"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 41
-    images:
-      - url: "https://s1.econotimes.com/assets/uploads/20210121c5e791e25593208ea_th_1024x0.jpg"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Microsoft to integrate Teams across SAP solutions"
     excerpt: "Enterprise application software provider SAP and Microsoft have announced to integrate video conference and collaboration platform Teams with SAPs intelligent suite of solutions. The companies also expanded an existing partnership to accelerate the adoption of SAP S/4HANA on Microsoft Azure."
     publishedDateTime: 2021-01-24T05:49:00Z

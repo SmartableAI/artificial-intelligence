@@ -7,7 +7,7 @@ originalUrl: "https://insidehpc.com/2021/01/supermicro-unveils-nvidia-gpu-server
 webUrl: "https://insidehpc.com/2021/01/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-channel-partners/"
 type: article
 quality: 16
-heat: -1
+heat: 16
 published: false
 
 provider:
@@ -19,17 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Supermicro Unveils NVIDIA GPU Server Test Drive Program"
-    excerpt: "\"Supermicro's collaboration with NVIDIA in the GPU test drive program delivers through channel partners a unique opportunity to test workloads on remote Supermicro servers leveraging NVIDIA's HGX A100 platforms,"
-    publishedDateTime: 2021-01-21T09:28:00Z
-    webUrl: "https://tass.com/press-releases/1247347"
-    ampWebUrl: "https://tass.com/press-releases/1247347/amp"
-    cdnAmpWebUrl: "https://tass-com.cdn.ampproject.org/c/s/tass.com/press-releases/1247347/amp"
-    type: article
-    provider:
-      name: TASS
-      domain: tass.com
-    quality: 39
   - title: "Supermicro Unveils NVIDIA GPU Server Test Drive Program with Leading Channel Partners to Deliver Workload Qualification on Remote Supermicro Servers"
     excerpt: "With Colfax's expertise in the HPC and AI space, we'll be able to help users select the best GPU solution for their organization.\" \"Exxact Corporation is excited to be collaborating with ..."
     publishedDateTime: 2021-01-21T18:44:00Z

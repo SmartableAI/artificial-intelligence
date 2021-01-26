@@ -121,6 +121,17 @@ related:
         width: 728
         height: 300
         isCached: true
+  - title: "Wake Up Humans, The Robots Are Coming: Meet Hyundai’s DAL-e AI Customer Service Robot"
+    excerpt: "Hyundai Motor Group has just launched a humanoid customer service robot called “DAL-e”. It’s a highly advanced machine designed to communicates with people using precise recognition capabilities and mobility function."
+    publishedDateTime: 2021-01-26T01:45:00Z
+    webUrl: "https://www.carscoops.com/2021/01/wake-up-humans-the-robots-are-coming-meet-hyundais-dal-e-ai-customer-service-robot/"
+    ampWebUrl: "https://www.carscoops.com/2021/01/wake-up-humans-the-robots-are-coming-meet-hyundais-dal-e-ai-customer-service-robot/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/01/wake-up-humans-the-robots-are-coming-meet-hyundais-dal-e-ai-customer-service-robot/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 47
 
 secured: "Jr+MyJmy1LCRkyh6Y4Nn+yfWVXJM/hvEwXZgm8Nh7YsNgaeo82M/tyNKscphrxLF3UNXo82MxIxBdEtXh8zvxcHPr0GYH8vxRXxnYyzwR19oivFrOK2RutQ+6/H5TP8gZfxz4oPaR7s0ZbivKkrg2gZvWxU0oCBukCahPB/zvpSPklf9XWFGPijfm2dnuBPA0+6ClXcyFqxb1OKkTTs7vBA1xOaCwlptdH+p+dq5O1wBhabm9WsUL4aCtJu2MxZKdnYjPqkC6E+gaOM589JxNTdxI7zMKuKxTXPpKHGmw7wXkChmwt5xeiuJU/zeWquuLH4hjX+tXIXuul03Mpw7Ds5ZTQ7pisoDgCS+aHb/ajA=;yoyESVUZdZJhn9gzDKNL0A=="
 ---

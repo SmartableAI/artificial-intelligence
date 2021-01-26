@@ -182,20 +182,6 @@ related:
       name: Windows
       domain: compsmag.com
     quality: 23
-  - title: "Police authorities conclude facial and license plate recognition video surveillance tests"
-    excerpt: "The Unitary Police Service (SPU) announced today (Thursday) that they has completed with \"satisfactory results\" the first two rounds of testi"
-    publishedDateTime: 2021-01-21T10:32:00Z
-    webUrl: "https://www.macaubusiness.com/police-authorities-conclude-facial-and-license-plate-recognition-video-surveillance-tests/"
-    type: article
-    provider:
-      name: Macau Business
-      domain: macaubusiness.com
-    quality: 15
-    images:
-      - url: "https://macaubusiness.b-cdn.net/wp-content/uploads/2021/01/eyes-in-the-sky.jpeg"
-        width: 1000
-        height: 775
-        isCached: true
 
 secured: "hhBdF62NoBHAZLz7gwt+49WNZV62Vgh2q6ygQPSXXN2tpFOMfUG1k5fxXHs4B4HB6GvVB8q6anEl2ugfzFgICjVoRyxFArXnQMpeFJXhJ1HXx6Y1FlCetqA/wEu28s5/yEIg2VIj6lJo6G5jBY2X9dDLQTMsQvufgdCoIikFq+Wk+rNM46K2K7KvVU+u4HR5oRmX6hzxpqKcrCb8Tk49XULCmlz9BEt01dCxEVMq9H+nKmUYjFSAovdz3dthORSb9QVGnx+Ylo5kF+mQPKHzhGQrzzY7ZBPLohSfGqfBe+yWj/CnjBgwI49kezAgLRHi27V5bx2jv9T+vhtfWUht+VXUQ4P5/J6sOrJVUaJ0cDp1tDBSx/w0AsqzCmFsXs3v10RsGnGJs4pNrjjp4tUFXRrtbOwJDUH0tLbbEUTHZuEBfVcvRy2PBfYobl+VtRpFti1H+yCKtZd/vwED/4RTj3LABXC0pxGgbH5NuqyzUCXbzQso/qN1YDU6ThfRSdAuIvdnhO9tImgYBXN8hUsw6w==;y7vk0ir4BSMRG66VdBOvMw=="
 ---

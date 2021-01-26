@@ -86,22 +86,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 65
-  - title: "Facial recognition tech deployed in UP to help women in distress"
-    excerpt: "The Lucknow police are deploying facial recognition technology backed by security cameras that will read expressions of women in distress and alert their nearest police station. The technology will use artificial intelligence (AI) to read facial expressions of women."
-    publishedDateTime: 2021-01-21T09:57:00Z
-    webUrl: "https://newsd.in/facial-recognition-tech-deployed-in-up-to-help-women-in-distress/"
-    ampWebUrl: "https://newsd.in/facial-recognition-tech-deployed-in-up-to-help-women-in-distress/amp/"
-    cdnAmpWebUrl: "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/facial-recognition-tech-deployed-in-up-to-help-women-in-distress/amp/"
-    type: article
-    provider:
-      name: Newsd
-      domain: newsd.in
-    quality: 59
-    images:
-      - url: "https://newsd.in/wp-content/uploads/2016/05/newsd-story-banner-1.jpg"
-        width: 1080
-        height: 582
-        isCached: true
   - title: "Ban on facial recognition technology advances in Minneapolis"
     excerpt: "MINNEAPOLIS (AP) — A proposal to ban the use of facial recognition technology by Minneapolis police and other city departments is advancing. The technology has raised concerns by some"
     publishedDateTime: 2021-01-22T15:37:00Z
