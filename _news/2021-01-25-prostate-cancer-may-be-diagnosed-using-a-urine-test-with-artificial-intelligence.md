@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "This AI can tell if you have prostate cancer by looking at your pee"
-    excerpt: "Researchers at the Korean Institute of Science and Technology (KIST) recently developed a machine for detecting prostate cancer that only needs 20 minutes of your time and a few ounces of your pee to achieve near 100-percent accuracy."
-    publishedDateTime: 2021-01-21T18:51:00Z
-    webUrl: "https://thenextweb.com/neural/2021/01/21/this-ai-can-tell-if-you-have-prostate-cancer-by-looking-at-your-pee/"
-    ampWebUrl: "https://thenextweb.com/neural/2021/01/21/this-ai-can-tell-if-you-have-prostate-cancer-by-looking-at-your-pee/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/21/this-ai-can-tell-if-you-have-prostate-cancer-by-looking-at-your-pee/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 87
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/urine-2-796x448.jpg"
-        width: 796
-        height: 448
-        isCached: true
   - title: "Cancer can be precisely diagnosed using a urine test with artificial intelligence"
     excerpt: "Prostate cancer is one of the most common cancers among men. Patients are determined to have prostate cancer primarily based on PSA, a cancer factor in blood. H"
     publishedDateTime: 2021-01-22T21:03:00Z
@@ -57,34 +41,6 @@ related:
       - url: "https://sciencebulletin.org/wp-content/plugins/instagram-feed/img/placeholder.png"
         width: 1000
         height: 560
-        isCached: true
-  - title: "This Deep Learning Training Can Serve As Your Springboard To A Career in AI"
-    excerpt: "Deep learning and machine learning have been deeply embedded in modern-day technology that it's no longer a matter of what it has touched, but what it hasn't. From the virtual assistants you interact with to the facial recognition of your smartphone to your Netflix to-watch queue,"
-    publishedDateTime: 2021-01-26T04:33:00Z
-    webUrl: "https://sea.ign.com/news/168055/this-deep-learning-training-can-serve-as-your-springboard-to-a-career-in-ai"
-    type: article
-    provider:
-      name: IGN
-      domain: ign.com
-    quality: 52
-    images:
-      - url: "https://sm.ign.com/t/ign_ap/news/t/this-deep-/this-deep-learning-training-can-serve-as-your-springboard-to_w6xv.1200.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "AI can grade your skill at piano by watching you play"
-    excerpt: "An artificial intelligence that can grade the skill of a pianist with near-human accuracy could be used in online music tutoring"
-    publishedDateTime: 2021-01-22T10:42:00Z
-    webUrl: "https://www.newscientist.com/article/2265585-ai-can-grade-your-skill-at-piano-by-watching-you-play/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2021/01/21152556/21-jan_grading-piano.jpg"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "lA83IEkRld3HvEmGScO8KPQKDRGYED2RVov/CILjexRxRTAMpcviL5DYQyU5yaof5JMsH7w/Q5kDenI+d5mpPzi64sUG9tp6Qa7RfIEynpnBvJq0DIpR96AyNjEEdDjWk6IF4RZBm1uUu0AjTJ1ZfbKWAjTRXGCCSbPKIjipiYSJHxvwi8YztGKYPjzbVp0VelYEUWLyE7kaZDiXV1npxl0C3u+Vq0+klPjlGxFJRpftQ2sIu7q/hwIQ0ePoHxwI8b1qc/5H1znH6iYX3O5nvUzAgZUN3FRoKyMYCrt0jTPWba4SE2WfvFchhL3smRTFYteDPEXgpfSOJ9BT7KlxF3qpkloa2n0WaYJca320woo=;S3Gq/+yBuFV912WqU+pbkg=="

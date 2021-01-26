@@ -41,21 +41,7 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "When a story is breaking, AI can help consumers identify fake news"
-    excerpt: "Warnings about misinformation are now regularly posted on Twitter, Facebook, and other social media platforms, but not all of these cautions are created equal. New research from Rensselaer Polytechnic Institute shows that artificial intelligence can help form accurate news assessments -- but only when a news story is first emerging."
-    publishedDateTime: 2021-01-21T18:28:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-01/rpi-was012121.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/254200_web.jpg"
-        width: 640
-        height: 360
-        isCached: true
 
-secured: "4ZpX0CuND3PWN4CMsZsucspY2XR3jebD0Iq8PH0nBVFpq2g36x2M3obLBW+JOh3ulqjcOcGaBJZdmqHQWnWmL15/h7kySmIxHvSdJcKnq9IMl3q6lEonoyyLOJ1NcsxmQlScocxWyegmdJsq4HTcRGnFkde5PUuQEWSMUXSis6XAvCAMa6nl0piKVcRH1mFN+SNpPeTah3SE0PacXvvPHtqi6rFVhZVggmCYJgBunKXfGcHsVqZq7F+mfubrrRGtkbkE5xTc/MeWyCq5QJSXqAmjGmcaLRA/IB32sEIASXz1mB/5buMHguq+2C6U5GOjAWxvnTGcVf9P5jwXk7uA6f1nkxZhVxRfIILH476CNQs=;+zRQd9HMjmIMm5YLj9quSQ=="
+secured: "z/yOhs4xzgr+B20QiA8E9WY2kjMdlUssJ2Cen5Qx26Y0RPDMhGSyrucaPaJU8MSMngem3VgYDqK0z+UEZ+35JixjnQOMp5ilxHI6cSYss7sgwfVs0Dc35c3pV9rGxeUFSyrN2dVBcnKDg7Vj09hz4G2gnH9MVAmB10hNGtPTHTJWISzG2dWdhGiR2WjSMSKOdN5H0i9CWzcs4q9P+3CFFCo1nSaIJP7U8vsRQZSl+h3LfRFqBkQbwQCRR2udMv+1Anle8DyU+Msu8ng9XDgxdrBQjtMD36gZvVnBr+91We8pvRkJM5zGlFw3RM8nDgN7iPhxADsxZH83Btnqt1JSgcTDIwi57fafKNfEA/2NzPwWC6poidHPshzBsZA1B2CasOSyW5Vmiq+X33bC7DVNdtih7+I1wniTZxMq8bptoYxYRrPNb9riUd5mL2qdFpakjRKe5sNlurGxZv0iROn5zVzX+SxS4ijx6lMyWHLmkG5PLC/cgM52Erxgq26liftw1UiuYd3/vsPgmZjSQ13mfg==;qCoHh6HL1wOSivPwEYD4sQ=="
 ---
 

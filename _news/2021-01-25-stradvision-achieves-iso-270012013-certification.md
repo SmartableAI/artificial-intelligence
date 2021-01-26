@@ -1,29 +1,29 @@
 ---
 category: news
 title: "StradVision Achieves ISO 27001:2013 Certification"
-excerpt: "StradVision, a leading innovator in AI-based camera perception software for Advanced Driver Assistance Systems (ADAS) and Autonomous"
-publishedDateTime: 2021-01-25T15:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/stradvision-achieves-iso-270012013-certification-301213791.html"
-webUrl: "https://www.prnewswire.com/news-releases/stradvision-achieves-iso-270012013-certification-301213791.html"
+excerpt: "StradVision, a leading innovator in AI-based camera perception software for Advanced Driver Assistance Systems (ADAS) and Autonomous Vehicles, announced that its SVNet software has achieved ISO 27001:2013 certification — a recognition of its proven commitment to the highest level of information security management."
+publishedDateTime: 2021-01-25T15:24:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/stradvision-achieves-iso-27001-2013-certification-1029999812"
+webUrl: "https://markets.businessinsider.com/news/stocks/stradvision-achieves-iso-27001-2013-certification-1029999812"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/stradvision-achieves-iso-27001-2013-certification-1029999812"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/stradvision-achieves-iso-27001-2013-certification-1029999812"
 type: article
-quality: 24
-heat: 24
+quality: 54
+heat: 54
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1003667/StradVision_Logo.jpg?p=facebook"
-    width: 1413
-    height: 740
-    isCached: true
-
-secured: "GnrRe4YBDl4lrLgw9wuZKqO8MQPcwFPUy/TO2UUFnfNahjjkweEecsaESCAOkQ+Mx9bY//0zpOL4UnX+TflGF7wig1dwnyM/hoyIayDdyn/0+996aIxgKmcUSKp4081Ic03McK2nJSSd8v/Y76GEEgAJCXSWErRpfbmnlD9XG4b5Qkj4ZlqG3hYA00rqYnD3UCXBz6URbJp/CK2r3bpG9tARolVx9rkkOsq1DMG6kZr4avH0Hrp+OeTFzQkgviYuffcw2JDS68O4tuSATCJxztfWZUXQ7kIwvc8+y+efgc3YWXmyUvXL0iCFoc79t50ZjPISAaaTP0S63CuR/KoF5w3tTPcfsoYmIwVhnKTJLUU=;zcKsxkFeyPRuDe9S1SoXPQ=="
+secured: "8lz/OoVxLj8e7ZLXdQk5x9TQX71ZTz2euLIiDShwOEpGjvk17cy9AS8XhOcIXlmqvfh5yyB4bn1ShWIpYkvd8cqI6iimUY+goxyWlCLIRYUu5vK7p+aTUYQ+L9G6Epd6KXo+LSfooDTYp0xP9fTtRF+ehaUZ9dDF3euQoyVUfrIZJXvhfSxVLPUFv5Zvg35zcn+ZisguFUKst27paCWNuUAbjis5jzv7gbBMfrPYQr/OqfWlqGNaT5NFthRpwJ0UqoCgFjZFvpyiSZl0pdGF9Qfk2Cn3zBDmydmUrqaZXxtvv3bsn2Wb5P7p3/auUzgYTAgRr1tmaRRgSsh9H/E+YgvjY5D1G+9GyGPrW6mbAv4=;n7I15JR8pwXFlz6vYdOCqg=="
 ---
 

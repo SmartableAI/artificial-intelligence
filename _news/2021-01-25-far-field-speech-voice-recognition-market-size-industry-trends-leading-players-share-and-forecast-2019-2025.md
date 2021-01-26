@@ -267,6 +267,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Automotive Market 2020 Recent Industry Trends and Significant Developments by 2027"
+    excerpt: "Market Research Intellect have recently published a new report on the Global Artificial Intelligence AI in Automotive Market The study provides profound insights into updated market events and market trends This in turn helps one in better comprehending the market"
+    publishedDateTime: 2021-01-26T10:54:00Z
+    webUrl: "https://www.openpr.com/news/2231106/artificial-intelligence-ai-in-automotive-market-2020-recent"
+    ampWebUrl: "https://www.openpr.com/amp/2231106/artificial-intelligence-ai-in-automotive-market-2020-recent"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2231106/artificial-intelligence-ai-in-automotive-market-2020-recent"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 30
   - title: "Global AI-Enabled Medical Imaging Solutions Market (2020 to 2030) - Analysis and Forecast - ResearchAndMarkets.com"
     excerpt: "ResearchAndMarkets.com The “Global AI-Enabled Medical Imaging Solutions Market: 15 Countries Analysis - Analysis and Forecast, 2020-2030” report has been added to ResearchAndMarkets.com’s offering. The global AI-enabled medical imaging solutions market was valued at $636."
     publishedDateTime: 2021-01-22T16:44:00Z

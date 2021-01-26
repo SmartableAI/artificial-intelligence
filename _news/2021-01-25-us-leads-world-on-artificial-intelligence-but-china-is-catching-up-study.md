@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/news/china/science/article/3119115/us-leads-wor
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/science/article/3119115/us-leads-world-artificial-intelligence-china-catching-study"
 type: article
 quality: 88
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "US leading race in AI, China rising"
+    excerpt: "The United States is leading rivals in development and use of artificial intelligence while China is rising quickly and the European Union is lagging, a research report showed Monday. The study by the Information Technology and Innovation Foundation assessed AI using 30 separate metrics including human talent,"
+    publishedDateTime: 2021-01-26T00:40:00Z
+    webUrl: "https://www.brecorder.com/news/40055921"
+    ampWebUrl: "https://www.brecorder.com/news/amp/40055921"
+    cdnAmpWebUrl: "https://www-brecorder-com.cdn.ampproject.org/c/s/www.brecorder.com/news/amp/40055921"
+    type: article
+    provider:
+      name: Business Recorder
+      domain: brecorder.com
+    quality: 59
+    images:
+      - url: "https://i.brecorder.com/large/2021/01/600f43904667f.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "US leads AI race with China close behind"
     excerpt: "The US is leading rivals in development and use of artificial intelligence while China is rising quickly and European Union is lagging, a research report showed Monday. The study by the Information Technology and Innovation Foundation assessed AI using 30 separate metrics including human talent,"
     publishedDateTime: 2021-01-25T06:45:00Z

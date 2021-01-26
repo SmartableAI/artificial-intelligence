@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2021/01/25/fake-news-is-ram
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/01/25/fake-news-is-rampant-here-is-how-artificial-intelligence-can-help/amp/"
 type: article
 quality: 87
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "When a story is breaking, AI can help consumers identify fake news"
-    excerpt: "Warnings about misinformation are now regularly posted on Twitter, Facebook, and other social media platforms, but not all of these cautions are created equal. New research from Rensselaer Polytechnic Institute shows that artificial intelligence can help form accurate news assessments -- but only when a news story is first emerging."
-    publishedDateTime: 2021-01-21T18:28:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-01/rpi-was012121.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/254200_web.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "How AI is helping retailers reinvent themselves"
     excerpt: "Everyday activities, once normal, have taken on a new element of risk and consumers are prioritising those retailers who are capable of rapidly adjusting to changes in the business environment.” Retailers are moving to a multi-channel environment offering a variety of shopping options for customers,"
     publishedDateTime: 2021-01-26T06:50:00Z

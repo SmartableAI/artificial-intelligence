@@ -9,7 +9,7 @@ ampWebUrl: "https://www.compsmag.com/news/pc/designing-customized-brains-for-rob
 cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/designing-customized-brains-for-robots-mit-news/amp/"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -21,20 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Designing customized \"brains\" for robots"
-    excerpt: "MIT researchers have developed an automated way to design customized hardware that speeds up a robot's operation. The system, called robomorphic computing, accounts for the robot's physical layout in suggesting an optimized hardware architecture."
-    publishedDateTime: 2021-01-21T18:57:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-01/miot-dc012021.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 54
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Robomorphic Computing: Designing Customized “Brains” for Robots"
     excerpt: "A new system devises hardware architectures to hasten robots’ response time. Contemporary robots can move quickly. “The motors are fast, and they’re powerful,” says Sabrina Neuman. Yet in complex situations,"
     publishedDateTime: 2021-01-25T02:38:00Z

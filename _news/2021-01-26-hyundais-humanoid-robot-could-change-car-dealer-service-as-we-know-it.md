@@ -121,6 +121,20 @@ related:
         width: 960
         height: 640
         isCached: true
+  - title: "Hyundai launches humanoid robot ‘DAL-e’ for customer service"
+    excerpt: "Hyundai Motor Group has launched the humanoid “DAL-e”, which it describes as a “highly advanced customer service robot” that independently communicates with people using precise recognition"
+    publishedDateTime: 2021-01-26T09:55:00Z
+    webUrl: "https://roboticsandautomationnews.com/2021/01/26/hyundai-launches-humanoid-robot-dal-e-for-customer-service/39904/"
+    type: article
+    provider:
+      name: Robotics & Automation News
+      domain: roboticsandautomationnews.com
+    quality: 54
+    images:
+      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2021/01/hyundai-humanoid-1.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Meet “DAL-e,” the Cutesy AI Robot That Will Help Hyundai With Customer Services"
     excerpt: "Don’t worry, this little robot is way too cute to bring back memories of HAL 9000-infused nightmares to folks that grew up reading Arthur C. Clarke's Space Odyssey series. Instead, it could open a window into the future of seamless,"
     publishedDateTime: 2021-01-25T14:21:00Z
@@ -147,6 +161,6 @@ related:
       domain: carscoops.com
     quality: 47
 
-secured: "BCNCz3XsFuUiIXXEQCX4AWnZZcoVU6mSOSFw9k5neDVmr84+G04Xl9KPblQ40iEBNJPRGp9q9xdyh7/Ih8qhaHdNkyjwCFejxaU4eViY/ClfVYgYtBK6GGIlxXX6ztB/UT0pF4ydsU217CliwZJiYvdRWs9bJk0M0Sqi/Z0uNDkYdxR6DdpkJVJ2K5ykArZFvNwDRpPGgzCvC/yWafkfiXq8qifE2KS7KpNp2Vgx1WGn9FwPJ1LCA/7y4/4e9bZuvatLzOJ3b20n/N4wAu8hturo8QEBP7JNU+WaaoUgy6pDeTPm+FT0JKHP+gTRycu+3sEgfGZIjwYdLWCr7y+kmmwiVo+AbpJJOupvI+43ZMA=;/u03cghGnxmnMljpzrcm4w=="
+secured: "tI9LqlhvdVxs6ffDydd4QUVdzK8tTqI4ozKaxEGWtcDxPDFepbtflH/edZwFPgcnur73Od//D9kp0mpwuah7cfgTefUNSX2iBQFR5laHdeHi17ycS/LQYoyc1kE4SuIcp21igKIYJsutBZ4TfWUbe9uEmmOiAkynweFLx6P2Aiao/P9HGgbwxNIcuilur+tYUAbTPtUYdesTlk5KJu7M+gjyUD4fm+q+qv8Db5yHnSSX1lyAC8yQXr84ho0Ip2YYCal/UDkbDo/4uOI3fR5NvRttPllBCiaraB38XxyfYgMrExSUcqGg4dRaQCkN/vk8FOS5qaIXxk5A66Nk+lvqWENCHMQTZ/J4fWYwzrx0u6mzvmTgon+cZqezOx2pL0mF0oi3PD5+WVfk0PGKA7oFk2fDq2xli/e15ONENAKeKN4XQiDYw4sfqLoRANuYWT2W8Fx2B+1bUfzBKO9ZfGu6dX2RSOg0r26xnBiL62Rd+4b2zNqG2fC10yGJ2Qf4jBxMc8uYFuyd9KtA4UW7N9shrg==;vqXfXnytLgbRRMfnO/LyMw=="
 ---
 

@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "6 developments that will define AI governance in 2021"
-    excerpt: "This year is poised to be a highly impactful period for the governance of artificial intelligence (AI). The Trump administration successfully pushed for hundreds of millions of dollars in AI research funding,"
-    publishedDateTime: 2021-01-21T19:00:00Z
-    webUrl: "https://www.brookings.edu/research/6-developments-that-will-define-ai-governance-in-2021/"
-    ampWebUrl: "https://www.brookings.edu/research/6-developments-that-will-define-ai-governance-in-2021/?amp"
-    cdnAmpWebUrl: "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/research/6-developments-that-will-define-ai-governance-in-2021/?amp"
-    type: article
-    provider:
-      name: Brookings Institution
-      domain: brookings.edu
-    quality: 59
-    images:
-      - url: "https://www.brookings.edu/wp-content/uploads/2017/04/rtx32l58-e1611244906453.jpg"
-        width: 4092
-        height: 2680
-        isCached: true
 
 secured: "OTwgDHmh3ryXGDXM4rpu3r87du3DYYg1uCUAsmpbN2WwsBpfudGu5NCpyLy8ddPTChC3MHUFrnV4pasvuP3HKt4YNwMR3E8+vCpmdYLBp0pMmzOCWyQkfBNBtOqtCe9t3s/dhXXk37A1WObfq3Jf0IE8mni0QeMvzov9xmTLpm8BznI3DMgh8XAIqGB2ObV8LBUAbaJC94xwJ0+4JSorPXn86fbKLf95NgT8BN10fhocxmZpMIvwhBg9WnXAUs30BnySV2JJYaIfV3maM11VwQdG5d1z90sUlSBXDtgP68T+cWePGuIr6Z+tngFeYVH4WJ0wJM5ZZXISz7P7QkRq1I39qQFRnZvJNoRl4Se3fRhz4ksRYw2YQE2IvyWQUj2EcPQXhZNMI7RrU50z4IVjXaM38XZ2lUu45hDYCz4+fuOSQUVj4oSEXU6ukvCTYOsBgCzpXd1rTV1jupo/z+hu8jJoNbc6YluTnXruQViP2jL6ZdywBVGgkNSEesLaJ5ZqIkLmTN4xZYs8iJ0WuarTTw==;GCrZQVAY1IR/cogBNazA7g=="
 ---

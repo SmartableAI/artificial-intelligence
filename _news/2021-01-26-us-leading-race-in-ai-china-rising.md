@@ -27,22 +27,31 @@ images:
     isCached: true
 
 related:
-  - title: "Threat Detection And Security Are Aided By Integrated Machine Learning / Artificial Intelligence"
-    excerpt: "Government buildings, airports, and other buildings at risk from terror attacks, whether from individuals or organizations, need more security that visual tracking of potential threats. In addressing these complex needs,"
-    publishedDateTime: 2021-01-21T18:41:00Z
-    webUrl: "https://www.forbes.com/sites/davidteich/2021/01/21/threat-detection-and-security-are-aided-by-integrated-machine-learning--artificial-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/davidteich/2021/01/21/threat-detection-and-security-are-aided-by-integrated-machine-learning--artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/01/21/threat-detection-and-security-are-aided-by-integrated-machine-learning--artificial-intelligence/amp/"
+  - title: "US leads world on artificial intelligence but China is catching up: study"
+    excerpt: "China has more of the world’s 500 most powerful supercomputers than any other nation, researchers say, as countries vie for competitiveness in key industries."
+    publishedDateTime: 2021-01-25T07:02:00Z
+    webUrl: "https://www.scmp.com/news/china/science/article/3119115/us-leads-world-artificial-intelligence-china-catching-study"
+    ampWebUrl: "https://amp.scmp.com/news/china/science/article/3119115/us-leads-world-artificial-intelligence-china-catching-study"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/science/article/3119115/us-leads-world-artificial-intelligence-china-catching-study"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 123
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 88
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D876%26cropY1%3D20%26cropY2%3D514"
-        width: 876
-        height: 494
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/01/25/ae8a9ab0-5ed5-11eb-9099-aaa38b7b3943_image_hires_145105.jpeg?itok=edHse04w&v=1611557476"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "US leads AI race with China close behind"
+    excerpt: "The US is leading rivals in development and use of artificial intelligence while China is rising quickly and European Union is lagging, a research report showed Monday. The study by the Information Technology and Innovation Foundation assessed AI using 30 separate metrics including human talent,"
+    publishedDateTime: 2021-01-25T06:45:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/business/2021/01/25/us-leads-ai-race-with-china-close-behind/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 19
 
 secured: "Wd7iRcn/MrcytsRxSWCkqqEtV2ou+H1z8rTPobDnXSlN4aSKunwZrnPn8S3SbFxgfDo4WwgRJKv12ANIbDZCDDaenMhy4vuS1yP/YXKbgjtrcQcUFhBZvIEoSCLFibozAEr3Fl3jIIUf+gIr/NPhCxcl4hdx7lQ5ZwF5n4sM5LY9Bu8saCayxBLidx+CgfUw/Ipmek4kVHLu1lxJX+ZgXa9m8or/6kN75Hn+fm+AFQTaXkwy4w+/zXsfhNOYh/zT/glCisiTcleMc/QMJ9EDDmJhdbX17+ngRq+rIjwM7sMUgwBKjjt8pgQqfHrrjaLNxrgc45E7uwrZ3ti1YY++ik4BqtNE1Wyyina3wxmUdbanvgu13KZ2KmmIbsbnd3K4voEYJQWuIz4Fx3ddxnWSHie2ARGkMWqjJGm6x8tmqquA+iCj28CYRsxfF7EtbUIFECmqmpSmcIFL9iZXumzC6Y3kQqS4AaHPF62GGEIw4LRSjQ+9U663WvFarE/qDzv/NLH3+WulebW8v9EqhtcUzg==;pn+3HQg4apCdldCp5oH5kg=="
 ---

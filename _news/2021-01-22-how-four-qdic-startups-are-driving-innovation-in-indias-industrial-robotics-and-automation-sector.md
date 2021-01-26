@@ -9,7 +9,7 @@ ampWebUrl: "https://yourstory.com/2021/01/qdic-startups-driving-innovation-india
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/01/qdic-startups-driving-innovation-india-industrial-robotics-automation/amp"
 type: article
 quality: 60
-heat: 110
+heat: 100
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://i.itbusiness.ca/wp-content/uploads/2018/01/ht_banner-hashtag-trending-620x250.jpg"
         width: 620
         height: 250
-        isCached: true
-  - title: "AI in Insurance: How 3 Forward-Looking Insurers Are Infusing AI Into Their Front, Middle, and Back Offices"
-    excerpt: "Insider Intelligence assesses the business impact of forward-looking insurers implementing AI in their front, middle, and back offices."
-    publishedDateTime: 2021-01-21T20:09:00Z
-    webUrl: "https://www.businessinsider.com/ai-in-insurance-report"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-    images:
-      - url: "https://i.insider.com/5f9325c64743a3001216b5e9?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "ITRI Exhibits Innovations in AI and Robotics at CES 2021"
     excerpt: "Taiwan's largest and one of the world's leading high-tech applied research institutions, today announced it will introduce and demonstrate AI and robotics technologies at its CES 2021 event site ( A MiR500 Robot Lowers Transport Costs at Schneider Electric Talking to Machines - New Operating Concepts With Artificial Intelligence Incremental Steps to Creating Value With Industrial Data Analytics Warehouses Turn to Automation to Meet Permanent Peak Demand ITRI's featured technologies include the Dual Arm Robot System (DARS),"
