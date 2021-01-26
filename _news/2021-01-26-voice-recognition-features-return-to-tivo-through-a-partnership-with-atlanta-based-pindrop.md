@@ -1,0 +1,35 @@
+---
+category: news
+title: "Voice recognition features return to TiVo through a partnership with Atlanta-based Pindrop"
+excerpt: "TiVo devices are getting new voice recognition capabilities thanks to a partnership with the Atlanta-based startup Pindrop, which is now offering its voice recognition and personalization technologies for consumer devices."
+publishedDateTime: 2021-01-26T14:03:00Z
+originalUrl: "https://techcrunch.com/2021/01/26/voice-recognition-features-return-to-tivo-through-a-partnership-with-atlanta-based-pindrop/"
+webUrl: "https://techcrunch.com/2021/01/26/voice-recognition-features-return-to-tivo-through-a-partnership-with-atlanta-based-pindrop/"
+ampWebUrl: "https://techcrunch.com/2021/01/26/voice-recognition-features-return-to-tivo-through-a-partnership-with-atlanta-based-pindrop/amp/"
+cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/26/voice-recognition-features-return-to-tivo-through-a-partnership-with-atlanta-based-pindrop/amp/"
+type: article
+quality: 64
+heat: 64
+published: false
+
+provider:
+  name: TechCrunch
+  domain: techcrunch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Natural Language Processing
+  - AI
+
+images:
+  - url: "https://techcrunch.com/wp-content/uploads/2019/10/introducing-tivo-plus.png?w=1024"
+    width: 1024
+    height: 571
+    isCached: true
+
+secured: "T2GyfBkk+fIG60yThglUN1IHLkCqxAk624ttAF7SREFv+KJeb25WJ9vJJwla0YsfRlO4xoYI+9ViBbzLcvBMPK4q6PnIYTeSlsLS3U1mou02rRg3n84CGZ8pXzhF0koyhG5Pewg6Rot8EDcTPcbRnp07/4sLCfUGQh0E4YxvhhQKtkW+U/x07c2hLZC7hYgWHzJES+jA7p2PxoIt9ZaRKsum4ItErB33WnOAj+O3LXrBoFrjPTa7wutRdm/MMt2cGR+Nia2PKoN1e1CLN0IbjvXC3wnrGBCDYN02CAqIePwVF6+IUGfmUaOHh7jAwX/+rYLOwxc8j3qxxRKwgNBftJW6lIsn8RFI5aAE86DH9rw=;An9YooW5PtnCSi51SL+hQA=="
+---
+

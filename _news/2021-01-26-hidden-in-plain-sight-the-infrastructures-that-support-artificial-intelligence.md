@@ -1,24 +1,27 @@
 ---
 category: news
 title: "Hidden in plain sight: The infrastructures that support artificial intelligence"
-excerpt: "Nested within and feeding on this data ecosystem, artificial intelligence (AI) executes cognitive tasks with more potency and speed than human beings. The large-scale transformative power of AI remains camouflaged in plain sight."
-publishedDateTime: 2021-01-25T16:11:00Z
-originalUrl: "https://nationalpost.com/pmn/news-pmn/hidden-in-plain-sight-the-infrastructures-that-support-artificial-intelligence"
-webUrl: "https://nationalpost.com/pmn/news-pmn/hidden-in-plain-sight-the-infrastructures-that-support-artificial-intelligence"
-ampWebUrl: "https://nationalpost.com/pmn/news-pmn/hidden-in-plain-sight-the-infrastructures-that-support-artificial-intelligence/wcm/9f87f374-16f6-48f0-8251-3b426cb39956/amp/"
-cdnAmpWebUrl: "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/pmn/news-pmn/hidden-in-plain-sight-the-infrastructures-that-support-artificial-intelligence/wcm/9f87f374-16f6-48f0-8251-3b426cb39956/amp/"
+excerpt: "Artificial intelligence requires machines, processing power and energy consumption, among other things. Often, we’re unaware of the presence of this infrastructure around us"
+publishedDateTime: 2021-01-26T14:39:00Z
+originalUrl: "https://www.canadianmanufacturing.com/features/hidden-in-plain-sight-the-infrastructures-that-support-artificial-intelligence/"
+webUrl: "https://www.canadianmanufacturing.com/features/hidden-in-plain-sight-the-infrastructures-that-support-artificial-intelligence/"
 type: article
-quality: 50
+quality: 48
 heat: -1
 published: false
 
 provider:
-  name: National Post
-  domain: nationalpost.com
+  name: Canadian Manufacturing
+  domain: canadianmanufacturing.com
 
 topics:
-  - AI in Autos
   - AI
+
+images:
+  - url: "https://www.canadianmanufacturing.com/wp-content/uploads/2018/02/artificial_intelligence_automation_robots.jpg"
+    width: 650
+    height: 433
+    isCached: true
 
 related:
   - title: "Hidden in plain sight: The infrastructures that support artificial intelligence"
@@ -38,6 +41,6 @@ related:
         height: 213
         isCached: true
 
-secured: "IWrSRSeqOtmLWLVcq/LylOxu1E10/nHOfoDFfvBJAGkdBwVyTBtlVyzHoazeu4aimdPbw3WMEb76b1efTAk2YKS9iKqj6i56HCp25k26IHxOPmkW1hany34UE916Y3O7smksnOr2m9yl3Et4v1rsa77CzbgrnHfuDuB898hQHIQEcw6vo3IiSY7lm4EYhM41atehSl/9XVUYa9CcZwXYGJpUlvx3fSKrQveWRGJa2XfnV7VKqBzyZBOIl+sVC6I436+A6hdHkX4g9XjbzPO4rPt1i9JqfpAyFzVbV4HpTL2Fao6Fzg25zDF7htERHzC7Wy3HxonWSsOfHy47d+AOkfTQr27qpb9gSCZVH/nYMSI=;fg7JEARHtNCQiu3iZG8h3w=="
+secured: "8K/2Izlhc+jaIzUYW0k6Wc/7PYwmNiYTNpXrY6ftDE4PIwb0nnv20egE972B9n9CwhK6txlRgkSj0cilLi/bvRGPDnOvXIgLBluj4s11ljDCoHAsJMz2V+uViL4LkGkBGs6Q3gZwWBSpsBoMZfGV+2tMT/DOTmR1MpFp2bG1SnpSZwLc1wBppK2NOQ5aKIJ/k6C2EU5ODUfMN0CJTTm9mIA/f1z3J/aii562uVLAlFd7aVaZRgHY8Q5YVGpVIFC62SdYozYBvlPbjl9dq8n7eIXOEwFMRBOU12tlUiDbPpaYuYA82mxdWmdFyMULSfOR2HAMiqChyT9D3e3Hqb/npKR75M2Dn2No19raRRMMBnA=;l0Wi7eE829q6nu34CNEzAw=="
 ---
 

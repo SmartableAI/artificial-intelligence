@@ -26,31 +26,50 @@ images:
     isCached: true
 
 related:
-  - title: "Learning with — and about — AI technology"
-    excerpt: "MIT Media Lab Personal Robots group head Cynthia Breazeal joined MIT Education Arcade Director Eric Klopfer for a conversation about AI's role in K-12 education as part of a new webinar series from MIT Open Learning."
-    publishedDateTime: 2021-01-25T19:37:00Z
-    webUrl: "https://news.mit.edu/2021/learning-and-about-ai-technology-0125"
+  - title: "Understanding The Value Of Artificial Intelligence Solutions In Your Business"
+    excerpt: "A starting point for any organization in AI solution deployment is to assess the current digital maturity of the organization."
+    publishedDateTime: 2021-01-26T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/01/26/understanding-the-value-of-artificial-intelligence-solutions-in-your-business/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/01/26/understanding-the-value-of-artificial-intelligence-solutions-in-your-business/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/01/26/understanding-the-value-of-artificial-intelligence-solutions-in-your-business/amp/"
     type: article
     provider:
-      name: Massachusetts Institute of Technology
-      domain: mit.edu
-    quality: 71
+      name: Forbes
+      domain: forbes.com
+    quality: 84
     images:
-      - url: "https://news.mit.edu/sites/default/files/images/202101/child-homework.png"
-        width: 800
-        height: 534
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600b279b38fb40a4043817d3%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Learning with – and about – AI technology | MIT News"
-    excerpt: "MIT News. Between distance learning, spending more time at home, and working parents trying to keep their kids occ"
-    publishedDateTime: 2021-01-25T19:51:00Z
-    webUrl: "https://www.compsmag.com/news/technology/learning-with-and-about-ai-technology-mit-news/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/learning-with-and-about-ai-technology-mit-news/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/learning-with-and-about-ai-technology-mit-news/amp/"
+  - title: "Ouriginal Partners With AI-based Solution Provider Analytikus To Support Higher Education In ..."
+    excerpt: "Advanced analytics solutions to strengthen academic integrity even in digital education environments (STOCKHOLM/MIAMI, 26 January 2021) - Ouriginal, Europe’s leading provider of text-matching solutions for plagiarism prevention and text-similarity detection,"
+    publishedDateTime: 2021-01-26T08:30:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-professional-services-social-affairs-computing-and-information-technology-d7510153cb1d9dc29f5811cc9b785f78"
     type: article
     provider:
-      name: Windows
-      domain: compsmag.com
+      name: Associated Press
+      domain: apnews.com
     quality: 41
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Understanding the reasons behind the Huge Energy And Power Demands of Artificial Intelligence"
+    excerpt: "The high energy consumption of artificial intelligence models, especially in neural network training (e.g. BERT) leads to huge carbon footprint. Spiking Neural network (SNN) has been proposed to start age of Green AI."
+    publishedDateTime: 2021-01-24T11:47:00Z
+    webUrl: "https://www.analyticsinsight.net/why-is-artificial-intelligence-so-energy-hungry/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 28
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/AI-1-scaled.jpg"
+        width: 2560
+        height: 1711
+        isCached: true
 
 secured: "O9+Dci9kSlXwfUL9BE43U+QzmmWf3v1uZrihy9dNj0zoUiC7m7mDD2hFopC17oLJS8KltLw+TvdOTyyttQ6d3vLuEVQ+Mu3DymOvh1ByEttPffQrAOgCrmK/oH5gdl2U4He5NMf9aPNl6BfQcPJcILToXCkrci7JLjMFUGzO7AOY2vui3fu2jQAu98jhq59dv6B6aT+E+qrk13lpAzw8OaOBSm9Y4hNVPB34bj1PdVLUPDbbjdcwFDnlnhruNWpAY+YdzVZ8Hcyw7fqWSn/3gZuLHZkRhSD6S+uzTVLr9WSyk/fEzWdJg2rYmIvmxw8ZtU/P1d+w7daX9P1gguOLF0mnsk+WI5aWXB3aQpJ50dtKT2mwXGdudiY8qLhWoj480WwfaP8smsxej1xUHwMCMyBcJdGHUSgo8qhHw3KeVgmpL+R9xjth0fbvFZfaN6AB9t+qxhp1F++AxJYzcgGuYRzlSijdqc4hDzCOa3GQce3fLj/lPjJcfp4D6pt2/cwL7R6cZX2YcqKRy9j0avUiLA==;ARGPdGn1b8BIggBUL+5ymA=="
 ---

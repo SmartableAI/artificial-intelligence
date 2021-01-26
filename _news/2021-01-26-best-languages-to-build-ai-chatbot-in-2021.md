@@ -24,19 +24,53 @@ images:
     isCached: true
 
 related:
-  - title: "AI chatbot controversy in S. Korea raises heat about ethics, data collection"
-    excerpt: "Meet Luda Lee, a self-professed 20-year-old female college student from South Korea who loves eating fried chicken, playing with cats and scrolling through Instagram.. Read more at straitstimes.com."
-    publishedDateTime: 2021-01-23T21:36:00Z
-    webUrl: "https://www.straitstimes.com/asia/east-asia/ai-chatbot-controversy-in-s-korea-raises-heat-about-ethics-data-collection"
+  - title: "Sales startup Insent.ai raises $2 million to expand its data strategy with automated chatbots"
+    excerpt: "B2B enterprise sales platform Insent.ai has raised $2 million to expand its data visibility and automated chatbot integrations."
+    publishedDateTime: 2021-01-26T14:35:00Z
+    webUrl: "https://venturebeat.com/2021/01/26/sales-startup-insent-ai-raises-2-million-to-expand-its-data-strategy-with-automated-chatbots/"
+    ampWebUrl: "https://venturebeat.com/2021/01/26/sales-startup-insent-ai-raises-2-million-to-expand-its-data-strategy-with-automated-chatbots/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/26/sales-startup-insent-ai-raises-2-million-to-expand-its-data-strategy-with-automated-chatbots/amp/"
     type: article
     provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 51
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 93
     images:
-      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2021/01/24/ST_20210124_CHAT24_6283167.jpg?itok=ofxQSrwm"
-        width: 763
-        height: 509
+      - url: "https://venturebeat.com/wp-content/uploads/2018/08/chatbot.shutterstock_1139070611-e1588276688496.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Run:AI raises $30 million to orchestrate and distribute AI workloads"
+    excerpt: "Run:AI, a startup developing orchestration and virtualization software for AI workloads, has raised $30 million in funding."
+    publishedDateTime: 2021-01-26T14:02:00Z
+    webUrl: "https://venturebeat.com/2021/01/26/runai-raises-30-million-to-orchestrate-and-distribute-ai-workloads/"
+    ampWebUrl: "https://venturebeat.com/2021/01/26/runai-raises-30-million-to-orchestrate-and-distribute-ai-workloads/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/26/runai-raises-30-million-to-orchestrate-and-distribute-ai-workloads/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Kili Technology unveils data annotation platform to improve AI, raises $7 million"
+    excerpt: "Kili Technology raised $7 million for its service that allows enterprises to annotate raw data to improve data sets for AI."
+    publishedDateTime: 2021-01-26T08:23:00Z
+    webUrl: "https://venturebeat.com/2021/01/26/kili-technology-unveils-data-annotation-platform-to-improve-ai-raises-7-million/"
+    ampWebUrl: "https://venturebeat.com/2021/01/26/kili-technology-unveils-data-annotation-platform-to-improve-ai-raises-7-million/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/26/kili-technology-unveils-data-annotation-platform-to-improve-ai-raises-7-million/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 82
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/01/Kili-image_classif_poly-e1611606041327.png?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "GT2Ftj1HNzHkaQX6EqmtP6SqUahV/tEVb6HgeoIYgxvxk8fQ5AzMknbBQL3mGnGaQ2+AF6oWfVYlLjiAAcpE27qDPislKtGZguh9mzcIlW3MytPgDisx7VRUwCX9ohJQ8yeJAd9z+TtRtJvKJfFx9/ktf+poUpRZOJVWT+MtUr+dL86pJ6hwSpsVdpuMJAlHW2swfg13aFiZUUk233M/gn3YupVK1+C3Wqd4wPFUp7hGllgT62mKDedc2GLKvVFP+80RvXf+vV2cAnD54Ewf00mGs+hphBKJZWJt7uXQPMUldxhq/t5STsPw9ID5c/pmM6wQb05GxLU3ZLGDHV08EGcxgfSZmeta5rbTd5oueXg=;HyJY0xQtjsMjoxjXph/GOw=="

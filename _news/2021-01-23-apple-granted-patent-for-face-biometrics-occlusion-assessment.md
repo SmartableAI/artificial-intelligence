@@ -39,20 +39,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "German Police face biometrics use increasing rapidly, report shows"
-    excerpt: "A total of 76,535 queries were made in the facial recognition system of the Federal Criminal Police Office, up from the about 54,000 in the previous year."
-    publishedDateTime: 2021-01-21T21:21:00Z
-    webUrl: "https://www.biometricupdate.com/202101/german-police-face-biometrics-use-increasing-rapidly-report-shows"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 24
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
-        width: 640
-        height: 260
-        isCached: true
   - title: "Apple Adapts Biometric Tech to Face Masks in New Patent"
     excerpt: "Apple has received a patent for a new facial recognition system that could potentially be used to help identify covered faces"
     publishedDateTime: 2021-01-25T21:42:00Z

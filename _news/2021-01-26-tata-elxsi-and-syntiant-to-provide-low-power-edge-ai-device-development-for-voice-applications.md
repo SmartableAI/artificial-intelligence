@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Tata Elxsi and Syntiant to Provide Low-Power Edge AI Device Development for Voice Applications"
-excerpt: "Tata Elxsi and Syntiant Corp., a deep learning chip technology company, today announced a collaboration to help manufacturers design"
-publishedDateTime: 2021-01-26T12:04:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/tata-elxsi-and-syntiant-to-provide-low-power-edge-ai-device-development-for-voice-applications-803203863.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/tata-elxsi-and-syntiant-to-provide-low-power-edge-ai-device-development-for-voice-applications-803203863.html"
+excerpt: "Tata Elxsi and Syntiant Corp., a deep learning chip technology company, today announced a collaboration to help manufacturers design and develop low-power always-on voice applications across multiple product categories,"
+publishedDateTime: 2021-01-26T13:21:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/tata-elxsi-and-syntiant-to-provide-low-power-edge-ai-device-development-for-voice-applications-1030003531"
+webUrl: "https://markets.businessinsider.com/news/stocks/tata-elxsi-and-syntiant-to-provide-low-power-edge-ai-device-development-for-voice-applications-1030003531"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/tata-elxsi-and-syntiant-to-provide-low-power-edge-ai-device-development-for-voice-applications-1030003531"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tata-elxsi-and-syntiant-to-provide-low-power-edge-ai-device-development-for-voice-applications-1030003531"
 type: article
-quality: 27
-heat: 27
+quality: 57
+heat: 57
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/742257/Tata_Elxsi_Logo.jpg?p=facebook"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "NYNnBYxMtCr94g8ZNjsFfwgkZDnRA2dF7lZva7YKniWD0QFNAStcpWSHP8D7GQIzugfAhGCGIY23AsrvujiMNN52iwpAag5mtBBydJbZXkEH0jg/5sC0dHyG9J76sKEeE+mVr1StPoHvvq5PI3Y/j+vDKXaFh6gbDOKBrl/d2HdZ5wi/EUe62RWIdJFRbDEdA30k3hWq3bRxG9wTiPuMCyAWEiKAYf09xvg7gEfX+v1ZZLEiv1E+YxWMuMhjB4aLhKMPIXR3V8UBFGhbxgm3OCragrPWWF1rB3PXdeGQhDNLyIm3iGESTTankLETup3pvXfCGm0V/uhF3AsbMfqSKMn0L3l+KjIqyfSrrufuh2I=;41XhrV0v30ccc6EOO33yWQ=="
+secured: "a5paAA6Yw6LCipW0XJ5cRWomr0jPEvUfmsC9uV8SHMOdttrbVWuI+N5l9YSjANHWUsrgQ3s8YY3lis63ojWMf5hvOyHEVuaBbFJ07OzokI30sFpTXyXrf2Fbk/+FgqEJ34+jnCOH9pD1MxoZHs3ztZw9SjDYJ/tEaCcm3/Nwve5PdbR8APu3fPBiM6CXoqpYZ1fBgZN0XQCTttOjY+e8JCtso5S5vp2OjSmK8jXwJMhDvGfl3O/mAgFkYv5KcbyOtmer2YHYhdxcS6n62lm/LII/zAncvNzn8tbCCuNxBuUh4Zf+str983vD3t5Kz7j61TRC+ADg/snJOPVwJz7q54ySvA5Xytc+/HvFV/agyhg=;wzqvAEMpPTtbXdIHH4NkGw=="
 ---
 

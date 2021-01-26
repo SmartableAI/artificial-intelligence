@@ -9,7 +9,7 @@ ampWebUrl: "https://elmoudjaweb.com/kili-technology-unveils-data-annotation-plat
 cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/kili-technology-unveils-data-annotation-platform-to-improve-ai-raises-7-million-jaweb/?amp"
 type: article
 quality: 48
-heat: -1
+heat: 48
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Kili Technology unveils data annotation platform to improve AI, raises $7 million"
-    excerpt: "Kili Technology raised $7 million for its service that allows enterprises to annotate raw data to improve data sets for AI."
-    publishedDateTime: 2021-01-26T08:23:00Z
-    webUrl: "https://venturebeat.com/2021/01/26/kili-technology-unveils-data-annotation-platform-to-improve-ai-raises-7-million/"
-    ampWebUrl: "https://venturebeat.com/2021/01/26/kili-technology-unveils-data-annotation-platform-to-improve-ai-raises-7-million/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/26/kili-technology-unveils-data-annotation-platform-to-improve-ai-raises-7-million/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 82
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/01/Kili-image_classif_poly-e1611606041327.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "/Gric5ENGz0jHN542VuhGybOnzwJNehfT1ycJYXVMDqyePDtjfMLm+uqfHGbJXt/7tF7K66nBobsXkfGvKmuBuenQOZnVSf2WONw1HgfA1uEKemIwRqZwEy6ZQ3i7cPQHm4m59zYIhXZACP8OVXRArE3XC4U9+EyC5ATNj+CpI34+iPPKq6P51MhcdQzY65pP0vYAItyzQksUkwEd0V695jrboshGSNnCkoZq9rJWYVeBNy7zi6UAFGH54dFruZ4RY11sW693eeD2v0teiis+chv58XjKJpjD8mYwp25vjty1egj/DoC3E1tlD4g6hP+nUKYjTodCb+HaAyOJOof4zsQr/huLYd6vhtsVwWqdEHwo1Hr4dHJXqc4w2v2TwxNGmzTw8YLln7PEBp2Q0PTE5VPrmc7x1F/B6AqC0msVQjTpCU13NYhy+Jy0isIbzrrP07d5rRW5aYCGwAgPLjYdTA0jnayOX4p3ptjrQpyvJ6naxzlELIvCTESenR3uLerkst26kEFravDl5f+fFkL2Q==;OQy766z0JPnx5n51dNiWDQ=="
 ---

@@ -43,6 +43,22 @@ related:
         width: 620
         height: 310
         isCached: true
+  - title: "Sophia—The Humanoid Robot—Will Be Rolled Out This Year Potentially Replacing Workers"
+    excerpt: "Hanson Robotics, the company behind Sophia, plans to mass produce robots this year to help people during the pandemic. The Hong Kong-based company contends that the human-like robots can “replace workers across industries."
+    publishedDateTime: 2021-01-26T14:54:00Z
+    webUrl: "https://www.forbes.com/sites/jackkelly/2021/01/26/sophia-the-humanoid-robot-will-be-rolled-out-this-year-potentially-replacing-workers/"
+    ampWebUrl: "https://www.forbes.com/sites/jackkelly/2021/01/26/sophia-the-humanoid-robot-will-be-rolled-out-this-year-potentially-replacing-workers/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2021/01/26/sophia-the-humanoid-robot-will-be-rolled-out-this-year-potentially-replacing-workers/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 82
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6010260bc7ace6371462f7ef%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "40% of supply chains in multinational corporations could not cope with COVID-19 pandemic"
     excerpt: "Organizations need real-time data insights, agility, and digitalization to mitigate risk and be successful, a new report finds."
     publishedDateTime: 2021-01-22T16:42:00Z

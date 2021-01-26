@@ -7,8 +7,8 @@ originalUrl: "https://www.marketoracle.co.uk/Article68317.html"
 webUrl: "https://www.marketoracle.co.uk/Article68317.html"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: The Market Oracle
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "EdgeQ Takes On Intel’s 5G Play With AI-Infused Modem Chip"
+    excerpt: "EdgeQ reveals its new \"base-station-on-a-chip\" that combines 5G and AI functions to replace multiple hardware components, including Intel CPUs and FPGAs."
+    publishedDateTime: 2021-01-26T13:04:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/edgeq-takes-on-intel-s-5g-play-with-ai-infused-modem-chip"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 54
+    images:
+      - url: "https://www.crn.com/resources/0265-116bf50a21cc-c9e8481f37f7-1000/edgeq.png"
+        width: 1500
+        height: 792
+        isCached: true
   - title: "The Best Artificial Intelligence Stocks to Buy in 2021"
     excerpt: "Shopify Inc. (TSX:SHOP)(NYSE:SHOP) is one of several artificial intelligence-focused stocks that you need to own this decade."
     publishedDateTime: 2021-01-24T16:34:00Z

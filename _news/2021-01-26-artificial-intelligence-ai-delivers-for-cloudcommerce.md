@@ -2,28 +2,27 @@
 category: news
 title: "Artificial Intelligence (AI) Delivers for CloudCommerce"
 excerpt: "Our clients are reaping the benefit of our real-world application of artificial intelligence. Our goal is to continue to work toward potentially reducing the costs of advertising by as much as 50%.” The Company is developing SWARM into a cloud hosted software platform that will harness the power of artificial intelligence,"
-publishedDateTime: 2021-01-26T08:24:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-ai-delivers-for-cloudcommerce-1030002696"
-webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-ai-delivers-for-cloudcommerce-1030002696"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/Artificial-Intelligence-AI-Delivers-for-CloudCommerce-1030002696"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Artificial-Intelligence-AI-Delivers-for-CloudCommerce-1030002696"
+publishedDateTime: 2021-01-26T08:26:00Z
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-marketing-and-advertising-corporate-news-marketing-campaigns-66fd70c577a5eeeb50e3990141edbed3"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-marketing-and-advertising-corporate-news-marketing-campaigns-66fd70c577a5eeeb50e3990141edbed3"
 type: article
-quality: 84
-heat: 84
-published: true
+quality: 52
+heat: 52
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - Facebook AI
   - AI
 
-secured: "oZ/K2/iZyLMl70IplVtgMhgg4PdNEB4rIT44QxEf4FpCyfSrVALx2dWns59DY8vDioaT2LazlriYkWtSJzBHExtOABiSxEHYXrSf8nHyW+CfjyvO1zNKW6S9+duZoUFFdLAIERWjTE7aYddlTgDON0dccI0z9wJ8OAF1n+lUWNVsDANlA1Rbp/uWWcTDDeWzn45SSG+zJUQdIr3PGSfuKoBuaDoqVrW5yg/L4fYXS64S7jwMTI9y2jggXVFq6tykjEjlaw7Elgw9sPTWE+VVT7p4hi2z96r5fLiR0cRPMSxWYMDcMnXRroY9wn/FMHxQ0ipgMplHhzEiaDjFhECbOQMyu2wGqng3sNSGNn4c1Pc=;a/AigGUsiwgGPKVBpeh8hA=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "BP5TGThXnU2vq4XnTiZ9duLVoAXyZpDn2aC12vjl9Ki9JTEkQ5n8Dm6y+6s205V0zgSnYCbom8QxGe+BmCky+dONboON1MzpUKUb3zTTKqcOLdq+emiFEBi3Zq/7LyC/ZoPasac6gNGAwncmr+w1N7Lr79qzq3GggczBVTP7jcLSs4/ghl738M70CH2Wvm3iDRNi0YseYCeAhgO2yJGvRnsylB4TI3X1A936e9qRxf6nzcqVEbz9yJY40Z4rWAoqDpq32T4LWnzOXFDpnJxJ4wVI+mkKbqPtuDnzMZcEViXqicRb6r4j9StOSBsoLaO1Ywnrm0Xg/4Tz1ComfSjNVO7Ydv99aNlhSE3uHH6atJU=;7XtxjkjJUSHz7JeO2yHzKw=="
 ---
 

@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Elon Musk fires back at Waymo's CEO after he said Tesla was 'no competitor at all'"
+    excerpt: "Earlier this year, Waymo dropped \"self-driving\" from its vocabulary, saying \"some automakers use the term in an inaccurate way.\""
+    publishedDateTime: 2021-01-25T15:49:00Z
+    webUrl: "https://www.businessinsider.com/elon-musk-waymo-ceo-self-driving-autopilot-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/elon-musk-waymo-ceo-self-driving-autopilot-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-waymo-ceo-self-driving-autopilot-2021-1?amp"
+    type: article
+    provider:
+      name: businessinsider.com/elon-musk-waymo-ceo-self-driving-autopilot-2021-1
+      domain: businessinsider.com/elon-musk-waymo-ceo-self-driving-autopilot-2021-1
+    quality: 183
+    images:
+      - url: "https://i.insider.com/600ee0f61958200011554bc1?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Elon Musk Responds To Waymo CEO: “Tesla Has Better AI Hardware & Software Than Waymo”"
     excerpt: "In an interview with German business publication Manager Magazin, Waymo CEO John Krafcik said Tesla is not a competitor to Waymo."
     publishedDateTime: 2021-01-25T07:23:00Z
@@ -92,6 +108,22 @@ related:
       - url: "https://wp-assets.futurism.com/2021/01/waymo-tes-600x315.jpg"
         width: 600
         height: 315
+        isCached: true
+  - title: "Musk says Tesla beats Waymo at self-driving tech after Krafcik criticises it"
+    excerpt: "Elon Musk has responded to criticsm of Tesla's 'self-driving' systems by Waymo CEO John Krafcik, saying his tech is better."
+    publishedDateTime: 2021-01-25T15:54:00Z
+    webUrl: "https://www.foxbusiness.com/lifestyle/musk-says-tesla-waymo-self-driving-tech-krafcik"
+    ampWebUrl: "https://www.foxbusiness.com/lifestyle/musk-says-tesla-waymo-self-driving-tech-krafcik.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/lifestyle/musk-says-tesla-waymo-self-driving-tech-krafcik.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 71
+    images:
+      - url: "https://media.foxbusiness.com/BrightCove/854081161001/201904/3793/854081161001_6023044704001_6023051501001-vs.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Elon Musk gives replay to Waymo boss for doubting Tesla's full self-driving system"
     excerpt: "Tesla CEO Elon Musk has countered recent remarks by CEO of Google’s self-driving unit Waymo that Tesla has taken a misguided approach to develop..|News Track"

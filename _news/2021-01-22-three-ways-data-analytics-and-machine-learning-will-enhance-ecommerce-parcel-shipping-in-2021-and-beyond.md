@@ -41,6 +41,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "TraQiQ makes big bet on Machine learning by acquiring Kringle, Leader in Loyalty, Rewards and Data analytics."
+    excerpt: "Ajay Sikka, CEO of TraQiQ said “Bringing the Kringle product suite and team into the TraQiQ family will allow us to provide a seamless solution for the post COVID hyper-digital, Contactless economy by integrating Kringle’s mobile and web products for end-to-end digital commerce solutions”."
+    publishedDateTime: 2021-01-26T14:29:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2021/01/26/traqiq-makes-big-bet-on-machine-learning-by-acquiring-kringle-leader-in-loyalty"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 2
 
 secured: "0artyFhgkjGfaO0YSOsoSWiK2to2MoxoybfDzlHkuDtjdEH3HP+cUm3DzZvxsiixel4w8ZhEGk382/lAGu9bLCFcvSRyScwxZ6h7F5KZE4+4bDC9PRb44oLiRESfIoqf0qVDAB1CBp3eeFIzRh6VgaHAcI/STUd1BXlM0nulVVRuH3zjLXJjBxnXCDHWV0erQXBntTfrBC5lCId+lGUFCQawTid7PXGUTGjCQFyqbAAAhsOFL5VnzW4lQ+cALBJRD9JFA723IEtFEwPdbBZEH+DLpiW/NedIuQRp7VgPZu6KxvO1abkbGe8qaudYZ2k6GCl6TqIKu/uuGE7hawwhhN+ZR3zriSXTcCv4TzBUzLA=;nhYx1ARswKWRWtIAU4RIVg=="
 ---

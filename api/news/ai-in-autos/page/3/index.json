@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-01-07-kenya-africa-hurdles-in-artificial-intelligence-race.md",
-      "title": "Kenya, Africa hurdles in artificial intelligence race",
-      "excerpt": "Kenya is still miles behind in positioning itself for the takeoff of Artificial Intelligence ... is the format used to create algorithms for self-driving cars, weather forecasting, crucial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessdailyafrica.com/bd/corporate/technology/kenya-africa-hurdles-in-artificial-intelligence-race-3249180",
-      "originalUrl": "https://www.businessdailyafrica.com/bd/corporate/technology/kenya-africa-hurdles-in-artificial-intelligence-race-3249180",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.businessdailyafrica.com/resource/blob/3249182/966dcf7e64b7aa712da263fe44aa12be/ai-data.jpg",
-          "width": 890,
-          "height": 445,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessdailyafrica.com/bd/corporate/technology/kenya-africa-hurdles-in-artificial-intelligence-race-3249180?view=htmlamp",
-      "cdnAmpWebUrl": "https://www-businessdailyafrica-com.cdn.ampproject.org/c/s/www.businessdailyafrica.com/bd/corporate/technology/kenya-africa-hurdles-in-artificial-intelligence-race-3249180?view=htmlamp",
-      "publishedDateTime": "2021-01-06T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Daily Africa",
-        "domain": "businessdailyafrica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-07-self-driving-pioneer-waymo-dumps-the-term-self-driving.md",
       "title": "Self-driving pioneer Waymo dumps the term 'self-driving'",
       "excerpt": "Waymo, the Google company that pioneered the self-driving car business, says it's done with the term, \"self-driving.\" Waymo says that some automakers are using the phrase \"self-driving ...",
@@ -1404,6 +1361,49 @@
       "provider": {
         "name": "pymnts.com",
         "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-30-2021-is-the-year-of-autonomous-vehicles.md",
+      "title": "2021 is the Year of Autonomous Vehicles",
+      "excerpt": "While 2020 was a successful year for Artificial Intelligence (AI), specifically the subfields of Machine Learning (ML) that are Deep Learning and Reinforcement Learning, there is one industry that is on the cusp of mass market adoption and that is autonomous vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.unite.ai/2021-the-year-autonomous/",
+      "originalUrl": "https://www.unite.ai/2021-the-year-autonomous/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.f8AX~1c8f3/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2020/12/autonoous.png",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-29T09:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "unite",
+        "domain": "unite.ai",
         "images": null,
         "publishers": null,
         "authors": null

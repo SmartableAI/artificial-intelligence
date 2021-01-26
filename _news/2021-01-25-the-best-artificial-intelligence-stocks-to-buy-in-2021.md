@@ -32,6 +32,20 @@ related:
         width: 801
         height: 455
         isCached: true
+  - title: "EdgeQ Takes On Intel’s 5G Play With AI-Infused Modem Chip"
+    excerpt: "EdgeQ reveals its new \"base-station-on-a-chip\" that combines 5G and AI functions to replace multiple hardware components, including Intel CPUs and FPGAs."
+    publishedDateTime: 2021-01-26T13:04:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/edgeq-takes-on-intel-s-5g-play-with-ai-infused-modem-chip"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 54
+    images:
+      - url: "https://www.crn.com/resources/0265-116bf50a21cc-c9e8481f37f7-1000/edgeq.png"
+        width: 1500
+        height: 792
+        isCached: true
 
 secured: "A+4RI5lu5+y1/Pl26EA3JVFlfXcSTVzZYwjoZy7H+9b2OEINIHQNpQ/dCBV9X3yb43WLEaolaM//Jb4LUZv0Qic3UpzcJqz5iNmk3/f6hPF4ksFGjfe6diZPqRK9N6DKrJRbVJbH0E1jK1hcwCJRV3x0Bw6be1sibHs8qjDfCnzyG6HTYrIqCqhNtRT9Rly7TUvtWGjeqaGlfqcMLC0mHWProXu5k33Ut1Pys6bth7OgnzDnwmadL5SHXQwpgzKVYV29ca9yO15cmYUVOKO127MmeoIzVBctGLElbWVbAq+b3ZqERRbj+DpPCa2kn/zJRfqSfxtCn7sU+CM+kdo/hoineiDu65jzT6xPtALWuN1KNyQ2WiXvxDmVjH3y9oAfKSQKs0aF5b7XB/hv06Xg6t3O5sw7jxjXRLfhGUGHDtrBik5VvbC0CkB6rf8h8wnXtdZfiVQn9qXYcfbXoqwXJQzhyecu8KQbd7ZYoE59+s0PeXegjosB7c07iMVCUC82D2MtFNZNbkFznDP/cEW2bw==;9z0/EvT2AJGC5O9arlGKCg=="
 ---

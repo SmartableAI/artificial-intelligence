@@ -7,7 +7,7 @@ originalUrl: "https://news.mit.edu/2021/learning-and-about-ai-technology-0125"
 webUrl: "https://news.mit.edu/2021/learning-and-about-ai-technology-0125"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Your Business Can Benefit From AI Technology"
-    excerpt: "Looking for smart ways to run your business is a huge part of being a business owner in this day and age. Today, it’s all about incorporating technology into your daily operations to work"
-    publishedDateTime: 2021-01-25T14:53:00Z
-    webUrl: "https://thedigitallifestyle.com/w/index.php/2021/01/25/how-your-business-can-benefit-from-ai-technology/"
-    ampWebUrl: "https://thedigitallifestyle.com/w/index.php/2021/01/25/how-your-business-can-benefit-from-ai-technology/amp/"
-    cdnAmpWebUrl: "https://thedigitallifestyle-com.cdn.ampproject.org/c/s/thedigitallifestyle.com/w/index.php/2021/01/25/how-your-business-can-benefit-from-ai-technology/amp/"
-    type: article
-    provider:
-      name: thedigitallifestyle.com
-      domain: thedigitallifestyle.com
-    quality: 57
-    images:
-      - url: "https://i2.wp.com/thedigitallifestyle.com/w/wp-content/uploads/2021/01/012521_1445_HowYourBusi1.png?fit=500%2C333&ssl=1"
-        width: 500
-        height: 333
-        isCached: true
   - title: "Learning with – and about – AI technology | MIT News"
     excerpt: "MIT News. Between distance learning, spending more time at home, and working parents trying to keep their kids occ"
     publishedDateTime: 2021-01-25T19:51:00Z

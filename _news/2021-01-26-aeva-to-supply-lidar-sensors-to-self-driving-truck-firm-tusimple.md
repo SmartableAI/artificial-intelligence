@@ -3,10 +3,8 @@ category: news
 title: "Aeva to supply lidar sensors to self-driving truck firm TuSimple"
 excerpt: "Aeva Inc, a firm founded by former Apple Inc engineers to supply a key self-driving car sensor, said on Tuesday it had reached a deal to supply the sensors for self-driving heavy duty trucks being developed by TuSimple."
 publishedDateTime: 2021-01-26T12:13:00Z
-originalUrl: "https://www.reuters.com/article/aeva-tusimple/aeva-to-supply-lidar-sensors-to-self-driving-truck-firm-tusimple-idUSL1N2K102G"
-webUrl: "https://www.reuters.com/article/aeva-tusimple/aeva-to-supply-lidar-sensors-to-self-driving-truck-firm-tusimple-idUSL1N2K102G"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2K102G"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2K102G"
+originalUrl: "https://www.reuters.com/article/aeva-tusimple-idUSL1N2K102G"
+webUrl: "https://www.reuters.com/article/aeva-tusimple-idUSL1N2K102G"
 type: article
 quality: 54
 heat: 64
@@ -24,6 +22,12 @@ topics:
   - AI in Autos
   - AI
 
+images:
+  - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+    width: 1200
+    height: 630
+    isCached: true
+
 related:
   - title: "Aeva to supply lidar sensors for TuSimple's self-driving trucks"
     excerpt: "Aeva Inc, a company founded by former Apple Inc. engineers to supply a key self-driving car sensor, said Tuesday it had reached a deal to supply the sensors for self-driving heavy duty trucks being developed by TuSimple."
@@ -40,6 +44,6 @@ related:
         height: 600
         isCached: true
 
-secured: "B3sA70a1Qgdj9Rmx2a46VOe34EdNR+tnBTTPYsS5WA7XOVPfO1bd1rd1xZQ6zvM1Dw+y1/b1tTt9iv02WYh0nQNVjh2svm3/0k8OBreXLAjvpg0CdTqPyFSX62xBB+iBqcSOTPP6wfj2KrvhcKJLhyn5AhRDDKPcxZNVylYTYK1qQtqROsHYrlALqtTUdiFrJtX7Eqg6/n3au4CmXDwEMOSIyz2kdU71iUQxAvemUu/0CqA/9F4qCes2aU6skbyMJZ2oyIvLAN4o6n84r/A6RnASK+jz4/QNhTo1By4GiVOvWeYYrMQSWhLQxoBezF34BRdnTUHA011UV2HyOPER3t4zL8VyIMPlIqqFIqF3ugQ=;+ybtu60iNobZKtlMxQg1cQ=="
+secured: "Apkjs6dtOgo3NOGGVVBSWsEMhJrUAH7rbvEk1PLk6GCHvm3rwuqo+IusUiCOeOt69mA+dDb4eDJ74sGXkAMGEG/78pP+W9Sc6lqOSoUGQR0xtd2As6ymGnsRoz86I7T46LnZg8V15TuOIi98WOJmKQ0FfSYEClO0X7964v2QF67miaFVFRntAfu8Y3U+tydvMC2ZcuSyChuJMVAKV6J6ZkkGO637q8dGWzDJqCwln1b/ZMqnUvtA0GaduDCsX9e/H0UytCI3xyL4fTdL1CyNKjxkm+p1ZsmiiguZKrLRsNTsg8JcFN1wq1S8Z/An2o6+Isvcpn9vjpxiwjtS61Hp0+A31Hft37BFEc/Rext0mxM=;iGjbm7ObULAX5ovDaGWoag=="
 ---
 

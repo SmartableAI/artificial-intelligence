@@ -7,7 +7,7 @@ originalUrl: "https://www.hexus.net/tech/news/graphics/147332-nvidia-geforce-exp
 webUrl: "https://www.hexus.net/tech/news/graphics/147332-nvidia-geforce-experience-321-intros-ai-powered-whispermode/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "New Update to GeForce Experience adds WhisperMode 2.0 that uses AI to keep the Noise Level in Check"
-    excerpt: "GeForce Experience is Nvidia's companion application for its graphics cards. Since its launch, it has been the one-stop solution for all gaming needs for"
-    publishedDateTime: 2021-01-25T19:23:00Z
-    webUrl: "https://appuals.com/new-update-to-geforce-experience-adds-whispermode-2-0-that-uses-ai-to-keep-the-noise-level-in-check/"
+  - title: "Nvidia GeForce RTX 3080 mobile review: The fastest laptop GPU just arrived"
+    excerpt: "Nvidia’s new GeForce RTX 30-series laptops offer very impressive graphics performance, even compared to some of the biggest and heaviest laptops around."
+    publishedDateTime: 2021-01-26T14:00:00Z
+    webUrl: "https://www.pcworld.com/article/3604615/nvidia-geforce-rtx-3080-review-the-fastest-laptop-gpu-just-arrived.html"
+    ampWebUrl: "https://www.pcworld.com/article/3604615/nvidia-geforce-rtx-3080-review-the-fastest-laptop-gpu-just-arrived.amp.html"
+    cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3604615/nvidia-geforce-rtx-3080-review-the-fastest-laptop-gpu-just-arrived.amp.html"
     type: article
     provider:
-      name: appuals.com
-      domain: appuals.com
-    quality: 25
+      name: PC World
+      domain: pcworld.com
+    quality: 87
     images:
-      - url: "https://cdn.appuals.com/wp-content/uploads/2021/01/article-630x354.a7bf4c00.jpg"
-        width: 630
-        height: 354
+      - url: "https://images.idgesg.net/images/article/2020/09/ampere-vs-20-100857189-large.jpg"
+        width: 1199
+        height: 674
         isCached: true
 
 secured: "GU2hKmpgjgRpXfVKmFKVdo8n3vJeDMvVNzjKgtfYUC++jMqJI3DDfrX/s5v7i6OY3xuiWO2Nz9NloOD51K7+Wa0sMy8TryWG4lGCgVRAuVoNesKVbpg+vVsZaGOEVwedvOWFbjO0OIc2Nzfla9e+wod6e4nb061BzGq9l81/ZRjOgZBqJgFB7PFh+q7fpf04gOivMAAwv2R47AKy5uR6tVQPXFi8b0kiHS+nbtNlkJu7m5Q98JJgiBjyDPDs4W7XkLs4KpknFHcsSMh8rhbfOw/NycPbdrp6xzCct9AGy5VDxFbYk5SSmFeZKoGnkYGHdxbyOUI0phPnQW8Tn94siBPz6Hu/YqYF6gl8dqyN6dw=;kcoDer7l0aFZsfaNSmkwHA=="
