@@ -26,7 +26,7 @@
       "twitter": {
         "username": "tesla",
         "url": "https://twitter.com/tesla",
-        "followers": 7161393
+        "followers": 7162857
       },
       "size": "10,001+ employees",
       "yearFounded": 2003,
@@ -83,7 +83,7 @@
       "twitter": {
         "username": "Waymo",
         "url": "https://twitter.com/Waymo",
-        "followers": 62643
+        "followers": 62644
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2009,
@@ -117,44 +117,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/uber.md",
-      "title": "Uber",
-      "excerpt": "Uber develops, markets, and operates a ride-sharing mobile application that allows consumers to submit a trip request.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/uber/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/uber/",
-      "type": "profile",
-      "name": "Uber",
-      "overview": "Uber develops, markets, and operates a ride-sharing mobile application that allows consumers to submit a trip request.",
-      "website": "https://www.uber.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/uber"
-      },
-      "twitter": {
-        "username": "Uber",
-        "url": "https://twitter.com/Uber",
-        "followers": 1048822
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Global"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ],
-      "heat": 206,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1045783102000230400/TPLLaqYR_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Uber",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/nvidia.md",
       "title": "NVIDIA",
       "excerpt": "NVIDIA’s invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined modern computer graphics, and revolutionized parallel computing. More recently, GPU deep learning ignited modern AI — the next era of computing — with the GPU acting as the brain of computers, robots, and self-driving cars that can perceive and understand the world. Today, NVIDIA is increasingly known as “the AI computing company.”",
@@ -174,7 +136,7 @@
       "twitter": {
         "username": "NvidiaAI",
         "url": "https://twitter.com/NvidiaAI",
-        "followers": 66592
+        "followers": 66604
       },
       "size": "10,001+ employees",
       "yearFounded": 1993,
@@ -234,7 +196,7 @@
       "twitter": {
         "username": "cruise",
         "url": "https://twitter.com/cruise",
-        "followers": 19194
+        "followers": 19201
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2013,
@@ -297,7 +259,7 @@
       "twitter": {
         "username": "zoox",
         "url": "https://twitter.com/zoox",
-        "followers": 16731
+        "followers": 16734
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2014,
@@ -355,7 +317,7 @@
       "twitter": {
         "username": "aurora_inno",
         "url": "https://twitter.com/aurora_inno",
-        "followers": 8524
+        "followers": 8527
       },
       "size": "201-500 employees",
       "yearFounded": 2016,
@@ -391,6 +353,44 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/uber.md",
+      "title": "Uber",
+      "excerpt": "Uber develops, markets, and operates a ride-sharing mobile application that allows consumers to submit a trip request.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/uber/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/uber/",
+      "type": "profile",
+      "name": "Uber",
+      "overview": "Uber develops, markets, and operates a ride-sharing mobile application that allows consumers to submit a trip request.",
+      "website": "https://www.uber.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/uber"
+      },
+      "twitter": {
+        "username": "Uber",
+        "url": "https://twitter.com/Uber",
+        "followers": 1048831
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Global"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "heat": 161,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1045783102000230400/TPLLaqYR_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Uber",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/argo.ai.md",
       "title": "Argo AI",
       "excerpt": "Argo AI is building self-driving technology to improve the way the world moves. Since we began in 2016, we’ve partnered with leading companies in the automotive sector to make vehicles safer, more affordable, convenient, and accessible for everyone -- regardless of age or ability to get behind the wheel.",
@@ -410,7 +410,7 @@
       "twitter": {
         "username": "argoai",
         "url": "https://twitter.com/argoai",
-        "followers": 3818
+        "followers": 3822
       },
       "size": "501-1,000 employees",
       "yearFounded": 2016,
@@ -578,7 +578,7 @@
       "twitter": {
         "username": "voyage",
         "url": "https://twitter.com/voyage",
-        "followers": 9621
+        "followers": 9624
       },
       "size": "51-200 employees",
       "yearFounded": 2017,
@@ -796,7 +796,7 @@
       "twitter": {
         "username": "Aptiv",
         "url": "https://twitter.com/Aptiv",
-        "followers": 17048
+        "followers": 17047
       },
       "yearFounded": 0,
       "locations": [
@@ -806,7 +806,7 @@
         "AI",
         "AI in Autos"
       ],
-      "heat": 92,
+      "heat": 89,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/937902359866257408/yU2l2KqH_400x400.jpg",
@@ -1001,7 +1001,7 @@
       "twitter": {
         "username": "NAVYA_Group",
         "url": "https://twitter.com/NAVYA_Group",
-        "followers": 8066
+        "followers": 8067
       },
       "size": "201-500 employees",
       "yearFounded": 2014,
@@ -1109,7 +1109,7 @@
       "twitter": {
         "username": "driveai_",
         "url": "https://twitter.com/driveai_",
-        "followers": 9086
+        "followers": 9083
       },
       "size": "51-200 employees",
       "yearFounded": 2015,
@@ -1272,7 +1272,7 @@
       "twitter": {
         "username": "CognitivePilot",
         "url": "https://twitter.com/CognitivePilot",
-        "followers": 1187
+        "followers": 1188
       },
       "yearFounded": 0,
       "locations": [
@@ -1372,7 +1372,7 @@
       "twitter": {
         "username": "May_Mobility",
         "url": "https://twitter.com/May_Mobility",
-        "followers": 2036
+        "followers": 2038
       },
       "size": "51-200 employees",
       "yearFounded": 2017,
@@ -1475,7 +1475,7 @@
       "twitter": {
         "username": "boulderai",
         "url": "https://www.twitter.com/boulderai",
-        "followers": 140
+        "followers": 139
       },
       "yearFounded": 0,
       "locations": [
