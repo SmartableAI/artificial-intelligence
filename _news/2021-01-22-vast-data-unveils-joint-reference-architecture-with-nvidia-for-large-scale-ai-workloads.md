@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "OEMs Join Nvidia-Certified Program – Systems Pre-tested for AI Workloads"
+    excerpt: "Inspur and Supermicro are among 11 systems makers engaged in an Nvidia certification program, announced this morning, designed to test hardware across a range of AI and data analytics workloads, including jobs that require multiple compute nodes and tasks that only need part of the power of one GPU."
+    publishedDateTime: 2021-01-26T15:26:00Z
+    webUrl: "https://insidehpc.com/2021/01/oems-join-nvidia-certified-program-systems-tested-for-ai-workloads/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 18
   - title: "VAST Data Unveils Joint Reference Architecture with NVIDIA Designed to Significantly Increase Storage Performance for Large-Scale AI Workloads"
     excerpt: "VAST Data, the storage company breaking decades-old tradeoffs, today announced a new reference architecture based on NVIDIA DGX™ A100 systems and VAST Data’s Universal Storage platform. This reference architecture is designed to significantly increase storage performance for AI use cases such as large-scale training of conversational AI models and petabyte-scale"
     publishedDateTime: 2021-01-22T13:27:43Z

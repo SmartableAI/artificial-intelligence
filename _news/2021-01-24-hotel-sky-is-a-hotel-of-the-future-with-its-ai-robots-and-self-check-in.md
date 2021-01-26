@@ -9,7 +9,7 @@ ampWebUrl: "https://www.iol.co.za/amp/travel/travel-news/hotel-sky-is-a-hotel-of
 cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/travel/travel-news/hotel-sky-is-a-hotel-of-the-future-with-its-ai-robots-and-self-check-in-96a54dac-534c-479e-926f-d8e40c565c12"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 651
     height: 366
     isCached: true
+
+related:
+  - title: "The progress and advancements of Artificial Intelligence and..."
+    excerpt: "The progress and advancements of Artificial Intelligence and Data Science in the field of finance is also tremendous. Financial institutions have long used artificial neural network systems to detect charges or claims outside of the norm,"
+    publishedDateTime: 2021-01-26T16:05:00Z
+    webUrl: "https://patch.com/california/woodlandhills/ep/1671767"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 39
+    images:
+      - url: "https://patch.com/img/cdn/assets/layout/patch_classified.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "908s3uQqQwN78BZU1u9mYv56JR856qzcc0ei9YisWhCeZteURx9/nsDOG6Psl4ivVHAsNwx+XLDJP5dlp98ZuRl4EG4g59YCy7wqLlcJAgkZkPPJnlKu5iNH9Qj5SOeXnMEOnkJoQcu7It4xvQfRWmaWRP52a2LzPs6Ofma9ufamPXMyomYJ7k/Sequ1K0rAsLzFlipTaLDkCpwqwnGqUz5j9bGvGQRP4StIz+LmiVnzAoFkMYOSd80Ndu0VllrTP+g6HRhs+KKrWM76mkSS/jW8mDFoNeEpulLQWghKS5vJ8DZZEX9SuLpFbourUJsMC612cUmPk5Klb6uPYR9iEnevySotbvkTpoJK6vdIy/M=;meiKVEgxet9cjhYrFBF/Gw=="
 ---

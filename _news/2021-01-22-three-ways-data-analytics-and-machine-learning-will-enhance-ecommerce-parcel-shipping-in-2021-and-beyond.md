@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itproportal.com/amp/features/three-ways-data-analytics-a
 cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/three-ways-data-analytics-and-machine-learning-will-enhance-ecommerce-parcel-shipping-in-2021-and-beyond/"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -27,29 +27,17 @@ images:
     isCached: true
 
 related:
-  - title: "Kyligence Launches Intelligent Data Cloud for Interactive Analytics at Massive Concurrency and Scale"
-    excerpt: "Kyligence, originator of Apache Kylin and developer of the AI-augmented analytics platform Kyligence Cloud, today announced the immediate availability of Kyligence Cloud 4, its new cloud-native distributed big data analytics platform."
-    publishedDateTime: 2021-01-22T06:14:00Z
-    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-north-america-environment-and-nature-software-industry-dae5db10cbc14e0f658111c0366875b7"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 9
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "TraQiQ makes big bet on Machine learning by acquiring Kringle, Leader in Loyalty, Rewards and Data analytics."
     excerpt: "Ajay Sikka, CEO of TraQiQ said “Bringing the Kringle product suite and team into the TraQiQ family will allow us to provide a seamless solution for the post COVID hyper-digital, Contactless economy by integrating Kringle’s mobile and web products for end-to-end digital commerce solutions”."
-    publishedDateTime: 2021-01-26T14:29:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2021/01/26/traqiq-makes-big-bet-on-machine-learning-by-acquiring-kringle-leader-in-loyalty"
+    publishedDateTime: 2021-01-26T15:04:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/traqiq-makes-big-bet-on-machine-learning-by-acquiring-kringle-leader-in-loyalty-rewards-and-data-analytics-1030004935"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/TraQiQ-makes-big-bet-on-Machine-learning-by-acquiring-Kringle-Leader-in-Loyalty-Rewards-and-Data-analytics-1030004935"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/TraQiQ-makes-big-bet-on-Machine-learning-by-acquiring-Kringle-Leader-in-Loyalty-Rewards-and-Data-analytics-1030004935"
     type: article
     provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 2
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 52
 
 secured: "0artyFhgkjGfaO0YSOsoSWiK2to2MoxoybfDzlHkuDtjdEH3HP+cUm3DzZvxsiixel4w8ZhEGk382/lAGu9bLCFcvSRyScwxZ6h7F5KZE4+4bDC9PRb44oLiRESfIoqf0qVDAB1CBp3eeFIzRh6VgaHAcI/STUd1BXlM0nulVVRuH3zjLXJjBxnXCDHWV0erQXBntTfrBC5lCId+lGUFCQawTid7PXGUTGjCQFyqbAAAhsOFL5VnzW4lQ+cALBJRD9JFA723IEtFEwPdbBZEH+DLpiW/NedIuQRp7VgPZu6KxvO1abkbGe8qaudYZ2k6GCl6TqIKu/uuGE7hawwhhN+ZR3zriSXTcCv4TzBUzLA=;nhYx1ARswKWRWtIAU4RIVg=="
 ---

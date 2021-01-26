@@ -25,6 +25,22 @@ images:
     height: 1600
     isCached: true
 
+related:
+  - title: "Combobulate 2.0 - Mosaic Learning Launches the Next Evolution in eLearning for the Post-Pandemic World"
+    excerpt: "Mosaic Learning, Inc. announced today the unveiling of the next evolution in eLearning platforms – Combobulate 2.0. The COVID-19 Pandemic"
+    publishedDateTime: 2021-01-26T15:19:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/combobulate-2-0---mosaic-learning-launches-the-next-evolution-in-elearning-for-the-post-pandemic-world-301215284.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 23
+    images:
+      - url: "https://mma.prnewswire.com/media/1426500/mosaic_Logo.jpg?p=facebook"
+        width: 735
+        height: 387
+        isCached: true
+
 secured: "Y0IjR6IByAHxyH8bkzx9KiyuLOjFhVsumMXyy0gX3y532dj+BAYJLPkdi109w9YjAqTi95BY3GAZhSd/Q3N7aVfBpEv/QE+/+6WtmX+bOI+eQ/yVmVMwPo7fbftvgCEbl7kyxrA2RqqqE1iCaf6p9/U5THtUjx4U6rMgM2sp199KnwRyg2WQvv/Ig+M0Vj6f7AqPsvtycyv5PSy+ep/f5CWk8oorCBgfljxewwQGcfGeNuDqcJbiqfRqEAuTcDqAPD97IQUfVLhwWci085MigtdGfDEvtyP+VR38CEjkTpTQzwdK1tG7TirLb8zEbX5/ZW3WvbuXmxuwdwbJN+ZlC+TJn2msPONanBqmkopG3e08+2NkaNnwwMz3crLXGtrGeU9skg9D5fPGfelyHCCjsD4gxq0p8OLJcFf8neeiYZcoX1Opx7klHtuDIZFAa+9ijjAe1eoZM4pej/tnrB4byNBierlep8p/z5gCDBsmvhA4OC8v5Nyr/d7fiPbklLoqFQIn4ghW6XsRMv2PFAXn4w==;SeHmNAzhZ0hzhTEbrcIRRw=="
 ---
 

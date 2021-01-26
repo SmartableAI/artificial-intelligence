@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/25/jetplays-ludo-ai-platform-acceler
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/25/jetplays-ludo-ai-platform-accelerates-game-concept-creation/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -30,6 +30,17 @@ images:
     isCached: true
 
 related:
+  - title: "Accern's No-Code AI Platform Now Available in AWS Marketplace"
+    excerpt: "Accern, a leading no-code, artificial intelligence (AI) company today announced that its no-code AI platform will now be available for subscription in AWS Marketplace. Amazon Web Services (AWS) customers can subscribe to Accern to rapidly build and deploy AI models and immediately gain insights on ESG behaviors and controversies,"
+    publishedDateTime: 2021-01-26T15:26:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/accern-s-no-code-ai-platform-now-available-in-aws-marketplace-1030005268"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/accern-s-no-code-ai-platform-now-available-in-aws-marketplace-1030005268"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/accern-s-no-code-ai-platform-now-available-in-aws-marketplace-1030005268"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 84
   - title: "New AI System Accelerates Speech Therapy"
     excerpt: "TikTalk, a new, artificial intelligence-based (AI) system can accelerate speech therapy with unparalleled lesson customization and innovative training for K-6-aged children using highly engaging video games to encourage more frequent home practice."
     publishedDateTime: 2021-01-23T18:33:00Z

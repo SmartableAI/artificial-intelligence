@@ -2,167 +2,38 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2020-08-31-elon-musk-unveils-fitbit-in-your-skull-brain-chip-demonstrates-on-pig.md",
-      "title": "Elon Musk unveils ‘Fitbit in your skull’ brain chip, demonstrates on pig",
-      "excerpt": "Musk said this could eventually help cure people with conditions like memory loss, hearing loss, paralysis, blindness, brain damage, depression and anxiety.",
+      "path": "_news/2020-11-20-arm-expands-access-to-endpoint-ai-for-iot-devices.md",
+      "title": "Arm expands access to endpoint AI for IoT devices",
+      "excerpt": "The rise of smartphones and the growing presence of IoT devices share one undeniable similarity, the fact that the Arm ecosystem is the driving force behind both. The chip designer is in a unique position to drive innovation and adoption of IoT due to the fact that Arm technology touches 70 percent of the world's population as 180bn Arm-based chips have been shipped since the company was founded 30 years ago.",
       "sourceUrl": null,
-      "webUrl": "https://kfor.com/news/elon-musk-unveils-fitbit-in-your-skull-brain-chip-demonstrates-on-pig/",
-      "originalUrl": "https://kfor.com/news/elon-musk-unveils-fitbit-in-your-skull-brain-chip-demonstrates-on-pig/",
+      "webUrl": "https://www.techradar.com/news/arm-wants-to-expand-access-to-endpoint-ai-in-iot-devices",
+      "originalUrl": "https://www.techradar.com/news/arm-wants-to-expand-access-to-endpoint-ai-in-iot-devices",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 109,
       "tags": null,
       "images": [
         {
-          "url": "https://kfor.com/wp-content/uploads/sites/3/2020/08/gertrude-pig.jpg",
-          "width": 716,
-          "height": 397,
+          "url": "https://cdn.mos.cms.futurecdn.net/4FQ3cUnt4ca6dvsktEttNT-1200-80.jpg",
+          "width": 600,
+          "height": 334,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
-      "ampWebUrl": "https://kfor.com/news/elon-musk-unveils-fitbit-in-your-skull-brain-chip-demonstrates-on-pig/amp/",
-      "cdnAmpWebUrl": "https://kfor-com.cdn.ampproject.org/c/s/kfor.com/news/elon-musk-unveils-fitbit-in-your-skull-brain-chip-demonstrates-on-pig/amp/",
-      "publishedDateTime": "2020-08-30T14:48:00-07:00",
+      "ampWebUrl": "https://www.techradar.com/amp/news/arm-wants-to-expand-access-to-endpoint-ai-in-iot-devices",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/arm-wants-to-expand-access-to-endpoint-ai-in-iot-devices",
+      "publishedDateTime": "2020-11-19T13:50:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Oklahoma's News",
-        "domain": "kfor.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-30-watch-elon-musks-ai-brain-chip-startup-neuralink-debut-its-massively-hyped-technology.md",
-      "title": "Watch Elon Musk's AI brain chip startup Neuralink debut its massively hyped technology",
-      "excerpt": "PGlmcmFtZSBzcmM9Ii8vd3d3LnlvdXR1YmUuY29tL2VtYmVkL0RWdm1nakJMNzR3ICIgc3R5bGU9IndpZHRoOjY1NnB4OyBoZWlnaHQ6IDM2OXB4OyIgZnJhbWVib3JkZXI9IjAiPjwvaWZyYW...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/watch-elon-musks-big-neuralink-announcement-2020-8-1029545413",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/watch-elon-musks-big-neuralink-announcement-2020-8-1029545413",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.markets.businessinsider.com/image/5f49d29e60bf1f002807959f-2400/Screen-Shot-2020-08-28-at-5.58.08-PM.png",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/watch-elon-musks-big-neuralink-announcement-2020-8-1029545413",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/watch-elon-musks-big-neuralink-announcement-2020-8-1029545413",
-      "publishedDateTime": "2020-08-29T17:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "TechRadar",
+        "domain": "techradar.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-tsmc-announces-its-first-3nm-ai-chip-customer-neither-apple-nor-huawei.md",
-      "title": "TSMC announces its first 3nm AI chip customer – neither Apple nor Huawei",
-      "excerpt": "At TSMC’s 26th Technical Symposium, TSMC officially confirmed that its 5nm and 6nm processes are already in mass production. In addition, the company also announced that",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizchina.com/2020/08/28/tsmc-announces-its-first-3nm-ai-chip-customer-neither-apple-nor-huawei/",
-      "originalUrl": "https://www.gizchina.com/2020/08/28/tsmc-announces-its-first-3nm-ai-chip-customer-neither-apple-nor-huawei/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizchina.com/wp-content/uploads/images/2020/08/colossus-b.jpg",
-          "width": 678,
-          "height": 381,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizchina.com/2020/08/28/tsmc-announces-its-first-3nm-ai-chip-customer-neither-apple-nor-huawei/amp/",
-      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2020/08/28/tsmc-announces-its-first-3nm-ai-chip-customer-neither-apple-nor-huawei/amp/",
-      "publishedDateTime": "2020-08-28T04:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GizChina",
-        "domain": "gizchina.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-qualcomm-backed-firm-releases-processor-as-ai-chip-race-heats-up.md",
-      "title": "Qualcomm-backed firm releases processor as AI chip race heats up",
-      "excerpt": "Kneron Inc, a semiconductor startup backed by venture capital arms of Qualcomm Inc and Alibaba Group Holding Ltd, on Thursday announced a new chip aimed at handling artificial intelligence functions on battery-powered devices.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-kneron-tech-idUSKBN25N23K",
-      "originalUrl": "https://www.reuters.com/article/us-kneron-tech-idUSKBN25N23K",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN25N23K",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN25N23K",
-      "publishedDateTime": "2020-08-27T12:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

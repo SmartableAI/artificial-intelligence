@@ -8,7 +8,7 @@ webUrl: "https://phys.org/news/2021-01-ways-artificial-intelligence-space-explor
 ampWebUrl: "https://phys.org/news/2021-01-ways-artificial-intelligence-space-exploration.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-01-ways-artificial-intelligence-space-exploration.amp"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2021/fivewaysarti.jpg"

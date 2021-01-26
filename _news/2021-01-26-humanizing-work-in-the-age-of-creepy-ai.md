@@ -46,20 +46,6 @@ related:
         width: 970
         height: 545
         isCached: true
-  - title: "Trends that Will Define Workplace Learning in 2021"
-    excerpt: "Udemy highlights some key trends on how workplace learning took shape around the globe and what it means for your organization in 2021."
-    publishedDateTime: 2021-01-22T00:19:00Z
-    webUrl: "https://www.cxotoday.com/ai/trends-that-will-define-workplace-learning-in-2021/"
-    type: article
-    provider:
-      name: CXO Today
-      domain: cxotoday.com
-    quality: 24
-    images:
-      - url: "https://www.cxotoday.com/wp-content/uploads/2020/09/leadership-skills.jpg"
-        width: 600
-        height: 450
-        isCached: true
 
 secured: "SM6q0ABI1x+RvvHACmmP91Vt1UKc+GRURpIh7RyD0a9H1uiZIvTo+AIQ2+czfgYR54Awq6xsEIHdmAcvYg0mZb97gQY7lHqV80avgGvj8xw/UNqYrBR6nS2YhLPCLHtSLm1ERig9fFXlOR42ZMDLN8vn+wRDoKnQNus6Iko6if9XbQ9yGdQVkY9qwrVMU8d8Tl4Ws6lCue8tRS4uJJ1u7OROH8LFM4s+d//P1z9om1BSQjUH6MFbISVrYrAPzamnVCj059p/T4THl1BpujGd7MX9LoOC6QoGZIt2BnUMW8hcaMuS2xqJKzn/XZkFwdCkjaCIceuuZEv76csqn8DXDsZ0nzFT+NHFwMYJycgS14z4b6Ws3OpfNV91seySU0xvdWM7bBCjG7JW1v7BNhwxoEzR8kg5gY0CAqnWPSJFWxaUhnSYXe58Izyt2XwDkZP3rdccJBWIrJ6p0Y7N8rK9+drtSZxm7+sgsWy5DCT5gWV0ioQlYfL4Kbc51Ho7cR4uV2GcA3G7rsDbu2Z0GA46qw==;hj2GkaIQ+rMcpoIkhvxetw=="
 ---

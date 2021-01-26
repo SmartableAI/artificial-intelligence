@@ -128,20 +128,6 @@ related:
       name: Windows
       domain: compsmag.com
     quality: 35
-  - title: "Proposed ban on law enforcement facial recognition technology advances in Minneapolis"
-    excerpt: "Minneapolis could soon join a small but growing number of American cities that have banned most uses of facial recognition technology by its police and other municipal departments. The proposal, which has been quietly discussed for months among a coalition of progressive groups including the American Civil Liberties Union,"
-    publishedDateTime: 2021-01-21T23:44:00Z
-    webUrl: "https://www.startribune.com/proposed-ban-on-law-enforcement-facial-recognition-technology-advances-in-minneapolis/600013504/"
-    type: article
-    provider:
-      name: StarTribune
-      domain: startribune.com
-    quality: 32
-    images:
-      - url: "https://chorus.stimg.co/22251394/ows_89490f87_9bba_4404_b792_a88e9b90abaa.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Proposed ban on use of facial recognition technology by police advances in Minneapolis"
     excerpt: "Minneapolis could soon join a small but growing number of American cities that have banned most uses of facial recognition technology by its police and other municipal departments. The proposal, which has been quietly discussed for months among a coalition of progressive groups including the American Civil Liberties Union,"
     publishedDateTime: 2021-01-22T02:14:00Z

@@ -2,6 +2,264 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-27-to-unleash-the-real-value-of-artificial-intelligence-let-go-of-these-common-myths.md",
+      "title": "To Unleash The Real Value Of Artificial Intelligence, Let Go Of These Common Myths",
+      "excerpt": "AI can solve a myriad of business challenges—from managing and automating IT infrastructure to getting new insights about customers and improving customer service.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sap/2021/01/26/to-spark-joy-with-artificial-intelligence-let-go-of-these-misconceptions/",
+      "originalUrl": "https://www.forbes.com/sites/sap/2021/01/26/to-spark-joy-with-artificial-intelligence-let-go-of-these-misconceptions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600eed835aae59f8c507eb45%2F0x0.jpg",
+          "width": 1199,
+          "height": 608,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sap/2021/01/26/to-spark-joy-with-artificial-intelligence-let-go-of-these-misconceptions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2021/01/26/to-spark-joy-with-artificial-intelligence-let-go-of-these-misconceptions/amp/",
+      "publishedDateTime": "2021-01-26T08:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-looking-for-free-cloud-training-check-out-the-aws-dev-hour-on-twitch-and-learn-to-build-an-app.md",
+      "title": "Looking for free cloud training? Check out the AWS Dev Hour on Twitch and learn to build an app",
+      "excerpt": "Expert trainers will build a full stack application in the AWS cloud using the AWS Free Tier during the new eight-week show.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/looking-for-free-cloud-training-check-out-the-aws-dev-hour-on-twitch-and-learn-to-build-an-app/",
+      "originalUrl": "https://www.techrepublic.com/article/looking-for-free-cloud-training-check-out-the-aws-dev-hour-on-twitch-and-learn-to-build-an-app/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/05/21/26d99b4f-7045-42a2-9d05-72827c4c35a2/resize/1200x/5295fe73cfe208e7c1d271b4bc1a790d/istock-1209016407.jpg",
+          "width": 1200,
+          "height": 815,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/looking-for-free-cloud-training-check-out-the-aws-dev-hour-on-twitch-and-learn-to-build-an-app/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/looking-for-free-cloud-training-check-out-the-aws-dev-hour-on-twitch-and-learn-to-build-an-app/",
+      "publishedDateTime": "2021-01-26T08:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-ex-uber-team-raises-6m-seed-for-geospatial-analytics-platform-unfoldedai.md",
+      "title": "Ex-Uber team raises $6M seed for geospatial analytics platform Unfolded.ai",
+      "excerpt": "Years ago, Uber had a problem. With millions of users and tens of thousands of drivers scattered across a widening expanse of the globe, the fast-growing mobility startup wanted to display more accurate maps to users about where their ride was coming from and where it was intending to go to reach",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/01/26/ex-uber-team-raises-6m-seed-for-geospatial-analytics-platform-unfolded-ai/",
+      "originalUrl": "https://techcrunch.com/2021/01/26/ex-uber-team-raises-6m-seed-for-geospatial-analytics-platform-unfolded-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/01/founders.png?w=680",
+          "width": 680,
+          "height": 381,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/01/26/ex-uber-team-raises-6m-seed-for-geospatial-analytics-platform-unfolded-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/26/ex-uber-team-raises-6m-seed-for-geospatial-analytics-platform-unfolded-ai/amp/",
+      "publishedDateTime": "2021-01-26T07:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-humans-wouldnt-be-able-to-control-a-superintelligent-ai-according-to-a-new-study.md",
+      "title": "Humans wouldn't be able to control a superintelligent AI, according to a new study",
+      "excerpt": "Not only does the research suggest humans wouldn't be able to control machines — we may not even know when superintelligent machines have arrived.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/mankind-will-not-be-able-to-control-artificial-intelligence-according-to-study",
+      "originalUrl": "https://www.businessinsider.com/mankind-will-not-be-able-to-control-artificial-intelligence-according-to-study",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/601024131d2df20018b70d21?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/mankind-will-not-be-able-to-control-artificial-intelligence-according-to-study?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mankind-will-not-be-able-to-control-artificial-intelligence-according-to-study?amp",
+      "publishedDateTime": "2021-01-26T07:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-artificial-intelligence-will-define-googles-future-for-now-its-a-management-challenge.md",
+      "title": "Artificial Intelligence Will Define Google’s Future. For Now, It’s a Management Challenge.",
+      "excerpt": "Google’s parent, Alphabet, has waded through one controversy after another involving its top researchers and executives in the field over the past 18 months.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/artificial-intelligence-will-define-googles-future-for-now-its-a-management-challenge-11611676945",
+      "originalUrl": "https://www.wsj.com/articles/artificial-intelligence-will-define-googles-future-for-now-its-a-management-challenge-11611676945",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-290370/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/artificial-intelligence-will-define-googles-future-for-now-its-a-management-challenge-11611676945",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/artificial-intelligence-will-define-googles-future-for-now-its-a-management-challenge-11611676945",
+      "publishedDateTime": "2021-01-26T07:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-sales-startup-insentai-raises-2-million-to-expand-its-data-strategy-with-automated-chatbots.md",
       "title": "Sales startup Insent.ai raises $2 million to expand its data strategy with automated chatbots",
       "excerpt": "B2B enterprise sales platform Insent.ai has raised $2 million to expand its data visibility and automated chatbot integrations.",
@@ -10,7 +268,7 @@
       "originalUrl": "https://venturebeat.com/2021/01/26/sales-startup-insent-ai-raises-2-million-to-expand-its-data-strategy-with-automated-chatbots/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 123,
+      "heat": 133,
       "tags": null,
       "images": [
         {
@@ -106,6 +364,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-26-voice-recognition-features-return-to-tivo-through-a-partnership-with-atlanta-based-pindrop.md",
+      "title": "Voice recognition features return to TiVo through a partnership with Atlanta-based Pindrop",
+      "excerpt": "TiVo devices are getting new voice recognition capabilities thanks to a partnership with the Atlanta-based startup Pindrop, which is now offering its voice recognition and personalization technologies for consumer devices.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/01/26/voice-recognition-features-return-to-tivo-through-a-partnership-with-atlanta-based-pindrop/",
+      "originalUrl": "https://techcrunch.com/2021/01/26/voice-recognition-features-return-to-tivo-through-a-partnership-with-atlanta-based-pindrop/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/10/introducing-tivo-plus.png?w=1024",
+          "width": 1024,
+          "height": 571,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/01/26/voice-recognition-features-return-to-tivo-through-a-partnership-with-atlanta-based-pindrop/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/26/voice-recognition-features-return-to-tivo-through-a-partnership-with-atlanta-based-pindrop/amp/",
+      "publishedDateTime": "2021-01-26T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-container-approach-to-boosting-gpu-utilization-secures-bigger-backing.md",
       "title": "Container Approach to Boosting GPU Utilization Secures Bigger Backing",
       "excerpt": "Getting peak utilization out of GPU farms in the age of AI will be the unending quest. From being able to partition a GPU into small fractions to scaling",
@@ -157,7 +467,7 @@
       "originalUrl": "https://techcrunch.com/2021/01/26/runai-raises-30m-series-b-for-its-ai-compute-platform/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -196,7 +506,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -562,6 +873,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-26-aeva-to-supply-lidar-sensors-to-self-driving-truck-firm-tusimple.md",
+      "title": "Aeva to supply lidar sensors to self-driving truck firm TuSimple",
+      "excerpt": "Aeva Inc, a firm founded by former Apple Inc engineers to supply a key self-driving car sensor, said on Tuesday it had reached a deal to supply the sensors for self-driving heavy duty trucks being developed by TuSimple.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/aeva-tusimple-idUSL1N2K102G",
+      "originalUrl": "https://www.reuters.com/article/aeva-tusimple-idUSL1N2K102G",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-26T04:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-amazon-is-adding-3000-jobs-in-boston-including-in-ai-finance-and-hr-as-it-continues-its-pandemic-hiring-spree.md",
       "title": "Amazon is adding 3,000 jobs in Boston, including in AI, finance, and HR, as it continues its pandemic hiring spree",
       "excerpt": "Amazon is adding the new roles at its Boston Tech Hub and a 17-story office building in Seaport it's just leased.",
@@ -675,7 +1038,7 @@
       "originalUrl": "https://www.technologynetworks.com/neuroscience/news/how-facial-recognition-algorithms-can-cut-out-bias-344899",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -706,49 +1069,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-south-korea-ai-to-recreate-deceased-singers-voice-for-tv-show.md",
-      "title": "South Korea: AI To Recreate Deceased Singer's Voice For TV Show",
-      "excerpt": "National broadcaster SBS plans to use AI to recreate the voice of late singer Kim Kwang-seok, but concerns have been raised over the ethics of using this technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/south-korea-ai-recreate-deceased-singers-voice-tv-show-3130674",
-      "originalUrl": "https://www.ibtimes.com/south-korea-ai-recreate-deceased-singers-voice-tv-show-3130674",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/07/27/artificial-intelligence-23320041920.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/south-korea-ai-recreate-deceased-singers-voice-tv-show-3130674?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/south-korea-ai-recreate-deceased-singers-voice-tv-show-3130674?amp=1",
-      "publishedDateTime": "2021-01-26T03:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     },
@@ -857,7 +1177,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/kao-data-to-host-instadeep-s-hpc-and-ai-supercomputer-expanding-r-d-capabilities-1030002896",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 94,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -940,298 +1260,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-ai-helps-this-koda-social-robot-dog-sense-human-emotions.md",
-      "title": "AI helps this Koda social robot dog sense human emotions",
-      "excerpt": "This AI robot dog not only climbs stairs but also interacts socially with its human owners. Man's best friend has always been the domesticated dog, but mutts around the world could end up with some serious competition in the form of Koda's AI-powered robot dog .",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/ai-helps-this-koda-social-robot-dog-sense-human-emotions/",
-      "originalUrl": "https://www.cnet.com/news/ai-helps-this-koda-social-robot-dog-sense-human-emotions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/o1vlAtPkFpN6VpWRB4Eld9_lcNw=/2021/01/25/66561660-f282-4976-b7e2-aaa912719597/kodarobot1promo.jpg",
-          "width": 1050,
-          "height": 591,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-helps-this-koda-social-robot-dog-sense-human-emotions/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-helps-this-koda-social-robot-dog-sense-human-emotions/",
-      "publishedDateTime": "2021-01-25T18:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-controversial-google-investigation-centers-on-ai-ethicist-data-breach.md",
-      "title": "Controversial Google Investigation Centers On AI Ethicist Data Breach",
-      "excerpt": "Google has now officially launched an investigation into AI ethicist Margaret Mitchell, reports indicate. The investigation itself seems reasonably",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidheadlines.com/2021/01/google-investigation-ai-ethicist-controversial.html",
-      "originalUrl": "https://www.androidheadlines.com/2021/01/google-investigation-ai-ethicist-controversial.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidheadlines.com/wp-content/uploads/2019/04/Google-Pixel-Event-Logo-2017-AH-4-AH-2019.jpg",
-          "width": 1600,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidheadlines.com/2021/01/google-investigation-ai-ethicist-controversial.html/amp",
-      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/01/google-investigation-ai-ethicist-controversial.html/amp",
-      "publishedDateTime": "2021-01-25T14:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android",
-        "domain": "androidheadlines.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-how-ai-can-make-the-world-more-fair-for-gifted-kids.md",
-      "title": "How AI can make the world more fair for ‘gifted’ kids",
-      "excerpt": "A team of researchers from Las Vegas recently developed an AI model capable of judging a human pianist’s skill level. On the surface, it might not sound like the kind of breakthrough research that could change the world overnight.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/01/25/how-ai-can-make-the-world-more-fair-for-gifted-kids/",
-      "originalUrl": "https://thenextweb.com/neural/2021/01/25/how-ai-can-make-the-world-more-fair-for-gifted-kids/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/06/vintage-robot-796x398.jpg",
-          "width": 796,
-          "height": 398,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/01/25/how-ai-can-make-the-world-more-fair-for-gifted-kids/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/25/how-ai-can-make-the-world-more-fair-for-gifted-kids/amp/",
-      "publishedDateTime": "2021-01-25T14:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-governance-companies-mature-in-their-use-of-ai-know-that-it-needs-guardrails.md",
-      "title": "Governance: Companies mature in their use of AI know that it needs guardrails",
-      "excerpt": "Quality governance ensures responsible data models and AI execution, as well as helps the data models stay true to the business objectives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/governance-companies-mature-in-their-use-of-ai-know-that-it-needs-guardrails/",
-      "originalUrl": "https://www.techrepublic.com/article/governance-companies-mature-in-their-use-of-ai-know-that-it-needs-guardrails/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/06/12/8e1d6f91-444f-48f0-9ca3-63f372177fca/resize/1200x/575c039bb49d89ee4e7c9a4c55fc6480/istock-1216236910.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/governance-companies-mature-in-their-use-of-ai-know-that-it-needs-guardrails/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/governance-companies-mature-in-their-use-of-ai-know-that-it-needs-guardrails/",
-      "publishedDateTime": "2021-01-25T13:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-researchers-propose-leaf-a-frontend-for-developing-ai-classification-algorithms.md",
-      "title": "Researchers propose LEAF, a frontend for developing AI classification algorithms",
-      "excerpt": "Researchers at Google propose LEAF, a frontend that provides superior audio classification results compared with previous techniques.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/25/researchers-propose-leaf-a-frontend-for-developing-ai-classification-algorithms/",
-      "originalUrl": "https://venturebeat.com/2021/01/25/researchers-propose-leaf-a-frontend-for-developing-ai-classification-algorithms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/amazon-echo-dot-clock.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/25/researchers-propose-leaf-a-frontend-for-developing-ai-classification-algorithms/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/25/researchers-propose-leaf-a-frontend-for-developing-ai-classification-algorithms/amp/",
-      "publishedDateTime": "2021-01-25T13:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-natural-language-processing-market-is-booming-worldwide-with-ibm-microsoft-google-amazon-web-services.md",
-      "title": "Natural Language Processing Market is Booming Worldwide with IBM, Microsoft, Google, Amazon Web Services",
-      "excerpt": "A new business intelligence report released by Advance Market Analytics with title Global Natural Language Processing Market Insights Forecast to 2025 This report provides a detailed overview of key factors in the Global Natural Language Processing Market and factors such",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2231045/natural-language-processing-market-is-booming-worldwide-with",
-      "originalUrl": "https://www.openpr.com/news/2231045/natural-language-processing-market-is-booming-worldwide-with",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/1/U125333671_g.jpg",
-          "width": 800,
-          "height": 425,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2231045/natural-language-processing-market-is-booming-worldwide-with",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2231045/natural-language-processing-market-is-booming-worldwide-with",
-      "publishedDateTime": "2021-01-25T12:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AWS AI",
-        "Microsoft AI"
       ]
     }
   ],

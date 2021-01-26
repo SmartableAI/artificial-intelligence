@@ -37,6 +37,22 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Amnesty International wants to map facial recognition cameras so you can avoid them"
+    excerpt: "Several groups have launched a 'Ban the Scan' campaign to halt the use of facial recognition tech by New York's government."
+    publishedDateTime: 2021-01-26T16:29:00Z
+    webUrl: "https://www.dailydot.com/debug/facial-recognition-ban-the-scan-new-york-campaign/"
+    ampWebUrl: "https://www.dailydot.com/debug/facial-recognition-ban-the-scan-new-york-campaign/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facial-recognition-ban-the-scan-new-york-campaign/?amp"
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 53
+    images:
+      - url: "https://www.dailydot.com/wp-content/uploads/2021/01/Ban-the-Scan-Facial-Recognition-Campaign-New-York.jpg"
+        width: 5478
+        height: 2739
+        isCached: true
   - title: "New advances in the detection of bias in face recognition algorithms"
     excerpt: "A team from the Computer Vision Center (CVC) and the University of Barcelona has published the results of a study that evaluates the accuracy and bias in gender and skin colour of automatic face recognition algorithms tested with real world data."
     publishedDateTime: 2021-01-25T15:39:00Z

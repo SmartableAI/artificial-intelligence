@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/article/aeva-tusimple-idUSL1N2K102G"
 webUrl: "https://www.reuters.com/article/aeva-tusimple-idUSL1N2K102G"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Reuters
@@ -29,6 +29,17 @@ images:
     isCached: true
 
 related:
+  - title: "Aeva to supply lidar sensors to self-driving truck firm TuSimple"
+    excerpt: "Aeva Inc, a firm founded by former Apple Inc engineers to supply a key self-driving car sensor, said on Tuesday it had reached a deal to supply the sensors for self-driving heavy duty trucks being developed by TuSimple."
+    publishedDateTime: 2021-01-26T17:00:00Z
+    webUrl: "https://www.reuters.com/article/aeva-tusimple/aeva-to-supply-lidar-sensors-to-self-driving-truck-firm-tusimple-idUSL1N2K102G"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2K102G"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2K102G"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 54
   - title: "Aeva to supply lidar sensors for TuSimple's self-driving trucks"
     excerpt: "Aeva Inc, a company founded by former Apple Inc. engineers to supply a key self-driving car sensor, said Tuesday it had reached a deal to supply the sensors for self-driving heavy duty trucks being developed by TuSimple."
     publishedDateTime: 2021-01-26T12:33:00Z

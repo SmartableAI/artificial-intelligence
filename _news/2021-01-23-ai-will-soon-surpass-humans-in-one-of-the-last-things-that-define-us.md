@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/ai-is-on-the-verge-of-mastering-t
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/ai-is-on-the-verge-of-mastering-the-creative-arts"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600ee93ba7c94cbdcd79d59b%2F0x0.jpg"
         width: 1200
         height: 801
-        isCached: true
-  - title: "Trends that Will Define Workplace Learning in 2021"
-    excerpt: "Udemy highlights some key trends on how workplace learning took shape around the globe and what it means for your organization in 2021."
-    publishedDateTime: 2021-01-22T00:19:00Z
-    webUrl: "https://www.cxotoday.com/ai/trends-that-will-define-workplace-learning-in-2021/"
-    type: article
-    provider:
-      name: CXO Today
-      domain: cxotoday.com
-    quality: 24
-    images:
-      - url: "https://www.cxotoday.com/wp-content/uploads/2020/09/leadership-skills.jpg"
-        width: 600
-        height: 450
         isCached: true
 
 secured: "OtpMae3PKDKMLdUG48NTYIKpH16nlhJXZ2PQT9u6z4a5+CNBR0aRgJI6LMp1cefZaX3Qkb/OBF62LeMHUIUE6KJ48dJkLmMI9xk/DaH0EtnEDYQlNE/NF0J1DuubISYQKtwy/U6+chmMt5Knyc2cYeJbHIRnR9l7cc8yOxa8CMVWp0lDmPIlGAIOlQSG4WYyiqIhhsPru+P/8DXsOwcSB6XJceWCOwx2ZnRTveyR83jT5zA8ItbOcEBBYe9sCQF/V9ffdVjjgMvXqwgPkPYKx1OhpWqjJGp5V25JeO6XEOFP+d8lptijJr7RL7/iU5rQsJvM+AIBO4ufvePdzFAskArYG/rA46RsEk/PyLpDenw=;1eESzQQP3c5cQYSIDA68aw=="

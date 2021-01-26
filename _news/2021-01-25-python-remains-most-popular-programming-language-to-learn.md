@@ -3,10 +3,10 @@ category: news
 title: "Python remains most popular programming language to learn"
 excerpt: "Though Python may be tops, interest is also growing in other languages, including JavaScript, C, and C++, says O'Reilly."
 publishedDateTime: 2021-01-25T15:56:00Z
-originalUrl: "https://www.techrepublic.com/article/python-remains-most-popular-programming-language-to-learn/"
-webUrl: "https://www.techrepublic.com/article/python-remains-most-popular-programming-language-to-learn/"
-ampWebUrl: "https://www.techrepublic.com/google-amp/article/python-remains-most-popular-programming-language-to-learn/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/python-remains-most-popular-programming-language-to-learn/"
+originalUrl: "https://www.techrepublic.com/index.php/article/python-remains-most-popular-programming-language-to-learn/"
+webUrl: "https://www.techrepublic.com/index.php/article/python-remains-most-popular-programming-language-to-learn/"
+ampWebUrl: "https://www.techrepublic.com/index.php/google-amp/article/python-remains-most-popular-programming-language-to-learn/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/python-remains-most-popular-programming-language-to-learn/"
 type: article
 quality: 89
 heat: 99
@@ -46,6 +46,6 @@ related:
         height: 500
         isCached: true
 
-secured: "GqHtszjOUATJVWOp2l6a8ISNpOfKobeBv2ygFk0Zg3g6fQ7UD4/dgnwxA9+Hvha/zUUYD2qstMd3f+YBzf8yRpPvRbssALmz1APmTW6Du4hKHDeeKuM6UQwtueZCnHD4GoM0mtZouP0kv8VvcRmWYiBfO3VQx60oXqMaurwRpJM5c+HWAzm/ITkSr+g7ou0VaxNYV/v6KNHnumi9OuIeSTlmuItdBBLSGMTZ+JGwM06RKve1EME1tqqAS/dop5pdlLf6Y70WcFk9ML9CHUjlbb/JFp9raNWFc0CDNuzW9xMxHRupGlIN1EXTU95N2wC9xO6mSlQx9QkFRe0a2YNB6LwC3V6cMxDygMVsRl7HRFs=;9fy4LNNpsGH7iVLRHeJKNw=="
+secured: "HUTwXtTCaRWgWa1Hmo6FSz1PXqjPInzCcNSDXza1ZdVaZRg742RupYmiDwJwba1LndADy9niuRui7MfLJ4nOc1V6uX98REu70iQS6gBSf4cKHW+/tiA1bfHxpzIwKSCtGo87uGEX8e8iotHx9hY5/jCSOCK6VcGsbO2rpxv0Cy/UC5EE8J5a3CuCOes+yDldteeRb9/9VV4LbkLJGKHNMmNGR4JEnnRlILiG1SMNrmc9tqz1f8c+/+czfimXedfrV6lL9/3m8+MTwCfGjdAiTvUxT28sa9p2unw2k57Nniob5PgIZ9LnfJI+hIWT4uN1zI4mvWYopuqzJi5FWTpn+M5jeugh1ocPsZqUu1Jka0Q=;9M7qmNMpIq0Vx3Wp44UUhw=="
 ---
 

@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Sales startup Insent.ai raises $2 million to expand its data strategy with automated chatbots – Jaweb"
+    excerpt: "Insent.ai, which offers a business-to-business enterprise sales platform, has raised $2 million from Emergent Ventures in a seed-level funding round. Insent plans to use the funds to expand its data visibility and automated chatbot integrations."
+    publishedDateTime: 2021-01-26T15:10:00Z
+    webUrl: "https://elmoudjaweb.com/sales-startup-insent-ai-raises-2-million-to-expand-its-data-strategy-with-automated-chatbots-jaweb/"
+    ampWebUrl: "https://elmoudjaweb.com/sales-startup-insent-ai-raises-2-million-to-expand-its-data-strategy-with-automated-chatbots-jaweb/?amp"
+    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/sales-startup-insent-ai-raises-2-million-to-expand-its-data-strategy-with-automated-chatbots-jaweb/?amp"
+    type: article
+    provider:
+      name: Elmoudjaweb
+      domain: elmoudjaweb.com
+    quality: 59
+    images:
+      - url: "https://elmoudjaweb.com/wp-content/uploads/2021/01/Sales-startup-Insent.ai-raises-2-million-to-expand-its-data.jpg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Best Languages To Build AI Chatbot In 2021"
     excerpt: "Here In this blog we provide the list of most popular languages to build AI Chatbot in 2021. Before ,General Information"
     publishedDateTime: 2021-01-26T11:12:00Z
