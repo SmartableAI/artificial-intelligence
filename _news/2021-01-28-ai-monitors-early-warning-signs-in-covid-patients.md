@@ -1,0 +1,66 @@
+---
+category: news
+title: "AI Monitors Early Warning Signs in COVID Patients"
+excerpt: "The University of Virginia is utilizing an artificial intelligence system called 'CoMET' to monitor COVID19 patients."
+publishedDateTime: 2021-01-27T22:01:00Z
+originalUrl: "https://www.techzone360.com/topics/techzone/articles/2021/01/27/447827-ai-monitors-early-warning-signs-covid-patients.htm"
+webUrl: "https://www.techzone360.com/topics/techzone/articles/2021/01/27/447827-ai-monitors-early-warning-signs-covid-patients.htm"
+ampWebUrl: "http://www.techzone360.com/topics/techzone/articles/2021/01/27/447827-ai-monitors-early-warning-signs-covid-patients.htm/amp"
+cdnAmpWebUrl: "https://www-techzone360-com.cdn.ampproject.org/c/www.techzone360.com/topics/techzone/articles/2021/01/27/447827-ai-monitors-early-warning-signs-covid-patients.htm/amp"
+type: article
+quality: 39
+heat: -1
+published: false
+
+provider:
+  name: Tech Zone 360
+  domain: techzone360.com
+
+topics:
+  - AI in Healthcare
+  - AI
+
+related:
+  - title: "We Helped Greece Build an AI System to Make Covid-19 Testing More Efficient. Here's What We Learned."
+    excerpt: "In addition to travel and tourism, we believe AI-driven systems like Eva can help schools, workplaces, local governments, and other institutions with limited resources better manage their Covid-19 restrictions and testing policies. If a university ..."
+    publishedDateTime: 2021-01-27T16:30:00Z
+    webUrl: "https://www.entrepreneur.com/article/363706"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/363706"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/363706"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 72
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1611603565-GettyImages-148740649.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Engineering and artificial intelligence combine to safeguard COVID-19 patients"
+    excerpt: "Princeton engineers applied artificial intelligence to the task of monitoring and adjusting ventilators for COVID-19 patients, with the goal of easing the burden on medical workers and allowing ventilators to be deployed in areas with staffing shortages."
+    publishedDateTime: 2021-01-26T15:31:00Z
+    webUrl: "https://www.princeton.edu/news/2021/01/26/engineering-and-artificial-intelligence-combine-safeguard-covid-19-patients"
+    type: article
+    provider:
+      name: Princeton University
+      domain: princeton.edu
+    quality: 33
+    images:
+      - url: "https://www.princeton.edu/sites/default/files/styles/scale_1440/public/images/2021/01/TomZajdel090820_0017-ventilator-16X9-for-web.jpg?itok=zUiFQePT"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "Icovid’s AI COVID-10 lung scan goes viral in Europe"
+    excerpt: "Belgium’s Icovid initiative, which looks for ways to utilize AI to support radiologists in the assessment of CT images of the lungs of Covid-19 patients, is getting a lot of attention as it spreads across Europe."
+    publishedDateTime: 2021-01-27T13:23:00Z
+    webUrl: "https://bits-chips.nl/artikel/icovids-ai-covid-10-lung-scan-goes-viral-in-europe/"
+    type: article
+    provider:
+      name: Bits&Chips
+      domain: bits-chips.nl
+    quality: 19
+
+secured: "MPpBiB6Njnskkb702D57Q1YIxTCNJeS2b4LxyfoZwGkG11A/u+oBCtisLKQ8JKKB35d2n2wSjsGWyGRHIN0coG7Y8oEeUKw9SioiXoG/EKfXE66xU6TNK4S+K6lhiNu7hfjB7nSZnwp11cEbz8at3zv8EI1Zoy6HwtF60StkrZ/aCzdXs06AscjQIlxzimMoiB/MHGM2tCByjZxj1ymNhnxXsHa4TEbupah31u+Nn2OMLIWEc9TeRFEEuecOOzSgFcQXq1XBTdvqbaMW+TPbg2UEJ9T8OddKbE1jCCV4PM4tFKL7z9uyx3WGiMuD/Kxu2LD24XlApr+nQzfNy4QoHo3jALMBwrQvzgd7ab01zB9PbCzMEYwbXdQ19p//FETCskw+ORHqQkh+c6MqP1S3RtpaVtLSG2qkxxLDdON4BT/VCgESa26FbWUgQymLlbSgEd2FtVmgC9llQNfNVHVwYSYRhkRnntADmBLf7/QVAEez0/0j3rxZKn6dgzxe0ZcX8F8ITs/cg3oVDXGkRUTz0g==;ks4DIp+hASMCpkOWDhjOvA=="
+---
+

@@ -130,6 +130,20 @@ related:
       name: Windows
       domain: compsmag.com
     quality: 42
+  - title: "buyMyplace reimagines real estate with Microsoft"
+    excerpt: "Real estate disruptor, buymyplace, is launching a fully automated version of its platform that empowers Australian property owners to sell their property privately, putting them in charge of the sale of their home from go-to-whoa and cuts out the middle man."
+    publishedDateTime: 2021-01-27T21:35:00Z
+    webUrl: "https://news.microsoft.com/en-au/features/buymyplace-reimagines-real-estate-with-microsoft/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 41
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/66/2021/01/buyMyPlace-Banner-1024x373.jpg"
+        width: 1024
+        height: 373
+        isCached: true
   - title: "Microsoft to integrate Teams across SAP solutions"
     excerpt: "Enterprise application software provider SAP and Microsoft have announced to integrate video conference and collaboration platform Teams with SAPs intelligent suite of solutions. The companies also expanded an existing partnership to accelerate the adoption of SAP S/4HANA on Microsoft Azure."
     publishedDateTime: 2021-01-24T05:49:00Z

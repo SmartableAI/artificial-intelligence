@@ -24,35 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "A scary proposal to use facial recognition and AI by an Indian state has experts fuming"
-    excerpt: "The Lucknow police are installing cameras with facial recognition technology, powered by artificial intelligence (AI), in prominent harassment hotspots. The cameras will gauge whether a woman is in distress based on her facial expression and send an alert to the police."
-    publishedDateTime: 2021-01-23T11:25:00Z
-    webUrl: "https://www.businessinsider.in/news/a-scary-proposal-to-use-facial-recognition-and-ai-by-an-indian-state-has-experts-fuming/articleshow/80421935.cms"
-    ampWebUrl: "https://www.businessinsider.in/news/a-scary-proposal-to-use-facial-recognition-and-ai-by-an-indian-state-has-experts-fuming/amp_articleshow/80421935.cms"
-    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/news/a-scary-proposal-to-use-facial-recognition-and-ai-by-an-indian-state-has-experts-fuming/amp_articleshow/80421935.cms"
+  - title: "Artificial Intelligence Is India’s Solution to Fix Data Gaps"
+    excerpt: "India is turning from man to machines to improve the quality and speed of its economic data, which has been criticized as inadequate, delayed or even confusing due to sharp and unexpected revisions."
+    publishedDateTime: 2021-01-27T22:02:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-01-27/artificial-intelligence-is-india-s-solution-to-fix-data-gaps"
     type: article
     provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 66
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 67
     images:
-      - url: "https://www.businessinsider.in/photo/80422279/Master.jpg"
-        width: 500
-        height: 339
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKgMwJ4Jg9dM/v0/1200x800.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Privacy fears as Indian city of Lucknow readies facial recognition to spot harassed women"
-    excerpt: "Artificial Intelligence is not a silver bullet, and no amount of 'fancy' tech can fix societal problems,\" Vidushi Marda, a researcher at human rights group, said,"
-    publishedDateTime: 2021-01-23T19:28:00Z
-    webUrl: "https://www.gulftoday.ae/lifestyle/2021/01/23/privacy-fears-as-indian-city-of-lucknow-readies-facial-recognition-to-spot-harassed-women"
+  - title: "Google vs Australia, Rockets On Oil Rigs, India’s Quantum Labs And More In This Week’s Top News"
+    excerpt: "Developing radical new technology is inherently risky, but that doesn’t make breaking this news any easier. Today, I’m sad to share that Loon will be winding down,” wrote Alastair Westgarth, CEO, Loon."
+    publishedDateTime: 2021-01-23T12:31:00Z
+    webUrl: "https://analyticsindiamag.com/google-australia-india-aws-quantum-top-news/"
     type: article
     provider:
-      name: The Gulf Today
-      domain: gulftoday.ae
-    quality: 30
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 12
     images:
-      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/news/2019/8/3/rape-750x450.ashx?h=450&w=750&hash=AA50B258BD74FA4EBF8A3D794C68A1FC"
-        width: 750
-        height: 450
+      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2021/01/jan-23-tech-news.jpg"
+        width: 1601
+        height: 901
         isCached: true
 
 secured: "tFUfhvgUpt6kzGXMICcBgNdQvGcARA/NSfM5I+6K+XwThcDc6Ga1jG7v2eR/xfJr2OTDqwXQwInO/PSulhoEemRIlYHWn4+VbYlb5pewvMQzoo7q1WWwy6mH9ce5EWMIyWVNCC6Pv0Eh4CMxEXXd1OJkss4HIavv3lMo94XdHqMPlzXmyyXvmgZtfwEIZ517guo++O2kFbzpxkijOHn2enDrPxglKDZ6lbgIQfeuS2naSXtkD89qytvR9zX1uFuZmcFYOIFQb98ugLUo2uxhxmvqB+Dtprn14M1QFze+dj3fdA2NFCmIe6/ePoML9ExqDTqKi9ou3lL3Fdygg6nSGZZc20TRJ1IgnCZ0M6MWYdY=;2dWnHmzYvfZbdRYenf1GIQ=="

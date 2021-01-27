@@ -24,6 +24,7 @@ topics:
   - AI
   - Machine Learning
   - Facebook AI
+  - IBM AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/01/AI-incident-database.jpg?w=1200&strip=all"

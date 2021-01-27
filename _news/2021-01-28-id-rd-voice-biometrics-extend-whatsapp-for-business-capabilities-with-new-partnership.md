@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202101/id-rd-voice-biometrics-exte
 webUrl: "https://www.biometricupdate.com/202101/id-rd-voice-biometrics-extend-whatsapp-for-business-capabilities-with-new-partnership"
 type: article
 quality: 16
-heat: 16
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 900
     height: 499
     isCached: true
+
+related:
+  - title: "ID R&D Brings Voice Authentication to WhatsApp for Business"
+    excerpt: "ID R&D and Wittybots by SimpleTech have announced the first in-app voice biometrics authentication solution for WhatsApp for Business"
+    publishedDateTime: 2021-01-27T22:31:00Z
+    webUrl: "https://mobileidworld.com/id-rd-brings-voice-authentication-whatsapp-business-012709/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 24
+    images:
+      - url: "https://mobileidworld.com/wp-content/uploads/47280552_thumbnail-1-e1455306435620.jpg"
+        width: 800
+        height: 560
+        isCached: true
 
 secured: "7yeS4pkA7aD2S630xoDkrwwZvdINeSxcIn2NSAzq9hyilhHVAAGwFy2oyb2vtt+1hF3TlRJn9jWJMzJmmFkk49cMh2Fiyhvvv3Rsb8l1qfY+q7NoXYJVPPPiKXidfAn+DAqKvzgZUE+uGSdYXJbdAo3yTFlZOy6tU74dDPIjodMvGASnjfgVoKha7iLJGRf7x0JWbwwpsU50FTgbleQiRzuTj1FsJ61RAHRvaLC3vGnu5RzZA5w81qaDlzzewwAOB/1aeIpvtgHov2/SpQubt3V3CoqOyZo9RMTrwM5nTTBC4PqaIKExHDKZ4ddZ8eufjhbEp6izM8GT1Kw6jy+8j+LlkNqaf8J8qHtxWF2Sh9FFXQGGprMNUHVeFBuCdFW0WQLJKaCKgHmm/DZ/QyjbgimnmVQPES5alCZ0UNeWavO0NN0csoyb2CmbWWj0dCdN1Qf6JY84Rsar2CIYvwXh3kVKwBYHzqIktWgwMmD5FfDX2kYGGqIrlR1v2vG56tNwBfCzDAZ6JgbX0sntmibVag==;Z7h9Cfc4FqjBd3ZI31xICQ=="
 ---

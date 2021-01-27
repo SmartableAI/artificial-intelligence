@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.in/news/a-scary-proposal-to-use-facial-r
 cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/news/a-scary-proposal-to-use-facial-recognition-and-ai-by-an-indian-state-has-experts-fuming/amp_articleshow/80421935.cms"
 type: article
 quality: 66
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Make AI evolution inclusive in India"
-    excerpt: "The disproportionately dominant role played by men in the development of this technology, which leads to gender stereotypes and biases, is concerning The last few years have witnessed the evolution of"
-    publishedDateTime: 2021-01-24T18:41:00Z
-    webUrl: "https://www.dailypioneer.com/2021/columnists/make-ai-evolution-inclusive-in-india.html"
-    type: article
-    provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 37
-    images:
-      - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/make-ai-evolution-inclusive-in-india-2021-01-25.jpg"
-        width: 1000
-        height: 800
-        isCached: true
   - title: "Privacy fears as Indian city of Lucknow readies facial recognition to spot harassed women"
     excerpt: "Artificial Intelligence is not a silver bullet, and no amount of 'fancy' tech can fix societal problems,\" Vidushi Marda, a researcher at human rights group, said,"
     publishedDateTime: 2021-01-23T19:28:00Z

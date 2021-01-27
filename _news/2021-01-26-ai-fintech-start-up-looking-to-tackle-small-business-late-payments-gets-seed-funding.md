@@ -19,31 +19,31 @@ topics:
   - AI
 
 related:
-  - title: "How fintech and serial founders drove African pre-seed investing to new heights in 2020"
-    excerpt: "When Stripe-subsidiary Paystack raised its seed round of $1.3 million in 2016, it was one of the largest disclosed rounds at that stage in Nigeria.  At the time, seven-figure seed investments in African startups were a rarity."
-    publishedDateTime: 2021-01-23T07:02:00Z
-    webUrl: "https://techcrunch.com/2021/01/22/how-fintech-and-serial-founders-drove-african-pre-seed-investing-to-new-heights-in-2020/"
-    ampWebUrl: "https://techcrunch.com/2021/01/22/how-fintech-and-serial-founders-drove-african-pre-seed-investing-to-new-heights-in-2020/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/22/how-fintech-and-serial-founders-drove-african-pre-seed-investing-to-new-heights-in-2020/amp/"
+  - title: "Holt, a Leading Global Fintech Program, Awards a Financial Grant to AI-driven Risk Intelligence Platform Agryo, with the Support of Scale AI"
+    excerpt: "Holt, a leading Global Fintech Program, has awarded a financial grant to Agryo, an AI-driven blockchain based risk intelligence platform, with support from Scale AI Acceleration program that helps Canadian accelerators and incubators fund startups to enhance their AI-based product and service offerings,"
+    publishedDateTime: 2021-01-26T16:04:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/holt-a-leading-global-fintech-program-awards-a-financial-grant-to-ai-driven-risk-intelligence-platform-agryo-with-the-support-of-scale-ai-1030005417"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/holt-a-leading-global-fintech-program-awards-a-financial-grant-to-ai-driven-risk-intelligence-platform-agryo-with-the-support-of-scale-ai-1030005417"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/holt-a-leading-global-fintech-program-awards-a-financial-grant-to-ai-driven-risk-intelligence-platform-agryo-with-the-support-of-scale-ai-1030005417"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 66
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/01/africa-preseed-investment.jpg?w=1024"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Growth Model of Fintech Industry and Expectations in 2021"
-    excerpt: "India is amongst the world’s fastest emerging markets for the Fintech sector. With China, India ranked at the highest in Fintech adoption rate globally. After the 2016 demonetization, the country"
-    publishedDateTime: 2021-01-27T09:04:00Z
-    webUrl: "https://www.ciol.com/growth-model-fintech-industry-expectations-2021/"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
+  - title: "Holt, a Leading Global Fintech Program, Awards a Financial Grant to AI-driven Risk Intelligence Platform Agryo, with the Support of Scale AI"
+    excerpt: "Holt, a leading Global Fintech Program, has awarded a financial grant to Agryo, an AI-driven blockchain based risk intelligence platform,"
+    publishedDateTime: 2021-01-26T15:56:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/holt-a-leading-global-fintech-program-awards-a-financial-grant-to-ai-driven-risk-intelligence-platform-agryo-with-the-support-of-scale-ai-301215327.html"
     type: article
     provider:
-      name: CIOL
-      domain: ciol.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 4
+    images:
+      - url: "https://mma.prnewswire.com/media/1427043/1.jpg?p=facebook"
+        width: 1279
+        height: 670
+        isCached: true
 
 secured: "C5lqD6qkYCECPx7/54ZEAv5uTw/FCxCs0QiSCJkKUAJAtygxx953dZDDvaZk0rJaEFUoHPkMAK9G4jwQS31cYQiV0hhkkUyUeOidYZ/R8sVLqw91UfFrhkezln13z/vdUZkS8MZQMIFfM4wewzwqSXro0RrTZNZ7mc26piEW3JrupmitB8EMZFI8bgmq77ijbmMHqGq5kCdRagnp8wrfZLKAQS4sUhZjxqR1W4zEUrqxBGd3z91onV7bGEWpNgDd4KNE35Z5UyN9R/aQLs/bEICK/PGiWqcEb1d6V+vzQoI/jpbEUH9sVwFKaZiNPkeBS3XStjDdqdL2vP9iX5w3nArw3ObX7TRl7NqRc3s7r9M=;lQUMNW/trNRYvoCt+wl4oA=="
 ---

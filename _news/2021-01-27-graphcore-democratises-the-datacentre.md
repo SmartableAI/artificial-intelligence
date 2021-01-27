@@ -35,7 +35,7 @@ related:
     provider:
       name: Neowin
       domain: neowin.net
-    quality: 82
+    quality: 84
     images:
       - url: "https://cdn.neow.in/news/images/uploaded/2021/01/1611647448_introducing_graphcloud_ai_cloud_service_(1)_cropped_story.jpg"
         width: 760

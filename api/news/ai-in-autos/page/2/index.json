@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-14-chinese-drone-firm-dji-builds-team-to-work-on-self-driving-tech-job-posts-sources.md",
+      "title": "Chinese Drone Firm DJI Builds Team to Work on Self-Driving Tech: Job Posts, Sources",
+      "excerpt": "Chinese Drone Firm DJI Builds Team to Work on Self-Driving Tech: Job Posts ... has launched a car business unit and is developing sensors. Baidu, which has been working on autonomous driving ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2021-01-13/chinese-drone-firm-dji-builds-team-to-work-on-self-driving-tech-job-posts-sources",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-01-13/chinese-drone-firm-dji-builds-team-to-work-on-self-driving-tech-job-posts-sources",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2021-01-13/chinese-drone-firm-dji-builds-team-to-work-on-self-driving-tech-job-posts-sources?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-01-13/chinese-drone-firm-dji-builds-team-to-work-on-self-driving-tech-job-posts-sources?context=amp",
+      "publishedDateTime": "2021-01-13T20:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-14-chinese-driverless-car-start-up-weride-raises-310-million-in-funding-as-competition-heats-up.md",
       "title": "Chinese driverless car start-up WeRide raises $310 million in funding as competition heats up",
       "excerpt": "Tony Han, CEO of WeRide said the funding will give the company the strategic resources to fulfill the goal of commercializing self-driving technology.\"",
@@ -1360,58 +1403,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-chinas-baidu-teams-with-geely-on-electric-cars.md",
-      "title": "China’s Baidu Teams With Geely on Electric Cars",
-      "excerpt": "though it’s unclear if the partners intend to eventually also produce self-driving cars. Representatives for the two companies declined to comment. Read more: China’s Baidu Said to Pick CLSA ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-01-08/china-s-baidu-is-said-to-team-with-geely-to-make-electric-cars",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-01-08/china-s-baidu-is-said-to-team-with-geely-to-make-electric-cars",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4H0sjd0aCQA/v0/360x-1.jpg",
-          "width": 360,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2021-01-08/china-s-baidu-is-said-to-team-with-geely-to-make-electric-cars",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2021-01-08/china-s-baidu-is-said-to-team-with-geely-to-make-electric-cars",
-      "publishedDateTime": "2021-01-07T18:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Researchers speed up analysis of Arctic ice and snow data through artificial intelligence"
-excerpt: "Researchers at the University of Maryland, Baltimore County have developed a technique for quicker analysis of extensive data from Arctic ice sheets to gain knowledge of patterns and trends. Over the years, vast amounts of data have been collected about ..."
-publishedDateTime: 2021-01-27T20:34:00Z
-originalUrl: "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=301996&org=NSF"
-webUrl: "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=301996&org=NSF"
+excerpt: "AI technique enables researchers to study data trends more quickly, improving prediction ability Researchers are speeding up analysis of Arctic ice and snow data through AI. Researchers at the University of Maryland,"
+publishedDateTime: 2021-01-27T20:33:00Z
+originalUrl: "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=301996"
+webUrl: "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=301996"
 type: article
 quality: 28
 heat: 28
@@ -23,6 +23,6 @@ images:
     height: 220
     isCached: true
 
-secured: "W/s0q2j+gBXHAtQXhrx7qvj0H+2sn8wcWpP3vvNTD4tMOAiF+BgAZ7eg6k56k1PfhXZ9AKTSDJXVZgNFnBj+J1DddFmd4tsYaHR0jLVulviho+/08bUeYfvvqlx9yzYFqPABsrN7sh0I9ZHQ2S3WQrLQGcMIPxZ/lBK5nY7KxJ2sEJLTkmPK4sU0RBvg5itr6xz5mIZSTnXJyru2DbVnsYDBdoRUhneFUmZ07mXbkpcgrow0zldWfZQhn+Bz+frNri6n6Em8dqTIkXcgL+0Hn1zE91XVKe5jLVfUbE5mwDzHqz2aUmlxRhWrduVznbvLwOWjE0nJfGOYoB2tAI1p9oU29zMUoQEPzCUBPRQu4Vs=;aDyW6JK8scqKpL2TP9mzXQ=="
+secured: "4bXv+0vXuYoNRBZPF0ClDEwH1D86m6fmtZlCykqUhMe9n52tsXY+U7UcLn9CCDnk9/ofOWxRJa845LJ7QMe8oM6CscdmkcrLFRy4YEA57YrbWVEcRpOd8e5Z/1TqYWdLp+OGFPqpJhP24FHBqGe84RHDevrpRn1YuOsak6+PYmg/VE9EE34W85X3yTFxAbbV7s23GsigifL/HwkrJ2P/Qa8y/hYd23tK9Ikn2oKKZHBRCDe8XZkf+HJVhX1mjV2TQ9VDAFVncOJURLjM0Xjp809Xm1HR6aFfK/G5GDrh7YJJne4CYoQ5PwtoatEU0YoKMwgu+o4tWgyDXZKeeunQYhEjhjPpY5vrocbaZFoYP9Y=;ijsyB1fsge8fjNWM7htkiw=="
 ---
 

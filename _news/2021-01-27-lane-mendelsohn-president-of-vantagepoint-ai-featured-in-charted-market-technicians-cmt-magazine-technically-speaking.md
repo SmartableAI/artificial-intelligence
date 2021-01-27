@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Lane Mendelsohn, President of Vantagepoint AI, featured in Charted Market Technicians® (CMT) magazine, Technically Speaking"
-excerpt: "Lane Mendelsohn, President of Vantagepoint AI, LLC, has been featured in CMT's Technically Speaking magazine. Mendelsohn is a long-standing member and is designated by the Charted Market Technician ® (CMT ®) Association."
-publishedDateTime: 2021-01-27T13:13:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/lane-mendelsohn-president-of-vantagepoint-ai-featured-in-charted-market-technicians-cmt-magazine-technically-speaking-1030009487"
-webUrl: "https://markets.businessinsider.com/news/stocks/lane-mendelsohn-president-of-vantagepoint-ai-featured-in-charted-market-technicians-cmt-magazine-technically-speaking-1030009487"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/lane-mendelsohn-president-of-vantagepoint-ai-featured-in-charted-market-technicians-cmt-magazine-technically-speaking-1030009487"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/lane-mendelsohn-president-of-vantagepoint-ai-featured-in-charted-market-technicians-cmt-magazine-technically-speaking-1030009487"
+excerpt: "Lane Mendelsohn, President of Vantagepoint AI, LLC, has been featured in CMT's Technically Speaking magazine. Mendelsohn is a"
+publishedDateTime: 2021-01-27T13:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/lane-mendelsohn-president-of-vantagepoint-ai-featured-in-charted-market-technicians-cmt-magazine-technically-speaking-301215631.html"
+webUrl: "https://www.prnewswire.com/news-releases/lane-mendelsohn-president-of-vantagepoint-ai-featured-in-charted-market-technicians-cmt-magazine-technically-speaking-301215631.html"
 type: article
-quality: 43
-heat: 43
+quality: 13
+heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1096645/Vantagepoint_Logo.jpg?p=facebook"
+    width: 1809
+    height: 949
+    isCached: true
 
 related:
   - title: "Lane Mendelsohn, President of Vantagepoint AI, featured in Charted Market Technicians(R) (CMT) magazine, Technically Speaking"
@@ -42,6 +42,6 @@ related:
         height: 702
         isCached: true
 
-secured: "ZMyNqyXYmMqTuc/UzUdO7K8hF4YdNwCG8OXxSSGZ0FACUIi0GDtWx15tCcqdlWujQfSegZfvapFjIm54yHbxhs4ifzur204UxmftAFzf8voSXRQdBu5NWARR2dgUyAkxDp4o5r1zvTkRqLVtYYIaJREVHAFfZvZdmwn1H5AMnqBuHAthnL8H1NLqfAMVaOzAX8I+PvScL4x+UhfTUFFrKF51v9up3uzxaP3rHG93u9aGILWFgLhB+TcmJDwu6piEljlUW+FBiI6OrZMkNm9JP1JxrVTPPPo5FYtyooJhGWNj4LrsFoUWZYXyzVzrcH2Ft9kxMVEItGce0qqOMgdXv4SPRkEGVr0x/0BkMppg0ws=;RGqvFSZ9/OHcMTDleNNwxA=="
+secured: "/aioo/+pYA12S1Xn+sTUFiYNakw/7KEB9kGJmUogqWIybODnCJNlJXrAVVi/7w+YW2alutqusPY7By9rFZhoLKzt31RsqPyLFWlXJGz47YnnIjV0F4MixBb+oj/7EYJ/39i0Su00z2TSexk10QRoXw6X9XYHvzNVAbVq4nPm1ZY8RC9S6baiRRaajaPHHcl37kmd+Uu8Txog2pSXGv/y0W7Wu/k32qiEPJVfZw/+qbvm92sSgC44XLESWYiXfmH/xBAzCJY8bXWVFCkGTWz5i+OmZhOyoDsT/6uAAl6Un+3eHrOHU5U8tT36WDqT8k+B4647DWABesrmDguC06aaWU1fMFMY3LQgsY1rCy/noZU=;IAiTJlFrlZpaVNjUGYVKRg=="
 ---
 

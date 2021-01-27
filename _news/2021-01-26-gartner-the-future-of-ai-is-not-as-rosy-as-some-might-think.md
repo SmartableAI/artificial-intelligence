@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/gartner-the-future-o
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/gartner-the-future-of-ai-is-not-as-rosy-as-some-might-think/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 729
     isCached: true
+
+related:
+  - title: "Gartner: How CIOs can make a business case for AI"
+    excerpt: "Businesses will have to find the particular scenario, problem statement or use case that employs AI as part of the solution."
+    publishedDateTime: 2021-01-27T21:34:00Z
+    webUrl: "https://www.ciodive.com/news/artificial-intelligence-AI-business-case/594090/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 37
+    images:
+      - url: "https://www.ciodive.com/user_media/cache/9b/17/9b17c5b82cb234ee2ea35948cb74d813.jpg"
+        width: 770
+        height: 364
+        isCached: true
 
 secured: "5To+L2Yx+ZKMVHylNHKcLDIKxEJPhRXkBRRljnpKB0+mUUjt66Z/77Q1KG8AVYAzDe3ALmX26MvOeeO8BORtuEgmy1ltueIHbAcvspcEMaUEWy8hDcHy8o3N2dRbnDcwUCzrnAYZ9R8F/IbOSJ5BxsDVx4AkvIlTQwEtgyvOfmuJGcUtSKwOUM3ylhF+LqL3SIT2JEKn8mxBdGl2cJvQ6PTItiPytnxMyo8hTOFFgX9tU51lgk/LgFLa6Tk/cAAxEWxcXWr6uo3NOrO8yIByHVJORu6VsyuBrVyU+vw5WJKvSE8cAamxY5Z0v4lZ528UvtsXM/Fu1+Gx0IYG3e6wF1KQIFY/ViohiX4mFToYwu05kBnnPE3S6vcmcyjprMui1yq1cRu8OWHc7c7lMb6aBF5daonFjsqRdZMgXpeBVWrXiREX0QghYk1ZxW6yox3ZYNTQNn85e6UuFxHniUbylGipeoaDbMkUw5jFI4idJ18o1zttppzByDitWfItzfCF41p+dZELCg3HJINIT89Seg==;T6u7pVYcf+edTZuZriUabw=="
 ---

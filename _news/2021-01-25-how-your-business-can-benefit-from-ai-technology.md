@@ -56,6 +56,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Speech Processing Solutions: Next-generation Workflow Solution With AI-powered Speech Recognition, Now in Australia"
+    excerpt: "The new version of the Philips dictation workflow solution for enterprise businesses, SpeechExec Enterprise 7.0 (SEE 7.0) is now available in Australia. The close collaboration between Nuance Communications and Speech Processing Solutions,"
+    publishedDateTime: 2021-01-27T22:21:00Z
+    webUrl: "https://www.lelezard.com/en/news-19620963.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 32
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Understanding the reasons behind the Huge Energy And Power Demands of Artificial Intelligence"
     excerpt: "The high energy consumption of artificial intelligence models, especially in neural network training (e.g. BERT) leads to huge carbon footprint. Spiking Neural network (SNN) has been proposed to start age of Green AI."
     publishedDateTime: 2021-01-24T11:47:00Z

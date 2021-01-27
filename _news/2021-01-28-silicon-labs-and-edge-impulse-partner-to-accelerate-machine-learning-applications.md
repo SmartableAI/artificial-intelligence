@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Silicon Labs and Edge Impulse Partner to Accelerate Machine Learning Applications"
-excerpt: "Silicon Labs (NASDAQ: SLAB), a leading provider of silicon, software and solutions for a smarter, more connected world, and Edge Impulse, a leading development platform for machine learning on edge devices,"
-publishedDateTime: 2021-01-27T18:52:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/silicon-labs-and-edge-impulse-partner-to-accelerate-machine-learning-applications-1030011427"
-webUrl: "https://markets.businessinsider.com/news/stocks/silicon-labs-and-edge-impulse-partner-to-accelerate-machine-learning-applications-1030011427"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/silicon-labs-and-edge-impulse-partner-to-accelerate-machine-learning-applications-1030011427"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/silicon-labs-and-edge-impulse-partner-to-accelerate-machine-learning-applications-1030011427"
+excerpt: "Silicon Labs (NASDAQ: SLAB), a leading provider of silicon, software and solutions for a smarter, more connected world, and Edge Impulse, a leading"
+publishedDateTime: 2021-01-27T18:45:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/silicon-labs-and-edge-impulse-partner-to-accelerate-machine-learning-applications/article_07d5c9fd-3f42-5008-8548-4363579501c6.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/silicon-labs-and-edge-impulse-partner-to-accelerate-machine-learning-applications/article_07d5c9fd-3f42-5008-8548-4363579501c6.html"
 type: article
-quality: 64
-heat: 74
-published: true
+quality: 34
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/65/d656d0d8-9f6e-5d52-ada9-57c472673bf2/6011ed9f80907.image.jpg?resize=1200%2C628"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "Silicon Labs and Edge Impulse Partner to Accelerate Machine Learning Applications"
@@ -40,6 +40,6 @@ related:
         height: 209
         isCached: true
 
-secured: "JfKN4hSK5ofuaWWlkJEFRx102jaa+IKQL+MkVDDmdkBxnlm3KpKnHh59JG/0uZPszlMdGv2clP0F23qFDhhJaZ/k0INXKdXfj7p0HGK8Cs3hXehO81RbVm/dVvaZn9IMs+kicX9BljFab5xAPmd3B2GMweIryIUZq5sRDw35Kodi/lq1/ng+Rl2Tv9hVfar6GMedUCxWxxGlcOMkQX3S6jjy+zXkaxq8It46MDRWKpBOtjy1Wcqv1n4IySR4Y7V6g5N7/IddeApXRTvp/QH4RwEcmBBTYNYbdmy2pA7pteLgt90024JwRb/D2jwoGYuxhSusARYjKuiQi31HU8o8c/mNDUQZ0/wEooI996KEdwQ=;a+PjvYj2i/VEBxrYStAkew=="
+secured: "TDSZFS4v+w2HpV8dmtzTn6QwgEXoZEESBDCXF2RhgxSVYv/zQ0dgFhZsAa8XkTKgyiiLYfHY5iBpTsMDdE7IEJIp2VTOLIWFzvDDnkot3puDhamUj7UhHw8uuxglUVDrZwspI7MRimZEG7p0hTN7uxGZFLnPI80gvGKv7fcuxTskwjW7Kc9+R+CMl/EyLzmZWiNcjw2XbcTja8+IJ5dJoG7ela4K3roXi7gWVhYmds3QfK6A1yxGapxe+t9VwDMaDGsuTbpoVKhFyc1skIvs2ZXg6F+79HoHiC9J9nFRmcAS6gGH3P4Og4RNVo/j25esex6GJvS9QHDLJ8IcD1zSjEqJTx+1dRLcaQ+QpZi8q+Y=;jae2+06YX63BiQqtctx+Fg=="
 ---
 

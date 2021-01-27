@@ -135,6 +135,20 @@ related:
       name: Windows
       domain: compsmag.com
     quality: 42
+  - title: "buyMyplace reimagines real estate with Microsoft"
+    excerpt: "Real estate disruptor, buymyplace, is launching a fully automated version of its platform that empowers Australian property owners to sell their property privately, putting them in charge of the sale of their home from go-to-whoa and cuts out the middle man."
+    publishedDateTime: 2021-01-27T21:35:00Z
+    webUrl: "https://news.microsoft.com/en-au/features/buymyplace-reimagines-real-estate-with-microsoft/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 41
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/66/2021/01/buyMyPlace-Banner-1024x373.jpg"
+        width: 1024
+        height: 373
+        isCached: true
   - title: "Cruise And GM Team Up With Microsoft To Commercialize Self-Driving Vehicles"
     excerpt: "Cruise and General Motors on Tuesday announced they have entered a long-term strategic relationship with Microsoft to accelerate the commercialization of self-driving vehicles."
     publishedDateTime: 2021-01-25T22:27:00Z

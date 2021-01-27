@@ -25,21 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Thousands march in Australia for Indigenous recognition"
-    excerpt: "Demonstrators in major cities demand the national day be changed in honour of the country’s Indigenous people."
-    publishedDateTime: 2021-01-26T12:16:00Z
-    webUrl: "https://www.aljazeera.com/news/2021/1/26/arrests-made-during-australia-day-protest-held-amid-covid-concern"
-    ampWebUrl: "https://www.aljazeera.com/amp/news/2021/1/26/arrests-made-during-australia-day-protest-held-amid-covid-concern"
-    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2021/1/26/arrests-made-during-australia-day-protest-held-amid-covid-concern"
+  - title: "Artificial Intelligence Is India’s Solution to Fix Data Gaps"
+    excerpt: "India is turning from man to machines to improve the quality and speed of its economic data, which has been criticized as inadequate, delayed or even confusing due to sharp and unexpected revisions."
+    publishedDateTime: 2021-01-27T22:02:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-01-27/artificial-intelligence-is-india-s-solution-to-fix-data-gaps"
     type: article
     provider:
-      name: Al Jazeera English
-      domain: aljazeera.com
-    quality: 44
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 67
     images:
-      - url: "https://www.aljazeera.com/wp-content/uploads/2021/01/h_56648840.jpg?resize=1200%2C630"
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKgMwJ4Jg9dM/v0/1200x800.jpg"
         width: 1200
-        height: 630
+        height: 800
+        isCached: true
+  - title: "Make AI evolution inclusive in India"
+    excerpt: "The disproportionately dominant role played by men in the development of this technology, which leads to gender stereotypes and biases, is concerning The last few years have witnessed the evolution of"
+    publishedDateTime: 2021-01-24T18:41:00Z
+    webUrl: "https://www.dailypioneer.com/2021/columnists/make-ai-evolution-inclusive-in-india.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 37
+    images:
+      - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/make-ai-evolution-inclusive-in-india-2021-01-25.jpg"
+        width: 1000
+        height: 800
         isCached: true
 
 secured: "Zie2quPpR02iZk/+doFYOSL7GC5MUf2ZnBTY6HPX8S+GGbSHAdySpmWurPzJj0z5bX5u4aNXCorQdOuIA6G1XExzxXnqzfdoNGbpGl+1G6+Kbs8ltLeIRPPjh2f4K8w2TtxkNMsrPn2GkpmcHfTTD7iCMyFoCQI+Fcqkvr2xEr4F3ls18ohFA2fFlmXk3O8JhxpQJ8pgs+2PzbyRyBWEeWmgcogKtDqExXZUvsa9YEgb4bDnfwOtmCEfO/LvCnx1aOFnC5d4KSWJnwgby3jN1J6bPfZNIultLKdfL/l+A7WZZDIP5AFpJEdu4/TH2ObjADi2o22llaL7ZXNjrsqgdiWZYQCMnGHaa2wXT5OGT4A=;fqXertnHAkYjez+bSybYYw=="
