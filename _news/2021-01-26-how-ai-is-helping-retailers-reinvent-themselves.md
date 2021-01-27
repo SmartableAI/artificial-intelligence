@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "How an Israeli Startup Is Using AI to Help People Make Babies"
+    excerpt: "The human eye can only see so much, and despite embryologists’ efforts to select the “best” embryo, IVF success rates are still relatively low."
+    publishedDateTime: 2021-01-27T15:00:00Z
+    webUrl: "https://singularityhub.com/2021/01/27/how-an-israeli-startup-is-using-ai-to-help-people-make-babies/"
+    ampWebUrl: "https://singularityhub.com/2021/01/27/how-an-israeli-startup-is-using-ai-to-help-people-make-babies/amp/"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/01/27/how-an-israeli-startup-is-using-ai-to-help-people-make-babies/amp/"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 57
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2021/01/IVF-babies-AI-embryonics-sperm-egg.jpg"
+        width: 1068
+        height: 601
+        isCached: true
 
 secured: "p/0tz8xlrSkTdoqWHWSUfXFxtycfxNvHu3BLIgfOXp0D+JBi4dtDGFH1nUciYAzy3EYH5jk+hP+CBPCj1fr3zqBMRpr42qWeDJc80FKf/5foIRz5uCaFNxwgBfJtNCHU6LLaL42dWp5v8a83k+fsSsVliJYgqppyBlZDOkdpT0JQud7ldMMdJ4MnM3pHNpglXKyHaO11esZSfiHe+lExQKe3KpKuUirkQqYeHlVgJnyxKkizGZb7m2ihOV84VzifHd6ynizZysN3eL7AhkfWMOC8DiRrMW03wf2FGsZp1wdeK73NtMNh+moqGgh4g6ChYDVqRHFYJj70y9A4ckdjkzZxBVvO+nlOyoWsQHKU2lK0NCZoNENRKPixqAjbq46KlEJdc4foqsgvL3mrzdxwUNMz/Nru79q+tZ97KQM69fF0TYxO9VaeeksjS4O24Yf+7KyJOrnRR16GKPl5GY6MBTeUmBgWrbm1UrymogOzx9JZNJ236oNsCnQpMqwlz+lj2ZSsnwGBB7H/hg8P8zM7QA==;Ct68CP50lNQMOCs9MtBvow=="
 ---

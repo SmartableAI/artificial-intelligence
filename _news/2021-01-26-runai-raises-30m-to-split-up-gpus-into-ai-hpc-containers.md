@@ -41,6 +41,17 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Sturish Raises $3.2M To Build AI Based eCommerce Growth Platform for SMBs"
+    excerpt: "Sturish, an AI driven eCommerce growth platform that establishes and grows online businesses across multiple channels and global markets, closed a $3.2 million USD seed funding round. Led by Neo, the round also included Act One Ventures,"
+    publishedDateTime: 2021-01-27T15:22:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/sturish-raises-3-2m-to-build-ai-based-ecommerce-growth-platform-for-smbs-1030010220"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/sturish-raises-3-2m-to-build-ai-based-ecommerce-growth-platform-for-smbs-1030010220"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/sturish-raises-3-2m-to-build-ai-based-ecommerce-growth-platform-for-smbs-1030010220"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
   - title: "Run:AI raises $30M putting GPUs to work"
     excerpt: "Run:AI looks at training resources a little differently. The Israeli AI company, which was founded in 2018 by CEO Omri Geller and Dr. Ronen Dar, has built an orchestration and virtualization software layer tailored to the unique needs of AI workloads running on GPUs and similar chipsets."
     publishedDateTime: 2021-01-26T19:51:00Z

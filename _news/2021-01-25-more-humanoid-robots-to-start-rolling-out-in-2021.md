@@ -7,7 +7,7 @@ originalUrl: "https://www.itweb.co.za/content/DZQ58MVPYGNvzXy2"
 webUrl: "https://www.itweb.co.za/content/DZQ58MVPYGNvzXy2"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "Humanoid robot Sophia to be mass produced by the end of 2021, capitalising on the pandemic-induced robot boom"
+    excerpt: "As the pandemic creates a robotics boom, the creators of humanoid robot Sophia — who went viral in 2016 — are planning for mass production."
+    publishedDateTime: 2021-01-27T15:05:00Z
+    webUrl: "https://www.businessinsider.com/robot-humanoid-sophia-david-hanson-grace-healthcare-robotics-pandemic-ai-artificial-intelligence"
+    ampWebUrl: "https://www.businessinsider.com/robot-humanoid-sophia-david-hanson-grace-healthcare-robotics-pandemic-ai-artificial-intelligence?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/robot-humanoid-sophia-david-hanson-grace-healthcare-robotics-pandemic-ai-artificial-intelligence?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 50
   - title: "Uncanny humanoid robot ‘Sophia’ to enter mass production"
     excerpt: "Hong Kong-based Hanson Robotics is to begin mass producing four models of humanoid robot by the end of the year, including the high-profile social humanoid robot, Sophia."
     publishedDateTime: 2021-01-25T14:18:00Z

@@ -2,6 +2,163 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-26-aeva-to-supply-lidar-sensors-to-self-driving-truck-firm-tusimple.md",
+      "title": "Aeva to supply lidar sensors to self-driving truck firm TuSimple",
+      "excerpt": "Aeva Inc, a firm founded by former Apple Inc engineers to supply a key self-driving car sensor, said on Tuesday it had reached a deal to supply the sensors for self-driving heavy duty trucks being developed by TuSimple.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/aeva-tusimple-idUSL1N2K102G",
+      "originalUrl": "https://www.reuters.com/article/aeva-tusimple-idUSL1N2K102G",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-26T04:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-amazon-is-adding-3000-jobs-in-boston-including-in-ai-finance-and-hr-as-it-continues-its-pandemic-hiring-spree.md",
+      "title": "Amazon is adding 3,000 jobs in Boston, including in AI, finance, and HR, as it continues its pandemic hiring spree",
+      "excerpt": "Amazon is adding the new roles at its Boston Tech Hub and a 17-story office building in Seaport it's just leased.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/amazon-jobs-hiring-boston-hr-finance-ai-vacancies-jeff-bezos-2021-1",
+      "originalUrl": "https://www.businessinsider.com/amazon-jobs-hiring-boston-hr-finance-ai-vacancies-jeff-bezos-2021-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/600ff20767a6bc0019d9af6f?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/amazon-jobs-hiring-boston-hr-finance-ai-vacancies-jeff-bezos-2021-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon-jobs-hiring-boston-hr-finance-ai-vacancies-jeff-bezos-2021-1?amp",
+      "publishedDateTime": "2021-01-26T04:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-this-ai-could-go-from-art-to-steering-a-self-driving-car.md",
+      "title": "This AI Could Go From ‘Art’ to Steering a Self-Driving Car",
+      "excerpt": "DALL-E drew laughs for creating images of a daikon radish in a tutu. But it builds on an important advance in computer vision with serious applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ai-go-art-steering-self-driving-car/",
+      "originalUrl": "https://www.wired.com/story/ai-go-art-steering-self-driving-car/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/600f51cd4774061ec087b7da/master/pass/Business-OpenAI-Spaghetti-Knights.jpg",
+          "width": 2057,
+          "height": 1029,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/ai-go-art-steering-self-driving-car/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-go-art-steering-self-driving-car/amp",
+      "publishedDateTime": "2021-01-26T04:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-how-ai-and-ml-will-impact-insurers-roi-reserves-in-2021-and-beyond.md",
       "title": "How AI and ML will impact insurers' ROI reserves in 2021 and beyond",
       "excerpt": "Here's how emerging technologies can allow insurers to conduct proactive analyses to aid in the claims process.",
@@ -98,12 +255,12 @@
       ]
     },
     {
-      "path": "_news/2021-01-26-kao-data-to-host-instadeeps-hpc-and-ai-supercomputer-expanding-rd-capabilities.md",
-      "title": "Kao Data to Host InstaDeep's HPC and AI Supercomputer, Expanding R&D Capabilities",
-      "excerpt": "Kao Data, the specialist developer and operator of advanced, carrier-neutral data centres for high performance colocation, has today announced a new customer contract with InstaDeep, a global leader in artificial intelligence (AI) powered decision-making solutions for enterprise.",
+      "path": "_news/2021-01-26-artificial-intelligence-ai-delivers-for-cloudcommerce.md",
+      "title": "Artificial Intelligence (AI) Delivers for CloudCommerce",
+      "excerpt": "Our clients are reaping the benefit of our real-world application of artificial intelligence. Our goal is to continue to work toward potentially reducing the costs of advertising by as much as 50%.” The Company is developing SWARM into a cloud hosted software platform that will harness the power of artificial intelligence,",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/kao-data-to-host-instadeep-s-hpc-and-ai-supercomputer-expanding-r-d-capabilities-1030002896",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/kao-data-to-host-instadeep-s-hpc-and-ai-supercomputer-expanding-r-d-capabilities-1030002896",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-ai-delivers-for-cloudcommerce-1030002696",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-ai-delivers-for-cloudcommerce-1030002696",
       "featuredContent": null,
       "highlight": null,
       "heat": 94,
@@ -111,9 +268,9 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/kao-data-to-host-instadeep-s-hpc-and-ai-supercomputer-expanding-r-d-capabilities-1030002896",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/kao-data-to-host-instadeep-s-hpc-and-ai-supercomputer-expanding-r-d-capabilities-1030002896",
-      "publishedDateTime": "2021-01-26T01:16:00-08:00",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Artificial-Intelligence-AI-Delivers-for-CloudCommerce-1030002696",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Artificial-Intelligence-AI-Delivers-for-CloudCommerce-1030002696",
+      "publishedDateTime": "2021-01-26T00:24:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -136,7 +293,7 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
+        "Facebook AI",
         "AI"
       ]
     },
@@ -1106,151 +1263,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-elon-musk-fires-back-at-waymos-ceo-after-he-said-tesla-was-no-competitor-at-all.md",
-      "title": "Elon Musk fires back at Waymo's CEO after he said Tesla was 'no competitor at all'",
-      "excerpt": "Earlier this year, Waymo dropped \"self-driving\" from its vocabulary, saying \"some automakers use the term in an inaccurate way.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/elon-musk-waymo-ceo-self-driving-autopilot-2021-1",
-      "originalUrl": "https://www.msn.com/en-in/autos/news/elon-musk-fires-back-at-waymo-s-ceo-after-he-said-tesla-was-no-competitor-at-all/ar-BB1d4YIx?;pfr=1%3fc&mkt=en-gb%2cen-us&c=11865511300118058293",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 293,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/600ee0f61958200011554bc1?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/elon-musk-waymo-ceo-self-driving-autopilot-2021-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-waymo-ceo-self-driving-autopilot-2021-1?amp",
-      "publishedDateTime": "2021-01-25T07:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "businessinsider.com/elon-musk-waymo-ceo-self-driving-autopilot-2021-1",
-        "domain": "businessinsider.com/elon-musk-waymo-ceo-self-driving-autopilot-2021-1",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-corticalios-ai-makes-bulk-contract-analysis-faster-and-more-accurate.md",
-      "title": "Cortical.io’s AI makes bulk contract analysis faster and more accurate",
-      "excerpt": "Reviewing large quantities of legal or financial documents can be a chore, but Contract Intelligence promises to cut analysis time by 80%.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/25/cortical-ios-ai-makes-bulk-contract-analysis-faster-and-more-accurate/",
-      "originalUrl": "https://venturebeat.com/2021/01/25/cortical-ios-ai-makes-bulk-contract-analysis-faster-and-more-accurate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/corticalio.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/25/cortical-ios-ai-makes-bulk-contract-analysis-faster-and-more-accurate/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/25/cortical-ios-ai-makes-bulk-contract-analysis-faster-and-more-accurate/amp/",
-      "publishedDateTime": "2021-01-25T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-jetplays-ludo-ai-platform-accelerates-game-concept-creation.md",
-      "title": "JetPlay’s Ludo AI platform accelerates game concept creation",
-      "excerpt": "JetPlay has launched Ludo AI, a game creativity platform that leverages artificial intelligence to accelerate the creative process.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/25/jetplays-ludo-ai-platform-accelerates-game-concept-creation/",
-      "originalUrl": "https://venturebeat.com/2021/01/25/jetplays-ludo-ai-platform-accelerates-game-concept-creation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/ludo-4.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/25/jetplays-ludo-ai-platform-accelerates-game-concept-creation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/25/jetplays-ludo-ai-platform-accelerates-game-concept-creation/amp/",
-      "publishedDateTime": "2021-01-25T06:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

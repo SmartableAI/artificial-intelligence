@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2021/01/25/fake-news-is-ram
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/01/25/fake-news-is-rampant-here-is-how-artificial-intelligence-can-help/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "How an Israeli Startup Is Using AI to Help People Make Babies"
+    excerpt: "The human eye can only see so much, and despite embryologists’ efforts to select the “best” embryo, IVF success rates are still relatively low."
+    publishedDateTime: 2021-01-27T15:00:00Z
+    webUrl: "https://singularityhub.com/2021/01/27/how-an-israeli-startup-is-using-ai-to-help-people-make-babies/"
+    ampWebUrl: "https://singularityhub.com/2021/01/27/how-an-israeli-startup-is-using-ai-to-help-people-make-babies/amp/"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/01/27/how-an-israeli-startup-is-using-ai-to-help-people-make-babies/amp/"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 57
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2021/01/IVF-babies-AI-embryonics-sperm-egg.jpg"
+        width: 1068
+        height: 601
+        isCached: true
   - title: "How AI is helping retailers reinvent themselves"
     excerpt: "Everyday activities, once normal, have taken on a new element of risk, and consumers are prioritising those retailers who are capable of rapidly adjusting to changes in the business environment.” Retailers are moving to a multi-channel environment offering a variety of shopping options for customers,"
     publishedDateTime: 2021-01-26T06:50:00Z

@@ -193,7 +193,7 @@
       "originalUrl": "https://techcrunch.com/2021/01/26/runai-raises-30m-series-b-for-its-ai-compute-platform/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -245,7 +245,7 @@
       "originalUrl": "https://www.pcworld.com/article/3604615/nvidia-geforce-rtx-3080-review-the-fastest-laptop-gpu-just-arrived.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -321,49 +321,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-kao-data-to-host-instadeeps-hpc-and-ai-supercomputer-expanding-rd-capabilities.md",
-      "title": "Kao Data to Host InstaDeep's HPC and AI Supercomputer, Expanding R&D Capabilities",
-      "excerpt": "Kao Data, the specialist developer and operator of advanced, carrier-neutral data centres for high performance colocation, has today announced a new customer contract with InstaDeep, a global leader in artificial intelligence (AI) powered decision-making solutions for enterprise.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/kao-data-to-host-instadeep-s-hpc-and-ai-supercomputer-expanding-r-d-capabilities-1030002896",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/kao-data-to-host-instadeep-s-hpc-and-ai-supercomputer-expanding-r-d-capabilities-1030002896",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/kao-data-to-host-instadeep-s-hpc-and-ai-supercomputer-expanding-r-d-capabilities-1030002896",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/kao-data-to-host-instadeep-s-hpc-and-ai-supercomputer-expanding-r-d-capabilities-1030002896",
-      "publishedDateTime": "2021-01-26T01:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1453,6 +1410,58 @@
         "AI",
         "Facebook AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-01-18-your-next-drone-or-action-cam-will-shoot-8k-video-4k-at-240fps-with-ambarellas-new-chip.md",
+      "title": "Your next drone or action cam will shoot 8K video, 4K at 240fps with Ambarella's new chip",
+      "excerpt": "The 5nm CV5 artificial intelligence vision processor can be used for everything from automotive camera systems to security cameras and drones.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/your-next-drone-or-action-cam-will-shoot-8k-video-4k-at-240fps-with-ambarellas-new-chip/",
+      "originalUrl": "https://www.cnet.com/news/your-next-drone-or-action-cam-will-shoot-8k-video-4k-at-240fps-with-ambarellas-new-chip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/XWGkyJIePJvucfYKTzHVczBgI6Q=/1200x630/2021/01/15/9258e185-a943-4ffa-886b-0c8d9d2ea0c4/photo-of-cv5-soc-under-embargo-until-jan-11-2021-at-5-am-eastern.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/your-next-drone-or-action-cam-will-shoot-8k-video-4k-at-240fps-with-ambarellas-new-chip/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/your-next-drone-or-action-cam-will-shoot-8k-video-4k-at-240fps-with-ambarellas-new-chip/",
+      "publishedDateTime": "2021-01-17T16:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     }
   ],

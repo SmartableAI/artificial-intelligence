@@ -7,7 +7,7 @@ originalUrl: "https://en.globes.co.il/en/article-Bayer-leads-40m-investment-in-I
 webUrl: "https://en.globes.co.il/en/article-Bayer-leads-40m-investment-in-Israeli-biotech-co-Ukko-1001358705"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     height: 392
     isCached: true
 
-secured: "YourEs/um3XKbob0tSYQTg4FGCEryWfW0oGk1dQzzTMAQ2TLroSwqLI/tJf5v6Dc/7yxMjpnVwoI9GJEijtb9nUd+XNgtu9jElGxfeZFDbTXYtvjVf/SKIQwGTxDM+d5cqfQyGUVdqSoTBTj94XFaA0ty7J8kJNDwcPqMiFDyEn190gEYzo5TqcZRr3RlPwp6CdgU6jWlqzMPEP6LdC2euCydm/l3gA78Xc+2n4bR4ROv6AwYxWB2HbRiI0oEmfZ3w4Vec+wiiZWLVWn7NR7+FYC+D992jAP9+AE5MkZ5HA4nolkNZycDXf0k+oC86QbOBvY61+FWYRo++VBtbeUR3jkndV1S6/cNmye868zqJE=;2O0eEUGCi/8D3SzfxajBjg=="
+related:
+  - title: "Ukko raises $40M for AI-enabled food allergy solutions"
+    excerpt: "The company is making a non-allergenic version of gluten and a peanut tolerance treatment based on a safe version of the legume's protein."
+    publishedDateTime: 2021-01-27T16:27:00Z
+    webUrl: "https://www.fooddive.com/news/ukko-raises-40m-for-ai-enabled-food-allergy-solutions/594017/"
+    type: article
+    provider:
+      name: Food Dive
+      domain: fooddive.com
+    quality: 39
+    images:
+      - url: "https://www.fooddive.com/user_media/cache/fd/86/fd86b885a5a469140066c99d11c24b6d.jpg"
+        width: 770
+        height: 364
+        isCached: true
+
+secured: "tJKanJS746Adt/1lRouhhLB5n8cOFMFthfb3MSgQjA+eD0EyCCsoEokV1waRfVIosqbB4r4PPnXZCm+hw64XjeydfFmGuj0XcAL91f4u4HY8UDGpEerlr1ifWCYZM7/das4duG74PUS6DqRJ/Miaj/Da62GItWBOZjynHilOO0SeJjdB79ZfBTm+UqTzwdfNXaFMjAgLBRiqEMrIDrJPIp7OdeVkwRN22ss0xC7lEPEi26vDSGSp/HHE6LCcGiMi7A/wnM6VyJq+w53tzjGXYRiKa5xSGHUWwixVs7d3UfcRI6kP6QYpFiHYKOZKjyo0dMlB7sWTEwQlh7069wgtYZ6UDZz1IpBYXLLcY1neLQ6kfml8n8QnAuIRzpbdXSF1utbcU7xRjiyCXxEvPPBUEf3/cE48nj27Q6i1OcX2CSrfuh50ngjdPwFD5ymrl1uVtoJa33mzdfval3stzfPXWoXnz7vLnenoTW/QP387pZWF65a04z+Aqoq16dfJdgcEC6Jhse1RwOJ32BOGs2rnow==;0htpXHkp0ANiqF8m+rwwJA=="
 ---
 

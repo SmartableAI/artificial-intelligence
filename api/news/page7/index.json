@@ -2,6 +2,110 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-01-21-conversational-artificial-intelligence-ai-market-expectations-and-growth-trends-highlighted-until-2024.md",
+      "title": "Conversational Artificial Intelligence (AI) Market Expectations and Growth Trends Highlighted Until 2024",
+      "excerpt": "Available Exclusive Sample Copy of this Report @  The global market for conversational artificial intelligence (AI) is estimated to grow at a significant rate during the forecast period from 2019 to 2024.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-ai-market-expectations-and-growth-trends-highlighted-until-2024-2021-01-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-ai-market-expectations-and-growth-trends-highlighted-until-2024-2021-01-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-21T03:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-artificial-intelligence-in-retail-market-to-witness-a-healthy-growth-by-2023.md",
+      "title": "Artificial Intelligence in Retail Market to Witness a Healthy Growth by 2023",
+      "excerpt": "Artificial Intelligence is expected to disrupt every business and enterprises across the world. One of the major factors",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-to-witness-a-healthy-growth-by-2023-2021-01-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-to-witness-a-healthy-growth-by-2023-2021-01-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-21T03:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-trump-pardons-former-google-self-driving-car-engineer-anthony-levandowski.md",
       "title": "Trump pardons former Google self-driving car engineer Anthony Levandowski",
       "excerpt": "Donald Trump has given a full pardon to Anthony Levandowski, a former Google engineer who stole trade secret on self-driving cars.Read MoreRead",
@@ -94,6 +198,49 @@
       "topics": [
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-4paradigm-defends-its-championship-in-chinas-machine-learning-platform-market-in-the-1st-half-of-2020-according-to-idc.md",
+      "title": "4Paradigm Defends its Championship in China’s Machine Learning Platform Market in the 1st Half of 2020, According to IDC",
+      "excerpt": "Paradigm stays on a leadership position from 2018 to the first half of 2020. IDC, a premier global provider of market intelligence, has recently published China AI Software and A",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/marketers-media/technology-science-greater-china-asia-china-b0d5c9646db4eb2b19f4cccf4ea99abc",
+      "originalUrl": "https://apnews.com/press-release/marketers-media/technology-science-greater-china-asia-china-b0d5c9646db4eb2b19f4cccf4ea99abc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-20T21:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -198,50 +345,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-4paradigm-defends-its-championship-in-chinas-machine-learning-platform-market-in-the-1st-half-of-2020-according-to-idc.md",
-      "title": "4Paradigm Defends its Championship in China's Machine Learning Platform Market in the 1st Half of 2020, According to IDC",
-      "excerpt": "IDC, a premier global provider of market intelligence, has recently published China AI Software and Application (2020 H1) Report (hereinafter referred to as \"Report\"), where 4Paradigm as an AI innovator recognized for its software standardization level,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/4paradigm-defends-its-championship-in-china-s-machine-learning-platform-market-in-the-1st-half-of-2020-according-to-idc-1029988328",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/4paradigm-defends-its-championship-in-china-s-machine-learning-platform-market-in-the-1st-half-of-2020-according-to-idc-1029988328",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/4paradigm-defends-its-championship-in-china-s-machine-learning-platform-market-in-the-1st-half-of-2020-according-to-idc-1029988328",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/4paradigm-defends-its-championship-in-china-s-machine-learning-platform-market-in-the-1st-half-of-2020-according-to-idc-1029988328",
-      "publishedDateTime": "2021-01-20T20:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     },
     {
@@ -1130,101 +1233,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-innovate-finance-the-uk-retains-european-fintech-investment-crown-in-2020.md",
-      "title": "Innovate Finance: The UK Retains European Fintech Investment Crown in 2020",
-      "excerpt": "Innovate Finance has published a note regarding Fintech investment in the UK. According to their numbers, the UK retains its title as the top investment destination in Europe for Fintech firms at with $4.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2021/01/171416-innovate-finance-the-uk-retains-fintech-investment-crown-in-2020/",
-      "originalUrl": "https://www.crowdfundinsider.com/2021/01/171416-innovate-finance-the-uk-retains-fintech-investment-crown-in-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2018/03/London-UK-Fintech-600x447.jpg",
-          "width": 600,
-          "height": 447,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2021/01/171416-innovate-finance-the-uk-retains-fintech-investment-crown-in-2020/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/01/171416-innovate-finance-the-uk-retains-fintech-investment-crown-in-2020/amp/",
-      "publishedDateTime": "2021-01-20T08:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-facebook-ai-gets-better-at-describing-photos-for-visually-impaired-users.md",
-      "title": "Facebook AI Gets Better at Describing Photos for Visually Impaired Users",
-      "excerpt": "In an effort to better accommodate users who are blind or visually impaired, Facebook this week updated its automatic alternative text (AAT) technology. The feature, introduced in 2016 (and granted the Helen Keller Achievement Award from the American Foundation for the Blind in 2018),",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/363767",
-      "originalUrl": "https://www.entrepreneur.com/article/363767",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1611158780-03y4aZSGaxg8n0A3gIm3L57-11611143412fit-limfit-limsize-1696x.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/363767",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/363767",
-      "publishedDateTime": "2021-01-20T08:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

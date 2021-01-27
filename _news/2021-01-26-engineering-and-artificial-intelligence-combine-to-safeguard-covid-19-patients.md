@@ -24,22 +24,31 @@ images:
     isCached: true
 
 related:
-  - title: "Engineering and artificial intelligence combine to safeguard patients' lives"
-    excerpt: "Spurred by the demands of the COVID-19 pandemic, researchers at Princeton and Google are applying mechanical engineering and artificial intelligence in an effort to increase the availability and effectiveness of ventilation treatments worldwide."
-    publishedDateTime: 2021-01-27T12:54:00Z
-    webUrl: "https://medicalxpress.com/news/2021-01-artificial-intelligence-combine-safeguard-patients.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-01-artificial-intelligence-combine-safeguard-patients.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-01-artificial-intelligence-combine-safeguard-patients.amp"
+  - title: "We Helped Greece Build an AI System to Make Covid-19 Testing More Efficient. Here's What We Learned."
+    excerpt: "In addition to travel and tourism, we believe AI-driven systems like Eva can help schools, workplaces, local governments, and other institutions with limited resources better manage their Covid-19 restrictions and testing policies. If a university ..."
+    publishedDateTime: 2021-01-27T16:30:00Z
+    webUrl: "https://www.entrepreneur.com/article/363706"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/363706"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/363706"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 54
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 72
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/engineeringa.jpg"
-        width: 2880
-        height: 1620
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1611603565-GettyImages-148740649.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
         isCached: true
+  - title: "Icovid’s AI COVID-10 lung scan goes viral in Europe"
+    excerpt: "Belgium’s Icovid initiative, which looks for ways to utilize AI to support radiologists in the assessment of CT images of the lungs of Covid-19 patients, is getting a lot of attention as it spreads across Europe."
+    publishedDateTime: 2021-01-27T13:23:00Z
+    webUrl: "https://bits-chips.nl/artikel/icovids-ai-covid-10-lung-scan-goes-viral-in-europe/"
+    type: article
+    provider:
+      name: Bits&Chips
+      domain: bits-chips.nl
+    quality: 19
 
 secured: "cpBQdx6wg3pda+ZypaejAWzbFb3a5qjQrnryGRLOO5vF5LNSafSfRIxQQw3svj6UQAJZLbV249pllWXZDPSWos2GYKhAisV8WPWPwuiHfl4bcvVd5D7zr9KrX9XHicz94fFxCaCaIA2Rv3fwga/sC+ZeNmXYHcM/C2TvbwHOdKFlBXAO/hir/WUEdPNm7YaINLkZilECmbC+bk8K4e/vU1Q5dJlAUtWJWTlZgYFFiLyMF0Gh9cCovAeOwMLyOTuLamCRt1SkOXLpA7sIhkA+F3M5+iclWsdtijC+M/cadtWuze8Hh69DRlVQt9L53pi2OZPB1MmGS8TWrFs29x4IIiknYmOZQ3rnti4t1KISKPM=;iMH64bxBqprTZC7+oOHpYQ=="
 ---

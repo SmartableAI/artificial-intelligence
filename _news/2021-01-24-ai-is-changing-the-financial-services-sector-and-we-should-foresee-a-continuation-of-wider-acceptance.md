@@ -41,6 +41,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Pushing The Frontiers Of Manufacturing AI At Seagate"
+    excerpt: "Seagate's wafer manufacturing plant has adopted several AI applications that improve their quality and productivity."
+    publishedDateTime: 2021-01-27T15:50:00Z
+    webUrl: "https://www.forbes.com/sites/tomdavenport/2021/01/27/pushing-the-frontiers-of-manufacturing-ai-at-seagate/"
+    ampWebUrl: "https://www.forbes.com/sites/tomdavenport/2021/01/27/pushing-the-frontiers-of-manufacturing-ai-at-seagate/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2021/01/27/pushing-the-frontiers-of-manufacturing-ai-at-seagate/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60118aa54082182beabf8d5a%2F0x0.jpg"
+        width: 696
+        height: 493
+        isCached: true
 
 secured: "bXCx/xdgwa6XonDUdyVfXrnxpgBTeiKOuoPMiEZl/y3psQMqBmzBlZDF+p3899GH3q03h/saWT5Yck52X6fRzMkn1EZrhv8jvP9ZcY3qthz6rr+WZ4fBwnkmOzErKwN4oHS8FN6r11cBbkEmD6a4xhm/IEHKKrC0rkB3xCyYpxFcrmqlYWBC5uTtTHDS/Na4Y9I0txsZ7YRczJQB8+9LBZy1+34oVUuJaDc6YZcqMWq6KF71V9AOmoQtR8ZHgWPWZmbY7J1Fss/JFXrWZUhUDODE5XvQoByzBLVY4MqGnJHC6BgT/juwMb+CedczDw1BwYdxpj89GSqsFNM8yupVKLz/fpxg4+x61wgeDiJuPp1vN0FYQuWJemFPzVa+SS8wJWAuydey6+I7RAuythcgP6LUVjAu1NUqy/IY22NmwXR4iOqI8Ea+20K3CqfIcV2YK9/AZDeEC22dniab5KyLgeTqSVcKJbPRNV5iK+A6jCgmAu5STbvnd9nGs8aY1MGFhT0ThDEOkaHfmO35C5p3zw==;f+i6fOF/I4zDOy5Y74Gulw=="
 ---

@@ -39,17 +39,6 @@ related:
         width: 800
         height: 418
         isCached: true
-  - title: "Qualcomm’s AI-Driven Video Compression And Ensuring that AI’s Do No Evil"
-    excerpt: "Could future videos be disqualified as evidence because an AI like Qualcomm’s broke the chain of evidence? The answer is yes, but the risk can be mitigated in several ways. I think this problem, as we adapt AI technology,"
-    publishedDateTime: 2021-01-22T23:50:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/qualcomms-ai-driven-video-compression-and-ensuring-that-ais-do-no-evil.html"
-    ampWebUrl: "https://www.datamation.com/amp/artificial-intelligence/qualcomms-ai-driven-video-compression-and-ensuring-that-ais-do-no-evil.html"
-    cdnAmpWebUrl: "https://www-datamation-com.cdn.ampproject.org/c/s/www.datamation.com/amp/artificial-intelligence/qualcomms-ai-driven-video-compression-and-ensuring-that-ais-do-no-evil.html"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 36
 
 secured: "GjyHZi49o2c3Z8uvegf8oWhzLD1/bZrPcCFfig/85HbSrEPY34LOALhx31wvqBiruSdN4ktCkC1eYUXBPklTmU/C/UKtQIwBqXVgHZea8ydfD72tXGcxsZ9wf5ZeAbGao3qa73KHRHXlClEf3O6h0fRZzDMzSA6zel0NpUilFiSJmlfhZWqJ884/8My1x03V0gBHHVY00M+8Yx0JewE+ANff1m/+d2E9Ce3FY3GKTu+EMx4IGMsHPBY0UXHfTVKqv83s099Nsj9zBS1PrLPh+EZ9IsmYexMrKInPjEjCSvcSuR55bnu0j2l36qbSlMvFBCBMYRFvihw5Ja/eYWff7skM4//ArDIUr0KMlSYzHN3v0g3kpgiMPAXPvXH5MTW9MyQkZyHaw6aCw6BzN8C7NCw1LrnzgkLhoMFeKO304eZ13yv+7aoSt3n3qf9n/QLjR/bq4SpRNCAl4osRNTozRpJK/BAQEsFctoPnriGqsnoKwP3NIbH4cohiGTpadu8/FGItwMLGau38FSoyTL81Cw==;EZbMl3p7jDqa6HiDkX+xyw=="
 ---

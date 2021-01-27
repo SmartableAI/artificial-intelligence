@@ -41,6 +41,22 @@ related:
         width: 1199
         height: 674
         isCached: true
+  - title: "This is why your next GPU upgrade should be an NVIDIA GeForce RTX 30-series card from ASUS"
+    excerpt: "DLSS relies on NVIDIA® Tensor Cores which are present in each GeForce RTX™ 30 series GPU. And because it’s an AI-driven feature, it only gets better with time. Let’s take a look at CyberPunk 2077 without NVIDIA RTX™, followed by switching on ..."
+    publishedDateTime: 2021-01-27T16:07:00Z
+    webUrl: "https://www.digit.in/features/pc-components/this-is-why-your-next-gpu-upgrade-should-be-an-nvidia-geforce-rtx-30-series-card-from-asus-58234.html"
+    ampWebUrl: "https://www.digit.in/article/amp/pc-components/58234/this-is-why-your-next-gpu-upgrade-should-be-an-nvidia-geforce-rtx-30-series-card-from-asus"
+    cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/pc-components/58234/this-is-why-your-next-gpu-upgrade-should-be-an-nvidia-geforce-rtx-30-series-card-from-asus"
+    type: article
+    provider:
+      name: Digit
+      domain: digit.in
+    quality: 49
+    images:
+      - url: "https://static.digit.in/default/4e0fdc82b3d7da8e3c2aa3b3d2f48b62e81b74cd.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "GU2hKmpgjgRpXfVKmFKVdo8n3vJeDMvVNzjKgtfYUC++jMqJI3DDfrX/s5v7i6OY3xuiWO2Nz9NloOD51K7+Wa0sMy8TryWG4lGCgVRAuVoNesKVbpg+vVsZaGOEVwedvOWFbjO0OIc2Nzfla9e+wod6e4nb061BzGq9l81/ZRjOgZBqJgFB7PFh+q7fpf04gOivMAAwv2R47AKy5uR6tVQPXFi8b0kiHS+nbtNlkJu7m5Q98JJgiBjyDPDs4W7XkLs4KpknFHcsSMh8rhbfOw/NycPbdrp6xzCct9AGy5VDxFbYk5SSmFeZKoGnkYGHdxbyOUI0phPnQW8Tn94siBPz6Hu/YqYF6gl8dqyN6dw=;kcoDer7l0aFZsfaNSmkwHA=="
 ---

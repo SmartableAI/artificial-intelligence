@@ -1,0 +1,61 @@
+---
+category: news
+title: "NICE Actimize Honored for AI and Advanced Analytics Innovation in Holistic Trade Surveillance by Regulation Asia"
+excerpt: "NICE Actimize, a NICE (Nasdaq: NICE) business, announced today that its Holistic Trade and Communications Surveillance solutions suite was recognized by the Regulation Asia Awards for Excellence 2020 for the second consecutive year with the Best Solution in Market & Trading Surveillance award."
+publishedDateTime: 2021-01-27T16:18:00Z
+originalUrl: "https://www.globalbankingandfinance.com/category/news/nice-actimize-honored-for-ai-and-advanced-analytics-innovation-in-holistic-trade-surveillance-by-regulation-asia/"
+webUrl: "https://www.globalbankingandfinance.com/category/news/nice-actimize-honored-for-ai-and-advanced-analytics-innovation-in-holistic-trade-surveillance-by-regulation-asia/"
+type: article
+quality: 18
+heat: -1
+published: false
+
+provider:
+  name: List of Banks in Belarus
+  domain: globalbankingandfinance.com
+
+topics:
+  - Facebook AI
+  - AI
+
+images:
+  - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
+    width: 1000
+    height: 600
+    isCached: true
+
+related:
+  - title: "Ex-Uber team raises $6M seed for geospatial analytics platform Unfolded.ai"
+    excerpt: "Years ago, Uber had a problem. With millions of users and tens of thousands of drivers scattered across a widening expanse of the globe, the fast-growing mobility startup wanted to display more accurate maps to users about where their ride was coming from and where it was intending to go to reach"
+    publishedDateTime: 2021-01-26T15:36:00Z
+    webUrl: "https://techcrunch.com/2021/01/26/ex-uber-team-raises-6m-seed-for-geospatial-analytics-platform-unfolded-ai/"
+    ampWebUrl: "https://techcrunch.com/2021/01/26/ex-uber-team-raises-6m-seed-for-geospatial-analytics-platform-unfolded-ai/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/26/ex-uber-team-raises-6m-seed-for-geospatial-analytics-platform-unfolded-ai/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 85
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/01/founders.png?w=680"
+        width: 680
+        height: 381
+        isCached: true
+  - title: "AI and ML in intelligent analytics can drive the efficiency in business"
+    excerpt: "The role of AI and ML in intelligent analytics is quite fruitful as it quickens the data transformation process. Artificial intelligence and ML frameworks exist that utilize analytics data to assist businesses with foreseeing results and effective blueprints."
+    publishedDateTime: 2021-01-27T06:44:00Z
+    webUrl: "https://www.analyticsinsight.net/the-role-of-artificial-intelligence-and-ml-in-intelligent-analytics/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 56
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/Intelligent-Analysis.jpg"
+        width: 900
+        height: 500
+        isCached: true
+
+secured: "Sd+KWSJW8fPgNTpDNzW2Wl4HvQqvgXragQ/hvbFUfv6h4cLPOEKBt+PqVfv55SGEFko3Oibox6ij8jWAWPxUfjVlwNa7Yg1l/OMRUCOeN7ZjS/1Bz+mOb8QSYDlPwnc18lMElr8EUIBvSbU9E93HD/X50jCByAzvCClYHlQ0/8DpQwql+CMonIu9+Od6HIbCG6t9GB/cRqS19r8B5sogWk7UHhTt1M6ULzlbiV1nEa+2Azyl9CmE3gS9BOFLEIVX02ygHkLfvvANibv9iK0kevQFpAp71ZOHDreuWi+nHG5umOUIFkJFbng2Xfuwjsadd1OLD/jtUXYXrX6f08e2Qy4cl6UMjnm5DPPzr955u9Y=;+Iz3vQ+pwmjHvBV7+XqYzg=="
+---
+

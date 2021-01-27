@@ -7,8 +7,8 @@ originalUrl: "https://www.healthyhearing.com/report/53168-Hearing-aids-artificia
 webUrl: "https://www.healthyhearing.com/report/53168-Hearing-aids-artificial-intelligence-deep-learning-oticon"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: Unitron Hearing Aids
@@ -26,17 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Qualcomm’s AI-Driven Video Compression And Ensuring that AI’s Do No Evil"
-    excerpt: "Could future videos be disqualified as evidence because an AI like Qualcomm’s broke the chain of evidence? The answer is yes, but the risk can be mitigated in several ways. I think this problem, as we adapt AI technology,"
-    publishedDateTime: 2021-01-22T23:50:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/qualcomms-ai-driven-video-compression-and-ensuring-that-ais-do-no-evil.html"
-    ampWebUrl: "https://www.datamation.com/amp/artificial-intelligence/qualcomms-ai-driven-video-compression-and-ensuring-that-ais-do-no-evil.html"
-    cdnAmpWebUrl: "https://www-datamation-com.cdn.ampproject.org/c/s/www.datamation.com/amp/artificial-intelligence/qualcomms-ai-driven-video-compression-and-ensuring-that-ais-do-no-evil.html"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 36
   - title: "What does Indigenous Recognition mean?"
     excerpt: "Voice’, ‘recognition’, ‘sovereignty’ and ‘treaty’ have become a significant part of the language used to discuss the development of Australia's relationship with its Indigenous peoples."
     publishedDateTime: 2021-01-25T04:10:00Z

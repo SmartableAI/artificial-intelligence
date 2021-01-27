@@ -9,7 +9,7 @@ ampWebUrl: "https://theconversation.com/amp/hidden-in-plain-sight-the-infrastruc
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/hidden-in-plain-sight-the-infrastructures-that-support-artificial-intelligence-146087"
 type: article
 quality: 68
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -26,6 +26,17 @@ images:
     isCached: true
 
 related:
+  - title: "Report IDC: Unleashing the Power of AI Initiatives with the Right Infrastructure"
+    excerpt: "Today, as AI becomes mainstream, many organizations find themselves in the initial proof-of-concept (POC) stage; only a few are in full"
+    publishedDateTime: 2021-01-27T15:54:00Z
+    webUrl: "https://www.techrepublic.com/resource-library/whitepapers/report-idc-unleashing-the-power-of-ai-initiatives-with-the-right-infrastructure/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/resource-library/whitepapers/report-idc-unleashing-the-power-of-ai-initiatives-with-the-right-infrastructure/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/report-idc-unleashing-the-power-of-ai-initiatives-with-the-right-infrastructure/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 62
   - title: "Hidden in plain sight: The infrastructures that support artificial intelligence"
     excerpt: "Artificial intelligence requires machines, processing power and energy consumption, among other things. Often, we’re unaware of the presence of this infrastructure around us"
     publishedDateTime: 2021-01-26T14:39:00Z

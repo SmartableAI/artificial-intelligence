@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/01/27/state-of-the-
 ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/01/27/state-of-the-art-applied-artificial-intelligence-defined/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/27/state-of-the-art-applied-artificial-intelligence-defined/amp/"
 type: article
-quality: 89
-heat: 119
+quality: 91
+heat: 121
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60104fb1a4f5ba2187cb3cf4%2F0x0.jpg"
@@ -78,6 +79,6 @@ related:
         height: 1067
         isCached: true
 
-secured: "arV0f2+/zOczYFRLIRMuYixKmnXfso1gzjX3+tarBVpQoggq+mmX7nl8TEC5n+cbZblGT9U16YWozkyMy/Hx15NR/uhImwFtMyQ6qKjUzi2BnGyhwG6WpXydVjOeg6XtM5zQ6cepeoL3TzFgDZtUMyQiXjdade/x0ISBe30NTYg7zewkzXnTlLGl66GtB+LtXqe955uOAh7f6KpcSkhjnbS77f8+35CXIUq/rnNuy4nV0nYJE89DaUxcO4V2jDJbbmL8ldxn+lEO57EUoPy0u50EOBCaMUWvsFJ+pK2yoomoPKSTR3y3tss8x5XxnGhTXgu3bmo1mpan4aFj6lFZQQ0IFndwV8enytTrEOBqT0E=;N7bez07/xAhjyfTbI1WRWA=="
+secured: "3H9pM8hexwXi2agIWZzil0Uot1bOHEqd96+PoaP5heE//ttDMVaETrXjWWA5evx1SiX+mLnUk/c3yVAC0KqQCIkpX4RiPnPhwOaGjrItoMyXjzZfngkCOEMEcnHPT7O9hCY1GwP6UYsRA5f6aGqh2lWUkAAcryq6URazApgfZHjfJ+OpYRp7Qf4NnaJpLSN/kiMJAYzzl8/LAuiSkgi48PK3ipkJIrNx/P2Ek67D0+k9qhsLtFZgtqG6TxGbca0o3wPFGpeGuVKn/+m7T0f+ILnYhcSG/WTBrjwgR3vdvF+Kj2xXUuv2wijLsA8GQlcPB8Iq0t5xDgKwcG1RrPNFCw9RSFWR+P4zIB/y8WeQ6NjQnj6EdfB2BDJleQXrAZqZrJ4b9c9Ue9Cfu/yzR1TuuVZvORy2+EXxSyJZ+JC/MTpIiW5gca6gmtdLFr+txPf5nEpbMLFzFjVqrGA5EJomHvJ2PnykRuessmum1YpWRBu/coSly2xxvJcfb28JNd2tioxpOThAcd0wNbDVfNIH+A==;UREDJNmNAlHBNT/TZyQK2g=="
 ---
 

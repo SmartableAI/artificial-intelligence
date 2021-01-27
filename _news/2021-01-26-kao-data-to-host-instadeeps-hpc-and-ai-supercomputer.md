@@ -7,7 +7,7 @@ originalUrl: "https://www.capacitymedia.com/articles/3827523/kao-data-to-host-in
 webUrl: "https://www.capacitymedia.com/articles/3827523/kao-data-to-host-instadeeps-hpc-and-ai-supercomputer"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Kao Data to Host InstaDeep's HPC and AI Supercomputer, Expanding R&D Capabilities"
-    excerpt: "Kao Data, the specialist developer and operator of advanced, carrier-neutral data centres for high performance colocation, has today announced a new customer contract with InstaDeep, a global leader in artificial intelligence (AI) powered decision-making solutions for enterprise."
-    publishedDateTime: 2021-01-26T09:16:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/kao-data-to-host-instadeep-s-hpc-and-ai-supercomputer-expanding-r-d-capabilities-1030002896"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/kao-data-to-host-instadeep-s-hpc-and-ai-supercomputer-expanding-r-d-capabilities-1030002896"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/kao-data-to-host-instadeep-s-hpc-and-ai-supercomputer-expanding-r-d-capabilities-1030002896"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
   - title: "Kao Data signs AI-focused life sciences startup InstaDeep as a customer"
     excerpt: "Harlow-based colocation provider Kao Data has added artificial intelligence (AI)-focused startup InstaDeep to its customer roster of high-performance computing (HPC) clients. Founded in 2014, InstaDeep specialises in providing AI-based decision-making products for enterprises and industrial environments."
     publishedDateTime: 2021-01-26T16:50:00Z
@@ -47,6 +36,20 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 37
+  - title: "Kao Data to Host InstaDeep's HPC and AI Supercomputer, Expanding R&D Capabilities"
+    excerpt: "Kao Data, the specialist developer and operator of advanced, carrier-neutral data centres for high performance colocation, has today"
+    publishedDateTime: 2021-01-26T09:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/kao-data-to-host-instadeeps-hpc-and-ai-supercomputer-expanding-rd-capabilities-301214382.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 34
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Kao Data to Host InstaDeep’s HPC and AI Supercomputer, Expanding R&D Capabilities"
     excerpt: "Kao Data, developer and operator of advanced, carrier-neutral data centres for high performance colocation, has today announced a new customer contract with InstaDeep, a global leader in artificial intelligence (AI) powered decision-making solutions for enterprise."
     publishedDateTime: 2021-01-26T16:39:00Z

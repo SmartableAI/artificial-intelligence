@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-27-pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding.md",
+      "title": "Pinecone, a serverless vector database for machine learning, leaves stealth with $10M funding",
+      "excerpt": "Machine learning applications understand the world through vectors. Pinecone, a specialized cloud database for vectors, has secured significant investment from the people who brought Snowflake to the world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/",
+      "originalUrl": "https://www.zdnet.com/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2021/01/27/433da3ee-bf33-491e-b03e-51e2184e3670/pinecone-illustration.jpg",
+          "width": 426,
+          "height": 398,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/",
+      "publishedDateTime": "2021-01-26T23:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-01-27-new-machine-learning-tool-predicts-schizophrenia.md",
       "title": "New machine learning tool predicts schizophrenia",
       "excerpt": "University of Alberta researchers have taken another step forward in developing an artificial intelligence tool to predict schizophrenia by analyzing brain scans.",
@@ -263,50 +316,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-25-hearing-aids-now-come-with-artificial-intelligence-what-does-that-mean.md",
-      "title": "Hearing aids now come with artificial intelligence. What does that mean?",
-      "excerpt": "Premium hearing aids may use artificial intelligence like machine learning and deep neural networks to help process sound. Learn why this is a significant improvement for people with hearing loss.",
-      "sourceUrl": null,
-      "webUrl": "https://www.healthyhearing.com/report/53168-Hearing-aids-artificial-intelligence-deep-learning-oticon",
-      "originalUrl": "https://www.healthyhearing.com/report/53168-Hearing-aids-artificial-intelligence-deep-learning-oticon",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.healthyhearing.com/uploads/images/ai-hearing-aids-hh19-fb.png",
-          "width": 800,
-          "height": 418,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-24T22:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Unitron Hearing Aids",
-        "domain": "healthyhearing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2021-01-22-threat-detection-and-security-are-aided-by-integrated-machine-learning-artificial-intelligence.md",
       "title": "Threat Detection And Security Are Aided By Integrated Machine Learning / Artificial Intelligence",
       "excerpt": "Government buildings, airports, and other buildings at risk from terror attacks, whether from individuals or organizations, need more security that visual tracking of potential threats. In addressing these complex needs,",
@@ -456,35 +465,35 @@
     },
     {
       "path": "_news/2021-01-21-4paradigm-defends-its-championship-in-chinas-machine-learning-platform-market-in-the-1st-half-of-2020-according-to-idc.md",
-      "title": "4Paradigm Defends its Championship in China's Machine Learning Platform Market in the 1st Half of 2020, According to IDC",
-      "excerpt": "IDC, a premier global provider of market intelligence, has recently published China AI Software and Application (2020 H1) Report (hereinafter referred to as \"Report\"), where 4Paradigm as an AI innovator recognized for its software standardization level,",
+      "title": "4Paradigm Defends its Championship in China’s Machine Learning Platform Market in the 1st Half of 2020, According to IDC",
+      "excerpt": "Paradigm stays on a leadership position from 2018 to the first half of 2020. IDC, a premier global provider of market intelligence, has recently published China AI Software and A",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/4paradigm-defends-its-championship-in-china-s-machine-learning-platform-market-in-the-1st-half-of-2020-according-to-idc-1029988328",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/4paradigm-defends-its-championship-in-china-s-machine-learning-platform-market-in-the-1st-half-of-2020-according-to-idc-1029988328",
+      "webUrl": "https://apnews.com/press-release/marketers-media/technology-science-greater-china-asia-china-b0d5c9646db4eb2b19f4cccf4ea99abc",
+      "originalUrl": "https://apnews.com/press-release/marketers-media/technology-science-greater-china-asia-china-b0d5c9646db4eb2b19f4cccf4ea99abc",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/4paradigm-defends-its-championship-in-china-s-machine-learning-platform-market-in-the-1st-half-of-2020-according-to-idc-1029988328",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/4paradigm-defends-its-championship-in-china-s-machine-learning-platform-market-in-the-1st-half-of-2020-according-to-idc-1029988328",
-      "publishedDateTime": "2021-01-20T20:43:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-20T21:53:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -493,9 +502,8 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1257,6 +1265,40 @@
       ]
     },
     {
+      "path": "_news/2021-01-15-oracle-extends-database-leadership-with-oracle-database-21c.md",
+      "title": "Oracle extends database leadership with Oracle database 21c",
+      "excerpt": "Oracle Database 21c contains more than 200 new innovations, including immutable blockchain tables, In-Database JavaScript, native JSON binary data type, AutoML for in-database machine learning (ML), and persistent memory store, as well as enhancements for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/mena/en/press-releases/story/Oracle_extends_database_leadership_with_Oracle_database_21c-ZAWYA20210114095931/",
+      "originalUrl": "https://www.zawya.com/mena/en/press-releases/story/Oracle_extends_database_leadership_with_Oracle_database_21c-ZAWYA20210114095931/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/ZAWYA20210114095931/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210114095931/",
+      "publishedDateTime": "2021-01-14T12:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-14-fda-clears-deep-learning-application-to-support-image-interpretation-with-hyperfines-swoop.md",
       "title": "FDA Clears Deep Learning Application to Support Image Interpretation with Hyperfine’s Swoop™",
       "excerpt": "(k) clearance from the US FDA for its deep-learning image analysis software. These Advanced AI Applications measure brain structure and pathology in images acquired by the category-defining Swoop™ Portable MR Imaging System through tools featuring automatic measurement of ventricular volume,",
@@ -1350,49 +1392,6 @@
         "Natural Language Processing",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-machine-learning-tool-gives-early-warning-of-cardiac-issues-in-covid-19-patients.md",
-      "title": "Machine learning tool gives early warning of cardiac issues in COVID-19 patients",
-      "excerpt": "A team of Johns Hopkins University biomedical engineers and heart specialists have developed an algorithm that warns doctors several hours before hospitalized COVID-19 patients experience cardiac arrest or blood clots.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-01-machine-tool-early-cardiac-issues.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-01-machine-tool-early-cardiac-issues.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2018/cardiacdevice.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-01-machine-tool-early-cardiac-issues.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-01-machine-tool-early-cardiac-issues.amp",
-      "publishedDateTime": "2021-01-14T06:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

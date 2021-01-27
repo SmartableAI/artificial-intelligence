@@ -26,6 +26,22 @@ images:
     height: 337
     isCached: true
 
+related:
+  - title: "How Automation is Key to the Future of Healthcare Operations"
+    excerpt: "As the saying goes, necessity is the mother of invention. A similar correlation is seen in the quest to leverage innovation and out-of-the-box thinking to address key problems facing the healthcare industry."
+    publishedDateTime: 2021-01-27T16:30:00Z
+    webUrl: "https://hitconsultant.net/2021/01/27/how-automation-is-key-to-the-future-of-healthcare-operations/"
+    type: article
+    provider:
+      name: HIT Consultant
+      domain: hitconsultant.net
+    quality: 39
+    images:
+      - url: "https://wrm5sysfkg-flywheel.netdna-ssl.com/wp-content/uploads/2021/01/Giri-Rajaiah.jpg"
+        width: 331
+        height: 331
+        isCached: true
+
 secured: "lTUdMNu5vFaoob2dKW7YYX3ud5DJ200v3gFr7AcY7GPPtdui4TjRqwTr19tvF0VkxI2fUO1O5JZYXB/N6p8Qn72a6eqOZq+sGUHO1REgQ9WdKH09tim6YeX+X7r0l23gAtI84RXjVawVf1MNiQoxesslJegHr5SiOsAEIfJqUW0vJVlAw0J5KrxgaYJE5EHk8N0uQ/adHrB/6pjznytl+jOSz2YmRWbUqe2fEqxHVIztZYhPBsLZLOwYdnRgjDpA8M4IzbUU/MquVbQQI+M5P08CC6w38uI16Q1pT3LCYAbV2ktf8lZKniBRqWOeY86ZsAwyCWWelxcmFnfoz0cXZqeSFk1DIYcsZ2yDWUuNyVQ=;DinJWImRQrA2mUwhHe4hIA=="
 ---
 

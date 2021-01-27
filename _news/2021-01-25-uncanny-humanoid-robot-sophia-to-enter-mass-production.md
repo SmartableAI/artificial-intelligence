@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "Humanoid robot Sophia to be mass produced by the end of 2021, capitalising on the pandemic-induced robot boom"
+    excerpt: "As the pandemic creates a robotics boom, the creators of humanoid robot Sophia — who went viral in 2016 — are planning for mass production."
+    publishedDateTime: 2021-01-27T15:05:00Z
+    webUrl: "https://www.businessinsider.com/robot-humanoid-sophia-david-hanson-grace-healthcare-robotics-pandemic-ai-artificial-intelligence"
+    ampWebUrl: "https://www.businessinsider.com/robot-humanoid-sophia-david-hanson-grace-healthcare-robotics-pandemic-ai-artificial-intelligence?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/robot-humanoid-sophia-david-hanson-grace-healthcare-robotics-pandemic-ai-artificial-intelligence?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 50
   - title: "More humanoid robots to start rolling out in 2021"
     excerpt: "Hanson Robotics reportedly plans to mass-produce other humanoid robots, including Sophia, by the end of the year."
     publishedDateTime: 2021-01-25T08:15:00Z

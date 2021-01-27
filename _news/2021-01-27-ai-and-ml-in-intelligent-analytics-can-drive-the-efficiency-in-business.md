@@ -42,6 +42,20 @@ related:
         width: 680
         height: 381
         isCached: true
+  - title: "NICE Actimize Honored for AI and Advanced Analytics Innovation in Holistic Trade Surveillance by Regulation Asia"
+    excerpt: "NICE Actimize, a NICE (Nasdaq: NICE) business, announced today that its Holistic Trade and Communications Surveillance solutions suite was recognized by the Regulation Asia Awards for Excellence 2020 for the second consecutive year with the Best Solution in Market & Trading Surveillance award."
+    publishedDateTime: 2021-01-27T16:18:00Z
+    webUrl: "https://www.globalbankingandfinance.com/category/news/nice-actimize-honored-for-ai-and-advanced-analytics-innovation-in-holistic-trade-surveillance-by-regulation-asia/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 18
+    images:
+      - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "XmdAEeKIZnunHWXbxg3CXTQxwg6bZGrhEEsf864Optw9EqJJRe6/VzjZJZQYXk/zH+K8uqmGtOV3tKItRjnEDC9JttMq5Di8ksabNslV1c0UKW7hJ2GUimSi2Yk+s/L/0yXQXgsc0uw/p39rqkuNQNuXW2K0LgIvSP9gRXltJrVxvjj7O7Z4cr5y1VN15Bf/re1ZAGWwIRMy8Ie05j91fM7WkBuGgbZYdoHRAghpe51CjMIpcMCO8qHRp85v37KmslcHFuac0/A4TxMuMenbcr1f7d8KZfPA7aJ51GyrModsXhUJdIPJCquTETapaI8h378GuXO/7KZC5SVNfS2JCqyEpctFsU1oIjqdumgQpDT/tHN22rVaHS5YCPzvbUmTB2EWzAair634QYOy4j97M1r8S2z834HAvH8sbNuf0H827fYgJgBJ657SK2D7sN2eb3uskOn0csjTMhFuC1lyOL9t4d8RdEsJfSMqTO3kSbwP4sqXywRREfZ3hWc/dT3o/bGx9brXAEgGmJNm5K5o3A==;C5NsvRm4VlGYcVeOuncmUw=="
 ---

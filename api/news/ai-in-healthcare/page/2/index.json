@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-09-artificial-intelligence-in-healthcare-diagnosis-market.md",
+      "title": "Artificial Intelligence In Healthcare Diagnosis Market",
+      "excerpt": "It is used in healthcare for approximation of human cognition as well as the analysis of complex medical and diagnostic imaging data. The artificial intelligence in healthcare diagnosismarket is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2222597/artificial-intelligence-in-healthcare-diagnosis-market",
+      "originalUrl": "https://www.openpr.com/news/2222597/artificial-intelligence-in-healthcare-diagnosis-market",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/1/U108142410_g.jpg",
+          "width": 800,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2222597/artificial-intelligence-in-healthcare-diagnosis-market",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2222597/artificial-intelligence-in-healthcare-diagnosis-market",
+      "publishedDateTime": "2021-01-08T19:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-ensuring-healthcares-innovation-boom-benefits-all-equally.md",
       "title": "Ensuring Healthcare’s Innovation Boom Benefits All Equally",
       "excerpt": "She shared thoughts on three areas of innovation that have seen some of the biggest leaps in the past few years. While there might be a drop off in telehealth visits once the pandemic subsides, it has undoubtedly become a mainstay of medicine.",
@@ -1360,51 +1403,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-how-artificial-intelligence-and-robots-are-changing-the-world-use-cases-of-ai-and-robotics.md",
-      "title": "How Artificial Intelligence and Robots are Changing the World? Use cases of AI and Robotics",
-      "excerpt": "Artificial intelligence and robotics are bringing drastic changes in the technological fields. Here is how artificial intelligence and robots are changing the World and here are the use cases of AI and Robotics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/how-artificial-intelligence-and-robots-are-changing-the-world-use-cases-of-ai-and-robotics/",
-      "originalUrl": "https://www.analyticsinsight.net/how-artificial-intelligence-and-robots-are-changing-the-world-use-cases-of-ai-and-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/12/AI-and-Robotics.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-16T09:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
       ]
     }
   ],

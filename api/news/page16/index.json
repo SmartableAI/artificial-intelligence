@@ -2,6 +2,143 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-01-13-tempus-announces-companion-diagnostic-collaboration-with-a2-biotherapeutics.md",
+      "title": "Tempus Announces Companion Diagnostic Collaboration With A2 Biotherapeutics",
+      "excerpt": "a leader in artificial intelligence and precision medicine, today announced a strategic collaboration to develop a companion diagnostic (CDx) test with A2 Biotherapeutics for its new therapy ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210113005824/en/Tempus-Announces-Companion-Diagnostic-Collaboration-With-A2-Biotherapeutics",
+      "originalUrl": "https://www.businesswire.com/news/home/20210113005824/en/Tempus-Announces-Companion-Diagnostic-Collaboration-With-A2-Biotherapeutics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-13T06:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-salesforce-researchers-release-framework-to-test-nlp-model-robustness.md",
+      "title": "Salesforce researchers release framework to test NLP model robustness",
+      "excerpt": "Researchers at Salesforce released a framework called Robustness Gym to benchmark the robustness of NLP models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/13/salesforce-researchers-release-framework-to-test-nlp-model-robustness/",
+      "originalUrl": "https://venturebeat.com/2021/01/13/salesforce-researchers-release-framework-to-test-nlp-model-robustness/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/13/salesforce-researchers-release-framework-to-test-nlp-model-robustness/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/13/salesforce-researchers-release-framework-to-test-nlp-model-robustness/amp/",
+      "publishedDateTime": "2021-01-13T06:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-telehealth-startup-neuroflow-raises-20-million-to-expand-its-network-of-care-providers.md",
+      "title": "Telehealth startup NeuroFlow raises $20 million to expand its network of care providers",
+      "excerpt": "NeuroFlow, a telehealth startup developing a platform to support clinicians, has raised $20 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/13/telehealth-startup-neuroflow-raises-20-million-to-expand-its-network-of-care-providers/",
+      "originalUrl": "https://venturebeat.com/2021/01/13/telehealth-startup-neuroflow-raises-20-million-to-expand-its-network-of-care-providers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/07/healthcare-security-e1588830355309.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/13/telehealth-startup-neuroflow-raises-20-million-to-expand-its-network-of-care-providers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/13/telehealth-startup-neuroflow-raises-20-million-to-expand-its-network-of-care-providers/amp/",
+      "publishedDateTime": "2021-01-13T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-13-ai-trends-to-watch-in-2021.md",
       "title": "AI Trends To Watch In 2021",
       "excerpt": "In order to tackle short-term, long-term and unexpected obstacles, many leaders have turned to AI to help navigate these disruptions.",
@@ -1008,154 +1145,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-what-this-bald-eagle-and-neural-network-depiction-have-to-do-with-future-us-ai-strategy.md",
-      "title": "What this bald eagle and neural network depiction have to do with future U.S. AI strategy",
-      "excerpt": "The White House launched the National AI Initiatives Office, an org with an eagle and neural network on its seal, to plan U.S. AI strategy.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/12/what-this-bald-eagle-and-neural-network-depiction-have-to-do-with-future-u-s-ai-strategy/",
-      "originalUrl": "https://venturebeat.com/2021/01/12/what-this-bald-eagle-and-neural-network-depiction-have-to-do-with-future-u-s-ai-strategy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/national-ai-initiatives-office.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/12/what-this-bald-eagle-and-neural-network-depiction-have-to-do-with-future-u-s-ai-strategy/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/12/what-this-bald-eagle-and-neural-network-depiction-have-to-do-with-future-u-s-ai-strategy/amp/",
-      "publishedDateTime": "2021-01-12T15:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-avaya-extends-aws-relationship-to-support-ai-capabilities.md",
-      "title": "Avaya Extends AWS Relationship to Support AI Capabilities",
-      "excerpt": "Avaya has extended its Amazon Web Services (AWS) relationship, to expand artificial intelligence (AI)-powered customer experience capabilities for Avaya OneCloud CCaaS customers, Avaya reported on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.executivegov.com/2021/01/avaya-extends-aws-relationship-to-support-ai-capabilities/",
-      "originalUrl": "https://www.executivegov.com/2021/01/avaya-extends-aws-relationship-to-support-ai-capabilities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://executivegov-media.s3.amazonaws.com/2021/01/12/a3/a1/c0/07/55/4b/80/54/avaya_20201120.png",
-          "width": 272,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-12T15:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Executive Gov",
-        "domain": "executivegov.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-job-screening-service-halts-facial-analysis-of-applicants.md",
-      "title": "Job Screening Service Halts Facial Analysis of Applicants",
-      "excerpt": "HireVue, a leading provider of software for vetting job candidates based on an algorithmic assessment, said Tuesday it is killing off a controversial feature of its software: analyzing a person’s facial expressions in a video to discern certain characteristics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/job-screening-service-halts-facial-analysis-applicants/",
-      "originalUrl": "https://www.wired.com/story/job-screening-service-halts-facial-analysis-applicants/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ffcea25072d3ec215c55753/master/pass/hirevue-1210924894.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/job-screening-service-halts-facial-analysis-applicants/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/job-screening-service-halts-facial-analysis-applicants/amp",
-      "publishedDateTime": "2021-01-12T14:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

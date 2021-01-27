@@ -19,21 +19,35 @@ topics:
   - AI
 
 related:
-  - title: "Study provides first real-world evidence of COVID-19 contact tracing app effectiveness"
-    excerpt: "An international research collaboration, involving scientists from the UK, US and Spain, has shed new light on the usefulness of digital contact tracing (DCT) to control the spread of COVID-19."
-    publishedDateTime: 2021-01-26T17:41:00Z
-    webUrl: "https://medicalxpress.com/news/2021-01-real-world-evidence-covid-contact-app.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-01-real-world-evidence-covid-contact-app.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-01-real-world-evidence-covid-contact-app.amp"
+  - title: "We Helped Greece Build an AI System to Make Covid-19 Testing More Efficient. Here's What We Learned."
+    excerpt: "In addition to travel and tourism, we believe AI-driven systems like Eva can help schools, workplaces, local governments, and other institutions with limited resources better manage their Covid-19 restrictions and testing policies. If a university ..."
+    publishedDateTime: 2021-01-27T16:30:00Z
+    webUrl: "https://www.entrepreneur.com/article/363706"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/363706"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/363706"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 36
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 72
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/2-app.jpg"
-        width: 2880
-        height: 1920
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1611603565-GettyImages-148740649.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Engineering and artificial intelligence combine to safeguard COVID-19 patients"
+    excerpt: "Princeton engineers applied artificial intelligence to the task of monitoring and adjusting ventilators for COVID-19 patients, with the goal of easing the burden on medical workers and allowing ventilators to be deployed in areas with staffing shortages."
+    publishedDateTime: 2021-01-26T15:31:00Z
+    webUrl: "https://www.princeton.edu/news/2021/01/26/engineering-and-artificial-intelligence-combine-safeguard-covid-19-patients"
+    type: article
+    provider:
+      name: Princeton University
+      domain: princeton.edu
+    quality: 33
+    images:
+      - url: "https://www.princeton.edu/sites/default/files/styles/scale_1440/public/images/2021/01/TomZajdel090820_0017-ventilator-16X9-for-web.jpg?itok=zUiFQePT"
+        width: 1440
+        height: 810
         isCached: true
 
 secured: "m1EXiQ5YgdktEeFlpQ84nU38Tj+haNtdygeOGz+GX8QF1IYOLm2VvLb2j11rnogEaS6ZJGmmDmXWUntwFKIGfZYuJbgesOYEF0BXM2oKz/onW9F6DSvjLHsTO3zYX9L6mtnA8k/Opl2RxlLhJWXLruxiNZ9ClgHZXLz+KsXpr1aa1JFonnFGJ/+aEFAMSx442znoaGCNOPe/izhQOxxTsTjVj9mzH1BtBOapxBWqmRNgTzobz/SbdXSD0BrZ35arPtwt809ndJyTrp8KGa3YE0aIECApgnr+EeTpfyWWcp6C0gHf5C+D0xLQ4daAtaAPgG9nYsvm1t0sJ1TSmGph4VQy1FX1KUJZ8+yJlCZXRKD1SXug+i8jLx2PYpKLndhvmyFOiiCPniRWgR4PIcWwPZL68MBLjmdRZq/4ePzQ2i9kvinVsPpSSNWlR1dh8dASCnKvCG7OilLBQAFJH8SSUvSBN+PCh+xW3fQLzllneamSQF53jz0F/R9CDAet3ZLivoWNGHfZlg7g6keci2j0qA==;UE/PJLq2kaQFH+H1iqhZBg=="

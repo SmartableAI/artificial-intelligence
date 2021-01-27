@@ -27,15 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "Icovid’s AI COVID-10 lung scan goes viral in Europe"
-    excerpt: "Belgium’s Icovid initiative, which looks for ways to utilize AI to support radiologists in the assessment of CT images of the lungs of Covid-19 patients, is getting a lot of attention as it spreads across Europe."
-    publishedDateTime: 2021-01-27T13:23:00Z
-    webUrl: "https://bits-chips.nl/artikel/icovids-ai-covid-10-lung-scan-goes-viral-in-europe/"
+  - title: "Pro-Vigil Research Finds 20% of Companies Experienced an Increase in Physical Security Incidents Since the Start of COVID-19"
+    excerpt: "Vigil, a provider of remote video monitoring, management and crime deterrence solutions, today published a research report indicating that a significant number of"
+    publishedDateTime: 2021-01-27T16:17:00Z
+    webUrl: "https://www.djournal.com/news/nation-world/pro-vigil-research-finds-20-of-companies-experienced-an-increase-in-physical-security-incidents-since/article_b0856412-9f6b-5e3b-93a8-c9b06a6abb46.html"
     type: article
     provider:
-      name: Bits&Chips
-      domain: bits-chips.nl
-    quality: 19
+      name: Daily Journal
+      domain: djournal.com
+    quality: 14
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/custom/image/c4931bce-e1a3-11e6-b934-53284b68f006.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "XwQFq35VBC8VenCM0UsmcPVZshTvyte84qWsRNzUmgyFXLHdeElltRwKBGax+OFqP6j6LMUQGCif1WcViWfaLL2bvKv7OVIjrNsIjju0sSGwjp7GEF4rU6I8JbSr3oALYKXx20sTcXWQzyQ0pBzMqux8uODBK+w4cYuP3ZYxERtw+hom+0GKYduM7hnUDemezMELk+6ODWz4b87WBE7OnbRLnKIi5H9NcxI4U0J9UV7UMYnThgKtnkXaoz+a4mOgtGLjWH9gu1O5GZUc4LmD68klmY5f2Hd6aMPCE+BSdzUrzxk7rLo5XAZOB/Sdzcz1HkhcgpiwfpUXvZUVwDrH9/eqBw/oriCpFbbULQkORd4=;kMbx1jNcUhA3cNVm3Wv8VA=="
 ---

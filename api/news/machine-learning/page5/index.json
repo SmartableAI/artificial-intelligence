@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-12-18-it-is-time-to-stop-talking-about-moores-law-when-discussing-artificial-intelligence.md",
+      "title": "It Is Time To Stop Talking About Moore’s Law When Discussing Artificial Intelligence",
+      "excerpt": "That is scale-out, and is what continues to push forward the frontiers of AI. It also has nothing to do with Moore’s Law. Unfortunately, too many people have heard about the law as part of technology culture,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2020/12/17/it-is-time-to-stop-talking-about-moores-law-when-discussing-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2020/12/17/it-is-time-to-stop-talking-about-moores-law-when-discussing-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D876%26cropY1%3D26%26cropY2%3D519",
+          "width": 876,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/12/17/it-is-time-to-stop-talking-about-moores-law-when-discussing-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/12/17/it-is-time-to-stop-talking-about-moores-law-when-discussing-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-12-17T10:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-12-18-using-pytorch-to-streamline-machine-learning-projects.md",
       "title": "Using PyTorch to streamline machine learning projects",
       "excerpt": "A platform that lets surgeons browse videos of past operations has found a way to make its machine learning more effective.",
@@ -1349,40 +1401,6 @@
       "provider": {
         "name": "Associated Press",
         "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-global-deep-learning-market-report-2020-focus-on-medical-image-processing-2020-2030-researchandmarketscom.md",
-      "title": "Global Deep Learning Market Report 2020: Focus on Medical Image Processing, 2020-2030 - ResearchAndMarkets.com",
-      "excerpt": "The \"Deep Learning Market: Focus on Medical Image Processing, 2020-2030\" report has been added to ResearchAndMarkets.com's offering. The 'Deep Learning Market: Focus on Medical Image Processing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/12/b18728995/global-deep-learning-market-report-2020-focus-on-medical-image-processing-2020-2030-researchandmar",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/12/b18728995/global-deep-learning-market-report-2020-focus-on-medical-image-processing-2020-2030-researchandmar",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/18728995",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18728995",
-      "publishedDateTime": "2020-12-10T03:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

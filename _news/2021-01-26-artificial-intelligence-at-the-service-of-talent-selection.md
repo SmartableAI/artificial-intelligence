@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/364141"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/364141"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Pushing The Frontiers Of Manufacturing AI At Seagate"
+    excerpt: "Seagate's wafer manufacturing plant has adopted several AI applications that improve their quality and productivity."
+    publishedDateTime: 2021-01-27T15:50:00Z
+    webUrl: "https://www.forbes.com/sites/tomdavenport/2021/01/27/pushing-the-frontiers-of-manufacturing-ai-at-seagate/"
+    ampWebUrl: "https://www.forbes.com/sites/tomdavenport/2021/01/27/pushing-the-frontiers-of-manufacturing-ai-at-seagate/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2021/01/27/pushing-the-frontiers-of-manufacturing-ai-at-seagate/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60118aa54082182beabf8d5a%2F0x0.jpg"
+        width: 696
+        height: 493
+        isCached: true
   - title: "AI is changing the Financial Services sector and we should foresee a continuation of wider acceptance."
     excerpt: "AI in Financial Services sector is swiftly changing and this represents the automation of financial activities and duties which robots and artificial intelligence devices could do more effectively and cost-efficiently."
     publishedDateTime: 2021-01-24T13:09:00Z

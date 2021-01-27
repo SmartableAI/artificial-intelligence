@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-14-speech-recognition-software-market-technology-advancement-and-future-scope-till-2025.md",
+      "title": "Speech Recognition Software Market Technology Advancement and Future Scope Till 2025",
+      "excerpt": "The Speech Recognition Software market was valued at 48500 Milion US$ in 2019 and is projected to reach 69700 Million US$ by 2025, at a CAGR of 3.9% during the forecast period. A speech recognition software identifies words spoken by an individual or speaker into a microphone,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/speech-recognition-software-market-technology-advancement-and-future-scope-till-2025-2020-12-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/speech-recognition-software-market-technology-advancement-and-future-scope-till-2025-2020-12-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-14T02:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-14-the-state-of-ai-and-its-impact-on-the-startup-ecosystem.md",
       "title": "The State Of AI And Its Impact On The Startup Ecosystem",
       "excerpt": "In some cases, these non-human systems can do tasks even better than one can. AI can now mimic human speech, translate languages, diagnose cancers, draft legal documents, and play games and even beat its human counterpart. In today’s social systems can ...",
@@ -1382,58 +1434,6 @@
       "topics": [
         "AI Hardware",
         "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-how-bert-and-gpt-models-change-the-game-for-nlp.md",
-      "title": "How BERT and GPT models change the game for NLP",
-      "excerpt": "AI that can compose Shakespearean sonnets. AI that can design a webpage based on a simple user description. AI that can summarize a description of quantum computing for an eighth grader. Since the launch of the GPT-3 language model this year, natural language processing (NLP) and machine learning enthusiast",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/12/how-bert-and-gpt-models-change-the-game-for-nlp/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2020/12/how-bert-and-gpt-models-change-the-game-for-nlp/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/12/WatsonBlog_BERT_NLP_2000x1006_WDDE_1361-990x498.jpg",
-          "width": 990,
-          "height": 498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-03T11:35:23-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "Natural Language Processing"
       ]
     }

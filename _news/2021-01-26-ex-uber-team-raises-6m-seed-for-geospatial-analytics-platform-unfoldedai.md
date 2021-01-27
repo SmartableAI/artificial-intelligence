@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/01/26/ex-uber-team-raises-6m-seed-for-ge
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/26/ex-uber-team-raises-6m-seed-for-geospatial-analytics-platform-unfolded-ai/amp/"
 type: article
 quality: 85
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/Intelligent-Analysis.jpg"
         width: 900
         height: 500
+        isCached: true
+  - title: "NICE Actimize Honored for AI and Advanced Analytics Innovation in Holistic Trade Surveillance by Regulation Asia"
+    excerpt: "NICE Actimize, a NICE (Nasdaq: NICE) business, announced today that its Holistic Trade and Communications Surveillance solutions suite was recognized by the Regulation Asia Awards for Excellence 2020 for the second consecutive year with the Best Solution in Market & Trading Surveillance award."
+    publishedDateTime: 2021-01-27T16:18:00Z
+    webUrl: "https://www.globalbankingandfinance.com/category/news/nice-actimize-honored-for-ai-and-advanced-analytics-innovation-in-holistic-trade-surveillance-by-regulation-asia/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 18
+    images:
+      - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "rgnmpPiVHsF3RrKwTo213rTfkRYVmxqn+q4zFqVk71jzyQC8Ez8dIJ+pcXuSzAyU0700iChklUMYvYvj2eB/dzeqYYRG9pZAON8KgrW0b6iwRFCER+5pqimbFi102hc7NZ/Vfwmd1kKvR6H23yG66Jw+QBRdnXAKkQRu+8Ok38mFjSOebhtzRnaUoKP+UVrWL5yinGYy0ix2tx5jbRDkZp5UhILqse2mluP6CyHzynCp5tAdOEwIGYU+VAgkZ+YYsQLFL/yf5VZE2PnjsxahEsyZuQWUAw7WDKgGAubkVOo0gYE+Tmf8PsQrCLsi+qiWvNziF5r+Mn95UjkIFa1S+9KEjXPy5gFsXbellVfwEz8=;0WPs5lfYuVzCZpimK1ShxQ=="
