@@ -107,6 +107,20 @@ related:
         width: 727
         height: 485
         isCached: true
+  - title: "Can Robots and Drones Help to Fight COVID-19?"
+    excerpt: "As such, there is a big push to use drones and other manned and unmanned aerial vehicles to help combat infection rates. We have already seen drones working within the military and also embraced in public safety roles."
+    publishedDateTime: 2021-01-27T17:18:00Z
+    webUrl: "https://www.nextgov.com/ideas/2021/01/can-robots-and-drones-help-fight-covid-19/171667/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 39
+    images:
+      - url: "https://cdn.nextgov.com/media/img/upload/2021/01/27/NGdrone20210127/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "Wo1MT5QyzKZ4ln7oQCB/bR9nhN/JznTE6oQQWoUHoLyV7DH857rfi5hS3/+TVhRVOrWnx8ZT84QF+ohif3nOdyen1s5FKViKl3IcxivE1y5MxS0rsZOT6PXgVqpHJcP/hdupYBx9bDpVxd2DcFoiaicauoQ6zHLUnEZ8dfAcJPFx9KMb77WZjCV/l7AP3RPCbTSYhaB1Q+ndn3eCI5aD7tG/GjZS0JZNFPWyEPhhmBoO47Gz9WwjLUlvf43ae68T152n6NmwUeu4buM1bizmSVkNHMWjiOoV/j2oUHZgCNJ+mvFp/kewIPwjEZxZLuJzMDJ3wguwRz//y3seRYiFPy2Z2MZxhCnyjNVxbkrXjyDtNPvgGHbMdBSIxfi9cC2+OhlzAPbmeB1i1n5rAfYc2GKkSg/GpQz4peDDf3N/cvTFi60bdQNDUlM3IoYA8owS43705D3xP47XYJyvSu+PNnQhXCAyVIPqhnxhGRjbLc7QD3gvXh7F4y8gHhdgPf3H0qjl3dc5yOhH1VgTwOBcbQ==;hKwEC1RaqM9qKnyYlWZf1w=="
 ---

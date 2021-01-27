@@ -1,47 +1,26 @@
 ---
 category: news
 title: "Speech Zadarma is offering free access to their widely recommended speech recognition analytics tool until March 2021"
-excerpt: "Speech analytics is transforming many aspects of business, and is especially beneficial to any sales driven organisation. Zadarma, most well known as a leading global VoIP provider, also offers an industry leading smart speech recognition and analytics feature as part of their incredibly easy to use and highly affordable telecommunications offering."
-publishedDateTime: 2021-01-20T13:22:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-voice-recognition-computing-and-information-technology-933e88f3ccee3d1896bd7108774e370d"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-voice-recognition-computing-and-information-technology-933e88f3ccee3d1896bd7108774e370d"
+excerpt: "Speech analytics is transforming many aspects of business, and is especially beneficial to any sales driven organisation. Zadarma, most"
+publishedDateTime: 2021-01-20T13:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/speech-zadarma-is-offering-free-access-to-their-widely-recommended-speech-recognition-analytics-tool-until-march-2021-301211566.html"
+webUrl: "https://www.prnewswire.com/news-releases/speech-zadarma-is-offering-free-access-to-their-widely-recommended-speech-recognition-analytics-tool-until-march-2021-301211566.html"
 type: article
-quality: 16
-heat: -1
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
     isCached: true
 
-related:
-  - title: "Three ways data analytics and machine learning will enhance ecommerce parcel shipping in 2021 and beyond"
-    excerpt: "How weather, traffic and social media data can be integrated with supply chain BI data to help retailers make informed parcel shipping decisions."
-    publishedDateTime: 2021-01-22T11:00:00Z
-    webUrl: "https://www.itproportal.com/features/three-ways-data-analytics-and-machine-learning-will-enhance-ecommerce-parcel-shipping-in-2021-and-beyond/"
-    ampWebUrl: "https://www.itproportal.com/amp/features/three-ways-data-analytics-and-machine-learning-will-enhance-ecommerce-parcel-shipping-in-2021-and-beyond/"
-    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/three-ways-data-analytics-and-machine-learning-will-enhance-ecommerce-parcel-shipping-in-2021-and-beyond/"
-    type: article
-    provider:
-      name: IT Pro Portal
-      domain: itproportal.com
-    quality: 42
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/ghbHs8vktkp6zcrYVRGQ2d-1200-80.jpg"
-        width: 970
-        height: 545
-        isCached: true
-
-secured: "qCLDOKJr3e157PhhW1lviTZ4PxtJVYSIl6T1cD4wrtcKUBGacK5HpYilDwE27R/Hn5bHwPtGkmziKEsR558QNpqNYuROYfOb6QN1eM9APTPccP0L0T/yWhCkrT1dryh2tWlshFi/ThES6CZIo0ywHPdPpuyjoUWysDo7nK4V4ZbHWqbtfHrirdZ+IA20/2pbcLgVlBvjCWeHMQxSsXeNyyXxpViZkrjVRzFSkgIlIFtinLElYBlc4xN7Ota56iTrhC43tTuNgR8oXkSARft9k0ZEFkgn/FQzQnekAL/y8oKEOqDYj4r4HuptpHO+bzTnJIT/ptPptvUTLzG/RDEdqxX5SvBzT6JctaBMBNN6s6E=;vXGzLP73uKX6187WSaI76Q=="
+secured: "TeZ9/1GnT04y4mUTV86jXR5WgDVjn/9Guj5EmM0aG6XWzIbN/h/8zJpG9lp/jks919ro8DA91P37wT3ds6DK5XxGAhIeCp7koLM6AixXmbimUnZPqaDZiZR/avXK2/b4geQyt/m4utjlvpLLZQHbMK1jDqcUokiTandj6Le3YeKMmOKFUJ9/AzK1N6vCrEYN/hwQV3/jmly+fb+EBesoO2BsqlNxQ/tpjEZRPNu5A9xECTkCULfD52ZNKqcgZJwSf5qY0ewE0nwNSAk91xOFLQN6rt6viwo/re21ZELOd2o7wwngHxXwXozrYh2VUzq82IV+Q4X1/FXjoab4FNHlzsHEiT+FnhzVm8Fp6Vho+OU=;Zhuk+wjWTwZQcxIoue9gcQ=="
 ---
 

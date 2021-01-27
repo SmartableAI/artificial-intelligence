@@ -1,30 +1,30 @@
 ---
 category: news
 title: "Release of Deep Learning Framework \"SmallTrain 0.2.1\""
-excerpt: "Geek Guild Co., Ltd. has released Small Train version 0.2.1. This release supports the Jupyter Notebook interface. With SmallTrain, you"
-publishedDateTime: 2021-01-27T13:38:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/release-of-deep-learning-framework-smalltrain-0-2-1-301216107.html"
-webUrl: "https://www.prnewswire.com/news-releases/release-of-deep-learning-framework-smalltrain-0-2-1-301216107.html"
+excerpt: "Small Train version 0.2.1. This release supports the Jupyter Notebook interface. With SmallTrain, you can quickly and efficiently build models that enable you to operate quality services while minimizing your data science background."
+publishedDateTime: 2021-01-27T13:49:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/release-of-deep-learning-framework-smalltrain-0-2-1-1030009825"
+webUrl: "https://markets.businessinsider.com/news/stocks/release-of-deep-learning-framework-smalltrain-0-2-1-1030009825"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/release-of-deep-learning-framework-smalltrain-0-2-1-1030009825"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/release-of-deep-learning-framework-smalltrain-0-2-1-1030009825"
 type: article
-quality: 56
-heat: 56
-published: false
+quality: 86
+heat: 86
+published: true
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
   - Google AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1427013/1.jpg?p=facebook"
-    width: 2700
-    height: 1414
-    isCached: true
-
-secured: "OfVLzVk/qD7fF+2dBeltAGXGakooIF4U09xBK8ybRBf05Ad4pTOqRpDeIcQV3pNxonMclZX7K74hCHQDtAo5PC8yiwqUuqm9MBdhvy2QNxWurz7bnWHVHdFiXJ1nAqrgqRt0wc0R1hOBGvXWR2kqz+g7fycslvNUUSSYsbJiudbkbrmY2DE07iZh11thl3xd0SMzUrGbXYdEYwI/oEXIhzhexmTZelS3E1b2WXHB9dzxb38Z+/z/tsr69RrlA7g2RX4LH3Wd+ezIxo09p0kJQ16Xo0qWKN+8QgC/Z6Lpf0aan+YIHtUjf2zdP4s7jcx7admd1I2dHWuQpfCB0/hOfKQ44lpPa5bXSNOrVH9oh3c=;d4fBlKDwY6lzg07ULlPyMA=="
+secured: "4FOBuzQsZP76/PN7Zgit3Sh8kZOdxMqYJ1DMd7XmpH77H1gIbVnvu+sE2PyH81/y9F9ECrAWgnDJcd4FXMf/D7KqFslfUBNpa1dm6jTDI3kvlSwxDmMWzDkyCC1kKWWeUu53XDjMjmAjkTPBlX0lJH+EsOBMPyVrakey1+aVSSSQmmo/8T6MwXfp05t4bU72F7eDlewMJ/bOp8ckBTI9LMTyI1ObXvc+/tQju9TNULFsqhXV4qnYZmPqMTIrxWAPgTdqyB7GbKwGx0nT/pRPcoqHnlH7iczG9ODBHZo1FKXgl2qF/ertJTMgI/dQL0beGUTeEOGfqoBT8xyb4wpnN4bKjEzmnFPJQVNLDko75ns=;wlEJ5b+bgtKCebbFJgq3Gg=="
 ---
 

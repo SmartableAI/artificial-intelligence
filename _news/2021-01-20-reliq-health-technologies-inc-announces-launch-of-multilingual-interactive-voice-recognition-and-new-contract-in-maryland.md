@@ -1,22 +1,20 @@
 ---
 category: news
 title: "Reliq Health Technologies, Inc. Announces Launch of Multilingual Interactive Voice Recognition and New Contract in Maryland"
-excerpt: "HAMILTON, Ontario, Jan. 20, 2021 (GLOBE NEWSWIRE) -- Reliq Health Technologies Inc. (TSXV:RHT, OTC:RQHTF) (\"Reliq\" or the \"Company\"), a rapidly growing global"
-publishedDateTime: 2021-01-20T08:01:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/01/g19229634/reliq-health-technologies-inc-announces-launch-of-multilingual-interactive-voice-recognition-and-n"
-webUrl: "https://www.benzinga.com/pressreleases/21/01/g19229634/reliq-health-technologies-inc-announces-launch-of-multilingual-interactive-voice-recognition-and-n"
-ampWebUrl: "https://amp.benzinga.com/amp/content/19229634"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19229634"
+excerpt: "(GLOBE NEWSWIRE) -- Reliq Health Technologies Inc. (TSXV:RHT or OTC:RQHTF or WKN:A2AJTB) (“ Reliq ” or the “ Company ”), a rapidly growing global telemedicine company that develops innovative Virtual Care solutions for the multi-billion dollar Healthcare market,"
+publishedDateTime: 2021-01-20T02:01:00Z
+originalUrl: "https://www.morningstar.com/news/globe-newswire/8138419/reliq-health-technologies-inc-announces-launch-of-multilingual-interactive-voice-recognition-and-new-contract-in-maryland"
+webUrl: "https://www.morningstar.com/news/globe-newswire/8138419/reliq-health-technologies-inc-announces-launch-of-multilingual-interactive-voice-recognition-and-new-contract-in-maryland"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "lRDpvsHwEZOwnaXgi7aSePGh2npeQhRBGuH+Dfuk9kQvdEDpDpj9f+1x4dgDzQhqrWOFLzVNKrDuiynwsGI/zbcsR0xo2XZMDCBVu69bB+AD0TBgYnJKbJ535K2KTEi/xU3viL7eVuPNUVFMZNC3jgHqE6HJoDKX7BAyZSlNXXafpgeZm6oK7ExW4gGrrFnzLrKwaURLc2iLIVhH7G/9zXXMsWMzPaxO2qfsB5a/Vqp1CuEXjDubrMMYN9FKc+fLuyK2Mdgl2+FnXDkHKHllkLOIFPxLaLmX2hUCndKWpfvBcKUxXbu5Wg51r+2MlkfW6uyfVlGzuBiUoXCJfZeAD80DtdypL3pE4kmLkcH5/8s=;iG/wvdGaVIc7weLaU+ud7w=="
+secured: "Dr76yGLsofnbuao8JX7PGM4nkvbjl2V2ol3sszxu4R4cRRD1ifeJZf3Owp2kh0qqUEkQeGdgvwPROdfRRNV8OLh0TVFrY4lqacPZ0LTzIgUIk/U+kWrcRDFuv1WseeP0VwFjjXYr5fKtusvyhc7Ee219sr1MKEH+pXl4+sbJz97BEBDw7G3ncDNG8yy2JP8JF3B2w51k6jqqd/KiQGlYT2Kqz7ily2Qm3pnSGQXhqh7FqkPVvyKZ/d9tinflieCiKKb1p6/GDAW945hU3cXknqDEiAundAkyFuUMtGQUZBQyN57EUWXK6Cd84CV2EVKl0qSynNxCPACdakoGwWxdvlnOVU8QFTZiHvRcEN887i4=;G6a0joKoGLPb/z6vdCSh7A=="
 ---
 

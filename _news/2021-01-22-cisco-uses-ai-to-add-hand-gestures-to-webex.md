@@ -3,14 +3,11 @@ category: news
 title: "Cisco uses AI to add hand gestures to Webex"
 excerpt: "Cisco is bringing hand gestures to its Webex video conferencing software to make it easier for participants to express themselves even while on mute. Gestures and non-verbal cues have long been an important part of face-to-face meetings as they allow a speaker to emphasize or support their ideas and give the audience a chance to provide real-time feedback."
 publishedDateTime: 2021-01-21T18:19:00Z
-originalUrl: "https://www.techradar.com/news/cisco-uses-ai-to-add-hand-gestures-to-webex"
-webUrl: "https://www.techradar.com/news/cisco-uses-ai-to-add-hand-gestures-to-webex"
-ampWebUrl: "https://www.techradar.com/amp/news/cisco-uses-ai-to-add-hand-gestures-to-webex"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/cisco-uses-ai-to-add-hand-gestures-to-webex"
+originalUrl: "https://www.techradar.com/sg/news/cisco-uses-ai-to-add-hand-gestures-to-webex"
+webUrl: "https://www.techradar.com/sg/news/cisco-uses-ai-to-add-hand-gestures-to-webex"
+ampWebUrl: "https://www.techradar.com/sg/amp/news/cisco-uses-ai-to-add-hand-gestures-to-webex"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/cisco-uses-ai-to-add-hand-gestures-to-webex"
 type: article
-quality: 89
-heat: 89
-published: true
 
 provider:
   name: TechRadar
@@ -30,6 +27,6 @@ images:
     height: 403
     isCached: true
 
-secured: "6Q3ZNcWM33ywZ/SyqR0Kl3JDenEZZ6kJ9DwxuLx6ab1a7H7JYmQr0pah6KeXyvRQo/mb0UYoKkMYgcfKqHLFn2rFnxu1zZNCpOI35rvev3NKpERjqzsK8DTSBSw2ZhLB+OK6DDejEJO7KbpXJIlnGcjoT1tOSpjY4YeiMNh+qxYoNc+o9mKkqE1eYIjmWE/WoNCn8rp4H+gW/QpJl+k8684v0XMy4UtIWOy0HyQaM+VkiTIUzF5ylXIgu48wQglDVIrwDhEhFYd6t03alSM8YCCSlv2NHIuhTnyWxky+xh53oefkOY0muCuXE72l2B245EyTX81K6nixI7FmoClxQMMgSYWLA/9FcrW3Ae02UMgyeuGNCBAZoT18ClJHuF3zv9fgTtg3mspbKsI4Ml7eXY+FsNv5xZgrO+C2Ku+LNRSXayvSl1ReGCnNPHdHGv2pPiiZ7ON3mx6ri1j6SB0+SZZ4Eekj1y07Z7MfCRKWZT8QMGdj1EkJxPRcE5fxnejQ6jVrKVX1QGYQJEgYkt6xQA==;hi3MKIPV9MQtrxDvpgq6/w=="
+secured: "kuXbTWm7D0qiF7Qb0RxsoLkILK6rEV/sMr1j5dXngMyH7bWGH9Pzx2ClSLPxqqoKocLaqF3gcbCTXNVVsUheLXXFTNoqdNx2RXy+GE5Peil97VdVmP4+ggvRauCn7WVQPt4pHwTqYRE5fxusQdpeQwkmXCWZqN/XbTrJoHth+R4KnLNcVFyDe4ocQ84lcz+Tgj9PB2kwYCWLRdgPjXklFbdo4bZUr38T63kH7xS5F8u6bQWPs0gboWrKmXa7Z+lnX+dPO5dUNRmsHjSSQ+9sWtib3VUFNmqk+iluMeU1PVTN8iwi3OuzMVbQ8ATaXu2quh37R2WryEo99pyDxPjI5UQ3nQeInsT9v1rFzz+Hg8A=;mhtK/PIzAHxDtNHXWhDQEg=="
 ---
 

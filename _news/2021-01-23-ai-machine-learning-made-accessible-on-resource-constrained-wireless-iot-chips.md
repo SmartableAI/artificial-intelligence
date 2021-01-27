@@ -7,7 +7,7 @@ originalUrl: "https://www.ept.ca/2021/01/ai-machine-learning-made-accessible-on-
 webUrl: "https://www.ept.ca/2021/01/ai-machine-learning-made-accessible-on-resource-constrained-wireless-iot-chips/"
 type: article
 quality: 67
-heat: 68
+heat: 67
 published: false
 
 provider:

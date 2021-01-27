@@ -53,20 +53,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "SAP and Microsoft Expand Partnership and Integrate Microsoft Teams Across Solutions"
-    excerpt: "Microsoft Teams with SAP's intelligent suite of solutions. The companies also formalized an extensive expansion of an existing strategic partnership to accelerate the adoption of SAP S/4HANA® on Microsoft Azure."
-    publishedDateTime: 2021-01-23T02:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/sap-and-microsoft-expand-partnership-and-integrate-microsoft-teams-across-solutions-2021-01-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Top marketing intelligence firm 10th Man uses Microsoft’s Azure cloud to unlock the power of data"
     excerpt: "Man, a leading UK marketing intelligence company and data-driven innovator, is using Microsoft’s data tools to provide fast and accurate information to some of the world’s biggest brands. Headquartered in London,"
     publishedDateTime: 2021-01-27T10:40:00Z
@@ -159,6 +145,20 @@ related:
       name: CBS Local
       domain: cbslocal.com
     quality: 39
+  - title: "Microsoft surpasses $10 billion in security business revenue, more than 40 percent year-over-year growth"
+    excerpt: "I joined Microsoft a little more than six months ago—amid a global pandemic and a new norm of remote work, as well as one of the most rapidly evolving threat landscapes in history. We’ve witnessed more sophisticated attacks,"
+    publishedDateTime: 2021-01-27T18:11:00Z
+    webUrl: "https://www.microsoft.com/security/blog/2021/01/27/microsoft-surpasses-10-billion-in-security-business-revenue-more-than-40-percent-year-over-year-growth/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 39
+    images:
+      - url: "https://www.microsoft.com/security/blog/wp-content/uploads/2021/01/MSC17_dataCenter_053-1.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Cruise, General Motors, and Microsoft team up to develop self-driving vehicles"
     excerpt: "Cruise and General Motors announced they have entered a long-term strategic relationship with Microsoft to accelerate the commercialization of self-driving vehicles."
     publishedDateTime: 2021-01-25T00:00:00Z

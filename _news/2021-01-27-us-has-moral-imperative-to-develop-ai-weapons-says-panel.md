@@ -46,6 +46,20 @@ related:
         width: 924
         height: 545
         isCached: true
+  - title: "US must explore artificial intelligence weapons: Report"
+    excerpt: "The US has a moral imperative to explore and develop artificial intelligence (AI) weapons, according to a report released Wednesday. The report by the National Security Commission on Artificial Intelligence (NSCAI) led by former Google CEO Eric Schmidt,"
+    publishedDateTime: 2021-01-27T18:48:00Z
+    webUrl: "https://www.aa.com.tr/en/americas/us-must-explore-artificial-intelligence-weapons-report/2125177"
+    type: article
+    provider:
+      name: aa.com.tr
+      domain: aa.com.tr
+    quality: 37
+    images:
+      - url: "https://cdnuploads.aa.com.tr/uploads/Contents/2021/01/27/thumbs_b_c_c55041fc1773641b872adb338632fe4e.jpg?v=205556"
+        width: 864
+        height: 486
+        isCached: true
 
 secured: "12+9+gcjV74WsDOcqmbuf8gx7BWbOKccrqj5pVpI3+5I89nZPiCwcdltk/6zJWIMVsXyoZ8iHdMfi9oZolv0yD6V+3o2iAfbL3InpgEK5qLrRd4ClKJHEmTU7MBHiQdMUBX2RxSwEBeGaOXSYU4m0bfbIomSZaB3xtdZziBXlMGQx7hvTECsOM2D9uZvbQt3ktHUznZ+jhcInW4qmTrggRuWCEHvthp/aLeqTWAtYJWbbQNPy+0+4BATVHX17ZfrshX+eVEBOtm2RRPd7tAX2iLGp+OcL67fdmNjKxQeyms1FacRzNEqigZiJNkSnNuruOpzKdE6DXHRokKswBwURztla0FcB0oBZligUgOwGiyN8/V+DFv7hLQB4vft0x3tSN7vqi8yaNRdysU+ecjdX+3/mQcNdOFMtHc7ZK5cAspV08F1CrLv3AG3mUqBAuabvHCk6ogNzF3SIXYwO+XFPg+d0PlrFoe/lwQWN5sEd5IBAugxFyC/AXwu7tRZQKD0TyTzCfQPBk/btsCbHjZrfQ==;MtGiBg41k13BSDNAHxaCrg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-01-real-world-evidence-covid-con
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-01-real-world-evidence-covid-contact-app.amp"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -27,19 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Pro-Vigil Research Finds 20% of Companies Experienced an Increase in Physical Security Incidents Since the Start of COVID-19"
-    excerpt: "Vigil, a provider of remote video monitoring, management and crime deterrence solutions, today published a research report indicating that a significant number of"
-    publishedDateTime: 2021-01-27T16:17:00Z
-    webUrl: "https://www.djournal.com/news/nation-world/pro-vigil-research-finds-20-of-companies-experienced-an-increase-in-physical-security-incidents-since/article_b0856412-9f6b-5e3b-93a8-c9b06a6abb46.html"
+  - title: "Machine Learning, Real-Time Data App Rates COVID-19 Exposure Risk"
+    excerpt: "A new app leverages machine learning and real-time data to provide location-based risk assessments of COVID-19 exposure."
+    publishedDateTime: 2021-01-27T18:01:00Z
+    webUrl: "https://healthitanalytics.com/news/machine-learning-real-time-data-app-rates-covid-19-exposure-risk"
     type: article
     provider:
-      name: Daily Journal
-      domain: djournal.com
-    quality: 14
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/custom/image/c4931bce-e1a3-11e6-b934-53284b68f006.jpg"
-        width: 1200
-        height: 630
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/Apps_and_Software.jpg"
+        width: 690
+        height: 400
         isCached: true
 
 secured: "XwQFq35VBC8VenCM0UsmcPVZshTvyte84qWsRNzUmgyFXLHdeElltRwKBGax+OFqP6j6LMUQGCif1WcViWfaLL2bvKv7OVIjrNsIjju0sSGwjp7GEF4rU6I8JbSr3oALYKXx20sTcXWQzyQ0pBzMqux8uODBK+w4cYuP3ZYxERtw+hom+0GKYduM7hnUDemezMELk+6ODWz4b87WBE7OnbRLnKIi5H9NcxI4U0J9UV7UMYnThgKtnkXaoz+a4mOgtGLjWH9gu1O5GZUc4LmD68klmY5f2Hd6aMPCE+BSdzUrzxk7rLo5XAZOB/Sdzcz1HkhcgpiwfpUXvZUVwDrH9/eqBw/oriCpFbbULQkORd4=;kMbx1jNcUhA3cNVm3Wv8VA=="

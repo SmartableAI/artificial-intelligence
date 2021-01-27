@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Microsoft, GM, Cruise Partner on Self-Driving Cars"
-excerpt: "\"Microsoft provides services -- like a giant cloud computing offering -- that is used to develop these self-driving vehicles ... Google Cloud or Baidu in China. \"They need the cloud platforms ..."
-publishedDateTime: 2021-01-20T12:38:00Z
-originalUrl: "https://www.technewsworld.com/story/Microsoft-GM-Cruise-Partner-on-Self-Driving-Cars-86988.html"
-webUrl: "https://www.technewsworld.com/story/Microsoft-GM-Cruise-Partner-on-Self-Driving-Cars-86988.html"
+excerpt: "A strategic partnership with Microsoft was announced Tuesday by General Motors and Cruise aimed at speeding up the commercialization of shared self-driving vehicles. In addition, Microsoft will be joining GM,"
+publishedDateTime: 2021-01-20T12:00:00Z
+originalUrl: "https://www.technewsworld.com/story/86988.html"
+webUrl: "https://www.technewsworld.com/story/86988.html"
 type: article
 
 provider:
@@ -22,6 +22,6 @@ images:
     height: 300
     isCached: true
 
-secured: "3DFVDoISjI9G6e/6IkuOJVFi3BEoNFeC6KeQfuaw9X6oEkQhpyyGszBRhit9WKaN4xkOGktXtYKZ5UZ8K0o/XGQWXHqdXSvhBBiqDvJpS9lS7Hs1K9Xjo1zC8RlTfUSnZtlXs25RwC4CH9oMfPIeXug1Xj9/vyjnn/S2CsvNYsO1MtN0JRyPRpglygmMw5Tzjq2n0Sdwtsx1ami1dpk7NejFRTFzbHsaLhYogV4tKJfOUaGpB7F5YtiAeFpN24dGC59XepsSBS7W/MMh9CU/x4FuYILoqPz6zU7ia3ZdPfy53XspglzAmmLglZh2mcphO8697YRFQn769rqTnWIFXjNmJ5/sdhfaDPvJqzF+COk=;hZjxe+gKOA340asDVh73+g=="
+secured: "6DtlgIN0f7N0BXewonw0JToaI76aUN0gMm8CdqvsXCIuWAY7Zmrgi0SIndt9BKVhoCO7dJgoZs0mYnJV4JdJhJgQ8UQe/zj6II/feNurXRY9zNB4nSZ2iWJsGaAnJ2DHoFddARruenCpoh4am5pNVOKPtgz/wEjFd/FDUSvhf8cLLvrM7q703GO1DAYCt/N7R5v6rNDQm+3a6GGZd/nwu1E4ku6LQtgkWfwSNXFS4+KRPqX8DQr+obrHm4149208teHmjKwBsyTfTaeAFRZzXwjIeE1+4jUic+dim5ohXhUzduCe31hRIPUo63vZSyvPLsuHGGG3yMixmeRZJXD/scCyU5o+eMAEJ6rvsBNS+E8=;GOnsJi223mWuL2sPd7rcmg=="
 ---
 
