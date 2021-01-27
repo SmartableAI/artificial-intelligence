@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "DRDO Announces Online Courses On Artificial Intelligence, Machine Learning & Cybersecurity"
+    excerpt: "These two courses would be organised by DIAT, a deemed university and an autonomous organisation funded by DRDO."
+    publishedDateTime: 2021-01-27T07:52:00Z
+    webUrl: "https://analyticsindiamag.com/drdo-announces-online-courses-on-artificial-intelligence-machine-learning-cybersecurity/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 44
+    images:
+      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2021/01/DRDO_AIM.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "DRDO Online Courses 2021: DIAT offers Artificial Intelligence, Cyber Security courses on diat.ac.in-"
     excerpt: "Defense Institute of Advanced Technology Start DIAT the registration process for DRDO Online Courses 2021 on Artificial Intelligence and Cyber ​​Security. The registration process for both courses would begin on the official January 28,"
     publishedDateTime: 2021-01-25T12:47:00Z

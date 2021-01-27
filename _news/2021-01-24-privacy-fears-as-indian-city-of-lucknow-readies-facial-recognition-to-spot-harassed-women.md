@@ -73,20 +73,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Ban on facial recognition technology advances in Minneapolis"
-    excerpt: "MINNEAPOLIS (AP) — A proposal to ban the use of facial recognition technology by Minneapolis police and other city departments is advancing. The technology has raised concerns by some"
-    publishedDateTime: 2021-01-22T15:37:00Z
-    webUrl: "https://apnews.com/article/technology-media-social-media-minneapolis-5345d1193e4435aa9ce621aaf6d9c783"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/ShareLogo2.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "D7LNRmZEQ9Yle1ZDMo2/oi0j/n2aMGxcScpP+FZdAmurClOD+6i8gvUD4IryWiO2jsT0oGwlUiC9jEN5CFq0Uf86D7qjWi8YN5lmjimWJ60VK1/SwFl3iiLrrQeQQ02D5mHtlzU91D1+i7dDFW+Y7xuF7TyA4O1rc3XfJwLOgbkFL0vZSpv3GG7WJVjB85/IRgphdT9atpVkzebgM28oInIORDbwClF67OtXOvVeDlBi+ZsS1KPLsDn/PXK6Imf0i1sWe2k4z11HTSPVNHQjMnv7zp4GLH5VmmVA9YIltg6kXPWYRNlZ9IMHXf1/wCnZFPd/3+4k7p0dLN/8O5XUeWoi/NNklmeKIvKJJf4lMIo=;RSH27PD8LHZ9Otn0wssuTA=="
 ---

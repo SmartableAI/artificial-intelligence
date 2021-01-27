@@ -29,9 +29,9 @@ related:
   - title: "Looking for free cloud training? Check out the AWS Dev Hour on Twitch and learn to build an app"
     excerpt: "Expert trainers will build a full stack application in the AWS cloud using the AWS Free Tier during the new eight-week show."
     publishedDateTime: 2021-01-26T16:11:00Z
-    webUrl: "https://www.techrepublic.com/article/looking-for-free-cloud-training-check-out-the-aws-dev-hour-on-twitch-and-learn-to-build-an-app/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/looking-for-free-cloud-training-check-out-the-aws-dev-hour-on-twitch-and-learn-to-build-an-app/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/looking-for-free-cloud-training-check-out-the-aws-dev-hour-on-twitch-and-learn-to-build-an-app/"
+    webUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/looking-for-free-cloud-training-check-out-the-aws-dev-hour-on-twitch-and-learn-to-build-an-app/"
+    ampWebUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/looking-for-free-cloud-training-check-out-the-aws-dev-hour-on-twitch-and-learn-to-build-an-app/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/looking-for-free-cloud-training-check-out-the-aws-dev-hour-on-twitch-and-learn-to-build-an-app/"
     type: article
     provider:
       name: TechRepublic

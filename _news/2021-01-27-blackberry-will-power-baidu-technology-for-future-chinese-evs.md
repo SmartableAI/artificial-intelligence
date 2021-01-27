@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/blackberry-will-power-baidu-tec
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/blackberry-will-power-baidu-technology-for-future-chinese-evs/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "BlackBerry to power Baidu’s mapping technology used in Chinese EVs"
+    excerpt: "While BlackBerry is no longer a major player in the mobile market, it is continuing to expand its presence in the automobile market. The company will be powering the mapping technology of Baidu, the Chinese counterpart and rival of Google,"
+    publishedDateTime: 2021-01-27T07:18:00Z
+    webUrl: "https://www.gizmochina.com/2021/01/27/blackberry-power-baidu-technology-for-chinese-evs/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 69
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2019/09/BlackBerry-QNX-1.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "BlackBerry expands partnership with Baidu to drive the next generation of autonomous driving Technology"
     excerpt: "BlackBerry expands partnership with Baidu to drive the next generation of autonomous driving Technology WATERLOO, ON and BEIJING Jan 25,"
     publishedDateTime: 2021-01-26T02:12:00Z

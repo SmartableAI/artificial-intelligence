@@ -2,6 +2,205 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-01-06-ai-security-cameras-inspired-by-frog-eyes-could-be-coming-soon.md",
+      "title": "AI security cameras inspired by frog eyes could be coming soon",
+      "excerpt": "As well as taking cues from the natural world, the AI cameras also rely heavily on a new camera-processor chip called SCAMP. The chip has a processor embedded in every pixel, making it ideal for AI algorithms looking to rapidly assess visual data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/au/news/ai-security-cameras-inspired-by-frog-eyes-could-be-coming-soon",
+      "originalUrl": "https://www.techradar.com/au/news/ai-security-cameras-inspired-by-frog-eyes-could-be-coming-soon",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/orPkbTPEcv9Z2g5J2ATLYX-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/au/amp/news/ai-security-cameras-inspired-by-frog-eyes-could-be-coming-soon",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/ai-security-cameras-inspired-by-frog-eyes-could-be-coming-soon",
+      "publishedDateTime": "2021-01-06T07:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-01-06-researchers-find-machine-learning-models-still-struggle-to-detect-hate-speech.md",
+      "title": "Researchers find machine learning models still struggle to detect hate speech",
+      "excerpt": "Detecting hate speech is a task even state-of-the-art machine learning models struggle with. That’s because harmful speech comes in many different forms, and models must learn to differentiate ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/06/researchers-find-machine-learning-models-still-struggle-to-detect-hate-speech/",
+      "originalUrl": "https://venturebeat.com/2021/01/06/researchers-find-machine-learning-models-still-struggle-to-detect-hate-speech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/06/researchers-find-machine-learning-models-still-struggle-to-detect-hate-speech/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/06/researchers-find-machine-learning-models-still-struggle-to-detect-hate-speech/amp/",
+      "publishedDateTime": "2021-01-06T06:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-06-ai-draws-dog-walking-baby-radish-in-a-tutu.md",
+      "title": "AI draws dog-walking baby radish in a tutu",
+      "excerpt": "These pictures were generated from the command \"An illustration of a baby daikon radish in a tutu walking a dog\" Avocado-shaped armchairs, radishes in tutus and cats in sunglasses are among some surreal works of art created by an artificial-intelligence system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/technology-55559463",
+      "originalUrl": "https://www.bbc.com/news/technology-55559463",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/15F6E/production/_116366998_radish.png",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/amp/technology-55559463",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-55559463",
+      "publishedDateTime": "2021-01-06T06:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-06-openai-model-generates-whimsical-images-from-text-prompts.md",
+      "title": "OpenAI model generates whimsical images from text prompts",
+      "excerpt": "AI research laboratory OpenAI has shared a multimodel AI system - dubbed DALL.E - which combines natural language processing and computer vision to generate images from text captions. DALL.E uses a 12 billion parameter version of GPT-3 – a model for ...",
+      "sourceUrl": null,
+      "webUrl": "https://eandt.theiet.org/content/articles/2021/01/openai-model-generates-whimsical-images-from-text-prompts/",
+      "originalUrl": "https://eandt.theiet.org/content/articles/2021/01/openai-model-generates-whimsical-images-from-text-prompts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://eandt.theiet.org/media/14700/dalle-blue-strawberry-stained-glass.jpg?crop=0,0,0,0.50564971751412424&cropmode=percentage&width=1200&height=450&rnd=132544117900000000",
+          "width": 1200,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-06T05:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IET",
+        "domain": "theiet.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-06-singapore-central-bank-reports-successful-first-phase-of-ethical-ai-project.md",
       "title": "Singapore central bank reports successful first phase of ethical AI project",
       "excerpt": "The Monetary Authority of Singapore (MAS) today announced the successful conclusion of the first phase of the Veritas initiative which saw the development of the fairness assessment methodology in credit risk scoring and customer marketing.",
@@ -989,187 +1188,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-this-avocado-armchair-could-be-the-future-of-ai.md",
-      "title": "This avocado armchair could be the future of AI",
-      "excerpt": "OpenAI has released two new models that pair GPT-3 with image recognition to produce AIs that have a better understanding of everyday concepts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2021/01/05/1015754/avocado-armchair-future-ai-openai-deep-learning-nlp-gpt3-computer-vision-common-sense/",
-      "originalUrl": "https://www.technologyreview.com/2021/01/05/1015754/avocado-armchair-future-ai-openai-deep-learning-nlp-gpt3-computer-vision-common-sense/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/01/avocado-upres.jpg?w=3000",
-          "width": 3000,
-          "height": 1798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2021/01/05/1015754/avocado-armchair-future-ai-openai-deep-learning-nlp-gpt3-computer-vision-common-sense/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/01/05/1015754/avocado-armchair-future-ai-openai-deep-learning-nlp-gpt3-computer-vision-common-sense/amp/",
-      "publishedDateTime": "2021-01-05T11:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-just-desserts-baking-with-ai-made-recipes.md",
-      "title": "Just desserts: Baking with AI-made recipes",
-      "excerpt": "It’s winter, it’s the holidays and it’s quarantine-times: It’s the perfect recipe for doing a ton of baking. In fact, U.S. search interest in \"baking\" spiked in both November and December 2020. But being in the AI field, we decided to dive a little deeper into the trend and try to understand the science",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/google-cloud/just-desserts-baking-ai-made-recipes/",
-      "originalUrl": "https://blog.google/products/google-cloud/just-desserts-baking-ai-made-recipes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2021-01-05_at_9.03.38_AM.max-1100x1100.png",
-          "width": 1062,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/google-cloud/just-desserts-baking-ai-made-recipes/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/google-cloud/just-desserts-baking-ai-made-recipes/amp/",
-      "publishedDateTime": "2021-01-05T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-scientists-broke-this-ai-robots-leg-then-let-it-teach-itself-to-walk-from-scratch.md",
-      "title": "Scientists Broke This AI Robot's Leg Then Let It Teach Itself To Walk From Scratch",
-      "excerpt": "In a ground-breaking feat that shows Hebbian learning could be applied to artificial intelligence (AI), scientists have showcased a newly developed mathema",
-      "sourceUrl": null,
-      "webUrl": "https://www.iflscience.com/technology/scientists-broke-this-ai-robots-leg-then-let-it-teach-itself-to-walk-from-scratch/",
-      "originalUrl": "https://www.iflscience.com/technology/scientists-broke-this-ai-robots-leg-then-let-it-teach-itself-to-walk-from-scratch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.iflscience.com/images/cbadf7b8-269e-5ad8-ac68-a9bcb0364efa/default-1609856733-cover-image.jpg",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.iflscience.com/technology/scientists-broke-this-ai-robots-leg-then-let-it-teach-itself-to-walk-from-scratch/",
-      "cdnAmpWebUrl": "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/scientists-broke-this-ai-robots-leg-then-let-it-teach-itself-to-walk-from-scratch/",
-      "publishedDateTime": "2021-01-05T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IFLScience",
-        "domain": "iflscience.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-ibm-appoints-former-trump-economic-advisor-gary-cohn-as-vice-chairman.md",
-      "title": "IBM appoints former Trump economic advisor Gary Cohn as vice chairman",
-      "excerpt": "In prepared remarks, Krishna said Cohn will serve as a senior representative of IBM as the company works to accelerate its hybrid cloud and AI strategy. Cohn was part of the Trump administration ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ibm-appoints-former-trump-economic-advisor-gary-cohn-as-vice-chairman/",
-      "originalUrl": "https://www.zdnet.com/article/ibm-appoints-former-trump-economic-advisor-gary-cohn-as-vice-chairman/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-appoints-former-trump-economic-advisor-gary-cohn-as-vice-chairman/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-appoints-former-trump-economic-advisor-gary-cohn-as-vice-chairman/",
-      "publishedDateTime": "2021-01-05T08:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

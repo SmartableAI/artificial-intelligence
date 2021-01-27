@@ -53,6 +53,20 @@ related:
         width: 735
         height: 387
         isCached: true
+  - title: "Combobulate 2.0 - Mosaic Learning Launches the Next Evolution in eLearning for the Post-Pandemic World"
+    excerpt: "Mosaic Learning, Inc. announced today the unveiling of the next evolution in eLearning platforms – Combobulate 2.0. The COVID-19 Pandemic has accelerated eLearning and highlighted the shortcomings of existing learning systems."
+    publishedDateTime: 2021-01-27T08:19:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/business-covid-19-pandemic-health-coronavirus-pandemic-lung-disease-c2f84cb60b633e3dd12d82c1695e4d89"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 23
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "h56+ygX2sqx7tkBj6eWQzpiONvtjzgYK77pet7OeRrAiqczZE5BN0HBJhZODDD1zgpjYbgpj93QZ0hKy8ILlLCR7tV+GWgHz0li6WbNSKeKd+GeBH1IuC728NZSnksGZteWMblQg/rt4OZ8PE16QehEHDLEXIPC1IOzbQmRjjfCkIMo+r2YBRyMsq4fpDEcK4ygbR26C92qpWVauxGVzvyeyRSv72JVd0/LyL04QZE+oIcogc/s3IvMeuy4IxFizy6K6BXAvjAfZAKAP6IImonwXZ4arQopLxoYIUOg8cNZ87awWKvfbwgh1ksrQas/9KGaJkcJZb0wOKWHHfay3eCxLFJnjwiVxW8yYC6AYFxbsjq6VvSz7+m/ZbnsILAaXAA2u/0/gEUCdAfDjycxGv/VjBTjoKXXQ3aC3xmDSgpR8Y7tRqnKoFR7Ua6NFal9No6lQCJ8U03xdNkrwNqFy6dT5Qltcu2ytoJwZs//w2DJurIOjr0J73QywHcKkIhTrH64k8XEiUns37MOh9pkiDQ==;0lUJArPy1oLRr71GjH3vBg=="
 ---

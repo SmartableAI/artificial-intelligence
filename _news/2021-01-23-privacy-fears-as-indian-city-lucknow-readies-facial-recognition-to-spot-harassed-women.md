@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/news/asia/south-asia/article/3118937/privacy-fe
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/asia/south-asia/article/3118937/privacy-fears-indian-city-readies-facial-recognition-spot"
 type: article
 quality: 81
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://images.livemint.com/img/2021/01/25/600x338/262f1b54-5e54-11eb-a9a9-2635882cf050_1611536777677_1611536858259.jpg"
         width: 600
         height: 337
-        isCached: true
-  - title: "Ban on facial recognition technology advances in Minneapolis"
-    excerpt: "MINNEAPOLIS (AP) — A proposal to ban the use of facial recognition technology by Minneapolis police and other city departments is advancing. The technology has raised concerns by some"
-    publishedDateTime: 2021-01-22T15:37:00Z
-    webUrl: "https://apnews.com/article/technology-media-social-media-minneapolis-5345d1193e4435aa9ce621aaf6d9c783"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/ShareLogo2.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Privacy fears as Indian city of Lucknow readies facial recognition to spot harassed women"
     excerpt: "Artificial Intelligence is not a silver bullet, and no amount of 'fancy' tech can fix societal problems,\" Vidushi Marda, a researcher at human rights group, said,"

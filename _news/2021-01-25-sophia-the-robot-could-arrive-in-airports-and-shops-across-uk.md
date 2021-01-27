@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "40% of supply chains in multinational corporations could not cope with COVID-19 pandemic"
-    excerpt: "Organizations need real-time data insights, agility, and digitalization to mitigate risk and be successful, a new report finds."
-    publishedDateTime: 2021-01-22T16:42:00Z
-    webUrl: "https://www.techrepublic.com/article/40-of-supply-chains-in-multinational-corporations-could-not-cope-with-covid-19-pandemic/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/40-of-supply-chains-in-multinational-corporations-could-not-cope-with-covid-19-pandemic/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/40-of-supply-chains-in-multinational-corporations-could-not-cope-with-covid-19-pandemic/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 78
-    images:
-      - url: "https://tr1.cbsistatic.com/hub/i/r/2020/05/15/c7b2f24c-5bd6-4c2e-8da4-e5a71849d9c0/resize/1200x/b7ddd4e0c59a0375d3225b6af03e58de/istock-1213521693.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Every household will have a Sophia robot by end of the year"
     excerpt: "HONG KONG: \"Social robots like me can take care of the sick or elderly,\" Sophia says as she conducts a tour of her lab in Hong Kong. \"I can help communicate, give therapy and prov"
     publishedDateTime: 2021-01-25T12:11:00Z

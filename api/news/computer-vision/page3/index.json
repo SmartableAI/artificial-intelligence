@@ -2,6 +2,60 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-09-is-neuroscience-the-key-to-protecting-ai-from-adversarial-attacks.md",
+      "title": "Is neuroscience the key to protecting AI from adversarial attacks?",
+      "excerpt": "Deep neural networks are a key component of computer vision applications, from video editors to medical software and self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/08/is-neuroscience-the-key-to-protecting-ai-from-adversarial-attacks/",
+      "originalUrl": "https://venturebeat.com/2021/01/08/is-neuroscience-the-key-to-protecting-ai-from-adversarial-attacks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/10/artificial_intelligence.shutterstock_673672549-e1586861549970.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/08/is-neuroscience-the-key-to-protecting-ai-from-adversarial-attacks/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/08/is-neuroscience-the-key-to-protecting-ai-from-adversarial-attacks/amp/",
+      "publishedDateTime": "2021-01-08T08:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Computer Vision",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-nope-facial-recognition-didnt-spot-antifa-members-at-us-riots.md",
       "title": "Nope, ‘facial recognition’ didn’t spot Antifa members at US riots",
       "excerpt": "The facial recognition firm behind Congressman Gaetz's claim says it actually identified neo-Nazis -- not Antifa.",
@@ -1324,58 +1378,6 @@
         "name": "openpr.com",
         "domain": "openpr.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-30-another-arrest-and-jail-time-because-of-a-bad-facial-recognition-match.md",
-      "title": "Another Arrest, and Jail Time, Because of a Bad Facial Recognition Match",
-      "excerpt": "A New Jersey man was accused of shoplifting and trying to hit an officer with a car. He is the third known Black man to be wrongfully arrested based on face recognition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/12/29/technology/facial-recognition-misidentify-jail.html",
-      "originalUrl": "https://www.nytimes.com/2020/12/29/technology/facial-recognition-misidentify-jail.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 333,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/12/29/business/29facialrecog1/29facialrecog1-facebookJumbo-v2.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/12/29/technology/facial-recognition-misidentify-jail.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/29/technology/facial-recognition-misidentify-jail.amp.html",
-      "publishedDateTime": "2020-12-29T09:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

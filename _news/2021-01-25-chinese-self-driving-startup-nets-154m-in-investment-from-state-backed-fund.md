@@ -3,8 +3,8 @@ category: news
 title: "Chinese self-driving startup nets $154m in investment from state-backed fund"
 excerpt: "With the new funds, Uisee will further develop its autonomous driving technology and accelerate its monetization."
 publishedDateTime: 2021-01-25T11:30:00Z
-originalUrl: "https://www.techinasia.com/chinese-selfdriving-startup-uisee-nets-154m-investment-statebacked-fund?ref=recommender-671380"
-webUrl: "https://www.techinasia.com/chinese-selfdriving-startup-uisee-nets-154m-investment-statebacked-fund?ref=recommender-671380"
+originalUrl: "https://www.techinasia.com/chinese-selfdriving-startup-uisee-nets-154m-investment-statebacked-fund?ref=recommender-671663"
+webUrl: "https://www.techinasia.com/chinese-selfdriving-startup-uisee-nets-154m-investment-statebacked-fund?ref=recommender-671663"
 type: article
 quality: 31
 heat: -1
@@ -38,6 +38,6 @@ related:
         height: 799
         isCached: true
 
-secured: "/8vK+qh/O87fjKmPKFrpu+YEoz/CHu8WMT6xJT4jJU+Bz0ws6DhtVpVCE1H1bt2u2Geo4rZ4Ii33/QLjo9PxhjD/Nyo+aZpivfTZwMSqPNFB6GBSGAqOeY+DqwCOh/PmGoY6wIywQP89g5Voc4j+KHCH4Fz+DrFaQbDUUuv5thtM0jwSeQXjzJeSe8UCEu1DviMp/Jx4u7XTf/LReBQA7h5om6VMLe+BfXRd3zc/2LFIdCk4oFpd+ay5s1yhlD3utd1KyuwnMNDf1CGJSz1K5xr2Hpd53lK359A8mNwI+8y3m8mk5j1aMjhoEsQeGXVB5nJhp8Gn0f84uIcqiMAqwYaQlpuOQ1xVuFWhmqsORgjyFn59D4kH+z7xydiCaLkRFCQCR92oVZxqUWT25cYUvOhH9VHb1Y88fEhsnTuSJ31Dj5k5fo8O4NkBIjhHUHmYGRodVpSwH1pfHfIqdQQdRgqHUGMh0EaUeom1rDy5+TIxv4NUO6310TrtFKRcEB/8fF8J8uGzuSG50P33dGLT0A==;TaKwII9DaO8iyb9blqlqOw=="
+secured: "5fZXEwrv81B3/t1IgcBFeh2A3iihSrdGIsMJxA4x1L7UfKwbtS82j5IXkQmOUTGUxYWoU0T0Ky+aJGsSu4V1Jn9pmOMFi8j7pc6vTShD5TC5uBoxC6gzwG+lH/8bMX8smU8uAnGgIPaY7rzAibEuPSIQqnqCPgr/Fg13E7HJVLE976mOhgdXdZuLJLZXy59zA5+VJfPsgpOGpj6D9sCO2CemNMuSTgVPacLNCNr9VRKz2eXM2XQE5I5q49YU4Ye8GUvz2CuzMpRbUP89spdvxuX7peA0cfxzx1d0Gk+BBPEzrQsTkljDng9mHAZOrJv83cgjR/WmqH1x1bfQbit3FhrawTMGGPhl0X0na9CwSbIzhqxbN39XCrBlloPR/xJK4GYtwJsOcotD5n3UTwcq/8HZcObloaxFIRUv+FWp/yoGUBUtT5Wle37J9Fo2cmEzMHnqyCKz8nFUoTOxH+vrOLgZB8kj6kDomRzt01GqlIrWLtyNIC26EhmylNJvmFy63APJX+TaSt3Q7MXbe3qeug==;BZyKlak7N0ApgQEwuxItCA=="
 ---
 

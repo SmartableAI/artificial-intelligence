@@ -2,6 +2,152 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-22-ai-systems-to-get-an-ethics-code-dod.md",
+      "title": "AI Systems to get an Ethics Code: DoD",
+      "excerpt": "Ethical considerations will go into Artificial Intelligence (AI)’s design and employment because it enables autonomy, decision making and system execution at incredibly fast speeds, a DoD official said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.defenseworld.net/news/28810/AI_Systems_to_get_an_Ethics_Code__DoD",
+      "originalUrl": "https://www.defenseworld.net/news/28810/AI_Systems_to_get_an_Ethics_Code__DoD",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.defenseworld.net/uploads//news/big/autonomou_1608524511.jpg",
+          "width": 640,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-21T21:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Defense World",
+        "domain": "defenseworld.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-this-start-up-founder-sees-a-data-privacy-reckoning-on-the-horizon.md",
+      "title": "This Start-Up Founder Sees A Data Privacy Reckoning On The Horizon",
+      "excerpt": "Patricia Thaine is a young start-up founder of Private AI, creating a suite of privacy tools. She discusses the state of privacy, how we got here, whether privacy as a default becomes the norm and how Private AI will enable this new normal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/hessiejones/2021/01/21/this-start-up-founder-sees-a-data-privacy-reckoning-on-the-horizon/",
+      "originalUrl": "https://www.forbes.com/sites/hessiejones/2021/01/21/this-start-up-founder-sees-a-data-privacy-reckoning-on-the-horizon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600a3e8f7f4f95414914aafb%2F0x0.jpg",
+          "width": 1200,
+          "height": 908,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/hessiejones/2021/01/21/this-start-up-founder-sees-a-data-privacy-reckoning-on-the-horizon/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hessiejones/2021/01/21/this-start-up-founder-sees-a-data-privacy-reckoning-on-the-horizon/amp/",
+      "publishedDateTime": "2021-01-21T19:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-5g-fintech-and-mega-projects-what-2021-will-mean-for-tech-in-the-middle-east.md",
+      "title": "5G, fintech and mega-projects: What 2021 will mean for tech in the Middle East",
+      "excerpt": "The MENA region is in the middle of a digital transformation, which 2020 and COVID-19 has only accelerated. I asked five experts to share the tech trends they see influencing the Middle East and North Africa (MENA) this year,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/5g-fintech-and-mega-projects-what-2021-will-mean-for-tech-in-the-middle-east/",
+      "originalUrl": "https://www.zdnet.com/article/5g-fintech-and-mega-projects-what-2021-will-mean-for-tech-in-the-middle-east/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/01/14/fe0581d7-3dc7-4fa7-a1c5-25388306266b/thumbnail/1200x675/990265b0101deff5bded0bc31bc9276b/us-troops-deploying-to-the-middle-east-t-5e1db2285413ee0001a552fc-1-jan-14-2020-13-17-19-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/5g-fintech-and-mega-projects-what-2021-will-mean-for-tech-in-the-middle-east/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/5g-fintech-and-mega-projects-what-2021-will-mean-for-tech-in-the-middle-east/",
+      "publishedDateTime": "2021-01-21T19:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-22-the-new-raspberry-pi-pico-is-an-incredibly-powerful-little-chip-for-just-4.md",
       "title": "The new Raspberry Pi Pico is an incredibly powerful little chip for just $4",
       "excerpt": "The Pico is the first microcontroller board from Raspberry Pi and has been built around the new, custom RP2040 chip.",
@@ -404,8 +550,8 @@
       "title": "AI in Computer Vision Technology and the Impact on Healthcare",
       "excerpt": "In this episode of Impetus Digital’s Fireside Chat, Moshe Safran, CEO at RSIP Vision USA discusses a range of topics related to computer vision, AI, and deep learning in medical imaging, surgery, and healthcare, including the work that RSIP Vision is doing in these fields.",
       "sourceUrl": null,
-      "webUrl": "https://www.pmlive.com/pmhub/pharma_training/impetus_digital/videos/ai_in_computer_vision_technology_and_the_impact_on_healthcare",
-      "originalUrl": "https://www.pmlive.com/pmhub/pharma_training/impetus_digital/videos/ai_in_computer_vision_technology_and_the_impact_on_healthcare",
+      "webUrl": "https://www.pmlive.com/pmhub/pharmaceutical_branding/impetus_digital/videos/ai_in_computer_vision_technology_and_the_impact_on_healthcare",
+      "originalUrl": "https://www.pmlive.com/pmhub/pharmaceutical_branding/impetus_digital/videos/ai_in_computer_vision_technology_and_the_impact_on_healthcare",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1068,160 +1214,6 @@
         "name": "MIT Technology Review",
         "domain": "technologyreview.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-the-real-self-driving-revolution-remains-years-away.md",
-      "title": "The real self-driving revolution remains years away",
-      "excerpt": "This year, new technologies will enable more drivers to take their hands off the wheel while on the road. But that doesn't mean their cars will be fully self-driving -- that day still remains far in the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2021/01/21/success/self-driving-car-technology-2021/index.html",
-      "originalUrl": "https://www.cnn.com/2021/01/21/success/self-driving-car-technology-2021/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200204152457-02-cadillac-escalade-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/21/success/self-driving-car-technology-2021/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/21/success/self-driving-car-technology-2021/index.html",
-      "publishedDateTime": "2021-01-21T04:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-the-enterprise-data-and-ai-journey-to-the-cloud-three-fundamental-milestones.md",
-      "title": "The Enterprise Data And AI Journey To The Cloud: Three Fundamental Milestones",
-      "excerpt": "Managing Director, Data & AI at Accenture's Microsoft Business Group in Europe. 2020 has been a whirlwind in the development and adoption of technology, especially data analytics, artificial intelligence and machine learning and automation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/21/the-enterprise-data-and-ai-journey-to-the-cloud-three-fundamental-milestones/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/21/the-enterprise-data-and-ai-journey-to-the-cloud-three-fundamental-milestones/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fabe26daa1946a71defd95f%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/21/the-enterprise-data-and-ai-journey-to-the-cloud-three-fundamental-milestones/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/21/the-enterprise-data-and-ai-journey-to-the-cloud-three-fundamental-milestones/amp/",
-      "publishedDateTime": "2021-01-21T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-how-to-build-a-corporate-ai-center-of-excellence.md",
-      "title": "How To Build A Corporate AI Center Of Excellence",
-      "excerpt": "There is hardly an industry that is not affected by AI, hardly a business function that will be left untouched.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/21/how-to-build-a-corporate-ai-center-of-excellence/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/21/how-to-build-a-corporate-ai-center-of-excellence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5efba41d3855ae0007ddff96%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/21/how-to-build-a-corporate-ai-center-of-excellence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/21/how-to-build-a-corporate-ai-center-of-excellence/amp/",
-      "publishedDateTime": "2021-01-21T04:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

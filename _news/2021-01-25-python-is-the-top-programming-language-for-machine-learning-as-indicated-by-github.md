@@ -28,14 +28,14 @@ related:
   - title: "Python remains most popular programming language to learn"
     excerpt: "Though Python may be tops, interest is also growing in other languages, including JavaScript, C, and C++, says O'Reilly."
     publishedDateTime: 2021-01-25T15:56:00Z
-    webUrl: "https://www.techrepublic.com/article/python-remains-most-popular-programming-language-to-learn/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/python-remains-most-popular-programming-language-to-learn/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/python-remains-most-popular-programming-language-to-learn/"
+    webUrl: "https://www.techrepublic.com/index.php/recent/index.php/article/python-remains-most-popular-programming-language-to-learn/"
+    ampWebUrl: "https://www.techrepublic.com/index.php/recent/index.php/google-amp/article/python-remains-most-popular-programming-language-to-learn/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/recent/index.php/google-amp/article/python-remains-most-popular-programming-language-to-learn/"
     type: article
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://tr2.cbsistatic.com/hub/i/r/2020/04/30/85083d05-b7b7-4832-a3b1-f1532b6d905e/resize/1200x/f816050b9bf16dda28145dfd5dcf70cd/fullstackdeveloperimage.jpg"
         width: 1200

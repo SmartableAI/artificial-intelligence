@@ -1,0 +1,28 @@
+---
+category: news
+title: "Belgian initiative for AI lung scan analysis in fight against COVID-19 goes European"
+excerpt: "The Belgian initiative icovid, which supports radiologists in the assessment of CT images of the lungs of COVID-19 patients, has grown into a multicentre European project, co-funded by the EU Horizon 2020 programme."
+publishedDateTime: 2021-01-27T08:11:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-europe-diseases-and-conditions-western-europe-lung-disease-d22101b2b07501c01eeb925bcbc358da"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-europe-diseases-and-conditions-western-europe-lung-disease-d22101b2b07501c01eeb925bcbc358da"
+type: article
+quality: 30
+heat: 30
+published: false
+
+provider:
+  name: Associated Press
+  domain: apnews.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "bZDAu/OM2QCYRtq+FX1Mo9m9cYhgK0blG3dWGeywqH+Y9WLVtNX6+7TM7gq4Znh0g3ol3smhxE/xDPj6nwfDEjdsSOwp9cfP0NXFLmCRdpo/DcAKFvNfcHA2/r6k5Yb8WMEcNmMWwYvjEPKz6tG5NzGYHXay36VibBkCdYEK5s/zf5fzvjzJz9W8M2hQJoVlkLqGbymB1XtI1L4U+QvzTPuzTieVOxhsKUWN12aNpeQybkoQ7R1DiOvn7C+jWLP3vL6uD5c7DXvV8vDcAsEeNHdqMXwdQPd9Nj267zWi7nFSmcwn+M4m8Bveu4znuki3d3ajNdoGOGm5BYwK8z9Irb4qdk/1xx/xC0wQSwKBz7s=;0tvOLdhVmi+pd8sW3ZSVtA=="
+---
+

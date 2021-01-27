@@ -2,6 +2,136 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-01-20-mission-healthcare-of-san-diego-adopts-muse-healthcares-machine-learning-tool.md",
+      "title": "Mission Healthcare of San Diego Adopts Muse Healthcare's Machine Learning Tool",
+      "excerpt": "ST. PAUL, Minn., Jan. 19, 2021 /PRNewswire/ -- San Diego-based Mission Healthcare, one of the largest home health, hospice, and palliative care",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/mission-healthcare-of-san-diego-adopts-muse-healthcare-s-machine-learning-tool-1029980867",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/mission-healthcare-of-san-diego-adopts-muse-healthcare-s-machine-learning-tool-1029980867",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/mission-healthcare-of-san-diego-adopts-muse-healthcare-s-machine-learning-tool-1029980867",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/mission-healthcare-of-san-diego-adopts-muse-healthcare-s-machine-learning-tool-1029980867",
+      "publishedDateTime": "2021-01-19T10:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-eden-health-selects-nvoq-to-increase-productivity-by-enabling-home-health-caregivers-with-speech-to-text-technology.md",
+      "title": "Eden Health selects nVoq to increase productivity by enabling home health caregivers with speech to text technology.",
+      "excerpt": "PRNewswire/ -- nVoq, a leading provider of HIPAA compliant speech recognition solutions for post-acute care, is pleased to announce Eden Health has selected nVoq's innovative",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/eden-health-selects-nvoq-to-increase-productivity-by-enabling-home-health-caregivers-with-speech-to/article_944431e1-4d0a-5d4e-9c97-01a5f6b32192.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/eden-health-selects-nvoq-to-increase-productivity-by-enabling-home-health-caregivers-with-speech-to/article_944431e1-4d0a-5d4e-9c97-01a5f6b32192.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/29/c2976269-6db7-5b99-882a-d63d5cc8eeec/600714215fe49.image.jpg?resize=400%2C400",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-19T08:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-opinion-facial-recognition-vital-to-nab-capitol-assailants.md",
+      "title": "Opinion: Facial Recognition Vital to Nab Capitol Assailants",
+      "excerpt": "While cities ranging from San Francisco to Boston have worked to ban facial recognition outright, without that technology, the FBI and Capitol Police would have had a harder job arresting the Capitol insurrectionists.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/security/Opinion-Facial-Recognition-Vital-to-Nab-Capitol-Assailants.html",
+      "originalUrl": "https://www.govtech.com/security/Opinion-Facial-Recognition-Vital-to-Nab-Capitol-Assailants.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.govtech.com/images/shutterstock_1392652700.jpg",
+          "width": 939,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/security/Opinion-Facial-Recognition-Vital-to-Nab-Capitol-Assailants.html?AMP",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/Opinion-Facial-Recognition-Vital-to-Nab-Capitol-Assailants.html?AMP",
+      "publishedDateTime": "2021-01-19T08:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-20-microsoft-backs-general-motors-cruise-automation-self-driving-car-venture.md",
       "title": "Microsoft backs General Motors' Cruise Automation self-driving car venture",
       "excerpt": "Microsoft is in on the future of self-driving cars. On Tuesday, General Motors' self-driving car subsidiary, Cruise Automation, announced the company participated in the latest round of funding. Although the firm didn't provide breakout figures,",
@@ -1102,136 +1232,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-amesite-expands-sales-marketing-team-to-target-k-12-learning-software-market.md",
-      "title": "Amesite Expands Sales & Marketing Team to Target K-12 Learning Software Market",
-      "excerpt": "ANN ARBOR, Mich., Jan. 19, 2021 /PRNewswire/ -- AmesiteInc. (Nasdaq: AMST), an artificial intelligence software company providing online learning",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/amesite-expands-sales-marketing-team-to-target-k-12-learning-software-market-1029980247",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/amesite-expands-sales-marketing-team-to-target-k-12-learning-software-market-1029980247",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/amesite-expands-sales-marketing-team-to-target-k-12-learning-software-market-1029980247",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/amesite-expands-sales-marketing-team-to-target-k-12-learning-software-market-1029980247",
-      "publishedDateTime": "2021-01-19T03:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Marketing",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-youtuber-challenges-scientist-to-create-an-ai-version-of-him-for-100.md",
-      "title": "YouTuber challenges scientist to create an AI version of him for $100",
-      "excerpt": "That's the question YouTuber Tom Scott set out to find the answer to in his latest video, for which he challenged AI in neuroscience researcher Jordan Harrod to create a fake version of him for $100.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/video/tom-scott-ai-version/",
-      "originalUrl": "https://mashable.com/video/tom-scott-ai-version/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2021%252F01%252F19%252F7c%252Fa83dec8cc13c4aee9a190a98c71b0445.2df2f.jpg%252F1200x630.jpg?signature=WHlUQxZOgk3BSKB27uIxxqkHDck=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/video/tom-scott-ai-version.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/tom-scott-ai-version.amp",
-      "publishedDateTime": "2021-01-19T03:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official.md",
-      "title": "Delhi airport evaluating 'computer vision' tech to track flyers, ensure social distancing: Official",
-      "excerpt": "Delhi airport, which is also led by a GMR group-headed consortium, installed the 'Xovis' passenger tracking system at Terminal 3 last month",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/companies/news/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official-11611054333198.html",
-      "originalUrl": "https://www.livemint.com/companies/news/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official-11611054333198.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/01/19/600x338/PTI23-12-2020_000268B_1611054870782_1611054896014.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/companies/news/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official/amp-11611054333198.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official/amp-11611054333198.html",
-      "publishedDateTime": "2021-01-19T03:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) Chipsets Market – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2026"
+    excerpt: "Selbyville Delaware Global Artificial Intelligence (AI) Chipsets Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2026. Artificial Intelligence (AI) Chipsets Market Report also covers top key players,"
+    publishedDateTime: 2021-01-27T07:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2026-2021-01-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Self Driving Trucks Market Analysis, Trends, Growth, Size, Share and Forecast 2020 to 2026"
     excerpt: "Jan (Heraldkeepers) -- Self-driving truck market is an undergoing technology which can let trucks or freights to run on their own."
     publishedDateTime: 2021-01-25T11:49:00Z
@@ -169,22 +183,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Solutions Market Future Demands, Companies, Trends, Share and Size Forecast"
-    excerpt: "DeepResearchReports has uploaded a latest report on Artificial Intelligence Solutions Industry from its research database Artificial Intelligence Solutions Market is segmented by Regions Countries All the key market aspects that influence the Artificial Intelligence Solutions Market currently and will have"
-    publishedDateTime: 2021-01-22T15:13:00Z
-    webUrl: "https://www.openpr.com/news/2229950/artificial-intelligence-solutions-market-future-demands"
-    ampWebUrl: "https://www.openpr.com/amp/2229950/artificial-intelligence-solutions-market-future-demands"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2229950/artificial-intelligence-solutions-market-future-demands"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 43
-    images:
-      - url: "https://cdn.openpr.com/U/1/U122861664_g.jpg"
-        width: 800
-        height: 468
-        isCached: true
   - title: "Global Cognitive Computing Market Trends 2020 | Segmentation, Outlook, Industry Report to 2026"
     excerpt: "Jan (Heraldkeepers) -- Cognitive computing marketis in its initial phases. Cognitive computing system applies machine-learning, natural"
     publishedDateTime: 2021-01-25T08:33:00Z
@@ -278,20 +276,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Global AI-Enabled Medical Imaging Solutions Market (2020 to 2030) - Analysis and Forecast - ResearchAndMarkets.com"
-    excerpt: "ResearchAndMarkets.com The “Global AI-Enabled Medical Imaging Solutions Market: 15 Countries Analysis - Analysis and Forecast, 2020-2030” report has been added to ResearchAndMarkets.com’s offering. The global AI-enabled medical imaging solutions market was valued at $636."
-    publishedDateTime: 2021-01-22T16:44:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-medical-technology-b305428c19ef4b668fc008a4282463df"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 15
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "v0cCwdjjMeq1gjpNRrmxrRtlWCqz+ZmVF2KK0bCTpnyRsGH1AEsE9fvHX+HiaKrI0X3WXIBhHqxjlfc6DqWHiAE2xdTUnwBYy5Xr1DQ7IaFK5C869IbsTOWGy07h452y0K2hdwLy/4vk992Hq3mQSlDal4f/I62gLaqlJ7NkJO4b9lIL2LEOod/OL1/TmFg7QvC84AHqAxnFFcq6/FRkHPr/dJDriELhSxE1RwVrXbj0gPYKytLk7lEtCheUR2Hc5MjOku2nmFFT9NKFtBZb9/VOwdZTg1I1upEsnSbOzYE9kGIOA6sv6kffry8O1m460mt643RnoISorkBaACtNC34oJyR9vhAoi5HNsHqmdDU=;J3y9hg7nA84reOSJNIGQng=="

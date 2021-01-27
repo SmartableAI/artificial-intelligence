@@ -3,10 +3,10 @@ category: news
 title: "Looking for free cloud training? Check out the AWS Dev Hour on Twitch and learn to build an app"
 excerpt: "Expert trainers will build a full stack application in the AWS cloud using the AWS Free Tier during the new eight-week show."
 publishedDateTime: 2021-01-26T16:11:00Z
-originalUrl: "https://www.techrepublic.com/article/looking-for-free-cloud-training-check-out-the-aws-dev-hour-on-twitch-and-learn-to-build-an-app/"
-webUrl: "https://www.techrepublic.com/article/looking-for-free-cloud-training-check-out-the-aws-dev-hour-on-twitch-and-learn-to-build-an-app/"
-ampWebUrl: "https://www.techrepublic.com/google-amp/article/looking-for-free-cloud-training-check-out-the-aws-dev-hour-on-twitch-and-learn-to-build-an-app/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/looking-for-free-cloud-training-check-out-the-aws-dev-hour-on-twitch-and-learn-to-build-an-app/"
+originalUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/looking-for-free-cloud-training-check-out-the-aws-dev-hour-on-twitch-and-learn-to-build-an-app/"
+webUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/looking-for-free-cloud-training-check-out-the-aws-dev-hour-on-twitch-and-learn-to-build-an-app/"
+ampWebUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/looking-for-free-cloud-training-check-out-the-aws-dev-hour-on-twitch-and-learn-to-build-an-app/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/looking-for-free-cloud-training-check-out-the-aws-dev-hour-on-twitch-and-learn-to-build-an-app/"
 type: article
 quality: 94
 heat: 104
@@ -47,6 +47,6 @@ related:
         height: 500
         isCached: true
 
-secured: "5PiFXkq88D2U07iUdnaMtrBuP1HD2h4vuHZCCwdSKqAJFwm58AtGuAR36pI0chcmyk0g412zYV2V3HuMmS43vFu/dMBvI/z1vA9Btjboh6xYaPs2cOThHUBf13HbIvTR1AS5iuEWt4buX6kXSGJQV1W1yXOT9bkkrRcSVqaDsQjCq2JRDbm7Vj6JsXtvVhDIvANQJJQ7z/ee6rpkz3SpSLVo0FWKm5mk8G8f3Nssd9+lw7bad90ayU2Y1nmHPHsFa2o/5m9xfsNoeoYzal5LhJccLQfE39X+CGBn4IPWQWtnBrvn7bWh3rUhx9mXMqdnA7IuRd7TasS6N8AOFKFFOeytHIYZ4AaLrjtFjxBZ7VY=;kKzNZREciTDmspF7GfEWiw=="
+secured: "9/wLeCpXJG7xBW9i6fVFinRUHKvrDVgLNXaVE4dKAt7saVLN7mO0+ZXA3Sc78LCOmXErE+XnVHrABUCftkpLAyrjmUp6iVz2w4R7Es9sa8ef4tUdARO9y148aHPwopg5k7ZCGQMTOxWP5vsh0N2xaFW/ymWJtGgJsoWf2JGQS4dYEVbkRbUP7uQJicDAsseMPUDvQfVJGmhLFeKRmVnq6gtZY2AifWc3EZbNe9XFm6oQzb1JvbNAhonDCmiTIl84qEY4n4fEHtdrmeiZLznnvFjDTHZarGPX2nd4dQ7hgBhgw3snKXnxyGGNOX6DiwjsD//gObL0dFqUOaD6bdZS3Nw8VZIq7Ckoq5LXeeOfXXQ=;XVVdnpVXOyjJXWGtzdCV7w=="
 ---
 

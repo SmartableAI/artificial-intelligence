@@ -24,19 +24,6 @@ images:
     height: 533
     isCached: true
 
-related:
-  - title: "Critics of facial recognition Technology Target NYC and the state with the ‘Ban The Scan’ – CBS New York campaign"
-    excerpt: "Critics of facial recognition Technology Target NYC and the state with the 'Ban The Scan' - CBS New York campaign NEW YORK (CBSNewYork) -"
-    publishedDateTime: 2021-01-26T18:41:00Z
-    webUrl: "https://www.compsmag.com/news/technology/critics-of-facial-recognition-technology-target-nyc-and-the-state-with-the-ban-the-scan-cbs-new-york-campaign/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/critics-of-facial-recognition-technology-target-nyc-and-the-state-with-the-ban-the-scan-cbs-new-york-campaign/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/critics-of-facial-recognition-technology-target-nyc-and-the-state-with-the-ban-the-scan-cbs-new-york-campaign/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 33
-
 secured: "oZBR5JUm5U/72l1uqnTENpR0Y1323S+bWNdAlfQ57U3JTncdpQlg3D3cyNdb3nVNfSQ7BAqnixrZZZWT9U4jZ1WtzIEPKOVOMm1s1qiTsYCTfn/8d9dN8HquD/bs+PttNq+VbctkWveHZGG6wtP/Tv7fjca5vf9muzc2rADCf9a6wo/jMsCWevXSV8RGifY92gpk18a1xVnfcsb31erw3NtVpBnWunQC0Fx1RwKlv5oZ8W780fYlwl83bmDK1iYeHusCOFzmpWypiUMfxTHPW8n6o/bl+QFyrLvcLE6ZepGl/h9pqzYmlegnLU3w4U/Ra4CXCshwrpXWXpzPI53AO1GluaKwXA3XR1QaGymM0P1t9zN5x53K4c4HFdleqdjml64dM9LAxubBSgJMl5HSVK0B2tLW6af7gk43Qhy3JpK/sRyhsVl7Cdy6Kk7vkSadHTIqOCyHKGfxXSp3FGPOTZ6WoZ2ooDmz7SLI5qkxYeEykAR+tmG1vtD0Nk9mSN5sBUxnT9JGpv8Nr9i+SFBWMw==;Q/35lGRvQqg0jZiccHY0sg=="
 ---
 

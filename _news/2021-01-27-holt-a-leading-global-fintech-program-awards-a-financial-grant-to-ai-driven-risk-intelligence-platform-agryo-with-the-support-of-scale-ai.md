@@ -33,7 +33,7 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 2
+    quality: 4
     images:
       - url: "https://mma.prnewswire.com/media/1427043/1.jpg?p=facebook"
         width: 1279

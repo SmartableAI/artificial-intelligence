@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-26-report-brexit-could-help-china-and-the-us-in-the-global-ai-race.md",
+      "title": "Report: Brexit could help China and the US in the global AI race",
+      "excerpt": "The study found that China is catching up with the US in the AI race, while the EU is slipping further behind.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/01/25/report-brexit-could-help-china-and-the-us-in-the-global-ai-race/",
+      "originalUrl": "https://thenextweb.com/neural/2021/01/25/report-brexit-could-help-china-and-the-us-in-the-global-ai-race/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/Untitled-design-2021-01-25T153915.019-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/01/25/report-brexit-could-help-china-and-the-us-in-the-global-ai-race/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/25/report-brexit-could-help-china-and-the-us-in-the-global-ai-race/amp/",
+      "publishedDateTime": "2021-01-25T09:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-robots-take-up-the-fight-against-infection.md",
       "title": "Robots take up the fight against infection",
       "excerpt": "Rapid advances in AI and automation mean robots are now helping businesses in almost every sector to boost efficiency, enhance productivity and streamline costs. But in the age of Covid-19, attention has also focused on how AI-enabled robots can be used to clean offices,",
@@ -114,7 +166,7 @@
       "originalUrl": "https://newatlas.com/robotics/rur-capek-play-word-robot-100-years/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -162,11 +214,11 @@
       "title": "Python remains most popular programming language to learn",
       "excerpt": "Though Python may be tops, interest is also growing in other languages, including JavaScript, C, and C++, says O'Reilly.",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/python-remains-most-popular-programming-language-to-learn/",
-      "originalUrl": "https://www.techrepublic.com/article/python-remains-most-popular-programming-language-to-learn/",
+      "webUrl": "https://www.techrepublic.com/index.php/recent/index.php/article/python-remains-most-popular-programming-language-to-learn/",
+      "originalUrl": "https://www.techrepublic.com/index.php/recent/index.php/article/python-remains-most-popular-programming-language-to-learn/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -180,8 +232,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/python-remains-most-popular-programming-language-to-learn/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/python-remains-most-popular-programming-language-to-learn/",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/recent/index.php/google-amp/article/python-remains-most-popular-programming-language-to-learn/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/recent/index.php/google-amp/article/python-remains-most-popular-programming-language-to-learn/",
       "publishedDateTime": "2021-01-25T07:56:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -205,8 +257,9 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI"
+        "Google AI",
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -415,7 +468,7 @@
       "originalUrl": "https://electrek.co/2021/01/25/tesla-partners-samsung-new-5nm-chip-full-self-driving-report/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 132,
       "tags": null,
       "images": [
         {
@@ -857,7 +910,7 @@
       "originalUrl": "https://sea.mashable.com/tech/14213/thousands-of-sophia-the-robot-units-to-be-sold-to-help-people-cope-with-covid-19",
       "featuredContent": null,
       "highlight": null,
-      "heat": 143,
+      "heat": 133,
       "tags": null,
       "images": [
         {
@@ -1163,49 +1216,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-24-seven-ways-ai-can-help-govts-transform-public-services.md",
-      "title": "Seven ways AI can help govts transform public services",
-      "excerpt": "Governments are starting to explore the potential of AI and can work with policy-makers, public servants and data scientists to fully realise its benefits.",
-      "sourceUrl": null,
-      "webUrl": "https://theprint.in/tech/seven-ways-ai-can-help-govts-transform-public-services/590745/",
-      "originalUrl": "https://theprint.in/tech/seven-ways-ai-can-help-govts-transform-public-services/590745/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.theprint.in/wp-content/uploads/2018/09/AI-final.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theprint.in/tech/seven-ways-ai-can-help-govts-transform-public-services/590745/?amp",
-      "cdnAmpWebUrl": "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/tech/seven-ways-ai-can-help-govts-transform-public-services/590745/?amp",
-      "publishedDateTime": "2021-01-23T20:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ThePrint",
-        "domain": "theprint.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

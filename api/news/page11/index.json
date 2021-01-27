@@ -2,6 +2,144 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-01-18-your-next-drone-or-action-cam-will-shoot-8k-video-4k-at-240fps-with-ambarellas-new-chip.md",
+      "title": "Your next drone or action cam will shoot 8K video, 4K at 240fps with Ambarella's new chip",
+      "excerpt": "The 5nm CV5 artificial intelligence vision processor can be used for everything from automotive camera systems to security cameras and drones.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/your-next-drone-or-action-cam-will-shoot-8k-video-4k-at-240fps-with-ambarellas-new-chip/",
+      "originalUrl": "https://www.cnet.com/news/your-next-drone-or-action-cam-will-shoot-8k-video-4k-at-240fps-with-ambarellas-new-chip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/XWGkyJIePJvucfYKTzHVczBgI6Q=/1200x630/2021/01/15/9258e185-a943-4ffa-886b-0c8d9d2ea0c4/photo-of-cv5-soc-under-embargo-until-jan-11-2021-at-5-am-eastern.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/your-next-drone-or-action-cam-will-shoot-8k-video-4k-at-240fps-with-ambarellas-new-chip/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/your-next-drone-or-action-cam-will-shoot-8k-video-4k-at-240fps-with-ambarellas-new-chip/",
+      "publishedDateTime": "2021-01-17T16:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-18-master-machine-and-human-learning-to-win-the-digital-transformation-wars.md",
+      "title": "Master Machine and Human Learning to Win the Digital Transformation Wars",
+      "excerpt": "The “Economies of Learning” are more powerful than the “Economies of Scale” This may be my most powerful concept (outside of the Schmarzo Economic Digital Asset Valuation Theorem and the Big Data Busi",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/master-machine-human-learning-win-digital-wars-bill-schmarzo",
+      "originalUrl": "https://www.linkedin.com/pulse/master-machine-human-learning-win-digital-wars-bill-schmarzo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQFz5iYn5U-LRg/article-cover_image-shrink_600_2000/0/1610993361261?e=1616630400&v=beta&t=19M_arN5u8uvNYGTRo_0g862yYKvM310sjKJmzMc9v8",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-17T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-18-apple-car-expected-to-shake-up-auto-industry-worldwide.md",
+      "title": "Apple Car expected to shake up auto industry worldwide",
+      "excerpt": "Baidu, a top Chinese internet company leading the development of self-driving technology, announced this month that it would produce EVs with Zhejiang Geely Holding Group, an automaker in China ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/ed38701f-27ae-4d5c-9092-723513c7e9b9",
+      "originalUrl": "https://www.ft.com/content/ed38701f-27ae-4d5c-9092-723513c7e9b9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-17T15:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-18-language-ai-is-really-heating-up.md",
       "title": "Language AI is really heating up",
       "excerpt": "Any procedure that still requires a human to understand language is now at the verge of being disrupted or automated.",
@@ -439,6 +577,49 @@
         "AI",
         "AI in Security",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-01-16-clarabridge-cx-analytics-launches-aws-contact-center-intelligence-solution.md",
+      "title": "Clarabridge CX Analytics launches AWS Contact Center Intelligence solution",
+      "excerpt": "Clarabridge, a global leader in Customer Experience Management (CEM) for some of the worlds top brands, announced today that the Clarabridge CX Analytics solution now integrates with Amazon Web Services (AWS) Contact Center Intelligence (CCI),",
+      "sourceUrl": null,
+      "webUrl": "https://www.globalbankingandfinance.com/category/news/clarabridge-cx-analytics-launches-aws-contact-center-intelligence-solution/",
+      "originalUrl": "https://www.globalbankingandfinance.com/category/news/clarabridge-cx-analytics-launches-aws-contact-center-intelligence-solution/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-16T02:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "List of Banks in Belarus",
+        "domain": "globalbankingandfinance.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -1017,214 +1198,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-blockchain-beyond-bitcoin-transforming-fintech-healthcare-and-more.md",
-      "title": "Blockchain Beyond Bitcoin: Transforming FinTech, Healthcare, And More",
-      "excerpt": "The origin of blockchain dates back to 1991, when researchers Stuart Haber and W. Scott Stornetta outlined a system to document timestamps that could not be altered. However, it is most widely known as the underpinning of Bitcoin,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2021/01/15/blockchain-beyond-bitcoin-transforming-fintech-healthcare-and-more/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2021/01/15/blockchain-beyond-bitcoin-transforming-fintech-healthcare-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6001bffef1677f1270da7683%2F0x0.jpg",
-          "width": 1200,
-          "height": 593,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2021/01/15/blockchain-beyond-bitcoin-transforming-fintech-healthcare-and-more/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/01/15/blockchain-beyond-bitcoin-transforming-fintech-healthcare-and-more/amp/",
-      "publishedDateTime": "2021-01-15T08:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-i-am-not-a-soldier-but-i-have-been-trained-to-kill.md",
-      "title": "I Am Not a Soldier, but I Have Been Trained to Kill",
-      "excerpt": "A sprawling tactical industry is teaching American civilians how to fight like Special Ops forces. By preparing for violence at home, are they calling it into being?",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/anthony-levandowski-artificial-intelligence-religion/",
-      "originalUrl": "https://www.wired.com/story/america-civilian-tactical-training-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5a0a046174c62b689459d7c4/master/pass/LEAD%20Anthony%20Levandoski_Michelle%20Le03.JPG",
-          "width": 4500,
-          "height": 3000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/anthony-levandowski-artificial-intelligence-religion/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/anthony-levandowski-artificial-intelligence-religion/amp",
-      "publishedDateTime": "2021-01-15T07:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-the-ai-incident-database-wants-to-improve-the-safety-of-machine-learning.md",
-      "title": "The AI Incident Database wants to improve the safety of machine learning",
-      "excerpt": "The AI Incident Database documents failures of AI systems in the real world, revealing past failures to avoid repeating them.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/15/the-ai-incident-database-wants-to-improve-the-safety-of-machine-learning/",
-      "originalUrl": "https://venturebeat.com/2021/01/15/the-ai-incident-database-wants-to-improve-the-safety-of-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/AI-incident-database.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/15/the-ai-incident-database-wants-to-improve-the-safety-of-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/15/the-ai-incident-database-wants-to-improve-the-safety-of-machine-learning/amp/",
-      "publishedDateTime": "2021-01-15T07:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-three-ways-brands-can-win-the-buy-box-using-search-and-ai.md",
-      "title": "Three Ways Brands Can Win The Buy Box Using Search And AI",
-      "excerpt": "AI makes it possible for these marketplaces to do predictive analysis of massive datasets to understand consumer/shopper behavior. Algorithms power almost every aspect of e-commerce for brands and the consumers they serve: discovery (search),",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/15/three-ways-brands-can-win-the-buy-box-using-search-and-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/15/three-ways-brands-can-win-the-buy-box-using-search-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F107429982%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/15/three-ways-brands-can-win-the-buy-box-using-search-and-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/15/three-ways-brands-can-win-the-buy-box-using-search-and-ai/amp/",
-      "publishedDateTime": "2021-01-15T06:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

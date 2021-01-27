@@ -6,7 +6,7 @@ publishedDateTime: 2021-01-26T15:56:00Z
 originalUrl: "https://www.prnewswire.com/news-releases/holt-a-leading-global-fintech-program-awards-a-financial-grant-to-ai-driven-risk-intelligence-platform-agryo-with-the-support-of-scale-ai-301215327.html"
 webUrl: "https://www.prnewswire.com/news-releases/holt-a-leading-global-fintech-program-awards-a-financial-grant-to-ai-driven-risk-intelligence-platform-agryo-with-the-support-of-scale-ai-301215327.html"
 type: article
-quality: 2
+quality: 4
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://mma.prnewswire.com/media/1427043/1.jpg?p=facebook"

@@ -9,7 +9,7 @@ ampWebUrl: "https://sanfrancisco.cbslocal.com/2021/01/20/trump-issues-pardon-for
 cdnAmpWebUrl: "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/2021/01/20/trump-issues-pardon-for-anthony-levandowski-who-admitted-to-silicon-valley-self-driving-tech-trade-secrets-theft/amp/"
 type: article
 quality: 4
-heat: -1
+heat: 4
 published: false
 
 provider:
@@ -19,22 +19,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "Pardon for Ex-Google Exec Who Took Self-Driving Car Secrets to Uber"
-    excerpt: "A long-running Silicon Valley soap opera took an unexpected twist on Wednesday after outgoing President Donald Trump pardoned a former Google engineer for"
-    publishedDateTime: 2021-01-22T15:47:00Z
-    webUrl: "https://www.insurancejournal.com/news/west/2021/01/22/598348.htm"
-    type: article
-    provider:
-      name: Insurance Journal
-      domain: insurancejournal.com
-    quality: 24
-    images:
-      - url: "https://www.insurancejournal.com/app/uploads/2015/09/ubercar.png"
-        width: 450
-        height: 900
-        isCached: true
 
 secured: "MrduU1vPzhpKBbllX8R85wwcAzQ1L3VY2rOyCT3AkBZyfGh05ex5+0s9Df+f/wkkiJNYY/MirvqxTFYP5PscGP5MFaoEfKcMGur3SJsbKyvmMc4Bn13p/mYwZXpMqtg7VWdOWvQJzMSvxPWEcbzEEG57JROk7qfVhBObMoBaJ/JzgQPfcuvYtEL/bG2i0ScyIsszQ7dUUGKRkl8nhfr/ebQ/HEPoLRWefUoeOPDoGgCSaOypqQHTgN9szVz3W8f343/vAizg/M7Cy8vh1uRVPkmhc8+D3gx12N4hKHLqszo/Fp7T3049LO4V4E8xwcwamdswBddED2rfLfWXa8Kx5Pt+RnUoTZ4IwpWF74ObZrhU7s2wKoOykL6fnRLKi/HwUXlFlmnQ/yMAolfhLrfL6P9tJZkF7Gc8+UwWpWyLcysj1sdEMP0C8buIanzsde9Jq9P+h6/Clr1aHWebndF6wv1mHDNf0Eb36LITw10CLBQEhenVsVlWIlAsPyOeAalVkoekCu7NiXtouTTqppPDvQ==;S8hU3LawbHKwqtwmjQdtYQ=="
 ---

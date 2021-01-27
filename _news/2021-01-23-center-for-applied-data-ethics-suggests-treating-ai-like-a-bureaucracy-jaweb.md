@@ -9,8 +9,8 @@ ampWebUrl: "https://elmoudjaweb.com/center-for-applied-data-ethics-suggests-trea
 cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/center-for-applied-data-ethics-suggests-treating-ai-like-a-bureaucracy-jaweb/?amp"
 type: article
 quality: 70
-heat: -1
-published: false
+heat: 80
+published: true
 
 provider:
   name: Elmoudjaweb
@@ -27,19 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Center for Applied Data Ethics suggests treating AI like a bureaucracy"
-    excerpt: "A new research paper suggests AI practitioners adopt anthropology terms to assess large machine learning models that harm people."
-    publishedDateTime: 2021-01-22T16:43:00Z
-    webUrl: "https://venturebeat.com/2021/01/22/center-for-applied-data-ethics-suggests-treating-ai-like-a-bureaucracy/"
-    ampWebUrl: "https://venturebeat.com/2021/01/22/center-for-applied-data-ethics-suggests-treating-ai-like-a-bureaucracy/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/22/center-for-applied-data-ethics-suggests-treating-ai-like-a-bureaucracy/amp/"
+  - title: "Kili Technology unveils data annotation platform to improve AI, raises $7 million – Jaweb"
+    excerpt: "Poor or uncategorized raw data can be a major impediment for enterprises that want to build high-quality artificial intelligence that has a meaningful impact on their business. Organizing unstructured data such as images and audio can present a particularly daunting obstacle in this regard."
+    publishedDateTime: 2021-01-26T08:56:00Z
+    webUrl: "https://elmoudjaweb.com/kili-technology-unveils-data-annotation-platform-to-improve-ai-raises-7-million-jaweb/"
+    ampWebUrl: "https://elmoudjaweb.com/kili-technology-unveils-data-annotation-platform-to-improve-ai-raises-7-million-jaweb/?amp"
+    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/kili-technology-unveils-data-annotation-platform-to-improve-ai-raises-7-million-jaweb/?amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
+      name: Elmoudjaweb
+      domain: elmoudjaweb.com
+    quality: 48
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/01/ian-hutchinson-U8WfiRpsQ7Y-unsplash.jpg?w=1200&strip=all"
+      - url: "https://elmoudjaweb.com/wp-content/uploads/2021/01/Kili-Technology-unveils-data-annotation-platform-to-improve-AI-raises.png"
         width: 1200
         height: 600
         isCached: true

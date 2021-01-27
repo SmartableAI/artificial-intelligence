@@ -9,8 +9,8 @@ ampWebUrl: "https://www.12newsnow.com/amp/article/news/politics/national-politic
 cdnAmpWebUrl: "https://www-12newsnow-com.cdn.ampproject.org/c/s/www.12newsnow.com/amp/article/news/politics/national-politics/senators-ethics-panel-investigation-hawley-cruz/63-fed978dd-679a-49dc-a953-a4dee058be24"
 type: article
 quality: 61
-heat: -1
-published: false
+heat: 71
+published: true
 
 provider:
   name: 12 NEWS
@@ -28,38 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Sen. Sherrod Brown files ethics complaint against Ted Cruz, Josh Hawley"
-    excerpt: "Sen. Sherrod Brown of Ohio has joined several Democrats in filing a Senate Ethics Committee complaint against Republican Senators Ted Cruz and Josh Hawley."
-    publishedDateTime: 2021-01-22T15:56:00Z
-    webUrl: "https://www.wlwt.com/article/sen-sherrod-brown-files-ethics-complaint-against-ted-cruz-josh-hawley/35290144"
-    ampWebUrl: "https://www.wlwt.com/amp/article/sen-sherrod-brown-files-ethics-complaint-against-ted-cruz-josh-hawley/35290144"
-    cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/sen-sherrod-brown-files-ethics-complaint-against-ted-cruz-josh-hawley/35290144"
-    type: article
-    provider:
-      name: WLWT
-      domain: wlwt.com
-    quality: 76
-    images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap19253558406066.jpg?crop=1.00xw:0.846xh;0.00163xw,0.154xh&resize=1200:*"
-        width: 1024
-        height: 578
-        isCached: true
-  - title: "Democrats ask ethics panel to investigate Sens. Cruz, Hawley"
-    excerpt: "Seven Democratic senators asked the Senate Ethics Committee to investigate the actions of Republican Sens. Ted Cruz and Josh Hawley."
-    publishedDateTime: 2021-01-22T16:39:00Z
-    webUrl: "https://thegrio.com/2021/01/22/democrats-ethics-panel-cruz-hawley/"
-    ampWebUrl: "https://thegrio.com/2021/01/22/democrats-ethics-panel-cruz-hawley/amp/"
-    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/01/22/democrats-ethics-panel-cruz-hawley/amp/"
-    type: article
-    provider:
-      name: The Grio
-      domain: thegrio.com
-    quality: 61
-    images:
-      - url: "https://thegrio.com/wp-content/uploads/2020/04/ted-cruz-1024x576.png"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Democrats seek investigation of Cruz, Hawley"
     excerpt: "The Democratic senators said the question for the Senate to determine is whether Hawley and Cruz failed to put loyalty “to the highest moral principles and to country above loyalty to persons, party,"
     publishedDateTime: 2021-01-22T19:29:00Z

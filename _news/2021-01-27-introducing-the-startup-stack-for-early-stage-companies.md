@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Introducing the Startup Stack for Early-Stage Companies"
-excerpt: "Dialpad launches the Startup Stack, dedicated to providing early-stage companies with free and discounted products to help build their business."
-publishedDateTime: 2021-01-26T21:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210126005240/en/Introducing-the-Startup-Stack-for-Early-Stage-Companies"
-webUrl: "https://www.businesswire.com/news/home/20210126005240/en/Introducing-the-Startup-Stack-for-Early-Stage-Companies"
+excerpt: "Dialpad, Inc., the leading AI-powered cloud communications platform, today announced the launch of the Startup Stack, a program dedicated to providing early-stage companies with a toolkit of free and discounted products to help build their business."
+publishedDateTime: 2021-01-27T08:00:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-computing-and-information-technology-artificial-intelligence-7fa65ddce85a471ea48e05faffae0097"
+webUrl: "https://apnews.com/press-release/business-wire/technology-computing-and-information-technology-artificial-intelligence-7fa65ddce85a471ea48e05faffae0097"
 type: article
-quality: 2
-heat: 2
+quality: 22
+heat: 22
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
-secured: "+inohyzqjgNAsiauZVqjFYDgPmYTx9GgXlfj7+O8vE70K5OexUvwLXjv26BJbX0dLLYWBjnDOiBZ0az+2Qt7xdqfUQBvGFHcMrtB8uKo3k4JEgdBIeaUYMytMpA4+F159pnXVH1bjxc6wNH3cp8VebZKYFkDz7COdfW9V7fWLvxhbEUd7P4fRCYTR3U8n7PsX6ICzopuQZ18UBtlK1zQFZXCZ3X+b/eApvxBAS+ZZ0nAePQlTGat5frD361seNCiMSr6TYe+VGN9ZzMCuWu6SkTfgcDZ0CtR136/Ir85Glzwk5id9mcAoHS9WjNTBBN8Rt9p7CD6bVmPVNQ9LohKZ0Nx2PXFs4T3FF2S7glWcTw=;GvoMCy7dmTbcd081K9BRqg=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "BU8Jlz+NTHARLGmwa+Nj30EgSOPWL+5TNc1GYWexs464pP/YwtYtmJbx7ipnhpWvaQVAb8HfCyRJWu8l8smnp+K4YaJV5b5OmgAgFFHtUEXApiRAINhZmvwukqdAJe6ujFb9xVlBN4znqEjub9QeBjeZYFqTSuDuuMYkP86zrdWcTYZ+lCcvzOwwEgI/kd2OKwZZq8t/Wk7deq8m/V6QnW7Vt4IY0XA3Kfz7tBKk0fHxhuf9kd+J/vd/ih8LYsApppdkZnmR8xLhnzz/jtqrzQ2VuDnAto1ni3L08qZTCj1J4aXRYl65UQSCrcsoRQF/JKssqZvr7gOXljiP8hqqtBT5mIfUFyjuM7VPSzs79gs=;LSk3K5tfkvg9DePFExFMIA=="
 ---
 

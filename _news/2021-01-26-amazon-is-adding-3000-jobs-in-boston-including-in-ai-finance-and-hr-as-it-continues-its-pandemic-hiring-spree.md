@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/amazon-jobs-hiring-boston-hr-finance
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon-jobs-hiring-boston-hr-finance-ai-vacancies-jeff-bezos-2021-1?amp"
 type: article
 quality: 82
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/Amazon-expands-Boston-Tech-Hub-and-add-Technology-Jobs.jpg"
         width: 500
         height: 400
+        isCached: true
+  - title: "Amazon Expands Boston Tech Hub With Plans to Create 3,000 New Jobs"
+    excerpt: "Amazon (NASDAQ: AMZN) today announced plans to expand its Boston Tech Hub and create more than 3,000 new corporate and technology jobs over the next several years. The new roles will support teams across the company,"
+    publishedDateTime: 2021-01-27T07:58:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/science-business-technology-amazoncom-inc-personnel-98d0547ffaf7486fa923c0f0086ee7a1"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "03B4xybpBLKZ/z7mt6qIAaW8r0vW35u7RzII8xiiDl6HDQ6MI7riAENh4SApBK5gPsO5thrTdR1EvDDSDElZ2R40+jNaxctErSzbalFVbC3DktH4tLS0dIePhbPhq6+OZmcgGx13CTxHGGRgNxf3/gFvI+LaLVG98lpG70SZjWIT43srwL3AKb2ChznbmIPfYeA8IzADX2HRW8TG9ECDJti5LUwwGohfybIMqp5X7AQdB6dHcKdYbnucBh+//7wIAUEgFwsFeZFQVN47BGWSiCDonRhv7qHGfYVZGdRd7Is77n8bPgRWMcBTWNVwdc5nBgxY5aTE8P6VL9QbT6XDoImc9Fp7AXQo2d9l+0FDjCE=;9pqAUwWLuecjlCmOGDkUrQ=="

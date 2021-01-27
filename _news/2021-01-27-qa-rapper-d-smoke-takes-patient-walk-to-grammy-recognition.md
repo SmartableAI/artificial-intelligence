@@ -1,28 +1,30 @@
 ---
 category: news
-title: "Q&A: Rapper D Smoke Takes Patient Walk to Grammy Recognition"
-excerpt: "D Smoke was a high school teacher for a decade in Southern California, but he never gave up on his dream of breaking through as a hip-hop artist."
-publishedDateTime: 2021-01-27T00:45:00Z
-originalUrl: "https://www.usnews.com/news/us/articles/2021-01-26/q-a-rapper-d-smoke-takes-patient-walk-to-grammy-recognition"
-webUrl: "https://www.usnews.com/news/us/articles/2021-01-26/q-a-rapper-d-smoke-takes-patient-walk-to-grammy-recognition"
-ampWebUrl: "https://www.usnews.com/news/us/articles/2021-01-26/q-a-rapper-d-smoke-takes-patient-walk-to-grammy-recognition?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-01-26/q-a-rapper-d-smoke-takes-patient-walk-to-grammy-recognition?context=amp"
+title: "Q&A: Rapper D Smoke takes patient walk to Grammy recognition"
+excerpt: "D Smoke maintained that mindset as a motivator before he made a splash on Netflix’s music reality TV series “Rhythm + Flow” in 2019. He won the competition, impressing judges Cardi B, T.I. and Chance the Rapper with his ability as a multi-instrumentalist and bilingual rapper who could easily switch from English to Spanish in his rhymes."
+publishedDateTime: 2021-01-27T05:00:00Z
+originalUrl: "https://www.seattlepi.com/entertainment/article/Q-A-Rapper-D-Smoke-takes-patient-walk-to-Grammy-15898622.php"
+webUrl: "https://www.seattlepi.com/entertainment/article/Q-A-Rapper-D-Smoke-takes-patient-walk-to-Grammy-15898622.php"
+ampWebUrl: "https://www.seattlepi.com/news/amp/Q-A-Rapper-D-Smoke-takes-patient-walk-to-Grammy-15898622.php"
+cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Q-A-Rapper-D-Smoke-takes-patient-walk-to-Grammy-15898622.php"
 type: article
-quality: 54
-heat: 64
+quality: 44
+heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: seattlepi.com
+  domain: seattlepi.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
+    isCached: true
 
 related:
   - title: "Q&A: Rapper D Smoke takes patient walk to Grammy recognition"
@@ -42,6 +44,6 @@ related:
         height: 558
         isCached: true
 
-secured: "DMDjqt557GOpJOjVw4Go6dfqObSJaiJ4kowcW/zilVJxcHzs1wFqR8sT026SZyqv/qlYsdp17hoaU4Qb/Wh1SqtQSvmI90Mf23GXcKyk07/fbUmcgKt10wn8zWX6wyp8ojpE+vjICIQKusuqZsrpkhMWAFISH5AgfCQawWdiXArxKwQuzu3qd02EnTa/0juDkBJ0fSS7hPaFRAX4e/Y3seWwztHSlO5xUFi6wLVbGTU9ooa/WrJlNs0EnI5BqU9VWGURb9kfTxTQsk+6sdahtwFsvjb8BtLmPsUkWdmNTaEtoSfop4p+7pw4RYuji8dRK822zDtHbzLiI37vLlE02cwBQqsRnbN94GA6Qfqzn1Q=;M16vBdm1i0PoBgNBiE/wRg=="
+secured: "JazNULXCDcvP/2xEdnKSbA0IB6H7EbGT9RA+Othy6esTnE3fzcg1awSrx0FlYY8NFJF8/ddhJQqMbMUO5KYs9Sfw43AO4n5rbWGJdT5osKfthp+fuXrnSFeiOM7PCy/IIGf9ZkpdWw9YyzHLIpWLwO//4JtdeyyzVPdepbJ5aiVPPQNIjiOcW7jkLs87iGejUhqxBYEEwvCBrKinbJD5pU0xeqGM4IpCi+LUAYRxGQ+DKcNR5KjBETRS+mcjzSPfmHa28HRU0hEJUj7eKgM9VsyjUOiVi9d6pEciDkCr8VKTVCqvg3YnMa8uEXcpNK0WR556PPP6VH3L/0sgbn418EXFvi3B0PXLpIwLoI/mCXY=;aayDIMLsB/cPLmpMKc6+wQ=="
 ---
 

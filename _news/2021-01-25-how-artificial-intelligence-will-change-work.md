@@ -49,20 +49,6 @@ related:
         width: 623
         height: 432
         isCached: true
-  - title: "The Promise of Artificial Intelligence in Precision Medication Dosing"
-    excerpt: "The most compelling approach to solving this important problem to date is with the application of artificial intelligence to enable precision dosing. Precision dosing is an umbrella term that refers to the process of transforming a “one-size-fits-all ..."
-    publishedDateTime: 2021-01-22T16:11:00Z
-    webUrl: "https://www.analyticsinsight.net/the-promise-of-artificial-intelligence-in-precision-medication-dosing/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/Precision-Dosing.jpg"
-        width: 960
-        height: 540
-        isCached: true
   - title: "Correction to Google Artificial Intelligence Article"
     excerpt: "Chief Executive Sundar Pichai said last year, adding, \"While AI promises enormous benefits for Europe and the world, there are real concerns about the potential negative consequences.\" \"Artificial Intelligence Will Define Google's Future."
     publishedDateTime: 2021-01-26T20:02:00Z

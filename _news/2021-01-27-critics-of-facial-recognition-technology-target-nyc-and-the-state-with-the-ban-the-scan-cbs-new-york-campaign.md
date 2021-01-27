@@ -21,20 +21,17 @@ topics:
   - AI
 
 related:
-  - title: "Expand the School Ban, End the Use of Facial Recognition in New York"
-    excerpt: "An NYPD command center (photo: Michael Appleton/Mayor's Office) Schools are safe, but the rest of New York is at risk. This is the reality of facial recognition in the Empire State, where facial recognition is now illegal in schools,"
-    publishedDateTime: 2021-01-26T03:24:00Z
-    webUrl: "https://www.gothamgazette.com/opinion/10102-expand-school-ban-end-use-of-facial-recognition-technology-new-york"
+  - title: "'Ban The Scan' Campaign Targets Facial Recognition Technology"
+    excerpt: "A global campaign launched was launched Tuesday to ban facial recognition technology. Critics say it creates privacy issues and can contribute to racial profiling. CBS2's Natalie Duddridge reports."
+    publishedDateTime: 2021-01-26T17:45:00Z
+    webUrl: "https://newyork.cbslocal.com/video/5233334-ban-the-scan-campaign-targets-facial-recognition-technology/"
+    ampWebUrl: "https://newyork.cbslocal.com/video/5233334-ban-the-scan-campaign-targets-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://newyork-cbslocal-com.cdn.ampproject.org/c/s/newyork.cbslocal.com/video/5233334-ban-the-scan-campaign-targets-facial-recognition-technology/amp/"
     type: article
     provider:
-      name: Gotham Gazette
-      domain: gothamgazette.com
-    quality: 39
-    images:
-      - url: "https://www.gothamgazette.com/images/49357872161_d665ed209d_c.jpg"
-        width: 799
-        height: 533
-        isCached: true
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 54
 
 secured: "0OWX3f8q+tvDDqBpzbgqgwcqOY277rDCy0oVBW+V0V12qOXc+YU0vO4pGMgspkym6XRF2ixGrhZbpLXmcb8HiJfrPP7f63uUOj27QemWRPYW9vcP09AMaNaNwbQQPbaE5zIOcb/Q8V80Y+01QH7h7SS4nTzGJyy3SkxcN0bzV0fmNFMCISsimGiersDobEj/Whie3RBaZpopi9QsaFkHPE7/vyJvf3nxQJClycWS3ip37YuLCWrdPrFGD3qjzjEkTgIWKWVZjOlKkfvKPv2RUkgWyuMW9XYV7OJS4DmELa+LPm3yp/syrvRmNNMS/RMXDhsCvgQapRN/1cZpZS0XPc2ZdS4lt93PvfdxQPqRkLI=;B82IDBzhVUDK5bul7yvlcQ=="
 ---

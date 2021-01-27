@@ -38,22 +38,6 @@ related:
         isCached: true
   - title: "Why Microsoft’s self-driving car strategy will work"
     excerpt: "Self-driving car startup Cruise has just gotten a $2 billion infusion from Microsoft, which actually stands to gain more from the deal."
-    publishedDateTime: 2021-01-22T15:06:00Z
-    webUrl: "https://venturebeat.com/2021/01/22/why-microsofts-self-driving-car-strategy-will-work/"
-    ampWebUrl: "https://venturebeat.com/2021/01/22/why-microsofts-self-driving-car-strategy-will-work/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/22/why-microsofts-self-driving-car-strategy-will-work/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/01/microsoft-self-driving-car-cropped.jpg?w=1200&strip=all"
-        width: 1200
-        height: 601
-        isCached: true
-  - title: "Why Microsoft’s self-driving car strategy will work"
-    excerpt: "Self-driving car startup Cruise has just gotten a $2 billion infusion from Microsoft, which actually stands to gain more from the deal."
     publishedDateTime: 2021-01-22T23:03:00Z
     webUrl: "https://venturebeat.com/2021/01/22/why-microsofts-self-driving-car-strategy-will-work/?via=indexdotco"
     ampWebUrl: "https://venturebeat.com/2021/01/22/why-microsofts-self-driving-car-strategy-will-work/amp/"
@@ -84,22 +68,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Microsoft To Do's task suggestion feature uses AI to improve productivity"
-    excerpt: "Microsoft To Do for the web has a new Tasks that seem important feature that uses AI to suggests tasks you should take care of."
-    publishedDateTime: 2021-01-22T15:22:00Z
-    webUrl: "https://www.windowscentral.com/ai-suggestions-come-microsoft-do-web"
-    ampWebUrl: "https://www.windowscentral.com/ai-suggestions-come-microsoft-do-web?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/ai-suggestions-come-microsoft-do-web?amp"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 73
-    images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/09/microsoft-to-do-lede-surfacego.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "SAP and Microsoft Expand Partnership and Integrate Microsoft Teams Across Solutions"
     excerpt: "Microsoft Teams with SAP's intelligent suite of solutions. The companies also formalized an extensive expansion of an existing strategic partnership to accelerate the adoption of SAP S/4HANA® on Microsoft Azure."
     publishedDateTime: 2021-01-23T02:51:00Z
@@ -113,22 +81,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Microsoft’s latest HUGE investment: Self-driving car technologies"
-    excerpt: "(TECH NEWS) Microsoft invests in self-driving car technology by joining other investors in a combined equity investment of $2 billion."
-    publishedDateTime: 2021-01-22T16:42:00Z
-    webUrl: "https://theamericangenius.com/tech-news/microsoft-investment-self-driving-car-technologies/"
-    ampWebUrl: "https://theamericangenius.com/tech-news/microsoft-investment-self-driving-car-technologies/amp/"
-    cdnAmpWebUrl: "https://theamericangenius-com.cdn.ampproject.org/c/s/theamericangenius.com/tech-news/microsoft-investment-self-driving-car-technologies/amp/"
-    type: article
-    provider:
-      name: The American Genius
-      domain: theamericangenius.com
-    quality: 61
-    images:
-      - url: "https://149369349.v2.pressablecdn.com/wp-content/uploads/2021/01/CarCityHighway.jpg"
-        width: 1000
-        height: 500
         isCached: true
   - title: "Microsoft Previews Azure IoT Edge for Linux on Windows"
     excerpt: "Microsoft announced a preview of Azure IoT Edge for Linux on Windows, which lets organizations tap Linux virtual machine processes that also work with Windows- and Azure-based processes and services."

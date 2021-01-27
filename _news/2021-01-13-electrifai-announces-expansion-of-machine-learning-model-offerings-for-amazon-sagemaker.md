@@ -2,26 +2,20 @@
 category: news
 title: "ElectrifAi Announces Expansion of Machine Learning Model Offerings for Amazon SageMaker"
 excerpt: "Amazon SageMaker is a ML service from Amazon Web Services (AWS) that helps data scientists and developers to prepare, build, train and deploy high-quality ML models quickly by bringing together a ..."
-publishedDateTime: 2021-01-13T08:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker-301205757.html"
-webUrl: "https://www.prnewswire.com/news-releases/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker-301205757.html"
+publishedDateTime: 2021-01-13T13:28:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20210113la44824/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20210113la44824/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - AWS AI
   - AI
   - Machine Learning
 
-images:
-  - url: "https://mma.prnewswire.com/media/1321884/ElectrifAi_Logo.jpg?p=facebook"
-    width: 2700
-    height: 1414
-    isCached: true
-
-secured: "2+craiF3chVRrcoGqf9uP6e2BABMgO40zYzkkgINXvan4khBhN+zx53MDKPwwgqsVvyZtbVz8RUSfUfNyrKv0TMDBftCLp4aNSHhkfDOnvxjL4UqYrh/RvN2gOuhrDSd+QQIyZkpLkHy1ZQ923Pz3PJBklRFqpigzry51Ef+4G87ifUp8feFFQn0Gk26laHI5VeLGlpCpAjU6eGzbC1GGbAbbbpRPE9qn+M3+qY1A+zGHaHn6L2R8/ESNCYvbpSs1gVbN1FhGoMm7haRuzEYOQFU4nNI3/FZ9hOebzbQYOfJabBrJNPXkk2axYyK+zpsOH8d5RbLUEr/+/lJwhS+uqNsOIYM3LzYU3SVc6HwDoQ=;ceXMJ4+Lf/oakPwnlx7A3g=="
+secured: "xCSf1HEsP0e6g/nanZq72JrSZy8OvXK9LHLee80UgeM6vxkOfbFGtNmyWN066pO3VmK6U56yTM9vPc5eYK4BGbXXo9klGHGScvYIrI9ZmXNo5UfN9EGcalG9Rt+9KX6fWi/aGC4QspqzZCZd99l4Xynv1OF8+aTNTWKpd34ociITgO2zIQMITcSuWK34DD8GmrLQSo7TkQLvl4BItrsPamVyOWQtMiVd67U44FE3YwR94B2WmyUA0vPheDlc96lC5oEGHeSwLkDB3wvRyA03DibxS3g8Cdhy9RgvVqZuaF2C6QJUjoO4kJQ/YTyO6OZQ5JTJnOfB2lM7VwDHQBy2AX0TToh8ohFbMCCPKQ/OwV4=;10mR9w4hq6REhWMl5fAw9A=="
 ---
 

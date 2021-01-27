@@ -2,6 +2,111 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-18-forecast-2021-artificial-intelligence-during-covid-and-beyond.md",
+      "title": "Forecast 2021: Artificial Intelligence during COVID and beyond",
+      "excerpt": "Artificial intelligence has been a sector to watch during the pandemic. The enterprise has been seeking new routes to efficiency, organizations with an abundance of furloughed or fired workers have bandwidth crunches,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/forecast-for-2021-artificial-intelligence-during-covid-and-beyond/",
+      "originalUrl": "https://www.zdnet.com/article/forecast-for-2021-artificial-intelligence-during-covid-and-beyond/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/12/18/a27716e3-910e-475e-8d53-d164555a9b5f/art-intellig.jpg",
+          "width": 960,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/forecast-for-2021-artificial-intelligence-during-covid-and-beyond/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/forecast-for-2021-artificial-intelligence-during-covid-and-beyond/",
+      "publishedDateTime": "2020-12-17T20:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-12-18-google-ai-ethics-team-demands-changes-after-dismissal-of-renowned-researcher.md",
+      "title": "Google AI ethics team demands changes after dismissal of renowned researcher",
+      "excerpt": "It comes after executives admitted to losing the trust of employees amid the departure of renowned researcher Timnit Gebru.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2020/12/17/googles-ai-ethics-team-makes-demands-of-executives-to-rebuild-trust.html",
+      "originalUrl": "https://www.cnbc.com/2020/12/17/googles-ai-ethics-team-makes-demands-of-executives-to-rebuild-trust.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105750686-1550688923203gettyimages-1086152010.jpg?v=1550688994",
+          "width": 3500,
+          "height": 2333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/12/17/googles-ai-ethics-team-makes-demands-of-executives-to-rebuild-trust.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/17/googles-ai-ethics-team-makes-demands-of-executives-to-rebuild-trust.html",
+      "publishedDateTime": "2020-12-17T08:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-17-retired-uw-computer-science-professor-embroiled-in-twitter-spat-over-ai-ethics-and-cancel-culture.md",
       "title": "Retired UW computer science professor embroiled in Twitter spat over AI ethics and ‘cancel culture’",
       "excerpt": "(UW Photo) The University of Washington computer science department denounced comments made online by a retired professor over a debate about AI ethics, Timnit Gebru’s controversial exit at Google, so-called “cancel culture,” and more. A heated back ...",
@@ -1351,110 +1456,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-a-prominent-ai-ethics-researcher-says-google-fired-her.md",
-      "title": "A Prominent AI Ethics Researcher Says Google Fired Her",
-      "excerpt": "Timnit Gebru is a leader among those examining the societal impacts of the technology. She had also criticized the company's diversity efforts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/prominent-ai-ethics-researcher-says-google-fired-her/",
-      "originalUrl": "https://www.wired.com/story/prominent-ai-ethics-researcher-says-google-fired-her/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 454,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5fc950d9319157d9f1bd0ceb/master/pass/Business-Timnit%20Gebru-1028811892.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/prominent-ai-ethics-researcher-says-google-fired-her/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/prominent-ai-ethics-researcher-says-google-fired-her/amp",
-      "publishedDateTime": "2020-12-03T18:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-daily-crunch-google-fires-co-lead-of-its-ethical-ai-team.md",
-      "title": "Daily Crunch: Google fires co-lead of its Ethical AI team",
-      "excerpt": "Google fires a leading researcher, Stripe launches a new banking service and WarnerMedia shakes up the theatrical business model. This is your Daily Crunch for. The big story: Google fires co-lead of its Ethical AI team Timnit Gebru,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/03/google-fires-ethical-ai-co-lead/",
-      "originalUrl": "https://techcrunch.com/2020/12/03/google-fires-ethical-ai-co-lead/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1028811898.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/12/03/google-fires-ethical-ai-co-lead/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/03/google-fires-ethical-ai-co-lead/amp/",
-      "publishedDateTime": "2020-12-03T15:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

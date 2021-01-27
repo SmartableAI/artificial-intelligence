@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/resource-library/whitepapers
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/dell-precision-workstations-for-ai/"
 type: article
 quality: 67
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -37,20 +37,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/07/25183012/Chincotech-facial-recognition.png"
         width: 623
         height: 432
-        isCached: true
-  - title: "The Promise of Artificial Intelligence in Precision Medication Dosing"
-    excerpt: "The most compelling approach to solving this important problem to date is with the application of artificial intelligence to enable precision dosing. Precision dosing is an umbrella term that refers to the process of transforming a “one-size-fits-all ..."
-    publishedDateTime: 2021-01-22T16:11:00Z
-    webUrl: "https://www.analyticsinsight.net/the-promise-of-artificial-intelligence-in-precision-medication-dosing/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/Precision-Dosing.jpg"
-        width: 960
-        height: 540
         isCached: true
   - title: "How artificial intelligence will change work"
     excerpt: "MIT Professor Thomas Malone, Professor Daniela Rus, and Robert Laubacher collaborated on \"Artificial Intelligence and the Future of Work,\" a brief that provides"

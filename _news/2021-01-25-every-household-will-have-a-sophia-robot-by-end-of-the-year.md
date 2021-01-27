@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "40% of supply chains in multinational corporations could not cope with COVID-19 pandemic"
-    excerpt: "Organizations need real-time data insights, agility, and digitalization to mitigate risk and be successful, a new report finds."
-    publishedDateTime: 2021-01-22T16:42:00Z
-    webUrl: "https://www.techrepublic.com/article/40-of-supply-chains-in-multinational-corporations-could-not-cope-with-covid-19-pandemic/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/40-of-supply-chains-in-multinational-corporations-could-not-cope-with-covid-19-pandemic/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/40-of-supply-chains-in-multinational-corporations-could-not-cope-with-covid-19-pandemic/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 78
-    images:
-      - url: "https://tr1.cbsistatic.com/hub/i/r/2020/05/15/c7b2f24c-5bd6-4c2e-8da4-e5a71849d9c0/resize/1200x/b7ddd4e0c59a0375d3225b6af03e58de/istock-1213521693.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Sophia the robot could arrive in airports and shops across UK"
     excerpt: "The company behind a life-size robot that uses artificial intelligence to hold conversations with humans is set to begin a mass rollout of the devices later this year as the pandemic increases demand for robots."
     publishedDateTime: 2021-01-25T13:40:00Z
