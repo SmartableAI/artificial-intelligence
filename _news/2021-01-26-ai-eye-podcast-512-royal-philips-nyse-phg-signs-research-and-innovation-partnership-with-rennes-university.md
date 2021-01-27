@@ -27,7 +27,7 @@ related:
   - title: "Philips and Rennes University Hospital sign 5-year technology, research and innovation ..."
     excerpt: "Hospital will have access to Philips’ latest technologies and informatics solutions to enhance the diagnosis, treatment, monitoring and management of patients Multi-year strategic partnership will accelerate clinical research focused on image-guided minimally-invasive therapy,"
     publishedDateTime: 2021-01-25T08:18:00Z
-    webUrl: "https://apnews.com/press-release/globenewswire-mobile/business-technology-artificial-intelligence-diagnostic-imaging-western-europe-62a1000e07e44799667613b7fdf65163"
+    webUrl: "https://apnews.com/press-release/globe-newswire/business-technology-artificial-intelligence-diagnostic-imaging-western-europe-62a1000e07e44799667613b7fdf65163"
     type: article
     provider:
       name: Associated Press

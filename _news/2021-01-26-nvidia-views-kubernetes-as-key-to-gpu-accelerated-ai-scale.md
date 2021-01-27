@@ -7,7 +7,7 @@ originalUrl: "https://ctovision.com/nvidia-views-kubernetes-as-key-to-gpu-accele
 webUrl: "https://ctovision.com/nvidia-views-kubernetes-as-key-to-gpu-accelerated-ai-scale/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 632
     height: 422
     isCached: true
-
-related:
-  - title: "Altron partners GPU designer NVIDIA"
-    excerpt: "Altron Systems Integration, a subsidiary of JSE-listed Altron, has joined the NVIDIA Partner Network (NPN), becoming the first compute DGX partner and solutions provider in SA. NVIDIA DGX is a line of NVIDIA-produced servers and workstations which specialise in using general-purpose computing on graphics processing units (GPU) to accelerate deep learning applications."
-    publishedDateTime: 2021-01-22T08:50:00Z
-    webUrl: "https://www.itweb.co.za/content/G98YdMLYgKrqX2PD"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 39
-    images:
-      - url: "https://lh3.googleusercontent.com/thTnWvnhobgR11ST-FlgUfA4lKVXQevOL1btkxlfTmplnb7QAXfWzZ8NSlyJBxzjisR9pNBifWk1Ib-fz1uCFiE=w816-h428"
-        width: 761
-        height: 428
-        isCached: true
 
 secured: "JrqJhTc2W9etYPQ4mNw+KcO5ct0JPPFHbmeXfKcPjvzTL3ohfz5Esu4crFmF/nJnDtIalOm6Aho+GfrfAOM5fG5+wFv6OB61iFMM1LE6bZdQrD9uamwOiC//m8F4mhuuXLrOGHTwMDzgakeHJD22AugFGuUBbswixLGzEl6IvpCW4TBr6NUmT4u7mYGyNEOeUySlW4MH/3PRC2ccHlFs7TFhMz44kyLFABliaPi0HbGZs96SG6f+JWgJsEjkHUb+X2T7aBF2V6IrjiZ4OlAqE1yGDUoQmSyKBziCj9LmAAH/wZsg2nFqk6CmXHbTAPhaP6C/a1xx8jvRNNm9iRwR/WLd/Y8f85v0tgUdwXvvezk=;y2JETiCZACvJUFblgBibCg=="
 ---

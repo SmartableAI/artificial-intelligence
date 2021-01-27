@@ -2,6 +2,50 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-12-02-ibm-named-a-leader-in-the-2020-idc-marketscape-for-worldwide-advanced-machine-learning-software-platform.md",
+      "title": "IBM Named a Leader in the 2020 IDC MarketScape For Worldwide Advanced Machine Learning Software Platform",
+      "excerpt": "PRNewswire/ -- IBM (NYSE: IBM ) has been named to the Leaders Category in the latest IDC MarketScape: Worldwide Advanced Machine Learning Software Platforms 2020 Vendor Assessment (October 2020, IDC # US45358820).",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/technology-business-corporate-news-products-and-services-lung-disease-23cc892460107a1d1430227e43547537",
+      "originalUrl": "https://apnews.com/article/technology-business-corporate-news-products-and-services-lung-disease-23cc892460107a1d1430227e43547537",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-02T06:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-unveiled-at-aws-reinvent-the-new-machine-learning-powered-amazon-devops-guru.md",
       "title": "Unveiled at AWS re:Invent, the new machine learning-powered Amazon DevOps Guru",
       "excerpt": "Customized recommendations allow developers to detect application issues and improve functionality, according to Amazon Web Services.",
@@ -1387,49 +1431,6 @@
         "Machine Learning",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-11-26-how-archaeologists-are-using-deep-learning-to-dig-deeper.md",
-      "title": "How archaeologists are using deep learning to dig deeper",
-      "excerpt": "Finding the tomb of an ancient king full of golden artifacts, weapons and elaborate clothing seems like any archaeologist’s fantasy. But searching for them, Gino Caspari can tell you, is incredibly tedious.",
-      "sourceUrl": null,
-      "webUrl": "https://www.orlandosentinel.com/consumer-reviews/sns-nyt-artificial-intelligence-archaeology-cnn-20201128-53zqg5gabvdijhjqxhrfd676hy-story.html",
-      "originalUrl": "https://www.orlandosentinel.com/consumer-reviews/sns-nyt-artificial-intelligence-archaeology-cnn-20201128-53zqg5gabvdijhjqxhrfd676hy-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.orlandosentinel.com/resizer/bhCg9zNjtsG1gLvtT1ETHbbXlME=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/QLOKHBQPCZC4TN3HRYCELRUO5U.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.orlandosentinel.com/consumer-reviews/sns-nyt-artificial-intelligence-archaeology-cnn-20201128-53zqg5gabvdijhjqxhrfd676hy-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/consumer-reviews/sns-nyt-artificial-intelligence-archaeology-cnn-20201128-53zqg5gabvdijhjqxhrfd676hy-story.html?outputType=amp",
-      "publishedDateTime": "2020-11-26T03:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Orlando Sentinel",
-        "domain": "orlandosentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

@@ -103,8 +103,8 @@
       "title": "Python remains most popular programming language to learn",
       "excerpt": "Though Python may be tops, interest is also growing in other languages, including JavaScript, C, and C++, says O'Reilly.",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/article/python-remains-most-popular-programming-language-to-learn/",
-      "originalUrl": "https://www.techrepublic.com/index.php/article/python-remains-most-popular-programming-language-to-learn/",
+      "webUrl": "https://www.techrepublic.com/article/python-remains-most-popular-programming-language-to-learn/",
+      "originalUrl": "https://www.techrepublic.com/article/python-remains-most-popular-programming-language-to-learn/",
       "featuredContent": null,
       "highlight": null,
       "heat": 99,
@@ -121,8 +121,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/google-amp/article/python-remains-most-popular-programming-language-to-learn/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/python-remains-most-popular-programming-language-to-learn/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/python-remains-most-popular-programming-language-to-learn/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/python-remains-most-popular-programming-language-to-learn/",
       "publishedDateTime": "2021-01-25T07:56:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -982,6 +982,49 @@
       ]
     },
     {
+      "path": "_news/2021-01-13-chartwise-medical-systems-selects-sytrue-natural-language-processing-to-improve-clinical-documentation-review.md",
+      "title": "ChartWise Medical Systems Selects SyTrue Natural Language Processing to Improve Clinical Documentation Review",
+      "excerpt": "ChartWise integrates healthcare’s most-advanced Natural Language Processing Operating System, NLP OS™ into its NotePath™ AI-based chart review system, an innovative documentation improvement ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wboc.com/story/43162812/chartwise-medical-systems-selects-sytrue-natural-language-processing-to-improve-clinical-documentation-review",
+      "originalUrl": "https://www.wboc.com/story/43162812/chartwise-medical-systems-selects-sytrue-natural-language-processing-to-improve-clinical-documentation-review",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://EINPRESSWIRE.images.worldnow.com/images/20243357_G.png?lastEditedDate=1610466746000",
+          "width": 900,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-12T15:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WBOC",
+        "domain": "wboc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-13-google-trained-a-trillion-parameter-ai-language-model.md",
       "title": "Google trained a trillion-parameter AI language model",
       "excerpt": "They’re the part of the model that’s learned from historical training data. Generally speaking, in the language domain, the correlation between the number of parameters and sophistication has held up remarkably well.",
@@ -1398,50 +1441,6 @@
         "Machine Learning",
         "Natural Language Processing",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-explained-how-does-facebooks-ai-tool-for-suicide-prevention-work.md",
-      "title": "Explained | How does Facebook’s AI tool for suicide prevention work?",
-      "excerpt": "Along with its community operations team, the social media giant has an AI tool that picks up phrases or words that signal distress or trouble in posts as well as comments to alert authorities or get help to the person.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/business/explained-how-does-facebooks-ai-tool-for-suicide-prevention-work-6316061.html",
-      "originalUrl": "https://www.moneycontrol.com/news/business/explained-how-does-facebooks-ai-tool-for-suicide-prevention-work-6316061.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2020/11/Facebook_nov30-770x433.jpg?impolicy=website&width=770&height=431",
-          "width": 770,
-          "height": 431,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/business/explained-how-does-facebooks-ai-tool-for-suicide-prevention-work-6316061.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/explained-how-does-facebooks-ai-tool-for-suicide-prevention-work-6316061.html/amp",
-      "publishedDateTime": "2021-01-07T01:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

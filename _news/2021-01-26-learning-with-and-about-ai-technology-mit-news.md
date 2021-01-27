@@ -51,18 +51,18 @@ related:
         height: 480
         isCached: true
   - title: "Leading HR Technology Company launches AI Ethics Advisory Board"
-    excerpt: "Arena Analytics launched its external AI Ethics Advisory Board - the first human resource technology firm to do so - on January 12,"
-    publishedDateTime: 2021-01-26T19:02:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/leading-hr-technology-company-launches-ai-ethics-advisory-board-301215510.html"
+    excerpt: "Arena Analytics launched its external AI Ethics Advisory Board - the first human resource technology firm to do so - on January 12, 2021. Arena’s independent Advisory Board brings together human resources leaders and experts from academia,"
+    publishedDateTime: 2021-01-26T19:47:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-technology-issues-media-newspapers-8f759ca11098714fd8442fc812276d4c/gallery/47775f81ae862b27b151d4f9db2167f5"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Associated Press
+      domain: apnews.com
     quality: 54
     images:
-      - url: "https://mma.prnewswire.com/media/1427165/arena_ethics_advisors.jpg?p=facebook"
-        width: 1920
-        height: 1005
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "Dj6zvfWzNlv9IO7hYg4hpkp5iBiO4Cq+jWyg/PtD9FYpue0Rb4jPTWXEezennuFJ41BW9Zgyf8towQfN8rdsB+dNMxY8NZDFk8F4SHPU/Ua96NYvn1dmRWB70tjH0GrEHIi6+LRgS9D2pqYHpZ3gdxo/xZkERGP+Vw3+SGQhXDkWJhCUxw6Io4+/VzZOrhqA2o9bWkz/pSwpcab869aV7uCRAd5AIn7bn9mroaMp4swOpvOZ2RDWJH0xj1uJolTCzHRKFrk8NOszrons9D01QHlNgTprcQZdHMg5t6oc9tfljUWuV5N8C9Y96ZCG8wMpi2zqTaKGJ7ucvFr6+EqqLUJh/jFZD70ajkl07UcPYYNNxI0Sz9jpohMia0stxEviQ5RofD+TdPA/xDIhCHWRhDqazQIWXeoxaG0WKp69Xq7/LmID38JSiI5Bb9/3UfL6P+XNoa5hQjZ1oZXTUlXS/uvJ3pxOlG4RlGIVYwpbTiiRlbHd6oJ/LEUSrfsBHzUL8Gzgf2qwxRI2uVlHpiiRWQ==;mEDlOiVX9hissDGU6zWKvA=="

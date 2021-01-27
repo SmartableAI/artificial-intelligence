@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologynetworks.com/neuroscience/news/amp/how-facial-
 cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/neuroscience/news/amp/how-facial-recognition-algorithms-can-cut-out-bias-344899"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -78,6 +78,17 @@ related:
     provider:
       name: Omaha.com
       domain: omaha.com
+    quality: 39
+  - title: "Capitol riot boosts facial recognition app"
+    excerpt: "A facial recognition app saw a large increase in use the day after rioters stormed the U.S. Capitol building in Washington, D.C. Source by: Stringr"
+    publishedDateTime: 2021-01-26T23:11:00Z
+    webUrl: "https://theeagle.com/news/national/capitol-riot-boosts-facial-recognition-app/video_13e00cf2-ba46-5b5b-9d05-a0a11246bcc6.html"
+    ampWebUrl: "https://theeagle.com/news/national/capitol-riot-boosts-facial-recognition-app/video_13e00cf2-ba46-5b5b-9d05-a0a11246bcc6.amp.html"
+    cdnAmpWebUrl: "https://theeagle-com.cdn.ampproject.org/c/s/theeagle.com/news/national/capitol-riot-boosts-facial-recognition-app/video_13e00cf2-ba46-5b5b-9d05-a0a11246bcc6.amp.html"
+    type: article
+    provider:
+      name: The Eagle
+      domain: theeagle.com
     quality: 39
 
 secured: "Ko8++6Y6o42gifbFZLrr9DSh37MuGZu7oqAVOLJ1X8r5jNRhj7+IOOAskSUwDQDD3NuBzIo/zSqNW7jxjQzIIS51/IunNPeezhOydW1KSa7EdkNfvzIMfcxMM3sMqiE33OvaLsMpOXfXMMUYmzziDTB2Fk0yy3rRAR1CdpOf6OZSaJRUCetjqbELRnA3iZJYyvyHz6LiKuwqvkyjOYa9oBQp/tvt94rdVnyD1v2ZafZ2hAaBbLwtKso2hh2EMNiXbzhKHcnojAl6kEn6T0PDpiEKwos7GJXeagtdOTeaRbdbH6z6ISwr8+wOQo2/LsX1bPRQzB0pD5TZuLBGL5AHl2a6MEdKUPltWX4SVIyVs1Q=;CglDaiiyH5JGgH8iF+0ttg=="

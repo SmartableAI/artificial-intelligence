@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/sap/2021/01/26/to-spark-joy-with-artifi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2021/01/26/to-spark-joy-with-artificial-intelligence-let-go-of-these-misconceptions/amp/"
 type: article
 quality: 81
-heat: 81
+heat: 82
 published: true
 
 provider:

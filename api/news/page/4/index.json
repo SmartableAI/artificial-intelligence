@@ -2,58 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2021-01-23-artificial-intelligence-ai-in-marketing-market-size-share-analysis-report-forecast-to-2025.md",
-      "title": "Artificial Intelligence (AI) in Marketing Market, Size, Share, Analysis Report & Forecast to 2025",
-      "excerpt": "Jan (Heraldkeepers) -- Artificial Intelligence (AI) in marketing market is growing rapidly owing to high demand for lead generation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-marketing-market-size-share-analysis-report-forecast-to-2025-2021-01-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-marketing-market-size-share-analysis-report-forecast-to-2025-2021-01-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 266,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-23T00:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
       "path": "_news/2021-01-23-yellow-messenger-integrates-microsoft-azure-cognitive-services-on-its-platform.md",
       "title": "Yellow Messenger integrates Microsoft Azure cognitive services on its platform",
       "excerpt": "Microsoft is working with Yellow Messenger to use AI services to make automated voice customer services with virtual assistants feel more natural and human to human during interactions",
@@ -218,7 +166,7 @@
       "originalUrl": "https://www.scmp.com/news/asia/south-asia/article/3118937/privacy-fears-indian-city-readies-facial-recognition-spot",
       "featuredContent": null,
       "highlight": null,
-      "heat": 171,
+      "heat": 161,
       "tags": null,
       "images": [
         {
@@ -520,7 +468,7 @@
       "originalUrl": "https://www.wdio.com/news/ban-facial-recognition-minneapolis-/5986531/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -607,7 +555,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/22/ai-robots-and-play-2021-predictions-for-a-virtual-workplace/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1224,6 +1172,57 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-this-ai-can-tell-if-you-have-prostate-cancer-by-looking-at-your-pee.md",
+      "title": "This AI can tell if you have prostate cancer by looking at your pee",
+      "excerpt": "Researchers at the Korean Institute of Science and Technology (KIST) recently developed a machine for detecting prostate cancer that only needs 20 minutes of your time and a few ounces of your pee to achieve near 100-percent accuracy.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/01/21/this-ai-can-tell-if-you-have-prostate-cancer-by-looking-at-your-pee/",
+      "originalUrl": "https://thenextweb.com/neural/2021/01/21/this-ai-can-tell-if-you-have-prostate-cancer-by-looking-at-your-pee/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/urine-2-796x448.jpg",
+          "width": 796,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/01/21/this-ai-can-tell-if-you-have-prostate-cancer-by-looking-at-your-pee/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/21/this-ai-can-tell-if-you-have-prostate-cancer-by-looking-at-your-pee/amp/",
+      "publishedDateTime": "2021-01-21T10:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

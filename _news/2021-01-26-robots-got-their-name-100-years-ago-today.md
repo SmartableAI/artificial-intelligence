@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/robotics/rur-capek-play-word-robot-100-years/?a
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/rur-capek-play-word-robot-100-years/?amp=true"
 type: article
 quality: 89
-heat: 100
+heat: 99
 published: true
 
 provider:

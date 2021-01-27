@@ -920,49 +920,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-13-aws-expands-its-ai-powered-contact-center-intelligence-cci.md",
-      "title": "AWS Expands Its AI-Powered Contact Center Intelligence (CCI)",
-      "excerpt": "Amazon Web Services is enabling customers to leverage its artificial intelligence capabilities with their current contact center providers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.destinationcrm.com/Articles/CRM-News/CRM-Featured-Articles/AWS-Expands-Its-AI-Powered-Contact-Center-Intelligence-(CCI)-144700.aspx",
-      "originalUrl": "https://www.destinationcrm.com/Articles/CRM-News/CRM-Featured-Articles/AWS-Expands-Its-AI-Powered-Contact-Center-Intelligence-(CCI)-144700.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dzceab466r34n.cloudfront.net/Images/TopStoryImages/116673-Top-Story-AI-ORG.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-12T13:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Destination CRM",
-        "domain": "destinationcrm.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-13-talkdesk-broadens-machine-learning-capabilities-with-amazon-web-services-contact-center-intelligence.md",
       "title": "Talkdesk Broadens Machine Learning Capabilities With Amazon Web Services Contact Center Intelligence",
       "excerpt": "Talkdesk collaboration with AWS CCI boosts artificial intelligence integration and customer experience personalization.",
@@ -995,6 +952,49 @@
         "AWS AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-aws-expands-its-ai-powered-contact-center-intelligence-cci.md",
+      "title": "AWS Expands Its AI-Powered Contact Center Intelligence (CCI)",
+      "excerpt": "Amazon Web Services has expanded its artificial intelligence-powered Contact Center Intelligence (CCI) solutions, enabling customers to leverage AWS's artificial intelligence and machine learning capabilities with their current contact center providers to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=144700",
+      "originalUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=144700",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dzceab466r34n.cloudfront.net/Images/TopStoryImages/116673-Top-Story-AI-ORG.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-12T13:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Destination CRM",
+        "domain": "destinationcrm.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {

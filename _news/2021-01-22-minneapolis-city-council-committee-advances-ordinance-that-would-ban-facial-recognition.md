@@ -70,6 +70,17 @@ related:
       name: CBS Local
       domain: cbslocal.com
     quality: 54
+  - title: "Global Campaign Urges Ban On Facial Recognition Technology"
+    excerpt: "A global campaign to ban facial recognition technology launched Tuesday. Critics say the technology creates privacy issues and can contribute to racial profiling; CBS2's Natalie Duddridge reports."
+    publishedDateTime: 2021-01-26T23:13:00Z
+    webUrl: "https://newyork.cbslocal.com/video/5234510-global-campaign-urges-ban-on-facial-recognition-technology/"
+    ampWebUrl: "https://newyork.cbslocal.com/video/5234510-global-campaign-urges-ban-on-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://newyork-cbslocal-com.cdn.ampproject.org/c/s/newyork.cbslocal.com/video/5234510-global-campaign-urges-ban-on-facial-recognition-technology/amp/"
+    type: article
+    provider:
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 54
   - title: "Ban on Facial Recognition Technology Advances in Minneapolis"
     excerpt: "A proposal to ban the use of facial recognition technology by Minneapolis police and other city departments is advancing."
     publishedDateTime: 2021-01-22T16:02:00Z

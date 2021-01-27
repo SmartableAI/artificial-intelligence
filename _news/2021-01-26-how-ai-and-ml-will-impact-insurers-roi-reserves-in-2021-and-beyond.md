@@ -9,7 +9,7 @@ ampWebUrl: "https://www.propertycasualty360.com/2021/01/26/how-ai-and-ml-will-im
 cdnAmpWebUrl: "https://www-propertycasualty360-com.cdn.ampproject.org/c/s/www.propertycasualty360.com/2021/01/26/how-ai-and-ml-will-impact-insurers-roi-reserves-in-2021-and-beyond/?amp=1"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

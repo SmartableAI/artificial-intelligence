@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-11-natural-language-processing-nlp-market-analysis-trends-growth-size-share-and-forecast-2019-to-2025.md",
+      "title": "Natural Language Processing Nlp Market Analysis, Trends, Growth, Size, Share and Forecast 2019 to 2025",
+      "excerpt": "The Global Natural Language Processing Nlp Market size is expected to grow at an annual average of 20 3 during 2019 2025 Key growth factors for the NLP market include increased use of smart devices increased adoption of cloud based",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2207688/natural-language-processing-nlp-market-analysis-trends",
+      "originalUrl": "https://www.openpr.com/news/2207688/natural-language-processing-nlp-market-analysis-trends",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/c/Tc11826692_g.jpg",
+          "width": 564,
+          "height": 444,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2207688/natural-language-processing-nlp-market-analysis-trends",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2207688/natural-language-processing-nlp-market-analysis-trends",
+      "publishedDateTime": "2020-12-11T03:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-11-best-speech-to-text-software-in-2020-free-paid-and-online-voice-recognition-apps-and-services.md",
       "title": "Best speech-to-text software in 2020: Free, paid and online voice recognition apps and services",
       "excerpt": "Here then are the best in speech-to-text recognition programs, which should be more than capable for most situations and circumstances. Dragon Anywhere is the Nuance mobile product for Android and ...",
@@ -1412,50 +1455,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-ipo-launch-c3ai-proposes-terms-for-504-million-ipo.md",
-      "title": "IPO Launch: C3.ai Proposes Terms For $504 Million IPO",
-      "excerpt": "Redwood City, California-based C3 was founded to develop a suite of machine learning software capabilities to help businesses make better decisions and optimize their operations and strategic activities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/ipo/news/c3ai-ipo-launch",
-      "originalUrl": "https://www.thestreet.com/ipo/news/c3ai-ipo-launch",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cq_auto:good%2Cw_620/MTc3MDQ4ODU5NTk0MjA0MzAz/c3logo.png",
-          "width": 619,
-          "height": 369,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp-ipo/ipo/news/c3ai-ipo-launch",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp-ipo/ipo/news/c3ai-ipo-launch",
-      "publishedDateTime": "2020-12-02T09:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

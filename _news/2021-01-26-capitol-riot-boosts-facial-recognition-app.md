@@ -78,6 +78,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Capitol riot boosts facial recognition app"
+    excerpt: "A facial recognition app saw a large increase in use the day after rioters stormed the U.S. Capitol building in Washington, D.C. Source by: Stringr"
+    publishedDateTime: 2021-01-26T23:11:00Z
+    webUrl: "https://theeagle.com/news/national/capitol-riot-boosts-facial-recognition-app/video_13e00cf2-ba46-5b5b-9d05-a0a11246bcc6.html"
+    ampWebUrl: "https://theeagle.com/news/national/capitol-riot-boosts-facial-recognition-app/video_13e00cf2-ba46-5b5b-9d05-a0a11246bcc6.amp.html"
+    cdnAmpWebUrl: "https://theeagle-com.cdn.ampproject.org/c/s/theeagle.com/news/national/capitol-riot-boosts-facial-recognition-app/video_13e00cf2-ba46-5b5b-9d05-a0a11246bcc6.amp.html"
+    type: article
+    provider:
+      name: The Eagle
+      domain: theeagle.com
+    quality: 39
 
 secured: "pUblV1sgEeg4gYQHkjetz4HunExUjeq6dFNxJyU1yl4ucVU+HQwL7X1s8fRDCFyMrz3M6HbUvecAdsv5N+wyQjLe0S2PzCVGY4XhYwf5NSasxFcUixZP5TjUL7D9U+KV4PnckMjKrU0DJtK/I2qgwL+64JrHjCRv33Qawe+B25FBYgv7Cw2SqPzt7nfds1HS7YE4Kr014VtTjmDOYV5ot97gPr4KNHZLQc0WrG0FSBtHw9rZdC8wu+PT52U5lpswL7lmSeaAh60Hg4wA8q8YHCLTItP0dxXZk9nNpAYDQ40k/MRI5a6fM46obHIx1XvTndgjzHj2tb+QlqrocEe14fv0BFrUesI3KRQJQYC6bl+68uSJ8nVmzqla7YxY3CUXFiTfLcSoEMwAQh4SOq/dvZmZwBugDZl/swArBuGzAFkykGXrrVcDWpeIhWzyRzcync3sxlSrNNWBVfCsr4599PnE/E8EldXwALy/RaPw2PAkVvJ5OUP50nK3haRB0pmizmXoTjzwoM9PcRm9wvKf5g==;EUhcZEZJW6uh2Ns5gbRhgw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/01/22/ai-robots-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/22/ai-robots-and-play-2021-predictions-for-a-virtual-workplace/amp/"
 type: article
 quality: 104
-heat: 115
+heat: 114
 published: true
 
 provider:

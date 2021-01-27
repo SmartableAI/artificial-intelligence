@@ -6,8 +6,8 @@ publishedDateTime: 2021-01-26T22:03:00Z
 originalUrl: "https://www.nextgov.com/emerging-tech/2021/01/hhs-makes-strategic-moves-achieve-ultimate-artificial-intelligence-ambition/171647/"
 webUrl: "https://www.nextgov.com/emerging-tech/2021/01/hhs-makes-strategic-moves-achieve-ultimate-artificial-intelligence-ambition/171647/"
 type: article
-quality: 32
-heat: 32
+quality: 34
+heat: 34
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://cdn.nextgov.com/media/img/upload/2021/01/26/NGai20210126/open-graph.jpg"

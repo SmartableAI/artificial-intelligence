@@ -114,7 +114,7 @@
       "originalUrl": "https://www.technologynetworks.com/neuroscience/news/how-facial-recognition-algorithms-can-cut-out-bias-344899",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -262,7 +262,7 @@
       "originalUrl": "https://www.scmp.com/news/asia/south-asia/article/3118937/privacy-fears-indian-city-readies-facial-recognition-spot",
       "featuredContent": null,
       "highlight": null,
-      "heat": 171,
+      "heat": 161,
       "tags": null,
       "images": [
         {
@@ -314,7 +314,7 @@
       "originalUrl": "https://www.wdio.com/news/ban-facial-recognition-minneapolis-/5986531/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -442,6 +442,41 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-ai-in-computer-vision-technology-and-the-impact-on-healthcare.md",
+      "title": "AI in Computer Vision Technology and the Impact on Healthcare",
+      "excerpt": "In this episode of Impetus Digital’s Fireside Chat, Moshe Safran, CEO at RSIP Vision USA discusses a range of topics related to computer vision, AI, and deep learning in medical imaging, surgery, and healthcare, including the work that RSIP Vision is doing in these fields.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pmlive.com/pmhub/pharmaceutical_branding/impetus_digital/videos/ai_in_computer_vision_technology_and_the_impact_on_healthcare",
+      "originalUrl": "https://www.pmlive.com/pmhub/pharmaceutical_branding/impetus_digital/videos/ai_in_computer_vision_technology_and_the_impact_on_healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-21T10:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PMLiVE",
+        "domain": "pmlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -1403,58 +1438,6 @@
         "Computer Vision",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-the-promise-and-peril-of-facial-recognition.md",
-      "title": "The Promise and Peril of Facial Recognition",
-      "excerpt": "Agencies are using the technology to identify the Capitol rioters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/the-promise-and-peril-of-facial-recognition-11610579445",
-      "originalUrl": "https://www.wsj.com/articles/the-promise-and-peril-of-facial-recognition-11610579445",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-284435/social",
-          "width": 1279,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/the-promise-and-peril-of-facial-recognition-11610579445",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-promise-and-peril-of-facial-recognition-11610579445",
-      "publishedDateTime": "2021-01-13T14:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

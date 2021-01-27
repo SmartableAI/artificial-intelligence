@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "An Indian city plans to use facial recognition to spot women in distress — what could go wrong?"
-    excerpt: "It’s now fairly common for cities to install surveillance cameras with facial recognition capabilities to help catch criminals  — Beijing and Moscow use them extensively. However, a city in northern India is taking a different approach: it wants to detect distress on women’s faces,"
-    publishedDateTime: 2021-01-22T07:49:00Z
-    webUrl: "https://thenextweb.com/neural/2021/01/22/an-indian-city-plans-to-use-facial-recognition-to-spot-women-in-distress-what-could-go-wrong/"
-    ampWebUrl: "https://thenextweb.com/neural/2021/01/22/an-indian-city-plans-to-use-facial-recognition-to-spot-women-in-distress-what-could-go-wrong/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/22/an-indian-city-plans-to-use-facial-recognition-to-spot-women-in-distress-what-could-go-wrong/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 77
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Untitled-design-2020-08-11T104457.003-796x417.png"
-        width: 796
-        height: 417
-        isCached: true
   - title: "Privacy fears as Indian city readies facial recognition to spot harassed women"
     excerpt: "A plan to monitor women's expressions with facial recognition technology to prevent street harassment in a north Indian city, will lead to intrusive policing and privacy violations, digital rights experts warned on Friday."
     publishedDateTime: 2021-01-22T13:42:00Z

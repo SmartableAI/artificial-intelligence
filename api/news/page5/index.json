@@ -2,57 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2021-01-22-this-ai-can-tell-if-you-have-prostate-cancer-by-looking-at-your-pee.md",
-      "title": "This AI can tell if you have prostate cancer by looking at your pee",
-      "excerpt": "Researchers at the Korean Institute of Science and Technology (KIST) recently developed a machine for detecting prostate cancer that only needs 20 minutes of your time and a few ounces of your pee to achieve near 100-percent accuracy.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/01/21/this-ai-can-tell-if-you-have-prostate-cancer-by-looking-at-your-pee/",
-      "originalUrl": "https://thenextweb.com/neural/2021/01/21/this-ai-can-tell-if-you-have-prostate-cancer-by-looking-at-your-pee/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/urine-2-796x448.jpg",
-          "width": 796,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/01/21/this-ai-can-tell-if-you-have-prostate-cancer-by-looking-at-your-pee/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/21/this-ai-can-tell-if-you-have-prostate-cancer-by-looking-at-your-pee/amp/",
-      "publishedDateTime": "2021-01-21T10:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-22-threat-detection-and-security-are-aided-by-integrated-machine-learning-artificial-intelligence.md",
       "title": "Threat Detection And Security Are Aided By Integrated Machine Learning / Artificial Intelligence",
       "excerpt": "Government buildings, airports, and other buildings at risk from terror attacks, whether from individuals or organizations, need more security that visual tracking of potential threats. In addressing these complex needs,",
@@ -198,6 +147,41 @@
       "topics": [
         "Natural Language Processing",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-ai-in-computer-vision-technology-and-the-impact-on-healthcare.md",
+      "title": "AI in Computer Vision Technology and the Impact on Healthcare",
+      "excerpt": "In this episode of Impetus Digital’s Fireside Chat, Moshe Safran, CEO at RSIP Vision USA discusses a range of topics related to computer vision, AI, and deep learning in medical imaging, surgery, and healthcare, including the work that RSIP Vision is doing in these fields.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pmlive.com/pmhub/pharmaceutical_branding/impetus_digital/videos/ai_in_computer_vision_technology_and_the_impact_on_healthcare",
+      "originalUrl": "https://www.pmlive.com/pmhub/pharmaceutical_branding/impetus_digital/videos/ai_in_computer_vision_technology_and_the_impact_on_healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-21T10:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PMLiVE",
+        "domain": "pmlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {

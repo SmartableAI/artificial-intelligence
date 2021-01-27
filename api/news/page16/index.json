@@ -2,6 +2,101 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-01-13-nvidia-introduces-geforce-rtx-3060-next-generation-of-the-worlds-most-popular-gpu.md",
+      "title": "NVIDIA Introduces GeForce RTX 3060, Next Generation of the World’s Most Popular GPU",
+      "excerpt": "NVIDIA today announced that it is bringing the NVIDIA Ampere architecture to millions more PC gamers with the new GeForce® RTX™ 3060 GPU. With its efficient, high-performance architecture and the second generation of NVIDIA RTX™,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-new-products-and-services-5907a252ea7235d845e24534c1668515",
+      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-new-products-and-services-5907a252ea7235d845e24534c1668515",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-12T09:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-trump-admin-launches-national-ai-initiative-office.md",
+      "title": "Trump admin launches National AI Initiative Office",
+      "excerpt": "The White House today announced the launch of its National AI Initiative Office, marking what should be President Trump‘s final manipulation of the country’s gutted Office of Science and Technology Policy (OSTP).",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/01/12/trump-admin-launches-national-ai-initiative-office/",
+      "originalUrl": "https://thenextweb.com/neural/2021/01/12/trump-admin-launches-national-ai-initiative-office/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/04/robotarmy-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/01/12/trump-admin-launches-national-ai-initiative-office/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/12/trump-admin-launches-national-ai-initiative-office/amp/",
+      "publishedDateTime": "2021-01-12T09:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-13-how-the-use-of-robotics-is-evolving-at-mrfs.md",
       "title": "How the use of robotics is evolving at MRFs",
       "excerpt": "A recycling facility operator and a robotics company say artificial intelligence is providing materials recovery firms with much-needed data to analyze changes in the recycling stream. That’s in addition to sortation improvements.",
@@ -1050,110 +1145,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-collaborating-through-open-source-to-advance-ai.md",
-      "title": "Collaborating through open source to advance AI",
-      "excerpt": "That something is open source. The sheer number of open source tools available to developers - from libraries to frameworks, IDEs, data lakes, streaming, model serving and inference solutions, and even the recent end-to-end tool aggregator,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/sg/news/collaborating-through-open-source-to-advance-ai",
-      "originalUrl": "https://www.techradar.com/sg/news/collaborating-through-open-source-to-advance-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/Wcc69A4Ts8bhSbGgJeGkoZ-1200-80.jpg",
-          "width": 970,
-          "height": 646,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/sg/amp/news/collaborating-through-open-source-to-advance-ai",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/collaborating-through-open-source-to-advance-ai",
-      "publishedDateTime": "2021-01-12T03:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu.md",
-      "title": "CES 2021: Asus Republic of Gamers unveils Flow X13 convertible gaming laptop with external GPU",
-      "excerpt": "The Flow X13 is outfitted with a GeForce GTX 1650 GPU that can hit clock speeds up to 1255 MHz at ... And for times when you want to chat with friends or fellow gamers, a two-way AI noise cancellation mode removes unwanted sounds from both the input ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/category/2381/index.php/article/ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu/",
-      "originalUrl": "https://www.techrepublic.com/index.php/category/2381/index.php/article/ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2021/01/12/b217b9e2-8472-4358-9fd7-36b134d84990/resize/1200x/97ea6a08734939b0c166dc9b21c9cf79/flow-x13-and-xg-mobile.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/ces-2021-asus-republic-of-gamers-unveils-flow-x13-convertible-gaming-laptop-with-external-gpu/",
-      "publishedDateTime": "2021-01-12T02:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

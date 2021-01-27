@@ -79,6 +79,17 @@ related:
       name: Omaha.com
       domain: omaha.com
     quality: 39
+  - title: "Capitol riot boosts facial recognition app"
+    excerpt: "A facial recognition app saw a large increase in use the day after rioters stormed the U.S. Capitol building in Washington, D.C. Source by: Stringr"
+    publishedDateTime: 2021-01-26T23:11:00Z
+    webUrl: "https://theeagle.com/news/national/capitol-riot-boosts-facial-recognition-app/video_13e00cf2-ba46-5b5b-9d05-a0a11246bcc6.html"
+    ampWebUrl: "https://theeagle.com/news/national/capitol-riot-boosts-facial-recognition-app/video_13e00cf2-ba46-5b5b-9d05-a0a11246bcc6.amp.html"
+    cdnAmpWebUrl: "https://theeagle-com.cdn.ampproject.org/c/s/theeagle.com/news/national/capitol-riot-boosts-facial-recognition-app/video_13e00cf2-ba46-5b5b-9d05-a0a11246bcc6.amp.html"
+    type: article
+    provider:
+      name: The Eagle
+      domain: theeagle.com
+    quality: 39
 
 secured: "NPtIOI7hT9HHsjpR3CT6GynhNhkTF8Q+NAj7G71RYg5jct0Ad64QoVAZEHotqYh0gd9/aK2PS8npMO+OHhZzPek5nBazNSoCHIwTfdsf03v2hC1+0TSW/+EvWT646fupewt78sJBaRJ+LtO+HhlA7L4ecbslmsAa/PDpoFwoSyAQXgSIyX5uyDuc8teQg+vxZP2oR1/AKwPmUlQWlJG4dKUmDeaFPavE3RjU2ra6FeYKFQsCQJ2T9ujUeEpIi88thKWPHswfAolTko5POO/RQ6QM51ymQhwWqEhrct25IXA/93EuvCkerewXZig1WtCja8xkA6o1MIGRoO2tIAvqIDJ8O5qstGXud7ISWHK7C5I=;UoOMKUNaK4ucqk//HiQZ+g=="
 ---

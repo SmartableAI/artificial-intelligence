@@ -2,6 +2,92 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2020-12-16-it-takes-a-lot-of-energy-for-machines-to-learn-heres-why-ai-is-so-power-hungry.md",
+      "title": "It takes a lot of energy for machines to learn – here’s why AI is so power-hungry",
+      "excerpt": "Google forced out a prominent AI ethics researcher after she voiced frustration with the company for making her withdraw a research paper. The paper pointed out the risks of language-processing artificial intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/phildavis/news/it-takes-a-lot-of-energy-for-machines-to-learn-heres-why-ai-is-so-power-hungry-12292020",
+      "originalUrl": "https://www.thestreet.com/phildavis/news/it-takes-a-lot-of-energy-for-machines-to-learn-heres-why-ai-is-so-power-hungry-12292020",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTc3OTY1Njc4MzQ1NTk0NDcy/file-20201211-23-atzk0p.jpg",
+          "width": 620,
+          "height": 348,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestreet.com/phildavis/.amp/news/it-takes-a-lot-of-energy-for-machines-to-learn-heres-why-ai-is-so-power-hungry-12292020",
+      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/phildavis/.amp/news/it-takes-a-lot-of-energy-for-machines-to-learn-heres-why-ai-is-so-power-hungry-12292020",
+      "publishedDateTime": "2020-12-15T17:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-iaidl-disrupts-world-of-technology-in-the-area-of-artificial-intelligence.md",
+      "title": "IAiDL Disrupts World Of Technology In The Area Of Artificial Intelligence",
+      "excerpt": "IAiDL covers everything from big data solutions to edge computing, drone management, the Internet of Things (IoT,) blockchain technology, and robotics. In line with the company’s goal of raising Artificial Intelligence competence standards in all walks ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/12/ab18807435/iaidl-disrupts-world-of-technology-in-the-area-of-artificial-intelligence",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/12/ab18807435/iaidl-disrupts-world-of-technology-in-the-area-of-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.abnewswire.com/uploads/1607956287.jpeg",
+          "width": 585,
+          "height": 371,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/18807435",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18807435",
+      "publishedDateTime": "2020-12-15T17:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-5-ways-ibm-predicts-ai-and-ad-tech-will-evolve-in-2021.md",
       "title": "5 Ways IBM Predicts AI and Ad Tech Will Evolve in 2021",
       "excerpt": "With tech giants set to crack down on cookies and third-party trackers in the coming months, the ad-tech industry is in for some major changes. IBM Watson Advertising has bet that artificial ...",
@@ -1092,92 +1178,6 @@
         "Computer Vision",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-it-takes-a-lot-of-energy-for-machines-to-learn-why-ai-is-so-power-hungry.md",
-      "title": "It takes a lot of energy for machines to learn: Why AI is so power-hungry",
-      "excerpt": "Google forced out a prominent AI ethics researcher after she voiced frustration with the company for making her withdraw a research paper. The paper pointed out the risks of language-processing artificial intelligence,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2020-12-lot-energy-machines-ai-power-hungry.html",
-      "originalUrl": "https://techxplore.com/news/2020-12-lot-energy-machines-ai-power-hungry.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/ittakesaloto.jpg",
-          "width": 1356,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2020-12-lot-energy-machines-ai-power-hungry.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2020-12-lot-energy-machines-ai-power-hungry.amp",
-      "publishedDateTime": "2020-12-15T06:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-berg-deepens-research-collaboration-with-adventhealth-to-advance-aging-metabolism-and-nash-research.md",
-      "title": "BERG Deepens Research Collaboration With AdventHealth To Advance Aging, Metabolism and Nash Research",
-      "excerpt": "PRNewswire/ -- BERG, a clinical-stage biotech that employs patient biology and artificial intelligence (AI) to research diseases and develop",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/berg-deepens-research-collaboration-with-adventhealth-to-advance-aging-metabolism-and-nash-research-301192593.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/berg-deepens-research-collaboration-with-adventhealth-to-advance-aging-metabolism-and-nash-research-301192593.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1082030/BERG_Logo.jpg?p=facebook",
-          "width": 2865,
-          "height": 1499,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-15T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

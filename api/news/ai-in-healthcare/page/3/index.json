@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-16-khosla-backed-health-ai-startup-raises-275-million-to-supercharge-primary-care.md",
+      "title": "Khosla-Backed Health AI Startup Raises $27.5 Million To Supercharge Primary Care",
+      "excerpt": "“We think that AI can be a superpower, where we can make the cost of care lower,” says Khosla, cofounder of San Francisco-based Curai, which announced a $27.5 million Series B financing round on Wednesday. The company has built a chat-based platform ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/katiejennings/2020/12/16/khosla-backed-health-ai-startup-raises-275-million-to-supercharge-primary-care/",
+      "originalUrl": "https://www.forbes.com/sites/katiejennings/2020/12/16/khosla-backed-health-ai-startup-raises-275-million-to-supercharge-primary-care/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd98d60ec452825cba9b7ec%2F0x0.jpg%3FcropX1%3D110%26cropX2%3D1816%26cropY1%3D0%26cropY2%3D959",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/katiejennings/2020/12/16/khosla-backed-health-ai-startup-raises-275-million-to-supercharge-primary-care/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/katiejennings/2020/12/16/khosla-backed-health-ai-startup-raises-275-million-to-supercharge-primary-care/amp/",
+      "publishedDateTime": "2020-12-16T04:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-ping-an-launches-artificial-intelligence-assisted-clinical-decision-support-system-for-gastroesophageal-cancers.md",
       "title": "Ping An launches artificial intelligence assisted clinical decision support system for gastroesophageal cancers",
       "excerpt": "Company of China, Ltd. (hereafter \"Ping An\" or the \"Group\", HKEX: 02318; SSE: 601318) announced the launch of the artificial intelligence (AI) assisted clinical decision support system (CDSS), AskBob Cancer for Gastroesophageal Cancers,",
@@ -1308,49 +1360,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-healthcare-process-automation-startup-olive-ai-lands-15b-valuation.md",
-      "title": "Healthcare process automation startup Olive AI lands $1.5B valuation",
-      "excerpt": "Olive AI, a startup automating routine administrative tasks for health systems, raised another $225 million in funding, bringing the total raised this year to $385 million.",
-      "sourceUrl": null,
-      "webUrl": "https://medcitynews.com/2020/12/healthcare-process-automation-startup-olive-ai-lands-1-5b-valuation/",
-      "originalUrl": "https://medcitynews.com/2020/12/healthcare-process-automation-startup-olive-ai-lands-1-5b-valuation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://medcitynews.com/uploads/2018/07/GettyImages-896076386.jpg",
-          "width": 725,
-          "height": 482,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-01T18:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MedCity News",
-        "domain": "medcitynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

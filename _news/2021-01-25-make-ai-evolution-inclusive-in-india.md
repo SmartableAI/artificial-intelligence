@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "How four QDIC startups are driving innovation in India's industrial robotics and automation sector"
-    excerpt: "Today, businesses are well-aware of the potential and impact of emerging technologies in industrial robotics and automation in improving process efficiencies and transforming business operations. While the initial high cost of infrastructure and complex operations have been key deterrents,"
-    publishedDateTime: 2021-01-22T08:31:00Z
-    webUrl: "https://yourstory.com/2021/01/qdic-startups-driving-innovation-india-industrial-robotics-automation"
-    ampWebUrl: "https://yourstory.com/2021/01/qdic-startups-driving-innovation-india-industrial-robotics-automation/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/01/qdic-startups-driving-innovation-india-industrial-robotics-automation/amp"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 60
-    images:
-      - url: "https://images.yourstory.com/cs/2/18d4ab20d08111e99775a119527191d8/Imagesac6-1611302832921.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
-        width: 800
-        height: 400
-        isCached: true
   - title: "Hashtag Trending – Bizarre facial recognition proposal in India; White House calls for coders; Ajit Pai’s final report"
     excerpt: "A proposal to install facial recognition cameras in an Indian city draws backlash, a stealthy call for coders has been found on"
     publishedDateTime: 2021-01-22T10:18:00Z
@@ -55,20 +39,6 @@ related:
       - url: "https://i.itbusiness.ca/wp-content/uploads/2018/01/ht_banner-hashtag-trending-620x250.jpg"
         width: 620
         height: 250
-        isCached: true
-  - title: "Google vs Australia, Rockets On Oil Rigs, India’s Quantum Labs And More In This Week’s Top News"
-    excerpt: "Developing radical new technology is inherently risky, but that doesn’t make breaking this news any easier. Today, I’m sad to share that Loon will be winding down,” wrote Alastair Westgarth, CEO, Loon."
-    publishedDateTime: 2021-01-23T12:31:00Z
-    webUrl: "https://analyticsindiamag.com/google-australia-india-aws-quantum-top-news/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 12
-    images:
-      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2021/01/jan-23-tech-news.jpg"
-        width: 1601
-        height: 901
         isCached: true
 
 secured: "tFUfhvgUpt6kzGXMICcBgNdQvGcARA/NSfM5I+6K+XwThcDc6Ga1jG7v2eR/xfJr2OTDqwXQwInO/PSulhoEemRIlYHWn4+VbYlb5pewvMQzoo7q1WWwy6mH9ce5EWMIyWVNCC6Pv0Eh4CMxEXXd1OJkss4HIavv3lMo94XdHqMPlzXmyyXvmgZtfwEIZ517guo++O2kFbzpxkijOHn2enDrPxglKDZ6lbgIQfeuS2naSXtkD89qytvR9zX1uFuZmcFYOIFQb98ugLUo2uxhxmvqB+Dtprn14M1QFze+dj3fdA2NFCmIe6/ePoML9ExqDTqKi9ou3lL3Fdygg6nSGZZc20TRJ1IgnCZ0M6MWYdY=;2dWnHmzYvfZbdRYenf1GIQ=="

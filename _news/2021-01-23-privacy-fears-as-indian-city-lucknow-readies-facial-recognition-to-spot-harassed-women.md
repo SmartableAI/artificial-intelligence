@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/news/asia/south-asia/article/3118937/privacy-fe
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/asia/south-asia/article/3118937/privacy-fears-indian-city-readies-facial-recognition-spot"
 type: article
 quality: 81
-heat: 171
+heat: 161
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "An Indian city plans to use facial recognition to spot women in distress — what could go wrong?"
-    excerpt: "It’s now fairly common for cities to install surveillance cameras with facial recognition capabilities to help catch criminals  — Beijing and Moscow use them extensively. However, a city in northern India is taking a different approach: it wants to detect distress on women’s faces,"
-    publishedDateTime: 2021-01-22T07:49:00Z
-    webUrl: "https://thenextweb.com/neural/2021/01/22/an-indian-city-plans-to-use-facial-recognition-to-spot-women-in-distress-what-could-go-wrong/"
-    ampWebUrl: "https://thenextweb.com/neural/2021/01/22/an-indian-city-plans-to-use-facial-recognition-to-spot-women-in-distress-what-could-go-wrong/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/22/an-indian-city-plans-to-use-facial-recognition-to-spot-women-in-distress-what-could-go-wrong/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 77
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Untitled-design-2020-08-11T104457.003-796x417.png"
-        width: 796
-        height: 417
-        isCached: true
   - title: "A scary proposal to use facial recognition and AI by an Indian state has experts fuming"
     excerpt: "The Lucknow police are installing cameras with facial recognition technology, powered by artificial intelligence (AI), in prominent harassment hotspots. The cameras will gauge whether a woman is in distress based on her facial expression and send an alert to the police."
     publishedDateTime: 2021-01-23T11:25:00Z

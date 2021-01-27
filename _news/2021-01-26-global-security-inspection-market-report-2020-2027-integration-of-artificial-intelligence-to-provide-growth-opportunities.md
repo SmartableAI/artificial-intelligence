@@ -21,15 +21,15 @@ topics:
   - AI in Security
 
 related:
-  - title: "Computer Vision Market 2020 to 2025|Rising Demand, Share, Trends, Growth, Opportunities"
-    excerpt: "The Final Report will cover the impact analysis of COVID-19 on this industry: Computer Vision can be best defined as a branch of computer science which deals with improving the digitization and processing of computer aided tasks for better understanding."
-    publishedDateTime: 2021-01-22T07:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2020-to-2025rising-demand-share-trends-growth-opportunities-2021-01-22"
+  - title: "AI-Based Fever Detection Camera Market 2021 Growth, Segments, by Size, Share, Key News and Top Companies Overview to 2027"
+    excerpt: "Jan (The Expresswire) -- The global AI-based fever detection camera market is set to gain traction from their increasing deployment by"
+    publishedDateTime: 2021-01-25T07:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-based-fever-detection-camera-market-2021-growth-segments-by-size-share-key-news-and-top-companies-overview-to-2027-2021-01-25"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 61
+    quality: 42
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

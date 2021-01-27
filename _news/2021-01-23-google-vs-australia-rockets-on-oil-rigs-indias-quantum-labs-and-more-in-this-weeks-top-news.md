@@ -25,51 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "How four QDIC startups are driving innovation in India's industrial robotics and automation sector"
-    excerpt: "Today, businesses are well-aware of the potential and impact of emerging technologies in industrial robotics and automation in improving process efficiencies and transforming business operations. While the initial high cost of infrastructure and complex operations have been key deterrents,"
-    publishedDateTime: 2021-01-22T08:31:00Z
-    webUrl: "https://yourstory.com/2021/01/qdic-startups-driving-innovation-india-industrial-robotics-automation"
-    ampWebUrl: "https://yourstory.com/2021/01/qdic-startups-driving-innovation-india-industrial-robotics-automation/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/01/qdic-startups-driving-innovation-india-industrial-robotics-automation/amp"
+  - title: "Thousands march in Australia for Indigenous recognition"
+    excerpt: "Demonstrators in major cities demand the national day be changed in honour of the country’s Indigenous people."
+    publishedDateTime: 2021-01-26T12:16:00Z
+    webUrl: "https://www.aljazeera.com/news/2021/1/26/arrests-made-during-australia-day-protest-held-amid-covid-concern"
+    ampWebUrl: "https://www.aljazeera.com/amp/news/2021/1/26/arrests-made-during-australia-day-protest-held-amid-covid-concern"
+    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2021/1/26/arrests-made-during-australia-day-protest-held-amid-covid-concern"
     type: article
     provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 60
+      name: Al Jazeera English
+      domain: aljazeera.com
+    quality: 44
     images:
-      - url: "https://images.yourstory.com/cs/2/18d4ab20d08111e99775a119527191d8/Imagesac6-1611302832921.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
-        width: 800
-        height: 400
-        isCached: true
-  - title: "Hashtag Trending – Bizarre facial recognition proposal in India; White House calls for coders; Ajit Pai’s final report"
-    excerpt: "A proposal to install facial recognition cameras in an Indian city draws backlash, a stealthy call for coders has been found on"
-    publishedDateTime: 2021-01-22T10:18:00Z
-    webUrl: "https://www.itbusiness.ca/news/hashtag-trending-bizarre-facial-recognition-proposal-in-india-white-house-calls-for-coders-ajit-pais-final-report/117008"
-    ampWebUrl: "https://www.itbusiness.ca/news/hashtag-trending-bizarre-facial-recognition-proposal-in-india-white-house-calls-for-coders-ajit-pais-final-report/117008?amp=1"
-    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/hashtag-trending-bizarre-facial-recognition-proposal-in-india-white-house-calls-for-coders-ajit-pais-final-report/117008?amp=1"
-    type: article
-    provider:
-      name: IT Business
-      domain: itbusiness.ca
-    quality: 50
-    images:
-      - url: "https://i.itbusiness.ca/wp-content/uploads/2018/01/ht_banner-hashtag-trending-620x250.jpg"
-        width: 620
-        height: 250
-        isCached: true
-  - title: "Make AI evolution inclusive in India"
-    excerpt: "The disproportionately dominant role played by men in the development of this technology, which leads to gender stereotypes and biases, is concerning The last few years have witnessed the evolution of"
-    publishedDateTime: 2021-01-24T18:41:00Z
-    webUrl: "https://www.dailypioneer.com/2021/columnists/make-ai-evolution-inclusive-in-india.html"
-    type: article
-    provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 37
-    images:
-      - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/make-ai-evolution-inclusive-in-india-2021-01-25.jpg"
-        width: 1000
-        height: 800
+      - url: "https://www.aljazeera.com/wp-content/uploads/2021/01/h_56648840.jpg?resize=1200%2C630"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "Zie2quPpR02iZk/+doFYOSL7GC5MUf2ZnBTY6HPX8S+GGbSHAdySpmWurPzJj0z5bX5u4aNXCorQdOuIA6G1XExzxXnqzfdoNGbpGl+1G6+Kbs8ltLeIRPPjh2f4K8w2TtxkNMsrPn2GkpmcHfTTD7iCMyFoCQI+Fcqkvr2xEr4F3ls18ohFA2fFlmXk3O8JhxpQJ8pgs+2PzbyRyBWEeWmgcogKtDqExXZUvsa9YEgb4bDnfwOtmCEfO/LvCnx1aOFnC5d4KSWJnwgby3jN1J6bPfZNIultLKdfL/l+A7WZZDIP5AFpJEdu4/TH2ObjADi2o22llaL7ZXNjrsqgdiWZYQCMnGHaa2wXT5OGT4A=;fqXertnHAkYjez+bSybYYw=="
