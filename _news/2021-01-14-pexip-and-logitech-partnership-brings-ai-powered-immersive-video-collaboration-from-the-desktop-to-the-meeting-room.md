@@ -1,29 +1,20 @@
 ---
 category: news
 title: "Pexip and Logitech Partnership Brings AI-Powered, Immersive Video Collaboration from the Desktop to the Meeting Room"
-excerpt: "PRNewswire/ -- Extends Pexip's data privacy and security-first approach to the meeting room Supports the growth of hybrid work by enabling workers to"
-publishedDateTime: 2021-01-14T14:46:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/pexip-and-logitech-partnership-brings-ai-powered-immersive-video-collaboration-from-the-desktop-to-the-meeting-room-301208592.html"
-webUrl: "https://www.prnewswire.com/news-releases/pexip-and-logitech-partnership-brings-ai-powered-immersive-video-collaboration-from-the-desktop-to-the-meeting-room-301208592.html"
+excerpt: "Organizations can deliver a consistent experience across their meeting rooms, whether deploying new video-enabled rooms or expanding their existing video estate Today Pexip, a leading provider of enterprise video conferencing and collaboration solutions,"
+publishedDateTime: 2021-01-14T15:05:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20210114io48995/pexip-and-logitech-partnership-brings-ai-powered-immersive-video-collaboration-from-the-desktop-to-the-meeting-room"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20210114io48995/pexip-and-logitech-partnership-brings-ai-powered-immersive-video-collaboration-from-the-desktop-to-the-meeting-room"
 type: article
-quality: 16
-heat: 16
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "LBU3rnvxV3ki4TbrpjiacP8ZNSQ255t0JIhgYWYf13/yy43pHVtOkwvRLRMOLnS2xg2Adu6nWeIeZoet7kjH4yuZUkYJjbqMQ65M4LKoXUoGDT+yfGPQKPEnR/UZczbG5X/zI+zPt92Y7/A0ydfZOXgh/gkY4+MNRDin+jWXiDJx8fzpNnJEX0W3begiuZcQoHxP0YIIpi5atBv4O9yy/i6gqHlfPtHaNkm5WG17G/+lAOuFVC4H3H4dTkrf5nqfObZnDqgfrFnO79d8p73nDI6b/MLeZkWMcFNbScbtdxCin+Wep8onT7Wl0uf3nyHL8HV/Nh0jKXuAE4kmI6G8GWM0LY3G13i7ssMKmPeWThY=;d4NGIMf9Ednes4nPuwKQqg=="
+secured: "bwXCWe9+Lu5f8yUqUQpckW6wwlIugqB/4qpSiOjUgJPufH0PlEEwiyga10vXARC7ZVJD5mD9jVQFIY0XNbRfnz8Nj54i5Yndx0A66OEEOA/6iXtyUp9aPhoTbt1SZ6pnv85qURU2eaBaGyCvZMQSef3c/RPYiEZ/Y+iPTN/fbD69Ym9m/QmzAK/vvrR7Sbg0xbdNGOOzOk5PnY6EetxqF3ar4tBCnZoeFUxk/yMsah6V0lOg3BS6bf2APkuKnkJp4YQaBPzGaU9K5FbRO/7ccODZUMLxNHVqeXBsxWiuaO8AgXYq4UfEcHmctqCH2psmuHBv+Zw+RJU6g4ksuehh0iE4WFxTxzceocCZmfbk2nY=;/jT7FjQ/XeUjWcukRP+nnw=="
 ---
 

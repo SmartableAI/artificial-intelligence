@@ -219,6 +219,20 @@ related:
       name: The Eagle
       domain: theeagle.com
     quality: 39
+  - title: "Can Facial Recognition Predict Political Orientation?"
+    excerpt: "A study used social media photos of 1,085,795 participants – including 347,000 people of color, from the United States, United Kingdom and Canada and their self-declared political orientation, age, and gender,"
+    publishedDateTime: 2021-01-27T19:31:00Z
+    webUrl: "https://www.webmd.com/a-to-z-guides/news/20210127/can-facial-recognition-predict-political-orientation"
+    type: article
+    provider:
+      name: WebMD
+      domain: webmd.com
+    quality: 39
+    images:
+      - url: "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/other/multiple_personality_man_other/650x350_multiple_personality_man_other.jpg"
+        width: 650
+        height: 350
+        isCached: true
   - title: "Call to Ban Facial Recognition Technology that amplifies racist policing"
     excerpt: "We are Amnesty International UK. We are ordinary people from across the world standing up for humanity and human rights."
     publishedDateTime: 2021-01-26T18:47:00Z

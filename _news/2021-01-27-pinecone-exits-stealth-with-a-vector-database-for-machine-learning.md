@@ -43,7 +43,7 @@ related:
         isCached: true
   - title: "Pinecone leaves stealth with $10M, launches first serverless vector database for machine learning"
     excerpt: "PineconeSystems Inc., a machine learning (ML) cloud infrastructure company, left stealth today with $10m in seed funding. The investment"
-    publishedDateTime: 2021-01-27T15:16:00Z
+    publishedDateTime: 2021-01-27T20:00:00Z
     webUrl: "https://www.prnewswire.com/il/news-releases/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-301216240.html"
     type: article
     provider:
@@ -55,6 +55,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Pinecone leaves stealth with $10M, launches first serverless vector database for machine learning"
+    excerpt: "Pinecone Systems Inc., a machine learning (ML) cloud infrastructure company, left stealth today with $10m in seed funding. The investment was led by Wing Venture Capital, and Wing's Founding Partner,"
+    publishedDateTime: 2021-01-27T09:00:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210127ln57621/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 8
 
 secured: "hZ0deLUBwvDtDh2LhWjxEc5PP88mP+Qqh1pYjAhI7RJdNKeuDKMeXMRa9PClEQCEaT9NCjuBtU0PeEyXeru38YT5+BcVuSNMemDUVQvTYKtDCWsndMMF0rsYs70ysz4jSKYOR0vftOiwP09zL/iOwx6xra1X/3rUVH3c3xp02RlSbZ4AcbCJY1QIz3RDzhG4A+9FDOteS3eGB56PkZRCnJaqqucN+RU6te2EpSAjlUl/Mf9XU9mS6+K1zDNdAYPXlHnZFa6QVesR632wIwZz2DcJeCJ+AUhpREBoZ1tSNlMSke0WqV6+Y/k4l5r9oBuMMMRKfFHm1M+oZqIE9PxUX1UYcMC09Bk2Ul9pv8zKRnpjkGaeKrOpKBILHT4hVsbUhWknKmUNXQC7ap2Of+w7iTT9KI6I/VCfAyzvw+M3Tf/zyOS0zw9pIEl3dwXG4hfGNbvl1QJaAWnmFDGeJ05biVY0mFU5IDwf6iAr0FOyG5acaEa7aWLJIx2sM77rs0vF5khAb+w+iMW5p+Wm2CFwdA==;0Lge3ahu63tqjQTAK1SJsA=="
 ---

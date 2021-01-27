@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/364141"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/364141"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60118aa54082182beabf8d5a%2F0x0.jpg"
         width: 696
         height: 493
+        isCached: true
+  - title: "The Intersection of AI and Talent Strategy in 2021 | Part 2"
+    excerpt: "See the key findings of Northeastern’s “Intersection of AI and Talent Strategy Symposium,” and learn how COVID-19 is changing AI and talent strategy in 2021 and beyond."
+    publishedDateTime: 2021-01-26T18:38:00Z
+    webUrl: "https://www.northeastern.edu/graduate/blog/ai-and-talent-strategy-part-2/"
+    type: article
+    provider:
+      name: Northeastern University
+      domain: northeastern.edu
+    quality: 39
+    images:
+      - url: "https://www.northeastern.edu/graduate/blog/wp-content/uploads/2021/01/Copy-of-Untitled-8.png"
+        width: 1200
+        height: 628
         isCached: true
   - title: "AI is changing the Financial Services sector and we should foresee a continuation of wider acceptance."
     excerpt: "AI in Financial Services sector is swiftly changing and this represents the automation of financial activities and duties which robots and artificial intelligence devices could do more effectively and cost-efficiently."

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/asia/south-korea-kim-kwang-seok-a
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/asia/south-korea-kim-kwang-seok-ai-dst-hnk-intl/index.html"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/07/27/artificial-intelligence-23320041920.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "South Korea has used AI to bring a dead superstar's voice back to the stage, but ethical concerns abound"
+    excerpt: "The audio AI company behind Kim's reincarnated voice is Supertone, a South Korean startup founded in 2020 that provides AI audio solutions for content creators, according to co-founder and Chief Operating Officer Choi Hee-doo. \"For example, BTS is really ..."
+    publishedDateTime: 2021-01-27T19:00:00Z
+    webUrl: "https://www.azfamily.com/news/us_world_news/south-korea-has-used-ai-to-bring-a-dead-superstars-voice-back-to-the-stage/article_d5b8b999-3b1e-568c-840c-68f572dc87f1.html"
+    ampWebUrl: "https://www.azfamily.com/news/us_world_news/south-korea-has-used-ai-to-bring-a-dead-superstars-voice-back-to-the-stage/article_d5b8b999-3b1e-568c-840c-68f572dc87f1.amp.html"
+    cdnAmpWebUrl: "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/news/us_world_news/south-korea-has-used-ai-to-bring-a-dead-superstars-voice-back-to-the-stage/article_d5b8b999-3b1e-568c-840c-68f572dc87f1.amp.html"
+    type: article
+    provider:
+      name: AZFamily
+      domain: azfamily.com
+    quality: 57
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/azfamily.com/content/tncms/assets/v3/editorial/0/53/0538af54-887e-5412-9627-a2e1dd39c1da/600f86526db93.image.jpg?resize=1024%2C576"
+        width: 1024
+        height: 576
         isCached: true
   - title: "South Korea has used AI to bring a superstar back to life, but ethical concerns abound"
     excerpt: "For the first time in 25 years, the distinctive vocals of South Korean superstar Kim Kwang-seok will be heard on national television singing new material."

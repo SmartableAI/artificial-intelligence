@@ -3,10 +3,10 @@ category: news
 title: "Cisco uses AI to add hand gestures to Webex"
 excerpt: "Cisco is bringing hand gestures to its Webex video conferencing software to make it easier for participants to express themselves even while on mute. Gestures and non-verbal cues have long been an important part of face-to-face meetings as they allow a speaker to emphasize or support their ideas and give the audience a chance to provide real-time feedback."
 publishedDateTime: 2021-01-21T18:19:00Z
-originalUrl: "https://www.techradar.com/sg/news/cisco-uses-ai-to-add-hand-gestures-to-webex"
-webUrl: "https://www.techradar.com/sg/news/cisco-uses-ai-to-add-hand-gestures-to-webex"
-ampWebUrl: "https://www.techradar.com/sg/amp/news/cisco-uses-ai-to-add-hand-gestures-to-webex"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/cisco-uses-ai-to-add-hand-gestures-to-webex"
+originalUrl: "https://www.techradar.com/news/cisco-uses-ai-to-add-hand-gestures-to-webex"
+webUrl: "https://www.techradar.com/news/cisco-uses-ai-to-add-hand-gestures-to-webex"
+ampWebUrl: "https://www.techradar.com/amp/news/cisco-uses-ai-to-add-hand-gestures-to-webex"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/cisco-uses-ai-to-add-hand-gestures-to-webex"
 type: article
 
 provider:
@@ -27,6 +27,6 @@ images:
     height: 403
     isCached: true
 
-secured: "kuXbTWm7D0qiF7Qb0RxsoLkILK6rEV/sMr1j5dXngMyH7bWGH9Pzx2ClSLPxqqoKocLaqF3gcbCTXNVVsUheLXXFTNoqdNx2RXy+GE5Peil97VdVmP4+ggvRauCn7WVQPt4pHwTqYRE5fxusQdpeQwkmXCWZqN/XbTrJoHth+R4KnLNcVFyDe4ocQ84lcz+Tgj9PB2kwYCWLRdgPjXklFbdo4bZUr38T63kH7xS5F8u6bQWPs0gboWrKmXa7Z+lnX+dPO5dUNRmsHjSSQ+9sWtib3VUFNmqk+iluMeU1PVTN8iwi3OuzMVbQ8ATaXu2quh37R2WryEo99pyDxPjI5UQ3nQeInsT9v1rFzz+Hg8A=;mhtK/PIzAHxDtNHXWhDQEg=="
+secured: "WkMQpsI5ZOIImgxVko4juBsplRx/LVOAFHoXmTVALipyGt2tajPqF1aA5mMLQjZA14PqZyIchBfcizCFxBiLz/vxWSMHK9alYWR9milJjIFk5B/7sGd43PzkIfrZZxk4Wvy06PV/IQ5yaYBlhrLi/CQHwhfQ8NQJaVT107DlYzlqomocgrZ7+qijV9KB/Gu15e7rsmf44HQCXRiCGfbcda7i8FyBhtPxQPfw9Xk4HSY5U5bYw0/2Y4aRJTQA0qDEj1XqWbokGMLXLI9F1F3FCgQZF/jOnou9Frhlpq4KXBM/ubbyJyDKwwmlF2EA4YookfOPnG6wls9uClHaWAHlALsyFK8w2WroHCInusu/0kk=;gVcvI9/YtXWCJQ1Gr5/flQ=="
 ---
 

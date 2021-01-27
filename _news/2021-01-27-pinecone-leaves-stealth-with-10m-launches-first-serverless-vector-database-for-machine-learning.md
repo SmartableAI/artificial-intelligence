@@ -1,28 +1,23 @@
 ---
 category: news
 title: "Pinecone leaves stealth with $10M, launches first serverless vector database for machine learning"
-excerpt: "PineconeSystems Inc., a machine learning (ML) cloud infrastructure company, left stealth today with $10m in seed funding. The investment"
-publishedDateTime: 2021-01-27T15:16:00Z
-originalUrl: "https://www.prnewswire.com/il/news-releases/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-301216240.html"
-webUrl: "https://www.prnewswire.com/il/news-releases/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-301216240.html"
+excerpt: "Pinecone Systems Inc., a machine learning (ML) cloud infrastructure company, left stealth today with $10m in seed funding. The investment was led by Wing Venture Capital, and Wing's Founding Partner,"
+publishedDateTime: 2021-01-27T09:00:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20210127ln57621/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20210127ln57621/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning"
 type: article
-quality: 26
+quality: 8
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
-  - Machine Learning
+  - AWS AI
   - AI
-
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
+  - Machine Learning
 
 related:
   - title: "Pinecone, a serverless vector database for machine learning, leaves stealth with $10M funding"
@@ -55,7 +50,21 @@ related:
         width: 985
         height: 545
         isCached: true
+  - title: "Pinecone leaves stealth with $10M, launches first serverless vector database for machine learning"
+    excerpt: "PineconeSystems Inc., a machine learning (ML) cloud infrastructure company, left stealth today with $10m in seed funding. The investment"
+    publishedDateTime: 2021-01-27T20:00:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-301216240.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 26
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
-secured: "//AqqFLPevNPu9nQvaXj31XytZH3jChw3Up0eksPHaKfgySHmU4IqKKPEE5E8W5JmOwOJ0swu8skq1v0F5WYt0DnuVZHZ8vlyIlSJXMEsc+319v6XrXn05CS2YTOP99ZNMgt+LdXNHQ/YqPEoFUUP4HpLKyEUfIEQsi40XrC52yzj/LFjkU980v8jgubMuf2kEAkz0gJTV2puyW/vr8Kn78UXBw19H8eBg5zGhGkbIdKvBdmBBz9nC3v1VJCNdMRgCANOl67WDaVfHCPUX5uQb8yLPKmpDl9xJ5LJwFbYEJhACvspvttHJhGjfSmKlxaJBsZsS6WC1DJsZlR/19s62ooU2McJ0EmjX0nNXLI2AY=;iwHnRZ8UsNS8pUU4/BBtUw=="
+secured: "Elqfuax89HPO9LLzY67t3EhX/PWuf+d4XTtPahSMCK67f9wfGGM4tGzwABC8IlTUl81BzYzlGDGAB3UH0cqwhzz7wEPiGdzQyFvWUki/rVKMChxQRnqLgIzVs/px2lxYCa0ob2zB40EMCp0AEtImo8+t5LORECD4pg3q8aT7idc79YSftu8KmX3HPSQEoHZsuup7PVyPezirUgkGf2WpPOLkUGX4zgFEHgnbYD59ItroTTHw4jCK6b+wKbMbGjhUMREZuZyzrJrbRIwubqkGCCftbC1VBDMVpjScKx52T2GM1ETkidX2seUsDeVGr2zbjBJJuXRnUtFLwXhuw9wXMMvFhIverT/FYOpQLn/jyfE=;dGAsUns9qbaeVt4bPjA74A=="
 ---
 

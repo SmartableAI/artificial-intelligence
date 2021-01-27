@@ -6,8 +6,8 @@ publishedDateTime: 2021-01-27T03:42:00Z
 originalUrl: "https://www.totaltele.com/508430/ETSI-Report-Paves-the-Way-for-First-World-Standards-in-Securing-Artificial-Intelligence"
 webUrl: "https://www.totaltele.com/508430/ETSI-Report-Paves-the-Way-for-First-World-Standards-in-Securing-Artificial-Intelligence"
 type: article
-quality: 29
-heat: 29
+quality: 31
+heat: 31
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://www.totaltele.com/res/image/articleimages/5g-icon-hpe.png"
