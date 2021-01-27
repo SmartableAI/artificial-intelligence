@@ -29,20 +29,6 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 67
-  - title: "New European Parliament guidelines for AI and facial recognition invite moratorium consideration"
-    excerpt: "The report calls for a new legal framework for the development and employment of AI and surveillance-related face biometric applications."
-    publishedDateTime: 2021-01-22T17:37:00Z
-    webUrl: "https://www.biometricupdate.com/202101/new-european-parliament-guidelines-for-ai-and-facial-recognition-invite-moratorium-consideration"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 41
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/07/25183012/Chincotech-facial-recognition.png"
-        width: 623
-        height: 432
-        isCached: true
   - title: "How artificial intelligence will change work"
     excerpt: "MIT Professor Thomas Malone, Professor Daniela Rus, and Robert Laubacher collaborated on \"Artificial Intelligence and the Future of Work,\" a brief that provides"
     publishedDateTime: 2021-01-25T14:39:00Z

@@ -1,17 +1,17 @@
 ---
 category: news
 title: "‘Ban the Scan’ - Groups call for city, state to outlaw facial recognition"
-excerpt: "Nearly a dozen leaders and groups came together Tuesday to call on the city and state to ban government use of facial recognition technology scanning, saying that it negatively impacts people of ..."
-publishedDateTime: 2021-01-27T01:34:00Z
-originalUrl: "https://newjersey.news12.com/ban-the-scan-groups-call-for-city-state-to-outlaw-facial-recognition"
-webUrl: "https://newjersey.news12.com/ban-the-scan-groups-call-for-city-state-to-outlaw-facial-recognition"
+excerpt: "Nearly a dozen leaders and groups came together Tuesday to call on the city and state to ban government use of facial recognition technology scanning, saying that it negatively impacts people of color."
+publishedDateTime: 2021-01-27T00:56:00Z
+originalUrl: "https://brooklyn.news12.com/ban-the-scan-groups-call-for-city-state-to-outlaw-facial-recognition"
+webUrl: "https://brooklyn.news12.com/ban-the-scan-groups-call-for-city-state-to-outlaw-facial-recognition"
 type: article
 quality: 38
 heat: -1
 published: false
 
 provider:
-  name: News 12 Networks
+  name: News 12 New Jersey
   domain: news12.com
 
 topics:
@@ -41,6 +41,17 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Global Campaign Urges Ban On Facial Recognition Technology"
+    excerpt: "A global campaign to ban facial recognition technology launched Tuesday. Critics say the technology creates privacy issues and can contribute to racial profiling; CBS2's Natalie Duddridge reports."
+    publishedDateTime: 2021-01-26T23:13:00Z
+    webUrl: "https://newyork.cbslocal.com/video/5234510-global-campaign-urges-ban-on-facial-recognition-technology/"
+    ampWebUrl: "https://newyork.cbslocal.com/video/5234510-global-campaign-urges-ban-on-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://newyork-cbslocal-com.cdn.ampproject.org/c/s/newyork.cbslocal.com/video/5234510-global-campaign-urges-ban-on-facial-recognition-technology/amp/"
+    type: article
+    provider:
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 54
   - title: "Amnesty International wants to map facial recognition cameras so you can avoid them"
     excerpt: "Several groups have launched a 'Ban the Scan' campaign to halt the use of facial recognition tech by New York's government."
     publishedDateTime: 2021-01-26T16:29:00Z
@@ -119,6 +130,6 @@ related:
       domain: theeagle.com
     quality: 39
 
-secured: "ak6p/Q95rxDCBDSRUisvVAbVaDKxqx/W6BL9ZYTqFQzoSibj8QZw5fEy7O4fJA/OzYQesbjeWbVeywaoUorm/FFfcrPSBdxjl4IIEoJ31jPd0n2KdBuJ0I+C9GozWnpOc/Y7UuDYx1Mxr9NWL41OKyhg5VVW8GdRWt2uq1j2FM2IlFhRINPHck+0sgRMgXJKswhDFvm0m5lqUoXzeIoSTti0eULyKSbSZo1mX1NiNzgP267PgM7gPQHkHxwHTDDKQB4jalrYrXv3S1QlnIU7P0fqEg01k9o2JQocCKyqBxcbnKb7cHErJxUrTMltdW3kfiwYJLrEiqiBZX8J64q9b8S6d//ISIEwzeeCjW1eqQY=;nPkLmHwaiB8Fyj5hWAyhTA=="
+secured: "KL54qb7ituJpWdQIuJD3vKu2JgOMRubU6Es9/pOZPxwZqnwwnfPH4LhomJJGh/celoJMOCTXc/GkR7mehPfPJZ9YHbJlxfiffcaFUjpzzq0NLRK4Uu4xh1emfr8Dir780XQM6xhSwD8kREiIyQYyutraDTNn0xkWlbWN91ay9GJKpBtWHnRaF1VtavQvBYQwwhvM3Kh7Aw9GgtiaBHNO8usC8V4IDjGLsYbB71lX5M3dhB/2UjfaU4ok0PR+hf+4eGOhzkhWXvltl4Un4FFh9BNEQ2w9CF9bUflaSph0Fs+BSrd/PzErCR0GNBQqhLneEBo+sw/P4eEtupe6FFZD9UtfT1Jkg9K/oS5/GCJGsH0=;wNYDJyEGx3zkkFMC1f03Xg=="
 ---
 

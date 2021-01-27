@@ -35,20 +35,6 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 67
-  - title: "New European Parliament guidelines for AI and facial recognition invite moratorium consideration"
-    excerpt: "The report calls for a new legal framework for the development and employment of AI and surveillance-related face biometric applications."
-    publishedDateTime: 2021-01-22T17:37:00Z
-    webUrl: "https://www.biometricupdate.com/202101/new-european-parliament-guidelines-for-ai-and-facial-recognition-invite-moratorium-consideration"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 41
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/07/25183012/Chincotech-facial-recognition.png"
-        width: 623
-        height: 432
-        isCached: true
   - title: "Correction to Google Artificial Intelligence Article"
     excerpt: "Chief Executive Sundar Pichai said last year, adding, \"While AI promises enormous benefits for Europe and the world, there are real concerns about the potential negative consequences.\" \"Artificial Intelligence Will Define Google's Future."
     publishedDateTime: 2021-01-26T20:02:00Z

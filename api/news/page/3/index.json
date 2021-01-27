@@ -2,6 +2,109 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-25-model-serving-made-easier-with-deep-java-library-and-aws-lambda.md",
+      "title": "Model serving made easier with Deep Java Library and AWS Lambda",
+      "excerpt": "Developing and deploying&nbsp;a deep learning model involves&nbsp;many steps: gathering and cleansing data, designing the model, fine-tuning model parameters, evaluating the results, and going through it again until a desirable result is achieved. Then comes the final step: deploying the model. AWS Lambda&nbsp;is",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/model-serving-made-easier-with-deep-java-library-and-aws-lambda/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/model-serving-made-easier-with-deep-java-library-and-aws-lambda/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/06/1-Graph.jpg",
+          "width": 814,
+          "height": 546,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-25T10:35:41-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-can-we-trust-ai-when-ai-asks-for-human-help-part-one.md",
+      "title": "Can We Trust AI? When AI Asks For Human Help (Part One)",
+      "excerpt": "Making AI more 'humble' could not only help improve AI decision making, but could also help inspire more trust in the technology as a whole, and open the door for more useful and mission-critical applications in the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/charlestowersclark/2021/01/25/can-we-trust-ai-when-ai-asks-for-human-help-part-one/",
+      "originalUrl": "https://www.forbes.com/sites/charlestowersclark/2021/01/25/can-we-trust-ai-when-ai-asks-for-human-help-part-one/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600f03a4df133cabc007eb45%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charlestowersclark/2021/01/25/can-we-trust-ai-when-ai-asks-for-human-help-part-one/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charlestowersclark/2021/01/25/can-we-trust-ai-when-ai-asks-for-human-help-part-one/amp/",
+      "publishedDateTime": "2021-01-25T09:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-report-brexit-could-help-china-and-the-us-in-the-global-ai-race.md",
       "title": "Report: Brexit could help China and the US in the global AI race",
       "excerpt": "The study found that China is catching up with the US in the AI race, while the EU is slipping further behind.",
@@ -1123,91 +1226,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-apple-m1-chip-another-nail-in-intels-coffin-top-ai-tech-stocks-2021.md",
-      "title": "Apple M1 Chip Another Nail in Intel's Coffin - Top AI Tech Stocks 2021",
-      "excerpt": "Apple an expensive stock to buy right now. However, when one actually looks under the hood at what's going on at Apple then one finds the reason why Apple has been bid up to such lofty levels, where it's current price even after the recent correction is more than double where the stock was trading during March.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketoracle.co.uk/Article68317.html",
-      "originalUrl": "https://www.marketoracle.co.uk/Article68317.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketoracle.co.uk/images/2021/Jan/apple-m1-nail-in-intels-coffin.jpg",
-          "width": 801,
-          "height": 455,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-24T11:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Market Oracle",
-        "domain": "marketoracle.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-24-hidden-in-plain-sight-the-infrastructures-that-support-artificial-intelligence.md",
-      "title": "Hidden in plain sight: The infrastructures that support artificial intelligence",
-      "excerpt": "Artificial intelligence is supported by an infrastructure of hardware and software that is growing increasingly present in our lives, yet remains hidden in plain view.",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/hidden-in-plain-sight-the-infrastructures-that-support-artificial-intelligence-146087",
-      "originalUrl": "https://theconversation.com/hidden-in-plain-sight-the-infrastructures-that-support-artificial-intelligence-146087",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/360096/original/file-20200926-22-vahctv.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop",
-          "width": 320,
-          "height": 213,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/hidden-in-plain-sight-the-infrastructures-that-support-artificial-intelligence-146087",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/hidden-in-plain-sight-the-infrastructures-that-support-artificial-intelligence-146087",
-      "publishedDateTime": "2021-01-24T06:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

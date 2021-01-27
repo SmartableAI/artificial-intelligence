@@ -2,6 +2,153 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-01-21-artificial-intelligence-may-outsmart-our-brain-in-chess-but-not-in-memory.md",
+      "title": "Artificial Intelligence may outsmart our brain in chess, but not in memory",
+      "excerpt": "Artificial Intelligence has shown to be very good at achieving exceptional goals in several fields. Oslo (Norway): A new research has shown that the brain strategy for storing memories is more efficient than that of Artificial intelligence (AI).",
+      "sourceUrl": null,
+      "webUrl": "https://www.freepressjournal.in/tech/artificial-intelligence-may-outsmart-our-brain-in-chess-but-not-in-memory",
+      "originalUrl": "https://www.freepressjournal.in/tech/artificial-intelligence-may-outsmart-our-brain-in-chess-but-not-in-memory",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gumlet.assettype.com/freepressjournal/2021-01/09292545-ba55-4833-ad45-78c3e2364357/etc_3rd_lead_jan_20.jfif",
+          "width": 1920,
+          "height": 1311,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.freepressjournal.in/article/tech/artificial-intelligence-may-outsmart-our-brain-in-chess-but-not-in-memory/242b9a6a-6093-45ac-a09b-968757a53489",
+      "cdnAmpWebUrl": "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/tech/artificial-intelligence-may-outsmart-our-brain-in-chess-but-not-in-memory/242b9a6a-6093-45ac-a09b-968757a53489",
+      "publishedDateTime": "2021-01-20T15:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Free Press Journal",
+        "domain": "freepressjournal.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-skyrim-modders-have-a-new-machine-learning-tool-that-turns-text-to-realistic-npc-speech.md",
+      "title": "Skyrim modders have a new machine learning tool that turns text to realistic NPC speech",
+      "excerpt": "VASynth creator Dan Ruta used NPC voices from various Bethesda video games to train the tool's machine learning AI models. He published multiple flavors of the",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/88353-skyrim-modders-have-new-machine-learning-tool-turns.html",
+      "originalUrl": "https://www.techspot.com/news/88353-skyrim-modders-have-new-machine-learning-tool-turns.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2019/03/2019-03-21-ts3_thumbs-ba1.jpg",
+          "width": 800,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/88353-skyrim-modders-have-new-machine-learning-tool-turns.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/88353-skyrim-modders-have-new-machine-learning-tool-turns.html",
+      "publishedDateTime": "2021-01-20T14:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-technologists-use-facial-recognition-on-parler-videos.md",
+      "title": "Technologists Use Facial Recognition on Parler Videos",
+      "excerpt": "Technologists have used facial recognition techniques on the large archive of Parler videos filmed from the January 6 Capitol riots, Motherboard has learned. In some cases they have been able to track individual faces across different videos,",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en/article/xgz7g7/facial-recognition-parler-videos",
+      "originalUrl": "https://www.vice.com/en/article/xgz7g7/facial-recognition-parler-videos",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com/articles/6008765a4384dd009c120dbd/lede/1611167325556-capitol.jpeg?crop=1xw:0.842xh;0xw,0.077xh",
+          "width": 1500,
+          "height": 842,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en/article/xgz7g7/facial-recognition-parler-videos",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/xgz7g7/facial-recognition-parler-videos",
+      "publishedDateTime": "2021-01-20T13:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-facebook-updates-its-automatic-alternative-text-system-with-expanded-object-recognition.md",
       "title": "Facebook updates its automatic alternative text system with expanded object recognition",
       "excerpt": "The next-generation AAT system can identify more objects in photos, perceive where each object is located relative to each other and provide more detailed descriptions.",
@@ -101,8 +248,8 @@
       "title": "Understanding machine learning will go a long way toward higher adoption for SMBs",
       "excerpt": "Expert says larger companies are more willing to spend money for top talent to achieve machine learning, whereas smaller companies aren't able to do so. Pre-configured solutions can help.",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/understanding-machine-learning-will-go-a-long-way-toward-higher-adoption-for-smbs/",
-      "originalUrl": "https://www.techrepublic.com/article/understanding-machine-learning-will-go-a-long-way-toward-higher-adoption-for-smbs/",
+      "webUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/understanding-machine-learning-will-go-a-long-way-toward-higher-adoption-for-smbs/",
+      "originalUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/understanding-machine-learning-will-go-a-long-way-toward-higher-adoption-for-smbs/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -119,8 +266,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/understanding-machine-learning-will-go-a-long-way-toward-higher-adoption-for-smbs/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/understanding-machine-learning-will-go-a-long-way-toward-higher-adoption-for-smbs/",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/understanding-machine-learning-will-go-a-long-way-toward-higher-adoption-for-smbs/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/understanding-machine-learning-will-go-a-long-way-toward-higher-adoption-for-smbs/",
       "publishedDateTime": "2021-01-20T11:56:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -548,33 +695,24 @@
     {
       "path": "_news/2021-01-20-nucleus-research-releases-q1-2021-equity-snapshot-for-ibm.md",
       "title": "Nucleus Research Releases Q1 2021 Equity Snapshot for IBM",
-      "excerpt": "Nucleus Research, a global provider of ROI-focused technology research and advisory services, today released its Q1 2021 Equity Snapshot for IBM. The snapshot provides an analysis of IBM’s market growth and performance over the last quarter and a competitive outlook for the months ahead.",
+      "excerpt": "IBM will be able to center its focus around RedHat, cloud services and capabilities, and Watson AI—its largest growth drivers and the areas with the most customer interest.\" Nucleus Research is ...",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-new-products-and-services-5685d208d7b4425a8f44af821220af90",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-new-products-and-services-5685d208d7b4425a8f44af821220af90",
+      "webUrl": "https://www.benzinga.com/pressreleases/21/01/b19234174/nucleus-research-releases-q1-2021-equity-snapshot-for-ibm",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/01/b19234174/nucleus-research-releases-q1-2021-equity-snapshot-for-ibm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-20T06:18:00-08:00",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/19234174",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19234174",
+      "publishedDateTime": "2021-01-20T06:21:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -935,50 +1073,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-20-microsoft-gm-cruise-partner-on-self-driving-cars.md",
-      "title": "Microsoft, GM, Cruise Partner on Self-Driving Cars",
-      "excerpt": "\"Microsoft provides services -- like a giant cloud computing offering -- that is used to develop these self-driving vehicles ... Google Cloud or Baidu in China. \"They need the cloud platforms ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.technewsworld.com/story/Microsoft-GM-Cruise-Partner-on-Self-Driving-Cars-86988.html",
-      "originalUrl": "https://www.technewsworld.com/story/Microsoft-GM-Cruise-Partner-on-Self-Driving-Cars-86988.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2021-cruise-msft-gm-1.jpg",
-          "width": 620,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-20T04:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNewsWorld",
-        "domain": "technewsworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-20-facebook-uses-ai-to-improve-photo-descriptions-for-the-visually-impaired.md",
       "title": "Facebook uses AI to improve photo descriptions for the visually impaired",
       "excerpt": "One of the most common types of content shared on Facebook, and other social media platforms are photographs. While most social media users can look at an image and see what it represents,",
@@ -1108,109 +1202,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/20/beware-the-ai-death-spiral/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/20/beware-the-ai-death-spiral/amp/",
       "publishedDateTime": "2021-01-20T04:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-alphaics-raises-8-million-for-ai-at-the-edge-processors.md",
-      "title": "AlphaICs raises $8 million for AI-at-the-edge processors",
-      "excerpt": "AlphaICs has raised $8 million in funding for artificial intelligence processors for edge computing applications such as cars and wearables.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/20/alphaics-raises-8-million-for-ai-at-the-edge-processors/",
-      "originalUrl": "https://venturebeat.com/2021/01/20/alphaics-raises-8-million-for-ai-at-the-edge-processors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/alpha-2.jpg?w=1200&strip=all",
-          "width": 1190,
-          "height": 686,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/20/alphaics-raises-8-million-for-ai-at-the-edge-processors/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/20/alphaics-raises-8-million-for-ai-at-the-edge-processors/amp/",
-      "publishedDateTime": "2021-01-20T04:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-chatbots-the-great-evolution-to-conversational-ai.md",
-      "title": "Chatbots: The Great Evolution To Conversational AI",
-      "excerpt": "The outcome of the chatbot evolution is to dramatically diminish or even eliminate the need for historical data, experts and data scientists.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/20/chatbots-the-great-evolution-to-conversational-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/20/chatbots-the-great-evolution-to-conversational-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F696529578%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/20/chatbots-the-great-evolution-to-conversational-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/20/chatbots-the-great-evolution-to-conversational-ai/amp/",
-      "publishedDateTime": "2021-01-20T04:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

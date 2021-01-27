@@ -54,59 +54,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-27-opencv-opens-400000-contest-to-solve-real-world-problems-with-spatial-ai.md",
-      "title": "OpenCV opens $400,000 contest to solve real-world problems with spatial AI",
-      "excerpt": "A global contest aims to spark computer vision solutions to actual problems, and promises teams free camera hardware and Azure services.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/26/opencv-opens-400000-contest-to-solve-real-world-problems-with-spatial-ai/",
-      "originalUrl": "https://venturebeat.com/2021/01/26/opencv-opens-400000-contest-to-solve-real-world-problems-with-spatial-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/opencvai.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/26/opencv-opens-400000-contest-to-solve-real-world-problems-with-spatial-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/26/opencv-opens-400000-contest-to-solve-real-world-problems-with-spatial-ai/amp/",
-      "publishedDateTime": "2021-01-26T08:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-26-learning-with-and-about-ai-technology.md",
       "title": "Learning with — and about — AI technology",
       "excerpt": "MIT Media Lab Personal Robots group head Cynthia Breazeal joined MIT Education Arcade Director Eric Klopfer for a conversation about AI's role in K-12 education as part of a new webinar series from MIT Open Learning.",
@@ -1492,6 +1439,49 @@
       "provider": {
         "name": "Semiconductor Engineering",
         "domain": "semiengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-29-become-an-expert-in-artificial-intelligence-with-the-ultimate-artificial-intelligence-scientist-certification-bundle.md",
+      "title": "Become An Expert In Artificial Intelligence With The Ultimate Artificial Intelligence Scientist Certification Bundle",
+      "excerpt": "The four featured courses are packed with 670 lessons covering Deep Learning, Machine Learning, Python and Tensorflow. Designed for all skill levels, the courses cover everything from the basics ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.iflscience.com/editors-blog/become-an-expert-in-artificial-intelligence-with-the-ultimate-artificial-intelligence-scientist-certification-bundle/",
+      "originalUrl": "https://www.iflscience.com/editors-blog/become-an-expert-in-artificial-intelligence-with-the-ultimate-artificial-intelligence-scientist-certification-bundle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.iflscience.com/images/fa9997bf-5096-5065-bae7-aa147e242485/default-1609172399-cover-image.jpg",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.iflscience.com/editors-blog/become-an-expert-in-artificial-intelligence-with-the-ultimate-artificial-intelligence-scientist-certification-bundle/",
+      "cdnAmpWebUrl": "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/editors-blog/become-an-expert-in-artificial-intelligence-with-the-ultimate-artificial-intelligence-scientist-certification-bundle/",
+      "publishedDateTime": "2020-12-29T02:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IFLScience",
+        "domain": "iflscience.com",
         "images": null,
         "publishers": null,
         "authors": null

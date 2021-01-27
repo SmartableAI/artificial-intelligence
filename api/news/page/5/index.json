@@ -2,6 +2,144 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-22-ai-could-make-healthcare-fairerby-helping-us-believe-what-patients-tell-us.md",
+      "title": "AI could make healthcare fairer—by helping us believe what patients tell us",
+      "excerpt": "A new study shows how training deep-learning models on patient outcomes could help reveal gaps in existing medical knowledge.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2021/01/22/1016577/ai-fairer-healthcare-patient-outcomes/",
+      "originalUrl": "https://www.technologyreview.com/2021/01/22/1016577/ai-fairer-healthcare-patient-outcomes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/01/pain-scale.png?w=3000",
+          "width": 3000,
+          "height": 1688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2021/01/22/1016577/ai-fairer-healthcare-patient-outcomes/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/01/22/1016577/ai-fairer-healthcare-patient-outcomes/amp/",
+      "publishedDateTime": "2021-01-22T02:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-how-four-qdic-startups-are-driving-innovation-in-indias-industrial-robotics-and-automation-sector.md",
+      "title": "How four QDIC startups are driving innovation in India's industrial robotics and automation sector",
+      "excerpt": "Today, businesses are well-aware of the potential and impact of emerging technologies in industrial robotics and automation in improving process efficiencies and transforming business operations. While the initial high cost of infrastructure and complex operations have been key deterrents,",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2021/01/qdic-startups-driving-innovation-india-industrial-robotics-automation",
+      "originalUrl": "https://yourstory.com/2021/01/qdic-startups-driving-innovation-india-industrial-robotics-automation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/18d4ab20d08111e99775a119527191d8/Imagesac6-1611302832921.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/2021/01/qdic-startups-driving-innovation-india-industrial-robotics-automation/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/01/qdic-startups-driving-innovation-india-industrial-robotics-automation/amp",
+      "publishedDateTime": "2021-01-22T00:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-computer-vision-market-2020-to-2025rising-demand-share-trends-growth-opportunities.md",
+      "title": "Computer Vision Market 2020 to 2025|Rising Demand, Share, Trends, Growth, Opportunities",
+      "excerpt": "The Final Report will cover the impact analysis of COVID-19 on this industry: Computer Vision can be best defined as a branch of computer science which deals with improving the digitization and processing of computer aided tasks for better understanding.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-2020-to-2025rising-demand-share-trends-growth-opportunities-2021-01-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-2020-to-2025rising-demand-share-trends-growth-opportunities-2021-01-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-21T23:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-22-ai-systems-to-get-an-ethics-code-dod.md",
       "title": "AI Systems to get an Ethics Code: DoD",
       "excerpt": "Ethical considerations will go into Artificial Intelligence (AI)’s design and employment because it enables autonomy, decision making and system execution at incredibly fast speeds, a DoD official said.",
@@ -550,8 +688,8 @@
       "title": "AI in Computer Vision Technology and the Impact on Healthcare",
       "excerpt": "In this episode of Impetus Digital’s Fireside Chat, Moshe Safran, CEO at RSIP Vision USA discusses a range of topics related to computer vision, AI, and deep learning in medical imaging, surgery, and healthcare, including the work that RSIP Vision is doing in these fields.",
       "sourceUrl": null,
-      "webUrl": "https://www.pmlive.com/pmhub/pharmaceutical_branding/impetus_digital/videos/ai_in_computer_vision_technology_and_the_impact_on_healthcare",
-      "originalUrl": "https://www.pmlive.com/pmhub/pharmaceutical_branding/impetus_digital/videos/ai_in_computer_vision_technology_and_the_impact_on_healthcare",
+      "webUrl": "https://www.pmlive.com/pmhub/medical_communications/impetus_digital/videos/ai_in_computer_vision_technology_and_the_impact_on_healthcare",
+      "originalUrl": "https://www.pmlive.com/pmhub/medical_communications/impetus_digital/videos/ai_in_computer_vision_technology_and_the_impact_on_healthcare",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1079,150 +1217,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-google-meet-gets-one-of-zooms-best-features-live-otterai-transcription.md",
-      "title": "Google Meet Gets One Of Zoom’s Best Features: Live Otter.ai Transcription",
-      "excerpt": "Otter.ai has released a plugin for Google Meet which allows participants ... “This is where the AI is in play, in real time, because when it hears more words it actually re-evaluates the ...",
-      "sourceUrl": null,
-      "webUrl": "https://play.google.com/store/apps/details?id=com.springbox",
-      "originalUrl": "https://www.forbes.com/sites/barrycollins/2021/01/21/google-meet-gets-one-of-zooms-best-features-live-otterai-transcription/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://play-lh.googleusercontent.com/240Afv-qIN7aSDUQQn5IomZ96ljulnbr_sBz9j5hkCAsUWM8UQ2aQbb75ya7Mj6mikY",
-          "width": 512,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-21T06:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-springbox-ai-bolsters-your-trades-with-its-affordable-financial-insights-app.md",
-      "title": "Springbox AI Bolsters Your Trades With Its Affordable Financial Insights App",
-      "excerpt": "Springbox AI's beta application, launching today on iOS and Android, is a financial insights tool backed by its founders’ decades of experience within the financial and banking markets, paired with de",
-      "sourceUrl": null,
-      "webUrl": "https://apps.apple.com/us/app/springbox-ai/id1533228624",
-      "originalUrl": "https://www.forbes.com/sites/curtissilver/2021/01/21/springbox-ai-bolsters-your-trades-with-its-affordable-financial-insights-app/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/b3/cc/0e/b3cc0e11-cc56-8a01-65b5-7fb0acbfcd39/AppIcon-1x_U007emarketing-0-10-0-0-85-220.png/1200x630wa.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-21T05:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-transforming-the-energy-industry-with-ai.md",
-      "title": "Transforming the energy industry with AI",
-      "excerpt": "In the oil and gas industry, digitalization is improving project economics and streamlining operations, with AI as the key for sustainable growth and security against cyberthreats.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2021/01/21/1016460/transforming-the-energy-industry-with-ai/",
-      "originalUrl": "https://www.technologyreview.com/2021/01/21/1016460/transforming-the-energy-industry-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/01/MITTR-Seimens-webart-Cover.png",
-          "width": 1500,
-          "height": 1129,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2021/01/21/1016460/transforming-the-energy-industry-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/01/21/1016460/transforming-the-energy-industry-with-ai/amp/",
-      "publishedDateTime": "2021-01-21T05:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -84,6 +84,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Top marketing intelligence firm 10th Man uses Microsoft’s Azure cloud to unlock the power of data"
+    excerpt: "Man, a leading UK marketing intelligence company and data-driven innovator, is using Microsoft’s data tools to provide fast and accurate information to some of the world’s biggest brands. Headquartered in London,"
+    publishedDateTime: 2021-01-27T10:40:00Z
+    webUrl: "https://news.microsoft.com/en-gb/2021/01/27/top-marketing-intelligence-firm-10th-man-uses-microsofts-azure-cloud-to-unlock-the-power-of-data/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 58
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/68/2020/05/MDC19_coldAisleLow_001-768x512.jpg"
+        width: 768
+        height: 512
+        isCached: true
   - title: "Microsoft Previews Azure IoT Edge for Linux on Windows"
     excerpt: "Microsoft announced a preview of Azure IoT Edge for Linux on Windows, which lets organizations tap Linux virtual machine processes that also work with Windows- and Azure-based processes and services."
     publishedDateTime: 2021-01-22T20:27:00Z
@@ -176,17 +190,6 @@ related:
       name: CBS Local
       domain: cbslocal.com
     quality: 39
-  - title: "Speech & Voice Recognition Market is Booming Worldwide with Nuance Communications, Microsoft, Alphabet"
-    excerpt: "Latest released the research study on Global Speech Voice Recognition Market offers a detailed overview of the factors influencing the global business scope Speech Voice Recognition Market research report shows the latest market insights current situation analysis with upcoming trends"
-    publishedDateTime: 2021-01-22T18:34:00Z
-    webUrl: "https://www.openpr.com/news/2230032/speech-voice-recognition-market-is-booming-worldwide-with"
-    ampWebUrl: "https://www.openpr.com/amp/2230032/speech-voice-recognition-market-is-booming-worldwide-with"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2230032/speech-voice-recognition-market-is-booming-worldwide-with"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 25
   - title: "Cruise, General Motors, and Microsoft team up to develop self-driving vehicles"
     excerpt: "Cruise and General Motors announced they have entered a long-term strategic relationship with Microsoft to accelerate the commercialization of self-driving vehicles."
     publishedDateTime: 2021-01-25T00:00:00Z

@@ -21,6 +21,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AWS AI
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C5612AQHoZQKa66SUnQ/article-cover_image-shrink_600_2000/0/1610536580075?e=1616025600&v=beta&t=3bzXad6VNGGOr2r1ARvpuc_dF_TEuqRUa_YCuGCg4Tk"

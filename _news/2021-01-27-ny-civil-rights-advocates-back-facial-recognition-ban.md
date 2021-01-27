@@ -27,83 +27,33 @@ images:
     isCached: true
 
 related:
-  - title: "Minneapolis a step closer to banning facial recognition technology"
-    excerpt: "There are concerns about it leading to a surveillance state, and that it could harm disadvantaged communities."
-    publishedDateTime: 2021-01-22T17:31:00Z
-    webUrl: "https://bringmethenews.com/minnesota-news/minneapolis-a-step-closer-to-banning-facial-recognition-technology"
-    ampWebUrl: "https://bringmethenews.com/.amp/minnesota-news/minneapolis-a-step-closer-to-banning-facial-recognition-technology"
-    cdnAmpWebUrl: "https://bringmethenews-com.cdn.ampproject.org/c/s/bringmethenews.com/.amp/minnesota-news/minneapolis-a-step-closer-to-banning-facial-recognition-technology"
+  - title: "Staten Island DA Draws Criticism for Facial Recognition Use"
+    excerpt: "Critics argue the technology from Clearview AI treads on basic privacy and civil rights by collecting and storing data on individuals pulled from social media and Internet channels without their knowledge or consent."
+    publishedDateTime: 2021-01-22T23:06:00Z
+    webUrl: "https://www.govtech.com/public-safety/Staten-Island-DA-Draws-Criticism-for-Facial-Recognition-Use.html"
+    ampWebUrl: "https://www.govtech.com/public-safety/Staten-Island-DA-Draws-Criticism-for-Facial-Recognition-Use.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Staten-Island-DA-Draws-Criticism-for-Facial-Recognition-Use.html?AMP"
     type: article
     provider:
-      name: Bring Me The News
-      domain: bringmethenews.com
+      name: Government Technology
+      domain: govtech.com
     quality: 59
     images:
-      - url: "https://bringmethenews.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTc0MzMyNDc4ODA1MjU1ODE0/minneapolis-skyline.jpg"
-        width: 620
-        height: 359
+      - url: "https://media2.govtech.com/images/shutterstock_1392652700.jpg"
+        width: 939
+        height: 630
         isCached: true
-  - title: "Global Campaign Urges Ban On Facial Recognition Technology"
-    excerpt: "A global campaign to ban facial recognition technology launched Tuesday. Critics say the technology creates privacy issues and can contribute to racial profiling; CBS2's Natalie Duddridge reports."
-    publishedDateTime: 2021-01-26T23:13:00Z
-    webUrl: "https://newyork.cbslocal.com/video/5234510-global-campaign-urges-ban-on-facial-recognition-technology/"
-    ampWebUrl: "https://newyork.cbslocal.com/video/5234510-global-campaign-urges-ban-on-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://newyork-cbslocal-com.cdn.ampproject.org/c/s/newyork.cbslocal.com/video/5234510-global-campaign-urges-ban-on-facial-recognition-technology/amp/"
+  - title: "Staten Island D.A. Uses Controversial Facial Recognition Tool"
+    excerpt: "The Legal Aid Society has denounced the district attorney’s use of Clearview AI, the surveillance database, and has demanded the D.A. disclose how his office has used and is using the technology. (TNS) — The Legal Aid Society on Thursday denounced the ..."
+    publishedDateTime: 2021-01-22T21:42:00Z
+    webUrl: "https://www.governing.com/security/Staten-Island-DA-Uses-Controversial-Facial-Recognition-Tool.html"
+    ampWebUrl: "https://www.governing.com/security/Staten-Island-DA-Uses-Controversial-Facial-Recognition-Tool.html?AMP"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/Staten-Island-DA-Uses-Controversial-Facial-Recognition-Tool.html?AMP"
     type: article
     provider:
-      name: CBS Local
-      domain: cbslocal.com
-    quality: 54
-  - title: "Ban on facial recognition technology advances in Minneapolis"
-    excerpt: "MINNEAPOLIS (AP) - A proposal to ban the use of facial recognition technology by Minneapolis police and other city departments is advancing. The technology has raised concerns by some who worry it could be a dangerous step toward a surveillance state where people’s movements are tracked the moment they leave their homes."
-    publishedDateTime: 2021-01-24T23:02:00Z
-    webUrl: "https://www.weau.com/2021/01/24/ban-on-facial-recognition-technology-advances-in-minneapolis/"
-    type: article
-    provider:
-      name: WEAU
-      domain: weau.com
+      name: Governing
+      domain: governing.com
     quality: 39
-    images:
-      - url: "https://gray-weau-prod.cdn.arcpublishing.com/resizer/zCXcMt6FemPyR2OAR4yKMWc2efs=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/5JUAEHMN7JA3VKC7WRW3MC4ZRA.jpg"
-        width: 980
-        height: 574
-        isCached: true
-  - title: "Call to Ban Facial Recognition Technology that amplifies racist policing"
-    excerpt: "We are Amnesty International UK. We are ordinary people from across the world standing up for humanity and human rights."
-    publishedDateTime: 2021-01-26T18:47:00Z
-    webUrl: "https://www.amnesty.org.uk/press-releases/call-ban-facial-recognition-technology-amplifies-racist-policing"
-    type: article
-    provider:
-      name: Amnesty UK
-      domain: amnesty.org.uk
-    quality: 38
-    images:
-      - url: "https://www.amnesty.org.uk/files/styles/social_share_image/s3/settings/amnesty_logo_0.jpg?qA0vtal7uIyyFfzdjtm85CBfSTsi5Vt0&itok=V8GH6KNO"
-        width: 1200
-        height: 627
-        isCached: true
-  - title: "Proposed ban on facial recognition technology moves forward in Minneapolis"
-    excerpt: "Minneapolis is one step closer to banning police and other city departments from using facial recognition technology."
-    publishedDateTime: 2021-01-22T22:20:00Z
-    webUrl: "https://www.fox9.com/news/proposed-ban-on-facial-recognition-technology-moves-forward-in-minneapolis"
-    ampWebUrl: "https://www.fox9.com/news/proposed-ban-on-facial-recognition-technology-moves-forward-in-minneapolis.amp"
-    cdnAmpWebUrl: "https://www-fox9-com.cdn.ampproject.org/c/s/www.fox9.com/news/proposed-ban-on-facial-recognition-technology-moves-forward-in-minneapolis.amp"
-    type: article
-    provider:
-      name: Fox 9
-      domain: fox9.com
-    quality: 37
-  - title: "Ban dangerous facial recognition technology that reinforces racist police work"
-    excerpt: "Ban dangerous facial recognition technology that reinforces racist police work Amnesty International today launched a global campaign to"
-    publishedDateTime: 2021-01-26T00:51:00Z
-    webUrl: "https://www.compsmag.com/news/technology/ban-dangerous-facial-recognition-technology-that-reinforces-racist-police-work/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/ban-dangerous-facial-recognition-technology-that-reinforces-racist-police-work/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/ban-dangerous-facial-recognition-technology-that-reinforces-racist-police-work/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 35
 
 secured: "YMxt16ZvwTJUELs71z8aUZpHPZ5KnKJguaUNI0Nzy4B4igOr/4BNsll5HeYY8b+4pb9dPBJUk2x7ZR2wYLvC3bdZKd04KzbOMy1x1NLQFUl0NGOMujCayeQm6bfLj4tlzHvPuZkYuCk07avj35FJWhos1XM1Qr0gF2nLaifckJgwDIOI3XOYGZdECzB/RrWCwhQI2NLOLj/6u/5hqL4LZmCLkohiQUM8jfuNUmKOchP2g+BYsLkC8RjmV2Ak2Fk/oqS3Atb6QNJyO1vlYYa17rdSXrkKqnIGuQqs6fIq11brrAr4UnAjX+31WCI4K6IsEdGG0n0PhuvbukoG1tUYL7UknVB6ztJBjZeQ4rRcAVI=;q4NbGFIJT37HtsnwhT2gZQ=="
 ---

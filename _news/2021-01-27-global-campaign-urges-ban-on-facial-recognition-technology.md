@@ -21,88 +21,113 @@ topics:
   - AI
 
 related:
-  - title: "Minneapolis a step closer to banning facial recognition technology"
-    excerpt: "There are concerns about it leading to a surveillance state, and that it could harm disadvantaged communities."
-    publishedDateTime: 2021-01-22T17:31:00Z
-    webUrl: "https://bringmethenews.com/minnesota-news/minneapolis-a-step-closer-to-banning-facial-recognition-technology"
-    ampWebUrl: "https://bringmethenews.com/.amp/minnesota-news/minneapolis-a-step-closer-to-banning-facial-recognition-technology"
-    cdnAmpWebUrl: "https://bringmethenews-com.cdn.ampproject.org/c/s/bringmethenews.com/.amp/minnesota-news/minneapolis-a-step-closer-to-banning-facial-recognition-technology"
+  - title: "How Facial Recognition Algorithms Can Cut Out Bias"
+    excerpt: "A team has published the results of a study that evaluates the accuracy and bias in gender and skin colour of automatic face recognition algorithms tested with real world data."
+    publishedDateTime: 2021-01-26T11:52:00Z
+    webUrl: "https://www.technologynetworks.com/neuroscience/news/how-facial-recognition-algorithms-can-cut-out-bias-344899"
+    ampWebUrl: "https://www.technologynetworks.com/neuroscience/news/amp/how-facial-recognition-algorithms-can-cut-out-bias-344899"
+    cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/neuroscience/news/amp/how-facial-recognition-algorithms-can-cut-out-bias-344899"
     type: article
     provider:
-      name: Bring Me The News
-      domain: bringmethenews.com
+      name: technologynetworks.com
+      domain: technologynetworks.com
     quality: 59
     images:
-      - url: "https://bringmethenews.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTc0MzMyNDc4ODA1MjU1ODE0/minneapolis-skyline.jpg"
-        width: 620
-        height: 359
+      - url: "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/how-facial-recognition-algorithms-can-cut-out-bias-344899.jpg?v=11082843"
+        width: 640
+        height: 360
         isCached: true
-  - title: "NY civil rights advocates back facial recognition ban"
-    excerpt: "Amnesty International is calling on New York City and state officials to ban law enforcement from using facial recognition technology, saying it threatens the civil rights of “marginalized” communities."
-    publishedDateTime: 2021-01-26T21:12:00Z
-    webUrl: "https://www.stamfordadvocate.com/news/article/NY-civil-rights-advocates-back-facial-recognition-15900061.php"
-    ampWebUrl: "https://www.stamfordadvocate.com/news/amp/NY-civil-rights-advocates-back-facial-recognition-15900061.php"
-    cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/NY-civil-rights-advocates-back-facial-recognition-15900061.php"
+  - title: "Amnesty International wants to map facial recognition cameras so you can avoid them"
+    excerpt: "Several groups have launched a 'Ban the Scan' campaign to halt the use of facial recognition tech by New York's government."
+    publishedDateTime: 2021-01-26T16:29:00Z
+    webUrl: "https://www.dailydot.com/debug/facial-recognition-ban-the-scan-new-york-campaign/"
+    ampWebUrl: "https://www.dailydot.com/debug/facial-recognition-ban-the-scan-new-york-campaign/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facial-recognition-ban-the-scan-new-york-campaign/?amp"
     type: article
     provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 59
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 53
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://www.dailydot.com/wp-content/uploads/2021/01/Ban-the-Scan-Facial-Recognition-Campaign-New-York.jpg"
+        width: 5478
+        height: 2739
         isCached: true
-  - title: "Ban on facial recognition technology advances in Minneapolis"
-    excerpt: "MINNEAPOLIS (AP) - A proposal to ban the use of facial recognition technology by Minneapolis police and other city departments is advancing. The technology has raised concerns by some who worry it could be a dangerous step toward a surveillance state where people’s movements are tracked the moment they leave their homes."
-    publishedDateTime: 2021-01-24T23:02:00Z
-    webUrl: "https://www.weau.com/2021/01/24/ban-on-facial-recognition-technology-advances-in-minneapolis/"
+  - title: "How Cos. Can Comply With Portland Facial Recognition Ban"
+    excerpt: "Due to the breadth of Portland, Oregon's, recent ban on facial recognition technology, companies both within and outside the city should take several actionable steps to leverage the technology while satisfying their compliance obligations,"
+    publishedDateTime: 2021-01-22T22:58:00Z
+    webUrl: "https://www.law360.com/articles/1346906/how-cos-can-comply-with-portland-facial-recognition-ban"
+    ampWebUrl: "https://www.law360.com/amp/articles/1346906"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1346906"
     type: article
     provider:
-      name: WEAU
-      domain: weau.com
+      name: Law360
+      domain: law360.com
+    quality: 39
+  - title: "New advances in the detection of bias in face recognition algorithms"
+    excerpt: "A team from the Computer Vision Center (CVC) and the University of Barcelona has published the results of a study that evaluates the accuracy and bias in gender and skin colour of automatic face recognition algorithms tested with real world data."
+    publishedDateTime: 2021-01-25T15:39:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-01/uob-nai012521.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
     quality: 39
     images:
-      - url: "https://gray-weau-prod.cdn.arcpublishing.com/resizer/zCXcMt6FemPyR2OAR4yKMWc2efs=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/5JUAEHMN7JA3VKC7WRW3MC4ZRA.jpg"
-        width: 980
-        height: 574
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Call to Ban Facial Recognition Technology that amplifies racist policing"
-    excerpt: "We are Amnesty International UK. We are ordinary people from across the world standing up for humanity and human rights."
-    publishedDateTime: 2021-01-26T18:47:00Z
-    webUrl: "https://www.amnesty.org.uk/press-releases/call-ban-facial-recognition-technology-amplifies-racist-policing"
+  - title: "Capitol riot boosts facial recognition app"
+    excerpt: "A facial recognition app saw a large increase in use the day after rioters stormed the U.S. Capitol building in Washington, D.C. Source by: Stringr"
+    publishedDateTime: 2021-01-25T22:15:00Z
+    webUrl: "https://omaha.com/news/national/capitol-riot-boosts-facial-recognition-app/video_9ca5b88f-7e20-5e03-ab79-fa237383edb0.html"
+    ampWebUrl: "https://omaha.com/news/national/capitol-riot-boosts-facial-recognition-app/video_9ca5b88f-7e20-5e03-ab79-fa237383edb0.amp.html"
+    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/national/capitol-riot-boosts-facial-recognition-app/video_9ca5b88f-7e20-5e03-ab79-fa237383edb0.amp.html"
     type: article
     provider:
-      name: Amnesty UK
-      domain: amnesty.org.uk
+      name: Omaha.com
+      domain: omaha.com
+    quality: 39
+  - title: "New advances in the detection of bias in face recognition"
+    excerpt: "A team from the Computer Vision Center CVC and the University of Barcelona has published the results of a study that evaluates the accuracy and bias in gender"
+    publishedDateTime: 2021-01-25T16:45:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/267641987/new-advances-in-the-detection-of-bias-in-face-recognition"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 39
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1611593005.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "Capitol riot boosts facial recognition app"
+    excerpt: "A facial recognition app saw a large increase in use the day after rioters stormed the U.S. Capitol building in Washington, D.C. Source by: Stringr"
+    publishedDateTime: 2021-01-26T23:11:00Z
+    webUrl: "https://theeagle.com/news/national/capitol-riot-boosts-facial-recognition-app/video_13e00cf2-ba46-5b5b-9d05-a0a11246bcc6.html"
+    ampWebUrl: "https://theeagle.com/news/national/capitol-riot-boosts-facial-recognition-app/video_13e00cf2-ba46-5b5b-9d05-a0a11246bcc6.amp.html"
+    cdnAmpWebUrl: "https://theeagle-com.cdn.ampproject.org/c/s/theeagle.com/news/national/capitol-riot-boosts-facial-recognition-app/video_13e00cf2-ba46-5b5b-9d05-a0a11246bcc6.amp.html"
+    type: article
+    provider:
+      name: The Eagle
+      domain: theeagle.com
+    quality: 39
+  - title: "‘Ban the Scan’ - Groups call for city, state to outlaw facial recognition"
+    excerpt: "Nearly a dozen leaders and groups came together Tuesday to call on the city and state to ban government use of facial recognition technology scanning, saying that it negatively impacts people of color."
+    publishedDateTime: 2021-01-27T00:56:00Z
+    webUrl: "https://brooklyn.news12.com/ban-the-scan-groups-call-for-city-state-to-outlaw-facial-recognition"
+    type: article
+    provider:
+      name: News 12 New Jersey
+      domain: news12.com
     quality: 38
     images:
-      - url: "https://www.amnesty.org.uk/files/styles/social_share_image/s3/settings/amnesty_logo_0.jpg?qA0vtal7uIyyFfzdjtm85CBfSTsi5Vt0&itok=V8GH6KNO"
+      - url: "https://img.chdrstatic.com/media/9678d041-1c95-47ad-b9fe-9405bd80bd93.jpg?source=backend&crop=1200:675,smart&width=1200&height=675&auto=webp"
         width: 1200
-        height: 627
+        height: 675
         isCached: true
-  - title: "Proposed ban on facial recognition technology moves forward in Minneapolis"
-    excerpt: "Minneapolis is one step closer to banning police and other city departments from using facial recognition technology."
-    publishedDateTime: 2021-01-22T22:20:00Z
-    webUrl: "https://www.fox9.com/news/proposed-ban-on-facial-recognition-technology-moves-forward-in-minneapolis"
-    ampWebUrl: "https://www.fox9.com/news/proposed-ban-on-facial-recognition-technology-moves-forward-in-minneapolis.amp"
-    cdnAmpWebUrl: "https://www-fox9-com.cdn.ampproject.org/c/s/www.fox9.com/news/proposed-ban-on-facial-recognition-technology-moves-forward-in-minneapolis.amp"
-    type: article
-    provider:
-      name: Fox 9
-      domain: fox9.com
-    quality: 37
-  - title: "Ban dangerous facial recognition technology that reinforces racist police work"
-    excerpt: "Ban dangerous facial recognition technology that reinforces racist police work Amnesty International today launched a global campaign to"
-    publishedDateTime: 2021-01-26T00:51:00Z
-    webUrl: "https://www.compsmag.com/news/technology/ban-dangerous-facial-recognition-technology-that-reinforces-racist-police-work/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/ban-dangerous-facial-recognition-technology-that-reinforces-racist-police-work/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/ban-dangerous-facial-recognition-technology-that-reinforces-racist-police-work/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 35
 
 secured: "brpZMknzlPbbZgdKkbI4xhhlvGAF4jpPlDp4vfn+zGy4m/4CVrhKa6qJy+kGhoq8pYqjGGxEnrJCi5bimnzHa8/c++hQaPIWUUwnKBji8tAmeF6QUQGfiZGDTXETernUFJmnT2x9SmA4WgjJL1AiPIXH+HDFW/Ilvt1ENrnQTby8Q4WB0FE0oV35gDycAtaiqr6m3LTpDNDcDZhZlR1xHOJWvAbEd+sW0sJufeLN0QAxwzaPWSbXwNDrihyJllcZ6Kr1p2mk/0L5Afzh1rIfIWDoliOjysF1aWvcr4hTSNPG0fcA1x0ENu9iK3hZKKAfWezqr3ay1y7v40u3MH9KicfP0ekWAgq7YKWmT909nS8=;gbQqpL9mklnl9qjgDJSCwg=="
 ---

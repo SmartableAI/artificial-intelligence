@@ -6,7 +6,7 @@ publishedDateTime: 2021-01-27T07:33:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2026-2021-01-27"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2026-2021-01-27"
 type: article
-quality: 60
+quality: 79
 heat: -1
 published: false
 
@@ -22,6 +22,8 @@ topics:
   - AI in Robotics
   - AI
   - AI in Healthcare
+  - AI Hardware
+  - Machine Learning
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

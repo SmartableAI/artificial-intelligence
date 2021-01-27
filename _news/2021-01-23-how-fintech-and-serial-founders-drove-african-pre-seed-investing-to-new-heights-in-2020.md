@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/01/22/how-fintech-and-serial-founders-dr
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/22/how-fintech-and-serial-founders-drove-african-pre-seed-investing-to-new-heights-in-2020/amp/"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -40,6 +40,15 @@ related:
       name: Startups
       domain: startups.co.uk
     quality: 12
+  - title: "Growth Model of Fintech Industry and Expectations in 2021"
+    excerpt: "India is amongst the world’s fastest emerging markets for the Fintech sector. With China, India ranked at the highest in Fintech adoption rate globally. After the 2016 demonetization, the country"
+    publishedDateTime: 2021-01-27T09:04:00Z
+    webUrl: "https://www.ciol.com/growth-model-fintech-industry-expectations-2021/"
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 4
 
 secured: "y77+b2528mvBOAywWJXuXM1aNV41jsipgBK2D5nfHY8gOvMh2UM4c2lOyovo84hGZXodYst2GZ6pFcT7GVSMlXYVkYT36LXy6ttCvRtX0+o6bCqXvQWeCIlZmiR2WWLdoj0TWQBz3zxRuQNXS0yIIPU7Z/zrmRgScAZvJ2Kgxgpozq2zmKbW89noIS14e64EIA09EVn6dTQYlw4ObyShKV/L1lJJCRWnTkbYaLWy+TGOR0EeAeyvF7n7HxBVCAj34/aRAFqopjETOiXO13gk72T7QcTeClQhCVGuv65S4nqOjpQkh7Vw1xgSnVtW1fQjSAg2nHvhkIDslrETeUXPRyQ0S9c3TQy1/iEZ/uCsd4zNZLT72EgWB2bU08R3bZTWHBvY88S/S/5ju5vdt32iy94U9NZqz1vLkm92cznj12QgFUWdoAfiIfz/JxfDJosKpdOe5geTh9DYoMdlCZRDyEVn1B/9IzYtBtqVfN94f1TxyfCPomBqW5xsrHTnWgRQT2TXFpv9zAMWGasGBkGicg==;Y2RTyaKohOSk/QCfmPgkAg=="
 ---

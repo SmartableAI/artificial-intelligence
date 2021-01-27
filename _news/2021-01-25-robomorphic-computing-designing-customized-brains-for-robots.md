@@ -25,17 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Designing customized “brains” for robots | MIT News"
-    excerpt: "Modern robots can move quickly. “The engines are fast and powerful,” says Sabrina Neuman. But in complex situations, such as interactions with humans, robots often do not move quickly. “The hanging is what goes on in the robot’s head,"
-    publishedDateTime: 2021-01-24T00:42:00Z
-    webUrl: "https://www.compsmag.com/news/pc/designing-customized-brains-for-robots-mit-news/"
-    ampWebUrl: "https://www.compsmag.com/news/pc/designing-customized-brains-for-robots-mit-news/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/designing-customized-brains-for-robots-mit-news/amp/"
+  - title: "Server Computing: A Data-Intensive Market Propelled by AI"
+    excerpt: "Yole expects the server computing market to reach US$33b in 2025. AI and HPC dedicated products combined will reach 29M units and US$8B in"
+    publishedDateTime: 2021-01-27T07:10:00Z
+    webUrl: "https://www.eetindia.co.in/server-computing-a-data-intensive-market-propelled-by-ai/"
+    ampWebUrl: "https://www.eetindia.co.in/server-computing-a-data-intensive-market-propelled-by-ai/amp/"
+    cdnAmpWebUrl: "https://www-eetindia-co-in.cdn.ampproject.org/c/s/www.eetindia.co.in/server-computing-a-data-intensive-market-propelled-by-ai/amp/"
     type: article
     provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 54
+      name: eetindia.co.in
+      domain: eetindia.co.in
+    quality: 59
+    images:
+      - url: "https://www.eetindia.co.in/wp-content/uploads/sites/4/2021/01/AI_Data.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "7tMMZIfI9k3izRVqoyu3JahneJSP3FJCBXcuOpWUlnynbKNI0bQtipz5HVTvH0E47pZ9XmbClMMIs8iDEQ6DuUZJTOSyw9EJYLo8pKM2kQZiTDGvHV7BJbKlKQU5U6k83znzgbfYlG6taowR8FqJV9AEmfJHl5Z5pNClQFJcKzjwysr+27H4U27TUjamHMqSaH3yEuAF6vGunQjgGRYzOrP/FELverbxFQPtYuL/K/xExO0/5jTgjEXiUuEIQXOfuHolVXjgn+pPvtDJMCsktpxzwy/RDLmG4FYdyhcljYz+Kz1D/KdD1qaGV1bXzyiLXCXXZAN1ZnqXtYuoSfKejWidkYx8UmzfIh4Whxn1yRXSFU7EbDxYV8n1OWxkX7b3NHygwjrG8a0XxhBwxRlRBqfagbtKqeps9zuK56zpjVNUas2G5sAb/q+y3hRnXtpY03umabn8ogy7QmgVxSD5W7IX9u1ajAznqWAjGEkySN+2QurUTQQSicBCfc2BDRKWxurqNUCIEHZrfQrE4Cbf5A==;vjHRo48jaDpR/gZhDgo7Rg=="
 ---

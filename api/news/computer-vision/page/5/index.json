@@ -2,6 +2,93 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-12-15-insight-named-a-strong-performer-in-first-computer-vision-consultancies-report-by-top-independent-research.md",
+      "title": "Insight Named a Strong Performer in First Computer Vision Consultancies Report by Top Independent Research",
+      "excerpt": "--(BUSINESS WIRE)--Insight Enterprises (NASDAQ: NSIT), the global integrator of Insight Intelligent Technology Solutions™ for organizations of all sizes, has been named a strong performer in the report, The Forrester New Wave™: Computer Vision ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20201215005797/en/Insight-Named-a-Strong-Performer-in-First-Computer-Vision-Consultancies-Report-by-Top-Independent-Research",
+      "originalUrl": "https://www.businesswire.com/news/home/20201215005797/en/Insight-Named-a-Strong-Performer-in-First-Computer-Vision-Consultancies-Report-by-Top-Independent-Research",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-15T07:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-tesla-hacker-unlocks-autopilot-augmented-vision-and-its-awesome.md",
+      "title": "Tesla hacker unlocks Autopilot ‘Augmented Vision’ and it’s awesome",
+      "excerpt": "A Tesla hacker has unlocked “Autopilot Augmented Vision,” a new mode in Tesla’s autonomous driving suite, that enables to see what Autopilot can detect in real time. It’s awesome to watch. More than two years ago,",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2020/12/15/tesla-hacker-unlocks-autopilot-augmented-vision-and-its-awesome/",
+      "originalUrl": "https://electrek.co/2020/12/15/tesla-hacker-unlocks-autopilot-augmented-vision-and-its-awesome/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/12/Tesla-Autopilot-Augmeneted-vision-e1608042867540.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2020/12/15/tesla-hacker-unlocks-autopilot-augmented-vision-and-its-awesome/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/12/15/tesla-hacker-unlocks-autopilot-augmented-vision-and-its-awesome/amp/",
+      "publishedDateTime": "2020-12-15T06:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-12-15-accurate-neural-network-computer-vision-without-the-black-box.md",
       "title": "Accurate Neural Network Computer Vision Without The ‘Black Box’",
       "excerpt": "DURHAM, N.C. -- The artificial intelligence behind self-driving cars, medical image analysis and other computer vision applications relies on what’s called deep neural networks. Loosely modeled on the brain, these consist of layers of interconnected ...",
@@ -1322,93 +1409,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-05-government-to-seek-advice-on-facial-recognition-tech-laws.md",
-      "title": "Government to seek advice on facial recognition tech laws",
-      "excerpt": "A new report has raised serious concerns over a \"regulation gap\" determining how the government uses facial recognition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newshub.co.nz/home/politics/2020/12/government-to-seek-advice-on-facial-recognition-tech-laws.html",
-      "originalUrl": "https://www.newshub.co.nz/home/politics/2020/12/government-to-seek-advice-on-facial-recognition-tech-laws.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.newshub.co.nz/home/new-zealand/2020/04/coronavirus-questions-raised-over-efficiency-of-nz-s-rapid-surveillance-testing/_jcr_content/par/video/image.dynimg.768.q75.jpg/v1587108354714/getty-COVID-GENERIC-1120.jpg",
-          "width": 768,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newshub.co.nz/home/politics/2020/12/government-to-seek-advice-on-facial-recognition-tech-laws.amp.html",
-      "cdnAmpWebUrl": "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/politics/2020/12/government-to-seek-advice-on-facial-recognition-tech-laws.amp.html",
-      "publishedDateTime": "2020-12-04T10:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newshub",
-        "domain": "newshub.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-aws-panorama-bringing-computer-vision-to-business-masses.md",
-      "title": "AWS Panorama — bringing computer vision to business masses?",
-      "excerpt": "Amazon has launched new hardware and an SDK that can turn any networked camera into a computer vision device Users can deploy machine learning models to",
-      "sourceUrl": null,
-      "webUrl": "https://techwireasia.com/2020/12/aws-panorama-bringing-computer-vision-to-business-masses/",
-      "originalUrl": "https://techwireasia.com/2020/12/aws-panorama-bringing-computer-vision-to-business-masses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.techwireasia.com/wp-content/uploads/2020/12/shutterstock_180105386-450x300.png",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techwireasia.com/amp/2020/12/aws-panorama-bringing-computer-vision-to-business-masses/",
-      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2020/12/aws-panorama-bringing-computer-vision-to-business-masses/",
-      "publishedDateTime": "2020-12-03T20:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techwireasia.com",
-        "domain": "techwireasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

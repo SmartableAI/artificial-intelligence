@@ -2,6 +2,40 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-27-ban-the-scan-campaign-targets-facial-recognition-technology.md",
+      "title": "'Ban The Scan' Campaign Targets Facial Recognition Technology",
+      "excerpt": "A global campaign launched was launched Tuesday to ban facial recognition technology. Critics say it creates privacy issues and can contribute to racial profiling. CBS2's Natalie Duddridge reports.",
+      "sourceUrl": null,
+      "webUrl": "https://newyork.cbslocal.com/video/5233334-ban-the-scan-campaign-targets-facial-recognition-technology/",
+      "originalUrl": "https://newyork.cbslocal.com/video/5233334-ban-the-scan-campaign-targets-facial-recognition-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newyork.cbslocal.com/video/5233334-ban-the-scan-campaign-targets-facial-recognition-technology/amp/",
+      "cdnAmpWebUrl": "https://newyork-cbslocal-com.cdn.ampproject.org/c/s/newyork.cbslocal.com/video/5233334-ban-the-scan-campaign-targets-facial-recognition-technology/amp/",
+      "publishedDateTime": "2021-01-26T09:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS Local",
+        "domain": "cbslocal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-designing-an-electric-or-autonomous-vehicle-is-like-designing-a-smartphone.md",
       "title": "Designing An Electric Or Autonomous Vehicle Is Like Designing A Smartphone",
       "excerpt": "Smartphones require the latest technology to increase device functionality and to improve system efficiency to prolong battery life. EVs and AVs face similar challenges.",
@@ -114,7 +148,7 @@
       "originalUrl": "https://www.technologynetworks.com/neuroscience/news/how-facial-recognition-algorithms-can-cut-out-bias-344899",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -295,6 +329,49 @@
         "Computer Vision",
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-01-23-staten-island-da-draws-criticism-for-facial-recognition-use.md",
+      "title": "Staten Island DA Draws Criticism for Facial Recognition Use",
+      "excerpt": "Critics argue the technology from Clearview AI treads on basic privacy and civil rights by collecting and storing data on individuals pulled from social media and Internet channels without their knowledge or consent.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/public-safety/Staten-Island-DA-Draws-Criticism-for-Facial-Recognition-Use.html",
+      "originalUrl": "https://www.govtech.com/public-safety/Staten-Island-DA-Draws-Criticism-for-Facial-Recognition-Use.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.govtech.com/images/shutterstock_1392652700.jpg",
+          "width": 939,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/public-safety/Staten-Island-DA-Draws-Criticism-for-Facial-Recognition-Use.html?AMP",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Staten-Island-DA-Draws-Criticism-for-Facial-Recognition-Use.html?AMP",
+      "publishedDateTime": "2021-01-22T15:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -536,8 +613,8 @@
       "title": "AI in Computer Vision Technology and the Impact on Healthcare",
       "excerpt": "In this episode of Impetus Digital’s Fireside Chat, Moshe Safran, CEO at RSIP Vision USA discusses a range of topics related to computer vision, AI, and deep learning in medical imaging, surgery, and healthcare, including the work that RSIP Vision is doing in these fields.",
       "sourceUrl": null,
-      "webUrl": "https://www.pmlive.com/pmhub/pharmaceutical_branding/impetus_digital/videos/ai_in_computer_vision_technology_and_the_impact_on_healthcare",
-      "originalUrl": "https://www.pmlive.com/pmhub/pharmaceutical_branding/impetus_digital/videos/ai_in_computer_vision_technology_and_the_impact_on_healthcare",
+      "webUrl": "https://www.pmlive.com/pmhub/medical_communications/impetus_digital/videos/ai_in_computer_vision_technology_and_the_impact_on_healthcare",
+      "originalUrl": "https://www.pmlive.com/pmhub/medical_communications/impetus_digital/videos/ai_in_computer_vision_technology_and_the_impact_on_healthcare",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1333,101 +1410,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-lapd-commission-oks-detectives-to-use-facial-recognition.md",
-      "title": "LAPD Commission OKs Detectives to Use Facial Recognition",
-      "excerpt": "Under the new policy, detectives can use the facial recognition database to help them in criminal investigations, and when they need to identify incapacitated, unconscious or dead people.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/public-safety/LAPD-Commission-OKs-Detectives-to-Use-Facial-Recognition.html",
-      "originalUrl": "https://www.govtech.com/public-safety/LAPD-Commission-OKs-Detectives-to-Use-Facial-Recognition.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.govtech.com/images/shutterstock_1392652700.jpg",
-          "width": 939,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/public-safety/LAPD-Commission-OKs-Detectives-to-Use-Facial-Recognition.html?AMP",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/LAPD-Commission-OKs-Detectives-to-Use-Facial-Recognition.html?AMP",
-      "publishedDateTime": "2021-01-14T13:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-stanford-team-behind-bs-gaydar-ai-says-facial-recognition-can-expose-political-orientation.md",
-      "title": "Stanford team behind BS gaydar AI says facial recognition can expose political orientation",
-      "excerpt": "Stanford researcher Michael Kosinski, the PhD behind the infamous “Gaydar” AI, is back with another phrenology-adjacent (his team swears it’s not phrenology) bit of pseudo-scientific ridiculousness. This time,",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/01/14/stanford-team-behind-bs-gaydar-ai-says-facial-recognition-can-expose-political-orientation/",
-      "originalUrl": "https://thenextweb.com/neural/2021/01/14/stanford-team-behind-bs-gaydar-ai-says-facial-recognition-can-expose-political-orientation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/02/ugh_green-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/01/14/stanford-team-behind-bs-gaydar-ai-says-facial-recognition-can-expose-political-orientation/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/14/stanford-team-behind-bs-gaydar-ai-says-facial-recognition-can-expose-political-orientation/amp/",
-      "publishedDateTime": "2021-01-14T12:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

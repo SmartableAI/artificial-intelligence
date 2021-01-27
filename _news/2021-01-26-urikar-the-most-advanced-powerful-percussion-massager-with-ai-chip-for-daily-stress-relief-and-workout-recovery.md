@@ -1,29 +1,25 @@
 ---
 category: news
 title: "URIKAR - the Most Advanced & Powerful Percussion Massager with AI Chip for Daily Stress Relief and Workout Recovery"
-excerpt: "Percussion massage guns have truly become more and more popular in the past year. As a home massage tool, it is a super useful innovation, especially in this difficult COVID-19 period. If you haven’t yet jumped in on the trend,"
-publishedDateTime: 2021-01-26T14:43:00Z
-originalUrl: "https://apnews.com/press-release/pr-com/lifestyle-diet-and-exercise-exercise-ace576e3331cb0fea0f5d7f6ba60c2cf"
-webUrl: "https://apnews.com/press-release/pr-com/lifestyle-diet-and-exercise-exercise-ace576e3331cb0fea0f5d7f6ba60c2cf"
+excerpt: "Percussion massage guns have truly become more and more popular in the past year. As a home massage tool, it is a super"
+publishedDateTime: 2021-01-26T14:26:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/01/r19321907/urikar-the-most-advanced-powerful-percussion-massager-with-ai-chip-for-daily-stress-relief-and-wor"
+webUrl: "https://www.benzinga.com/pressreleases/21/01/r19321907/urikar-the-most-advanced-powerful-percussion-massager-with-ai-chip-for-daily-stress-relief-and-wor"
+ampWebUrl: "https://amp.benzinga.com/amp/content/19321907"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19321907"
 type: article
 quality: 32
 heat: 32
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "sES4SnmO31st0l8qd/F97l03q1mp4iNS2Ulz2g5ba7Y2hBiNemlRKVRC5xGwj9eY6HdUnwV/JSE2R+RzE1GmRLQaV1QxS+tqPQB8wq25rfbjy//g4akedt+h3aK+hNyl0uyMYR7Y/fXhCuodPzpY/s/aD6QvPEYS3NztcBPzboWLjUaPySnLTW9Hi4bcltScl0hAr9coLojMrSHL4IuPFxzczmbYB2UUeH2H5kLwR442CJuPmr6GVuSJ6xqS52w7bLAdNY1YMs5Tl47du/3hL4d0D6e/IcNL2G6BzeoOiDZ2j4wftIgkU2GNBUKi8KH17Lgulep2+BrCaxPR6g3qUaX1lqSTpDLLGerdIe4f6nI=;a3aHiwOeAW8iMGhxgqJpFg=="
+secured: "g7YKqdvtn+sKzLXUOVKl6rpPIdsN2BjpCluuLpWT5kNM3Yh1AJD3mRS8Lz522dZ6hYO3P5KkKIA52K3aP82Pzb+CjNha5z5P+t+RCOQ0rOoT4OwcUPNUI4HapfsDMsMNGDKBcot1jEjZik1U8C9AAhw4fxxSICxzHDonqlS1LRrOgJ2hVGZ7CSgiBR4kVW8O8W6SZIT2qBWKJMaEzbiJsZPm07pk+jBaFvDqiaKiY8f9/8jC4ENTFUe2UiFmPdc8GPqoGWo6omjKABA4Enveey9VYaRR/IqOR8P30zIR83h1nZCmDlv9NgMRSDDYO7g8ORjS/jEQzol2z0MVUX/+k6t0ONwOG0NX3XQeRk58UDE=;qq2kf2fPewcqONos4cbEIQ=="
 ---
 

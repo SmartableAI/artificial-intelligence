@@ -2,6 +2,109 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-26-artificial-intelligence-at-the-service-of-talent-selection.md",
+      "title": "Artificial intelligence at the service of talent selection",
+      "excerpt": "They present Hitch, the startup that through artificial intelligence and machine learning helps companies find the talent most compatible with their organizational culture.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/364141",
+      "originalUrl": "https://www.entrepreneur.com/article/364141",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1611623001-Hitch.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/364141",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/364141",
+      "publishedDateTime": "2021-01-26T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-digital-trends-2021-responsible-business-puts-trust-ethics-and-sustainability-first.md",
+      "title": "Digital Trends 2021: Responsible Business Puts Trust, Ethics, And Sustainability First",
+      "excerpt": "This year’s digital technology predictions from industry analysts reveal trending people-centric exigencies for brand trust, ethical responsibility, and sustainability.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sap/2021/01/26/digital-trends-2021-responsible-business-puts-trust-ethics-and-sustainability-first/",
+      "originalUrl": "https://www.forbes.com/sites/sap/2021/01/26/digital-trends-2021-responsible-business-puts-trust-ethics-and-sustainability-first/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60083ee55458cfa2224d06ea%2F0x0.jpg",
+          "width": 1200,
+          "height": 649,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sap/2021/01/26/digital-trends-2021-responsible-business-puts-trust-ethics-and-sustainability-first/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2021/01/26/digital-trends-2021-responsible-business-puts-trust-ethics-and-sustainability-first/amp/",
+      "publishedDateTime": "2021-01-26T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-nvidia-geforce-rtx-3080-mobile-review-the-fastest-laptop-gpu-just-arrived.md",
       "title": "Nvidia GeForce RTX 3080 mobile review: The fastest laptop GPU just arrived",
       "excerpt": "Nvidia’s new GeForce RTX 30-series laptops offer very impressive graphics performance, even compared to some of the biggest and heaviest laptops around.",
@@ -426,7 +529,7 @@
       "originalUrl": "https://www.technologynetworks.com/neuroscience/news/how-facial-recognition-algorithms-can-cut-out-bias-344899",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -865,7 +968,7 @@
       "originalUrl": "https://venturebeat.com/2021/01/25/researchers-propose-leaf-a-frontend-for-developing-ai-classification-algorithms/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -1160,109 +1263,6 @@
         "AI",
         "AWS AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-model-serving-made-easier-with-deep-java-library-and-aws-lambda.md",
-      "title": "Model serving made easier with Deep Java Library and AWS Lambda",
-      "excerpt": "Developing and deploying&nbsp;a deep learning model involves&nbsp;many steps: gathering and cleansing data, designing the model, fine-tuning model parameters, evaluating the results, and going through it again until a desirable result is achieved. Then comes the final step: deploying the model. AWS Lambda&nbsp;is",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/model-serving-made-easier-with-deep-java-library-and-aws-lambda/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/model-serving-made-easier-with-deep-java-library-and-aws-lambda/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/06/1-Graph.jpg",
-          "width": 814,
-          "height": 546,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-25T10:35:41-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-can-we-trust-ai-when-ai-asks-for-human-help-part-one.md",
-      "title": "Can We Trust AI? When AI Asks For Human Help (Part One)",
-      "excerpt": "Making AI more 'humble' could not only help improve AI decision making, but could also help inspire more trust in the technology as a whole, and open the door for more useful and mission-critical applications in the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/charlestowersclark/2021/01/25/can-we-trust-ai-when-ai-asks-for-human-help-part-one/",
-      "originalUrl": "https://www.forbes.com/sites/charlestowersclark/2021/01/25/can-we-trust-ai-when-ai-asks-for-human-help-part-one/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600f03a4df133cabc007eb45%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/charlestowersclark/2021/01/25/can-we-trust-ai-when-ai-asks-for-human-help-part-one/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charlestowersclark/2021/01/25/can-we-trust-ai-when-ai-asks-for-human-help-part-one/amp/",
-      "publishedDateTime": "2021-01-25T09:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

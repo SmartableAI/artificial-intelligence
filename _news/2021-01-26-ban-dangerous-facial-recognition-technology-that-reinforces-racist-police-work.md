@@ -21,44 +21,12 @@ topics:
   - AI
 
 related:
-  - title: "Minneapolis a step closer to banning facial recognition technology"
-    excerpt: "There are concerns about it leading to a surveillance state, and that it could harm disadvantaged communities."
-    publishedDateTime: 2021-01-22T17:31:00Z
-    webUrl: "https://bringmethenews.com/minnesota-news/minneapolis-a-step-closer-to-banning-facial-recognition-technology"
-    ampWebUrl: "https://bringmethenews.com/.amp/minnesota-news/minneapolis-a-step-closer-to-banning-facial-recognition-technology"
-    cdnAmpWebUrl: "https://bringmethenews-com.cdn.ampproject.org/c/s/bringmethenews.com/.amp/minnesota-news/minneapolis-a-step-closer-to-banning-facial-recognition-technology"
-    type: article
-    provider:
-      name: Bring Me The News
-      domain: bringmethenews.com
-    quality: 59
-    images:
-      - url: "https://bringmethenews.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTc0MzMyNDc4ODA1MjU1ODE0/minneapolis-skyline.jpg"
-        width: 620
-        height: 359
-        isCached: true
-  - title: "NY civil rights advocates back facial recognition ban"
-    excerpt: "Amnesty International is calling on New York City and state officials to ban law enforcement from using facial recognition technology, saying it threatens the civil rights of “marginalized” communities."
-    publishedDateTime: 2021-01-26T21:12:00Z
-    webUrl: "https://www.stamfordadvocate.com/news/article/NY-civil-rights-advocates-back-facial-recognition-15900061.php"
-    ampWebUrl: "https://www.stamfordadvocate.com/news/amp/NY-civil-rights-advocates-back-facial-recognition-15900061.php"
-    cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/NY-civil-rights-advocates-back-facial-recognition-15900061.php"
-    type: article
-    provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 59
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
-  - title: "Global Campaign Urges Ban On Facial Recognition Technology"
-    excerpt: "A global campaign to ban facial recognition technology launched Tuesday. Critics say the technology creates privacy issues and can contribute to racial profiling; CBS2's Natalie Duddridge reports."
-    publishedDateTime: 2021-01-26T23:13:00Z
-    webUrl: "https://newyork.cbslocal.com/video/5234510-global-campaign-urges-ban-on-facial-recognition-technology/"
-    ampWebUrl: "https://newyork.cbslocal.com/video/5234510-global-campaign-urges-ban-on-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://newyork-cbslocal-com.cdn.ampproject.org/c/s/newyork.cbslocal.com/video/5234510-global-campaign-urges-ban-on-facial-recognition-technology/amp/"
+  - title: "'Ban The Scan' Campaign Targets Facial Recognition Technology"
+    excerpt: "A global campaign launched was launched Tuesday to ban facial recognition technology. Critics say it creates privacy issues and can contribute to racial profiling. CBS2's Natalie Duddridge reports."
+    publishedDateTime: 2021-01-26T17:45:00Z
+    webUrl: "https://newyork.cbslocal.com/video/5233334-ban-the-scan-campaign-targets-facial-recognition-technology/"
+    ampWebUrl: "https://newyork.cbslocal.com/video/5233334-ban-the-scan-campaign-targets-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://newyork-cbslocal-com.cdn.ampproject.org/c/s/newyork.cbslocal.com/video/5233334-ban-the-scan-campaign-targets-facial-recognition-technology/amp/"
     type: article
     provider:
       name: CBS Local
@@ -103,6 +71,17 @@ related:
       name: Fox 9
       domain: fox9.com
     quality: 37
+  - title: "Critics of facial recognition Technology Target NYC and the state with the ‘Ban The Scan’ – CBS New York campaign"
+    excerpt: "Critics of facial recognition Technology Target NYC and the state with the 'Ban The Scan' - CBS New York campaign NEW YORK (CBSNewYork) -"
+    publishedDateTime: 2021-01-26T18:41:00Z
+    webUrl: "https://www.compsmag.com/news/technology/critics-of-facial-recognition-technology-target-nyc-and-the-state-with-the-ban-the-scan-cbs-new-york-campaign/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/critics-of-facial-recognition-technology-target-nyc-and-the-state-with-the-ban-the-scan-cbs-new-york-campaign/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/critics-of-facial-recognition-technology-target-nyc-and-the-state-with-the-ban-the-scan-cbs-new-york-campaign/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 33
 
 secured: "WeDn4COmybqxSMC0iTkB7rbGeEe9K1huhYbarPp+/hos1Wu1CYFrGo3GOfrWWCT8v6UNDt2xXaz+WDpjnj8gP8tO/KOoR9Z8LbHywMB9qTGxQVHKzUjI9n5+i69X2xo5f6fzQbLtxJscrs53qVe5GG3jC4Ukpseb4tuUUqv4pKSj4pZc2TB6BjYOEoG8UTJddNW9HJqNwNpTxxNgAFjqty0Cx9MbNJBreG5vFakIwEMQjSS6cRYvKtG7pENadqPGwo+XZWDZyreLt31gWJI2z6hVpgV96F2qV/ytFc8peYyGYDKxXYCtiSa2BOWFaxh9wATDld52WKhWOX2+V+jC46DaCHmqQ/8ROamJ1pl+u9khT1bQgfDpdj7OLSqF3tzpYdrHvSiD+r/BnUgBWbSz6uqQMhPXKXcAORs/1gDn6GjUM712G6Xq5AzrRhJ3pJijsnRlAefYjWQ3hXgJA3k6r+A3Ksq6j02OIbG5AIq9xqGvXg0yDU8oZHi5vVCcytyAh8hZqdJd5f+8qNOdqhA9fg==;EhsIuqwRLdLMTlD1ygE1aA=="
 ---

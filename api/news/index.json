@@ -53,6 +53,48 @@
       ]
     },
     {
+      "path": "_news/2021-01-27-opencv-opens-400000-contest-to-solve-real-world-problems-with-spatial-ai.md",
+      "title": "OpenCV opens $400,000 contest to solve real-world problems with spatial AI",
+      "excerpt": "A global contest aims to spark computer vision solutions to actual problems, and promises teams free camera hardware and Azure services.Read",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/opencv-opens-$400-000-contest-to-solve-real-world-problems-with-spatial-ai-9735871",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/opencv-opens-$400-000-contest-to-solve-real-world-problems-with-spatial-ai-9735871",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/opencv-opens-$400-000-contest-to-solve-real-world-problems-with-spatial-ai-9735871",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/opencv-opens-$400-000-contest-to-solve-real-world-problems-with-spatial-ai-9735871",
+      "publishedDateTime": "2021-01-26T22:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-27-new-machine-learning-tool-predicts-schizophrenia.md",
       "title": "New machine learning tool predicts schizophrenia",
       "excerpt": "University of Alberta researchers have taken another step forward in developing an artificial intelligence tool to predict schizophrenia by analyzing brain scans.",
@@ -515,7 +557,7 @@
       "originalUrl": "https://www.techrepublic.com/resource-library/whitepapers/dell-precision-workstations-for-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -545,6 +587,40 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-ban-the-scan-campaign-targets-facial-recognition-technology.md",
+      "title": "'Ban The Scan' Campaign Targets Facial Recognition Technology",
+      "excerpt": "A global campaign launched was launched Tuesday to ban facial recognition technology. Critics say it creates privacy issues and can contribute to racial profiling. CBS2's Natalie Duddridge reports.",
+      "sourceUrl": null,
+      "webUrl": "https://newyork.cbslocal.com/video/5233334-ban-the-scan-campaign-targets-facial-recognition-technology/",
+      "originalUrl": "https://newyork.cbslocal.com/video/5233334-ban-the-scan-campaign-targets-facial-recognition-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newyork.cbslocal.com/video/5233334-ban-the-scan-campaign-targets-facial-recognition-technology/amp/",
+      "cdnAmpWebUrl": "https://newyork-cbslocal-com.cdn.ampproject.org/c/s/newyork.cbslocal.com/video/5233334-ban-the-scan-campaign-targets-facial-recognition-technology/amp/",
+      "publishedDateTime": "2021-01-26T09:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS Local",
+        "domain": "cbslocal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -601,38 +677,29 @@
       ]
     },
     {
-      "path": "_news/2021-01-27-opencv-opens-400000-contest-to-solve-real-world-problems-with-spatial-ai.md",
-      "title": "OpenCV opens $400,000 contest to solve real-world problems with spatial AI",
-      "excerpt": "A global contest aims to spark computer vision solutions to actual problems, and promises teams free camera hardware and Azure services.",
+      "path": "_news/2021-01-27-global-military-robots-market-to-2026-intelligence-surveillance-and-reconnaissance-isr-segment-is-expected-to-lead-the-market.md",
+      "title": "Global Military Robots Market to 2026: Intelligence, Surveillance, and Reconnaissance (ISR) Segment is Expected to Lead the Market",
+      "excerpt": "The \"Global Military Robots Market Analysis 2020\" report has been added to ResearchAndMarkets.com's offering. The Global Military Robots market is expected to reach $29.87 billion by 2026 growing at a CAGR of 12.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/26/opencv-opens-400000-contest-to-solve-real-world-problems-with-spatial-ai/",
-      "originalUrl": "https://venturebeat.com/2021/01/26/opencv-opens-400000-contest-to-solve-real-world-problems-with-spatial-ai/",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/global-military-robots-market-to-2026-intelligence-surveillance-and-reconnaissance-isr-segment-is-expected-to-lead-the-market-1030005786",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/global-military-robots-market-to-2026-intelligence-surveillance-and-reconnaissance-isr-segment-is-expected-to-lead-the-market-1030005786",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 74,
       "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/opencvai.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/26/opencv-opens-400000-contest-to-solve-real-world-problems-with-spatial-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/26/opencv-opens-400000-contest-to-solve-real-world-problems-with-spatial-ai/amp/",
-      "publishedDateTime": "2021-01-26T08:21:00-08:00",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/global-military-robots-market-to-2026-intelligence-surveillance-and-reconnaissance-isr-segment-is-expected-to-lead-the-market-1030005786",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-military-robots-market-to-2026-intelligence-surveillance-and-reconnaissance-isr-segment-is-expected-to-lead-the-market-1030005786",
+      "publishedDateTime": "2021-01-26T09:21:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -648,9 +715,8 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
-        "AI",
-        "Google AI"
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -709,8 +775,8 @@
       "title": "Looking for free cloud training? Check out the AWS Dev Hour on Twitch and learn to build an app",
       "excerpt": "Expert trainers will build a full stack application in the AWS cloud using the AWS Free Tier during the new eight-week show.",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/looking-for-free-cloud-training-check-out-the-aws-dev-hour-on-twitch-and-learn-to-build-an-app/",
-      "originalUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/looking-for-free-cloud-training-check-out-the-aws-dev-hour-on-twitch-and-learn-to-build-an-app/",
+      "webUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/looking-for-free-cloud-training-check-out-the-aws-dev-hour-on-twitch-and-learn-to-build-an-app/",
+      "originalUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/looking-for-free-cloud-training-check-out-the-aws-dev-hour-on-twitch-and-learn-to-build-an-app/",
       "featuredContent": null,
       "highlight": null,
       "heat": 104,
@@ -727,8 +793,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/looking-for-free-cloud-training-check-out-the-aws-dev-hour-on-twitch-and-learn-to-build-an-app/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/looking-for-free-cloud-training-check-out-the-aws-dev-hour-on-twitch-and-learn-to-build-an-app/",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/looking-for-free-cloud-training-check-out-the-aws-dev-hour-on-twitch-and-learn-to-build-an-app/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/looking-for-free-cloud-training-check-out-the-aws-dev-hour-on-twitch-and-learn-to-build-an-app/",
       "publishedDateTime": "2021-01-26T08:11:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -1160,109 +1226,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-artificial-intelligence-at-the-service-of-talent-selection.md",
-      "title": "Artificial intelligence at the service of talent selection",
-      "excerpt": "They present Hitch, the startup that through artificial intelligence and machine learning helps companies find the talent most compatible with their organizational culture.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/364141",
-      "originalUrl": "https://www.entrepreneur.com/article/364141",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1611623001-Hitch.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/364141",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/364141",
-      "publishedDateTime": "2021-01-26T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-digital-trends-2021-responsible-business-puts-trust-ethics-and-sustainability-first.md",
-      "title": "Digital Trends 2021: Responsible Business Puts Trust, Ethics, And Sustainability First",
-      "excerpt": "This year’s digital technology predictions from industry analysts reveal trending people-centric exigencies for brand trust, ethical responsibility, and sustainability.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sap/2021/01/26/digital-trends-2021-responsible-business-puts-trust-ethics-and-sustainability-first/",
-      "originalUrl": "https://www.forbes.com/sites/sap/2021/01/26/digital-trends-2021-responsible-business-puts-trust-ethics-and-sustainability-first/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60083ee55458cfa2224d06ea%2F0x0.jpg",
-          "width": 1200,
-          "height": 649,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sap/2021/01/26/digital-trends-2021-responsible-business-puts-trust-ethics-and-sustainability-first/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2021/01/26/digital-trends-2021-responsible-business-puts-trust-ethics-and-sustainability-first/amp/",
-      "publishedDateTime": "2021-01-26T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

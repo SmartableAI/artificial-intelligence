@@ -43,6 +43,17 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Global Campaign Urges Ban On Facial Recognition Technology"
+    excerpt: "A global campaign to ban facial recognition technology launched Tuesday. Critics say the technology creates privacy issues and can contribute to racial profiling; CBS2's Natalie Duddridge reports."
+    publishedDateTime: 2021-01-26T23:13:00Z
+    webUrl: "https://newyork.cbslocal.com/video/5234510-global-campaign-urges-ban-on-facial-recognition-technology/"
+    ampWebUrl: "https://newyork.cbslocal.com/video/5234510-global-campaign-urges-ban-on-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://newyork-cbslocal-com.cdn.ampproject.org/c/s/newyork.cbslocal.com/video/5234510-global-campaign-urges-ban-on-facial-recognition-technology/amp/"
+    type: article
+    provider:
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 54
   - title: "How Cos. Can Comply With Portland Facial Recognition Ban"
     excerpt: "Due to the breadth of Portland, Oregon's, recent ban on facial recognition technology, companies both within and outside the city should take several actionable steps to leverage the technology while satisfying their compliance obligations,"
     publishedDateTime: 2021-01-22T22:58:00Z
@@ -105,12 +116,12 @@ related:
       domain: theeagle.com
     quality: 39
   - title: "‘Ban the Scan’ - Groups call for city, state to outlaw facial recognition"
-    excerpt: "Nearly a dozen leaders and groups came together Tuesday to call on the city and state to ban government use of facial recognition technology scanning, saying that it negatively impacts people of ..."
-    publishedDateTime: 2021-01-27T01:34:00Z
-    webUrl: "https://newjersey.news12.com/ban-the-scan-groups-call-for-city-state-to-outlaw-facial-recognition"
+    excerpt: "Nearly a dozen leaders and groups came together Tuesday to call on the city and state to ban government use of facial recognition technology scanning, saying that it negatively impacts people of color."
+    publishedDateTime: 2021-01-27T00:56:00Z
+    webUrl: "https://brooklyn.news12.com/ban-the-scan-groups-call-for-city-state-to-outlaw-facial-recognition"
     type: article
     provider:
-      name: News 12 Networks
+      name: News 12 New Jersey
       domain: news12.com
     quality: 38
     images:
