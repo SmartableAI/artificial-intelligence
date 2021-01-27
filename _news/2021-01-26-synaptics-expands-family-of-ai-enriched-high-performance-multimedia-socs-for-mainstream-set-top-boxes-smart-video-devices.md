@@ -49,6 +49,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Synaptics expands family of AI-enriched multimedia SoCs for mainstream STBs, smart video devices"
+    excerpt: "Synaptics has announced customer sampling of its VideoSmart VS640, a next generation edge computing SoC that is AI-enriched for emerging set-top boxes, streaming OTT devices, video soundbars and smart displays."
+    publishedDateTime: 2021-01-27T14:08:00Z
+    webUrl: "https://www.telecompaper.com/news/synaptics-expands-family-of-ai-enriched-multimedia-socs-for-mainstream-stbs-smart-video-devices--1370157"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 8
 
 secured: "eR2QtEcxpml3AW4njwKit82lSjF/6m6MPbnxippomWCKVNtC4Ox9bbT04ysZQWa997fBqwqkZvAwLikRkOfCy032pIM4Bn6jUc5x6thXk59GOGjnpyGKn93BbUvV+jF0oNMB7bZ18wQVp7BqYtrqoUKCKioWJt1yHO13SbWAwKMGpM8Dx0Wtk8PvymWO0UZAvW2PPziZ+DaotBMhCPwigF5FRyDrK/wTsVYg8GrQnqOuCt5faIx2CLVGYRx499XlnT4bMT5Bsv2ID0Paa/QX5KzLkCIkAA2cAMwIM5pDlT1KT4p9pphfNsNZBpc5NGdvpRzzAGe5aQA7BMsqhiXSlLstbLzsY4pGNRlzGVkzbI4=;G9vfSGcW2RDMzeZo7353fg=="
 ---

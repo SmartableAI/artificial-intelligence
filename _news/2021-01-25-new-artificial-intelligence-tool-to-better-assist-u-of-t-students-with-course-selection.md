@@ -24,35 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon plans to overhaul film age classification with new AI system"
-    excerpt: "Amazon is exploring developing an artificial intelligence (AI) system that automatically assigns age ratings to films and television shows, eliminating the need for human checks. A patent application filed by the US e-commerce business this month shows that Amazon has invented a way to scan films using a form of AI that could explain to people about to stream a film how much sexual content,"
-    publishedDateTime: 2021-01-24T06:00:00Z
-    webUrl: "https://www.telegraph.co.uk/technology/2021/01/24/amazon-plans-overhaul-film-age-classification-new-ai-system/"
-    ampWebUrl: "https://www.telegraph.co.uk/technology/2021/01/24/amazon-plans-overhaul-film-age-classification-new-ai-system/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2021/01/24/amazon-plans-overhaul-film-age-classification-new-ai-system/amp/"
+  - title: "14 Ways To Better Leverage AI To Connect With Consumers"
+    excerpt: "Of the many ways businesses use artificial intelligence, leveraging it to connect with consumers is one that can generate great results for marketers."
+    publishedDateTime: 2021-01-27T13:10:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2021/01/27/14-ways-to-better-leverage-ai-to-connect-with-consumers/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2021/01/27/14-ways-to-better-leverage-ai-to-connect-with-consumers/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2021/01/27/14-ways-to-better-leverage-ai-to-connect-with-consumers/amp/"
     type: article
     provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.telegraph.co.uk/content/dam/technology/2020/10/09/TELEMMGLPICT000195076254_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg"
-        width: 2501
-        height: 1563
-        isCached: true
-  - title: "How AI vision systems can succeed with human input"
-    excerpt: "A recent survey by Landing AI and the Association of Advancing Manufacturing (A3) shows that 26% of manufacturing businesses currently use AI for visual inspection—a number that should grow in the near future."
-    publishedDateTime: 2021-01-27T11:32:00Z
-    webUrl: "https://www.vision-systems.com/boards-software/article/14189750/how-ai-vision-systems-can-succeed-with-human-input"
-    type: article
-    provider:
-      name: Vision Systems Design
-      domain: vision-systems.com
-    quality: 37
-    images:
-      - url: "https://img.vision-systems.com/files/base/ebm/vsd/image/2021/01/machine_vision_model_deployed_by_ai.5ff377281d8f2.png?auto=format&fit=max&w=1200"
-        width: 720
-        height: 405
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60088a1498ae48aaf875d057%2F0x0.jpg"
+        width: 1200
+        height: 819
         isCached: true
 
 secured: "0STrcfcw33o2wPnIEUMN+JZMikvvtNSRkQSvvLNStLSiMRmbmOtDd7DSjWhk9T68e8/TqK1PLU3c6Oi49KBvAEn5wkNneQbCBHODAxILafUVomnEIendq7wE4U5dRUswlG1HL3lzGR88IkiNjpVAR9cfocmxUQM0uXGjd/KycY6Wp/ZjgY1hEjUSjgvx0A/SmSq1WSmiwfLRsxqlURg6oo+PDkgRdanJqCF5+HqOaJeO2hZO7zovGRnTComXU1aIXsFVt7jBy0cGU799syyC+HiQEJQqd1Er8myCRbU0Od7/+ChPcHjDH10/G9BA/POi3Ir+S5jHHB26qTlzyWJTKc+0RsM6fjMjAbNfKCkNbZc=;kp+6C3pasmdLA+Qa0LOEnQ=="

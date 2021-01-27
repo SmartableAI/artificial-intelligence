@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Five Russian Companies to Pitch at UN's AI for Good Summit"
-excerpt: "Five Russian startup companies, four of which are Skolkovo Foundation residents involved in Sk[ai]HUB, will pitch their"
-publishedDateTime: 2021-01-27T12:30:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/01/n19341169/five-russian-companies-to-pitch-at-uns-ai-for-good-summit"
-webUrl: "https://www.benzinga.com/pressreleases/21/01/n19341169/five-russian-companies-to-pitch-at-uns-ai-for-good-summit"
-ampWebUrl: "https://amp.benzinga.com/amp/content/19341169"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19341169"
+excerpt: "Five Russian startup companies, four of which are Skolkovo Foundation residents involved in Sk[ai]HUB, will pitch their AI-based sustainable solutions at the Russian track of the AI for Good Global Summit on Wednesday,"
+publishedDateTime: 2021-01-27T12:39:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/five-russian-companies-to-pitch-at-un-s-ai-for-good-summit-1030009211"
+webUrl: "https://markets.businessinsider.com/news/stocks/five-russian-companies-to-pitch-at-un-s-ai-for-good-summit-1030009211"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/five-russian-companies-to-pitch-at-un-s-ai-for-good-summit-1030009211"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/five-russian-companies-to-pitch-at-un-s-ai-for-good-summit-1030009211"
 type: article
-quality: 37
-heat: 37
+quality: 67
+heat: 67
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
-secured: "th1UDc2fbQfhE086lAnoCkrCgkZZWtc/Mw4zqn5cLJ1CV7z4KhDZdfnmUKR/usgniwnfi6jv1RQvHI/bStlSarIBOzbVumkTYGl74GpAHyYoXUi3zJRbae7NLJasGnlLQlcQUsDomeQySeFXWjIouc01ukigHV2BxlMyT+R/edjHLQCN4Q86cKHay7rF9ZU3PnFbE/BFneeLikDe/nGSucyCSuZsd8LUSAQsnv/2ORrwWv+yUQNg+oPUM5WOCp86lU9lRyr5ENOeT4iMeR0kBjI93LhcqawarD7HoywjKOXcjDn2R7QPZZ02kmkWr/3YLC2BPQVU7mdNrPN8nkm3KF2Z+cdTpDYG7HIfTVr/2mA=;atEbh0wcNZ9K/h7nYiNq3w=="
+secured: "VjZ+lnGQX0nC+CMRAdDz+HJUj6K8XQRMa/fnxunfmBTQRVt/mMv7i+WE8TZkmk2/HXT974nzAV4LqF50s2G5/6cHE+ZAcy7tqOxDMhSi+D7RCHDUIF3draGtCrwdMt5UWLfS0FYx+cufv4mCGS20eJUTyB0IxJqjUYq4VvBXbXrPaPGhfG11C9GTYJG3WiQC4ilx8gmx4EJi3GYYEJKjUd5M9pqRpjzw6P76LFQTU9CorffjcUeHmwJ9JQEIi1rcB6um1VPiMwf5zhXGHekvT30HV9MPOkJuTIq+nR8addC4+6/C/UukThoBQ7J5J/B8YMa4R15LO0AsR4O0EIkxC05TWXxzCl5NPPojOqRSC2w=;J9aN8+Vx3GS6ft4a8UeYbA=="
 ---
 

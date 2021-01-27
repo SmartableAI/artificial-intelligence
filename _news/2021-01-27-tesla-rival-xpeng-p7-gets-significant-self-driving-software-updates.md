@@ -31,47 +31,22 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla partners with Samsung on new 5nm chip for full self-driving, report says"
-    excerpt: "Tesla has reportedly partnered with Samsung on a new 5nm chip for full self-driving, according to a new report coming from Korea. Tesla moves to design its own chips Back in 2016, Tesla started building a team of chip architects led by legendary chip designer Jim Keller to develop its own silicon."
-    publishedDateTime: 2021-01-25T13:51:00Z
-    webUrl: "https://electrek.co/2021/01/25/tesla-partners-samsung-new-5nm-chip-full-self-driving-report/"
-    ampWebUrl: "https://electrek.co/2021/01/25/tesla-partners-samsung-new-5nm-chip-full-self-driving-report/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/01/25/tesla-partners-samsung-new-5nm-chip-full-self-driving-report/amp/"
+  - title: "Chinese electric carmaker Xpeng rolls out autonomous highway driving features in challenge to Tesla"
+    excerpt: "Xpeng Motors' Navigation Guided Pilot or NGP is rolling out to eligible customers of its P7 sedan in a challenge to Tesla's own software."
+    publishedDateTime: 2021-01-26T05:40:38Z
+    webUrl: "https://www.cnbc.com/2021/01/26/xpeng-rolls-out-autonomous-driving-features-in-challenge-to-tesla.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/01/26/xpeng-rolls-out-autonomous-driving-features-in-challenge-to-tesla.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/26/xpeng-rolls-out-autonomous-driving-features-in-challenge-to-tesla.html"
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 102
+      name: com/2021/01/26/xpeng-rolls-out-autonomous-driving-features-in-challenge-to-tesla.html
+      domain: com/2021/01/26/xpeng-rolls-out-autonomous-driving-features-in-challenge-to-tesla.html
+    quality: 145
     images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2019/04/Screen-Shot-2019-04-22-at-2.48.22-PM-1-e1555961353311.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
+      - url: "https://image.cnbcfm.com/api/v1/image/106720636-1601341909516-Image_from_iOS_4.jpg?v=1601342118&w=720&h=405"
+        width: 720
+        height: 405
         isCached: true
-  - title: "The Samsung Exynos platform for Tesla self-driving cars is to upgrade to 5nm: new report"
-    excerpt: "Samsung has partnered with Tesla to supply its cars with processors for their \"auto-pilot\" functions in the past, although the silicon in question has come from 14 nanometer (nm) process nodes. However,"
-    publishedDateTime: 2021-01-25T23:36:00Z
-    webUrl: "https://www.notebookcheck.net/The-Samsung-Exynos-platform-for-Tesla-self-driving-cars-is-to-upgrade-to-5nm-new-report.516984.0.html"
-    type: article
-    provider:
-      name: NotebookCheck
-      domain: notebookcheck.net
-    quality: 30
-    images:
-      - url: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/2019010308365557008_1546472215.jpg"
-        width: 745
-        height: 355
-        isCached: true
-  - title: "ATB Ventures focusing on digital identity, removing bias from artificial intelligence, creating key partnerships"
-    excerpt: "CALGARY, AB, Jan. 25, 2021 /CNW/ - ATB Ventures is helping Alberta foster innovation through advancements in digital identity and removing bias from artificial intelligence. ATB Financial's innovation lab is building, investing and partnering with ..."
-    publishedDateTime: 2021-01-25T19:05:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/n19306126/atb-ventures-focusing-on-digital-identity-removing-bias-from-artificial-intelligence-creating-key-"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19306126"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19306126"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 16
 
 secured: "AcpW2WS7hpi15ZyESqwcv0LnYdin+paUu/S8AMoL5btr5RqFXz6FHWcI04uPr0emlcud8EKo2ijF+XQ4IhJrMnh/WKjhoKloAhiI9FL9cV+/qvXvMcnFB/aYiQu7Mb9DxdHj8qwxXdob72bdy7td4fz5T25fKqS/GGWe5k5aILv81Xl+C03TPWViGQrzeeHto57Jd9AHQua+4TrH96G0kzqplayOYiDWr+6ysLs5aHF/5OqzSKZQcOlv7ElH8GsnO4PtvSLSGA21d+G8wSxhQKHi6KB24Ek03LDGtbJTGGPtTySRkjFfgUnxYqcpfE8ATa5aNCQerQGXXRVtT9YldIm3dJG7+Wfd2QCaEyZR6JseqQYHj51LLKtO3eQM3cW5Q19MCQbuQurCpx89wVQAb0qkrTg+3Gkbxm2QN3foAGeIkttK2dqhevuZIb7yX2oM2SFa89NggqNcb1bOqHIiZPI3eZg34FIZ7VSVmZsd/JPs1Zr2McSKP/IS4nE0NErxx7kbdlQ4wgD0qS2UxgyBzA==;7xnkR6vB0KZDys42qLD/uA=="
 ---

@@ -55,6 +55,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 13
+  - title: "Synaptics expands family of AI-enriched multimedia SoCs for mainstream STBs, smart video devices"
+    excerpt: "Synaptics has announced customer sampling of its VideoSmart VS640, a next generation edge computing SoC that is AI-enriched for emerging set-top boxes, streaming OTT devices, video soundbars and smart displays."
+    publishedDateTime: 2021-01-27T14:08:00Z
+    webUrl: "https://www.telecompaper.com/news/synaptics-expands-family-of-ai-enriched-multimedia-socs-for-mainstream-stbs-smart-video-devices--1370157"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 8
 
 secured: "C9ZryeIKneYIKmncJx5jQ39OlbqYpytTFkWgOU1ZtMvHeyHTEnw99pnVQbOV/YxpBGY3PId+FOVbfi4OJWi0+WGlvtLtzxJStkQau8hhTPGCO51WLJoiffNgdQOPbxpZsTPFDrC68tak0ZwQdtuM10SGcjIDUxEig+57PhON0Joa7nb+VqBObc2PxIsLOKUZXsi7qSMrjf+SpXSOhuXJrV0NFba6gUMMm7wrot87obttLHOkd/cpKCj4Ly2FaxiZneVctf7z+az77wJj29WXQEdeNSPg8Iy8AImoyubzNbi+eWu0MwpRDodEpwUnt2ocR8YljKG1NNiYW+PW6drPv45xFkQrR4lUU6Ye+7gQkiM=;UhHvbp1eGGbY2YbeodYXnQ=="
 ---

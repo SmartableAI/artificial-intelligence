@@ -7,7 +7,7 @@ originalUrl: "https://news.mit.edu/2021/learning-and-about-ai-technology-0125"
 webUrl: "https://news.mit.edu/2021/learning-and-about-ai-technology-0125"
 type: article
 quality: 71
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -69,6 +69,15 @@ related:
       name: Windows
       domain: compsmag.com
     quality: 41
+  - title: "How AI and Machine Learning Will Shape Software Testing"
+    excerpt: "In this special guest feature, Erik Fogg, Chief Operating Officer at ProdPerfect, covers some of the main benefits of adding AI to the software testing process, and why you should consider adding it to yours if you haven’t already."
+    publishedDateTime: 2021-01-27T14:03:00Z
+    webUrl: "https://insidebigdata.com/2021/01/27/how-ai-and-machine-learning-will-shape-software-testing/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 34
 
 secured: "C9u1AwS9TBLvvx73PH6jNh+46J4xiUdk4WQk2q/sZmsNHhEsPDc+vzVnf33K0UqwJAxdjpggBr2Gc7efOSzJ6PO6tXbe/cwEflffF8w2PUX/tOCFQKqUMGqyf8igDfL+SiH4+xDvcohynzBzLXHMs3capSCXUY7k6IPxYcoOTL6nDyAz2+fmo+dXdCiA9O4t+Y4kUBKVGuBTeQx36pyy5Bs1XddcdgvPgHyUbDVMtlDpA3fxGjDjG0MLx6aXg1DbVfku9Cp/1rTZvyV09/pSOwU8yjrfFZZhgXMm5ItzrEQcYMgF6v1MYyECohAYabCHEoVapnqq25iyRwt1TgRvwxmyfZ9zLWd0lJuDxxhcGr7iFmnIKEjfv3iCjP7fa7cMaJ1onnejS/jkj4E7gTNzaVwUJQFyxeNFhYlOyw1fhifnB9SkXEjTfMZSMEydp2+fvKHaLTQqhqtIXMKkfevaHAuAa0m0PSaMRfmntOSiIyOkrFIIs6AslJJHDqdv4LIUgqllRP4dk+QtWorR9MHGOw==;YC1bDVvaqCTy/lJmOlUSgQ=="
 ---

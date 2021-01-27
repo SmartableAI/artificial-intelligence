@@ -3,10 +3,10 @@ category: news
 title: "Understanding machine learning will go a long way toward higher adoption for SMBs"
 excerpt: "Expert says larger companies are more willing to spend money for top talent to achieve machine learning, whereas smaller companies aren't able to do so. Pre-configured solutions can help."
 publishedDateTime: 2021-01-20T19:56:00Z
-originalUrl: "https://www.techrepublic.com/article/understanding-machine-learning-will-go-a-long-way-toward-higher-adoption-for-smbs/"
-webUrl: "https://www.techrepublic.com/article/understanding-machine-learning-will-go-a-long-way-toward-higher-adoption-for-smbs/"
-ampWebUrl: "https://www.techrepublic.com/google-amp/article/understanding-machine-learning-will-go-a-long-way-toward-higher-adoption-for-smbs/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/understanding-machine-learning-will-go-a-long-way-toward-higher-adoption-for-smbs/"
+originalUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/understanding-machine-learning-will-go-a-long-way-toward-higher-adoption-for-smbs/"
+webUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/understanding-machine-learning-will-go-a-long-way-toward-higher-adoption-for-smbs/"
+ampWebUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/understanding-machine-learning-will-go-a-long-way-toward-higher-adoption-for-smbs/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/understanding-machine-learning-will-go-a-long-way-toward-higher-adoption-for-smbs/"
 type: article
 
 provider:
@@ -27,6 +27,6 @@ images:
     height: 800
     isCached: true
 
-secured: "4N1KUTNKcagwjyFif4h0Pp+2j+nZsPI49+mWYEik2EbbORwrbi5GUyK7WUUNUYslR5d9thfKTH5gubwp001rVOcq2qRoPsGu6Ue9c2Jsel3+WPLzClerkAlqNuUKIXdWBzf21zok9cR1R0YTEnkTHkzr+LTFJuL1Rp+armOj45R7Qdue/2HNrHGs9KVV4P3XNj/0QnNIJTOKteAJag/yzX9FeNl+DGZ7Wpu4wG/RFCogaX4b86wA9SuIBu/ehBofZXKaNPhoA18n5vWGLwMLZ9jJcLaa6nrDqPgVoAZOcozJulVtLAx2ouQWPF736RqpO6B1rv15qoXKQSNhDxYthkriECPLhMUkYj+JJ7EwNfE=;a2XxQvoCded5zKutfj1yrw=="
+secured: "7UOVlywGZZdDAEyRYR7YUf+ciI8E7WpWAKw46NeujKQ/WRq5Mr7HT0D/JlOLrkBPYQZ+of+c5BYlv+576VVc77k+pE1tj70KaADBfcNEOZsWiNTROw8sK6uVk6zMOTX0pEXVJfoG0uA16/JGv45FLk88N0BRiQDtwsS9HB8PAh9Zd58BsaJUSM/ZwkB00rsVZxKzLzFShCcKfC2t7ZvIgkWd5kWKxSu6LFg77i8GeWxuIVoolUQEHGdxv6rREQ+05BUC2hvQlPCRL8utYWFOP6M9zhxAD2s1BTBLG9RN6QVW8GyO5ncp/DkxzVp58nu3pIYvnU2GtiG2HUcUAClz2NosecQR+eJ2jvT0kaBuWAo=;kxFXawxV+dqjh/Cvr3rFyQ=="
 ---
 

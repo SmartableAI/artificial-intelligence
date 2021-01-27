@@ -9,8 +9,8 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210126/Machine-learning-iden
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210126/Machine-learning-identifies-patterns-of-maternal-autoantibodies-associated-with-autism.aspx"
 type: article
 quality: 51
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: News Medical
@@ -40,6 +40,20 @@ related:
       - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-917184638.jpg"
         width: 690
         height: 400
+        isCached: true
+  - title: "Machine Learning Identifies Patterns of Maternal Autoantibodies Linked to Autism"
+    excerpt: "The UC Davis research team says its study opens the door for more work on potential pre-conception testing, particularly useful for high-risk women older than 35 or who have already given birth to a child with autism."
+    publishedDateTime: 2021-01-27T13:00:00Z
+    webUrl: "https://www.genengnews.com/news/machine-learning-identifies-patterns-of-maternal-autoantibodies-linked-to-autism/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 34
+    images:
+      - url: "https://www.genengnews.com/wp-content/uploads/2021/01/GettyImages-1015900200-scaled.jpg"
+        width: 2560
+        height: 1707
         isCached: true
 
 secured: "FYvwdbCAw1msCihfo0m4/M4xtpdyJLGrvMR/QE3uNsDCMIcwEWNKXoTgLF7njXqyOu9BUUtujDOoSb72H2+b+8kPfBekTnpMqb+f3WC3Zm2JgMEiV43zl1hY678nZ5ph46vBsW/DFNCitklcWW3FKjqEvDB/5SB0U+chUQae8CgRuY9Q0GH/lYlEQ4JhFwQ71q99xn119LzP1TIgg4MwkG4HCiLJ+BwAdI11vZ855y/vRsnElru5bG0GG4xy80vvSYXz5rMG4dk8IGkyyFSvP80S/kObh45Ni040CqrwqX7BoJtBV3cdNAJVLnwWO3URUBGgVvXLXmcegyZPgN8MB1vP5AXSZaXEz8bHv4bbnaU=;E/6I3gSBEfUw8JJM+BsE3Q=="

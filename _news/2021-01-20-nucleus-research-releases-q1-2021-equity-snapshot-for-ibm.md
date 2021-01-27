@@ -1,22 +1,26 @@
 ---
 category: news
 title: "Nucleus Research Releases Q1 2021 Equity Snapshot for IBM"
-excerpt: "IBM will be able to center its focus around RedHat, cloud services and capabilities, and Watson AI—its largest growth drivers and the areas with the most customer interest.\" Nucleus Research is ..."
-publishedDateTime: 2021-01-20T14:21:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/01/b19234174/nucleus-research-releases-q1-2021-equity-snapshot-for-ibm"
-webUrl: "https://www.benzinga.com/pressreleases/21/01/b19234174/nucleus-research-releases-q1-2021-equity-snapshot-for-ibm"
-ampWebUrl: "https://amp.benzinga.com/amp/content/19234174"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19234174"
+excerpt: "Nucleus Research, a global provider of ROI-focused technology research and advisory services, today released its Q1 2021 Equity Snapshot for IBM. The snapshot provides an analysis of IBM’s market growth and performance over the last quarter and a competitive outlook for the months ahead."
+publishedDateTime: 2021-01-20T14:18:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-new-products-and-services-5685d208d7b4425a8f44af821220af90"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-new-products-and-services-5685d208d7b4425a8f44af821220af90"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - IBM AI
   - AI
 
-secured: "UZeM2op4DmyKRgtCI6EMWF/koMVL1C9nmjOJGn2xY2RWpc/D34A5OmPpUMyiQU2rDkigol7C/TZzcWHDZiQnHyUMQzTMTKCBvWFpMy155yp4mKHC/JebFJtBRC4/glw6XXVH5x0iaUM8DYjwjecaCmQ1d9aLpQsRUoJRFJkDVIwykfDX+oPgqrcOKf1odgeK8qcoPgnwzWya/DAY2UJXYPwMJVdXAKrt1/Tl4r894CaALT+fc7CGYE/LGC7Aw+rZr4EeLhNRdcs1kErzDkldRz1kXojnvAoAY6oGUrzmtuaPBWng/CJFyI/bQvaxOYtHSM2V6yFdhxUqRjyyrGUk8YGX9g403qUr9bX/IRlgAi4=;mDBDB6KJJ+huC7IxKJ/Vpg=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "+1GfHVG21Yt33IhAD95PZo8MSu/MfW4qFufq7eETzys7YEirSiprINTLxeZ4BBWL3mUJ4kpKu/rP/Zf4x60tBeVMPw9fdP9pjtzcFJshZwJPrSoIX6kDAkCDU9n7z52YtWoNeZvZiL5zTIfYero85kFZgG+WWVAz5QM3xPDagyYTG+ZjoVojWfUA+T5bi5alY1z4bCWef+wkoEkYzfJ2C/r5CbYUGVMBwDlbI8ugg9EmXMRhojX7K6z2VCxqTvTodJItOpqm0WQ4+8FrfWowqsK75iZTKSOjVmUK1OmB3Yk9hUCtIk57LrhhMJHp402NyCyMKrhW/UQkXOZmaLiLD21SqwR0fwsi1ns6hjClXPg=;z39g6N++8lfaRQNd+INWVA=="
 ---
 

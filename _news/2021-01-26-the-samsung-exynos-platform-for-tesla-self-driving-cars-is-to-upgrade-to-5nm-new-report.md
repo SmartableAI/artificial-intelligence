@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla rival XPeng P7 gets significant self-driving software updates"
-    excerpt: "China's closest Tesla Model 3 competitor, the XPeng P7, launched in April last year, loaded to the gills with enough self-driving sensors and computers to achieve full autonomy once the software is ready."
-    publishedDateTime: 2021-01-27T07:06:00Z
-    webUrl: "https://newatlas.com/automotive/xpeng-p7-self-driving/"
-    ampWebUrl: "https://newatlas.com/automotive/xpeng-p7-self-driving/?amp=true"
-    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/xpeng-p7-self-driving/?amp=true"
-    type: article
-    provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 89
-    images:
-      - url: "https://assets.newatlas.com/dims4/default/fb141fa/2147483647/strip/true/crop/1620x1080+150+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F5a%2Faf%2F069a73894762b1ee09fff403f676%2Fxpengp7otaupgrade2.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "ATB Ventures focusing on digital identity, removing bias from artificial intelligence, creating key partnerships"
     excerpt: "CALGARY, AB, Jan. 25, 2021 /CNW/ - ATB Ventures is helping Alberta foster innovation through advancements in digital identity and removing bias from artificial intelligence. ATB Financial's innovation lab is building, investing and partnering with ..."
     publishedDateTime: 2021-01-25T19:05:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/craigsmith/2021/01/25/from-zero-to-mach
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/craigsmith/2021/01/25/from-zero-to-mach-2-in-months-how-hpc-in-the-cloud-helped-startup-sensatek-land-an-air-force-contract/amp/"
 type: article
 quality: 71
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 900
     isCached: true
-
-related:
-  - title: "Higher Education Looks to the Cloud for HPC and AI Resources"
-    excerpt: "In a global survey of IT decision makers in higher education, Forrester Consulting found growing support for the use of hybrid clouds for running HPC and AI workloads."
-    publishedDateTime: 2021-01-22T22:51:00Z
-    webUrl: "https://www.cio.com/article/3604649/higher-education-looks-to-the-cloud-for-hpc-and-ai-resources.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 54
-    images:
-      - url: "https://images.idgesg.net/images/article/2021/01/university-architecture-100874494-large.jpg"
-        width: 1200
-        height: 750
-        isCached: true
 
 secured: "BCKHjgLpbtcXL1FhPrzcOD1osMqvTF9Ts1R9/6gCLiEngUsLB60cNlG/4/FmTbPuRs1INWzj86ZAy3V8MdL/8FF6BGAw/UD2Y6RB8Md6fC/7500JagPdMOwnxXcZgv/HeVC94lZlIQdQ/U7JkrrbskuKOp4KwtuDbvGFAL6p5rx0vvBhACyO2eoa5J7QjaK/kveAf4aLo3FwDX1TgJNt0Lw04Vc42N/1ecZQE1EqJlbawG+WO4/tMQBcJqTYhD2wa3r44fJAV4AS5OMzWMUprw/CDJDrS7Pu9W2s5US9beXq+TbYPbaqotvUM19AGqZRUNqu3pwYXS5GOe45jBazz/WGVm21cqG7krEczTeOVZI=;m6V7QhV74U+GCZXok01wrw=="
 ---

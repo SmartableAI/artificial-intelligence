@@ -38,22 +38,6 @@ related:
         width: 760
         height: 429
         isCached: true
-  - title: "Why Microsoft’s self-driving car strategy will work"
-    excerpt: "Self-driving car startup Cruise has just gotten a $2 billion infusion from Microsoft, which actually stands to gain more from the deal."
-    publishedDateTime: 2021-01-22T23:03:00Z
-    webUrl: "https://venturebeat.com/2021/01/22/why-microsofts-self-driving-car-strategy-will-work/?via=indexdotco"
-    ampWebUrl: "https://venturebeat.com/2021/01/22/why-microsofts-self-driving-car-strategy-will-work/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/22/why-microsofts-self-driving-car-strategy-will-work/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/01/microsoft-self-driving-car-cropped.jpg?w=1200&strip=all"
-        width: 1200
-        height: 601
-        isCached: true
   - title: "Microsoft’s new vision-language model outranks humans at image captioning"
     excerpt: "Microsoft researchers have developed a new object-attribute detection model for image encoding: VinVL (visual features in vision-language) Vision-language (VL) systems make it possible to search relevant images for a text query (or vice versa)."
     publishedDateTime: 2021-01-25T19:03:00Z

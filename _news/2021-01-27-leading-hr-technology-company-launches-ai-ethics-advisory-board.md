@@ -64,6 +64,15 @@ related:
       name: Windows
       domain: compsmag.com
     quality: 41
+  - title: "How AI and Machine Learning Will Shape Software Testing"
+    excerpt: "In this special guest feature, Erik Fogg, Chief Operating Officer at ProdPerfect, covers some of the main benefits of adding AI to the software testing process, and why you should consider adding it to yours if you haven’t already."
+    publishedDateTime: 2021-01-27T14:03:00Z
+    webUrl: "https://insidebigdata.com/2021/01/27/how-ai-and-machine-learning-will-shape-software-testing/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 34
 
 secured: "Sm6vATnoxkm07o5puw0vvUSmWWHsS5lRextZC1y6KVRCQt7IjfS4U5pMCMK0Nw1znr7+7jOHPZcFhPzP2fV5d81J3Sa9Z0cMnc3qhIuDyzhPAQ1OIGh2V11CMnlMuRqr0zolX+HhJe6AdcB+Q0PN2QToasFCZR038CRzY+5SCez4Vx2/JTAgMbbrg4ZoC/Xhgd7e+g7OzHXnhWON9eEj0w3MSbajXlkw308E21EZjlJ5M3MYW+bcmuwJ/K8jD0AJACiya1871bhBhxpHTDet3cHZN7cKAfMQyte+G+IXXtiepLOrxF+I7Axy/Z3/hE6Hm8fxkMpcm6daZMyIp1GM/l5oXb7o45TGEU/vFNtLb9M=;EVpVX70XMnuBMivoxF3fcA=="
 ---

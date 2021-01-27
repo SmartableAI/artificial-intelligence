@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Privacy fears as Indian city Lucknow readies facial recognition to spot harassed women"
-    excerpt: "Concerns that technology will lead to intrusive policing and privacy violations, digital rights experts warned."
-    publishedDateTime: 2021-01-22T21:48:00Z
-    webUrl: "https://www.scmp.com/news/asia/south-asia/article/3118937/privacy-fears-indian-city-readies-facial-recognition-spot"
-    ampWebUrl: "https://amp.scmp.com/news/asia/south-asia/article/3118937/privacy-fears-indian-city-readies-facial-recognition-spot"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/asia/south-asia/article/3118937/privacy-fears-indian-city-readies-facial-recognition-spot"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 81
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/01/23/0b83e278-5cef-11eb-a99a-beae699a1a1d_image_hires_052038.jpg?itok=YoSvb9Te&v=1611350446"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "A scary proposal to use facial recognition and AI by an Indian state has experts fuming"
     excerpt: "The Lucknow police are installing cameras with facial recognition technology, powered by artificial intelligence (AI), in prominent harassment hotspots. The cameras will gauge whether a woman is in distress based on her facial expression and send an alert to the police."
     publishedDateTime: 2021-01-23T11:25:00Z
@@ -57,21 +41,19 @@ related:
         width: 500
         height: 339
         isCached: true
-  - title: "Use of facial recognition tech sparks privacy fears"
-    excerpt: "The Lucknow police’s decision to use facial recognition technology (FRT) to monitor women’s expressions to prevent street harassment has spurred privacy concerns among Indians. The government needs to create strict and clear regulations before it allows law enforcement agencies to use facial recognition for policing,"
-    publishedDateTime: 2021-01-25T01:34:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/use-of-facial-recognition-tech-sparks-privacy-fears-11611536778871.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/use-of-facial-recognition-tech-sparks-privacy-fears/amp-11611536778871.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/use-of-facial-recognition-tech-sparks-privacy-fears/amp-11611536778871.html"
+  - title: "Make AI evolution inclusive in India"
+    excerpt: "The disproportionately dominant role played by men in the development of this technology, which leads to gender stereotypes and biases, is concerning The last few years have witnessed the evolution of"
+    publishedDateTime: 2021-01-24T18:41:00Z
+    webUrl: "https://www.dailypioneer.com/2021/columnists/make-ai-evolution-inclusive-in-india.html"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 37
     images:
-      - url: "https://images.livemint.com/img/2021/01/25/600x338/262f1b54-5e54-11eb-a9a9-2635882cf050_1611536777677_1611536858259.jpg"
-        width: 600
-        height: 337
+      - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/make-ai-evolution-inclusive-in-india-2021-01-25.jpg"
+        width: 1000
+        height: 800
         isCached: true
 
 secured: "D7LNRmZEQ9Yle1ZDMo2/oi0j/n2aMGxcScpP+FZdAmurClOD+6i8gvUD4IryWiO2jsT0oGwlUiC9jEN5CFq0Uf86D7qjWi8YN5lmjimWJ60VK1/SwFl3iiLrrQeQQ02D5mHtlzU91D1+i7dDFW+Y7xuF7TyA4O1rc3XfJwLOgbkFL0vZSpv3GG7WJVjB85/IRgphdT9atpVkzebgM28oInIORDbwClF67OtXOvVeDlBi+ZsS1KPLsDn/PXK6Imf0i1sWe2k4z11HTSPVNHQjMnv7zp4GLH5VmmVA9YIltg6kXPWYRNlZ9IMHXf1/wCnZFPd/3+4k7p0dLN/8O5XUeWoi/NNklmeKIvKJJf4lMIo=;RSH27PD8LHZ9Otn0wssuTA=="

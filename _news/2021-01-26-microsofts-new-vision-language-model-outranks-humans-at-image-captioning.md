@@ -47,22 +47,6 @@ related:
         width: 760
         height: 429
         isCached: true
-  - title: "Why Microsoft’s self-driving car strategy will work"
-    excerpt: "Self-driving car startup Cruise has just gotten a $2 billion infusion from Microsoft, which actually stands to gain more from the deal."
-    publishedDateTime: 2021-01-22T23:03:00Z
-    webUrl: "https://venturebeat.com/2021/01/22/why-microsofts-self-driving-car-strategy-will-work/?via=indexdotco"
-    ampWebUrl: "https://venturebeat.com/2021/01/22/why-microsofts-self-driving-car-strategy-will-work/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/22/why-microsofts-self-driving-car-strategy-will-work/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/01/microsoft-self-driving-car-cropped.jpg?w=1200&strip=all"
-        width: 1200
-        height: 601
-        isCached: true
   - title: "SAP and Microsoft Expand Partnership and Integrate Microsoft Teams Across Solutions"
     excerpt: "Microsoft Teams with SAP's intelligent suite of solutions. The companies also formalized an extensive expansion of an existing strategic partnership to accelerate the adoption of SAP S/4HANA® on Microsoft Azure."
     publishedDateTime: 2021-01-23T02:51:00Z
