@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "cerebrassystems"
   url: "https://twitter.com/cerebrassystems"
-  followers: 2087
+  followers: 2088
 
 size: 51-200 employees
 yearFounded: 2016
