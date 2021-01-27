@@ -265,6 +265,20 @@ related:
         width: 630
         height: 400
         isCached: true
+  - title: "Voice Recognition Market 2021 : Top countries Data, Market Size, In-Depth Analysis with Booming Trends and Segmentation Forecast to 2026"
+    excerpt: "Research Reports has published a detailed report on “Voice Recognition Market\" 2021 which has been categorized"
+    publishedDateTime: 2021-01-27T01:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-2021-top-countries-data-market-size-in-depth-analysis-with-booming-trends-and-segmentation-forecast-to-2026-2021-01-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 21
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global AI-Enabled Medical Imaging Solutions Market (2020 to 2030) - Analysis and Forecast - ResearchAndMarkets.com"
     excerpt: "ResearchAndMarkets.com The “Global AI-Enabled Medical Imaging Solutions Market: 15 Countries Analysis - Analysis and Forecast, 2020-2030” report has been added to ResearchAndMarkets.com’s offering. The global AI-enabled medical imaging solutions market was valued at $636."
     publishedDateTime: 2021-01-22T16:44:00Z

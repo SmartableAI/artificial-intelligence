@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tesla will never achieve full self-driving capabilities, Waymo CEO says"
+    excerpt: "John Krafcik called Tesla's approach a \"misconception,\" while Google's sister company tackles lidar and more advanced systems."
+    publishedDateTime: 2021-01-27T02:08:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/tesla-will-never-achieve-full-self-driving-capabilities-says-waymo-ceo/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-will-never-achieve-full-self-driving-capabilities-says-waymo-ceo/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-will-never-achieve-full-self-driving-capabilities-says-waymo-ceo/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 104
+    images:
+      - url: "https://cnet2.cbsistatic.com/img/AVtNDbflfjRE8PTezweZ2ehMrBE=/2019/12/20/5d1f0f70-a427-4959-bc2c-7714bcc0c954/ogi-autopilot.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Waymo CEO dismisses Tesla self-driving plan: “This is not how it works”"
     excerpt: "Many Tesla fans view the electric carmaker as a world leader in self-driving technology. CEO Elon Musk himself has repeatedly claimed that the company is less than two years away from perfecting fully self-driving technology."
     publishedDateTime: 2021-01-22T22:58:00Z

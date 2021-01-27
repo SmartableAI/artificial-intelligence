@@ -2,45 +2,27 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2020-11-03-the-work-problems-i-wish-ai-could-solve.md",
-      "title": "The Work Problems I Wish AI Could Solve",
-      "excerpt": "What about a system that automatically rewrites incoming emails to eliminate your co-workers’ unhelpful quirks?",
+      "path": "_news/2020-11-20-reveries-prabandhak-scores-silver-in-the-iamai-design-summit-leadership-2020.md",
+      "title": "Reverie's Prabandhak Scores Silver in the IAMAI Design Summit Leadership 2020",
+      "excerpt": "In the category of Industry and Innovation Design, Reverie Language Technologies scored a Silver Trophy for its product Prabandhak, an AI-powered translation management hub for Indian languages.",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/the-work-problems-i-wish-ai-could-solve-11604341974",
-      "originalUrl": "https://www.wsj.com/articles/the-work-problems-i-wish-ai-could-solve-11604341974",
+      "webUrl": "https://www.businesswireindia.com/reveries-prabandhak-scores-silver-in-the-iamai-design-summit-leadership-2020-70475.html",
+      "originalUrl": "https://www.businesswireindia.com/reveries-prabandhak-scores-silver-in-the-iamai-design-summit-leadership-2020-70475.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-253446/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
+      "images": null,
+      "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/the-work-problems-i-wish-ai-could-solve-11604341974",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-work-problems-i-wish-ai-could-solve-11604341974",
-      "publishedDateTime": "2020-11-02T15:32:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-20T04:23:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Business Wire",
+        "domain": "businesswireindia.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -49,8 +31,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Natural Language Processing"
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],

@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "Synaptics Expands Family of AI-enriched, High-Performance Multimedia SoCs for Mainstream Set-Top Boxes, Smart Video Devices"
+    excerpt: "SAN JOSE, Calif., (GLOBE NEWSWIRE) -- Synaptics(R) Incorporated (Nasdaq: SYNA), today announced customer sampling of its VideoSmart(TM) VS640, a next generation edge computing SoC that is AI-enriched for emerging set-top boxes,"
+    publishedDateTime: 2021-01-27T01:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/synaptics-expands-family-of-ai-enriched-high-performance-multimedia-socs-for-mainstream-set-top-boxes-smart-video-devices-2021-01-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Synaptics’ AI SoC for Video, Vision and Voice Wins Best Embedded Processor Award"
     excerpt: "(GLOBE NEWSWIRE) -- Synaptics® Incorporated (Nasdaq: SYNA), today announced its VideoSmart™ VS680 solution has been chosen as the Best Embedded Processor in The Linley Group’s Analysts’ Choice Awards 2020."
     publishedDateTime: 2021-01-26T06:02:00Z

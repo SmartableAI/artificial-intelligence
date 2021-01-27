@@ -1,20 +1,30 @@
 ---
 category: news
 title: "Avaya Expanding AI-powered Contact Center Capabilities to Improve Customer Experience, Participating with AWS Contact Center Intelligence"
-excerpt: "As an AWS Partner offering AWS Contact Center Intelligence (CCI) solutions, Avaya can enable customers to leverage AWS AI Services and Machine Learning (ML) capabilities to drive more rewarding ..."
+excerpt: "Avaya (NYSE: AVYA), a global leader in solutions to enhance and simplify communications and collaboration, today announced an expansion of its"
 publishedDateTime: 2021-01-12T08:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210112005233/en/Avaya-Expanding-AI-powered-Contact-Center-Capabilities-to-Improve-Customer-Experience-Participating-with-AWS-Contact-Center-Intelligence"
-webUrl: "https://www.businesswire.com/news/home/20210112005233/en/Avaya-Expanding-AI-powered-Contact-Center-Capabilities-to-Improve-Customer-Experience-Participating-with-AWS-Contact-Center-Intelligence"
+originalUrl: "https://www.marketwatch.com/press-release/avaya-expanding-ai-powered-contact-center-capabilities-to-improve-customer-experience-participating-with-aws-contact-center-intelligence-2021-01-12"
+webUrl: "https://www.marketwatch.com/press-release/avaya-expanding-ai-powered-contact-center-capabilities-to-improve-customer-experience-participating-with-aws-contact-center-intelligence-2021-01-12"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
-secured: "fP3ckhJbkxLpRMcWkhKTddCJnB1VyHm3F1Q/zF0kiZaatNclstTQW7OYYu0/Pg5bf8AVeNxptuzGQs375AZqU8ZBgkBxShcpFHTd14gitVgJ0F4B67fmP0ZRkZWI+HhJMCT5xWxwGJQLwhNxAwbAhe0gn3MuZ+Y/w2iKwkMtP+B6AKUSYWJXj8lNjmjPWTXKIctknJ/e4OQU/IUubJFWKYKwqYgU3yLjCP/PDD7Gz/A1BqJ1H63dnK/IwFYlnJiXh+4QMN27xFcqzslrN6W83fzfTHYp/jL61imLqVZpR2zVtr+dJ5D7gRMeN/sTAZv1U49kVWdWgVl0ldyHUmVra9iVNj967lvyo2YUjcTLldI=;8m7rbsFwALKdZ47lPiaJsw=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "hKpxFpweytNUZJ5i6y8zMWug8H9+OUz+6f500wxgmOpuVBedkIbKVbpir9V5Fd8+UX4alF94r5JR3JZFCDExaPM8w7iXSawqLZOja2Px/9pUZUya6/AWXaUPnL0DkAITSrwpEnOkD0GiUJ8NsAVXA3rgQOoyc88FCBku4yU4h1r5aoa2Ms7RyTkE5J/MESbNEi1st8nj+8wKZj8ZA2HvYkxdNBB9Kjovm/ym06LQ3p50R/VoNCH53AVpQZzVkVEinVRUP7QzRMKw8ICIHL7kLWyFglOhb4QREPXE0c8H3dpCDZh8nH989/uvJiFYGKFAUD9Hv9ur604X2m/odxBPApS7UsNgG9NXFAQqEzjWISU=;zp1womEK2jH1whfVlIWAgg=="
 ---
 

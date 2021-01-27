@@ -123,15 +123,6 @@ related:
         width: 750
         height: 450
         isCached: true
-  - title: "Privacy fears as Indian city uses facial recognition to spot harassed women"
-    excerpt: "A plan to monitor women’s expressions with facial recognition technology to prevent street harassment in a north Indian city, will lead to intrusive policing and privacy violations, digital rights experts warned on Friday."
-    publishedDateTime: 2021-01-22T10:39:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/world/2021/01/22/privacy-fears-as-indian-city-uses-facial-recognition-to-spot-harassed-women/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 17
 
 secured: "lzfhZtQ0yzsqL+QlLLxE9FjkL8zEylMNph7bv5buy1v8GcjbASkbHmqrZeWiYhzpHTak1/JW+BkdjxG1tphVNUCMjetVa/0Z9kdA1xEdUssigCGc/aqQKbwdDC6XKq3Tj+ZA1rJpcRLuNSlpSHUXjwzn5Tv1TBmUnW22ZfzVQYYoc2HQ2nbKY3THiqOlvbdyZLwwbslJUaweypwCdh9r/zwSc+hmSKbq0zkIn6xPEKKin9uji8T1OSHwaRa5C2GAZDj3yY8XjGr+PI6glcgUJGEqoiCSkI7WTPm6xmA2GFg0qqTyG3aHrmQe8O65zoNqLjYrouB1TuWiD3kXBLJvf8ucsKCCvTEH5klov2UYpH4=;HV3X6dEqFC9jfs4Zb+rIKw=="
 ---

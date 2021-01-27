@@ -2,27 +2,44 @@
 category: news
 title: "Artificial Intelligence (AI) Delivers for CloudCommerce"
 excerpt: "Our clients are reaping the benefit of our real-world application of artificial intelligence. Our goal is to continue to work toward potentially reducing the costs of advertising by as much as 50%.” The Company is developing SWARM into a cloud hosted software platform that will harness the power of artificial intelligence,"
-publishedDateTime: 2021-01-26T08:26:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-marketing-and-advertising-corporate-news-marketing-campaigns-66fd70c577a5eeeb50e3990141edbed3"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-marketing-and-advertising-corporate-news-marketing-campaigns-66fd70c577a5eeeb50e3990141edbed3"
+publishedDateTime: 2021-01-26T08:24:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-ai-delivers-for-cloudcommerce-1030002696"
+webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-ai-delivers-for-cloudcommerce-1030002696"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/Artificial-Intelligence-AI-Delivers-for-CloudCommerce-1030002696"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Artificial-Intelligence-AI-Delivers-for-CloudCommerce-1030002696"
 type: article
-quality: 52
-heat: 52
-published: false
+quality: 84
+heat: 94
+published: true
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - Facebook AI
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
+related:
+  - title: "Artificial Intelligence (AI) Delivers for CloudCommerce"
+    excerpt: "\"Our clients are reaping the benefit of our real-world application of artificial intelligence. Our goal is to continue to work toward potentially reducing the costs of advertising by as much as 50%.\" The Company is developing SWARM into a cloud hosted software platform that will harness the power of artificial intelligence,"
+    publishedDateTime: 2021-01-27T02:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-delivers-for-cloudcommerce-2021-01-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 82
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "/6leaHD3Ssf+8TkMgab0SdA0MMh2ZbjU/MFuCVAZHIJYY2K6zXLqXl5zFZwoj9xvkIDQHt/PikUTK00Ug5nq7byDIu1S4oJW7QF4lZWhjVGQ+Fu1kovRmip6Ljy6ljPgtqiHGfPmd+MvZvN6190GxvaOu63Flxzxf3uhV5uUSZ20uFqkISzf0xBoL7734zkp1OTgEmPn1O3RsiQBb6K8CCvQVqpD4WQgSND4yF4NaRdHmVeGrImVv15RkLoplTtrRJMoyMRADwvXcFmRfAkiqyFOE3Am8wXGcjsJrHy5ZjqEzFQ+8rgu4CLt4/RMf/iqs6ycAvaGTlqzKpgMRfsh6BS1/yR0Sd7gUyNZRt2bpS4=;n48aOv18FfVLCZeJccP/eQ=="
+secured: "b33IEP/yA9+0SLcaNOF2nS3l9r6ck/dxXTjeGnCMZMSHQmeH7gSYRlOfMrglwJnWcvXtRvECRkkI0r4fTI/PkPsMdHFPz7eTiLByPnSdKVNq4/VymKSiwzI0J+X+yL30qzEw1oETNE+/xtflzWiNvbastbNyHpewgKoV2pD2qLVoZC1O1bh6fvbbZQFmjiH+5TSC+DqYCTXdMbrzT0IfIuzEOKzCe/rqFDzHOwI4yaOa1U8NqGx3cQt7q6Bz1jbEiNNWy7UU2k6EDGgPp/3Iy6ty7QaYVaxFYqB+DWyaZ0L84IWFKDcvJbBckiBXYubZGtal+kxI9LmU1TwUSjjghZplfhjkbKep7G2buuc+uTA=;FGAsZu/+HQWhFFnZZpRMkg=="
 ---
 

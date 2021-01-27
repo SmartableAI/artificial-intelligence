@@ -90,6 +90,20 @@ related:
       name: The Eagle
       domain: theeagle.com
     quality: 39
+  - title: "‘Ban the Scan’ - Groups call for city, state to outlaw facial recognition"
+    excerpt: "Nearly a dozen leaders and groups came together Tuesday to call on the city and state to ban government use of facial recognition technology scanning, saying that it negatively impacts people of ..."
+    publishedDateTime: 2021-01-27T01:34:00Z
+    webUrl: "https://newjersey.news12.com/ban-the-scan-groups-call-for-city-state-to-outlaw-facial-recognition"
+    type: article
+    provider:
+      name: News 12 Networks
+      domain: news12.com
+    quality: 38
+    images:
+      - url: "https://img.chdrstatic.com/media/9678d041-1c95-47ad-b9fe-9405bd80bd93.jpg?source=backend&crop=1200:675,smart&width=1200&height=675&auto=webp"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "NPtIOI7hT9HHsjpR3CT6GynhNhkTF8Q+NAj7G71RYg5jct0Ad64QoVAZEHotqYh0gd9/aK2PS8npMO+OHhZzPek5nBazNSoCHIwTfdsf03v2hC1+0TSW/+EvWT646fupewt78sJBaRJ+LtO+HhlA7L4ecbslmsAa/PDpoFwoSyAQXgSIyX5uyDuc8teQg+vxZP2oR1/AKwPmUlQWlJG4dKUmDeaFPavE3RjU2ra6FeYKFQsCQJ2T9ujUeEpIi88thKWPHswfAolTko5POO/RQ6QM51ymQhwWqEhrct25IXA/93EuvCkerewXZig1WtCja8xkA6o1MIGRoO2tIAvqIDJ8O5qstGXud7ISWHK7C5I=;UoOMKUNaK4ucqk//HiQZ+g=="
 ---

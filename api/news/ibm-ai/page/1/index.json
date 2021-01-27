@@ -150,6 +150,40 @@
       ]
     },
     {
+      "path": "_news/2021-01-20-nucleus-research-releases-q1-2021-equity-snapshot-for-ibm.md",
+      "title": "Nucleus Research Releases Q1 2021 Equity Snapshot for IBM",
+      "excerpt": "IBM will be able to center its focus around RedHat, cloud services and capabilities, and Watson AI—its largest growth drivers and the areas with the most customer interest.\" Nucleus Research is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/01/b19234174/nucleus-research-releases-q1-2021-equity-snapshot-for-ibm",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/01/b19234174/nucleus-research-releases-q1-2021-equity-snapshot-for-ibm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/19234174",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19234174",
+      "publishedDateTime": "2021-01-20T06:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-15-gitlab-partners-with-ibm-cloud-to-improve-collaboration-for-devops.md",
       "title": "GitLab partners with IBM Cloud to improve collaboration for DevOps",
       "excerpt": "GitLab is partnering with IBM Cloud designed to help DevOps teams work more efficiently by collaborating through a shared platform.",
@@ -1352,49 +1386,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-5-ways-ibm-predicts-ai-and-ad-tech-will-evolve-in-2021.md",
-      "title": "5 Ways IBM Predicts AI and Ad Tech Will Evolve in 2021",
-      "excerpt": "With tech giants set to crack down on cookies and third-party trackers in the coming months, the ad-tech industry is in for some major changes. IBM Watson Advertising has bet that artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.adweek.com/performance-marketing/ibm-predictions-artificial-intelligence-ad-tech-2021/",
-      "originalUrl": "https://www.adweek.com/performance-marketing/ibm-predictions-artificial-intelligence-ad-tech-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.adweek.com/wp-content/uploads/2020/12/Salesforce_Quiz_HP-640x360.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.adweek.com/performance-marketing/ibm-predictions-artificial-intelligence-ad-tech-2021/amp/",
-      "cdnAmpWebUrl": "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/performance-marketing/ibm-predictions-artificial-intelligence-ad-tech-2021/amp/",
-      "publishedDateTime": "2020-12-15T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Adweek",
-        "domain": "adweek.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

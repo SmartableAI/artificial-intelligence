@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/news/asia/south-asia/article/3118937/privacy-fe
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/asia/south-asia/article/3118937/privacy-fears-indian-city-readies-facial-recognition-spot"
 type: article
 quality: 81
-heat: 161
+heat: 151
 published: true
 
 provider:
@@ -127,15 +127,6 @@ related:
         width: 750
         height: 450
         isCached: true
-  - title: "Privacy fears as Indian city uses facial recognition to spot harassed women"
-    excerpt: "A plan to monitor women’s expressions with facial recognition technology to prevent street harassment in a north Indian city, will lead to intrusive policing and privacy violations, digital rights experts warned on Friday."
-    publishedDateTime: 2021-01-22T10:39:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/world/2021/01/22/privacy-fears-as-indian-city-uses-facial-recognition-to-spot-harassed-women/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 17
 
 secured: "zq891OF5yV8M57zabig+wSXwbmNZi+id5grf883b5B8v7wV/B5TrE5EF3tSb93TG+IZzNN6w6vc/YbN2s1FvaR/yMu2O2eQfwDmJNuaZVLqxTi6VPkXS+Pns0o1ZG/jXgMLUJNl1mQtHfNE+kEZmYUSNXZD0Sjf0CHGheqbTQi5BZX19N+hfghZ6qycVQuYsGc8z9FF3Hfvts5SQFbmnRVcUZamdDTfSDj5Gk8hNiDYCbUiTTt9yHlSfZHi3NLgIALGOYjtIMafMVhVOOz45brydVFHloh/iG1v0PMfjOT7NoTU0LL85Q2VOXpglCBJeekbahibBmWpjQg0hrxEFW0JBGkN0rHTC9rikOBxA8VBJojEnLIcsXcAxE1sLGFydIyziRZwIaPringrG+sXHQp/iBxXNmhhXM/aERqZaRwToZwnTgd4tVHIz5vZvopaZT0R0t91NQNWAc48zG6BQX6CNuNJJ4VKhrg42/rb1P8Pegz/fPI+z+lgDYVuwoHo3yqk8sBWUO0LBV2D7laH4RA==;sY3VZxZLYplPsDBpsF7pIw=="
 ---

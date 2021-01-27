@@ -7,7 +7,7 @@ originalUrl: "https://www.stamfordadvocate.com/business/article/Artificial-intel
 webUrl: "https://www.stamfordadvocate.com/business/article/Artificial-intelligence-at-the-service-of-talent-15898444.php"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 2000
     height: 1333
     isCached: true
-
-related:
-  - title: "How This Noida Based Startup Leverages AI To Help Companies Find Right Candidates"
-    excerpt: "For this week’s startup column, Analytics India Magazine spoke to Vikram Wadhawan, Founder & CEO of Vasitum to understand how the startup is leveraging AI and machine learning to help companies find the right candidates."
-    publishedDateTime: 2021-01-22T10:32:00Z
-    webUrl: "https://analyticsindiamag.com/how-this-noida-based-startup-leverages-ai-to-help-companies-find-right-candidates/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 32
-    images:
-      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2021/01/1st.png"
-        width: 1096
-        height: 454
-        isCached: true
 
 secured: "e3qJ+qmFvdcS+t8rhjow3zZTORT6MnWUATMbyJo9WgmnOu32QOFtFHFpJwzzu8t7IDtGLiM72d4pBh7zWZJjTXSepkyb102VigEjOp3Hrh6o8F6XEPnoFIs7AHvYiWaVNh3kNKKJb45qxS6GL2p6HrufMzCXyllBkL7YsgtJA9sd7w4kwbZivf5/+6S9JzBwLSPh6RFS885IUipYxoacgr9OziDVFBrJIiKrfWMnRyBV0Qjg8liFsP+Gcgf4Tee2NpBOdvYVc8/V6CnHcvhmVfNeZWAj9Zybq0Bm/X/YTd0wtwsMaoNhEJuS+4vm9cDwIYHQCxcgnDIdqR7tCF6TYNGQcmFLzYnG6vL31vnxK90=;MwDlht3X5ZmQWFX9Or4Znw=="
 ---

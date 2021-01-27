@@ -44,22 +44,6 @@ related:
         width: 1024
         height: 578
         isCached: true
-  - title: "Democrats want ethics panel to investigate Sens. Hawley, Cruz"
-    excerpt: "Senators want to know whether they failed to put loyalty \"to the highest moral principles and to country above loyalty to persons, party, or Government department\""
-    publishedDateTime: 2021-01-22T10:18:00Z
-    webUrl: "https://www.khou.com/article/news/politics/national-politics/senators-ethics-panel-investigation-hawley-cruz/63-fed978dd-679a-49dc-a953-a4dee058be24"
-    ampWebUrl: "https://www.khou.com/amp/article/news/politics/national-politics/senators-ethics-panel-investigation-hawley-cruz/63-fed978dd-679a-49dc-a953-a4dee058be24"
-    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/politics/national-politics/senators-ethics-panel-investigation-hawley-cruz/63-fed978dd-679a-49dc-a953-a4dee058be24"
-    type: article
-    provider:
-      name: KHOU 11
-      domain: khou.com
-    quality: 61
-    images:
-      - url: "https://media.khou.com/assets/KSDK/images/f469da1b-de70-4cab-b04e-b669eb1e3295/f469da1b-de70-4cab-b04e-b669eb1e3295_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Democrats ask ethics panel to investigate Sens. Cruz, Hawley"
     excerpt: "Seven Democratic senators asked the Senate Ethics Committee to investigate the actions of Republican Sens. Ted Cruz and Josh Hawley."
     publishedDateTime: 2021-01-22T16:39:00Z

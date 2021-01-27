@@ -42,7 +42,7 @@ related:
   - title: "Leading HR Technology Company launches AI Ethics Advisory Board"
     excerpt: "Arena Analytics launched its external AI Ethics Advisory Board - the first human resource technology firm to do so - on January 12, 2021. Arena’s independent Advisory Board brings together human resources leaders and experts from academia,"
     publishedDateTime: 2021-01-26T19:47:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-technology-issues-media-newspapers-8f759ca11098714fd8442fc812276d4c/gallery/47775f81ae862b27b151d4f9db2167f5"
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-technology-issues-media-newspapers-8f759ca11098714fd8442fc812276d4c"
     type: article
     provider:
       name: Associated Press

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologynetworks.com/neuroscience/news/amp/how-facial-
 cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/neuroscience/news/amp/how-facial-recognition-algorithms-can-cut-out-bias-344899"
 type: article
 quality: 59
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -90,6 +90,20 @@ related:
       name: The Eagle
       domain: theeagle.com
     quality: 39
+  - title: "‘Ban the Scan’ - Groups call for city, state to outlaw facial recognition"
+    excerpt: "Nearly a dozen leaders and groups came together Tuesday to call on the city and state to ban government use of facial recognition technology scanning, saying that it negatively impacts people of ..."
+    publishedDateTime: 2021-01-27T01:34:00Z
+    webUrl: "https://newjersey.news12.com/ban-the-scan-groups-call-for-city-state-to-outlaw-facial-recognition"
+    type: article
+    provider:
+      name: News 12 Networks
+      domain: news12.com
+    quality: 38
+    images:
+      - url: "https://img.chdrstatic.com/media/9678d041-1c95-47ad-b9fe-9405bd80bd93.jpg?source=backend&crop=1200:675,smart&width=1200&height=675&auto=webp"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "Ko8++6Y6o42gifbFZLrr9DSh37MuGZu7oqAVOLJ1X8r5jNRhj7+IOOAskSUwDQDD3NuBzIo/zSqNW7jxjQzIIS51/IunNPeezhOydW1KSa7EdkNfvzIMfcxMM3sMqiE33OvaLsMpOXfXMMUYmzziDTB2Fk0yy3rRAR1CdpOf6OZSaJRUCetjqbELRnA3iZJYyvyHz6LiKuwqvkyjOYa9oBQp/tvt94rdVnyD1v2ZafZ2hAaBbLwtKso2hh2EMNiXbzhKHcnojAl6kEn6T0PDpiEKwos7GJXeagtdOTeaRbdbH6z6ISwr8+wOQo2/LsX1bPRQzB0pD5TZuLBGL5AHl2a6MEdKUPltWX4SVIyVs1Q=;CglDaiiyH5JGgH8iF+0ttg=="
 ---

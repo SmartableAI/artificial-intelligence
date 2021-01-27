@@ -1,29 +1,32 @@
 ---
 category: news
 title: "Ehave, Inc. Utilizes Artificial Intelligence and Machine Learning for Big Data Management in Mental Healthcare"
-excerpt: "Ehave, Inc. (OTC Pink: EHVVF) (the “Company”), a provider of digital therapeutics for the psychedelic and mental health sectors, announced today plans to continue to address the needs of big data management in mental healthcare."
-publishedDateTime: 2021-01-26T19:25:00Z
-originalUrl: "https://www.globalbankingandfinance.com/category/news/ehave-inc-utilizes-artificial-intelligence-and-machine-learning-for-big-data-management-in-mental-healthcare/"
-webUrl: "https://www.globalbankingandfinance.com/category/news/ehave-inc-utilizes-artificial-intelligence-and-machine-learning-for-big-data-management-in-mental-healthcare/"
+excerpt: "Ehave has been using artificial intelligence and machine learning since the first version of its Ehave Dashboard to transform clinical research, identify treatment protocols, and increase the virtual care capabilities of health providers. Before the COVID ..."
+publishedDateTime: 2021-01-27T01:45:00Z
+originalUrl: "https://www.marketwatch.com/press-release/ehave-inc-utilizes-artificial-intelligence-and-machine-learning-for-big-data-management-in-mental-healthcare-2021-01-25"
+webUrl: "https://www.marketwatch.com/press-release/ehave-inc-utilizes-artificial-intelligence-and-machine-learning-for-big-data-management-in-mental-healthcare-2021-01-25"
 type: article
-quality: 53
+quality: 81
 heat: -1
 published: false
 
 provider:
-  name: List of Banks in Belarus
-  domain: globalbankingandfinance.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
   - AI in Healthcare
 
 images:
-  - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
-    width: 1000
-    height: 600
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -92,6 +95,6 @@ related:
         height: 675
         isCached: true
 
-secured: "YwynB1G3Vzja80yyXqC8Sh8rly8RVYPleS7/7YrOkS8DaTaM9rBmlg5zHilJ6bCigkh9Ith9S1sF9oOG0gKCqOwx2oHUoCUdSzy+jcrChtvwAMCmA2dOuopYanx4G78e5J4tz+QprtiA/2WMZaNHYBzxKGU81KNM7Ox0IllVu4+Hd4hMIfqaENLWpAhj+JfV8FTdDl7z5gjfUDr3LosyApNE2kHC1qFxjp8MZwV3sfispZeW0UrwAwY7iCBKNpTAL3B4q/QklugQzWe6DPKKmy6e3a+HWf2jOS1gc9WFP5Ube3IdMhKJi7lKRBu41iCjeBsoXSdiEONnHf2Eb/TrB3qCBmbAc4p1G4bu/CFbWm4=;oLlHizF8Oq4y4xSz08m+XA=="
+secured: "umcYBilDFTUomUpjdLVZUooCRNBRE054tf/18dHW00n4z17OvinnwOsjDLnh8GBGWmeSIA2DKT7jqFEw7cU2h6Jr0A5A5AuMKIy8pGZVyBFjF8N4BSVH21VvRmEAmo3SpUyrSR5jVSEG5mB6a/XH630uNFYD43vta8L7PkJF8anyzseyF0dkrfmsXf4/W30c8FfXn3xcIfDDfvIkF9ZJ9jlASPMw1jDwWyczuAhX/hrSbYS0Fny5mxqF6vKpgOI6SgtYp3AW9tc8mM4DHPIzwHai39uM915C/at7iTJEWxsGwmdNPUeiEYv3r14LIAhjepdsBqogHLdWAd/gjO8R0eME0xloqn6VgO4c2dy9X/g=;RQOC10sWP02fUJSXvRypxg=="
 ---
 

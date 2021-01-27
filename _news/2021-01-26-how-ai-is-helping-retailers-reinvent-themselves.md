@@ -3,8 +3,8 @@ category: news
 title: "How AI is helping retailers reinvent themselves"
 excerpt: "Everyday activities, once normal, have taken on a new element of risk and consumers are prioritising those retailers who are capable of rapidly adjusting to changes in the business environment.” Retailers are moving to a multi-channel environment offering a variety of shopping options for customers,"
 publishedDateTime: 2021-01-26T06:50:00Z
-originalUrl: "https://www.moneyweb.co.za/news/tech/how-ai-is-helping-retailers-reinvent-themselves/"
-webUrl: "https://www.moneyweb.co.za/news/tech/how-ai-is-helping-retailers-reinvent-themselves/"
+originalUrl: "https://www.moneyweb.co.za/in-depth/microsoft-south-africa/how-ai-is-helping-retailers-reinvent-themselves/"
+webUrl: "https://www.moneyweb.co.za/in-depth/microsoft-south-africa/how-ai-is-helping-retailers-reinvent-themselves/"
 type: article
 quality: 39
 heat: -1
@@ -42,6 +42,6 @@ related:
         height: 801
         isCached: true
 
-secured: "z/yOhs4xzgr+B20QiA8E9WY2kjMdlUssJ2Cen5Qx26Y0RPDMhGSyrucaPaJU8MSMngem3VgYDqK0z+UEZ+35JixjnQOMp5ilxHI6cSYss7sgwfVs0Dc35c3pV9rGxeUFSyrN2dVBcnKDg7Vj09hz4G2gnH9MVAmB10hNGtPTHTJWISzG2dWdhGiR2WjSMSKOdN5H0i9CWzcs4q9P+3CFFCo1nSaIJP7U8vsRQZSl+h3LfRFqBkQbwQCRR2udMv+1Anle8DyU+Msu8ng9XDgxdrBQjtMD36gZvVnBr+91We8pvRkJM5zGlFw3RM8nDgN7iPhxADsxZH83Btnqt1JSgcTDIwi57fafKNfEA/2NzPwWC6poidHPshzBsZA1B2CasOSyW5Vmiq+X33bC7DVNdtih7+I1wniTZxMq8bptoYxYRrPNb9riUd5mL2qdFpakjRKe5sNlurGxZv0iROn5zVzX+SxS4ijx6lMyWHLmkG5PLC/cgM52Erxgq26liftw1UiuYd3/vsPgmZjSQ13mfg==;qCoHh6HL1wOSivPwEYD4sQ=="
+secured: "AV4glhkQnY8NnukIPuy1wMlKsSolSXZmd6EuiLvcnDvZjXi4hEoPAOnc37ukPNy4ErOVtQOlYQI9djGg7EPtoTHCBxdjXJgsZmGbANi4/mOhFeGIDjneBm+7zLFp4lsOB5S2zNB274i86GCn88WhejsP2ktmod2OlzfvxDcT0da7P5Xgp5wmIczUWTYir7cPyqRsWZTM4uCQPdHHUSc2t7IMd71Uux0WieqZyjrqJrwwKZftmgJeMNCW/khFroKXWizQP6mdp3EyLS++KJC0Sk3iXjm6ycNZwDagZhzJdULMZPrzPF5//gwvTcVp/nohknp6uGHqrqRIUdm/PQBbd/+pQSGREBAVXjt5lwTFvjw=;diz8N+ohknoAJqokOfICrA=="
 ---
 

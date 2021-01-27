@@ -274,6 +274,20 @@ related:
         width: 630
         height: 400
         isCached: true
+  - title: "Voice Recognition Market 2021 : Top countries Data, Market Size, In-Depth Analysis with Booming Trends and Segmentation Forecast to 2026"
+    excerpt: "Research Reports has published a detailed report on “Voice Recognition Market\" 2021 which has been categorized"
+    publishedDateTime: 2021-01-27T01:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-2021-top-countries-data-market-size-in-depth-analysis-with-booming-trends-and-segmentation-forecast-to-2026-2021-01-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 21
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "0vjRoAQp7QMEvSanXsY/lTGhT95xFzMcDSemx6E7E+Xpj6PpT7G4Ex9aaFkihzqWiCW8rMk5ajTpXZK0+3hJqoplUpyIaFzBk96fMGt+++aEO2TjtG6Z1RYQxXI95iEPPYAjPWpip3kP4XRMeNfpbPrhBAWUw6IkXOLqUj39A5Tg46xtM1EWFHzu1l27wZDpq2oKjX3FOC1Pa4eDHW9JvsPRMKvv7pmOMhbW+hvlHeg1Yh9z89E/HTM3HL4VlwfjlJxDAheNNEZFp5txiw5WFkh9ixxaQdnDlBDmFJlz1f+iInwDLRuggdV9bAHGUQ0mBgZ7UWg6DXWMVcC7GKNc6RQ24x5EZtMb7x7lZmWMGVg=;G8L/Ql5FITslnI69UuJK7A=="
 ---
