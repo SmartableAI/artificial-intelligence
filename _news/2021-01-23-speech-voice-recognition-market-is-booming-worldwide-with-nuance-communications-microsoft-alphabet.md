@@ -235,20 +235,6 @@ related:
       name: CBS Local
       domain: cbslocal.com
     quality: 39
-  - title: "SAP and Microsoft expand partnership and integrate Microsoft Teams across solutions"
-    excerpt: "SAP SE (NYSE: SAP) and Corp. announced plans to integrate Teams with SAP’s intelligent suite of solutions. The companies also formalized an extensive expansion of an existing strategic partnership to accelerate the adoption of SAP S/4HANA® on Azure."
-    publishedDateTime: 2021-01-22T14:09:00Z
-    webUrl: "https://news.microsoft.com/2021/01/22/sap-and-microsoft-expand-partnership-and-integrate-microsoft-teams-across-solutions/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 33
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/2021/01/SAP_Microsoft-Logos-768x345.jpg"
-        width: 768
-        height: 345
-        isCached: true
   - title: "Cruise, General Motors, and Microsoft team up to develop self-driving vehicles"
     excerpt: "Cruise and General Motors announced they have entered a long-term strategic relationship with Microsoft to accelerate the commercialization of self-driving vehicles."
     publishedDateTime: 2021-01-25T00:00:00Z

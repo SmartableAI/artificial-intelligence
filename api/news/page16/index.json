@@ -2,6 +2,101 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-01-13-avaya-extends-aws-relationship-to-support-ai-capabilities.md",
+      "title": "Avaya Extends AWS Relationship to Support AI Capabilities",
+      "excerpt": "Avaya has extended its Amazon Web Services (AWS) relationship, to expand artificial intelligence (AI)-powered customer experience capabilities for Avaya OneCloud CCaaS customers, Avaya reported on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.executivegov.com/2021/01/avaya-extends-aws-relationship-to-support-ai-capabilities/",
+      "originalUrl": "https://www.executivegov.com/2021/01/avaya-extends-aws-relationship-to-support-ai-capabilities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://executivegov-media.s3.amazonaws.com/2021/01/12/a3/a1/c0/07/55/4b/80/54/avaya_20201120.png",
+          "width": 272,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-12T15:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Executive Gov",
+        "domain": "executivegov.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-job-screening-service-halts-facial-analysis-of-applicants.md",
+      "title": "Job Screening Service Halts Facial Analysis of Applicants",
+      "excerpt": "HireVue, a leading provider of software for vetting job candidates based on an algorithmic assessment, said Tuesday it is killing off a controversial feature of its software: analyzing a person’s facial expressions in a video to discern certain characteristics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/job-screening-service-halts-facial-analysis-applicants/",
+      "originalUrl": "https://www.wired.com/story/job-screening-service-halts-facial-analysis-applicants/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ffcea25072d3ec215c55753/master/pass/hirevue-1210924894.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/job-screening-service-halts-facial-analysis-applicants/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/job-screening-service-halts-facial-analysis-applicants/amp",
+      "publishedDateTime": "2021-01-12T14:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-13-ces-liveblog-laptops-robovacs-and-lab-grown-breast-milk.md",
       "title": "CES Liveblog: Laptops, Robovacs, and Lab-Grown Breast Milk",
       "excerpt": "The consumer tech show is virtual this year, and the WIRED Gear crew is watching all the Zooms to bring you up-to-the-minute highlights of news from CES.",
@@ -1067,92 +1162,6 @@
         "AI in Healthcare",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-us-fintech-artis-announces-new-bank-funding-partneship-with-drummond-community-bank.md",
-      "title": "U.S. Fintech Artis Announces New Bank Funding Partneship With Drummond Community Bank",
-      "excerpt": "Artis Technologies, a U.S.-based fintech that provides lending solutions for businesses, announced on Tuesday it has entered into a new bank funding partnership with Drummond Community Bank for its Artis Credit platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2021/01/171151-u-s-fintech-artis-announces-new-bank-funding-partneship-with-drummond-community-bank/",
-      "originalUrl": "https://www.crowdfundinsider.com/2021/01/171151-u-s-fintech-artis-announces-new-bank-funding-partneship-with-drummond-community-bank/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/benjamin-vladimir-solomyani-unsplash-600x400.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2021/01/171151-u-s-fintech-artis-announces-new-bank-funding-partneship-with-drummond-community-bank/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/01/171151-u-s-fintech-artis-announces-new-bank-funding-partneship-with-drummond-community-bank/amp/",
-      "publishedDateTime": "2021-01-12T06:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-south-korea-mulls-investing-114-billion-in-ai-chips.md",
-      "title": "South Korea Mulls Investing $114 Billion in AI Chips",
-      "excerpt": "South Korea's ICT ministry said Tuesday it will invest 125.3 billion won ($114.1 million) this year to support the development of neural processors, up",
-      "sourceUrl": null,
-      "webUrl": "https://www.albawaba.com/business/south-korea-mulls-investing-114-billion-ai-chips-1404553",
-      "originalUrl": "https://www.albawaba.com/business/south-korea-mulls-investing-114-billion-ai-chips-1404553",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.albawaba.com/sites/default/files/styles/d08_standard/public/im_new/areej/AI_CHIP_shutterstock_12Jan21.jpg?h=707772c7&itok=lVi3b_3K&mrf-size=m",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.albawaba.com/amp/business/south-korea-mulls-investing-114-billion-ai-chips-1404553",
-      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/south-korea-mulls-investing-114-billion-ai-chips-1404553",
-      "publishedDateTime": "2021-01-12T06:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Bawaba News",
-        "domain": "albawaba.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

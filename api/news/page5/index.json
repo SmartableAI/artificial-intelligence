@@ -2,6 +2,59 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-22-the-new-raspberry-pi-pico-is-an-incredibly-powerful-little-chip-for-just-4.md",
+      "title": "The new Raspberry Pi Pico is an incredibly powerful little chip for just $4",
+      "excerpt": "The Pico is the first microcontroller board from Raspberry Pi and has been built around the new, custom RP2040 chip.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/the-new-raspberry-pi-pico-is-an-incredibly-powerful-little-chip-for-just-4/",
+      "originalUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/the-new-raspberry-pi-pico-is-an-incredibly-powerful-little-chip-for-just-4/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2021/01/21/a6ec6b4b-2925-4f84-a92c-a9d06ecec4ab/resize/1200x/7e9b50b8b494608f7464ffceb3397843/raspberry-pi-pico-angle.jpg",
+          "width": 1200,
+          "height": 858,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/the-new-raspberry-pi-pico-is-an-incredibly-powerful-little-chip-for-just-4/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/the-new-raspberry-pi-pico-is-an-incredibly-powerful-little-chip-for-just-4/",
+      "publishedDateTime": "2021-01-21T16:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-01-22-new-google-union-concerned-after-a-senior-ai-ethics-researcher-is-reportedly-locked-out-of-her-account.md",
       "title": "New Google union ‘concerned’ after a senior A.I. ethics researcher is reportedly locked out of her account",
       "excerpt": "The Alphabet Workers Union has said it is concerned over Google's decision to lock Margaret Mitchell, a senior AI ethics researcher, out of her account.",
@@ -641,6 +694,49 @@
       ]
     },
     {
+      "path": "_news/2021-01-21-a-deep-learning-based-framework-for-the-registration-of-three-dimensional-multi-modal-medical-images-of-the-head.md",
+      "title": "A deep learning based framework for the registration of three dimensional multi-modal medical images of the head",
+      "excerpt": "Here, we explore the use of feature-based deep learning for 3D rigid-body registration of intra-patient, multi-modal (CT and MRI) images of the head. To this end, we first discuss a method of generating synthetic data to augment an existing registration ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/s41598-021-81044-7",
+      "originalUrl": "https://www.nature.com/articles/s41598-021-81044-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-81044-7/MediaObjects/41598_2021_81044_Fig1_HTML.png",
+          "width": 685,
+          "height": 291,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-21T07:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-how-this-company-leveraged-ai-to-become-the-netflix-of-finland.md",
       "title": "How this company leveraged AI to become the Netflix of Finland",
       "excerpt": "Finnish public broadcaster Yle made impressive inroads in online streaming with its Areena service, which is more popular than Netflix.",
@@ -1135,113 +1231,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-metaethics-meta-intelligence-and-the-rise-of-ai.md",
-      "title": "Metaethics, Meta-Intelligence And The Rise Of AI",
-      "excerpt": "With every new major transformation at a societal level driven by technology, there will be new concerns and challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/21/metaethics-meta-intelligence-and-the-rise-of-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/21/metaethics-meta-intelligence-and-the-rise-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6008510b4bf953e545c92756%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/21/metaethics-meta-intelligence-and-the-rise-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/21/metaethics-meta-intelligence-and-the-rise-of-ai/amp/",
-      "publishedDateTime": "2021-01-21T04:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-this-chinese-lab-is-aiming-for-big-ai-breakthroughs.md",
-      "title": "This Chinese Lab Is Aiming for Big AI Breakthroughs",
-      "excerpt": "China produces as many artificial intelligence researchers as the US, but it lags in key fields like machine learning. The government hopes to make up ground.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/chinese-lab-aiming-big-ai-breakthroughs/",
-      "originalUrl": "https://www.wired.com/story/chinese-lab-aiming-big-ai-breakthroughs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/60089079a9a24f451b08fc1e/master/pass/Business-BAAI-Building.jpg",
-          "width": 2400,
-          "height": 1352,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/chinese-lab-aiming-big-ai-breakthroughs/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/chinese-lab-aiming-big-ai-breakthroughs/amp",
-      "publishedDateTime": "2021-01-21T04:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Facebook AI",
-        "AI Ethics",
-        "Natural Language Processing"
       ]
     }
   ],

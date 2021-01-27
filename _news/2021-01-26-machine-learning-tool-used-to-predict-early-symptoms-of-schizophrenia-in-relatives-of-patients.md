@@ -7,7 +7,7 @@ originalUrl: "https://www.miragenews.com/machine-learning-tool-used-to-predict-e
 webUrl: "https://www.miragenews.com/machine-learning-tool-used-to-predict-early-symptoms-of-schizophrenia-in-relatives-of-patients/"
 type: article
 quality: 27
-heat: 27
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "New machine learning tool predicts schizophrenia"
+    excerpt: "University of Alberta researchers have taken another step forward in developing an artificial intelligence tool to predict schizophrenia by analyzing brain scans."
+    publishedDateTime: 2021-01-27T05:42:00Z
+    webUrl: "https://www.news-medical.net/news/20210127/New-machine-learning-tool-predicts-schizophrenia.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210127/New-machine-learning-tool-predicts-schizophrenia.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210127/New-machine-learning-tool-predicts-schizophrenia.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 59
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2015/10/shutterstock_186886337_312c5408c21548f8aac48bbe3c985f8e-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
   - title: "Machine learning tool used to predict early symptoms of schizophrenia in relatives of patients (image)"
     excerpt: "Sunil Kalmady Vasu (centre) led a recent study with fellow U of A researchers including Russ Greiner (left), Andrew Greenshaw (right) and Serdar Dursun (not pictured), showing that a machine learning tool could help predict early symptoms of schizophrenia in siblings and children of patients,"
     publishedDateTime: 2021-01-26T20:50:00Z

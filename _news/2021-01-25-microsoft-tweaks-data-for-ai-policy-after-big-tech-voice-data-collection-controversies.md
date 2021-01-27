@@ -225,20 +225,6 @@ related:
       name: CBS Local
       domain: cbslocal.com
     quality: 39
-  - title: "SAP and Microsoft expand partnership and integrate Microsoft Teams across solutions"
-    excerpt: "SAP SE (NYSE: SAP) and Corp. announced plans to integrate Teams with SAP’s intelligent suite of solutions. The companies also formalized an extensive expansion of an existing strategic partnership to accelerate the adoption of SAP S/4HANA® on Azure."
-    publishedDateTime: 2021-01-22T14:09:00Z
-    webUrl: "https://news.microsoft.com/2021/01/22/sap-and-microsoft-expand-partnership-and-integrate-microsoft-teams-across-solutions/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 33
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/2021/01/SAP_Microsoft-Logos-768x345.jpg"
-        width: 768
-        height: 345
-        isCached: true
   - title: "Speech & Voice Recognition Market is Booming Worldwide with Nuance Communications, Microsoft, Alphabet"
     excerpt: "Latest released the research study on Global Speech Voice Recognition Market offers a detailed overview of the factors influencing the global business scope Speech Voice Recognition Market research report shows the latest market insights current situation analysis with upcoming trends"
     publishedDateTime: 2021-01-22T18:34:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.govtech.com/public-safety/Staten-Island-DA-Draws-Critici
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Staten-Island-DA-Draws-Criticism-for-Facial-Recognition-Use.html?AMP"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Government Technology
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "NY civil rights advocates back facial recognition ban"
+    excerpt: "Amnesty International is calling on New York City and state officials to ban law enforcement from using facial recognition technology, saying it threatens the civil rights of “marginalized” communities."
+    publishedDateTime: 2021-01-26T21:12:00Z
+    webUrl: "https://www.stamfordadvocate.com/news/article/NY-civil-rights-advocates-back-facial-recognition-15900061.php"
+    ampWebUrl: "https://www.stamfordadvocate.com/news/amp/NY-civil-rights-advocates-back-facial-recognition-15900061.php"
+    cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/NY-civil-rights-advocates-back-facial-recognition-15900061.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 59
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Staten Island D.A. Uses Controversial Facial Recognition Tool"
     excerpt: "The Legal Aid Society has denounced the district attorney’s use of Clearview AI, the surveillance database, and has demanded the D.A. disclose how his office has used and is using the technology. (TNS) — The Legal Aid Society on Thursday denounced the ..."
     publishedDateTime: 2021-01-22T21:42:00Z

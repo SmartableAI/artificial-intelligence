@@ -24,20 +24,54 @@ images:
     isCached: true
 
 related:
-  - title: "This Jet Will Turn AI Into a Real-World Top Gun"
-    excerpt: "AI could dogfight in the skies, but first it needs to get inside a real cockpit and learn the basics. Artificial intelligence has arrived on the battlefield. Powerful algorithms are decoding vast amounts of data,"
-    publishedDateTime: 2021-01-24T14:42:00Z
-    webUrl: "https://www.popularmechanics.com/military/aviation/a35140765/ai-fighter-jet-calspan/"
+  - title: "Dell Precision Workstations for AI"
+    excerpt: "Why developers are turning to ultra-powerful workstations for more creative freedom at less cost. Research shows that"
+    publishedDateTime: 2021-01-26T18:44:00Z
+    webUrl: "https://www.techrepublic.com/resource-library/whitepapers/dell-precision-workstations-for-ai/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/resource-library/whitepapers/dell-precision-workstations-for-ai/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/dell-precision-workstations-for-ai/"
     type: article
     provider:
-      name: Popular Mechanics
-      domain: popularmechanics.com
-    quality: 37
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 67
+  - title: "New European Parliament guidelines for AI and facial recognition invite moratorium consideration"
+    excerpt: "The report calls for a new legal framework for the development and employment of AI and surveillance-related face biometric applications."
+    publishedDateTime: 2021-01-22T17:37:00Z
+    webUrl: "https://www.biometricupdate.com/202101/new-european-parliament-guidelines-for-ai-and-facial-recognition-invite-moratorium-consideration"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 41
     images:
-      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/dsc-0883-jpg-1610138460.jpg?crop=0.998xw:0.751xh;0,0.159xh&resize=1200:*"
-        width: 1200
-        height: 602
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/07/25183012/Chincotech-facial-recognition.png"
+        width: 623
+        height: 432
         isCached: true
+  - title: "The Promise of Artificial Intelligence in Precision Medication Dosing"
+    excerpt: "The most compelling approach to solving this important problem to date is with the application of artificial intelligence to enable precision dosing. Precision dosing is an umbrella term that refers to the process of transforming a “one-size-fits-all ..."
+    publishedDateTime: 2021-01-22T16:11:00Z
+    webUrl: "https://www.analyticsinsight.net/the-promise-of-artificial-intelligence-in-precision-medication-dosing/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/Precision-Dosing.jpg"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "Correction to Google Artificial Intelligence Article"
+    excerpt: "Chief Executive Sundar Pichai said last year, adding, \"While AI promises enormous benefits for Europe and the world, there are real concerns about the potential negative consequences.\" \"Artificial Intelligence Will Define Google's Future."
+    publishedDateTime: 2021-01-26T20:02:00Z
+    webUrl: "https://www.morningstar.com/news/dow-jones/2021012614168/correction-to-google-artificial-intelligence-article"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 17
 
 secured: "oH2znuY6x4hT6/xyhRB7iAzDpJFgAFbAlcyH5ljVP/zgGp5FSgd1saWuqk/f7O4PEIsx1ERPpM4tsXkuY29SMpDfT7B8G9WeP3OUfIE11e66mGyBrRDB1SLQ3GI5IVkJkBPZnENsn3mKkdlkjPGkBSQZdfbSoE8PvL9vWtROFhuYN974/xPE6AuAjpq45UwKFx5riGYxgABEMWK9XuK+GlBl3r3xJ8CWZ4l8rqtkQrBG8b7XXoZ6rAynPm554K7skoJJ2knZttVTk5GFbcMZ6jLignYlyMFoq0bJQ9X9IbS1Tz1x0O0TZJM32Q0sXVaAG6Q/ldMwBhHqNtirb+akbpxvOh9LIKf1GlKWuWKsrPLOFPgbawB4EfPnqU9CnPygnSO7HUVcnETqgosdvz88XV5BlrzQCGU4OSivK+fZCNsKg2ZDi9szzntlZZYSEV36Qcwwi6CYZ+npybQ0MECa+/nb+i6SePkM5A1vfu5XCrEyxMUFn+4qoB4gNybXFVMVA6eEJI12kB6YT0sSRUSCFQ==;Ee2tZyUST6YyCAvUq3DMrw=="
 ---

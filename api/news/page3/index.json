@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-26-robots-take-up-the-fight-against-infection.md",
+      "title": "Robots take up the fight against infection",
+      "excerpt": "Rapid advances in AI and automation mean robots are now helping businesses in almost every sector to boost efficiency, enhance productivity and streamline costs. But in the age of Covid-19, attention has also focused on how AI-enabled robots can be used to clean offices,",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/presented/business/topics/robots-take-fight-against-infection/article/3117490/robots-take-fight",
+      "originalUrl": "https://www.scmp.com/presented/business/topics/robots-take-fight-against-infection/article/3117490/robots-take-fight",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/2021/01/13/softbank-1200x800-hero_image.jpg?itok=ebCILjb4",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-25T08:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-copyai-revolutionizes-digital-marketing-by-augmenting-human-creativity-with-ai.md",
       "title": "Copy.ai Revolutionizes Digital Marketing By Augmenting Human Creativity With AI",
       "excerpt": "Chris Lu and Paul Yacoubian realize that artificial intelligence can augment human creativity, instead of replacing it as some may fear, creating Copy.ai to enhance digital marketers ad copy.",
@@ -1111,49 +1163,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-24-amazon-plans-to-overhaul-film-age-classification-with-new-ai-system.md",
-      "title": "Amazon plans to overhaul film age classification with new AI system",
-      "excerpt": "Amazon is exploring developing an artificial intelligence (AI) system that automatically assigns age ratings to films and television shows, eliminating the need for human checks. A patent application filed by the US e-commerce business this month shows that Amazon has invented a way to scan films using a form of AI that could explain to people about to stream a film how much sexual content,",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraph.co.uk/technology/2021/01/24/amazon-plans-overhaul-film-age-classification-new-ai-system/",
-      "originalUrl": "https://www.telegraph.co.uk/technology/2021/01/24/amazon-plans-overhaul-film-age-classification-new-ai-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.telegraph.co.uk/content/dam/technology/2020/10/09/TELEMMGLPICT000195076254_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg",
-          "width": 2501,
-          "height": 1563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telegraph.co.uk/technology/2021/01/24/amazon-plans-overhaul-film-age-classification-new-ai-system/amp/",
-      "cdnAmpWebUrl": "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2021/01/24/amazon-plans-overhaul-film-age-classification-new-ai-system/amp/",
-      "publishedDateTime": "2021-01-23T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Telegraph",
-        "domain": "telegraph.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     },

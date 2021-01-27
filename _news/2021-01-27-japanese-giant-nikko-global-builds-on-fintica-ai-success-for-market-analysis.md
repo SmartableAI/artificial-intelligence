@@ -1,31 +1,27 @@
 ---
 category: news
 title: "Japanese giant Nikko Global builds on Fintica AI success for market analysis"
-excerpt: "Fintica is an Israeli deeptech Fintech Company that is building next generation Autonomous AI for the Global Financial Industry. The company is the fintech spinoff of Israel's leading Artificial Intelligence (AI) company, Cortica, and has developed ..."
-publishedDateTime: 2021-01-27T02:25:00Z
-originalUrl: "https://www.marketwatch.com/press-release/japanese-giant-nikko-global-builds-on-fintica-ai-success-for-market-analysis-2021-01-26"
-webUrl: "https://www.marketwatch.com/press-release/japanese-giant-nikko-global-builds-on-fintica-ai-success-for-market-analysis-2021-01-26"
+excerpt: "Fintica AI, Ltd. announced today the successful execution of a project for leading international Japan-based asset management company,"
+publishedDateTime: 2021-01-26T19:57:00Z
+originalUrl: "https://www.prnewswire.com/il/news-releases/japanese-giant-nikko-global-builds-on-fintica-ai-success-for-market-analysis-301215010.html"
+webUrl: "https://www.prnewswire.com/il/news-releases/japanese-giant-nikko-global-builds-on-fintica-ai-success-for-market-analysis-301215010.html"
 type: article
-quality: 66
-heat: 76
-published: true
+quality: 36
+heat: -1
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
     isCached: true
 
 related:
@@ -44,6 +40,6 @@ related:
         height: 315
         isCached: true
 
-secured: "wc/NNIHF5S+ex24BXuGMe5eR3MA5023b/mQewpYxiLIIvA7fU4Dzodj/ZCD1A26pg0m0CDhmwKxt/v3SsvZpDaUVuIptqf+GspPk9hvK9sq0b/SiHV9/KDzSv0CrodRUyORSY16+KcJUkiEeDWtn7xblAr6/j6XVVPbYuXESIdybDMNJLWGDJLxfIsZnETUPMHm7ceS9Nj5BMKtKPGX1DmYPGnE154E6An1sVTHhqUlIm3raYXOZ4Ho2e9c5VozzaUCsapWAe0zvg3WKLybPPFSXnURLMjqS6+QY5I66BYwjnwjZASEkCr767X1oScLaXJ32G/obBhSN4hxOY4DOu5XbnWSjWUOivtZIko4hWsw=;h7x3GxoBDv+7SU0vCZpjiw=="
+secured: "MkdiTyy4xjQxK1859szRfyaTLWU6s7fQuttLnmSbPwVxzIwSLxiRaR85SlqNlv5ou5VrqOuS5QK6IY2o7NzLWjbPHp5GJRPkj6dvWzKhOLxVUCJoKZbt5oAszh/WjZJm+f6NWMenRu8CoCnW1qQr3x7u2sfjmplXUQRBhElMhyLiomWvnBUv09WgEBt88TCE8HRIKhyIEo1RpQnYlPhFmOlAeBLLBRiw29S8vvDRFS2GRN6060EFcXnaeIUoz4fNKej6UAfQ7nxBGNA7xmRXsAa1DwUtVPxSUNmM25ftHGOZCFVyedszK2GZohUCAMuys35Fq9+qF3LQtAn5i+q7guZDWmAYMiGUOguTzoMlcn8=;arARg8pGAg6gAuWcf8IMxw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-marketing-market-size-share-analysis-report-forecast-to-2025-2021-01-23"
 type: article
 quality: 86
-heat: 286
+heat: 276
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Education Market Size | Global Industry Analysis, Segments, Top Key Players, Drivers and Trends to 2024"
-    excerpt: "Jan (Market Insight Reports) -- Selbyville, Delaware. Market Study Report LLC: A comprehensive research study on Artificial Intelligence (AI)"
-    publishedDateTime: 2021-01-22T13:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-size-global-industry-analysis-segments-top-key-players-drivers-and-trends-to-2024-2021-01-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Robots Market Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025"
     excerpt: "Jan (Heraldkeepers) -- The report covers detailed competitive outlook including the market share and company profiles of the key"
     publishedDateTime: 2021-01-25T07:33:00Z

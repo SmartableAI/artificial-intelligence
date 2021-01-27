@@ -2,6 +2,110 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2020-12-09-amazon-forecast-weather-index-automatically-include-local-weather-to-increase-your-forecasting-model-accuracy.md",
+      "title": "Amazon Forecast Weather Index – automatically include local weather to increase your forecasting model accuracy",
+      "excerpt": "We’re excited to announce the Amazon Forecast Weather Index, which can increase your forecasting accuracy by automatically including local weather information in your demand forecasts with one click and at no extra cost. Weather conditions influence consumer demand patterns, product merchandizing decisions,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-forecast-weather-index-automatically-include-local-weather-to-increase-your-forecasting-model-accuracy/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-forecast-weather-index-automatically-include-local-weather-to-increase-your-forecasting-model-accuracy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/08/ML-1572-12.jpg",
+          "width": 800,
+          "height": 492,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-09T09:02:30-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-heres-how-youll-get-paid-to-ride-in-a-self-driving-car.md",
+      "title": "Here’s How You’ll Get Paid To Ride In A Self-Driving Car",
+      "excerpt": "There are some intriguing (and surprising) ways that people will get paid to go riding in self-driving cars, and here are the Top 5 most likely means.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/12/09/heres-how-youll-get-paid-to-ride-in-a-self-driving-car/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/12/09/heres-how-youll-get-paid-to-ride-in-a-self-driving-car/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 219,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8a30cd9c66718cf61faaf9%2F0x0.jpg%3FcropX1%3D2033%26cropX2%3D7408%26cropY1%3D611%26cropY2%3D4256",
+          "width": 1200,
+          "height": 814,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/12/09/heres-how-youll-get-paid-to-ride-in-a-self-driving-car/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/12/09/heres-how-youll-get-paid-to-ride-in-a-self-driving-car/amp/",
+      "publishedDateTime": "2020-12-09T08:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-artificial-neural-network-ann-market.md",
       "title": "Artificial Neural Network (ANN) Market",
       "excerpt": "Artificial Neural Network (ANN) market report gives insights into revenue growth and sustainability initiative. By understanding and keeping into focus customer requirement, one method or ...",
@@ -1013,100 +1117,6 @@
       "provider": {
         "name": "Detroit News",
         "domain": "detroitnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-pwc-5-tactics-that-increase-your-chance-of-winning-with-ai.md",
-      "title": "PwC: 5 tactics that increase your chance of winning with AI",
-      "excerpt": "A new report finds that the uncertainty of the pandemic forced executives to rely on artificial intelligence to map out multiple scenarios to find a way forward.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/pwc-5-tactics-that-increase-your-chance-of-winning-with-ai/",
-      "originalUrl": "https://www.techrepublic.com/article/pwc-5-tactics-that-increase-your-chance-of-winning-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/11/11/44436744-fe4e-4eaf-bdbe-c943f9889f46/resize/1200x/ec4c1fe64d24827800bfe87676c10f69/metamorworks-11.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/pwc-5-tactics-that-increase-your-chance-of-winning-with-ai/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/pwc-5-tactics-that-increase-your-chance-of-winning-with-ai/",
-      "publishedDateTime": "2020-12-08T21:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-a-preview-of-swindons-future-superfast-broadband-driverless-cars-and-an-institute-of-technology.md",
-      "title": "A preview of Swindon's future: Superfast broadband, driverless cars, and an Institute of Technology",
-      "excerpt": "THE TechSwindon summit itself previewed an exciting future for the town with superfast broadband and a new tech institute on the way.",
-      "sourceUrl": null,
-      "webUrl": "https://www.swindonadvertiser.co.uk/news/local/18929381.preview-swindons-future-superfast-broadband-driverless-cars-institute-technology/",
-      "originalUrl": "https://www.swindonadvertiser.co.uk/news/local/18929381.preview-swindons-future-superfast-broadband-driverless-cars-institute-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.swindonadvertiser.co.uk/resources/images/12117621/",
-          "width": 1747,
-          "height": 1240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-08T21:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Swindon Advertiser",
-        "domain": "swindonadvertiser.co.uk",
         "images": null,
         "publishers": null,
         "authors": null

@@ -3,8 +3,8 @@ category: news
 title: "Chinese self-driving startup nets $154m in investment from state-backed fund"
 excerpt: "With the new funds, Uisee will further develop its autonomous driving technology and accelerate its monetization."
 publishedDateTime: 2021-01-25T11:30:00Z
-originalUrl: "https://www.techinasia.com/chinese-selfdriving-startup-uisee-nets-154m-investment-statebacked-fund"
-webUrl: "https://www.techinasia.com/chinese-selfdriving-startup-uisee-nets-154m-investment-statebacked-fund"
+originalUrl: "https://www.techinasia.com/chinese-selfdriving-startup-uisee-nets-154m-investment-statebacked-fund?ref=recommender-671380"
+webUrl: "https://www.techinasia.com/chinese-selfdriving-startup-uisee-nets-154m-investment-statebacked-fund?ref=recommender-671380"
 type: article
 quality: 31
 heat: -1
@@ -38,6 +38,6 @@ related:
         height: 799
         isCached: true
 
-secured: "KCEguwxonioqT1+WYnD9S1HWtNS/VBCsO02QtDnKHIOf2a0/MkIDawLjoqaldCTOavb9UC8bHlIevaHicPnywhldriFZQQZCVpnWcfg3iQ3UjXEqKc1JRun/hb8vggomz3+pIESF8abPAlLJ4HMnbBgeJyDAm8JaAtSl6iSFj8wFdLTxkOe1znkovIHVgHURjigtOYVV8zR8JXtVnAFrLydDDom9jD7UVs1M3A9WzIIngOMr2Bace4jEThc/x6gULFiCUJIrfDfSq+99G4LTYjpiHiZZo1mfQnEYWqLYcdcubp4KHZ9AtdiUrofYP6e6Rd/an5bKma87wAahIWPB+pHLpXJXXv2QiQmdflytccicfuvi8TGb3lLWWMa3E7nXac8R+1Clv6ukG/hyEL23kFR2Eb+tumuuKTTr88XVFv9CsIhTJUcAvig488kktKrgqa6M/XkFCLZtOs27iH4eq/+VpQe+PmvG89FD0AhrR3oCwdfVRPJ5gVtplkME8/XKtV1x0pwdPJbIPdqyrX6brA==;WATz3au49sF/w7ckQD6y3A=="
+secured: "/8vK+qh/O87fjKmPKFrpu+YEoz/CHu8WMT6xJT4jJU+Bz0ws6DhtVpVCE1H1bt2u2Geo4rZ4Ii33/QLjo9PxhjD/Nyo+aZpivfTZwMSqPNFB6GBSGAqOeY+DqwCOh/PmGoY6wIywQP89g5Voc4j+KHCH4Fz+DrFaQbDUUuv5thtM0jwSeQXjzJeSe8UCEu1DviMp/Jx4u7XTf/LReBQA7h5om6VMLe+BfXRd3zc/2LFIdCk4oFpd+ay5s1yhlD3utd1KyuwnMNDf1CGJSz1K5xr2Hpd53lK359A8mNwI+8y3m8mk5j1aMjhoEsQeGXVB5nJhp8Gn0f84uIcqiMAqwYaQlpuOQ1xVuFWhmqsORgjyFn59D4kH+z7xydiCaLkRFCQCR92oVZxqUWT25cYUvOhH9VHb1Y88fEhsnTuSJ31Dj5k5fo8O4NkBIjhHUHmYGRodVpSwH1pfHfIqdQQdRgqHUGMh0EaUeom1rDy5+TIxv4NUO6310TrtFKRcEB/8fF8J8uGzuSG50P33dGLT0A==;TaKwII9DaO8iyb9blqlqOw=="
 ---
 

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-27-new-machine-learning-tool-predicts-schizophrenia.md",
+      "title": "New machine learning tool predicts schizophrenia",
+      "excerpt": "University of Alberta researchers have taken another step forward in developing an artificial intelligence tool to predict schizophrenia by analyzing brain scans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20210127/New-machine-learning-tool-predicts-schizophrenia.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20210127/New-machine-learning-tool-predicts-schizophrenia.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2015/10/shutterstock_186886337_312c5408c21548f8aac48bbe3c985f8e-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20210127/New-machine-learning-tool-predicts-schizophrenia.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210127/New-machine-learning-tool-predicts-schizophrenia.aspx",
+      "publishedDateTime": "2021-01-26T21:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-how-ai-and-ml-will-impact-insurers-roi-reserves-in-2021-and-beyond.md",
       "title": "How AI and ML will impact insurers' ROI reserves in 2021 and beyond",
       "excerpt": "Here's how emerging technologies can allow insurers to conduct proactive analyses to aid in the claims process.",
@@ -227,6 +270,49 @@
         "Machine Learning",
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-a-deep-learning-based-framework-for-the-registration-of-three-dimensional-multi-modal-medical-images-of-the-head.md",
+      "title": "A deep learning based framework for the registration of three dimensional multi-modal medical images of the head",
+      "excerpt": "Here, we explore the use of feature-based deep learning for 3D rigid-body registration of intra-patient, multi-modal (CT and MRI) images of the head. To this end, we first discuss a method of generating synthetic data to augment an existing registration ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/s41598-021-81044-7",
+      "originalUrl": "https://www.nature.com/articles/s41598-021-81044-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-81044-7/MediaObjects/41598_2021_81044_Fig1_HTML.png",
+          "width": 685,
+          "height": 291,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-21T07:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1307,102 +1393,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker.md",
-      "title": "ElectrifAi Announces Expansion of Machine Learning Model Offerings for Amazon SageMaker",
-      "excerpt": "ElectrifAi, one of the world’s leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models, today announced expanded offerings of pre-built and pre-structured ML models for Amazon SageMaker, including models ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.suasnews.com/2021/01/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker/",
-      "originalUrl": "https://www.suasnews.com/2021/01/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/www.suasnews.com/wp-content/uploads/2021/01/electrifi-scaled.jpg?fit=2560%2C1340&ssl=1",
-          "width": 2560,
-          "height": 1340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.suasnews.com/2021/01/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker/amp/",
-      "cdnAmpWebUrl": "https://www-suasnews-com.cdn.ampproject.org/c/s/www.suasnews.com/2021/01/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker/amp/",
-      "publishedDateTime": "2021-01-13T21:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SUAS News",
-        "domain": "suasnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-machine-learning-market-outlook-size-share-and-growth-and-forecast-assumptions.md",
-      "title": "Machine Learning Market Outlook, Size, Share and Growth and Forecast Assumptions",
-      "excerpt": "Global Machine Learning industry valued approximately USD 1.02 billion in 2016 is anticipated to grow with a healthy",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-market-outlook-size-share-and-growth-and-forecast-assumptions-2021-01-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-market-outlook-size-share-and-growth-and-forecast-assumptions-2021-01-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-13T16:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

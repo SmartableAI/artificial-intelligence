@@ -2,6 +2,102 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-14-electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker.md",
+      "title": "ElectrifAi Announces Expansion of Machine Learning Model Offerings for Amazon SageMaker",
+      "excerpt": "ElectrifAi, one of the world’s leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models, today announced expanded offerings of pre-built and pre-structured ML models for Amazon SageMaker, including models ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.suasnews.com/2021/01/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker/",
+      "originalUrl": "https://www.suasnews.com/2021/01/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/www.suasnews.com/wp-content/uploads/2021/01/electrifi-scaled.jpg?fit=2560%2C1340&ssl=1",
+          "width": 2560,
+          "height": 1340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.suasnews.com/2021/01/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker/amp/",
+      "cdnAmpWebUrl": "https://www-suasnews-com.cdn.ampproject.org/c/s/www.suasnews.com/2021/01/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker/amp/",
+      "publishedDateTime": "2021-01-13T21:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SUAS News",
+        "domain": "suasnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-01-14-machine-learning-market-outlook-size-share-and-growth-and-forecast-assumptions.md",
+      "title": "Machine Learning Market Outlook, Size, Share and Growth and Forecast Assumptions",
+      "excerpt": "Global Machine Learning industry valued approximately USD 1.02 billion in 2016 is anticipated to grow with a healthy",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-market-outlook-size-share-and-growth-and-forecast-assumptions-2021-01-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-market-outlook-size-share-and-growth-and-forecast-assumptions-2021-01-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-13T16:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-13-using-machine-learning-to-predict-vessel-time-of-arrival-with-amazon-sagemaker.md",
       "title": "Using machine learning to predict vessel time of arrival with Amazon SageMaker",
       "excerpt": "According to the International Chamber of Shipping, 90% of world commerce happens at sea. Vessels are transporting every possible kind of commodity, including raw materials and semi-finished and finished goods, making ocean transportation a key component of the global supply chain. Manufacturers, retailers,",
@@ -1294,83 +1390,6 @@
       "provider": {
         "name": "CIOReview",
         "domain": "cioreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-lisk-machine-learning-trading-up-158-over-last-week-lml.md",
-      "title": "Lisk Machine Learning Trading Up 15.8% Over Last Week (LML)",
-      "excerpt": "Lisk Machine Learning (CURRENCY:LML) traded up 31.8% against the U.S. dollar during the 24-hour period ending at 18:00 PM Eastern on January 7th. One Lisk Machine Learning token can now be purchased for about $0.",
-      "sourceUrl": null,
-      "webUrl": "https://www.modernreaders.com/news/2021/01/07/lisk-machine-learning-trading-up-15-8-over-last-week-lml.html",
-      "originalUrl": "https://www.modernreaders.com/news/2021/01/07/lisk-machine-learning-trading-up-15-8-over-last-week-lml.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.modernreaders.com/news/2021/01/07/lisk-machine-learning-trading-up-15-8-over-last-week-lml.html/amp",
-      "cdnAmpWebUrl": "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2021/01/07/lisk-machine-learning-trading-up-15-8-over-last-week-lml.html/amp",
-      "publishedDateTime": "2021-01-07T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "modernreaders.com",
-        "domain": "modernreaders.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-dall-e-openais-ai-system-can-convert-words-and-sentences-into-images.md",
-      "title": "DALL-E: OpenAI’s AI System Can Convert Words And Sentences Into Images",
-      "excerpt": "OpenAI has developed an AI system that lays its foundations in GPT-3, DALL-E — capable of creating images from natural language texts.",
-      "sourceUrl": null,
-      "webUrl": "https://techlog360.com/dall-e-openai-ai-system/",
-      "originalUrl": "https://techlog360.com/dall-e-openai-ai-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2.wp.com/tl360.b-cdn.net/wp-content/uploads/2021/01/DALL-E-OpenAI-AI-System.jpg?fit=1200%2C630&#038;ssl=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techlog360.com/dall-e-openai-ai-system/amp/",
-      "cdnAmpWebUrl": "https://techlog360-com.cdn.ampproject.org/c/s/techlog360.com/dall-e-openai-ai-system/amp/",
-      "publishedDateTime": "2021-01-07T06:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techlog360.com",
-        "domain": "techlog360.com",
         "images": null,
         "publishers": null,
         "authors": null

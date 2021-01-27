@@ -59,17 +59,6 @@ related:
         width: 500
         height: 339
         isCached: true
-  - title: "Privacy fears as Indian city readies facial recognition to spot harassed women"
-    excerpt: "A plan to monitor women's expressions with facial recognition technology to prevent street harassment in a north Indian city, will lead to intrusive policing and privacy violations, digital rights experts warned on Friday."
-    publishedDateTime: 2021-01-22T13:42:00Z
-    webUrl: "https://www.reuters.com/article/us-india-tech-women-trfn-idUSKBN29R0X5"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29R0X5"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29R0X5"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 65
   - title: "Ban on facial recognition technology advances in Minneapolis"
     excerpt: "MINNEAPOLIS (AP) — A proposal to ban the use of facial recognition technology by Minneapolis police and other city departments is advancing. The technology has raised concerns by some"
     publishedDateTime: 2021-01-22T15:37:00Z
@@ -83,31 +72,6 @@ related:
       - url: "https://apnews.com/images/ShareLogo2.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "Indian city plans facial recognition to spot ‘women in need’ | Technology News"
-    excerpt: "Indian city plans facial recognition to spot 'women in need' | Technology News A plan to monitor women's facial expressions with facial"
-    publishedDateTime: 2021-01-22T13:36:00Z
-    webUrl: "https://www.compsmag.com/news/technology/indian-city-plans-facial-recognition-to-spot-women-in-need-technology-news/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/indian-city-plans-facial-recognition-to-spot-women-in-need-technology-news/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/indian-city-plans-facial-recognition-to-spot-women-in-need-technology-news/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 35
-  - title: "Privacy concerns as Indian city to roll out facial recognition to spot harassed women"
-    excerpt: "India remains one of the most dangerous places in the world for women to live. According to government data, a rape occurs every 15 minutes"
-    publishedDateTime: 2021-01-22T13:38:00Z
-    webUrl: "https://www.independent.co.uk/news/world/asia/india-lucknow-facial-recognition-women-harassment-b1791133.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 32
-    images:
-      - url: "https://static.independent.co.uk/2021/01/22/09/GettyImages-1208499308.jpg"
-        width: 3607
-        height: 2404
         isCached: true
   - title: "Privacy fears as Indian city of Lucknow readies facial recognition to spot harassed women"
     excerpt: "Artificial Intelligence is not a silver bullet, and no amount of 'fancy' tech can fix societal problems,\" Vidushi Marda, a researcher at human rights group, said,"

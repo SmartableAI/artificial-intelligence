@@ -1,27 +1,33 @@
 ---
 category: news
 title: "Nvidia launches certification program for AI platforms"
-excerpt: "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net SEE ALSO: Chamath Palihapitiya follows Reddit investors into GameStop with purchase of bullish options that start paying ..."
-publishedDateTime: 2021-01-27T04:54:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/nvidia-launches-certification-program-for-ai-platforms-9736213"
-webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-launches-certification-program-for-ai-platforms-9736213"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/nvidia-launches-certification-program-for-ai-platforms-9736213"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/nvidia-launches-certification-program-for-ai-platforms-9736213"
+excerpt: "Nvidia today launched a formal certification program for systems based on graphical processor units (GPUs) deployed in on-premises IT environments by its OEM partners. The Nvidia-Certified Systems initiative comes at a time when AI models are starting to be both trained and deployed at the network edge rather than trained only in the cloud."
+publishedDateTime: 2021-01-27T01:00:00Z
+originalUrl: "https://venturebeat.com/2021/01/26/nvidia-launches-certification-program-for-ai-platforms/"
+webUrl: "https://venturebeat.com/2021/01/26/nvidia-launches-certification-program-for-ai-platforms/"
+ampWebUrl: "https://venturebeat.com/2021/01/26/nvidia-launches-certification-program-for-ai-platforms/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/26/nvidia-launches-certification-program-for-ai-platforms/amp/"
 type: article
-quality: 67
-heat: 107
+quality: 87
+heat: 117
 published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: VentureBeat
+  domain: venturebeat.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2021/01/NVIDIA-Certified-Press-Graphic.jpg?w=1200&strip=all"
+    width: 1200
+    height: 600
+    isCached: true
 
 related:
   - title: "Nvidia Puts Certified AI Servers At Forefront In New Program"
@@ -61,21 +67,7 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 18
-  - title: "VAST Data Unveils Joint Reference Architecture with NVIDIA Designed to Significantly Increase Storage Performance for Large-Scale AI Workloads"
-    excerpt: "VAST Data, the storage company breaking decades-old tradeoffs, today announced a new reference architecture based on NVIDIA DGX™ A100 systems and VAST Data’s Universal Storage platform. This reference architecture is designed to significantly increase storage performance for AI use cases such as large-scale training of conversational AI models and petabyte-scale"
-    publishedDateTime: 2021-01-22T13:27:43Z
-    webUrl: "https://www.globalbankingandfinance.com/category/news/vast-data-unveils-joint-reference-architecture-with-nvidia-designed-to-significantly-increase-storage-performance-for-large-scale-ai-workloads/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 3
-    images:
-      - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
 
-secured: "zLN2dXyRHqkncN/lWcbk/UlGlfoUZryJ8GRTSpjpnRK1KH816/6eA6M0S9MNKV4zT8b5tazGxk0wxsOXyxGFzx5fho7A/EDTST18H70PCa7Z3cZ6uO6VW6sFvuG7TtO8mVoyWQ3bGz6oy3jbTNE5iDD8aHAgSCdvI+h8MzcorNDUROlYIgaTGVkSF1gm8TG5PiX3Fmjlkp+LhuA4ye3aUAKR1A9lIX8wMaPEZIGqswaanjVQOAbxJ4K0kt3K6P7aAfIZadM8SpziJRhFBF5CUIoRBSkWSoIXtE2SgzGZFLi0FsFRuy0+p6r6x0cXPIvN5pYwLZXjaZcB+vGrNYh52SVucCDCpWuahyZqgW0wey8=;6DES82gl5erXK3F6+ILDvw=="
+secured: "dbkBJK1POYNiJBL8e3qsruTA7qts+v1y/hKl00DkzTBr/mYV8u8c7DQyb/FLYeYanEatPjk3bGdbBc9slfJT0+S5qS1Zf+55VTRBDdxZqZzJ4DGXpEQGYY9qsb5CaEAiynL1orH/jHR9/S1padFlj6rvdLLlSZe19bxxHE93BSF7oI1SiY7uGfRgG4kv+nBf2RQdRWBb0zQKNaZkWsTy6HIhBVNyD8jstaWCQe6G/ErmdrQ9zlc3/nTEjxpP6FH5IrLleBOqBJfevt+D0iDSsXK/LD9gkw5IvhQ3+99Tzmhj0hRt9SlQz/1yG7eQwFLFj3NlQ2B8lRrqudtFtDqyNMrG72q9Q5aynPWdB+BYnKA=;OUWtRkoKxV9Pj7urKpvjyg=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/resource-library/whitepapers
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/dell-precision-workstations-for-ai/"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: TechRepublic
@@ -24,22 +24,57 @@ topics:
   - AI
 
 related:
-  - title: "AI, Robots And Play: 2021 Predictions For A Virtual Workplace"
-    excerpt: "Founder and President of Virbela, building immersive virtual worlds for remote work, learning and events. While no one may have predicted just what 2020 would throw our way, my crystal ball is indicating that we have many more changes in store for 2021 — and some of them are promising,"
-    publishedDateTime: 2021-01-22T13:50:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/01/22/ai-robots-and-play-2021-predictions-for-a-virtual-workplace/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/01/22/ai-robots-and-play-2021-predictions-for-a-virtual-workplace/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/22/ai-robots-and-play-2021-predictions-for-a-virtual-workplace/amp/"
+  - title: "New European Parliament guidelines for AI and facial recognition invite moratorium consideration"
+    excerpt: "The report calls for a new legal framework for the development and employment of AI and surveillance-related face biometric applications."
+    publishedDateTime: 2021-01-22T17:37:00Z
+    webUrl: "https://www.biometricupdate.com/202101/new-european-parliament-guidelines-for-ai-and-facial-recognition-invite-moratorium-consideration"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 41
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6009d9db7af670a4e54c019d%2F0x0.jpg"
-        width: 1200
-        height: 800
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/07/25183012/Chincotech-facial-recognition.png"
+        width: 623
+        height: 432
         isCached: true
+  - title: "The Promise of Artificial Intelligence in Precision Medication Dosing"
+    excerpt: "The most compelling approach to solving this important problem to date is with the application of artificial intelligence to enable precision dosing. Precision dosing is an umbrella term that refers to the process of transforming a “one-size-fits-all ..."
+    publishedDateTime: 2021-01-22T16:11:00Z
+    webUrl: "https://www.analyticsinsight.net/the-promise-of-artificial-intelligence-in-precision-medication-dosing/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/Precision-Dosing.jpg"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "How artificial intelligence will change work"
+    excerpt: "MIT Professor Thomas Malone, Professor Daniela Rus, and Robert Laubacher collaborated on \"Artificial Intelligence and the Future of Work,\" a brief that provides"
+    publishedDateTime: 2021-01-25T14:39:00Z
+    webUrl: "https://www.controleng.com/articles/how-artificial-intelligence-will-change-work/"
+    type: article
+    provider:
+      name: Control Engineering
+      domain: controleng.com
+    quality: 37
+    images:
+      - url: "https://www.controleng.com/wp-content/uploads/sites/2/2021/01/CTL2101_WEB_IMG_MIT_Malone_Rus.jpg"
+        width: 645
+        height: 350
+        isCached: true
+  - title: "Correction to Google Artificial Intelligence Article"
+    excerpt: "Chief Executive Sundar Pichai said last year, adding, \"While AI promises enormous benefits for Europe and the world, there are real concerns about the potential negative consequences.\" \"Artificial Intelligence Will Define Google's Future."
+    publishedDateTime: 2021-01-26T20:02:00Z
+    webUrl: "https://www.morningstar.com/news/dow-jones/2021012614168/correction-to-google-artificial-intelligence-article"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 17
 
 secured: "PWUNTQrqCJXO8cFDYhM1xXsb7Qh2bPMpvkOadbnmQEdaB0xELFY4JOW+rtDlaeaQJM3JPqRY/YULZmbKYE4KfZaPqwyOOeGKPbwV7X99tOj7y6JqWdO519W+4/UM2N6ugadLz5OEWZ0qhSbsyXZDWVK2LYRMU9Tk/WPEYvhuPQWKy8ivsJNMLyS07dB89fvA9lclkMbGVNhthQXPeRQGFTsRp5rJzQgpW2XxKAD7QJNEp1JTpO1xvwkzDKle+1ZOSl7I8Xjbj8Ybq7Y9ZlBYelGIP37IpstApQLqUBziWc8wm6WEMrwf1PShgdTDs1cV9RVGOtlZ5CvO/q9gMubtHWKfYLNeeTbjeaWks6lM7zA=;RGyIJ4XP7rKCNmOzA3KvRw=="
 ---

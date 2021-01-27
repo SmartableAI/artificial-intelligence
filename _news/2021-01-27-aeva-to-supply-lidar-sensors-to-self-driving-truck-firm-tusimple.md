@@ -2,11 +2,11 @@
 category: news
 title: "Aeva to supply lidar sensors to self-driving truck firm TuSimple"
 excerpt: "Aeva Inc, a firm founded by former Apple Inc engineers to supply a key self-driving car sensor, said on Tuesday it had reached a deal to supply the sensors for self-driving heavy duty trucks being developed by TuSimple."
-publishedDateTime: 2021-01-26T17:00:00Z
-originalUrl: "https://www.reuters.com/article/aeva-tusimple/aeva-to-supply-lidar-sensors-to-self-driving-truck-firm-tusimple-idUSL1N2K102G"
-webUrl: "https://www.reuters.com/article/aeva-tusimple/aeva-to-supply-lidar-sensors-to-self-driving-truck-firm-tusimple-idUSL1N2K102G"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2K102G"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2K102G"
+publishedDateTime: 2021-01-27T06:47:00Z
+originalUrl: "https://cn.reuters.com/article/aeva-tusimple-idCNL1N2K102G"
+webUrl: "https://cn.reuters.com/article/aeva-tusimple-idCNL1N2K102G"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idCNL1N2K102G"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL1N2K102G"
 type: article
 quality: 54
 heat: -1
@@ -54,6 +54,6 @@ related:
         height: 600
         isCached: true
 
-secured: "l0nv94Sn23vQz3F/FqRsrSwVHljx7Fh14Ig9klof8jdIDI9WJJQ3a82YBNyEdrlp9BMC1GjGoPqKcPsrqr5+ep8mRaDXEXMkcCakaD7HbMKM1r3W3z0TMJudGkBoFMY4SfNq9j15eSfnJllaiq+W/wLbgvZNQijobrc74qc3mTiyIY87AS3MDQOnQu2DYYuiB3y9UsCPxIfnlenXzvChPW9S3e+v3D29wo65i+geojKG0cEU0BnZD1fs67j53GZrUms2Av/9a0k9NwYsAb0sDM5vXgD9OZjbn78QImoJxpjo3P0CjlBJBHlzNk9ErVzJhb0CS/DmvbXc3XIMt4doRhbAz6POXw+MSaNVT44g6gs=;csY/SqGwPy9fIFhiuzRE5g=="
+secured: "rRXbzRoZwueJic6eFZoSs4ILkHrGzpntkoXBTBUFXbIqcaiZNDRtxt7Bs7uMcJi/t9H/bxYfR4OehU4wVduo0BsICX7twHsy9M82c7AgZ2+x4kXCHP97IJ0pGG8LiJtACjZi/UwHpMm7zKOEYsw5lQmZE5PgPanGp/MXJcGg26H9mtdaBd4vrvZnrPUyM3MIbM69JpuoPCiee3QaJQ/087lHsUL5aJSUZMD/7P3oVJNC6H7IzTcqVpGtI0Qj1Y4w8DTsaCpfRaHDUDCi61uJI/clhggGwCbCdVN3O1s6k0HUI+nazSqr1PgTstuhLYa/LoagPHHCvh5CKDbvHwKTG20MKAY97Q5ke3pVxPHhDBs=;bjypCRyV8XqSqE73x9wngA=="
 ---
 
