@@ -2,7 +2,7 @@
 name: "Lemonade"
 overview: "Lemonade Insurance Company is a licensed insurance carrier, offering homeowners and renters insurance powered by artificial intelligence and behavioral economics. By replacing brokers and bureaucracy with bots and machine learning, Lemonade promises zero paperwork and instant everything. And as a Certified B-Corp, where underwriting profits go to nonprofits, Lemonade is remaking insurance as a social good, rather than a necessary evil."
 type: "profile"
-heat: 197
+heat: 188
 
 website: https://www.lemonade.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "lemonade_inc"
   url: "https://twitter.com/lemonade_inc"
-  followers: 23911
+  followers: 23915
 
 size: 51-200 employees
 yearFounded: 2015
@@ -41,6 +41,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "H+ytbkMoNsOtgSLo9vG5kwwbiiuthvu2PaaX98jCH9zFJ5Y+jNW+WCsvBrDoLiOAEm3QGAMfWTuY3FVGeIfLcuDcvYv5mtaM0SIaA8rGI7c00r5OW+htpW6JsqyI/53hYx9eCmkSqX1paHLuD3tbgBHDlWBoQ3L8aQlz5prZlNhQ4EmpXcoIfxBUIhYgIjL3EFIL0uDeHHvucojhhSfV03wc7PHdMLUhCNrJS97fcuEIyvtSgduiKWeLRHVJ3aBgJ8XeBpl5VLmyPPet2vX5K0zIU9VIYrcSNjt+goA4aS+RrQPuH7ibcvLWBCGPZguk1vfmyYdPb1vw/DJTegoKpZlZIWZKUoeqA1p/SLHpMBQtV5p9KjDWo9lk8wQgoB0pSPQpQXFR0+HHKrUQC+Qe2TseE2HE+cNIbvFgV59d4Ig=;Ew+yfwTRAC6TQVkXEbudiw=="
+secured: "a2jJ5BBvvWedEJv0XaJTvzsLPd3NC9AKFde623hNXujF34RGwPpCGk5WVunC0fFxud8kbSc6TDGxZxIKMB/ugAZWEr5vinSv5ukAmrpOzWGg97J0WzG//+V1zp4vpsWZRoqnc4qNpwEaAT940TwGeb0JyT1GoIdeB8akqrcqdQd47v8X5/qS1ua58lKtyqOzLJVKrwGR9GQg3ncfmlKLyBPtUlOFlKxvH0ZpMKOVDiBBr/K+gAWGG7k7Klz6Q53Hl9EeoyuHlIxGceghIjP4RE4Y0SclE8BOJ1rHR9/2+WIBqG8Ee5M528fR1zrtEkLIt1GP1Q1+A8L10XWLZKB9IyTKtGHV4MZbKWYn/pFbViexPG+nsKHRyMbx7T35KGOznvRwQM9qat46fYZ/gAqtm8CandWV6NL19C1I04rrxjk=;lZ3yMrw6+CkTCPvIsRs1xg=="
 ---
 
