@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/ai-2021-new-start-edge-imtiaz-adam"
 webUrl: "https://www.linkedin.com/pulse/ai-2021-new-start-edge-imtiaz-adam"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1500
     height: 500
     isCached: true
+
+related:
+  - title: "76% Of Enterprises Prioritize AI & Machine Learning In 2021 IT Budgets"
+    excerpt: "Enterprises accelerated their adoption of AI and machine learning in 2020, concentrating on those initiatives that deliver revenue growth and cost reduction."
+    publishedDateTime: 2021-01-27T03:29:00Z
+    webUrl: "https://www.enterpriseirregulars.com/170814/76-of-enterprises-prioritize-ai-machine-learning-in-2021-it-budgets/"
+    type: article
+    provider:
+      name: Enterprise Irregulars
+      domain: enterpriseirregulars.com
+    quality: 56
+    images:
+      - url: "https://mk0enterpriseirdbne0.kinstacdn.com/wp-content/uploads/2021/01/76-Of-Enterprises-Prioritize-AI-Machine-Learning-In-2021-IT-Budgets-image-600x338.jpg"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "0wc9Y2ZDceF6UcTbF+ZsAQoWc8vUJTVmonug64pfDEJop9q5YTCeGX8rqJYKluMkbv3xeUXB7Yz5rc4z+F6HXMboWJZWwUw9bhfUha4neIP7GGwUyRZsldBSZ0RpRQBmCQdENrMmopg+dMpO4hMtpxn0zV4ppCL0siwXVMbjsKAbQucdWf3QInWdhf1SbbysRLHUFbFhAebU+gND3WZ116JOC+urpV0SHJ645GCwYG8Q/OGtO9gz6UlWoXjKB37RiCGtIE8afDhBFiyfCz15wUuj+hq+u4LA/Autvh5GNBKvcQENpX+iP7B6iaEEDTjP811PzPk6cTuDsK8T+hXhR6SPcWGh0cCez3O3eAmfDHgz4BV2sISxE/CFP/qrcQYeC9FYizjeI2KR52yqvI2laKhIQi157lWpjOfwKIlwNS6OJxDcrJp3bxdVEWeUr7tn2E9zcgysp+OaLGw96lTlgARa/+Wn6K7Dj6ep8WLzflc9PetIB9MYFuz/+cMl6f0yw7cg3kjUnMW2vc8TV9Gdtg==;On0oLlF+zOFGrVlkgLzOkg=="
 ---

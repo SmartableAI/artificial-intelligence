@@ -1,28 +1,32 @@
 ---
 category: news
 title: "Chinese drone firm DJI builds team to work on self-driving tech: job posts, sources"
-excerpt: "Chinese electric vehicle maker Xpeng Inc has said it would use Livox’s lidar technology for self-driving functions ... unit and is developing sensors. Baidu, which has been working on autonomous ..."
-publishedDateTime: 2021-01-14T03:54:00Z
-originalUrl: "https://www.metro.us/chinese-drone-firm-dji/"
-webUrl: "https://www.metro.us/chinese-drone-firm-dji/"
-ampWebUrl: "https://www.metro.us/chinese-drone-firm-dji/amp/"
-cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/chinese-drone-firm-dji/amp/"
+excerpt: "China's SZ DJI Technology Co, the world's largest drone maker, is building an engineering team to work on self-driving technologies, according to job posts and people familiar with the company's strategy."
+publishedDateTime: 2021-01-14T08:50:00Z
+originalUrl: "https://www.reuters.com/article/us-dji-auto/chinese-drone-firm-dji-builds-team-to-work-on-self-driving-tech-job-posts-sources-idUSKBN29J0DA"
+webUrl: "https://www.reuters.com/article/us-dji-auto/chinese-drone-firm-dji-builds-team-to-work-on-self-driving-tech-job-posts-sources-idUSKBN29J0DA"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29J0DA"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29J0DA"
 type: article
 
 provider:
-  name: Metro US
-  domain: metro.us
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXMPEH0D073-BASEIMAGE.jpg"
-    width: 800
-    height: 533
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210114&t=2&i=1547727620&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0D073"
+    width: 817
+    height: 545
     isCached: true
 
-secured: "6vt+h63IH2E2TnjMAtxoDBMVgeOiitkyDLy8mR5Cb+mzgQGNmTLf45UXG4/HkkHBgpAoaYFpKm1iTPsKPG++nlGcgdX7ebiZuu5rjbuOeIxj4pTd8EqEO+wzrOvkTjAzg2ACjQSkJslMsQpzC6ZOVKlKy5zL3fe5yohCGQkm022WnrKOVs/6rXEKsaMtoMbZiIFON8AMxlFNLv9fmzobgXTTbrgvi434/idg26HQn3hLel+GHZjERhTe63uH+ofQxCYoCj7vjh1vGFJooX5Xrr6u7c1VkW/MV/1MBe7gkMo8MOw+duLHuMPIJb0pb3w39v4JEwxzOvLjGRBE/2SkjRqAXYj7h5fkys4xhH69qtw=;qkrWyUA9gPoWyGmTMq4Rxg=="
+secured: "8ASU9U95u7jScb8Elp70OZGrw7zy2A5J7cwKSkRgRQI9or2MeompVY1VR7+Tshbbv3reFOKNlU/N3J/QWcnOiap3BU5bvIhW3urB33/8r4lIBjkOc9SBf9ETnvlQUyrQ/++lMtSMIKaPYdvekHFl1c9ZiyAMa9meKSWYCkz7Q9+vEGmi5gAZuQIP6M96tnCkPXkPyBxx494q2y/2d+cxY1KwFVdkrD330dYtygnWDKPEJ28C+1YgIRdkbavo5bEKPakb44GV7KxyxFZKclT/7NRw/oUSox0Qo5YPavT/wuWlbrhaOFnC3plhHXO7m8hBhxgrzInt5C1G5IV8LotCkBXOjDYAf2ri58lKtttTyZ8=;UCMRUuSq+dCASFz8QwT/kA=="
 ---
 

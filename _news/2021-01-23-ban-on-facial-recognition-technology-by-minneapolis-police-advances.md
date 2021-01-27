@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.wdio.com/articles/ban-facial-recognition-minneapolis--59
 cdnAmpWebUrl: "https://amp-wdio-com.cdn.ampproject.org/c/s/amp.wdio.com/articles/ban-facial-recognition-minneapolis--5986531.html"
 type: article
 quality: 59
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -154,20 +154,6 @@ related:
       name: Windows
       domain: compsmag.com
     quality: 35
-  - title: "Minneapolis City Council to consider banning use of facial recognition technology by police"
-    excerpt: "Plus: judge rejects bid to delay Chauvin trial; Minnesota dodges major post-holiday spike in COVID-19 cases; uneven mask compliance among high school athletes; and more."
-    publishedDateTime: 2021-01-22T12:04:00Z
-    webUrl: "https://www.minnpost.com/glean/2021/01/minneapolis-city-council-to-consider-banning-use-of-facial-recognition-technology-by-police/"
-    type: article
-    provider:
-      name: MinnPost
-      domain: minnpost.com
-    quality: 29
-    images:
-      - url: "https://www.minnpost.com/wp-content/themes/minnpost-largo/assets/img/minnpost-app-icon.png"
-        width: 512
-        height: 512
-        isCached: true
   - title: "Minneapolis City Council is considering banning the use of facial recognition technology by the police"
     excerpt: "Minneapolis City Council is considering banning the use of facial recognition technology by the police MinnPost file photo by Jessica Lee"
     publishedDateTime: 2021-01-22T16:18:00Z

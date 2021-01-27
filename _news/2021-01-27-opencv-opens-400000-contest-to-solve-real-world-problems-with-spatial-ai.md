@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/26/opencv-opens-400000-contest-to-so
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/26/opencv-opens-400000-contest-to-solve-real-world-problems-with-spatial-ai/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 100
 published: true
 
 provider:

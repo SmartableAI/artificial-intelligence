@@ -27,6 +27,22 @@ images:
     height: 300
     isCached: true
 
-secured: "sw1FW6cxhS9MrfPHOSlcmB5Ue45JVRJhDbuElcYQWQxH0+PFJjo3gH7DHEwZaoq6YCe5BtdywClgyTxQ4FiL/N5c/6Ko8E85oebUlW1RJT/I3mWgJENgcUs15bh5ybNoYjHsI/T7F7KmThbWMl3fV5Anjw1d0o9ZDgSrqK83A3nor8mH8bmOH1fTRzalAnd644T13+vMKFLIDxejC7cf6tPEGS4NR+omtt+FbNFiQut1wAbTy35w+z7pHe+VNBwQJVYXH8NLzycvgovsxg6jHim/Ln19XAnCsirLoqheSJXvP9qXiUWJ6Bb3HrrH7sgqgWq60X8Iydjhr+9p9Yer7MM5V5UvGyWwj2QVNiqEUdw=;3tSEQNk0LnC68k7ZjVTR/g=="
+related:
+  - title: "Flex Logix pairs InferX X1 inference accelerator with high-bandwidth Winbond 4Gb LPDDR4X to set new benchmark in edge AI"
+    excerpt: "Winbond Electronics Corporation, a leading global supplier of semiconductor memory solutions, has revealed that its low-power, high-performance LPDDR4X DRAM technology is supporting the latest breakthrough in edge computing from Flex Logix for demanding artificial intelligence (AI) applications such as object recognition."
+    publishedDateTime: 2021-01-27T02:22:00Z
+    webUrl: "https://www.digitimes.com/news/a20210126PR202.html&chid=9"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 16
+    images:
+      - url: "https://www.digitimes.com/newsshow/20210126PR202_files/2_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
+
+secured: "78mqFPMN41T0SzK8qbfFEIWAuucb+GXPBqbpSh/PAq8iuHGoVCFiXfIXTlF9PQRmd8UX6z2wRkO1LnEgxPCAVVLW3Fi6PxHWEdvPRwk7btD/uvRw6pxD4AVK7qAnP4QEZYGMcwfXhf4B/PaL/i95tjpDC2epsB6hZZtiNhC/ncC0Vx/FAk78Hu56BacteQwS6n+cgoJbQ7/CM8SFN4SBgXhc1yMRilbYw7BIdWYPmMAdDlvjrNfzHWxjUrwWfrba06dJFqtfcXhRfW/X+PwB3RbpVmqDNc/ctWRPksZsyKW61+h8ssG2lO6Xg1/kFdrNZSrenMvWlYx60/9R8inbgsugmzK2q2Fwo0Rt85vvRSc=;ouj6rSwl288QzQscoX4iAg=="
 ---
 

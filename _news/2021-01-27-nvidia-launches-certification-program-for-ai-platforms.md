@@ -1,33 +1,27 @@
 ---
 category: news
 title: "Nvidia launches certification program for AI platforms"
-excerpt: "Nvidia today launched a formal certification program for systems based on graphical processor units (GPUs) deployed in on-premises IT environments by its OEM partners. The Nvidia-Certified Systems initiative comes at a time when AI models are starting to be both trained and deployed at the network edge rather than trained only in the cloud."
-publishedDateTime: 2021-01-27T01:00:00Z
-originalUrl: "https://venturebeat.com/2021/01/26/nvidia-launches-certification-program-for-ai-platforms/"
-webUrl: "https://venturebeat.com/2021/01/26/nvidia-launches-certification-program-for-ai-platforms/"
-ampWebUrl: "https://venturebeat.com/2021/01/26/nvidia-launches-certification-program-for-ai-platforms/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/26/nvidia-launches-certification-program-for-ai-platforms/amp/"
+excerpt: "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net SEE ALSO: Chamath Palihapitiya follows Reddit investors into GameStop with purchase of bullish options that start paying ..."
+publishedDateTime: 2021-01-27T04:54:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/nvidia-launches-certification-program-for-ai-platforms-9736213"
+webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-launches-certification-program-for-ai-platforms-9736213"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/nvidia-launches-certification-program-for-ai-platforms-9736213"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/nvidia-launches-certification-program-for-ai-platforms-9736213"
 type: article
-quality: 87
-heat: 127
+quality: 67
+heat: 107
 published: true
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
-
-images:
-  - url: "https://venturebeat.com/wp-content/uploads/2021/01/NVIDIA-Certified-Press-Graphic.jpg?w=1200&strip=all"
-    width: 1200
-    height: 600
-    isCached: true
 
 related:
   - title: "Nvidia Puts Certified AI Servers At Forefront In New Program"
@@ -82,6 +76,6 @@ related:
         height: 600
         isCached: true
 
-secured: "df7LC28EJ2iM3t61fzz+4MMmCFAbyNDtvLBfb4NRTGOD0/KDIVtwYOe0Q8sSobCqkCJ/N18lKb+/W+Yl9D2ZymslyXT2CiirVMVjhGO9uIFfcj8w/wittRSHhwdvuV/gXX7R+mM9bzUtOIjyOwa3rB8ziSoII9uZFcSySX3dnRfeYCPNxpnCb1J10tnXzsMdAUh5w4qiV14ncUTZ+jBCg/3TocRJDkU5CQOYL/HlXc9GEQNLfomQvrM/CaVTCi1fh0prclW1g02JSVenCYpMjW1LZxSqeGMA9ERdSKsukEDx7lwcTp081a+ZBZo2gHWXd61ZY7Qg7rZ4fatPFezdVC8JSSkQN1B6WqSv5ONBF3E=;7tUamzw7PThgqQ9hLi7gLw=="
+secured: "prLFsobHE2KnlzzB73ReITq/qMDYDVOJN6yffMe7V8yEXGk2d+f1d034av3UnpBqJDuwqHj4q9jnkNDV0KX/EE/l5gNiW/EB8w9NnkVCEgPJMtspd5sXUND219yAbYVkG38LTcE9oZxY/4fRjo8tbRmKa9mwduOAuEAY4om0tAKqe5Lm3P1TMBM8oFeemPWKQq0t0Hmmuc80ho8/c2dxQylnY8oZhjN+lhbs/vNSwD8YFUP/WQcOYLfYspTXQnxHTd8qBxcZsj56GPB47EXrmSsfzwOt8VUSHr8QiJWT47SWr56w/lJZecp+W8r+d8QlTBdi0bpfkln53Ij+B4xVlsd6Thqv35bBnwcP3LXi9Wc=;XY/KHW+T4sMMjGfn8OtZdw=="
 ---
 

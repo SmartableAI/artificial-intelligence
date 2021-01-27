@@ -26,16 +26,16 @@ images:
 
 related:
   - title: "Japanese giant Nikko Global builds on Fintica AI success for market analysis"
-    excerpt: "PR Newswire TEL AVIV, Israel and TOKYO, Jan. 26, 2021 Nikko Global Wrap and Fintica to further develop"
-    publishedDateTime: 2021-01-27T02:01:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2021-01-26/japanese-giant-nikko-global-builds-on-fintica-ai-success-for-market-analysis"
+    excerpt: "Fintica is an Israeli deeptech Fintech Company that is building next generation Autonomous AI for the Global Financial Industry. The company is the fintech spinoff of Israel's leading Artificial Intelligence (AI) company, Cortica, and has developed ..."
+    publishedDateTime: 2021-01-27T02:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/japanese-giant-nikko-global-builds-on-fintica-ai-success-for-market-analysis-2021-01-26"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 64
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
     images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true

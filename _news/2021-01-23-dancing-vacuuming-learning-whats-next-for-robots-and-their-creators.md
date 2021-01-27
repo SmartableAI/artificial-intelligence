@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Enabling Connected Vehicle Ecosystem With Machine Learning: The Startup Story Of Sibros"
+    excerpt: "Sibros OTA Deep Updater executes full vehicle Over-the-Air software updates while logging vital vehicle data in real-time."
+    publishedDateTime: 2021-01-27T04:51:00Z
+    webUrl: "https://analyticsindiamag.com/enabling-connected-vehicle-ecosystem-with-machine-learning-the-startup-story-of-sibros/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 31
+    images:
+      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2021/01/Sibros-Startup.jpg"
+        width: 1600
+        height: 1200
+        isCached: true
   - title: "Combobulate 2.0 - Mosaic Learning Launches the Next Evolution in eLearning for the Post-Pandemic World"
     excerpt: "Mosaic Learning, Inc. announced today the unveiling of the next evolution in eLearning platforms – Combobulate 2.0. The COVID-19 Pandemic"
     publishedDateTime: 2021-01-26T15:19:00Z

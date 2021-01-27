@@ -164,20 +164,6 @@ related:
       name: Windows
       domain: compsmag.com
     quality: 35
-  - title: "Minneapolis City Council to consider banning use of facial recognition technology by police"
-    excerpt: "Plus: judge rejects bid to delay Chauvin trial; Minnesota dodges major post-holiday spike in COVID-19 cases; uneven mask compliance among high school athletes; and more."
-    publishedDateTime: 2021-01-22T12:04:00Z
-    webUrl: "https://www.minnpost.com/glean/2021/01/minneapolis-city-council-to-consider-banning-use-of-facial-recognition-technology-by-police/"
-    type: article
-    provider:
-      name: MinnPost
-      domain: minnpost.com
-    quality: 29
-    images:
-      - url: "https://www.minnpost.com/wp-content/themes/minnpost-largo/assets/img/minnpost-app-icon.png"
-        width: 512
-        height: 512
-        isCached: true
 
 secured: "7YQ70iXXN6AZAt6uJp583sB1Qb6me0kiAoSqSBYfYQ80lri1KC647qB4/dwKEi44SpgLDaPMwJnKWd85aWHVWCKeXlCa/nM5yV77cC6LbjGyhpw/Ng7sQbQMCdYK4u9IkSZyV0lqU+W5l0/hni4hwaqx4iMV1zCEXp8NkmwPiPZSTBl1JrTBmJVdwcJkWJogLfSJP32oQXlfUw/awLSyEhc/QWq5ydSezZ2Hg5mV7k3LngM86aO3Cr5IWP+r1FOpKUjI+EoAsik1SlZkWcSZ4Pw1O5Qw7cdpJiwxbdhMY2pfg/kkwWp6uLbWJ1AM0ZjwfzVDAmFiqYsfaA6W9lW7EF7i8ow6R6rKwqlqUXnuLA9snfiwWLz6LvYD0w4tbV69WCA3nZqfxEpgSKvgVnx4+tuQUtauOld68U6o17xj6LhA0wNC+9QOXW5avLfVqYjwjLm86xHfkVh/ADkzLfLeUfr//xSQOEGY7K0fJIOUUA7/P6r7tlLRHWovfp4VW+4sWNQ5v/3zdTkZKimQNkN6lA==;qNws1ulsqkcT65VnVBsIXg=="
 ---

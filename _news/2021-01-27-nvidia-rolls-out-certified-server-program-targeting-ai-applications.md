@@ -26,21 +26,16 @@ images:
 
 related:
   - title: "Nvidia launches certification program for AI platforms"
-    excerpt: "Nvidia today launched a formal certification program for systems based on graphical processor units (GPUs) deployed in on-premises IT environments by its OEM partners. The Nvidia-Certified Systems initiative comes at a time when AI models are starting to be both trained and deployed at the network edge rather than trained only in the cloud."
-    publishedDateTime: 2021-01-27T01:00:00Z
-    webUrl: "https://venturebeat.com/2021/01/26/nvidia-launches-certification-program-for-ai-platforms/"
-    ampWebUrl: "https://venturebeat.com/2021/01/26/nvidia-launches-certification-program-for-ai-platforms/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/26/nvidia-launches-certification-program-for-ai-platforms/amp/"
+    excerpt: "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net SEE ALSO: Chamath Palihapitiya follows Reddit investors into GameStop with purchase of bullish options that start paying ..."
+    publishedDateTime: 2021-01-27T04:54:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-launches-certification-program-for-ai-platforms-9736213"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/nvidia-launches-certification-program-for-ai-platforms-9736213"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/nvidia-launches-certification-program-for-ai-platforms-9736213"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/01/NVIDIA-Certified-Press-Graphic.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
   - title: "Nvidia Puts Certified AI Servers At Forefront In New Program"
     excerpt: "Nvidia is recommending customers buy GPU servers that have been certified for optimized AI performance under a new program."
     publishedDateTime: 2021-01-26T18:34:00Z

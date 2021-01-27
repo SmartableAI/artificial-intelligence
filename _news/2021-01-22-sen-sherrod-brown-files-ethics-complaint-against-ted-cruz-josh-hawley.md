@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wlwt.com/amp/article/sen-sherrod-brown-files-ethics-comp
 cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/sen-sherrod-brown-files-ethics-complaint-against-ted-cruz-josh-hawley/35290144"
 type: article
 quality: 76
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Democrats ask ethics panel to investigate Sens. Ted Cruz, Josh Hawley"
-    excerpt: "WASHINGTON (AP) — Seven Democratic senators on Thursday asked Ethics Committee to investigate the actions of Republican Sens. Ted Cruz and Josh Hawley “to fully understand their role” in the Jan. 6 insurrection at the Capitol by supporters of former President Donald Trump."
-    publishedDateTime: 2021-01-22T11:38:00Z
-    webUrl: "https://www.syracuse.com/us-news/2021/01/democrats-ask-ethics-panel-to-investigate-sens-ted-cruz-josh-hawley.html"
-    ampWebUrl: "https://www.syracuse.com/us-news/2021/01/democrats-ask-ethics-panel-to-investigate-sens-ted-cruz-josh-hawley.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-syracuse-com.cdn.ampproject.org/c/s/www.syracuse.com/us-news/2021/01/democrats-ask-ethics-panel-to-investigate-sens-ted-cruz-josh-hawley.html?outputType=amp"
-    type: article
-    provider:
-      name: syracuse.com
-      domain: syracuse.com
-    quality: 61
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/LWRYP5EWI5H6PAYVF77P3UF46Y.jpg"
-        width: 5493
-        height: 3662
-        isCached: true
   - title: "Democrats ask ethics panel to investigate Sens. Cruz, Hawley"
     excerpt: "Seven Democratic senators asked the Senate Ethics Committee to investigate the actions of Republican Sens. Ted Cruz and Josh Hawley."
     publishedDateTime: 2021-01-22T16:39:00Z

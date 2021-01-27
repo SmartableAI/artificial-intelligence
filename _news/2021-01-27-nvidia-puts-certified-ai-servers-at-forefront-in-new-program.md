@@ -26,21 +26,16 @@ images:
 
 related:
   - title: "Nvidia launches certification program for AI platforms"
-    excerpt: "Nvidia today launched a formal certification program for systems based on graphical processor units (GPUs) deployed in on-premises IT environments by its OEM partners. The Nvidia-Certified Systems initiative comes at a time when AI models are starting to be both trained and deployed at the network edge rather than trained only in the cloud."
-    publishedDateTime: 2021-01-27T01:00:00Z
-    webUrl: "https://venturebeat.com/2021/01/26/nvidia-launches-certification-program-for-ai-platforms/"
-    ampWebUrl: "https://venturebeat.com/2021/01/26/nvidia-launches-certification-program-for-ai-platforms/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/26/nvidia-launches-certification-program-for-ai-platforms/amp/"
+    excerpt: "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net SEE ALSO: Chamath Palihapitiya follows Reddit investors into GameStop with purchase of bullish options that start paying ..."
+    publishedDateTime: 2021-01-27T04:54:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-launches-certification-program-for-ai-platforms-9736213"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/nvidia-launches-certification-program-for-ai-platforms-9736213"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/nvidia-launches-certification-program-for-ai-platforms-9736213"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/01/NVIDIA-Certified-Press-Graphic.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
   - title: "Nvidia Rolls Out Certified Server Program Targeting AI Applications"
     excerpt: "Nvidia today launched a certified systems program in which participating vendors can offer Nvidia-certified servers with up to eight A100 GPUs. Separate"
     publishedDateTime: 2021-01-26T18:08:00Z
@@ -79,6 +74,6 @@ related:
         height: 600
         isCached: true
 
-secured: "C9vPs/uvSnfvVPOCwn36ZJk9119uAsz0KEYuAQe2LwAUmYiwi2i1HhLIhLovdHFbMwbxX34043XxbqnLq0Lnhqpzf4O8JP2WzxOdS2SQzFQsmblfZJ+FLvti9PRiHLRe+iAexA2p0aE8tCBCMxZgwdzWNB3ZsfioqgRjuPul4oqTxPSj68KVCWcYkTB/J4M937njFKgbdEs1cIHUlPNOQ1r2VDAVZpqteGO5I70WEHeiNkPf/qhxDHopwWFOhOhe5ILxIxKOp5BdOW8tAXhsTfr+UH2DB7vmdMovudBy/vN8ySecIKVKb6dCvvA9By7j63aR5A0jnoaUSd0msItguVF6JZWk06hj33CqDO8QQf0=;IJF8s/Apt1m5Jur2aNNMog=="
+secured: "amc8+NcnPmZK7wRNew8BqIYW6Z5Ro3JkbgzhqN5QlQ9Zw9dXlh9UPWVt5QssH9SWnQeLvkQxIdhNKTVmcmak8paT+AP12RPEbEeMw1po9A3MhqbU953LRDxLEzIIVtL4TtZoH7MMe+o3Qlz0ZNEKYvXON7XX5N81beQ9eBatirRYYYRRWXkXrit5avsyicTLbz+B0UH8jgJsTsGs3iRKLZqvHEvp2f99j51XkO5fgexCiy3TDGDmpcQG+QMWKLhOmUs1cYEZk9ZsBLFRUTbEkNZ+ByYAY4hBYdWczg5rf4TS8GQQr7vmLsfAgOeVhEn/UinqLHVCCtwm8jV4ZLfaZSQhEs7lvcLevSrt8kYmgcq4PPAj3Yqrup0X2fUkS5TulkUMUGlizlPfk3Vzb7mq2YNPUVOOmA2QwTdKHdbyqqmkVVVac9uV/aQ538g17Lc9FUthDkR15Nm7fFhoV47o2UEd2ZDMhjl8KY0X0gsLSkqmzngyEYTmCqTnFxscRZGGHftsu6OIPwvYwrjg4odGVQ==;10vTK5UHDaHuMD4X/xOMeA=="
 ---
 

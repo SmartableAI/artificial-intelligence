@@ -3,8 +3,8 @@ category: news
 title: "Philips and Rennes University Hospital sign 5-year technology, research and innovation ..."
 excerpt: "Hospital will have access to Philips’ latest technologies and informatics solutions to enhance the diagnosis, treatment, monitoring and management of patients Multi-year strategic partnership will accelerate clinical research focused on image-guided minimally-invasive therapy,"
 publishedDateTime: 2021-01-25T08:18:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/business-technology-artificial-intelligence-diagnostic-imaging-western-europe-62a1000e07e44799667613b7fdf65163"
-webUrl: "https://apnews.com/press-release/globe-newswire/business-technology-artificial-intelligence-diagnostic-imaging-western-europe-62a1000e07e44799667613b7fdf65163"
+originalUrl: "https://apnews.com/press-release/globenewswire-mobile/business-technology-artificial-intelligence-diagnostic-imaging-western-europe-62a1000e07e44799667613b7fdf65163"
+webUrl: "https://apnews.com/press-release/globenewswire-mobile/business-technology-artificial-intelligence-diagnostic-imaging-western-europe-62a1000e07e44799667613b7fdf65163"
 type: article
 quality: 14
 heat: -1
@@ -40,6 +40,6 @@ related:
         height: 1206
         isCached: true
 
-secured: "5aqF5XVwGgqcRtoDNOQL49r2o97J5WYMtXI/L1svoTCot/AYbHbbHWHjdSxLejemOJ6kG5iJzNOEh1QFzgfqwT4jE8R+NsvO8jvh2DTaScpbmU4oDrqSi78alTbNfTyC3Dd6UXmHIVjyw3MEOJn52SuYZf0CcWbA/nDKQtXT9/J0gI7WMX/Lyt3GOl1kpCmcFon6NVXLAayxxdYtpzcCR93NcbjBCC0gay7uIg6DxDru5VufF0wL1jh8Lv6hxsksVKV4u1DPgopUhU37WzTjNmw2InMIDd7gaof3Ll0E3Sw5wkKECdsc0K6TAlStRftQOSo3LCF3t5YgBF0ox1gXssDXq2V0V2S8CPCEw1rO4gU=;eFjbHke1+Sjykh9gHCb5+w=="
+secured: "fmszhr7dUubs/odb5GWMTXGeRcQj+68YAy/Ttap49OimV9AGl/0ReSv4Wi2xQ4Ws4XGy3dGjAMIJkwevACIIe97ni+1LmgjoVyTIp2sSpU/vPfyhZ8Yw8K2duyJsCyhaHhi5ROoWw3sSgZNuZXcYOJrY1pYmKx+xf7q7EoiK14nftOETisM98O4p8sJCu7BXgf51EKdfDNJPMfyxosS5khDwboSW//JdH2O621mpuyV+Pg+cax2uj0RDBKtlb1QPN7dDrOnUF9JUvTtRwZlpsYjlU2b0uC6/trlYRPRJTqnhfzYDp26UPHP0lXyqRU456SvLmp1KmzXLisL1tbsS2LXS5/4M7HM0xIS0JfkVMbk=;yCGU2Sy3wP35Lsx9oxdQ0Q=="
 ---
 

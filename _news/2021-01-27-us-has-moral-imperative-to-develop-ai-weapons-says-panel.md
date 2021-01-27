@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/science/2021/jan/26/us-has-moral-imperat
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/science/2021/jan/26/us-has-moral-imperative-to-develop-ai-weapons-says-panel"
 type: article
 quality: 57
-heat: 57
+heat: -1
 published: false
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 600
     height: 360
     isCached: true
+
+related:
+  - title: "U.S. commission cites 'moral imperative' to explore AI weapons"
+    excerpt: "The United States should not agree to ban the use or development of autonomous weapons powered by artificial intelligence (AI) software, a government-appointed panel said in a draft report for Congress."
+    publishedDateTime: 2021-01-27T03:24:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-military-ai-idUSKBN29V2M0"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29V2M0"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29V2M0"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 87
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210126&t=2&i=1549163391&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0P1K3"
+        width: 924
+        height: 545
+        isCached: true
 
 secured: "4qNFh2+2n4IB9cFlE8DGxWd/U4k8vw5bEzlS3V8lBHLNXPB+rf0neWX+OaJZX92eKfArsGGejJBGrWYiaaYiubF62T3Vs/oB/gYDiTo8BzW9AVPplQ/ehgP5AGWwA9mFHZFPXIt2CqNMCWwJOOT0w8MXNptqtM/6pllXj9s8O9a2jSLWoo+04nkdiSf9T9pE4wzwSZHNhSUoXSkwhwTxYtCeTvlmOoNf/kVwBZI3QcyY+MsLLkLRiXwf2LMUJ9A34pr1a5sG333j1lOBZF8PQt5gNP1HmXBmWUwnxgwYdBANisfT+xeP0Q8kzyH8Re/c0PG6PUBbpo8Ko491hHecKT22+6C33tDw5hUH43xRORY=;XGZHBYl0DHRQAN7OHKKBjg=="
 ---

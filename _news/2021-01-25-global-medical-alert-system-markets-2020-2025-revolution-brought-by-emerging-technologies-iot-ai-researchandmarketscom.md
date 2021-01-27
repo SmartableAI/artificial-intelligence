@@ -24,17 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "Global Military Robots Market to 2026: Intelligence, Surveillance, and Reconnaissance (ISR) Segment is Expected to Lead the Market"
-    excerpt: "The \"Global Military Robots Market Analysis 2020\" report has been added to ResearchAndMarkets.com's offering. The Global Military Robots market is expected to reach $29.87 billion by 2026 growing at a CAGR of 12."
-    publishedDateTime: 2021-01-26T17:21:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/global-military-robots-market-to-2026-intelligence-surveillance-and-reconnaissance-isr-segment-is-expected-to-lead-the-market-1030005786"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/global-military-robots-market-to-2026-intelligence-surveillance-and-reconnaissance-isr-segment-is-expected-to-lead-the-market-1030005786"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-military-robots-market-to-2026-intelligence-surveillance-and-reconnaissance-isr-segment-is-expected-to-lead-the-market-1030005786"
+  - title: "Worldwide Industry for AI-Enabled Medical Imaging Solutions to 2030 - Rapidly Evolving Deep Learning Techniques Presents Opportunities"
+    excerpt: "The \"Global AI-Enabled Medical Imaging Solutions Market: 15 Countries Analysis - Analysis and Forecast, 2020-2030\" report has been added"
+    publishedDateTime: 2021-01-26T13:15:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/worldwide-industry-for-ai-enabled-medical-imaging-solutions-to-2030---rapidly-evolving-deep-learning-techniques-presents-opportunities-301214838.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 22
+    images:
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
+        isCached: true
 
 secured: "KDGahFE6fApCcS+nSvDHqERMspAwjMrS+Lni91H1ykZor5DrQ+R5iHHf2orVnIOpb6ff6PcTMvrczFZ1apkRclQnHnF0PGhIFlnbI6nNn1zG594lNBfr0PqzLkDwDhjL0vTXZ2vrKgMH6+n6HywIcp/ViRbc6NSzNmXWCff7Oted/MpioZ1gCGLs0SblU7xSTwBM2SD5u+52qsSqwVpf5Jw5kRFLJKqstMBWVdSbjiaBahpeNZRSVjSl4zjDqCLDw+3Uo3uLvUucaLM38NdCHC11f+qtjXwa8GvfOCTwAKswG0fPRUPJOiaoohQf0bYA+/vr+qPn7L15keDXr/TXXdjSvNR2BltRdVDBRFXCOpg=;r2GsoT1DFHo8eJRYv/Koqg=="
 ---
