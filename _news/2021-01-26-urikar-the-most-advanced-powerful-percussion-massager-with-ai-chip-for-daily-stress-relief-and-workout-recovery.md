@@ -1,25 +1,29 @@
 ---
 category: news
 title: "URIKAR - the Most Advanced & Powerful Percussion Massager with AI Chip for Daily Stress Relief and Workout Recovery"
-excerpt: "Percussion massage guns have truly become more and more popular in the past year. As a home massage tool, it is a super"
-publishedDateTime: 2021-01-26T14:26:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/01/r19321907/urikar-the-most-advanced-powerful-percussion-massager-with-ai-chip-for-daily-stress-relief-and-wor"
-webUrl: "https://www.benzinga.com/pressreleases/21/01/r19321907/urikar-the-most-advanced-powerful-percussion-massager-with-ai-chip-for-daily-stress-relief-and-wor"
-ampWebUrl: "https://amp.benzinga.com/amp/content/19321907"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19321907"
+excerpt: "Percussion massage guns have truly become more and more popular in the past year. As a home massage tool, it is a super useful innovation, especially in this difficult COVID-19 period. If you haven’t yet jumped in on the trend,"
+publishedDateTime: 2021-01-26T14:43:00Z
+originalUrl: "https://apnews.com/press-release/pr-com/lifestyle-diet-and-exercise-exercise-ace576e3331cb0fea0f5d7f6ba60c2cf"
+webUrl: "https://apnews.com/press-release/pr-com/lifestyle-diet-and-exercise-exercise-ace576e3331cb0fea0f5d7f6ba60c2cf"
 type: article
 quality: 32
 heat: 32
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "g7YKqdvtn+sKzLXUOVKl6rpPIdsN2BjpCluuLpWT5kNM3Yh1AJD3mRS8Lz522dZ6hYO3P5KkKIA52K3aP82Pzb+CjNha5z5P+t+RCOQ0rOoT4OwcUPNUI4HapfsDMsMNGDKBcot1jEjZik1U8C9AAhw4fxxSICxzHDonqlS1LRrOgJ2hVGZ7CSgiBR4kVW8O8W6SZIT2qBWKJMaEzbiJsZPm07pk+jBaFvDqiaKiY8f9/8jC4ENTFUe2UiFmPdc8GPqoGWo6omjKABA4Enveey9VYaRR/IqOR8P30zIR83h1nZCmDlv9NgMRSDDYO7g8ORjS/jEQzol2z0MVUX/+k6t0ONwOG0NX3XQeRk58UDE=;qq2kf2fPewcqONos4cbEIQ=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "hKf6JVr7V+pQYMXQ5wMxLId0rFLcG4JINueBZJUbTub1du938iTYo9Iwyt7KaMIU1AzT/fsWQImimMYNk+8T7RVIzM9VW2YI/Jw5aaqLlpDVpUHhYT/thzrhq6tr/NK+gmdFP4fzh6ieQ0LjirpbqoC2X8gIoZ/MU6YDdvx3aQ5Sl6GWb3y7pBvr9HotSyYmt+kIbF2pga+uS42cIRAB++XfGIZBQO+tvV2HqeClT5z9H5F0cjP8VnyinFvbd+z6rmYupjZU3B07EPIFVR+8A18STgHL6yqyPd91vfz31IysD1t+kuXDpjIScNCss849VUrvVphga1wUqMH1XV4ici2AEDSxUClIYhEAEBbBcW0=;tfpq5xdc6+qBT5wAOh7lMw=="
 ---
 

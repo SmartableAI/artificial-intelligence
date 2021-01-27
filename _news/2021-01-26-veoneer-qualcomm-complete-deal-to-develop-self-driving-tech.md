@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "GM’s Next-Gen Vehicles Will Become Smarter With Qualcomm’s Cockpit Chips"
+    excerpt: "General Motors and Qualcomm, one of the leading suppliers of chips for the smartphone world, have expanded their partnership. The San Diego company will become the automaker’s supplier of ‘cockpit’ chips,"
+    publishedDateTime: 2021-01-27T12:15:00Z
+    webUrl: "https://www.carscoops.com/2021/01/gms-next-gen-vehicles-will-become-smarter-with-qualcomms-cockpit-chips/"
+    ampWebUrl: "https://www.carscoops.com/2021/01/gms-next-gen-vehicles-will-become-smarter-with-qualcomms-cockpit-chips/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/01/gms-next-gen-vehicles-will-become-smarter-with-qualcomms-cockpit-chips/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 58
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2021/01/GM-3-1024x554.jpg"
+        width: 1024
+        height: 554
+        isCached: true
   - title: "Startup by Key Apple and Google Chip Designers Catches Qualcomm’s Eye"
     excerpt: "In a $1.4 billion deal, Qualcomm recently announced that it will acquire NUVIA, an Arm-based startup led by three of Apple and Google’s foremost chip designers."
     publishedDateTime: 2021-01-25T23:09:00Z

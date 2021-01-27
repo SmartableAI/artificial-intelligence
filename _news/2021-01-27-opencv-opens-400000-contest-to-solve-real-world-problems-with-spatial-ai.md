@@ -1,27 +1,34 @@
 ---
 category: news
 title: "OpenCV opens $400,000 contest to solve real-world problems with spatial AI"
-excerpt: "A global contest aims to spark computer vision solutions to actual problems, and promises teams free camera hardware and Azure services.Read"
-publishedDateTime: 2021-01-27T06:47:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/opencv-opens-$400-000-contest-to-solve-real-world-problems-with-spatial-ai-9735871"
-webUrl: "https://markets.businessinsider.com/news/stocks/opencv-opens-$400-000-contest-to-solve-real-world-problems-with-spatial-ai-9735871"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/opencv-opens-$400-000-contest-to-solve-real-world-problems-with-spatial-ai-9735871"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/opencv-opens-$400-000-contest-to-solve-real-world-problems-with-spatial-ai-9735871"
+excerpt: "A global contest aims to spark computer vision solutions to actual problems, and promises teams free camera hardware and Azure services."
+publishedDateTime: 2021-01-27T00:20:00Z
+originalUrl: "https://venturebeat.com/2021/01/26/opencv-opens-400000-contest-to-solve-real-world-problems-with-spatial-ai/"
+webUrl: "https://venturebeat.com/2021/01/26/opencv-opens-400000-contest-to-solve-real-world-problems-with-spatial-ai/"
+ampWebUrl: "https://venturebeat.com/2021/01/26/opencv-opens-400000-contest-to-solve-real-world-problems-with-spatial-ai/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/26/opencv-opens-400000-contest-to-solve-real-world-problems-with-spatial-ai/amp/"
 type: article
-quality: 65
-heat: 75
+quality: 87
+heat: 98
 published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: VentureBeat
+  domain: venturebeat.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
+  - Microsoft AI
   - AI
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2021/01/opencvai.jpg?w=1200&strip=all"
+    width: 1200
+    height: 600
+    isCached: true
 
 related:
   - title: "OpenCV opens $400,000 contest to solve real-world problems with spatial AI – Jaweb"
@@ -41,6 +48,6 @@ related:
         height: 600
         isCached: true
 
-secured: "vYczA9L2hKr3z8Mt9zTSBoXXMip+EHSMZTeLSLGQqmghEdIGzcv4YdZ5/jdatZQOG6OUeFwkZ9n5Jn97Wqg8+D3JFhAu+mZ2Qjjs6tTV6mmDwFzqCPBcQtF4CsIFAI5sNd7fVlmd9VdF1pyUavzFsnP2hkW4EuSL+vcCtGxxXr7XLpqvpQaa2UvsNC+PfYvoq6nucICm8dAN/l+ZpqKvzJEK3EFC9JsUD5NhMobACKschr0mFOaGoRnCSTitLWEK0//uYPJHUOhmoDNGVozmf4iCCSepggukjRQOfw/FVAK1/aMvyeyMLYe2WCaCbonIE7D3c0b5wDG0uiVkTMfNQiM73eQhJH4MN2pox0AzWkE=;nAAs3v22336oMQH4TGr4EQ=="
+secured: "MbLnoG1+pCZqGEHYixN4mfx+xQMrhjJPPCXzNG2lgGV2xm3LX3e76Gve+bDDPchTxrQpknFdntHM7XSzLTWcFqhYfFIBiNbLT/QeS2Ocsb2znedAGAaSieeYOpxkAyQr7jauwWMmfAUZ6EVGcJJ+qp1pLSJXuN5vuPUHM7GKJLr9nD68L9xc53rIjTGUJON4AaBdPsYozA9IctzZrbI476OOtCGhOICaQIxHE9SPrWXxdxnpu6uoq+Cl90lQThWBTboFgaG5yYaR/bPpXbs9kfKkxdM1IuYLRoxqD/w2uIngJhU5uSuwrXD0te+XlAvyZ4ORiwVyxYBpZZTolXspwgaWlwaV891DABUl/rj+8OU=;f2gdRwGUqjs8VxQFI4378Q=="
 ---
 

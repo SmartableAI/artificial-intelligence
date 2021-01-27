@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-27-opencv-opens-400000-contest-to-solve-real-world-problems-with-spatial-ai.md",
+      "title": "OpenCV opens $400,000 contest to solve real-world problems with spatial AI",
+      "excerpt": "A global contest aims to spark computer vision solutions to actual problems, and promises teams free camera hardware and Azure services.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/26/opencv-opens-400000-contest-to-solve-real-world-problems-with-spatial-ai/",
+      "originalUrl": "https://venturebeat.com/2021/01/26/opencv-opens-400000-contest-to-solve-real-world-problems-with-spatial-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/opencvai.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/26/opencv-opens-400000-contest-to-solve-real-world-problems-with-spatial-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/26/opencv-opens-400000-contest-to-solve-real-world-problems-with-spatial-ai/amp/",
+      "publishedDateTime": "2021-01-26T16:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-27-looking-for-free-cloud-training-check-out-the-aws-dev-hour-on-twitch-and-learn-to-build-an-app.md",
       "title": "Looking for free cloud training? Check out the AWS Dev Hour on Twitch and learn to build an app",
       "excerpt": "Expert trainers will build a full stack application in the AWS cloud using the AWS Free Tier during the new eight-week show.",
@@ -160,7 +212,7 @@
       "originalUrl": "https://www.neowin.net/news/yellow-messenger-integrates-microsoft-azure-cognitive-services-on-its-platform",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 235,
       "tags": null,
       "images": [
         {
@@ -414,10 +466,10 @@
     {
       "path": "_news/2021-01-20-microsoft-gm-cruise-partner-on-self-driving-cars.md",
       "title": "Microsoft, GM, Cruise Partner on Self-Driving Cars",
-      "excerpt": "A strategic partnership with Microsoft was announced Tuesday by General Motors and Cruise aimed at speeding up the commercialization of shared self-driving vehicles. In addition, Microsoft will be joining GM,",
+      "excerpt": "\"Microsoft provides services -- like a giant cloud computing offering -- that is used to develop these self-driving vehicles ... Google Cloud or Baidu in China. \"They need the cloud platforms ...",
       "sourceUrl": null,
-      "webUrl": "https://www.technewsworld.com/story/86988.html",
-      "originalUrl": "https://www.technewsworld.com/story/86988.html",
+      "webUrl": "https://www.technewsworld.com/story/Microsoft-GM-Cruise-Partner-on-Self-Driving-Cars-86988.html",
+      "originalUrl": "https://www.technewsworld.com/story/Microsoft-GM-Cruise-Partner-on-Self-Driving-Cars-86988.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -436,7 +488,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-20T04:00:00-08:00",
+      "publishedDateTime": "2021-01-20T04:38:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechNewsWorld",
@@ -453,50 +505,6 @@
         "AI in Autos",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-dunnhumby-extends-machine-learning-automation-tool-built-on-microsoft-azure.md",
-      "title": "dunnhumby Extends Machine Learning Automation Tool Built on Microsoft Azure",
-      "excerpt": "Customer data science company dunnhumby is preparing to launch an Enterprise Edition of dunnhumby Model Lab, a machine learning automation tool for data scientists built on Microsoft Azure. As retailers and CPGs begin to reimagine their business operations,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-science-data-management-computing-and-information-technology-9b0e49504cdf4f22936c3414ca648f45",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-science-data-management-computing-and-information-technology-9b0e49504cdf4f22936c3414ca648f45",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-19T22:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     },
     {
@@ -594,6 +602,41 @@
         "AI in Autos",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-dunnhumby-extends-machine-learning-automation-tool-built-on-microsoft-azure.md",
+      "title": "dunnhumby Extends Machine Learning Automation Tool Built on Microsoft Azure",
+      "excerpt": "Customer data science company dunnhumby is preparing to launch an Enterprise Edition of dunnhumby Model Lab, a machine learning automation tool for da",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210119005028/en/dunnhumby-Extends-Machine-Learning-Automation-Tool-Built-on-Microsoft-Azure",
+      "originalUrl": "https://www.businesswire.com/news/home/20210119005028/en/dunnhumby-Extends-Machine-Learning-Automation-Tool-Built-on-Microsoft-Azure",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-19T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1454,58 +1497,6 @@
         "Google AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-cognitive-services-platform-market-emerging-players-growth-analysis-and-forecast-by-2023.md",
-      "title": "Cognitive Services Platform Market: Emerging Players, Growth, Analysis and Forecast by 2023",
-      "excerpt": "In the research report, Market Research Future (MRFR), emphasizes that the Global Cognitive Services Platform Market 2020",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cognitive-services-platform-market-emerging-players-growth-analysis-and-forecast-by-2023-2021-01-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-services-platform-market-emerging-players-growth-analysis-and-forecast-by-2023-2021-01-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-10T20:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

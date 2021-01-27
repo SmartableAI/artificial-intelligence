@@ -101,20 +101,6 @@ related:
         width: 768
         height: 512
         isCached: true
-  - title: "Microsoft Previews Azure IoT Edge for Linux on Windows"
-    excerpt: "Microsoft announced a preview of Azure IoT Edge for Linux on Windows, which lets organizations tap Linux virtual machine processes that also work with Windows- and Azure-based processes and services."
-    publishedDateTime: 2021-01-22T20:27:00Z
-    webUrl: "https://redmondmag.com/articles/2021/01/22/azure-iot-edge-for-linux-on-windows.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 54
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/BlueSquaresFloatingBig.jpg"
-        width: 1665
-        height: 1158
-        isCached: true
   - title: "Ooredoo provides managed services for Microsoft Azure"
     excerpt: "Ooredoo Qatar, a Microsoft Gold-certified partner, has signed a strategic partnership agreement with Wipro Limited, a leading global information technology, consulting, and business process services company"
     publishedDateTime: 2021-01-23T15:22:00Z

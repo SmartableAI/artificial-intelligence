@@ -7,7 +7,7 @@ originalUrl: "https://www.allaboutcircuits.com/news/startup-key-apple-google-chi
 webUrl: "https://www.allaboutcircuits.com/news/startup-key-apple-google-chip-designers-catches-qualcomms-eye/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "GM’s Next-Gen Vehicles Will Become Smarter With Qualcomm’s Cockpit Chips"
+    excerpt: "General Motors and Qualcomm, one of the leading suppliers of chips for the smartphone world, have expanded their partnership. The San Diego company will become the automaker’s supplier of ‘cockpit’ chips,"
+    publishedDateTime: 2021-01-27T12:15:00Z
+    webUrl: "https://www.carscoops.com/2021/01/gms-next-gen-vehicles-will-become-smarter-with-qualcomms-cockpit-chips/"
+    ampWebUrl: "https://www.carscoops.com/2021/01/gms-next-gen-vehicles-will-become-smarter-with-qualcomms-cockpit-chips/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/01/gms-next-gen-vehicles-will-become-smarter-with-qualcomms-cockpit-chips/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 58
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2021/01/GM-3-1024x554.jpg"
+        width: 1024
+        height: 554
+        isCached: true
   - title: "Veoneer, Qualcomm complete deal to develop self-driving tech"
     excerpt: "Veoneer and microchip giant Qualcomm have signed a collaboration deal to develop a software and chip platform for advanced driver assistance systems, Veoneer said in a statement on Tuesday. The companies said in August that they would cooperate on the technology."
     publishedDateTime: 2021-01-26T10:54:00Z

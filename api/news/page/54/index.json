@@ -2,6 +2,282 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2020-12-10-machine-learning-a-cheat-sheet.md",
+      "title": "Machine learning: A cheat sheet",
+      "excerpt": "This comprehensive guide explains what machine learning really means. Artificial intelligence (AI), which has been around since the 1950s, has seen ebbs and flows in popularity over the last 60 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/machine-learning-the-smart-persons-guide/",
+      "originalUrl": "https://www.techrepublic.com/article/machine-learning-the-smart-persons-guide/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2018/02/28/0b23d692-86fe-4992-ac77-01704623cc2b/thumbnail/1200x675/1b95ac4d209af970fcc0c175aad91cf6/20180227machinelearningtom.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/machine-learning-the-smart-persons-guide/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/machine-learning-the-smart-persons-guide/",
+      "publishedDateTime": "2020-12-10T01:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-nationwide-selects-aws-as-its-preferred-cloud-provider-to-deliver-digital-experiences-to-customers.md",
+      "title": "Nationwide Selects AWS as Its Preferred Cloud Provider to Deliver Digital Experiences to Customers",
+      "excerpt": "Insurance and financial services leader rapidly migrates to AWS to unlock data-driven insights, automate processes in the cloud, and deliver new digital services to millions",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/12/b18732538/nationwide-selects-aws-as-its-preferred-cloud-provider-to-deliver-digital-experiences-to-customers",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/12/b18732538/nationwide-selects-aws-as-its-preferred-cloud-provider-to-deliver-digital-experiences-to-customers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/18732538",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18732538",
+      "publishedDateTime": "2020-12-10T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-moraine-valley-grads-written-work-receives-national-recognition.md",
+      "title": "Moraine Valley Grad's Written Work Receives National Recognition",
+      "excerpt": "Moraine Valley graduate John Guinta, of Evergreen Park, poem \"Mojave Girl\" recognized by League for Innovation in the Community College.",
+      "sourceUrl": null,
+      "webUrl": "https://patch.com/illinois/evergreenpark/moraine-valley-grads-written-work-receives-national-recognition",
+      "originalUrl": "https://patch.com/illinois/evergreenpark/moraine-valley-grads-written-work-receives-national-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://patch.com/img/cdn20/shutterstock/44719/20201210/011135/styles/patch_image/public/shutterstock-243374959___10011018659.jpg?width=984",
+          "width": 701,
+          "height": 526,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://patch.com/illinois/evergreenpark/amp/29131879/moraine-valley-grads-written-work-receives-national-recognition",
+      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/illinois/evergreenpark/amp/29131879/moraine-valley-grads-written-work-receives-national-recognition",
+      "publishedDateTime": "2020-12-10T00:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-humanoid-robot-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2027.md",
+      "title": "Humanoid Robot Market – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2027",
+      "excerpt": "Global Humanoid Robot Market is valued at approximately USD 1,107 million in 2019 and is anticipated to grow with a healthy growth rate of more than 35% over the forecast period 2020-2027. Humanoid robots are the robots that usually be similar to the body shape and attributes of humans,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/humanoid-robot-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2027-2020-12-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/humanoid-robot-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2027-2020-12-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-09T23:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-cambridge-quantum-computing-posts-foundational-scientific-papers-on-meaning-aware-quantum-natural-language-processing.md",
+      "title": "Cambridge Quantum Computing Posts Foundational Scientific Papers on 'Meaning Aware' Quantum Natural Language Processing",
+      "excerpt": "Quantum native' attributes of natural language processing exploited in experiments on IBM quantum computers CAMBRIDGE, England, Dec. 10, 2020 /PRNewswire/ -- Cambridge Quantum Computing (CQC ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/cambridge-quantum-computing-posts-foundational-scientific-papers-on-meaning-aware-quantum-natural-language-processing-301190038.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/cambridge-quantum-computing-posts-foundational-scientific-papers-on-meaning-aware-quantum-natural-language-processing-301190038.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-09T23:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-this-ai-powered-growth-tools-helps-in-getting-instagram-followers.md",
+      "title": "This AI-Powered Growth Tools Helps In Getting Instagram Followers",
+      "excerpt": "What is SocialMeep? SocialMeep is an AI-powered Instagram growth and automation tool that gets you real, organic Instagram followers. SocialMeep helps you increase your brand or business reach allowing you to grow your audience and revenue. Along with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/361367",
+      "originalUrl": "https://www.entrepreneur.com/article/361367",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1607585356-MyPost77.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/361367",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/361367",
+      "publishedDateTime": "2020-12-09T23:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-lenovo-shows-new-data-management-solutions-for-hybrid-cloud-ai.md",
       "title": "Lenovo Shows New Data Management Solutions for Hybrid Cloud, AI",
       "excerpt": "Lenovo has considerably expanded its business customers’ options for working with hybrid cloud, analytics and artificial intelligence (AI).",
@@ -904,310 +1180,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-national-digest-gm-green-lights-test-of-driverless-cars-as-taxis.md",
-      "title": "National Digest: GM green lights test of driverless cars as taxis",
-      "excerpt": "The move, announced Wednesday by GM-owned Cruise, comes two months after the company received California’s permission to have fully driverless cars in the state.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/business/economy/national-digest-gm-green-lights-use-of-driverless-cars-as-taxis/2020/12/09/eabd4510-3a30-11eb-9276-ae0ca72729be_story.html",
-      "originalUrl": "https://www.washingtonpost.com/business/economy/national-digest-gm-green-lights-use-of-driverless-cars-as-taxis/2020/12/09/eabd4510-3a30-11eb-9276-ae0ca72729be_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J7PC5RB2M4I6XGGEEXOJ6SMH5A.jpg&w=1440",
-          "width": 1440,
-          "height": 945,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/business/economy/national-digest-gm-green-lights-use-of-driverless-cars-as-taxis/2020/12/09/eabd4510-3a30-11eb-9276-ae0ca72729be_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/economy/national-digest-gm-green-lights-use-of-driverless-cars-as-taxis/2020/12/09/eabd4510-3a30-11eb-9276-ae0ca72729be_story.html?outputType=amp",
-      "publishedDateTime": "2020-12-09T13:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-columbia-researchers-find-white-men-are-the-worst-at-reducing-ai-bias.md",
-      "title": "Columbia researchers find white men are the worst at reducing AI bias",
-      "excerpt": "Columbia researchers find evidence that differences in gender among engineers plays a role in introducing bias into AI algorithms.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/09/columbia-researchers-find-white-men-are-the-worst-at-reducing-ai-bias/",
-      "originalUrl": "https://venturebeat.com/2020/12/09/columbia-researchers-find-white-men-are-the-worst-at-reducing-ai-bias/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ai-solution-hero.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 554,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/09/columbia-researchers-find-white-men-are-the-worst-at-reducing-ai-bias/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/09/columbia-researchers-find-white-men-are-the-worst-at-reducing-ai-bias/amp/",
-      "publishedDateTime": "2020-12-09T13:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-ai-is-not-yet-perfect-but-its-on-the-rise-and-getting-better-with-computer-vision.md",
-      "title": "AI is not yet perfect, but it's on the rise and getting better with computer vision",
-      "excerpt": "It can beat anyone at chess but can't recognize fountains. One professor talks about the promise of AI and computer vision.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-is-not-yet-perfect-but-its-on-the-rise-and-getting-better-with-computer-vision/",
-      "originalUrl": "https://www.techrepublic.com/article/ai-is-not-yet-perfect-but-its-on-the-rise-and-getting-better-with-computer-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/12/09/2004f139-bec3-45b0-97ef-38c3f2934cac/thumbnail/1200x675/5c415c0f75141a1795cb279d61b3d614/20201203-aiindiana-karen.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-is-not-yet-perfect-but-its-on-the-rise-and-getting-better-with-computer-vision/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-is-not-yet-perfect-but-its-on-the-rise-and-getting-better-with-computer-vision/",
-      "publishedDateTime": "2020-12-09T12:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-why-ibms-ai-fact-sheets-should-be-the-industry-standard.md",
-      "title": "Why IBM’s AI Fact Sheets should be the industry standard",
-      "excerpt": "Every once in awhile an idea comes along that’s so good it makes you wonder why it took so long for someone to think of it. IBM’s AI Fact Sheets is one of those ideas. AI Fact Sheets are a lot like packaged food nutrition labels.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/12/09/why-ibms-ai-fact-sheets-should-be-the-industry-standard/",
-      "originalUrl": "https://thenextweb.com/neural/2020/12/09/why-ibms-ai-fact-sheets-should-be-the-industry-standard/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/03/watson-796x398.jpg",
-          "width": 796,
-          "height": 398,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/12/09/why-ibms-ai-fact-sheets-should-be-the-industry-standard/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/09/why-ibms-ai-fact-sheets-should-be-the-industry-standard/amp/",
-      "publishedDateTime": "2020-12-09T11:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-ibm-creates-knowledgeable-nlp-system-and-adds-ai-governance-capabilities-to-watson.md",
-      "title": "IBM creates knowledgeable NLP system and adds AI governance capabilities to Watson",
-      "excerpt": "IBM has unveiled a slew of announcements designed to help businesses scale their use of AI. The company also announced the rollout of new capabilities for its Watson platform. IBM researchers have built a hybrid question-answering system called Neuro-Symbolic-QA (NSQA) that for the first time uses neurosymbolic AI to allow an AI system to offer \"and\"/ \"or\" to its recommendations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ibm-creates-knowledgeable-nlp-system-and-adds-ai-governance-capabilities-to-watson/",
-      "originalUrl": "https://www.techrepublic.com/article/ibm-creates-knowledgeable-nlp-system-and-adds-ai-governance-capabilities-to-watson/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2019/02/12/cdda909e-f963-4538-a3e8-dd84cc224515/resize/1200x/bf661506ae11de07f865681a9fcae5bc/ibm-watson-940x705.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ibm-creates-knowledgeable-nlp-system-and-adds-ai-governance-capabilities-to-watson/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-creates-knowledgeable-nlp-system-and-adds-ai-governance-capabilities-to-watson/",
-      "publishedDateTime": "2020-12-09T11:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-siebel-led-c3ai-more-than-doubles-after-651-million-ipo.md",
-      "title": "Siebel-Led C3.ai More Than Doubles After $651 Million IPO",
-      "excerpt": "C3.ai Inc., the software maker founded by former Oracle Corp. executive Tom Siebel, rose as much as 174% in its trading debut after raising $651 million in its initial public offering above the marketed range.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-12-09/siebel-led-c3-ai-more-than-doubles-after-651-million-ipo",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-12-09/siebel-led-c3-ai-more-than-doubles-after-651-million-ipo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYf_ilbSSPwk/v0/360x-1.jpg",
-          "width": 360,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-12-09/siebel-led-c3-ai-more-than-doubles-after-651-million-ipo",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-09/siebel-led-c3-ai-more-than-doubles-after-651-million-ipo",
-      "publishedDateTime": "2020-12-09T11:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -60,6 +60,20 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Calls to ban facial recognition technology over racism and protest impact"
+    excerpt: "Facial recognition technology amplifies racist policing and threatens the right to protest, campaigners have warned as they launch a global campaign against its use. The new Ban the Scan campaign, launched by Amnesty International,"
+    publishedDateTime: 2021-01-27T12:36:00Z
+    webUrl: "https://www.scottishlegal.com/article/calls-to-ban-facial-recognition-technology-over-racism-and-protest-impact"
+    type: article
+    provider:
+      name: Scottish Legal News
+      domain: scottishlegal.com
+    quality: 38
+    images:
+      - url: "https://www.scottishlegal.com/uploads/security-camera-cctv-pixa.jpg"
+        width: 640
+        height: 426
+        isCached: true
   - title: "Ban dangerous facial recognition technology that reinforces racist police work"
     excerpt: "Ban dangerous facial recognition technology that reinforces racist police work Amnesty International today launched a global campaign to"
     publishedDateTime: 2021-01-26T00:51:00Z

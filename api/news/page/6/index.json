@@ -2,6 +2,300 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-01-21-south-african-startup-aerobotics-raises-17m-to-scale-its-ai-for-agriculture-platform.md",
+      "title": "South African startup Aerobotics raises $17M to scale its AI-for-agriculture platform",
+      "excerpt": "As the global agricultural industry stretches to meet expected population growth and food demand, and food security becomes more of a pressing issue with global warming, a startup out of South Africa is using artificial intelligence to help farmers manage their farms,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/01/21/south-africa-startup-aerobotics-raises-17m-led-by-naspers-foundry/",
+      "originalUrl": "https://techcrunch.com/2021/01/21/south-africa-startup-aerobotics-raises-17m-led-by-naspers-foundry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/01/Image-5-1024x683-1.png?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/01/21/south-africa-startup-aerobotics-raises-17m-led-by-naspers-foundry/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/21/south-africa-startup-aerobotics-raises-17m-led-by-naspers-foundry/amp/",
+      "publishedDateTime": "2021-01-21T07:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-a-deep-learning-based-framework-for-the-registration-of-three-dimensional-multi-modal-medical-images-of-the-head.md",
+      "title": "A deep learning based framework for the registration of three dimensional multi-modal medical images of the head",
+      "excerpt": "Here, we explore the use of feature-based deep learning for 3D rigid-body registration of intra-patient, multi-modal (CT and MRI) images of the head. To this end, we first discuss a method of generating synthetic data to augment an existing registration ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/s41598-021-81044-7",
+      "originalUrl": "https://www.nature.com/articles/s41598-021-81044-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-81044-7/MediaObjects/41598_2021_81044_Fig1_HTML.png",
+          "width": 685,
+          "height": 291,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-21T07:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-how-this-company-leveraged-ai-to-become-the-netflix-of-finland.md",
+      "title": "How this company leveraged AI to become the Netflix of Finland",
+      "excerpt": "Finnish public broadcaster Yle made impressive inroads in online streaming with its Areena service, which is more popular than Netflix.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/artificial-intelligence/2021/01/21/how-this-company-leveraged-ai-to-become-the-netflix-of-finland/",
+      "originalUrl": "https://thenextweb.com/artificial-intelligence/2021/01/21/how-this-company-leveraged-ai-to-become-the-netflix-of-finland/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/Screenshot-2021-01-21-at-15.29.36-796x469.png",
+          "width": 796,
+          "height": 469,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-21T07:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-google-union-slams-companys-treatment-of-ai-ethics-researchers.md",
+      "title": "Google union slams company’s treatment of AI ethics researchers",
+      "excerpt": "The Alphabet Workers Union said the actions against Margaret Mitchell and Timnit Gebru \"call into question Google’s commitment to ethics.\"",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/01/21/google-union-slams-companys-treatment-of-ai-ethics-researchers/",
+      "originalUrl": "https://thenextweb.com/neural/2021/01/21/google-union-slams-companys-treatment-of-ai-ethics-researchers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/Untitled-design-2021-01-21T145619.798-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/01/21/google-union-slams-companys-treatment-of-ai-ethics-researchers/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/21/google-union-slams-companys-treatment-of-ai-ethics-researchers/amp/",
+      "publishedDateTime": "2021-01-21T07:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-designing-customized-robot-brains-for-critical-applications.md",
+      "title": "Designing customized robot brains for critical applications",
+      "excerpt": "While robots are stronger and moving faster than ever before, they still struggle with complex situations and their movements grind to a halt. “The hang up is",
+      "sourceUrl": null,
+      "webUrl": "https://www.controleng.com/articles/designing-customized-robot-brains-for-critical-applications/",
+      "originalUrl": "https://www.controleng.com/articles/designing-customized-robot-brains-for-critical-applications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.controleng.com/wp-content/uploads/sites/2/2021/01/CTL2101_WEB_IMG_MIT_Robot_Brains.jpg",
+          "width": 645,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-21T07:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Control Engineering",
+        "domain": "controleng.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-vast-data-allies-with-nvidia-on-reference-storage-architecture-for-ai.md",
+      "title": "VAST Data allies with Nvidia on reference storage architecture for AI",
+      "excerpt": "VAST Data collaborates with Nvidia to create reference architecture for attaching its storage systems to GPU servers.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/21/vast-data-allies-with-nvidia-on-reference-storage-architecture-for-ai/",
+      "originalUrl": "https://venturebeat.com/2021/01/21/vast-data-allies-with-nvidia-on-reference-storage-architecture-for-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/artificial_intelligence-e1611234784519.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/21/vast-data-allies-with-nvidia-on-reference-storage-architecture-for-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/21/vast-data-allies-with-nvidia-on-reference-storage-architecture-for-ai/amp/",
+      "publishedDateTime": "2021-01-21T06:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-google-meet-gets-one-of-zooms-best-features-live-otterai-transcription.md",
       "title": "Google Meet Gets One Of Zoom’s Best Features: Live Otter.ai Transcription",
       "excerpt": "Otter.ai has released a plugin for Google Meet which allows participants ... “This is where the AI is in play, in real time, because when it hears more words it actually re-evaluates the ...",
@@ -950,290 +1244,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-google-investigates-ethical-ai-team-member-over-handling-of-sensitive-data.md",
-      "title": "Google investigates ethical AI team member over handling of sensitive data",
-      "excerpt": "Alphabet Inc’s Google is investigating a member of its ethical AI team and has locked the corporate account linked to that person after finding that thousands of files were retrieved from its server and shared with external accounts,",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxbusiness.com/technology/google-investigates-ethical-ai-team-member-over-handling-of-sensitive-data",
-      "originalUrl": "https://www.foxbusiness.com/technology/google-investigates-ethical-ai-team-member-over-handling-of-sensitive-data",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c24beea8-2f80-4be7-8a30-bc57baf899d4/a74a6776-b80e-42d9-b9a7-74f73bb7a609/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxbusiness.com/technology/google-investigates-ethical-ai-team-member-over-handling-of-sensitive-data.amp",
-      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/google-investigates-ethical-ai-team-member-over-handling-of-sensitive-data.amp",
-      "publishedDateTime": "2021-01-20T17:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox Business",
-        "domain": "foxbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-this-site-published-every-face-from-parlers-capitol-riot-videos.md",
-      "title": "This Site Published Every Face From Parler's Capitol Riot Videos",
-      "excerpt": "Faces of the Riot used open source software to detect, extract, and deduplicate every face from the 827 videos taken from the insurrection on January 6.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/faces-of-the-riot-capitol-insurrection-facial-recognition/",
-      "originalUrl": "https://www.wired.com/story/faces-of-the-riot-capitol-insurrection-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6008823e103a85a519187c3a/master/pass/parler-face-recognition-illustration.jpg",
-          "width": 2095,
-          "height": 1178,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/faces-of-the-riot-capitol-insurrection-facial-recognition/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/faces-of-the-riot-capitol-insurrection-facial-recognition/amp",
-      "publishedDateTime": "2021-01-20T16:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-gm-and-cruise-lend-a-hand-to-hondas-self-driving-mobility-service.md",
-      "title": "GM and Cruise lend a hand to Honda's self-driving mobility service",
-      "excerpt": "Honda is in for a little help from General Motors and Cruise Automation. On Wednesday, the Japanese automaker said GM and Cruise Automation will help its upcoming self-driving mobility service in Japan.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/honda-gm-cruise-self-driving-car-test-japan/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/honda-gm-cruise-self-driving-car-test-japan/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/JR63H_Pjvk2OP-nfwpu-Oku1hLk=/2021/01/20/6fadcb70-eee3-451b-bd37-527f98576b28/ogi-cruise.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/honda-gm-cruise-self-driving-car-test-japan/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/honda-gm-cruise-self-driving-car-test-japan/",
-      "publishedDateTime": "2021-01-20T16:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-google-to-shut-down-loon.md",
-      "title": "Google to shut down Loon",
-      "excerpt": "Google announced Jan. 21 it is shutting down Loon, a venture to provide wireless connectivity by balloon that some considered a competitor to satellites.",
-      "sourceUrl": null,
-      "webUrl": "https://spacenews.com/google-to-shut-down-loon/",
-      "originalUrl": "https://spacenews.com/google-to-shut-down-loon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://spacenews.com/wp-content/uploads/2018/10/rsz_loon_in_nz2_1.jpg",
-          "width": 879,
-          "height": 586,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-20T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SpaceNews",
-        "domain": "spacenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-google-targets-ai-ethics-lead-margaret-mitchell-after-firing-timnit-gebru.md",
-      "title": "Google targets AI ethics lead Margaret Mitchell after firing Timnit Gebru",
-      "excerpt": "Margaret Mitchell leads the Google AI ethics team following the firing of Timnit Gebru. Now Google said Mitchell is under investigation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.m-mitchell.com/",
-      "originalUrl": "https://venturebeat.com/2021/01/20/google-targets-ai-ethics-lead-margaret-mitchell-after-firing-timnit-gebru/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 163,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-20T15:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-ces-2021-celebrates-new-era-with-whimsical-robots-ai-influencers-and-billie-eilish.md",
-      "title": "CES 2021 Celebrates New Era With Whimsical Robots, AI Influencers And Billie Eilish",
-      "excerpt": "Meet the robots of CES 2021, ones that will pour you a glass of wine, soar you across the sky and land firmly on the moon. A look at AI innovation with an eye toward sustainability and equity at Samsung,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/martineparis/2021/01/20/ces-2021-celebrates-new-era-with-whimsical-robots-ai-influencers-and-billie-eilish/",
-      "originalUrl": "https://www.forbes.com/sites/martineparis/2021/01/20/ces-2021-celebrates-new-era-with-whimsical-robots-ai-influencers-and-billie-eilish/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6005fdd972d4e4bb491e4d76%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D840%26cropY1%3D24%26cropY2%3D496",
-          "width": 840,
-          "height": 472,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2021/01/20/ces-2021-celebrates-new-era-with-whimsical-robots-ai-influencers-and-billie-eilish/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2021/01/20/ces-2021-celebrates-new-era-with-whimsical-robots-ai-influencers-and-billie-eilish/amp/",
-      "publishedDateTime": "2021-01-20T15:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

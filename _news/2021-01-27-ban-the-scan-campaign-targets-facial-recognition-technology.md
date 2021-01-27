@@ -9,7 +9,7 @@ ampWebUrl: "https://newyork.cbslocal.com/video/5233334-ban-the-scan-campaign-tar
 cdnAmpWebUrl: "https://newyork-cbslocal-com.cdn.ampproject.org/c/s/newyork.cbslocal.com/video/5233334-ban-the-scan-campaign-targets-facial-recognition-technology/amp/"
 type: article
 quality: 54
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -48,6 +48,20 @@ related:
       - url: "https://www.amnesty.org.uk/files/styles/social_share_image/s3/settings/amnesty_logo_0.jpg?qA0vtal7uIyyFfzdjtm85CBfSTsi5Vt0&itok=V8GH6KNO"
         width: 1200
         height: 627
+        isCached: true
+  - title: "Calls to ban facial recognition technology over racism and protest impact"
+    excerpt: "Facial recognition technology amplifies racist policing and threatens the right to protest, campaigners have warned as they launch a global campaign against its use. The new Ban the Scan campaign, launched by Amnesty International,"
+    publishedDateTime: 2021-01-27T12:36:00Z
+    webUrl: "https://www.scottishlegal.com/article/calls-to-ban-facial-recognition-technology-over-racism-and-protest-impact"
+    type: article
+    provider:
+      name: Scottish Legal News
+      domain: scottishlegal.com
+    quality: 38
+    images:
+      - url: "https://www.scottishlegal.com/uploads/security-camera-cctv-pixa.jpg"
+        width: 640
+        height: 426
         isCached: true
   - title: "Proposed ban on facial recognition technology moves forward in Minneapolis"
     excerpt: "Minneapolis is one step closer to banning police and other city departments from using facial recognition technology."

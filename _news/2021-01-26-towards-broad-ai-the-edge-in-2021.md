@@ -43,6 +43,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Why 76% of enterprises are prioritising AI and machine learning in 2021 IT budgets"
+    excerpt: "AI and ML initiatives matter “more than we thought,” with one in four saying AI and ML should have been top priority sooner."
+    publishedDateTime: 2021-01-27T11:11:00Z
+    webUrl: "https://cloudcomputing-news.net/news/2021/jan/27/why-76-of-enterprises-are-prioritising-ai-and-machine-learning-in-2021-it-budgets/"
+    type: article
+    provider:
+      name: Cloud Computing
+      domain: cloudcomputing-news.net
+    quality: 48
+    images:
+      - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2020/03/money-rain-picture-id172276209.jpg"
+        width: 1024
+        height: 768
+        isCached: true
 
 secured: "0wc9Y2ZDceF6UcTbF+ZsAQoWc8vUJTVmonug64pfDEJop9q5YTCeGX8rqJYKluMkbv3xeUXB7Yz5rc4z+F6HXMboWJZWwUw9bhfUha4neIP7GGwUyRZsldBSZ0RpRQBmCQdENrMmopg+dMpO4hMtpxn0zV4ppCL0siwXVMbjsKAbQucdWf3QInWdhf1SbbysRLHUFbFhAebU+gND3WZ116JOC+urpV0SHJ645GCwYG8Q/OGtO9gz6UlWoXjKB37RiCGtIE8afDhBFiyfCz15wUuj+hq+u4LA/Autvh5GNBKvcQENpX+iP7B6iaEEDTjP811PzPk6cTuDsK8T+hXhR6SPcWGh0cCez3O3eAmfDHgz4BV2sISxE/CFP/qrcQYeC9FYizjeI2KR52yqvI2laKhIQi157lWpjOfwKIlwNS6OJxDcrJp3bxdVEWeUr7tn2E9zcgysp+OaLGw96lTlgARa/+Wn6K7Dj6ep8WLzflc9PetIB9MYFuz/+cMl6f0yw7cg3kjUnMW2vc8TV9Gdtg==;On0oLlF+zOFGrVlkgLzOkg=="
 ---

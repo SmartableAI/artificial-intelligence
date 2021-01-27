@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Dubai royal family partners with JIFFY.ai"
-    excerpt: "Seed Group, a company of the Private Office of Sheikh Saeed bin Ahmed Al Maktoum, belonging to the Royal Family of Dubai, has partnered with Silicon Valley-based automation start-up JIFFY.ai to help expand operations in the United Arab Emirates and the larger Middle East and bring in ‘the best’ of intelligent automation along with its AI-based,"
-    publishedDateTime: 2021-01-25T07:45:00Z
-    webUrl: "https://www.thehindubusinessline.com/economy/dubai-royal-family-partners-with-jiffyai/article33655658.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/economy/dubai-royal-family-partners-with-jiffyai/article33655658.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/economy/dubai-royal-family-partners-with-jiffyai/article33655658.ece/amp/"
+  - title: "Emirati firm Seed Group ties up with Silicon Valley start-up"
+    excerpt: "UAE company Seed Group is expanding its intelligent automation business in the Middle East region by partnering with Silicon Valley’s start-up JIFFY.ai. Under the new agreement, the company, which is owned by the Private Office of Shaikh Saeed bin Ahmed Al Maktoum,"
+    publishedDateTime: 2021-01-25T08:51:00Z
+    webUrl: "https://www.zawya.com/uae/en/business/story/Emirati_firm_Seed_Group_ties_up_with_Silicon_Valley_startup-ZAWYA20210125074154/"
+    ampWebUrl: "https://www.zawya.com/uae/en/story/amp/ZAWYA20210125074154/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/ZAWYA20210125074154/"
     type: article
     provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 57
+      name: Zawya
+      domain: zawya.com
+    quality: 42
     images:
-      - url: "https://www.thehindubusinessline.com/economy/kvn1tp/article33655657.ece/ALTERNATES/LANDSCAPE_615/BL26Partnership"
-        width: 615
-        height: 384
+      - url: "https://images.zawya.com/images/cia/zAmp/201116053429DLNT.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "sSWCycFqH1/St8KDxfAsgEs2HduzbLXWzwxvcCIdCBhUFSvKVj/ZPo8vTjr54ZPei8CvUSnqqhym4YmT3nlukUK5RpuW4fcIWjAmnJWLzmvwSmaqgm+wM0W2F1v4eDC7hBYOBPmJS5lioRhPAMLNkmr7Y5VlsIBJ3XRWt17aX5ds9j3urT2247BBS4Ih9kgJMWJ92Ll1nXtJMS8FfiCkSwSA9ppuYUo6NCiu087fyfXfFtrSzdN7Bz3G5lUbZwkbH/cBeThdNXLBgcpwaWT5i1JUl09PeYintiLA6cxhSGxfhgp3F4c46J15B/MDSxr3xUm1zoxlDVHPR9tLsltNKKR0gKeMzJqycxpqr9b18lA=;qe9lEXu5g8k3wpdoRDn/SA=="

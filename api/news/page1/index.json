@@ -2,6 +2,194 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-27-gms-next-gen-vehicles-will-become-smarter-with-qualcomms-cockpit-chips.md",
+      "title": "GM’s Next-Gen Vehicles Will Become Smarter With Qualcomm’s Cockpit Chips",
+      "excerpt": "General Motors and Qualcomm, one of the leading suppliers of chips for the smartphone world, have expanded their partnership. The San Diego company will become the automaker’s supplier of ‘cockpit’ chips,",
+      "sourceUrl": null,
+      "webUrl": "https://www.carscoops.com/2021/01/gms-next-gen-vehicles-will-become-smarter-with-qualcomms-cockpit-chips/",
+      "originalUrl": "https://www.carscoops.com/2021/01/gms-next-gen-vehicles-will-become-smarter-with-qualcomms-cockpit-chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.carscoops.com/wp-content/uploads/2021/01/GM-3-1024x554.jpg",
+          "width": 1024,
+          "height": 554,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.carscoops.com/2021/01/gms-next-gen-vehicles-will-become-smarter-with-qualcomms-cockpit-chips/amp/",
+      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/01/gms-next-gen-vehicles-will-become-smarter-with-qualcomms-cockpit-chips/amp/",
+      "publishedDateTime": "2021-01-27T04:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Carscoops",
+        "domain": "carscoops.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-synthetic-biology-partners-with-ai-to-delete-food-allergies.md",
+      "title": "Synthetic Biology Partners With AI To Delete Food Allergies",
+      "excerpt": "Binur and fellow co-founder Yanay Ofran began Ukko in 2016 in an attempt to shift the paradigm on food allergies. Their mission seems to have struck a chord. The company recently announced a $40M Series B funding round to advance its efforts in ending food allergies for good.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johncumbers/2021/01/27/synthetic-biology-partners-with-ai-to-delete-food-allergies/",
+      "originalUrl": "https://www.forbes.com/sites/johncumbers/2021/01/27/synthetic-biology-partners-with-ai-to-delete-food-allergies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6010b4bd276bd88056ff9673%2F0x0.jpg",
+          "width": 1200,
+          "height": 795,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johncumbers/2021/01/27/synthetic-biology-partners-with-ai-to-delete-food-allergies/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johncumbers/2021/01/27/synthetic-biology-partners-with-ai-to-delete-food-allergies/amp/",
+      "publishedDateTime": "2021-01-27T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-the-race-to-outsmart-the-competition-adobe-unveils-new-ai-tools-for-retailers.md",
+      "title": "The Race To Outsmart The Competition: Adobe Unveils New AI Tools For Retailers",
+      "excerpt": "Tech companies are vying to offer retailers ways to create smarter, seamless, and personalized online shopping experiences. Adobe unveils its new tools that use AI and data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joanverdon/2021/01/27/the-race-to-outsmart-the-competion-adobe-unveils-new-ai-tools-for-retailers/",
+      "originalUrl": "https://www.forbes.com/sites/joanverdon/2021/01/27/the-race-to-outsmart-the-competion-adobe-unveils-new-ai-tools-for-retailers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60106b5264291785f81a07e8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5616%26cropY1%3D404%26cropY2%3D3563",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joanverdon/2021/01/27/the-race-to-outsmart-the-competion-adobe-unveils-new-ai-tools-for-retailers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joanverdon/2021/01/27/the-race-to-outsmart-the-competion-adobe-unveils-new-ai-tools-for-retailers/amp/",
+      "publishedDateTime": "2021-01-27T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-the-role-artificial-intelligence-is-playing-in-the-healthcare-sector.md",
+      "title": "The Role Artificial Intelligence is Playing In the Healthcare Sector",
+      "excerpt": "With modern technology making business operations convenient, fraudsters are also banking on advanced technology for their illicit activities. Cybercriminals are now targeting the healthcare sector for their illegal gains.",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/the-role-artificial-intelligence-is-playing-in-the-healthcare-sector/",
+      "originalUrl": "https://techbullion.com/the-role-artificial-intelligence-is-playing-in-the-healthcare-sector/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2021/01/Healthcare-Sector.jpg",
+          "width": 1600,
+          "height": 790,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/the-role-artificial-intelligence-is-playing-in-the-healthcare-sector/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/the-role-artificial-intelligence-is-playing-in-the-healthcare-sector/amp/",
+      "publishedDateTime": "2021-01-27T03:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-27-its-time-to-use-all-of-twitters-archives-to-teach-ai-about-about-bias.md",
       "title": "It’s time to use all of Twitter’s archives to teach AI about about bias",
       "excerpt": "Microsoft released a chatbot called Tay that fed off people’s replies to it. Within hours, the bot turned racist and the company had to pull it down. This incident remains one of the classic lessons that teach us why it’s a bad idea to train an AI using social media.",
@@ -34,48 +222,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-opencv-opens-400000-contest-to-solve-real-world-problems-with-spatial-ai.md",
-      "title": "OpenCV opens $400,000 contest to solve real-world problems with spatial AI",
-      "excerpt": "A global contest aims to spark computer vision solutions to actual problems, and promises teams free camera hardware and Azure services.Read",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/opencv-opens-$400-000-contest-to-solve-real-world-problems-with-spatial-ai-9735871",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/opencv-opens-$400-000-contest-to-solve-real-world-problems-with-spatial-ai-9735871",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/opencv-opens-$400-000-contest-to-solve-real-world-problems-with-spatial-ai-9735871",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/opencv-opens-$400-000-contest-to-solve-real-world-problems-with-spatial-ai-9735871",
-      "publishedDateTime": "2021-01-26T22:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -138,15 +284,59 @@
       ]
     },
     {
+      "path": "_news/2021-01-27-76-of-enterprises-prioritize-ai-machine-learning-in-2021-it-budgets.md",
+      "title": "76% Of Enterprises Prioritize AI & Machine Learning In 2021 IT Budgets",
+      "excerpt": "Enterprises accelerated their adoption of AI and machine learning in 2020, concentrating on those initiatives that deliver revenue growth and cost reduction.",
+      "sourceUrl": null,
+      "webUrl": "https://www.enterpriseirregulars.com/170814/76-of-enterprises-prioritize-ai-machine-learning-in-2021-it-budgets/",
+      "originalUrl": "https://www.enterpriseirregulars.com/170814/76-of-enterprises-prioritize-ai-machine-learning-in-2021-it-budgets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mk0enterpriseirdbne0.kinstacdn.com/wp-content/uploads/2021/01/76-Of-Enterprises-Prioritize-AI-Machine-Learning-In-2021-IT-Budgets-image-600x338.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-26T19:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Enterprise Irregulars",
+        "domain": "enterpriseirregulars.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-01-27-us-commission-cites-moral-imperative-to-explore-ai-weapons.md",
       "title": "U.S. commission cites 'moral imperative' to explore AI weapons",
       "excerpt": "The United States should not agree to ban the use or development of autonomous weapons powered by artificial intelligence (AI) software, a government-appointed panel said in a draft report for Congress.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-military-ai-idUSKBN29V2M0",
-      "originalUrl": "https://www.reuters.com/article/us-usa-military-ai-idUSKBN29V2M0",
+      "webUrl": "https://www.reuters.com/article/us-usa-military-ai/u-s-commission-cites-moral-imperative-to-explore-ai-weapons-idUSKBN29V2M0?edition-redirect=ca",
+      "originalUrl": "https://www.reuters.com/article/us-usa-military-ai/u-s-commission-cites-moral-imperative-to-explore-ai-weapons-idUSKBN29V2M0?edition-redirect=ca",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -162,7 +352,7 @@
       "type": "article",
       "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29V2M0",
       "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29V2M0",
-      "publishedDateTime": "2021-01-26T19:24:00-08:00",
+      "publishedDateTime": "2021-01-26T19:03:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",
@@ -240,6 +430,57 @@
       ]
     },
     {
+      "path": "_news/2021-01-27-japanese-giant-nikko-global-builds-on-fintica-ai-success-for-market-analysis.md",
+      "title": "Japanese giant Nikko Global builds on Fintica AI success for market analysis",
+      "excerpt": "PR Newswire TEL AVIV, Israel and TOKYO, Jan. 26, 2021 Nikko Global Wrap and Fintica to further develop",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/press-releases/2021-01-26/japanese-giant-nikko-global-builds-on-fintica-ai-success-for-market-analysis",
+      "originalUrl": "https://www.bloomberg.com/press-releases/2021-01-26/japanese-giant-nikko-global-builds-on-fintica-ai-success-for-market-analysis",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-26T18:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-27-nvidia-launches-certification-program-for-ai-platforms.md",
       "title": "Nvidia launches certification program for AI platforms",
       "excerpt": "Nvidia today launched a formal certification program for systems based on graphical processor units (GPUs) deployed in on-premises IT environments by its OEM partners. The Nvidia-Certified Systems initiative comes at a time when AI models are starting to be both trained and deployed at the network edge rather than trained only in the cloud.",
@@ -287,6 +528,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-opencv-opens-400000-contest-to-solve-real-world-problems-with-spatial-ai.md",
+      "title": "OpenCV opens $400,000 contest to solve real-world problems with spatial AI",
+      "excerpt": "A global contest aims to spark computer vision solutions to actual problems, and promises teams free camera hardware and Azure services.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/26/opencv-opens-400000-contest-to-solve-real-world-problems-with-spatial-ai/",
+      "originalUrl": "https://venturebeat.com/2021/01/26/opencv-opens-400000-contest-to-solve-real-world-problems-with-spatial-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/opencvai.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/26/opencv-opens-400000-contest-to-solve-real-world-problems-with-spatial-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/26/opencv-opens-400000-contest-to-solve-real-world-problems-with-spatial-ai/amp/",
+      "publishedDateTime": "2021-01-26T16:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -599,7 +892,7 @@
       "originalUrl": "https://newyork.cbslocal.com/video/5233334-ban-the-scan-campaign-targets-facial-recognition-technology/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -924,308 +1217,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-humans-wouldnt-be-able-to-control-a-superintelligent-ai-according-to-a-new-study.md",
-      "title": "Humans wouldn't be able to control a superintelligent AI, according to a new study",
-      "excerpt": "Not only does the research suggest humans wouldn't be able to control machines — we may not even know when superintelligent machines have arrived.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/mankind-will-not-be-able-to-control-artificial-intelligence-according-to-study",
-      "originalUrl": "https://www.businessinsider.com/mankind-will-not-be-able-to-control-artificial-intelligence-according-to-study",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/601024131d2df20018b70d21?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/mankind-will-not-be-able-to-control-artificial-intelligence-according-to-study?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mankind-will-not-be-able-to-control-artificial-intelligence-according-to-study?amp",
-      "publishedDateTime": "2021-01-26T07:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-artificial-intelligence-will-define-googles-future-for-now-its-a-management-challenge.md",
-      "title": "Artificial Intelligence Will Define Google’s Future. For Now, It’s a Management Challenge.",
-      "excerpt": "Google’s parent, Alphabet, has waded through one controversy after another involving its top researchers and executives in the field over the past 18 months.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/artificial-intelligence-will-define-googles-future-for-now-its-a-management-challenge-11611676945",
-      "originalUrl": "https://www.wsj.com/articles/artificial-intelligence-will-define-googles-future-for-now-its-a-management-challenge-11611676945",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-290370/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/artificial-intelligence-will-define-googles-future-for-now-its-a-management-challenge-11611676945",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/artificial-intelligence-will-define-googles-future-for-now-its-a-management-challenge-11611676945",
-      "publishedDateTime": "2021-01-26T07:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-sales-startup-insentai-raises-2-million-to-expand-its-data-strategy-with-automated-chatbots.md",
-      "title": "Sales startup Insent.ai raises $2 million to expand its data strategy with automated chatbots",
-      "excerpt": "B2B enterprise sales platform Insent.ai has raised $2 million to expand its data visibility and automated chatbot integrations.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/26/sales-startup-insent-ai-raises-2-million-to-expand-its-data-strategy-with-automated-chatbots/",
-      "originalUrl": "https://venturebeat.com/2021/01/26/sales-startup-insent-ai-raises-2-million-to-expand-its-data-strategy-with-automated-chatbots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/08/chatbot.shutterstock_1139070611-e1588276688496.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/26/sales-startup-insent-ai-raises-2-million-to-expand-its-data-strategy-with-automated-chatbots/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/26/sales-startup-insent-ai-raises-2-million-to-expand-its-data-strategy-with-automated-chatbots/amp/",
-      "publishedDateTime": "2021-01-26T06:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-why-the-oecd-wants-to-calculate-the-ai-compute-needs-of-national-governments.md",
-      "title": "Why the OECD wants to calculate the AI compute needs of national governments",
-      "excerpt": "The OECD is working to help countries better understand their AI compute demand needs and prepare for the future.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/26/why-the-oecd-wants-to-calculate-the-ai-compute-needs-of-national-governments/",
-      "originalUrl": "https://venturebeat.com/2021/01/26/why-the-oecd-wants-to-calculate-the-ai-compute-needs-of-national-governments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/oecd.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/26/why-the-oecd-wants-to-calculate-the-ai-compute-needs-of-national-governments/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/26/why-the-oecd-wants-to-calculate-the-ai-compute-needs-of-national-governments/amp/",
-      "publishedDateTime": "2021-01-26T06:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-container-approach-to-boosting-gpu-utilization-secures-bigger-backing.md",
-      "title": "Container Approach to Boosting GPU Utilization Secures Bigger Backing",
-      "excerpt": "Getting peak utilization out of GPU farms in the age of AI will be the unending quest. From being able to partition a GPU into small fractions to scaling",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2021/01/26/container-approach-to-boosting-gpu-utilization-secures-bigger-backing/",
-      "originalUrl": "https://www.nextplatform.com/2021/01/26/container-approach-to-boosting-gpu-utilization-secures-bigger-backing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/ab_traffic_smart.jpg",
-          "width": 1300,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2021/01/26/container-approach-to-boosting-gpu-utilization-secures-bigger-backing/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/01/26/container-approach-to-boosting-gpu-utilization-secures-bigger-backing/amp/",
-      "publishedDateTime": "2021-01-26T06:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-runai-raises-30m-series-b-for-its-ai-compute-platform.md",
-      "title": "Run:AI raises $30M Series B for its AI compute platform",
-      "excerpt": "Run:AI, a Tel Aviv-based company that helps businesses orchestrate and optimize their AI compute infrastructure, today announced that it has raised a $30 million Series B round. The new round was led by Insight Partners,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/01/26/runai-raises-30m-series-b-for-its-ai-compute-platform/",
-      "originalUrl": "https://techcrunch.com/2021/01/26/runai-raises-30m-series-b-for-its-ai-compute-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/01/RunAi-company-image2-01.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/01/26/runai-raises-30m-series-b-for-its-ai-compute-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/26/runai-raises-30m-series-b-for-its-ai-compute-platform/amp/",
-      "publishedDateTime": "2021-01-26T06:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

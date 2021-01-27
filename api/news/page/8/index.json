@@ -2,6 +2,351 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-01-20-google-investigates-ethical-ai-team-member-over-handling-of-sensitive-data.md",
+      "title": "Google investigates ethical AI team member over handling of sensitive data",
+      "excerpt": "Alphabet Inc's Google is investigating a member of its ethical AI team and has locked the corporate account linked to that person after finding that thousands of files were retrieved from its server and shared with external accounts,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-alphabet-google-research-idUSKBN29P0TW",
+      "originalUrl": "https://www.reuters.com/article/us-alphabet-google-research-idUSKBN29P0TW",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20210120&t=2&i=1548412512&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0J0F2",
+          "width": 1056,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29P0TW",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29P0TW",
+      "publishedDateTime": "2021-01-20T05:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-how-ai-is-modernizing-the-collections-process.md",
+      "title": "How AI Is Modernizing The Collections Process",
+      "excerpt": "The traditional model's inability to predict which debts will go into collections puts lenders behind the curve. Even worse, when accounts fall behind, this approach applies one-size-fits-all responses that let too many borrowers slip into default.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/01/20/how-ai-is-modernizing-the-collections-process/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/01/20/how-ai-is-modernizing-the-collections-process/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1b24deb13c5b56bae01eff%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/01/20/how-ai-is-modernizing-the-collections-process/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/01/20/how-ai-is-modernizing-the-collections-process/amp/",
+      "publishedDateTime": "2021-01-20T05:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-zim-cooperation-network-on-ai-based-agricultural-robotics-launched-artificial-intelligence-for-sustainable-agriculture.md",
+      "title": "ZIM cooperation network on AI-based agricultural robotics launched: Artificial intelligence for sustainable agriculture",
+      "excerpt": "Zentrum für Agrarlandschaftsforschung (ZALF) e.V. The recently approved ZIM cooperation network \"DeepFarmbots\" met virtually for its official kick-off on November 25. The central goal of the network is to develop and disseminate new agricultural robotics solutions for efficient and sustainable agriculture.",
+      "sourceUrl": null,
+      "webUrl": "https://idw-online.de/de/news761539",
+      "originalUrl": "https://idw-online.de/de/news761539",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://files.idw-online.de/corona_idw.png",
+          "width": 615,
+          "height": 284,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-20T05:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "idw",
+        "domain": "idw-online.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-microsoft-gm-cruise-partner-on-self-driving-cars.md",
+      "title": "Microsoft, GM, Cruise Partner on Self-Driving Cars",
+      "excerpt": "\"Microsoft provides services -- like a giant cloud computing offering -- that is used to develop these self-driving vehicles ... Google Cloud or Baidu in China. \"They need the cloud platforms ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.technewsworld.com/story/Microsoft-GM-Cruise-Partner-on-Self-Driving-Cars-86988.html",
+      "originalUrl": "https://www.technewsworld.com/story/Microsoft-GM-Cruise-Partner-on-Self-Driving-Cars-86988.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2021-cruise-msft-gm-1.jpg",
+          "width": 620,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-20T04:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNewsWorld",
+        "domain": "technewsworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-facebook-uses-ai-to-improve-photo-descriptions-for-the-visually-impaired.md",
+      "title": "Facebook uses AI to improve photo descriptions for the visually impaired",
+      "excerpt": "One of the most common types of content shared on Facebook, and other social media platforms are photographs. While most social media users can look at an image and see what it represents,",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/facebook-uses-ai-to-improve-photo-descriptions-for-the-visually-impaired-20655881/",
+      "originalUrl": "https://www.slashgear.com/facebook-uses-ai-to-improve-photo-descriptions-for-the-visually-impaired-20655881/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/01/ai-img-desc.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/facebook-uses-ai-to-improve-photo-descriptions-for-the-visually-impaired-20655881/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/facebook-uses-ai-to-improve-photo-descriptions-for-the-visually-impaired-20655881/amp/",
+      "publishedDateTime": "2021-01-20T04:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-heres-why-investors-should-pay-close-attention-to-artificial-intelligence.md",
+      "title": "Here's Why Investors Should Pay Close Attention to Artificial Intelligence",
+      "excerpt": "Artificial intelligence is ingrained into our lives. It’s influencing our shopping choices online, helping us book meetings, and even finding the best deals. The auto industry is using AI to create driverless cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/heres-why-investors-should-pay-close-attention-to-artificial-intelligence-2021-01-20-41974544",
+      "originalUrl": "https://www.marketwatch.com/press-release/heres-why-investors-should-pay-close-attention-to-artificial-intelligence-2021-01-20-41974544",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-20T04:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-beware-the-ai-death-spiral.md",
+      "title": "Beware The AI Death Spiral",
+      "excerpt": "Companies caught in the death spiral have an AI that’s very accurate, but that's also accurately wrong -- and downright dangerous -- for their business.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/20/beware-the-ai-death-spiral/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/20/beware-the-ai-death-spiral/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5f6cf8354f6bad0561dc14%2F0x0.jpg",
+          "width": 1200,
+          "height": 836,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/20/beware-the-ai-death-spiral/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/20/beware-the-ai-death-spiral/amp/",
+      "publishedDateTime": "2021-01-20T04:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-20-alphaics-raises-8-million-for-ai-at-the-edge-processors.md",
       "title": "AlphaICs raises $8 million for AI-at-the-edge processors",
       "excerpt": "AlphaICs has raised $8 million in funding for artificial intelligence processors for edge computing applications such as cars and wearables.",
@@ -102,50 +447,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-microsoft-gm-cruise-partner-on-self-driving-cars.md",
-      "title": "Microsoft, GM, Cruise Partner on Self-Driving Cars",
-      "excerpt": "A strategic partnership with Microsoft was announced Tuesday by General Motors and Cruise aimed at speeding up the commercialization of shared self-driving vehicles. In addition, Microsoft will be joining GM,",
-      "sourceUrl": null,
-      "webUrl": "https://www.technewsworld.com/story/86988.html",
-      "originalUrl": "https://www.technewsworld.com/story/86988.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2021-cruise-msft-gm-1.jpg",
-          "width": 620,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-20T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNewsWorld",
-        "domain": "technewsworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
       ]
     },
     {
@@ -775,50 +1076,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-20-dunnhumby-extends-machine-learning-automation-tool-built-on-microsoft-azure.md",
-      "title": "dunnhumby Extends Machine Learning Automation Tool Built on Microsoft Azure",
-      "excerpt": "Customer data science company dunnhumby is preparing to launch an Enterprise Edition of dunnhumby Model Lab, a machine learning automation tool for data scientists built on Microsoft Azure. As retailers and CPGs begin to reimagine their business operations,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-science-data-management-computing-and-information-technology-9b0e49504cdf4f22936c3414ca648f45",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-science-data-management-computing-and-information-technology-9b0e49504cdf4f22936c3414ca648f45",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-19T22:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2021-01-20-rsip-vision-announces-versatile-medical-image-segmentation-tool-delivering-efficient-anatomical-measurements-and-better-treatment-options.md",
       "title": "RSIP Vision Announces Versatile Medical Image Segmentation Tool, Delivering Efficient Anatomical Measurements and Better Treatment Options",
       "excerpt": "Jan 19, 2021-- RSIP Vision, a leading innovator in medical imaging through advanced AI and computer vision solutions, today announces a general purpose, AI-based segmentation and measurement tool for detecting objects of interest and their boundaries quickly and automatically,",
@@ -945,251 +1202,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-self-driving-startup-aurora-partners-with-heavy-truck-company-paccar.md",
-      "title": "Self-driving startup Aurora partners with heavy truck company Paccar",
-      "excerpt": "Aurora -- a company probably best known for buying up Uber's ill-fated self-driving vehicle division -- is hard at work trying to bring autonomy to the world of trucking. To facilitate this, Aurora announced its partnership with Paccar (maker of Peterbilt and Kenworth trucks) on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/self-driving-startup-aurora-partners-with-heavy-truck-company-paccar/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/self-driving-startup-aurora-partners-with-heavy-truck-company-paccar/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/ddCJEW3LnbLxA4_0Y_6-Y_5n3go=/2021/01/19/080d0a1e-4592-46cd-942b-9a64f4cea9e8/e2d68bdc-cd79-4fb2-a700-756261f55f32-blog-truck-freeway-1260x700.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/self-driving-startup-aurora-partners-with-heavy-truck-company-paccar/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-startup-aurora-partners-with-heavy-truck-company-paccar/",
-      "publishedDateTime": "2021-01-19T16:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-cruise-gm-partner-with-microsoft-to-ramp-up-self-driving-vehicles.md",
-      "title": "Cruise, GM partner with Microsoft to ramp up self-driving vehicles",
-      "excerpt": "Self-driving car maker Cruise and majority shareholder General Motors Co said on Tuesday they would partner with Microsoft Corp to accelerate the commercialization of driverless vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-gm-microsoft-autonomous-idUSKBN29O1MO",
-      "originalUrl": "https://www.reuters.com/article/us-gm-microsoft-autonomous-idUSKBN29O1MO",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548348568&r=LYNXMPEH0I0YQ&w=800",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-19T16:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-building-automating-managing-and-scaling-ml-workflows-using-amazon-sagemaker-pipelines.md",
-      "title": "Building, automating, managing, and scaling ML workflows using Amazon SageMaker Pipelines",
-      "excerpt": "We recently announced Amazon SageMaker Pipelines, the first purpose-built, easy-to-use continuous integration and continuous delivery (CI/CD) service for machine learning (ML). SageMaker Pipelines is a native workflow orchestration tool for building ML pipelines that take advantage of direct Amazon SageMaker",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-automating-managing-and-scaling-ml-workflows-using-amazon-sagemaker-pipelines/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/building-automating-managing-and-scaling-ml-workflows-using-amazon-sagemaker-pipelines/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/01/07/ML-1682-1.jpg",
-          "width": 800,
-          "height": 284,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-19T15:51:18-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-microsoft-teaming-with-gm-to-bring-driverless-cars-into-mainstream.md",
-      "title": "Microsoft Teaming With GM to Bring Driverless Cars Into ‘Mainstream’",
-      "excerpt": "Microsoft is throwing the dice and betting that General Motors’ driverless car and electric vehicles technology will soon be “mainstream.” In an announcement Tuesday, the software giant said it’s teaming up with GM and its self-driving car subsidiary Cruise to speed up the commercialization of autonomous cars,",
-      "sourceUrl": null,
-      "webUrl": "https://www.kabc.com/news/microsoft-teaming-with-gm-to-bring-driverless-cars-into-mainstream/",
-      "originalUrl": "https://www.kabc.com/news/microsoft-teaming-with-gm-to-bring-driverless-cars-into-mainstream/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.newsmax.com/Newsmax/files/d4/d482a16e-94a4-49ca-a7ed-6592d675f779.jpg",
-          "width": 600,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-19T13:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KABC",
-        "domain": "kabc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-twenty20-solutions-introduces-edge-ai-face-biometrics-and-object-recognition.md",
-      "title": "Twenty20 Solutions introduces edge AI face biometrics and object recognition",
-      "excerpt": "Twenty20 Solutions is now able to provide cutting-edge face biometrics and object recognition solutions powered by advanced machine learning methods.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202101/twenty20-solutions-introduces-edge-ai-face-biometrics-and-object-recognition",
-      "originalUrl": "https://www.biometricupdate.com/202101/twenty20-solutions-introduces-edge-ai-face-biometrics-and-object-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/08120232/future-of-AI-1024x576.jpeg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-19T13:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

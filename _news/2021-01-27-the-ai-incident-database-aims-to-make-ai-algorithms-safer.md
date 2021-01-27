@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Role AI Plays in Safeguarding Government Data"
-    excerpt: "Government agencies need to pivot to better filter and monitor incoming threats and data with velocity, efficiency and optimization."
-    publishedDateTime: 2021-01-25T18:11:00Z
-    webUrl: "https://www.nextgov.com/ideas/2021/01/role-ai-plays-safeguarding-government-data/171602/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 37
-    images:
-      - url: "https://cdn.nextgov.com/media/img/upload/2021/01/25/NGalert20210125/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Dubber Unified Call Recording and Voice AI now available on Salesforce AppExchange"
     excerpt: "Innovative solution enables Salesforce users to compliantly capture calls from mobile, Unified Communications and traditional phones and automagically present recordings, call data and AI-enriched insights in Salesforce Reduces sales administration and improves the quality of customer interactions via Dubber’s powerful AI analytics Proactively manage customer accounts with customised notifications capable of alerting stakeholders of the use of keywords and phrases MELBOURNE,"
     publishedDateTime: 2021-01-27T00:03:00Z

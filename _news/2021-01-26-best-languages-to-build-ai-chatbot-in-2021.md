@@ -72,6 +72,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Tealbook raises $14.4 million to aggregate procurement data with AI"
+    excerpt: "Tealbook, a startup developing a platform that extracts and aggregates procurement data from around the web, raised $14.4 million.Read MoreRead"
+    publishedDateTime: 2021-01-27T12:21:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/tealbook-raises-$14-4-million-to-aggregate-procurement-data-with-ai-9734520"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/tealbook-raises-$14-4-million-to-aggregate-procurement-data-with-ai-9734520"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tealbook-raises-$14-4-million-to-aggregate-procurement-data-with-ai-9734520"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
   - title: "Sales startup Insent.ai raises $2 million to expand its data strategy with automated chatbots – Jaweb"
     excerpt: "Insent.ai, which offers a business-to-business enterprise sales platform, has raised $2 million from Emergent Ventures in a seed-level funding round. Insent plans to use the funds to expand its data visibility and automated chatbot integrations."
     publishedDateTime: 2021-01-26T15:10:00Z

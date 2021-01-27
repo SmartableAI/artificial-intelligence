@@ -92,20 +92,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft Previews Azure IoT Edge for Linux on Windows"
-    excerpt: "Microsoft announced a preview of Azure IoT Edge for Linux on Windows, which lets organizations tap Linux virtual machine processes that also work with Windows- and Azure-based processes and services."
-    publishedDateTime: 2021-01-22T20:27:00Z
-    webUrl: "https://redmondmag.com/articles/2021/01/22/azure-iot-edge-for-linux-on-windows.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 54
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/BlueSquaresFloatingBig.jpg"
-        width: 1665
-        height: 1158
-        isCached: true
   - title: "Ooredoo provides managed services for Microsoft Azure"
     excerpt: "Ooredoo Qatar, a Microsoft Gold-certified partner, has signed a strategic partnership agreement with Wipro Limited, a leading global information technology, consulting, and business process services company"
     publishedDateTime: 2021-01-23T15:22:00Z
@@ -205,6 +191,6 @@ related:
       domain: plantservices.com
     quality: 17
 
-secured: "G0TfH5fGWCPY9jkW9chL9pRwNDaeEsoRaEKC7PW1kzxpQs1Q8/yvh0KFt6Yb3WW1Itvzf63FqSxaKeHaEQTmxXKuRK6Ze9D7RDy4zHwNv2I6LahtN936M3WJwtPszEoLSVoIAT7aFC3S18x6ECPHphOrJnr/uRSshF+rVwSlLuEtsDA8gFfBMDKsYtUeWslKV8WsdUdVBOV9CRFXXOp8jBwd633WCOypZEIMtC30FJZMQb5C16GVpIBTAeJWx4YB/e8oatyuxm27DDrEpv0CjJCRFOKoMMoazDKUIND93P+VBSCJzflHJRjbPrv58ORrU3cTLDAFyn3cq6p8gY41JUfIlF+e5S92g6YWjTRdYbs=;1CLooXoSGs7i+iZWMdMGpg=="
+secured: "U9Oo6bY4+M6teeWbprZV7iiqzT93Mm+aGIII4ITIBnNXkG/jC1bjMakSAMpCwqA2BI7G1vs9arSIRka26CzL7i+2clFkKr4OW6rjj0Zi98jPCFoEnuHgRdGJbMYjJZkFL74650NYEsjXqoEP9Djundux1ikhmBgpNBC7ajzXfoZmezc9NVXePZd2psz6NRrKjBsgEvcqCf4e4b7s97qIzYc42ugAVcuSJ554eDQqcN5eEr1/CaVkTcAYXDkSuZBGZtk9mgRnkgiqyo/BFmV2DQ90htCrxBJUMUIsQ68mJURLHS+SBNZl+VuTR1AOGp9a/rIc0ecLhz/VFKCJr0O85SHg1bmW4GARtSqU0E2Hht4rSwDswp8d2nFZlRCcLC6eezCx8sHZy/5kJE8D6RtiDix7sGp6ELTuykqj4W/Soqq3Nip/P+8zOSPJVsQmNaabM5u6yUIf/24CExVLnm8GdV/y9v7LT73wvLj90tzU59/f90di6+vTO3UBOoJV/ii1DBVq6Zp/IcJcVLyR9CmFGQ==;tVx18Q5NdVCOFG6clVGTzg=="
 ---
 

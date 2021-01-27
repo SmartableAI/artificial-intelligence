@@ -2,6 +2,60 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-16-artificial-intelligence-ai-in-marketing-market-research-growth-opportunities-analysis-and-forecasts-report-2020-2023.md",
+      "title": "Artificial Intelligence (AI) in Marketing Market Research, Growth Opportunities, Analysis and Forecasts Report 2020-2023",
+      "excerpt": "Market Synopsis The GLOBAL Artificial Intelligence (AI) in Marketing Market is estimated to record a significant",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-marketing-market-research-growth-opportunities-analysis-and-forecasts-report-2020-2023-2020-12-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-marketing-market-research-growth-opportunities-analysis-and-forecasts-report-2020-2023-2020-12-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 216,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-16T05:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Marketing",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-khosla-backed-health-ai-startup-raises-275-million-to-supercharge-primary-care.md",
       "title": "Khosla-Backed Health AI Startup Raises $27.5 Million To Supercharge Primary Care",
       "excerpt": "“We think that AI can be a superpower, where we can make the cost of care lower,” says Khosla, cofounder of San Francisco-based Curai, which announced a $27.5 million Series B financing round on Wednesday. The company has built a chat-based platform ...",
@@ -1326,40 +1380,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-bayer-and-blackford-analysis-announce-ai-platform-agreement-in-radiology.md",
-      "title": "Bayer and Blackford Analysis Announce AI Platform Agreement in Radiology",
-      "excerpt": "About artificial intelligence at Bayer Pharmaceuticals Artificial intelligence provides significant opportunities for Bayer’s Pharmaceuticals business. Bayer is committed to realizing the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201201005835/en/Bayer-and-Blackford-Analysis-Announce-AI-Platform-Agreement-in-Radiology",
-      "originalUrl": "https://www.businesswire.com/news/home/20201201005835/en/Bayer-and-Blackford-Analysis-Announce-AI-Platform-Agreement-in-Radiology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-02T05:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

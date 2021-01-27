@@ -32,8 +32,8 @@ images:
 related:
   - title: "U.S. commission cites 'moral imperative' to explore AI weapons"
     excerpt: "The United States should not agree to ban the use or development of autonomous weapons powered by artificial intelligence (AI) software, a government-appointed panel said in a draft report for Congress."
-    publishedDateTime: 2021-01-27T03:24:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-military-ai-idUSKBN29V2M0"
+    publishedDateTime: 2021-01-27T03:03:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-military-ai/u-s-commission-cites-moral-imperative-to-explore-ai-weapons-idUSKBN29V2M0?edition-redirect=ca"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29V2M0"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29V2M0"
     type: article
@@ -47,6 +47,6 @@ related:
         height: 545
         isCached: true
 
-secured: "4qNFh2+2n4IB9cFlE8DGxWd/U4k8vw5bEzlS3V8lBHLNXPB+rf0neWX+OaJZX92eKfArsGGejJBGrWYiaaYiubF62T3Vs/oB/gYDiTo8BzW9AVPplQ/ehgP5AGWwA9mFHZFPXIt2CqNMCWwJOOT0w8MXNptqtM/6pllXj9s8O9a2jSLWoo+04nkdiSf9T9pE4wzwSZHNhSUoXSkwhwTxYtCeTvlmOoNf/kVwBZI3QcyY+MsLLkLRiXwf2LMUJ9A34pr1a5sG333j1lOBZF8PQt5gNP1HmXBmWUwnxgwYdBANisfT+xeP0Q8kzyH8Re/c0PG6PUBbpo8Ko491hHecKT22+6C33tDw5hUH43xRORY=;XGZHBYl0DHRQAN7OHKKBjg=="
+secured: "12+9+gcjV74WsDOcqmbuf8gx7BWbOKccrqj5pVpI3+5I89nZPiCwcdltk/6zJWIMVsXyoZ8iHdMfi9oZolv0yD6V+3o2iAfbL3InpgEK5qLrRd4ClKJHEmTU7MBHiQdMUBX2RxSwEBeGaOXSYU4m0bfbIomSZaB3xtdZziBXlMGQx7hvTECsOM2D9uZvbQt3ktHUznZ+jhcInW4qmTrggRuWCEHvthp/aLeqTWAtYJWbbQNPy+0+4BATVHX17ZfrshX+eVEBOtm2RRPd7tAX2iLGp+OcL67fdmNjKxQeyms1FacRzNEqigZiJNkSnNuruOpzKdE6DXHRokKswBwURztla0FcB0oBZligUgOwGiyN8/V+DFv7hLQB4vft0x3tSN7vqi8yaNRdysU+ecjdX+3/mQcNdOFMtHc7ZK5cAspV08F1CrLv3AG3mUqBAuabvHCk6ogNzF3SIXYwO+XFPg+d0PlrFoe/lwQWN5sEd5IBAugxFyC/AXwu7tRZQKD0TyTzCfQPBk/btsCbHjZrfQ==;MtGiBg41k13BSDNAHxaCrg=="
 ---
 

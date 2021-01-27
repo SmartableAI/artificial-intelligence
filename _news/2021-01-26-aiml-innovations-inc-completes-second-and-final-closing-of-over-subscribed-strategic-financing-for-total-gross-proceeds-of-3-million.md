@@ -20,6 +20,22 @@ topics:
   - AI
   - Machine Learning
 
+related:
+  - title: "Jump Start 2021: Fintech Innovation Accelerates Digital Strategies in Financial Institutions"
+    excerpt: "For financial institutions, the year 2020 accelerated the already intense focus on digital. A recent report from Deloitte notes that the pandemic has turbo-charged digitization for the banking industry,"
+    publishedDateTime: 2021-01-27T11:21:00Z
+    webUrl: "https://www.finextra.com/the-long-read/103/jump-start-2021-fintech-innovation-accelerates-digital-strategies-in-financial-institutions"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 13
+    images:
+      - url: "https://www.finextra.com/finextra-images/oped/103.jpg"
+        width: 800
+        height: 449
+        isCached: true
+
 secured: "U28oltyYXe7fXkMynCnxBlZeyXTu3HPvZTzQZIolY5rIQxEbqOdyR/fWYTpLd0xVl9H46U4n4Pyg7cBpiDbibhTdieIj5KweUpuarryJjcoOtf7/KDSJpgrOws6NGJls51+1OYdQriGk/ItklSX2Ssns4Z4HKFPykIp+tSjq/gI9B3QZjywA8/PLRszV1D3fMd1G8IqbFd55Jv81O8LeUBeCfWOKlIqCGJfcjzX4vgyy8WSmjs8aUKrT9eTadVoifs3J0Sde/4YmSJpn5qOBVJfR5IGNaYa4101K7MJj7LzqXrY7j362KU8PgUVn3S+zKRZKq3Qz+3W4KBuxWpTrwSYkwq4mc2avZq8tE/Try9k=;i4/KDgVkZsF7ratFveeRYg=="
 ---
 

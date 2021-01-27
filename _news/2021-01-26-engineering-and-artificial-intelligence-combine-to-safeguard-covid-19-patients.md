@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Study provides first real-world evidence of COVID-19 contact tracing app effectiveness"
-    excerpt: "An international research collaboration, involving scientists from the UK, US and Spain, has shed new light on the usefulness of digital contact tracing (DCT) to control the spread of COVID-19."
-    publishedDateTime: 2021-01-26T17:41:00Z
-    webUrl: "https://medicalxpress.com/news/2021-01-real-world-evidence-covid-contact-app.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-01-real-world-evidence-covid-contact-app.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-01-real-world-evidence-covid-contact-app.amp"
+  - title: "Engineering and artificial intelligence combine to safeguard patients' lives"
+    excerpt: "Spurred by the demands of the COVID-19 pandemic, researchers at Princeton and Google are applying mechanical engineering and artificial intelligence in an effort to increase the availability and effectiveness of ventilation treatments worldwide."
+    publishedDateTime: 2021-01-27T12:54:00Z
+    webUrl: "https://medicalxpress.com/news/2021-01-artificial-intelligence-combine-safeguard-patients.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-01-artificial-intelligence-combine-safeguard-patients.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-01-artificial-intelligence-combine-safeguard-patients.amp"
     type: article
     provider:
       name: Medical Xpress
       domain: medicalxpress.com
-    quality: 36
+    quality: 54
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/2-app.jpg"
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/engineeringa.jpg"
         width: 2880
-        height: 1920
+        height: 1620
         isCached: true
 
 secured: "cpBQdx6wg3pda+ZypaejAWzbFb3a5qjQrnryGRLOO5vF5LNSafSfRIxQQw3svj6UQAJZLbV249pllWXZDPSWos2GYKhAisV8WPWPwuiHfl4bcvVd5D7zr9KrX9XHicz94fFxCaCaIA2Rv3fwga/sC+ZeNmXYHcM/C2TvbwHOdKFlBXAO/hir/WUEdPNm7YaINLkZilECmbC+bk8K4e/vU1Q5dJlAUtWJWTlZgYFFiLyMF0Gh9cCovAeOwMLyOTuLamCRt1SkOXLpA7sIhkA+F3M5+iclWsdtijC+M/cadtWuze8Hh69DRlVQt9L53pi2OZPB1MmGS8TWrFs29x4IIiknYmOZQ3rnti4t1KISKPM=;iMH64bxBqprTZC7+oOHpYQ=="

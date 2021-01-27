@@ -9,8 +9,8 @@ ampWebUrl: "https://www.telegraph.co.uk/technology/2021/01/24/amazon-plans-overh
 cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2021/01/24/amazon-plans-overhaul-film-age-classification-new-ai-system/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Daily Telegraph
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "How AI vision systems can succeed with human input"
+    excerpt: "A recent survey by Landing AI and the Association of Advancing Manufacturing (A3) shows that 26% of manufacturing businesses currently use AI for visual inspection—a number that should grow in the near future."
+    publishedDateTime: 2021-01-27T11:32:00Z
+    webUrl: "https://www.vision-systems.com/boards-software/article/14189750/how-ai-vision-systems-can-succeed-with-human-input"
+    type: article
+    provider:
+      name: Vision Systems Design
+      domain: vision-systems.com
+    quality: 37
+    images:
+      - url: "https://img.vision-systems.com/files/base/ebm/vsd/image/2021/01/machine_vision_model_deployed_by_ai.5ff377281d8f2.png?auto=format&fit=max&w=1200"
+        width: 720
+        height: 405
+        isCached: true
   - title: "New artificial intelligence tool to better assist U of T students with course selection"
     excerpt: "The Centre for Analytics and Artificial Intelligence Engineering (CARTE) has created an in-development artificial intelligence (AI) tool named Education Pathways to help U of T students with course selection."
     publishedDateTime: 2021-01-25T02:40:00Z

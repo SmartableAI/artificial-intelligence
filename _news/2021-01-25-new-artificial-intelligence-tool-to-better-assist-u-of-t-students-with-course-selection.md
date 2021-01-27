@@ -40,6 +40,20 @@ related:
         width: 2501
         height: 1563
         isCached: true
+  - title: "How AI vision systems can succeed with human input"
+    excerpt: "A recent survey by Landing AI and the Association of Advancing Manufacturing (A3) shows that 26% of manufacturing businesses currently use AI for visual inspection—a number that should grow in the near future."
+    publishedDateTime: 2021-01-27T11:32:00Z
+    webUrl: "https://www.vision-systems.com/boards-software/article/14189750/how-ai-vision-systems-can-succeed-with-human-input"
+    type: article
+    provider:
+      name: Vision Systems Design
+      domain: vision-systems.com
+    quality: 37
+    images:
+      - url: "https://img.vision-systems.com/files/base/ebm/vsd/image/2021/01/machine_vision_model_deployed_by_ai.5ff377281d8f2.png?auto=format&fit=max&w=1200"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "0STrcfcw33o2wPnIEUMN+JZMikvvtNSRkQSvvLNStLSiMRmbmOtDd7DSjWhk9T68e8/TqK1PLU3c6Oi49KBvAEn5wkNneQbCBHODAxILafUVomnEIendq7wE4U5dRUswlG1HL3lzGR88IkiNjpVAR9cfocmxUQM0uXGjd/KycY6Wp/ZjgY1hEjUSjgvx0A/SmSq1WSmiwfLRsxqlURg6oo+PDkgRdanJqCF5+HqOaJeO2hZO7zovGRnTComXU1aIXsFVt7jBy0cGU799syyC+HiQEJQqd1Er8myCRbU0Od7/+ChPcHjDH10/G9BA/POi3Ir+S5jHHB26qTlzyWJTKc+0RsM6fjMjAbNfKCkNbZc=;kp+6C3pasmdLA+Qa0LOEnQ=="
 ---

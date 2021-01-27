@@ -26,22 +26,6 @@ images:
     height: 1920
     isCached: true
 
-related:
-  - title: "Engineering and artificial intelligence combine to safeguard COVID-19 patients"
-    excerpt: "Princeton engineers applied artificial intelligence to the task of monitoring and adjusting ventilators for COVID-19 patients, with the goal of easing the burden on medical workers and allowing ventilators to be deployed in areas with staffing shortages."
-    publishedDateTime: 2021-01-26T15:31:00Z
-    webUrl: "https://www.princeton.edu/news/2021/01/26/engineering-and-artificial-intelligence-combine-safeguard-covid-19-patients"
-    type: article
-    provider:
-      name: Princeton University
-      domain: princeton.edu
-    quality: 33
-    images:
-      - url: "https://www.princeton.edu/sites/default/files/styles/scale_1440/public/images/2021/01/TomZajdel090820_0017-ventilator-16X9-for-web.jpg?itok=zUiFQePT"
-        width: 1440
-        height: 810
-        isCached: true
-
 secured: "XwQFq35VBC8VenCM0UsmcPVZshTvyte84qWsRNzUmgyFXLHdeElltRwKBGax+OFqP6j6LMUQGCif1WcViWfaLL2bvKv7OVIjrNsIjju0sSGwjp7GEF4rU6I8JbSr3oALYKXx20sTcXWQzyQ0pBzMqux8uODBK+w4cYuP3ZYxERtw+hom+0GKYduM7hnUDemezMELk+6ODWz4b87WBE7OnbRLnKIi5H9NcxI4U0J9UV7UMYnThgKtnkXaoz+a4mOgtGLjWH9gu1O5GZUc4LmD68klmY5f2Hd6aMPCE+BSdzUrzxk7rLo5XAZOB/Sdzcz1HkhcgpiwfpUXvZUVwDrH9/eqBw/oriCpFbbULQkORd4=;kMbx1jNcUhA3cNVm3Wv8VA=="
 ---
 

@@ -75,6 +75,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Tealbook raises $14.4 million to aggregate procurement data with AI"
+    excerpt: "Tealbook, a startup developing a platform that extracts and aggregates procurement data from around the web, raised $14.4 million.Read MoreRead"
+    publishedDateTime: 2021-01-27T12:21:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/tealbook-raises-$14-4-million-to-aggregate-procurement-data-with-ai-9734520"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/tealbook-raises-$14-4-million-to-aggregate-procurement-data-with-ai-9734520"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tealbook-raises-$14-4-million-to-aggregate-procurement-data-with-ai-9734520"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
   - title: "Best Languages To Build AI Chatbot In 2021"
     excerpt: "Here In this blog we provide the list of most popular languages to build AI Chatbot in 2021. Before ,General Information"
     publishedDateTime: 2021-01-26T11:12:00Z

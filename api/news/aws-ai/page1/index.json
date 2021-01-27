@@ -257,6 +257,49 @@
       ]
     },
     {
+      "path": "_news/2021-01-24-amazon-plans-to-overhaul-film-age-classification-with-new-ai-system.md",
+      "title": "Amazon plans to overhaul film age classification with new AI system",
+      "excerpt": "Amazon is exploring developing an artificial intelligence (AI) system that automatically assigns age ratings to films and television shows, eliminating the need for human checks. A patent application filed by the US e-commerce business this month shows that Amazon has invented a way to scan films using a form of AI that could explain to people about to stream a film how much sexual content,",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraph.co.uk/technology/2021/01/24/amazon-plans-overhaul-film-age-classification-new-ai-system/",
+      "originalUrl": "https://www.telegraph.co.uk/technology/2021/01/24/amazon-plans-overhaul-film-age-classification-new-ai-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.telegraph.co.uk/content/dam/technology/2020/10/09/TELEMMGLPICT000195076254_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg",
+          "width": 2501,
+          "height": 1563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telegraph.co.uk/technology/2021/01/24/amazon-plans-overhaul-film-age-classification-new-ai-system/amp/",
+      "cdnAmpWebUrl": "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2021/01/24/amazon-plans-overhaul-film-age-classification-new-ai-system/amp/",
+      "publishedDateTime": "2021-01-23T22:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Telegraph",
+        "domain": "telegraph.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-22-multi-account-model-deployment-with-amazon-sagemaker-pipelines.md",
       "title": "Multi-account model deployment with Amazon SageMaker Pipelines",
       "excerpt": "Amazon SageMaker Pipelines is the first purpose-built CI/CD service for machine learning (ML). It helps you build, automate, manage, and scale end-to-end ML workflows and apply DevOps best practices of CI/CD to ML (also known as MLOps). Creating multiple accounts to organize all the resources of your",
@@ -1380,58 +1423,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-accelerating-mlops-at-bayer-crop-science-with-kubeflow-pipelines-and-amazon-sagemaker.md",
-      "title": "Accelerating MLOps at Bayer Crop Science with Kubeflow Pipelines and Amazon SageMaker",
-      "excerpt": "This is a guest post by the data science team at Bayer Crop Science.&nbsp; Farmers have always collected and evaluated a large amount of data with each growing season: seeds planted, crop protection inputs applied, crops harvested, and much more. The rise of data science and digital technologies provides",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/accelerating-mlops-at-bayer-crop-science-with-open-source-workflow-managers-and-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/accelerating-mlops-at-bayer-crop-science-with-open-source-workflow-managers-and-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/02/ML-1668-2-666x630.jpg",
-          "width": 666,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-05T11:35:44-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],
