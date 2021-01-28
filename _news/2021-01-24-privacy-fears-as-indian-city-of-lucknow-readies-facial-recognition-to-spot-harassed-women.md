@@ -7,7 +7,7 @@ originalUrl: "https://www.gulftoday.ae/lifestyle/2021/01/23/privacy-fears-as-ind
 webUrl: "https://www.gulftoday.ae/lifestyle/2021/01/23/privacy-fears-as-indian-city-of-lucknow-readies-facial-recognition-to-spot-harassed-women"
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 750
     height: 450
     isCached: true
-
-related:
-  - title: "A scary proposal to use facial recognition and AI by an Indian state has experts fuming"
-    excerpt: "The Lucknow police are installing cameras with facial recognition technology, powered by artificial intelligence (AI), in prominent harassment hotspots. The cameras will gauge whether a woman is in distress based on her facial expression and send an alert to the police."
-    publishedDateTime: 2021-01-23T11:25:00Z
-    webUrl: "https://www.businessinsider.in/news/a-scary-proposal-to-use-facial-recognition-and-ai-by-an-indian-state-has-experts-fuming/articleshow/80421935.cms"
-    ampWebUrl: "https://www.businessinsider.in/news/a-scary-proposal-to-use-facial-recognition-and-ai-by-an-indian-state-has-experts-fuming/amp_articleshow/80421935.cms"
-    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/news/a-scary-proposal-to-use-facial-recognition-and-ai-by-an-indian-state-has-experts-fuming/amp_articleshow/80421935.cms"
-    type: article
-    provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 66
-    images:
-      - url: "https://www.businessinsider.in/photo/80422279/Master.jpg"
-        width: 500
-        height: 339
-        isCached: true
 
 secured: "D7LNRmZEQ9Yle1ZDMo2/oi0j/n2aMGxcScpP+FZdAmurClOD+6i8gvUD4IryWiO2jsT0oGwlUiC9jEN5CFq0Uf86D7qjWi8YN5lmjimWJ60VK1/SwFl3iiLrrQeQQ02D5mHtlzU91D1+i7dDFW+Y7xuF7TyA4O1rc3XfJwLOgbkFL0vZSpv3GG7WJVjB85/IRgphdT9atpVkzebgM28oInIORDbwClF67OtXOvVeDlBi+ZsS1KPLsDn/PXK6Imf0i1sWe2k4z11HTSPVNHQjMnv7zp4GLH5VmmVA9YIltg6kXPWYRNlZ9IMHXf1/wCnZFPd/3+4k7p0dLN/8O5XUeWoi/NNklmeKIvKJJf4lMIo=;RSH27PD8LHZ9Otn0wssuTA=="
 ---

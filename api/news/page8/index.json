@@ -2,6 +2,100 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-01-21-4paradigm-defends-its-championship-in-chinas-machine-learning-platform-market-in-the-1st-half-of-2020-according-to-idc.md",
+      "title": "4Paradigm Defends its Championship in China's Machine Learning Platform Market in the 1st Half of 2020, According to IDC",
+      "excerpt": "The IDC report recognizes the advantages of 4Paradigm machine learning platform and AutoML products in technological accumulation, enterprise-level product layout, commercial implementation ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/4paradigm-defends-its-championship-in-china-s-machine-learning-platform-market-in-the-1st-half-of-2020-according-to-idc-1029988328",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/4paradigm-defends-its-championship-in-china-s-machine-learning-platform-market-in-the-1st-half-of-2020-according-to-idc-1029988328",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/4paradigm-defends-its-championship-in-china-s-machine-learning-platform-market-in-the-1st-half-of-2020-according-to-idc-1029988328",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/4paradigm-defends-its-championship-in-china-s-machine-learning-platform-market-in-the-1st-half-of-2020-according-to-idc-1029988328",
+      "publishedDateTime": "2021-01-20T20:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-swapp-raises-7-million-to-automate-construction-planning-with-ai.md",
+      "title": "Swapp raises $7 million to automate construction planning with AI",
+      "excerpt": "Swapp, a company that leverages AI for construction planning, today announced that it raised $7 million in venture capital. The company plans to put the funds toward “continued market expansion” and growing its platform’s AI capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/20/swapp-raises-7-million-to-automate-construction-planning-with-ai/",
+      "originalUrl": "https://venturebeat.com/2021/01/20/swapp-raises-7-million-to-automate-construction-planning-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/04/GettyImages-552721783.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/20/swapp-raises-7-million-to-automate-construction-planning-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/20/swapp-raises-7-million-to-automate-construction-planning-with-ai/amp/",
+      "publishedDateTime": "2021-01-20T20:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-synaptics-unsheathes-new-katana-low-power-edge-ai-platform.md",
       "title": "Synaptics Unsheathes New Katana Low Power Edge AI Platform",
       "excerpt": "Ranked Industry Analyst Patrick Moorhead attended CES this week, today, he wanted to talk about a tech announcement that may have flown under the radar. Today, Patrick Moorhead dives deeper into the introduction of a new offering,",
@@ -1121,102 +1215,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-ai-startup-alphaics-raises-8-million-in-series-b-funding.md",
-      "title": "AI-startup AlphaICs raises $8 million in Series B funding",
-      "excerpt": "The funding was led by Endiya Partners and Emerald Technology Ventures.The startup will use the funds to develop the software stack and to build system solutions for its target markets",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/companies/start-ups/aistartup-alphaics-raises-8-million-in-series-b-funding-11611150898952.html",
-      "originalUrl": "https://www.livemint.com/companies/start-ups/aistartup-alphaics-raises-8-million-in-series-b-funding-11611150898952.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/01/20/600x338/dollar6-kPTE--621x414@LiveMint_1611151313091.JPG",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/companies/start-ups/aistartup-alphaics-raises-8-million-in-series-b-funding/amp-11611150898952.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/aistartup-alphaics-raises-8-million-in-series-b-funding/amp-11611150898952.html",
-      "publishedDateTime": "2021-01-20T06:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-healthcare-artificial-intelligence-ai-market-worth-513-billion-by-2027-at-a-cagr-of-414.md",
-      "title": "Healthcare Artificial Intelligence (AI) Market Worth $51.3 Billion by 2027 at a CAGR of 41.4%",
-      "excerpt": "According to this latest publication from Meticulous Research(R), the healthcare artificial intelligence market is",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-worth-513-billion-by-2027-at-a-cagr-of-414-2021-01-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-worth-513-billion-by-2027-at-a-cagr-of-414-2021-01-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-20T06:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

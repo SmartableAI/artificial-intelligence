@@ -2,6 +2,109 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-01-22-self-driving-cars-being-blocked-by-human-drivers-using-road-bouldering-tactics.md",
+      "title": "Self-Driving Cars Being Blocked By Human Drivers Using Road Bouldering Tactics",
+      "excerpt": "Human drivers use road bouldering to block other cars, and the question arises as to how self-driving cars will handle such machinations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/01/21/self-driving-cars-being-blocked-by-human-drivers-using-road-bouldering-tactics/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/01/21/self-driving-cars-being-blocked-by-human-drivers-using-road-bouldering-tactics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6008b4ae194950933a679a95%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5200%26cropY1%3D264%26cropY2%3D3189",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/01/21/self-driving-cars-being-blocked-by-human-drivers-using-road-bouldering-tactics/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/01/21/self-driving-cars-being-blocked-by-human-drivers-using-road-bouldering-tactics/amp/",
+      "publishedDateTime": "2021-01-21T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-ai-spacefarers-and-cosmic-testbeds-robust-robotic-systems-forge-path-for-human-space-exploration.md",
+      "title": "AI spacefarers and cosmic testbeds: Robust robotic systems forge path for human space exploration",
+      "excerpt": "With global dust storms, extreme temperature fluctuations, and cosmic radiation, life beyond the Earth's comparatively cozy confines is no picnic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ai-spacefarers-and-cosmic-testbeds-robust-robotic-systems-forge-path-for-human-space-exploration/",
+      "originalUrl": "https://www.techrepublic.com/article/ai-spacefarers-and-cosmic-testbeds-robust-robotic-systems-forge-path-for-human-space-exploration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/07/16/c951a0d1-cc8b-46da-988f-c58fe571e60b/resize/1200x/c86c0af5787ca81d7c75643556e811bc/mars-2020.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-spacefarers-and-cosmic-testbeds-robust-robotic-systems-forge-path-for-human-space-exploration/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-spacefarers-and-cosmic-testbeds-robust-robotic-systems-forge-path-for-human-space-exploration/",
+      "publishedDateTime": "2021-01-21T07:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-artificial-intelligence-researchers-rank-the-top-ai-labs-worldwide.md",
       "title": "Artificial intelligence researchers rank the top A.I. labs worldwide",
       "excerpt": "Artificial intelligence researchers don’t like it when you ask them to name the top AI labs in the world, possibly because it’s so hard to answer. There are some obvious contenders. U.S. Big Tech — Google,",
@@ -1039,49 +1142,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-21-4paradigm-defends-its-championship-in-chinas-machine-learning-platform-market-in-the-1st-half-of-2020-according-to-idc.md",
-      "title": "4Paradigm Defends its Championship in China’s Machine Learning Platform Market in the 1st Half of 2020, According to IDC",
-      "excerpt": "Paradigm stays on a leadership position from 2018 to the first half of 2020. IDC, a premier global provider of market intelligence, has recently published China AI Software and A",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/marketersmedia/technology-science-greater-china-asia-china-b0d5c9646db4eb2b19f4cccf4ea99abc",
-      "originalUrl": "https://apnews.com/press-release/marketersmedia/technology-science-greater-china-asia-china-b0d5c9646db4eb2b19f4cccf4ea99abc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-20T21:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-21-designing-customized-brains-for-robots.md",
       "title": "Designing customized “brains” for robots",
       "excerpt": "MIT researchers have developed an automated way to design customized hardware that speeds up a robot’s operation. The system, called robomorphic computing, accounts for the robot’s physical layout in suggesting an optimized hardware architecture.",
@@ -1182,57 +1242,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-swapp-raises-7-million-to-automate-construction-planning-with-ai.md",
-      "title": "Swapp raises $7 million to automate construction planning with AI",
-      "excerpt": "Swapp, a company that leverages AI for construction planning, today announced that it raised $7 million in venture capital. The company plans to put the funds toward “continued market expansion” and growing its platform’s AI capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/20/swapp-raises-7-million-to-automate-construction-planning-with-ai/",
-      "originalUrl": "https://venturebeat.com/2021/01/20/swapp-raises-7-million-to-automate-construction-planning-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/04/GettyImages-552721783.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/20/swapp-raises-7-million-to-automate-construction-planning-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/20/swapp-raises-7-million-to-automate-construction-planning-with-ai/amp/",
-      "publishedDateTime": "2021-01-20T20:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

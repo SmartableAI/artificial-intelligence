@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-01-27/artificial-inte
 webUrl: "https://www.bloomberg.com/news/articles/2021-01-27/artificial-intelligence-is-india-s-solution-to-fix-data-gaps"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -51,20 +51,6 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 34
-  - title: "Google vs Australia, Rockets On Oil Rigs, India’s Quantum Labs And More In This Week’s Top News"
-    excerpt: "Developing radical new technology is inherently risky, but that doesn’t make breaking this news any easier. Today, I’m sad to share that Loon will be winding down,” wrote Alastair Westgarth, CEO, Loon."
-    publishedDateTime: 2021-01-23T12:31:00Z
-    webUrl: "https://analyticsindiamag.com/google-australia-india-aws-quantum-top-news/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 12
-    images:
-      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2021/01/jan-23-tech-news.jpg"
-        width: 1601
-        height: 901
-        isCached: true
 
 secured: "wuGyHXVYHbazjyfFhuexCu1Q58GBnM1lW5NudNtbhO3L/lf+ZQTObXVeUG/DYH0SiVSYLTcoPyH0x7lvQLJAfimaZ6jWicHzeVyAk9Eq+NNo8c3cUM3Sl4jXWgO64YVHuZHJ2LKTLpOIVo7G+nRucBaW7LdURGl+2FOdHsfuhe03CpB73Bb7y1yXsouREbhJwY1GBvvFAn4X+eVYHJwOqpKjbtfNsFXT7ZZbROz51qyJv5g78TBXCobSTMX0l/8HplJD5FWLLOt1N8ws8jAdFtGjs5YQV0t5UY9sg2zuxp8nM1axEzV+nr1Tx+B3BMScovJKg16bhQnYhLE9NIjP1uV2xtgEhC06kolh4uXMLld22YJvXTS70NfSsgU9cnnncO/rR4MBYxf/Q+Kt1QiC3pRlcaWDm9gm0gpTvdtK4+0vTUJM6cZjH1ngfec8LYdHD6kLO51wtESSndz8wj8+31rqNpRnOEVt1mS6Mr+O7n2gc6FkDpnVSTL1CgLJhxb0y4/79IjUoWGh/pYX1jk4Jg==;XGPns4/i6Dsn7KUHBNZYlA=="
 ---

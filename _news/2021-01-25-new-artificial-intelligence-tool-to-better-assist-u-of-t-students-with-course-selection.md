@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 819
         isCached: true
+  - title: "AI comes of age; consumers prefer to talk to machines than humans: Pega survey"
+    excerpt: "Customers in the country seem to prefer to get responses from a machine than interacting with humans. The reason, according to a survey, answers given by an AI-system is backed with voluminous data that it crunches to deliver right responses."
+    publishedDateTime: 2021-01-28T04:19:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/ai-comes-of-age-consumers-prefer-to-talk-to-machines-than-humans-pega-survey/article33681281.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/ai-comes-of-age-consumers-prefer-to-talk-to-machines-than-humans-pega-survey/article33681281.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/ai-comes-of-age-consumers-prefer-to-talk-to-machines-than-humans-pega-survey/article33681281.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 55
+    images:
+      - url: "https://www.thehindubusinessline.com/info-tech/agcd06/article33681280.ece/ALTERNATES/LANDSCAPE_615/IMGTHJC-AI314B8609P5jpg"
+        width: 615
+        height: 384
+        isCached: true
 
 secured: "0STrcfcw33o2wPnIEUMN+JZMikvvtNSRkQSvvLNStLSiMRmbmOtDd7DSjWhk9T68e8/TqK1PLU3c6Oi49KBvAEn5wkNneQbCBHODAxILafUVomnEIendq7wE4U5dRUswlG1HL3lzGR88IkiNjpVAR9cfocmxUQM0uXGjd/KycY6Wp/ZjgY1hEjUSjgvx0A/SmSq1WSmiwfLRsxqlURg6oo+PDkgRdanJqCF5+HqOaJeO2hZO7zovGRnTComXU1aIXsFVt7jBy0cGU799syyC+HiQEJQqd1Er8myCRbU0Od7/+ChPcHjDH10/G9BA/POi3Ir+S5jHHB26qTlzyWJTKc+0RsM6fjMjAbNfKCkNbZc=;kp+6C3pasmdLA+Qa0LOEnQ=="
 ---

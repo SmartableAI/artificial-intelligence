@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-27-tivo-takes-personalization-to-the-next-level-with-voice-id.md",
+      "title": "TiVo takes personalization to the next level with voice ID",
+      "excerpt": "TiVo and voice authentication company, Pindrop, have joined forces to let TiVo users get personalized content recommendations using just their voices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/home-theater/pindrop-voice-recognition-biometric-id-user-profiles-tivo/",
+      "originalUrl": "https://www.digitaltrends.com/home-theater/pindrop-voice-recognition-biometric-id-user-profiles-tivo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn3.digitaltrends.com/image/digitaltrends/tivo-stream-4k-00013-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/home-theater/pindrop-voice-recognition-biometric-id-user-profiles-tivo/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home-theater/pindrop-voice-recognition-biometric-id-user-profiles-tivo/?amp",
+      "publishedDateTime": "2021-01-26T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-ex-uber-team-raises-6m-seed-for-geospatial-analytics-platform-unfoldedai.md",
       "title": "Ex-Uber team raises $6M seed for geospatial analytics platform Unfolded.ai",
       "excerpt": "Years ago, Uber had a problem. With millions of users and tens of thousands of drivers scattered across a widening expanse of the globe, the fast-growing mobility startup wanted to display more accurate maps to users about where their ride was coming from and where it was intending to go to reach",
@@ -113,7 +165,7 @@
       "originalUrl": "https://www.wsj.com/articles/artificial-intelligence-will-define-googles-future-for-now-its-a-management-challenge-11611676945",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -970,6 +1022,49 @@
       ]
     },
     {
+      "path": "_news/2021-01-26-artificial-intelligence-ai-delivers-for-cloudcommerce.md",
+      "title": "Artificial Intelligence (AI) Delivers for CloudCommerce",
+      "excerpt": "Our clients are reaping the benefit of our real-world application of artificial intelligence. Our goal is to continue to work toward potentially reducing the costs of advertising by as much as 50%.” The Company is developing SWARM into a cloud hosted software platform that will harness the power of artificial intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-ai-delivers-for-cloudcommerce-1030002696",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-ai-delivers-for-cloudcommerce-1030002696",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Artificial-Intelligence-AI-Delivers-for-CloudCommerce-1030002696",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Artificial-Intelligence-AI-Delivers-for-CloudCommerce-1030002696",
+      "publishedDateTime": "2021-01-26T00:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-chinese-electric-carmaker-xpeng-rolls-out-autonomous-highway-driving-features-in-challenge-to-tesla.md",
       "title": "Chinese electric carmaker Xpeng rolls out autonomous highway driving features in challenge to Tesla",
       "excerpt": "Xpeng Motors' Navigation Guided Pilot or NGP is rolling out to eligible customers of its P7 sedan in a challenge to Tesla's own software.",
@@ -1166,110 +1261,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-computer-vision-in-healthcare-market-outlook-by-industry-size-share-revenue-regions-and-top-key-players-analysis.md",
-      "title": "Computer Vision in Healthcare Market Outlook By Industry Size, Share, Revenue, Regions and Top Key Players Analysis",
-      "excerpt": "Computer Vision in Healthcare Market Outlook and Forecasts By Top Manufacturers, Production, Consumption, Trade Statistics,Size, Analysis ,Growth Analysis & Regional Analysis (Latin America, North America,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-outlook-by-industry-size-share-revenue-regions-and-top-key-players-analysis-2021-01-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-outlook-by-industry-size-share-revenue-regions-and-top-key-players-analysis-2021-01-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-25T16:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-how-ai-can-make-the-world-more-fair-for-gifted-kids.md",
-      "title": "How AI can make the world more fair for ‘gifted’ kids",
-      "excerpt": "A team of researchers from Las Vegas recently developed an AI model capable of judging a human pianist’s skill level. On the surface, it might not sound like the kind of breakthrough research that could change the world overnight.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/01/25/how-ai-can-make-the-world-more-fair-for-gifted-kids/",
-      "originalUrl": "https://thenextweb.com/neural/2021/01/25/how-ai-can-make-the-world-more-fair-for-gifted-kids/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/06/vintage-robot-796x398.jpg",
-          "width": 796,
-          "height": 398,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/01/25/how-ai-can-make-the-world-more-fair-for-gifted-kids/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/25/how-ai-can-make-the-world-more-fair-for-gifted-kids/amp/",
-      "publishedDateTime": "2021-01-25T14:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

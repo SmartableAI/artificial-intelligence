@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2021/01/27/14-ways-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2021/01/27/14-ways-to-better-leverage-ai-to-connect-with-consumers/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI comes of age; consumers prefer to talk to machines than humans: Pega survey"
+    excerpt: "Customers in the country seem to prefer to get responses from a machine than interacting with humans. The reason, according to a survey, answers given by an AI-system is backed with voluminous data that it crunches to deliver right responses."
+    publishedDateTime: 2021-01-28T04:19:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/ai-comes-of-age-consumers-prefer-to-talk-to-machines-than-humans-pega-survey/article33681281.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/ai-comes-of-age-consumers-prefer-to-talk-to-machines-than-humans-pega-survey/article33681281.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/ai-comes-of-age-consumers-prefer-to-talk-to-machines-than-humans-pega-survey/article33681281.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 55
+    images:
+      - url: "https://www.thehindubusinessline.com/info-tech/agcd06/article33681280.ece/ALTERNATES/LANDSCAPE_615/IMGTHJC-AI314B8609P5jpg"
+        width: 615
+        height: 384
+        isCached: true
   - title: "New artificial intelligence tool to better assist U of T students with course selection"
     excerpt: "The Centre for Analytics and Artificial Intelligence Engineering (CARTE) has created an in-development artificial intelligence (AI) tool named Education Pathways to help U of T students with course selection."
     publishedDateTime: 2021-01-25T02:40:00Z

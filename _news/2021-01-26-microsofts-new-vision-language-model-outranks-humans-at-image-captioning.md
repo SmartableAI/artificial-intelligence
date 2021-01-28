@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358422/microsofts-new-
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/358422/microsofts-new-vision-language-model-outranks-humans-at-image?amp"
 type: article
 quality: 88
-heat: 138
+heat: 148
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cdn.openpr.com/U/1/U125333671_g.jpg"
         width: 800
         height: 425
+        isCached: true
+  - title: "Neural Network Software Market is Booming Worldwide | Neurala, IBM, Microsoft"
+    excerpt: "Latest released the research study on Global Neural Network Software Market offers a detailed overview of the factors influencing the global business scope Neural Network Software Market research report shows the latest market insights current situation analysis with upcoming trends"
+    publishedDateTime: 2021-01-28T04:19:00Z
+    webUrl: "https://www.openpr.com/news/2232068/neural-network-software-market-is-booming-worldwide-neurala"
+    ampWebUrl: "https://www.openpr.com/amp/2232068/neural-network-software-market-is-booming-worldwide-neurala"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2232068/neural-network-software-market-is-booming-worldwide-neurala"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 73
+    images:
+      - url: "https://cdn.openpr.com/U/1/U128436343_g.jpg"
+        width: 512
+        height: 325
         isCached: true
   - title: "Ooredoo provides managed services for Microsoft Azure"
     excerpt: "Ooredoo Qatar, a Microsoft Gold-certified partner, has signed a strategic partnership agreement with Wipro Limited, a leading global information technology, consulting, and business process services company"

@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-27-atlazo-launches-the-worlds-first-edge-ai-system-on-chip-soc-for-tiny-devices.md",
+      "title": "Atlazo Launches the World's First Edge AI System-On-Chip (SoC) for Tiny Devices",
+      "excerpt": "AI SoC, AZ-N1, for smart tiny devices. The device is industry's first fully integrated AI SoC featuring a highly power efficient Artificial Intelligence and Machine Learning processor (Axon I TM) for audio,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/atlazo-launches-the-world-s-first-edge-ai-system-on-chip-soc-for-tiny-devices-1030007244",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/atlazo-launches-the-world-s-first-edge-ai-system-on-chip-soc-for-tiny-devices-1030007244",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/atlazo-launches-the-world-s-first-edge-ai-system-on-chip-soc-for-tiny-devices-1030007244",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/atlazo-launches-the-world-s-first-edge-ai-system-on-chip-soc-for-tiny-devices-1030007244",
+      "publishedDateTime": "2021-01-27T05:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-27-ai-ethics-really-come-down-to-security.md",
       "title": "AI Ethics Really Come Down To Security",
       "excerpt": "If we're going to rely on them to take more active and responsible roles in our lives, we must be able to trust that they're not only ethical but that the AI and the machine learning that underpins them operate safely and securely.",
@@ -64,7 +107,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/01/27/14-ways-to-better-leverage-ai-to-connect-with-consumers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -454,6 +497,49 @@
       ]
     },
     {
+      "path": "_news/2021-01-27-server-computing-a-data-intensive-market-propelled-by-ai.md",
+      "title": "Server Computing: A Data-Intensive Market Propelled by AI",
+      "excerpt": "Yole expects the server computing market to reach US$33b in 2025. AI and HPC dedicated products combined will reach 29M units and US$8B in",
+      "sourceUrl": null,
+      "webUrl": "https://www.eetindia.co.in/server-computing-a-data-intensive-market-propelled-by-ai/",
+      "originalUrl": "https://www.eetindia.co.in/server-computing-a-data-intensive-market-propelled-by-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eetindia.co.in/wp-content/uploads/sites/4/2021/01/AI_Data.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.eetindia.co.in/server-computing-a-data-intensive-market-propelled-by-ai/amp/",
+      "cdnAmpWebUrl": "https://www-eetindia-co-in.cdn.ampproject.org/c/s/www.eetindia.co.in/server-computing-a-data-intensive-market-propelled-by-ai/amp/",
+      "publishedDateTime": "2021-01-26T23:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eetindia.co.in",
+        "domain": "eetindia.co.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-27-opencv-opens-400000-contest-to-solve-real-world-problems-with-spatial-ai.md",
       "title": "OpenCV opens $400,000 contest to solve real-world problems with spatial AI",
       "excerpt": "A global contest aims to spark computer vision solutions to actual problems, and promises teams free camera hardware and Azure services.Read",
@@ -668,57 +754,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-artificial-intelligence-ai-delivers-for-cloudcommerce.md",
-      "title": "Artificial Intelligence (AI) Delivers for CloudCommerce",
-      "excerpt": "\"Our clients are reaping the benefit of our real-world application of artificial intelligence. Our goal is to continue to work toward potentially reducing the costs of advertising by as much as 50%.\" The Company is developing SWARM into a cloud hosted software platform that will harness the power of artificial intelligence,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-delivers-for-cloudcommerce-2021-01-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-delivers-for-cloudcommerce-2021-01-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-26T18:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1183,58 +1218,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-tivo-takes-personalization-to-the-next-level-with-voice-id.md",
-      "title": "TiVo takes personalization to the next level with voice ID",
-      "excerpt": "TiVo and voice authentication company, Pindrop, have joined forces to let TiVo users get personalized content recommendations using just their voices.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/home-theater/pindrop-voice-recognition-biometric-id-user-profiles-tivo/",
-      "originalUrl": "https://www.digitaltrends.com/home-theater/pindrop-voice-recognition-biometric-id-user-profiles-tivo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn3.digitaltrends.com/image/digitaltrends/tivo-stream-4k-00013-1200x630-c-ar1.91.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/home-theater/pindrop-voice-recognition-biometric-id-user-profiles-tivo/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home-theater/pindrop-voice-recognition-biometric-id-user-profiles-tivo/?amp",
-      "publishedDateTime": "2021-01-26T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

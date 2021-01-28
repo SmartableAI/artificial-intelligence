@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Leading HR Technology Company launches AI Ethics Advisory Board"
-excerpt: "Arena Analytics launched its external AI Ethics Advisory Board - the first human resource technology firm to do so - on January 12,"
-publishedDateTime: 2021-01-26T19:02:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/leading-hr-technology-company-launches-ai-ethics-advisory-board-301215510.html"
-webUrl: "https://www.prnewswire.com/news-releases/leading-hr-technology-company-launches-ai-ethics-advisory-board-301215510.html"
+excerpt: "Arena Analytics launched its external AI Ethics Advisory Board - the first human resource technology firm to do so - on January 12, 2021. Arena’s independent Advisory Board brings together human resources leaders and experts from academia,"
+publishedDateTime: 2021-01-26T19:47:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-technology-issues-media-newspapers-8f759ca11098714fd8442fc812276d4c"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-technology-issues-media-newspapers-8f759ca11098714fd8442fc812276d4c"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1427165/arena_ethics_advisors.jpg?p=facebook"
-    width: 1920
-    height: 1005
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -74,6 +74,6 @@ related:
       domain: insidebigdata.com
     quality: 34
 
-secured: "quBp9DZcRcOHD3OargsFkO0vFhfNloquAa+f6SCXkOK/AwVBKgaEItC1VH2WrteYX77qcjZWzZUnNRdj00Y3uiK08TPVuRW+h0ZUpzepl6SyEA/+07WpriykuKFN92Lx1teQHKS6BkBUlWvJ5Rnekhf2cfZlygv7vBgS4UvTQai793wZUNo+Kahhf6+iWy7t4n0HSVn6QlE605lRofJhpoXUVkIE4VQD7zLW26J/Nd4SdFmkAbXSXKT4Td5g3LUD3AJo8A5/DLgNmwhNvC7aMyMIWlBb1KmwXpe0VoxJYfaIYMH9Dh1Nbo/Zyr/xqBLIgWFWYLIMl7i7vPKRTSNJKP/0zEsbyi0Vs15tAc+nvEI=;UxK44FvwNwyLNs9LgoMvzw=="
+secured: "HFOa300vf+DVlrMvZf7v6zIDrcje0MTZLGXWm7m4plgotdfozddjWUcUbEYRiUNPHnDfnMSYnP8A8px+ZcFAS8NVeF5iqMGTY2PJ9gpO444Z97Lhq3lCjw61nVuO+Ow74ij9LcX/o44aOs6bR+5WPD37wtAwbpKYFhuZlgcap4qvLxw4aiFtYGwhD7R+2FY8mKeokZom2juFt0Yhi7NAVUwQX6zXrEegwzbMfs2+N0ZcsQwsvJGZ44Q4Dw+k3m3ZdqQbsqQczOYF2CiQFDKYCDiDgzBnxBiFp2i9/1/MHFKKcdOBR+k0k+oe+TQSzRPAXFvOjrkuuYXYViUp5xf/UrVYMgSdBIwERRcVLqI9x7Q=;ntCOW4GJYAK0fkMlffLZzA=="
 ---
 

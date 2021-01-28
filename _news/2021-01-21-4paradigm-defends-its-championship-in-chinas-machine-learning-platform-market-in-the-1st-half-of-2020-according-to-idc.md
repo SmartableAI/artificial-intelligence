@@ -1,26 +1,26 @@
 ---
 category: news
-title: "4Paradigm Defends its Championship in China’s Machine Learning Platform Market in the 1st Half of 2020, According to IDC"
-excerpt: "Paradigm stays on a leadership position from 2018 to the first half of 2020. IDC, a premier global provider of market intelligence, has recently published China AI Software and A"
-publishedDateTime: 2021-01-21T05:53:00Z
-originalUrl: "https://apnews.com/press-release/marketersmedia/technology-science-greater-china-asia-china-b0d5c9646db4eb2b19f4cccf4ea99abc"
-webUrl: "https://apnews.com/press-release/marketersmedia/technology-science-greater-china-asia-china-b0d5c9646db4eb2b19f4cccf4ea99abc"
+title: "4Paradigm Defends its Championship in China's Machine Learning Platform Market in the 1st Half of 2020, According to IDC"
+excerpt: "The IDC report recognizes the advantages of 4Paradigm machine learning platform and AutoML products in technological accumulation, enterprise-level product layout, commercial implementation ..."
+publishedDateTime: 2021-01-21T04:28:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/4paradigm-defends-its-championship-in-china-s-machine-learning-platform-market-in-the-1st-half-of-2020-according-to-idc-1029988328"
+webUrl: "https://markets.businessinsider.com/news/stocks/4paradigm-defends-its-championship-in-china-s-machine-learning-platform-market-in-the-1st-half-of-2020-according-to-idc-1029988328"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/4paradigm-defends-its-championship-in-china-s-machine-learning-platform-market-in-the-1st-half-of-2020-according-to-idc-1029988328"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/4paradigm-defends-its-championship-in-china-s-machine-learning-platform-market-in-the-1st-half-of-2020-according-to-idc-1029988328"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "h2EhQuhfpNsu05nQZtvx0J0oHOY/7EWiXLniKU8ck4yoA+P8jNs6akCtEWo8t5JuXcBIK8oCd66l92J7lij8CpecPYDBCoq1hKs8J+8uj2EVNke7dDLtkj7oZYAnEP+B6q0K+lEOLidl/rwnzKKdQnzGUSIn/Nyroh7N4yNSP95zvqLyUDK4g7ylyhs8/tw4KSBB1e05Owq+8XNG07oOWeMv9h6JwFx0TZqetUKUUraYP/bxiWvZpNMGxjmKdKxAPtah7RLqTgi7Ll7CIEOcIrx1gHtPPgTciEDNPTDIlM5qx0jUnHxHT0nVqlXB/tzwdp+eL60G4mUdI4hmoSsmPBP6SBE39/ZQE+w8uYQNFQs=;50A4i/7h4oJFNy02fLMAVA=="
+secured: "8C7i7rCGNQpuVZpK+w8G44Ldw4WoxCa2CIksUYuUHnFeUA2nSPvBJcfzKsqGqBLAZD+fkJmvwseBrZ+oYdzh9YINgjRC2WmI242e+DaNA8StdDHiEkqu71aIgJljRwa2nHkktFc0W+DmAt5jPEld6sCybddTyih+Agai6yoN5tAAu3Po5mywayKpE/owHv5e6dQl89HiR4gDn6Pt24vhrify45HyXAQfeC43xLXauUhZ+0rQy0NfiJZFFEtHvp4BKOrq1wOjnIatCUKIQrI00wo+IJ5aVLwXYDdiLhE67nrIijDxrKC4N6EEVUAO1LZRpXoQABftwIjI1nZTjxcSK2yKMkzd5AC8hp0OozkRgoc=;p/y82xzPq2WRvhp5ALME0g=="
 ---
 

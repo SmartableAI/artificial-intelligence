@@ -19,6 +19,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Facebook AI
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2021/01/word-jumble.jpg?w=2399"

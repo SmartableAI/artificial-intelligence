@@ -41,6 +41,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Military Eyes AI, Cloud Computing in Space in a Decade"
+    excerpt: "Physics keeps the Pentagon from orbiting a computer powerful enough for machine learning. So they’re building a network in space."
+    publishedDateTime: 2021-01-28T03:19:00Z
+    webUrl: "https://www.defenseone.com/technology/2021/01/military-eyes-ai-cloud-computing-space-decade/171692/"
+    type: article
+    provider:
+      name: Defense One
+      domain: defenseone.com
+    quality: 39
+    images:
+      - url: "https://cdn.defenseone.com/media/img/upload/2021/01/27/Screen_Shot_2021-01-27_at_10.04.07_PM/open-graph.png"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "7tMMZIfI9k3izRVqoyu3JahneJSP3FJCBXcuOpWUlnynbKNI0bQtipz5HVTvH0E47pZ9XmbClMMIs8iDEQ6DuUZJTOSyw9EJYLo8pKM2kQZiTDGvHV7BJbKlKQU5U6k83znzgbfYlG6taowR8FqJV9AEmfJHl5Z5pNClQFJcKzjwysr+27H4U27TUjamHMqSaH3yEuAF6vGunQjgGRYzOrP/FELverbxFQPtYuL/K/xExO0/5jTgjEXiUuEIQXOfuHolVXjgn+pPvtDJMCsktpxzwy/RDLmG4FYdyhcljYz+Kz1D/KdD1qaGV1bXzyiLXCXXZAN1ZnqXtYuoSfKejWidkYx8UmzfIh4Whxn1yRXSFU7EbDxYV8n1OWxkX7b3NHygwjrG8a0XxhBwxRlRBqfagbtKqeps9zuK56zpjVNUas2G5sAb/q+y3hRnXtpY03umabn8ogy7QmgVxSD5W7IX9u1ajAznqWAjGEkySN+2QurUTQQSicBCfc2BDRKWxurqNUCIEHZrfQrE4Cbf5A==;vjHRo48jaDpR/gZhDgo7Rg=="
 ---

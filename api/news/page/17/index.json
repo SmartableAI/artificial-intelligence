@@ -2,6 +2,101 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-01-13-broadridge-partners-with-ai-company-fligoo-providing-innovative-predictive-analytics-to-wealth-management.md",
+      "title": "Broadridge Partners with AI Company Fligoo, Providing Innovative Predictive Analytics to Wealth Management",
+      "excerpt": "Enabling banks and wealth management firms to better leverage data through artificial intelligence (AI), Broadridge Financial Solutions, Inc. (NYSE:BR), a global Fintech leader, has announced a collaboration with AI company Fligoo to develop a suite of proprietary predictive analytics software products for the wealth management industry.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-e03c025b09ba987d292a32cf31c15a0b",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-e03c025b09ba987d292a32cf31c15a0b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-13T06:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-qualcomm-will-acquire-nuvia-server-cpu-maker-led-by-ex-apple-chip-architect.md",
+      "title": "Qualcomm will acquire Nuvia, server CPU maker led by ex-Apple chip architect",
+      "excerpt": "The deal could give Qualcomm the high-performance chip design chops to match or beat Apple, which now offers powerful M1 computer chips.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/13/qualcomm-will-acquire-nuvia-server-cpu-maker-led-by-ex-apple-chip-architect/",
+      "originalUrl": "https://venturebeat.com/2021/01/13/qualcomm-will-acquire-nuvia-server-cpu-maker-led-by-ex-apple-chip-architect/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/01/2019-01-04T130429Z_2_LYNXNPEF030OH_RTROPTP_4_QUALCOMM-M-A-BROADCOM-e1546625473928.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/13/qualcomm-will-acquire-nuvia-server-cpu-maker-led-by-ex-apple-chip-architect/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/13/qualcomm-will-acquire-nuvia-server-cpu-maker-led-by-ex-apple-chip-architect/amp/",
+      "publishedDateTime": "2021-01-13T06:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-13-nayya-raises-10-million-to-guide-employee-health-benefits-decisions-with-ai.md",
       "title": "Nayya raises $10 million to guide employee health benefits decisions with AI",
       "excerpt": "Nayya, an insurance benefits management platform, has raised $10 million for its technology that leverages AI to match employees with plans.",
@@ -1058,102 +1153,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-rep-clyburn-wants-to-make-lift-every-voice-and-sing-a-national-hymn.md",
-      "title": "Rep. Clyburn wants to make 'Lift Every Voice and Sing' a national hymn",
-      "excerpt": "The Democrat from South Carolina is aiming for bipartisan support on his proposal, since, he said, it's a song “everybody can identify with.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/nbcblk/rep-clyburn-wants-make-lift-every-voice-sing-co-national-n1253963",
-      "originalUrl": "https://www.nbcnews.com/news/nbcblk/rep-clyburn-wants-make-lift-every-voice-sing-co-national-n1253963",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2021_02/3403781/200811-james-clyburn-ew-345p_39d26c4940824baaac8f4aef818ceb23.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1253963",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253963",
-      "publishedDateTime": "2021-01-12T15:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-service-robotics-market-top-trends-accentuating-size-by-2024.md",
-      "title": "Service Robotics Market Top Trends Accentuating, Size by 2024",
-      "excerpt": "The service robotics market is expected to grow at a substantial rate driven by the system's high efficiency, reliability and convenience as compared to conventional labor. Integration of artificial intelligence (AI) and proliferation of IoT is bringing key transformations in the market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/service-robotics-market-top-trends-accentuating-size-by-2024-2021-01-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/service-robotics-market-top-trends-accentuating-size-by-2024-2021-01-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-12T15:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

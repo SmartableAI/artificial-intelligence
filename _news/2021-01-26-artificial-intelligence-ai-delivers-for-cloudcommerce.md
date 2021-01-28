@@ -2,27 +2,27 @@
 category: news
 title: "Artificial Intelligence (AI) Delivers for CloudCommerce"
 excerpt: "Our clients are reaping the benefit of our real-world application of artificial intelligence. Our goal is to continue to work toward potentially reducing the costs of advertising by as much as 50%.” The Company is developing SWARM into a cloud hosted software platform that will harness the power of artificial intelligence,"
-publishedDateTime: 2021-01-26T08:26:00Z
-originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-marketing-and-advertising-corporate-news-marketing-campaigns-66fd70c577a5eeeb50e3990141edbed3"
-webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-marketing-and-advertising-corporate-news-marketing-campaigns-66fd70c577a5eeeb50e3990141edbed3"
+publishedDateTime: 2021-01-26T08:24:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-ai-delivers-for-cloudcommerce-1030002696"
+webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-ai-delivers-for-cloudcommerce-1030002696"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/Artificial-Intelligence-AI-Delivers-for-CloudCommerce-1030002696"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Artificial-Intelligence-AI-Delivers-for-CloudCommerce-1030002696"
 type: article
-quality: 54
-heat: -1
-published: false
+quality: 84
+heat: 94
+published: true
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Facebook AI
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Artificial Intelligence (AI) Delivers for CloudCommerce"
@@ -40,6 +40,6 @@ related:
         height: 630
         isCached: true
 
-secured: "EbidPD2qE2WaL7wtDSOdQx91xyOG4JzBk8v/bYruiKEThJxOtWhZ0xVrvZcKTumOiDrdujgaLIUlgZhci6oSjMGroZZ0Qv2jxPhbv04Prvbwx8QKyX7BUp89jBnzwRqG7wz10HBVR0RaPVArsvFpn6ECXW7hHoXLj2cKtDwnuBY/h0iajr/WR1XGAnt/ft4rcOjdt8DCnKL+5US5bfjB1/V7Q5ykIUM4kL7/MAfjayxgmGQVL6f7ZdGno14EJD+jYFglPpSBUnH3gmH/gAfMUU4rJTv9pX/Ni8qzOp4dIDR3m7lXbD8quLR3MNkxcXSeYwMI47Xa9vh756vfSlBcHLPBSZ35ZNaznDGoHihblaU=;VB3yFzjGYmC516aE/OhjTQ=="
+secured: "x3azk2wzhBsbwMgxwSQRAL+p0WkQ5nvV1o1EyphbhOsZB4iJszvhXxSmwdWkLPzsRtwxfL0QyobZ0TeeCpgjxrnq+WFRKJ7pkxmh1d6bJy9EpjLgaSdSLAs5i5GTTgd2NQWi948cfq2GWcDOjNmaZroSHVM8YyvN4469LPsKS/ziqTdQQcYed/mnJqtqvP89oPzn8GehJyDvrKbpq089/0nvk9C1NZvw9FK+NtPxmJnFV5YS8oHDNEMQKim6XCWHEKUw6RQSRq8uymmP2i/YoYW+YHvRWOFfGOW5TYohrmgAY8x6b4Xhl3EKpEEKinH2AavbBuIhgeOT2KSf2wzdK7s46a0WhfNL7D8T02Cjl6c=;QBfXg0GuCdlolt1rSmlKZg=="
 ---
 

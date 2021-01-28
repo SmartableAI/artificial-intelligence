@@ -24,19 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Credential Stuffing: AI’s Role in Slaying a Hydra"
-    excerpt: "Credential stuffing is a relatively inexpensive means of attack. But organizations trying to prevent breaches may do well to invest in AI against it."
-    publishedDateTime: 2021-01-25T13:02:00Z
-    webUrl: "https://securityintelligence.com/articles/ai-role-in-credential-stuffing/"
+  - title: "Which country leads the innovation charge in AI research?"
+    excerpt: "New discoveries and understanding of AI capabilities are ever-evolving, much like the technology itself. Hence many national and private interests are charging ahead with AI research and development in a dizzying assortment of fields,"
+    publishedDateTime: 2021-01-28T04:51:00Z
+    webUrl: "https://techwireasia.com/2021/01/which-country-leads-the-innovation-charge-in-ai-research/"
+    ampWebUrl: "https://techwireasia.com/amp/2021/01/which-country-leads-the-innovation-charge-in-ai-research/"
+    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/01/which-country-leads-the-innovation-charge-in-ai-research/"
     type: article
     provider:
-      name: Hack
-      domain: securityintelligence.com
-    quality: 37
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 59
     images:
-      - url: "https://securityintelligence.com/wp-content/uploads/2021/01/Credential-Stuffing-.jpeg"
-        width: 1200
-        height: 630
+      - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/01/000_8ZH7HR-450x300.jpg"
+        width: 450
+        height: 300
         isCached: true
 
 secured: "fkBd+x5shSUksXH7fGexEH67QJdCYVkvqZgpEtFlYGpICYwPC1f4Eso7NwpfCEjLwtHxPlmfM7UB2vE/8t9kkpE8iMJaHr4H0Rq4PKJ0Asucpb3sTt7I0ZB2Fv6v3yKfvAF0TNVk/mW9sX/jeR3hX++zE05UIf3D4hgOwXBo+7SlzqV/6IBgKst8ndikMgTnhK57jD+SzS6rsGU/FlYSSm2lTqbIzUVeUOqYDGUIIRjB1QSkRo2DptzZzJIzGvNA+d7adnH83smJyGQRBctZWWEpqPXBnOZqBhCqq9Ka4nRQYzvJ7d0iIa88We5aHNKGGAYq2W/qTHRHIFYRKEFqQOkU974vOxkwFcIs+B9YFqNRjC/z0emPNV9J2qLGQ2etiyK58rD6Qpo7KKLHP7Qsj/eKnwmrdvDFLYObC+kqXKz9B7JMV+aj7d9vC5AreXiQhZ9G3Vm00W7b5OW49i0E9q4dcA5+iSZMgtbLQQG8SHTnTqLWPnzx7vaCi8R/d1pHczJkVoU/nZ0LJ+SFOeYcLw==;31HpbkXHqv/CtisQPxsyHQ=="
