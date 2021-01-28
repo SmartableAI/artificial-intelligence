@@ -3,14 +3,14 @@ name: "Martin Ford"
 bio: "Martin Ford is a futurist and author focusing on artificial intelligence and robotics, and the impact of these technologies on the job market, economy and society. He has written three books on technology."
 location: Silicon Valley, CA
 type: "profile"
-heat: 98
+heat: 106
 
 website: https://t.co/NRuuR6oILg
 
 twitter:
   username: MFordFuture
   url: https://twitter.com/MFordFuture
-  followers: 47863
+  followers: 47862
 
 wikipedia:
   url: https://en.wikipedia.org/wiki/Martin_Ford_(author)
@@ -25,6 +25,6 @@ images:
     isCached: true
     title: "Martin Ford"
 
-secured: "3kZ9kI5GpDHmkR58kzsA0uKElK2L1xck8fwP1amJSpDTdIwqTUGharQ+THh7Jwd1GZcKsmXZ8X/BM7T0hsuGC63HDibVP45CAU2e+ISTQ3hYDXUC1Rea2e3P9khN3oVpIyKr/CZdcmgyQj4xYGEtOFb7Ik4ZjQiP0jGIQXVNtsR7vzyZ1o6/aBRxU9IO36tNSy6XDRbUp0t3s5LR4aRWIGTE4J6noXMj5lUGyjZTdr51uCpl4BJiP9MYOeZqZck5sgULAaTqRylzIn9PRXAqS+iH21BdckgGt4JVQMNXxan0hhbfma7iawuB15wyv8jnXl1c/6Al6A+p4zDakIprzjBt/quqInV61z3olZkWcQ0MYNMn0qFIRnn5c5IOX7IGdVuH1sKICJvxajCRgIMoTkbVAOqaYQre7fXybgsx8Bk=;nVFitUYtTcD0lBN5mI+U7g=="
+secured: "QC2aQI+Efca8NcYMleQu0hvhcfvo7jnU4VXl63B5RCEDOCUVbG2MmfvOe0OrAEvaGoQ/VIUNyYFbK3hCEwozuZg+n74rtiJC1FD4jhMYl3FdzIO8K+s+dn3LHc1UZm14RIyq4GNa3zIccXuS5PPaNVWOK/tqWyto69RkvxyTlTkfl+rIwXmTRaFzdzysgQ9UAe3XfniCRfDZ4qSL5M1EhYb7rB2LRg6vzqkheWzAweHS9G3EU3/scTWRHSDC7NCz+LF4oZRCYI5TnYCBCiykfw+NfBkwKdAw1C6tqsQ9ASd1SZ6emkGlIsOrq6jRTEtKS2Wgjr/4/0tYbetiR71CB53/CRt1cgSZgzi8NpyLPNbxIXR236qkPY20gFJFUFdMhgdmaDcZ8gVsdpYm/azb1UQ6HkMHD2kUggXwJ8EcdVA=;BrL5l+sQKLPUcY1ylbTuiA=="
 ---
 
