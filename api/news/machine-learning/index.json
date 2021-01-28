@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-27-pinecone-lands-10m-seed-for-purpose-built-machine-learning-database.md",
+      "title": "Pinecone lands $10M seed for purpose-built machine learning database",
+      "excerpt": "Pinecone, a new startup from the folks who helped launch Amazon SageMaker, has built a vector database that generates data in a specialized format to help build machine learning applications faster, something that was previously only accessible to the largest organizations.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/01/27/pinecone-lands-10m-seed-for-purpose-built-machine-learning-database/",
+      "originalUrl": "https://techcrunch.com/2021/01/27/pinecone-lands-10m-seed-for-purpose-built-machine-learning-database/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/01/IMG_8828-1.jpg?w=1024",
+          "width": 1024,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/01/27/pinecone-lands-10m-seed-for-purpose-built-machine-learning-database/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/27/pinecone-lands-10m-seed-for-purpose-built-machine-learning-database/amp/",
+      "publishedDateTime": "2021-01-27T07:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-27-artificial-intelligence-ai-chipsets-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2026.md",
       "title": "Artificial Intelligence (AI) Chipsets Market – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2026",
       "excerpt": "Selbyville Delaware Global Artificial Intelligence (AI) Chipsets Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2026. Artificial Intelligence (AI) Chipsets Market Report also covers top key players,",
@@ -54,58 +106,6 @@
         "AI in Healthcare",
         "AI Hardware",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding.md",
-      "title": "Pinecone, a serverless vector database for machine learning, leaves stealth with $10M funding",
-      "excerpt": "Machine learning applications understand the world through vectors. Pinecone, a specialized cloud database for vectors, has secured significant investment from the people who brought Snowflake to the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/",
-      "originalUrl": "https://www.zdnet.com/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2021/01/27/433da3ee-bf33-491e-b03e-51e2184e3670/pinecone-illustration.jpg",
-          "width": 426,
-          "height": 398,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/",
-      "publishedDateTime": "2021-01-26T23:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     },
     {
@@ -570,35 +570,35 @@
     },
     {
       "path": "_news/2021-01-21-4paradigm-defends-its-championship-in-chinas-machine-learning-platform-market-in-the-1st-half-of-2020-according-to-idc.md",
-      "title": "4Paradigm Defends its Championship in China's Machine Learning Platform Market in the 1st Half of 2020, According to IDC",
-      "excerpt": "The IDC report recognizes the advantages of 4Paradigm machine learning platform and AutoML products in technological accumulation, enterprise-level product layout, commercial implementation ...",
+      "title": "4Paradigm Defends its Championship in China’s Machine Learning Platform Market in the 1st Half of 2020, According to IDC",
+      "excerpt": "Paradigm stays on a leadership position from 2018 to the first half of 2020. IDC, a premier global provider of market intelligence, has recently published China AI Software and A",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/4paradigm-defends-its-championship-in-china-s-machine-learning-platform-market-in-the-1st-half-of-2020-according-to-idc-1029988328",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/4paradigm-defends-its-championship-in-china-s-machine-learning-platform-market-in-the-1st-half-of-2020-according-to-idc-1029988328",
+      "webUrl": "https://apnews.com/press-release/marketersmedia/technology-science-greater-china-asia-china-b0d5c9646db4eb2b19f4cccf4ea99abc",
+      "originalUrl": "https://apnews.com/press-release/marketersmedia/technology-science-greater-china-asia-china-b0d5c9646db4eb2b19f4cccf4ea99abc",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/4paradigm-defends-its-championship-in-china-s-machine-learning-platform-market-in-the-1st-half-of-2020-according-to-idc-1029988328",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/4paradigm-defends-its-championship-in-china-s-machine-learning-platform-market-in-the-1st-half-of-2020-according-to-idc-1029988328",
-      "publishedDateTime": "2021-01-20T20:28:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-20T21:53:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -34,7 +34,7 @@ related:
     provider:
       name: eWeek
       domain: eweek.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://www.eweek.com/imagesvr_ez/b2bezp/2017/07/IBM.Watson2.JPG?alias=social_image"
         width: 560

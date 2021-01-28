@@ -51,7 +51,7 @@ related:
     provider:
       name: Windows
       domain: compsmag.com
-    quality: 37
+    quality: 39
 
 secured: "7tMMZIfI9k3izRVqoyu3JahneJSP3FJCBXcuOpWUlnynbKNI0bQtipz5HVTvH0E47pZ9XmbClMMIs8iDEQ6DuUZJTOSyw9EJYLo8pKM2kQZiTDGvHV7BJbKlKQU5U6k83znzgbfYlG6taowR8FqJV9AEmfJHl5Z5pNClQFJcKzjwysr+27H4U27TUjamHMqSaH3yEuAF6vGunQjgGRYzOrP/FELverbxFQPtYuL/K/xExO0/5jTgjEXiUuEIQXOfuHolVXjgn+pPvtDJMCsktpxzwy/RDLmG4FYdyhcljYz+Kz1D/KdD1qaGV1bXzyiLXCXXZAN1ZnqXtYuoSfKejWidkYx8UmzfIh4Whxn1yRXSFU7EbDxYV8n1OWxkX7b3NHygwjrG8a0XxhBwxRlRBqfagbtKqeps9zuK56zpjVNUas2G5sAb/q+y3hRnXtpY03umabn8ogy7QmgVxSD5W7IX9u1ajAznqWAjGEkySN+2QurUTQQSicBCfc2BDRKWxurqNUCIEHZrfQrE4Cbf5A==;vjHRo48jaDpR/gZhDgo7Rg=="
 ---

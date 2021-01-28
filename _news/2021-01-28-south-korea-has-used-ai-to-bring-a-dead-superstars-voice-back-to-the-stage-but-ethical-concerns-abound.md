@@ -73,20 +73,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Controversy over AI chatbot in South Korea raises questions about ethics, data collection"
-    excerpt: "Offensive comments and data leaks spark calls for stricter rules and user guidelines.. Read more at straitstimes.com."
-    publishedDateTime: 2021-01-23T16:02:00Z
-    webUrl: "https://www.straitstimes.com/asia/east-asia/controversy-over-ai-chatbot-in-south-korea-raises-questions-about-ethics-data"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 45
-    images:
-      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2021/01/23/ak_ll_2301.jpg?itok=8j6blQ_X"
-        width: 763
-        height: 509
-        isCached: true
 
 secured: "imLOWciG1C9r83o+UrtdjQno1Z5JLyxcOzg7T9Hx6bI1kMmjJiVieis7PlEFHik6dzsCc7G3USrQrk+jJzG4xcon60hHqubfTjiOl11sEznxDAUpD3fkV1uiDRedHTagk9+4KG8evQMrKjv4MU8eG7kvMhXbdssQW1r3pe0Xgrf/OGYMrzz8bgacXVAd3vF7vzxzuooCj7/CcXaIVr6PUe2Qvtl6aCbR2jjNMLE7f0BXJmys1KWPrsNXmpTCBB3ETvKe49GZj+xWXgeRKRaqx4dSPriIzx3miX8c/nVrXiZ0GblHlbgj1mSgL89STyTq090xq8zQUfLnqqYB/ACAlKrhPViICghxwIbTnwvQiNYi+a3QhvMLB8PiPFMNoOnyWe7IiH29y+0A5tWM8y6JmJcg9R4X78Pxv4W5tXAnFAvTrWXz803vN11uCmLPAInPo4NEDPBTIeO2QqW49cTjMzQjRnHOkxjq0FWVcvQmwzRYWQg6TgpEhvkYsM8x1tA3OM7KvwjmTT1ZSddHjDiN5Q==;8yw3SYl5+rRj7DqOd5m6iw=="
 ---

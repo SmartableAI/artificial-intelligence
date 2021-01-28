@@ -39,6 +39,31 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Military Robots Market to 2026: Intelligence, Surveillance, and Reconnaissance (ISR) Segment is Expected to Lead the Market"
+    excerpt: "The \"Global Military Robots Market Analysis 2020\" report has been added to ResearchAndMarkets.com's offering. The Global Military Robots market is expected to reach $29.87 billion by 2026 growing at a CAGR of 12."
+    publishedDateTime: 2021-01-26T17:21:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-military-robots-market-to-2026-intelligence-surveillance-and-reconnaissance-isr-segment-is-expected-to-lead-the-market-1030005786"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/global-military-robots-market-to-2026-intelligence-surveillance-and-reconnaissance-isr-segment-is-expected-to-lead-the-market-1030005786"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-military-robots-market-to-2026-intelligence-surveillance-and-reconnaissance-isr-segment-is-expected-to-lead-the-market-1030005786"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
+  - title: "Global Natural Language Processing (NLP) Market 2020 Report Presents Complete Summary, Marketplace Shares and Growth Opportunities by 2025"
+    excerpt: "Global Natural Language Processing (NLP) Market 2020 by Company, Regions, Type and Application, Forecast to 2025 has recently been added by MarketsandResearch.biz to its extensive database, where you will find informative data on various dynamics such as market factors,"
+    publishedDateTime: 2021-01-28T08:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-market-2020-report-presents-complete-summary-marketplace-shares-and-growth-opportunities-by-2025-2021-01-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facial Recognition Market Analysis 2021 Growth Opportunities, Trends, Segmentation and Outlook 2025, with Impact of COVID-19"
     excerpt: "Jan (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" “Facial Recognition Market”"
     publishedDateTime: 2021-01-27T13:08:00Z

@@ -90,6 +90,15 @@ related:
         width: 1500
         height: 842
         isCached: true
+  - title: "MedAI Launches Artificial Intelligence Drug Discovery (AIDD) Platform to Accelerate Drug Development"
+    excerpt: "To accelerate drug development, MedAI, an expert of AI-assisted R&D research company, announces that it has completed the construction of its Artificial Intelligence Drug Discovery (AIDD) Platform. With this platform,"
+    publishedDateTime: 2021-01-27T00:00:00Z
+    webUrl: "https://www.bio-itworld.com/pressreleases/2021/01/27/medai-launches-artificial-intelligence-drug-discovery-(aidd)-platform-to-accelerate-drug-development"
+    type: article
+    provider:
+      name: Bio IT World
+      domain: bio-itworld.com
+    quality: 19
 
 secured: "iyM6YGc91mhEaCyXQzyn9EfKu5BQydwLvK57TKuQzZXBRhJayXUSBIIlkDhLm9S9DniNOu22dAXbKtUO5VDxk5ILijtJaLosa0ZlOYU5nPJotiSHvFMOUn9AC7AtHwRXyTs2Jh9GqI9VpyC9V11TRjfiuNs+dXoJ207YVnCNo9nW44rfWOlGmGSHxIIv07N2OfP3nFsoPA9kXmmhRXBfhmzFbKOxaLb/KIhJkAqkjkYuWl6Ge75LE3/aJIG8ndNerT/WkjEMrfYscSEGzTtcx7CD0OtZW5+SeO3qU2rg/n0WqEkM5bPl2fzKQxZjyxQWPtmk0V46p7MU2VY6l0zBU6WsSu5IadUsT1V/C7R6lfo=;Hiaaaa9jHV80YtyQTUo7yg=="
 ---

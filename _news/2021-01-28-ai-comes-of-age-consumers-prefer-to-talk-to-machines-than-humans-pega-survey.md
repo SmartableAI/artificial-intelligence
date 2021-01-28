@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 819
         isCached: true
+  - title: "Indian consumers feel AI drives better consumer experiences: Pega survey"
+    excerpt: "Indian consumers were more trusting of new technologies like AI if they see the potential to improve their productivity and make things simpler."
+    publishedDateTime: 2021-01-28T08:45:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/information-tech/indian-consumers-feel-ai-drives-better-consumer-experiences-pega-survey/articleshow/80497146.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/information-tech/indian-consumers-feel-ai-drives-better-consumer-experiences-pega-survey/amp_articleshow/80497146.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/information-tech/indian-consumers-feel-ai-drives-better-consumer-experiences-pega-survey/amp_articleshow/80497146.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 58
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-486248,msid-80497126/artificial-intelligence.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "New artificial intelligence tool to better assist U of T students with course selection"
     excerpt: "The Centre for Analytics and Artificial Intelligence Engineering (CARTE) has created an in-development artificial intelligence (AI) tool named Education Pathways to help U of T students with course selection."
     publishedDateTime: 2021-01-25T02:40:00Z

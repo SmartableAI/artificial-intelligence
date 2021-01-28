@@ -2,6 +2,152 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2020-12-28-book-on-ai-to-combat-covid-19.md",
+      "title": "Book on AI to combat Covid-19",
+      "excerpt": "Application of advanced AI techniques, coupled with radiological imaging, can help detect Covid at an early stage, Kumar added.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newindianexpress.com/lifestyle/books/2020/dec/28/book-on-ai-to-combat-covid-19-2241974.html",
+      "originalUrl": "https://www.newindianexpress.com/lifestyle/books/2020/dec/28/book-on-ai-to-combat-covid-19-2241974.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/12/27/w600X390/coronavirus-1s121212.jpg",
+          "width": 600,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newindianexpress.com/lifestyle/books/2020/dec/28/book-on-ai-to-combat-covid-19-2241974.amp",
+      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/lifestyle/books/2020/dec/28/book-on-ai-to-combat-covid-19-2241974.amp",
+      "publishedDateTime": "2020-12-27T14:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Indian Express",
+        "domain": "newindianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-28-vacation-home-boon-expected-due-to-self-driving-cars.md",
+      "title": "Vacation Home Boon Expected Due To Self-Driving Cars",
+      "excerpt": "The advent of self-driving cars will make it easier for traveling to your vacation home and thus spur more vacation home purchases.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/27/vacation-home-boon-expected-due-to-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/27/vacation-home-boon-expected-due-to-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd98412a34c08f100c98f5c%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4893%26cropY1%3D248%26cropY2%3D3000",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/27/vacation-home-boon-expected-due-to-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/12/27/vacation-home-boon-expected-due-to-self-driving-cars/amp/",
+      "publishedDateTime": "2020-12-27T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-27-how-machines-are-changing-the-way-companies-talk.md",
+      "title": "How machines are changing the way companies talk",
+      "excerpt": "Businesses are changing the words they use in order to appeal to AI analysts and traders who assess SEC regulatory filings.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/27/how-machines-are-changing-the-way-companies-talk/",
+      "originalUrl": "https://venturebeat.com/2020/12/27/how-machines-are-changing-the-way-companies-talk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/09/Facebook-servers-Lulea-data-center.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/27/how-machines-are-changing-the-way-companies-talk/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/27/how-machines-are-changing-the-way-companies-talk/amp/",
+      "publishedDateTime": "2020-12-27T06:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-27-120-million-payouts-massive-egos-and-prison-time-the-inside-story-of-google-and-ubers-war-to-own-self-driving-cars.md",
       "title": "$120 million payouts, massive egos, and prison time: The inside story of Google and Uber's war to own self-driving-cars",
       "excerpt": "Good Subscriber Account active since DOW S&P 500 NASDAQ 100 On January 7, 2016, Anthony Levandowski emailed Larry Page to wish him a happy new year and to gripe, once again, about the state of the search giant's self-driving-car research project.",
@@ -1026,138 +1172,6 @@
       "topics": [
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2020-12-25-baidu-virgin-galactic-micron-microsoft-and-cloudera-as-zacks-bull-and-bear-of-the-day.md",
-      "title": "Baidu, Virgin Galactic, Micron, Microsoft and Cloudera as Zacks Bull and Bear of the Day",
-      "excerpt": "Zacks Equity Research highlights Baidu BIDU as the Bull of the Day and Virgin Galactic SPCE as the Bear of the Day. In addition, Zacks Equity Research provides analysis on Micron Technology MU , Microsoft MSFT and Cloudera CLDR.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/baidu-virgin-galactic-micron-microsoft-and-cloudera-as-zacks-bull-and-bear-of-the-day-2020",
-      "originalUrl": "https://www.nasdaq.com/articles/baidu-virgin-galactic-micron-microsoft-and-cloudera-as-zacks-bull-and-bear-of-the-day-2020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/baidu-virgin-galactic-micron-microsoft-and-cloudera-as-zacks-bull-and-bear-of-the-day-2020?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-virgin-galactic-micron-microsoft-and-cloudera-as-zacks-bull-and-bear-of-the-day-2020?amp",
-      "publishedDateTime": "2020-12-24T09:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-25-robotics-company-gets-ok-to-charge-money-for-self-driving-services.md",
-      "title": "Robotics company gets OK to charge money for self-driving services",
-      "excerpt": "Robotics company Nuro on Wednesday received the first-ever permit to commercially deploy its self-driving vehicles in California, allowing the Silicon Valley firm to charge clients for its driverless delivery service.",
-      "sourceUrl": null,
-      "webUrl": "https://dunyanews.tv/en/Technology/579822-Robotics-company-OK-charge-money-self-driving-services",
-      "originalUrl": "https://dunyanews.tv/en/Technology/579822-Robotics-company-OK-charge-money-self-driving-services",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.dunyanews.tv/news/2020/December/12-24-20/news_big_images/579822_46905257.jpg1",
-          "width": 556,
-          "height": 370,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://dunyanews.tv/amp/english/579822.php",
-      "cdnAmpWebUrl": "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/579822.php",
-      "publishedDateTime": "2020-12-24T08:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dunya News",
-        "domain": "dunyanews.tv",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-an-ai-reporters-favorite-books-of-2020.md",
-      "title": "An AI reporter’s favorite books of 2020",
-      "excerpt": "Reading The Big Nine also helped deepen my understanding of what could go wrong if companies like Amazon, Facebook ... age of AI. While occasionally drawing on insights from their own research ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/24/an-ai-reporters-favorite-books-of-2020/",
-      "originalUrl": "https://venturebeat.com/2020/12/24/an-ai-reporters-favorite-books-of-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/My-Post-6.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/24/an-ai-reporters-favorite-books-of-2020/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/24/an-ai-reporters-favorite-books-of-2020/amp/",
-      "publishedDateTime": "2020-12-24T07:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

@@ -1,27 +1,47 @@
 ---
 category: news
 title: "Pinecone leaves stealth with $10M, launches first serverless vector database for machine learning"
-excerpt: "PineconeSystems Inc., a machine learning (ML) cloud infrastructure company, left stealth today with $10m in seed funding."
-publishedDateTime: 2021-01-27T15:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/01/n19345715/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning"
-webUrl: "https://www.benzinga.com/pressreleases/21/01/n19345715/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning"
-ampWebUrl: "https://amp.benzinga.com/amp/content/19345715"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19345715"
+excerpt: "PineconeSystems Inc., a machine learning (ML) cloud infrastructure company, left stealth today with $10m in seed funding. The investment was led by Wing Venture Capital, and Wing's Founding Partner, Peter Wagner,"
+publishedDateTime: 2021-01-27T15:09:00Z
+originalUrl: "https://www.lelezard.com/en/news-19620012.html"
+webUrl: "https://www.lelezard.com/en/news-19620012.html"
 type: article
 quality: 28
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
-  - AWS AI
+  - AI in Finance
   - AI
   - Machine Learning
 
+images:
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
+    isCached: true
+
 related:
+  - title: "Pinecone lands $10M seed for purpose-built machine learning database"
+    excerpt: "Pinecone, a new startup from the folks who helped launch Amazon SageMaker, has built a vector database that generates data in a specialized format to help build machine learning applications faster, something that was previously only accessible to the largest organizations."
+    publishedDateTime: 2021-01-27T15:01:00Z
+    webUrl: "https://techcrunch.com/2021/01/27/pinecone-lands-10m-seed-for-purpose-built-machine-learning-database/"
+    ampWebUrl: "https://techcrunch.com/2021/01/27/pinecone-lands-10m-seed-for-purpose-built-machine-learning-database/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/27/pinecone-lands-10m-seed-for-purpose-built-machine-learning-database/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/01/IMG_8828-1.jpg?w=1024"
+        width: 1024
+        height: 684
+        isCached: true
   - title: "Pinecone, a serverless vector database for machine learning, leaves stealth with $10M funding"
     excerpt: "Machine learning applications understand the world through vectors. Pinecone, a specialized cloud database for vectors, has secured significant investment from the people who brought Snowflake to the world."
     publishedDateTime: 2021-01-27T07:00:00Z
@@ -67,6 +87,6 @@ related:
         height: 315
         isCached: true
 
-secured: "8VPvUzSpW1IJE1CdHII6gn0dbDCvy90bxf0K5x+bN5BvCipzpzXspUU6BU3p/Ijj741YKesInSJqXDPNO4Tj6flI2dnp92HFBG1GmHP/N9zk2dohIsw7MSRNEPFGHu5Dju+VJaRbz7qzi/D8Be//X2WEVjB7Feu1+fJrkdPLAAwhZmBG3nJU5i1Lwp9n7wtHOwtY8vVfLsimroXiI0KrDj9Pq0+/WcVwaf8PbEu6l87DsYhhmAwUD41YfsEVZx07kHSd3A7oTbCqJBqXIW9YCcQj4V8DEBFhEEsXGWWJXv4duPyT6yZSX1SRJ6M1ELaUbmstAS2FY2loLQpZpkz/oJUCW+Y17H/8uuak9IQgrzc=;/F//CYTDJJ6HygvoYypvAw=="
+secured: "TB9raloAVRJJRQiMZhSqrkBT4Q4vKDBly8YP81eAgTGMt0lQ1r9bSwwdZY+d1ydzFKIbD/hm4Fugie9du3OKJTUxeEMafAfRTKB4GQD6YD6J6t1MdYZifugtBK5ygpzBireBRDsKTVIhjT8/SQaMojxLJC3Ia4uEe+VDQZGzXWnlbCt81oL7RmCaBFsnxCuqlgohKzkYwwxC7OZCMG2By1FqyTnqm3h8oGgx06T3AuAO+Y2wmR+doi61dulx2R2MBkGM/JL2BWo6Y0NcB+uXPHhpSK6XqX1BbruAx7CjjjpRrcoarG8ffGBEhP9mNlBcUfdteobprrADVqG1x1rs/j7rsn6fP7GOQzakJemqjrY=;ELMMB3KArCCse4ttw5v0EA=="
 ---
 

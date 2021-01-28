@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2021/01/27/14-ways-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2021/01/27/14-ways-to-better-leverage-ai-to-connect-with-consumers/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Indian consumers feel AI drives better consumer experiences: Pega survey"
+    excerpt: "Indian consumers were more trusting of new technologies like AI if they see the potential to improve their productivity and make things simpler."
+    publishedDateTime: 2021-01-28T08:45:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/information-tech/indian-consumers-feel-ai-drives-better-consumer-experiences-pega-survey/articleshow/80497146.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/information-tech/indian-consumers-feel-ai-drives-better-consumer-experiences-pega-survey/amp_articleshow/80497146.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/information-tech/indian-consumers-feel-ai-drives-better-consumer-experiences-pega-survey/amp_articleshow/80497146.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 58
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-486248,msid-80497126/artificial-intelligence.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "AI comes of age; consumers prefer to talk to machines than humans: Pega survey"
     excerpt: "Customers in the country seem to prefer to get responses from a machine than interacting with humans. The reason, according to a survey, answers given by an AI-system is backed with voluminous data that it crunches to deliver right responses."
     publishedDateTime: 2021-01-28T04:19:00Z

@@ -73,20 +73,6 @@ related:
         width: 512
         height: 325
         isCached: true
-  - title: "Ooredoo provides managed services for Microsoft Azure"
-    excerpt: "Ooredoo Qatar, a Microsoft Gold-certified partner, has signed a strategic partnership agreement with Wipro Limited, a leading global information technology, consulting, and business process services company"
-    publishedDateTime: 2021-01-23T15:22:00Z
-    webUrl: "https://www.gulf-times.com/story/683086/Ooredoo-provides-managed-services-for-Microsoft-Az"
-    type: article
-    provider:
-      name: Gulf Times
-      domain: gulf-times.com
-    quality: 54
-    images:
-      - url: "https://img.gulf-times.com/Content/Upload/Slider/1202123182151450560941.jpg"
-        width: 620
-        height: 355
-        isCached: true
   - title: "Cruise And GM Team Up With Microsoft To Commercialize Self-Driving Vehicles"
     excerpt: "Cruise and General Motors on Tuesday announced they have entered a long-term strategic relationship with Microsoft to accelerate the commercialization of self-driving vehicles."
     publishedDateTime: 2021-01-25T22:27:00Z

@@ -6,8 +6,8 @@ publishedDateTime: 2021-01-28T05:26:00Z
 originalUrl: "https://www.eweek.com/pc-hardware/artificial-intelligence-takes-center-stage-early-in-2021"
 webUrl: "https://www.eweek.com/pc-hardware/artificial-intelligence-takes-center-stage-early-in-2021"
 type: article
-quality: 69
-heat: 89
+quality: 71
+heat: 91
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.eweek.com/imagesvr_ez/b2bezp/2017/07/IBM.Watson2.JPG?alias=social_image"
@@ -58,6 +59,6 @@ related:
         height: 500
         isCached: true
 
-secured: "GjI6SLej62CLbkTihPnG9oX1D/panf3j1LhvDe4XjOlakwi1xvkCfWXurVumIiBuGFIW8kc8unx02GNmAYGtGsrmwelbqe+jp63q6wOHHLqL5Id95mVf0E3dzbaHPoeIq7sN9eP0lV7wkbDCyvP25/VAF4j/QfkEadnQSJ7kzWxin3pW8Ipsmym9wUDLqjBQ7bcZdChdc87WU4pjdmI3BpAePqY48cjbD6T/sPRONH8RvEMRrgrtcw5K6uBLKeLLi85RovnDypEI6ZPGn8Ht33zC/BO1MFCCtYIscOnBPNYWjn8HiYakB6kDZ8P53b7XL5OhKXBA/NFi/u4zB2+Rvnadr1EweiAMNSoDrCPwG1w=;3krMHPZtj28tA3vIC7KEuQ=="
+secured: "N7XCDLPoF7NKyJtcomCTFXBoK5AVYsS09RP+ZnEfYoPSbfQtFg29LK52zO2RlDywU+b587RTH1auTKiAB3aiN9pkCcDxjHCOm9fz7wgHNKjCzPNvHJ7nPqsw10hCan8LNTNnr3qzw8GToVIVfmwvMXu8mZAyO6fTsQ2dZlYdTEi0tSFo7FDoFPMOSh30TJ3ShztGNJxldGDLDk9lbfY7DDsJB1YQAxGZV3xrOYFeuwjVeVdcZe3Ldfr7jc0KIFPcwkdYC7o+Z0qiwKco1r1iAY+FumZ/J03OEUiVVqGt7OYYWxHI4uuET9lV0W/X3n4WJiSzCI+nWnVr7I6CZvmb/BYS78S4MzCflm3cW9d2XROEqZZkq6YOJHWbcFa7qPk5mW633tCxjgOuY5Uj6u9NzP/Z3GnYJFPL+skT1+JeeBp9brYAd5XWBlW4bpCrb7hYaBigQzalADeUiofl6ospVG59mAVxXnIA3VlShSuL3PdNZCMwMlhkefc6o+lPQf4BkElbcSWlqqKQqXhoos2wjw==;l4BdWZ0JCAGz2xgIy+qIsg=="
 ---
 

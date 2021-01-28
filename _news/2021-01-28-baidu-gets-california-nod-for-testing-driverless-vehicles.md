@@ -29,10 +29,10 @@ images:
 related:
   - title: "Baidu gets California nod for testing empty self-driving cars"
     excerpt: "Baidu Inc has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor Vehicles said on Wednesday."
-    publishedDateTime: 2021-01-27T22:15:00Z
-    webUrl: "https://www.reuters.com/article/baidu-autonomous/update-1-baidu-gets-california-nod-for-testing-empty-self-driving-cars-idUSL4N2K24B6"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL4N2K24B6"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2K24B6"
+    publishedDateTime: 2021-01-28T02:37:00Z
+    webUrl: "https://www.reuters.com/article/us-baidu-autonomous-idUSKBN29W2OT"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29W2OT"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29W2OT"
     type: article
     provider:
       name: Reuters

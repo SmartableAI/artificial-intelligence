@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/asia/south-korea-kim-kwang-seok-a
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/asia/south-korea-kim-kwang-seok-ai-dst-hnk-intl/index.html"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -76,20 +76,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/albanyherald.com/content/tncms/assets/v3/editorial/7/da/7da39f2f-a6b2-5d52-a4ac-07248759135c/600f7b82a3d6b.image.jpg?resize=1120%2C630"
         width: 1120
         height: 630
-        isCached: true
-  - title: "Controversy over AI chatbot in South Korea raises questions about ethics, data collection"
-    excerpt: "Offensive comments and data leaks spark calls for stricter rules and user guidelines.. Read more at straitstimes.com."
-    publishedDateTime: 2021-01-23T16:02:00Z
-    webUrl: "https://www.straitstimes.com/asia/east-asia/controversy-over-ai-chatbot-in-south-korea-raises-questions-about-ethics-data"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 45
-    images:
-      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2021/01/23/ak_ll_2301.jpg?itok=8j6blQ_X"
-        width: 763
-        height: 509
         isCached: true
 
 secured: "wMx6cinxF6k32fA1otFHa4QUhasIUtDba+8aYKmTA8qTDjFmKeE02tSPc5dTc8cl0aAIZprNAlhOGvobjemPVDx1IuOa0Hsp/xOzZWdQz5M0/yoCtzz9D9RUnt4qP0Iz6Cz2h+T2kISm9wPwHSUvA/eqlEJ2s99cGzNuvp0fGfBaTVp3w+FN3biq81Ms+gUeLJJn+cjWT5QPLhLdTQyedhWG6OCkBqW4F7S3QkpZf9Jo+bUNb3nYfmqH5usz0TWkv/41hCF59PXcc89W5Qug59fmZYQuhvkS/DQQcbGUfePSVBOVwovTOaOMgFYFDuW0rANIpp3SPc+5bc1ozTW2M8AaUoRECVCs/VCs9vldP3A=;5H/yL3PWz+C8fvzwhHcs5A=="

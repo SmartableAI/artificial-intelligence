@@ -98,6 +98,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence Market 2020 Segmentation, Statistics, Top Manufacturers, Regional Analysis and Forecast to 2025"
+    excerpt: "The recently distributed report entitled Global Artificial Intelligence Market 2020 by Company, Regions, Type and Application, Forecast to 2025 is well crafted using a combo of significant data related to the market."
+    publishedDateTime: 2021-01-28T08:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-2020-segmentation-statistics-top-manufacturers-regional-analysis-and-forecast-to-2025-2021-01-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Far Field Speech Voice Recognition Market Size, Industry Trends, Leading Players, Share and Forecast 2019-2025"
     excerpt: "The global far field voice and speech recognition market size is expected to grow at a CAGR of 24 56 during the forecast period Long distance speech recognition is an essential technology for voice interaction and aims to enable smart"
     publishedDateTime: 2021-01-25T12:54:00Z

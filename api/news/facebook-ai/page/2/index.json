@@ -2,6 +2,111 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-24-an-ai-reporters-favorite-books-of-2020.md",
+      "title": "An AI reporter’s favorite books of 2020",
+      "excerpt": "Reading The Big Nine also helped deepen my understanding of what could go wrong if companies like Amazon, Facebook ... age of AI. While occasionally drawing on insights from their own research ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/24/an-ai-reporters-favorite-books-of-2020/",
+      "originalUrl": "https://venturebeat.com/2020/12/24/an-ai-reporters-favorite-books-of-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/My-Post-6.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/24/an-ai-reporters-favorite-books-of-2020/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/24/an-ai-reporters-favorite-books-of-2020/amp/",
+      "publishedDateTime": "2020-12-24T07:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-12-24-ai-debate-2-night-of-a-thousand-ai-scholars.md",
+      "title": "AI Debate 2: Night of a thousand AI scholars",
+      "excerpt": "Gary Marcus, a frequent critic of deep learning forms of AI, and Vincent Boucher, president of Montreal.AI, hosted sixteen scholars to discuss what AI needs to move forward, including Daniel Kahneman, Fei-Fei Li, and Judea Pearl.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/ai-debate4-2-night-of-a-thousand-ai-scholars/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/ai-debate4-2-night-of-a-thousand-ai-scholars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/12/23/f053e7cc-79d7-4c08-951d-dd7fc1fc8b58/ai-debate-2-screen-shot-1.jpg",
+          "width": 1898,
+          "height": 1064,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ai-debate4-2-night-of-a-thousand-ai-scholars/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ai-debate4-2-night-of-a-thousand-ai-scholars/",
+      "publishedDateTime": "2020-12-23T15:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-23-from-data-to-knowledge-and-ai-via-graphs-technology-to-support-a-knowledge-based-economy.md",
       "title": "From data to knowledge and AI via graphs: Technology to support a knowledge-based economy",
       "excerpt": "Amazon, Alibaba, Apple, Facebook and Twitter are just some of the organizations using this in production, and advancing the state of the art. More than 25% of the research published in top AI conferences is graph-related. Last but not least, according to ...",
@@ -1392,85 +1497,6 @@
       "provider": {
         "name": "Gulf Business",
         "domain": "gulfbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-artificial-intelligence-machine-learning-what-do-they-mean.md",
-      "title": "Artificial Intelligence & Machine Learning – What Do They Mean?",
-      "excerpt": "There was a time when we heard terms like Artificial Intelligence and Machine Learning only in sci-fi movies. But",
-      "sourceUrl": null,
-      "webUrl": "https://www.business2community.com/business-intelligence/artificial-intelligence-machine-learning-what-do-they-mean-02366102",
-      "originalUrl": "https://www.business2community.com/business-intelligence/artificial-intelligence-machine-learning-what-do-they-mean-02366102",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.business2community.com/wp-content/uploads/2020/11/AI-recommendation-engine.png",
-          "width": 767,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.business2community.com/business-intelligence/artificial-intelligence-machine-learning-what-do-they-mean-02366102/amp",
-      "cdnAmpWebUrl": "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-intelligence/artificial-intelligence-machine-learning-what-do-they-mean-02366102/amp",
-      "publishedDateTime": "2020-11-29T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business 2 Community",
-        "domain": "business2community.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Autos",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-29-nyu-and-facebook-release-database-to-teach-ai-to-read-mri-scans.md",
-      "title": "NYU and Facebook Release Database to Teach AI to Read MRI Scans",
-      "excerpt": "Imaging scans, such as those taken using MRI machines and CT scanners, are hot targets for artificial intelligence research ... of Medicine has partnered with Facebook to make public a giant ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medgadget.com/2018/11/nyu-and-facebook-release-database-to-teach-ai-to-read-mri-scans.html",
-      "originalUrl": "https://www.medgadget.com/2018/11/nyu-and-facebook-release-database-to-teach-ai-to-read-mri-scans.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-28T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medgadget",
-        "domain": "medgadget.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -23,6 +23,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Facebook AI
 
 images:
   - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/zj61obhjlgdtfccbg2gp.jpg"

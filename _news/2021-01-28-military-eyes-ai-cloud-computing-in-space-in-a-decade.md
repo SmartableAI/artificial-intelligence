@@ -8,7 +8,7 @@ webUrl: "https://www.compsmag.com/news/pc/military-eyes-ai-cloud-computing-in-sp
 ampWebUrl: "https://www.compsmag.com/news/pc/military-eyes-ai-cloud-computing-in-space-in-a-decade/amp/"
 cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/military-eyes-ai-cloud-computing-in-space-in-a-decade/amp/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 related:
   - title: "Server Computing: A Data-Intensive Market Propelled by AI"

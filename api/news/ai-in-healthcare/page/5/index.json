@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-11-23-the-5-biggest-healthcare-trends-in-2021-everyone-should-be-ready-for-today.md",
+      "title": "The 5 Biggest Healthcare Trends In 2021 Everyone Should Be Ready For Today",
+      "excerpt": "Healthcare has not only been affected by the global coronavirus pandemic, but has simultaneously experienced an accelerated digital transformation. Here we look at the key healthcare trends for 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/11/23/the-5-biggest-healthcare-trends-in-2021-everyone-should-be-ready-for-today/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2020/11/23/the-5-biggest-healthcare-trends-in-2021-everyone-should-be-ready-for-today/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fbb52f70db22d77b12a69f1%2F0x0.jpg",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/11/23/the-5-biggest-healthcare-trends-in-2021-everyone-should-be-ready-for-today/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/11/23/the-5-biggest-healthcare-trends-in-2021-everyone-should-be-ready-for-today/amp/",
+      "publishedDateTime": "2020-11-22T22:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-22-how-artificial-intelligence-could-save-healthcare.md",
       "title": "How Artificial Intelligence Could Save Healthcare",
       "excerpt": "The problem of high healthcare spending, in other words, is a problem of high labor cost. To solve it, we’ll need to bring in the machines. “Machine learning and artificial intelligence drive a lot more productivity with a smaller number of people and ...",

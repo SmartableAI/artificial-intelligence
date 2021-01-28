@@ -1,26 +1,26 @@
 ---
 category: news
-title: "4Paradigm Defends its Championship in China's Machine Learning Platform Market in the 1st Half of 2020, According to IDC"
-excerpt: "The IDC report recognizes the advantages of 4Paradigm machine learning platform and AutoML products in technological accumulation, enterprise-level product layout, commercial implementation ..."
-publishedDateTime: 2021-01-21T04:28:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/4paradigm-defends-its-championship-in-china-s-machine-learning-platform-market-in-the-1st-half-of-2020-according-to-idc-1029988328"
-webUrl: "https://markets.businessinsider.com/news/stocks/4paradigm-defends-its-championship-in-china-s-machine-learning-platform-market-in-the-1st-half-of-2020-according-to-idc-1029988328"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/4paradigm-defends-its-championship-in-china-s-machine-learning-platform-market-in-the-1st-half-of-2020-according-to-idc-1029988328"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/4paradigm-defends-its-championship-in-china-s-machine-learning-platform-market-in-the-1st-half-of-2020-according-to-idc-1029988328"
+title: "4Paradigm Defends its Championship in China’s Machine Learning Platform Market in the 1st Half of 2020, According to IDC"
+excerpt: "Paradigm stays on a leadership position from 2018 to the first half of 2020. IDC, a premier global provider of market intelligence, has recently published China AI Software and A"
+publishedDateTime: 2021-01-21T05:53:00Z
+originalUrl: "https://apnews.com/press-release/marketersmedia/technology-science-greater-china-asia-china-b0d5c9646db4eb2b19f4cccf4ea99abc"
+webUrl: "https://apnews.com/press-release/marketersmedia/technology-science-greater-china-asia-china-b0d5c9646db4eb2b19f4cccf4ea99abc"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "yC7uP2AA157xKNw9dOoQeqjG4M/7a2+pPPg4KM0r9iRHlUYaZBIMBBiffuD7+NifcDgXG+Qlsq1b5h668Z3FSKWGyRZHuszUrt2YMfx6RwC0KOLhFUs18TxE8o3gs2/4Ifcn/tccfuzEaSOert8Gcp4nlU36zE22kopbIIuVpw4q7iOYaQ43Gqx+fUh5G0ETgv/HUcnPR6Z2cPr4BKWe5V0DHvLT8sa62mJXaBp8kkPbdI7kzGJOc0NGLh8ry+0UE3Lj3DVYZDZnxaj6i5xnGmrUOxbYP2vnA7zu5gawGQjPZDQ6wVM2RkMOrO2RcGAOpJREyHLNUqBpOhxdyLZv+Fme8PzhwfLxOY9LfhkyKoI=;5yWzMKl6ndJgOCdlMcCLIg=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "MUd20l8aJybgyuCOy2gZY8MicAMdlbqAcvbuTvrXP/g1ejN+68KwESA+CjmPVhmbOC2xeFleuGqbcf6tykf3qGAzLDd7hii+U89GnzF+Bty6WMwU4UiYqTDhVWIHTH2oOPpADjERa2/PmUiwgqbU0aAKe56k5lwun3KdbbjVCmTntAXm1shMSPHuKmBotjGCzsYK3R8jK+yDAe/XjblZKi8LriYAKSQ5o2TIiSA91K5aQvvfvhMW+Tq/k+uOMOZ1i3yoeC5wh2yLkeSnWke2cWYfjvRTZQDHHoENsTK4IX/yrnQlxaR5n7ARLPyNudVWrl6unP4koimghn1FGlFOazMIVcKzBZEWMDuTPCLRhYs=;KUavD57sCE9+YLwHGDr99w=="
 ---
 

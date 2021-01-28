@@ -2,6 +2,151 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-01-18-language-ai-is-really-heating-up.md",
+      "title": "Language AI is really heating up",
+      "excerpt": "Any procedure that still requires a human to understand language is now at the verge of being disrupted or automated.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/17/language-ai-is-really-heating-up/",
+      "originalUrl": "https://venturebeat.com/2021/01/17/language-ai-is-really-heating-up/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/artificial_intelligence.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/17/language-ai-is-really-heating-up/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/17/language-ai-is-really-heating-up/amp/",
+      "publishedDateTime": "2021-01-17T10:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-01-18-artificial-intelligence-likely-to-replace-humans-in-cybersecurity-space-by-2030.md",
+      "title": "Artificial Intelligence likely to replace humans in cybersecurity space by 2030",
+      "excerpt": "New Delhi: As Artificial Intelligence (AI) becomes all-pervasive, a new report has forecast that technology would replace humans by 2031 in the field of cybersecurity, as hackers use more sophisticated tools.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freepressjournal.in/technology/artificial-intelligence-likely-to-replace-humans-in-cybersecurity-space-by-2030",
+      "originalUrl": "https://www.freepressjournal.in/technology/artificial-intelligence-likely-to-replace-humans-in-cybersecurity-space-by-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gumlet.assettype.com/freepressjournal/2021-01/3b2dd1c1-ba9f-430b-98c0-bd68bdfa8c0c/etc_lead_jan_17.jpg",
+          "width": 760,
+          "height": 507,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.freepressjournal.in/article/technology/artificial-intelligence-likely-to-replace-humans-in-cybersecurity-space-by-2030/9626ec89-6519-4310-9bc2-bfc07ca58e36",
+      "cdnAmpWebUrl": "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/technology/artificial-intelligence-likely-to-replace-humans-in-cybersecurity-space-by-2030/9626ec89-6519-4310-9bc2-bfc07ca58e36",
+      "publishedDateTime": "2021-01-17T09:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Free Press Journal",
+        "domain": "freepressjournal.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-18-how-data-and-ai-can-help-create-a-mobility-renaissance.md",
+      "title": "How Data And AI Can Help Create A Mobility Renaissance",
+      "excerpt": "Evangelos Simoudis’ latest book Transportation Transformation: How Autonomous Mobility Will Fuel New Value Chains, meticulously presents the case for redefining mobility value chains globally.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2021/01/17/how-data-and-ai-can-help-create-a-mobility-renaissance/",
+      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2021/01/17/how-data-and-ai-can-help-create-a-mobility-renaissance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60045ed8592ed21731f31ce5%2F0x0.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2021/01/17/how-data-and-ai-can-help-create-a-mobility-renaissance/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2021/01/17/how-data-and-ai-can-help-create-a-mobility-renaissance/amp/",
+      "publishedDateTime": "2021-01-17T08:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-17-bidens-inaugural-speech-to-plead-for-comity-in-wake-of-riot.md",
       "title": "Biden’s Inaugural Speech to Plead for Comity in Wake of Riot",
       "excerpt": "“There’s a recognition that things aren’t great right now, but there’s definitely hope that they’re going to get better.” Teper said not to expect the speech to dwell on the past. There’s “no way” Biden would invoke “American carnage ...",
@@ -1056,162 +1201,6 @@
         "images": [
           {
             "url": "/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-the-ai-incident-database-wants-to-improve-the-safety-of-machine-learning.md",
-      "title": "The AI Incident Database wants to improve the safety of machine learning",
-      "excerpt": "The AI Incident Database documents failures of AI systems in the real world, revealing past failures to avoid repeating them.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/15/the-ai-incident-database-wants-to-improve-the-safety-of-machine-learning/",
-      "originalUrl": "https://venturebeat.com/2021/01/15/the-ai-incident-database-wants-to-improve-the-safety-of-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/AI-incident-database.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/15/the-ai-incident-database-wants-to-improve-the-safety-of-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/15/the-ai-incident-database-wants-to-improve-the-safety-of-machine-learning/amp/",
-      "publishedDateTime": "2021-01-15T07:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Facebook AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-three-ways-brands-can-win-the-buy-box-using-search-and-ai.md",
-      "title": "Three Ways Brands Can Win The Buy Box Using Search And AI",
-      "excerpt": "AI makes it possible for these marketplaces to do predictive analysis of massive datasets to understand consumer/shopper behavior. Algorithms power almost every aspect of e-commerce for brands and the consumers they serve: discovery (search),",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/15/three-ways-brands-can-win-the-buy-box-using-search-and-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/15/three-ways-brands-can-win-the-buy-box-using-search-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F107429982%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/15/three-ways-brands-can-win-the-buy-box-using-search-and-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/15/three-ways-brands-can-win-the-buy-box-using-search-and-ai/amp/",
-      "publishedDateTime": "2021-01-15T06:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-a-major-business-breakthrough-in-ai-is-happening-now-do-you-know-about-it.md",
-      "title": "A Major Business Breakthrough In AI Is Happening Now -- Do You Know About It?",
-      "excerpt": "Almost every business in the world will be transformed by the use of artificial intelligence (AI) and machine learning (ML) technology. However, to non-data-scientist business and IT leaders, ML is often a black box that is hard to understand and manage,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/15/a-major-business-breakthrough-in-ai-is-happening-nowdo-you-know-about-it/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/15/a-major-business-breakthrough-in-ai-is-happening-nowdo-you-know-about-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6000aee8fcea373dc9e83566%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/15/a-major-business-breakthrough-in-ai-is-happening-nowdo-you-know-about-it/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/15/a-major-business-breakthrough-in-ai-is-happening-nowdo-you-know-about-it/amp/",
-      "publishedDateTime": "2021-01-15T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

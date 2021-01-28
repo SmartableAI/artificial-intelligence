@@ -2,11 +2,11 @@
 category: news
 title: "Baidu gets California nod for testing empty self-driving cars"
 excerpt: "Baidu Inc has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor Vehicles said on Wednesday."
-publishedDateTime: 2021-01-27T22:15:00Z
-originalUrl: "https://www.reuters.com/article/baidu-autonomous/update-1-baidu-gets-california-nod-for-testing-empty-self-driving-cars-idUSL4N2K24B6"
-webUrl: "https://www.reuters.com/article/baidu-autonomous/update-1-baidu-gets-california-nod-for-testing-empty-self-driving-cars-idUSL4N2K24B6"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL4N2K24B6"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2K24B6"
+publishedDateTime: 2021-01-28T02:37:00Z
+originalUrl: "https://www.reuters.com/article/us-baidu-autonomous-idUSKBN29W2OT"
+webUrl: "https://www.reuters.com/article/us-baidu-autonomous-idUSKBN29W2OT"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29W2OT"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29W2OT"
 type: article
 quality: 89
 heat: 139
@@ -104,6 +104,6 @@ related:
         height: 480
         isCached: true
 
-secured: "hemqlcdc/SDsy1Im89Qj07YeAfpakdp9XkMyg2EjEk//WSb4ioTckXJJWzSFwHO5JKc29iij9Lvnja4NY/nngz6LP9D7mr2R7uRWrQ8lzPcaRh7gAIAC1cT9sQO4eymX3/7P3umyZtuUEnoRRJZ3CDSudugPWt7AkyO82XcABlQDpGz3Cah+M8GVz6l4L5o1NgkNjn6WDczFwnAmjJhP8Bint+WMYJajGGxjgbXmfKWhSM2g+MpZnfjjw2XtXqZ42PONezBlrxRgycruPq85AAGdniawYKoM6ZCzBVRBFlDxGEnzKbU/mwzH3tPv63aNfGMCHz9jbg9fJarkhUf2aAWxLgKyzwlBGcoQ2/8TNWYbGM1OyaY3DMw5klfSEYpHjbdS91oW03SXstJ3STYWFjyzn2pKAg6jk5OmIfnOaUDLxNCXhd9kC4fo+XYlDPHixul3C8k1mwjLqe2VKQgrDkrj/RthpHgvE1IhMfikENOCqXPpC1OaoTDkrksvmzSfZPj3OwtpRLnduaZ+kP8Hsg==;dR6XPt5o0PSSiX+HQnTgyA=="
+secured: "DalYMqYjMlk0mqYhX8qE6K22ds4JXhkZahUByQ0ynPlmlSnCSspOpvxRej4f9nYfdD2KPNlvCP5xtC4XJ7P4HlR1k+yzHIjwP0B25Lwhowdu3sxN4bfEqcEf+f9rnszuzarNThSV04shm66eS+XfsDYs8nKSn3PmhZ1nZ+uxLaPI2ipiPaCRDBWJ0j+1U2+t8mV6n58alJvFppol/4b3f6k1cQlmCp13BkH4oKQB0kXAN+U1Ok1Kqg6wlMjG/h1S8x007nnwISDnWHyNBGYfYEIIVHcug2oTfnqivk1uaEdULjNmMEZBDcd9N4xtyE1fvQOex/5R0/Ik4RmZ6aRGht820x9TNee2JHXma/QJjqI=;hWJQUKCroRB6QuI4OMQD/A=="
 ---
 

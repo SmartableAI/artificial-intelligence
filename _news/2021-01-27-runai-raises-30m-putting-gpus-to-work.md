@@ -81,6 +81,15 @@ related:
         width: 1500
         height: 842
         isCached: true
+  - title: "MedAI Launches Artificial Intelligence Drug Discovery (AIDD) Platform to Accelerate Drug Development"
+    excerpt: "To accelerate drug development, MedAI, an expert of AI-assisted R&D research company, announces that it has completed the construction of its Artificial Intelligence Drug Discovery (AIDD) Platform. With this platform,"
+    publishedDateTime: 2021-01-27T00:00:00Z
+    webUrl: "https://www.bio-itworld.com/pressreleases/2021/01/27/medai-launches-artificial-intelligence-drug-discovery-(aidd)-platform-to-accelerate-drug-development"
+    type: article
+    provider:
+      name: Bio IT World
+      domain: bio-itworld.com
+    quality: 19
   - title: "Edge AI company AlphaICs raises $8 million in funding round led by Emerald Technology Ventures and Endiya Partners"
     excerpt: "AlphaICs, the leading edge AI technology company from Milpitas, CA and Bangalore, India, announced today that it has secured $8 million funding."
     publishedDateTime: 2021-01-26T15:25:00Z

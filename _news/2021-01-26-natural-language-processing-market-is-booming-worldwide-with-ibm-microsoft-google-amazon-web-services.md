@@ -61,20 +61,6 @@ related:
         width: 512
         height: 325
         isCached: true
-  - title: "Ooredoo provides managed services for Microsoft Azure"
-    excerpt: "Ooredoo Qatar, a Microsoft Gold-certified partner, has signed a strategic partnership agreement with Wipro Limited, a leading global information technology, consulting, and business process services company"
-    publishedDateTime: 2021-01-23T15:22:00Z
-    webUrl: "https://www.gulf-times.com/story/683086/Ooredoo-provides-managed-services-for-Microsoft-Az"
-    type: article
-    provider:
-      name: Gulf Times
-      domain: gulf-times.com
-    quality: 54
-    images:
-      - url: "https://img.gulf-times.com/Content/Upload/Slider/1202123182151450560941.jpg"
-        width: 620
-        height: 355
-        isCached: true
   - title: "Microsoft to integrate Teams across SAP solutions"
     excerpt: "Enterprise application software provider SAP and Microsoft have announced to integrate video conference and collaboration platform Teams with SAPs intelligent suite of solutions. The companies also expanded an existing partnership to accelerate the adoption of SAP S/4HANA on Microsoft Azure."
     publishedDateTime: 2021-01-24T05:49:00Z

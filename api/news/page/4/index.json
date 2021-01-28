@@ -2,6 +2,111 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-26-snap-acquired-ariel-ai-a-computer-vision-startup-set-up-by-ex-facebook-and-google-scientists.md",
+      "title": "Snap acquired Ariel AI, a computer vision startup set up by ex-Facebook and Google scientists",
+      "excerpt": "Two of Ariel AI's three cofounders worked at Facebook and Google as research scientists.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/snap-acquires-ariel-ai-computer-vision-skills-2021-1",
+      "originalUrl": "https://www.businessinsider.com/snap-acquires-ariel-ai-computer-vision-skills-2021-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/600f068b4827e700188a1325?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-25T18:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-south-korea-has-used-ai-to-bring-a-dead-superstars-voice-back-to-the-stage-but-ethical-concerns-abound.md",
+      "title": "South Korea has used AI to bring a dead superstar's voice back to the stage, but ethical concerns abound",
+      "excerpt": "Recent AI performances have excited fans of their music and the technology, but others have raised concerns about the ethics and legalities of resurrecting the voices of the dead.",
+      "sourceUrl": null,
+      "webUrl": "https://edition.cnn.com/2021/01/25/asia/south-korea-kim-kwang-seok-ai-dst-hnk-intl/index.html",
+      "originalUrl": "https://edition.cnn.com/2021/01/25/asia/south-korea-kim-kwang-seok-ai-dst-hnk-intl/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210122002517-03-ai-singing-show-south-korea-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/25/asia/south-korea-kim-kwang-seok-ai-dst-hnk-intl/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/asia/south-korea-kim-kwang-seok-ai-dst-hnk-intl/index.html",
+      "publishedDateTime": "2021-01-25T18:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-computer-vision-in-healthcare-market-outlook-by-industry-size-share-revenue-regions-and-top-key-players-analysis.md",
       "title": "Computer Vision in Healthcare Market Outlook By Industry Size, Share, Revenue, Regions and Top Key Players Analysis",
       "excerpt": "Computer Vision in Healthcare Market Outlook and Forecasts By Top Manufacturers, Production, Consumption, Trade Statistics,Size, Analysis ,Growth Analysis & Regional Analysis (Latin America, North America,",
@@ -10,7 +115,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-outlook-by-industry-size-share-revenue-regions-and-top-key-players-analysis-2021-01-25",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -212,11 +317,11 @@
       "title": "Gartner: The future of AI is not as rosy as some might think",
       "excerpt": "A Gartner report predicts that the second-order consequences of widespread AI will have massive societal impacts, to the point of making us unsure if and when we can trust our own eyes.",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/gartner-the-future-of-ai-is-not-as-rosy-as-some-might-think/",
-      "originalUrl": "https://www.techrepublic.com/article/gartner-the-future-of-ai-is-not-as-rosy-as-some-might-think/",
+      "webUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/gartner-the-future-of-ai-is-not-as-rosy-as-some-might-think/",
+      "originalUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/gartner-the-future-of-ai-is-not-as-rosy-as-some-might-think/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -230,8 +335,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/gartner-the-future-of-ai-is-not-as-rosy-as-some-might-think/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/gartner-the-future-of-ai-is-not-as-rosy-as-some-might-think/",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/gartner-the-future-of-ai-is-not-as-rosy-as-some-might-think/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/gartner-the-future-of-ai-is-not-as-rosy-as-some-might-think/",
       "publishedDateTime": "2021-01-25T12:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -255,7 +360,6 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
         "AI"
       ]
     },
@@ -373,7 +477,7 @@
       "originalUrl": "https://www.itpro.co.uk/cloud/microsoft-azure/358422/microsofts-new-vision-language-model-outranks-humans-at-image",
       "featuredContent": null,
       "highlight": null,
-      "heat": 148,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -1159,109 +1263,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-hyundai-dal-e-ai-powered-robot-provides-automated-customer-service.md",
-      "title": "Hyundai DAL-e AI-powered robot provides automated customer service",
-      "excerpt": "Automaker Hyundai has a new employee working in one of its showrooms in Seoul, Korea. The employee is an AI-powered automated robot called DAL-e that provides customer services at the showroom.",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/hyundai-dal-e-ai-powered-robot-provides-automated-customer-service-25656524/",
-      "originalUrl": "https://www.slashgear.com/hyundai-dal-e-ai-powered-robot-provides-automated-customer-service-25656524/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 204,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/01/kia-robot-1.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/hyundai-dal-e-ai-powered-robot-provides-automated-customer-service-25656524/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/hyundai-dal-e-ai-powered-robot-provides-automated-customer-service-25656524/amp/",
-      "publishedDateTime": "2021-01-25T05:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-from-zero-to-mach-2-in-months-how-hpc-in-the-cloud-helped-startup-sensatek-land-an-air-force-contract.md",
-      "title": "From Zero To Mach 2 In Months, How HPC In The Cloud Helped Startup Sensatek Land An Air Force Contract",
-      "excerpt": "Sensatek, in need of high-performance computing, turned to Rescale, whose platform mixes and matches HPC resources from the major cloud providers, taking the research – and guesswork – out of picking the right high-performance computing cluster.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/craigsmith/2021/01/25/from-zero-to-mach-2-in-months-how-hpc-in-the-cloud-helped-startup-sensatek-land-an-air-force-contract/",
-      "originalUrl": "https://www.forbes.com/sites/craigsmith/2021/01/25/from-zero-to-mach-2-in-months-how-hpc-in-the-cloud-helped-startup-sensatek-land-an-air-force-contract/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600c9e565b22606620120b09%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3024%26cropY1%3D875%26cropY2%3D3143",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/craigsmith/2021/01/25/from-zero-to-mach-2-in-months-how-hpc-in-the-cloud-helped-startup-sensatek-land-an-air-force-contract/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/craigsmith/2021/01/25/from-zero-to-mach-2-in-months-how-hpc-in-the-cloud-helped-startup-sensatek-land-an-air-force-contract/amp/",
-      "publishedDateTime": "2021-01-25T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
