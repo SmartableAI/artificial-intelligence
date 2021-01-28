@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/01/27/ai-ethics-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/27/ai-ethics-really-come-down-to-security/amp/"
 type: article
 quality: 123
-heat: 123
+heat: 133
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     width: 1200
     height: 943
     isCached: true
+
+related:
+  - title: "Sharing Our AI Ethics Framework"
+    excerpt: "Artificial intelligence (AI) is one of the biggest technology revolutions of our time. In the same way we have electrified factories and machines in the past century, we will infuse AI into every software and system in the 21st century."
+    publishedDateTime: 2021-01-28T17:33:00Z
+    webUrl: "https://www.linkedin.com/pulse/sharing-our-ai-ethics-framework-arvind-krishna"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGeIX1PljlFNA/article-cover_image-shrink_720_1280/0/1611841497895?e=1617235200&v=beta&t=RJ41BRX2JUtyajpy73NuqQidprD_u1fFhCDFbU5-tIg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "JsvecsLjKbK0qEBGd02Rmh0HqasqwskIbimOnEYzznH3CHD4JrZO910jD3RRMP8QHi+VbFHfYT6ZppLrVinrq+yWUPUL+fWQcEAykuiysK0jQHI1SCIM8qd2+OVNx3y3nXiZ0f3JyEaX/Zfaqqc4MdtoR+7DK5bOCTMz7EHTOym//T01VxsH4C3r3biCAcg5yQa9HGkJKoYoQj5oXpxFb/cFLb51Dl43FcHmLvX2VRqanpE22bbRtS+Z6K1vNNXoTdGczgL9M19tmEG8M9Qp4NS3cJro70UiT2gYLnnmhHJOLLrSKNjamXRnDPrlT2R5NSFlaM/Jl7ZzUgGxfqmgYblctS14rfAdONPc/qdsYy9RcJOCRTLwR5ryTLoTQo2HH/vLePHzb0752Tzrdgdv1GPkYOTGVeIEPQqrT6SyePPIEmjidyQhugrGVATy7pDsm0hTM3Nh27w3vYiRLkJTyC6XIGvdd/5hqh5Oh1uAmtCgzdgZQz21pPvCsrjtmdfc37wbid2LaZ3TH4cAy+bWlQ==;K7/Z4NjdsUQFeNy3s6jCwA=="
 ---

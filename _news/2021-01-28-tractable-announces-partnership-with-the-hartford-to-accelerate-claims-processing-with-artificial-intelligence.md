@@ -40,6 +40,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Tractable announces partnership with The Hartford to accelerate claims processing with artificial intelligence"
+    excerpt: "The Hartford, a leading US property and casualty insurer, is using an AI solution to analyze auto damage within its auto insurance claims operations in the US, accelerating how quickly claims can be processed for its customers."
+    publishedDateTime: 2021-01-28T17:00:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-lifestyle-business-insurance-industry-automobiles-1fc33a0cfa4ade8013f90f2bc2c05a87"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 32
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "1+S/Q/5EPGL2rBJX6L/bkWPxTi1HuqoFfUaR2S35UHJtU8Eojrkuc7/TAqhXv5W1T5CDVfIViRqWwX1VhjSOcvOnpN1WA7qngZCnBoVsRFrUxa0wGuQuwFLlvzzmjF6g+gnohc8T1CM0eo4VGaKIyk1KDumEv7pMfbmLslfsCsTL7K3cN/jDeAYgm/4ZkZSUieen5B8xx4k+WmpLYVZDMNEWQndRFZqttHMakMfzZ9fwbe/TcHWzVNbTQjOI4NGOC8ETdF2eFXUUKDZ3P55oxwXEjbZ7jZ/xPXfiSH9/R+gABLtFf7HXqxJtsroEWruJ0+B3PGWT29qx5uvbPp5qyaOjB6DNmcQOV4Eok8eE0po=;CiNfm8IyZ1+ir8Cazbn5ew=="
 ---

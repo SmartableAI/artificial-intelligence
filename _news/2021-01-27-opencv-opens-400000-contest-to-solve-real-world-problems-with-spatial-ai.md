@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/01/26/opencv-opens-400000-contest-to-solve
 ampWebUrl: "https://venturebeat.com/2021/01/26/opencv-opens-400000-contest-to-solve-real-world-problems-with-spatial-ai/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/26/opencv-opens-400000-contest-to-solve-real-world-problems-with-spatial-ai/amp/"
 type: article
-quality: 87
-heat: 98
+quality: 89
+heat: 100
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Google AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/01/opencvai.jpg?w=1200&strip=all"
@@ -48,6 +49,6 @@ related:
         height: 600
         isCached: true
 
-secured: "rY7RgzkesK7PlHicBuvMZ7NawJXJFOVgQs35yyTItpDNVAtFg3pxuw7+Ee3I6DOtEoxNtq+Aphh61LDeTjdX/yanzzrIcpoEAksZ6jQFcLzKmUsL3A1yWFginrOrIcBmgE+2AX5WCY7iw4vBniTfVAfCBjGTcbtcQV+U7/NkSMCJm4l6WsQIP/2bgYURisLculDxGBCE0vh9riDIkuxuQ6eNTBI/CIexE4AgbVwQt9TUa51/FgTsNZImQF2U6bNNgGhp97zh07VkiqNG4LnMLp7d07TAZzr+k5VIQHlC9dzjPrAJj+36o7UZvbzeQrk9kHm/RnjGi4z5LGIh4Wi+BXoTeCCNHHYioBwKCUQZErY=;ogYia2cS+vKsc0xWBoE1qg=="
+secured: "lp/pUh5ldfTt+dCJXMIGoGxq2v7bMeF76WxPyy8tjSHf7+XW6BD/Jil/LoskYp9+KaP9FIkio3pl/DOGG19yMJp3YzWaYswZAZFdAJei3nExzAczMH+QdPknocIj9kwvc7PIXoNTdHEjNfgu9F6HvyodZPexnrRURPtinCUTz++/6YY0r78ZurAbXq4wC8It3TCfBeBCymPq/N2hGF4fnC9KGDAXuzVAfl6J9aEyfAS73WlNmgzzreBu4CnOKaLlYuT4J8tJsbPnn90x0qA7sspD2NBJBcCJ9IPYFw6jGKY8f7ULfJ1KfcU7CSIM/Z3J/sMB0cFT9tp+PlxtF6i8c3lIYDQkfeRjkPjEVVZc7MHBfHheg6xqNS+Youd1ElB2TVK6qc5yMRxvCcIEtjrKmQgbxUpnDuutNkZNhTS7nxmSWixxd4e1CFWEREFhy9QgbkqKoNgzAmuhKOb9vypIILvq7Hkyu4q4owO0UOZ65JS/rKUBmeCuBARIfkKbYSyyAUZkvtLIcyX6z4g+It1mDA==;iLB5hetwNvFuM+6WPIN5Kg=="
 ---
 

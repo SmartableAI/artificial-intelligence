@@ -32,6 +32,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 69
+  - title: "Council of Europe warns against biometrics-based emotion recognition"
+    excerpt: "Face biometrics should not be used to implement evaluations of employees based on emotion recognition, The Council of Europe has warned."
+    publishedDateTime: 2021-01-28T18:34:00Z
+    webUrl: "https://www.biometricupdate.com/202101/council-of-europe-warns-against-biometrics-based-emotion-recognition"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
+        width: 730
+        height: 499
+        isCached: true
 
 secured: "YpXZsIqN9uXppPyDO/ubt+KrNmGgY/zex2Nk0tQSc7gsiE9vupcldzlkdnMxs5WLwRljLsngsga9E6PGOo+9iAMKibPET+3qRCoIDHVo7b1yTI+MvwARn8RrtGTRHzJ1064S7CY+bigMKjTCeZvBwD40sItseGktFtp4A40qGnvo53tRIuMaVLq0oNk3ajmV55CG8j7vsBJwloPQIVFSMzreEBk5uiqyH55/8ftCgeeOmJTwOBYPbgGa93IGaTHJUfhcMa6KdXNPkEwjb0OoPTDu2dmolL+jDsVH4RL3HJLSI8waLCGlMho0INBtsjFy6gS2km/PGOsj0obSchOablsjuNpVuiO4gtrp/GKXIl0=;WwOMiHD92EDuRqKUnBbsoQ=="
 ---

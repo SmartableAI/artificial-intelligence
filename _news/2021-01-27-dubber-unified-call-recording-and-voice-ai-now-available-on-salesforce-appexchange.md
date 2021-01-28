@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/pr-newswire/0dc09dbbf46cdfee4406f
 webUrl: "https://apnews.com/press-release/pr-newswire/0dc09dbbf46cdfee4406fa54d8c8ddc5"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 700
     height: 450
     isCached: true
-
-related:
-  - title: "The AI Incident Database Aims to Make AI Algorithms Safer"
-    excerpt: "Any sufficiently large system will have errors, and part of correcting for these errors is having a database of these errors that can be analyzed for impacts and potential causes. Much like the FDA maintains a database for adverse medication reactions or the National Transportation Safety Board maintains a database for aviation accidents,"
-    publishedDateTime: 2021-01-26T22:30:00Z
-    webUrl: "https://www.unite.ai/the-ai-incident-database-aims-to-make-ai-algorithms-safer/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 41
-    images:
-      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.f8AX~1c8f3/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2021/01/AIID.png"
-        width: 1000
-        height: 600
-        isCached: true
 
 secured: "eemHxreatRPe9CH/wF9Zv0DepXU3DJuWWdS1n06jB/qee2IVHRDk3BqJFvPG6nSFkqZoHjIv67rfxyZigEsHKa0iR3ltqZEBfF0TpWxjyErlxqV1b017qt25RsDx66XoApTs1dRVGscq8r4BCoaLRt8x0Xez9o5udf4IUhYxq+f8XqbvONTRsXzS54aj1ZnNNzOnVjNatxMRvaTWumrDrUDKpWwqLIcNcLWc2uM+50wF6chPIAPy8HNPu9xi9x6hWDnYd7vQpGdt0wnWeCVJvdOUiTZ6W3tc83hf28KPPIOcXGvzagftCo9f4zZy0cVaCEu1dCoQzKsHz94vnIjSspeigOxUUxeMxyyGalXMxks=;5Pvt50SBdCbvE/1NYMPkdw=="
 ---

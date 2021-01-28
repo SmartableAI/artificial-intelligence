@@ -7,7 +7,7 @@ originalUrl: "https://www.unite.ai/the-ai-incident-database-aims-to-make-ai-algo
 webUrl: "https://www.unite.ai/the-ai-incident-database-aims-to-make-ai-algorithms-safer/"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,35 @@ images:
     isCached: true
 
 related:
-  - title: "Dubber Unified Call Recording and Voice AI now available on Salesforce AppExchange"
-    excerpt: "Innovative solution enables Salesforce users to compliantly capture calls from mobile, Unified Communications and traditional phones and automagically present recordings, call data and AI-enriched insights in Salesforce Reduces sales administration and improves the quality of customer interactions via Dubber’s powerful AI analytics Proactively manage customer accounts with customised notifications capable of alerting stakeholders of the use of keywords and phrases MELBOURNE,"
-    publishedDateTime: 2021-01-27T00:03:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/0dc09dbbf46cdfee4406fa54d8c8ddc5"
+  - title: "Pentagon aims to spread artificial intelligence services"
+    excerpt: "After spending the past few years demonstrating how artificial intelligence tools can boost U.S. military efforts, the office responsible for overseeing such programs at the Defense Department is shifting its focus to helping military services and agencies figure out how to incorporate the technologies in their systems."
+    publishedDateTime: 2021-01-28T17:06:00Z
+    webUrl: "https://www.gctelegram.com/story/news/2021/01/28/pentagon-aims-spread-artificial-intelligence-services/4293251001/"
+    ampWebUrl: "https://amp.gctelegram.com/amp/4293251001"
+    cdnAmpWebUrl: "https://amp-gctelegram-com.cdn.ampproject.org/c/s/amp.gctelegram.com/amp/4293251001"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 31
+      name: The Garden City Telegram
+      domain: gctelegram.com
+    quality: 72
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.gannett-cdn.com/presto/2021/01/28/NGCT/7388f80f-e5cb-4f68-b53e-584f40786f1d-MILITARY_TECH.jpg?auto=webp&crop=2499,1406,x0,y126&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Sync and AI Keys to a Successful Program"
+    excerpt: "From early adopter to veteran user of the technologies, Lynn Brewer believes AI and synchronization pay their way in commercial cattle operations."
+    publishedDateTime: 2021-01-25T20:25:00Z
+    webUrl: "https://www.dtnpf.com/agriculture/web/ag/livestock/article/2021/01/25/sync-ai-keys-successful-program"
+    type: article
+    provider:
+      name: dtnpf.com
+      domain: dtnpf.com
+    quality: 37
+    images:
+      - url: "https://www.dtnpf.com/mydtn-public-core-portlet/servlet/GetStoredImage?category=CMS&symbolicName=synchai-by-becky-mills.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "E0P5bKMOmR0b2PqNgEUxhFU+vE6rINxaCl2YSWEQHZ9nA4RyTIoIbiqlY/MnQBXSJADng5bZ/e/LTW6RsTshYLf6i2Y373MRhmW8nSYUTiZXPVoWKA9YgVa6+CAfF4O9khPmDWgfmHnbf27jYlvl+sDgp/dtinPCOszGK+uU9hgmhAmmSPLrteeQ/jp8p427wHm4km3Ll5q0J5yLxD1QrfVGHfTXjh6hYMsNhjkCTx8R97YP5KIYMyGE4RHtAKVQG20CnAyIVjlglLETJYCwlCo5+UvQvhhx/Zea+sWHfOf10QxxU6q6oBx3kwUtLJ18hqXiaSygFoawhhKoIj0SAq3x2LRQvMMDt9JW3Dcqxj0=;k2/pjjUDcoJlLC9vb/PrbA=="

@@ -2,6 +2,103 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-13-fda-releases-artificial-intelligencemachine-learning-action-plan.md",
+      "title": "FDA Releases Artificial Intelligence/Machine Learning Action Plan",
+      "excerpt": "Today, the U.S. Food and Drug Administration released the agency’s first Artificial Intelligence/Machine Learning (AI/ML)-Based Software as a Medical Device (SaMD) Action Plan. This action plan describes a multi-pronged approach to advance the Agency’s oversight of AI/ML-based medical software.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-medical-devices-health-care-it-services-government-regulations-9f8625b1abf64126683b061f486c043c",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-medical-devices-health-care-it-services-government-regulations-9f8625b1abf64126683b061f486c043c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-12T22:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-service-robotics-market-top-trends-accentuating-size-by-2024.md",
+      "title": "Service Robotics Market Top Trends Accentuating, Size by 2024",
+      "excerpt": "The service robotics market is expected to grow at a substantial rate driven by the system's high efficiency, reliability and convenience as compared to conventional labor. Integration of artificial intelligence (AI) and proliferation of IoT is bringing key transformations in the market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/service-robotics-market-top-trends-accentuating-size-by-2024-2021-01-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/service-robotics-market-top-trends-accentuating-size-by-2024-2021-01-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-12T15:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-01-13-online-therapy-provider-talkspace-seeks-spac-deal-what-investors-should-know.md",
       "title": "Online Therapy Provider Talkspace Seeks SPAC Deal: What Investors Should Know",
       "excerpt": "The company uses machine learning and artificial intelligence to analyze therapy sessions and detect trends in a patient’s behavior, which can lead to better treatment options. Talkspace has a ...",
@@ -1333,93 +1430,6 @@
         "AI",
         "AI in Healthcare",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-computer-vision-in-healthcare-market-research-methodology-industry-outlook-technology-overview-and-key-players.md",
-      "title": "Computer Vision in Healthcare Market Research Methodology, Industry Outlook, Technology Overview and Key Players",
-      "excerpt": "Market Research Engine is a global market research and consulting organization. We provide market intelligence in emerging, niche technologies and markets. Our market analysis powered by rigorous ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-research-methodology-industry-outlook-technology-overview-and-key-players-2020-12-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-research-methodology-industry-outlook-technology-overview-and-key-players-2020-12-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-20T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-acryl-launches-advanced-integrated-ai-artificial-intelligence-service-platform-jonathan.md",
-      "title": "Acryl Launches Advanced Integrated AI (Artificial Intelligence) Service Platform, Jonathan®",
-      "excerpt": "Acryl, Inc., a leading AI (artificial intelligence) technology company, unveils a pilot service for Jonathan®, an integrated AI platform that can be used in a variety of industries with a spectrum of users from non-experts to professional developers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201218005063/en/Acryl-Launches-Advanced-Integrated-AI-Artificial-Intelligence-Service-Platform-Jonathan®",
-      "originalUrl": "https://www.businesswire.com/news/home/20201218005063/en/Acryl-Launches-Advanced-Integrated-AI-Artificial-Intelligence-Service-Platform-Jonathan®",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-18T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

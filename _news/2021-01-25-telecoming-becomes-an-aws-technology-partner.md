@@ -7,7 +7,7 @@ originalUrl: "https://www.lelezard.com/en/news-19613458.html"
 webUrl: "https://www.lelezard.com/en/news-19613458.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,34 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "15 Biggest Companies That Use AWS"
-    excerpt: "Amazon (NASDAQ: AMZN) is a multinational technology company based in USA. It is known for its state of the art e-commerce, digital streaming, cloud"
-    publishedDateTime: 2021-01-24T02:06:00Z
-    webUrl: "https://www.insidermonkey.com/blog/15-biggest-companies-that-use-aws-915758/"
+  - title: "Telstra, AWS partner on edge computing services"
+    excerpt: "Australian operator Telstra has signed an agreement with Amazon Web Services to explore differentiated multi-access network edge computing. Telstra says the major focus in this partnership is exploring the integration of Amazon Web Services' edge compute services into its multi-access network,"
+    publishedDateTime: 2021-01-27T06:46:00Z
+    webUrl: "https://www.telecompaper.com/news/telstra-aws-partner-on-edge-computing-services--1370064"
     type: article
     provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
-    quality: 39
-    images:
-      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2015/05/shutterstock_261115979.jpg"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "AWS Channel Chief: Pandemic Underscores Limits Of Companies’ Data Centers, Value Of Cloud Computing"
-    excerpt: "The coronavirus pandemic underscored the limitations of companies running their entire IT operations on premises and forced them to more quickly move to the public cloud, according to AWS channel chie"
-    publishedDateTime: 2021-01-27T19:19:00Z
-    webUrl: "https://www.crn.com/news/cloud/aws-channel-chief-pandemic-underscores-limits-of-companies-data-centers-value-of-cloud-computing"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 25
-    images:
-      - url: "https://www.crn.com/resources/0264-10ff14a2cf2e-7335903c5551-1000/doug-yeum-amazon.jpg"
-        width: 609
-        height: 455
-        isCached: true
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
 
 secured: "+nRRg4rUybO5CYO5Ug2Q3UqAM6prB/bb4QzovLXiXYSc5IiUPgZQ32hl656iqq82tr5aC/19cZZn83wOeSeh4y/QbicKTiscB2eEJIHhSCAa7cwNymQOXAXgH7f2Lu1t22HlTM5O0JEJmdcb0dsUZaLiBZ0G9LNshwxMLUnA/d2IZPvyyYaKBsEv2gHZIta6eaREp0auEG7hFQK7TOHYZIsX9xtsSMf4EsHX5onfd/l9heclvYeYvGPibL+kDQ6eVDt7BeSQdYxAkGvA2+MSxkEQ9rSYga9YEUY1NT9SDzVCx+m3Fa8sAreUvDflrw9VHtjvfClDuVsB+RtZwEbDyLVm3jdMxxJ31PCcMRtp7QM=;U5XDiYJaa3UcdlAjW/Mmfg=="
 ---

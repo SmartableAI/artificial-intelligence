@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/part-1-end-to-end-so
 webUrl: "https://aws.amazon.com/blogs/machine-learning/part-1-end-to-end-solution-building-your-own-brand-detection-and-visibility-using-amazon-sagemaker-ground-truth-and-amazon-rekognition-custom-labels/"
 type: article
 quality: 81
-heat: 81
-published: true
+heat: -1
+published: false
 
 provider:
   name: AWS
@@ -28,6 +28,22 @@ images:
     width: 640
     height: 356
     isCached: true
+
+related:
+  - title: "Understanding the key capabilities of Amazon SageMaker Feature Store"
+    excerpt: "One of the challenging parts of machine learning (ML) is feature engineering, the process of transforming data to create features for ML. Features are processed data signals used for training ML models and for deployed models to make accurate predictions. Data scientists and ML engineers can spend up"
+    publishedDateTime: 2021-01-28T18:52:50Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/understanding-the-key-capabilities-of-amazon-sagemaker-feature-store/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/01/08/ML-2183-1.jpg"
+        width: 800
+        height: 471
+        isCached: true
 
 secured: "uzivEzXul+aAtOUxK8Sy2QXuunASFEoTXe3L3g7djEkgcs9s+kJ8L1nrsqIAbJT51DmPbvt2yVIYidmuYSg/f0ampKaj3wmM8EmVO5drg4LPbHwKZNMeHeXGB7zzKlFeFkmTvA161VADd4rsXM8iInvbCqds4au9FWnKUGao3DFPydeR9QUWUm1+mntIJSK/d5uIp8IlKKTiwWel1XCwfTMCrexW0cVYf806zY04eqzd50Bl3tiGnUlKCcBs+YekLoY5aoG2k4uD7rUFnhctR+3oKc4IwnvOEo2hQZ1o3MLaKr1/9V10OzpOqydJCPV8U9qHSkhujjBLKNpcdTkGrg5BjzshEAjEZJU0LshxiZ4=;nXEipiJ3Tf9lRUc+bGoLgA=="
 ---

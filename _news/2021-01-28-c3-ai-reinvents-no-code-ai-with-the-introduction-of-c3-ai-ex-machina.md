@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Khoros Advances CX Leadership with Acquisition of AI & Machine Learning Leader Flow.ai"
-    excerpt: "Khoros, a global leader in digital-first customer engagement software, today announced that it has acquired Flow.ai, an innovative conversational AI platform for designing and managing chatbots. Adding Flow."
-    publishedDateTime: 2021-01-28T16:22:00Z
-    webUrl: "https://www.lelezard.com/en/news-19623009.html"
+  - title: "SD Times news digest: Project management provider Clubhouse raises $25 million, C3 AI Ex Machina, and GitLab’s new subscription model"
+    excerpt: "Clubhouse announces new funding to lead the project management space, C3 provides no-code AI capabilities, and GitLab to phase out Bronze/Starter tier"
+    publishedDateTime: 2021-01-28T16:02:00Z
+    webUrl: "https://sdtimes.com/softwaredev/sd-times-news-digest-project-management-provider-clubhouse-raises-25-million-c3-ai-ex-machina-and-gitlabs-new-subscription-model/"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 48
+      name: SD Times
+      domain: sdtimes.com
+    quality: 38
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://sdtimes.com/wp-content/uploads/2021/01/Screen-Shot-2021-01-28-at-10.42.51-AM.png"
+        width: 706
+        height: 506
         isCached: true
 
 secured: "jb3BdnNPziUdqw0u+mX8vwVsYLBILNd2mQMiJ1hzHoGJswvbTjkrVo0Pdigyf4+5F5RKr0kEz4PrTm5v18pwCWlfb7v0rQprYJFgSvRoWrq4ua5SqKNN32Z9NabXWSrr7oAb577wmM46ztl0nn6yqVqLDCVndScjiUQlTC+0gGdreHREH59P0XxILPnR5QY+mbStbbkmd7W/aIa7jqRMbKhNtYQwFFxxlxhL/FQJym+IeqNdxHpWqUzIYpfgYpHb2+nx2BB43r/3wntDHNobdLjiBwyIhe5aNy4TPPVrsIWwFE+niD/6f8qdxR0lbVuUHfSJzTHFRd4NFX9G44BQnbUjvDdNTenDjFoilsb7xFk=;BqZtIApJXR9zS5Hc64oF5Q=="

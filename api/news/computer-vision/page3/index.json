@@ -2,50 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-01-11-agdhi-to-use-machine-learning-and-computer-vision-in-agriculture.md",
-      "title": "Agdhi to use machine learning and computer vision in agriculture",
-      "excerpt": "Agdhi will use machine learning, computer vision, edge computing and spectral imaging techniques to detect the defects in seeds and crops",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/agdhi-use-machine-learning-computer-vision-agriculture/",
-      "originalUrl": "https://www.dqindia.com/agdhi-use-machine-learning-computer-vision-agriculture/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2015/10/Agriculture1.jpg",
-          "width": 800,
-          "height": 529,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/agdhi-use-machine-learning-computer-vision-agriculture/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/agdhi-use-machine-learning-computer-vision-agriculture/amp/",
-      "publishedDateTime": "2021-01-11T00:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2021-01-11-police-use-of-clearview-ais-facial-recognition-tech-spiked-after-capitol-raid.md",
       "title": "Police Use of Clearview AI's Facial Recognition Tech Spiked After Capitol Raid",
       "excerpt": "Clearview AI’s controversial facial-recognition app has seen a spike in use as police track down the pro-Trump insurgents who descended on the Capitol on Wednesday. With so many of those idiots snapping selfies and livestreaming the raid as if it was a school field trip,",
@@ -1378,6 +1334,58 @@
         "name": "MediaPost",
         "domain": "mediapost.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-31-israeli-computer-vision-startup-raises-60-million-to-expand-frictionless-checkout.md",
+      "title": "Israeli Computer Vision Startup Raises $60 Million To Expand ‘Frictionless’ Checkout",
+      "excerpt": "Gabay’s low-key manner stands in stark contrast to the buzz around the Tel Aviv startup he co-founded in 2017 with brother Daniel Gabay, Trigo CTO and 2020 Forbes 30Under30 honoree. Trigo’s latest Series B funding round,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/denisepower/2021/12/31/israeli-computer-vision-startup-raises-60-million-to-expand-frictionless-checkout/",
+      "originalUrl": "https://www.forbes.com/sites/denisepower/2021/12/31/israeli-computer-vision-startup-raises-60-million-to-expand-frictionless-checkout/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5febb4ffd51993390ce41521%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6919%26cropY1%3D966%26cropY2%3D4211",
+          "width": 1200,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/denisepower/2021/12/31/israeli-computer-vision-startup-raises-60-million-to-expand-frictionless-checkout/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/denisepower/2021/12/31/israeli-computer-vision-startup-raises-60-million-to-expand-frictionless-checkout/amp/",
+      "publishedDateTime": "2020-12-31T05:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

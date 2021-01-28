@@ -39,6 +39,17 @@ related:
         width: 1024
         height: 681
         isCached: true
+  - title: "S’pore launches self-driving bus trial"
+    excerpt: "Singapore has moved a step closer to a driverless public transport network with the launch of a new trial of self-driving buses."
+    publishedDateTime: 2021-01-28T18:27:00Z
+    webUrl: "https://www.thedailystar.net/backpage/news/spore-launches-self-driving-bus-trial-2035685"
+    ampWebUrl: "https://www.thedailystar.net/backpage/news/spore-launches-self-driving-bus-trial-2035685?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/backpage/news/spore-launches-self-driving-bus-trial-2035685?amp"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 24
 
 secured: "7QduwhKovJDsnFqdRu+y2ElEyq0XmbnVh5pa+qwpA0S97Paab4SLkc9PKJyFOkqGIMxiNQYRPUXDxwlKwUkqVIW1FGykc/Y7Galx3cWeHPWyaK6IQ1iXOhyKG9qTJI/Pi0VAIdOFUFOSAiQ0jYZojytxwI6xVKIyaDmSuHJRZiOIISIaspJpmahWZa5eNQVqGD33gJkQA5DX3BnteKE5TPSSFMZodI7+s4Btd5swYK2T9yu0EUR6ave2W9Jg2x3f7K6GDpibRrRJwccFOm+NmhrV1ieYv4YtqFhbvn7Q5U0lD69NNOdHUfbxLWXAxyJbi+VRbTy+SQC0YkjrgNXLXieR/cou/UHRVhnAm7qgPx0=;AVbetV+IpC2UjSXLEv4atw=="
 ---

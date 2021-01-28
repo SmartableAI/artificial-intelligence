@@ -2,6 +2,354 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-27-artificial-intelligence-ai-chipsets-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2026.md",
+      "title": "Artificial Intelligence (AI) Chipsets Market – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2026",
+      "excerpt": "Selbyville Delaware Global Artificial Intelligence (AI) Chipsets Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2026. Artificial Intelligence (AI) Chipsets Market Report also covers top key players,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2026-2021-01-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2026-2021-01-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-26T23:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare",
+        "AI Hardware",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-server-computing-a-data-intensive-market-propelled-by-ai.md",
+      "title": "Server Computing: A Data-Intensive Market Propelled by AI",
+      "excerpt": "Yole expects the server computing market to reach US$33b in 2025. AI and HPC dedicated products combined will reach 29M units and US$8B in",
+      "sourceUrl": null,
+      "webUrl": "https://www.eetindia.co.in/server-computing-a-data-intensive-market-propelled-by-ai/",
+      "originalUrl": "https://www.eetindia.co.in/server-computing-a-data-intensive-market-propelled-by-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eetindia.co.in/wp-content/uploads/sites/4/2021/01/AI_Data.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.eetindia.co.in/server-computing-a-data-intensive-market-propelled-by-ai/amp/",
+      "cdnAmpWebUrl": "https://www-eetindia-co-in.cdn.ampproject.org/c/s/www.eetindia.co.in/server-computing-a-data-intensive-market-propelled-by-ai/amp/",
+      "publishedDateTime": "2021-01-26T23:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eetindia.co.in",
+        "domain": "eetindia.co.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-new-machine-learning-tool-predicts-schizophrenia.md",
+      "title": "New machine learning tool predicts schizophrenia",
+      "excerpt": "University of Alberta researchers have taken another step forward in developing an artificial intelligence tool to predict schizophrenia by analyzing brain scans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20210127/New-machine-learning-tool-predicts-schizophrenia.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20210127/New-machine-learning-tool-predicts-schizophrenia.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2015/10/shutterstock_186886337_312c5408c21548f8aac48bbe3c985f8e-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20210127/New-machine-learning-tool-predicts-schizophrenia.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210127/New-machine-learning-tool-predicts-schizophrenia.aspx",
+      "publishedDateTime": "2021-01-26T21:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-neural-network-software-market-size-share-growth-future-scope-trends-2020-2026.md",
+      "title": "Neural Network Software Market Size, Share, Growth, Future Scope, Trends 2020-2026",
+      "excerpt": "The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-size-share-growth-future-scope-trends-2020-2026-2021-01-26",
+      "originalUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-size-share-growth-future-scope-trends-2020-2026-2021-01-26",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-26T19:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-us-commission-cites-moral-imperative-to-explore-ai-weapons.md",
+      "title": "U.S. commission cites 'moral imperative' to explore AI weapons",
+      "excerpt": "The United States should not agree to ban the use or development of autonomous weapons powered by artificial intelligence (AI) software, a government-appointed panel said in a draft report for Congress.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-military-ai/u-s-commission-cites-moral-imperative-to-explore-ai-weapons-idUSKBN29V2M0?edition-redirect=ca",
+      "originalUrl": "https://www.reuters.com/article/us-usa-military-ai/u-s-commission-cites-moral-imperative-to-explore-ai-weapons-idUSKBN29V2M0?edition-redirect=ca",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210126&t=2&i=1549163391&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0P1K3",
+          "width": 924,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29V2M0",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29V2M0",
+      "publishedDateTime": "2021-01-26T19:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-artificial-intelligence-ai-delivers-for-cloudcommerce.md",
+      "title": "Artificial Intelligence (AI) Delivers for CloudCommerce",
+      "excerpt": "\"Our clients are reaping the benefit of our real-world application of artificial intelligence. Our goal is to continue to work toward potentially reducing the costs of advertising by as much as 50%.\" The Company is developing SWARM into a cloud hosted software platform that will harness the power of artificial intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-delivers-for-cloudcommerce-2021-01-26",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-delivers-for-cloudcommerce-2021-01-26",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-26T18:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-opencv-opens-400000-contest-to-solve-real-world-problems-with-spatial-ai.md",
+      "title": "OpenCV opens $400,000 contest to solve real-world problems with spatial AI",
+      "excerpt": "A global contest aims to spark computer vision solutions to actual problems and promises teams free camera hardware and Azure services.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/26/opencv-opens-400000-contest-to-solve-real-world-problems-with-spatial-ai/",
+      "originalUrl": "https://venturebeat.com/2021/01/26/opencv-opens-400000-contest-to-solve-real-world-problems-with-spatial-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/opencvai.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/26/opencv-opens-400000-contest-to-solve-real-world-problems-with-spatial-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/26/opencv-opens-400000-contest-to-solve-real-world-problems-with-spatial-ai/amp/",
+      "publishedDateTime": "2021-01-26T16:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-27-how-the-pandemic-is-accelerating-enterprise-open-source-adoption.md",
       "title": "How the pandemic is accelerating enterprise open source adoption",
       "excerpt": "Enterprise IT teams increasingly shifted to open source software solutions in 2020 as they adapted to the pandemic's disruptions.",
@@ -894,368 +1242,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-artificial-intelligence-at-the-service-of-talent-selection.md",
-      "title": "Artificial intelligence at the service of talent selection",
-      "excerpt": "They present Hitch, the startup that through artificial intelligence and machine learning helps companies find the talent most compatible with their organizational culture.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/364141",
-      "originalUrl": "https://www.entrepreneur.com/article/364141",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1611623001-Hitch.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/364141",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/364141",
-      "publishedDateTime": "2021-01-26T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-digital-trends-2021-responsible-business-puts-trust-ethics-and-sustainability-first.md",
-      "title": "Digital Trends 2021: Responsible Business Puts Trust, Ethics, And Sustainability First",
-      "excerpt": "This year’s digital technology predictions from industry analysts reveal trending people-centric exigencies for brand trust, ethical responsibility, and sustainability.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sap/2021/01/26/digital-trends-2021-responsible-business-puts-trust-ethics-and-sustainability-first/",
-      "originalUrl": "https://www.forbes.com/sites/sap/2021/01/26/digital-trends-2021-responsible-business-puts-trust-ethics-and-sustainability-first/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60083ee55458cfa2224d06ea%2F0x0.jpg",
-          "width": 1200,
-          "height": 649,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sap/2021/01/26/digital-trends-2021-responsible-business-puts-trust-ethics-and-sustainability-first/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2021/01/26/digital-trends-2021-responsible-business-puts-trust-ethics-and-sustainability-first/amp/",
-      "publishedDateTime": "2021-01-26T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-nvidia-geforce-rtx-3080-mobile-review-the-fastest-laptop-gpu-just-arrived.md",
-      "title": "Nvidia GeForce RTX 3080 mobile review: The fastest laptop GPU just arrived",
-      "excerpt": "Nvidia’s new GeForce RTX 30-series laptops offer very impressive graphics performance, even compared to some of the biggest and heaviest laptops around.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcworld.com/article/3604615/nvidia-geforce-rtx-3080-review-the-fastest-laptop-gpu-just-arrived.html",
-      "originalUrl": "https://www.pcworld.com/article/3604615/nvidia-geforce-rtx-3080-review-the-fastest-laptop-gpu-just-arrived.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/09/ampere-vs-20-100857189-large.jpg",
-          "width": 1199,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcworld.com/article/3604615/nvidia-geforce-rtx-3080-review-the-fastest-laptop-gpu-just-arrived.amp.html",
-      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3604615/nvidia-geforce-rtx-3080-review-the-fastest-laptop-gpu-just-arrived.amp.html",
-      "publishedDateTime": "2021-01-26T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-understanding-the-value-of-artificial-intelligence-solutions-in-your-business.md",
-      "title": "Understanding The Value Of Artificial Intelligence Solutions In Your Business",
-      "excerpt": "A starting point for any organization in AI solution deployment is to assess the current digital maturity of the organization.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/01/26/understanding-the-value-of-artificial-intelligence-solutions-in-your-business/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/01/26/understanding-the-value-of-artificial-intelligence-solutions-in-your-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600b279b38fb40a4043817d3%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/01/26/understanding-the-value-of-artificial-intelligence-solutions-in-your-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/01/26/understanding-the-value-of-artificial-intelligence-solutions-in-your-business/amp/",
-      "publishedDateTime": "2021-01-26T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-designing-an-electric-or-autonomous-vehicle-is-like-designing-a-smartphone.md",
-      "title": "Designing An Electric Or Autonomous Vehicle Is Like Designing A Smartphone",
-      "excerpt": "Smartphones require the latest technology to increase device functionality and to improve system efficiency to prolong battery life. EVs and AVs face similar challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2021/01/26/designing-an-electric-or-autonomous-vehicle-is-like-designing-a-smartphone/",
-      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2021/01/26/designing-an-electric-or-autonomous-vehicle-is-like-designing-a-smartphone/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6010114882d6f5e4b4271796%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2021/01/26/designing-an-electric-or-autonomous-vehicle-is-like-designing-a-smartphone/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2021/01/26/designing-an-electric-or-autonomous-vehicle-is-like-designing-a-smartphone/amp/",
-      "publishedDateTime": "2021-01-26T05:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-trinamix-unveils-3d-imaging-to-stop-facial-recognition-theft-on-smartphones.md",
-      "title": "Trinamix unveils 3D imaging to stop facial-recognition theft on smartphones",
-      "excerpt": "Trinamix is introducing a 3D imaging solution that helps prevent fraud when someone tries to log into a system using facial recognition.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/26/trinamix-unveils-3d-imaging-to-stop-facial-recognition-theft-on-smartphones/",
-      "originalUrl": "https://venturebeat.com/2021/01/26/trinamix-unveils-3d-imaging-to-stop-facial-recognition-theft-on-smartphones/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/trinamiX-secure-face-authentication-solution-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 731,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/26/trinamix-unveils-3d-imaging-to-stop-facial-recognition-theft-on-smartphones/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/26/trinamix-unveils-3d-imaging-to-stop-facial-recognition-theft-on-smartphones/amp/",
-      "publishedDateTime": "2021-01-26T05:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-edgeq-reveals-more-details-behind-its-next-gen-5gai-chip.md",
-      "title": "EdgeQ reveals more details behind its next-gen 5G/AI chip",
-      "excerpt": "G is the current revolution in wireless technology, and every chip company old and new is trying to burrow their way into this ultra-competitive — but extremely lucrative — market. One of the most interesting new players in the space is EdgeQ,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/01/26/edgeq-reveals-more-details-behind-its-next-gen-5g-ai-chip/",
-      "originalUrl": "https://techcrunch.com/2021/01/26/edgeq-reveals-more-details-behind-its-next-gen-5g-ai-chip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/11/Vinay-Ravuri_headshot.jpg?w=680",
-          "width": 680,
-          "height": 453,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/01/26/edgeq-reveals-more-details-behind-its-next-gen-5g-ai-chip/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/26/edgeq-reveals-more-details-behind-its-next-gen-5g-ai-chip/amp/",
-      "publishedDateTime": "2021-01-26T05:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

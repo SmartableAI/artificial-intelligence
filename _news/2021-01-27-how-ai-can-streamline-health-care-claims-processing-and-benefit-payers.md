@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benefitspro.com/2021/01/27/how-ai-can-streamline-health-
 cdnAmpWebUrl: "https://www-benefitspro-com.cdn.ampproject.org/c/s/www.benefitspro.com/2021/01/27/how-ai-can-streamline-health-care-claims-processing-and-benefit-payers/?amp=1"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Benefits Pro
@@ -40,6 +40,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1428562/PH_App_Phone_Screens_US___TR.jpg?p=facebook"
         width: 2239
         height: 1173
+        isCached: true
+  - title: "Tractable announces partnership with The Hartford to accelerate claims processing with artificial intelligence"
+    excerpt: "The Hartford, a leading US property and casualty insurer, is using an AI solution to analyze auto damage within its auto insurance claims operations in the US, accelerating how quickly claims can be processed for its customers."
+    publishedDateTime: 2021-01-28T17:00:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-lifestyle-business-insurance-industry-automobiles-1fc33a0cfa4ade8013f90f2bc2c05a87"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 32
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "072/ixMiaLHyVKbH743/daIbLEOoj9Y8EPjjzIH/v+u3vyTAe3aVP3nBjB11BDLM7zpSBLt6ZcikZoTI99MsgQtOeRtR17lZxHk4q3Lnts3CL5zY3iuQA3z5+1Q7J5HwhNMfbB09mu5WUxyanhDzndYlambxYL/G/uD0wwCKf3itvYLMug6sOuUsOERnOC1bC0M6yvzfL53lH0ehr9ucmer69+pXp0/JxH9wxyQJabxJP12RvWRo+4plv2tQ+XneoNz1y8k4gXnh+tpjTJs4nU/++qUpWdGatWycOl4/OHJ5XF7Zs8HHnkY5jHMAYTQVrPP9XQZNaPr6WsPpiXwoVpk6tK6ZkWlfnLGiHo1HXElH9le4ayTZT8gJb4cM5DUQcT+awgrJdDIT4eHAjOmddje847CZNHMiTnSm307g+qflLRCKqcKf860PwiDI8Ywo6okMsmkD7cQ8s7B+xNzSBbIGUiEBn6KBY6PvHYBFJBT2NfloP+xWXwzTmtbfLrFqeEC8oov8WHIUPw6B83b+Ug==;jZR3ggrGxJLKBb8t8krQEQ=="

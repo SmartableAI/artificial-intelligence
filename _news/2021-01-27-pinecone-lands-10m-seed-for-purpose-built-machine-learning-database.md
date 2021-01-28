@@ -34,9 +34,9 @@ related:
   - title: "Pinecone, a serverless vector database for machine learning, leaves stealth with $10M funding"
     excerpt: "Machine learning applications understand the world through vectors. Pinecone, a specialized cloud database for vectors, has secured significant investment from the people who brought Snowflake to the world."
     publishedDateTime: 2021-01-27T15:06:00Z
-    webUrl: "https://www.zdnet.com/index.php/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/"
-    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/"
+    webUrl: "https://www.zdnet.com/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/"
     type: article
     provider:
       name: ZDNet

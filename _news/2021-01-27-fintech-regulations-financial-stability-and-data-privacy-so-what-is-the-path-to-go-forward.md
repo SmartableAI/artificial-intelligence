@@ -20,6 +20,17 @@ topics:
   - AI in Finance
   - AI
 
+related:
+  - title: "Growth Model of Fintech Industry and Expectations in 2021"
+    excerpt: "India is amongst the world’s fastest emerging markets for the Fintech sector. With China, India ranked at the highest in Fintech adoption rate globally. After the 2016 demonetization, the country"
+    publishedDateTime: 2021-01-27T09:04:00Z
+    webUrl: "https://www.ciol.com/growth-model-fintech-industry-expectations-2021/"
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 4
+
 secured: "ARww3Cm1MGa9XDJ7vi3/AvTK3xqsl6YmE9/lBsX6c0rUFKERKgDJ5WkSATLdx9D48fhVjLIH2vVxPIY52H36RSYZ7vEyp5olycYo29s/HqMFLom+XFHHEc/ZyxGwhUclalQw/zIZdaPF8U8ase1rHOCVDrj+XZrfQkXjbgQkbTHXzmqWjjUIWYh9Dey5Y1+F8+6D3Hcc4EVNMGO/fnVCljtTXKtcRhOrDE5kjsYMPDDvtj7eCYO9GthiSQxmGupb67zz4ls0aN/tlztcl6CwhoXeNaNSWdCfDjdDWb8RebIgu0BQBqt7XJSANO1npbjgKmjy22GxWwJGXjGT2Gun+O734hVHhmWFwsAjyBCo7XM=;6hLwipeylYU15TL1dh6MsQ=="
 ---
 

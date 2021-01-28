@@ -1,27 +1,27 @@
 ---
 category: news
 title: "The Allen Institute for AI (AI2) Selects Core Scientific to Provide AI-Powered GPU-as-a-Service"
-excerpt: "Core Scientific, a leading infrastructure and software solutions provider for artificial intelligence and blockchain led by CEO Kevin"
+excerpt: "Core Scientific, a leading infrastructure and software solutions provider for artificial intelligence and blockchain led by CEO Kevin Turner, the former COO of"
 publishedDateTime: 2021-01-28T15:42:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/the-allen-institute-for-ai-ai2-selects-core-scientific-to-provide-ai-powered-gpu-as-a-service-301217453.html"
-webUrl: "https://www.prnewswire.com/news-releases/the-allen-institute-for-ai-ai2-selects-core-scientific-to-provide-ai-powered-gpu-as-a-service-301217453.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/the-allen-institute-for-ai-ai2-selects-core-scientific-to-provide-ai-powered-gpu-as/article_957d8acc-4f36-54d6-8bcd-2effbef0067e.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/the-allen-institute-for-ai-ai2-selects-core-scientific-to-provide-ai-powered-gpu-as/article_957d8acc-4f36-54d6-8bcd-2effbef0067e.html"
 type: article
 quality: 42
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/815623/Core_Scientific_Logo.jpg?p=facebook"
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/89/b8970e9f-a869-5c25-afab-1da10b378232/601307e2de895.image.jpg?resize=648%2C360"
     width: 648
-    height: 339
+    height: 360
     isCached: true
 
 related:
@@ -198,6 +198,6 @@ related:
       domain: globalspec.com
     quality: 34
 
-secured: "TzqtfU8gFHqKQqIZHFqFhLFo4WttgsLWs4YrukDNczNWaS24g/88H1p/Hq0X0Rqzw9A8tii7EvDdXEYWpT0MoPnxh1kbYYq2h9rd5Vkcfje6l6yrrOBHT4kbrlpCgyquJ553tiWshc2wC57IsKU7kTQujOJGL3sih+koAkz8Jgn/XUOjVxvLWpmJ4opLlGjYqjjvNSvTrQMePmCAIcvb9FhQH2Tjch45ezCpzbY06s88814GRm08KjcBVaNLr1RDn3GC+DrWeNEQVSO6AXDrm98WkIXe9yyeDPgoRTo/9MgdmafKp/T+Adbw53YuqD9IpHsGTUFasKqO4L0TQZ9iBIa9NMWN0oXdD2Xjd2U+bCo=;+DEFLSrNyZhEcPYAFgGq1A=="
+secured: "CfPk+3PWqloQEo5Cu18mMJGlAAuAkPXRmPQ5GEcYzxGxaK5HFuIekaMX1gxY3fuodM8jHreiztvlUWCjcT3zE0YFOzB84O2QE9MNPQdqB+q+vdl5GkByTcVHJypfAyINxXausSc6k/C/Jy5fOCMaxubfvJXEbZoRqgFLoXaGwqkMq+kPSWpz/oQrjhgZK920oizh/Z8mi0P26hmQ2cmzBLP81ITAn8Dd5qhvlgNb9Jj2CtVdIuFyX0WVObyekgLy0OybtdbSEAsduJH0xEaj2j6U8gA5bvFKjUCHkaAKIvu3dEfdqBDZLE5cJ9ACi8ujxOrPXTB1HiifXTHRY8VX0DIl04SEylOjEqmKkXYVios=;085p0nD1cyA1haWe5+f5UQ=="
 ---
 

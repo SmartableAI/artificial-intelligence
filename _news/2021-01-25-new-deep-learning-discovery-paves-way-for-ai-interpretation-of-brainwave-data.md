@@ -92,6 +92,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "New Deep Learning Discovery Paves Way for AI Interpretation of Brainwave Data"
+    excerpt: "A new paper published in the Journal of Neural Engineering shows the successful first application of self-supervised learning, a very promising recent approach to train deep neural networks ..."
+    publishedDateTime: 2021-01-28T18:58:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1181005&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 31
 
 secured: "udKT68cRCJrp8AB4Fgm5mwB9XKwJOeFvF9A6fNuXidCCW1BHZs+haK4TFam+GQ420CaEDr5z4WkAfD85egqCwHvFVd0jgSx4ciDQHGfHNGr3VS4dR87O7Sw8jovGo7tXJLE5SNuUg8aiw7h21iefn9FhJNYpoKERNbLgSJm86utsYgKdj/oUkDQHOJQdlFf1VTUd6Hw36GebLoL/q6Ixad0uJ40RCP07MQttSGWsPxXtmCSuVgrvl2tBTHrAW1A+vyKlN23oa3p5eHVpwW4nyiaq/Ipm66my7fATscHDFh6WeTZKYwXFDHMIAYMI2S4y2P1xW+Y0+cNZ85cb6HHniHaeJIlhdHECGMBI1Nt/6cw=;q8NxR5sQ9yMSetrfjPjvkw=="
 ---

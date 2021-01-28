@@ -2,6 +2,368 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-26-artificial-intelligence-at-the-service-of-talent-selection.md",
+      "title": "Artificial intelligence at the service of talent selection",
+      "excerpt": "They present Hitch, the startup that through artificial intelligence and machine learning helps companies find the talent most compatible with their organizational culture.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/364141",
+      "originalUrl": "https://www.entrepreneur.com/article/364141",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1611623001-Hitch.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/364141",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/364141",
+      "publishedDateTime": "2021-01-26T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-digital-trends-2021-responsible-business-puts-trust-ethics-and-sustainability-first.md",
+      "title": "Digital Trends 2021: Responsible Business Puts Trust, Ethics, And Sustainability First",
+      "excerpt": "This year’s digital technology predictions from industry analysts reveal trending people-centric exigencies for brand trust, ethical responsibility, and sustainability.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sap/2021/01/26/digital-trends-2021-responsible-business-puts-trust-ethics-and-sustainability-first/",
+      "originalUrl": "https://www.forbes.com/sites/sap/2021/01/26/digital-trends-2021-responsible-business-puts-trust-ethics-and-sustainability-first/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60083ee55458cfa2224d06ea%2F0x0.jpg",
+          "width": 1200,
+          "height": 649,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sap/2021/01/26/digital-trends-2021-responsible-business-puts-trust-ethics-and-sustainability-first/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2021/01/26/digital-trends-2021-responsible-business-puts-trust-ethics-and-sustainability-first/amp/",
+      "publishedDateTime": "2021-01-26T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-nvidia-geforce-rtx-3080-mobile-review-the-fastest-laptop-gpu-just-arrived.md",
+      "title": "Nvidia GeForce RTX 3080 mobile review: The fastest laptop GPU just arrived",
+      "excerpt": "Nvidia’s new GeForce RTX 30-series laptops offer very impressive graphics performance, even compared to some of the biggest and heaviest laptops around.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcworld.com/article/3604615/nvidia-geforce-rtx-3080-review-the-fastest-laptop-gpu-just-arrived.html",
+      "originalUrl": "https://www.pcworld.com/article/3604615/nvidia-geforce-rtx-3080-review-the-fastest-laptop-gpu-just-arrived.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/09/ampere-vs-20-100857189-large.jpg",
+          "width": 1199,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcworld.com/article/3604615/nvidia-geforce-rtx-3080-review-the-fastest-laptop-gpu-just-arrived.amp.html",
+      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3604615/nvidia-geforce-rtx-3080-review-the-fastest-laptop-gpu-just-arrived.amp.html",
+      "publishedDateTime": "2021-01-26T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC World",
+        "domain": "pcworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-understanding-the-value-of-artificial-intelligence-solutions-in-your-business.md",
+      "title": "Understanding The Value Of Artificial Intelligence Solutions In Your Business",
+      "excerpt": "A starting point for any organization in AI solution deployment is to assess the current digital maturity of the organization.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/01/26/understanding-the-value-of-artificial-intelligence-solutions-in-your-business/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/01/26/understanding-the-value-of-artificial-intelligence-solutions-in-your-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600b279b38fb40a4043817d3%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/01/26/understanding-the-value-of-artificial-intelligence-solutions-in-your-business/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/01/26/understanding-the-value-of-artificial-intelligence-solutions-in-your-business/amp/",
+      "publishedDateTime": "2021-01-26T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-designing-an-electric-or-autonomous-vehicle-is-like-designing-a-smartphone.md",
+      "title": "Designing An Electric Or Autonomous Vehicle Is Like Designing A Smartphone",
+      "excerpt": "Smartphones require the latest technology to increase device functionality and to improve system efficiency to prolong battery life. EVs and AVs face similar challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2021/01/26/designing-an-electric-or-autonomous-vehicle-is-like-designing-a-smartphone/",
+      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2021/01/26/designing-an-electric-or-autonomous-vehicle-is-like-designing-a-smartphone/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6010114882d6f5e4b4271796%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2021/01/26/designing-an-electric-or-autonomous-vehicle-is-like-designing-a-smartphone/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2021/01/26/designing-an-electric-or-autonomous-vehicle-is-like-designing-a-smartphone/amp/",
+      "publishedDateTime": "2021-01-26T05:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-trinamix-unveils-3d-imaging-to-stop-facial-recognition-theft-on-smartphones.md",
+      "title": "Trinamix unveils 3D imaging to stop facial-recognition theft on smartphones",
+      "excerpt": "Trinamix is introducing a 3D imaging solution that helps prevent fraud when someone tries to log into a system using facial recognition.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/26/trinamix-unveils-3d-imaging-to-stop-facial-recognition-theft-on-smartphones/",
+      "originalUrl": "https://venturebeat.com/2021/01/26/trinamix-unveils-3d-imaging-to-stop-facial-recognition-theft-on-smartphones/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/trinamiX-secure-face-authentication-solution-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/26/trinamix-unveils-3d-imaging-to-stop-facial-recognition-theft-on-smartphones/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/26/trinamix-unveils-3d-imaging-to-stop-facial-recognition-theft-on-smartphones/amp/",
+      "publishedDateTime": "2021-01-26T05:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-edgeq-reveals-more-details-behind-its-next-gen-5gai-chip.md",
+      "title": "EdgeQ reveals more details behind its next-gen 5G/AI chip",
+      "excerpt": "G is the current revolution in wireless technology, and every chip company old and new is trying to burrow their way into this ultra-competitive — but extremely lucrative — market. One of the most interesting new players in the space is EdgeQ,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/01/26/edgeq-reveals-more-details-behind-its-next-gen-5g-ai-chip/",
+      "originalUrl": "https://techcrunch.com/2021/01/26/edgeq-reveals-more-details-behind-its-next-gen-5g-ai-chip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/Vinay-Ravuri_headshot.jpg?w=680",
+          "width": 680,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/01/26/edgeq-reveals-more-details-behind-its-next-gen-5g-ai-chip/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/26/edgeq-reveals-more-details-behind-its-next-gen-5g-ai-chip/amp/",
+      "publishedDateTime": "2021-01-26T05:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-aeva-to-supply-lidar-sensors-to-self-driving-truck-firm-tusimple.md",
       "title": "Aeva to supply lidar sensors to self-driving truck firm TuSimple",
       "excerpt": "Aeva Inc, a firm founded by former Apple Inc engineers to supply a key self-driving car sensor, said on Tuesday it had reached a deal to supply the sensors for self-driving heavy duty trucks being developed by TuSimple.",
@@ -900,370 +1262,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-microsofts-new-vision-language-model-outranks-humans-at-image-captioning.md",
-      "title": "Microsoft’s new vision-language model outranks humans at image captioning",
-      "excerpt": "Microsoft researchers have developed a new object-attribute detection model for image encoding: VinVL (visual features in vision-language) Vision-language (VL) systems make it possible to search relevant images for a text query (or vice versa).",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/cloud/microsoft-azure/358422/microsofts-new-vision-language-model-outranks-humans-at-image",
-      "originalUrl": "https://www.itpro.co.uk/cloud/microsoft-azure/358422/microsofts-new-vision-language-model-outranks-humans-at-image",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1591696456/itpro/MicrosoftSignHQ.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/cloud/microsoft-azure/358422/microsofts-new-vision-language-model-outranks-humans-at-image?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/358422/microsofts-new-vision-language-model-outranks-humans-at-image?amp",
-      "publishedDateTime": "2021-01-25T11:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-building-your-own-brand-detection-and-visibility-using-amazon-sagemaker-ground-truth-and-amazon-rekognition-custom-labels-part-1-end-to-end.md",
-      "title": "Building your own brand detection and visibility using Amazon SageMaker Ground Truth and Amazon Rekognition Custom Labels – Part 1: End-to-end solution",
-      "excerpt": "According to Gartner, 58% of marketing leaders believe brand is a critical driver of buyer behavior for prospects, and 65% believe it’s a critical driver of buyer behavior for existing customers. Companies spend huge amounts of money on advertisement to raise brand visibility and awareness. In fact,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/part-1-end-to-end-solution-building-your-own-brand-detection-and-visibility-using-amazon-sagemaker-ground-truth-and-amazon-rekognition-custom-labels/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/part-1-end-to-end-solution-building-your-own-brand-detection-and-visibility-using-amazon-sagemaker-ground-truth-and-amazon-rekognition-custom-labels/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/01/12/ML-895-13.jpg",
-          "width": 640,
-          "height": 356,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-25T10:58:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-model-serving-made-easier-with-deep-java-library-and-aws-lambda.md",
-      "title": "Model serving made easier with Deep Java Library and AWS Lambda",
-      "excerpt": "Developing and deploying&nbsp;a deep learning model involves&nbsp;many steps: gathering and cleansing data, designing the model, fine-tuning model parameters, evaluating the results, and going through it again until a desirable result is achieved. Then comes the final step: deploying the model. AWS Lambda&nbsp;is",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/model-serving-made-easier-with-deep-java-library-and-aws-lambda/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/model-serving-made-easier-with-deep-java-library-and-aws-lambda/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/06/1-Graph.jpg",
-          "width": 814,
-          "height": 546,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-25T10:35:41-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-can-we-trust-ai-when-ai-asks-for-human-help-part-one.md",
-      "title": "Can We Trust AI? When AI Asks For Human Help (Part One)",
-      "excerpt": "Making AI more 'humble' could not only help improve AI decision making, but could also help inspire more trust in the technology as a whole, and open the door for more useful and mission-critical applications in the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/charlestowersclark/2021/01/25/can-we-trust-ai-when-ai-asks-for-human-help-part-one/",
-      "originalUrl": "https://www.forbes.com/sites/charlestowersclark/2021/01/25/can-we-trust-ai-when-ai-asks-for-human-help-part-one/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600f03a4df133cabc007eb45%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/charlestowersclark/2021/01/25/can-we-trust-ai-when-ai-asks-for-human-help-part-one/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charlestowersclark/2021/01/25/can-we-trust-ai-when-ai-asks-for-human-help-part-one/amp/",
-      "publishedDateTime": "2021-01-25T09:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-report-brexit-could-help-china-and-the-us-in-the-global-ai-race.md",
-      "title": "Report: Brexit could help China and the US in the global AI race",
-      "excerpt": "The study found that China is catching up with the US in the AI race, while the EU is slipping further behind.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/01/25/report-brexit-could-help-china-and-the-us-in-the-global-ai-race/",
-      "originalUrl": "https://thenextweb.com/neural/2021/01/25/report-brexit-could-help-china-and-the-us-in-the-global-ai-race/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/Untitled-design-2021-01-25T153915.019-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/01/25/report-brexit-could-help-china-and-the-us-in-the-global-ai-race/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/25/report-brexit-could-help-china-and-the-us-in-the-global-ai-race/amp/",
-      "publishedDateTime": "2021-01-25T09:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-robots-take-up-the-fight-against-infection.md",
-      "title": "Robots take up the fight against infection",
-      "excerpt": "Rapid advances in AI and automation mean robots are now helping businesses in almost every sector to boost efficiency, enhance productivity and streamline costs. But in the age of Covid-19, attention has also focused on how AI-enabled robots can be used to clean offices,",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/presented/business/topics/robots-take-fight-against-infection/article/3117490/robots-take-fight",
-      "originalUrl": "https://www.scmp.com/presented/business/topics/robots-take-fight-against-infection/article/3117490/robots-take-fight",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/2021/01/13/softbank-1200x800-hero_image.jpg?itok=ebCILjb4",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-25T08:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-copyai-revolutionizes-digital-marketing-by-augmenting-human-creativity-with-ai.md",
-      "title": "Copy.ai Revolutionizes Digital Marketing By Augmenting Human Creativity With AI",
-      "excerpt": "Chris Lu and Paul Yacoubian realize that artificial intelligence can augment human creativity, instead of replacing it as some may fear, creating Copy.ai to enhance digital marketers ad copy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/frederickdaso/2021/01/25/copyai-revolutionizes-digital-marketing-by-augmenting-human-creativity-with-ai/",
-      "originalUrl": "https://www.forbes.com/sites/frederickdaso/2021/01/25/copyai-revolutionizes-digital-marketing-by-augmenting-human-creativity-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600c6b551fa40d5a65663466%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D820%26cropY1%3D0%26cropY2%3D461",
-          "width": 820,
-          "height": 461,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/frederickdaso/2021/01/25/copyai-revolutionizes-digital-marketing-by-augmenting-human-creativity-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/frederickdaso/2021/01/25/copyai-revolutionizes-digital-marketing-by-augmenting-human-creativity-with-ai/amp/",
-      "publishedDateTime": "2021-01-25T08:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

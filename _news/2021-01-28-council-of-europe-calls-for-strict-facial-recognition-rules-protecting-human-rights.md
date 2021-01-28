@@ -322,6 +322,20 @@ related:
       name: Windows
       domain: compsmag.com
     quality: 35
+  - title: "States ponder facial recognition regulation, survey shows heightened privacy concerns in China"
+    excerpt: "More regulations for facial recognition may be coming, with NJ considering a wide-ranging proposal, and a new Amnesty International campaign against the technology. A U.S. Congressman says the country needs federal privacy regulation, while in China the ..."
+    publishedDateTime: 2021-01-28T18:09:00Z
+    webUrl: "https://www.biometricupdate.com/202101/states-ponder-facial-recognition-regulation-survey-shows-heightened-privacy-concerns-in-china"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 27
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing-1024x662.jpeg"
+        width: 1024
+        height: 662
+        isCached: true
   - title: "Study reveals facial recognition of mask-clad travelers improving"
     excerpt: "To determine the effectiveness of facial recognition technology at accurately identifying masked travelers during the COVID-19 pandemic, a team from the U.S. Department of Homeland Security (DHS) Science and Technology Directorate (S&T) conducted a series of tests on biometric systems and matching algorithms."
     publishedDateTime: 2021-01-25T14:55:00Z

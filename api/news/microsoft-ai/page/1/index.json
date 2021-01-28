@@ -115,7 +115,7 @@
       "originalUrl": "https://venturebeat.com/2021/01/26/opencv-opens-400000-contest-to-solve-real-world-problems-with-spatial-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -155,7 +155,8 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
+        "AI",
+        "Google AI"
       ]
     },
     {

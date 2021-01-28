@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-20-music-from-the-heart-with-an-ai-assist.md",
+      "title": "Music from the heart, with an AI assist",
+      "excerpt": "The next time you hear a popular song on the radio, listen to the beat behind the lyrics. Usually, a high-powered production team came up with it—but in the future, that beat could be created with help from artificial intelligence. That’s what Googler MJ Jacob predicts, as he combines his job as an engineer",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/inside-google/googlers/hip-hop-artificial-intelligence/",
+      "originalUrl": "https://blog.google/inside-google/googlers/hip-hop-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/mj-jacob.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/inside-google/googlers/hip-hop-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/inside-google/googlers/hip-hop-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-11-20T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-20-new-apple-m1-macbook-pro-trounces-intel-based-predecessor-on-ai-training.md",
       "title": "New Apple M1 MacBook Pro trounces Intel-based predecessor on AI training",
       "excerpt": "Apple has released a new version of Google's TensorFlow v2.4 machine learning library that’s optimized for its new M1-powered Macs. The new M1-optimized release leverages Apple’s new ML ...",

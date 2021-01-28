@@ -316,6 +316,20 @@ related:
       name: Windows
       domain: compsmag.com
     quality: 35
+  - title: "States ponder facial recognition regulation, survey shows heightened privacy concerns in China"
+    excerpt: "More regulations for facial recognition may be coming, with NJ considering a wide-ranging proposal, and a new Amnesty International campaign against the technology. A U.S. Congressman says the country needs federal privacy regulation, while in China the ..."
+    publishedDateTime: 2021-01-28T18:09:00Z
+    webUrl: "https://www.biometricupdate.com/202101/states-ponder-facial-recognition-regulation-survey-shows-heightened-privacy-concerns-in-china"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 27
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing-1024x662.jpeg"
+        width: 1024
+        height: 662
+        isCached: true
   - title: "Jordanian AI team bags second place in international competition"
     excerpt: "Jordan’s Robotna team, the LETA Robot, won second place in Codeavour 2020 AI, an international Artificial Intelligence (AI) and coding competition, organised by STEMpedia.Robotna is a social startup that gears towards strengthening skills of creative thinking,"
     publishedDateTime: 2021-01-26T00:24:00Z

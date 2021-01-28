@@ -2,6 +2,111 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-29-4-ways-ai-and-ml-enhance-the-b2b-buyers-journey.md",
+      "title": "4 Ways AI And ML Enhance The B2B Buyers’ Journey",
+      "excerpt": "Just as consumer marketing teams have found AI-driven martech to help them reach their buyers where they are, B2B marketing teams are starting to realize that AI can do similar things to enhance their business customers’ journeys.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/danielnewman/2021/01/28/4-ways-ai-and-ml-enhance-the-b2b-buyers-journey/",
+      "originalUrl": "https://www.forbes.com/sites/danielnewman/2021/01/28/4-ways-ai-and-ml-enhance-the-b2b-buyers-journey/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6012fb7404112e7aa8e50214%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/danielnewman/2021/01/28/4-ways-ai-and-ml-enhance-the-b2b-buyers-journey/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2021/01/28/4-ways-ai-and-ml-enhance-the-b2b-buyers-journey/amp/",
+      "publishedDateTime": "2021-01-28T10:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-01-28-saving-time-with-personalized-videos-using-aws-machine-learning.md",
+      "title": "Saving time with personalized videos using AWS machine learning",
+      "excerpt": "CLIPr aspires to help save 1 billion hours of people’s time. We organize video into a first-class, searchable data source that unlocks the content most relevant to your interests using AWS machine learning (ML) services. CLIPr simplifies the extraction of information in videos, saving you hours by eliminating",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/saving-time-with-personalized-videos-using-aws-machine-learning/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/saving-time-with-personalized-videos-using-aws-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/01/28/Clipr-Console.jpg",
+          "width": 800,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-28T09:28:57-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-01-29-artificial-intelligence-mit-creates-liquid-machine-learning-future-of-robot-control.md",
       "title": "Artificial Intelligence: MIT creates ‘liquid’ machine learning - ‘future of robot control'",
       "excerpt": "ARTIFICIAL INTELLIGENCE (AI) engineers have designed a new ‘liquid' machine-learning system potentially capable of revolutionising everything from autonomous cars to medical diagnosis.",
@@ -159,7 +264,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2026-2021-01-27",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -395,7 +500,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/ehave-inc-utilizes-artificial-intelligence-and-machine-learning-for-big-data-management-in-mental-healthcare-1029999161",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 141,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -706,6 +811,50 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-deep-learning-based-detection-of-dental-prostheses-and-restorations.md",
+      "title": "Deep learning-based detection of dental prostheses and restorations",
+      "excerpt": "The purpose of this study is to develop a method for recognizing dental prostheses and restorations of teeth using a deep learning. A dataset of 1904 oral photographic images of dental arches (maxilla: 1084 images;",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/s41598-021-81202-x",
+      "originalUrl": "https://www.nature.com/articles/s41598-021-81202-x",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-81202-x/MediaObjects/41598_2021_81202_Fig1_HTML.png",
+          "width": 685,
+          "height": 391,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-20T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1282,146 +1431,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-in-brain-imaging-deep-learning-beats-standard-machine-learning.md",
-      "title": "In Brain Imaging, Deep Learning Beats Standard Machine Learning",
-      "excerpt": "Deep learning models were able to detect patterns and discriminative features in brain imaging better than standard machine learning tools.",
-      "sourceUrl": null,
-      "webUrl": "https://healthitanalytics.com/news/in-brain-imaging-deep-learning-beats-standard-machine-learning",
-      "originalUrl": "https://healthitanalytics.com/news/in-brain-imaging-deep-learning-beats-standard-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-513688464.jpg",
-          "width": 690,
-          "height": 402,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-15T10:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-artificial-intelligence-beats-us-in-chess-but-not-in-memory.md",
-      "title": "Artificial intelligence beats us in chess, but not in memory",
-      "excerpt": "In the last decades, artificial intelligence has shown to be very good at achieving exceptional goals in several fields. Chess is one of them: in 1996, for the first time, the computer Deep Blue beat a human player,",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-01-artificial-intelligence-chess-memory.html",
-      "originalUrl": "https://phys.org/news/2021-01-artificial-intelligence-chess-memory.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/5-artificialin.jpg",
-          "width": 985,
-          "height": 704,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-01-artificial-intelligence-chess-memory.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-01-artificial-intelligence-chess-memory.amp",
-      "publishedDateTime": "2021-01-15T08:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-the-ai-incident-database-wants-to-improve-the-safety-of-machine-learning.md",
-      "title": "The AI Incident Database wants to improve the safety of machine learning",
-      "excerpt": "The AI Incident Database documents failures of AI systems in the real world, revealing past failures to avoid repeating them.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/15/the-ai-incident-database-wants-to-improve-the-safety-of-machine-learning/",
-      "originalUrl": "https://venturebeat.com/2021/01/15/the-ai-incident-database-wants-to-improve-the-safety-of-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/AI-incident-database.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/15/the-ai-incident-database-wants-to-improve-the-safety-of-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/15/the-ai-incident-database-wants-to-improve-the-safety-of-machine-learning/amp/",
-      "publishedDateTime": "2021-01-15T07:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Facebook AI",
-        "IBM AI"
       ]
     }
   ],
