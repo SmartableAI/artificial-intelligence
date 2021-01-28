@@ -93,6 +93,15 @@ related:
       name: CBS Local
       domain: cbslocal.com
     quality: 39
+  - title: "WinWire launches Vaccine Management Solution Built on Microsoft Azure"
+    excerpt: "WinWire Technologies, a digital engineering services company, launched its Vaccine Management solution built on Azure. Healthcare organizations need to create new business processes to deliver vaccines to patients."
+    publishedDateTime: 2021-01-28T07:38:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210128ph61007/winwire-launches-vaccine-management-solution-built-on-microsoft-azure"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 34
 
 secured: "G3IZT2e+X1nKv7oX2pKocOvdEzO2XGxo10aGfwqQwO7ZCsbjGYjbk9DoERWoMoz5/M4a3VDSjuZg/g6JpB35BNpsTo9Xrw2qvacxe4LC52eDz177CUjInXBa1zoLreYZUwHEWcHHlaAh92FvXa86NNxiT7IkJMgnUCPWB9VJ72HQlIbWAnG5d55vzDLBRMo5Wd/bdlWPxT14wTG/r6flDoG+hFMynWjg7nI6Oxy+sUv8qPM2O46RvEGOZsnbsXBbyCqhckpeEylz/S41DwnFQP1cpB4J5FXTmdOA/aS+jns+c0/CUs0BVso1OjwvJLTIEdBvZiCDg+mApZ1eJYgV72U03t+Ot/XRVny4IYWYBHU=;tHVSVfHGG6dJW/xKi1VOOA=="
 ---

@@ -43,6 +43,22 @@ related:
         width: 796
         height: 417
         isCached: true
+  - title: "The Next Target for a Facial Recognition Ban? New York"
+    excerpt: "San Francisco, Oakland, and other cities have enacted moratoriums on government use of the tech. New York looks like a harder sell."
+    publishedDateTime: 2021-01-28T13:02:00Z
+    webUrl: "https://www.wired.com/story/next-target-facial-recognition-ban-new-york/"
+    ampWebUrl: "https://www.wired.com/story/next-target-facial-recognition-ban-new-york/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/next-target-facial-recognition-ban-new-york/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 89
+    images:
+      - url: "https://media.wired.com/photos/6010bfcaea675c9b9e49067c/master/pass/Business-Police-Facial-Recognition-1177427464.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "How Facial Recognition Algorithms Can Cut Out Bias"
     excerpt: "A team has published the results of a study that evaluates the accuracy and bias in gender and skin colour of automatic face recognition algorithms tested with real world data."
     publishedDateTime: 2021-01-26T11:52:00Z

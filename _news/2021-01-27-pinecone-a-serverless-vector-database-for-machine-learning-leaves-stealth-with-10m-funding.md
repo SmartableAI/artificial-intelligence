@@ -2,13 +2,13 @@
 category: news
 title: "Pinecone, a serverless vector database for machine learning, leaves stealth with $10M funding"
 excerpt: "Machine learning applications understand the world through vectors. Pinecone, a specialized cloud database for vectors, has secured significant investment from the people who brought Snowflake to the world."
-publishedDateTime: 2021-01-27T07:00:00Z
-originalUrl: "https://www.zdnet.com/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/"
-webUrl: "https://www.zdnet.com/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/"
+publishedDateTime: 2021-01-27T15:06:00Z
+originalUrl: "https://www.zdnet.com/index.php/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/"
+webUrl: "https://www.zdnet.com/index.php/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/"
+ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/"
 type: article
-quality: 78
+quality: 80
 heat: -1
 published: false
 
@@ -21,8 +21,9 @@ provider:
       height: 50
 
 topics:
-  - Machine Learning
+  - AWS AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://zdnet4.cbsistatic.com/hub/i/2021/01/27/433da3ee-bf33-491e-b03e-51e2184e3670/pinecone-illustration.jpg"
@@ -104,6 +105,6 @@ related:
         height: 315
         isCached: true
 
-secured: "WGBeq1PxU+gvxcxvvcT/Mlt0+ZuqEVrBb/qIejYgH2o1A6AX9y5ufapBJAMehzANS5O6VssC8ZFECj7ONQhmkCJ83EWLSgpECzK+l8i5oy4NNXZu3yV0N+T2PjlsnumdmS2S4TKKCGf5fMnOdYJIjfZjoZ07f/6II0oFbz0d+B6vR96CkbvicWHiiGp2QiAjqP9XVXtADhWNAiORPjM7NzTfdVak0q39989AdxK6M14CoOAzVbAvvpL2lrMQ/fHcRyHWc+rJFEVp8GSJL6uZR/UNvEXnp/r6l/B4rJrkCOUUK2WeYEknDXcAunfrBEzQvC9C0OB8AeBRBSCfIWawcRctygrR7C5FxA+3DcmV0rk=;YEN4OcPFpHpubxrzyVpCBQ=="
+secured: "iZ+WDhuZ5bFV+ehZb/f/x5wQr7QdbaW8FhyqvrcXc0U9pJQ4EwOVLNXSH4/DNbAuZoRnQNPELIOsrQ4JYoMwLJbYZ+Peok8Zn9uS/2nP+zCghEeYtFFT9CuiXOuMazeOyVnY0HujWuP8XJZ/UFPI6F4YBqFgP7zxjKJvkri0VZFG+z5qDP0jgkVriDE0Qz/RqLuEeVLVXqtsFf12o5GOSxIIKlb7hQqJF8bbyBWLnsNzybIrWodYainVUhV1GDTMLkzfJgNhtMTdgM929UArj+mNnqr9h8aEcd5D9bRilF9jEo4qECjJ8CkMvfr2QoBl3KbF/v27gjekvQyGoKs1Rmc4VR5LZQHpiHsOlkreDsk=;SUrCl4/D8oZONbmtzvYjdg=="
 ---
 

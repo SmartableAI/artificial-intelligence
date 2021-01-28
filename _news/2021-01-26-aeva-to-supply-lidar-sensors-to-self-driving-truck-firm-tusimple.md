@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/article/aeva-tusimple-idUSL1N2K102G"
 webUrl: "https://www.reuters.com/article/aeva-tusimple-idUSL1N2K102G"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -54,6 +54,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "4D lidar to be deployed on TuSimple’s self-driving trucks"
+    excerpt: "TuSimple will equip its self-driving trucks with 4D lidar from Aeva to accelerate commercialization of next-generation transportation logistics. Aeva’s 4D lidar uses frequency modulated continuous wave (FMCW) technology for automated driving."
+    publishedDateTime: 2021-01-28T13:35:00Z
+    webUrl: "https://insights.globalspec.com/article/15861/4d-lidar-to-be-deployed-on-tusimple-s-self-driving-trucks"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
 secured: "Apkjs6dtOgo3NOGGVVBSWsEMhJrUAH7rbvEk1PLk6GCHvm3rwuqo+IusUiCOeOt69mA+dDb4eDJ74sGXkAMGEG/78pP+W9Sc6lqOSoUGQR0xtd2As6ymGnsRoz86I7T46LnZg8V15TuOIi98WOJmKQ0FfSYEClO0X7964v2QF67miaFVFRntAfu8Y3U+tydvMC2ZcuSyChuJMVAKV6J6ZkkGO637q8dGWzDJqCwln1b/ZMqnUvtA0GaduDCsX9e/H0UytCI3xyL4fTdL1CyNKjxkm+p1ZsmiiguZKrLRsNTsg8JcFN1wq1S8Z/An2o6+Isvcpn9vjpxiwjtS61Hp0+A31Hft37BFEc/Rext0mxM=;iGjbm7ObULAX5ovDaGWoag=="
 ---

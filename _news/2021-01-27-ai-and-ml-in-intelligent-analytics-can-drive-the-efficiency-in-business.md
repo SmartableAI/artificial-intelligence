@@ -56,6 +56,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Data Analytics and Artificial Intelligence to Propel Smart Water and Wastewater Leak Detection Solutions Market"
+    excerpt: "Frost & Sullivan's recent analysis, Data Analytics and AI Boost Accuracy to Drive Global Smart Water and Wastewater Leak Detection"
+    publishedDateTime: 2021-01-28T14:16:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/data-analytics-and-artificial-intelligence-to-propel-smart-water-and-wastewater-leak-detection-solutions-market-846058818.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 17
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "XmdAEeKIZnunHWXbxg3CXTQxwg6bZGrhEEsf864Optw9EqJJRe6/VzjZJZQYXk/zH+K8uqmGtOV3tKItRjnEDC9JttMq5Di8ksabNslV1c0UKW7hJ2GUimSi2Yk+s/L/0yXQXgsc0uw/p39rqkuNQNuXW2K0LgIvSP9gRXltJrVxvjj7O7Z4cr5y1VN15Bf/re1ZAGWwIRMy8Ie05j91fM7WkBuGgbZYdoHRAghpe51CjMIpcMCO8qHRp85v37KmslcHFuac0/A4TxMuMenbcr1f7d8KZfPA7aJ51GyrModsXhUJdIPJCquTETapaI8h378GuXO/7KZC5SVNfS2JCqyEpctFsU1oIjqdumgQpDT/tHN22rVaHS5YCPzvbUmTB2EWzAair634QYOy4j97M1r8S2z834HAvH8sbNuf0H827fYgJgBJ657SK2D7sN2eb3uskOn0csjTMhFuC1lyOL9t4d8RdEsJfSMqTO3kSbwP4sqXywRREfZ3hWc/dT3o/bGx9brXAEgGmJNm5K5o3A==;C5NsvRm4VlGYcVeOuncmUw=="
 ---

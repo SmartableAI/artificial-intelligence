@@ -24,14 +24,12 @@ related:
   - title: "14 Ways To Better Leverage AI To Connect With Consumers"
     excerpt: "Of the many ways businesses use artificial intelligence, leveraging it to connect with consumers is one that can generate great results for marketers."
     publishedDateTime: 2021-01-27T13:10:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2021/01/27/14-ways-to-better-leverage-ai-to-connect-with-consumers/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2021/01/27/14-ways-to-better-leverage-ai-to-connect-with-consumers/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2021/01/27/14-ways-to-better-leverage-ai-to-connect-with-consumers/amp/"
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2021/01/27/14-ways-to-better-leverage-ai-to-connect-with-consumers/?sh=2efafabb3465"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 167
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60088a1498ae48aaf875d057%2F0x0.jpg"
         width: 1200

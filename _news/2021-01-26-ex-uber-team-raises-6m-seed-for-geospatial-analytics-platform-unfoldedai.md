@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/01/26/ex-uber-team-raises-6m-seed-for-ge
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/26/ex-uber-team-raises-6m-seed-for-geospatial-analytics-platform-unfolded-ai/amp/"
 type: article
 quality: 85
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
         width: 1000
         height: 600
+        isCached: true
+  - title: "Data Analytics and Artificial Intelligence to Propel Smart Water and Wastewater Leak Detection Solutions Market"
+    excerpt: "Frost & Sullivan's recent analysis, Data Analytics and AI Boost Accuracy to Drive Global Smart Water and Wastewater Leak Detection"
+    publishedDateTime: 2021-01-28T14:16:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/data-analytics-and-artificial-intelligence-to-propel-smart-water-and-wastewater-leak-detection-solutions-market-846058818.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 17
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "rgnmpPiVHsF3RrKwTo213rTfkRYVmxqn+q4zFqVk71jzyQC8Ez8dIJ+pcXuSzAyU0700iChklUMYvYvj2eB/dzeqYYRG9pZAON8KgrW0b6iwRFCER+5pqimbFi102hc7NZ/Vfwmd1kKvR6H23yG66Jw+QBRdnXAKkQRu+8Ok38mFjSOebhtzRnaUoKP+UVrWL5yinGYy0ix2tx5jbRDkZp5UhILqse2mluP6CyHzynCp5tAdOEwIGYU+VAgkZ+YYsQLFL/yf5VZE2PnjsxahEsyZuQWUAw7WDKgGAubkVOo0gYE+Tmf8PsQrCLsi+qiWvNziF5r+Mn95UjkIFa1S+9KEjXPy5gFsXbellVfwEz8=;0WPs5lfYuVzCZpimK1ShxQ=="

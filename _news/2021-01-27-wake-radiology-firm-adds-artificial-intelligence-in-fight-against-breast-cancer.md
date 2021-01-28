@@ -41,6 +41,22 @@ related:
         width: 2400
         height: 1573
         isCached: true
+  - title: "Using AI To Humanize Your Brand In 2021"
+    excerpt: "While 2021 offers the promise of a fresh start in many ways, the lessons of the recent past cannot be ignored."
+    publishedDateTime: 2021-01-28T13:20:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/01/28/using-ai-to-humanize-your-brand-in-2021/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/01/28/using-ai-to-humanize-your-brand-in-2021/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/01/28/using-ai-to-humanize-your-brand-in-2021/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601192cf859255b72531e304%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Prostate Cancer may be diagnosed using a urine test with artificial intelligence"
     excerpt: "Prostate cancer is one of the most common cancers among men. Patients are determined to have prostate cancer primarily based on *PSA, a cancer factor in blood. However, as diagnostic accuracy is"
     publishedDateTime: 2021-01-25T15:45:00Z

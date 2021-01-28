@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/01/27/amnesty-international-calls
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/27/amnesty-international-calls-for-ban-on-facial-recognition/amp/"
 type: article
 quality: 89
-heat: 319
+heat: 329
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Next Target for a Facial Recognition Ban? New York"
+    excerpt: "San Francisco, Oakland, and other cities have enacted moratoriums on government use of the tech. New York looks like a harder sell."
+    publishedDateTime: 2021-01-28T13:02:00Z
+    webUrl: "https://www.wired.com/story/next-target-facial-recognition-ban-new-york/"
+    ampWebUrl: "https://www.wired.com/story/next-target-facial-recognition-ban-new-york/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/next-target-facial-recognition-ban-new-york/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 89
+    images:
+      - url: "https://media.wired.com/photos/6010bfcaea675c9b9e49067c/master/pass/Business-Police-Facial-Recognition-1177427464.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "Use of facial recognition tech sparks privacy fears"
     excerpt: "The Lucknow police’s decision to use facial recognition technology (FRT) to monitor women’s expressions to prevent street harassment has spurred privacy concerns among Indians. The government needs to create strict and clear regulations before it allows law enforcement agencies to use facial recognition for policing,"
     publishedDateTime: 2021-01-25T01:34:00Z

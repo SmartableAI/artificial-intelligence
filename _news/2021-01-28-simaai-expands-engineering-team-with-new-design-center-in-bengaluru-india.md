@@ -1,22 +1,29 @@
 ---
 category: news
 title: "SiMa.ai Expands Engineering Team With New Design Center in Bengaluru, India"
-excerpt: "SiMa.ai™, the machine learning company enabling high-performance compute at the lowest power for embedded edge applications, today announced a new des"
-publishedDateTime: 2021-01-28T12:30:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210127006084/en/SiMa.ai-Expands-Engineering-Team-With-New-Design-Center-in-Bengaluru-India"
-webUrl: "https://www.businesswire.com/news/home/20210127006084/en/SiMa.ai-Expands-Engineering-Team-With-New-Design-Center-in-Bengaluru-India"
+excerpt: "SiMa.ai™, the machine learning company enabling high-performance compute at the lowest power for embedded edge applications, today announced a new design center in Bengaluru, India. The investment in the new site will bolster the company’s engineering and operations team,"
+publishedDateTime: 2021-01-28T08:47:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-software-industry-industrial-products-and-services-electronic-parts-manufacturing-b049694ab8384698b6116f7fa3c410c5"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-software-industry-industrial-products-and-services-electronic-parts-manufacturing-b049694ab8384698b6116f7fa3c410c5"
 type: article
-quality: 15
-heat: 15
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
+  - AI in Robotics
   - AI
 
-secured: "+ZT6iKKqeUW9fnEapdLCaeSEFTaxcApgzP4Xjy4aEYC7Br4e3Jrl8NM30j8jxiSjeGcNWgmpVNu8aLdk4BjEIQ1hPL+xIbAoxa31Qn5r441MLVoPpbsnwEIl2fZQRhhzx0Reh3SNCbLNlxHi0q5Gm4gAH6OzhJkVcGeb5ylf6SlTjCiHZbzqFaL0j+4bxQSZAyvn1HQwzRhQsgvQoKpoMoXafgkLdDNBpYmmDX6f8C7AHugwZFbn/R7zxZhuTNmJ0j4SLM0wamKwvoLLLDhu4It95ZwEscNIfk5K9BqBqhvVepws/AQc5eHtFQoVHF2A6P917VOEg7ci8lCZHyMY/2XHFAlZaGjoxK28WU6LkySFk6OSY1q10iIsVPdbpvlXCpB/FOxl/PQpqrH3CHNZ+NdHft2v5lksSkucT67vOf7OfZWvwA/8qf9YtFQhr9XjjD5gwgmqQZ6mbuhC+ISAsx0WxGsc+lK5v3rMEykqJAaF34Nop3EFD1pYRRXjjtu0WPMM6OuZQt3ZxftE35vtRw==;3K/CesxpMRmrET2n33iUuQ=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "z7TCmy7MuIBgh3jxD2x4dXJTuU7KSdBzFVugOx3d5AGB+SShJ+3/Cya4dk0JQC69fTH7f2gaHNGTEl8qyj6X+8vLluJpYPmKTlO/qjrPFjgBSLl4OoKrdoJ1ZlMhCwJ+dzuUIREl9e7Q0PsIVJ4+OIZFy7wN+kqIQ+FUxg8AUufWQkUItSzVW9yYitYsVxeMs9HgH8RDVzzCVrvHP+Rs5Tt0M/5sszumc5V72s1785W0UMFvCsBFs2t84iIuc/ZRINuf9AFRHT6VRptbKdFCJKo0QTREEiZpXIhTbbzmxptEVaG1g0KpXlN6FWsC0b6A8rHa5VKkWvvGJS4nopEtazh7ADz/wc4hoq/0k460ops=;+ko/JcIAvhelSNvkLukN4A=="
 ---
 

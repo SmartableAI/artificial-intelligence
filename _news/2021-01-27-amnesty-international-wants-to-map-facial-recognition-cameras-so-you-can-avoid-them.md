@@ -43,6 +43,22 @@ related:
         width: 796
         height: 417
         isCached: true
+  - title: "The Next Target for a Facial Recognition Ban? New York"
+    excerpt: "San Francisco, Oakland, and other cities have enacted moratoriums on government use of the tech. New York looks like a harder sell."
+    publishedDateTime: 2021-01-28T13:02:00Z
+    webUrl: "https://www.wired.com/story/next-target-facial-recognition-ban-new-york/"
+    ampWebUrl: "https://www.wired.com/story/next-target-facial-recognition-ban-new-york/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/next-target-facial-recognition-ban-new-york/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 89
+    images:
+      - url: "https://media.wired.com/photos/6010bfcaea675c9b9e49067c/master/pass/Business-Police-Facial-Recognition-1177427464.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "Use of facial recognition tech sparks privacy fears"
     excerpt: "The Lucknow police’s decision to use facial recognition technology (FRT) to monitor women’s expressions to prevent street harassment has spurred privacy concerns among Indians. The government needs to create strict and clear regulations before it allows law enforcement agencies to use facial recognition for policing,"
     publishedDateTime: 2021-01-25T01:34:00Z
@@ -325,6 +341,6 @@ related:
         height: 450
         isCached: true
 
-secured: "NPtIOI7hT9HHsjpR3CT6GynhNhkTF8Q+NAj7G71RYg5jct0Ad64QoVAZEHotqYh0gd9/aK2PS8npMO+OHhZzPek5nBazNSoCHIwTfdsf03v2hC1+0TSW/+EvWT646fupewt78sJBaRJ+LtO+HhlA7L4ecbslmsAa/PDpoFwoSyAQXgSIyX5uyDuc8teQg+vxZP2oR1/AKwPmUlQWlJG4dKUmDeaFPavE3RjU2ra6FeYKFQsCQJ2T9ujUeEpIi88thKWPHswfAolTko5POO/RQ6QM51ymQhwWqEhrct25IXA/93EuvCkerewXZig1WtCja8xkA6o1MIGRoO2tIAvqIDJ8O5qstGXud7ISWHK7C5I=;UoOMKUNaK4ucqk//HiQZ+g=="
+secured: "EFfgsym6Cm1ZcXkh0EExeqIw4TBsTzuyLwcxdkragp9D/MSl+QNKJOZKZFvYzfSH4mLgbkj4osGCCZeTCGQngpe4SZx1so35jBrAcc62P3YzvenTJA7cFQPqLuJxeKx+zxZP9glXgfPzqKe2aSXC/XUZdl0+gQ2VqC5AzLxuURyrmwN6aAYrlF6sKq5K53oocewMyxKMCOjehItkchmH1JJqZvzgDx7jVvj0uglwXz6v3n0w3hFWewnEpb70Qk4J05GPgPxni2SEhyCqx3llv5smWW07T0Ihou01BS5v8B9vbqtbk6Xab0byAnrqjKjvzhEJE+WeTAYxl6K15VC7yOFXwXQeVuEhSnEt2n0PAHEVMSmY5Kbrdp+FZiNzqBYNE0mH46dJWBiTRsRiMU/jX9/8zZUNPtxNb59AkLAoTphLdPpMUVkyAg9ydxuAUPF7wp97i/H1hY3d6HPNBa+Lrdjs7ZwObScDh6GqFyzZHMwCI460L6uznWyOUp1RWuJnTejxgK8a1wAGBqsdvXjCQg==;jTM+Wzb1WebchwFk6YLFDg=="
 ---
 

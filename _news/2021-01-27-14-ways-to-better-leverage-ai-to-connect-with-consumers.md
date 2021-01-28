@@ -4,19 +4,17 @@ title: "14 Ways To Better Leverage AI To Connect With Consumers"
 excerpt: "Of the many ways businesses use artificial intelligence, leveraging it to connect with consumers is one that can generate great results for marketers."
 publishedDateTime: 2021-01-27T13:10:00Z
 originalUrl: "https://www.forbes.com/sites/forbesagencycouncil/2021/01/27/14-ways-to-better-leverage-ai-to-connect-with-consumers/"
-webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2021/01/27/14-ways-to-better-leverage-ai-to-connect-with-consumers/"
-ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2021/01/27/14-ways-to-better-leverage-ai-to-connect-with-consumers/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2021/01/27/14-ways-to-better-leverage-ai-to-connect-with-consumers/amp/"
+webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2021/01/27/14-ways-to-better-leverage-ai-to-connect-with-consumers/?sh=2efafabb3465"
 type: article
-quality: 87
-heat: 127
+quality: 167
+heat: 207
 published: true
 
 provider:
   name: Forbes
   domain: forbes.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg"
+    - url: "/assets/images/organizations/forbes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -88,6 +86,6 @@ related:
         height: 720
         isCached: true
 
-secured: "sgmSRAVOk54p7tf7SCeegTYwLV6Hd2sxCMyfw9cwLj/6zBtuju2qsUyYQNi9+SX/coAPErkS7F+JQYZK/rFBCUFKhUX5s9LFcGXPeo6LUBrUTNqieWgSYCdz6zlKkF7RyWiiPueAKfRDvzlIVeLTLSTmMdUi5v4X+64++te3CgtSPTcaVGYO9TpYQ6JTHLn6MbqfKh4dgGfaoOObTVPhK3kRoAqL4OtQfFxjHfUR2Fw/MMqgX01J7ecqGAf0X8/U7UUkNPbhIHZl8YK1GcvRGvl4pZW3qEqiv/c2y0fAxdgZYILTNwDtAn7QLDehif/aTqgJ/uS2/CQYQGu/I7Mkh1hfldFFtr9XKG3Hk5f6bvfC+WytEVVY38Zx3BPuDBCwPZK7sHhsLC26GDkMBSUJx46kJdraKl08hAPIvd0S7zaC5lrcWMO6otJRi2pYSt89S7PmI4BI2LBqlVL0olnMzoMaNoni5kJlZWOl2bYg8KOAtQxPFNuU4bULJYt5dwtagcuHaSr5GT4SBifueQEZkA==;QbktsrIdGuvFHrLFmfwN0A=="
+secured: "YoWainiOs+XyKd11ClA7LSA0NmSqRlVsB3g8T55esr4kqPJC4/kk82pS2M5EqG9/3tyeVzUo5swJlETqAzunbrw+oFyUrw+edRk369ooDGAn9saU2Rxm4aT1f4K3eCoLKdR82dOC61qD3JaEBwh7WvNQe3NWKZgCcrCPXQxM0Qh+VKrYQAMylskmgmZ68GVisEtRiVi45r2f9ahjGvhJCuuM+qWPK4ERQ0n1Y6CMzgjSK7EPUn6/jruIU60yaf2oCRya3lrj6u2Bbc78/41d/cq1f0RUANi5GuhTDz8Nn974nRtc/2pHgBiEcCG2wWFEAEcV32yMK7JReRoDkTfpwQ3jSwBurygQlcHDbnE2i0g=;RiLE1fYx7gY9TfKfNzRjeQ=="
 ---
 

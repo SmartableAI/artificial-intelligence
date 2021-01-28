@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Didi raises $300 million for self-driving unit"
+    excerpt: "Chinese ride-hailing giant Didi Chuxing said on Thursday it has raised $300 million for its autonomous driving unit, tapping investors to expand its technological know-how in the field for a second time since last year."
+    publishedDateTime: 2021-01-28T12:04:00Z
+    webUrl: "https://www.autonews.com/mobility-report/didi-raises-300-million-self-driving-unit"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 39
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/343836267-2.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Chinese self-driving startup nets $154m in investment from state-backed fund"
     excerpt: "With the new funds, Uisee will further develop its autonomous driving technology and accelerate its monetization."
     publishedDateTime: 2021-01-25T11:30:00Z

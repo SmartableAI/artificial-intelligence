@@ -52,6 +52,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 69
+  - title: "Baidu Apollo receives driverless vehicle test permit in California"
+    excerpt: "Baidu Apollo has now been approved by the California Department of Motor Vehicles (DMV) to test driverless vehicles without a safety driver behind the wheel on public streets. This makes Baidu the"
+    publishedDateTime: 2021-01-28T13:25:00Z
+    webUrl: "https://roboticsandautomationnews.com/2021/01/28/baidu-apollo-receives-driverless-vehicle-test-permit-in-california/40012/"
+    type: article
+    provider:
+      name: Robotics & Automation News
+      domain: roboticsandautomationnews.com
+    quality: 54
+    images:
+      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2021/01/Apollo.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Baidu gets Calif. nod to test driverless cars"
     excerpt: "Baidu Inc. received a permit from the state of California to test self-driving vehicles without a driver behind the wheel, the state's Department of Motor Vehicles said on Wednesday. Although self-driving vehicles are designed to eliminate the need for a driver,"
     publishedDateTime: 2021-01-27T22:02:00Z
