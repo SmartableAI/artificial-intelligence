@@ -24,15 +24,15 @@ topics:
 related:
   - title: "Pinecone, a serverless vector database for machine learning, leaves stealth with $10M funding"
     excerpt: "Machine learning applications understand the world through vectors. Pinecone, a specialized cloud database for vectors, has secured significant investment from the people who brought Snowflake to the world."
-    publishedDateTime: 2021-01-27T15:06:00Z
-    webUrl: "https://www.zdnet.com/index.php/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/"
-    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/"
+    publishedDateTime: 2021-01-27T07:00:00Z
+    webUrl: "https://www.zdnet.com/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 80
+    quality: 78
     images:
       - url: "https://zdnet4.cbsistatic.com/hub/i/2021/01/27/433da3ee-bf33-491e-b03e-51e2184e3670/pinecone-illustration.jpg"
         width: 426
@@ -67,6 +67,6 @@ related:
         height: 315
         isCached: true
 
-secured: "gsP4OwEs6lDBG0GpwgBhnh0pBcuX3YDfPrS7tIoU/qJd0ZKDrqFE3NGuogVaYv2OtiuxRzEl8fRQIg7hf81ey5l2ouhEaOAJ7qHiV1SWXf9GoaAEHQeCwctW6mWi0/roF5srbgLrQnrEBVl09GmBLuDki5fqFMM5KZYFjVnwJLJvT+QSDorzAMxqG9moG4E3t2ZB40w2/Ok0vSJxxx+q3tB16XqEH845WJGnS5w+fVq8PyhYpguh4rMDR2Os1pCkUl9AjWHzNh3VX84RcZQ05IYHu8er9Ki4tmm7o5LVZNp+53gGHf6CXbWt8W97TLStk77QVU9v969pptEeliowF6EgUK03JGZseitLjlMtKsE=;r9SYafrQk2dTkSv70337/A=="
+secured: "8VPvUzSpW1IJE1CdHII6gn0dbDCvy90bxf0K5x+bN5BvCipzpzXspUU6BU3p/Ijj741YKesInSJqXDPNO4Tj6flI2dnp92HFBG1GmHP/N9zk2dohIsw7MSRNEPFGHu5Dju+VJaRbz7qzi/D8Be//X2WEVjB7Feu1+fJrkdPLAAwhZmBG3nJU5i1Lwp9n7wtHOwtY8vVfLsimroXiI0KrDj9Pq0+/WcVwaf8PbEu6l87DsYhhmAwUD41YfsEVZx07kHSd3A7oTbCqJBqXIW9YCcQj4V8DEBFhEEsXGWWJXv4duPyT6yZSX1SRJ6M1ELaUbmstAS2FY2loLQpZpkz/oJUCW+Y17H/8uuak9IQgrzc=;/F//CYTDJJ6HygvoYypvAw=="
 ---
 

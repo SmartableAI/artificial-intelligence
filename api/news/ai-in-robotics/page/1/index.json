@@ -10,7 +10,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/364271",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -264,7 +264,7 @@
       "originalUrl": "https://newatlas.com/robotics/phoenix-robot-prune-fruit-trees/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -472,7 +472,7 @@
       "originalUrl": "https://www.slashgear.com/hyundai-dal-e-ai-powered-robot-provides-automated-customer-service-25656524/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 194,
+      "heat": 204,
       "tags": null,
       "images": [
         {
@@ -1398,20 +1398,20 @@
     },
     {
       "path": "_news/2021-01-14-makinarocks-hyundai-robotics-sign-mou-to-advance-ai-based-industrial-robot-arm-anomaly-detection.md",
-      "title": "MakinaRocks, Hyundai Robotics sign MOU to ‘advance AI-based industrial robot arm anomaly detection’",
-      "excerpt": "Managing Director of Hyundai Robotics, and Andre Yoon (right), co-CEO of MakinaRocks, signed a memorandum of understanding (MOU) to advance AI-based industrial robot arm anomaly detection. SEOUL, South Korea,",
+      "title": "MakinaRocks, Hyundai Robotics sign MOU to 'advance AI-based industrial robot arm anomaly detection'",
+      "excerpt": "SEOUL, South Korea, Jan. 14, 2021 /PRNewswire/ -- Enterprise AI solution provider ... The Seoul and Silicon Valley-based startup is currently partnered with global conglomerates in semiconductor ...",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-south-korea-seoul-industrial-products-and-services-9a51e849f3bf9e0dc38fdae82037ccba",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-south-korea-seoul-industrial-products-and-services-9a51e849f3bf9e0dc38fdae82037ccba",
+      "webUrl": "https://www.prnewswire.com/news-releases/makinarocks-hyundai-robotics-sign-mou-to-advance-ai-based-industrial-robot-arm-anomaly-detection-301208152.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/makinarocks-hyundai-robotics-sign-mou-to-advance-ai-based-industrial-robot-arm-anomaly-detection-301208152.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://mma.prnewswire.com/media/1420500/Dae_gyu_Yoon__left__Managing_Director_Hyundai_Robotics_Andre_Yoon__right.jpg?p=facebook",
+          "width": 1432,
+          "height": 750,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1421,11 +1421,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-13T23:06:00-08:00",
+      "publishedDateTime": "2021-01-13T22:53:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null

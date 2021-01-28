@@ -1,26 +1,26 @@
 ---
 category: news
-title: "MakinaRocks, Hyundai Robotics sign MOU to ‘advance AI-based industrial robot arm anomaly detection’"
-excerpt: "Managing Director of Hyundai Robotics, and Andre Yoon (right), co-CEO of MakinaRocks, signed a memorandum of understanding (MOU) to advance AI-based industrial robot arm anomaly detection. SEOUL, South Korea,"
-publishedDateTime: 2021-01-14T07:06:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-south-korea-seoul-industrial-products-and-services-9a51e849f3bf9e0dc38fdae82037ccba"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-south-korea-seoul-industrial-products-and-services-9a51e849f3bf9e0dc38fdae82037ccba"
+title: "MakinaRocks, Hyundai Robotics sign MOU to 'advance AI-based industrial robot arm anomaly detection'"
+excerpt: "SEOUL, South Korea, Jan. 14, 2021 /PRNewswire/ -- Enterprise AI solution provider ... The Seoul and Silicon Valley-based startup is currently partnered with global conglomerates in semiconductor ..."
+publishedDateTime: 2021-01-14T06:53:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/makinarocks-hyundai-robotics-sign-mou-to-advance-ai-based-industrial-robot-arm-anomaly-detection-301208152.html"
+webUrl: "https://www.prnewswire.com/news-releases/makinarocks-hyundai-robotics-sign-mou-to-advance-ai-based-industrial-robot-arm-anomaly-detection-301208152.html"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1420500/Dae_gyu_Yoon__left__Managing_Director_Hyundai_Robotics_Andre_Yoon__right.jpg?p=facebook"
+    width: 1432
+    height: 750
     isCached: true
 
-secured: "NvOrQt2/W0fuMX1GoYyD1feTmwintOJa34QaFNk6JbJjPz66Hma1Fkj5ZDadMAmnWEGeSMtTbNvCKDKWl/3vp8SC9qMsS/cSk9+LX/Qab9W8CKogeqA/kMTZTyUCTziCEX4sjLPU1NNBmK+OlV+6vqo1d69cnwTGxPkOI0zlt1xzBNd0TfoC2zzCKh0qDDKH/hvkOIy2FTr/gE0cIlsm4pJLXlDgxEJbgsJLe5nrg31MmS2RK60ZA1vt8CcnMB6FMnlZYlbZogNc+IYE6XKtWBfzphUZ6RqzbrwRZmxALoKFmutP48SCab4Qtl/dlfeH1+z1Wq7vFTWZTWDlo1VqBF9v5VxtBD/rBs/KObyOldM=;RLRwnzBur0cN7i8dQsis3g=="
+secured: "msEfXlaWpYHhnfA6fLyVSkFUCQZb2a+G3miDWrbMjTGpvcCCZppnxpihviF9RWjUa9RQ14PI8pYiACu3pNahpnMrlHeilbfmPcKvqeAS1OXBUx9v+H2WCfRZ4/FpGRzPXtikMW3c2VFSawRNGBqMVzbMgq4bavwYeWLlTVTgF8AmtzbJgVOT6bt1ojVN/5/fBeZsiVsHYd4LXN17J7GHeMT209zu67/uvALXJjtPvt/Vq1qu2U74fHC2A23ULnCl2v2trjNAS7cqM3NZZhAOndQgzqvlmntBiSmELNodi+Iha5EL4q+39Rqq068sWcb2nAbtImAR2zmLXcM3xw6hhaIdkaMWXeM1nG2SVcd4Y68=;hVLRcEsaqzREjO+bfYjIJQ=="
 ---
 

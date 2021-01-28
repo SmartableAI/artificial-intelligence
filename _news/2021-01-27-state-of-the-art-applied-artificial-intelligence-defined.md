@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/01/27/state-of-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/27/state-of-the-art-applied-artificial-intelligence-defined/amp/"
 type: article
 quality: 91
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI will soon surpass humans in one of the last things that define us"
-    excerpt: "The idea AI might be able to pluck out the most effective word for a specific situation, based on an understanding of the audience, is also within the bounds of our imagination. It is harder, though,"
-    publishedDateTime: 2021-01-23T14:57:00Z
-    webUrl: "https://www.techradar.com/news/ai-is-on-the-verge-of-mastering-the-creative-arts"
-    ampWebUrl: "https://www.techradar.com/amp/news/ai-is-on-the-verge-of-mastering-the-creative-arts"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/ai-is-on-the-verge-of-mastering-the-creative-arts"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 87
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/RKr7aiHqZNYDEjq7CPKS9c-1200-80.jpg"
-        width: 970
-        height: 545
-        isCached: true
   - title: "Humanizing Work In The Age Of Creepy AI"
     excerpt: "Horror tales of an Orwellian future of work have haunted humans for decades, but they seem uncomfortably real today."
     publishedDateTime: 2021-01-25T20:52:00Z

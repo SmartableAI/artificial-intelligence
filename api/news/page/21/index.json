@@ -2,6 +2,40 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-01-12-grai-matter-labs-introduces-grai-vip-vision-inference-processor-to-bring-fastest-ai-to-the-edge-at-ces-2021.md",
+      "title": "GrAI Matter Labs introduces GrAI VIP, Vision Inference Processor to bring Fastest AI to the Edge, at CES 2021",
+      "excerpt": "GrAI Matter Labs, a pioneer of brain-inspired ultra-low latency computing, announced today that it would be introducing GrAI VIP, Vision Inference Pro",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210111005733/en/GrAI-Matter-Labs-introduces-GrAI-VIP-Vision-Inference-Processor-to-bring-Fastest-AI-to-the-Edge-at-CES-2021",
+      "originalUrl": "https://www.businesswire.com/news/home/20210111005733/en/GrAI-Matter-Labs-introduces-GrAI-VIP-Vision-Inference-Processor-to-bring-Fastest-AI-to-the-Edge-at-CES-2021",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-11T11:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-capitol-attack-fbi-mum-on-facial-recognition-clearview-ai-searches-spike.md",
       "title": "Capitol attack: FBI mum on facial recognition, Clearview AI searches spike",
       "excerpt": "The FBI isn't saying whether it is using facial recognition technology to identify suspects involved in the Capitol attack on Wednesday. Neither are any of the other seven agencies CNET reached ...",
@@ -1117,40 +1151,6 @@
       "provider": {
         "name": "The Herald-Mail",
         "domain": "heraldmailmedia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-veritone-and-alteryx-announce-strategic-relationship-to-power-the-alteryx-analytic-process-automation-platform-with-new-advanced-ai-capabilities.md",
-      "title": "Veritone and Alteryx Announce Strategic Relationship to Power the Alteryx Analytic Process Automation Platform With New, Advanced AI Capabilities",
-      "excerpt": "Veritone, Inc., the creator of the world’ s first operating system for artificial intelligence, aiWARE™, today announced a strategic relationship with Alteryx, Inc., a leader in analytic process automation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/veritone-and-alteryx-announce-strategic-relationship-to-power-the-alteryx-analytic",
-      "originalUrl": "https://www.nasdaq.com/press-release/veritone-and-alteryx-announce-strategic-relationship-to-power-the-alteryx-analytic",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-11T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null

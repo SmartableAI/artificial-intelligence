@@ -41,6 +41,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Artificial Intelligence Will Define Google's Future. For Now, It's a Management Challenge."
+    excerpt: "Google's parent has waded through one controversy after another involving its top researchers and executives in the field. In the most high-profile incident, last month Google parted ways with a prominent AI researcher,"
+    publishedDateTime: 2021-01-26T20:03:00Z
+    webUrl: "https://www.morningstar.com/news/dow-jones/2021012614171/artificial-intelligence-will-define-googles-future-for-now-its-a-management-challenge"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 9
 
 secured: "93dmt52gpFZ5i/1WVcKBo50uOMJJ0dzvjXL7DgfRwbMaZk20hoT4CaMfJNDGaiS97fxMStpcS8hwOn60izWjMxqM/KSwxaiqb+jHJn4wZgFWo7hYfQc9+1Iw+yeV5s2Vd41tX80TGHTB3vOi7u2bFFt7sUvtECOxut7Yg/4fF4weQCF9/QIdUYCPk4HuWoAzkEwQJoYb+pur+LToktoeV+JO/GXhamP7KRjtngt6+ypghnz2tjOVwmzJeO70++h58QJrFjfz4UTUBqIrgn3WXvQzmhXXJp0puUhTQZKp7q/6JTsIwtI5A/3eUZ1zoJaG32MbGdqEnUGle3XBXYDOhi29hblxkSAKuvs0TaYo0yM=;eac75M91B56J0S1wZqZr/w=="
 ---

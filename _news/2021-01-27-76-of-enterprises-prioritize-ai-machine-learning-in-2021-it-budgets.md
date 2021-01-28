@@ -7,8 +7,8 @@ originalUrl: "https://www.enterpriseirregulars.com/170814/76-of-enterprises-prio
 webUrl: "https://www.enterpriseirregulars.com/170814/76-of-enterprises-prioritize-ai-machine-learning-in-2021-it-budgets/"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: -1
+published: false
 
 provider:
   name: Enterprise Irregulars
@@ -26,19 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Why 76% of enterprises are prioritising AI and machine learning in 2021 IT budgets"
-    excerpt: "AI and ML initiatives matter “more than we thought,” with one in four saying AI and ML should have been top priority sooner."
-    publishedDateTime: 2021-01-27T11:11:00Z
-    webUrl: "https://cloudcomputing-news.net/news/2021/jan/27/why-76-of-enterprises-are-prioritising-ai-and-machine-learning-in-2021-it-budgets/"
+  - title: "Artificial Intelligence Takes Center Stage Early in 2021"
+    excerpt: "AI is the most significant technology of the last 30 years and its innovation is accelerating in the early part of 2021."
+    publishedDateTime: 2021-01-28T05:26:00Z
+    webUrl: "https://www.eweek.com/pc-hardware/artificial-intelligence-takes-center-stage-early-in-2021"
     type: article
     provider:
-      name: Cloud Computing
-      domain: cloudcomputing-news.net
-    quality: 48
+      name: eWeek
+      domain: eweek.com
+    quality: 69
     images:
-      - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2020/03/money-rain-picture-id172276209.jpg"
-        width: 1024
-        height: 768
+      - url: "https://www.eweek.com/imagesvr_ez/b2bezp/2017/07/IBM.Watson2.JPG?alias=social_image"
+        width: 560
+        height: 300
         isCached: true
   - title: "Towards Broad AI & The Edge in 2021"
     excerpt: "There are those who debate whether the new decade of the 2020s commenced on 1 Jan 2020 or 1 Jan 2021. Either way, one suspects that many around the world will hope that at some point during the course of 2021 the current year will mark a shift away from the events of 2020 and allow for a new start."

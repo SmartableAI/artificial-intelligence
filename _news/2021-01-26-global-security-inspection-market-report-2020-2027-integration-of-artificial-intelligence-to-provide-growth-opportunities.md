@@ -21,33 +21,30 @@ topics:
   - AI in Security
 
 related:
-  - title: "AI-Based Fever Detection Camera Market 2021 Growth, Segments, by Size, Share, Key News and Top Companies Overview to 2027"
-    excerpt: "Jan (The Expresswire) -- The global AI-based fever detection camera market is set to gain traction from their increasing deployment by"
-    publishedDateTime: 2021-01-25T07:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-based-fever-detection-camera-market-2021-growth-segments-by-size-share-key-news-and-top-companies-overview-to-2027-2021-01-25"
+  - title: "Worldwide Autonomous Navigation Industry to 2027 - Broad Array of Applications of Mobile Robots is Driving Growth"
+    excerpt: "The \"Autonomous Navigation Market Forecast to 2027 - COVID-19 Impact and Global Analysis By Solution, Application, Vehicle Type, and Platform\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2021-01-26T18:27:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/worldwide-autonomous-navigation-industry-to-2027-broad-array-of-applications-of-mobile-robots-is-driving-growth-1030005928"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/worldwide-autonomous-navigation-industry-to-2027-broad-array-of-applications-of-mobile-robots-is-driving-growth-1030005928"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/worldwide-autonomous-navigation-industry-to-2027-broad-array-of-applications-of-mobile-robots-is-driving-growth-1030005928"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Machine Learning as a Service Market Size 2021 with Regional Opportunities, Share, Trends, New Product Launches, Consumption Demand Forecast to 2024"
-    excerpt: "Machine Learning as a Service Market Study 2017-2024 by Deployment Type ( Public Cloud, Private Cloud), By End-Use Application (Manufacturing, Retail, Healthcare & Life Sciences, BFSI, Travel & Hospitality,"
-    publishedDateTime: 2021-01-27T10:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-size-2021-with-regional-opportunities-share-trends-new-product-launches-consumption-demand-forecast-to-2024-2021-01-27"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
+  - title: "Worldwide Industry for AI-Enabled Medical Imaging Solutions to 2030 - Rapidly Evolving Deep Learning Techniques Presents Opportunities"
+    excerpt: "The \"Global AI-Enabled Medical Imaging Solutions Market: 15 Countries Analysis - Analysis and Forecast, 2020-2030\" report has been added"
+    publishedDateTime: 2021-01-26T13:15:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/worldwide-industry-for-ai-enabled-medical-imaging-solutions-to-2030---rapidly-evolving-deep-learning-techniques-presents-opportunities-301214838.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 22
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
         isCached: true
 
 secured: "HosehqUC3K8YRlfno/cHS8EqjvFDS3fEx6+O/xobph8CQUQGvQawjKLoIm1At6N4VcB+gBig3AC+DUVhP2s6aPIbL3BYK4QJNdkOSfIXflkpPBQmh/kqb+gIUHxbbCW5larKvuz9YRjJ2Kz09vkSqsIEAs8nPOFvijVlC8Ajezo3IX75INyhqWXykj+kql6f6RFLLUmdP4k3S8N3wl7hZffSEAAqZVIhRlq+8jQUWR0KT5jDj562q7VrLX/gk/dnSPHwP2Nui5pM1HhVKoMNMjC+UBAvogapaD4qyNitIXM9JWGIyEee/4oeBKk6S4O5TFIOJEa589a2JWdfCEQu8GDbi+V+waAd9jk/Gm3AjcA=;5faBG1UH+3lSNI7OAJ9EkA=="

@@ -43,17 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Security Inspection Market Report 2020-2027: Integration of Artificial Intelligence to Provide Growth Opportunities"
-    excerpt: "The \"Security Inspection Market Forecast to 2027 - COVID-19 Impact and Global Analysis By Product Type and Application\""
-    publishedDateTime: 2021-01-26T09:38:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19314842/global-security-inspection-market-report-2020-2027-integration-of-artificial-intelligence-to-provi"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19314842"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19314842"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 28
 
 secured: "iCwXQe+6JwnwrP8GPPi6Cm99cf0j/xR/wYA/lnB30pSGIynZ0qykrPQwyuZWdrbr7i+i3QZ+BZRdZYpLpseFIBaoXiQb9G1z5SahRpPd7fBHrCIXF/p7ZqKeWVS8GZ4GU+Enm9wX8cuDorAYGNLQkv3bapzZqr+F+RRtBg2liqqGqgI+yu7BWp/DaDeAFrIkdB4EM4P9psaY9hH5k/QcSkLGkZpZO6HffMNHO4jE7DG07kNgWV0dkrQMt2kTYu7XmRPL0ZAlZVol9HJrTXXGgVmonG3mtwHt3mLzrNlEVXXzKV2zS8Cy/gFX6vYW5bGXlHU1m8fDPH0uO+fufdhAcwqWj1cZjz8dBXDiw1vUVQo=;+AvkGaGJKx5VutsDEBssMg=="
 ---

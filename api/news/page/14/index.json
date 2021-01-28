@@ -2,6 +2,58 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-01-15-amazon-will-let-companies-build-voice-assistants-on-alexa.md",
+      "title": "Amazon Will Let Companies Build Voice Assistants on Alexa",
+      "excerpt": "Amazon.com Inc. is offering other companies the ability to use the building blocks of the Alexa digital assistant for their own automated versions, the latest effort to embed the company’s voice software into other devices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-01-15/amazon-will-let-companies-build-voice-assistants-on-alexa",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-01-15/amazon-will-let-companies-build-voice-assistants-on-alexa",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4RPzukzY818/v0/360x-1.jpg",
+          "width": 360,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2021-01-15/amazon-will-let-companies-build-voice-assistants-on-alexa",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2021-01-15/amazon-will-let-companies-build-voice-assistants-on-alexa",
+      "publishedDateTime": "2021-01-15T05:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-15-amazon-opens-alexa-ai-tech-for-the-first-time-so-car-makers-can-build-custom-assistants.md",
       "title": "Amazon opens Alexa AI tech for the first time so car makers can build custom assistants",
       "excerpt": "Amazon is giving car companies the unprecedented privilege of accessing the core artificial intelligence underpinning its Alexa digital assistant, a first for the company’s AI platform. While Amazon has allowed companies to build skills for Alexa and allows pretty much any consumer electronic device maker to integrate Alexa into a compatible product,",
@@ -1120,58 +1172,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-gitlab-partners-with-ibm-cloud-to-improve-collaboration-for-devops.md",
-      "title": "GitLab partners with IBM Cloud to improve collaboration for DevOps",
-      "excerpt": "GitLab is partnering with IBM Cloud designed to help DevOps teams work more efficiently by collaborating through a shared platform.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/14/gitlab-partners-with-ibm-cloud-to-improve-collaboration-for-devops/",
-      "originalUrl": "https://venturebeat.com/2021/01/14/gitlab-partners-with-ibm-cloud-to-improve-collaboration-for-devops/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/DevOps.GettyImages-516042304-e1610634250908.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/14/gitlab-partners-with-ibm-cloud-to-improve-collaboration-for-devops/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/14/gitlab-partners-with-ibm-cloud-to-improve-collaboration-for-devops/amp/",
-      "publishedDateTime": "2021-01-14T09:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

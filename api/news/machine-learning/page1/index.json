@@ -2,103 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-01-28-silicon-labs-and-edge-impulse-partner-to-accelerate-machine-learning-applications.md",
-      "title": "Silicon Labs and Edge Impulse Partner to Accelerate Machine Learning Applications",
-      "excerpt": "Silicon Labs (NASDAQ: SLAB), a leading provider of silicon, software and solutions for a smarter, more connected world, and Edge Impulse, a leading development platform for machine learning on edge devices,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/silicon-labs-and-edge-impulse-partner-to-accelerate-machine-learning-applications-1030011427",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/silicon-labs-and-edge-impulse-partner-to-accelerate-machine-learning-applications-1030011427",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/silicon-labs-and-edge-impulse-partner-to-accelerate-machine-learning-applications-1030011427",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/silicon-labs-and-edge-impulse-partner-to-accelerate-machine-learning-applications-1030011427",
-      "publishedDateTime": "2021-01-27T10:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding.md",
-      "title": "Pinecone, a serverless vector database for machine learning, leaves stealth with $10M funding",
-      "excerpt": "Machine learning applications understand the world through vectors. Pinecone, a specialized cloud database for vectors, has secured significant investment from the people who brought Snowflake to the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/",
-      "originalUrl": "https://www.zdnet.com/index.php/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2021/01/27/433da3ee-bf33-491e-b03e-51e2184e3670/pinecone-illustration.jpg",
-          "width": 426,
-          "height": 398,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/google-amp/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/",
-      "publishedDateTime": "2021-01-27T07:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-27-artificial-intelligence-ai-chipsets-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2026.md",
       "title": "Artificial Intelligence (AI) Chipsets Market – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2026",
       "excerpt": "Selbyville Delaware Global Artificial Intelligence (AI) Chipsets Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2026. Artificial Intelligence (AI) Chipsets Market Report also covers top key players,",
@@ -154,6 +57,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-27-pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding.md",
+      "title": "Pinecone, a serverless vector database for machine learning, leaves stealth with $10M funding",
+      "excerpt": "Machine learning applications understand the world through vectors. Pinecone, a specialized cloud database for vectors, has secured significant investment from the people who brought Snowflake to the world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/",
+      "originalUrl": "https://www.zdnet.com/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2021/01/27/433da3ee-bf33-491e-b03e-51e2184e3670/pinecone-illustration.jpg",
+          "width": 426,
+          "height": 398,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/",
+      "publishedDateTime": "2021-01-26T23:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-27-new-machine-learning-tool-predicts-schizophrenia.md",
       "title": "New machine learning tool predicts schizophrenia",
       "excerpt": "University of Alberta researchers have taken another step forward in developing an artificial intelligence tool to predict schizophrenia by analyzing brain scans.",
@@ -194,50 +149,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-76-of-enterprises-prioritize-ai-machine-learning-in-2021-it-budgets.md",
-      "title": "76% Of Enterprises Prioritize AI & Machine Learning In 2021 IT Budgets",
-      "excerpt": "Enterprises accelerated their adoption of AI and machine learning in 2020, concentrating on those initiatives that deliver revenue growth and cost reduction.",
-      "sourceUrl": null,
-      "webUrl": "https://www.enterpriseirregulars.com/170814/76-of-enterprises-prioritize-ai-machine-learning-in-2021-it-budgets/",
-      "originalUrl": "https://www.enterpriseirregulars.com/170814/76-of-enterprises-prioritize-ai-machine-learning-in-2021-it-budgets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mk0enterpriseirdbne0.kinstacdn.com/wp-content/uploads/2021/01/76-Of-Enterprises-Prioritize-AI-Machine-Learning-In-2021-IT-Budgets-image-600x338.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-26T19:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Enterprise Irregulars",
-        "domain": "enterpriseirregulars.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     },
     {
@@ -1414,6 +1325,83 @@
         "Machine Learning",
         "Facebook AI",
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-15-deep-learning-outperforms-standard-machine-learning-in-biomedical-research-applications.md",
+      "title": "Deep learning outperforms standard machine learning in biomedical research applications",
+      "excerpt": "Compared to standard machine learning models, deep learning models are largely superior at discerning patterns and discriminative features in brain imaging, despite being more complex in their architecture.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2021/01/210114130125.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2021/01/210114130125.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-14T12:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-15-oracle-extends-database-leadership-with-oracle-database-21c.md",
+      "title": "Oracle extends database leadership with Oracle database 21c",
+      "excerpt": "Oracle Database 21c contains more than 200 new innovations, including immutable blockchain tables, In-Database JavaScript, native JSON binary data type, AutoML for in-database machine learning (ML), and persistent memory store, as well as enhancements for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/mena/en/press-releases/story/Oracle_extends_database_leadership_with_Oracle_database_21c-ZAWYA20210114095931/",
+      "originalUrl": "https://www.zawya.com/mena/en/press-releases/story/Oracle_extends_database_leadership_with_Oracle_database_21c-ZAWYA20210114095931/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/ZAWYA20210114095931/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210114095931/",
+      "publishedDateTime": "2021-01-14T12:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

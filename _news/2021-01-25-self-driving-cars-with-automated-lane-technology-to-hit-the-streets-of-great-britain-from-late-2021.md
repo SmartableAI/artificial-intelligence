@@ -9,7 +9,7 @@ ampWebUrl: "https://www.compsmag.com/news/technology/self-driving-cars-with-auto
 cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/self-driving-cars-with-automated-lane-technology-to-hit-the-streets-of-great-britain-from-late-2021/amp/"
 type: article
 quality: 25
-heat: -1
+heat: 25
 published: false
 
 provider:
@@ -19,22 +19,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "DEUTSCHE BANK: Buy these 6 auto stocks in 2021 to capitalize on the rise of electric and self-driving cars"
-    excerpt: "Tesla isn't the only auto company that could benefit from the rise of electric and autonomous vehicles, according to Deutsche Bank."
-    publishedDateTime: 2021-01-23T14:18:00Z
-    webUrl: "https://www.businessinsider.com/stock-picks-to-buy-tesla-gm-nio-luminar-deutsche-bank-2021-1"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 53
-    images:
-      - url: "https://i.insider.com/600b11bf933f110019311204?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "muj2VWUIyxhe7qwSblqonE9eX+z4vgg7oEwi+GRxPRItACnqJS7RK45YotEncQlKlmXf6mW7GCt0y1xpjobPCDzmTY3Vo52Ue1G/u/2alxWkzSQkMxv8oL46XheyxDTIkpRtnuAUPb7L5XJjQzqtvZwExfu+rAQ/WyKZBobEV00SDTSa0KjBi0SXCrhMRydzCB9uG2rlQHnyBF/pOpyTeGiYR9q8RRNyZx7L6tH77lfetkM2PuOBcY5xjxPdQqK8RjcW8pnK7EYL+dEzkbEL4eg4BT4nGKDi1mHe9AsAn05yzwjGAj/chMxH6j+NK8/sgoJY/KRlEbZw5Tzz19dkaF+gIyZ3TVo+uie/PJGlp04FmhaxbfhxjieMdQtmpGxJPhVYbAhMzi0B511G4TDk+icNxhRBYMLFWe4UvdyUspXRDiO1W6zdieihU2N93EJUnLkwl+8r0YcLZgtU1Ivo/ydEDbFiFtuTFMB1x5f/cYNgAUQlwZQyecM1ypkTMv5WtztDvm0Ma1XRB5KHKWv3jw==;G37fe00bNOqFPoIRG71mvw=="
 ---

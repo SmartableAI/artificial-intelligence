@@ -60,6 +60,20 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Researchers Build Models Using Machine Learning Technique to Enhance Predictions of COVID-19 Outcomes"
+    excerpt: "Mount Sinai researchers have published one of the first studies using a machine learning technique called \"federated learning\" to examine"
+    publishedDateTime: 2021-01-28T06:16:00Z
+    webUrl: "https://www.miragenews.com/researchers-build-models-using-machine-learning-technique-to-enhance-predictions-of-covid-19-outcomes/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 24
+    images:
+      - url: "https://www.parliament.wa.gov.au/webcms/webcms.nsf/resources/file-parliament-house-front-day/$file/parl-house-front-day.jpg"
+        width: 700
+        height: 467
+        isCached: true
 
 secured: "m1EXiQ5YgdktEeFlpQ84nU38Tj+haNtdygeOGz+GX8QF1IYOLm2VvLb2j11rnogEaS6ZJGmmDmXWUntwFKIGfZYuJbgesOYEF0BXM2oKz/onW9F6DSvjLHsTO3zYX9L6mtnA8k/Opl2RxlLhJWXLruxiNZ9ClgHZXLz+KsXpr1aa1JFonnFGJ/+aEFAMSx442znoaGCNOPe/izhQOxxTsTjVj9mzH1BtBOapxBWqmRNgTzobz/SbdXSD0BrZ35arPtwt809ndJyTrp8KGa3YE0aIECApgnr+EeTpfyWWcp6C0gHf5C+D0xLQ4daAtaAPgG9nYsvm1t0sJ1TSmGph4VQy1FX1KUJZ8+yJlCZXRKD1SXug+i8jLx2PYpKLndhvmyFOiiCPniRWgR4PIcWwPZL68MBLjmdRZq/4ePzQ2i9kvinVsPpSSNWlR1dh8dASCnKvCG7OilLBQAFJH8SSUvSBN+PCh+xW3fQLzllneamSQF53jz0F/R9CDAet3ZLivoWNGHfZlg7g6keci2j0qA==;UE/PJLq2kaQFH+H1iqhZBg=="
 ---

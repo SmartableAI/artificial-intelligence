@@ -2,6 +2,58 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-01-15-gitlab-partners-with-ibm-cloud-to-improve-collaboration-for-devops.md",
+      "title": "GitLab partners with IBM Cloud to improve collaboration for DevOps",
+      "excerpt": "GitLab is partnering with IBM Cloud designed to help DevOps teams work more efficiently by collaborating through a shared platform.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/14/gitlab-partners-with-ibm-cloud-to-improve-collaboration-for-devops/",
+      "originalUrl": "https://venturebeat.com/2021/01/14/gitlab-partners-with-ibm-cloud-to-improve-collaboration-for-devops/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/05/DevOps.GettyImages-516042304-e1610634250908.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/14/gitlab-partners-with-ibm-cloud-to-improve-collaboration-for-devops/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/14/gitlab-partners-with-ibm-cloud-to-improve-collaboration-for-devops/amp/",
+      "publishedDateTime": "2021-01-14T09:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-15-this-cute-ai-pet-will-fill-the-deep-dark-void-in-your-life.md",
       "title": "This cute AI pet will fill the deep, dark void in your life",
       "excerpt": "Meet Moflin, an AI pet with “emotional capabilities that evolve like living animals.” The creature, which looks like a cross between a hamster and a slipper, won the Best of Innovation Award in Robotics at CES 2021 this week.",
@@ -840,20 +892,20 @@
     },
     {
       "path": "_news/2021-01-14-makinarocks-hyundai-robotics-sign-mou-to-advance-ai-based-industrial-robot-arm-anomaly-detection.md",
-      "title": "MakinaRocks, Hyundai Robotics sign MOU to ‘advance AI-based industrial robot arm anomaly detection’",
-      "excerpt": "Managing Director of Hyundai Robotics, and Andre Yoon (right), co-CEO of MakinaRocks, signed a memorandum of understanding (MOU) to advance AI-based industrial robot arm anomaly detection. SEOUL, South Korea,",
+      "title": "MakinaRocks, Hyundai Robotics sign MOU to 'advance AI-based industrial robot arm anomaly detection'",
+      "excerpt": "SEOUL, South Korea, Jan. 14, 2021 /PRNewswire/ -- Enterprise AI solution provider ... The Seoul and Silicon Valley-based startup is currently partnered with global conglomerates in semiconductor ...",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-south-korea-seoul-industrial-products-and-services-9a51e849f3bf9e0dc38fdae82037ccba",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-south-korea-seoul-industrial-products-and-services-9a51e849f3bf9e0dc38fdae82037ccba",
+      "webUrl": "https://www.prnewswire.com/news-releases/makinarocks-hyundai-robotics-sign-mou-to-advance-ai-based-industrial-robot-arm-anomaly-detection-301208152.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/makinarocks-hyundai-robotics-sign-mou-to-advance-ai-based-industrial-robot-arm-anomaly-detection-301208152.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://mma.prnewswire.com/media/1420500/Dae_gyu_Yoon__left__Managing_Director_Hyundai_Robotics_Andre_Yoon__right.jpg?p=facebook",
+          "width": 1432,
+          "height": 750,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -863,11 +915,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-13T23:06:00-08:00",
+      "publishedDateTime": "2021-01-13T22:53:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1107,49 +1159,6 @@
         "Computer Vision",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-breaking-the-ai-wizardry-of-microsoft-flight-simulator.md",
-      "title": "Breaking the AI wizardry of ‘Microsoft Flight Simulator’",
-      "excerpt": "Breaking the AI ​​wizardry of 'Microsoft Flight Simulator' There are some wild statistics about Microsoft Flight Simulator. In the",
-      "sourceUrl": null,
-      "webUrl": "https://www.compsmag.com/news/gaming/breaking-the-ai-​​wizardry-of-microsoft-flight-simulator/",
-      "originalUrl": "https://www.compsmag.com/news/gaming/breaking-the-ai-​​wizardry-of-microsoft-flight-simulator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/Breaking-the-AI-​​wizardry-of-Microsoft-Flight-Simulator-1024x576.jpeg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.compsmag.com/news/gaming/breaking-the-ai-%e2%80%8b%e2%80%8bwizardry-of-microsoft-flight-simulator/amp/",
-      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/breaking-the-ai-%e2%80%8b%e2%80%8bwizardry-of-microsoft-flight-simulator/amp/",
-      "publishedDateTime": "2021-01-13T20:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows",
-        "domain": "compsmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

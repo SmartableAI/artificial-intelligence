@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/hyundai-dal-e-ai-powered-robot-provides-au
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/hyundai-dal-e-ai-powered-robot-provides-automated-customer-service-25656524/amp/"
 type: article
 quality: 104
-heat: 194
+heat: 204
 published: true
 
 provider:
@@ -164,6 +164,15 @@ related:
       name: Carscoops
       domain: carscoops.com
     quality: 47
+  - title: "Robot to take over customer service tasks in the Hyundai Motor showroom"
+    excerpt: "To automate customer service tasks in the midst of a global pandemic, Hyundai Motor Group has debuted an advanced humanoid customer service robot at its showroom in Seoul, South Korea. The DAL-e, which stands for “Drive you,"
+    publishedDateTime: 2021-01-28T05:13:00Z
+    webUrl: "https://insights.globalspec.com/article/15854/robot-to-take-over-customer-service-tasks-in-the-hyundai-motor-showroom"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 34
 
 secured: "vMEWyQlFSqYeFyUhzQ0CDzKtCPq/z/51FKMvqym2YMz2Y3NWLMKdTItZtbnbbpfP40YkZ9af2M+7gchCxo//xPkKZxu6DGPs0McRKXjY1I6s4jeuMgRnlBF7gMOK+Glk+pkk1DdCwQf3hyzdAnghaY/+WYFfCn6idphh8hE0RdfASAOzdPXWc6SSams4co4h67JlPFdOySdzbJSeD3FgtXuelBpT9VK+XIqzZWNWNbFeIv8rAm/5exgvP+IcPg6O2dOdQN7iPMv8AcowNSJtyp73D2GcWCu2tD4tyqnG6dNh/h6jog8oil9HsKklBZmiLvYHzITKXzqRxjfR4xQTOSyWXB4VoH3zPloKtlNAP1w=;+30Zdl5EgwNnD81ow3q1ZA=="
 ---

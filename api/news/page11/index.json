@@ -2,6 +2,58 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-01-19-health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots.md",
+      "title": "Health tech company uses Azure and AI to create priority list for COVID vaccination shots",
+      "excerpt": "Jvion's CORE platform uses AI and healthcare data from 30 million people to determine who should be vaccinated first.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/",
+      "originalUrl": "https://www.techrepublic.com/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2021/01/15/e477db37-f76e-4e54-b709-13efc6592bf8/resize/1200x/1faf2e83d92c580d681c746c172ca8f7/jvion-covid-map.jpg",
+          "width": 1200,
+          "height": 797,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/",
+      "publishedDateTime": "2021-01-19T06:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-19-eth-spin-off-latticeflow-raises-28m-to-help-build-trustworthy-ai-systems.md",
       "title": "ETH spin-off LatticeFlow raises $2.8M to help build trustworthy AI systems",
       "excerpt": "LatticeFlow, an AI startup that was spun out of ETH Zurich in 2020, today announced that it has raised a $2.8 million seed funding round led by Swiss deep-tech fund btov and Global Founders Capital, which previously backed the likes of Revolut,",
@@ -1145,57 +1197,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-prosus-bets-on-ai-to-help-reshape-indias-350-billion-farm-industry.md",
-      "title": "Prosus Bets on AI to Help Reshape India’s $350 Billion Farm Industry",
-      "excerpt": "Prosus NV is investing in agritech company DeHaat in a bet on India’s $350 billion farming industry. The Dutch e-commerce group with assets all round the globe led a Series C funding round of $30 million that DeHaat will use to hire more staff,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-01-19/prosus-backs-dehaat-in-bet-on-india-s-350-billion-farm-sector",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-01-19/prosus-backs-dehaat-in-bet-on-india-s-350-billion-farm-sector",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRIiWt3lRAGI/v1/360x-1.jpg",
-          "width": 360,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2021-01-19/prosus-backs-dehaat-in-bet-on-india-s-350-billion-farm-sector",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2021-01-19/prosus-backs-dehaat-in-bet-on-india-s-350-billion-farm-sector",
-      "publishedDateTime": "2021-01-18T23:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

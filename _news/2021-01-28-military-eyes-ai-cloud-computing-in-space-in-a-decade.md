@@ -1,28 +1,23 @@
 ---
 category: news
 title: "Military Eyes AI, Cloud Computing in Space in a Decade"
-excerpt: "Physics keeps the Pentagon from orbiting a computer powerful enough for machine learning. So they’re building a network in space."
-publishedDateTime: 2021-01-28T03:19:00Z
-originalUrl: "https://www.defenseone.com/technology/2021/01/military-eyes-ai-cloud-computing-space-decade/171692/"
-webUrl: "https://www.defenseone.com/technology/2021/01/military-eyes-ai-cloud-computing-space-decade/171692/"
+excerpt: "Military Eyes AI, Cloud Computing in Space in a Decade. Machine learning in space could one day revolutionize the way the U.S. military"
+publishedDateTime: 2021-01-28T04:41:00Z
+originalUrl: "https://www.compsmag.com/news/pc/military-eyes-ai-cloud-computing-in-space-in-a-decade/"
+webUrl: "https://www.compsmag.com/news/pc/military-eyes-ai-cloud-computing-in-space-in-a-decade/"
+ampWebUrl: "https://www.compsmag.com/news/pc/military-eyes-ai-cloud-computing-in-space-in-a-decade/amp/"
+cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/military-eyes-ai-cloud-computing-in-space-in-a-decade/amp/"
 type: article
-quality: 39
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Defense One
-  domain: defenseone.com
+  name: Windows
+  domain: compsmag.com
 
 topics:
   - AI
-  - AI Hardware
-
-images:
-  - url: "https://cdn.defenseone.com/media/img/upload/2021/01/27/Screen_Shot_2021-01-27_at_10.04.07_PM/open-graph.png"
-    width: 400
-    height: 400
-    isCached: true
 
 related:
   - title: "Server Computing: A Data-Intensive Market Propelled by AI"
@@ -56,6 +51,6 @@ related:
         height: 1446
         isCached: true
 
-secured: "+88syyc6aW3S+mcJZeoArJD6kmp26ufbZJLd+z0rODJ8lCYyjYNRSe8y7fQgpSJzN+boZ5dt/zYlP+zGkuX0nn+ya1EQm8P+tuY59EJK54w5+2MrPO15Vx57DpEwJftLmmgh3eKGpVZfnvE/ErZJSgAvd7bMtioeRYdT2wAnxZM0ZcGbm06ccohRjBWefgV1TiVbnQCbij4NDcRZQUH26q5qWNUa/eXaKLHbrutnTY7TyWh9T8YjFpQnMpKPPTguXZIy4arBwAy8tA3D/tlEynN2v+98X3LlqK5rMbolNKGm68wlKCkwmWkioJ+6Vc78AiYxpsk2dtz84pLimuYAGBYihE8CSuzh9sFr+ajcqbI=;g4uKZRFatQ5XNbaF52t9sQ=="
+secured: "ppEFklB9KzyOGQJFrKdoTwhZdvdONu5doP036MHZB41L4vyIQ9YFl4BdG33hrSv+lO+NfuCW9poeaVLhDaDDHyyuVmerUnl5YCYil7ya9IQPBDHpvu3+qat1JWa9MVA5nGv47xUX71T28gqec+HsJpatMRqXC7XfMcSAvHuKKLObFAovD5eEClG8EgasbRyvZ41hUrNBzgwk4y0EQD2baQkKzz16KXlPmjnhdp+izPU0PCQScBJYkG1Cnj+6mi1shxB9M6xh5rM2H3/M5suSW3K1GRfkbL0s0IxDxfv0hxdGCU+bt/2J81az2rdl6DpMqFLBgX57xsrtUMXssPuQzunk72ehUxEr6ZRacpmkAb4R2htcB9IIGDd86g/WRf2aI9BP/ftkAdJi4jKsBjABupdPr4JsjhsSdc2R0z7JAyxOFTLiJJrTwC/bjhIJ4KB3eBJCMU09PjUHYXMLDemveZRrSaya+xYtV0Q4pF1nVzmJunJt1QZsQ7E8d0NRqrRVmpFMj/eN+IHRXlAgDTcUxg==;D46dE6wkauw9vbiOK0p7+w=="
 ---
 

@@ -402,6 +402,49 @@
       ]
     },
     {
+      "path": "_news/2021-01-22-hybrid-roles-the-new-norm-ielts-azure-software-testing-in-demand.md",
+      "title": "‘Hybrid roles, the new norm: IELTS, Azure, software testing in demand’",
+      "excerpt": "The report is based on data from the global companies using the Udemy for Business platform and a survey of more than 500 learning and development professionals.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/business/economy/hybrid-roles-the-new-norm-ielts-azure-software-testing-in-demand-7156602/",
+      "originalUrl": "https://indianexpress.com/article/business/economy/hybrid-roles-the-new-norm-ielts-azure-software-testing-in-demand-7156602/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2020/12/e-class-1200.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/business/economy/hybrid-roles-the-new-norm-ielts-azure-software-testing-in-demand-7156602/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/business/economy/hybrid-roles-the-new-norm-ielts-azure-software-testing-in-demand-7156602/lite/",
+      "publishedDateTime": "2021-01-21T14:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-kyligence-launches-revamped-cloud-native-olap-on-big-data-platform.md",
       "title": "Kyligence launches revamped cloud-native OLAP-on-big-data platform",
       "excerpt": "New version 4 of the BI + big data platform is based on Spark and Parquet, leverages machine learning and is optimized for cloud storage. It's available on the Azure Marketplace now and coming to the AWS Marketplace soon.",
@@ -1395,58 +1438,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-ionq-ceo-peter-chapman-on-quantum-computing-adoption-innovation-and-whats-next.md",
-      "title": "IonQ CEO Peter Chapman on quantum computing adoption, innovation and what's next",
-      "excerpt": "ZDNet caught up with IonQ CEO Peter Chapman to discuss quantum computing applications, how the cloud will accelerate adoption, software developers and riding innovation curves.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ionq-ceo-peter-chapman-on-quantum-computing-adoption-innovation-and-whats-next/",
-      "originalUrl": "https://www.zdnet.com/article/ionq-ceo-peter-chapman-on-quantum-computing-adoption-innovation-and-whats-next/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2021/01/08/67ab248d-d155-4a4d-ba2d-7f6706f609c6/thumbnail/1200x675/26f35f92fc7f6b52fa9db9a786bb5f86/20210106-chapman-larry.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ionq-ceo-peter-chapman-on-quantum-computing-adoption-innovation-and-whats-next/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ionq-ceo-peter-chapman-on-quantum-computing-adoption-innovation-and-whats-next/",
-      "publishedDateTime": "2021-01-11T03:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

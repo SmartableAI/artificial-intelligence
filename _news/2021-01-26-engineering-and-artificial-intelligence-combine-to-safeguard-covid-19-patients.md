@@ -51,6 +51,20 @@ related:
       name: Tech Zone 360
       domain: techzone360.com
     quality: 39
+  - title: "Researchers Build Models Using Machine Learning Technique to Enhance Predictions of COVID-19 Outcomes"
+    excerpt: "Mount Sinai researchers have published one of the first studies using a machine learning technique called \"federated learning\" to examine"
+    publishedDateTime: 2021-01-28T06:16:00Z
+    webUrl: "https://www.miragenews.com/researchers-build-models-using-machine-learning-technique-to-enhance-predictions-of-covid-19-outcomes/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 24
+    images:
+      - url: "https://www.parliament.wa.gov.au/webcms/webcms.nsf/resources/file-parliament-house-front-day/$file/parl-house-front-day.jpg"
+        width: 700
+        height: 467
+        isCached: true
   - title: "Icovid’s AI COVID-10 lung scan goes viral in Europe"
     excerpt: "Belgium’s Icovid initiative, which looks for ways to utilize AI to support radiologists in the assessment of CT images of the lungs of Covid-19 patients, is getting a lot of attention as it spreads across Europe."
     publishedDateTime: 2021-01-27T13:23:00Z

@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How Jubilee Insurance is using AI, IoT and RPA to beat the competition"
+    excerpt: "We intend on leveraging mobility, AI, robotics, cloud, analytics and IoT — not only to reduce costs and to increase revenue, and speed up processes, but to also transform the business model in order to leapfrog the competition."
+    publishedDateTime: 2021-01-28T05:21:00Z
+    webUrl: "https://www.cio.com/article/3604604/how-jubilee-insurance-is-using-ai-iot-and-rpa-to-beat-the-competition.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 37
+    images:
+      - url: "https://images.idgesg.net/images/article/2021/01/stanley-chege-100875080-large.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "HOe2MtzOL/2t7/z+ph/R4BWfq7GVlhR/n9afr0weo8dwSghURzlEOiQzrSL7aeU8vmnQFeVxbkKpLHNgqIHOPwvmI+GyhOr/cVbzI82ndtmF/J+NSlz9t5mvY9SggE60e2f3t93H7I2MsVj0APWvZF9A7fg186wDuPlKv6i2yd3N5+5u31ACSzCQ+jpor3Ww3a28FHGI+z0+hLqTOOmJRdhrY6HzfApNevFQfrFEX9MmjfITxNG0X+tSHdf2mnhAZEK4Ca5q6B5NLy6p3aDwLEi0d5As0+5hHSmJfb1OFdC5QCsi86SD1OCmMg4yK4NV2sGhq54zX2Kri/+l1TFsNksTctBKrM/RwV+sAdK9c1M=;J87SrfiKHUvtV9hn36cTWw=="
 ---

@@ -2,6 +2,58 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-01-05-accelerating-mlops-at-bayer-crop-science-with-kubeflow-pipelines-and-amazon-sagemaker.md",
+      "title": "Accelerating MLOps at Bayer Crop Science with Kubeflow Pipelines and Amazon SageMaker",
+      "excerpt": "This is a guest post by the data science team at Bayer Crop Science.&nbsp; Farmers have always collected and evaluated a large amount of data with each growing season: seeds planted, crop protection inputs applied, crops harvested, and much more. The rise of data science and digital technologies provides",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/accelerating-mlops-at-bayer-crop-science-with-open-source-workflow-managers-and-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/accelerating-mlops-at-bayer-crop-science-with-open-source-workflow-managers-and-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/02/ML-1668-2-666x630.jpg",
+          "width": 666,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-05T11:35:44-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-06-this-avocado-armchair-could-be-the-future-of-ai.md",
       "title": "This avocado armchair could be the future of AI",
       "excerpt": "OpenAI has released two new models that pair GPT-3 with image recognition to produce AIs that have a better understanding of everyday concepts.",
@@ -1141,49 +1193,6 @@
         "AI",
         "Microsoft AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-learn-about-nvidia-in-cambridge-and-its-plans-for-a-global-ai-research-centre.md",
-      "title": "Learn about NVIDIA in Cambridge and its plans for a global AI research centre",
-      "excerpt": "NVIDIA recently announced its acquisition of Arm and its intention to develop a new global centre of excellence in AI research in Cambridge. Join Cambridge Network for a special online event on Thursday 28 January,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridgenetwork.co.uk/news/learn-about-nvidia-cambridge-and-its-plans-global-ai-research-centre",
-      "originalUrl": "https://www.cambridgenetwork.co.uk/news/learn-about-nvidia-cambridge-and-its-plans-global-ai-research-centre",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cambridgenetwork.co.uk/sites/default/files/styles/large/public/Blog%20Advert%20%28News%29.png?itok=XJens5pZ",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-05T03:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge Network",
-        "domain": "cambridgenetwork.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

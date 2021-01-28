@@ -6,8 +6,8 @@ publishedDateTime: 2021-01-27T10:06:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-is-anticipated-to-record-a-cagr-of-453-over-the-forecast-period-ie-2019-2027-2021-01-27"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-is-anticipated-to-record-a-cagr-of-453-over-the-forecast-period-ie-2019-2027-2021-01-27"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI Ethics
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

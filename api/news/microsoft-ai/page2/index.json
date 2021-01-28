@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-11-ionq-ceo-peter-chapman-on-quantum-computing-adoption-innovation-and-whats-next.md",
+      "title": "IonQ CEO Peter Chapman on quantum computing adoption, innovation and what's next",
+      "excerpt": "ZDNet caught up with IonQ CEO Peter Chapman to discuss quantum computing applications, how the cloud will accelerate adoption, software developers and riding innovation curves.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ionq-ceo-peter-chapman-on-quantum-computing-adoption-innovation-and-whats-next/",
+      "originalUrl": "https://www.zdnet.com/article/ionq-ceo-peter-chapman-on-quantum-computing-adoption-innovation-and-whats-next/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2021/01/08/67ab248d-d155-4a4d-ba2d-7f6706f609c6/thumbnail/1200x675/26f35f92fc7f6b52fa9db9a786bb5f86/20210106-chapman-larry.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ionq-ceo-peter-chapman-on-quantum-computing-adoption-innovation-and-whats-next/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ionq-ceo-peter-chapman-on-quantum-computing-adoption-innovation-and-whats-next/",
+      "publishedDateTime": "2021-01-11T03:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-11-review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.md",
       "title": "Review: Microsoft Azure AI and Machine Learning aims for the enterprise",
       "excerpt": "Microsoft Azure combines a wide range of cognitive services and a solid platform for machine learning that supports automated ML, no-code/low-code ML, and Python-based notebooks.",
@@ -1375,49 +1427,6 @@
       "provider": {
         "name": "pocketnow.com",
         "domain": "pocketnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-28-how-prepared-are-schools-for-online-pre-board-check-details-here.md",
-      "title": "How prepared are schools for online pre-board, check details here",
-      "excerpt": "Choubey takes pride in the “high cognitive abilities” of his students ... Many among them would be taking their pre-boards via Microsoft Teams with cameras installed to ensure cheating-free ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/home/education/news/how-prepared-are-schools-for-online-pre-board-check-details-here/articleshow/79989645.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/home/education/news/how-prepared-are-schools-for-online-pre-board-check-details-here/articleshow/79989645.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/msid-79989609/79989609.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/home/education/news/how-prepared-are-schools-for-online-pre-board-check-details-here/amp_articleshow/79989645.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/home/education/news/how-prepared-are-schools-for-online-pre-board-check-details-here/amp_articleshow/79989645.cms",
-      "publishedDateTime": "2020-12-28T06:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
         "images": null,
         "publishers": null,
         "authors": null

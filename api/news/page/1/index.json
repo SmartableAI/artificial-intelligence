@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-28-artificial-intelligence-takes-center-stage-early-in-2021.md",
+      "title": "Artificial Intelligence Takes Center Stage Early in 2021",
+      "excerpt": "AI is the most significant technology of the last 30 years and its innovation is accelerating in the early part of 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/pc-hardware/artificial-intelligence-takes-center-stage-early-in-2021",
+      "originalUrl": "https://www.eweek.com/pc-hardware/artificial-intelligence-takes-center-stage-early-in-2021",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/imagesvr_ez/b2bezp/2017/07/IBM.Watson2.JPG?alias=social_image",
+          "width": 560,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-27T21:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-28-the-great-free-speech-reversal.md",
       "title": "The Great Free-Speech Reversal",
       "excerpt": "Liberals once believed that private corporations have far too much power over the flow of ideas and information in today’s society. Now it’s conservatives who are worried.",
@@ -110,8 +162,8 @@
       "title": "Nvidia shows off the first A100 GPU systems built to handle AI workloads",
       "excerpt": "As AI workloads can be complex and demanding, Nvidia has unveiled a new program that makes it easier for businesses to choose servers geared towards machine learning and analytics. This new class of accelerated servers from the company's partners are given the Nvidia-Certified Systems branding as they are designed to power organization's journeys into AI and data analytics.",
       "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/in/news/nvidia-shows-off-the-first-a100-gpu-systems-built-to-handle-ai-workloads",
-      "originalUrl": "https://www.techradar.com/in/news/nvidia-shows-off-the-first-a100-gpu-systems-built-to-handle-ai-workloads",
+      "webUrl": "https://www.techradar.com/uk/news/nvidia-shows-off-the-first-a100-gpu-systems-built-to-handle-ai-workloads",
+      "originalUrl": "https://www.techradar.com/uk/news/nvidia-shows-off-the-first-a100-gpu-systems-built-to-handle-ai-workloads",
       "featuredContent": null,
       "highlight": null,
       "heat": 143,
@@ -128,8 +180,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techradar.com/in/amp/news/nvidia-shows-off-the-first-a100-gpu-systems-built-to-handle-ai-workloads",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/nvidia-shows-off-the-first-a100-gpu-systems-built-to-handle-ai-workloads",
+      "ampWebUrl": "https://www.techradar.com/uk/amp/news/nvidia-shows-off-the-first-a100-gpu-systems-built-to-handle-ai-workloads",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/nvidia-shows-off-the-first-a100-gpu-systems-built-to-handle-ai-workloads",
       "publishedDateTime": "2021-01-27T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -508,50 +560,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-28-silicon-labs-and-edge-impulse-partner-to-accelerate-machine-learning-applications.md",
-      "title": "Silicon Labs and Edge Impulse Partner to Accelerate Machine Learning Applications",
-      "excerpt": "Silicon Labs (NASDAQ: SLAB), a leading provider of silicon, software and solutions for a smarter, more connected world, and Edge Impulse, a leading development platform for machine learning on edge devices,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/silicon-labs-and-edge-impulse-partner-to-accelerate-machine-learning-applications-1030011427",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/silicon-labs-and-edge-impulse-partner-to-accelerate-machine-learning-applications-1030011427",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/silicon-labs-and-edge-impulse-partner-to-accelerate-machine-learning-applications-1030011427",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/silicon-labs-and-edge-impulse-partner-to-accelerate-machine-learning-applications-1030011427",
-      "publishedDateTime": "2021-01-27T10:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2021-01-27-deepset-achieves-a-39x-speedup-and-128x-cost-reduction-for-training-nlp-models-by-working-with-aws-and-nvidia.md",
       "title": "Deepset achieves a 3.9x speedup and 12.8x cost reduction for training NLP models by working with AWS and NVIDIA",
       "excerpt": "This is a guest post from deepset (creators of the open source frameworks FARM and Haystack), and was contributed to by authors from NVIDIA and AWS.&nbsp; At deepset, we’re building the next-level search engine for business documents. Our core product, Haystack, is an open-source framework that enables",
@@ -613,7 +621,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/364271",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -821,7 +829,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/363706",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -861,59 +869,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding.md",
-      "title": "Pinecone, a serverless vector database for machine learning, leaves stealth with $10M funding",
-      "excerpt": "Machine learning applications understand the world through vectors. Pinecone, a specialized cloud database for vectors, has secured significant investment from the people who brought Snowflake to the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/",
-      "originalUrl": "https://www.zdnet.com/index.php/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2021/01/27/433da3ee-bf33-491e-b03e-51e2184e3670/pinecone-illustration.jpg",
-          "width": 426,
-          "height": 398,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/google-amp/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/",
-      "publishedDateTime": "2021-01-27T07:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
       ]
     },
     {
@@ -1267,6 +1222,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-atlazo-launches-the-worlds-first-edge-ai-system-on-chip-soc-for-tiny-devices.md",
+      "title": "Atlazo Launches the World's First Edge AI System-On-Chip (SoC) for Tiny Devices",
+      "excerpt": "AI SoC, AZ-N1, for smart tiny devices. The device is industry's first fully integrated AI SoC featuring a highly power efficient Artificial Intelligence and Machine Learning processor (Axon I TM) for audio,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/atlazo-launches-the-world-s-first-edge-ai-system-on-chip-soc-for-tiny-devices-1030007244",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/atlazo-launches-the-world-s-first-edge-ai-system-on-chip-soc-for-tiny-devices-1030007244",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/atlazo-launches-the-world-s-first-edge-ai-system-on-chip-soc-for-tiny-devices-1030007244",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/atlazo-launches-the-world-s-first-edge-ai-system-on-chip-soc-for-tiny-devices-1030007244",
+      "publishedDateTime": "2021-01-27T05:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     }

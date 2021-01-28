@@ -2,6 +2,40 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2020-12-17-whats-next-in-conversation-with-peter-reid.md",
+      "title": "What’s Next – In conversation with Peter Reid",
+      "excerpt": "Prior to joining Mint Group, Reid served as the CEO of Microsoft partner ... through the application of advanced Machine Learning, Cognitive Computing, and Artificial Intelligence techniques.",
+      "sourceUrl": null,
+      "webUrl": "https://mybroadband.co.za/news/software/380608-whats-next-in-conversation-with-peter-reid.html",
+      "originalUrl": "https://mybroadband.co.za/news/software/380608-whats-next-in-conversation-with-peter-reid.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mybroadband.co.za/news/software/380608-whats-next-in-conversation-with-peter-reid.html/amp",
+      "cdnAmpWebUrl": "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/software/380608-whats-next-in-conversation-with-peter-reid.html/amp",
+      "publishedDateTime": "2020-12-17T05:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MyBroadband",
+        "domain": "mybroadband.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-17-deepmind-ai-unit-lost-649-million-last-year-and-had-a-15-billion-debt-waived-by-alphabet.md",
       "title": "DeepMind A.I. unit lost $649 million last year and had a $1.5 billion debt waived by Alphabet",
       "excerpt": "DeepMind made a loss of £477 million ($649 million) in 2019, up from £470 million in 2018, according to documents filed with the U.K.'s Companies House.",
@@ -1160,51 +1194,6 @@
         "AI Ethics",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-how-artificial-intelligence-and-robots-are-changing-the-world-use-cases-of-ai-and-robotics.md",
-      "title": "How Artificial Intelligence and Robots are Changing the World? Use cases of AI and Robotics",
-      "excerpt": "Artificial intelligence and robotics are bringing drastic changes in the technological fields. Here is how artificial intelligence and robots are changing the World and here are the use cases of AI and Robotics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/how-artificial-intelligence-and-robots-are-changing-the-world-use-cases-of-ai-and-robotics/",
-      "originalUrl": "https://www.analyticsinsight.net/how-artificial-intelligence-and-robots-are-changing-the-world-use-cases-of-ai-and-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/12/AI-and-Robotics.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-16T09:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
       ]
     }
   ],
