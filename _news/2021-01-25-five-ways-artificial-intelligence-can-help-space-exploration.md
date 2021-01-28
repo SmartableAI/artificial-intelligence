@@ -9,7 +9,7 @@ ampWebUrl: "https://theconversation.com/amp/five-ways-artificial-intelligence-ca
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/five-ways-artificial-intelligence-can-help-space-exploration-153664"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Seven ways AI can help govts transform public services"
-    excerpt: "Governments are starting to explore the potential of AI and can work with policy-makers, public servants and data scientists to fully realise its benefits."
-    publishedDateTime: 2021-01-24T04:00:00Z
-    webUrl: "https://theprint.in/tech/seven-ways-ai-can-help-govts-transform-public-services/590745/"
-    ampWebUrl: "https://theprint.in/tech/seven-ways-ai-can-help-govts-transform-public-services/590745/?amp"
-    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/tech/seven-ways-ai-can-help-govts-transform-public-services/590745/?amp"
-    type: article
-    provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 59
-    images:
-      - url: "https://static.theprint.in/wp-content/uploads/2018/09/AI-final.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Five ways artificial intelligence can help space exploration"
     excerpt: "Artificial intelligence has been making waves in recent years, enabling us to solve problems faster than traditional computing could ever allow. Recently, for example, Google's artificial intelligence subsidiary DeepMind developed AlphaFold2,"
     publishedDateTime: 2021-01-26T14:11:00Z

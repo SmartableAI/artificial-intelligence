@@ -57,6 +57,22 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "Facial recognition now used for border screenings at MSP Airport"
+    excerpt: "St. Paul International Airport from other countries can now choose to go through border control using facial recognition scanners. U.S. Customs and Border Protection announced on Wednesday that \"Simplified Arrival\" is now available at both MSP Airport terminals for international arrivals."
+    publishedDateTime: 2021-01-28T19:43:00Z
+    webUrl: "https://bringmethenews.com/minnesota-lifestyle/facial-recognition-now-used-for-border-screenings-at-msp-airport"
+    ampWebUrl: "https://bringmethenews.com/.amp/minnesota-lifestyle/facial-recognition-now-used-for-border-screenings-at-msp-airport"
+    cdnAmpWebUrl: "https://bringmethenews-com.cdn.ampproject.org/c/s/bringmethenews.com/.amp/minnesota-lifestyle/facial-recognition-now-used-for-border-screenings-at-msp-airport"
+    type: article
+    provider:
+      name: Bring Me The News
+      domain: bringmethenews.com
+    quality: 74
+    images:
+      - url: "https://bringmethenews.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTcxODMyMjYyNjQ2NTcyMzU0/1024px-msp_airport_-_view_from_the_observation_deck_8487245657.jpg"
+        width: 620
+        height: 411
+        isCached: true
   - title: "Facial recognition: Don't use it to snoop on how staff are feeling, says watchdog"
     excerpt: "The Council of Europe's new guidelines call for a ban on some applications of facial recognition, and stringent privacy safeguards when the technology is deployed."
     publishedDateTime: 2021-01-28T16:27:00Z
@@ -364,6 +380,6 @@ related:
         height: 450
         isCached: true
 
-secured: "glRkyqGx5OcGleIljUhyzE+DlUBjsVTGHZ0y0HoENadDdQ7p9r9LSVrRpOYF7misoodCCznnU4qsYtO4tub3p0ujRqvv72wQ2xSSc+XpAfRHBsFYxBVUyGbXqITJkn6rPBLCvfvFL6Ku6Ra2lAfgxeC+LHgJM995zkgx4vSlOnNlv0igUo3dP7tferZLLS4mPSy5XtRQVfth60RLH+GyMypZqGp+BXzmarlFJHrlXUE8B0n8SP/EsRNFejjp9o5774k9PqgrE1x5wYA4fkhZQO7li3AqXz2HVOQ12lVzX8K6+jQ01IDfQOuAp0LOuDg7Hu/RVCsZ53msp4zovKalFGKFbCKqXZYxH96/l36c/EA=;EtTfnH2KDgXdqybC/NsbcA=="
+secured: "7Tho7yVzyQ1Si+A15+3v4VJJvgQ3FOjO8vjvSLbV7p5Y0IBikMYqVsjqoevl4SElq4m3BKmTkSOFMYCFCzhSOY3FugT13XztIUUseO+65FkNexaTtzel8kjFJczCuGcU9ts2OubvSlOfPiHa/RkIyhDwODg4gVlhGDCmpc9WA25Q09bekVbXZSxGiRw+a/YZ5BoTvxOS062nR01qp0pLwlFQBKb60XiMy/PsImy5otZCZT2fKbbZ3G0fjZ5wvW/alW6Zb3CfRKGXuprdEpVG1SUyuuD9G3A/ejOc6Wjf7c0QiXg3cm9WbbKqL1zqh+bntlXrl08oauHCKSuO6G7LGIif7mlqxI1zF5ACXCPepWk6eWZm9Gd6abotRgcoar0SIBPjwByHIDavegpsS/GAVne1amnKlMD1IuquL+2TcOpeTNKl997FoN34ckgC8V652Jj2Pdbhx7s5r9atWTdJRi0iNwfzM+MGiiAVvmpEm6TbQom/shVhHvB4l61D9WqQrBZtI4qdapEJl2cN6/cACw==;oDInVNjJ6mI4iO22GEW8dw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/snap-acquires-ariel-ai-computer-vi
 webUrl: "https://www.businessinsider.com/snap-acquires-ariel-ai-computer-vision-skills-2021-1"
 type: article
 quality: 75
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Snap looks to enhance augmented reality features with acquisition of British research lab Ariel AI"
+    excerpt: "Snap, the parent company of Snapchat, has acquired a British artificial intelligence start-up called Ariel AI which focuses on augmented reality."
+    publishedDateTime: 2021-01-26T22:48:00Z
+    webUrl: "https://www.cnbc.com/2021/01/26/snap-acquires-ariel-ai-to-boost-snapchat-augmented-reality-features.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/01/26/snap-acquires-ariel-ai-to-boost-snapchat-augmented-reality-features.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/26/snap-acquires-ariel-ai-to-boost-snapchat-augmented-reality-features.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 75
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/104318447-GettyImages-647204978.jpg?v=1588764817"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Snap acquires Ariel AI for computer vision skills"
     excerpt: "Snap acquires Ariel AI for computer vision skills. Snap has acquired specialist British computer vision startup Ariel AI, Insider can"
     publishedDateTime: 2021-01-26T11:08:00Z

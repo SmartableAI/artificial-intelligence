@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/01/26/ex-uber-team-raises-6m-seed-for-ge
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/26/ex-uber-team-raises-6m-seed-for-geospatial-analytics-platform-unfolded-ai/amp/"
 type: article
 quality: 85
-heat: 115
+heat: 125
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Cloud data analytics service Phocas raises $34 million to grow AI, global footprint"
+    excerpt: "An Australian data analytics company catering to mid-sized enterprises has raised funds to expand its use of AI, and expand in the US and UK."
+    publishedDateTime: 2021-01-28T20:39:00Z
+    webUrl: "https://venturebeat.com/2021/01/28/cloud-data-analytics-service-phocas-raises-34-million-to-grow-ai-global-footprint/"
+    ampWebUrl: "https://venturebeat.com/2021/01/28/cloud-data-analytics-service-phocas-raises-34-million-to-grow-ai-global-footprint/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/28/cloud-data-analytics-service-phocas-raises-34-million-to-grow-ai-global-footprint/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 81
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/01/phocas.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "AI and ML in intelligent analytics can drive the efficiency in business"
     excerpt: "The role of AI and ML in intelligent analytics is quite fruitful as it quickens the data transformation process. Artificial intelligence and ML frameworks exist that utilize analytics data to assist businesses with foreseeing results and effective blueprints."
     publishedDateTime: 2021-01-27T06:44:00Z

@@ -45,6 +45,20 @@ related:
         height: 450
         isCached: true
   - title: "Synaptics Expands Family of AI-enriched, High-Performance Multimedia SoCs for Mainstream Set-Top Boxes, Smart Video Devices"
+    excerpt: "Synaptics® Incorporated (Nasdaq: SYNA), today announced customer sampling of its VideoSmart™ VS640, a next generation edge computing SoC that is AI-enriched for emerging set-top boxes, streaming OTT devices,"
+    publishedDateTime: 2021-01-28T17:34:00Z
+    webUrl: "https://www.globalbankingandfinance.com/category/news/synaptics-expands-family-of-ai-enriched-high-performance-multimedia-socs-for-mainstream-set-top-boxes-smart-video-devices/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 15
+    images:
+      - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Synaptics Expands Family of AI-enriched, High-Performance Multimedia SoCs for Mainstream Set-Top Boxes, Smart Video Devices"
     excerpt: "Synaptics® Incorporated (NASDAQ: SYNA ), today announced customer sampling of its VideoSmart™ VS640, a next generation edge computing SoC that is AI-enriched for emerging set-top boxes, streaming OTT devices,"
     publishedDateTime: 2021-01-26T13:02:00Z
     webUrl: "https://www.benzinga.com/pressreleases/21/01/g19318053/synaptics-expands-family-of-ai-enriched-high-performance-multimedia-socs-for-mainstream-set-top-bo"
@@ -55,20 +69,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 13
-  - title: "Synaptics Expands Family of AI-enriched, High-Performance Multimedia SoCs for Mainstream Set-Top Boxes, Smart Video Devices"
-    excerpt: "Synaptics® Incorporated (Nasdaq: SYNA), today announced customer sampling of its VideoSmart™ VS640, a next generation edge computing SoC that is AI-enriched for emerging set-top boxes, streaming OTT devices,"
-    publishedDateTime: 2021-01-28T17:34:00Z
-    webUrl: "https://www.globalbankingandfinance.com/category/news/synaptics-expands-family-of-ai-enriched-high-performance-multimedia-socs-for-mainstream-set-top-boxes-smart-video-devices/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 13
-    images:
-      - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Synaptics expands family of AI-enriched multimedia SoCs for mainstream STBs, smart video devices"
     excerpt: "Synaptics has announced customer sampling of its VideoSmart VS640, a next generation edge computing SoC that is AI-enriched for emerging set-top boxes, streaming OTT devices, video soundbars and smart displays."
     publishedDateTime: 2021-01-27T14:08:00Z

@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-12-veritone-and-alteryx-announce-strategic-relationship-to-power-the-alteryx-analytic-process-automation-platform-with-new-advanced-ai-capabilities.md",
+      "title": "Veritone and Alteryx Announce Strategic Relationship to Power the Alteryx Analytic Process Automation Platform With New, Advanced AI Capabilities",
+      "excerpt": "(Nasdaq: VERI), the creator of the world’s first operating system for artificial intelligence, aiWARE™, today announced a strategic relationship with Alteryx, Inc. (NYSE: AYX), a leader in analytic process automation (APA),",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/science-technology-business-north-america-software-industry-b22de960f999401686e78d86c908635b",
+      "originalUrl": "https://apnews.com/press-release/business-wire/science-technology-business-north-america-software-industry-b22de960f999401686e78d86c908635b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-12T01:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-heres-how-6-major-lsp-client-segments-use-data-for-ai.md",
       "title": "Here’s How 6 Major LSP Client Segments Use Data for AI",
       "excerpt": "AI services are integral to train and help AI performance. Here's how translation agency clients use text, image, and speech data.",
@@ -1357,40 +1400,6 @@
       "provider": {
         "name": "The American Journal of Managed Care",
         "domain": "ajmc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-30-covid-19-impact-on-voice-recognition-software-market-2020-global-technology-development-trends-and-forecasts-to-2026.md",
-      "title": "Covid-19 Impact on Voice Recognition Software Market 2020 Global Technology, Development, Trends and Forecasts to 2026",
-      "excerpt": "The latest research on the Global Voice Recognition Software Market has displayed an overview of the industry with an in-depth observation. The report defines the service and product along with its various applications in various end-user industries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2219092/covid-19-impact-on-voice-recognition-software-market-2020",
-      "originalUrl": "https://www.openpr.com/news/2219092/covid-19-impact-on-voice-recognition-software-market-2020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2219092/covid-19-impact-on-voice-recognition-software-market-2020",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2219092/covid-19-impact-on-voice-recognition-software-market-2020",
-      "publishedDateTime": "2020-12-30T03:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
         "images": null,
         "publishers": null,
         "authors": null

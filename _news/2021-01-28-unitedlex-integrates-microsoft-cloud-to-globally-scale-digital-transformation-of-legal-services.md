@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/technology-business
 webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-technology-issues-cloud-computing-1acd75653b884d75b91433ef2b035ab1"
 type: article
 quality: 27
-heat: -1
+heat: 27
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 700
     height: 450
     isCached: true
-
-related:
-  - title: "Ooredoo, Wipro sign agreement to enhance Microsoft Azure services"
-    excerpt: "Ooredoo Qatar, a Microsoft Gold Certified Partner, has signed a strategic partnership agreement with Wipro Limited, a leading global information technology, consulting, and business process services company,"
-    publishedDateTime: 2021-01-24T04:44:00Z
-    webUrl: "https://thepeninsulaqatar.com/article/24/01/2021/Ooredoo,-Wipro-sign-agreement-to-enhance-Microsoft-Azure-services"
-    type: article
-    provider:
-      name: The Peninsula
-      domain: thepeninsulaqatar.com
-    quality: 54
-    images:
-      - url: "https://thepeninsulaqatar.com/images/front/whatsapp.png"
-        width: 400
-        height: 284
-        isCached: true
 
 secured: "gW+MSWIzTIZLTx1uf2yeMwrNzrzSES80KKEYf1znkKJeTqUoJ0WTY6bHb0jrtWLQWgY9AMkVyZM7kTkIF+RJjIEHLemEST6efkTUnhjiaDmwnaIyvJHBfLX/bXwbva4DP7kwtH3Vro1Qh4dScZHlUXxUTe+8NG9SPFE2+5aqcSoPZWYlfauSek6sCIx6+6ydzQJFE05B0cHS6iD83DCK0wQ9mVnhnwjmP1vFI6enuQ5uBXfchIjvUPlAugGwXxxfp4tYy0VWbSbUdzu6oXG6na+jIo3v2wDVk9Fqep/4jafN/jNRyZ/4yt/bwxQkgsRdxthPNj3IBtvcGz3C/8G9Q8zX3QNrS9j+7pKITigvwGg=;64we8XNWAkgeyxf8GjhMIw=="
 ---

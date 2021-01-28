@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 819
         isCached: true
+  - title: "Google’s updated Voice Access leverages AI to detect in-app icons"
+    excerpt: "Google says it's leveraging AI to detect in-app icons, toward the goal of making Android apps more accessible."
+    publishedDateTime: 2021-01-28T20:23:00Z
+    webUrl: "https://venturebeat.com/2021/01/28/googles-updated-voice-access-leverages-ai-to-detect-in-app-icons/"
+    ampWebUrl: "https://venturebeat.com/2021/01/28/googles-updated-voice-access-leverages-ai-to-detect-in-app-icons/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/28/googles-updated-voice-access-leverages-ai-to-detect-in-app-icons/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1281329514.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Indian consumers feel AI drives better consumer experiences: Pega survey"
     excerpt: "Indian consumers were more trusting of new technologies like AI if they see the potential to improve their productivity and make things simpler."
     publishedDateTime: 2021-01-28T08:45:00Z

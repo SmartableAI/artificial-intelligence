@@ -6,7 +6,7 @@ publishedDateTime: 2021-01-28T18:34:00Z
 originalUrl: "https://www.biometricupdate.com/202101/council-of-europe-warns-against-biometrics-based-emotion-recognition"
 webUrl: "https://www.biometricupdate.com/202101/council-of-europe-warns-against-biometrics-based-emotion-recognition"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
@@ -48,6 +49,6 @@ related:
       domain: law360.com
     quality: 24
 
-secured: "3JFHXC6jM5xDZOesxAdgJKXkrSPF6vSkQKrBExQurAKRAWTymkzwYZnR9PUPdbgJw4ZygVxGlQWomzi0+DXbSIGp/eOoX5sMtJA/6vKuMElsHBV/0JU3674GJC2ep01Y1t25dUIrDC23PXjwSMBwMxc0BEp5QqBdBW7gM2IeGIngnlV7hrXb3HZGM1LnssvPiq03Y4tUGTiskX48QH8biu/F0D6SBfLu3qy6+nfP7LRUYcDLbv7OMC80iCDQO2eJH+2ERpZBX/nuBL06ea9UwAtGCbEQggLit6n2HgKFRWbfOGuvq5sQltxxYqU585fPTylzjvBfoTsRWsiPzWwClvd41wK+N/iJmlQyWe/6Ic4=;IzI07usfPaLo2ptfOorgfw=="
+secured: "pCeXC5vQM9XApc+GYD/RjPJDiXKOZdN3CgRaffLkey45hL5lBmsPKz24FJ6AEVnkzpDrBZMwHipKNm9ExopwBW/cX0E7isFY1soedop5LWq7SNEFQ5CvlzLwcsUdTSGNdrugLWaJtpuVLSPYkIgcFh5C86jljOT7DDK8YZ7vpwRcyX5EsQrqCc0TLkQn+AraGp9LXteMbQ8AoJ+wJOhsJhLRU2oHsD1X8C8pbxrCnjKvGN1FMCY1tgO5JG6jpdKUbg68oV2NfEWsDdXpEt39DquraKKjMcAxBvZds6bEtFNM6LW0hasLrpqOPrSvCC0xBx7KMXEj7+VpSDOA9gvbpE5k4KImpdVy5TPH0uUvmdfkq6t070RbSFEgmtCvvDsY9NutJNKB2f7PG12pi+6SMCiO6Xm4nltAh+TF5ffl7BdBZX13qYzqrxij2ioSXScrlGsxBRy/vNzVLWx7rLrs4znW5VhQ+SfImkcfvrmUVf6h/6KF/g28dZy/kSr8CSR84r3hZlWk4MwwtYqDXWv89w==;eVODeHJRDdBRS8WjEvgryw=="
 ---
 

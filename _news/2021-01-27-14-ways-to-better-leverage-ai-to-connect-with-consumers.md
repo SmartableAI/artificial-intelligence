@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbesagencycouncil/2021/01/27/14-way
 webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2021/01/27/14-ways-to-better-leverage-ai-to-connect-with-consumers/?sh=2efafabb3465"
 type: article
 quality: 167
-heat: 207
+heat: 217
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google’s updated Voice Access leverages AI to detect in-app icons"
+    excerpt: "Google says it's leveraging AI to detect in-app icons, toward the goal of making Android apps more accessible."
+    publishedDateTime: 2021-01-28T20:23:00Z
+    webUrl: "https://venturebeat.com/2021/01/28/googles-updated-voice-access-leverages-ai-to-detect-in-app-icons/"
+    ampWebUrl: "https://venturebeat.com/2021/01/28/googles-updated-voice-access-leverages-ai-to-detect-in-app-icons/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/28/googles-updated-voice-access-leverages-ai-to-detect-in-app-icons/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1281329514.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Indian consumers feel AI drives better consumer experiences: Pega survey"
     excerpt: "Indian consumers were more trusting of new technologies like AI if they see the potential to improve their productivity and make things simpler."
     publishedDateTime: 2021-01-28T08:45:00Z
@@ -86,6 +102,6 @@ related:
         height: 720
         isCached: true
 
-secured: "YoWainiOs+XyKd11ClA7LSA0NmSqRlVsB3g8T55esr4kqPJC4/kk82pS2M5EqG9/3tyeVzUo5swJlETqAzunbrw+oFyUrw+edRk369ooDGAn9saU2Rxm4aT1f4K3eCoLKdR82dOC61qD3JaEBwh7WvNQe3NWKZgCcrCPXQxM0Qh+VKrYQAMylskmgmZ68GVisEtRiVi45r2f9ahjGvhJCuuM+qWPK4ERQ0n1Y6CMzgjSK7EPUn6/jruIU60yaf2oCRya3lrj6u2Bbc78/41d/cq1f0RUANi5GuhTDz8Nn974nRtc/2pHgBiEcCG2wWFEAEcV32yMK7JReRoDkTfpwQ3jSwBurygQlcHDbnE2i0g=;RiLE1fYx7gY9TfKfNzRjeQ=="
+secured: "KNjIg7ReP2GNmUuEBYfcLDFesU4Ny8Cmx+fyTCnpx24Y66a27GAQQwW4xCi9nBKw3SbuBjyExHwHjPGkLdzHLCT8vqrPFabSa+wnTz6kn+xZMKa/FLQs+8TS1kJvOGM3iQ/7DYOoG2s+YD49v7gprH79xslaBee5l+EwrZLpHzyr8JLO7HprcEZkzPgehA32iZBQwIX0MJZ/z/UNWOetM0p4y6sCf5mxp5swNlCdkhE62hzGW2Iz9oPfDF6KCRdaOCGKfUbaOqQ0Tu4KrNJqtTcjzR+ZV9D2mE7BuJ7z6LSx1hnJ7yf0qjp8UqPnqjJ7hOYqicQ78uMujWtTcI6ecuO3+Co1lCkqTcGpF8bWTS2U7SiL5bw8oEo7D1u9rFgi/ymABqI3nHLkgRvEv9dauIAa1B8mBCfxfCh5SexT783661nr0eLOA8C6fGbo1FQPcnLcBlUTeJJc3TlXVOBQ5bfh0xrNaV4WjaaaFk3cYDTTKo3xaY/dWa8CE/Ces9noIsHsPE6LjKQOOGTcWAWUSerAWAzh6bCKgEH8gc2VPr4=;IwLpt4hSsYfw9DMzjgZYCA=="
 ---
 

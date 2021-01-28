@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/01/27/amnesty-international-calls
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/27/amnesty-international-calls-for-ban-on-facial-recognition/amp/"
 type: article
 quality: 89
-heat: 349
+heat: 359
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://media.wired.com/photos/6010bfcaea675c9b9e49067c/master/pass/Business-Police-Facial-Recognition-1177427464.jpg"
         width: 2400
         height: 1600
+        isCached: true
+  - title: "Facial recognition now used for border screenings at MSP Airport"
+    excerpt: "St. Paul International Airport from other countries can now choose to go through border control using facial recognition scanners. U.S. Customs and Border Protection announced on Wednesday that \"Simplified Arrival\" is now available at both MSP Airport terminals for international arrivals."
+    publishedDateTime: 2021-01-28T19:43:00Z
+    webUrl: "https://bringmethenews.com/minnesota-lifestyle/facial-recognition-now-used-for-border-screenings-at-msp-airport"
+    ampWebUrl: "https://bringmethenews.com/.amp/minnesota-lifestyle/facial-recognition-now-used-for-border-screenings-at-msp-airport"
+    cdnAmpWebUrl: "https://bringmethenews-com.cdn.ampproject.org/c/s/bringmethenews.com/.amp/minnesota-lifestyle/facial-recognition-now-used-for-border-screenings-at-msp-airport"
+    type: article
+    provider:
+      name: Bring Me The News
+      domain: bringmethenews.com
+    quality: 74
+    images:
+      - url: "https://bringmethenews.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTcxODMyMjYyNjQ2NTcyMzU0/1024px-msp_airport_-_view_from_the_observation_deck_8487245657.jpg"
+        width: 620
+        height: 411
         isCached: true
   - title: "Facial recognition: Don't use it to snoop on how staff are feeling, says watchdog"
     excerpt: "The Council of Europe's new guidelines call for a ban on some applications of facial recognition, and stringent privacy safeguards when the technology is deployed."

@@ -6,7 +6,7 @@ publishedDateTime: 2021-01-28T17:34:00Z
 originalUrl: "https://www.globalbankingandfinance.com/category/news/synaptics-expands-family-of-ai-enriched-high-performance-multimedia-socs-for-mainstream-set-top-boxes-smart-video-devices/"
 webUrl: "https://www.globalbankingandfinance.com/category/news/synaptics-expands-family-of-ai-enriched-high-performance-multimedia-socs-for-mainstream-set-top-boxes-smart-video-devices/"
 type: article
-quality: 13
+quality: 15
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Google AI
 
 images:
   - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"

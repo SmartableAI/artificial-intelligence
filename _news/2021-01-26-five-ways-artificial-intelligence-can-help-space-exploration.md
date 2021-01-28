@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Seven ways AI can help govts transform public services"
-    excerpt: "Governments are starting to explore the potential of AI and can work with policy-makers, public servants and data scientists to fully realise its benefits."
-    publishedDateTime: 2021-01-24T04:00:00Z
-    webUrl: "https://theprint.in/tech/seven-ways-ai-can-help-govts-transform-public-services/590745/"
-    ampWebUrl: "https://theprint.in/tech/seven-ways-ai-can-help-govts-transform-public-services/590745/?amp"
-    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/tech/seven-ways-ai-can-help-govts-transform-public-services/590745/?amp"
-    type: article
-    provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 59
-    images:
-      - url: "https://static.theprint.in/wp-content/uploads/2018/09/AI-final.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Five ways artificial intelligence can help space exploration"
     excerpt: "From designing missions to clearing Earth’s orbit of junk, here are a few ways artificial intelligence can help us venture further in space. Do you remember Tars and Case, the assistant robots from the film Interstellar?"
     publishedDateTime: 2021-01-25T14:43:00Z

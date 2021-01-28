@@ -1,24 +1,26 @@
 ---
 category: news
 title: "Deep learning outperforms standard machine learning in biomedical research applications"
-excerpt: "Compared to standard machine learning models, deep learning models are largely superior at discerning patterns and discriminative features in brain imaging, despite being more complex in their architecture."
-publishedDateTime: 2021-01-14T20:43:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2021/01/210114130125.htm"
-webUrl: "https://www.sciencedaily.com/releases/2021/01/210114130125.htm"
+excerpt: "ATLANTA--Compared to standard machine learning models, deep learning models are largely superior at discerning patterns and discriminative features in brain imaging, despite being more complex in ..."
+publishedDateTime: 2021-01-14T19:10:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2021-01/gsu-dlo011421.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2021-01/gsu-dlo011421.php"
 type: article
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
 
-secured: "y4gHs/OOf6gPyOdVigDkZSF+PmAYdIpxIz0rF9b5zq+wz/HPHLAvI7GWu0fhh/i5+jE//ANlQR/vRBRyw9nMV2zNfvufk6BcRvWaS4dAuHn2M7reqPAYDQtJvDRH9OzdMCtjg6CrHRg5z9u4V0eNSwL9oAONf0GIqC8ZFxbP3CpgVhFpqUMYrxEZpYMg/7UY3aGm/1CR464G2uT/rvOJ/mXpgT992IG/EA8GK2EbQ+SZgWjbsEpKTng8Hpwyh4CZbKM06KcRyfUZaYJrGvber/Q6Rc8X0IrlW6P1ea9HDgEjz94lrQWUVX0C8RtxJ+TwT35CaJFanUWqPMGzW9RJuvkz/PEgErNcUx3IFH4ekIE=;VpxR0pCqzd0vkGL1y7ey8A=="
+images:
+  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+    width: 1200
+    height: 675
+    isCached: true
+
+secured: "1BJSqoDp/+ZldBDZQq4jipOrMuMmHnphv8V9cPb6XG/kl/rPw1gA1NvkLyVA6amBA4ueWWWnsHZfiBjnNODZ/LqmX/nQ5/EomeQBxF9egf+kDRXCHMG+CXd4oLFz9SuQvf6l3LH3bT4EmxJcCZ0Rnw7SqNI8usANKjvliSAlqHkOo8B4xbX+3TQrvxFehXdo522+AWPS5jeA8//cO5hy9q8d+ZWrvBemiRCrIiC/PvZCn3FsigC0T6AwJC+fIIvdyASRIH/TieeG/CIZVukA7e0UXRJqpaz0Luay4iWSZYYkCaIBi7JIOXMiHC6ZKW/VN9JqChN9lt31BQBTWRBUYYBPY8Vt9o020dhlILYelCQ=;77HWVzKloQpfsLt7ZQyVYw=="
 ---
 
