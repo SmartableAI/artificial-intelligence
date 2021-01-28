@@ -4,6 +4,199 @@
   "page": 9,
   "value": [
     {
+      "path": "_companies/sparkcognition.md",
+      "title": "SparkCognition",
+      "excerpt": "SparkCognition builds leading artificial intelligence solutions to advance the most important interests of society. We help customers analyze complex data, empower decision making, and transform human and industrial productivity with award-winning machine learning technology and expert teams focused on defense, IIoT, and finance.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/sparkcognition/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/sparkcognition/",
+      "type": "profile",
+      "name": "SparkCognition",
+      "overview": "SparkCognition builds leading artificial intelligence solutions to advance the most important interests of society. We help customers analyze complex data, empower decision making, and transform human and industrial productivity with award-winning machine learning technology and expert teams focused on defense, IIoT, and finance.",
+      "website": "https://www.sparkcognition.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/5155679",
+        "followers": 15486
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/sparkcognition"
+      },
+      "twitter": {
+        "username": "SparkCognition",
+        "url": "https://twitter.com/SparkCognition",
+        "followers": 3881
+      },
+      "size": "201-500 employees",
+      "yearFounded": 2013,
+      "locations": [
+        "Austin, TX"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Security",
+        "Machine Learning"
+      ],
+      "heat": 50,
+      "tags": [
+        "Security"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1196452944943681536/z754dUZo_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "SparkCognition",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/speechmatics.md",
+      "title": "Speechmatics",
+      "excerpt": "With the voice revolution here, Speechmatics has used its decades of machine learning and research expertise to develop Automatic Speech Recognition (ASR), available in private or public clouds and securely on-premises. The technology can be used for real-time or pre-recorded audio and video files, pushing the boundaries of speech recognition innovation and supporting an industry-leading number of languages and dialects.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/speechmatics/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/speechmatics/",
+      "type": "profile",
+      "name": "Speechmatics",
+      "overview": "With the voice revolution here, Speechmatics has used its decades of machine learning and research expertise to develop Automatic Speech Recognition (ASR), available in private or public clouds and securely on-premises. The technology can be used for real-time or pre-recorded audio and video files, pushing the boundaries of speech recognition innovation and supporting an industry-leading number of languages and dialects.",
+      "website": "https://www.speechmatics.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/speechmatics/",
+        "followers": 2744
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/speechmatics"
+      },
+      "twitter": {
+        "username": "Speechmatics",
+        "url": "https://twitter.com/Speechmatics",
+        "followers": 1289
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2009,
+      "locations": [
+        "Cambridge"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "heat": 50,
+      "tags": [
+        "Speech Recognition"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/866594840552906757/zF08GXqA_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Speechmatics",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/squirrelai.md",
+      "title": "Squirrel AI Learning",
+      "excerpt": "Squirrel AI Learning is the first pure-play AI-powered adaptive education provider in China.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/squirrelai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/squirrelai/",
+      "type": "profile",
+      "name": "Squirrel AI Learning",
+      "overview": "Squirrel AI Learning is the first pure-play AI-powered adaptive education provider in China.",
+      "website": "https://www.squirrelai.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/yixue-squirrel-ai"
+      },
+      "twitter": {
+        "username": "SquirrelAI_Edu",
+        "url": "https://twitter.com/SquirrelAI_Edu",
+        "followers": 463
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Shanghai"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1259155145327288320/aN-PCWqc_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Squirrel AI Learning",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/suki.ai.md",
+      "title": "Suki",
+      "excerpt": "Suki is an AI-powered, voice-enabled digital assistant for doctors that lifts the burden of documentation, enabling them to focus on what they love: treating patients.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/suki.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/suki.ai/",
+      "type": "profile",
+      "name": "Suki",
+      "overview": "Suki is an AI-powered, voice-enabled digital assistant for doctors that lifts the burden of documentation, enabling them to focus on what they love: treating patients.",
+      "website": "https://www.suki.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/SukiHQ",
+        "followers": 14481
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/sukihq"
+      },
+      "twitter": {
+        "username": "SukiHQ",
+        "url": "https://www.twitter.com/SukiHQ",
+        "followers": 1573
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2017,
+      "locations": [
+        "Redwood City, CA",
+        "Redwood City, California"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Natural Language Processing",
+        "Machine Learning"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1156698809189064704/HbbjesAp_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Suki",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEYEMprol7fTg/company-logo_200_200/0?e=1594857600&v=beta&t=St3LAmADtAtLsdNouB8i67hlQjMwgQpRr-W1yUnDa4I",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/synyi.md",
       "title": "Synyi",
       "excerpt": "Founded in April 2016, located in Zhangjiang high-tech park, Shanghai, Synyi AI is the leading medical artificial intelligence company focusing on medical data governance, mining and application. Our mission is to accelerate the establishment of futuristic learning healthcare system based on data-driven artificial intelligence to build up applications for medical management, patient service, clinical research, and so.  In 2016, Synyi AI received nearly ten million RMB angel investment from ZhenFund. In 2017, Synyi AI received fifty-five million RMB series  A fund from Sequoia Capital , and China Electronic Health Fund. Our team consisted of multi discipline talents from the fields of artificial intelligence and clinical medicine from top institutions and enterprises world-wide. Our products have been subscribed by multiple medical centers in china.",
@@ -200,6 +393,44 @@
           "height": 400,
           "title": "logo",
           "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/tubularlabs.md",
+      "title": "Tubular Labs",
+      "excerpt": "Tubular Labs is the global leader in video intelligence for the cross-platform world.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/tubularlabs/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/tubularlabs/",
+      "type": "profile",
+      "name": "Tubular Labs",
+      "overview": "Tubular Labs is the global leader in video intelligence for the cross-platform world.",
+      "website": "https://www.reflektion.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/tubular-labs"
+      },
+      "twitter": {
+        "username": "TubularLabs",
+        "url": "https://twitter.com/TubularLabs",
+        "followers": 3875
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Mountain View, CA"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1233451560840990720/YnqpuohP_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Tubular Labs",
+          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -1186,7 +1417,7 @@
       "twitter": {
         "username": "meet_cleo",
         "url": "https://twitter.com/meet_cleo",
-        "followers": 15312
+        "followers": 15311
       },
       "size": "11-50 employees",
       "yearFounded": 2016,
@@ -1280,289 +1511,6 @@
           "height": 400,
           "title": "logo",
           "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/feedzai.md",
-      "title": "Feedzai",
-      "excerpt": "Feedzai is AI. We’re coding the future of commerce with a leading platform powered by artificial intelligence and big data. Founded and developed by data scientists and aerospace engineers, Feedzai has one critical mission: make commerce safe. The world’s largest banks, payment providers and retailers use Feedzai’s machine learning technology to manage risks associated with banking and shopping, whether it’s in person, online or via mobile devices.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/feedzai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/feedzai/",
-      "type": "profile",
-      "name": "Feedzai",
-      "overview": "Feedzai is AI. We’re coding the future of commerce with a leading platform powered by artificial intelligence and big data. Founded and developed by data scientists and aerospace engineers, Feedzai has one critical mission: make commerce safe. The world’s largest banks, payment providers and retailers use Feedzai’s machine learning technology to manage risks associated with banking and shopping, whether it’s in person, online or via mobile devices.",
-      "website": "https://feedzai.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/feedzai",
-        "followers": 19521
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/feedzai"
-      },
-      "twitter": {
-        "username": "feedzai",
-        "url": "https://twitter.com/feedzai",
-        "followers": 2641
-      },
-      "size": "201-500 employees",
-      "yearFounded": 2009,
-      "locations": [
-        "San Mateo, CA"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI"
-      ],
-      "heat": 42,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/997213460776665088/KwaiDTTw_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Feedzai",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQHiwjKZmD2YAA/company-logo_200_200/0?e=1594857600&v=beta&t=jHfH7EYkWdt4W-WkVPZINLzdX18h0pgH8aAEmxaXzL8",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/invoca.md",
-      "title": "Invoca",
-      "excerpt": "Invoca is an AI-powered call tracking and conversational analytics company that brings the depth of marketing analytics traditionally limited to digital consumer interactions to the world of human-to-human selling. With Invoca, marketers can use real-time call and conversational analytics to maximize the return of their paid media campaigns in Google and Facebook, and improve the buying experience by enriching customer profiles in Salesforce and Adobe Experience Cloud. With Fortune 500 customers and deep partnerships with the technologies marketers use every day, Invoca has raised $116M from leading venture capitalists including Accel, Upfront Ventures, H.I.G. Growth Partners, Morgan Stanley, and Salesforce Ventures. For more information, visit www.invoca.com.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/invoca/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/invoca/",
-      "type": "profile",
-      "name": "Invoca",
-      "overview": "Invoca is an AI-powered call tracking and conversational analytics company that brings the depth of marketing analytics traditionally limited to digital consumer interactions to the world of human-to-human selling. With Invoca, marketers can use real-time call and conversational analytics to maximize the return of their paid media campaigns in Google and Facebook, and improve the buying experience by enriching customer profiles in Salesforce and Adobe Experience Cloud. With Fortune 500 customers and deep partnerships with the technologies marketers use every day, Invoca has raised $116M from leading venture capitalists including Accel, Upfront Ventures, H.I.G. Growth Partners, Morgan Stanley, and Salesforce Ventures. For more information, visit www.invoca.com.",
-      "website": "https://www.invoca.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/invoca-com/",
-        "followers": 8022
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/invoca"
-      },
-      "twitter": {
-        "username": "Invoca",
-        "url": "https://twitter.com/Invoca",
-        "followers": 4464
-      },
-      "size": "201-500 employees",
-      "yearFounded": 2008,
-      "locations": [
-        "Santa Barbara, CA",
-        "Santa Barbara, California"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Marketing",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=NLLaC8pNKY8"
-        }
-      ],
-      "heat": 42,
-      "tags": [
-        "Speech Recognition"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1278366319570587649/41vS6lmq_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Invoca",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/megvii.md",
-      "title": "Megvii",
-      "excerpt": "MEGVII is a world-class AI company with core competencies in deep learning. Founded in Beijing in 2011 by Yin Qi, Tang Wenbin and Yang Mu, three Tsinghua University graduates who studied under the Turing-prize winning Chinese computer scientist and computational theorist Andrew Chi-Chih Yao, MEGVII is a pioneer in applying AI technology and computer vision algorithms to Internet of Things (IoT) use cases. The Company’s mission is to use innovative AI technology to deliver value to customers and to benefit the society as a whole.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/megvii/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/megvii/",
-      "type": "profile",
-      "name": "Megvii",
-      "otherNames": [
-        "Face++",
-        "FacePlusPlus",
-        "Megvii Technology",
-        "北京旷视科技有限公司",
-        "旷视",
-        "Kuangshi Keji"
-      ],
-      "overview": "MEGVII is a world-class AI company with core competencies in deep learning. Founded in Beijing in 2011 by Yin Qi, Tang Wenbin and Yang Mu, three Tsinghua University graduates who studied under the Turing-prize winning Chinese computer scientist and computational theorist Andrew Chi-Chih Yao, MEGVII is a pioneer in applying AI technology and computer vision algorithms to Internet of Things (IoT) use cases. The Company’s mission is to use innovative AI technology to deliver value to customers and to benefit the society as a whole.",
-      "website": "http://www.megvii.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/megvii%E6%97%B7%E8%A7%86/",
-        "followers": 9533
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/megvii-technology"
-      },
-      "twitter": {
-        "username": "faceplusplus",
-        "url": "https://twitter.com/faceplusplus",
-        "followers": 886
-      },
-      "size": "1,001-5,000 employees",
-      "yearFounded": 2011,
-      "locations": [
-        "Beijing, China",
-        "海淀区, 北京市"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Computer Vision"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=sbsCwlkSlp0"
-        }
-      ],
-      "heat": 42,
-      "tags": [
-        "Facial Recognition",
-        "Image Recognition"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1239848977958199298/DqKmJSLa_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Megvii",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C510BAQEytLW7LGXaHA/company-logo_200_200/0?e=1594857600&v=beta&t=kA_--YeJ-O7M8XY68wTHM71MKKs2wEGDYzsOabuXEpo",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/nauto.md",
-      "title": "Nauto",
-      "excerpt": "NautoⓇ is the only AI-powered, driver behavior learning platform to predict and reduce high-risk events in the mobility ecosystem. By analyzing billions of data points from over 400 million AI-processed video miles, Nauto’s machine learning algorithms continuously improve and impact driver behavior before events happen, not after. Nauto has enabled the largest commercial fleets in the world to avoid more than 250,000 collisions, resulting in nearly $1 billion in savings and over 5,000 lives saved.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/nauto/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/nauto/",
-      "type": "profile",
-      "name": "Nauto",
-      "overview": "NautoⓇ is the only AI-powered, driver behavior learning platform to predict and reduce high-risk events in the mobility ecosystem. By analyzing billions of data points from over 400 million AI-processed video miles, Nauto’s machine learning algorithms continuously improve and impact driver behavior before events happen, not after. Nauto has enabled the largest commercial fleets in the world to avoid more than 250,000 collisions, resulting in nearly $1 billion in savings and over 5,000 lives saved.",
-      "website": "https://www.nauto.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/nauto/",
-        "followers": 6785
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/nauto-inc"
-      },
-      "twitter": {
-        "username": "NautoInc",
-        "url": "https://twitter.com/NautoInc",
-        "followers": 3489
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2015,
-      "locations": [
-        "Palo Alto, CA",
-        "Palo Alto, California"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ],
-      "heat": 42,
-      "tags": [
-        "Autonomous Vehicles"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1288578079690903552/Os2VKD7G_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Nauto",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQGkusLVnmhocA/company-logo_200_200/0?e=1594857600&v=beta&t=QJ_2CuOCH0MD-dcZDjaZGOtr7vwIpeSoVxgIOq-3ZPM",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/observe.ai.md",
-      "title": "Observe.AI",
-      "excerpt": "Augmenting medical research with AI. Read our latest #research with @CLCCLeonBerard in @NatureMedicine https://t.co/VT0JF0jmVo",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/observe.ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/observe.ai/",
-      "type": "profile",
-      "name": "Observe.AI",
-      "overview": "Augmenting medical research with AI. Read our latest #research with @CLCCLeonBerard in @NatureMedicine https://t.co/VT0JF0jmVo",
-      "website": "https://observe.ai/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/observe-ai"
-      },
-      "twitter": {
-        "username": "observeai",
-        "url": "https://twitter.com/observeai",
-        "followers": 566
-      },
-      "yearFounded": 0,
-      "locations": [
-        "New York, NY"
-      ],
-      "funding": {
-        "status": "Seed"
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=sQwbipcFPYg"
-        }
-      ],
-      "heat": 42,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1117913972412305413/-MiJoy8U_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Observe.AI",
-          "isCached": true
         }
       ],
       "content": "\r\n"

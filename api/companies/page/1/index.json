@@ -26,7 +26,7 @@
       "twitter": {
         "username": "tesla",
         "url": "https://twitter.com/tesla",
-        "followers": 7211745
+        "followers": 7214560
       },
       "size": "10,001+ employees",
       "yearFounded": 2003,
@@ -82,7 +82,7 @@
       "twitter": {
         "username": "Microsoft",
         "url": "https://twitter.com/Microsoft",
-        "followers": 9233227
+        "followers": 9233461
       },
       "size": "10,001+ employees",
       "yearFounded": 1975,
@@ -128,7 +128,7 @@
       "twitter": {
         "username": "OpenAI",
         "url": "https://twitter.com/OpenAI",
-        "followers": 511202
+        "followers": 511244
       },
       "size": "51-200 employees",
       "yearFounded": 2015,
@@ -177,7 +177,7 @@
       "twitter": {
         "username": "amazon",
         "url": "https://twitter.com/amazon",
-        "followers": 3551690
+        "followers": 3551839
       },
       "size": "10,001+ employees",
       "yearFounded": 1994,
@@ -203,44 +203,6 @@
           "height": 400,
           "title": "logo",
           "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/appannie.md",
-      "title": "App Annie",
-      "excerpt": "The Mobile Performance Standard. Our mission is to provide the mobile data and analytics companies need to deliver winning consumer experiences.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/appannie/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/appannie/",
-      "type": "profile",
-      "name": "App Annie",
-      "overview": "The Mobile Performance Standard. Our mission is to provide the mobile data and analytics companies need to deliver winning consumer experiences.",
-      "website": "https://www.appannie.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/app-annie"
-      },
-      "twitter": {
-        "username": "appannie",
-        "url": "https://twitter.com/appannie",
-        "followers": 65719
-      },
-      "yearFounded": 0,
-      "locations": [
-        "San Francisco, CA"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ],
-      "heat": 371,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1177115933573177345/SkCJEIH6_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "App Annie",
-          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -401,7 +363,7 @@
       "twitter": {
         "username": "GoogleAI",
         "url": "https://twitter.com/GoogleAI",
-        "followers": 1566464
+        "followers": 1566519
       },
       "size": "10,001+ employees",
       "yearFounded": 1998,
@@ -494,7 +456,7 @@
       "twitter": {
         "username": "capitalcom",
         "url": "https://twitter.com/capitalcom",
-        "followers": 10490
+        "followers": 10508
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -551,7 +513,7 @@
       "twitter": {
         "username": "facebookai",
         "url": "https://twitter.com/facebookai",
-        "followers": 111086
+        "followers": 111100
       },
       "size": "10,001+ employees",
       "yearFounded": 2004,
@@ -604,7 +566,7 @@
       "twitter": {
         "username": "huggingface",
         "url": "https://twitter.com/huggingface",
-        "followers": 35722
+        "followers": 35727
       },
       "size": "11-50 employees",
       "yearFounded": 2016,
@@ -659,7 +621,7 @@
       "twitter": {
         "username": "Waymo",
         "url": "https://twitter.com/Waymo",
-        "followers": 62729
+        "followers": 62733
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2009,
@@ -712,7 +674,7 @@
       "twitter": {
         "username": "cruise",
         "url": "https://twitter.com/cruise",
-        "followers": 19315
+        "followers": 19320
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2013,
@@ -775,7 +737,7 @@
       "twitter": {
         "username": "NvidiaAI",
         "url": "https://twitter.com/NvidiaAI",
-        "followers": 66739
+        "followers": 66745
       },
       "size": "10,001+ employees",
       "yearFounded": 1993,
@@ -835,7 +797,7 @@
       "twitter": {
         "username": "anacondainc",
         "url": "https://twitter.com/anacondainc",
-        "followers": 59712
+        "followers": 59713
       },
       "size": "51-200 employees",
       "yearFounded": 2012,
@@ -892,7 +854,7 @@
       "twitter": {
         "username": "tencentglobal",
         "url": "https://twitter.com/tencentglobal",
-        "followers": 23936
+        "followers": 23935
       },
       "size": "10,001+ employees",
       "yearFounded": 1998,
@@ -909,140 +871,6 @@
           "width": 400,
           "height": 400,
           "title": "Tencent",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/collections/ai-companies-in-san-francisco.md",
-      "title": "San Francisco AI Companies",
-      "excerpt": "List of AI companies in San Francisco.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/collections/ai-companies-in-san-francisco/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/collections/ai-companies-in-san-francisco/",
-      "type": "collection",
-      "name": "San Francisco AI Companies",
-      "overview": "List of AI companies in San Francisco.",
-      "yearFounded": 0,
-      "topics": [
-        "AI"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Affirm",
-          "excerpt": "At Affirm, we’re using today’s technology to bring significant disruptive innovation to the financial industry. We focus on improving the lives of consumers by delivering simple, honest and transparent financial products.",
-          "type": "profile",
-          "name": "Affirm",
-          "overview": "At Affirm, we’re using today’s technology to bring significant disruptive innovation to the financial industry. We focus on improving the lives of consumers by delivering simple, honest and transparent financial products.",
-          "yearFounded": 0,
-          "topics": [
-            "AI",
-            "Machine Learning"
-          ],
-          "heat": 175,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/1328845027519332354/TdQpAQ6K_400x400.jpg",
-              "width": 400,
-              "height": 400,
-              "title": "Affirm",
-              "isCached": true
-            },
-            {
-              "url": "https://media-exp1.licdn.com/dms/image/C560BAQFd5kcvkO_dgA/company-logo_200_200/0?e=1594857600&v=beta&t=6EDJ4EBaqAfkmdcAb0VR86QNkBp9Qu6ytBznQ3_vKsE",
-              "width": 400,
-              "height": 400,
-              "title": "logo",
-              "isCached": false
-            }
-          ]
-        },
-        {
-          "path": "",
-          "title": "Algolia",
-          "excerpt": "Our mission is to enable every developer and product team to build consumer-grade search for their users that is easy to implement, engaging, and high-performing. With Algolia, consumers are able to easily find and discover what they want across web, mobile, and voice.",
-          "type": "profile",
-          "name": "Algolia",
-          "overview": "Our mission is to enable every developer and product team to build consumer-grade search for their users that is easy to implement, engaging, and high-performing. With Algolia, consumers are able to easily find and discover what they want across web, mobile, and voice.",
-          "yearFounded": 0,
-          "topics": [
-            "AI",
-            "Natural Language Processing"
-          ],
-          "heat": 0,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/1001802575505707009/iEEMVN5L_400x400.jpg",
-              "width": 400,
-              "height": 400,
-              "title": "Algolia",
-              "isCached": true
-            }
-          ]
-        },
-        {
-          "path": "",
-          "title": "Anki",
-          "excerpt": "Anki is a leading consumer robotics company, founded by three Carnegie Mellon Robotics Institute graduates. We’re building on decades of scientific research to make artificial intelligence accessible to everyone. We are dedicated to creating unique consumer products that people would not expect to be possible, powered by robotics and AI.",
-          "type": "profile",
-          "name": "Anki",
-          "overview": "Anki is a leading consumer robotics company, founded by three Carnegie Mellon Robotics Institute graduates. We’re building on decades of scientific research to make artificial intelligence accessible to everyone. We are dedicated to creating unique consumer products that people would not expect to be possible, powered by robotics and AI.",
-          "yearFounded": 0,
-          "topics": [
-            "AI",
-            "AI in Robotics"
-          ],
-          "heat": 0,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/1287810463980556288/gEbM3DSA_400x400.jpg",
-              "width": 400,
-              "height": 400,
-              "title": "Anki",
-              "isCached": true
-            },
-            {
-              "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQF1hOliZioDmw/company-logo_200_200/0?e=1594857600&v=beta&t=_v3aA0efwqNjU-Kq2xBdBwf0QvcFGGAPfk7b6kqkjE0",
-              "width": 400,
-              "height": 400,
-              "title": "logo",
-              "isCached": false
-            }
-          ]
-        },
-        {
-          "path": "",
-          "title": "App Annie",
-          "excerpt": "The Mobile Performance Standard. Our mission is to provide the mobile data and analytics companies need to deliver winning consumer experiences.",
-          "type": "profile",
-          "name": "App Annie",
-          "overview": "The Mobile Performance Standard. Our mission is to provide the mobile data and analytics companies need to deliver winning consumer experiences.",
-          "yearFounded": 0,
-          "topics": [
-            "AI",
-            "AI in Marketing"
-          ],
-          "heat": 371,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/1177115933573177345/SkCJEIH6_400x400.jpg",
-              "width": 400,
-              "height": 400,
-              "title": "App Annie",
-              "isCached": true
-            }
-          ]
-        }
-      ],
-      "size": 41,
-      "heat": 210,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1328845027519332354/TdQpAQ6K_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Affirm",
           "isCached": true
         }
       ],
@@ -1068,7 +896,7 @@
       "twitter": {
         "username": "aurora_inno",
         "url": "https://twitter.com/aurora_inno",
-        "followers": 8560
+        "followers": 8562
       },
       "size": "201-500 employees",
       "yearFounded": 2016,
@@ -1123,7 +951,7 @@
       "twitter": {
         "username": "ROSSIntel",
         "url": "https://twitter.com/ROSSIntel",
-        "followers": 5399
+        "followers": 5401
       },
       "size": "11-50 employees",
       "yearFounded": 2014,
@@ -1156,6 +984,44 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/uber.md",
+      "title": "Uber",
+      "excerpt": "Uber develops, markets, and operates a ride-sharing mobile application that allows consumers to submit a trip request.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/uber/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/uber/",
+      "type": "profile",
+      "name": "Uber",
+      "overview": "Uber develops, markets, and operates a ride-sharing mobile application that allows consumers to submit a trip request.",
+      "website": "https://www.uber.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/uber"
+      },
+      "twitter": {
+        "username": "Uber",
+        "url": "https://twitter.com/Uber",
+        "followers": 1048891
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Global"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "heat": 198,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1045783102000230400/TPLLaqYR_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Uber",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/lemonade.md",
       "title": "Lemonade",
       "excerpt": "Lemonade Insurance Company is a licensed insurance carrier, offering homeowners and renters insurance powered by artificial intelligence and behavioral economics. By replacing brokers and bureaucracy with bots and machine learning, Lemonade promises zero paperwork and instant everything. And as a Certified B-Corp, where underwriting profits go to nonprofits, Lemonade is remaking insurance as a social good, rather than a necessary evil.",
@@ -1175,7 +1041,7 @@
       "twitter": {
         "username": "lemonade_inc",
         "url": "https://twitter.com/lemonade_inc",
-        "followers": 23960
+        "followers": 23961
       },
       "size": "51-200 employees",
       "yearFounded": 2015,
@@ -1228,7 +1094,7 @@
       "twitter": {
         "username": "zoox",
         "url": "https://twitter.com/zoox",
-        "followers": 16755
+        "followers": 16757
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2014,
@@ -1286,7 +1152,7 @@
       "twitter": {
         "username": "Affirm",
         "url": "https://twitter.com/Affirm",
-        "followers": 10643
+        "followers": 10644
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,
@@ -1345,7 +1211,7 @@
       "twitter": {
         "username": "twilio",
         "url": "https://twitter.com/twilio",
-        "followers": 76751
+        "followers": 76752
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2008,
@@ -1387,7 +1253,7 @@
       "twitter": {
         "username": "argoai",
         "url": "https://twitter.com/argoai",
-        "followers": 3840
+        "followers": 3841
       },
       "size": "501-1,000 employees",
       "yearFounded": 2016,
@@ -1415,44 +1281,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/uber.md",
-      "title": "Uber",
-      "excerpt": "Uber develops, markets, and operates a ride-sharing mobile application that allows consumers to submit a trip request.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/uber/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/uber/",
-      "type": "profile",
-      "name": "Uber",
-      "overview": "Uber develops, markets, and operates a ride-sharing mobile application that allows consumers to submit a trip request.",
-      "website": "https://www.uber.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/uber"
-      },
-      "twitter": {
-        "username": "Uber",
-        "url": "https://twitter.com/Uber",
-        "followers": 1048881
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Global"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ],
-      "heat": 161,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1045783102000230400/TPLLaqYR_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Uber",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/baidu.md",
       "title": "Baidu",
       "excerpt": "Baidu is a Chinese website and search engine that enables individuals to obtain information and find what they need.",
@@ -1472,7 +1300,7 @@
       "twitter": {
         "username": "BaiduResearch",
         "url": "https://twitter.com/BaiduResearch",
-        "followers": 53705
+        "followers": 53707
       },
       "size": "10,001+ employees",
       "yearFounded": 2000,
@@ -1525,7 +1353,7 @@
       "twitter": {
         "username": "Upstart",
         "url": "https://twitter.com/Upstart",
-        "followers": 9050
+        "followers": 9051
       },
       "size": "201-500 employees",
       "yearFounded": 2012,
@@ -1636,7 +1464,7 @@
       "twitter": {
         "username": "salesforce",
         "url": "https://twitter.com/salesforce",
-        "followers": 531964
+        "followers": 531965
       },
       "size": "10,001+ employees",
       "yearFounded": 1999,
@@ -1681,7 +1509,7 @@
       "twitter": {
         "username": "tusimpleai",
         "url": "https://twitter.com/tusimpleai",
-        "followers": 2822
+        "followers": 2823
       },
       "size": "201-500 employees",
       "yearFounded": 2015,
@@ -1706,6 +1534,127 @@
         },
         {
           "url": "https://media-exp1.licdn.com/dms/image/C560BAQF-VIgl-KH5PA/company-logo_200_200/0?e=1594857600&v=beta&t=7aG6NWFcE1juXhHrC_Qdr9ban8BibSUdqUUJEj6IVss",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/graphcore.ai.md",
+      "title": "Graphcore",
+      "excerpt": "Graphcore has created a new processor, the Intelligence Processing Unit (IPU), specifically designed for artificial intelligence. The IPU’s unique architecture means developers can run current machine learning models orders of magnitude faster. More importantly, it lets AI researchers undertake entirely new types of work, not possible using current technologies, to drive the next great breakthroughs in general machine intelligence.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/graphcore.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/graphcore.ai/",
+      "type": "profile",
+      "name": "Graphcore",
+      "overview": "Graphcore has created a new processor, the Intelligence Processing Unit (IPU), specifically designed for artificial intelligence. The IPU’s unique architecture means developers can run current machine learning models orders of magnitude faster. More importantly, it lets AI researchers undertake entirely new types of work, not possible using current technologies, to drive the next great breakthroughs in general machine intelligence.",
+      "website": "https://www.graphcore.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/graphcore/",
+        "followers": 8609
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/graphcore"
+      },
+      "twitter": {
+        "username": "graphcoreai",
+        "url": "https://twitter.com/graphcoreai",
+        "followers": 6772
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2016,
+      "locations": [
+        "Bristol, UK",
+        "Bristol, Bristol"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=Gh-Tff7DdzU"
+        }
+      ],
+      "heat": 142,
+      "tags": [
+        "Europe"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/877225025874653184/vITaYmsB_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Graphcore",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C510BAQGNIENP-jbVAA/company-logo_200_200/0?e=1594857600&v=beta&t=EOe9ISmyZdBkXhNbtuG5y3CtVza1ekxbxU0l3Un5PT0",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/zymergen.md",
+      "title": "Zymergen",
+      "excerpt": "Founded in 2013 and based in the San Francisco Bay Area, Zymergen integrates automation, machine learning, and genomics to rapidly accelerate the pace of scientific advancement. We treat the genome as a search space, leveraging machine learning to make discoveries far beyond the bounds of human intuition. In doing so, we deliver economic value, material diversity and performance capabilities not previously possible.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/zymergen/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/zymergen/",
+      "type": "profile",
+      "name": "Zymergen",
+      "overview": "Founded in 2013 and based in the San Francisco Bay Area, Zymergen integrates automation, machine learning, and genomics to rapidly accelerate the pace of scientific advancement. We treat the genome as a search space, leveraging machine learning to make discoveries far beyond the bounds of human intuition. In doing so, we deliver economic value, material diversity and performance capabilities not previously possible.",
+      "website": "https://www.zymergen.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/zymergen-inc-/",
+        "followers": 10307
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/zymergen"
+      },
+      "twitter": {
+        "username": "zymergen",
+        "url": "https://twitter.com/zymergen",
+        "followers": 5487
+      },
+      "size": "201-500 employees",
+      "yearFounded": 2013,
+      "locations": [
+        "Emeryville, CA"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=658kvYgrJBE"
+        }
+      ],
+      "heat": 142,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/975742186871402496/9hiwI9SS_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Zymergen",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFVJWz7dfMRiw/company-logo_200_200/0?e=1594857600&v=beta&t=rhBDRCG7z5wL4oYEWBCdYg_mi_C6R5CsTQCu49nbr6k",
           "width": 400,
           "height": 400,
           "title": "logo",

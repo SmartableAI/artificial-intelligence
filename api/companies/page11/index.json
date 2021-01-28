@@ -4,6 +4,62 @@
   "page": 11,
   "value": [
     {
+      "path": "_companies/dialogflow.md",
+      "title": "Dialogflow",
+      "excerpt": "People should do the work they care most about. Robots can do the rest. 🤖  Meet our robot @moxirobot.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/dialogflow/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/dialogflow/",
+      "type": "profile",
+      "name": "Dialogflow",
+      "otherNames": [
+        "Speaktoit",
+        "Api.ai"
+      ],
+      "overview": "People should do the work they care most about. Robots can do the rest. 🤖  Meet our robot @moxirobot.",
+      "website": "https://dialogflow.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/1443713/",
+        "followers": 3083
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/api-ai"
+      },
+      "twitter": {
+        "username": "Dialogflow",
+        "url": "https://twitter.com/Dialogflow",
+        "followers": 12028
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2010,
+      "locations": [
+        "Mountain View, CA",
+        "Mountain View, California"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=ADD-rvsS5z4"
+        }
+      ],
+      "heat": 6,
+      "tags": [
+        "Speech Recognition"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/880147119528476672/S7C-2C6t_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Dialogflow",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/lilt.md",
       "title": "Lilt",
       "excerpt": "Lilt builds intelligent software to augment translation for businesses and translators. We combine artificial intelligence with human power to optimize speed, quality and cost.",
@@ -202,44 +258,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/6sense.md",
-      "title": "6sense",
-      "excerpt": "6sense features unified account engagement platform unifies revenue teams with account-level insights to achieve predictable revenue growth.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/6sense/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/6sense/",
-      "type": "profile",
-      "name": "6sense",
-      "overview": "6sense features unified account engagement platform unifies revenue teams with account-level insights to achieve predictable revenue growth.",
-      "website": "https://www.6sense.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/6sense"
-      },
-      "twitter": {
-        "username": "6senseInc",
-        "url": "https://twitter.com/6senseInc",
-        "followers": 18929
-      },
-      "yearFounded": 0,
-      "locations": [
-        "San Francisco"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ],
-      "heat": 0,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1280217113278517248/cvplgUVY_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "6sense",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/aera-technology.md",
       "title": "Aera Technology",
       "excerpt": "Aera Technology delivers the Cognitive Operating System™ that enables the Self-Driving Enterprise™. Aera understands how businesses work; makes real-time recommendations; predicts outcomes; and acts autonomously. Using proprietary data crawling, industry models, machine learning and artificial intelligence, Aera is revolutionizing how people relate to data and how organizations function. ",
@@ -304,7 +322,7 @@
       "twitter": {
         "username": "algolia",
         "url": "https://twitter.com/algolia",
-        "followers": 16602
+        "followers": 16600
       },
       "size": "201-500 employees",
       "yearFounded": 2012,
@@ -356,7 +374,7 @@
       "twitter": {
         "username": "anki",
         "url": "https://twitter.com/anki",
-        "followers": 26656
+        "followers": 26657
       },
       "size": "51-200 employees",
       "yearFounded": 2010,
@@ -395,38 +413,38 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/anomali.md",
-      "title": "Anomali",
-      "excerpt": "Anomali delivers earlier detection and identification of adversaries in your organizations network.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/anomali/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/anomali/",
+      "path": "_companies/appannie.md",
+      "title": "App Annie",
+      "excerpt": "The Mobile Performance Standard. Our mission is to provide the mobile data and analytics companies need to deliver winning consumer experiences.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/appannie/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/appannie/",
       "type": "profile",
-      "name": "Anomali",
-      "overview": "Anomali delivers earlier detection and identification of adversaries in your organizations network.",
-      "website": "https://www.anomli.com",
+      "name": "App Annie",
+      "overview": "The Mobile Performance Standard. Our mission is to provide the mobile data and analytics companies need to deliver winning consumer experiences.",
+      "website": "https://www.appannie.com/",
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/threatstream"
+        "url": "https://www.crunchbase.com/organization/app-annie"
       },
       "twitter": {
-        "username": "Anomali",
-        "url": "https://twitter.com/Anomali",
-        "followers": 8707
+        "username": "appannie",
+        "url": "https://twitter.com/appannie",
+        "followers": 65746
       },
       "yearFounded": 0,
       "locations": [
-        "Redwood City, CA"
+        "San Francisco, CA"
       ],
       "topics": [
         "AI",
-        "AI in Security"
+        "AI in Marketing"
       ],
       "heat": 0,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/704208076216233984/GCReHMVS_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1177115933573177345/SkCJEIH6_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Anomali",
+          "title": "App Annie",
           "isCached": true
         }
       ],
@@ -459,7 +477,7 @@
       "twitter": {
         "username": "Mobvoi_Official",
         "url": "https://twitter.com/Mobvoi_Official",
-        "followers": 49798
+        "followers": 49808
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,
@@ -513,7 +531,7 @@
       "twitter": {
         "username": "cisco",
         "url": "https://twitter.com/cisco",
-        "followers": 713414
+        "followers": 713424
       },
       "size": "10,001+ employees",
       "yearFounded": 1984,
@@ -777,7 +795,7 @@
       "twitter": {
         "username": "IntelAI",
         "url": "https://twitter.com/IntelAI",
-        "followers": 25562
+        "followers": 25564
       },
       "size": "10,001+ employees",
       "yearFounded": 1968,
@@ -833,7 +851,7 @@
       "twitter": {
         "username": "kadaxis",
         "url": "https://twitter.com/kadaxis",
-        "followers": 29230
+        "followers": 29235
       },
       "size": "2-10 employees",
       "yearFounded": 2013,
@@ -857,44 +875,6 @@
           "width": 400,
           "height": 400,
           "title": "Kadaxis",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/knewton.md",
-      "title": "Knewton",
-      "excerpt": "Knewton is an adaptive learning technology provider with a mission to bring personalized education to the world.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/knewton/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/knewton/",
-      "type": "profile",
-      "name": "Knewton",
-      "overview": "Knewton is an adaptive learning technology provider with a mission to bring personalized education to the world.",
-      "website": "https://www.knewton.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/knewton"
-      },
-      "twitter": {
-        "username": "Knewton",
-        "url": "https://twitter.com/Knewton",
-        "followers": 14640
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Hoboken, NJ"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
-      ],
-      "heat": 0,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1224388356089491457/7ucoRe_G_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Knewton",
           "isCached": true
         }
       ],
@@ -1088,7 +1068,7 @@
       "twitter": {
         "username": "sophiagenetics",
         "url": "https://twitter.com/sophiagenetics",
-        "followers": 21484
+        "followers": 21485
       },
       "size": "201-500 employees",
       "yearFounded": 2011,
@@ -1189,7 +1169,7 @@
       "twitter": {
         "username": "ubtechrobotics",
         "url": "https://twitter.com/ubtechrobotics",
-        "followers": 76845
+        "followers": 76853
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,
@@ -1224,6 +1204,140 @@
           "height": 400,
           "title": "logo",
           "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/collections/ai-companies-in-san-francisco.md",
+      "title": "San Francisco AI Companies",
+      "excerpt": "List of AI companies in San Francisco.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/collections/ai-companies-in-san-francisco/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/collections/ai-companies-in-san-francisco/",
+      "type": "collection",
+      "name": "San Francisco AI Companies",
+      "overview": "List of AI companies in San Francisco.",
+      "yearFounded": 0,
+      "topics": [
+        "AI"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Affirm",
+          "excerpt": "At Affirm, we’re using today’s technology to bring significant disruptive innovation to the financial industry. We focus on improving the lives of consumers by delivering simple, honest and transparent financial products.",
+          "type": "profile",
+          "name": "Affirm",
+          "overview": "At Affirm, we’re using today’s technology to bring significant disruptive innovation to the financial industry. We focus on improving the lives of consumers by delivering simple, honest and transparent financial products.",
+          "yearFounded": 0,
+          "topics": [
+            "AI",
+            "Machine Learning"
+          ],
+          "heat": 175,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/1328845027519332354/TdQpAQ6K_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "Affirm",
+              "isCached": true
+            },
+            {
+              "url": "https://media-exp1.licdn.com/dms/image/C560BAQFd5kcvkO_dgA/company-logo_200_200/0?e=1594857600&v=beta&t=6EDJ4EBaqAfkmdcAb0VR86QNkBp9Qu6ytBznQ3_vKsE",
+              "width": 400,
+              "height": 400,
+              "title": "logo",
+              "isCached": false
+            }
+          ]
+        },
+        {
+          "path": "",
+          "title": "Algolia",
+          "excerpt": "Our mission is to enable every developer and product team to build consumer-grade search for their users that is easy to implement, engaging, and high-performing. With Algolia, consumers are able to easily find and discover what they want across web, mobile, and voice.",
+          "type": "profile",
+          "name": "Algolia",
+          "overview": "Our mission is to enable every developer and product team to build consumer-grade search for their users that is easy to implement, engaging, and high-performing. With Algolia, consumers are able to easily find and discover what they want across web, mobile, and voice.",
+          "yearFounded": 0,
+          "topics": [
+            "AI",
+            "Natural Language Processing"
+          ],
+          "heat": 0,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/1001802575505707009/iEEMVN5L_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "Algolia",
+              "isCached": true
+            }
+          ]
+        },
+        {
+          "path": "",
+          "title": "Anki",
+          "excerpt": "Anki is a leading consumer robotics company, founded by three Carnegie Mellon Robotics Institute graduates. We’re building on decades of scientific research to make artificial intelligence accessible to everyone. We are dedicated to creating unique consumer products that people would not expect to be possible, powered by robotics and AI.",
+          "type": "profile",
+          "name": "Anki",
+          "overview": "Anki is a leading consumer robotics company, founded by three Carnegie Mellon Robotics Institute graduates. We’re building on decades of scientific research to make artificial intelligence accessible to everyone. We are dedicated to creating unique consumer products that people would not expect to be possible, powered by robotics and AI.",
+          "yearFounded": 0,
+          "topics": [
+            "AI",
+            "AI in Robotics"
+          ],
+          "heat": 0,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/1287810463980556288/gEbM3DSA_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "Anki",
+              "isCached": true
+            },
+            {
+              "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQF1hOliZioDmw/company-logo_200_200/0?e=1594857600&v=beta&t=_v3aA0efwqNjU-Kq2xBdBwf0QvcFGGAPfk7b6kqkjE0",
+              "width": 400,
+              "height": 400,
+              "title": "logo",
+              "isCached": false
+            }
+          ]
+        },
+        {
+          "path": "",
+          "title": "App Annie",
+          "excerpt": "The Mobile Performance Standard. Our mission is to provide the mobile data and analytics companies need to deliver winning consumer experiences.",
+          "type": "profile",
+          "name": "App Annie",
+          "overview": "The Mobile Performance Standard. Our mission is to provide the mobile data and analytics companies need to deliver winning consumer experiences.",
+          "yearFounded": 0,
+          "topics": [
+            "AI",
+            "AI in Marketing"
+          ],
+          "heat": 0,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/1177115933573177345/SkCJEIH6_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "App Annie",
+              "isCached": true
+            }
+          ]
+        }
+      ],
+      "size": 41,
+      "heat": 0,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1328845027519332354/TdQpAQ6K_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Affirm",
+          "isCached": true
         }
       ],
       "content": "\r\n"

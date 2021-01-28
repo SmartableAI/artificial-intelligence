@@ -4,6 +4,138 @@
   "page": 8,
   "value": [
     {
+      "path": "_companies/meero.md",
+      "title": "Darktrace",
+      "excerpt": "",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/meero/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/meero/",
+      "type": "profile",
+      "name": "Darktrace",
+      "overview": "",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/meero"
+      },
+      "yearFounded": 0,
+      "topics": [
+        "AI"
+      ],
+      "heat": 50,
+      "tags": [
+        "Europe"
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/mighty.ai.md",
+      "title": "Mighty AI",
+      "excerpt": "Narrative Science creates software that writes stories from data to drive understanding and better results.  How the future gets written.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/mighty.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/mighty.ai/",
+      "type": "profile",
+      "name": "Mighty AI",
+      "otherNames": [
+        "Spare5"
+      ],
+      "overview": "Narrative Science creates software that writes stories from data to drive understanding and better results.  How the future gets written.",
+      "website": "https://mighty.ai",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/mightyai/",
+        "followers": 2029
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/spare5"
+      },
+      "twitter": {
+        "username": "mighty_ai",
+        "url": "https://twitter.com/mighty_ai",
+        "followers": 1781
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2014,
+      "locations": [
+        "Seattle, WA",
+        "Seattle, Washington"
+      ],
+      "funding": {
+        "status": "M&A"
+      },
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1029849217693405184/RWvJ3wHK_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Mighty AI",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQH121p9MTqZzg/company-logo_200_200/0?e=1594857600&v=beta&t=9Yc5quyJcAQ8vkvPIXlhOD1hIs3qUHyXygadAO8rC9E",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/mojo.md",
+      "title": "mojo",
+      "excerpt": "We are experts in tech, working alongside experts in fertility. These partnerships have fostered a vision of democratising fertility care for the future. We believe that everyone should have access to reliable and affordable fertility care.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/mojo/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/mojo/",
+      "type": "profile",
+      "name": "mojo",
+      "overview": "We are experts in tech, working alongside experts in fertility. These partnerships have fostered a vision of democratising fertility care for the future. We believe that everyone should have access to reliable and affordable fertility care.",
+      "website": "https://www.mojofertility.co/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/mojofertility/",
+        "followers": 154
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/mojofertility"
+      },
+      "twitter": {
+        "username": "mojofertility",
+        "url": "https://twitter.com/mojofertility",
+        "followers": 388
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2017,
+      "locations": [
+        "Lyon, Rhône-Alpes"
+      ],
+      "funding": {
+        "status": "Seed"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1196207041997672448/sX77d5b1_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "mojo",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQHsFAFk_hzHSg/company-logo_200_200/0?e=1594857600&v=beta&t=jFRlt8PrCUhmt-vwq9eVRKeZ2geX62897tvRK5j0Tk0",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/mov.ai.md",
       "title": "MOV.AI",
       "excerpt": "MOV.AI  provides an industry-grade operating system to change mobile machines into autonomous intelligent collaborative robots for universal commercial use.",
@@ -242,7 +374,7 @@
       "twitter": {
         "username": "niramaianalytix",
         "url": "https://twitter.com/niramaianalytix",
-        "followers": 816
+        "followers": 817
       },
       "yearFounded": 0,
       "locations": [
@@ -508,7 +640,7 @@
       "twitter": {
         "username": "oaknorth",
         "url": "https://twitter.com/oaknorth",
-        "followers": 947
+        "followers": 948
       },
       "size": "501-1,000 employees",
       "yearFounded": 2015,
@@ -759,6 +891,44 @@
           "height": 400,
           "title": "logo",
           "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/reflektion.md",
+      "title": "Reflektion",
+      "excerpt": "Reflektion understands the individual intent and preferences of each customer and intelligently responds in real time.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/reflektion/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/reflektion/",
+      "type": "profile",
+      "name": "Reflektion",
+      "overview": "Reflektion understands the individual intent and preferences of each customer and intelligently responds in real time.",
+      "website": "https://www.reflektion.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/reflektion"
+      },
+      "twitter": {
+        "username": "ReflektionInc",
+        "url": "https://twitter.com/ReflektionInc",
+        "followers": 1438
+      },
+      "yearFounded": 0,
+      "locations": [
+        "San Mateo, CA"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/910264575034933248/rJvYegtU_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Reflektion",
+          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -1358,199 +1528,6 @@
           "height": 400,
           "title": "SoundHound",
           "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/sparkcognition.md",
-      "title": "SparkCognition",
-      "excerpt": "SparkCognition builds leading artificial intelligence solutions to advance the most important interests of society. We help customers analyze complex data, empower decision making, and transform human and industrial productivity with award-winning machine learning technology and expert teams focused on defense, IIoT, and finance.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/sparkcognition/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/sparkcognition/",
-      "type": "profile",
-      "name": "SparkCognition",
-      "overview": "SparkCognition builds leading artificial intelligence solutions to advance the most important interests of society. We help customers analyze complex data, empower decision making, and transform human and industrial productivity with award-winning machine learning technology and expert teams focused on defense, IIoT, and finance.",
-      "website": "https://www.sparkcognition.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/5155679",
-        "followers": 15486
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/sparkcognition"
-      },
-      "twitter": {
-        "username": "SparkCognition",
-        "url": "https://twitter.com/SparkCognition",
-        "followers": 3881
-      },
-      "size": "201-500 employees",
-      "yearFounded": 2013,
-      "locations": [
-        "Austin, TX"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Security",
-        "Machine Learning"
-      ],
-      "heat": 50,
-      "tags": [
-        "Security"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1196452944943681536/z754dUZo_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "SparkCognition",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/speechmatics.md",
-      "title": "Speechmatics",
-      "excerpt": "With the voice revolution here, Speechmatics has used its decades of machine learning and research expertise to develop Automatic Speech Recognition (ASR), available in private or public clouds and securely on-premises. The technology can be used for real-time or pre-recorded audio and video files, pushing the boundaries of speech recognition innovation and supporting an industry-leading number of languages and dialects.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/speechmatics/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/speechmatics/",
-      "type": "profile",
-      "name": "Speechmatics",
-      "overview": "With the voice revolution here, Speechmatics has used its decades of machine learning and research expertise to develop Automatic Speech Recognition (ASR), available in private or public clouds and securely on-premises. The technology can be used for real-time or pre-recorded audio and video files, pushing the boundaries of speech recognition innovation and supporting an industry-leading number of languages and dialects.",
-      "website": "https://www.speechmatics.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/speechmatics/",
-        "followers": 2744
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/speechmatics"
-      },
-      "twitter": {
-        "username": "Speechmatics",
-        "url": "https://twitter.com/Speechmatics",
-        "followers": 1289
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2009,
-      "locations": [
-        "Cambridge"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "heat": 50,
-      "tags": [
-        "Speech Recognition"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/866594840552906757/zF08GXqA_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Speechmatics",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/squirrelai.md",
-      "title": "Squirrel AI Learning",
-      "excerpt": "Squirrel AI Learning is the first pure-play AI-powered adaptive education provider in China.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/squirrelai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/squirrelai/",
-      "type": "profile",
-      "name": "Squirrel AI Learning",
-      "overview": "Squirrel AI Learning is the first pure-play AI-powered adaptive education provider in China.",
-      "website": "https://www.squirrelai.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/yixue-squirrel-ai"
-      },
-      "twitter": {
-        "username": "SquirrelAI_Edu",
-        "url": "https://twitter.com/SquirrelAI_Edu",
-        "followers": 463
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Shanghai"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1259155145327288320/aN-PCWqc_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Squirrel AI Learning",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/suki.ai.md",
-      "title": "Suki",
-      "excerpt": "Suki is an AI-powered, voice-enabled digital assistant for doctors that lifts the burden of documentation, enabling them to focus on what they love: treating patients.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/suki.ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/suki.ai/",
-      "type": "profile",
-      "name": "Suki",
-      "overview": "Suki is an AI-powered, voice-enabled digital assistant for doctors that lifts the burden of documentation, enabling them to focus on what they love: treating patients.",
-      "website": "https://www.suki.ai/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/SukiHQ",
-        "followers": 14481
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/sukihq"
-      },
-      "twitter": {
-        "username": "SukiHQ",
-        "url": "https://www.twitter.com/SukiHQ",
-        "followers": 1573
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2017,
-      "locations": [
-        "Redwood City, CA",
-        "Redwood City, California"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "Natural Language Processing",
-        "Machine Learning"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1156698809189064704/HbbjesAp_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Suki",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEYEMprol7fTg/company-logo_200_200/0?e=1594857600&v=beta&t=St3LAmADtAtLsdNouB8i67hlQjMwgQpRr-W1yUnDa4I",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
         }
       ],
       "content": "\r\n"

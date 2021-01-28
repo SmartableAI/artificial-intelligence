@@ -4,6 +4,266 @@
   "page": 6,
   "value": [
     {
+      "path": "_companies/aicure.md",
+      "title": "AiCure",
+      "excerpt": "AiCure is an AI and advanced data analytics company targeting the healthcare industry. Our proprietary intelligent software captures and understands video, audio, and behavioral data to establish the link between patients, disease and treatment.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/aicure/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/aicure/",
+      "type": "profile",
+      "name": "AiCure",
+      "overview": "AiCure is an AI and advanced data analytics company targeting the healthcare industry. Our proprietary intelligent software captures and understands video, audio, and behavioral data to establish the link between patients, disease and treatment.",
+      "website": "https://aicure.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/aicure",
+        "followers": 3195
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/ai-cure"
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2009,
+      "locations": [
+        "New York, NY",
+        "New York, NY"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=xBpvK_VxiXM"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/943513551695728640/wB-95_tX_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "AiCure",
+          "isCached": false
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQG1Uptq0TE__Q/company-logo_200_200/0?e=1594857600&v=beta&t=sumAmqV0-7zYBu108UOZcon224TCMDXXgvGBoHkDCZ8",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/airbud.io.md",
+      "title": "Airbud Technologies",
+      "excerpt": "Airbud is a voice platform that allows enterprises to easily add voice capabilities to their websites and mobile apps. We use natural language understanding to let people have two-way conversations that simplify their access to information. Starting with healthcare, we enable organizations to customize navigation and better engage their customers.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/airbud.io/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/airbud.io/",
+      "type": "profile",
+      "name": "Airbud Technologies",
+      "overview": "Airbud is a voice platform that allows enterprises to easily add voice capabilities to their websites and mobile apps. We use natural language understanding to let people have two-way conversations that simplify their access to information. Starting with healthcare, we enable organizations to customize navigation and better engage their customers.",
+      "website": "http://airbud.io/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/airbud-technologies/",
+        "followers": 728
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/airbud-technologies-inc"
+      },
+      "size": "2-10 employees",
+      "yearFounded": 2018,
+      "locations": [
+        "New York, NY",
+        "New York"
+      ],
+      "funding": {
+        "status": "Seed"
+      },
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "heat": 50,
+      "tags": [
+        "Speech Recognition",
+        "Natural Language Generation"
+      ],
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQGQdbr_zkjBrQ/company-logo_200_200/0?e=1594857600&v=beta&t=gdlt9WD_SDGSwtntJIJgRhw2cclxV1uht-4-Vk17Rwk",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/aivahealth.md",
+      "title": "Aiva Health",
+      "excerpt": "We strive to make every search interaction meaningful & rewarding with developer-friendly, enterprise-grade APIs. Need help? Reach us at support@algolia.com.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/aivahealth/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/aivahealth/",
+      "type": "profile",
+      "name": "Aiva Health",
+      "overview": "We strive to make every search interaction meaningful & rewarding with developer-friendly, enterprise-grade APIs. Need help? Reach us at support@algolia.com.",
+      "website": "https://aivahealth.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/aiva-health/",
+        "followers": 325
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/aiva-health"
+      },
+      "twitter": {
+        "username": "aiva_health",
+        "url": "https://twitter.com/aiva_health",
+        "followers": 77
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2016,
+      "locations": [
+        "Los Angeles, CA",
+        "Los Angeles, California"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=WrteXpQ5n7Q"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1045184013072121856/k9eIX6oV_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Aiva Health",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQFjr6O7zkurrg/company-logo_200_200/0?e=1594857600&v=beta&t=wm6cxtNr6U--ltfpzs1hf4mMDOemV61jxVvMsNhJBxM",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/alegion.md",
+      "title": "Alegion",
+      "excerpt": "Alegion has the most powerful and flexible annotation platform for training data in market. It accelerates model development for the most sophisticated and subjective use cases. It uses integrated ML and has unique capabilities like conditional logic, iterative tasks, multi-stage and workflows, that are essential for high quality at scale.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/alegion/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/alegion/",
+      "type": "profile",
+      "name": "Alegion",
+      "overview": "Alegion has the most powerful and flexible annotation platform for training data in market. It accelerates model development for the most sophisticated and subjective use cases. It uses integrated ML and has unique capabilities like conditional logic, iterative tasks, multi-stage and workflows, that are essential for high quality at scale.",
+      "website": "https://www.alegion.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/alegion",
+        "followers": 1758
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/alegion"
+      },
+      "twitter": {
+        "username": "Alegion",
+        "url": "https://twitter.com/Alegion",
+        "followers": 1751
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2012,
+      "locations": [
+        "Austin, TX",
+        "Austin, Texas"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/834024692893773826/oJX5Bb_e_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Alegion",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEQpTGVwbtTVg/company-logo_200_200/0?e=1594857600&v=beta&t=HFlOkdia1A8rohJI2SYTs43IIgNfx3ANFlM8bjD-dSE",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/apex.ai.md",
+      "title": "Apex.ai",
+      "excerpt": "We are building an operating system for autonomous vehicles that never fails",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/apex.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/apex.ai/",
+      "type": "profile",
+      "name": "Apex.ai",
+      "overview": "We are building an operating system for autonomous vehicles that never fails",
+      "website": "https://www.apex.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/apex-ai/",
+        "followers": 1309
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/apex-ai"
+      },
+      "size": "11-50 employees",
+      "yearFounded": 0,
+      "locations": [
+        "Palo Alto, CA",
+        "Palo Alto, California"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=lhnJR9EUJHc"
+        }
+      ],
+      "heat": 50,
+      "tags": [
+        "Autonomous Vehicles"
+      ],
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQED_2JvG2BlSA/company-logo_200_200/0?e=1594857600&v=beta&t=Nw5IClrR4dOqahJDlGdRH-S06USx3An8AQzBtnp0KFg",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/artiq.eu.md",
       "title": "ArtiQ",
       "excerpt": "ArtiQ is a young, dynamic and innovative spin-off company of the University of Leuven (Belgium). Company is founded in early 2019 by four committed founders with a long history in respiratory medicine, medical devices and artificial intelligence. Working on a junction of multidisciplinary fields, founders identified opportunity and value that novel technologies could bring to all parties in a respiratory setting: patients, doctors, healthcare system and industry.",
@@ -129,6 +389,44 @@
           "height": 400,
           "title": "logo",
           "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/aviso.md",
+      "title": "Aviso",
+      "excerpt": "Aviso is the AI Compass that guides Sales and Go-to-Market teams to close more deals, accelerate growth, and find their revenue True North",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/aviso/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/aviso/",
+      "type": "profile",
+      "name": "Aviso",
+      "overview": "Aviso is the AI Compass that guides Sales and Go-to-Market teams to close more deals, accelerate growth, and find their revenue True North",
+      "website": "https://www.aviso.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/aviso-inc"
+      },
+      "twitter": {
+        "username": "AvisoInc",
+        "url": "https://twitter.com/AvisoInc",
+        "followers": 862
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Redwood City, CA"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1148659795735371776/pV8lUeX3_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Aviso",
+          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -604,44 +902,6 @@
           "height": 400,
           "title": "logo",
           "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/chorus.ai.md",
-      "title": "Chorus.ai",
-      "excerpt": "Chorus.ai is an AI conversation intelligence cloud platform for sales team that can transform conversations into data and insights.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/chorus.ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/chorus.ai/",
-      "type": "profile",
-      "name": "Chorus.ai",
-      "overview": "Chorus.ai is an AI conversation intelligence cloud platform for sales team that can transform conversations into data and insights.",
-      "website": "https://www.chorus.ai/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/chorus-ai"
-      },
-      "twitter": {
-        "username": "chorus_ai",
-        "url": "https://twitter.com/chorus_ai",
-        "followers": 6772
-      },
-      "yearFounded": 0,
-      "locations": [
-        "San Francisco and Tel Aviv"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1275421448807624704/YLghymIH_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Chorus.ai",
-          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -1248,238 +1508,6 @@
       "images": [
         {
           "url": "https://media-exp1.licdn.com/dms/image/C560BAQHu9yjeG42QzQ/company-logo_200_200/0?e=1594857600&v=beta&t=0jm63TMeGeTyK_DYbh9K6Yb_ROFncAOJ4OC5vwHfCMY",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/diligentrobots.md",
-      "title": "Diligent Robotics",
-      "excerpt": "We are a human-centered robotics company. Our mission is to make technical advances towards robots and humans working together side by side, with an emphasis on human-centric design. Diligent Robotics is developing a suite of artificial intelligence that enables robots to collaborate with and adapt to humans in everyday environments.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/diligentrobots/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/diligentrobots/",
-      "type": "profile",
-      "name": "Diligent Robotics",
-      "overview": "We are a human-centered robotics company. Our mission is to make technical advances towards robots and humans working together side by side, with an emphasis on human-centric design. Diligent Robotics is developing a suite of artificial intelligence that enables robots to collaborate with and adapt to humans in everyday environments.",
-      "website": "http://diligentrobots.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/diligent-robotics/",
-        "followers": 975
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/diligent-robotics"
-      },
-      "twitter": {
-        "username": "DiligentRobots",
-        "url": "https://twitter.com/DiligentRobots",
-        "followers": 740
-      },
-      "size": "2-10 employees",
-      "yearFounded": 0,
-      "locations": [
-        "Austin, TX",
-        "Austin, Texas"
-      ],
-      "funding": {
-        "status": "Seed"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=vniKNpy5SFs"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1301980739710390272/NBgvcoeG_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Diligent Robotics",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQGTWyHAHJM5tA/company-logo_200_200/0?e=1594857600&v=beta&t=CXGkczmGKv3dTT23-w5QK9hKC4r45P-WAfXQnEx8GO4",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/eigentech.md",
-      "title": "Eigen Technologies",
-      "excerpt": "",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/eigentech/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/eigentech/",
-      "type": "profile",
-      "name": "Eigen Technologies",
-      "overview": "",
-      "website": "https://www.eigentech.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/eigen-technologies"
-      },
-      "yearFounded": 0,
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=kSe7NAV0UOo"
-        }
-      ],
-      "heat": 50,
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/ekar.ae.md",
-      "title": "Ekar",
-      "excerpt": "ekar is a market defining start up company in the UAE. Through the use of a smartphone app and installed technology in rental cars, users are able to seamlessly search, book and unlock our cars safely and securely for personal driving use.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/ekar.ae/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/ekar.ae/",
-      "type": "profile",
-      "name": "Ekar",
-      "overview": "ekar is a market defining start up company in the UAE. Through the use of a smartphone app and installed technology in rental cars, users are able to seamlessly search, book and unlock our cars safely and securely for personal driving use.",
-      "website": "https://ekar.ae/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/ekar/",
-        "followers": 6324
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/ekar"
-      },
-      "twitter": {
-        "username": "MyEKar",
-        "url": "https://twitter.com/MyEKar",
-        "followers": 754
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2015,
-      "locations": [
-        "Dubai, Dubai"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ],
-      "heat": 50,
-      "tags": [
-        "Autonomous Vehicles"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1147039057060515840/rYnzOJXT_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Ekar",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/embodied.me.md",
-      "title": "Embodied",
-      "excerpt": "Paolo Pirjanian the former CTO of iRobot and founder &amp; CEO of Evolution Robotics (acquired by iRobot) founded Embodied with a mission to create the next big thing in robotics.  Embodied draws on more than 15 years of robotics commercialization experience, combined with our team's expertise in computational neuroscience, psychology, and storytelling and leverages the confluence of technologies including machine vision, speech, and machine learning to create robots that will revolutionize care and wellness for humans.  We are hiring!  See our web site and join us in creating robots that improve human wellness and quality of life.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/embodied.me/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/embodied.me/",
-      "type": "profile",
-      "name": "Embodied",
-      "otherNames": [
-        "Embodied, Inc."
-      ],
-      "overview": "Paolo Pirjanian the former CTO of iRobot and founder &amp; CEO of Evolution Robotics (acquired by iRobot) founded Embodied with a mission to create the next big thing in robotics.  Embodied draws on more than 15 years of robotics commercialization experience, combined with our team's expertise in computational neuroscience, psychology, and storytelling and leverages the confluence of technologies including machine vision, speech, and machine learning to create robots that will revolutionize care and wellness for humans.  We are hiring!  See our web site and join us in creating robots that improve human wellness and quality of life.",
-      "website": "http://www.embodied.me/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/embodied-inc./",
-        "followers": 2827
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/embodied-inc"
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2016,
-      "locations": [
-        "Pasadena, CA"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=TOj9VNZqki8"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQF2x1uqjVFKGA/company-logo_200_200/0?e=1594857600&v=beta&t=7avpbYKmEG7uCjYS0_jdqWd7-HmfSyM1SoyqaYQW9o0",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/eyediagnosis.net.md",
-      "title": "IDx",
-      "excerpt": "IDx is a leading AI diagnostics company on a mission to transform the quality, accessibility, and affordability of healthcare. Founded in 2010 by a team of world-renowned clinician scientists, the company is focused on developing clinically-aligned autonomous algorithms that detect disease in medical images. By enabling diagnostic assessment in primary care settings, IDx aims to increase patient access to high-quality, affordable disease detection.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/eyediagnosis.net/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/eyediagnosis.net/",
-      "type": "profile",
-      "name": "IDx",
-      "overview": "IDx is a leading AI diagnostics company on a mission to transform the quality, accessibility, and affordability of healthcare. Founded in 2010 by a team of world-renowned clinician scientists, the company is focused on developing clinically-aligned autonomous algorithms that detect disease in medical images. By enabling diagnostic assessment in primary care settings, IDx aims to increase patient access to high-quality, affordable disease detection.",
-      "website": "https://www.eyediagnosis.net/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/idxtechnologiesinc",
-        "followers": 1172
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/idx-2"
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2010,
-      "locations": [
-        "Coralville, Iowa"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=jmGvEYv3I2E"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQE8hiaDfXNeSg/company-logo_200_200/0?e=1594857600&v=beta&t=bM7iA8YTbzNxDDcP4_h3jtQNJbMwGVJNPz_ehNa7PBo",
           "width": 400,
           "height": 400,
           "title": "logo",

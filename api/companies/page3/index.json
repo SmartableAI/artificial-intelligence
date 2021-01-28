@@ -4,124 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_companies/amprobotics.md",
-      "title": "AMP Robotics",
-      "excerpt": "AMP Robotics™ is an industrial artificial intelligence and robotics company that is changing the economics of material recovery and recycling.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/amprobotics/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/amprobotics/",
-      "type": "profile",
-      "name": "AMP Robotics",
-      "overview": "AMP Robotics™ is an industrial artificial intelligence and robotics company that is changing the economics of material recovery and recycling.",
-      "website": "http://amprobotics.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/amp-robotics/",
-        "followers": 1365
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/amp-robotics"
-      },
-      "twitter": {
-        "username": "amprobotics",
-        "url": "https://twitter.com/amprobotics",
-        "followers": 1138
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2015,
-      "locations": [
-        "Louisville, CO",
-        "Louisville, Colorado"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=C1PEsXWl-ZM"
-        }
-      ],
-      "heat": 87,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/647436657956818944/Qx6rgmxe_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "AMP Robotics",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQGye8dvPM0w9Q/company-logo_200_200/0?e=1594857600&v=beta&t=oZAUxvov98uZrmPofdLj-5JIc6xvI2slfqfJODVBpCg",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/insilicomedicine.md",
-      "title": "Insilico Medicine",
-      "excerpt": "Insilico Medicine, Inc is an artificial intelligence company headquartered in Rockville, with R&amp;D and management resources in Belgium, Russia, UK, Taiwan, and Korea sourced through hackathons and competitions. The company and its scientists are dedicated to extending human productive longevity and transforming every step of the drug discovery and drug development process through excellence in biomarker discovery, drug development, digital medicine, and aging research.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/insilicomedicine/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/insilicomedicine/",
-      "type": "profile",
-      "name": "Insilico Medicine",
-      "overview": "Insilico Medicine, Inc is an artificial intelligence company headquartered in Rockville, with R&amp;D and management resources in Belgium, Russia, UK, Taiwan, and Korea sourced through hackathons and competitions. The company and its scientists are dedicated to extending human productive longevity and transforming every step of the drug discovery and drug development process through excellence in biomarker discovery, drug development, digital medicine, and aging research.",
-      "website": "http://insilicomedicine.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/in-silico-medicine-inc",
-        "followers": 3413
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/insilico-medicine"
-      },
-      "twitter": {
-        "username": "InsilicoMeds",
-        "url": "https://twitter.com/InsilicoMeds",
-        "followers": 3456
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2014,
-      "locations": [
-        "Hong Kong, China",
-        "Hong Kong , Hong Kong"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=EUr-rkXsBUs"
-        }
-      ],
-      "heat": 87,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1013451500503339014/znBZzv85_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Insilico Medicine",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQHt6iNIXOSiWw/company-logo_200_200/0?e=1594857600&v=beta&t=LVcUsJmOvWzCqdeTs0Xqr38nsjOMzZYCq0MF54RImgA",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/labgeni.us.md",
       "title": "LabGenius",
       "excerpt": "LabGenius is the first biopharmaceutical company developing next generation protein therapeutics using a machine learning-driven evolution engine (EVA™).",
@@ -141,7 +23,7 @@
       "twitter": {
         "username": "labgeni_us",
         "url": "https://twitter.com/labgeni_us",
-        "followers": 2274
+        "followers": 2275
       },
       "size": "11-50 employees",
       "yearFounded": 2012,
@@ -253,7 +135,7 @@
       "twitter": {
         "username": "_FiveAI",
         "url": "https://twitter.com/_FiveAI",
-        "followers": 3637
+        "followers": 3638
       },
       "size": "51-200 employees",
       "yearFounded": 2015,
@@ -307,7 +189,7 @@
       "twitter": {
         "username": "SignalHQ",
         "url": "https://twitter.com/SignalHQ",
-        "followers": 2514
+        "followers": 2513
       },
       "size": "51-200 employees",
       "yearFounded": 2013,
@@ -340,6 +222,44 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/tanium.md",
+      "title": "Tanium",
+      "excerpt": "Tanium is a security and systems management platform allowing real-time data collection at an enterprise scale.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/tanium/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/tanium/",
+      "type": "profile",
+      "name": "Tanium",
+      "overview": "Tanium is a security and systems management platform allowing real-time data collection at an enterprise scale.",
+      "website": "https://www.tanium.com",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/tanium"
+      },
+      "twitter": {
+        "username": "Tanium",
+        "url": "https://twitter.com/Tanium",
+        "followers": 6194
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Emeryville, CA"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ],
+      "heat": 82,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1218160793985994752/-QgLVWsS_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Tanium",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/viz.ai.md",
       "title": "Viz",
       "excerpt": "Viz.ai, Inc is emerging as the leader in applied artificial intelligence in healthcare. Our mission is to fundamentally improve how healthcare is delivered in the world, through intelligent software that promises to reduce time to treatment and improve access to care.",
@@ -362,7 +282,7 @@
       "twitter": {
         "username": "viz_ai",
         "url": "https://twitter.com/viz_ai",
-        "followers": 1520
+        "followers": 1522
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -401,38 +321,38 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/vectra.ai.md",
-      "title": "Vectra",
-      "excerpt": "Vectra is a cybersecurity platform that uses AI to detect attackers in real-time and perform conclusive incident investigations.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/vectra.ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/vectra.ai/",
+      "path": "_companies/6sense.md",
+      "title": "6sense",
+      "excerpt": "6sense features unified account engagement platform unifies revenue teams with account-level insights to achieve predictable revenue growth.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/6sense/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/6sense/",
       "type": "profile",
-      "name": "Vectra",
-      "overview": "Vectra is a cybersecurity platform that uses AI to detect attackers in real-time and perform conclusive incident investigations.",
-      "website": "https://vectra.ai",
+      "name": "6sense",
+      "overview": "6sense features unified account engagement platform unifies revenue teams with account-level insights to achieve predictable revenue growth.",
+      "website": "https://www.6sense.com/",
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/vectra-networks"
+        "url": "https://www.crunchbase.com/organization/6sense"
       },
       "twitter": {
-        "username": "Vectra_AI",
-        "url": "https://twitter.com/Vectra_AI",
-        "followers": 2505
+        "username": "6senseInc",
+        "url": "https://twitter.com/6senseInc",
+        "followers": 18928
       },
       "yearFounded": 0,
       "locations": [
-        "San Jose, CA"
+        "San Francisco"
       ],
       "topics": [
         "AI",
-        "AI in Security"
+        "AI in Marketing"
       ],
-      "heat": 78,
+      "heat": 77,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1314631586483064832/dmGlciU6_400x400.png",
+          "url": "https://pbs.twimg.com/profile_images/1280217113278517248/cvplgUVY_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Vectra",
+          "title": "6sense",
           "isCached": true
         }
       ],
@@ -564,7 +484,7 @@
       "twitter": {
         "username": "benevolent_ai",
         "url": "https://twitter.com/benevolent_ai",
-        "followers": 6510
+        "followers": 6514
       },
       "size": "51-200 employees",
       "yearFounded": 2013,
@@ -737,7 +657,7 @@
       "twitter": {
         "username": "Prophesee_ai",
         "url": "https://twitter.com/Prophesee_ai",
-        "followers": 954
+        "followers": 953
       },
       "size": "51-200 employees",
       "yearFounded": 2014,
@@ -795,7 +715,7 @@
       "twitter": {
         "username": "SentinelOne",
         "url": "https://twitter.com/SentinelOne",
-        "followers": 10533
+        "followers": 10536
       },
       "size": "201-500 employees",
       "yearFounded": 2013,
@@ -980,38 +900,38 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/tubularlabs.md",
-      "title": "Tubular Labs",
-      "excerpt": "Tubular Labs is the global leader in video intelligence for the cross-platform world.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/tubularlabs/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/tubularlabs/",
+      "path": "_companies/activecampaign.md",
+      "title": "ActiveCampaign",
+      "excerpt": "ActiveCampaign is the Customer Experience Automation (CXA) category leader.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/activecampaign/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/activecampaign/",
       "type": "profile",
-      "name": "Tubular Labs",
-      "overview": "Tubular Labs is the global leader in video intelligence for the cross-platform world.",
-      "website": "https://www.reflektion.com/",
+      "name": "ActiveCampaign",
+      "overview": "ActiveCampaign is the Customer Experience Automation (CXA) category leader.",
+      "website": "https://www.activecampaign.com/",
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/tubular-labs"
+        "url": "https://www.crunchbase.com/organization/activecampaign"
       },
       "twitter": {
-        "username": "TubularLabs",
-        "url": "https://twitter.com/TubularLabs",
-        "followers": 3875
+        "username": "ActiveCampaign",
+        "url": "https://twitter.com/ActiveCampaign",
+        "followers": 10872
       },
       "yearFounded": 0,
       "locations": [
-        "Mountain View, CA"
+        "Chicago, IL"
       ],
       "topics": [
         "AI",
         "AI in Marketing"
       ],
-      "heat": 72,
+      "heat": 71,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1233451560840990720/YnqpuohP_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1148237111012843521/qZNppe_4_400x400.png",
           "width": 400,
           "height": 400,
-          "title": "Tubular Labs",
+          "title": "ActiveCampaign",
           "isCached": true
         }
       ],
@@ -1139,7 +1059,7 @@
       "twitter": {
         "username": "healx",
         "url": "https://twitter.com/healx",
-        "followers": 2159
+        "followers": 2158
       },
       "size": "11-50 employees",
       "yearFounded": 2014,
@@ -1228,6 +1148,44 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/knewton.md",
+      "title": "Knewton",
+      "excerpt": "Knewton is an adaptive learning technology provider with a mission to bring personalized education to the world.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/knewton/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/knewton/",
+      "type": "profile",
+      "name": "Knewton",
+      "overview": "Knewton is an adaptive learning technology provider with a mission to bring personalized education to the world.",
+      "website": "https://www.knewton.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/knewton"
+      },
+      "twitter": {
+        "username": "Knewton",
+        "url": "https://twitter.com/Knewton",
+        "followers": 14640
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Hoboken, NJ"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ],
+      "heat": 71,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1224388356089491457/7ucoRe_G_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Knewton",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/lexmachina.md",
       "title": "Lex Machina",
       "excerpt": "Lex Machina provides lawyers with facts on which to base opinions – the core element of good lawyering. Lawyers can now predict the behaviors and outcomes that different legal strategies will produce and craft successful strategies to win cases and close business",
@@ -1247,7 +1205,7 @@
       "twitter": {
         "username": "lexmachina",
         "url": "https://twitter.com/lexmachina",
-        "followers": 5353
+        "followers": 5354
       },
       "size": "51-200 employees",
       "yearFounded": 2010,
@@ -1471,7 +1429,7 @@
       "twitter": {
         "username": "qctrlHQ",
         "url": "https://twitter.com/qctrlHQ",
-        "followers": 2644
+        "followers": 2646
       },
       "size": "11-50 employees",
       "yearFounded": 2017,
@@ -1527,7 +1485,7 @@
       "twitter": {
         "username": "sensetime_ai",
         "url": "https://twitter.com/sensetime_ai",
-        "followers": 1324
+        "followers": 1325
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2018,
@@ -1590,7 +1548,7 @@
       "twitter": {
         "username": "sbreurope",
         "url": "https://twitter.com/sbreurope",
-        "followers": 16527
+        "followers": 16526
       },
       "yearFounded": 0,
       "locations": [
