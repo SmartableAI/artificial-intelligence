@@ -48,18 +48,18 @@ related:
         height: 480
         isCached: true
   - title: "Leading HR Technology Company launches AI Ethics Advisory Board"
-    excerpt: "Arena Analytics launched its external AI Ethics Advisory Board - the first human resource technology firm to do so - on January 12, 2021. Arena’s independent Advisory Board brings together human resources leaders and experts from academia,"
-    publishedDateTime: 2021-01-26T19:47:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-technology-issues-media-newspapers-8f759ca11098714fd8442fc812276d4c"
+    excerpt: "Arena Analytics launched its external AI Ethics Advisory Board - the first human resource technology firm to do so - on January 12,"
+    publishedDateTime: 2021-01-26T19:02:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/leading-hr-technology-company-launches-ai-ethics-advisory-board-301215510.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 54
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mma.prnewswire.com/media/1427165/arena_ethics_advisors.jpg?p=facebook"
+        width: 1920
+        height: 1005
         isCached: true
   - title: "Learning with – and about – AI technology | MIT News"
     excerpt: "MIT News. Between distance learning, spending more time at home, and working parents trying to keep their kids occ"

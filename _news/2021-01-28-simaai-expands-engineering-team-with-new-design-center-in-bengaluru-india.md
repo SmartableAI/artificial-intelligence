@@ -6,8 +6,8 @@ publishedDateTime: 2021-01-28T08:47:00Z
 originalUrl: "https://apnews.com/press-release/business-wire/technology-business-software-industry-industrial-products-and-services-electronic-parts-manufacturing-b049694ab8384698b6116f7fa3c410c5"
 webUrl: "https://apnews.com/press-release/business-wire/technology-business-software-industry-industrial-products-and-services-electronic-parts-manufacturing-b049694ab8384698b6116f7fa3c410c5"
 type: article
-quality: 37
-heat: 37
+quality: 35
+heat: 35
 published: false
 
 provider:
@@ -16,7 +16,6 @@ provider:
 
 topics:
   - AI
-  - AI in Robotics
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"
@@ -24,6 +23,6 @@ images:
     height: 450
     isCached: true
 
-secured: "azf/d5boUXnfpsmSSlZvW9CG3fK8M10NXvmsYBVJb6kIqwXu2uQyBPen0jBxX09MNRA15AiSxOaqWS7Lyf9X8WbDSWjQ9ZQbGzMaH9701rp/zsCQfB5dv5TqOGI68sqpfE8n4WpRE/oIIfJgCLgGwu+0t+KpP7wpbRcADOEPgdClyuEcbdhbbUB0qEs2J1NmuZlXTRnffJer8OFwRYoVwpcTEX65DIrFti6P5zqYWo8cfPbIJEp3872QlFR69ALa4WkJnlwAE5BEKcUX7lHUB7dwLG20ynljsoHPus2bHizjden1ps2kvW6xnTYPgTiBCl4Wq+vDDpBkBLVLvRJkYXo1BYy4HhmHHqzTwkZOEvA=;a4MiSSfbpFzUSZMyzFjF+A=="
+secured: "sqO627ZK9x7k2ATVXBf8ecQXhNuVdKJG19nQJzig3L6ThL8dTZQPydIiBs1CoJB8VEiBsNZzGsAPktQccBChxkqP5kEobcUEKvOg4THJ11ic2xy5JiETJOyxGsdkgIULjDc9cUUuoAad3+BfY1RPC5CpjEmDSy7gx46uxlOk0M7huZDPY9el5MiO8XCjL1NeTPZdpa+fXKaagwxUq9edRvcKcjWjCOfvumgwTD43yApV8m8gfyYmhDdc7Zrh2yKL4WyHuoqOd18gSZ2oBFjzC+D737uisWm/JHQKfxnimOllCspR9dq7cFtBNC3SikQ0N6h+lu1JBFfxybzoaZWdwH4G2Vzqkc9NV9gvUkPAaqg=;9LhvKqO+WaTyjqRqMw3k1Q=="
 ---
 

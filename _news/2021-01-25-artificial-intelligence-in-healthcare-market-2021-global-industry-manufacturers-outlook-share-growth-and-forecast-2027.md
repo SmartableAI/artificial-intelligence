@@ -113,6 +113,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Market 2021-2026 to Post a CAGR of %, Segmentation by Key Regions, Gross Margin, Profit, Analysis, Market Size & Growth"
+    excerpt: "The research study on the Artificial Intelligence market comprises a detailed analysis of this business space and the remuneration that it is estimated to accrue by the end of the projected duration."
+    publishedDateTime: 2021-01-28T10:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2021-2026-to-post-a-cagr-of-segmentation-by-key-regions-gross-margin-profit-analysis-market-size-growth-2021-01-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Far Field Speech Voice Recognition Market Size, Industry Trends, Leading Players, Share and Forecast 2019-2025"
     excerpt: "The global far field voice and speech recognition market size is expected to grow at a CAGR of 24 56 during the forecast period Long distance speech recognition is an essential technology for voice interaction and aims to enable smart"
     publishedDateTime: 2021-01-25T12:54:00Z

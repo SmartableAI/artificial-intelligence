@@ -1,29 +1,25 @@
 ---
 category: news
 title: "Pinecone leaves stealth with $10M, launches first serverless vector database for machine learning"
-excerpt: "PineconeSystems Inc., a machine learning (ML) cloud infrastructure company, left stealth today with $10m in seed funding. The investment was led by Wing Venture Capital, and Wing's Founding Partner, Peter Wagner,"
-publishedDateTime: 2021-01-27T15:09:00Z
-originalUrl: "https://www.lelezard.com/en/news-19620012.html"
-webUrl: "https://www.lelezard.com/en/news-19620012.html"
+excerpt: "PineconeSystems Inc., a machine learning (ML) cloud infrastructure company, left stealth today with $10m in seed funding."
+publishedDateTime: 2021-01-27T15:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/01/n19345715/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning"
+webUrl: "https://www.benzinga.com/pressreleases/21/01/n19345715/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning"
+ampWebUrl: "https://amp.benzinga.com/amp/content/19345715"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19345715"
 type: article
 quality: 28
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - AI in Finance
+  - AWS AI
   - AI
   - Machine Learning
-
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
-    isCached: true
 
 related:
   - title: "Pinecone lands $10M seed for purpose-built machine learning database"
@@ -44,15 +40,15 @@ related:
         isCached: true
   - title: "Pinecone, a serverless vector database for machine learning, leaves stealth with $10M funding"
     excerpt: "Machine learning applications understand the world through vectors. Pinecone, a specialized cloud database for vectors, has secured significant investment from the people who brought Snowflake to the world."
-    publishedDateTime: 2021-01-27T07:00:00Z
-    webUrl: "https://www.zdnet.com/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/"
+    publishedDateTime: 2021-01-27T15:06:00Z
+    webUrl: "https://www.zdnet.com/index.php/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/"
+    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 78
+    quality: 80
     images:
       - url: "https://zdnet4.cbsistatic.com/hub/i/2021/01/27/433da3ee-bf33-491e-b03e-51e2184e3670/pinecone-illustration.jpg"
         width: 426
@@ -72,6 +68,20 @@ related:
         width: 985
         height: 545
         isCached: true
+  - title: "Pinecone Raises $10M in Funding"
+    excerpt: "PineconeSystems Inc., a Sunnyvale, California, New York and Tel Aviv, Israel-based machine learning (ML) cloud infrastructure company, raised $10m in seed funding"
+    publishedDateTime: 2021-01-28T09:36:00Z
+    webUrl: "https://www.finsmes.com/2021/01/pinecone-raises-10m-in-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 39
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2018/07/espressive-400x293.jpg"
+        width: 400
+        height: 293
+        isCached: true
   - title: "Pinecone leaves stealth with $10M, launches first serverless vector database for machine learning"
     excerpt: "PineconeSystems Inc., a machine learning (ML) cloud infrastructure company, left stealth today with $10m in seed funding. The investment"
     publishedDateTime: 2021-01-27T20:00:00Z
@@ -87,6 +97,6 @@ related:
         height: 315
         isCached: true
 
-secured: "TB9raloAVRJJRQiMZhSqrkBT4Q4vKDBly8YP81eAgTGMt0lQ1r9bSwwdZY+d1ydzFKIbD/hm4Fugie9du3OKJTUxeEMafAfRTKB4GQD6YD6J6t1MdYZifugtBK5ygpzBireBRDsKTVIhjT8/SQaMojxLJC3Ia4uEe+VDQZGzXWnlbCt81oL7RmCaBFsnxCuqlgohKzkYwwxC7OZCMG2By1FqyTnqm3h8oGgx06T3AuAO+Y2wmR+doi61dulx2R2MBkGM/JL2BWo6Y0NcB+uXPHhpSK6XqX1BbruAx7CjjjpRrcoarG8ffGBEhP9mNlBcUfdteobprrADVqG1x1rs/j7rsn6fP7GOQzakJemqjrY=;ELMMB3KArCCse4ttw5v0EA=="
+secured: "grQHRQ6QXcpb70zXXTMbm7WLNnVFXjPJK/opuo6V2BEDYiN9dopNplKRm8Pw4qzH1BVtcQhyuuTrN1xjVFseQCWAgJ3Z0lQemwOhadW1xAvejlRyFt3QhgZ9MkvOdZYxVlCCLi2hymbCJ8uDFvMjIsKMs4t4Ts2qPGJj0jKQbNm93/zqIIDePaLMb7hbRZUvybB3auzGYrZsxeR2Z1eKHCDZMW5zy4+JkiBwgNMikBtCn9IZJhtDcXKinVQcfOfcU099vu4QRpO0nFI+1NmC/mmllSQrjNOrkch4ZTfxNZJ1x7dQk40CkZ6elK27bVe6r8AQl0TyI2ZAmZFJfLWndyWzWTmvsNVbaUh68BYsuTc=;MUWVa6YJ0B9BQGwE34dJLQ=="
 ---
 

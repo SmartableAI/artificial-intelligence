@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/25/jetplays-ludo-ai-platform-acceler
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/25/jetplays-ludo-ai-platform-accelerates-game-concept-creation/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "New AI System Accelerates Speech Therapy"
-    excerpt: "TikTalk, a new, artificial intelligence-based (AI) system can accelerate speech therapy with unparalleled lesson customization and innovative training for K-6-aged children using highly engaging video games to encourage more frequent home practice."
-    publishedDateTime: 2021-01-23T18:33:00Z
-    webUrl: "https://www.unite.ai/new-ai-system-accelerates-speech-therapy/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 56
-    images:
-      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.f8AX~1c8f3/w:945/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2021/01/speech3.jpg"
-        width: 945
-        height: 600
-        isCached: true
   - title: "Accern no-code AI platform comes to AWS Marketplace"
     excerpt: "Accern, a leading no-code, artificial intelligence (AI) company today announced that its no-code AI platform will now be available for subscription in AWS Marketplace."
     publishedDateTime: 2021-01-26T05:33:00Z

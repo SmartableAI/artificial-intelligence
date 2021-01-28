@@ -72,6 +72,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "North America AI Chipsets Market Outlook | Development Factors, Latest Opportunities and Forecast 2026"
+    excerpt: "According to the Graphical Research new growth forecast report titled North America AI Chipsets Market Size will"
+    publishedDateTime: 2021-01-28T09:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/north-america-ai-chipsets-market-outlook-development-factors-latest-opportunities-and-forecast-2026-2021-01-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Automotive Market Likely to Emerge by 2026| Industry Insights, COVID-19 Impact, Analysis, Opportunities"
     excerpt: "Jan (Market Insight Reports) -- Selbyville, Delaware, MarketStudyReport.com offers report on Global Artificial Intelligence (AI) in"
     publishedDateTime: 2021-01-25T19:47:00Z
@@ -136,6 +150,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Machine Learning Market Report 2020: Industry Analysis, Trends, Market Size, and Forecasts 2018-2026 - ResearchAndMarkets.com"
+    excerpt: "Global Industry Analysis, Trends, Market Size, and Forecasts up to 2026\" report has been added to ResearchAndMarkets.com's offering. The report on the global machine learning market provides qualitative and quantitative analysis for the period from 2018 to 2026."
+    publishedDateTime: 2021-01-28T04:32:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210128005516/global-machine-learning-market-report-2020-industry-analysis-trends-market-size-and-forecasts-2018-2026-researchandmarketscom"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 0
 
 secured: "Y/bWg/19/hlV0Uu9+gJFvCuL+anqx4oHhkYLsQaQ6q2XXS7YEkNMgyc2u9vpb1I5AAMS3R5ty9QT066QFtkfbru9BrQHv289aHXR15C9yZdLZRnTkDrQABuhnf5Iz3QJcuCqwmGluJOvqYQ5RCk2/y/AvH9NMz0kwHkzoUM7deqdOLLWmHOz1Q8SsHxua5CGDHjJdrZwHP/+Qjyx4WG+JqnmcaMWlmNxXBMeX11inq2rbxmDoT3mALAxEAQv50E8Nfy8U8l86ZT3BPlDD9NoURYp+B6AzHVNXMbaSqltx+j1cqFEbyHn8Yvtn0BHI8C/GHP8IgelyrYRl5D4+OXfwGOMoQ6aNJOouMKvEneA3q4=;oWKSBcCJ2Y1lq2KAA0DyEA=="
 ---

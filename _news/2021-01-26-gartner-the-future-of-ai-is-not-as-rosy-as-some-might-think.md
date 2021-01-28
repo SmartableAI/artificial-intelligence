@@ -3,13 +3,13 @@ category: news
 title: "Gartner: The future of AI is not as rosy as some might think"
 excerpt: "A Gartner report predicts that the second-order consequences of widespread AI will have massive societal impacts, to the point of making us unsure if and when we can trust our own eyes."
 publishedDateTime: 2021-01-25T20:00:00Z
-originalUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/gartner-the-future-of-ai-is-not-as-rosy-as-some-might-think/"
-webUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/gartner-the-future-of-ai-is-not-as-rosy-as-some-might-think/"
-ampWebUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/gartner-the-future-of-ai-is-not-as-rosy-as-some-might-think/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/gartner-the-future-of-ai-is-not-as-rosy-as-some-might-think/"
+originalUrl: "https://www.techrepublic.com/article/gartner-the-future-of-ai-is-not-as-rosy-as-some-might-think/"
+webUrl: "https://www.techrepublic.com/article/gartner-the-future-of-ai-is-not-as-rosy-as-some-might-think/"
+ampWebUrl: "https://www.techrepublic.com/google-amp/article/gartner-the-future-of-ai-is-not-as-rosy-as-some-might-think/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/gartner-the-future-of-ai-is-not-as-rosy-as-some-might-think/"
 type: article
-quality: 87
-heat: 97
+quality: 89
+heat: 99
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
       height: 50
 
 topics:
+  - AI Ethics
   - AI
 
 images:
@@ -45,6 +46,6 @@ related:
         height: 364
         isCached: true
 
-secured: "TTHOAjvcTrIk5F8MC1VCjAtAUc+qjHEOBNyAHg81pji9prSKCc/QRwXr+ssmnHPn2jGmbSJgqeatmNfw0eq8onHpxeqSma+LzJwHB+1KzD0SUhJSunxDoLJdSWnGrs0/bYLoXQk6V1kUvPjpp1PYzwVIuRPr2TQyQ7P0gI7Q7aaErtaBEhr1pn1W0Ja7h5a5WpEorArA7SamFFXtNaoIQ8DRfFbBhIHC/g5QPDYVgayp1OjJ6PHV1cb/Qw0FuyBKnOF4SrNzseAqY99R5hJ5eGBXwm1MrtQSIiiGNItyxLVdjtruNHEXMeZi53oSQtInWqwO4m5X80ZKPj4yReBqRemjKU5sMkHTg7ydqowVh1k=;xKmT9TBnNo0QjKzcdAkyKQ=="
+secured: "BXeajTl3bBgUgwoiuXa9XRn5uq4yJpVmBNp8qL+dnPplFL/SaUXByggRWGNfvOwp/Db84bSnUjqvLBfrGxsALmf9qKPfTTU0Po4PiHBZOC5p4X/QkLK2ESNKOrSKVw7Qh49Vjn5yg4myqRb32Wv9tl7knkUL8m3ha9lc9y5MdLsNYusk5i0tZiEKG5V2Z21AR2a+mNSH772Cbk2ik9UE9BzRNcyQlm5qGac6ml0uCRrHzFhi6nc5Qziz0/3Ygzzrs24kq37sHVvT/JEot9+iYzhNmwpqBS71v2xuHRRmm2VTVrUxQCmH82U1EYBf9VlUEw+0K6hZuF8HcW+Rq5RNSXTQckzkZfbUMJ7jX/Jju6M=;jz4P977pkTq7AcNn/7OTww=="
 ---
 

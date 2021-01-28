@@ -28,6 +28,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Speech and Voice Recognition Market Size, Trends, Comprehensive Research Study, Development Status and Opportunities Forecast to 2026"
+    excerpt: "The overall speech and voice recognition market is expected to grow from USD 6.9 Billion in 2018 to USD 28.3 Billion"
+    publishedDateTime: 2021-01-28T10:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-trends-comprehensive-research-study-development-status-and-opportunities-forecast-to-2026-2021-01-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 23
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+
 secured: "0UWx5EixX7cF4UG9l2RRhVV60+VZkpgkcoDuDrtrrHGPyJZOYF7v4N1DT29bRAX1zmBta6pUWjloKGYgrAIvQsEVrulG2B21AyT1hYULWH6xGac/p2/STGouTzfEv55+wWfnt+Pn3gvoXvLPlXFX/H3FEDHqkBAyfH36le7yGtysH97ynf5bjufCMBIHbqNJyD3CXx5SNfwwsg/GyB8KoemQlNNoiSNDkr6JCCNvTIIE/5Y1yjqdRxX/4yUhMgOUphJ0XjIKzZ0VPiLxw+v+HgRIpjdylsg1GSWWvjCjFgSV9Y8OAopVvlqUUwomMVh92/1jLp+NqdGP/HHV1bLQc3VdBTiBpoyLnd6voYl7iLE=;vfb7tlJlmOdKAtWAEN8D5Q=="
 ---
 
