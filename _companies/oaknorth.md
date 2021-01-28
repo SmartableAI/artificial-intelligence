@@ -31,7 +31,7 @@ tags:
   - FinTech
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1180498962358444032/NivDgFAB_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1354847565154496521/Rb9H_mKK_400x400.jpg"
     width: 400
     height: 400
     isCached: true
