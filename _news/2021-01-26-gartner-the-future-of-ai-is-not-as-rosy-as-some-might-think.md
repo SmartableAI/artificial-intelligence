@@ -39,7 +39,7 @@ related:
     provider:
       name: CIO Dive
       domain: ciodive.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://www.ciodive.com/user_media/cache/9b/17/9b17c5b82cb234ee2ea35948cb74d813.jpg"
         width: 770

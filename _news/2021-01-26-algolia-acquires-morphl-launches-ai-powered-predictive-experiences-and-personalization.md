@@ -60,6 +60,22 @@ related:
         width: 1024
         height: 571
         isCached: true
+  - title: "NRF 2021 - ZineOne takes up our hyper-personalization debate on AI and retail"
+    excerpt: "When you post a scorching critique of hyper-personalization, the last thing you expect to get is a reply - from a personalization vendor. As NRF 2021 winds down, the debate on personalization carries on."
+    publishedDateTime: 2021-01-28T00:27:00Z
+    webUrl: "https://diginomica.com/nrf-2021-zineone-takes-our-hyper-personalization-debate-ai-and-retail"
+    ampWebUrl: "https://diginomica.com/nrf-2021-zineone-takes-our-hyper-personalization-debate-ai-and-retail?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/nrf-2021-zineone-takes-our-hyper-personalization-debate-ai-and-retail?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 54
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2021-01/zineone-ai-personalization.jpg"
+        width: 970
+        height: 662
+        isCached: true
   - title: "TiVo teams with Pindrop for AI-aided, voice-based content discovery"
     excerpt: "TiVo and Pindrop have partnered to deliver a streamlined content discovery experience for consumers, unlocked through voice AI. Pindrop and TiVo will be continuing to collaborate to bring voice authentication technology to TiVo's Conversation Services product so that users have their own personalized experience."
     publishedDateTime: 2021-01-26T15:09:00Z

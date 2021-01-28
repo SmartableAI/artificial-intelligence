@@ -71,6 +71,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Baidu wins green light to test fully driverless cars in California"
+    excerpt: "Baidu is the sixth company to receive a driverless test permit from California, after Waymo, Nuro, Zoox, Cruise, and AutoX -- an Alibaba-backed, Chinese self-driving startup. There are 58 companies that have an active permit to test autonomous vehicles with a safety driver in California,"
+    publishedDateTime: 2021-01-27T22:01:00Z
+    webUrl: "https://asia.nikkei.com/Business/Technology/Baidu-wins-green-light-to-test-fully-driverless-cars-in-California"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 54
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F2%252F2%252F8%252F2%252F32042822-1-eng-GB%252FApollo.jpeg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "California-Based FinTech Provider Empaxis Expands, Announces New India Location"
     excerpt: "Empaxis Data Management, a cloud-based financial technology and middle-and back-office services provider for investment management firms, has announced the opening of a new office in Kolkata (formerly Calcutta),"
     publishedDateTime: 2021-01-26T15:22:00Z

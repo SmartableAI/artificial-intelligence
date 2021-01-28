@@ -71,6 +71,20 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Baidu wins green light to test fully driverless cars in California"
+    excerpt: "Baidu is the sixth company to receive a driverless test permit from California, after Waymo, Nuro, Zoox, Cruise, and AutoX -- an Alibaba-backed, Chinese self-driving startup. There are 58 companies that have an active permit to test autonomous vehicles with a safety driver in California,"
+    publishedDateTime: 2021-01-27T22:01:00Z
+    webUrl: "https://asia.nikkei.com/Business/Technology/Baidu-wins-green-light-to-test-fully-driverless-cars-in-California"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 54
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F2%252F2%252F8%252F2%252F32042822-1-eng-GB%252FApollo.jpeg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "California-Based FinTech Provider Empaxis Expands, Announces New India Location"
     excerpt: "Empaxis Data Management, a cloud-based financial technology and middle-and back-office services provider for investment management firms, has announced the opening of a new office in Kolkata (formerly Calcutta),"
     publishedDateTime: 2021-01-26T15:22:00Z
@@ -86,6 +100,6 @@ related:
         height: 480
         isCached: true
 
-secured: "T8ua2Icx9kvHf/RXiDMoKlWHjbaBtfZA0wEbE4otOQKJ8mxd+OqqJLzZ4bwh3KDGcnfo3xyoYT30xOIbGGU27VsEg2Xf3IOm1E3eLjgJhTaHfkh6lEWTr9e83lc0Ds0XfPQovbXYNvkc8O2zPGE0C1Hni7rmZ/3xbFFVaKQH64vPtsvH6mJSpNK5hmzXPaJzhSZmgw98L5poLY+m2S1zVCbJ5pJ+DjW9XjUzCVP25FkWf3aUy1N2T6xNO9IYwFufBfOBKNsWnAIG+4LlAV8xYozaYVN2Ef+YdjPxvPxVrDmO3jlKZ5AI+gUc3tbQNK3G64JTwybCBHXYZVXNcl1xDiJiFd7eWtv7EvlgGSUwSuw=;sPtQ52kt0L7JaosaU12mPQ=="
+secured: "aKBY+x3OXx/6besW+2Nc1HRPLni22qmfNm1YRoiO3xIw4Z73odedVlY+UYaB4DHFkGXwUMEdrvX29u3IKbchIFENrYKCGTecUsySPIQuNHaO6JaC6fvmn2Yvtt+Uo57Yxn21qRhPvxZjsTYl7nhFEcwlq8YMTVxA8MQh5rri0LCoY6sdB7cfz78Bn9+lGDIl4tjmQRFd46Us/59bNxwlTcqVu/cWuu66oS47Vj1IC3jCULrI9HYQ32U787lYg0BeQPzPrDAhFPxTQO/zGlB9ZrgzBUlAP3bxN9NK9eYCwXem4WFZi55f5VRA147wm3eqGoJQ2ag1a0YC5JwIsNsIKA9DfFcAjxVF5gBEfUTvNLh/kQjqeOnjkUAzyp2v8Vd3WcU1pBHXASphvOTckQATZwJLW30tfQR5rdSBaEt6L+PXMY3QpH44ydmtdsrDWwgUP5tFHFkwchz9aSGk5zX/FDKGoB2hhkpsHQHkZpudKF0OcDpMyjVnlZfwvXBe5BmSQdyaCPNTuMNTNQIQ9iX4Jg==;tQQKxIkYo7qesC3nOjwLaw=="
 ---
 

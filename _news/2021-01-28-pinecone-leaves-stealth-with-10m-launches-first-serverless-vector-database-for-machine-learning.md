@@ -57,14 +57,19 @@ related:
         height: 545
         isCached: true
   - title: "Pinecone leaves stealth with $10M, launches first serverless vector database for machine learning"
-    excerpt: "Pinecone Systems Inc., a machine learning (ML) cloud infrastructure company, left stealth today with $10m in seed funding. The investment was led by Wing Venture Capital, and Wing's Founding Partner,"
-    publishedDateTime: 2021-01-27T09:00:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20210127ln57621/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning"
+    excerpt: "PineconeSystems Inc., a machine learning (ML) cloud infrastructure company, left stealth today with $10m in seed funding. The investment was led by Wing Venture Capital, and Wing's Founding Partner, Peter Wagner,"
+    publishedDateTime: 2021-01-27T15:09:00Z
+    webUrl: "https://www.lelezard.com/en/news-19620012.html"
     type: article
     provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 8
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 28
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "mraBkVGvAvbE5hFBiHMGn6EZMNoPP8lmbjoGnl6TSrcql0fu38KG9hmSRZaGXNa4LQ3v2N1hInLhNgQRyXGHyLtz1X1iOC3p0iO4FhNExPiGtnvJllppV3BjlGeU238DFDcvEhLzD2NpO2/sedFftb8RyWtUcOpiQbicvbof11hiH5Cm1/NHRsuFbEe+zBQtBUbff42jCdKlGnulHvoUHBoqxUmUxRMN1Ptado2lnJvsZdR4h+W8P1oWpZRRuE5YEBHVH6tnaLtaof9DjpXmKfbxmAKKMQdI5I+BVytpQJrnPItwY8LDkwVlOb36e+6M1YxfBRv4UVzyyyS4gq2/+7nu0ngEo0jsYZ6DtuNubN4=;yP8gugfN0c/DpwNGqkAt/A=="
 ---

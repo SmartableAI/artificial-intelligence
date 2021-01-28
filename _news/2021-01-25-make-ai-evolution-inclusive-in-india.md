@@ -38,6 +38,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Google: India And DeepMind AI Breakthrough"
+    excerpt: "Google's DeepMind recently achieved impressive results at the bi-annual CASP competition for determining the 3D structure of a proteins amino sequence."
+    publishedDateTime: 2021-01-25T15:32:00Z
+    webUrl: "https://seekingalpha.com/article/4400774-google-india-and-deepmind-ai-breakthrough"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 34
   - title: "Google vs Australia, Rockets On Oil Rigs, India’s Quantum Labs And More In This Week’s Top News"
     excerpt: "Developing radical new technology is inherently risky, but that doesn’t make breaking this news any easier. Today, I’m sad to share that Loon will be winding down,” wrote Alastair Westgarth, CEO, Loon."
     publishedDateTime: 2021-01-23T12:31:00Z

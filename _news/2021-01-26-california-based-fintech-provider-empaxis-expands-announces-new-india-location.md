@@ -85,6 +85,20 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Baidu wins green light to test fully driverless cars in California"
+    excerpt: "Baidu is the sixth company to receive a driverless test permit from California, after Waymo, Nuro, Zoox, Cruise, and AutoX -- an Alibaba-backed, Chinese self-driving startup. There are 58 companies that have an active permit to test autonomous vehicles with a safety driver in California,"
+    publishedDateTime: 2021-01-27T22:01:00Z
+    webUrl: "https://asia.nikkei.com/Business/Technology/Baidu-wins-green-light-to-test-fully-driverless-cars-in-California"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 54
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F2%252F2%252F8%252F2%252F32042822-1-eng-GB%252FApollo.jpeg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
+        isCached: true
 
 secured: "U3do5DlibMLiqaKjZOVYK5O0p2TfRS79vyPisSSwVo6eRkp0xWrnlR+7ZCbK/EgtONRW2qzNbk0MvQ4+UScybZFmKFJ0NXgDNpbSuF2B8JAlQc4z/iRLUbUOrRVQi02nJqW5aU15FWiLgmJb5MoXyJyzlY46wd5MMe0Gni9y4E3bWocLaWxZye1T1NN5pDHiVb9n1JuwJAgjXehvNoAEBnIz+A2UW6AYdd3f7x1yLWRUEaaLx41BcrhHQ/UjslnsmxYyS7R9A1Kti75tpAWwA8hMugEvnrtDi6OSIOupLKVzWfk2mI7RAKLM9hEiseUw1OBmtujBQeCGztpD0NSjn1cnZXC4buO9l/zxV5Gsfjo=;IcmIrs8IwDilRxhzIie2ow=="
 ---

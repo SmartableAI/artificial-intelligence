@@ -53,6 +53,15 @@ related:
         width: 1000
         height: 800
         isCached: true
+  - title: "Google: India And DeepMind AI Breakthrough"
+    excerpt: "Google's DeepMind recently achieved impressive results at the bi-annual CASP competition for determining the 3D structure of a proteins amino sequence."
+    publishedDateTime: 2021-01-25T15:32:00Z
+    webUrl: "https://seekingalpha.com/article/4400774-google-india-and-deepmind-ai-breakthrough"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 34
 
 secured: "Zie2quPpR02iZk/+doFYOSL7GC5MUf2ZnBTY6HPX8S+GGbSHAdySpmWurPzJj0z5bX5u4aNXCorQdOuIA6G1XExzxXnqzfdoNGbpGl+1G6+Kbs8ltLeIRPPjh2f4K8w2TtxkNMsrPn2GkpmcHfTTD7iCMyFoCQI+Fcqkvr2xEr4F3ls18ohFA2fFlmXk3O8JhxpQJ8pgs+2PzbyRyBWEeWmgcogKtDqExXZUvsa9YEgb4bDnfwOtmCEfO/LvCnx1aOFnC5d4KSWJnwgby3jN1J6bPfZNIultLKdfL/l+A7WZZDIP5AFpJEdu4/TH2ObjADi2o22llaL7ZXNjrsqgdiWZYQCMnGHaa2wXT5OGT4A=;fqXertnHAkYjez+bSybYYw=="
 ---

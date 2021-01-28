@@ -47,6 +47,20 @@ related:
         height: 545
         isCached: true
   - title: "Pinecone leaves stealth with $10M, launches first serverless vector database for machine learning"
+    excerpt: "PineconeSystems Inc., a machine learning (ML) cloud infrastructure company, left stealth today with $10m in seed funding. The investment was led by Wing Venture Capital, and Wing's Founding Partner, Peter Wagner,"
+    publishedDateTime: 2021-01-27T15:09:00Z
+    webUrl: "https://www.lelezard.com/en/news-19620012.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 28
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "Pinecone leaves stealth with $10M, launches first serverless vector database for machine learning"
     excerpt: "PineconeSystems Inc., a machine learning (ML) cloud infrastructure company, left stealth today with $10m in seed funding. The investment"
     publishedDateTime: 2021-01-27T20:00:00Z
     webUrl: "https://www.prnewswire.com/il/news-releases/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-301216240.html"
@@ -60,15 +74,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Pinecone leaves stealth with $10M, launches first serverless vector database for machine learning"
-    excerpt: "Pinecone Systems Inc., a machine learning (ML) cloud infrastructure company, left stealth today with $10m in seed funding. The investment was led by Wing Venture Capital, and Wing's Founding Partner,"
-    publishedDateTime: 2021-01-27T09:00:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20210127ln57621/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 8
 
 secured: "9dZRWYDpBFbv/5buHVFfGXmOoT5SiT42kSFDUM3oe+vO5S0x5I6/dIEM9ZWFXwa8C/3XPM7yDyhOqP85pW60Ofl2KrYfDzejiOTN2DfLCZss108ACfSqDdfVqXlxyghxC6L/8L9r2p9sDnJM+LEwuLtsrdPG0gTuwh65FFAotflXhKL4zeL1uRFi7TJ6Wm3AA6nTHfDZut/nmqCGwHJwAgxmhBat5X2Nud0xV9552FCfI3MVPXIgYfbQHu7UM67sp/EozVS2QMKWVS7wB/KgxPXwqvuidzU58zVsLqTqrCHRPB8A4x/2Xe9BhtX6NGN3DntztInyoUK2D7KmrYY19NpM8vXocTyvGdsT/rw6MmbfbRZQLQCncXNSS3MPFUWI/jLggeURHSkSSv0YIMHkBfce+CCrQXvQEEtmnTE67u/iRm6Xb5XfDvVcadCso7K0pYQc+ASf81btIHWr12edkmSZCX3Bd1vaKJ97nslT8os1P0v/IyOdlzapDbWSONU5Ps7hFRi9oo36zTB39+LKAg==;/7QL7fVQa3rEYfixx8yEWA=="
 ---

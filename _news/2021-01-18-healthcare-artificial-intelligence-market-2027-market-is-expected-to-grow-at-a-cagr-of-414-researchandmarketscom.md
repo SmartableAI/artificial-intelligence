@@ -1,22 +1,20 @@
 ---
 category: news
 title: "Healthcare Artificial Intelligence Market, 2027 - Market is Expected to Grow at a CAGR of 41.4% - ResearchAndMarkets.com"
-excerpt: "... is mainly attributed to the factors such as rising venture capital investment for artificial intelligence in healthcare sector, growing demand for personalized therapy, positive impact due to COVID-19, rising demand to reduce healthcare costs, and ..."
-publishedDateTime: 2021-01-18T14:46:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/01/b19202252/healthcare-artificial-intelligence-market-2027-market-is-expected-to-grow-at-a-cagr-of-41-4-resear"
-webUrl: "https://www.benzinga.com/pressreleases/21/01/b19202252/healthcare-artificial-intelligence-market-2027-market-is-expected-to-grow-at-a-cagr-of-41-4-resear"
-ampWebUrl: "https://amp.benzinga.com/amp/content/19202252"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19202252"
+excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Healthcare Artificial Intelligence Market - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The global healthcare artificial intelligence (AI) market is expected to grow at a CAGR of 41.4% ..."
+publishedDateTime: 2021-01-18T14:19:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210118005340/en/"
+webUrl: "https://www.businesswire.com/news/home/20210118005340/en/"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "+z1bFOpuL15uYWgCytKUeIT8qNHewyeIqMAzYNBQDEXvnF3S0xJErJk9nSTAjDdW/hH12H9v1mdcrD+v+ssqVC5z0hDuPec+N2ikNH1l/f9/tBebVvW6eB5cL/VFvWnKPAfQjY8LNXp+7/eYRkUonQCfeMUk534PwbVX7zf/lEtPyoIbHm+14GeV/6QICNTuf9kNpRNdmLQxEj0Qx23vQSTg5QB43FUTGjYwij/Y6+J7m7d8JEQMqgY/gJ/Jf4W310Tiv0u5M55qFRA1rkdDIBENk56pIct84TMqoxYjkYmMAAUXrlbtOA2hs/WjouuiN8KSCIA3G+4yB2tC9KpeWsLEwaPj9lmDGrecKBYOjZo=;Ucd9lmXNIDrYPIuBvGs8Sg=="
+secured: "qMZEHWV/4ok3HNeghyiv2Tio7dAt0D6MKWXcHZTp8iIKSKd68FkJMjm6f4gwIKUD0Br0Vl0rftuOjOgvBrPr1zeA297K0rCiR54QI7/Mx2kNRt9ljR2+7qTfNWjV9dRngXbKq5MwhO9YVH/8EmO3RkXgBtAIORXy4IYqm6TMtKQBzyiX+mPmGJye+Jqi90a6b/HrTS37tD2lMU5vg7HhAbFpVGjXRGEbFJ7CIap3Yx7hMW0WcV85XWgz6le2BAYiWw/5zz8ay73rvwI1JJ75zkhXfOuWWvwmju3MMfL+ejpkv05yb0Tkxs/Z8mt0nWMC0XWZ6rpbRAxS35lAZGXnHOGTxfE8bXakhMLDY0n3vbQ=;dMMtAX4nh5hbtzXZgOKV2Q=="
 ---
 

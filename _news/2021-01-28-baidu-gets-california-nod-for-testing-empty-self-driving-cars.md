@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL4N2K24B6"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2K24B6"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -75,6 +75,20 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Baidu wins green light to test fully driverless cars in California"
+    excerpt: "Baidu is the sixth company to receive a driverless test permit from California, after Waymo, Nuro, Zoox, Cruise, and AutoX -- an Alibaba-backed, Chinese self-driving startup. There are 58 companies that have an active permit to test autonomous vehicles with a safety driver in California,"
+    publishedDateTime: 2021-01-27T22:01:00Z
+    webUrl: "https://asia.nikkei.com/Business/Technology/Baidu-wins-green-light-to-test-fully-driverless-cars-in-California"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 54
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F2%252F2%252F8%252F2%252F32042822-1-eng-GB%252FApollo.jpeg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "California-Based FinTech Provider Empaxis Expands, Announces New India Location"
     excerpt: "Empaxis Data Management, a cloud-based financial technology and middle-and back-office services provider for investment management firms, has announced the opening of a new office in Kolkata (formerly Calcutta),"
     publishedDateTime: 2021-01-26T15:22:00Z
@@ -90,6 +104,6 @@ related:
         height: 480
         isCached: true
 
-secured: "6AdceTsH5BLkU4g+l1SbUhUkR+wZQrZzD9byHuVYI4kpXpJ3FHzi7sULKrvZ5WvoaGPirhsJTzzVmkazyyyYSJXotnlxjhIchggN73KK+h4PNMLf1pVjEv/M334USH/1sM9VFMtMbp6rRu+u+rD/G0Pe1oJ6gfjVNxNDMA9XkCZh7fh6Q000EJiVvBcHds6N+MN8tNhRflJUA5sPGlA+VwtkZ3EpbBfIG2xRuQreA7BGziYz2QsmttRYLcUKKpK55I9msFQV15EnBtS3BbTb/AZsCYlVgSx9j2fmPauw5XPc6449qcahxjOGv6kZaBT6jC2kEq51X1LLDjwDaAGrmD2wbGhj4Rie5FNFDhLc+Kg=;j3JTj/eMV3z8H25hQ3Wpog=="
+secured: "hemqlcdc/SDsy1Im89Qj07YeAfpakdp9XkMyg2EjEk//WSb4ioTckXJJWzSFwHO5JKc29iij9Lvnja4NY/nngz6LP9D7mr2R7uRWrQ8lzPcaRh7gAIAC1cT9sQO4eymX3/7P3umyZtuUEnoRRJZ3CDSudugPWt7AkyO82XcABlQDpGz3Cah+M8GVz6l4L5o1NgkNjn6WDczFwnAmjJhP8Bint+WMYJajGGxjgbXmfKWhSM2g+MpZnfjjw2XtXqZ42PONezBlrxRgycruPq85AAGdniawYKoM6ZCzBVRBFlDxGEnzKbU/mwzH3tPv63aNfGMCHz9jbg9fJarkhUf2aAWxLgKyzwlBGcoQ2/8TNWYbGM1OyaY3DMw5klfSEYpHjbdS91oW03SXstJ3STYWFjyzn2pKAg6jk5OmIfnOaUDLxNCXhd9kC4fo+XYlDPHixul3C8k1mwjLqe2VKQgrDkrj/RthpHgvE1IhMfikENOCqXPpC1OaoTDkrksvmzSfZPj3OwtpRLnduaZ+kP8Hsg==;dR6XPt5o0PSSiX+HQnTgyA=="
 ---
 

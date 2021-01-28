@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia shows off the first A100 GPU systems built to handle AI workloads"
+    excerpt: "As AI workloads can be complex and demanding, Nvidia has unveiled a new program that makes it easier for businesses to choose servers geared towards machine learning and analytics. This new class of accelerated servers from the company's partners are given the Nvidia-Certified Systems branding as they are designed to power organization's journeys into AI and data analytics."
+    publishedDateTime: 2021-01-28T00:00:00Z
+    webUrl: "https://www.techradar.com/news/nvidia-shows-off-the-first-a100-gpu-systems-built-to-handle-ai-workloads"
+    ampWebUrl: "https://www.techradar.com/amp/news/nvidia-shows-off-the-first-a100-gpu-systems-built-to-handle-ai-workloads"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/nvidia-shows-off-the-first-a100-gpu-systems-built-to-handle-ai-workloads"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 103
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/vdaqQtQFfvSMJT6pxoTPrK-1200-80.jpg"
+        width: 636
+        height: 358
+        isCached: true
   - title: "Nvidia launches certification program for AI platforms"
     excerpt: "Nvidia today launched a formal certification program for systems based on graphical processor units (GPUs) deployed in on-premises IT environments by its OEM partners. The Nvidia-Certified Systems initiative comes at a time when AI models are starting to be both trained and deployed at the network edge rather than trained only in the cloud."
     publishedDateTime: 2021-01-27T01:00:00Z
@@ -41,19 +57,19 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Nvidia Puts Certified AI Servers At Forefront In New Program"
-    excerpt: "Nvidia is recommending customers buy GPU servers that have been certified for optimized AI performance under a new program."
-    publishedDateTime: 2021-01-26T18:34:00Z
-    webUrl: "https://www.crn.com/news/data-center/nvidia-puts-certified-ai-servers-at-forefront-in-new-program"
+  - title: "Nvidia Views Kubernetes as Key to GPU Accelerated AI Scale"
+    excerpt: "When you think about Kubernetes, clusters of CPU and memory resources all scaling to meet the demands of container workloads probably springs to mind. But where does GPU acceleration fit […]"
+    publishedDateTime: 2021-01-25T20:20:00Z
+    webUrl: "https://ctovision.com/nvidia-views-kubernetes-as-key-to-gpu-accelerated-ai-scale/"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 39
+      name: ctovision.com
+      domain: ctovision.com
+    quality: 54
     images:
-      - url: "https://www.crn.com/resources/0265-116d6281c8f0-011499036a81-1000/nvidia-certified.jpg"
-        width: 610
-        height: 457
+      - url: "https://ctovision.com/wp-content/uploads/space.jpg"
+        width: 632
+        height: 422
         isCached: true
   - title: "OEMs Join Nvidia-Certified Program – Systems Pre-tested for AI Workloads"
     excerpt: "Inspur and Supermicro are among 11 systems makers engaged in an Nvidia certification program, announced this morning, designed to test hardware across a range of AI and data analytics workloads, including jobs that require multiple compute nodes and tasks that only need part of the power of one GPU."

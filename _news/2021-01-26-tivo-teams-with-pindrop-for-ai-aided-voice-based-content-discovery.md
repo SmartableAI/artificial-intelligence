@@ -71,6 +71,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "NRF 2021 - ZineOne takes up our hyper-personalization debate on AI and retail"
+    excerpt: "When you post a scorching critique of hyper-personalization, the last thing you expect to get is a reply - from a personalization vendor. As NRF 2021 winds down, the debate on personalization carries on."
+    publishedDateTime: 2021-01-28T00:27:00Z
+    webUrl: "https://diginomica.com/nrf-2021-zineone-takes-our-hyper-personalization-debate-ai-and-retail"
+    ampWebUrl: "https://diginomica.com/nrf-2021-zineone-takes-our-hyper-personalization-debate-ai-and-retail?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/nrf-2021-zineone-takes-our-hyper-personalization-debate-ai-and-retail?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 54
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2021-01/zineone-ai-personalization.jpg"
+        width: 970
+        height: 662
+        isCached: true
 
 secured: "eFaki17QXKyiUZMd+I843SezKh2MF0QLeqiXRCEL4yTCmHCYOLhjFQkvQ/TJcHTq4PW2fedUwqqVi8+TYnMoCvpNeIcGNd9nkYKOp9GCbk1SFk9R0q2Q/Dp4th6Jn7RMmJKiBamURqyRjCtBHd0Z3KAM3O1gFIRDtJ/1CjeelfsI2YnkKojHSTal8TVD4eTWZ9rztpyuoQWUEPijdOcwt2nIYgWmYFxnbbieeVuxe2ty+bjnH/vM5cTrtNn7MrUFtgsJbSMBp4t6QVV0W9Q8Xh7KkIKLiAvEm4vxrelSB658NXT2fOVyBKexYylQXBpNSfhkcAWIPooi1SfRK8vBSgiKfEeUQ6Ar+TbgkaEbD/g=;xT/NR6hSxIccsv8HNkwCpw=="
 ---
