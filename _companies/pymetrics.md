@@ -2,7 +2,7 @@
 name: "Pymetrics"
 overview: "Founded by Harvard/MIT-trained PhDs, pymetrics uses neuroscience data and AI to help global clients like Unilever, Accenture and LinkedIn make their hiring and internal mobility more predictive and less biased. pymetrics replaces the resume as a first-pass filter by assessing candidates based on their true potential -- their inherent cognitive and emotional make-up. Using algorithms that are trained on high-performing employees at a company, pymetrics builds a trait profile of a company's top performers to select best fit talent. These algorithms are then audited to remove any gender or ethnic bias. pymetrics also serves as a common application for candidates, ensuring that everyone finds their best-fit job, regardless of where they apply. With over 80 enterprise clients and offices in NYC, London, Sydney and Singapore, pymetrics is powering the future of hiring: efficient, predictive, and bias-free."
 type: "profile"
-heat: 71
+heat: 114
 
 website: https://www.pymetrics.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "pymetrics"
   url: "https://twitter.com/pymetrics"
-  followers: 3414
+  followers: 3424
 
 size: 51-200 employees
 yearFounded: 2012
@@ -41,6 +41,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "cWelf8iHN5G7foWPbRU9bUNM3zrdJBbhCHoj10bHmnEPlcczMPHjlN/y1AvthYmeAx+8d5qxIOyGKSlgBIt374P2PHXFsY6r9/gH1NSRY24GEMpZnp8ER2kC+bnR/Sz2OXT+vlpEJPwh2ikfM+oRFjG+Aic5vj2tc8d/o2WHXlRs+HdqACy7N13eWas0vRo5ZLHUIIVdfySjY5GatJr89nlbffz7z1HUDTku+gD58ojG61NVloyR7V/PmxVb3Lw5+j3zahDgaGXXzQRc3EfSnmsadKRAhGdfprT4rMV7G9tqVkvIubFQK1oYhZxzgCchbatiNSvkFynjny8YnNFCiCXq5UBWgK77FX3fpLrmi6zOsebITQNaoJVmFSoANe0FyD3iVEMNihinLRXyc7ZwaeJ1rse+/BK4MBGMsgqJUE0=;ESXk/jW0xt/K6YOBgQoGYg=="
+secured: "DtFdUdXiVCxTq+KkyA+TMWqzEHkmN/xVqX5RFzlMskhGzXisDNNd/flxJT63FQ6/xLvImxLA96aW50C1s0AiMoo9KUNtSaS62i0r3LGIwXwy6+ZcfOCGB9MCwoiFaCCMimLPMeg45Iok9luvm73DqnOrp8C+W1M6OSPyYQQSOe+z+U2TstK/vE/0VK71bppXryGtckN6wjOPyxb6RdDJb3gmEFSUGRsytXfTsyu+goO0PnOR3UxuoI5481EJFB//Ewg86sQzITRv98UpBclZFXKodHOF319SNTOO8P8Pz5cQbfTangrV80FXi1D8Obh8m6B4uszLrtYtoye3BtjF0GdCCVhgIzQg00HheAio6R8vyLCcg4dr9aW1Y1dla9Kr7ZuBH1YNduXWBlZgz5wDZ/lqT5IXCbcFhBNMi+ztQkg=;ikHYlWstPJbRQKtAswZ/RQ=="
 ---
 

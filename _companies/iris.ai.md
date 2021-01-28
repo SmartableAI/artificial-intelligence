@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "theirisai"
   url: "https://twitter.com/theirisai"
-  followers: 2891
+  followers: 2890
 
 locations:
   - London, England
@@ -34,6 +34,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=rgmchbwHKHE"
 
-secured: "s8AIEiOsAA6d3zQXCl1EMhCnSLsvefa7C+bZwXNuQWNFjFVshBbaF0evXwNq3J9E8bXy8awfC0NWTnlV8Y9vdPImFwi7Deve4K9e0Tipqu4VtNjMpZ8aSzl92z1eGbPR1m+YVa2OKBfFr/yYrpZyDfyO4t9nOrlsz0Y1ndOtRyOUU854Zl0ygmrnKKXTqA/FhJqz3AhOeSYBjkZajD5Y/Ogi02awpAJih0jW+0BnJra/0OvaXD3blm7DmIge4a2SezTSuqljeV0rtAm/DY07ZsriF5VkPm2qFfti8F0agdS9LByQKFNGwQu4vPjP4XoMeE+De2JcuzDoTi7ZM0Ixdu5rUdUjvfSuFQ3GYVLht2s8a1uCRr1qclDMoUXaxDWue/UmwCfvLKO2i9G65N24JIi5XhStOOdy2TZzx16ZHMM=;yNTnEZztJowpe9x9KvJMeg=="
+secured: "5kh2f72//vzAQFE1Pn6bj0yyzlpnIJ1qdJ0cOlI+lgtoRsRbDRIyXE9trWgD2Sx2BtVTTXohesqAVvF0siSRpyA55WBGUtleStQOJz4GM4AJcWgs3hEjXtslMgkMgRmi3CbPFAtHtFP9JwY4NPnGFEQl27KItfSldLY94EqJd8xRR/uRB3djbnB0GLjjWMHp4sQUGA/d923qtfkjks2LMH4T63jlx2tRRhPcu0oeQ6NxibiZAqMe9UeU6pmK1oQPz26Yyo06ONgjvUhfNETdr4REgwKDmc0kYXqyDz1jHPbPwr8fi8nS1O1YIZd5VzoS+dcN2PBMqzXpL7jnVtJGK7gZjcXgUndxsPlZb5p9DXKAw+i1MXtl+l3nIlEdhjaDLHQK2IWqjwmmiMzil0Xb84jdU5IY3cuaeMWPfoXA4AA=;A3eN05dNj4JccMV+KprORQ=="
 ---
 
