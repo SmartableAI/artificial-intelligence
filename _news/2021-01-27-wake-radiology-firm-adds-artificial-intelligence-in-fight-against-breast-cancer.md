@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Using artificial intelligence to predict which women will develop breast cancer"
+    excerpt: "A team of researchers with members from institutions in the U.S., Sweden and Taiwan has developed an artificial intelligence system for predicting breast cancer years before tumors appear. In their paper published in the journal Science Translational Medicine,"
+    publishedDateTime: 2021-01-28T15:20:00Z
+    webUrl: "https://medicalxpress.com/news/2021-01-artificial-intelligence-women-breast-cancer.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-01-artificial-intelligence-women-breast-cancer.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-01-artificial-intelligence-women-breast-cancer.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 53
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2015/6-breastcancer.jpg"
+        width: 1280
+        height: 1024
+        isCached: true
   - title: "Prostate Cancer may be diagnosed using a urine test with artificial intelligence"
     excerpt: "Prostate cancer is one of the most common cancers among men. Patients are determined to have prostate cancer primarily based on *PSA, a cancer factor in blood. However, as diagnostic accuracy is"
     publishedDateTime: 2021-01-25T15:45:00Z

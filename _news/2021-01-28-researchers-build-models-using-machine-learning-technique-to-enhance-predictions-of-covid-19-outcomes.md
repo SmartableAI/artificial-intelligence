@@ -82,6 +82,20 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "New AI-severity score COVID-19 integrating CT images published to Nature Communications"
+    excerpt: "Owkin, a French-American startup pioneering AI and Federated Learning in medical research, has been focusing it's COVID-19 research efforts on aspects of the pandemic that still require much public health attention,"
+    publishedDateTime: 2021-01-28T16:52:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-01/oi-nas012821.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 29
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Icovid’s AI COVID-10 lung scan goes viral in Europe"
     excerpt: "Belgium’s Icovid initiative, which looks for ways to utilize AI to support radiologists in the assessment of CT images of the lungs of Covid-19 patients, is getting a lot of attention as it spreads across Europe."
     publishedDateTime: 2021-01-27T13:23:00Z

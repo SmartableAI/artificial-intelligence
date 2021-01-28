@@ -27,15 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "At More than 36.2% CAGR, Artificial Intelligence Market Will exceed USD 208.49 Billion by 2025"
-    excerpt: "Based on end-user, the market is segmented into media & advertising, BFSI, it & telecom, retail, healthcare, automotive & transportation and others. The regions covered in this Artificial Intelligence Market report are North America, Europe, Asia-Pacific ..."
-    publishedDateTime: 2021-01-28T12:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/at-more-than-362-cagr-artificial-intelligence-market-will-exceed-usd-20849-billion-by-2025-2021-01-28"
+  - title: "Graphic Processing Unit (GPU) Market Size to Hit USD 198.77 Billion by 2027"
+    excerpt: "The global graphic processing unit (GPU) market is poised to grow at a compound annual growth rate (CAGR) 33.4% during the forecast period 2020 to 2027. Graphics Processing Unit (GPU) also referred as visual processing unit is mainly a computer chip that performs rapid mathematical calculations,"
+    publishedDateTime: 2021-01-28T15:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/graphic-processing-unit-gpu-market-size-to-hit-usd-19877-billion-by-2027-2021-01-28"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 57
+    quality: 67
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

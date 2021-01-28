@@ -7,7 +7,7 @@ originalUrl: "https://news.mit.edu/2021/learning-and-about-ai-technology-0125"
 webUrl: "https://news.mit.edu/2021/learning-and-about-ai-technology-0125"
 type: article
 quality: 71
-heat: 111
+heat: 131
 published: true
 
 provider:
@@ -30,6 +30,17 @@ images:
     isCached: true
 
 related:
+  - title: "New Global Rackspace Technology Study Uncovers Widespread Artificial Intelligence and Machine Learning Knowledge Gap"
+    excerpt: "Rackspace Technology™ (NASDAQ: RXT), a leading end-to-end, multicloud technology solutions company today announced the results of a global survey that reveals that the majority of organizations globally lack the internal resources to support critical artificial intelligence (AI) and machine learning (ML) initiatives."
+    publishedDateTime: 2021-01-28T16:08:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/new-global-rackspace-technology-study-uncovers-widespread-artificial-intelligence-and-machine-learning-knowledge-gap-1030016221"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/New-Global-Rackspace-Technology-Study-Uncovers-Widespread-Artificial-Intelligence-and-Machine-Learning-Knowledge-Gap-1030016221"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/New-Global-Rackspace-Technology-Study-Uncovers-Widespread-Artificial-Intelligence-and-Machine-Learning-Knowledge-Gap-1030016221"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 65
   - title: "Leading AI Experts Teach Innovative Machine Learning Technique"
     excerpt: "MindsDB, the open-source AI layer for existing databases, will co-host a webinar with top Big Data and AI influencer Kirk Borne on how to run machine learning inside a database. The webinar, held on February 16th at 4 PM GMT,"
     publishedDateTime: 2021-01-26T18:15:00Z
@@ -78,6 +89,15 @@ related:
       name: insidebigdata.com
       domain: insidebigdata.com
     quality: 34
+  - title: "Rackspace Technology, Inc.: New Global Rackspace Technology Study Uncovers Widespread Artificial Intelligence and Machine Learning Knowledge Gap"
+    excerpt: "AI/ML implementation fails often due to lack of internal resources - More than one-third (34%) of respondents report artificial intelligence R&D ... government/public sector, and healthcare sectors in the Americas, Europe, Asia and the Middle East."
+    publishedDateTime: 2021-01-28T16:32:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-01/51859022-rackspace-technology-inc-new-global-rackspace-technology-study-uncovers-widespread-artificial-intelligence-and-machine-learning-knowledge-gap-399.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 1
 
 secured: "C9u1AwS9TBLvvx73PH6jNh+46J4xiUdk4WQk2q/sZmsNHhEsPDc+vzVnf33K0UqwJAxdjpggBr2Gc7efOSzJ6PO6tXbe/cwEflffF8w2PUX/tOCFQKqUMGqyf8igDfL+SiH4+xDvcohynzBzLXHMs3capSCXUY7k6IPxYcoOTL6nDyAz2+fmo+dXdCiA9O4t+Y4kUBKVGuBTeQx36pyy5Bs1XddcdgvPgHyUbDVMtlDpA3fxGjDjG0MLx6aXg1DbVfku9Cp/1rTZvyV09/pSOwU8yjrfFZZhgXMm5ItzrEQcYMgF6v1MYyECohAYabCHEoVapnqq25iyRwt1TgRvwxmyfZ9zLWd0lJuDxxhcGr7iFmnIKEjfv3iCjP7fa7cMaJ1onnejS/jkj4E7gTNzaVwUJQFyxeNFhYlOyw1fhifnB9SkXEjTfMZSMEydp2+fvKHaLTQqhqtIXMKkfevaHAuAa0m0PSaMRfmntOSiIyOkrFIIs6AslJJHDqdv4LIUgqllRP4dk+QtWorR9MHGOw==;YC1bDVvaqCTy/lJmOlUSgQ=="
 ---

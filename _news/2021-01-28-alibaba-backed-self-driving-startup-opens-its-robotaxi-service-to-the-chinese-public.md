@@ -3,8 +3,8 @@ category: news
 title: "Alibaba-backed self-driving startup opens its robotaxi service to the Chinese public"
 excerpt: "AutoX became the third firm to receive a test permit in California to operate its autonomous vehicles without a human safety driver."
 publishedDateTime: 2021-01-28T10:14:00Z
-originalUrl: "https://www.techinasia.com/alibababacked-selfdriving-startup-autox-opens-robotaxi-general-public-china#!"
-webUrl: "https://www.techinasia.com/alibababacked-selfdriving-startup-autox-opens-robotaxi-general-public-china#!"
+originalUrl: "https://www.techinasia.com/alibababacked-selfdriving-startup-autox-opens-robotaxi-general-public-china"
+webUrl: "https://www.techinasia.com/alibababacked-selfdriving-startup-autox-opens-robotaxi-general-public-china"
 type: article
 quality: 27
 heat: 27
@@ -22,6 +22,6 @@ topics:
   - AI in Autos
   - AI
 
-secured: "PA3npW4GziT6z45znFRWAKptbJAdmptgTOuqFA8uCtCyuC5BBMaP5LyZwa6Xgg0YUP0QJuaen5PnrR/ig075MmwN3Lr0QoMAeGh2tazZeFVCnI5V9Ga8oPCZIzegnK/EJTeFmFK2KPTpeATfpAR2xFoHXckZxsDUt+jGYH1sR2KoRDQsSzoe8XP+/knqeAm13Giz9vqRrUIo2maTwsgtsJg2PXwCXg5VMLxry6sEcOCF9IZYfT2aondn/5/je5zerui2QzMoWqTJdu/rdfgUvfNrKAGPRQH7N/h67UFOcbCxGAtyFBos71nu0SulCLGHsCi4lFnkdM2oweLCt+T/S3umoPvArt3B1lQv5lUwOvQ2bqngajQUF+8NGTJoJUl5DfJfD2sUMN4xjj4abz5KuS1aXXj8ezWQRbLSV0VrRQsm9te8yV3Fk/saEWeMU4XpTIpXOVjpghck/TTHHFkQlIhuNw/qgwflIY7qwWwTW4VTgZZTHum5ruyqRJsIW20ITzK4vh7+GSWrZmoyk+qnWg==;U3HdnQetYjyF0GXXub8Pmg=="
+secured: "O1egDdws5kaweEFt3M2zWv9FFdtv/gyJjpBJz2yXcuRfKDm3rSqHLdDiqrJkAgaYRQDMtpSUwJa3BuIK94C2VtPBKMfbtf6iTTmKpUHBdtrbFZ/54FrnXE0VLfDBr+RauEW6btXZY4Omgu+xdrYOGIbt84jZXlzwuMIcPJWPeRuM/Zvrh6OsUs6IJDyltU5Q7emKrX8eAs1dXBMPRHNFsbkRkSdQU4by5kICeT19d2QnpEiTIAzx3zrb8o+KiOAQdHrE7pX7ABiOhG/bJAFA+lH4PKQhncrEuavMxo7cXNpj41DnVDagOqq1+NvQZHnnYes9fEQWW9H7HzBqGGaoeZ3DQCrwlIIQ94zcO51eUHs9vmoTSJrmGf05iRHDGulAV82Pjv4NPuI1/eiFvx0bZMJ4OZdlKzftusCeQ1i3q9o+NDpGnGUdiMnbhtw8ZdWLILczF+7zS0EZGu20Bnkou054tOJ5UvMMKvT2WqVCfqSBVk5Ggb6QgG3h5VYzz8Do+6CV/k9IEEA6FYmOcJoGCA==;NfH2ow1fsfEx9txvI6GGrQ=="
 ---
 

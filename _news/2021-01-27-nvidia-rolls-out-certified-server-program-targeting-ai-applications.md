@@ -28,9 +28,9 @@ related:
   - title: "Nvidia shows off the first A100 GPU systems built to handle AI workloads"
     excerpt: "As AI workloads can be complex and demanding, Nvidia has unveiled a new program that makes it easier for businesses to choose servers geared towards machine learning and analytics. This new class of accelerated servers from the company's partners are given the Nvidia-Certified Systems branding as they are designed to power organization's journeys into AI and data analytics."
     publishedDateTime: 2021-01-28T00:00:00Z
-    webUrl: "https://www.techradar.com/uk/news/nvidia-shows-off-the-first-a100-gpu-systems-built-to-handle-ai-workloads"
-    ampWebUrl: "https://www.techradar.com/uk/amp/news/nvidia-shows-off-the-first-a100-gpu-systems-built-to-handle-ai-workloads"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/nvidia-shows-off-the-first-a100-gpu-systems-built-to-handle-ai-workloads"
+    webUrl: "https://www.techradar.com/news/nvidia-shows-off-the-first-a100-gpu-systems-built-to-handle-ai-workloads"
+    ampWebUrl: "https://www.techradar.com/amp/news/nvidia-shows-off-the-first-a100-gpu-systems-built-to-handle-ai-workloads"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/nvidia-shows-off-the-first-a100-gpu-systems-built-to-handle-ai-workloads"
     type: article
     provider:
       name: TechRadar
@@ -70,6 +70,20 @@ related:
       - url: "https://ctovision.com/wp-content/uploads/space.jpg"
         width: 632
         height: 422
+        isCached: true
+  - title: "NVIDIA Expands vGPU Software to Accelerate Workstations, AI Compute Workloads"
+    excerpt: "Designers, engineers, researchers, creative professionals all need the flexibility to run complex workflows – no matter where they’re"
+    publishedDateTime: 2021-01-28T16:05:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/nvidia-expands-vgpu-software-to-accelerate-workstations-ai-compute-workloads/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 51
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/shutterstock_ncar_hq-405x228.jpg"
+        width: 405
+        height: 228
         isCached: true
   - title: "OEMs Join Nvidia-Certified Program – Systems Pre-tested for AI Workloads"
     excerpt: "Inspur and Supermicro are among 11 systems makers engaged in an Nvidia certification program, announced this morning, designed to test hardware across a range of AI and data analytics workloads, including jobs that require multiple compute nodes and tasks that only need part of the power of one GPU."

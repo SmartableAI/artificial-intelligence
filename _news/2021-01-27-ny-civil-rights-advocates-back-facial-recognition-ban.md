@@ -1,29 +1,27 @@
 ---
 category: news
-title: "NY Civil Rights Advocates Back Facial Recognition Ban"
-excerpt: "The technology has raised concerns across the country by some who worry it could be a dangerous step toward a surveillance state where people’s movements are tracked the moment they leave their homes"
-publishedDateTime: 2021-01-27T12:00:00Z
-originalUrl: "https://www.nbcnewyork.com/news/local/ny-civil-rights-advocates-back-facial-recognition-ban/2850193/"
-webUrl: "https://www.nbcnewyork.com/news/local/ny-civil-rights-advocates-back-facial-recognition-ban/2850193/"
-ampWebUrl: "https://www.nbcnewyork.com/news/local/ny-civil-rights-advocates-back-facial-recognition-ban/2850193/?amp"
-cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/local/ny-civil-rights-advocates-back-facial-recognition-ban/2850193/?amp"
+title: "NY civil rights advocates back facial recognition ban"
+excerpt: "Amnesty International is calling on New York City and state officials to ban law enforcement from using facial recognition technology, saying it threatens the civil rights of"
+publishedDateTime: 2021-01-26T22:12:00Z
+originalUrl: "https://apnews.com/article/new-york-new-york-city-0b06e8acd185ef9229ae748c9a640457/gallery/679a8bec16954685bad51568fde1bf5e"
+webUrl: "https://apnews.com/article/new-york-new-york-city-0b06e8acd185ef9229ae748c9a640457/gallery/679a8bec16954685bad51568fde1bf5e"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: NBC New York
-  domain: nbcnewyork.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://media.nbcnewyork.com/2021/01/GettyImages-1184155312.jpg?resize=1200%2C675"
-    width: 1200
-    height: 675
+  - url: "https://storage.googleapis.com/afs-prod/media/679a8bec16954685bad51568fde1bf5e/3000.jpeg"
+    width: 3000
+    height: 1785
     isCached: true
 
 related:
@@ -59,6 +57,17 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "Facial recognition: Don't use it to snoop on how staff are feeling, says watchdog"
+    excerpt: "The Council of Europe's new guidelines call for a ban on some applications of facial recognition, and stringent privacy safeguards when the technology is deployed."
+    publishedDateTime: 2021-01-28T16:27:00Z
+    webUrl: "https://www.zdnet.com/article/facial-recognition-dont-use-it-to-snoop-on-how-staff-are-feeling-says-watchdog/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/facial-recognition-dont-use-it-to-snoop-on-how-staff-are-feeling-says-watchdog/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facial-recognition-dont-use-it-to-snoop-on-how-staff-are-feeling-says-watchdog/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 64
   - title: "Use of facial recognition tech sparks privacy fears"
     excerpt: "The Lucknow police’s decision to use facial recognition technology (FRT) to monitor women’s expressions to prevent street harassment has spurred privacy concerns among Indians. The government needs to create strict and clear regulations before it allows law enforcement agencies to use facial recognition for policing,"
     publishedDateTime: 2021-01-25T01:34:00Z
@@ -341,6 +350,6 @@ related:
         height: 450
         isCached: true
 
-secured: "Y4Ng8vddxt1cvz90f/JMRsldiqIKSmklLTL+w16t8Y0qiCx3O536EWFSd+UkesHLo3uWHZlvTCHA90hbs/4x80IiFpMPWgH83rifrJxBusfY6hXxVe/iGkd5jGqzajwOomEDQp1FVfyKgmv8ozb/HgBLTl2ZDS7UcVTl4lTCKBuG51Bh/Y21EVkd5+7cfC+BFdcS2tTVl95U4H/QRuT0B+X0dIuaptLZ7ml5ruIBivPWewsQC9DiiQAdZ+Ip0OZMldXLt32LVTvborQwgaAB3+E+6lQCkB2gqIGe4lbZ6MHFYG2q8258jLSvSM8OCVD1g3/eeAVmDghExsTqXPo4ehitwofjuNVP2J3aK+CRsAAcuun7k8v6H5dMJPbC+JsmRd0EjjcAFBtjB6rW0bwtr//g0/unpNwwEu2d4UgSiiHCMtXs+jcPLb7zcSaSJ78MdITPLqX2UTzN/W/LdO6SxazLquMBW6JNXpBK/3hwRA3MuvYiGviIgGePiXbUQDYSBQifsgAM5G3NfivxeXoYMw==;acsfE8v+5Q6FDKzHj+qbrw=="
+secured: "xgl6813GgxWXAXuUUJxKpekK5P7cmUOtDvaYZJb3FDPQs5sBmqpda1f3aZxxWJjgm6dMU2aWbEAMz24MA1zidVdEPTna8Ef1yVbaCPOQmN6pEaiikhsLjFnqpqeFRDWguz+8w3uZerTdhuNTfddjp8Mf5Tr0LcBAVo+RxGYLTxAhjWuT/w1SRtDd9EBFbTA8G4/BkLOeAl5v8hVN/ieG3BG2OZAgQGgldccNpZGbun9coiiJXhxlJg6daT1/iNfzJr48qWSTI+blFeKISmmHBEQsoCro4/YwtNC5MdxRzl52D2o1cksbYbV8wpX0rbFhQ4N9P+pFbkt30vIkxG29gIAbZAsxaYvxBIMaO21mXDI=;mQgrIYNxvZX1sjCExiG6Bw=="
 ---
 

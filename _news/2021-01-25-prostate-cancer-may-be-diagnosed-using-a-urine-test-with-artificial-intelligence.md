@@ -58,6 +58,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Using artificial intelligence to predict which women will develop breast cancer"
+    excerpt: "A team of researchers with members from institutions in the U.S., Sweden and Taiwan has developed an artificial intelligence system for predicting breast cancer years before tumors appear. In their paper published in the journal Science Translational Medicine,"
+    publishedDateTime: 2021-01-28T15:20:00Z
+    webUrl: "https://medicalxpress.com/news/2021-01-artificial-intelligence-women-breast-cancer.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-01-artificial-intelligence-women-breast-cancer.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-01-artificial-intelligence-women-breast-cancer.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 53
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2015/6-breastcancer.jpg"
+        width: 1280
+        height: 1024
+        isCached: true
   - title: "Wake Radiology firm adds artificial intelligence in fight against breast cancer"
     excerpt: "One in five cases of breast cancer is missed by radiologists. Can Artificial Intelligence improve that percentage and save lives? A Triangle radiology firm believes so, and it is adding AI to the firm"
     publishedDateTime: 2021-01-26T19:29:00Z

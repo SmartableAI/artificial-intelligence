@@ -159,6 +159,34 @@ related:
         width: 728
         height: 300
         isCached: true
+  - title: "The Allen Institute for AI (AI2) Selects Core Scientific to Provide AI-Powered GPU-as-a-Service"
+    excerpt: "Core Scientific, a leading infrastructure and software solutions provider for artificial intelligence and blockchain led by CEO Kevin"
+    publishedDateTime: 2021-01-28T15:42:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/the-allen-institute-for-ai-ai2-selects-core-scientific-to-provide-ai-powered-gpu-as-a-service-301217453.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 42
+    images:
+      - url: "https://mma.prnewswire.com/media/815623/Core_Scientific_Logo.jpg?p=facebook"
+        width: 648
+        height: 339
+        isCached: true
+  - title: "Hyundai Motor Group Introduces Advanced Humanoid Robot ‘DAL-e’ for Automated Customer Services"
+    excerpt: "Hyundai Motor Group has launched the “DAL-e,” a highly advanced customer service robot that independently communicates with people using precise recognition capabilities and mobility functions. The DAL-e is an acronym for “Drive you,"
+    publishedDateTime: 2021-01-28T16:10:00Z
+    webUrl: "https://www.finchannel.com/technology/80035-hyundai-motor-group-introduces-advanced-humanoid-robot-dal-e-for-automated-customer-services"
+    type: article
+    provider:
+      name: The Financial
+      domain: finchannel.com
+    quality: 42
+    images:
+      - url: "https://finchannel.com/images/banners/ePaperTF.jpg"
+        width: 500
+        height: 265
+        isCached: true
   - title: "Robot to take over customer service tasks in the Hyundai Motor showroom"
     excerpt: "To automate customer service tasks in the midst of a global pandemic, Hyundai Motor Group has debuted an advanced humanoid customer service robot at its showroom in Seoul, South Korea. The DAL-e, which stands for “Drive you,"
     publishedDateTime: 2021-01-28T05:13:00Z

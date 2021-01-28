@@ -58,6 +58,17 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "Facial recognition: Don't use it to snoop on how staff are feeling, says watchdog"
+    excerpt: "The Council of Europe's new guidelines call for a ban on some applications of facial recognition, and stringent privacy safeguards when the technology is deployed."
+    publishedDateTime: 2021-01-28T16:27:00Z
+    webUrl: "https://www.zdnet.com/article/facial-recognition-dont-use-it-to-snoop-on-how-staff-are-feeling-says-watchdog/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/facial-recognition-dont-use-it-to-snoop-on-how-staff-are-feeling-says-watchdog/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facial-recognition-dont-use-it-to-snoop-on-how-staff-are-feeling-says-watchdog/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 64
   - title: "Use of facial recognition tech sparks privacy fears"
     excerpt: "The Lucknow police’s decision to use facial recognition technology (FRT) to monitor women’s expressions to prevent street harassment has spurred privacy concerns among Indians. The government needs to create strict and clear regulations before it allows law enforcement agencies to use facial recognition for policing,"
     publishedDateTime: 2021-01-25T01:34:00Z
@@ -89,22 +100,6 @@ related:
       - url: "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/how-facial-recognition-algorithms-can-cut-out-bias-344899.jpg?v=11082843"
         width: 640
         height: 360
-        isCached: true
-  - title: "NY Civil Rights Advocates Back Facial Recognition Ban"
-    excerpt: "The technology has raised concerns across the country by some who worry it could be a dangerous step toward a surveillance state where people’s movements are tracked the moment they leave their homes"
-    publishedDateTime: 2021-01-27T12:00:00Z
-    webUrl: "https://www.nbcnewyork.com/news/local/ny-civil-rights-advocates-back-facial-recognition-ban/2850193/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/local/ny-civil-rights-advocates-back-facial-recognition-ban/2850193/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/local/ny-civil-rights-advocates-back-facial-recognition-ban/2850193/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 59
-    images:
-      - url: "https://media.nbcnewyork.com/2021/01/GettyImages-1184155312.jpg?resize=1200%2C675"
-        width: 1200
-        height: 675
         isCached: true
   - title: "'Ban The Scan' Campaign Targets Facial Recognition Technology"
     excerpt: "A global campaign launched was launched Tuesday to ban facial recognition technology. Critics say it creates privacy issues and can contribute to racial profiling. CBS2's Natalie Duddridge reports."
@@ -233,6 +228,20 @@ related:
       name: The Eagle
       domain: theeagle.com
     quality: 39
+  - title: "NY civil rights advocates back facial recognition ban"
+    excerpt: "Amnesty International is calling on New York City and state officials to ban law enforcement from using facial recognition technology, saying it threatens the civil rights of"
+    publishedDateTime: 2021-01-26T22:12:00Z
+    webUrl: "https://apnews.com/article/new-york-new-york-city-0b06e8acd185ef9229ae748c9a640457/gallery/679a8bec16954685bad51568fde1bf5e"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/679a8bec16954685bad51568fde1bf5e/3000.jpeg"
+        width: 3000
+        height: 1785
+        isCached: true
   - title: "Can Facial Recognition Predict Political Orientation?"
     excerpt: "A study used social media photos of 1,085,795 participants – including 347,000 people of color, from the United States, United Kingdom and Canada and their self-declared political orientation, age, and gender,"
     publishedDateTime: 2021-01-27T19:31:00Z

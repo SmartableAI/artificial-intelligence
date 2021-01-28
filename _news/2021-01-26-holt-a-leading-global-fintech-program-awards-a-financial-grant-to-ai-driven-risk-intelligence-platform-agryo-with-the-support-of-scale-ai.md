@@ -36,6 +36,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
+  - title: "Bringing wealth management to the masses via fintech"
+    excerpt: "With the help of fintech, XSpot Wealth has been able to bring top-class wealth management services to the smaller investors that traditional banks and other investment operators ignore, and it is boom"
+    publishedDateTime: 2021-01-28T15:01:00Z
+    webUrl: "https://www.worldfinance.com/wealth-management/utilising-fintech-to-bring-wealth-management-to-the-masses"
+    type: article
+    provider:
+      name: World Finance
+      domain: worldfinance.com
+    quality: 24
+    images:
+      - url: "https://www.worldfinance.com/wp-content/uploads/2021/01/fintech-600x450.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "AI fintech start-up looking to tackle small business late payments gets seed funding"
     excerpt: "A fintech start-up that's looking to tackle the late payments epidemic, and ensure small businesses get paid on time, has raised seed funding. London-based Previse has bagged £2m in the round, which was led by Hambro Perks,"
     publishedDateTime: 2021-01-26T11:59:00Z

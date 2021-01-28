@@ -168,6 +168,34 @@ related:
       name: Carscoops
       domain: carscoops.com
     quality: 47
+  - title: "The Allen Institute for AI (AI2) Selects Core Scientific to Provide AI-Powered GPU-as-a-Service"
+    excerpt: "Core Scientific, a leading infrastructure and software solutions provider for artificial intelligence and blockchain led by CEO Kevin"
+    publishedDateTime: 2021-01-28T15:42:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/the-allen-institute-for-ai-ai2-selects-core-scientific-to-provide-ai-powered-gpu-as-a-service-301217453.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 42
+    images:
+      - url: "https://mma.prnewswire.com/media/815623/Core_Scientific_Logo.jpg?p=facebook"
+        width: 648
+        height: 339
+        isCached: true
+  - title: "Hyundai Motor Group Introduces Advanced Humanoid Robot ‘DAL-e’ for Automated Customer Services"
+    excerpt: "Hyundai Motor Group has launched the “DAL-e,” a highly advanced customer service robot that independently communicates with people using precise recognition capabilities and mobility functions. The DAL-e is an acronym for “Drive you,"
+    publishedDateTime: 2021-01-28T16:10:00Z
+    webUrl: "https://www.finchannel.com/technology/80035-hyundai-motor-group-introduces-advanced-humanoid-robot-dal-e-for-automated-customer-services"
+    type: article
+    provider:
+      name: The Financial
+      domain: finchannel.com
+    quality: 42
+    images:
+      - url: "https://finchannel.com/images/banners/ePaperTF.jpg"
+        width: 500
+        height: 265
+        isCached: true
 
 secured: "L1wWrsIj4Zd706TMKTxPadR1ro/iwvAbN/jrFXu2uNUGQVHH3vo6/mmEHhdTmHTc5XGwRPOiE92IFbPWz1qzusgAVSfFq8z1/R1JpnjwMVRxzp54JIWxc9Nma9rXG/l5zmd5+T+zEK6Yb+oI388PKLVOL/aNsQGYqxxgavSEiGzMypaKyHM1uL09HDeuOmo0/AvT4vszTExTsWNQ9BlgDV4RMc+keQAlOk8HlFXaky0WrFDeFEIojz6wZoE8xndL83EU2Yrbmuo5+CM+wBjZ07uDLOBZClwy3ABwkxp+QDb+rhSmMkqm6R0HbpuQh55iUjwwwXnLSP67rUwp9IFKxRXemRDKK4jwDwOqYb1QjfdSvHKKaNHpFMrH8P2K8HZl3SV+uH7pDq9dnfKBeMJVIL/QAUxLCvq+7llCbOL8vx39qQJ01eAikf3gXn6oIB+SVFosU/uAjzcsY02hEpyABAgWyGyPD1V7HWgTIgDiLU1q/LKVR7WTivFtE7jAOxwwqjrHw2zttWYbOuWq6uUB4Q==;tek4pHmFrFrJAiujE/DKgw=="
 ---

@@ -68,6 +68,20 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "New AI-severity score COVID-19 integrating CT images published to Nature Communications"
+    excerpt: "Owkin, a French-American startup pioneering AI and Federated Learning in medical research, has been focusing it's COVID-19 research efforts on aspects of the pandemic that still require much public health attention,"
+    publishedDateTime: 2021-01-28T16:52:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-01/oi-nas012821.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 29
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Researchers Build Models Using Machine Learning Technique to Enhance Predictions of COVID-19 Outcomes"
     excerpt: "Mount Sinai researchers have published one of the first studies using a machine learning technique called \"federated learning\" to examine"
     publishedDateTime: 2021-01-28T06:16:00Z

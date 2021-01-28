@@ -39,6 +39,17 @@ related:
         width: 800
         height: 534
         isCached: true
+  - title: "New Global Rackspace Technology Study Uncovers Widespread Artificial Intelligence and Machine Learning Knowledge Gap"
+    excerpt: "Rackspace Technology™ (NASDAQ: RXT), a leading end-to-end, multicloud technology solutions company today announced the results of a global survey that reveals that the majority of organizations globally lack the internal resources to support critical artificial intelligence (AI) and machine learning (ML) initiatives."
+    publishedDateTime: 2021-01-28T16:08:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/new-global-rackspace-technology-study-uncovers-widespread-artificial-intelligence-and-machine-learning-knowledge-gap-1030016221"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/New-Global-Rackspace-Technology-Study-Uncovers-Widespread-Artificial-Intelligence-and-Machine-Learning-Knowledge-Gap-1030016221"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/New-Global-Rackspace-Technology-Study-Uncovers-Widespread-Artificial-Intelligence-and-Machine-Learning-Knowledge-Gap-1030016221"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 65
   - title: "Leading HR Technology Company launches AI Ethics Advisory Board"
     excerpt: "Arena Analytics launched its external AI Ethics Advisory Board - the first human resource technology firm to do so - on January 12,"
     publishedDateTime: 2021-01-26T19:02:00Z
@@ -73,6 +84,15 @@ related:
       name: insidebigdata.com
       domain: insidebigdata.com
     quality: 34
+  - title: "Rackspace Technology, Inc.: New Global Rackspace Technology Study Uncovers Widespread Artificial Intelligence and Machine Learning Knowledge Gap"
+    excerpt: "AI/ML implementation fails often due to lack of internal resources - More than one-third (34%) of respondents report artificial intelligence R&D ... government/public sector, and healthcare sectors in the Americas, Europe, Asia and the Middle East."
+    publishedDateTime: 2021-01-28T16:32:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-01/51859022-rackspace-technology-inc-new-global-rackspace-technology-study-uncovers-widespread-artificial-intelligence-and-machine-learning-knowledge-gap-399.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 1
 
 secured: "zGn5mENIS4V4NLSTDI+ZpIcfz0VGZUPWwwHdgVU5M+BN/gJ1eypGxbNG1iG4O40HNAuqlxdiAGbtRiwl6ErYD59XyVs7gEhlV3nsHxOTubimW9d6AKHoG1bQHKQXotXEBZ1e5Yc/hrE3r4axsoQ02faP7b8BGMPVNsVxmYcSulA+vHvTfW7pQ8vcBpZYrelrFmq0uc0OZl8NJBfboJ02tucFMzPXk4rc3j5gl8Atj0oho25Vn8Yjfria+aJAvqjSu/0MjwTi8l7te2iDaY4f7adrQWl9FEMS6wyE4WoO/sa906znMnctm2lo7ETIfPR52GI8v6URZ6TE+r8Mk7u2XnsK8UWOGSVm9FnHvfzLIaM=;M0gy6Gbewdsyukk4aiYDWg=="
 ---

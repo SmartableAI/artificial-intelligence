@@ -19,7 +19,7 @@ topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/65/d656d0d8-9f6e-5d52-ada9-57c472673bf2/6012cee21a844.image.jpg?resize=1200%2C628"
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/65/d656d0d8-9f6e-5d52-ada9-57c472673bf2/6012de23b47b4.image.jpg?resize=1200%2C628"
     width: 1200
     height: 628
     isCached: true
@@ -40,6 +40,6 @@ related:
         height: 209
         isCached: true
 
-secured: "Ny5EkZtsphXXzxeBqg4/SfbwcPybtTzAFTi07wvohTum69tXyCE5tul/2rb+/65UsqOO1rH3njDMMb4brVcVdeqyXD8D1KNTlaYr9QfKOfF0/R8vTNV6WS2yHMvmrfFPgz4xSZ1N83TqEDSY3CpqMQhP7iBE5AVF3LuQbHEgELGAu1nIYtzGsYj+eaVTWNLAGN3P2ZpNpH06JujGT0kvOFEwRf+fXjAQndfmutNYLqEZTNNxFMfNbIIKmx1Zn5bJzzEA80NflZXfUPQ6V/y3rTE073J/vLC7y8JF48NbpRuBb19KieMohorwkAWv/xI6+Yabs3rera/bDIMX+1hoqn0lDcnhM9oSFDcyx9Br5aM=;DerpL1harwxX9R03G/loZg=="
+secured: "fTor78lutxdy1qoQQcf5C9aDoV9cTr+PVje3DZt4+iL5yA4RBBQ7WnRXv620o5cSSpiC2TsvJGHuolc/r1HfaGqPxEnyBKzeM0w3HCXyVIuiEUiH06AAam5qnpTSR5m+TgQCqgieAdxs8877nlQCU6WecFRd9yXGD5sLVyqvkdWBPAVoPoA6EJTsmh/5+oyDJDGgMp2wDZYOF1Q3zuap90045U1Q/fiYsC8hplz3YzSq3whW5BcnrQLTFFF/1+gNx7OD6qr8RAu+mN9ZC5na2ZqEgM/yQTlUOYkOY+yLR5lRFX0T9UNYVrfFp7TK29AzRR/z64PuyYb2EfCP0kzkUaerbu7sYeEbbWebNiT+SXw=;1Lun7wtdAbIMrT+ATmD3wg=="
 ---
 

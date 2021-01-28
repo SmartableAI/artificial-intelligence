@@ -30,6 +30,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
+  - title: "Bringing wealth management to the masses via fintech"
+    excerpt: "With the help of fintech, XSpot Wealth has been able to bring top-class wealth management services to the smaller investors that traditional banks and other investment operators ignore, and it is boom"
+    publishedDateTime: 2021-01-28T15:01:00Z
+    webUrl: "https://www.worldfinance.com/wealth-management/utilising-fintech-to-bring-wealth-management-to-the-masses"
+    type: article
+    provider:
+      name: World Finance
+      domain: worldfinance.com
+    quality: 24
+    images:
+      - url: "https://www.worldfinance.com/wp-content/uploads/2021/01/fintech-600x450.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Holt, a Leading Global Fintech Program, Awards a Financial Grant to AI-driven Risk Intelligence Platform Agryo, with the Support of Scale AI"
     excerpt: "Holt, a leading Global Fintech Program, has awarded a financial grant to Agryo, an AI-driven blockchain based risk intelligence platform,"
     publishedDateTime: 2021-01-26T15:56:00Z
