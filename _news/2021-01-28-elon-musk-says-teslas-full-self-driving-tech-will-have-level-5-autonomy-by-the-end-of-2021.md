@@ -1,23 +1,34 @@
 ---
 category: news
-title: "ATB Ventures focusing on digital identity, removing bias from artificial intelligence, creating key partnerships"
-excerpt: "CALGARY, AB, Jan. 25, 2021 /CNW/ - ATB Ventures is helping Alberta foster innovation through advancements in digital identity and removing bias from artificial intelligence. ATB Financial's innovation lab is building, investing and partnering with ..."
-publishedDateTime: 2021-01-25T19:05:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/01/n19306126/atb-ventures-focusing-on-digital-identity-removing-bias-from-artificial-intelligence-creating-key-"
-webUrl: "https://www.benzinga.com/pressreleases/21/01/n19306126/atb-ventures-focusing-on-digital-identity-removing-bias-from-artificial-intelligence-creating-key-"
-ampWebUrl: "https://amp.benzinga.com/amp/content/19306126"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19306126"
+title: "Elon Musk says Tesla's Full Self-Driving tech will have Level 5 autonomy by the end of 2021"
+excerpt: "Tesla's CEO also confirmed that customers won't be able to transfer previous FSD purchases between old and new cars."
+publishedDateTime: 2021-01-28T01:48:00Z
+originalUrl: "https://www.cnet.com/roadshow/news/elon-musk-full-self-driving-tesla-earnings-call/"
+webUrl: "https://www.cnet.com/roadshow/news/elon-musk-full-self-driving-tesla-earnings-call/"
+ampWebUrl: "https://www.cnet.com/google-amp/news/elon-musk-full-self-driving-tesla-earnings-call/"
+cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/elon-musk-full-self-driving-tesla-earnings-call/"
 type: article
-quality: 16
+quality: 79
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: CNET
+  domain: cnet.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - AI in Autos
   - AI
+
+images:
+  - url: "https://cnet3.cbsistatic.com/img/gCKjWpaDOLArujU35HNJiNtgxgs=/2018/10/24/3e4c2a85-ffa1-4600-ab59-e8af96931af4/tesla-logo-ogi.jpg"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Tesla partners with Samsung on new 5nm chip for full self-driving, report says"
@@ -35,22 +46,6 @@ related:
       - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2019/04/Screen-Shot-2019-04-22-at-2.48.22-PM-1-e1555961353311.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Elon Musk says Tesla's Full Self-Driving tech will have Level 5 autonomy by the end of 2021"
-    excerpt: "Tesla's CEO also confirmed that customers won't be able to transfer previous FSD purchases between old and new cars."
-    publishedDateTime: 2021-01-28T01:48:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/elon-musk-full-self-driving-tesla-earnings-call/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/elon-musk-full-self-driving-tesla-earnings-call/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/elon-musk-full-self-driving-tesla-earnings-call/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 79
-    images:
-      - url: "https://cnet3.cbsistatic.com/img/gCKjWpaDOLArujU35HNJiNtgxgs=/2018/10/24/3e4c2a85-ffa1-4600-ab59-e8af96931af4/tesla-logo-ogi.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Tesla had talks with other automakers about licensing its self-driving software, Elon Musk says"
     excerpt: "Tesla had “preliminary” discussions with other automakers about licensing its self-driving software, according to new comments by CEO Elon Musk. Tesla Licensing Software Today, Tesla released its Q4 2020 financial results and following the release,"
@@ -114,7 +109,18 @@ related:
         width: 745
         height: 355
         isCached: true
+  - title: "ATB Ventures focusing on digital identity, removing bias from artificial intelligence, creating key partnerships"
+    excerpt: "CALGARY, AB, Jan. 25, 2021 /CNW/ - ATB Ventures is helping Alberta foster innovation through advancements in digital identity and removing bias from artificial intelligence. ATB Financial's innovation lab is building, investing and partnering with ..."
+    publishedDateTime: 2021-01-25T19:05:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/n19306126/atb-ventures-focusing-on-digital-identity-removing-bias-from-artificial-intelligence-creating-key-"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19306126"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19306126"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 16
 
-secured: "8TIvdxwNk5oCd9GFcOZ66zVgkww6T/15flq7OdGhkUG92bDVk+NmDhEizyqyZp4pmD+Qke0QBCLiZCr5OO6c0SguXP6g+9WAdn2CMgQU2r1X1A8Mh9TGOjUcBRSRKHjMt7v/O1pLWjACERuMyj/Xqgu7KM8i7cqaih+HTJOwcPds7ApnaLEPNHI8GtV5fWdJRpaHGuRkYddPbXmqynntSsjubt3Grdz6gz2L1+hbCeYU4mbH9EOtbJNYsP/qdrxE9uhQm6E07yT0w4FlVyaIAvZjj5SdlXW8Ftw6zJh03HlAa/P9e/GjmNSgq9pU7+oGF0nYTEulNQ6JTgSp1OSm35q4ohXk1x4oBkoKZCUH8lk=;+kcILuNrd+Y1e9mt86swDw=="
+secured: "kfzH+tP2xWga+801EGE9JH0b0lWNSMsFntcpQtbXtzC21jf36HYpJJshordQ8v+6ev0jk2TaJC40rA1FykTIX+fS+dglrY03oC5gNgwHspcQ6tUuO263uqyKi+bbGJaLrWCnrmPsyTPrSKYE8IuI9oE3XYBAfLAtFfZAgpsMnCkl7uJslxWvrvAGtHvHzUt67xPtY7NAwYgPX2ko6SAEeG3TJAYT6be6B+DfBTILrKqlL3RLNzvfPtFe51W4IYJxz1gVvJmbIMEXHUgt2jihOL5ZVd7tqYMC0kORRDCGpJ1JTmIr6+N9LRuIpG+JSafzHOIaNttjyp9VGAFHdu/KLr17iTauNvpQlFnms/LizWY=;4yHOu7gZ5PGGCQmCEu/y6A=="
 ---
 

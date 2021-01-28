@@ -6,7 +6,7 @@ publishedDateTime: 2021-01-27T21:34:00Z
 originalUrl: "https://www.ciodive.com/news/artificial-intelligence-AI-business-case/594090/"
 webUrl: "https://www.ciodive.com/news/artificial-intelligence-AI-business-case/594090/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Finance
+  - AI Ethics
 
 images:
   - url: "https://www.ciodive.com/user_media/cache/9b/17/9b17c5b82cb234ee2ea35948cb74d813.jpg"

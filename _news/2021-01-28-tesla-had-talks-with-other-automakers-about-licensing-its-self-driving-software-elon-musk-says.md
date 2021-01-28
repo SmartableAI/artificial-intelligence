@@ -1,23 +1,34 @@
 ---
 category: news
-title: "ATB Ventures focusing on digital identity, removing bias from artificial intelligence, creating key partnerships"
-excerpt: "CALGARY, AB, Jan. 25, 2021 /CNW/ - ATB Ventures is helping Alberta foster innovation through advancements in digital identity and removing bias from artificial intelligence. ATB Financial's innovation lab is building, investing and partnering with ..."
-publishedDateTime: 2021-01-25T19:05:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/01/n19306126/atb-ventures-focusing-on-digital-identity-removing-bias-from-artificial-intelligence-creating-key-"
-webUrl: "https://www.benzinga.com/pressreleases/21/01/n19306126/atb-ventures-focusing-on-digital-identity-removing-bias-from-artificial-intelligence-creating-key-"
-ampWebUrl: "https://amp.benzinga.com/amp/content/19306126"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19306126"
+title: "Tesla had talks with other automakers about licensing its self-driving software, Elon Musk says"
+excerpt: "Tesla had “preliminary” discussions with other automakers about licensing its self-driving software, according to new comments by CEO Elon Musk. Tesla Licensing Software Today, Tesla released its Q4 2020 financial results and following the release,"
+publishedDateTime: 2021-01-28T01:46:00Z
+originalUrl: "https://electrek.co/2021/01/27/tesla-talks-automakers-licensing-self-driving-software-elon-musk/"
+webUrl: "https://electrek.co/2021/01/27/tesla-talks-automakers-licensing-self-driving-software-elon-musk/"
+ampWebUrl: "https://electrek.co/2021/01/27/tesla-talks-automakers-licensing-self-driving-software-elon-musk/amp/"
+cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/01/27/tesla-talks-automakers-licensing-self-driving-software-elon-musk/amp/"
 type: article
-quality: 16
+quality: 77
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Electrek
+  domain: electrek.co
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - AI in Autos
   - AI
+
+images:
+  - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2019/10/Tesla-Autopilot-hero-4-e1570845324247.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "Tesla partners with Samsung on new 5nm chip for full self-driving, report says"
@@ -51,22 +62,6 @@ related:
       - url: "https://cnet3.cbsistatic.com/img/gCKjWpaDOLArujU35HNJiNtgxgs=/2018/10/24/3e4c2a85-ffa1-4600-ab59-e8af96931af4/tesla-logo-ogi.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Tesla had talks with other automakers about licensing its self-driving software, Elon Musk says"
-    excerpt: "Tesla had “preliminary” discussions with other automakers about licensing its self-driving software, according to new comments by CEO Elon Musk. Tesla Licensing Software Today, Tesla released its Q4 2020 financial results and following the release,"
-    publishedDateTime: 2021-01-28T01:46:00Z
-    webUrl: "https://electrek.co/2021/01/27/tesla-talks-automakers-licensing-self-driving-software-elon-musk/"
-    ampWebUrl: "https://electrek.co/2021/01/27/tesla-talks-automakers-licensing-self-driving-software-elon-musk/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/01/27/tesla-talks-automakers-licensing-self-driving-software-elon-musk/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 77
-    images:
-      - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2019/10/Tesla-Autopilot-hero-4-e1570845324247.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Tesla Reports First Yearly Profit, Musk Again Promises Full Self-Driving"
     excerpt: "It's worth noting that the company missed the same FSD target in 2019 and 2020, but Tesla continues to work toward getting self-driving technology on the market."
@@ -114,7 +109,18 @@ related:
         width: 745
         height: 355
         isCached: true
+  - title: "ATB Ventures focusing on digital identity, removing bias from artificial intelligence, creating key partnerships"
+    excerpt: "CALGARY, AB, Jan. 25, 2021 /CNW/ - ATB Ventures is helping Alberta foster innovation through advancements in digital identity and removing bias from artificial intelligence. ATB Financial's innovation lab is building, investing and partnering with ..."
+    publishedDateTime: 2021-01-25T19:05:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/n19306126/atb-ventures-focusing-on-digital-identity-removing-bias-from-artificial-intelligence-creating-key-"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19306126"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19306126"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 16
 
-secured: "8TIvdxwNk5oCd9GFcOZ66zVgkww6T/15flq7OdGhkUG92bDVk+NmDhEizyqyZp4pmD+Qke0QBCLiZCr5OO6c0SguXP6g+9WAdn2CMgQU2r1X1A8Mh9TGOjUcBRSRKHjMt7v/O1pLWjACERuMyj/Xqgu7KM8i7cqaih+HTJOwcPds7ApnaLEPNHI8GtV5fWdJRpaHGuRkYddPbXmqynntSsjubt3Grdz6gz2L1+hbCeYU4mbH9EOtbJNYsP/qdrxE9uhQm6E07yT0w4FlVyaIAvZjj5SdlXW8Ftw6zJh03HlAa/P9e/GjmNSgq9pU7+oGF0nYTEulNQ6JTgSp1OSm35q4ohXk1x4oBkoKZCUH8lk=;+kcILuNrd+Y1e9mt86swDw=="
+secured: "WLKDHjoDOE2WpzfbAwJMYs3uQU/1Hv9NT0pVpoIktDyupAsbTlSnrEF76ZPTLjxQd2kQFufPZI649sxv8i6u42RwCLx29V9NPSN+GzkgjCjMs9v6ECS/rWziXaMgbWdrEwhUvzjCm0fFpsL5xGW9U85tqczMsk7cFP8UAQPoyqdCF/anz9rKjiMhA61Y8ictypv1NAwCooY1bFysMTv51PV+ZB5j68pHWep0F80DqzTK0tpvwQZ2S5Wf6ht5xTuQj0hMH2yhspOrWMDH92x1RL+DFfWVZEpKFpeGT2cg8zekzGqRim+LN85m2nxCsCnQCDJqAucF5lSnMiLSSvfF4d/DWG0DQiwtMLvuCjwC6ZQ=;SItZt0wM4RzgpJ1nHNWbVA=="
 ---
 

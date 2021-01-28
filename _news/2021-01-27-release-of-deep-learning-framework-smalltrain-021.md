@@ -1,30 +1,30 @@
 ---
 category: news
 title: "Release of Deep Learning Framework \"SmallTrain 0.2.1\""
-excerpt: "Small Train version 0.2.1. This release supports the Jupyter Notebook interface. With SmallTrain, you can quickly and efficiently build models that enable you to operate quality services while minimizing your data science background."
-publishedDateTime: 2021-01-27T13:49:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/release-of-deep-learning-framework-smalltrain-0-2-1-1030009825"
-webUrl: "https://markets.businessinsider.com/news/stocks/release-of-deep-learning-framework-smalltrain-0-2-1-1030009825"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/release-of-deep-learning-framework-smalltrain-0-2-1-1030009825"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/release-of-deep-learning-framework-smalltrain-0-2-1-1030009825"
+excerpt: "Geek Guild Co., Ltd. has released Small Train version 0.2.1. This release supports the Jupyter Notebook interface. With SmallTrain, you"
+publishedDateTime: 2021-01-27T13:38:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/release-of-deep-learning-framework-smalltrain-0-2-1-301216107.html"
+webUrl: "https://www.prnewswire.com/news-releases/release-of-deep-learning-framework-smalltrain-0-2-1-301216107.html"
 type: article
-quality: 86
-heat: 86
-published: true
+quality: 56
+heat: 56
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Google AI
   - AI
   - Machine Learning
 
-secured: "B6fY8dK1tb/rqrEPADdIqZ8jb94G/Ylc9DVKCTMDrTgb3lCmDwsEr9hFzH0UTCd6IAubcFl3FWbhSqbuTUHBdMtiXvA9/Hn6/FMTvKzVpB0CKeUzena9DSY48vJRaUNwBaCBn8dIHxVgKNAbGllV/+8cZFIhLdOyKzkswkY6bgN9LRzmSAumyTb0nCICkyYcslIupAusY2bdC29TqjFSAbyJpa9p5ovFOM+sMGCQPSnJPEMI9EPFB1YzbenWjmzyO+Ngf2YQngih211f7ZKbM2s4jlsViVPxSgTRbqDGgflM58TXiaSGZ1qISyKK/8CUfvqcMubDclmb6yJv2Hm5IUoGNvtfAZevbnd8/YPnI8A=;+R1ryuuBDVU4/RuwJJu2hg=="
+images:
+  - url: "https://mma.prnewswire.com/media/1427013/1.jpg?p=facebook"
+    width: 2700
+    height: 1414
+    isCached: true
+
+secured: "CCP6XUKHxMqEfNgCD4s4ReVl4g2Ynxs8NZhga1AIoh9dGZkFIuhQGrH/bQFJcdhkF/JaKCMwIJepaFfRO7FgQQaQUPT3n7wTMaAWnGRBvqQ/B4p4mJ5kv6YAOq1rk35pwp/2dd92c1/lZQZ4x9Cg3xxjKljCwEuheArqC+k5aitj8roHShvhQnjMiUwPummnByrsomyuyR9wMeLs8TnqJWgOZghLth4/PO6OSNd16hDMUvJuCoCqJdSvQjuwhdSSODwQ2sdgPaU1GN3CEDCxjx/SuzATQiD3np/z11wlWPG9R8U8AxoBQQSMC3FoO+MO9x6yikSRuwJPhbYm2a7KzktwEZ+uFuQ9EtEGBaWMuxQ=;2g1FYBlWib2pcDf3ukqB4Q=="
 ---
 
