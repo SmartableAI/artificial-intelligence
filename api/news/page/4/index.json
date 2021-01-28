@@ -2,6 +2,153 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-26-why-the-oecd-wants-to-calculate-the-ai-compute-needs-of-national-governments.md",
+      "title": "Why the OECD wants to calculate the AI compute needs of national governments",
+      "excerpt": "The OECD is working to help countries better understand their AI compute demand needs and prepare for the future.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/26/why-the-oecd-wants-to-calculate-the-ai-compute-needs-of-national-governments/",
+      "originalUrl": "https://venturebeat.com/2021/01/26/why-the-oecd-wants-to-calculate-the-ai-compute-needs-of-national-governments/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/oecd.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/26/why-the-oecd-wants-to-calculate-the-ai-compute-needs-of-national-governments/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/26/why-the-oecd-wants-to-calculate-the-ai-compute-needs-of-national-governments/amp/",
+      "publishedDateTime": "2021-01-26T06:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-container-approach-to-boosting-gpu-utilization-secures-bigger-backing.md",
+      "title": "Container Approach to Boosting GPU Utilization Secures Bigger Backing",
+      "excerpt": "Getting peak utilization out of GPU farms in the age of AI will be the unending quest. From being able to partition a GPU into small fractions to scaling",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2021/01/26/container-approach-to-boosting-gpu-utilization-secures-bigger-backing/",
+      "originalUrl": "https://www.nextplatform.com/2021/01/26/container-approach-to-boosting-gpu-utilization-secures-bigger-backing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/ab_traffic_smart.jpg",
+          "width": 1300,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2021/01/26/container-approach-to-boosting-gpu-utilization-secures-bigger-backing/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/01/26/container-approach-to-boosting-gpu-utilization-secures-bigger-backing/amp/",
+      "publishedDateTime": "2021-01-26T06:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-runai-raises-30m-series-b-for-its-ai-compute-platform.md",
+      "title": "Run:AI raises $30M Series B for its AI compute platform",
+      "excerpt": "Run:AI, a Tel Aviv-based company that helps businesses orchestrate and optimize their AI compute infrastructure, today announced that it has raised a $30 million Series B round. The new round was led by Insight Partners,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/01/26/runai-raises-30m-series-b-for-its-ai-compute-platform/",
+      "originalUrl": "https://techcrunch.com/2021/01/26/runai-raises-30m-series-b-for-its-ai-compute-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/01/RunAi-company-image2-01.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/01/26/runai-raises-30m-series-b-for-its-ai-compute-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/26/runai-raises-30m-series-b-for-its-ai-compute-platform/amp/",
+      "publishedDateTime": "2021-01-26T06:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-artificial-intelligence-at-the-service-of-talent-selection.md",
       "title": "Artificial intelligence at the service of talent selection",
       "excerpt": "They present Hitch, the startup that through artificial intelligence and machine learning helps companies find the talent most compatible with their organizational culture.",
@@ -1104,163 +1251,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-gartner-the-future-of-ai-is-not-as-rosy-as-some-might-think.md",
-      "title": "Gartner: The future of AI is not as rosy as some might think",
-      "excerpt": "A Gartner report predicts that the second-order consequences of widespread AI will have massive societal impacts, to the point of making us unsure if and when we can trust our own eyes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/gartner-the-future-of-ai-is-not-as-rosy-as-some-might-think/",
-      "originalUrl": "https://www.techrepublic.com/article/gartner-the-future-of-ai-is-not-as-rosy-as-some-might-think/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2019/08/15/0bc8e7f5-39d1-49a8-be07-f3db2e40f43b/resize/1200x/68fd21b9b4138bea071e9d1c1e4253f2/istock-1135819437.jpg",
-          "width": 1200,
-          "height": 729,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/gartner-the-future-of-ai-is-not-as-rosy-as-some-might-think/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/gartner-the-future-of-ai-is-not-as-rosy-as-some-might-think/",
-      "publishedDateTime": "2021-01-25T12:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-learning-with-and-about-ai-technology.md",
-      "title": "Learning with — and about — AI technology",
-      "excerpt": "MIT Media Lab Personal Robots group head Cynthia Breazeal joined MIT Education Arcade Director Eric Klopfer for a conversation about AI's role in K-12 education as part of a new webinar series from MIT Open Learning.",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2021/learning-and-about-ai-technology-0125",
-      "originalUrl": "https://news.mit.edu/2021/learning-and-about-ai-technology-0125",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202101/child-homework.png",
-          "width": 800,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-25T11:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Massachusetts Institute of Technology",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-computer-vision-researchers-develop-city-scale-smart-tracking-platform.md",
-      "title": "Computer vision researchers develop city-scale smart tracking platform",
-      "excerpt": "Tracking a vehicle or person moving between multiple city-scale locations will become considerably easier thanks to AI camera innovations.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/25/computer-vision-researchers-develop-city-scale-smart-tracking-platform/",
-      "originalUrl": "https://venturebeat.com/2021/01/25/computer-vision-researchers-develop-city-scale-smart-tracking-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/anveshak.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/25/computer-vision-researchers-develop-city-scale-smart-tracking-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/25/computer-vision-researchers-develop-city-scale-smart-tracking-platform/amp/",
-      "publishedDateTime": "2021-01-25T11:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

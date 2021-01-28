@@ -2,6 +2,241 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-12-30-extracting-buildings-and-roads-from-aws-open-data-using-amazon-sagemaker.md",
+      "title": "Extracting buildings and roads from AWS Open Data using Amazon SageMaker",
+      "excerpt": "Sharing data and computing in the cloud allows data users to focus on data analysis rather than data access. Open Data on AWS&nbsp;helps you discover and share public open datasets in the cloud. The&nbsp;Registry of Open Data on AWS&nbsp;hosts a large amount of public open data. The datasets range from",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/extracting-buildings-and-roads-from-aws-open-data-using-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/extracting-buildings-and-roads-from-aws-open-data-using-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/02/ML-1363-1.jpg",
+          "width": 800,
+          "height": 516,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-30T14:32:53-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-31-the-obligatory-artificial-intelligence-year-end-article-2020-edition.md",
+      "title": "The Obligatory Artificial Intelligence Year End Article, 2020 Edition",
+      "excerpt": "While it has had a major impact on many areas of society, I don’t feel that it has changed the artificial intelligence (AI ... Departments are beginning to look at the issue. As healthcare has been an early adopter of AI, especially in radiology ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2021/12/30/the-obligatory-artificial-intelligence-year-end-article-2020-edition/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2021/12/30/the-obligatory-artificial-intelligence-year-end-article-2020-edition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D876%26cropY1%3D24%26cropY2%3D517",
+          "width": 876,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2021/12/30/the-obligatory-artificial-intelligence-year-end-article-2020-edition/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/12/30/the-obligatory-artificial-intelligence-year-end-article-2020-edition/amp/",
+      "publishedDateTime": "2020-12-30T10:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-31-black-man-files-lawsuit-after-being-jailed-due-to-error-in-facial-recognition-technology.md",
+      "title": "Black Man Files Lawsuit After Being Jailed Due to Error in Facial Recognition Technology",
+      "excerpt": "A Black man in New Jersey has filed a lawsuit against police and county prosecutors after a misidentification by facial recognition technology resulted in him being jailed for 10 days.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theroot.com/black-man-files-lawsuit-after-being-jailed-due-to-error-1845967661",
+      "originalUrl": "https://www.theroot.com/black-man-files-lawsuit-after-being-jailed-due-to-error-1845967661",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/zteeev6ysq3g5brz0w6r.jpg",
+          "width": 800,
+          "height": 484,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theroot.com/black-man-files-lawsuit-after-being-jailed-due-to-error-1845967661/amp",
+      "cdnAmpWebUrl": "https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/black-man-files-lawsuit-after-being-jailed-due-to-error-1845967661/amp",
+      "publishedDateTime": "2020-12-30T10:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Root",
+        "domain": "theroot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-12-31-3-machine-learning-stocks-for-a-profitable-2021-portfolio.md",
+      "title": "3 Machine Learning Stocks for a Profitable 2021 Portfolio",
+      "excerpt": "Machine Learning (“ML”) is being integrated into everything, starting from business needs to consumer needs in the Artificial Intelligence ... on the back of its Waymo vehicles, which are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-machine-learning-stocks-for-a-profitable-2021-portfolio-2020-12-30",
+      "originalUrl": "https://www.nasdaq.com/articles/3-machine-learning-stocks-for-a-profitable-2021-portfolio-2020-12-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/3-machine-learning-stocks-for-a-profitable-2021-portfolio-2020-12-30?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-machine-learning-stocks-for-a-profitable-2021-portfolio-2020-12-30?amp",
+      "publishedDateTime": "2020-12-30T08:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-12-31-chinas-adaptive-robot-maker-flexiv-raises-over-100-million.md",
+      "title": "China’s adaptive robot maker Flexiv raises over $100 million",
+      "excerpt": "As businesses around the world look to automate production lines and supply chains, companies making the robots are attracting great investor interest. The latest to get funded is Flexiv, which closed a Series B round north of $100 million from investors including China’s on-demand services",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/12/30/flexiv-100-million-series-b/",
+      "originalUrl": "https://techcrunch.com/2020/12/30/flexiv-100-million-series-b/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/12/flexiv-2-e1609297096272.jpg?w=1024",
+          "width": 1024,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/12/30/flexiv-100-million-series-b/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/30/flexiv-100-million-series-b/amp/",
+      "publishedDateTime": "2020-12-30T08:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-30-the-immense-potential-and-challenges-of-multimodal-ai.md",
       "title": "The immense potential and challenges of multimodal AI",
       "excerpt": "Multimodal models -- models that understand the relationships between images, text, and more -- could be the next frontier in AI.",
@@ -963,230 +1198,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-30-why-stateful-machine-learning-could-help-cybersecurity-efforts.md",
-      "title": "Why stateful machine learning could help cybersecurity efforts",
-      "excerpt": "AI and machine learning have the potential to take a bite out of cybercrime, but let's not forget the human factor.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/",
-      "originalUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2018/07/25/8ae5653e-c9ca-4bf4-9a38-bb359e711d89/resize/1200x/621a2dea264eb08476ac63b000f64dd2/ai-hacker-6.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/why-stateful-machine-learning-could-help-cybersecurity-efforts/",
-      "publishedDateTime": "2020-12-29T13:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-30-man-uses-brain-controlled-prosthetic-robot-arms-to-eat-a-twinkie.md",
-      "title": "Man uses brain-controlled prosthetic robot arms to eat a Twinkie",
-      "excerpt": "A quadriplegic man, who suffered an accident in his teens that left him with minimal movement in his hands, used two prosthetic robot arms to feed himself.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/news/brain-controlled-robot-arms-twinkie/",
-      "originalUrl": "https://www.digitaltrends.com/news/brain-controlled-robot-arms-twinkie/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/news/brain-controlled-robot-arms-twinkie/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/brain-controlled-robot-arms-twinkie/?amp",
-      "publishedDateTime": "2020-12-29T12:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-30-teslas-musk-ponders-in-car-gaming-opportunities-for-the-driverless-future.md",
-      "title": "Tesla’s Musk Ponders In-Car Gaming Opportunities For The Driverless Future",
-      "excerpt": "Envisioning an autonomous car that you can play games in may be forward looking, but that has never stopped Tesla or others from pondering the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/innovation/2020/teslas-musk-ponders-in-car-gaming-opportunities-for-the-driverless-future/",
-      "originalUrl": "https://www.pymnts.com/innovation/2020/teslas-musk-ponders-in-car-gaming-opportunities-for-the-driverless-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2020/12/Tesla-Musk-autonomous-vehicles-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/innovation/2020/teslas-musk-ponders-in-car-gaming-opportunities-for-the-driverless-future/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/innovation/2020/teslas-musk-ponders-in-car-gaming-opportunities-for-the-driverless-future/amp/",
-      "publishedDateTime": "2020-12-29T12:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-30-analysts-see-more-gains-for-chip-stocks-here-are-their-top-picks.md",
-      "title": "Analysts See More Gains for Chip Stocks. Here Are Their Top Picks.",
-      "excerpt": "Chip stocks have had a strong year despite the Covid-19 pandemic. Analysts at Mizuho Securities think there are more gains to come, powered by growth in next generation smartphone technology, a return to strength among auto makers,",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/here-are-the-top-semi-stocks-for-2021-according-to-one-analyst-51609200436",
-      "originalUrl": "https://www.barrons.com/articles/here-are-the-top-semi-stocks-for-2021-according-to-one-analyst-51609200436",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-278683/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/here-are-the-top-semi-stocks-for-2021-according-to-one-analyst-51609200436",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/here-are-the-top-semi-stocks-for-2021-according-to-one-analyst-51609200436",
-      "publishedDateTime": "2020-12-29T10:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-30-the-marketplace-is-demanding-ethical-ai.md",
-      "title": "The Marketplace Is Demanding Ethical AI",
-      "excerpt": "Under the right conditions, AI can be highly beneficial and a force for good. Under the wrong conditions, however, AI can lead to widespread discrimination and reinforce existing socioeconomic disparities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/the-marketplace-is-demanding-ethical-ai-51609102357?refsec=economy-and-policy",
-      "originalUrl": "https://www.barrons.com/articles/the-marketplace-is-demanding-ethical-ai-51609102357?refsec=economy-and-policy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-277416/social",
-          "width": 1279,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/the-marketplace-is-demanding-ethical-ai-51609102357",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/the-marketplace-is-demanding-ethical-ai-51609102357",
-      "publishedDateTime": "2020-12-29T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

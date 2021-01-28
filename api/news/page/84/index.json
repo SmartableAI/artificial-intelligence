@@ -2,6 +2,239 @@
   "page": 84,
   "value": [
     {
+      "path": "_news/2020-11-21-us-takes-first-step-toward-future-self-driving-car-regulations.md",
+      "title": "US takes first step toward future self-driving car regulations",
+      "excerpt": "We are long, long time away from widespread use of self-driving cars, though governments around the world are trying to get ahead of the game with regulations. In the US, any steps have been minimal at best,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/us-takes-first-step-toward-future-self-driving-car-regulations/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/us-takes-first-step-toward-future-self-driving-car-regulations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/pzhP7bYITyBs9nMo0gCIMXCaohg=/2020/05/08/dbd312c6-315f-43d5-833e-c52d325f7c05/ogi-waymo.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/us-takes-first-step-toward-future-self-driving-car-regulations/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/us-takes-first-step-toward-future-self-driving-car-regulations/",
+      "publishedDateTime": "2020-11-20T09:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-21-image-recognition-ai-camera-market.md",
+      "title": "Image Recognition AI Camera Market",
+      "excerpt": "Facial Recognition, Object Recognition, Pattern Recognition), Application (Scanning and Imaging, Security and Surveillance, Image Search, Augmented Reality and Others), Deployment (On Premises ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2192021/image-recognition-ai-camera-market-2020-industry-demand-share",
+      "originalUrl": "https://www.openpr.com/news/2192021/image-recognition-ai-camera-market-2020-industry-demand-share",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/b/Tb20238033_g.jpg",
+          "width": 651,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2192021/image-recognition-ai-camera-market-2020-industry-demand-share",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2192021/image-recognition-ai-camera-market-2020-industry-demand-share",
+      "publishedDateTime": "2020-11-20T09:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-music-from-the-heart-with-an-ai-assist.md",
+      "title": "Music from the heart, with an AI assist",
+      "excerpt": "The next time you hear a popular song on the radio, listen to the beat behind the lyrics. Usually, a high-powered production team came up with it—but in the future, that beat could be created with help from artificial intelligence. That’s what Googler MJ Jacob predicts, as he combines his job as an engineer",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/inside-google/googlers/hip-hop-artificial-intelligence/",
+      "originalUrl": "https://blog.google/inside-google/googlers/hip-hop-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/mj-jacob.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/inside-google/googlers/hip-hop-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/inside-google/googlers/hip-hop-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-11-20T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-21-fintech-and-their-etfs-ready-to-decimate-the-finance-industry.md",
+      "title": "Fintech and Their ETFs Ready to Decimate the Finance Industry",
+      "excerpt": "I n the lexicon of disruptive technologies, fintech is just getting started, indicating there's still attractive long-term growth prospects with the ARK Fintech Innovation ETF (NYSEARCA: ARKF). ARKF member firms are companies that are powered by innovations and are working to disintermediate or bypass the current financial markets and challenge traditional institutions by offering new solutions that are better,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/fintech-and-their-etfs-ready-to-decimate-the-finance-industry-2020-11-20",
+      "originalUrl": "https://www.nasdaq.com/articles/fintech-and-their-etfs-ready-to-decimate-the-finance-industry-2020-11-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/fintech-and-their-etfs-ready-to-decimate-the-finance-industry-2020-11-20?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/fintech-and-their-etfs-ready-to-decimate-the-finance-industry-2020-11-20?amp",
+      "publishedDateTime": "2020-11-20T08:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-21-time-may-be-right-for-professionalizing-artificial-intelligence-practices.md",
+      "title": "Time may be right for professionalizing artificial intelligence practices",
+      "excerpt": "\"It's unlikely that you'd trust a 'citizen architect' to build your home in the same way that you wouldn't visit a 'citizen doctor' when you get sick.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/time-to-professionalize-artificial-intelligence/",
+      "originalUrl": "https://www.zdnet.com/article/time-to-professionalize-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/11/20/d87e3757-4719-4322-b126-843968a4b3f3/airport-chicago-ohare-cropped-nov-2015-photo-by-joe-mckendrick.jpg",
+          "width": 480,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/time-to-professionalize-artificial-intelligence/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/time-to-professionalize-artificial-intelligence/",
+      "publishedDateTime": "2020-11-20T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-11-21-rebooting-ai-deep-learning-meet-knowledge-graphs.md",
       "title": "Rebooting AI: Deep learning, meet knowledge graphs",
       "excerpt": "Gary Marcus, a prominent figure in AI, is on a mission to instill a breath of fresh air to a discipline he sees as in danger of stagnating. Knowledge graphs, the 20-year old hype, may have something to offer there.",
@@ -938,249 +1171,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-this-robot-makes-you-boba-tea-at-a-fully-automated-bar-because-of-course-thats-a-thing.md",
-      "title": "This Robot Makes You Boba Tea at a Fully Automated Bar Because Of Course That's a Thing",
-      "excerpt": "I’ll admit that I wasn’t the biggest fan of boba tea even before the pandemic brought my social life to a grinding halt. Tapioca pearls just taste gross to me, as does bacon, avocado, and a slew of other oft-hyped food that the internet goes crazy over,",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/this-robot-makes-you-boba-tea-at-a-fully-automated-bar-1845721388",
-      "originalUrl": "https://gizmodo.com/this-robot-makes-you-boba-tea-at-a-fully-automated-bar-1845721388",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/obl0feili4mg3ytimcml.jpg",
-          "width": 800,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/this-robot-makes-you-boba-tea-at-a-fully-automated-bar-1845721388/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/this-robot-makes-you-boba-tea-at-a-fully-automated-bar-1845721388/amp",
-      "publishedDateTime": "2020-11-19T19:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-new-apple-m1-macbook-pro-trounces-intel-based-predecessor-on-ai-training.md",
-      "title": "New Apple M1 MacBook Pro trounces Intel-based predecessor on AI training",
-      "excerpt": "Apple has released a new version of Google's TensorFlow v2.4 machine learning library that’s optimized for its new M1-powered Macs. The new M1-optimized release leverages Apple’s new ML ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/apple-m1-macs-will-make-training-ai-much-faster",
-      "originalUrl": "https://www.techradar.com/news/apple-m1-macs-will-make-training-ai-much-faster",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/SqqGSo29Dawg8RLk99zkXG-1200-80.jpg",
-          "width": 980,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/apple-m1-macs-will-make-training-ai-much-faster",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/apple-m1-macs-will-make-training-ai-much-faster",
-      "publishedDateTime": "2020-11-19T19:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-artificial-intelligence-and-machine-learning-course.md",
-      "title": "Artificial intelligence and machine learning course",
-      "excerpt": "Global higher-level educational platform Careerera.com, has announced the launch of a new certification programme — Post Graduate Program in Artificial Intelligence & Machine Learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tribuneindia.com/news/jobs&careers/artificial-intelligence-and-machine-learning-course-172710",
-      "originalUrl": "https://www.tribuneindia.com/news/jobs&careers/artificial-intelligence-and-machine-learning-course-172710",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cmsimages.tribuneindia.com/gallary_content/2020/11/Desk/2020_11$thumbimg_1437830715.jpg",
-          "width": 330,
-          "height": 220,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.tribuneindia.com/news/jobs&careers/artificial-intelligence-and-machine-learning-course-172710",
-      "cdnAmpWebUrl": "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/jobs&careers/artificial-intelligence-and-machine-learning-course-172710",
-      "publishedDateTime": "2020-11-19T17:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Tribune",
-        "domain": "tribuneindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-automating-business-processes-with-machine-learning-in-the-covid-19-pandemic.md",
-      "title": "Automating business processes with machine learning in the COVID-19 pandemic",
-      "excerpt": "COVID-19 has changed our world significantly. All of this change has been almost instantaneous, forcing companies to pivot quickly and find new ways to operate. Automation is playing an increasingly important role to help companies adjust. The ability to automate business processes with machine learning",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automating-business-processes-with-machine-learning-in-the-covid-19-pandemic/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automating-business-processes-with-machine-learning-in-the-covid-19-pandemic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-19T16:56:12-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-in-2021-it-leaders-will-contend-with-back-to-work-tech-ai-and-zero-trust.md",
-      "title": "In 2021, IT Leaders Will Contend With Back-to-Work Tech, AI and Zero-Trust",
-      "excerpt": "Back-to-work technology: No one knows when the COVID-19 pandemic will end, but more businesses were reopening their doors to employees and customers in the fall of 2020, and that’s set to accelerate next year.",
-      "sourceUrl": null,
-      "webUrl": "https://biztechmagazine.com/article/2020/11/2021-it-leaders-will-contend-back-work-tech-ai-and-zero-trust",
-      "originalUrl": "https://biztechmagazine.com/article/2020/11/2021-it-leaders-will-contend-back-work-tech-ai-and-zero-trust",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202011/BTQ420_Trends2021_hero1.jpg?itok=w04SEQqS",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://biztechmagazine.com/article/2020/11/2021-it-leaders-will-contend-back-work-tech-ai-and-zero-trust?amp",
-      "cdnAmpWebUrl": "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2020/11/2021-it-leaders-will-contend-back-work-tech-ai-and-zero-trust?amp",
-      "publishedDateTime": "2020-11-19T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BizTech",
-        "domain": "biztechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

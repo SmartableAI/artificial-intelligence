@@ -2,6 +2,246 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-01-19-providing-voice-ai-solutions-addressing-language-barrier.md",
+      "title": "Providing Voice AI Solutions & Addressing Language Barrier",
+      "excerpt": "Vernacular.ai has recently raised $5.1 million in its Series A round from Kalaari Capital and Exfinity Ventures",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/363655",
+      "originalUrl": "https://www.entrepreneur.com/article/363655",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1611047508-SourabhGupta-Co-founderandCEOVernacularai.JPG",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-19T01:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-us-lawmakers-aims-to-curtail-face-recognition.md",
+      "title": "US lawmakers aims to curtail face recognition",
+      "excerpt": "Microsoft and Amazon halted facial recognition sales to police this month following nationwide protests that have demanded an end to law enforcement tactics that unfairly target African Americans and other minorities.",
+      "sourceUrl": null,
+      "webUrl": "https://tribune.com.pk/story/2280538/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers",
+      "originalUrl": "https://tribune.com.pk/story/2280538/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": " https://i.tribune.com.pk/media/images/9231611038223-0/9231611038223-0.jpg  ",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tribune.com.pk/story/2280538/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers?amp=1",
+      "cdnAmpWebUrl": "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2280538/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers?amp=1",
+      "publishedDateTime": "2021-01-19T00:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Express Tribune",
+        "domain": "tribune.com.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-prosus-bets-on-ai-to-help-reshape-indias-350-billion-farm-industry.md",
+      "title": "Prosus Bets on AI to Help Reshape India’s $350 Billion Farm Industry",
+      "excerpt": "Prosus NV is investing in agritech company DeHaat in a bet on India’s $350 billion farming industry. The Dutch e-commerce group with assets all round the globe led a Series C funding round of $30 million that DeHaat will use to hire more staff,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-01-19/prosus-backs-dehaat-in-bet-on-india-s-350-billion-farm-sector",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-01-19/prosus-backs-dehaat-in-bet-on-india-s-350-billion-farm-sector",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRIiWt3lRAGI/v1/360x-1.jpg",
+          "width": 360,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2021-01-19/prosus-backs-dehaat-in-bet-on-india-s-350-billion-farm-sector",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2021-01-19/prosus-backs-dehaat-in-bet-on-india-s-350-billion-farm-sector",
+      "publishedDateTime": "2021-01-18T23:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers.md",
+      "title": "U.S. lawmakers aim to curtail face recognition even as the technology IDs Capitol attackers",
+      "excerpt": "U.S. lawmakers are moving ahead with efforts to ban facial recognition software even as the technology helps identify supporters of President Donald Trump who ransacked their workplace and forced them to evacuate this month.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-trump-protests-facialrecognition/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers-idUSL1N2JS01M",
+      "originalUrl": "https://www.reuters.com/article/usa-trump-protests-facialrecognition/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers-idUSL1N2JS01M",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548297838&r=LYNXMPEH0H1DG&w=800",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-18T20:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-want-to-dodge-ais-prying-eyes.md",
+      "title": "Want to dodge AI’s prying eyes?",
+      "excerpt": "Then we used a free version of Amazon Web Services’ facial recognition software, Rekognition, to compare the photos to a reference. The results provide striking insights into what today’s facial recognition technology is capable of: Different beards ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.eu/article/how-to-evade-ai-facial-recognition-surveillance/",
+      "originalUrl": "https://www.politico.eu/article/how-to-evade-ai-facial-recognition-surveillance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.politico.eu/wp-content/uploads/2020/03/janoschpanel-1200x628.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.eu/article/how-to-evade-ai-facial-recognition-surveillance/amp/",
+      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/how-to-evade-ai-facial-recognition-surveillance/amp/",
+      "publishedDateTime": "2021-01-18T20:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "POLITICO",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-19-cloudcommerce-goes-live-with-artificial-intelligence-ai-advertising-venture.md",
       "title": "CloudCommerce Goes Live with Artificial Intelligence (AI) Advertising Venture",
       "excerpt": "( CLWD ), a leading provider of digital advertising solutions, today announced that it has officially launched aiAdvertising, Inc., its wholly owned subsidiary focused on using artificial intelligence (AI) to enhance its successful SWARM solution with the goal of cutting advertising costs by as much as 50%.",
@@ -935,237 +1175,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-artificial-intelligence-likely-to-replace-humans-in-cybersecurity-space-by-2030.md",
-      "title": "Artificial Intelligence likely to replace humans in cybersecurity space by 2030",
-      "excerpt": "New Delhi: As Artificial Intelligence (AI) becomes all-pervasive, a new report has forecast that technology would replace humans by 2031 in the field of cybersecurity, as hackers use more sophisticated tools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freepressjournal.in/technology/artificial-intelligence-likely-to-replace-humans-in-cybersecurity-space-by-2030",
-      "originalUrl": "https://www.freepressjournal.in/technology/artificial-intelligence-likely-to-replace-humans-in-cybersecurity-space-by-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gumlet.assettype.com/freepressjournal/2021-01/3b2dd1c1-ba9f-430b-98c0-bd68bdfa8c0c/etc_lead_jan_17.jpg",
-          "width": 760,
-          "height": 507,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.freepressjournal.in/article/technology/artificial-intelligence-likely-to-replace-humans-in-cybersecurity-space-by-2030/9626ec89-6519-4310-9bc2-bfc07ca58e36",
-      "cdnAmpWebUrl": "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/technology/artificial-intelligence-likely-to-replace-humans-in-cybersecurity-space-by-2030/9626ec89-6519-4310-9bc2-bfc07ca58e36",
-      "publishedDateTime": "2021-01-17T09:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Free Press Journal",
-        "domain": "freepressjournal.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-how-data-and-ai-can-help-create-a-mobility-renaissance.md",
-      "title": "How Data And AI Can Help Create A Mobility Renaissance",
-      "excerpt": "Evangelos Simoudis’ latest book Transportation Transformation: How Autonomous Mobility Will Fuel New Value Chains, meticulously presents the case for redefining mobility value chains globally.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2021/01/17/how-data-and-ai-can-help-create-a-mobility-renaissance/",
-      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2021/01/17/how-data-and-ai-can-help-create-a-mobility-renaissance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60045ed8592ed21731f31ce5%2F0x0.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2021/01/17/how-data-and-ai-can-help-create-a-mobility-renaissance/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2021/01/17/how-data-and-ai-can-help-create-a-mobility-renaissance/amp/",
-      "publishedDateTime": "2021-01-17T08:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-17-bidens-inaugural-speech-to-plead-for-comity-in-wake-of-riot.md",
-      "title": "Biden’s Inaugural Speech to Plead for Comity in Wake of Riot",
-      "excerpt": "“There’s a recognition that things aren’t great right now, but there’s definitely hope that they’re going to get better.” Teper said not to expect the speech to dwell on the past. There’s “no way” Biden would invoke “American carnage ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-01-17/biden-s-inaugural-speech-to-plead-for-comity-in-wake-of-riot",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-01-17/biden-s-inaugural-speech-to-plead-for-comity-in-wake-of-riot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iPAY_sBCoYTY/v1/360x-1.jpg",
-          "width": 360,
-          "height": 239,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2021-01-17/biden-s-inaugural-speech-to-plead-for-comity-in-wake-of-riot",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2021-01-17/biden-s-inaugural-speech-to-plead-for-comity-in-wake-of-riot",
-      "publishedDateTime": "2021-01-17T04:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-17-cochlear-implants-aid-speech-recognition-in-most-adults.md",
-      "title": "Cochlear Implants Aid Speech Recognition in Most Adults",
-      "excerpt": "THURSDAY, Jan. 14, 2021 (HealthDay News) — Most adult patients have statistically significant postoperative improvements in speech recognition after receiving cochlear implants, according to a study published online Jan. 7 in JAMA Otolaryngology-Head ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.physiciansweekly.com/cochlear-implants-aid-speech-recognition-in-most-adults/",
-      "originalUrl": "https://www.physiciansweekly.com/cochlear-implants-aid-speech-recognition-in-most-adults/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.physiciansweekly.com/wp-content/uploads/2021/01/image-131.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.physiciansweekly.com/cochlear-implants-aid-speech-recognition-in-most-adults/amp/",
-      "cdnAmpWebUrl": "https://www-physiciansweekly-com.cdn.ampproject.org/c/s/www.physiciansweekly.com/cochlear-implants-aid-speech-recognition-in-most-adults/amp/",
-      "publishedDateTime": "2021-01-17T02:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Too Old to Operate",
-        "domain": "physiciansweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-17-powered-by-microsoft-azure-and-developed-by-corover-irctcs-ai-chatbot-askdisha-enhances-user-experience.md",
-      "title": "Powered by Microsoft Azure and developed by CoRover, IRCTC’s AI chatbot AskDISHA enhances user experience",
-      "excerpt": "Powered by Microsoft Azure, Indian Railway Catering and Tourism Corporation’s (IRCTC) AI-powered chatbot AskDISHA has helped improve satisfaction of customer interactions by 70%.",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/powered-by-microsoft-azure-and-developed-by-corover-irctcs-ai-chatbot-askdisha-enhances-user-experience/",
-      "originalUrl": "https://indiaeducationdiary.in/powered-by-microsoft-azure-and-developed-by-corover-irctcs-ai-chatbot-askdisha-enhances-user-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2017/05/microsoft_headquarters-800x533.jpg?fit=800%2C533&ssl=1",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/powered-by-microsoft-azure-and-developed-by-corover-irctcs-ai-chatbot-askdisha-enhances-user-experience/?amp",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/powered-by-microsoft-azure-and-developed-by-corover-irctcs-ai-chatbot-askdisha-enhances-user-experience/?amp",
-      "publishedDateTime": "2021-01-16T20:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

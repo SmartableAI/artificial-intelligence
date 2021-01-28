@@ -2,6 +2,151 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-28-artificial-intelligence-is-indias-solution-to-fix-data-gaps.md",
+      "title": "Artificial Intelligence Is India’s Solution to Fix Data Gaps",
+      "excerpt": "India is turning from man to machines to improve the quality and speed of its economic data, which has been criticized as inadequate, delayed or even confusing due to sharp and unexpected revisions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-01-27/artificial-intelligence-is-india-s-solution-to-fix-data-gaps",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-01-27/artificial-intelligence-is-india-s-solution-to-fix-data-gaps",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKgMwJ4Jg9dM/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-27T14:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-28-new-mit-brain-research-shows-how-ai-could-help-us-understand-consciousness.md",
+      "title": "New MIT brain research shows how AI could help us understand consciousness",
+      "excerpt": "A team of researchers from MIT and Massachusetts General Hospital recently published a study linking social awareness to individual neuronal activity. To the best of our knowledge, this is the first time evidence for the ‘theory of mind‘ has been identified at this scale.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/01/27/new-mit-brain-research-shows-how-ai-could-help-us-understand-consciousness/",
+      "originalUrl": "https://thenextweb.com/neural/2021/01/27/new-mit-brain-research-shows-how-ai-could-help-us-understand-consciousness/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/03/braincomputer-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/01/27/new-mit-brain-research-shows-how-ai-could-help-us-understand-consciousness/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/27/new-mit-brain-research-shows-how-ai-could-help-us-understand-consciousness/amp/",
+      "publishedDateTime": "2021-01-27T12:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-28-china-growing-use-of-emotion-recognition-tech-raises-rights-concerns.md",
+      "title": "China growing use of emotion recognition tech raises rights concerns",
+      "excerpt": "Technology that measures emotions based on biometric indicators such as facial movements, tone of voice or body movements, is increasingly being marketed in China, researchers say, despite concerns about its accuracy and wider human rights implications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/china-growing-use-of-emotion-recognition-idUSL8N2K2500",
+      "originalUrl": "https://www.reuters.com/article/china-growing-use-of-emotion-recognition-idUSL8N2K2500",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL8N2K2500",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2K2500",
+      "publishedDateTime": "2021-01-27T11:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-28-these-doctors-are-using-ai-to-screen-for-breast-cancer.md",
       "title": "These Doctors Are Using AI to Screen for Breast Cancer",
       "excerpt": "“That’s 100 cancers that we haven’t diagnosed,” she says. Lehman says the AI approach has helped identify a number of women who, when persuaded to come in for routine screening, turn out to have early signs of cancer. The women flagged by the ...",
@@ -1098,151 +1243,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-the-race-to-outsmart-the-competition-adobe-unveils-new-ai-tools-for-retailers.md",
-      "title": "The Race To Outsmart The Competition: Adobe Unveils New AI Tools For Retailers",
-      "excerpt": "Tech companies are vying to offer retailers ways to create smarter, seamless, and personalized online shopping experiences. Adobe unveils its new tools that use AI and data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joanverdon/2021/01/27/the-race-to-outsmart-the-competion-adobe-unveils-new-ai-tools-for-retailers/",
-      "originalUrl": "https://www.forbes.com/sites/joanverdon/2021/01/27/the-race-to-outsmart-the-competion-adobe-unveils-new-ai-tools-for-retailers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60106b5264291785f81a07e8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5616%26cropY1%3D404%26cropY2%3D3563",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joanverdon/2021/01/27/the-race-to-outsmart-the-competion-adobe-unveils-new-ai-tools-for-retailers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joanverdon/2021/01/27/the-race-to-outsmart-the-competion-adobe-unveils-new-ai-tools-for-retailers/amp/",
-      "publishedDateTime": "2021-01-27T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-the-role-artificial-intelligence-is-playing-in-the-healthcare-sector.md",
-      "title": "The Role Artificial Intelligence is Playing In the Healthcare Sector",
-      "excerpt": "With modern technology making business operations convenient, fraudsters are also banking on advanced technology for their illicit activities. Cybercriminals are now targeting the healthcare sector for their illegal gains.",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/the-role-artificial-intelligence-is-playing-in-the-healthcare-sector/",
-      "originalUrl": "https://techbullion.com/the-role-artificial-intelligence-is-playing-in-the-healthcare-sector/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2021/01/Healthcare-Sector.jpg",
-          "width": 1600,
-          "height": 790,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/the-role-artificial-intelligence-is-playing-in-the-healthcare-sector/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/the-role-artificial-intelligence-is-playing-in-the-healthcare-sector/amp/",
-      "publishedDateTime": "2021-01-27T03:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-its-time-to-use-all-of-twitters-archives-to-teach-ai-about-about-bias.md",
-      "title": "It’s time to use all of Twitter’s archives to teach AI about about bias",
-      "excerpt": "Microsoft released a chatbot called Tay that fed off people’s replies to it. Within hours, the bot turned racist and the company had to pull it down. This incident remains one of the classic lessons that teach us why it’s a bad idea to train an AI using social media.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/plugged/2021/01/27/its-time-to-use-all-of-twitters-archives-to-teach-ai-about-about-bias/",
-      "originalUrl": "https://thenextweb.com/plugged/2021/01/27/its-time-to-use-all-of-twitters-archives-to-teach-ai-about-about-bias/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Screenshot-2020-08-13-at-11.17.10-AM-796x386.png",
-          "width": 796,
-          "height": 386,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/plugged/2021/01/27/its-time-to-use-all-of-twitters-archives-to-teach-ai-about-about-bias/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/plugged/2021/01/27/its-time-to-use-all-of-twitters-archives-to-teach-ai-about-about-bias/amp/",
-      "publishedDateTime": "2021-01-27T00:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

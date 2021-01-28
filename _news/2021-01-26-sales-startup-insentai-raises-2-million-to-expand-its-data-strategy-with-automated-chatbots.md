@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/26/sales-startup-insent-ai-raises-2-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/26/sales-startup-insent-ai-raises-2-million-to-expand-its-data-strategy-with-automated-chatbots/amp/"
 type: article
 quality: 93
-heat: 163
+heat: 173
 published: true
 
 provider:
@@ -119,6 +119,20 @@ related:
       - url: "https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg"
         width: 400
         height: 400
+        isCached: true
+  - title: "Artificial intelligence chatbots for banking: 7 essentials for decision makers"
+    excerpt: "Artificial intelligence is still a somewhat new technology, but it already has the capacity to offer real-world business outcomes for financial institutions in the form of productivity improvement, cost savings and happier customers."
+    publishedDateTime: 2021-01-28T19:02:00Z
+    webUrl: "https://www.cuinsight.com/artificial-intelligence-chatbots-for-banking-7-essentials-for-decision-makers.html"
+    type: article
+    provider:
+      name: Credit Union Insight
+      domain: cuinsight.com
+    quality: 33
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2019/06/bigstock-Mobile-Phone-With-Blank-Screen-282152620.jpg"
+        width: 1000
+        height: 500
         isCached: true
   - title: "Research Methods and Data Science Offers a Hands-On Experience with Chatbots"
     excerpt: "Learn more about chatbots with (RMDS)’s virtual course “Everything About Chatbots: A Hands on Journey,” starting at 5 p.m. Wednesday, Jan. 27. The webinar continues every Wednesday up to Feb. 24. For those who are not familiar with the term,"

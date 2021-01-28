@@ -76,16 +76,19 @@ related:
         height: 293
         isCached: true
   - title: "Pinecone leaves stealth with $10M, launches first serverless vector database for machine learning"
-    excerpt: "PineconeSystems Inc., a machine learning (ML) cloud infrastructure company, left stealth today with $10m in seed funding."
-    publishedDateTime: 2021-01-27T15:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/n19345715/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19345715"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19345715"
+    excerpt: "PineconeSystems Inc., a machine learning (ML) cloud infrastructure company, left stealth today with $10m in seed funding. The investment was led by Wing Venture Capital, and Wing's Founding Partner, Peter Wagner,"
+    publishedDateTime: 2021-01-27T15:09:00Z
+    webUrl: "https://www.lelezard.com/en/news-19620012.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: Le Lézard
+      domain: lelezard.com
     quality: 28
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Pinecone leaves stealth with $10M, launches first serverless vector database for machine learning"
     excerpt: "PineconeSystems Inc., a machine learning (ML) cloud infrastructure company, left stealth today with $10m in seed funding. The investment"
     publishedDateTime: 2021-01-27T20:00:00Z

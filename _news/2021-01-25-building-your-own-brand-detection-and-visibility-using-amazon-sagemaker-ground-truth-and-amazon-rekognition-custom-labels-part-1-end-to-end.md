@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Managing your machine learning lifecycle with MLflow and Amazon SageMaker"
+    excerpt: "With the rapid adoption of machine learning (ML) and MLOps, enterprises want to increase the velocity of ML projects from experimentation to production. During the initial phase of an ML project, data scientists collaborate and share experiment results in order to find a solution to a business need."
+    publishedDateTime: 2021-01-28T21:48:48Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/managing-your-machine-learning-lifecycle-with-mlflow-and-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 120
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/05/ML-1367-1.jpg"
+        width: 800
+        height: 301
+        isCached: true
   - title: "Understanding the key capabilities of Amazon SageMaker Feature Store"
     excerpt: "One of the challenging parts of machine learning (ML) is feature engineering, the process of transforming data to create features for ML. Features are processed data signals used for training ML models and for deployed models to make accurate predictions. Data scientists and ML engineers can spend up"
     publishedDateTime: 2021-01-28T18:52:50Z

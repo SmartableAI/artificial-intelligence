@@ -2,6 +2,111 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-18-76-of-enterprises-prioritize-ai-machine-learning-in-2021-it-budgets.md",
+      "title": "76% Of Enterprises Prioritize AI & Machine Learning In 2021 IT Budgets",
+      "excerpt": "The pandemic created a new sense of urgency regarding getting AI and ML projects completed, a key point made by CIOs across the financial services and tech sectors last year during interviews.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2021/01/17/76-of-enterprises-prioritize-ai--machine-learning-in-2021-it-budgets/",
+      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2021/01/17/76-of-enterprises-prioritize-ai--machine-learning-in-2021-it-budgets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f70cdf27a22d0b0bf2220f7%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-17T17:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-01-18-master-machine-and-human-learning-to-win-the-digital-transformation-wars.md",
+      "title": "Master Machine and Human Learning to Win the Digital Transformation Wars",
+      "excerpt": "The “Economies of Learning” are more powerful than the “Economies of Scale” This may be my most powerful concept (outside of the Schmarzo Economic Digital Asset Valuation Theorem and the Big Data Busi",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/master-machine-human-learning-win-digital-wars-bill-schmarzo",
+      "originalUrl": "https://www.linkedin.com/pulse/master-machine-human-learning-win-digital-wars-bill-schmarzo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQFz5iYn5U-LRg/article-cover_image-shrink_600_2000/0/1610993361261?e=1616630400&v=beta&t=19M_arN5u8uvNYGTRo_0g862yYKvM310sjKJmzMc9v8",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-17T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-16-in-brain-imaging-deep-learning-beats-standard-machine-learning.md",
       "title": "In Brain Imaging, Deep Learning Beats Standard Machine Learning",
       "excerpt": "Deep learning models were able to detect patterns and discriminative features in brain imaging better than standard machine learning tools.",
@@ -1272,104 +1377,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-mammography-expert-finds-deep-learning-artificial-intelligence-may-improve-cancer-detection.md",
-      "title": "Mammography expert finds deep-learning artificial intelligence may improve cancer detection",
-      "excerpt": "The journal Nature Medicine has published a study co-authored by Gopal Vijayaraghavan, MD, finding that an artificial intelligence model for computer-aided reading of mammograms may improve the detection of breast cancer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.umassmed.edu/es/news/news-archives/2021/01/mammography-expert-finds-deep-learning-artificial-intelligence-may-improve-cancer-detection/",
-      "originalUrl": "https://www.umassmed.edu/es/news/news-archives/2021/01/mammography-expert-finds-deep-learning-artificial-intelligence-may-improve-cancer-detection/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.umassmed.edu/globalassets/umassmednow/top-story/vijayaraghavan-gopal-2-660.png",
-          "width": 660,
-          "height": 341,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-11T08:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "University of Massachusetts Medical School",
-        "domain": "umassmed.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.md",
-      "title": "Review: Microsoft Azure AI and Machine Learning aims for the enterprise",
-      "excerpt": "Microsoft Azure combines a wide range of cognitive services and a solid platform for machine learning that supports automated ML, no-code/low-code ML, and Python-based notebooks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3602597/review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.html",
-      "originalUrl": "https://www.infoworld.com/article/3602597/review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 230,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2021/01/microsoft-azure-ai-02-100872638-large.jpg",
-          "width": 1200,
-          "height": 1137,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3602597/review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3602597/review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.amp.html",
-      "publishedDateTime": "2021-01-11T03:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "Natural Language Processing",
-        "AI in Finance"
       ]
     }
   ],

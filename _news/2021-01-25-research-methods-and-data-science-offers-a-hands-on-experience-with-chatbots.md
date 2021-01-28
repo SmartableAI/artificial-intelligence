@@ -130,6 +130,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Artificial intelligence chatbots for banking: 7 essentials for decision makers"
+    excerpt: "Artificial intelligence is still a somewhat new technology, but it already has the capacity to offer real-world business outcomes for financial institutions in the form of productivity improvement, cost savings and happier customers."
+    publishedDateTime: 2021-01-28T19:02:00Z
+    webUrl: "https://www.cuinsight.com/artificial-intelligence-chatbots-for-banking-7-essentials-for-decision-makers.html"
+    type: article
+    provider:
+      name: Credit Union Insight
+      domain: cuinsight.com
+    quality: 33
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2019/06/bigstock-Mobile-Phone-With-Blank-Screen-282152620.jpg"
+        width: 1000
+        height: 500
+        isCached: true
 
 secured: "kKX6dW1u9opkDU7GjXv6yHZELDWTLjcz8vk3/kPETMaHN5JGj82JkyX+Avbhf2Kr93WOK/lGqqfbA0g3h2YHS4daVnkXkUM5mw+nLBJXtSuj3QqHahyp+S30oF5JMnD4/Fa3VfujGWNt4nxqz6iy+41uzcRu5kG9eJ5i09wGir8Oo/KqkrtLCJ3tEus9hJfGzO8g//kspwQydTo9juCWGtrlGqMeQRORX9P+Ojak0M95PYaMKQ2AhBSQ2QzqTMzj2FdNeCOLNiLzov8659vnMHTuKMpXsQ4+Ah50wiZAEo+tK550lETUWrPXubuF7SDIlcg6T3aI71RbjGMNjvB200iu+Aydu2/HDqucimr34sA=;Sl22dWANFqfVulwVGB0meQ=="
 ---

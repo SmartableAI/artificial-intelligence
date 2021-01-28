@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-14-dji-is-building-a-new-team-that-will-work-on-self-driving-technology.md",
+      "title": "DJI is building a new team that will work on self driving technology",
+      "excerpt": "The popular drone making brand, DJI, is apparently building a new team that will be working on developing self driving or autonomous technologies. The company has put up various job listings and has already begun hiring as well.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/01/14/dji-build-new-team-will-work-self-driving-technology/",
+      "originalUrl": "https://www.gizmochina.com/2021/01/14/dji-build-new-team-will-work-self-driving-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2021/01/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-14T02:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-14-chinese-drone-firm-dji-builds-team-to-work-on-self-driving-tech-job-posts-sources.md",
       "title": "Chinese drone firm DJI builds team to work on self-driving tech: job posts, sources",
       "excerpt": "China's SZ DJI Technology Co, the world's largest drone maker, is building an engineering team to work on self-driving technologies, according to job posts and people familiar with the company's strategy.",
@@ -1367,49 +1419,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-hyundai-in-early-talks-with-apple-for-self-driving-electric-car.md",
-      "title": "Hyundai in 'early talks' with Apple for self-driving electric car",
-      "excerpt": "Hyundai Motor Co. said Friday it is in the early stages of talks with tech giant Apple to jointly develop and produce a self-driving electric car.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Top_News/World-News/2021/01/08/Hyundai-in-early-talks-with-Apple-for-self-driving-electric-car/6861610106800/",
-      "originalUrl": "https://www.upi.com/Top_News/World-News/2021/01/08/Hyundai-in-early-talks-with-Apple-for-self-driving-electric-car/6861610106800/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi/6861610106800/2021/1/dda519f86bfc05448a184b6df6aa7007/v1.5/Hyundai-in-early-talks-with-Apple-for-self-driving-electric-car.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Top_News/World-News/2021/01/08/Hyundai-in-early-talks-with-Apple-for-self-driving-electric-car/6861610106800/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2021/01/08/Hyundai-in-early-talks-with-Apple-for-self-driving-electric-car/6861610106800/",
-      "publishedDateTime": "2021-01-08T04:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

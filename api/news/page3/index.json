@@ -2,6 +2,151 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-27-the-race-to-outsmart-the-competition-adobe-unveils-new-ai-tools-for-retailers.md",
+      "title": "The Race To Outsmart The Competition: Adobe Unveils New AI Tools For Retailers",
+      "excerpt": "Tech companies are vying to offer retailers ways to create smarter, seamless, and personalized online shopping experiences. Adobe unveils its new tools that use AI and data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joanverdon/2021/01/27/the-race-to-outsmart-the-competion-adobe-unveils-new-ai-tools-for-retailers/",
+      "originalUrl": "https://www.forbes.com/sites/joanverdon/2021/01/27/the-race-to-outsmart-the-competion-adobe-unveils-new-ai-tools-for-retailers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60106b5264291785f81a07e8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5616%26cropY1%3D404%26cropY2%3D3563",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joanverdon/2021/01/27/the-race-to-outsmart-the-competion-adobe-unveils-new-ai-tools-for-retailers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joanverdon/2021/01/27/the-race-to-outsmart-the-competion-adobe-unveils-new-ai-tools-for-retailers/amp/",
+      "publishedDateTime": "2021-01-27T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-the-role-artificial-intelligence-is-playing-in-the-healthcare-sector.md",
+      "title": "The Role Artificial Intelligence is Playing In the Healthcare Sector",
+      "excerpt": "With modern technology making business operations convenient, fraudsters are also banking on advanced technology for their illicit activities. Cybercriminals are now targeting the healthcare sector for their illegal gains.",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/the-role-artificial-intelligence-is-playing-in-the-healthcare-sector/",
+      "originalUrl": "https://techbullion.com/the-role-artificial-intelligence-is-playing-in-the-healthcare-sector/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2021/01/Healthcare-Sector.jpg",
+          "width": 1600,
+          "height": 790,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/the-role-artificial-intelligence-is-playing-in-the-healthcare-sector/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/the-role-artificial-intelligence-is-playing-in-the-healthcare-sector/amp/",
+      "publishedDateTime": "2021-01-27T03:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-its-time-to-use-all-of-twitters-archives-to-teach-ai-about-about-bias.md",
+      "title": "It’s time to use all of Twitter’s archives to teach AI about about bias",
+      "excerpt": "Microsoft released a chatbot called Tay that fed off people’s replies to it. Within hours, the bot turned racist and the company had to pull it down. This incident remains one of the classic lessons that teach us why it’s a bad idea to train an AI using social media.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/plugged/2021/01/27/its-time-to-use-all-of-twitters-archives-to-teach-ai-about-about-bias/",
+      "originalUrl": "https://thenextweb.com/plugged/2021/01/27/its-time-to-use-all-of-twitters-archives-to-teach-ai-about-about-bias/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Screenshot-2020-08-13-at-11.17.10-AM-796x386.png",
+          "width": 796,
+          "height": 386,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/plugged/2021/01/27/its-time-to-use-all-of-twitters-archives-to-teach-ai-about-about-bias/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/plugged/2021/01/27/its-time-to-use-all-of-twitters-archives-to-teach-ai-about-about-bias/amp/",
+      "publishedDateTime": "2021-01-27T00:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-27-artificial-intelligence-ai-chipsets-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2026.md",
       "title": "Artificial Intelligence (AI) Chipsets Market – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2026",
       "excerpt": "Selbyville Delaware Global Artificial Intelligence (AI) Chipsets Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2026. Artificial Intelligence (AI) Chipsets Market Report also covers top key players,",
@@ -858,7 +1003,7 @@
       "originalUrl": "https://techcrunch.com/2021/01/26/ex-uber-team-raises-6m-seed-for-geospatial-analytics-platform-unfolded-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -1054,7 +1199,7 @@
       "originalUrl": "https://venturebeat.com/2021/01/26/sales-startup-insent-ai-raises-2-million-to-expand-its-data-strategy-with-automated-chatbots/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 163,
+      "heat": 173,
       "tags": null,
       "images": [
         {
@@ -1095,153 +1240,6 @@
       "topics": [
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-why-the-oecd-wants-to-calculate-the-ai-compute-needs-of-national-governments.md",
-      "title": "Why the OECD wants to calculate the AI compute needs of national governments",
-      "excerpt": "The OECD is working to help countries better understand their AI compute demand needs and prepare for the future.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/26/why-the-oecd-wants-to-calculate-the-ai-compute-needs-of-national-governments/",
-      "originalUrl": "https://venturebeat.com/2021/01/26/why-the-oecd-wants-to-calculate-the-ai-compute-needs-of-national-governments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/oecd.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/26/why-the-oecd-wants-to-calculate-the-ai-compute-needs-of-national-governments/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/26/why-the-oecd-wants-to-calculate-the-ai-compute-needs-of-national-governments/amp/",
-      "publishedDateTime": "2021-01-26T06:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-container-approach-to-boosting-gpu-utilization-secures-bigger-backing.md",
-      "title": "Container Approach to Boosting GPU Utilization Secures Bigger Backing",
-      "excerpt": "Getting peak utilization out of GPU farms in the age of AI will be the unending quest. From being able to partition a GPU into small fractions to scaling",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2021/01/26/container-approach-to-boosting-gpu-utilization-secures-bigger-backing/",
-      "originalUrl": "https://www.nextplatform.com/2021/01/26/container-approach-to-boosting-gpu-utilization-secures-bigger-backing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/ab_traffic_smart.jpg",
-          "width": 1300,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2021/01/26/container-approach-to-boosting-gpu-utilization-secures-bigger-backing/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/01/26/container-approach-to-boosting-gpu-utilization-secures-bigger-backing/amp/",
-      "publishedDateTime": "2021-01-26T06:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-runai-raises-30m-series-b-for-its-ai-compute-platform.md",
-      "title": "Run:AI raises $30M Series B for its AI compute platform",
-      "excerpt": "Run:AI, a Tel Aviv-based company that helps businesses orchestrate and optimize their AI compute infrastructure, today announced that it has raised a $30 million Series B round. The new round was led by Insight Partners,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/01/26/runai-raises-30m-series-b-for-its-ai-compute-platform/",
-      "originalUrl": "https://techcrunch.com/2021/01/26/runai-raises-30m-series-b-for-its-ai-compute-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/01/RunAi-company-image2-01.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/01/26/runai-raises-30m-series-b-for-its-ai-compute-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/26/runai-raises-30m-series-b-for-its-ai-compute-platform/amp/",
-      "publishedDateTime": "2021-01-26T06:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

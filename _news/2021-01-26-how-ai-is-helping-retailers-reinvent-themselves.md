@@ -57,6 +57,22 @@ related:
         width: 1068
         height: 601
         isCached: true
+  - title: "Here’s how artificial intelligence can help improve your quality of hearing"
+    excerpt: "A recent device that has become a popular choice for patients with hearing loss is digital hearing aids, also known as artificial intelligence aids (AI). AI refers to smart devices and machines that are proficient in performing tasks that usually require human intelligence."
+    publishedDateTime: 2021-01-28T21:12:00Z
+    webUrl: "https://www.woodtv.com/wotv4women/the-crew/hearing/heres-how-artificial-intelligence-can-help-improve-your-quality-of-hearing/"
+    ampWebUrl: "https://www.woodtv.com/wotv4women/the-crew/hearing/heres-how-artificial-intelligence-can-help-improve-your-quality-of-hearing/amp/"
+    cdnAmpWebUrl: "https://www-woodtv-com.cdn.ampproject.org/c/s/www.woodtv.com/wotv4women/the-crew/hearing/heres-how-artificial-intelligence-can-help-improve-your-quality-of-hearing/amp/"
+    type: article
+    provider:
+      name: WOOD-TV
+      domain: woodtv.com
+    quality: 57
+    images:
+      - url: "https://www.woodtv.com/wp-content/uploads/sites/51/2021/01/GettyImages-856556294.jpg?w=1280"
+        width: 1280
+        height: 1337
+        isCached: true
 
 secured: "p/0tz8xlrSkTdoqWHWSUfXFxtycfxNvHu3BLIgfOXp0D+JBi4dtDGFH1nUciYAzy3EYH5jk+hP+CBPCj1fr3zqBMRpr42qWeDJc80FKf/5foIRz5uCaFNxwgBfJtNCHU6LLaL42dWp5v8a83k+fsSsVliJYgqppyBlZDOkdpT0JQud7ldMMdJ4MnM3pHNpglXKyHaO11esZSfiHe+lExQKe3KpKuUirkQqYeHlVgJnyxKkizGZb7m2ihOV84VzifHd6ynizZysN3eL7AhkfWMOC8DiRrMW03wf2FGsZp1wdeK73NtMNh+moqGgh4g6ChYDVqRHFYJj70y9A4ckdjkzZxBVvO+nlOyoWsQHKU2lK0NCZoNENRKPixqAjbq46KlEJdc4foqsgvL3mrzdxwUNMz/Nru79q+tZ97KQM69fF0TYxO9VaeeksjS4O24Yf+7KyJOrnRR16GKPl5GY6MBTeUmBgWrbm1UrymogOzx9JZNJ236oNsCnQpMqwlz+lj2ZSsnwGBB7H/hg8P8zM7QA==;Ct68CP50lNQMOCs9MtBvow=="
 ---

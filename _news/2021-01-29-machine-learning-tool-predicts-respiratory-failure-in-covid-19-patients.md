@@ -2,21 +2,27 @@
 category: news
 title: "Machine learning tool predicts respiratory failure in COVID-19 patients"
 excerpt: "In an effort to expedite care for coronavirus disease 2019 (COVID-19) patients upon hospital admission, a team at The Feinstein Institutes for Medical Research has developed a machine learning (ML) artificial intelligence (AI) powered clinical predictive tool that can accurately assess patients for the risk of respiratory failure within 48 hours."
-publishedDateTime: 2021-01-28T18:48:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20210128005971/machine-learning-tool-predicts-respiratory-failure-in-covid-19-patients"
-webUrl: "https://www.morningstar.com/news/business-wire/20210128005971/machine-learning-tool-predicts-respiratory-failure-in-covid-19-patients"
+publishedDateTime: 2021-01-28T18:40:00Z
+originalUrl: "https://www.oaoa.com/news/business/machine-learning-tool-predicts-respiratory-failure-in-covid-19-patients/article_803b0d80-3f15-5404-9b21-98d38e236cf3.html"
+webUrl: "https://www.oaoa.com/news/business/machine-learning-tool-predicts-respiratory-failure-in-covid-19-patients/article_803b0d80-3f15-5404-9b21-98d38e236cf3.html"
 type: article
-quality: 34
-heat: -1
-published: false
+quality: 54
+heat: 74
+published: true
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Odessa American
+  domain: oaoa.com
 
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/oaoa.com/content/tncms/assets/v3/editorial/e/1a/e1a3aa38-eed5-5563-be66-2f50ab7416a4/601307110ac21.image.jpg?resize=922%2C630"
+    width: 922
+    height: 630
+    isCached: true
 
 related:
   - title: "Machine Learning, Real-Time Data App Rates COVID-19 Exposure Risk"
@@ -50,6 +56,6 @@ related:
         height: 1920
         isCached: true
 
-secured: "yOknAWuqxCI5W8ZvC/Cr0x02e3xTFKYA4xXQcEbTMWYKxRAx2osz/CjTG7Kk/se1yFll+00XJYNGbfC/nD5hpcq5bn2DQMWgtXl4PVT9Voc2raIbktzwdAL1/xg9kvHRpA3djycvCsLcjkoT13abecJVYdKc6BezGnFCk/LduWfGfClnCDszt/6DwkeQFwbGYSf3E9+Y+k04ACUHAFWiYsSVARdv83HbRatNP5zRVUCXx8LlkY60LF58stV9VNtJ3dRiP9+h15jwmgeiSm0DAF03oUOKuuF5CaLyAoRyE3EnS5mCbLcqb3Lni1zFhCEoTmmazBwVfSN3Y/g/Zhrw397mSiIstniLCAgb4jKUoFg=;KOcmKz55OopxD8BI4o+BGg=="
+secured: "KWUSeCLNoow8Ef5xW0+l7GVJnl/cmGiOC1H+TS+s28bFRP5DoPYNQugv3hyu/HF+Q3vQWCNghPqYTp9QGk4c9BdOLXcld1xATYPQS8VGZfnhn31OY+Z1qF21gdSaccAL7+oRr+d1sYJUn/OIjPhm0Dc/eoR0C/5CSYfIwyGf/cZQwBgS08nIJtc/jWTg4TgxR9aO5F6sIuwbqdQWfzcTYSFVgdM439ZcnkG3jbfLRqSTlNB8G1r0mbJe/Bi/wPAioSUTXvjI9DcsSDKpPx1CgU2CV9PejKkvyYdvg6N25UibVs0rzbgHGyz73MWljxxRiDysGvWt1DRc4ne2MRqN/acfsZxfnrhcSW/LxVZi1U8=;YYH0pbCXuhJneNgScSkRUA=="
 ---
 

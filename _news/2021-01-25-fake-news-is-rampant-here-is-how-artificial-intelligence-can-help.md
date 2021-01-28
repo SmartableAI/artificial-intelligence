@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2021/01/25/fake-news-is-ram
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/01/25/fake-news-is-rampant-here-is-how-artificial-intelligence-can-help/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://singularityhub.com/wp-content/uploads/2021/01/IVF-babies-AI-embryonics-sperm-egg.jpg"
         width: 1068
         height: 601
+        isCached: true
+  - title: "Here’s how artificial intelligence can help improve your quality of hearing"
+    excerpt: "A recent device that has become a popular choice for patients with hearing loss is digital hearing aids, also known as artificial intelligence aids (AI). AI refers to smart devices and machines that are proficient in performing tasks that usually require human intelligence."
+    publishedDateTime: 2021-01-28T21:12:00Z
+    webUrl: "https://www.woodtv.com/wotv4women/the-crew/hearing/heres-how-artificial-intelligence-can-help-improve-your-quality-of-hearing/"
+    ampWebUrl: "https://www.woodtv.com/wotv4women/the-crew/hearing/heres-how-artificial-intelligence-can-help-improve-your-quality-of-hearing/amp/"
+    cdnAmpWebUrl: "https://www-woodtv-com.cdn.ampproject.org/c/s/www.woodtv.com/wotv4women/the-crew/hearing/heres-how-artificial-intelligence-can-help-improve-your-quality-of-hearing/amp/"
+    type: article
+    provider:
+      name: WOOD-TV
+      domain: woodtv.com
+    quality: 57
+    images:
+      - url: "https://www.woodtv.com/wp-content/uploads/sites/51/2021/01/GettyImages-856556294.jpg?w=1280"
+        width: 1280
+        height: 1337
         isCached: true
   - title: "How AI is helping retailers reinvent themselves"
     excerpt: "Everyday activities, once normal, have taken on a new element of risk, and consumers are prioritising those retailers who are capable of rapidly adjusting to changes in the business environment.” Retailers are moving to a multi-channel environment offering a variety of shopping options for customers,"

@@ -2,21 +2,124 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-01-28-understanding-the-key-capabilities-of-amazon-sagemaker-feature-store.md",
-      "title": "Understanding the key capabilities of Amazon SageMaker Feature Store",
-      "excerpt": "One of the challenging parts of machine learning (ML) is feature engineering, the process of transforming data to create features for ML. Features are processed data signals used for training ML models and for deployed models to make accurate predictions. Data scientists and ML engineers can spend up",
+      "path": "_news/2021-01-29-verusen-raises-8-million-to-reconcile-supply-chain-data-using-ai.md",
+      "title": "Verusen raises $8 million to reconcile supply chain data using AI",
+      "excerpt": "Atlanta, Georgia-based Verusen, a startup leveraging AI to build a connected supply chain, today raised $8 million in series A funding co-led by Forte Ventures and Flyover Capital. The company ...",
       "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/understanding-the-key-capabilities-of-amazon-sagemaker-feature-store/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/understanding-the-key-capabilities-of-amazon-sagemaker-feature-store/",
+      "webUrl": "https://venturebeat.com/2021/01/28/verusen-raises-8-million-to-reconcile-supply-chain-data-using-ai/",
+      "originalUrl": "https://venturebeat.com/2021/01/28/verusen-raises-8-million-to-reconcile-supply-chain-data-using-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 107,
       "tags": null,
       "images": [
         {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/01/08/ML-2183-1.jpg",
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/28/verusen-raises-8-million-to-reconcile-supply-chain-data-using-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/28/verusen-raises-8-million-to-reconcile-supply-chain-data-using-ai/amp/",
+      "publishedDateTime": "2021-01-28T14:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-the-ethics-of-the-metaverse.md",
+      "title": "The ethics of the metaverse",
+      "excerpt": "Into the Metaverse online event with Hendrik Lesser, CEO of Remote Control Productions, about the ethics of the metaverse, the universe of virtual worlds that are all interconnected, like in novels such as Snow Crash and Ready Player One.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/28/the-ethics-of-the-metaverse/",
+      "originalUrl": "https://venturebeat.com/2021/01/28/the-ethics-of-the-metaverse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/richard-bartle.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 645,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/28/the-ethics-of-the-metaverse/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/28/the-ethics-of-the-metaverse/amp/",
+      "publishedDateTime": "2021-01-28T14:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-28-managing-your-machine-learning-lifecycle-with-mlflow-and-amazon-sagemaker.md",
+      "title": "Managing your machine learning lifecycle with MLflow and Amazon SageMaker",
+      "excerpt": "With the rapid adoption of machine learning (ML) and MLOps, enterprises want to increase the velocity of ML projects from experimentation to production. During the initial phase of an ML project, data scientists collaborate and share experiment results in order to find a solution to a business need.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/managing-your-machine-learning-lifecycle-with-mlflow-and-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/managing-your-machine-learning-lifecycle-with-mlflow-and-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/05/ML-1367-1.jpg",
           "width": 800,
-          "height": 471,
+          "height": 301,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,7 +129,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-28T10:52:50-08:00",
+      "publishedDateTime": "2021-01-28T13:48:48-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",
@@ -50,7 +153,51 @@
       ],
       "topics": [
         "AI",
-        "AWS AI"
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-machine-learning-tool-predicts-respiratory-failure-in-covid-19-patients.md",
+      "title": "Machine learning tool predicts respiratory failure in COVID-19 patients",
+      "excerpt": "In an effort to expedite care for coronavirus disease 2019 (COVID-19) patients upon hospital admission, a team at The Feinstein Institutes for Medical Research has developed a machine learning (ML) artificial intelligence (AI) powered clinical predictive tool that can accurately assess patients for the risk of respiratory failure within 48 hours.",
+      "sourceUrl": null,
+      "webUrl": "https://www.oaoa.com/news/business/machine-learning-tool-predicts-respiratory-failure-in-covid-19-patients/article_803b0d80-3f15-5404-9b21-98d38e236cf3.html",
+      "originalUrl": "https://www.oaoa.com/news/business/machine-learning-tool-predicts-respiratory-failure-in-covid-19-patients/article_803b0d80-3f15-5404-9b21-98d38e236cf3.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/oaoa.com/content/tncms/assets/v3/editorial/e/1a/e1a3aa38-eed5-5563-be66-2f50ab7416a4/601307110ac21.image.jpg?resize=922%2C630",
+          "width": 922,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-28T10:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Odessa American",
+        "domain": "oaoa.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1030,7 +1177,7 @@
       "originalUrl": "https://techcrunch.com/2021/01/27/finesse-launch-seed-funding/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1102,151 +1249,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-artificial-intelligence-is-indias-solution-to-fix-data-gaps.md",
-      "title": "Artificial Intelligence Is India’s Solution to Fix Data Gaps",
-      "excerpt": "India is turning from man to machines to improve the quality and speed of its economic data, which has been criticized as inadequate, delayed or even confusing due to sharp and unexpected revisions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-01-27/artificial-intelligence-is-india-s-solution-to-fix-data-gaps",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-01-27/artificial-intelligence-is-india-s-solution-to-fix-data-gaps",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKgMwJ4Jg9dM/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-27T14:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-new-mit-brain-research-shows-how-ai-could-help-us-understand-consciousness.md",
-      "title": "New MIT brain research shows how AI could help us understand consciousness",
-      "excerpt": "A team of researchers from MIT and Massachusetts General Hospital recently published a study linking social awareness to individual neuronal activity. To the best of our knowledge, this is the first time evidence for the ‘theory of mind‘ has been identified at this scale.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/01/27/new-mit-brain-research-shows-how-ai-could-help-us-understand-consciousness/",
-      "originalUrl": "https://thenextweb.com/neural/2021/01/27/new-mit-brain-research-shows-how-ai-could-help-us-understand-consciousness/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/03/braincomputer-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/01/27/new-mit-brain-research-shows-how-ai-could-help-us-understand-consciousness/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/27/new-mit-brain-research-shows-how-ai-could-help-us-understand-consciousness/amp/",
-      "publishedDateTime": "2021-01-27T12:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-china-growing-use-of-emotion-recognition-tech-raises-rights-concerns.md",
-      "title": "China growing use of emotion recognition tech raises rights concerns",
-      "excerpt": "Technology that measures emotions based on biometric indicators such as facial movements, tone of voice or body movements, is increasingly being marketed in China, researchers say, despite concerns about its accuracy and wider human rights implications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/china-growing-use-of-emotion-recognition-idUSL8N2K2500",
-      "originalUrl": "https://www.reuters.com/article/china-growing-use-of-emotion-recognition-idUSL8N2K2500",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL8N2K2500",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2K2500",
-      "publishedDateTime": "2021-01-27T11:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

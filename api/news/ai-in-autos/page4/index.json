@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-01-how-apples-self-driving-car-plans-might-transform-the-company-itself.md",
+      "title": "How Apple’s self-driving car plans might transform the company itself",
+      "excerpt": "Core Apple tenets like controlling its own manufacturing and not collecting much user data may not stand up to the self-driving business.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/31/how-apples-self-driving-car-plans-might-transform-the-company-itself/",
+      "originalUrl": "https://venturebeat.com/2020/12/31/how-apples-self-driving-car-plans-might-transform-the-company-itself/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/apple1mt.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/31/how-apples-self-driving-car-plans-might-transform-the-company-itself/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/31/how-apples-self-driving-car-plans-might-transform-the-company-itself/amp/",
+      "publishedDateTime": "2020-12-31T12:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-01-tesla-sweetens-new-ev-purchase-with-full-self-driving-trial-tossed-in-for-free.md",
       "title": "Tesla sweetens new EV purchase with Full Self-Driving trial tossed in for free",
       "excerpt": "Elon Musk said those who buy a new Tesla and take delivery by midnight on Dec. 31 get three months on the house.",
@@ -1271,58 +1323,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-apple-is-reportedly-advancing-plans-to-develop-a-self-driving-car-heres-what-it-means-for-the-sector.md",
-      "title": "Apple is reportedly advancing plans to develop a self-driving car — here's what it means for the sector",
-      "excerpt": "Apple is moving ahead with its self-driving car technology and targeting 2024 as the year it produces a passenger vehicle, according to a report from Reuters. Five experts weigh in on what this ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/12/22/apple-is-reportedly-advancing-plans-to-develop-a-self-driving-car-.html",
-      "originalUrl": "https://www.cnbc.com/2020/12/22/apple-is-reportedly-advancing-plans-to-develop-a-self-driving-car-.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106673753-1598035076175-tim.jpg?v=1608674472",
-          "width": 2547,
-          "height": 1698,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/12/22/apple-is-reportedly-advancing-plans-to-develop-a-self-driving-car-.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/22/apple-is-reportedly-advancing-plans-to-develop-a-self-driving-car-.html",
-      "publishedDateTime": "2020-12-22T17:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

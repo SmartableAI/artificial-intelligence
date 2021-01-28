@@ -2,6 +2,229 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-01-08-google-ai-concocts-breakie-and-cakie-hybrid-baked-goods.md",
+      "title": "Google AI concocts ‘breakie’ and ‘cakie’ hybrid baked goods",
+      "excerpt": "If, as I suspect many of you have, you have worked your way through baking every type of cookie, bread and cake under the sun over the last year, Google has a surprise for you: a pair of AI-generated hybrid treats,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/01/07/google-ai-concocts-breakie-and-cakie-hybrid-baked-goods/",
+      "originalUrl": "https://techcrunch.com/2021/01/07/google-ai-concocts-breakie-and-cakie-hybrid-baked-goods/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/01/cakie.jpg?w=1024",
+          "width": 1024,
+          "height": 649,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/01/07/google-ai-concocts-breakie-and-cakie-hybrid-baked-goods/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/07/google-ai-concocts-breakie-and-cakie-hybrid-baked-goods/amp/",
+      "publishedDateTime": "2021-01-07T16:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-enhance-automated-model-building-with-the-latest-product.md",
+      "title": "Enhance Automated Model Building With the Latest Product",
+      "excerpt": "FREMONT, CA: The global artificial intelligence (AI) company,SparkCognition, announced the release of version 2.0 of its automated machine learning (AutoML) product, Darwin. The new version considerably improves the user’s experience and capabilities in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cioreview.com/news/enhance-automated-model-building-with-the-latest-product-nid-30206-cid-133.html",
+      "originalUrl": "https://www.cioreview.com/news/enhance-automated-model-building-with-the-latest-product-nid-30206-cid-133.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cioreview.com/newsimages/special/4hxC0X38.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-07T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIOReview",
+        "domain": "cioreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-its-not-going-to-be-very-hard-to-id-them-feds-have-tools-to-easily-track-down-capitol-rioters.md",
+      "title": "‘It’s not going to be very hard to ID them’: Feds have tools to easily track down Capitol rioters",
+      "excerpt": "The FBI has some of the most powerful facial recognition systems in the country, according to outside experts. And because few arrests were made during the deadly unrest, law enforcement officials will now have to depend on that technology to speed up ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fedscoop.com/capitol-riots-mob-facial-recognition-fbi-tracking/",
+      "originalUrl": "https://www.fedscoop.com/capitol-riots-mob-facial-recognition-fbi-tracking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fedscoop.com/wp-content/uploads/2021/01/50810619993_3417a94153_k.jpg",
+          "width": 2040,
+          "height": 1190,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-07T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FedScoop",
+        "domain": "fedscoop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-lisk-machine-learning-trading-up-158-over-last-week-lml.md",
+      "title": "Lisk Machine Learning Trading Up 15.8% Over Last Week (LML)",
+      "excerpt": "Lisk Machine Learning (CURRENCY:LML) traded up 31.8% against the U.S. dollar during the 24-hour period ending at 18:00 PM Eastern on January 7th. One Lisk Machine Learning token can now be purchased for about $0.",
+      "sourceUrl": null,
+      "webUrl": "https://www.modernreaders.com/news/2021/01/07/lisk-machine-learning-trading-up-15-8-over-last-week-lml.html",
+      "originalUrl": "https://www.modernreaders.com/news/2021/01/07/lisk-machine-learning-trading-up-15-8-over-last-week-lml.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.modernreaders.com/news/2021/01/07/lisk-machine-learning-trading-up-15-8-over-last-week-lml.html/amp",
+      "cdnAmpWebUrl": "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2021/01/07/lisk-machine-learning-trading-up-15-8-over-last-week-lml.html/amp",
+      "publishedDateTime": "2021-01-07T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "modernreaders.com",
+        "domain": "modernreaders.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-top-consumer-ideas-to-start-off-2021.md",
+      "title": "Top Consumer Ideas To Start Off 2021",
+      "excerpt": "Our top consumer ideas for January as we enter 2021. As we exit the political season and with the Covid-19 vaccine in front of us, we go in-depth on our favorite consumer stocks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2021/01/07/top-consumer-ideas-to-start-off-2021/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2021/01/07/top-consumer-ideas-to-start-off-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff791628b012174845f5771%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2000%26cropY1%3D60%26cropY2%3D1185",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2021/01/07/top-consumer-ideas-to-start-off-2021/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2021/01/07/top-consumer-ideas-to-start-off-2021/amp/",
+      "publishedDateTime": "2021-01-07T14:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-robotics-ready-for-its-moment-as-pandemic-headwinds-abate.md",
       "title": "Robotics Ready for Its Moment as Pandemic Headwinds Abate",
       "excerpt": "Disruptive technologies can encounter headwinds over the course of their evolutions, but that doesn't always mean long-term negativity. Take the case of robotics investments. The coronavirus pandemic could have been a problem for the group,",
@@ -929,223 +1152,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-waymo-wont-talk-about-self-driving-cars-anymore-in-apparent-dig-at-tesla.md",
-      "title": "Waymo won't talk about 'self-driving' cars anymore, in apparent dig at Tesla",
-      "excerpt": "Waymo takes a stab at Tesla over its use of the term \"self-driving\" in its new Full Self Driving feature. Alphabet-owned Waymo has stopped referring to \"self-driving\" to describe its technology and form now on will only use the term \"fully autonomous driving technology\" instead.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/waymo-wont-talk-about-self-driving-cars-anymore-in-apparent-dig-at-tesla/",
-      "originalUrl": "https://www.zdnet.com/article/waymo-wont-talk-about-self-driving-cars-anymore-in-apparent-dig-at-tesla/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/11/17/f71cf2c8-9b0c-4c9b-8871-ac97d9a76c73/thumbnail/1200x675/5c36970a2932377566a437c0929868b2/sensors-from-selfdriving-car-to-aibased-5fae92e0eafdf2701d541185-1-nov-17-2020-12-35-03-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/waymo-wont-talk-about-self-driving-cars-anymore-in-apparent-dig-at-tesla/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/waymo-wont-talk-about-self-driving-cars-anymore-in-apparent-dig-at-tesla/",
-      "publishedDateTime": "2021-01-07T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-how-apples-self-driving-car-plans-might-transform-the-company-itself.md",
-      "title": "How Apple’s Self-Driving Car Plans Might Transform The Company Itself",
-      "excerpt": "What would an Apple-made self-driving car look like? We don’t know yet, but what we do know is that the company has serious plans to",
-      "sourceUrl": null,
-      "webUrl": "https://www.techfinancials.co.za/2021/01/07/how-apples-self-driving-car-plans-might-transform-the-company-itself/",
-      "originalUrl": "https://www.techfinancials.co.za/2021/01/07/how-apples-self-driving-car-plans-might-transform-the-company-itself/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-07T04:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techfinancials",
-        "domain": "techfinancials.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-dsp-group-unveils-dbm10-low-power-edge-aiml-soc-with-dedicated-neural-network-inference-processor.md",
-      "title": "DSP Group Unveils DBM10 Low-Power Edge AI/ML SoC with Dedicated Neural Network Inference Processor",
-      "excerpt": "SAN JOSE, Calif., Jan. (GLOBE NEWSWIRE) -- DSP Group, Inc. (NASDAQ:DSPG), a leading global provider of wireless and voice-processing chipset solutions for",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/01/g19055169/dsp-group-unveils-dbm10-low-power-edge-aiml-soc-with-dedicated-neural-network-inference-processor",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/01/g19055169/dsp-group-unveils-dbm10-low-power-edge-aiml-soc-with-dedicated-neural-network-inference-processor",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/19055169",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19055169",
-      "publishedDateTime": "2021-01-07T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-masks-no-obstacle-for-new-nec-facial-recognition-system.md",
-      "title": "Masks no obstacle for new NEC facial recognition system",
-      "excerpt": "Japan's NEC Corp has launched a facial recognition system that identifies people even when they are wearing masks, adapting to a new normal where face coverings have become a key form of protection against the spread of the coronavirus.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-japan-facial-recog-idUKKBN29C0JZ",
-      "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-japan-facial-recog-idUKKBN29C0JZ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 259,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1546913023&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH060BW",
-          "width": 743,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN29C0JZ",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29C0JZ",
-      "publishedDateTime": "2021-01-07T02:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-explained-how-does-facebooks-ai-tool-for-suicide-prevention-work.md",
-      "title": "Explained | How does Facebook’s AI tool for suicide prevention work?",
-      "excerpt": "Along with its community operations team, the social media giant has an AI tool that picks up phrases or words that signal distress or trouble in posts as well as comments to alert authorities or get help to the person.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/business/explained-how-does-facebooks-ai-tool-for-suicide-prevention-work-6316061.html",
-      "originalUrl": "https://www.moneycontrol.com/news/business/explained-how-does-facebooks-ai-tool-for-suicide-prevention-work-6316061.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2020/11/Facebook_nov30-770x433.jpg?impolicy=website&width=770&height=431",
-          "width": 770,
-          "height": 431,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/business/explained-how-does-facebooks-ai-tool-for-suicide-prevention-work-6316061.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/explained-how-does-facebooks-ai-tool-for-suicide-prevention-work-6316061.html/amp",
-      "publishedDateTime": "2021-01-07T01:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

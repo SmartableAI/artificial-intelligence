@@ -42,22 +42,6 @@ related:
         width: 680
         height: 381
         isCached: true
-  - title: "Cloud data analytics service Phocas raises $34 million to grow AI, global footprint"
-    excerpt: "An Australian data analytics company catering to mid-sized enterprises has raised funds to expand its use of AI, and expand in the US and UK."
-    publishedDateTime: 2021-01-28T20:39:00Z
-    webUrl: "https://venturebeat.com/2021/01/28/cloud-data-analytics-service-phocas-raises-34-million-to-grow-ai-global-footprint/"
-    ampWebUrl: "https://venturebeat.com/2021/01/28/cloud-data-analytics-service-phocas-raises-34-million-to-grow-ai-global-footprint/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/28/cloud-data-analytics-service-phocas-raises-34-million-to-grow-ai-global-footprint/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 81
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/01/phocas.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "NICE Actimize Honored for AI and Advanced Analytics Innovation in Holistic Trade Surveillance by Regulation Asia"
     excerpt: "NICE Actimize, a NICE (Nasdaq: NICE) business, announced today that its Holistic Trade and Communications Surveillance solutions suite was recognized by the Regulation Asia Awards for Excellence 2020 for the second consecutive year with the Best Solution in Market & Trading Surveillance award."
     publishedDateTime: 2021-01-27T16:18:00Z

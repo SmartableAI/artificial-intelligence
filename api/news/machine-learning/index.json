@@ -2,6 +2,102 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-28-managing-your-machine-learning-lifecycle-with-mlflow-and-amazon-sagemaker.md",
+      "title": "Managing your machine learning lifecycle with MLflow and Amazon SageMaker",
+      "excerpt": "With the rapid adoption of machine learning (ML) and MLOps, enterprises want to increase the velocity of ML projects from experimentation to production. During the initial phase of an ML project, data scientists collaborate and share experiment results in order to find a solution to a business need.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/managing-your-machine-learning-lifecycle-with-mlflow-and-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/managing-your-machine-learning-lifecycle-with-mlflow-and-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/05/ML-1367-1.jpg",
+          "width": 800,
+          "height": 301,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-28T13:48:48-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-machine-learning-tool-predicts-respiratory-failure-in-covid-19-patients.md",
+      "title": "Machine learning tool predicts respiratory failure in COVID-19 patients",
+      "excerpt": "In an effort to expedite care for coronavirus disease 2019 (COVID-19) patients upon hospital admission, a team at The Feinstein Institutes for Medical Research has developed a machine learning (ML) artificial intelligence (AI) powered clinical predictive tool that can accurately assess patients for the risk of respiratory failure within 48 hours.",
+      "sourceUrl": null,
+      "webUrl": "https://www.oaoa.com/news/business/machine-learning-tool-predicts-respiratory-failure-in-covid-19-patients/article_803b0d80-3f15-5404-9b21-98d38e236cf3.html",
+      "originalUrl": "https://www.oaoa.com/news/business/machine-learning-tool-predicts-respiratory-failure-in-covid-19-patients/article_803b0d80-3f15-5404-9b21-98d38e236cf3.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/oaoa.com/content/tncms/assets/v3/editorial/e/1a/e1a3aa38-eed5-5563-be66-2f50ab7416a4/601307110ac21.image.jpg?resize=922%2C630",
+          "width": 922,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-28T10:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Odessa American",
+        "domain": "oaoa.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-29-4-ways-ai-and-ml-enhance-the-b2b-buyers-journey.md",
       "title": "4 Ways AI And ML Enhance The B2B Buyers’ Journey",
       "excerpt": "Just as consumer marketing teams have found AI-driven martech to help them reach their buyers where they are, B2B marketing teams are starting to realize that AI can do similar things to enhance their business customers’ journeys.",
@@ -1309,111 +1405,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-76-of-enterprises-prioritize-ai-machine-learning-in-2021-it-budgets.md",
-      "title": "76% Of Enterprises Prioritize AI & Machine Learning In 2021 IT Budgets",
-      "excerpt": "The pandemic created a new sense of urgency regarding getting AI and ML projects completed, a key point made by CIOs across the financial services and tech sectors last year during interviews.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2021/01/17/76-of-enterprises-prioritize-ai--machine-learning-in-2021-it-budgets/",
-      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2021/01/17/76-of-enterprises-prioritize-ai--machine-learning-in-2021-it-budgets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f70cdf27a22d0b0bf2220f7%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-17T17:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-master-machine-and-human-learning-to-win-the-digital-transformation-wars.md",
-      "title": "Master Machine and Human Learning to Win the Digital Transformation Wars",
-      "excerpt": "The “Economies of Learning” are more powerful than the “Economies of Scale” This may be my most powerful concept (outside of the Schmarzo Economic Digital Asset Valuation Theorem and the Big Data Busi",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/master-machine-human-learning-win-digital-wars-bill-schmarzo",
-      "originalUrl": "https://www.linkedin.com/pulse/master-machine-human-learning-win-digital-wars-bill-schmarzo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQFz5iYn5U-LRg/article-cover_image-shrink_600_2000/0/1610993361261?e=1616630400&v=beta&t=19M_arN5u8uvNYGTRo_0g862yYKvM310sjKJmzMc9v8",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-17T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

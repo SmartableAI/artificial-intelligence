@@ -1,25 +1,29 @@
 ---
 category: news
 title: "Pinecone leaves stealth with $10M, launches first serverless vector database for machine learning"
-excerpt: "PineconeSystems Inc., a machine learning (ML) cloud infrastructure company, left stealth today with $10m in seed funding."
-publishedDateTime: 2021-01-27T15:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/01/n19345715/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning"
-webUrl: "https://www.benzinga.com/pressreleases/21/01/n19345715/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning"
-ampWebUrl: "https://amp.benzinga.com/amp/content/19345715"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19345715"
+excerpt: "PineconeSystems Inc., a machine learning (ML) cloud infrastructure company, left stealth today with $10m in seed funding. The investment was led by Wing Venture Capital, and Wing's Founding Partner, Peter Wagner,"
+publishedDateTime: 2021-01-27T15:09:00Z
+originalUrl: "https://www.lelezard.com/en/news-19620012.html"
+webUrl: "https://www.lelezard.com/en/news-19620012.html"
 type: article
 quality: 28
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
-  - AWS AI
+  - AI in Finance
   - AI
   - Machine Learning
+
+images:
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
+    isCached: true
 
 related:
   - title: "Pinecone lands $10M seed for purpose-built machine learning database"
@@ -97,6 +101,6 @@ related:
         height: 315
         isCached: true
 
-secured: "djPxS9UOlZ530GjnztEVXWWDzrntPU9ix0xKJdxneAd4P6nTK8xAicdaLMDuwldCWp2qYKeNMXgK93/PSiS0WXTyvKNXuQfTKgfgF2TmwpIYPveIdHL1ZGb+jpBEMOkssLusBIG0NTW7UZn9yuqA3WidpFymivC8Sh27SFjV7lGpbCvDKqZ1+mjVfPBjEfKtGwdwAT7St2Wl2EbVp5CFT/ep5uJiviRVm2zOSfAxwuKaaeClxRfSNLR+QI4zNweZ5sFzg8iUJsEyyWSxbolgMITu7rtNQFJnVcXwh7XBOgOs5DuxZRJWFCFv73EIDkaoInVwsaAlo0MWdPV0SBWaG7+/Xtj0uQ3k+dgGHqjGmog=;HOT+XtkO8laf1ylQCSNEOg=="
+secured: "iVeUOgK1YrZD6KUQ/FM2MdsCTrFBU2ZmiBPSEiexJ+SMefzKAVrlLE2MKEN4Cz+1mqzlK+i6IjddCBTx5PpHcATx/2SnfpDDxAmZFZt2ZhJgFnpPxIU/t60iwTRRts2HI78O4bcNhMoM+cZyYQVuL2gf7Bryinhj64dvisPPTSa6C1tWRJIDe5TvmEF5EcN5VS7kPzU/+sXHtGeUjaZotbR3VDm+AQchbZgLxKqTG+8n7OdZgdEDvsw0R4nmPCxpdMeI3LQRMM0TSMGoRVls16VDVwGs5hkEIFh4izFQEEzsgFk0m+UIKB3VX5CqfLtGBGOBW/7Ca3cdcFpdf3b6v2C8GFgQosMbZH4u62j6c5g=;17FghYkjoIX3GThMP7iDJw=="
 ---
 

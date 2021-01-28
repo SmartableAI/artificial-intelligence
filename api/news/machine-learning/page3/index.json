@@ -2,6 +2,104 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-12-mammography-expert-finds-deep-learning-artificial-intelligence-may-improve-cancer-detection.md",
+      "title": "Mammography expert finds deep-learning artificial intelligence may improve cancer detection",
+      "excerpt": "The journal Nature Medicine has published a study co-authored by Gopal Vijayaraghavan, MD, finding that an artificial intelligence model for computer-aided reading of mammograms may improve the detection of breast cancer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.umassmed.edu/es/news/news-archives/2021/01/mammography-expert-finds-deep-learning-artificial-intelligence-may-improve-cancer-detection/",
+      "originalUrl": "https://www.umassmed.edu/es/news/news-archives/2021/01/mammography-expert-finds-deep-learning-artificial-intelligence-may-improve-cancer-detection/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.umassmed.edu/globalassets/umassmednow/top-story/vijayaraghavan-gopal-2-660.png",
+          "width": 660,
+          "height": 341,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-11T08:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "University of Massachusetts Medical School",
+        "domain": "umassmed.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-11-review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.md",
+      "title": "Review: Microsoft Azure AI and Machine Learning aims for the enterprise",
+      "excerpt": "Microsoft Azure combines a wide range of cognitive services and a solid platform for machine learning that supports automated ML, no-code/low-code ML, and Python-based notebooks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3602597/review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.html",
+      "originalUrl": "https://www.infoworld.com/article/3602597/review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 230,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2021/01/microsoft-azure-ai-02-100872638-large.jpg",
+          "width": 1200,
+          "height": 1137,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3602597/review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3602597/review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.amp.html",
+      "publishedDateTime": "2021-01-11T03:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-01-11-agdhi-to-use-machine-learning-and-computer-vision-in-agriculture.md",
       "title": "Agdhi to use machine learning and computer vision in agriculture",
       "excerpt": "Agdhi will use machine learning, computer vision, edge computing and spectral imaging techniques to detect the defects in seeds and crops",
@@ -1287,84 +1385,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-03-want-to-dive-into-the-lucrative-world-of-deep-learning-take-this-online-class.md",
-      "title": "Want to dive into the lucrative world of deep learning? Take this online class.",
-      "excerpt": "TL;DR: The Ultimate Deep Learning and NLP Certification Bundle is on sale for £21.43 as of Jan. 3, saving you 97% on list price. Artificial intelligence and deep learning might bring to mind ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/uk/shopping/jan-3-machine-learning-deep-learning-online-classes/",
-      "originalUrl": "https://mashable.com/uk/shopping/jan-3-machine-learning-deep-learning-online-classes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2021%252F01%252F03%252F25%252F3bc5fc78a1c14aa5bd3540bfd1fbef73.cd6b9.jpg%252F1200x630.jpg?signature=H46_q9w0l8DXHM_wrYE-4pOIE9E=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/uk/shopping/jan-3-machine-learning-deep-learning-online-classes.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/uk/shopping/jan-3-machine-learning-deep-learning-online-classes.amp",
-      "publishedDateTime": "2021-01-03T02:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-03-future-of-banking-yes-bank-datathon-pushes-the-boundaries-of-finance-with-ai-and-machine-learning.md",
-      "title": "Future Of Banking: YES Bank Datathon Pushes The Boundaries Of Finance With AI And Machine Learning",
-      "excerpt": "Used along with Machine Learning (ML) algorithms ... This is a unique facet wherein data professionals from a non- financial services background are participating in the challenge beyond the ...",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/features/future-of-banking-yes-bank-datathon-pushes-the-boundaries-of-finance-with-ai-and-machine-learning/",
-      "originalUrl": "https://inc42.com/features/future-of-banking-yes-bank-datathon-pushes-the-boundaries-of-finance-with-ai-and-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/features/future-of-banking-yes-bank-datathon-pushes-the-boundaries-of-finance-with-ai-and-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/features/future-of-banking-yes-bank-datathon-pushes-the-boundaries-of-finance-with-ai-and-machine-learning/amp/",
-      "publishedDateTime": "2021-01-02T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
         "Machine Learning"
       ]
     }

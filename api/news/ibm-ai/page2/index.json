@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-17-global-ibm-watson-services-market-size-share-valuation-to-reach-usd-165-billion-by-2027-live-now.md",
+      "title": "Global IBM Watson services market size, share valuation to reach USD 16.5 billion by 2027 - Live Now",
+      "excerpt": "Answer: Emergence of AI (Artificial Intelligence ... across several healthcare facilities are propelling the growth of global IBM Watson services market. Answer: Key participants of global ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-ibm-watson-services-market-size-share-valuation-to-reach-usd-165-billion-by-2027---live-now-2020-12-17?tesla=y",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-ibm-watson-services-market-size-share-valuation-to-reach-usd-165-billion-by-2027---live-now-2020-12-17?tesla=y",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-17T02:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-17-4-cutting-edge-ai-stocks-to-buy.md",
       "title": "4 Cutting-Edge AI Stocks to Buy",
       "excerpt": "Artificial intelligence is the new frontier in technology and these AI stocks have the cutting edge of the science and applications.",
@@ -1353,57 +1405,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-admed-unlocks-answers-to-health-questions-with-watson-assistant.md",
-      "title": "AdMed unlocks answers to health questions with Watson Assistant",
-      "excerpt": "It can be challenging to communicate accurate scientific information, especially in times where the COVID-19 pandemic is by far the most searched topic on Google, impacting everything from our news to the economy. Having so much information available also leads to the rapid spread of all sorts of misinformation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/11/admed-unlocks-answers-to-health-questions-with-watson-assistant/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2020/11/admed-unlocks-answers-to-health-questions-with-watson-assistant/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/11/Watson_Blog_Healthcare_Leadspace-990x498.jpg",
-          "width": 990,
-          "height": 498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-24T10:20:42-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

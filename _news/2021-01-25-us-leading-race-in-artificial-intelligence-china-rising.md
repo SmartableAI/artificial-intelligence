@@ -27,7 +27,7 @@ related:
   - title: "Shinan AI leader set to attract more investors"
     excerpt: "Shinhan AI CEO Bae Jin-soo will place a focus on attracting more retail investors for its artificial intelligence (AI) platforms during his second term. The AI arm of Shinhan Financial Group was launched in 2019 under a group-wide vision of developing more accurate,"
     publishedDateTime: 2021-01-25T07:32:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/biz/2021/01/602_303018.html"
+    webUrl: "https://www.koreatimes.co.kr/www/biz/2021/01/175_303018.html"
     ampWebUrl: "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=303018"
     cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=303018"
     type: article

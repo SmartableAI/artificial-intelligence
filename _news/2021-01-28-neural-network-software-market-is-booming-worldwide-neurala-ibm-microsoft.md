@@ -60,20 +60,6 @@ related:
         width: 800
         height: 425
         isCached: true
-  - title: "Microsoft to integrate Teams across SAP solutions"
-    excerpt: "Enterprise application software provider SAP and Microsoft have announced to integrate video conference and collaboration platform Teams with SAPs intelligent suite of solutions. The companies also expanded an existing partnership to accelerate the adoption of SAP S/4HANA on Microsoft Azure."
-    publishedDateTime: 2021-01-24T05:49:00Z
-    webUrl: "https://www.dailypioneer.com/2021/technology/microsoft-to-integrate-teams-across-sap-solutions.html"
-    type: article
-    provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 39
-    images:
-      - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/microsoft-to-integrate-teams-across-sap-solutions-2021-01-24.jpg"
-        width: 1000
-        height: 800
-        isCached: true
   - title: "Cruise And GM Team Up With Microsoft To Commercialize Self-Driving Vehicles"
     excerpt: "Cruise and General Motors on Tuesday announced they have entered a long-term strategic relationship with Microsoft to accelerate the commercialization of self-driving vehicles."
     publishedDateTime: 2021-01-25T22:27:00Z
