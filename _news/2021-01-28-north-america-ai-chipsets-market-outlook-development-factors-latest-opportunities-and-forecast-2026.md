@@ -6,7 +6,7 @@ publishedDateTime: 2021-01-28T09:57:00Z
 originalUrl: "https://www.marketwatch.com/press-release/north-america-ai-chipsets-market-outlook-development-factors-latest-opportunities-and-forecast-2026-2021-01-28"
 webUrl: "https://www.marketwatch.com/press-release/north-america-ai-chipsets-market-outlook-development-factors-latest-opportunities-and-forecast-2026-2021-01-28"
 type: article
-quality: 51
+quality: 53
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

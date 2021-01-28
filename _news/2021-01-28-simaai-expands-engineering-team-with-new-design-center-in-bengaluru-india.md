@@ -1,28 +1,22 @@
 ---
 category: news
 title: "SiMa.ai Expands Engineering Team With New Design Center in Bengaluru, India"
-excerpt: "SiMa.ai™, the machine learning company enabling high-performance compute at the lowest power for embedded edge applications, today announced a new design center in Bengaluru, India. The investment in the new site will bolster the company’s engineering and operations team,"
-publishedDateTime: 2021-01-28T08:47:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-software-industry-industrial-products-and-services-electronic-parts-manufacturing-b049694ab8384698b6116f7fa3c410c5"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-software-industry-industrial-products-and-services-electronic-parts-manufacturing-b049694ab8384698b6116f7fa3c410c5"
+excerpt: "SiMa.ai™, the machine learning company enabling high-performance compute at the lowest power for embedded edge applications, today announced a new des"
+publishedDateTime: 2021-01-28T12:30:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210127006084/en/SiMa.ai-Expands-Engineering-Team-With-New-Design-Center-in-Bengaluru-India"
+webUrl: "https://www.businesswire.com/news/home/20210127006084/en/SiMa.ai-Expands-Engineering-Team-With-New-Design-Center-in-Bengaluru-India"
 type: article
-quality: 35
-heat: 35
+quality: 15
+heat: 15
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "sqO627ZK9x7k2ATVXBf8ecQXhNuVdKJG19nQJzig3L6ThL8dTZQPydIiBs1CoJB8VEiBsNZzGsAPktQccBChxkqP5kEobcUEKvOg4THJ11ic2xy5JiETJOyxGsdkgIULjDc9cUUuoAad3+BfY1RPC5CpjEmDSy7gx46uxlOk0M7huZDPY9el5MiO8XCjL1NeTPZdpa+fXKaagwxUq9edRvcKcjWjCOfvumgwTD43yApV8m8gfyYmhDdc7Zrh2yKL4WyHuoqOd18gSZ2oBFjzC+D737uisWm/JHQKfxnimOllCspR9dq7cFtBNC3SikQ0N6h+lu1JBFfxybzoaZWdwH4G2Vzqkc9NV9gvUkPAaqg=;9LhvKqO+WaTyjqRqMw3k1Q=="
+secured: "+ZT6iKKqeUW9fnEapdLCaeSEFTaxcApgzP4Xjy4aEYC7Br4e3Jrl8NM30j8jxiSjeGcNWgmpVNu8aLdk4BjEIQ1hPL+xIbAoxa31Qn5r441MLVoPpbsnwEIl2fZQRhhzx0Reh3SNCbLNlxHi0q5Gm4gAH6OzhJkVcGeb5ylf6SlTjCiHZbzqFaL0j+4bxQSZAyvn1HQwzRhQsgvQoKpoMoXafgkLdDNBpYmmDX6f8C7AHugwZFbn/R7zxZhuTNmJ0j4SLM0wamKwvoLLLDhu4It95ZwEscNIfk5K9BqBqhvVepws/AQc5eHtFQoVHF2A6P917VOEg7ci8lCZHyMY/2XHFAlZaGjoxK28WU6LkySFk6OSY1q10iIsVPdbpvlXCpB/FOxl/PQpqrH3CHNZ+NdHft2v5lksSkucT67vOf7OfZWvwA/8qf9YtFQhr9XjjD5gwgmqQZ6mbuhC+ISAsx0WxGsc+lK5v3rMEykqJAaF34Nop3EFD1pYRRXjjtu0WPMM6OuZQt3ZxftE35vtRw==;3K/CesxpMRmrET2n33iUuQ=="
 ---
 

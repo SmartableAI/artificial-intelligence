@@ -3,8 +3,8 @@ category: news
 title: "Lane Mendelsohn, President of Vantagepoint AI, featured in Charted Market Technicians(R) (CMT) magazine, Technically Speaking"
 excerpt: "WESLEY CHAPEL, FL / ACCESSWIRE / January 27, 2021 / Lane Mendelsohn, President of Vantagepoint AI, LLC, has been featured in CMT’s Technically Speaking magazine. Mendelsohn is a long-standing member and is designated by the Charted Market Technician® (CMT®) Association."
 publishedDateTime: 2021-01-28T08:01:00Z
-originalUrl: "https://apnews.com/press-release/accesswire/technology-business-intellectual-property-artificial-intelligence-computing-and-information-technology-5a40e9efba02fbbeee62a37f98171592/gallery/5a34cd3c1b1727d0e376eea5048e8d4c"
-webUrl: "https://apnews.com/press-release/accesswire/technology-business-intellectual-property-artificial-intelligence-computing-and-information-technology-5a40e9efba02fbbeee62a37f98171592/gallery/5a34cd3c1b1727d0e376eea5048e8d4c"
+originalUrl: "https://apnews.com/press-release/accesswire/technology-business-intellectual-property-artificial-intelligence-computing-and-information-technology-5a40e9efba02fbbeee62a37f98171592"
+webUrl: "https://apnews.com/press-release/accesswire/technology-business-intellectual-property-artificial-intelligence-computing-and-information-technology-5a40e9efba02fbbeee62a37f98171592"
 type: article
 quality: 12
 heat: -1
@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "Lane Mendelsohn, President of Vantagepoint AI, featured in Charted Market Technicians® (CMT) magazine, Technically Speaking"
+    excerpt: "Lane Mendelsohn, President of Vantagepoint AI, LLC, has been featured in CMT's Technically Speaking magazine. Mendelsohn is a long-standing member and is designated by the Charted Market Technician ® (CMT ®) Association."
+    publishedDateTime: 2021-01-27T13:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/lane-mendelsohn-president-of-vantagepoint-ai-featured-in-charted-market-technicians-cmt-magazine-technically-speaking-1030009487"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/lane-mendelsohn-president-of-vantagepoint-ai-featured-in-charted-market-technicians-cmt-magazine-technically-speaking-1030009487"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/lane-mendelsohn-president-of-vantagepoint-ai-featured-in-charted-market-technicians-cmt-magazine-technically-speaking-1030009487"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 43
   - title: "Lane Mendelsohn, President of Vantagepoint AI, featured in Charted Market Technicians(R) (CMT) magazine, Technically Speaking"
     excerpt: "A certified member since he was 13 years old, Mendelsohn has been interviewed about his love of Technical Analysis in the financial markets and how it has shaped his"
     publishedDateTime: 2021-01-27T13:00:00Z
@@ -41,21 +52,7 @@ related:
         width: 1020
         height: 702
         isCached: true
-  - title: "Lane Mendelsohn, President of Vantagepoint AI, featured in Charted Market Technicians® (CMT) magazine, Technically Speaking"
-    excerpt: "Lane Mendelsohn, President of Vantagepoint AI, LLC, has been featured in CMT's Technically Speaking magazine. Mendelsohn is a"
-    publishedDateTime: 2021-01-27T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/lane-mendelsohn-president-of-vantagepoint-ai-featured-in-charted-market-technicians-cmt-magazine-technically-speaking-301215631.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 13
-    images:
-      - url: "https://mma.prnewswire.com/media/1096645/Vantagepoint_Logo.jpg?p=facebook"
-        width: 1809
-        height: 949
-        isCached: true
 
-secured: "jlsY74zxwhddxl9FAtsRQKzYwuk7anPm7uepeTGPxoTSoRMMuwzP7zzjMmTRuoJI60Wx18Dkm2sxsWKl8FcJVSA/jWATtMFnewn2seWZDWR5fSS7cmk3mkRFsjrd61qGlSyneJnGIQCnvocI1X/FKKjsCwEcmadGaanWFZ6bXnaqtZNBrBalnWyhoJYbWdSA/96cND0fQDjPXjpqAAR+pJv+Yn1V8OBB0G/e+MXVrY1GXDKXHNiydz7e9+pWUYiDazk2+sdD26F1jWhdMTaU9sgN5hdUjkEBt6kyF0EoKuQg9mhNxipZSPSKlXwvjMa0fxIXJPRZMUZgL3DjAizfF+TuwxHg9Y92PVmSmo1D+48=;l3tTGPqFk83PkMRRQ3WubQ=="
+secured: "i/YIiimJ4AEO+L0u6n72DH98TTweQa7+umnlIQ3hk0T1gG3R5l4IknBe9PB3w+9Wz1fWLqStEwjZ7+xV89CDJgxDs2GoPLHcl0/s398ATCy7iYH+ygmC4b9OICeAbUxiQEkJfrCQXm5/HVuQdweVufRXZX6grpoBhtrsE0jmI2DjFeHAsywBqmujnwEqBwCuApIshEY2D/pgSXYELYASz2IuYymSgu85cksXc3zzpKwOXo9HNOCBUb7JoWTaKfMQpmvTFS+TRIbHryR+LVTMOkGOoVh8zA+kNQNV+fCx4jYeJ/sDMmAUHYTeciiaBaCmidvskeljyR1m3OLFHxdJ0h2+TLPfXxYrDfMO6kx3Tr0=;ehXCRnOl+B0FIokFaJH8OQ=="
 ---
 

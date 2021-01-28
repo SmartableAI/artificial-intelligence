@@ -113,6 +113,17 @@ related:
         width: 5478
         height: 2739
         isCached: true
+  - title: "Global Image Recognition in Retail Market 2020-2025 - Growing Adoption of Cloud-Based Image Recognition Solutions"
+    excerpt: "The \"Global Image Recognition in Retail Market (2020-2025), by Technology, Component, Application, Deployment, Geography and the Impact of Covid-19 with Ansoff Analysis\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2021-01-28T12:48:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-image-recognition-in-retail-market-2020-2025-growing-adoption-of-cloud-based-image-recognition-solutions-1030014644"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/global-image-recognition-in-retail-market-2020-2025-growing-adoption-of-cloud-based-image-recognition-solutions-1030014644"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-image-recognition-in-retail-market-2020-2025-growing-adoption-of-cloud-based-image-recognition-solutions-1030014644"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
   - title: "AnyVision offers 5 indications for fair, ethical and unbiased use of face recognition amidst rising public debate in the US"
     excerpt: "AnyVision has offered five indications for fair, ethical and unbiased use of face recognition amidst a rising public debate in the US."
     publishedDateTime: 2021-01-25T13:03:00Z
@@ -290,6 +301,29 @@ related:
       name: The Jordan Times
       domain: jordantimes.com
     quality: 19
+  - title: "Indian police use facial recognition in search for farmer protesters"
+    excerpt: "Indian police are using facial recognition technology to identify suspects in a crackdown on farmers who over-ran parts of New Delhi, while leaders of the months-long protest movement struggle to contain rifts within their ranks."
+    publishedDateTime: 2021-01-28T07:00:00Z
+    webUrl: "https://www.ft.com/content/044add20-7129-44a8-bc9d-92919a73d049"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 19
+  - title: "Council of Europe calls for strict facial-recognition rules protecting human rights"
+    excerpt: "The Council of Europe, an international organisation distinct from the EU, has called for much stricter regulations on facial-recognition technology to protect privacy and equality."
+    publishedDateTime: 2021-01-28T12:44:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2021/01/council-of-europe-calls-for-strict-facial-recognition-rules-protecting-human-rights/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 18
+    images:
+      - url: "https://eandt.theiet.org/media/3236/15113327-1.jpg?center=0.651685393258427,0.51428571428571423&mode=crop&width=1200&height=450&rnd=131372513160000000"
+        width: 1200
+        height: 450
+        isCached: true
 
 secured: "Y4Ng8vddxt1cvz90f/JMRsldiqIKSmklLTL+w16t8Y0qiCx3O536EWFSd+UkesHLo3uWHZlvTCHA90hbs/4x80IiFpMPWgH83rifrJxBusfY6hXxVe/iGkd5jGqzajwOomEDQp1FVfyKgmv8ozb/HgBLTl2ZDS7UcVTl4lTCKBuG51Bh/Y21EVkd5+7cfC+BFdcS2tTVl95U4H/QRuT0B+X0dIuaptLZ7ml5ruIBivPWewsQC9DiiQAdZ+Ip0OZMldXLt32LVTvborQwgaAB3+E+6lQCkB2gqIGe4lbZ6MHFYG2q8258jLSvSM8OCVD1g3/eeAVmDghExsTqXPo4ehitwofjuNVP2J3aK+CRsAAcuun7k8v6H5dMJPbC+JsmRd0EjjcAFBtjB6rW0bwtr//g0/unpNwwEu2d4UgSiiHCMtXs+jcPLb7zcSaSJ78MdITPLqX2UTzN/W/LdO6SxazLquMBW6JNXpBK/3hwRA3MuvYiGviIgGePiXbUQDYSBQifsgAM5G3NfivxeXoYMw==;acsfE8v+5Q6FDKzHj+qbrw=="
 ---

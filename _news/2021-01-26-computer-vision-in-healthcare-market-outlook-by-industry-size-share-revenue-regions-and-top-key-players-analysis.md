@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/computer-vision-in-healt
 webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-outlook-by-industry-size-share-revenue-regions-and-top-key-players-analysis-2021-01-25"
 type: article
 quality: 64
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -143,6 +143,20 @@ related:
       - url: "https://cdn.openpr.com/U/1/U125249135_g.jpg"
         width: 630
         height: 400
+        isCached: true
+  - title: "Technology Innovations and Virtual Consultations Drive the Healthcare Industry Transformation by 2025"
+    excerpt: "Frost & Sullivan's recent analysis, Vision 2025—Rising Healthcare Expenditures and Disproportionate Improvement in Patient Outcomes"
+    publishedDateTime: 2021-01-28T12:28:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/technology-innovations-and-virtual-consultations-drive-the-healthcare-industry-transformation-by-2025-858165700.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 24
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "7Rju4s58TuagYjPqFygVnqaVDl7dfkC/wVjWDge/MMJweaNB5J0TWjf2qoM9q8T9kWfrE5dd97FXMElZf/f7r+jOYgypJRznt+yozWyFEjXc5qSS4vjlSlEZiNOLp6phR86zPDwDDwis2wQkjyFl5ox2/+WPa8xy8A9xOtZuw5Tj0XwjszlmHblkkn9pZXYdvwwdKi6o9RLSv5bMAAKyQv84upDbxX7IaYTGsW/JFBDAfSSqQYWKddaPGPTW1Ja8EBSpGjpEqoi5NAZgtrlTlY170JdYGeyk8hqYaXsTDz/ddjI+WpLDgtKVlLoViu2fXNAkz1pR8vPGVWvgXzfcv2a3sBT9dj900C8psfwNgI8=;19Z2olw643oCYWgo6Kkk4Q=="

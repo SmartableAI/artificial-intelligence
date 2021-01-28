@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/19341781"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19341781"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -28,23 +28,20 @@ images:
 
 related:
   - title: "Lane Mendelsohn, President of Vantagepoint AI, featured in Charted Market Technicians® (CMT) magazine, Technically Speaking"
-    excerpt: "Lane Mendelsohn, President of Vantagepoint AI, LLC, has been featured in CMT's Technically Speaking magazine. Mendelsohn is a"
-    publishedDateTime: 2021-01-27T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/lane-mendelsohn-president-of-vantagepoint-ai-featured-in-charted-market-technicians-cmt-magazine-technically-speaking-301215631.html"
+    excerpt: "Lane Mendelsohn, President of Vantagepoint AI, LLC, has been featured in CMT's Technically Speaking magazine. Mendelsohn is a long-standing member and is designated by the Charted Market Technician ® (CMT ®) Association."
+    publishedDateTime: 2021-01-27T13:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/lane-mendelsohn-president-of-vantagepoint-ai-featured-in-charted-market-technicians-cmt-magazine-technically-speaking-1030009487"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/lane-mendelsohn-president-of-vantagepoint-ai-featured-in-charted-market-technicians-cmt-magazine-technically-speaking-1030009487"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/lane-mendelsohn-president-of-vantagepoint-ai-featured-in-charted-market-technicians-cmt-magazine-technically-speaking-1030009487"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 13
-    images:
-      - url: "https://mma.prnewswire.com/media/1096645/Vantagepoint_Logo.jpg?p=facebook"
-        width: 1809
-        height: 949
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 43
   - title: "Lane Mendelsohn, President of Vantagepoint AI, featured in Charted Market Technicians(R) (CMT) magazine, Technically Speaking"
     excerpt: "WESLEY CHAPEL, FL / ACCESSWIRE / January 27, 2021 / Lane Mendelsohn, President of Vantagepoint AI, LLC, has been featured in CMT’s Technically Speaking magazine. Mendelsohn is a long-standing member and is designated by the Charted Market Technician® (CMT®) Association."
     publishedDateTime: 2021-01-28T08:01:00Z
-    webUrl: "https://apnews.com/press-release/accesswire/technology-business-intellectual-property-artificial-intelligence-computing-and-information-technology-5a40e9efba02fbbeee62a37f98171592/gallery/5a34cd3c1b1727d0e376eea5048e8d4c"
+    webUrl: "https://apnews.com/press-release/accesswire/technology-business-intellectual-property-artificial-intelligence-computing-and-information-technology-5a40e9efba02fbbeee62a37f98171592"
     type: article
     provider:
       name: Associated Press

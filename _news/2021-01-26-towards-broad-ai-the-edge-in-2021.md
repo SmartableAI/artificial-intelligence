@@ -43,6 +43,20 @@ related:
         width: 560
         height: 300
         isCached: true
+  - title: "Carlyle Invests in AI Startup After Year as Client"
+    excerpt: "Carlyle Group Inc. is converting from a client of SESAMm SAS to an investor in the French developer of artificial intelligence-powered analytical software used by investment managers and banks to crunch through large data sets and analyze reams of text to identify investment opportunities."
+    publishedDateTime: 2021-01-28T12:38:00Z
+    webUrl: "https://www.wsj.com/articles/carlyle-invests-in-ai-startup-after-year-as-client-11611837000"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-291450/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "76% Of Enterprises Prioritize AI & Machine Learning In 2021 IT Budgets"
     excerpt: "Enterprises accelerated their adoption of AI and machine learning in 2020, concentrating on those initiatives that deliver revenue growth and cost reduction."
     publishedDateTime: 2021-01-27T03:29:00Z

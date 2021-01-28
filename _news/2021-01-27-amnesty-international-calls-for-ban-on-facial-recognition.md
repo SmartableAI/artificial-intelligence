@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/01/27/amnesty-international-calls
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/27/amnesty-international-calls-for-ban-on-facial-recognition/amp/"
 type: article
 quality: 89
-heat: 289
+heat: 319
 published: true
 
 provider:
@@ -117,6 +117,17 @@ related:
         width: 5478
         height: 2739
         isCached: true
+  - title: "Global Image Recognition in Retail Market 2020-2025 - Growing Adoption of Cloud-Based Image Recognition Solutions"
+    excerpt: "The \"Global Image Recognition in Retail Market (2020-2025), by Technology, Component, Application, Deployment, Geography and the Impact of Covid-19 with Ansoff Analysis\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2021-01-28T12:48:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-image-recognition-in-retail-market-2020-2025-growing-adoption-of-cloud-based-image-recognition-solutions-1030014644"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/global-image-recognition-in-retail-market-2020-2025-growing-adoption-of-cloud-based-image-recognition-solutions-1030014644"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-image-recognition-in-retail-market-2020-2025-growing-adoption-of-cloud-based-image-recognition-solutions-1030014644"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
   - title: "AnyVision offers 5 indications for fair, ethical and unbiased use of face recognition amidst rising public debate in the US"
     excerpt: "AnyVision has offered five indications for fair, ethical and unbiased use of face recognition amidst a rising public debate in the US."
     publishedDateTime: 2021-01-25T13:03:00Z
@@ -294,6 +305,29 @@ related:
       name: The Jordan Times
       domain: jordantimes.com
     quality: 19
+  - title: "Indian police use facial recognition in search for farmer protesters"
+    excerpt: "Indian police are using facial recognition technology to identify suspects in a crackdown on farmers who over-ran parts of New Delhi, while leaders of the months-long protest movement struggle to contain rifts within their ranks."
+    publishedDateTime: 2021-01-28T07:00:00Z
+    webUrl: "https://www.ft.com/content/044add20-7129-44a8-bc9d-92919a73d049"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 19
+  - title: "Council of Europe calls for strict facial-recognition rules protecting human rights"
+    excerpt: "The Council of Europe, an international organisation distinct from the EU, has called for much stricter regulations on facial-recognition technology to protect privacy and equality."
+    publishedDateTime: 2021-01-28T12:44:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2021/01/council-of-europe-calls-for-strict-facial-recognition-rules-protecting-human-rights/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 18
+    images:
+      - url: "https://eandt.theiet.org/media/3236/15113327-1.jpg?center=0.651685393258427,0.51428571428571423&mode=crop&width=1200&height=450&rnd=131372513160000000"
+        width: 1200
+        height: 450
+        isCached: true
 
 secured: "PR7mryVu3/HszqmM7RJJcbtK8oy+fIhc2onUwXdB8PcGtLYkePwtuQqYkRJDTRdSrViR3xBy18ay98Mjcw2IKawKC3RiOBQ2Fd0+PlTC9FWL6kCND0mg8kwMZPuZaAexAqPJnE4YlXDY4Is+rBP2iAU6I2p4OuQsUd3hiwahhDJfYnIc9IT6Hqc42Wcyz8hCUpqxBrSeofxpsoWtcIi8Z8LXwYZOgVno3CIw6vzkBsVrtsVWzcgVxWx8GvqEWlbaLr9yG8OIuGHEgIupo9DpMmx7q0LlWL5/Lx7SmcGWK5FXZ0T8fh5qUrQHVCVKkni/Cy9+OPqcseNUg/V2E3hXYLZTFZXjOY0Th2QAleIFr7eMSAj1x4G3u5hoEgV2a/qg9Ifxa7dwzNvYdFgnPTCKZ7D587U4nS1nPE5zfTNhRx9B7pO1FSi6XvKWylwEE20ZBOViKMqpk8Vb/BDb8M7OkHC2fLE2BO9Q/wfCwJCKj7gHFbvZkwOD879lKn8Q6LDUGunElsn1RYDj2FsOUNkq2Q==;5JFpmgAcqKl2e1eyjM8Hvg=="
 ---

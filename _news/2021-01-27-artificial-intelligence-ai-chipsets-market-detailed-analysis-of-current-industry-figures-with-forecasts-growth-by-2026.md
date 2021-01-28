@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "North America AI Chipsets Market Outlook | Development Factors, Latest Opportunities and Forecast 2026"
+    excerpt: "According to the Graphical Research new growth forecast report titled North America AI Chipsets Market Size will"
+    publishedDateTime: 2021-01-28T09:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/north-america-ai-chipsets-market-outlook-development-factors-latest-opportunities-and-forecast-2026-2021-01-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Healthcare Artificial Intelligence Market Trends Global Industry Analysis, Top Manufacturers, Growth, Opportunities & Forecast to 2026"
     excerpt: "Jan (Market Insight Reports) -- Selbyville, Delaware, Market Study Report LLC recently added a new title on 2020-2026 Global Healthcare"
     publishedDateTime: 2021-01-25T14:37:00Z
@@ -55,20 +69,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "North America AI Chipsets Market Outlook | Development Factors, Latest Opportunities and Forecast 2026"
-    excerpt: "According to the Graphical Research new growth forecast report titled North America AI Chipsets Market Size will"
-    publishedDateTime: 2021-01-28T09:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/north-america-ai-chipsets-market-outlook-development-factors-latest-opportunities-and-forecast-2026-2021-01-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

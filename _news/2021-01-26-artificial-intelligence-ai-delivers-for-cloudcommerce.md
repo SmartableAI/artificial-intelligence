@@ -2,26 +2,27 @@
 category: news
 title: "Artificial Intelligence (AI) Delivers for CloudCommerce"
 excerpt: "Our clients are reaping the benefit of our real-world application of artificial intelligence. Our goal is to continue to work toward potentially reducing the costs of advertising by as much as 50%.” The Company is developing SWARM into a cloud hosted software platform that will harness the power of artificial intelligence,"
-publishedDateTime: 2021-01-26T08:26:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-marketing-and-advertising-corporate-news-marketing-campaigns-66fd70c577a5eeeb50e3990141edbed3"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-marketing-and-advertising-corporate-news-marketing-campaigns-66fd70c577a5eeeb50e3990141edbed3"
+publishedDateTime: 2021-01-26T08:24:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-ai-delivers-for-cloudcommerce-1030002696"
+webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-ai-delivers-for-cloudcommerce-1030002696"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/Artificial-Intelligence-AI-Delivers-for-CloudCommerce-1030002696"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Artificial-Intelligence-AI-Delivers-for-CloudCommerce-1030002696"
 type: article
-quality: 52
-heat: -1
-published: false
+quality: 84
+heat: 94
+published: true
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - Facebook AI
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Artificial Intelligence (AI) Delivers for CloudCommerce"
@@ -39,6 +40,6 @@ related:
         height: 630
         isCached: true
 
-secured: "OZkxPHMcqOI2VsULMRu3VYgZXmtWUqRm3hLd2wtNw6oTsGq7gHeC2BoaTWynCErgBu4co5xqArc6230PvBkv2sE5iTknOuJXAYen5o0Upy8Q/R7ya98AbW+nUS8/2uS91brM6nBmB9AeUYAgPWvdZMU0si3/9/1qUVfjcVwMe9X4CwpEExNfPBrw3CyXjK1xSl7NPUvOeFthdsJpSEq9T0RLSHX/wifTwnBCrdNyHYPL0ObMdV63P+kzWN7zgHXkAznUoIVj/tQMRqet/rSU36sQTF2QsTilJ1+smCQn9OkYAK2a6Y0zy1ZIHdi/DcuG+bXIVNo22BbHdPxQZFxSimxdOthGwT90Z42XpWAJmW4=;5o8vo8V0wwt7nxhwDXYz2Q=="
+secured: "LTcbXnp0tIng4fR8pDMFG/L5G1csm/w52f19lyLLKOXRfSmLo56694rNqg39w2U0zHKLC8GjlNgPjsKul6J5kVZk8w1Z2PVQnijKjRldbKKNcpZ5XVYcq7jUdQOVyb2jtt6JF7xayzle4nmeftyxt6eF7bZtyrrRJfur1oDX8+5cPIijfE+tUG4VXcmQ4Ku1hqwPEWtAPLXUsdMAecdY4XB6jXXzHAh/PuWcnKRY0FSJ81Rp/A+jEyNesBsiSEXA4jSu0rpb6213dN1wgT9EstwpUPr5r5dBrTSLMBTXtB3Y5/5L7XfNYWQS3tRIVg3jcNFAbj23TcGQ2CGOTRxna0W5EH0hFJ83I9NFZ09Fs7Q=;/sAQUZqghBAOsC1bzjhQ8w=="
 ---
 

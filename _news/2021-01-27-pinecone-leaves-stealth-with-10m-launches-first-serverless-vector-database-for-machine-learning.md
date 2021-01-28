@@ -1,25 +1,29 @@
 ---
 category: news
 title: "Pinecone leaves stealth with $10M, launches first serverless vector database for machine learning"
-excerpt: "PineconeSystems Inc., a machine learning (ML) cloud infrastructure company, left stealth today with $10m in seed funding."
-publishedDateTime: 2021-01-27T15:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/01/n19345715/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning"
-webUrl: "https://www.benzinga.com/pressreleases/21/01/n19345715/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning"
-ampWebUrl: "https://amp.benzinga.com/amp/content/19345715"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19345715"
+excerpt: "PineconeSystems Inc., a machine learning (ML) cloud infrastructure company, left stealth today with $10m in seed funding. The investment was led by Wing Venture Capital, and Wing's Founding Partner, Peter Wagner,"
+publishedDateTime: 2021-01-27T15:09:00Z
+originalUrl: "https://www.lelezard.com/en/news-19620012.html"
+webUrl: "https://www.lelezard.com/en/news-19620012.html"
 type: article
 quality: 28
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
-  - AWS AI
+  - AI in Finance
   - AI
   - Machine Learning
+
+images:
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
+    isCached: true
 
 related:
   - title: "Pinecone lands $10M seed for purpose-built machine learning database"
@@ -40,15 +44,15 @@ related:
         isCached: true
   - title: "Pinecone, a serverless vector database for machine learning, leaves stealth with $10M funding"
     excerpt: "Machine learning applications understand the world through vectors. Pinecone, a specialized cloud database for vectors, has secured significant investment from the people who brought Snowflake to the world."
-    publishedDateTime: 2021-01-27T15:06:00Z
-    webUrl: "https://www.zdnet.com/index.php/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/"
-    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/"
+    publishedDateTime: 2021-01-27T07:00:00Z
+    webUrl: "https://www.zdnet.com/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 80
+    quality: 78
     images:
       - url: "https://zdnet4.cbsistatic.com/hub/i/2021/01/27/433da3ee-bf33-491e-b03e-51e2184e3670/pinecone-illustration.jpg"
         width: 426
@@ -97,6 +101,6 @@ related:
         height: 315
         isCached: true
 
-secured: "grQHRQ6QXcpb70zXXTMbm7WLNnVFXjPJK/opuo6V2BEDYiN9dopNplKRm8Pw4qzH1BVtcQhyuuTrN1xjVFseQCWAgJ3Z0lQemwOhadW1xAvejlRyFt3QhgZ9MkvOdZYxVlCCLi2hymbCJ8uDFvMjIsKMs4t4Ts2qPGJj0jKQbNm93/zqIIDePaLMb7hbRZUvybB3auzGYrZsxeR2Z1eKHCDZMW5zy4+JkiBwgNMikBtCn9IZJhtDcXKinVQcfOfcU099vu4QRpO0nFI+1NmC/mmllSQrjNOrkch4ZTfxNZJ1x7dQk40CkZ6elK27bVe6r8AQl0TyI2ZAmZFJfLWndyWzWTmvsNVbaUh68BYsuTc=;MUWVa6YJ0B9BQGwE34dJLQ=="
+secured: "f42EyPsKDhJKS57bO6ckBNIkUg4i0iw14XCbC0Rv8aL4wFM4RYS7VIdgJUgIcSDuLJR+b+K660HrWtkO7K08lvcKLNVGoFRVayKITdzuX5jwHC0yCn+Pn5adOjW4e/IsrQIycJCGLdae8iOucjQz9AfipNzkcsVXfEykN/shcWy6D/ehFXLkBlvEAZjcKuVT5Yv9A3VVM+RqTrv71GAfytzwQEG7xX1Yuqsp63RMqjp8Yr3jAxD0MvcyVFPcsFmwddBKiEkob06FgS7Ozl7+FeZjVmI84u0Bshe/JWouO5cqTvX4stB0qsORaW+G4MjD23PyBR8nRFXwMjtxpMjUVpgWNKmXgZZURzlDbd4MZgo=;5Rj8SxD8ausbV45MPQKRXw=="
 ---
 

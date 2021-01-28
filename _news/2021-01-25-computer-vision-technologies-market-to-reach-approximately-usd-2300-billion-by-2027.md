@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2230732/computer-vision-technologies-mark
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2230732/computer-vision-technologies-market-to-reach-approximately-usd"
 type: article
 quality: 52
-heat: 52
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 400
     height: 300
     isCached: true
+
+related:
+  - title: "At More than 36.2% CAGR, Artificial Intelligence Market Will exceed USD 208.49 Billion by 2025"
+    excerpt: "Based on end-user, the market is segmented into media & advertising, BFSI, it & telecom, retail, healthcare, automotive & transportation and others. The regions covered in this Artificial Intelligence Market report are North America, Europe, Asia-Pacific ..."
+    publishedDateTime: 2021-01-28T12:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/at-more-than-362-cagr-artificial-intelligence-market-will-exceed-usd-20849-billion-by-2025-2021-01-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "QfE2ORCsV361YrxmqSRtf0zsgao7wr4mE00Jr9KyfvLtGl1gFF1JlD+FZyqFjo1eQg73sIx5ziUpsz5e4ZSARy6F07E4bfQ+WYIUTrL3LswCZ6y1RCXOszoisk8I6ADbmFdo4/cAzvCBd27r5R4V6Vkyu4ouwj2Upb8FhBY7guCxoI4wbobOWMWEpPNlwR3kdWn8N19kYGQy9ea1/SZWal8FZ3knngYhc9+axLpGkJZCWiCD6Z7oazhVKzJ8drxA1fexSXIM298V80Hk70XNUcMlkwmj3ufrFjCkZoA16WgRdR8YKMNWirr0hTXrcBvjQRLj0QXP/eLAYOpr9sbj4dpTOUyznavyzd/zom2X842u/w1NF0Maqf2jTGC+AOJkySp+Ld0iOqNRMCtA4GMK56WQy6soep+3Y+NF3vg9uqYDfWZAq6oI9HT/KvPzvQ2yv30P5DEEyntv9cseIRPb22b1caDnFLf9YXCcjUH/s60lWVEt4Jg9Y0tvzmFpfqZmh/VdF5Wz4S61Ww/j21BkiQ==;MOA7wvveeWh5u3bVOQFqQA=="
 ---

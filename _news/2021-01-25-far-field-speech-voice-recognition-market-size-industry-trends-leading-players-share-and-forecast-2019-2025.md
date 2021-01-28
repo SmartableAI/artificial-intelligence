@@ -139,6 +139,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Technology Innovations and Virtual Consultations Drive the Healthcare Industry Transformation by 2025"
+    excerpt: "Frost & Sullivan's recent analysis, Vision 2025—Rising Healthcare Expenditures and Disproportionate Improvement in Patient Outcomes"
+    publishedDateTime: 2021-01-28T12:28:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/technology-innovations-and-virtual-consultations-drive-the-healthcare-industry-transformation-by-2025-858165700.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 24
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "WLImx8cbxTxkFayb47GtKkENBkTKv6h/5hc6flLGdg2XOCemQ3UJdgxcxIngxePUuJPYZNxgrC87HJobQCadlu2s0yQ9hAdoBA190kGYgWxWpbKVUZJfEz3crL3N8fyVUHldq1D4kIANj1UURT9uR73pZFwh2QKrtK6SZgyXBaArYqE/stajbCJzs4RstAsk25C9TdpbZRFvy8XdVLAcASQkvGMTHYkhoahF1pPqcD5JnyGBankgvciidac2/tuCbzFv2UpVrIgk4QVYBWrVS9hc9lBLBxPQKVReoJjoFnTmQYi+htO1AXh2YOr+R08U7I+mMU+yJZ3iNnr1vSHSqcO6R8k8+DlAtowDVCxfy8UzO0+r35MsYDXhUo8cbkmB4+plACCH+sYGqktLAom0qMlgCFU0hTTLtwP+l7EEaXVU72eiwyC4E+BU90Y/llnCjzPtmvfV7FbtXqfBQxzEPn2w/aawUwIBgwLLbX/CjmGWAepPZrDf1NrcYNx3Hwc5pFkfqMu2TbGfEG5QAdUNgw==;JnLqlqAhKMI5IGb3NrkOfg=="
 ---

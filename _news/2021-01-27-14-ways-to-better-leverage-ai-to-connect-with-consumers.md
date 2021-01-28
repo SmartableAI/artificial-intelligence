@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2021/01/27/14-ways-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2021/01/27/14-ways-to-better-leverage-ai-to-connect-with-consumers/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -62,6 +62,17 @@ related:
         width: 615
         height: 384
         isCached: true
+  - title: "84% Indian consumers feel AI drives better customer experience"
+    excerpt: "About 84 per cent Indian consumers agree that Artificial Intelligence (AI) has the potential to provide better customer experience,"
+    publishedDateTime: 2021-01-28T12:31:00Z
+    webUrl: "https://www.glamsham.com/world/technology/84-indian-consumers-feel-ai-drives-better-customer-experience"
+    ampWebUrl: "https://www.glamsham.com/world/technology/84-indian-consumers-feel-ai-drives-better-customer-experience?amp"
+    cdnAmpWebUrl: "https://www-glamsham-com.cdn.ampproject.org/c/s/www.glamsham.com/world/technology/84-indian-consumers-feel-ai-drives-better-customer-experience?amp"
+    type: article
+    provider:
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 39
   - title: "New artificial intelligence tool to better assist U of T students with course selection"
     excerpt: "The Centre for Analytics and Artificial Intelligence Engineering (CARTE) has created an in-development artificial intelligence (AI) tool named Education Pathways to help U of T students with course selection."
     publishedDateTime: 2021-01-25T02:40:00Z

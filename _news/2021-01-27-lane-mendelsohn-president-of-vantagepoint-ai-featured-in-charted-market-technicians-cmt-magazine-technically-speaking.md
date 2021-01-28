@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Lane Mendelsohn, President of Vantagepoint AI, featured in Charted Market Technicians® (CMT) magazine, Technically Speaking"
-excerpt: "Lane Mendelsohn, President of Vantagepoint AI, LLC, has been featured in CMT's Technically Speaking magazine. Mendelsohn is a"
-publishedDateTime: 2021-01-27T13:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/lane-mendelsohn-president-of-vantagepoint-ai-featured-in-charted-market-technicians-cmt-magazine-technically-speaking-301215631.html"
-webUrl: "https://www.prnewswire.com/news-releases/lane-mendelsohn-president-of-vantagepoint-ai-featured-in-charted-market-technicians-cmt-magazine-technically-speaking-301215631.html"
+excerpt: "Lane Mendelsohn, President of Vantagepoint AI, LLC, has been featured in CMT's Technically Speaking magazine. Mendelsohn is a long-standing member and is designated by the Charted Market Technician ® (CMT ®) Association."
+publishedDateTime: 2021-01-27T13:13:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/lane-mendelsohn-president-of-vantagepoint-ai-featured-in-charted-market-technicians-cmt-magazine-technically-speaking-1030009487"
+webUrl: "https://markets.businessinsider.com/news/stocks/lane-mendelsohn-president-of-vantagepoint-ai-featured-in-charted-market-technicians-cmt-magazine-technically-speaking-1030009487"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/lane-mendelsohn-president-of-vantagepoint-ai-featured-in-charted-market-technicians-cmt-magazine-technically-speaking-1030009487"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/lane-mendelsohn-president-of-vantagepoint-ai-featured-in-charted-market-technicians-cmt-magazine-technically-speaking-1030009487"
 type: article
-quality: 13
-heat: -1
+quality: 43
+heat: 43
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/1096645/Vantagepoint_Logo.jpg?p=facebook"
-    width: 1809
-    height: 949
-    isCached: true
 
 related:
   - title: "Lane Mendelsohn, President of Vantagepoint AI, featured in Charted Market Technicians(R) (CMT) magazine, Technically Speaking"
@@ -44,7 +44,7 @@ related:
   - title: "Lane Mendelsohn, President of Vantagepoint AI, featured in Charted Market Technicians(R) (CMT) magazine, Technically Speaking"
     excerpt: "WESLEY CHAPEL, FL / ACCESSWIRE / January 27, 2021 / Lane Mendelsohn, President of Vantagepoint AI, LLC, has been featured in CMT’s Technically Speaking magazine. Mendelsohn is a long-standing member and is designated by the Charted Market Technician® (CMT®) Association."
     publishedDateTime: 2021-01-28T08:01:00Z
-    webUrl: "https://apnews.com/press-release/accesswire/technology-business-intellectual-property-artificial-intelligence-computing-and-information-technology-5a40e9efba02fbbeee62a37f98171592/gallery/5a34cd3c1b1727d0e376eea5048e8d4c"
+    webUrl: "https://apnews.com/press-release/accesswire/technology-business-intellectual-property-artificial-intelligence-computing-and-information-technology-5a40e9efba02fbbeee62a37f98171592"
     type: article
     provider:
       name: Associated Press
@@ -56,6 +56,6 @@ related:
         height: 450
         isCached: true
 
-secured: "/aioo/+pYA12S1Xn+sTUFiYNakw/7KEB9kGJmUogqWIybODnCJNlJXrAVVi/7w+YW2alutqusPY7By9rFZhoLKzt31RsqPyLFWlXJGz47YnnIjV0F4MixBb+oj/7EYJ/39i0Su00z2TSexk10QRoXw6X9XYHvzNVAbVq4nPm1ZY8RC9S6baiRRaajaPHHcl37kmd+Uu8Txog2pSXGv/y0W7Wu/k32qiEPJVfZw/+qbvm92sSgC44XLESWYiXfmH/xBAzCJY8bXWVFCkGTWz5i+OmZhOyoDsT/6uAAl6Un+3eHrOHU5U8tT36WDqT8k+B4647DWABesrmDguC06aaWU1fMFMY3LQgsY1rCy/noZU=;IAiTJlFrlZpaVNjUGYVKRg=="
+secured: "C4wBHD4/nGS1uMTxCDd/i26er5VpfXfze5PcckN6BBWtg6qxHNMoJSoAM6CqKMIuAm5JbcmgbE0GTyDgtxXrxvT62K2nHZBRiUQAthAxmdW7m6zs65rtecKNiCSM06yOpv5WpEad83dGP0QTW9hdR15CVA8EvWosT41U4/C+j8368WXWSMAnQwHDdT7OfmHY9HmyCn3RvvdZeuhTsodDoWoo4iO7THo665O2WI0wAuLjX4gbHGri2+lRJwUPSk9+mQN/GtJJSzVxtENrZUinKJ9Vf+1UJomptp4Xkc0lOvZ3fdl7b7D6kc+dfbZr40553Yq+SKqOn2LSr+HGP28LquANx2yXWcV6q2IpB0uA1IQ=;DH4kGhRGpTSMXqVj1EcgNw=="
 ---
 

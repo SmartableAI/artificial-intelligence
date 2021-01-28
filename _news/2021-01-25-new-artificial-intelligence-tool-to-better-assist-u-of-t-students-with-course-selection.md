@@ -72,6 +72,17 @@ related:
         width: 615
         height: 384
         isCached: true
+  - title: "84% Indian consumers feel AI drives better customer experience"
+    excerpt: "About 84 per cent Indian consumers agree that Artificial Intelligence (AI) has the potential to provide better customer experience,"
+    publishedDateTime: 2021-01-28T12:31:00Z
+    webUrl: "https://www.glamsham.com/world/technology/84-indian-consumers-feel-ai-drives-better-customer-experience"
+    ampWebUrl: "https://www.glamsham.com/world/technology/84-indian-consumers-feel-ai-drives-better-customer-experience?amp"
+    cdnAmpWebUrl: "https://www-glamsham-com.cdn.ampproject.org/c/s/www.glamsham.com/world/technology/84-indian-consumers-feel-ai-drives-better-customer-experience?amp"
+    type: article
+    provider:
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 39
 
 secured: "0STrcfcw33o2wPnIEUMN+JZMikvvtNSRkQSvvLNStLSiMRmbmOtDd7DSjWhk9T68e8/TqK1PLU3c6Oi49KBvAEn5wkNneQbCBHODAxILafUVomnEIendq7wE4U5dRUswlG1HL3lzGR88IkiNjpVAR9cfocmxUQM0uXGjd/KycY6Wp/ZjgY1hEjUSjgvx0A/SmSq1WSmiwfLRsxqlURg6oo+PDkgRdanJqCF5+HqOaJeO2hZO7zovGRnTComXU1aIXsFVt7jBy0cGU799syyC+HiQEJQqd1Er8myCRbU0Od7/+ChPcHjDH10/G9BA/POi3Ir+S5jHHB26qTlzyWJTKc+0RsM6fjMjAbNfKCkNbZc=;kp+6C3pasmdLA+Qa0LOEnQ=="
 ---
