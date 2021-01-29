@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210128/New-machine-learning-
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210128/New-machine-learning-model-predicts-COVID-19-severity.aspx"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Machine learning tool predicts respiratory failure in COVID-19 patients"
+    excerpt: "In an effort to expedite care for coronavirus disease 2019 (COVID-19) patients upon hospital admission, a team at The Feinstein Institutes for Medical Research has developed a machine learning (ML) artificial intelligence (AI) powered clinical predictive tool that can accurately assess patients for the risk of respiratory failure within 48 hours."
+    publishedDateTime: 2021-01-28T19:18:00Z
+    webUrl: "https://www.globalbankingandfinance.com/category/news/machine-learning-tool-predicts-respiratory-failure-in-covid-19-patients/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 56
+    images:
+      - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Machine Learning, Real-Time Data App Rates COVID-19 Exposure Risk"
     excerpt: "A new app leverages machine learning and real-time data to provide location-based risk assessments of COVID-19 exposure."
     publishedDateTime: 2021-01-27T18:01:00Z
@@ -57,16 +71,21 @@ related:
         width: 2880
         height: 1920
         isCached: true
-  - title: "Machine learning tool predicts respiratory failure in COVID-19 patients"
-    excerpt: "In an effort to expedite care for coronavirus disease 2019 (COVID-19) patients upon hospital admission, a team at The Feinstein Institutes for Medical Research has developed a machine learning (ML) artificial intelligence (AI) powered clinical predictive tool that can accurately assess patients for the risk of respiratory failure within 48 hours."
-    publishedDateTime: 2021-01-28T18:48:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210128005971/machine-learning-tool-predicts-respiratory-failure-in-covid-19-patients"
+  - title: "Integrating deep learning CT-scan model, biological and clinical variables to predict severity of COVID-19 patients"
+    excerpt: "The SARS-COV-2 pandemic has put pressure on intensive care units, so that predicting severe deterioration early is a priority. Here, the authors develop a multimodal severity score including clinical and imaging features that has significantly improved prognostic performance in two validation datasets compared to previous scores."
+    publishedDateTime: 2021-01-27T11:39:00Z
+    webUrl: "https://www.nature.com/articles/s41467-020-20657-4"
     type: article
     provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 34
+      name: Nature
+      domain: nature.com
+    quality: 17
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-020-20657-4/MediaObjects/41467_2020_20657_Fig1_HTML.png"
+        width: 685
+        height: 378
+        isCached: true
 
-secured: "f5QP5BypayMFYoi0TthF4HOm9bfJCjHGr9lmnEBM2daIrzdXf8OrHnPKLDMjpv9JKX70rCnWnVyHHkTrKsv640pBQqh0POm3jd8j9MIqmFEsdlCedO+VFSQxzZYn0rCguKiIZqrT2Wsm4fZhiABBa4tnC3fCBB97LS5XNr3IL+eraWe0HGRYvJaOepDFs4/DFhF6LAOEd28g+kULJezgQy1wvjxFasPNGDKzFgbkdoLIMdrZ/CmOD642+jvoRbxuxS+QX6AQ6uKo8kD9YjjawAvRiVpZhfLVVsBntd6+v0yWuRKeyit183QXW2cwxAUiieBevjH7BNQsZ68bOhe40h6UBDbtYdPMRnd6rB5/ZLc=;s02q1u2y6sFGdCqYeKPzyg=="
+secured: "3V6lDuNULrX5QPpTAOEa3oj2Y6+smsDVY4zm7r25Voqox1mvdXzh7jRQdvqiXuCWTiQn3SU78i63QcLz+/4yjj1HwzEYrcOzrOvbgsn0vyiUIXwflZhb1r3MsYhWwFD4SpNE44QFJoehjbVvJIFv8++Tk93E5v1KaHcxObklfkjj8jvS1u21QonYiZJIuiJoxArz8KvRKrLTSBGN4VpHlTRN1zx4lfXev2/wNNss/q7F/H2ttMavrs6eFbocIn5NL2+6WK1l6n3uaYlAsjnO82LsCUMcffTmANhvfRYp3Kw7YV8mMxj7m89DVbdMHiuQbK/SKJXGCD0WDAPL/AQZDZho3MgwAKWyPtxLtJfKkVnVR/bPfj5Mwlpnk9IdEfLpieQraaLuNoWKgfOd8ysbRdmvH2JX5unF9S4miF1spZwNn1Gjbmrto5PhlZXpL6qDS8krTHs++M9a0+zadXI5D4odDTfUbznNKO36K+x0rWc2mxk1X0OZ5a+FWgJ7l2gQkNktqAYeAeYTTRFEHY4RLQ==;Xp4WHqj7FmfB47TDVmhnwQ=="
 ---
 

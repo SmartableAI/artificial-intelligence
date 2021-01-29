@@ -126,6 +126,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Natural Language Processing Market Research Update, Size Estimation, Future Scope, Revenue Opportunities and Regional Forecast to 2026"
+    excerpt: "The overall natural language processing market is expected to grow from USD 8.61 Billion in 2018 to USD 80.68 Billion"
+    publishedDateTime: 2021-01-29T06:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-research-update-size-estimation-future-scope-revenue-opportunities-and-regional-forecast-to-2026-2021-01-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Big Data Technology Market Latest Industry Size, Share, Emerging Trends, Future Demands, Revenue and Forecasts Research Report"
+    excerpt: "The global big data technology market is set to experience an impressive growth trajectory owing to the rising"
+    publishedDateTime: 2021-01-29T06:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/big-data-technology-market-latest-industry-size-share-emerging-trends-future-demands-revenue-and-forecasts-research-report-2021-01-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Far Field Speech Voice Recognition Market Size, Industry Trends, Leading Players, Share and Forecast 2019-2025"
     excerpt: "The global far field voice and speech recognition market size is expected to grow at a CAGR of 24 56 during the forecast period Long distance speech recognition is an essential technology for voice interaction and aims to enable smart"
     publishedDateTime: 2021-01-25T12:54:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/resource-library/whitepapers
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/report-idc-unleashing-the-power-of-ai-initiatives-with-the-right-infrastructure/"
 type: article
 quality: 62
-heat: -1
-published: false
+heat: 72
+published: true
 
 provider:
   name: TechRepublic
@@ -24,22 +24,6 @@ topics:
   - AI
 
 related:
-  - title: "Hidden in plain sight: The infrastructures that support artificial intelligence"
-    excerpt: "Artificial intelligence is supported by an infrastructure of hardware and software that is growing increasingly present in our lives, yet remains hidden in plain view."
-    publishedDateTime: 2021-01-24T14:13:00Z
-    webUrl: "https://theconversation.com/hidden-in-plain-sight-the-infrastructures-that-support-artificial-intelligence-146087"
-    ampWebUrl: "https://theconversation.com/amp/hidden-in-plain-sight-the-infrastructures-that-support-artificial-intelligence-146087"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/hidden-in-plain-sight-the-infrastructures-that-support-artificial-intelligence-146087"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 68
-    images:
-      - url: "https://images.theconversation.com/files/360096/original/file-20200926-22-vahctv.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-        width: 320
-        height: 213
-        isCached: true
   - title: "Hidden in plain sight: The infrastructures that support artificial intelligence"
     excerpt: "Artificial intelligence requires machines, processing power and energy consumption, among other things. Often, we’re unaware of the presence of this infrastructure around us"
     publishedDateTime: 2021-01-26T14:39:00Z

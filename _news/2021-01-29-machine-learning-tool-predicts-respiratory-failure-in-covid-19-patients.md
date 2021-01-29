@@ -2,21 +2,28 @@
 category: news
 title: "Machine learning tool predicts respiratory failure in COVID-19 patients"
 excerpt: "In an effort to expedite care for coronavirus disease 2019 (COVID-19) patients upon hospital admission, a team at The Feinstein Institutes for Medical Research has developed a machine learning (ML) artificial intelligence (AI) powered clinical predictive tool that can accurately assess patients for the risk of respiratory failure within 48 hours."
-publishedDateTime: 2021-01-28T18:48:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20210128005971/machine-learning-tool-predicts-respiratory-failure-in-covid-19-patients"
-webUrl: "https://www.morningstar.com/news/business-wire/20210128005971/machine-learning-tool-predicts-respiratory-failure-in-covid-19-patients"
+publishedDateTime: 2021-01-28T19:18:00Z
+originalUrl: "https://www.globalbankingandfinance.com/category/news/machine-learning-tool-predicts-respiratory-failure-in-covid-19-patients/"
+webUrl: "https://www.globalbankingandfinance.com/category/news/machine-learning-tool-predicts-respiratory-failure-in-covid-19-patients/"
 type: article
-quality: 34
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: List of Banks in Belarus
+  domain: globalbankingandfinance.com
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
+  - Machine Learning
+
+images:
+  - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
+    width: 1000
+    height: 600
+    isCached: true
 
 related:
   - title: "New machine learning model predicts COVID-19 severity"
@@ -65,7 +72,21 @@ related:
         width: 2880
         height: 1920
         isCached: true
+  - title: "Integrating deep learning CT-scan model, biological and clinical variables to predict severity of COVID-19 patients"
+    excerpt: "The SARS-COV-2 pandemic has put pressure on intensive care units, so that predicting severe deterioration early is a priority. Here, the authors develop a multimodal severity score including clinical and imaging features that has significantly improved prognostic performance in two validation datasets compared to previous scores."
+    publishedDateTime: 2021-01-27T11:39:00Z
+    webUrl: "https://www.nature.com/articles/s41467-020-20657-4"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 17
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-020-20657-4/MediaObjects/41467_2020_20657_Fig1_HTML.png"
+        width: 685
+        height: 378
+        isCached: true
 
-secured: "M4smpiamq+MXy0I817O6KcJNmVd+1oxGrPRyrY19bEuTCgbjDc2+Kq269ZbLt5Z6oagQt4cCX2Iy0p2gxRl6oYZL3a5jJFeqIyPSVBfKk6J7UGosQiAmXR7QelxWx3bbHeL29s7ROGeZ+4JwVk416l3lwHDUG4mPQzDeyn+c3FNpesU8VCTxAaU4nhNhdHp7fxO3uum7wvfEaRTc4PnsqZ1ZvBE3PDnsJkQgtCE5ELM7JqLEPPpbHEPl206XkJQV522YXTtf6O2RQTAEL5ZPmqCfOkBaxtDVWXeF2GbvLBb4nBvrVyt5pS6GPYSLyR8lgNnCURHYuWbghmpD5m/Y7KpjIx5oAD5D28JJLJjybhI=;YdqoJ055CP3ZGGoGRJRhhw=="
+secured: "W28a6m0/ME5Ss84FkdcBoknFSIrX3nonc0Alo+ITolTkizS4ODvKLb7PNj4neBYZvE39SHp2YmQwSFbFihsJb2ThGuIoujHSXkznElKMb/l+f0CF3SISJnxGOHKAADqQJ6BgPSwW9qI/Ammu1tMOMXrm4FGKC4matJFuSQmvMmpJ+bK2TLHPeMpgIwAlXsXg/tEHBEz3xhUTOHnmMdsT05b6RS4Ylh31oqqv+tjnu1iAgAJ7q7ikHbWJcf5AVuBbys6ihXxVpqi6J6ySs9bsxsblizcHQazNAdGflPiLJpMTnNi1kQAOrVbpdeq/iu4VL2RhQjvTTuUG+H+A3VoQ7PH8w8YKSY1J4l2cj066cuY=;0osqZYW/ZKnLrn6IHhnXHw=="
 ---
 

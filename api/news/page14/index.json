@@ -2,6 +2,91 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-01-18-artificial-intelligence-used-in-bid-to-improve-coronavirus-treatment.md",
+      "title": "Artificial intelligence used in bid to improve coronavirus treatment",
+      "excerpt": "Artificial intelligence will be used in an effort to improve the treatment of coronavirus patients.Read more on 'Belfast Telegraph'",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-used-in-bid-to-improve-coronavirus-treatment-9703277",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-used-in-bid-to-improve-coronavirus-treatment-9703277",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/artificial-intelligence-used-in-bid-to-improve-coronavirus-treatment-9703277",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-used-in-bid-to-improve-coronavirus-treatment-9703277",
+      "publishedDateTime": "2021-01-17T22:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-18-fitch-invests-in-ai-start-up-to-improve-bank-misconduct-detection.md",
+      "title": "Fitch invests in AI start-up to improve bank misconduct detection",
+      "excerpt": "Credit rating agency seeks to expand how it evaluates lenders’ riskiness amid raft of scandalsRead more on 'Financial Times Companies'",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/fitch-invests-in-ai-start-up-to-improve-bank-misconduct-detection-9703747",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/fitch-invests-in-ai-start-up-to-improve-bank-misconduct-detection-9703747",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/fitch-invests-in-ai-start-up-to-improve-bank-misconduct-detection-9703747",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/fitch-invests-in-ai-start-up-to-improve-bank-misconduct-detection-9703747",
+      "publishedDateTime": "2021-01-17T22:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-01-18-76-of-enterprises-prioritize-ai-machine-learning-in-2021-it-budgets.md",
       "title": "76% Of Enterprises Prioritize AI & Machine Learning In 2021 IT Budgets",
       "excerpt": "The pandemic created a new sense of urgency regarding getting AI and ML projects completed, a key point made by CIOs across the financial services and tech sectors last year during interviews.",
@@ -1115,100 +1200,6 @@
         "AI",
         "AI Hardware",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-feature-store-repositories-emerge-as-an-mlops-linchpin-for-advancing-ai.md",
-      "title": "Feature store repositories emerge as an MLOps linchpin for advancing AI",
-      "excerpt": "A race to build an MLOps ecosystem around feature store repositories is now uderway as organizations look for ways to accelerate AI projects",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/15/feature-store-repositories-emerge-as-an-mlops-linchpin-for-advancing-ai/",
-      "originalUrl": "https://venturebeat.com/2021/01/15/feature-store-repositories-emerge-as-an-mlops-linchpin-for-advancing-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/tecton-feature-store.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/15/feature-store-repositories-emerge-as-an-mlops-linchpin-for-advancing-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/15/feature-store-repositories-emerge-as-an-mlops-linchpin-for-advancing-ai/amp/",
-      "publishedDateTime": "2021-01-15T11:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-in-brain-imaging-deep-learning-beats-standard-machine-learning.md",
-      "title": "In Brain Imaging, Deep Learning Beats Standard Machine Learning",
-      "excerpt": "Deep learning models were able to detect patterns and discriminative features in brain imaging better than standard machine learning tools.",
-      "sourceUrl": null,
-      "webUrl": "https://healthitanalytics.com/news/in-brain-imaging-deep-learning-beats-standard-machine-learning",
-      "originalUrl": "https://healthitanalytics.com/news/in-brain-imaging-deep-learning-beats-standard-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-513688464.jpg",
-          "width": 690,
-          "height": 402,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-15T10:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

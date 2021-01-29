@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Hidden in plain sight: The infrastructures that support artificial intelligence"
-    excerpt: "Artificial intelligence is supported by an infrastructure of hardware and software that is growing increasingly present in our lives, yet remains hidden in plain view."
-    publishedDateTime: 2021-01-24T14:13:00Z
-    webUrl: "https://theconversation.com/hidden-in-plain-sight-the-infrastructures-that-support-artificial-intelligence-146087"
-    ampWebUrl: "https://theconversation.com/amp/hidden-in-plain-sight-the-infrastructures-that-support-artificial-intelligence-146087"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/hidden-in-plain-sight-the-infrastructures-that-support-artificial-intelligence-146087"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 68
-    images:
-      - url: "https://images.theconversation.com/files/360096/original/file-20200926-22-vahctv.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-        width: 320
-        height: 213
-        isCached: true
   - title: "Report IDC: Unleashing the Power of AI Initiatives with the Right Infrastructure"
     excerpt: "Today, as AI becomes mainstream, many organizations find themselves in the initial proof-of-concept (POC) stage; only a few are in full"
     publishedDateTime: 2021-01-27T15:54:00Z

@@ -43,6 +43,20 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Machine learning tool predicts respiratory failure in COVID-19 patients"
+    excerpt: "In an effort to expedite care for coronavirus disease 2019 (COVID-19) patients upon hospital admission, a team at The Feinstein Institutes for Medical Research has developed a machine learning (ML) artificial intelligence (AI) powered clinical predictive tool that can accurately assess patients for the risk of respiratory failure within 48 hours."
+    publishedDateTime: 2021-01-28T19:18:00Z
+    webUrl: "https://www.globalbankingandfinance.com/category/news/machine-learning-tool-predicts-respiratory-failure-in-covid-19-patients/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 56
+    images:
+      - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Machine Learning, Real-Time Data App Rates COVID-19 Exposure Risk"
     excerpt: "A new app leverages machine learning and real-time data to provide location-based risk assessments of COVID-19 exposure."
     publishedDateTime: 2021-01-27T18:01:00Z
@@ -57,15 +71,20 @@ related:
         width: 690
         height: 400
         isCached: true
-  - title: "Machine learning tool predicts respiratory failure in COVID-19 patients"
-    excerpt: "In an effort to expedite care for coronavirus disease 2019 (COVID-19) patients upon hospital admission, a team at The Feinstein Institutes for Medical Research has developed a machine learning (ML) artificial intelligence (AI) powered clinical predictive tool that can accurately assess patients for the risk of respiratory failure within 48 hours."
-    publishedDateTime: 2021-01-28T18:48:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210128005971/machine-learning-tool-predicts-respiratory-failure-in-covid-19-patients"
+  - title: "Integrating deep learning CT-scan model, biological and clinical variables to predict severity of COVID-19 patients"
+    excerpt: "The SARS-COV-2 pandemic has put pressure on intensive care units, so that predicting severe deterioration early is a priority. Here, the authors develop a multimodal severity score including clinical and imaging features that has significantly improved prognostic performance in two validation datasets compared to previous scores."
+    publishedDateTime: 2021-01-27T11:39:00Z
+    webUrl: "https://www.nature.com/articles/s41467-020-20657-4"
     type: article
     provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 34
+      name: Nature
+      domain: nature.com
+    quality: 17
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-020-20657-4/MediaObjects/41467_2020_20657_Fig1_HTML.png"
+        width: 685
+        height: 378
+        isCached: true
 
 secured: "XwQFq35VBC8VenCM0UsmcPVZshTvyte84qWsRNzUmgyFXLHdeElltRwKBGax+OFqP6j6LMUQGCif1WcViWfaLL2bvKv7OVIjrNsIjju0sSGwjp7GEF4rU6I8JbSr3oALYKXx20sTcXWQzyQ0pBzMqux8uODBK+w4cYuP3ZYxERtw+hom+0GKYduM7hnUDemezMELk+6ODWz4b87WBE7OnbRLnKIi5H9NcxI4U0J9UV7UMYnThgKtnkXaoz+a4mOgtGLjWH9gu1O5GZUc4LmD68klmY5f2Hd6aMPCE+BSdzUrzxk7rLo5XAZOB/Sdzcz1HkhcgpiwfpUXvZUVwDrH9/eqBw/oriCpFbbULQkORd4=;kMbx1jNcUhA3cNVm3Wv8VA=="
 ---

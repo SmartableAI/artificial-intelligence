@@ -2,6 +2,110 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2020-12-27-these-3-tech-stocks-gained-over-50-in-2020-heres-why-theyre-still-buys-in-2021.md",
+      "title": "These 3 Tech Stocks Gained Over 50% in 2020: Here's Why They're Still Buys in 2021",
+      "excerpt": "The S&P 500 has gained about 14% in 2020, but many technology stocks easily outpaced the market this year as investors looked to this sector as a haven during the pandemic. NVIDIA ( NASDAQ:NVDA), Atlassian ( NASDAQ:TEAM),",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/12/26/these-3-tech-stocks-gained-over-50-in-2020-heres-w/",
+      "originalUrl": "https://www.fool.com/investing/2020/12/26/these-3-tech-stocks-gained-over-50-in-2020-heres-w/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F605841%2Fgettyimages-1170740969.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/12/26/these-3-tech-stocks-gained-over-50-in-2020-heres-w/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/26/these-3-tech-stocks-gained-over-50-in-2020-heres-w/",
+      "publishedDateTime": "2020-12-26T10:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-27-responsible-ai-programs-to-follow-and-implement-breakout-year-2021.md",
+      "title": "Responsible AI Programs To Follow And Implement— Breakout Year 2021",
+      "excerpt": "Throughout this examination of AI usage, what about the considerations on accountability, responsibility, transparency, fairness, equity and inclusion, ethics, explainability, interpretability, trustworthiness and reliability, robustness, bias and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stephenibaraki/2020/12/26/responsible-ai-programs-to-follow-and-implement--breakout-year-2021/",
+      "originalUrl": "https://www.forbes.com/sites/stephenibaraki/2020/12/26/responsible-ai-programs-to-follow-and-implement--breakout-year-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe76805adb337277fcc9d07%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stephenibaraki/2020/12/26/responsible-ai-programs-to-follow-and-implement--breakout-year-2021/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenibaraki/2020/12/26/responsible-ai-programs-to-follow-and-implement--breakout-year-2021/amp/",
+      "publishedDateTime": "2020-12-26T09:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-27-service-robotics-market-size-trends-comprehensive-research-study-development-status-and-opportunities-forecast-to-2026.md",
       "title": "Service Robotics Market Size, Trends, Comprehensive Research Study, Development Status and Opportunities Forecast to 2026",
       "excerpt": "The global “Service Robotics Market” is expected to rise with an impressive CAGR and generate the highest revenue by",
@@ -1078,111 +1182,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents.md",
-      "title": "Google told its scientists to 'strike a positive tone' in AI research - documents",
-      "excerpt": "Alphabet Inc's Google this year moved to tighten control over its scientists' papers by launching a \"sensitive topics\" review, and in at least three cases requested authors refrain from casting its technology in a negative light,",
-      "sourceUrl": null,
-      "webUrl": "https://de.reuters.com/article/us-alphabet-google-research-focus-idUKKBN28X1CB",
-      "originalUrl": "https://de.reuters.com/article/us-alphabet-google-research-focus-idUKKBN28X1CB",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545593006&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM0QT",
-          "width": 1056,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN28X1CB",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28X1CB",
-      "publishedDateTime": "2020-12-24T01:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-artificial-intelligence-market-2021-trade-analysis-trends-drivers-challenges-growth-forecast.md",
-      "title": "Artificial Intelligence Market 2021 | Trade Analysis, Trends, Drivers, Challenges, Growth Forecast",
-      "excerpt": "As per the latest report published by Variant Market Research, Global Artificial Intelligence is estimated to reach",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-2021-trade-analysis-trends-drivers-challenges-growth-forecast-2020-12-24",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-2021-trade-analysis-trends-drivers-challenges-growth-forecast-2020-12-24",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-24T00:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -2,6 +2,109 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-27-tivo-takes-personalization-to-the-next-level-with-voice-id.md",
+      "title": "TiVo takes personalization to the next level with voice ID",
+      "excerpt": "TiVo and voice authentication company, Pindrop, have joined forces to let TiVo users get personalized content recommendations using just their voices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/home-theater/pindrop-voice-recognition-biometric-id-user-profiles-tivo/",
+      "originalUrl": "https://www.digitaltrends.com/home-theater/pindrop-voice-recognition-biometric-id-user-profiles-tivo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn3.digitaltrends.com/image/digitaltrends/tivo-stream-4k-00013-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/home-theater/pindrop-voice-recognition-biometric-id-user-profiles-tivo/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home-theater/pindrop-voice-recognition-biometric-id-user-profiles-tivo/?amp",
+      "publishedDateTime": "2021-01-26T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-ex-uber-team-raises-6m-seed-for-geospatial-analytics-platform-unfoldedai.md",
+      "title": "Ex-Uber team raises $6M seed for geospatial analytics platform Unfolded.ai",
+      "excerpt": "Years ago, Uber had a problem. With millions of users and tens of thousands of drivers scattered across a widening expanse of the globe, the fast-growing mobility startup wanted to display more accurate maps to users about where their ride was coming from and where it was intending to go to reach",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/01/26/ex-uber-team-raises-6m-seed-for-geospatial-analytics-platform-unfolded-ai/",
+      "originalUrl": "https://techcrunch.com/2021/01/26/ex-uber-team-raises-6m-seed-for-geospatial-analytics-platform-unfolded-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/01/founders.png?w=680",
+          "width": 680,
+          "height": 381,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/01/26/ex-uber-team-raises-6m-seed-for-geospatial-analytics-platform-unfolded-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/26/ex-uber-team-raises-6m-seed-for-geospatial-analytics-platform-unfolded-ai/amp/",
+      "publishedDateTime": "2021-01-26T07:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-reveal-and-brainspace-merge-to-become-leading-artificial-intelligence-powered-ediscovery-platform.md",
       "title": "Reveal And Brainspace Merge to Become Leading Artificial Intelligence Powered eDiscovery Platform",
       "excerpt": "Press Release Reveal, a global provider of the leading AI-powered eDiscovery platform, and Brainspace, a global provider of visual analytics for eDiscovery and investigations, announced today that they have joined forces.",
@@ -354,7 +457,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/364141",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1148,111 +1251,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-snap-acquired-ariel-ai-a-computer-vision-startup-set-up-by-ex-facebook-and-google-scientists.md",
-      "title": "Snap acquired Ariel AI, a computer vision startup set up by ex-Facebook and Google scientists",
-      "excerpt": "Two of Ariel AI's three cofounders worked at Facebook and Google as research scientists.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/snap-acquires-ariel-ai-computer-vision-skills-2021-1",
-      "originalUrl": "https://www.businessinsider.com/snap-acquires-ariel-ai-computer-vision-skills-2021-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/600f068b4827e700188a1325?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-25T18:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-south-korea-has-used-ai-to-bring-a-dead-superstars-voice-back-to-the-stage-but-ethical-concerns-abound.md",
-      "title": "South Korea has used AI to bring a dead superstar's voice back to the stage, but ethical concerns abound",
-      "excerpt": "Recent AI performances have excited fans of their music and the technology, but others have raised concerns about the ethics and legalities of resurrecting the voices of the dead.",
-      "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/2021/01/25/asia/south-korea-kim-kwang-seok-ai-dst-hnk-intl/index.html",
-      "originalUrl": "https://edition.cnn.com/2021/01/25/asia/south-korea-kim-kwang-seok-ai-dst-hnk-intl/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210122002517-03-ai-singing-show-south-korea-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/25/asia/south-korea-kim-kwang-seok-ai-dst-hnk-intl/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/asia/south-korea-kim-kwang-seok-ai-dst-hnk-intl/index.html",
-      "publishedDateTime": "2021-01-25T18:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

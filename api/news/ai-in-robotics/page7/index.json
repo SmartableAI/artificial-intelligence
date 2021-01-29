@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-11-28-dyson-plans-3-billion-investment-in-robotics-and-ai-to-create-new-products.md",
+      "title": "Dyson plans £3 billion investment in robotics and AI to create new products",
+      "excerpt": "The vacuum cleaner firm says it wants to double the size of its current product portfolio with new device ranges by 2025.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kentonline.co.uk/news/national/dyson-plans-3-billion-investment-in-robotics-and-ai-to-create-new-products-17778/",
+      "originalUrl": "https://www.kentonline.co.uk/news/national/dyson-plans-3-billion-investment-in-robotics-and-ai-to-create-new-products-17778/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.kentonline.co.uk/_media/img/OUYIDG68WRKX6AL8QM6H.jpg",
+          "width": 1620,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kentonline.co.uk/news/national/amp/dyson-plans-3-billion-investment-in-robotics-and-ai-to-create-new-products-17778/",
+      "cdnAmpWebUrl": "https://www-kentonline-co-uk.cdn.ampproject.org/c/s/www.kentonline.co.uk/news/national/amp/dyson-plans-3-billion-investment-in-robotics-and-ai-to-create-new-products-17778/",
+      "publishedDateTime": "2020-11-27T11:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kent Online",
+        "domain": "kentonline.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-27-dyson-plans-3-billion-investment-in-robotics-and-ai-to-create-new-products.md",
       "title": "Dyson plans £3 billion investment in robotics and AI to create new products",
       "excerpt": "Dyson plans to spend nearly £3 billion to double its range of products by 2025, with robotics among the new areas to be researched.",

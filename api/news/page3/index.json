@@ -2,6 +2,111 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-27-the-inner-game-of-ai-and-how-to-not-make-the-same-mistakes-you-made-with-digital-transformation.md",
+      "title": "The Inner Game Of AI (And How To Not Make The Same Mistakes You Made With Digital Transformation)",
+      "excerpt": "Implementing AI is a daunting challenge. It requires orchestrating seismic and complex change, retraining existing talent and acquiring new expertise. Learn how to not get it wrong.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/renitakalhorn/2021/01/27/the-inner-game-of-ai-and-how-to-not-make-the-same-mistakes-you-made-with-digital-transformation/",
+      "originalUrl": "https://www.forbes.com/sites/renitakalhorn/2021/01/27/the-inner-game-of-ai-and-how-to-not-make-the-same-mistakes-you-made-with-digital-transformation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6010935ebcc42bb3e75a9c62%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D640%26cropY1%3D10%26cropY2%3D490",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/renitakalhorn/2021/01/27/the-inner-game-of-ai-and-how-to-not-make-the-same-mistakes-you-made-with-digital-transformation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/renitakalhorn/2021/01/27/the-inner-game-of-ai-and-how-to-not-make-the-same-mistakes-you-made-with-digital-transformation/amp/",
+      "publishedDateTime": "2021-01-27T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-ai-ethics-really-come-down-to-security.md",
+      "title": "AI Ethics Really Come Down To Security",
+      "excerpt": "If we're going to rely on them to take more active and responsible roles in our lives, we must be able to trust that they're not only ethical but that the AI and the machine learning that underpins them operate safely and securely.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/27/ai-ethics-really-come-down-to-security/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/27/ai-ethics-really-come-down-to-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f353f32349adf926e0401fb%2F0x0.jpg",
+          "width": 1200,
+          "height": 943,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/27/ai-ethics-really-come-down-to-security/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/27/ai-ethics-really-come-down-to-security/amp/",
+      "publishedDateTime": "2021-01-27T05:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI Ethics",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-01-27-yati-ernie-machine-learning-in-yandex-and-baidu.md",
       "title": "YATI & ERNIE: Machine Learning in Yandex and Baidu",
       "excerpt": "Google isn't the only search engine making strides in machine learning. See how Yandex and Baidu have advanced search with YATI and ERNIE, as well.",
@@ -53,7 +158,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/01/27/14-ways-to-better-leverage-ai-to-connect-with-consumers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 227,
+      "heat": 237,
       "tags": null,
       "images": [
         {
@@ -1130,109 +1235,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-tivo-takes-personalization-to-the-next-level-with-voice-id.md",
-      "title": "TiVo takes personalization to the next level with voice ID",
-      "excerpt": "TiVo and voice authentication company, Pindrop, have joined forces to let TiVo users get personalized content recommendations using just their voices.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/home-theater/pindrop-voice-recognition-biometric-id-user-profiles-tivo/",
-      "originalUrl": "https://www.digitaltrends.com/home-theater/pindrop-voice-recognition-biometric-id-user-profiles-tivo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn3.digitaltrends.com/image/digitaltrends/tivo-stream-4k-00013-1200x630-c-ar1.91.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/home-theater/pindrop-voice-recognition-biometric-id-user-profiles-tivo/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home-theater/pindrop-voice-recognition-biometric-id-user-profiles-tivo/?amp",
-      "publishedDateTime": "2021-01-26T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-ex-uber-team-raises-6m-seed-for-geospatial-analytics-platform-unfoldedai.md",
-      "title": "Ex-Uber team raises $6M seed for geospatial analytics platform Unfolded.ai",
-      "excerpt": "Years ago, Uber had a problem. With millions of users and tens of thousands of drivers scattered across a widening expanse of the globe, the fast-growing mobility startup wanted to display more accurate maps to users about where their ride was coming from and where it was intending to go to reach",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/01/26/ex-uber-team-raises-6m-seed-for-geospatial-analytics-platform-unfolded-ai/",
-      "originalUrl": "https://techcrunch.com/2021/01/26/ex-uber-team-raises-6m-seed-for-geospatial-analytics-platform-unfolded-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/01/founders.png?w=680",
-          "width": 680,
-          "height": 381,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/01/26/ex-uber-team-raises-6m-seed-for-geospatial-analytics-platform-unfolded-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/26/ex-uber-team-raises-6m-seed-for-geospatial-analytics-platform-unfolded-ai/amp/",
-      "publishedDateTime": "2021-01-26T07:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

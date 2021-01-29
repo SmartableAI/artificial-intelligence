@@ -163,14 +163,14 @@ related:
   - title: "The Allen Institute for AI (AI2) Selects Core Scientific to Provide AI-Powered GPU-as-a-Service"
     excerpt: "Core Scientific, a leading infrastructure and software solutions provider for artificial intelligence and blockchain led by CEO Kevin Turner, the former COO of"
     publishedDateTime: 2021-01-28T15:42:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/the-allen-institute-for-ai-ai2-selects-core-scientific-to-provide-ai-powered-gpu-as/article_957d8acc-4f36-54d6-8bcd-2effbef0067e.html"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/the-allen-institute-for-ai-ai2-selects-core-scientific-to-provide-ai-powered-gpu-as/article_957d8acc-4f36-54d6-8bcd-2effbef0067e.html"
     type: article
     provider:
       name: WFMZ-TV
       domain: wfmz.com
     quality: 42
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/89/b8970e9f-a869-5c25-afab-1da10b378232/601307e2de895.image.jpg?resize=648%2C360"
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/89/b8970e9f-a869-5c25-afab-1da10b378232/6013b2166bf48.image.jpg?resize=648%2C360"
         width: 648
         height: 360
         isCached: true

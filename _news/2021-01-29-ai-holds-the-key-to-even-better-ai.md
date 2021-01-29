@@ -61,6 +61,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "The Amazing Ways Wild Me Uses Artificial Intelligence And Citizen Scientists To Help With Conservation"
+    excerpt: "Wildlife conservation is an enormous challenge. Wild Me, a non-profit organization, is leveraging the photos and videos of citizen scientists and the cloud, artificial intelligence, and computer vision to help track individual animals and to inform wildlife conservation efforts."
+    publishedDateTime: 2021-01-29T05:28:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2021/01/29/the-amazing-ways-wild-me-uses-artificial-intelligence-and-citizen-scientists-to-help-with-conservation/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2021/01/29/the-amazing-ways-wild-me-uses-artificial-intelligence-and-citizen-scientists-to-help-with-conservation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/01/29/the-amazing-ways-wild-me-uses-artificial-intelligence-and-citizen-scientists-to-help-with-conservation/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 71
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60139ca26580dd95edd4bbc2%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Indian consumers feel AI drives better consumer experiences: Pega survey"
     excerpt: "Indian consumers were more trusting of new technologies like AI if they see the potential to improve their productivity and make things simpler."
     publishedDateTime: 2021-01-28T08:45:00Z

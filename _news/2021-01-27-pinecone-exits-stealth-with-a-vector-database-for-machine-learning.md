@@ -88,6 +88,20 @@ related:
         height: 293
         isCached: true
   - title: "Pinecone leaves stealth with $10M, launches first serverless vector database for machine learning"
+    excerpt: "PineconeSystems Inc., a machine learning (ML) cloud infrastructure company, left stealth today with $10m in seed funding. The investment was led by Wing Venture Capital, and Wing's Founding Partner, Peter Wagner,"
+    publishedDateTime: 2021-01-27T15:09:00Z
+    webUrl: "https://www.lelezard.com/en/news-19620012.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 28
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "Pinecone leaves stealth with $10M, launches first serverless vector database for machine learning"
     excerpt: "PineconeSystems Inc., a machine learning (ML) cloud infrastructure company, left stealth today with $10m in seed funding. The investment"
     publishedDateTime: 2021-01-27T20:00:00Z
     webUrl: "https://www.prnewswire.com/il/news-releases/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-301216240.html"
@@ -96,20 +110,6 @@ related:
       name: PR Newswire
       domain: prnewswire.com
     quality: 28
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Pinecone leaves stealth with $10M, launches first serverless vector database for machine learning"
-    excerpt: "PineconeSystems Inc., a machine learning (ML) cloud infrastructure company, left stealth today with $10m in seed funding. The investment"
-    publishedDateTime: 2021-01-27T15:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-301216240.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 26
     images:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600

@@ -2,6 +2,102 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-01-14-teslas-main-self-driving-rival-isnt-googleits-intels-mobileye.md",
+      "title": "Tesla’s main self-driving rival isn’t Google—it’s Intel’s Mobileye",
+      "excerpt": "Mobileye's self-driving strategy has a number of things in common with that of Tesla, the world's most valuable automaker. Like Tesla, Mobileye is aiming to gradually evolve its current driver-assistance technology into a fully self-driving system.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/cars/2021/01/teslas-main-self-driving-rival-isnt-google-its-intels-mobileye/",
+      "originalUrl": "https://arstechnica.com/cars/2021/01/teslas-main-self-driving-rival-isnt-google-its-intels-mobileye/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/01/Intel-Mobileye-lidar-SoC-1-1-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-13T11:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-01-14-tempus-announces-companion-diagnostic-collaboration-with-a2-biotherapeutics.md",
+      "title": "Tempus Announces Companion Diagnostic Collaboration With A2 Biotherapeutics",
+      "excerpt": "Tempus, a leader in artificial intelligence and precision medicine, today announced a strategic collaboration to develop a companion diagnostic (CDx) test with A2 Biotherapeutics for its new therapy targeting patients with Loss of Heterozygosity (LOH).",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-medical-technology-tumors-diagnosis-and-treatment-health-bbd2bb37dd7b452b9f4f809dc702faf9",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-medical-technology-tumors-diagnosis-and-treatment-health-bbd2bb37dd7b452b9f4f809dc702faf9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-13T11:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-14-humans-wont-be-able-to-control-artificial-intelligence-scientists-warn.md",
       "title": "Humans Won't Be Able to Control Artificial Intelligence, Scientists Warn",
       "excerpt": "Some smart robots can perform complex tasks on their own, without the programmers understanding how they learned them.",
@@ -1090,103 +1186,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-back-to-work-say-hi-to-the-new-office-robot.md",
-      "title": "Back to work? Say hi to the new office robot",
-      "excerpt": "For robotics developers, promoting employee and customer confidence in the workplace through new health and safety tools is a prominent business priority for 2021. The clearest example is the surge in disinfecting robots,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/back-to-work-say-hi-to-the-new-office-robot/",
-      "originalUrl": "https://www.zdnet.com/article/back-to-work-say-hi-to-the-new-office-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2021/01/12/7e42b64d-8d9b-45b5-8ea5-b78793d5a46c/ava-hero.png",
-          "width": 2528,
-          "height": 1316,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/back-to-work-say-hi-to-the-new-office-robot/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/back-to-work-say-hi-to-the-new-office-robot/",
-      "publishedDateTime": "2021-01-13T04:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-ai-machine-learning-in-crm-systems-opportunities-benefits-for-charities.md",
-      "title": "AI & machine learning in CRM systems – opportunities & benefits for charities",
-      "excerpt": "While we tend to think first of robots and self-driving cars when we think of AI, in fact, along with its subset machine learning, it’s already firmly",
-      "sourceUrl": null,
-      "webUrl": "https://fundraising.co.uk/2021/01/13/ai-machine-learning-in-crm-systems-opportunities-benefits-for-charities/?cmpredirect",
-      "originalUrl": "https://fundraising.co.uk/2021/01/13/ai-machine-learning-in-crm-systems-opportunities-benefits-for-charities/?cmpredirect",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fundraising.co.uk/wp-content/uploads/2021/01/ash-edmonds-Koxa-GX_5zs-unsplash-1.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-13T02:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UK Fundraising",
-        "domain": "fundraising.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Sales",
-        "AI in Robotics"
       ]
     }
   ],

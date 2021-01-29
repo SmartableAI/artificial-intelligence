@@ -2,6 +2,92 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-01-06-denver-start-up-uses-artificial-intelligence-for-at-home-workouts.md",
+      "title": "Denver start-up uses artificial intelligence for at-home workouts",
+      "excerpt": "By using artificial intelligence — without any human in ... Eventually, they hope to use the technology for physical therapy and sports training, among other applications. To learn more about ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedenverchannel.com/news/in-good-company/denver-start-up-uses-artificial-intelligence-for-at-home-workouts",
+      "originalUrl": "https://www.thedenverchannel.com/news/in-good-company/denver-start-up-uses-artificial-intelligence-for-at-home-workouts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/f22f802/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F33%2F74%2F9e7b522242f28df9e9355a769681%2Fposter-fa7bd816d68347ad8a2a07017ec59b54.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-05T08:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "7News and TheDenverChannel.com",
+        "domain": "thedenverchannel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-06-machine-learning-improves-particle-accelerator-diagnostics.md",
+      "title": "Machine learning improves particle accelerator diagnostics",
+      "excerpt": "Operators of the primary particle accelerator at the U.S. Department of Energy's Thomas Jefferson National Accelerator Facility are getting a new tool to help them quickly address issues that can prevent it from running smoothly.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-01-machine-particle-diagnostics.html",
+      "originalUrl": "https://phys.org/news/2021-01-machine-particle-diagnostics.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/1-machinelearn.jpg",
+          "width": 799,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-01-machine-particle-diagnostics.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-01-machine-particle-diagnostics.amp",
+      "publishedDateTime": "2021-01-05T08:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-06-cox-acquires-ai3d-scanner-maker-fyusion-to-aid-used-car-dealerships.md",
       "title": "Cox acquires AI/3D scanner maker Fyusion to aid used car dealerships",
       "excerpt": "The Atlanta-based media and internet conglomerate has purchased an AI and 3D scanning company to help dealerships digitize used car listings.",
@@ -1125,92 +1211,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-how-machine-learning-artificial-intelligence-anticipate-cryptocurrency-price.md",
-      "title": "How Machine Learning, Artificial Intelligence Anticipate Cryptocurrency Price?",
-      "excerpt": "The popularity of cryptocurrencies skyrocketed in 2017 due to a few continuous months of an exponential development of their showcase capitalization. The",
-      "sourceUrl": null,
-      "webUrl": "https://leadership.ng/how-machine-learning-artificial-intelligence-anticipate-cryptocurrency-price/",
-      "originalUrl": "https://leadership.ng/how-machine-learning-artificial-intelligence-anticipate-cryptocurrency-price/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://leadership.ng/wp-content/uploads/2021/01/images-2021-01-05T062604.468.jpeg",
-          "width": 739,
-          "height": 415,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://leadership.ng/how-machine-learning-artificial-intelligence-anticipate-cryptocurrency-price/amp/",
-      "cdnAmpWebUrl": "https://leadership-ng.cdn.ampproject.org/c/s/leadership.ng/how-machine-learning-artificial-intelligence-anticipate-cryptocurrency-price/amp/",
-      "publishedDateTime": "2021-01-04T21:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LEADERSHIP Newspaper",
-        "domain": "leadership.ng",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-should-we-fear-facial-recognition-technology.md",
-      "title": "Should we fear facial recognition technology?",
-      "excerpt": "The growing use of facial recognition technology has prompted calls for bans and stricter regulation around the world.",
-      "sourceUrl": null,
-      "webUrl": "https://techwireasia.com/2021/01/the-irresolute-future-of-facial-recognition/",
-      "originalUrl": "https://techwireasia.com/2021/01/the-irresolute-future-of-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.techwireasia.com/wp-content/uploads/2021/01/000_1A94WQ.jpg",
-          "width": 8194,
-          "height": 5463,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techwireasia.com/amp/2021/01/the-irresolute-future-of-facial-recognition/",
-      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/01/the-irresolute-future-of-facial-recognition/",
-      "publishedDateTime": "2021-01-04T18:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techwireasia.com",
-        "domain": "techwireasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

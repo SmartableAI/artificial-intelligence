@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/computer-vision-in-healt
 webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-outlook-by-industry-size-share-revenue-regions-and-top-key-players-analysis-2021-01-25"
 type: article
 quality: 64
-heat: 154
+heat: 174
 published: true
 
 provider:
@@ -114,6 +114,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Natural Language Processing Market Research Update, Size Estimation, Future Scope, Revenue Opportunities and Regional Forecast to 2026"
+    excerpt: "The overall natural language processing market is expected to grow from USD 8.61 Billion in 2018 to USD 80.68 Billion"
+    publishedDateTime: 2021-01-29T06:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-research-update-size-estimation-future-scope-revenue-opportunities-and-regional-forecast-to-2026-2021-01-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Market 2021-2026 to Post a CAGR of %, Segmentation by Key Regions, Gross Margin, Profit, Analysis, Market Size & Growth"
     excerpt: "The research study on the Artificial Intelligence market comprises a detailed analysis of this business space and the remuneration that it is estimated to accrue by the end of the projected duration."
     publishedDateTime: 2021-01-28T10:01:00Z
@@ -123,6 +137,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Big Data Technology Market Latest Industry Size, Share, Emerging Trends, Future Demands, Revenue and Forecasts Research Report"
+    excerpt: "The global big data technology market is set to experience an impressive growth trajectory owing to the rising"
+    publishedDateTime: 2021-01-29T06:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/big-data-technology-market-latest-industry-size-share-emerging-trends-future-demands-revenue-and-forecasts-research-report-2021-01-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
