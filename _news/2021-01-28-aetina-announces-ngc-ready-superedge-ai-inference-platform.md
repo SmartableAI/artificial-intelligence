@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Aetina Announces NGC-Ready SuperEdge AI Inference Platform"
+    excerpt: "Aetina Corporation, a leading provider of edge AI solutions, today announced its new SuperEdge product series, the powerful AI inference computing platform for edge AIoT environments. Aetina SuperEdge is an NVIDIA Ⓡ NGC-Ready TM system validated to run deep learning and inference applications."
+    publishedDateTime: 2021-01-29T15:59:00Z
+    webUrl: "https://www.automation.com/en-us/products/january-2021/aetina-ngc-ready-superedge-ai-inference-platform"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 39
+    images:
+      - url: "https://www.automation.com/getmedia/9faca728-d1be-4ac7-8df8-3c1a9cf5a7b1/Aetina-prod-Jan-29-2021-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
   - title: "Flex Logix Pairs its InferX X1 AI Inference Accelerator with the High-Bandwidth Winbond 4Gb LPDDR4X Chip to Set a New Benchmark in Edge AI Performance"
     excerpt: "Winbond Electronics Corporation, a leading global supplier of semiconductor memory solutions, today revealed that its low-power,"
     publishedDateTime: 2021-01-28T14:16:00Z

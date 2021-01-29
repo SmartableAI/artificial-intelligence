@@ -36,6 +36,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 45
+  - title: "Global $6+ Billion CAR-T Therapy Market Opportunities and Strategies to 2030 - ResearchAndMarkets.com"
+    excerpt: "T Therapy Global Market Opportunities and Strategies to 2030: COVID-19 Impact and Recovery” report has been added to ResearchAndMarkets.com’s offering. The global CAR-T therapy market reached a value of nearly $734."
+    publishedDateTime: 2021-01-29T15:06:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-technology-diagnosis-and-treatment-coronavirus-pandemic-artificial-intelligence-fc225c37e2364a9d9bd00fbd0f464403"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "VQXiPu41//DAIrwyHEIRoTLV7YuX6kQqLFTmgJoiu/kU4imIsFge7tTl5Avlu/JDF48Nsm4nWF6SlAKEHt8CoKtBjvQ55lzMoUeEpLFquNeHVC+X3aS2l2isCO8uQ1zG5g8WMvEXJEtQCN/EutDeyOLyDRMcjxg6z1gqjZ2N6QufXQAq2bBJFeVqRl02v7ja2MJvg5dA5I4oSYuYPyubLJJf4fTjqIYzujZo4wbnd6JicbnhAl1N0NycoVYfPeZDYuOnZM5bAFmQWF7bv+o5zX8ol/pkdfRVEXkJNI6sxf07TFqbUYohZ9AlVYjFXVvjR2sRVRv9tddGnfsL2XxQkKgjVRsjHah9H751o0r9Xdk=;Xpk6ZXOwZ17SMI9bkkw7Xg=="
 ---

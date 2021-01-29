@@ -2,11 +2,11 @@
 category: news
 title: "Nvidia shows off the first A100 GPU systems built to handle AI workloads"
 excerpt: "As AI workloads can be complex and demanding, Nvidia has unveiled a new program that makes it easier for businesses to choose servers geared towards machine learning and analytics. This new class of accelerated servers from the company's partners are given the Nvidia-Certified Systems branding as they are designed to power organization's journeys into AI and data analytics."
-publishedDateTime: 2021-01-28T00:00:00Z
-originalUrl: "https://www.techradar.com/uk/news/nvidia-shows-off-the-first-a100-gpu-systems-built-to-handle-ai-workloads"
-webUrl: "https://www.techradar.com/uk/news/nvidia-shows-off-the-first-a100-gpu-systems-built-to-handle-ai-workloads"
-ampWebUrl: "https://www.techradar.com/uk/amp/news/nvidia-shows-off-the-first-a100-gpu-systems-built-to-handle-ai-workloads"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/nvidia-shows-off-the-first-a100-gpu-systems-built-to-handle-ai-workloads"
+publishedDateTime: 2021-01-27T23:52:00Z
+originalUrl: "https://www.techradar.com/news/nvidia-shows-off-the-first-a100-gpu-systems-built-to-handle-ai-workloads"
+webUrl: "https://www.techradar.com/news/nvidia-shows-off-the-first-a100-gpu-systems-built-to-handle-ai-workloads"
+ampWebUrl: "https://www.techradar.com/amp/news/nvidia-shows-off-the-first-a100-gpu-systems-built-to-handle-ai-workloads"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/nvidia-shows-off-the-first-a100-gpu-systems-built-to-handle-ai-workloads"
 type: article
 quality: 103
 heat: 163
@@ -115,6 +115,6 @@ related:
       domain: insidehpc.com
     quality: 18
 
-secured: "KGASWNdG+by/gJVbPUQHwIXULzu7tKWE8AM50gjEDNyfqNSSPT6tnkOmKvAN7yCnePKJ9XDEiwk1K2Bgc8o0mptxRYCJMLjSNKlGPCcdpXlZeSg5iaeZGRtRBN9yiPn5otZp58oabF1GXf570K5FfRNPH9Y2oOUkvMBch1+qAROIk2dySP0egPT+4o7i7HUKpfO4kYiVJhbKDvQD6H6E0PXmtnfz+Vl4BTfQDOehvQFRcwVUNcsrjWKa82L4P224vakICIPABjHMQCj2cuAFXW9dxE32fWx/S4/m6Yz/n59GVT/aqHyqE2dx+WkALJttct1jGBCEF/3tpraMmrzk1VvORwT51IVRBxn9fU8oJqs=;QfITqoOAGXrn+fYRYh7nEw=="
+secured: "I5UI0A6CgdRG9wqCs6Z7k3b/ZiYj2jAilZLr0NGLx0T8FNU87yPbBHsjG+vRX3Ya0p9ZhP/+rO9q6ZQytrOSs90tQaqm2T3grt6KeKm4qenYlhvP5y9LDqvte0Q3+CFVf762c0UtU37z29ejd1+y75IPEYR16iMwZwlHV4RHtJ5qLJAcZJnVZTB3fkZQ04LjBsNjxvSq41IbGXW08f60Sw7JONy4G9SOOFcK7Jjd0yRWT/atO8oCRYMq6Ap6SbP79JPk6Jaxez4E5llxduWDPVR9OH4sMMvaRE2KrQABRNRWCP3UPEPQoxdgdNd8EIkZzpfLCogevmzGXtzpkAgEcRFOWPLXDor1DssnS0AgGJw=;dfxugU2Sx5SLP+vDa1AzUQ=="
 ---
 

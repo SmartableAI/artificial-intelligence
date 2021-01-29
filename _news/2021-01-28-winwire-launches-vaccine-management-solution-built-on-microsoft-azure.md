@@ -67,6 +67,22 @@ related:
         width: 512
         height: 325
         isCached: true
+  - title: "Microsoft Translator now supports Inuktitut language"
+    excerpt: "Microsoft has added Inuktitut, the primary dialect of Inuktut, to Microsoft Translator in collaboration with the government of Nunavut."
+    publishedDateTime: 2021-01-29T16:09:00Z
+    webUrl: "https://www.itworldcanada.com/article/microsoft-translator-now-supports-inuktitut-language/441442"
+    ampWebUrl: "https://www.itworldcanada.com/article/microsoft-translator-now-supports-inuktitut-language/441442?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/microsoft-translator-now-supports-inuktitut-language/441442?amp=1"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 61
+    images:
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2021/01/GettyImages-1184077941-620x250.jpg"
+        width: 620
+        height: 250
+        isCached: true
   - title: "Cruise And GM Team Up With Microsoft To Commercialize Self-Driving Vehicles"
     excerpt: "Cruise and General Motors on Tuesday announced they have entered a long-term strategic relationship with Microsoft to accelerate the commercialization of self-driving vehicles."
     publishedDateTime: 2021-01-25T22:27:00Z
@@ -92,15 +108,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cruise, General Motors, and Microsoft team up to develop self-driving vehicles"
-    excerpt: "Cruise and General Motors announced they have entered a long-term strategic relationship with Microsoft to accelerate the commercialization of self-driving vehicles."
-    publishedDateTime: 2021-01-25T00:00:00Z
-    webUrl: "https://www.plantservices.com/industrynews/2021/cruise-general-motors-and-microsoft-team-up-to-develop-self-driving-vehicles/"
-    type: article
-    provider:
-      name: Plant Services
-      domain: plantservices.com
-    quality: 17
 
 secured: "BZS+l8g57pnLfsZebxymr4qNDnmGuFLW8OUhhTBlR0m6Z9XqHnmJhN8Ddpr8DrJhbi7bV4QS/KZLylZXxa2SyWc4PdswRUV465AjIm04GGHistN3W2nTbHR98wYNBeG994aHT9DwI9KfC3Xo6rm8UXZcGdivB7cNw9R60bekWQTPtmLzUNtkY8vxVviu6rVaA9iZhOpzdBPZKIVQguHD94h3Zm7acmuOGltL4Ux5qlqMo+5z9qD6RMzihrbZ1fRWIu+LEY9DaEsrdFOoFyvywxhASdcYqYcWuBcpqbRh56YuDQTFCb6UsWdYuFMpOSAdHxz6y2bpoLWk+0EmRK27D5cuhxe2jn8rGa33FpBAIsg=;mKNjW2aYRFtjNTuIa9cMrQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbesagencycouncil/2021/01/27/14-way
 webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2021/01/27/14-ways-to-better-leverage-ai-to-connect-with-consumers/?sh=2efafabb3465"
 type: article
 quality: 167
-heat: 237
+heat: 247
 published: true
 
 provider:
@@ -59,6 +59,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1281329514.jpg?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Firm leverages artificial intelligence to help retailers"
+    excerpt: "Southwest Florida startup has big plans to make progress with major retailers, using advanced technology to solve an age-old problem."
+    publishedDateTime: 2021-01-29T11:11:00Z
+    webUrl: "https://www.businessobserverfl.com/article/firm-leverages-artificial-intelligence-to-help-retailers"
+    ampWebUrl: "https://www.businessobserverfl.com/article/firm-leverages-artificial-intelligence-to-help-retailers?amp"
+    cdnAmpWebUrl: "https://www-businessobserverfl-com.cdn.ampproject.org/c/s/www.businessobserverfl.com/article/firm-leverages-artificial-intelligence-to-help-retailers?amp"
+    type: article
+    provider:
+      name: Business Observer
+      domain: businessobserverfl.com
+    quality: 72
+    images:
+      - url: "https://www.businessobserverfl.com/sites/default/files/323677_standard.jpeg"
+        width: 2000
+        height: 1333
         isCached: true
   - title: "The Amazing Ways Wild Me Uses Artificial Intelligence And Citizen Scientists To Help With Conservation"
     excerpt: "Wildlife conservation is an enormous challenge. Wild Me, a non-profit organization, is leveraging the photos and videos of citizen scientists and the cloud, artificial intelligence, and computer vision to help track individual animals and to inform wildlife conservation efforts."

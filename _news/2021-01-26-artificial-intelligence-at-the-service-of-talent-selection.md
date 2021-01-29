@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/364141"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/364141"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60118aa54082182beabf8d5a%2F0x0.jpg"
         width: 696
         height: 493
+        isCached: true
+  - title: "10 Ways AI Can Elevate Your Service And Operations Management"
+    excerpt: "AI-based insights are the catalyst IT needs to excel at serving internal customers and adapting to the fluid IT environment the pandemic continues to create."
+    publishedDateTime: 2021-01-29T15:48:00Z
+    webUrl: "https://www.forbes.com/sites/louiscolumbus/2021/01/29/10-ways-ai-can-elevate-your-service-and-operations-management/"
+    ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2021/01/29/10-ways-ai-can-elevate-your-service-and-operations-management/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2021/01/29/10-ways-ai-can-elevate-your-service-and-operations-management/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60142bfe5fd8ca54afb5321c%2F0x0.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "The Intersection of AI and Talent Strategy in 2021 | Part 2"
     excerpt: "See the key findings of Northeastern’s “Intersection of AI and Talent Strategy Symposium,” and learn how COVID-19 is changing AI and talent strategy in 2021 and beyond."

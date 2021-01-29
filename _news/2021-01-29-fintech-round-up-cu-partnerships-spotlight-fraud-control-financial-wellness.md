@@ -43,6 +43,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "FinTech 2020: While The World Waits, We Work"
+    excerpt: "A world-wide health crisis leaves a trail of destruction that moves through space and time. Beyond the horrible loss of life, people are stuck away from their family"
+    publishedDateTime: 2021-01-29T13:01:00Z
+    webUrl: "https://www.benzinga.com/fintech/21/01/19391085/fintech-2020-while-the-world-waits-we-work"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19391085"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19391085"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/pexels-vlada-karpovich-4050296.jpg"
+        width: 6121
+        height: 4081
+        isCached: true
   - title: "Holt, a Leading Global Fintech Program, Awards a Financial Grant to AI-driven Risk Intelligence Platform Agryo, with the Support of Scale AI"
     excerpt: "Holt, a leading Global Fintech Program, has awarded a financial grant to Agryo, an AI-driven blockchain based risk intelligence platform, with support from Scale AI Acceleration program that helps Canadian accelerators and incubators fund startups to enhance their AI-based product and service offerings,"
     publishedDateTime: 2021-01-26T16:04:00Z

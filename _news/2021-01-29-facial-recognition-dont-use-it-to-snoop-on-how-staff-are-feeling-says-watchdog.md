@@ -191,6 +191,22 @@ related:
       name: CBS Local
       domain: cbslocal.com
     quality: 54
+  - title: "The European Commission Doesn’t Allow Companies To Use Facial Recognition Freely"
+    excerpt: "Recently, the European Commission stated that companies must not use facial recognition technology to judge employees. In recent years, facial recognition technology has become very"
+    publishedDateTime: 2021-01-29T16:09:00Z
+    webUrl: "https://www.gizchina.com/2021/01/29/the-european-commission-doesnt-allow-companies-to-use-facial-recognition-freely/"
+    ampWebUrl: "https://www.gizchina.com/2021/01/29/the-european-commission-doesnt-allow-companies-to-use-facial-recognition-freely/amp/"
+    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/01/29/the-european-commission-doesnt-allow-companies-to-use-facial-recognition-freely/amp/"
+    type: article
+    provider:
+      name: GizChina
+      domain: gizchina.com
+    quality: 54
+    images:
+      - url: "https://www.gizchina.com/wp-content/uploads/images/2021/01/Facial-Recognition-1024x483-1.jpg?mrf-size=m"
+        width: 480
+        height: 226
+        isCached: true
   - title: "Amnesty International wants to map facial recognition cameras so you can avoid them"
     excerpt: "Several groups have launched a 'Ban the Scan' campaign to halt the use of facial recognition tech by New York's government."
     publishedDateTime: 2021-01-26T16:29:00Z

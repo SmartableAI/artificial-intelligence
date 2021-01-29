@@ -204,6 +204,22 @@ related:
       name: CBS Local
       domain: cbslocal.com
     quality: 54
+  - title: "The European Commission Doesn’t Allow Companies To Use Facial Recognition Freely"
+    excerpt: "Recently, the European Commission stated that companies must not use facial recognition technology to judge employees. In recent years, facial recognition technology has become very"
+    publishedDateTime: 2021-01-29T16:09:00Z
+    webUrl: "https://www.gizchina.com/2021/01/29/the-european-commission-doesnt-allow-companies-to-use-facial-recognition-freely/"
+    ampWebUrl: "https://www.gizchina.com/2021/01/29/the-european-commission-doesnt-allow-companies-to-use-facial-recognition-freely/amp/"
+    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/01/29/the-european-commission-doesnt-allow-companies-to-use-facial-recognition-freely/amp/"
+    type: article
+    provider:
+      name: GizChina
+      domain: gizchina.com
+    quality: 54
+    images:
+      - url: "https://www.gizchina.com/wp-content/uploads/images/2021/01/Facial-Recognition-1024x483-1.jpg?mrf-size=m"
+        width: 480
+        height: 226
+        isCached: true
   - title: "Global Image Recognition in Retail Market 2020-2025 - Growing Adoption of Cloud-Based Image Recognition Solutions"
     excerpt: "The \"Global Image Recognition in Retail Market (2020-2025), by Technology, Component, Application, Deployment, Geography and the Impact of Covid-19 with Ansoff Analysis\" report has been added to ResearchAndMarkets."
     publishedDateTime: 2021-01-28T12:48:00Z

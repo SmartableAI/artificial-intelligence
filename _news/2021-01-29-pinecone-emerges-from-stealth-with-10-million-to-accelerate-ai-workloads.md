@@ -1,33 +1,27 @@
 ---
 category: news
 title: "Pinecone emerges from stealth with $10 million to accelerate AI workloads"
-excerpt: "Pinecone, a startup developing database technology to support AI workloads, emerged from stealth with $10 million in funding."
-publishedDateTime: 2021-01-29T03:15:00Z
-originalUrl: "https://venturebeat.com/2021/01/28/pinecone-emerges-from-stealth-with-10-million-to-accelerate-ai-workloads/"
-webUrl: "https://venturebeat.com/2021/01/28/pinecone-emerges-from-stealth-with-10-million-to-accelerate-ai-workloads/"
-ampWebUrl: "https://venturebeat.com/2021/01/28/pinecone-emerges-from-stealth-with-10-million-to-accelerate-ai-workloads/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/28/pinecone-emerges-from-stealth-with-10-million-to-accelerate-ai-workloads/amp/"
+excerpt: "Pinecone, a startup developing database technology to support AI workloads, emerged from stealth with $10 million in funding.Read MoreRead more"
+publishedDateTime: 2021-01-29T15:34:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/pinecone-emerges-from-stealth-with-$10-million-to-accelerate-ai-workloads-9748315"
+webUrl: "https://markets.businessinsider.com/news/stocks/pinecone-emerges-from-stealth-with-$10-million-to-accelerate-ai-workloads-9748315"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/pinecone-emerges-from-stealth-with-$10-million-to-accelerate-ai-workloads-9748315"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/pinecone-emerges-from-stealth-with-$10-million-to-accelerate-ai-workloads-9748315"
 type: article
-quality: 86
+quality: 66
 heat: -1
 published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
-
-images:
-  - url: "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all"
-    width: 1200
-    height: 600
-    isCached: true
 
 related:
   - title: "Pinecone lands $10M seed for purpose-built machine learning database"
@@ -116,6 +110,6 @@ related:
         height: 315
         isCached: true
 
-secured: "Fc4ZTgQb+WaqSKjCHWlBLSV+tMJaE/DqvdxL9FEtKeq3furXdFLryS9sIvDzMzLfsHCJSlLapIbk3x6jI+yX245qYUB0xK1WPllN/bLVJhJL1/xVWZKJ8dbsE1oes9FVy73mPXIxeWUTLN6XCF0xoEabi3OjEbpk6ApoNOQEpg+Swo3Tm4Djx69gVCUbefGlDozjKFucKvR6afi3wzvAWwNDBzzOQmcuSjPTTd+qOE3MFkRSTKzaGv9dgRuFmqvbSX5T95V+54URGDFtqZcPAqh/KZo40ciqPF7AT1Nw3JUZLGWepqE6rRH15xAD4fOdulcuu1cFIn7wj0LkQEINBL9rL+PVqOt3aGzpUJT9xS2U8NhMvuzGA2eQfVSp767sCP/Y2S1pDg5ES8EqtVg9e2wVXVvOZ5UuZni0SY4iDHMfVO64AO7kyp5Ct0OLEephqdZFWRtVjCg71s9UHLj+quW9nalowBKsyoqykiSXiTn1R91AvUevEPur+6C2SVkpmbKkP4LCUiRp+1doLpRT7w==;lsCENdXQwCLJdlslb1OFkA=="
+secured: "v8uxgueLfaKhl+GUpfVDhONw5FLOFVMNc/vVFm0c/rRDpOr7FZM7KtiVfF0qPeWyHdvWFDW8uSvSwh1YHnx4hjPIdsnt55LudGYa6AmOaTqAJOyEtgd2j/qP06drDasOH6PWo4e47ZBIGJ2Pjnp4RHEeR6UqvJIrSN0vuLTsWGlAL35dk6sisZPIn0WArAbEaCQ7ts+x7ua01yx19/moXFkx+fuVK3ClqIpGfRCJH3IYieCS6vqKMufjlsouE/SqydSTdecrgd/bxHf6gGsLuIiSCR36ngB8xOSHxQOl45PrDPV5LYi8K1wlpOekaTTiIKI1hKr56xyAScD6nyz0bISVrncSqWFycFjEIBSd6Qw=;l2yaZrJvXLpVUpmZ30QsKg=="
 ---
 

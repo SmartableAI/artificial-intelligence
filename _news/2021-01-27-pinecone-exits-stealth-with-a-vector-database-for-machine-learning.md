@@ -41,22 +41,6 @@ related:
         width: 1024
         height: 684
         isCached: true
-  - title: "Pinecone emerges from stealth with $10 million to accelerate AI workloads"
-    excerpt: "Pinecone, a startup developing database technology to support AI workloads, emerged from stealth with $10 million in funding."
-    publishedDateTime: 2021-01-29T03:15:00Z
-    webUrl: "https://venturebeat.com/2021/01/28/pinecone-emerges-from-stealth-with-10-million-to-accelerate-ai-workloads/"
-    ampWebUrl: "https://venturebeat.com/2021/01/28/pinecone-emerges-from-stealth-with-10-million-to-accelerate-ai-workloads/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/28/pinecone-emerges-from-stealth-with-10-million-to-accelerate-ai-workloads/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Pinecone, a serverless vector database for machine learning, leaves stealth with $10M funding"
     excerpt: "Built by the team behind Amazon SageMaker. Having attracted investment by Wing Venture Capital, with Wing's Founding Partner and early Snowflake investor, Peter Wagner, joining startup Pinecone's ..."
     publishedDateTime: 2021-01-27T15:03:00Z
@@ -73,6 +57,17 @@ related:
         width: 426
         height: 398
         isCached: true
+  - title: "Pinecone emerges from stealth with $10 million to accelerate AI workloads"
+    excerpt: "Pinecone, a startup developing database technology to support AI workloads, emerged from stealth with $10 million in funding.Read MoreRead more"
+    publishedDateTime: 2021-01-29T15:34:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/pinecone-emerges-from-stealth-with-$10-million-to-accelerate-ai-workloads-9748315"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/pinecone-emerges-from-stealth-with-$10-million-to-accelerate-ai-workloads-9748315"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/pinecone-emerges-from-stealth-with-$10-million-to-accelerate-ai-workloads-9748315"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
   - title: "Pinecone Raises $10M in Funding"
     excerpt: "PineconeSystems Inc., a Sunnyvale, California, New York and Tel Aviv, Israel-based machine learning (ML) cloud infrastructure company, raised $10m in seed funding"
     publishedDateTime: 2021-01-28T09:36:00Z

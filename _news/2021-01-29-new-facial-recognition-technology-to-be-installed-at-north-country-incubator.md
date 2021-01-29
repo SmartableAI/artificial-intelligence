@@ -202,6 +202,22 @@ related:
       name: CBS Local
       domain: cbslocal.com
     quality: 54
+  - title: "The European Commission Doesn’t Allow Companies To Use Facial Recognition Freely"
+    excerpt: "Recently, the European Commission stated that companies must not use facial recognition technology to judge employees. In recent years, facial recognition technology has become very"
+    publishedDateTime: 2021-01-29T16:09:00Z
+    webUrl: "https://www.gizchina.com/2021/01/29/the-european-commission-doesnt-allow-companies-to-use-facial-recognition-freely/"
+    ampWebUrl: "https://www.gizchina.com/2021/01/29/the-european-commission-doesnt-allow-companies-to-use-facial-recognition-freely/amp/"
+    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/01/29/the-european-commission-doesnt-allow-companies-to-use-facial-recognition-freely/amp/"
+    type: article
+    provider:
+      name: GizChina
+      domain: gizchina.com
+    quality: 54
+    images:
+      - url: "https://www.gizchina.com/wp-content/uploads/images/2021/01/Facial-Recognition-1024x483-1.jpg?mrf-size=m"
+        width: 480
+        height: 226
+        isCached: true
   - title: "Amnesty International wants to map facial recognition cameras so you can avoid them"
     excerpt: "Several groups have launched a 'Ban the Scan' campaign to halt the use of facial recognition tech by New York's government."
     publishedDateTime: 2021-01-26T16:29:00Z
@@ -472,6 +488,6 @@ related:
         height: 450
         isCached: true
 
-secured: "7fEwpxYNijzm36CUDaA4hXSofOALXie/kLdLeWG7l9RIPMjqSKdLOOCj01iCpkWIsLfV4eN5h/mFKWco/RS55Og6H9EtDxlSExXT1l/vEhdruk/9WgIrIO6atUIH5EsMi2QxW+lblaXIdzauPif6V+YV4mmT6JWNT6NeWm+BAKcNgOLIN1iP/G1E82Tyg95C9aVV4yjkitxk13334HNrTMF61Sxz4rCdlS3zymXEm3/yxqIWGFWfV6py+qZNpWriNvuFS890QlPXLPfGkjI54Fh4hfkjNnysC88eebl4kibEaUAakLbtHbCd2uK7TTbF12Ja+7BsmCK/UYggAC2N6F+AkKObVc53JaJWknb1jnM=;v+4uXWSf6WNEhablmGG/1g=="
+secured: "89gQ0832FT6oSi+3RaAOuVmh4BLPG9IOqRXJPWEFO12APX7JvRQxms0PYNTzu4D8E3OurfXNjVa08sGqemdZsDmz8vO5akbdOydd0l5DUkzVDCPEamRIt2+FSOaagAyjVoXi5kAJQ1WpKwiuJs3KnaDsXbST/PHaNVxndqw9tLEqw1Mn+5Zcoh9GoEmpEO6e4Sw43vv5NbVj+IFtmtSps52t0BXxorhfLbEP7J/XLUdi5I8PmzviYzRar4e4xTpQdxQ1LRx+rBIuojYAWNWgNDLilbJY4z8uw7BvPaU63U6ULCO4ZUeiSYQOSjQexn74m4SRu+1dpOMTGyg8KBU2AjQpeTSHwfvW427RBG0jSIyHMr11GnqcnTQgXlVJ8EQ9oNlyF9W/3btK8z3MgpI6nl/zjAP47wPKAHjL1kPr2/njXJHq3iFQs3E7/mA1LrW07U1bGwEwax93CZZpulyEIjO8UdlBNVjOUUmEsnUOmY8uGbM9cIsAnua/OZIaE3Q5KSaVETYAvAe8c4H44cNlMw==;9I9cuJIxoXyNPPvgDmb5Kg=="
 ---
 

@@ -60,6 +60,22 @@ related:
         width: 800
         height: 425
         isCached: true
+  - title: "Microsoft Translator now supports Inuktitut language"
+    excerpt: "Microsoft has added Inuktitut, the primary dialect of Inuktut, to Microsoft Translator in collaboration with the government of Nunavut."
+    publishedDateTime: 2021-01-29T16:09:00Z
+    webUrl: "https://www.itworldcanada.com/article/microsoft-translator-now-supports-inuktitut-language/441442"
+    ampWebUrl: "https://www.itworldcanada.com/article/microsoft-translator-now-supports-inuktitut-language/441442?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/microsoft-translator-now-supports-inuktitut-language/441442?amp=1"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 61
+    images:
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2021/01/GettyImages-1184077941-620x250.jpg"
+        width: 620
+        height: 250
+        isCached: true
   - title: "Cruise And GM Team Up With Microsoft To Commercialize Self-Driving Vehicles"
     excerpt: "Cruise and General Motors on Tuesday announced they have entered a long-term strategic relationship with Microsoft to accelerate the commercialization of self-driving vehicles."
     publishedDateTime: 2021-01-25T22:27:00Z
@@ -94,15 +110,6 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 34
-  - title: "Cruise, General Motors, and Microsoft team up to develop self-driving vehicles"
-    excerpt: "Cruise and General Motors announced they have entered a long-term strategic relationship with Microsoft to accelerate the commercialization of self-driving vehicles."
-    publishedDateTime: 2021-01-25T00:00:00Z
-    webUrl: "https://www.plantservices.com/industrynews/2021/cruise-general-motors-and-microsoft-team-up-to-develop-self-driving-vehicles/"
-    type: article
-    provider:
-      name: Plant Services
-      domain: plantservices.com
-    quality: 17
 
 secured: "WBZPGhWIszCCrgFClo5/ezzLK3JnMvDETkKsqIAq+HVSjyBVxxTouKfFTVVLYEbJxcFx107gZ+HeSFxhbv3F52r8BywHYyeCYjsCSKuA0JUask5YoXLd1czhEctNCoVh8KP2cC8aORjOm6uGOo4dowlZXsxqdTzhRKskgimDKw19xfAEXJMBA+8fwBie20o5Bi4VDcnulgKtt9X/dUEJITG+FK6m9y21J4EBEhkn+tt/+eYiAN+AlRyuRqhzA3oQWLtPZ+acm6RQWcI1k13FD8iggpJXZb9GgqXkXaBsSYsgVDYLzW9+Re/TWb9KZey44bGGq8FjG5JcpcEoxhFi1TN+FrJa5dGkyBmcsVnUMH3osMJq3K4nEB7HN1rLsGuTc/c59cM2WJj2/y4csAg7yQF50EEK2bqwa4ySmTcdqaQ4ZqA8CQnhs3LSSgGyxsY8FuZrbj4ve7AG2S8VP16pCONVz4Pn7LVK0d1E7r3V2Foe24odGqCWZpJYC4ykn6dQv4kKm5vfiYjMzxJzEutwQw==;IURUt6/TPmwYK68XaFuSOA=="
 ---

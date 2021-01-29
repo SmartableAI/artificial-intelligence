@@ -24,6 +24,22 @@ images:
     height: 887
     isCached: true
 
+related:
+  - title: "Colby College to start artificial-intelligence institute"
+    excerpt: "A Maine college is working to establish an institute for artificial intelligence that it said would be the first of its kind at a liberal arts college. The Davis Institute for Artificial Intelligence will “provide new pathways for talented students and faculty to research,"
+    publishedDateTime: 2021-01-29T15:36:00Z
+    webUrl: "https://bangordailynews.com/2021/01/29/news/central-maine/colby-college-to-start-artificial-intelligence-institute/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 24
+    images:
+      - url: "https://i2.wp.com/bdn-data.s3.amazonaws.com/uploads/2020/10/Colby-020819-H-LCO.jpg?fit=2500%2C1681&#038;ssl=1"
+        width: 2500
+        height: 1681
+        isCached: true
+
 secured: "RwbnXEKxgp1bDgjmofQqDrgI18GuYMoAT0vfn7Cjz2pujbHuBz7pDpwJfhEkfS58qo+hlmn91cXXVkCuKiYBxxK8CM/KWX0FgXL/Fxk6Tr6b5402WSCLFhTsDnMP1TTO+A1gFunKoeka/bnvkFY7dM0aanpDx2c9OxbSh1SYDMUTCaCWQVe3jndB5mUgDy/L7XH5x3QfOi2nogaucX/CC1nHQ+FpV75+ZSsvbtzYz5kWX1gixHAAd5ESc6SxT/rLURZNUxBee7LDavidNvN8Vy4QheuG9Rxumt418GhOpXo9B7h3XvNumTrIwzTMSrXl0WDhc2BYHbxzOV7oZOLkYF+J/aUTEy21HmIQEvNKUSVe6J0wTNiYcyfDNBblTHHdM/+LZfCIgH41cKBP8yE36Ih0m2rEYm3VViX16A5iMm14OPXGtSJsSK2kk2LHPqMuzdnMFkKMa75BkQ6y6QXB10EzyTjqJmoF8TVkzV9QgpOF67sugCAEdoKf9TXUhljwXMQu20ugOAGuYrtFtOBXOQ==;Zh2YFyimUE09xP6GIdGe5w=="
 ---
 

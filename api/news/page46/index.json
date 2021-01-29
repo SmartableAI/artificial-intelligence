@@ -2,6 +2,187 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2020-12-18-us-plans-major-expansion-of-facial-recognition-authority-at-airports.md",
+      "title": "US plans major expansion of facial recognition authority at airports",
+      "excerpt": "US Customs and Border Protection has filed for a significant expansion in its authority to conduct facial recognition at airports. On November 19th, the agency submitted a filing to the Federal Register seeking to expand the ongoing biometric exit program,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2020/12/18/22188526/airport-facial-recognition-us-customs-biometric-exit-expansion",
+      "originalUrl": "https://www.theverge.com/2020/12/18/22188526/airport-facial-recognition-us-customs-biometric-exit-expansion",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/LN_n6S12cK_P45z1SZJ7UeGAsnI=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68547533/acastro_180730_1777_facial_recognition_0003.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/12/18/22188526/airport-facial-recognition-us-customs-biometric-exit-expansion",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/12/18/22188526/airport-facial-recognition-us-customs-biometric-exit-expansion",
+      "publishedDateTime": "2020-12-18T06:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-18-ai-controlled-a-us-military-aircraft-for-the-first-time.md",
+      "title": "AI controlled a US military aircraft for the first time",
+      "excerpt": "AI has controlled a US military aircraft for the first time, serving as a co-pilot aboard a U-2 spy plane in a milestone test for the Air Force.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/ai-controls-us-military-aircraft-142844768.html",
+      "originalUrl": "https://www.engadget.com/ai-controls-us-military-aircraft-142844768.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2F88a387b0-4136-11eb-b7ff-d535d526638c&client=amp-blogside-v2&signature=746051fd7fa46351f3d53bca721d6e884784658e",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/ai-controls-us-military-aircraft-142844768.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ai-controls-us-military-aircraft-142844768.html",
+      "publishedDateTime": "2020-12-18T06:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-12-18-acryl-launches-advanced-integrated-ai-artificial-intelligence-service-platform-jonathan.md",
+      "title": "Acryl Launches Advanced Integrated AI (Artificial Intelligence) Service Platform, Jonathan®",
+      "excerpt": "Acryl, Inc., a leading AI (artificial intelligence) technology company, unveils a pilot service for Jonathan®, an integrated AI platform that can be used in a variety of industries with a spectrum of users from non-experts to professional developers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20201218005063/en/Acryl-Launches-Advanced-Integrated-AI-Artificial-Intelligence-Service-Platform-Jonathan®",
+      "originalUrl": "https://www.businesswire.com/news/home/20201218005063/en/Acryl-Launches-Advanced-Integrated-AI-Artificial-Intelligence-Service-Platform-Jonathan®",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-18T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-18-deepmind-revenue-dwarfed-by-649-million-loss.md",
+      "title": "DeepMind revenue dwarfed by $649 million loss",
+      "excerpt": "DeepMind’s revenue more than doubled from $139 million to $359 million while losses increased from 2018 to 2019.",
+      "sourceUrl": null,
+      "webUrl": "https://www.industryleadersmagazine.com/deepmind-revenue-dwarfed-by-649-million-loss/",
+      "originalUrl": "https://www.industryleadersmagazine.com/deepmind-revenue-dwarfed-by-649-million-loss/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.industryleadersmagazine.com/wp-content/uploads/2020/12/DeepMind-Revenue-Alphabet-Google.jpg",
+          "width": 900,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.industryleadersmagazine.com/deepmind-revenue-dwarfed-by-649-million-loss/amp/",
+      "cdnAmpWebUrl": "https://www-industryleadersmagazine-com.cdn.ampproject.org/c/s/www.industryleadersmagazine.com/deepmind-revenue-dwarfed-by-649-million-loss/amp/",
+      "publishedDateTime": "2020-12-18T05:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Leadership",
+        "domain": "industryleadersmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-18-nvidias-inception-program-tracks-7000-ai-startups-up-25-in-a-year.md",
       "title": "Nvidia’s Inception program tracks 7,000 AI startups, up 25% in a year",
       "excerpt": "Nvidia's Inception program is tracking over 7,000 AI startups, up 25% in a year. That's a lot of growth in a very tough climate.",
@@ -970,195 +1151,6 @@
         "Machine Learning",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-google-ai-team-demands-changes-after-dr-timnit-gebrus-departure.md",
-      "title": "Google AI team demands changes after Dr. Timnit Gebru's departure",
-      "excerpt": "Two weeks after the departure of AI researcher Dr. Timnit Gebru, Google’s Ethical AI team has issued a list of demands to its management.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/google-ethical-ai-team-letter-174518115.html",
-      "originalUrl": "https://www.engadget.com/google-ethical-ai-team-letter-174518115.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-04%2F6dd60fa0-74fb-11ea-bf7f-7fb473523e83&client=amp-blogside-v2&signature=729ca1927b897fbd0725d08b45ec058dcc6ac7b6",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/google-ethical-ai-team-letter-174518115.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-ethical-ai-team-letter-174518115.html",
-      "publishedDateTime": "2020-12-17T16:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-missouri-farm-bureau-selects-ssc-for-insurance-accounting.md",
-      "title": "Missouri Farm Bureau Selects SS&C for Insurance Accounting",
-      "excerpt": "SS&C Technologies Holdings, Inc. today announced that Jefferson City- based Missouri Farm Bureau will migrate its insurance investment accounting to SS&C SmartSource SM services powered by Singularity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/missouri-farm-bureau-selects-ssc-for-insurance-accounting-2020-12-17",
-      "originalUrl": "https://www.nasdaq.com/press-release/missouri-farm-bureau-selects-ssc-for-insurance-accounting-2020-12-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-17T15:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-intel-reveals-new-clover-falls-ai-powered-coprocessor-for-intel-evo-platform.md",
-      "title": "Intel reveals new Clover Falls AI-powered coprocessor for Intel Evo platform",
-      "excerpt": "Intel unveiled their latest enhancement to their Intel Evo mobile computing platform this week: Clover Falls, an AI-powered coprocessor that Intel says will noticeably improve laptop power efficiency and battery life going forward.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/nz/news/intel-reveals-new-clover-falls-ai-powered-coprocessor-for-intel-evo-platform",
-      "originalUrl": "https://www.techradar.com/nz/news/intel-reveals-new-clover-falls-ai-powered-coprocessor-for-intel-evo-platform",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/tHasCRNvhLb5akDB52Swkc-1200-80.jpg",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/nz/amp/news/intel-reveals-new-clover-falls-ai-powered-coprocessor-for-intel-evo-platform",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/intel-reveals-new-clover-falls-ai-powered-coprocessor-for-intel-evo-platform",
-      "publishedDateTime": "2020-12-17T13:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-has-ai-adoption-plateaued-or-is-it-just-catching-its-breath.md",
-      "title": "Has AI adoption plateaued, or is it just catching its breath?",
-      "excerpt": "While AI adoption in the enterprise has slowed, major breakthroughs in AI research this year show the technology is still moving forward.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/17/has-ai-adoption-plateaued-or-is-it-just-catching-its-breath/",
-      "originalUrl": "https://venturebeat.com/2020/12/17/has-ai-adoption-plateaued-or-is-it-just-catching-its-breath/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/plateau.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/17/has-ai-adoption-plateaued-or-is-it-just-catching-its-breath/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/17/has-ai-adoption-plateaued-or-is-it-just-catching-its-breath/amp/",
-      "publishedDateTime": "2020-12-17T13:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

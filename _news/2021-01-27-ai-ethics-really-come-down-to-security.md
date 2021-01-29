@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/01/27/ai-ethics-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/27/ai-ethics-really-come-down-to-security/amp/"
 type: article
 quality: 123
-heat: 133
+heat: 143
 published: true
 
 provider:
@@ -33,6 +33,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI ethics: The future of AI could become scary"
+    excerpt: "A Gartner report says the consequences of widespread AI will have huge effects on our society. Cybersecurity pros can't handle all the threat tasks alone, expert says 5:00 Good and bad news for cybersecurity in 2021 10:50 Cybersecurity can use some help from AI and ML 9:30 7 tech skills that will be in high demand in 2021 6:26 Edge computing adoption to increase through 2026;"
+    publishedDateTime: 2021-01-29T16:47:00Z
+    webUrl: "https://www.techrepublic.com/videos/ai-ethics-the-future-of-ai-could-become-scary/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 84
+    images:
+      - url: "https://tr4.cbsistatic.com/hub/i/r/2021/01/29/bc4f2551-6116-44e4-96b2-454d3aad1c1b/thumbnail/770x578/fcbfbfeda4f4c87df63aa6889134d566/20210127-brandon1-karen.jpg"
+        width: 770
+        height: 578
+        isCached: true
   - title: "Sharing Our AI Ethics Framework"
     excerpt: "Artificial intelligence (AI) is one of the biggest technology revolutions of our time. In the same way we have electrified factories and machines in the past century, we will infuse AI into every software and system in the 21st century."
     publishedDateTime: 2021-01-28T17:33:00Z

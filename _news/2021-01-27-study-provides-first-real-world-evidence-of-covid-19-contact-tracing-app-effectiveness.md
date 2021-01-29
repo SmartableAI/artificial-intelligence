@@ -45,17 +45,17 @@ related:
         isCached: true
   - title: "Machine learning tool predicts respiratory failure in COVID-19 patients"
     excerpt: "In an effort to expedite care for coronavirus disease 2019 (COVID-19) patients upon hospital admission, a team at The Feinstein Institutes for Medical Research has developed a machine learning (ML) artificial intelligence (AI) powered clinical predictive tool that can accurately assess patients for the risk of respiratory failure within 48 hours."
-    publishedDateTime: 2021-01-29T07:59:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/science-technology-diseases-and-conditions-medical-technology-lung-disease-1b94a3d69e2541ee8e9d75b2cfb03f8f"
+    publishedDateTime: 2021-01-28T19:18:00Z
+    webUrl: "https://www.globalbankingandfinance.com/category/news/machine-learning-tool-predicts-respiratory-failure-in-covid-19-patients/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 54
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 56
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
   - title: "Machine Learning, Real-Time Data App Rates COVID-19 Exposure Risk"
     excerpt: "A new app leverages machine learning and real-time data to provide location-based risk assessments of COVID-19 exposure."

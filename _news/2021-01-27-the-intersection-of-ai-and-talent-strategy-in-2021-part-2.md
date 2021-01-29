@@ -57,6 +57,22 @@ related:
         width: 696
         height: 493
         isCached: true
+  - title: "10 Ways AI Can Elevate Your Service And Operations Management"
+    excerpt: "AI-based insights are the catalyst IT needs to excel at serving internal customers and adapting to the fluid IT environment the pandemic continues to create."
+    publishedDateTime: 2021-01-29T15:48:00Z
+    webUrl: "https://www.forbes.com/sites/louiscolumbus/2021/01/29/10-ways-ai-can-elevate-your-service-and-operations-management/"
+    ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2021/01/29/10-ways-ai-can-elevate-your-service-and-operations-management/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2021/01/29/10-ways-ai-can-elevate-your-service-and-operations-management/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60142bfe5fd8ca54afb5321c%2F0x0.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "3tR5oku54cPQWoI3e4moQnj1+NeBpLtxuzKjC2vcI/huQKjJMuNiQ5rhOEkgke542NatYl9rPwgIe3y3YXvdXJg6Cs+FCQ6FOafAsAez3VB980QSwDL/HZbNNSd+JfoAlgL4Gk+70x3FbC0u0HSmek/fzOOyXU+9+8hSOaV16BR2gUrXFr7l729uVbe+u3ZQQaQGBLVgW4eyFcjIG6P753MwZMz+aNlLPR7odtdwcztHjpUCF+tvcQmVrlXX5pmTZZBOXrUZQXRT3RJs15702ehuHfmje9/a+jgx2TMXmKV5MYN/59to3iBSaSKgXOXOnCViqRtI7itX2nPMaWPM8gcP+joGjU2nIONriZF+CV2StryXbmAX2ZcKoBUop6Zes3sQrnae7CUJWu3Hi0qsiFxj4EZpCIgcuOjD4Cy3qBZuxYgNIf3Vw0osfal+pTS2wJPIvhpNoKawKHs+kiFuvbIZDW7YHKgU3YntQoWts9JAZNA4Byx5cRvqdfVdnx+DxiVThWV504dUv9tvQOIDGA==;CHVwzusTERhQWRKi86keIg=="
 ---

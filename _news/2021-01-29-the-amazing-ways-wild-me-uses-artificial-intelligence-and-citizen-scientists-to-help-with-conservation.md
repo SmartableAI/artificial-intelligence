@@ -76,6 +76,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Firm leverages artificial intelligence to help retailers"
+    excerpt: "Southwest Florida startup has big plans to make progress with major retailers, using advanced technology to solve an age-old problem."
+    publishedDateTime: 2021-01-29T11:11:00Z
+    webUrl: "https://www.businessobserverfl.com/article/firm-leverages-artificial-intelligence-to-help-retailers"
+    ampWebUrl: "https://www.businessobserverfl.com/article/firm-leverages-artificial-intelligence-to-help-retailers?amp"
+    cdnAmpWebUrl: "https://www-businessobserverfl-com.cdn.ampproject.org/c/s/www.businessobserverfl.com/article/firm-leverages-artificial-intelligence-to-help-retailers?amp"
+    type: article
+    provider:
+      name: Business Observer
+      domain: businessobserverfl.com
+    quality: 72
+    images:
+      - url: "https://www.businessobserverfl.com/sites/default/files/323677_standard.jpeg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Indian consumers feel AI drives better consumer experiences: Pega survey"
     excerpt: "Indian consumers were more trusting of new technologies like AI if they see the potential to improve their productivity and make things simpler."
     publishedDateTime: 2021-01-28T08:45:00Z

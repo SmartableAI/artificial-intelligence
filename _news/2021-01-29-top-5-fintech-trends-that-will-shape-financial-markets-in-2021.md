@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/362981"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/362981"
 type: article
 quality: 74
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "FinTech 2020: While The World Waits, We Work"
+    excerpt: "A world-wide health crisis leaves a trail of destruction that moves through space and time. Beyond the horrible loss of life, people are stuck away from their family"
+    publishedDateTime: 2021-01-29T13:01:00Z
+    webUrl: "https://www.benzinga.com/fintech/21/01/19391085/fintech-2020-while-the-world-waits-we-work"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19391085"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19391085"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/pexels-vlada-karpovich-4050296.jpg"
+        width: 6121
+        height: 4081
+        isCached: true
   - title: "Fintech Round-Up: CU Partnerships Spotlight Fraud Control, Financial Wellness"
     excerpt: "Plus, a fintech launches a new cloud-based product and pricing platform specifically for community banks and credit unions."
     publishedDateTime: 2021-01-28T22:35:00Z

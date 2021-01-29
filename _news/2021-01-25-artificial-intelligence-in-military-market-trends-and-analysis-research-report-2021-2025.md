@@ -96,20 +96,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Global Iris Recognition Market Research 2020-2024 | Market Impact Analysis due to COVID-19 Spread | Technavio"
-    excerpt: "The iris recognition market is poised to grow by USD 2.08 billion during 2020-2024 progressing at a CAGR of over 23% during the forecast period. This press release features multimedia. View the full release here:  Technavio has announced its latest market research report titled Global Iris Recognition Market 2020-2024 (Graphic: Business Wire) Worried about the impact of COVID-19 on your business?"
-    publishedDateTime: 2021-01-29T13:09:00Z
-    webUrl: "https://www.oaoa.com/news/business/global-iris-recognition-market-research-2020-2024-market-impact-analysis-due-to-covid-19-spread/article_a90b3591-e02b-57bd-81f4-33618d173465.html"
-    type: article
-    provider:
-      name: Odessa American
-      domain: oaoa.com
-    quality: 7
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/oaoa.com/content/tncms/assets/v3/editorial/b/27/b2716c44-744c-521b-9967-7211b51f4743/60140adf1a0de.image.jpg?resize=1120%2C630"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Global Image Recognition in Retail Market 2020-2025, by Technology, Component, Application, Deployment & Impact of COVID-19 - ResearchAndMarkets.com"
     excerpt: "The “Global Image Recognition in Retail Market (2020-2025), by Technology, Component, Application, Deployment, Geography and the Impact of Covid-19 with Ansoff Analysis” report has been added to ResearchAndMarkets."
     publishedDateTime: 2021-01-26T14:08:00Z
@@ -134,6 +120,15 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
+    quality: 0
+  - title: "Global Iris Recognition Market Research 2020-2024 | Market Impact Analysis due to COVID-19 Spread | Technavio"
+    excerpt: "Technavio has announced its latest market research report titled Global Iris Recognition Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--The iris recognition market is poised to grow by USD 2."
+    publishedDateTime: 2021-01-29T13:09:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210129005302/en/Global-Iris-Recognition-Market-Research-2020-2024-Market-Impact-Analysis-due-to-COVID-19-Spread-Technavio"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
     quality: 0
 
 secured: "v0cCwdjjMeq1gjpNRrmxrRtlWCqz+ZmVF2KK0bCTpnyRsGH1AEsE9fvHX+HiaKrI0X3WXIBhHqxjlfc6DqWHiAE2xdTUnwBYy5Xr1DQ7IaFK5C869IbsTOWGy07h452y0K2hdwLy/4vk992Hq3mQSlDal4f/I62gLaqlJ7NkJO4b9lIL2LEOod/OL1/TmFg7QvC84AHqAxnFFcq6/FRkHPr/dJDriELhSxE1RwVrXbj0gPYKytLk7lEtCheUR2Hc5MjOku2nmFFT9NKFtBZb9/VOwdZTg1I1upEsnSbOzYE9kGIOA6sv6kffry8O1m460mt643RnoISorkBaACtNC34oJyR9vhAoi5HNsHqmdDU=;J3y9hg7nA84reOSJNIGQng=="

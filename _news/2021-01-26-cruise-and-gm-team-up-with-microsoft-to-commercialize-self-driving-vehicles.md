@@ -70,6 +70,22 @@ related:
         width: 512
         height: 325
         isCached: true
+  - title: "Microsoft Translator now supports Inuktitut language"
+    excerpt: "Microsoft has added Inuktitut, the primary dialect of Inuktut, to Microsoft Translator in collaboration with the government of Nunavut."
+    publishedDateTime: 2021-01-29T16:09:00Z
+    webUrl: "https://www.itworldcanada.com/article/microsoft-translator-now-supports-inuktitut-language/441442"
+    ampWebUrl: "https://www.itworldcanada.com/article/microsoft-translator-now-supports-inuktitut-language/441442?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/microsoft-translator-now-supports-inuktitut-language/441442?amp=1"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 61
+    images:
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2021/01/GettyImages-1184077941-620x250.jpg"
+        width: 620
+        height: 250
+        isCached: true
   - title: "Confluent Announces Strategic Alliance with Microsoft"
     excerpt: "Confluent, the company of the founders of Apache Kafka, recently announced a new strategic alliance between them and Microsoft to enable a more integrated experience between Confluent Cloud and the Azure platform."
     publishedDateTime: 2021-01-29T12:06:00Z
@@ -93,15 +109,6 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 34
-  - title: "Cruise, General Motors, and Microsoft team up to develop self-driving vehicles"
-    excerpt: "Cruise and General Motors announced they have entered a long-term strategic relationship with Microsoft to accelerate the commercialization of self-driving vehicles."
-    publishedDateTime: 2021-01-25T00:00:00Z
-    webUrl: "https://www.plantservices.com/industrynews/2021/cruise-general-motors-and-microsoft-team-up-to-develop-self-driving-vehicles/"
-    type: article
-    provider:
-      name: Plant Services
-      domain: plantservices.com
-    quality: 17
 
 secured: "m9Tp/P8NwRpoYjdMv6NnPaDgnHFSnAJnPmW4rurWp81j6aW5XGfAFffUM4cPLdnJwpG9H3tk9qL5E5JrZ8pM3O6g3kO5DoiFoKWwNTBdeR39X60PXkoJic1wkxh7UFEii11PTSNFVf+PGTwUTSMtsYHb4Ze4OYbpEgbHc4XYRIQ7LG0hnTN9MFXu/Y6O2r4khumBwCAVJPwD3tKcLAv4DeYIm1BSRDrqt/HWzihfodotTMgKzadftx1GXU2jYKrRYadcarBYgSlRilfS0nhrZ8hgHXBq74q7w60fiH+WeWnUUyccGc3eiDRyYjAzGPCyILuGKxFuP9xMiJyoV1cTVCc3OpWZaabmK8ftznguZ7rYmseuQC4fSmINg/Qm+z7YQ5+t3ICCz2viYpDa1NGIR+L9BwaSGnlTJIvy/yyNPI/fW4S6t1BVjWItT0X6JUuHiuiXJiJsJMqk09f/q91TEd3ScTW+uYVm0YsYcP+9F22khJ6adLzpW0SH45fuOMnWJ0VKGRp4HRHgIZUsHUpgCw==;xHqX4e+FgGOydsuiWnWjaQ=="
 ---

@@ -106,20 +106,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Global Iris Recognition Market Research 2020-2024 | Market Impact Analysis due to COVID-19 Spread | Technavio"
-    excerpt: "The iris recognition market is poised to grow by USD 2.08 billion during 2020-2024 progressing at a CAGR of over 23% during the forecast period. This press release features multimedia. View the full release here:  Technavio has announced its latest market research report titled Global Iris Recognition Market 2020-2024 (Graphic: Business Wire) Worried about the impact of COVID-19 on your business?"
-    publishedDateTime: 2021-01-29T13:09:00Z
-    webUrl: "https://www.oaoa.com/news/business/global-iris-recognition-market-research-2020-2024-market-impact-analysis-due-to-covid-19-spread/article_a90b3591-e02b-57bd-81f4-33618d173465.html"
-    type: article
-    provider:
-      name: Odessa American
-      domain: oaoa.com
-    quality: 7
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/oaoa.com/content/tncms/assets/v3/editorial/b/27/b2716c44-744c-521b-9967-7211b51f4743/60140adf1a0de.image.jpg?resize=1120%2C630"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Medicine Market Research Report by Application, by End User - Global Forecast to 2025 - Cumulative Impact of COVID-19"
     excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence in Medicine Market Research Report by"
     publishedDateTime: 2021-01-29T10:34:00Z
@@ -130,6 +116,15 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
+    quality: 0
+  - title: "Global Iris Recognition Market Research 2020-2024 | Market Impact Analysis due to COVID-19 Spread | Technavio"
+    excerpt: "Technavio has announced its latest market research report titled Global Iris Recognition Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--The iris recognition market is poised to grow by USD 2."
+    publishedDateTime: 2021-01-29T13:09:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210129005302/en/Global-Iris-Recognition-Market-Research-2020-2024-Market-Impact-Analysis-due-to-COVID-19-Spread-Technavio"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
     quality: 0
 
 secured: "3w1UAqZvVtm4cXSf1wfiRKL5b0B8Knxi2Gdr9nIRs8hNfmTDaTpN6nHsU+TXeR9VG+i8cEMIKomIcFwSnN++lQQi/m63n4SeMW2c6/nZMAfMJCfVI08yRr9PBLgN31lEFOfs1K4Nj3v55coR/bhtaIIWxAI3gXky+vpuvyDNB1Rs1FcwUD3R+LpCE/gUkYRsHun6xQtiRLxpRNIyjtDdHb2xtHn4zt/wTvS2J6QfRuAdseg2bcCoh/X7SMCk+omitzsFW7PTwTCf4SGu2a5EeasCSHBblFVzY61gwV3/0xWAq0pY2FdHjDOqczu9kem8iq2jcJSecVDBsyRH60YtQQdGVlYQPjJgfs5L1KyN3M4=;GYgYjVy0OpqHCKABfaZUPw=="

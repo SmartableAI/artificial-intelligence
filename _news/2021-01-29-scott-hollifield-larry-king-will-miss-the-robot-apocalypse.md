@@ -2,30 +2,30 @@
 category: news
 title: "Scott Hollifield: Larry King will miss the Robot Apocalypse"
 excerpt: "Today, our disparate subjects will be the literary genius of the late Larry King and the inevitable end of the world as we know it brought about by killer robots."
-publishedDateTime: 2021-01-29T00:00:00Z
-originalUrl: "https://morganton.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_0e04f85c-61a9-11eb-9d25-37601bcd4643.html"
-webUrl: "https://morganton.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_0e04f85c-61a9-11eb-9d25-37601bcd4643.html"
-ampWebUrl: "https://morganton.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_0e04f85c-61a9-11eb-9d25-37601bcd4643.amp.html"
-cdnAmpWebUrl: "https://morganton-com.cdn.ampproject.org/c/s/morganton.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_0e04f85c-61a9-11eb-9d25-37601bcd4643.amp.html"
+publishedDateTime: 2021-01-29T14:00:00Z
+originalUrl: "https://mcdowellnews.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_e6b5924e-6184-11eb-bbc1-cb7da67dedb2.html"
+webUrl: "https://mcdowellnews.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_e6b5924e-6184-11eb-bbc1-cb7da67dedb2.html"
+ampWebUrl: "https://mcdowellnews.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_e6b5924e-6184-11eb-bbc1-cb7da67dedb2.amp.html"
+cdnAmpWebUrl: "https://mcdowellnews-com.cdn.ampproject.org/c/s/mcdowellnews.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_e6b5924e-6184-11eb-bbc1-cb7da67dedb2.amp.html"
 type: article
 quality: 59
 heat: 59
 published: false
 
 provider:
-  name: morganton.com
-  domain: morganton.com
+  name: The McDowell News
+  domain: mcdowellnews.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/morganton.com/content/tncms/assets/v3/editorial/0/df/0dfd2eec-61a9-11eb-9d24-2f932b7cbfee/6013213bab2dd.image.jpg"
+  - url: "https://bloximages.newyork1.vip.townnews.com/mcdowellnews.com/content/tncms/assets/v3/editorial/5/ed/5ed587b6-6185-11eb-ab39-1f16da3304cd/6012e55d6f04d.image.jpg"
     width: 504
     height: 233
     isCached: true
 
-secured: "JlKaF3i27UqlNA21fqtQ6AyMaDtIZU/4KAs6YsVRtn5dIRaQ/KkXH0xiBQ2aSdkKaRFpW5BPyKjS/wBbEn5q8Kyd0bAvIeXvHVNVCJAeBsBWiIIBh7TonukMycUe2pFmwJp8Lk4kb032I2EX1C6Yjj/ctXlwtkOWyAHI0Jby7/YcjlL2Nde0vcH6RvaggAEi5ZK9mO9q/XYJtcXyLpUSbN5BDVDNASCrn1bMhc5wX6/yHJHLC1aOYSyd64/6TDghN6GyCldv2hgEKFKr/VjOp+W3um7bvjYhAH+CrXj2BlbGDVafznBH7EO3ZkQ+/jfeZXtnCbS33F4rkbN1iJqV3NDb3+O8YVFPnKtZc/TuQQ4=;ihZ5l5zBAW1J+ez8vV1uXw=="
+secured: "JkJQKSzlFItkaHWFbqBWgsb10+EbQ++sumzeZkEw6xCyhTC/Mi3LPWEPriyO5HOXFbsGrTaVsQIaI3U0+YzTKF+UhwRURZ9NhuHvW1iunIF2yqowpoBlRsUjO5jbxjsUpyKIK0eqsuHA8UzEm7A3V1tTcI05dzPmO+IFDTZdkLdyADG0okrEYtpuUpbPL3dwWG/3jbFIUdi/krMOM/mVQls1HO9l8uBtEl+soSdUaX9yxWHiEPf674Rp8kENDaZlE2hyib1ze8cLliWxo48gUdnFLVPd3AH1DvNPB1jz4lqKHG9TyAoe33lqwqioS6hjXUEjHW3nomnMwyCcGNXYJ33sSEJkADGnhptmfF4VfMQ=;LO+IkXH1IGNS1otMbomS0g=="
 ---
 

@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Baidu gets California nod for testing empty self-driving cars"
-excerpt: "Baidu Inc has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor Vehicles said on Wednesday."
-publishedDateTime: 2021-01-28T02:37:00Z
-originalUrl: "https://www.reuters.com/article/us-baidu-autonomous-idUSKBN29W2OT"
-webUrl: "https://www.reuters.com/article/us-baidu-autonomous-idUSKBN29W2OT"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29W2OT"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29W2OT"
+title: "Baidu Gets California Nod for Testing Empty Self-Driving Cars"
+excerpt: "Baidu Inc has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor Vehicles said on Wednesday. Although self-driving vehicles are designed to eliminate the need for a driver,"
+publishedDateTime: 2021-01-28T09:25:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2021-01-27/baidu-gets-california-nod-for-testing-driverless-vehicles"
+webUrl: "https://www.usnews.com/news/technology/articles/2021-01-27/baidu-gets-california-nod-for-testing-driverless-vehicles"
+ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-01-27/baidu-gets-california-nod-for-testing-driverless-vehicles?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-01-27/baidu-gets-california-nod-for-testing-driverless-vehicles?context=amp"
 type: article
-quality: 89
-heat: 179
-published: true
+quality: 69
+heat: -1
+published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,29 +24,7 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210127&t=2&i=1549286737&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0Q1KU"
-    width: 817
-    height: 545
-    isCached: true
-
 related:
-  - title: "Baidu gets California nod for testing driverless vehicles"
-    excerpt: "Baidu Inc has received a permit from the state of California to test driverless vehicles without a backup driver in the front seat, the state’s Department of Motor Vehicles said on Wednesday. (Reporting by Munsif Vengattil in Bengaluru;"
-    publishedDateTime: 2021-01-27T20:23:00Z
-    webUrl: "https://www.metro.us/baidu-gets-california-nod/"
-    ampWebUrl: "https://www.metro.us/baidu-gets-california-nod/amp/"
-    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/baidu-gets-california-nod/amp/"
-    type: article
-    provider:
-      name: Metro US
-      domain: metro.us
-    quality: 74
-    images:
-      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXMPEH0Q1KU-BASEIMAGE.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Baidu gets California nod for testing driverless vehicles on Sunnyvale streets"
     excerpt: "Baidu is the sixth company to have a permit to test without a driver behind the wheel. The permit allows it to test three autonomous vehicles on specified streets within Sunnyvale."
     publishedDateTime: 2021-01-28T16:19:00Z
@@ -76,48 +54,6 @@ related:
       - url: "https://roboticsandautomationnews.com/wp-content/uploads/2021/01/Apollo.jpg"
         width: 800
         height: 533
-        isCached: true
-  - title: "Baidu gets Calif. nod to test driverless cars"
-    excerpt: "Baidu Inc. received a permit from the state of California to test self-driving vehicles without a driver behind the wheel, the state's Department of Motor Vehicles said on Wednesday. Although self-driving vehicles are designed to eliminate the need for a driver,"
-    publishedDateTime: 2021-01-27T22:02:00Z
-    webUrl: "https://www.autonews.com/mobility-report/baidu-gets-calif-nod-test-driverless-cars"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 54
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/RTS2G4UC-1.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Baidu gets green light to test fully driverless cars in California"
-    excerpt: "Baidu is the sixth company to receive a driverless test permit from California, after Waymo, Nuro, Zoox, Cruise, and AutoX -- an Alibaba-backed, Chinese self-driving startup. There are 58 companies that have an active permit to test autonomous vehicles with a safety driver in California,"
-    publishedDateTime: 2021-01-27T22:01:00Z
-    webUrl: "https://asia.nikkei.com/Business/Technology/Baidu-gets-green-light-to-test-fully-driverless-cars-in-California"
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 54
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F2%252F2%252F8%252F2%252F32042822-1-eng-GB%252FApollo.jpeg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "Baidu wins green light to test fully driverless cars in California"
-    excerpt: "Baidu is the sixth company to receive a driverless test permit from California, after Waymo, Nuro, Zoox, Cruise, and AutoX -- an Alibaba-backed, Chinese self-driving startup. There are 58 companies that have an active permit to test autonomous vehicles with a safety driver in California,"
-    publishedDateTime: 2021-01-27T22:01:00Z
-    webUrl: "https://asia.nikkei.com/Business/Technology/Baidu-wins-green-light-to-test-fully-driverless-cars-in-California"
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 54
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F2%252F2%252F8%252F2%252F32042822-1-eng-GB%252FApollo.jpeg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
-        width: 1024
-        height: 512
         isCached: true
   - title: "University Of Southern California and Amazon establish Center For Secure And Trusted Machine Learning"
     excerpt: "The expectation is that the center will unleash a new line of fundamental research on privacy and security aspects of machine learning –given the proliferation of artificial intelligence across all aspects of society from education to finance,"
@@ -149,21 +85,7 @@ related:
         width: 640
         height: 300
         isCached: true
-  - title: "California-Based FinTech Provider Empaxis Expands, Announces New India Location"
-    excerpt: "Empaxis Data Management, a cloud-based financial technology and middle-and back-office services provider for investment management firms, has announced the opening of a new office in Kolkata (formerly Calcutta),"
-    publishedDateTime: 2021-01-26T15:22:00Z
-    webUrl: "https://www.lelezard.com/en/news-19617447.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 20
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
-secured: "1G+a93n4H5v8ZnGiM4cqtJ61kv26vIjv9Qxo4McIlB/VKUF/+EZJLU+sd5ScCcewpyIgSD8cYEFtRGhX1p1gjjospD+ngJ4ePiTzQhtRX1CAAay2+mWRuo3RbUMAl+87dLL9gcbMu6hwNiYdKvLrz93yk06dXwX/QQ+oF64x/fW2Oq3itA2wPFs/dZV9ChAYQe29J+v7wwOEgZXIAMOhJqbUdSzOPT3amzcpOn/5Y7mWI2Dd/nsCP3askC0cFmBl87fakPvTyzgSEWDUzCQiyARvjfSGEBnDxJiaD4V2a7wgFuLJF7soQzerOEJlGXo+mglkXjkZ3gn8mso6zhNjCFhMZokUnwT1r8xEsvKwjt8rhfUiqyBUGoovwhiTRoberiMbYp2zhRyP3XUxRW1xyqkygczFqXlPJ4tkDBy6XRO+vV3SQUWHMF9i8m/Fh9FZV11naLTVgnfbbX0nHgkx9JAFZuM6/UmlszCcZocOKoJ/Pt6fBhTUzgK6yUza7mR90+v4Y5eqQCPoX75dZg4Svg==;HGmim+PBFtSSO4VtKYkdqQ=="
+secured: "d/6SL237vTZlFB5yxVsIQmFbZx3KzIl414/wfn73uTvit4P80sh7FAjhCHpNTPw/cnQHXzz1W06bA3o+1b0dPJIQCgyQAGnYxSdxm2nzw5zT0BThaSzUKVTwp4kx678AE7AVKzvYqRQp8xmJCl9faLNzlqAfPKZ9tO6Qz+tY0EXzM6rHT5rBTu3j4mzaxUWSPA0+IVlZPkAA/Zy+VFnVLm8iZdLeBjwQ8XAJcOwPL+us0THJPjbUI3YO/feits9+LRYrT9dtiNOZfxxu/ywoLiEzdhYAVaFRQT9S29cSc1dsqiO+7p4VQIzCxPXH50jKZ6mtX3UvnekhAMHp/IPZl2wCkqGZJ+7UrTI5JUa42xbMlo46bTN0QX3obk+vkMo1zsR1XIf9jBgYu4lifJLaQeUB9kgLbHfcEpEIVv0B5gVPTjqtE6B1ql7DFmMjmtEd4Vnv6vmXhU2cZnq+pvDsbruc38Sn8oit9fyNhTCQ6UwjQXQbaLaJrT+g3YUm9HZ/vtsFzzpK32Vo4jvymlXwzw==;5W372D258UAFTxveRtvfMA=="
 ---
 
