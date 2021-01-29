@@ -2,9 +2,9 @@
 category: news
 title: "US has 'moral imperative' to develop AI weapons, says panel"
 excerpt: "Draft Congress report claims AI will make fewer mistakes than humans and lead to reduced casualties"
-publishedDateTime: 2021-01-26T20:50:00Z
-originalUrl: "https://www.theguardian.com/science/2021/jan/26/us-has-moral-imperative-to-develop-ai-weapons-says-panel"
-webUrl: "https://www.theguardian.com/science/2021/jan/26/us-has-moral-imperative-to-develop-ai-weapons-says-panel"
+publishedDateTime: 2021-01-26T22:50:00Z
+originalUrl: "https://www.theguardian.com/science/2021/jan/26/us-has-moral-imperative-to-develop-ai-weapons-says-panel?ICID=ref_fark"
+webUrl: "https://www.theguardian.com/science/2021/jan/26/us-has-moral-imperative-to-develop-ai-weapons-says-panel?ICID=ref_fark"
 ampWebUrl: "https://amp.theguardian.com/science/2021/jan/26/us-has-moral-imperative-to-develop-ai-weapons-says-panel"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/science/2021/jan/26/us-has-moral-imperative-to-develop-ai-weapons-says-panel"
 type: article
@@ -61,6 +61,6 @@ related:
         height: 486
         isCached: true
 
-secured: "12+9+gcjV74WsDOcqmbuf8gx7BWbOKccrqj5pVpI3+5I89nZPiCwcdltk/6zJWIMVsXyoZ8iHdMfi9oZolv0yD6V+3o2iAfbL3InpgEK5qLrRd4ClKJHEmTU7MBHiQdMUBX2RxSwEBeGaOXSYU4m0bfbIomSZaB3xtdZziBXlMGQx7hvTECsOM2D9uZvbQt3ktHUznZ+jhcInW4qmTrggRuWCEHvthp/aLeqTWAtYJWbbQNPy+0+4BATVHX17ZfrshX+eVEBOtm2RRPd7tAX2iLGp+OcL67fdmNjKxQeyms1FacRzNEqigZiJNkSnNuruOpzKdE6DXHRokKswBwURztla0FcB0oBZligUgOwGiyN8/V+DFv7hLQB4vft0x3tSN7vqi8yaNRdysU+ecjdX+3/mQcNdOFMtHc7ZK5cAspV08F1CrLv3AG3mUqBAuabvHCk6ogNzF3SIXYwO+XFPg+d0PlrFoe/lwQWN5sEd5IBAugxFyC/AXwu7tRZQKD0TyTzCfQPBk/btsCbHjZrfQ==;MtGiBg41k13BSDNAHxaCrg=="
+secured: "6VrJRLnD5EDqc0AXkiKiC7DonjgKRyO/TCCFbBZxfEs0vz5iW6qC9hnHOYLE6ZYIhYY9bCciQND0NhgNswP4DsHTA5SiJ2BNxN3ax82ojr0X6GMNx59EfSQqK4WsLyuKMKPSNIiFGCovtqBCxRnsunRqs/AE5tSt5/Tb08nV7ZbLnMba8yCaX+7pKE+ufjU467MWYxghLgoHk1RPJYFgNNgMFZrTbnt6zmNoikIRmnUFeB/Kt+iMrKKeu5Ily7SAc0ARJNWc7hPeBQZ3Tv7e6X654Iv2gEhQRxB3bW6BEesLSWhChEkZxjMFQAvpZU1M+nAbO+N7RHnwCob4XkIWpnVen9O48q6F262atmvsA0w=;oeGiAG5cHH/cu9FIMgwmew=="
 ---
 

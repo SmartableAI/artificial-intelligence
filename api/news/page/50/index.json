@@ -2,6 +2,153 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2020-12-16-china-search-giant-baidu-considers-making-own-electric-vehicles-sources.md",
+      "title": "China search giant Baidu considers making own electric vehicles: Sources",
+      "excerpt": "Baidu has held preliminary talks - without ... tech giant Sony Corp in January unveiled an electric concept car with self-driving functions. Building cars would represent a dramatic development ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/world/china-search-giant-baidu-considers-making-own-electric-vehicles-sources-6232731.html",
+      "originalUrl": "https://www.moneycontrol.com/news/world/china-search-giant-baidu-considers-making-own-electric-vehicles-sources-6232731.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2018/07/baidu-770x433.jpg?impolicy=website&width=770&height=431",
+          "width": 770,
+          "height": 431,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/world/china-search-giant-baidu-considers-making-own-electric-vehicles-sources-6232731.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/china-search-giant-baidu-considers-making-own-electric-vehicles-sources-6232731.html/amp",
+      "publishedDateTime": "2020-12-15T19:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-sony-ai-launches-new-project-dedicated-to-gastronomy-research.md",
+      "title": "Sony AI launches new project dedicated to gastronomy research",
+      "excerpt": "Sony AI, the machine learning and artificial intelligence (AI) research arm of the Japanese conglomerate, has launched a new project that will be dedicated to gastronomy research and development. The gastronomy flagship project,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/sony-ai-launches-new-project-dedicated-to-gastronomy-research/",
+      "originalUrl": "https://www.zdnet.com/article/sony-ai-launches-new-project-dedicated-to-gastronomy-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/12/16/98b4cc2f-ffaa-46eb-ae8f-f770e1094bc7/gastronomyui-for-pr.jpg",
+          "width": 1000,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/sony-ai-launches-new-project-dedicated-to-gastronomy-research/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sony-ai-launches-new-project-dedicated-to-gastronomy-research/",
+      "publishedDateTime": "2020-12-15T17:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-amazon-alexa-gets-real-time-translation-functionality.md",
+      "title": "Amazon Alexa gets real-time translation functionality",
+      "excerpt": "All you have to do to activate Live Translation is \"ask Alexa to initiate a translation session.\" Amazon didn't say exactly what keywords will trigger this",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/87967-amazon-adds-real-time-translation-functionality-alexa.html",
+      "originalUrl": "https://www.techspot.com/news/87967-amazon-adds-real-time-translation-functionality-alexa.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/12/2020-12-14-image-23.jpg",
+          "width": 2040,
+          "height": 1360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/87967-amazon-adds-real-time-translation-functionality-alexa.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87967-amazon-adds-real-time-translation-functionality-alexa.html",
+      "publishedDateTime": "2020-12-15T17:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-exclusive-china-search-giant-baidu-considers-making-own-electric-vehicles-sources.md",
       "title": "Exclusive-China search giant Baidu considers making own electric vehicles -sources",
       "excerpt": "tech giant Sony Corp in January unveiled an electric concept car with self-driving functions. Building cars would represent a dramatic development in Baidu’s push to diversify income streams as ...",
@@ -1029,153 +1176,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-why-do-many-self-driving-cars-look-like-toasters-on-wheels.md",
-      "title": "Why Do Many Self-Driving Cars Look Like Toasters on Wheels?",
-      "excerpt": "Without any need for steering wheels or pedals, the cubes give passengers room to maneuver inside. The latest entrant, from Zoox, can hold 4.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/self-driving-cars-look-toasters-wheels/",
-      "originalUrl": "https://www.wired.com/story/self-driving-cars-look-toasters-wheels/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5fd7a8484c7927c6dddd2eba/master/pass/Business-Zoox-Autonomous-Vehicle.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/self-driving-cars-look-toasters-wheels/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/self-driving-cars-look-toasters-wheels/amp",
-      "publishedDateTime": "2020-12-15T06:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-how-ibm-researchers-enabled-ai-platform-watson-to-understand-native-hindi.md",
-      "title": "How IBM researchers enabled AI platform Watson to understand native Hindi",
-      "excerpt": "With this, Watson Discovery can understand documents written in Devanagari and extract their meaning, without having to resort to any translation to English",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/technology/how-ibm-researchers-enabled-ai-platform-watson-to-understand-native-hindi-120121501070_1.html",
-      "originalUrl": "https://www.business-standard.com/article/technology/how-ibm-researchers-enabled-ai-platform-watson-to-understand-native-hindi-120121501070_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2020-12/15/full/1608042837-363.jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/technology/how-ibm-researchers-enabled-ai-platform-watson-to-understand-native-hindi-120121501070_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/how-ibm-researchers-enabled-ai-platform-watson-to-understand-native-hindi-120121501070_1.html",
-      "publishedDateTime": "2020-12-15T06:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-a-data-driven-guide-to-whether-a-machine-will-be-doing-your-job-by-2025.md",
-      "title": "A Data-Driven Guide to Whether a Machine Will Be Doing Your Job By 2025",
-      "excerpt": "Humans and machines will clock the same work hours by 2025 (and other startling findings from the World Economic Forum’s ‘Future of Jobs 2020’ report).",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en/article/88a575/a-data-driven-guide-to-whether-a-machine-will-be-doing-your-job-by-2025",
-      "originalUrl": "https://www.vice.com/en/article/88a575/a-data-driven-guide-to-whether-a-machine-will-be-doing-your-job-by-2025",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com/_uncategorized/1608041314845-screen-shot-2020-12-02-at-91900-pm.png",
-          "width": 789,
-          "height": 414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en/article/88a575/a-data-driven-guide-to-whether-a-machine-will-be-doing-your-job-by-2025",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/88a575/a-data-driven-guide-to-whether-a-machine-will-be-doing-your-job-by-2025",
-      "publishedDateTime": "2020-12-15T06:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -35,7 +35,7 @@ related:
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://tr2.cbsistatic.com/hub/i/r/2020/04/30/85083d05-b7b7-4832-a3b1-f1532b6d905e/resize/1200x/f816050b9bf16dda28145dfd5dcf70cd/fullstackdeveloperimage.jpg"
         width: 1200

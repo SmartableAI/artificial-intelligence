@@ -58,17 +58,6 @@ related:
         width: 426
         height: 398
         isCached: true
-  - title: "Pinecone leaves stealth with $10M, launches first serverless vector database for machine learning"
-    excerpt: "PineconeSystems Inc., a machine learning (ML) cloud infrastructure company, left stealth today with $10m in seed funding. The investment was led by Wing Venture Capital, and Wing's Founding Partner, Peter Wagner,"
-    publishedDateTime: 2021-01-27T15:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-1030010484"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-1030010484"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-1030010484"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 58
   - title: "Pinecone exits stealth with a vector database for machine learning"
     excerpt: "Pinecone Systems Inc. is emerging from stealth mode today armed with $10 million in seed funding and a serverless vector database that it says can make machine learning queries much faster and more accurate."
     publishedDateTime: 2021-01-27T15:51:00Z
@@ -96,6 +85,20 @@ related:
       - url: "https://www.finsmes.com/wp-content/uploads/2018/07/espressive-400x293.jpg"
         width: 400
         height: 293
+        isCached: true
+  - title: "Pinecone leaves stealth with $10M, launches first serverless vector database for machine learning"
+    excerpt: "Built by the team behind Amazon SageMaker and founded by scientist and former AWS Director Edo Liberty, Pinecone makes large-scale real-time inference as simple as querying a database. It is ..."
+    publishedDateTime: 2021-01-27T15:02:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-301216240.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 28
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "mraBkVGvAvbE5hFBiHMGn6EZMNoPP8lmbjoGnl6TSrcql0fu38KG9hmSRZaGXNa4LQ3v2N1hInLhNgQRyXGHyLtz1X1iOC3p0iO4FhNExPiGtnvJllppV3BjlGeU238DFDcvEhLzD2NpO2/sedFftb8RyWtUcOpiQbicvbof11hiH5Cm1/NHRsuFbEe+zBQtBUbff42jCdKlGnulHvoUHBoqxUmUxRMN1Ptado2lnJvsZdR4h+W8P1oWpZRRuE5YEBHVH6tnaLtaof9DjpXmKfbxmAKKMQdI5I+BVytpQJrnPItwY8LDkwVlOb36e+6M1YxfBRv4UVzyyyS4gq2/+7nu0ngEo0jsYZ6DtuNubN4=;yP8gugfN0c/DpwNGqkAt/A=="

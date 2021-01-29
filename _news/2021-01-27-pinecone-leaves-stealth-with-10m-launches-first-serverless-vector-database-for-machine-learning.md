@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Pinecone leaves stealth with $10M, launches first serverless vector database for machine learning"
-excerpt: "PineconeSystems Inc., a machine learning (ML) cloud infrastructure company, left stealth today with $10m in seed funding. The investment was led by Wing Venture Capital, and Wing's Founding Partner, Peter Wagner,"
-publishedDateTime: 2021-01-27T15:13:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-1030010484"
-webUrl: "https://markets.businessinsider.com/news/stocks/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-1030010484"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-1030010484"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-1030010484"
+excerpt: "Built by the team behind Amazon SageMaker and founded by scientist and former AWS Director Edo Liberty, Pinecone makes large-scale real-time inference as simple as querying a database. It is ..."
+publishedDateTime: 2021-01-27T15:02:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-301216240.html"
+webUrl: "https://www.prnewswire.com/news-releases/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-301216240.html"
 type: article
-quality: 58
+quality: 28
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AWS AI
   - AI
   - Machine Learning
+
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "Pinecone lands $10M seed for purpose-built machine learning database"
@@ -101,6 +101,6 @@ related:
         height: 315
         isCached: true
 
-secured: "4mKR5WYEZ1QxEjQ/Qfn42mQ3NNVkBelRqXskwRGILXDezgLJIVf7oljArwP+o02/7JL7fqfuxDEAnYLO6qrio800NOgK5mTiK1bUNlbQp+izi2aXrDpnMzMvobkmC1TndQHr+cby7zLj6nBln/VX9cTr2ZQR2VMzx6sBOc99rn9n+0KBoq8NhwoeQxhU+pi4HLxpy1UPqzfUQvI1jhzys3v0ErI5JpBqSoVgwuJvDUP5OlgZEzEII2wlzCanvaAhxi/mPjZrK1CYRL0SSV/iuw8hwuAkQ0mvSdlQkPqREnvIsnM+8D9Bfz9jB5W1cwPNvrTIuRWoUDPJnuiWoZWOq1mmdSmzse1zEfkD5WK74bA=;Mz5skxiboqr9tAVEX3NzXQ=="
+secured: "ObaNg9ruP8oPu0+p2YB+qL73NODXsP8Q1zWujkk47SbbvUahHF4lxaDclMdET0FeaM2Zclp3Jn0Vp6ksWTeTYPZy3t202PNUuvfr/7izv8E1kSjC5Ytgwo650yjTqZ5mwkgixhiCtakuxBQdq+bdyKn1ljEmnhUQcvASEjBLxHyeTNl3ndK05kCLrPdEs7fcIwrb1rlbHDTSZHSD+Xs5VSx+9nK40VUN7m8wlbLVV+GCohQQjBVzIzAaeJfw7xvTr3FJDqZxP6jW4QABMuB8UNn8Q/X1FRCbEOPtssIAaKdmJ1Qr0qP/NWEYTNwWsdIXInuaDVRS0FZirSgHgch8MmqHn3q9GSJRLMf7IMMFcSM=;XUi/CBPinrfBmplBwFpTAA=="
 ---
 

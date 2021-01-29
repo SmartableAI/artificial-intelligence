@@ -69,6 +69,22 @@ related:
         width: 620
         height: 411
         isCached: true
+  - title: "Facial recognition tool used to identify Red Fort raiders"
+    excerpt: "The Delhi Police have so far arrested 19 persons and detained over 200 persons after 33 FIRs were registered under various sections of IPC, Disaster Management Act, Epidemic Disease Act, UAPA and Prevention of Damage to Public Property Act,"
+    publishedDateTime: 2021-01-29T02:51:00Z
+    webUrl: "https://economictimes.indiatimes.com/news/politics-and-nation/facial-recognition-tool-used-to-identify-red-fort-raiders/articleshow/80516165.cms"
+    ampWebUrl: "https://m.economictimes.com/news/politics-and-nation/facial-recognition-tool-used-to-identify-red-fort-raiders/amp_articleshow/80516165.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/politics-and-nation/facial-recognition-tool-used-to-identify-red-fort-raiders/amp_articleshow/80516165.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-449348,msid-80516165/facial-recognition-tool-used-to-identify-red-fort-raiders.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Facial recognition: Don't use it to snoop on how staff are feeling, says watchdog"
     excerpt: "The Council of Europe's new guidelines call for a ban on some applications of facial recognition, and stringent privacy safeguards when the technology is deployed."
     publishedDateTime: 2021-01-28T16:27:00Z

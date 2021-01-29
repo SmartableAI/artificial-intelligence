@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/01/26/ex-uber-team-raises-6m-seed-for-ge
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/26/ex-uber-team-raises-6m-seed-for-geospatial-analytics-platform-unfolded-ai/amp/"
 type: article
 quality: 85
-heat: 115
+heat: 125
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/Intelligent-Analysis.jpg"
         width: 900
         height: 500
+        isCached: true
+  - title: "Startup Employs Video Analytics and AI for Streamlined Aircraft Turnarounds"
+    excerpt: "Aircraft turnaround processes may soon become streamlined thanks to a combination of video analytics and artificial intelligence (AI). Swiss startup Assaia has partnered with airport solutions provider ADB SAFEGATE to pair its ApronAI image recognition technology with ADB’s SafeControl"
+    publishedDateTime: 2021-01-28T00:00:00Z
+    webUrl: "https://aviationweek.com/mro/emerging-technologies/startup-employs-video-analytics-ai-streamlined-aircraft-turnarounds"
+    type: article
+    provider:
+      name: Aviation Week
+      domain: aviationweek.com
+    quality: 35
+    images:
+      - url: "https://aviationweek.com/sites/default/files/styles/crop_freeform/public/2021-01/adb-safegate-safedock.jpg?itok=6sZHSsAJ"
+        width: 1500
+        height: 1095
         isCached: true
   - title: "NICE Actimize Honored for AI and Advanced Analytics Innovation in Holistic Trade Surveillance by Regulation Asia"
     excerpt: "NICE Actimize, a NICE (Nasdaq: NICE) business, announced today that its Holistic Trade and Communications Surveillance solutions suite was recognized by the Regulation Asia Awards for Excellence 2020 for the second consecutive year with the Best Solution in Market & Trading Surveillance award."

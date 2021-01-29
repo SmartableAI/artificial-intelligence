@@ -73,6 +73,22 @@ related:
         width: 620
         height: 411
         isCached: true
+  - title: "Facial recognition tool used to identify Red Fort raiders"
+    excerpt: "The Delhi Police have so far arrested 19 persons and detained over 200 persons after 33 FIRs were registered under various sections of IPC, Disaster Management Act, Epidemic Disease Act, UAPA and Prevention of Damage to Public Property Act,"
+    publishedDateTime: 2021-01-29T02:51:00Z
+    webUrl: "https://economictimes.indiatimes.com/news/politics-and-nation/facial-recognition-tool-used-to-identify-red-fort-raiders/articleshow/80516165.cms"
+    ampWebUrl: "https://m.economictimes.com/news/politics-and-nation/facial-recognition-tool-used-to-identify-red-fort-raiders/amp_articleshow/80516165.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/politics-and-nation/facial-recognition-tool-used-to-identify-red-fort-raiders/amp_articleshow/80516165.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-449348,msid-80516165/facial-recognition-tool-used-to-identify-red-fort-raiders.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Use of facial recognition tech sparks privacy fears"
     excerpt: "The Lucknow police’s decision to use facial recognition technology (FRT) to monitor women’s expressions to prevent street harassment has spurred privacy concerns among Indians. The government needs to create strict and clear regulations before it allows law enforcement agencies to use facial recognition for policing,"
     publishedDateTime: 2021-01-25T01:34:00Z

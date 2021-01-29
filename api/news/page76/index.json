@@ -2,6 +2,162 @@
   "page": 76,
   "value": [
     {
+      "path": "_news/2020-11-29-aides-ties-to-firms-present-biden-with-early-ethics-test.md",
+      "title": "Aides’ Ties to Firms Present Biden With Early Ethics Test",
+      "excerpt": "Some of the president-elect’s choices for top posts have done work for undisclosed corporate clients and aided a fund that invests in government contractors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/11/28/us/politics/biden-westexec.html",
+      "originalUrl": "https://www.nytimes.com/2020/11/28/us/politics/biden-westexec.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/28/us/politics/28dc-biden-westexec/merlin_180453024_afacfb19-71d8-4125-b7a2-fd592224b286-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/11/28/us/politics/biden-westexec.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/28/us/politics/biden-westexec.amp.html",
+      "publishedDateTime": "2020-11-28T08:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-28-recommended-reading-using-ai-to-create-alarmingly-realistic-fake-people.md",
+      "title": "Recommended Reading: Using AI to create alarmingly realistic fake people",
+      "excerpt": "Fake personas on the internet are nothing new, but completely fake people that appear to be alarmingly real in photographs or animations are becoming increasingly common. To better understand how easy this process can be,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/recommended-reading-using-ai-to-create-alarmingly-realistic-fake-people-150028227.html",
+      "originalUrl": "https://www.engadget.com/recommended-reading-using-ai-to-create-alarmingly-realistic-fake-people-150028227.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-01%2F928edd90-1a6b-11e9-9dad-12cf547e46df&client=amp-blogside-v2&signature=220b66291da6c89be2fc4f03e86d407a461807b3",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/recommended-reading-using-ai-to-create-alarmingly-realistic-fake-people-150028227.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/recommended-reading-using-ai-to-create-alarmingly-realistic-fake-people-150028227.html",
+      "publishedDateTime": "2020-11-28T07:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-28-emily-murphy-administrator-of-the-gsa-shares-her-thoughts-on-ai.md",
+      "title": "Emily Murphy, Administrator Of The GSA Shares Her Thoughts On AI",
+      "excerpt": "Being recently thrust into the news, Emily Murphy, Administrator of the GSA might have rather been known for the impact she has helped make on the GSA's use of AI and automation to change the way the government procures and uses technology services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/11/28/emily-murphy-administrator-of-the-gsa-shares-her-thoughts-on-ai/",
+      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2020/11/28/emily-murphy-administrator-of-the-gsa-shares-her-thoughts-on-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc25de1572d1ce489ed7e5b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2400%26cropY1%3D271%26cropY2%3D1621",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/11/28/emily-murphy-administrator-of-the-gsa-shares-her-thoughts-on-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/11/28/emily-murphy-administrator-of-the-gsa-shares-her-thoughts-on-ai/amp/",
+      "publishedDateTime": "2020-11-28T06:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-11-28-artificial-blood-market-is-estimated-to-reach-1073-billion-by-2025-growing-at-a-cagr-of-203-from-2020-to-2025.md",
       "title": "Artificial Blood Market is estimated to reach $10.73 billion by 2025; growing at a CAGR of 20.3% from 2020 to 2025",
       "excerpt": "Global Artificial Blood Market is estimated to reach $10.73 billion by 2025; growing at a CAGR of 20.3% from 2017 to 2025. Artificial blood, also known as synthetic blood substitute or blood surrogate is a substance used as a replacement to biological blood.",
@@ -1068,160 +1224,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-27-ecbs-panetta-open-to-case-by-case-resumption-of-bank-dividends.md",
-      "title": "ECB’s Panetta Open to Case-by-Case Resumption of Bank Dividends",
-      "excerpt": "European Central Bank Executive Board member Fabio Panetta said he’s open to allowing some banks to resume paying dividends as the economy improves.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-11-27/ecb-s-panetta-open-to-case-by-case-resumption-of-bank-dividends",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-11-27/ecb-s-panetta-open-to-case-by-case-resumption-of-bank-dividends",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilR5j0VZWcoo/v0/360x-1.jpg",
-          "width": 360,
-          "height": 257,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-11-27/ecb-s-panetta-open-to-case-by-case-resumption-of-bank-dividends",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-11-27/ecb-s-panetta-open-to-case-by-case-resumption-of-bank-dividends",
-      "publishedDateTime": "2020-11-26T18:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-11-27-chinas-industrial-profits-surge-at-fastest-pace-in-nine-years.md",
-      "title": "China’s Industrial Profits Surge at Fastest Pace in Nine Years",
-      "excerpt": "Profits at Chinese industrial enterprises surged at the fastest pace in a single month in almost nine years in October, a further sign the economic recovery is gathering pace.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-11-27/china-s-industrial-profits-surge-at-fastest-pace-in-nine-years",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-11-27/china-s-industrial-profits-surge-at-fastest-pace-in-nine-years",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i0rVggcxRr5U/v0/360x-1.jpg",
-          "width": 360,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-11-27/china-s-industrial-profits-surge-at-fastest-pace-in-nine-years",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-11-27/china-s-industrial-profits-surge-at-fastest-pace-in-nine-years",
-      "publishedDateTime": "2020-11-26T18:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-27-quotation-of-the-day-love-letter-to-detroit-on-vellum-and-chrome.md",
-      "title": "Quotation of the Day: ‘Love Letter to Detroit,’ on Vellum and Chrome",
-      "excerpt": "Quotation of the Day for Friday, November 27, 2020.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/26/todayspaper/quotation-of-the-day-love-letter-to-detroit-on-vellum-and-chrome.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/26/todayspaper/quotation-of-the-day-love-letter-to-detroit-on-vellum-and-chrome.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/26/todayspaper/quotation-of-the-day-love-letter-to-detroit-on-vellum-and-chrome.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/26/todayspaper/quotation-of-the-day-love-letter-to-detroit-on-vellum-and-chrome.amp.html",
-      "publishedDateTime": "2020-11-26T18:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

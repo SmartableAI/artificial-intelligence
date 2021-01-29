@@ -1,34 +1,28 @@
 ---
 category: news
-title: "Baidu gets California nod for testing empty self-driving cars"
-excerpt: "Baidu Inc has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor Vehicles said on Wednesday."
-publishedDateTime: 2021-01-28T02:37:00Z
-originalUrl: "https://www.reuters.com/article/us-baidu-autonomous-idUSKBN29W2OT"
-webUrl: "https://www.reuters.com/article/us-baidu-autonomous-idUSKBN29W2OT"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29W2OT"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29W2OT"
+title: "Baidu Gets California Nod for Testing Empty Self-Driving Cars"
+excerpt: "Baidu Inc has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor Vehicles said on Wednesday. Although self-driving vehicles are designed to eliminate the need for a driver,"
+publishedDateTime: 2021-01-28T09:25:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2021-01-27/baidu-gets-california-nod-for-testing-driverless-vehicles"
+webUrl: "https://www.usnews.com/news/technology/articles/2021-01-27/baidu-gets-california-nod-for-testing-driverless-vehicles"
+ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-01-27/baidu-gets-california-nod-for-testing-driverless-vehicles?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-01-27/baidu-gets-california-nod-for-testing-driverless-vehicles?context=amp"
 type: article
-quality: 89
-heat: 169
-published: true
+quality: 69
+heat: -1
+published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210127&t=2&i=1549286737&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0Q1KU"
-    width: 817
-    height: 545
-    isCached: true
 
 related:
   - title: "Baidu gets California nod for testing driverless vehicles"
@@ -133,21 +127,7 @@ related:
         width: 640
         height: 300
         isCached: true
-  - title: "California-Based FinTech Provider Empaxis Expands, Announces New India Location"
-    excerpt: "Empaxis Data Management, a cloud-based financial technology and middle-and back-office services provider for investment management firms, has announced the opening of a new office in Kolkata (formerly Calcutta),"
-    publishedDateTime: 2021-01-26T15:22:00Z
-    webUrl: "https://www.lelezard.com/en/news-19617447.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 20
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
-secured: "Iq59bdodyiYbKDSYNAW/RgQEAyjHqM40ApFoUlw/Ffk7v/bfmbIpWBktOfOCeEtW4AGlgd5ZWhQJOJNg4DBE4jSO/xualct1oDzrhDqA2agrnKSOCohItxhT0T+TjlKqZtLdHGZFu/0vTJMN5qUY9A3lQCqLvjeWUwwmu2n00wyjMkD89ZR6qDVfnM2yxNhjOl+K3u0+4HRK3DvNLAg3zDiGEkNky0lr9xRBjSU5NF6b/o8ZN3/EkNGKlMg5+vSU7aJHnsnDYSP0S9+dM8dteoaPCbmHGOCMcxFDmsRyiaSJgCG0zMOdq82V/6K+MbquiWNLLG0dd1A5gI+qDgs4/yCtqS4UWlu86DUYIrTbGO/XFKLy11tAVnJArp0rJ1M540U64HPkonAFsFsMCFtCaPA2dZDmRoWeFt1n6mZpvknGigQHa/baV3Q4PocI2MflhL8dO7InNH0vpRl0rsh5d0elrEwy8fPiio05d2oxTiI4ml+qgaAWXOD3JFXyPJFbTsyR4pHBA9+UAc2Qoymqmw==;aZg2TFhRxCHCW3JbyLaBhA=="
+secured: "Wffo02iMFQlGqvteNsJ3VkChxoUUf583UnEaEnR3NXjVt1MoyEcH4O4tXY4GTaV2K7CQVw7vsbTteiWioGdS67P/l/lceCgZTmjthLWmzqgNPwpoo3x2cH8Rf8amEJj2dui/dG4KJf8FvRGfWbbLmkzbcKFQSIU1k5sHOi5IKd6D4GcD+qm/vSYv7XCCZMrMAepm1rEZAky14VhmILRBZjkrlagF1XeHdRteutSpdKy2C3MGyoJneE/Ua4uMv9SGWhDynPyCnrkLOuwuOQ9b9/UD8BrDqQHFQCkV8AfN4CeAApjc3wI22c+MVNDQPfcExhEGLemMx2lbO/YcvEJQig4c0NoL77hEF4oxjqvkXG2JuvYRAud8xZUp8jrXWf4OYbxwmdbDR8iithI/V2qkEblLd8KZINjsbgeFPTxe1OsC+NEFepmOA8AMZlo7IpL9+lbKf2ByAP6M4oVTxIlTnA32SCUYm1wFi2Zt+PK7afuWCDZGCf4qxDGtZ9NJjsZGIzN/JKsuYwlZlkpV33o0UQ==;gztX5GXwRIplGFeGDjIBlA=="
 ---
 

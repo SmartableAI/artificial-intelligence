@@ -2,6 +2,60 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-01-how-artificial-intelligence-will-be-used-in-2021.md",
+      "title": "How artificial intelligence will be used in 2021",
+      "excerpt": "Scale AI CEO Alexandr Wang doesn’t need a crystal ball to see where artificial intelligence will be used in the future. He just looks at his customer list. The four-year-old startup, which recently hit a valuation of more than $3.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/12/31/how-artificial-intelligence-will-be-used-in-2021/",
+      "originalUrl": "https://techcrunch.com/2020/12/31/how-artificial-intelligence-will-be-used-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1160440766.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/12/31/how-artificial-intelligence-will-be-used-in-2021/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/31/how-artificial-intelligence-will-be-used-in-2021/amp/",
+      "publishedDateTime": "2020-12-31T08:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-12-31-how-israel-brings-together-robots-and-ai-into-a-lethal-combo.md",
       "title": "How Israel Brings Together Robots and AI Into a Lethal Combo",
       "excerpt": "On the back porch of a rundown building near the sea in central Israel a plank leads to an unlikely machine. A robot dog is surveying the area, preparing for a mission. Alongside it, like a sidekick,",
@@ -1352,49 +1406,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-artificial-intelligence-ai-robots-market-research-2019-2026-in-depth-assessment-of-the-growth-and-other-aspects.md",
-      "title": "Artificial Intelligence (AI) Robots Market Research (2019-2026): In-Depth Assessment Of The Growth And Other Aspects",
-      "excerpt": "Artificial Intelligence (AI) Robots Market Report coverage: Key Growth Factors & Challenges, Segmentation & Regional Outlook, Top Industry Trends & Opportunities, Competition Analysis, COVID-19 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2211587/artificial-intelligence-ai-robots-market-research",
-      "originalUrl": "https://www.openpr.com/news/2211587/artificial-intelligence-ai-robots-market-research",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/c/Tc16563063_g.jpg",
-          "width": 600,
-          "height": 314,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2211587/artificial-intelligence-ai-robots-market-research",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2211587/artificial-intelligence-ai-robots-market-research",
-      "publishedDateTime": "2020-12-16T11:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

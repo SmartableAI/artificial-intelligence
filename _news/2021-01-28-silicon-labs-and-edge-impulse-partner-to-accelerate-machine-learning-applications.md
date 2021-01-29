@@ -39,6 +39,20 @@ related:
         width: 400
         height: 209
         isCached: true
+  - title: "Silicon Labs and Edge Impulse Partner to Accelerate Machine Learning Applications"
+    excerpt: "\"Silicon Labs believes the infusion of machine learning into the edge devices we help create will make the IoT smarter,\" said Matt Saunders, vice president of IoT at Silicon Labs. \"The secure ..."
+    publishedDateTime: 2021-01-29T01:58:00Z
+    webUrl: "https://tylerpaper.com/news/texas/silicon-labs-and-edge-impulse-partner-to-accelerate-machine-learning-applications/article_e2082ad9-8f12-513c-a510-99f2ecc7602b.html"
+    type: article
+    provider:
+      name: Tyler Morning Telegraph
+      domain: tylerpaper.com
+    quality: 34
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/tylerpaper.com/content/tncms/assets/v3/editorial/b/02/b02b1a0e-4c4a-5e09-bb6e-ae53fabd2d74/6011b86cf225c.image.jpg?resize=400%2C209"
+        width: 400
+        height: 209
+        isCached: true
 
 secured: "JLJN/diLv+wcBFkzYc48sxTJyX7YGSXzQK1XVUub/oRDBEOpn8aKMtc5VF9ldQ9+gBOaEjEbGsfvhRYhEnPKYYVGDu65Eien8aWQD24tKmymP8Ms603d64UZ8DCD5kI5kaxLAWsgz1zJIY1YlX3+3ieP4boEo+IlI2yuxvF5krNQSoGCKRfk6ElJcspcE5YXhDqvTg4cPoLMJnOsrzVrQxx+lSToKR7udJNa7aqmGWz7LYCP6b9U2GlFxbOX47QLt73KyzJlCx8+McsH76jXoC6OiglnHZWti8yqWv4ubdIlo8KkIvpmpAukkejwC6+BYGmMnnkdGpxXCncSWyfjon5AcGOD5V2RR0iiE312ZEhGRATAkz7fqbLSRzq8dS4p7lCl6JSo5eOQsL3ZkI4CF2Dh+DOZiBFN51wJ/y4LgJ608HhHWaChCQAY5aub5uS3Jxm4AjHvf7pzf1nINSdi3BJ47giuJ2jUINrQkOsqIXBmZHzUOgzAW8iooHcphwow92jtpiuu7fJ5P/NO/YEg6Q==;KxJWFm2uPf7poGWHvm64TQ=="
 ---

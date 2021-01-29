@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-28-finesse-raises-45m-to-predict-fashion-trends-with-ai.md",
+      "title": "Finesse raises $4.5M to predict fashion trends with AI",
+      "excerpt": "Finesse, a startup promising to take the guesswork and waste out of fashion, is announcing that it has raised $4.5 million in seed and pre-seed funding. Founder and CEO Ramin Ahmari said the tremendous waste in the fashion industry has become a badly kept secret,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/01/27/finesse-launch-seed-funding/",
+      "originalUrl": "https://techcrunch.com/2021/01/27/finesse-launch-seed-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/01/ECOMM_RETOUCHED_CC_2U6A9550-1.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/01/27/finesse-launch-seed-funding/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/27/finesse-launch-seed-funding/amp/",
+      "publishedDateTime": "2021-01-27T15:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-28-senate-introduces-bill-to-ban-firearms-at-public-demonstrations-washington-state-capitol.md",
       "title": "Senate introduces bill to ban firearms at public demonstrations, Washington state Capitol",
       "excerpt": "Senate Bill 5038 would make it a gross misdemeanor to open ... and sometimes with deadly consequences.” According to Washington State Patrol spokesperson Chris Loftis, there have been 149 unpermitted demonstrations or events at the Capitol since COVID ...",
@@ -133,6 +184,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-28-baidu-gets-california-nod-for-testing-driverless-vehicles.md",
+      "title": "Baidu gets California nod for testing driverless vehicles",
+      "excerpt": "Baidu Inc has received a permit from the state of California to test driverless vehicles without a backup driver in the front seat, the state’s Department of Motor Vehicles said on Wednesday. (Reporting by Munsif Vengattil in Bengaluru;",
+      "sourceUrl": null,
+      "webUrl": "https://www.metro.us/baidu-gets-california-nod/",
+      "originalUrl": "https://www.metro.us/baidu-gets-california-nod/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXMPEH0Q1KU-BASEIMAGE.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.metro.us/baidu-gets-california-nod/amp/",
+      "cdnAmpWebUrl": "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/baidu-gets-california-nod/amp/",
+      "publishedDateTime": "2021-01-27T12:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro US",
+        "domain": "metro.us",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -844,7 +938,7 @@
       "originalUrl": "https://thenextweb.com/neural/2021/01/27/amnesty-international-calls-for-ban-on-facial-recognition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 380,
+      "heat": 390,
       "tags": null,
       "images": [
         {
@@ -1144,102 +1238,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-state-of-the-art-applied-artificial-intelligence-defined.md",
-      "title": "State-Of-The-Art Applied Artificial Intelligence Defined",
-      "excerpt": "If the AI industry wants to shake off buyers’ perception of being sold snake oil, it should stop selling it. For users, it’s important to be aware of what makes a solution truly state-of-the-art, and which are just sprinkling AI on as an afterthought.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/27/state-of-the-art-applied-artificial-intelligence-defined/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/27/state-of-the-art-applied-artificial-intelligence-defined/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60104fb1a4f5ba2187cb3cf4%2F0x0.jpg",
-          "width": 1200,
-          "height": 795,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/27/state-of-the-art-applied-artificial-intelligence-defined/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/27/state-of-the-art-applied-artificial-intelligence-defined/amp/",
-      "publishedDateTime": "2021-01-27T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-gms-next-gen-vehicles-will-become-smarter-with-qualcomms-cockpit-chips.md",
-      "title": "GM’s Next-Gen Vehicles Will Become Smarter With Qualcomm’s Cockpit Chips",
-      "excerpt": "General Motors and Qualcomm, one of the leading suppliers of chips for the smartphone world, have expanded their partnership. The San Diego company will become the automaker’s supplier of ‘cockpit’ chips,",
-      "sourceUrl": null,
-      "webUrl": "https://www.carscoops.com/2021/01/gms-next-gen-vehicles-will-become-smarter-with-qualcomms-cockpit-chips/",
-      "originalUrl": "https://www.carscoops.com/2021/01/gms-next-gen-vehicles-will-become-smarter-with-qualcomms-cockpit-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.carscoops.com/wp-content/uploads/2021/01/GM-3-1024x554.jpg",
-          "width": 1024,
-          "height": 554,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.carscoops.com/2021/01/gms-next-gen-vehicles-will-become-smarter-with-qualcomms-cockpit-chips/amp/",
-      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/01/gms-next-gen-vehicles-will-become-smarter-with-qualcomms-cockpit-chips/amp/",
-      "publishedDateTime": "2021-01-27T04:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Carscoops",
-        "domain": "carscoops.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

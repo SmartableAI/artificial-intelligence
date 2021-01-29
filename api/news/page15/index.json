@@ -2,6 +2,102 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-01-16-artificial-intelligence-beats-us-in-chess-but-not-in-memory.md",
+      "title": "Artificial intelligence beats us in chess, but not in memory",
+      "excerpt": "In the last decades, artificial intelligence has shown to be very good at achieving exceptional goals in several fields. Chess is one of them: in 1996, for the first time, the computer Deep Blue beat a human player,",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-01-artificial-intelligence-chess-memory.html",
+      "originalUrl": "https://phys.org/news/2021-01-artificial-intelligence-chess-memory.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/5-artificialin.jpg",
+          "width": 985,
+          "height": 704,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-01-artificial-intelligence-chess-memory.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-01-artificial-intelligence-chess-memory.amp",
+      "publishedDateTime": "2021-01-15T08:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-16-blockchain-beyond-bitcoin-transforming-fintech-healthcare-and-more.md",
+      "title": "Blockchain Beyond Bitcoin: Transforming FinTech, Healthcare, And More",
+      "excerpt": "The origin of blockchain dates back to 1991, when researchers Stuart Haber and W. Scott Stornetta outlined a system to document timestamps that could not be altered. However, it is most widely known as the underpinning of Bitcoin,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2021/01/15/blockchain-beyond-bitcoin-transforming-fintech-healthcare-and-more/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2021/01/15/blockchain-beyond-bitcoin-transforming-fintech-healthcare-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6001bffef1677f1270da7683%2F0x0.jpg",
+          "width": 1200,
+          "height": 593,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2021/01/15/blockchain-beyond-bitcoin-transforming-fintech-healthcare-and-more/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/01/15/blockchain-beyond-bitcoin-transforming-fintech-healthcare-and-more/amp/",
+      "publishedDateTime": "2021-01-15T08:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-01-15-i-am-not-a-soldier-but-i-have-been-trained-to-kill.md",
       "title": "I Am Not a Soldier, but I Have Been Trained to Kill",
       "excerpt": "A sprawling tactical industry is teaching American civilians how to fight like Special Ops forces. By preparing for violence at home, are they calling it into being?",
@@ -725,6 +821,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-15-claude-shannons-information-theory-and-language-models.md",
+      "title": "Claude Shannon's information theory and Language Models",
+      "excerpt": "If you work in machine learning, you would have to be living under a rock if you are not aware of the big revolution that language models have brought to the area of Natural Language Processing. Language models make the assumption that natural language can be regarded as a stochastic process,",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/claude-shannons-information-theory-language-models-luis-lastras/?trackingId=0t%2B6t8TMR%2BWP4%2B1p%2F%2FmaeA%3D%3D",
+      "originalUrl": "https://www.linkedin.com/pulse/claude-shannons-information-theory-language-models-luis-lastras/?trackingId=0t%2B6t8TMR%2BWP4%2B1p%2F%2FmaeA%3D%3D",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png",
+          "width": 1400,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-14T18:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-15-smart-collar-translates-dog-barks-into-emotions-startup-company-says.md",
       "title": "Smart collar translates dog barks into emotions, startup company says",
       "excerpt": "Now you can find out what your dog is saying when it barks -- or at least, you’ll know how it’s feeling. South Korean startup Petpuls has created a smart collar that can identify five emotions in dogs using AI-enabled voice recognition technology.",
@@ -1040,153 +1188,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-can-an-ai-predict-the-language-of-viral-mutation.md",
-      "title": "Can an AI Predict the Language of Viral Mutation?",
-      "excerpt": "Computational biologists used an algorithm meant to model human language to instead predict how viruses could evolve to evade the immune system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/can-an-ai-predict-the-language-of-viral-mutation/",
-      "originalUrl": "https://www.wired.com/story/can-an-ai-predict-the-language-of-viral-mutation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5fffaf0723cb3490933581e8/master/pass/virus-mutation.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/can-an-ai-predict-the-language-of-viral-mutation/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/can-an-ai-predict-the-language-of-viral-mutation/amp",
-      "publishedDateTime": "2021-01-14T11:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-full-autonomous-self-driving-teslas-in-vegas-boring-tunnels-by-the-end-of-2021.md",
-      "title": "Full Autonomous Self Driving Teslas in Vegas Boring Tunnels by the End of 2021",
-      "excerpt": "The LVCVA board approved $6.25 million to Boring to operate the mile-long convention center system from Feb. 1 through June 30, 2022. At no cost, authorized access to Boring to dig tunnels connecting",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextbigfuture.com/2021/01/full-autonomous-self-driving-teslas-in-vegas-boring-tunnels-by-the-end-of-2021.html",
-      "originalUrl": "https://www.nextbigfuture.com/2021/01/full-autonomous-self-driving-teslas-in-vegas-boring-tunnels-by-the-end-of-2021.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nextbigfuture.com/wp-content/uploads/2019/12/fsdchip-1024x512.jpeg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextbigfuture.com/2021/01/full-autonomous-self-driving-teslas-in-vegas-boring-tunnels-by-the-end-of-2021.html?amp",
-      "cdnAmpWebUrl": "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/01/full-autonomous-self-driving-teslas-in-vegas-boring-tunnels-by-the-end-of-2021.html?amp",
-      "publishedDateTime": "2021-01-14T11:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NextBigFuture",
-        "domain": "nextbigfuture.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-ai-and-big-data-analytics-in-telecom-market-size-status-and-global-outlook-2021.md",
-      "title": "AI and Big Data Analytics in Telecom Market Size, Status and Global Outlook 2021",
-      "excerpt": "Global AI and Big Data Analytics in Telecom Market research report published by market insight reports explores",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-and-big-data-analytics-in-telecom-market-size-status-and-global-outlook-2021-2021-01-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-and-big-data-analytics-in-telecom-market-size-status-and-global-outlook-2021-2021-01-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-14T10:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

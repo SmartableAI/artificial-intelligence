@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu gets California nod for testing empty self-driving cars"
-    excerpt: "Baidu Inc has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor Vehicles said on Wednesday."
-    publishedDateTime: 2021-01-28T02:37:00Z
-    webUrl: "https://www.reuters.com/article/us-baidu-autonomous-idUSKBN29W2OT"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29W2OT"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29W2OT"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210127&t=2&i=1549286737&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0Q1KU"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Baidu gets California nod for testing driverless vehicles"
     excerpt: "Baidu Inc has received a permit from the state of California to test driverless vehicles without a backup driver in the front seat, the state’s Department of Motor Vehicles said on Wednesday. (Reporting by Munsif Vengattil in Bengaluru;"
     publishedDateTime: 2021-01-27T20:23:00Z
@@ -73,6 +57,17 @@ related:
         width: 1024
         height: 640
         isCached: true
+  - title: "Baidu Gets California Nod for Testing Empty Self-Driving Cars"
+    excerpt: "Baidu Inc has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor Vehicles said on Wednesday. Although self-driving vehicles are designed to eliminate the need for a driver,"
+    publishedDateTime: 2021-01-28T09:25:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-01-27/baidu-gets-california-nod-for-testing-driverless-vehicles"
+    ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-01-27/baidu-gets-california-nod-for-testing-driverless-vehicles?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-01-27/baidu-gets-california-nod-for-testing-driverless-vehicles?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 69
   - title: "Baidu Apollo receives driverless vehicle test permit in California"
     excerpt: "Baidu Apollo has now been approved by the California Department of Motor Vehicles (DMV) to test driverless vehicles without a safety driver behind the wheel on public streets. This makes Baidu the"
     publishedDateTime: 2021-01-28T13:25:00Z
@@ -128,20 +123,6 @@ related:
       - url: "https://www.claimsjournal.com/img/claims-journal-logo-640.png"
         width: 640
         height: 300
-        isCached: true
-  - title: "California-Based FinTech Provider Empaxis Expands, Announces New India Location"
-    excerpt: "Empaxis Data Management, a cloud-based financial technology and middle-and back-office services provider for investment management firms, has announced the opening of a new office in Kolkata (formerly Calcutta),"
-    publishedDateTime: 2021-01-26T15:22:00Z
-    webUrl: "https://www.lelezard.com/en/news-19617447.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 20
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
         isCached: true
 
 secured: "2ir8/bdLXccQnVG4GdG7n4O9Ytc3wxQXx8iMBVPhKM/Q60bFXaWK5U2iEPFjUrkeve2D6H7VConGF5+IpFQcVJDwbIoWsR76vMiqvSh5BlvRxepesD839k1W+wvVBzA15HjunlOKL6W9eDxRRUvDppGSH07nMTQ9ibmZRZNGd9wGsLF6QibbYdTQCoza/jOb0w4IyWQ0pbtWwpxe/ApsMWnDVA39wgZzOlsFb4hmSDhQoROOsAdipQx4ckmUz2KInHgzl+jr7smC7E9rtt23QPdQa02/McD6OraVXDyR+YcG3AR+2ree0M8u9t95fvVFPsnJ+D/m8JJqjrifH5nxc2oVKfa++FHfNhe7xs/uRgmM0MfiMyKKVYPibkA4pB+ilIUWoYUUVEpISXIgURdkI5TFMH3fuus+OWlhErGw5/H+VTZeX9PEWAlmLfY5gQjJVOVGQVC/qWDdCSa52aVFBpkzrxGWHHT4N2+ScHm3T3Kpb+KYTWzIKQ9d9sXg2SstkV7/VFThJRGj7knO2n4NdA==;6Ni+EH3Xcpur4187CSpz6A=="

@@ -79,6 +79,22 @@ related:
         width: 620
         height: 411
         isCached: true
+  - title: "Facial recognition tool used to identify Red Fort raiders"
+    excerpt: "The Delhi Police have so far arrested 19 persons and detained over 200 persons after 33 FIRs were registered under various sections of IPC, Disaster Management Act, Epidemic Disease Act, UAPA and Prevention of Damage to Public Property Act,"
+    publishedDateTime: 2021-01-29T02:51:00Z
+    webUrl: "https://economictimes.indiatimes.com/news/politics-and-nation/facial-recognition-tool-used-to-identify-red-fort-raiders/articleshow/80516165.cms"
+    ampWebUrl: "https://m.economictimes.com/news/politics-and-nation/facial-recognition-tool-used-to-identify-red-fort-raiders/amp_articleshow/80516165.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/politics-and-nation/facial-recognition-tool-used-to-identify-red-fort-raiders/amp_articleshow/80516165.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-449348,msid-80516165/facial-recognition-tool-used-to-identify-red-fort-raiders.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Facial recognition: Don't use it to snoop on how staff are feeling, says watchdog"
     excerpt: "The Council of Europe's new guidelines call for a ban on some applications of facial recognition, and stringent privacy safeguards when the technology is deployed."
     publishedDateTime: 2021-01-28T16:27:00Z
@@ -416,6 +432,6 @@ related:
         height: 450
         isCached: true
 
-secured: "kJBqUtfDeLkc/85YedcL+bLekV50AdkW0wHOS8fgYvXq3aUvYxy9cKGIwGyWuM5vW0m7co3P/pGpyBgNJUMteHQByftS0DqKrAplej7+GFMqI5UDRC5cKl9r/Qeq0tZUpatS5G3YTrEFuFRI2Le2nNT8n6Bqolv0JCkXgt7pShnqzyDW0Bx/yayKrx6HgJCPaNgsIyOkid9jC4DsM+ilw1IJNKJDvqIswFU3n4RflSj6Pzn49YZCwgWlwg1MXCHYJ0Q4bsnuZfVLXTwc8FoLrsKmR29wqOKOk/fnJjpMVmxEJMJXFZwYFHTbLG/rG9YsgGK/cAo3gdYu1oTiWRPEdZZubCXyMqSJ5etiLNxhZVw=;ycS7+22gw1vwDX6Ih6oO+g=="
+secured: "kr41kUUTQygDfRT1/2ZkPASn0b7lqZgsKz9BjU17EinA5ZoomF23Ih6rhRNiXXN+oXcliwlKmKxvzLgQoeNWMPOC7TxY9Rg1YpNNsSOJ9b0oErm9d/belDt15uJcACCmtFxwGraRTBhpYshrIKk/BLljuPKsn5T00VHJ6JexSlloqT/uyLj4UciroPtt4pyn7lhH63rgV1lMNV2bw3rO54nI8DnX/LT1+U5+o4a9ZbcQ5difpp7ISeOQZSLETygPJ8T0RP/ZhSqdZTydaK9xtkdXsHXNev/N9cNb9F5R+9FdfPOXNrOj7G2f4OpDoZec5qhwSklCO2dd1RJ+LZxgQ5oC09kYIDlGQ1abPiHNmBWIcZVBRuAm76wXTeRX6exCHyxivncaSgj4knXC0t8q+ZNOVj75gChTziFNYS6xTi2F2VMj8FK/LDRPqbiQ4as4MMnQ/LR65LsZrwjbAQv02FTnW1vKtqcErsFwzBSI65I3pVhU+jtVOepgqi+68WEEv/XInpt6e2c0lNcOFxBuSg==;8RTX2jHRCVpPjgmAljlNQg=="
 ---
 

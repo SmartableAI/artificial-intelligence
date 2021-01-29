@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-13-google-trained-a-trillion-parameter-ai-language-model.md",
+      "title": "Google trained a trillion-parameter AI language model",
+      "excerpt": "They’re the part of the model that’s learned from historical training data. Generally speaking, in the language domain, the correlation between the number of parameters and sophistication has held up remarkably well.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/12/google-trained-a-trillion-parameter-ai-language-model/",
+      "originalUrl": "https://venturebeat.com/2021/01/12/google-trained-a-trillion-parameter-ai-language-model/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1281329514.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/12/google-trained-a-trillion-parameter-ai-language-model/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/12/google-trained-a-trillion-parameter-ai-language-model/amp/",
+      "publishedDateTime": "2021-01-12T10:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-veritone-and-alteryx-announce-strategic-relationship-to-power-the-alteryx-analytic-process-automation-platform-with-new-advanced-ai-capabilities.md",
       "title": "Veritone and Alteryx Announce Strategic Relationship to Power the Alteryx Analytic Process Automation Platform With New, Advanced AI Capabilities",
       "excerpt": "(Nasdaq: VERI), the creator of the world’s first operating system for artificial intelligence, aiWARE™, today announced a strategic relationship with Alteryx, Inc. (NYSE: AYX), a leader in analytic process automation (APA),",
@@ -1368,49 +1420,6 @@
         "Natural Language Processing",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-30-contributor-3-ways-health-plans-can-leverage-natural-language-processing-technology.md",
-      "title": "Contributor: 3 Ways Health Plans Can Leverage Natural Language Processing Technology",
-      "excerpt": "Below are 3 common initiatives that health plans can apply natural language processing (NLP) technology to for increased efficiency and improved outcomes. 1. Deriving high-value insights across ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ajmc.com/view/contributor-3-ways-health-plans-can-leverage-natural-language-processing-technology",
-      "originalUrl": "https://www.ajmc.com/view/contributor-3-ways-health-plans-can-leverage-natural-language-processing-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.sanity.io/images/0vv8moc6/ajmc/b9c38d816f8507a8419a8665e6603f0e1f276a32-800x415.jpg?auto=format",
-          "width": 800,
-          "height": 415,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-30T05:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The American Journal of Managed Care",
-        "domain": "ajmc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

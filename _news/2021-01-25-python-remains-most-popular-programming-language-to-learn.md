@@ -8,8 +8,8 @@ webUrl: "https://www.techrepublic.com/article/python-remains-most-popular-progra
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/python-remains-most-popular-programming-language-to-learn/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/python-remains-most-popular-programming-language-to-learn/"
 type: article
-quality: 89
-heat: 99
+quality: 91
+heat: 101
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Google AI
 
 images:
   - url: "https://tr2.cbsistatic.com/hub/i/r/2020/04/30/85083d05-b7b7-4832-a3b1-f1532b6d905e/resize/1200x/f816050b9bf16dda28145dfd5dcf70cd/fullstackdeveloperimage.jpg"

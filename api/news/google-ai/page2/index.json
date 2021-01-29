@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-30-20-things-that-made-the-world-a-better-place-in-2020.md",
+      "title": "20 Things That Made the World a Better Place in 2020",
+      "excerpt": "Read more at The Guardian. DeepMind Solves 50-Year-Old Protein-Folding Problem DeepMind's AI has accurately predicted protein shapes from their sequences alone, a tough task that normally requires lengthy, expensive lab experiments. While the AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/20-things-world-better-place-2020/?X0y&X0y&X0y",
+      "originalUrl": "https://www.wired.com/story/20-things-world-better-place-2020/?X0y&X0y&X0y",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5fe429ef6a4c22d9a3277a00/191:100/w_1280,c_limit/Science_2021_1230196314.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-30T06:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-30-highlights-from-the-year-in-science-2020.md",
       "title": "Highlights from the year in science 2020",
       "excerpt": "One of the biggest scientific breakthroughs of the year came just last month, with news that Alphabet's DeepMind AI has made huge strides in being able to accurately predict the 3D structures of ...",
@@ -1383,58 +1435,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-06-alphabets-deepmind-ai-has-solved-the-protein-folding-problem-that-could-aid-medicine-research.md",
-      "title": "Alphabet's DeepMind AI has solved \"the protein folding problem\" that could aid medicine research",
-      "excerpt": "TL;DR: DeepMind Technologies, a research lab in the UK owned by Alphabet, has developed an AI that can determine the folded shape of a protein in a matter of hours, which would typically require ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/87793-alphabet-deepmind-ai-has-solved-protein-folding-problem.html",
-      "originalUrl": "https://www.techspot.com/news/87793-alphabet-deepmind-ai-has-solved-protein-folding-problem.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/12/2020-12-01-image.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/87793-alphabet-deepmind-ai-has-solved-protein-folding-problem.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87793-alphabet-deepmind-ai-has-solved-protein-folding-problem.html",
-      "publishedDateTime": "2020-12-06T03:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
