@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning tool predicts respiratory failure in COVID-19 patients"
-    excerpt: "In an effort to expedite care for coronavirus disease 2019 (COVID-19) patients upon hospital admission, a team at The Feinstein Institutes for Medical Research has developed a machine learning (ML) artificial intelligence (AI) powered clinical predictive tool that can accurately assess patients for the risk of respiratory failure within 48 hours."
-    publishedDateTime: 2021-01-28T18:40:00Z
-    webUrl: "https://www.oaoa.com/news/business/machine-learning-tool-predicts-respiratory-failure-in-covid-19-patients/article_803b0d80-3f15-5404-9b21-98d38e236cf3.html"
+  - title: "New machine learning model predicts COVID-19 severity"
+    excerpt: "COVID-19 vaccine distribution has begun across the globe, while many countries are still struggling with the rampant rise of infections."
+    publishedDateTime: 2021-01-29T04:06:00Z
+    webUrl: "https://www.news-medical.net/news/20210128/New-machine-learning-model-predicts-COVID-19-severity.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210128/New-machine-learning-model-predicts-COVID-19-severity.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210128/New-machine-learning-model-predicts-COVID-19-severity.aspx"
     type: article
     provider:
-      name: Odessa American
-      domain: oaoa.com
-    quality: 54
+      name: News Medical
+      domain: news-medical.net
+    quality: 59
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/oaoa.com/content/tncms/assets/v3/editorial/e/1a/e1a3aa38-eed5-5563-be66-2f50ab7416a4/601307110ac21.image.jpg?resize=922%2C630"
-        width: 922
-        height: 630
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/1/CT_machine_is_prepared_for_the_patient_shooting-sfam_photo_698c003ae3d54b69bf4c077708d403e4-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
   - title: "Machine Learning, Real-Time Data App Rates COVID-19 Exposure Risk"
     excerpt: "A new app leverages machine learning and real-time data to provide location-based risk assessments of COVID-19 exposure."
@@ -55,6 +57,15 @@ related:
         width: 690
         height: 400
         isCached: true
+  - title: "Machine learning tool predicts respiratory failure in COVID-19 patients"
+    excerpt: "In an effort to expedite care for coronavirus disease 2019 (COVID-19) patients upon hospital admission, a team at The Feinstein Institutes for Medical Research has developed a machine learning (ML) artificial intelligence (AI) powered clinical predictive tool that can accurately assess patients for the risk of respiratory failure within 48 hours."
+    publishedDateTime: 2021-01-28T18:48:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210128005971/machine-learning-tool-predicts-respiratory-failure-in-covid-19-patients"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 34
 
 secured: "XwQFq35VBC8VenCM0UsmcPVZshTvyte84qWsRNzUmgyFXLHdeElltRwKBGax+OFqP6j6LMUQGCif1WcViWfaLL2bvKv7OVIjrNsIjju0sSGwjp7GEF4rU6I8JbSr3oALYKXx20sTcXWQzyQ0pBzMqux8uODBK+w4cYuP3ZYxERtw+hom+0GKYduM7hnUDemezMELk+6ODWz4b87WBE7OnbRLnKIi5H9NcxI4U0J9UV7UMYnThgKtnkXaoz+a4mOgtGLjWH9gu1O5GZUc4LmD68klmY5f2Hd6aMPCE+BSdzUrzxk7rLo5XAZOB/Sdzcz1HkhcgpiwfpUXvZUVwDrH9/eqBw/oriCpFbbULQkORd4=;kMbx1jNcUhA3cNVm3Wv8VA=="
 ---

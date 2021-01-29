@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Pinecone leaves stealth with $10M, launches first serverless vector database for machine learning"
-excerpt: "Built by the team behind Amazon SageMaker and founded by scientist and former AWS Director Edo Liberty, Pinecone makes large-scale real-time inference as simple as querying a database. It is ..."
-publishedDateTime: 2021-01-27T15:02:00Z
+excerpt: "PineconeSystems Inc., a machine learning (ML) cloud infrastructure company, left stealth today with $10m in seed funding. The investment"
+publishedDateTime: 2021-01-27T15:00:00Z
 originalUrl: "https://www.prnewswire.com/news-releases/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-301216240.html"
 webUrl: "https://www.prnewswire.com/news-releases/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-301216240.html"
 type: article
-quality: 28
+quality: 26
 heat: -1
 published: false
 
@@ -15,9 +15,8 @@ provider:
   domain: prnewswire.com
 
 topics:
-  - AWS AI
-  - AI
   - Machine Learning
+  - AI
 
 images:
   - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
@@ -41,6 +40,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2021/01/IMG_8828-1.jpg?w=1024"
         width: 1024
         height: 684
+        isCached: true
+  - title: "Pinecone emerges from stealth with $10 million to accelerate AI workloads"
+    excerpt: "Pinecone, a startup developing database technology to support AI workloads, emerged from stealth with $10 million in funding."
+    publishedDateTime: 2021-01-29T03:15:00Z
+    webUrl: "https://venturebeat.com/2021/01/28/pinecone-emerges-from-stealth-with-10-million-to-accelerate-ai-workloads/"
+    ampWebUrl: "https://venturebeat.com/2021/01/28/pinecone-emerges-from-stealth-with-10-million-to-accelerate-ai-workloads/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/28/pinecone-emerges-from-stealth-with-10-million-to-accelerate-ai-workloads/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 86
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Pinecone, a serverless vector database for machine learning, leaves stealth with $10M funding"
     excerpt: "Built by the team behind Amazon SageMaker. Having attracted investment by Wing Venture Capital, with Wing's Founding Partner and early Snowflake investor, Peter Wagner, joining startup Pinecone's ..."
@@ -101,6 +116,6 @@ related:
         height: 315
         isCached: true
 
-secured: "ObaNg9ruP8oPu0+p2YB+qL73NODXsP8Q1zWujkk47SbbvUahHF4lxaDclMdET0FeaM2Zclp3Jn0Vp6ksWTeTYPZy3t202PNUuvfr/7izv8E1kSjC5Ytgwo650yjTqZ5mwkgixhiCtakuxBQdq+bdyKn1ljEmnhUQcvASEjBLxHyeTNl3ndK05kCLrPdEs7fcIwrb1rlbHDTSZHSD+Xs5VSx+9nK40VUN7m8wlbLVV+GCohQQjBVzIzAaeJfw7xvTr3FJDqZxP6jW4QABMuB8UNn8Q/X1FRCbEOPtssIAaKdmJ1Qr0qP/NWEYTNwWsdIXInuaDVRS0FZirSgHgch8MmqHn3q9GSJRLMf7IMMFcSM=;XUi/CBPinrfBmplBwFpTAA=="
+secured: "4zFhipo0zj8TXQ3xtIpwDHKqursAtObvqXH+AGlUSEDnk0MrcJ8geCmdE3Pc2OsNZddVFPu1y2ls0brglYG4NPRQZHnjntQMqOMspcFA1NRo1eV8G8E8OtYmK2SdtP72P6iaWr53P+6YeIP7YDcSi5t+A2MjMad+DS9t7FZJ78jFK+HlwZLOz1YyP+yaQVNoS9+gvQaz7Jl1lVi0gfl/nR+cu8Js2pfSREfzHm0odcKyVHrma1Pj/TlkdnKxR6oUey4RY+rDqILp/BsFa7B6i8uL0dOHHIJhVf7gWwh/Yo2y21BRvETAARxZUZbr7jWux7MFoX6U/NclRnt4GnYkK3JwBcF2jPlZ6hNt1Vd74xc=;b526oCHbNC/+BzUc4L9NMQ=="
 ---
 

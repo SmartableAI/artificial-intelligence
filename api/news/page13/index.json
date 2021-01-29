@@ -2,6 +2,94 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-01-19-delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official.md",
+      "title": "Delhi airport evaluating 'computer vision' tech to track flyers, ensure social distancing: Official",
+      "excerpt": "Delhi airport, which is also led by a GMR group-headed consortium, installed the 'Xovis' passenger tracking system at Terminal 3 last month",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/companies/news/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official-11611054333198.html",
+      "originalUrl": "https://www.livemint.com/companies/news/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official-11611054333198.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2021/01/19/600x338/PTI23-12-2020_000268B_1611054870782_1611054896014.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/companies/news/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official/amp-11611054333198.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official/amp-11611054333198.html",
+      "publishedDateTime": "2021-01-19T03:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-how-to-manage-your-power-bill-while-adopting-ai.md",
+      "title": "How to manage your power bill while adopting AI",
+      "excerpt": "Because AI and ML tend to run intense calculations at very high utilization rates, power and cooling costs can consume a higher proportion of the budget than an IT group might expect. It's not a new problem,",
+      "sourceUrl": null,
+      "webUrl": "https://www.networkworld.com/article/3603392/how-to-manage-your-power-bill-while-adopting-ai.html",
+      "originalUrl": "https://www.networkworld.com/article/3603392/how-to-manage-your-power-bill-while-adopting-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/08/server_virtualization_digital_data_center_cables_by_matejmo_gettyimages-879865932_1200x800-100768150-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.networkworld.com/article/3603392/how-to-manage-your-power-bill-while-adopting-ai.amp.html",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3603392/how-to-manage-your-power-bill-while-adopting-ai.amp.html",
+      "publishedDateTime": "2021-01-19T03:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Facebook AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-01-19-delhi-airport-evaluating-computer-vision-technology-to-track-passengers-ceo.md",
       "title": "Delhi Airport evaluating 'computer vision' technology to track passengers: CEO",
       "excerpt": "Delhi Airport is evaluating computer vision technology to track passengers, reduce waiting time and ensure social distancing at terminals, a top official of the facility's operator informed | NewsByte",
@@ -663,10 +751,10 @@
     {
       "path": "_news/2021-01-18-healthcare-artificial-intelligence-market-2027-market-is-expected-to-grow-at-a-cagr-of-414-researchandmarketscom.md",
       "title": "Healthcare Artificial Intelligence Market, 2027 - Market is Expected to Grow at a CAGR of 41.4% - ResearchAndMarkets.com",
-      "excerpt": "DUBLIN--(BUSINESS WIRE)--The \"Healthcare Artificial Intelligence Market - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The global healthcare artificial intelligence (AI) market is expected to grow at a CAGR of 41.4% ...",
+      "excerpt": "... is mainly attributed to the factors such as rising venture capital investment for artificial intelligence in healthcare sector, growing demand for personalized therapy, positive impact due to COVID-19, rising demand to reduce healthcare costs, and ...",
       "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210118005340/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20210118005340/en/",
+      "webUrl": "https://www.benzinga.com/pressreleases/21/01/b19202252/healthcare-artificial-intelligence-market-2027-market-is-expected-to-grow-at-a-cagr-of-41-4-resear",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/01/b19202252/healthcare-artificial-intelligence-market-2027-market-is-expected-to-grow-at-a-cagr-of-41-4-resear",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -674,13 +762,13 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-18T06:19:00-08:00",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/19202252",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19202252",
+      "publishedDateTime": "2021-01-18T06:46:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1061,111 +1149,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-76-of-enterprises-prioritize-ai-machine-learning-in-2021-it-budgets.md",
-      "title": "76% Of Enterprises Prioritize AI & Machine Learning In 2021 IT Budgets",
-      "excerpt": "The pandemic created a new sense of urgency regarding getting AI and ML projects completed, a key point made by CIOs across the financial services and tech sectors last year during interviews.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2021/01/17/76-of-enterprises-prioritize-ai--machine-learning-in-2021-it-budgets/",
-      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2021/01/17/76-of-enterprises-prioritize-ai--machine-learning-in-2021-it-budgets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f70cdf27a22d0b0bf2220f7%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-17T17:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-your-next-drone-or-action-cam-will-shoot-8k-video-4k-at-240fps-with-ambarellas-new-chip.md",
-      "title": "Your next drone or action cam will shoot 8K video, 4K at 240fps with Ambarella's new chip",
-      "excerpt": "The 5nm CV5 artificial intelligence vision processor can be used for everything from automotive camera systems to security cameras and drones.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/your-next-drone-or-action-cam-will-shoot-8k-video-4k-at-240fps-with-ambarellas-new-chip/",
-      "originalUrl": "https://www.cnet.com/news/your-next-drone-or-action-cam-will-shoot-8k-video-4k-at-240fps-with-ambarellas-new-chip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/XWGkyJIePJvucfYKTzHVczBgI6Q=/1200x630/2021/01/15/9258e185-a943-4ffa-886b-0c8d9d2ea0c4/photo-of-cv5-soc-under-embargo-until-jan-11-2021-at-5-am-eastern.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/your-next-drone-or-action-cam-will-shoot-8k-video-4k-at-240fps-with-ambarellas-new-chip/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/your-next-drone-or-action-cam-will-shoot-8k-video-4k-at-240fps-with-ambarellas-new-chip/",
-      "publishedDateTime": "2021-01-17T16:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

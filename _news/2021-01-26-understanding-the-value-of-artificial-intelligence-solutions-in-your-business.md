@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/01/26/unders
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/01/26/understanding-the-value-of-artificial-intelligence-solutions-in-your-business/amp/"
 type: article
 quality: 84
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -73,20 +73,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "Understanding the reasons behind the Huge Energy And Power Demands of Artificial Intelligence"
-    excerpt: "The high energy consumption of artificial intelligence models, especially in neural network training (e.g. BERT) leads to huge carbon footprint. Spiking Neural network (SNN) has been proposed to start age of Green AI."
-    publishedDateTime: 2021-01-24T11:47:00Z
-    webUrl: "https://www.analyticsinsight.net/why-is-artificial-intelligence-so-energy-hungry/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 28
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/AI-1-scaled.jpg"
-        width: 2560
-        height: 1711
         isCached: true
   - title: "Spraoi’s Machine Learning Solution Deployed for Reliance Standard’s Retirement Services Operations"
     excerpt: "Spraoi announced today that Reliance Standard Life Insurance Company (Reliance Standard) successfully deployed models for the identification of operational inconsistencies (e.g. churning, anomalous activity) across new business and in-force transactions within their block of traditional and indexed annuity business."

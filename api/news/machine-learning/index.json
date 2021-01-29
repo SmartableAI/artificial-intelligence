@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-29-new-machine-learning-model-predicts-covid-19-severity.md",
+      "title": "New machine learning model predicts COVID-19 severity",
+      "excerpt": "COVID-19 vaccine distribution has begun across the globe, while many countries are still struggling with the rampant rise of infections.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20210128/New-machine-learning-model-predicts-COVID-19-severity.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20210128/New-machine-learning-model-predicts-COVID-19-severity.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/1/CT_machine_is_prepared_for_the_patient_shooting-sfam_photo_698c003ae3d54b69bf4c077708d403e4-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20210128/New-machine-learning-model-predicts-COVID-19-severity.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210128/New-machine-learning-model-predicts-COVID-19-severity.aspx",
+      "publishedDateTime": "2021-01-28T20:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-28-managing-your-machine-learning-lifecycle-with-mlflow-and-amazon-sagemaker.md",
       "title": "Managing your machine learning lifecycle with MLflow and Amazon SageMaker",
       "excerpt": "With the rapid adoption of machine learning (ML) and MLOps, enterprises want to increase the velocity of ML projects from experimentation to production. During the initial phase of an ML project, data scientists collaborate and share experiment results in order to find a solution to a business need.",
@@ -52,49 +95,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-machine-learning-tool-predicts-respiratory-failure-in-covid-19-patients.md",
-      "title": "Machine learning tool predicts respiratory failure in COVID-19 patients",
-      "excerpt": "In an effort to expedite care for coronavirus disease 2019 (COVID-19) patients upon hospital admission, a team at The Feinstein Institutes for Medical Research has developed a machine learning (ML) artificial intelligence (AI) powered clinical predictive tool that can accurately assess patients for the risk of respiratory failure within 48 hours.",
-      "sourceUrl": null,
-      "webUrl": "https://www.oaoa.com/news/business/machine-learning-tool-predicts-respiratory-failure-in-covid-19-patients/article_803b0d80-3f15-5404-9b21-98d38e236cf3.html",
-      "originalUrl": "https://www.oaoa.com/news/business/machine-learning-tool-predicts-respiratory-failure-in-covid-19-patients/article_803b0d80-3f15-5404-9b21-98d38e236cf3.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/oaoa.com/content/tncms/assets/v3/editorial/e/1a/e1a3aa38-eed5-5563-be66-2f50ab7416a4/601307110ac21.image.jpg?resize=922%2C630",
-          "width": 922,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-28T10:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Odessa American",
-        "domain": "oaoa.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     },
     {
@@ -308,7 +308,7 @@
       "originalUrl": "https://techcrunch.com/2021/01/27/pinecone-lands-10m-seed-for-purpose-built-machine-learning-database/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -339,6 +339,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-yati-ernie-machine-learning-in-yandex-and-baidu.md",
+      "title": "YATI & ERNIE: Machine Learning in Yandex and Baidu",
+      "excerpt": "Google isn't the only search engine making strides in machine learning. See how Yandex and Baidu have advanced search with YATI and ERNIE, as well.",
+      "sourceUrl": null,
+      "webUrl": "https://www.searchenginejournal.com/yati-ernie-machine-learning-yandex-baidu/392982/",
+      "originalUrl": "https://www.searchenginejournal.com/yati-ernie-machine-learning-yandex-baidu/392982/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.searchenginejournal.com/wp-content/uploads/2021/01/machine-learning-for-yandex-and-baidu-60104ca449da0.png",
+          "width": 1600,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.searchenginejournal.com/yati-ernie-machine-learning-yandex-baidu/392982/amp/",
+      "cdnAmpWebUrl": "https://www-searchenginejournal-com.cdn.ampproject.org/c/s/www.searchenginejournal.com/yati-ernie-machine-learning-yandex-baidu/392982/amp/",
+      "publishedDateTime": "2021-01-27T05:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Search Engine Journal",
+        "domain": "searchenginejournal.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1370,58 +1413,6 @@
         "AI",
         "AI in Marketing",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-machine-learning-finds-more-gravitational-lenses-than-all-astronomers-combined.md",
-      "title": "Machine Learning Finds More Gravitational Lenses Than All Astronomers Combined",
-      "excerpt": "The lensing effect stretches, distorts, and magnifies the background galaxy, as well as creating multiple images of it. One of Einstein’s most revolutionary predictions is that mass bends light. Starlight bent around the eclipsed Sun in 1919 confirmed this.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/startswithabang/2021/01/18/machine-learning-finds-more-gravitational-lenses-than-all-astronomers-combined/",
-      "originalUrl": "https://www.forbes.com/sites/startswithabang/2021/01/18/machine-learning-finds-more-gravitational-lenses-than-all-astronomers-combined/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe8fe3d591966afc92f2ce0%2F0x0.jpg",
-          "width": 1200,
-          "height": 699,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/startswithabang/2021/01/18/machine-learning-finds-more-gravitational-lenses-than-all-astronomers-combined/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/startswithabang/2021/01/18/machine-learning-finds-more-gravitational-lenses-than-all-astronomers-combined/amp/",
-      "publishedDateTime": "2021-01-17T23:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

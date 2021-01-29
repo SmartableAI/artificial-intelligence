@@ -2,6 +2,111 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-01-18-76-of-enterprises-prioritize-ai-machine-learning-in-2021-it-budgets.md",
+      "title": "76% Of Enterprises Prioritize AI & Machine Learning In 2021 IT Budgets",
+      "excerpt": "The pandemic created a new sense of urgency regarding getting AI and ML projects completed, a key point made by CIOs across the financial services and tech sectors last year during interviews.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2021/01/17/76-of-enterprises-prioritize-ai--machine-learning-in-2021-it-budgets/",
+      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2021/01/17/76-of-enterprises-prioritize-ai--machine-learning-in-2021-it-budgets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f70cdf27a22d0b0bf2220f7%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-17T17:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-01-18-your-next-drone-or-action-cam-will-shoot-8k-video-4k-at-240fps-with-ambarellas-new-chip.md",
+      "title": "Your next drone or action cam will shoot 8K video, 4K at 240fps with Ambarella's new chip",
+      "excerpt": "The 5nm CV5 artificial intelligence vision processor can be used for everything from automotive camera systems to security cameras and drones.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/your-next-drone-or-action-cam-will-shoot-8k-video-4k-at-240fps-with-ambarellas-new-chip/",
+      "originalUrl": "https://www.cnet.com/news/your-next-drone-or-action-cam-will-shoot-8k-video-4k-at-240fps-with-ambarellas-new-chip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/XWGkyJIePJvucfYKTzHVczBgI6Q=/1200x630/2021/01/15/9258e185-a943-4ffa-886b-0c8d9d2ea0c4/photo-of-cv5-soc-under-embargo-until-jan-11-2021-at-5-am-eastern.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/your-next-drone-or-action-cam-will-shoot-8k-video-4k-at-240fps-with-ambarellas-new-chip/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/your-next-drone-or-action-cam-will-shoot-8k-video-4k-at-240fps-with-ambarellas-new-chip/",
+      "publishedDateTime": "2021-01-17T16:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-18-master-machine-and-human-learning-to-win-the-digital-transformation-wars.md",
       "title": "Master Machine and Human Learning to Win the Digital Transformation Wars",
       "excerpt": "The “Economies of Learning” are more powerful than the “Economies of Scale” This may be my most powerful concept (outside of the Schmarzo Economic Digital Asset Valuation Theorem and the Big Data Busi",
@@ -1103,101 +1208,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-facebook-uses-ai-to-predict-if-covid-19-patients-will-need-more-care.md",
-      "title": "Facebook uses AI to predict if COVID-19 patients will need more care",
-      "excerpt": "Using X-ray images, the three AI models Facebook developed could help hospitals decide how to allot its resources as COVID-19 cases rise.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/health/facebook-uses-ai-to-predict-if-covid-19-patients-will-need-more-care/",
-      "originalUrl": "https://www.cnet.com/health/facebook-uses-ai-to-predict-if-covid-19-patients-will-need-more-care/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/5NLpgUSxfolUyoYn6sbBB6Wj6NE=/1200x630/2020/03/26/0b95f2b8-2fd9-489e-ad69-8f949cbea4f0/coronavirus-facebook-9706.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/facebook-uses-ai-to-predict-if-covid-19-patients-will-need-more-care/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-uses-ai-to-predict-if-covid-19-patients-will-need-more-care/",
-      "publishedDateTime": "2021-01-15T09:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-global-x-robotics-artificial-intelligence-etf-nasdaqbotz-short-interest-down-604-in-december.md",
-      "title": "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Short Interest Down 60.4% in December",
-      "excerpt": "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) saw a significant drop in short interest during the month of December. As of December 31st, there was short interest totalling 197,600 shares,",
-      "sourceUrl": null,
-      "webUrl": "https://theenterpriseleader.com/2021/01/15/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-short-interest-down-60-4-in-december.html",
-      "originalUrl": "https://theenterpriseleader.com/2021/01/15/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-short-interest-down-60-4-in-december.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
-          "width": 450,
-          "height": 323,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theenterpriseleader.com/2021/01/15/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-short-interest-down-60-4-in-december.html/amp",
-      "cdnAmpWebUrl": "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2021/01/15/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-short-interest-down-60-4-in-december.html/amp",
-      "publishedDateTime": "2021-01-15T08:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theenterpriseleader.com",
-        "domain": "theenterpriseleader.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

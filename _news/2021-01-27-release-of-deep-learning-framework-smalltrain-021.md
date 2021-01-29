@@ -6,8 +6,8 @@ publishedDateTime: 2021-01-27T13:38:00Z
 originalUrl: "https://www.prnewswire.com/news-releases/release-of-deep-learning-framework-smalltrain-0-2-1-301216107.html"
 webUrl: "https://www.prnewswire.com/news-releases/release-of-deep-learning-framework-smalltrain-0-2-1-301216107.html"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Google AI
 
 images:
   - url: "https://mma.prnewswire.com/media/1427013/1.jpg?p=facebook"

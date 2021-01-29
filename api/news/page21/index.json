@@ -2,6 +2,220 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-01-12-compeer-financial-delivers-superior-user-experience-with-citrix.md",
+      "title": "Compeer Financial Delivers Superior User Experience with Citrix®",
+      "excerpt": "Our lives are driven by technology and we expect it to be always on and perform flawlessly– especially at work. It’ s a tall order, but one that just got easier to deliver at Compeer Financial, thanks to Citrix Systems,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/press-release/compeer-financial-delivers-superior-user-experience-with-citrixr-2021-01-12",
+      "originalUrl": "https://www.nasdaq.com/press-release/compeer-financial-delivers-superior-user-experience-with-citrixr-2021-01-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-12T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-ces-2021-taiwan-startup-genkitek-designs-and-develops-ai-cameras-and-ai-networking-video-recorders.md",
+      "title": "CES 2021 Taiwan startup GenkiTek designs and develops AI cameras and AI networking video recorders",
+      "excerpt": "GenkiTek, a spinoff company from Taiwan's Industrial Technology Research Institute designs and develops AI cameras and AI networking",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/ces-2021-taiwan-startup-genkitek-designs-and-develops-ai-cameras-and-ai-networking-video-recorders-301206284.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/ces-2021-taiwan-startup-genkitek-designs-and-develops-ai-cameras-and-ai-networking-video-recorders-301206284.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-12T04:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-a-startup-will-nix-algorithms-built-on-ill-gotten-facial-data.md",
+      "title": "A Startup Will Nix Algorithms Built on Ill-Gotten Facial Data",
+      "excerpt": "San Francisco face-recognition startup Everalbum won a $2 million contract with the Air Force to provide “AI-driven access control.” Monday, another arm of the US government dealt the company a setback.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/startup-nix-algorithms-ill-gotten-facial-data/",
+      "originalUrl": "https://www.wired.com/story/startup-nix-algorithms-ill-gotten-facial-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/startup-nix-algorithms-ill-gotten-facial-data/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/startup-nix-algorithms-ill-gotten-facial-data/amp",
+      "publishedDateTime": "2021-01-12T04:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-new-ai-platform-provides-proxy-voting-data-from-broadridge.md",
+      "title": "New AI Platform Provides Proxy Voting Data from Broadridge",
+      "excerpt": "PRNewswire/ -- Broadridge Financial Solutions, Inc. (NYSE: BR), a global Fintech leader, has launched Broadridge Proxy Policies & Insights (PPI) Data,",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/new-ai-platform-provides-proxy-voting-data-from-broadridge-301206057.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/new-ai-platform-provides-proxy-voting-data-from-broadridge-301206057.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-12T04:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-how-far-can-facial-recognition-go-in-finding-rioters-in-dc.md",
+      "title": "How far can facial recognition go in finding rioters in D.C.?",
+      "excerpt": "Photos and videos from the riot are all over the internet, and law enforcement can use them to help find criminals; but one face doesn't make the case.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfaa.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45",
+      "originalUrl": "https://www.wfaa.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wfaa.com/assets/KVUE/images/7c55c131-f86c-4bc7-bc2f-05880144aaa9/7c55c131-f86c-4bc7-bc2f-05880144aaa9_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wfaa.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45",
+      "cdnAmpWebUrl": "https://www-wfaa-com.cdn.ampproject.org/c/s/www.wfaa.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45",
+      "publishedDateTime": "2021-01-12T03:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFAA8",
+        "domain": "wfaa.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-burnley-to-use-artificial-intelligence-in-search-for-future-stars.md",
       "title": "Burnley to use artificial intelligence in search for future stars",
       "excerpt": "Burnley have announced they are to use artificial intelligence to help them identify young talent. The Clarets have partnered with talent identification platform AiSCOUT and launc",
@@ -957,247 +1171,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-philips-sonicare-9900-prestige-toothbrush-uses-ai-to-adjust-to-your-style.md",
-      "title": "Philips Sonicare 9900 Prestige toothbrush uses AI to adjust to your style",
-      "excerpt": "Machine learning and AI are the buzzwords in tech these days and almost all new products add these to their bullet points as a selling feature. Although they have long been using such marketing",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/philips-sonicare-9900-prestige-toothbrush-uses-ai-to-adjust-to-your-style-11654554/",
-      "originalUrl": "https://www.slashgear.com/philips-sonicare-9900-prestige-toothbrush-uses-ai-to-adjust-to-your-style-11654554/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/01/philips-9900-prestige-in-use.download.jpg",
-          "width": 1280,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/philips-sonicare-9900-prestige-toothbrush-uses-ai-to-adjust-to-your-style-11654554/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/philips-sonicare-9900-prestige-toothbrush-uses-ai-to-adjust-to-your-style-11654554/amp/",
-      "publishedDateTime": "2021-01-11T18:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-gpu-database-market-overview-by-top-players-regions-segments-demand-and-forecast-till-2023.md",
-      "title": "GPU Database Market Overview by Top Players, Regions, Segments, Demand and Forecast till 2023",
-      "excerpt": "Jan (Heraldkeepers) -- Market Research Future (MRFR) reveals different parameters that can contribute to the rise of the Global GPU database",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/gpu-database-market-overview-by-top-players-regions-segments-demand-and-forecast-till-2023-2021-01-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/gpu-database-market-overview-by-top-players-regions-segments-demand-and-forecast-till-2023-2021-01-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-11T16:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-chinas-baidu-to-team-up-with-geely-on-evs.md",
-      "title": "China's Baidu to team up with Geely on EVs",
-      "excerpt": "The new company will make and sell electric cars. Baidu will provide the technology for self-driving, while Geely will likely handle production. Baidu has not provided further details, such as ...",
-      "sourceUrl": null,
-      "webUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20210112_09/",
-      "originalUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20210112_09/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20210112_09_929166_L.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20210112_09/amp.html",
-      "cdnAmpWebUrl": "https://www3-nhk-or-jp.cdn.ampproject.org/c/s/www3.nhk.or.jp/nhkworld/en/news/20210112_09/amp.html",
-      "publishedDateTime": "2021-01-11T16:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NHK",
-        "domain": "nhk.or.jp",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-global-account-takeover-protection-market-2021-boosting-the-growth-worldwide-market-dynamics-and-trends-efficiencies-forecast-2025.md",
-      "title": "Global Account Takeover Protection Market 2021: Boosting the growth Worldwide: Market dynamics and trends, efficiencies Forecast 2025",
-      "excerpt": "Jan 12, 2021 (The Expresswire) -- Global “Account Takeover Protection market” competitive landscape provides particulars and data information by players. The report offers complete analysis ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.barracuda.com/glossary/account-takeover",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-account-takeover-protection-market-2021-boosting-the-growth-worldwide-market-dynamics-and-trends-efficiencies-forecast-2025-2021-01-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://play.vidyard.com/XG5J4MRYamQiT3bkMYraAt.jpg",
-          "width": 568,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-11T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-smarter-phones-in-your-hacks-with-tensorflow-lite.md",
-      "title": "Smarter Phones In Your Hacks With TensorFlow Lite",
-      "excerpt": "If your neural network was written using Google’s TensorFlow framework then you’ve had the option of using TensorFlow Mobile, but it doesn’t use any of the phone’s accelerated hardware ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2017/11/23/smarter-phones-in-your-hacks-with-tensorflow-lite/",
-      "originalUrl": "https://hackaday.com/2017/11/23/smarter-phones-in-your-hacks-with-tensorflow-lite/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2017/11/tensor_flow_lite_demo_fe.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-11T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
       ]
     }
   ],

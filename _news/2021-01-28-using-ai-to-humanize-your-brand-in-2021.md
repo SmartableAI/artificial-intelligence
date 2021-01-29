@@ -106,6 +106,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Wake Radiology practice adds artificial intelligence in fight against breast cancer"
+    excerpt: "One in five cases of breast cancer is missed by radiologists. Can Artificial Intelligence improve that percentage and save lives? A Triangle radiology firm believes so, and it is adding AI to the firm"
+    publishedDateTime: 2021-01-29T04:29:00Z
+    webUrl: "https://www.wraltechwire.com/2021/01/26/wake-radiology-firm-adds-artificial-intelligence-in-fight-against-breast-cancer/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 48
+    images:
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2021/01/breast-cancer-3d-e1611678275762-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "XGqfBSSRc2r9jp0/BuezZIaZYexfptl2HOXXhoLQREyZNscnWflerdtqgbVo42XDlvO/wgsOf1wiuucQt/C+O/IyRIJZRaEWDM+WxS4JIBHklj84/nKUyojZrA9EhXF5Pa21T05BcZNQvpOBjJN9QfDjIefHqvFVr83XJM/Ehhr5tS56ok+bTIJEwaQ18i9y0gdYNbjtQ5zXhgsz5eyWaFvyqg7xi/RhWoQro591Mey/V7908XF+0CKmBsHm0uizDxnvmnpxMqRMgfg9Cv5JmmXQGCiaXhuwXfpYNL/7+6954adKbymhDQHQsDRt8yhwnfVPnc41XERMEAXbbyNnMtsyAKC47e0w9e+XSNb3lL7zF1JU1sl64XORT+OLiBQQf5WGgEsndnWInHSOoUk8KfouKxT4XcwVx9QCzk7WNuLs2hq4APyGrWo4fIfPP8UvGmNCIFVgkcXLuo1KIF09zYTSNsPliujnGv7N8BH61fgfbq+oi2GNvuYhYq2rGXIJxnAjStbWh8WU37y5YSM1uw==;Fy+0z/Q7XtknpXu5M678Pw=="
 ---

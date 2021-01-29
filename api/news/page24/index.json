@@ -2,6 +2,233 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-01-11-infiniq-steigt-durch-grundung-einer-europaischen-vertriebszentrale-und-teilnahme-an-der-ces-2021-in-den-weltweiten-markt-ein.md",
+      "title": "INFINIQ steigt durch Gründung einer europäischen Vertriebszentrale und Teilnahme an der CES 2021 in den weltweiten Markt ein",
+      "excerpt": "This platform provides automatic object recognition algorithms and annotation tools that can be effectively utilized by companies that need to build a dataset for autonomous driving. (Graphic ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedailytimes.com/business/infiniq-steigt-durch-gr-ndung-einer-europ-ischen-vertriebszentrale-und-teilnahme-an-der-ces-2021/article_d7391a6f-ad00-573a-96d3-c092493e999d.html",
+      "originalUrl": "https://www.thedailytimes.com/business/infiniq-steigt-durch-gr-ndung-einer-europ-ischen-vertriebszentrale-und-teilnahme-an-der-ces-2021/article_d7391a6f-ad00-573a-96d3-c092493e999d.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/assets/v3/editorial/3/44/3449c40e-c55b-5e89-af3b-12e8ac2d605d/5ffc1e66a9ac6.image.jpg?crop=1200%2C675%2C0%2C0&resize=1120%2C630&order=crop%2Cresize",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-11T01:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "thedailytimes.com",
+        "domain": "thedailytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-11-baidu-geely-forge-smart-electric-vehicle-venture.md",
+      "title": "Baidu, Geely forge smart electric vehicle venture",
+      "excerpt": "Chinese internet giant Baidu announced plans to supply automaker Zhejiang Geely Holding with its intelligent driving technologies as part of a joint venture to manufacture smart electric vehicles (EV).",
+      "sourceUrl": null,
+      "webUrl": "https://www.mobileworldlive.com/asia/asia-news/baidu-geely-forge-smart-electric-vehicle-venture",
+      "originalUrl": "https://www.mobileworldlive.com/asia/asia-news/baidu-geely-forge-smart-electric-vehicle-venture",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/www.mobileworldlive.com/wp-content/uploads/2020/09/Baidu_autonomous_taxi.jpg?fit=602%2C360&#038;ssl=1",
+          "width": 602,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mobileworldlive.com/asia/asia-news/baidu-geely-forge-smart-electric-vehicle-venture/amp",
+      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/asia/asia-news/baidu-geely-forge-smart-electric-vehicle-venture/amp",
+      "publishedDateTime": "2021-01-11T01:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mobile World Live",
+        "domain": "mobileworldlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-11-top-cloud-providers-in-2021-aws-microsoft-azure-and-google-cloud-hybrid-saas-players.md",
+      "title": "Top cloud providers in 2021: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players",
+      "excerpt": "Cloud computing in 2021 has become the de facto choice of IT due to digital transformation shifts accelerated by remote work and the COVID-19 pandemic. Here's a look the cloud leaders stack up, the hybrid market,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/the-top-cloud-providers-of-2021-aws-microsoft-azure-google-cloud-hybrid-saas/",
+      "originalUrl": "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/the-top-cloud-providers-of-2021-aws-microsoft-azure-google-cloud-hybrid-saas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/01/21/9d349185-abe0-4f78-aed7-f1aa4a2010ee/istock-925557862.jpg",
+          "width": 1600,
+          "height": 1068,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/the-top-cloud-providers-of-2021-aws-microsoft-azure-google-cloud-hybrid-saas/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/the-top-cloud-providers-of-2021-aws-microsoft-azure-google-cloud-hybrid-saas/",
+      "publishedDateTime": "2021-01-11T01:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-11-agdhi-to-use-machine-learning-and-computer-vision-in-agriculture.md",
+      "title": "Agdhi to use machine learning and computer vision in agriculture",
+      "excerpt": "Agdhi will use machine learning, computer vision, edge computing and spectral imaging techniques to detect the defects in seeds and crops",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/agdhi-use-machine-learning-computer-vision-agriculture/",
+      "originalUrl": "https://www.dqindia.com/agdhi-use-machine-learning-computer-vision-agriculture/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2015/10/Agriculture1.jpg",
+          "width": 800,
+          "height": 529,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/agdhi-use-machine-learning-computer-vision-agriculture/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/agdhi-use-machine-learning-computer-vision-agriculture/amp/",
+      "publishedDateTime": "2021-01-11T00:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-01-11-photonic-chips-seem-to-boost-speed-of-ai-processes-dramatically.md",
+      "title": "Photonic Chips Seem To Boost Speed of AI Processes Dramatically",
+      "excerpt": "A team of researchers has recently applied photonic processors to artificial intelligence applications, demonstrating that photonic processors can greatly surpass the information processing capability of regular electronic chips.",
+      "sourceUrl": null,
+      "webUrl": "https://www.unite.ai/photonic-chips-seem-to-boost-speed-of-ai-processes-dramatically/",
+      "originalUrl": "https://www.unite.ai/photonic-chips-seem-to-boost-speed-of-ai-processes-dramatically/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.f8AX~1c8f3/w:1200/h:900/q:auto/https://www.unite.ai/wp-content/uploads/2021/01/spectrum-113364_1920.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-10T23:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "unite",
+        "domain": "unite.ai",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-01-11-the-most-valuable-software-developer-skills-to-get-hired-now.md",
       "title": "The most valuable software developer skills to get hired now",
       "excerpt": "We identify some of the hot areas where software developers can focus their attention to better stand out from the crowd in a challenging job market.",
@@ -922,230 +1149,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-10-nio-will-use-nvidia-drive-orin-chips-for-ai-driving.md",
-      "title": "NIO Will Use NVIDIA Drive Orin Chips for AI Driving",
-      "excerpt": "NIO will use NVIDIA DRIVE for advanced automated driving technology in its future fleets, marking the genesis of truly intelligent and personalized NIO vehicles. The NIO ET7 sedan will ship in China s",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextbigfuture.com/2021/01/nio-will-use-nvidia-drive-orin-chips-for-ai-driving.html",
-      "originalUrl": "https://www.nextbigfuture.com/2021/01/nio-will-use-nvidia-drive-orin-chips-for-ai-driving.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nextbigfuture.com/wp-content/uploads/2021/01/nvidia-orin-press.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextbigfuture.com/2021/01/nio-will-use-nvidia-drive-orin-chips-for-ai-driving.html?amp",
-      "cdnAmpWebUrl": "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/01/nio-will-use-nvidia-drive-orin-chips-for-ai-driving.html?amp",
-      "publishedDateTime": "2021-01-09T09:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NextBigFuture",
-        "domain": "nextbigfuture.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-01-09-leveraging-ai-in-remote-talent-acquisition.md",
-      "title": "Leveraging AI In Remote Talent Acquisition",
-      "excerpt": "AI has made headlines for the last few years, but after the new normal of remote work was accelerated in 2020, it has been more of an impact on remote talent acquisitions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ilkerkoksal/2021/01/09/leveraging-ai-in-remote-talent-acquisition/",
-      "originalUrl": "https://www.forbes.com/sites/ilkerkoksal/2021/01/09/leveraging-ai-in-remote-talent-acquisition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff96ae11bdf9fa884b96829%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5647%26cropY1%3D182%26cropY2%3D3358",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ilkerkoksal/2021/01/09/leveraging-ai-in-remote-talent-acquisition/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2021/01/09/leveraging-ai-in-remote-talent-acquisition/amp/",
-      "publishedDateTime": "2021-01-09T00:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-09-how-far-can-facial-recognition-go-in-finding-rioters-in-dc.md",
-      "title": "How far can facial recognition go in finding rioters in DC?",
-      "excerpt": "Photos and videos from the riot are all over the internet, and law enforcement can use them to help find criminals; but one face doesn't make the case.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wcnc.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45",
-      "originalUrl": "https://www.wcnc.com/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wcnc.com/assets/KVUE/images/7c55c131-f86c-4bc7-bc2f-05880144aaa9/7c55c131-f86c-4bc7-bc2f-05880144aaa9_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wcnc.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45",
-      "cdnAmpWebUrl": "https://www-wcnc-com.cdn.ampproject.org/c/s/www.wcnc.com/amp/article/tech/washington-dc-riot-attack-on-the-capitol-us-facial-recognition-technology-police/269-0d92a26e-a746-4d1d-a3e1-063a4b26bb45",
-      "publishedDateTime": "2021-01-08T20:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WCNC",
-        "domain": "wcnc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-09-artificial-intelligence-in-healthcare-diagnosis-market.md",
-      "title": "Artificial Intelligence In Healthcare Diagnosis Market",
-      "excerpt": "It is used in healthcare for approximation of human cognition as well as the analysis of complex medical and diagnostic imaging data. The artificial intelligence in healthcare diagnosismarket is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2222597/artificial-intelligence-in-healthcare-diagnosis-market",
-      "originalUrl": "https://www.openpr.com/news/2222597/artificial-intelligence-in-healthcare-diagnosis-market",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/1/U108142410_g.jpg",
-          "width": 800,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2222597/artificial-intelligence-in-healthcare-diagnosis-market",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2222597/artificial-intelligence-in-healthcare-diagnosis-market",
-      "publishedDateTime": "2021-01-08T19:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-09-tomtom-launches-new-services-and-announces-new-partnerships-with-baidu-qualcomm-at-ces.md",
-      "title": "TomTom launches new services and announces new partnerships with Baidu, Qualcomm, at CES",
-      "excerpt": "Navigation tech firm TomTom further embedded itself in the world of autonomous driving Monday by announcing a series of new partnerships and software launches at CES. The Amsterdam-based announced Baidu and Zenuity are its first partners to use its ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itbusiness.ca/news/tomtom-launches-new-services-and-announces-new-partnerships-with-baidu-qualcomm-at-ces/98084",
-      "originalUrl": "https://www.itbusiness.ca/news/tomtom-launches-new-services-and-announces-new-partnerships-with-baidu-qualcomm-at-ces/98084",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itbusiness.ca/wp-content/uploads/2017/02/Self-driving-car-header.jpg",
-          "width": 620,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itbusiness.ca/news/tomtom-launches-new-services-and-announces-new-partnerships-with-baidu-qualcomm-at-ces/98084?amp=1",
-      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/tomtom-launches-new-services-and-announces-new-partnerships-with-baidu-qualcomm-at-ces/98084?amp=1",
-      "publishedDateTime": "2021-01-08T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Business",
-        "domain": "itbusiness.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

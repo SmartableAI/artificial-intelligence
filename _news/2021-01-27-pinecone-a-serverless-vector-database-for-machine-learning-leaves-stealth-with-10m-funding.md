@@ -48,6 +48,22 @@ related:
         width: 1024
         height: 684
         isCached: true
+  - title: "Pinecone emerges from stealth with $10 million to accelerate AI workloads"
+    excerpt: "Pinecone, a startup developing database technology to support AI workloads, emerged from stealth with $10 million in funding."
+    publishedDateTime: 2021-01-29T03:15:00Z
+    webUrl: "https://venturebeat.com/2021/01/28/pinecone-emerges-from-stealth-with-10-million-to-accelerate-ai-workloads/"
+    ampWebUrl: "https://venturebeat.com/2021/01/28/pinecone-emerges-from-stealth-with-10-million-to-accelerate-ai-workloads/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/28/pinecone-emerges-from-stealth-with-10-million-to-accelerate-ai-workloads/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 86
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Pinecone exits stealth with a vector database for machine learning"
     excerpt: "Pinecone Systems Inc. is emerging from stealth mode today armed with $10 million in seed funding and a serverless vector database that it says can make machine learning queries much faster and more accurate."
     publishedDateTime: 2021-01-27T15:51:00Z
@@ -77,9 +93,9 @@ related:
         height: 293
         isCached: true
   - title: "Pinecone leaves stealth with $10M, launches first serverless vector database for machine learning"
-    excerpt: "Built by the team behind Amazon SageMaker and founded by scientist and former AWS Director Edo Liberty, Pinecone makes large-scale real-time inference as simple as querying a database. It is ..."
-    publishedDateTime: 2021-01-27T15:02:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-301216240.html"
+    excerpt: "PineconeSystems Inc., a machine learning (ML) cloud infrastructure company, left stealth today with $10m in seed funding. The investment"
+    publishedDateTime: 2021-01-27T20:00:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-301216240.html"
     type: article
     provider:
       name: PR Newswire
@@ -92,13 +108,13 @@ related:
         isCached: true
   - title: "Pinecone leaves stealth with $10M, launches first serverless vector database for machine learning"
     excerpt: "PineconeSystems Inc., a machine learning (ML) cloud infrastructure company, left stealth today with $10m in seed funding. The investment"
-    publishedDateTime: 2021-01-27T20:00:00Z
-    webUrl: "https://www.prnewswire.com/il/news-releases/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-301216240.html"
+    publishedDateTime: 2021-01-27T15:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-301216240.html"
     type: article
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 28
+    quality: 26
     images:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600

@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Spotify is developing speech-recognition tech to detect your mood and suggest music"
+    excerpt: "Global music-streaming giant Spotify has recently been granted a patent for a new technology which will allow it to analyze its users' voice data – including speech recognition and background noise – with an eye to suggesting music based on what it finds."
+    publishedDateTime: 2021-01-29T03:13:00Z
+    webUrl: "https://www.techradar.com/news/spotify-is-developing-speech-recognition-tech-to-detect-your-mood-and-suggest-music"
+    ampWebUrl: "https://www.techradar.com/amp/news/spotify-is-developing-speech-recognition-tech-to-detect-your-mood-and-suggest-music"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/spotify-is-developing-speech-recognition-tech-to-detect-your-mood-and-suggest-music"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 68
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/FSkiiycgcqqGc9sF8moAXN-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "New Spotify Patent Involves Monitoring Users’ Speech to Recommend Music"
     excerpt: "The streaming platform is interested in extracting data points like emotional state, gender, age, and accent to hone its recommendations"
     publishedDateTime: 2021-01-28T19:33:00Z
