@@ -34,7 +34,7 @@ related:
     provider:
       name: Electronic Design
       domain: electronicdesign.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://base.imgix.net/files/base/ebm/electronicdesign/image/2021/01/Wrightstudio_dreamstime_l_193616275.601439c0b7734.png?auto=format&fit=max&w=1200"
         width: 1200

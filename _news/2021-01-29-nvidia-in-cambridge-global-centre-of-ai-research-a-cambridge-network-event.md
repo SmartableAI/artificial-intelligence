@@ -24,19 +24,6 @@ images:
     height: 250
     isCached: true
 
-related:
-  - title: "Cambridge quantum computing start-up targets global expansion"
-    excerpt: "Cambridge quantum computing start-up targets global expansion. A quantum computing start-up, born out of the University of Cambridge, has"
-    publishedDateTime: 2021-01-25T04:23:00Z
-    webUrl: "https://www.compsmag.com/news/pc/cambridge-quantum-computing-start-up-targets-global-expansion/"
-    ampWebUrl: "https://www.compsmag.com/news/pc/cambridge-quantum-computing-start-up-targets-global-expansion/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/cambridge-quantum-computing-start-up-targets-global-expansion/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 22
-
 secured: "Gf4X60OrP1Qkk8BcyL6Q/ZuKfOo1gQc/XnvZS6tGpqioGxXrq1XrjppcyV1DgMfaOQrgA1i+F9Bn/yO8blLmYf9s0kACjuKil2ozHdFLsl8V8xcf1YSGrONwMDY2S30biVqeQIxm9g6IWOBwnm5pXDWfE+1cCsqdJRG/MQUScis+YrF+TDmVZuQwZWOltr8CLexS0A7fzHNyFqitbGAbE5ZZkb3PIOj/CjH3voMZZ5MX2/dzzjNvSAnSIFOHHtY4eNIP46BAoXbvTkLtnUWP287LHRGohR6fORJ5FJTzpRy1p+PZglVg/G+zP+ojE6/+obxPp2aT5MA3FVH2xSIcxf8vdjjciVsli30up4w3f9E=;yZuuV9s+cMGqv1MAAiMrgg=="
 ---
 

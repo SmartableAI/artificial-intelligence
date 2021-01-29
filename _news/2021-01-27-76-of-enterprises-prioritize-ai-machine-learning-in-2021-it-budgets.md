@@ -26,33 +26,35 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Takes Center Stage Early in 2021"
-    excerpt: "AI is the most significant technology of the last 30 years and its innovation is accelerating in the early part of 2021."
-    publishedDateTime: 2021-01-28T05:26:00Z
-    webUrl: "https://www.eweek.com/pc-hardware/artificial-intelligence-takes-center-stage-early-in-2021"
+  - title: "76% Of Enterprises Prioritize AI & Machine Learning In 2021 IT Budgets"
+    excerpt: "AI and Machine Learning (ML) initiatives matter “more than we thought,” with one in four saying AI and ML should have been their top priority sooner. 50% of enterprises plan to spend more on AI and ML this year,"
+    publishedDateTime: 2021-01-29T19:41:00Z
+    webUrl: "https://www.business2community.com/business-innovation/76-of-enterprises-prioritize-ai-machine-learning-in-2021-it-budgets-02382460"
+    ampWebUrl: "https://www.business2community.com/business-innovation/76-of-enterprises-prioritize-ai-machine-learning-in-2021-it-budgets-02382460/amp"
+    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-innovation/76-of-enterprises-prioritize-ai-machine-learning-in-2021-it-budgets-02382460/amp"
     type: article
     provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 71
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 76
     images:
-      - url: "https://www.eweek.com/imagesvr_ez/b2bezp/2017/07/IBM.Watson2.JPG?alias=social_image"
-        width: 560
-        height: 300
+      - url: "https://lcolumbus.files.wordpress.com/2021/01/76-of-enterprises-prioritize-ai-machine-learning-in-2021-it-budgets-image.jpg?w=400"
+        width: 400
+        height: 225
         isCached: true
-  - title: "Carlyle Invests in AI Startup After Year as Client"
-    excerpt: "Carlyle Group Inc. is converting from a client of SESAMm SAS to an investor in the French developer of artificial intelligence-powered analytical software used by investment managers and banks to crunch through large data sets and analyze reams of text to identify investment opportunities."
-    publishedDateTime: 2021-01-28T12:38:00Z
-    webUrl: "https://www.wsj.com/articles/carlyle-invests-in-ai-startup-after-year-as-client-11611837000"
+  - title: "Why 76% of enterprises are prioritising AI and machine learning in 2021 IT budgets"
+    excerpt: "AI and ML initiatives matter “more than we thought,” with one in four saying AI and ML should have been top priority sooner."
+    publishedDateTime: 2021-01-27T11:11:00Z
+    webUrl: "https://cloudcomputing-news.net/news/2021/jan/27/why-76-of-enterprises-are-prioritising-ai-and-machine-learning-in-2021-it-budgets/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
+      name: Cloud Computing
+      domain: cloudcomputing-news.net
+    quality: 48
     images:
-      - url: "https://images.wsj.net/im-291450/social"
-        width: 1280
-        height: 640
+      - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2020/03/money-rain-picture-id172276209.jpg"
+        width: 1024
+        height: 768
         isCached: true
   - title: "Towards Broad AI & The Edge in 2021"
     excerpt: "There are those who debate whether the new decade of the 2020s commenced on 1 Jan 2020 or 1 Jan 2021. Either way, one suspects that many around the world will hope that at some point during the course of 2021 the current year will mark a shift away from the events of 2020 and allow for a new start."

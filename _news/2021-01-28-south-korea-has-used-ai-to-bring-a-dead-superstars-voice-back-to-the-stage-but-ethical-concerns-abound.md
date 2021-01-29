@@ -64,7 +64,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 67
+    quality: 69
   - title: "South Korea: AI To Recreate Deceased Singer's Voice For TV Show"
     excerpt: "National broadcaster SBS plans to use AI to recreate the voice of late singer Kim Kwang-seok, but concerns have been raised over the ethics of using this technology."
     publishedDateTime: 2021-01-26T11:12:00Z

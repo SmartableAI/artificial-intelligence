@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/28/researchers-propose-ai-system-tha
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/28/researchers-propose-ai-system-that-summarizes-historical-texts/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Researchers propose AI that creates ‘controllable’ videos"
+    excerpt: "Learn how fintechs and forward-thinking FIs are accelerating personalized financial products through data-rich APIs. In an effort to create an AI system that can develop some of these same reasoning skills,"
+    publishedDateTime: 2021-01-29T20:37:00Z
+    webUrl: "https://venturebeat.com/2021/01/29/researchers-propose-ai-that-creates-controllable-videos/"
+    ampWebUrl: "https://venturebeat.com/2021/01/29/researchers-propose-ai-that-creates-controllable-videos/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/29/researchers-propose-ai-that-creates-controllable-videos/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/01/Untitled-1.png?w=1200&strip=all"
+        width: 1200
+        height: 589
+        isCached: true
 
 secured: "K44jzGvd1DoFYhOjKC03x4kYfZXxmqiSATdDxg1/yq+ymYw9c7xgtRFXu5qGCjYcYLRNnIDLy4x8gLpyLXMMDRHEfPvfxmgsQHzkZ33Fhx44DuJXnjaEv0TazajLndHAmNGBe7wxTPsKg4ncOxUN+5FbBtR9tUkmAM/thuuETLxtG3DPKXB1vunkZf36wJRCY7NjIkPLpy4bC5h0wMPhv0yPOBreVpO/a06ErQVGpYaVdD9v1yLqOnL92p/B3XnumCG4+AvumDdqX4p4ZoCQRnx38yyzyI4YaoDorGLKdsWnA6HLLFhoE4qbMIvgSg7NmqGCLgsqdDarHkSEp2j/OHotauB79ajG13fIdQ2dbmA=;GnAB9+UGXkvWg6C47A/QcA=="
 ---

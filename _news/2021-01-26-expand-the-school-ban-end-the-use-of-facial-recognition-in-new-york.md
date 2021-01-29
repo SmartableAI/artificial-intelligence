@@ -471,6 +471,48 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Effects of aging on emotion recognition from dynamic multimodal expressions and vocalizations"
+    excerpt: "Age-related differences in emotion recognition have predominantly been investigated using static pictures of facial expressions, and positive emotions beyond happiness have rarely been included. The current study instead used dynamic facial and vocal stimuli,"
+    publishedDateTime: 2021-01-29T20:16:00Z
+    webUrl: "https://www.nature.com/articles/s41598-021-82135-1"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 13
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-82135-1/MediaObjects/41598_2021_82135_Fig1_HTML.png"
+        width: 535
+        height: 685
+        isCached: true
+  - title: "Determination of the Dzyaloshinskii-Moriya interaction using pattern recognition and machine learning | npj Computational Materials"
+    excerpt: "Machine learning is applied to a large number of modern devices that are essential in building an energy-efficient smart society. Audio and face recognition are among the most well-known technologies that make use of such artificial intelligence."
+    publishedDateTime: 2021-01-29T20:18:07Z
+    webUrl: "https://www.nature.com/articles/s41524-020-00485-2"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 11
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41524-020-00485-2/MediaObjects/41524_2020_485_Fig1_HTML.png"
+        width: 685
+        height: 415
+        isCached: true
+  - title: "Deep-learning-based high-resolution recognition of fractional-spatial-mode-encoded data for free-space optical communications"
+    excerpt: "Structured light with spatial degrees of freedom (DoF) is considered a potential solution to address the unprecedented demand for data traffic, but there is a limit to effectively improving the communication capacity by its integer quantization."
+    publishedDateTime: 2021-01-29T20:16:00Z
+    webUrl: "https://www.nature.com/articles/s41598-021-82239-8"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 0
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-82239-8/MediaObjects/41598_2021_82239_Fig1_HTML.png"
+        width: 685
+        height: 322
+        isCached: true
 
 secured: "oZBR5JUm5U/72l1uqnTENpR0Y1323S+bWNdAlfQ57U3JTncdpQlg3D3cyNdb3nVNfSQ7BAqnixrZZZWT9U4jZ1WtzIEPKOVOMm1s1qiTsYCTfn/8d9dN8HquD/bs+PttNq+VbctkWveHZGG6wtP/Tv7fjca5vf9muzc2rADCf9a6wo/jMsCWevXSV8RGifY92gpk18a1xVnfcsb31erw3NtVpBnWunQC0Fx1RwKlv5oZ8W780fYlwl83bmDK1iYeHusCOFzmpWypiUMfxTHPW8n6o/bl+QFyrLvcLE6ZepGl/h9pqzYmlegnLU3w4U/Ra4CXCshwrpXWXpzPI53AO1GluaKwXA3XR1QaGymM0P1t9zN5x53K4c4HFdleqdjml64dM9LAxubBSgJMl5HSVK0B2tLW6af7gk43Qhy3JpK/sRyhsVl7Cdy6Kk7vkSadHTIqOCyHKGfxXSp3FGPOTZ6WoZ2ooDmz7SLI5qkxYeEykAR+tmG1vtD0Nk9mSN5sBUxnT9JGpv8Nr9i+SFBWMw==;Q/35lGRvQqg0jZiccHY0sg=="
 ---

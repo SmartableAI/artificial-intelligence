@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Nucleus Research Releases Q1 2021 Equity Snapshot for IBM"
-excerpt: "IBM will be able to center its focus around RedHat, cloud services and capabilities, and Watson AI—its largest growth drivers and the areas with the most customer interest.” To read the full ..."
-publishedDateTime: 2021-01-20T14:05:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20210120005424/nucleus-research-releases-q1-2021-equity-snapshot-for-ibm"
-webUrl: "https://www.morningstar.com/news/business-wire/20210120005424/nucleus-research-releases-q1-2021-equity-snapshot-for-ibm"
+excerpt: "Nucleus Research, a global provider of ROI-focused technology research and advisory services, today released its Q1 2021 Equity Snapshot for IBM. The snapshot provides an analysis of IBM’s market growth and performance over the last quarter and a competitive outlook for the months ahead."
+publishedDateTime: 2021-01-20T14:18:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-new-products-and-services-5685d208d7b4425a8f44af821220af90"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-new-products-and-services-5685d208d7b4425a8f44af821220af90"
 type: article
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - IBM AI
   - AI
 
-secured: "eT57zulgxKqkpUtJ3PZPOWhUpsbn6z1ioEWxOgVvpuvDKUV6S1gvXsfPkaf5qY8qFsBSoeTSlJ/UTIw2xZdht7I3g6s8rgf8BB6AkoKGngilKyKIaN7bfeifjiSSnKIdr/5VngA5cq/T56yQjU1pAKi7gavl3ePw7+6JCsHuJwLl/2cnlEnikXRF+IUkisb/oovvLv/Xx9U1L/+sdbWETF4sU1GuYR1BTD1FIHJwirlRH3UIEiNdtnG2lgB0p0TaRFLjZ+w1tBCpS7j2aC1y2xK3rlR6FekeC5oYQMgETupf2lB8rbN1pQwwT8V8WK3rYU4/FVRLQn3l+wQ0kJKrHzw4qUtJu29Xyk1DaFGBs6Q=;snhKOWCshpoFWMB+IzS23Q=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "vdDFm2A0plVGA3C+so54iMSMw7y6VitnpDt+Wj4C1sX5ehQPS0lkneJUpVKHpdVtHhhbvLnQ/+FqptBqc76HGDoQnPsLQJg9XKQ/na4xnFQZxPzLHARyxsm1E/xB72MgpQkvavQX7snpzYLkssAGjfxOIMKTX7sa078IOEdzhmxAzH37w3dV4jLmp/5Au9geUHs62z1aZvwl0QwOvVRmWXrKuFEndhvHITfuwZ1ueyrU1czaKxfZeD+JXQCZAOTaMarwY2ryQ0YFNSfisrAXMuqX+yzA4f7vLRXU1Xm9Nkj7h/erLNTM7uCd1gKagUFNWBYM99+r04dP4JH5FgXcdhWM3t0iQf+iLYIFjKEB9LI=;2J7Twc4OvCsTF85pMWUFEA=="
 ---
 

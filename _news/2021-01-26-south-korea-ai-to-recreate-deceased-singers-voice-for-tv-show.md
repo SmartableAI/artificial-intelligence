@@ -64,7 +64,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 67
+    quality: 69
   - title: "South Korea has used AI to bring a dead superstar's voice back to the stage, but ethical concerns abound"
     excerpt: "The audio AI company behind Kim's reincarnated voice is Supertone, a South Korean startup founded in 2020 that provides AI audio solutions for content creators, according to co-founder and Chief Operating Officer Choi Hee-doo. \"For example, BTS is really ..."
     publishedDateTime: 2021-01-27T19:00:00Z

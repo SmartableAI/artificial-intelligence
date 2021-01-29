@@ -8,7 +8,7 @@ webUrl: "https://www.businessinsider.com/south-korean-ai-technology-brings-back-
 ampWebUrl: "https://www.businessinsider.com/south-korean-ai-technology-brings-back-folk-singers-voice-2021-1?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/south-korean-ai-technology-brings-back-folk-singers-voice-2021-1?amp"
 type: article
-quality: 67
+quality: 69
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 related:
   - title: "South Korea has used AI to bring a dead superstar's voice back to the stage, but ethical concerns abound"

@@ -26,65 +26,49 @@ images:
     isCached: true
 
 related:
-  - title: "World Economic Forum launches global alliance to speed adoption of trustworthy AI"
-    excerpt: "The World Economic Forum is launching the Global AI Action Alliance today with over 100 organizations participating."
-    publishedDateTime: 2021-01-28T15:02:00Z
-    webUrl: "https://venturebeat.com/2021/01/28/world-economic-forum-launches-global-alliance-to-speed-adoption-of-trustworthy-ai/"
-    ampWebUrl: "https://venturebeat.com/2021/01/28/world-economic-forum-launches-global-alliance-to-speed-adoption-of-trustworthy-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/28/world-economic-forum-launches-global-alliance-to-speed-adoption-of-trustworthy-ai/amp/"
+  - title: "Patrick J. McGovern Foundation invests in AI for public good"
+    excerpt: "Organization pledges $40 million for initiatives to help nonprofits and NGOs benefit from data science and to foster the responsible and inclusive use of data and AI."
+    publishedDateTime: 2021-01-29T20:38:00Z
+    webUrl: "https://www.infoworld.com/article/3605101/patrick-j-mcgovern-foundation-invests-in-ai-for-public-good.html"
+    ampWebUrl: "https://www.infoworld.com/article/3605101/patrick-j-mcgovern-foundation-invests-in-ai-for-public-good.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3605101/patrick-j-mcgovern-foundation-invests-in-ai-for-public-good.amp.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 89
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/05/world-economic-forum.jpeg?w=1200&strip=all"
+      - url: "https://images.idgesg.net/images/article/2020/09/light_bulb_with_gears_and_network_of_sparks_outlining_a_virtual_brain_ideas_innovation_intelligence_creativity_transformation_by_urupong_gettyimages-1066422156_2400x1600-100859291-large.jpg"
         width: 1200
         height: 800
         isCached: true
-  - title: "This alliance aims to accelerate the adoption of inclusive, trusted and transparent AI worldwide"
-    excerpt: "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Kay Firth-Butterfield, Head of Artificial Intelligence"
-    publishedDateTime: 2021-01-28T16:09:00Z
-    webUrl: "https://europeansting.com/2021/01/28/this-alliance-aims-to-accelerate-the-adoption-of-inclusive-trusted-and-transparent-ai-worldwide/"
-    ampWebUrl: "https://europeansting.com/2021/01/28/this-alliance-aims-to-accelerate-the-adoption-of-inclusive-trusted-and-transparent-ai-worldwide/amp/"
-    cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/01/28/this-alliance-aims-to-accelerate-the-adoption-of-inclusive-trusted-and-transparent-ai-worldwide/amp/"
+  - title: "Patrick J. McGovern Foundation commits $40M to advancing AI and data for good"
+    excerpt: "As AI and data increasingly influence our individual lives and shape the fabric of our shared future, questions about how to ensure these tools"
+    publishedDateTime: 2021-01-28T15:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/patrick-j-mcgovern-foundation-commits-40m-to-advancing-ai-and-data-for-good/article_ac72226a-02ae-5ed5-91e2-1112f8c9db4d.html"
     type: article
     provider:
-      name: europeansting.com
-      domain: europeansting.com
-    quality: 46
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 36
     images:
-      - url: "https://europeansting.files.wordpress.com/2021/01/robots-2-21.jpeg"
-        width: 752
-        height: 1002
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/41/c418ed69-a2be-5bd3-9a4d-dbbad0ae896b/6012ecbb32344.image.jpg?resize=1200%2C401"
+        width: 1200
+        height: 401
         isCached: true
-  - title: "World Economic Forum launches global alliance for responsible AI"
-    excerpt: "The World Economic Forum announced today the launch of the Global AI Action Alliance (GAIA), a new flagship initiative to accelerate the adoption of inclusive, transparent and trusted artificial intelligence globally."
-    publishedDateTime: 2021-01-28T16:38:00Z
-    webUrl: "https://www.finextra.com/pressarticle/85927/world-economic-forum-launches-global-alliance-for-responsible-ai"
+  - title: "Patrick J. McGovern Foundation commits $40M to advancing AI and data for good"
+    excerpt: "Today, the Patrick J. McGovern Foundation is announcing that it will double its groundbreaking investments in data science and AI grantmaking in 2021 with a new commitment of $40 million and introduce new initiatives to accelerate opportunity and innovation in the development of inclusive,"
+    publishedDateTime: 2021-01-29T08:24:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-philanthropic-foundations-social-affairs-philanthropy-50d0bc0485a6ba41550a026f9be46579"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
+      name: Associated Press
+      domain: apnews.com
+    quality: 34
     images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
-  - title: "World Economic Forum launches GAIA to accelerate responsible AI adoption"
-    excerpt: "The  (WEF) announced on Thursday that it was launching the Global AI Action Alliance (GAIA), an initiative to speed up development and adoption of trusted and inclusive artificial intelligence across industry sectors."
-    publishedDateTime: 2021-01-29T09:57:00Z
-    webUrl: "https://www.computing.co.uk/news/4026460/wef-gaia-responsible-ai-adoption"
-    type: article
-    provider:
-      name: Computing
-      domain: computing.co.uk
-    quality: 38
-    images:
-      - url: "https://www.computing.co.uk/api/v1/wps/d0973ec/fe1e0acb-05c1-4498-ae13-641b4514e455/5/weforum-370x229.jpg"
-        width: 370
-        height: 229
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "my3+FDuedAj1Ydryzme8PvEiC2SG3ZkGFTP2XYspE/IqOVrkil9XWTltWSoMoC5J4aLM+KmFlZQGYm8g7dI4eo0TFCn476N45c2dIf3L9tEQL7sp/g0odWNTdHwzTNTVUR1o+d4VoidDLerfRnVX9Rw9f4hIt59nua7fDM/Q55QDNs3EapzgJdd7gAhe3YBcoQKdUq6cKn9NNplog0GGE6klUfkHMLBam7o9s+SzGw0YiAvpqID4SFmkY5WRg/82OVeMD3VUWUOwSfmF26A0LdCBfZVurQkm+HWEgYJOlkw9YiwRe5JwyGxdYwlXq/J2Yz4Y/uxu5Bn5nHRkQDd28veQOw5ufh18EvI+PQQoAbBY68GQ82DhPuRgBqUCSCOwvXo5Pur2D2kRFkyr92HzhEftDHdiuGXxU/55yueZE/nQ25gcttW+7x+mVIteDQLaVmcGvOoS8+lv0GFB9bRIgWb4S0AnYVxxxqsFeUH+s8zToKElZPdO99STrP/YII+HPKZkcnDqL2hGApAUzDV3kg==;67fyuMUxYprup7gYa1zTKQ=="

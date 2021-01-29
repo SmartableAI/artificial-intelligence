@@ -7,7 +7,7 @@ originalUrl: "https://www.healthyhearing.com/report/53168-Hearing-aids-artificia
 webUrl: "https://www.healthyhearing.com/report/53168-Hearing-aids-artificial-intelligence-deep-learning-oticon"
 type: article
 quality: 55
-heat: 65
+heat: 55
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 800
     height: 418
     isCached: true
-
-related:
-  - title: "What does Indigenous Recognition mean?"
-    excerpt: "Voice’, ‘recognition’, ‘sovereignty’ and ‘treaty’ have become a significant part of the language used to discuss the development of Australia's relationship with its Indigenous peoples."
-    publishedDateTime: 2021-01-25T04:10:00Z
-    webUrl: "https://www.sbs.com.au/language/english/what-does-indigenous-recognition-mean"
-    type: article
-    provider:
-      name: SBS
-      domain: sbs.com.au
-    quality: 24
-    images:
-      - url: "https://sl.sbs.com.au/public/image/file/7039db24-d99f-4f4f-84e6-10a8402ba556/crop/16x9"
-        width: 850
-        height: 478
-        isCached: true
 
 secured: "hlSUPbz3jITxOdjMJLUuH2TQqbbGOXSPswu8oDsDHaJzhml6G0TfXPCSom0GqBQlss9Vcm4V+o2blUiyScuMt3v4CAOtiaxQQm69VjJkRHGrV9xPczonTs7RL9KkgkmkSRkxOZAv5vRquKAsKenhOu1Dla3kwdmAMd7ddFmes+Kj0U87k29nXZdETZxdL4BL1Xw6atjo0BQAaARS6mhAeNIuJ0A79M1+kBdeAPr1/dYncJlu7lf+JwDIDFn7pkFZHv3XVq1a5QcyP6fGmcwCnrnOwj78DymXBsN3FCneMHOq2H1D0iiVFxPbpGPbtvudfuOKcbvCD0i0sw+2SzJ6HCkUHUUX1DXZjk8vcAa/Ggyu8VoKff8Fgo/2AIIzQeQuz0ouOHnnY2ZKfhu9uBPR1KNR6qSfxmZ4xDvUs3HzXSBekfF5vHwcAYlhfB9gR7a+5Gd+ZUu11T8NItu/Irtzng90UavaIBTyz4/43iiBtkXKRyHPS8ioZsff5dhIZ1ZYJWtewkN/56wiGqPXCcWAvQ==;t7J/jXaNjb/kiKwSToq4fg=="
 ---

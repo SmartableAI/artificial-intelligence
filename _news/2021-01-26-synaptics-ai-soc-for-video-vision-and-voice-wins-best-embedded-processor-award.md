@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Synaptics’ AI SoC for Video, Vision and Voice Wins Best Embedded Processor Award"
-excerpt: "Synaptics ® Incorporated, today announced its VideoSmart™ VS680 solution has been chosen as the Best Embedded Processor in The Linley Group’ s Analysts’ Choice Awards 2020. “Synaptics’ VideoSmart VS680 is a multimedia powerhouse that packs multi-core video and audio processing with a power and energy-optimized neural network and a custom"
-publishedDateTime: 2021-01-25T16:02:00Z
-originalUrl: "https://www.nasdaq.com/press-release/synaptics-ai-soc-for-video-vision-and-voice-wins-best-embedded-processor-award-2021"
-webUrl: "https://www.nasdaq.com/press-release/synaptics-ai-soc-for-video-vision-and-voice-wins-best-embedded-processor-award-2021"
+excerpt: "(GLOBE NEWSWIRE) -- Synaptics® Incorporated (Nasdaq: SYNA), today announced its VideoSmart™ VS680 solution has been chosen as the Best Embedded Processor in The Linley Group’s Analysts’ Choice Awards 2020."
+publishedDateTime: 2021-01-26T06:02:00Z
+originalUrl: "https://apnews.com/article/technology-business-integrated-circuits-industrial-products-and-services-electronic-parts-manufacturing-81fd869ef19b4d6e3989c20961c4273d"
+webUrl: "https://apnews.com/article/technology-business-integrated-circuits-industrial-products-and-services-electronic-parts-manufacturing-81fd869ef19b4d6e3989c20961c4273d"
 type: article
-quality: 44
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Synaptics Expands Family of AI-enriched, High-Performance Multimedia SoCs for Mainstream Set-Top Boxes, Smart Video Devices"
@@ -66,6 +72,6 @@ related:
       domain: telecompaper.com
     quality: 8
 
-secured: "f1LNG7Lrha+LCJsVZVTTkxPi9DHh/JA9oZ6DicQumqnRNCp5eTxkLJeTjJbHhXqpZwtVb49eM8glG3s0f9BjOCuyBVB63p96dmUjOnorpxZyw7x3NF0XOnmEKdNJHCEuOfy7sfyufZiK1RzFNclzXXKBrhqp2pYunfZD0IC5XunJXs3PAC7qm6D2oNJ8kZbBXmnsgMwb9107ZMZ6sT3dP7wd28dOV0H2NicKM+jk1esmsvEd070gDFvqCLzWpuSY2Mo9yWsqUxRYTYthPg3a65E+BG8siMdt6Jn9ntYdGya/xWwt6L6egfzzNOepARjXkBmIS4PRCOmRQDIufJfQ4WP1LZN3ujPUXR9Rj+zCyEo=;Hh4whKE4F+buooWvQHAj0Q=="
+secured: "fxHloluEO5AYFlzgvihQXyxQZFEnQ5Y6TxFQQ/X2frulU6NWYAIRSVGrXdsLMurNcOwmfvnOfWWJnLmL99dFwticnahniNn/oGE8Qa3v3gXXccOntWelC7EgG2f5ZdVZ0vPeBF78DFy3XCW1jw1tyUHjHcrbhwUxCMCRD6pSEXabGgt0X6GV2XiJe5UDhLWQTCpBfiCEvttD3mAXQSYi3DbkmZgtOLwSZO2HV2oDrbRpjFutg1VeFXcUWtfvxT3QcaJVtyKzpufpynhZMPF2NJ3CMidpuCLOaTfYX9wT1MyO+ark3GNo160DWCfDDJolm1R0Up34+tAtfmR6ppOS+uZJd3khQgwbfhE1pNlNuTs=;Tr91jEia9B0A9zoK8jMaKQ=="
 ---
 

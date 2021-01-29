@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/businessreporter/2021/01/29/ai--humans-is-
 ampWebUrl: "https://www.forbes.com/sites/businessreporter/2021/01/29/ai--humans-is-the-superpower-your-organisation-needs-in-2021/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/businessreporter/2021/01/29/ai--humans-is-the-superpower-your-organisation-needs-in-2021/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601453bd5f511181fc8b4d29%2F0x0.jpg"
@@ -29,6 +30,6 @@ images:
     height: 701
     isCached: true
 
-secured: "KQvTLtzcr661Uk1V+BzLs4x4qYDvIHxFUsDNtlJxG6meb1TjayT/1UL7S054LTb9rECDW08fs+wiAq2dAnyI6nBi8AcoCbNYlAyFPP7F9jXdVD1LLGU4b765KYjJvJFavp8Hg/K9bhAaT67JvW8acWm7S7ufQrW/i6TqR6jRL0NrYWGxxqvhRuI3UzNFGYjlpOLEd9RXS4WOud25usmxFTbYbIfZAgvS1VvQWfPYAP9fWjoYHZlXNb2+DhjDRal56MPNRhLNLoKY1W95mPeyyi7ShAUOE6GO3HTUMTluHZmoy7/wDW5bQFzKP9ip71AG6CVAi+qkBSI+yRZXglqoe7lguj2GzLJJJnR6E2RKIss=;YBZhRlgeCMEDCro4ILYjZQ=="
+secured: "cD64MOrJOfWgrr1gLN83zmxSWzExuCpkH5u+LRqKLdvHOeBbiAihiNmdpV1ZDfWUentsbXKDKRoYfpHxC2PcpdK3235jP5GWvFsLgIS6hsrsPQZ61aWGLavM68w5fZu5J6r+1iXwl88TvksauonjCmMbe0/PjXYUfdTsGYOJrDpW/NkrlX/u/GKgpAiUPxMFWaMq+wQ5pF5dKgdlv+g+ae0mYfyLTERBhD46yS0nROnrqmteBmIUFeTjQZiIDRuLBgfLj6mXAVs6U++0f9PPnVHNAa8hRioipriEJujKDe3rstazYORnAKqBO1xbgin4EMvjBRyILDCQRzzuvetcsbHDVoKhXeiEt8/Z4HgPjFzQun6RznagiuPjYWvQ5X6V3BbnlgM0woEdUArmk2db1wXnWI+TNkfLf8U69rhsaJqEOGGVFGRXO8WOaOn/QS+YCXCeDlhqARYRf9CEm/FLosZ91hqoHJenWOXprQ88pIu6svWRr3w9y7XgNjl667ySQ7HzpOrRbvV7iCffkMtdMQ==;OOk70z6U76F/Ip7hfv7THQ=="
 ---
 

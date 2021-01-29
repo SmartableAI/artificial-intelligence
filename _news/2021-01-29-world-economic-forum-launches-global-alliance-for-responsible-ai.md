@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "New alliance aims to draw unheard voices into ethical AI conversation"
-    excerpt: "AI technologies \"are in too few hands to shape our common future,\" says Vilas Dhar, president of the Patrick J. McGovern Foundation. The World Economic Forum launches the Global AI Action Alliance in a move toward more inclusive conversations."
-    publishedDateTime: 2021-01-29T11:51:00Z
-    webUrl: "https://www.devex.com/news/new-alliance-aims-to-draw-unheard-voices-into-ethical-ai-conversation-99018"
-    type: article
-    provider:
-      name: Devex
-      domain: devex.com
-    quality: 56
-    images:
-      - url: "https://res.cloudinary.com/devex/image/fetch/c_limit,w_1200/https://lh6.googleusercontent.com/DmldKJv_cfYWNuv0nYaCMK4kHd1qVuKhDjWkI-YUSxympY7JhwWxZXXva_qSEtn88pE95-dK1BpUXkPu20kF0ycwBm3P6-rBmr3gjXBNBGYmrGwc1kFL3iMx4j7JdFxDf73j4MHB"
-        width: 800
-        height: 450
-        isCached: true
   - title: "This alliance aims to accelerate the adoption of inclusive, trusted and transparent AI worldwide"
     excerpt: "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Kay Firth-Butterfield, Head of Artificial Intelligence"
     publishedDateTime: 2021-01-28T16:09:00Z

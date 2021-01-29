@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/28/microsoft-playfab-grows-ninefold-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/28/microsoft-playfab-grows-ninefold-in-3-years/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "How Microsoft’s Azure PlayFab Supports Game Developers, with James Gwertzman"
+    excerpt: "How Microsoft's Azure PlayFab Supports Game Developers, with James Gwertzman Source: Microsoft Microsoft just released some of its"
+    publishedDateTime: 2021-01-29T18:00:00Z
+    webUrl: "https://www.compsmag.com/news/gaming/how-microsofts-azure-playfab-supports-game-developers-with-james-gwertzman/"
+    ampWebUrl: "https://www.compsmag.com/news/gaming/how-microsofts-azure-playfab-supports-game-developers-with-james-gwertzman/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/how-microsofts-azure-playfab-supports-game-developers-with-james-gwertzman/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 71
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/How-Microsofts-Azure-PlayFab-Supports-Game-Developers-with-James-Gwertzman.jpg"
+        width: 800
+        height: 400
+        isCached: true
 
 secured: "ZztE9Z8AoInOJngY5xgE10t3pakghgFrk0amfzeBdzkEUqmpFAz0p/7CWeKvdNBnLDeUUTPsNYadXsm+/hZzymctc7aFFX8AouqkC6U5MViTdVKuif4LHL7KyBqnJ7zv1I2e1nANsnkRXVDPbfy3cCe7uENq6o8B9tes8Xu4CpnCY+l+aAQ0Ji4LnSb6epgXpnqlnUIFSsoMljahA6j2lHGQpmrBJuoMFit6Yy7nowP5mDU+MYi/vfDJGgOnm7IZBN8DeirAgl/+iEd6tQPcoH+gdxTYDUNCu9SqOoh7St6NQlbhyzUYE8ddHmLbo3dL5R3xYY650f5SpSbNnlHWFsOMh2PRbWGUW4WT74EuSI9KO7IQg9G0PsxYOd7JgnqyEYWG9AulkJ9eu0POOQhpINqr8gSK3LjoCYIv0BED8BoR4XEfcGPl5OXk0WrFlQiLGJWbA7gt5k+P10PxNYGoUWSPTzS4/GAB8vyCVMOZ3zuQ4+4n004C5EZmn4A1pxc3mwId+a3J67ET5JT91A0sVQ==;gM04D9jKboMYmBqiTyQyUg=="
 ---

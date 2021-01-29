@@ -39,6 +39,20 @@ related:
         width: 680
         height: 340
         isCached: true
+  - title: "Performing anomaly detection on industrial equipment using audio signals"
+    excerpt: "Industrial companies have been collecting a massive amount of time-series data about operating processes, manufacturing production lines, and industrial equipment. You might store years of data in historian systems or in your factory information system at large. Whether you’re looking to prevent equipment"
+    publishedDateTime: 2021-01-29T20:29:57Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/performing-anomaly-detection-on-industrial-equipment-using-audio-signals/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 73
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/22/ML-1479-1.jpg"
+        width: 800
+        height: 272
+        isCached: true
   - title: "Speech Technology Helps Retailers Deliver on Consumer Expectations for Contactless Shopping Experiences"
     excerpt: "Businesses across sectors are turning to voice technologies in response to COVID-19 health and safety concerns. These concerns are fueling consumer expectations for more contactless experiences everywhere they go,"
     publishedDateTime: 2021-01-25T16:00:00Z

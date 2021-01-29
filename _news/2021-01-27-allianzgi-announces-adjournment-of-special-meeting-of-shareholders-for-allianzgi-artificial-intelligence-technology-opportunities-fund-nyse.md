@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/article/technology-business-north-america-covid
 webUrl: "https://apnews.com/article/technology-business-north-america-covid-19-pandemic-lung-disease-46d0231ab1204e068eb45d895b902931"
 type: article
 quality: 13
-heat: 13
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 700
     height: 450
     isCached: true
+
+related:
+  - title: "AllianzGI Announces Adjournment of Special Meeting of Shareholders for AllianzGI Artificial Intelligence & Technology"
+    excerpt: "Janu"
+    publishedDateTime: 2021-01-26T21:51:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2021-01-26/allianzgi-announces-adjournment-of-special-meeting-of-shareholders-for-allianzgi-artificial-intelligence-technology"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 44
+    images:
+      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "E0RPDDGmssJ/8gNn/81bhcr1d0o2qU895rToMsUhP0J+3GOUzMmUeMYjo3uCqemCt5aGFiyF8fCxQdLzZvEIoZK1xX0n2o/Ng+NYQruJPogZ0uWywd6OdL/LdPzb4InFFVP82ts8oRIz+R1xoHfA39Hru9lJWftylp8Nu9DYx162KQL1sBGFVznMS8b47Hiva9UhsXyOmrZ9nytkGJu62Xf2dBm+u82ZRiQmRMHALVW0cDcposT7+4ef3g22RhKPFEFvPHW1RbuEi3mgOmZUQhkHFfRR1p7+DkVk+lmWdhBbYvr8/v1VzGQO4v+CbP4W725oocFQsEugCT437qva+ZYw+z7W9jMjgTmwcQKtPhI=;Fiq9/qbpGGMA+ifZAIscuA=="
 ---

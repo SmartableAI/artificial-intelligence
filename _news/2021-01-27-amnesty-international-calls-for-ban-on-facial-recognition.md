@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/01/27/amnesty-international-calls
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/27/amnesty-international-calls-for-ban-on-facial-recognition/amp/"
 type: article
 quality: 89
-heat: 420
+heat: 450
 published: true
 
 provider:
@@ -474,6 +474,48 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Effects of aging on emotion recognition from dynamic multimodal expressions and vocalizations"
+    excerpt: "Age-related differences in emotion recognition have predominantly been investigated using static pictures of facial expressions, and positive emotions beyond happiness have rarely been included. The current study instead used dynamic facial and vocal stimuli,"
+    publishedDateTime: 2021-01-29T20:16:00Z
+    webUrl: "https://www.nature.com/articles/s41598-021-82135-1"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 13
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-82135-1/MediaObjects/41598_2021_82135_Fig1_HTML.png"
+        width: 535
+        height: 685
+        isCached: true
+  - title: "Determination of the Dzyaloshinskii-Moriya interaction using pattern recognition and machine learning | npj Computational Materials"
+    excerpt: "Machine learning is applied to a large number of modern devices that are essential in building an energy-efficient smart society. Audio and face recognition are among the most well-known technologies that make use of such artificial intelligence."
+    publishedDateTime: 2021-01-29T20:18:07Z
+    webUrl: "https://www.nature.com/articles/s41524-020-00485-2"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 11
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41524-020-00485-2/MediaObjects/41524_2020_485_Fig1_HTML.png"
+        width: 685
+        height: 415
+        isCached: true
+  - title: "Deep-learning-based high-resolution recognition of fractional-spatial-mode-encoded data for free-space optical communications"
+    excerpt: "Structured light with spatial degrees of freedom (DoF) is considered a potential solution to address the unprecedented demand for data traffic, but there is a limit to effectively improving the communication capacity by its integer quantization."
+    publishedDateTime: 2021-01-29T20:16:00Z
+    webUrl: "https://www.nature.com/articles/s41598-021-82239-8"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 0
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-82239-8/MediaObjects/41598_2021_82239_Fig1_HTML.png"
+        width: 685
+        height: 322
         isCached: true
 
 secured: "PR7mryVu3/HszqmM7RJJcbtK8oy+fIhc2onUwXdB8PcGtLYkePwtuQqYkRJDTRdSrViR3xBy18ay98Mjcw2IKawKC3RiOBQ2Fd0+PlTC9FWL6kCND0mg8kwMZPuZaAexAqPJnE4YlXDY4Is+rBP2iAU6I2p4OuQsUd3hiwahhDJfYnIc9IT6Hqc42Wcyz8hCUpqxBrSeofxpsoWtcIi8Z8LXwYZOgVno3CIw6vzkBsVrtsVWzcgVxWx8GvqEWlbaLr9yG8OIuGHEgIupo9DpMmx7q0LlWL5/Lx7SmcGWK5FXZ0T8fh5qUrQHVCVKkni/Cy9+OPqcseNUg/V2E3hXYLZTFZXjOY0Th2QAleIFr7eMSAj1x4G3u5hoEgV2a/qg9Ifxa7dwzNvYdFgnPTCKZ7D587U4nS1nPE5zfTNhRx9B7pO1FSi6XvKWylwEE20ZBOViKMqpk8Vb/BDb8M7OkHC2fLE2BO9Q/wfCwJCKj7gHFbvZkwOD879lKn8Q6LDUGunElsn1RYDj2FsOUNkq2Q==;5JFpmgAcqKl2e1eyjM8Hvg=="

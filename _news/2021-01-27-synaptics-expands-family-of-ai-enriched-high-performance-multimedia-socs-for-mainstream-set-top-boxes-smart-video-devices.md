@@ -31,14 +31,19 @@ images:
 
 related:
   - title: "Synaptics’ AI SoC for Video, Vision and Voice Wins Best Embedded Processor Award"
-    excerpt: "Synaptics ® Incorporated, today announced its VideoSmart™ VS680 solution has been chosen as the Best Embedded Processor in The Linley Group’ s Analysts’ Choice Awards 2020. “Synaptics’ VideoSmart VS680 is a multimedia powerhouse that packs multi-core video and audio processing with a power and energy-optimized neural network and a custom"
-    publishedDateTime: 2021-01-25T16:02:00Z
-    webUrl: "https://www.nasdaq.com/press-release/synaptics-ai-soc-for-video-vision-and-voice-wins-best-embedded-processor-award-2021"
+    excerpt: "(GLOBE NEWSWIRE) -- Synaptics® Incorporated (Nasdaq: SYNA), today announced its VideoSmart™ VS680 solution has been chosen as the Best Embedded Processor in The Linley Group’s Analysts’ Choice Awards 2020."
+    publishedDateTime: 2021-01-26T06:02:00Z
+    webUrl: "https://apnews.com/article/technology-business-integrated-circuits-industrial-products-and-services-electronic-parts-manufacturing-81fd869ef19b4d6e3989c20961c4273d"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 44
+      name: Associated Press
+      domain: apnews.com
+    quality: 34
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Synaptics Expands Family of AI-enriched, High-Performance Multimedia SoCs for Mainstream Set-Top Boxes, Smart Video Devices"
     excerpt: "Synaptics ® Incorporated, today announced customer sampling of its VideoSmart™ VS640, a next generation edge computing SoC that is AI-enriched for emerging set-top boxes, streaming OTT devices, video soundbars and smart displays."
     publishedDateTime: 2021-01-26T13:02:00Z
