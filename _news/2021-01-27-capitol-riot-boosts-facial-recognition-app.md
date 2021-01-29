@@ -478,7 +478,7 @@ related:
     provider:
       name: Nature
       domain: nature.com
-    quality: 13
+    quality: 15
     images:
       - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-82135-1/MediaObjects/41598_2021_82135_Fig1_HTML.png"
         width: 535

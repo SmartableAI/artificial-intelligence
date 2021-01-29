@@ -6,7 +6,7 @@ publishedDateTime: 2021-01-29T20:16:00Z
 originalUrl: "https://www.nature.com/articles/s41598-021-82135-1"
 webUrl: "https://www.nature.com/articles/s41598-021-82135-1"
 type: article
-quality: 13
+quality: 15
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-82135-1/MediaObjects/41598_2021_82135_Fig1_HTML.png"

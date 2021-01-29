@@ -2,6 +2,112 @@
   "page": 72,
   "value": [
     {
+      "path": "_news/2020-12-02-autonomous-agents-market-growing-at-a-cagr-54-key-player-oracle-ibm-sap-aws-sas.md",
+      "title": "Autonomous Agents Market Growing at a CAGR 54% | Key Player Oracle, IBM, SAP, AWS, SAS",
+      "excerpt": "The global Autonomous Agents Market size is expected to grow from USD 345 million in 2019 to USD 2,992 million",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/autonomous-agents-market-growing-at-a-cagr-54-key-player-oracle-ibm-sap-aws-sas-2020-12-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/autonomous-agents-market-growing-at-a-cagr-54-key-player-oracle-ibm-sap-aws-sas-2020-12-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-01T16:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-whats-around-the-turn-in-2021-aws-deepracer-league-announces-new-divisions-rewards-and-community-leagues.md",
+      "title": "What’s around the turn in 2021? AWS DeepRacer League announces new divisions, rewards, and community leagues",
+      "excerpt": "AWS DeepRacer allows you to get hands on with machine learning (ML) through a fully autonomous 1/18th scale race car driven by reinforcement learning, a 3D racing simulator on the AWS DeepRacer console, a global racing league, and hundreds of customer-initiated community races. The action is already",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/whats-around-the-turn-in-2021-aws-deepracer-league-announces-new-divisions-rewards-and-community-leagues/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/whats-around-the-turn-in-2021-aws-deepracer-league-announces-new-divisions-rewards-and-community-leagues/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/30/ML-1878-1-1-752x630.jpg",
+          "width": 752,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-01T16:02:43-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-no-bugs-in-facial-recognition-technology-says-state-agency.md",
       "title": "No bugs in facial recognition technology, says state agency",
       "excerpt": "Hyderabad: The Telangana State Technology Services (TSTS) on Tuesday said that the facial recognition technology system for voter verification by the .",
@@ -1111,104 +1217,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-healthcare-artificial-intelligence-requires-data-access-standards.md",
-      "title": "Healthcare Artificial Intelligence Requires Data Access, Standards",
-      "excerpt": "To ensure the successful use of artificial intelligence in healthcare, leaders will need to expand data access and develop industry standards.",
-      "sourceUrl": null,
-      "webUrl": "https://healthitanalytics.com/news/healthcare-artificial-intelligence-requires-data-access-standards",
-      "originalUrl": "https://healthitanalytics.com/news/healthcare-artificial-intelligence-requires-data-access-standards",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-821302488.jpg",
-          "width": 689,
-          "height": 407,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-01T09:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-aws-launches-trainium-its-new-custom-ml-training-chip.md",
-      "title": "AWS launches Trainium, its new custom ML training chip",
-      "excerpt": "The company promises that it can offer higher performance than any of its competitors in the cloud, with support for TensorFlow, PyTorch and MXNet. It will be available as EC2 instances and inside ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/01/aws-launches-trainium-its-new-custom-ml-training-chip/",
-      "originalUrl": "https://techcrunch.com/2020/12/01/aws-launches-trainium-its-new-custom-ml-training-chip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/12/Screenshot-2020-12-01-084302.png?w=1024",
-          "width": 1024,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/12/01/aws-launches-trainium-its-new-custom-ml-training-chip/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/01/aws-launches-trainium-its-new-custom-ml-training-chip/amp/",
-      "publishedDateTime": "2020-12-01T09:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning",
-        "AI Hardware",
-        "AWS AI"
       ]
     }
   ],

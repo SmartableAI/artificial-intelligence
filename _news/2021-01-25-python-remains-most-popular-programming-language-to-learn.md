@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/python-remains-most-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/python-remains-most-popular-programming-language-to-learn/"
 type: article
 quality: 91
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     width: 1200
     height: 801
     isCached: true
-
-related:
-  - title: "Python is the top programming language for Machine Learning as indicated by Github"
-    excerpt: "Python in machine learning is the most preferred programming language. Python language should be used in machine learning as it is an open-source language, has clear syntax that makes it as the top programming language for Machine Learning."
-    publishedDateTime: 2021-01-25T06:54:00Z
-    webUrl: "https://www.analyticsinsight.net/why-should-python-be-used-in-machine-learning/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 33
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/Python.jpg"
-        width: 900
-        height: 500
-        isCached: true
 
 secured: "r9Cv8waKmVi/zAd2wknoSbWVYvRcmXU+t1/0c3SbealJloLpr4Ujr1xS7jS/9l+Ylv/IKkF1V9x+G+3SiUySFcZ5iqgAEoqtk4aYvdR3WiA+TP457UDrNto6uphot1LKH/KjM7kmegfjvzH27jqfi7A5GukoaW6K0OtPV1pXrYLuh/tS1RuEyOOLfGP64ZF+X3S55hfzdRdz2JkJxblTQ7Huu0PxwuRZFcvTuE+1kLFnGjOxxKiXW/7zhLCG9Fy/+6hP+LgAzClRCQNh5nh+mfY5nk/HRa9LkWFwWX1UJD8kcCkabvfv60rPuFC376b5ehVoRJgLt73lAxdHSJ9HtC2fiLpiahO0/GcBi1yatzUTVtRcIXTjihIHXNjvlJ8SIW6V2wfg2Dt2skvb/tyEMoqwZaZX4mvM9KjbbZAtLlu0Myx4+otDGdMTRVHXixi5gjoNsOffB+KLgHEwjUm7nkKquLMwlW+NCk70785Hc8dQehSwQMnMpVe95ru/KP6bHc5TodFLBFuFRcUL3ndOaQ==;IyhPuyBAy3gQfeT4q7lN/g=="
 ---

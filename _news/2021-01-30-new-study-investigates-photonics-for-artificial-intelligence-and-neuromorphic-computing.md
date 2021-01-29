@@ -42,6 +42,20 @@ related:
         width: 1300
         height: 500
         isCached: true
+  - title: "Photonics for artificial intelligence and neuromorphic computing"
+    excerpt: "Photonics offers an attractive platform for implementing neuromorphic computing due to its low latency, multiplexing capabilities and integrated on-chip technology."
+    publishedDateTime: 2021-01-29T21:24:00Z
+    webUrl: "https://www.nature.com/articles/s41566-020-00754-y"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 37
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41566-020-00754-y/MediaObjects/41566_2020_754_Fig1_HTML.png"
+        width: 685
+        height: 412
+        isCached: true
 
 secured: "3nek+8Jz9D4k2enXQlX9mLF5BxUDzVp3DZ7rKOTjRNEqIWJaR+BD7pL12SEdW35Br5ixW/VDIRkVZ8JibBjM0/Zr89QPTKPPr/Q0licZcU0BcSS/HAnJ3m+B4uQSJlUGLqklQYmSEqS6mxh9Fw0UWExxe/GUXjvTLo6QK8os0n3C3cVJraOOb3awfHF31hvYMr2hsT/SontDMctE6XVmausD5ab+fV11oArdRq0jiILJq0gD6plCQ5xr0pQ1OBUCV2xj9nPTPm2pVig5bNKSdhOPJITy6+DRh+/4EXj6KsJ7/iLFUKbh7+035NIw1nsTMJiq0fkSMb4O/WTcceS3CpZ0LhmigapLHTxhBIZe5FWoWQ5tniCsaWo4Gr6bc+x0eSgMzvsyp+iOx7OZkWy5/ahiVmwzX1Y0+MZ/V4hdAZAWRom2jQD5/LGy2B1fM/fhfy7qyV6xvqFX6bwxkUmRuCgglmISlnk6HHTZ103csZ1FdkCUF2rS8IQae6wlz4xWkdLKTg1i/+NtnvAqifO6/A==;GXydAwC6S7ht5h/PBUITpQ=="
 ---

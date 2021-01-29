@@ -25,22 +25,6 @@ images:
     height: 800
     isCached: true
 
-related:
-  - title: "Seed Group partners with Silicon Valley-based JIFFY.ai to Facilitate Growth of Intelligent Automation Industry"
-    excerpt: "Seed Group, a company of the Private Office of Sheikh Saeed bin Ahmed Al Maktoum, has partnered with Silicon Valley-based enterprise"
-    publishedDateTime: 2021-01-25T06:55:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/seed-group-partners-with-silicon-valley-based-jiffy-ai-to-facilitate-growth-of-intelligent-automation-industry-826148426.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 17
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-
 secured: "l907AxLbj+4AfdGVskzWzzSMJ6s6qu0l1/lFu+e7EwTmwOHZlYoxUXS6ChcfWDteDqIbVsc6AI71v2hIkntJoPYdaVTq4246dIkwjPiUF0FfRl030KSSjdcRpIy/e3imnQSFbXPIfo0htsaEuni/5i45C1sEAQeluRgedRcdoCVwojHxarv6f2kEhxngC44Mf5UIJ8omafmaNChq3gHZy0toglLtsFTmegZjqNdLARHyCyck/AyzAVDsY/oOB4EIA8zM9EsmML8gIfhRw1+G+kcUnENsvjSIX4VleLIhbOQQ4HLpwRNVU03VPHI46EkEAPlIMsmtXEfmjizoYIixdK7tIoambjollYn79peEL70=;3UJjiVkeqGLR87zTFzqXNA=="
 ---
 

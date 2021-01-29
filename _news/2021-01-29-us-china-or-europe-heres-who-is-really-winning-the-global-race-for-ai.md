@@ -3,10 +3,10 @@ category: news
 title: "US, China or Europe? Here's who is really winning the global race for AI"
 excerpt: "A new report shows that in the ever-more competitive race for AI, the US has a strong lead that China is catching up with, while the EU is falling behind little by little."
 publishedDateTime: 2021-01-29T12:11:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai/"
-webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai/"
+originalUrl: "https://www.zdnet.com/article/us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai/"
+webUrl: "https://www.zdnet.com/article/us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai/"
 type: article
 quality: 86
 heat: -1
@@ -61,6 +61,6 @@ related:
         height: 486
         isCached: true
 
-secured: "FKW6MvM48rlSRJ4blpJG2H2ww9cmQbG//zVj8Q2yqTCz1uE79TMK+eQcRD8eb/eb1JE7b8jxKAZ9ilYtLs4Au7XjZi8zO3ZxrST7+Mt390Y+9zdf8NJGAleFKzWR3r6MVUNq10go+12OYWsLklpdMXMl67vq16YMTpswuezfeQ0SBqidwyKsAchHD49D9kEx6r6MabrpWU5Ibwz/IHgyJj1P/cOLGMPrRK6XkBmQxGwXUaqZQ9oikdFZkPfHdjNy+gmwRx/GOnW12XDjCVmd09W2aF71hxOpoJ6JmrFTVuqAz1GV3pPrDpxX4a/p2iR7jLmrGd6rcL5PUTn6528lsPQ/sRNirBU9+WRCvyMXyKI=;qetHScfBuFH3r3nc7+OOHw=="
+secured: "IsuAVVoRSJSIP66LEUha75KULf0R1cZtH4n7B84juwTJm6A/39E9PSPQIezIbxHAzcJVsA7+UrvsFx5uZ0JKDU4tSpo0kTTcZL3RkXqqNDOhXnMJEohq7Beg6bj3OWRyQ0BYtnpODime2PiFDjgtFDA1RCF/wB7X3KcoGKN3ynnuqgThW/4bCvZySOSzYHxbd0/CR9yE+iU12NojwXXl2qv50mOyWPav+ycU+seWasLG06ahmqNvpyqLE37rfve8U6CBDd6v4nniztssGN2rQu4WXlCv9329KAODwzwZtZlCslqgshjrWNc+xOgbbDy7tyy+T7o4MFtny/LUF8UUPLC3soy6QyrILx2KBXzaHuc=;RJjarVFfB25m2f6rtrFsKA=="
 ---
 

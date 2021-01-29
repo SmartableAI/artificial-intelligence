@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-30-ai-weekly-announcing-our-ai-and-the-future-of-health-care-special-issue.md",
+      "title": "AI Weekly: Announcing our ‘AI and the future of health care’ special issue",
+      "excerpt": "Through the lens of AI and data, we examine how health care providers and vendors are tackling the challenges of this extraordinary time.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/29/ai-weekly-announcing-our-ai-and-the-future-of-health-care-special-issue/",
+      "originalUrl": "https://venturebeat.com/2021/01/29/ai-weekly-announcing-our-ai-and-the-future-of-health-care-special-issue/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/ai-weekly-feature-image-ai-and-healthcare.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-29T13:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-29-digital-careers-ahead-why-should-techies-have-all-the-fun-with-artificial-intelligence.md",
       "title": "Digital Careers Ahead: Why Should Techies Have All The Fun With Artificial Intelligence?",
       "excerpt": "Every organization wants to build their future on digital technologies, but what does it take to make it all happen? To get a better sense of the skills and talents that will be in demand, I reached out to experts and entrepreneurs across the landscape to get their views on what it takes to build a career in this new world.",
@@ -167,7 +219,7 @@
       "originalUrl": "https://www.benefitspro.com/2021/01/27/how-ai-can-streamline-health-care-claims-processing-and-benefit-payers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -263,7 +315,7 @@
       "originalUrl": "https://techbullion.com/the-role-artificial-intelligence-is-playing-in-the-healthcare-sector/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -615,7 +667,7 @@
       "originalUrl": "https://www.scmp.com/news/china/science/article/3119115/us-leads-world-artificial-intelligence-china-catching-study",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -1078,10 +1130,10 @@
     {
       "path": "_news/2021-01-18-healthcare-artificial-intelligence-market-2027-market-is-expected-to-grow-at-a-cagr-of-414-researchandmarketscom.md",
       "title": "Healthcare Artificial Intelligence Market, 2027 - Market is Expected to Grow at a CAGR of 41.4% - ResearchAndMarkets.com",
-      "excerpt": "... is mainly attributed to the factors such as rising venture capital investment for artificial intelligence in healthcare sector, growing demand for personalized therapy, positive impact due to COVID-19, rising demand to reduce healthcare costs, and ...",
+      "excerpt": "DUBLIN--(BUSINESS WIRE)--The \"Healthcare Artificial Intelligence Market - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The global healthcare artificial intelligence (AI) market is expected to grow at a CAGR of 41.4% ...",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/01/b19202252/healthcare-artificial-intelligence-market-2027-market-is-expected-to-grow-at-a-cagr-of-41-4-resear",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/01/b19202252/healthcare-artificial-intelligence-market-2027-market-is-expected-to-grow-at-a-cagr-of-41-4-resear",
+      "webUrl": "https://www.businesswire.com/news/home/20210118005340/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20210118005340/en/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1089,13 +1141,13 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/19202252",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19202252",
-      "publishedDateTime": "2021-01-18T06:46:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-18T06:19:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1377,40 +1429,6 @@
       "provider": {
         "name": "Associated Press",
         "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-tempus-announces-companion-diagnostic-collaboration-with-a2-biotherapeutics.md",
-      "title": "Tempus Announces Companion Diagnostic Collaboration With A2 Biotherapeutics",
-      "excerpt": "a leader in artificial intelligence and precision medicine, today announced a strategic collaboration to develop a companion diagnostic (CDx) test with A2 Biotherapeutics for its new therapy ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210113005824/en/Tempus-Announces-Companion-Diagnostic-Collaboration-With-A2-Biotherapeutics",
-      "originalUrl": "https://www.businesswire.com/news/home/20210113005824/en/Tempus-Announces-Companion-Diagnostic-Collaboration-With-A2-Biotherapeutics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-13T06:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null

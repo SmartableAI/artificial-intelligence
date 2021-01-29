@@ -2,6 +2,110 @@
   "page": 84,
   "value": [
     {
+      "path": "_news/2020-11-22-robots-invade-the-construction-site.md",
+      "title": "Robots invade the construction site",
+      "excerpt": "The robot has been deployed, under Arevalo’s supervision, at several construction sites in recent months, including the new Harvey Milk Terminal at San Francisco International Airport and an office building connected to the Chase Center arena in San Francisco.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2020/11/robots-invade-the-construction-site/",
+      "originalUrl": "https://arstechnica.com/information-technology/2020/11/robots-invade-the-construction-site/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2020/11/construction-robot-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2020/11/robots-invade-the-construction-site/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2020/11/robots-invade-the-construction-site/",
+      "publishedDateTime": "2020-11-22T03:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-22-can-we-make-our-robots-less-biased-than-us.md",
+      "title": "Can We Make Our Robots Less Biased Than Us?",
+      "excerpt": "Bomb squad” robots are marketed as tools for safely disposing of bombs, not for delivering them to targets. (In 2018, police offers in Dixmont, Maine, ended a shootout in a similar manner.). Their profession had supplied the police with a new form of lethal weapon,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/11/22/science/artificial-intelligence-robots-racism-police.html",
+      "originalUrl": "https://www.nytimes.com/2020/11/22/science/artificial-intelligence-robots-racism-police.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/22/world/22SCI-AI-JUSTICEpromo/merlin_180258276_3647e397-78ba-4cfd-b279-fadf05246243-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/11/22/science/artificial-intelligence-robots-racism-police.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/22/science/artificial-intelligence-robots-racism-police.amp.html",
+      "publishedDateTime": "2020-11-22T02:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-22-congress-is-eyeing-face-recognition-and-companies-want-a-say.md",
       "title": "Congress Is Eyeing Face Recognition, and Companies Want a Say",
       "excerpt": "Amazon and Microsoft have hired lobbyists. So too have airlines, retailers, wireless carriers, and cruise operators.",
@@ -1087,91 +1191,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-21-making-sense-of-the-ai-landscape.md",
-      "title": "Making Sense of the AI Landscape",
-      "excerpt": "As more and more companies incorporate AI tools into their operations, business leaders need to find ways to adapt. But the term “AI” in fact covers a huge spectrum of different things.",
-      "sourceUrl": null,
-      "webUrl": "https://hbr.org/2020/11/making-sense-of-the-ai-landscape",
-      "originalUrl": "https://hbr.org/2020/11/making-sense-of-the-ai-landscape",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hbr.org/resources/images/article_assets/2020/11/Nov20_17_498430921.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://hbr.org/amp/2020/11/making-sense-of-the-ai-landscape",
-      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/11/making-sense-of-the-ai-landscape",
-      "publishedDateTime": "2020-11-20T12:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Business Review",
-        "domain": "hbr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-21-update-twin-science-robotics-to-close-seedrs-campaign-with-nearly-12-million-raised.md",
-      "title": "Update: Twin Science & Robotics to Close Seedrs Campaign With Nearly £1.2 Million Raised",
-      "excerpt": "Twin Science & Robotics, a new educational experience that up skills children with physical and digital products, is set to close its equity crowdfunding campaign on Seedrs with nearly £1.2 million raised.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2020/11/169373-update-twin-science-robotics-to-close-seedrs-campaign-with-nearly-1-2-million-raised/",
-      "originalUrl": "https://www.crowdfundinsider.com/2020/11/169373-update-twin-science-robotics-to-close-seedrs-campaign-with-nearly-1-2-million-raised/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/10/twin-science-robotics-1-600x426.jpg",
-          "width": 600,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2020/11/169373-update-twin-science-robotics-to-close-seedrs-campaign-with-nearly-1-2-million-raised/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/169373-update-twin-science-robotics-to-close-seedrs-campaign-with-nearly-1-2-million-raised/amp/",
-      "publishedDateTime": "2020-11-20T11:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

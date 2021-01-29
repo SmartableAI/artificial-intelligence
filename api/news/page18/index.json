@@ -2,6 +2,93 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-01-14-electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker.md",
+      "title": "ElectrifAi Announces Expansion of Machine Learning Model Offerings for Amazon SageMaker",
+      "excerpt": "ElectrifAi, one of the world’s leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models, today announced expanded offerings of pre-built and pre-structured ML models for Amazon SageMaker, including models ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.suasnews.com/2021/01/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker/",
+      "originalUrl": "https://www.suasnews.com/2021/01/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/www.suasnews.com/wp-content/uploads/2021/01/electrifi-scaled.jpg?fit=2560%2C1340&ssl=1",
+          "width": 2560,
+          "height": 1340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.suasnews.com/2021/01/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker/amp/",
+      "cdnAmpWebUrl": "https://www-suasnews-com.cdn.ampproject.org/c/s/www.suasnews.com/2021/01/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker/amp/",
+      "publishedDateTime": "2021-01-13T21:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SUAS News",
+        "domain": "suasnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-01-14-chinese-drone-firm-dji-builds-team-to-work-on-self-driving-tech.md",
+      "title": "Chinese drone firm DJI builds team to work on self-driving tech",
+      "excerpt": "China’s SZ DJI Technology Co, the world’s largest drone maker, is building an engineering team to work on self-driving technologies, according to job posts and people familiar with the company’s strategy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/digital/chinese-drone-firm-dji-builds-team-work-self-driving-tech",
+      "originalUrl": "https://www.asiaone.com/digital/chinese-drone-firm-dji-builds-team-work-self-driving-tech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jan2021/20210114_dji_reuters.jpg?itok=5ajY6ztt",
+          "width": 763,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/digital/chinese-drone-firm-dji-builds-team-work-self-driving-tech?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/digital/chinese-drone-firm-dji-builds-team-work-self-driving-tech?amp",
+      "publishedDateTime": "2021-01-13T21:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-14-amazon-ai-conclave-2021-everything-you-need-to-know.md",
       "title": "Amazon AI Conclave 2021: Everything You Need To Know",
       "excerpt": "Roche, the second-largest pharmaceutical company in the world, uses Amazon SageMaker to accelerate the delivery of treatments and tailor medical experiences. And the list goes on… Data scientists, researchers,",
@@ -1064,91 +1151,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-qualcomm-to-snap-up-chip-startup-nuvia-for-14b.md",
-      "title": "Qualcomm To Snap Up Chip Startup Nuvia For $1.4B",
-      "excerpt": "Qualcomm has clinched a deal to buy chip startup Nuvia for about $1.4 billion, to help the supplier of mobile phone chips meet the demands of next-generation 5G computing.  With this acquisition, Qualcomm (QCOM) will be able to put Nuvia’s processors into its portfolio of products,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/qualcomm-to-snap-up-chip-startup-nuvia-for-%241.4b-2021-01-13",
-      "originalUrl": "https://www.nasdaq.com/articles/qualcomm-to-snap-up-chip-startup-nuvia-for-%241.4b-2021-01-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/qualcomm-to-snap-up-chip-startup-nuvia-for-%241.4b-2021-01-13?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/qualcomm-to-snap-up-chip-startup-nuvia-for-%241.4b-2021-01-13?amp",
-      "publishedDateTime": "2021-01-13T07:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-apple-reportedly-weighed-buying-arguably-the-most-fascinating-ev-startup.md",
-      "title": "Apple reportedly weighed buying arguably the most fascinating EV startup",
-      "excerpt": "Apple reportedly weighed acquiring or investing in electric vehicle startup Canoo, potentially tapping its innovative drive-by-wire platform as it works on its own autonomous EVs. While",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/apple-canoo-acquisition-investment-report-electric-vehicle-skateboard-platform-autonomous-ev-roadmap-13654915/",
-      "originalUrl": "https://www.slashgear.com/apple-canoo-acquisition-investment-report-electric-vehicle-skateboard-platform-autonomous-ev-roadmap-13654915/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/01/canoo_Design_Exterior_07.jpg",
-          "width": 1280,
-          "height": 721,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/apple-canoo-acquisition-investment-report-electric-vehicle-skateboard-platform-autonomous-ev-roadmap-13654915/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/apple-canoo-acquisition-investment-report-electric-vehicle-skateboard-platform-autonomous-ev-roadmap-13654915/amp/",
-      "publishedDateTime": "2021-01-13T07:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

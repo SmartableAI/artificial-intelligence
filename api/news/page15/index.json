@@ -2,6 +2,92 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-01-17-cochlear-implants-aid-speech-recognition-in-most-adults.md",
+      "title": "Cochlear Implants Aid Speech Recognition in Most Adults",
+      "excerpt": "THURSDAY, Jan. 14, 2021 (HealthDay News) — Most adult patients have statistically significant postoperative improvements in speech recognition after receiving cochlear implants, according to a study published online Jan. 7 in JAMA Otolaryngology-Head ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.physiciansweekly.com/cochlear-implants-aid-speech-recognition-in-most-adults/",
+      "originalUrl": "https://www.physiciansweekly.com/cochlear-implants-aid-speech-recognition-in-most-adults/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.physiciansweekly.com/wp-content/uploads/2021/01/image-131.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.physiciansweekly.com/cochlear-implants-aid-speech-recognition-in-most-adults/amp/",
+      "cdnAmpWebUrl": "https://www-physiciansweekly-com.cdn.ampproject.org/c/s/www.physiciansweekly.com/cochlear-implants-aid-speech-recognition-in-most-adults/amp/",
+      "publishedDateTime": "2021-01-17T02:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Too Old to Operate",
+        "domain": "physiciansweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-17-powered-by-microsoft-azure-and-developed-by-corover-irctcs-ai-chatbot-askdisha-enhances-user-experience.md",
+      "title": "Powered by Microsoft Azure and developed by CoRover, IRCTC’s AI chatbot AskDISHA enhances user experience",
+      "excerpt": "Powered by Microsoft Azure, Indian Railway Catering and Tourism Corporation’s (IRCTC) AI-powered chatbot AskDISHA has helped improve satisfaction of customer interactions by 70%.",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/powered-by-microsoft-azure-and-developed-by-corover-irctcs-ai-chatbot-askdisha-enhances-user-experience/",
+      "originalUrl": "https://indiaeducationdiary.in/powered-by-microsoft-azure-and-developed-by-corover-irctcs-ai-chatbot-askdisha-enhances-user-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2017/05/microsoft_headquarters-800x533.jpg?fit=800%2C533&ssl=1",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/powered-by-microsoft-azure-and-developed-by-corover-irctcs-ai-chatbot-askdisha-enhances-user-experience/?amp",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/powered-by-microsoft-azure-and-developed-by-corover-irctcs-ai-chatbot-askdisha-enhances-user-experience/?amp",
+      "publishedDateTime": "2021-01-16T20:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-17-incoming-white-house-science-and-technology-leader-on-ai-diversity-and-society.md",
       "title": "Incoming White House science and technology leader on AI, diversity, and society",
       "excerpt": "Incoming White House science and technology leader Dr. Alondra Nelson addressed the relationship between AI development an inclusion.",
@@ -1133,109 +1219,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-a-major-business-breakthrough-in-ai-is-happening-now-do-you-know-about-it.md",
-      "title": "A Major Business Breakthrough In AI Is Happening Now -- Do You Know About It?",
-      "excerpt": "Almost every business in the world will be transformed by the use of artificial intelligence (AI) and machine learning (ML) technology. However, to non-data-scientist business and IT leaders, ML is often a black box that is hard to understand and manage,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/15/a-major-business-breakthrough-in-ai-is-happening-nowdo-you-know-about-it/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/15/a-major-business-breakthrough-in-ai-is-happening-nowdo-you-know-about-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6000aee8fcea373dc9e83566%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/15/a-major-business-breakthrough-in-ai-is-happening-nowdo-you-know-about-it/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/15/a-major-business-breakthrough-in-ai-is-happening-nowdo-you-know-about-it/amp/",
-      "publishedDateTime": "2021-01-15T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-amazon-will-let-companies-build-voice-assistants-on-alexa.md",
-      "title": "Amazon Will Let Companies Build Voice Assistants on Alexa",
-      "excerpt": "Amazon.com Inc. is offering other companies the ability to use the building blocks of the Alexa digital assistant for their own automated versions, the latest effort to embed the company’s voice software into other devices.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-01-15/amazon-will-let-companies-build-voice-assistants-on-alexa",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-01-15/amazon-will-let-companies-build-voice-assistants-on-alexa",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4RPzukzY818/v0/360x-1.jpg",
-          "width": 360,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2021-01-15/amazon-will-let-companies-build-voice-assistants-on-alexa",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2021-01-15/amazon-will-let-companies-build-voice-assistants-on-alexa",
-      "publishedDateTime": "2021-01-15T05:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

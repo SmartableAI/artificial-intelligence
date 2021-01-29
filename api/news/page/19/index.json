@@ -2,6 +2,91 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-01-13-qualcomm-to-snap-up-chip-startup-nuvia-for-14b.md",
+      "title": "Qualcomm To Snap Up Chip Startup Nuvia For $1.4B",
+      "excerpt": "Qualcomm has clinched a deal to buy chip startup Nuvia for about $1.4 billion, to help the supplier of mobile phone chips meet the demands of next-generation 5G computing.  With this acquisition, Qualcomm (QCOM) will be able to put Nuvia’s processors into its portfolio of products,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/qualcomm-to-snap-up-chip-startup-nuvia-for-%241.4b-2021-01-13",
+      "originalUrl": "https://www.nasdaq.com/articles/qualcomm-to-snap-up-chip-startup-nuvia-for-%241.4b-2021-01-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/qualcomm-to-snap-up-chip-startup-nuvia-for-%241.4b-2021-01-13?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/qualcomm-to-snap-up-chip-startup-nuvia-for-%241.4b-2021-01-13?amp",
+      "publishedDateTime": "2021-01-13T07:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-apple-reportedly-weighed-buying-arguably-the-most-fascinating-ev-startup.md",
+      "title": "Apple reportedly weighed buying arguably the most fascinating EV startup",
+      "excerpt": "Apple reportedly weighed acquiring or investing in electric vehicle startup Canoo, potentially tapping its innovative drive-by-wire platform as it works on its own autonomous EVs. While",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/apple-canoo-acquisition-investment-report-electric-vehicle-skateboard-platform-autonomous-ev-roadmap-13654915/",
+      "originalUrl": "https://www.slashgear.com/apple-canoo-acquisition-investment-report-electric-vehicle-skateboard-platform-autonomous-ev-roadmap-13654915/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/01/canoo_Design_Exterior_07.jpg",
+          "width": 1280,
+          "height": 721,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/apple-canoo-acquisition-investment-report-electric-vehicle-skateboard-platform-autonomous-ev-roadmap-13654915/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/apple-canoo-acquisition-investment-report-electric-vehicle-skateboard-platform-autonomous-ev-roadmap-13654915/amp/",
+      "publishedDateTime": "2021-01-13T07:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-13-automotive-artificial-intelligence-ai-market-to-boost-business-scope-with-key-players.md",
       "title": "Automotive Artificial Intelligence (AI) Market to Boost Business Scope with Key Players",
       "excerpt": "Global Automotive Artificial Intelligence (AI) Market valued approximately USD 641 billion in 2016 is anticipated to",
@@ -1095,92 +1180,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-controversial-chatbot-leaves-lessons-on-ai-use-ethics.md",
-      "title": "Controversial chatbot leaves lessons on AI use ethics",
-      "excerpt": "Developers of an artificial intelligence (AI) based chatbot have suspended the service after unfiltered inflammatory remarks it delivered sparked controversy, leaving both developers and users to reflect on the ethics of AI use.",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/tech/2021/01/129_302390.html",
-      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2021/01/129_302390.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202101/0573ca44e97c4371b32c6db43eedfa53.jpg",
-          "width": 640,
-          "height": 453,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=302390",
-      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=302390",
-      "publishedDateTime": "2021-01-12T22:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "koreatimes.co.kr",
-        "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-avaya-expanding-ai-powered-contact-center-capabilities-to-improve-customer-experience-participating-with-aws-contact-center-intelligence.md",
-      "title": "Avaya Expanding AI-powered Contact Center Capabilities to Improve Customer Experience, Participating with AWS Contact Center Intelligence",
-      "excerpt": "Avaya (NYSE: AVYA), a global leader in solutions to enhance and simplify communications and collaboration, today announced an expansion of its artificial intelligence (AI)-powered customer experience capabilities for Avaya OneCloudTM CCaaScustomers,",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalbankingandfinance.com/category/news/avaya-expanding-ai-powered-contact-center-capabilities-to-improve-customer-experience-participating-with-aws-contact-center-intelligence/",
-      "originalUrl": "https://www.globalbankingandfinance.com/category/news/avaya-expanding-ai-powered-contact-center-capabilities-to-improve-customer-experience-participating-with-aws-contact-center-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.globalbankingandfinance.com/category/news/avaya-expanding-ai-powered-contact-center-capabilities-to-improve-customer-experience-participating-with-aws-contact-center-intelligence/",
-      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/category/news/avaya-expanding-ai-powered-contact-center-capabilities-to-improve-customer-experience-participating-with-aws-contact-center-intelligence/",
-      "publishedDateTime": "2021-01-12T21:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "List of Banks in Belarus",
-        "domain": "globalbankingandfinance.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

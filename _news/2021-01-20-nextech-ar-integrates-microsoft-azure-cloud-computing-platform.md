@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Nextech AR Integrates Microsoft Azure Cloud Computing Platform"
-excerpt: "Azure, Microsoft’s cloud, and edge computing platform is the gold standard. Nextech AR will enter Microsoft’s Co-sell program, opening additional opportunities to extend the reach of Nextech products and create new customer connections."
-publishedDateTime: 2021-01-20T13:11:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-virtual-reality-technology-products-and-services-cloud-computing-73b4c77f87f8708468bd2b0f4ab0fb69"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-virtual-reality-technology-products-and-services-cloud-computing-73b4c77f87f8708468bd2b0f4ab0fb69"
+excerpt: "Cloud-based data will enable Nextech AR to host hyper-scalable, secure events and support immersive 3D and AR experiences across all its technologies."
+publishedDateTime: 2021-01-20T07:30:00Z
+originalUrl: "https://www.marketwatch.com/press-release/nextech-ar-integrates-microsoft-azure-cloud-computing-platform-2021-01-20"
+webUrl: "https://www.marketwatch.com/press-release/nextech-ar-integrates-microsoft-azure-cloud-computing-platform-2021-01-20"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "Un3uViIQojXSU5LumClnRJ4v5dl8t5pH8CL9etYFm4DROMhXBNCTa9/9vGW/dcHdVumD7BqUoh5wgMvR+CnNucd2pOz/mBqw38j4Dv5rU+gx8wEhGMcrXiSgeC00n05R89TtjVU9mT+IsN6QOQWCzDs9TdTHt41Q1Z0S0cRehUgEZiPjzalKzUKiKwCwTHVhfvNanFDpJUbo7j52R+FFO/GV6feMmvAkAmhcoT/k72sU95mWsuKkXEoI0hS6RyYqfDmHTWyw1NCYR4zHYq36qGn+/KQzwD74I6DiOsrVSJAFqmLROGoKvqkllXpN6otQLejhK2cPyHXo5eEjne3ERZd7YIwjMHy2D4J71ddjju4=;xzsGxaD5oKA8IQTY9xvdZg=="
+secured: "kgmoILVBAU4Rsk8N3IKrkX9/5ihfA5C12FkzZgXM8ZHpC94QFyNaOpWT0wBxKoYZlB31eqcHLISAJoVURnwmu7RUdf2H+iFadgoK2kHvjAhwpk3OO51ofwRu5AazQjHQ2kEQ9T6Ak3P+UMv5MHQS+531BMU0gXtGVnfRIqBMmLszZIgMz7XXiU3Fhuk9MrZ0q1ENxZy2wJAMXm3moUSyZZiPEESkzgGGcfmL7W4gCty02Sm7xXzKijfsjXVBVCrB5zbFHHqRqHcCVYQc+cagTRN/U3BNxI+zGs8Zmn5rBlOlzj1JAjWsW9O5h9a+fz18rD/un7y7qsNv8opsODkvHn42INMpGv+uSY/XmXIkHxs=;8KCdsLHRSYqXc3dftIOGHg=="
 ---
 

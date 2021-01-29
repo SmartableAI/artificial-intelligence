@@ -25,53 +25,77 @@ images:
     isCached: true
 
 related:
-  - title: "Fake News Is Rampant, Here Is How Artificial Intelligence Can Help"
-    excerpt: "As with so many of our modern problems, artificial intelligence is now on the job helping to fight false news. Logically is one company that uses artificial intelligence to provide fact-checking services for consumers."
-    publishedDateTime: 2021-01-25T05:25:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2021/01/25/fake-news-is-rampant-here-is-how-artificial-intelligence-can-help/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2021/01/25/fake-news-is-rampant-here-is-how-artificial-intelligence-can-help/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/01/25/fake-news-is-rampant-here-is-how-artificial-intelligence-can-help/amp/"
+  - title: "The Role Artificial Intelligence is Playing In the Healthcare Sector"
+    excerpt: "With modern technology making business operations convenient, fraudsters are also banking on advanced technology for their illicit activities. Cybercriminals are now targeting the healthcare sector for their illegal gains."
+    publishedDateTime: 2021-01-27T11:55:00Z
+    webUrl: "https://techbullion.com/the-role-artificial-intelligence-is-playing-in-the-healthcare-sector/"
+    ampWebUrl: "https://techbullion.com/the-role-artificial-intelligence-is-playing-in-the-healthcare-sector/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/the-role-artificial-intelligence-is-playing-in-the-healthcare-sector/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Impacts
+      domain: techbullion.com
+    quality: 74
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600e55afcd20ae16e22d2456%2F0x0.jpg"
+      - url: "https://techbullion.com/wp-content/uploads/2021/01/Healthcare-Sector.jpg"
+        width: 1600
+        height: 790
+        isCached: true
+  - title: "Rising integration of artificial intelligence in healthcare is influencing the Healthcare Virtual Assistants Market growth"
+    excerpt: "Meticulous Research (R) - leading global market research company published a research report titled \"Healthcare Virtual Assistants Market by Product (Chatbot and Smart Speaker), Technology (Speech Recognition,"
+    publishedDateTime: 2021-01-27T10:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/rising-integration-of-artificial-intelligence-in-healthcare-is-influencing-the-healthcare-virtual-assistants-market-growth-2021-01-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 801
+        height: 630
         isCached: true
-  - title: "How an Israeli Startup Is Using AI to Help People Make Babies"
-    excerpt: "The human eye can only see so much, and despite embryologists’ efforts to select the “best” embryo, IVF success rates are still relatively low."
-    publishedDateTime: 2021-01-27T15:00:00Z
-    webUrl: "https://singularityhub.com/2021/01/27/how-an-israeli-startup-is-using-ai-to-help-people-make-babies/"
-    ampWebUrl: "https://singularityhub.com/2021/01/27/how-an-israeli-startup-is-using-ai-to-help-people-make-babies/amp/"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/01/27/how-an-israeli-startup-is-using-ai-to-help-people-make-babies/amp/"
+  - title: "How Could AI, AR, and VR Change Healthcare?"
+    excerpt: "This article sheds light on the healthcare industry's evolution over the period while incorporating new technologies to enhance the healthcare sector's operations."
+    publishedDateTime: 2021-01-27T11:12:00Z
+    webUrl: "https://elearning.adobe.com/2021/01/how-could-ai-ar-and-vr-change-healthcare/"
     type: article
     provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 57
+      name: Adobe Systems
+      domain: adobe.com
+    quality: 54
     images:
-      - url: "https://singularityhub.com/wp-content/uploads/2021/01/IVF-babies-AI-embryonics-sperm-egg.jpg"
-        width: 1068
-        height: 601
+      - url: "https://elearningimages.adobe.com/files/2021/01/doctor-4187242_1920-500x322.jpg"
+        width: 500
+        height: 322
         isCached: true
-  - title: "Here’s how artificial intelligence can help improve your quality of hearing"
-    excerpt: "A recent device that has become a popular choice for patients with hearing loss is digital hearing aids, also known as artificial intelligence aids (AI). AI refers to smart devices and machines that are proficient in performing tasks that usually require human intelligence."
-    publishedDateTime: 2021-01-28T21:12:00Z
-    webUrl: "https://www.woodtv.com/wotv4women/the-crew/hearing/heres-how-artificial-intelligence-can-help-improve-your-quality-of-hearing/"
-    ampWebUrl: "https://www.woodtv.com/wotv4women/the-crew/hearing/heres-how-artificial-intelligence-can-help-improve-your-quality-of-hearing/amp/"
-    cdnAmpWebUrl: "https://www-woodtv-com.cdn.ampproject.org/c/s/www.woodtv.com/wotv4women/the-crew/hearing/heres-how-artificial-intelligence-can-help-improve-your-quality-of-hearing/amp/"
+  - title: "The Role AI Plays in Safeguarding Government Data"
+    excerpt: "Government agencies need to pivot to better filter and monitor incoming threats and data with velocity, efficiency and optimization."
+    publishedDateTime: 2021-01-25T18:11:00Z
+    webUrl: "https://www.nextgov.com/ideas/2021/01/role-ai-plays-safeguarding-government-data/171602/"
     type: article
     provider:
-      name: WOOD-TV
-      domain: woodtv.com
-    quality: 57
+      name: Nextgov
+      domain: nextgov.com
+    quality: 37
     images:
-      - url: "https://www.woodtv.com/wp-content/uploads/sites/51/2021/01/GettyImages-856556294.jpg?w=1280"
-        width: 1280
-        height: 1337
+      - url: "https://cdn.nextgov.com/media/img/upload/2021/01/25/NGalert20210125/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Sharecare acquires doc.ai to expand engineering expertise, accelerate digital transformation of healthcare through innovative AI platform"
+    excerpt: "Sharecare, the digital health company that helps people manage all their health in one place, today announced it has entered into a definitive agreement to acquire doc.ai, an enterprise artificial intelligence (AI) platform accelerating digital transformation in healthcare."
+    publishedDateTime: 2021-01-29T08:50:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-medical-technology-f093e8793a77d261cd22c39aefb766f7"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 21
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "p/0tz8xlrSkTdoqWHWSUfXFxtycfxNvHu3BLIgfOXp0D+JBi4dtDGFH1nUciYAzy3EYH5jk+hP+CBPCj1fr3zqBMRpr42qWeDJc80FKf/5foIRz5uCaFNxwgBfJtNCHU6LLaL42dWp5v8a83k+fsSsVliJYgqppyBlZDOkdpT0JQud7ldMMdJ4MnM3pHNpglXKyHaO11esZSfiHe+lExQKe3KpKuUirkQqYeHlVgJnyxKkizGZb7m2ihOV84VzifHd6ynizZysN3eL7AhkfWMOC8DiRrMW03wf2FGsZp1wdeK73NtMNh+moqGgh4g6ChYDVqRHFYJj70y9A4ckdjkzZxBVvO+nlOyoWsQHKU2lK0NCZoNENRKPixqAjbq46KlEJdc4foqsgvL3mrzdxwUNMz/Nru79q+tZ97KQM69fF0TYxO9VaeeksjS4O24Yf+7KyJOrnRR16GKPl5GY6MBTeUmBgWrbm1UrymogOzx9JZNJ236oNsCnQpMqwlz+lj2ZSsnwGBB7H/hg8P8zM7QA==;Ct68CP50lNQMOCs9MtBvow=="

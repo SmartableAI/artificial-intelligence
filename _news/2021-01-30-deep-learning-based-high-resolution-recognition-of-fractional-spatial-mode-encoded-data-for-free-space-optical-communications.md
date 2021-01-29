@@ -493,7 +493,7 @@ related:
     provider:
       name: Nature
       domain: nature.com
-    quality: 13
+    quality: 15
     images:
       - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-82135-1/MediaObjects/41598_2021_82135_Fig1_HTML.png"
         width: 535
@@ -514,6 +514,6 @@ related:
         height: 415
         isCached: true
 
-secured: "Ou2TwjQdIB6ulHPm7S23DOp9wfu8jM4av1DMJr/rF79euP949C6Xu3MeMetGvwZsfKBKQfDrsv6q/luQsTeHNpIqDv2gD0FOM1iQQhzny9RofPiXv0uTYBhZb0uXZaNd+CgnhAIyLYnVZFaRlvRfas9YYPQ7+gBNLOEf2dmLY2rgfEeILnoyGXKniqduAKzIaeI/Okr2OixRcclMh+gh+2UJykXm2/7zJp/YXLp93vYdTz652KU7bD25yg9JBtZiayl3bba25j967ykOJ703d17umcZE5Jga4cf7xUjb1i1Jvr5LdtmEUpnNiO5WyKflf3pB3aLP7EsFNupvJpvdRCEE206ciYecKZEN/lSeDOQ=;P4AzaA4Kjz7CR1zOW2VBJg=="
+secured: "a+Gr3b+AeXLyTqxpjz4JeeovB0XXKNJCluhcLinu+/J4uxQDhfMm0vAvLmhJ9yQxencIchpMP/LwC9Esd4Bq/s5W9wsckKUNOm/+ZhiJHRGYq5Ofqv8WrCFTgmtLkezjup/wTWekTmo6EuJ6+V+2ISWRY3f1uKIKVzjxwrIegE+o64N7tV9Wi2yC9uAJv/zcW0uJt84nfQGSMOX+di4kDkt8DFH25qz4jX57/rgagKLNX1WDuikpdEpSJzHgZjXQITu+KjGNpRbQONpLjceaMtH8zY478/Tn7rqJ9WPinsxLnfzGoPExeMp0EdTxUa6ebVhxdOFX/ty+6eTUSX29VdYiyEklNgMsdieqIHs0fpsSqPj92fdzm1wZ2MaQmWWW+eopM0vdy34hSsi3FXivEWKoZg1huGfB3Ja0gdJBJEh5HVtcMtO2NsbccuZ9DdZ2unsKAzMitEhGldkF7NjN6epIuRfcBHY190quD7xwAUNjAUHEcOBDi+DfXwKvk3O/yzOH3f/yzUB0sij+9Zz2VA==;X2FZemyWdbZt17r6GCS0WQ=="
 ---
 

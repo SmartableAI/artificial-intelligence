@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-11-30-abu-dhabis-ai-university-appoints-academic-eric-xing-as-president.md",
-      "title": "Abu Dhabi’s AI university appoints academic Eric Xing as president",
-      "excerpt": "Abu Dhabi’s Mohamed bin Zayed University of Artificial Intelligence (MBZUAI ... and a visiting research professor at Facebook. He has authored or contributed to more than 370 research papers ...",
-      "sourceUrl": null,
-      "webUrl": "https://gulfbusiness.com/abu-dhabis-ai-university-appoints-academic-eric-xing-as-president/",
-      "originalUrl": "https://gulfbusiness.com/abu-dhabis-ai-university-appoints-academic-eric-xing-as-president/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gulfbusiness.com/wp-content/uploads/2020/11/Dr.-Eric-Xing.jpg",
-          "width": 855,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-29T22:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf Business",
-        "domain": "gulfbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-30-artificial-intelligence-machine-learning-what-do-they-mean.md",
       "title": "Artificial Intelligence & Machine Learning – What Do They Mean?",
       "excerpt": "There was a time when we heard terms like Artificial Intelligence and Machine Learning only in sci-fi movies. But",

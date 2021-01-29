@@ -7,7 +7,7 @@ originalUrl: "https://www.pressherald.com/2021/01/28/colby-college-announces-dav
 webUrl: "https://www.pressherald.com/2021/01/28/colby-college-announces-davis-institute-for-artificial-intelligence/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Colby College to start artificial-intelligence institute"
+    excerpt: "A Maine college is working to establish an institute for artificial intelligence that it said would be the first of its kind at a liberal arts college. The Davis Institute for Artificial Intelligence will \"provide new pathways for talented students and faculty to research,"
+    publishedDateTime: 2021-01-29T22:51:00Z
+    webUrl: "https://www.mcdonoughvoice.com/story/business/2021/01/29/colby-college-start-artificial-intelligence-institute/4317104001/"
+    ampWebUrl: "https://amp.mcdonoughvoice.com/amp/4317104001"
+    cdnAmpWebUrl: "https://amp-mcdonoughvoice-com.cdn.ampproject.org/c/s/amp.mcdonoughvoice.com/amp/4317104001"
+    type: article
+    provider:
+      name: The McDonough County Voice
+      domain: mcdonoughvoice.com
+    quality: 42
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/28/NMCV/e1c28a21-9212-4291-bc6c-62eb82fa84e7-1_Art_Project.jpg?crop=800,800,x180,y0"
+        width: 800
+        height: 800
+        isCached: true
   - title: "Colby College to start artificial-intelligence institute"
     excerpt: "A Maine college is working to establish an institute for artificial intelligence that it said would be the first of its kind at a liberal arts college. The Davis Institute for Artificial Intelligence will “provide new pathways for talented students and faculty to research,"
     publishedDateTime: 2021-01-29T15:36:00Z

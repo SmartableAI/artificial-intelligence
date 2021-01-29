@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "US leads AI race with China close behind"
-    excerpt: "The US is leading rivals in development and use of artificial intelligence while China is rising quickly and European Union is lagging, a research report showed Monday. The study by the Information Technology and Innovation Foundation assessed AI using 30 separate metrics including human talent,"
-    publishedDateTime: 2021-01-25T06:45:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/business/2021/01/25/us-leads-ai-race-with-china-close-behind/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 19
 
 secured: "Wd7iRcn/MrcytsRxSWCkqqEtV2ou+H1z8rTPobDnXSlN4aSKunwZrnPn8S3SbFxgfDo4WwgRJKv12ANIbDZCDDaenMhy4vuS1yP/YXKbgjtrcQcUFhBZvIEoSCLFibozAEr3Fl3jIIUf+gIr/NPhCxcl4hdx7lQ5ZwF5n4sM5LY9Bu8saCayxBLidx+CgfUw/Ipmek4kVHLu1lxJX+ZgXa9m8or/6kN75Hn+fm+AFQTaXkwy4w+/zXsfhNOYh/zT/glCisiTcleMc/QMJ9EDDmJhdbX17+ngRq+rIjwM7sMUgwBKjjt8pgQqfHrrjaLNxrgc45E7uwrZ3ti1YY++ik4BqtNE1Wyyina3wxmUdbanvgu13KZ2KmmIbsbnd3K4voEYJQWuIz4Fx3ddxnWSHie2ARGkMWqjJGm6x8tmqquA+iCj28CYRsxfF7EtbUIFECmqmpSmcIFL9iZXumzC6Y3kQqS4AaHPF62GGEIw4LRSjQ+9U663WvFarE/qDzv/NLH3+WulebW8v9EqhtcUzg==;pn+3HQg4apCdldCp5oH5kg=="
 ---

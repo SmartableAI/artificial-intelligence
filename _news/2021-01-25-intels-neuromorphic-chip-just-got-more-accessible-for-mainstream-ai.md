@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextplatform.com/2021/01/25/intels-neuromorphic-chip-jus
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/01/25/intels-neuromorphic-chip-just-got-more-accessible-for-mainstream-ai/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/photon.jpg"
         width: 1920
         height: 1280
+        isCached: true
+  - title: "Photonics for artificial intelligence and neuromorphic computing"
+    excerpt: "Photonics offers an attractive platform for implementing neuromorphic computing due to its low latency, multiplexing capabilities and integrated on-chip technology."
+    publishedDateTime: 2021-01-29T21:24:00Z
+    webUrl: "https://www.nature.com/articles/s41566-020-00754-y"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 37
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41566-020-00754-y/MediaObjects/41566_2020_754_Fig1_HTML.png"
+        width: 685
+        height: 412
         isCached: true
 
 secured: "QpIzV6Fsn09YpxhhUfiXcILAmmHjYnQoq7ofncjJyDdR2dKqilOVmdESohd0BINGS7Az/8JE46KVyrFNv3xGb3ye9GJtch0uilS4ItYW1yCzXkvlxto0iIPvdlXhfsa0pfbST8Iw9BXsXXi2WCIn3em6oLmeO73qt5g6lTx36SGoCOdCUCcP/iGTvWgnVgxz5vGxVUX8oYPW837BVgxPhhaYZK2X6LoJSSa3VweNfZUOOjbtCu7rpNoKa7H4FCUS5xpY0v9eSxuDtTlC5AINcnMSfOb8Fi+ZGJyjs/Yzi4H7SEHRBQSWld5iaDU2tYibjp4enrTwhltwcJd65rdMc84Fi19e1Au/fcUjEi6SOniOx85kjW3sIPLV6/LlQHA1hPdGhVsPPCdDPMU+AcIXeGljhi04Tcywr78mKBbIHiP99+eD+zs7u6Q2HZIfpNZPPYnCDoJU0XuYf2SuHEeKAbfx17X5Q+oQbqvAfO7GCkUlhtEF0RvOuqqQulifinGpGyN5BTZU2oPJRYpTafsIVQ==;fF9dMTCRtQVBvzZpkz4ejQ=="

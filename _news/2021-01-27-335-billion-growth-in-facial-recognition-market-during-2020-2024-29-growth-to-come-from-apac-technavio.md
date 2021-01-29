@@ -7,7 +7,7 @@ originalUrl: "https://www.businesswire.com/news/home/20210127005617/en/3.35-Bill
 webUrl: "https://www.businesswire.com/news/home/20210127005617/en/3.35-Billion-Growth-in-Facial-Recognition-Market-During-2020-2024-29-Growth-to-Come-from-APAC-Technavio"
 type: article
 quality: 1
-heat: 1
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,22 @@ topics:
   - Computer Vision
   - AI
   - Natural Language Processing
+
+related:
+  - title: "Global facial recognition market to grow by over $3.3B in next five years"
+    excerpt: "The global market for facial recognition is forecast to reach $7.75 billion by 2024 following a 12 percent CAGR from 2020, according to a new Technavio report."
+    publishedDateTime: 2021-01-29T22:09:00Z
+    webUrl: "https://www.biometricupdate.com/202101/global-facial-recognition-market-to-grow-by-over-3-3b-in-next-five-years"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 38
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
+        width: 730
+        height: 499
+        isCached: true
 
 secured: "/KNn9Q2UrWywbD0mvMxKv5omtmAL3t5FRyH4mMb+uWSHqXaQ3iOR93YvHIYVgRRGE66tvOcg0mJI7/M7bgI0lgE/wc6+nSbo3ltce/4IMYObO+6En2i5uR9tApmko4owJZZCAoIDqUHmlEpNSelqF6al2EyO8x0Y4xp4i2QEhIKBZaLJ3BHtWQI7C3i2lsUf0CHsNyJKaxK2cCBmL1aU2zxZ4gpENcEZn8eU8rNIpKKFlCI+hoLfN5SdENGuKevKmDnvlWIju54QYxaUuPaoz+bFpVJjBJZwR7wA8jvmVxiItcES3gqofrcKk0+XA2270qs7HM+5kIzPEE1UoW5zF7iJ5sk80M8s5kPwZVuRJYSX8McYArANlr8YsiIVOttVLL2SjB69mUcD6ktNmBDg/QXF7zXlb9EepDoGj6w0AOc9l0Ot5wnEL5WrP8xfhMoLKNq8vtuAChLt3V2ExLH7y6m4XBvKUYqRXU29WWf3HDmLQ+cSAOXzHRP2dA/ntdKJDT04GOCs7rErJLwgM7uLjg==;+zMSHJnIEiau0L8kKD3ZpA=="
 ---
