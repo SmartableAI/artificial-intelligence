@@ -6,8 +6,8 @@ publishedDateTime: 2021-01-28T21:33:00Z
 originalUrl: "https://www.discovermagazine.com/the-sciences/fruit-fly-brain-network-hacked-for-language-processing"
 webUrl: "https://www.discovermagazine.com/the-sciences/fruit-fly-brain-network-hacked-for-language-processing"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://images.ctfassets.net/cnu0m8re1exe/7qiurOYVouUMu2yuj7rqfU/352099944644717a8cdf5a484c9a5a42/shutterstock_134872160.jpg?w=650&h=433&fit=fill"
@@ -24,6 +25,6 @@ images:
     height: 433
     isCached: true
 
-secured: "cA2L1692R3x8eiiwksp8hNhVHTuwk+kyPYJSvcUzPhz6kkm1n3HHs8PXCTbFx1ROo6lR8xbhwr/3fWJS75G56zCiTOU5RZxkqQrjXwkyVD9sM6UreFhld1Suh5HPxvzWZPFSeU7ohU4As55cOyoLfK1YONvck0QMoRs9vw98wfcs5T1TeAZQvImkuqiug2RsZUwSS1AbbDITiwXb5q/tZI+E1X34gTRP5zSVp0k48tPDMEB8zpwY2jYFug+0LFGUVOheHe1oLza+RE7uVUDLZBOaGUw3Gu5J8QKWM/sw7Erab2MhRzh3CyCHasKv/zyulN7gj/AMj8a2UdKK45nuhxZXcrHlMmtKRpTX4FtqJcc=;z/W6zrvuB9YnCUrUYQQfiQ=="
+secured: "Ra4M27mBW9Y65ryJwf9Sxb7maL7qxyXJRzKwlu1J9M/8NcVIxvrG4BdST3pJLi58BCQyPW4NLcXhYQXnLapr41K2AvrK3Iwbit5dcowXr2ARsaEB5meb68eQKsEwf1d9fKiv4fv8VafTftYiFsXz6Cml5vMxNRwG3+d4l0YVxrinBhBC1MHaJTYPBIAFeeNEcxbi1J0SV26ixFw4ZRbatDhc1xK2pEZxEDgiHKZfVYVt06BYsqYM+LlHGPIsXPgkzsXXTY0LTJz+QDreu6qmmJsYvm+9UUn46BZ+k+/D3Iotzs3h78vBy6Gai/9VYWQ3ris8jukQLAYW9UaW3gIFeXNfnhBAQMH2S66GTK6Vv3OfHRJHOzXblmlXPvVt46yOx/j0kgkQnaWiYUGyzF/CKGVmMsUHZ300Kx8WjGNf+BZpWAli9VlkR03IDZt+t3K1OkuqJvmvFYqUCpgoyRd7h3kxu+Fy7uKwYB27cOnCDbZllrEwW+2EzLVpgu3zL0ypajeCTHgTGyaw8xBhrghUdA==;HiqYcHkmEAgIvWpnJB8ZfQ=="
 ---
 

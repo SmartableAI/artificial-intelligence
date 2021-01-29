@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/at-362-cagr-artificial-i
 webUrl: "https://www.marketwatch.com/press-release/at-362-cagr-artificial-intelligence-ai-in-retail-market-size-to-surpass-usd-57230-million-by-2025-2021-01-28"
 type: article
 quality: 70
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
     excerpt: "Artificial Intelligence in Manufacturing Market is Segmented by Type (Deep Learning, Computer Vision, Context Awareness, NLP), by"
     publishedDateTime: 2021-01-28T13:30:00Z
     webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-in-manufacturing-market-size-is-usd-4798-million-by-2026-at-cagr-28-1--valuates-reports-301217278.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 28
+    images:
+      - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
+        width: 920
+        height: 482
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Manufacturing Market Size is USD 4798 Million by 2026 at CAGR 28.1% | Valuates Reports"
+    excerpt: "Artificial Intelligence in Manufacturing Market is Segmented by Type (Deep Learning, Computer Vision, Context Awareness, NLP), by"
+    publishedDateTime: 2021-01-29T00:00:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/artificial-intelligence-ai-in-manufacturing-market-size-is-usd-4798-million-by-2026-at-cagr-28-1-valuates-reports-869451771.html"
     type: article
     provider:
       name: PR Newswire

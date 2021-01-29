@@ -106,6 +106,38 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Facial recognition payments making a mark on world"
+    excerpt: "Facial recognition is happening in large parts of China, the US, Spain, Denmark and Nigeria as contactless payments look here to stay"
+    publishedDateTime: 2021-01-28T23:01:00Z
+    webUrl: "https://www.theceomagazine.com/business/innovation-technology/facial-recognition-payments/"
+    ampWebUrl: "https://amp.theceomagazine.com/business/innovation-technology/facial-recognition-payments/"
+    cdnAmpWebUrl: "https://amp-theceomagazine-com.cdn.ampproject.org/c/s/amp.theceomagazine.com/business/innovation-technology/facial-recognition-payments/"
+    type: article
+    provider:
+      name: The CEO Magazine
+      domain: theceomagazine.com
+    quality: 59
+    images:
+      - url: "https://static.theceomagazine.net/wp-content/uploads/2021/01/29095154/facial-recognition.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Human rights group urges New York to ban police use of facial recognition"
+    excerpt: "The technology has repeatedly come up short in tests for racial bias and has been restricted in other major cities across the US"
+    publishedDateTime: 2021-01-27T15:50:00Z
+    webUrl: "https://www.theguardian.com/technology/2021/jan/25/new-york-facial-recognition-technology-police"
+    ampWebUrl: "https://amp.theguardian.com/technology/2021/jan/25/new-york-facial-recognition-technology-police"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/jan/25/new-york-facial-recognition-technology-police"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 58
+    images:
+      - url: "https://i.guim.co.uk/img/media/85676a6a424d2da156a1e11b78fc593a1ac470e2/0_232_3853_2312/master/3853.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8f16457acdc97a5aa2b31edd5fe305b7"
+        width: 600
+        height: 360
+        isCached: true
   - title: "'Ban The Scan' Campaign Targets Facial Recognition Technology"
     excerpt: "A global campaign launched was launched Tuesday to ban facial recognition technology. Critics say it creates privacy issues and can contribute to racial profiling. CBS2's Natalie Duddridge reports."
     publishedDateTime: 2021-01-26T17:45:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/pc-hardware/artificial-intelligence-takes-ce
 webUrl: "https://www.eweek.com/pc-hardware/artificial-intelligence-takes-center-stage-early-in-2021"
 type: article
 quality: 71
-heat: 101
+heat: 102
 published: true
 
 provider:

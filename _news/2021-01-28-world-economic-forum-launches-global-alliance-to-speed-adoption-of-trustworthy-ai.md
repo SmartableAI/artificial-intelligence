@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/01/28/world-economic-forum-launches-global
 ampWebUrl: "https://venturebeat.com/2021/01/28/world-economic-forum-launches-global-alliance-to-speed-adoption-of-trustworthy-ai/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/28/world-economic-forum-launches-global-alliance-to-speed-adoption-of-trustworthy-ai/amp/"
 type: article
-quality: 82
-heat: 102
+quality: 84
+heat: 104
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2019/05/world-economic-forum.jpeg?w=1200&strip=all"

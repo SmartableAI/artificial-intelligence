@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 819
         isCached: true
+  - title: "AI holds the key to even better AI"
+    excerpt: "The task of creating effective deep learning models has become too much of a challenge for humans to tackle alone."
+    publishedDateTime: 2021-01-29T00:12:00Z
+    webUrl: "https://venturebeat.com/2021/01/28/ai-holds-the-key-to-even-better-ai/"
+    ampWebUrl: "https://venturebeat.com/2021/01/28/ai-holds-the-key-to-even-better-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/28/ai-holds-the-key-to-even-better-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/AI.jpg?w=1200&strip=all"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "Indian consumers feel AI drives better consumer experiences: Pega survey"
     excerpt: "Indian consumers were more trusting of new technologies like AI if they see the potential to improve their productivity and make things simpler."
     publishedDateTime: 2021-01-28T08:45:00Z

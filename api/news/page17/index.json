@@ -2,6 +2,50 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-01-14-electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker.md",
+      "title": "ElectrifAi Announces Expansion of Machine Learning Model Offerings for Amazon SageMaker",
+      "excerpt": "ElectrifAi, one of the world’s leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models, today announced expanded offerings of pre-built and pre-structured ML models for Amazon SageMaker, including models ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.suasnews.com/2021/01/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker/",
+      "originalUrl": "https://www.suasnews.com/2021/01/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/www.suasnews.com/wp-content/uploads/2021/01/electrifi-scaled.jpg?fit=2560%2C1340&ssl=1",
+          "width": 2560,
+          "height": 1340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.suasnews.com/2021/01/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker/amp/",
+      "cdnAmpWebUrl": "https://www-suasnews-com.cdn.ampproject.org/c/s/www.suasnews.com/2021/01/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker/amp/",
+      "publishedDateTime": "2021-01-13T21:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SUAS News",
+        "domain": "suasnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-01-14-chinese-drone-firm-dji-builds-team-to-work-on-self-driving-tech.md",
       "title": "Chinese drone firm DJI builds team to work on self-driving tech",
       "excerpt": "China’s SZ DJI Technology Co, the world’s largest drone maker, is building an engineering team to work on self-driving technologies, according to job posts and people familiar with the company’s strategy.",
@@ -1122,40 +1166,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-qualcomm-to-snap-up-chip-startup-nuvia-for-14b.md",
-      "title": "Qualcomm To Snap Up Chip Startup Nuvia For $1.4B",
-      "excerpt": "Qualcomm has clinched a deal to buy chip startup Nuvia for about $1.4 billion, to help the supplier of mobile phone chips meet the demands of next-generation 5G computing.  With this acquisition, Qualcomm (QCOM) will be able to put Nuvia’s processors into its portfolio of products,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/qualcomm-to-snap-up-chip-startup-nuvia-for-%241.4b-2021-01-13",
-      "originalUrl": "https://www.nasdaq.com/articles/qualcomm-to-snap-up-chip-startup-nuvia-for-%241.4b-2021-01-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/qualcomm-to-snap-up-chip-startup-nuvia-for-%241.4b-2021-01-13?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/qualcomm-to-snap-up-chip-startup-nuvia-for-%241.4b-2021-01-13?amp",
-      "publishedDateTime": "2021-01-13T07:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

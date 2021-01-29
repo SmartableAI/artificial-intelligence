@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/25/researchers-propose-leaf-a-fronte
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/25/researchers-propose-leaf-a-frontend-for-developing-ai-classification-algorithms/amp/"
 type: article
 quality: 82
-heat: 83
+heat: 82
 published: true
 
 provider:

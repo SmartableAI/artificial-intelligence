@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/28/verusen-raises-8-million-to-recon
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/28/verusen-raises-8-million-to-reconcile-supply-chain-data-using-ai/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Verusen raises $8 million to reconcile supply chain data using AI – Jaweb"
+    excerpt: "Atlanta, Georgia-based Verusen, a startup leveraging AI to build a connected supply chain, today raised $8 million in series A funding co-led by Forte Ventures and Flyover Capital. The company says it’ll put the funds toward R&D as it expands the size of its workforce."
+    publishedDateTime: 2021-01-29T00:01:00Z
+    webUrl: "https://elmoudjaweb.com/verusen-raises-8-million-to-reconcile-supply-chain-data-using-ai-jaweb/"
+    ampWebUrl: "https://elmoudjaweb.com/verusen-raises-8-million-to-reconcile-supply-chain-data-using-ai-jaweb/?amp"
+    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/verusen-raises-8-million-to-reconcile-supply-chain-data-using-ai-jaweb/?amp"
+    type: article
+    provider:
+      name: Elmoudjaweb
+      domain: elmoudjaweb.com
+    quality: 56
+    images:
+      - url: "https://elmoudjaweb.com/wp-content/uploads/2021/01/Verusen-raises-8-million-to-reconcile-supply-chain-data-using.jpg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Atlanta startup Verusen raises $8M for innovating supply chain with AI"
     excerpt: "Atlanta startup Verusen raised an $8 million Series A round to use artificial intelligence and machine learning to make supply chains more efficient, according to a Jan. 28 announcement . Forte Ventures and Flyover Capital co-led the round with participation from BMW i Ventures,"
     publishedDateTime: 2021-01-28T19:13:00Z
@@ -56,6 +72,6 @@ related:
       domain: bizjournals.com
     quality: 17
 
-secured: "qsVt3vOCKmAcOHbPbVnlsI0YfoCVpphuM6dWRY08ip30U1yGeaGSlx6vDmEHGl8d2Pds5qL/M8F2IYmLELz302B9OCA8ZoL5kEGxfpKrvsVV073MA6IIE2Tw01psUtsCvK8VhQkYQazkUjfQaaDITsFBKOFJXF1mkm+AXd+9+K43zO/74BmCLOA/J3Iay74svJ0y51N1U/7QLuhdsKdABikl0U2Req9BSpXPZnYy/HrwUvFBH73Y8Y6VlB20XFxWGcnH/ZMNp11TxoTCerMG5vnSiavM84FAb1B0mFRGx81Fbyt5BteAtS66/FUZuLhWlJIU4CAqzU7nXwlNyUlZKhsA44aKViU4Ql/y2gH7fZ8=;KAdW/y1D6I2cVesJkMFqGQ=="
+secured: "vRiXagKC0Tw2uuik/hUoYrn++Cl+UFvYMA9mFMHW+pYvuJyWJwsvt5SneS8EYmvC/BJ/Lme/7UwU+VOvnCTpMjeBJYfgUAz9Grv63z5DqUzPLxnzuDCSf7vzKZmGc6PFBEW/oHfyvczW3dUXc/3+dcBpMeNA5qlP+LP/2PNHTUz+cC8ItBdOVLxQWsY7uQu0z/WxK6l3FbtzCJCyq0OjKikJ6HziYn0r7oqJieY3SuNwR7zhLSpm8y7oQAGpz6FlR7TzWMJPAVh97Rq7C1/SY4EBm8eBt0n9T12XLczpSadmOpl+dgLOQm6+eVya21SFvTgGqvTfDfxA6e04e2vFlxmb1lc38rBRJ7X1gO0HELz/9cDimnq+BAD3q+RE4E7upF+3PIlpnW/eGRZQHG4lcHweAui+5kTKQHqFZYA2xDalwpERWBNpi0eSYHdiQSUVe8J1m4qCa7BR5M6ag3xOnXmffnFVYU9wxGWE9LnejRKEducJptdRq5i72Q0Wz62RqicIdlbFIpHf2kDVJ5RqCw==;hXetlT4ErRJTwASbiTFclA=="
 ---
 

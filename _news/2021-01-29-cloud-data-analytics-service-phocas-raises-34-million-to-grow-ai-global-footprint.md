@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Verusen raises $8 million to reconcile supply chain data using AI – Jaweb"
+    excerpt: "Atlanta, Georgia-based Verusen, a startup leveraging AI to build a connected supply chain, today raised $8 million in series A funding co-led by Forte Ventures and Flyover Capital. The company says it’ll put the funds toward R&D as it expands the size of its workforce."
+    publishedDateTime: 2021-01-29T00:01:00Z
+    webUrl: "https://elmoudjaweb.com/verusen-raises-8-million-to-reconcile-supply-chain-data-using-ai-jaweb/"
+    ampWebUrl: "https://elmoudjaweb.com/verusen-raises-8-million-to-reconcile-supply-chain-data-using-ai-jaweb/?amp"
+    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/verusen-raises-8-million-to-reconcile-supply-chain-data-using-ai-jaweb/?amp"
+    type: article
+    provider:
+      name: Elmoudjaweb
+      domain: elmoudjaweb.com
+    quality: 56
+    images:
+      - url: "https://elmoudjaweb.com/wp-content/uploads/2021/01/Verusen-raises-8-million-to-reconcile-supply-chain-data-using.jpg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Atlanta startup Verusen raises $8M for innovating supply chain with AI"
     excerpt: "Atlanta startup Verusen raised an $8 million Series A round to use artificial intelligence and machine learning to make supply chains more efficient, according to a Jan. 28 announcement . Forte Ventures and Flyover Capital co-led the round with participation from BMW i Ventures,"
     publishedDateTime: 2021-01-28T19:13:00Z

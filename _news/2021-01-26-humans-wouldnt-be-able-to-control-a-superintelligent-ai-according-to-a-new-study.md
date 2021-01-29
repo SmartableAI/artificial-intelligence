@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/mankind-will-not-be-able-to-control-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mankind-will-not-be-able-to-control-artificial-intelligence-according-to-study?amp"
 type: article
 quality: 83
-heat: 105
+heat: 103
 published: true
 
 provider:

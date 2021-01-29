@@ -2,6 +2,58 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-01-11-samsung-reveals-smarter-family-hub-fridge-and-a-robo-vac-that-thinks-its-a-guard-dog.md",
+      "title": "Samsung reveals smarter Family Hub fridge and a robo-vac that thinks it’s a guard dog",
+      "excerpt": "Samsung’s big Galaxy S21 launch may be coming later this week, but it’s home appliances which are getting their moment in the spotlight today. Fresh for CES 2021 are updates in the",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/samsung-reveals-smarter-family-hub-fridge-and-a-robo-vac-that-thinks-its-a-guard-dog-11654348/",
+      "originalUrl": "https://www.slashgear.com/samsung-reveals-smarter-family-hub-fridge-and-a-robo-vac-that-thinks-its-a-guard-dog-11654348/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/01/samsung-ces-2021-home-appliances-1.jpg",
+          "width": 1680,
+          "height": 1050,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/samsung-reveals-smarter-family-hub-fridge-and-a-robo-vac-that-thinks-its-a-guard-dog-11654348/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/samsung-reveals-smarter-family-hub-fridge-and-a-robo-vac-that-thinks-its-a-guard-dog-11654348/amp/",
+      "publishedDateTime": "2021-01-11T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-11-samsungs-new-washers-and-dryers-use-ai-to-clean-your-clothes-more-efficiently.md",
       "title": "Samsung's new washers and dryers use AI to clean your clothes more efficiently",
       "excerpt": "Samsung announced a new series of front-load washers and dryers that use artificial intelligence to reduce the time it takes to clean your clothes. The new models are part of the Samsung 8800 Series that sit near the top of the 2021 range and will be the only models to use the new AI-powered Optiwash mode.",
@@ -1148,58 +1200,6 @@
         "AI",
         "Machine Learning",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-cognitive-services-platform-market-emerging-players-growth-analysis-and-forecast-by-2023.md",
-      "title": "Cognitive Services Platform Market: Emerging Players, Growth, Analysis and Forecast by 2023",
-      "excerpt": "In the research report, Market Research Future (MRFR), emphasizes that the Global Cognitive Services Platform Market 2020",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cognitive-services-platform-market-emerging-players-growth-analysis-and-forecast-by-2023-2021-01-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-services-platform-market-emerging-players-growth-analysis-and-forecast-by-2023-2021-01-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-10T20:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

@@ -37,7 +37,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 82
+    quality: 84
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2019/05/world-economic-forum.jpeg?w=1200&strip=all"
         width: 1200

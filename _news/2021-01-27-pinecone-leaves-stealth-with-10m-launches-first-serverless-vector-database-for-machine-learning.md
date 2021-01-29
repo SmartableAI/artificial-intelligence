@@ -2,28 +2,28 @@
 category: news
 title: "Pinecone leaves stealth with $10M, launches first serverless vector database for machine learning"
 excerpt: "PineconeSystems Inc., a machine learning (ML) cloud infrastructure company, left stealth today with $10m in seed funding. The investment was led by Wing Venture Capital, and Wing's Founding Partner, Peter Wagner,"
-publishedDateTime: 2021-01-27T15:09:00Z
-originalUrl: "https://www.lelezard.com/en/news-19620012.html"
-webUrl: "https://www.lelezard.com/en/news-19620012.html"
+publishedDateTime: 2021-01-27T15:13:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-1030010484"
+webUrl: "https://markets.businessinsider.com/news/stocks/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-1030010484"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-1030010484"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-1030010484"
 type: article
-quality: 28
+quality: 58
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Finance
+  - AWS AI
   - AI
   - Machine Learning
-
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
-    isCached: true
 
 related:
   - title: "Pinecone lands $10M seed for purpose-built machine learning database"
@@ -43,8 +43,8 @@ related:
         height: 684
         isCached: true
   - title: "Pinecone, a serverless vector database for machine learning, leaves stealth with $10M funding"
-    excerpt: "Machine learning applications understand the world through vectors. Pinecone, a specialized cloud database for vectors, has secured significant investment from the people who brought Snowflake to the world."
-    publishedDateTime: 2021-01-27T15:06:00Z
+    excerpt: "Built by the team behind Amazon SageMaker. Having attracted investment by Wing Venture Capital, with Wing's Founding Partner and early Snowflake investor, Peter Wagner, joining startup Pinecone's ..."
+    publishedDateTime: 2021-01-27T15:03:00Z
     webUrl: "https://www.zdnet.com/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/"
     ampWebUrl: "https://www.zdnet.com/google-amp/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/"
     cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/"
@@ -101,6 +101,6 @@ related:
         height: 315
         isCached: true
 
-secured: "iVeUOgK1YrZD6KUQ/FM2MdsCTrFBU2ZmiBPSEiexJ+SMefzKAVrlLE2MKEN4Cz+1mqzlK+i6IjddCBTx5PpHcATx/2SnfpDDxAmZFZt2ZhJgFnpPxIU/t60iwTRRts2HI78O4bcNhMoM+cZyYQVuL2gf7Bryinhj64dvisPPTSa6C1tWRJIDe5TvmEF5EcN5VS7kPzU/+sXHtGeUjaZotbR3VDm+AQchbZgLxKqTG+8n7OdZgdEDvsw0R4nmPCxpdMeI3LQRMM0TSMGoRVls16VDVwGs5hkEIFh4izFQEEzsgFk0m+UIKB3VX5CqfLtGBGOBW/7Ca3cdcFpdf3b6v2C8GFgQosMbZH4u62j6c5g=;17FghYkjoIX3GThMP7iDJw=="
+secured: "4mKR5WYEZ1QxEjQ/Qfn42mQ3NNVkBelRqXskwRGILXDezgLJIVf7oljArwP+o02/7JL7fqfuxDEAnYLO6qrio800NOgK5mTiK1bUNlbQp+izi2aXrDpnMzMvobkmC1TndQHr+cby7zLj6nBln/VX9cTr2ZQR2VMzx6sBOc99rn9n+0KBoq8NhwoeQxhU+pi4HLxpy1UPqzfUQvI1jhzys3v0ErI5JpBqSoVgwuJvDUP5OlgZEzEII2wlzCanvaAhxi/mPjZrK1CYRL0SSV/iuw8hwuAkQ0mvSdlQkPqREnvIsnM+8D9Bfz9jB5W1cwPNvrTIuRWoUDPJnuiWoZWOq1mmdSmzse1zEfkD5WK74bA=;Mz5skxiboqr9tAVEX3NzXQ=="
 ---
 

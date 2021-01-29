@@ -36,15 +36,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
-  - title: "AI fintech start-up looking to tackle small business late payments gets seed funding"
-    excerpt: "A fintech start-up that's looking to tackle the late payments epidemic, and ensure small businesses get paid on time, has raised seed funding. London-based Previse has bagged £2m in the round, which was led by Hambro Perks,"
-    publishedDateTime: 2021-01-26T11:59:00Z
-    webUrl: "https://startups.co.uk/news/ai-fintech-start-up-looking-to-tackle-small-business-late-payments-gets-seed-funding/"
-    type: article
-    provider:
-      name: Startups
-      domain: startups.co.uk
-    quality: 12
   - title: "Holt, a Leading Global Fintech Program, Awards a Financial Grant to AI-driven Risk Intelligence Platform Agryo, with the Support of Scale AI"
     excerpt: "Holt, a leading Global Fintech Program, has awarded a financial grant to Agryo, an AI-driven blockchain based risk intelligence platform,"
     publishedDateTime: 2021-01-26T15:56:00Z

@@ -26,11 +26,11 @@ images:
 
 related:
   - title: "Text-to-Speech Market worth $5.0 billion by 2026 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "According to the new market research report \"Text-to-Speech Market with COVID-19 Impact by Offering (Software, Services), Vertical (Enterpri"
+    excerpt: "According to the new market research report \"Text-to-Speech Market with COVID-19 Impact by Offering (Software, Services), Vertical (Enterprise, Consumer Electronics, Education, Retail), Deployment, Language,"
     publishedDateTime: 2021-01-28T18:31:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/text-to-speech-market-worth-5-0-billion-by-2026-exclusive-report-by-marketsandmarkets-1030015173"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/text-to-speech-market-worth-5-0-billion-by-2026-exclusive-report-by-marketsandmarkets-1030015173"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/text-to-speech-market-worth-5-0-billion-by-2026-exclusive-report-by-marketsandmarkets-1030015173"
+    webUrl: "https://markets.businessinsider.com/news/stocks/text-to-speech-market-worth-5-0-billion-by-2026-exclusive-report-by-marketsandmarkets-1030015164"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/text-to-speech-market-worth-5-0-billion-by-2026-exclusive-report-by-marketsandmarkets-1030015164"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/text-to-speech-market-worth-5-0-billion-by-2026-exclusive-report-by-marketsandmarkets-1030015164"
     type: article
     provider:
       name: Business Insider

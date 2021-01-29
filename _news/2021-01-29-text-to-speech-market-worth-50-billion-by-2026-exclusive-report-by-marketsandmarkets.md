@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Text-to-Speech Market worth $5.0 billion by 2026 - Exclusive Report by MarketsandMarkets™"
-excerpt: "According to the new market research report \"Text-to-Speech Market with COVID-19 Impact by Offering (Software, Services), Vertical (Enterpri"
+excerpt: "According to the new market research report \"Text-to-Speech Market with COVID-19 Impact by Offering (Software, Services), Vertical (Enterprise, Consumer Electronics, Education, Retail), Deployment, Language,"
 publishedDateTime: 2021-01-28T18:31:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/text-to-speech-market-worth-5-0-billion-by-2026-exclusive-report-by-marketsandmarkets-1030015173"
-webUrl: "https://markets.businessinsider.com/news/stocks/text-to-speech-market-worth-5-0-billion-by-2026-exclusive-report-by-marketsandmarkets-1030015173"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/text-to-speech-market-worth-5-0-billion-by-2026-exclusive-report-by-marketsandmarkets-1030015173"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/text-to-speech-market-worth-5-0-billion-by-2026-exclusive-report-by-marketsandmarkets-1030015173"
+originalUrl: "https://markets.businessinsider.com/news/stocks/text-to-speech-market-worth-5-0-billion-by-2026-exclusive-report-by-marketsandmarkets-1030015164"
+webUrl: "https://markets.businessinsider.com/news/stocks/text-to-speech-market-worth-5-0-billion-by-2026-exclusive-report-by-marketsandmarkets-1030015164"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/text-to-speech-market-worth-5-0-billion-by-2026-exclusive-report-by-marketsandmarkets-1030015164"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/text-to-speech-market-worth-5-0-billion-by-2026-exclusive-report-by-marketsandmarkets-1030015164"
 type: article
 quality: 45
 heat: 45
@@ -40,6 +40,6 @@ related:
         height: 229
         isCached: true
 
-secured: "DQIg1+T+09JVpFDvMwOkDwLNU08PuRxep48URY446SqUnv/fgEAwS6RyfS5QfI+TG/IW5kJRkbM7VDYQ1C30s6JtKFza1e+9ipp6a3GiGtnR0ZQsdMdZ2Yn8EIaLA84YaCCnG17tv7nPYexn5b6pJmgVNY3/qvaVSuU24MhlXjFmTNkC360BlcJfOF0hDtwEAZyKnD/IyH5qa4ZxT5oM3565I2BFQdRVy2uTpwplxplOKj/IyhaGPcoNO3XKTiiOjdl2bxzlHxhzTdmVfigjAVYxFpLwuR8CH8uQ4lel9MEA7/D5GVmshm7kRj+3ObTTQqR4Fl7QPW25xrQnvLslwJR71rhGGDvLpvdvQjhXh9I=;YfG4EA3mX5pok8QZS24Gtg=="
+secured: "F8NQopr78mV5Vai2Yjs4EU7ogGB100k+ptZBq+Mh7AIqdXRqimqybAyD4/B8qOsjVU7cBbrgVZoB/N/7BzeqXOeBfR2/rIatmyqAo0d0yUqRj3AeXy2Vg+/DRw6R8j5L6VoolXhMnMvADVn4h/kqDVdEMx1fNpeuZSEi5Bqg0CBY3rl2ReEgrMOwL8uxf68dfipXChJIC5eCaiW8VM7daZM6EsTAqSQIJdi+e12eFUOZ1GDrFYnl1jvhtzeColDLKtaLSEY847ntOwabTmpcF4Uq3z9lU0lvxugPhPZUf/nXRdL9g+cJe14b+wpCHag5q0vAiexSFXRrSBNtlF+r8XqlDeJCfztxZh9RmK7q1sM=;IppQhlhC3B+E1ngM5U9gAg=="
 ---
 
