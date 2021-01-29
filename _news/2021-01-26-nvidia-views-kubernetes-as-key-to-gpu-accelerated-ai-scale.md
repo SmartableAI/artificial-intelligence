@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Nvidia launches program for certified AI servers"
+    excerpt: "Nvidia is offering a certification program to steer customers and partners to buy GPU servers specifically tailored for artificial intelligence (AI) workloads from top-tier OEMs and ODMs. The program,"
+    publishedDateTime: 2021-01-29T11:03:00Z
+    webUrl: "https://www.networkworld.com/article/3605088/nvidia-launches-program-for-certified-ai-servers.html"
+    ampWebUrl: "https://www.networkworld.com/article/3605088/nvidia-launches-program-for-certified-ai-servers.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3605088/nvidia-launches-program-for-certified-ai-servers.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 59
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/12/nvidia-ampere-pcb-primary-100869709-large.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "NVIDIA Expands vGPU Software to Accelerate Workstations, AI Compute Workloads"
     excerpt: "Designers, engineers, researchers, creative professionals all need the flexibility to run complex workflows – no matter where they’re"
     publishedDateTime: 2021-01-28T16:05:00Z

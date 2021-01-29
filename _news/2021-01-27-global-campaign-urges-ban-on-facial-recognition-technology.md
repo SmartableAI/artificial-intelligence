@@ -320,6 +320,20 @@ related:
         width: 650
         height: 350
         isCached: true
+  - title: "Facial recognition screening for international travelers arrives at MSP"
+    excerpt: "New facial recognition technology to speed international travelers through customs has arrived at Minneapolis-St. Paul International Airport. A digital camera will snap a picture of an arriving passenger,"
+    publishedDateTime: 2021-01-28T22:27:00Z
+    webUrl: "https://www.startribune.com/facial-recognition-screening-for-international-travelers-arrives-at-msp/600016132/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 39
+    images:
+      - url: "https://chorus.stimg.co/22267005/1aaaaarivval.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "‘Ban the Scan’ - Groups call for city, state to outlaw facial recognition"
     excerpt: "Nearly a dozen leaders and groups came together Tuesday to call on the city and state to ban government use of facial recognition technology scanning, saying that it negatively impacts people of color."
     publishedDateTime: 2021-01-27T00:56:00Z
@@ -382,6 +396,20 @@ related:
       name: Biometric Companies
       domain: biometricupdate.com
     quality: 27
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing-1024x662.jpeg"
+        width: 1024
+        height: 662
+        isCached: true
+  - title: "Facial recognition regulation proposed in NJ, urged in NY; Chinese uncomfortable with status quo"
+    excerpt: "The legislation proposes a moratorium on biometrics collection by state agencies, and restrictions on private sector use of facial recognition technology."
+    publishedDateTime: 2021-01-27T20:00:00Z
+    webUrl: "https://www.biometricupdate.com/202101/facial-recognition-regulation-proposed-in-nj-urged-in-ny-chinese-uncomfortable-with-status-quo"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 26
     images:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing-1024x662.jpeg"
         width: 1024

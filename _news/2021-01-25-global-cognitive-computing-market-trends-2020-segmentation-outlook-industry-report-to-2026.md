@@ -43,6 +43,28 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence In Remote Patient Monitoring Market Research Report - Global Forecast to 2025 - Cumulative Impact of COVID-19"
+    excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence In Remote Patient Monitoring Market"
+    publishedDateTime: 2021-01-29T10:39:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19388228/artificial-intelligence-in-remote-patient-monitoring-market-research-report-global-forecast-to-202"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19388228"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19388228"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 8
+  - title: "Artificial Intelligence In Diagnostics Market Research Report by Component, by Type - Global Forecast to 2025 - Cumulative Impact of COVID-19"
+    excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence In Diagnostics Market Research Report by"
+    publishedDateTime: 2021-01-29T10:49:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19388407/artificial-intelligence-in-diagnostics-market-research-report-by-component-by-type-global-forecast"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19388407"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19388407"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 4
 
 secured: "0UWx5EixX7cF4UG9l2RRhVV60+VZkpgkcoDuDrtrrHGPyJZOYF7v4N1DT29bRAX1zmBta6pUWjloKGYgrAIvQsEVrulG2B21AyT1hYULWH6xGac/p2/STGouTzfEv55+wWfnt+Pn3gvoXvLPlXFX/H3FEDHqkBAyfH36le7yGtysH97ynf5bjufCMBIHbqNJyD3CXx5SNfwwsg/GyB8KoemQlNNoiSNDkr6JCCNvTIIE/5Y1yjqdRxX/4yUhMgOUphJ0XjIKzZ0VPiLxw+v+HgRIpjdylsg1GSWWvjCjFgSV9Y8OAopVvlqUUwomMVh92/1jLp+NqdGP/HHV1bLQc3VdBTiBpoyLnd6voYl7iLE=;vfb7tlJlmOdKAtWAEN8D5Q=="
 ---

@@ -129,6 +129,22 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "University Of Southern California and Amazon establish Center For Secure And Trusted Machine Learning"
+    excerpt: "The expectation is that the center will unleash a new line of fundamental research on privacy and security aspects of machine learning –given the proliferation of artificial intelligence across all aspects of society from education to finance,"
+    publishedDateTime: 2021-01-29T12:56:00Z
+    webUrl: "https://economictimes.indiatimes.com/industry/services/education/university-of-southern-california-and-amazon-establish-center-for-secure-and-trusted-machine-learning/articleshow/80563909.cms"
+    ampWebUrl: "https://m.economictimes.com/industry/services/education/university-of-southern-california-and-amazon-establish-center-for-secure-and-trusted-machine-learning/amp_articleshow/80563909.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/services/education/university-of-southern-california-and-amazon-establish-center-for-secure-and-trusted-machine-learning/amp_articleshow/80563909.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-122421,msid-80563839/amazon.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "California OKs China’s Baidu for Testing Self-Driving Cars Without Driver"
     excerpt: "Baidu Inc. has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor"
     publishedDateTime: 2021-01-28T17:34:00Z

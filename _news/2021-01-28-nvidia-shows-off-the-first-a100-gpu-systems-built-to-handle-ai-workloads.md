@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/in/amp/news/nvidia-shows-off-the-first-a10
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/nvidia-shows-off-the-first-a100-gpu-systems-built-to-handle-ai-workloads"
 type: article
 quality: 103
-heat: 153
+heat: 163
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/01/NVIDIA-Certified-Press-Graphic.jpg?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Nvidia launches program for certified AI servers"
+    excerpt: "Nvidia is offering a certification program to steer customers and partners to buy GPU servers specifically tailored for artificial intelligence (AI) workloads from top-tier OEMs and ODMs. The program,"
+    publishedDateTime: 2021-01-29T11:03:00Z
+    webUrl: "https://www.networkworld.com/article/3605088/nvidia-launches-program-for-certified-ai-servers.html"
+    ampWebUrl: "https://www.networkworld.com/article/3605088/nvidia-launches-program-for-certified-ai-servers.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3605088/nvidia-launches-program-for-certified-ai-servers.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 59
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/12/nvidia-ampere-pcb-primary-100869709-large.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Nvidia Views Kubernetes as Key to GPU Accelerated AI Scale"
     excerpt: "When you think about Kubernetes, clusters of CPU and memory resources all scaling to meet the demands of container workloads probably springs to mind. But where does GPU acceleration fit […]"
@@ -99,6 +115,6 @@ related:
       domain: insidehpc.com
     quality: 18
 
-secured: "H8YPjeRd9kSrp/NDpp5bPyX5/ijzJeOxqaNsLfFYOdmzwPQPIFUlaOokhOeqDSYxj3X8YVJ4YT8knYBjnLuhOu7lYlRCAFztubW57wiqugjgW9y1UuoKMDqBm2WottFXluo8yPaC4rhP6yqCtZMFih259tZ8skC9ylYBqNMJFTm/Mjd5tX4p8J20chpFf0wf+R58BbAMjp/qtXWe+Rb0zjb/4Y8pYYI2aikhPnWYbglkY/pd3eAi899Xy3xG5r7TKXRLRX1QsPiVEuGS9Etab/H49S4wWDAg0sl/IMtTTIzaDvyAo9SzC1Av6UWHDni5OPt1MYXy9r3JMRPLknKdFnZNkg1xi8xeMxO9v9cpoo0=;GgQ2M8YOPX//W6l04dD7UQ=="
+secured: "u89ePISY2TTI1LocaiJeVDpVLmke7IHr028M8LONr2DjnbhHkOTCzELWl7AyNXDGZr4xENlp8LgkMBS7d1yaxp79Wd3OJmp2B7euZLlAunqsoSK8qgnLIMmie+XkRcKRJLQ4VHRY8saiCSKujUt1G2yqxm41LJaylXwF4ncOh3DGRGWAOxVIXkfXIKnbVjDYhX+/SX6dhwNh8TdFIZizRZuLlerzx1+ofCByFLbAm7KZ+3sW3irBC7r9okQ1OcMSSlTG3wUckvHk++LoLPmdXbbSeqD0ZwzJg5/qy30Btmor5BodjuwyLoaBbCwfKSItOCMGjvTrwgDonQG3fY2i18VpQXs2XlDF18SY6eQ7lnP2Y+iZGJ1dRNfbftKObR0WLYjSL4l5o4eZy/BG96o/y7fM664LmZSQ6FFbuuYoVpAv37+IE0+lw7CXEKlswNU2IOIMZnUXRw/8M9Pp8C79te+GyX4DU+2Ix2YM39CEovtV1W3qoTO+BFBS2W2aviXqlYcmaOgR2vf2nQkFbVYBaw==;0BpCrN7VXsMY23jrKPUcEg=="
 ---
 

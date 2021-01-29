@@ -82,6 +82,20 @@ related:
       name: CBS Local
       domain: cbslocal.com
     quality: 39
+  - title: "Confluent Announces Strategic Alliance with Microsoft"
+    excerpt: "Confluent, the company of the founders of Apache Kafka, recently announced a new strategic alliance between them and Microsoft to enable a more integrated experience between Confluent Cloud and the Azure platform."
+    publishedDateTime: 2021-01-29T12:06:00Z
+    webUrl: "https://www.infoq.com/news/2021/01/confluent-microsoft-alliance/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 39
+    images:
+      - url: "https://res.infoq.com/news/2021/01/confluent-microsoft-alliance/en/headerimage/header-1611818830074.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cruise, General Motors, and Microsoft team up to develop self-driving vehicles"
     excerpt: "Cruise and General Motors announced they have entered a long-term strategic relationship with Microsoft to accelerate the commercialization of self-driving vehicles."
     publishedDateTime: 2021-01-25T00:00:00Z

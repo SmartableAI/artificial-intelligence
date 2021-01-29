@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29W2OT"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29W2OT"
 type: article
 quality: 89
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -119,6 +119,22 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "University Of Southern California and Amazon establish Center For Secure And Trusted Machine Learning"
+    excerpt: "The expectation is that the center will unleash a new line of fundamental research on privacy and security aspects of machine learning –given the proliferation of artificial intelligence across all aspects of society from education to finance,"
+    publishedDateTime: 2021-01-29T12:56:00Z
+    webUrl: "https://economictimes.indiatimes.com/industry/services/education/university-of-southern-california-and-amazon-establish-center-for-secure-and-trusted-machine-learning/articleshow/80563909.cms"
+    ampWebUrl: "https://m.economictimes.com/industry/services/education/university-of-southern-california-and-amazon-establish-center-for-secure-and-trusted-machine-learning/amp_articleshow/80563909.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/services/education/university-of-southern-california-and-amazon-establish-center-for-secure-and-trusted-machine-learning/amp_articleshow/80563909.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-122421,msid-80563839/amazon.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "California OKs China’s Baidu for Testing Self-Driving Cars Without Driver"
     excerpt: "Baidu Inc. has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor"
     publishedDateTime: 2021-01-28T17:34:00Z
@@ -148,6 +164,6 @@ related:
         height: 480
         isCached: true
 
-secured: "Vxu4K0ewnnN7bwPpxfBOnTmQXjhrt/VZmlXhwmpG9mLkuKBFjuOm0cjcRqirhvGDVvJje6II+yhYAGVf/C5KGhrioA+Gpzk2ro3KQNcG1fvTHg4YdWHUDwUZzBixQDhqWGdAKtduabgtki/p6u0056f0CI5hdoW8QdWuIPu7R2oHjpANdDd/6OA93YI1vzjsUK/Dyt6M5zBFCvg+CR5MN1LBZmvyyBpzLcmkgrPRcW2QdIyAx7h9dS6BfJWktGPVYgyHvPSG37nJtpesOdCFNNoEzD0evCl74nS/NNtn3uanknDHaY6Pp57gtGDl+a/aserNgcRArPsuaow/i19RMajKHulyYLbls2mM/FNylbU=;nnEiKkN6R4YJquaeRK2d9g=="
+secured: "1G+a93n4H5v8ZnGiM4cqtJ61kv26vIjv9Qxo4McIlB/VKUF/+EZJLU+sd5ScCcewpyIgSD8cYEFtRGhX1p1gjjospD+ngJ4ePiTzQhtRX1CAAay2+mWRuo3RbUMAl+87dLL9gcbMu6hwNiYdKvLrz93yk06dXwX/QQ+oF64x/fW2Oq3itA2wPFs/dZV9ChAYQe29J+v7wwOEgZXIAMOhJqbUdSzOPT3amzcpOn/5Y7mWI2Dd/nsCP3askC0cFmBl87fakPvTyzgSEWDUzCQiyARvjfSGEBnDxJiaD4V2a7wgFuLJF7soQzerOEJlGXo+mglkXjkZ3gn8mso6zhNjCFhMZokUnwT1r8xEsvKwjt8rhfUiqyBUGoovwhiTRoberiMbYp2zhRyP3XUxRW1xyqkygczFqXlPJ4tkDBy6XRO+vV3SQUWHMF9i8m/Fh9FZV11naLTVgnfbbX0nHgkx9JAFZuM6/UmlszCcZocOKoJ/Pt6fBhTUzgK6yUza7mR90+v4Y5eqQCPoX75dZg4Svg==;HGmim+PBFtSSO4VtKYkdqQ=="
 ---
 

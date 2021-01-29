@@ -51,6 +51,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Nvidia launches program for certified AI servers"
+    excerpt: "Nvidia is offering a certification program to steer customers and partners to buy GPU servers specifically tailored for artificial intelligence (AI) workloads from top-tier OEMs and ODMs. The program,"
+    publishedDateTime: 2021-01-29T11:03:00Z
+    webUrl: "https://www.networkworld.com/article/3605088/nvidia-launches-program-for-certified-ai-servers.html"
+    ampWebUrl: "https://www.networkworld.com/article/3605088/nvidia-launches-program-for-certified-ai-servers.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3605088/nvidia-launches-program-for-certified-ai-servers.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 59
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/12/nvidia-ampere-pcb-primary-100869709-large.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Nvidia Views Kubernetes as Key to GPU Accelerated AI Scale"
     excerpt: "When you think about Kubernetes, clusters of CPU and memory resources all scaling to meet the demands of container workloads probably springs to mind. But where does GPU acceleration fit […]"
     publishedDateTime: 2021-01-25T20:20:00Z

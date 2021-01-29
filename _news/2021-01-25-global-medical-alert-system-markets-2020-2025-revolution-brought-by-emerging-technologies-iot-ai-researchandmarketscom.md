@@ -77,6 +77,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Worldwide Conversational AI Industry to 2027 - Strategic Recommendations for New Entrants - ResearchAndMarkets.com"
+    excerpt: "The “Conversational AI - Global Market Outlook (2019-2027)” report has been added to ResearchAndMarkets.com’s offering. According to this report, the Global Conversational AI market accounted for $3.81 billion in 2019 and is expected to reach $18."
+    publishedDateTime: 2021-01-29T08:01:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-corporate-news-latin-america-and-caribbean-4a64e2e6e39e4ccf9d0261ea67d571dc"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 15
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Global Image Recognition in Retail Market 2020-2025, by Technology, Component, Application, Deployment & Impact of COVID-19 - ResearchAndMarkets.com"
     excerpt: "The “Global Image Recognition in Retail Market (2020-2025), by Technology, Component, Application, Deployment, Geography and the Impact of Covid-19 with Ansoff Analysis” report has been added to ResearchAndMarkets."
     publishedDateTime: 2021-01-26T14:08:00Z
@@ -91,6 +105,17 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Artificial Intelligence in Medicine Market Research Report by Application, by End User - Global Forecast to 2025 - Cumulative Impact of COVID-19"
+    excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence in Medicine Market Research Report by"
+    publishedDateTime: 2021-01-29T10:34:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19388179/artificial-intelligence-in-medicine-market-research-report-by-application-by-end-user-global-forec"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19388179"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19388179"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "KDGahFE6fApCcS+nSvDHqERMspAwjMrS+Lni91H1ykZor5DrQ+R5iHHf2orVnIOpb6ff6PcTMvrczFZ1apkRclQnHnF0PGhIFlnbI6nNn1zG594lNBfr0PqzLkDwDhjL0vTXZ2vrKgMH6+n6HywIcp/ViRbc6NSzNmXWCff7Oted/MpioZ1gCGLs0SblU7xSTwBM2SD5u+52qsSqwVpf5Jw5kRFLJKqstMBWVdSbjiaBahpeNZRSVjSl4zjDqCLDw+3Uo3uLvUucaLM38NdCHC11f+qtjXwa8GvfOCTwAKswG0fPRUPJOiaoohQf0bYA+/vr+qPn7L15keDXr/TXXdjSvNR2BltRdVDBRFXCOpg=;r2GsoT1DFHo8eJRYv/Koqg=="
 ---
