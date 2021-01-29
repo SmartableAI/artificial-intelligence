@@ -106,6 +106,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Global Iris Recognition Market Research 2020-2024 | Market Impact Analysis due to COVID-19 Spread | Technavio"
+    excerpt: "The iris recognition market is poised to grow by USD 2.08 billion during 2020-2024 progressing at a CAGR of over 23% during the forecast period. This press release features multimedia. View the full release here:  Technavio has announced its latest market research report titled Global Iris Recognition Market 2020-2024 (Graphic: Business Wire) Worried about the impact of COVID-19 on your business?"
+    publishedDateTime: 2021-01-29T13:09:00Z
+    webUrl: "https://www.oaoa.com/news/business/global-iris-recognition-market-research-2020-2024-market-impact-analysis-due-to-covid-19-spread/article_a90b3591-e02b-57bd-81f4-33618d173465.html"
+    type: article
+    provider:
+      name: Odessa American
+      domain: oaoa.com
+    quality: 7
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/oaoa.com/content/tncms/assets/v3/editorial/b/27/b2716c44-744c-521b-9967-7211b51f4743/60140adf1a0de.image.jpg?resize=1120%2C630"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Medicine Market Research Report by Application, by End User - Global Forecast to 2025 - Cumulative Impact of COVID-19"
     excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence in Medicine Market Research Report by"
     publishedDateTime: 2021-01-29T10:34:00Z

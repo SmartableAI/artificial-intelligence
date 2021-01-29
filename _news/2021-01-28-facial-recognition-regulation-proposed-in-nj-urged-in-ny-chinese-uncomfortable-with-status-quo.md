@@ -243,20 +243,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Ban on facial recognition technology advances in Minneapolis"
-    excerpt: "MINNEAPOLIS (AP) - A proposal to ban the use of facial recognition technology by Minneapolis police and other city departments is advancing. The technology has raised concerns by some who worry it could be a dangerous step toward a surveillance state where people’s movements are tracked the moment they leave their homes."
-    publishedDateTime: 2021-01-24T23:02:00Z
-    webUrl: "https://www.weau.com/2021/01/24/ban-on-facial-recognition-technology-advances-in-minneapolis/"
-    type: article
-    provider:
-      name: WEAU
-      domain: weau.com
-    quality: 39
-    images:
-      - url: "https://gray-weau-prod.cdn.arcpublishing.com/resizer/zCXcMt6FemPyR2OAR4yKMWc2efs=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/5JUAEHMN7JA3VKC7WRW3MC4ZRA.jpg"
-        width: 980
-        height: 574
-        isCached: true
   - title: "New advances in the detection of bias in face recognition algorithms"
     excerpt: "A team from the Computer Vision Center (CVC) and the University of Barcelona has published the results of a study that evaluates the accuracy and bias in gender and skin colour of automatic face recognition algorithms tested with real world data."
     publishedDateTime: 2021-01-25T15:39:00Z
@@ -391,6 +377,20 @@ related:
         width: 640
         height: 426
         isCached: true
+  - title: "New facial recognition Technology to be installed at North Country Incubator"
+    excerpt: "New facial recognition Technology to be installed at North Country Incubator Clarkson University is partnering with Precise Biometrics to"
+    publishedDateTime: 2021-01-29T13:51:00Z
+    webUrl: "https://www.compsmag.com/news/technology/new-facial-recognition-technology-to-be-installed-at-north-country-incubator/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 36
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/New-facial-recognition-Technology-to-be-installed-at-North-Country.jpg"
+        width: 2560
+        height: 1662
+        isCached: true
   - title: "Ban dangerous facial recognition technology that reinforces racist police work"
     excerpt: "Ban dangerous facial recognition technology that reinforces racist police work Amnesty International today launched a global campaign to"
     publishedDateTime: 2021-01-26T00:51:00Z
@@ -472,6 +472,6 @@ related:
         height: 450
         isCached: true
 
-secured: "AYNvSNG7WnrGLzmbS/T+KhUQANiJba3ExS1X7JpzuabL8u634YPU2k0fHIjwkg6M0v0tOSpwNhzuxtF8m/tuSy6Umuv+u22I0vWdS+WCEBD4Zeo4UWjnWOHmI8MD3QlAbNA64wbNcN5NBlt4CgGUkuLAsw45CfMwFZM5+OOZQO4B9Yv9FhGN+L7jJbqEwxE8KXJNjsoUlt5Hbu+ksgaBFo1VWgEQRqfyBbEh53lCdKywYa1wl+kcmu6kuy15Qoxpt0yvdyBuuL2EbKCSph8AYYpJYU84r59rskSnDoYn9UPZbCmkCBhe7++JBpI1rInvBKwlxd7a07CIOsF0GvvPoaKGOzkICIkImAvM3sZ5dDQ=;x5exPcd5GoVmX5s+WpVM6g=="
+secured: "FRsexU37hQ1j5TvR3KXP9BJbfYYjLo6XxeRmXHpBSBOReKrd4mAsWhRm65DuPWKWkNwJElBY9S0jt+tqPlp6VXngcOk0eSvnRtfz2mYX1yiW4YnmMDTOtBx6svmjpiBqJtsLVL2dZ4b0VGIQg5LH+qCJruPMEiKyoBa787RMtoxvN4pSTp4Lx9j3G6I71Voap+2M+FMWaMtg8A1k3V3zofY+ovTnt6zagh8FA3bMYFwrSmjlOdVwEvSn4yn4G1yEfPOiDmb85roma3X5bJZXvEH776s/u5fAJvSO7Edko5fJ52AkT/+rsLOBoPU6GgQOMP779yzG1cXp1GVbahnaRz5qS7ZiT2B+zUXkKIXQoc4Uy1FawUpzgyCcZcQQeTjt6YVx2mlXwMH87etGuvNOXwF5o/iTWqw8bA/qg1Kz7tZydrjHOWKDwkLqc4VLrs3oPLybIv6Msu+agdn0GYn1ZqXWIEFGtEh1clde/GO8utGf3ungGpQGRXFtIrEcjbywfIRS+pEiZ1xqE1yGxmSY0A==;tHylOISoS3EjLaa03Giv7A=="
 ---
 

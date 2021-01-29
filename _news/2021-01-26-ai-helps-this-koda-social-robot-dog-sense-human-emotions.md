@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/ai-helps-this-koda-social-robot
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-helps-this-koda-social-robot-dog-sense-human-emotions/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
         width: 808
         height: 417
         isCached: true
+  - title: "Koda’s robot dog can pick up on human emotions"
+    excerpt: "PARIS: American startup and artificial intelligence (AI) specialist Koda has unveiled a surprising robot dog that can sense human emotion and adapt its behaviour accordingly in each situation – whether that’s playing with the kids,"
+    publishedDateTime: 2021-01-29T13:16:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/leisure/2021/01/29/kodas-robot-dog-can-pick-up-on-human-emotions/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 19
 
 secured: "eUgUCYuUCwmvSo2He2JMs5L4X7oOXycKB34sZSSk0NSKiVSogG0IU1OGR7vr0diofxs4IY3Msj+3i4SuOjJMnYxG0kVGrIr4Y5psa8W4pKYUXQww9Dt5GPeBCUMTYv+aY37sMdJm3N6rjMZ3i5mysMrFwk3vHqxVUZfuD/ZfpOvzKDxA394GBZL263JlCXgIfzTRlPFBx0Fx9k3W7ZGfRsQwbqTsiONFPms8Bti9l6MV4EzMS+3BP8TPDKdYWvCE/rlD65/qZgEMTud788FNuTN0avqyu9Qk4z15w406qktieSabVKrCFrK0q/SID/Q/6j+PR8yjP/vnMbvLN6+3ffgM1yD5OO2XfDIHCCOe9k0=;RhuGA1Bz2f2gJ9lLqaq2Nw=="
 ---

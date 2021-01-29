@@ -43,6 +43,15 @@ related:
         width: 1050
         height: 591
         isCached: true
+  - title: "Koda’s robot dog can pick up on human emotions"
+    excerpt: "PARIS: American startup and artificial intelligence (AI) specialist Koda has unveiled a surprising robot dog that can sense human emotion and adapt its behaviour accordingly in each situation – whether that’s playing with the kids,"
+    publishedDateTime: 2021-01-29T13:16:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/leisure/2021/01/29/kodas-robot-dog-can-pick-up-on-human-emotions/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 19
 
 secured: "WfgtMaycAeAxL6ZvEeNhFmLwfvnv0FQFMp+FJ5BAsz2PAl5rQI2zgT1jCQxRCzgwy59TwVf02WAlBjusSXQ2cMwpoe2FF14Om+czM2CQWpvFLcbc1+8apV7+EGcjXBfTPcvoX3IjzrWPzAVFcxo91iWU61T9KblYBW7Kl/XIjqVjTvl42jBPPS6UXrue1gDQmUBvE5LniP1r641R5jbuC7ExwXyv6ErEosHx7xvOd/qjsw1zzdCEROfPLQukL0X8mnp4bIlg/aGs6Rj2fQOLCSe0QrlVO74LbF4xGuDsxxYNMzGZPk6TgbaS97s9RoBgOYWa8lIDqzQ/cCDJ3eWzSidWxNILK0riGKHiYPfuS8A=;eTaSpU8trYvnpJV7MUzVkw=="
 ---

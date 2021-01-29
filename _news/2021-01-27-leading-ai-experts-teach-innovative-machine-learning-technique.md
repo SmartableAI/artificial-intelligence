@@ -50,6 +50,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 65
+  - title: "Help your AI and Deep Learning Tools Become Smarter"
+    excerpt: "Google and Microsoft are building proprietary chips to make their deep learning platforms a little faster and more desirable than others. These AI chips and infrastructures can improve the experience of running the Deep Neutral Net for processing data on a ..."
+    publishedDateTime: 2021-01-29T13:29:00Z
+    webUrl: "https://www.thefastmode.com/expert-opinion/18942-help-your-ai-and-deep-learning-tools-become-smarter"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 56
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/76535aae17386f5300e987c9cfbf0fa6.jpg?t=20210129_122456"
+        width: 1126
+        height: 550
+        isCached: true
   - title: "Leading HR Technology Company launches AI Ethics Advisory Board"
     excerpt: "Arena Analytics launched its external AI Ethics Advisory Board - the first human resource technology firm to do so - on January 12,"
     publishedDateTime: 2021-01-26T19:02:00Z

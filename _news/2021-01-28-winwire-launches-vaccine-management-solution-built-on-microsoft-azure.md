@@ -2,23 +2,17 @@
 category: news
 title: "WinWire launches Vaccine Management Solution Built on Microsoft Azure"
 excerpt: "WinWire Technologies, a digital engineering services company, launched its Vaccine Management solution built on Azure. Healthcare organizations need to create new business processes to deliver vaccines to patients."
-publishedDateTime: 2021-01-28T13:49:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/winwire-launches-vaccine-management-solution-built-on-microsoft-azure-1030015209"
-webUrl: "https://markets.businessinsider.com/news/stocks/winwire-launches-vaccine-management-solution-built-on-microsoft-azure-1030015209"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/winwire-launches-vaccine-management-solution-built-on-microsoft-azure-1030015209"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/winwire-launches-vaccine-management-solution-built-on-microsoft-azure-1030015209"
+publishedDateTime: 2021-01-28T07:38:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20210128ph61007/winwire-launches-vaccine-management-solution-built-on-microsoft-azure"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20210128ph61007/winwire-launches-vaccine-management-solution-built-on-microsoft-azure"
 type: article
-quality: 84
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - Microsoft AI
@@ -108,6 +102,6 @@ related:
       domain: plantservices.com
     quality: 17
 
-secured: "oYuEz+8BZIwuNuI2klsCqkOgmQgOMYzwsEjpuKoeVhfJZOFEdZcoOoPsaXDotZw3UibxZDQExskSrZ2trxigwOYY+LKIuWAhiocFuV9O3d88kYh0loJryJfx3Bb51aw43wP4ZIsZKY0sC40ItQ0dYJDwKYXfdywv14EokLzxAcnJ92Sbe0vvCrQKX8yJvHjGXKUlWE+o+DAmx/S2aMArpegkOeBFzE7eLrxRGDpPEiPyQ2HpMN2ImSmcFLrQykmwzkEmbs+nolJSpjFpa88DX8Sw9hRQ31wV+3SGHXm1YVYHuoMnT+a6muixDGKq/lnhGIaoNUdYs4b6pIwiWWijNjFlWVZ7vGBZDV/aUEy1fEc=;PSsFwo3TaHqDnsgIQeuzdA=="
+secured: "BZS+l8g57pnLfsZebxymr4qNDnmGuFLW8OUhhTBlR0m6Z9XqHnmJhN8Ddpr8DrJhbi7bV4QS/KZLylZXxa2SyWc4PdswRUV465AjIm04GGHistN3W2nTbHR98wYNBeG994aHT9DwI9KfC3Xo6rm8UXZcGdivB7cNw9R60bekWQTPtmLzUNtkY8vxVviu6rVaA9iZhOpzdBPZKIVQguHD94h3Zm7acmuOGltL4Ux5qlqMo+5z9qD6RMzihrbZ1fRWIu+LEY9DaEsrdFOoFyvywxhASdcYqYcWuBcpqbRh56YuDQTFCb6UsWdYuFMpOSAdHxz6y2bpoLWk+0EmRK27D5cuhxe2jn8rGa33FpBAIsg=;mKNjW2aYRFtjNTuIa9cMrQ=="
 ---
 

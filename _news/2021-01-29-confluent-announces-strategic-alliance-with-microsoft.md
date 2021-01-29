@@ -41,17 +41,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "WinWire launches Vaccine Management Solution Built on Microsoft Azure"
-    excerpt: "WinWire Technologies, a digital engineering services company, launched its Vaccine Management solution built on Azure. Healthcare organizations need to create new business processes to deliver vaccines to patients."
-    publishedDateTime: 2021-01-28T13:49:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/winwire-launches-vaccine-management-solution-built-on-microsoft-azure-1030015209"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/winwire-launches-vaccine-management-solution-built-on-microsoft-azure-1030015209"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/winwire-launches-vaccine-management-solution-built-on-microsoft-azure-1030015209"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 84
   - title: "Natural Language Processing Market is Booming Worldwide with IBM, Microsoft, Google, Amazon Web Services"
     excerpt: "A new business intelligence report released by Advance Market Analytics with title Global Natural Language Processing Market Insights Forecast to 2025 This report provides a detailed overview of key factors in the Global Natural Language Processing Market and factors such"
     publishedDateTime: 2021-01-25T20:43:00Z
@@ -95,6 +84,15 @@ related:
       name: CBS Local
       domain: cbslocal.com
     quality: 39
+  - title: "WinWire launches Vaccine Management Solution Built on Microsoft Azure"
+    excerpt: "WinWire Technologies, a digital engineering services company, launched its Vaccine Management solution built on Azure. Healthcare organizations need to create new business processes to deliver vaccines to patients."
+    publishedDateTime: 2021-01-28T07:38:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210128ph61007/winwire-launches-vaccine-management-solution-built-on-microsoft-azure"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 34
   - title: "Cruise, General Motors, and Microsoft team up to develop self-driving vehicles"
     excerpt: "Cruise and General Motors announced they have entered a long-term strategic relationship with Microsoft to accelerate the commercialization of self-driving vehicles."
     publishedDateTime: 2021-01-25T00:00:00Z
@@ -105,6 +103,6 @@ related:
       domain: plantservices.com
     quality: 17
 
-secured: "IbWKzD/cLkbA3hj7mKy/tdsOsOKmmW6QEu+sWVYDWjG4ZwC9xlLx9eVm+pxIHIzCB8MyJ7WnG+Mi9b7qsLU4lJnIfRprLqDbweMrh4azmf0bSsD/LI7E3wlhO9aMJHnfINcxL9UDF8sVY3c016sXTrH7zZqfeGbQOfuDJsFrI4iYuqnfQ7px7xXgKUvUlN04r49bVF+mcL6qwroDujjzIItDh0/ssJdr5e3OdFRClHr0MjhBnJV4JA1JqJ7vV7+h78Wa6ZVWREg2qKB9+7NEu4KMhbiFJtXwUjm7cWFBcpxfkpJ29o06lDNWDHTQRn1FFPKaElI+RWill9NbSsf2rR8tTxgndA5ZnMPKFlnJarg=;swQRFGucmBBF8P2AHwg9Sg=="
+secured: "tFYYzwTibYnvZAmMcCWmZJaJ8Lqjr3ziRw1pN1aY7aDdTtam3pUWkDCWDgql14MT9A82FduiFO4DRTbjdxtKdNJR79DeR0GT8QweuTTWXJeE47sx0Ih1FLyp1ASHfR+0kTfmTzRYQubieWOU8KNQbMwFWvohwuMNzE8HgaMmBSpPlPLIM+k3I9/f6ZKgHiJdBO5vuVBBbfUDGxKzN5SV+P/LJ84KMv3BVcxIXC5JcAixV9ui2xRceZDsZmGkLyO4N87AH4I0fqT7wcEF9l1BTn9LM0hn7c4WA/dN9E8YdR0/JaixKqDIBSKlw5ZxMa0n22xpE3gfFcgFGJ/b9jc13AbSC0PHXWf/uNAoNs5vrdawgGmvq6JfBJOSRINeEtujHNgm31ZUy/renLaKx+JVRbQHNk14eg9JumeMnJJMcx06aw7ZKQsY9hFVTZdEEYhyXcsbRH0QhZeSXPY2E4YiPmWf0zE06tHjpvsaqHRf7MdT+qcZZYrdHwdyYy2cIuBUw9xkk80fjhBo7LGgnM3ESA==;DMBzgTq0Lhtbl6Gn48tGEg=="
 ---
 

@@ -1,24 +1,23 @@
 ---
 category: news
 title: "Synaptics Expands Family of AI-enriched, High-Performance Multimedia SoCs for Mainstream Set-Top Boxes, Smart Video Devices"
-excerpt: "Synaptics® Incorporated (NASDAQ: SYNA ), today announced customer sampling of its VideoSmart™ VS640, a next generation edge computing SoC that is AI-enriched for emerging set-top boxes, streaming OTT devices,"
+excerpt: "Synaptics ® Incorporated, today announced customer sampling of its VideoSmart™ VS640, a next generation edge computing SoC that is AI-enriched for emerging set-top boxes, streaming OTT devices, video soundbars and smart displays."
 publishedDateTime: 2021-01-26T13:02:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/01/g19318053/synaptics-expands-family-of-ai-enriched-high-performance-multimedia-socs-for-mainstream-set-top-bo"
-webUrl: "https://www.benzinga.com/pressreleases/21/01/g19318053/synaptics-expands-family-of-ai-enriched-high-performance-multimedia-socs-for-mainstream-set-top-bo"
-ampWebUrl: "https://amp.benzinga.com/amp/content/19318053"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19318053"
+originalUrl: "https://www.nasdaq.com/press-release/synaptics-expands-family-of-ai-enriched-high-performance-multimedia-socs-for"
+webUrl: "https://www.nasdaq.com/press-release/synaptics-expands-family-of-ai-enriched-high-performance-multimedia-socs-for"
 type: article
-quality: 13
+quality: 25
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Google AI
   - AI
+  - AI Hardware
 
 related:
   - title: "Synaptics Expands Family of AI-enriched, High-Performance Multimedia SoCs for Mainstream Set-Top Boxes, Smart Video Devices"
@@ -36,19 +35,14 @@ related:
         height: 630
         isCached: true
   - title: "Synaptics’ AI SoC for Video, Vision and Voice Wins Best Embedded Processor Award"
-    excerpt: "(GLOBE NEWSWIRE) -- Synaptics® Incorporated (Nasdaq: SYNA), today announced its VideoSmart™ VS680 solution has been chosen as the Best Embedded Processor in The Linley Group’s Analysts’ Choice Awards 2020."
-    publishedDateTime: 2021-01-26T06:02:00Z
-    webUrl: "https://apnews.com/article/technology-business-integrated-circuits-industrial-products-and-services-electronic-parts-manufacturing-81fd869ef19b4d6e3989c20961c4273d"
+    excerpt: "Synaptics ® Incorporated, today announced its VideoSmart™ VS680 solution has been chosen as the Best Embedded Processor in The Linley Group’ s Analysts’ Choice Awards 2020. “Synaptics’ VideoSmart VS680 is a multimedia powerhouse that packs multi-core video and audio processing with a power and energy-optimized neural network and a custom"
+    publishedDateTime: 2021-01-25T16:02:00Z
+    webUrl: "https://www.nasdaq.com/press-release/synaptics-ai-soc-for-video-vision-and-voice-wins-best-embedded-processor-award-2021"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 36
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 44
   - title: "Synaptics Expands Family of AI-enriched, High-Performance Multimedia SoCs for Mainstream Set-Top Boxes, Smart Video Devices"
     excerpt: "Synaptics® Incorporated (Nasdaq: SYNA), today announced customer sampling of its VideoSmart™ VS640, a next generation edge computing SoC that is AI-enriched for emerging set-top boxes, streaming OTT devices,"
     publishedDateTime: 2021-01-28T17:34:00Z
@@ -73,6 +67,6 @@ related:
       domain: telecompaper.com
     quality: 8
 
-secured: "eR2QtEcxpml3AW4njwKit82lSjF/6m6MPbnxippomWCKVNtC4Ox9bbT04ysZQWa997fBqwqkZvAwLikRkOfCy032pIM4Bn6jUc5x6thXk59GOGjnpyGKn93BbUvV+jF0oNMB7bZ18wQVp7BqYtrqoUKCKioWJt1yHO13SbWAwKMGpM8Dx0Wtk8PvymWO0UZAvW2PPziZ+DaotBMhCPwigF5FRyDrK/wTsVYg8GrQnqOuCt5faIx2CLVGYRx499XlnT4bMT5Bsv2ID0Paa/QX5KzLkCIkAA2cAMwIM5pDlT1KT4p9pphfNsNZBpc5NGdvpRzzAGe5aQA7BMsqhiXSlLstbLzsY4pGNRlzGVkzbI4=;G9vfSGcW2RDMzeZo7353fg=="
+secured: "0M+5fKufeicdE8VW8pWOnZFMd+2A9BU3IFDA+UkTKNHblbD5WnsUxIcjH0RQx02kRIRUCDP2Ha+VJ4X3X6+/+s8+YOx0djDTjdoIA8yOKSsqfiqS7sqXuFarQfvwAtU8PHbnOvUijlClvzXaq37PaBvlZtX9RfscMdhl9p2uS3Ui+aBQU2RO7dBuO/3q9/8cI5xc57JB0IWFTqm8V2E4VwgDIXz8QcTho54cx0CqOB7zqfL6ACpytQCitBfsSIWZQSQ+euJ9DQuKxTiNh79V5jlpAodHzv4532wXI6NKQ0NCeJFWmHhSSSiIsu0VOCh44Rd+Y9Ja3JYdbQpUN8zxO6DWL8LRKI5dAI4DSPbtl34=;jGsofUB1rPEahwsyW5taFg=="
 ---
 
