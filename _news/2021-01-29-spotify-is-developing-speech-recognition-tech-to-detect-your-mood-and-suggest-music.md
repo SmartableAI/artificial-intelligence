@@ -3,13 +3,13 @@ category: news
 title: "Spotify is developing speech-recognition tech to detect your mood and suggest music"
 excerpt: "Global music-streaming giant Spotify has recently been granted a patent for a new technology which will allow it to analyze its users' voice data – including speech recognition and background noise – with an eye to suggesting music based on what it finds."
 publishedDateTime: 2021-01-29T03:13:00Z
-originalUrl: "https://www.techradar.com/news/spotify-is-developing-speech-recognition-tech-to-detect-your-mood-and-suggest-music"
-webUrl: "https://www.techradar.com/news/spotify-is-developing-speech-recognition-tech-to-detect-your-mood-and-suggest-music"
-ampWebUrl: "https://www.techradar.com/amp/news/spotify-is-developing-speech-recognition-tech-to-detect-your-mood-and-suggest-music"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/spotify-is-developing-speech-recognition-tech-to-detect-your-mood-and-suggest-music"
+originalUrl: "https://www.techradar.com/uk/news/spotify-is-developing-speech-recognition-tech-to-detect-your-mood-and-suggest-music"
+webUrl: "https://www.techradar.com/uk/news/spotify-is-developing-speech-recognition-tech-to-detect-your-mood-and-suggest-music"
+ampWebUrl: "https://www.techradar.com/uk/amp/news/spotify-is-developing-speech-recognition-tech-to-detect-your-mood-and-suggest-music"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/spotify-is-developing-speech-recognition-tech-to-detect-your-mood-and-suggest-music"
 type: article
 quality: 68
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -63,7 +63,23 @@ related:
         width: 1024
         height: 533
         isCached: true
+  - title: "Spotify wants to analyse your VOICE and suggest songs based on your emotions, patent reveals"
+    excerpt: "Spotify was granted a patent on January 12 that lets them listen to your voice to determine your age, gender, accent and current emotional state to pick songs you might want to hear."
+    publishedDateTime: 2021-01-29T10:32:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-9201017/Spotify-wants-analyse-VOICE-suggest-songs-based-emotions-patent-reveals.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9201017/amp/Spotify-wants-analyse-VOICE-suggest-songs-based-emotions-patent-reveals.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9201017/amp/Spotify-wants-analyse-VOICE-suggest-songs-based-emotions-patent-reveals.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 33
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/01/29/10/38627706-0-image-a-8_1611916146087.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
-secured: "rPR0YEnm8UQA/u6Y+77yvfFMJJQx1KzU9GKejOPUdTKetYJlAkEAXCXQxPwJC56Q8oPxHaBpbKrx2SaHtdtxQ9c2j+vKZcQ0x3k/HwdCKb3L+7gpaAm7Scww//SmDA3VeSVAZ+9TgH1K+vzRiTTr+RUC/GrMnYJBOhfJAZh/6CxG1iPNjIpLQ3vgqSiS62PSiciaBK8UWPUX0MJiLLq44zRBjnu0tpaB7JP0lovlU6/8LSKI3IfO0XxgYCl4wWQxSNahq4egBGGwhAsH9utHFUXpaBk3O+7T6GbScpWXmQR1g2emcwGIe+gdGAjhUdGiIBnILq5F7j2QVeKTc9kT8FzFtiwxiucHEHepjxc1MOtlhZ+29Y3bVhD5PnEgOrfCPHVKK/sWOGneyXbHGeSp7D7aB3jkFmoCl1xGRdyN8EJCi2jukVhQQ9TswH4KqzzozTL4RxFzxVs/VEb+Ll7c2p/j2a5br1bu13Smt9CDJp+ZN0C8IuPOjilUC3jp2acpaJNBefGEaoYjiL66UTHLlg==;JoOJ1HfvrLZQgoI7avz5ng=="
+secured: "6UkxqumgWSKyZ3jwH7XYJHO702ITC1fybh8U1Ntuq37bFqPeiipHztZLh6exnx9nSTr8cWY09O8AhVPLTrVCm9K6V3L7KFR5oPy8lXJ7C8vtIPSsnUj8Sgsz2JpH0SMZ+SluoOKltNvJFCQKb4nZFXLR1MtBGQuNjZoQLBpOGr5xrNVddtZ2cZ2U3CgDMmPaM1OAE2H1yh59zbgIlaHEIWj4HnEgPjt0SsRHf6HIXpOQ8es3dW1ikQHeVaPm+E0U50RyUzCVOY1GIB/+7sdD87bAhJ1vZXMjSOFCntKX+kGMyXpzps6X36DCFZdpyUqgP42xSs4sVC0n9ObNP29RP1Dj9yCLoAzakGvfMMAiWLw=;PgWAQyG8QVYejM9jnVY6zQ=="
 ---
 

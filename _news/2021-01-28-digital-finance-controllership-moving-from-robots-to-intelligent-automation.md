@@ -7,7 +7,7 @@ originalUrl: "https://www.nationthailand.com/business/30401943"
 webUrl: "https://www.nationthailand.com/business/30401943"
 type: article
 quality: 53
-heat: 63
+heat: 53
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "Fintech Round-Up: CU Partnerships Spotlight Fraud Control, Financial Wellness"
-    excerpt: "Plus, a fintech launches a new cloud-based product and pricing platform specifically for community banks and credit unions."
-    publishedDateTime: 2021-01-28T22:35:00Z
-    webUrl: "https://www.cutimes.com/2021/01/28/fintech-round-up-cu-partnerships-spotlight-fraud-control-financial-wellness/"
-    ampWebUrl: "https://www.cutimes.com/2021/01/28/fintech-round-up-cu-partnerships-spotlight-fraud-control-financial-wellness/?amp=1"
-    cdnAmpWebUrl: "https://www-cutimes-com.cdn.ampproject.org/c/s/www.cutimes.com/2021/01/28/fintech-round-up-cu-partnerships-spotlight-fraud-control-financial-wellness/?amp=1"
-    type: article
-    provider:
-      name: Credit Union Times
-      domain: cutimes.com
-    quality: 41
-    images:
-      - url: "https://images.cutimes.com/contrib/content/uploads/sites/413/2020/12/fintech-bank-e1607455163832.jpg"
-        width: 620
-        height: 414
-        isCached: true
-
-secured: "y6MiSURL807F/HoUk9eGFhq03cKRcPNAEe9jftTNYp9WHQS5grUgsbWO5Vn4jS6DXwqDN8ZJCjoHo2osFDMoSO7ExYaAh1Ap33h6G8UDjl3CQC4DB8RQ0vKHzmNJVjYhmy8ffq5EzbW9gqlFzQmVeckJTHri73Im8xX+FPwxzafZa3xhlcl3XOs6R7Uzu58mBRJ3VLrJtZNhLs6Rwl5+8x8nBv2KWbolMTEDdIo8Qu7ybIPbMCA9hQzBjzOgvXpAOsQRUi2iPD1ADtzc1jkDUsLhcphgPWkHtAQR28KQVjp9Fvu+vSHupuEl6jhkhrJE2ERz7yro9AAoGFs4c/6q7r800iqDSQKK54MUv8mMchc=;weHk4QJqUF4qeOTww+jrhQ=="
+secured: "d+DX2ZlWJlgWoXa/RuhSep0H9PXiTqBPDuLWqzYNO7MooKyhCLzwkSUb0OHYvxMRankliwTdOPZgySosIeKLXABhZ/tOA71MzjCtb7/4U9kj12wk+IbxYV++SIP8ErKw8WUfO+iivX1+y96evCpiABwxpbwh3xQ7Dh0nyEn6DyTCuQmI1Zr+oAdffwczJ7x/Q8XG7bNQooWzcAxGit6rJmUwzlrL1K8NWm6Jgm2YsXL90LJ23Q/Ijc/UAcebY0EFKZ98LTBx7p2WXhE+ZOGr/lv8Hcy2DIdMBQcpezdmeA589fnDbxVemP8acfSa06OcH/WmMB1jL3dUREgK+oUW3sVHRSQ/2oX22lN/mn6+awjT8NdEYUOqlMLGaHtD8aN3BW6lI2icu3nctB1Uha/4mcr6NV43DnlYDult/mo2nAw1ieoEaQeej69fZQ6Qjvh50uuA5ejcctse+QMJI0EAkxyD8+QNvgyj5roOPWxXLNZjM0ICYOF5ZKVg7gI61nxPe4KwhBD1hyz19CiXO7+Mhg==;dnYLJPug8QrNmyJKgdZtDg=="
 ---
 

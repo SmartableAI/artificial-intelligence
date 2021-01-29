@@ -33,20 +33,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Make AI evolution inclusive in India"
-    excerpt: "The disproportionately dominant role played by men in the development of this technology, which leads to gender stereotypes and biases, is concerning The last few years have witnessed the evolution of"
-    publishedDateTime: 2021-01-24T18:41:00Z
-    webUrl: "https://www.dailypioneer.com/2021/columnists/make-ai-evolution-inclusive-in-india.html"
-    type: article
-    provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 37
-    images:
-      - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/make-ai-evolution-inclusive-in-india-2021-01-25.jpg"
-        width: 1000
-        height: 800
-        isCached: true
 
 secured: "o4Cm8G2YnAw5zLq1Rz+g61aJyRFgat6HBfP1JhmxMSKu5bCTBAkEls/kDfEnaIrbuDfFLi0Evm57FAJaGQALvK6E3JJILcY4SPJKUr8Tr5cMq8apOejqjXymVgDvbhs4UAw0o23wIH9Sk0TcXDLTFrNhddrqWdfsJB+YHS78vZLTISSGJpOmRaEfjocOSgCRAzuYtW6913+3QClK3k6gH2uTu4rjJOtNb5DP4fIUXQz63YEzynCOQC/Gq50laPj5oHaQuhOhobHUJ+JTryWr+XapVX4ejOEI6dJXvtapi8NttLuAYLsWHfyT1peib5s8BIFOEEOz5lW0rv1I9urYIVhgftoHpVp8sn/Iuf7wEGEBXPAH8HkSb9ZuymvljHv9BkTgg3M+SvYmf+kwZbtFMJZaXpRYv2p1BFi8YxjUZvO5As3p7kRFK6W6rlr8YWhbcXNQhQq26SPZjkKDF/+V/wbqJD32FNasYvITYL2LdkWrxH0kci+xz6+UYK/Jv45b83JP5CFSI/9WsMnk+TCQqQ==;8/xo6uYwYlUFa/1lP4nhkQ=="
 ---

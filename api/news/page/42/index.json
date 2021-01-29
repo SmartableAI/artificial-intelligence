@@ -2,6 +2,135 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2020-12-23-new-york-halts-use-of-facial-recognition-tech-in-schools.md",
+      "title": "New York Halts Use Of Facial Recognition Tech In Schools",
+      "excerpt": "New York's governor signed legislation Tuesday suspending the use of facial recognition technology in the state's schools, in the latest move by authorities to freeze the use of biometric surveillance amid the risk of privacy and civil rights abuses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.law360.com/newyork/articles/1340315/new-york-halts-use-of-facial-recognition-tech-in-schools",
+      "originalUrl": "https://www.law360.com/newyork/articles/1340315/new-york-halts-use-of-facial-recognition-tech-in-schools",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.law360.com/amp/articles/1340315",
+      "cdnAmpWebUrl": "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1340315",
+      "publishedDateTime": "2020-12-22T18:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Law360",
+        "domain": "law360.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-23-cuomo-signs-facial-recognition-voter-registration-bills.md",
+      "title": "Cuomo signs facial recognition, voter registration bills",
+      "excerpt": "New York is set to launch automatic voter registration and prohibit the use of facial recognition in schools under bills the governor signed Tuesday. Lawmakers who",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/cf87c101a075b8e89bc2b22307a0e2f5",
+      "originalUrl": "https://apnews.com/cf87c101a075b8e89bc2b22307a0e2f5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/ShareLogo2.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-22T17:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-23-apple-is-reportedly-advancing-plans-to-develop-a-self-driving-car-heres-what-it-means-for-the-sector.md",
+      "title": "Apple is reportedly advancing plans to develop a self-driving car — here's what it means for the sector",
+      "excerpt": "Apple is moving ahead with its self-driving car technology and targeting 2024 as the year it produces a passenger vehicle, according to a report from Reuters. Five experts weigh in on what this ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2020/12/22/apple-is-reportedly-advancing-plans-to-develop-a-self-driving-car-.html",
+      "originalUrl": "https://www.cnbc.com/2020/12/22/apple-is-reportedly-advancing-plans-to-develop-a-self-driving-car-.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106673753-1598035076175-tim.jpg?v=1608674472",
+          "width": 2547,
+          "height": 1698,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/12/22/apple-is-reportedly-advancing-plans-to-develop-a-self-driving-car-.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/22/apple-is-reportedly-advancing-plans-to-develop-a-self-driving-car-.html",
+      "publishedDateTime": "2020-12-22T17:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-23-carter-rubin-day-on-li-as-voice-winner-greets-hometown-fans.md",
       "title": "'Carter Rubin Day' On LI As 'Voice' Winner Greets Hometown Fans",
       "excerpt": "SHOREHAM-WADING RIVER, NY — Carter Rubin, 15, garnered millions of supporters as this year's winner of \"The Voice,\" but arguably ... he is a sophomore, with a recognition ceremony and a car ...",
@@ -1060,162 +1189,6 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-apple-plans-self-driving-car-in-2024-with-next-level-battery-technology.md",
-      "title": "Apple plans self-driving car 'in 2024 with next-level battery technology'",
-      "excerpt": "It has been a bumpy ride for Apple’s Project Titan, but sources suggest a passenger vehicle may not be far off Apple is moving forward with self-driving car technology and is targeting 2024 to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2020/dec/22/apple-plans-self-driving-car-in-2024-with-next-level-battery-technology",
-      "originalUrl": "https://www.theguardian.com/technology/2020/dec/22/apple-plans-self-driving-car-in-2024-with-next-level-battery-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/3f4b8288e20ce19ec295494769c8dcdb17c83346/0_162_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5f7abffddda2619665882e5886567b53",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2020/dec/22/apple-plans-self-driving-car-in-2024-with-next-level-battery-technology",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/dec/22/apple-plans-self-driving-car-in-2024-with-next-level-battery-technology",
-      "publishedDateTime": "2020-12-21T19:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-five-ways-technology-is-helping-get-the-covid-19-vaccine-from-the-manufacturer-to-the-doctors-office.md",
-      "title": "Five ways technology is helping get the COVID-19 vaccine from the manufacturer to the doctor's office",
-      "excerpt": "Pharma companies are using every tool in the digital transformation toolbox to make and deliver billions of doses safely and quickly.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/five-ways-technology-is-helping-get-the-covid-19-vaccine-from-the-manufacturer-to-the-doctors-office/",
-      "originalUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/five-ways-technology-is-helping-get-the-covid-19-vaccine-from-the-manufacturer-to-the-doctors-office/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/12/22/62b5258c-1091-48b7-8890-e4ea5bf0b5c8/resize/1200x/a5da70d95ee794f0bb9dedc5fd355bd1/carrier-cold-chain.jpg",
-          "width": 1200,
-          "height": 554,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/five-ways-technology-is-helping-get-the-covid-19-vaccine-from-the-manufacturer-to-the-doctors-office/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/five-ways-technology-is-helping-get-the-covid-19-vaccine-from-the-manufacturer-to-the-doctors-office/",
-      "publishedDateTime": "2020-12-21T19:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-apple-reportedly-aiming-to-launch-self-driving-cars-by-2024.md",
-      "title": "Apple Reportedly Aiming to Launch Self-Driving Cars By 2024",
-      "excerpt": "The iPhone maker is reportedly targeting 2024 as a potential goal date to enter the fray with a self-driving passenger vehicle, one which will potentially be powered by Apple’s proprietary battery technology.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/apple-reportedly-aiming-to-launch-self-driving-cars-by-1845930693",
-      "originalUrl": "https://gizmodo.com/apple-reportedly-aiming-to-launch-self-driving-cars-by-1845930693",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 289,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/hqqi6njbxxweyncc7jwi.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/apple-reportedly-aiming-to-launch-self-driving-cars-by-1845930693/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/apple-reportedly-aiming-to-launch-self-driving-cars-by-1845930693/amp",
-      "publishedDateTime": "2020-12-21T17:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

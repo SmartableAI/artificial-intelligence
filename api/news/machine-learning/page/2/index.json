@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-19-amesite-expands-sales-marketing-team-to-target-k-12-learning-software-market.md",
+      "title": "Amesite Expands Sales & Marketing Team to Target K-12 Learning Software Market",
+      "excerpt": "ANN ARBOR, Mich., Jan. 19, 2021 /PRNewswire/ -- AmesiteInc. (Nasdaq: AMST), an artificial intelligence software company providing online learning",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/amesite-expands-sales-marketing-team-to-target-k-12-learning-software-market-1029980247",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/amesite-expands-sales-marketing-team-to-target-k-12-learning-software-market-1029980247",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/amesite-expands-sales-marketing-team-to-target-k-12-learning-software-market-1029980247",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/amesite-expands-sales-marketing-team-to-target-k-12-learning-software-market-1029980247",
+      "publishedDateTime": "2021-01-19T03:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Marketing",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2021-01-18-machine-learning-finds-more-gravitational-lenses-than-all-astronomers-combined.md",
       "title": "Machine Learning Finds More Gravitational Lenses Than All Astronomers Combined",
       "excerpt": "The lensing effect stretches, distorts, and magnifies the background galaxy, as well as creating multiple images of it. One of Einstein’s most revolutionary predictions is that mass bends light. Starlight bent around the eclipsed Sun in 1919 confirmed this.",
@@ -1333,50 +1378,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-software-promises-to-improve-ai-object-recognition.md",
-      "title": "Software promises to improve AI object recognition.",
-      "excerpt": "Computer-based artificial intelligence can function like human intelligence when programmed to use a faster technique for object recognition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theengineer.co.uk/artificial-intelligence-software-object-recognition/",
-      "originalUrl": "https://www.theengineer.co.uk/artificial-intelligence-software-object-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://theengineer.markallengroup.com/production/2020/04/artificial-intelligence-3382507_1280.jpg",
-          "width": 940,
-          "height": 626,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-12T01:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Engineer",
-        "domain": "theengineer.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/28/world-economic-forum-launches-glo
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/28/world-economic-forum-launches-global-alliance-to-speed-adoption-of-trustworthy-ai/amp/"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://www.finextra.com/about/finextra-logo.png"
         width: 512
         height: 512
+        isCached: true
+  - title: "World Economic Forum launches GAIA to accelerate responsible AI adoption"
+    excerpt: "The  (WEF) announced on Thursday that it was launching the Global AI Action Alliance (GAIA), an initiative to speed up development and adoption of trusted and inclusive artificial intelligence across industry sectors."
+    publishedDateTime: 2021-01-29T09:57:00Z
+    webUrl: "https://www.computing.co.uk/news/4026460/wef-gaia-responsible-ai-adoption"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 38
+    images:
+      - url: "https://www.computing.co.uk/api/v1/wps/d0973ec/fe1e0acb-05c1-4498-ae13-641b4514e455/5/weforum-370x229.jpg"
+        width: 370
+        height: 229
         isCached: true
 
 secured: "yg2xgIg2abcXddCrzD33XT9li4kx974nfIT56pw6jbFDfqqD2RMFFnlDDQDMk5+BUZVBXly4nnIdTc+2rLeB3RhvpviuOhd4v3NysHrU09LcBDxFt/LsncIaz+vknbfR/T5EAxvN4CYxUg/PSda630D+amf1WqNPz4QKL7M+HKdGtx96hE3r5SmV1iKuwDYYg5WLTetaQRe9bEttwmKFD672s1Znx3jYg+iX1zVXnakN1cajFA9q+NuydWzXjcQkrawUT/xsTLtucChaZnAQYTbQhyG1QDxFYoS2BxsarmIPWKWMbZedq6ZdPWwn3wz/ONfH0q5QVJn7JgOfc4fal5QL8OH08nvUl2IIsNOZXu7cuU8tZRB6QSdHcJamCf3WDoP6+dAbiEQe7CHajrdWxylkKCEy61o2kr7kD6Wp/HO7Q2dFj/1IfVDEleJ/jJTP1dwRB0A9u6Gg5+yGOKVkC5+kVIU+LxV/BzDSUn7pbISd2V39eOtAoalueJbSAGuPZBU/NvABnBTHekc3kDhwhg==;PtD9n4Ob7/PxXWWXH4BoAQ=="

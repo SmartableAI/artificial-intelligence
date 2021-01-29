@@ -1,0 +1,135 @@
+---
+category: news
+title: "Top 5 Fintech Trends That Will Shape Financial Markets in 2021"
+excerpt: "The popularity of fintech has spiked in recent times. Here's how FinTech will shape the global financial market in 2021."
+publishedDateTime: 2021-01-29T10:30:00Z
+originalUrl: "https://www.entrepreneur.com/article/362981"
+webUrl: "https://www.entrepreneur.com/article/362981"
+ampWebUrl: "https://www.entrepreneur.com/amphtml/362981"
+cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/362981"
+type: article
+quality: 74
+heat: 154
+published: true
+
+provider:
+  name: Entrepreneur
+  domain: entrepreneur.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI in Finance
+  - AI
+
+images:
+  - url: "https://assets.entrepreneur.com/content/3x2/2000/1611768140-GettyImages-1180543383.jpg?width=600&crop=16:9"
+    width: 600
+    height: 338
+    isCached: true
+
+related:
+  - title: "Fintech Round-Up: CU Partnerships Spotlight Fraud Control, Financial Wellness"
+    excerpt: "Plus, a fintech launches a new cloud-based product and pricing platform specifically for community banks and credit unions."
+    publishedDateTime: 2021-01-28T22:35:00Z
+    webUrl: "https://www.cutimes.com/2021/01/28/fintech-round-up-cu-partnerships-spotlight-fraud-control-financial-wellness/"
+    ampWebUrl: "https://www.cutimes.com/2021/01/28/fintech-round-up-cu-partnerships-spotlight-fraud-control-financial-wellness/?amp=1"
+    cdnAmpWebUrl: "https://www-cutimes-com.cdn.ampproject.org/c/s/www.cutimes.com/2021/01/28/fintech-round-up-cu-partnerships-spotlight-fraud-control-financial-wellness/?amp=1"
+    type: article
+    provider:
+      name: Credit Union Times
+      domain: cutimes.com
+    quality: 41
+    images:
+      - url: "https://images.cutimes.com/contrib/content/uploads/sites/413/2020/12/fintech-bank-e1607455163832.jpg"
+        width: 620
+        height: 414
+        isCached: true
+  - title: "Holt, a Leading Global Fintech Program, Awards a Financial Grant to AI-driven Risk Intelligence Platform Agryo, with the Support of Scale AI"
+    excerpt: "Holt, a leading Global Fintech Program, has awarded a financial grant to Agryo, an AI-driven blockchain based risk intelligence platform, with support from Scale AI Acceleration program that helps Canadian accelerators and incubators fund startups to enhance their AI-based product and service offerings,"
+    publishedDateTime: 2021-01-26T16:04:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/holt-a-leading-global-fintech-program-awards-a-financial-grant-to-ai-driven-risk-intelligence-platform-agryo-with-the-support-of-scale-ai-1030005417"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/holt-a-leading-global-fintech-program-awards-a-financial-grant-to-ai-driven-risk-intelligence-platform-agryo-with-the-support-of-scale-ai-1030005417"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/holt-a-leading-global-fintech-program-awards-a-financial-grant-to-ai-driven-risk-intelligence-platform-agryo-with-the-support-of-scale-ai-1030005417"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
+  - title: "Bringing wealth management to the masses via fintech"
+    excerpt: "With the help of fintech, XSpot Wealth has been able to bring top-class wealth management services to the smaller investors that traditional banks and other investment operators ignore, and it is boom"
+    publishedDateTime: 2021-01-28T15:01:00Z
+    webUrl: "https://www.worldfinance.com/wealth-management/utilising-fintech-to-bring-wealth-management-to-the-masses"
+    type: article
+    provider:
+      name: World Finance
+      domain: worldfinance.com
+    quality: 24
+    images:
+      - url: "https://www.worldfinance.com/wp-content/uploads/2021/01/fintech-600x450.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "Jump Start 2021: Fintech Innovation Accelerates Digital Strategies in Financial Institutions"
+    excerpt: "For financial institutions, the year 2020 accelerated the already intense focus on digital. A recent report from Deloitte notes that the pandemic has turbo-charged digitization for the banking industry,"
+    publishedDateTime: 2021-01-27T11:21:00Z
+    webUrl: "https://www.finextra.com/the-long-read/103/jump-start-2021-fintech-innovation-accelerates-digital-strategies-in-financial-institutions"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 13
+    images:
+      - url: "https://www.finextra.com/finextra-images/oped/103.jpg"
+        width: 800
+        height: 449
+        isCached: true
+  - title: "AI fintech start-up looking to tackle small business late payments gets seed funding"
+    excerpt: "A fintech start-up that's looking to tackle the late payments epidemic, and ensure small businesses get paid on time, has raised seed funding. London-based Previse has bagged £2m in the round, which was led by Hambro Perks,"
+    publishedDateTime: 2021-01-26T11:59:00Z
+    webUrl: "https://startups.co.uk/news/ai-fintech-start-up-looking-to-tackle-small-business-late-payments-gets-seed-funding/"
+    type: article
+    provider:
+      name: Startups
+      domain: startups.co.uk
+    quality: 12
+  - title: "Fintech regulations, financial stability, and data privacy: So, what is the path to go forward?"
+    excerpt: "In a recent development, the Delhi High Court received a Public Interest Litigation (PIL) from an applied economist, Reshmi P Bhaskaran, seeking to regulate the entry and operations of ‘TechFin’ platforms."
+    publishedDateTime: 2021-01-27T15:44:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/fintech-regulations-financial-stability-and-data-privacy-so-what-is-the-path-to-go-forward/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/fintech-regulations-financial-stability-and-data-privacy-so-what-is-the-path-to-go-forward/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/fintech-regulations-financial-stability-and-data-privacy-so-what-is-the-path-to-go-forward/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 12
+  - title: "Holt, a Leading Global Fintech Program, Awards a Financial Grant to AI-driven Risk Intelligence Platform Agryo, with the Support of Scale AI"
+    excerpt: "Holt, a leading Global Fintech Program, has awarded a financial grant to Agryo, an AI-driven blockchain based risk intelligence platform,"
+    publishedDateTime: 2021-01-26T15:56:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/holt-a-leading-global-fintech-program-awards-a-financial-grant-to-ai-driven-risk-intelligence-platform-agryo-with-the-support-of-scale-ai-301215327.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 4
+    images:
+      - url: "https://mma.prnewswire.com/media/1427043/1.jpg?p=facebook"
+        width: 1279
+        height: 670
+        isCached: true
+  - title: "Growth Model of Fintech Industry and Expectations in 2021"
+    excerpt: "India is amongst the world’s fastest emerging markets for the Fintech sector. With China, India ranked at the highest in Fintech adoption rate globally. After the 2016 demonetization, the country"
+    publishedDateTime: 2021-01-27T09:04:00Z
+    webUrl: "https://www.ciol.com/growth-model-fintech-industry-expectations-2021/"
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 4
+
+secured: "H+BeomWh6llMJSw8nPR98BQAKAuPFaS4dM+ky+0whjmmUzcX2iisAaYkYI9czDecpG1pb/iZ1Vohk7zaQLv8Bd4EcbcE2iE82v05iR6un1z5RnnUrz0ZbTqmRDeoKT5ESgDfISO4PyI9AZ+3JTwkb+Xe74v2IHArWqtLI/+LA5HyuyukEtnPUvna2ztMI4Gh7q0ABFm1Ppkk/VxEk1xw1hkjt4pjyZra4/+1lOlUSPTAXDW9+tJX9ZlZh4nZzjv64yF3h7otzIXJKFdsAbft45up+5FDTCS1rSvKRiY8yB7wwYBz0eTxdA4jknLMqYnizuWa/DmB+Z9VgJ1rqMdIVy8hE9gJWKd2vAtXb+QuOls=;PAyjD+a+XNdzgJFb9tT/Pw=="
+---
+

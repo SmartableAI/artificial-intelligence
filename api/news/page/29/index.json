@@ -2,6 +2,152 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2021-01-06-the-us-armys-robot-tanks-make-great-bait.md",
+      "title": "The U.S. Army’s Robot Tanks Make Great Bait",
+      "excerpt": "The U.S. Army is developing remote-controlled robotic vehicles that, the service hopes, will be able to fight alongside conventional tanks, fighting vehicles and infantry as soon as the 2030s.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidaxe/2021/01/06/the-us-armys-robot-tanks-make-great-bait/",
+      "originalUrl": "https://www.forbes.com/sites/davidaxe/2021/01/06/the-us-armys-robot-tanks-make-great-bait/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff4d1e90814527e7d1bc513%2F0x0.jpg%3FcropX1%3D36%26cropX2%3D1162%26cropY1%3D0%26cropY2%3D633",
+          "width": 1126,
+          "height": 633,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidaxe/2021/01/06/the-us-armys-robot-tanks-make-great-bait/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidaxe/2021/01/06/the-us-armys-robot-tanks-make-great-bait/amp/",
+      "publishedDateTime": "2021-01-06T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-06-the-us-needs-more-foreign-artificial-intelligence-know-how.md",
+      "title": "The US Needs More Foreign Artificial Intelligence Know-How",
+      "excerpt": "Jason Furman, a top economic adviser to President Obama, says good ideas come from everywhere—but Trump has dissuaded tech workers from coming to the US.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/us-needs-more-foreign-artificial-intelligence-know-how/",
+      "originalUrl": "https://www.wired.com/story/us-needs-more-foreign-artificial-intelligence-know-how/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ff51e1eadb00d267b4a3569/master/pass/Business-Jason-Furman-1022466816.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/us-needs-more-foreign-artificial-intelligence-know-how/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/us-needs-more-foreign-artificial-intelligence-know-how/amp",
+      "publishedDateTime": "2021-01-06T04:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-06-what-buddhism-can-do-for-ai-ethics.md",
+      "title": "What Buddhism can do for AI ethics",
+      "excerpt": "Buddhism teaches us to focus our energy on eliminating suffering in the world. The explosive growth of artificial intelligence has fostered hope that it will help us solve many of the world’s most intractable problems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2021/01/06/1015779/what-buddhism-can-do-ai-ethics/",
+      "originalUrl": "https://www.technologyreview.com/2021/01/06/1015779/what-buddhism-can-do-ai-ethics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/01/SA_celine-haeberly-DwpmtAo01fY-unsplash.jpeg?w=3000",
+          "width": 3000,
+          "height": 1688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2021/01/06/1015779/what-buddhism-can-do-ai-ethics/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/01/06/1015779/what-buddhism-can-do-ai-ethics/amp/",
+      "publishedDateTime": "2021-01-06T03:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-06-how-to-merge-data-in-python-using-pandas-merge.md",
       "title": "How to merge data in Python using Pandas merge",
       "excerpt": "Use the popular Pandas library for data manipulation and analysis to read data from two files and join them into a single dataset.",
@@ -1031,136 +1177,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-after-strong-2020-denver-recycling-robotics-startup-rings-in-new-year-with-55m-series-b-funding.md",
-      "title": "After strong 2020, Denver recycling robotics startup rings in new year with $55M Series B funding",
-      "excerpt": "On the back of a strong 2020, the company has closed a large funding round to scale its business to meet a growing demand.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/denver/inno/stories/fundings/2021/01/05/after-strong-2020-denver-startup-developing.html",
-      "originalUrl": "https://www.bizjournals.com/denver/inno/stories/fundings/2021/01/05/after-strong-2020-denver-startup-developing.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-05T08:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-self-driving-cars-and-asimovs-three-laws-about-robots.md",
-      "title": "Self-Driving Cars And Asimov’s Three Laws About Robots",
-      "excerpt": "Asimov's famous Three Laws of robotics are considered in the use case of self-driving cars, and found to be aspirational but not ironclad.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/01/05/self-driving-cars-and-asimovs-three-laws-about-robots/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/01/05/self-driving-cars-and-asimovs-three-laws-about-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fdbda74b146f4f451dec796%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4743%26cropY1%3D0%26cropY2%3D3751",
-          "width": 1200,
-          "height": 949,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/01/05/self-driving-cars-and-asimovs-three-laws-about-robots/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/01/05/self-driving-cars-and-asimovs-three-laws-about-robots/amp/",
-      "publishedDateTime": "2021-01-05T08:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-denver-start-up-uses-artificial-intelligence-for-at-home-workouts.md",
-      "title": "Denver start-up uses artificial intelligence for at-home workouts",
-      "excerpt": "By using artificial intelligence — without any human in ... Eventually, they hope to use the technology for physical therapy and sports training, among other applications. To learn more about ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedenverchannel.com/news/in-good-company/denver-start-up-uses-artificial-intelligence-for-at-home-workouts",
-      "originalUrl": "https://www.thedenverchannel.com/news/in-good-company/denver-start-up-uses-artificial-intelligence-for-at-home-workouts",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ewscripps.brightspotcdn.com/dims4/default/f22f802/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F33%2F74%2F9e7b522242f28df9e9355a769681%2Fposter-fa7bd816d68347ad8a2a07017ec59b54.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-05T08:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "7News and TheDenverChannel.com",
-        "domain": "thedenverchannel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

@@ -2,6 +2,153 @@
   "page": 78,
   "value": [
     {
+      "path": "_news/2020-11-26-speech-recognition-market-growth-analysis-by-application-scope-and-regional-demand-over-2020-2027.md",
+      "title": "Speech Recognition Market Growth Analysis by Application Scope and Regional Demand Over 2020-2027",
+      "excerpt": "Allied Market Research Published Latest Report titled, “Speech Recognition Market by Deployment Mode (On Cloud and On Premise) and End Use (Consumer Electronics, Healthcare, Enterprise ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2196861/speech-recognition-market-growth-analysis-by-application-scope",
+      "originalUrl": "https://www.openpr.com/news/2196861/speech-recognition-market-growth-analysis-by-application-scope",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/b/Tb26571497_g.jpg",
+          "width": 790,
+          "height": 466,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2196861/speech-recognition-market-growth-analysis-by-application-scope",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2196861/speech-recognition-market-growth-analysis-by-application-scope",
+      "publishedDateTime": "2020-11-26T07:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-26-robotics-researchers-propose-ai-that-locates-and-safely-moves-items-on-shelves.md",
+      "title": "Robotics researchers propose AI that locates and safely moves items on shelves",
+      "excerpt": "Robotics researchers at Google and the University of California, Berkeley propose methods that help robots to more accurately move objects.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/26/robotics-researchers-propose-ai-that-locates-items-on-shelves-and-moves-objects-without-tipping-them/",
+      "originalUrl": "https://venturebeat.com/2020/11/26/robotics-researchers-propose-ai-that-locates-items-on-shelves-and-moves-objects-without-tipping-them/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/39049f7f-901d-4bf1-8a64-af2737f6b89f-e1606343440372.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 895,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/26/robotics-researchers-propose-ai-that-locates-items-on-shelves-and-moves-objects-without-tipping-them/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/26/robotics-researchers-propose-ai-that-locates-items-on-shelves-and-moves-objects-without-tipping-them/amp/",
+      "publishedDateTime": "2020-11-26T06:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-11-26-security-startup-helia-raises-3m-from-silicon-valley-investors.md",
+      "title": "Security Startup Helia Raises $3M From Silicon Valley Investors",
+      "excerpt": "Helia is headquartered in San Francisco and founded by Indian origin entrepreneur Ashwin Sreenivas along with Russell Kaplan and Daniel Berrios",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/360475",
+      "originalUrl": "https://www.entrepreneur.com/article/360475",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1606401128-heliaeditfinal.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/360475",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/360475",
+      "publishedDateTime": "2020-11-26T06:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2020-11-26-who-will-your-algorithm-harm-next-why-businesses-need-to-start-thinking-about-evil-ai-now.md",
       "title": "Who will your algorithm harm next? Why businesses need to start thinking about evil AI now",
       "excerpt": "Building AI systems that are ethical is no longer a box-ticking exercise, and could deliver a key competitive advantage to the businesses that embrace responsible technology.",
@@ -978,143 +1125,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-aisera-releases-ai-service-desk-for-microsoft-teams.md",
-      "title": "Aisera releases AI Service Desk for Microsoft Teams",
-      "excerpt": "Aisera, a leader in artificial intelligence innovation and customer service, is releasing its AI Service Desk solution for Microsoft Teams, enabling customers to speed up and simplify resolution of internal support tickets for IT with self-service resolutions through Aisera’s platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144058",
-      "originalUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144058",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.kmworld.com/images/subscribe_magazines_km.png",
-          "width": 772,
-          "height": 594,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-25T07:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KMWorld Magazine",
-        "domain": "kmworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-sk-telecom-designs-own-ai-data-centre-chip-for-5g-applications.md",
-      "title": "SK Telecom designs own AI data centre chip for 5G applications",
-      "excerpt": "South Korean mobile operator SK Telecom has detailed a new AI chip that will boost the performance of cloud-based mobile services and aid the country’s ambition of becoming a world leader in semiconductor technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/sk-telecom-designs-own-ai-data-centre-chip-for-5g-applications",
-      "originalUrl": "https://www.techradar.com/news/sk-telecom-designs-own-ai-data-centre-chip-for-5g-applications",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/CMiifeoaPiwDD5NBNkXnuE-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/sk-telecom-designs-own-ai-data-centre-chip-for-5g-applications",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/sk-telecom-designs-own-ai-data-centre-chip-for-5g-applications",
-      "publishedDateTime": "2020-11-25T06:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-chatbot-startup-kataai-raises-series-b-funding-from-mdi-tptf.md",
-      "title": "Chatbot startup Kata.ai raises series B funding from MDI, TPTF",
-      "excerpt": "Kata.ai, a conversational AI startup, said it has secured an undisclosed amount of funding in a round led by the Trans-Pacific Technology fund and MDI Ventures. The Indonesia-based startup plans ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techinasia.com/chatbot-startup-kata-ai-raises-series-b-funding",
-      "originalUrl": "https://www.techinasia.com/chatbot-startup-kata-ai-raises-series-b-funding",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-25T05:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Techinasia",
-        "domain": "techinasia.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techinasia.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

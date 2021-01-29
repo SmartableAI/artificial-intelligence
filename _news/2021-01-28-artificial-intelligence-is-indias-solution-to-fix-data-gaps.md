@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-01-27/artificial-inte
 webUrl: "https://www.bloomberg.com/news/articles/2021-01-27/artificial-intelligence-is-india-s-solution-to-fix-data-gaps"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Make AI evolution inclusive in India"
-    excerpt: "The disproportionately dominant role played by men in the development of this technology, which leads to gender stereotypes and biases, is concerning The last few years have witnessed the evolution of"
-    publishedDateTime: 2021-01-24T18:41:00Z
-    webUrl: "https://www.dailypioneer.com/2021/columnists/make-ai-evolution-inclusive-in-india.html"
-    type: article
-    provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 37
-    images:
-      - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/make-ai-evolution-inclusive-in-india-2021-01-25.jpg"
-        width: 1000
-        height: 800
-        isCached: true
   - title: "Google: India And DeepMind AI Breakthrough"
     excerpt: "Google's DeepMind recently achieved impressive results at the bi-annual CASP competition for determining the 3D structure of a proteins amino sequence."
     publishedDateTime: 2021-01-25T15:32:00Z

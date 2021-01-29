@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-29-machine-learning-tool-may-streamline-or-scheduling.md",
+      "title": "Machine Learning Tool May Streamline OR Scheduling",
+      "excerpt": "The use of a machine learning model may aid in accurately predicting surgical procedure time, according to the results from a randomized clinical trial. Researchers found that improving planned surgery duration accuracy reduced the use of presurgical resources,",
+      "sourceUrl": null,
+      "webUrl": "https://www.physiciansweekly.com/machine-learning-tool-may-streamline-or-scheduling/",
+      "originalUrl": "https://www.physiciansweekly.com/machine-learning-tool-may-streamline-or-scheduling/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.physiciansweekly.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.physiciansweekly.com/machine-learning-tool-may-streamline-or-scheduling/amp/",
+      "cdnAmpWebUrl": "https://www-physiciansweekly-com.cdn.ampproject.org/c/s/www.physiciansweekly.com/machine-learning-tool-may-streamline-or-scheduling/amp/",
+      "publishedDateTime": "2021-01-29T01:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Too Old to Operate",
+        "domain": "physiciansweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-29-new-machine-learning-model-predicts-covid-19-severity.md",
       "title": "New machine learning model predicts COVID-19 severity",
       "excerpt": "COVID-19 vaccine distribution has begun across the globe, while many countries are still struggling with the rampant rise of infections.",
@@ -1368,51 +1411,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-amesite-expands-sales-marketing-team-to-target-k-12-learning-software-market.md",
-      "title": "Amesite Expands Sales & Marketing Team to Target K-12 Learning Software Market",
-      "excerpt": "ANN ARBOR, Mich., Jan. 19, 2021 /PRNewswire/ -- AmesiteInc. (Nasdaq: AMST), an artificial intelligence software company providing online learning",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/amesite-expands-sales-marketing-team-to-target-k-12-learning-software-market-1029980247",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/amesite-expands-sales-marketing-team-to-target-k-12-learning-software-market-1029980247",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/amesite-expands-sales-marketing-team-to-target-k-12-learning-software-market-1029980247",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/amesite-expands-sales-marketing-team-to-target-k-12-learning-software-market-1029980247",
-      "publishedDateTime": "2021-01-19T03:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Marketing",
-        "AI in Sales"
       ]
     }
   ],

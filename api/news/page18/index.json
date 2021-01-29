@@ -2,6 +2,154 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-01-14-tesla-files-to-use-new-millimeter-wave-radar-on-its-full-self-driving-electric-cars.md",
+      "title": "Tesla files to use new ‘millimeter-wave radar’ on its ‘full self-driving’ electric cars",
+      "excerpt": "Tesla has applied with the FCC for the use of a new “millimeter-wave radar” for Autopilot and Full Self-Driving in its electric cars. New Tesla Radar Tesla uses a front-facing radar sensor hidden inside the front fascia of its vehicles as part of its Autopilot/Full Self-Driving (FSD) sensor suite.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/01/13/tesla-millimeter-wave-radar-electric-cars/",
+      "originalUrl": "https://electrek.co/2021/01/13/tesla-millimeter-wave-radar-electric-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Autopilot-Radar-e1603395743425.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/01/13/tesla-millimeter-wave-radar-electric-cars/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/01/13/tesla-millimeter-wave-radar-electric-cars/amp/",
+      "publishedDateTime": "2021-01-13T13:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-14-twenty20tm-solutions-introduces-enhanced-artificial-intelligence-capabilities.md",
+      "title": "Twenty20(TM) Solutions Introduces Enhanced Artificial Intelligence Capabilities",
+      "excerpt": "At the forefront of Twenty20's enhanced AI capabilities is improved object recognition and classification. Fast and accurate object recognition is the foundation of Twenty20's AI security solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/twenty20-tm-solutions-introduces-enhanced-artificial-intelligence-capabilities/article_b8ddbfc8-179d-5de7-8cff-814bfd72c2e0.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/twenty20-tm-solutions-introduces-enhanced-artificial-intelligence-capabilities/article_b8ddbfc8-179d-5de7-8cff-814bfd72c2e0.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-13T13:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-14-teslas-main-self-driving-rival-isnt-googleits-intels-mobileye.md",
+      "title": "Tesla’s main self-driving rival isn’t Google—it’s Intel’s Mobileye",
+      "excerpt": "Mobileye's self-driving strategy has a number of things in common with that of Tesla, the world's most valuable automaker. Like Tesla, Mobileye is aiming to gradually evolve its current driver-assistance technology into a fully self-driving system.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/cars/2021/01/teslas-main-self-driving-rival-isnt-google-its-intels-mobileye/",
+      "originalUrl": "https://arstechnica.com/cars/2021/01/teslas-main-self-driving-rival-isnt-google-its-intels-mobileye/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/01/Intel-Mobileye-lidar-SoC-1-1-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-13T11:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-01-14-tempus-announces-companion-diagnostic-collaboration-with-a2-biotherapeutics.md",
       "title": "Tempus Announces Companion Diagnostic Collaboration With A2 Biotherapeutics",
       "excerpt": "Tempus, a leader in artificial intelligence and precision medicine, today announced a strategic collaboration to develop a companion diagnostic (CDx) test with A2 Biotherapeutics for its new therapy targeting patients with Loss of Heterozygosity (LOH).",
@@ -1046,144 +1194,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker.md",
-      "title": "ElectrifAi Announces Expansion of Machine Learning Model Offerings for Amazon SageMaker",
-      "excerpt": "Amazon SageMaker is a ML service from Amazon Web Services (AWS) that helps data scientists and developers to prepare, build, train and deploy high-quality ML models quickly by bringing together a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210113la44824/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210113la44824/electrifai-announces-expansion-of-machine-learning-model-offerings-for-amazon-sagemaker",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-13T05:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-molecula-raises-176-million-for-its-ai-feature-store-technology.md",
-      "title": "Molecula raises $17.6 million for its AI feature store technology",
-      "excerpt": "Molecula, a company developing feature stores for AI and big data analytics workloads, has raised $17.6 million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/13/molecula-raises-17-6-million-for-its-ai-feature-store-technology/",
-      "originalUrl": "https://venturebeat.com/2021/01/13/molecula-raises-17-6-million-for-its-ai-feature-store-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/03/big-data-shutterstock_228162115-e1573230263860.jpg?w=1200&strip=all",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/13/molecula-raises-17-6-million-for-its-ai-feature-store-technology/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/13/molecula-raises-17-6-million-for-its-ai-feature-store-technology/amp/",
-      "publishedDateTime": "2021-01-13T05:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-back-to-work-say-hi-to-the-new-office-robot.md",
-      "title": "Back to work? Say hi to the new office robot",
-      "excerpt": "For robotics developers, promoting employee and customer confidence in the workplace through new health and safety tools is a prominent business priority for 2021. The clearest example is the surge in disinfecting robots,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/back-to-work-say-hi-to-the-new-office-robot/",
-      "originalUrl": "https://www.zdnet.com/article/back-to-work-say-hi-to-the-new-office-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2021/01/12/7e42b64d-8d9b-45b5-8ea5-b78793d5a46c/ava-hero.png",
-          "width": 2528,
-          "height": 1316,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/back-to-work-say-hi-to-the-new-office-robot/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/back-to-work-say-hi-to-the-new-office-robot/",
-      "publishedDateTime": "2021-01-13T04:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -32,10 +32,10 @@ images:
 related:
   - title: "Nvidia shows off the first A100 GPU systems built to handle AI workloads"
     excerpt: "As AI workloads can be complex and demanding, Nvidia has unveiled a new program that makes it easier for businesses to choose servers geared towards machine learning and analytics. This new class of accelerated servers from the company's partners are given the Nvidia-Certified Systems branding as they are designed to power organization's journeys into AI and data analytics."
-    publishedDateTime: 2021-01-28T00:00:00Z
-    webUrl: "https://www.techradar.com/uk/news/nvidia-shows-off-the-first-a100-gpu-systems-built-to-handle-ai-workloads"
-    ampWebUrl: "https://www.techradar.com/uk/amp/news/nvidia-shows-off-the-first-a100-gpu-systems-built-to-handle-ai-workloads"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/nvidia-shows-off-the-first-a100-gpu-systems-built-to-handle-ai-workloads"
+    publishedDateTime: 2021-01-27T23:52:00Z
+    webUrl: "https://www.techradar.com/in/news/nvidia-shows-off-the-first-a100-gpu-systems-built-to-handle-ai-workloads"
+    ampWebUrl: "https://www.techradar.com/in/amp/news/nvidia-shows-off-the-first-a100-gpu-systems-built-to-handle-ai-workloads"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/nvidia-shows-off-the-first-a100-gpu-systems-built-to-handle-ai-workloads"
     type: article
     provider:
       name: TechRadar

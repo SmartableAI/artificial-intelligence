@@ -1,10 +1,10 @@
 ---
 category: news
 title: "New IBM TRIRIGA Capabilities to Help Support Organizations’ Return to Work with AI-Driven Space Planning"
-excerpt: "IBM, (NYSE: IBM) today introduced capabilities in its IBM TRIRIGA integrated workplace management system that is designed to use artificial intelligence and near real-time insights to help organizations create a safe,"
+excerpt: "IBM TRIRIGA’s new indoor mapping, powered by Esri, reduces both congestion and time spent looking for a conference room or a co-worker. ARMONK, N.Y., Jan. 28, 2021 /PRNewswire/ -- IBM, (NYSE: IBM ) today introduced capabilities in its IBM TRIRIGA integrated workplace management system that is designed to use artificial intelligence and near real-time insights to help organizations create a safe,"
 publishedDateTime: 2021-01-29T08:06:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-lifestyle-business-diseases-and-conditions-lung-disease-d42fee5dcfd4f71d394895118090a09f"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-lifestyle-business-diseases-and-conditions-lung-disease-d42fee5dcfd4f71d394895118090a09f"
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-lifestyle-business-diseases-and-conditions-lung-disease-d42fee5dcfd4f71d394895118090a09f/gallery/11f9d2470d630f0a5cf35c627edc0a65"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-lifestyle-business-diseases-and-conditions-lung-disease-d42fee5dcfd4f71d394895118090a09f/gallery/11f9d2470d630f0a5cf35c627edc0a65"
 type: article
 quality: 22
 heat: -1
@@ -37,6 +37,6 @@ related:
       domain: businessinsider.com
     quality: 52
 
-secured: "6Ghu6OknAXujtxVxACVUi0sXdgLcOMBgNF75sLNdCLQDqESKua3sngfNRPKfkLmk7fXD0fmH6j9mGG9+Y5RU9K+QpxmTq05knRcTt7UaEciU1PaUZfzWDStk6J5fa0DncepbD10Ey+JGFkizuNNqpHG3eqbP+H2Sf9wwDGFsRlG+XYArvGZhmUOJwF2SqOt9Qbw4WzXhLPd4wWJc90tl+1f01MisMHWvyhkJqQfDAfqurUcbr2edt3KRMDM2RMR16k7pLVVwZzi6mTIDiwWwKGxYO4EHznU3z7arOXDllDOWv6YCQjZb2EzKexl774gBJaSOOfuwnXX/TcC/nzj9ea9IcT1WNopgf2g5rf5Ed4U=;J/V6uOkeHfa31bhUYdTxiQ=="
+secured: "H05bKQ9bqrdm3aUvm8RN7Dq/8fJnuXNse/Qp6fs+ZNCbKcjW5ysKG8sjEfsKqK4xh8nfMT9SkMNkAlfaOG/LFqcD+0yz2uxU2F14/kR78acb46a8N+lp3J8nkdoFsP8TdwbIqTIZPmc+6KPc2BiXlQ3vYxlr4iezWhLQhrpidYPIlwu1P5NZ+fFWw85FjP+rL3Ine7Web6s32fexSHibdaIwVXpG985dx/Zf32bNBHt4WH2bYpGDmYYW+x63vzFjOy0MMEgX9CFzSHieTxmT6vCWaNqBGqAziK6kD+rP3zRtsmjoWWjOZ40uPl73C8feFlabxbipvkRL2gT6vXGdajsAbiVqnV51CSLM8eOQpq4=;m7mVc84AmO1f2gKqc+DfAQ=="
 ---
 

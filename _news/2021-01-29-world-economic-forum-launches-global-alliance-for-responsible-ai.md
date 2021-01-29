@@ -57,6 +57,20 @@ related:
         width: 752
         height: 1002
         isCached: true
+  - title: "World Economic Forum launches GAIA to accelerate responsible AI adoption"
+    excerpt: "The  (WEF) announced on Thursday that it was launching the Global AI Action Alliance (GAIA), an initiative to speed up development and adoption of trusted and inclusive artificial intelligence across industry sectors."
+    publishedDateTime: 2021-01-29T09:57:00Z
+    webUrl: "https://www.computing.co.uk/news/4026460/wef-gaia-responsible-ai-adoption"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 38
+    images:
+      - url: "https://www.computing.co.uk/api/v1/wps/d0973ec/fe1e0acb-05c1-4498-ae13-641b4514e455/5/weforum-370x229.jpg"
+        width: 370
+        height: 229
+        isCached: true
 
 secured: "T62UscHIoBqGqKenBn3xeFcqal/pB7qiUguyuDNKs7Zs2lAErSZEnFaJBhK3akYNtoU1R3d0qgOQ4vXEDEznipxJtQoklGLs+W7nzdJrvYQcZTFRzYx9/Bg7Zv4en5lVjCIy74Nv0RyatGq9dRjYZD2k7DI5lbr7eCD9fDpvUFQ9r0AoQ1zsUaBa3b8q7IELEKcl5I9KfmVgbCGu5Y0yKgG4qe5d2Ecp/QNuOZfh5eE6bk89gvwfnUypnO4H0eEfZ2kSPjUf6KJaUUAJOiNpsvmJJo6dZsuqEa96fHNKKQfitL49VPFHxWb3Z0SamhzPJS3ifPvr2MfDPqTlxAJQo0IYr5VzywX3wXN4sdj4czI=;Um+8ZCqMiRUZwogmHyoO7Q=="
 ---

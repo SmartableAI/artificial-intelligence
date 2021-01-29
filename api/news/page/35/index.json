@@ -2,6 +2,143 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-12-31-timnit-gebrus-exit-from-google-exposes-a-crisis-in-ai.md",
+      "title": "Timnit Gebru’s Exit From Google Exposes a Crisis in AI",
+      "excerpt": "The situation has made clear that the field needs to change. Here’s where to start, according to a current and a former Googler.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/timnit-gebru-exit-google-exposes-crisis-in-ai/",
+      "originalUrl": "https://www.wired.com/story/timnit-gebru-exit-google-exposes-crisis-in-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/timnit-gebru-exit-google-exposes-crisis-in-ai/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/timnit-gebru-exit-google-exposes-crisis-in-ai/amp",
+      "publishedDateTime": "2020-12-31T04:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-31-artificial-intelligence-in-accounting-market-2020-analysis-may-set-new-growth-story-forecast-to-2025.md",
+      "title": "Artificial Intelligence In Accounting Market 2020 Analysis May Set New Growth Story, Forecast to 2025",
+      "excerpt": "Artificial Intelligence In Accounting Market is expected to grow from USD 666 million in 2019 to USD 4 791 million by 2025 at a CAGR of 48 Technological advances such as artificial intelligence are poised to transform the finance and",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2219626/artificial-intelligence-in-accounting-market-2020-analysis-may",
+      "originalUrl": "https://www.openpr.com/news/2219626/artificial-intelligence-in-accounting-market-2020-analysis-may",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2219626/artificial-intelligence-in-accounting-market-2020-analysis-may",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2219626/artificial-intelligence-in-accounting-market-2020-analysis-may",
+      "publishedDateTime": "2020-12-31T03:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-31-shenzhen-to-focus-on-chips-ai-and-biomedicine-to-grow-gdp-40-per-cent-over-five-years-in-the-face-of-us-hostility-and-economic-slowdown.md",
+      "title": "Shenzhen to focus on chips, AI and biomedicine to grow GDP 40 per cent over five years in the face of US hostility and economic slowdown",
+      "excerpt": "China’s southern tech hub of Shenzhen aims for 40 per cent growth over five years, with the goal of becoming an international hub of innovation, despite challenges from the US for local tech giants.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/policy/article/3115999/shenzhen-focus-chips-ai-and-biomedicine-grow-gdp-40-cent-over-five",
+      "originalUrl": "https://www.scmp.com/tech/policy/article/3115999/shenzhen-focus-chips-ai-and-biomedicine-grow-gdp-40-cent-over-five",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/12/31/ce039f8a-4b44-11eb-9c55-93e83087d811_image_hires_182210.jpg?itok=5b-jJpU-&v=1609410137",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/policy/article/3115999/shenzhen-focus-chips-ai-and-biomedicine-grow-gdp-40-cent-over-five",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/policy/article/3115999/shenzhen-focus-chips-ai-and-biomedicine-grow-gdp-40-cent-over-five",
+      "publishedDateTime": "2020-12-31T03:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-31-in-the-cultural-revolution-ai-weiweis-father-burned-the-familys-books.md",
       "title": "In the Cultural Revolution, Ai Weiwei’s Father Burned the Family’s Books",
       "excerpt": "What books are on your night stand? This is really a question that gets to me. I don’t have a bookshelf or books next to my bed. What’s the last great book you read? The last great book I read was “Permanent Record,",
@@ -1038,143 +1175,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-30-the-2021-enterprise-network-retiring-the-branch-fueling-transformation-and-getting-more-from-ai.md",
-      "title": "The 2021 Enterprise Network: Retiring The Branch, Fueling Transformation And Getting More From AI",
-      "excerpt": "As we turn past events into predictions, the pandemic continues to dominate our thoughts. IT priorities will be about learning from 2020 and adapting to whatever the new year brings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/the-2021-enterprise-network-retiring-the-branch-fueling-transformation-and-getting-more-from-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/the-2021-enterprise-network-retiring-the-branch-fueling-transformation-and-getting-more-from-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8ef32c53de1add7201f44a%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/the-2021-enterprise-network-retiring-the-branch-fueling-transformation-and-getting-more-from-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/30/the-2021-enterprise-network-retiring-the-branch-fueling-transformation-and-getting-more-from-ai/amp/",
-      "publishedDateTime": "2020-12-30T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-30-covid-19-impact-on-voice-recognition-software-market-2020-global-technology-development-trends-and-forecasts-to-2026.md",
-      "title": "Covid-19 Impact on Voice Recognition Software Market 2020 Global Technology, Development, Trends and Forecasts to 2026",
-      "excerpt": "The latest research on the Global Voice Recognition Software Market has displayed an overview of the industry with an in-depth observation. The report defines the service and product along with its various applications in various end-user industries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2219092/covid-19-impact-on-voice-recognition-software-market-2020",
-      "originalUrl": "https://www.openpr.com/news/2219092/covid-19-impact-on-voice-recognition-software-market-2020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2219092/covid-19-impact-on-voice-recognition-software-market-2020",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2219092/covid-19-impact-on-voice-recognition-software-market-2020",
-      "publishedDateTime": "2020-12-30T03:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-30-the-new-world-of-ai-based-adaptive-education.md",
-      "title": "The New World Of AI-Based Adaptive Education",
-      "excerpt": "AI technologies are now all around us, influencing every aspect of our lives and changing the world in the process",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/362540",
-      "originalUrl": "https://www.entrepreneur.com/article/362540",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1609323413-AI.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/362540",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/362540",
-      "publishedDateTime": "2020-12-30T02:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
       ]
     }
   ],

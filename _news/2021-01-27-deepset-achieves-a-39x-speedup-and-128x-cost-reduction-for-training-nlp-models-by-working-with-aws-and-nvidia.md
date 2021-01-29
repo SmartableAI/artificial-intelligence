@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/deepset-achieves-a-3
 webUrl: "https://aws.amazon.com/blogs/machine-learning/deepset-achieves-a-3-9x-speedup-and-12-8x-cost-reduction-for-training-nlp-models-by-working-with-aws-and-nvidia/"
 type: article
 quality: 101
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1159
     height: 630
     isCached: true
+
+related:
+  - title: "Deep Learning Chipset Market Influencing Factors by Focusing on Top Companies- NVIDIA, Intel, IBM"
+    excerpt: "Market.us updated new market research study work on “Deep Learning Chipset Market“, where users can benefit from the complete market research report with all the required useful information about this market."
+    publishedDateTime: 2021-01-29T09:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chipset-market-influencing-factors-by-focusing-on-top-companies--nvidia-intel-ibm-2021-01-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "0Sodr2c43gFBZf4/Cde1ByX5zitSRSKDgloB7gUg86EtxuW6RZGmdcYL4N8Q8WR67JUGhJhmp7W9NKY723UZIvPo9jrluDku2hH/o0fUT0DD/wYvxjHZgo9LlRnr6l5c1GatNjxij94VJJH888cPD5WQIAc3rTO7xUJSaT7L+mwbaFpKfqnKdmX7mEHsW8cEnxlgG7HfIUETU3apz+jqCHLMig8Et+QtxRqvs3lnVRIZ5cQc66dSwgjwYGi/kIlSTPFTb9MOaVYKXKGZy+UZ8+4Y5u1PANCoDXpbzX+SkEIcwPGjuYY4hA3ZZPA9OZIliLkvvtvJVt4/7iFEgr4Y7r6RsR2ms1/VETZYAzb+RSo=;4VmRuuJvzybPtPHEf9/eFQ=="
 ---
