@@ -2,6 +2,257 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-30-can-we-trust-ai-trusting-ai-is-best-for-everyone-part-two.md",
+      "title": "Can We Trust AI? Trusting AI Is Best For Everyone (Part Two)",
+      "excerpt": "Bringing AI into the boardroom, and using it more effectively to influence decision-making in the right places, could not only help improve trust in AI as a technology but also improve our relationship with Big Tech companies in general.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/charlestowersclark/2021/01/29/can-we-trust-ai-trusting-ai-is-best-for-everyone-part-two/",
+      "originalUrl": "https://www.forbes.com/sites/charlestowersclark/2021/01/29/can-we-trust-ai-trusting-ai-is-best-for-everyone-part-two/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601456c88ac2c2e65d67a64f%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charlestowersclark/2021/01/29/can-we-trust-ai-trusting-ai-is-best-for-everyone-part-two/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charlestowersclark/2021/01/29/can-we-trust-ai-trusting-ai-is-best-for-everyone-part-two/amp/",
+      "publishedDateTime": "2021-01-29T10:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-01-30-ai-humans-is-the-superpower-your-organisation-needs-in-2021.md",
+      "title": "AI + Humans Is The Superpower Your Organisation Needs In 2021",
+      "excerpt": "Dhubaib, Managing Partner, Pandata. It’s an exciting time in the world of AI: chatbots and virtual assistants are getting smarte",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/businessreporter/2021/01/29/ai--humans-is-the-superpower-your-organisation-needs-in-2021/",
+      "originalUrl": "https://www.forbes.com/sites/businessreporter/2021/01/29/ai--humans-is-the-superpower-your-organisation-needs-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601453bd5f511181fc8b4d29%2F0x0.jpg",
+          "width": 1200,
+          "height": 701,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/businessreporter/2021/01/29/ai--humans-is-the-superpower-your-organisation-needs-in-2021/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/businessreporter/2021/01/29/ai--humans-is-the-superpower-your-organisation-needs-in-2021/amp/",
+      "publishedDateTime": "2021-01-29T10:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-30-biometrics-ethics-group-addresses-public-private-use-of-facial-recognition.md",
+      "title": "Biometrics ethics group addresses public-private use of facial recognition",
+      "excerpt": "Home Office’s Biometrics and Forensics Ethics Group releases briefing note on the use of live facial recognition in public–private collaborations following a year-long investigation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/news/252495597/Biometrics-ethics-group-address-public-private-use-of-facial-recognition",
+      "originalUrl": "https://www.computerweekly.com/news/252495597/Biometrics-ethics-group-address-public-private-use-of-facial-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ttgtmedia.com/visuals/German/article/CCTV-facial-recognition-2-adobe.jpg",
+          "width": 1200,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/news/252495597/Biometrics-ethics-group-address-public-private-use-of-facial-recognition?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252495597/Biometrics-ethics-group-address-public-private-use-of-facial-recognition?amp=1",
+      "publishedDateTime": "2021-01-29T10:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-01-30-best-robots-at-ces-2021-humanoids-ai-pets-uv-c-equipped-disinfecting-bots-and-more.md",
+      "title": "Best robots at CES 2021: Humanoids, AI pets, UV-C-equipped disinfecting bots, and more",
+      "excerpt": "CES is virtually synonymous with engineering and the annual event routinely showcases a number of impressive robotics innovations. Here are some of the best robots at CES 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/videos/best-robots-at-ces-2021-humanoids-ai-pets-uv-c-equipped-disinfecting-bots-and-more/",
+      "originalUrl": "https://www.techrepublic.com/videos/best-robots-at-ces-2021-humanoids-ai-pets-uv-c-equipped-disinfecting-bots-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2021/01/29/c0a0b09d-dd10-428e-accc-9e558447d8c5/thumbnail/770x578/13091ec4e2d44705026779de86db4640/20210114-ces-dallon-karen.jpg",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-29T09:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-30-confluent-strengthens-strategic-alliance-with-microsoft.md",
+      "title": "Confluent strengthens strategic alliance with Microsoft",
+      "excerpt": "Confluent has entered a new strategic partnership with Microsoft to enable a seamless experience between its fully managed Apache Kafka service Confluent Cloud and Azure. Confluent initially launched its Confluent Cloud on the Microsoft Azure marketplace in March 2020,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/cloud/microsoft-azure/358472/confluent-strengthens-strategic-alliance-with-microsoft",
+      "originalUrl": "https://www.itpro.co.uk/cloud/microsoft-azure/358472/confluent-strengthens-strategic-alliance-with-microsoft",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 229,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/v1611940838/itpro/Confluent_Cloud_flow_chart.png",
+          "width": 1024,
+          "height": 443,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/cloud/microsoft-azure/358472/confluent-strengthens-strategic-alliance-with-microsoft?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/358472/confluent-strengthens-strategic-alliance-with-microsoft?amp",
+      "publishedDateTime": "2021-01-29T09:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-30-physna-raises-20-million-for-ai-that-analyzes-and-digitizes-3d-objects.md",
       "title": "Physna raises $20 million for AI that analyzes and digitizes 3D objects",
       "excerpt": "Physna, a startup developing software that analyzes and digitizes 3D models, has raised $20 million in venture capital.",
@@ -10,7 +261,7 @@
       "originalUrl": "https://venturebeat.com/2021/01/29/physna-raises-20-million-for-ai-that-analyzes-and-digitizes-3d-objects/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -61,7 +312,7 @@
       "originalUrl": "https://www.reuters.com/article/davos-meeting-son-autonomous/softbanks-son-expects-mass-production-of-driverless-cars-in-2-years-idUSL1N2K41Y9",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -191,6 +442,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-29-sundar-pichai-says-googles-recent-infighting-over-ai-ethics-is-because-the-company-is-transparent.md",
+      "title": "Sundar Pichai says Google's recent infighting over AI ethics is because the company is transparent",
+      "excerpt": "\"We are a lot more transparent than most other companies, and so you do see us in the middle of these issues.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/google-ai-sundar-pichai-timnit-gebru-2021-1",
+      "originalUrl": "https://www.businessinsider.com/google-ai-sundar-pichai-timnit-gebru-2021-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fd8a37f78a5740019a1571e?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/google-ai-sundar-pichai-timnit-gebru-2021-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-ai-sundar-pichai-timnit-gebru-2021-1?amp",
+      "publishedDateTime": "2021-01-29T02:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-29-top-5-fintech-trends-that-will-shape-financial-markets-in-2021.md",
       "title": "Top 5 Fintech Trends That Will Shape Financial Markets in 2021",
       "excerpt": "The popularity of fintech has spiked in recent times. Here's how FinTech will shape the global financial market in 2021.",
@@ -199,7 +502,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/362981",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -922,292 +1225,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-pentagon-aims-to-spread-artificial-intelligence-services.md",
-      "title": "Pentagon aims to spread artificial intelligence services",
-      "excerpt": "After spending the past few years demonstrating how artificial intelligence tools can boost U.S. military efforts, the office responsible for overseeing such programs at the Defense Department is shifting its focus to helping military services and agencies figure out how to incorporate the technologies in their systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gctelegram.com/story/news/2021/01/28/pentagon-aims-spread-artificial-intelligence-services/4293251001/",
-      "originalUrl": "https://www.gctelegram.com/story/news/2021/01/28/pentagon-aims-spread-artificial-intelligence-services/4293251001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/01/28/NGCT/7388f80f-e5cb-4f68-b53e-584f40786f1d-MILITARY_TECH.jpg?auto=webp&crop=2499,1406,x0,y126&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.gctelegram.com/amp/4293251001",
-      "cdnAmpWebUrl": "https://amp-gctelegram-com.cdn.ampproject.org/c/s/amp.gctelegram.com/amp/4293251001",
-      "publishedDateTime": "2021-01-28T09:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Garden City Telegram",
-        "domain": "gctelegram.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-artificial-intelligence-mit-creates-liquid-machine-learning-future-of-robot-control.md",
-      "title": "Artificial Intelligence: MIT creates ‘liquid’ machine learning - ‘future of robot control'",
-      "excerpt": "ARTIFICIAL INTELLIGENCE (AI) engineers have designed a new ‘liquid' machine-learning system potentially capable of revolutionising everything from autonomous cars to medical diagnosis.",
-      "sourceUrl": null,
-      "webUrl": "https://www.express.co.uk/news/science/1390384/artificial-intelligence-news-mit-liquid-machine-learning-future-of-robot-control-evg",
-      "originalUrl": "https://www.express.co.uk/news/science/1390384/artificial-intelligence-news-mit-liquid-machine-learning-future-of-robot-control-evg",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.images.express.co.uk/img/dynamic/151/590x/artificial-intelligence-news-mit-liquid-machine-learning-future-of-robot-control-1390384.jpg?r=1611852641718",
-          "width": 590,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.express.co.uk/news/science/1390384/artificial-intelligence-news-mit-liquid-machine-learning-future-of-robot-control-evg/amp",
-      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1390384/artificial-intelligence-news-mit-liquid-machine-learning-future-of-robot-control-evg/amp",
-      "publishedDateTime": "2021-01-28T08:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Express",
-        "domain": "express.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-baidu-gets-california-nod-for-testing-driverless-vehicles-on-sunnyvale-streets.md",
-      "title": "Baidu gets California nod for testing driverless vehicles on Sunnyvale streets",
-      "excerpt": "Baidu is the sixth company to have a permit to test without a driver behind the wheel. The permit allows it to test three autonomous vehicles on specified streets within Sunnyvale.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mercurynews.com/2021/01/28/baidu-gets-california-nod-for-testing-driverless-vehicles/",
-      "originalUrl": "https://www.mercurynews.com/2021/01/28/baidu-gets-california-nod-for-testing-driverless-vehicles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mercurynews.com/wp-content/uploads/2021/01/Baidu.jpg?w=1024&h=640",
-          "width": 1024,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mercurynews.com/2021/01/28/baidu-gets-california-nod-for-testing-driverless-vehicles/amp/",
-      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/28/baidu-gets-california-nod-for-testing-driverless-vehicles/amp/",
-      "publishedDateTime": "2021-01-28T08:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mercury News",
-        "domain": "mercurynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-microsoft-playfab-grows-ninefold-in-3-years.md",
-      "title": "Microsoft’ PlayFab grows ninefold in 3 years",
-      "excerpt": "Microsoft's PlayFab division said today that its monthly active users grew nearly nine times since the software giant acquired it.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/28/microsoft-playfab-grows-ninefold-in-3-years/",
-      "originalUrl": "https://venturebeat.com/2021/01/28/microsoft-playfab-grows-ninefold-in-3-years/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/playfab-main.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/28/microsoft-playfab-grows-ninefold-in-3-years/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/28/microsoft-playfab-grows-ninefold-in-3-years/amp/",
-      "publishedDateTime": "2021-01-28T08:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-graphic-processing-unit-gpu-market-size-to-hit-usd-19877-billion-by-2027.md",
-      "title": "Graphic Processing Unit (GPU) Market Size to Hit USD 198.77 Billion by 2027",
-      "excerpt": "The global graphic processing unit (GPU) market is poised to grow at a compound annual growth rate (CAGR) 33.4% during the forecast period 2020 to 2027. Graphics Processing Unit (GPU) also referred as visual processing unit is mainly a computer chip that performs rapid mathematical calculations,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/graphic-processing-unit-gpu-market-size-to-hit-usd-19877-billion-by-2027-2021-01-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/graphic-processing-unit-gpu-market-size-to-hit-usd-19877-billion-by-2027-2021-01-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-28T07:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-at-362-cagr-artificial-intelligence-ai-in-retail-market-size-to-surpass-usd-57230-million-by-2025.md",
-      "title": "At 36.2% CAGR, Artificial Intelligence (AI) in Retail Market Size to Surpass USD 5723.0 Million by 2025",
-      "excerpt": "Artificial Intelligence (AI) in Retail Market is valued at USD 658.2 Million in 2018 and expected to reach USD 5723.0",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/at-362-cagr-artificial-intelligence-ai-in-retail-market-size-to-surpass-usd-57230-million-by-2025-2021-01-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/at-362-cagr-artificial-intelligence-ai-in-retail-market-size-to-surpass-usd-57230-million-by-2025-2021-01-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-28T07:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

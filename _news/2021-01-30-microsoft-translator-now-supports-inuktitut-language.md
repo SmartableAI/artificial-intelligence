@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Confluent strengthens strategic alliance with Microsoft"
+    excerpt: "Confluent has entered a new strategic partnership with Microsoft to enable a seamless experience between its fully managed Apache Kafka service Confluent Cloud and Azure. Confluent initially launched its Confluent Cloud on the Microsoft Azure marketplace in March 2020,"
+    publishedDateTime: 2021-01-29T17:27:00Z
+    webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358472/confluent-strengthens-strategic-alliance-with-microsoft"
+    ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358472/confluent-strengthens-strategic-alliance-with-microsoft?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/358472/confluent-strengthens-strategic-alliance-with-microsoft?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 89
+    images:
+      - url: "https://media.itpro.co.uk//image/upload/v1611940838/itpro/Confluent_Cloud_flow_chart.png"
+        width: 1024
+        height: 443
+        isCached: true
   - title: "Microsoft’s new vision-language model outranks humans at image captioning"
     excerpt: "Microsoft researchers have developed a new object-attribute detection model for image encoding: VinVL (visual features in vision-language) Vision-language (VL) systems make it possible to search relevant images for a text query (or vice versa)."
     publishedDateTime: 2021-01-25T19:03:00Z
@@ -60,21 +76,75 @@ related:
         width: 800
         height: 425
         isCached: true
-  - title: "Neural Network Software Market is Booming Worldwide | Neurala, IBM, Microsoft"
-    excerpt: "Latest released the research study on Global Neural Network Software Market offers a detailed overview of the factors influencing the global business scope Neural Network Software Market research report shows the latest market insights current situation analysis with upcoming trends"
-    publishedDateTime: 2021-01-28T04:19:00Z
-    webUrl: "https://www.openpr.com/news/2232068/neural-network-software-market-is-booming-worldwide-neurala"
-    ampWebUrl: "https://www.openpr.com/amp/2232068/neural-network-software-market-is-booming-worldwide-neurala"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2232068/neural-network-software-market-is-booming-worldwide-neurala"
+  - title: "SD Times news digest: Microsoft Azure Boards, Neo4j Aura Enterprise announced, and Cloud Security Alliance’s Cloud Controls Matrix v4"
+    excerpt: "Azure Boards enables developers to filter to ... system level security, 5G, and AI/ML,” said Kevin Dallas, the president and CEO of Wind River. The solution contains a fully cloud-native ..."
+    publishedDateTime: 2021-01-27T16:52:00Z
+    webUrl: "https://sdtimes.com/softwaredev/sd-times-news-digest-microsoft-azure-boards-neo4j-aura-enterprise-announced-and-cloud-security-alliances-cloud-controls-matrix-v4/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 73
+      name: SD Times
+      domain: sdtimes.com
+    quality: 70
     images:
-      - url: "https://cdn.openpr.com/U/1/U128436343_g.jpg"
-        width: 512
-        height: 325
+      - url: "https://sdtimes.com/wp-content/uploads/2021/01/008eGmZEly1gmlcy608vgj31b20u0wmg.jpg"
+        width: 1080
+        height: 689
+        isCached: true
+  - title: "Top marketing intelligence firm 10th Man uses Microsoft’s Azure cloud to unlock the power of data"
+    excerpt: "Man, a leading UK marketing intelligence company and data-driven innovator, is using Microsoft’s data tools to provide fast and accurate information to some of the world’s biggest brands. Headquartered in London,"
+    publishedDateTime: 2021-01-27T10:40:00Z
+    webUrl: "https://news.microsoft.com/en-gb/2021/01/27/top-marketing-intelligence-firm-10th-man-uses-microsofts-azure-cloud-to-unlock-the-power-of-data/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 58
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/68/2020/05/MDC19_coldAisleLow_001-768x512.jpg"
+        width: 768
+        height: 512
+        isCached: true
+  - title: "Microsoft Tweaks Data-for-AI Policy After Big Tech Voice Data Collection Controversies"
+    excerpt: "Users of Microsoft Translator and Skype can now opt out of having their voice clips used to improve speech recognition AI."
+    publishedDateTime: 2021-01-25T11:03:00Z
+    webUrl: "https://slator.com/industry-news/microsoft-tweaks-data-for-ai-policy-after-big-tech-voice-data-collection-controversies/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 48
+    images:
+      - url: "https://slator.com/assets/2021/01/Microsoft-Language-Data-Policy-Change-for-Translation-and-Machine-Translation.png"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "buyMyplace reimagines real estate with Microsoft"
+    excerpt: "Real estate disruptor, buymyplace, is launching a fully automated version of its platform that empowers Australian property owners to sell their property privately, putting them in charge of the sale of their home from go-to-whoa and cuts out the middle man."
+    publishedDateTime: 2021-01-27T21:35:00Z
+    webUrl: "https://news.microsoft.com/en-au/features/buymyplace-reimagines-real-estate-with-microsoft/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 41
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/66/2021/01/buyMyPlace-Banner-1024x373.jpg"
+        width: 1024
+        height: 373
+        isCached: true
+  - title: "GM, Cruise partner with Microsoft to speed up self-driving EV technology"
+    excerpt: "General Motors and its self-driving car subsidiary Cruise will partner with Microsoft to accelerate the commercialization of self-driving vehicles, the companies said recently."
+    publishedDateTime: 2021-01-29T17:16:00Z
+    webUrl: "https://www.gazettextra.com/work_wheels/gm-cruise-partner-with-microsoft-to-speed-up-self-driving-ev-technology/article_d27b5870-1f53-56fa-8079-6b77a515031b.html"
+    type: article
+    provider:
+      name: Janesville Gazette
+      domain: gazettextra.com
+    quality: 40
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/gazettextra.com/content/tncms/custom/image/22e609ae-afc7-11e9-8d80-639cb276d44a.png"
+        width: 900
+        height: 470
         isCached: true
   - title: "Cruise And GM Team Up With Microsoft To Commercialize Self-Driving Vehicles"
     excerpt: "Cruise and General Motors on Tuesday announced they have entered a long-term strategic relationship with Microsoft to accelerate the commercialization of self-driving vehicles."
@@ -87,6 +157,20 @@ related:
       name: CBS Local
       domain: cbslocal.com
     quality: 39
+  - title: "Microsoft surpasses $10 billion in security business revenue, more than 40 percent year-over-year growth"
+    excerpt: "I joined Microsoft a little more than six months ago—amid a global pandemic and a new norm of remote work, as well as one of the most rapidly evolving threat landscapes in history. We’ve witnessed more sophisticated attacks,"
+    publishedDateTime: 2021-01-27T18:11:00Z
+    webUrl: "https://www.microsoft.com/security/blog/2021/01/27/microsoft-surpasses-10-billion-in-security-business-revenue-more-than-40-percent-year-over-year-growth/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 39
+    images:
+      - url: "https://www.microsoft.com/security/blog/wp-content/uploads/2021/01/MSC17_dataCenter_053-1.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Confluent Announces Strategic Alliance with Microsoft"
     excerpt: "Confluent, the company of the founders of Apache Kafka, recently announced a new strategic alliance between them and Microsoft to enable a more integrated experience between Confluent Cloud and the Azure platform."
     publishedDateTime: 2021-01-29T12:06:00Z
@@ -110,7 +194,30 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 34
+  - title: "UnitedLex Integrates Microsoft Cloud to Globally Scale Digital Transformation of Legal Services"
+    excerpt: "UnitedLex, a leading technology and legal services company, has integrated Microsoft Cloud services to globally scale UnitedLex Vantage, a holistic, turnkey technology platform built to revolutionize the customer experience and transform the legal function into a first-class digital citizen."
+    publishedDateTime: 2021-01-28T08:01:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-technology-issues-cloud-computing-1acd75653b884d75b91433ef2b035ab1"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 27
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Bitscape Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
+    excerpt: "Bitscape archives Windows Server and SQL Server Migration to Microsoft Azure advanced specialization and joins group of select few Microsoft partners."
+    publishedDateTime: 2021-01-29T09:27:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210129005073/en/Bitscape-Has-Earned-the-Windows-Server-and-SQL-Server-Migration-to-Microsoft-Azure-Advanced-Specialization"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 16
 
-secured: "f/GyJB5HBuUx9Y9kTCRHDgTmNjBXJAca2WjCv6tVg+5uDSGbiCEh+ZLnfMYRd2zzmzm4Gd38uGQYBoMS5c5uLdeH0fhd87O9NbF6/df5uQrgqkP+f/3+iWCDZGMd4AbDhKrq+/H128Q9Z7xLXdGbZmOgYtDsm5BcKyBk3/JnQqtrKIuQbRM9hH+LrKKF2JQcsH3u9f0GQYDkEY5s2iRkGdRMoSCRgFo+pTknWcxvBfGXufveNDKCbkqTttP71qvxISd6DgN6S7OmqiDuUKX0PcCdnV8ucyUYs+QyFbrVyXwoQsVpwrOd/nNuGMYmllezwssKj0OrOR8RdG7q5P4UOUfPH/wxU8hLDEh34hRBjaQ=;7SeCAwOOG9M4Ovx8oGlNfA=="
+secured: "YCk1RK31Cy4GTUeFOdDGdLnEDtTKiLmRP6JWh6jufJALk721bzitpaULJMvS7KWgTAuXlkKnXcU9AKUhEHnoDmu/dqt1afk0xxwUJo4OZnN7QpfOBgywXO9lGNVO8EtJ4lHrio54xk+3ZDF594oKO6ny8OkssBmiAaV05rxpB2qz+qyiuUv7ncC1pssSRSefoy5qodbvJ+1A5P7f4AhqL9DPoGYEu/YDko52UWrLWmSyaJ9CGsEqKe1P1qi9Z/TB+HvK9YtOf+OpC7m2+hcXfsLEScxKJ+T/gT2BUZuYAxCHTcuGMKV26xnZNSj86vB5uvBu+AoxfvtabKTNDiaXfcS+o0EWlt7OvnIVsYz3LzoMq160BEAxjFhODwk/7c3F7dc9JgMtfr2+j0hNwrzP05G2IptlY+uyVpiFLUIVlPXNe/voJ0NYcqGGvQ0HsqPEED6VPlhmpvNfKtHosU4nIo1B2Kj3RH0kUhvLaoj60rbgjDjUmJGUTy1iosdLGtjazBsvfRosieef2HJcosSp3Q==;5WmmCUnxgURUK31bblVjtw=="
 ---
 

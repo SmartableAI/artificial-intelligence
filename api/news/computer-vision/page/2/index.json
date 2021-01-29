@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-17-startups-look-beyond-lidar-for-autonomous-vehicle-perception.md",
+      "title": "Startups look beyond lidar for autonomous vehicle perception",
+      "excerpt": "Last CES was a time of reckoning for lidar companies, many of which were cratering due to a lack of demand from a (still) non-existent autonomous vehicle industry. The few that excelled did so by specializing,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/01/16/startups-look-beyond-lidar-for-autonomous-vehicle-perception/",
+      "originalUrl": "https://techcrunch.com/2021/01/16/startups-look-beyond-lidar-for-autonomous-vehicle-perception/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/01/foresight-place.gif",
+          "width": 800,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/01/16/startups-look-beyond-lidar-for-autonomous-vehicle-perception/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/16/startups-look-beyond-lidar-for-autonomous-vehicle-perception/amp/",
+      "publishedDateTime": "2021-01-16T09:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-15-lapd-commission-oks-detectives-to-use-facial-recognition.md",
       "title": "LAPD Commission OKs Detectives to Use Facial Recognition",
       "excerpt": "Under the new policy, detectives can use the facial recognition database to help them in criminal investigations, and when they need to identify incapacitated, unconscious or dead people.",
@@ -1401,49 +1453,6 @@
         "AI in Robotics",
         "AI Hardware",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-infiniq-steigt-durch-grundung-einer-europaischen-vertriebszentrale-und-teilnahme-an-der-ces-2021-in-den-weltweiten-markt-ein.md",
-      "title": "INFINIQ steigt durch Gründung einer europäischen Vertriebszentrale und Teilnahme an der CES 2021 in den weltweiten Markt ein",
-      "excerpt": "This platform provides automatic object recognition algorithms and annotation tools that can be effectively utilized by companies that need to build a dataset for autonomous driving. (Graphic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedailytimes.com/business/infiniq-steigt-durch-gr-ndung-einer-europ-ischen-vertriebszentrale-und-teilnahme-an-der-ces-2021/article_d7391a6f-ad00-573a-96d3-c092493e999d.html",
-      "originalUrl": "https://www.thedailytimes.com/business/infiniq-steigt-durch-gr-ndung-einer-europ-ischen-vertriebszentrale-und-teilnahme-an-der-ces-2021/article_d7391a6f-ad00-573a-96d3-c092493e999d.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/assets/v3/editorial/3/44/3449c40e-c55b-5e89-af3b-12e8ac2d605d/5ffc1e66a9ac6.image.jpg?crop=1200%2C675%2C0%2C0&resize=1120%2C630&order=crop%2Cresize",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-11T01:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "thedailytimes.com",
-        "domain": "thedailytimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

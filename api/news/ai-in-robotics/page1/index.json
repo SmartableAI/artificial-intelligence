@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-30-best-robots-at-ces-2021-humanoids-ai-pets-uv-c-equipped-disinfecting-bots-and-more.md",
+      "title": "Best robots at CES 2021: Humanoids, AI pets, UV-C-equipped disinfecting bots, and more",
+      "excerpt": "CES is virtually synonymous with engineering and the annual event routinely showcases a number of impressive robotics innovations. Here are some of the best robots at CES 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/videos/best-robots-at-ces-2021-humanoids-ai-pets-uv-c-equipped-disinfecting-bots-and-more/",
+      "originalUrl": "https://www.techrepublic.com/videos/best-robots-at-ces-2021-humanoids-ai-pets-uv-c-equipped-disinfecting-bots-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2021/01/29/c0a0b09d-dd10-428e-accc-9e558447d8c5/thumbnail/770x578/13091ec4e2d44705026779de86db4640/20210114-ces-dallon-karen.jpg",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-29T09:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-29-elis-technologies-launches-market-for-robotics.md",
       "title": "Elis Technologies launches market for robotics",
       "excerpt": "Previously a futurist vision, automation using artificial intelligence has consistently improved every industry it could get its hands on.",
@@ -323,49 +375,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-27-humanoid-robot-sophia-to-be-mass-produced-by-the-end-of-2021-capitalising-on-the-pandemic-induced-robot-boom.md",
-      "title": "Humanoid robot Sophia to be mass produced by the end of 2021, capitalising on the pandemic-induced robot boom",
-      "excerpt": "As the pandemic creates a robotics boom, the creators of humanoid robot Sophia — who went viral in 2016 — are planning for mass production.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/robot-humanoid-sophia-david-hanson-grace-healthcare-robotics-pandemic-ai-artificial-intelligence",
-      "originalUrl": "https://www.businessinsider.com/robot-humanoid-sophia-david-hanson-grace-healthcare-robotics-pandemic-ai-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/robot-humanoid-sophia-david-hanson-grace-healthcare-robotics-pandemic-ai-artificial-intelligence?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/robot-humanoid-sophia-david-hanson-grace-healthcare-robotics-pandemic-ai-artificial-intelligence?amp",
-      "publishedDateTime": "2021-01-27T07:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-27-northwestern-scientists-create-soft-robots-that-can-walk-and-transport-goods.md",
       "title": "Northwestern scientists create soft robots that can walk and transport goods",
       "excerpt": "A group of professors and researchers at Northwestern University have created an innovative new kind of robot that is soft, can walk on its own, and transport cargo. Samuel Stupp, the board of trustees professor of materials science and engineering,",
@@ -478,7 +487,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2026-2021-01-27",
       "featuredContent": null,
       "highlight": null,
-      "heat": 219,
+      "heat": 229,
       "tags": null,
       "images": [
         {
@@ -741,7 +750,7 @@
       "originalUrl": "https://www.slashgear.com/hyundai-dal-e-ai-powered-robot-provides-automated-customer-service-25656524/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 234,
+      "heat": 224,
       "tags": null,
       "images": [
         {

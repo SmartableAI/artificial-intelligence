@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/robot-humanoid-sophia-david-hanson-g
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/robot-humanoid-sophia-david-hanson-grace-healthcare-robotics-pandemic-ai-artificial-intelligence?amp"
 type: article
 quality: 50
-heat: 70
-published: true
+heat: 60
+published: false
 
 provider:
   name: Business Insider
@@ -25,20 +25,6 @@ topics:
   - AI
 
 related:
-  - title: "More humanoid robots to start rolling out in 2021"
-    excerpt: "Hanson Robotics reportedly plans to mass-produce other humanoid robots, including Sophia, by the end of the year."
-    publishedDateTime: 2021-01-25T08:15:00Z
-    webUrl: "https://www.itweb.co.za/content/DZQ58MVPYGNvzXy2"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 39
-    images:
-      - url: "https://lh3.googleusercontent.com/E94KdaKCfEGDgToqTVYBAqwMd9NmDMn3Z07vIku4zCuqXHy9TRmaMzMBHcScbJIo53vNy_U1tFqbr3IDvtGkjA=w816-h428"
-        width: 761
-        height: 428
-        isCached: true
   - title: "Uncanny humanoid robot ‘Sophia’ to enter mass production"
     excerpt: "Hong Kong-based Hanson Robotics is to begin mass producing four models of humanoid robot by the end of the year, including the high-profile social humanoid robot, Sophia."
     publishedDateTime: 2021-01-25T14:18:00Z

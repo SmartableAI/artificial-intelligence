@@ -36,20 +36,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 50
-  - title: "More humanoid robots to start rolling out in 2021"
-    excerpt: "Hanson Robotics reportedly plans to mass-produce other humanoid robots, including Sophia, by the end of the year."
-    publishedDateTime: 2021-01-25T08:15:00Z
-    webUrl: "https://www.itweb.co.za/content/DZQ58MVPYGNvzXy2"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 39
-    images:
-      - url: "https://lh3.googleusercontent.com/E94KdaKCfEGDgToqTVYBAqwMd9NmDMn3Z07vIku4zCuqXHy9TRmaMzMBHcScbJIo53vNy_U1tFqbr3IDvtGkjA=w816-h428"
-        width: 761
-        height: 428
-        isCached: true
 
 secured: "PV/MEFKlIMOuOmCRcQLgHBjpETd6eZccY8D3ptE4vNFnax45IbXuevnbV6bsT7gOhVNOK5dVmf3+6sy4qdbUNdiLXJIJ9xKMQ5/h4dD6O48vWeobqcDqcvJNobDiNvBlyPLFPappH4wi1xIAc5qcuGUavw3oxFtmbhjjUM6GjjwPAq/AetY1JYuU1bIImK/Nk3TuVrP4G5rA8Cu3wJG5NBFV4qWzAb2CTb2BNSOp2YFagmlR3fRAKmbK9KaGkDGFnxRe/54fTlwHqJ5IAfR9K3ZbSW06kDX1et5DBC5qJkeC4LSfFPkkdAZ2LBJxKQtWRxKcJo3EmovRmrjNFy+EuEPoKZA8g8NSXUb1h0P9GJA=;/TlorH0bFbQU0OtgCKQTKA=="
 ---

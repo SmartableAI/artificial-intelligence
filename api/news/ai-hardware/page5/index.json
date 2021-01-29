@@ -2,59 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2020-12-07-north-america-ai-chipsets-market-2026-a-usd-26-billion-revenue-opportunity.md",
-      "title": "North America AI Chipsets Market 2026 – A USD 26 Billion Revenue Opportunity",
-      "excerpt": "According to the Graphical Research new growth forecast report titled North America Artificial Intelligence (AI) Chipsets Market Size will be around USD 25 billion by 2026. The North America AI chipsets market growth is driven by increasing investments in the regional datacenter infrastructure development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/north-america-ai-chipsets-market-2026-a-usd-26-billion-revenue-opportunity-2020-12-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/north-america-ai-chipsets-market-2026-a-usd-26-billion-revenue-opportunity-2020-12-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-07T01:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-05-ai-weekly-in-firing-timnit-gebru-google-puts-commercial-interests-ahead-of-ethics.md",
       "title": "AI Weekly: In firing Timnit Gebru, Google puts commercial interests ahead of ethics",
       "excerpt": "With the firing of Timnit Gebru this week, Google implicitly signaled that it's willing to put commercial interests ahead of all else.",
@@ -1461,6 +1408,49 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-grai-matter-labs-raises-14m-to-bring-fastest-ai-per-watt-to-every-device-on-the-edge.md",
+      "title": "GrAI Matter Labs Raises $14M to Bring Fastest AI per Watt to Every Device on the Edge",
+      "excerpt": "Press Release GrAI Matter Labs, a pioneer of brain inspired ultra-low latency computing, today announced its latest financing round of $14 million. The round was led by iBionext, joined by all existing investors and newly welcomed Bpifrance through the Future",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/23/grai-matter-labs-raises-14m-to-bring-fastest-ai-per-watt-to-every-device-on-the-edge/",
+      "originalUrl": "https://venturebeat.com/2020/11/23/grai-matter-labs-raises-14m-to-bring-fastest-ai-per-watt-to-every-device-on-the-edge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/23/grai-matter-labs-raises-14m-to-bring-fastest-ai-per-watt-to-every-device-on-the-edge/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/23/grai-matter-labs-raises-14m-to-bring-fastest-ai-per-watt-to-every-device-on-the-edge/amp/",
+      "publishedDateTime": "2020-11-23T19:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

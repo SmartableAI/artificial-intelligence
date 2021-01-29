@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "In Australia, AI is Building Bridges – or At Least, Maintaining Them"
+    excerpt: "Infrastructure maintenance isn’t necessarily the most eye-catching application of futuretech like AI, but the potential is enormous: in the U.S. alone,"
+    publishedDateTime: 2021-01-29T17:54:00Z
+    webUrl: "https://www.datanami.com/2021/01/29/in-australia-ai-is-building-bridges-or-at-least-maintaining-them/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 37
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/shutterstock_australia_bridge.jpg"
+        width: 1000
+        height: 614
+        isCached: true
   - title: "Australian games industry grows revenue 29% in the face of COVID-19"
     excerpt: "The Interactive Games & Entertainment Association’s 2020 Australian Game Development Survey reports that the local industry has grown its revenue 29% in 2020, despite the shakeup caused by the COVID-19 pandemic."
     publishedDateTime: 2021-01-29T06:30:00Z

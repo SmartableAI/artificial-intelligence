@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/hyundai-dal-e-ai-powered-robot-provides-au
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/hyundai-dal-e-ai-powered-robot-provides-automated-customer-service-25656524/amp/"
 type: article
 quality: 104
-heat: 234
+heat: 224
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Hyundai debuts DAL-e: your future customer service robot"
-    excerpt: "Hyundai has introduced DAL-e, an automated robot the company hopes will serve humans in an \"intimate and personal way.\" DAL-e, short for \"Drive you, Assist you, Link with you-experience,\" is a compact robot measuring 1,"
-    publishedDateTime: 2021-01-25T01:38:00Z
-    webUrl: "https://www.zdnet.com/article/hyundai-debuts-dal-e-your-future-customer-service-robot/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/hyundai-debuts-dal-e-your-future-customer-service-robot/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/hyundai-debuts-dal-e-your-future-customer-service-robot/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
-    images:
-      - url: "https://zdnet4.cbsistatic.com/hub/i/2021/01/25/c33c2bfe-31e7-4916-873c-815e4b30f388/screenshot-2021-01-25-at-08-41-33.png"
-        width: 1864
-        height: 1140
-        isCached: true
   - title: "Hyundai DAL-E Is A Robot Salesperson For A Covid World"
     excerpt: "Some automakers are offering contactless drop-off services, but Hyundai is going all-in with a robot approach."
     publishedDateTime: 2021-01-25T22:15:00Z

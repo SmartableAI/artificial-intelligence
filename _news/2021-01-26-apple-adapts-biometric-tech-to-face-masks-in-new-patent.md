@@ -25,18 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "Speaker ID is the sleeper biometric function speech apps need to nail"
-    excerpt: "A new report hints at how biometric speaker identification will help deliver the most value in speech apps in the age of COVID-19."
-    publishedDateTime: 2021-01-26T18:33:00Z
-    webUrl: "https://www.biometricupdate.com/202101/speaker-id-is-the-sleeper-biometric-function-speech-apps-need-to-nail"
+  - title: "Biometrics ethics group addresses public-private use of facial recognition"
+    excerpt: "Home Office’s Biometrics and Forensics Ethics Group releases briefing note on the use of live facial recognition in public–private collaborations following a year-long investigation."
+    publishedDateTime: 2021-01-29T18:19:00Z
+    webUrl: "https://www.computerweekly.com/news/252495597/Biometrics-ethics-group-address-public-private-use-of-facial-recognition"
+    ampWebUrl: "https://www.computerweekly.com/news/252495597/Biometrics-ethics-group-address-public-private-use-of-facial-recognition?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252495597/Biometrics-ethics-group-address-public-private-use-of-facial-recognition?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 74
+    images:
+      - url: "https://cdn.ttgtmedia.com/visuals/German/article/CCTV-facial-recognition-2-adobe.jpg"
+        width: 1200
+        height: 400
+        isCached: true
+  - title: "Council of Europe warns against biometrics-based emotion recognition"
+    excerpt: "Face biometrics should not be used to implement evaluations of employees based on emotion recognition, The Council of Europe has warned."
+    publishedDateTime: 2021-01-28T18:34:00Z
+    webUrl: "https://www.biometricupdate.com/202101/council-of-europe-warns-against-biometrics-based-emotion-recognition"
     type: article
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 39
+    quality: 41
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg"
-        width: 900
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
+        width: 730
         height: 499
         isCached: true
   - title: "Uniphore adds video AI to voice biometrics and speech solutions portfolio with acquisition"
@@ -67,29 +83,48 @@ related:
         width: 623
         height: 432
         isCached: true
-  - title: "SVI Teams with IDEMIA NSS to Offer World’s Most Advanced FMCW 4D LiDAR Biometric Recognition ..."
-    excerpt: "The solution combines NSS’s world-class biometric software with SVI’s superior 4D FMCW LiDAR system technology. FMCW LiDAR, which is short for “frequency-modulated continuous wave light detection and ranging,"
-    publishedDateTime: 2021-01-26T06:12:00Z
-    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-marketing-and-advertising-corporate-news-biometrics-84bba943e01ebd148ff8ff1842eadf3e"
+  - title: "Webtool changes headshots just enough to trick face biometrics scrapers"
+    excerpt: "Researchers say they have created software that protects social media posters from unwanted biometric surveillance."
+    publishedDateTime: 2021-01-25T18:45:00Z
+    webUrl: "https://www.biometricupdate.com/202101/webtool-changes-headshots-just-enough-to-trick-face-biometrics-scrapers"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 13
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
+        width: 730
+        height: 499
         isCached: true
-  - title: "SVI Teams with IDEMIA NSS to Offer World’s Most Advanced FMCW 4D LiDAR Biometric Recognition Solution"
-    excerpt: "The solution combines NSS’s world-class biometric software with SVI’s superior 4D FMCW LiDAR system technology. FMCW LiDAR, which is short for “frequency-modulated continuous wave light detection and ranging,"
-    publishedDateTime: 2021-01-25T16:11:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/8140476/svi-teams-with-idemia-nss-to-offer-worlds-most-advanced-fmcw-4d-lidar-biometric-recognition-solution"
+  - title: "T-Money trials face biometrics for contactless payments to public transportation"
+    excerpt: "T-Money operator Korea Smart Card will evaluate the speed of payment using the facial recognition system, and then look at ways of better commercializing it."
+    publishedDateTime: 2021-01-25T21:42:00Z
+    webUrl: "https://www.biometricupdate.com/202101/t-money-trials-face-biometrics-for-contactless-payments-to-public-transportation"
     type: article
     provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 0
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 19
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/01/25160527/t-money-facial-recognition-payment-1024x662.jpg"
+        width: 1024
+        height: 662
+        isCached: true
+  - title: "ID R&D voice biometrics extend WhatsApp for Business capabilities with new partnership"
+    excerpt: "ID R&D has launched in-app voice biometric authentication to WhatsApp for Business in collaboration with partner Wittybots by SimpleTech."
+    publishedDateTime: 2021-01-27T17:56:00Z
+    webUrl: "https://www.biometricupdate.com/202101/id-rd-voice-biometrics-extend-whatsapp-for-business-capabilities-with-new-partnership"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 16
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg"
+        width: 900
+        height: 499
+        isCached: true
 
 secured: "To7qrPdmi1DklTQAHib1wLXBeSEU/DBqePxfgWT0pc3Y6mJIUpVISC7FDKdBNDgTwdzHJcUjTPDSmTAf/QpFZlrvhUUXTWhQRsHUO39qoMog76WhawUkISaUfnRvlqplcTA5hIGXwKAquCUDsaqPsyrM1AZRwY3x1tfbIWd6Dg0DRaoG2TQx7JnMnz1mCSj7UOUtVtItuQsaMP0z8wB+SSCNzhIjQc34C3Ol+YD8F6QPOrVF7aAJhCKkYN2QmCVL727WxR0lX9KAchUSx66FvFNzA7X8+DDBoGyUh3j0Vd+5LacWNZM9V07exFEcL85htkknkG+4tW7pbYAroxV/TbF5X5nSgu9HvBP6FhD6RC8=;V+HBCTElAjZBCfzuV5iEfQ=="
 ---

@@ -2,6 +2,144 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-04-google-staff-hit-out-at-effort-to-silence-ai-ethics-leader.md",
+      "title": "Google staff hit out at effort to 'silence' AI ethics leader",
+      "excerpt": "More than 400 employees of the US firm signed a letter saying Timnit Gebru's departure was 'a moment of reckoning beyond Google'",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraph.co.uk/technology/2020/12/04/google-staff-hit-effort-silence-ai-ethics-leader/",
+      "originalUrl": "https://www.telegraph.co.uk/technology/2020/12/04/google-staff-hit-effort-silence-ai-ethics-leader/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.telegraph.co.uk/content/dam/technology/2020/12/01/TELEMMGLPICT000224849586_trans_NvBQzQNjv4BqCPWxJu6r_Co_Uapdy2dIiiutx_PFeIfnF6XtRkqB7Pc.jpeg",
+          "width": 2394,
+          "height": 1497,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telegraph.co.uk/technology/2020/12/04/google-staff-hit-effort-silence-ai-ethics-leader/amp/",
+      "cdnAmpWebUrl": "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/12/04/google-staff-hit-effort-silence-ai-ethics-leader/amp/",
+      "publishedDateTime": "2020-12-04T02:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Telegraph",
+        "domain": "telegraph.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-google-scientists-abrupt-exit-exposes-rift-in-prominent-ai-unit.md",
+      "title": "Google Scientist’s Abrupt Exit Exposes Rift in Prominent AI Unit",
+      "excerpt": "Google’s decision to part ways with a prominent researcher laid bare divisions within the company’s artificial intelligence unit and subjected its leader, the lauded software engineer Jeff Dean, to widespread scorn.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-12-04/google-scientist-s-abrupt-exit-exposes-rift-in-prominent-ai-unit",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-12-04/google-scientist-s-abrupt-exit-exposes-rift-in-prominent-ai-unit",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/icNxHoRM2yY0/v0/360x-1.jpg",
+          "width": 360,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-12-04/google-scientist-s-abrupt-exit-exposes-rift-in-prominent-ai-unit",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-04/google-scientist-s-abrupt-exit-exposes-rift-in-prominent-ai-unit",
+      "publishedDateTime": "2020-12-04T00:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-black-ethical-ai-researcher-says-google-fired-her-over-a-critical-email.md",
+      "title": "Black Ethical AI Researcher Says Google Fired Her Over A Critical Email",
+      "excerpt": "Timnit Gebru, a co-leader of the Ethical Artificial Intelligence team at Google, said she was fired for sending an email that was allegedly deemed “inconsistent with the expectations of a Google manager.",
+      "sourceUrl": null,
+      "webUrl": "https://jezebel.com/black-ethical-ai-researcher-says-google-fired-her-over-1845805528",
+      "originalUrl": "https://jezebel.com/black-ethical-ai-researcher-says-google-fired-her-over-1845805528",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/wdrwpvfwhrwrv4cgb8nz.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://jezebel.com/black-ethical-ai-researcher-says-google-fired-her-over-1845805528/amp",
+      "cdnAmpWebUrl": "https://jezebel-com.cdn.ampproject.org/c/s/jezebel.com/black-ethical-ai-researcher-says-google-fired-her-over-1845805528/amp",
+      "publishedDateTime": "2020-12-04T00:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Jezebel",
+        "domain": "jezebel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-04-ai-ethics-pioneers-exit-from-google-involved-research-into-risks-and-inequality-in-large-language-models.md",
       "title": "AI ethics pioneer’s exit from Google involved research into risks and inequality in large language models",
       "excerpt": "AI research at the center of Google AI co-lead Timit Gebru's exit focuses on the bias, risks, and inequality tied to deploying large language models.",

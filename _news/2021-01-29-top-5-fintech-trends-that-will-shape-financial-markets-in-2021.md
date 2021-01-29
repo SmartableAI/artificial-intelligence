@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/362981"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/362981"
 type: article
 quality: 74
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -86,6 +86,20 @@ related:
     images:
       - url: "https://www.worldfinance.com/wp-content/uploads/2021/01/fintech-600x450.jpg"
         width: 600
+        height: 450
+        isCached: true
+  - title: "Davos 2021: Key leader takeaways and what they mean for fintech and the environment"
+    excerpt: "Finextra attended a very different, digital Davos this year which centred on ‘The Great Reset’. Covering global insights into the impact that fintech has on wider issues such as responding to Covid-19,"
+    publishedDateTime: 2021-01-29T17:02:00Z
+    webUrl: "https://www.finextra.com/the-long-read/112/davos-2021-key-leader-takeaways-and-what-they-mean-for-fintech-and-the-environment"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 18
+    images:
+      - url: "https://www.finextra.com/finextra-images/oped/112.jpg"
+        width: 800
         height: 450
         isCached: true
   - title: "Jump Start 2021: Fintech Innovation Accelerates Digital Strategies in Financial Institutions"

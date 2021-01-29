@@ -211,7 +211,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2026-2021-01-27",
       "featuredContent": null,
       "highlight": null,
-      "heat": 219,
+      "heat": 229,
       "tags": null,
       "images": [
         {
@@ -255,49 +255,6 @@
         "AI in Healthcare",
         "AI Hardware",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-server-computing-a-data-intensive-market-propelled-by-ai.md",
-      "title": "Server Computing: A Data-Intensive Market Propelled by AI",
-      "excerpt": "Yole expects the server computing market to reach US$33b in 2025. AI and HPC dedicated products combined will reach 29M units and US$8B in",
-      "sourceUrl": null,
-      "webUrl": "https://www.eetindia.co.in/server-computing-a-data-intensive-market-propelled-by-ai/",
-      "originalUrl": "https://www.eetindia.co.in/server-computing-a-data-intensive-market-propelled-by-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eetindia.co.in/wp-content/uploads/sites/4/2021/01/AI_Data.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.eetindia.co.in/server-computing-a-data-intensive-market-propelled-by-ai/amp/",
-      "cdnAmpWebUrl": "https://www-eetindia-co-in.cdn.ampproject.org/c/s/www.eetindia.co.in/server-computing-a-data-intensive-market-propelled-by-ai/amp/",
-      "publishedDateTime": "2021-01-26T23:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eetindia.co.in",
-        "domain": "eetindia.co.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     },
     {
@@ -665,7 +622,7 @@
       "originalUrl": "https://www.nextplatform.com/2021/01/25/intels-neuromorphic-chip-just-got-more-accessible-for-mainstream-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1462,6 +1419,58 @@
         "name": "Nasdaq",
         "domain": "nasdaq.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-hybrid-chip-containing-processors-and-memory-runs-ai-on-smart-devices.md",
+      "title": "Hybrid chip containing processors and memory runs AI on smart devices",
+      "excerpt": "A group of researchers from Stanford have developed a way to combine processors and memory on multiple hybrid chips to allow AI to run on battery-powered devices such as smartphones and tablets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/hybrid-chip-containing-processors-and-memory-runs-ai-on-smart-devices-19655762/",
+      "originalUrl": "https://www.slashgear.com/hybrid-chip-containing-processors-and-memory-runs-ai-on-smart-devices-19655762/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/01/hybrid-chip.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/hybrid-chip-containing-processors-and-memory-runs-ai-on-smart-devices-19655762/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/hybrid-chip-containing-processors-and-memory-runs-ai-on-smart-devices-19655762/amp/",
+      "publishedDateTime": "2021-01-19T03:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-30-confluent-strengthens-strategic-alliance-with-microsoft.md",
+      "title": "Confluent strengthens strategic alliance with Microsoft",
+      "excerpt": "Confluent has entered a new strategic partnership with Microsoft to enable a seamless experience between its fully managed Apache Kafka service Confluent Cloud and Azure. Confluent initially launched its Confluent Cloud on the Microsoft Azure marketplace in March 2020,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/cloud/microsoft-azure/358472/confluent-strengthens-strategic-alliance-with-microsoft",
+      "originalUrl": "https://www.itpro.co.uk/cloud/microsoft-azure/358472/confluent-strengthens-strategic-alliance-with-microsoft",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 229,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/v1611940838/itpro/Confluent_Cloud_flow_chart.png",
+          "width": 1024,
+          "height": 443,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/cloud/microsoft-azure/358472/confluent-strengthens-strategic-alliance-with-microsoft?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/358472/confluent-strengthens-strategic-alliance-with-microsoft?amp",
+      "publishedDateTime": "2021-01-29T09:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-29-microsoft-playfab-grows-ninefold-in-3-years.md",
       "title": "Microsoft’ PlayFab grows ninefold in 3 years",
       "excerpt": "Microsoft's PlayFab division said today that its monthly active users grew nearly nine times since the software giant acquired it.",
@@ -54,21 +106,21 @@
       ]
     },
     {
-      "path": "_news/2021-01-28-sd-times-news-digest-microsoft-azure-boards-neo4j-aura-enterprise-announced-and-cloud-security-alliances-cloud-controls-matrix-v4.md",
-      "title": "SD Times news digest: Microsoft Azure Boards, Neo4j Aura Enterprise announced, and Cloud Security Alliance’s Cloud Controls Matrix v4",
-      "excerpt": "Azure Boards enables developers to filter to ... system level security, 5G, and AI/ML,” said Kevin Dallas, the president and CEO of Wind River. The solution contains a fully cloud-native ...",
+      "path": "_news/2021-01-28-neural-network-software-market-is-booming-worldwide-neurala-ibm-microsoft.md",
+      "title": "Neural Network Software Market is Booming Worldwide | Neurala, IBM, Microsoft",
+      "excerpt": "Latest released the research study on Global Neural Network Software Market offers a detailed overview of the factors influencing the global business scope Neural Network Software Market research report shows the latest market insights current situation analysis with upcoming trends",
       "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/softwaredev/sd-times-news-digest-microsoft-azure-boards-neo4j-aura-enterprise-announced-and-cloud-security-alliances-cloud-controls-matrix-v4/",
-      "originalUrl": "https://sdtimes.com/softwaredev/sd-times-news-digest-microsoft-azure-boards-neo4j-aura-enterprise-announced-and-cloud-security-alliances-cloud-controls-matrix-v4/",
+      "webUrl": "https://www.openpr.com/news/2232068/neural-network-software-market-is-booming-worldwide-neurala",
+      "originalUrl": "https://www.openpr.com/news/2232068/neural-network-software-market-is-booming-worldwide-neurala",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 83,
       "tags": null,
       "images": [
         {
-          "url": "https://sdtimes.com/wp-content/uploads/2021/01/008eGmZEly1gmlcy608vgj31b20u0wmg.jpg",
-          "width": 1080,
-          "height": 689,
+          "url": "https://cdn.openpr.com/U/1/U128436343_g.jpg",
+          "width": 512,
+          "height": 325,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,23 +128,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-27T08:52:00-08:00",
+      "ampWebUrl": "https://www.openpr.com/amp/2232068/neural-network-software-market-is-booming-worldwide-neurala",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2232068/neural-network-software-market-is-booming-worldwide-neurala",
+      "publishedDateTime": "2021-01-27T20:19:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -101,9 +144,9 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "Machine Learning",
         "AI",
-        "AI in Security"
+        "Microsoft AI"
       ]
     },
     {
@@ -161,10 +204,10 @@
     {
       "path": "_news/2021-01-27-looking-for-free-cloud-training-check-out-the-aws-dev-hour-on-twitch-and-learn-to-build-an-app.md",
       "title": "Looking for free cloud training? Check out the AWS Dev Hour on Twitch and learn to build an app",
-      "excerpt": "Expert trainers will build a full stack application in the AWS cloud using the AWS Free Tier during the new eight-week show.",
+      "excerpt": "SEE: Top cloud providers in 2020: AWS, Microsoft Azure, and Google Cloud ... The video archive has dozens of broadcasts ranging from machine learning to conversations with Amazon partners. Scott Barneson, director of Learning Products, AWS Training ...",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/looking-for-free-cloud-training-check-out-the-aws-dev-hour-on-twitch-and-learn-to-build-an-app/",
-      "originalUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/looking-for-free-cloud-training-check-out-the-aws-dev-hour-on-twitch-and-learn-to-build-an-app/",
+      "webUrl": "https://www.techrepublic.com/article/looking-for-free-cloud-training-check-out-the-aws-dev-hour-on-twitch-and-learn-to-build-an-app/",
+      "originalUrl": "https://www.techrepublic.com/article/looking-for-free-cloud-training-check-out-the-aws-dev-hour-on-twitch-and-learn-to-build-an-app/",
       "featuredContent": null,
       "highlight": null,
       "heat": 94,
@@ -181,8 +224,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/looking-for-free-cloud-training-check-out-the-aws-dev-hour-on-twitch-and-learn-to-build-an-app/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/looking-for-free-cloud-training-check-out-the-aws-dev-hour-on-twitch-and-learn-to-build-an-app/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/looking-for-free-cloud-training-check-out-the-aws-dev-hour-on-twitch-and-learn-to-build-an-app/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/looking-for-free-cloud-training-check-out-the-aws-dev-hour-on-twitch-and-learn-to-build-an-app/",
       "publishedDateTime": "2021-01-26T08:11:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -244,58 +287,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-microsofts-new-vision-language-model-outranks-humans-at-image-captioning.md",
-      "title": "Microsoft’s new vision-language model outranks humans at image captioning",
-      "excerpt": "Microsoft researchers have developed a new object-attribute detection model for image encoding: VinVL (visual features in vision-language) Vision-language (VL) systems make it possible to search relevant images for a text query (or vice versa).",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/cloud/microsoft-azure/358422/microsofts-new-vision-language-model-outranks-humans-at-image",
-      "originalUrl": "https://www.itpro.co.uk/cloud/microsoft-azure/358422/microsofts-new-vision-language-model-outranks-humans-at-image",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1591696456/itpro/MicrosoftSignHQ.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/cloud/microsoft-azure/358422/microsofts-new-vision-language-model-outranks-humans-at-image?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/358422/microsofts-new-vision-language-model-outranks-humans-at-image?amp",
-      "publishedDateTime": "2021-01-25T11:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

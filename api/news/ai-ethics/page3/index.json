@@ -2,6 +2,153 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-22-is-that-aibo-a-good-dog-sony-to-review-ethics-of-all-ai-products.md",
+      "title": "Is that Aibo a good dog? Sony to review ethics of all AI products",
+      "excerpt": "But even as it increases convenience, AI could unintentionally employ discriminatory algorithms, leading to embarrassing problems. Sony will start screening its AI-infused products for ethical risks as early as spring,",
+      "sourceUrl": null,
+      "webUrl": "https://asia.nikkei.com/Business/Companies/Is-that-Aibo-a-good-dog-Sony-to-review-ethics-of-all-AI-products",
+      "originalUrl": "https://asia.nikkei.com/Business/Companies/Is-that-Aibo-a-good-dog-Sony-to-review-ethics-of-all-AI-products",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F2%252F6%252F3%252F1%252F31381362-3-eng-GB%252FCropped-1608663127AIBO.JPG?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-22T01:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NIKKEI",
+        "domain": "nikkei.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-22-dispelling-three-popular-myths-about-ai.md",
+      "title": "Dispelling three popular myths about AI",
+      "excerpt": "However, implementing an AI strategy without knowing what you want to achieve can not only be costly but ultimately sets a business up for failure. To learn more about some common misconceptions that may be holding organizations back from yielding the full potential value of their investments in AI,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/au/news/dispelling-three-popular-myths-about-ai",
+      "originalUrl": "https://www.techradar.com/au/news/dispelling-three-popular-myths-about-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/4FQ3cUnt4ca6dvsktEttNT-1200-80.jpg",
+          "width": 600,
+          "height": 334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/au/amp/news/dispelling-three-popular-myths-about-ai",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/dispelling-three-popular-myths-about-ai",
+      "publishedDateTime": "2020-12-21T12:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-21-ai-will-take-away-lots-of-jobs-and-we-are-nowhere-near-ready-to-replace-them.md",
+      "title": "AI will take away lots of jobs. And we are nowhere near ready to replace them",
+      "excerpt": "The government, said the committee, must start actively explaining how data is being used, rather than expect the public to find out. The report stressed that to enable a better deployment of AI, the government should urgently appoint a dedicated leader.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-will-take-away-lots-of-jobs-and-we-are-nowhere-near-ready-to-replace-them/",
+      "originalUrl": "https://www.zdnet.com/article/ai-will-take-away-lots-of-jobs-and-we-are-nowhere-near-ready-to-replace-them/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/12/11/c04a10b1-906a-4231-b402-a811eadccee2/thumbnail/1200x675/ab72407c06211c42c14c61cd2c430a83/automation-lowcode-and-nocode-tools-crea-5fd2019dcaad46044ff21da6-1-dec-11-2020-12-25-53-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-will-take-away-lots-of-jobs-and-we-are-nowhere-near-ready-to-replace-them/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-will-take-away-lots-of-jobs-and-we-are-nowhere-near-ready-to-replace-them/",
+      "publishedDateTime": "2020-12-21T07:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-12-20-how-to-create-space-for-ethics-in-ai.md",
       "title": "How to create space for ethics in AI",
       "excerpt": "It was not the observation of a disinterested observer but an optimistic vision for coalescing the ethical AI community around notions of power, justice, and structural change. Yet in the intervening months it has proven to be,",
@@ -1336,144 +1483,6 @@
         "AI Ethics",
         "Facebook AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-google-staff-hit-out-at-effort-to-silence-ai-ethics-leader.md",
-      "title": "Google staff hit out at effort to 'silence' AI ethics leader",
-      "excerpt": "More than 400 employees of the US firm signed a letter saying Timnit Gebru's departure was 'a moment of reckoning beyond Google'",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraph.co.uk/technology/2020/12/04/google-staff-hit-effort-silence-ai-ethics-leader/",
-      "originalUrl": "https://www.telegraph.co.uk/technology/2020/12/04/google-staff-hit-effort-silence-ai-ethics-leader/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.telegraph.co.uk/content/dam/technology/2020/12/01/TELEMMGLPICT000224849586_trans_NvBQzQNjv4BqCPWxJu6r_Co_Uapdy2dIiiutx_PFeIfnF6XtRkqB7Pc.jpeg",
-          "width": 2394,
-          "height": 1497,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telegraph.co.uk/technology/2020/12/04/google-staff-hit-effort-silence-ai-ethics-leader/amp/",
-      "cdnAmpWebUrl": "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/12/04/google-staff-hit-effort-silence-ai-ethics-leader/amp/",
-      "publishedDateTime": "2020-12-04T02:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Telegraph",
-        "domain": "telegraph.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-google-scientists-abrupt-exit-exposes-rift-in-prominent-ai-unit.md",
-      "title": "Google Scientist’s Abrupt Exit Exposes Rift in Prominent AI Unit",
-      "excerpt": "Google’s decision to part ways with a prominent researcher laid bare divisions within the company’s artificial intelligence unit and subjected its leader, the lauded software engineer Jeff Dean, to widespread scorn.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-12-04/google-scientist-s-abrupt-exit-exposes-rift-in-prominent-ai-unit",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-12-04/google-scientist-s-abrupt-exit-exposes-rift-in-prominent-ai-unit",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/icNxHoRM2yY0/v0/360x-1.jpg",
-          "width": 360,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-12-04/google-scientist-s-abrupt-exit-exposes-rift-in-prominent-ai-unit",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-04/google-scientist-s-abrupt-exit-exposes-rift-in-prominent-ai-unit",
-      "publishedDateTime": "2020-12-04T00:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-black-ethical-ai-researcher-says-google-fired-her-over-a-critical-email.md",
-      "title": "Black Ethical AI Researcher Says Google Fired Her Over A Critical Email",
-      "excerpt": "Timnit Gebru, a co-leader of the Ethical Artificial Intelligence team at Google, said she was fired for sending an email that was allegedly deemed “inconsistent with the expectations of a Google manager.",
-      "sourceUrl": null,
-      "webUrl": "https://jezebel.com/black-ethical-ai-researcher-says-google-fired-her-over-1845805528",
-      "originalUrl": "https://jezebel.com/black-ethical-ai-researcher-says-google-fired-her-over-1845805528",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/wdrwpvfwhrwrv4cgb8nz.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://jezebel.com/black-ethical-ai-researcher-says-google-fired-her-over-1845805528/amp",
-      "cdnAmpWebUrl": "https://jezebel-com.cdn.ampproject.org/c/s/jezebel.com/black-ethical-ai-researcher-says-google-fired-her-over-1845805528/amp",
-      "publishedDateTime": "2020-12-04T00:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Jezebel",
-        "domain": "jezebel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

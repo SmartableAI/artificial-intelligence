@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Natural Language Processing (NLP) in Healthcare and Life Sciences Market 2021, Share, Growth, Trend, Industry Analysis and Forecast to 2026"
+    excerpt: "Summary A New Market Study, titled \"Natural Language Processing (NLP) in Healthcare and Life Sciences Market Upcoming"
+    publishedDateTime: 2021-01-29T17:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-2021-share-growth-trend-industry-analysis-and-forecast-to-2026-2021-01-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Robots Market Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025"
     excerpt: "Jan (Heraldkeepers) -- The report covers detailed competitive outlook including the market share and company profiles of the key"
     publishedDateTime: 2021-01-25T07:33:00Z

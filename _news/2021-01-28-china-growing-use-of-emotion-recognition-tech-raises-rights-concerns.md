@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL8N2K2500"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2K2500"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -25,20 +25,6 @@ topics:
   - AI
 
 related:
-  - title: "Council of Europe warns against biometrics-based emotion recognition"
-    excerpt: "Face biometrics should not be used to implement evaluations of employees based on emotion recognition, The Council of Europe has warned."
-    publishedDateTime: 2021-01-28T18:34:00Z
-    webUrl: "https://www.biometricupdate.com/202101/council-of-europe-warns-against-biometrics-based-emotion-recognition"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 41
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
-        width: 730
-        height: 499
-        isCached: true
   - title: "Voice Recognition Tech Co. Broke Ill. Privacy Law, Suit Says"
     excerpt: "A software company that provides speech and voice recognition technology to companies like FedEx is accused in an Illinois state court lawsuit of violating Illinois' biometric privacy law by collecting customers' voiceprint biometrics without getting written permission and making required disclosures."
     publishedDateTime: 2021-01-28T02:32:00Z

@@ -2,6 +2,214 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2020-12-16-tesla-full-self-driving-in-hacked-ar-view-looks-fascinating-and-more.md",
+      "title": "Tesla Full Self-Driving in hacked AR view looks fascinating, and more",
+      "excerpt": "Seeing a Tesla crunch data in a real-time augmented reality view is cool and slightly concerning, plus more tech news today!",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/newsletters/tesla-full-self-driving-in-hacked-ar-view-looks-fascinating-and-more/",
+      "originalUrl": "https://www.androidauthority.com/newsletters/tesla-full-self-driving-in-hacked-ar-view-looks-fascinating-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2019/03/model-y-reveal-1-920x470.jpg",
+          "width": 920,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidauthority.com/newsletters/tesla-full-self-driving-in-hacked-ar-view-looks-fascinating-and-more/amp/",
+      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/newsletters/tesla-full-self-driving-in-hacked-ar-view-looks-fascinating-and-more/amp/",
+      "publishedDateTime": "2020-12-16T04:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-ibm-says-managers-that-use-ai-will-usurp-those-that-dont.md",
+      "title": "IBM says managers that use AI will usurp those that don't",
+      "excerpt": "AI won't replace managers but managers that know how to use it will usurp those that don't, according to IBM. The comments were made to CNBC by the tech giant's senior VP of cloud and data, Rob Thomas,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/business-strategy/careers-training/358152/ibm-suggests-managers-who-know-about-ai-will-usurp-those",
+      "originalUrl": "https://www.itpro.co.uk/business-strategy/careers-training/358152/ibm-suggests-managers-who-know-about-ai-will-usurp-those",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/v1608118907/itpro/IBMTrees_shutterstock.jpg",
+          "width": 1000,
+          "height": 637,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-16T04:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-the-four-mistakes-that-kill-artificial-intelligence-projects.md",
+      "title": "The Four Mistakes That Kill Artificial Intelligence Projects",
+      "excerpt": "By Joey Bertschler, data analyst for Uniworld.io: artificial intelligence for B2B and B2C. I came across a Quora question recently that asked, “What makes AI projects fail?” It’s a valid question: The vast majority of artificial intelligence (AI) projects fail,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/theyec/2020/12/16/the-four-mistakes-that-kill-artificial-intelligenceprojects/",
+      "originalUrl": "https://www.forbes.com/sites/theyec/2020/12/16/the-four-mistakes-that-kill-artificial-intelligenceprojects/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd9017bfb580cfe3fe8ef74%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/theyec/2020/12/16/the-four-mistakes-that-kill-artificial-intelligenceprojects/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2020/12/16/the-four-mistakes-that-kill-artificial-intelligenceprojects/amp/",
+      "publishedDateTime": "2020-12-16T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-fun-machine-learning-experiment-creates-a-vocal-opera-in-your-browser.md",
+      "title": "Fun machine learning experiment creates a vocal opera in your browser",
+      "excerpt": "Google's Arts and Culture lab has launched a clever browser experiment in collaboration with David Li. The Blob Opera puts four operatic voices at your disposal to create glorious AI-driven performances.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/computers/google-blob-opera-machine-learning-experiment/",
+      "originalUrl": "https://newatlas.com/computers/google-blob-opera-machine-learning-experiment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/afd589d/2147483647/strip/true/crop/1071x714+65+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F9e%2F02%2F996578d848038d6c195522c0ef87%2F01.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/computers/google-blob-opera-machine-learning-experiment/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/google-blob-opera-machine-learning-experiment/?amp=true",
+      "publishedDateTime": "2020-12-16T03:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-huawei-case-layout-and-strategy-research-report.md",
       "title": "Huawei CASE Layout and Strategy Research Report...",
       "excerpt": "Huawei has BAT (Baidu, Alibaba, and Tencent ... that Neolix developed self-driving delivery system; that DeepRoute.ai developed the solution for container trucks at ports; that i-Tage Technology ...",
@@ -972,198 +1180,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-fedex-tracking-technologies-help-ensure-the-safe-delivery-of-vaccines-around-the-world.md",
-      "title": "FedEx tracking technologies help ensure the safe delivery of vaccines around the world",
-      "excerpt": "Earlier this month, you may have heard that FedEx announced it would begin shipping the Pfizer-BioNTech Covid-19 vaccine upon FDA approval. What you might not know is that, behind the scenes, FedEx wa",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/fedex-tracking-technologies-help-ensure-safe-delivery-judson-althoff/?trackingId=41RMaR%2FBSNG1P92v2vOmdA%3D%3D",
-      "originalUrl": "https://www.linkedin.com/pulse/fedex-tracking-technologies-help-ensure-safe-delivery-judson-althoff/?trackingId=41RMaR%2FBSNG1P92v2vOmdA%3D%3D",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQEtCw04BM9YBw/article-cover_image-shrink_720_1280/0/1608148454568?e=1614816000&v=beta&t=hqOcwke-ot2cPWCeiLTsE3D35FQnXASLKXNgLywkdWQ",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-15T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-moving-ai-ethics-beyond-guidelines.md",
-      "title": "Moving AI ethics beyond guidelines",
-      "excerpt": "This article first appeared as an op-ed in The Straits Times, 16 December 2020 The recent row over a leading researcher’s departure from Google raises questions about the role and remit of AI ethics team and the inadequacy of frameworks to deal with moral complexities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/moving-ai-ethics-beyond-guidelines-sun-sun-lim",
-      "originalUrl": "https://www.linkedin.com/pulse/moving-ai-ethics-beyond-guidelines-sun-sun-lim",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-15T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-aws-deepracer-league-announces-2020-championship-cup-winner-po-chun-hsu-of-taiwan.md",
-      "title": "AWS DeepRacer League announces 2020 Championship Cup winner Po-Chun Hsu of Taiwan",
-      "excerpt": "AWS DeepRacer is the fastest way to get rolling with machine learning (ML). It’s a fully autonomous 1/18th scale race car driven by reinforcement learning, a 3D racing simulator, and a global racing league. Throughout 2020, tens of thousands of developers honed their ML skills and competed in the League’s",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-deepracer-league-announces-2020-championship-cup-winner-po-chun-hsu-of-taiwan/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-deepracer-league-announces-2020-championship-cup-winner-po-chun-hsu-of-taiwan/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/15/Thumbnail-1120x630.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-15T15:54:01-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-adventhealth-joins-clinical-biotech-research-initiative-on-age-related-diseases-3-things-to-know.md",
-      "title": "AdventHealth joins clinical biotech research initiative on age-related diseases: 3 things to know",
-      "excerpt": "based AdventHealth formed a new research partnership Dec. 15 focused on using artificial intelligence to study ... the organizations will study exercise therapy treatments for aging skeletal ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.beckershospitalreview.com/artificial-intelligence/adventhealth-joins-clinical-biotech-research-initiative-on-age-related-diseases-3-things-to-know.html",
-      "originalUrl": "https://www.beckershospitalreview.com/artificial-intelligence/adventhealth-joins-clinical-biotech-research-initiative-on-age-related-diseases-3-things-to-know.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/3.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-15T14:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

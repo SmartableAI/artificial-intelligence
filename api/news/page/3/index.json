@@ -2,6 +2,307 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-27-deepset-achieves-a-39x-speedup-and-128x-cost-reduction-for-training-nlp-models-by-working-with-aws-and-nvidia.md",
+      "title": "Deepset achieves a 3.9x speedup and 12.8x cost reduction for training NLP models by working with AWS and NVIDIA",
+      "excerpt": "This is a guest post from deepset (creators of the open source frameworks FARM and Haystack), and was contributed to by authors from NVIDIA and AWS.&nbsp; At deepset, we’re building the next-level search engine for business documents. Our core product, Haystack, is an open-source framework that enables",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/deepset-achieves-a-3-9x-speedup-and-12-8x-cost-reduction-for-training-nlp-models-by-working-with-aws-and-nvidia/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/deepset-achieves-a-3-9x-speedup-and-12-8x-cost-reduction-for-training-nlp-models-by-working-with-aws-and-nvidia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/01/21/ML-2254-1-1159x630.jpg",
+          "width": 1159,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-27T10:11:33-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-01-28-this-robot-could-be-mass-manufactured-to-fight-the-pandemic.md",
+      "title": "This Robot Could Be Mass-Manufactured to Fight the Pandemic",
+      "excerpt": "Now more than ever, the pandemic has created the need to incorporate new technologies that will help reduce the workload of health professionals. Likewise, the prevention of the risk of contagion, reducing physical contact between people.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/364271",
+      "originalUrl": "https://www.entrepreneur.com/article/364271",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1611768922-sophia-robot1.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/364271",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/364271",
+      "publishedDateTime": "2021-01-27T09:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-28-researchers-create-new-model-to-evaluate-ai-generated-navigation-instructions.md",
+      "title": "Researchers create new model to evaluate AI-generated navigation instructions",
+      "excerpt": "In a paper, researchers at Google claim current benchmarks are insufficient for evaluating the quality of navigation instructions.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/27/researchers-find-current-benchmarks-are-insufficient-for-evaluating-the-quality-of-ai-generated-navigation-instructions/",
+      "originalUrl": "https://venturebeat.com/2021/01/27/researchers-find-current-benchmarks-are-insufficient-for-evaluating-the-quality-of-ai-generated-navigation-instructions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/static.reuters.com_.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 633,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/27/researchers-find-current-benchmarks-are-insufficient-for-evaluating-the-quality-of-ai-generated-navigation-instructions/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/27/researchers-find-current-benchmarks-are-insufficient-for-evaluating-the-quality-of-ai-generated-navigation-instructions/amp/",
+      "publishedDateTime": "2021-01-27T09:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-28-stilt-a-financial-services-provider-for-immigrants-raises-100-million-debt-facility-from-silicon-valley-bank.md",
+      "title": "Stilt, a financial services provider for immigrants, raises $100 million debt facility from Silicon Valley Bank",
+      "excerpt": "Stilt, a provider of financial services for immigrants in the United States, announced today it has raised a $100 million warehouse facility from Silicon Valley Bank for lending to its customers. This brings Stilt’s total debt facilities so far to $225 million,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/01/27/stilt-a-financial-services-provider-for-immigrants-raises-100-million-debt-facility-from-silicon-valley-bank/",
+      "originalUrl": "https://techcrunch.com/2021/01/27/stilt-a-financial-services-provider-for-immigrants-raises-100-million-debt-facility-from-silicon-valley-bank/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/01/founder_photos_1.jpg",
+          "width": 4032,
+          "height": 3024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/01/27/stilt-a-financial-services-provider-for-immigrants-raises-100-million-debt-facility-from-silicon-valley-bank/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/27/stilt-a-financial-services-provider-for-immigrants-raises-100-million-debt-facility-from-silicon-valley-bank/amp/",
+      "publishedDateTime": "2021-01-27T09:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-28-we-helped-greece-build-an-ai-system-to-make-covid-19-testing-more-efficient-heres-what-we-learned.md",
+      "title": "We Helped Greece Build an AI System to Make Covid-19 Testing More Efficient. Here's What We Learned.",
+      "excerpt": "In addition to travel and tourism, we believe AI-driven systems like Eva can help schools, workplaces, local governments, and other institutions with limited resources better manage their Covid-19 restrictions and testing policies. If a university ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/363706",
+      "originalUrl": "https://www.entrepreneur.com/article/363706",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1611603565-GettyImages-148740649.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/363706",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/363706",
+      "publishedDateTime": "2021-01-27T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-report-idc-unleashing-the-power-of-ai-initiatives-with-the-right-infrastructure.md",
+      "title": "Report IDC: Unleashing the Power of AI Initiatives with the Right Infrastructure",
+      "excerpt": "Today, as AI becomes mainstream, many organizations find themselves in the initial proof-of-concept (POC) stage; only a few are in full",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/resource-library/whitepapers/report-idc-unleashing-the-power-of-ai-initiatives-with-the-right-infrastructure/",
+      "originalUrl": "https://www.techrepublic.com/resource-library/whitepapers/report-idc-unleashing-the-power-of-ai-initiatives-with-the-right-infrastructure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/resource-library/whitepapers/report-idc-unleashing-the-power-of-ai-initiatives-with-the-right-infrastructure/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/report-idc-unleashing-the-power-of-ai-initiatives-with-the-right-infrastructure/",
+      "publishedDateTime": "2021-01-27T07:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-27-how-ai-can-streamline-health-care-claims-processing-and-benefit-payers.md",
       "title": "How AI can streamline health care claims processing and benefit payers",
       "excerpt": "AI is constantly learning and improving in order to better meet brokers’ needs; meanwhile, the claims process continues to evolve in the digital age.",
@@ -41,49 +342,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-humanoid-robot-sophia-to-be-mass-produced-by-the-end-of-2021-capitalising-on-the-pandemic-induced-robot-boom.md",
-      "title": "Humanoid robot Sophia to be mass produced by the end of 2021, capitalising on the pandemic-induced robot boom",
-      "excerpt": "As the pandemic creates a robotics boom, the creators of humanoid robot Sophia — who went viral in 2016 — are planning for mass production.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/robot-humanoid-sophia-david-hanson-grace-healthcare-robotics-pandemic-ai-artificial-intelligence",
-      "originalUrl": "https://www.businessinsider.com/robot-humanoid-sophia-david-hanson-grace-healthcare-robotics-pandemic-ai-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/robot-humanoid-sophia-david-hanson-grace-healthcare-robotics-pandemic-ai-artificial-intelligence?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/robot-humanoid-sophia-david-hanson-grace-healthcare-robotics-pandemic-ai-artificial-intelligence?amp",
-      "publishedDateTime": "2021-01-27T07:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },
@@ -252,7 +510,7 @@
       "originalUrl": "https://thenextweb.com/neural/2021/01/27/amnesty-international-calls-for-ban-on-facial-recognition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 430,
+      "heat": 420,
       "tags": null,
       "images": [
         {
@@ -556,7 +814,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/01/27/14-ways-to-better-leverage-ai-to-connect-with-consumers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 247,
+      "heat": 237,
       "tags": null,
       "images": [
         {
@@ -899,7 +1157,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2026-2021-01-27",
       "featuredContent": null,
       "highlight": null,
-      "heat": 219,
+      "heat": 229,
       "tags": null,
       "images": [
         {
@@ -946,49 +1204,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-27-server-computing-a-data-intensive-market-propelled-by-ai.md",
-      "title": "Server Computing: A Data-Intensive Market Propelled by AI",
-      "excerpt": "Yole expects the server computing market to reach US$33b in 2025. AI and HPC dedicated products combined will reach 29M units and US$8B in",
-      "sourceUrl": null,
-      "webUrl": "https://www.eetindia.co.in/server-computing-a-data-intensive-market-propelled-by-ai/",
-      "originalUrl": "https://www.eetindia.co.in/server-computing-a-data-intensive-market-propelled-by-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eetindia.co.in/wp-content/uploads/sites/4/2021/01/AI_Data.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.eetindia.co.in/server-computing-a-data-intensive-market-propelled-by-ai/amp/",
-      "cdnAmpWebUrl": "https://www-eetindia-co-in.cdn.ampproject.org/c/s/www.eetindia.co.in/server-computing-a-data-intensive-market-propelled-by-ai/amp/",
-      "publishedDateTime": "2021-01-26T23:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eetindia.co.in",
-        "domain": "eetindia.co.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-27-new-machine-learning-tool-predicts-schizophrenia.md",
       "title": "New machine learning tool predicts schizophrenia",
       "excerpt": "University of Alberta researchers have taken another step forward in developing an artificial intelligence tool to predict schizophrenia by analyzing brain scans.",
@@ -1028,213 +1243,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-neural-network-software-market-size-share-growth-future-scope-trends-2020-2026.md",
-      "title": "Neural Network Software Market Size, Share, Growth, Future Scope, Trends 2020-2026",
-      "excerpt": "The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-size-share-growth-future-scope-trends-2020-2026-2021-01-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-size-share-growth-future-scope-trends-2020-2026-2021-01-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-26T19:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-us-commission-cites-moral-imperative-to-explore-ai-weapons.md",
-      "title": "U.S. commission cites 'moral imperative' to explore AI weapons",
-      "excerpt": "The United States should not agree to ban the use or development of autonomous weapons powered by artificial intelligence (AI) software, a government-appointed panel said in a draft report for Congress.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-military-ai/u-s-commission-cites-moral-imperative-to-explore-ai-weapons-idUSKBN29V2M0?edition-redirect=ca",
-      "originalUrl": "https://www.reuters.com/article/us-usa-military-ai/u-s-commission-cites-moral-imperative-to-explore-ai-weapons-idUSKBN29V2M0?edition-redirect=ca",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210126&t=2&i=1549163391&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0P1K3",
-          "width": 924,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29V2M0",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29V2M0",
-      "publishedDateTime": "2021-01-26T19:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-opencv-opens-400000-contest-to-solve-real-world-problems-with-spatial-ai.md",
-      "title": "OpenCV opens $400,000 contest to solve real-world problems with spatial AI",
-      "excerpt": "A global contest aims to spark computer vision solutions to actual problems and promises teams free camera hardware and Azure services.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/26/opencv-opens-400000-contest-to-solve-real-world-problems-with-spatial-ai/",
-      "originalUrl": "https://venturebeat.com/2021/01/26/opencv-opens-400000-contest-to-solve-real-world-problems-with-spatial-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/opencvai.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/26/opencv-opens-400000-contest-to-solve-real-world-problems-with-spatial-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/26/opencv-opens-400000-contest-to-solve-real-world-problems-with-spatial-ai/amp/",
-      "publishedDateTime": "2021-01-26T16:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-how-the-pandemic-is-accelerating-enterprise-open-source-adoption.md",
-      "title": "How the pandemic is accelerating enterprise open source adoption",
-      "excerpt": "Enterprise IT teams increasingly shifted to open source software solutions in 2020 as they adapted to the pandemic's disruptions.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/26/how-the-pandemic-is-accelerating-enterprise-open-source-adoption/",
-      "originalUrl": "https://venturebeat.com/2021/01/26/how-the-pandemic-is-accelerating-enterprise-open-source-adoption/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/GettyImages-452883256-e1611622262540.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/26/how-the-pandemic-is-accelerating-enterprise-open-source-adoption/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/26/how-the-pandemic-is-accelerating-enterprise-open-source-adoption/amp/",
-      "publishedDateTime": "2021-01-26T15:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

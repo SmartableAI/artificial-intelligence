@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbesagencycouncil/2021/01/27/14-way
 webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2021/01/27/14-ways-to-better-leverage-ai-to-connect-with-consumers/?sh=2efafabb3465"
 type: article
 quality: 167
-heat: 247
+heat: 237
 published: true
 
 provider:
@@ -135,20 +135,6 @@ related:
       name: glamsham.com
       domain: glamsham.com
     quality: 39
-  - title: "New artificial intelligence tool to better assist U of T students with course selection"
-    excerpt: "The Centre for Analytics and Artificial Intelligence Engineering (CARTE) has created an in-development artificial intelligence (AI) tool named Education Pathways to help U of T students with course selection."
-    publishedDateTime: 2021-01-25T02:40:00Z
-    webUrl: "https://thevarsity.ca/2021/01/24/new-artificial-intelligence-tool-to-better-assist-u-of-t-students-with-course-selection/"
-    type: article
-    provider:
-      name: The Varsity
-      domain: thevarsity.ca
-    quality: 29
-    images:
-      - url: "https://thevarsity.ca/wp-content/uploads/2021/01/News_Course-planning-ai-72_Troy-Lawrence.jpg"
-        width: 1080
-        height: 720
-        isCached: true
 
 secured: "KNjIg7ReP2GNmUuEBYfcLDFesU4Ny8Cmx+fyTCnpx24Y66a27GAQQwW4xCi9nBKw3SbuBjyExHwHjPGkLdzHLCT8vqrPFabSa+wnTz6kn+xZMKa/FLQs+8TS1kJvOGM3iQ/7DYOoG2s+YD49v7gprH79xslaBee5l+EwrZLpHzyr8JLO7HprcEZkzPgehA32iZBQwIX0MJZ/z/UNWOetM0p4y6sCf5mxp5swNlCdkhE62hzGW2Iz9oPfDF6KCRdaOCGKfUbaOqQ0Tu4KrNJqtTcjzR+ZV9D2mE7BuJ7z6LSx1hnJ7yf0qjp8UqPnqjJ7hOYqicQ78uMujWtTcI6ecuO3+Co1lCkqTcGpF8bWTS2U7SiL5bw8oEo7D1u9rFgi/ymABqI3nHLkgRvEv9dauIAa1B8mBCfxfCh5SexT783661nr0eLOA8C6fGbo1FQPcnLcBlUTeJJc3TlXVOBQ5bfh0xrNaV4WjaaaFk3cYDTTKo3xaY/dWa8CE/Ces9noIsHsPE6LjKQOOGTcWAWUSerAWAzh6bCKgEH8gc2VPr4=;IwLpt4hSsYfw9DMzjgZYCA=="
 ---

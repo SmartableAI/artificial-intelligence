@@ -84,6 +84,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
+  - title: "Davos 2021: Key leader takeaways and what they mean for fintech and the environment"
+    excerpt: "Finextra attended a very different, digital Davos this year which centred on ‘The Great Reset’. Covering global insights into the impact that fintech has on wider issues such as responding to Covid-19,"
+    publishedDateTime: 2021-01-29T17:02:00Z
+    webUrl: "https://www.finextra.com/the-long-read/112/davos-2021-key-leader-takeaways-and-what-they-mean-for-fintech-and-the-environment"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 18
+    images:
+      - url: "https://www.finextra.com/finextra-images/oped/112.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Jump Start 2021: Fintech Innovation Accelerates Digital Strategies in Financial Institutions"
     excerpt: "For financial institutions, the year 2020 accelerated the already intense focus on digital. A recent report from Deloitte notes that the pandemic has turbo-charged digitization for the banking industry,"
     publishedDateTime: 2021-01-27T11:21:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/charlestowersclark/2021/01/25/can-we-tr
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charlestowersclark/2021/01/25/can-we-trust-ai-when-ai-asks-for-human-help-part-one/amp/"
 type: article
 quality: 87
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Can We Trust AI? Trusting AI Is Best For Everyone (Part Two)"
+    excerpt: "Bringing AI into the boardroom, and using it more effectively to influence decision-making in the right places, could not only help improve trust in AI as a technology but also improve our relationship with Big Tech companies in general."
+    publishedDateTime: 2021-01-29T18:49:00Z
+    webUrl: "https://www.forbes.com/sites/charlestowersclark/2021/01/29/can-we-trust-ai-trusting-ai-is-best-for-everyone-part-two/"
+    ampWebUrl: "https://www.forbes.com/sites/charlestowersclark/2021/01/29/can-we-trust-ai-trusting-ai-is-best-for-everyone-part-two/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charlestowersclark/2021/01/29/can-we-trust-ai-trusting-ai-is-best-for-everyone-part-two/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601456c88ac2c2e65d67a64f%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "utXHpVRSQfKcVFduZngUx6umFNSTyKmUG6bdBHqx8HcPp+6zsTA1xTBwnoUfetB2i0BKKArXGZj5n1SfZqc+AI5NRxyCUoVDMQSQp1o1ZhnVISt/7jmvdWvbDX3xLkjjZBH0MwZ4+/907giSY0H8MmfDwF9BvU5X/34s3QUoO4DGVAsgv+n9kvYKNwKrBJ8Qlrkiej9yQ9aNfgz2ihhON2OpCjqT2Oe0vQJ/Ng6U15+5j8bjIePEN/HhL1vcAlhLTUdgWBnY+aEANdJDOQ8+A6hkaaHnr6ssw9fjxxwMaN/81PJjRoFhg4MpBr36RdBaIn32VI+VdF+wBpPG8tOOKkZ+fnTqoZUaYzGPVZzzxYJws6yTlPg1R3sgaFQ/owcWW3cW1LC0O4FLnI8oOKKhlG1kaOJZ0aoFRfBr22Q5wNeysw6H7H4OmID675VkDMr0OlZWYRJzW2Z2Nz0SnFUvNzyjHrtECH8zESFK8LU80l/ehrrtRJIEqpFmUPeZ/qDfVT7TNAzcidMJjmnKjOjRoQ==;M9XPDo6DatpZ4qrZNZXumQ=="
 ---

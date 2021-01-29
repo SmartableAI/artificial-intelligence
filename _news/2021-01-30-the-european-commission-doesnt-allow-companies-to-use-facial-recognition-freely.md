@@ -102,22 +102,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 64
-  - title: "Use of facial recognition tech sparks privacy fears"
-    excerpt: "The Lucknow police’s decision to use facial recognition technology (FRT) to monitor women’s expressions to prevent street harassment has spurred privacy concerns among Indians. The government needs to create strict and clear regulations before it allows law enforcement agencies to use facial recognition for policing,"
-    publishedDateTime: 2021-01-25T01:34:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/use-of-facial-recognition-tech-sparks-privacy-fears-11611536778871.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/use-of-facial-recognition-tech-sparks-privacy-fears/amp-11611536778871.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/use-of-facial-recognition-tech-sparks-privacy-fears/amp-11611536778871.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: "https://images.livemint.com/img/2021/01/25/600x338/262f1b54-5e54-11eb-a9a9-2635882cf050_1611536777677_1611536858259.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "How Facial Recognition Algorithms Can Cut Out Bias"
     excerpt: "A team has published the results of a study that evaluates the accuracy and bias in gender and skin colour of automatic face recognition algorithms tested with real world data."
     publishedDateTime: 2021-01-26T11:52:00Z
@@ -488,6 +472,6 @@ related:
         height: 450
         isCached: true
 
-secured: "KFFJ6r5+zTB2Vl9f41vYBhCIRRSYa9bVRDhfLEpNSKU+TCqTsPZoVaE4htcKIC3TZ37DHp65G7nW65GnQ/uWm7AJiGoD+19kJ4aFn8as3TsQ8FziR7Z4w2c38QM86F5rsMlvJpdIxusRJ9xuoCaIMgWu/Bky+6dp1QCKDy0OKlHu3ehtlrePghRijFWxnLsoka75+jxSHyfLF6kBHTz11uZOaNc7C+8wduybWHT31eAmaumlPSIVjGyR8dEDCIzgqF7sdbtOjNAeSFnPG4oIv3ot+gnx1OpOQij1PHtz6gmUBZ7dTqucyyaRsnPVPw98Dvgm/nsui9UYY9GrttgT+Rt49x6wijvkgwdXM2kQhF8=;/OiZf+Xlne6o/A3PJaP6PQ=="
+secured: "hSGUO1jR0ZlhLXoTIB93vhNhFPjzB2/indT2JJ0JEs0YSXS4aHrAhuVz+nuYYe4cxx3uHiWfzF8ufdFzXx4GSNmeSNQMUi52GzlaIAv0Z5Os1CrZKH5F8ikqjf85L0ZilEiChZORhBbFx2UBelOf8FMqILKmBJPFjc9tFsbAcN0guEYvfnwI3QcsN3eoVkBwyS24IXjWTX+vJf8GfmFLMjcUwLXRW8xl+gl/2wTTmB5efdSIflUGzYGwXQIwrHlv/aCDbLHknWjMSl0QY4XhPVKgDSZvp/2ILOczezNH5/7oqVSF2C69QXo7O/BwR2yCVloIrDB5xoMfg+bBYbec3WZJu3cEuQjT45Dn2H1kIN53RDrIRDW1bxooN1Y+oxWv+LPxrEiu/jKLVw9ch/ECTFhUN/5iCAnmCfovCdCyU7ue0jbNW8QyJbPSIij089W5Tj6usJh7AMJ0n6/6nbmKjbdOFEEo4UrehQ/sOuR0B73sQ9uR9LhsFLMuSHG4gG0tJvMEbfyGHcxJUPTlduO6hQ==;9N2yXoz8GQZL4m+GMCYwSQ=="
 ---
 

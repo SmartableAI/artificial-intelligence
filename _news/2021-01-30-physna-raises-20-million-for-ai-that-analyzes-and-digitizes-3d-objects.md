@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/29/physna-raises-20-million-for-ai-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/29/physna-raises-20-million-for-ai-that-analyzes-and-digitizes-3d-objects/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     height: 729
     isCached: true
 
-secured: "KDPHBljft2QOeNN/LTKrWfg/IoaeNhpyH08DnPx/QaKpdhV/yU5rke3RaXgq/9KsuFLrhYSbxJ9ExpwfLBGWm9SFck+uFEoHn+hgKOu8nspLU76OQEXTXZ93BV1K11EM7zS68SnhGxB3fTAS/LKxWRswqyIRCdzDF5El8YIlf4zRGtW+LZCIFo6TLY7bSB2PytU0Xikn5evL6sbuNtOW6TS4Wa1vCUFtrr1rZJdTSK0nWhYQv/1HiIWKkH+pabJ+dC/IKgM2kYd+RF80N0DSRr7Mt70GjatumNzO79IVw6Uh3dn11/QO3kpiCsRraBEaY+otH7tOUpB6lMeurQybYEPsCiX4LXF4NguEvzpvkps=;F9CYXrqJdHX/aqCuIJwckw=="
+related:
+  - title: "Geometric Deep-Learning And 3D Search Solutions Company Physna Raises $20 Million"
+    excerpt: "Physna — a geometric deep-learning and 3D search solutions company — announced that it raised $20 million in Series B funding. These are the details."
+    publishedDateTime: 2021-01-29T18:09:00Z
+    webUrl: "https://pulse2.com/physna-raises-20-million/"
+    ampWebUrl: "https://pulse2.com/physna-raises-20-million/amp/"
+    cdnAmpWebUrl: "https://pulse2-com.cdn.ampproject.org/c/s/pulse2.com/physna-raises-20-million/amp/"
+    type: article
+    provider:
+      name: Pulse 2.0
+      domain: pulse2.com
+    quality: 34
+
+secured: "8+7dM/xQNm51CjyzQvTQTECMgAv6TfSx68HCePPrFb4x1Yg45JeVhORBlJRtNepyPRaME6BeHUSIoFk6xDVBJSsLKErLfri/aDQk1yXFAXQuiObVXxXEZ1LxO8CjAQLMV8e/ajY6k9s3DqRBCYmKmYtoHDvjaNCRrNWksxWkRRmjvxGOeQqL7qi7xBL/RP8qSHUlxNQSnqHwGd2y5l+Hnok5iY70YnJvRfcpaXrhTK7SsVanj8zPBuztZpAVVSiCL8tZSEogyYS0WohpvoR/14JB7nR3lDG/6WUHkv2lCRJOJI6mta7SbwR4JIxbhFgNmLnOtd+LyGyIZnWUnbwS3sxH04K/JK9P4dEY/t/fAO1psupd1L6+lpiOK77FfU/UbhEOtLMTnd4UF+IszvpwiurKhd2mgVtvygQZX9sLYwkL4yZspQ8c6juuocdMv0NUMD6lemAzIe/1af3MPobWrVerRgv733sRdn+tbi5hISDy+bXjJukodnRG75GGastecU8KoA1pK/3jxjCmlYGQpg==;ydsOSASludRwt9jVZ2oFMQ=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.eetindia.co.in/server-computing-a-data-intensive-market-
 cdnAmpWebUrl: "https://www-eetindia-co-in.cdn.ampproject.org/c/s/www.eetindia.co.in/server-computing-a-data-intensive-market-propelled-by-ai/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: eetindia.co.in
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robomorphic Computing: Designing Customized “Brains” for Robots"
-    excerpt: "A new system devises hardware architectures to hasten robots’ response time. Contemporary robots can move quickly. “The motors are fast, and they’re powerful,” says Sabrina Neuman. Yet in complex situations,"
-    publishedDateTime: 2021-01-25T02:38:00Z
-    webUrl: "https://scitechdaily.com/robomorphic-computing-designing-customized-brains-for-robots/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 54
-    images:
-      - url: "https://scitechdaily.com/images/Robot-Brain-Concept-scaled.jpg"
-        width: 2560
-        height: 1446
-        isCached: true
   - title: "Military Eyes AI, Cloud Computing in Space in a Decade"
     excerpt: "Military Eyes AI, Cloud Computing in Space in a Decade. Machine learning in space could one day revolutionize the way the U.S. military"
     publishedDateTime: 2021-01-28T04:41:00Z

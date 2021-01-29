@@ -54,6 +54,17 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 69
+  - title: "South Korean AI technology brings back folk singer's voice"
+    excerpt: "Even though South Korean folk rock singer Kim Kwang-seok has been dead for nearly 25 years, his fans will be able to hear him perform a new song cover on Friday thanks to artificial intelligence (AI) technology used to recreate his voice."
+    publishedDateTime: 2021-01-29T18:25:00Z
+    webUrl: "https://www.businessinsider.com/south-korean-ai-technology-brings-back-folk-singers-voice-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/south-korean-ai-technology-brings-back-folk-singers-voice-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/south-korean-ai-technology-brings-back-folk-singers-voice-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
   - title: "South Korea: AI To Recreate Deceased Singer's Voice For TV Show"
     excerpt: "National broadcaster SBS plans to use AI to recreate the voice of late singer Kim Kwang-seok, but concerns have been raised over the ethics of using this technology."
     publishedDateTime: 2021-01-26T11:12:00Z

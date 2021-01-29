@@ -131,20 +131,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "New artificial intelligence tool to better assist U of T students with course selection"
-    excerpt: "The Centre for Analytics and Artificial Intelligence Engineering (CARTE) has created an in-development artificial intelligence (AI) tool named Education Pathways to help U of T students with course selection."
-    publishedDateTime: 2021-01-25T02:40:00Z
-    webUrl: "https://thevarsity.ca/2021/01/24/new-artificial-intelligence-tool-to-better-assist-u-of-t-students-with-course-selection/"
-    type: article
-    provider:
-      name: The Varsity
-      domain: thevarsity.ca
-    quality: 29
-    images:
-      - url: "https://thevarsity.ca/wp-content/uploads/2021/01/News_Course-planning-ai-72_Troy-Lawrence.jpg"
-        width: 1080
-        height: 720
-        isCached: true
 
 secured: "WMy0rKpq8Uln1Ry+Gn/Lhz1eWxpKbiFMtZEusWnQzUAtn7dnbIuqE9BDtVfDl4bZm3sHXsK+svjTSDRQaX1bvggv5CEYUkN1Vqdpzx3bD5NVeel9nXyuq3rNniBZXbNKVqX2HxUKs/p3ez51ldVY2nrNMerb30w42rpeaszX/zYShX1qhRd26OBHaGoKuCKrZn0gOQKx/iKPWqP31TL7EoP0ieZkdBKEk/p+h7AOyjGM+NnK2jctchfgBuSuxTlQPBFFPoRTAnHB5nYimlzB5kwMQ+3LlIkcbV00ABypIj453F6x+gmUb4lGOLXbNmU9tXxRm0dIddDB2pbOMWrQaRbAmkCgdXFChno9rVgO+Xk=;GJ4POI7OyDz8Q3m4XlCPcg=="
 ---

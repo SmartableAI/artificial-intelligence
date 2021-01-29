@@ -98,6 +98,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Davos 2021: Key leader takeaways and what they mean for fintech and the environment"
+    excerpt: "Finextra attended a very different, digital Davos this year which centred on ‘The Great Reset’. Covering global insights into the impact that fintech has on wider issues such as responding to Covid-19,"
+    publishedDateTime: 2021-01-29T17:02:00Z
+    webUrl: "https://www.finextra.com/the-long-read/112/davos-2021-key-leader-takeaways-and-what-they-mean-for-fintech-and-the-environment"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 18
+    images:
+      - url: "https://www.finextra.com/finextra-images/oped/112.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "AI fintech start-up looking to tackle small business late payments gets seed funding"
     excerpt: "A fintech start-up that's looking to tackle the late payments epidemic, and ensure small businesses get paid on time, has raised seed funding. London-based Previse has bagged £2m in the round, which was led by Hambro Perks,"
     publishedDateTime: 2021-01-26T11:59:00Z

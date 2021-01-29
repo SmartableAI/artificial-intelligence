@@ -47,22 +47,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Hyundai debuts DAL-e: your future customer service robot"
-    excerpt: "Hyundai has introduced DAL-e, an automated robot the company hopes will serve humans in an \"intimate and personal way.\" DAL-e, short for \"Drive you, Assist you, Link with you-experience,\" is a compact robot measuring 1,"
-    publishedDateTime: 2021-01-25T01:38:00Z
-    webUrl: "https://www.zdnet.com/article/hyundai-debuts-dal-e-your-future-customer-service-robot/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/hyundai-debuts-dal-e-your-future-customer-service-robot/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/hyundai-debuts-dal-e-your-future-customer-service-robot/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
-    images:
-      - url: "https://zdnet4.cbsistatic.com/hub/i/2021/01/25/c33c2bfe-31e7-4916-873c-815e4b30f388/screenshot-2021-01-25-at-08-41-33.png"
-        width: 1864
-        height: 1140
-        isCached: true
   - title: "Hyundai's New Dealership Robot Will Narc On You For Not Wearing A Mask"
     excerpt: "Yes, that wasn’t a misprint, Hyundai is launching DAL-e, a customer service robot that can safely communicate with patrons during the pandemic– the acronym stands for Drive you Assist you, Link with you-experience."
     publishedDateTime: 2021-01-25T21:00:00Z

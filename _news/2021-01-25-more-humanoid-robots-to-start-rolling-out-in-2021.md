@@ -25,30 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Humanoid robot Sophia to be mass produced by the end of 2021, capitalising on the pandemic-induced robot boom"
-    excerpt: "As the pandemic creates a robotics boom, the creators of humanoid robot Sophia — who went viral in 2016 — are planning for mass production."
-    publishedDateTime: 2021-01-27T15:05:00Z
-    webUrl: "https://www.businessinsider.com/robot-humanoid-sophia-david-hanson-grace-healthcare-robotics-pandemic-ai-artificial-intelligence"
-    ampWebUrl: "https://www.businessinsider.com/robot-humanoid-sophia-david-hanson-grace-healthcare-robotics-pandemic-ai-artificial-intelligence?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/robot-humanoid-sophia-david-hanson-grace-healthcare-robotics-pandemic-ai-artificial-intelligence?amp"
+  - title: "Best robots at CES 2021: Humanoids, AI pets, UV-C-equipped disinfecting bots, and more"
+    excerpt: "CES is virtually synonymous with engineering and the annual event routinely showcases a number of impressive robotics innovations. Here are some of the best robots at CES 2021."
+    publishedDateTime: 2021-01-29T17:55:00Z
+    webUrl: "https://www.techrepublic.com/videos/best-robots-at-ces-2021-humanoids-ai-pets-uv-c-equipped-disinfecting-bots-and-more/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 50
-  - title: "Uncanny humanoid robot ‘Sophia’ to enter mass production"
-    excerpt: "Hong Kong-based Hanson Robotics is to begin mass producing four models of humanoid robot by the end of the year, including the high-profile social humanoid robot, Sophia."
-    publishedDateTime: 2021-01-25T14:18:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2021/01/uncanny-humanoid-robot-sophia-to-enter-mass-production/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 39
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 76
     images:
-      - url: "https://eandt.theiet.org/media/14820/factory-making-sophia-robots.jpg?crop=0,0.10222916666666666,0,0.40488020833333338&cropmode=percentage&width=1200&height=450&rnd=132560538470000000"
-        width: 1200
-        height: 450
+      - url: "https://tr2.cbsistatic.com/hub/i/r/2021/01/29/c0a0b09d-dd10-428e-accc-9e558447d8c5/thumbnail/770x578/13091ec4e2d44705026779de86db4640/20210114-ces-dallon-karen.jpg"
+        width: 770
+        height: 578
         isCached: true
 
 secured: "BO8IFupkFvpdARZ8cesqPNv5JNdnOd56n1gkkzP8MKhwi1l1smAIOLRr13q4COBf8BlVAR+FWdVRUpBnqLmKaTENYBxrWqs+9oZOEP0tCVyPSMz8FgQJs3O74DTlItBNI92GlUSx72yxzx0exQvj8F4SjybPR9aWC2NAXQaFdFncpGKDVb6saaBULI13BChwep6tvCi4WV5dsOQpHOOxRic0+iRW56MP8gZueYGI73GcFb5b7czzHbuNWntfO4Inz1PUUR4iBZb0obOqENK4d1qwS6ImV1RZVKUUSmJoo5akCXRS1aLszPszEtGzplXWSsA8WmaCRA4HwhTAATPJO7CtiRqe69GCHlgT1kT8SnVeeLiM7SR327NT/LcDuJdT345vSsbsAAhEEZOl1kwc36XWnAXq1NnWY+tCSpISGAUasUxAS0KoXZZya6zTK6hECnBrE64CSYdam7cJPni/QWWRmsFDQ44Jt1VIfXjDQ3OyyU6AVr7JvPmAKwnIU7RJ7gDp2QkfJghHsdggOQfvow==;CuSzM3dgStz4iy2rjQcxKQ=="
