@@ -9,7 +9,7 @@ ampWebUrl: "https://www.modernghana.com/amp/news/1058182/academic-city-universit
 cdnAmpWebUrl: "https://www-modernghana-com.cdn.ampproject.org/c/s/www.modernghana.com/amp/news/1058182/academic-city-university-college-launches-bsc-robo.html"
 type: article
 quality: 71
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 600
     height: 400
     isCached: true
+
+related:
+  - title: "Taylor’s Robotics programme prepares students for an era of artificial intelligence"
+    excerpt: "C3-PO, RoboCop, Transformers, Baymax and the Terminator are characters that make the top lists in best movies of all time."
+    publishedDateTime: 2021-01-29T08:00:00Z
+    webUrl: "https://www.thestar.com.my/news/education/2021/01/29/taylors-robotics-programme-prepares-students-for-an-era-of-artificial-intelligence"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 65
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/01/29/1025592.jpg"
+        width: 1240
+        height: 826
+        isCached: true
 
 secured: "EM/yds3OTtlN9fG1efjI6vOkSo9UUSs6WXsk64VtSpNMEVPUPUYsGgM22teEYtH5URnqlUORWjRSTxLNuJ0dhveYsVHSYuySDuMDOQvf1q8XRdb5acYS/7sSmxZwWtXLNODQBut/N/agd7sNWPUl6N7pMFJ4dbtXNmERxSbt5zDJ3cjaE61T6/LMXc2g+1oGc2bvFDW4EJgrxy+fh+z+O60VWlrB3QM3hktiZUw0s8sDtNVu+nDMlPRp0I0d8VIze4zojXkBqK2IM+H7L8i/c+Of9DKvMPGet3GdsJVMBwZkKJ34HjahrWAgj8ZaS7U+DPMJkkDuvihTxcBb7kws523N/bIVhYJHBWt3b2Y4nI0=;WrNqfqxc6DZbxNIfZQBulA=="
 ---

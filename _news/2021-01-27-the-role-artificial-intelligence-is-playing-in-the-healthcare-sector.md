@@ -9,7 +9,7 @@ ampWebUrl: "https://techbullion.com/the-role-artificial-intelligence-is-playing-
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/the-role-artificial-intelligence-is-playing-in-the-healthcare-sector/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -68,6 +68,20 @@ related:
       - url: "https://cdn.nextgov.com/media/img/upload/2021/01/25/NGalert20210125/open-graph.jpg"
         width: 400
         height: 400
+        isCached: true
+  - title: "Sharecare acquires doc.ai to expand engineering expertise, accelerate digital transformation of healthcare through innovative AI platform"
+    excerpt: "Sharecare, the digital health company that helps people manage all their health in one place, today announced it has entered into a definitive agreement to acquire doc.ai, an enterprise artificial intelligence (AI) platform accelerating digital transformation in healthcare."
+    publishedDateTime: 2021-01-29T08:50:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-medical-technology-f093e8793a77d261cd22c39aefb766f7"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 21
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "hIZ3sTAOWpFFfaxl5K+ObPS5ADTwX3ZXi0oqm6Q7a3NLhW4rZztMeUgUUquIYjCECZmuufsQrXJODRaba3HG6tEzAyhzHDvmb1RPHbjCpR8Fm/O5dYxULHtwqSUkzhlakmUzVAvyIfs58SigyFUrafNWVjECclbF5wS7Ert+tFHjmRH23cB5oKD3p0kuGrnN9Cn0qhl5KInZX09lRR4KobGSTBx6cfrXlezORNketPX74i4IHcbtkCAzZBY5pLuBtY3DqRJSz1eJMQsPZ5THmFiUbeQAprdz+B3qPdk+sNGgrT2L9bH8xI6lhDwpBzVwFhcJ4fqlVly1nOxtQeK4xbJzETeS0o166UA9RZTOAjhNm2LENAh72AJC2hdrSnIJRvkyqxMujpOo4Xe1lzoszsnINKQk8HfnobkrWsh5qHDsbXk9UUfmGqySOA1YgiO8Knct0dflQdeqvNT22LtopQoymtfaLadg19zgaTRSCI29sD2YYmU7+kcdywIpfE0Y4v1mmI37OY4xWjJ9a91rTw==;Fny7yWH4rrBiJfj3GysjJw=="

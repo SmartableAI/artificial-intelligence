@@ -32,8 +32,8 @@ images:
 related:
   - title: "US has 'moral imperative' to develop AI weapons, says panel"
     excerpt: "Draft Congress report claims AI will make fewer mistakes than humans and lead to reduced casualties"
-    publishedDateTime: 2021-01-26T22:50:00Z
-    webUrl: "https://www.theguardian.com/science/2021/jan/26/us-has-moral-imperative-to-develop-ai-weapons-says-panel?ICID=ref_fark"
+    publishedDateTime: 2021-01-26T20:50:00Z
+    webUrl: "https://www.theguardian.com/science/2021/jan/26/us-has-moral-imperative-to-develop-ai-weapons-says-panel"
     ampWebUrl: "https://amp.theguardian.com/science/2021/jan/26/us-has-moral-imperative-to-develop-ai-weapons-says-panel"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/science/2021/jan/26/us-has-moral-imperative-to-develop-ai-weapons-says-panel"
     type: article

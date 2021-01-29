@@ -167,6 +167,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Machine Learning Market Report 2020: Industry Analysis, Trends, Market Size, and Forecasts 2018-2026 - ResearchAndMarkets.com"
+    excerpt: "Global Industry Analysis, Trends, Market Size, and Forecasts up to 2026” report has been added to ResearchAndMarkets.com’s offering. The report on the global machine learning market provides qualitative and quantitative analysis for the period from 2018 to 2026."
+    publishedDateTime: 2021-01-29T07:59:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-north-america-679d3c6ec1574c5f95e349c671cd1828"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 8
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "lq+TggSssbJyxI6YCnbvWoKNptlmVZP2GGEaFgwGUCyJ59zTu7E0C8QjpO38Ole9YvtDq4Fc6Yf2potleFzr7x6oAHAKvMDC3cxX3ZLX6kMwIKMpxy+DwkjD2UDguq8AixMsqdmt8ziE0jwG+4VWA5yTVUU8GQgDIVMZammKS4JDwaOTdlFZlZB7OaPqSEZ8mgd2xzxaiFkskwU7TnFQ5h04Iuxv1RbQJ/WKGxTjgf/DvM8LB6GABCgCaJde/CmXLsOnqBldTd5Q8VVXrQfXjFaDtyRFjK1UuG/HzUS0TfbzM01Y3SE+U8AV+0wF1wwbXw198fMYPssrBDx+NFT3OijSEYc71uLJr3R0CMPA+E4=;fL6zYUAkjEAApM3uBGXMkA=="
 ---

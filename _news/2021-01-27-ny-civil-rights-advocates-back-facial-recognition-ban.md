@@ -1,27 +1,29 @@
 ---
 category: news
-title: "NY civil rights advocates back facial recognition ban"
-excerpt: "Amnesty International is calling on New York City and state officials to ban law enforcement from using facial recognition technology, saying it threatens the civil rights of"
-publishedDateTime: 2021-01-26T22:12:00Z
-originalUrl: "https://apnews.com/article/new-york-new-york-city-0b06e8acd185ef9229ae748c9a640457/gallery/679a8bec16954685bad51568fde1bf5e"
-webUrl: "https://apnews.com/article/new-york-new-york-city-0b06e8acd185ef9229ae748c9a640457/gallery/679a8bec16954685bad51568fde1bf5e"
+title: "NY Civil Rights Advocates Back Facial Recognition Ban"
+excerpt: "The technology has raised concerns across the country by some who worry it could be a dangerous step toward a surveillance state where people’s movements are tracked the moment they leave their homes"
+publishedDateTime: 2021-01-27T12:00:00Z
+originalUrl: "https://www.nbcnewyork.com/news/local/ny-civil-rights-advocates-back-facial-recognition-ban/2850193/"
+webUrl: "https://www.nbcnewyork.com/news/local/ny-civil-rights-advocates-back-facial-recognition-ban/2850193/"
+ampWebUrl: "https://www.nbcnewyork.com/news/local/ny-civil-rights-advocates-back-facial-recognition-ban/2850193/?amp"
+cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/local/ny-civil-rights-advocates-back-facial-recognition-ban/2850193/?amp"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: NBC New York
+  domain: nbcnewyork.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://storage.googleapis.com/afs-prod/media/679a8bec16954685bad51568fde1bf5e/3000.jpeg"
-    width: 3000
-    height: 1785
+  - url: "https://media.nbcnewyork.com/2021/01/GettyImages-1184155312.jpg?resize=1200%2C675"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -427,7 +429,21 @@ related:
         width: 1200
         height: 450
         isCached: true
+  - title: "Facial Recognition Market Comprehensive Research Analysis Report in Market Industry | NEC Corporation and Aware Inc"
+    excerpt: "MarketResearch.Biz :Facial Recognition Market 2021 Overview: The report provides quantitative and qualitative information on the global Facial Recognition market for the period of 2021 to 2030. Given the debilitating effect of COVID-19 (Coronavirus) on the Facial Recognition market,"
+    publishedDateTime: 2021-01-29T07:59:00Z
+    webUrl: "https://apnews.com/press-release/wired-release/technology-lifestyle-business-greater-china-corporate-news-12b6fdc8ae2d7110c7e8ccb5cd93ba29"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 17
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
-secured: "PBECX20zbllegxgktSC6NXsjKJYh7BbBD02IYDMJch9+iBnuSYLCsyyecuvl1eYimMb8FaX61uiRSb91NjyL5TjO4tIemcJ4WQHtNTkowgHFRX2vsYRxeMwegSYPWzlT5T9ISNqAN2xesn/CDIDymK7rhrXt9eeWOs/h1+j6rryz/zGRwabcBmQl+0wVC97eRHqSpSQj7S+pk3h9QUTCXtVoBn+p4CoqOaCdriCT4wINLZvIBhY2KXDKjorGRDQjvIKmoFbd1lJNr2agffTHmc8fTAEr1V2VFgkEk6oJ6oDSLoETr0GcouDJ7HM8mrdah4qkrY+xV3qMwGrZkU34iiL9egf/XzmbPnD+YYuR19M330SJXutcHlnPBeSU0fXGpqD/j5HqheL4MLHjpupOWr1tmJbzD0FI6/fj04TAVkK1OvuNmlgFa7Ix24Kxs0p43nggSiM5ajXGEBYIKls/n2XCQajz51bp6ShKoQBbIaqk6oTqiVmM/VBwDb+WC6ZS+Ce7iRZ2AE4V7+xaO64p0w==;sGJWocBtdfb6lPdr0ym/AQ=="
+secured: "w6vFrEwV/tWttACiTt/YwhFCpIwpj/MsxLJ+itXtsmSFt6YqVK6Ieqm/awUHPSLYXnB0V7tria2sVl2ytT+lhWuqrk9DBULIJLVzrEsaWHx5bliV1WGWLc6I8pdQRvtFgufMfWRcwW4MyFcE5sxrBYT8xjsbDP88VDUnjOKntqNMo94mKVdETGnfmn+a5rwxngyqzgy4HJXPSn6TgHJ3ABM4cBmuswP16Pq4BjG2pknKUYKHl50tLt07rguMwFLFw/DxKmsnpi3IfY0+mH4/IkDRBLPA2NuxP1HSaYj+qoTVuDy4I0IE3NwKsiFaH4U3j5xRLixqWyhJvNoNW+6RG8Jzx6bSevEBcEr70yAtOD8=;qOYSFp5F9/5cFz/Cz6CV9g=="
 ---
 

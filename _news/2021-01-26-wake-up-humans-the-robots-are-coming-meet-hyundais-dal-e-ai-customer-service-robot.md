@@ -187,6 +187,20 @@ related:
         width: 500
         height: 265
         isCached: true
+  - title: "The Allen Institute for AI (AI2) Selects Core Scientific to Provide AI-Powered GPU-as-a-Service"
+    excerpt: "Core Scientific’s AI-as-a-service model will free AI2 from operational hassles, allowing them to focus on their mission of accelerating foundational research, developing standards and models, and cultivating new ideas to make a broad,"
+    publishedDateTime: 2021-01-29T08:02:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-artificial-intelligence-paul-allen-computing-and-information-technology-0929ba93484496dddb09159fffc14451"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 42
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Robot to take over customer service tasks in the Hyundai Motor showroom"
     excerpt: "To automate customer service tasks in the midst of a global pandemic, Hyundai Motor Group has debuted an advanced humanoid customer service robot at its showroom in Seoul, South Korea. The DAL-e, which stands for “Drive you,"
     publishedDateTime: 2021-01-28T05:13:00Z

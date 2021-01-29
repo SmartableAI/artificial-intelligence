@@ -73,6 +73,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Sharecare acquires doc.ai to expand engineering expertise, accelerate digital transformation of healthcare through innovative AI platform"
+    excerpt: "Sharecare, the digital health company that helps people manage all their health in one place, today announced it has entered into a definitive agreement to acquire doc.ai, an enterprise artificial intelligence (AI) platform accelerating digital transformation in healthcare."
+    publishedDateTime: 2021-01-29T08:50:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-medical-technology-f093e8793a77d261cd22c39aefb766f7"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 21
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "GfChkk3IcF9nWKmr1eJhNF6sDizORbaEpJiVb1fgsvxx98BrjJG9HK/ojKCD/w4qBHwjL9iap1HVfbqdii1p22bOCQF3piRLvpGnEnHm1saWn1sstJ9MTJ8W9mLcDnGcNLLhL0P2TFg6cbQTQEegOar7P3O4IJpNqJA3RdJSyQMdQaQzsZ86frYwGubSEkc947T3hO3YoElRuKrw0S3MV0S/35HzLYuJ/jNSuz85CfWZLiq/y+38FZmBPZMisvtaKeUFwdv4vbO3BEK5jEEqC0J7BktMFuhTknMMTOSMRPqtkz1JcU6olIhSa4v21yqe/i2ipIW1YOTosJdUw+WfsXZHt6+sIquskcryUnebVbs=;o2cM/JxQrnEML9Ut1FuRxg=="
 ---

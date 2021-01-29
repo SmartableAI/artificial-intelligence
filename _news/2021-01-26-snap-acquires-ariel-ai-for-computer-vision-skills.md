@@ -52,6 +52,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Facebook AI Open Sources New Multilingual Automatic Speech Recognition Data Set"
+    excerpt: "Facebook AI open-sources Multilingual LibriSpeech, an automatic speech recognition dataset with 50,000 hours of audio across eight languages."
+    publishedDateTime: 2021-01-29T07:54:00Z
+    webUrl: "https://slator.com/machine-translation/facebook-ai-open-sources-new-multilingual-automatic-speech-recognition-data-set/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 52
+    images:
+      - url: "https://slator.com/assets/2021/01/Facebook-AI-Open-Sources-New-Multilingual-Automatic-Speech-Recognition-Data-Set.png"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "geR3Twd3c7LtoGJhLoKAcGdowGF69Eu61KSSNSGBJctiRA6wFCXCLmazO0fX+U+bY5WEXCUEWv8QqiCvyAAGUHW1dtubhv2dgQhJrs26uLNbGUVIqxcXcm3yJCIZJxYAcJnhQk/KvzmOZPpCYRaqCqSqDCCSzgg0MKT7+UqgaaDZFU+R3eyJwP5oHMKPcHZThor/akCbvKXp5yTt7M4O+OIe7uxoAqA9yrWzkWWL8O0V22Feo79zf54tSlypx5yQbOapPiDevu+6SDiu23aXBfMTZnx/SSBXFjpsO3K3Am9lSWKDxtih39A0fmvR4ZqqHShxZoF45RuT3ydvHglBwpHge2V1k8I5jTQah30vX3s=;Ty+aF6CJ/1hy5is14emvdA=="
 ---

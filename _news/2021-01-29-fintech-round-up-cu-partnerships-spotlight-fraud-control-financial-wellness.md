@@ -30,7 +30,7 @@ related:
   - title: "Digital Finance Controllership: Moving from robots to intelligent automation"
     excerpt: "Across finance today, organisations are challenged to manage large volumes of structured and unstructured data coming from disparate systems. As the global economy evolves rapidly to recover from the prolonged impact of Covid-19,"
     publishedDateTime: 2021-01-28T11:23:00Z
-    webUrl: "https://www.nationthailand.com/noname/30401943"
+    webUrl: "https://www.nationthailand.com/business/30401943"
     type: article
     provider:
       name: nationthailand

@@ -196,6 +196,20 @@ related:
         width: 500
         height: 265
         isCached: true
+  - title: "The Allen Institute for AI (AI2) Selects Core Scientific to Provide AI-Powered GPU-as-a-Service"
+    excerpt: "Core Scientific’s AI-as-a-service model will free AI2 from operational hassles, allowing them to focus on their mission of accelerating foundational research, developing standards and models, and cultivating new ideas to make a broad,"
+    publishedDateTime: 2021-01-29T08:02:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-artificial-intelligence-paul-allen-computing-and-information-technology-0929ba93484496dddb09159fffc14451"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 42
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "L1wWrsIj4Zd706TMKTxPadR1ro/iwvAbN/jrFXu2uNUGQVHH3vo6/mmEHhdTmHTc5XGwRPOiE92IFbPWz1qzusgAVSfFq8z1/R1JpnjwMVRxzp54JIWxc9Nma9rXG/l5zmd5+T+zEK6Yb+oI388PKLVOL/aNsQGYqxxgavSEiGzMypaKyHM1uL09HDeuOmo0/AvT4vszTExTsWNQ9BlgDV4RMc+keQAlOk8HlFXaky0WrFDeFEIojz6wZoE8xndL83EU2Yrbmuo5+CM+wBjZ07uDLOBZClwy3ABwkxp+QDb+rhSmMkqm6R0HbpuQh55iUjwwwXnLSP67rUwp9IFKxRXemRDKK4jwDwOqYb1QjfdSvHKKaNHpFMrH8P2K8HZl3SV+uH7pDq9dnfKBeMJVIL/QAUxLCvq+7llCbOL8vx39qQJ01eAikf3gXn6oIB+SVFosU/uAjzcsY02hEpyABAgWyGyPD1V7HWgTIgDiLU1q/LKVR7WTivFtE7jAOxwwqjrHw2zttWYbOuWq6uUB4Q==;tek4pHmFrFrJAiujE/DKgw=="
 ---

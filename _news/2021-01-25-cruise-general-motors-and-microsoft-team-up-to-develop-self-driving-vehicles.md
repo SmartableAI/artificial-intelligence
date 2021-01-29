@@ -36,6 +36,17 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "WinWire launches Vaccine Management Solution Built on Microsoft Azure"
+    excerpt: "WinWire Technologies, a digital engineering services company, launched its Vaccine Management solution built on Azure. Healthcare organizations need to create new business processes to deliver vaccines to patients."
+    publishedDateTime: 2021-01-28T13:49:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/winwire-launches-vaccine-management-solution-built-on-microsoft-azure-1030015209"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/winwire-launches-vaccine-management-solution-built-on-microsoft-azure-1030015209"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/winwire-launches-vaccine-management-solution-built-on-microsoft-azure-1030015209"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 84
   - title: "Natural Language Processing Market is Booming Worldwide with IBM, Microsoft, Google, Amazon Web Services"
     excerpt: "A new business intelligence report released by Advance Market Analytics with title Global Natural Language Processing Market Insights Forecast to 2025 This report provides a detailed overview of key factors in the Global Natural Language Processing Market and factors such"
     publishedDateTime: 2021-01-25T20:43:00Z
@@ -79,15 +90,6 @@ related:
       name: CBS Local
       domain: cbslocal.com
     quality: 39
-  - title: "WinWire launches Vaccine Management Solution Built on Microsoft Azure"
-    excerpt: "WinWire Technologies, a digital engineering services company, launched its Vaccine Management solution built on Azure. Healthcare organizations need to create new business processes to deliver vaccines to patients."
-    publishedDateTime: 2021-01-28T07:38:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20210128ph61007/winwire-launches-vaccine-management-solution-built-on-microsoft-azure"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 34
 
 secured: "G3IZT2e+X1nKv7oX2pKocOvdEzO2XGxo10aGfwqQwO7ZCsbjGYjbk9DoERWoMoz5/M4a3VDSjuZg/g6JpB35BNpsTo9Xrw2qvacxe4LC52eDz177CUjInXBa1zoLreYZUwHEWcHHlaAh92FvXa86NNxiT7IkJMgnUCPWB9VJ72HQlIbWAnG5d55vzDLBRMo5Wd/bdlWPxT14wTG/r6flDoG+hFMynWjg7nI6Oxy+sUv8qPM2O46RvEGOZsnbsXBbyCqhckpeEylz/S41DwnFQP1cpB4J5FXTmdOA/aS+jns+c0/CUs0BVso1OjwvJLTIEdBvZiCDg+mApZ1eJYgV72U03t+Ot/XRVny4IYWYBHU=;tHVSVfHGG6dJW/xKi1VOOA=="
 ---

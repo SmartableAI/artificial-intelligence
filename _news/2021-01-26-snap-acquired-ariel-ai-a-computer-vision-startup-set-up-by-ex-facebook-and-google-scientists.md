@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/snap-acquires-ariel-ai-computer-vi
 webUrl: "https://www.businessinsider.com/snap-acquires-ariel-ai-computer-vision-skills-2021-1"
 type: article
 quality: 75
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       name: Windows
       domain: compsmag.com
     quality: 56
+  - title: "Facebook AI Open Sources New Multilingual Automatic Speech Recognition Data Set"
+    excerpt: "Facebook AI open-sources Multilingual LibriSpeech, an automatic speech recognition dataset with 50,000 hours of audio across eight languages."
+    publishedDateTime: 2021-01-29T07:54:00Z
+    webUrl: "https://slator.com/machine-translation/facebook-ai-open-sources-new-multilingual-automatic-speech-recognition-data-set/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 52
+    images:
+      - url: "https://slator.com/assets/2021/01/Facebook-AI-Open-Sources-New-Multilingual-Automatic-Speech-Recognition-Data-Set.png"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "75BNqOS14Jh0XFQSbOVPI1CccLEL3xjp2Hf4CW+Nz49sB+0ULL6k/EnyRB4VPYCWdrcty1yUXO6km48HYqzhqUJhmb6jKYZ2BYu1WimoZbPQZeNaoWXJgWhATZQHU5S73ezAs+IVIPPEXS48e8Oomk38jRz6YWiXA6vQLl9ep4Qqd3QyBP4EPU7JlTQLEAX5NW5sn0AkWnxQo9LX1QkledWDuv7YRPctj9cm8gqWaqvrxx4/2c9iQ1O1JtDeEAHqSaJIBm+ymNWqOtQZE+DGBt76AwiTRHt0EPxU+m+hgE//JnmSYIDMXaGHGcGz7zwmaJNw8rli+ix4LYE7HUah4NP5DzLfOkY9rO4KLzwY0po=;MgSNQkZzctqEKItCdt74mQ=="
 ---

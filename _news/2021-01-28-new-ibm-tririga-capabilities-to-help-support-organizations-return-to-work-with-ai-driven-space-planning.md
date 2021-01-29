@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/new-ibm-tririga-capabil
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/new-ibm-tririga-capabilities-to-help-support-organizations-return-to-work-with-ai-driven-space-planning-1030015401"
 type: article
 quality: 52
-heat: 52
+heat: 62
 published: false
 
 provider:
@@ -23,6 +23,22 @@ provider:
 topics:
   - IBM AI
   - AI
+
+related:
+  - title: "New IBM TRIRIGA Capabilities to Help Support Organizations’ Return to Work with AI-Driven Space Planning"
+    excerpt: "IBM, (NYSE: IBM) today introduced capabilities in its IBM TRIRIGA integrated workplace management system that is designed to use artificial intelligence and near real-time insights to help organizations create a safe,"
+    publishedDateTime: 2021-01-29T08:06:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-lifestyle-business-diseases-and-conditions-lung-disease-d42fee5dcfd4f71d394895118090a09f"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 22
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "d8w5M8ny31456H2IyBwbWSPro7l2ZilfjnPiz4kiWZNxZb1iqeW6e0YKcnYxEA76yq4RYYg+PEZOCybc56amOVTJvNPjIshmbl2I7AQgFrPsHN7banXFNhP8uFlqXE4wUu8Dx6VmVhD/gw/7tDdYVQTC93Z5boEidyBO3GfjVPSvJ0ubLkJ0N9DfCa8fxykJUU0bH3anC5927fj0kPGFSMNccgHeEnEZlxPPc+C/iQLg2U8gABHD6w82O2nlTMvn4JX+yw4MtuQzswEU3hForSdOZdcXPHMY7oAL1qyr5JtkmB8sCh3rhgaG9WHTdbJI4EoLaWTI1ofHaaiC1+T3wSRz0L49Ym+b8t7BGbZ4NEg=;vZSv3pAziCyXWuxhzvOPQw=="
 ---

@@ -39,15 +39,6 @@ related:
         width: 801
         height: 455
         isCached: true
-  - title: "The Best Artificial Intelligence Stocks to Buy in 2021"
-    excerpt: "Shopify Inc. (TSX:SHOP)(NYSE:SHOP) is one of several artificial intelligence-focused stocks that you need to own this decade."
-    publishedDateTime: 2021-01-24T16:34:00Z
-    webUrl: "https://www.fool.ca/2021/01/24/the-best-artificial-intelligence-stocks-to-buy-in-2021/"
-    type: article
-    provider:
-      name: The Motley Fool Canada
-      domain: fool.ca
-    quality: 17
 
 secured: "92449JDPh1Zx+ZfpwN5PjQ5Kh7341zRmR3ztznPgWC1gzTfkreDRzxofbX154D9YfN7hiClcPvqJ/KOkfNrAFj7ppB/g2lbLpdHSwdyDYBF5a/d7WUlQ0GjmVZC4HhQs9hEXSfTtZgFWVieKehxLML1WQS+D/B5lG2Ny0r3h4W4zsIJAooPjtSfmyzB0ZjnKER6Tq9PEx+Du9U2dVgsfp8dwnJmJsLD6IqOdK8fZ+xbEfkOgg9Vpapn7HF1/PDD64BEbSPpP0oFXYaME/5JS7+ApO5YGFjOzOoi40kQgvzlKzXnDsqFOT42lEA0BDx4wg+lUhGivKmV/0tZ6J3yEPn0jvA1cM3ZAKyLB20kCbzVkZgylRyGiMycotwmEegeQoph2yoY+O560gHJVQt2iPGq9ek8Sz+Ua173ULTQ12ocUmfK3y6TeWl4+sHXhXwAw8BHYMOrG66/JMlPJodExU5WieKpiodnx5ZT7EKe9ouo3/qbH/BptQ3ryhwZi0T7Eurx+iVpKBfj+ba0QlFTOMw==;iQmZJJLVSo70rWzBUQ7T1g=="
 ---

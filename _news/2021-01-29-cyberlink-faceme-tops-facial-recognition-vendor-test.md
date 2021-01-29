@@ -1,29 +1,29 @@
 ---
 category: news
 title: "CyberLink FaceMe® Tops Facial Recognition Vendor Test"
-excerpt: "CyberLink Corp. (5203.TW), a pioneer in AI and facial recognition technologies, and developer of the FaceMe® AI facial recognition algorithm, achieved a top six ranking in the latest 1:N Identification (WILD,"
-publishedDateTime: 2021-01-28T23:44:00Z
-originalUrl: "https://www.lelezard.com/en/news-19622425.html"
-webUrl: "https://www.lelezard.com/en/news-19622425.html"
+excerpt: "With its facial recognition solution FaceMe®, CyberLink ranks first among global vendors in the latest NIST FRVT WILD test (Photo: Business Wire) CyberLink Corp. (5203.TW), a pioneer in AI and facial recognition technologies,"
+publishedDateTime: 2021-01-29T08:07:00Z
+originalUrl: "https://apnews.com/article/technology-greater-china-asia-taiwan-china-dd2dd69379844744aa6bdcff0f00bcbb"
+webUrl: "https://apnews.com/article/technology-greater-china-asia-taiwan-china-dd2dd69379844744aa6bdcff0f00bcbb"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "jgu3ze0ptRWbUKnaREoQa5TjE1E4/EdoA7o2bPSqsDZNfJEbZYVV3hJgPZ77W5fG8n8dxyXlAd1zukOqODv/Pavvc9fjNa5RmYBK7P3rYqpbDBVHxtooQ9jWERFWY3KECLAm0Z3RdV/hbVwJ6/oMi77A/mqu8HUnsZztQm7t8DzQk9uLfo52bech1q2gXnU3plljww5EDg0PJm7qgL4RWRGLo1zp6UKbbaU8eji2HK+PA320rtbsrn2W+Eec8x19xwJexbsSmBxuOCPYZvnu3FUPcBLCp1E9GVnihAsDMIyRUS/hv/seMXXzhZ+GiOwcOPrhFMMCDLQxiGz1IOLao1+qJKxYCD87czYVvO5oIIE=;g7R3XuPlep/CEcUUX3qASw=="
+secured: "LQFgvYQymOWv4FkrXL6DtpJanLsZQym8RBwuUPpCAmFBkh00Ahh9pxQ2jpj3ph1tmdZJbKNZd96XSlSrHPdUic7te9K8xuqFwl+/2eYoVWluk8o7hvYNt+HWKu8V8njNNu+Nig8Mf/b2yhU89do4MBaJmV0vyJ32HW2YY/86LFenbmupPczKCL/LwR2kmxHaT15HEsngCS/TAICfPrDym9exE714h7j/L3jlT23izh+bHNruTAsOwrK1MapInUvhEbzZL5mwr656wyyq1i3ERbpn2x3VY/8TAzw9E1Pp82dXQzRl7oqbYEf9mvhrr144uLXnlLxkH3GCCK7f/eeVZf+DgKae2lnHkO0avZHqD2U=;6PZKEjl+lfk2WZ+yvu/1aA=="
 ---
 

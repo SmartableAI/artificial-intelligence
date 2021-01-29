@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/01/27/amnesty-international-calls
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/27/amnesty-international-calls-for-ban-on-facial-recognition/amp/"
 type: article
 quality: 89
-heat: 390
+heat: 400
 published: true
 
 provider:
@@ -121,6 +121,22 @@ related:
       - url: "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/how-facial-recognition-algorithms-can-cut-out-bias-344899.jpg?v=11082843"
         width: 640
         height: 360
+        isCached: true
+  - title: "NY Civil Rights Advocates Back Facial Recognition Ban"
+    excerpt: "The technology has raised concerns across the country by some who worry it could be a dangerous step toward a surveillance state where people’s movements are tracked the moment they leave their homes"
+    publishedDateTime: 2021-01-27T12:00:00Z
+    webUrl: "https://www.nbcnewyork.com/news/local/ny-civil-rights-advocates-back-facial-recognition-ban/2850193/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/local/ny-civil-rights-advocates-back-facial-recognition-ban/2850193/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/local/ny-civil-rights-advocates-back-facial-recognition-ban/2850193/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 59
+    images:
+      - url: "https://media.nbcnewyork.com/2021/01/GettyImages-1184155312.jpg?resize=1200%2C675"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Facial recognition payments making a mark on world"
     excerpt: "Facial recognition is happening in large parts of China, the US, Spain, Denmark and Nigeria as contactless payments look here to stay"
@@ -295,20 +311,6 @@ related:
       name: The Eagle
       domain: theeagle.com
     quality: 39
-  - title: "NY civil rights advocates back facial recognition ban"
-    excerpt: "Amnesty International is calling on New York City and state officials to ban law enforcement from using facial recognition technology, saying it threatens the civil rights of"
-    publishedDateTime: 2021-01-26T22:12:00Z
-    webUrl: "https://apnews.com/article/new-york-new-york-city-0b06e8acd185ef9229ae748c9a640457/gallery/679a8bec16954685bad51568fde1bf5e"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/679a8bec16954685bad51568fde1bf5e/3000.jpeg"
-        width: 3000
-        height: 1785
-        isCached: true
   - title: "Can Facial Recognition Predict Political Orientation?"
     excerpt: "A study used social media photos of 1,085,795 participants – including 347,000 people of color, from the United States, United Kingdom and Canada and their self-declared political orientation, age, and gender,"
     publishedDateTime: 2021-01-27T19:31:00Z
@@ -429,6 +431,20 @@ related:
     images:
       - url: "https://eandt.theiet.org/media/3236/15113327-1.jpg?center=0.651685393258427,0.51428571428571423&mode=crop&width=1200&height=450&rnd=131372513160000000"
         width: 1200
+        height: 450
+        isCached: true
+  - title: "Facial Recognition Market Comprehensive Research Analysis Report in Market Industry | NEC Corporation and Aware Inc"
+    excerpt: "MarketResearch.Biz :Facial Recognition Market 2021 Overview: The report provides quantitative and qualitative information on the global Facial Recognition market for the period of 2021 to 2030. Given the debilitating effect of COVID-19 (Coronavirus) on the Facial Recognition market,"
+    publishedDateTime: 2021-01-29T07:59:00Z
+    webUrl: "https://apnews.com/press-release/wired-release/technology-lifestyle-business-greater-china-corporate-news-12b6fdc8ae2d7110c7e8ccb5cd93ba29"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 17
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
         height: 450
         isCached: true
 

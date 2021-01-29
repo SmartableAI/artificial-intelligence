@@ -7,8 +7,8 @@ originalUrl: "https://www.marketoracle.co.uk/Article68317.html"
 webUrl: "https://www.marketoracle.co.uk/Article68317.html"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: The Market Oracle
@@ -39,15 +39,6 @@ related:
         width: 1500
         height: 792
         isCached: true
-  - title: "The Best Artificial Intelligence Stocks to Buy in 2021"
-    excerpt: "Shopify Inc. (TSX:SHOP)(NYSE:SHOP) is one of several artificial intelligence-focused stocks that you need to own this decade."
-    publishedDateTime: 2021-01-24T16:34:00Z
-    webUrl: "https://www.fool.ca/2021/01/24/the-best-artificial-intelligence-stocks-to-buy-in-2021/"
-    type: article
-    provider:
-      name: The Motley Fool Canada
-      domain: fool.ca
-    quality: 17
 
 secured: "wp5g1T1pIHxGxQDUPekaniQy648PKljGMAoOaHTyLTScCClDUqmsMA8a4ml5fMQaSEDIWg8UvCKyB6bFQTTiNray9AZ1zBjjblvSNhCq/u8SGbQynn/DYfSNa3VrievqV18Lw0y0ePXgfSmGUtQIk7kl853cCcLQLbC7Jm6uDjNIZNUEkyqrVKD/J8+KRA4kSOKvsqn7fibbRejhXwdYny9r7qwMh6gZK0Frl3ENKBPoaFdxmTEAdC2XEZv4+6a3eba4G9yioETrYz5UQ2pyh6Bm7WjfCfSPCpUkGhKM8R8sMZaYhZCcbPdk3pThzD8Pcw3cwWKZ7eB6MJdN6NZdRwciNVKdsHpw2KZ5Zyte3+Y=;b6IeakF4+OJwabx1y3jY4Q=="
 ---

@@ -3,8 +3,8 @@ category: news
 title: "New Global Rackspace Technology Study Uncovers Widespread Artificial Intelligence and Machine ..."
 excerpt: "Rackspace Technology™ (NASDAQ: RXT), a leading end-to-end, multicloud technology solutions company today announced the results of a global survey that reveals that the majority of organizations globally lack the internal resources to support critical artificial intelligence (AI) and machine learning (ML) initiatives."
 publishedDateTime: 2021-01-28T17:09:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-58e522140b27005e2132ba0042f5dea7"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-58e522140b27005e2132ba0042f5dea7"
+originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-new-products-and-services-58e522140b27005e2132ba0042f5dea7"
+webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-new-products-and-services-58e522140b27005e2132ba0042f5dea7"
 type: article
 quality: 26
 heat: -1
@@ -37,6 +37,6 @@ related:
       domain: compsmag.com
     quality: 28
 
-secured: "zuDvZSGAkUJJ3cr+QwZTA5Rp7pQ1WQOFiCcRWeBIc4v7cxlXFb1WxBzOVfrg30YQtDb1bOaeWjqNs4tnZ3ifVYF/mLMUD0CfQm0C2LgHdmRac1LMpo/3B2DYAmHguWoB0GhyPK5ia/WGE0RAXg+cMkzxZmw1m9cje3j9xJZy19PjRwSABFR4YKNZ0InS2n5LUp1p8TID89U5Vxgo3SxtN/CAKQ03Ip2wRz9AXEaFA3LiDZmauv1TlHYBrLlmCkLgT80RdltFKoZVP9XxApiXMeWwxaA5NLctVkjpxLFrSMbZGIc+o8X8pNUJ8S55m/WultjUFtkIeJBqqbXbXhSQWrXgAY6zPZfsWtQM0JphHBE=;rYnfM3ApMvc5x7EBrssK3g=="
+secured: "UJTFKlwcR6ZgwT1JwIJJdLE3ck2UPBivU8JV1S7sD66BSp5XwSqizdhlW0NkXxnOKe3ak4j7YhrOtAhPYohY/DVlLI98NkiI1lgjFJqUjDRTZEPppWO7M2nfwmJLiSvJRHo37JV65DgGMUnFXva8fVMnLYPxWV6wtY02qHBVnj6jQ0f8yprghs6WXapNZb/W6iuCOstxV+NjKSgc6go6zAal9O9GdpcVKKW8qWi/FqUOvBcQXP6B8n9hnq72HBrQ60HveOL3GLT8i9jJN3u+Egui/TFaU9en0dNBFRiDqVbDkxRqtdBiqTlJW7dc7nRd1tQvkZNLmI8fAcXDb3w2khtk3xPXZ9TSfEcPQh6TfxQ=;m7PvaUJ56bPvOfLvugBQHg=="
 ---
 
