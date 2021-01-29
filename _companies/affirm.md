@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "Affirm"
   url: "https://twitter.com/Affirm"
-  followers: 10659
+  followers: 10666
 
 size: 501-1,000 employees
 yearFounded: 2012
