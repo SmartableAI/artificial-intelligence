@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "argoai"
   url: "https://twitter.com/argoai"
-  followers: 3854
+  followers: 3856
 
 size: 501-1,000 employees
 yearFounded: 2016
