@@ -1,28 +1,34 @@
 ---
 category: news
 title: "SoftBank's Son expects mass production of driverless cars in two years"
-excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since Free subscriber-exclusive audiobook! “No Rules Rules: Netflix and the Culture of Reinvention ..."
-publishedDateTime: 2021-01-29T16:38:00Z
-originalUrl: "https://www.businessinsider.com/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years-2021-1"
-webUrl: "https://www.businessinsider.com/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years-2021-1"
-ampWebUrl: "https://www.businessinsider.com/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years-2021-1?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years-2021-1?amp"
+excerpt: "SoftBank Group Corp Chief Executive Masayoshi Son said on Friday he expects mass production of self-driving vehicles to start in two years."
+publishedDateTime: 2021-01-29T21:00:00Z
+originalUrl: "https://www.reuters.com/article/us-davos-meeting-son-autonomous-idUSKBN29Y279"
+webUrl: "https://www.reuters.com/article/us-davos-meeting-son-autonomous-idUSKBN29Y279"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Y279"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Y279"
 type: article
-quality: 69
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210129&t=2&i=1549571164&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0S194"
+    width: 829
+    height: 545
+    isCached: true
 
 related:
   - title: "Baidu is the sixth company approved to test fully driverless cars in California"
@@ -224,6 +230,6 @@ related:
         height: 300
         isCached: true
 
-secured: "iX0pLh2l8Z67MHwV96kDaTJGrKAxL9x4+lpBZuThKSP9IlgLgy4xNj6D3k+SGbcEUJ6sCKZm0ygi5RqKDzOJG/5Wih1GNX2mO7LRnOI5RwSYL1wJhj7GD2ibrSaRADiHAY4RObeYKoF6MUQOKtJNyoR1FRSak/BDNJDTLTv4FNNOZRGmGi1oHuX2p70mGadbfePhQ0FT36rtUAD7raC1P55mqFjLAn/O1UhP3ZOVbEgrWvdRopdFLJCL2lOjiEqaYwXUPfALoiYy7bJ+WI6X0my/alL4ZCcdW3PrRDB+RAfpSpbPkvrf62lIz9GoJhtIEywT2s9x8ClnKHPb2pOXguW9qUwdT9VW9FrSDxmR1N4=;SqXior+ufTfoUQOyBvm2+g=="
+secured: "KxibyR998Ekn04xZEF7R0mmx3TFRDqqTa/bpwRovQDz3V+zmkLbope6qrEvY3vue/6iZVdOhSh/R5WUPd8z/xPdt5i5uWZGfqDtgmqfOn2oyN3CL+3/8LovDazv7JVtDeCsMlYNFUsDbKIbgOv+M88GdU9YbA5CPI+l/zNKxZhpSsnIaEiBaRmH9jnaJDVQgm7Jwlbg3IjrXFfxDpFv/UsTKBwb37pIpdoxvREYjY6gxRv154yDC/vBMndTAjoRa7HZJJiE89YxAt8tPrQFgMFM0kM4tbEQuvR+vBcx6144PsNeqLAf8BuqlZDUNaj6qD51CvqfNWd60tvQ+4XbKVeXTEKg/ijKwhFAWQw0ueQc=;fwzzmhPPFPVs8nwvgDi18A=="
 ---
 

@@ -24,22 +24,6 @@ images:
     height: 499
     isCached: true
 
-related:
-  - title: "SVI Teams with IDEMIA NSS to Offer World’s Most Advanced FMCW 4D LiDAR Biometric Recognition ..."
-    excerpt: "The solution combines NSS’s world-class biometric software with SVI’s superior 4D FMCW LiDAR system technology. FMCW LiDAR, which is short for “frequency-modulated continuous wave light detection and ranging,"
-    publishedDateTime: 2021-01-26T06:12:00Z
-    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-marketing-and-advertising-corporate-news-biometrics-84bba943e01ebd148ff8ff1842eadf3e"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 13
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-
 secured: "L1KCMAyq6Yty0wTImZ8iUPKsN1hiSQfegyK3s4V1SejEy+IhYR/6k3EmsWw6iEWxM7m4US0wSXdPbf1AcsaHL3ciKCOZOrc8+oJxG8IYnr9Eok50sXjBodME6/qtyPS/POigLUqIe/ynld6tg/2OI3qZvmSe5VSWRKNFVEIJbzbuMfLVKKmeGevFr/LvR34RBJmewHpoQbmcxKsRTzI/WkUpJSW4LYihiNaoegJXP0ZrnAk73VC5GZH3cwZhdkregu88YOIAZ0r0DoUbtgolYbEgwy2dRUfELcnuZfll+AqSYsk6IqwaJo0Ay7bvBdjy1pJF0Akc/xddIN634vxN3qPeNEkq5udSjEdSkhNhcCI=;/dzPzFv5CfcAumVUpjN3kw=="
 ---
 

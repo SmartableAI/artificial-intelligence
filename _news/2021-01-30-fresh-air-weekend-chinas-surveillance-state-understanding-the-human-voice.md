@@ -26,13 +26,13 @@ images:
 
 related:
   - title: "Fresh Air Weekend: China's 'Surveillance State'; Understanding The Human Voice"
-    excerpt: "His new book explores the human voice's physicality, frailty and feats . You can listen to the original interviews and review here: Facial Recognition And Beyond: Journalist Ventures Inside China's 'Surveillance State' 'The Little Things' Is A Star-Studded ..."
-    publishedDateTime: 2021-01-30T19:09:00Z
-    webUrl: "https://www.wshu.org/post/fresh-air-weekend-chinas-surveillance-state-understanding-human-voice"
+    excerpt: "Fresh Air Weekend highlights some of the best interviews and reviews from past weeks, and new program elements specially paced for weekends. Our weekend"
+    publishedDateTime: 2021-01-30T17:58:00Z
+    webUrl: "https://www.wkyufm.org/post/fresh-air-weekend-chinas-surveillance-state-understanding-human-voice"
     type: article
     provider:
-      name: WSHU news
-      domain: wshu.org
+      name: WKU Public Radio
+      domain: wkyufm.org
     quality: 35
     images:
       - url: "https://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/202101/962000838.jpg"

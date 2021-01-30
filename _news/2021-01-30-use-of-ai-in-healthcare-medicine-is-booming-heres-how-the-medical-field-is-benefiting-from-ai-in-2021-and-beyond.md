@@ -73,20 +73,6 @@ related:
         width: 500
         height: 322
         isCached: true
-  - title: "How AI is helping retailers reinvent themselves"
-    excerpt: "Everyday activities, once normal, have taken on a new element of risk, and consumers are prioritising those retailers who are capable of rapidly adjusting to changes in the business environment.” Retailers are moving to a multi-channel environment offering a variety of shopping options for customers,"
-    publishedDateTime: 2021-01-26T06:50:00Z
-    webUrl: "https://www.moneyweb.co.za/news/tech/how-ai-is-helping-retailers-reinvent-themselves/"
-    type: article
-    provider:
-      name: Moneyweb
-      domain: moneyweb.co.za
-    quality: 39
-    images:
-      - url: "https://www.moneyweb.co.za/wp-content/uploads/2014/10/Shopping-Shutterstock-4-1024x684.jpg"
-        width: 1024
-        height: 684
-        isCached: true
   - title: "Sharecare acquires doc.ai to expand engineering expertise, accelerate digital transformation of healthcare through innovative AI platform"
     excerpt: "Sharecare, the digital health company that helps people manage all their health in one place, today announced it has entered into a definitive agreement to acquire doc.ai, an enterprise artificial intelligence (AI) platform accelerating digital transformation in healthcare."
     publishedDateTime: 2021-01-29T08:50:00Z

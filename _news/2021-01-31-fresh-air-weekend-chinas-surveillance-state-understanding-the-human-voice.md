@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Fresh Air Weekend: China's 'Surveillance State'; Understanding The Human Voice"
-excerpt: "His new book explores the human voice's physicality, frailty and feats . You can listen to the original interviews and review here: Facial Recognition And Beyond: Journalist Ventures Inside China's 'Surveillance State' 'The Little Things' Is A Star-Studded ..."
-publishedDateTime: 2021-01-30T19:09:00Z
-originalUrl: "https://www.wshu.org/post/fresh-air-weekend-chinas-surveillance-state-understanding-human-voice"
-webUrl: "https://www.wshu.org/post/fresh-air-weekend-chinas-surveillance-state-understanding-human-voice"
+excerpt: "Fresh Air Weekend highlights some of the best interviews and reviews from past weeks, and new program elements specially paced for weekends. Our weekend"
+publishedDateTime: 2021-01-30T17:58:00Z
+originalUrl: "https://www.wkyufm.org/post/fresh-air-weekend-chinas-surveillance-state-understanding-human-voice"
+webUrl: "https://www.wkyufm.org/post/fresh-air-weekend-chinas-surveillance-state-understanding-human-voice"
 type: article
 quality: 35
 heat: -1
 published: false
 
 provider:
-  name: WSHU news
-  domain: wshu.org
+  name: WKU Public Radio
+  domain: wkyufm.org
 
 topics:
   - Natural Language Processing
@@ -54,6 +54,6 @@ related:
         height: 787
         isCached: true
 
-secured: "miLdKJU5MvSpF/AiVfOLvym2DzsmBcXqJgWM/l2Ff25oeVbG4gd0KtGP/wves9e2PVuSA/v3Zf7LS2o6vKwTL2ZQ8KK02dXJ2SW7V3kS8M/PR3WDIUNTtCj5FAuQzn7cgLb+hQAcRvm1hEfgUHc1n81GScw89zcbQy8VugvcoEwKTT0iGO6hWVlYYeuAcPxoqRXpfayn0VkPGqvwiIVln9ceWPG7qKgmDmv/R6leiNgJnKqYCNOUv0Rx1Gjm5W0NoXByLiVFoViyN8oFHMqhaVp0N59IT2Cmu7CtmqGW/nYQflSFcgDBC+pOyowS8JZrf/mRq64qnb4D1qvGGvcj+Vqo+gCNxwGj1xR4PWlqd2o=;O7ysgJVpm6e1qZUnncuShw=="
+secured: "W7g69Llc/bwzzIejAO8J47NYy0YtChI7MZ/Lr3vGyxt9nPRFuxY4nRFdv2kpNYNz/CUCM993p8fpUN0dzix4/ntOi0uqzmBJaKLOYp34ynKmICh+gstnDvQKfKQ2q0KhjMZize/3/UZLTPT+xo1suMtCueupXSJV5PYSrhWp1ZMrGkANSYqYuRDaTf2pmPP+PGsK8PPpKWooXHluTZNBwQ6Ofqjk4Aj8D/xC3tGOznOW9oKKGGzRFFkDqiKmkzF7wsjEDnZh5NsnkLbrJZo8n45uyBLvAxADE71QMzpp/1MrZhzwTEY3N44zdEkdKVdrG2Vpw573kuPI/guEY8qW3AETzxwcPdQlNbZIiSoWkMw=;9A3ejsPbVHhKN+XZ6QWU6A=="
 ---
 

@@ -33,20 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Ehave, Inc. Utilizes Artificial Intelligence and Machine Learning for Big Data Management in ..."
-    excerpt: "The Ehave Dashboard will continue to evolve to include its artificial intelligence and machine learning functions in order to become more integrated with clinical care in the coming years. Ehave Dashboard has been in the forefront of using data analytics with its blockchain data warehouse that provides insights to clinicians and patients."
-    publishedDateTime: 2021-01-26T06:02:00Z
-    webUrl: "https://apnews.com/article/technology-government-regulations-medical-technology-lung-disease-coronavirus-pandemic-23b526e4b4ead9ea7e999196b97d23a3"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 43
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "H3sUkSN9Qu0co+ODtflIP+xmeWu2e76aogdW0uR3kQwe5afTT1gXllossRFCtZ26PJ4VohjcK7EwSd1nuwcqxcynXn96q1Z0vVfvm/ljJSG1VhT+WwRUu3dWJn6H2c2cOJxaO3kRMKZiYZB+PtzxtFyu6KHTwEn91xe8lZZZMqmabmsA2+thIt2ZDBBaH3DvWPCwndWoLzwzQr96DacB8o+mHtV+FP6YLVOLXt0qQthGz4lQcObgiGOOeWGbwzgRuZZgIEcK6i0yddg7gtLEImT2k6i/D6PkVSMnloWmQJxbFk+rgrvNTqCXYTt5Tch3vTO1UFhG160+xx9EBaNHnJger5KfibROzVd9yCK9lOI=;NlVuouYX9epAMzMFqMBIsg=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://newatlas.com/automotive/xpeng-p7-self-driving/?amp=true"
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/xpeng-p7-self-driving/?amp=true"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: New Atlas
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese electric carmaker Xpeng rolls out autonomous highway driving features in challenge to Tesla"
-    excerpt: "Xpeng Motors' Navigation Guided Pilot or NGP is rolling out to eligible customers of its P7 sedan in a challenge to Tesla's own software."
-    publishedDateTime: 2021-01-26T05:40:38Z
-    webUrl: "https://www.cnbc.com/2021/01/26/xpeng-rolls-out-autonomous-driving-features-in-challenge-to-tesla.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/01/26/xpeng-rolls-out-autonomous-driving-features-in-challenge-to-tesla.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/26/xpeng-rolls-out-autonomous-driving-features-in-challenge-to-tesla.html"
+  - title: "Tesla had talks with other automakers about licensing its self-driving software, Elon Musk says"
+    excerpt: "Tesla had “preliminary” discussions with other automakers about licensing its self-driving software, according to new comments by CEO Elon Musk. Tesla Licensing Software Today, Tesla released its Q4 2020 financial results and following the release,"
+    publishedDateTime: 2021-01-28T01:46:00Z
+    webUrl: "https://electrek.co/2021/01/27/tesla-talks-automakers-licensing-self-driving-software-elon-musk/"
+    ampWebUrl: "https://electrek.co/2021/01/27/tesla-talks-automakers-licensing-self-driving-software-elon-musk/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/01/27/tesla-talks-automakers-licensing-self-driving-software-elon-musk/amp/"
     type: article
     provider:
-      name: com/2021/01/26/xpeng-rolls-out-autonomous-driving-features-in-challenge-to-tesla.html
-      domain: com/2021/01/26/xpeng-rolls-out-autonomous-driving-features-in-challenge-to-tesla.html
-    quality: 145
+      name: Electrek
+      domain: electrek.co
+    quality: 77
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106720636-1601341909516-Image_from_iOS_4.jpg?v=1601342118&w=720&h=405"
-        width: 720
-        height: 405
+      - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2019/10/Tesla-Autopilot-hero-4-e1570845324247.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "AcpW2WS7hpi15ZyESqwcv0LnYdin+paUu/S8AMoL5btr5RqFXz6FHWcI04uPr0emlcud8EKo2ijF+XQ4IhJrMnh/WKjhoKloAhiI9FL9cV+/qvXvMcnFB/aYiQu7Mb9DxdHj8qwxXdob72bdy7td4fz5T25fKqS/GGWe5k5aILv81Xl+C03TPWViGQrzeeHto57Jd9AHQua+4TrH96G0kzqplayOYiDWr+6ysLs5aHF/5OqzSKZQcOlv7ElH8GsnO4PtvSLSGA21d+G8wSxhQKHi6KB24Ek03LDGtbJTGGPtTySRkjFfgUnxYqcpfE8ATa5aNCQerQGXXRVtT9YldIm3dJG7+Wfd2QCaEyZR6JseqQYHj51LLKtO3eQM3cW5Q19MCQbuQurCpx89wVQAb0qkrTg+3Gkbxm2QN3foAGeIkttK2dqhevuZIb7yX2oM2SFa89NggqNcb1bOqHIiZPI3eZg34FIZ7VSVmZsd/JPs1Zr2McSKP/IS4nE0NErxx7kbdlQ4wgD0qS2UxgyBzA==;7xnkR6vB0KZDys42qLD/uA=="

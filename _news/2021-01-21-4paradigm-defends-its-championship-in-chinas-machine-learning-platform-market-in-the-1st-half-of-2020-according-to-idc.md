@@ -2,27 +2,25 @@
 category: news
 title: "4Paradigm Defends its Championship in China's Machine Learning Platform Market in the 1st Half of 2020, According to IDC"
 excerpt: "The IDC report recognizes the advantages of 4Paradigm machine learning platform and AutoML products in technological accumulation, enterprise-level product layout, commercial implementation ..."
-publishedDateTime: 2021-01-21T05:02:00Z
-originalUrl: "https://www.asiaone.com/business/4paradigm-defends-its-championship-chinas-machine-learning-platform-market-1st-half-2020"
-webUrl: "https://www.asiaone.com/business/4paradigm-defends-its-championship-chinas-machine-learning-platform-market-1st-half-2020"
-ampWebUrl: "https://www.asiaone.com/business/4paradigm-defends-its-championship-chinas-machine-learning-platform-market-1st-half-2020?amp"
-cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/4paradigm-defends-its-championship-chinas-machine-learning-platform-market-1st-half-2020?amp"
+publishedDateTime: 2021-01-21T04:28:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/4paradigm-defends-its-championship-in-china-s-machine-learning-platform-market-in-the-1st-half-of-2020-according-to-idc-1029988328"
+webUrl: "https://markets.businessinsider.com/news/stocks/4paradigm-defends-its-championship-in-china-s-machine-learning-platform-market-in-the-1st-half-of-2020-according-to-idc-1029988328"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/4paradigm-defends-its-championship-in-china-s-machine-learning-platform-market-in-the-1st-half-of-2020-according-to-idc-1029988328"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/4paradigm-defends-its-championship-in-china-s-machine-learning-platform-market-in-the-1st-half-of-2020-according-to-idc-1029988328"
 type: article
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://www.asiaone.com/themes/asiaone_amp/logo.png"
-    width: 299
-    height: 300
-    isCached: true
-
-secured: "4GJ/kbTAI8njlY3btENZOY9HEpy4hK3QoeptOMMr0bgveUgFwALUrcq5sVHpMu+21EEyFwXyZUUoeWh/hKcPBAO6quk+LBmt+w/4ZNdxY0JjZavdTeNged+eTdik71/cyT4a7NYzxQ4NUd3esHfnNBDXpWEeMnCemqeIfGSj/JSN9/I0jL9DfvxOQ9Iiea4lI6ZWub2hVnXsVfUJVm12cYKWt8ilHgVqeRxFRgC9QnE3Ksue/KGDFrIuabK4ijsyec4YNi1rkr+4ISwAHcoIjjwAHvlaCV6DuqVqyhrS9EPwFcv8hlBsWDaGtduJGllrxfyinKFvhUXsRXs10jB57k5mlx+cIZxXG1Tu5dcu2wQ=;rYEMwC8QtZ7QQRb8oC32fw=="
+secured: "/je8Stsq6LhkIREMBEs8wHybivhw3I/i339o0chBtQEY9aqrGfPmMxXzYQVtbufLdc/i8/L63ZtLdUxNaN18PxyUfZbbGtvy0Vp6fJy27hC0rUIoRtYWywv9abEGCJnYvTj+ueRNhIE7IgKJLeZIjYRPVZAVUthH1bJxBow9ibdhtxNUzgwDHZsgCZEKs6K91nc/VX+u7s+5N0NGIsfbp6ZU3MLTv7DXJzkLIQ5iVzQ/VxL9VgjQx10JpH5kOzwPc1t+vTYvHcqn4Qv2IyQQaQXK6IsRPPlPY41x+sEZ2/2ZPIQnVlHDDOMWp5Q5XclVan3tqJAsxTMQ4cH3g9LOKT+CmI4HYap20suhLCD194c=;ahTDOxE0YLx+MQ+zigQT6A=="
 ---
 

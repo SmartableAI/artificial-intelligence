@@ -39,17 +39,6 @@ related:
         width: 375
         height: 250
         isCached: true
-  - title: "Cirrascale Cloud Services® and Graphcore® Announce Availability of Graphcloud for Machine Intelligence"
-    excerpt: "Cirrascale Cloud Services®, a premier cloud services provider of deep learning infrastructure solutions for autonomous"
-    publishedDateTime: 2021-01-26T06:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/n19313723/cirrascale-cloud-services-and-graphcore-announce-availability-of-graphcloud-for-machine-intelligen"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19313723"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19313723"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 23
 
 secured: "jRhIYuSihXHA5Q91GGOI4K+iem4GTMAOOLVG6xlP2qidc15epeV70/gYjl/xaJTPSYWpxyYmHCngJ2ZaNRkFQ6PojjJ7zzQceR9SQyWot0PM/0w3Pifvnb4vWZE1QchHLWHHZNzLKZ/dfC3ALhRQYz22eA8nlIBX6K2Zby+LksjG6cJRiH/lGvh7XotgTfB9cjsL7aJKQE7eK7eupLjVyt9J/7HspskwWX03wNOxZeY4OBhVRnN78ekRO/ZmoII8qFempGP7H1XUF4dVJiPt+wVkD/fvo03CCY0Aka9m/v2ZtOHdRL2twY1BS96KPpNo4pAPCHNROCf0iSHDMa4R7NwKaml2GQ8BklF4xfIH/oo=;c2WePkVwiE1yVZOhrE3kPA=="
 ---

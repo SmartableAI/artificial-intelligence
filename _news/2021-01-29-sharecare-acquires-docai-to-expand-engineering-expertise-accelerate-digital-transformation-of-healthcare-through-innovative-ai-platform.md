@@ -83,20 +83,6 @@ related:
         width: 500
         height: 322
         isCached: true
-  - title: "How AI is helping retailers reinvent themselves"
-    excerpt: "Everyday activities, once normal, have taken on a new element of risk, and consumers are prioritising those retailers who are capable of rapidly adjusting to changes in the business environment.” Retailers are moving to a multi-channel environment offering a variety of shopping options for customers,"
-    publishedDateTime: 2021-01-26T06:50:00Z
-    webUrl: "https://www.moneyweb.co.za/news/tech/how-ai-is-helping-retailers-reinvent-themselves/"
-    type: article
-    provider:
-      name: Moneyweb
-      domain: moneyweb.co.za
-    quality: 39
-    images:
-      - url: "https://www.moneyweb.co.za/wp-content/uploads/2014/10/Shopping-Shutterstock-4-1024x684.jpg"
-        width: 1024
-        height: 684
-        isCached: true
 
 secured: "+aAqTLPyrLf4B2dUffXRUHMlvZJ/b+HYvrXFvpF9qzZ5Q2U8yvE8iW223OSU9so1atIbHIz1UeIyEJN283q6AgLm+PuQiZ5eEdyJiI2RA7xgyHFnpaAHiBRy7U/wNfpWrbaS6bySrgyHoaNCfNP9Tgw0d6LTIUAmrXdtJzxo/9kXsJ7pWiofnUwG7qIl4vul02/l1TDx0MIdee+oYO2Z1LWr159HYA6Hzp0+um5A+l6MSPkLZTNkxcQQTN09VYEwtm4zR7K2N5ZHwSpWa3s7r+d+o16HGdsjesoeaCb7U7s0Phr92go3WYLPA5Aoc8dmpcskiI+7XLJl9tiUI6Cdggl6YLKYK9NKQcHYSay4SG0=;1Qm8QbpMTcuYZmfxRRTLpA=="
 ---

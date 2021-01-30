@@ -79,20 +79,6 @@ related:
         width: 300
         height: 211
         isCached: true
-  - title: "Why Waymo boss says 'self-driving' needs to go"
-    excerpt: "Waymo had come to the conclusion the phrase didn't accurately describe the technology the company is building. \"Is the self the car? If so, it doesn't really do good service to the product we're working on,"
-    publishedDateTime: 2021-01-26T06:24:00Z
-    webUrl: "https://europe.autonews.com/automakers/why-waymo-boss-says-self-driving-needs-go"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 39
-    images:
-      - url: "https://europe.autonews.com/s3/files/styles/800x600/public/john-krafcik.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "kfzH+tP2xWga+801EGE9JH0b0lWNSMsFntcpQtbXtzC21jf36HYpJJshordQ8v+6ev0jk2TaJC40rA1FykTIX+fS+dglrY03oC5gNgwHspcQ6tUuO263uqyKi+bbGJaLrWCnrmPsyTPrSKYE8IuI9oE3XYBAfLAtFfZAgpsMnCkl7uJslxWvrvAGtHvHzUt67xPtY7NAwYgPX2ko6SAEeG3TJAYT6be6B+DfBTILrKqlL3RLNzvfPtFe51W4IYJxz1gVvJmbIMEXHUgt2jihOL5ZVd7tqYMC0kORRDCGpJ1JTmIr6+N9LRuIpG+JSafzHOIaNttjyp9VGAFHdu/KLr17iTauNvpQlFnms/LizWY=;4yHOu7gZ5PGGCQmCEu/y6A=="
 ---

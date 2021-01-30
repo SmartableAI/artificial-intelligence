@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-will-never-achieve-full-s
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-will-never-achieve-full-self-driving-capabilities-says-waymo-ceo/"
 type: article
 quality: 104
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -78,20 +78,6 @@ related:
       - url: "https://www.teslarati.com/wp-content/uploads/2020/12/tesla-powerpack-japan-300x211.jpg"
         width: 300
         height: 211
-        isCached: true
-  - title: "Why Waymo boss says 'self-driving' needs to go"
-    excerpt: "Waymo had come to the conclusion the phrase didn't accurately describe the technology the company is building. \"Is the self the car? If so, it doesn't really do good service to the product we're working on,"
-    publishedDateTime: 2021-01-26T06:24:00Z
-    webUrl: "https://europe.autonews.com/automakers/why-waymo-boss-says-self-driving-needs-go"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 39
-    images:
-      - url: "https://europe.autonews.com/s3/files/styles/800x600/public/john-krafcik.jpg"
-        width: 800
-        height: 600
         isCached: true
 
 secured: "7P7tdm27YeH4pSVAlygudfM69RJlQFAGs0NTCridnEic77dnHQIAvyeU4ehGYLIKBGdkQe9K8dLO/XB6NPiN3Lm0IdOcyyezJcaYCSFSVEIzdWKWUkajWIjgj0i1UzHTvF6pI8iVHeZWjK/GpdOxNobnGL4SXdfoe/TLzxjEXTIQyLe+xUgjRQ0aA8yHvkAL9O2ZylFU+KgR6UFF/4at/Wgkp/Rah4LbEaG8vfGuq92vG42k5riSFrs4zwy4u/CDnelQP70xq1tGCEYZnrubsGi3P0DoXXRtRXOK0Kx09cdsyWKfSlw3F25nGuhMbC3LfMXYRORvkAxv3zNs4z/vBtE0al5FXvjGHkYGt4FMkk0=;JaytlCpn5FPCmDOAkXBE4w=="

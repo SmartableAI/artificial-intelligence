@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/01/27/state-of-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/27/state-of-the-art-applied-artificial-intelligence-defined/amp/"
 type: article
 quality: 91
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     width: 1200
     height: 795
     isCached: true
-
-related:
-  - title: "Tailored AI-generated advice may stop the spread of misinformation"
-    excerpt: "Research shows that artificial intelligence can help form accurate news assessments and stop the spread of misinformation."
-    publishedDateTime: 2021-01-26T05:07:00Z
-    webUrl: "https://www.helpnetsecurity.com/2021/01/26/stop-spread-misinformation/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 39
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/08/16143539/search-look.jpg"
-        width: 1600
-        height: 1067
-        isCached: true
 
 secured: "3H9pM8hexwXi2agIWZzil0Uot1bOHEqd96+PoaP5heE//ttDMVaETrXjWWA5evx1SiX+mLnUk/c3yVAC0KqQCIkpX4RiPnPhwOaGjrItoMyXjzZfngkCOEMEcnHPT7O9hCY1GwP6UYsRA5f6aGqh2lWUkAAcryq6URazApgfZHjfJ+OpYRp7Qf4NnaJpLSN/kiMJAYzzl8/LAuiSkgi48PK3ipkJIrNx/P2Ek67D0+k9qhsLtFZgtqG6TxGbca0o3wPFGpeGuVKn/+m7T0f+ILnYhcSG/WTBrjwgR3vdvF+Kj2xXUuv2wijLsA8GQlcPB8Iq0t5xDgKwcG1RrPNFCw9RSFWR+P4zIB/y8WeQ6NjQnj6EdfB2BDJleQXrAZqZrJ4b9c9Ue9Cfu/yzR1TuuVZvORy2+EXxSyJZ+JC/MTpIiW5gca6gmtdLFr+txPf5nEpbMLFzFjVqrGA5EJomHvJ2PnykRuessmum1YpWRBu/coSly2xxvJcfb28JNd2tioxpOThAcd0wNbDVfNIH+A==;UREDJNmNAlHBNT/TZyQK2g=="
 ---
