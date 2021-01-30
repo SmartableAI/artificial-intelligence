@@ -1,22 +1,28 @@
 ---
 category: news
 title: "WinWire launches Vaccine Management Solution Built on Microsoft Azure"
-excerpt: "WinWire Technologies, a digital engineering services company, launched its Vaccine Management solution built on Azure. Healthcare organizations need to create new business processes to deliver vaccines to patients."
-publishedDateTime: 2021-01-28T07:38:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20210128ph61007/winwire-launches-vaccine-management-solution-built-on-microsoft-azure"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20210128ph61007/winwire-launches-vaccine-management-solution-built-on-microsoft-azure"
+excerpt: "WinWire Technologies, a digital engineering services company, launched its Vaccine Management solution built on Azure. Healthcare"
+publishedDateTime: 2021-01-28T13:38:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/winwire-launches-vaccine-management-solution-built-on-microsoft-azure-301217194.html"
+webUrl: "https://www.prnewswire.com/news-releases/winwire-launches-vaccine-management-solution-built-on-microsoft-azure-301217194.html"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "Confluent strengthens strategic alliance with Microsoft"
@@ -125,6 +131,22 @@ related:
         width: 768
         height: 512
         isCached: true
+  - title: "GM, Cruise Partners with Microsoft to Accelerate Self-Driving EV Technology | Work & Wheels"
+    excerpt: "GM, Cruise Partners with Microsoft to Accelerate Self-Driving EV Technology | Work & Wheels General Motors and its self-driving car"
+    publishedDateTime: 2021-01-30T05:44:00Z
+    webUrl: "https://www.compsmag.com/news/technology/gm-cruise-partners-with-microsoft-to-accelerate-self-driving-ev-technology-work-wheels/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/gm-cruise-partners-with-microsoft-to-accelerate-self-driving-ev-technology-work-wheels/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/gm-cruise-partners-with-microsoft-to-accelerate-self-driving-ev-technology-work-wheels/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 51
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/GM-Cruise-Partners-with-Microsoft-to-Accelerate-Self-Driving-EV-Technology.png"
+        width: 900
+        height: 470
+        isCached: true
   - title: "buyMyplace reimagines real estate with Microsoft"
     excerpt: "Real estate disruptor, buymyplace, is launching a fully automated version of its platform that empowers Australian property owners to sell their property privately, putting them in charge of the sale of their home from go-to-whoa and cuts out the middle man."
     publishedDateTime: 2021-01-27T21:35:00Z
@@ -216,6 +238,6 @@ related:
       domain: businesswire.com
     quality: 16
 
-secured: "BZS+l8g57pnLfsZebxymr4qNDnmGuFLW8OUhhTBlR0m6Z9XqHnmJhN8Ddpr8DrJhbi7bV4QS/KZLylZXxa2SyWc4PdswRUV465AjIm04GGHistN3W2nTbHR98wYNBeG994aHT9DwI9KfC3Xo6rm8UXZcGdivB7cNw9R60bekWQTPtmLzUNtkY8vxVviu6rVaA9iZhOpzdBPZKIVQguHD94h3Zm7acmuOGltL4Ux5qlqMo+5z9qD6RMzihrbZ1fRWIu+LEY9DaEsrdFOoFyvywxhASdcYqYcWuBcpqbRh56YuDQTFCb6UsWdYuFMpOSAdHxz6y2bpoLWk+0EmRK27D5cuhxe2jn8rGa33FpBAIsg=;mKNjW2aYRFtjNTuIa9cMrQ=="
+secured: "F8xK9DOzkg5Ze0xGBe3uZdirP8D3PlimdNrrmv1/li6p6YBMLTqJClSnDHGbu9lc3djLlaux4SsMQT7XwIW6Vgebxl2teKLL/PRF+lEuFjVDw+IbUUMVU6okSMb64EcsZC279D0sAsg/4PcHqjICD6EkSAZsHgwA0G0+Q3mHpvCj4riiITW6fPsrtaTbbUtvwA8P41UrIeyxxZPEjnaicBGovIg0OZWDtT8k6xycraskPlwTkV8hV3/gYxvVlXqDa4HZUegLgT1PTYG8lqtnSHsLYO1tgpVNnhHKkaVuz1aG51SyQLBZAJUtSl3ldrLax+xe6mBfmxf0oo63+gj5qjUBumR0Wu0ea96XgJ0HJVI=;GsEOKTsOthCntF99sXpn+w=="
 ---
 

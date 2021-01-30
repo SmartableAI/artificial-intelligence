@@ -7,7 +7,7 @@ originalUrl: "https://www.bignewsnetwork.com/news/267641275/footwear-manufacture
 webUrl: "https://www.bignewsnetwork.com/news/267641275/footwear-manufacturers-banking-on-computer-assisted-in-customer-service-and-incorporating-sustainable-material-to-expand-sales-factmr"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 630
     height: 420
     isCached: true
-
-related:
-  - title: "Footwear Manufacturers Banking on Computer Assisted In-Customer Service and Incorporating Sustainable Material to Expand Sales: Fact.MR"
-    excerpt: "Footwear Manufacturers Banking on Computer Assisted In-Customer Service and Incorporating Sustainable Material to Expand Sales: Fact.MR Innovations in personal designs and performance materials are likely to contribute significantly to the aggrandizement of the market in the foreseeable future."
-    publishedDateTime: 2021-01-25T14:09:00Z
-    webUrl: "https://apnews.com/press-release/accesswire/business-lifestyle-products-and-services-fashion-accessories-asia-656cebe253794679ce6fbb95b53ecd98"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "ILqCrq1/HG4hqlWVsokSl+FkvWPxyMrWBjaNqdqO6tmRixmUn226SqkTxjSKktQf0O5WN4iyRL067q8zL5EKezbZ4+EHpU/J5i0A/HpP8LsHyhHpieOr+nOJklF9z/CT23BHVZ5Ce4Xr1eEa1G6qrg46cewgzB1CsFX8V+rvL/hEiX5SYDsEYGK2NfXN0pZdIDIGaPnmzsJHXcQ3VJ8nhFRgvLAWOSVCIT7+hDmn78+0kUwvG0L0gOfQFR70GMs8D9kS5TwNxvBNLsXnTeZcwSJremFwYhJl5Fv59tPufuigXugScD0aDriyRuQ0bpjk+W7U1AizUN+ZHdwsM6tTyDIxKQdLnY2E9yMFEWp+CYk=;sU10x8ykkmXE7Wvo1JpWVA=="
 ---

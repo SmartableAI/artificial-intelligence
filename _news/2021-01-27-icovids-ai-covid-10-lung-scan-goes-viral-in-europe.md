@@ -19,90 +19,106 @@ topics:
   - AI
 
 related:
-  - title: "We Helped Greece Build an AI System to Make Covid-19 Testing More Efficient. Here's What We Learned."
-    excerpt: "In addition to travel and tourism, we believe AI-driven systems like Eva can help schools, workplaces, local governments, and other institutions with limited resources better manage their Covid-19 restrictions and testing policies. If a university ..."
-    publishedDateTime: 2021-01-27T16:30:00Z
-    webUrl: "https://www.entrepreneur.com/article/363706"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/363706"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/363706"
+  - title: "Hyundai DAL-E Is A Robot Salesperson For A Covid World"
+    excerpt: "Some automakers are offering contactless drop-off services, but Hyundai is going all-in with a robot approach."
+    publishedDateTime: 2021-01-25T22:15:00Z
+    webUrl: "https://www.forbes.com/sites/sebastianblanco/2021/01/25/hyundai-dal-e-is-a-robot-salesperson-for-a-covid-world/"
+    ampWebUrl: "https://www.forbes.com/sites/sebastianblanco/2021/01/25/hyundai-dal-e-is-a-robot-salesperson-for-a-covid-world/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sebastianblanco/2021/01/25/hyundai-dal-e-is-a-robot-salesperson-for-a-covid-world/amp/"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 72
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1611603565-GettyImages-148740649.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Machine Learning Technique Helps Predict COVID-19 Outcomes"
-    excerpt: "Mount Sinai researchers used a machine learning technique called 'federated learning' to predict outcomes of COVID-19 patients."
-    publishedDateTime: 2021-01-28T09:40:00Z
-    webUrl: "https://www.medindia.net/news/machine-learning-technique-to-enhance-predictions-of-covid-19-outcomes-199595-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/machine-learning-technique-to-enhance-predictions-of-covid-19-outcomes-199595-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/machine-learning-technique-to-enhance-predictions-of-covid-19-outcomes-199595-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 59
-    images:
-      - url: "https://images.medindia.net/amp-images/health-images/pollen-allergy-women-cold.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600f3a54417b9cd2875689f2%2F0x0.jpg"
         width: 1200
-        height: 1000
+        height: 761
         isCached: true
-  - title: "AI Monitors Early Warning Signs in COVID Patients"
-    excerpt: "The University of Virginia is utilizing an artificial intelligence system called 'CoMET' to monitor COVID19 patients."
-    publishedDateTime: 2021-01-27T22:01:00Z
-    webUrl: "https://www.techzone360.com/topics/techzone/articles/2021/01/27/447827-ai-monitors-early-warning-signs-covid-patients.htm"
-    ampWebUrl: "http://www.techzone360.com/topics/techzone/articles/2021/01/27/447827-ai-monitors-early-warning-signs-covid-patients.htm/amp"
-    cdnAmpWebUrl: "https://www-techzone360-com.cdn.ampproject.org/c/www.techzone360.com/topics/techzone/articles/2021/01/27/447827-ai-monitors-early-warning-signs-covid-patients.htm/amp"
+  - title: "Hyundai's New Dealership Robot Will Narc On You For Not Wearing A Mask"
+    excerpt: "Yes, that wasn’t a misprint, Hyundai is launching DAL-e, a customer service robot that can safely communicate with patrons during the pandemic– the acronym stands for Drive you Assist you, Link with you-experience."
+    publishedDateTime: 2021-01-25T21:00:00Z
+    webUrl: "https://www.motor1.com/news/481998/hyundai-dealership-robot/"
+    ampWebUrl: "https://www.motor1.com/news/481998/hyundai-dealership-robot/amp/"
+    cdnAmpWebUrl: "https://www-motor1-com.cdn.ampproject.org/c/s/www.motor1.com/news/481998/hyundai-dealership-robot/amp/"
     type: article
     provider:
-      name: Tech Zone 360
-      domain: techzone360.com
-    quality: 39
-  - title: "Engineering and artificial intelligence combine to safeguard COVID-19 patients"
-    excerpt: "Princeton engineers applied artificial intelligence to the task of monitoring and adjusting ventilators for COVID-19 patients, with the goal of easing the burden on medical workers and allowing ventilators to be deployed in areas with staffing shortages."
-    publishedDateTime: 2021-01-26T15:31:00Z
-    webUrl: "https://www.princeton.edu/news/2021/01/26/engineering-and-artificial-intelligence-combine-safeguard-covid-19-patients"
-    type: article
-    provider:
-      name: Princeton University
-      domain: princeton.edu
-    quality: 33
+      name: Motor1
+      domain: motor1.com
+    quality: 74
     images:
-      - url: "https://www.princeton.edu/sites/default/files/styles/scale_1440/public/images/2021/01/TomZajdel090820_0017-ventilator-16X9-for-web.jpg?itok=zUiFQePT"
-        width: 1440
-        height: 810
+      - url: "https://cdn.motor1.com/images/mgl/PExAX/s1/hyundai-customer-service-robot.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "New AI-severity score COVID-19 integrating CT images published to Nature Communications"
-    excerpt: "Owkin, a French-American startup pioneering AI and Federated Learning in medical research, has been focusing it's COVID-19 research efforts on aspects of the pandemic that still require much public health attention,"
-    publishedDateTime: 2021-01-28T16:52:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-01/oi-nas012821.php"
+  - title: "Social Distancing? Hyundai's DAL-e Robot Helps Showroom Customers Without Wearing A Mask"
+    excerpt: "The robots come installed with a state-of-the-art artificial intelligence technology for facial recognition and an automatic communication system."
+    publishedDateTime: 2021-01-26T00:42:00Z
+    webUrl: "https://www.hotcars.com/hyundais-dal-e-robot-helps-showroom-customers-socially-distance-without-wearing-a-mask/"
+    ampWebUrl: "https://www.hotcars.com/hyundais-dal-e-robot-helps-showroom-customers-socially-distance-without-wearing-a-mask/amp/"
+    cdnAmpWebUrl: "https://www-hotcars-com.cdn.ampproject.org/c/s/www.hotcars.com/hyundais-dal-e-robot-helps-showroom-customers-socially-distance-without-wearing-a-mask/amp/"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 29
+      name: hotcars
+      domain: hotcars.com
+    quality: 65
     images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
+      - url: "https://static1.hotcarsimages.com/wordpress/wp-content/uploads/2021/01/DAL-e-with-SUV.jpg"
+        width: 1710
+        height: 900
         isCached: true
-  - title: "Researchers Build Models Using Machine Learning Technique to Enhance Predictions of COVID-19 Outcomes"
-    excerpt: "Mount Sinai researchers have published one of the first studies using a machine learning technique called \"federated learning\" to examine"
-    publishedDateTime: 2021-01-28T06:16:00Z
-    webUrl: "https://www.miragenews.com/researchers-build-models-using-machine-learning-technique-to-enhance-predictions-of-covid-19-outcomes/"
+  - title: "Hyundai launches humanoid robot ‘DAL-e’ for customer service"
+    excerpt: "Hyundai Motor Group has launched the humanoid “DAL-e”, which it describes as a “highly advanced customer service robot” that independently communicates with people using precise recognition"
+    publishedDateTime: 2021-01-26T09:55:00Z
+    webUrl: "https://roboticsandautomationnews.com/2021/01/26/hyundai-launches-humanoid-robot-dal-e-for-customer-service/39904/"
     type: article
     provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 24
+      name: Robotics & Automation News
+      domain: roboticsandautomationnews.com
+    quality: 54
     images:
-      - url: "https://www.parliament.wa.gov.au/webcms/webcms.nsf/resources/file-parliament-house-front-day/$file/parl-house-front-day.jpg"
-        width: 700
-        height: 467
+      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2021/01/hyundai-humanoid-1.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Hyundai’s humanoid robot could change car dealer service as we know it"
+    excerpt: "DAL-e, whose name stands for “Drive you, Assist you, Link with you-experience”, was designed to kick-start the future of automated customer services for Hyundai. To achieve this, the robot is equipped with state-of-the-art artificial intelligence ..."
+    publishedDateTime: 2021-01-26T08:57:00Z
+    webUrl: "https://www.iol.co.za/motoring/industry-news/hyundais-humanoid-robot-could-change-car-dealer-service-as-we-know-it-fcd4cc17-fac9-48f8-9ec2-8148506b2a32"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 54
+    images:
+      - url: "https://image-prod.iol.co.za/resize/1600x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/60242d97-b780-57b6-9823-173f5219e983&operation=CROP&offset=0x70&resize=1600x900"
+        width: 651
+        height: 366
+        isCached: true
+  - title: "Wake Up Humans, The Robots Are Coming: Meet Hyundai’s DAL-e AI Customer Service Robot"
+    excerpt: "Hyundai Motor Group has just launched a humanoid customer service robot called “DAL-e”. It’s a highly advanced machine designed to communicates with people using precise recognition capabilities and mobility function."
+    publishedDateTime: 2021-01-26T01:45:00Z
+    webUrl: "https://www.carscoops.com/2021/01/wake-up-humans-the-robots-are-coming-meet-hyundais-dal-e-ai-customer-service-robot/"
+    ampWebUrl: "https://www.carscoops.com/2021/01/wake-up-humans-the-robots-are-coming-meet-hyundais-dal-e-ai-customer-service-robot/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/01/wake-up-humans-the-robots-are-coming-meet-hyundais-dal-e-ai-customer-service-robot/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 47
+  - title: "Hyundai Motor Group Introduces Advanced Humanoid Robot ‘DAL-e’ for Automated Customer Services"
+    excerpt: "Hyundai Motor Group has launched the “DAL-e,” a highly advanced customer service robot that independently communicates with people using precise recognition capabilities and mobility functions. The DAL-e is an acronym for “Drive you,"
+    publishedDateTime: 2021-01-28T16:10:00Z
+    webUrl: "https://www.finchannel.com/technology/80035-hyundai-motor-group-introduces-advanced-humanoid-robot-dal-e-for-automated-customer-services"
+    type: article
+    provider:
+      name: The Financial
+      domain: finchannel.com
+    quality: 42
+    images:
+      - url: "https://finchannel.com/images/banners/ePaperTF.jpg"
+        width: 500
+        height: 265
         isCached: true
 
 secured: "m1EXiQ5YgdktEeFlpQ84nU38Tj+haNtdygeOGz+GX8QF1IYOLm2VvLb2j11rnogEaS6ZJGmmDmXWUntwFKIGfZYuJbgesOYEF0BXM2oKz/onW9F6DSvjLHsTO3zYX9L6mtnA8k/Opl2RxlLhJWXLruxiNZ9ClgHZXLz+KsXpr1aa1JFonnFGJ/+aEFAMSx442znoaGCNOPe/izhQOxxTsTjVj9mzH1BtBOapxBWqmRNgTzobz/SbdXSD0BrZ35arPtwt809ndJyTrp8KGa3YE0aIECApgnr+EeTpfyWWcp6C0gHf5C+D0xLQ4daAtaAPgG9nYsvm1t0sJ1TSmGph4VQy1FX1KUJZ8+yJlCZXRKD1SXug+i8jLx2PYpKLndhvmyFOiiCPniRWgR4PIcWwPZL68MBLjmdRZq/4ePzQ2i9kvinVsPpSSNWlR1dh8dASCnKvCG7OilLBQAFJH8SSUvSBN+PCh+xW3fQLzllneamSQF53jz0F/R9CDAet3ZLivoWNGHfZlg7g6keci2j0qA==;UE/PJLq2kaQFH+H1iqhZBg=="

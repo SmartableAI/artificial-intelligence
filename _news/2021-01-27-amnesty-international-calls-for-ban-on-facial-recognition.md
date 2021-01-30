@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/01/27/amnesty-international-calls
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/27/amnesty-international-calls-for-ban-on-facial-recognition/amp/"
 type: article
 quality: 89
-heat: 449
+heat: 429
 published: true
 
 provider:
@@ -219,20 +219,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 48
-  - title: "AnyVision offers 5 indications for fair, ethical and unbiased use of face recognition amidst rising public debate in the US"
-    excerpt: "AnyVision has offered five indications for fair, ethical and unbiased use of face recognition amidst a rising public debate in the US."
-    publishedDateTime: 2021-01-25T13:03:00Z
-    webUrl: "https://www.ifsecglobal.com/video-surveillance/anyvision-5-indications-for-fair-ethical-and-unbiased-use-face-recognition/"
-    type: article
-    provider:
-      name: ifsecglobal.com
-      domain: ifsecglobal.com
-    quality: 45
-    images:
-      - url: "https://s33644.pcdn.co/wp-content/uploads/2017/11/facial-recognition-biometrics-vectors-e1509551615893.jpeg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "New advances in the detection of bias in face recognition algorithms"
     excerpt: "A team from the Computer Vision Center (CVC) and the University of Barcelona has published the results of a study that evaluates the accuracy and bias in gender and skin colour of automatic face recognition algorithms tested with real world data."
     publishedDateTime: 2021-01-25T15:39:00Z
@@ -420,15 +406,6 @@ related:
         width: 1024
         height: 662
         isCached: true
-  - title: "Study reveals facial recognition of mask-clad travelers improving"
-    excerpt: "To determine the effectiveness of facial recognition technology at accurately identifying masked travelers during the COVID-19 pandemic, a team from the U.S. Department of Homeland Security (DHS) Science and Technology Directorate (S&T) conducted a series of tests on biometric systems and matching algorithms."
-    publishedDateTime: 2021-01-25T14:55:00Z
-    webUrl: "https://insights.globalspec.com/article/15818/study-reveals-facial-recognition-of-mask-clad-travelers-improving"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 19
   - title: "Jordanian AI team bags second place in international competition"
     excerpt: "Jordan’s Robotna team, the LETA Robot, won second place in Codeavour 2020 AI, an international Artificial Intelligence (AI) and coding competition, organised by STEMpedia.Robotna is a social startup that gears towards strengthening skills of creative thinking,"
     publishedDateTime: 2021-01-26T00:24:00Z

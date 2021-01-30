@@ -9,8 +9,8 @@ ampWebUrl: "https://singularityhub.com/2021/01/27/how-an-israeli-startup-is-usin
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/01/27/how-an-israeli-startup-is-using-ai-to-help-people-make-babies/amp/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Singularity Hub
@@ -26,17 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Israeli AI FemTech solution secures prestigious US cancer grant to advance women's health"
-    excerpt: "The Israeli FemTech startup earns a prestigious grant from the National Cancer Institute, as an innovator in the battle against"
-    publishedDateTime: 2021-01-25T13:45:00Z
-    webUrl: "https://www.geektime.com/israeli-ai-femtech-solution-secures-prestigious-us-cancer-grant/"
-    ampWebUrl: "https://www.geektime.com/israeli-ai-femtech-solution-secures-prestigious-us-cancer-grant/amp/"
-    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/israeli-ai-femtech-solution-secures-prestigious-us-cancer-grant/amp/"
-    type: article
-    provider:
-      name: Geektime
-      domain: geektime.com
-    quality: 28
   - title: "8 top Israeli agritech start-ups to watch in 2021"
     excerpt: "Israel's history in agricultural has evolved into an ecosystem of pathbreaking, technologically advanced agritech startups using AI, robotics and drones to make farming more cost-efficient."
     publishedDateTime: 2021-01-27T02:30:00Z

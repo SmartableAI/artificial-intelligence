@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla partners with Samsung on new 5nm chip for full self-driving, report says"
-    excerpt: "Tesla has reportedly partnered with Samsung on a new 5nm chip for full self-driving, according to a new report coming from Korea. Tesla moves to design its own chips Back in 2016, Tesla started building a team of chip architects led by legendary chip designer Jim Keller to develop its own silicon."
-    publishedDateTime: 2021-01-25T13:51:00Z
-    webUrl: "https://electrek.co/2021/01/25/tesla-partners-samsung-new-5nm-chip-full-self-driving-report/"
-    ampWebUrl: "https://electrek.co/2021/01/25/tesla-partners-samsung-new-5nm-chip-full-self-driving-report/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/01/25/tesla-partners-samsung-new-5nm-chip-full-self-driving-report/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 102
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2019/04/Screen-Shot-2019-04-22-at-2.48.22-PM-1-e1555961353311.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Elon Musk says Tesla's Full Self-Driving tech will have Level 5 autonomy by the end of 2021"
     excerpt: "Tesla's CEO also confirmed that customers won't be able to transfer previous FSD purchases between old and new cars."
     publishedDateTime: 2021-01-28T01:48:00Z
@@ -95,31 +79,6 @@ related:
         width: 300
         height: 211
         isCached: true
-  - title: "The Samsung Exynos platform for Tesla self-driving cars is to upgrade to 5nm: new report"
-    excerpt: "Samsung has partnered with Tesla to supply its cars with processors for their \"auto-pilot\" functions in the past, although the silicon in question has come from 14 nanometer (nm) process nodes. However,"
-    publishedDateTime: 2021-01-25T23:36:00Z
-    webUrl: "https://www.notebookcheck.net/The-Samsung-Exynos-platform-for-Tesla-self-driving-cars-is-to-upgrade-to-5nm-new-report.516984.0.html"
-    type: article
-    provider:
-      name: NotebookCheck
-      domain: notebookcheck.net
-    quality: 30
-    images:
-      - url: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/2019010308365557008_1546472215.jpg"
-        width: 745
-        height: 355
-        isCached: true
-  - title: "ATB Ventures focusing on digital identity, removing bias from artificial intelligence, creating key partnerships"
-    excerpt: "CALGARY, AB, Jan. 25, 2021 /CNW/ - ATB Ventures is helping Alberta foster innovation through advancements in digital identity and removing bias from artificial intelligence. ATB Financial's innovation lab is building, investing and partnering with ..."
-    publishedDateTime: 2021-01-25T19:05:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/n19306126/atb-ventures-focusing-on-digital-identity-removing-bias-from-artificial-intelligence-creating-key-"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19306126"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19306126"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 16
 
 secured: "+7G1NZDVtiHjwtWqjBxqItFK2UO9hvCmlE+qC9mI3CDNFikKrMlcF87MK2HpL+LoAvWRFYVkLUVICuKJOgyBgddxi2bKLJGL6bYPWd42YPzWjrAvQCfLfaiaCNPP535bHJ+9Qrpi4dds2PDBn0mC4nR1WpbTLGFPjyrHOjAtaiuTxVoxTCAmoFINH6tsS5zJnyFBSHQXJXcme82VtGhUZmTjBN/lb8c7yZWPiYXR5hAytI88pOl7HuqoPvNeL3VoZRHWCt+FVufC2rfg42RVADnzYfiKnnKl/UPkA6QKH4ipm2YIStGeHoNJYqAtKMJ3AYaaf8xsauu4LvajkBv5pQELMdvcMjIU5fUm+/hi7pTUsFnPleBW8GEDBuv0GjocqzkXeFp4qHpqr01opEMFpgPlM5yg050l6s5tsrtWEB8PmyBVVht+8COxWBymQ4ldEMuw8bt3gtRUcfOlkogMTvq04KGqqJG3NfL0wVH8vpCRD29XDKX0q3WzsJKTZFRIzEcvVBE51W7pFirJETBeNg==;b40JC3ywJanFn4LWIs+2lA=="
 ---

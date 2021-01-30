@@ -9,8 +9,8 @@ ampWebUrl: "https://techwireasia.com/amp/2021/01/which-country-leads-the-innovat
 cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/01/which-country-leads-the-innovation-charge-in-ai-research/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: techwireasia.com
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "US Leading Race In Artificial Intelligence, China Rising: Survey"
-    excerpt: "The United States is leading rivals in development and use of artificial intelligence while China is rising quickly and the European Union is lagging, a research report showed Monday. The study by the Information Technology and Innovation Foundation assessed AI using 30 separate metrics including human talent,"
-    publishedDateTime: 2021-01-25T14:17:00Z
-    webUrl: "https://www.ibtimes.com/us-leading-race-artificial-intelligence-china-rising-survey-3130046"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 37
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/25/people-have-their-faces-scanned-as-they-arrive.jpg"
-        width: 1024
-        height: 681
-        isCached: true
   - title: "Worldwide Conversational AI Industry to 2027 - Strategic Recommendations for New Entrants - ResearchAndMarkets.com"
     excerpt: "The “Conversational AI - Global Market Outlook (2019-2027)” report has been added to ResearchAndMarkets.com’s offering. According to this report, the Global Conversational AI market accounted for $3.81 billion in 2019 and is expected to reach $18."
     publishedDateTime: 2021-01-29T08:01:00Z

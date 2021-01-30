@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "South Korean AI technology resurrects dead singer's voice"
+    excerpt: "South Korean folk rock singer Kim Kwang-seok has been dead for nearly 25 years, but his fans will be able to hear him perform a new song cover on Friday thanks to artificial intelligence (AI) technology used to recreate his voice."
+    publishedDateTime: 2021-01-30T06:43:00Z
+    webUrl: "https://tribune.com.pk/story/2281928/south-korean-ai-technology-resurrects-dead-singers-voice"
+    ampWebUrl: "https://tribune.com.pk/story/2281928/south-korean-ai-technology-resurrects-dead-singers-voice?amp=1"
+    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2281928/south-korean-ai-technology-resurrects-dead-singers-voice?amp=1"
+    type: article
+    provider:
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 59
+    images:
+      - url: " https://i.tribune.com.pk/media/images/kim-kwang-seok-hero1611985593-0/kim-kwang-seok-hero1611985593-0.jpg  "
+        width: 720
+        height: 432
+        isCached: true
   - title: "South Korea has used AI to bring a dead superstar's voice back to the stage, but ethical concerns abound"
     excerpt: "The audio AI company behind Kim's reincarnated voice is Supertone, a South Korean startup founded in 2020 that provides AI audio solutions for content creators, according to co-founder and Chief Operating Officer Choi Hee-doo. \"For example, BTS is really ..."
     publishedDateTime: 2021-01-27T19:00:00Z

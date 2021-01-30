@@ -20,99 +20,35 @@ topics:
   - AI
 
 related:
-  - title: "Tesla partners with Samsung on new 5nm chip for full self-driving, report says"
-    excerpt: "Tesla has reportedly partnered with Samsung on a new 5nm chip for full self-driving, according to a new report coming from Korea. Tesla moves to design its own chips Back in 2016, Tesla started building a team of chip architects led by legendary chip designer Jim Keller to develop its own silicon."
-    publishedDateTime: 2021-01-25T13:51:00Z
-    webUrl: "https://electrek.co/2021/01/25/tesla-partners-samsung-new-5nm-chip-full-self-driving-report/"
-    ampWebUrl: "https://electrek.co/2021/01/25/tesla-partners-samsung-new-5nm-chip-full-self-driving-report/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/01/25/tesla-partners-samsung-new-5nm-chip-full-self-driving-report/amp/"
+  - title: "Copy.ai Revolutionizes Digital Marketing By Augmenting Human Creativity With AI"
+    excerpt: "Chris Lu and Paul Yacoubian realize that artificial intelligence can augment human creativity, instead of replacing it as some may fear, creating Copy.ai to enhance digital marketers ad copy."
+    publishedDateTime: 2021-01-25T16:12:00Z
+    webUrl: "https://www.forbes.com/sites/frederickdaso/2021/01/25/copyai-revolutionizes-digital-marketing-by-augmenting-human-creativity-with-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/frederickdaso/2021/01/25/copyai-revolutionizes-digital-marketing-by-augmenting-human-creativity-with-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/frederickdaso/2021/01/25/copyai-revolutionizes-digital-marketing-by-augmenting-human-creativity-with-ai/amp/"
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 102
+      name: Forbes
+      domain: forbes.com
+    quality: 100
     images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2019/04/Screen-Shot-2019-04-22-at-2.48.22-PM-1-e1555961353311.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600c6b551fa40d5a65663466%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D820%26cropY1%3D0%26cropY2%3D461"
+        width: 820
+        height: 461
+        isCached: true
+  - title: "Increasing role of AI and machine learning in smartening up data centers"
+    excerpt: "AI and machine learning in data centers can revolutionize data storage and computing power, bolstering companies' data management capabilities."
+    publishedDateTime: 2021-01-26T06:51:00Z
+    webUrl: "https://www.analyticsinsight.net/powering-data-centers-with-ai-and-machine-learning/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 53
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/Data-Centers.jpeg"
         width: 1200
-        height: 628
-        isCached: true
-  - title: "Elon Musk says Tesla's Full Self-Driving tech will have Level 5 autonomy by the end of 2021"
-    excerpt: "Tesla's CEO also confirmed that customers won't be able to transfer previous FSD purchases between old and new cars."
-    publishedDateTime: 2021-01-28T01:48:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/elon-musk-full-self-driving-tesla-earnings-call/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/elon-musk-full-self-driving-tesla-earnings-call/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/elon-musk-full-self-driving-tesla-earnings-call/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 79
-    images:
-      - url: "https://cnet3.cbsistatic.com/img/gCKjWpaDOLArujU35HNJiNtgxgs=/2018/10/24/3e4c2a85-ffa1-4600-ab59-e8af96931af4/tesla-logo-ogi.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Tesla had talks with other automakers about licensing its self-driving software, Elon Musk says"
-    excerpt: "Tesla had “preliminary” discussions with other automakers about licensing its self-driving software, according to new comments by CEO Elon Musk. Tesla Licensing Software Today, Tesla released its Q4 2020 financial results and following the release,"
-    publishedDateTime: 2021-01-28T01:46:00Z
-    webUrl: "https://electrek.co/2021/01/27/tesla-talks-automakers-licensing-self-driving-software-elon-musk/"
-    ampWebUrl: "https://electrek.co/2021/01/27/tesla-talks-automakers-licensing-self-driving-software-elon-musk/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/01/27/tesla-talks-automakers-licensing-self-driving-software-elon-musk/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 77
-    images:
-      - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2019/10/Tesla-Autopilot-hero-4-e1570845324247.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Tesla Reports First Yearly Profit, Musk Again Promises Full Self-Driving"
-    excerpt: "It's worth noting that the company missed the same FSD target in 2019 and 2020, but Tesla continues to work toward getting self-driving technology on the market."
-    publishedDateTime: 2021-01-28T02:04:00Z
-    webUrl: "https://www.caranddriver.com/news/a35341920/tesla-fourth-quarter-fsd-cybertruck-vans/"
-    ampWebUrl: "https://www.caranddriver.com/news/amp35341920/tesla-fourth-quarter-fsd-cybertruck-vans/"
-    cdnAmpWebUrl: "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp35341920/tesla-fourth-quarter-fsd-cybertruck-vans/"
-    type: article
-    provider:
-      name: Car and Driver
-      domain: caranddriver.com
-    quality: 73
-    images:
-      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/an-aerial-view-of-the-tesla-fremont-factory-on-may-13-2020-news-photo-1611794951.?crop=1xw:0.74963xh;center,top&resize=1200:*"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "Tesla says its Full Self-Driving subscription is coming ‘in a month or two’"
-    excerpt: "Tesla's Full Self-Driving suite will have a subscription program \"in a month or two,\" CEO Elon Musk said during the company's Q4 2020 Earnings Call."
-    publishedDateTime: 2021-01-27T00:00:00Z
-    webUrl: "https://www.teslarati.com/tesla-full-self-driving-subscription-q1-2021/"
-    ampWebUrl: "https://www.teslarati.com/tesla-full-self-driving-subscription-q1-2021/amp/"
-    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-full-self-driving-subscription-q1-2021/amp/"
-    type: article
-    provider:
-      name: Tesla News
-      domain: teslarati.com
-    quality: 57
-    images:
-      - url: "https://www.teslarati.com/wp-content/uploads/2020/12/tesla-powerpack-japan-300x211.jpg"
-        width: 300
-        height: 211
-        isCached: true
-  - title: "The Samsung Exynos platform for Tesla self-driving cars is to upgrade to 5nm: new report"
-    excerpt: "Samsung has partnered with Tesla to supply its cars with processors for their \"auto-pilot\" functions in the past, although the silicon in question has come from 14 nanometer (nm) process nodes. However,"
-    publishedDateTime: 2021-01-25T23:36:00Z
-    webUrl: "https://www.notebookcheck.net/The-Samsung-Exynos-platform-for-Tesla-self-driving-cars-is-to-upgrade-to-5nm-new-report.516984.0.html"
-    type: article
-    provider:
-      name: NotebookCheck
-      domain: notebookcheck.net
-    quality: 30
-    images:
-      - url: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/2019010308365557008_1546472215.jpg"
-        width: 745
-        height: 355
+        height: 675
         isCached: true
 
 secured: "8TIvdxwNk5oCd9GFcOZ66zVgkww6T/15flq7OdGhkUG92bDVk+NmDhEizyqyZp4pmD+Qke0QBCLiZCr5OO6c0SguXP6g+9WAdn2CMgQU2r1X1A8Mh9TGOjUcBRSRKHjMt7v/O1pLWjACERuMyj/Xqgu7KM8i7cqaih+HTJOwcPds7ApnaLEPNHI8GtV5fWdJRpaHGuRkYddPbXmqynntSsjubt3Grdz6gz2L1+hbCeYU4mbH9EOtbJNYsP/qdrxE9uhQm6E07yT0w4FlVyaIAvZjj5SdlXW8Ftw6zJh03HlAa/P9e/GjmNSgq9pU7+oGF0nYTEulNQ6JTgSp1OSm35q4ohXk1x4oBkoKZCUH8lk=;+kcILuNrd+Y1e9mt86swDw=="

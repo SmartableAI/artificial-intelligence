@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2K41Y9"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2K41Y9"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 829
     height: 545
     isCached: true
+
+related:
+  - title: "SoftBank's Son expects mass production of driverless cars in two years"
+    excerpt: "SoftBank Group Corp Chief Executive Masayoshi Son said on Friday he expects mass production of self-driving vehicles to start in two years."
+    publishedDateTime: 2021-01-29T21:00:00Z
+    webUrl: "https://www.reuters.com/article/ctech-us-davos-meeting-son-autonomous-idCAKBN29Y279-OCATC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN29Y279-OCATC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN29Y279-OCATC"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210129&t=2&i=1549571164&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0S194"
+        width: 829
+        height: 545
+        isCached: true
 
 secured: "vPkseXH8G35k/1fSDOxv7q5cSJUCZ3A46MFi9/2TOxFj1YRzvgHIX9gCmwBhP/A8sbzWwV79Ofwwp0mlGC9ZSkJ+5TjhMXHNdwVCV22hPp0Sye8oI07AJdsrRG55BdaIURc/f7kP/nUEohu9YvGGskC8IeE7OahQQvWztnt2lv0OrDX7ooXzHxUADOl0h4Ds/7GsWzxgJw108f6vx3yVfRSsbeIHrR2av+13E2ZhkiGrYZ7Ff8oLCGLmfgPZPIpIztm9496JV2nbZgrIUQPUXFPNHnzpSmaPu2285LeEutdlY/k7yvD6OA4e8vu7lGxsuwkUWVlOs2XUzxcmujDSKnKVoT5V75UkDm3vBXBhGe0=;O2/LXegtVqtTQxOfa5I6Bw=="
 ---

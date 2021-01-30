@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/resource-library/whitepapers
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/dell-precision-workstations-for-ai/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -24,20 +24,6 @@ topics:
   - AI
 
 related:
-  - title: "How artificial intelligence will change work"
-    excerpt: "MIT Professor Thomas Malone, Professor Daniela Rus, and Robert Laubacher collaborated on \"Artificial Intelligence and the Future of Work,\" a brief that provides"
-    publishedDateTime: 2021-01-25T14:39:00Z
-    webUrl: "https://www.controleng.com/articles/how-artificial-intelligence-will-change-work/"
-    type: article
-    provider:
-      name: Control Engineering
-      domain: controleng.com
-    quality: 37
-    images:
-      - url: "https://www.controleng.com/wp-content/uploads/sites/2/2021/01/CTL2101_WEB_IMG_MIT_Malone_Rus.jpg"
-        width: 645
-        height: 350
-        isCached: true
   - title: "Correction to Google Artificial Intelligence Article"
     excerpt: "Chief Executive Sundar Pichai said last year, adding, \"While AI promises enormous benefits for Europe and the world, there are real concerns about the potential negative consequences.\" \"Artificial Intelligence Will Define Google's Future."
     publishedDateTime: 2021-01-26T20:02:00Z

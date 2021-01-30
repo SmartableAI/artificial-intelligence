@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2021-01-ways-artificial-intelligence-space-exp
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-01-ways-artificial-intelligence-space-exploration.amp"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 600
     height: 900
     isCached: true
-
-related:
-  - title: "Five ways artificial intelligence can help space exploration"
-    excerpt: "From designing missions to clearing Earth’s orbit of junk, here are a few ways artificial intelligence can help us venture further in space. Do you remember Tars and Case, the assistant robots from the film Interstellar?"
-    publishedDateTime: 2021-01-25T14:43:00Z
-    webUrl: "https://theconversation.com/five-ways-artificial-intelligence-can-help-space-exploration-153664"
-    ampWebUrl: "https://theconversation.com/amp/five-ways-artificial-intelligence-can-help-space-exploration-153664"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/five-ways-artificial-intelligence-can-help-space-exploration-153664"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 59
-    images:
-      - url: "https://images.theconversation.com/files/379734/original/file-20210120-15-ni8svg.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=320&fit=crop"
-        width: 320
-        height: 320
-        isCached: true
 
 secured: "IFJwT14P/7xUnM0heMXkMq/xhn0Z8ABm17PIhP04W6Cz9bv1m7Bt2gaML57vuBouf0VoYe+Dav/o2O5BuRFfIZYDBcxEC8HkbaoQIzXTVpb3OyFyXf8/7NEf8S+DdfJA9Oj1kgVcUBrxeSqWtMUsF8nVzagcm3s+YsN3KNSbbaxGwyzJVC9TFFCxMV+68d+xdAlxY/Mpn9kicCtaIpb0Qo2TX49kA358l7clwNJRKNTdL5bd4Bmvz40sLhL+waOWr4fKkK5BTkgfkTgnSeWgepGPFWX8ELGi83Oz+WUb+XCjMOSe6QrU+svdOSCOPGQavu52CxHZ0m5JFxdfpwLJ7NNWqqSmS6Gep/OYkvEZ0yyUPpeO+wlI9umvSBKD6O+gZuyLORXWhGy6tsKUGwOjwc8rMTOyjCIWzARypCi2mhTVxkvJcSKEzydwEwzOhxrPTiWY7cY20NI4ePBUvQYFW7E48AshW2wxlVcmbQPTJYt2uYy169uZHKxlFKXKtKiYrVBLX0FbB5gIeCPaFfk8qg==;0hknqD4vl44ob7m+mApC+Q=="
 ---

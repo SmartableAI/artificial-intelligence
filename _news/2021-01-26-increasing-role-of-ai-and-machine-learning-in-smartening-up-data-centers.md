@@ -41,6 +41,17 @@ related:
         width: 820
         height: 461
         isCached: true
+  - title: "ATB Ventures focusing on digital identity, removing bias from artificial intelligence, creating key partnerships"
+    excerpt: "CALGARY, AB, Jan. 25, 2021 /CNW/ - ATB Ventures is helping Alberta foster innovation through advancements in digital identity and removing bias from artificial intelligence. ATB Financial's innovation lab is building, investing and partnering with ..."
+    publishedDateTime: 2021-01-25T19:05:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/n19306126/atb-ventures-focusing-on-digital-identity-removing-bias-from-artificial-intelligence-creating-key-"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19306126"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19306126"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 16
 
 secured: "fNoGBQLeDDmrBPF5BMveoNcwUgejYCInn1Z1b8S6U2ipP4o5WVwH99ZmQCwATABoMDviua5PSc+x0djMBpKFymURoeebbpR8kdX6yxWHpdM9RgOjMdtMvs8a6sabRtIVjrwCQMJJF2WIygMz+nWobDCnYGjPmreCH0QZV7MwZpD8c5F7a54/AFPRgoqOKw0usNIIDswQ5/Bi+ktOJTbtVbInx+AjcW92iD1F1DQc9g3Evo7oCOnDXD+1rJ+rSaLfNat94d2EHRIGN6Qqp1PbI8UNg/w1cBArvykrKVceUmCQvvbULNJ9b5IQmlzHFa9jPh3E9I3PB+Z/7NeLRIIjoFGWn+yt3c2Iu4ZNZo5CZEA=;Cw4EqHMYAkAg692Y4hJsdg=="
 ---

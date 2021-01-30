@@ -23,17 +23,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "TCS' AI-powered Merchandise Optimization Suite Optumera(TM) Honored by AIconics Awards"
-    excerpt: "NEW YORK and MUMBAI, India, Jan. 25, 2021 /PRNewswire/ -- (TCS) (BSE: 532540, NSE: TCS), a leading global IT services, consulting and business solutions organization, announced that"
-    publishedDateTime: 2021-01-25T14:46:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/tcs-ai-powered-merchandise-optimization-suite-optumera-tm-honored-by-aiconics-awards/article_7e6dd4b3-f91e-5c4b-937e-8abfdce025fc.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 9
-
 secured: "2TfQQR1Meg0Z04kWV07OmZsbXLT1VclU+htUVonJIZtBpWNBo+6E1xvI2/C/XL/Ld3O1kebEtA/sIUbodZD3Rj5WKAGurp3zKPkB0NkYBV5haqlSUPUdrOOhm6Y69pt9Lf9jNsgy36E2LwETeEiIo77Z23SclaLzcRVPPEYbPlwC7u0ux2/m2s5dIeJD2yW4iuwkhpL7xA9KEVYXHZL/aWSaCEm47FrrWZF1OiVGfahQhWKdEZFUlAx7ITA5yzDM1U+wVJney+tnvEl35E92ycA03rKDPQWTkgEz3CT54kJdkDIRHzEsWLjTCNdIC1+x9CkAOm0m2p/R2YSP8+shnM6SlcEg0SaFXfXNdZMpohE=;dx5wLmaNLmyBwGbiWXaB1Q=="
 ---
 

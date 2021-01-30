@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/01/26/unders
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/01/26/understanding-the-value-of-artificial-intelligence-solutions-in-your-business/amp/"
 type: article
 quality: 84
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://i.brecorder.com/large/2021/01/600f43904667f.jpg"
         width: 640
         height: 480
-        isCached: true
-  - title: "How Your Business Can Benefit From AI Technology"
-    excerpt: "Looking for smart ways to run your business is a huge part of being a business owner in this day and age. Today, it’s all about incorporating technology into your daily operations to work"
-    publishedDateTime: 2021-01-25T14:53:00Z
-    webUrl: "https://thedigitallifestyle.com/w/index.php/2021/01/25/how-your-business-can-benefit-from-ai-technology/"
-    ampWebUrl: "https://thedigitallifestyle.com/w/index.php/2021/01/25/how-your-business-can-benefit-from-ai-technology/amp/"
-    cdnAmpWebUrl: "https://thedigitallifestyle-com.cdn.ampproject.org/c/s/thedigitallifestyle.com/w/index.php/2021/01/25/how-your-business-can-benefit-from-ai-technology/amp/"
-    type: article
-    provider:
-      name: thedigitallifestyle.com
-      domain: thedigitallifestyle.com
-    quality: 57
-    images:
-      - url: "https://i2.wp.com/thedigitallifestyle.com/w/wp-content/uploads/2021/01/012521_1445_HowYourBusi1.png?fit=500%2C333&ssl=1"
-        width: 500
-        height: 333
         isCached: true
   - title: "Ouriginal Partners With AI-based Solution Provider Analytikus To Support Higher Education In ..."
     excerpt: "Advanced analytics solutions to strengthen academic integrity even in digital education environments (STOCKHOLM/MIAMI, 26 January 2021) - Ouriginal, Europe’s leading provider of text-matching solutions for plagiarism prevention and text-similarity detection,"

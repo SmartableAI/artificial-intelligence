@@ -57,22 +57,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "How Your Business Can Benefit From AI Technology"
-    excerpt: "Looking for smart ways to run your business is a huge part of being a business owner in this day and age. Today, it’s all about incorporating technology into your daily operations to work"
-    publishedDateTime: 2021-01-25T14:53:00Z
-    webUrl: "https://thedigitallifestyle.com/w/index.php/2021/01/25/how-your-business-can-benefit-from-ai-technology/"
-    ampWebUrl: "https://thedigitallifestyle.com/w/index.php/2021/01/25/how-your-business-can-benefit-from-ai-technology/amp/"
-    cdnAmpWebUrl: "https://thedigitallifestyle-com.cdn.ampproject.org/c/s/thedigitallifestyle.com/w/index.php/2021/01/25/how-your-business-can-benefit-from-ai-technology/amp/"
-    type: article
-    provider:
-      name: thedigitallifestyle.com
-      domain: thedigitallifestyle.com
-    quality: 57
-    images:
-      - url: "https://i2.wp.com/thedigitallifestyle.com/w/wp-content/uploads/2021/01/012521_1445_HowYourBusi1.png?fit=500%2C333&ssl=1"
-        width: 500
-        height: 333
-        isCached: true
   - title: "Speech Processing Solutions: Next-generation Workflow Solution With AI-powered Speech Recognition, Now in Australia"
     excerpt: "The new version of the Philips dictation workflow solution for enterprise businesses, SpeechExec Enterprise 7.0 (SEE 7.0) is now available in Australia. The close collaboration between Nuance Communications and Speech Processing Solutions,"
     publishedDateTime: 2021-01-28T08:01:00Z

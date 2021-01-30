@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Sophia the robot could arrive in airports and shops across UK"
-    excerpt: "The company behind a life-size robot that uses artificial intelligence to hold conversations with humans is set to begin a mass rollout of the devices later this year as the pandemic increases demand for robots."
-    publishedDateTime: 2021-01-25T13:40:00Z
-    webUrl: "https://www.telegraph.co.uk/technology/2021/01/25/sophia-robot-could-arrive-airports-shops-across-uk/"
-    ampWebUrl: "https://www.telegraph.co.uk/technology/2021/01/25/sophia-robot-could-arrive-airports-shops-across-uk/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2021/01/25/sophia-robot-could-arrive-airports-shops-across-uk/amp/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 74
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/technology/2018/09/19/TELEMMGLPICT000143394584_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg"
-        width: 2501
-        height: 1563
-        isCached: true
   - title: "Need a friend? Help's on the way, with eerily lifelike 'social robots' heading to market this year"
     excerpt: "So in that regard, it's hard to argue against utilizing robotics' ever-evolving practicality and realism for a little socializing during isolated times. That's certainly what Hanson Robotics is hoping for, as the company has big plans for a mass roll ..."
     publishedDateTime: 2021-01-25T20:20:00Z
@@ -72,20 +56,6 @@ related:
       - url: "https://fastly.syfy.com/sites/syfy/files/styles/1200x680/public/2021/01/gettyimages-1127324224.jpg?offset-x=0"
         width: 1200
         height: 680
-        isCached: true
-  - title: "Uncanny humanoid robot ‘Sophia’ to enter mass production"
-    excerpt: "Hong Kong-based Hanson Robotics is to begin mass producing four models of humanoid robot by the end of the year, including the high-profile social humanoid robot, Sophia."
-    publishedDateTime: 2021-01-25T14:18:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2021/01/uncanny-humanoid-robot-sophia-to-enter-mass-production/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 39
-    images:
-      - url: "https://eandt.theiet.org/media/14820/factory-making-sophia-robots.jpg?crop=0,0.10222916666666666,0,0.40488020833333338&cropmode=percentage&width=1200&height=450&rnd=132560538470000000"
-        width: 1200
-        height: 450
         isCached: true
 
 secured: "kCd7tl4KTGHddxqVBT8eyk/UZnPWACOcQkrQmadQz5f+O9RDRwyBbRs18ziQtvG3VABrV2CYD+h4KNw/UniIPwlS3cwGGcSm03wP3csMYsJyIla/089cq0R+dFF0l+fu6TwDY3ri6joBXk8YSXk8C3pYybZ54nFhm50bNrT6VibNNYH0qn5BH4JYjsHNeo5j1d9WVH3QBaHfZMvestz5CNQdZhLQYavnLwC9spye/FM3szm3Q2ukfiUhxZeH0QeJXzvDiaamq5I0nzqvLIDcKj2ANMSYVBpuaPX4VCC4l5FruO5tYoj8i+KrK1LRmCv++rMBNk9Sj1VIBpq9yCPTIQm7OkZQeqVs5YvHuFYwoys=;ytyhPRpT9LX7LXomp3dSVg=="

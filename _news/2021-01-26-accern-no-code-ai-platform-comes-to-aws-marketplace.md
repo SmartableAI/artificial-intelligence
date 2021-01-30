@@ -7,7 +7,7 @@ originalUrl: "https://www.finextra.com/pressarticle/85849/accern-no-code-ai-plat
 webUrl: "https://www.finextra.com/pressarticle/85849/accern-no-code-ai-platform-comes-to-aws-marketplace"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "JetPlay’s Ludo AI platform accelerates game concept creation"
-    excerpt: "JetPlay has launched Ludo AI, a game creativity platform that leverages artificial intelligence to accelerate the creative process."
-    publishedDateTime: 2021-01-25T14:32:00Z
-    webUrl: "https://venturebeat.com/2021/01/25/jetplays-ludo-ai-platform-accelerates-game-concept-creation/"
-    ampWebUrl: "https://venturebeat.com/2021/01/25/jetplays-ludo-ai-platform-accelerates-game-concept-creation/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/25/jetplays-ludo-ai-platform-accelerates-game-concept-creation/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/01/ludo-4.jpg?w=1200&strip=all"
-        width: 1200
-        height: 534
-        isCached: true
   - title: "Accern's No-Code AI Platform Now Available in AWS Marketplace"
     excerpt: "Accern, a leading no-code, artificial intelligence (AI) company today announced that its no-code AI platform will now be available"
     publishedDateTime: 2021-01-26T15:15:00Z

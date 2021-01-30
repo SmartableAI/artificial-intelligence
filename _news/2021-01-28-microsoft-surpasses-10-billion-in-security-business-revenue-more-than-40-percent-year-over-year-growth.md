@@ -136,6 +136,36 @@ related:
         width: 768
         height: 512
         isCached: true
+  - title: "WinWire launches Vaccine Management Solution Built on Microsoft Azure"
+    excerpt: "WinWire Technologies, a digital engineering services company, launched its Vaccine Management solution built on Azure. Healthcare"
+    publishedDateTime: 2021-01-28T13:38:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/winwire-launches-vaccine-management-solution-built-on-microsoft-azure-301217194.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 54
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "GM, Cruise Partners with Microsoft to Accelerate Self-Driving EV Technology | Work & Wheels"
+    excerpt: "GM, Cruise Partners with Microsoft to Accelerate Self-Driving EV Technology | Work & Wheels General Motors and its self-driving car"
+    publishedDateTime: 2021-01-30T05:44:00Z
+    webUrl: "https://www.compsmag.com/news/technology/gm-cruise-partners-with-microsoft-to-accelerate-self-driving-ev-technology-work-wheels/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/gm-cruise-partners-with-microsoft-to-accelerate-self-driving-ev-technology-work-wheels/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/gm-cruise-partners-with-microsoft-to-accelerate-self-driving-ev-technology-work-wheels/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 51
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/GM-Cruise-Partners-with-Microsoft-to-Accelerate-Self-Driving-EV-Technology.png"
+        width: 900
+        height: 470
+        isCached: true
   - title: "buyMyplace reimagines real estate with Microsoft"
     excerpt: "Real estate disruptor, buymyplace, is launching a fully automated version of its platform that empowers Australian property owners to sell their property privately, putting them in charge of the sale of their home from go-to-whoa and cuts out the middle man."
     publishedDateTime: 2021-01-27T21:35:00Z
@@ -189,15 +219,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "WinWire launches Vaccine Management Solution Built on Microsoft Azure"
-    excerpt: "WinWire Technologies, a digital engineering services company, launched its Vaccine Management solution built on Azure. Healthcare organizations need to create new business processes to deliver vaccines to patients."
-    publishedDateTime: 2021-01-28T07:38:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20210128ph61007/winwire-launches-vaccine-management-solution-built-on-microsoft-azure"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 34
   - title: "UnitedLex Integrates Microsoft Cloud to Globally Scale Digital Transformation of Legal Services"
     excerpt: "UnitedLex, a leading technology and legal services company, has integrated Microsoft Cloud services to globally scale UnitedLex Vantage, a holistic, turnkey technology platform built to revolutionize the customer experience and transform the legal function into a first-class digital citizen."
     publishedDateTime: 2021-01-28T08:01:00Z

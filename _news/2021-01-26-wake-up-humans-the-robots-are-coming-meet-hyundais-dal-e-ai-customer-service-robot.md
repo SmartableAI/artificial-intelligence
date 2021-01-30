@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Hyundai DAL-e AI-powered robot provides automated customer service"
-    excerpt: "Automaker Hyundai has a new employee working in one of its showrooms in Seoul, Korea. The employee is an AI-powered automated robot called DAL-e that provides customer services at the showroom."
-    publishedDateTime: 2021-01-25T13:06:00Z
-    webUrl: "https://www.slashgear.com/hyundai-dal-e-ai-powered-robot-provides-automated-customer-service-25656524/"
-    ampWebUrl: "https://www.slashgear.com/hyundai-dal-e-ai-powered-robot-provides-automated-customer-service-25656524/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/hyundai-dal-e-ai-powered-robot-provides-automated-customer-service-25656524/amp/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 104
-    images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/01/kia-robot-1.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Hyundai DAL-E Is A Robot Salesperson For A Covid World"
     excerpt: "Some automakers are offering contactless drop-off services, but Hyundai is going all-in with a robot approach."
     publishedDateTime: 2021-01-25T22:15:00Z
@@ -113,34 +97,6 @@ related:
         width: 651
         height: 366
         isCached: true
-  - title: "Meet “DAL-e,” the Cutesy AI Robot That Will Help Hyundai With Customer Services"
-    excerpt: "Don’t worry, this little robot is way too cute to bring back memories of HAL 9000-infused nightmares to folks that grew up reading Arthur C. Clarke's Space Odyssey series. Instead, it could open a window into the future of seamless,"
-    publishedDateTime: 2021-01-25T14:21:00Z
-    webUrl: "https://www.autoevolution.com/news/meet-dal-e-the-cutesy-ai-robot-that-will-help-hyundai-with-customer-services-155021.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 50
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/meet-dal-e-the-cutesy-ai-robot-that-will-help-hyundai-with-customer-services-155021-7.jpg"
-        width: 728
-        height: 300
-        isCached: true
-  - title: "The Allen Institute for AI (AI2) Selects Core Scientific to Provide AI-Powered GPU-as-a-Service"
-    excerpt: "Core Scientific, a leading infrastructure and software solutions provider for artificial intelligence and blockchain led by CEO Kevin Turner, the former COO of"
-    publishedDateTime: 2021-01-28T15:42:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/the-allen-institute-for-ai-ai2-selects-core-scientific-to-provide-ai-powered-gpu-as/article_957d8acc-4f36-54d6-8bcd-2effbef0067e.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 42
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/89/b8970e9f-a869-5c25-afab-1da10b378232/6013b2166bf48.image.jpg?resize=648%2C360"
-        width: 648
-        height: 360
-        isCached: true
   - title: "Hyundai Motor Group Introduces Advanced Humanoid Robot ‘DAL-e’ for Automated Customer Services"
     excerpt: "Hyundai Motor Group has launched the “DAL-e,” a highly advanced customer service robot that independently communicates with people using precise recognition capabilities and mobility functions. The DAL-e is an acronym for “Drive you,"
     publishedDateTime: 2021-01-28T16:10:00Z
@@ -155,29 +111,15 @@ related:
         width: 500
         height: 265
         isCached: true
-  - title: "The Allen Institute for AI (AI2) Selects Core Scientific to Provide AI-Powered GPU-as-a-Service"
-    excerpt: "Core Scientific’s AI-as-a-service model will free AI2 from operational hassles, allowing them to focus on their mission of accelerating foundational research, developing standards and models, and cultivating new ideas to make a broad,"
-    publishedDateTime: 2021-01-29T08:02:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-artificial-intelligence-paul-allen-computing-and-information-technology-0929ba93484496dddb09159fffc14451"
+  - title: "Icovid’s AI COVID-10 lung scan goes viral in Europe"
+    excerpt: "Belgium’s Icovid initiative, which looks for ways to utilize AI to support radiologists in the assessment of CT images of the lungs of Covid-19 patients, is getting a lot of attention as it spreads across Europe."
+    publishedDateTime: 2021-01-27T13:23:00Z
+    webUrl: "https://bits-chips.nl/artikel/icovids-ai-covid-10-lung-scan-goes-viral-in-europe/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 42
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Robot to take over customer service tasks in the Hyundai Motor showroom"
-    excerpt: "To automate customer service tasks in the midst of a global pandemic, Hyundai Motor Group has debuted an advanced humanoid customer service robot at its showroom in Seoul, South Korea. The DAL-e, which stands for “Drive you,"
-    publishedDateTime: 2021-01-28T05:13:00Z
-    webUrl: "https://insights.globalspec.com/article/15854/robot-to-take-over-customer-service-tasks-in-the-hyundai-motor-showroom"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 34
+      name: Bits&Chips
+      domain: bits-chips.nl
+    quality: 19
 
 secured: "624gmWPb2PhkMuOnBOdY2ftnTCm6/6Y+UhsRKEthBdqx2wToAYk4D1mbZWaZjli03NbSJjhIiixCSQXqAGcoSfsLpuRFKtGerqxlCD3fjrZm7RTKZnp5S2LtBFaAUCPBqKtO9Mfa6odq9WzOPyoonF2katKNd9PEvmz9YTVXpAkHFzP5SgZvyWbAT8V7xKUjtPj9cEHZX5WrrY1dD67HOX8GoLKGRaWM7QnhTj45+yCGUROL44r8HSzYolqgilmdNWMfCPvP3LMp5gl9+aw2s8DY8/jhndDnYKtRcKIq+Dky0XMgr8cNlgFyAZ6Ege/EVpzdQvt1wWj2wzc51Ek2/5cjdukO3i4Bl04Xmhs98ow882r1H2UPPaFH2xf8k6ti4tXip7RR5EHdwB+yePa+jPAo9uchKDW48HF522PEphp48rsP0n2hwJS4pOkzadFjGyiP3wCGanm+qcLa0mp+rbCQzzF6xtEYeUW1Zc3W9+QbvbXp3NG/mgP4PWAuBdhC5SMoCm6w7/ETNTOyBdT8Ug==;6KJwaAwJWRO1+a6ujBi4JQ=="
 ---

@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Sophia the robot could arrive in airports and shops across UK"
-    excerpt: "The company behind a life-size robot that uses artificial intelligence to hold conversations with humans is set to begin a mass rollout of the devices later this year as the pandemic increases demand for robots."
-    publishedDateTime: 2021-01-25T13:40:00Z
-    webUrl: "https://www.telegraph.co.uk/technology/2021/01/25/sophia-robot-could-arrive-airports-shops-across-uk/"
-    ampWebUrl: "https://www.telegraph.co.uk/technology/2021/01/25/sophia-robot-could-arrive-airports-shops-across-uk/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2021/01/25/sophia-robot-could-arrive-airports-shops-across-uk/amp/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 74
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/technology/2018/09/19/TELEMMGLPICT000143394584_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg"
-        width: 2501
-        height: 1563
-        isCached: true
   - title: "Humanoid robot Sophia to be mass produced by the end of 2021, capitalising on the pandemic-induced robot boom"
     excerpt: "As the pandemic creates a robotics boom, the creators of humanoid robot Sophia — who went viral in 2016 — are planning for mass production."
     publishedDateTime: 2021-01-27T15:05:00Z
@@ -70,20 +54,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 50
-  - title: "Uncanny humanoid robot ‘Sophia’ to enter mass production"
-    excerpt: "Hong Kong-based Hanson Robotics is to begin mass producing four models of humanoid robot by the end of the year, including the high-profile social humanoid robot, Sophia."
-    publishedDateTime: 2021-01-25T14:18:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2021/01/uncanny-humanoid-robot-sophia-to-enter-mass-production/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 39
-    images:
-      - url: "https://eandt.theiet.org/media/14820/factory-making-sophia-robots.jpg?crop=0,0.10222916666666666,0,0.40488020833333338&cropmode=percentage&width=1200&height=450&rnd=132560538470000000"
-        width: 1200
-        height: 450
-        isCached: true
 
 secured: "Wu8RHVTUsi0p+7Ackq9EaHK50ENCxRxkTs914VfAVzN3ryebcoGMEOnxU3Q6hcU9mkW4PaL7mbUsiOLGfoNLdZl2hVD9LJtG1Ung9IuTBEraHnv30tMwNldXRDDLScGqgaqwsD3fDY3RUWDCbMJtZ1YIyMqfF9Nr3PVTPLI6hWdSn2GUylAtrEJe6v13au65+al1Vk1m6QSDWAKIt/HFDuQIH/2jAwNlOL5GB34AygjHBlR5ipmp5ikGlB3EG05Baef11ig+HyJPh/zjL3O7jicwsTeZFiG7v+Io48HOhxxp04fumtoqCXjsbnsut7spEcgtE2qZZVtp79UBGH6YXQmzSEYmnpsKCIGysycdp1U=;SZ29ufo3XE507YPmd4oeUA=="
 ---

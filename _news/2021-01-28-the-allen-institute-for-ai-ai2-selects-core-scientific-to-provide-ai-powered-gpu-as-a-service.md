@@ -25,136 +25,53 @@ images:
     isCached: true
 
 related:
-  - title: "Hyundai DAL-e AI-powered robot provides automated customer service"
-    excerpt: "Automaker Hyundai has a new employee working in one of its showrooms in Seoul, Korea. The employee is an AI-powered automated robot called DAL-e that provides customer services at the showroom."
-    publishedDateTime: 2021-01-25T13:06:00Z
-    webUrl: "https://www.slashgear.com/hyundai-dal-e-ai-powered-robot-provides-automated-customer-service-25656524/"
-    ampWebUrl: "https://www.slashgear.com/hyundai-dal-e-ai-powered-robot-provides-automated-customer-service-25656524/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/hyundai-dal-e-ai-powered-robot-provides-automated-customer-service-25656524/amp/"
+  - title: "Artificial intelligence at the service of talent selection"
+    excerpt: "They present Hitch, the startup that through artificial intelligence and machine learning helps companies find the talent most compatible with their organizational culture."
+    publishedDateTime: 2021-01-26T14:00:00Z
+    webUrl: "https://www.entrepreneur.com/article/364141"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/364141"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/364141"
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 104
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 87
     images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/01/kia-robot-1.jpg"
-        width: 1280
-        height: 853
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1611623001-Hitch.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
         isCached: true
-  - title: "Hyundai DAL-E Is A Robot Salesperson For A Covid World"
-    excerpt: "Some automakers are offering contactless drop-off services, but Hyundai is going all-in with a robot approach."
-    publishedDateTime: 2021-01-25T22:15:00Z
-    webUrl: "https://www.forbes.com/sites/sebastianblanco/2021/01/25/hyundai-dal-e-is-a-robot-salesperson-for-a-covid-world/"
-    ampWebUrl: "https://www.forbes.com/sites/sebastianblanco/2021/01/25/hyundai-dal-e-is-a-robot-salesperson-for-a-covid-world/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sebastianblanco/2021/01/25/hyundai-dal-e-is-a-robot-salesperson-for-a-covid-world/amp/"
+  - title: "Pushing The Frontiers Of Manufacturing AI At Seagate"
+    excerpt: "Seagate's wafer manufacturing plant has adopted several AI applications that improve their quality and productivity."
+    publishedDateTime: 2021-01-27T15:50:00Z
+    webUrl: "https://www.forbes.com/sites/tomdavenport/2021/01/27/pushing-the-frontiers-of-manufacturing-ai-at-seagate/"
+    ampWebUrl: "https://www.forbes.com/sites/tomdavenport/2021/01/27/pushing-the-frontiers-of-manufacturing-ai-at-seagate/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2021/01/27/pushing-the-frontiers-of-manufacturing-ai-at-seagate/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 104
+    quality: 87
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600f3a54417b9cd2875689f2%2F0x0.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60118aa54082182beabf8d5a%2F0x0.jpg"
+        width: 696
+        height: 493
+        isCached: true
+  - title: "10 Ways AI Can Elevate Your Service And Operations Management"
+    excerpt: "AI-based insights are the catalyst IT needs to excel at serving internal customers and adapting to the fluid IT environment the pandemic continues to create."
+    publishedDateTime: 2021-01-29T15:48:00Z
+    webUrl: "https://www.forbes.com/sites/louiscolumbus/2021/01/29/10-ways-ai-can-elevate-your-service-and-operations-management/"
+    ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2021/01/29/10-ways-ai-can-elevate-your-service-and-operations-management/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2021/01/29/10-ways-ai-can-elevate-your-service-and-operations-management/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60142bfe5fd8ca54afb5321c%2F0x0.jpg"
         width: 1200
-        height: 761
-        isCached: true
-  - title: "Hyundai's New Dealership Robot Will Narc On You For Not Wearing A Mask"
-    excerpt: "Yes, that wasn’t a misprint, Hyundai is launching DAL-e, a customer service robot that can safely communicate with patrons during the pandemic– the acronym stands for Drive you Assist you, Link with you-experience."
-    publishedDateTime: 2021-01-25T21:00:00Z
-    webUrl: "https://www.motor1.com/news/481998/hyundai-dealership-robot/"
-    ampWebUrl: "https://www.motor1.com/news/481998/hyundai-dealership-robot/amp/"
-    cdnAmpWebUrl: "https://www-motor1-com.cdn.ampproject.org/c/s/www.motor1.com/news/481998/hyundai-dealership-robot/amp/"
-    type: article
-    provider:
-      name: Motor1
-      domain: motor1.com
-    quality: 74
-    images:
-      - url: "https://cdn.motor1.com/images/mgl/PExAX/s1/hyundai-customer-service-robot.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Social Distancing? Hyundai's DAL-e Robot Helps Showroom Customers Without Wearing A Mask"
-    excerpt: "The robots come installed with a state-of-the-art artificial intelligence technology for facial recognition and an automatic communication system."
-    publishedDateTime: 2021-01-26T00:42:00Z
-    webUrl: "https://www.hotcars.com/hyundais-dal-e-robot-helps-showroom-customers-socially-distance-without-wearing-a-mask/"
-    ampWebUrl: "https://www.hotcars.com/hyundais-dal-e-robot-helps-showroom-customers-socially-distance-without-wearing-a-mask/amp/"
-    cdnAmpWebUrl: "https://www-hotcars-com.cdn.ampproject.org/c/s/www.hotcars.com/hyundais-dal-e-robot-helps-showroom-customers-socially-distance-without-wearing-a-mask/amp/"
-    type: article
-    provider:
-      name: hotcars
-      domain: hotcars.com
-    quality: 65
-    images:
-      - url: "https://static1.hotcarsimages.com/wordpress/wp-content/uploads/2021/01/DAL-e-with-SUV.jpg"
-        width: 1710
-        height: 900
-        isCached: true
-  - title: "Hyundai launches humanoid robot ‘DAL-e’ for customer service"
-    excerpt: "Hyundai Motor Group has launched the humanoid “DAL-e”, which it describes as a “highly advanced customer service robot” that independently communicates with people using precise recognition"
-    publishedDateTime: 2021-01-26T09:55:00Z
-    webUrl: "https://roboticsandautomationnews.com/2021/01/26/hyundai-launches-humanoid-robot-dal-e-for-customer-service/39904/"
-    type: article
-    provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 54
-    images:
-      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2021/01/hyundai-humanoid-1.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Hyundai’s humanoid robot could change car dealer service as we know it"
-    excerpt: "DAL-e, whose name stands for “Drive you, Assist you, Link with you-experience”, was designed to kick-start the future of automated customer services for Hyundai. To achieve this, the robot is equipped with state-of-the-art artificial intelligence ..."
-    publishedDateTime: 2021-01-26T08:57:00Z
-    webUrl: "https://www.iol.co.za/motoring/industry-news/hyundais-humanoid-robot-could-change-car-dealer-service-as-we-know-it-fcd4cc17-fac9-48f8-9ec2-8148506b2a32"
-    type: article
-    provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 54
-    images:
-      - url: "https://image-prod.iol.co.za/resize/1600x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/60242d97-b780-57b6-9823-173f5219e983&operation=CROP&offset=0x70&resize=1600x900"
-        width: 651
-        height: 366
-        isCached: true
-  - title: "Meet “DAL-e,” the Cutesy AI Robot That Will Help Hyundai With Customer Services"
-    excerpt: "Don’t worry, this little robot is way too cute to bring back memories of HAL 9000-infused nightmares to folks that grew up reading Arthur C. Clarke's Space Odyssey series. Instead, it could open a window into the future of seamless,"
-    publishedDateTime: 2021-01-25T14:21:00Z
-    webUrl: "https://www.autoevolution.com/news/meet-dal-e-the-cutesy-ai-robot-that-will-help-hyundai-with-customer-services-155021.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 50
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/meet-dal-e-the-cutesy-ai-robot-that-will-help-hyundai-with-customer-services-155021-7.jpg"
-        width: 728
-        height: 300
-        isCached: true
-  - title: "Wake Up Humans, The Robots Are Coming: Meet Hyundai’s DAL-e AI Customer Service Robot"
-    excerpt: "Hyundai Motor Group has just launched a humanoid customer service robot called “DAL-e”. It’s a highly advanced machine designed to communicates with people using precise recognition capabilities and mobility function."
-    publishedDateTime: 2021-01-26T01:45:00Z
-    webUrl: "https://www.carscoops.com/2021/01/wake-up-humans-the-robots-are-coming-meet-hyundais-dal-e-ai-customer-service-robot/"
-    ampWebUrl: "https://www.carscoops.com/2021/01/wake-up-humans-the-robots-are-coming-meet-hyundais-dal-e-ai-customer-service-robot/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/01/wake-up-humans-the-robots-are-coming-meet-hyundais-dal-e-ai-customer-service-robot/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 47
-  - title: "Hyundai Motor Group Introduces Advanced Humanoid Robot ‘DAL-e’ for Automated Customer Services"
-    excerpt: "Hyundai Motor Group has launched the “DAL-e,” a highly advanced customer service robot that independently communicates with people using precise recognition capabilities and mobility functions. The DAL-e is an acronym for “Drive you,"
-    publishedDateTime: 2021-01-28T16:10:00Z
-    webUrl: "https://www.finchannel.com/technology/80035-hyundai-motor-group-introduces-advanced-humanoid-robot-dal-e-for-automated-customer-services"
-    type: article
-    provider:
-      name: The Financial
-      domain: finchannel.com
-    quality: 42
-    images:
-      - url: "https://finchannel.com/images/banners/ePaperTF.jpg"
-        width: 500
-        height: 265
+        height: 675
         isCached: true
   - title: "The Allen Institute for AI (AI2) Selects Core Scientific to Provide AI-Powered GPU-as-a-Service"
     excerpt: "Core Scientific’s AI-as-a-service model will free AI2 from operational hassles, allowing them to focus on their mission of accelerating foundational research, developing standards and models, and cultivating new ideas to make a broad,"
@@ -170,15 +87,20 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Robot to take over customer service tasks in the Hyundai Motor showroom"
-    excerpt: "To automate customer service tasks in the midst of a global pandemic, Hyundai Motor Group has debuted an advanced humanoid customer service robot at its showroom in Seoul, South Korea. The DAL-e, which stands for “Drive you,"
-    publishedDateTime: 2021-01-28T05:13:00Z
-    webUrl: "https://insights.globalspec.com/article/15854/robot-to-take-over-customer-service-tasks-in-the-hyundai-motor-showroom"
+  - title: "The Intersection of AI and Talent Strategy in 2021 | Part 2"
+    excerpt: "See the key findings of Northeastern’s “Intersection of AI and Talent Strategy Symposium,” and learn how COVID-19 is changing AI and talent strategy in 2021 and beyond."
+    publishedDateTime: 2021-01-26T18:38:00Z
+    webUrl: "https://www.northeastern.edu/graduate/blog/ai-and-talent-strategy-part-2/"
     type: article
     provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 34
+      name: Northeastern University
+      domain: northeastern.edu
+    quality: 39
+    images:
+      - url: "https://www.northeastern.edu/graduate/blog/wp-content/uploads/2021/01/Copy-of-Untitled-8.png"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "OQ3bCObvEJgxeMgT5WLAPw9HcOFEHVxjki1LC3FatHOefSVuUJzWYuID/e+tItCpHlAbJx3jpYa88omUZjdjz/kl3ThXsPDbNtWFw4mEmZsuYYcFdSfN6cvauBcXCoYkEeFQxqC0la5f2LWNANpCu+byO0C6bUbNe0/k7PUCGsDdINl2js6aluwv4+8gqLRzCIqZwe7ie82UD5Jl0pXnKYHZoSGXm8/jmOiWNNjl+ukG9iar+5a6yBffR3Cd1ftswDquXr75BLXMCD5XeGXuYtjcChqYtmrm1PYQi5iMEc0CXWYumTVyOFXgMgTwlgWR9KVOmxnwy8kHimArL8Ul+eNNT0Z80Hn3lTS3uYZIRrU=;UemE+o+x8HJ1FW9I7pGXSA=="
 ---

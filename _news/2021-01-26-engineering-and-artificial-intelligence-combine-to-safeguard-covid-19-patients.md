@@ -95,15 +95,6 @@ related:
         width: 700
         height: 467
         isCached: true
-  - title: "Icovid’s AI COVID-10 lung scan goes viral in Europe"
-    excerpt: "Belgium’s Icovid initiative, which looks for ways to utilize AI to support radiologists in the assessment of CT images of the lungs of Covid-19 patients, is getting a lot of attention as it spreads across Europe."
-    publishedDateTime: 2021-01-27T13:23:00Z
-    webUrl: "https://bits-chips.nl/artikel/icovids-ai-covid-10-lung-scan-goes-viral-in-europe/"
-    type: article
-    provider:
-      name: Bits&Chips
-      domain: bits-chips.nl
-    quality: 19
 
 secured: "cpBQdx6wg3pda+ZypaejAWzbFb3a5qjQrnryGRLOO5vF5LNSafSfRIxQQw3svj6UQAJZLbV249pllWXZDPSWos2GYKhAisV8WPWPwuiHfl4bcvVd5D7zr9KrX9XHicz94fFxCaCaIA2Rv3fwga/sC+ZeNmXYHcM/C2TvbwHOdKFlBXAO/hir/WUEdPNm7YaINLkZilECmbC+bk8K4e/vU1Q5dJlAUtWJWTlZgYFFiLyMF0Gh9cCovAeOwMLyOTuLamCRt1SkOXLpA7sIhkA+F3M5+iclWsdtijC+M/cadtWuze8Hh69DRlVQt9L53pi2OZPB1MmGS8TWrFs29x4IIiknYmOZQ3rnti4t1KISKPM=;iMH64bxBqprTZC7+oOHpYQ=="
 ---

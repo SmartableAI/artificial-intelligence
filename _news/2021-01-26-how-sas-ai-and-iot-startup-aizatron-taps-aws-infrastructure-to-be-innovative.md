@@ -9,8 +9,8 @@ ampWebUrl: "https://www.techfinancials.co.za/2021/01/26/how-sas-ai-and-iot-start
 cdnAmpWebUrl: "https://www-techfinancials-co-za.cdn.ampproject.org/c/s/www.techfinancials.co.za/2021/01/26/how-sas-ai-and-iot-startup-aizatron-taps-aws-infrastructure-to-be-innovative/?amp"
 type: article
 quality: 71
-heat: -1
-published: false
+heat: 81
+published: true
 
 provider:
   name: techfinancials
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "How To Leverage AI, Visualization And IoT To Simplify And Improve Security"
-    excerpt: "With the right strategies and technologies, you don't have to contend with the added burdens of cybersecurity complexity and disconnected point systems."
-    publishedDateTime: 2021-01-25T14:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/01/25/how-to-leverage-ai-visualization-and-iot-to-simplify-and-improve-security/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/01/25/how-to-leverage-ai-visualization-and-iot-to-simplify-and-improve-security/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/25/how-to-leverage-ai-visualization-and-iot-to-simplify-and-improve-security/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 102
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600b425db7d369a10dfa14df%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "How Jubilee Insurance is using AI, IoT and RPA to beat the competition"
     excerpt: "We intend on leveraging mobility, AI, robotics, cloud, analytics and IoT — not only to reduce costs and to increase revenue, and speed up processes, but to also transform the business model in order to leapfrog the competition."
     publishedDateTime: 2021-01-28T05:21:00Z

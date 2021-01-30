@@ -29,20 +29,6 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 67
-  - title: "How artificial intelligence will change work"
-    excerpt: "MIT Professor Thomas Malone, Professor Daniela Rus, and Robert Laubacher collaborated on \"Artificial Intelligence and the Future of Work,\" a brief that provides"
-    publishedDateTime: 2021-01-25T14:39:00Z
-    webUrl: "https://www.controleng.com/articles/how-artificial-intelligence-will-change-work/"
-    type: article
-    provider:
-      name: Control Engineering
-      domain: controleng.com
-    quality: 37
-    images:
-      - url: "https://www.controleng.com/wp-content/uploads/sites/2/2021/01/CTL2101_WEB_IMG_MIT_Malone_Rus.jpg"
-        width: 645
-        height: 350
-        isCached: true
 
 secured: "fIeq2ENzf2K0vo/Zo+ScC+JeKJaUBWSt2hpjqdFA9Z2/Ku78QNuwaiUohX3Srsjic9rjGVyorukz0719gXgytQf9+8heEyzdGiZTxN65a1WqTgSm6ycXC5gSRd+sBn23qQUqJIsKxbvpZRw9C9KhsnsAC3kOaMyBVosDoJuNOYAPO48mwMG0F6kYTK2+OhN28/QUzLcjKa1v6h35AEM0KHomw2Wl4sClNgEH6N8aMvqwuKO43XJV95erW7KLOalHx3FDcAWvhJ7b/UDagXCRzD+KUf1i+9raqBnSDnl2r22WXXHGHMATdtyDEz5PJFE/rtuDudWJ4SBL+k9Rv4o37VabyviRLr+AVDGllWlTUQE=;zqaAEhCPWnaWTbIeGxFBaA=="
 ---
