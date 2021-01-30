@@ -2,6 +2,143 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-01-13-ai-startup-sees-opportunity-forecasting-pandemic-era-consumer-demand.md",
+      "title": "AI Startup Sees Opportunity Forecasting Pandemic-Era Consumer Demand",
+      "excerpt": "New York-based Centricity is helping companies track consumer demand by analyzing some 2.5 billion data points’ worth of internet traffic a day.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-startup-sees-opportunity-forecasting-pandemic-era-consumer-demand-11610496808",
+      "originalUrl": "https://www.wsj.com/articles/ai-startup-sees-opportunity-forecasting-pandemic-era-consumer-demand-11610496808",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-284183/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-startup-sees-opportunity-forecasting-pandemic-era-consumer-demand-11610496808",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-startup-sees-opportunity-forecasting-pandemic-era-consumer-demand-11610496808",
+      "publishedDateTime": "2021-01-12T16:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-unsupervised-deep-learning-for-super-resolution-reconstruction-of-turbulence.md",
+      "title": "Unsupervised deep learning for super-resolution reconstruction of turbulence",
+      "excerpt": "Recent attempts to use deep learning for super-resolution reconstruction of turbulent flows have used supervised learning, which requires paired data for training. This limitation hinders more practical applications of super-resolution reconstruction.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/unsupervised-deep-learning-for-superresolution-reconstruction-of-turbulence/CF82FEF56DD7C2711B1102209872E6D6",
+      "originalUrl": "https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/unsupervised-deep-learning-for-superresolution-reconstruction-of-turbulence/CF82FEF56DD7C2711B1102209872E6D6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cambridge.org/core/cambridge-core/public/images/logo_core_page_share_600x600.jpg",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-12T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-rep-clyburn-wants-to-make-lift-every-voice-and-sing-a-national-hymn.md",
+      "title": "Rep. Clyburn wants to make 'Lift Every Voice and Sing' a national hymn",
+      "excerpt": "The Democrat from South Carolina is aiming for bipartisan support on his proposal, since, he said, it's a song “everybody can identify with.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/nbcblk/rep-clyburn-wants-make-lift-every-voice-sing-co-national-n1253963",
+      "originalUrl": "https://www.nbcnews.com/news/nbcblk/rep-clyburn-wants-make-lift-every-voice-sing-co-national-n1253963",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2021_02/3403781/200811-james-clyburn-ew-345p_39d26c4940824baaac8f4aef818ceb23.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1253963",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253963",
+      "publishedDateTime": "2021-01-12T15:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-13-service-robotics-market-top-trends-accentuating-size-by-2024.md",
       "title": "Service Robotics Market Top Trends Accentuating, Size by 2024",
       "excerpt": "The service robotics market is expected to grow at a substantial rate driven by the system's high efficiency, reliability and convenience as compared to conventional labor. Integration of artificial intelligence (AI) and proliferation of IoT is bringing key transformations in the market.",
@@ -1025,142 +1162,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-artificial-intelligence-puts-focus-on-the-life-of-insects.md",
-      "title": "Artificial intelligence puts focus on the life of insects",
-      "excerpt": "Scientists are combining artificial intelligence and advanced computer technology with biological know how to identify insects with supernatural speed. This opens up new possibilities for describing u",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-01-artificial-intelligence-focus-life-insects.html",
-      "originalUrl": "https://phys.org/news/2021-01-artificial-intelligence-focus-life-insects.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/1-artificialin.jpg",
-          "width": 1430,
-          "height": 726,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-01-artificial-intelligence-focus-life-insects.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-01-artificial-intelligence-focus-life-insects.amp",
-      "publishedDateTime": "2021-01-12T08:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-hirevue-leads-the-industry-with-commitment-to-transparent-and-ethical-use-of-ai-in-hiring.md",
-      "title": "HireVue Leads the Industry with Commitment to Transparent and Ethical Use of AI in Hiring",
-      "excerpt": "HireVue, the global leader in video interviewing, assessments, chatbot and recruiting automation technology, today made two announcements to extend its leadership position defining the transparent and appropriate use of AI and software as part of the hiring process.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-political-issues-government-and-politics-artificial-intelligence-political-ethics-37d0fe232bcce86da20a5596cc840552",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-political-issues-government-and-politics-artificial-intelligence-political-ethics-37d0fe232bcce86da20a5596cc840552",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-12T08:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-business-contracts-remain-complex-and-artificial-intelligence-can-improve-contract-management.md",
-      "title": "Business Contracts Remain Complex, And Artificial Intelligence Can Improve Contract Management",
-      "excerpt": "Contracts are one of the most complex things to understand and analyze in the business world. Artificial intelligence can help in contract analysis and management, and is starting to be applied in the real world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2021/01/12/business-contracts-remain-complex-and-artificial-intelligence-can-improve-contract-management/",
-      "originalUrl": "https://www.forbes.com/sites/davidteich/2021/01/12/business-contracts-remain-complex-and-artificial-intelligence-can-improve-contract-management/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D876%26cropY1%3D23%26cropY2%3D516",
-          "width": 876,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2021/01/12/business-contracts-remain-complex-and-artificial-intelligence-can-improve-contract-management/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/01/12/business-contracts-remain-complex-and-artificial-intelligence-can-improve-contract-management/amp/",
-      "publishedDateTime": "2021-01-12T08:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

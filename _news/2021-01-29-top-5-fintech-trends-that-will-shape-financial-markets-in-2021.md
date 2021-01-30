@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/362981"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/362981"
 type: article
 quality: 74
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -87,6 +87,20 @@ related:
       - url: "https://www.worldfinance.com/wp-content/uploads/2021/01/fintech-600x450.jpg"
         width: 600
         height: 450
+        isCached: true
+  - title: "Must-watch Startups in Africa’s Fintech Space in 2021"
+    excerpt: "More than $1.07 billion flowed into Africa’s startups in 2020, with the fintech sector accounting for 31% of this funding."
+    publishedDateTime: 2021-01-30T20:01:00Z
+    webUrl: "https://africa.com/must-watch-startups-in-africas-fintech-space-in-2021/"
+    type: article
+    provider:
+      name: Africa.com
+      domain: africa.com
+    quality: 24
+    images:
+      - url: "https://i2.wp.com/africa.com/wp-content/uploads/2021/01/startups-hipotecas-1920x1180-1.jpg?fit=1920%2C1180&#038;ssl=1"
+        width: 1920
+        height: 1180
         isCached: true
   - title: "Davos 2021: Key leader takeaways and what they mean for fintech and the environment"
     excerpt: "Finextra attended a very different, digital Davos this year which centred on ‘The Great Reset’. Covering global insights into the impact that fintech has on wider issues such as responding to Covid-19,"

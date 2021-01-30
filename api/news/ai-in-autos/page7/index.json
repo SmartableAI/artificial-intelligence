@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-12-09-apple-reportedly-hands-over-its-self-driving-car-project-to-executive-who-oversees-siri.md",
+      "title": "Apple reportedly hands over its self-driving car project to executive who oversees Siri",
+      "excerpt": "Apple is shuffling its leadership that oversees its secretive self-driving car project ... the company’s head of artificial intelligence, who also oversees voice-based digital assistant Siri.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2020/12/8/22163939/apple-self-driving-car-john-giannandrea-ai-siri",
+      "originalUrl": "https://www.theverge.com/2020/12/8/22163939/apple-self-driving-car-john-giannandrea-ai-siri",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/kMQkk177iqz3S9pEuDwI0tzzAIQ=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68480487/acastro_180604_1777_apple_wwdc_0004.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/12/8/22163939/apple-self-driving-car-john-giannandrea-ai-siri",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/12/8/22163939/apple-self-driving-car-john-giannandrea-ai-siri",
+      "publishedDateTime": "2020-12-08T17:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-09-apple-self-driving-car-unit-now-overseen-by-john-giannandrea-report.md",
       "title": "Apple Self-Driving Car Unit Now Overseen By John Giannandrea [Report]",
       "excerpt": "Apple's self-driving car unit is now being overseen by AI executive John Giannandrea, according to a new report.",
@@ -1405,49 +1457,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-as-algorithms-take-over-more-of-the-economy-we-should-cede-control-very-carefully.md",
-      "title": "As Algorithms Take Over More of the Economy, We Should Cede Control (Very) Carefully",
-      "excerpt": "As they proliferate, experts say, we need to make sure they don’t collude against us in damaging ways. Fears of malevolent artificial intelligence plotting humanity’s downfall are a staple of science fiction. But there are plenty of nearer-term ...",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2020/12/01/as-algorithms-take-over-more-of-the-economy-we-should-cede-control-very-carefully/",
-      "originalUrl": "https://singularityhub.com/2020/12/01/as-algorithms-take-over-more-of-the-economy-we-should-cede-control-very-carefully/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2020/11/stocks-economy-algorithms-AI-1.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2020/12/01/as-algorithms-take-over-more-of-the-economy-we-should-cede-control-very-carefully/amp/",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/12/01/as-algorithms-take-over-more-of-the-economy-we-should-cede-control-very-carefully/amp/",
-      "publishedDateTime": "2020-12-01T10:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

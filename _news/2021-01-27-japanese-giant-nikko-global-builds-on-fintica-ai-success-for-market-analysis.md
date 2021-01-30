@@ -2,9 +2,9 @@
 category: news
 title: "Japanese giant Nikko Global builds on Fintica AI success for market analysis"
 excerpt: "Fintica AI, Ltd. announced today the successful execution of a project for leading international Japan-based asset management company,"
-publishedDateTime: 2021-01-26T17:57:00Z
-originalUrl: "https://www.prnewswire.com/ae/news-releases/japanese-giant-nikko-global-builds-on-fintica-ai-success-for-market-analysis-301215010.html"
-webUrl: "https://www.prnewswire.com/ae/news-releases/japanese-giant-nikko-global-builds-on-fintica-ai-success-for-market-analysis-301215010.html"
+publishedDateTime: 2021-01-26T19:57:00Z
+originalUrl: "https://www.prnewswire.com/il/news-releases/japanese-giant-nikko-global-builds-on-fintica-ai-success-for-market-analysis-301215010.html"
+webUrl: "https://www.prnewswire.com/il/news-releases/japanese-giant-nikko-global-builds-on-fintica-ai-success-for-market-analysis-301215010.html"
 type: article
 quality: 36
 heat: -1
@@ -56,6 +56,6 @@ related:
         height: 315
         isCached: true
 
-secured: "i5pK/ms+5zzxHq0PIuTyYtH9swpSYmzzEuswAc6n6q8cLo54UUV9zLymoejrDcKAq05F+Lext0CDfucH1+2efq4WwSuxKhuFDMRKeFqAgKRdh8eMYf10W9M95wmq1FyUDTj4Pvta/7YGLjCT0wCzBNHtdOHQ1JtmQrrs+3Yr1b5jSCPLJDj+l5tOTnfmWElJv9nw1c+bku3ffcse/OpPoplOneCt1tDQ31079/jSqrR74rU749xrly8OAbdN3L5vvr+YnoUXw76Bc14zuoO23C+i8cVK6GIoB9WboC47St/djVkwznLuA7ebG0xd+2MW0UL9+8FxhOshV32c+oBwVAg+ZbNc7L7xXz5P0dlvyDw=;zuiJNAcE/GNZm4DCRlTIuw=="
+secured: "4t7l8o4Pgo2uBOM6o1JquS1BvPrzHNyUbC2Aco/UAobg9BUyExqV9HdO76zY1zBA9JxCozWRcYhSv7N9tTXyYYyzSP/TzQM/i7R1slxWGOMRJq5DJ0LOE6+3dUNzaNICblvRQBUif9w1cNQWlUYW1MKihb/omIf2XL6NOj4fkkj0qv/GkHGzltGa+7NHSRZjLaS14aXJyzl8RwnusufMLoWt5a5FemV4jqqgFLoZwi56WX3g4ZXcQKVeAIm7z17T2nG2zdZJckdjxgQG4/ztz8wwlgE5Cc8ykkezG7XY8TuVxsKzSaTct+tRC4/ugdfnILmzovTJD8AfvBGQ4gWj2spnnSoywux1YzWrfr2U6r0=;DTed5dydVNY6ZstjkijtAA=="
 ---
 

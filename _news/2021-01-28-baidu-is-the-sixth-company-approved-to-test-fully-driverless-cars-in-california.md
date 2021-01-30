@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/1/27/22252944/baidu-drive
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/1/27/22252944/baidu-driverless-cars-test-permit-california-dmv"
 type: article
 quality: 170
-heat: 290
+heat: 300
 published: true
 
 provider:
@@ -60,9 +60,9 @@ related:
         height: 545
         isCached: true
   - title: "SoftBank's Son expects mass production of driverless cars in 2 years"
-    excerpt: "SoftBank Group Corp Chief Executive Masayoshi Son said on Friday he expects mass production of self-driving vehicles to start in two years."
-    publishedDateTime: 2021-01-29T20:50:00Z
-    webUrl: "https://www.reuters.com/article/davos-meeting-son-autonomous/softbanks-son-expects-mass-production-of-driverless-cars-in-2-years-idUSL1N2K41Y9"
+    excerpt: "Son, who made his name for investing early in startups such as China’s Alibaba Group had said he will continue to take stakes in public companies he thinks are frontrunners in the artificial ..."
+    publishedDateTime: 2021-01-29T15:55:00Z
+    webUrl: "https://www.reuters.com/article/davos-meeting-son-autonomous-idUSL1N2K41Y9"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2K41Y9"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2K41Y9"
     type: article
@@ -75,12 +75,12 @@ related:
         width: 829
         height: 545
         isCached: true
-  - title: "SoftBank's Son expects mass production of driverless cars in two years"
-    excerpt: "Son, who made his name for investing early in startups such as China’s Alibaba Group had said he will continue to take stakes in public companies he thinks are frontrunners in the artificial ..."
-    publishedDateTime: 2021-01-29T16:08:00Z
-    webUrl: "https://www.reuters.com/article/us-davos-meeting-son-autonomous-idUSKBN29Y279"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Y279"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Y279"
+  - title: "SoftBank's Son expects mass production of driverless cars in 2 years"
+    excerpt: "SoftBank Group Corp Chief Executive Masayoshi Son said on Friday he expects mass production of self-driving vehicles to start in two years."
+    publishedDateTime: 2021-01-29T20:50:00Z
+    webUrl: "https://www.reuters.com/article/davos-meeting-son-autonomous/softbanks-son-expects-mass-production-of-driverless-cars-in-2-years-idUSL1N2K41Y9"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2K41Y9"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2K41Y9"
     type: article
     provider:
       name: Reuters
@@ -123,6 +123,17 @@ related:
         width: 1024
         height: 640
         isCached: true
+  - title: "SoftBank's Son expects mass production of driverless cars in two years"
+    excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since Free subscriber-exclusive audiobook! “No Rules Rules: Netflix and the Culture of Reinvention ..."
+    publishedDateTime: 2021-01-29T16:38:00Z
+    webUrl: "https://www.businessinsider.com/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
   - title: "Baidu Apollo receives driverless vehicle test permit in California"
     excerpt: "Baidu Apollo has now been approved by the California Department of Motor Vehicles (DMV) to test driverless vehicles without a safety driver behind the wheel on public streets. This makes Baidu the"
     publishedDateTime: 2021-01-28T13:25:00Z
@@ -210,6 +221,6 @@ related:
         height: 300
         isCached: true
 
-secured: "1UtC3S3l2j5RAoJR1zcKC02yeRCMSlba1z9m6ZKgA5s2ZJXy11NAOSyyU3PwyuT07S8i8B9w8yf1mWmkFwJFdS+eOH+i6jz5/kX9c3sMF1jlqH9k+K9lS0pqfYJkzbhn1tg8t0odU8ypVTtSJYB0Tlj+DM+2aszR5eeIbA/aorcQy/0Mql+eAk1iHXa9tSbQclTIQC/1hcJ4mhkNFiZLD8W+M+T4ru93D6P8nUKB4qCdx/Nv8PIIEZng3a9z8c545/q/sPG1+x+QnweXOVwcZ8a51ferKQ95E4bw0+BbFbAhh43/CIs57z48XIu0keTGwvUWrX7Aes2/bcDjNAwGemeNa63fkCFw/SlsZwBNozk=;/pud/JU2+ZfJh/+LkXUjPw=="
+secured: "guS6YQ6B+JLzxAFnhjhzyeta506c54NvIBo2GcxitOG0KSTQKXv7OvHCGoUKl38CzI1A0ChreCRKsZdxn3nQYvv5spikrVfgkqxLMGAzBRaYLceKG96MNIvi7par+h8kQjfXmovK6vvwB7f/AT2wFGnGoqc4UZPnR2f5A/AjewUD8GDbCdc6hMmQ69WWgVQltUi1WAjpXGv+WSi/ESNFN7qWTnMi0gC3INXsa3EzmvK+kVuXtEM0dxVUp0qHlJx2yWDnIUYGt/JGJNlci+Nr6Ap0LM445xbdPJ8z1x65U6+4tCQZJWgJr9OL7Qq1RcH7QvvKATeBwxfDEre+sXFAEjOKdy0+kQywtSBrJp9xAt3VIA8TsFsrurKpr0N0wiOhcg9MNp038HJN7xt9pHTA5YWx7dNH+xevOFcOmXKlNAMz9QigMoENr0LYfCElef26ujY0VNTXxrdka6MUzDM7XJhxEiTonVSq0qDKFZkyAYpX8GGlXopwIVoYsrx+sk4G9Qu+4DRNtIprh5ge0kLF85beJkwTzZSUXxUCItSUb4E=;2ceFnYsJnuGxt/nv2hkAhw=="
 ---
 

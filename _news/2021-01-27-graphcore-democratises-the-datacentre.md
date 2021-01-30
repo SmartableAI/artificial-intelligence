@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Graphcore debuts its 'Graphcloud' AI cloud service in association with Cirrascale"
-    excerpt: "Graphcore has teamed up with Cirrascale to launch its new AI Cloud Service dubbed 'Graphcloud'. It will combine Graphcore's own IPU-POD systems with Cirrascale's cloud service infrastruture."
-    publishedDateTime: 2021-01-26T04:20:00Z
-    webUrl: "https://www.neowin.net/news/graphcore-debuts-its-graphcloud-ai-cloud-service-in-association-with-cirrascale"
-    ampWebUrl: "https://www.neowin.net/amp/graphcore-debuts-its-graphcloud-ai-cloud-service-in-association-with-cirrascale/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/graphcore-debuts-its-graphcloud-ai-cloud-service-in-association-with-cirrascale/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 84
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2021/01/1611647448_introducing_graphcloud_ai_cloud_service_(1)_cropped_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
   - title: "Graphcore and Cirrascale announce Graphcloud"
     excerpt: "Graphcore has announced the next step in what it describes as its commitment to help customers accelerate their innovation and harness the power of AI at scale. In co-operation with Cirrascale Cloud Services,"
     publishedDateTime: 2021-01-26T09:26:00Z

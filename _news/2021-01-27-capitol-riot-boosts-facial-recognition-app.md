@@ -225,20 +225,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 48
-  - title: "Expand the School Ban, End the Use of Facial Recognition in New York"
-    excerpt: "An NYPD command center (photo: Michael Appleton/Mayor's Office) Schools are safe, but the rest of New York is at risk. This is the reality of facial recognition in the Empire State, where facial recognition is now illegal in schools,"
-    publishedDateTime: 2021-01-26T03:24:00Z
-    webUrl: "https://www.gothamgazette.com/opinion/10102-expand-school-ban-end-use-of-facial-recognition-technology-new-york"
-    type: article
-    provider:
-      name: Gotham Gazette
-      domain: gothamgazette.com
-    quality: 39
-    images:
-      - url: "https://www.gothamgazette.com/images/49357872161_d665ed209d_c.jpg"
-        width: 799
-        height: 533
-        isCached: true
   - title: "Can Facial Recognition Predict Political Orientation?"
     excerpt: "A study used social media photos of 1,085,795 participants – including 347,000 people of color, from the United States, United Kingdom and Canada and their self-declared political orientation, age, and gender,"
     publishedDateTime: 2021-01-27T19:31:00Z

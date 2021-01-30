@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-27-german-robot-being-designed-to-prune-fruit-trees.md",
+      "title": "German robot being designed to prune fruit trees",
+      "excerpt": "According to Germany's University of Hohenheim, about 80 percent of the fruit trees in that country aren't regularly pruned – despite the fact that doing so makes them structurally stronger and more resistant to disease.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/robotics/phoenix-robot-prune-fruit-trees/",
+      "originalUrl": "https://newatlas.com/robotics/phoenix-robot-prune-fruit-trees/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/aa51c6a/2147483647/strip/true/crop/3000x2000+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F41%2F04%2Fa3ab894841ba8a1e05a227aaa875%2Froboter2-jung.jpeg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/robotics/phoenix-robot-prune-fruit-trees/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/phoenix-robot-prune-fruit-trees/?amp=true",
+      "publishedDateTime": "2021-01-26T11:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-27-machine-learning-identifies-patterns-of-maternal-autoantibodies-associated-with-autism.md",
       "title": "Machine learning identifies patterns of maternal autoantibodies associated with autism",
       "excerpt": "Using machine learning, researchers at the UC Davis MIND Institute have identified several patterns of maternal autoantibodies highly associated with the diagnosis and severity of autism.",
@@ -1179,58 +1231,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-aeva-to-supply-lidar-sensors-to-self-driving-truck-firm-tusimple.md",
-      "title": "Aeva to supply lidar sensors to self-driving truck firm TuSimple",
-      "excerpt": "Aeva Inc, a firm founded by former Apple Inc engineers to supply a key self-driving car sensor, said on Tuesday it had reached a deal to supply the sensors for self-driving heavy duty trucks being developed by TuSimple.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/aeva-tusimple-idUSL1N2K102G",
-      "originalUrl": "https://www.reuters.com/article/aeva-tusimple-idUSL1N2K102G",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-26T04:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

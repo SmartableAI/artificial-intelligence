@@ -98,6 +98,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Must-watch Startups in Africa’s Fintech Space in 2021"
+    excerpt: "More than $1.07 billion flowed into Africa’s startups in 2020, with the fintech sector accounting for 31% of this funding."
+    publishedDateTime: 2021-01-30T20:01:00Z
+    webUrl: "https://africa.com/must-watch-startups-in-africas-fintech-space-in-2021/"
+    type: article
+    provider:
+      name: Africa.com
+      domain: africa.com
+    quality: 24
+    images:
+      - url: "https://i2.wp.com/africa.com/wp-content/uploads/2021/01/startups-hipotecas-1920x1180-1.jpg?fit=1920%2C1180&#038;ssl=1"
+        width: 1920
+        height: 1180
+        isCached: true
   - title: "Jump Start 2021: Fintech Innovation Accelerates Digital Strategies in Financial Institutions"
     excerpt: "For financial institutions, the year 2020 accelerated the already intense focus on digital. A recent report from Deloitte notes that the pandemic has turbo-charged digitization for the banking industry,"
     publishedDateTime: 2021-01-27T11:21:00Z

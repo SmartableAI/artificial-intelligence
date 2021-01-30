@@ -7,7 +7,7 @@ originalUrl: "https://www.newelectronics.co.uk/electronics-news/graphcore-and-ci
 webUrl: "https://www.newelectronics.co.uk/electronics-news/graphcore-and-cirrascale-announce-graphcloud/233926/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Graphcore debuts its 'Graphcloud' AI cloud service in association with Cirrascale"
-    excerpt: "Graphcore has teamed up with Cirrascale to launch its new AI Cloud Service dubbed 'Graphcloud'. It will combine Graphcore's own IPU-POD systems with Cirrascale's cloud service infrastruture."
-    publishedDateTime: 2021-01-26T04:20:00Z
-    webUrl: "https://www.neowin.net/news/graphcore-debuts-its-graphcloud-ai-cloud-service-in-association-with-cirrascale"
-    ampWebUrl: "https://www.neowin.net/amp/graphcore-debuts-its-graphcloud-ai-cloud-service-in-association-with-cirrascale/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/graphcore-debuts-its-graphcloud-ai-cloud-service-in-association-with-cirrascale/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 84
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2021/01/1611647448_introducing_graphcloud_ai_cloud_service_(1)_cropped_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
   - title: "Graphcore democratises the datacentre"
     excerpt: "Graphcore and Cirrascale Cloud Services are harnessing the full power of AI in the cloud with the first publicly available Mk2 IPU-POD scale-out cluster, o"
     publishedDateTime: 2021-01-26T18:13:00Z

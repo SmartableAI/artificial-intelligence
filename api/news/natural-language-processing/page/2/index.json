@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-14-5-things-to-know-about-employee-recognition-in-2021.md",
+      "title": "5 Things to Know About Employee Recognition in 2021",
+      "excerpt": "Employee recognition company Terryberry discusses how organizations are changing they way they recognize and appreciate teams the midst of a global pandemic. GRAND RAPIDS, Mich.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/01/p19149002/5-things-to-know-about-employee-recognition-in-2021",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/01/p19149002/5-things-to-know-about-employee-recognition-in-2021",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/19149002",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19149002",
+      "publishedDateTime": "2021-01-13T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-13-salesforce-researchers-release-framework-to-test-nlp-model-robustness.md",
       "title": "Salesforce researchers release framework to test NLP model robustness",
       "excerpt": "Researchers at Salesforce released a framework called Robustness Gym to benchmark the robustness of NLP models.",
@@ -1373,50 +1407,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-mobile-speech-recognition-to-revolutionize-mobile-marketing-gigaom.md",
-      "title": "Mobile speech recognition to revolutionize mobile marketing: GigaOm",
-      "excerpt": "While today's mobile devices are only beginning to embrace speech-enabled technologies, speech recognition is triggering the next revolution in mobile user experience, according to new research from GigaOM Pro and immr. We will see an extraordinary shift ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketingdive.com/ex/mobilemarketer/cms/news/software-technology/3710.html?referrer_site=www.mobilemarketer.com",
-      "originalUrl": "https://www.marketingdive.com/ex/mobilemarketer/cms/news/software-technology/3710.html?referrer_site=www.mobilemarketer.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketingdive.com/user_media/pressrelease/company_logos/20210107163821413/logo2x.png",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-30T23:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Marketing Dive",
-        "domain": "marketingdive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],
