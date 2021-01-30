@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "botanic_io"
   url: "https://www.twitter.com/botanic_io"
-  followers: 584
+  followers: 583
 
 locations:
   - CA, USA
@@ -31,6 +31,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=-RfVBN3nfRs"
 
-secured: "rh2AIMUfdT59Bus4g0nbF7c50D9JEY9ODVeBE7zL5SX6PNR+RJR2x7SKlVCQMWPp23Bis5zUdE+R3PO2IxjPtqKoIlqWe1tjZq1AGrfkNzPm180aH3uY4kHx2UFsB4JQ4TwQAuBdS7JuulXkCwbMEbVOGeXIZSrqZjY8oDI79QEZySGLZOdksyJ0yKDnekJkYidoB03IK7laW887LllH1z6/zYYuRTh/dV0gTPGMa9TklQ/JCQA2yy0NKBP20jh0oMqP/ynncY0KUJ038TP4KUQlUEO35Shga/EG13HSI7pwz14IX8KLrIVE5JquBqZtEXX7YoIpgTZzCgD6+DuLHmHxLN3COv2YuejiIObpYNP6Hq09FCnDbmGHICsTqsviap1lBCFmwS1n8Ggr0/wpzA==;Od1xrVooyTT9aTFA2qzG4g=="
+secured: "xkTto5TK5iW/6AFXoPKJYwVlSl8mjz6vUDVLfPWIopIhDhDVCByQOcVYHNEpkR2QeStVMtBK3D1/S45BoosQBDBPKptPzPWHhAhZlgFmagqS30KRt5VIthdgTsckf3FZ+iwSyapNh1r9xvOxDSkt1ioUljPqD3CTqBukw1pADSMnOJCIFZfOW/HqLvQKQU/qUBL9KpQ1BrquYVUrDVfcjBxR/NOqlb9is05RP7wtZ3d9d85zFmaaD1V1W6W2d5YRyNoba6UL14QGL/lAG1NBbNc0wlIxhvjhzSX+JSdFzlUX4h8vMgomNNvTyApTloMhePhr9ppxtOFhOkQHx4ZLpHu7uj5Ocj3WJycZkvLxpNLPm4vj3MAp3X1haTNjC2YOdR/SGqetj79n72rr1bQ8qg==;bsE4Ba6loOnhEVqhQJCM+Q=="
 ---
 
