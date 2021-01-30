@@ -9,7 +9,7 @@ ampWebUrl: "https://mcdowellnews.com/opinion/columnists/scott-hollifield-larry-k
 cdnAmpWebUrl: "https://mcdowellnews-com.cdn.ampproject.org/c/s/mcdowellnews.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_e6b5924e-6184-11eb-bbc1-cb7da67dedb2.amp.html"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 504
     height: 233
     isCached: true
+
+related:
+  - title: "Scott Hollifield: Larry King will miss the Robot Apocalypse"
+    excerpt: "Today, our disparate subjects will be the literary genius of the late Larry King and the inevitable end of the world as we know it brought about by killer robots."
+    publishedDateTime: 2021-01-30T11:00:00Z
+    webUrl: "https://hickoryrecord.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_45f1e9e2-61a8-11eb-b0c5-dfa087330ef1.html"
+    ampWebUrl: "https://hickoryrecord.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_45f1e9e2-61a8-11eb-b0c5-dfa087330ef1.amp.html"
+    cdnAmpWebUrl: "https://hickoryrecord-com.cdn.ampproject.org/c/s/hickoryrecord.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_45f1e9e2-61a8-11eb-b0c5-dfa087330ef1.amp.html"
+    type: article
+    provider:
+      name: Hickory Daily Record
+      domain: hickoryrecord.com
+    quality: 59
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/hickoryrecord.com/content/tncms/assets/v3/editorial/4/5e/45eb0942-61a8-11eb-b0c4-7b12bc0878ae/60131fec0930e.image.jpg"
+        width: 504
+        height: 233
+        isCached: true
 
 secured: "JkJQKSzlFItkaHWFbqBWgsb10+EbQ++sumzeZkEw6xCyhTC/Mi3LPWEPriyO5HOXFbsGrTaVsQIaI3U0+YzTKF+UhwRURZ9NhuHvW1iunIF2yqowpoBlRsUjO5jbxjsUpyKIK0eqsuHA8UzEm7A3V1tTcI05dzPmO+IFDTZdkLdyADG0okrEYtpuUpbPL3dwWG/3jbFIUdi/krMOM/mVQls1HO9l8uBtEl+soSdUaX9yxWHiEPf674Rp8kENDaZlE2hyib1ze8cLliWxo48gUdnFLVPd3AH1DvNPB1jz4lqKHG9TyAoe33lqwqioS6hjXUEjHW3nomnMwyCcGNXYJ33sSEJkADGnhptmfF4VfMQ=;LO+IkXH1IGNS1otMbomS0g=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/363706"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/363706"
 type: article
 quality: 72
-heat: 122
+heat: 132
 published: true
 
 provider:
@@ -99,6 +99,15 @@ related:
         width: 700
         height: 467
         isCached: true
+  - title: "Icovid’s AI COVID-10 lung scan goes viral in Europe"
+    excerpt: "Belgium’s Icovid initiative, which looks for ways to utilize AI to support radiologists in the assessment of CT images of the lungs of Covid-19 patients, is getting a lot of attention as it spreads across Europe."
+    publishedDateTime: 2021-01-27T13:23:00Z
+    webUrl: "https://bits-chips.nl/artikel/icovids-ai-covid-10-lung-scan-goes-viral-in-europe/"
+    type: article
+    provider:
+      name: Bits&Chips
+      domain: bits-chips.nl
+    quality: 19
 
 secured: "MZWRn/MuBzDa7t68BK/Yfe1rFi6Z5ZsHMrrg+M/hLwIIsLGL949VkJ/Kbw74BqsPQaIp9RFLxW7IDphLKkDO7GwDk64xR8MFQDDaur0v5ygemmsCSK2S1Kbq59Eo04qMcZFZCo8G3QsyFDXidhwG1zWlS9LK0GBZ6zirdMURYtxmpnx/jESV/OvK1U4S64qN/cYT4QZ7hVYAacX+ywzQu+HUAqWOZ14WpZ+4aIj9nwhqj4jXODsO3gPqZ1TC+i4aNhvUnxz/OQFRDrWrKMEEBc5OCsPbdDc2PV7IvCTDDYM+YrPb0AVldT72ibVAQxPQ5TqFjN6vxEw/r1aywsbnOAFavmpAOLsXHPbdxSMJkPZNrP0cv1/aIIJ4x1FAHppKx4XyGffPu8pJ6R59bOGAyOJ4xwRCJbYPb6XQrU3l+OnekeP/F8E3d6FRSOaUSXk3eZBhNQ1smR3ndjMnFeOCeb24trVFoS7shAk9pcCOC/X99fXae/gmqRJrN1sokEc4/w/N9S6VQ0XwnQLOfuxWoQ==;7gnCzZZZfwRT1yNYvY8lkg=="
 ---

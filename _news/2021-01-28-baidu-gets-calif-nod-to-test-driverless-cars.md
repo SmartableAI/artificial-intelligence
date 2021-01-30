@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Baidu is the sixth company approved to test fully driverless cars in California"
+    excerpt: "Baidu has gotten the green light to test fully autonomous vehicles on public roads in California. While Baidu has had permission from California regulators to test autonomous vehicles with safety drivers since 2016,"
+    publishedDateTime: 2021-01-27T21:09:49Z
+    webUrl: "https://www.theverge.com/2021/1/27/22252944/baidu-driverless-cars-test-permit-california-dmv"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2021/1/27/22252944/baidu-driverless-cars-test-permit-california-dmv"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/1/27/22252944/baidu-driverless-cars-test-permit-california-dmv"
+    type: article
+    provider:
+      name: theverge.com/2021/1/27/22252944/baidu-driverless-cars-test-permit-california-dmv
+      domain: theverge.com/2021/1/27/22252944/baidu-driverless-cars-test-permit-california-dmv
+    quality: 170
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/S95q_iD3ihUt3noy9_u01hZfVBA=/0x0:950x633/1400x933/filters:focal(399x241:551x393):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68730144/baidu.0.jpeg"
+        width: 950
+        height: 633
+        isCached: true
   - title: "Baidu gets California nod for testing empty self-driving cars"
     excerpt: "Baidu Inc has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor Vehicles said on Wednesday."
     publishedDateTime: 2021-01-28T02:37:00Z
@@ -55,6 +71,38 @@ related:
     images:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210127&t=2&i=1549286737&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0Q1KU"
         width: 817
+        height: 545
+        isCached: true
+  - title: "SoftBank's Son expects mass production of driverless cars in 2 years"
+    excerpt: "SoftBank Group Corp Chief Executive Masayoshi Son said on Friday he expects mass production of self-driving vehicles to start in two years."
+    publishedDateTime: 2021-01-29T20:50:00Z
+    webUrl: "https://www.reuters.com/article/davos-meeting-son-autonomous/softbanks-son-expects-mass-production-of-driverless-cars-in-2-years-idUSL1N2K41Y9"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2K41Y9"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2K41Y9"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210129&t=2&i=1549571164&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0S194"
+        width: 829
+        height: 545
+        isCached: true
+  - title: "SoftBank's Son expects mass production of driverless cars in two years"
+    excerpt: "SoftBank Group Corp Chief Executive Masayoshi Son said on Friday he expects mass production of self-driving vehicles to start in two years."
+    publishedDateTime: 2021-01-29T21:00:00Z
+    webUrl: "https://www.reuters.com/article/ctech-us-davos-meeting-son-autonomous-idCAKBN29Y279-OCATC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN29Y279-OCATC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN29Y279-OCATC"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210129&t=2&i=1549571164&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0S194"
+        width: 829
         height: 545
         isCached: true
   - title: "Baidu gets California nod for testing driverless vehicles"
@@ -160,20 +208,6 @@ related:
       - url: "https://www.claimsjournal.com/img/claims-journal-logo-640.png"
         width: 640
         height: 300
-        isCached: true
-  - title: "California-Based FinTech Provider Empaxis Expands, Announces New India Location"
-    excerpt: "Empaxis Data Management, a cloud-based financial technology and middle-and back-office services provider for investment management firms, has announced the opening of a new office in Kolkata (formerly Calcutta),"
-    publishedDateTime: 2021-01-26T15:22:00Z
-    webUrl: "https://www.lelezard.com/en/news-19617447.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 20
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
         isCached: true
 
 secured: "2ir8/bdLXccQnVG4GdG7n4O9Ytc3wxQXx8iMBVPhKM/Q60bFXaWK5U2iEPFjUrkeve2D6H7VConGF5+IpFQcVJDwbIoWsR76vMiqvSh5BlvRxepesD839k1W+wvVBzA15HjunlOKL6W9eDxRRUvDppGSH07nMTQ9ibmZRZNGd9wGsLF6QibbYdTQCoza/jOb0w4IyWQ0pbtWwpxe/ApsMWnDVA39wgZzOlsFb4hmSDhQoROOsAdipQx4ckmUz2KInHgzl+jr7smC7E9rtt23QPdQa02/McD6OraVXDyR+YcG3AR+2ree0M8u9t95fvVFPsnJ+D/m8JJqjrifH5nxc2oVKfa++FHfNhe7xs/uRgmM0MfiMyKKVYPibkA4pB+ilIUWoYUUVEpISXIgURdkI5TFMH3fuus+OWlhErGw5/H+VTZeX9PEWAlmLfY5gQjJVOVGQVC/qWDdCSa52aVFBpkzrxGWHHT4N2+ScHm3T3Kpb+KYTWzIKQ9d9sXg2SstkV7/VFThJRGj7knO2n4NdA==;6Ni+EH3Xcpur4187CSpz6A=="

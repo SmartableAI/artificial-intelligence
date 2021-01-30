@@ -97,7 +97,7 @@
       "originalUrl": "https://www.computerweekly.com/news/252495597/Biometrics-ethics-group-address-public-private-use-of-facial-recognition",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1339,20 +1339,20 @@
     },
     {
       "path": "_news/2021-01-19-delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official.md",
-      "title": "Delhi airport evaluating 'computer vision' tech to track flyers, ensure social distancing: Official",
-      "excerpt": "Delhi airport, which is also led by a GMR group-headed consortium, installed the 'Xovis' passenger tracking system at Terminal 3 last month",
+      "title": "Delhi Airport Evaluating 'computer Vision' Tech To Track Flyers, Ensure Social Distancing: Official",
+      "excerpt": "Delhi airport is evaluating a computer vision technology to track passengers, reduce waiting time and ensure social distancing at its terminals, a top official of the facility's operator said on Tuesday.",
       "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/companies/news/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official-11611054333198.html",
-      "originalUrl": "https://www.livemint.com/companies/news/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official-11611054333198.html",
+      "webUrl": "https://www.republicworld.com/india-news/city-news/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official.html",
+      "originalUrl": "https://www.republicworld.com/india-news/city-news/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://images.livemint.com/img/2021/01/19/600x338/PTI23-12-2020_000268B_1611054870782_1611054896014.jpg",
-          "width": 600,
-          "height": 338,
+          "url": "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/8aiou9s6bqizw6uw_1611054674.jpeg?tr=f-jpeg",
+          "width": 1242,
+          "height": 708,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1360,13 +1360,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.livemint.com/companies/news/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official/amp-11611054333198.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official/amp-11611054333198.html",
-      "publishedDateTime": "2021-01-19T03:31:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-19T03:11:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
+        "name": "RepublicWorld",
+        "domain": "republicworld.com",
         "images": null,
         "publishers": null,
         "authors": null

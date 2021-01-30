@@ -101,6 +101,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Federal Reserve Considering Formal Request for Public Feedback about the Adoption of AI in the Financial Services Sector"
+    excerpt: "It's great to see the Fed move in the direction of potentially providing clarification and additional guidance around supervision of AI/ML in financial services. Additional guidance from the Fed and other agencies (OCC,"
+    publishedDateTime: 2021-01-30T14:02:00Z
+    webUrl: "https://insidebigdata.com/2021/01/30/federal-reserve-considering-formal-request-for-public-feedback-about-the-adoption-of-ai-in-the-financial-services-sector/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 0
 
 secured: "XXn/qBcFHOt1pu3TGScwQa+sTUxPhxqLKDTRTg6BS+5vCcD2PIQpM5zHNvVh3VaW/wL87PD3flTKvKFOURrifwxgMRsWy8EFUGr8pQXTRONkRye8o6/TNwfwHeFHCmBP6D79M0v7tDRAHUV7KXpJP40B7wYNUWZ6XymVxZEmG/hZ0swTmnnOiZm2u7h1/jFo4LHtHW0GsoXgly6ocIUgcaDdU8EhpgYuzUpDrkKvBXoTLajObzQYHNfiCxZh0MlExUoID1RI9ooTmxnRaVi9q/vMIDwwt8s4ZAQfwWTDsjUQXNjxgCYX+gDlCn5gmsYV745rJw89FyW+Mpx2ZDc9BCbR7lejgiMMSbUmeisViZ6u2zur8PZ/8B8bVNeFCjtI+m/eD5WULKQftT3dIWfCyYIK9Wm8OEv72hxN3S8wHpz7MW1XrW3ruk2OoNSgmZxDq/jk99E6PNS2o3qBHCIwUgP/vlH8OlhQIrc3k+NRkYhIkhfTyqFNDOzlPvugdirOvFD8pdtupvkOIkDwicKidg==;qwPIwdBn0xWmG9vHKjbNug=="
 ---

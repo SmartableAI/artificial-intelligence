@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/364141"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/364141"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -104,6 +104,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Federal Reserve Considering Formal Request for Public Feedback about the Adoption of AI in the Financial Services Sector"
+    excerpt: "It's great to see the Fed move in the direction of potentially providing clarification and additional guidance around supervision of AI/ML in financial services. Additional guidance from the Fed and other agencies (OCC,"
+    publishedDateTime: 2021-01-30T14:02:00Z
+    webUrl: "https://insidebigdata.com/2021/01/30/federal-reserve-considering-formal-request-for-public-feedback-about-the-adoption-of-ai-in-the-financial-services-sector/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 0
 
 secured: "Q1uCIGM2+roQ2u2BxuEgQc2bMASNyAGayJKEDGP3odCA3EdnY+m1VgJqfuq9ZbmOP97XYm8txj+YgKxWYE3X4e7KPsEYvq9u5dNkppDr8XGof/u58WxY4tvtjBtTCT7FuYD1oHcUSrNcHmOXBBRAAcmXEzVkmHHozvIipAdWRjObtZj3/Nahrlrg4dwds6UzBSzwkz18ySmdyc8qmcuM7mN+drGf5pONSBhywmqQbSpRl/StXYnyi1YtsQu5hxxHfitS+VEmzMxIHzq8nlq1OHkmpgF1728izZGFuyzvRjFAgEDOtTVXHfZh/VNP8dgpx0N8h1oJcigrpbaApwQuUCFlC1IE22GD/3cIJ3A9c567z/M5qNehZq0w9du/k90qDtlLCzHmv9yW5CbJpPPMkanpPvbG8Q1uFCZQXlzN5IvXbZrwIY8c4M7xDAArtH8NOUn904x3zJuINPQOsNhcSKcfQ+1dOpIIEWtaDXijhYvVYg8TILnAwGzUe16QoHg61tsjuxj2o43AtOO2XMj2ww==;uKiQozNuTmCXP2nYWVPaGQ=="
 ---

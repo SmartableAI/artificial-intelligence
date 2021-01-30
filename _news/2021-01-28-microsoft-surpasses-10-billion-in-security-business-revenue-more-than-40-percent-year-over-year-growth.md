@@ -90,6 +90,22 @@ related:
         width: 620
         height: 250
         isCached: true
+  - title: "Microsoft’s investment in cruises puts it in the game of self-driving cars"
+    excerpt: "Microsoft's investment in cruises puts it in the game of self-driving cars One of the pitches that has worked well for Microsoft in the"
+    publishedDateTime: 2021-01-30T14:05:00Z
+    webUrl: "https://www.compsmag.com/news/gaming/microsofts-investment-in-cruises-puts-it-in-the-game-of-self-driving-cars/"
+    ampWebUrl: "https://www.compsmag.com/news/gaming/microsofts-investment-in-cruises-puts-it-in-the-game-of-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/microsofts-investment-in-cruises-puts-it-in-the-game-of-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 59
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/Microsofts-investment-in-cruises-puts-it-in-the-game-of.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Top marketing intelligence firm 10th Man uses Microsoft’s Azure cloud to unlock the power of data"
     excerpt: "Man, a leading UK marketing intelligence company and data-driven innovator, is using Microsoft’s data tools to provide fast and accurate information to some of the world’s biggest brands. Headquartered in London,"
     publishedDateTime: 2021-01-27T10:40:00Z
@@ -162,17 +178,6 @@ related:
         width: 900
         height: 470
         isCached: true
-  - title: "Cruise And GM Team Up With Microsoft To Commercialize Self-Driving Vehicles"
-    excerpt: "Cruise and General Motors on Tuesday announced they have entered a long-term strategic relationship with Microsoft to accelerate the commercialization of self-driving vehicles."
-    publishedDateTime: 2021-01-25T22:27:00Z
-    webUrl: "https://detroit.cbslocal.com/2021/01/25/cruise-and-gm-team-up-with-microsoft-to-commercialize-self-driving-vehicles/"
-    ampWebUrl: "https://detroit.cbslocal.com/2021/01/25/cruise-and-gm-team-up-with-microsoft-to-commercialize-self-driving-vehicles/amp/"
-    cdnAmpWebUrl: "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/2021/01/25/cruise-and-gm-team-up-with-microsoft-to-commercialize-self-driving-vehicles/amp/"
-    type: article
-    provider:
-      name: CBS Local
-      domain: cbslocal.com
-    quality: 39
   - title: "Confluent Announces Strategic Alliance with Microsoft"
     excerpt: "Confluent, the company of the founders of Apache Kafka, recently announced a new strategic alliance between them and Microsoft to enable a more integrated experience between Confluent Cloud and the Azure platform."
     publishedDateTime: 2021-01-29T12:06:00Z

@@ -3,10 +3,10 @@ category: news
 title: "Spotify is developing speech-recognition tech to detect your mood and suggest music"
 excerpt: "Global music-streaming giant Spotify has recently been granted a patent for a new technology which will allow it to analyze its users' voice data – including speech recognition and background noise – with an eye to suggesting music based on what it finds."
 publishedDateTime: 2021-01-29T03:13:00Z
-originalUrl: "https://www.techradar.com/uk/news/spotify-is-developing-speech-recognition-tech-to-detect-your-mood-and-suggest-music"
-webUrl: "https://www.techradar.com/uk/news/spotify-is-developing-speech-recognition-tech-to-detect-your-mood-and-suggest-music"
-ampWebUrl: "https://www.techradar.com/uk/amp/news/spotify-is-developing-speech-recognition-tech-to-detect-your-mood-and-suggest-music"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/spotify-is-developing-speech-recognition-tech-to-detect-your-mood-and-suggest-music"
+originalUrl: "https://www.techradar.com/in/news/spotify-is-developing-speech-recognition-tech-to-detect-your-mood-and-suggest-music"
+webUrl: "https://www.techradar.com/in/news/spotify-is-developing-speech-recognition-tech-to-detect-your-mood-and-suggest-music"
+ampWebUrl: "https://www.techradar.com/in/amp/news/spotify-is-developing-speech-recognition-tech-to-detect-your-mood-and-suggest-music"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/spotify-is-developing-speech-recognition-tech-to-detect-your-mood-and-suggest-music"
 type: article
 quality: 68
 heat: 98
@@ -80,6 +80,6 @@ related:
         height: 382
         isCached: true
 
-secured: "6NkZgUzrlKAO6D+M58RaAMQjGCgAR5CBSBAPlD3UQkVw94OANM6Uw6B8sgD94ZXstIFHUm57pklFUqswhc8ECPAXdQnWKlVpAAwyW2lJ46o6bxbzbMC82Wr2e30Jii0k239ngJDgYqUU5xtUO/bIljKVOSV8p36xmbsanh0G98XOR6GZEDqSPk9f8vS1/WBvkET33Rjo4XyQsTLl55xxQTnGWrfwbeuoadogk5xqO666A+AoS0U1vUip3VH454zmmS4I9ybrbaJYaNKJwDQNJhcSugusZ3vRdsX314ZpUtb2YBMMltYTnz2T0mldEqQMGsDymF8MHOb09eqMtSPk1Ers/uRRyvRxDR1AqRgP2+eUTmr7cS64imh6lFzkXX2SkEJe4SbWPjr1s/ETgNs7hrHbfjY47jy5fkDIzF5cYBx/bbzweLBYlC3cVV1tu6sZh5GQWZykZagexB60GNmP1zcxnXkbCTazhiGZBGIHEQ/l5Ds5/b65O6JHPFNH1B+l0ZQC/zv93e/5gB0zDTMSpg==;5w3fRmRofs4q5IP0yjK6dA=="
+secured: "MW3KKdSxR0IBa8E79vvBFhCKkvbN2xllrvmLA9wuk8S6aa7UEjA787/k2fuueYC3bfiB3OddzKzcHsnpt3443LATUXtVEhBu1r4RyJUvEev914qHLP7A8aOKmfkmQgaF/mNoZh/fXf/R405IqTF6bn0HbJfT5wm2jU1iAqFmMDD0KXHeFAAiuIp6BNJ1LQBrw/cxv8QEfvmbpP0pC4bEbjzDg9f5qRMuJvW3lt2nIMqqAAXQ0+H3KLsB41qj+L1dR3vEE74SYjgTzwsR/bCh0iYov1V+iGdYq1+/6KDvx+KwRjelQdKcwOeJ1Sds0H4A7PH1+o4nh6xkBy6AyLuETXSxi2vqb7io6bg2tbw9na8=;+5cSXb7EDDGQo4xbWOHrdQ=="
 ---
 

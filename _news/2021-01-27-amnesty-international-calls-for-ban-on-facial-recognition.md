@@ -219,17 +219,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 48
-  - title: "Capitol riot boosts facial recognition app"
-    excerpt: "A facial recognition app saw a large increase in use the day after rioters stormed the U.S. Capitol building in Washington, D.C. Source by: Stringr"
-    publishedDateTime: 2021-01-25T22:15:00Z
-    webUrl: "https://omaha.com/news/national/capitol-riot-boosts-facial-recognition-app/video_9ca5b88f-7e20-5e03-ab79-fa237383edb0.html"
-    ampWebUrl: "https://omaha.com/news/national/capitol-riot-boosts-facial-recognition-app/video_9ca5b88f-7e20-5e03-ab79-fa237383edb0.amp.html"
-    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/national/capitol-riot-boosts-facial-recognition-app/video_9ca5b88f-7e20-5e03-ab79-fa237383edb0.amp.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 39
   - title: "Expand the School Ban, End the Use of Facial Recognition in New York"
     excerpt: "An NYPD command center (photo: Michael Appleton/Mayor's Office) Schools are safe, but the rest of New York is at risk. This is the reality of facial recognition in the Empire State, where facial recognition is now illegal in schools,"
     publishedDateTime: 2021-01-26T03:24:00Z
@@ -377,6 +366,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing-1024x662.jpeg"
         width: 1024
         height: 662
+        isCached: true
+  - title: "Consumer Confidential: Millions of faces scanned without approval. We need rules for facial recognition"
+    excerpt: "The powers that be at UCLA thought it was a good idea at the time — using state-of-the-art technology to scan students' faces for gaining access to campus buildings. Students"
+    publishedDateTime: 2021-01-29T19:42:00Z
+    webUrl: "https://omaha.com/business/consumer/consumer-confidential-millions-of-faces-scanned-without-approval-we-need-rules-for-facial-recognition/article_06c01cef-019f-5719-94f7-730a4a5c9153.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 23
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Jordanian AI team bags second place in international competition"
     excerpt: "Jordan’s Robotna team, the LETA Robot, won second place in Codeavour 2020 AI, an international Artificial Intelligence (AI) and coding competition, organised by STEMpedia.Robotna is a social startup that gears towards strengthening skills of creative thinking,"

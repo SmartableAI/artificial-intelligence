@@ -55,34 +55,6 @@ related:
         width: 730
         height: 499
         isCached: true
-  - title: "Apple Adapts Biometric Tech to Face Masks in New Patent"
-    excerpt: "Apple has received a patent for a new facial recognition system that could potentially be used to help identify covered faces"
-    publishedDateTime: 2021-01-25T21:42:00Z
-    webUrl: "https://mobileidworld.com/apple-adapts-biometric-tech-face-masks-new-patent-71202102/"
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 24
-    images:
-      - url: "https://mobileidworld.com/wp-content/uploads/face.jpeg"
-        width: 359
-        height: 400
-        isCached: true
-  - title: "T-Money trials face biometrics for contactless payments to public transportation"
-    excerpt: "T-Money operator Korea Smart Card will evaluate the speed of payment using the facial recognition system, and then look at ways of better commercializing it."
-    publishedDateTime: 2021-01-25T21:42:00Z
-    webUrl: "https://www.biometricupdate.com/202101/t-money-trials-face-biometrics-for-contactless-payments-to-public-transportation"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 19
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/01/25160527/t-money-facial-recognition-payment-1024x662.jpg"
-        width: 1024
-        height: 662
-        isCached: true
 
 secured: "7yeS4pkA7aD2S630xoDkrwwZvdINeSxcIn2NSAzq9hyilhHVAAGwFy2oyb2vtt+1hF3TlRJn9jWJMzJmmFkk49cMh2Fiyhvvv3Rsb8l1qfY+q7NoXYJVPPPiKXidfAn+DAqKvzgZUE+uGSdYXJbdAo3yTFlZOy6tU74dDPIjodMvGASnjfgVoKha7iLJGRf7x0JWbwwpsU50FTgbleQiRzuTj1FsJ61RAHRvaLC3vGnu5RzZA5w81qaDlzzewwAOB/1aeIpvtgHov2/SpQubt3V3CoqOyZo9RMTrwM5nTTBC4PqaIKExHDKZ4ddZ8eufjhbEp6izM8GT1Kw6jy+8j+LlkNqaf8J8qHtxWF2Sh9FFXQGGprMNUHVeFBuCdFW0WQLJKaCKgHmm/DZ/QyjbgimnmVQPES5alCZ0UNeWavO0NN0csoyb2CmbWWj0dCdN1Qf6JY84Rsar2CIYvwXh3kVKwBYHzqIktWgwMmD5FfDX2kYGGqIrlR1v2vG56tNwBfCzDAZ6JgbX0sntmibVag==;Z7h9Cfc4FqjBd3ZI31xICQ=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.hotcars.com/hyundais-dal-e-robot-helps-showroom-customer
 cdnAmpWebUrl: "https://www-hotcars-com.cdn.ampproject.org/c/s/www.hotcars.com/hyundais-dal-e-robot-helps-showroom-customers-socially-distance-without-wearing-a-mask/amp/"
 type: article
 quality: 65
-heat: -1
-published: false
+heat: 105
+published: true
 
 provider:
   name: hotcars
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Hyundai DAL-E Is A Robot Salesperson For A Covid World"
-    excerpt: "Some automakers are offering contactless drop-off services, but Hyundai is going all-in with a robot approach."
-    publishedDateTime: 2021-01-25T22:15:00Z
-    webUrl: "https://www.forbes.com/sites/sebastianblanco/2021/01/25/hyundai-dal-e-is-a-robot-salesperson-for-a-covid-world/"
-    ampWebUrl: "https://www.forbes.com/sites/sebastianblanco/2021/01/25/hyundai-dal-e-is-a-robot-salesperson-for-a-covid-world/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sebastianblanco/2021/01/25/hyundai-dal-e-is-a-robot-salesperson-for-a-covid-world/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600f3a54417b9cd2875689f2%2F0x0.jpg"
-        width: 1200
-        height: 761
-        isCached: true
   - title: "Hyundai launches humanoid robot ‘DAL-e’ for customer service"
     excerpt: "Hyundai Motor Group has launched the humanoid “DAL-e”, which it describes as a “highly advanced customer service robot” that independently communicates with people using precise recognition"
     publishedDateTime: 2021-01-26T09:55:00Z
@@ -56,20 +40,6 @@ related:
       - url: "https://roboticsandautomationnews.com/wp-content/uploads/2021/01/hyundai-humanoid-1.jpg"
         width: 800
         height: 533
-        isCached: true
-  - title: "Hyundai’s humanoid robot could change car dealer service as we know it"
-    excerpt: "DAL-e, whose name stands for “Drive you, Assist you, Link with you-experience”, was designed to kick-start the future of automated customer services for Hyundai. To achieve this, the robot is equipped with state-of-the-art artificial intelligence ..."
-    publishedDateTime: 2021-01-26T08:57:00Z
-    webUrl: "https://www.iol.co.za/motoring/industry-news/hyundais-humanoid-robot-could-change-car-dealer-service-as-we-know-it-fcd4cc17-fac9-48f8-9ec2-8148506b2a32"
-    type: article
-    provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 54
-    images:
-      - url: "https://image-prod.iol.co.za/resize/1600x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/60242d97-b780-57b6-9823-173f5219e983&operation=CROP&offset=0x70&resize=1600x900"
-        width: 651
-        height: 366
         isCached: true
   - title: "Wake Up Humans, The Robots Are Coming: Meet Hyundai’s DAL-e AI Customer Service Robot"
     excerpt: "Hyundai Motor Group has just launched a humanoid customer service robot called “DAL-e”. It’s a highly advanced machine designed to communicates with people using precise recognition capabilities and mobility function."
@@ -96,15 +66,15 @@ related:
         width: 500
         height: 265
         isCached: true
-  - title: "Icovid’s AI COVID-10 lung scan goes viral in Europe"
-    excerpt: "Belgium’s Icovid initiative, which looks for ways to utilize AI to support radiologists in the assessment of CT images of the lungs of Covid-19 patients, is getting a lot of attention as it spreads across Europe."
-    publishedDateTime: 2021-01-27T13:23:00Z
-    webUrl: "https://bits-chips.nl/artikel/icovids-ai-covid-10-lung-scan-goes-viral-in-europe/"
+  - title: "Robot to take over customer service tasks in the Hyundai Motor showroom"
+    excerpt: "To automate customer service tasks in the midst of a global pandemic, Hyundai Motor Group has debuted an advanced humanoid customer service robot at its showroom in Seoul, South Korea. The DAL-e, which stands for “Drive you,"
+    publishedDateTime: 2021-01-28T05:13:00Z
+    webUrl: "https://insights.globalspec.com/article/15854/robot-to-take-over-customer-service-tasks-in-the-hyundai-motor-showroom"
     type: article
     provider:
-      name: Bits&Chips
-      domain: bits-chips.nl
-    quality: 19
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 34
 
 secured: "Xshe5dRwlTZeWYUwGkx6SYiIjnczcVcklKzsx/Poc9dhm5oT/3mJPUPzBfZr7Duv3AMbeCAeb260XO32xm9juWSN9Jw/QkHRVr3tpQr/65kaXlPEaCO4iAJrIohjQet2wrnIWuJqfw0s6EQviWV0O393VFvyHkvmOtUbBosTmVFieOPIQ+uUidhOA0R2QEz6QvJw9W7DhiCkq5ne4uEvBkC/JyBV1BW25cJJO3Fkq2kPaexiodi6MHmjfzRcOAzTQ7xRczGLdO5aaBzIxVNtwkhHvS67ZGHGdAZPv3E1SmqS2b+v0szqs05KOzBhUM56eEiNKjz5HV3Iisp1LwdNioiMqrhfPKnKZrJNb8zjjrbKyOgSQQozBKDDzRXAlr1BEK9GzOIRXFGyecVSGpSPhoEnHqEnJ/iWF1GZkKjkN8xu3Ve21b+aBD9OvndOC8cT0as9e3ImlWKOhwGyT/J1CR7WDlhdcy75hbiqmHehqY0JbX9Y8Wqda3uVa2uYNrtsUKIt8y9MSBJJpuvoI5dLzQ==;v/SwkKNl16DWLa8xDrKQ4g=="
 ---

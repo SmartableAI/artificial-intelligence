@@ -246,58 +246,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-30-softbanks-son-expects-mass-production-of-driverless-cars-in-2-years.md",
-      "title": "SoftBank's Son expects mass production of driverless cars in 2 years",
-      "excerpt": "SoftBank Group Corp Chief Executive Masayoshi Son said on Friday he expects mass production of self-driving vehicles to start in two years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/davos-meeting-son-autonomous/softbanks-son-expects-mass-production-of-driverless-cars-in-2-years-idUSL1N2K41Y9",
-      "originalUrl": "https://www.reuters.com/article/davos-meeting-son-autonomous/softbanks-son-expects-mass-production-of-driverless-cars-in-2-years-idUSL1N2K41Y9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210129&t=2&i=1549571164&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0S194",
-          "width": 829,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2K41Y9",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2K41Y9",
-      "publishedDateTime": "2021-01-29T12:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-30-patrick-j-mcgovern-foundation-invests-in-ai-for-public-good.md",
       "title": "Patrick J. McGovern Foundation invests in AI for public good",
       "excerpt": "Organization pledges $40 million for initiatives to help nonprofits and NGOs benefit from data science and to foster the responsible and inclusive use of data and AI.",
@@ -660,7 +608,7 @@
       "originalUrl": "https://www.computerweekly.com/news/252495597/Biometrics-ethics-group-address-public-private-use-of-facial-recognition",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -993,11 +941,11 @@
       "title": "US, China or Europe? Here's who is really winning the global race for AI",
       "excerpt": "A new report shows that in the ever-more competitive race for AI, the US has a strong lead that China is catching up with, while the EU is falling behind little by little.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai/",
+      "webUrl": "https://www.zdnet.com/article/us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai/",
+      "originalUrl": "https://www.zdnet.com/article/us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -1011,8 +959,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai/",
       "publishedDateTime": "2021-01-29T04:11:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -1217,6 +1165,49 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-new-machine-learning-model-predicts-covid-19-severity.md",
+      "title": "New machine learning model predicts COVID-19 severity",
+      "excerpt": "COVID-19 vaccine distribution has begun across the globe, while many countries are still struggling with the rampant rise of infections.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20210128/New-machine-learning-model-predicts-COVID-19-severity.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20210128/New-machine-learning-model-predicts-COVID-19-severity.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/1/CT_machine_is_prepared_for_the_patient_shooting-sfam_photo_698c003ae3d54b69bf4c077708d403e4-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20210128/New-machine-learning-model-predicts-COVID-19-severity.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210128/New-machine-learning-model-predicts-COVID-19-severity.aspx",
+      "publishedDateTime": "2021-01-28T20:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }

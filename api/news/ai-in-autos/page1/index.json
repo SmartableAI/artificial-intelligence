@@ -2,110 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-01-30-softbanks-son-expects-mass-production-of-driverless-cars-in-2-years.md",
-      "title": "SoftBank's Son expects mass production of driverless cars in 2 years",
-      "excerpt": "SoftBank Group Corp Chief Executive Masayoshi Son said on Friday he expects mass production of self-driving vehicles to start in two years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/davos-meeting-son-autonomous/softbanks-son-expects-mass-production-of-driverless-cars-in-2-years-idUSL1N2K41Y9",
-      "originalUrl": "https://www.reuters.com/article/davos-meeting-son-autonomous/softbanks-son-expects-mass-production-of-driverless-cars-in-2-years-idUSL1N2K41Y9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210129&t=2&i=1549571164&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0S194",
-          "width": 829,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2K41Y9",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2K41Y9",
-      "publishedDateTime": "2021-01-29T12:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-baidu-gets-california-nod-for-testing-empty-self-driving-cars.md",
-      "title": "Baidu gets California nod for testing empty self-driving cars",
-      "excerpt": "Baidu Inc has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor Vehicles said on Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-baidu-autonomous-idUSKBN29W2OT",
-      "originalUrl": "https://www.reuters.com/article/us-baidu-autonomous-idUSKBN29W2OT",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210127&t=2&i=1549286737&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0Q1KU",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29W2OT",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29W2OT",
-      "publishedDateTime": "2021-01-27T18:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-28-tesla-had-talks-with-other-automakers-about-licensing-its-self-driving-software-elon-musk-says.md",
       "title": "Tesla had talks with other automakers about licensing its self-driving software, Elon Musk says",
       "excerpt": "Tesla had “preliminary” discussions with other automakers about licensing its self-driving software, according to new comments by CEO Elon Musk. Tesla Licensing Software Today, Tesla released its Q4 2020 financial results and following the release,",
@@ -158,6 +54,49 @@
       ]
     },
     {
+      "path": "_news/2021-01-28-baidu-is-the-sixth-company-approved-to-test-fully-driverless-cars-in-california.md",
+      "title": "Baidu is the sixth company approved to test fully driverless cars in California",
+      "excerpt": "Baidu has gotten the green light to test fully autonomous vehicles on public roads in California. While Baidu has had permission from California regulators to test autonomous vehicles with safety drivers since 2016,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2021/1/27/22252944/baidu-driverless-cars-test-permit-california-dmv",
+      "originalUrl": "https://www.msn.com/en-us/finance/other/baidu-is-the-sixth-company-approved-to-test-fully-driverless-cars-in-california/ar-BB1d9fg2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 290,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/S95q_iD3ihUt3noy9_u01hZfVBA=/0x0:950x633/1400x933/filters:focal(399x241:551x393):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68730144/baidu.0.jpeg",
+          "width": 950,
+          "height": 633,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/1/27/22252944/baidu-driverless-cars-test-permit-california-dmv",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/1/27/22252944/baidu-driverless-cars-test-permit-california-dmv",
+      "publishedDateTime": "2021-01-27T13:09:49-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theverge.com/2021/1/27/22252944/baidu-driverless-cars-test-permit-california-dmv",
+        "domain": "theverge.com/2021/1/27/22252944/baidu-driverless-cars-test-permit-california-dmv",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-01-27-tesla-will-never-achieve-full-self-driving-capabilities-waymo-ceo-says.md",
       "title": "Tesla will never achieve full self-driving capabilities, Waymo CEO says",
       "excerpt": "John Krafcik called Tesla's approach a \"misconception,\" while Google's sister company tackles lidar and more advanced systems.",
@@ -166,7 +105,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/tesla-will-never-achieve-full-self-driving-capabilities-says-waymo-ceo/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -1484,6 +1423,49 @@
       "provider": {
         "name": "The Financial Times",
         "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-15-full-autonomous-self-driving-teslas-in-vegas-boring-tunnels-by-the-end-of-2021.md",
+      "title": "Full Autonomous Self Driving Teslas in Vegas Boring Tunnels by the End of 2021",
+      "excerpt": "The LVCVA board approved $6.25 million to Boring to operate the mile-long convention center system from Feb. 1 through June 30, 2022. At no cost, authorized access to Boring to dig tunnels connecting",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextbigfuture.com/2021/01/full-autonomous-self-driving-teslas-in-vegas-boring-tunnels-by-the-end-of-2021.html",
+      "originalUrl": "https://www.nextbigfuture.com/2021/01/full-autonomous-self-driving-teslas-in-vegas-boring-tunnels-by-the-end-of-2021.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nextbigfuture.com/wp-content/uploads/2019/12/fsdchip-1024x512.jpeg",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextbigfuture.com/2021/01/full-autonomous-self-driving-teslas-in-vegas-boring-tunnels-by-the-end-of-2021.html?amp",
+      "cdnAmpWebUrl": "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/01/full-autonomous-self-driving-teslas-in-vegas-boring-tunnels-by-the-end-of-2021.html?amp",
+      "publishedDateTime": "2021-01-14T11:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NextBigFuture",
+        "domain": "nextbigfuture.com",
         "images": null,
         "publishers": null,
         "authors": null

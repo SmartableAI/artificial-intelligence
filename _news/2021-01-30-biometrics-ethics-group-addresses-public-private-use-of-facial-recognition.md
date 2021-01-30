@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerweekly.com/news/252495597/Biometrics-ethics-grou
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252495597/Biometrics-ethics-group-address-public-private-use-of-facial-recognition?amp=1"
 type: article
 quality: 74
-heat: 114
+heat: 94
 published: true
 
 provider:
@@ -41,34 +41,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
         width: 730
         height: 499
-        isCached: true
-  - title: "Apple Adapts Biometric Tech to Face Masks in New Patent"
-    excerpt: "Apple has received a patent for a new facial recognition system that could potentially be used to help identify covered faces"
-    publishedDateTime: 2021-01-25T21:42:00Z
-    webUrl: "https://mobileidworld.com/apple-adapts-biometric-tech-face-masks-new-patent-71202102/"
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 24
-    images:
-      - url: "https://mobileidworld.com/wp-content/uploads/face.jpeg"
-        width: 359
-        height: 400
-        isCached: true
-  - title: "T-Money trials face biometrics for contactless payments to public transportation"
-    excerpt: "T-Money operator Korea Smart Card will evaluate the speed of payment using the facial recognition system, and then look at ways of better commercializing it."
-    publishedDateTime: 2021-01-25T21:42:00Z
-    webUrl: "https://www.biometricupdate.com/202101/t-money-trials-face-biometrics-for-contactless-payments-to-public-transportation"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 19
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/01/25160527/t-money-facial-recognition-payment-1024x662.jpg"
-        width: 1024
-        height: 662
         isCached: true
   - title: "ID R&D voice biometrics extend WhatsApp for Business capabilities with new partnership"
     excerpt: "ID R&D has launched in-app voice biometric authentication to WhatsApp for Business in collaboration with partner Wittybots by SimpleTech."

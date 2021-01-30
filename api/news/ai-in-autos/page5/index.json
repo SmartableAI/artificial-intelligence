@@ -2,49 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2020-12-24-tesla-to-offer-full-self-driving-as-a-subscription.md",
-      "title": "Tesla To Offer Full Self-Driving As A Subscription",
-      "excerpt": "Tesla has confirmed that its full-self driving software suite will be offered to customers as a subscription. In recent months, the automaker’s Full-Self Driving beta has been rolled out to a number of customers for testing but Elon Musk does want to see this testing program grow.",
-      "sourceUrl": null,
-      "webUrl": "https://www.carscoops.com/2020/12/tesla-to-offer-full-self-driving-as-a-subscription/",
-      "originalUrl": "https://www.carscoops.com/2020/12/tesla-to-offer-full-self-driving-as-a-subscription/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.carscoops.com/wp-content/uploads/2019/06/1b9f05e6-tesla-autopilot-00-1024x555.jpg",
-          "width": 1024,
-          "height": 555,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.carscoops.com/2020/12/tesla-to-offer-full-self-driving-as-a-subscription/amp/",
-      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2020/12/tesla-to-offer-full-self-driving-as-a-subscription/amp/",
-      "publishedDateTime": "2020-12-23T08:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Carscoops",
-        "domain": "carscoops.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-23-5-self-driving-car-stocks-with-the-most-potential-moving-into-2021.md",
       "title": "5 Self-Driving Car Stocks With the Most Potential Moving Into 2021",
       "excerpt": "Investors seeking exposure to the driverless car revolution now have the option of choosing from a variety of self-driving car stocks. Several companies are racing to get the first fully ...",
@@ -1371,6 +1328,49 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-chinese-search-engine-baidu-considers-making-electric-cars-in-talks-with-geely-hongqi-others.md",
+      "title": "Chinese search-engine Baidu considers making electric cars: In talks with Geely, Hongqi, others",
+      "excerpt": "tech giant Sony Corp in January unveiled an electric concept car with self-driving functions. Building cars would represent a dramatic development in Baidu’s push to diversify income streams as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/auto/electric-vehicles/chinese-search-engine-baidu-considers-making-electric-cars-in-talks-with-geely-hongqi-others/2150551/",
+      "originalUrl": "https://www.financialexpress.com/auto/electric-vehicles/chinese-search-engine-baidu-considers-making-electric-cars-in-talks-with-geely-hongqi-others/2150551/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.financialexpress.com/2020/12/baidu-electric-cars.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/auto/electric-vehicles/chinese-search-engine-baidu-considers-making-electric-cars-in-talks-with-geely-hongqi-others/2150551/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/auto/electric-vehicles/chinese-search-engine-baidu-considers-making-electric-cars-in-talks-with-geely-hongqi-others/2150551/lite/",
+      "publishedDateTime": "2020-12-15T22:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
         "images": null,
         "publishers": null,
         "authors": null

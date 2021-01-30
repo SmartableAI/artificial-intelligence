@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29W2OT"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29W2OT"
 type: article
 quality: 89
-heat: 189
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Baidu is the sixth company approved to test fully driverless cars in California"
+    excerpt: "Baidu has gotten the green light to test fully autonomous vehicles on public roads in California. While Baidu has had permission from California regulators to test autonomous vehicles with safety drivers since 2016,"
+    publishedDateTime: 2021-01-27T21:09:49Z
+    webUrl: "https://www.theverge.com/2021/1/27/22252944/baidu-driverless-cars-test-permit-california-dmv"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2021/1/27/22252944/baidu-driverless-cars-test-permit-california-dmv"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/1/27/22252944/baidu-driverless-cars-test-permit-california-dmv"
+    type: article
+    provider:
+      name: theverge.com/2021/1/27/22252944/baidu-driverless-cars-test-permit-california-dmv
+      domain: theverge.com/2021/1/27/22252944/baidu-driverless-cars-test-permit-california-dmv
+    quality: 170
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/S95q_iD3ihUt3noy9_u01hZfVBA=/0x0:950x633/1400x933/filters:focal(399x241:551x393):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68730144/baidu.0.jpeg"
+        width: 950
+        height: 633
+        isCached: true
   - title: "UPDATE 1-Baidu gets California nod for testing empty self-driving cars"
     excerpt: "Baidu Inc has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor Vehicles said on Wednesday."
     publishedDateTime: 2021-01-28T02:37:00Z
@@ -45,6 +61,38 @@ related:
     images:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210127&t=2&i=1549286737&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0Q1KU"
         width: 817
+        height: 545
+        isCached: true
+  - title: "SoftBank's Son expects mass production of driverless cars in 2 years"
+    excerpt: "SoftBank Group Corp Chief Executive Masayoshi Son said on Friday he expects mass production of self-driving vehicles to start in two years."
+    publishedDateTime: 2021-01-29T20:50:00Z
+    webUrl: "https://www.reuters.com/article/davos-meeting-son-autonomous/softbanks-son-expects-mass-production-of-driverless-cars-in-2-years-idUSL1N2K41Y9"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2K41Y9"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2K41Y9"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210129&t=2&i=1549571164&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0S194"
+        width: 829
+        height: 545
+        isCached: true
+  - title: "SoftBank's Son expects mass production of driverless cars in two years"
+    excerpt: "SoftBank Group Corp Chief Executive Masayoshi Son said on Friday he expects mass production of self-driving vehicles to start in two years."
+    publishedDateTime: 2021-01-29T21:00:00Z
+    webUrl: "https://www.reuters.com/article/ctech-us-davos-meeting-son-autonomous-idCAKBN29Y279-OCATC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN29Y279-OCATC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN29Y279-OCATC"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210129&t=2&i=1549571164&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0S194"
+        width: 829
         height: 545
         isCached: true
   - title: "Baidu gets California nod for testing driverless vehicles"
@@ -164,20 +212,6 @@ related:
       - url: "https://www.claimsjournal.com/img/claims-journal-logo-640.png"
         width: 640
         height: 300
-        isCached: true
-  - title: "California-Based FinTech Provider Empaxis Expands, Announces New India Location"
-    excerpt: "Empaxis Data Management, a cloud-based financial technology and middle-and back-office services provider for investment management firms, has announced the opening of a new office in Kolkata (formerly Calcutta),"
-    publishedDateTime: 2021-01-26T15:22:00Z
-    webUrl: "https://www.lelezard.com/en/news-19617447.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 20
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
         isCached: true
 
 secured: "AoFWtteATI+zJxNwTsnS70tUqpSPzp5x/YInkgiVRk5kIbEpC4VLlB4QaFRMliHx8cnG5CQcsLoBddJ4plVzCDo7mMv0fYw5T9KC609QtQtrJaNpXYqKlxbrdS/zjeC+M4W6/V2rpfWvThI42QUWxFdTl9fi4wMOx4ym8TVbj4136WhIDEe9XcFKx1JEaiErtdhVKsC8vMTruZIIDdwpMteiHq6vGfcCuOZV03xyN6Xy3kJhYmBf5VQzjfwn6Qh1I5ZiFsIHmFzJgloLbHet7A5p66JwURpx/karpqGZ77XdWoCVxXZZi1SYYX2uGoPazrVP2FnhJFq13C/YfcAl3sfsHiAmjxtQ16QkWJbc09bTEqkwJj39Jld5spCr5saLNwb+dARWseBcPeus67Mzk6FvAUNNzH3aqeg2DjiXanbgvH/WhGBdophxbzpgM1D76vW7uOdEuIK0v6ACjSIJX73BnWDCB0Gj1lLVRzmcBk55rdmsYD0H+Cqh09QbDPYZHqBKvEjw+wE9Bh8Uch3kmg==;WmbMjf33eQe4gFHK2AM4nQ=="
