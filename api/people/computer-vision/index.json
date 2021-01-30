@@ -4,52 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_people/yann-lecun.md",
-      "title": "Yann LeCun",
-      "excerpt": "Yann LeCun is a French-American computer scientist working primarily in the fields of machine learning, computer vision, mobile robotics, and computational neuroscience.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/yann-lecun/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/people/yann-lecun/",
-      "type": "profile",
-      "name": "Yann LeCun",
-      "bio": "Yann LeCun is a French-American computer scientist working primarily in the fields of machine learning, computer vision, mobile robotics, and computational neuroscience.",
-      "location": "New York",
-      "website": "http://yann.lecun.com/",
-      "twitter": {
-        "username": "ylecun",
-        "url": "https://twitter.com/ylecun",
-        "followers": 242191
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=WLN3QrAAAAAJ",
-        "citations": 182811
-      },
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Yann_LeCun"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "New York University",
-        "domain": "nyu.edu"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Computer Vision",
-        "AI in Robotics"
-      ],
-      "heat": 299,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/2387565623/7gew8nz1z7ik1ch148so_400x400.jpeg",
-          "width": 400,
-          "height": 400,
-          "title": "Yann LeCun",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_people/fei-fei-li.md",
       "title": "Fei-Fei Li",
       "excerpt": "Prof (CS @Stanford), Co-Director Stanford Human-Centered AI Institute @StanfordHAI, CoFounder/Chair @ai4allorg, Researcher #AI #computervision #ML AI+healthcare",
@@ -63,7 +17,7 @@
       "twitter": {
         "username": "drfeifei",
         "url": "https://twitter.com/drfeifei",
-        "followers": 376744
+        "followers": 376738
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=rDfyQnIAAAAJ",
@@ -97,13 +51,59 @@
         "Computer Vision",
         "AI in Healthcare"
       ],
-      "heat": 279,
+      "heat": 268,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/841385099799085056/R1iX4QGX_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Fei-Fei Li",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/yann-lecun.md",
+      "title": "Yann LeCun",
+      "excerpt": "Yann LeCun is a French-American computer scientist working primarily in the fields of machine learning, computer vision, mobile robotics, and computational neuroscience.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/yann-lecun/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/people/yann-lecun/",
+      "type": "profile",
+      "name": "Yann LeCun",
+      "bio": "Yann LeCun is a French-American computer scientist working primarily in the fields of machine learning, computer vision, mobile robotics, and computational neuroscience.",
+      "location": "New York",
+      "website": "http://yann.lecun.com/",
+      "twitter": {
+        "username": "ylecun",
+        "url": "https://twitter.com/ylecun",
+        "followers": 242194
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=WLN3QrAAAAAJ",
+        "citations": 183141
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Yann_LeCun"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "New York University",
+        "domain": "nyu.edu"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Computer Vision",
+        "AI in Robotics"
+      ],
+      "heat": 239,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/2387565623/7gew8nz1z7ik1ch148so_400x400.jpeg",
+          "width": 400,
+          "height": 400,
+          "title": "Yann LeCun",
           "isCached": true
         }
       ],
@@ -123,7 +123,7 @@
       "twitter": {
         "username": "alexandr_wang",
         "url": "https://twitter.com/alexandr_wang",
-        "followers": 11718
+        "followers": 11721
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/alexandrwang/"
@@ -139,7 +139,7 @@
         "Computer Vision",
         "AI in Autos"
       ],
-      "heat": 160,
+      "heat": 138,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/775445981034795008/R3D5PQLN_400x400.jpg",
@@ -310,7 +310,7 @@
       "twitter": {
         "username": "harryshum",
         "url": "https://twitter.com/harryshum",
-        "followers": 17555
+        "followers": 17556
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=9akH-n8AAAAJ",
@@ -337,7 +337,7 @@
         "Microsoft AI",
         "Computer Vision"
       ],
-      "heat": 41,
+      "heat": 42,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/473379244840480769/Y4YeRso7_400x400.png",

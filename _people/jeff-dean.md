@@ -20,11 +20,11 @@ website: https://t.co/ajoSG5g4Rn
 twitter:
   username: jeffdean
   url: https://twitter.com/jeffdean
-  followers: 185273
+  followers: 185266
 
 googleScholar:
   url: https://scholar.google.com/citations?user=NMS69lQAAAAJ
-  citations: 167584
+  citations: 167884
 
 topics:
   - AI
@@ -37,6 +37,6 @@ images:
     isCached: true
     title: "Jeff Dean"
 
-secured: "10caS9pmtwovkBI1X2DTjoMM0QTzYmGAynCBiWTEcnapToxeyMBXQXmMuN3a863R93FpdAEulGxGkwbgeNftnEJc6gzvj0uuLVTvyDGaU6kX/zf1DemU+O61jwHgQJxZ5OTCPFiB/7GEq1T1hroiZXwPQltO93GQQkzgTV8NVMhZP6OcrckCwwfKXao93xGLkQz5ut/elpRrMaN1BWqAQUIDd7Po5wULooTJzUM6BpHd7l9S3isG0A7JrAtkefp2soFlOjoqKpLCcXK39Y4b4KdHYbr8GFSn6fJs66QBgN5Q5BamDAwub4u9nEXoZvBSvTcnqmIZvYDMb0/Vl0pF3Ip+fQsfsxP/zLcltY76qewSKqPXeU1H2ggf9zQEzuKLBdyygrfFhtr7w8ivO5l/z8+P55xOmiYWkxiwQqvEWlk=;ylrjojHHSpPsWLwamNxEtA=="
+secured: "6SQ6uIMtg7PR8eoXlLlnmh1UR3SjzPEkCcfboi5nRSyGioPc0hj4et483VNm1MOVOj3PPgIv9wreXd71KeznmS/QnN4OdoUT9Kmuz10JdftGMLynZvpgX+fuwaDbM61e+7Aaq1Ng6CO2nxi8uZ4f2A19WQrcVFreR7PiCJqUAAADl23wDKl267KwbUboKfxxE/W1Q6E909BaYxnJl1x/NI4bag3PMyjuwN6NA2GdYSpCvOJDeHL/deiIjt2z0dtQFQWGKEEoFLAfLc9ey6Bk/0ztdYlWe4GLV5nS8w4I4p33iG1mFbxQ62gzHUX3dAfYGIa5LiQWBr5eZ5hpVM7g6uhuiz9Vxn+1KChVHH9lYa2L4li2t2d7mkeDnJVUQs7n0BTYBjfajOAvPnJycRBOI0sMDJqFJTX2mCks+oxIk8M=;ARb/RirArOkRCyh9bsp21g=="
 ---
 
