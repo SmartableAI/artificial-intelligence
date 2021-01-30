@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Academy of Robotics Extends Its Autonomous Delivery Trials Programme to Surrey"
-excerpt: "Academy of Robotics is expanding its human-contact free delivery programme using its Kar-go delivery bot with a further trial beginning in Surrey in February. Surrey is the second region in the UK to witness Britain’s first custom-built autonomous delivery vehicle driving on the county’s roads after road trials began in November 2020 in Hounslow,"
-publishedDateTime: 2021-01-30T06:23:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-europe-driverless-cars-united-kingdom-robotics-1ad2ffdbd33844988cb6b3f91754a007"
-webUrl: "https://apnews.com/press-release/business-wire/technology-europe-driverless-cars-united-kingdom-robotics-1ad2ffdbd33844988cb6b3f91754a007"
+excerpt: "Academy of Robotics expands road trials for its self-driving delivery vehicle, Kar-go. Kar-go will begin supporting local businesses in Surrey."
+publishedDateTime: 2021-01-30T07:35:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210129005438/en/Academy-of-Robotics-Extends-Its-Autonomous-Delivery-Trials-Programme-to-Surrey"
+webUrl: "https://www.businesswire.com/news/home/20210129005438/en/Academy-of-Robotics-Extends-Its-Autonomous-Delivery-Trials-Programme-to-Surrey"
 type: article
-quality: 50
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Robotics
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Academic City University College launches BSc Robotics Engineering Programme"
@@ -56,6 +50,6 @@ related:
         height: 826
         isCached: true
 
-secured: "oqZAIW3nsrcjTjtsUSrzOl+HFA19tAZgmUzFmwbiLJxKLivy1x6pdsfdCScyuYVFLjdpkfOPL3JZNj0C5YV6vtbLRYCjBBT9x229KtGpqOgFzF+wypk5NCDGoylA98XBGtCLL/1znrqgosEY8ht7TNN2rmTdXVskT1Z4tOgWcmjDZD0T6R4rN42R6l+VbysVeWMmFXcVYoytP5G0IgAz3OytQwu+C9HeWwT0hahCCcJqttadGLigzqI8xoe//YyMqjbv1rOA2ZC+vhydvXa4wYa2oBSMqX9aRZNLHCkhPFX923shW+YZy+f4PtlvynBYnhrZCqetCdHQFTOE+1Pn3kRcGTreYoFMbRl/+4SMFjY=;4pIbBbF6qLqPVRcQZ4npCw=="
+secured: "jzHP0txhX8oHUDAZmLv9/yoOmw/7ssrnPdR5SuRpTAYVP5aRpk/qInIV+0Q474HTFGgz7JvP3tJ3K9+Aa1PzVwJ4w3qzYM7nLxrWyGmev/m6raxH31dODv+IdHU0zA2ZwmjEP69zcj5jlEdR0d2LSRjJVXaZ+lZnOCdS3io+92tdvAag7Q2r/ymH67TENRONEfUZ9yHXpJydD1IfwqJAZUfyEIeZI5dR3vuZ1ChH1A5cirBCcPu0hyM3biY6dTvlOIycpQ4hL1mbZNmILKdU9huFK66oAIEY4bFYJ2m9Lt0RUhBxu+8t+7iD3RHQNoplYzCOkOlu4s8CFhAbB7MWDiUl7mxKbMJYoG0xFRqzC9BthaSmYZaM7CY3S1bW2buqlLBc84+ZBd9Lk96H5kEMu5iYXE25exG47gSyqPytki2CicKABy6kWoITHGaIGfZ/lyriXfBaDduME2SmhijsoucE9taTv35bbdZCoivU7wmMHgT2UvqwManP5ywXmjpg60jjMcMM4xfe/hBMBuhGdA==;1W3jhibVrFOWIW4O6zg22g=="
 ---
 

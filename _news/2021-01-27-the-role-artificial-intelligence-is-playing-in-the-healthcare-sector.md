@@ -9,7 +9,7 @@ ampWebUrl: "https://techbullion.com/the-role-artificial-intelligence-is-playing-
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/the-role-artificial-intelligence-is-playing-in-the-healthcare-sector/amp/"
 type: article
 quality: 74
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -82,20 +82,6 @@ related:
       - url: "https://www.moneyweb.co.za/wp-content/uploads/2014/10/Shopping-Shutterstock-4-1024x684.jpg"
         width: 1024
         height: 684
-        isCached: true
-  - title: "The Role AI Plays in Safeguarding Government Data"
-    excerpt: "Government agencies need to pivot to better filter and monitor incoming threats and data with velocity, efficiency and optimization."
-    publishedDateTime: 2021-01-25T18:11:00Z
-    webUrl: "https://www.nextgov.com/ideas/2021/01/role-ai-plays-safeguarding-government-data/171602/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 37
-    images:
-      - url: "https://cdn.nextgov.com/media/img/upload/2021/01/25/NGalert20210125/open-graph.jpg"
-        width: 400
-        height: 400
         isCached: true
   - title: "Sharecare acquires doc.ai to expand engineering expertise, accelerate digital transformation of healthcare through innovative AI platform"
     excerpt: "Sharecare, the digital health company that helps people manage all their health in one place, today announced it has entered into a definitive agreement to acquire doc.ai, an enterprise artificial intelligence (AI) platform accelerating digital transformation in healthcare."

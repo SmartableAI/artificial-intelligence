@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/renitakalhorn/2021/01/27/the-inner-game
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/renitakalhorn/2021/01/27/the-inner-game-of-ai-and-how-to-not-make-the-same-mistakes-you-made-with-digital-transformation/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How artificial intelligence will transform the future of dentistry"
-    excerpt: "The COVID-19 pandemic has disrupted life in all kinds of ways, which has caused damage in a myriad of areas – including our oral health. The past year has"
-    publishedDateTime: 2021-01-25T18:12:00Z
-    webUrl: "https://londonlovesbusiness.com/how-artificial-intelligence-will-transform-the-future-of-dentistry/"
-    type: article
-    provider:
-      name: londonlovesbusiness.com
-      domain: londonlovesbusiness.com
-    quality: 37
-    images:
-      - url: "https://londonlovesbusiness.com/wp-content/uploads/2020/02/Dentist.jpg"
-        width: 640
-        height: 426
-        isCached: true
   - title: "Rolls-Royce Germany is Undergoing Digital Transformation with Artificial Intelligence"
     excerpt: "Rolls-Royce Germany will be leveraging artificial intelligence (AI) in a new partnership with Altair for its engineering, testing, and design of aerospace engines to reduce and accelerate certification and design iterations,"
     publishedDateTime: 2021-01-25T20:59:00Z

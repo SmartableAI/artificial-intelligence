@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/managing-your-machin
 webUrl: "https://aws.amazon.com/blogs/machine-learning/managing-your-machine-learning-lifecycle-with-mlflow-and-amazon-sagemaker/"
 type: article
 quality: 120
-heat: 140
+heat: 130
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/01/08/ML-2183-1.jpg"
         width: 800
         height: 471
-        isCached: true
-  - title: "Building your own brand detection and visibility using Amazon SageMaker Ground Truth and Amazon Rekognition Custom Labels – Part 1: End-to-end solution"
-    excerpt: "According to Gartner, 58% of marketing leaders believe brand is a critical driver of buyer behavior for prospects, and 65% believe it’s a critical driver of buyer behavior for existing customers. Companies spend huge amounts of money on advertisement to raise brand visibility and awareness. In fact,"
-    publishedDateTime: 2021-01-25T18:58:09Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/part-1-end-to-end-solution-building-your-own-brand-detection-and-visibility-using-amazon-sagemaker-ground-truth-and-amazon-rekognition-custom-labels/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 81
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/01/12/ML-895-13.jpg"
-        width: 640
-        height: 356
         isCached: true
 
 secured: "w71BBQUO+AB5TOh2xVn04Pnl+29SirWDhOZsB4YAW1R1QUVxTUPTa5itbyEpht5OpuSmp4H1Cusqun3fVTzNPKaxXTnqNT4b7rFNOm97ILCngXUnxoeM3/MWW8H4iCMgD3fcBOp5XG3rr0rhAVYPnexxPS9Tdk2lplXSR7vTutxbcyXjkY7BAmn+oBajDsuP2hpktt+/0whVuYARNsWLn3wORjq4IBpAD1BRHkuL8z8xmhE6YBvFxWKubvCaHEk8G9pnluovF6rj3M2WqTzg3sq5D1D6xwYyKUNilEy0fTjmnMzi39J+mE6EzfvS/sPNTZROO2DR/cbRolFgpjUGQi08pIOJN/ZfrDJs+n4+Tvo=;3ryZ6SQTAOu4DVQVppmFTg=="

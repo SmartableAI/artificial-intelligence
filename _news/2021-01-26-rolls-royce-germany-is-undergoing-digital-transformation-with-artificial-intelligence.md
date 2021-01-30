@@ -40,20 +40,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "How artificial intelligence will transform the future of dentistry"
-    excerpt: "The COVID-19 pandemic has disrupted life in all kinds of ways, which has caused damage in a myriad of areas – including our oral health. The past year has"
-    publishedDateTime: 2021-01-25T18:12:00Z
-    webUrl: "https://londonlovesbusiness.com/how-artificial-intelligence-will-transform-the-future-of-dentistry/"
-    type: article
-    provider:
-      name: londonlovesbusiness.com
-      domain: londonlovesbusiness.com
-    quality: 37
-    images:
-      - url: "https://londonlovesbusiness.com/wp-content/uploads/2020/02/Dentist.jpg"
-        width: 640
-        height: 426
-        isCached: true
 
 secured: "eVUQxXquDHTY8G+kDTy7O7DT6AOOOtW4b7otMZTId402Dlc8gecR8ehJCvrRASnkZ8ILlK3NgWT+7/e1dhWMNnKKkB5Jgz2cq839YpcT1MrawW8N8WBZBx5LFKyyOhtA97Y3uo9VadyeGVxW16xy7On9zoEtYLDeHZK4cGNe5maKUbZ4MyB3hxFDNsEOwMm7SJjYeFfiAEOnsbZ6ixykD7zobjdVJX5rG8jVQbfjZRil/6Q4s9jiHgr0WH5m5yDRlHU/96+eZmbyyZHy+2vOoKRnuMt7AysjA/fvHaUpXMcjkn9gz/k2y4g4OHR53dos8W0Afr/iJuNTJ3BRGQo/2vo3wNQUoGB9eIb72b0azAPuvqHNE8R/xbo8Ie6vcnFfhoAFSPcMnczeYJx98J7ES0HJyOUVQ79TKn1Sk8qHAtTpCO11GGPI/CXkBLvzCLq27E7qYeR/rYLkX4K9yuw3gxZCJvdjXMoX52P/K1eSP+9zIfiM58rdi9m8AK6hwwTsJ29YoI6GBafFWqFqqBWefQ==;TuX20DlhATvCTJUivrZOnQ=="
 ---

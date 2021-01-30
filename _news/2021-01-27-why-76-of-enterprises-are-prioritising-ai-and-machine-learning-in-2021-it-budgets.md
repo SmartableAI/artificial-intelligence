@@ -55,20 +55,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Towards Broad AI & The Edge in 2021"
-    excerpt: "There are those who debate whether the new decade of the 2020s commenced on 1 Jan 2020 or 1 Jan 2021. Either way, one suspects that many around the world will hope that at some point during the course of 2021 the current year will mark a shift away from the events of 2020 and allow for a new start."
-    publishedDateTime: 2021-01-25T18:43:00Z
-    webUrl: "https://www.linkedin.com/pulse/ai-2021-new-start-edge-imtiaz-adam"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQEf3_85Gsh_4w/article-cover_image-shrink_600_2000/0/1611588179057?e=1617235200&v=beta&t=K5BLWv1aXs5S_NwXd_i7ewOrS6Cce0LSXrGVHIw2UlU"
-        width: 1500
-        height: 500
-        isCached: true
 
 secured: "cbEEC9NPFKGmxsiYfKQV76xq9xJyFzRsXqyqQxjvbP7uq+j0qM0TsjI0RLKiBpLXrwCPf1xhIf+gRksxrogY/lafEdNUBjx5DByrSaE4qL9gFZfyp6d26E9uZQmkvQaMLntrB3FWKz6YDgGfR4Y0JBV3gC0Hw1mUcapLYgDLC82vtcKNKJ5/1SKgU7quPpSeFMfLoU8BOO9yaZj1sjurXtullljVkRSZ3qO3xouunQ/AMoSeubr2EowFcs3w4wr9G2JVK3JSuUTsxacShzDLn+8hgy6d+agE7Dg4DjXCegDL27lFdAAenOVamJHlU6GnVGEMcie73Yh8mslcMy9e3vRl8FUxwH3DnPgYzHxDMcY3CFtatm69NqCqgEClGP2LMLfOcAgWzplfLhfmRI6MMzvpBGgGZiDGzqbTKXpietJFBaeBS9o5bWuYaY9jX2uaJEkrVWs9rZHXgGkYqx0/7il038ge/ADJ9CRQti9RVBDmoUdUqAYY4iHTKya2le6k+0JehSAiTKnFX2WnJYd9OA==;7RLAt0LmEKaKjP9PGM3VjQ=="
 ---

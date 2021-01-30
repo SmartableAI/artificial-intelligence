@@ -2,11 +2,11 @@
 category: news
 title: "SoftBank's Son expects mass production of driverless cars in 2 years"
 excerpt: "SoftBank Group Corp Chief Executive Masayoshi Son said on Friday he expects mass production of self-driving vehicles to start in two years."
-publishedDateTime: 2021-01-29T16:06:00Z
-originalUrl: "https://www.reuters.com/article/davos-meeting-son-autonomous/softbanks-son-expects-mass-production-of-driverless-cars-in-2-years-idUSL1N2K41Y9"
-webUrl: "https://www.reuters.com/article/davos-meeting-son-autonomous/softbanks-son-expects-mass-production-of-driverless-cars-in-2-years-idUSL1N2K41Y9"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2K41Y9"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2K41Y9"
+publishedDateTime: 2021-01-30T09:51:00Z
+originalUrl: "https://cn.reuters.com/article/davos-meeting-son-autonomous-idCNL1N2K41Y9"
+webUrl: "https://cn.reuters.com/article/davos-meeting-son-autonomous-idCNL1N2K41Y9"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idCNL1N2K41Y9"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL1N2K41Y9"
 type: article
 quality: 89
 heat: 99
@@ -48,6 +48,6 @@ related:
         height: 545
         isCached: true
 
-secured: "vPkseXH8G35k/1fSDOxv7q5cSJUCZ3A46MFi9/2TOxFj1YRzvgHIX9gCmwBhP/A8sbzWwV79Ofwwp0mlGC9ZSkJ+5TjhMXHNdwVCV22hPp0Sye8oI07AJdsrRG55BdaIURc/f7kP/nUEohu9YvGGskC8IeE7OahQQvWztnt2lv0OrDX7ooXzHxUADOl0h4Ds/7GsWzxgJw108f6vx3yVfRSsbeIHrR2av+13E2ZhkiGrYZ7Ff8oLCGLmfgPZPIpIztm9496JV2nbZgrIUQPUXFPNHnzpSmaPu2285LeEutdlY/k7yvD6OA4e8vu7lGxsuwkUWVlOs2XUzxcmujDSKnKVoT5V75UkDm3vBXBhGe0=;O2/LXegtVqtTQxOfa5I6Bw=="
+secured: "tdW6YxON6925BoEfX4C+WAiWGwGfJd2Odo4vY/2Laf5w/Azhnn1sazm5GwI2o/spgJKkHTxrbQZ9kEMtZRtEPa4TAWI/CczADQKE/9y7uGJ1MCCC5waz/1gvs4XLOKFdTO3yrkeWmNVxYwEdZ03pSJ7YBCqeWK2tiRmkPnHgazzlLLZ/omaQ8QBvdwWWF0SMLlZk1K/6uog9wpOhoCdCEftoJDyXwrJWehfLIkBatiFhMtTFlQqBSO09KZv2o5byabVnBm2VYyCBIyOEWSgHh0VPQtXRFWXvDBehGupRReMSeJNaFP78OfISfToWdzB3CpajNH4jvegfUech63r1ZfDRWHzo9RORvaLjE/hL13k=;xWEoOajhkEKCiTrJS4zmeQ=="
 ---
 

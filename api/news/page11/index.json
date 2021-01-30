@@ -2,6 +2,162 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-01-21-understanding-machine-learning-will-go-a-long-way-toward-higher-adoption-for-smbs.md",
+      "title": "Understanding machine learning will go a long way toward higher adoption for SMBs",
+      "excerpt": "Expert says larger companies are more willing to spend money for top talent to achieve machine learning, whereas smaller companies aren't able to do so. Pre-configured solutions can help.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/understanding-machine-learning-will-go-a-long-way-toward-higher-adoption-for-smbs/",
+      "originalUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/understanding-machine-learning-will-go-a-long-way-toward-higher-adoption-for-smbs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2021/01/20/3fa9488a-27b8-46d7-97ba-16a91fbf67ee/resize/1200x/aebc6e97b9565e8b6d69a801dc408b3c/istock-1200937823.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/understanding-machine-learning-will-go-a-long-way-toward-higher-adoption-for-smbs/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/understanding-machine-learning-will-go-a-long-way-toward-higher-adoption-for-smbs/",
+      "publishedDateTime": "2021-01-20T11:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-14-tech-experts-predict-which-industries-and-sectors-will-benefit-most-from-ai.md",
+      "title": "14 Tech Experts Predict Which Industries And Sectors Will Benefit Most From AI",
+      "excerpt": "Artificial intelligence and machine learning have made their way into many diverse industries, changing the way businesses handle everything from inventory to customer relations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/20/14-tech-experts-predict-which-industries-and-sectors-will-benefit-most-from-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/20/14-tech-experts-predict-which-industries-and-sectors-will-benefit-most-from-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60083be4a0f13c311ca97b8e%2F0x0.jpg",
+          "width": 1200,
+          "height": 819,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/20/14-tech-experts-predict-which-industries-and-sectors-will-benefit-most-from-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/20/14-tech-experts-predict-which-industries-and-sectors-will-benefit-most-from-ai/amp/",
+      "publishedDateTime": "2021-01-20T10:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-redacting-pii-from-application-log-output-with-amazon-comprehend.md",
+      "title": "Redacting PII from application log output with Amazon Comprehend",
+      "excerpt": "Amazon Comprehend is a natural language processing (NLP) service that uses machine learning (ML) to find insights and relationships in text. The service can extract people, places, sentiments, and topics in unstructured data. You can now use Amazon Comprehend ML capabilities to detect and redact personally",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/redacting-pii-from-application-log-output-with-amazon-comprehend/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/redacting-pii-from-application-log-output-with-amazon-comprehend/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-20T10:04:01-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-new-ai-system-counts-endangered-elephants-from-space.md",
       "title": "New AI system counts endangered elephants from space",
       "excerpt": "Scientists have combined satellite cameras with a convolutional neural network (CNN) to detect African elephants moving through forests and grasslands.",
@@ -1059,144 +1215,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-microsoft-gm-cruise-partner-on-self-driving-cars.md",
-      "title": "Microsoft, GM, Cruise Partner on Self-Driving Cars",
-      "excerpt": "A strategic partnership with Microsoft was announced Tuesday by General Motors and Cruise aimed at speeding up the commercialization of shared self-driving vehicles. In addition, Microsoft will be joining GM,",
-      "sourceUrl": null,
-      "webUrl": "https://www.technewsworld.com/story/86988.html",
-      "originalUrl": "https://www.technewsworld.com/story/86988.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2021-cruise-msft-gm-1.jpg",
-          "width": 620,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-20T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNewsWorld",
-        "domain": "technewsworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-trump-pardons-former-google-self-driving-car-engineer-anthony-levandowski.md",
-      "title": "Trump pardons former Google self-driving car engineer Anthony Levandowski",
-      "excerpt": "Donald Trump has given a full pardon to Anthony Levandowski, a former Google engineer who stole trade secret on self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/20/trump-pardons-former-google-self-driving-car-engineer-anthony-levandowski/",
-      "originalUrl": "https://venturebeat.com/2021/01/20/trump-pardons-former-google-self-driving-car-engineer-anthony-levandowski/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-1176871826.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/20/trump-pardons-former-google-self-driving-car-engineer-anthony-levandowski/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/20/trump-pardons-former-google-self-driving-car-engineer-anthony-levandowski/amp/",
-      "publishedDateTime": "2021-01-20T02:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-artificial-divide-how-europe-and-america-could-clash-over-ai.md",
-      "title": "Artificial divide: How Europe and America could clash over AI",
-      "excerpt": "Artificial intelligence is a rapidly advancing field that policymakers everywhere are struggling to keep up with",
-      "sourceUrl": null,
-      "webUrl": "https://www.europarl.europa.eu/news/en/press-room/20210114IPR95627/guidelines-for-military-and-non-military-use-of-artificial-intelligence",
-      "originalUrl": "https://ecfr.eu/publication/artificial-divide-how-europe-and-america-could-clash-over-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.europarl.europa.eu/news/img/meta-facebook.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-20T02:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ecfr.eu",
-        "domain": "ecfr.eu",
-        "images": null,
         "publishers": null,
         "authors": null
       },

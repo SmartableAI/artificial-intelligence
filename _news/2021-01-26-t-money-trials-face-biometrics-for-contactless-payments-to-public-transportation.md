@@ -97,20 +97,6 @@ related:
         width: 623
         height: 432
         isCached: true
-  - title: "Webtool changes headshots just enough to trick face biometrics scrapers"
-    excerpt: "Researchers say they have created software that protects social media posters from unwanted biometric surveillance."
-    publishedDateTime: 2021-01-25T18:45:00Z
-    webUrl: "https://www.biometricupdate.com/202101/webtool-changes-headshots-just-enough-to-trick-face-biometrics-scrapers"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 24
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
-        width: 730
-        height: 499
-        isCached: true
   - title: "ID R&D voice biometrics extend WhatsApp for Business capabilities with new partnership"
     excerpt: "ID R&D has launched in-app voice biometric authentication to WhatsApp for Business in collaboration with partner Wittybots by SimpleTech."
     publishedDateTime: 2021-01-27T17:56:00Z

@@ -83,20 +83,6 @@ related:
         width: 623
         height: 432
         isCached: true
-  - title: "Webtool changes headshots just enough to trick face biometrics scrapers"
-    excerpt: "Researchers say they have created software that protects social media posters from unwanted biometric surveillance."
-    publishedDateTime: 2021-01-25T18:45:00Z
-    webUrl: "https://www.biometricupdate.com/202101/webtool-changes-headshots-just-enough-to-trick-face-biometrics-scrapers"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 24
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
-        width: 730
-        height: 499
-        isCached: true
   - title: "T-Money trials face biometrics for contactless payments to public transportation"
     excerpt: "T-Money operator Korea Smart Card will evaluate the speed of payment using the facial recognition system, and then look at ways of better commercializing it."
     publishedDateTime: 2021-01-25T21:42:00Z

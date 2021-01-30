@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Tesla and Waymo jab at each other over who has the best self-driving tech"
-    excerpt: "Tesla and Waymo took to media and social media to spar over who has the best self-driving technology. Waymo on Tesla Waymo and Tesla have widely different approaches to developing full self-driving technology,"
-    publishedDateTime: 2021-01-25T18:05:00Z
-    webUrl: "https://electrek.co/2021/01/25/tesla-waymo-jab-each-other-best-self-driving-tech/"
-    ampWebUrl: "https://electrek.co/2021/01/25/tesla-waymo-jab-each-other-best-self-driving-tech/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/01/25/tesla-waymo-jab-each-other-best-self-driving-tech/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 103
-    images:
-      - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2020/11/Tesla-full-self-driving-road-debris.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Elon Musk says Tesla's Full Self-Driving tech will have Level 5 autonomy by the end of 2021"
     excerpt: "Tesla's CEO also confirmed that customers won't be able to transfer previous FSD purchases between old and new cars."
     publishedDateTime: 2021-01-28T01:48:00Z
@@ -72,22 +56,6 @@ related:
       - url: "https://cnet3.cbsistatic.com/img/gCKjWpaDOLArujU35HNJiNtgxgs=/2018/10/24/3e4c2a85-ffa1-4600-ab59-e8af96931af4/tesla-logo-ogi.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Waymo CEO Blasts Tesla’s Self-Driving Tech"
-    excerpt: "Once again, extremely niche trash talk is being exchanged in the world of self-driving cars. John Krafcik, the CEO of the Google-affiliated self-driving car company Waym"
-    publishedDateTime: 2021-01-25T17:16:00Z
-    webUrl: "https://futurism.com/the-byte/waymo-ceo-blasts-teslas-self-driving-tech"
-    ampWebUrl: "https://futurism.com/waymo-ceo-blasts-teslas-self-driving-tech/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/waymo-ceo-blasts-teslas-self-driving-tech/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 74
-    images:
-      - url: "https://wp-assets.futurism.com/2021/01/waymo-tes-600x315.jpg"
-        width: 600
-        height: 315
         isCached: true
   - title: "Tesla Reports First Yearly Profit, Musk Again Promises Full Self-Driving"
     excerpt: "It's worth noting that the company missed the same FSD target in 2019 and 2020, but Tesla continues to work toward getting self-driving technology on the market."

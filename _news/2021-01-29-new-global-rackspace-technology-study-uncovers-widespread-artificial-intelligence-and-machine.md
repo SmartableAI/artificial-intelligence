@@ -6,7 +6,7 @@ publishedDateTime: 2021-01-28T17:09:00Z
 originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-58e522140b27005e2132ba0042f5dea7"
 webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-58e522140b27005e2132ba0042f5dea7"
 type: article
-quality: 24
+quality: 26
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

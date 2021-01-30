@@ -43,17 +43,17 @@ related:
         isCached: true
   - title: "Machine learning tool predicts respiratory failure in COVID-19 patients"
     excerpt: "In an effort to expedite care for coronavirus disease 2019 (COVID-19) patients upon hospital admission, a team at The Feinstein Institutes for Medical Research has developed a machine learning (ML) artificial intelligence (AI) powered clinical predictive tool that can accurately assess patients for the risk of respiratory failure within 48 hours."
-    publishedDateTime: 2021-01-28T19:18:00Z
-    webUrl: "https://www.globalbankingandfinance.com/category/news/machine-learning-tool-predicts-respiratory-failure-in-covid-19-patients/"
+    publishedDateTime: 2021-01-28T18:40:00Z
+    webUrl: "https://www.oaoa.com/news/business/machine-learning-tool-predicts-respiratory-failure-in-covid-19-patients/article_803b0d80-3f15-5404-9b21-98d38e236cf3.html"
     type: article
     provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 56
+      name: Odessa American
+      domain: oaoa.com
+    quality: 54
     images:
-      - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
-        width: 1000
-        height: 600
+      - url: "https://bloximages.newyork1.vip.townnews.com/oaoa.com/content/tncms/assets/v3/editorial/e/1a/e1a3aa38-eed5-5563-be66-2f50ab7416a4/601307110ac21.image.jpg?resize=922%2C630"
+        width: 922
+        height: 630
         isCached: true
   - title: "Can Robots and Drones Help to Fight COVID-19?"
     excerpt: "As such, there is a big push to use drones and other manned and unmanned aerial vehicles to help combat infection rates. We have already seen drones working within the military and also embraced in public safety roles."

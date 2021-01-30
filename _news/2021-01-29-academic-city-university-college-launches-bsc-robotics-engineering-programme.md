@@ -42,19 +42,14 @@ related:
         height: 826
         isCached: true
   - title: "Academy of Robotics Extends Its Autonomous Delivery Trials Programme to Surrey"
-    excerpt: "Academy of Robotics is expanding its human-contact free delivery programme using its Kar-go delivery bot with a further trial beginning in Surrey in February. Surrey is the second region in the UK to witness Britain’s first custom-built autonomous delivery vehicle driving on the county’s roads after road trials began in November 2020 in Hounslow,"
-    publishedDateTime: 2021-01-30T06:23:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-europe-driverless-cars-united-kingdom-robotics-1ad2ffdbd33844988cb6b3f91754a007"
+    excerpt: "Academy of Robotics expands road trials for its self-driving delivery vehicle, Kar-go. Kar-go will begin supporting local businesses in Surrey."
+    publishedDateTime: 2021-01-30T07:35:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210129005438/en/Academy-of-Robotics-Extends-Its-Autonomous-Delivery-Trials-Programme-to-Surrey"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 50
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Business Wire
+      domain: businesswire.com
+    quality: 30
 
 secured: "EM/yds3OTtlN9fG1efjI6vOkSo9UUSs6WXsk64VtSpNMEVPUPUYsGgM22teEYtH5URnqlUORWjRSTxLNuJ0dhveYsVHSYuySDuMDOQvf1q8XRdb5acYS/7sSmxZwWtXLNODQBut/N/agd7sNWPUl6N7pMFJ4dbtXNmERxSbt5zDJ3cjaE61T6/LMXc2g+1oGc2bvFDW4EJgrxy+fh+z+O60VWlrB3QM3hktiZUw0s8sDtNVu+nDMlPRp0I0d8VIze4zojXkBqK2IM+H7L8i/c+Of9DKvMPGet3GdsJVMBwZkKJ34HjahrWAgj8ZaS7U+DPMJkkDuvihTxcBb7kws523N/bIVhYJHBWt3b2Y4nI0=;WrNqfqxc6DZbxNIfZQBulA=="
 ---

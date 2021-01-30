@@ -3,14 +3,14 @@ category: news
 title: "US, China or Europe? Here's who is really winning the global race for AI"
 excerpt: "A new report shows that in the ever-more competitive race for AI, the US has a strong lead that China is catching up with, while the EU is falling behind little by little."
 publishedDateTime: 2021-01-29T12:11:00Z
-originalUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai/"
-webUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai/"
-ampWebUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai/"
+originalUrl: "https://www.zdnet.com/article/us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai/"
+webUrl: "https://www.zdnet.com/article/us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai/"
 type: article
 quality: 86
-heat: -1
-published: false
+heat: 96
+published: true
 
 provider:
   name: ZDNet
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Report: Brexit could help China and the US in the global AI race"
-    excerpt: "The study found that China is catching up with the US in the AI race, while the EU is slipping further behind."
-    publishedDateTime: 2021-01-25T17:28:00Z
-    webUrl: "https://thenextweb.com/neural/2021/01/25/report-brexit-could-help-china-and-the-us-in-the-global-ai-race/"
-    ampWebUrl: "https://thenextweb.com/neural/2021/01/25/report-brexit-could-help-china-and-the-us-in-the-global-ai-race/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/25/report-brexit-could-help-china-and-the-us-in-the-global-ai-race/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 89
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/Untitled-design-2021-01-25T153915.019-796x417.png"
-        width: 796
-        height: 417
-        isCached: true
   - title: "US Holds Lead in Global AI Race, China Closing In"
     excerpt: "The United States is leading the world in the development and use of AI with China close behind, according to a new report. The new report from the Center of Data Innovation, analyzed the AI capabilities of the United States,"
     publishedDateTime: 2021-01-25T21:38:00Z
@@ -61,6 +45,6 @@ related:
         height: 486
         isCached: true
 
-secured: "LAmhuE+T31XGuQSfoRxl0XDgYcOnkpftK7jX3Ve+dmR4sKeXMhzp6+Y179DZiAbpCnFuvBDC4sPUD9b02x+cHQxqLKJdxIGpNI5NznvfkyrXWwYSwqfMJlCxJvg5qgp3tgHMYSm1lTyaHn1jzrANgP8g+7SnRzS0irw5TYay5WRg8P0DIREODG1pMZcuhFeZ9G6hBokMUHvTiGq4T01g1IvhoQMoWyLAcTNdI0p5oni1NSFd8F+SPL7O9MHmRWZxdZGkxmE/4IfRUBwBZsf6r5JAvLLzWgX29KPpX58ifxsks20q808fonwSyoK59ch5729hczzwW5aQv6JAzRbMNqyg8RZJYs3/vkTZE0kW9vg=;huCfXeFEQlXiVeRB64fThQ=="
+secured: "4m8dMLh/PN1rrdDQYByYE7GqTpMLGGsG42ZmnOehmJMpRIzCvZ2ZW3/NLHrIwpfhf1NyFm7MK1Am5L542z0O7GHg0xmg4PFrTY9zoa3JoldNCl2VNXcDQE9ekoK6ZYsPGQ6JR/Vq+MZggdoU5fGpU1whOdvcrVO8QEH4KxftdHsHESh+UQnAPAtMIyiK8avMNYoXRrfyqU73eWK/xQA23k3+gA1zDfFc1qcpSp4QkPaaj6aE+djkLNAF2ttFAn/pqHCkMPsgQiXQhj3eyFecVYnINiK0KYeXSOMFOFH2vOZ/AHvqz/kc7bYALHt47YyNz09URPnBQVycTecdozD1q3smn58oTLArrhfFwBaY7yU=;AHGD+DB9no0OM58XoWpjBQ=="
 ---
 

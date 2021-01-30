@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/charlestowersclark/2021/01/29/can-we-tr
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charlestowersclark/2021/01/29/can-we-trust-ai-trusting-ai-is-best-for-everyone-part-two/amp/"
 type: article
 quality: 89
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Can We Trust AI? When AI Asks For Human Help (Part One)"
-    excerpt: "Making AI more 'humble' could not only help improve AI decision making, but could also help inspire more trust in the technology as a whole, and open the door for more useful and mission-critical applications in the future."
-    publishedDateTime: 2021-01-25T17:48:00Z
-    webUrl: "https://www.forbes.com/sites/charlestowersclark/2021/01/25/can-we-trust-ai-when-ai-asks-for-human-help-part-one/"
-    ampWebUrl: "https://www.forbes.com/sites/charlestowersclark/2021/01/25/can-we-trust-ai-when-ai-asks-for-human-help-part-one/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charlestowersclark/2021/01/25/can-we-trust-ai-when-ai-asks-for-human-help-part-one/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600f03a4df133cabc007eb45%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "imPn5LSq2TbE3Ongz4EMOLKCGOlAy63PkarV5LrL6S50L8LIc94mlrhkLDPTOl6s6Klig4Wjj78+0RozkuJ69SOGTOWNAcGX+Njoa/DPpf8AQ7R58kKc0LfZXrKUbYHGcTqcVqFHHaZts0JHyKX8C91C7jsAEss1d7u+S0UylmwCtgr2oavxeYZBOgxszI7VCUo0Es3JWj4WOk9bRgR0PDgwZdefkurNkubqG35PuQme4lbC/4sRDgqNI65JCMGdTqFKuSSHTjALz5InoOB59bH6WnRMZjtVIqvk7OfbgQVyd4peA/G+44NWLqYZt1AvYstdBLAaT2NICPSys2r6WbG69pnOeHB3WA/iMWF/arM9NSvhvdjn9UA4OMqjmfGayzpj+Z7eJi3KwojodTf54+cFOHwXQoySLDyBUWR1f4U93cSxTPyk8tHvWhwni3ZxncuCs4xeZDRSDExnDV28xSksy6Bajxve6Qe9AJpsy/nY+XUXrXa9gxbB9EqKKZzehZFtkQ1nYAzFrnUZ5nDMZA==;UipQ8EyJoMcu20urG+e67w=="
 ---

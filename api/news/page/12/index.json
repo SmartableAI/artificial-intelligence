@@ -2,6 +2,144 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-01-20-microsoft-gm-cruise-partner-on-self-driving-cars.md",
+      "title": "Microsoft, GM, Cruise Partner on Self-Driving Cars",
+      "excerpt": "A strategic partnership with Microsoft was announced Tuesday by General Motors and Cruise aimed at speeding up the commercialization of shared self-driving vehicles. In addition, Microsoft will be joining GM,",
+      "sourceUrl": null,
+      "webUrl": "https://www.technewsworld.com/story/86988.html",
+      "originalUrl": "https://www.technewsworld.com/story/86988.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2021-cruise-msft-gm-1.jpg",
+          "width": 620,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-20T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNewsWorld",
+        "domain": "technewsworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-trump-pardons-former-google-self-driving-car-engineer-anthony-levandowski.md",
+      "title": "Trump pardons former Google self-driving car engineer Anthony Levandowski",
+      "excerpt": "Donald Trump has given a full pardon to Anthony Levandowski, a former Google engineer who stole trade secret on self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/20/trump-pardons-former-google-self-driving-car-engineer-anthony-levandowski/",
+      "originalUrl": "https://venturebeat.com/2021/01/20/trump-pardons-former-google-self-driving-car-engineer-anthony-levandowski/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-1176871826.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/20/trump-pardons-former-google-self-driving-car-engineer-anthony-levandowski/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/20/trump-pardons-former-google-self-driving-car-engineer-anthony-levandowski/amp/",
+      "publishedDateTime": "2021-01-20T02:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-artificial-divide-how-europe-and-america-could-clash-over-ai.md",
+      "title": "Artificial divide: How Europe and America could clash over AI",
+      "excerpt": "Artificial intelligence is a rapidly advancing field that policymakers everywhere are struggling to keep up with",
+      "sourceUrl": null,
+      "webUrl": "https://www.europarl.europa.eu/news/en/press-room/20210114IPR95627/guidelines-for-military-and-non-military-use-of-artificial-intelligence",
+      "originalUrl": "https://ecfr.eu/publication/artificial-divide-how-europe-and-america-could-clash-over-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.europarl.europa.eu/news/img/meta-facebook.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-20T02:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ecfr.eu",
+        "domain": "ecfr.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-20-trump-pardoned-church-of-ai-founder-so-i-went-there-to-worship.md",
       "title": "Trump pardoned Church of AI founder, so I went there to worship",
       "excerpt": "Former Google exec Anthony Levandowski got a surprise pardon from the outgoing president. But what of his Church of Artificial Intelligence? I decided to investigate.",
@@ -1043,138 +1181,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-mission-healthcare-of-san-diego-adopts-muse-healthcares-machine-learning-tool.md",
-      "title": "Mission Healthcare of San Diego Adopts Muse Healthcare's Machine Learning Tool",
-      "excerpt": "ST. PAUL, Minn., Jan. 19, 2021 /PRNewswire/ -- San Diego-based Mission Healthcare, one of the largest home health, hospice, and palliative care",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/mission-healthcare-of-san-diego-adopts-muse-healthcare-s-machine-learning-tool-1029980867",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/mission-healthcare-of-san-diego-adopts-muse-healthcare-s-machine-learning-tool-1029980867",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/mission-healthcare-of-san-diego-adopts-muse-healthcare-s-machine-learning-tool-1029980867",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/mission-healthcare-of-san-diego-adopts-muse-healthcare-s-machine-learning-tool-1029980867",
-      "publishedDateTime": "2021-01-19T10:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-microsoft-joins-2b-investment-in-cruise-to-speed-commercialization-of-self-driving-vehicles.md",
-      "title": "Microsoft joins $2B investment in Cruise to speed commercialization of self-driving vehicles",
-      "excerpt": "The company had planned to launch a self-driving commercial taxi service in 2019, but missed that deadline. Microsoft previously partnered with Chinese tech giant Baidu as its cloud partner for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2021/microsoft-joins-2b-investment-cruise-speed-commercialization-self-driving-vehicles/",
-      "originalUrl": "https://www.geekwire.com/2021/microsoft-joins-2b-investment-cruise-speed-commercialization-self-driving-vehicles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/01/Cruise-Track-3-in-Seattle-630x420.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2021/microsoft-joins-2b-investment-cruise-speed-commercialization-self-driving-vehicles/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/microsoft-joins-2b-investment-cruise-speed-commercialization-self-driving-vehicles/amp/",
-      "publishedDateTime": "2021-01-19T09:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-dunnhumby-extends-machine-learning-automation-tool-built-on-microsoft-azure.md",
-      "title": "dunnhumby Extends Machine Learning Automation Tool Built on Microsoft Azure",
-      "excerpt": "Customer data science company dunnhumby is preparing to launch an Enterprise Edition of dunnhumby Model Lab, a machine learning automation tool for da",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210119005028/en/dunnhumby-Extends-Machine-Learning-Automation-Tool-Built-on-Microsoft-Azure",
-      "originalUrl": "https://www.businesswire.com/news/home/20210119005028/en/dunnhumby-Extends-Machine-Learning-Automation-Tool-Built-on-Microsoft-Azure",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-19T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

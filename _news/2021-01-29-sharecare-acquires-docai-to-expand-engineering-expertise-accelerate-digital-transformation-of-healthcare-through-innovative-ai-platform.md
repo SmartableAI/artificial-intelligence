@@ -97,20 +97,6 @@ related:
         width: 1024
         height: 684
         isCached: true
-  - title: "The Role AI Plays in Safeguarding Government Data"
-    excerpt: "Government agencies need to pivot to better filter and monitor incoming threats and data with velocity, efficiency and optimization."
-    publishedDateTime: 2021-01-25T18:11:00Z
-    webUrl: "https://www.nextgov.com/ideas/2021/01/role-ai-plays-safeguarding-government-data/171602/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 37
-    images:
-      - url: "https://cdn.nextgov.com/media/img/upload/2021/01/25/NGalert20210125/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
 
 secured: "+aAqTLPyrLf4B2dUffXRUHMlvZJ/b+HYvrXFvpF9qzZ5Q2U8yvE8iW223OSU9so1atIbHIz1UeIyEJN283q6AgLm+PuQiZ5eEdyJiI2RA7xgyHFnpaAHiBRy7U/wNfpWrbaS6bySrgyHoaNCfNP9Tgw0d6LTIUAmrXdtJzxo/9kXsJ7pWiofnUwG7qIl4vul02/l1TDx0MIdee+oYO2Z1LWr159HYA6Hzp0+um5A+l6MSPkLZTNkxcQQTN09VYEwtm4zR7K2N5ZHwSpWa3s7r+d+o16HGdsjesoeaCb7U7s0Phr92go3WYLPA5Aoc8dmpcskiI+7XLJl9tiUI6Cdggl6YLKYK9NKQcHYSay4SG0=;1Qm8QbpMTcuYZmfxRRTLpA=="
 ---

@@ -87,20 +87,6 @@ related:
         width: 1024
         height: 684
         isCached: true
-  - title: "The Role AI Plays in Safeguarding Government Data"
-    excerpt: "Government agencies need to pivot to better filter and monitor incoming threats and data with velocity, efficiency and optimization."
-    publishedDateTime: 2021-01-25T18:11:00Z
-    webUrl: "https://www.nextgov.com/ideas/2021/01/role-ai-plays-safeguarding-government-data/171602/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 37
-    images:
-      - url: "https://cdn.nextgov.com/media/img/upload/2021/01/25/NGalert20210125/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Sharecare acquires doc.ai to expand engineering expertise, accelerate digital transformation of healthcare through innovative AI platform"
     excerpt: "Sharecare, the digital health company that helps people manage all their health in one place, today announced it has entered into a definitive agreement to acquire doc.ai, an enterprise artificial intelligence (AI) platform accelerating digital transformation in healthcare."
     publishedDateTime: 2021-01-29T08:50:00Z
@@ -116,6 +102,6 @@ related:
         height: 450
         isCached: true
 
-secured: "rd4OTOAnz5OHtfH6KC7mo3XaXw2MP4rZtsdtda7JHnHdfhZpSs8AgPvdEgfWfRmp6AFYyICAe0oNF9Q5GDfGKIphvCNta1jRYY8wJGzjL6S77TcyEloTrtjQQn6XgkI0C+5vNPeZrRPiskaAoB3OdyGs0j7yjgTu51EAfno2Ept04SajF6Kh+/i1jqNB2RP0LSIGhgBJbHSt9otvhaPee1sE8TNGxboE/MtvaRc82YU7EGn/Sz55nKAGoQz9wd/I6MRtpkU1eAzWdp0zMAmA35As35Pa+f2CMBAtbJs/tDV8Eln8ww1RUp+zTK7c9h2EHALNTj5MevymYZm3TyXmj/soX+pQuhmq3LtrNCbcSRs=;9SRxSe+08MGhY7t3AvfejQ=="
+secured: "30ViIDjt/yVOfIbQvxbKIfwdUPKQelWm4QnWr0DzBRTZqRPCxTQveWgX3wU5J8XDpvvkIFoFbKimD8sLpDYhXNLuLnggDb50m0oKiYU5fpE2k/QbqmHIB6MBObSqH0SxnSbJS4+aEPZSAf+Oz0GMU7+HHz2Djug2FLUd/V3xyuXYRkvoowjjBt5ke5a8OOIAsSFy5j9PQsQaG5Rz+lCTHEtbMDP0Y1vI2y3gm6thvWz7b0nK7hjdhW/bHf3u+c96B+7uKy925hcf7t9dFUo7TkPRG3dHzpdyTQSZuPtqWZViMC+RFsD7kwGt9Sykdrbr8I5wfxlkw3q/SgdrMMHyRBu2X8FAXGwSkbO1ijZflnql4hP8qKRVDEvTlf9sVoBTEm3JEBp93CjlOs2lnqM3d8Lrbov8j8B6pxTbrEC5+YY5uXFifh3s3n1cS0EsMt7MfVz7IzTXvKD2gbK3HMlCLTu2q7zPHjT9Fv02nK7T+wIAMhjUxT9PHDg/PrEQuQ8gZ6XkqTHXLHT9Ov7IqrlJLg==;subwiu1tM/DXAuDv3gLSfQ=="
 ---
 
