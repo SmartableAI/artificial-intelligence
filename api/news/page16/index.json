@@ -2,60 +2,6 @@
   "page": 16,
   "value": [
     {
-      "path": "_news/2021-01-16-ai-weekly-meet-the-people-trying-to-replicate-and-open-source-openais-gpt-3.md",
-      "title": "AI Weekly: Meet the people trying to replicate and open-source OpenAI’s GPT-3",
-      "excerpt": "A grassroots group of researchers is attempting to create an open source language model as powerful as OpenAI's GPT-3.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/15/ai-weekly-meet-the-people-trying-to-replicate-and-open-source-openais-gpt-3/",
-      "originalUrl": "https://venturebeat.com/2021/01/15/ai-weekly-meet-the-people-trying-to-replicate-and-open-source-openais-gpt-3/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-15T11:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware",
-        "Google AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-16-feature-store-repositories-emerge-as-an-mlops-linchpin-for-advancing-ai.md",
       "title": "Feature store repositories emerge as an MLOps linchpin for advancing AI",
       "excerpt": "A race to build an MLOps ecosystem around feature store repositories is now uderway as organizations look for ways to accelerate AI projects",
@@ -1199,6 +1145,57 @@
       "topics": [
         "TensorFlow",
         "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-15-smart-collar-translates-dog-barks-into-emotions-startup-company-says.md",
+      "title": "Smart collar translates dog barks into emotions, startup company says",
+      "excerpt": "Now you can find out what your dog is saying when it barks -- or at least, you’ll know how it’s feeling. South Korean startup Petpuls has created a smart collar that can identify five emotions in dogs using AI-enabled voice recognition technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/lifestyle/smart-dog-collar-translates-barks-emotions",
+      "originalUrl": "https://www.foxnews.com/lifestyle/smart-dog-collar-translates-barks-emotions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/iStock-156869127.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/lifestyle/smart-dog-collar-translates-barks-emotions.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/smart-dog-collar-translates-barks-emotions.amp",
+      "publishedDateTime": "2021-01-14T18:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

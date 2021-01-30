@@ -53,22 +53,6 @@ related:
         width: 800
         height: 272
         isCached: true
-  - title: "Speech Technology Helps Retailers Deliver on Consumer Expectations for Contactless Shopping Experiences"
-    excerpt: "Businesses across sectors are turning to voice technologies in response to COVID-19 health and safety concerns. These concerns are fueling consumer expectations for more contactless experiences everywhere they go,"
-    publishedDateTime: 2021-01-25T16:00:00Z
-    webUrl: "https://retailtouchpoints.com/features/executive-viewpoints/speech-technology-helps-retailers-deliver-on-consumer-expectations-for-contactless-shopping-experiences"
-    ampWebUrl: "https://retailtouchpoints.com/features/executive-viewpoints/speech-technology-helps-retailers-deliver-on-consumer-expectations-for-contactless-shopping-experiences/amp"
-    cdnAmpWebUrl: "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/features/executive-viewpoints/speech-technology-helps-retailers-deliver-on-consumer-expectations-for-contactless-shopping-experiences/amp"
-    type: article
-    provider:
-      name: Retail TouchPoints
-      domain: retailtouchpoints.com
-    quality: 43
-    images:
-      - url: "https://retailtouchpoints.com/wp-content/uploads/2021/01/voice-ai.jpg"
-        width: 1000
-        height: 581
-        isCached: true
   - title: "Pindrop and TiVo Partner, Simplifying Video Streaming Content Discovery with Voice Enabled Personalization"
     excerpt: "TiVo and Pindrop have partnered to deliver a streamlined content discovery experience for consumers, unlocked through voice AI. \"Contextual awareness is key when engaging users through a Natural User Interface."
     publishedDateTime: 2021-01-26T14:02:00Z

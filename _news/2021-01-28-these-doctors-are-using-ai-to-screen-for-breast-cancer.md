@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/doctors-using-ai-screen-breast-cancer/am
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/doctors-using-ai-screen-breast-cancer/amp"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -61,22 +61,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2015/6-breastcancer.jpg"
         width: 1280
         height: 1024
-        isCached: true
-  - title: "Prostate Cancer may be diagnosed using a urine test with artificial intelligence"
-    excerpt: "Prostate cancer is one of the most common cancers among men. Patients are determined to have prostate cancer primarily based on *PSA, a cancer factor in blood. However, as diagnostic accuracy is"
-    publishedDateTime: 2021-01-25T15:45:00Z
-    webUrl: "https://medicaldialogues.in/oncology/news/prostate-cancer-may-be-diagnosed-using-a-urine-test-with-artificial-intelligence-73853"
-    ampWebUrl: "https://medicaldialogues.in/amp/oncology/news/prostate-cancer-may-be-diagnosed-using-a-urine-test-with-artificial-intelligence-73853"
-    cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/oncology/news/prostate-cancer-may-be-diagnosed-using-a-urine-test-with-artificial-intelligence-73853"
-    type: article
-    provider:
-      name: Daily
-      domain: medicaldialogues.in
-    quality: 52
-    images:
-      - url: "https://medicaldialogues.in/h-upload/2020/09/02/133894-prostate-cancer.jpg"
-        width: 1600
-        height: 960
         isCached: true
   - title: "Wake Radiology firm adds artificial intelligence in fight against breast cancer"
     excerpt: "One in five cases of breast cancer is missed by radiologists. Can Artificial Intelligence improve that percentage and save lives? A Triangle radiology firm believes so, and it is adding AI to the firm"

@@ -2,40 +2,6 @@
   "page": 27,
   "value": [
     {
-      "path": "_news/2021-01-08-robotics-etf-botz-beckons-as-pertinent-post-covid-idea.md",
-      "title": "Robotics ETF BOTZ Beckons as Pertinent Post-Covid Idea",
-      "excerpt": "Put robotics in the conversation among disruptive technologies that are navigating the pandemic with aplomb. The investment concept is gaining traction as a post-pandemic idea, but with vaccination rates still – hopefully a temporary phenomenon – and case counts rising,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/robotics-etf-botz-beckons-as-pertinent-post-covid-idea-2021-01-08",
-      "originalUrl": "https://www.nasdaq.com/articles/robotics-etf-botz-beckons-as-pertinent-post-covid-idea-2021-01-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/robotics-etf-botz-beckons-as-pertinent-post-covid-idea-2021-01-08?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/robotics-etf-botz-beckons-as-pertinent-post-covid-idea-2021-01-08?amp",
-      "publishedDateTime": "2021-01-08T05:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-08-transparent-machine-learning-powers-business-intelligence.md",
       "title": "Transparent Machine Learning Powers Business Intelligence",
       "excerpt": "In the current data-driven decision-making world, digital colleagues are becoming more common. That’s why intelligent machines that are transparent about their predictions are a must.",
@@ -1120,6 +1086,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-uk-competition-regulator-to-probe-nvidias-40-billion-arm-takeover.md",
+      "title": "U.K. competition regulator to probe Nvidia’s $40 billion Arm takeover",
+      "excerpt": "Britain's competition regulator said it would start an investigation into Nvidia’s $40 billion deal to buy U.K.-based chip designer Arm.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/07/uk-to-probe-nvidias-40-billion-arm-takeover/",
+      "originalUrl": "https://venturebeat.com/2021/01/07/uk-to-probe-nvidias-40-billion-arm-takeover/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/GettyImages-1208744151.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/07/uk-to-probe-nvidias-40-billion-arm-takeover/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/07/uk-to-probe-nvidias-40-billion-arm-takeover/amp/",
+      "publishedDateTime": "2021-01-07T10:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

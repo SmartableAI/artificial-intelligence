@@ -43,22 +43,6 @@ related:
         width: 680
         height: 340
         isCached: true
-  - title: "Speech Technology Helps Retailers Deliver on Consumer Expectations for Contactless Shopping Experiences"
-    excerpt: "Businesses across sectors are turning to voice technologies in response to COVID-19 health and safety concerns. These concerns are fueling consumer expectations for more contactless experiences everywhere they go,"
-    publishedDateTime: 2021-01-25T16:00:00Z
-    webUrl: "https://retailtouchpoints.com/features/executive-viewpoints/speech-technology-helps-retailers-deliver-on-consumer-expectations-for-contactless-shopping-experiences"
-    ampWebUrl: "https://retailtouchpoints.com/features/executive-viewpoints/speech-technology-helps-retailers-deliver-on-consumer-expectations-for-contactless-shopping-experiences/amp"
-    cdnAmpWebUrl: "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/features/executive-viewpoints/speech-technology-helps-retailers-deliver-on-consumer-expectations-for-contactless-shopping-experiences/amp"
-    type: article
-    provider:
-      name: Retail TouchPoints
-      domain: retailtouchpoints.com
-    quality: 43
-    images:
-      - url: "https://retailtouchpoints.com/wp-content/uploads/2021/01/voice-ai.jpg"
-        width: 1000
-        height: 581
-        isCached: true
   - title: "Savvas Learning Company and Turnitin Partner to Deliver Next-Generation Writing Tool"
     excerpt: "Savvas Learning Company, a next-generation learning solutions leader for K-12 education, is excited to announce it is integrating its"
     publishedDateTime: 2021-01-26T18:35:00Z

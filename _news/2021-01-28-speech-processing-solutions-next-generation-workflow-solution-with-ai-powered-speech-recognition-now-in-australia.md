@@ -71,6 +71,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "This AI-Powered Startup Offers No Code Solutions To Build Apps In Minutes"
+    excerpt: "Enter Appy Pie, an AI-powered no-code platform to help your light bulb ideas see the light. For this week’s startup column, Analytics India Magazine spoke to Abhinav Girdhar, Founder and CEO of Appy Pie,"
+    publishedDateTime: 2021-01-30T07:30:00Z
+    webUrl: "https://analyticsindiamag.com/this-ai-powered-startup-offers-no-code-solutions-to-build-apps-in-minutes/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 38
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/01/pasted-image-0-15.png"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Spraoi’s Machine Learning Solution Deployed for Reliance Standard’s Retirement Services Operations"
     excerpt: "Spraoi announced today that Reliance Standard Life Insurance Company (Reliance Standard) successfully deployed models for the identification of operational inconsistencies (e.g. churning, anomalous activity) across new business and in-force transactions within their block of traditional and indexed annuity business."
     publishedDateTime: 2021-01-26T19:34:00Z

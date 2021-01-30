@@ -2,50 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2021-01-25-ehave-inc-utilizes-artificial-intelligence-and-machine-learning-for-big-data-management-in-mental-healthcare.md",
-      "title": "Ehave, Inc. Utilizes Artificial Intelligence and Machine Learning for Big Data Management in Mental Healthcare",
-      "excerpt": "Ehave, Inc. (OTC Pink: EHVVF) (the “Company”), a provider of digital therapeutics for the psychedelic and mental health sectors, announced today plans to continue to address the needs of big data management in mental healthcare.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ehave-inc-utilizes-artificial-intelligence-and-machine-learning-for-big-data-management-in-mental-healthcare-1029999161",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ehave-inc-utilizes-artificial-intelligence-and-machine-learning-for-big-data-management-in-mental-healthcare-1029999161",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Ehave-Inc-Utilizes-Artificial-Intelligence-and-Machine-Learning-for-Big-Data-Management-in-Mental-Healthcare-1029999161",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Ehave-Inc-Utilizes-Artificial-Intelligence-and-Machine-Learning-for-Big-Data-Management-in-Mental-Healthcare-1029999161",
-      "publishedDateTime": "2021-01-25T05:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2021-01-25-skyrim-modders-are-using-ai-to-generate-new-spoken-dialogue.md",
       "title": "Skyrim modders are using AI to generate new spoken dialogue",
       "excerpt": "A new AI app called VASynth that lets Skyrim modders turn text into speech has already produced an impressive fan-made trailer.",
@@ -1190,6 +1146,58 @@
       "topics": [
         "Natural Language Processing",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-multi-account-model-deployment-with-amazon-sagemaker-pipelines.md",
+      "title": "Multi-account model deployment with Amazon SageMaker Pipelines",
+      "excerpt": "Amazon SageMaker Pipelines is the first purpose-built CI/CD service for machine learning (ML). It helps you build, automate, manage, and scale end-to-end ML workflows and apply DevOps best practices of CI/CD to ML (also known as MLOps). Creating multiple accounts to organize all the resources of your",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/multi-account-model-deployment-with-amazon-sagemaker-pipelines/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/multi-account-model-deployment-with-amazon-sagemaker-pipelines/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/01/21/ML-1682-2-12.jpg",
+          "width": 471,
+          "height": 611,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-22T14:32:06-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
       ]
     }
   ],

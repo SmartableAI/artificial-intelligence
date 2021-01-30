@@ -27,6 +27,38 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla will never achieve full self-driving capabilities, Waymo CEO says"
+    excerpt: "John Krafcik called Tesla's approach a \"misconception,\" while Google's sister company tackles lidar and more advanced systems."
+    publishedDateTime: 2021-01-27T02:08:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/tesla-will-never-achieve-full-self-driving-capabilities-says-waymo-ceo/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-will-never-achieve-full-self-driving-capabilities-says-waymo-ceo/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-will-never-achieve-full-self-driving-capabilities-says-waymo-ceo/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 104
+    images:
+      - url: "https://cnet2.cbsistatic.com/img/AVtNDbflfjRE8PTezweZ2ehMrBE=/2019/12/20/5d1f0f70-a427-4959-bc2c-7714bcc0c954/ogi-autopilot.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Tesla and Waymo jab at each other over who has the best self-driving tech"
+    excerpt: "Tesla and Waymo took to media and social media to spar over who has the best self-driving technology. Waymo on Tesla Waymo and Tesla have widely different approaches to developing full self-driving technology,"
+    publishedDateTime: 2021-01-25T18:05:00Z
+    webUrl: "https://electrek.co/2021/01/25/tesla-waymo-jab-each-other-best-self-driving-tech/"
+    ampWebUrl: "https://electrek.co/2021/01/25/tesla-waymo-jab-each-other-best-self-driving-tech/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/01/25/tesla-waymo-jab-each-other-best-self-driving-tech/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 103
+    images:
+      - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2020/11/Tesla-full-self-driving-road-debris.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Elon Musk says Tesla's Full Self-Driving tech will have Level 5 autonomy by the end of 2021"
     excerpt: "Tesla's CEO also confirmed that customers won't be able to transfer previous FSD purchases between old and new cars."
     publishedDateTime: 2021-01-28T01:48:00Z
@@ -43,21 +75,37 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Tesla had talks with other automakers about licensing its self-driving software, Elon Musk says"
-    excerpt: "Tesla had “preliminary” discussions with other automakers about licensing its self-driving software, according to new comments by CEO Elon Musk. Tesla Licensing Software Today, Tesla released its Q4 2020 financial results and following the release,"
-    publishedDateTime: 2021-01-28T01:46:00Z
-    webUrl: "https://electrek.co/2021/01/27/tesla-talks-automakers-licensing-self-driving-software-elon-musk/"
-    ampWebUrl: "https://electrek.co/2021/01/27/tesla-talks-automakers-licensing-self-driving-software-elon-musk/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/01/27/tesla-talks-automakers-licensing-self-driving-software-elon-musk/amp/"
+  - title: "Waymo CEO Blasts Tesla’s Self-Driving Tech"
+    excerpt: "Once again, extremely niche trash talk is being exchanged in the world of self-driving cars. John Krafcik, the CEO of the Google-affiliated self-driving car company Waym"
+    publishedDateTime: 2021-01-25T17:16:00Z
+    webUrl: "https://futurism.com/the-byte/waymo-ceo-blasts-teslas-self-driving-tech"
+    ampWebUrl: "https://futurism.com/waymo-ceo-blasts-teslas-self-driving-tech/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/waymo-ceo-blasts-teslas-self-driving-tech/amp"
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 77
+      name: Futurism
+      domain: futurism.com
+    quality: 74
     images:
-      - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2019/10/Tesla-Autopilot-hero-4-e1570845324247.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
+      - url: "https://wp-assets.futurism.com/2021/01/waymo-tes-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Waymo CEO Says Tesla Autopilot Will Never Be True Self-Driving and Elon Musk Responds"
+    excerpt: "In the buzzing world of autonomous driving, Tesla has always been sort of an anomaly. Not only does the company build everything in-house, from hardware to processors to artificial intelligence capabilities,"
+    publishedDateTime: 2021-01-25T22:30:00Z
+    webUrl: "https://observer.com/2021/01/waymo-ceo-tesla-elon-musk-debate-self-driving-software/"
+    ampWebUrl: "https://observer.com/2021/01/waymo-ceo-tesla-elon-musk-debate-self-driving-software/amp/"
+    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2021/01/waymo-ceo-tesla-elon-musk-debate-self-driving-software/amp/"
+    type: article
+    provider:
+      name: Observer
+      domain: observer.com
+    quality: 67
+    images:
+      - url: "https://observer.com/wp-content/uploads/sites/2/2020/01/GettyImages-1183851342.jpg?quality=80&strip"
+        width: 4800
+        height: 2895
         isCached: true
   - title: "Tesla says its Full Self-Driving subscription is coming ‘in a month or two’"
     excerpt: "Tesla's Full Self-Driving suite will have a subscription program \"in a month or two,\" CEO Elon Musk said during the company's Q4 2020 Earnings Call."
@@ -74,6 +122,31 @@ related:
       - url: "https://www.teslarati.com/wp-content/uploads/2020/12/tesla-powerpack-japan-300x211.jpg"
         width: 300
         height: 211
+        isCached: true
+  - title: "Musk says Tesla beats Waymo in self-driving technology after Krafcik criticizes it"
+    excerpt: "Musk says Tesla beats Waymo in self-driving technology after Krafcik criticizes it FBN's Liz Claman interviews Waymo CEO John Krafcik"
+    publishedDateTime: 2021-01-26T02:12:00Z
+    webUrl: "https://www.compsmag.com/news/technology/musk-says-tesla-beats-waymo-in-self-driving-technology-after-krafcik-criticizes-it/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/musk-says-tesla-beats-waymo-in-self-driving-technology-after-krafcik-criticizes-it/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/musk-says-tesla-beats-waymo-in-self-driving-technology-after-krafcik-criticizes-it/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 48
+  - title: "Why Waymo boss says 'self-driving' needs to go"
+    excerpt: "Waymo had come to the conclusion the phrase didn't accurately describe the technology the company is building. \"Is the self the car? If so, it doesn't really do good service to the product we're working on,"
+    publishedDateTime: 2021-01-26T06:24:00Z
+    webUrl: "https://europe.autonews.com/automakers/why-waymo-boss-says-self-driving-needs-go"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 39
+    images:
+      - url: "https://europe.autonews.com/s3/files/styles/800x600/public/john-krafcik.jpg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "2+0THjfZjXaAJWsPTzjnjFLkjsoyOkNoTAc6PT9sdYKHA3uJpwcKH+ewubJ1C4h57dd+bvw0BcteFukLNCoWSLlCfZG819ZrikxEFTHzqxxUuLqubeXETVNIJnfSVqp8XB2IabScdpFx5mnD865V3x/vrywvI6hdEWwp/QNXVNeDZQi4vsO6V9NXkDXztaTDiPal1MAZb8mv3jEgvisvcrZFah4Vp+ht5LO7zmyvokbE0e9rtbggA4mJqTeC+Fuhc3SjIdrfYf/mbTRbZ0CsBsfZh3oQDMwPM6eO3dw093SG/8HDQ/kiCZBNP1hrNLZqoWqzQRPbcwP6ZTclIJb1e2OTxMwfb+Mh/WQNd3LyGWjJBURPTHnfV5WVm9WZ+RIqo1Ts0GW30JSL9rYQiZ56ffziMD0fwZcWszFVYTpjOGuIHJtgw8mBZn/6LmjVwVRJV2pHgqYG/MTr8ntzr/18IZcRTaJ4/1NomUqdh6zCvMDwnkc13srqIuRDOrLPtLC1mmfy7+eWeHQMaCxqRIX+fQ==;/CdxF2h39cuPQw1rSaKyyQ=="

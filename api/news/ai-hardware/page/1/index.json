@@ -1010,34 +1010,34 @@
     {
       "path": "_news/2021-01-20-supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro.md",
       "title": "Supermicro Unveils NVIDIA GPU Server Test Drive Program with Leading Channel Partners to Deliver Workload Qualification on Remote Supermicro Servers",
-      "excerpt": "GPU or 4U HGX A100 8-GPU Systems Through Channel Partners – EMEA: Boston and Broadberry; North/Latin America: Colfax, Exxact, Microway, Thinkmate, and AMAX – Enabling Fast-track Testing of Industry-Leading Platforms SAN JOSE,",
+      "excerpt": "Super Micro Computer, Inc. (Nasdaq: SMCI), a global leader in enterprise computing, storage, networking solutions, and green computing technology, released details on a new GPU test-drive program. Called STEP (Supermicro Test drive Engagement with Partners),",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-1029986600",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-1029986600",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-information-technology-45afa2262f9cd079a23020412245cee2",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-information-technology-45afa2262f9cd079a23020412245cee2",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-1029986600",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-1029986600",
-      "publishedDateTime": "2021-01-20T06:28:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-20T06:33:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

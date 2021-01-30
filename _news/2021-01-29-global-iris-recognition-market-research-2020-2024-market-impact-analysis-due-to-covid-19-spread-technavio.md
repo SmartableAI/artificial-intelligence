@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Global Iris Recognition Market Research 2020-2024 | Market Impact Analysis due to COVID-19 Spread | Technavio"
+    excerpt: "Technavio has announced its latest market research report titled Global Iris Recognition Market 2020-2024 (Graphic: Business Wire) Worried about the impact of COVID-19 on your business? Here is an exclusive report talking about Market scenarios,"
+    publishedDateTime: 2021-01-30T07:57:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-europe-latin-america-and-caribbean-diseases-and-conditions-united-kingdom-85a9c5851391492cbe1541e90fcb15ad"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 7
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Artificial Intelligence in Medicine Market Research Report by Application, by End User - Global Forecast to 2025 - Cumulative Impact of COVID-19"
     excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence in Medicine Market Research Report by"
     publishedDateTime: 2021-01-29T10:34:00Z

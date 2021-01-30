@@ -3,10 +3,10 @@ category: news
 title: "New Global Rackspace Technology Study Uncovers Widespread Artificial Intelligence and Machine ..."
 excerpt: "Rackspace Technology™ (NASDAQ: RXT), a leading end-to-end, multicloud technology solutions company today announced the results of a global survey that reveals that the majority of organizations globally lack the internal resources to support critical artificial intelligence (AI) and machine learning (ML) initiatives."
 publishedDateTime: 2021-01-28T17:09:00Z
-originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-new-products-and-services-58e522140b27005e2132ba0042f5dea7"
-webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-new-products-and-services-58e522140b27005e2132ba0042f5dea7"
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-58e522140b27005e2132ba0042f5dea7"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-58e522140b27005e2132ba0042f5dea7"
 type: article
-quality: 26
+quality: 24
 heat: -1
 published: false
 
@@ -15,7 +15,6 @@ provider:
   domain: apnews.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
@@ -37,6 +36,6 @@ related:
       domain: compsmag.com
     quality: 28
 
-secured: "UJTFKlwcR6ZgwT1JwIJJdLE3ck2UPBivU8JV1S7sD66BSp5XwSqizdhlW0NkXxnOKe3ak4j7YhrOtAhPYohY/DVlLI98NkiI1lgjFJqUjDRTZEPppWO7M2nfwmJLiSvJRHo37JV65DgGMUnFXva8fVMnLYPxWV6wtY02qHBVnj6jQ0f8yprghs6WXapNZb/W6iuCOstxV+NjKSgc6go6zAal9O9GdpcVKKW8qWi/FqUOvBcQXP6B8n9hnq72HBrQ60HveOL3GLT8i9jJN3u+Egui/TFaU9en0dNBFRiDqVbDkxRqtdBiqTlJW7dc7nRd1tQvkZNLmI8fAcXDb3w2khtk3xPXZ9TSfEcPQh6TfxQ=;m7PvaUJ56bPvOfLvugBQHg=="
+secured: "MZkbMv8teagMCz/8qnJXTsIYT7O6RRJT87BUOaX/CjGX/BIEJJXgjg2yhHMSh3D7yiCh2Z7aBt5xwedfAKX/Fl8reMgF2nK07OtXVBD/0SKVTlzsEfCGTulZrLBFzqjANump9e4cpaTwlNkUD6kmonTZjhKtByXgjwGS0Xo4hz0+4fRpuvDX7o2GQIOCQ09qZ1LLm4xvOuidIJbY1ZAR2EjlskV3F4K/XVdfnz/q52tw/2F1UJ7GFyFw8k9DCdA5zpDtoZgptWJgyYLxUD9LTOtEVNsBcDKE0O4TJiNCEC2MN6bVDYCdKU0DvqJzqtCxX526AF+XzBcz6Bj5aNwkjgPyf1xUJzRA8tyagjmAS9A=;vfUAmLf25bZ5JrVIl/nvJA=="
 ---
 

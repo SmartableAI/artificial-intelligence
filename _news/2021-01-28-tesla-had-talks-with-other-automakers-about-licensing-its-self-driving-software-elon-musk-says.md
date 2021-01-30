@@ -9,8 +9,8 @@ ampWebUrl: "https://electrek.co/2021/01/27/tesla-talks-automakers-licensing-self
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/01/27/tesla-talks-automakers-licensing-self-driving-software-elon-musk/amp/"
 type: article
 quality: 77
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: Electrek
@@ -31,53 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk says Tesla's Full Self-Driving tech will have Level 5 autonomy by the end of 2021"
-    excerpt: "Tesla's CEO also confirmed that customers won't be able to transfer previous FSD purchases between old and new cars."
-    publishedDateTime: 2021-01-28T01:48:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/elon-musk-full-self-driving-tesla-earnings-call/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/elon-musk-full-self-driving-tesla-earnings-call/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/elon-musk-full-self-driving-tesla-earnings-call/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 79
-    images:
-      - url: "https://cnet3.cbsistatic.com/img/gCKjWpaDOLArujU35HNJiNtgxgs=/2018/10/24/3e4c2a85-ffa1-4600-ab59-e8af96931af4/tesla-logo-ogi.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Tesla Reports First Yearly Profit, Musk Again Promises Full Self-Driving"
-    excerpt: "It's worth noting that the company missed the same FSD target in 2019 and 2020, but Tesla continues to work toward getting self-driving technology on the market."
-    publishedDateTime: 2021-01-28T02:04:00Z
-    webUrl: "https://www.caranddriver.com/news/a35341920/tesla-fourth-quarter-fsd-cybertruck-vans/"
-    ampWebUrl: "https://www.caranddriver.com/news/amp35341920/tesla-fourth-quarter-fsd-cybertruck-vans/"
-    cdnAmpWebUrl: "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp35341920/tesla-fourth-quarter-fsd-cybertruck-vans/"
-    type: article
-    provider:
-      name: Car and Driver
-      domain: caranddriver.com
-    quality: 73
-    images:
-      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/an-aerial-view-of-the-tesla-fremont-factory-on-may-13-2020-news-photo-1611794951.?crop=1xw:0.74963xh;center,top&resize=1200:*"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "Tesla says its Full Self-Driving subscription is coming ‘in a month or two’"
-    excerpt: "Tesla's Full Self-Driving suite will have a subscription program \"in a month or two,\" CEO Elon Musk said during the company's Q4 2020 Earnings Call."
-    publishedDateTime: 2021-01-27T00:00:00Z
-    webUrl: "https://www.teslarati.com/tesla-full-self-driving-subscription-q1-2021/"
-    ampWebUrl: "https://www.teslarati.com/tesla-full-self-driving-subscription-q1-2021/amp/"
-    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-full-self-driving-subscription-q1-2021/amp/"
+  - title: "Tesla FSD Beta helps Sandy Munro change tune on self-driving"
+    excerpt: "Tesla FSD Beta helps Sandy Munro change his tune on self-driving after an unfavorable past experience with semi-autonomous electric vehicles."
+    publishedDateTime: 2021-01-29T14:34:00Z
+    webUrl: "https://www.teslarati.com/tesla-fsd-beta-sandy-munro-self-driving-video/"
+    ampWebUrl: "https://www.teslarati.com/tesla-fsd-beta-sandy-munro-self-driving-video/amp/"
+    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-fsd-beta-sandy-munro-self-driving-video/amp/"
     type: article
     provider:
       name: Tesla News
       domain: teslarati.com
-    quality: 57
+    quality: 59
     images:
-      - url: "https://www.teslarati.com/wp-content/uploads/2020/12/tesla-powerpack-japan-300x211.jpg"
-        width: 300
-        height: 211
+      - url: "https://www.teslarati.com/wp-content/uploads/2021/01/tesla-fsd-beta-sandy-munro-video-1024x479.jpg"
+        width: 1024
+        height: 479
         isCached: true
 
 secured: "+7G1NZDVtiHjwtWqjBxqItFK2UO9hvCmlE+qC9mI3CDNFikKrMlcF87MK2HpL+LoAvWRFYVkLUVICuKJOgyBgddxi2bKLJGL6bYPWd42YPzWjrAvQCfLfaiaCNPP535bHJ+9Qrpi4dds2PDBn0mC4nR1WpbTLGFPjyrHOjAtaiuTxVoxTCAmoFINH6tsS5zJnyFBSHQXJXcme82VtGhUZmTjBN/lb8c7yZWPiYXR5hAytI88pOl7HuqoPvNeL3VoZRHWCt+FVufC2rfg42RVADnzYfiKnnKl/UPkA6QKH4ipm2YIStGeHoNJYqAtKMJ3AYaaf8xsauu4LvajkBv5pQELMdvcMjIU5fUm+/hi7pTUsFnPleBW8GEDBuv0GjocqzkXeFp4qHpqr01opEMFpgPlM5yg050l6s5tsrtWEB8PmyBVVht+8COxWBymQ4ldEMuw8bt3gtRUcfOlkogMTvq04KGqqJG3NfL0wVH8vpCRD29XDKX0q3WzsJKTZFRIzEcvVBE51W7pFirJETBeNg==;b40JC3ywJanFn4LWIs+2lA=="

@@ -2,58 +2,6 @@
   "page": 22,
   "value": [
     {
-      "path": "_news/2021-01-12-ftc-settlement-with-ever-orders-data-and-ais-deleted-after-facial-recognition-pivot.md",
-      "title": "FTC settlement with Ever orders data and AIs deleted after facial recognition pivot",
-      "excerpt": "Face recognition and computer vision technology have the potential to improve our lives in profound ways and we take the gravity of its impacts extremely seriously.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/01/12/ftc-settlement-with-ever-orders-data-and-ais-deleted-after-facial-recognition-pivot/",
-      "originalUrl": "https://techcrunch.com/2021/01/12/ftc-settlement-with-ever-orders-data-and-ais-deleted-after-facial-recognition-pivot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1167845607.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/01/12/ftc-settlement-with-ever-orders-data-and-ais-deleted-after-facial-recognition-pivot/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/12/ftc-settlement-with-ever-orders-data-and-ais-deleted-after-facial-recognition-pivot/amp/",
-      "publishedDateTime": "2021-01-12T06:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-12-who-is-mr-blue-eyes-in-cyberpunk-2077-part-of-its-sprawling-rogue-ai-unsolved-mystery.md",
       "title": "Who Is Mr. Blue Eyes In ‘Cyberpunk 2077,’ Part Of Its Sprawling Rogue AI Unsolved Mystery?",
       "excerpt": "This past week, the senior quest designer of Cyberpunk 2077 said that even after millions of hours of gameplay in the past month, not all of the game’s secrets have been uncovered yet. Mr. Blue Eyes may be one of them.",
@@ -1189,6 +1137,49 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-thundercomm-introduces-its-latest-edge-ai-box-and-e-cockpit-solution-at-ces-2021.md",
+      "title": "Thundercomm Introduces Its Latest Edge AI Box and E-cockpit Solution at CES 2021",
+      "excerpt": "PRNewswire/ -- Thundercomm, a world-leading IoT product and solution provider, today introduces its unparalleled Edge AI Box--EB5 and E-cockpit Solution 4.5 at CES 2021, from Jan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/thundercomm-introduces-its-latest-edge-ai-box-and-e-cockpit-solution-at-ces-2021/article_d2c408a0-8d0b-5b57-bfc4-ad10b41d9240.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/thundercomm-introduces-its-latest-edge-ai-box-and-e-cockpit-solution-at-ces-2021/article_d2c408a0-8d0b-5b57-bfc4-ad10b41d9240.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-11T21:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     }

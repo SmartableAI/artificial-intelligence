@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/01/26/unders
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/01/26/understanding-the-value-of-artificial-intelligence-solutions-in-your-business/amp/"
 type: article
 quality: 84
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "This AI-Powered Startup Offers No Code Solutions To Build Apps In Minutes"
+    excerpt: "Enter Appy Pie, an AI-powered no-code platform to help your light bulb ideas see the light. For this week’s startup column, Analytics India Magazine spoke to Abhinav Girdhar, Founder and CEO of Appy Pie,"
+    publishedDateTime: 2021-01-30T07:30:00Z
+    webUrl: "https://analyticsindiamag.com/this-ai-powered-startup-offers-no-code-solutions-to-build-apps-in-minutes/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 38
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/01/pasted-image-0-15.png"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Speech Processing Solutions: Next-generation Workflow Solution With AI-powered Speech Recognition, Now in Australia"
     excerpt: "The new version of the Philips dictation workflow solution for enterprise businesses, SpeechExec Enterprise 7.0 (SEE 7.0) is now available in Australia. The close collaboration between Nuance Communications and Speech Processing Solutions,"

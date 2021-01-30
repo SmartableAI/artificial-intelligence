@@ -2,57 +2,6 @@
   "page": 17,
   "value": [
     {
-      "path": "_news/2021-01-15-smart-collar-translates-dog-barks-into-emotions-startup-company-says.md",
-      "title": "Smart collar translates dog barks into emotions, startup company says",
-      "excerpt": "Now you can find out what your dog is saying when it barks -- or at least, you’ll know how it’s feeling. South Korean startup Petpuls has created a smart collar that can identify five emotions in dogs using AI-enabled voice recognition technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/lifestyle/smart-dog-collar-translates-barks-emotions",
-      "originalUrl": "https://www.foxnews.com/lifestyle/smart-dog-collar-translates-barks-emotions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/iStock-156869127.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/lifestyle/smart-dog-collar-translates-barks-emotions.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/smart-dog-collar-translates-barks-emotions.amp",
-      "publishedDateTime": "2021-01-14T18:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-15-a-skeleton-key-for-ai-hardware-experimentation.md",
       "title": "A Skeleton Key for AI Hardware Experimentation",
       "excerpt": "There’s TensorFlow, Keras, PyTorch, and so on not to mention the increasingly complex interplay between ML models, software frameworks, and hardware,” says Luis Ceze, professor at the University of Washington and co-founder and co-CEO of TVM-driven ...",
@@ -1165,6 +1114,49 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-14-the-best-new-robot-vacuums-of-ces-2021.md",
+      "title": "The best new robot vacuums of CES 2021",
+      "excerpt": "At CES 2021, we're seeing vacuums that will be able to clean your home better than ever before. Here are some of the best robot vacuums on display this year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/home/best-robot-vacuums-ces-2021/",
+      "originalUrl": "https://www.digitaltrends.com/home/best-robot-vacuums-ces-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/home/best-robot-vacuums-ces-2021/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/best-robot-vacuums-ces-2021/?amp",
+      "publishedDateTime": "2021-01-14T05:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

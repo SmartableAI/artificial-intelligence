@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Supermicro Unveils NVIDIA GPU Server Test Drive Program with Leading Channel Partners to Deliver Workload Qualification on Remote Supermicro Servers"
-excerpt: "GPU or 4U HGX A100 8-GPU Systems Through Channel Partners – EMEA: Boston and Broadberry; North/Latin America: Colfax, Exxact, Microway, Thinkmate, and AMAX – Enabling Fast-track Testing of Industry-Leading Platforms SAN JOSE,"
-publishedDateTime: 2021-01-20T14:28:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-1029986600"
-webUrl: "https://markets.businessinsider.com/news/stocks/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-1029986600"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-1029986600"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-1029986600"
+excerpt: "Super Micro Computer, Inc. (Nasdaq: SMCI), a global leader in enterprise computing, storage, networking solutions, and green computing technology, released details on a new GPU test-drive program. Called STEP (Supermicro Test drive Engagement with Partners),"
+publishedDateTime: 2021-01-20T14:33:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-information-technology-45afa2262f9cd079a23020412245cee2"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-information-technology-45afa2262f9cd079a23020412245cee2"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "bbzWFgF5YS65H+5s7jVp6hLPAL3BXRGMih8YO9JWewYuPgwLdJkF8weYXyTxjnhlLMG03CDlYFsTWLBoDdeYV7tyV9U6LClYYYEZtLPqJgwTYWeE1HdTmd4Q/KjqPw6JyLdXnx4tWYNh6ZVXKfZMHGei6v+KHVMSuMJec7+dKmo5QM5W1OGzC7oDoFYFU2WS+RVuBuXiKoPe8jG7kLtDxSg4OUf3F9nfe2s1RDWZbluGSoSqWfIIAko0zxz+SYg57V/hAknk1JsW0QCHbzSqAp17ZiszAJABjGF8S5EUnTnPBH/Ssneke7aDIW39LUzbWqtAPLTlenmbzF6j/IUkYxRQyCcaw7GsIPNxdpQWq18=;vkxwLOyE5I3e6aqXkLvvNA=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "CsBJt8uvYcV1QXmTWGvX08AuDCT3F0EkIBawJZ5OOdAE5wdnGdvbxLDgxOf9Sl25kwmFz8pdDcYaKvnzTm0LTO1qltNvvGvcTToWA6n6kzGwlfLmUT6Cn78q3OdiDIGY4V4zn0+iCcKwal20t4NA1yboZMGyfOfNj6krwYdskYkgxs0f9wzKaFTxKMNulPm7aSJUNX7GWIWmYLD59uglbahNaCRWdEcmsVzur3Omqq1hIuNFLFZYcaLI1M1V6sD1v7dPlbfDhzSU0ZxV9DzslVusVclx65TC/T2Scuu9FJroGpjgn3FvennFn+PNbKfSxkJVOiNpUYblAPXfaoLsNlJhOzu2qmzo7y4Q37U7RAc=;y9rmUBESYdRT3h5Gc8J2kg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/19306126"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19306126"
 type: article
 quality: 16
-heat: -1
+heat: 16
 published: false
 
 provider:
@@ -18,38 +18,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Copy.ai Revolutionizes Digital Marketing By Augmenting Human Creativity With AI"
-    excerpt: "Chris Lu and Paul Yacoubian realize that artificial intelligence can augment human creativity, instead of replacing it as some may fear, creating Copy.ai to enhance digital marketers ad copy."
-    publishedDateTime: 2021-01-25T16:12:00Z
-    webUrl: "https://www.forbes.com/sites/frederickdaso/2021/01/25/copyai-revolutionizes-digital-marketing-by-augmenting-human-creativity-with-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/frederickdaso/2021/01/25/copyai-revolutionizes-digital-marketing-by-augmenting-human-creativity-with-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/frederickdaso/2021/01/25/copyai-revolutionizes-digital-marketing-by-augmenting-human-creativity-with-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 100
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600c6b551fa40d5a65663466%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D820%26cropY1%3D0%26cropY2%3D461"
-        width: 820
-        height: 461
-        isCached: true
-  - title: "Increasing role of AI and machine learning in smartening up data centers"
-    excerpt: "AI and machine learning in data centers can revolutionize data storage and computing power, bolstering companies' data management capabilities."
-    publishedDateTime: 2021-01-26T06:51:00Z
-    webUrl: "https://www.analyticsinsight.net/powering-data-centers-with-ai-and-machine-learning/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 53
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/Data-Centers.jpeg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "8TIvdxwNk5oCd9GFcOZ66zVgkww6T/15flq7OdGhkUG92bDVk+NmDhEizyqyZp4pmD+Qke0QBCLiZCr5OO6c0SguXP6g+9WAdn2CMgQU2r1X1A8Mh9TGOjUcBRSRKHjMt7v/O1pLWjACERuMyj/Xqgu7KM8i7cqaih+HTJOwcPds7ApnaLEPNHI8GtV5fWdJRpaHGuRkYddPbXmqynntSsjubt3Grdz6gz2L1+hbCeYU4mbH9EOtbJNYsP/qdrxE9uhQm6E07yT0w4FlVyaIAvZjj5SdlXW8Ftw6zJh03HlAa/P9e/GjmNSgq9pU7+oGF0nYTEulNQ6JTgSp1OSm35q4ohXk1x4oBkoKZCUH8lk=;+kcILuNrd+Y1e9mt86swDw=="
 ---

@@ -44,6 +44,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 65
+  - title: "New Global Rackspace Technology Study Uncovers Widespread Artificial Intelligence and Machine Learning Knowledge Gap"
+    excerpt: "SAN ANTONIO, (GLOBE NEWSWIRE) -- Rackspace Technology (TM) (NASDAQ: RXT), a leading end-to-end, multicloud technology solutions company today announced the results of a global survey that reveals that the majority of organizations globally lack the internal resources to support critical artificial intelligence (AI) and machine learning (ML) initiatives."
+    publishedDateTime: 2021-01-28T11:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/new-global-rackspace-technology-study-uncovers-widespread-artificial-intelligence-and-machine-learning-knowledge-gap-2021-01-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Help your AI and Deep Learning Tools Become Smarter"
     excerpt: "Google and Microsoft are building proprietary chips to make their deep learning platforms a little faster and more desirable than others. These AI chips and infrastructures can improve the experience of running the Deep Neutral Net for processing data on a ..."
     publishedDateTime: 2021-01-29T13:29:00Z
@@ -85,6 +99,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1427165/arena_ethics_advisors.jpg?p=facebook"
         width: 1920
         height: 1005
+        isCached: true
+  - title: "Increasing role of AI and machine learning in smartening up data centers"
+    excerpt: "AI and machine learning in data centers can revolutionize data storage and computing power, bolstering companies' data management capabilities."
+    publishedDateTime: 2021-01-26T06:51:00Z
+    webUrl: "https://www.analyticsinsight.net/powering-data-centers-with-ai-and-machine-learning/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 53
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/Data-Centers.jpeg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Learning with – and about – AI technology | MIT News"
     excerpt: "MIT News. Between distance learning, spending more time at home, and working parents trying to keep their kids occ"

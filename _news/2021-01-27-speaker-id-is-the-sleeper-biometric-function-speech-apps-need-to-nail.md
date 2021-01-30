@@ -39,15 +39,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "SVI Teams with IDEMIA NSS to Offer World’s Most Advanced FMCW 4D LiDAR Biometric Recognition Solution"
-    excerpt: "The solution combines NSS’s world-class biometric software with SVI’s superior 4D FMCW LiDAR system technology. FMCW LiDAR, which is short for “frequency-modulated continuous wave light detection and ranging,"
-    publishedDateTime: 2021-01-25T16:11:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/8140476/svi-teams-with-idemia-nss-to-offer-worlds-most-advanced-fmcw-4d-lidar-biometric-recognition-solution"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 0
 
 secured: "L1KCMAyq6Yty0wTImZ8iUPKsN1hiSQfegyK3s4V1SejEy+IhYR/6k3EmsWw6iEWxM7m4US0wSXdPbf1AcsaHL3ciKCOZOrc8+oJxG8IYnr9Eok50sXjBodME6/qtyPS/POigLUqIe/ynld6tg/2OI3qZvmSe5VSWRKNFVEIJbzbuMfLVKKmeGevFr/LvR34RBJmewHpoQbmcxKsRTzI/WkUpJSW4LYihiNaoegJXP0ZrnAk73VC5GZH3cwZhdkregu88YOIAZ0r0DoUbtgolYbEgwy2dRUfELcnuZfll+AqSYsk6IqwaJo0Ay7bvBdjy1pJF0Akc/xddIN634vxN3qPeNEkq5udSjEdSkhNhcCI=;/dzPzFv5CfcAumVUpjN3kw=="
 ---

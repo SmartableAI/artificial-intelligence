@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Global Healthcare Artificial Intelligence Market, 2020-2027 - Growing Incorporation of AI in Clinical Trials to Accelerate New Drug Launches"
-excerpt: "The \"Healthcare Artificial Intelligence Market - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The global healthcare artificial intelligence (AI) market is expected to grow at a CAGR of 41."
-publishedDateTime: 2021-01-19T19:19:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/global-healthcare-artificial-intelligence-market-2020-2027-growing-incorporation-of-ai-in-clinical-trials-to-accelerate-new-drug-launches-1029983009"
-webUrl: "https://markets.businessinsider.com/news/stocks/global-healthcare-artificial-intelligence-market-2020-2027-growing-incorporation-of-ai-in-clinical-trials-to-accelerate-new-drug-launches-1029983009"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/global-healthcare-artificial-intelligence-market-2020-2027-growing-incorporation-of-ai-in-clinical-trials-to-accelerate-new-drug-launches-1029983009"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-healthcare-artificial-intelligence-market-2020-2027-growing-incorporation-of-ai-in-clinical-trials-to-accelerate-new-drug-launches-1029983009"
+excerpt: "The \"Healthcare Artificial Intelligence Market - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering."
+publishedDateTime: 2021-01-19T19:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/global-healthcare-artificial-intelligence-market-2020-2027---growing-incorporation-of-ai-in-clinical-trials-to-accelerate-new-drug-launches-301210783.html"
+webUrl: "https://www.prnewswire.com/news-releases/global-healthcare-artificial-intelligence-market-2020-2027---growing-incorporation-of-ai-in-clinical-trials-to-accelerate-new-drug-launches-301210783.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "u7ilDnVB7MXRFGkbfQXkfVz5sIcwND3PpShJptNrdG4KIn2+FQx0ekot95I1jAW+EKfMbRVTFYOFhBjx2fER/41LRuIKq53zxUHph4+AQ2naJp6svmju/OgSX2U/9XleRdazixJo0OT1JdSJmvgGXWdNm3oCBiRDJa92dWo9tjN24kHHD+oYvYtFq4tv+OOzM4TzUrAovtkogH3dffb+wr2VQxQdd7PjWIUXeBRXGJKM7AlAN2BltorucZ/BjEwJL+hSKGiJu8pVhLpeyBvtzg9zYuhCcUhFsDi+f/FoW2aVSeJOtDpXyG5AvVNe44lEH4ee95tYj998EyNWricWMjp3v3ffobWRkfGZKTEEZYo=;6uZHH/fEbAAqBbn+rh9Uaw=="
+images:
+  - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+    width: 800
+    height: 419
+    isCached: true
+
+secured: "kmf1v1RDPeU59dGqqNNG76eyUgC0zx0pEpd6ZZ1Tjt1T5g5GbQJUohr/ivOP/0CnOgXgH/7LSIDoPhsNjMvHoiGi8uhbvUwvukec48ZHKdJJzy6lz3/TDT+EkBDJcnd4klHgNBxCwLItCa1jH44TwzdBhOFo3+oO9ifGQo7ncN7rOhOP13stS3SoFcZbv3fi6/4nPyCjLTxaAbCE2Knj3O+yWEBl3zWUVSaNV1ky1rPV2koCWWdou5rJtNg4D5RmAa3bJKz3zy71HtTk3MOdQuLNQf3Q7WwXEKg6KfbEWuAm3X8uFevclaN8MIrLeOUw+jcWBYSJcxOug3XklzisCElTxbCvBY67clrpB/m9+rk=;wNrwc1elJhShfEOJbvQM0Q=="
 ---
 

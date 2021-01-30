@@ -2,58 +2,6 @@
   "page": 28,
   "value": [
     {
-      "path": "_news/2021-01-08-uk-competition-regulator-to-probe-nvidias-40-billion-arm-takeover.md",
-      "title": "U.K. competition regulator to probe Nvidia’s $40 billion Arm takeover",
-      "excerpt": "Britain's competition regulator said it would start an investigation into Nvidia’s $40 billion deal to buy U.K.-based chip designer Arm.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/07/uk-to-probe-nvidias-40-billion-arm-takeover/",
-      "originalUrl": "https://venturebeat.com/2021/01/07/uk-to-probe-nvidias-40-billion-arm-takeover/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/GettyImages-1208744151.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/07/uk-to-probe-nvidias-40-billion-arm-takeover/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/07/uk-to-probe-nvidias-40-billion-arm-takeover/amp/",
-      "publishedDateTime": "2021-01-07T10:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-08-chinese-search-giant-baidu-to-make-electric-cars.md",
       "title": "Chinese search giant Baidu to make electric cars",
       "excerpt": "Chinese search giant Baidu plans to make electric vehicles with help from Geely, the country’s largest private automaker, according to a new report from Reuters. It’s the latest Chinese conglomerate to venture into the flourishing electric vehicle market,",
@@ -1156,6 +1104,58 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-need-a-covid-test-look-for-a-vending-machine.md",
+      "title": "Need a COVID test? Look for a vending machine",
+      "excerpt": "\"Our unique cloud architecture allows us to service many use cases like Wellness 4 Humanity, while having machine learning power our operations,\" Smith said. Swyft's other customers include CVS, Best Buy, and 7-Eleven. These companies use Swyft's automated ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/need-a-covid-test-look-for-a-vending-machine/",
+      "originalUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/need-a-covid-test-look-for-a-vending-machine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2021/01/06/94c4c6b9-7324-42c8-a7e1-a8b8dec10bea/resize/1200x/9b85599fd04562d09f3944361b6379d2/istock-1224323409.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/need-a-covid-test-look-for-a-vending-machine/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/need-a-covid-test-look-for-a-vending-machine/",
+      "publishedDateTime": "2021-01-06T21:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }

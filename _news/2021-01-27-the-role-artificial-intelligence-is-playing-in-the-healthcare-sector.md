@@ -9,7 +9,7 @@ ampWebUrl: "https://techbullion.com/the-role-artificial-intelligence-is-playing-
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/the-role-artificial-intelligence-is-playing-in-the-healthcare-sector/amp/"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Use of AI in healthcare & medicine is booming – here's how the medical field is benefiting from AI in 2021 and beyond"
+    excerpt: "The AI and technology revolutionizing all industries, it was only a matter of time before the same happened to healthcare. BI reviews the latest research and trends regarding artificial intelligence in medicine and healthcare."
+    publishedDateTime: 2021-01-29T21:55:00Z
+    webUrl: "https://www.businessinsider.com/artificial-intelligence-healthcare"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 61
+    images:
+      - url: "https://i.insider.com/5c98ef348e436a48a55cb83b?width=1200&format=jpeg"
+        width: 1000
+        height: 500
+        isCached: true
   - title: "Rising integration of artificial intelligence in healthcare is influencing the Healthcare Virtual Assistants Market growth"
     excerpt: "Meticulous Research (R) - leading global market research company published a research report titled \"Healthcare Virtual Assistants Market by Product (Chatbot and Smart Speaker), Technology (Speech Recognition,"
     publishedDateTime: 2021-01-27T10:03:00Z

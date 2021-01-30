@@ -2,111 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2021-01-27-the-inner-game-of-ai-and-how-to-not-make-the-same-mistakes-you-made-with-digital-transformation.md",
-      "title": "The Inner Game Of AI (And How To Not Make The Same Mistakes You Made With Digital Transformation)",
-      "excerpt": "Implementing AI is a daunting challenge. It requires orchestrating seismic and complex change, retraining existing talent and acquiring new expertise. Learn how to not get it wrong.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/renitakalhorn/2021/01/27/the-inner-game-of-ai-and-how-to-not-make-the-same-mistakes-you-made-with-digital-transformation/",
-      "originalUrl": "https://www.forbes.com/sites/renitakalhorn/2021/01/27/the-inner-game-of-ai-and-how-to-not-make-the-same-mistakes-you-made-with-digital-transformation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6010935ebcc42bb3e75a9c62%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D640%26cropY1%3D10%26cropY2%3D490",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/renitakalhorn/2021/01/27/the-inner-game-of-ai-and-how-to-not-make-the-same-mistakes-you-made-with-digital-transformation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/renitakalhorn/2021/01/27/the-inner-game-of-ai-and-how-to-not-make-the-same-mistakes-you-made-with-digital-transformation/amp/",
-      "publishedDateTime": "2021-01-27T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-ai-ethics-really-come-down-to-security.md",
-      "title": "AI Ethics Really Come Down To Security",
-      "excerpt": "If we're going to rely on them to take more active and responsible roles in our lives, we must be able to trust that they're not only ethical but that the AI and the machine learning that underpins them operate safely and securely.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/27/ai-ethics-really-come-down-to-security/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/27/ai-ethics-really-come-down-to-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f353f32349adf926e0401fb%2F0x0.jpg",
-          "width": 1200,
-          "height": 943,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/27/ai-ethics-really-come-down-to-security/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/27/ai-ethics-really-come-down-to-security/amp/",
-      "publishedDateTime": "2021-01-27T05:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI Ethics",
-        "AI in Security"
-      ]
-    },
-    {
       "path": "_news/2021-01-27-yati-ernie-machine-learning-in-yandex-and-baidu.md",
       "title": "YATI & ERNIE: Machine Learning in Yandex and Baidu",
       "excerpt": "Google isn't the only search engine making strides in machine learning. See how Yandex and Baidu have advanced search with YATI and ERNIE, as well.",
@@ -407,7 +302,7 @@
       "originalUrl": "https://techbullion.com/the-role-artificial-intelligence-is-playing-in-the-healthcare-sector/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -745,6 +640,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-27-tesla-will-never-achieve-full-self-driving-capabilities-waymo-ceo-says.md",
+      "title": "Tesla will never achieve full self-driving capabilities, Waymo CEO says",
+      "excerpt": "John Krafcik called Tesla's approach a \"misconception,\" while Google's sister company tackles lidar and more advanced systems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/tesla-will-never-achieve-full-self-driving-capabilities-says-waymo-ceo/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-will-never-achieve-full-self-driving-capabilities-says-waymo-ceo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/AVtNDbflfjRE8PTezweZ2ehMrBE=/2019/12/20/5d1f0f70-a427-4959-bc2c-7714bcc0c954/ogi-autopilot.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-will-never-achieve-full-self-driving-capabilities-says-waymo-ceo/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-will-never-achieve-full-self-driving-capabilities-says-waymo-ceo/",
+      "publishedDateTime": "2021-01-26T18:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-27-ehave-inc-utilizes-artificial-intelligence-and-machine-learning-for-big-data-management-in-mental-healthcare.md",
       "title": "Ehave, Inc. Utilizes Artificial Intelligence and Machine Learning for Big Data Management in Mental Healthcare",
       "excerpt": "Ehave has been using artificial intelligence and machine learning since the first version of its Ehave Dashboard to transform clinical research, identify treatment protocols, and increase the virtual care capabilities of health providers. Before the COVID ...",
@@ -1012,7 +959,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/delivering-natural-conversational-experiences-using-amazon-lex-streaming-apis/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1242,6 +1189,59 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-looking-for-free-cloud-training-check-out-the-aws-dev-hour-on-twitch-and-learn-to-build-an-app.md",
+      "title": "Looking for free cloud training? Check out the AWS Dev Hour on Twitch and learn to build an app",
+      "excerpt": "SEE: Top cloud providers in 2020: AWS, Microsoft Azure, and Google Cloud ... The video archive has dozens of broadcasts ranging from machine learning to conversations with Amazon partners. Scott Barneson, director of Learning Products, AWS Training ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/looking-for-free-cloud-training-check-out-the-aws-dev-hour-on-twitch-and-learn-to-build-an-app/",
+      "originalUrl": "https://www.techrepublic.com/article/looking-for-free-cloud-training-check-out-the-aws-dev-hour-on-twitch-and-learn-to-build-an-app/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/05/21/26d99b4f-7045-42a2-9d05-72827c4c35a2/resize/1200x/5295fe73cfe208e7c1d271b4bc1a790d/istock-1209016407.jpg",
+          "width": 1200,
+          "height": 815,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/looking-for-free-cloud-training-check-out-the-aws-dev-hour-on-twitch-and-learn-to-build-an-app/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/looking-for-free-cloud-training-check-out-the-aws-dev-hour-on-twitch-and-learn-to-build-an-app/",
+      "publishedDateTime": "2021-01-26T08:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
       ]
     }
   ],

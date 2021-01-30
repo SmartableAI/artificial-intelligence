@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/19388179"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19388179"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,20 @@ topics:
   - AI
 
 related:
+  - title: "Global Iris Recognition Market Research 2020-2024 | Market Impact Analysis due to COVID-19 Spread | Technavio"
+    excerpt: "Technavio has announced its latest market research report titled Global Iris Recognition Market 2020-2024 (Graphic: Business Wire) Worried about the impact of COVID-19 on your business? Here is an exclusive report talking about Market scenarios,"
+    publishedDateTime: 2021-01-30T07:57:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-europe-latin-america-and-caribbean-diseases-and-conditions-united-kingdom-85a9c5851391492cbe1541e90fcb15ad"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 7
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Global Iris Recognition Market Research 2020-2024 | Market Impact Analysis due to COVID-19 Spread | Technavio"
     excerpt: "Technavio has announced its latest market research report titled Global Iris Recognition Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--The iris recognition market is poised to grow by USD 2."
     publishedDateTime: 2021-01-29T13:09:00Z

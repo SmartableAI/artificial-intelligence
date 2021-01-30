@@ -106,19 +106,71 @@
       ]
     },
     {
-      "path": "_news/2021-01-28-elon-musk-says-teslas-full-self-driving-tech-will-have-level-5-autonomy-by-the-end-of-2021.md",
-      "title": "Elon Musk says Tesla's Full Self-Driving tech will have Level 5 autonomy by the end of 2021",
-      "excerpt": "Tesla's CEO also confirmed that customers won't be able to transfer previous FSD purchases between old and new cars.",
+      "path": "_news/2021-01-28-tesla-had-talks-with-other-automakers-about-licensing-its-self-driving-software-elon-musk-says.md",
+      "title": "Tesla had talks with other automakers about licensing its self-driving software, Elon Musk says",
+      "excerpt": "Tesla had “preliminary” discussions with other automakers about licensing its self-driving software, according to new comments by CEO Elon Musk. Tesla Licensing Software Today, Tesla released its Q4 2020 financial results and following the release,",
       "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/elon-musk-full-self-driving-tesla-earnings-call/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/elon-musk-full-self-driving-tesla-earnings-call/",
+      "webUrl": "https://electrek.co/2021/01/27/tesla-talks-automakers-licensing-self-driving-software-elon-musk/",
+      "originalUrl": "https://electrek.co/2021/01/27/tesla-talks-automakers-licensing-self-driving-software-elon-musk/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://cnet3.cbsistatic.com/img/gCKjWpaDOLArujU35HNJiNtgxgs=/2018/10/24/3e4c2a85-ffa1-4600-ab59-e8af96931af4/tesla-logo-ogi.jpg",
+          "url": "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2019/10/Tesla-Autopilot-hero-4-e1570845324247.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/01/27/tesla-talks-automakers-licensing-self-driving-software-elon-musk/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/01/27/tesla-talks-automakers-licensing-self-driving-software-elon-musk/amp/",
+      "publishedDateTime": "2021-01-27T17:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-tesla-will-never-achieve-full-self-driving-capabilities-waymo-ceo-says.md",
+      "title": "Tesla will never achieve full self-driving capabilities, Waymo CEO says",
+      "excerpt": "John Krafcik called Tesla's approach a \"misconception,\" while Google's sister company tackles lidar and more advanced systems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/tesla-will-never-achieve-full-self-driving-capabilities-says-waymo-ceo/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-will-never-achieve-full-self-driving-capabilities-says-waymo-ceo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/AVtNDbflfjRE8PTezweZ2ehMrBE=/2019/12/20/5d1f0f70-a427-4959-bc2c-7714bcc0c954/ogi-autopilot.jpg",
           "width": 1200,
           "height": 630,
           "title": null,
@@ -128,9 +180,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/elon-musk-full-self-driving-tesla-earnings-call/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/elon-musk-full-self-driving-tesla-earnings-call/",
-      "publishedDateTime": "2021-01-27T17:48:00-08:00",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-will-never-achieve-full-self-driving-capabilities-says-waymo-ceo/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-will-never-achieve-full-self-driving-capabilities-says-waymo-ceo/",
+      "publishedDateTime": "2021-01-26T18:08:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNET",
@@ -1432,49 +1484,6 @@
       "provider": {
         "name": "The Financial Times",
         "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-full-autonomous-self-driving-teslas-in-vegas-boring-tunnels-by-the-end-of-2021.md",
-      "title": "Full Autonomous Self Driving Teslas in Vegas Boring Tunnels by the End of 2021",
-      "excerpt": "The LVCVA board approved $6.25 million to Boring to operate the mile-long convention center system from Feb. 1 through June 30, 2022. At no cost, authorized access to Boring to dig tunnels connecting",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextbigfuture.com/2021/01/full-autonomous-self-driving-teslas-in-vegas-boring-tunnels-by-the-end-of-2021.html",
-      "originalUrl": "https://www.nextbigfuture.com/2021/01/full-autonomous-self-driving-teslas-in-vegas-boring-tunnels-by-the-end-of-2021.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nextbigfuture.com/wp-content/uploads/2019/12/fsdchip-1024x512.jpeg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextbigfuture.com/2021/01/full-autonomous-self-driving-teslas-in-vegas-boring-tunnels-by-the-end-of-2021.html?amp",
-      "cdnAmpWebUrl": "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/01/full-autonomous-self-driving-teslas-in-vegas-boring-tunnels-by-the-end-of-2021.html?amp",
-      "publishedDateTime": "2021-01-14T11:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NextBigFuture",
-        "domain": "nextbigfuture.com",
         "images": null,
         "publishers": null,
         "authors": null

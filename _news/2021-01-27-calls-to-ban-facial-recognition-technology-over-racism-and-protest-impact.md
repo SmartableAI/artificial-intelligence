@@ -229,20 +229,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 48
-  - title: "New advances in the detection of bias in face recognition algorithms"
-    excerpt: "A team from the Computer Vision Center (CVC) and the University of Barcelona has published the results of a study that evaluates the accuracy and bias in gender and skin colour of automatic face recognition algorithms tested with real world data."
-    publishedDateTime: 2021-01-25T15:39:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-01/uob-nai012521.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Capitol riot boosts facial recognition app"
     excerpt: "A facial recognition app saw a large increase in use the day after rioters stormed the U.S. Capitol building in Washington, D.C. Source by: Stringr"
     publishedDateTime: 2021-01-25T22:15:00Z
@@ -267,20 +253,6 @@ related:
       - url: "https://www.gothamgazette.com/images/49357872161_d665ed209d_c.jpg"
         width: 799
         height: 533
-        isCached: true
-  - title: "New advances in the detection of bias in face recognition"
-    excerpt: "A team from the Computer Vision Center CVC and the University of Barcelona has published the results of a study that evaluates the accuracy and bias in gender"
-    publishedDateTime: 2021-01-25T16:45:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/267641987/new-advances-in-the-detection-of-bias-in-face-recognition"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 39
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1611593005.jpg"
-        width: 630
-        height: 420
         isCached: true
   - title: "Capitol riot boosts facial recognition app"
     excerpt: "A facial recognition app saw a large increase in use the day after rioters stormed the U.S. Capitol building in Washington, D.C. Source by: Stringr"

@@ -7,7 +7,7 @@ originalUrl: "https://performing.artshub.com.au/news-article/features/performing
 webUrl: "https://performing.artshub.com.au/news-article/features/performing-arts/the-conversation/robots-were-dreamt-up-100-years-ago-why-havent-our-fears-about-them-changed-since-261816"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 600
     height: 370
     isCached: true
-
-related:
-  - title: "Robots got their name 100 years ago today"
-    excerpt: "Exactly one hundred years ago, a play premiered that introduced a significant new word to the world – robot. When the first production of Karel Čapek's R.U.R. opened on January 25, 1921, at the National Theater in what is now the Czech Republic,"
-    publishedDateTime: 2021-01-25T16:04:00Z
-    webUrl: "https://newatlas.com/robotics/rur-capek-play-word-robot-100-years/"
-    ampWebUrl: "https://newatlas.com/robotics/rur-capek-play-word-robot-100-years/?amp=true"
-    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/rur-capek-play-word-robot-100-years/?amp=true"
-    type: article
-    provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 89
-    images:
-      - url: "https://assets.newatlas.com/dims4/default/6f201af/2147483647/strip/true/crop/2966x1977+289+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F52%2Fde%2F024cf2c14067b3ce037597552261%2Fr5mk4h.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "t/7VT1x/MA3JCv5kbXG9DlT544Nswzk47wVyOFLEIxUi10LOa+VQqqytd/BKrhaWvMmBkDYT4w156MF9SpXFnqXqkIvIyGFJu0axTC6WGh7L+ZN5uQefFrjSMsh1DeekAepOyG1FUrReDkAGgKO94bR00dodR3HNLFuxgNhK4dKj3D8PALhnv2bkkDkI55MNcPW2Z/zUIhDtuwipBTZexlswmXgZ4WCLlZJdq7+F6zgiNPHThZL+g9kLljC3Yh6+8nJhecr1tqPB5UZz4jT+NeL6GFqkUGc5NQr/2uYW8V03ldYlLWIJwMDP2DpeMj9CLQgTNUh3b7CWZ0zPuKwEVlYDqJY9g21gMeMuSC9DBB50u6L7DHjudJyanCfmGb+AtLfGqQWj0HPP7Od601TlNNh3G/ClTtCvbw1a88m1j+SegpsFi6HaZqxF2PaFhE5q4ZMgTeHS39JX4p3NkxFpdihBSGbSoivFacblDFpl2c4KKQq4YRSWS8bTUo+cHC7/zWpX2jmtJpxLHH5JbTc/Rw==;Uzgvx9XZmhY6OXXAXhMjqQ=="
 ---

@@ -2,59 +2,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_news/2021-01-20-redacting-pii-from-application-log-output-with-amazon-comprehend.md",
-      "title": "Redacting PII from application log output with Amazon Comprehend",
-      "excerpt": "Amazon Comprehend is a natural language processing (NLP) service that uses machine learning (ML) to find insights and relationships in text. The service can extract people, places, sentiments, and topics in unstructured data. You can now use Amazon Comprehend ML capabilities to detect and redact personally",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/redacting-pii-from-application-log-output-with-amazon-comprehend/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/redacting-pii-from-application-log-output-with-amazon-comprehend/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-20T10:04:01-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2021-01-21-new-ai-system-counts-endangered-elephants-from-space.md",
       "title": "New AI system counts endangered elephants from space",
       "excerpt": "Scientists have combined satellite cameras with a convolutional neural network (CNN) to detect African elephants moving through forests and grasslands.",
@@ -350,34 +297,34 @@
     {
       "path": "_news/2021-01-20-supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro.md",
       "title": "Supermicro Unveils NVIDIA GPU Server Test Drive Program with Leading Channel Partners to Deliver Workload Qualification on Remote Supermicro Servers",
-      "excerpt": "GPU or 4U HGX A100 8-GPU Systems Through Channel Partners – EMEA: Boston and Broadberry; North/Latin America: Colfax, Exxact, Microway, Thinkmate, and AMAX – Enabling Fast-track Testing of Industry-Leading Platforms SAN JOSE,",
+      "excerpt": "Super Micro Computer, Inc. (Nasdaq: SMCI), a global leader in enterprise computing, storage, networking solutions, and green computing technology, released details on a new GPU test-drive program. Called STEP (Supermicro Test drive Engagement with Partners),",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-1029986600",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-1029986600",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-information-technology-45afa2262f9cd079a23020412245cee2",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-information-technology-45afa2262f9cd079a23020412245cee2",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-1029986600",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-1029986600",
-      "publishedDateTime": "2021-01-20T06:28:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-20T06:33:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1216,6 +1163,48 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-artificial-divide-how-europe-and-america-could-clash-over-ai.md",
+      "title": "Artificial divide: How Europe and America could clash over AI",
+      "excerpt": "Artificial intelligence is a rapidly advancing field that policymakers everywhere are struggling to keep up with",
+      "sourceUrl": null,
+      "webUrl": "https://www.europarl.europa.eu/news/en/press-room/20210114IPR95627/guidelines-for-military-and-non-military-use-of-artificial-intelligence",
+      "originalUrl": "https://ecfr.eu/publication/artificial-divide-how-europe-and-america-could-clash-over-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.europarl.europa.eu/news/img/meta-facebook.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-20T02:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ecfr.eu",
+        "domain": "ecfr.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

@@ -2,49 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2021-01-26-chinese-electric-carmaker-xpeng-rolls-out-autonomous-highway-driving-features-in-challenge-to-tesla.md",
-      "title": "Chinese electric carmaker Xpeng rolls out autonomous highway driving features in challenge to Tesla",
-      "excerpt": "Xpeng Motors' Navigation Guided Pilot or NGP is rolling out to eligible customers of its P7 sedan in a challenge to Tesla's own software.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/01/26/xpeng-rolls-out-autonomous-driving-features-in-challenge-to-tesla.html",
-      "originalUrl": "https://www.msn.com/en-us/news/other/chinese-electric-carmaker-xpeng-rolls-out-autonomous-highway-driving-features-in-challenge-to-tesla/ar-BB1d5vjM",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106720636-1601341909516-Image_from_iOS_4.jpg?v=1601342118&w=720&h=405",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/01/26/xpeng-rolls-out-autonomous-driving-features-in-challenge-to-tesla.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/26/xpeng-rolls-out-autonomous-driving-features-in-challenge-to-tesla.html",
-      "publishedDateTime": "2021-01-25T21:40:38-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "com/2021/01/26/xpeng-rolls-out-autonomous-driving-features-in-challenge-to-tesla.html",
-        "domain": "com/2021/01/26/xpeng-rolls-out-autonomous-driving-features-in-challenge-to-tesla.html",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2021-01-26-graphcore-debuts-its-graphcloud-ai-cloud-service-in-association-with-cirrascale.md",
       "title": "Graphcore debuts its 'Graphcloud' AI cloud service in association with Cirrascale",
       "excerpt": "Graphcore has teamed up with Cirrascale to launch its new AI Cloud Service dubbed 'Graphcloud'. It will combine Graphcore's own IPU-POD systems with Cirrascale's cloud service infrastruture.",
@@ -605,7 +562,7 @@
       "originalUrl": "https://news.mit.edu/2021/learning-and-about-ai-technology-0125",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 161,
       "tags": null,
       "images": [
         {
@@ -1262,6 +1219,50 @@
         "AI in Autos",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-01-25-ehave-inc-utilizes-artificial-intelligence-and-machine-learning-for-big-data-management-in-mental-healthcare.md",
+      "title": "Ehave, Inc. Utilizes Artificial Intelligence and Machine Learning for Big Data Management in Mental Healthcare",
+      "excerpt": "Ehave, Inc. (OTC Pink: EHVVF) (the “Company”), a provider of digital therapeutics for the psychedelic and mental health sectors, announced today plans to continue to address the needs of big data management in mental healthcare.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ehave-inc-utilizes-artificial-intelligence-and-machine-learning-for-big-data-management-in-mental-healthcare-1029999161",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ehave-inc-utilizes-artificial-intelligence-and-machine-learning-for-big-data-management-in-mental-healthcare-1029999161",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Ehave-Inc-Utilizes-Artificial-Intelligence-and-Machine-Learning-for-Big-Data-Management-in-Mental-Healthcare-1029999161",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Ehave-Inc-Utilizes-Artificial-Intelligence-and-Machine-Learning-for-Big-Data-Management-in-Mental-Healthcare-1029999161",
+      "publishedDateTime": "2021-01-25T05:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

@@ -2,49 +2,6 @@
   "page": 26,
   "value": [
     {
-      "path": "_news/2021-01-10-abu-dhabi-university-students-win-ega-grant-to-build-ai-powered-drones-and-robots.md",
-      "title": "Abu Dhabi University Students Win EGA Grant To Build AI-Powered Drones and Robots",
-      "excerpt": "Abu Dhabi University (ADU) has announced that Emirates Global Aluminum (EGA) has awarded an AED 150,000 grant to three proposals put forth by ADU Electr",
-      "sourceUrl": null,
-      "webUrl": "https://www.albawaba.com/business/pr/abu-dhabi-university-students-win-ega-grant-build-ai-powered-drones-and-robots-1403986",
-      "originalUrl": "https://www.albawaba.com/business/pr/abu-dhabi-university-students-win-ega-grant-build-ai-powered-drones-and-robots-1403986",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/2021-01/Project%202.jpeg?itok=Dgc7h8g-",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.albawaba.com/amp/business/pr/abu-dhabi-university-students-win-ega-grant-build-ai-powered-drones-and-robots-1403986",
-      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/abu-dhabi-university-students-win-ega-grant-build-ai-powered-drones-and-robots-1403986",
-      "publishedDateTime": "2021-01-10T01:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Bawaba News",
-        "domain": "albawaba.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-10-young-and-fearless-startups-enter-global-race-for-space-robotics-and-ai.md",
       "title": "Young and fearless: Startups enter global race for space, robotics and AI",
       "excerpt": "While overseas global corporations such as Elon Musk‘s Space X, are leading to charge to turn the stuff of science fiction into reality, in South Korea, the brave companies eyeing the",
@@ -1148,6 +1105,40 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-robotics-etf-botz-beckons-as-pertinent-post-covid-idea.md",
+      "title": "Robotics ETF BOTZ Beckons as Pertinent Post-Covid Idea",
+      "excerpt": "Put robotics in the conversation among disruptive technologies that are navigating the pandemic with aplomb. The investment concept is gaining traction as a post-pandemic idea, but with vaccination rates still – hopefully a temporary phenomenon – and case counts rising,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/robotics-etf-botz-beckons-as-pertinent-post-covid-idea-2021-01-08",
+      "originalUrl": "https://www.nasdaq.com/articles/robotics-etf-botz-beckons-as-pertinent-post-covid-idea-2021-01-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/robotics-etf-botz-beckons-as-pertinent-post-covid-idea-2021-01-08?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/robotics-etf-botz-beckons-as-pertinent-post-covid-idea-2021-01-08?amp",
+      "publishedDateTime": "2021-01-08T05:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

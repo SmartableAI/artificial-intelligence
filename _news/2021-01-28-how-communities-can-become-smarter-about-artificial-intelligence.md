@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/01/28/how-comm
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/01/28/how-communities-can-become-smarter-about-artificial-intelligence/"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Forbes
@@ -27,22 +27,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "AI's become the new brain behind e-commerce innovation"
-    excerpt: "Machine learning and innovations such as voice assistants can give the newly mature e-commerce industry an extra push, says Qualpay's Penny Townsend."
-    publishedDateTime: 2021-01-25T16:09:00Z
-    webUrl: "https://www.paymentssource.com/opinion/ais-become-the-new-brain-behind-e-commerce-innovation"
-    type: article
-    provider:
-      name: PaymentsSource
-      domain: paymentssource.com
-    quality: 37
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/120f6f1/2147483647/strip/true/crop/1800x945+0+428/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F24%2F68%2F295862ab49cbafdde3428437dcee%2Ftownsend-penny-qualpay-opinion-pso.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "J0eQ/zkjUzNrXscRVuTZZM0VpiuVoxL7xjKewxvfAOyik8pSI25E4wHy2ScOYDJ0SPuJYNkUGgKTulOkBvJZrau/2OTuE54XnVlid7O6FapCsgXQzU5rsb1aee8JelYxKMet1qNnTfHQyMrLMqB7ZRr3LW8frKEaEySy+gQsYXvIxVrW7gncY/aiV2e9+ApUlrBhoC6fR3KofOpJwy2czzrOCXLREpYwBqv6D9Kq8eB3hTbz468Wo4tuE71K/ybsGK6S9Fw2DSkDnYMd8AVC5y5bVHE8CzdiYMs9aDeHR1wL+I07iWNLorRKVh9XPZXoMpx3pNPPhzblPGt6pv5JUpe7LDl4TleZjxOH79uS/2lKD0e9e6uduEuO6AwczKI0/a1gdi/m/lQpU0RsOIfldp0V8d7/o+UZzc5rn5MyVybSfCgjdQDNMEZRHUhqC6E9cRdN5S52jaI7o2fr2iXRwQcgiurzvLjGfX3YtEDurnaygQCVSEcfVNSBDJyqa0+6fTH3Dj6iQQ4eFxHLoE2d0w==;/wCkmJOIZlH1kKrY12ZgKQ=="
 ---
