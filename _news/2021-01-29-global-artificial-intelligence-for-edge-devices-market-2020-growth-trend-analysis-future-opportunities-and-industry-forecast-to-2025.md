@@ -70,6 +70,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Chip Market Trends- Industry Analysis, Share, Growth, Product, Top Key Players and Forecast 2026"
+    excerpt: "Selbyville, Delaware According to the latest research report titled 'Global Artificial Intelligence Chip Market Analysis, 2020', available with Market Study Report LLC, worldwide artificial intelligence chip industry is expected to undergo a remunerative period,"
+    publishedDateTime: 2021-01-28T02:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-trends--industry-analysis-share-growth-product-top-key-players-and-forecast-2026-2021-01-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "North America AI Chipsets Market Outlook | Development Factors, Latest Opportunities and Forecast 2026"
     excerpt: "According to the Graphical Research new growth forecast report titled North America AI Chipsets Market Size will"
     publishedDateTime: 2021-01-28T09:57:00Z

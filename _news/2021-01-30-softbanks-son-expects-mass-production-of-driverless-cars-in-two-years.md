@@ -1,12 +1,12 @@
 ---
 category: news
 title: "SoftBank's Son expects mass production of driverless cars in two years"
-excerpt: "SoftBank Group Corp Chief Executive Masayoshi Son said on Friday he expects mass production of self-driving vehicles to start in two years."
-publishedDateTime: 2021-01-29T21:00:00Z
-originalUrl: "https://www.reuters.com/article/ctech-us-davos-meeting-son-autonomous-idCAKBN29Y279-OCATC"
-webUrl: "https://www.reuters.com/article/ctech-us-davos-meeting-son-autonomous-idCAKBN29Y279-OCATC"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN29Y279-OCATC"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN29Y279-OCATC"
+excerpt: "Son, who made his name for investing early in startups such as China’s Alibaba Group had said he will continue to take stakes in public companies he thinks are frontrunners in the artificial ..."
+publishedDateTime: 2021-01-29T16:08:00Z
+originalUrl: "https://www.reuters.com/article/us-davos-meeting-son-autonomous-idUSKBN29Y279"
+webUrl: "https://www.reuters.com/article/us-davos-meeting-son-autonomous-idUSKBN29Y279"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Y279"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Y279"
 type: article
 quality: 89
 heat: -1
@@ -214,6 +214,6 @@ related:
         height: 300
         isCached: true
 
-secured: "2XAYBn7In+0ufWUHqCl1HAXVxP/MsgW1v3fK9EDuUQd72pUH9USLrCibC/l0+eUk1FNNWYik+xQnR6Hv8UdBjuaaE05MjP14tqjLt2eN5AnZIE4echQU+WW6jv3htfkGsG4519NacHSTCG9Xh/cVP7gTipuPInI8iaPJZxZSVX5+vA+VEuADfL+0BZxo9JVRXlsULb0tekgMtKTMdj1KUL86Xsjh3qKtrjr3ngyLh4fXdp+6lPlIPWfgFa+UveKu9/9MUfkDkO5c5dCiCBDhPSWOEwhzKL/fBIX0Z+Xkn+3nPv9xvdG188toGLMkoHUDVRYlHa8BA0P+E38Jhy4IS9kFi7bB/LxqikNv1u6L2Snt6g+aM7sZwxmIBo3MgDgL3imGRYZvvqALtperh6TVbk6bWH9yG2NJPNZWAhI/7B72P6iALGbwhxRmcTUEEzEZ+Ai8GzY75NP+eRYHZLdMOM/dKe1WgiTwSFXWkvB+YX2ONDCIygdiCVEecIY48fJ0isDPgL5eG/gJdFRArRH8GA==;C/+lReSrjtPpp7j2SL6Z2w=="
+secured: "u9YtSPSjkBkU9N5ZFJfjD28pSeq2x9EQCQZDEZf7X2hyL80qsW391uMDO90zRK6dDujF+/InxH3tPjOqZHIeKt2dnhGsfon/H3txlVjS/iDxjuUh6W2SYloCH/NJUxsE3R2L0vY3xGh9ZJWzP6rBlhzHwwr+pFUUtqvq3WwpqxmATNqchVn6d0DGJz2fKjIGxA8NVI+i778aSWfk5La1d3hNur4dAjiuqmKMz7Op5pk5PMtUm99j0EtHHT6YlLTdHbmQ3B3hkEVefoNQxqVj0ltrc7zYuud5qmKz2lp/cnhTPTJe7L98D22vvJRXJkOoCCWKvu3bEDmozjW7Em1TEUcqh0hKBbZY9DldBOvD4Z4=;4hpejLdOKEEit4omDP3N6g=="
 ---
 

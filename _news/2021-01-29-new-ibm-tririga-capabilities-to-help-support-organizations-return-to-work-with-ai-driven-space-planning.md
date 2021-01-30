@@ -1,45 +1,40 @@
 ---
 category: news
-title: "New IBM TRIRIGA Capabilities to Help Support Organizations’ Return to Work with AI-Driven Space Planning"
-excerpt: "IBM, (NYSE: IBM) today introduced capabilities in its IBM TRIRIGA integrated workplace management system that is designed to use artificial intelligence and near real-time insights to help organizations create a safe,"
-publishedDateTime: 2021-01-29T08:06:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-lifestyle-business-diseases-and-conditions-lung-disease-d42fee5dcfd4f71d394895118090a09f"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-lifestyle-business-diseases-and-conditions-lung-disease-d42fee5dcfd4f71d394895118090a09f"
+title: "New IBM TRIRIGA Capabilities to Help Support Organizations' Return to Work with AI-Driven Space Planning"
+excerpt: "\"IBM and Esri have had a long-standing, successful partnership integrating IBM's analytics and AI solutions with ... also an important component of IBM Watson Works, a set of solutions designed ..."
+publishedDateTime: 2021-01-29T05:23:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/new-ibm-tririga-capabilities-to-help-support-organizations-return-to-work-with-ai-driven-space-planning-1030015401"
+webUrl: "https://markets.businessinsider.com/news/stocks/new-ibm-tririga-capabilities-to-help-support-organizations-return-to-work-with-ai-driven-space-planning-1030015401"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/new-ibm-tririga-capabilities-to-help-support-organizations-return-to-work-with-ai-driven-space-planning-1030015401"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/new-ibm-tririga-capabilities-to-help-support-organizations-return-to-work-with-ai-driven-space-planning-1030015401"
 type: article
-quality: 22
-heat: -1
+quality: 52
+heat: 62
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
 related:
   - title: "New IBM TRIRIGA Capabilities to Help Support Organizations' Return to Work with AI-Driven Space Planning"
-    excerpt: "\"IBM and Esri have had a long-standing, successful partnership integrating IBM's analytics and AI solutions with ... also an important component of IBM Watson Works, a set of solutions designed ..."
-    publishedDateTime: 2021-01-28T14:03:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/new-ibm-tririga-capabilities-to-help-support-organizations-return-to-work-with-ai-driven-space-planning-301216821.html"
+    excerpt: "In a recent IBM Institute for Business Value study, 59% of executives surveyed said the pandemic had accelerated their organizations' digital transformation. IBM worked closely with IBM technology partners Cisco and Esri,"
+    publishedDateTime: 2021-01-28T14:00:00Z
+    webUrl: "https://www.nasdaq.com/press-release/new-ibm-tririga-capabilities-to-help-support-organizations-return-to-work-with-ai"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 22
-    images:
-      - url: "https://mma.prnewswire.com/media/1428401/Indoor_Maps.jpg?p=facebook"
-        width: 1513
-        height: 792
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 32
 
-secured: "0cuWsBGbqQvolNHYO3IYpcDmSi7HcA0AbLusKN3+JGuz5FeNFCKYs9+pL/sJJ+Is0kcNKILEmKPf/TK7PM0GR24VvMKDLz0mm1bT4nbUK1DqupRwISJmEfJkPyT9e54r29KBW7qq6ADFS3JJmD0Wvn4hIzASBaQm/yL29rihud9AZuryM7IO4rj+FCZ8oCA6Gp7vI6A2ydE7MW/HxQ8VwH4vAgabkM2orI/OaUCDpUcARxo1CKHj0kZ1AvyS6czU2c7zd9sgDayJJEc2m1urRFJlii+G1ZW8Q5CQ/UBFK3KN/cyyi9jmDF2sGaU5rHqTOXYdCqPwvid0Z2dK5ZwKu4zbd7KBij20qVAZ6dFyR60=;y3jTAIN9k84VAY3T1Q7enw=="
+secured: "4VBvSLz2xpf0k8BZ80fsq6shq9H++yEG80vooRkSIVQ5W/0qh3TU8uyq1LyEAFAM28QifpfMdC7x5q7zdKdUOLH+YCOOMC8wUonFDp4oo9mK+JcM0JOFTXAUH0koOM2dqqmWFwmg/Nem6cs8iLlsR0YI4U5xcgXOroCDWrtrQYb1j3/59KIAYs8R8BiZMaHy6VU+I0wRN5PAV6qspgL1IkZovjzW2f8x2weWJwgkW7r9sVzS9HSBQE0NMM3/OLw2NH1XM1nSvmgeiGAKSp4OZbD/xX8FrPpEEFkyhKcwUMkHoj0t1aIadT1hVAgkGw52/JdVTXQ5IVWnn1/2iQpDSPpjY3NWnZAKTtX7Fo4f2uc=;MqAurdduyHN9U9ukiAZvZQ=="
 ---
 

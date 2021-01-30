@@ -2,6 +2,205 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-01-21-ces-2021-celebrates-new-era-with-whimsical-robots-ai-influencers-and-billie-eilish.md",
+      "title": "CES 2021 Celebrates New Era With Whimsical Robots, AI Influencers And Billie Eilish",
+      "excerpt": "Meet the robots of CES 2021, ones that will pour you a glass of wine, soar you across the sky and land firmly on the moon. A look at AI innovation with an eye toward sustainability and equity at Samsung,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/martineparis/2021/01/20/ces-2021-celebrates-new-era-with-whimsical-robots-ai-influencers-and-billie-eilish/",
+      "originalUrl": "https://www.forbes.com/sites/martineparis/2021/01/20/ces-2021-celebrates-new-era-with-whimsical-robots-ai-influencers-and-billie-eilish/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6005fdd972d4e4bb491e4d76%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D840%26cropY1%3D24%26cropY2%3D496",
+          "width": 840,
+          "height": 472,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2021/01/20/ces-2021-celebrates-new-era-with-whimsical-robots-ai-influencers-and-billie-eilish/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2021/01/20/ces-2021-celebrates-new-era-with-whimsical-robots-ai-influencers-and-billie-eilish/amp/",
+      "publishedDateTime": "2021-01-20T15:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-artificial-intelligence-may-outsmart-our-brain-in-chess-but-not-in-memory.md",
+      "title": "Artificial Intelligence may outsmart our brain in chess, but not in memory",
+      "excerpt": "Artificial Intelligence has shown to be very good at achieving exceptional goals in several fields. Oslo (Norway): A new research has shown that the brain strategy for storing memories is more efficient than that of Artificial intelligence (AI).",
+      "sourceUrl": null,
+      "webUrl": "https://www.freepressjournal.in/tech/artificial-intelligence-may-outsmart-our-brain-in-chess-but-not-in-memory",
+      "originalUrl": "https://www.freepressjournal.in/tech/artificial-intelligence-may-outsmart-our-brain-in-chess-but-not-in-memory",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gumlet.assettype.com/freepressjournal/2021-01/09292545-ba55-4833-ad45-78c3e2364357/etc_3rd_lead_jan_20.jfif",
+          "width": 1920,
+          "height": 1311,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.freepressjournal.in/article/tech/artificial-intelligence-may-outsmart-our-brain-in-chess-but-not-in-memory/242b9a6a-6093-45ac-a09b-968757a53489",
+      "cdnAmpWebUrl": "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/tech/artificial-intelligence-may-outsmart-our-brain-in-chess-but-not-in-memory/242b9a6a-6093-45ac-a09b-968757a53489",
+      "publishedDateTime": "2021-01-20T15:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Free Press Journal",
+        "domain": "freepressjournal.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-skyrim-modders-have-a-new-machine-learning-tool-that-turns-text-to-realistic-npc-speech.md",
+      "title": "Skyrim modders have a new machine learning tool that turns text to realistic NPC speech",
+      "excerpt": "VASynth creator Dan Ruta used NPC voices from various Bethesda video games to train the tool's machine learning AI models. He published multiple flavors of the",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/88353-skyrim-modders-have-new-machine-learning-tool-turns.html",
+      "originalUrl": "https://www.techspot.com/news/88353-skyrim-modders-have-new-machine-learning-tool-turns.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2019/03/2019-03-21-ts3_thumbs-ba1.jpg",
+          "width": 800,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/88353-skyrim-modders-have-new-machine-learning-tool-turns.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/88353-skyrim-modders-have-new-machine-learning-tool-turns.html",
+      "publishedDateTime": "2021-01-20T14:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-technologists-use-facial-recognition-on-parler-videos.md",
+      "title": "Technologists Use Facial Recognition on Parler Videos",
+      "excerpt": "Technologists have used facial recognition techniques on the large archive of Parler videos filmed from the January 6 Capitol riots, Motherboard has learned. In some cases they have been able to track individual faces across different videos,",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en/article/xgz7g7/facial-recognition-parler-videos",
+      "originalUrl": "https://www.vice.com/en/article/xgz7g7/facial-recognition-parler-videos",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com/articles/6008765a4384dd009c120dbd/lede/1611167325556-capitol.jpeg?crop=1xw:0.842xh;0xw,0.077xh",
+          "width": 1500,
+          "height": 842,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en/article/xgz7g7/facial-recognition-parler-videos",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/xgz7g7/facial-recognition-parler-videos",
+      "publishedDateTime": "2021-01-20T13:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-facebook-updates-its-automatic-alternative-text-system-with-expanded-object-recognition.md",
       "title": "Facebook updates its automatic alternative text system with expanded object recognition",
       "excerpt": "The next-generation AAT system can identify more objects in photos, perceive where each object is located relative to each other and provide more detailed descriptions.",
@@ -546,6 +745,49 @@
       ]
     },
     {
+      "path": "_news/2021-01-20-supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro.md",
+      "title": "Supermicro Unveils NVIDIA GPU Server Test Drive Program with Leading Channel Partners to Deliver Workload Qualification on Remote Supermicro Servers",
+      "excerpt": "GPU or 4U HGX A100 8-GPU Systems Through Channel Partners – EMEA: Boston and Broadberry; North/Latin America: Colfax, Exxact, Microway, Thinkmate, and AMAX – Enabling Fast-track Testing of Industry-Leading Platforms SAN JOSE,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-1029986600",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-1029986600",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-1029986600",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-1029986600",
+      "publishedDateTime": "2021-01-20T06:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-20-nucleus-research-releases-q1-2021-equity-snapshot-for-ibm.md",
       "title": "Nucleus Research Releases Q1 2021 Equity Snapshot for IBM",
       "excerpt": "Nucleus Research, a global provider of ROI-focused technology research and advisory services, today released its Q1 2021 Equity Snapshot for IBM. The snapshot provides an analysis of IBM’s market growth and performance over the last quarter and a competitive outlook for the months ahead.",
@@ -975,256 +1217,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-zim-cooperation-network-on-ai-based-agricultural-robotics-launched-artificial-intelligence-for-sustainable-agriculture.md",
-      "title": "ZIM cooperation network on AI-based agricultural robotics launched: Artificial intelligence for sustainable agriculture",
-      "excerpt": "Zentrum für Agrarlandschaftsforschung (ZALF) e.V. The recently approved ZIM cooperation network \"DeepFarmbots\" met virtually for its official kick-off on November 25. The central goal of the network is to develop and disseminate new agricultural robotics solutions for efficient and sustainable agriculture.",
-      "sourceUrl": null,
-      "webUrl": "https://idw-online.de/de/news761539",
-      "originalUrl": "https://idw-online.de/de/news761539",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://files.idw-online.de/corona_idw.png",
-          "width": 615,
-          "height": 284,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-20T05:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "idw",
-        "domain": "idw-online.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-facebook-uses-ai-to-improve-photo-descriptions-for-the-visually-impaired.md",
-      "title": "Facebook uses AI to improve photo descriptions for the visually impaired",
-      "excerpt": "One of the most common types of content shared on Facebook, and other social media platforms are photographs. While most social media users can look at an image and see what it represents,",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/facebook-uses-ai-to-improve-photo-descriptions-for-the-visually-impaired-20655881/",
-      "originalUrl": "https://www.slashgear.com/facebook-uses-ai-to-improve-photo-descriptions-for-the-visually-impaired-20655881/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/01/ai-img-desc.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/facebook-uses-ai-to-improve-photo-descriptions-for-the-visually-impaired-20655881/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/facebook-uses-ai-to-improve-photo-descriptions-for-the-visually-impaired-20655881/amp/",
-      "publishedDateTime": "2021-01-20T04:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-heres-why-investors-should-pay-close-attention-to-artificial-intelligence.md",
-      "title": "Here's Why Investors Should Pay Close Attention to Artificial Intelligence",
-      "excerpt": "Artificial intelligence is ingrained into our lives. It’s influencing our shopping choices online, helping us book meetings, and even finding the best deals. The auto industry is using AI to create driverless cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/heres-why-investors-should-pay-close-attention-to-artificial-intelligence-2021-01-20-41974544",
-      "originalUrl": "https://www.marketwatch.com/press-release/heres-why-investors-should-pay-close-attention-to-artificial-intelligence-2021-01-20-41974544",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-20T04:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-beware-the-ai-death-spiral.md",
-      "title": "Beware The AI Death Spiral",
-      "excerpt": "Companies caught in the death spiral have an AI that’s very accurate, but that's also accurately wrong -- and downright dangerous -- for their business.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/20/beware-the-ai-death-spiral/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/20/beware-the-ai-death-spiral/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5f6cf8354f6bad0561dc14%2F0x0.jpg",
-          "width": 1200,
-          "height": 836,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/20/beware-the-ai-death-spiral/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/20/beware-the-ai-death-spiral/amp/",
-      "publishedDateTime": "2021-01-20T04:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-alphaics-raises-8-million-for-ai-at-the-edge-processors.md",
-      "title": "AlphaICs raises $8 million for AI-at-the-edge processors",
-      "excerpt": "AlphaICs has raised $8 million in funding for artificial intelligence processors for edge computing applications such as cars and wearables.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/20/alphaics-raises-8-million-for-ai-at-the-edge-processors/",
-      "originalUrl": "https://venturebeat.com/2021/01/20/alphaics-raises-8-million-for-ai-at-the-edge-processors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/alpha-2.jpg?w=1200&strip=all",
-          "width": 1190,
-          "height": 686,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/20/alphaics-raises-8-million-for-ai-at-the-edge-processors/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/20/alphaics-raises-8-million-for-ai-at-the-edge-processors/amp/",
-      "publishedDateTime": "2021-01-20T04:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

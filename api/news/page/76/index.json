@@ -2,6 +2,196 @@
   "page": 76,
   "value": [
     {
+      "path": "_news/2020-12-01-natural-language-processing-market-2020-provides-an-in-depth-insight-of-sales-and-trends-forecast-to-2029.md",
+      "title": "Natural Language Processing Market 2020 provides an in-depth insight of Sales and Trends Forecast to 2029",
+      "excerpt": "(MENAFN - America News Hour) The research study on Global Natural Language Processing market 2019 presents an extensive analysis of current Natural Language Processing market size, drivers ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1101209133/Natural-Language-Processing-Market-2020-provides-an-in-depth-insight-of-Sales-and-Trends-Forecast-to-2029",
+      "originalUrl": "https://menafn.com/1101209133/Natural-Language-Processing-Market-2020-provides-an-in-depth-insight-of-Sales-and-Trends-Forecast-to-2029",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?428128",
+          "width": 390,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-30T08:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2020-12-01-tcs-launches-new-version-of-datom-to-help-accelerate-customers-business-transformation-on-azure-cloud.md",
+      "title": "TCS Launches New Version of DATOM™ to Help Accelerate Customers' Business Transformation on Azure Cloud",
+      "excerpt": "PRNewswire/ -- Tata Consultancy Services (TCS), (BSE: 532540, NSE: TCS), a leading global IT services, consulting and business solutions organization,",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/tcs-launches-new-version-of-datom-to-help-accelerate-customers-business-transformation-on-azure-cloud-301181744.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/tcs-launches-new-version-of-datom-to-help-accelerate-customers-business-transformation-on-azure-cloud-301181744.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/449425/TATA_CONSULTANCY_SERVICES_Logo.jpg?p=facebook",
+          "width": 2063,
+          "height": 1082,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-30T08:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-01-servicenow-to-buy-element-ai-in-artificial-intelligence-push.md",
+      "title": "ServiceNow to Buy Element AI in Artificial Intelligence Push",
+      "excerpt": "ServiceNow Inc. will buy Canadian startup Element AI Inc. as the software maker embarks on its fourth acquisition this year to boost the artificial intelligence capabilities of its applications. The transaction is expected to close in early 2021 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-11-30/servicenow-to-buy-element-ai-in-artificial-intelligence-push",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-11-30/servicenow-to-buy-element-ai-in-artificial-intelligence-push",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_.RV4CCKiyw/v1/360x-1.jpg",
+          "width": 360,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-11-30/servicenow-to-buy-element-ai-in-artificial-intelligence-push",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-11-30/servicenow-to-buy-element-ai-in-artificial-intelligence-push",
+      "publishedDateTime": "2020-11-30T08:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-deepmind-solves-50-year-old-grand-challenge-with-protein-folding-ai.md",
+      "title": "DeepMind solves 50-year-old ‘grand challenge’ with protein folding A.I.",
+      "excerpt": "DeepMind has developed a piece of AI software called \"AlphaFold\" that can accurately predict the structure that proteins will fold into in a matter of days.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2020/11/30/deepmind-solves-protein-folding-grand-challenge-with-alphafold-ai.html",
+      "originalUrl": "https://www.cnbc.com/2020/11/30/deepmind-solves-protein-folding-grand-challenge-with-alphafold-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 499,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/104565791-Google_DeepMind_Hassabis_Future_of_Go_2017_day1.jpg?v=1499109367",
+          "width": 4898,
+          "height": 3265,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/11/30/deepmind-solves-protein-folding-grand-challenge-with-alphafold-ai.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/11/30/deepmind-solves-protein-folding-grand-challenge-with-alphafold-ai.html",
+      "publishedDateTime": "2020-11-30T07:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-30-london-ai-lab-claims-breakthrough-that-could-accelerate-drug-discovery.md",
       "title": "London A.I. Lab Claims Breakthrough That Could Accelerate Drug Discovery",
       "excerpt": "Researchers at DeepMind say they have solved “the protein folding problem,” a task that has bedeviled scientists for more than 50 years.",
@@ -978,178 +1168,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-bull-of-the-day-baidu-bidu.md",
-      "title": "Bull of the Day: Baidu (BIDU)",
-      "excerpt": "After peaking above $270 in 2018, Baidu (BIDU) shares have been stuck in bull market purgatory, spending most of the last 18 months under $140. That punishment could be ending soon as the company reinvents itself and recovers from government restrictions on its advertising revenues.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/bull-of-the-day%3A-baidu-bidu-2020-11-30",
-      "originalUrl": "https://www.nasdaq.com/articles/bull-of-the-day%3A-baidu-bidu-2020-11-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/bull-of-the-day%3A-baidu-bidu-2020-11-30?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/bull-of-the-day%3A-baidu-bidu-2020-11-30?amp",
-      "publishedDateTime": "2020-11-30T01:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-a-year-after-launch-the-financial-times-consultancy-is-booming.md",
-      "title": "A Year After Launch, The Financial Times’ Consultancy Is Booming",
-      "excerpt": "Called FT Strategies, the separate business division has autonomy from the Financial Times. Still, it has access to decades’ worth of expertise in building reader revenue, drawi",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/33d1afd6-9c2b-47a2-a09e-3e2a0713f8fe",
-      "originalUrl": "https://www.adweek.com/media/a-year-after-launch-the-financial-times-consultancy-is-booming/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F893d9996-0510-43d0-a498-32aff27f1f0f.jpg?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ft.com/content/33d1afd6-9c2b-47a2-a09e-3e2a0713f8fe",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/33d1afd6-9c2b-47a2-a09e-3e2a0713f8fe",
-      "publishedDateTime": "2020-11-30T01:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Adweek",
-        "domain": "adweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-natural-language-processing-market-2020-provides-an-in-depth-insight-of-sales-and-trends-forecast-to-2029.md",
-      "title": "Natural Language Processing Market 2020 provides an in-depth insight of Sales and Trends Forecast to 2029",
-      "excerpt": "The research study on Global Natural Language Processing market 2019 presents an extensive analysis of current",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-2020-provides-an-in-depth-insight-of-sales-and-trends-forecast-to-2029-2020-11-30",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-2020-provides-an-in-depth-insight-of-sales-and-trends-forecast-to-2029-2020-11-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-29T23:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-abu-dhabis-ai-university-appoints-academic-eric-xing-as-president.md",
-      "title": "Abu Dhabi’s AI university appoints academic Eric Xing as president",
-      "excerpt": "Abu Dhabi’s Mohamed bin Zayed University of Artificial Intelligence (MBZUAI ... and a visiting research professor at Facebook. He has authored or contributed to more than 370 research papers ...",
-      "sourceUrl": null,
-      "webUrl": "https://gulfbusiness.com/abu-dhabis-ai-university-appoints-academic-eric-xing-as-president/",
-      "originalUrl": "https://gulfbusiness.com/abu-dhabis-ai-university-appoints-academic-eric-xing-as-president/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gulfbusiness.com/wp-content/uploads/2020/11/Dr.-Eric-Xing.jpg",
-          "width": 855,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-29T22:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf Business",
-        "domain": "gulfbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

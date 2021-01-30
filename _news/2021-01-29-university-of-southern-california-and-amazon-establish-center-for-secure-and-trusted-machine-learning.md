@@ -92,11 +92,11 @@ related:
         height: 545
         isCached: true
   - title: "SoftBank's Son expects mass production of driverless cars in two years"
-    excerpt: "SoftBank Group Corp Chief Executive Masayoshi Son said on Friday he expects mass production of self-driving vehicles to start in two years."
-    publishedDateTime: 2021-01-29T21:00:00Z
-    webUrl: "https://www.reuters.com/article/ctech-us-davos-meeting-son-autonomous-idCAKBN29Y279-OCATC"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN29Y279-OCATC"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN29Y279-OCATC"
+    excerpt: "Son, who made his name for investing early in startups such as China’s Alibaba Group had said he will continue to take stakes in public companies he thinks are frontrunners in the artificial ..."
+    publishedDateTime: 2021-01-29T16:08:00Z
+    webUrl: "https://www.reuters.com/article/us-davos-meeting-son-autonomous-idUSKBN29Y279"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Y279"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Y279"
     type: article
     provider:
       name: Reuters

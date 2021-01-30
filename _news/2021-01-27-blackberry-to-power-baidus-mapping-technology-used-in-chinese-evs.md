@@ -45,17 +45,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "BlackBerry expands partnership with Baidu to drive the next generation of autonomous driving Technology"
-    excerpt: "BlackBerry expands partnership with Baidu to drive the next generation of autonomous driving Technology WATERLOO, ON and BEIJING Jan 25,"
-    publishedDateTime: 2021-01-26T02:12:00Z
-    webUrl: "https://www.compsmag.com/news/technology/blackberry-expands-partnership-with-baidu-to-drive-the-next-generation-of-autonomous-driving-technology/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/blackberry-expands-partnership-with-baidu-to-drive-the-next-generation-of-autonomous-driving-technology/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/blackberry-expands-partnership-with-baidu-to-drive-the-next-generation-of-autonomous-driving-technology/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 23
 
 secured: "vgz1cUtYFVUeNblEjkBn4CsYIRqh7axqRtTBhXpCbSAJaqyEWLm6uzyyXOAwThvVosPtCN18MRLbK+xwy9BTbcVUTX85ALHscSJ6OVUq26GCUuOeskj1KtLz5fbGDtyEmi7KYAi8aQD9QBS5kJBDXbTRlGzAvR3htFpcw9T/BzBWJQ/ZGWerwJGoiS6kmWYh62c10FU6Y18kGcJianknEvVPd2zEMuROhjGG6i8Sk0gc2upIY8lcILcMuEQ8mtBs6bTsp8mscY63UM/uZCvd8k+iDKr3o8EeGvvH2pWnOPlPILX9nspn/UMsaMwNzrpL14pOvZGH+eCEVqIA+m0Yd1eA7RdKUoBUB8i2duA/GHYjMYH6s70JNRYN4r4c8xCYtGkPxA2OmL3Vr/wB8/Xz+uGiq8h7t12rzt60p58clZ8tdOS9eeM7quGXyTqJZbyLVTV0njFNSIXFYknbzqK/lq1rfscmzQsjPbyAcpfqCsSGXDEBXalMxBKK/ONeKLVItq57LPTu2Mh5ZXnn64qsyw==;6idsNYrmp27eVFwPB+g35Q=="
 ---

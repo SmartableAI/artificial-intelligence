@@ -39,6 +39,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Fresh Air Weekend: China's 'Surveillance State'; Understanding The Human Voice"
+    excerpt: "Fresh Air Weekend highlights some of the best interviews and reviews from past weeks, and new program elements specially paced for weekends. Our weekend"
+    publishedDateTime: 2021-01-30T18:33:00Z
+    webUrl: "https://www.kalw.org/post/fresh-air-weekend-chinas-surveillance-state-understanding-human-voice"
+    type: article
+    provider:
+      name: KALW
+      domain: kalw.org
+    quality: 35
+    images:
+      - url: "https://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/202101/962000838.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "k7EXFegn+VuY06w49ztarisQXHHhgy5ZgpaSQJnfNGMMc6TWGkuZDS+c/obWl3+tq5FDcqJacxIZJiyoMmaC05uPWbyn/eVACAeyRVOZAnIzc7VEqpvH5iSXpjnrxcSes48WFgx6DQpuJrod7M0D6Na9R55iKVtu3xOsr5hQIQX0CVD1N4h6tIa2wFj19QmWcpfOU2BtOaz/mi/TueA+dRFGPVZfL0mE0WGSadunjBmpcyx+6tVGXGPU96p2t+Pa+ZBTNsF15cuB78a3hCKgY+rnRtaYdpwHqRIDFp8zRKfnbw6oOdbgfd7SXPkKwxRsFGDiRlv60A2txL/hHS+ghLNExG7MA/ozFZpDjxVVj04=;U1jrmi8Zq1q7fZ3pbwYAmQ=="
 ---

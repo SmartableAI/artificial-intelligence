@@ -2,6 +2,207 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2020-12-22-baby-yoda-robot-uses-ai-to-follow-you-around-like-a-creepy-toddler.md",
+      "title": "Baby Yoda Robot Uses AI to Follow You Around Like a Creepy Toddler",
+      "excerpt": "While you can shell out hundreds of dollars for a startlingly lifelike replica of Grogu, this DIY Baby Yoda does what all the others can’t: automatically follow you everywhere you go like a curious 50-year-old toddler.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/baby-yoda-robot-uses-ai-to-follow-you-around-like-a-cre-1845927094",
+      "originalUrl": "https://gizmodo.com/baby-yoda-robot-uses-ai-to-follow-you-around-like-a-cre-1845927094",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/ge0szw9vewohscvyfg55.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/baby-yoda-robot-uses-ai-to-follow-you-around-like-a-cre-1845927094/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/baby-yoda-robot-uses-ai-to-follow-you-around-like-a-cre-1845927094/amp",
+      "publishedDateTime": "2020-12-21T09:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-12-22-why-is-machine-learning-so-hard-to-explain-making-it-clear-can-help-with-stakeholder-buy-in.md",
+      "title": "Why is machine learning so hard to explain? Making it clear can help with stakeholder buy-in",
+      "excerpt": "Nobody is going to invest in a technology that they don't fully get. Helping them understand how and why it works will encourage adoption. It's hard to get stakeholders to buy into technology they don't understand. In the case of artificial intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/why-is-machine-learning-so-hard-to-explain-making-it-clear-can-help-with-stakeholder-buy-in/",
+      "originalUrl": "https://www.techrepublic.com/article/why-is-machine-learning-so-hard-to-explain-making-it-clear-can-help-with-stakeholder-buy-in/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2019/07/15/22cae322-e814-4c16-817a-d52d05657fa2/resize/1200x/3e5692cefcdaec47788680cca85c9eb2/airobot.jpg",
+          "width": 1200,
+          "height": 771,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/why-is-machine-learning-so-hard-to-explain-making-it-clear-can-help-with-stakeholder-buy-in/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/why-is-machine-learning-so-hard-to-explain-making-it-clear-can-help-with-stakeholder-buy-in/",
+      "publishedDateTime": "2020-12-21T09:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-22-cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert.md",
+      "title": "Cognizant Acquires Inawisdom, an Artificial Intelligence and Machine Learning Services Expert",
+      "excerpt": "full-stack solutions leveraging proven consulting methodologies and an analytics and machine learning platform built using Amazon Web Services (AWS). Financial details were not disclosed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert-301196423.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert-301196423.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1373438/cognizant_Logo.jpg?p=facebook",
+          "width": 1198,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-21T08:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-22-elon-musk-says-tesla-will-release-its-full-self-driving-feature-as-a-subscription-in-early-2021.md",
+      "title": "Elon Musk says Tesla will release its 'full self-driving' feature as a subscription in early 2021",
+      "excerpt": "The company's \"full self-driving\" package will be available as a subscription starting in early 2021, Tesla CEO Elon Musk in a Sunday tweet. Tesla cars come standard with Autopilot, a driver-assistance feature that can brake, accelerate, and steer ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/tesla-autopilot-full-self-driving-subscription-early-2021-elon-musk-2020-12",
+      "originalUrl": "https://www.businessinsider.com/tesla-autopilot-full-self-driving-subscription-early-2021-elon-musk-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fe0c832d366e600180994ff?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/tesla-autopilot-full-self-driving-subscription-early-2021-elon-musk-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-autopilot-full-self-driving-subscription-early-2021-elon-musk-2020-12?amp",
+      "publishedDateTime": "2020-12-21T08:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-21-microsoft-msft-reportedly-mulling-on-designing-chips-in-house.md",
       "title": "Microsoft (MSFT) Reportedly Mulling on Designing Chips In-House",
       "excerpt": "Microsoft MSFT is collaborating with Arm Ltd to design processors in-house for its data center operations and server computers that power its cloud service platform, reported Bloomberg citing familiar sources.",
@@ -951,207 +1152,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-tesla-full-self-driving-subscription-coming-really-soon.md",
-      "title": "Tesla Full Self-Driving subscription coming really soon",
-      "excerpt": "That’s where Elon Musk’s idea to place those features behind a subscription system comes in and it will be starting with Full Self-Driving in a few months. Tesla’s self-driving system may not always be reported in a positive light but even its semi ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/tesla-full-self-driving-subscription-coming-really-soon-20651929/",
-      "originalUrl": "https://www.slashgear.com/tesla-full-self-driving-subscription-coming-really-soon-20651929/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 259,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/12/tesla-self-driving-car-demo-april19.jpg",
-          "width": 1680,
-          "height": 944,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/tesla-full-self-driving-subscription-coming-really-soon-20651929/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/tesla-full-self-driving-subscription-coming-really-soon-20651929/amp/",
-      "publishedDateTime": "2020-12-20T18:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert.md",
-      "title": "Cognizant Acquires Inawisdom, an Artificial Intelligence and Machine Learning Services Expert",
-      "excerpt": "\"AWS empowers millions of customers around ... About Inawisdom Inawisdom is a leader in artificial intelligence (AI) and machine learning (ML) and specializes in advanced analytics, business ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert-2020-12-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/cognizant-acquires-inawisdom-an-artificial-intelligence-and-machine-learning-services-expert-2020-12-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-20T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-computer-vision-in-healthcare-market-research-methodology-industry-outlook-technology-overview-and-key-players.md",
-      "title": "Computer Vision in Healthcare Market Research Methodology, Industry Outlook, Technology Overview and Key Players",
-      "excerpt": "Market Research Engine is a global market research and consulting organization. We provide market intelligence in emerging, niche technologies and markets. Our market analysis powered by rigorous ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-research-methodology-industry-outlook-technology-overview-and-key-players-2020-12-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-research-methodology-industry-outlook-technology-overview-and-key-players-2020-12-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-20T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-method-finds-hidden-warning-signals-in-measurements-collected-over-time.md",
-      "title": "Method finds hidden warning signals in measurements collected over time",
-      "excerpt": "The stakes of this request are high: If the deep learning algorithm fails to detect an anomaly, the team could miss an opportunity to fix things. But if it rings the alarm every time there's a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2020/12/201217135355.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2020/12/201217135355.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-20T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-25-13-acquisitions-highlight-big-techs-ai-talent-grab-in-2020.md",
+      "title": "13 acquisitions highlight Big Tech’s AI talent grab in 2020",
+      "excerpt": "industry-specific data models — and data is what underpins AI. Microsoft said it would combine ADRM’s data models with storage and compute from Azure to support the creation of data lakes.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/25/13-acquisitions-highlight-big-techs-ai-talent-grab-in-2020/",
+      "originalUrl": "https://venturebeat.com/2020/12/25/13-acquisitions-highlight-big-techs-ai-talent-grab-in-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/Untitled-2.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/25/13-acquisitions-highlight-big-techs-ai-talent-grab-in-2020/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/25/13-acquisitions-highlight-big-techs-ai-talent-grab-in-2020/amp/",
+      "publishedDateTime": "2020-12-25T07:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-24-an-ai-reporters-favorite-books-of-2020.md",
       "title": "An AI reporter’s favorite books of 2020",
       "excerpt": "Reading The Big Nine also helped deepen my understanding of what could go wrong if companies like Amazon, Facebook ... age of AI. While occasionally drawing on insights from their own research ...",
@@ -1465,49 +1518,6 @@
         "AI",
         "AI in Healthcare",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-abu-dhabis-ai-university-appoints-academic-eric-xing-as-president.md",
-      "title": "Abu Dhabi’s AI university appoints academic Eric Xing as president",
-      "excerpt": "Abu Dhabi’s Mohamed bin Zayed University of Artificial Intelligence (MBZUAI ... and a visiting research professor at Facebook. He has authored or contributed to more than 370 research papers ...",
-      "sourceUrl": null,
-      "webUrl": "https://gulfbusiness.com/abu-dhabis-ai-university-appoints-academic-eric-xing-as-president/",
-      "originalUrl": "https://gulfbusiness.com/abu-dhabis-ai-university-appoints-academic-eric-xing-as-president/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gulfbusiness.com/wp-content/uploads/2020/11/Dr.-Eric-Xing.jpg",
-          "width": 855,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-29T22:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf Business",
-        "domain": "gulfbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

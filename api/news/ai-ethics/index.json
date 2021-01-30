@@ -202,6 +202,49 @@
       ]
     },
     {
+      "path": "_news/2021-01-29-south-korean-ai-technology-brings-back-folk-singers-voice.md",
+      "title": "South Korean AI technology brings back folk singer's voice",
+      "excerpt": "Even though South Korean folk rock singer Kim Kwang-seok has been dead for nearly 25 years, his fans will be able to hear him perform a new song cover on Friday thanks to artificial intelligence (AI) technology used to recreate his voice.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-southkorea-ai-voice-recreation-idUSKBN29Y18O",
+      "originalUrl": "https://www.reuters.com/article/us-southkorea-ai-voice-recreation-idUSKBN29Y18O",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29Y18O",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Y18O",
+      "publishedDateTime": "2021-01-29T07:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-29-the-ethics-of-the-metaverse.md",
       "title": "The ethics of the metaverse",
       "excerpt": "Into the Metaverse online event with Hendrik Lesser, CEO of Remote Control Productions, about the ethics of the metaverse, the universe of virtual worlds that are all interconnected, like in novels such as Snow Crash and Ready Player One.",
@@ -1436,59 +1479,6 @@
         "AI",
         "Facebook AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-microsoft-president-begs-tech-industry-to-improve-its-ethics.md",
-      "title": "Microsoft president begs tech industry to improve its ethics",
-      "excerpt": "Speaking at Microsoft's first CES keynote in 10 years, President Brad Smith said that national security is threatened by the industry's inability to learn lessons from the past.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/microsoft-president-urges-tech-leaders-to-follow-lessons-from-apollo-missions-and-war-games/",
-      "originalUrl": "https://www.techrepublic.com/article/microsoft-president-urges-tech-leaders-to-follow-lessons-from-apollo-missions-and-war-games/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 506,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2021/01/13/bbcf2d66-e03d-4384-953c-ad5d19451274/resize/1200x/b1414e8b8a4d54c36077b9e548dda575/bradsmith-ces.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-president-urges-tech-leaders-to-follow-lessons-from-apollo-missions-and-war-games/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-president-urges-tech-leaders-to-follow-lessons-from-apollo-missions-and-war-games/",
-      "publishedDateTime": "2021-01-15T01:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

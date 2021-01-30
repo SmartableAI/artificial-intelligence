@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "South Korea has used AI to bring a dead superstar's voice back to the stage, but ethical concerns abound"
-    excerpt: "Recent AI performances have excited fans of their music and the technology, but others have raised concerns about the ethics and legalities of resurrecting the voices of the dead."
-    publishedDateTime: 2021-01-26T02:34:00Z
-    webUrl: "https://edition.cnn.com/2021/01/25/asia/south-korea-kim-kwang-seok-ai-dst-hnk-intl/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/asia/south-korea-kim-kwang-seok-ai-dst-hnk-intl/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/asia/south-korea-kim-kwang-seok-ai-dst-hnk-intl/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 87
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210122002517-03-ai-singing-show-south-korea-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "South Korean AI technology brings back folk singer's voice"
     excerpt: "Even though South Korean folk rock singer Kim Kwang-seok has been dead for nearly 25 years, his fans will be able to hear him perform a new song cover on Friday thanks to artificial intelligence (AI) technology used to recreate his voice."
     publishedDateTime: 2021-01-29T15:50:00Z
@@ -112,20 +96,6 @@ related:
       - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2021/01/30/180613-happy-30th-birthday-67.jpg?itok=2y7Nm7Ll"
         width: 918
         height: 506
-        isCached: true
-  - title: "South Korea has used AI to bring a superstar back to life, but ethical concerns abound"
-    excerpt: "For the first time in 25 years, the distinctive vocals of South Korean superstar Kim Kwang-seok will be heard on national television singing new material."
-    publishedDateTime: 2021-01-26T01:55:00Z
-    webUrl: "https://www.albanyherald.com/news/world_nation/south-korea-has-used-ai-to-bring-a-superstar-back-to-life-but-ethical-concerns/article_8a7d9a56-12ca-5374-adf2-2f975042092a.html"
-    type: article
-    provider:
-      name: Albany Herald
-      domain: albanyherald.com
-    quality: 46
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/albanyherald.com/content/tncms/assets/v3/editorial/7/da/7da39f2f-a6b2-5d52-a4ac-07248759135c/600f7b82a3d6b.image.jpg?resize=1120%2C630"
-        width: 1120
-        height: 630
         isCached: true
 
 secured: "ubK7+FQ7ci9qR8A+63kkp9Hk0OqGRBQHHYRJSmRLh448RYXFAXG5iAuY4CtDfAflJ1ZFKZO08jd1RNaQN/C9qOYViIW7rEOFNPwu+VEDTU6IXR83xQAwA606pR5Y/Yq6+gW9iE8VPV6zPP4xYCM04VFkYXxMxCyKZP5kMi6P88ugaQhw7jz/y0CoY+MqwLUmEAHq+y4JleDz0vi19z559/NQIJ+7+FTH12yLb+MjeeVoWsxhjlQftjbC57Bsu0reTYvFxc6si/jYC87B/qh++JwUVyJMzr0zczq6j6rckSimbJeIqC/4UYMoZvGOjBafYbHIS2Oq54/Ef5PHHu9pNdtuNCNKctshVjzDQXXdjypjt6MGkeSi9Jl2L6JDf+JSqMtOBJ+834BNKZBMqpyvBTL3np4JQ0H8e/CF+JfJtuO5606cdh+wyROfAvmSmqKKMV//QXLQk4yhN/Ib0VwYvTaEyvQShNSrOlClB8fDLCx9SZh+6oRQbAWJEGAdcCbdsgVRlegORVUbFjncKnUH8w==;rW2Z2sXEi9rHYLfUl5/tbw=="

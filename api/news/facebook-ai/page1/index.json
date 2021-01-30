@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-27-snap-looks-to-enhance-augmented-reality-features-with-acquisition-of-british-research-lab-ariel-ai.md",
+      "title": "Snap looks to enhance augmented reality features with acquisition of British research lab Ariel AI",
+      "excerpt": "Snap, the parent company of Snapchat, has acquired a British artificial intelligence start-up called Ariel AI which focuses on augmented reality.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/01/26/snap-acquires-ariel-ai-to-boost-snapchat-augmented-reality-features.html",
+      "originalUrl": "https://www.cnbc.com/2021/01/26/snap-acquires-ariel-ai-to-boost-snapchat-augmented-reality-features.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/104318447-GettyImages-647204978.jpg?v=1588764817",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/01/26/snap-acquires-ariel-ai-to-boost-snapchat-augmented-reality-features.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/26/snap-acquires-ariel-ai-to-boost-snapchat-augmented-reality-features.html",
+      "publishedDateTime": "2021-01-26T14:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-this-ai-could-go-from-art-to-steering-a-self-driving-car.md",
       "title": "This AI Could Go From ‘Art’ to Steering a Self-Driving Car",
       "excerpt": "DALL-E drew laughs for creating images of a daikon radish in a tutu. But it builds on an important advance in computer vision with serious applications.",
@@ -1448,59 +1500,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-25-13-acquisitions-highlight-big-techs-ai-talent-grab-in-2020.md",
-      "title": "13 acquisitions highlight Big Tech’s AI talent grab in 2020",
-      "excerpt": "industry-specific data models — and data is what underpins AI. Microsoft said it would combine ADRM’s data models with storage and compute from Azure to support the creation of data lakes.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/25/13-acquisitions-highlight-big-techs-ai-talent-grab-in-2020/",
-      "originalUrl": "https://venturebeat.com/2020/12/25/13-acquisitions-highlight-big-techs-ai-talent-grab-in-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/Untitled-2.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/25/13-acquisitions-highlight-big-techs-ai-talent-grab-in-2020/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/25/13-acquisitions-highlight-big-techs-ai-talent-grab-in-2020/amp/",
-      "publishedDateTime": "2020-12-25T07:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI",
         "Facebook AI"
       ]

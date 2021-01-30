@@ -9,8 +9,8 @@ ampWebUrl: "https://www.unilad.co.uk/technology/kodas-robot-dog-uses-ai-to-sense
 cdnAmpWebUrl: "https://www-unilad-co-uk.cdn.ampproject.org/c/s/www.unilad.co.uk/technology/kodas-robot-dog-uses-ai-to-sense-human-emotion/amp/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: UNILAD
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI helps this Koda social robot dog sense human emotions"
-    excerpt: "This AI robot dog not only climbs stairs but also interacts socially with its human owners. Man's best friend has always been the domesticated dog, but mutts around the world could end up with some serious competition in the form of Koda's AI-powered robot dog ."
-    publishedDateTime: 2021-01-26T02:48:00Z
-    webUrl: "https://www.cnet.com/news/ai-helps-this-koda-social-robot-dog-sense-human-emotions/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/ai-helps-this-koda-social-robot-dog-sense-human-emotions/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-helps-this-koda-social-robot-dog-sense-human-emotions/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 104
-    images:
-      - url: "https://cnet4.cbsistatic.com/img/o1vlAtPkFpN6VpWRB4Eld9_lcNw=/2021/01/25/66561660-f282-4976-b7e2-aaa912719597/kodarobot1promo.jpg"
-        width: 1050
-        height: 591
-        isCached: true
   - title: "Koda’s robot dog can pick up on human emotions"
     excerpt: "PARIS: American startup and artificial intelligence (AI) specialist Koda has unveiled a surprising robot dog that can sense human emotion and adapt its behaviour accordingly in each situation – whether that’s playing with the kids,"
     publishedDateTime: 2021-01-29T13:16:00Z
