@@ -61,20 +61,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "AI and the Virtuous Cycle of Unprecedented Data Management"
-    excerpt: "This is the first article in a four-part series that examines how new AI architectures are leading to a renaissance in computer architecture, and why there’s a renewed focus on memory systems."
-    publishedDateTime: 2021-01-25T20:10:00Z
-    webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21153217/rambus-ai-and-the-virtuous-cycle-of-unprecedented-data-management"
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 39
-    images:
-      - url: "https://base.imgix.net/files/base/ebm/electronicdesign/image/2021/01/DataCenter_AI_promo.600f1f0648349.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "H3sUkSN9Qu0co+ODtflIP+xmeWu2e76aogdW0uR3kQwe5afTT1gXllossRFCtZ26PJ4VohjcK7EwSd1nuwcqxcynXn96q1Z0vVfvm/ljJSG1VhT+WwRUu3dWJn6H2c2cOJxaO3kRMKZiYZB+PtzxtFyu6KHTwEn91xe8lZZZMqmabmsA2+thIt2ZDBBaH3DvWPCwndWoLzwzQr96DacB8o+mHtV+FP6YLVOLXt0qQthGz4lQcObgiGOOeWGbwzgRuZZgIEcK6i0yddg7gtLEImT2k6i/D6PkVSMnloWmQJxbFk+rgrvNTqCXYTt5Tch3vTO1UFhG160+xx9EBaNHnJger5KfibROzVd9yCK9lOI=;NlVuouYX9epAMzMFqMBIsg=="
 ---

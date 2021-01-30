@@ -73,20 +73,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Nvidia Views Kubernetes as Key to GPU Accelerated AI Scale"
-    excerpt: "When you think about Kubernetes, clusters of CPU and memory resources all scaling to meet the demands of container workloads probably springs to mind. But where does GPU acceleration fit […]"
-    publishedDateTime: 2021-01-25T20:20:00Z
-    webUrl: "https://ctovision.com/nvidia-views-kubernetes-as-key-to-gpu-accelerated-ai-scale/"
-    type: article
-    provider:
-      name: ctovision.com
-      domain: ctovision.com
-    quality: 54
-    images:
-      - url: "https://ctovision.com/wp-content/uploads/space.jpg"
-        width: 632
-        height: 422
-        isCached: true
   - title: "Nvidia Rolls Out Certified Server Program Targeting AI Applications"
     excerpt: "Nvidia today launched a certified systems program in which participating vendors can offer Nvidia-certified servers with up to eight A100 GPUs. Separate"
     publishedDateTime: 2021-01-26T18:08:00Z

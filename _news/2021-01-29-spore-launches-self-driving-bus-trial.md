@@ -51,6 +51,20 @@ related:
         width: 1024
         height: 681
         isCached: true
+  - title: "Start-ups, student teams among 11 winners of Singapore Digital Techblazer Awards"
+    excerpt: "SINGAPORE - A biomedical start-up that uses artificial intelligence to improve the accuracy of antibody drug discovery. A robotics start-up that developed a solution allowing non-technical users to programme robots easily."
+    publishedDateTime: 2021-01-30T12:11:00Z
+    webUrl: "https://www.straitstimes.com/tech/11-winners-lauded-for-spirit-of-innovation-at-third-singapore-digital-techblazer-awards"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 19
+    images:
+      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/01/27/yutechblazer0127main.jpg?itok=mYstWSxu"
+        width: 763
+        height: 509
+        isCached: true
 
 secured: "3b3G+yQUItM5+U6sV3/JgOhiixpV5M7ZT1a44AZYOuyRtP3NB662c1UzPwKJnrVp/Sx3W2z2s8rqTxLDJ0C+747Dgjo4hJjnN/MjmU2ZO/B6leeFGY42uvFB1+Yx6PsiqSLqHD9ax0tQEIl58gSYbD4uHmbf2WDiMwA0VTxI1E6WNZ/b3CmmGYTPoRSyGxf+elm8NQqQerV0qdvqu3yw7dyCTeb39DarzrEnoQm98v6kvoywt404FsGW81rTgiqxzj3OXce65nvqrQwScBcFnNdVuaWjRIhefo/5Ha98jSmkSmTlreOm6kPHn1BfOftMS24y0lFkO1xg8ocMixXhDv+MaNzc64Uw+YuEdbDpLhc=;hpuHkh36yDfsQnOpLlcn7w=="
 ---

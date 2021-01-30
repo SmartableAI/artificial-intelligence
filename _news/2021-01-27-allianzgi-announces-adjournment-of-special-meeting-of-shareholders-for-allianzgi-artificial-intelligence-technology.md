@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "AllianzGI Artificial Intelligence & Technology Opportunities Fund Reports Results for the Fiscal Quarter and Nine Months Ended"
+    excerpt: "January"
+    publishedDateTime: 2021-01-30T12:17:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2021-01-29/allianzgi-artificial-intelligence-technology-opportunities-fund-reports-results-for-the-fiscal-quarter-and-nine-months-ended"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 39
+    images:
+      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AllianzGI Announces Adjournment of Special Meeting of Shareholders for AllianzGI Artificial Intelligence & Technology Opportunities Fund (NYSE: AIO)"
     excerpt: "Allianz Global Investors U.S. LLC (“AllianzGI U.S.”), investment manager to AllianzGI Artificial Intelligence & Technology Opportunities Fund (NYSE: AIO) (the “Fund”), announced today that the Special Meeting of Shareholders (the “Meeting”) scheduled for January 26,"
     publishedDateTime: 2021-01-27T00:51:00Z

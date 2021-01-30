@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 795
         isCached: true
-  - title: "Humanizing Work In The Age Of Creepy AI"
-    excerpt: "Horror tales of an Orwellian future of work have haunted humans for decades, but they seem uncomfortably real today."
-    publishedDateTime: 2021-01-25T20:52:00Z
-    webUrl: "https://www.forbes.com/sites/tomaspremuzic/2021/01/25/humanizing-work-in-the-age-of-creepy-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/tomaspremuzic/2021/01/25/humanizing-work-in-the-age-of-creepy-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomaspremuzic/2021/01/25/humanizing-work-in-the-age-of-creepy-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600ee93ba7c94cbdcd79d59b%2F0x0.jpg"
-        width: 1200
-        height: 801
-        isCached: true
 
 secured: "6Og3g3ibt1GjMGmasGh99KGcXkGcoT6ka2vEG13rcywAYX2vEeMzjzYvQrgzFU0ZG3C51t/BxjCZn6f3RU3VtkOInOdkBzVryBVM6pnwmxje1nNhIbqpdahQosKg0IT5/Fm2G39bEIKT5UPmlGFTwriVJZy7ziUFdf33fsW5B9H9qN5ecNd859n6PbHWBRItElLj5NhiYBNYIgp8M1Wgrrex+eJyhvl+XxHrTjJw/KEY2zc2lRjNt1KRkSXVH9u1whkPj17wURfpmTEDBF55N6ekTcXq4BWHaWcsmPsUaTJLqfyS5OlAFbMPWx4LWRR+Rt52OcAxKXERknafP00Nv0w5Xp3tLzWjrD5ukrpMJe8+Fz0FZ+jsF5MSoIXHgB5ev3k0U+mO0vIcw4GojiZt8G7+VVCkUBoPY3muVY3SjJubHrVKtmmAZZIrtriF2P95iYM3IQM6LfoZhebDOX6xRkzsaFGNLk+G208A74GL0ICcaGYTJI1I1p+qPVbvRL8sYs81XeqpVcp1E46jXYCrJQ==;58EL4RIbzF4JN36L5xZbdg=="
 ---

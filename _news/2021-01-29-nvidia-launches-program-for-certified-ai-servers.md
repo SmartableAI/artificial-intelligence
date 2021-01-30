@@ -59,20 +59,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Nvidia Views Kubernetes as Key to GPU Accelerated AI Scale"
-    excerpt: "When you think about Kubernetes, clusters of CPU and memory resources all scaling to meet the demands of container workloads probably springs to mind. But where does GPU acceleration fit […]"
-    publishedDateTime: 2021-01-25T20:20:00Z
-    webUrl: "https://ctovision.com/nvidia-views-kubernetes-as-key-to-gpu-accelerated-ai-scale/"
-    type: article
-    provider:
-      name: ctovision.com
-      domain: ctovision.com
-    quality: 54
-    images:
-      - url: "https://ctovision.com/wp-content/uploads/space.jpg"
-        width: 632
-        height: 422
-        isCached: true
   - title: "NVIDIA Expands vGPU Software to Accelerate Workstations, AI Compute Workloads"
     excerpt: "Designers, engineers, researchers, creative professionals all need the flexibility to run complex workflows – no matter where they’re"
     publishedDateTime: 2021-01-28T16:05:00Z

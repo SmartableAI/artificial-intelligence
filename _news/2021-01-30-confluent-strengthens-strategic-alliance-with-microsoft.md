@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358472/confluent-stren
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/358472/confluent-strengthens-strategic-alliance-with-microsoft?amp"
 type: article
 quality: 89
-heat: 239
+heat: 219
 published: true
 
 provider:
@@ -31,38 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft’s new vision-language model outranks humans at image captioning"
-    excerpt: "Microsoft researchers have developed a new object-attribute detection model for image encoding: VinVL (visual features in vision-language) Vision-language (VL) systems make it possible to search relevant images for a text query (or vice versa)."
-    publishedDateTime: 2021-01-25T19:03:00Z
-    webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358422/microsofts-new-vision-language-model-outranks-humans-at-image"
-    ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358422/microsofts-new-vision-language-model-outranks-humans-at-image?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/358422/microsofts-new-vision-language-model-outranks-humans-at-image?amp"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 88
-    images:
-      - url: "https://media.itpro.co.uk//image/upload/v1591696456/itpro/MicrosoftSignHQ.jpg"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "Natural Language Processing Market is Booming Worldwide with IBM, Microsoft, Google, Amazon Web Services"
-    excerpt: "A new business intelligence report released by Advance Market Analytics with title Global Natural Language Processing Market Insights Forecast to 2025 This report provides a detailed overview of key factors in the Global Natural Language Processing Market and factors such"
-    publishedDateTime: 2021-01-25T20:43:00Z
-    webUrl: "https://www.openpr.com/news/2231045/natural-language-processing-market-is-booming-worldwide-with"
-    ampWebUrl: "https://www.openpr.com/amp/2231045/natural-language-processing-market-is-booming-worldwide-with"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2231045/natural-language-processing-market-is-booming-worldwide-with"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 76
-    images:
-      - url: "https://cdn.openpr.com/U/1/U125333671_g.jpg"
-        width: 800
-        height: 425
-        isCached: true
   - title: "SD Times news digest: Microsoft Azure Boards, Neo4j Aura Enterprise announced, and Cloud Security Alliance’s Cloud Controls Matrix v4"
     excerpt: "Azure Boards enables developers to filter to ... system level security, 5G, and AI/ML,” said Kevin Dallas, the president and CEO of Wind River. The solution contains a fully cloud-native ..."
     publishedDateTime: 2021-01-27T16:52:00Z

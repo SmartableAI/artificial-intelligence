@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 761
         isCached: true
-  - title: "Hyundai's New Dealership Robot Will Narc On You For Not Wearing A Mask"
-    excerpt: "Yes, that wasn’t a misprint, Hyundai is launching DAL-e, a customer service robot that can safely communicate with patrons during the pandemic– the acronym stands for Drive you Assist you, Link with you-experience."
-    publishedDateTime: 2021-01-25T21:00:00Z
-    webUrl: "https://www.motor1.com/news/481998/hyundai-dealership-robot/"
-    ampWebUrl: "https://www.motor1.com/news/481998/hyundai-dealership-robot/amp/"
-    cdnAmpWebUrl: "https://www-motor1-com.cdn.ampproject.org/c/s/www.motor1.com/news/481998/hyundai-dealership-robot/amp/"
-    type: article
-    provider:
-      name: Motor1
-      domain: motor1.com
-    quality: 74
-    images:
-      - url: "https://cdn.motor1.com/images/mgl/PExAX/s1/hyundai-customer-service-robot.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Social Distancing? Hyundai's DAL-e Robot Helps Showroom Customers Without Wearing A Mask"
     excerpt: "The robots come installed with a state-of-the-art artificial intelligence technology for facial recognition and an automatic communication system."
     publishedDateTime: 2021-01-26T00:42:00Z

@@ -19,121 +19,66 @@ topics:
   - AI
 
 related:
-  - title: "Learning with — and about — AI technology"
-    excerpt: "MIT Media Lab Personal Robots group head Cynthia Breazeal joined MIT Education Arcade Director Eric Klopfer for a conversation about AI's role in K-12 education as part of a new webinar series from MIT Open Learning."
-    publishedDateTime: 2021-01-25T19:37:00Z
-    webUrl: "https://news.mit.edu/2021/learning-and-about-ai-technology-0125"
+  - title: "How AI can streamline health care claims processing and benefit payers"
+    excerpt: "AI is constantly learning and improving in order to better meet brokers’ needs; meanwhile, the claims process continues to evolve in the digital age."
+    publishedDateTime: 2021-01-27T15:39:00Z
+    webUrl: "https://www.benefitspro.com/2021/01/27/how-ai-can-streamline-health-care-claims-processing-and-benefit-payers/"
+    ampWebUrl: "https://www.benefitspro.com/2021/01/27/how-ai-can-streamline-health-care-claims-processing-and-benefit-payers/?amp=1"
+    cdnAmpWebUrl: "https://www-benefitspro-com.cdn.ampproject.org/c/s/www.benefitspro.com/2021/01/27/how-ai-can-streamline-health-care-claims-processing-and-benefit-payers/?amp=1"
     type: article
     provider:
-      name: Massachusetts Institute of Technology
-      domain: mit.edu
-    quality: 71
+      name: Benefits Pro
+      domain: benefitspro.com
+    quality: 59
     images:
-      - url: "https://news.mit.edu/sites/default/files/images/202101/child-homework.png"
-        width: 800
-        height: 534
+      - url: "https://images.benefitspro.com/contrib/content/uploads/sites/412/2021/01/shutterstock_1027448323-1.jpg"
+        width: 750
+        height: 500
         isCached: true
-  - title: "New Global Rackspace Technology Study Uncovers Widespread Artificial Intelligence and Machine Learning Knowledge Gap"
-    excerpt: "Rackspace Technology™ (NASDAQ: RXT), a leading end-to-end, multicloud technology solutions company today announced the results of a global survey that reveals that the majority of organizations globally lack the internal resources to support critical artificial intelligence (AI) and machine learning (ML) initiatives."
-    publishedDateTime: 2021-01-28T16:08:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/new-global-rackspace-technology-study-uncovers-widespread-artificial-intelligence-and-machine-learning-knowledge-gap-1030016221"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/New-Global-Rackspace-Technology-Study-Uncovers-Widespread-Artificial-Intelligence-and-Machine-Learning-Knowledge-Gap-1030016221"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/New-Global-Rackspace-Technology-Study-Uncovers-Widespread-Artificial-Intelligence-and-Machine-Learning-Knowledge-Gap-1030016221"
+  - title: "Here’s how artificial intelligence can help improve your quality of hearing"
+    excerpt: "A recent device that has become a popular choice for patients with hearing loss is digital hearing aids, also known as artificial intelligence aids (AI). AI refers to smart devices and machines that are proficient in performing tasks that usually require human intelligence."
+    publishedDateTime: 2021-01-28T21:12:00Z
+    webUrl: "https://www.woodtv.com/wotv4women/the-crew/hearing/heres-how-artificial-intelligence-can-help-improve-your-quality-of-hearing/"
+    ampWebUrl: "https://www.woodtv.com/wotv4women/the-crew/hearing/heres-how-artificial-intelligence-can-help-improve-your-quality-of-hearing/amp/"
+    cdnAmpWebUrl: "https://www-woodtv-com.cdn.ampproject.org/c/s/www.woodtv.com/wotv4women/the-crew/hearing/heres-how-artificial-intelligence-can-help-improve-your-quality-of-hearing/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 65
-  - title: "New Global Rackspace Technology Study Uncovers Widespread Artificial Intelligence and Machine Learning Knowledge Gap"
-    excerpt: "SAN ANTONIO, (GLOBE NEWSWIRE) -- Rackspace Technology (TM) (NASDAQ: RXT), a leading end-to-end, multicloud technology solutions company today announced the results of a global survey that reveals that the majority of organizations globally lack the internal resources to support critical artificial intelligence (AI) and machine learning (ML) initiatives."
-    publishedDateTime: 2021-01-28T11:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/new-global-rackspace-technology-study-uncovers-widespread-artificial-intelligence-and-machine-learning-knowledge-gap-2021-01-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
+      name: WOOD-TV
+      domain: woodtv.com
+    quality: 57
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.woodtv.com/wp-content/uploads/sites/51/2021/01/GettyImages-856556294.jpg?w=1280"
+        width: 1280
+        height: 1337
         isCached: true
-  - title: "Help your AI and Deep Learning Tools Become Smarter"
-    excerpt: "Google and Microsoft are building proprietary chips to make their deep learning platforms a little faster and more desirable than others. These AI chips and infrastructures can improve the experience of running the Deep Neutral Net for processing data on a ..."
-    publishedDateTime: 2021-01-29T13:29:00Z
-    webUrl: "https://www.thefastmode.com/expert-opinion/18942-help-your-ai-and-deep-learning-tools-become-smarter"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 56
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/76535aae17386f5300e987c9cfbf0fa6.jpg?t=20210129_122456"
-        width: 1126
-        height: 550
-        isCached: true
-  - title: "Leading AI Experts Teach Innovative Machine Learning Technique"
-    excerpt: "MindsDB, the open-source AI layer for existing databases, will co-host a webinar with top Big Data and AI influencer Kirk Borne on how to run machine learning inside a database. The webinar, held on February 16th at 4 PM GMT,"
-    publishedDateTime: 2021-01-26T18:15:00Z
-    webUrl: "https://www.lelezard.com/en/news-19617895.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 54
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "Leading HR Technology Company launches AI Ethics Advisory Board"
-    excerpt: "Arena Analytics launched its external AI Ethics Advisory Board - the first human resource technology firm to do so - on January 12,"
-    publishedDateTime: 2021-01-26T19:02:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/leading-hr-technology-company-launches-ai-ethics-advisory-board-301215510.html"
+  - title: "Tractable announces partnership with The Hartford to accelerate claims processing with artificial intelligence"
+    excerpt: "The Hartford, a leading US property and casualty insurer, is using an AI solution to analyze auto damage within its auto insurance"
+    publishedDateTime: 2021-01-28T15:38:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/tractable-announces-partnership-with-the-hartford-to-accelerate-claims-processing-with-artificial-intelligence-301217448.html"
     type: article
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 54
+    quality: 32
     images:
-      - url: "https://mma.prnewswire.com/media/1427165/arena_ethics_advisors.jpg?p=facebook"
-        width: 1920
-        height: 1005
+      - url: "https://mma.prnewswire.com/media/1428562/PH_App_Phone_Screens_US___TR.jpg?p=facebook"
+        width: 2239
+        height: 1173
         isCached: true
-  - title: "Increasing role of AI and machine learning in smartening up data centers"
-    excerpt: "AI and machine learning in data centers can revolutionize data storage and computing power, bolstering companies' data management capabilities."
-    publishedDateTime: 2021-01-26T06:51:00Z
-    webUrl: "https://www.analyticsinsight.net/powering-data-centers-with-ai-and-machine-learning/"
+  - title: "Tractable announces partnership with The Hartford to accelerate claims processing with artificial intelligence"
+    excerpt: "The Hartford, a leading US property and casualty insurer, is using an AI solution to analyze auto damage within its auto insurance claims operations in the US, accelerating how quickly claims can be processed for its customers."
+    publishedDateTime: 2021-01-28T17:00:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-lifestyle-business-insurance-industry-automobiles-1fc33a0cfa4ade8013f90f2bc2c05a87"
     type: article
     provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 53
+      name: Associated Press
+      domain: apnews.com
+    quality: 32
     images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/Data-Centers.jpeg"
-        width: 1200
-        height: 675
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "Learning with – and about – AI technology | MIT News"
-    excerpt: "MIT News. Between distance learning, spending more time at home, and working parents trying to keep their kids occ"
-    publishedDateTime: 2021-01-25T19:51:00Z
-    webUrl: "https://www.compsmag.com/news/technology/learning-with-and-about-ai-technology-mit-news/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/learning-with-and-about-ai-technology-mit-news/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/learning-with-and-about-ai-technology-mit-news/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 41
-  - title: "Rackspace Technology, Inc.: New Global Rackspace Technology Study Uncovers Widespread Artificial Intelligence and Machine Learning Knowledge Gap"
-    excerpt: "AI/ML implementation fails often due to lack of internal resources - More than one-third (34%) of respondents report artificial intelligence R&D ... government/public sector, and healthcare sectors in the Americas, Europe, Asia and the Middle East."
-    publishedDateTime: 2021-01-28T16:32:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-01/51859022-rackspace-technology-inc-new-global-rackspace-technology-study-uncovers-widespread-artificial-intelligence-and-machine-learning-knowledge-gap-399.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 1
 
 secured: "TQmU7OXwcDCx3egjmMhs/PTMWAPiIcNGC/L+JDSc8qFVIQfteOYjSxZq/7KAk0eZIRPfl0dpCz5cth/dKGXKM4RqqmAE70C89YD3IRsnhv/QlRMMXiMB/3oWrwYaruEUzZd0UeSre76uHrZSGCRUcEi5BeryKOt3IhKqrPuzzl3of+kt+ap9BV4/5DcaL8/cYqvYZIiihRC98412L/dqDPPcZ4lvVQ7YaH777pi67HovYmXLOYUitxLudKFw9DhxgyDx+sl5S1TuTGqXY0/vowbpK6dUIu4Tv1qVMZtiM2qJ3Ng6tZB2jMiJ5EFjHmKCdJkVOMlH07367yFFrc6Hg4/2/ff4NBKHzSMn6lJiC84GSCwG03ZRdWG6kZR+P9aHgBI9MCeMBZb+dcHxI+k6TJQGC6LeajirHzyc1q26aOfX7C+w1x7RDE/zCJCRLRaShQdIhtNUoN74NyKCy6ZVRCbfxW0e2uXLbO4zoU9NLsyNrtnxvshrXEPOK9+QLrQrKHrrUo43RZh0xGt9kLkqPA==;H8KiV+gak9tkmO/xnAhanw=="
 ---

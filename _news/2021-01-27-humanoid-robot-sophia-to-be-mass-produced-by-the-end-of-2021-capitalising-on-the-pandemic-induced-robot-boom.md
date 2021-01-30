@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Need a friend? Help's on the way, with eerily lifelike 'social robots' heading to market this year"
-    excerpt: "So in that regard, it's hard to argue against utilizing robotics' ever-evolving practicality and realism for a little socializing during isolated times. That's certainly what Hanson Robotics is hoping for, as the company has big plans for a mass roll ..."
-    publishedDateTime: 2021-01-25T20:20:00Z
-    webUrl: "https://www.syfy.com/syfywire/sophia-hanson-robotics-social-robots-mass-production"
-    ampWebUrl: "https://www.syfy.com/syfywire/sophia-hanson-robotics-social-robots-mass-production?amp"
-    cdnAmpWebUrl: "https://www-syfy-com.cdn.ampproject.org/c/s/www.syfy.com/syfywire/sophia-hanson-robotics-social-robots-mass-production?amp"
-    type: article
-    provider:
-      name: Syfy
-      domain: syfy.com
-    quality: 45
-    images:
-      - url: "https://fastly.syfy.com/sites/syfy/files/styles/1200x680/public/2021/01/gettyimages-1127324224.jpg?offset-x=0"
-        width: 1200
-        height: 680
-        isCached: true
 
 secured: "kCd7tl4KTGHddxqVBT8eyk/UZnPWACOcQkrQmadQz5f+O9RDRwyBbRs18ziQtvG3VABrV2CYD+h4KNw/UniIPwlS3cwGGcSm03wP3csMYsJyIla/089cq0R+dFF0l+fu6TwDY3ri6joBXk8YSXk8C3pYybZ54nFhm50bNrT6VibNNYH0qn5BH4JYjsHNeo5j1d9WVH3QBaHfZMvestz5CNQdZhLQYavnLwC9spye/FM3szm3Q2ukfiUhxZeH0QeJXzvDiaamq5I0nzqvLIDcKj2ANMSYVBpuaPX4VCC4l5FruO5tYoj8i+KrK1LRmCv++rMBNk9Sj1VIBpq9yCPTIQm7OkZQeqVs5YvHuFYwoys=;ytyhPRpT9LX7LXomp3dSVg=="
 ---

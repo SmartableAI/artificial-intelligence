@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/01/27/state-of-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/27/state-of-the-art-applied-artificial-intelligence-defined/amp/"
 type: article
 quality: 91
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Humanizing Work In The Age Of Creepy AI"
-    excerpt: "Horror tales of an Orwellian future of work have haunted humans for decades, but they seem uncomfortably real today."
-    publishedDateTime: 2021-01-25T20:52:00Z
-    webUrl: "https://www.forbes.com/sites/tomaspremuzic/2021/01/25/humanizing-work-in-the-age-of-creepy-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/tomaspremuzic/2021/01/25/humanizing-work-in-the-age-of-creepy-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomaspremuzic/2021/01/25/humanizing-work-in-the-age-of-creepy-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600ee93ba7c94cbdcd79d59b%2F0x0.jpg"
-        width: 1200
-        height: 801
-        isCached: true
   - title: "Tailored AI-generated advice may stop the spread of misinformation"
     excerpt: "Research shows that artificial intelligence can help form accurate news assessments and stop the spread of misinformation."
     publishedDateTime: 2021-01-26T05:07:00Z

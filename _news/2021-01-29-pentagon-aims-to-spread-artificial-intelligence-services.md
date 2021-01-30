@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.gctelegram.com/amp/4293251001"
 cdnAmpWebUrl: "https://amp-gctelegram-com.cdn.ampproject.org/c/s/amp.gctelegram.com/amp/4293251001"
 type: article
 quality: 72
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.f8AX~1c8f3/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2021/01/AIID.png"
         width: 1000
         height: 600
-        isCached: true
-  - title: "Sync and AI Keys to a Successful Program"
-    excerpt: "From early adopter to veteran user of the technologies, Lynn Brewer believes AI and synchronization pay their way in commercial cattle operations."
-    publishedDateTime: 2021-01-25T20:25:00Z
-    webUrl: "https://www.dtnpf.com/agriculture/web/ag/livestock/article/2021/01/25/sync-ai-keys-successful-program"
-    type: article
-    provider:
-      name: dtnpf.com
-      domain: dtnpf.com
-    quality: 37
-    images:
-      - url: "https://www.dtnpf.com/mydtn-public-core-portlet/servlet/GetStoredImage?category=CMS&symbolicName=synchai-by-becky-mills.jpg"
-        width: 640
-        height: 480
         isCached: true
 
 secured: "txp0sRtUULr78IHqW5Q/qA8ECUVbaz8bF4B4XYykpPjA5gpYbnrFBpedDiMO/kTy7TcNeIS6QVke031RRDuJBpaOLwrJwyNo2BbGTkOHIPRAkLvje4y86mbvo0yqoHJpcx2mv3GWW70laSzLNgzSnwMWb2NZNZqyj5/CXl4lph1vc0j432IPaIgkGNSz2nuEMos/cV4lNSTPwiUuc9i5Sg1QRK+B+StimZHhOuBD8zEhMYujPA2iIwdJb0X0z5hO7llVbVywAmMItQzVDivqQPpRrnvDuaAavNcpr36n4uZDFOeR4GGL4z2Uq9yo35jHfVICtVekd6l1zPxHB8aUhi1NB1QbkdK1VZYcOGfZsY+7gIyxD86kryuL2ERnVVDjd3HswvtolYtHa5FR4skWa2E85/VPtrKTrcgTwzymDqkzO68OBKVUg5vwy7tjTw8SXFjCcv62MzBtmGT+0kl6FdA2eQKkrLRCEksmhNMz/QcyiVABH6oea0c3zjz53lEe/nKP01fp0TSiqfC2th1FYw==;5PDsQMVGAzDpTTTkUrEE/A=="

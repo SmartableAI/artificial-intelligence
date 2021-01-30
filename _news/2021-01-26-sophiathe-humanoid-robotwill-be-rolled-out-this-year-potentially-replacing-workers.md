@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jackkelly/2021/01/26/sophia-the-humanoi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2021/01/26/sophia-the-humanoid-robot-will-be-rolled-out-this-year-potentially-replacing-workers/amp/"
 type: article
 quality: 82
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 50
-  - title: "Need a friend? Help's on the way, with eerily lifelike 'social robots' heading to market this year"
-    excerpt: "So in that regard, it's hard to argue against utilizing robotics' ever-evolving practicality and realism for a little socializing during isolated times. That's certainly what Hanson Robotics is hoping for, as the company has big plans for a mass roll ..."
-    publishedDateTime: 2021-01-25T20:20:00Z
-    webUrl: "https://www.syfy.com/syfywire/sophia-hanson-robotics-social-robots-mass-production"
-    ampWebUrl: "https://www.syfy.com/syfywire/sophia-hanson-robotics-social-robots-mass-production?amp"
-    cdnAmpWebUrl: "https://www-syfy-com.cdn.ampproject.org/c/s/www.syfy.com/syfywire/sophia-hanson-robotics-social-robots-mass-production?amp"
-    type: article
-    provider:
-      name: Syfy
-      domain: syfy.com
-    quality: 45
-    images:
-      - url: "https://fastly.syfy.com/sites/syfy/files/styles/1200x680/public/2021/01/gettyimages-1127324224.jpg?offset-x=0"
-        width: 1200
-        height: 680
-        isCached: true
 
 secured: "zamaE5v6mTTkfC1ntItCoNsz7DSsLLfdNT95rJDOaJZmHxGv/u3rojVt7K1Su3xLSvEQnrwJgiUiPZdz2/dQIELUlnnzw/GO8SxYvaN4lFqTaliD0d5mKO7Hs9aAB3E5kedYCPTW7FPebbrntTDQsZEtw8La5oKAHwBisB3DC6MHbI4/VNx3WKfGDsP3qjZdkJQ1jWSN84g+lDvACsWuTxUSTLFDBLZy+tpa9zWWRIlzDoE7VBgC99KrlxV7wrICYXRmOvdYkn9zufGK1HzIucezjls20+aYaGPJkJZGvw0lj420aHnvz3gR9qlsl1JGr6JHTZszfxlhypUsnxSl7Top2mRYkpanXPzt0xHHxno=;xsO4yXzhR90xkZB14N8mug=="
 ---

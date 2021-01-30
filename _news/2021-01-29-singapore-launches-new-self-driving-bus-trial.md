@@ -52,6 +52,20 @@ related:
       name: The Daily Star
       domain: thedailystar.net
     quality: 24
+  - title: "Start-ups, student teams among 11 winners of Singapore Digital Techblazer Awards"
+    excerpt: "SINGAPORE - A biomedical start-up that uses artificial intelligence to improve the accuracy of antibody drug discovery. A robotics start-up that developed a solution allowing non-technical users to programme robots easily."
+    publishedDateTime: 2021-01-30T12:11:00Z
+    webUrl: "https://www.straitstimes.com/tech/11-winners-lauded-for-spirit-of-innovation-at-third-singapore-digital-techblazer-awards"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 19
+    images:
+      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/01/27/yutechblazer0127main.jpg?itok=mYstWSxu"
+        width: 763
+        height: 509
+        isCached: true
 
 secured: "5LUDYV+dD+Hzg7gC5NwytmFV2U6g5JJpBh3IqnWYgh5cF27VGX/hVsEuuJpgky/qDUVD1mXMWeAwCkNIsTT2Uj4G65zKKXOMYx40Dza3ZiWUh99Lvd7B9yRUPVCw3lhBxgCfBlKz0MP0d7JCps/cqfsiekTiZET6tHzd2fRn6hZk5Fcx0JXVdcLu6XdvbtAByjko2OqmsP15KIH85e925Hxy9YXabVw+mHByYxy1Twq0ztujad44O7AH4w7gsR9nCZrbDda1LjlkWIZjfggIxsGAkBMfXdSB3JmqSZGVet439yRkOwwTSI5PTlXgP3cOBEFD4ggoAMs1PMcs8IJpmp5jEAsvs9ZbR77G9oI7g+KOwBhkfJijNPtLudC1M9ZbErCf4TcKnlk8gA2jdEogn1ky+Vzd57eMYM6LG1SlawpvGpzbWuEttPv0m/MSD6fDtttSWnqGrWNP0UNlqoAJnyThFNxuAzHE2NeHAMOoMKAS1U3l88l/NT1PiDWY/JdXC+3tzPhklWsR6KOB101uOQ==;VIPFU5Qu2iLDXq5HnzxLTQ=="
 ---

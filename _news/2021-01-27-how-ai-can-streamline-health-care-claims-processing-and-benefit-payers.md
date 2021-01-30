@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benefitspro.com/2021/01/27/how-ai-can-streamline-health-
 cdnAmpWebUrl: "https://www-benefitspro-com.cdn.ampproject.org/c/s/www.benefitspro.com/2021/01/27/how-ai-can-streamline-health-care-claims-processing-and-benefit-payers/?amp=1"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 1280
         height: 1337
         isCached: true
+  - title: "How AI and Machine Learning Will Shape Software Testing"
+    excerpt: "In this special guest feature, Erik Fogg, Chief Operating Officer at ProdPerfect, covers some of the main benefits of adding AI to the software testing process, and why you should consider adding it to yours if you haven’t already."
+    publishedDateTime: 2021-01-27T14:03:00Z
+    webUrl: "https://insidebigdata.com/2021/01/27/how-ai-and-machine-learning-will-shape-software-testing/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 34
   - title: "Tractable announces partnership with The Hartford to accelerate claims processing with artificial intelligence"
     excerpt: "The Hartford, a leading US property and casualty insurer, is using an AI solution to analyze auto damage within its auto insurance"
     publishedDateTime: 2021-01-28T15:38:00Z

@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Sync and AI Keys to a Successful Program"
-    excerpt: "From early adopter to veteran user of the technologies, Lynn Brewer believes AI and synchronization pay their way in commercial cattle operations."
-    publishedDateTime: 2021-01-25T20:25:00Z
-    webUrl: "https://www.dtnpf.com/agriculture/web/ag/livestock/article/2021/01/25/sync-ai-keys-successful-program"
-    type: article
-    provider:
-      name: dtnpf.com
-      domain: dtnpf.com
-    quality: 37
-    images:
-      - url: "https://www.dtnpf.com/mydtn-public-core-portlet/servlet/GetStoredImage?category=CMS&symbolicName=synchai-by-becky-mills.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "E0P5bKMOmR0b2PqNgEUxhFU+vE6rINxaCl2YSWEQHZ9nA4RyTIoIbiqlY/MnQBXSJADng5bZ/e/LTW6RsTshYLf6i2Y373MRhmW8nSYUTiZXPVoWKA9YgVa6+CAfF4O9khPmDWgfmHnbf27jYlvl+sDgp/dtinPCOszGK+uU9hgmhAmmSPLrteeQ/jp8p427wHm4km3Ll5q0J5yLxD1QrfVGHfTXjh6hYMsNhjkCTx8R97YP5KIYMyGE4RHtAKVQG20CnAyIVjlglLETJYCwlCo5+UvQvhhx/Zea+sWHfOf10QxxU6q6oBx3kwUtLJ18hqXiaSygFoawhhKoIj0SAq3x2LRQvMMDt9JW3Dcqxj0=;k2/pjjUDcoJlLC9vb/PrbA=="
 ---

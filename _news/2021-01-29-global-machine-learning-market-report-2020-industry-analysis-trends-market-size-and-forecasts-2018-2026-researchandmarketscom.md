@@ -95,20 +95,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Automotive Market Likely to Emerge by 2026| Industry Insights, COVID-19 Impact, Analysis, Opportunities"
-    excerpt: "Jan (Market Insight Reports) -- Selbyville, Delaware, MarketStudyReport.com offers report on Global Artificial Intelligence (AI) in"
-    publishedDateTime: 2021-01-25T19:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-likely-to-emerge-by-2026-industry-insights-covid-19-impact-analysis-opportunities-2021-01-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Smart Robot Market Size, Share, Future Challenges, Revenue, Demand, Opportunity, Analysis and Industry, Forecast 2025"
     excerpt: "The scope of the report includes a detailed study of Smart Speaker Market with the reasons given for variations in the growth of the industry in certain regions. Browse Full Report Here:  A smart robot is an artificial intelligence (AI) system that can learn from its environment and its experience and build on its capabilities based on that knowledge."
     publishedDateTime: 2021-01-27T03:35:00Z

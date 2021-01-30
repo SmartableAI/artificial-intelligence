@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/renitakalhorn/2021/01/27/the-inner-game
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/renitakalhorn/2021/01/27/the-inner-game-of-ai-and-how-to-not-make-the-same-mistakes-you-made-with-digital-transformation/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 640
     height: 480
     isCached: true
-
-related:
-  - title: "Rolls-Royce Germany is Undergoing Digital Transformation with Artificial Intelligence"
-    excerpt: "Rolls-Royce Germany will be leveraging artificial intelligence (AI) in a new partnership with Altair for its engineering, testing, and design of aerospace engines to reduce and accelerate certification and design iterations,"
-    publishedDateTime: 2021-01-25T20:59:00Z
-    webUrl: "https://www.aviationtoday.com/2021/01/25/rolls-royce-germany-undergoing-digital-transformation-artificial-intelligence/"
-    type: article
-    provider:
-      name: Aviation Today
-      domain: aviationtoday.com
-    quality: 30
-    images:
-      - url: "https://www.aviationtoday.com/wp-content/uploads/2021/01/rolls-royce-largest.jpg"
-        width: 1280
-        height: 1040
-        isCached: true
 
 secured: "Mxcocqb4N3f7N6pn9ApMphxUpJk6PJSaOCJNrTCYw/E9Ldiihs4YN7b4QzrRnOsUTT3LloW1IfVBV+dy/BLbbZ5hT3+6AvSJd/w/o71Q9mB+XT2/Edig2QBFGocf5kAqcvMQZURTb19yGjJzd8yrvOwgioLWPRw910iBRDPmyeU/3VxaFUITjJ7Lj8XIoNK5k+/07ih5G7d6v7s/RFx0kJD/BTi0IDpk9k/mlcITdeFmZhiDgt7G8KtNPhFB+tA0hc931ZwXPBAlb+cSYuabxcaQn6ohmB8Ut7raGsF4e9ZbtMezNOyH+axzlDD9Gbts9pEfiAZ/XmLx7JynhhvnHS7YdTqvTGNPGxIt0rknrzBnQVS9z34iUuvCqTbfXs9k/anMeWM/NM5JSC2wQLaU4NdEi7b9OQkGK3UYHyZErotwSRjMwC3g4hX5aHtvJkvmAODqoQq6sCYagu4IgP6uIpkrrBjF4UkqKNgHBNi0au5BVKno6/oD5d3dLjhN02Fm3Unekg+rsiSya1zdjIkbvQ==;hzfmHhbmNnwT6ATyvK5rOQ=="
 ---
