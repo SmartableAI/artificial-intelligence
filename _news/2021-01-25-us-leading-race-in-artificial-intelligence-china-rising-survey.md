@@ -40,6 +40,36 @@ related:
         width: 450
         height: 300
         isCached: true
+  - title: "US leads race in artificial intelligence as China rises to the top - survey"
+    excerpt: "The United States is leading rivals in development and use of artificial intelligence while China is rising quickly and European Union is lagging, a research report showed Monday."
+    publishedDateTime: 2021-01-25T11:22:00Z
+    webUrl: "https://www.iol.co.za/technology/software-and-internet/us-leads-race-in-artificial-intelligence-as-china-rises-to-the-top-survey-3fb0c1fa-aab4-49bd-a1c5-731850f8529b"
+    ampWebUrl: "https://www.iol.co.za/amp/technology/software-and-internet/us-leads-race-in-artificial-intelligence-as-china-rises-to-the-top-survey-3fb0c1fa-aab4-49bd-a1c5-731850f8529b"
+    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/software-and-internet/us-leads-race-in-artificial-intelligence-as-china-rises-to-the-top-survey-3fb0c1fa-aab4-49bd-a1c5-731850f8529b"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 55
+    images:
+      - url: "https://image-prod.iol.co.za/resize/1280x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/fb718a16-caa7-5490-8675-dcef913ff589&operation=CROP&offset=0x67&resize=1280x720"
+        width: 651
+        height: 366
+        isCached: true
+  - title: "Worldwide Conversational AI Industry to 2027 - Strategic Recommendations for New Entrants - ResearchAndMarkets.com"
+    excerpt: "The “Conversational AI - Global Market Outlook (2019-2027)” report has been added to ResearchAndMarkets.com’s offering. According to this report, the Global Conversational AI market accounted for $3.81 billion in 2019 and is expected to reach $18."
+    publishedDateTime: 2021-01-29T08:01:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-corporate-news-latin-america-and-caribbean-4a64e2e6e39e4ccf9d0261ea67d571dc"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 15
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "fkBd+x5shSUksXH7fGexEH67QJdCYVkvqZgpEtFlYGpICYwPC1f4Eso7NwpfCEjLwtHxPlmfM7UB2vE/8t9kkpE8iMJaHr4H0Rq4PKJ0Asucpb3sTt7I0ZB2Fv6v3yKfvAF0TNVk/mW9sX/jeR3hX++zE05UIf3D4hgOwXBo+7SlzqV/6IBgKst8ndikMgTnhK57jD+SzS6rsGU/FlYSSm2lTqbIzUVeUOqYDGUIIRjB1QSkRo2DptzZzJIzGvNA+d7adnH83smJyGQRBctZWWEpqPXBnOZqBhCqq9Ka4nRQYzvJ7d0iIa88We5aHNKGGAYq2W/qTHRHIFYRKEFqQOkU974vOxkwFcIs+B9YFqNRjC/z0emPNV9J2qLGQ2etiyK58rD6Qpo7KKLHP7Qsj/eKnwmrdvDFLYObC+kqXKz9B7JMV+aj7d9vC5AreXiQhZ9G3Vm00W7b5OW49i0E9q4dcA5+iSZMgtbLQQG8SHTnTqLWPnzx7vaCi8R/d1pHczJkVoU/nZ0LJ+SFOeYcLw==;31HpbkXHqv/CtisQPxsyHQ=="
 ---

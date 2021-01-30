@@ -3,10 +3,10 @@ category: news
 title: "Singapore launches new self-driving bus trial"
 excerpt: "Singapore has moved a step closer to a driverless public transport network with the launch of a new trial of self-driving buses."
 publishedDateTime: 2021-01-29T13:30:00Z
-originalUrl: "https://www.astroawani.com/berita-teknologi/singapore-launches-new-self-driving-bus-trial-280366"
-webUrl: "https://www.astroawani.com/berita-teknologi/singapore-launches-new-self-driving-bus-trial-280366"
-ampWebUrl: "https://www.astroawani.com/berita-teknologi/singapore-launches-new-self-driving-bus-trial-280366?amp=1"
-cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/berita-teknologi/singapore-launches-new-self-driving-bus-trial-280366?amp=1"
+originalUrl: "https://www.astroawani.com/berita-malaysia/singapore-launches-new-self-driving-bus-trial-280366"
+webUrl: "https://www.astroawani.com/berita-malaysia/singapore-launches-new-self-driving-bus-trial-280366"
+ampWebUrl: "https://www.astroawani.com/berita-malaysia/singapore-launches-new-self-driving-bus-trial-280366?amp=1"
+cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/berita-malaysia/singapore-launches-new-self-driving-bus-trial-280366?amp=1"
 type: article
 quality: 44
 heat: 44
@@ -53,6 +53,6 @@ related:
       domain: thedailystar.net
     quality: 24
 
-secured: "bx1arQDbsYvgRf2ENCmisxaSteiSSRCCG5nVtp5qDeZZuVsLxdALXxVpDgeK1QG0Yoy5j3R4jQI1OlFS1lWwOWmBSsn3SuzgMQ5HGkGRadmNTnd3OwoJ7rZfP7Ekaus6iJ8pvj2OkhJJs7Sq3w84CrlBaWU/aQ2uYD5OcwlddZL6A7TxQsrMZg+Bwj5xXz99Kpo0JIZtUf3x8VjnR+yoVFIjBEMM6iSGWb2zk+x/LtEXaTJG5RKUHLmHOGDKaVJPYC6XGpmTjZNov27a8wY12LaooIuO6bbO8Zbt2/ijgxGUsw8juuwq8bh+vQuryBnq1/W8kkcSmpJuDpHvCNQOBIYld0LXtjNmRyKt7+sVpgOAx1IuP0L4D1oDQ0U4zpAxxCHhPdYwxVU5/y1uOmZOMi6JqhxhE/71H66HZdMB2Y/jdWajhJ3sb52bPqwOyketX90EimfVdQp6mEwvrdk3W/2cdSdnaUrI01CzpZAcmd3GxXQqCMwtHw2+ssfMckW4cX/SS/ZSH8UVekHg2qvL4g==;ct2mIrU9JP74e9WFEIPghg=="
+secured: "uFUPSt/7yUQygzRySMRLfBrEs1iSqSPdOA0IGjjt71++1yOc0lCrdYDHjtm6VHH+cqyrOJbgSD9SpX5LYQM/4cvjBSBC4KJLRAX+GR2VAfYiBh9e+2pKYvtafgPk4t+BJKHkH3h2JXSch6Za3XMyNMzU13cZ1H6mYfZu4ousePOaygGohWlv6r+gAm4Coh+iO6DfPMrhgu0FdPMEm5/kzJM9wpOfWmuxLAWC+ECY4wkchMcTzmLEkSDxDbrjlU+zQZMjhHTFwWfHJkcDkEC4z+uU9vpiN0xXjJpHHDldAsvURpq1BICxHJTxXw0o9mR5RzJezOmZ+5fni6nESmzYW8sfhstVl0XHF9hRXrfmfms=;oM8JYaAwC/1y43+bF4p1dQ=="
 ---
 

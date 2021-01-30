@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/silicon-labs-and-edge-i
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/silicon-labs-and-edge-impulse-partner-to-accelerate-machine-learning-applications-1030011427"
 type: article
 quality: 66
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/tylerpaper.com/content/tncms/assets/v3/editorial/b/02/b02b1a0e-4c4a-5e09-bb6e-ae53fabd2d74/6011b86cf225c.image.jpg?resize=400%2C209"
         width: 400
         height: 209
+        isCached: true
+  - title: "Harnessing the power of a digital assistant to accelerate patient access"
+    excerpt: "Technology in the healthcare landscape is evolving, and leading hub services providers are implementing solutions that help accelerate speed to therapy for patients. One crucial portion of accessing medication is being able to receive benefit verification information in a timely manner."
+    publishedDateTime: 2021-01-30T00:57:00Z
+    webUrl: "https://www.fiercebiotech.com/biotech/harnessing-power-a-digital-assistant-to-accelerate-patient-access"
+    type: article
+    provider:
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 23
+    images:
+      - url: "https://qtxasset.com/fiercebiotech/1611937441/ab_2_3_card_02.png/ab_2_3_card_02.png?hdi6wqdjifXjdJir64A8bk9CJFz8BaIg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "8weNrGmRrkyG8NxWCdUDDdB7Skuy+Neqga5RSqlWEya/yqc9oqtb/6O1HX8b4iw71ej1L2arBHCGgkY/0EIOS3xl/kOunx5Ti+5K3AhjULJYdlLKMhHTg0CJNRHxkJFTMFxtRNDhj0giBxGBldrziV9Vzoj37DXDEg/9uuFwDBmJBSXMTh/8wh8ef1FUSd7hWsyqVikwVv5Q9HXOwQ9kq6uYlLQb9vcdelPOs4x+dqafxWun0L3dxCv4eFr8NxDWHgToOmZSKHt+b8ZTc2B+ZrrVz3LhuUZW/kxyn4c4OYyWH2TpHJiFjw8JQ9/s0khRBZka9D7HZdhVjQ/Tdgyrh89T30hGunUR/4PKezQ3fs0=;sZoN8EUBRN5UOEcg6uvqaQ=="

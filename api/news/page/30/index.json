@@ -2,6 +2,402 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-01-06-the-us-needs-more-foreign-artificial-intelligence-know-how.md",
+      "title": "The US Needs More Foreign Artificial Intelligence Know-How",
+      "excerpt": "Jason Furman, a top economic adviser to President Obama, says good ideas come from everywhere—but Trump has dissuaded tech workers from coming to the US.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/us-needs-more-foreign-artificial-intelligence-know-how/",
+      "originalUrl": "https://www.wired.com/story/us-needs-more-foreign-artificial-intelligence-know-how/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ff51e1eadb00d267b4a3569/master/pass/Business-Jason-Furman-1022466816.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/us-needs-more-foreign-artificial-intelligence-know-how/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/us-needs-more-foreign-artificial-intelligence-know-how/amp",
+      "publishedDateTime": "2021-01-06T04:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-06-what-buddhism-can-do-for-ai-ethics.md",
+      "title": "What Buddhism can do for AI ethics",
+      "excerpt": "Buddhism teaches us to focus our energy on eliminating suffering in the world. The explosive growth of artificial intelligence has fostered hope that it will help us solve many of the world’s most intractable problems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2021/01/06/1015779/what-buddhism-can-do-ai-ethics/",
+      "originalUrl": "https://www.technologyreview.com/2021/01/06/1015779/what-buddhism-can-do-ai-ethics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/01/SA_celine-haeberly-DwpmtAo01fY-unsplash.jpeg?w=3000",
+          "width": 3000,
+          "height": 1688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2021/01/06/1015779/what-buddhism-can-do-ai-ethics/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/01/06/1015779/what-buddhism-can-do-ai-ethics/amp/",
+      "publishedDateTime": "2021-01-06T03:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-06-how-to-merge-data-in-python-using-pandas-merge.md",
+      "title": "How to merge data in Python using Pandas merge",
+      "excerpt": "Use the popular Pandas library for data manipulation and analysis to read data from two files and join them into a single dataset.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3600911/how-to-merge-data-in-python-using-pandas-merge.html",
+      "originalUrl": "https://www.infoworld.com/article/3600911/how-to-merge-data-in-python-using-pandas-merge.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2015/09/convergence-railroad-tracks-merge-aquisitions-100613703-large.jpg",
+          "width": 1200,
+          "height": 795,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3600911/how-to-merge-data-in-python-using-pandas-merge.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3600911/how-to-merge-data-in-python-using-pandas-merge.amp.html",
+      "publishedDateTime": "2021-01-06T03:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-06-tencent-invests-in-chinese-ai-chip-start-up-as-part-of-279-million-funding-round.md",
+      "title": "Tencent invests in Chinese A.I. chip start-up as part of $279 million funding round",
+      "excerpt": "China has been looking to ramp up its capabilities in both AI and semiconductors as the tech war with the U.S. continues.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/01/06/tencent-invests-in-chinese-ai-chip-start-up-enflame.html",
+      "originalUrl": "https://www.cnbc.com/2021/01/06/tencent-invests-in-chinese-ai-chip-start-up-enflame.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106692661-1599449811224-gettyimages-1267327926-pre_9603.jpeg?v=1606698747",
+          "width": 2122,
+          "height": 1412,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/01/06/tencent-invests-in-chinese-ai-chip-start-up-enflame.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/06/tencent-invests-in-chinese-ai-chip-start-up-enflame.html",
+      "publishedDateTime": "2021-01-06T01:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-01-06-temasek-fund-backs-india-startup-bringing-ai-technology-to-farms.md",
+      "title": "Temasek Fund Backs India Startup Bringing AI Technology to Farms",
+      "excerpt": "CropIn, an artificial intelligence and data-based agritech startup, has raised $20 million in a funding round led by Temasek Holdings Pte-backed ABC World Asia, as the coronavirus pandemic accelerates the adoption of digital technologies in farming.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-01-06/temasek-fund-backs-india-startup-bringing-ai-technology-to-farms",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-01-06/temasek-fund-backs-india-startup-bringing-ai-technology-to-farms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBCBhH8vKSWs/v0/360x-1.jpg",
+          "width": 360,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2021-01-06/temasek-fund-backs-india-startup-bringing-ai-technology-to-farms",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2021-01-06/temasek-fund-backs-india-startup-bringing-ai-technology-to-farms",
+      "publishedDateTime": "2021-01-06T00:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-06-cambridge-quantum-computing-appoints-oxford-university-professor-bob-coecke-as-chief-scientist.md",
+      "title": "Cambridge Quantum Computing Appoints Oxford University Professor Bob Coecke as Chief Scientist",
+      "excerpt": "Coecke who has previously served as Senior Scientific Advisor to CQC with a focus on developing and building a leading Quantum Natural Language Processing (QNLP) capability, joins from the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cambridge-quantum-computing-appoints-oxford-university-professor-bob-coecke-as-chief-scientist/article_a158bee0-a62f-5d02-b26c-09d47cad12d7.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cambridge-quantum-computing-appoints-oxford-university-professor-bob-coecke-as-chief-scientist/article_a158bee0-a62f-5d02-b26c-09d47cad12d7.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-06T00:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-06-new-ai-tools-aim-to-automate-aspects-of-covid-19-response.md",
+      "title": "New AI Tools Aim to Automate Aspects of Covid-19 Response",
+      "excerpt": "Hyro Inc., a company that makes plug-and-play conversational artificial-intelligence software, has developed an AI-powered virtual assistant designed to lessen the load of incoming calls for vaccination information and scheduling queries handled by call ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/new-ai-tools-aim-to-automate-aspects-of-covid-19-response-11609894415",
+      "originalUrl": "https://www.wsj.com/articles/new-ai-tools-aim-to-automate-aspects-of-covid-19-response-11609894415",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-281112/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-05T21:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-06-moves-former-intel-tesla-chip-exec-jim-keller-joins-artificial-intelligence-startup.md",
+      "title": "MOVES-Former Intel, Tesla chip exec Jim Keller joins artificial intelligence startup",
+      "excerpt": "Jim Keller, a prominent computing chip architect who left Intel Corp last year, has joined a Toronto-based startup developing artificial intelligence chips.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/tenstorrent-tech/moves-former-intel-tesla-chip-exec-jim-keller-joins-artificial-intelligence-startup-idUKL1N2JG2I6?edition-redirect=in",
+      "originalUrl": "https://www.reuters.com/article/tenstorrent-tech/moves-former-intel-tesla-chip-exec-jim-keller-joins-artificial-intelligence-startup-idUKL1N2JG2I6?edition-redirect=in",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-05T21:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-01-06-self-driving-software-startup-oxbotica-raises-47mln-in-latest-funding-round.md",
       "title": "Self-driving software startup Oxbotica raises $47mln in latest funding round",
       "excerpt": "Self-driving software startup Oxbotica said on Wednesday it has raised $47 million in its latest funding round led by the venture arm of oil giant BP and including health and safety device maker Halma Plc and Tencent.",
@@ -763,387 +1159,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-self-driving-cars-and-asimovs-three-laws-about-robots.md",
-      "title": "Self-Driving Cars And Asimov’s Three Laws About Robots",
-      "excerpt": "Asimov's famous Three Laws of robotics are considered in the use case of self-driving cars, and found to be aspirational but not ironclad.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/01/05/self-driving-cars-and-asimovs-three-laws-about-robots/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/01/05/self-driving-cars-and-asimovs-three-laws-about-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fdbda74b146f4f451dec796%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4743%26cropY1%3D0%26cropY2%3D3751",
-          "width": 1200,
-          "height": 949,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/01/05/self-driving-cars-and-asimovs-three-laws-about-robots/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/01/05/self-driving-cars-and-asimovs-three-laws-about-robots/amp/",
-      "publishedDateTime": "2021-01-05T08:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-denver-start-up-uses-artificial-intelligence-for-at-home-workouts.md",
-      "title": "Denver start-up uses artificial intelligence for at-home workouts",
-      "excerpt": "By using artificial intelligence — without any human in ... Eventually, they hope to use the technology for physical therapy and sports training, among other applications. To learn more about ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedenverchannel.com/news/in-good-company/denver-start-up-uses-artificial-intelligence-for-at-home-workouts",
-      "originalUrl": "https://www.thedenverchannel.com/news/in-good-company/denver-start-up-uses-artificial-intelligence-for-at-home-workouts",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ewscripps.brightspotcdn.com/dims4/default/f22f802/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F33%2F74%2F9e7b522242f28df9e9355a769681%2Fposter-fa7bd816d68347ad8a2a07017ec59b54.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-05T08:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "7News and TheDenverChannel.com",
-        "domain": "thedenverchannel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-machine-learning-improves-particle-accelerator-diagnostics.md",
-      "title": "Machine learning improves particle accelerator diagnostics",
-      "excerpt": "Operators of the primary particle accelerator at the U.S. Department of Energy's Thomas Jefferson National Accelerator Facility are getting a new tool to help them quickly address issues that can prevent it from running smoothly.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-01-machine-particle-diagnostics.html",
-      "originalUrl": "https://phys.org/news/2021-01-machine-particle-diagnostics.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/1-machinelearn.jpg",
-          "width": 799,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-01-machine-particle-diagnostics.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-01-machine-particle-diagnostics.amp",
-      "publishedDateTime": "2021-01-05T08:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-cox-acquires-ai3d-scanner-maker-fyusion-to-aid-used-car-dealerships.md",
-      "title": "Cox acquires AI/3D scanner maker Fyusion to aid used car dealerships",
-      "excerpt": "The Atlanta-based media and internet conglomerate has purchased an AI and 3D scanning company to help dealerships digitize used car listings.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/05/cox-acquires-ai-3d-scanner-maker-fyusion-to-aid-used-car-dealerships/",
-      "originalUrl": "https://venturebeat.com/2021/01/05/cox-acquires-ai-3d-scanner-maker-fyusion-to-aid-used-car-dealerships/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/fyusion2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/05/cox-acquires-ai-3d-scanner-maker-fyusion-to-aid-used-car-dealerships/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/05/cox-acquires-ai-3d-scanner-maker-fyusion-to-aid-used-car-dealerships/amp/",
-      "publishedDateTime": "2021-01-05T08:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-sensiple-announces-the-launch-of-tryvium-desk-to-enhance-the-microsoft-teams-experience.md",
-      "title": "Sensiple Announces the Launch of Tryvium Desk to Enhance the Microsoft Teams Experience",
-      "excerpt": "\"With Microsoft Teams driving better collaboration ... built on trending technologies such as computer vision, cognitive services, big data, and data science. Our continuous effort to align ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/sensiple-announces-the-launch-of-tryvium-desk-to-enhance-the-microsoft-teams-experience-301200748.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/sensiple-announces-the-launch-of-tryvium-desk-to-enhance-the-microsoft-teams-experience-301200748.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1394257/4fcab888c88e2c139b1294493222_Logo.jpg?p=facebook",
-          "width": 1460,
-          "height": 766,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-05T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-the-best-facial-recognition-security-cameras-of-2021.md",
-      "title": "The best facial recognition security cameras of 2021",
-      "excerpt": "Some home security cameras have facial recognition, an advanced option that lets you make a database of people who regularly come to your house. Then, when the camera sees a face, it determines whether or not it belongs to someone in your list of known faces.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-of-2021/",
-      "originalUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-of-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 266,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/Po3RwqbEHc2CKBgcOkuRry496iw=/1200x630/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-2021/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-2021/",
-      "publishedDateTime": "2021-01-05T07:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-watch-this-amazing-ai-enhanced-montage-of-lumiere-films-historians-will-hate-it-though.md",
-      "title": "Watch this amazing AI-enhanced montage of Lumière films — historians will hate it though",
-      "excerpt": "YouTuber Denis Shiryaev used a controversial technique of AI video restoration to colorize, upscale, and enhance films by the French pioneers.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/01/05/watch-this-amazing-ai-enhanced-montage-of-lumiere-films-historians-will-hate-it-though/",
-      "originalUrl": "https://thenextweb.com/neural/2021/01/05/watch-this-amazing-ai-enhanced-montage-of-lumiere-films-historians-will-hate-it-though/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/Untitled-design-2021-01-05T122756.834-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/01/05/watch-this-amazing-ai-enhanced-montage-of-lumiere-films-historians-will-hate-it-though/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/05/watch-this-amazing-ai-enhanced-montage-of-lumiere-films-historians-will-hate-it-though/amp/",
-      "publishedDateTime": "2021-01-05T07:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-zytronic-gets-designed-into-large-interactive-displays.md",
-      "title": "Zytronic gets designed into large interactive displays",
-      "excerpt": "The table is set to register 80 touch points, and the capacitive sensor and controller also support Ideum’s proprietary ‘Tangible Engine’ object recognition software – which enables users of the display to place a (specially designed) physical ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicsweekly.com/news/business/manufacturing/763919-2021-01/",
-      "originalUrl": "https://www.electronicsweekly.com/news/business/manufacturing/763919-2021-01/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.electronicsweekly.com/wp-content/uploads/2021/01/05143226/Zytronic-ZYTC035-touch-tabe-for-ideum.jpg",
-          "width": 667,
-          "height": 444,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-05T06:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronics Weekly",
-        "domain": "electronicsweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

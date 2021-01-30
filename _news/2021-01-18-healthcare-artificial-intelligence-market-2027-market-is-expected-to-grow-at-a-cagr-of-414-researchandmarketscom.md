@@ -1,20 +1,22 @@
 ---
 category: news
 title: "Healthcare Artificial Intelligence Market, 2027 - Market is Expected to Grow at a CAGR of 41.4% - ResearchAndMarkets.com"
-excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Healthcare Artificial Intelligence Market - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The global healthcare artificial intelligence (AI) market is expected to grow at a CAGR of 41.4% ..."
-publishedDateTime: 2021-01-18T14:19:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210118005340/en/"
-webUrl: "https://www.businesswire.com/news/home/20210118005340/en/"
+excerpt: "... is mainly attributed to the factors such as rising venture capital investment for artificial intelligence in healthcare sector, growing demand for personalized therapy, positive impact due to COVID-19, rising demand to reduce healthcare costs, and ..."
+publishedDateTime: 2021-01-18T14:46:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/01/b19202252/healthcare-artificial-intelligence-market-2027-market-is-expected-to-grow-at-a-cagr-of-41-4-resear"
+webUrl: "https://www.benzinga.com/pressreleases/21/01/b19202252/healthcare-artificial-intelligence-market-2027-market-is-expected-to-grow-at-a-cagr-of-41-4-resear"
+ampWebUrl: "https://amp.benzinga.com/amp/content/19202252"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19202252"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "JGi+GeAEroXbJKk+0tUMjgUJWYwA/m8dDfJp9u8WDb/F/4gpQ+Kqu3xR5pAQ3pXhv9OczMPUxdJ7efV5rmytDG+CsvJ2g/z45Pa6S752tmmmARLATsUHZFbAa1w3yZMmN/qgRmfAsJD2edhhrbsmBWMD6srbgzj6prx9IOH/N/TmDoeACDdcZafRNyxzQUaBtnFKwRmdxFqpYtMmw1dkWW8Rlhw7T2dcMwtwW6f+0roqvyyp/GjDZnN1+/8zn5yypUXWbx4+Ys+JsKJ+zilZp6y7wUIlHarPx1K64PHFN2n+kCkBWwYST4Y2mqb8hOVN9mOqPUOx1WrHRiaSa8tA5TeBn3rWQUw8dY8cFQMpcNE=;yOFWQ4qMq+eM+rOHXtMcHA=="
+secured: "ly6J+1tKNZ/ZMQOYbNoOCVCwFjg79F7Jl5RpYn/1Urf7AsoCij2Bth+jnPNL8S+P4eam051uDYJI9t40IzCJl06/carI+Qd9Ok/nBicAbEfv43bcWB15Trf2IjNWZJleNLlwHToH49JmhQsWBSbzZ6gHTMI9jGmeD3p2TIUEjUmKZfU8JWOLbHwipODIqxkuQuCTx/NleSXJN9wBuW0uHKjxhlBYycfacMaamXkr5fkkBOQWe5ypncgQtB6D+ZR1xRLcjKFFODj2KRHvDKA4ML+1qeTN1BwPadvKP1WvdD6/xsXdvNdHcIh3rs/k/0jB2vx4xmbTaoDh3NkafGBR86jMK2gpo24j2K7bjSEDH/A=;6PUQc5CM3kSGtfeDx/BkuQ=="
 ---
 

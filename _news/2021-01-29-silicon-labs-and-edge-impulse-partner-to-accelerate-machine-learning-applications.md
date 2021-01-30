@@ -50,6 +50,20 @@ related:
         width: 400
         height: 209
         isCached: true
+  - title: "Harnessing the power of a digital assistant to accelerate patient access"
+    excerpt: "Technology in the healthcare landscape is evolving, and leading hub services providers are implementing solutions that help accelerate speed to therapy for patients. One crucial portion of accessing medication is being able to receive benefit verification information in a timely manner."
+    publishedDateTime: 2021-01-30T00:57:00Z
+    webUrl: "https://www.fiercebiotech.com/biotech/harnessing-power-a-digital-assistant-to-accelerate-patient-access"
+    type: article
+    provider:
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 23
+    images:
+      - url: "https://qtxasset.com/fiercebiotech/1611937441/ab_2_3_card_02.png/ab_2_3_card_02.png?hdi6wqdjifXjdJir64A8bk9CJFz8BaIg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "vuwwfgwzqynDNcvTrajNJHdg11YdKOJethq3Ujxa6WIGeD5jvsiFK5SAwGzLT27kvdtupysRfAFCg0brEPSHSUaQAGyRuKKJ6laJjySMJl2y74O3IP3UBGZTwE8QvlYSGwCWuUBabMoq/MgK2kjH8Ts7uy1c/eZfa4oRSK4+Kp+eWZ9CXpD20sBwtPVrdEuen470ddk595Fmah1YFb0azxDINwu3rWQJJkbcLd8EPmRQFl6+vEznWbqQ7NK71y3wzlkf5hZVbrY0pun0YsKbCA6XVsWN/06ATmGpCJw2/B5+NAq1+LcbN3yYiTXDb6xQiKqB18JBbGLodu2YjQ+1brQts0QfqGrqyyGdvxaOdzA=;llJSBcO65BwlV5SEytn9Zg=="
 ---

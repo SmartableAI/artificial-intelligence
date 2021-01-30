@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/charlestowersclark/2021/01/29/can-we-tr
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charlestowersclark/2021/01/29/can-we-trust-ai-trusting-ai-is-best-for-everyone-part-two/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 100
 published: true
 
 provider:

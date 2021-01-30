@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/01/27/amnesty-international-calls
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/27/amnesty-international-calls-for-ban-on-facial-recognition/amp/"
 type: article
 quality: 89
-heat: 450
+heat: 449
 published: true
 
 provider:

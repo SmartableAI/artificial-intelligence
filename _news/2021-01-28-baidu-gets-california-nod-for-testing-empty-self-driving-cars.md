@@ -1,34 +1,24 @@
 ---
 category: news
 title: "Baidu gets California nod for testing empty self-driving cars"
-excerpt: "Baidu Inc has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor Vehicles said on Wednesday."
-publishedDateTime: 2021-01-28T02:37:00Z
-originalUrl: "https://www.reuters.com/article/us-baidu-autonomous-idUSKBN29W2OT"
-webUrl: "https://www.reuters.com/article/us-baidu-autonomous-idUSKBN29W2OT"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29W2OT"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29W2OT"
+excerpt: "OAKLAND — Baidu Inc has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state’s Department of Motor Vehicles said on Wednesday."
+publishedDateTime: 2021-01-27T21:41:00Z
+originalUrl: "https://nationalpost.com/pmn/technology-pmn/baidu-gets-california-nod-for-testing-empty-self-driving-cars"
+webUrl: "https://nationalpost.com/pmn/technology-pmn/baidu-gets-california-nod-for-testing-empty-self-driving-cars"
+ampWebUrl: "https://nationalpost.com/pmn/technology-pmn/baidu-gets-california-nod-for-testing-empty-self-driving-cars/wcm/d15c9ea4-b1e6-4af0-8483-a093f259084b/amp/"
+cdnAmpWebUrl: "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/pmn/technology-pmn/baidu-gets-california-nod-for-testing-empty-self-driving-cars/wcm/d15c9ea4-b1e6-4af0-8483-a093f259084b/amp/"
 type: article
-quality: 89
-heat: 189
-published: true
+quality: 39
+heat: -1
+published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: National Post
+  domain: nationalpost.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210127&t=2&i=1549286737&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0Q1KU"
-    width: 817
-    height: 545
-    isCached: true
 
 related:
   - title: "UPDATE 1-Baidu gets California nod for testing empty self-driving cars"
@@ -180,6 +170,6 @@ related:
         height: 480
         isCached: true
 
-secured: "xDj+qJDCZKpS4jvgKRgMKKGcazqNPr4vFcmMoVxiyty4k7TnP6iCtpwDpMXOZIdC1zfn/aqkNhiZAeXCUUtZoukvnQGGYTrbkYUppfAyKUvO2vr+Y4n3BXUUppB5FyNwvV+pGI64O8pSE4k7vMj+7SLc+GdO/Ah4xHiFm33joOiYZfWF6GZc4+2eToMDRGOSvCbTTUGVFYDUyrhD+JVEsA7kQ14g7gFnJt53UlSjaLM0pULU3a26o3/EICLNaPm5tNG6JDS/NVpEEn+dD/SlHWN4Kcg31McKI7IcDp+rm09+g9P/GfPf1pcc90g+iLpcA8TjJXhKdClxHpyAC/3bLLAxYQNMRypZInCAhQC3eXdf0Zu/w1Bilf+XrI7Rf6+MshN7SZ5FhWD9VR69r/N+OQF72g/Ac7BAmTdD/aO85OJRjoRCELPPhg6UGgQ7OQUHlE9MlM0CcsgCxQWA4pSr3724c4h3K8tADNJvak+8EZK+1UsgPMvlzMQQtCMJ1PKEjAf3qMXTc7AnZQ6vR5IjAQ==;VEr2wMgpHKfHZMmyOEzwcw=="
+secured: "Q3ERXjdKFDJxJvNpydSP3c7LmSM8Y8v2TQTmpWP6BWdgNt7SwadoW4W9Riu4EjO1nzezBEdhrutd4ZDchphF4wOVYRvlAEkVafPqVdH3Sg7RRqMElyzI851GDHDBjH9AMpqJ6V6G3IIG6LLroGWI9v98PHeFcdubvJ1Q5ZsbzdMLrWCNgAsuC/i+7mnR+lOMNxFf9DzVGoFjwVbep/5ve2LOOE18tcEu6pYvqPezi/hFudmxr1eAaGv4D93mSjWNVC7sOiqfz77d6sruFAjg+bT7bpv2zphbKBxzBv9B5NXXfzf7abV2zHP1nrVGpJpKvzDZsldPlSteyLFctJwNvaAlVyZTBuXWDgaT4Jjz2zw=;SdaUqIGFDulouBMz61gEjQ=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-16-amazon-alexa-gets-real-time-translation-functionality.md",
+      "title": "Amazon Alexa gets real-time translation functionality",
+      "excerpt": "All you have to do to activate Live Translation is \"ask Alexa to initiate a translation session.\" Amazon didn't say exactly what keywords will trigger this",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/87967-amazon-adds-real-time-translation-functionality-alexa.html",
+      "originalUrl": "https://www.techspot.com/news/87967-amazon-adds-real-time-translation-functionality-alexa.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/12/2020-12-14-image-23.jpg",
+          "width": 2040,
+          "height": 1360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/87967-amazon-adds-real-time-translation-functionality-alexa.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87967-amazon-adds-real-time-translation-functionality-alexa.html",
+      "publishedDateTime": "2020-12-15T17:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-it-takes-a-lot-of-energy-for-machines-to-learn-heres-why-ai-is-so-power-hungry.md",
       "title": "It takes a lot of energy for machines to learn – here’s why AI is so power-hungry",
       "excerpt": "Google forced out a prominent AI ethics researcher after she voiced frustration with the company for making her withdraw a research paper. The paper pointed out the risks of language-processing artificial intelligence,",
@@ -1382,59 +1434,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-spectrms-conversational-marketing-platform-unlocks-revenue.md",
-      "title": "Spectrm’s conversational marketing platform unlocks revenue",
-      "excerpt": "What makes a conversation good? When a fantastic conversation ends, both parties leave happier and better off for taking the time to chat and learn in the first place. Although these are just a few of the many qualities that make a conversation good,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/spectrms-marketing-platform-unlocks-revenue-185506407.html",
-      "originalUrl": "https://www.engadget.com/spectrms-marketing-platform-unlocks-revenue-185506407.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2F47152950-38b4-11eb-bb7f-22a23816d60e&client=amp-blogside-v2&signature=8e1a71dfc921e937c4190bb9e6e6869807e5d714",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/spectrms-marketing-platform-unlocks-revenue-185506407.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/spectrms-marketing-platform-unlocks-revenue-185506407.html",
-      "publishedDateTime": "2020-12-07T11:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

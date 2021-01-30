@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/global-natural-language-
 webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-market-2020-report-presents-complete-summary-marketplace-shares-and-growth-opportunities-by-2025-2021-01-27"
 type: article
 quality: 50
-heat: -1
-published: false
+heat: 120
+published: true
 
 provider:
   name: MarketWatch
@@ -29,31 +29,17 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence In Military Market Trends and Analysis Research Report 2021 – 2025"
-    excerpt: "Jan 25, 2021 (AmericaNewsHour) -- Global Artificial Intelligence in Military Market is estimated to reach $18.8 billion by 2025; growing at a CAGR of"
-    publishedDateTime: 2021-01-25T07:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-trends-and-analysis-research-report-2021-2025-2021-01-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Military Robots Market to 2026: Intelligence, Surveillance, and Reconnaissance (ISR) Segment is Expected to Lead the Market"
-    excerpt: "The \"Global Military Robots Market Analysis 2020\" report has been added to ResearchAndMarkets.com's offering. The Global Military Robots market is expected to reach $29.87 billion by 2026 growing at a CAGR of 12."
-    publishedDateTime: 2021-01-26T17:21:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/global-military-robots-market-to-2026-intelligence-surveillance-and-reconnaissance-isr-segment-is-expected-to-lead-the-market-1030005786"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/global-military-robots-market-to-2026-intelligence-surveillance-and-reconnaissance-isr-segment-is-expected-to-lead-the-market-1030005786"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-military-robots-market-to-2026-intelligence-surveillance-and-reconnaissance-isr-segment-is-expected-to-lead-the-market-1030005786"
+  - title: "Text-to-Speech Market worth $5.0 billion by 2026 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "According to the new market research report \"Text-to-Speech Market with COVID-19 Impact by Offering (Software, Services), Vertical (Enterprise, Consumer Electronics, Education, Retail), Deployment, Language,"
+    publishedDateTime: 2021-01-28T18:31:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/text-to-speech-market-worth-5-0-billion-by-2026-exclusive-report-by-marketsandmarkets-1030015164"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/text-to-speech-market-worth-5-0-billion-by-2026-exclusive-report-by-marketsandmarkets-1030015164"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/text-to-speech-market-worth-5-0-billion-by-2026-exclusive-report-by-marketsandmarkets-1030015164"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 54
+    quality: 45
   - title: "Facial Recognition Market Analysis 2021 Growth Opportunities, Trends, Segmentation and Outlook 2025, with Impact of COVID-19"
     excerpt: "Jan (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" “Facial Recognition Market”"
     publishedDateTime: 2021-01-27T13:08:00Z
@@ -68,68 +54,70 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Worldwide Conversational AI Industry to 2027 - Strategic Recommendations for New Entrants - ResearchAndMarkets.com"
-    excerpt: "The “Conversational AI - Global Market Outlook (2019-2027)” report has been added to ResearchAndMarkets.com’s offering. According to this report, the Global Conversational AI market accounted for $3.81 billion in 2019 and is expected to reach $18."
-    publishedDateTime: 2021-01-29T08:01:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-corporate-news-latin-america-and-caribbean-4a64e2e6e39e4ccf9d0261ea67d571dc"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 15
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Global Medical Alert System Markets, 2020-2025: Revolution Brought by Emerging Technologies - IoT & AI - ResearchAndMarkets.com"
-    excerpt: "The “Global Medical Alert System Market (2020-2025) by System Type, Connection Type, End-user, Offering, Technology, Geography, Competitive Analysis and the Impact of Covid-19 with Ansoff Analysis” report has been added to ResearchAndMarkets."
-    publishedDateTime: 2021-01-25T11:49:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/business-technology-health-care-policy-health-care-reform-artificial-intelligence-b15efc25b16c44b6a9abae41604c495d"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 9
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Global Image Recognition in Retail Market 2020-2025, by Technology, Component, Application, Deployment & Impact of COVID-19 - ResearchAndMarkets.com"
-    excerpt: "The “Global Image Recognition in Retail Market (2020-2025), by Technology, Component, Application, Deployment, Geography and the Impact of Covid-19 with Ansoff Analysis” report has been added to ResearchAndMarkets."
-    publishedDateTime: 2021-01-26T14:08:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-information-technology-8748448585d5492b8bf8a3dd0cf89431"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Artificial Intelligence in Medicine Market Research Report by Application, by End User - Global Forecast to 2025 - Cumulative Impact of COVID-19"
-    excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence in Medicine Market Research Report by"
-    publishedDateTime: 2021-01-29T10:34:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19388179/artificial-intelligence-in-medicine-market-research-report-by-application-by-end-user-global-forec"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19388179"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19388179"
+  - title: "Global Security Inspection Market Report 2020-2027: Integration of Artificial Intelligence to Provide Growth Opportunities"
+    excerpt: "The \"Security Inspection Market Forecast to 2027 - COVID-19 Impact and Global Analysis By Product Type and Application\""
+    publishedDateTime: 2021-01-26T09:38:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19314842/global-security-inspection-market-report-2020-2027-integration-of-artificial-intelligence-to-provi"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19314842"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19314842"
     type: article
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 0
-  - title: "Global Iris Recognition Market Research 2020-2024 | Market Impact Analysis due to COVID-19 Spread | Technavio"
-    excerpt: "Technavio has announced its latest market research report titled Global Iris Recognition Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--The iris recognition market is poised to grow by USD 2."
-    publishedDateTime: 2021-01-29T13:09:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210129005302/en/Global-Iris-Recognition-Market-Research-2020-2024-Market-Impact-Analysis-due-to-COVID-19-Spread-Technavio"
+    quality: 28
+  - title: "Global $6+ Billion CAR-T Therapy Market Opportunities and Strategies to 2030 - ResearchAndMarkets.com"
+    excerpt: "T Therapy Global Market Opportunities and Strategies to 2030: COVID-19 Impact and Recovery” report has been added to ResearchAndMarkets.com’s offering. The global CAR-T therapy market reached a value of nearly $734."
+    publishedDateTime: 2021-01-29T15:06:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-technology-diagnosis-and-treatment-coronavirus-pandemic-artificial-intelligence-fc225c37e2364a9d9bd00fbd0f464403"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Speech and Voice Recognition Market Size, Trends, Comprehensive Research Study, Development Status and Opportunities Forecast to 2026"
+    excerpt: "The overall speech and voice recognition market is expected to grow from USD 6.9 Billion in 2018 to USD 28.3 Billion"
+    publishedDateTime: 2021-01-28T10:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-trends-comprehensive-research-study-development-status-and-opportunities-forecast-to-2026-2021-01-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 23
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Text-to-Speech Market worth $5.0 billion by 2026 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "According to the new market research report \"Text-to-Speech Market with COVID-19 Impact by Offering (Software, Services), Vertical"
+    publishedDateTime: 2021-01-28T13:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/text-to-speech-market-worth-5-0-billion-by-2026--exclusive-report-by-marketsandmarkets-301216956.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 15
+    images:
+      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=publish&p=facebook"
+        width: 669
+        height: 229
+        isCached: true
+  - title: "Artificial Intelligence In Diagnostics Market Research Report by Component, by Type - Global Forecast to 2025 - Cumulative Impact of COVID-19"
+    excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence In Diagnostics Market Research Report by"
+    publishedDateTime: 2021-01-29T10:49:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19388407/artificial-intelligence-in-diagnostics-market-research-report-by-component-by-type-global-forecast"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19388407"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19388407"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 4
 
 secured: "mRXvEaQbkWMrzoFu68mtrW4ABxt8a0AiX6VF/A1Tyhisr3jFTcTGhidhse4EJZiGhvThf2eGD6twSVcC7/M2oT7mNrLRkcmDGMZ0TZCB0lbuW/ZVWwFJ2ULyZBQ7cVYw/nebMSPU7N7X9YtYLImK7cIA4rzjLLo74LiR3LqCC+iEvsvQ5OaXGzybPkWwRptehhUTOImPvc6AuHt3dhJjQb1dWqUYbTNTpccHtIbKV+Q3z1wTn1hEqgNbPyzByhfzOLOcWojLNd09njvOuOBSGjbnz6hYIn2rF2DkpDVoikkt1mtCZm4gvv1q/GJ4tOhyMEf75Spismkp1ZOLtkAQkLDm3n7sa90dqbYHet2HGb4=;qnhmWOW6bPRpB9R150yMmw=="
 ---

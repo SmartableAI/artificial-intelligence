@@ -25,17 +25,6 @@ topics:
   - AI
 
 related:
-  - title: "Global Security Inspection Market Report 2020-2027: Integration of Artificial Intelligence to Provide Growth Opportunities"
-    excerpt: "The \"Security Inspection Market Forecast to 2027 - COVID-19 Impact and Global Analysis By Product Type and Application\""
-    publishedDateTime: 2021-01-26T09:38:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19314842/global-security-inspection-market-report-2020-2027-integration-of-artificial-intelligence-to-provi"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19314842"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19314842"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 28
   - title: "Worldwide Industry for AI-Enabled Medical Imaging Solutions to 2030 - Rapidly Evolving Deep Learning Techniques Presents Opportunities"
     excerpt: "The \"Global AI-Enabled Medical Imaging Solutions Market: 15 Countries Analysis - Analysis and Forecast, 2020-2030\" report has been added"
     publishedDateTime: 2021-01-26T13:15:00Z

@@ -27,21 +27,79 @@ images:
     isCached: true
 
 related:
-  - title: "US leads world on artificial intelligence but China is catching up: study"
-    excerpt: "China has more of the world’s 500 most powerful supercomputers than any other nation, researchers say, as countries vie for competitiveness in key industries."
-    publishedDateTime: 2021-01-25T07:02:00Z
-    webUrl: "https://www.scmp.com/news/china/science/article/3119115/us-leads-world-artificial-intelligence-china-catching-study"
-    ampWebUrl: "https://amp.scmp.com/news/china/science/article/3119115/us-leads-world-artificial-intelligence-china-catching-study"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/science/article/3119115/us-leads-world-artificial-intelligence-china-catching-study"
+  - title: "Understanding The Value Of Artificial Intelligence Solutions In Your Business"
+    excerpt: "A starting point for any organization in AI solution deployment is to assess the current digital maturity of the organization."
+    publishedDateTime: 2021-01-26T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/01/26/understanding-the-value-of-artificial-intelligence-solutions-in-your-business/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/01/26/understanding-the-value-of-artificial-intelligence-solutions-in-your-business/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/01/26/understanding-the-value-of-artificial-intelligence-solutions-in-your-business/amp/"
     type: article
     provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 88
+      name: Forbes
+      domain: forbes.com
+    quality: 84
     images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/01/25/ae8a9ab0-5ed5-11eb-9099-aaa38b7b3943_image_hires_145105.jpeg?itok=edHse04w&v=1611557476"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600b279b38fb40a4043817d3%2F0x0.jpg"
         width: 1200
-        height: 630
+        height: 800
+        isCached: true
+  - title: "How Your Business Can Benefit From AI Technology"
+    excerpt: "Looking for smart ways to run your business is a huge part of being a business owner in this day and age. Today, it’s all about incorporating technology into your daily operations to work"
+    publishedDateTime: 2021-01-25T14:53:00Z
+    webUrl: "https://thedigitallifestyle.com/w/index.php/2021/01/25/how-your-business-can-benefit-from-ai-technology/"
+    ampWebUrl: "https://thedigitallifestyle.com/w/index.php/2021/01/25/how-your-business-can-benefit-from-ai-technology/amp/"
+    cdnAmpWebUrl: "https://thedigitallifestyle-com.cdn.ampproject.org/c/s/thedigitallifestyle.com/w/index.php/2021/01/25/how-your-business-can-benefit-from-ai-technology/amp/"
+    type: article
+    provider:
+      name: thedigitallifestyle.com
+      domain: thedigitallifestyle.com
+    quality: 57
+    images:
+      - url: "https://i2.wp.com/thedigitallifestyle.com/w/wp-content/uploads/2021/01/012521_1445_HowYourBusi1.png?fit=500%2C333&ssl=1"
+        width: 500
+        height: 333
+        isCached: true
+  - title: "Ouriginal Partners With AI-based Solution Provider Analytikus To Support Higher Education In ..."
+    excerpt: "Advanced analytics solutions to strengthen academic integrity even in digital education environments (STOCKHOLM/MIAMI, 26 January 2021) - Ouriginal, Europe’s leading provider of text-matching solutions for plagiarism prevention and text-similarity detection,"
+    publishedDateTime: 2021-01-26T08:30:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-professional-services-social-affairs-computing-and-information-technology-d7510153cb1d9dc29f5811cc9b785f78"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 41
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Speech Processing Solutions: Next-generation Workflow Solution With AI-powered Speech Recognition, Now in Australia"
+    excerpt: "The new version of the Philips dictation workflow solution for enterprise businesses, SpeechExec Enterprise 7.0 (SEE 7.0) is now available in Australia. The close collaboration between Nuance Communications and Speech Processing Solutions,"
+    publishedDateTime: 2021-01-28T08:01:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-australia-oceania-voice-recognition-computing-and-information-technology-47f0b2ed891945d782c47422affab686"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 32
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Spraoi’s Machine Learning Solution Deployed for Reliance Standard’s Retirement Services Operations"
+    excerpt: "Spraoi announced today that Reliance Standard Life Insurance Company (Reliance Standard) successfully deployed models for the identification of operational inconsistencies (e.g. churning, anomalous activity) across new business and in-force transactions within their block of traditional and indexed annuity business."
+    publishedDateTime: 2021-01-26T19:34:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/business-financial-services-life-insurance-providers-insurance-industry-1cd972f5778f677a438716a1503955d7"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 27
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "Wd7iRcn/MrcytsRxSWCkqqEtV2ou+H1z8rTPobDnXSlN4aSKunwZrnPn8S3SbFxgfDo4WwgRJKv12ANIbDZCDDaenMhy4vuS1yP/YXKbgjtrcQcUFhBZvIEoSCLFibozAEr3Fl3jIIUf+gIr/NPhCxcl4hdx7lQ5ZwF5n4sM5LY9Bu8saCayxBLidx+CgfUw/Ipmek4kVHLu1lxJX+ZgXa9m8or/6kN75Hn+fm+AFQTaXkwy4w+/zXsfhNOYh/zT/glCisiTcleMc/QMJ9EDDmJhdbX17+ngRq+rIjwM7sMUgwBKjjt8pgQqfHrrjaLNxrgc45E7uwrZ3ti1YY++ik4BqtNE1Wyyina3wxmUdbanvgu13KZ2KmmIbsbnd3K4voEYJQWuIz4Fx3ddxnWSHie2ARGkMWqjJGm6x8tmqquA+iCj28CYRsxfF7EtbUIFECmqmpSmcIFL9iZXumzC6Y3kQqS4AaHPF62GGEIw4LRSjQ+9U663WvFarE/qDzv/NLH3+WulebW8v9EqhtcUzg==;pn+3HQg4apCdldCp5oH5kg=="

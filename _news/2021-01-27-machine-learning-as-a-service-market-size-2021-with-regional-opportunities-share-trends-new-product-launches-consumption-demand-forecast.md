@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-se
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-size-2021-with-regional-opportunities-share-trends-new-product-launches-consumption-demand-forecast-to-2024-2021-01-27"
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "AI-Based Fever Detection Camera Market 2021 Growth, Segments, by Size, Share, Key News and Top Companies Overview to 2027"
-    excerpt: "Jan (The Expresswire) -- The global AI-based fever detection camera market is set to gain traction from their increasing deployment by"
-    publishedDateTime: 2021-01-25T07:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-based-fever-detection-camera-market-2021-growth-segments-by-size-share-key-news-and-top-companies-overview-to-2027-2021-01-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "iCwXQe+6JwnwrP8GPPi6Cm99cf0j/xR/wYA/lnB30pSGIynZ0qykrPQwyuZWdrbr7i+i3QZ+BZRdZYpLpseFIBaoXiQb9G1z5SahRpPd7fBHrCIXF/p7ZqKeWVS8GZ4GU+Enm9wX8cuDorAYGNLQkv3bapzZqr+F+RRtBg2liqqGqgI+yu7BWp/DaDeAFrIkdB4EM4P9psaY9hH5k/QcSkLGkZpZO6HffMNHO4jE7DG07kNgWV0dkrQMt2kTYu7XmRPL0ZAlZVol9HJrTXXGgVmonG3mtwHt3mLzrNlEVXXzKV2zS8Cy/gFX6vYW5bGXlHU1m8fDPH0uO+fufdhAcwqWj1cZjz8dBXDiw1vUVQo=;+AvkGaGJKx5VutsDEBssMg=="
 ---

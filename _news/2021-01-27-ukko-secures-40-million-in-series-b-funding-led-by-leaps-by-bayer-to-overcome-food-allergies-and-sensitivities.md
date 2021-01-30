@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Dubai royal family partners with JIFFY.ai"
-    excerpt: "Seed Group, a company of the Private Office of Sheikh Saeed bin Ahmed Al Maktoum, belonging to the Royal Family of Dubai, has partnered with Silicon Valley-based automation start-up JIFFY.ai to help expand operations in the United Arab Emirates and the larger Middle East and bring in ‘the best’ of intelligent automation along with its AI-based,"
-    publishedDateTime: 2021-01-25T07:45:00Z
-    webUrl: "https://www.thehindubusinessline.com/economy/dubai-royal-family-partners-with-jiffyai/article33655658.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/economy/dubai-royal-family-partners-with-jiffyai/article33655658.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/economy/dubai-royal-family-partners-with-jiffyai/article33655658.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 57
-    images:
-      - url: "https://www.thehindubusinessline.com/economy/kvn1tp/article33655657.ece/ALTERNATES/LANDSCAPE_615/BL26Partnership"
-        width: 615
-        height: 384
-        isCached: true
 
 secured: "gW8zfXqGtJfX0X2MMrAwEnin1inUgoLnrd+xujGwBY+t52cMu1lhpKGfxgjoKjQ1J5TR1VWihkHdsRY1IBX4qACcfAtzxkLy+Y8QM5S+/oRbB7D9HPkUrX1cIHI0umiHqX6Odv5HgaHoS1i2frEDQiPGmXUenm4WChpVfem6TFFDcBW2DgmzsKZd/3Oc9VntC6gWnBxxiE5VGfGYTyg4PNNp1YFIgQQeegu8395hUzX3gq4HDfUg7fZ2H78gBAZ6tlVOQOjmbwk6bVhnk7ZZK3BkbFMPZtemKRcx80eYJj9b9j8DizzAbTNmcnh1amFCfYvxoFfQjtm+qExQpY7lO4P/HuqKRs86Kq9pfwVnBJY=;s/cjew685EZLXwplQDXjlQ=="
 ---

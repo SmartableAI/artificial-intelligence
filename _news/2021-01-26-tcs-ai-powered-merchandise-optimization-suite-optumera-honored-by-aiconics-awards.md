@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "TCS' AI-powered Merchandise Optimization Suite Optumera™ Honored by AIconics Awards"
-    excerpt: "Tata Consultancy Services (TCS) (BSE: 532540, NSE: TCS), a leading global IT services, consulting and business solutions organization, announced that its AI-powered retail merchandizing and supply chain optimization software suite,"
-    publishedDateTime: 2021-01-25T08:46:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20210125aq57811/tcs-ai-powered-merchandise-optimization-suite-optumera-honored-by-aiconics-awards"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 11
   - title: "TCS' AI-powered Merchandise Optimization Suite Optumera(TM) Honored by AIconics Awards"
     excerpt: "NEW YORK and MUMBAI, India, Jan. 25, 2021 /PRNewswire/ -- (TCS) (BSE: 532540, NSE: TCS), a leading global IT services, consulting and business solutions organization, announced that"
     publishedDateTime: 2021-01-25T14:46:00Z

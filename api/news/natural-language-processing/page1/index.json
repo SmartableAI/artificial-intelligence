@@ -106,6 +106,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-28-global-natural-language-processing-nlp-market-2020-report-presents-complete-summary-marketplace-shares-and-growth-opportunities-by-2025.md",
+      "title": "Global Natural Language Processing (NLP) Market 2020 Report Presents Complete Summary, Marketplace Shares and Growth Opportunities by 2025",
+      "excerpt": "Global Natural Language Processing (NLP) Market 2020 by Company, Regions, Type and Application, Forecast to 2025 has recently been added by MarketsandResearch.biz to its extensive database, where you will find informative data on various dynamics such as market factors,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-market-2020-report-presents-complete-summary-marketplace-shares-and-growth-opportunities-by-2025-2021-01-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-market-2020-report-presents-complete-summary-marketplace-shares-and-growth-opportunities-by-2025-2021-01-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-28T00:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-28-the-great-free-speech-reversal.md",
       "title": "The Great Free-Speech Reversal",
       "excerpt": "Liberals once believed that private corporations have far too much power over the flow of ideas and information in today’s society. Now it’s conservatives who are worried.",
@@ -114,7 +166,7 @@
       "originalUrl": "https://www.theatlantic.com/ideas/archive/2021/01/first-amendment-regulation/617827/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -501,8 +553,8 @@
       "title": "Cisco uses AI to add hand gestures to Webex",
       "excerpt": "Cisco is bringing hand gestures to its Webex video conferencing software to make it easier for participants to express themselves even while on mute. Gestures and non-verbal cues have long been an important part of face-to-face meetings as they allow a speaker to emphasize or support their ideas and give the audience a chance to provide real-time feedback.",
       "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/nz/news/cisco-uses-ai-to-add-hand-gestures-to-webex",
-      "originalUrl": "https://www.techradar.com/nz/news/cisco-uses-ai-to-add-hand-gestures-to-webex",
+      "webUrl": "https://www.techradar.com/news/cisco-uses-ai-to-add-hand-gestures-to-webex",
+      "originalUrl": "https://www.techradar.com/news/cisco-uses-ai-to-add-hand-gestures-to-webex",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -519,8 +571,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techradar.com/nz/amp/news/cisco-uses-ai-to-add-hand-gestures-to-webex",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/cisco-uses-ai-to-add-hand-gestures-to-webex",
+      "ampWebUrl": "https://www.techradar.com/amp/news/cisco-uses-ai-to-add-hand-gestures-to-webex",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/cisco-uses-ai-to-add-hand-gestures-to-webex",
       "publishedDateTime": "2021-01-21T10:19:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -1383,58 +1435,6 @@
         "name": "Benzinga.com",
         "domain": "benzinga.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-salesforce-researchers-release-framework-to-test-nlp-model-robustness.md",
-      "title": "Salesforce researchers release framework to test NLP model robustness",
-      "excerpt": "Researchers at Salesforce released a framework called Robustness Gym to benchmark the robustness of NLP models.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/13/salesforce-researchers-release-framework-to-test-nlp-model-robustness/",
-      "originalUrl": "https://venturebeat.com/2021/01/13/salesforce-researchers-release-framework-to-test-nlp-model-robustness/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/13/salesforce-researchers-release-framework-to-test-nlp-model-robustness/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/13/salesforce-researchers-release-framework-to-test-nlp-model-robustness/amp/",
-      "publishedDateTime": "2021-01-13T06:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-15-microsoft-president-begs-tech-industry-to-improve-its-ethics.md",
+      "title": "Microsoft president begs tech industry to improve its ethics",
+      "excerpt": "Speaking at Microsoft's first CES keynote in 10 years, President Brad Smith said that national security is threatened by the industry's inability to learn lessons from the past.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/microsoft-president-urges-tech-leaders-to-follow-lessons-from-apollo-missions-and-war-games/",
+      "originalUrl": "https://www.techrepublic.com/article/microsoft-president-urges-tech-leaders-to-follow-lessons-from-apollo-missions-and-war-games/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 506,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2021/01/13/bbcf2d66-e03d-4384-953c-ad5d19451274/resize/1200x/b1414e8b8a4d54c36077b9e548dda575/bradsmith-ces.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-president-urges-tech-leaders-to-follow-lessons-from-apollo-missions-and-war-games/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-president-urges-tech-leaders-to-follow-lessons-from-apollo-missions-and-war-games/",
+      "publishedDateTime": "2021-01-15T01:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-14-controversial-chatbot-leaves-lessons-on-ai-use-ethics.md",
       "title": "Controversial chatbot leaves lessons on AI use ethics",
       "excerpt": "Developers of an artificial intelligence (AI) based chatbot have suspended the service after unfiltered inflammatory remarks it delivered sparked",
@@ -1396,49 +1449,6 @@
         "Facebook AI",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-it-takes-a-lot-of-energy-for-machines-to-learn-heres-why-ai-is-so-power-hungry.md",
-      "title": "It takes a lot of energy for machines to learn – here’s why AI is so power-hungry",
-      "excerpt": "Google forced out a prominent AI ethics researcher after she voiced frustration with the company for making her withdraw a research paper. The paper pointed out the risks of language-processing artificial intelligence,",
-      "sourceUrl": null,
-      "webUrl": "https://knowridge.com/2020/12/it-takes-a-lot-of-energy-for-machines-to-learn-heres-why-ai-is-so-power-hungry/",
-      "originalUrl": "https://knowridge.com/2020/12/it-takes-a-lot-of-energy-for-machines-to-learn-heres-why-ai-is-so-power-hungry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://k6b8f3f9.stackpathcdn.com/wp-content/uploads/2020/12/It-takes-a-lot-of-energy-for-machines-to-learn-–-here’s-why-AI-is-so-power-hungry.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-24T03:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Knowridge",
-        "domain": "knowridge.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

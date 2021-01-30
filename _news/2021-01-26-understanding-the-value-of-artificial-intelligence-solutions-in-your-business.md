@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/01/26/unders
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/01/26/understanding-the-value-of-artificial-intelligence-solutions-in-your-business/amp/"
 type: article
 quality: 84
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "US leading race in AI, China rising"
+    excerpt: "The United States is leading rivals in development and use of artificial intelligence while China is rising quickly and the European Union is lagging, a research report showed Monday. The study by the Information Technology and Innovation Foundation assessed AI using 30 separate metrics including human talent,"
+    publishedDateTime: 2021-01-26T00:40:00Z
+    webUrl: "https://www.brecorder.com/news/40055921"
+    ampWebUrl: "https://www.brecorder.com/news/amp/40055921"
+    cdnAmpWebUrl: "https://www-brecorder-com.cdn.ampproject.org/c/s/www.brecorder.com/news/amp/40055921"
+    type: article
+    provider:
+      name: Business Recorder
+      domain: brecorder.com
+    quality: 59
+    images:
+      - url: "https://i.brecorder.com/large/2021/01/600f43904667f.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "How Your Business Can Benefit From AI Technology"
     excerpt: "Looking for smart ways to run your business is a huge part of being a business owner in this day and age. Today, it’s all about incorporating technology into your daily operations to work"
     publishedDateTime: 2021-01-25T14:53:00Z

@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Colby College to start artificial-intelligence institute"
-excerpt: "A Maine college is working to establish an institute for artificial intelligence that it said would be the first of its kind at a liberal arts college. The Davis Institute for Artificial Intelligence will \"provide new pathways for talented students and faculty to research,"
-publishedDateTime: 2021-01-29T22:51:00Z
-originalUrl: "https://www.mcdonoughvoice.com/story/business/2021/01/29/colby-college-start-artificial-intelligence-institute/4317104001/"
-webUrl: "https://www.mcdonoughvoice.com/story/business/2021/01/29/colby-college-start-artificial-intelligence-institute/4317104001/"
-ampWebUrl: "https://amp.mcdonoughvoice.com/amp/4317104001"
-cdnAmpWebUrl: "https://amp-mcdonoughvoice-com.cdn.ampproject.org/c/s/amp.mcdonoughvoice.com/amp/4317104001"
+excerpt: "A Maine college is working to establish an institute for artificial intelligence that it said would be the first of its kind at a liberal arts college. The"
+publishedDateTime: 2021-01-30T00:13:00Z
+originalUrl: "https://apnews.com/article/technology-waterville-maine-artificial-intelligence-6b776d45f2e6f3866ee4173cbfd91c0f"
+webUrl: "https://apnews.com/article/technology-waterville-maine-artificial-intelligence-6b776d45f2e6f3866ee4173cbfd91c0f"
 type: article
-quality: 42
-heat: 42
+quality: 22
+heat: -1
 published: false
 
 provider:
-  name: The McDonough County Voice
-  domain: mcdonoughvoice.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/01/28/NMCV/e1c28a21-9212-4291-bc6c-62eb82fa84e7-1_Art_Project.jpg?crop=800,800,x180,y0"
-    width: 800
-    height: 800
+  - url: "https://apnews.com/images/ShareLogo2.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -55,6 +53,6 @@ related:
         height: 1681
         isCached: true
 
-secured: "BVrZrjOX4CCDdacuxEIkoceSRiGU3qm1GMO/JVqckgclTkYEb/97lDY0NN59kqaqC8EP3EonQzZdZV5k2uxNa/pmxx6vZ/9AAim06nUi+W9tNP44EUY8pq+cVaQZHgTe0DX9zqFq+1r1TmFUAQ9aszr9noK4evt8iZMxabV2nDbF0I/ni+Guxc52j15mia9QuQ3xFp0/sDO13k+6xPKMrhBk8ko78cPny8+3IWxUnvztsTUGvraMcowyNS7JvGurow0pxemNB/jRy1E7DU9AQU+LUoT7Wdzb7Hl3Z9C/ePUHpKT+fDRShgjd+o5uKcIMIkcsJ9F5e1BUtpPs/sSDp6iXv2Pg2xuC97oB++9L+Fs=;7vg1LvaeYbn3iIvGnvphZA=="
+secured: "1jAWkO8diOAEx0Mp3eaBk6dougNbezIS2PSL6h2SVouYg04OJcKQmCFNn5hBs94vwPExd3e0B4gasQqUgR5DiSI+nlph68CyYGfwLxiTm+QZhgIbx81fbZ16qrXF6qQJkOG6j3iLzIFuLq6x4FVCssmxEbVvr8GLs3SWDiapISfpWGEY1kaW7id4tyDaAzjDHy1e9NQexD3Y9/p5nPgI7k8bJuTdY+s/Acy3Oyy3KHuJAzSSjpuqp7wWANP8XfyTipQ27ztnE3NzuXKd0q8qYzKYpzmCmY7FOg16IW2aVyXGIR4ltvmbql7d0mShPHKB6NbSc/H3nlVANfsl1mt9vObmTa4GjyaDxaMkY73vLZQ=;pO2wJk1/eKrlidfdSZQAeA=="
 ---
 

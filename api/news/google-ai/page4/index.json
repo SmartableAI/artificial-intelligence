@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-23-find-your-inner-poet-with-help-from-americas-greats.md",
+      "title": "Find your inner poet with help from America's greats",
+      "excerpt": "Behold! the living thrilling linesThat course the blood like madd'ning wines,And leap with scintillating sprayAcross the guards of ecstasy.The flame that lights the lurid spellSprings from the soul's artesian well,Its fairy filament of artEntwines the fragments of a heart.Poetry by Georgia Douglas JohnsonWhen",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/verse-by-verse/",
+      "originalUrl": "https://blog.google/technology/ai/verse-by-verse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/versre-by-verse-hero.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/verse-by-verse/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/verse-by-verse/amp/",
+      "publishedDateTime": "2020-11-23T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-23-google-deepmind-wants-to-save-eyesight-with-artificial-intelligence.md",
       "title": "Google DeepMind Wants to Save Eyesight with Artificial Intelligence",
       "excerpt": "Now, Google DeepMind, a subsidiary of Google parent company Alphabet Inc., hopes to speed up the process by applying artificial intelligence. Optical coherence tomography, a noninvasive imaging technique that can produce 3-D scans of the eye, as well as ...",

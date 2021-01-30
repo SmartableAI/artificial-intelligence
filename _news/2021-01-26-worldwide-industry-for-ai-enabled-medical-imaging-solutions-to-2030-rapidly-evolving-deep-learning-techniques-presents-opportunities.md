@@ -36,17 +36,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 48
-  - title: "Global Security Inspection Market Report 2020-2027: Integration of Artificial Intelligence to Provide Growth Opportunities"
-    excerpt: "The \"Security Inspection Market Forecast to 2027 - COVID-19 Impact and Global Analysis By Product Type and Application\""
-    publishedDateTime: 2021-01-26T09:38:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19314842/global-security-inspection-market-report-2020-2027-integration-of-artificial-intelligence-to-provi"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19314842"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19314842"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 28
 
 secured: "hC/98Am6LaZDBbc9DZO0R+DIHwk87ARDbgR+1u/aYkQf9tXp3Jk2Q7BJbT9zFIiNRU4aQ5HmVmOflLE0VN1l9pmXrisxjgqaVDnWXThzhTnWu9kkThTtWwa4MyQLmkheUkkTXU1GwDWonA2e+ux3PYZA4uRhTJXwBYiLp1zJUhkA9g3YJuMVqAzseOr1UT1nr8vGx/5DDG+V6oXz0KW2bjckhbUwE1tvxDly4/Y9MxAxqNv147n+I901nUpRCQgZ3c4/HlXUqo87WUl0oLIuR9z/ThvG9skMwE8ym4tgwgJZB7VYg32Gx6nJCwQXHYnjofWXksSPhB2m30llesjiqN8ZkDdd8jH4wlMKf4xn4Fw=;gJWXjXqIBec2rpB3AjdZjQ=="
 ---

@@ -24,6 +24,19 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Artificial Intelligence In Remote Patient Monitoring Market Research Report - Global Forecast to 2025 - Cumulative Impact of COVID-19"
+    excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence In Remote Patient Monitoring Market"
+    publishedDateTime: 2021-01-29T10:39:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19388228/artificial-intelligence-in-remote-patient-monitoring-market-research-report-global-forecast-to-202"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19388228"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19388228"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 8
+
 secured: "u1jUVF9FOyAS4bIehApWMk0UX8rF/w6Wt/E/5wGgsz9qOgNH81NWpp4dyXRXYjmpRXsLcv9A0N2VUO7/7x7vyiNfASKE8Co2Yt2k7/rFnb0KIoLz36Yr66MOjIC2UFrMirZoM7+P8ORTqJ0t/J3WXYPTeFkdPxzd6QjEEfLUVb9nHukJt62zII8/rTpfHZT4UTtpB5lBzOEdRTF28RmphKkLF/Gcr2kdHhxe3i2vLBj+W23eMgktcMcYxetf97z5I5G9zQroAg61RaOOBKZg5qqR6damraYDxzG/AbAd8OIbow1tHHSwt2qb4bD70kHCkYpJk9hccCrxwJUDpYUGe3wHeqLkxxKJ/U96YIlkTsU=;sdSUerSuopsTqHU3v1hwpA=="
 ---
 

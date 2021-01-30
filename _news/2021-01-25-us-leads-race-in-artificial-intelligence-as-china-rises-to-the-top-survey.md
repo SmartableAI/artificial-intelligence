@@ -26,35 +26,49 @@ images:
     isCached: true
 
 related:
-  - title: "Shinan AI leader set to attract more investors"
-    excerpt: "Shinhan AI CEO Bae Jin-soo will place a focus on attracting more retail investors for its artificial intelligence (AI) platforms during his second term. The AI arm of Shinhan Financial Group was launched in 2019 under a group-wide vision of developing more accurate,"
-    publishedDateTime: 2021-01-25T07:32:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/biz/2021/01/175_303018.html"
-    ampWebUrl: "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=303018"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=303018"
+  - title: "Which country leads the innovation charge in AI research?"
+    excerpt: "New discoveries and understanding of AI capabilities are ever-evolving, much like the technology itself. Hence many national and private interests are charging ahead with AI research and development in a dizzying assortment of fields,"
+    publishedDateTime: 2021-01-28T04:51:00Z
+    webUrl: "https://techwireasia.com/2021/01/which-country-leads-the-innovation-charge-in-ai-research/"
+    ampWebUrl: "https://techwireasia.com/amp/2021/01/which-country-leads-the-innovation-charge-in-ai-research/"
+    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/01/which-country-leads-the-innovation-charge-in-ai-research/"
     type: article
     provider:
-      name: koreatimes.co.kr
-      domain: koreatimes.co.kr
+      name: techwireasia.com
+      domain: techwireasia.com
     quality: 59
     images:
-      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202101/b451cd3e554b45d887b1fcff5bf9fc5c.jpg"
-        width: 394
-        height: 489
+      - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/01/000_8ZH7HR-450x300.jpg"
+        width: 450
+        height: 300
         isCached: true
-  - title: "US leading race in artificial intelligence, China rising"
-    excerpt: "The researchers found the US leading in key areas such as investment in start-ups and research and development funding"
-    publishedDateTime: 2021-01-25T07:46:00Z
-    webUrl: "https://www.dhakatribune.com/world/2021/01/25/us-leading-race-in-artificial-intelligence-china-rising"
+  - title: "US Leading Race In Artificial Intelligence, China Rising: Survey"
+    excerpt: "The United States is leading rivals in development and use of artificial intelligence while China is rising quickly and the European Union is lagging, a research report showed Monday. The study by the Information Technology and Innovation Foundation assessed AI using 30 separate metrics including human talent,"
+    publishedDateTime: 2021-01-25T14:17:00Z
+    webUrl: "https://www.ibtimes.com/us-leading-race-artificial-intelligence-china-rising-survey-3130046"
     type: article
     provider:
-      name: Dhaka Tribune
-      domain: dhakatribune.com
+      name: International Business Times
+      domain: ibtimes.com
     quality: 37
     images:
-      - url: "https://media-eng.dhakatribune.com/uploads/2021/01/watermarked/356775/1611560015814ai-artificial-intelligence-bigstock-1611559995400.jpg"
-        width: 600
-        height: 315
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/25/people-have-their-faces-scanned-as-they-arrive.jpg"
+        width: 1024
+        height: 681
+        isCached: true
+  - title: "Worldwide Conversational AI Industry to 2027 - Strategic Recommendations for New Entrants - ResearchAndMarkets.com"
+    excerpt: "The “Conversational AI - Global Market Outlook (2019-2027)” report has been added to ResearchAndMarkets.com’s offering. According to this report, the Global Conversational AI market accounted for $3.81 billion in 2019 and is expected to reach $18."
+    publishedDateTime: 2021-01-29T08:01:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-corporate-news-latin-america-and-caribbean-4a64e2e6e39e4ccf9d0261ea67d571dc"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 15
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "EXbF9cvj6Rv5gEoqdLubxhPZJXMjtm3Ytf0qKTcflpgg8kBo5AE8wURNT7kEhGi0H5xwY4PJLcdJ/Z0t7+f1Hhvt6Jf4rcBvgDFb/mLZSCLwEB9ifRqWhBSioY+X7PjUPpIqZOwLT3/gTU7ESgqBGCUfbqqMjr80fRBs59i+G7ozpZg3Y8RrFdIJRpB2944tWSwLl+x40wposBhMZig6Zf+mzq8tJj5H+sAqfXb/wghwqZ3DqN1/OvCLd2vAUjjEMK1SNITTrzQXSfzJSM233J1pxfQJfYva+aeEkqZe4p+C5AJR9WoNnW/2qJJfvpHgwYJCVYCYP0kpn+Yi6P7nI3BMCxDofa+WNIE/L4Yv+JQ=;efpT74OSjl9dE0f1Ntpxcw=="

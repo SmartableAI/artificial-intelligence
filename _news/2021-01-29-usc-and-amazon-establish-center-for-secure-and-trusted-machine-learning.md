@@ -53,6 +53,20 @@ related:
         width: 670
         height: 446
         isCached: true
+  - title: "USC and Amazon Establish Center for Machine Learning"
+    excerpt: "USC and Amazon announced they are creating a joint research center focused on developing new approaches to machine learning privacy, security, and trustworthiness. The Center for Secure and Trusted Machine Learning,"
+    publishedDateTime: 2021-01-29T19:42:00Z
+    webUrl: "https://mynewsla.com/hollywood/2021/01/29/usc-and-amazon-establish-center-for-machine-learning/"
+    type: article
+    provider:
+      name: MyNewsLA
+      domain: mynewsla.com
+    quality: 39
+    images:
+      - url: "https://mynewsla.com/wp-content/uploads/2016/04/MyNewsLA-AMP-Logo.png"
+        width: 583
+        height: 300
+        isCached: true
 
 secured: "LYgRxS1in0O74zbMBNNpH+AIC46Pa6/Wno2jwgQcWr7LeHDKjKsZ/gLaB3/Qyh6oKfHtoYdCSLizyNSFkZ78RIp7xdyMwwAcWjwLWYEOGRoSdIp+krjy6oXkKK+ZaNXUCvhB6WwIrJLAQEdluJBR0dq/URwSvlhYTCjFOBGLUNzF3BHJg1Vlf2dySW0YsGNLuJLQdCdzNJqMUfu5f1veaZI9sA+1aVfW7RGGKniELF7oXshDGDWsxZdlZXhfETKBVfKwdhZowK2d2eRENIWDzx7FeDEgxlj8Lcb5bdxlCr7ENePRSTAANJti8AaEQKGiGXEfi1huyBiVNt3hHrquIrjbVOpaBfTBa+0A+X2c2x8=;1xLvJHrtaIGbU7Lx2EYOeA=="
 ---

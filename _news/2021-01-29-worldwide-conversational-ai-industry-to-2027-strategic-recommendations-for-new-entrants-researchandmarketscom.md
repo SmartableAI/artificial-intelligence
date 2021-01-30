@@ -24,107 +24,52 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence In Military Market Trends and Analysis Research Report 2021 – 2025"
-    excerpt: "Jan 25, 2021 (AmericaNewsHour) -- Global Artificial Intelligence in Military Market is estimated to reach $18.8 billion by 2025; growing at a CAGR of"
-    publishedDateTime: 2021-01-25T07:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-trends-and-analysis-research-report-2021-2025-2021-01-25"
+  - title: "Which country leads the innovation charge in AI research?"
+    excerpt: "New discoveries and understanding of AI capabilities are ever-evolving, much like the technology itself. Hence many national and private interests are charging ahead with AI research and development in a dizzying assortment of fields,"
+    publishedDateTime: 2021-01-28T04:51:00Z
+    webUrl: "https://techwireasia.com/2021/01/which-country-leads-the-innovation-charge-in-ai-research/"
+    ampWebUrl: "https://techwireasia.com/amp/2021/01/which-country-leads-the-innovation-charge-in-ai-research/"
+    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/01/which-country-leads-the-innovation-charge-in-ai-research/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: techwireasia.com
+      domain: techwireasia.com
     quality: 59
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/01/000_8ZH7HR-450x300.jpg"
+        width: 450
+        height: 300
         isCached: true
-  - title: "Global Military Robots Market to 2026: Intelligence, Surveillance, and Reconnaissance (ISR) Segment is Expected to Lead the Market"
-    excerpt: "The \"Global Military Robots Market Analysis 2020\" report has been added to ResearchAndMarkets.com's offering. The Global Military Robots market is expected to reach $29.87 billion by 2026 growing at a CAGR of 12."
-    publishedDateTime: 2021-01-26T17:21:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/global-military-robots-market-to-2026-intelligence-surveillance-and-reconnaissance-isr-segment-is-expected-to-lead-the-market-1030005786"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/global-military-robots-market-to-2026-intelligence-surveillance-and-reconnaissance-isr-segment-is-expected-to-lead-the-market-1030005786"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-military-robots-market-to-2026-intelligence-surveillance-and-reconnaissance-isr-segment-is-expected-to-lead-the-market-1030005786"
+  - title: "US leads race in artificial intelligence as China rises to the top - survey"
+    excerpt: "The United States is leading rivals in development and use of artificial intelligence while China is rising quickly and European Union is lagging, a research report showed Monday."
+    publishedDateTime: 2021-01-25T11:22:00Z
+    webUrl: "https://www.iol.co.za/technology/software-and-internet/us-leads-race-in-artificial-intelligence-as-china-rises-to-the-top-survey-3fb0c1fa-aab4-49bd-a1c5-731850f8529b"
+    ampWebUrl: "https://www.iol.co.za/amp/technology/software-and-internet/us-leads-race-in-artificial-intelligence-as-china-rises-to-the-top-survey-3fb0c1fa-aab4-49bd-a1c5-731850f8529b"
+    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/software-and-internet/us-leads-race-in-artificial-intelligence-as-china-rises-to-the-top-survey-3fb0c1fa-aab4-49bd-a1c5-731850f8529b"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
-  - title: "Global Natural Language Processing (NLP) Market 2020 Report Presents Complete Summary, Marketplace Shares and Growth Opportunities by 2025"
-    excerpt: "Global Natural Language Processing (NLP) Market 2020 by Company, Regions, Type and Application, Forecast to 2025 has recently been added by MarketsandResearch.biz to its extensive database, where you will find informative data on various dynamics such as market factors,"
-    publishedDateTime: 2021-01-28T08:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-market-2020-report-presents-complete-summary-marketplace-shares-and-growth-opportunities-by-2025-2021-01-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
+      name: IOL News
+      domain: iol.co.za
+    quality: 55
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://image-prod.iol.co.za/resize/1280x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/fb718a16-caa7-5490-8675-dcef913ff589&operation=CROP&offset=0x67&resize=1280x720"
+        width: 651
+        height: 366
         isCached: true
-  - title: "Facial Recognition Market Analysis 2021 Growth Opportunities, Trends, Segmentation and Outlook 2025, with Impact of COVID-19"
-    excerpt: "Jan (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" “Facial Recognition Market”"
-    publishedDateTime: 2021-01-27T13:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-analysis-2021-growth-opportunities-trends-segmentation-and-outlook-2025-with-impact-of-covid-19-2021-01-26"
+  - title: "US Leading Race In Artificial Intelligence, China Rising: Survey"
+    excerpt: "The United States is leading rivals in development and use of artificial intelligence while China is rising quickly and the European Union is lagging, a research report showed Monday. The study by the Information Technology and Innovation Foundation assessed AI using 30 separate metrics including human talent,"
+    publishedDateTime: 2021-01-25T14:17:00Z
+    webUrl: "https://www.ibtimes.com/us-leading-race-artificial-intelligence-china-rising-survey-3130046"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 37
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/25/people-have-their-faces-scanned-as-they-arrive.jpg"
+        width: 1024
+        height: 681
         isCached: true
-  - title: "Global Medical Alert System Markets, 2020-2025: Revolution Brought by Emerging Technologies - IoT & AI - ResearchAndMarkets.com"
-    excerpt: "The “Global Medical Alert System Market (2020-2025) by System Type, Connection Type, End-user, Offering, Technology, Geography, Competitive Analysis and the Impact of Covid-19 with Ansoff Analysis” report has been added to ResearchAndMarkets."
-    publishedDateTime: 2021-01-25T11:49:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/business-technology-health-care-policy-health-care-reform-artificial-intelligence-b15efc25b16c44b6a9abae41604c495d"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 9
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Global Image Recognition in Retail Market 2020-2025, by Technology, Component, Application, Deployment & Impact of COVID-19 - ResearchAndMarkets.com"
-    excerpt: "The “Global Image Recognition in Retail Market (2020-2025), by Technology, Component, Application, Deployment, Geography and the Impact of Covid-19 with Ansoff Analysis” report has been added to ResearchAndMarkets."
-    publishedDateTime: 2021-01-26T14:08:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-information-technology-8748448585d5492b8bf8a3dd0cf89431"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Artificial Intelligence in Medicine Market Research Report by Application, by End User - Global Forecast to 2025 - Cumulative Impact of COVID-19"
-    excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence in Medicine Market Research Report by"
-    publishedDateTime: 2021-01-29T10:34:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19388179/artificial-intelligence-in-medicine-market-research-report-by-application-by-end-user-global-forec"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19388179"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19388179"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
-  - title: "Global Iris Recognition Market Research 2020-2024 | Market Impact Analysis due to COVID-19 Spread | Technavio"
-    excerpt: "Technavio has announced its latest market research report titled Global Iris Recognition Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--The iris recognition market is poised to grow by USD 2."
-    publishedDateTime: 2021-01-29T13:09:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210129005302/en/Global-Iris-Recognition-Market-Research-2020-2024-Market-Impact-Analysis-due-to-COVID-19-Spread-Technavio"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "Elm/gPJiUI+2Ob5EX9iQEcgjmUlPdvaghMWxSXvUVedC+vCJchMP2FHlaE4OqDv97qDoqDWDK6EjD5qzYbhxR7byjEBhXSlv0sofgSHEn/VBskk6eO3TEnkKWB3FhEjH0qp7tWvQebIzd6WV1jyCbL9UhFDtX1x/44MPgombDJoBK1wtqeytGKmZHpx/1DS2tzJL7xCaZeCEVH9AJ1dpYyJeVMH3dKkSH9Jv74wS6N7UVAL22hHb9facPIpxFP5XR40PfzrTfwKjkX30Dvrq3aGzZbkC/Zm+YUGCQrGY2O4zkptbjwqTW+Cvn7CVMd/6bGgPVlfT+2Zw+cu9SAAprscp6k8tV2VWi1lbyQvJ0YI=;CsjZb4DfqxlOZNqD6/KTuw=="
 ---

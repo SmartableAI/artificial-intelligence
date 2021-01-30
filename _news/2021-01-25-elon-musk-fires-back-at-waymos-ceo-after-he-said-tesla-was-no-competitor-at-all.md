@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/elon-musk-waymo-ceo-self-driving-aut
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-waymo-ceo-self-driving-autopilot-2021-1?amp"
 type: article
 quality: 183
-heat: 293
+heat: 283
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk Responds To Waymo CEO: “Tesla Has Better AI Hardware & Software Than Waymo”"
-    excerpt: "In an interview with German business publication Manager Magazin, Waymo CEO John Krafcik said Tesla is not a competitor to Waymo."
-    publishedDateTime: 2021-01-25T07:23:00Z
-    webUrl: "https://www.forbes.com/sites/johanmoreno/2021/01/25/elon-musk-responds-to-waymo-ceo-tesla-has-better-ai-hardware--software-than-waymo/"
-    ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2021/01/25/elon-musk-responds-to-waymo-ceo-tesla-has-better-ai-hardware--software-than-waymo/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2021/01/25/elon-musk-responds-to-waymo-ceo-tesla-has-better-ai-hardware--software-than-waymo/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 112
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600e6ec4610dbde7ff2d2458%2F0x0.jpg"
-        width: 1200
-        height: 835
-        isCached: true
   - title: "Tesla will never achieve full self-driving capabilities, says Waymo CEO"
     excerpt: "The CEO called Tesla's approach a \"misconception,\" while the Alphabet Inc. subsidiary tackles lidar and more advanced systems."
     publishedDateTime: 2021-01-25T16:39:00Z

@@ -2,6 +2,353 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-01-16-facebook-uses-ai-to-predict-if-covid-19-patients-will-need-more-care.md",
+      "title": "Facebook uses AI to predict if COVID-19 patients will need more care",
+      "excerpt": "Using X-ray images, the three AI models Facebook developed could help hospitals decide how to allot its resources as COVID-19 cases rise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/health/facebook-uses-ai-to-predict-if-covid-19-patients-will-need-more-care/",
+      "originalUrl": "https://www.cnet.com/health/facebook-uses-ai-to-predict-if-covid-19-patients-will-need-more-care/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/5NLpgUSxfolUyoYn6sbBB6Wj6NE=/1200x630/2020/03/26/0b95f2b8-2fd9-489e-ad69-8f949cbea4f0/coronavirus-facebook-9706.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/facebook-uses-ai-to-predict-if-covid-19-patients-will-need-more-care/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-uses-ai-to-predict-if-covid-19-patients-will-need-more-care/",
+      "publishedDateTime": "2021-01-15T09:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-16-global-x-robotics-artificial-intelligence-etf-nasdaqbotz-short-interest-down-604-in-december.md",
+      "title": "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Short Interest Down 60.4% in December",
+      "excerpt": "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) saw a significant drop in short interest during the month of December. As of December 31st, there was short interest totalling 197,600 shares,",
+      "sourceUrl": null,
+      "webUrl": "https://theenterpriseleader.com/2021/01/15/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-short-interest-down-60-4-in-december.html",
+      "originalUrl": "https://theenterpriseleader.com/2021/01/15/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-short-interest-down-60-4-in-december.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
+          "width": 450,
+          "height": 323,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theenterpriseleader.com/2021/01/15/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-short-interest-down-60-4-in-december.html/amp",
+      "cdnAmpWebUrl": "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2021/01/15/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-short-interest-down-60-4-in-december.html/amp",
+      "publishedDateTime": "2021-01-15T08:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theenterpriseleader.com",
+        "domain": "theenterpriseleader.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-16-artificial-intelligence-beats-us-in-chess-but-not-in-memory.md",
+      "title": "Artificial intelligence beats us in chess, but not in memory",
+      "excerpt": "In the last decades, artificial intelligence has shown to be very good at achieving exceptional goals in several fields. Chess is one of them: in 1996, for the first time, the computer Deep Blue beat a human player,",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-01-artificial-intelligence-chess-memory.html",
+      "originalUrl": "https://phys.org/news/2021-01-artificial-intelligence-chess-memory.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/5-artificialin.jpg",
+          "width": 985,
+          "height": 704,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-01-artificial-intelligence-chess-memory.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-01-artificial-intelligence-chess-memory.amp",
+      "publishedDateTime": "2021-01-15T08:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-16-blockchain-beyond-bitcoin-transforming-fintech-healthcare-and-more.md",
+      "title": "Blockchain Beyond Bitcoin: Transforming FinTech, Healthcare, And More",
+      "excerpt": "The origin of blockchain dates back to 1991, when researchers Stuart Haber and W. Scott Stornetta outlined a system to document timestamps that could not be altered. However, it is most widely known as the underpinning of Bitcoin,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2021/01/15/blockchain-beyond-bitcoin-transforming-fintech-healthcare-and-more/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2021/01/15/blockchain-beyond-bitcoin-transforming-fintech-healthcare-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6001bffef1677f1270da7683%2F0x0.jpg",
+          "width": 1200,
+          "height": 593,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2021/01/15/blockchain-beyond-bitcoin-transforming-fintech-healthcare-and-more/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/01/15/blockchain-beyond-bitcoin-transforming-fintech-healthcare-and-more/amp/",
+      "publishedDateTime": "2021-01-15T08:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-01-15-i-am-not-a-soldier-but-i-have-been-trained-to-kill.md",
+      "title": "I Am Not a Soldier, but I Have Been Trained to Kill",
+      "excerpt": "A sprawling tactical industry is teaching American civilians how to fight like Special Ops forces. By preparing for violence at home, are they calling it into being?",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/anthony-levandowski-artificial-intelligence-religion/",
+      "originalUrl": "https://www.wired.com/story/america-civilian-tactical-training-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5a0a046174c62b689459d7c4/master/pass/LEAD%20Anthony%20Levandoski_Michelle%20Le03.JPG",
+          "width": 4500,
+          "height": 3000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/anthony-levandowski-artificial-intelligence-religion/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/anthony-levandowski-artificial-intelligence-religion/amp",
+      "publishedDateTime": "2021-01-15T07:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-15-the-ai-incident-database-wants-to-improve-the-safety-of-machine-learning.md",
+      "title": "The AI Incident Database wants to improve the safety of machine learning",
+      "excerpt": "The AI Incident Database documents failures of AI systems in the real world, revealing past failures to avoid repeating them.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/15/the-ai-incident-database-wants-to-improve-the-safety-of-machine-learning/",
+      "originalUrl": "https://venturebeat.com/2021/01/15/the-ai-incident-database-wants-to-improve-the-safety-of-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/AI-incident-database.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/15/the-ai-incident-database-wants-to-improve-the-safety-of-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/15/the-ai-incident-database-wants-to-improve-the-safety-of-machine-learning/amp/",
+      "publishedDateTime": "2021-01-15T07:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Facebook AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-15-three-ways-brands-can-win-the-buy-box-using-search-and-ai.md",
+      "title": "Three Ways Brands Can Win The Buy Box Using Search And AI",
+      "excerpt": "AI makes it possible for these marketplaces to do predictive analysis of massive datasets to understand consumer/shopper behavior. Algorithms power almost every aspect of e-commerce for brands and the consumers they serve: discovery (search),",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/15/three-ways-brands-can-win-the-buy-box-using-search-and-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/15/three-ways-brands-can-win-the-buy-box-using-search-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F107429982%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/15/three-ways-brands-can-win-the-buy-box-using-search-and-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/15/three-ways-brands-can-win-the-buy-box-using-search-and-ai/amp/",
+      "publishedDateTime": "2021-01-15T06:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-15-a-major-business-breakthrough-in-ai-is-happening-now-do-you-know-about-it.md",
       "title": "A Major Business Breakthrough In AI Is Happening Now -- Do You Know About It?",
       "excerpt": "Almost every business in the world will be transformed by the use of artificial intelligence (AI) and machine learning (ML) technology. However, to non-data-scientist business and IT leaders, ML is often a black box that is hard to understand and manage,",
@@ -843,325 +1190,6 @@
         "AI",
         "AI in Marketing",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-lapd-commission-oks-detectives-to-use-facial-recognition.md",
-      "title": "LAPD Commission OKs Detectives to Use Facial Recognition",
-      "excerpt": "Under the new policy, detectives can use the facial recognition database to help them in criminal investigations, and when they need to identify incapacitated, unconscious or dead people.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/public-safety/LAPD-Commission-OKs-Detectives-to-Use-Facial-Recognition.html",
-      "originalUrl": "https://www.govtech.com/public-safety/LAPD-Commission-OKs-Detectives-to-Use-Facial-Recognition.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.govtech.com/images/shutterstock_1392652700.jpg",
-          "width": 939,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/public-safety/LAPD-Commission-OKs-Detectives-to-Use-Facial-Recognition.html?AMP",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/LAPD-Commission-OKs-Detectives-to-Use-Facial-Recognition.html?AMP",
-      "publishedDateTime": "2021-01-14T13:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-stanford-team-behind-bs-gaydar-ai-says-facial-recognition-can-expose-political-orientation.md",
-      "title": "Stanford team behind BS gaydar AI says facial recognition can expose political orientation",
-      "excerpt": "Stanford researcher Michael Kosinski, the PhD behind the infamous “Gaydar” AI, is back with another phrenology-adjacent (his team swears it’s not phrenology) bit of pseudo-scientific ridiculousness. This time,",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/01/14/stanford-team-behind-bs-gaydar-ai-says-facial-recognition-can-expose-political-orientation/",
-      "originalUrl": "https://thenextweb.com/neural/2021/01/14/stanford-team-behind-bs-gaydar-ai-says-facial-recognition-can-expose-political-orientation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/02/ugh_green-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/01/14/stanford-team-behind-bs-gaydar-ai-says-facial-recognition-can-expose-political-orientation/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/14/stanford-team-behind-bs-gaydar-ai-says-facial-recognition-can-expose-political-orientation/amp/",
-      "publishedDateTime": "2021-01-14T12:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-oracle-extends-database-leadership-with-oracle-database-21c.md",
-      "title": "Oracle extends database leadership with Oracle database 21c",
-      "excerpt": "Oracle Database 21c contains more than 200 new innovations, including immutable blockchain tables, In-Database JavaScript, native JSON binary data type, AutoML for in-database machine learning (ML), and persistent memory store, as well as enhancements for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/mena/en/press-releases/story/Oracle_extends_database_leadership_with_Oracle_database_21c-ZAWYA20210114095931/",
-      "originalUrl": "https://www.zawya.com/mena/en/press-releases/story/Oracle_extends_database_leadership_with_Oracle_database_21c-ZAWYA20210114095931/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/ZAWYA20210114095931/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210114095931/",
-      "publishedDateTime": "2021-01-14T12:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-deep-learning-outperforms-standard-machine-learning-in-biomedical-research-applications.md",
-      "title": "Deep learning outperforms standard machine learning in biomedical research applications",
-      "excerpt": "ATLANTA--Compared to standard machine learning models, deep learning models are largely superior at discerning patterns and discriminative features in brain imaging, despite being more complex in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2021-01/gsu-dlo011421.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-01/gsu-dlo011421.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-14T11:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-can-an-ai-predict-the-language-of-viral-mutation.md",
-      "title": "Can an AI Predict the Language of Viral Mutation?",
-      "excerpt": "Computational biologists used an algorithm meant to model human language to instead predict how viruses could evolve to evade the immune system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/can-an-ai-predict-the-language-of-viral-mutation/",
-      "originalUrl": "https://www.wired.com/story/can-an-ai-predict-the-language-of-viral-mutation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5fffaf0723cb3490933581e8/master/pass/virus-mutation.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/can-an-ai-predict-the-language-of-viral-mutation/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/can-an-ai-predict-the-language-of-viral-mutation/amp",
-      "publishedDateTime": "2021-01-14T11:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-full-autonomous-self-driving-teslas-in-vegas-boring-tunnels-by-the-end-of-2021.md",
-      "title": "Full Autonomous Self Driving Teslas in Vegas Boring Tunnels by the End of 2021",
-      "excerpt": "The LVCVA board approved $6.25 million to Boring to operate the mile-long convention center system from Feb. 1 through June 30, 2022. At no cost, authorized access to Boring to dig tunnels connecting",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextbigfuture.com/2021/01/full-autonomous-self-driving-teslas-in-vegas-boring-tunnels-by-the-end-of-2021.html",
-      "originalUrl": "https://www.nextbigfuture.com/2021/01/full-autonomous-self-driving-teslas-in-vegas-boring-tunnels-by-the-end-of-2021.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nextbigfuture.com/wp-content/uploads/2019/12/fsdchip-1024x512.jpeg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextbigfuture.com/2021/01/full-autonomous-self-driving-teslas-in-vegas-boring-tunnels-by-the-end-of-2021.html?amp",
-      "cdnAmpWebUrl": "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/01/full-autonomous-self-driving-teslas-in-vegas-boring-tunnels-by-the-end-of-2021.html?amp",
-      "publishedDateTime": "2021-01-14T11:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NextBigFuture",
-        "domain": "nextbigfuture.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-ai-and-big-data-analytics-in-telecom-market-size-status-and-global-outlook-2021.md",
-      "title": "AI and Big Data Analytics in Telecom Market Size, Status and Global Outlook 2021",
-      "excerpt": "Global AI and Big Data Analytics in Telecom Market research report published by market insight reports explores",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-and-big-data-analytics-in-telecom-market-size-status-and-global-outlook-2021-2021-01-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-and-big-data-analytics-in-telecom-market-size-status-and-global-outlook-2021-2021-01-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-14T10:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/2021/01/29/ai-weekly-announcing-our-ai-and
 webUrl: "https://venturebeat.com/2021/01/29/ai-weekly-announcing-our-ai-and-the-future-of-health-care-special-issue/"
 type: article
 quality: 67
-heat: 77
+heat: 78
 published: true
 
 provider:
@@ -46,6 +46,6 @@ related:
         height: 598
         isCached: true
 
-secured: "QKRljkZzZ8yc4RdB8/H/ytH22tHIpbVG+w1tTFqy6KjEigXwJz3vMvbtZbzd2l+5oWwKXUQTALzH7YAYmb8bAzGfm3tFLbD3g3EYre3pGZ/4ieS9xUPnvhVQowYHKnNZumiq/5kkOTqMPsF5581Yr4uiTH+56PCFGKHNuYcLCJXnI9vEVtbjNjqvsOk0OWZJBjhFLUV49vQ8KZHqSB+rDf3UWpvv57TB+SdcC51Chn0pnlp3hhkIRwYhrF+4Tcf6iLx30+MpWC/z2r6bRX35hkBAicn1r1xkxdld8YoX2R+moaVVkXVEsMnfcAt71o6MUNZhncpOh+F5EWFUk3dBd7MviFVmdLf2xFEED/+MjEg=;p/KPiDXaPHk9j8e/qB6hBg=="
+secured: "8bX3mK8//evhjTtReS/K15+MK2ADSaRgp9rHFInvYQyjY0vfRgKcK6wcy55oyEjS+/FtPgCrWdRMhHK7wjjwEe7pDESeP7dm2NoMl/89ri3L0whv03VWMmhuD7nJB/hJFqRSzFehcu0WoWEQuG38Fqq27laoz43LbwiEIk7lxCGQJydGNN4Uh0qVVemRWA5e0T4pV9Zl1H7/+oGaexT5jWEss7y7bcBnlH812oVNysG9Tbn1Da9vdwVn4a0yyaKaBZwbu/mjAe6jDz63VUcnHmm/9F0/SWGvSyxT3Dg4YRAI1Z3i3xRnpXsKI9hySmM1URUOZOvdp/fhoUlczMggkrqIcNdW0QVg2Npxc7J5Xih4q6FeRGJgRd+lNKAdk9YXovBC6B75yD/vorjdkRleGTeA/d02vw5gJ8IfhYC4mQh5qny7kBWwKtT29UVEQmd+8mA8UdRnLvAmlRn89dgjhSrHek07mW06hubbgmrWmHyjyMuuTMuMpcIhBq0s3n90dnuqOE3wMj9pst0xaVUd+A==;ouAY/8UvcuxPkR1OrVNUjg=="
 ---
 

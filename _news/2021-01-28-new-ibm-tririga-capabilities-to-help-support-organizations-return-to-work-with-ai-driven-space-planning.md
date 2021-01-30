@@ -1,22 +1,28 @@
 ---
 category: news
 title: "New IBM TRIRIGA Capabilities to Help Support Organizations' Return to Work with AI-Driven Space Planning"
-excerpt: "In a recent IBM Institute for Business Value study, 59% of executives surveyed said the pandemic had accelerated their organizations' digital transformation. IBM worked closely with IBM technology partners Cisco and Esri,"
-publishedDateTime: 2021-01-28T14:00:00Z
-originalUrl: "https://www.nasdaq.com/press-release/new-ibm-tririga-capabilities-to-help-support-organizations-return-to-work-with-ai"
-webUrl: "https://www.nasdaq.com/press-release/new-ibm-tririga-capabilities-to-help-support-organizations-return-to-work-with-ai"
+excerpt: "\"IBM and Esri have had a long-standing, successful partnership integrating IBM's analytics and AI solutions with ... also an important component of IBM Watson Works, a set of solutions designed ..."
+publishedDateTime: 2021-01-28T14:03:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/new-ibm-tririga-capabilities-to-help-support-organizations-return-to-work-with-ai-driven-space-planning-301216821.html"
+webUrl: "https://www.prnewswire.com/news-releases/new-ibm-tririga-capabilities-to-help-support-organizations-return-to-work-with-ai-driven-space-planning-301216821.html"
 type: article
-quality: 32
-heat: 32
+quality: 22
+heat: 22
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - IBM AI
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1428401/Indoor_Maps.jpg?p=facebook"
+    width: 1513
+    height: 792
+    isCached: true
 
 related:
   - title: "New IBM TRIRIGA Capabilities to Help Support Organizations’ Return to Work with AI-Driven Space Planning"
@@ -34,6 +40,6 @@ related:
         height: 450
         isCached: true
 
-secured: "nfPwDwRajxrwuBaWz0/xUh2BFlSm2CGLvjvliRo5eq60/8BA61R8HoasFHON1qyM2chQU3oKF93onKWJ+0qW4cTI82oRGf+p37clsyWhDd+k620YQIdAqDtzc1s44RH5ZVb8IiOqLAMZvVy+Vba9b8vHE2IhD8rkCnwoHT2968rLwFwW8cK158t3KW2mf2hp+LZXP5jdpHEdKKAptU43CD5IsHxQG36ZfQLzmpGuPRDdvp/g1lWyF23S22gjrT+dAzc9EMnhyYQRAbarHWMszHzplo57fkZ4YjasmpMT2FZoLkj8MaQhEdeRgt8XSl46ZCmjO5A+6Ff24ajbBN5yfOB42+VEU7cCjic8Enp2ga8=;BWSy966EPEHqMG61rlasew=="
+secured: "Gg/ttfQFkLfYgFRP+ZOSMhB4RM1X/eESBfQodN/kf6R2UfoohRm4NrmnRnbRZ7Tjm6sY0+oECx4VqgvQuZhUr9zrhqIhiZD61MmOUmtcFqtyy7IKXJyJBc/tC7gvMsCcRgMq1hHr8sHRtIZ8OWKaSZNIlSTCN+c6jf/VivXSiosTMEvx/puNgA7TlVLik+iUrJhZd39rvm3ZKRhpyUoZ05M6K+Y9Ysfc66xEirTODgZ6klBiHUyEsnDdP3h8cTEXm7c+hZVgGzHk20QTnSvDfErJca2+kYqcgMRMKqXtuZqQn7dbN8sQ1lNL+Ot6XCx8OLSX+bOicuAjb0cw4e7kA8pIE0bfIjZC3y+bGClwTQI=;rPaicBCHgcuKZT3DPPhtHg=="
 ---
 

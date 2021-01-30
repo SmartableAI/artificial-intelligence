@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johncumbers/2021/01/27/synthetic-biolog
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johncumbers/2021/01/27/synthetic-biology-partners-with-ai-to-delete-food-allergies/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/01/feedb0_dc9104c8144d447eb993549c16841d0f_mv2_d_4393_2470_s_4_2-e1611597142551.jpg?w=1200&strip=all"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Dubai royal family partners with JIFFY.ai"
-    excerpt: "Seed Group, a company of the Private Office of Sheikh Saeed bin Ahmed Al Maktoum, belonging to the Royal Family of Dubai, has partnered with Silicon Valley-based automation start-up JIFFY.ai to help expand operations in the United Arab Emirates and the larger Middle East and bring in ‘the best’ of intelligent automation along with its AI-based,"
-    publishedDateTime: 2021-01-25T07:45:00Z
-    webUrl: "https://www.thehindubusinessline.com/economy/dubai-royal-family-partners-with-jiffyai/article33655658.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/economy/dubai-royal-family-partners-with-jiffyai/article33655658.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/economy/dubai-royal-family-partners-with-jiffyai/article33655658.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 57
-    images:
-      - url: "https://www.thehindubusinessline.com/economy/kvn1tp/article33655657.ece/ALTERNATES/LANDSCAPE_615/BL26Partnership"
-        width: 615
-        height: 384
         isCached: true
   - title: "Ukko Secures $40 Million in Series B Funding Led by Leaps by Bayer to Overcome Food Allergies and Sensitivities"
     excerpt: "Ukko, a biotech company with the mission to eliminate food allergies and sensitivities, today announced $40 million in new Series B funding. Ukko harnesses artificial intelligence (AI) and protein engineering to develop healthier food and therapies for food allergies."
