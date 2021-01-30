@@ -2,6 +2,49 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2021-01-03-ai-based-database-to-solve-similar-crimes-quicker-centre.md",
+      "title": "AI based database to solve similar crimes quicker, Centre",
+      "excerpt": "The Centre is involved in developing an Artificial Intelligence (AI) and Natural Language Processing (NLP)-based database of modus operandi various cr..|News Track",
+      "sourceUrl": null,
+      "webUrl": "https://english.newstracklive.com/news/ai-based-database-to-solve-similar-crimes-quicker-centre-mc16-nu306-ta306-1138317-1.html",
+      "originalUrl": "https://english.newstracklive.com/news/ai-based-database-to-solve-similar-crimes-quicker-centre-mc16-nu306-ta306-1138317-1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.newstracklive.com/uploads/crime-news//Jan/03/big_thumb/AI-based-database-to-solve-similar-crimes-quicker-Centre_5ff1b71375b0f.jpg",
+          "width": 796,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://english.newstracklive.com/ampnews/ai-based-database-to-solve-similar-crimes-quicker-centre-mc16-nu306-ta306-1138317-1.html",
+      "cdnAmpWebUrl": "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/ai-based-database-to-solve-similar-crimes-quicker-centre-mc16-nu306-ta306-1138317-1.html",
+      "publishedDateTime": "2021-01-03T04:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Track",
+        "domain": "newstracklive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-03-why-robotics-and-language-need-each-other.md",
       "title": "Why robotics and language need each other",
       "excerpt": "Combining robotics and language complicates both, but they have the potential to bolster each other",
@@ -1117,58 +1160,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-a-disembodied-robot-mouth-and-14-other-2020-stories-we-laughed-at.md",
-      "title": "A disembodied robot mouth and 14 other 2020 stories we laughed at",
-      "excerpt": "Forget the challenges of the last 12 months and instead have some fun reading our pick of the quirkiest tech stories from the past year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/features/15-tech-stories-that-gave-us-a-laugh-in-2020/",
-      "originalUrl": "https://www.digitaltrends.com/features/15-tech-stories-that-gave-us-a-laugh-in-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn2.digitaltrends.com/image/digitaltrends/a-0-6-1200x630-c-ar1.91-n.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/features/15-tech-stories-that-gave-us-a-laugh-in-2020/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/15-tech-stories-that-gave-us-a-laugh-in-2020/?amp",
-      "publishedDateTime": "2020-12-31T17:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

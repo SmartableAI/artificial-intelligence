@@ -2,6 +2,40 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-01-10-decentralized-machine-learning-trading-up-602-over-last-week-dml.md",
+      "title": "Decentralized Machine Learning Trading Up 60.2% Over Last Week (DML)",
+      "excerpt": "Decentralized Machine Learning (CURRENCY:DML) traded 1.3% lower against the U.S. dollar during the one day period ending at 13:00 PM Eastern on January 9th. Over the last week, Decentralized Machine Learning has traded 60.",
+      "sourceUrl": null,
+      "webUrl": "https://theenterpriseleader.com/2021/01/09/decentralized-machine-learning-trading-up-60-2-over-last-week-dml.html",
+      "originalUrl": "https://theenterpriseleader.com/2021/01/09/decentralized-machine-learning-trading-up-60-2-over-last-week-dml.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theenterpriseleader.com/2021/01/09/decentralized-machine-learning-trading-up-60-2-over-last-week-dml.html/amp",
+      "cdnAmpWebUrl": "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2021/01/09/decentralized-machine-learning-trading-up-60-2-over-last-week-dml.html/amp",
+      "publishedDateTime": "2021-01-09T17:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theenterpriseleader.com",
+        "domain": "theenterpriseleader.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-10-can-we-make-artificial-intelligence-ethical.md",
       "title": "Can we make artificial intelligence ethical?",
       "excerpt": "And one thing I see every day is that most companies and industries are about to be transformed, if they haven’t been already, by artificial ... take advantage of self-driving vehicles.",
@@ -1104,58 +1138,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-ai-in-computer-vision-market-2020-insights-revenue-price-and-gross-margin-forecast-2023.md",
-      "title": "Ai In Computer Vision Market 2020 Insights, Revenue, Price and Gross Margin, Forecast 2023",
-      "excerpt": "The improved computing capabilities of processors are paving the way for the future growth in the AI in computer vision market. The AI In Computer Vision Market is estimated to record a significant growth throughout the forecast period.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2020-insights-revenue-price-and-gross-margin-forecast-2023-2021-01-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2020-insights-revenue-price-and-gross-margin-forecast-2023-2021-01-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 204,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-08T04:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

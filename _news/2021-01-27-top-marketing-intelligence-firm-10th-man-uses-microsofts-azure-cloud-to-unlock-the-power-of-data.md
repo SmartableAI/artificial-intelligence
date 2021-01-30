@@ -92,6 +92,20 @@ related:
         width: 1080
         height: 689
         isCached: true
+  - title: "Microsoft Corp. (NASDAQ: MSFT) Acquires Stake in Self-Driving EV Venture"
+    excerpt: "Microsoft Corp. (NASDAQ: MSFT), a company primarily known for developing, manufacturing, licensing and selling computer software, electronics and personal computers, has announced that it has strategically teamed up with General Motors Co."
+    publishedDateTime: 2021-01-30T02:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/microsoft-corp-nasdaq-msft-acquires-stake-in-self-driving-ev-venture-2021-01-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 70
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft Translator now supports Inuktitut language"
     excerpt: "Microsoft has added Inuktitut, the primary dialect of Inuktut, to Microsoft Translator in collaboration with the government of Nunavut."
     publishedDateTime: 2021-01-29T16:09:00Z

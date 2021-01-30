@@ -131,6 +131,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Speech Recognition Market Size, Global Trends, Historical Analysis, Industry Demand, Growth, Future Plans and Opportunity Assessment by 2023"
+    excerpt: "Market Research Future published a research report on \"Global Speech Recognition Market Research Report – Forecast 2023\""
+    publishedDateTime: 2021-01-30T02:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-size-global-trends-historical-analysis-industry-demand-growth-future-plans-and-opportunity-assessment-by-2023-2021-01-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Automotive Market 2020 Recent Industry Trends and Significant Developments by 2027"
     excerpt: "Market Research Intellect have recently published a new report on the Global Artificial Intelligence AI in Automotive Market The study provides profound insights into updated market events and market trends This in turn helps one in better comprehending the market"
     publishedDateTime: 2021-01-26T10:54:00Z

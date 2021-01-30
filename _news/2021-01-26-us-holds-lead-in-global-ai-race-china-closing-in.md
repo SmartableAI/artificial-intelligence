@@ -43,9 +43,9 @@ related:
   - title: "US, China or Europe? Here's who is really winning the global race for AI"
     excerpt: "A new report shows that in the ever-more competitive race for AI, the US has a strong lead that China is catching up with, while the EU is falling behind little by little."
     publishedDateTime: 2021-01-29T12:11:00Z
-    webUrl: "https://www.zdnet.com/article/us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai/"
+    webUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai/"
+    ampWebUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai/"
     type: article
     provider:
       name: ZDNet

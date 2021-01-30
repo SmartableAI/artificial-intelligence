@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/drdo-announces-online-courses-on-art
 webUrl: "https://analyticsindiamag.com/drdo-announces-online-courses-on-artificial-intelligence-machine-learning-cybersecurity/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "DRDO Offers Short-Term Online Courses In Artificial Intelligence, Cyber Security"
-    excerpt: "The Defence Institute of Advanced Technology under the Department of Defence Research and Development has started two short-term online programmes on Artificial Intelligence (AI) and Machine Learning (ML) and Cyber security."
-    publishedDateTime: 2021-01-25T10:05:00Z
-    webUrl: "https://www.ndtv.com/education/drdo-offers-short-term-online-courses-in-artificial-intelligence-cyber-security"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 49
-    images:
-      - url: "https://cache.careers360.mobi/media/article_images/2021/1/25/DRDO-entrance-intelligence-artificial.jpg"
-        width: 625
-        height: 400
-        isCached: true
   - title: "DRDO Online Courses 2021: DIAT offers Artificial Intelligence, Cyber Security courses on diat.ac.in-"
     excerpt: "Defense Institute of Advanced Technology Start DIAT the registration process for DRDO Online Courses 2021 on Artificial Intelligence and Cyber ​​Security. The registration process for both courses would begin on the official January 28,"
     publishedDateTime: 2021-01-25T12:47:00Z
@@ -50,6 +36,17 @@ related:
       name: Windows
       domain: compsmag.com
     quality: 39
+  - title: "Cybersecurity centre for self-driving vehicles heads to University of Windsor"
+    excerpt: "Cybersecurity centre for self-driving vehicles heads to University of Windsor. A new center at the University of Windsor will be the"
+    publishedDateTime: 2021-01-30T02:32:00Z
+    webUrl: "https://www.compsmag.com/news/hacking/cybersecurity-centre-for-self-driving-vehicles-heads-to-university-of-windsor/"
+    ampWebUrl: "https://www.compsmag.com/news/hacking/cybersecurity-centre-for-self-driving-vehicles-heads-to-university-of-windsor/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/hacking/cybersecurity-centre-for-self-driving-vehicles-heads-to-university-of-windsor/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 21
 
 secured: "MHUN6UHwrSalVj3PDKlLsY0bP7ZBkKyUL+ge+k0CyrnhQh3Laob1GjoshrU2sDDdlT3MFTQ/imjZ2vTJvZBTOTvPm4wGyecQ2a4QSNPArTtE/+cermm7uamWYYT+Vn8YiRrWq2z2hvSGxsXSbIJYaig3MSUu3mIgibYwSOfY1K59isq91Zn7BGLyYp9bAoDENlA5Pr2KxaoD8256c0w20FjMVNFSyoFq4LI6FX8BTG0rHZqfWKtmg0kC8yTOcNoU5cSs6mndqc9D6gJ74F+Ix1syxZ+MDh458pDKh5WSjiH+WddMKZjGJqcA04J4zG+qiBl2Hqs5NMjkbGPyBHhD32rnjfNp2q3UQw94viYlDDRcxep0e6KOrXg3XioM9jXrgKZyARBqcJQSzOhngeb7VqUAVOHgSPdPzvNV7Rch6u7ZKmAdnaqECQW/N8xakWONEkEr3vwl3yy1Oo9XGMsMzSxJr2t83+PhpsREJrZmH/f+rUz6A5yE3YpZFQubV1l6CX5WwwslgthIIXgpPnf/kg==;3VGsy9IJ07lkxTEInmL8tw=="
 ---

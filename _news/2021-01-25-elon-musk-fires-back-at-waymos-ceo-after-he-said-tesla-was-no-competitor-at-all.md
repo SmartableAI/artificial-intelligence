@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/elon-musk-waymo-ceo-self-driving-aut
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-waymo-ceo-self-driving-autopilot-2021-1?amp"
 type: article
 quality: 183
-heat: 283
+heat: 273
 published: true
 
 provider:
@@ -106,22 +106,6 @@ related:
       - url: "https://media.foxbusiness.com/BrightCove/854081161001/201904/3793/854081161001_6023044704001_6023051501001-vs.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Elon Musk gives replay to Waymo boss for doubting Tesla's full self-driving system"
-    excerpt: "Tesla CEO Elon Musk has countered recent remarks by CEO of Google’s self-driving unit Waymo that Tesla has taken a misguided approach to develop..|News Track"
-    publishedDateTime: 2021-01-25T10:05:00Z
-    webUrl: "https://english.newstracklive.com/news/elon-musk-gives-replay-to--waymo-boss-for-doubting-teslas-full-selfdriving-system-sc73-nu272-ta272-1142749-1.html"
-    ampWebUrl: "https://english.newstracklive.com/ampnews/elon-musk-gives-replay-to--waymo-boss-for-doubting-teslas-full-selfdriving-system-sc73-nu272-ta272-1142749-1.html"
-    cdnAmpWebUrl: "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/elon-musk-gives-replay-to--waymo-boss-for-doubting-teslas-full-selfdriving-system-sc73-nu272-ta272-1142749-1.html"
-    type: article
-    provider:
-      name: News Track
-      domain: newstracklive.com
-    quality: 68
-    images:
-      - url: "https://media.newstracklive.com/uploads/automobile-news/cars-news/Jan/25/big_thumb/jhjg_600e96985eb90.jpg"
-        width: 600
-        height: 450
         isCached: true
   - title: "Waymo CEO Says Tesla Autopilot Will Never Be True Self-Driving and Elon Musk Responds"
     excerpt: "In the buzzing world of autonomous driving, Tesla has always been sort of an anomaly. Not only does the company build everything in-house, from hardware to processors to artificial intelligence capabilities,"

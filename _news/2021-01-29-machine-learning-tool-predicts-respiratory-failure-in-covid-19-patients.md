@@ -2,27 +2,26 @@
 category: news
 title: "Machine learning tool predicts respiratory failure in COVID-19 patients"
 excerpt: "In an effort to expedite care for coronavirus disease 2019 (COVID-19) patients upon hospital admission, a team at The Feinstein Institutes for Medical Research has developed a machine learning (ML) artificial intelligence (AI) powered clinical predictive tool that can accurately assess patients for the risk of respiratory failure within 48 hours."
-publishedDateTime: 2021-01-28T19:18:00Z
-originalUrl: "https://www.globalbankingandfinance.com/category/news/machine-learning-tool-predicts-respiratory-failure-in-covid-19-patients/"
-webUrl: "https://www.globalbankingandfinance.com/category/news/machine-learning-tool-predicts-respiratory-failure-in-covid-19-patients/"
+publishedDateTime: 2021-01-29T07:59:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/science-technology-diseases-and-conditions-medical-technology-lung-disease-1b94a3d69e2541ee8e9d75b2cfb03f8f"
+webUrl: "https://apnews.com/press-release/business-wire/science-technology-diseases-and-conditions-medical-technology-lung-disease-1b94a3d69e2541ee8e9d75b2cfb03f8f"
 type: article
-quality: 56
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: List of Banks in Belarus
-  domain: globalbankingandfinance.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
 
 images:
-  - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
-    width: 1000
-    height: 600
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -41,6 +40,20 @@ related:
       - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/1/CT_machine_is_prepared_for_the_patient_shooting-sfam_photo_698c003ae3d54b69bf4c077708d403e4-620x480.jpg"
         width: 620
         height: 480
+        isCached: true
+  - title: "Can Robots and Drones Help to Fight COVID-19?"
+    excerpt: "As such, there is a big push to use drones and other manned and unmanned aerial vehicles to help combat infection rates. We have already seen drones working within the military and also embraced in public safety roles."
+    publishedDateTime: 2021-01-27T17:18:00Z
+    webUrl: "https://www.nextgov.com/ideas/2021/01/can-robots-and-drones-help-fight-covid-19/171667/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 39
+    images:
+      - url: "https://cdn.nextgov.com/media/img/upload/2021/01/27/NGdrone20210127/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "Machine Learning, Real-Time Data App Rates COVID-19 Exposure Risk"
     excerpt: "A new app leverages machine learning and real-time data to provide location-based risk assessments of COVID-19 exposure."
@@ -87,6 +100,6 @@ related:
         height: 378
         isCached: true
 
-secured: "TNo9oVj+mpghN3W1TWina+ZdSrZxUG1Lez9cBdUhFDPZjvl86tnoVtwF0Gcg0JZs24L7lNQnUnGR1qM7t4m0klyDF7iVZyoR4WFJRoaH7t5u0zuj7lv0hnFsmVroxIQzFl2M23rVW+whnUlPSL3NayA7RtTYDMtiZrX5s9m3JxdlOFPxfvZQmzEo4KkRYF7AtNIUnOLMaI6sgJ5pQHlrkv+tC5mcG5zlqbgowjf6YTCvSauBeDosIqHfSNaAKYFKcqbsBJ2GWGKudprFXbHUvqSRpdLrf9cCJPSBSixS/OYA+NXyn/jezzRdu17J+qLPPWdajirDPUJ5n8Q1gyEkqtFqPng6e29lg5z/fmTCCcA=;7oke610nOqobPZ4WbfOMPg=="
+secured: "3orZu3+8DVGt33yAJagaDX2/2ghLoCMxPFHdHAGwF/TO98lPm9eJcyUWQ0j+SEv1rXFwiq8xiju8OwsX4Gp1ItO3smvvfxgO13P9tuHr0fp+5uDn4ijdA4/onRbKwoJeROLqR8Bf/jgNIgJoHeZtI/QYquAAq7+OaxKcXsxBm7UUlbXnVovi450oXivxqKDKCGfv+Jj4uFxCWH6vY+LSMgD6QpEXLQ4F9RISDXm+QyAcD1Jer7QXsUmhPCd5WCkQNuNUCJJuZ5+RiiTAmDp6nBEeygH/RWqu3s/ABRLDGo2FOi19XTsbqFwoE+5K2Ntm4gGsq/wSPMv1DqXUDTzKuAHmhJxso7rmNejD58+TFFE=;w2HqVZf8L7TGDi15LbRjXA=="
 ---
 

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel’s Neuromorphic Chip Just Got More Accessible for Mainstream AI"
-    excerpt: "While the promise of neuromorphic computing going mainstream is still mostly unrealized, there are steps being taken to bring it closer to reality."
-    publishedDateTime: 2021-01-25T10:02:00Z
-    webUrl: "https://www.nextplatform.com/2021/01/25/intels-neuromorphic-chip-just-got-more-accessible-for-mainstream-ai/"
-    ampWebUrl: "https://www.nextplatform.com/2021/01/25/intels-neuromorphic-chip-just-got-more-accessible-for-mainstream-ai/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/01/25/intels-neuromorphic-chip-just-got-more-accessible-for-mainstream-ai/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 74
-    images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/ab_neuromorphic.jpg"
-        width: 1300
-        height: 500
-        isCached: true
   - title: "New study investigates photonics for artificial intelligence and neuromorphic computing"
     excerpt: "Scientists have given a fascinating new insight into the next steps to develop fast, energy-efficient, future computing systems that use light instead of electrons to process and store information—incorporating hardware inspired directly by the functioning of the human brain."
     publishedDateTime: 2021-01-29T17:44:00Z

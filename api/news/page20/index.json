@@ -2,6 +2,51 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-01-13-ai-machine-learning-in-crm-systems-opportunities-benefits-for-charities.md",
+      "title": "AI & machine learning in CRM systems – opportunities & benefits for charities",
+      "excerpt": "While we tend to think first of robots and self-driving cars when we think of AI, in fact, along with its subset machine learning, it’s already firmly",
+      "sourceUrl": null,
+      "webUrl": "https://fundraising.co.uk/2021/01/13/ai-machine-learning-in-crm-systems-opportunities-benefits-for-charities/?cmpredirect",
+      "originalUrl": "https://fundraising.co.uk/2021/01/13/ai-machine-learning-in-crm-systems-opportunities-benefits-for-charities/?cmpredirect",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fundraising.co.uk/wp-content/uploads/2021/01/ash-edmonds-Koxa-GX_5zs-unsplash-1.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-13T02:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UK Fundraising",
+        "domain": "fundraising.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Sales",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-01-13-friend-kitchen-staff-yoga-finder-at-ces-2021-robots-are-a-highlight-having-shown-their-worth-in-the-coronavirus-pandemic.md",
       "title": "Friend, kitchen staff, yoga finder: at CES 2021, robots are a highlight, having shown their worth in the coronavirus pandemic",
       "excerpt": "The pandemic is helping robots prove their worth, from one that helps people feel less lonely to another that can cut labour costs in the kitchen – and they take centre stage at a consumer tech show.",
@@ -1095,57 +1140,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-kpmgs-marisa-ferrara-boston-embraces-auditing-disruption-with-watson.md",
-      "title": "KPMG’s Marisa Ferrara Boston embraces auditing disruption with Watson",
-      "excerpt": "“We understand that audit is going to be disrupted,” says Marisa Ferrara Boston, the Automation and AI Lead Architect at KPMG, one of the world’s top providers of auditing services. Marisa is clear-eyed about the seismic shifts that her industry faces, but she is hopeful that with preparation, these",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/01/kpmgs-marisa-ferrara-boston-embraces-auditing-disruption-with-watson/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/01/kpmgs-marisa-ferrara-boston-embraces-auditing-disruption-with-watson/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/01/marisa-ferrara-edit-990x498.jpg",
-          "width": 990,
-          "height": 498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-12T11:16:44-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

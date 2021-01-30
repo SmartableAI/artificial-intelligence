@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "\"Thousands\" of Sophia the robot units to be sold to help people cope with COVID-19"
-    excerpt: "The Hong Kong-based maker of Sophia the robot plans to sell thousands of units amid the ongoing COVID-19 pandemic in 2021."
-    publishedDateTime: 2021-01-25T09:42:00Z
-    webUrl: "https://sea.mashable.com/tech/14213/thousands-of-sophia-the-robot-units-to-be-sold-to-help-people-cope-with-covid-19"
-    ampWebUrl: "https://sea.mashable.com/tech/14213/thousands-of-sophia-the-robot-units-to-be-sold-to-help-people-cope-with-covid-19?amp=1"
-    cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/14213/thousands-of-sophia-the-robot-units-to-be-sold-to-help-people-cope-with-covid-19?amp=1"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 83
-    images:
-      - url: "https://sm.mashable.com/t/mashable_sea/photo/default/sophia-the-robot_1typ.620.png"
-        width: 620
-        height: 310
-        isCached: true
   - title: "Sophia—The Humanoid Robot—Will Be Rolled Out This Year Potentially Replacing Workers"
     excerpt: "Hanson Robotics, the company behind Sophia, plans to mass produce robots this year to help people during the pandemic. The Hong Kong-based company contends that the human-like robots can “replace workers across industries."
     publishedDateTime: 2021-01-26T14:54:00Z
@@ -75,51 +59,46 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Feeling Lonely! Sophia The Robot For Android Company"
-    excerpt: "With her lifelike face and unusual sense of humour, Sophia the robot is one of the most famous androids around the world."
-    publishedDateTime: 2021-01-26T00:33:00Z
-    webUrl: "https://www.albawaba.com/editors-choice/feeling-lonely-sophia-robot-android-company-1407106"
-    ampWebUrl: "https://www.albawaba.com/amp/editors-choice/feeling-lonely-sophia-robot-android-company-1407106"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/editors-choice/feeling-lonely-sophia-robot-android-company-1407106"
+  - title: "Humanoid robot Sophia to be mass produced by the end of 2021, capitalising on the pandemic-induced robot boom"
+    excerpt: "As the pandemic creates a robotics boom, the creators of humanoid robot Sophia — who went viral in 2016 — are planning for mass production."
+    publishedDateTime: 2021-01-27T15:05:00Z
+    webUrl: "https://www.businessinsider.com/robot-humanoid-sophia-david-hanson-grace-healthcare-robotics-pandemic-ai-artificial-intelligence"
+    ampWebUrl: "https://www.businessinsider.com/robot-humanoid-sophia-david-hanson-grace-healthcare-robotics-pandemic-ai-artificial-intelligence?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/robot-humanoid-sophia-david-hanson-grace-healthcare-robotics-pandemic-ai-artificial-intelligence?amp"
     type: article
     provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 59
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 50
+  - title: "Need a friend? Help's on the way, with eerily lifelike 'social robots' heading to market this year"
+    excerpt: "So in that regard, it's hard to argue against utilizing robotics' ever-evolving practicality and realism for a little socializing during isolated times. That's certainly what Hanson Robotics is hoping for, as the company has big plans for a mass roll ..."
+    publishedDateTime: 2021-01-25T20:20:00Z
+    webUrl: "https://www.syfy.com/syfywire/sophia-hanson-robotics-social-robots-mass-production"
+    ampWebUrl: "https://www.syfy.com/syfywire/sophia-hanson-robotics-social-robots-mass-production?amp"
+    cdnAmpWebUrl: "https://www-syfy-com.cdn.ampproject.org/c/s/www.syfy.com/syfywire/sophia-hanson-robotics-social-robots-mass-production?amp"
+    type: article
+    provider:
+      name: Syfy
+      domain: syfy.com
+    quality: 45
     images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2021-01/http___cdn.cnn_.com_cnnnext_dam_assets_181024140824-sophia-robot-5.jpg?itok=GPHUetsv"
-        width: 727
-        height: 485
+      - url: "https://fastly.syfy.com/sites/syfy/files/styles/1200x680/public/2021/01/gettyimages-1127324224.jpg?offset-x=0"
+        width: 1200
+        height: 680
         isCached: true
-  - title: "Can Robots and Drones Help to Fight COVID-19?"
-    excerpt: "As such, there is a big push to use drones and other manned and unmanned aerial vehicles to help combat infection rates. We have already seen drones working within the military and also embraced in public safety roles."
-    publishedDateTime: 2021-01-27T17:18:00Z
-    webUrl: "https://www.nextgov.com/ideas/2021/01/can-robots-and-drones-help-fight-covid-19/171667/"
+  - title: "Uncanny humanoid robot ‘Sophia’ to enter mass production"
+    excerpt: "Hong Kong-based Hanson Robotics is to begin mass producing four models of humanoid robot by the end of the year, including the high-profile social humanoid robot, Sophia."
+    publishedDateTime: 2021-01-25T14:18:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2021/01/uncanny-humanoid-robot-sophia-to-enter-mass-production/"
     type: article
     provider:
-      name: Nextgov
-      domain: nextgov.com
+      name: IET
+      domain: theiet.org
     quality: 39
     images:
-      - url: "https://cdn.nextgov.com/media/img/upload/2021/01/27/NGdrone20210127/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Makers of Sophia the robot plan to produce THOUSANDS of lifelike droids by the end of 2021 to provide company for people who are lonely and socially isolated during Covid-19 ..."
-    excerpt: "Hong Kong-based Hanson Robotics, the firm behind the famous humanoid robot, Sophia, has revealed that four models, including Sophia, will be mass-produced this year."
-    publishedDateTime: 2021-01-25T10:35:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-9182767/Makers-Sophia-robot-plan-mass-rollout-amid-pandemic.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9182767/amp/Makers-Sophia-robot-plan-mass-rollout-amid-pandemic.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9182767/amp/Makers-Sophia-robot-plan-mass-rollout-amid-pandemic.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 6
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2021/01/25/09/38442136-0-image-a-5_1611567714629.jpg"
-        width: 636
-        height: 382
+      - url: "https://eandt.theiet.org/media/14820/factory-making-sophia-robots.jpg?crop=0,0.10222916666666666,0,0.40488020833333338&cropmode=percentage&width=1200&height=450&rnd=132560538470000000"
+        width: 1200
+        height: 450
         isCached: true
 
 secured: "SmavcQYE97faa8GqsQpLGRJkghZgahU3dCt1q+7Xi3/fs8KRBUTEnu7XCJktxXwHblosUvo7GNvGA9xSXMNJMKATvQHhd7T1lYg/8GJglrFAlGs6Djsy+MxPcDIZyhw5qI18MHPe0yEmh/nTVGxtYreCaLGV2OfwbtSBl8zzpW1cPcpVLDspOeCUVZdbCJCjeOPnuv+ZhzEAVcTWrG1lRIZms9pC+2WzyfuYxPBJXgci8YQvry6y2ZoirohyjhIMrZBvNwvbMKyoDbAw0fV3uNz5tBo7FE4Jydn4ePcJwWrMrX3aXu08hwbEORuu670dGWCmZ5Tke+n9LQFW40c+jww2XI5O6lD+BHo1rtVRGgOJKJWcqjVAtPmPz4YD05PH5zvf8jOmtmSrkn7gXzGx3IEhzezRW8yXSF+xIVLBMCke8WzBJPzefoyRJeh4lFJNCFOLjJkZlYOB5lqIuc0z/WfLoEUy3ocTCT5XjcVQahFWighpzdZAiqmQZjePul55UpuMXTjYmFlWEPxaRPYf4w==;MHVt33dsIRBOP7aOrTCHSw=="

@@ -140,7 +140,7 @@
       "originalUrl": "https://www.news-medical.net/news/20210128/New-machine-learning-model-predicts-COVID-19-severity.aspx",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -474,50 +474,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-28-silicon-labs-and-edge-impulse-partner-to-accelerate-machine-learning-applications.md",
-      "title": "Silicon Labs and Edge Impulse Partner to Accelerate Machine Learning Applications",
-      "excerpt": "Silicon Labs (NASDAQ: SLAB), a leading provider of silicon, software and solutions for a smarter, more connected world, and Edge Impulse, a leading development platform for machine learning on edge devices,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/silicon-labs-and-edge-impulse-partner-to-accelerate-machine-learning-applications-1030011427",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/silicon-labs-and-edge-impulse-partner-to-accelerate-machine-learning-applications-1030011427",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/silicon-labs-and-edge-impulse-partner-to-accelerate-machine-learning-applications-1030011427",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/silicon-labs-and-edge-impulse-partner-to-accelerate-machine-learning-applications-1030011427",
-      "publishedDateTime": "2021-01-27T10:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2021-01-27-pinecone-lands-10m-seed-for-purpose-built-machine-learning-database.md",
       "title": "Pinecone lands $10M seed for purpose-built machine learning database",
       "excerpt": "Pinecone, a new startup from the folks who helped launch Amazon SageMaker, has built a vector database that generates data in a specialized format to help build machine learning applications faster, something that was previously only accessible to the largest organizations.",
@@ -621,7 +577,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2026-2021-01-27",
       "featuredContent": null,
       "highlight": null,
-      "heat": 199,
+      "heat": 209,
       "tags": null,
       "images": [
         {
@@ -1132,8 +1088,8 @@
       "title": "4Paradigm Defends its Championship in China’s Machine Learning Platform Market in the 1st Half of 2020, According to IDC",
       "excerpt": "Paradigm stays on a leadership position from 2018 to the first half of 2020. IDC, a premier global provider of market intelligence, has recently published China AI Software and A",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/marketers-media/technology-science-greater-china-asia-china-b0d5c9646db4eb2b19f4cccf4ea99abc",
-      "originalUrl": "https://apnews.com/press-release/marketers-media/technology-science-greater-china-asia-china-b0d5c9646db4eb2b19f4cccf4ea99abc",
+      "webUrl": "https://apnews.com/press-release/marketersmedia/technology-science-greater-china-asia-china-b0d5c9646db4eb2b19f4cccf4ea99abc",
+      "originalUrl": "https://apnews.com/press-release/marketersmedia/technology-science-greater-china-asia-china-b0d5c9646db4eb2b19f4cccf4ea99abc",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1412,6 +1368,50 @@
         "AI",
         "AWS AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-mission-healthcare-of-san-diego-adopts-muse-healthcares-machine-learning-tool.md",
+      "title": "Mission Healthcare of San Diego Adopts Muse Healthcare's Machine Learning Tool",
+      "excerpt": "ST. PAUL, Minn., Jan. 19, 2021 /PRNewswire/ -- San Diego-based Mission Healthcare, one of the largest home health, hospice, and palliative care",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/mission-healthcare-of-san-diego-adopts-muse-healthcare-s-machine-learning-tool-1029980867",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/mission-healthcare-of-san-diego-adopts-muse-healthcare-s-machine-learning-tool-1029980867",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/mission-healthcare-of-san-diego-adopts-muse-healthcare-s-machine-learning-tool-1029980867",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/mission-healthcare-of-san-diego-adopts-muse-healthcare-s-machine-learning-tool-1029980867",
+      "publishedDateTime": "2021-01-19T10:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

@@ -341,7 +341,7 @@
       "originalUrl": "https://theenterpriseleader.com/2021/01/28/direxion-daily-robotics-artificial-intelligence-automation-index-bull-2x-shares-nysearcaubot-stock-price-down-3-3.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -540,7 +540,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2026-2021-01-27",
       "featuredContent": null,
       "highlight": null,
-      "heat": 199,
+      "heat": 209,
       "tags": null,
       "images": [
         {
@@ -662,6 +662,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-sophiathe-humanoid-robotwill-be-rolled-out-this-year-potentially-replacing-workers.md",
+      "title": "Sophia—The Humanoid Robot—Will Be Rolled Out This Year Potentially Replacing Workers",
+      "excerpt": "Hanson Robotics, the company behind Sophia, plans to mass produce robots this year to help people during the pandemic. The Hong Kong-based company contends that the human-like robots can “replace workers across industries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jackkelly/2021/01/26/sophia-the-humanoid-robot-will-be-rolled-out-this-year-potentially-replacing-workers/",
+      "originalUrl": "https://www.forbes.com/sites/jackkelly/2021/01/26/sophia-the-humanoid-robot-will-be-rolled-out-this-year-potentially-replacing-workers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6010260bc7ace6371462f7ef%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jackkelly/2021/01/26/sophia-the-humanoid-robot-will-be-rolled-out-this-year-potentially-replacing-workers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2021/01/26/sophia-the-humanoid-robot-will-be-rolled-out-this-year-potentially-replacing-workers/amp/",
+      "publishedDateTime": "2021-01-26T06:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1406,49 +1458,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-how-to-train-a-robot-using-ai-and-supercomputers.md",
-      "title": "How to train a robot (using AI and supercomputers)",
-      "excerpt": "Computer scientists developed a deep learning method to create realistic objects for virtual environments that can be used to train robots. The researchers used TACC's Maverick2 supercomputer to train the generative adversarial network.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2021/01/210119194329.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2021/01/210119194329.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-19T17:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

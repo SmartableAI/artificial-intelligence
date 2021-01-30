@@ -90,6 +90,20 @@ related:
         width: 1080
         height: 689
         isCached: true
+  - title: "Microsoft Corp. (NASDAQ: MSFT) Acquires Stake in Self-Driving EV Venture"
+    excerpt: "Microsoft Corp. (NASDAQ: MSFT), a company primarily known for developing, manufacturing, licensing and selling computer software, electronics and personal computers, has announced that it has strategically teamed up with General Motors Co."
+    publishedDateTime: 2021-01-30T02:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/microsoft-corp-nasdaq-msft-acquires-stake-in-self-driving-ev-venture-2021-01-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 70
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Top marketing intelligence firm 10th Man uses Microsoft’s Azure cloud to unlock the power of data"
     excerpt: "Man, a leading UK marketing intelligence company and data-driven innovator, is using Microsoft’s data tools to provide fast and accurate information to some of the world’s biggest brands. Headquartered in London,"
     publishedDateTime: 2021-01-27T10:40:00Z

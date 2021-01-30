@@ -25,101 +25,79 @@ images:
     isCached: true
 
 related:
-  - title: "\"Thousands\" of Sophia the robot units to be sold to help people cope with COVID-19"
-    excerpt: "The Hong Kong-based maker of Sophia the robot plans to sell thousands of units amid the ongoing COVID-19 pandemic in 2021."
-    publishedDateTime: 2021-01-25T09:42:00Z
-    webUrl: "https://sea.mashable.com/tech/14213/thousands-of-sophia-the-robot-units-to-be-sold-to-help-people-cope-with-covid-19"
-    ampWebUrl: "https://sea.mashable.com/tech/14213/thousands-of-sophia-the-robot-units-to-be-sold-to-help-people-cope-with-covid-19?amp=1"
-    cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/14213/thousands-of-sophia-the-robot-units-to-be-sold-to-help-people-cope-with-covid-19?amp=1"
+  - title: "New machine learning model predicts COVID-19 severity"
+    excerpt: "COVID-19 vaccine distribution has begun across the globe, while many countries are still struggling with the rampant rise of infections."
+    publishedDateTime: 2021-01-29T04:06:00Z
+    webUrl: "https://www.news-medical.net/news/20210128/New-machine-learning-model-predicts-COVID-19-severity.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210128/New-machine-learning-model-predicts-COVID-19-severity.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210128/New-machine-learning-model-predicts-COVID-19-severity.aspx"
     type: article
     provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 83
-    images:
-      - url: "https://sm.mashable.com/t/mashable_sea/photo/default/sophia-the-robot_1typ.620.png"
-        width: 620
-        height: 310
-        isCached: true
-  - title: "Sophia—The Humanoid Robot—Will Be Rolled Out This Year Potentially Replacing Workers"
-    excerpt: "Hanson Robotics, the company behind Sophia, plans to mass produce robots this year to help people during the pandemic. The Hong Kong-based company contends that the human-like robots can “replace workers across industries."
-    publishedDateTime: 2021-01-26T14:54:00Z
-    webUrl: "https://www.forbes.com/sites/jackkelly/2021/01/26/sophia-the-humanoid-robot-will-be-rolled-out-this-year-potentially-replacing-workers/"
-    ampWebUrl: "https://www.forbes.com/sites/jackkelly/2021/01/26/sophia-the-humanoid-robot-will-be-rolled-out-this-year-potentially-replacing-workers/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2021/01/26/sophia-the-humanoid-robot-will-be-rolled-out-this-year-potentially-replacing-workers/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 82
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6010260bc7ace6371462f7ef%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Sophia the robot could arrive in airports and shops across UK"
-    excerpt: "The company behind a life-size robot that uses artificial intelligence to hold conversations with humans is set to begin a mass rollout of the devices later this year as the pandemic increases demand for robots."
-    publishedDateTime: 2021-01-25T13:40:00Z
-    webUrl: "https://www.telegraph.co.uk/technology/2021/01/25/sophia-robot-could-arrive-airports-shops-across-uk/"
-    ampWebUrl: "https://www.telegraph.co.uk/technology/2021/01/25/sophia-robot-could-arrive-airports-shops-across-uk/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2021/01/25/sophia-robot-could-arrive-airports-shops-across-uk/amp/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 74
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/technology/2018/09/19/TELEMMGLPICT000143394584_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg"
-        width: 2501
-        height: 1563
-        isCached: true
-  - title: "Every household will have a Sophia robot by end of the year"
-    excerpt: "HONG KONG: \"Social robots like me can take care of the sick or elderly,\" Sophia says as she conducts a tour of her lab in Hong Kong. \"I can help communicate, give therapy and prov"
-    publishedDateTime: 2021-01-25T12:11:00Z
-    webUrl: "https://economictimes.indiatimes.com/magazines/panache/every-household-will-have-a-sophia-robot-by-end-of-the-year/articleshow/80446907.cms"
-    ampWebUrl: "https://m.economictimes.com/magazines/panache/every-household-will-have-a-sophia-robot-by-end-of-the-year/amp_articleshow/80446907.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/every-household-will-have-a-sophia-robot-by-end-of-the-year/amp_articleshow/80446907.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
+      name: News Medical
+      domain: news-medical.net
     quality: 59
     images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-581650,msid-80447425/hanson-robotics-said-four-models-including-sophia-would-start-rolling-out-of-factories-in-the-first-half-of-2021-.jpg"
-        width: 600
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/1/CT_machine_is_prepared_for_the_patient_shooting-sfam_photo_698c003ae3d54b69bf4c077708d403e4-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
+  - title: "Machine learning tool predicts respiratory failure in COVID-19 patients"
+    excerpt: "In an effort to expedite care for coronavirus disease 2019 (COVID-19) patients upon hospital admission, a team at The Feinstein Institutes for Medical Research has developed a machine learning (ML) artificial intelligence (AI) powered clinical predictive tool that can accurately assess patients for the risk of respiratory failure within 48 hours."
+    publishedDateTime: 2021-01-29T07:59:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/science-technology-diseases-and-conditions-medical-technology-lung-disease-1b94a3d69e2541ee8e9d75b2cfb03f8f"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
         height: 450
         isCached: true
-  - title: "Feeling Lonely! Sophia The Robot For Android Company"
-    excerpt: "With her lifelike face and unusual sense of humour, Sophia the robot is one of the most famous androids around the world."
-    publishedDateTime: 2021-01-26T00:33:00Z
-    webUrl: "https://www.albawaba.com/editors-choice/feeling-lonely-sophia-robot-android-company-1407106"
-    ampWebUrl: "https://www.albawaba.com/amp/editors-choice/feeling-lonely-sophia-robot-android-company-1407106"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/editors-choice/feeling-lonely-sophia-robot-android-company-1407106"
+  - title: "Machine Learning, Real-Time Data App Rates COVID-19 Exposure Risk"
+    excerpt: "A new app leverages machine learning and real-time data to provide location-based risk assessments of COVID-19 exposure."
+    publishedDateTime: 2021-01-27T18:01:00Z
+    webUrl: "https://healthitanalytics.com/news/machine-learning-real-time-data-app-rates-covid-19-exposure-risk"
     type: article
     provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 59
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
     images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2021-01/http___cdn.cnn_.com_cnnnext_dam_assets_181024140824-sophia-robot-5.jpg?itok=GPHUetsv"
-        width: 727
-        height: 485
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/Apps_and_Software.jpg"
+        width: 690
+        height: 400
         isCached: true
-  - title: "Makers of Sophia the robot plan to produce THOUSANDS of lifelike droids by the end of 2021 to provide company for people who are lonely and socially isolated during Covid-19 ..."
-    excerpt: "Hong Kong-based Hanson Robotics, the firm behind the famous humanoid robot, Sophia, has revealed that four models, including Sophia, will be mass-produced this year."
-    publishedDateTime: 2021-01-25T10:35:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-9182767/Makers-Sophia-robot-plan-mass-rollout-amid-pandemic.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9182767/amp/Makers-Sophia-robot-plan-mass-rollout-amid-pandemic.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9182767/amp/Makers-Sophia-robot-plan-mass-rollout-amid-pandemic.html"
+  - title: "Study provides first real-world evidence of COVID-19 contact tracing app effectiveness"
+    excerpt: "An international research collaboration, involving scientists from the UK, US and Spain, has shed new light on the usefulness of digital contact tracing (DCT) to control the spread of COVID-19."
+    publishedDateTime: 2021-01-26T17:41:00Z
+    webUrl: "https://medicalxpress.com/news/2021-01-real-world-evidence-covid-contact-app.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-01-real-world-evidence-covid-contact-app.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-01-real-world-evidence-covid-contact-app.amp"
     type: article
     provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 6
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 36
     images:
-      - url: "https://i.dailymail.co.uk/1s/2021/01/25/09/38442136-0-image-a-5_1611567714629.jpg"
-        width: 636
-        height: 382
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/2-app.jpg"
+        width: 2880
+        height: 1920
+        isCached: true
+  - title: "Integrating deep learning CT-scan model, biological and clinical variables to predict severity of COVID-19 patients"
+    excerpt: "The SARS-COV-2 pandemic has put pressure on intensive care units, so that predicting severe deterioration early is a priority. Here, the authors develop a multimodal severity score including clinical and imaging features that has significantly improved prognostic performance in two validation datasets compared to previous scores."
+    publishedDateTime: 2021-01-27T11:39:00Z
+    webUrl: "https://www.nature.com/articles/s41467-020-20657-4"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 17
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-020-20657-4/MediaObjects/41467_2020_20657_Fig1_HTML.png"
+        width: 685
+        height: 378
         isCached: true
 
 secured: "fN10mePLLH7ruXXUaPKUVTbPPp+uS+LnRXHTXN4QnNXwI2PnuscNMxGhh24EjFaTIrUhNeUniHkVdOqSt3MM1glU9e0eVRLKMoJ4+dyffDo6N+FifzjRTj8sii9U1Djc2Ef1HPQTcs4zn0XcVLScVNgJM2DbosXEpwvYHZA+5zNuicFbHp1c689tDeJ5a4+yJNwbS25gX1H6RoC147Ql9H+FAihPaLmhbtvNJjZsj1reBdtibeCyX+7nLZx5H+Q16taNvvTklIpeVoyWoaHDvqSqV+CC75PAPIoGkixRJYLImrn+seFWysMUVI61iqdPgKxzPEZUKDAtZiJN5EIizgi91wX4VZQldguvoOMqcIw5y3rp/U9tBEtkfJ5VXD5/g5TC0C1hPSXSUyNWWUwiQ29Z42raNUw2XEx/OjZQBe0OJbnU31gAOfUA+pjBAk6NEG+Pu5VW7O26qR+zNiSHXWaavSNZhVT1NnNLnpBH6gVyP9PKCmVNVV5IMlB/MRuamcP75HyQQ/vh7urHcorRzw==;iIRAG8XG4wm0STJrID9Dig=="

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-30-op-ed-gamestops-costly-financial-lesson-for-retail-investors.md",
+      "title": "Op-ed: Gamestop's costly financial lesson for retail investors",
+      "excerpt": "Retail investors buying frenzy for Gamestop shares resulted in $10 billion in losses when Robinhood halted trading in the stock. It was a costly lesson.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/01/29/op-ed-gamestops-costly-financial-lesson-for-retail-investors.html",
+      "originalUrl": "https://www.cnbc.com/2021/01/29/op-ed-gamestops-costly-financial-lesson-for-retail-investors.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105079975-GettyImages-547017701.jpg?v=1532563666",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/01/29/op-ed-gamestops-costly-financial-lesson-for-retail-investors.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/29/op-ed-gamestops-costly-financial-lesson-for-retail-investors.html",
+      "publishedDateTime": "2021-01-29T17:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-30-minneapolis-st-paul-airport-gets-facial-recognition-tech.md",
       "title": "Minneapolis-St. Paul Airport gets facial recognition Tech",
       "excerpt": "St. Paul Airport gets facial recognition Tech (TNS) - New facial recognition technology to speed international travelers",
@@ -601,7 +653,7 @@
       "originalUrl": "https://www.itpro.co.uk/cloud/microsoft-azure/358472/confluent-strengthens-strategic-alliance-with-microsoft",
       "featuredContent": null,
       "highlight": null,
-      "heat": 229,
+      "heat": 239,
       "tags": null,
       "images": [
         {
@@ -1075,7 +1127,7 @@
       "originalUrl": "https://www.news-medical.net/news/20210128/New-machine-learning-model-predicts-COVID-19-severity.aspx",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1158,48 +1210,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-25-billion-japanese-ai-startup-taps-vietnam-market.md",
-      "title": "$2.5 billion Japanese AI startup taps Vietnam market",
-      "excerpt": "AI inside, a $2.5-billion Japanese artificial intelligence startup, has entered Vietnam through a partnership with a local company as part of its global expansion strategy.",
-      "sourceUrl": null,
-      "webUrl": "https://e.vnexpress.net/news/business/companies/2-5-billion-japanese-ai-startup-taps-vietnam-market-4227973.html",
-      "originalUrl": "https://e.vnexpress.net/news/business/companies/2-5-billion-japanese-ai-startup-taps-vietnam-market-4227973.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i-english.vnecdn.net/2021/01/28/01011024x57699161611205229-161-8312-4257-1611824746_680x0.png",
-          "width": 680,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://ampe.vnexpress.net/news/business/companies/2-5-billion-japanese-ai-startup-taps-vietnam-market-4227973.html",
-      "cdnAmpWebUrl": "https://ampe-vnexpress-net.cdn.ampproject.org/c/s/ampe.vnexpress.net/news/business/companies/2-5-billion-japanese-ai-startup-taps-vietnam-market-4227973.html",
-      "publishedDateTime": "2021-01-28T18:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VN Express",
-        "domain": "vnexpress.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

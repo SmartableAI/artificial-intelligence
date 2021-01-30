@@ -123,22 +123,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Elon Musk gives replay to Waymo boss for doubting Tesla's full self-driving system"
-    excerpt: "Tesla CEO Elon Musk has countered recent remarks by CEO of Google’s self-driving unit Waymo that Tesla has taken a misguided approach to develop..|News Track"
-    publishedDateTime: 2021-01-25T10:05:00Z
-    webUrl: "https://english.newstracklive.com/news/elon-musk-gives-replay-to--waymo-boss-for-doubting-teslas-full-selfdriving-system-sc73-nu272-ta272-1142749-1.html"
-    ampWebUrl: "https://english.newstracklive.com/ampnews/elon-musk-gives-replay-to--waymo-boss-for-doubting-teslas-full-selfdriving-system-sc73-nu272-ta272-1142749-1.html"
-    cdnAmpWebUrl: "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/elon-musk-gives-replay-to--waymo-boss-for-doubting-teslas-full-selfdriving-system-sc73-nu272-ta272-1142749-1.html"
-    type: article
-    provider:
-      name: News Track
-      domain: newstracklive.com
-    quality: 68
-    images:
-      - url: "https://media.newstracklive.com/uploads/automobile-news/cars-news/Jan/25/big_thumb/jhjg_600e96985eb90.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Waymo chief says Tesla's 'not a competitor at all' on self-driving cars"
     excerpt: "\"We manufacture a completely autonomous driving system,\" Waymo CEO John Krafcik told an interviewer. \"Tesla is an automaker that is developing a really good driver assistance system.\""
     publishedDateTime: 2021-01-25T12:00:00Z
