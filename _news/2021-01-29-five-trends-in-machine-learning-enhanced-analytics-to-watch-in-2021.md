@@ -25,19 +25,30 @@ images:
     isCached: true
 
 related:
-  - title: "Top robotics trends for engineering students in 2021"
-    excerpt: "If you want to earn your degree in robotics engineering, then you’ll need to take a close look at the direction of the industry’s growth and choose a specialization. A general skillset"
-    publishedDateTime: 2021-01-25T12:16:00Z
-    webUrl: "https://roboticsandautomationnews.com/2021/01/25/top-robotics-trends-for-engineering-students-in-2021/39881/"
+  - title: "TraQiQ makes big bet on Machine learning by acquiring Kringle, Leader in Loyalty, Rewards and Data analytics."
+    excerpt: "Ajay Sikka, CEO of TraQiQ said “Bringing the Kringle product suite and team into the TraQiQ family will allow us to provide a seamless solution for the post COVID hyper-digital, Contactless economy by integrating Kringle’s mobile and web products for end-to-end digital commerce solutions”."
+    publishedDateTime: 2021-01-26T15:04:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/traqiq-makes-big-bet-on-machine-learning-by-acquiring-kringle-leader-in-loyalty-rewards-and-data-analytics-1030004935"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/TraQiQ-makes-big-bet-on-Machine-learning-by-acquiring-Kringle-Leader-in-Loyalty-Rewards-and-Data-analytics-1030004935"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/TraQiQ-makes-big-bet-on-Machine-learning-by-acquiring-Kringle-Leader-in-Loyalty-Rewards-and-Data-analytics-1030004935"
     type: article
     provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 54
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 52
+  - title: "TraQiQ makes big bet on Machine learning by acquiring Kringle, Leader in Loyalty, Rewards and ..."
+    excerpt: "(OTC QB:  TRIQ) (the “Company” or “TraQiQ”), a FinTech company delivering deeply targeted technology solutions for customer management, transaction management & fulfillment announced today that it has acquired Rohuma LLC,"
+    publishedDateTime: 2021-01-27T08:06:00Z
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-ownership-changes-8cd1353b901bd5d291a004d82b637143"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 28
     images:
-      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2021/01/robotics-students.jpg"
-        width: 750
-        height: 500
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "PRs0w5bgQ26ThHpbJ6LPBT0W+O0sqEEDVCclxSKL5j+vC9RpXf4RmNQH6KRfavgtXNWyMr3saPC6IXwLO2rUaGh+2FtD4AM9BftaA8p4SLwWAEu4z5kGctwKdNbdk5ogrWON6Q8DEXxxDCBxluazdYqjHHiOA3bKBCAERlxRw719x0CIe6KFL7xrw3EiiXAIEk273rKSyZmTuwBamdtSkQjAfan659kGZBdfSJ7+RDO7AbUPmMLV+jbRTGB5e31Hur4PyPmZK/FcYhDdfT8++7a8uHAiHjYEWyTUvSg2DrGAb3vv3eQz3pAsZjDLgo27N+49iv9S8mkpPSvd8xIU2Dsj6hlHkmC22MnY+T37+z0=;Ojg8sJvmFjBocpWFavHt1g=="

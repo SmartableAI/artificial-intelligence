@@ -122,20 +122,6 @@ related:
         width: 768
         height: 512
         isCached: true
-  - title: "Microsoft Tweaks Data-for-AI Policy After Big Tech Voice Data Collection Controversies"
-    excerpt: "Users of Microsoft Translator and Skype can now opt out of having their voice clips used to improve speech recognition AI."
-    publishedDateTime: 2021-01-25T11:03:00Z
-    webUrl: "https://slator.com/industry-news/microsoft-tweaks-data-for-ai-policy-after-big-tech-voice-data-collection-controversies/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 48
-    images:
-      - url: "https://slator.com/assets/2021/01/Microsoft-Language-Data-Policy-Change-for-Translation-and-Machine-Translation.png"
-        width: 600
-        height: 400
-        isCached: true
   - title: "buyMyplace reimagines real estate with Microsoft"
     excerpt: "Real estate disruptor, buymyplace, is launching a fully automated version of its platform that empowers Australian property owners to sell their property privately, putting them in charge of the sale of their home from go-to-whoa and cuts out the middle man."
     publishedDateTime: 2021-01-27T21:35:00Z

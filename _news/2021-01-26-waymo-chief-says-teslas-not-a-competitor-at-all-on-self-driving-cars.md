@@ -133,17 +133,6 @@ related:
         width: 4800
         height: 2895
         isCached: true
-  - title: "Waymo chief says Tesla's 'not a competitor at all' on self-driving cars"
-    excerpt: "\"We manufacture a completely autonomous driving system,\" Waymo CEO John Krafcik told an interviewer. \"Tesla is an automaker that is developing a really good driver assistance system.\""
-    publishedDateTime: 2021-01-25T12:00:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/01/25/waymo-chief-dismisses-tesla-as-competitor.html"
-    ampWebUrl: "https://www.bizjournals.com/sanjose/news/2021/01/25/waymo-chief-dismisses-tesla-as-competitor.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2021/01/25/waymo-chief-dismisses-tesla-as-competitor.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 54
   - title: "Musk says Tesla beats Waymo in self-driving technology after Krafcik criticizes it"
     excerpt: "Musk says Tesla beats Waymo in self-driving technology after Krafcik criticizes it FBN's Liz Claman interviews Waymo CEO John Krafcik"
     publishedDateTime: 2021-01-26T02:12:00Z

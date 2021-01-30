@@ -37,6 +37,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 52
+  - title: "Five trends in machine learning-enhanced analytics to watch in 2021"
+    excerpt: "AI usage is growing rapidly. What exactly does 2021 hold for the world of analytics, and how will AI drive it?"
+    publishedDateTime: 2021-01-29T14:33:00Z
+    webUrl: "https://www.information-age.com/five-trends-machine-learning-enhanced-analytics-watch-2021-123493559/"
+    type: article
+    provider:
+      name: Information Age
+      domain: information-age.com
+    quality: 39
+    images:
+      - url: "https://s27389.pcdn.co/wp-content/uploads/2021/01/five-trends-machine-learning-enhanced-analytics-watch-2021.jpeg"
+        width: 1080
+        height: 634
+        isCached: true
 
 secured: "TUfKtDB5ws51+pXguoBUOeGa3XavwURGESwaOBVG7Uf+pHpPvARZ4OupBZxqR8ykoIO7YHUU2zYyQgO2uKDJ7fha8otCEO8S6ohbmYGokfmbTopXdJvowuoTn+Logu/Nrvgk2TBDyaqk7W77XNKsyBxBK9Vn6iSGC9NMVRP0MGNagFsTmlpMv6YFFiKttZU0q66uvXX6IHtgYihWrEnsz66jhOC9pKLJOi8CB6RBz2AHVWseyXm/B/h/FjxWZxuIR1xEQrWcIRFjZRzhrbSBAceKweQVZmU8wuqNTWdz4M/MdG8Mwew5wyATB3qPbaSQFP8ZkDss71oaX2JV7LO6pjRJWygGSLviq2Xa3ru2/9Q=;9Vqqz84cDVXYRYBuSi6JGg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/elon-musk-waymo-ceo-self-driving-aut
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-waymo-ceo-self-driving-autopilot-2021-1?amp"
 type: article
 quality: 183
-heat: 273
+heat: 263
 published: true
 
 provider:
@@ -123,17 +123,6 @@ related:
         width: 4800
         height: 2895
         isCached: true
-  - title: "Waymo chief says Tesla's 'not a competitor at all' on self-driving cars"
-    excerpt: "\"We manufacture a completely autonomous driving system,\" Waymo CEO John Krafcik told an interviewer. \"Tesla is an automaker that is developing a really good driver assistance system.\""
-    publishedDateTime: 2021-01-25T12:00:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/01/25/waymo-chief-dismisses-tesla-as-competitor.html"
-    ampWebUrl: "https://www.bizjournals.com/sanjose/news/2021/01/25/waymo-chief-dismisses-tesla-as-competitor.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2021/01/25/waymo-chief-dismisses-tesla-as-competitor.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 54
   - title: "Waymo chief says Tesla's 'not a competitor at all' on self-driving cars"
     excerpt: "Tesla Inc. is going down the wrong road to autonomous vehicles and is \"not a competitor at all\" to Alphabet Inc.'s Waymo self-driving unit. That's what Waymo CEO John Krafcik told Germany's Manager Magazin in an article published last week. “It is a ..."
     publishedDateTime: 2021-01-25T16:53:00Z

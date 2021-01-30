@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/computer-vision-in-healt
 webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-outlook-by-industry-size-share-revenue-regions-and-top-key-players-analysis-2021-01-25"
 type: article
 quality: 64
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -99,22 +99,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Far Field Speech Voice Recognition Market Size, Industry Trends, Leading Players, Share and Forecast 2019-2025"
-    excerpt: "The global far field voice and speech recognition market size is expected to grow at a CAGR of 24 56 during the forecast period Long distance speech recognition is an essential technology for voice interaction and aims to enable smart"
-    publishedDateTime: 2021-01-25T12:54:00Z
-    webUrl: "https://www.openpr.com/news/2230781/far-field-speech-voice-recognition-market-size-industry"
-    ampWebUrl: "https://www.openpr.com/amp/2230781/far-field-speech-voice-recognition-market-size-industry"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2230781/far-field-speech-voice-recognition-market-size-industry"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 24
-    images:
-      - url: "https://cdn.openpr.com/U/1/U125249135_g.jpg"
-        width: 630
-        height: 400
         isCached: true
   - title: "Technology Innovations and Virtual Consultations Drive the Healthcare Industry Transformation by 2025"
     excerpt: "Frost & Sullivan's recent analysis, Vision 2025—Rising Healthcare Expenditures and Disproportionate Improvement in Patient Outcomes"

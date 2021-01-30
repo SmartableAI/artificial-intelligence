@@ -9,7 +9,7 @@ ampWebUrl: "https://techwireasia.com/amp/2021/01/which-country-leads-the-innovat
 cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/01/which-country-leads-the-innovation-charge-in-ai-research/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "US leads race in artificial intelligence as China rises to the top - survey"
-    excerpt: "The United States is leading rivals in development and use of artificial intelligence while China is rising quickly and European Union is lagging, a research report showed Monday."
-    publishedDateTime: 2021-01-25T11:22:00Z
-    webUrl: "https://www.iol.co.za/technology/software-and-internet/us-leads-race-in-artificial-intelligence-as-china-rises-to-the-top-survey-3fb0c1fa-aab4-49bd-a1c5-731850f8529b"
-    ampWebUrl: "https://www.iol.co.za/amp/technology/software-and-internet/us-leads-race-in-artificial-intelligence-as-china-rises-to-the-top-survey-3fb0c1fa-aab4-49bd-a1c5-731850f8529b"
-    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/software-and-internet/us-leads-race-in-artificial-intelligence-as-china-rises-to-the-top-survey-3fb0c1fa-aab4-49bd-a1c5-731850f8529b"
-    type: article
-    provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 55
-    images:
-      - url: "https://image-prod.iol.co.za/resize/1280x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/fb718a16-caa7-5490-8675-dcef913ff589&operation=CROP&offset=0x67&resize=1280x720"
-        width: 651
-        height: 366
-        isCached: true
   - title: "US Leading Race In Artificial Intelligence, China Rising: Survey"
     excerpt: "The United States is leading rivals in development and use of artificial intelligence while China is rising quickly and the European Union is lagging, a research report showed Monday. The study by the Information Technology and Innovation Foundation assessed AI using 30 separate metrics including human talent,"
     publishedDateTime: 2021-01-25T14:17:00Z

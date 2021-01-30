@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Baidu gets California nod for testing empty self-driving cars"
+    excerpt: "Baidu Inc has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor Vehicles said on Wednesday."
+    publishedDateTime: 2021-01-28T02:37:00Z
+    webUrl: "https://www.reuters.com/article/us-baidu-autonomous-idUSKBN29W2OT"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29W2OT"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29W2OT"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210127&t=2&i=1549286737&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0Q1KU"
+        width: 817
+        height: 545
+        isCached: true
   - title: "UPDATE 1-Baidu gets California nod for testing empty self-driving cars"
     excerpt: "Baidu Inc has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor Vehicles said on Wednesday."
     publishedDateTime: 2021-01-28T02:37:00Z
@@ -131,17 +147,6 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "Baidu gets California nod for testing empty self-driving cars"
-    excerpt: "OAKLAND — Baidu Inc has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state’s Department of Motor Vehicles said on Wednesday."
-    publishedDateTime: 2021-01-27T21:41:00Z
-    webUrl: "https://nationalpost.com/pmn/technology-pmn/baidu-gets-california-nod-for-testing-empty-self-driving-cars"
-    ampWebUrl: "https://nationalpost.com/pmn/technology-pmn/baidu-gets-california-nod-for-testing-empty-self-driving-cars/wcm/d15c9ea4-b1e6-4af0-8483-a093f259084b/amp/"
-    cdnAmpWebUrl: "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/pmn/technology-pmn/baidu-gets-california-nod-for-testing-empty-self-driving-cars/wcm/d15c9ea4-b1e6-4af0-8483-a093f259084b/amp/"
-    type: article
-    provider:
-      name: National Post
-      domain: nationalpost.com
-    quality: 39
   - title: "California OKs China’s Baidu for Testing Self-Driving Cars Without Driver"
     excerpt: "Baidu Inc. has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor"
     publishedDateTime: 2021-01-28T17:34:00Z

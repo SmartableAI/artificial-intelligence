@@ -2,26 +2,27 @@
 category: news
 title: "Machine learning tool predicts respiratory failure in COVID-19 patients"
 excerpt: "In an effort to expedite care for coronavirus disease 2019 (COVID-19) patients upon hospital admission, a team at The Feinstein Institutes for Medical Research has developed a machine learning (ML) artificial intelligence (AI) powered clinical predictive tool that can accurately assess patients for the risk of respiratory failure within 48 hours."
-publishedDateTime: 2021-01-29T07:59:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/science-technology-diseases-and-conditions-medical-technology-lung-disease-1b94a3d69e2541ee8e9d75b2cfb03f8f"
-webUrl: "https://apnews.com/press-release/business-wire/science-technology-diseases-and-conditions-medical-technology-lung-disease-1b94a3d69e2541ee8e9d75b2cfb03f8f"
+publishedDateTime: 2021-01-28T19:18:00Z
+originalUrl: "https://www.globalbankingandfinance.com/category/news/machine-learning-tool-predicts-respiratory-failure-in-covid-19-patients/"
+webUrl: "https://www.globalbankingandfinance.com/category/news/machine-learning-tool-predicts-respiratory-failure-in-covid-19-patients/"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: List of Banks in Belarus
+  domain: globalbankingandfinance.com
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
+  - Machine Learning
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
+    width: 1000
+    height: 600
     isCached: true
 
 related:
@@ -100,6 +101,6 @@ related:
         height: 378
         isCached: true
 
-secured: "3orZu3+8DVGt33yAJagaDX2/2ghLoCMxPFHdHAGwF/TO98lPm9eJcyUWQ0j+SEv1rXFwiq8xiju8OwsX4Gp1ItO3smvvfxgO13P9tuHr0fp+5uDn4ijdA4/onRbKwoJeROLqR8Bf/jgNIgJoHeZtI/QYquAAq7+OaxKcXsxBm7UUlbXnVovi450oXivxqKDKCGfv+Jj4uFxCWH6vY+LSMgD6QpEXLQ4F9RISDXm+QyAcD1Jer7QXsUmhPCd5WCkQNuNUCJJuZ5+RiiTAmDp6nBEeygH/RWqu3s/ABRLDGo2FOi19XTsbqFwoE+5K2Ntm4gGsq/wSPMv1DqXUDTzKuAHmhJxso7rmNejD58+TFFE=;w2HqVZf8L7TGDi15LbRjXA=="
+secured: "wbeD29W0THP9CrmJzcNrONWSOjwFZCRJLVfekvqEYwjKabSdGWFd2dtpLY8TVKImim+Huch/X+zT2GP8GYznwZ672cp3BgL5Ek2v725R678VR3J0B3dkIneY/vYcfro5YkdeQgVmZN4KKUg1rl7wjjZ0QSsTiT+KkbhVgEWhyxP4l+bb/OkZci/n9FZCg4VnqI8UDwSuKD2STyWH9d7ncKHiY5oJY8Pr3JjYmuY5hhxJt2B1mrSJDNoiTKmkNgSrVKDqMM0WTkmxA/c7kHyyYppJZTUPWgYvUKNoQjUPkH9JZuvwc4T9gQbv6LJnSy5XQtMxtUeNq+x2x8hqIYlP2n11XzkCx2OtmQn8WDA12PQ=;j8HD7jNayvoi9zsiePXZiw=="
 ---
 

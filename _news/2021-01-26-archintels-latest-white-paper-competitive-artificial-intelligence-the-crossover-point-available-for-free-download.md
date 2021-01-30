@@ -23,22 +23,6 @@ images:
     height: 270
     isCached: true
 
-related:
-  - title: "ArchIntel Releases ‘Competitive Artificial Intelligence: The Crossover Point’ White Paper"
-    excerpt: "ArchIntel, a leading provider of concise actionable open source market and competitive intelligence (CI) reports to business leaders across the federal sector, has released “Competitive Artificial Intelligence: The Crossover Point,” the platform’s ..."
-    publishedDateTime: 2021-01-25T11:12:00Z
-    webUrl: "https://www.govconwire.com/2021/01/archintel-releases-competitive-artificial-intelligence-the-crossover-point-white-paper/"
-    type: article
-    provider:
-      name: GovCon Wire
-      domain: govconwire.com
-    quality: 28
-    images:
-      - url: "https://govconwire-media.s3.amazonaws.com/2021/01/25/3f/42/ee/85/17/e4/d1/b4/a0I4y00000Pj7oXEAR-archintel_20200527.png"
-        width: 272
-        height: 270
-        isCached: true
-
 secured: "MXHVs8d8fT55Bx/NqbMkDx/k4MM/lzJTXP4cKMhMKd6tmOTXe+I+agRCaxk9aINkIOtKj9gVXTa65tsLNrap6BEOPKzGcjlQU81Tcv3oCMnydRRdDPjR4Dyh9jKsfLGK+K+3e3j4mZi5lE7TQ7UxK/QcYrCcgPXSASygCKL/huvVu9w13UIiqF76uGBS0CNLAOOwXut3O1+QQj7Qewt+/kx/1Dh7XZo0pwrf0lZ9ETyxjEpzqf3/utRFHJZXfiC9yc+C71thCWw3RFTG5HsLlIykFM7QnZ3uhD+gUFjYlWYE+agxAATogS8HebjHQ6+HftxqYU14avQb8JUxjHPv3TuEB8OLw91IQCc7QiHziCYszwMhh5x1u2UxqdHQwfcaU8sF1ALvIpAUSd9ugnMI8WLg6b/mGD0sLs9HKmWMS8/Gd6JJFpI0tINuSeeNQOvFFFB7JZdPQRBz85L9FlR6cjdqV9Oi3l3QZavKfI7NNyKqJYlno1a3ul5CKQd3AbQg/LO6A5zcqhWBbHtm8cEWyw==;m7ey9ZPpC4zZ+baRg56Uvw=="
 ---
 

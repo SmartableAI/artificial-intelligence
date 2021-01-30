@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jackkelly/2021/01/26/sophia-the-humanoi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2021/01/26/sophia-the-humanoid-robot-will-be-rolled-out-this-year-potentially-replacing-workers/amp/"
 type: article
 quality: 82
-heat: 132
+heat: 122
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://www.telegraph.co.uk/content/dam/technology/2018/09/19/TELEMMGLPICT000143394584_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg"
         width: 2501
         height: 1563
-        isCached: true
-  - title: "Every household will have a Sophia robot by end of the year"
-    excerpt: "HONG KONG: \"Social robots like me can take care of the sick or elderly,\" Sophia says as she conducts a tour of her lab in Hong Kong. \"I can help communicate, give therapy and prov"
-    publishedDateTime: 2021-01-25T12:11:00Z
-    webUrl: "https://economictimes.indiatimes.com/magazines/panache/every-household-will-have-a-sophia-robot-by-end-of-the-year/articleshow/80446907.cms"
-    ampWebUrl: "https://m.economictimes.com/magazines/panache/every-household-will-have-a-sophia-robot-by-end-of-the-year/amp_articleshow/80446907.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/every-household-will-have-a-sophia-robot-by-end-of-the-year/amp_articleshow/80446907.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-581650,msid-80447425/hanson-robotics-said-four-models-including-sophia-would-start-rolling-out-of-factories-in-the-first-half-of-2021-.jpg"
-        width: 600
-        height: 450
         isCached: true
   - title: "Humanoid robot Sophia to be mass produced by the end of 2021, capitalising on the pandemic-induced robot boom"
     excerpt: "As the pandemic creates a robotics boom, the creators of humanoid robot Sophia — who went viral in 2016 — are planning for mass production."

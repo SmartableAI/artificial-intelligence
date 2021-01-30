@@ -2,45 +2,23 @@
 category: news
 title: "Khoros Advances CX Leadership with Acquisition of AI & Machine Learning Leader Flow.ai"
 excerpt: "Khoros, a global leader in digital-first customer engagement software, today announced that it has acquired Flow.ai, an innovative conversational AI platform for designing and managing chatbots. Adding Flow."
-publishedDateTime: 2021-01-28T16:22:00Z
-originalUrl: "https://www.lelezard.com/en/news-19623009.html"
-webUrl: "https://www.lelezard.com/en/news-19623009.html"
+publishedDateTime: 2021-01-28T16:00:00Z
+originalUrl: "https://www.financialbuzz.com/khoros-advances-cx-leadership-with-acquisition-of-ai-machine-learning-leader-flow-ai/"
+webUrl: "https://www.financialbuzz.com/khoros-advances-cx-leadership-with-acquisition-of-ai-machine-learning-leader-flow-ai/"
 type: article
-quality: 48
-heat: 48
+quality: 28
+heat: 28
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - AI in Finance
   - AI
   - Machine Learning
 
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
-    isCached: true
-
-related:
-  - title: "C3 AI Reinvents No Code AI with the Introduction of C3 AI Ex Machina"
-    excerpt: "C3 AI (NYSE: AI), the world’s leading provider of enterprise AI software, today announced the general availability of C3 AI ® Ex Machina, a next-generation predictive analytics application that empowers anyone to develop,"
-    publishedDateTime: 2021-01-28T08:03:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-science-software-industry-information-technology-c0a360178f054d2dbf0c2d73dec9bea4"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-
-secured: "c1/MlAKKElJrK+TKmgw66oDaEZXAoA1iufBSWj03oDgM8A/srdI9LeZIiKdkg7ZlYj0Y1PkV3V8n1mOAP5RqXuTAMdmpvTtTxqT54+Y/BKjstPhcqCP382zqfGSy9LiwX93wNfn3QJvym2eJLbffBUgJhLhujCOV7PC7/7F16eS98uJelXpJBrZUqo1LCyzmVpo8y+rqXsVbgTdVIkZ7Nm9fPaJZG594fCZCoiiZcOQZy0fg4ovZnNCmM5BIGppfUQ9imnq0RwSFNGSh154jcRTmJ4qyarQzcu0Z+RF16cKy2/OIwTYoDAM/8Jeok8HCat5OBbkD1fXNl6/w3gMtcuqGp+UMNhBgc2f/8mYZsrM=;nsaIRP7sc3mpwO9ZWV6Dag=="
+secured: "dsBa5uLdxC3pCjrpFyYNI50Du8h8uw99WhLMkoFWxh1k6ROFf0/0Ap1cCHpFtAmGuYk/JPAdG3+8gvr5KdskMj5dhHjzSZ70Jmd2JE0axsD98+bI6wtBc/l6iD4w7GCuKOtWDdWcrBNMc1l8LTOOg/cNPXy5gOwrETG1VCty5wO2ehAbYfsfSwZvWoUw3wzbMHPohryPU7NOBjIBt/FvHhRsP29kbz8Uc5kIvwGBrgT4lKN4o8HH+kZWxhDfKMUhUYKc3HypgK95I06saTd8hENwsgU3r/+EcnZkd/0CHFroqPkTBDk3hvtcQH0Dz/ALzEDwd51MzTZDJDe90zQLIn26eJS5df59pKJXurhMX5E=;3Aqtajq04PfuihgB3AVP0w=="
 ---
 

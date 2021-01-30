@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "Colby College launches machine learning institute"
+    excerpt: "Colby's new Davis Institute for Artificial Intelligence will help students to incorporate artificial intelligence into their liberal arts education."
+    publishedDateTime: 2021-01-29T21:32:00Z
+    webUrl: "https://www.bostonglobe.com/2021/01/29/metro/colby-college-launches-machine-learning-institute/"
+    ampWebUrl: "https://www.bostonglobe.com/2021/01/29/metro/colby-college-launches-machine-learning-institute/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/01/29/metro/colby-college-launches-machine-learning-institute/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 39
   - title: "Colby College to start artificial-intelligence institute"
     excerpt: "A Maine college is working to establish an institute for artificial intelligence that it said would be the first of its kind at a liberal arts college. The Davis Institute for Artificial Intelligence will “provide new pathways for talented students and faculty to research,"
     publishedDateTime: 2021-01-29T15:36:00Z

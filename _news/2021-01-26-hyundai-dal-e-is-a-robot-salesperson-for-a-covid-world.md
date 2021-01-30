@@ -79,22 +79,6 @@ related:
         width: 1710
         height: 900
         isCached: true
-  - title: "Hyundai Motor Group Introduces Advanced Humanoid Robot ‘Dal-E’ for Automated Customer Services"
-    excerpt: "Hyundai Motor Group has launched the “DAL-e,” a highly advanced customer service robot that independently communicates with people using precise recogni"
-    publishedDateTime: 2021-01-25T12:33:00Z
-    webUrl: "https://www.albawaba.com/business/pr/hyundai-motor-group-introduces-advanced-humanoid-robot-‘dal-e’-automated-customer"
-    ampWebUrl: "https://www.albawaba.com/amp/business/pr/hyundai-motor-group-introduces-advanced-humanoid-robot-%E2%80%98dal-e%E2%80%99-automated-customer"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/hyundai-motor-group-introduces-advanced-humanoid-robot-%E2%80%98dal-e%E2%80%99-automated-customer"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 62
-    images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2021-01/DAL-e%20%281%29.jpg?itok=10v65UmZ"
-        width: 960
-        height: 640
-        isCached: true
   - title: "Hyundai launches humanoid robot ‘DAL-e’ for customer service"
     excerpt: "Hyundai Motor Group has launched the humanoid “DAL-e”, which it describes as a “highly advanced customer service robot” that independently communicates with people using precise recognition"
     publishedDateTime: 2021-01-26T09:55:00Z

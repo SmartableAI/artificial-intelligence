@@ -8,8 +8,8 @@ webUrl: "https://www.compsmag.com/blog/snapdragon-855-vs-a12-processor-which-one
 ampWebUrl: "https://www.compsmag.com/blog/snapdragon-855-vs-a12-processor-which-one-is-better/amp/"
 cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/blog/snapdragon-855-vs-a12-processor-which-one-is-better/amp/"
 type: article
-quality: 44
-heat: 44
+quality: 46
+heat: 46
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://cdn-stack.compsmag.com/wp-content/uploads/2021/01/Snapdragon-855-vs-A12-processor-which-one-is-better.jpg"
@@ -26,6 +27,6 @@ images:
     height: 320
     isCached: true
 
-secured: "c4lLqxaaR5jEUWeRISCxAlTnGQeDRZYC3mnhaXH5jHwVDyvxZsIF2RmOLOiu/PerUoKYb9j5UgBcBFxD9bs3mhM6wA7mW4Cq8XFQyhkwooUsgmB7E3J5fqyCOqe1TpI2acMVo6JY02BKJIJGjazuiMFNm1v+ANSpOlMUQDefpdRS6FAIvALfZpIFgygWMCWAhbFZaXqdkxdWkbmm7p9mx/sxca2+0by0zaev37mhVf4IiiGPM2DeNf1o9MaBeBcm+7dId5lvoHC7L0obQheUEMFb+O2x3q6u1PgCWK0VAqxqfbQtE2y/bUTvxYvo5Hk4V9XlVWoy1+hg+bqOxoiwr0owvEStIiiqgrc1/jCOewo=;OXxRQriXpEPKmpyNSYlVbA=="
+secured: "DjJK6WKreOZ72jMmNj/bPti0c6dz7MBo1Va1Pe3oa6TFQiUu4Qlf5jSeQLUTzNSiYlzgAVvu169+MzJcUz+cdNExoCt5b+zs4dbOEnLPg/YET6/sWNEPmEDDFyYe3CvyqrCNDp98HBTtewbWTJaJ5mS3jiQhs42BL4L2+CFJmbz1WNsWoZkEqNNPGJXKj5ACWlJOPopo5ApUQj4Kb29m/bW7fscVvSwAXZA8GeQuuJJbqhTTfcYOVv746Mw/POzugRhaoGbd4bWfpDeO9gzj5S2pxSSQNCJZR44NC/8uqfWGAffDzrE0z+W91Elpl7v6hNhrvkg4RLrKZkkmeuu5lLADHEd13DrswQD1vM8gJKIiBxA0riSuiPCSa0v1xSAfPJfLtIi9EPVo/zz5hakH6NCkOz/R32GRmPWTqXdmi5ERooJk8Rl+41eNMAYoNpU0ZtM/46ObdSXMO+/vprFVGZwXqMnlMycqqdbZADR8i7Exq9DjGkhJczFwwnBpH2y0wrLrPfiUoCSiXUcFkSwMDw==;PauQN3ABxWO5U1HwZWd8wQ=="
 ---
 

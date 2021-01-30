@@ -3,10 +3,10 @@ category: news
 title: "US, China or Europe? Here's who is really winning the global race for AI"
 excerpt: "A new report shows that in the ever-more competitive race for AI, the US has a strong lead that China is catching up with, while the EU is falling behind little by little."
 publishedDateTime: 2021-01-29T12:11:00Z
-originalUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai/"
-webUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai/"
-ampWebUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai/"
+originalUrl: "https://www.zdnet.com/article/us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai/"
+webUrl: "https://www.zdnet.com/article/us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai/"
 type: article
 quality: 86
 heat: -1
@@ -61,6 +61,6 @@ related:
         height: 486
         isCached: true
 
-secured: "ixngaeC/Nfx4bHNrz9vsWwWzfFLAlD9VkNyfSDhEOYKyVDMfP1lfXHCjJN+s3i9dgsO/PcRdiFUV8Mm6KtB4PuY+aV15BmO4x9WOsw22vu7JQvivycxWciJ1+EQ5DeuU9aOR5eROheugwul8HU/d6YcISwgkwuGbS+/lPfITtAbW+86V25cjGWQaabK8d5ZQOs+dMtzZXWJjw0yqI6+YeSMsmoUODSBJHZtUNxjW7Ef9NQLQJiEVSP+v/rXbnih0XLtHmhmrnKGqnHEexlgeESYyM0Bzo+LW4U9vzP23gRh+Mf4TrsVNnxyFVptI2O31kWOp7Me6zjn/t4XYc+4+af7AiSVfNIBallM+Xe42yks=;FNXrF5pqhJUa2qWYT+JftA=="
+secured: "5U05yXSgxhj4dFDED/Ya/OY6STufCdLYn01Fxof8oNeEICdLkcwQaGCpajpxU4z0KqAtYg1E3g+Afsrxc8o/TOolrNxzEZfX0wYPuhr0Z4U1HtB0zkxGaQCLXpjtgobNyymI2A5GN6XGRzsJ5KPxPZuox+7V1Ihrnt1oGb8Cx1IWVUUVkpGN3LvCyeKjaFR4Cp/I4H1ollAvthN+H/W7DLH2m88vZL7rKbV7ROUEjhr19rWDWfWkc9twy9CC4n/2A2OGc2WAv39KEaa4DL3TdsdnFR44bOoEOi/QmC3UyNznpozgZXMdSk+5o//BL+dgiWHgE357RUnm7yIcgG22pDpnDfPh+/oQjFRPlInBPTM=;9YCZueqQhfLDlVvsHNA3zw=="
 ---
 

@@ -35,17 +35,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "DRDO Online Courses 2021: DIAT offers Artificial Intelligence, Cyber Security courses on diat.ac.in-"
-    excerpt: "Defense Institute of Advanced Technology Start DIAT the registration process for DRDO Online Courses 2021 on Artificial Intelligence and Cyber ​​Security. The registration process for both courses would begin on the official January 28,"
-    publishedDateTime: 2021-01-25T12:47:00Z
-    webUrl: "https://www.compsmag.com/news/hacking/drdo-online-courses-2021-diat-offers-artificial-intelligence-cyber-security-courses-on-diat-ac-in/"
-    ampWebUrl: "https://www.compsmag.com/news/hacking/drdo-online-courses-2021-diat-offers-artificial-intelligence-cyber-security-courses-on-diat-ac-in/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/hacking/drdo-online-courses-2021-diat-offers-artificial-intelligence-cyber-security-courses-on-diat-ac-in/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 39
 
 secured: "8dBll0YrZnf7MJ7niiq/9PTNm9VYT2a1JgwL+yTJZ36jIAIWLQEHkhYInoUrxstcOkgKejM4oOHpn8r0V0hr+no7IAsm+ehSrItNQKBoIFhyhWfMNzGDR3CwGZ1LcnOQ7ZIQMiubVhxlaq3RsuH0cloQW5wpeIygJYUUBF7+sqtjwcIVRf5BfRSSqbMVqRtYCZn+e3o5j0wPcNvy2WuoGrcGlqHDeF0ESWvW7UAgEl3PfYvIdMNXj7VYPU2NePH4VoCexR1Db7EHZ1eZwIARiCKNkYBhzwh5e6U75vVG052FyImRteRJQ1aDsA4iYxqPP3SwuPZlCYDn18Hs6+RvOK4wmd30dRwC9hx0Bx5oa1E=;lKJbbdvmnVUWT06/0NLpcw=="
 ---

@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self Driving Trucks Market Analysis, Trends, Growth, Size, Share and Forecast 2020 to 2026"
-    excerpt: "Jan (Heraldkeepers) -- Self-driving truck market is an undergoing technology which can let trucks or freights to run on their own."
-    publishedDateTime: 2021-01-25T11:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-trucks-market-analysis-trends-growth-size-share-and-forecast-2020-to-2026-2021-01-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "Hz16cRyLrBi+QIdNTj9riobVEAb5s6/9hYcvvgFlrhZixNAhoPViYOXrQ4kreLqYQTRahH35zA6hLT3lY98vNqU0OBRwxQ8+im2bijo+UYO+9BdUcA4HfnlTOArSNS8qmTul4otr//N9SNMCwVWvQmnyjqhJO+05LHsTdTL/BCEg6CR1a7vdj7rvC0xhTZhe6Uv+JqNCHZHkqovTYcSTgVQB8fggpmdRt6D/yGuWziM0Nr22SCpFrVUgMgus7XChOQn2sKfBkCdIfKtUuE/MP2nanDm7DHqncKC115dtZDW7NIO2Os1we+SUvfgDnD/gnu/o295n7hvYq7DktFno5hYj4acCyPZrw1xjEclDsTg=;4DjqlECJk23kepgVfY8x8g=="
 ---

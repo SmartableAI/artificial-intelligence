@@ -57,22 +57,6 @@ related:
         width: 2501
         height: 1563
         isCached: true
-  - title: "Every household will have a Sophia robot by end of the year"
-    excerpt: "HONG KONG: \"Social robots like me can take care of the sick or elderly,\" Sophia says as she conducts a tour of her lab in Hong Kong. \"I can help communicate, give therapy and prov"
-    publishedDateTime: 2021-01-25T12:11:00Z
-    webUrl: "https://economictimes.indiatimes.com/magazines/panache/every-household-will-have-a-sophia-robot-by-end-of-the-year/articleshow/80446907.cms"
-    ampWebUrl: "https://m.economictimes.com/magazines/panache/every-household-will-have-a-sophia-robot-by-end-of-the-year/amp_articleshow/80446907.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/every-household-will-have-a-sophia-robot-by-end-of-the-year/amp_articleshow/80446907.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-581650,msid-80447425/hanson-robotics-said-four-models-including-sophia-would-start-rolling-out-of-factories-in-the-first-half-of-2021-.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Need a friend? Help's on the way, with eerily lifelike 'social robots' heading to market this year"
     excerpt: "So in that regard, it's hard to argue against utilizing robotics' ever-evolving practicality and realism for a little socializing during isolated times. That's certainly what Hanson Robotics is hoping for, as the company has big plans for a mass roll ..."
     publishedDateTime: 2021-01-25T20:20:00Z

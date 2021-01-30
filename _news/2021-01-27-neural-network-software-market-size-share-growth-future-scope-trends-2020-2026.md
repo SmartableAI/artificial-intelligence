@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/neural-network-software-
 webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-size-share-growth-future-scope-trends-2020-2026-2021-01-26"
 type: article
 quality: 63
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self Driving Trucks Market Analysis, Trends, Growth, Size, Share and Forecast 2020 to 2026"
-    excerpt: "Jan (Heraldkeepers) -- Self-driving truck market is an undergoing technology which can let trucks or freights to run on their own."
-    publishedDateTime: 2021-01-25T11:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-trucks-market-analysis-trends-growth-size-share-and-forecast-2020-to-2026-2021-01-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Robotics Market 2021 Analysis By Size & Share, Future Demands, Trends Evaluation, Business Growth Strategies and Forecast to 2024"
     excerpt: "Robotics Market Research Report - Global Forecast till 2024 Global Robotics Market Research Report: by type (SCARA, Cartesian, Articulated, Cylindrical, Parallel), by Mobility (Mobile Robotics and Fixed Robotics),"
     publishedDateTime: 2021-01-27T13:14:00Z

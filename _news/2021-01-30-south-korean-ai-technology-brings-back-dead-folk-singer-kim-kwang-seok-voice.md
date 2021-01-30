@@ -1,28 +1,30 @@
 ---
 category: news
-title: "South Korean AI technology brings back folk singer's voice"
-excerpt: "Even though South Korean folk rock singer Kim Kwang-seok has been dead for nearly 25 years, his fans will be able to hear him perform a new song cover on Friday thanks to artificial intelligence (AI) technology used to recreate his voice."
-publishedDateTime: 2021-01-29T15:50:00Z
-originalUrl: "https://www.reuters.com/article/us-southkorea-ai-voice-recreation-idUSKBN29Y18O"
-webUrl: "https://www.reuters.com/article/us-southkorea-ai-voice-recreation-idUSKBN29Y18O"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Y18O"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Y18O"
+title: "South Korean AI technology brings back dead folk singer Kim Kwang-Seok voice"
+excerpt: "Even though South Korean folk-rock singer Kim Kwang-Seok has been dead for nearly 25 years, his fans will be able to hear him perform a new song cover on Friday thanks to artificial intelligence (AI) technology used to recreate his voice."
+publishedDateTime: 2021-01-30T04:57:00Z
+originalUrl: "https://www.wionews.com/entertainment/south-korean-ai-technology-brings-back-dead-folk-singer-kim-kwang-seok-voice-360206"
+webUrl: "https://www.wionews.com/entertainment/south-korean-ai-technology-brings-back-dead-folk-singer-kim-kwang-seok-voice-360206"
+ampWebUrl: "https://www.wionews.com/entertainment/south-korean-ai-technology-brings-back-dead-folk-singer-kim-kwang-seok-voice-360206/amp"
+cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/entertainment/south-korean-ai-technology-brings-back-dead-folk-singer-kim-kwang-seok-voice-360206/amp"
 type: article
-quality: 69
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WION
+  domain: wionews.com
 
 topics:
   - AI Ethics
   - AI
+
+images:
+  - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2021/01/30/180613-happy-30th-birthday-67.jpg?itok=2y7Nm7Ll"
+    width: 918
+    height: 506
+    isCached: true
 
 related:
   - title: "South Korea has used AI to bring a dead superstar's voice back to the stage, but ethical concerns abound"
@@ -41,6 +43,17 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "South Korean AI technology brings back folk singer's voice"
+    excerpt: "Even though South Korean folk rock singer Kim Kwang-seok has been dead for nearly 25 years, his fans will be able to hear him perform a new song cover on Friday thanks to artificial intelligence (AI) technology used to recreate his voice."
+    publishedDateTime: 2021-01-29T15:50:00Z
+    webUrl: "https://www.reuters.com/article/us-southkorea-ai-voice-recreation-idUSKBN29Y18O"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Y18O"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Y18O"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
   - title: "South Korean AI technology brings back folk singer's voice"
     excerpt: "Even though South Korean folk rock singer Kim Kwang-seok has been dead for nearly 25 years, his fans will be able to hear him perform a new song cover on Friday thanks to artificial intelligence (AI) technology used to recreate his voice."
     publishedDateTime: 2021-01-29T18:25:00Z
@@ -84,22 +97,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "South Korean AI technology brings back dead folk singer Kim Kwang-Seok voice"
-    excerpt: "Even though South Korean folk-rock singer Kim Kwang-Seok has been dead for nearly 25 years, his fans will be able to hear him perform a new song cover on Friday thanks to artificial intelligence (AI) technology used to recreate his voice."
-    publishedDateTime: 2021-01-30T04:57:00Z
-    webUrl: "https://www.wionews.com/entertainment/south-korean-ai-technology-brings-back-dead-folk-singer-kim-kwang-seok-voice-360206"
-    ampWebUrl: "https://www.wionews.com/entertainment/south-korean-ai-technology-brings-back-dead-folk-singer-kim-kwang-seok-voice-360206/amp"
-    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/entertainment/south-korean-ai-technology-brings-back-dead-folk-singer-kim-kwang-seok-voice-360206/amp"
-    type: article
-    provider:
-      name: WION
-      domain: wionews.com
-    quality: 56
-    images:
-      - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2021/01/30/180613-happy-30th-birthday-67.jpg?itok=2y7Nm7Ll"
-        width: 918
-        height: 506
-        isCached: true
   - title: "South Korea has used AI to bring a superstar back to life, but ethical concerns abound"
     excerpt: "For the first time in 25 years, the distinctive vocals of South Korean superstar Kim Kwang-seok will be heard on national television singing new material."
     publishedDateTime: 2021-01-26T01:55:00Z
@@ -115,6 +112,6 @@ related:
         height: 630
         isCached: true
 
-secured: "1GH8l4NNxBDL+HukBsjuMmAPdMcs/I9yJxpG95HVmqNCYRZTNKFU4CkU7S6czPJTG/zCSqrpJdb5zK7VFLEFnLmFKRVXAwmwWXTTynGoUr/154cHwIpu3hv/1iUuFe5Vt2co7SSIOhmPeLH19HTftVTcwJLF3TnPHvnARBHx3VwML4c3qF/3VwD9I9RMReGb8zouSRuXhnK80f1Q5J4kU0B0PUv8Iopuf/gFmzjbYnO/iMAd4akCimuM3DLByISqMNY6QO/VchgxQzuUTtwVnm4gDPsYnAcyTeIJpD0Cjev25y6itjSGctlJ0nFLc0VfHa/pyU2aejNHKA+WuFiC8FuQpwi5XjHGyjvAUmWKKNc=;5e/vWqIiQHjv1MQPd/DypQ=="
+secured: "yyKMMYh1qFHGSeYLS47EHP4oA2o8OBC5GZeOXpeeTJTNZkYFCb9/m4FtExaySrlG6OAgRjNxk0kW7EbFpkOSkBwieT9LnmHKxTB9gFOCDU3H8z0Suo/r8lLINOobW8wYTAHUML5xMp9+jDRoz6rwvfMw0P33MXyei9KHQH/DbcflWSD6136cpW2ZpAYa11A4Luk723VplhzQnYC8WaEOvZP1kpYSsYVnn/oGnUqGlVb3oJMrjhA8z/gA0zPIAUkJBUexTGs+cP2kmBMBXJEVXoTQdp5BWNKj7n5Y2AYpiMmuxJtvIrUa3a1LhuwHjOzmQf5o9k7niSv0BFZoKOS6nnHZhk6ZJ6Ao/JO55NHKuXg=;WCb4hVoV6USfItjJNVnRCA=="
 ---
 

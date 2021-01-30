@@ -136,20 +136,6 @@ related:
         width: 768
         height: 512
         isCached: true
-  - title: "Microsoft Tweaks Data-for-AI Policy After Big Tech Voice Data Collection Controversies"
-    excerpt: "Users of Microsoft Translator and Skype can now opt out of having their voice clips used to improve speech recognition AI."
-    publishedDateTime: 2021-01-25T11:03:00Z
-    webUrl: "https://slator.com/industry-news/microsoft-tweaks-data-for-ai-policy-after-big-tech-voice-data-collection-controversies/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 48
-    images:
-      - url: "https://slator.com/assets/2021/01/Microsoft-Language-Data-Policy-Change-for-Translation-and-Machine-Translation.png"
-        width: 600
-        height: 400
-        isCached: true
   - title: "GM, Cruise partner with Microsoft to speed up self-driving EV technology"
     excerpt: "General Motors and its self-driving car subsidiary Cruise will partner with Microsoft to accelerate the commercialization of self-driving vehicles, the companies said recently."
     publishedDateTime: 2021-01-29T17:16:00Z

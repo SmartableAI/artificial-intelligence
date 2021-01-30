@@ -39,15 +39,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Chinese self-driving startup nets $154m in investment from state-backed fund"
-    excerpt: "With the new funds, Uisee will further develop its autonomous driving technology and accelerate its monetization."
-    publishedDateTime: 2021-01-25T11:30:00Z
-    webUrl: "https://www.techinasia.com/chinese-selfdriving-startup-uisee-nets-154m-investment-statebacked-fund?ref=recommender-669214"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 31
 
 secured: "Mby/YEMTlftNS45sCgaVMrNPaCpDQLzz9K3/dG9svhhBxhnha1oN2o2CuOndfbLYVw/QRsBVQDOkHElJGVoNK45irE6icr5YEuzUdRYI2vvEnikbQkuLCCmgjAr9jXhpKZevEp7jEyxcf6kytGln5kx1ouXufCsdwNHNXK9m6hD4vUNzP3fUTrguYlx7vyBhsUP/EK+NVxKPMsj/jnZ+IlBEWkh+Q+AzHF2nnD+rYUQjaloeFXyZrYQkvwCe6gj2JnPbSKBwW+M9SwqRTv6pgqllc+UjAmkkl0anluz0QKi7PkyfA5tbDBvzhPAmZro+QNlBCUBXelfuSrqEXwLKevGo8ZZf3HoHOfmu5RxSi00=;ByglZEJ1Mr/hhRhg+j7ZqA=="
 ---

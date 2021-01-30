@@ -36,20 +36,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 54
-  - title: "Global Medical Alert System Markets, 2020-2025: Revolution Brought by Emerging Technologies - IoT & AI - ResearchAndMarkets.com"
-    excerpt: "The “Global Medical Alert System Market (2020-2025) by System Type, Connection Type, End-user, Offering, Technology, Geography, Competitive Analysis and the Impact of Covid-19 with Ansoff Analysis” report has been added to ResearchAndMarkets."
-    publishedDateTime: 2021-01-25T11:49:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/business-technology-health-care-policy-health-care-reform-artificial-intelligence-b15efc25b16c44b6a9abae41604c495d"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 9
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "3w1UAqZvVtm4cXSf1wfiRKL5b0B8Knxi2Gdr9nIRs8hNfmTDaTpN6nHsU+TXeR9VG+i8cEMIKomIcFwSnN++lQQi/m63n4SeMW2c6/nZMAfMJCfVI08yRr9PBLgN31lEFOfs1K4Nj3v55coR/bhtaIIWxAI3gXky+vpuvyDNB1Rs1FcwUD3R+LpCE/gUkYRsHun6xQtiRLxpRNIyjtDdHb2xtHn4zt/wTvS2J6QfRuAdseg2bcCoh/X7SMCk+omitzsFW7PTwTCf4SGu2a5EeasCSHBblFVzY61gwV3/0xWAq0pY2FdHjDOqczu9kem8iq2jcJSecVDBsyRH60YtQQdGVlYQPjJgfs5L1KyN3M4=;GYgYjVy0OpqHCKABfaZUPw=="
 ---
