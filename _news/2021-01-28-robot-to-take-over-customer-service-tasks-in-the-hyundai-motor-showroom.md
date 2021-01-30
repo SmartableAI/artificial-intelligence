@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Social Distancing? Hyundai's DAL-e Robot Helps Showroom Customers Without Wearing A Mask"
-    excerpt: "The robots come installed with a state-of-the-art artificial intelligence technology for facial recognition and an automatic communication system."
-    publishedDateTime: 2021-01-26T00:42:00Z
-    webUrl: "https://www.hotcars.com/hyundais-dal-e-robot-helps-showroom-customers-socially-distance-without-wearing-a-mask/"
-    ampWebUrl: "https://www.hotcars.com/hyundais-dal-e-robot-helps-showroom-customers-socially-distance-without-wearing-a-mask/amp/"
-    cdnAmpWebUrl: "https://www-hotcars-com.cdn.ampproject.org/c/s/www.hotcars.com/hyundais-dal-e-robot-helps-showroom-customers-socially-distance-without-wearing-a-mask/amp/"
-    type: article
-    provider:
-      name: hotcars
-      domain: hotcars.com
-    quality: 65
-    images:
-      - url: "https://static1.hotcarsimages.com/wordpress/wp-content/uploads/2021/01/DAL-e-with-SUV.jpg"
-        width: 1710
-        height: 900
-        isCached: true
   - title: "Hyundai launches humanoid robot ‘DAL-e’ for customer service"
     excerpt: "Hyundai Motor Group has launched the humanoid “DAL-e”, which it describes as a “highly advanced customer service robot” that independently communicates with people using precise recognition"
     publishedDateTime: 2021-01-26T09:55:00Z
@@ -48,6 +32,20 @@ related:
       - url: "https://roboticsandautomationnews.com/wp-content/uploads/2021/01/hyundai-humanoid-1.jpg"
         width: 800
         height: 533
+        isCached: true
+  - title: "Hyundai’s humanoid robot could change car dealer service as we know it"
+    excerpt: "DAL-e, whose name stands for “Drive you, Assist you, Link with you-experience”, was designed to kick-start the future of automated customer services for Hyundai. To achieve this, the robot is equipped with state-of-the-art artificial intelligence ..."
+    publishedDateTime: 2021-01-26T08:57:00Z
+    webUrl: "https://www.iol.co.za/motoring/industry-news/hyundais-humanoid-robot-could-change-car-dealer-service-as-we-know-it-fcd4cc17-fac9-48f8-9ec2-8148506b2a32"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 54
+    images:
+      - url: "https://image-prod.iol.co.za/resize/1600x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/60242d97-b780-57b6-9823-173f5219e983&operation=CROP&offset=0x70&resize=1600x900"
+        width: 651
+        height: 366
         isCached: true
   - title: "Wake Up Humans, The Robots Are Coming: Meet Hyundai’s DAL-e AI Customer Service Robot"
     excerpt: "Hyundai Motor Group has just launched a humanoid customer service robot called “DAL-e”. It’s a highly advanced machine designed to communicates with people using precise recognition capabilities and mobility function."

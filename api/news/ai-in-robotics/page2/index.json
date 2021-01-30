@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-20-ai-startup-alphaics-raises-8-million-in-series-b-funding.md",
+      "title": "AI-startup AlphaICs raises $8 million in Series B funding",
+      "excerpt": "The funding was led by Endiya Partners and Emerald Technology Ventures.The startup will use the funds to develop the software stack and to build system solutions for its target markets",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/companies/start-ups/aistartup-alphaics-raises-8-million-in-series-b-funding-11611150898952.html",
+      "originalUrl": "https://www.livemint.com/companies/start-ups/aistartup-alphaics-raises-8-million-in-series-b-funding-11611150898952.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2021/01/20/600x338/dollar6-kPTE--621x414@LiveMint_1611151313091.JPG",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/companies/start-ups/aistartup-alphaics-raises-8-million-in-series-b-funding/amp-11611150898952.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/aistartup-alphaics-raises-8-million-in-series-b-funding/amp-11611150898952.html",
+      "publishedDateTime": "2021-01-20T06:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-01-20-zim-cooperation-network-on-ai-based-agricultural-robotics-launched-artificial-intelligence-for-sustainable-agriculture.md",
       "title": "ZIM cooperation network on AI-based agricultural robotics launched: Artificial intelligence for sustainable agriculture",
       "excerpt": "Zentrum für Agrarlandschaftsforschung (ZALF) e.V. The recently approved ZIM cooperation network \"DeepFarmbots\" met virtually for its official kick-off on November 25. The central goal of the network is to develop and disseminate new agricultural robotics solutions for efficient and sustainable agriculture.",
@@ -1345,49 +1389,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-10-young-and-fearless-startups-enter-global-race-for-space-robotics-and-ai.md",
-      "title": "Young and fearless: Startups enter global race for space, robotics and AI",
-      "excerpt": "While overseas global corporations such as Elon Musk‘s Space X, are leading to charge to turn the stuff of science fiction into reality, in South Korea, the brave companies eyeing the",
-      "sourceUrl": null,
-      "webUrl": "https://business.inquirer.net/315518/young-and-fearless-startups-enter-global-race-for-space-robotics-and-ai",
-      "originalUrl": "https://business.inquirer.net/315518/young-and-fearless-startups-enter-global-race-for-space-robotics-and-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://business.inquirer.net/files/2021/01/20210107000667_0-620x465.jpg",
-          "width": 620,
-          "height": 465,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://business.inquirer.net/315518/young-and-fearless-startups-enter-global-race-for-space-robotics-and-ai/amp",
-      "cdnAmpWebUrl": "https://business-inquirer-net.cdn.ampproject.org/c/s/business.inquirer.net/315518/young-and-fearless-startups-enter-global-race-for-space-robotics-and-ai/amp",
-      "publishedDateTime": "2021-01-09T22:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Philippine Daily Inquirer",
-        "domain": "inquirer.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

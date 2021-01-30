@@ -33,20 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "New Deep Learning Discovery Paves Way for AI Interpretation of Brainwave Data"
-    excerpt: "Interpreting the results of electroencephalogram (EEG) graphs, which are used to visualize brain activity of everything from meditation"
-    publishedDateTime: 2021-01-25T23:30:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/new-deep-learning-discovery-paves-way-for-ai-interpretation-of-brainwave-data-898183188.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 51
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Ehave, Inc. Utilizes Artificial Intelligence and Machine Learning for Big Data Management in ..."
     excerpt: "The Ehave Dashboard will continue to evolve to include its artificial intelligence and machine learning functions in order to become more integrated with clinical care in the coming years. Ehave Dashboard has been in the forefront of using data analytics with its blockchain data warehouse that provides insights to clinicians and patients."
     publishedDateTime: 2021-01-26T06:02:00Z

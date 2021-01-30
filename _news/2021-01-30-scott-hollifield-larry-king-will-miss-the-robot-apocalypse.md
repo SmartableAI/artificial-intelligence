@@ -43,6 +43,17 @@ related:
         width: 504
         height: 233
         isCached: true
+  - title: "SCOTT HOLLIFIELD: Larry King will miss the Robot Apocalypse"
+    excerpt: "How will he connect Larry King to killer robots? Why am I still reading at this point? Why does the newspaper continue to publish this guy after I have objected so many times in letters to the editor?"
+    publishedDateTime: 2021-01-30T16:06:00Z
+    webUrl: "https://martinsvillebulletin.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_28aaecb4-6250-11eb-8ab0-9bba3f38b23f.html"
+    ampWebUrl: "https://martinsvillebulletin.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_28aaecb4-6250-11eb-8ab0-9bba3f38b23f.amp.html"
+    cdnAmpWebUrl: "https://martinsvillebulletin-com.cdn.ampproject.org/c/s/martinsvillebulletin.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_28aaecb4-6250-11eb-8ab0-9bba3f38b23f.amp.html"
+    type: article
+    provider:
+      name: Martinsville Bulletin
+      domain: martinsvillebulletin.com
+    quality: 39
 
 secured: "J1I+tUgzL2unnV35MdZG1OAQ7/5Glq6GLm1fE4/ncMinVCwS3G6QT2VJqaPjeW5A80hEPNgJCjL77d+ZqkH61pJnWtV8h6nfmr/V2YbLKuKfqwtT8w6fr/y+Vw73LP6wxGNbWjBjHeDnv4E6ZTUgpbTeNnbZ58ThyFXMsfybQ3fiGxHDoKIUOfp7pKha6JPpnUAShl7GkHFRgDsyAGG3KD/LY6/iVyzwmgZQt2hBGBrnlx1q3y9z/RZLShtEMs9OEv578hkI1Gz3/jAGh433E5JyB/qD9O7dOfwD7uYvZaCbcDggJ2pS5/Oql1udrWmYXDg1rNhn4qdMA2HUrhpzocYY4vxTt7WJDSAmGkSMUIE=;DQurEZGAeLD1Eq30wz0BsA=="
 ---

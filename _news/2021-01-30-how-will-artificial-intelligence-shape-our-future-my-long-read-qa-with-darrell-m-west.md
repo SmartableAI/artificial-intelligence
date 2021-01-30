@@ -6,7 +6,7 @@ publishedDateTime: 2021-01-30T12:51:00Z
 originalUrl: "https://www.aei.org/economics/how-will-artificial-intelligence-shape-our-future-my-long-read-qa-with-darrell-m-west/"
 webUrl: "https://www.aei.org/economics/how-will-artificial-intelligence-shape-our-future-my-long-read-qa-with-darrell-m-west/"
 type: article
-quality: 10
+quality: 12
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 related:
   - title: "Darrell M. West: Policymaking in the era of artificial intelligence"

@@ -118,6 +118,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence for Edge Devices Market 2020 Growth, Trend, Analysis, Future Opportunities and Industry Forecast to 2025"
+    excerpt: "Global Artificial Intelligence for Edge Devices Market 2020 by Company, Regions, Type and Application, Forecast"
+    publishedDateTime: 2021-01-28T18:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-for-edge-devices-market-2020-growth-trend-analysis-future-opportunities-and-industry-forecast-to-2025-2021-01-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Automotive Market 2020 Recent Industry Trends and Significant Developments by 2027"
     excerpt: "Market Research Intellect have recently published a new report on the Global Artificial Intelligence AI in Automotive Market The study provides profound insights into updated market events and market trends This in turn helps one in better comprehending the market"
     publishedDateTime: 2021-01-26T10:54:00Z

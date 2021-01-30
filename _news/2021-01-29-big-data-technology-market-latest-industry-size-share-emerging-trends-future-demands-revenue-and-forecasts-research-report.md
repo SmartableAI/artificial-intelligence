@@ -29,89 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Computer Vision in Healthcare Market Outlook By Industry Size, Share, Revenue, Regions and Top Key Players Analysis"
-    excerpt: "Computer Vision in Healthcare Market Outlook and Forecasts By Top Manufacturers, Production, Consumption, Trade Statistics,Size, Analysis ,Growth Analysis & Regional Analysis (Latin America, North America,"
-    publishedDateTime: 2021-01-26T00:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-outlook-by-industry-size-share-revenue-regions-and-top-key-players-analysis-2021-01-25"
+  - title: "5 Technology Trends that are already changing the future"
+    excerpt: "Technology Trends that are already changing the future Innovations in technology are growing exponentially. Today it seems that they"
+    publishedDateTime: 2021-01-30T01:52:00Z
+    webUrl: "https://www.compsmag.com/news/technology/5-technology-trends-that-are-already-changing-the-future/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/5-technology-trends-that-are-already-changing-the-future/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/5-technology-trends-that-are-already-changing-the-future/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
+      name: Windows
+      domain: compsmag.com
+    quality: 44
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial intelligence (AI) hardware Market Growth Analysis By Revenue, Size, Share, Scenario on Latest Trends & Types, Applications to Forecast"
-    excerpt: "Artificial intelligence (AI) hardware Market Report Contain Size Analysis, Competitive Landscape, Revenue Status, Future Opportunities, Regional Analysis (Latin America, North America, Asia Specific,"
-    publishedDateTime: 2021-01-29T13:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-growth-analysis-by-revenue-size-share-scenario-on-latest-trends-types-applications-to-forecast-2021-01-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence Market 2020 Segmentation, Statistics, Top Manufacturers, Regional Analysis and Forecast to 2025"
-    excerpt: "The recently distributed report entitled Global Artificial Intelligence Market 2020 by Company, Regions, Type and Application, Forecast to 2025 is well crafted using a combo of significant data related to the market."
-    publishedDateTime: 2021-01-28T08:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-2020-segmentation-statistics-top-manufacturers-regional-analysis-and-forecast-to-2025-2021-01-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Natural Language Processing Market Research Update, Size Estimation, Future Scope, Revenue Opportunities and Regional Forecast to 2026"
-    excerpt: "The overall natural language processing market is expected to grow from USD 8.61 Billion in 2018 to USD 80.68 Billion"
-    publishedDateTime: 2021-01-29T06:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-research-update-size-estimation-future-scope-revenue-opportunities-and-regional-forecast-to-2026-2021-01-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Market 2021-2026 to Post a CAGR of %, Segmentation by Key Regions, Gross Margin, Profit, Analysis, Market Size & Growth"
-    excerpt: "The research study on the Artificial Intelligence market comprises a detailed analysis of this business space and the remuneration that it is estimated to accrue by the end of the projected duration."
-    publishedDateTime: 2021-01-28T10:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2021-2026-to-post-a-cagr-of-segmentation-by-key-regions-gross-margin-profit-analysis-market-size-growth-2021-01-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Technology Innovations and Virtual Consultations Drive the Healthcare Industry Transformation by 2025"
-    excerpt: "Frost & Sullivan's recent analysis, Vision 2025—Rising Healthcare Expenditures and Disproportionate Improvement in Patient Outcomes"
-    publishedDateTime: 2021-01-28T12:28:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/technology-innovations-and-virtual-consultations-drive-the-healthcare-industry-transformation-by-2025-858165700.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 24
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/5-Technology-Trends-that-are-already-changing-the-future.jpg"
+        width: 1680
+        height: 840
         isCached: true
 
 secured: "o1vj0vw/wAkwYcJ5R3hGiuIbR9cbE0ME2NX7YYd/apSEYXI+N1TtEMAsV2I9HcODdaeXBjgaFK8P1y9nsNSCsVldHBru8YDEKdCw4bow2+Tyu60tG5uafsziB6c+zl/pOdPVOXuZHJZ39OJfxmqv9crPzyXT745YdM6uy0eqDYQEmgZYQQEOXKH0x5ScBU+NBWbrvu9sa00syWPWLkIr8YmXYhjsqZ2YbadS4WaKaktZDr+lO/RYyEprETjrh603xcFMTnmREiDT7Cc14ANmiExFWiWD0URBRjxS+hixRclab33tw7B7kl5FwXDTICbimpovRjv3kLZemDjWBGbapDRDayaKSEE/Y/DPjzzWaI0=;NlQEqjxVT08MI+0yjMsDFA=="

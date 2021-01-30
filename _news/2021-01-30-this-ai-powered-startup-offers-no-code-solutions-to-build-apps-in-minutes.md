@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "US leading race in AI, China rising"
-    excerpt: "The United States is leading rivals in development and use of artificial intelligence while China is rising quickly and the European Union is lagging, a research report showed Monday. The study by the Information Technology and Innovation Foundation assessed AI using 30 separate metrics including human talent,"
-    publishedDateTime: 2021-01-26T00:40:00Z
-    webUrl: "https://www.brecorder.com/news/40055921"
-    ampWebUrl: "https://www.brecorder.com/news/amp/40055921"
-    cdnAmpWebUrl: "https://www-brecorder-com.cdn.ampproject.org/c/s/www.brecorder.com/news/amp/40055921"
-    type: article
-    provider:
-      name: Business Recorder
-      domain: brecorder.com
-    quality: 59
-    images:
-      - url: "https://i.brecorder.com/large/2021/01/600f43904667f.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Ouriginal Partners With AI-based Solution Provider Analytikus To Support Higher Education In ..."
     excerpt: "Advanced analytics solutions to strengthen academic integrity even in digital education environments (STOCKHOLM/MIAMI, 26 January 2021) - Ouriginal, Europe’s leading provider of text-matching solutions for plagiarism prevention and text-similarity detection,"
     publishedDateTime: 2021-01-26T08:30:00Z

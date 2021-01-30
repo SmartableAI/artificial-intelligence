@@ -2,21 +2,21 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2021-01-26-how-ai-and-ml-will-impact-insurers-roi-reserves-in-2021-and-beyond.md",
-      "title": "How AI and ML will impact insurers' ROI reserves in 2021 and beyond",
-      "excerpt": "Here's how emerging technologies can allow insurers to conduct proactive analyses to aid in the claims process.",
+      "path": "_news/2021-01-26-hyundai-launches-humanoid-robot-dal-e-for-customer-service.md",
+      "title": "Hyundai launches humanoid robot ‘DAL-e’ for customer service",
+      "excerpt": "Hyundai Motor Group has launched the humanoid “DAL-e”, which it describes as a “highly advanced customer service robot” that independently communicates with people using precise recognition",
       "sourceUrl": null,
-      "webUrl": "https://www.propertycasualty360.com/2021/01/26/how-ai-and-ml-will-impact-insurers-roi-reserves-in-2021-and-beyond/",
-      "originalUrl": "https://www.propertycasualty360.com/2021/01/26/how-ai-and-ml-will-impact-insurers-roi-reserves-in-2021-and-beyond/",
+      "webUrl": "https://roboticsandautomationnews.com/2021/01/26/hyundai-launches-humanoid-robot-dal-e-for-customer-service/39904/",
+      "originalUrl": "https://roboticsandautomationnews.com/2021/01/26/hyundai-launches-humanoid-robot-dal-e-for-customer-service/39904/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 94,
       "tags": null,
       "images": [
         {
-          "url": "https://images.propertycasualty360.com/contrib/content/uploads/sites/414/2021/01/Data-Analytics-everything-possible-Shutterstock.jpg",
-          "width": 621,
-          "height": 372,
+          "url": "https://roboticsandautomationnews.com/wp-content/uploads/2021/01/hyundai-humanoid-1.jpg",
+          "width": 800,
+          "height": 533,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.propertycasualty360.com/2021/01/26/how-ai-and-ml-will-impact-insurers-roi-reserves-in-2021-and-beyond/?amp=1",
-      "cdnAmpWebUrl": "https://www-propertycasualty360-com.cdn.ampproject.org/c/s/www.propertycasualty360.com/2021/01/26/how-ai-and-ml-will-impact-insurers-roi-reserves-in-2021-and-beyond/?amp=1",
-      "publishedDateTime": "2021-01-26T02:40:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-26T01:55:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PropertyCasualty360",
-        "domain": "propertycasualty360.com",
+        "name": "Robotics & Automation News",
+        "domain": "roboticsandautomationnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,8 +40,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Machine Learning"
+        "AI in Robotics",
+        "AI"
       ]
     },
     {

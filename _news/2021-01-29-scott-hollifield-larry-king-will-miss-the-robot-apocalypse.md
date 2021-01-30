@@ -9,8 +9,8 @@ ampWebUrl: "https://mcdowellnews.com/opinion/columnists/scott-hollifield-larry-k
 cdnAmpWebUrl: "https://mcdowellnews-com.cdn.ampproject.org/c/s/mcdowellnews.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_e6b5924e-6184-11eb-bbc1-cb7da67dedb2.amp.html"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The McDowell News
@@ -43,6 +43,17 @@ related:
         width: 504
         height: 233
         isCached: true
+  - title: "SCOTT HOLLIFIELD: Larry King will miss the Robot Apocalypse"
+    excerpt: "How will he connect Larry King to killer robots? Why am I still reading at this point? Why does the newspaper continue to publish this guy after I have objected so many times in letters to the editor?"
+    publishedDateTime: 2021-01-30T16:06:00Z
+    webUrl: "https://martinsvillebulletin.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_28aaecb4-6250-11eb-8ab0-9bba3f38b23f.html"
+    ampWebUrl: "https://martinsvillebulletin.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_28aaecb4-6250-11eb-8ab0-9bba3f38b23f.amp.html"
+    cdnAmpWebUrl: "https://martinsvillebulletin-com.cdn.ampproject.org/c/s/martinsvillebulletin.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_28aaecb4-6250-11eb-8ab0-9bba3f38b23f.amp.html"
+    type: article
+    provider:
+      name: Martinsville Bulletin
+      domain: martinsvillebulletin.com
+    quality: 39
 
 secured: "JkJQKSzlFItkaHWFbqBWgsb10+EbQ++sumzeZkEw6xCyhTC/Mi3LPWEPriyO5HOXFbsGrTaVsQIaI3U0+YzTKF+UhwRURZ9NhuHvW1iunIF2yqowpoBlRsUjO5jbxjsUpyKIK0eqsuHA8UzEm7A3V1tTcI05dzPmO+IFDTZdkLdyADG0okrEYtpuUpbPL3dwWG/3jbFIUdi/krMOM/mVQls1HO9l8uBtEl+soSdUaX9yxWHiEPf674Rp8kENDaZlE2hyib1ze8cLliWxo48gUdnFLVPd3AH1DvNPB1jz4lqKHG9TyAoe33lqwqioS6hjXUEjHW3nomnMwyCcGNXYJ33sSEJkADGnhptmfF4VfMQ=;LO+IkXH1IGNS1otMbomS0g=="
 ---

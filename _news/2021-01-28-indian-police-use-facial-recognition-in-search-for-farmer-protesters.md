@@ -276,6 +276,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Emotion recognition tech in China raises rights concerns"
+    excerpt: "Technology that measures emotions based on biometric indicators such as facial movements, tone of voice or body movements is increasingly being marketed in China, researchers say, despite concerns about its accuracy and wider human rights implications."
+    publishedDateTime: 2021-01-30T16:03:00Z
+    webUrl: "https://www.taipeitimes.com/News/biz/archives/2021/01/31/2003751475"
+    type: article
+    provider:
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 39
+    images:
+      - url: "https://www.taipeitimes.com/assets/images/TaipeiTimesLogo-1200X1200px_new.jpg"
+        width: 1200
+        height: 1200
+        isCached: true
   - title: "‘Ban the Scan’ - Groups call for city, state to outlaw facial recognition"
     excerpt: "Nearly a dozen leaders and groups came together Tuesday to call on the city and state to ban government use of facial recognition technology scanning, saying that it negatively impacts people of color."
     publishedDateTime: 2021-01-27T00:56:00Z
@@ -332,17 +346,6 @@ related:
         width: 2560
         height: 1662
         isCached: true
-  - title: "Ban dangerous facial recognition technology that reinforces racist police work"
-    excerpt: "Ban dangerous facial recognition technology that reinforces racist police work Amnesty International today launched a global campaign to"
-    publishedDateTime: 2021-01-26T00:51:00Z
-    webUrl: "https://www.compsmag.com/news/technology/ban-dangerous-facial-recognition-technology-that-reinforces-racist-police-work/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/ban-dangerous-facial-recognition-technology-that-reinforces-racist-police-work/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/ban-dangerous-facial-recognition-technology-that-reinforces-racist-police-work/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 35
   - title: "States ponder facial recognition regulation, survey shows heightened privacy concerns in China"
     excerpt: "More regulations for facial recognition may be coming, with NJ considering a wide-ranging proposal, and a new Amnesty International campaign against the technology. A U.S. Congressman says the country needs federal privacy regulation, while in China the ..."
     publishedDateTime: 2021-01-28T18:09:00Z
@@ -385,15 +388,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Jordanian AI team bags second place in international competition"
-    excerpt: "Jordan’s Robotna team, the LETA Robot, won second place in Codeavour 2020 AI, an international Artificial Intelligence (AI) and coding competition, organised by STEMpedia.Robotna is a social startup that gears towards strengthening skills of creative thinking,"
-    publishedDateTime: 2021-01-26T00:24:00Z
-    webUrl: "https://jordantimes.com/news/local/jordanian-ai-team-bags-second-place-international-competition"
-    type: article
-    provider:
-      name: The Jordan Times
-      domain: jordantimes.com
-    quality: 19
   - title: "Council of Europe calls for strict facial-recognition rules protecting human rights"
     excerpt: "The Council of Europe, an international organisation distinct from the EU, has called for much stricter regulations on facial-recognition technology to protect privacy and equality."
     publishedDateTime: 2021-01-28T12:44:00Z

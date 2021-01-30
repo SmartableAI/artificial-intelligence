@@ -52,6 +52,17 @@ related:
       name: The Daily Star
       domain: thedailystar.net
     quality: 24
+  - title: "Singapore launches new self-driving bus trial"
+    excerpt: "Singapore has moved a step closer to a driverless public transport network with the launch of a new trial of self-driving buses. Orderly and high-tech, the Asian city-state has become a testbed for self-driving vehicles and has developed home-grown technology while inviting foreign companies to trial their own."
+    publishedDateTime: 2021-01-30T16:47:00Z
+    webUrl: "https://tv.guardian.ng/news/world-news/singapore-launches-new-self-driving-bus-trial/"
+    ampWebUrl: "https://tv.guardian.ng/news/world-news/singapore-launches-new-self-driving-bus-trial/amp"
+    cdnAmpWebUrl: "https://tv-guardian-ng.cdn.ampproject.org/c/s/tv.guardian.ng/news/world-news/singapore-launches-new-self-driving-bus-trial/amp"
+    type: article
+    provider:
+      name: The Guardian Nigeria
+      domain: guardian.ng
+    quality: 24
   - title: "Start-ups, student teams among 11 winners of Singapore Digital Techblazer Awards"
     excerpt: "SINGAPORE - A biomedical start-up that uses artificial intelligence to improve the accuracy of antibody drug discovery. A robotics start-up that developed a solution allowing non-technical users to programme robots easily."
     publishedDateTime: 2021-01-30T12:11:00Z

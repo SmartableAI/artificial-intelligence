@@ -9,8 +9,8 @@ ampWebUrl: "https://www.carscoops.com/2021/01/gms-next-gen-vehicles-will-become-
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/01/gms-next-gen-vehicles-will-become-smarter-with-qualcomms-cockpit-chips/amp/"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: Carscoops
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Startup by Key Apple and Google Chip Designers Catches Qualcomm’s Eye"
-    excerpt: "In a $1.4 billion deal, Qualcomm recently announced that it will acquire NUVIA, an Arm-based startup led by three of Apple and Google’s foremost chip designers."
-    publishedDateTime: 2021-01-25T23:09:00Z
-    webUrl: "https://www.allaboutcircuits.com/news/startup-key-apple-google-chip-designers-catches-qualcomms-eye/"
-    type: article
-    provider:
-      name: All About Circuits
-      domain: allaboutcircuits.com
-    quality: 39
-    images:
-      - url: "https://www.allaboutcircuits.com/uploads/thumbnails/NUVIA_compared_to_competitors.jpg"
-        width: 700
-        height: 344
-        isCached: true
   - title: "Veoneer, Qualcomm complete deal to develop self-driving tech"
     excerpt: "Veoneer and microchip giant Qualcomm have signed a collaboration deal to develop a software and chip platform for advanced driver assistance systems, Veoneer said in a statement on Tuesday. The companies said in August that they would cooperate on the technology."
     publishedDateTime: 2021-01-26T10:54:00Z

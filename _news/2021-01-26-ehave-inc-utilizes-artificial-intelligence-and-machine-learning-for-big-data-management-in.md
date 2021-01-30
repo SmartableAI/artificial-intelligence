@@ -41,20 +41,6 @@ related:
         height: 630
         isCached: true
   - title: "New Deep Learning Discovery Paves Way for AI Interpretation of Brainwave Data"
-    excerpt: "Interpreting the results of electroencephalogram (EEG) graphs, which are used to visualize brain activity of everything from meditation"
-    publishedDateTime: 2021-01-25T23:30:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/new-deep-learning-discovery-paves-way-for-ai-interpretation-of-brainwave-data-898183188.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 51
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "New Deep Learning Discovery Paves Way for AI Interpretation of Brainwave Data"
     excerpt: "A new paper published in the Journal of Neural Engineering shows the successful first application of self-supervised learning, a very promising recent approach to train deep neural networks ..."
     publishedDateTime: 2021-01-28T18:58:00Z
     webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1181005&cat=PR News Wire"
