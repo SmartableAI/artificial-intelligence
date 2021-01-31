@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29V2M0"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29V2M0"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "US has 'moral imperative' to develop AI weapons, says panel"
-    excerpt: "Draft Congress report claims AI will make fewer mistakes than humans and lead to reduced casualties"
-    publishedDateTime: 2021-01-26T20:50:00Z
-    webUrl: "https://www.theguardian.com/science/2021/jan/26/us-has-moral-imperative-to-develop-ai-weapons-says-panel"
-    ampWebUrl: "https://amp.theguardian.com/science/2021/jan/26/us-has-moral-imperative-to-develop-ai-weapons-says-panel"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/science/2021/jan/26/us-has-moral-imperative-to-develop-ai-weapons-says-panel"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/c4d5bdc56149c16b78594a9c8b70d3f570bbba2d/0_129_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cd56c84756b529f8f2e75640fa2c0c04"
-        width: 600
-        height: 360
-        isCached: true
   - title: "US must explore artificial intelligence weapons: Report"
     excerpt: "The US has a moral imperative to explore and develop artificial intelligence (AI) weapons, according to a report released Wednesday. The report by the National Security Commission on Artificial Intelligence (NSCAI) led by former Google CEO Eric Schmidt,"
     publishedDateTime: 2021-01-27T18:48:00Z

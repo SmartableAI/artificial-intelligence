@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/technology-europe-l
 webUrl: "https://apnews.com/press-release/business-wire/technology-europe-latin-america-and-caribbean-diseases-and-conditions-united-kingdom-85a9c5851391492cbe1541e90fcb15ad"
 type: article
 quality: 7
-heat: 7
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,17 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence In Remote Patient Monitoring Market Research Report - Global Forecast to 2025 - Cumulative Impact of COVID-19"
+    excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence In Remote Patient Monitoring Market"
+    publishedDateTime: 2021-01-29T10:39:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19388228/artificial-intelligence-in-remote-patient-monitoring-market-research-report-global-forecast-to-202"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19388228"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19388228"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 8
   - title: "Artificial Intelligence in Medicine Market Research Report by Application, by End User - Global Forecast to 2025 - Cumulative Impact of COVID-19"
     excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence in Medicine Market Research Report by"
     publishedDateTime: 2021-01-29T10:34:00Z

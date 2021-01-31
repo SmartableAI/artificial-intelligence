@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210127/New-machine-learning-
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210127/New-machine-learning-tool-predicts-schizophrenia.aspx"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 620
     height: 480
     isCached: true
-
-related:
-  - title: "Machine learning tool used to predict early symptoms of schizophrenia in relatives of patients (image)"
-    excerpt: "Sunil Kalmady Vasu (centre) led a recent study with fellow U of A researchers including Russ Greiner (left), Andrew Greenshaw (right) and Serdar Dursun (not pictured), showing that a machine learning tool could help predict early symptoms of schizophrenia in siblings and children of patients,"
-    publishedDateTime: 2021-01-26T20:50:00Z
-    webUrl: "https://www.eurekalert.org/multimedia/pub/254600.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 23
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/254600_web.jpg"
-        width: 720
-        height: 480
-        isCached: true
 
 secured: "fjguZ3kIzSQGw4kMqeBH4+j2pq2Tz7i0hsB7RCqTS1/WkOfz7Xjc+tx8HBtv3g3wMnpPYUBaF6cp7JMClCYZ3/9hTe8+Nq+7nDU2HVbhox851w/hqrq5ug25Xgv8sSdI0s6g3M2lydxCvIOYQ4NqF14ZoEHWhfEDQHYdkcjT/y6Ms7dLV/SaDMN7a6G+EOnBF+QhTZSn46SrJj66WME3RIyT/9l0MQ6stLuwt+tRn13huSzGI2mEUxccKV8mD7zh7oTzLW4GYLwJ6N/vmOGWHmqiXjbfwEL86Dw8pAvkLNbPJtiwXDKh3WVh65kMiuqQUi2fLwaaLDew4AHHlFTYj/fTgWrJuBDkoUfscNEi9SfEwi/I2AzU4JG6OALHZhaicC9s6L4zjp11xJlZDOrfHYDJhT4PI5vKF+NMsDqGB4FGeKBmKeRUq2rQqo0Tq3NFsP9IOWtc4H+fHisRyOjZucJxw94cUjvJFG2IeI6CSWlBssQrRGOhx56ZCqF5SA/aT6eoTyMfiFb9Y7ZVs7rqcw==;A8t7OkbkBc1loBtXKpVi7w=="
 ---

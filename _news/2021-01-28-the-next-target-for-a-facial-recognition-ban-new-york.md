@@ -63,33 +63,6 @@ related:
         width: 620
         height: 411
         isCached: true
-  - title: "Facial recognition tool used to identify Red Fort raiders"
-    excerpt: "The Delhi Police have so far arrested 19 persons and detained over 200 persons after 33 FIRs were registered under various sections of IPC, Disaster Management Act, Epidemic Disease Act, UAPA and Prevention of Damage to Public Property Act,"
-    publishedDateTime: 2021-01-29T02:51:00Z
-    webUrl: "https://economictimes.indiatimes.com/news/politics-and-nation/facial-recognition-tool-used-to-identify-red-fort-raiders/articleshow/80516165.cms"
-    ampWebUrl: "https://m.economictimes.com/news/politics-and-nation/facial-recognition-tool-used-to-identify-red-fort-raiders/amp_articleshow/80516165.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/politics-and-nation/facial-recognition-tool-used-to-identify-red-fort-raiders/amp_articleshow/80516165.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-449348,msid-80516165/facial-recognition-tool-used-to-identify-red-fort-raiders.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "Facial recognition: Don't use it to snoop on how staff are feeling, says watchdog"
-    excerpt: "The Council of Europe's new guidelines call for a ban on some applications of facial recognition, and stringent privacy safeguards when the technology is deployed."
-    publishedDateTime: 2021-01-28T16:27:00Z
-    webUrl: "https://www.zdnet.com/article/facial-recognition-dont-use-it-to-snoop-on-how-staff-are-feeling-says-watchdog/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/facial-recognition-dont-use-it-to-snoop-on-how-staff-are-feeling-says-watchdog/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facial-recognition-dont-use-it-to-snoop-on-how-staff-are-feeling-says-watchdog/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 64
   - title: "NY Civil Rights Advocates Back Facial Recognition Ban"
     excerpt: "The technology has raised concerns across the country by some who worry it could be a dangerous step toward a surveillance state where people’s movements are tracked the moment they leave their homes"
     publishedDateTime: 2021-01-27T12:00:00Z
@@ -176,17 +149,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 48
-  - title: "Capitol riot boosts facial recognition app"
-    excerpt: "A facial recognition app saw a large increase in use the day after rioters stormed the U.S. Capitol building in Washington, D.C. Source by: Stringr"
-    publishedDateTime: 2021-01-26T23:11:00Z
-    webUrl: "https://theeagle.com/news/national/capitol-riot-boosts-facial-recognition-app/video_13e00cf2-ba46-5b5b-9d05-a0a11246bcc6.html"
-    ampWebUrl: "https://theeagle.com/news/national/capitol-riot-boosts-facial-recognition-app/video_13e00cf2-ba46-5b5b-9d05-a0a11246bcc6.amp.html"
-    cdnAmpWebUrl: "https://theeagle-com.cdn.ampproject.org/c/s/theeagle.com/news/national/capitol-riot-boosts-facial-recognition-app/video_13e00cf2-ba46-5b5b-9d05-a0a11246bcc6.amp.html"
-    type: article
-    provider:
-      name: The Eagle
-      domain: theeagle.com
-    quality: 39
   - title: "Can Facial Recognition Predict Political Orientation?"
     excerpt: "A study used social media photos of 1,085,795 participants – including 347,000 people of color, from the United States, United Kingdom and Canada and their self-declared political orientation, age, and gender,"
     publishedDateTime: 2021-01-27T19:31:00Z
@@ -327,15 +289,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Indian police use facial recognition in search for farmer protesters"
-    excerpt: "Indian police are using facial recognition technology to identify suspects in a crackdown on farmers who over-ran parts of New Delhi, while leaders of the months-long protest movement struggle to contain rifts within their ranks."
-    publishedDateTime: 2021-01-28T07:00:00Z
-    webUrl: "https://www.ft.com/content/044add20-7129-44a8-bc9d-92919a73d049"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 19
   - title: "Council of Europe calls for strict facial-recognition rules protecting human rights"
     excerpt: "The Council of Europe, an international organisation distinct from the EU, has called for much stricter regulations on facial-recognition technology to protect privacy and equality."
     publishedDateTime: 2021-01-28T12:44:00Z

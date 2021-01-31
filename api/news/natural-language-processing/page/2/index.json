@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-15-artificial-intelligence-creates-tremendous-changes-for-the-direction-of-marketing.md",
+      "title": "Artificial Intelligence Creates Tremendous Changes for the Direction of Marketing",
+      "excerpt": "Artificial intelligence has entered numerous facets of our lives. Here’s how it is revolutionizing the business world by changing the marketing landscape.",
+      "sourceUrl": null,
+      "webUrl": "https://www.smartdatacollective.com/artificial-intelligence-creates-changes-for-direction-of-marketing/",
+      "originalUrl": "https://www.smartdatacollective.com/artificial-intelligence-creates-changes-for-direction-of-marketing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.smartdatacollective.com/wp-content/uploads/2020/12/How-Artificial-Intelligence-is-Transforming-Business-Marketing.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.smartdatacollective.com/artificial-intelligence-creates-changes-for-direction-of-marketing/amp/",
+      "cdnAmpWebUrl": "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/artificial-intelligence-creates-changes-for-direction-of-marketing/amp/",
+      "publishedDateTime": "2021-01-14T14:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SmartData Collective",
+        "domain": "smartdatacollective.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Marketing",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-01-15-cochlear-implants-aid-speech-recognition-in-most-adults.md",
       "title": "Cochlear implants aid speech recognition in most adults",
       "excerpt": "Most adult patients have statistically significant postoperative improvements in speech recognition after receiving cochlear implants, according to a study published online Jan. 7 in JAMA Otolaryngology-Head & Neck Surgery.",
@@ -1354,49 +1399,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-03-ai-based-database-to-solve-similar-crimes-quicker-centre.md",
-      "title": "AI based database to solve similar crimes quicker, Centre",
-      "excerpt": "The Centre is involved in developing an Artificial Intelligence (AI) and Natural Language Processing (NLP)-based database of modus operandi various cr..|News Track",
-      "sourceUrl": null,
-      "webUrl": "https://english.newstracklive.com/news/ai-based-database-to-solve-similar-crimes-quicker-centre-mc16-nu306-ta306-1138317-1.html",
-      "originalUrl": "https://english.newstracklive.com/news/ai-based-database-to-solve-similar-crimes-quicker-centre-mc16-nu306-ta306-1138317-1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.newstracklive.com/uploads/crime-news//Jan/03/big_thumb/AI-based-database-to-solve-similar-crimes-quicker-Centre_5ff1b71375b0f.jpg",
-          "width": 796,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://english.newstracklive.com/ampnews/ai-based-database-to-solve-similar-crimes-quicker-centre-mc16-nu306-ta306-1138317-1.html",
-      "cdnAmpWebUrl": "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/ai-based-database-to-solve-similar-crimes-quicker-centre-mc16-nu306-ta306-1138317-1.html",
-      "publishedDateTime": "2021-01-03T04:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Track",
-        "domain": "newstracklive.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

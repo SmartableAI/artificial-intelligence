@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/19388228"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19388228"
 type: article
 quality: 8
-heat: -1
+heat: 8
 published: false
 
 provider:
@@ -21,20 +21,40 @@ topics:
   - AI
 
 related:
-  - title: "Pro-Vigil Research Finds 20% of Companies Experienced an Increase in Physical Security Incidents Since the Start of COVID-19"
-    excerpt: "Vigil, a provider of remote video monitoring, management and crime deterrence solutions, today published a research report indicating that a significant number of companies have updated their security strategies in the wake of the COVID-19 pandemic."
-    publishedDateTime: 2021-01-28T08:17:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/covid-19-pandemic-health-coronavirus-pandemic-lung-disease-diseases-and-conditions-ea6f79eace008236b7adbc7b47820a2b"
+  - title: "Global Iris Recognition Market Research 2020-2024 | Market Impact Analysis due to COVID-19 Spread | Technavio"
+    excerpt: "Technavio has announced its latest market research report titled Global Iris Recognition Market 2020-2024 (Graphic: Business Wire) Worried about the impact of COVID-19 on your business? Here is an exclusive report talking about Market scenarios,"
+    publishedDateTime: 2021-01-30T07:57:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-europe-latin-america-and-caribbean-diseases-and-conditions-united-kingdom-85a9c5851391492cbe1541e90fcb15ad"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 12
+    quality: 7
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
         isCached: true
+  - title: "Artificial Intelligence in Medicine Market Research Report by Application, by End User - Global Forecast to 2025 - Cumulative Impact of COVID-19"
+    excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence in Medicine Market Research Report by"
+    publishedDateTime: 2021-01-29T10:34:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19388179/artificial-intelligence-in-medicine-market-research-report-by-application-by-end-user-global-forec"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19388179"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19388179"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
+  - title: "Global Iris Recognition Market Research 2020-2024 | Market Impact Analysis due to COVID-19 Spread | Technavio"
+    excerpt: "Technavio has announced its latest market research report titled Global Iris Recognition Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--The iris recognition market is poised to grow by USD 2."
+    publishedDateTime: 2021-01-29T13:09:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210129005302/en/Global-Iris-Recognition-Market-Research-2020-2024-Market-Impact-Analysis-due-to-COVID-19-Spread-Technavio"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "akz7L6cI8NON9U40eDj9vL68qVVVeQ7j4j9UE/c0E8ujL7oKPuer6e5GNKsXbI56uztCjKB1iDswX/HZjkD07mm/kqJPncGYqDzn2Ob3afGxhz4BzBDYHCFdKukHoQiTltrBRkUcGADstk68SG7OIrd2J4CCuqHaKJ9rKxhS3gLqIYqOlNc+bI7hN4+XU9g4Blz4DSNtcsavhwOWNxwQXB7q1Uu6K7xmUvngwojMD30a+TmxvTHHbuqNXlM+1C0wqcweFze54bxhoZB+PX1qBk5q/a3IO5tff0oiA4vzQp4qfh7fD26tqpdpoQdSXcfe1nEJMzai/U5huKVwZ0rJ9zm7MQRPAJQmC5atk3bmSn8=;saiZf1I6tN8bCV8wgTGyOA=="
 ---

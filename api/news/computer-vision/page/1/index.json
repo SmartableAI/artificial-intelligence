@@ -10,7 +10,7 @@
       "originalUrl": "https://www.nytimes.com/2021/01/31/technology/facial-recognition-photo-tool.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -50,7 +50,8 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -193,7 +194,7 @@
       "originalUrl": "https://thenextweb.com/neural/2021/01/27/amnesty-international-calls-for-ban-on-facial-recognition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 359,
+      "heat": 319,
       "tags": null,
       "images": [
         {

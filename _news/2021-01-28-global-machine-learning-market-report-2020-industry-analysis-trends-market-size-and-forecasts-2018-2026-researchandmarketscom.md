@@ -131,20 +131,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence for Edge Devices Market 2020 Growth, Trend, Analysis, Future Opportunities and Industry Forecast to 2025"
-    excerpt: "Global Artificial Intelligence for Edge Devices Market 2020 by Company, Regions, Type and Application, Forecast"
-    publishedDateTime: 2021-01-28T18:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-for-edge-devices-market-2020-growth-trend-analysis-future-opportunities-and-industry-forecast-to-2025-2021-01-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Voice Recognition Market 2021 : Top countries Data, Market Size, In-Depth Analysis with Booming Trends and Segmentation Forecast to 2026"
     excerpt: "Research Reports has published a detailed report on “Voice Recognition Market\" 2021 which has been categorized"
     publishedDateTime: 2021-01-27T01:35:00Z

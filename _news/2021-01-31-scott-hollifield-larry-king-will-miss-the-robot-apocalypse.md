@@ -2,27 +2,25 @@
 category: news
 title: "Scott Hollifield: Larry King will miss the Robot Apocalypse"
 excerpt: "Today, our disparate subjects will be the literary genius of the late Larry King and the inevitable end of the world as we know it brought about by killer robots."
-publishedDateTime: 2021-01-31T03:45:00Z
-originalUrl: "https://statesville.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_980dd3f8-61a8-11eb-afbc-af7af6ad3563.html"
-webUrl: "https://statesville.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_980dd3f8-61a8-11eb-afbc-af7af6ad3563.html"
-ampWebUrl: "https://statesville.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_980dd3f8-61a8-11eb-afbc-af7af6ad3563.amp.html"
-cdnAmpWebUrl: "https://statesville-com.cdn.ampproject.org/c/s/statesville.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_980dd3f8-61a8-11eb-afbc-af7af6ad3563.amp.html"
+publishedDateTime: 2021-01-31T11:45:00Z
+originalUrl: "https://independenttribune.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_d06acca6-61a8-11eb-a150-9fda6da5ae72.html"
+webUrl: "https://independenttribune.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_d06acca6-61a8-11eb-a150-9fda6da5ae72.html"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Statesville Record & Landmark
-  domain: statesville.com
+  name: Independent Tribune
+  domain: independenttribune.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/statesville.com/content/tncms/assets/v3/editorial/9/80/98071cac-61a8-11eb-afbb-87367d0e0a83/60132075c20fc.image.jpg"
-    width: 504
+  - url: "https://bloximages.newyork1.vip.townnews.com/independenttribune.com/content/tncms/assets/v3/editorial/d/06/d06399e0-61a8-11eb-a14f-3ba7d121a494/601320d456440.image.jpg?crop=414%2C233%2C44%2C0&resize=414%2C233&order=crop%2Cresize"
+    width: 414
     height: 233
     isCached: true
 
@@ -76,6 +74,6 @@ related:
         height: 220
         isCached: true
 
-secured: "jgNLpSWzj8lX93me9UmN8eFiV+0xWorZDXSOvn4PVG065svY94ZLZkq64mC8DFqCYjq5BtGyxKQvp717eMxvSEg6IC/yVpaS+40qj2V7VE/RzObgkWyhBy9XeJ0GEuOJNXjs5Poo10mM53xV8DPLVCeCsPQfKQ0Ghx4zd6kGsc/Z3DfRYW/krUTs2Och+QOLDv71mlO10AX9nxxxW9wRZHUw2fJcNOqGHUBQuhJg7VoIMSnrQyLHryJPCjndKTV2uAtqEc4+i4TuaM4OIHRt7MLokaqkxQwA1H9X1974GNqGKgGFh1jWAs2Co55EKEtrRG5VKlDR1m1fLRY5EZvF+sRpajBkK+Tk7LuiRP+W7kMQ9+ncWuj7MyHtoSlYPVnQacjlPMFpmD+v96UhOdbFX9QdY7KQI6b4yLr14Hkb3pPGRtnFyCT/3pNITDKEFtCcVMpze6NWY4MroUd7ESDEmQBLE0LZWOtOFYpDE8xJgtvmsvWw3SIaBYXi0zw1fkWxmN/KiFBqEf0ZsiYeUoGxnw==;oykOEY55+w+nUqzakv+uIg=="
+secured: "C3WFJmRbOR+g8UzEMf9DMfxBqiW+5TArJE0TeW9M4XSpdPtC5M1F7ZjSmuS4Nrh2oZ+ED0N2fA+5WRXuUgW5xFIEnFNxbIa5RDdEj8LgHQPBczDDRqFDzgKDdKJlcwOqmT55T8xKlHshdrCisOQxmijySY8SHeKT8LjmD2jZM83pG8fxKqyP6D+E0o9NGj1pu33jXLZIenPtYQM6If8SQ2vyvtOnmTdhPkG73jJxXpLkT5t0cZK/QKB/rfiBlrfUYqXwXh6A72MAu6mbzLUrK8jNDB+eLAIMe+LZJJOETyS5SH+K/LQxLORhc6Fe8MLRtcq42Wl8+wrmXWF+TFl+G2R3eiwipU/uBsmzsWBOEh0=;HfyR855ptcbejPHEUA2hnw=="
 ---
 

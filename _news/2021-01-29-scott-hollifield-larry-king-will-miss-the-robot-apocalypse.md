@@ -61,18 +61,16 @@ related:
         isCached: true
   - title: "Scott Hollifield: Larry King will miss the Robot Apocalypse"
     excerpt: "Today, our disparate subjects will be the literary genius of the late Larry King and the inevitable end of the world as we know it brought about by killer robots."
-    publishedDateTime: 2021-01-31T03:45:00Z
-    webUrl: "https://statesville.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_980dd3f8-61a8-11eb-afbc-af7af6ad3563.html"
-    ampWebUrl: "https://statesville.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_980dd3f8-61a8-11eb-afbc-af7af6ad3563.amp.html"
-    cdnAmpWebUrl: "https://statesville-com.cdn.ampproject.org/c/s/statesville.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_980dd3f8-61a8-11eb-afbc-af7af6ad3563.amp.html"
+    publishedDateTime: 2021-01-31T11:45:00Z
+    webUrl: "https://independenttribune.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_d06acca6-61a8-11eb-a150-9fda6da5ae72.html"
     type: article
     provider:
-      name: Statesville Record & Landmark
-      domain: statesville.com
-    quality: 59
+      name: Independent Tribune
+      domain: independenttribune.com
+    quality: 39
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/statesville.com/content/tncms/assets/v3/editorial/9/80/98071cac-61a8-11eb-afbb-87367d0e0a83/60132075c20fc.image.jpg"
-        width: 504
+      - url: "https://bloximages.newyork1.vip.townnews.com/independenttribune.com/content/tncms/assets/v3/editorial/d/06/d06399e0-61a8-11eb-a14f-3ba7d121a494/601320d456440.image.jpg?crop=414%2C233%2C44%2C0&resize=414%2C233&order=crop%2Cresize"
+        width: 414
         height: 233
         isCached: true
 
