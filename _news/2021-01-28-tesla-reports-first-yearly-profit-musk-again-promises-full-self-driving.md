@@ -27,37 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla will never achieve full self-driving capabilities, Waymo CEO says"
-    excerpt: "John Krafcik called Tesla's approach a \"misconception,\" while Google's sister company tackles lidar and more advanced systems."
-    publishedDateTime: 2021-01-27T02:08:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/tesla-will-never-achieve-full-self-driving-capabilities-says-waymo-ceo/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-will-never-achieve-full-self-driving-capabilities-says-waymo-ceo/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-will-never-achieve-full-self-driving-capabilities-says-waymo-ceo/"
+  - title: "Tesla rival XPeng P7 gets significant self-driving software updates"
+    excerpt: "China's closest Tesla Model 3 competitor, the XPeng P7, launched in April last year, loaded to the gills with enough self-driving sensors and computers to achieve full autonomy once the software is ready."
+    publishedDateTime: 2021-01-27T07:06:00Z
+    webUrl: "https://newatlas.com/automotive/xpeng-p7-self-driving/"
+    ampWebUrl: "https://newatlas.com/automotive/xpeng-p7-self-driving/?amp=true"
+    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/xpeng-p7-self-driving/?amp=true"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 104
+      name: New Atlas
+      domain: newatlas.com
+    quality: 89
     images:
-      - url: "https://cnet2.cbsistatic.com/img/AVtNDbflfjRE8PTezweZ2ehMrBE=/2019/12/20/5d1f0f70-a427-4959-bc2c-7714bcc0c954/ogi-autopilot.jpg"
+      - url: "https://assets.newatlas.com/dims4/default/fb141fa/2147483647/strip/true/crop/1620x1080+150+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F5a%2Faf%2F069a73894762b1ee09fff403f676%2Fxpengp7otaupgrade2.jpg"
         width: 1200
-        height: 630
+        height: 800
         isCached: true
-  - title: "Elon Musk says Tesla's Full Self-Driving tech will have Level 5 autonomy by the end of 2021"
-    excerpt: "Tesla's CEO also confirmed that customers won't be able to transfer previous FSD purchases between old and new cars."
-    publishedDateTime: 2021-01-28T01:48:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/elon-musk-full-self-driving-tesla-earnings-call/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/elon-musk-full-self-driving-tesla-earnings-call/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/elon-musk-full-self-driving-tesla-earnings-call/"
+  - title: "Tesla had talks with other automakers about licensing its self-driving software, Elon Musk says"
+    excerpt: "Tesla had “preliminary” discussions with other automakers about licensing its self-driving software, according to new comments by CEO Elon Musk. Tesla Licensing Software Today, Tesla released its Q4 2020 financial results and following the release,"
+    publishedDateTime: 2021-01-28T01:46:00Z
+    webUrl: "https://electrek.co/2021/01/27/tesla-talks-automakers-licensing-self-driving-software-elon-musk/"
+    ampWebUrl: "https://electrek.co/2021/01/27/tesla-talks-automakers-licensing-self-driving-software-elon-musk/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/01/27/tesla-talks-automakers-licensing-self-driving-software-elon-musk/amp/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 79
+      name: Electrek
+      domain: electrek.co
+    quality: 77
     images:
-      - url: "https://cnet3.cbsistatic.com/img/gCKjWpaDOLArujU35HNJiNtgxgs=/2018/10/24/3e4c2a85-ffa1-4600-ab59-e8af96931af4/tesla-logo-ogi.jpg"
+      - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2019/10/Tesla-Autopilot-hero-4-e1570845324247.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
-        height: 630
+        height: 628
         isCached: true
 
 secured: "2+0THjfZjXaAJWsPTzjnjFLkjsoyOkNoTAc6PT9sdYKHA3uJpwcKH+ewubJ1C4h57dd+bvw0BcteFukLNCoWSLlCfZG819ZrikxEFTHzqxxUuLqubeXETVNIJnfSVqp8XB2IabScdpFx5mnD865V3x/vrywvI6hdEWwp/QNXVNeDZQi4vsO6V9NXkDXztaTDiPal1MAZb8mv3jEgvisvcrZFah4Vp+ht5LO7zmyvokbE0e9rtbggA4mJqTeC+Fuhc3SjIdrfYf/mbTRbZ0CsBsfZh3oQDMwPM6eO3dw093SG/8HDQ/kiCZBNP1hrNLZqoWqzQRPbcwP6ZTclIJb1e2OTxMwfb+Mh/WQNd3LyGWjJBURPTHnfV5WVm9WZ+RIqo1Ts0GW30JSL9rYQiZ56ffziMD0fwZcWszFVYTpjOGuIHJtgw8mBZn/6LmjVwVRJV2pHgqYG/MTr8ntzr/18IZcRTaJ4/1NomUqdh6zCvMDwnkc13srqIuRDOrLPtLC1mmfy7+eWeHQMaCxqRIX+fQ==;/CdxF2h39cuPQw1rSaKyyQ=="

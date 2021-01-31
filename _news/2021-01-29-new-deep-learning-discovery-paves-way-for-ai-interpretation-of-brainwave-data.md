@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Ehave, Inc. Utilizes Artificial Intelligence and Machine Learning for Big Data Management in Mental Healthcare"
-    excerpt: "Ehave has been using artificial intelligence and machine learning since the first version of its Ehave Dashboard to transform clinical research, identify treatment protocols, and increase the virtual care capabilities of health providers. Before the COVID ..."
-    publishedDateTime: 2021-01-27T01:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ehave-inc-utilizes-artificial-intelligence-and-machine-learning-for-big-data-management-in-mental-healthcare-2021-01-25"
+  - title: "Reveal And Brainspace Merge to Become Leading Artificial Intelligence Powered eDiscovery Platform"
+    excerpt: "K1 Invests More Than $200 Million, Making the Combined Company a Dominant Force Driving AI Innovation in Law CHICAGO (Jan. 26, 2021) – Reveal, a global provider of the leading … Reveal And Brainspace"
+    publishedDateTime: 2021-01-28T06:41:00Z
+    webUrl: "https://aceds.org/reveal-and-brainspace-merge-to-become-leading-artificial-intelligence-powered-ediscovery-platform/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 81
+      name: ACEDS
+      domain: aceds.org
+    quality: 39
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://furfa335zourqadouan0czzk-wpengine.netdna-ssl.com/wp-content/uploads/2020/06/cropped-ACEDS-Triangles-Square-png.png"
+        width: 512
+        height: 512
         isCached: true
 
 secured: "H3sUkSN9Qu0co+ODtflIP+xmeWu2e76aogdW0uR3kQwe5afTT1gXllossRFCtZ26PJ4VohjcK7EwSd1nuwcqxcynXn96q1Z0vVfvm/ljJSG1VhT+WwRUu3dWJn6H2c2cOJxaO3kRMKZiYZB+PtzxtFyu6KHTwEn91xe8lZZZMqmabmsA2+thIt2ZDBBaH3DvWPCwndWoLzwzQr96DacB8o+mHtV+FP6YLVOLXt0qQthGz4lQcObgiGOOeWGbwzgRuZZgIEcK6i0yddg7gtLEImT2k6i/D6PkVSMnloWmQJxbFk+rgrvNTqCXYTt5Tch3vTO1UFhG160+xx9EBaNHnJger5KfibROzVd9yCK9lOI=;NlVuouYX9epAMzMFqMBIsg=="

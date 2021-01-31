@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/copysmith-155548549.html"
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/copysmith-155548549.html"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 627
     isCached: true
 
-secured: "0V2YVlAFYJCkm5ewc+j/g/OgnRtRVHShdPXUK2owfTqimnNbk/PzkuRgvrq+Y04QKVt9tyG+XTSxexy4wNvT57Vht07QauWuGu1daAbVVptGSNvvzEZv7ZXnzsOnc66/6uavgqXpBCUkW0nlrdGzFT8XVN8c9EoTV5+IoudrezGE84qFQeQAxLI7im/YCxoyG9evtRWctL6JaGshBf+IAes3Cp5smZJG82dgawBNz6hPHmNUFyteGvZFl+C/loAI1fpeLbYu9EaklYcO2T7o03A+uCY7+pVGwr99OE3yxDGDEIZPggxlk/H6GzN8F3DL300vVpkG7Lf+CHNBzwQZKmXwgSHnWEfWSPCXaGOI7JM=;eO+SEo43GwSFh9iZC0aYWg=="
+secured: "R1WuOQ0ILqc+OmxsNt4UQ2yhuvR/nVmxk/ctqg318LIhMiqyTD7d8DOzQBwmmoUd76i7D6Ylp1TE/3UTcvlTgurdblZwPvq/HHYjSBbyC2F8QJC0aLS9WUazK3BLJv1vtPWBRK6DtKpJ8lIjYBjJE8p/YRXAoX+14/JUjwEHxeV01UKHpheq5adFRH7nWw4FlDU4hwMvikf5otvQY/+kZBvNG+YrbtAeAsQZ0P5poqDI1fCpoNfv7sntj8Z2YUtq0hzMDb4AGvx52lP/GDgf47Bss/K+9+HQmFd1GGg+PAnuROLm1p73irOlP0JZut9BnBFWfBY8bGS6ANvYZQalQQP1Ku93FQD6aa1fdAy8OrTWjgiOcdkOtyxMENs1GSlkL9D0pc9RGRuawOj6MYRIo8gowrdN5yXciQ2eVxYJbk6YPsBrmMXBCjSYs0Gn9K0Sgh8Mz/xjrvPk8kcCGTQTmJgWsOgY+t65SF/VtNL+AWJOx4Hm5movW7Eba9aoDpmJJeMkqYEzQkaDvJBYyLBcyA==;3mWnk2Pf8KN4qp5djJjRZQ=="
 ---
 

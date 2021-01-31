@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/janakirammsv/2021/01/31/amazons-unique-app
 ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2021/01/31/amazons-unique-approach-to-automl-makes-ai-accessible-to-enterprises/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/01/31/amazons-unique-approach-to-automl-makes-ai-accessible-to-enterprises/amp/"
 type: article
-quality: 110
-heat: 110
+quality: 112
+heat: 112
 published: true
 
 provider:
@@ -26,6 +26,7 @@ topics:
   - AWS AI
   - Microsoft AI
   - IBM AI
+  - Google AI
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60168f6c53f27a98a70bf662%2F0x0.png"

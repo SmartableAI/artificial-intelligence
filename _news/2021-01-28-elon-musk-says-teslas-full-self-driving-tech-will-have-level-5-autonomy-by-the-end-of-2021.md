@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/elon-musk-full-self-driving-tes
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/elon-musk-full-self-driving-tesla-earnings-call/"
 type: article
 quality: 79
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: CNET
@@ -31,37 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla will never achieve full self-driving capabilities, Waymo CEO says"
-    excerpt: "John Krafcik called Tesla's approach a \"misconception,\" while Google's sister company tackles lidar and more advanced systems."
-    publishedDateTime: 2021-01-27T02:08:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/tesla-will-never-achieve-full-self-driving-capabilities-says-waymo-ceo/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-will-never-achieve-full-self-driving-capabilities-says-waymo-ceo/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-will-never-achieve-full-self-driving-capabilities-says-waymo-ceo/"
+  - title: "Don't Fall for Elon Musk's Self-Driving Car Fallacy"
+    excerpt: "The Tesla CEO continues to overestimate the long-term profit potential of Tesla's self-driving car technology."
+    publishedDateTime: 2021-01-31T16:38:00Z
+    webUrl: "https://www.fool.com/investing/2021/01/31/dont-fall-for-elon-musks-self-driving-car-fallacy/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2021/01/31/dont-fall-for-elon-musks-self-driving-car-fallacy/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/01/31/dont-fall-for-elon-musks-self-driving-car-fallacy/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 104
+      name: The Motley Fool
+      domain: fool.com
+    quality: 74
     images:
-      - url: "https://cnet2.cbsistatic.com/img/AVtNDbflfjRE8PTezweZ2ehMrBE=/2019/12/20/5d1f0f70-a427-4959-bc2c-7714bcc0c954/ogi-autopilot.jpg"
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F610624%2Findustrials-autos-tesla-model-3-tsla.JPG&w=1200&op=resize"
         width: 1200
-        height: 630
+        height: 601
         isCached: true
-  - title: "Tesla Reports First Yearly Profit, Musk Again Promises Full Self-Driving"
-    excerpt: "It's worth noting that the company missed the same FSD target in 2019 and 2020, but Tesla continues to work toward getting self-driving technology on the market."
-    publishedDateTime: 2021-01-28T02:04:00Z
-    webUrl: "https://www.caranddriver.com/news/a35341920/tesla-fourth-quarter-fsd-cybertruck-vans/"
-    ampWebUrl: "https://www.caranddriver.com/news/amp35341920/tesla-fourth-quarter-fsd-cybertruck-vans/"
-    cdnAmpWebUrl: "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp35341920/tesla-fourth-quarter-fsd-cybertruck-vans/"
+  - title: "Video: Tesla Full Self-Driving Vehicle On Manhattan Beach Streets"
+    excerpt: "From Downtown Manhattan Beach up Manhattan Beach Boulevard and on to Torrance, this video of a Tesla FSD in traffic is amazing to watch."
+    publishedDateTime: 2021-01-30T23:58:00Z
+    webUrl: "https://patch.com/california/manhattanbeach/video-tesla-full-self-driving-vehicle-manhattan-beach-streets"
+    ampWebUrl: "https://patch.com/california/manhattanbeach/amp/29235702/video-tesla-full-self-driving-vehicle-on-manhattan-beach-streets"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/california/manhattanbeach/amp/29235702/video-tesla-full-self-driving-vehicle-on-manhattan-beach-streets"
     type: article
     provider:
-      name: Car and Driver
-      domain: caranddriver.com
-    quality: 73
+      name: Patch
+      domain: patch.com
+    quality: 59
     images:
-      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/an-aerial-view-of-the-tesla-fremont-factory-on-may-13-2020-news-photo-1611794951.?crop=1xw:0.74963xh;center,top&resize=1200:*"
-        width: 1024
-        height: 512
+      - url: "https://patch.com/img/cdn20/users/73774/20210130/015123/styles/patch_image/public/model-s-001___30135051820.jpg?width=984"
+        width: 984
+        height: 738
         isCached: true
 
 secured: "kfzH+tP2xWga+801EGE9JH0b0lWNSMsFntcpQtbXtzC21jf36HYpJJshordQ8v+6ev0jk2TaJC40rA1FykTIX+fS+dglrY03oC5gNgwHspcQ6tUuO263uqyKi+bbGJaLrWCnrmPsyTPrSKYE8IuI9oE3XYBAfLAtFfZAgpsMnCkl7uJslxWvrvAGtHvHzUt67xPtY7NAwYgPX2ko6SAEeG3TJAYT6be6B+DfBTILrKqlL3RLNzvfPtFe51W4IYJxz1gVvJmbIMEXHUgt2jihOL5ZVd7tqYMC0kORRDCGpJ1JTmIr6+N9LRuIpG+JSafzHOIaNttjyp9VGAFHdu/KLr17iTauNvpQlFnms/LizWY=;4yHOu7gZ5PGGCQmCEu/y6A=="

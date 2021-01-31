@@ -1,26 +1,29 @@
 ---
 category: news
 title: "Flex Logix Pairs its InferX X1 AI Inference Accelerator with the High-Bandwidth Winbond 4Gb LPDDR4X Chip to Set a New Benchmark in Edge AI Performance"
-excerpt: "Winbond Electronics Corporation, a leading global supplier of semiconductor memory solutions, today revealed that its"
+excerpt: "TAICHUNG, Taiwan and MOUNTAIN VIEW, Calif., Jan. 26, 2021 /PRNewswire/ -- Winbond Electronics Corporation, a leading global supplier of semiconductor memory solutions,"
 publishedDateTime: 2021-01-27T00:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/flex-logix-pairs-its-inferx-x1-ai-inference-accelerator-with-the-high-bandwidth-winbond-4gb-lpddr4x-chip-to-set-a-new-benchmark-in-edge-ai-performance-301215697.html"
-webUrl: "https://www.prnewswire.com/news-releases/flex-logix-pairs-its-inferx-x1-ai-inference-accelerator-with-the-high-bandwidth-winbond-4gb-lpddr4x-chip-to-set-a-new-benchmark-in-edge-ai-performance-301215697.html"
+originalUrl: "https://www.benzinga.com/pressreleases/21/01/n19336095/flex-logix-pairs-its-inferx-x1-ai-inference-accelerator-with-the-high-bandwidth-winbond-4gb-lpddr4"
+webUrl: "https://www.benzinga.com/pressreleases/21/01/n19336095/flex-logix-pairs-its-inferx-x1-ai-inference-accelerator-with-the-high-bandwidth-winbond-4gb-lpddr4"
+ampWebUrl: "https://amp.benzinga.com/amp/content/19336095"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19336095"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - AI Hardware
+  - Computer Vision
   - AI
+  - AI Hardware
 
 images:
-  - url: "https://mma.prnewswire.com/media/1427328/Flex_Logix_Technologies_Chip.jpg?p=facebook"
-    width: 2699
-    height: 1414
+  - url: "https://mma.prnewswire.com/media/1427328/Flex_Logix_Technologies_Chip.jpg"
+    width: 400
+    height: 300
     isCached: true
 
-secured: "dV4wdmcQgfeN/5E9Xbpm3S0dXWdkaOAQndCL0OCYOPuFkTolVJjJZ5fe9F6Cg1tML/+Z9QTbTR7s1bLgR0I8YKdQ071w6vWmP3EEFlfnVl5i/LaKFMs2TGPneJC7ec1O18L6H5dSKGbE9xDkHCWzhgR2wI/puA2j4QCBvcW3b49tRS3+a0u6ORt+A3XMLNN7alh/iTrjPgl8qbQDo6RYb9BD57O3hNywvzmNHPnx1BVpUaVBEbb8SkYXdE1tanbSXy2XSQpsjM4W/yU4N2Kk5xmyifz9/pc7E8GyZr8CkaXVdUCtDKX1PruO2epfyI6CqG8kIm3vSDm+/bf867Bz5f3bBi98v7fkqxCiu4wDHJA=;B0SCgopshf5LUkekxAux4A=="
+secured: "TXam9pSzMz7QZ0ilOmHhAHrI8yEPUttY4n08xDEpXJMiVnPCVd9zCWpbLneCKJY2za7W9OX68iGUHjt2QCfQdWP0VYMe/qhcdd7SWjxCmcjRVxbwB0D7e0zmIY34O8ZCJWvScHZngwaTJGgaoO+tpoqgufI9l7fd667zqVa2cuL1z3V/tf+Bj65QWL0RhWZtp79yBSL5pOR4MC/PABqtMCF8kgugiYHxXJtTglMHWNn03SXFhdzyou565YBlHvUeXxMLt5EurecqRz2m4rYL5U8wDiQoEibk/g7+cYj7/UkUlETBld1b13zlHEjnxOgwK2B8+wxZyB/cACUWv3kJDv8dFBR9wiby2FS5O6QJCWo=;NXW/aLVtoC7jtyQgNGabXA=="
 ---
 

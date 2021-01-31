@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Tesla Reports First Yearly Profit, Musk Again Promises Full Self-Driving"
+    excerpt: "It's worth noting that the company missed the same FSD target in 2019 and 2020, but Tesla continues to work toward getting self-driving technology on the market."
+    publishedDateTime: 2021-01-28T02:04:00Z
+    webUrl: "https://www.caranddriver.com/news/a35341920/tesla-fourth-quarter-fsd-cybertruck-vans/"
+    ampWebUrl: "https://www.caranddriver.com/news/amp35341920/tesla-fourth-quarter-fsd-cybertruck-vans/"
+    cdnAmpWebUrl: "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp35341920/tesla-fourth-quarter-fsd-cybertruck-vans/"
+    type: article
+    provider:
+      name: Car and Driver
+      domain: caranddriver.com
+    quality: 73
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/an-aerial-view-of-the-tesla-fremont-factory-on-may-13-2020-news-photo-1611794951.?crop=1xw:0.74963xh;center,top&resize=1200:*"
+        width: 1024
+        height: 512
+        isCached: true
 
 secured: "+7G1NZDVtiHjwtWqjBxqItFK2UO9hvCmlE+qC9mI3CDNFikKrMlcF87MK2HpL+LoAvWRFYVkLUVICuKJOgyBgddxi2bKLJGL6bYPWd42YPzWjrAvQCfLfaiaCNPP535bHJ+9Qrpi4dds2PDBn0mC4nR1WpbTLGFPjyrHOjAtaiuTxVoxTCAmoFINH6tsS5zJnyFBSHQXJXcme82VtGhUZmTjBN/lb8c7yZWPiYXR5hAytI88pOl7HuqoPvNeL3VoZRHWCt+FVufC2rfg42RVADnzYfiKnnKl/UPkA6QKH4ipm2YIStGeHoNJYqAtKMJ3AYaaf8xsauu4LvajkBv5pQELMdvcMjIU5fUm+/hi7pTUsFnPleBW8GEDBuv0GjocqzkXeFp4qHpqr01opEMFpgPlM5yg050l6s5tsrtWEB8PmyBVVht+8COxWBymQ4ldEMuw8bt3gtRUcfOlkogMTvq04KGqqJG3NfL0wVH8vpCRD29XDKX0q3WzsJKTZFRIzEcvVBE51W7pFirJETBeNg==;b40JC3ywJanFn4LWIs+2lA=="
 ---

@@ -8,7 +8,7 @@ webUrl: "https://www.theguardian.com/technology/2021/jan/25/new-york-facial-reco
 ampWebUrl: "https://amp.theguardian.com/technology/2021/jan/25/new-york-facial-recognition-technology-police"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/jan/25/new-york-facial-recognition-technology-police"
 type: article
-quality: 58
+quality: 60
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AWS AI
 
 images:
   - url: "https://i.guim.co.uk/img/media/85676a6a424d2da156a1e11b78fc593a1ac470e2/0_232_3853_2312/master/3853.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8f16457acdc97a5aa2b31edd5fe305b7"
@@ -249,6 +250,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing-1024x662.jpeg"
         width: 1024
         height: 662
+        isCached: true
+  - title: "Amherst teen wins recognition in national arts competition"
+    excerpt: "Arden Lloyd first starting taking piano lessons when she was 8 at the behest of her parents. It wasn’t something she particularly objected to, she says, but on the other hand, “I didn’t take it too seriously."
+    publishedDateTime: 2021-01-31T17:36:00Z
+    webUrl: "https://www.gazettenet.com/Amherst-teen-is-a-finalist-in-national-music-competition-38601871"
+    type: article
+    provider:
+      name: Daily Hampshire Gazette
+      domain: gazettenet.com
+    quality: 24
+    images:
+      - url: "http://www.gazettenet.com/getattachment/3a4ca9e8-a4c4-4c5d-9697-e069219c034f/70ba58820e2a47a08a7452c0c83b9128.jpg"
+        width: 499
+        height: 325
         isCached: true
   - title: "Consumer Confidential: Millions of faces scanned without approval. We need rules for facial recognition"
     excerpt: "The powers that be at UCLA thought it was a good idea at the time — using state-of-the-art technology to scan students' faces for gaining access to campus buildings. Students"
