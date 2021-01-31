@@ -4,6 +4,153 @@
   "page": 3,
   "value": [
     {
+      "path": "_people/karl-iagnemma.md",
+      "title": "Karl Iagnemma",
+      "excerpt": "Karl Iagnemma is an American writer and research scientist. He is also the CEO of self-driving technology company NuTonomy.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/karl-iagnemma/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/people/karl-iagnemma/",
+      "type": "profile",
+      "name": "Karl Iagnemma",
+      "bio": "Karl Iagnemma is an American writer and research scientist. He is also the CEO of self-driving technology company NuTonomy.",
+      "website": "http://www.karliagnemma.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/karl-iagnemma-b52186102/"
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=3VyGrdwAAAAJ",
+        "citations": 15729
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Karl_Iagnemma"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "MIT",
+        "domain": "mit.edu"
+      },
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://twitter.com/Karl_Iagnemma/profile_image?size=original",
+          "width": 400,
+          "height": 400,
+          "title": "Karl Iagnemma",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/leo-breiman.md",
+      "title": "Leo Breiman",
+      "excerpt": "Leo Breiman (January 27, 1928 – July 5, 2005) was a distinguished statistician at the University of California, Berkeley. He was the recipient of numerous honors and awards, and was a member of the United States National Academy of Science.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/leo-breiman/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/people/leo-breiman/",
+      "type": "profile",
+      "name": "Leo Breiman",
+      "bio": "Leo Breiman (January 27, 1928 – July 5, 2005) was a distinguished statistician at the University of California, Berkeley. He was the recipient of numerous honors and awards, and was a member of the United States National Academy of Science.",
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=mXSv_1UAAAAJ",
+        "citations": 169164
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Leo_Breiman"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "berkeley.edu",
+        "domain": "berkeley.edu"
+      },
+      "topics": [
+        "AI",
+        "Math for AI",
+        "Machine Learning"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://scholar.google.com/citations?view_op=view_photo&user=mXSv_1UAAAAJ&citpid=2",
+          "width": 128,
+          "height": 89,
+          "title": "Leo Breiman",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/lev-dudko.md",
+      "title": "Lev Dudko",
+      "excerpt": "Lomonosov Moscow State University Skobeltsyn Institute of Nuclear Physics",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/lev-dudko/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/people/lev-dudko/",
+      "type": "profile",
+      "name": "Lev Dudko",
+      "bio": "Lomonosov Moscow State University Skobeltsyn Institute of Nuclear Physics",
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=zEQGLhoAAAAJ",
+        "citations": 177239
+      },
+      "affiliation": {
+        "path": "",
+        "name": "sinp.msu.ru",
+        "domain": "sinp.msu.ru"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://scholar.google.com/citations/images/avatar_scholar_128.png",
+          "width": 128,
+          "height": 128,
+          "title": "Lev Dudko",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/lily-asquith.md",
+      "title": "Lily Asquith",
+      "excerpt": "Royal Society Dorothy Hodgkin Research Fellow, University of Sussex",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/lily-asquith/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/people/lily-asquith/",
+      "type": "profile",
+      "name": "Lily Asquith",
+      "bio": "Royal Society Dorothy Hodgkin Research Fellow, University of Sussex",
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=cFhAMkoAAAAJ",
+        "citations": 179519
+      },
+      "affiliation": {
+        "path": "",
+        "name": "University of Sussex",
+        "domain": "sussex.ac.uk"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://scholar.google.com/citations/images/avatar_scholar_128.png",
+          "width": 128,
+          "height": 128,
+          "title": "Lily Asquith",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_people/lotfi-a-zadeh.md",
       "title": "Lotfi A. Zadeh",
       "excerpt": "Professor Emeritus, EECS, UC Berkeley",
@@ -113,6 +260,38 @@
       "content": "\r\n"
     },
     {
+      "path": "_people/madeline-gannon.md",
+      "title": "Madeline Gannon",
+      "excerpt": "Inventing better ways to communicate with machines.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/madeline-gannon/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/people/madeline-gannon/",
+      "type": "profile",
+      "name": "Madeline Gannon",
+      "bio": "Inventing better ways to communicate with machines.",
+      "location": "Pittsburgh, PA",
+      "website": "https://t.co/It4puKUIPF",
+      "twitter": {
+        "username": "madelinegannon",
+        "url": "https://twitter.com/madelinegannon",
+        "followers": 3021
+      },
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/852213397386969088/8zewUndt_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Madeline Gannon",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_people/maja-j-mataric.md",
       "title": "Maja J Mataric",
       "excerpt": "Maja J. Matarić is an American computer scientist and roboticist, and the Chan Soon-Shiong Chaired Professor of Computer Science, Neuroscience, and Pediatrics at the University of Southern California.",
@@ -148,6 +327,36 @@
           "height": 180,
           "title": "Maja J Mataric",
           "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/mariya-yao.md",
+      "title": "Mariya Yao",
+      "excerpt": "Editor-In-Chief @TOPBOTS. Former CTO @MetamavenAI. #AI #ML @Forbes writer, speaker, author @AppliedAIBook, maker of lovable #UX & crappy #bots",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/mariya-yao/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/people/mariya-yao/",
+      "type": "profile",
+      "name": "Mariya Yao",
+      "bio": "Editor-In-Chief @TOPBOTS. Former CTO @MetamavenAI. #AI #ML @Forbes writer, speaker, author @AppliedAIBook, maker of lovable #UX & crappy #bots",
+      "website": "https://mariyayao.com/",
+      "twitter": {
+        "username": "thinkmariya",
+        "url": "https://twitter.com/thinkmariya",
+        "followers": 28203
+      },
+      "topics": [
+        "AI"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1299418419830300672/tjPuomYA_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Mariya Yao",
+          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -356,6 +565,44 @@
       "content": "\r\n"
     },
     {
+      "path": "_people/sougwen-chung.md",
+      "title": "Sougwen Chung",
+      "excerpt": "Chung's work explores the mark-made-by-hand and the mark-made-by-machine as an approach to understanding the dynamics of humans and systems. Chung is a former research fellow at MIT’s Media Lab and a pioneer in the field of human-machine collaboration. In 2019, she was selected as the Woman of the Year in Monaco for achievement in the Arts & Sciences.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/sougwen-chung/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/people/sougwen-chung/",
+      "type": "profile",
+      "name": "Sougwen Chung",
+      "bio": "Chung's work explores the mark-made-by-hand and the mark-made-by-machine as an approach to understanding the dynamics of humans and systems. Chung is a former research fellow at MIT’s Media Lab and a pioneer in the field of human-machine collaboration. In 2019, she was selected as the Woman of the Year in Monaco for achievement in the Arts & Sciences.",
+      "location": "New York, New York",
+      "website": "https://sougwen.com/",
+      "twitter": {
+        "username": "sougwen",
+        "url": "https://twitter.com/sougwen",
+        "followers": 8628
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/sougwenchung/"
+      },
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ],
+      "heat": 50,
+      "tags": [
+        "Artist"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/654747413152821248/AAyCfd5Q_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Sougwen Chung",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_people/stuart-j-russell.md",
       "title": "Stuart J. Russell",
       "excerpt": "Stuart Jonathan Russell is a computer scientist known for his contributions to artificial intelligence. He is a Professor of Computer Science at the University of California, Berkeley and Adjunct Professor of Neurological Surgery at the University of California, San Francisco. ",
@@ -422,153 +669,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/collections/female-pioneers-in-robotics-2020.md",
-      "title": "Female Pioneers in Robotics – 2020",
-      "excerpt": "Featuring outstanding female researchers and entrepreneurs in the field of robotics.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/collections/female-pioneers-in-robotics-2020/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/people/collections/female-pioneers-in-robotics-2020/",
-      "type": "collection",
-      "name": "Female Pioneers in Robotics – 2020",
-      "bio": "Featuring outstanding female researchers and entrepreneurs in the field of robotics.",
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Jean Liu",
-          "excerpt": "Liu Qing or Jean Liu, is a Chinese business executive. Liu is the President of Didi Chuxing, China's largest mobile transportation platform. She worked at Goldman Sachs Asia for 12 years, becoming a managing director in 2012, before switching to Didi Dache serving as its chief operating officer in July 2014.",
-          "type": "profile",
-          "name": "Jean Liu",
-          "bio": "Liu Qing or Jean Liu, is a Chinese business executive. Liu is the President of Didi Chuxing, China's largest mobile transportation platform. She worked at Goldman Sachs Asia for 12 years, becoming a managing director in 2012, before switching to Didi Dache serving as its chief operating officer in July 2014.",
-          "topics": [
-            "AI",
-            "AI in Autos"
-          ],
-          "heat": 32,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/987293141253287936/1SJjp2Np_400x400.jpg",
-              "width": 400,
-              "height": 400,
-              "title": "Jean Liu",
-              "isCached": true
-            }
-          ]
-        },
-        {
-          "path": "",
-          "title": "Alice M. Agogino",
-          "excerpt": "Engineering professor in human-centered design, sustainable design, computational thinking, new media. Founder of the Engineering Pathway",
-          "type": "profile",
-          "name": "Alice M. Agogino",
-          "bio": "Engineering professor in human-centered design, sustainable design, computational thinking, new media. Founder of the Engineering Pathway",
-          "topics": [
-            "AI",
-            "AI in Robotics"
-          ],
-          "heat": 42,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/429713639285596161/D0ReK5-6_400x400.jpeg",
-              "width": 400,
-              "height": 400,
-              "title": "Alice M. Agogino",
-              "isCached": true
-            }
-          ]
-        },
-        {
-          "path": "",
-          "title": "Noramay Cadena",
-          "excerpt": "Cofounder & Managing Partner @MiLACapital | MIT grad*3 | Former @Boeing | Cofounder @LatinasinSTEM | @KauffmanFellows Class 23",
-          "type": "profile",
-          "name": "Noramay Cadena",
-          "bio": "Cofounder & Managing Partner @MiLACapital | MIT grad*3 | Former @Boeing | Cofounder @LatinasinSTEM | @KauffmanFellows Class 23",
-          "topics": [
-            "AI"
-          ],
-          "heat": 96,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/836441713497391104/Aj6W5UHO_400x400.jpg",
-              "width": 400,
-              "height": 400,
-              "title": "Noramay Cadena",
-              "isCached": true
-            }
-          ]
-        },
-        {
-          "path": "",
-          "title": "Madeline Gannon",
-          "excerpt": "Inventing better ways to communicate with machines.",
-          "type": "profile",
-          "name": "Madeline Gannon",
-          "bio": "Inventing better ways to communicate with machines.",
-          "topics": [
-            "AI",
-            "AI in Robotics"
-          ],
-          "heat": 20,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/852213397386969088/8zewUndt_400x400.jpg",
-              "width": 400,
-              "height": 400,
-              "title": "Madeline Gannon",
-              "isCached": true
-            }
-          ]
-        }
-      ],
-      "size": 8,
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/987293141253287936/1SJjp2Np_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Jean Liu",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/alice-agogino.md",
-      "title": "Alice M. Agogino",
-      "excerpt": "Engineering professor in human-centered design, sustainable design, computational thinking, new media. Founder of the Engineering Pathway",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/alice-agogino/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/people/alice-agogino/",
-      "type": "profile",
-      "name": "Alice M. Agogino",
-      "bio": "Engineering professor in human-centered design, sustainable design, computational thinking, new media. Founder of the Engineering Pathway",
-      "location": "UC Berkeley",
-      "website": "https://me.berkeley.edu/people/alice-m-agogino/",
-      "twitter": {
-        "username": "agogino",
-        "url": "https://twitter.com/agogino",
-        "followers": 1458
-      },
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ],
-      "heat": 42,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/429713639285596161/D0ReK5-6_400x400.jpeg",
-          "width": 400,
-          "height": 400,
-          "title": "Alice M. Agogino",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_people/andrew-moore.md",
       "title": "Andrew Moore",
       "excerpt": "Vice President, Google and head of Google Cloud AI. I love Algorithms, Systems, Machine Learning, AI.",
@@ -582,7 +682,7 @@
       "twitter": {
         "username": "awmcmu",
         "url": "https://twitter.com/awmcmu",
-        "followers": 5943
+        "followers": 5942
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/andrew-moore-016b751"
@@ -592,13 +692,57 @@
         "Google AI",
         "Machine Learning"
       ],
-      "heat": 42,
+      "heat": 41,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/626157691828875264/tDZ-TLBp_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Andrew Moore",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/huahai-yang.md",
+      "title": "Huahai Yang",
+      "excerpt": "A technologist and an entrepreneur. Used to be a professor and a research scientist.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/huahai-yang/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/people/huahai-yang/",
+      "type": "profile",
+      "name": "Huahai Yang",
+      "bio": "A technologist and an entrepreneur. Used to be a professor and a research scientist.",
+      "location": "San Jose, CA",
+      "website": "https://t.co/s5ydlRJnm8",
+      "twitter": {
+        "username": "huahaiy",
+        "url": "https://twitter.com/huahaiy",
+        "followers": 976
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/huahaiyang/"
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=KvPSD8EAAAAJ",
+        "citations": 216224
+      },
+      "affiliation": {
+        "path": "",
+        "name": "juji.io",
+        "domain": "juji.io"
+      },
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "heat": 41,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1189433763953950721/9-Nr_tN-_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Huahai Yang",
           "isCached": true
         }
       ],
@@ -641,7 +785,7 @@
         "AI",
         "Machine Learning"
       ],
-      "heat": 42,
+      "heat": 31,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/750274527016386560/D8Z1_kgh_400x400.jpg",
@@ -654,203 +798,106 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/harry-shum.md",
-      "title": "Harry Shum",
-      "excerpt": "Harry Shum is a Chinese computer scientist. He is one of the doctoral student of Raj Reddy. He is the Executive Vice President of Artificial Intelligence & Research at Microsoft. He is known for his research on computer vision and computer graphics, and for the development of the search engine Bing.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/harry-shum/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/people/harry-shum/",
+      "path": "_people/verity-harding.md",
+      "title": "Verity Harding",
+      "excerpt": "AI and politics. Head of Global Policy & Partnerships at DeepMind. Views are my own. She / her.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/verity-harding/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/people/verity-harding/",
       "type": "profile",
-      "name": "Harry Shum",
-      "bio": "Harry Shum is a Chinese computer scientist. He is one of the doctoral student of Raj Reddy. He is the Executive Vice President of Artificial Intelligence & Research at Microsoft. He is known for his research on computer vision and computer graphics, and for the development of the search engine Bing.",
-      "location": "Redmond, WA",
-      "website": "http://t.co/NY3kFUGs7a",
+      "name": "Verity Harding",
+      "bio": "AI and politics. Head of Global Policy & Partnerships at DeepMind. Views are my own. She / her.",
+      "website": "https://t.co/7skid8sUXc",
       "twitter": {
-        "username": "harryshum",
-        "url": "https://twitter.com/harryshum",
-        "followers": 17560
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=9akH-n8AAAAJ",
-        "citations": 47582
+        "username": "verityharding",
+        "url": "https://twitter.com/verityharding",
+        "followers": 2544
       },
       "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Harry_Shum"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "url": "https://en.wikipedia.org/wiki/Verity_Harding"
       },
       "topics": [
-        "AI",
-        "Microsoft AI",
-        "Computer Vision"
+        "AI"
       ],
-      "heat": 42,
+      "heat": 31,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/473379244840480769/Y4YeRso7_400x400.png",
+          "url": "https://pbs.twimg.com/profile_images/1179858918132142080/UucjikYj_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Harry Shum",
+          "title": "Verity Harding",
           "isCached": true
         }
       ],
       "content": "\r\n"
     },
     {
-      "path": "_people/jean-liu.md",
-      "title": "Jean Liu",
-      "excerpt": "Liu Qing or Jean Liu, is a Chinese business executive. Liu is the President of Didi Chuxing, China's largest mobile transportation platform. She worked at Goldman Sachs Asia for 12 years, becoming a managing director in 2012, before switching to Didi Dache serving as its chief operating officer in July 2014.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/jean-liu/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/people/jean-liu/",
+      "path": "_people/carol-e-reiley.md",
+      "title": "Carol E. Reiley",
+      "excerpt": "Entrepreneur/Scientist/Roboticist. Saving the world, one robot at a time. Cofounder & CEO of healthcare startup. Board member & Advisor of http://drive.ai.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/carol-e-reiley/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/people/carol-e-reiley/",
       "type": "profile",
-      "name": "Jean Liu",
-      "bio": "Liu Qing or Jean Liu, is a Chinese business executive. Liu is the President of Didi Chuxing, China's largest mobile transportation platform. She worked at Goldman Sachs Asia for 12 years, becoming a managing director in 2012, before switching to Didi Dache serving as its chief operating officer in July 2014.",
-      "location": "Beijing, China",
+      "name": "Carol E. Reiley",
+      "bio": "Entrepreneur/Scientist/Roboticist. Saving the world, one robot at a time. Cofounder & CEO of healthcare startup. Board member & Advisor of http://drive.ai.",
+      "location": "Los Altos, CA",
+      "website": "https://t.co/wvvOUl1h5W",
       "twitter": {
-        "username": "jeanliuqing",
-        "url": "https://twitter.com/jeanliuqing",
-        "followers": 1134
-      },
-      "weibo": {
-        "url": "https://www.weibo.com/u/2209030102",
-        "followers": 1906714
-      },
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Liu_Qing_(businesswoman)"
-      },
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ],
-      "heat": 32,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/987293141253287936/1SJjp2Np_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Jean Liu",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/kyle-cranmer.md",
-      "title": "Kyle Cranmer",
-      "excerpt": "Particle physics, LHC, stats/ML/AI, collaborative & open science. Executive Director Moore-Sloan Data Science Environment at NYU.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/kyle-cranmer/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/people/kyle-cranmer/",
-      "type": "profile",
-      "name": "Kyle Cranmer",
-      "bio": "Particle physics, LHC, stats/ML/AI, collaborative & open science. Executive Director Moore-Sloan Data Science Environment at NYU.",
-      "location": "New York",
-      "website": "https://t.co/OiHC3bfPoX",
-      "twitter": {
-        "username": "KyleCranmer",
-        "url": "https://twitter.com/KyleCranmer",
-        "followers": 9772
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=EZjSxgwAAAAJ",
-        "citations": 163679
-      },
-      "affiliation": {
-        "path": "",
-        "name": "nyu.edu",
-        "domain": "nyu.edu"
-      },
-      "topics": [
-        "AI",
-        "Math for AI",
-        "Machine Learning"
-      ],
-      "heat": 32,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/378800000065241474/e47527eed661a899d666329eb2774477_400x400.jpeg",
-          "width": 400,
-          "height": 400,
-          "title": "Kyle Cranmer",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/john-krafcik.md",
-      "title": "John Krafcik",
-      "excerpt": "We're building the world's most experienced driver.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/john-krafcik/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/people/john-krafcik/",
-      "type": "profile",
-      "name": "John Krafcik",
-      "bio": "We're building the world's most experienced driver.",
-      "location": "Mountain View, CA",
-      "website": "https://t.co/i1uBCCpct5",
-      "twitter": {
-        "username": "johnkrafcik",
-        "url": "https://twitter.com/johnkrafcik",
-        "followers": 15341
+        "username": "robot_MD",
+        "url": "https://twitter.com/robot_MD",
+        "followers": 11576
       },
       "linkedin": {
-        "url": "https://www.linkedin.com/in/johnkrafcik/"
-      },
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/John_Krafcik"
-      },
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ],
-      "heat": 20,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1161446779310632961/RGg-GhC6_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "John Krafcik",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/madeline-gannon.md",
-      "title": "Madeline Gannon",
-      "excerpt": "Inventing better ways to communicate with machines.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/madeline-gannon/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/people/madeline-gannon/",
-      "type": "profile",
-      "name": "Madeline Gannon",
-      "bio": "Inventing better ways to communicate with machines.",
-      "location": "Pittsburgh, PA",
-      "website": "https://t.co/It4puKUIPF",
-      "twitter": {
-        "username": "madelinegannon",
-        "url": "https://twitter.com/madelinegannon",
-        "followers": 3021
+        "url": "https://www.linkedin.com/in/carol-reiley-7a91072/"
       },
       "topics": [
         "AI",
         "AI in Robotics"
       ],
-      "heat": 20,
+      "heat": 18,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/852213397386969088/8zewUndt_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/999169921744486400/Vo0GZHaC_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Madeline Gannon",
+          "title": "Carol E. Reiley",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/vishal-sikka.md",
+      "title": "Vishal Sikka",
+      "excerpt": "Vishal Sikka is the Founder and CEO of Vianai, a startup based in the San Francisco Bay Area that provides advanced technological software and services in Artificial Intelligence and Machine Learning to large companies around the world.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/vishal-sikka/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/people/vishal-sikka/",
+      "type": "profile",
+      "name": "Vishal Sikka",
+      "bio": "Vishal Sikka is the Founder and CEO of Vianai, a startup based in the San Francisco Bay Area that provides advanced technological software and services in Artificial Intelligence and Machine Learning to large companies around the world.",
+      "location": "Palo Alto, CA",
+      "twitter": {
+        "username": "vsikka",
+        "url": "https://twitter.com/vsikka",
+        "followers": 248574
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Vishal_Sikka"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Vianai",
+        "domain": "vian.ai"
+      },
+      "topics": [
+        "AI"
+      ],
+      "heat": 18,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/58989840/Photo_98_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Vishal Sikka",
           "isCached": true
         }
       ],
@@ -870,7 +917,7 @@
       "twitter": {
         "username": "kaifulee",
         "url": "https://twitter.com/kaifulee",
-        "followers": 1571752
+        "followers": 1571671
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=lm2nBYkAAAAJ",
@@ -899,145 +946,6 @@
           "width": 400,
           "height": 400,
           "title": "Kai-Fu Lee",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/mariya-yao.md",
-      "title": "Mariya Yao",
-      "excerpt": "Editor-In-Chief @TOPBOTS. Former CTO @MetamavenAI. #AI #ML @Forbes writer, speaker, author @AppliedAIBook, maker of lovable #UX & crappy #bots",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/mariya-yao/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/people/mariya-yao/",
-      "type": "profile",
-      "name": "Mariya Yao",
-      "bio": "Editor-In-Chief @TOPBOTS. Former CTO @MetamavenAI. #AI #ML @Forbes writer, speaker, author @AppliedAIBook, maker of lovable #UX & crappy #bots",
-      "website": "https://mariyayao.com/",
-      "twitter": {
-        "username": "thinkmariya",
-        "url": "https://twitter.com/thinkmariya",
-        "followers": 28205
-      },
-      "topics": [
-        "AI"
-      ],
-      "heat": 0,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1299418419830300672/tjPuomYA_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Mariya Yao",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/martin-ford.md",
-      "title": "Martin Ford",
-      "excerpt": "Martin Ford is a futurist and author focusing on artificial intelligence and robotics, and the impact of these technologies on the job market, economy and society. He has written three books on technology.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/martin-ford/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/people/martin-ford/",
-      "type": "profile",
-      "name": "Martin Ford",
-      "bio": "Martin Ford is a futurist and author focusing on artificial intelligence and robotics, and the impact of these technologies on the job market, economy and society. He has written three books on technology.",
-      "location": "Silicon Valley, CA",
-      "website": "https://t.co/NRuuR6oILg",
-      "twitter": {
-        "username": "MFordFuture",
-        "url": "https://twitter.com/MFordFuture",
-        "followers": 47879
-      },
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Martin_Ford_(author)"
-      },
-      "topics": [
-        "AI"
-      ],
-      "heat": 0,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/539018046287790080/Wvt135w6_400x400.jpeg",
-          "width": 400,
-          "height": 400,
-          "title": "Martin Ford",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/taryn-southern.md",
-      "title": "Taryn Southern",
-      "excerpt": "AI artist | futurist | storyteller | recovering youtuber. Follow my documentary @iamhuman for screenings/release dates. AI album: http://bit.ly/iamAI",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/taryn-southern/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/people/taryn-southern/",
-      "type": "profile",
-      "name": "Taryn Southern",
-      "bio": "AI artist | futurist | storyteller | recovering youtuber. Follow my documentary @iamhuman for screenings/release dates. AI album: http://bit.ly/iamAI",
-      "location": "Los Angeles, CA",
-      "website": "https://www.tarynsouthern.com/",
-      "twitter": {
-        "username": "TarynSouthern",
-        "url": "https://twitter.com/TarynSouthern",
-        "followers": 67185
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/tarynsouthern/"
-      },
-      "topics": [
-        "AI"
-      ],
-      "heat": 0,
-      "tags": [
-        "Artist"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/899673407423356928/Y0ZP2-I7_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Taryn Southern",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/vishal-sikka.md",
-      "title": "Vishal Sikka",
-      "excerpt": "Vishal Sikka is the Founder and CEO of Vianai, a startup based in the San Francisco Bay Area that provides advanced technological software and services in Artificial Intelligence and Machine Learning to large companies around the world.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/vishal-sikka/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/people/vishal-sikka/",
-      "type": "profile",
-      "name": "Vishal Sikka",
-      "bio": "Vishal Sikka is the Founder and CEO of Vianai, a startup based in the San Francisco Bay Area that provides advanced technological software and services in Artificial Intelligence and Machine Learning to large companies around the world.",
-      "location": "Palo Alto, CA",
-      "twitter": {
-        "username": "vsikka",
-        "url": "https://twitter.com/vsikka",
-        "followers": 248573
-      },
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Vishal_Sikka"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Vianai",
-        "domain": "vian.ai"
-      },
-      "topics": [
-        "AI"
-      ],
-      "heat": 0,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/58989840/Photo_98_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Vishal Sikka",
           "isCached": true
         }
       ],

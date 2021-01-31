@@ -4,6 +4,44 @@
   "page": 2,
   "value": [
     {
+      "path": "_people/leo-breiman.md",
+      "title": "Leo Breiman",
+      "excerpt": "Leo Breiman (January 27, 1928 – July 5, 2005) was a distinguished statistician at the University of California, Berkeley. He was the recipient of numerous honors and awards, and was a member of the United States National Academy of Science.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/leo-breiman/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/people/leo-breiman/",
+      "type": "profile",
+      "name": "Leo Breiman",
+      "bio": "Leo Breiman (January 27, 1928 – July 5, 2005) was a distinguished statistician at the University of California, Berkeley. He was the recipient of numerous honors and awards, and was a member of the United States National Academy of Science.",
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=mXSv_1UAAAAJ",
+        "citations": 169164
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Leo_Breiman"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "berkeley.edu",
+        "domain": "berkeley.edu"
+      },
+      "topics": [
+        "AI",
+        "Math for AI",
+        "Machine Learning"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://scholar.google.com/citations?view_op=view_photo&user=mXSv_1UAAAAJ&citpid=2",
+          "width": 128,
+          "height": 89,
+          "title": "Leo Breiman",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_people/lev-dudko.md",
       "title": "Lev Dudko",
       "excerpt": "Lomonosov Moscow State University Skobeltsyn Institute of Nuclear Physics",
@@ -234,7 +272,7 @@
       "twitter": {
         "username": "awmcmu",
         "url": "https://twitter.com/awmcmu",
-        "followers": 5943
+        "followers": 5942
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/andrew-moore-016b751"
@@ -244,7 +282,7 @@
         "Google AI",
         "Machine Learning"
       ],
-      "heat": 42,
+      "heat": 41,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/626157691828875264/tDZ-TLBp_400x400.jpg",
@@ -293,55 +331,13 @@
         "AI",
         "Machine Learning"
       ],
-      "heat": 42,
+      "heat": 31,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/750274527016386560/D8Z1_kgh_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Christopher M. Bishop",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/kyle-cranmer.md",
-      "title": "Kyle Cranmer",
-      "excerpt": "Particle physics, LHC, stats/ML/AI, collaborative & open science. Executive Director Moore-Sloan Data Science Environment at NYU.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/kyle-cranmer/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/people/kyle-cranmer/",
-      "type": "profile",
-      "name": "Kyle Cranmer",
-      "bio": "Particle physics, LHC, stats/ML/AI, collaborative & open science. Executive Director Moore-Sloan Data Science Environment at NYU.",
-      "location": "New York",
-      "website": "https://t.co/OiHC3bfPoX",
-      "twitter": {
-        "username": "KyleCranmer",
-        "url": "https://twitter.com/KyleCranmer",
-        "followers": 9772
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=EZjSxgwAAAAJ",
-        "citations": 163679
-      },
-      "affiliation": {
-        "path": "",
-        "name": "nyu.edu",
-        "domain": "nyu.edu"
-      },
-      "topics": [
-        "AI",
-        "Math for AI",
-        "Machine Learning"
-      ],
-      "heat": 32,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/378800000065241474/e47527eed661a899d666329eb2774477_400x400.jpeg",
-          "width": 400,
-          "height": 400,
-          "title": "Kyle Cranmer",
           "isCached": true
         }
       ],
@@ -361,7 +357,7 @@
       "twitter": {
         "username": "kaifulee",
         "url": "https://twitter.com/kaifulee",
-        "followers": 1571752
+        "followers": 1571671
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=lm2nBYkAAAAJ",
