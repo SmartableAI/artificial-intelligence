@@ -41,12 +41,12 @@ related:
         isCached: true
   - title: "Fresh Air Weekend: China's 'Surveillance State'; Understanding The Human Voice"
     excerpt: "Fresh Air Weekend highlights some of the best interviews and reviews from past weeks, and new program elements specially paced for weekends. Our weekend"
-    publishedDateTime: 2021-01-30T17:58:00Z
-    webUrl: "https://www.wkyufm.org/post/fresh-air-weekend-chinas-surveillance-state-understanding-human-voice"
+    publishedDateTime: 2021-01-30T23:50:00Z
+    webUrl: "https://www.wvtf.org/post/fresh-air-weekend-chinas-surveillance-state-understanding-human-voice"
     type: article
     provider:
-      name: WKU Public Radio
-      domain: wkyufm.org
+      name: WVTF
+      domain: wvtf.org
     quality: 35
     images:
       - url: "https://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/202101/962000838.jpg"

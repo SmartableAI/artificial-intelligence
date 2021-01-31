@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Ouriginal Partners With AI-based Solution Provider Analytikus To Support Higher Education In ..."
-    excerpt: "Advanced analytics solutions to strengthen academic integrity even in digital education environments (STOCKHOLM/MIAMI, 26 January 2021) - Ouriginal, Europe’s leading provider of text-matching solutions for plagiarism prevention and text-similarity detection,"
-    publishedDateTime: 2021-01-26T08:30:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-professional-services-social-affairs-computing-and-information-technology-d7510153cb1d9dc29f5811cc9b785f78"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 41
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "This AI-Powered Startup Offers No Code Solutions To Build Apps In Minutes"
     excerpt: "Enter Appy Pie, an AI-powered no-code platform to help your light bulb ideas see the light. For this week’s startup column, Analytics India Magazine spoke to Abhinav Girdhar, Founder and CEO of Appy Pie,"
     publishedDateTime: 2021-01-30T07:30:00Z

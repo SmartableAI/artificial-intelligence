@@ -44,20 +44,6 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 37
-  - title: "Kao Data to Host InstaDeep's HPC and AI Supercomputer, Expanding R&D Capabilities"
-    excerpt: "Kao Data, the specialist developer and operator of advanced, carrier-neutral data centres for high performance colocation, has today"
-    publishedDateTime: 2021-01-26T09:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/kao-data-to-host-instadeeps-hpc-and-ai-supercomputer-expanding-rd-capabilities-301214382.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 34
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "4H90jz/s8wGhGL6go8diPSznfviVONgxINqy0hwTTn1nEqLmY3WK4jF38I/b5Fb1bQ4bdP0K4y2DB7+l3EoSkQZsPtJChYcDCl7V87I309gSyy1wYsv+/MxKr+mQB3lBkTrvMtTS5Kdzv4UkzpqlNIg1aiP+bJZH7N1W9136eA88y6eaCnNWWkjZ+c6wTEt4mzzoHFATEv/YDtWYo7apblzvU+p9GqVCKFp7Syu+CApz6vafue47KO7rQRu15/+v3BpjtShmG+ew+CgEVaRGVMpRDAiluAY+7Gq4EcbiJ1YNAT4szO3LQ2gsmzkLAet509WREQngwIivkqQZ81z/JAWQmFgtZ62oCjqf3X+BXoU=;3u0BRUnHagAMIYUWtwi/PA=="
 ---

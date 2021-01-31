@@ -3,8 +3,8 @@ category: news
 title: "Lane Mendelsohn, President of Vantagepoint AI, featured in Charted Market Technicians(R) (CMT) magazine, Technically Speaking"
 excerpt: "WESLEY CHAPEL, FL / ACCESSWIRE / January 27, 2021 / Lane Mendelsohn, President of Vantagepoint AI, LLC, has been featured in CMT’s Technically Speaking magazine. Mendelsohn is a long-standing member and is designated by the Charted Market Technician® (CMT®) Association."
 publishedDateTime: 2021-01-28T08:01:00Z
-originalUrl: "https://apnews.com/press-release/accesswire/technology-business-intellectual-property-artificial-intelligence-computing-and-information-technology-5a40e9efba02fbbeee62a37f98171592/gallery/5a34cd3c1b1727d0e376eea5048e8d4c"
-webUrl: "https://apnews.com/press-release/accesswire/technology-business-intellectual-property-artificial-intelligence-computing-and-information-technology-5a40e9efba02fbbeee62a37f98171592/gallery/5a34cd3c1b1727d0e376eea5048e8d4c"
+originalUrl: "https://apnews.com/press-release/accesswire/technology-business-intellectual-property-artificial-intelligence-computing-and-information-technology-5a40e9efba02fbbeee62a37f98171592"
+webUrl: "https://apnews.com/press-release/accesswire/technology-business-intellectual-property-artificial-intelligence-computing-and-information-technology-5a40e9efba02fbbeee62a37f98171592"
 type: article
 quality: 12
 heat: -1
@@ -53,6 +53,6 @@ related:
         height: 702
         isCached: true
 
-secured: "XoD6zvXZalk+HzEISDX6d6xRqTfCA5b8gxFR1k5ceJhe3HmhfL0Sp4VYcNZL37Qviyd8zer4wmehQmUHD+dTdLJ2Hys9D5nZSjhYbKZuiwFKG68zWruLnv28Srr9kTCUvmo3I7DtB8e2d336t7KLpDyo+tHKUDRAsrB/jhpgbCW9iRdztnrBy87AjRkOybUlray9yOsmZY7K1j0ymjVvq/fhnHlfa4gOGfYTu+7s6BPFAd0vL5DHxueblSqgnUIhJoivxng3qvmJEK1A3ova2fqy2kzL+iW2qHvnYm/QtHVRSYetga3Iz+UIeay9zG+OF+H9ySl2gmnC3hlm6NDXsucxXZ4kmAeqmq/OI37LO50=;Qld66e44nAK5JzmcBsSDCA=="
+secured: "YcuOdXeSfsfmM95QBB0xets7nf3beTP7XEzy5RzZZM6yY/OGQEvpIQLI2KVn7y3/8JBDQBAqLcuSRXn65nmiKcYzuzbygpOKsouTcGnJ5sve6pZIYLPFwRDEkMmwZQDYZRdHQ6ivaFhS2TmUza2bK0u8FxZVY7CI/2CmICzD/b8Yb4hg1Ypi6IFDujj8ju90duXNJ7DoOg+kKPWnHnCB3tXseJM/NBks9Rb2RkEOjuw/hptKOsNgR3uhsWwkVbMJR1PLiI9VpGprSznZjyKj3ezUTL6AgEqK5jDj3Un2T/Rw+/SkBWu7HRu2DZpmpHcMmhlVxxp4dE4TAkXxVZrb7P/l27ziLFDh57uAgDXzNXw=;lkTm2uqfWYEU1ceYWYJARg=="
 ---
 

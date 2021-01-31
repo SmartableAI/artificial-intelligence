@@ -59,6 +59,22 @@ related:
         width: 648
         height: 324
         isCached: true
+  - title: "Spotify patents technology to recommend songs based on the speech, emotion of users"
+    excerpt: "Spotify patents technology to recommend songs based on the speech, emotion of users The music streaming company Spotify has been patented"
+    publishedDateTime: 2021-01-31T00:25:00Z
+    webUrl: "https://www.compsmag.com/news/technology/spotify-patents-technology-to-recommend-songs-based-on-the-speech-emotion-of-users/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/spotify-patents-technology-to-recommend-songs-based-on-the-speech-emotion-of-users/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/spotify-patents-technology-to-recommend-songs-based-on-the-speech-emotion-of-users/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 38
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/Spotify-patents-technology-to-recommend-songs-based-on-the-speech.jpg"
+        width: 1366
+        height: 768
+        isCached: true
   - title: "Spotify patents tech that can analyze speech patterns and emotional states to recommend music"
     excerpt: "A new Spotify patent describes a speech recognition technology capable of recommending music based on user audio recordings."
     publishedDateTime: 2021-01-28T21:18:00Z

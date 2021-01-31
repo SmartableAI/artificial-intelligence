@@ -73,22 +73,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Kili Technology unveils data annotation platform to improve AI, raises $7 million"
-    excerpt: "Kili Technology raised $7 million for its service that allows enterprises to annotate raw data to improve data sets for AI."
-    publishedDateTime: 2021-01-26T08:23:00Z
-    webUrl: "https://venturebeat.com/2021/01/26/kili-technology-unveils-data-annotation-platform-to-improve-ai-raises-7-million/"
-    ampWebUrl: "https://venturebeat.com/2021/01/26/kili-technology-unveils-data-annotation-platform-to-improve-ai-raises-7-million/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/26/kili-technology-unveils-data-annotation-platform-to-improve-ai-raises-7-million/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 82
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/01/Kili-image_classif_poly-e1611606041327.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Sales startup Insent.ai raises $2 million to expand its data strategy with automated chatbots – Jaweb"
     excerpt: "Insent.ai, which offers a business-to-business enterprise sales platform, has raised $2 million from Emergent Ventures in a seed-level funding round. Insent plans to use the funds to expand its data visibility and automated chatbot integrations."
     publishedDateTime: 2021-01-26T15:10:00Z

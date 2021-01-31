@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/27/researchers-find-current-benchmar
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/27/researchers-find-current-benchmarks-are-insufficient-for-evaluating-the-quality-of-ai-generated-navigation-instructions/amp/"
 type: article
 quality: 84
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 633
     isCached: true
-
-related:
-  - title: "Hiring discrimination detection tool created using artificial intelligence"
-    excerpt: "This tech is able to detect these recruitment behaviors against women and visible minorities. A new AI hiring discrimination tool has been developed to help sp"
-    publishedDateTime: 2021-01-26T09:00:00Z
-    webUrl: "https://www.qrcodepress.com/hiring-discrimination/8538839/"
-    ampWebUrl: "https://www.qrcodepress.com/hiring-discrimination/8538839/amp/"
-    cdnAmpWebUrl: "https://www-qrcodepress-com.cdn.ampproject.org/c/s/www.qrcodepress.com/hiring-discrimination/8538839/amp/"
-    type: article
-    provider:
-      name: QR Code Press
-      domain: qrcodepress.com
-    quality: 55
-    images:
-      - url: "https://www.qrcodepress.com/wp-content/uploads/2021/01/Hiring-discrimination-Digital-technology-People.jpg"
-        width: 877
-        height: 457
-        isCached: true
 
 secured: "Wa7QAfaB9n5POCVBW1VwkFWhwaD0mLR52LjjWFx34ANjbkr/Zy86Qbg+G8Ut/91t/ky2qckh1FCiMFdamSLpIP3vPW2z7PrwDE4xZaRZ9ouCnHDNd5e7auo8+2fIG/Bg1fz7Cofg4gqpOlL0IrCAC+Ibie3agzfryF0xc1yty+rPF6FLE49IOyz3lRQh5T6q8smwBr1Gn84ZDrugW1WUo3+Zk/C6k558SnMO8tvMrsKzjerOOjhizuK3hFmYhMgb4W7+iPAZJDo7kcVU5XJb3A9dvk+o2XtYOEJ4MKdyL0N11BYpno7HMr/GcdDrVaswPINPeL6+qogZyWe3GHxsaYiN0FKqRbEVkAvKe+/gEN11VqrLy0Vg28V6aeRvJ+hH9Nzd8mQX7cKTalEqJlX+F2cyQpNnBVXRB4OYT9NggaSYlleLQqnRKZJbpUReiUfvs5ONMlL0BA72mnynWvg/F97d24En0llijzo2yQFPC2emGEZmQ3muf4iuXVs976Ny5wtA3UlPiIvx85rZYpjtJg==;LtM+MYIAEyLeOEu3qvmhdg=="
 ---
