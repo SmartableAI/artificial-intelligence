@@ -78,17 +78,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Security Inspection Market Report 2020-2027: Integration of Artificial Intelligence to Provide Growth Opportunities"
-    excerpt: "The \"Security Inspection Market Forecast to 2027 - COVID-19 Impact and Global Analysis By Product Type and Application\""
-    publishedDateTime: 2021-01-26T09:38:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19314842/global-security-inspection-market-report-2020-2027-integration-of-artificial-intelligence-to-provi"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19314842"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19314842"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 28
   - title: "Speech and Voice Recognition Market Size, Trends, Comprehensive Research Study, Development Status and Opportunities Forecast to 2026"
     excerpt: "The overall speech and voice recognition market is expected to grow from USD 6.9 Billion in 2018 to USD 28.3 Billion"
     publishedDateTime: 2021-01-28T10:02:00Z

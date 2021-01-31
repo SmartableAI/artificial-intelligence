@@ -41,20 +41,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Machine learning tool used to predict early symptoms of schizophrenia in relatives of patients"
-    excerpt: "University of Alberta researchers have taken another step forward in developing an artificial intelligence tool to predict schizophrenia by"
-    publishedDateTime: 2021-01-26T10:12:00Z
-    webUrl: "https://www.miragenews.com/machine-learning-tool-used-to-predict-early-symptoms-of-schizophrenia-in-relatives-of-patients/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 27
-    images:
-      - url: "https://www.ualberta.ca/folio/media-library/2021/01/210126-ai-schizophrenia-greiner-kalmady-greenshaw-2019-main.jpg"
-        width: 885
-        height: 530
-        isCached: true
 
 secured: "k5iIS9d4UBkV3KqeP771LFRA5uxAweIyb1wrZJesmv+2CnUo4Rbp03cDkoq8PngUGHGeabYSbPYrfWIDliCOBeM1ilQ/+8hafctArNWkyQ7ZySFchA3iQUESwRIZq+XERkOxkZ0b+wrQ4LQ44wvlvQWimJ7yUg0RlqWtHCvv9Z0ZHLnb3AkObXBj7pEWDsFQ4V1Qzs25DClEBRM931uv0ar8jAK1O434wvt4X23TQ9wT2t/ySONgIEh7mKw/1ZK8TmffG0ec9oFwpwdG0BdggzYZTSEodR2QislNrza7IKfMGcWKFnxurFXqZriqkpsMuZRIXnnnL+Aw+YQbv1eQ64Cc0W2qDuaSdRzJbZlMneg1+jTH88jpi2L3OQEvwT3FpTy2p4YymaN/CX9KQtYajXyBi1Ghxbp2zDXD6sadENWa46hZIle6TasML5YL9rJ5U7BwMu/rJYVEBSlWTAmf8bL+qe3MIfU1hPVUeT6wV7c+Q2mk2ZZ7UG4tpC1VC7d5u+2f74KfN0s9HEbNItJFZA==;syWOnP8oX3XDaRtlTQ0MJQ=="
 ---

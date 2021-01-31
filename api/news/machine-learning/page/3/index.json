@@ -2,51 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-01-13-ai-machine-learning-in-crm-systems-opportunities-benefits-for-charities.md",
-      "title": "AI & machine learning in CRM systems – opportunities & benefits for charities",
-      "excerpt": "While we tend to think first of robots and self-driving cars when we think of AI, in fact, along with its subset machine learning, it’s already firmly",
-      "sourceUrl": null,
-      "webUrl": "https://fundraising.co.uk/2021/01/13/ai-machine-learning-in-crm-systems-opportunities-benefits-for-charities/?cmpredirect",
-      "originalUrl": "https://fundraising.co.uk/2021/01/13/ai-machine-learning-in-crm-systems-opportunities-benefits-for-charities/?cmpredirect",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fundraising.co.uk/wp-content/uploads/2021/01/ash-edmonds-Koxa-GX_5zs-unsplash-1.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-13T02:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UK Fundraising",
-        "domain": "fundraising.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Sales",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2021-01-13-fda-releases-action-plan-for-ai-machine-learning-medical-software.md",
       "title": "FDA Releases Action Plan for AI, Machine Learning Medical Software",
       "excerpt": "To enhance its oversight of AI and machine learning medical software, the FDA plans to improve algorithm development and foster a patient-centered approach.",
@@ -1362,6 +1317,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-06-artificial-intelligence-software-platform-market-is-predicted-to-touch-usd-113-billion-at-a-healthy-281gr-between-2018-2023.md",
+      "title": "Artificial Intelligence Software Platform Market is Predicted to Touch USD 11.3 Billion at a Healthy 28.1?GR Between 2018- 2023",
+      "excerpt": "Artificial Intelligence Software Platform Market is Predicted to Touch USD 11.3 Billion at a Healthy 28.1?GR Between 2018- 2023 <br />  Jan 6, 2021 1:52 AM ET<p>The global <a href=' target='_blank'>ar",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1101391834/Artificial-Intelligence-Software-Platform-Market-is-Predicted-to-Touch-USD-113-Billion-at-a-Healthy-281GR-Between-2018-2023",
+      "originalUrl": "https://menafn.com/1101391834/Artificial-Intelligence-Software-Platform-Market-is-Predicted-to-Touch-USD-113-Billion-at-a-Healthy-281GR-Between-2018-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/banners/ebdc13ce-4.jpg",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-05T18:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

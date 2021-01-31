@@ -7,7 +7,7 @@ originalUrl: "https://www.electronicsweekly.com/uncategorised/graphcore-democrat
 webUrl: "https://www.electronicsweekly.com/uncategorised/graphcore-democratises-datacentre-2021-01/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 500
     height: 374
     isCached: true
-
-related:
-  - title: "Graphcore and Cirrascale announce Graphcloud"
-    excerpt: "Graphcore has announced the next step in what it describes as its commitment to help customers accelerate their innovation and harness the power of AI at scale. In co-operation with Cirrascale Cloud Services,"
-    publishedDateTime: 2021-01-26T09:26:00Z
-    webUrl: "https://www.newelectronics.co.uk/electronics-news/graphcore-and-cirrascale-announce-graphcloud/233926/"
-    type: article
-    provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 24
-    images:
-      - url: "https://www.newelectronics.co.uk/article-images/233926/graphcore.jpg?width=375&height=250&scale=canvas"
-        width: 375
-        height: 250
-        isCached: true
 
 secured: "jRhIYuSihXHA5Q91GGOI4K+iem4GTMAOOLVG6xlP2qidc15epeV70/gYjl/xaJTPSYWpxyYmHCngJ2ZaNRkFQ6PojjJ7zzQceR9SQyWot0PM/0w3Pifvnb4vWZE1QchHLWHHZNzLKZ/dfC3ALhRQYz22eA8nlIBX6K2Zby+LksjG6cJRiH/lGvh7XotgTfB9cjsL7aJKQE7eK7eupLjVyt9J/7HspskwWX03wNOxZeY4OBhVRnN78ekRO/ZmoII8qFempGP7H1XUF4dVJiPt+wVkD/fvo03CCY0Aka9m/v2ZtOHdRL2twY1BS96KPpNo4pAPCHNROCf0iSHDMa4R7NwKaml2GQ8BklF4xfIH/oo=;c2WePkVwiE1yVZOhrE3kPA=="
 ---

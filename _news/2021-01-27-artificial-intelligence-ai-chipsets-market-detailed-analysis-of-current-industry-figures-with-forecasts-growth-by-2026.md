@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2026-2021-01-27"
 type: article
 quality: 79
-heat: 209
+heat: 199
 published: true
 
 provider:
@@ -144,17 +144,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Automotive Market 2020 Recent Industry Trends and Significant Developments by 2027"
-    excerpt: "Market Research Intellect have recently published a new report on the Global Artificial Intelligence AI in Automotive Market The study provides profound insights into updated market events and market trends This in turn helps one in better comprehending the market"
-    publishedDateTime: 2021-01-26T10:54:00Z
-    webUrl: "https://www.openpr.com/news/2231106/artificial-intelligence-ai-in-automotive-market-2020-recent"
-    ampWebUrl: "https://www.openpr.com/amp/2231106/artificial-intelligence-ai-in-automotive-market-2020-recent"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2231106/artificial-intelligence-ai-in-automotive-market-2020-recent"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 30
   - title: "Artificial Intelligence (AI) in Manufacturing Market 2020 Recent Industry Trends and Significant Developments by 2027"
     excerpt: "Market Research Intellect have recently published a new report on the Global Artificial Intelligence AI in Manufacturing Market The study provides profound insights into updated market events and market trends This in turn helps one in better comprehending the market"
     publishedDateTime: 2021-01-26T11:18:00Z

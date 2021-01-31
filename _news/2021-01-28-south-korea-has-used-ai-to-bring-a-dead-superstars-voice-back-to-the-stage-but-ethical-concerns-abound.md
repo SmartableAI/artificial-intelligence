@@ -97,6 +97,22 @@ related:
         width: 918
         height: 506
         isCached: true
+  - title: "South Korean AI technology brings back folk singer’s voice 25 years after his death"
+    excerpt: "Even though South Korean folk rock singer Kim Kwang-seok has been dead for nearly 25 years, his fans will be able to hear him perform a new song cover on Friday thanks to artificial intelligence (AI) technology used to recreate his voice."
+    publishedDateTime: 2021-01-31T02:28:00Z
+    webUrl: "https://english.alarabiya.net/variety/2021/01/29/S-Korean-AI-technology-brings-back-folk-singer-s-voice-25-years-after-his-death"
+    ampWebUrl: "https://english.alarabiya.net/amp/variety/2021/01/29/S-Korean-AI-technology-brings-back-folk-singer-s-voice-25-years-after-his-death"
+    cdnAmpWebUrl: "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/amp/variety/2021/01/29/S-Korean-AI-technology-brings-back-folk-singer-s-voice-25-years-after-his-death"
+    type: article
+    provider:
+      name: العربية.نت
+      domain: alarabiya.net
+    quality: 53
+    images:
+      - url: "https://vid.alarabiya.net/images/2018/03/26/d433e205-403b-48d4-8812-34d14b4a177e/d433e205-403b-48d4-8812-34d14b4a177e_16x9_600x338.jpg?width=466"
+        width: 466
+        height: 262
+        isCached: true
 
 secured: "imLOWciG1C9r83o+UrtdjQno1Z5JLyxcOzg7T9Hx6bI1kMmjJiVieis7PlEFHik6dzsCc7G3USrQrk+jJzG4xcon60hHqubfTjiOl11sEznxDAUpD3fkV1uiDRedHTagk9+4KG8evQMrKjv4MU8eG7kvMhXbdssQW1r3pe0Xgrf/OGYMrzz8bgacXVAd3vF7vzxzuooCj7/CcXaIVr6PUe2Qvtl6aCbR2jjNMLE7f0BXJmys1KWPrsNXmpTCBB3ETvKe49GZj+xWXgeRKRaqx4dSPriIzx3miX8c/nVrXiZ0GblHlbgj1mSgL89STyTq090xq8zQUfLnqqYB/ACAlKrhPViICghxwIbTnwvQiNYi+a3QhvMLB8PiPFMNoOnyWe7IiH29y+0A5tWM8y6JmJcg9R4X78Pxv4W5tXAnFAvTrWXz803vN11uCmLPAInPo4NEDPBTIeO2QqW49cTjMzQjRnHOkxjq0FWVcvQmwzRYWQg6TgpEhvkYsM8x1tA3OM7KvwjmTT1ZSddHjDiN5Q==;8yw3SYl5+rRj7DqOd5m6iw=="
 ---

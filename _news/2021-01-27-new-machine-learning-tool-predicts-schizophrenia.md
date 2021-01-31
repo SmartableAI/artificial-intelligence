@@ -9,8 +9,8 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210127/New-machine-learning-
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210127/New-machine-learning-tool-predicts-schizophrenia.aspx"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: News Medical
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning tool used to predict early symptoms of schizophrenia in relatives of patients"
-    excerpt: "University of Alberta researchers have taken another step forward in developing an artificial intelligence tool to predict schizophrenia by"
-    publishedDateTime: 2021-01-26T10:12:00Z
-    webUrl: "https://www.miragenews.com/machine-learning-tool-used-to-predict-early-symptoms-of-schizophrenia-in-relatives-of-patients/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 27
-    images:
-      - url: "https://www.ualberta.ca/folio/media-library/2021/01/210126-ai-schizophrenia-greiner-kalmady-greenshaw-2019-main.jpg"
-        width: 885
-        height: 530
-        isCached: true
   - title: "Machine learning tool used to predict early symptoms of schizophrenia in relatives of patients (image)"
     excerpt: "Sunil Kalmady Vasu (centre) led a recent study with fellow U of A researchers including Russ Greiner (left), Andrew Greenshaw (right) and Serdar Dursun (not pictured), showing that a machine learning tool could help predict early symptoms of schizophrenia in siblings and children of patients,"
     publishedDateTime: 2021-01-26T20:50:00Z

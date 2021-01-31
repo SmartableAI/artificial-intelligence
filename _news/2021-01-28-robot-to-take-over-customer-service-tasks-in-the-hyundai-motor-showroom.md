@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Hyundai launches humanoid robot ‘DAL-e’ for customer service"
-    excerpt: "Hyundai Motor Group has launched the humanoid “DAL-e”, which it describes as a “highly advanced customer service robot” that independently communicates with people using precise recognition"
-    publishedDateTime: 2021-01-26T09:55:00Z
-    webUrl: "https://roboticsandautomationnews.com/2021/01/26/hyundai-launches-humanoid-robot-dal-e-for-customer-service/39904/"
-    type: article
-    provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 54
-    images:
-      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2021/01/hyundai-humanoid-1.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Hyundai Motor Group Introduces Advanced Humanoid Robot ‘DAL-e’ for Automated Customer Services"
     excerpt: "Hyundai Motor Group has launched the “DAL-e,” a highly advanced customer service robot that independently communicates with people using precise recognition capabilities and mobility functions. The DAL-e is an acronym for “Drive you,"
     publishedDateTime: 2021-01-28T16:10:00Z

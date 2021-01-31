@@ -7,7 +7,7 @@ originalUrl: "https://www.finchannel.com/technology/80035-hyundai-motor-group-in
 webUrl: "https://www.finchannel.com/technology/80035-hyundai-motor-group-introduces-advanced-humanoid-robot-dal-e-for-automated-customer-services"
 type: article
 quality: 42
-heat: -1
+heat: 42
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Hyundai launches humanoid robot ‘DAL-e’ for customer service"
-    excerpt: "Hyundai Motor Group has launched the humanoid “DAL-e”, which it describes as a “highly advanced customer service robot” that independently communicates with people using precise recognition"
-    publishedDateTime: 2021-01-26T09:55:00Z
-    webUrl: "https://roboticsandautomationnews.com/2021/01/26/hyundai-launches-humanoid-robot-dal-e-for-customer-service/39904/"
-    type: article
-    provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 54
-    images:
-      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2021/01/hyundai-humanoid-1.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Robot to take over customer service tasks in the Hyundai Motor showroom"
     excerpt: "To automate customer service tasks in the midst of a global pandemic, Hyundai Motor Group has debuted an advanced humanoid customer service robot at its showroom in Seoul, South Korea. The DAL-e, which stands for “Drive you,"
     publishedDateTime: 2021-01-28T05:13:00Z

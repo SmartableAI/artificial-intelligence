@@ -1,34 +1,28 @@
 ---
 category: news
-title: "Baidu gets California nod for testing empty self-driving cars"
-excerpt: "Baidu Inc has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor Vehicles said on Wednesday."
-publishedDateTime: 2021-01-28T02:37:00Z
-originalUrl: "https://www.reuters.com/article/us-baidu-autonomous-idUSKBN29W2OT"
-webUrl: "https://www.reuters.com/article/us-baidu-autonomous-idUSKBN29W2OT"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29W2OT"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29W2OT"
+title: "Baidu Gets California Nod for Testing Empty Self-Driving Cars"
+excerpt: "Baidu Inc has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor Vehicles said on Wednesday. Although self-driving vehicles are designed to eliminate the need for a driver,"
+publishedDateTime: 2021-01-28T09:25:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2021-01-27/baidu-gets-california-nod-for-testing-driverless-vehicles"
+webUrl: "https://www.usnews.com/news/technology/articles/2021-01-27/baidu-gets-california-nod-for-testing-driverless-vehicles"
+ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-01-27/baidu-gets-california-nod-for-testing-driverless-vehicles?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-01-27/baidu-gets-california-nod-for-testing-driverless-vehicles?context=amp"
 type: article
-quality: 89
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210127&t=2&i=1549286737&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0Q1KU"
-    width: 817
-    height: 545
-    isCached: true
 
 related:
   - title: "Baidu is the sixth company approved to test fully driverless cars in California"
@@ -225,6 +219,6 @@ related:
         height: 300
         isCached: true
 
-secured: "AoFWtteATI+zJxNwTsnS70tUqpSPzp5x/YInkgiVRk5kIbEpC4VLlB4QaFRMliHx8cnG5CQcsLoBddJ4plVzCDo7mMv0fYw5T9KC609QtQtrJaNpXYqKlxbrdS/zjeC+M4W6/V2rpfWvThI42QUWxFdTl9fi4wMOx4ym8TVbj4136WhIDEe9XcFKx1JEaiErtdhVKsC8vMTruZIIDdwpMteiHq6vGfcCuOZV03xyN6Xy3kJhYmBf5VQzjfwn6Qh1I5ZiFsIHmFzJgloLbHet7A5p66JwURpx/karpqGZ77XdWoCVxXZZi1SYYX2uGoPazrVP2FnhJFq13C/YfcAl3sfsHiAmjxtQ16QkWJbc09bTEqkwJj39Jld5spCr5saLNwb+dARWseBcPeus67Mzk6FvAUNNzH3aqeg2DjiXanbgvH/WhGBdophxbzpgM1D76vW7uOdEuIK0v6ACjSIJX73BnWDCB0Gj1lLVRzmcBk55rdmsYD0H+Cqh09QbDPYZHqBKvEjw+wE9Bh8Uch3kmg==;WmbMjf33eQe4gFHK2AM4nQ=="
+secured: "0+N4vzyTD1EUB1IMWxQHCX+1E+PPnT0Qsz/QgEzaupVi+Mr0C0G6N3tlRDyomuPCBqDZoTZi+vQzMoErEJKZZyUgzj1y2TH21TY6CDJAEAKy3Dak1wTRYtSKLhxNAvXhA1atMIx4ooZkTp3VLr3ZxM/q/HT7TR6pp6b3Dnj4DJkK4JF+VdHVUxzxD7vynW4q+0vwAuSJvo+70eeu8LaYIXwskAZTow4VF/EJtA6KJYlGUtijv5PNup9dZigMsf1g/YIieODTtPE5q9vgWZtvg9ikOwuqbEC5cd+D0VqWxd2RAujnU52zp1v7aWNER+e3o+O3EbFUL0+SI7C4ufn9EvAlIbVCfSNSnchPpspX3+6sNJ6kJRZDq1ZlXSNL9i0+zW5H8DwGw3qObwg1j6tZX938A0BpJPYVhyRURYsBMyd8uNdW5lZ2Kw7qVhPZQxj2d4ThIYy4DL077jBA2VZJ01odpj0cT1BuyGWfpRiOcyDWkjffb7r9dArwAjrr1Lk793WmyfPOzGujvy8g6mf7bA==;A0v0kpsCnkhsOLFummO+bQ=="
 ---
 
