@@ -43,17 +43,22 @@ related:
         width: 504
         height: 233
         isCached: true
-  - title: "SCOTT HOLLIFIELD: Larry King will miss the Robot Apocalypse"
-    excerpt: "How will he connect Larry King to killer robots? Why am I still reading at this point? Why does the newspaper continue to publish this guy after I have objected so many times in letters to the editor?"
-    publishedDateTime: 2021-01-30T16:06:00Z
-    webUrl: "https://martinsvillebulletin.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_28aaecb4-6250-11eb-8ab0-9bba3f38b23f.html"
-    ampWebUrl: "https://martinsvillebulletin.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_28aaecb4-6250-11eb-8ab0-9bba3f38b23f.amp.html"
-    cdnAmpWebUrl: "https://martinsvillebulletin-com.cdn.ampproject.org/c/s/martinsvillebulletin.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_28aaecb4-6250-11eb-8ab0-9bba3f38b23f.amp.html"
+  - title: "Scott Hollifield: Larry King will miss the Robot Apocalypse"
+    excerpt: "Today, our disparate subjects will be the literary genius of the late Larry King and the inevitable end of the world as we know it brought about by killer robots."
+    publishedDateTime: 2021-01-31T03:45:00Z
+    webUrl: "https://statesville.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_980dd3f8-61a8-11eb-afbc-af7af6ad3563.html"
+    ampWebUrl: "https://statesville.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_980dd3f8-61a8-11eb-afbc-af7af6ad3563.amp.html"
+    cdnAmpWebUrl: "https://statesville-com.cdn.ampproject.org/c/s/statesville.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_980dd3f8-61a8-11eb-afbc-af7af6ad3563.amp.html"
     type: article
     provider:
-      name: Martinsville Bulletin
-      domain: martinsvillebulletin.com
-    quality: 39
+      name: Statesville Record & Landmark
+      domain: statesville.com
+    quality: 59
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/statesville.com/content/tncms/assets/v3/editorial/9/80/98071cac-61a8-11eb-afbb-87367d0e0a83/60132075c20fc.image.jpg"
+        width: 504
+        height: 233
+        isCached: true
 
 secured: "J1I+tUgzL2unnV35MdZG1OAQ7/5Glq6GLm1fE4/ncMinVCwS3G6QT2VJqaPjeW5A80hEPNgJCjL77d+ZqkH61pJnWtV8h6nfmr/V2YbLKuKfqwtT8w6fr/y+Vw73LP6wxGNbWjBjHeDnv4E6ZTUgpbTeNnbZ58ThyFXMsfybQ3fiGxHDoKIUOfp7pKha6JPpnUAShl7GkHFRgDsyAGG3KD/LY6/iVyzwmgZQt2hBGBrnlx1q3y9z/RZLShtEMs9OEv578hkI1Gz3/jAGh433E5JyB/qD9O7dOfwD7uYvZaCbcDggJ2pS5/Oql1udrWmYXDg1rNhn4qdMA2HUrhpzocYY4vxTt7WJDSAmGkSMUIE=;DQurEZGAeLD1Eq30wz0BsA=="
 ---

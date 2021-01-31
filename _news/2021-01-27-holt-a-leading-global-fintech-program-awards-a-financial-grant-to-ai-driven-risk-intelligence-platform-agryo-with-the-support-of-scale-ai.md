@@ -129,15 +129,6 @@ related:
         width: 800
         height: 449
         isCached: true
-  - title: "AI fintech start-up looking to tackle small business late payments gets seed funding"
-    excerpt: "A fintech start-up that's looking to tackle the late payments epidemic, and ensure small businesses get paid on time, has raised seed funding. London-based Previse has bagged £2m in the round, which was led by Hambro Perks,"
-    publishedDateTime: 2021-01-26T11:59:00Z
-    webUrl: "https://startups.co.uk/news/ai-fintech-start-up-looking-to-tackle-small-business-late-payments-gets-seed-funding/"
-    type: article
-    provider:
-      name: Startups
-      domain: startups.co.uk
-    quality: 12
   - title: "Fintech regulations, financial stability, and data privacy: So, what is the path to go forward?"
     excerpt: "In a recent development, the Delhi High Court received a Public Interest Litigation (PIL) from an applied economist, Reshmi P Bhaskaran, seeking to regulate the entry and operations of ‘TechFin’ platforms."
     publishedDateTime: 2021-01-27T15:44:00Z

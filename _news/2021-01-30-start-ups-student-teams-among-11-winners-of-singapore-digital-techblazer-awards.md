@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Singapore launches new self-driving bus trial"
-    excerpt: "Singapore has moved a step closer to a driverless public transport network with the launch of a new trial of self-driving buses."
-    publishedDateTime: 2021-01-29T13:30:00Z
-    webUrl: "https://www.astroawani.com/berita-teknologi/singapore-launches-new-self-driving-bus-trial-280366"
-    ampWebUrl: "https://www.astroawani.com/berita-teknologi/singapore-launches-new-self-driving-bus-trial-280366?amp=1"
-    cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/berita-teknologi/singapore-launches-new-self-driving-bus-trial-280366?amp=1"
-    type: article
-    provider:
-      name: Astro Awani
-      domain: astroawani.com
-    quality: 44
-    images:
-      - url: "https://img.astroawani.com/2021-01/51611912751_SINGAPORE.jpg"
-        width: 590
-        height: 400
-        isCached: true
   - title: "Singapore Launches New Self-driving Bus Trial"
     excerpt: "Singapore has moved a step closer to a driverless public transport network with the launch of a new trial of self-driving buses. Orderly and high-tech, the Asian city-state has become a testbed for self-driving vehicles and has developed home-grown technology while inviting foreign companies to trial their own."
     publishedDateTime: 2021-01-28T06:52:00Z

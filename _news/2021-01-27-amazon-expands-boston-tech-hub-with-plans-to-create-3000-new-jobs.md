@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon is adding 3,000 jobs in Boston, including in AI, finance, and HR, as it continues its pandemic hiring spree"
-    excerpt: "Amazon is adding the new roles at its Boston Tech Hub and a 17-story office building in Seaport it's just leased."
-    publishedDateTime: 2021-01-26T12:03:00Z
-    webUrl: "https://www.businessinsider.com/amazon-jobs-hiring-boston-hr-finance-ai-vacancies-jeff-bezos-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/amazon-jobs-hiring-boston-hr-finance-ai-vacancies-jeff-bezos-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon-jobs-hiring-boston-hr-finance-ai-vacancies-jeff-bezos-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 82
-    images:
-      - url: "https://i.insider.com/600ff20767a6bc0019d9af6f?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Amazon expands Boston Tech Hub and add Technology Jobs"
     excerpt: "Amazon expands Boston Tech Hub and add Technology Jobs More technology positions are coming to Boston, including those in software"
     publishedDateTime: 2021-01-26T21:17:00Z

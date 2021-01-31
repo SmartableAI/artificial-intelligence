@@ -32,6 +32,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Australian games industry grows revenue 29% in the face of COVID-19"
+    excerpt: "The Interactive Games & Entertainment Association’s 2020 Australian Game Development Survey reports that the local industry has grown its revenue 29% in 2020, despite the shakeup caused by the COVID-19 pandemic."
+    publishedDateTime: 2021-01-29T06:30:00Z
+    webUrl: "https://stevivor.com/news/australian-games-industry-grows-revenue-29-in-the-face-of-covid-19/"
+    type: article
+    provider:
+      name: stevivor.com
+      domain: stevivor.com
+    quality: 24
+    images:
+      - url: "https://nightwing.stevivor.com/wp-content/uploads/2019/05/aussie-gaming-australia.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "kC9Pj/OsYkmpIj55x4ELhepZgbudy3jhdMhXVJ1JBhLDCobBjhhUXoxDnAt13x7zj9ewENsII/MKAXGusQ5dDnnS8F44y6KgxstNy3bluUpN5KfDEcJxkJwuisLeTz4Zsi8VwDr9CXarzCMa/Q2DUek3E60A1Q5vWqQjHTpP/K+hMy8yLceVyzh/jYbvQNR8q/YOrrIyKUHWSLWww0UMVckXXIv8mM0y3aEc4F24KI8wrBU5WTTfveevkhO1KNyghHgXc7BYIuLRtc6qhxQkTfZyw9bWkBh3pkX+t9BtcIj012DW7kL1XrMsPXe0B/zoc6oBPTskZ6JP0gsUBlg1EF3VXZfR+aaU6g6DyqImBXg9ZLJbXoT/adFNLtrlGWpxb3xs0wt452D5N9B34PX4MNX7lViZ6WUUtSHTuGODtrli2HiXR7+axIUNxyFKUm5qSDSCQzegLVcfN8eQJUTsgxgPVoOrPJBc7nC6oNWZBowD1+C9qZUlivXCrVFH1s5DfD2Ei6SCs2yB4yVNum9CYg==;3cQROrWKUPN79Wm7zTf3eA=="
 ---

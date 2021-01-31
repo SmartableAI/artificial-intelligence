@@ -25,36 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Thousands march in Australia for Indigenous recognition"
-    excerpt: "Demonstrators in major cities demand the national day be changed in honour of the country’s Indigenous people."
-    publishedDateTime: 2021-01-26T12:16:00Z
-    webUrl: "https://www.aljazeera.com/news/2021/1/26/arrests-made-during-australia-day-protest-held-amid-covid-concern"
-    ampWebUrl: "https://www.aljazeera.com/amp/news/2021/1/26/arrests-made-during-australia-day-protest-held-amid-covid-concern"
-    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2021/1/26/arrests-made-during-australia-day-protest-held-amid-covid-concern"
+  - title: "Belgian initiative for AI lung scan analysis in fight against COVID-19 goes European"
+    excerpt: "The Belgian initiative icovid, which supports radiologists in the assessment of CT images of the lungs of COVID-19 patients, has grown into a multicentre European project, co-funded by the EU Horizon 2020 programme."
+    publishedDateTime: 2021-01-27T08:11:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-europe-diseases-and-conditions-western-europe-lung-disease-d22101b2b07501c01eeb925bcbc358da"
     type: article
     provider:
-      name: Al Jazeera English
-      domain: aljazeera.com
-    quality: 44
+      name: Associated Press
+      domain: apnews.com
+    quality: 30
     images:
-      - url: "https://www.aljazeera.com/wp-content/uploads/2021/01/h_56648840.jpg?resize=1200%2C630"
-        width: 1200
-        height: 630
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "In Australia, AI is Building Bridges – or At Least, Maintaining Them"
-    excerpt: "Infrastructure maintenance isn’t necessarily the most eye-catching application of futuretech like AI, but the potential is enormous: in the U.S. alone,"
-    publishedDateTime: 2021-01-29T17:54:00Z
-    webUrl: "https://www.datanami.com/2021/01/29/in-australia-ai-is-building-bridges-or-at-least-maintaining-them/"
+  - title: "Belgian Initiative for AI Lung Scan Analysis in Fight Against COVID-19 Goes European"
+    excerpt: "The Belgian initiative icovid, which supports radiologists in the assessment of CT images of the lungs of COVID-19 patients, has grown into a multicentre European project, co-funded by the EU Horizon 2020 programme."
+    publishedDateTime: 2021-01-29T15:18:00Z
+    webUrl: "https://www.newswiretoday.com/news/174671/Belgian-Initiative-for-AI-Lung-Scan-Analysis-in-Fight-Against-COVID-19-Goes-European/"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 37
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/shutterstock_australia_bridge.jpg"
-        width: 1000
-        height: 614
-        isCached: true
+      name: Newswire Today
+      domain: newswiretoday.com
+    quality: 10
 
 secured: "8T3R0d8zD8tDIBxwP3w/hPpHY0Z1Eurt3h1L68M4g+8KgjmM+lzvkPZDd5UWxugzIwj7GFPwGk7N/F2AM8ga2yc2Luc6+zQle7K/RAFl44xrekkMexrtH6BgbL//FkkCE7emQ/K4GliKa1JB8hgjvgeuTjWD3JPtmCMobuITaGdTfnfuQDkrCnjUH/IuPFXYXRbFNMxOANzDFOrn0JP+FHBV7vYaRtwx5c2ZDix1zmfQp/Q5ZV67dM+R4SKPoEAzFa8ckQ7gWwEy1IoySF9QHCjFHzcnXX02xBNWhuyFNFqpj8aM6Ih8QlZlWu4lgMPjkmM7iF3EZmLlJ8ZfOLb+ByQmXaNcjUvAVmYCWq+uQjo=;AVX476qM7ohGeJ4M0kyFYw=="
 ---

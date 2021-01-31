@@ -2,9 +2,9 @@
 category: news
 title: "Japanese giant Nikko Global builds on Fintica AI success for market analysis"
 excerpt: "Fintica AI, Ltd. announced today the successful execution of a project for leading international Japan-based asset management company,"
-publishedDateTime: 2021-01-26T19:57:00Z
-originalUrl: "https://www.prnewswire.com/il/news-releases/japanese-giant-nikko-global-builds-on-fintica-ai-success-for-market-analysis-301215010.html"
-webUrl: "https://www.prnewswire.com/il/news-releases/japanese-giant-nikko-global-builds-on-fintica-ai-success-for-market-analysis-301215010.html"
+publishedDateTime: 2021-01-26T17:57:00Z
+originalUrl: "https://www.prnewswire.com/ae/news-releases/japanese-giant-nikko-global-builds-on-fintica-ai-success-for-market-analysis-301215010.html"
+webUrl: "https://www.prnewswire.com/ae/news-releases/japanese-giant-nikko-global-builds-on-fintica-ai-success-for-market-analysis-301215010.html"
 type: article
 quality: 36
 heat: -1
@@ -41,21 +41,7 @@ related:
         width: 680
         height: 383
         isCached: true
-  - title: "Japanese giant Nikko Global builds on Fintica AI success for market analysis"
-    excerpt: "Fintica AI, Ltd. announced today the successful execution of a project for leading international Japan-based asset management company,"
-    publishedDateTime: 2021-01-26T12:57:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/japanese-giant-nikko-global-builds-on-fintica-ai-success-for-market-analysis-301215010.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 36
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
 
-secured: "4t7l8o4Pgo2uBOM6o1JquS1BvPrzHNyUbC2Aco/UAobg9BUyExqV9HdO76zY1zBA9JxCozWRcYhSv7N9tTXyYYyzSP/TzQM/i7R1slxWGOMRJq5DJ0LOE6+3dUNzaNICblvRQBUif9w1cNQWlUYW1MKihb/omIf2XL6NOj4fkkj0qv/GkHGzltGa+7NHSRZjLaS14aXJyzl8RwnusufMLoWt5a5FemV4jqqgFLoZwi56WX3g4ZXcQKVeAIm7z17T2nG2zdZJckdjxgQG4/ztz8wwlgE5Cc8ykkezG7XY8TuVxsKzSaTct+tRC4/ugdfnILmzovTJD8AfvBGQ4gWj2spnnSoywux1YzWrfr2U6r0=;DTed5dydVNY6ZstjkijtAA=="
+secured: "sPmlAO6VHD4b9xz9TySe7CGjUeL60m7yyAfYoOmKZ9L58qjVzJo8OfizdaJJ3FzN4xvvoy4w6NC3F+Sk+axDXazw2v0w+hPv2dYzi5qTcisLk0AqFiDGmVdpNa6uYOp0nupSmvMaNlsSWL5HJ1JMlRyB5HtdSuoyJ8z7l2Tiafd4aG+zhk4O1bA3zr325na2HwSYXRHN6dA8Y7HSej9D9WZBJZBxKoGYJN+Bgv3hQPmzipw7yTCpo0rhKaVGWxhWe/ZtHscaLpbwijjJkQwoWeczHYG84e7tcmRvHbpkMvuPgXN/5zzQQ3kYT77kix4oBFcHUaw4Yyt6TY9chz362bs1OhZyaCI3mxm/rqyLXbM=;Zhdjz+td8WPE0UOdntJ2bQ=="
 ---
 

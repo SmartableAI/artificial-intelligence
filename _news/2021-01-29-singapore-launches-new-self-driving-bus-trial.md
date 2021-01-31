@@ -9,7 +9,7 @@ ampWebUrl: "https://www.astroawani.com/berita-teknologi/singapore-launches-new-s
 cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/berita-teknologi/singapore-launches-new-self-driving-bus-trial-280366?amp=1"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,56 +27,61 @@ images:
     isCached: true
 
 related:
-  - title: "Singapore Launches New Self-driving Bus Trial"
-    excerpt: "Singapore has moved a step closer to a driverless public transport network with the launch of a new trial of self-driving buses. Orderly and high-tech, the Asian city-state has become a testbed for self-driving vehicles and has developed home-grown technology while inviting foreign companies to trial their own."
-    publishedDateTime: 2021-01-28T06:52:00Z
-    webUrl: "https://www.ibtimes.com/singapore-launches-new-self-driving-bus-trial-3132465"
+  - title: "Self-Driving Cars Spurring Nearby Human Drivers Into Speeding And Abysmal Reckless Driving"
+    excerpt: "Turns out that law abiding self-driving cars can inadvertently spur nearby human drivers into rather bad driving practices."
+    publishedDateTime: 2021-01-28T16:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/01/28/self-driving-cars-spurring-nearby-human-drivers-into-speeding-and-abysmal-reckless-driving/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/01/28/self-driving-cars-spurring-nearby-human-drivers-into-speeding-and-abysmal-reckless-driving/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/01/28/self-driving-cars-spurring-nearby-human-drivers-into-speeding-and-abysmal-reckless-driving/amp/"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
+      name: Forbes
+      domain: forbes.com
+    quality: 64
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600a166556a5e0f16f10ffd8%2F0x0.jpg%3FcropX1%3D1736%26cropX2%3D8688%26cropY1%3D386%26cropY2%3D5378"
+        width: 1200
+        height: 865
+        isCached: true
+  - title: "Self-driving cars “10, 15 years away\" from being reality, \"maybe never”"
+    excerpt: "Fully self-driving cars becoming a regular sight on UK roads could be “10 or 15” years away, “maybe never”, says the consortium leader of a major autonomous vehicle trial."
+    publishedDateTime: 2021-01-29T12:31:00Z
+    webUrl: "https://www.fleetnews.co.uk/news/car-industry-news/2021/01/29/self-driving-cars-10-15-years-away-from-being-reality-maybe-never"
+    ampWebUrl: "https://www.fleetnews.co.uk/amp/news/car-industry-news/2021/01/29/self-driving-cars-10-15-years-away-from-being-reality-maybe-never"
+    cdnAmpWebUrl: "https://www-fleetnews-co-uk.cdn.ampproject.org/c/s/www.fleetnews.co.uk/amp/news/car-industry-news/2021/01/29/self-driving-cars-10-15-years-away-from-being-reality-maybe-never"
+    type: article
+    provider:
+      name: Fleet News
+      domain: fleetnews.co.uk
+    quality: 44
+    images:
+      - url: "https://cdn.fleetnews.co.uk/web/1/root/oxbotica1.jpg"
+        width: 1128
+        height: 752
+        isCached: true
+  - title: "Self-driving scooters to keep cruising Peachtree Corners"
+    excerpt: "Self-driving scooters are on a roll in Peachtree Corners, where residents will continue to see them cruising through Atlanta Technology Park without a driver."
+    publishedDateTime: 2021-01-29T19:14:00Z
+    webUrl: "https://www.ajc.com/news/atlanta-news/self-driving-scooters-to-keep-cruising-peachtree-corners/D6YDDLBVR5GQBHKZ2A5IUVQYWA/"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
     quality: 24
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/28/singapore-has-become-a-testbed-for-self-driving.jpg"
-        width: 1024
-        height: 681
+      - url: "https://www.ajc.com/resizer/_whVMmNmAEmpFD9LFzu2nA3K5gc=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/YD4EYMBHA5CKZIVUSVPQPAHSUI.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "S’pore launches self-driving bus trial"
-    excerpt: "Singapore has moved a step closer to a driverless public transport network with the launch of a new trial of self-driving buses."
-    publishedDateTime: 2021-01-28T18:27:00Z
-    webUrl: "https://www.thedailystar.net/backpage/news/spore-launches-self-driving-bus-trial-2035685"
-    ampWebUrl: "https://www.thedailystar.net/backpage/news/spore-launches-self-driving-bus-trial-2035685?amp"
-    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/backpage/news/spore-launches-self-driving-bus-trial-2035685?amp"
+  - title: "App will help visually impaired, seniors enjoy ride-sharing with self-driving cars"
+    excerpt: "Self-driving cars will offer access to ride-sharing and ride-hailing with their suite of modern conveniences. However, many people with visual impairments who use these services rely on a human driver to safely locate their vehicle."
+    publishedDateTime: 2021-01-29T21:36:00Z
+    webUrl: "https://7thspace.com/headlines/1441584/app_will_help_visually_impaired__seniors_enjoy_ride_sharing_with_self_driving_cars.html"
     type: article
     provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 24
-  - title: "Singapore launches new self-driving bus trial"
-    excerpt: "Singapore has moved a step closer to a driverless public transport network with the launch of a new trial of self-driving buses. Orderly and high-tech, the Asian city-state has become a testbed for self-driving vehicles and has developed home-grown technology while inviting foreign companies to trial their own."
-    publishedDateTime: 2021-01-30T16:47:00Z
-    webUrl: "https://tv.guardian.ng/news/world-news/singapore-launches-new-self-driving-bus-trial/"
-    ampWebUrl: "https://tv.guardian.ng/news/world-news/singapore-launches-new-self-driving-bus-trial/amp"
-    cdnAmpWebUrl: "https://tv-guardian-ng.cdn.ampproject.org/c/s/tv.guardian.ng/news/world-news/singapore-launches-new-self-driving-bus-trial/amp"
-    type: article
-    provider:
-      name: The Guardian Nigeria
-      domain: guardian.ng
-    quality: 24
-  - title: "Start-ups, student teams among 11 winners of Singapore Digital Techblazer Awards"
-    excerpt: "SINGAPORE - A biomedical start-up that uses artificial intelligence to improve the accuracy of antibody drug discovery. A robotics start-up that developed a solution allowing non-technical users to programme robots easily."
-    publishedDateTime: 2021-01-30T12:11:00Z
-    webUrl: "https://www.straitstimes.com/tech/11-winners-lauded-for-spirit-of-innovation-at-third-singapore-digital-techblazer-awards"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 19
-    images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/01/27/yutechblazer0127main.jpg?itok=mYstWSxu"
-        width: 763
-        height: 509
-        isCached: true
+      name: 7th Space
+      domain: 7thspace.com
+    quality: 13
 
 secured: "XDddWxNiTt784N3W2a/FA2SUNHnUBESXISGJuwNItj9qq2dCNIFZZ3qJHOMf1v0OxYDzenxvZAJsS04sxoCEkA5XuTu7PTigfHCAUqiS7S+TEM3twcrkBMK6vAHbXnpSvg2eWXQT11gZpvmzDTAEZXAglFUI7lLAKb00QRY1d33K2uZ/78a4Tf5blJokthSVr5ADxJf68oaQdevzs87XrhpjgvVWcTdIvQd1vZPHtuTyM82I56ZdUlvdRadMAb5o/JOXo1qNlNoB415hAmnYhCk/NqXV2PBAlNej0SOhdCnBfwF4wjYxhNX4pHbtcMgYJVc1E72yecuLKRNDU26aPNfWOduDMvpxqk7WZddL4OYkazE8bgz1E8OLsvkOowf6lAVk3kxAdtsU1R0fb4asZkv4TzW97fdjUZavTefs5ge5DwNSk/NGTwc+rorQrpi68lMetjii4BGprip4c2VwGeE8PuWzCbN8/1OmakEzgiJ8YjOHPGYDeyJ3PZMfIjv0RrvQFMAfeGDHJgYMgsE84A==;PD1s3seTOFJS8hEG7da9Lw=="
 ---

@@ -49,22 +49,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 69
-  - title: "South Korea: AI To Recreate Deceased Singer's Voice For TV Show"
-    excerpt: "National broadcaster SBS plans to use AI to recreate the voice of late singer Kim Kwang-seok, but concerns have been raised over the ethics of using this technology."
-    publishedDateTime: 2021-01-26T11:12:00Z
-    webUrl: "https://www.ibtimes.com/south-korea-ai-recreate-deceased-singers-voice-tv-show-3130674"
-    ampWebUrl: "https://www.ibtimes.com/south-korea-ai-recreate-deceased-singers-voice-tv-show-3130674?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/south-korea-ai-recreate-deceased-singers-voice-tv-show-3130674?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 59
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/07/27/artificial-intelligence-23320041920.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "South Korea has used AI to bring a dead superstar's voice back to the stage, but ethical concerns abound"
     excerpt: "The audio AI company behind Kim's reincarnated voice is Supertone, a South Korean startup founded in 2020 that provides AI audio solutions for content creators, according to co-founder and Chief Operating Officer Choi Hee-doo. \"For example, BTS is really ..."
     publishedDateTime: 2021-01-27T19:00:00Z

@@ -89,20 +89,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Best Languages To Build AI Chatbot In 2021"
-    excerpt: "Here In this blog we provide the list of most popular languages to build AI Chatbot in 2021. Before ,General Information"
-    publishedDateTime: 2021-01-26T11:12:00Z
-    webUrl: "https://www.hostreview.com/blog/210126-best-languages-to-build-ai-chatbot-in-2021"
-    type: article
-    provider:
-      name: Host Review
-      domain: hostreview.com
-    quality: 37
-    images:
-      - url: "https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Artificial intelligence chatbots for banking: 7 essentials for decision makers"
     excerpt: "Artificial intelligence is still a somewhat new technology, but it already has the capacity to offer real-world business outcomes for financial institutions in the form of productivity improvement, cost savings and happier customers."
     publishedDateTime: 2021-01-28T19:02:00Z

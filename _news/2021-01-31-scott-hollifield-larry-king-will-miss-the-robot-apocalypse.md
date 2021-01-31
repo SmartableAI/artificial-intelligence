@@ -1,24 +1,30 @@
 ---
 category: news
-title: "SCOTT HOLLIFIELD: Larry King will miss the Robot Apocalypse"
-excerpt: "How will he connect Larry King to killer robots? Why am I still reading at this point? Why does the newspaper continue to publish this guy after I have objected so many times in letters to the editor?"
-publishedDateTime: 2021-01-30T16:06:00Z
-originalUrl: "https://martinsvillebulletin.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_28aaecb4-6250-11eb-8ab0-9bba3f38b23f.html"
-webUrl: "https://martinsvillebulletin.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_28aaecb4-6250-11eb-8ab0-9bba3f38b23f.html"
-ampWebUrl: "https://martinsvillebulletin.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_28aaecb4-6250-11eb-8ab0-9bba3f38b23f.amp.html"
-cdnAmpWebUrl: "https://martinsvillebulletin-com.cdn.ampproject.org/c/s/martinsvillebulletin.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_28aaecb4-6250-11eb-8ab0-9bba3f38b23f.amp.html"
+title: "Scott Hollifield: Larry King will miss the Robot Apocalypse"
+excerpt: "Today, our disparate subjects will be the literary genius of the late Larry King and the inevitable end of the world as we know it brought about by killer robots."
+publishedDateTime: 2021-01-31T03:45:00Z
+originalUrl: "https://statesville.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_980dd3f8-61a8-11eb-afbc-af7af6ad3563.html"
+webUrl: "https://statesville.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_980dd3f8-61a8-11eb-afbc-af7af6ad3563.html"
+ampWebUrl: "https://statesville.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_980dd3f8-61a8-11eb-afbc-af7af6ad3563.amp.html"
+cdnAmpWebUrl: "https://statesville-com.cdn.ampproject.org/c/s/statesville.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_980dd3f8-61a8-11eb-afbc-af7af6ad3563.amp.html"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Martinsville Bulletin
-  domain: martinsvillebulletin.com
+  name: Statesville Record & Landmark
+  domain: statesville.com
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/statesville.com/content/tncms/assets/v3/editorial/9/80/98071cac-61a8-11eb-afbb-87367d0e0a83/60132075c20fc.image.jpg"
+    width: 504
+    height: 233
+    isCached: true
 
 related:
   - title: "Scott Hollifield: Larry King will miss the Robot Apocalypse"
@@ -54,6 +60,6 @@ related:
         height: 233
         isCached: true
 
-secured: "jEajPc01qT98JU90nHFANa/N2mIhZiZ3+rjnlSxqpEm1qSEzELu55Z0g4mjZF/F3tsvAcN5+Er13I3tYGAiF7A+ovWR8CKD57IQ6Uuld51K/P1twhxXnEGHKK9wCdJ+yHSMYQDvB0X02M13N0e0womnENEr76FoB79Xq3GhgImltzu/SOdxAOwhkj0sIjbiGryRx1ItXdnbrUC6G+65wdTEsLrdNJsS1RZhfgweWZQZhpMdPSGMSNc2HbhY2f+kDeANopXg3/eS0kPmwp9CCgcDdUB+q7QRz+NcG42jhusFdCsU3LyPZ+5FYQGp6bQV0o4ZG5abEZuCGtvj28d4iPaeVKqkbG+pTwKQFQUjE8HvjOszr+UqxB6zdOZWOezl6ucpawPAP4sN0xtSOSzRawulq9CqU5labhxVNo3QVTDuLoFhR65y24C5ElslbBJ69S0BpyUvu9TnILu1lZ6f4m/pBnrKiWimRXV4jqjHBxevZioZH4tuc9cH7vVLCU6dMnztqP6wBGXFQ5YJwlQg1pg==;O6oMAohJxPRAXih9hAbY0Q=="
+secured: "18yomHV62M/pGqlAuGXPJY68t3ncMC/3DJ9woAwIJ01N8LVbwqzUtiKE4QBhe+u+lmaJJMr0xa7vmRzzPKEedA2BQNnzIDKOrxf5sHTvW0t3+LzQ1i+AMcexIFt/PiZOFG8RcL1F2XS7a+GHbRTOQsnWt1cttipyOcaE+xHD4Zrd+wCuK1fICHnyr0Z5XN//jnJkjFzR/FD59n/MIitNSACG2Jo/FIvghsavMO+nxeTuDrTClX0I/fETlXtfjHoxCNKZ1IcUY6uRcDim+20599bygIycZy5SCNb9obKubLS3/0ESXgwTgmHct3TvHU+0tBlqIReSZz8cPyidlWns+FC1XYZYCFNREUb5W3hPQKw=;wWe4GhBVqWKTiOKFEuuxrQ=="
 ---
 

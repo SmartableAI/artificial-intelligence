@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/01/28/self-driving-cars
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/01/28/self-driving-cars-spurring-nearby-human-drivers-into-speeding-and-abysmal-reckless-driving/amp/"
 type: article
 quality: 64
-heat: -1
-published: false
+heat: 104
+published: true
 
 provider:
   name: Forbes
@@ -31,22 +31,61 @@ images:
     isCached: true
 
 related:
-  - title: "This AI Could Go From ‘Art’ to Steering a Self-Driving Car"
-    excerpt: "DALL-E drew laughs for creating images of a daikon radish in a tutu. But it builds on an important advance in computer vision with serious applications."
-    publishedDateTime: 2021-01-26T12:01:00Z
-    webUrl: "https://www.wired.com/story/ai-go-art-steering-self-driving-car/"
-    ampWebUrl: "https://www.wired.com/story/ai-go-art-steering-self-driving-car/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-go-art-steering-self-driving-car/amp"
+  - title: "Self-driving cars “10, 15 years away\" from being reality, \"maybe never”"
+    excerpt: "Fully self-driving cars becoming a regular sight on UK roads could be “10 or 15” years away, “maybe never”, says the consortium leader of a major autonomous vehicle trial."
+    publishedDateTime: 2021-01-29T12:31:00Z
+    webUrl: "https://www.fleetnews.co.uk/news/car-industry-news/2021/01/29/self-driving-cars-10-15-years-away-from-being-reality-maybe-never"
+    ampWebUrl: "https://www.fleetnews.co.uk/amp/news/car-industry-news/2021/01/29/self-driving-cars-10-15-years-away-from-being-reality-maybe-never"
+    cdnAmpWebUrl: "https://www-fleetnews-co-uk.cdn.ampproject.org/c/s/www.fleetnews.co.uk/amp/news/car-industry-news/2021/01/29/self-driving-cars-10-15-years-away-from-being-reality-maybe-never"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 91
+      name: Fleet News
+      domain: fleetnews.co.uk
+    quality: 44
     images:
-      - url: "https://media.wired.com/photos/600f51cd4774061ec087b7da/master/pass/Business-OpenAI-Spaghetti-Knights.jpg"
-        width: 2057
-        height: 1029
+      - url: "https://cdn.fleetnews.co.uk/web/1/root/oxbotica1.jpg"
+        width: 1128
+        height: 752
         isCached: true
+  - title: "Singapore launches new self-driving bus trial"
+    excerpt: "Singapore has moved a step closer to a driverless public transport network with the launch of a new trial of self-driving buses."
+    publishedDateTime: 2021-01-29T13:30:00Z
+    webUrl: "https://www.astroawani.com/berita-teknologi/singapore-launches-new-self-driving-bus-trial-280366"
+    ampWebUrl: "https://www.astroawani.com/berita-teknologi/singapore-launches-new-self-driving-bus-trial-280366?amp=1"
+    cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/berita-teknologi/singapore-launches-new-self-driving-bus-trial-280366?amp=1"
+    type: article
+    provider:
+      name: Astro Awani
+      domain: astroawani.com
+    quality: 44
+    images:
+      - url: "https://img.astroawani.com/2021-01/51611912751_SINGAPORE.jpg"
+        width: 590
+        height: 400
+        isCached: true
+  - title: "Self-driving scooters to keep cruising Peachtree Corners"
+    excerpt: "Self-driving scooters are on a roll in Peachtree Corners, where residents will continue to see them cruising through Atlanta Technology Park without a driver."
+    publishedDateTime: 2021-01-29T19:14:00Z
+    webUrl: "https://www.ajc.com/news/atlanta-news/self-driving-scooters-to-keep-cruising-peachtree-corners/D6YDDLBVR5GQBHKZ2A5IUVQYWA/"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 24
+    images:
+      - url: "https://www.ajc.com/resizer/_whVMmNmAEmpFD9LFzu2nA3K5gc=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/YD4EYMBHA5CKZIVUSVPQPAHSUI.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "App will help visually impaired, seniors enjoy ride-sharing with self-driving cars"
+    excerpt: "Self-driving cars will offer access to ride-sharing and ride-hailing with their suite of modern conveniences. However, many people with visual impairments who use these services rely on a human driver to safely locate their vehicle."
+    publishedDateTime: 2021-01-29T21:36:00Z
+    webUrl: "https://7thspace.com/headlines/1441584/app_will_help_visually_impaired__seniors_enjoy_ride_sharing_with_self_driving_cars.html"
+    type: article
+    provider:
+      name: 7th Space
+      domain: 7thspace.com
+    quality: 13
 
 secured: "3HXGlYNIksWWa7Y4P3mYkVhVbcb3ofUkKpRYcFuxNvQRFKIw7xPgycVgvBBrOtCQxf06zRhvPZ9mA+J79cYVhfh5HRO3JHQrblZR0cAXwce7mr7HOWao1pH/uh7RRQYVcK3DFjPEsA/iLDscj86swUjbLLZW6PLQamPsJyil8TISe8YnUUy/ZArCoZDf6IqBwbcSVTpckSJ+t1K20E6BAMv4Lnar44RsOhZFK/h6MrcDvOwm2HX4WAyyCXOBKY9aStIXHXixQIPxbpR+E/LxEDwX5C4eAlj3qta75MFHvWMp3tdy3mC5MiFtKacUEhJzhl0PHB2wXVOpS9Szu4zAQOk2hQiDB7caT893C/8IPVGTwb7wmrFBziiarT8SMx7cbjsF/fhyt0Q3R47ZU6gi9Fnc3FycRb75TLSuPhI5YXMeQfqOhu9gw6/VsIkiEaBZh4M7yi7MU2J6H9Bf1sXSToXcQekeP40kCAc3coMrN5aPPnUleDdAPdW7gKo0J7J76m0rFQWMhACodecnmcTuVw==;pLO4NvA41mEmNMVhVQLMwQ=="
 ---

@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/01/30/ai-needs-an-open-labeling-platform/"
 ampWebUrl: "https://venturebeat.com/2021/01/30/ai-needs-an-open-labeling-platform/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/30/ai-needs-an-open-labeling-platform/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/01/labeling.jpg?w=1200&strip=all"

@@ -155,17 +155,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Manufacturing Market 2020 Recent Industry Trends and Significant Developments by 2027"
-    excerpt: "Market Research Intellect have recently published a new report on the Global Artificial Intelligence AI in Manufacturing Market The study provides profound insights into updated market events and market trends This in turn helps one in better comprehending the market"
-    publishedDateTime: 2021-01-26T11:18:00Z
-    webUrl: "https://www.openpr.com/news/2231110/artificial-intelligence-ai-in-manufacturing-market-2020"
-    ampWebUrl: "https://www.openpr.com/amp/2231110/artificial-intelligence-ai-in-manufacturing-market-2020"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2231110/artificial-intelligence-ai-in-manufacturing-market-2020"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 29
   - title: "Global Machine Learning Market Report 2020: Industry Analysis, Trends, Market Size, and Forecasts 2018-2026 - ResearchAndMarkets.com"
     excerpt: "Global Industry Analysis, Trends, Market Size, and Forecasts up to 2026” report has been added to ResearchAndMarkets.com’s offering. The report on the global machine learning market provides qualitative and quantitative analysis for the period from 2018 to 2026."
     publishedDateTime: 2021-01-29T07:59:00Z

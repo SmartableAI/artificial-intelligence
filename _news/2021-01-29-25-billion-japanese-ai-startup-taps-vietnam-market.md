@@ -9,8 +9,8 @@ ampWebUrl: "https://ampe.vnexpress.net/news/business/companies/2-5-billion-japan
 cdnAmpWebUrl: "https://ampe-vnexpress-net.cdn.ampproject.org/c/s/ampe.vnexpress.net/news/business/companies/2-5-billion-japanese-ai-startup-taps-vietnam-market-4227973.html"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: VN Express
@@ -28,22 +28,8 @@ images:
 related:
   - title: "Japanese giant Nikko Global builds on Fintica AI success for market analysis"
     excerpt: "Fintica AI, Ltd. announced today the successful execution of a project for leading international Japan-based asset management company,"
-    publishedDateTime: 2021-01-26T12:57:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/japanese-giant-nikko-global-builds-on-fintica-ai-success-for-market-analysis-301215010.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 36
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Japanese giant Nikko Global builds on Fintica AI success for market analysis"
-    excerpt: "Fintica AI, Ltd. announced today the successful execution of a project for leading international Japan-based asset management company,"
-    publishedDateTime: 2021-01-26T19:57:00Z
-    webUrl: "https://www.prnewswire.com/il/news-releases/japanese-giant-nikko-global-builds-on-fintica-ai-success-for-market-analysis-301215010.html"
+    publishedDateTime: 2021-01-26T17:57:00Z
+    webUrl: "https://www.prnewswire.com/ae/news-releases/japanese-giant-nikko-global-builds-on-fintica-ai-success-for-market-analysis-301215010.html"
     type: article
     provider:
       name: PR Newswire

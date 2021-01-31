@@ -40,22 +40,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Here’s how artificial intelligence can help improve your quality of hearing"
-    excerpt: "A recent device that has become a popular choice for patients with hearing loss is digital hearing aids, also known as artificial intelligence aids (AI). AI refers to smart devices and machines that are proficient in performing tasks that usually require human intelligence."
-    publishedDateTime: 2021-01-28T21:12:00Z
-    webUrl: "https://www.woodtv.com/wotv4women/the-crew/hearing/heres-how-artificial-intelligence-can-help-improve-your-quality-of-hearing/"
-    ampWebUrl: "https://www.woodtv.com/wotv4women/the-crew/hearing/heres-how-artificial-intelligence-can-help-improve-your-quality-of-hearing/amp/"
-    cdnAmpWebUrl: "https://www-woodtv-com.cdn.ampproject.org/c/s/www.woodtv.com/wotv4women/the-crew/hearing/heres-how-artificial-intelligence-can-help-improve-your-quality-of-hearing/amp/"
-    type: article
-    provider:
-      name: WOOD-TV
-      domain: woodtv.com
-    quality: 57
-    images:
-      - url: "https://www.woodtv.com/wp-content/uploads/sites/51/2021/01/GettyImages-856556294.jpg?w=1280"
-        width: 1280
-        height: 1337
-        isCached: true
   - title: "How AI and Machine Learning Will Shape Software Testing"
     excerpt: "In this special guest feature, Erik Fogg, Chief Operating Officer at ProdPerfect, covers some of the main benefits of adding AI to the software testing process, and why you should consider adding it to yours if you haven’t already."
     publishedDateTime: 2021-01-27T14:03:00Z

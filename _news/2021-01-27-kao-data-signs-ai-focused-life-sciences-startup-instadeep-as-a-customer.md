@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerweekly.com/news/252495386/Kao-Data-signs-AI-focu
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252495386/Kao-Data-signs-AI-focused-life-sciences-startup-InstaDeep-as-a-customer?amp=1"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -20,20 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "Kao Data to host InstaDeep’s HPC and AI supercomputer"
-    excerpt: "Kao Data has announced a new customer contract with InstaDeep, an EMEA artificial intelligence powered decision-making solutions company."
-    publishedDateTime: 2021-01-26T12:44:00Z
-    webUrl: "https://www.capacitymedia.com/articles/3827523/kao-data-to-host-instadeeps-hpc-and-ai-supercomputer"
-    type: article
-    provider:
-      name: Capacity Media
-      domain: capacitymedia.com
-    quality: 39
-    images:
-      - url: "https://www.capacitymedia.com/Image/ServeImage?id=48700&w=780&h=442&cr=true"
-        width: 780
-        height: 442
-        isCached: true
   - title: "Kao Data to Host InstaDeep’s HPC and AI Supercomputer, Expanding R&D Capabilities"
     excerpt: "Kao Data, developer and operator of advanced, carrier-neutral data centres for high performance colocation, has today announced a new customer contract with InstaDeep, a global leader in artificial intelligence (AI) powered decision-making solutions for enterprise."
     publishedDateTime: 2021-01-26T16:39:00Z

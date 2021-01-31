@@ -7,7 +7,7 @@ originalUrl: "https://www.ibtimes.com/singapore-launches-new-self-driving-bus-tr
 webUrl: "https://www.ibtimes.com/singapore-launches-new-self-driving-bus-trial-3132465"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Singapore launches new self-driving bus trial"
-    excerpt: "Singapore has moved a step closer to a driverless public transport network with the launch of a new trial of self-driving buses."
-    publishedDateTime: 2021-01-29T13:30:00Z
-    webUrl: "https://www.astroawani.com/berita-teknologi/singapore-launches-new-self-driving-bus-trial-280366"
-    ampWebUrl: "https://www.astroawani.com/berita-teknologi/singapore-launches-new-self-driving-bus-trial-280366?amp=1"
-    cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/berita-teknologi/singapore-launches-new-self-driving-bus-trial-280366?amp=1"
-    type: article
-    provider:
-      name: Astro Awani
-      domain: astroawani.com
-    quality: 44
-    images:
-      - url: "https://img.astroawani.com/2021-01/51611912751_SINGAPORE.jpg"
-        width: 590
-        height: 400
-        isCached: true
   - title: "S’pore launches self-driving bus trial"
     excerpt: "Singapore has moved a step closer to a driverless public transport network with the launch of a new trial of self-driving buses."
     publishedDateTime: 2021-01-28T18:27:00Z

@@ -19,20 +19,6 @@ topics:
   - AI Hardware
 
 related:
-  - title: "Kao Data to host InstaDeep’s HPC and AI supercomputer"
-    excerpt: "Kao Data has announced a new customer contract with InstaDeep, an EMEA artificial intelligence powered decision-making solutions company."
-    publishedDateTime: 2021-01-26T12:44:00Z
-    webUrl: "https://www.capacitymedia.com/articles/3827523/kao-data-to-host-instadeeps-hpc-and-ai-supercomputer"
-    type: article
-    provider:
-      name: Capacity Media
-      domain: capacitymedia.com
-    quality: 39
-    images:
-      - url: "https://www.capacitymedia.com/Image/ServeImage?id=48700&w=780&h=442&cr=true"
-        width: 780
-        height: 442
-        isCached: true
   - title: "Kao Data signs AI-focused life sciences startup InstaDeep as a customer"
     excerpt: "Harlow-based colocation provider Kao Data has added artificial intelligence (AI)-focused startup InstaDeep to its customer roster of high-performance computing (HPC) clients. Founded in 2014, InstaDeep specialises in providing AI-based decision-making products for enterprises and industrial environments."
     publishedDateTime: 2021-01-26T16:50:00Z

@@ -94,22 +94,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 64
-  - title: "How Facial Recognition Algorithms Can Cut Out Bias"
-    excerpt: "A team has published the results of a study that evaluates the accuracy and bias in gender and skin colour of automatic face recognition algorithms tested with real world data."
-    publishedDateTime: 2021-01-26T11:52:00Z
-    webUrl: "https://www.technologynetworks.com/neuroscience/news/how-facial-recognition-algorithms-can-cut-out-bias-344899"
-    ampWebUrl: "https://www.technologynetworks.com/neuroscience/news/amp/how-facial-recognition-algorithms-can-cut-out-bias-344899"
-    cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/neuroscience/news/amp/how-facial-recognition-algorithms-can-cut-out-bias-344899"
-    type: article
-    provider:
-      name: technologynetworks.com
-      domain: technologynetworks.com
-    quality: 59
-    images:
-      - url: "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/how-facial-recognition-algorithms-can-cut-out-bias-344899.jpg?v=11082843"
-        width: 640
-        height: 360
-        isCached: true
   - title: "NY Civil Rights Advocates Back Facial Recognition Ban"
     excerpt: "The technology has raised concerns across the country by some who worry it could be a dangerous step toward a surveillance state where people’s movements are tracked the moment they leave their homes"
     publishedDateTime: 2021-01-27T12:00:00Z
