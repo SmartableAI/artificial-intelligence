@@ -83,22 +83,6 @@ related:
         width: 690
         height: 400
         isCached: true
-  - title: "Study provides first real-world evidence of COVID-19 contact tracing app effectiveness"
-    excerpt: "An international research collaboration, involving scientists from the UK, US and Spain, has shed new light on the usefulness of digital contact tracing (DCT) to control the spread of COVID-19."
-    publishedDateTime: 2021-01-26T17:41:00Z
-    webUrl: "https://medicalxpress.com/news/2021-01-real-world-evidence-covid-contact-app.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-01-real-world-evidence-covid-contact-app.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-01-real-world-evidence-covid-contact-app.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 36
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/2-app.jpg"
-        width: 2880
-        height: 1920
-        isCached: true
 
 secured: "q3HaYw2nMc7onyc9n9feGalaYle78RqZUUd6gjWZAuEWgwcGGdvoWXXwP7Af6sal8IWidqTYwicHnO3ruwK4BG9oc39eLBiJn4JYmNQkwpuwujghV4E457VPR4YZBNmw3wiGnitmP5c2lldqyzUxhrMqeCDDg4bwxdQZoYfJ3aMlP6gUEsyqywCvXBlvKkr3ieiM1OsXWV03h5e4ahexEzs4BRrEIez8/YIUYkt0K87PEpARTQDZ9KH46yN2iSnL7dDPMlLvD0fLWVQmmYgXPfW4jIpel829TfDmadh8d10Q1EBa8+NMyg2tVOicsTXerTSjGRrRsSEaHx+mJ/nP0pfdzsW9OPUHG0cH7ITbrqk=;zvl6VBHXifExAbQ4ncwCgg=="
 ---

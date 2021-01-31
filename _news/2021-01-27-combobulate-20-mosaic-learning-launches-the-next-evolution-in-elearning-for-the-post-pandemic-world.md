@@ -24,17 +24,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "'Learning Factory' Gets Steam Early Access Date"
-    excerpt: "Learning Factory is a factory automation game where you have to build an increasingly bigger and complex factory, named KOTOVOD and located on Mars, to make goods for cats."
-    publishedDateTime: 2021-01-26T17:15:00Z
-    webUrl: "https://www.worthplaying.com/article/2021/1/26/news/123820/"
-    type: article
-    provider:
-      name: Worth Playing
-      domain: worthplaying.com
-    quality: 4
-
 secured: "+Utgkj0o0zWGmgmxM6iDE3lyFsC5r+Eur4rTl3eYT6MPg5LIAxmPl0wx5Qs+3LtsP/3UhybmBzFfnDdLsBNIrn/IA9MjAkWwoiOprvXpJLz+bYiEFiqoZ0Ptjzh6azcCtKbY7Km7oFxEuXuJNh9WVroqC3xakXKXoJSV4seULJfQhuTocc5avE7dXeshDPZVYKBhcvJjm83WujyZxHqOYDRlM+/ETONY1oxoQxFyuDDLMTR0vJtw/L4XRCRdBt19ppqTfnChpYDVY59TUGk9Jt+V2/8ZWtZHue1b+hNguAGpVb6bKyK71xJWOfFksbA/kt3A7gIAHIceLPCQc5K2k1PCxK3+J8Z/G9ersVWgg4U=;eNa0XyzdTV6+cU/6JZXwOA=="
 ---
 

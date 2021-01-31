@@ -33,6 +33,15 @@ related:
         width: 700
         height: 460
         isCached: true
+  - title: "Correction to Google Artificial Intelligence Article"
+    excerpt: "Chief Executive Sundar Pichai said last year, adding, \"While AI promises enormous benefits for Europe and the world, there are real concerns about the potential negative consequences.\" \"Artificial Intelligence Will Define Google's Future."
+    publishedDateTime: 2021-01-26T20:02:00Z
+    webUrl: "https://www.morningstar.com/news/dow-jones/2021012614168/correction-to-google-artificial-intelligence-article"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 17
 
 secured: "JFxy65aYW8aoOyUVLi3GHTC0XpgEFdJAZpzuXWEeMk+xY2DMir9XhbyIROZf6wEfxdHMtMLxyJMNUDQdfTUOFr9T/4LELqsjgAnWuWaPN1zyR2Y2rZQo6prfes3zPhO9PqF3maZw0/xb8wF9AUFFh3ZieD9SYbvTZr+btELztBs6mxgeURHtQ0qR+MgqeOBckeKsplM3BHpBwcpW3xLhNqyM7k2f3CmmJbP+YdP3dw0f4njRnk9xO/jeeTZ6qvS+ho9We+H187uHgcfXTK8hNmOYiSokxjfwwOerfqnDIJQHbVoA/Rd+e0gJMIyoVvuptmgv76JbbnnrpJbMMYVEt4bJF7LuVJAI6TEmMMCxlJo=;N+FaNQ+fBxRmAKGCob3Tnw=="
 ---

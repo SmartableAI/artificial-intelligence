@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Correction to Google Artificial Intelligence Article"
+    excerpt: "Chief Executive Sundar Pichai said last year, adding, \"While AI promises enormous benefits for Europe and the world, there are real concerns about the potential negative consequences.\" \"Artificial Intelligence Will Define Google's Future."
+    publishedDateTime: 2021-01-26T20:02:00Z
+    webUrl: "https://www.morningstar.com/news/dow-jones/2021012614168/correction-to-google-artificial-intelligence-article"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 17
   - title: "Artificial Intelligence Will Define Google's Future. For Now, It's a Management Challenge."
     excerpt: "Google's parent has waded through one controversy after another involving its top researchers and executives in the field. In the most high-profile incident, last month Google parted ways with a prominent AI researcher,"
     publishedDateTime: 2021-01-26T20:03:00Z

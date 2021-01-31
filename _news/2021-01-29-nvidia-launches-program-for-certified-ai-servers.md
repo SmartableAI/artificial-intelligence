@@ -73,20 +73,6 @@ related:
         width: 405
         height: 228
         isCached: true
-  - title: "Nvidia Rolls Out Certified Server Program Targeting AI Applications"
-    excerpt: "Nvidia today launched a certified systems program in which participating vendors can offer Nvidia-certified servers with up to eight A100 GPUs. Separate"
-    publishedDateTime: 2021-01-26T18:08:00Z
-    webUrl: "https://www.hpcwire.com/2021/01/26/nvidia-rolls-out-certified-server-program-targeting-ai-applications/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 39
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/NVIDIA-Certified-Press-Graphic1-copy.jpg"
-        width: 948
-        height: 474
-        isCached: true
 
 secured: "PQ/BcWfhTDfSbSXLQxsG45mKHoMYOJzejPcTFS1ZKv4VdfxUL7o+3wFU00Q0ul264Y/fyIYMdCW0ThyD5AdqjVyAbjWlavGwj0Y9Mj77+TCsReQl6K9pxDSfBbodcqVmVWHNfLsBrPvpl4MlQRBdvCYp3Kcf/ZeO6Av1dvzldTLS2KMzfjDS3oh40v7U7YaMEWzkYnL+YuJh7nJbfH4hZ1h4Nk1Ux9wgDM5GDkiggP2gy2Kb/DOVAzv3GVPY1Nn/2hJ8bZnzWL51fJnLtyihHC5pDzy0Gr1BuM0WXsig6xlVDohZrMYAOI/vfIWrHaJ26puirv3vnkl/vfC0ITzxZqRrRJPNducya8uPb84ckm4=;cW0j3kKqDwh/J9ngTjIjgQ=="
 ---

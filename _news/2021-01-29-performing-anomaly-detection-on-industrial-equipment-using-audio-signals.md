@@ -43,20 +43,6 @@ related:
         width: 680
         height: 340
         isCached: true
-  - title: "Savvas Learning Company and Turnitin Partner to Deliver Next-Generation Writing Tool"
-    excerpt: "Savvas Learning Company, a next-generation learning solutions leader for K-12 education, is excited to announce it is integrating its"
-    publishedDateTime: 2021-01-26T18:35:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/savvas-learning-company-and-turnitin-partner-to-deliver-next-generation-writing-tool-301215485.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 17
-    images:
-      - url: "https://mma.prnewswire.com/media/1426608/Turnitin_Savvas.jpg?p=facebook"
-        width: 2700
-        height: 1414
-        isCached: true
 
 secured: "q/FMB8ZdTWdH7qrEqB02f+Vf1TeBfBHtoUBXQsVgLUhqEIajHZv/twTJWTU+CFqVn/BacwHaGmTYI4Jq/mLrKTj+DOQlnJpbpjDJIN0jN/tM2I7/aJMyfB226pjNXh50pjziy/xNI6gUBKAr8hVGw1Z9naABJVGZCc/l4s6FChPGXEbH+RbfS55A2BZA0siaJ/Qp6aFPtBlSJikIW1cxCxTSXWCfxCFN/YwkuRMvQWtQlrEdJKW5IkoSta6KhdSiylFqH6YR3g9k02ZW3WCtvFbwoZQYuzcAmXdYveAczwXUGro/zDK2Vl9g2Snm6KqXXOssDMYQRsTBtkFHFyqZavbQWt40oAckZaxORtxDWDc=;Lu/Kvjs9miPhM6giK95ZzA=="
 ---

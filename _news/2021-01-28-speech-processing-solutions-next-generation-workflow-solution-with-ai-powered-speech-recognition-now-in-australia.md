@@ -25,26 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Dell Precision Workstations for AI"
-    excerpt: "Why developers are turning to ultra-powerful workstations for more creative freedom at less cost. Research shows that"
-    publishedDateTime: 2021-01-26T18:44:00Z
-    webUrl: "https://www.techrepublic.com/resource-library/whitepapers/dell-precision-workstations-for-ai/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/resource-library/whitepapers/dell-precision-workstations-for-ai/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/dell-precision-workstations-for-ai/"
+  - title: "Artificial Intelligence Is India’s Solution to Fix Data Gaps"
+    excerpt: "India is turning from man to machines to improve the quality and speed of its economic data, which has been criticized as inadequate, delayed or even confusing due to sharp and unexpected revisions."
+    publishedDateTime: 2021-01-27T22:02:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-01-27/artificial-intelligence-is-india-s-solution-to-fix-data-gaps"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
+      name: Bloomberg
+      domain: bloomberg.com
     quality: 67
-  - title: "Correction to Google Artificial Intelligence Article"
-    excerpt: "Chief Executive Sundar Pichai said last year, adding, \"While AI promises enormous benefits for Europe and the world, there are real concerns about the potential negative consequences.\" \"Artificial Intelligence Will Define Google's Future."
-    publishedDateTime: 2021-01-26T20:02:00Z
-    webUrl: "https://www.morningstar.com/news/dow-jones/2021012614168/correction-to-google-artificial-intelligence-article"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 17
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKgMwJ4Jg9dM/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "5j2LGbGi8mtr/gXwRAew8+TTVZMwbYeIdrx2KeCCM/z2m6LSc+O3tePEq+AVzggfDMPQYzY3hqoQdDK5DFnHliFAyv57IPuFaOBQmyrmHoLe3a9XyjSAuP9Is9w4B0Fht0hbHAcMUKhx0r+xFjEIz1YIVHM1S8xUrrKHqHImku8F7W+sWu8HyEe6XvRwMnmeNKZ7G4LDqa2+vunLrwU0rR0qEqkzZM5aHAIuC3CunfL+0N+AZE3EmUR0X4arYaAy8Z4xNFnEfr0bjnpItxYtO/TfZHiIx8kQiEaL07hbUR7feB37OQZJ6w6Ay78cGiBPiqD/0d4N3TSmDbHeasuUfHWDBkuBWyVb42Y4aInFjJs=;X4GRLhVE4C+LhbNNPMfEXA=="
 ---

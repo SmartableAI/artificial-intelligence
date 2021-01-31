@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/nvidia-shows-off-the-first-a100-g
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/nvidia-shows-off-the-first-a100-gpu-systems-built-to-handle-ai-workloads"
 type: article
 quality: 103
-heat: 143
+heat: 133
 published: true
 
 provider:
@@ -76,20 +76,6 @@ related:
       - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/shutterstock_ncar_hq-405x228.jpg"
         width: 405
         height: 228
-        isCached: true
-  - title: "Nvidia Rolls Out Certified Server Program Targeting AI Applications"
-    excerpt: "Nvidia today launched a certified systems program in which participating vendors can offer Nvidia-certified servers with up to eight A100 GPUs. Separate"
-    publishedDateTime: 2021-01-26T18:08:00Z
-    webUrl: "https://www.hpcwire.com/2021/01/26/nvidia-rolls-out-certified-server-program-targeting-ai-applications/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 39
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/NVIDIA-Certified-Press-Graphic1-copy.jpg"
-        width: 948
-        height: 474
         isCached: true
 
 secured: "kRNTVO56baoqCKKdD3m4WZNFH85xLu01JssGFFF1rj1YtDsQdLp0s49yxU+um2nxXU/IHywawEQg7PrfrrWXwDmtLrvYPutiBwDAznYAu+FMVLROWSc88LZKghrVL2K2SY+HZNK+oweG4wZPrPZBCxy0jSpZWpScmyn1qvpCnMKYdHv54IEwYQzqWdsjhk1oOEreml7So+btyFa5vswHBDlE4oOe530bZWE56bNwaAeL/fKbFgh5fUq9Vc2RgAl6DOzoFt2ByTAsmeSRceB98ZR1/w9DncZIzz9mN/+e/H5Gm9c/g6wCpoKsybp/Ev8nVc1m6+QGv9YrkrOSiJcBzQbMuIKHEnYOPm1qVLL/I5/u09irlTTESah5K0Xh8DgDHbV/wSvR3h9+fwxwG+edfePvuStcyF9vvB6HxwjC66ILj3xFiPH8aSfy72y/jjBU/ZwJGJq30MaUapa7GVQngcSGdWCmbD7PoMOqAabKQ7F86kCM9qAICkbmOdnHt1q9+9sTH0x0Vs7kYpjsN0rcbA==;Um38GQ6z6ayXNhp0dyfvIQ=="

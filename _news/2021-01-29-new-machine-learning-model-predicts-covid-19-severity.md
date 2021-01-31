@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210128/New-machine-learning-
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210128/New-machine-learning-model-predicts-COVID-19-severity.aspx"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -68,22 +68,6 @@ related:
       - url: "https://healthitanalytics.com/images/site/article_headers/_normal/Apps_and_Software.jpg"
         width: 690
         height: 400
-        isCached: true
-  - title: "Study provides first real-world evidence of COVID-19 contact tracing app effectiveness"
-    excerpt: "An international research collaboration, involving scientists from the UK, US and Spain, has shed new light on the usefulness of digital contact tracing (DCT) to control the spread of COVID-19."
-    publishedDateTime: 2021-01-26T17:41:00Z
-    webUrl: "https://medicalxpress.com/news/2021-01-real-world-evidence-covid-contact-app.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-01-real-world-evidence-covid-contact-app.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-01-real-world-evidence-covid-contact-app.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 36
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/2-app.jpg"
-        width: 2880
-        height: 1920
         isCached: true
   - title: "Integrating deep learning CT-scan model, biological and clinical variables to predict severity of COVID-19 patients"
     excerpt: "The SARS-COV-2 pandemic has put pressure on intensive care units, so that predicting severe deterioration early is a priority. Here, the authors develop a multimodal severity score including clinical and imaging features that has significantly improved prognostic performance in two validation datasets compared to previous scores."

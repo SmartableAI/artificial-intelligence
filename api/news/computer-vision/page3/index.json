@@ -2,6 +2,41 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-11-infiniq-to-enter-global-market-by-establishing-european-sales-headquarters-and-participating-in-ces-2021.md",
+      "title": "INFINIQ to Enter Global Market by Establishing European Sales Headquarters and Participating in CES 2021",
+      "excerpt": "This platform provides automatic object recognition algorithms and annotation tools that can be effectively utilized by companies that need to build a dataset for autonomous driving. These ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210111005450/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20210111005450/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-11T03:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2021-01-11-facial-recognition-technology-can-expose-political-orientation-from-naturalistic-facial-images.md",
       "title": "Facial recognition technology can expose political orientation from naturalistic facial images",
       "excerpt": "Ubiquitous facial recognition technology can expose individuals’ political orientation, as faces of liberals and conservatives consistently differ. A facial recognition algorithm was applied to ...",
@@ -1356,49 +1391,6 @@
         "Computer Vision",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-01-02-could-the-ancient-greeks-really-not-see-blue.md",
-      "title": "Could the Ancient Greeks really not see blue?",
-      "excerpt": "Blue seems to be all around us, we see it in the sky and we see it in the ocean - but the word blue was missing from our lexicon until relatively recently. Professor Jules Davidoff has been researching colour recognition for many decades,",
-      "sourceUrl": null,
-      "webUrl": "https://www.rnz.co.nz/national/programmes/the-weekend/audio/2018779012/could-the-ancient-greeks-really-not-see-blue",
-      "originalUrl": "https://www.rnz.co.nz/national/programmes/the-weekend/audio/2018779012/could-the-ancient-greeks-really-not-see-blue",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rnz.co.nz/assets/news_crops/115781/eight_col_greek_ruins.jpg?1609540664",
-          "width": 720,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-02T02:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "rnz",
-        "domain": "rnz.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],
