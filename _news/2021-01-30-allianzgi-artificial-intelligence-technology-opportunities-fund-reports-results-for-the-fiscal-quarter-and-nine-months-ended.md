@@ -27,22 +27,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "AllianzGI Announces Adjournment of Special Meeting of Shareholders for AllianzGI Artificial Intelligence & Technology Opportunities Fund (NYSE: AIO)"
-    excerpt: "Allianz Global Investors U.S. LLC (“AllianzGI U.S.”), investment manager to AllianzGI Artificial Intelligence & Technology Opportunities Fund (NYSE: AIO) (the “Fund”), announced today that the Special Meeting of Shareholders (the “Meeting”) scheduled for January 26,"
-    publishedDateTime: 2021-01-27T00:51:00Z
-    webUrl: "https://apnews.com/article/technology-business-north-america-covid-19-pandemic-lung-disease-46d0231ab1204e068eb45d895b902931"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 13
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-
 secured: "W3DNeH3csCf4eKuX7OpyzqMJROOVyoXopC38rNEvD+cvlhVhWs8I/mbg2Y0tFzJnws9JAhss9nV0Y5vT1L2XuXJN7SlDE42S97DA7nYRfhppAL4kRhgasrzN3TdqDt/2o/Y0jPe+NQqceHxb0RYRw10JfShgDnfZ3pr1FTBVETMtm4pp0CeEM+wAk/BWH2gBmat/6nqmH9jwQt6pY9jw9cFVJx7EG54qBFLqC6ilrb6TPM1lEI2Q9r9Jj1WESI0J1VdrCU9Hy8XHL1EX9rh7ZwT/z3LXgdLOJrITa6og/Cu2Qdh2On+GmQKh4BqFhVkccWiWjIh4QFu1l/IlvjeaRDbkGE5LE0xZBhc/LUtcoyg=;/41a/8r3f/tSQtpfjPcvFg=="
 ---
 

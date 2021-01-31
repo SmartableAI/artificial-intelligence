@@ -6,9 +6,6 @@ publishedDateTime: 2021-01-27T00:00:00Z
 originalUrl: "https://www.prnewswire.com/news-releases/flex-logix-pairs-its-inferx-x1-ai-inference-accelerator-with-the-high-bandwidth-winbond-4gb-lpddr4x-chip-to-set-a-new-benchmark-in-edge-ai-performance-301215697.html"
 webUrl: "https://www.prnewswire.com/news-releases/flex-logix-pairs-its-inferx-x1-ai-inference-accelerator-with-the-high-bandwidth-winbond-4gb-lpddr4x-chip-to-set-a-new-benchmark-in-edge-ai-performance-301215697.html"
 type: article
-quality: 14
-heat: -1
-published: false
 
 provider:
   name: PR Newswire
@@ -24,22 +21,6 @@ images:
     height: 1414
     isCached: true
 
-related:
-  - title: "Flex Logix pairs InferX X1 inference accelerator with high-bandwidth Winbond 4Gb LPDDR4X to set new benchmark in edge AI"
-    excerpt: "Winbond Electronics Corporation, a leading global supplier of semiconductor memory solutions, has revealed that its low-power, high-performance LPDDR4X DRAM technology is supporting the latest breakthrough in edge computing from Flex Logix for demanding artificial intelligence (AI) applications such as object recognition."
-    publishedDateTime: 2021-01-27T02:22:00Z
-    webUrl: "https://www.digitimes.com/news/a20210126PR202.html&chid=9"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 16
-    images:
-      - url: "https://www.digitimes.com/newsshow/20210126PR202_files/2_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
-
-secured: "tGVm4opAB4oCpKVBfPaf88Dh9JwUOyt/lMf5QQc95nHR+ComICtmxa26++1XqgvaY+OF7feQM3NkE3bXZTzPqVwt72XpAKcfvBzuG1LTBrDGzNB+s1BH4wWDGPPStm+of3+zt8ef49yCYdPuULo359wp2blJyDSPtEkfMEJJPVzZOkLY00o7DP/eT+cwCPH73ZVmRS2GUE8zMiWgqCq+QJS+LfMJWjMO4lRDXMNS+dulF56vAN2XUrhXZV2UYdgH4wyvUCwhJC6uroA1DRmotajYo0mGyRkFHMpccjiJdzYF5tNP9ZmkETKxu+MScCZgy1Zv/cxGVXCF1OA9sNQYH1r6L5mzZ9KQkzZBPAC7tio=;Vj0K///6QGJATAqJX5Puzw=="
+secured: "dV4wdmcQgfeN/5E9Xbpm3S0dXWdkaOAQndCL0OCYOPuFkTolVJjJZ5fe9F6Cg1tML/+Z9QTbTR7s1bLgR0I8YKdQ071w6vWmP3EEFlfnVl5i/LaKFMs2TGPneJC7ec1O18L6H5dSKGbE9xDkHCWzhgR2wI/puA2j4QCBvcW3b49tRS3+a0u6ORt+A3XMLNN7alh/iTrjPgl8qbQDo6RYb9BD57O3hNywvzmNHPnx1BVpUaVBEbb8SkYXdE1tanbSXy2XSQpsjM4W/yU4N2Kk5xmyifz9/pc7E8GyZr8CkaXVdUCtDKX1PruO2epfyI6CqG8kIm3vSDm+/bf867Bz5f3bBi98v7fkqxCiu4wDHJA=;B0SCgopshf5LUkekxAux4A=="
 ---
 

@@ -2,26 +2,27 @@
 category: news
 title: "Colby College to start artificial-intelligence institute"
 excerpt: "A Maine college is working to establish an institute for artificial intelligence that it said would be the first of its kind at a liberal arts college. The Davis Institute for Artificial Intelligence will “provide new pathways for talented students and faculty to research,"
-publishedDateTime: 2021-01-29T15:32:00Z
-originalUrl: "https://bangordailynews.com/2021/01/29/news/central-maine/colby-college-to-start-artificial-intelligence-institute/"
-webUrl: "https://bangordailynews.com/2021/01/29/news/central-maine/colby-college-to-start-artificial-intelligence-institute/"
+publishedDateTime: 2021-01-29T08:47:00Z
+originalUrl: "https://www.chron.com/news/article/Maine-college-to-create-first-of-its-kind-AI-15908016.php"
+webUrl: "https://www.chron.com/news/article/Maine-college-to-create-first-of-its-kind-AI-15908016.php"
+ampWebUrl: "https://www.chron.com/news/amp/Maine-college-to-create-first-of-its-kind-AI-15908016.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Maine-college-to-create-first-of-its-kind-AI-15908016.php"
 type: article
-quality: 24
-heat: -1
+quality: 42
+heat: 42
 published: false
 
 provider:
-  name: Bangor Daily News
-  domain: bangordailynews.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
-  - Facebook AI
   - AI
 
 images:
-  - url: "https://i2.wp.com/bdn-data.s3.amazonaws.com/uploads/2020/10/Colby-020819-H-LCO.jpg?fit=2500%2C1681&#038;ssl=1"
-    width: 2500
-    height: 1681
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -65,6 +66,6 @@ related:
         height: 450
         isCached: true
 
-secured: "ubRjT/yPFhVNdyNWI7cqDOdqrvpVUX15LxoeWIAnD3VIz0PSLZcjFkuEsPDpL0ra4Fa24P1cyCiUjlta2sEnRfybFmIyeisrINz7+xtVFlgY6ccTZR09BVE5y8Cy/lcnHxm7UDGNN/ZfKKIBkUKhkD5xqiqDUOP1rvCBuUcsZOz6ZgBDCL9sB4ch0NmzPUPVmCubnS+VVjWOrPeY/b5dAYRMoHZYd5R2zPg3GFaf9FrVCYe3Lb+zU2ryM92yXCn80+MoqmHhhzrSKN8tRZVgzVibhdw7FDDGZiQ+6qafxTQBF0kGDhuC74Okb4FzC8X8SfQQ1eGyGLWGIEZ+YTQJ0H+iwEUbm+Fn/XC2LNYz1VppzMxeW6Gos7njaLD7QJuKukSk0Rev7TWhRw6n4MEGygc2fE5QkYUHpSCPJlSGiOPzQeIyRH0BkHZoPJirWp6kVPG/SisYxSjD+xh4jZ2JtcIDv2GEkW9I6XhDhh9uywLJ5gGJ9Y8IQpsugnmtGGJf3fu094XikglfvfnYlCqbeg==;fEkdjteSazGE0I/WOdXcVw=="
+secured: "aoOsS/gzUcBLfVKFBnFvs3vpiqOxXqyns3N9JZFZiCXtre+1FcO9zv1FokG5SZGcGb9L8xmxEeN9woHs7dqIPsScwm8mgHVivPyib5V7DxJ9pMaLrVtipoKF7yFQjAoM883Mv6lK8GhMt9lku2ErxwLC5jneKTeI9/JOLE9l5XTGq5UvIe8NmXLMCLT3Da3QdrPo6QeGwFrebe+D8qfpngpxJs50Kkr9ZsiQZgrL08pn2BL9fXb1z1MIlFr0zci1A7JGYhvJrDPX9Lm0tFYitHlRfTrDtylY9g0VqX6DTClMd4mZFf3pe5PpPz5dQTvs8cmzUe4QMgYPMeIsRHL7WvR2kNbjPE8AbJckGl5+H7M=;lUOpP3StMZkO0ZCAZUmsRg=="
 ---
 

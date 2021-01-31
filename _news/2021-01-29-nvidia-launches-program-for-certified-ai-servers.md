@@ -43,22 +43,6 @@ related:
         width: 636
         height: 358
         isCached: true
-  - title: "Nvidia launches certification program for AI platforms"
-    excerpt: "Nvidia today launched a formal certification program for systems based on graphical processor units (GPUs) deployed in on-premises IT environments by its OEM partners. The Nvidia-Certified Systems initiative comes at a time when AI models are starting to be both trained and deployed at the network edge rather than trained only in the cloud."
-    publishedDateTime: 2021-01-27T01:00:00Z
-    webUrl: "https://venturebeat.com/2021/01/26/nvidia-launches-certification-program-for-ai-platforms/"
-    ampWebUrl: "https://venturebeat.com/2021/01/26/nvidia-launches-certification-program-for-ai-platforms/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/26/nvidia-launches-certification-program-for-ai-platforms/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/01/NVIDIA-Certified-Press-Graphic.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "NVIDIA Expands vGPU Software to Accelerate Workstations, AI Compute Workloads"
     excerpt: "Designers, engineers, researchers, creative professionals all need the flexibility to run complex workflows – no matter where they’re"
     publishedDateTime: 2021-01-28T16:05:00Z

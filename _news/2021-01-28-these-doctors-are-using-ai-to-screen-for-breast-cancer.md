@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/doctors-using-ai-screen-breast-cancer/am
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/doctors-using-ai-screen-breast-cancer/amp"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Using AI To Humanize Your Brand In 2021"
-    excerpt: "While 2021 offers the promise of a fresh start in many ways, the lessons of the recent past cannot be ignored."
-    publishedDateTime: 2021-01-28T13:20:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/01/28/using-ai-to-humanize-your-brand-in-2021/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/01/28/using-ai-to-humanize-your-brand-in-2021/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/01/28/using-ai-to-humanize-your-brand-in-2021/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601192cf859255b72531e304%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Using artificial intelligence to predict which women will develop breast cancer"
     excerpt: "A team of researchers with members from institutions in the U.S., Sweden and Taiwan has developed an artificial intelligence system for predicting breast cancer years before tumors appear. In their paper published in the journal Science Translational Medicine,"
     publishedDateTime: 2021-01-28T15:20:00Z

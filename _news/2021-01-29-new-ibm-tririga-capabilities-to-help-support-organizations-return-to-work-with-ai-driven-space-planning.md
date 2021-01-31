@@ -26,19 +26,14 @@ topics:
 
 related:
   - title: "New IBM TRIRIGA Capabilities to Help Support Organizations' Return to Work with AI-Driven Space Planning"
-    excerpt: "\"IBM and Esri have had a long-standing, successful partnership integrating IBM's analytics and AI solutions with ... also an important component of IBM Watson Works, a set of solutions designed ..."
-    publishedDateTime: 2021-01-28T14:03:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/new-ibm-tririga-capabilities-to-help-support-organizations-return-to-work-with-ai-driven-space-planning-301216821.html"
+    excerpt: "In a recent IBM Institute for Business Value study, 59% of executives surveyed said the pandemic had accelerated their organizations' digital transformation. IBM worked closely with IBM technology partners Cisco and Esri,"
+    publishedDateTime: 2021-01-28T14:00:00Z
+    webUrl: "https://www.nasdaq.com/press-release/new-ibm-tririga-capabilities-to-help-support-organizations-return-to-work-with-ai"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 22
-    images:
-      - url: "https://mma.prnewswire.com/media/1428401/Indoor_Maps.jpg?p=facebook"
-        width: 1513
-        height: 792
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 32
 
 secured: "4VBvSLz2xpf0k8BZ80fsq6shq9H++yEG80vooRkSIVQ5W/0qh3TU8uyq1LyEAFAM28QifpfMdC7x5q7zdKdUOLH+YCOOMC8wUonFDp4oo9mK+JcM0JOFTXAUH0koOM2dqqmWFwmg/Nem6cs8iLlsR0YI4U5xcgXOroCDWrtrQYb1j3/59KIAYs8R8BiZMaHy6VU+I0wRN5PAV6qspgL1IkZovjzW2f8x2weWJwgkW7r9sVzS9HSBQE0NMM3/OLw2NH1XM1nSvmgeiGAKSp4OZbD/xX8FrPpEEFkyhKcwUMkHoj0t1aIadT1hVAgkGw52/JdVTXQ5IVWnn1/2iQpDSPpjY3NWnZAKTtX7Fo4f2uc=;MqAurdduyHN9U9ukiAZvZQ=="
 ---

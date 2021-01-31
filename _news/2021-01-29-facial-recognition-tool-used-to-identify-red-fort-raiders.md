@@ -54,17 +54,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 64
-  - title: "Capitol riot boosts facial recognition app"
-    excerpt: "A facial recognition app saw a large increase in use the day after rioters stormed the U.S. Capitol building in Washington, D.C. Source by: Stringr"
-    publishedDateTime: 2021-01-26T23:11:00Z
-    webUrl: "https://theeagle.com/news/national/capitol-riot-boosts-facial-recognition-app/video_13e00cf2-ba46-5b5b-9d05-a0a11246bcc6.html"
-    ampWebUrl: "https://theeagle.com/news/national/capitol-riot-boosts-facial-recognition-app/video_13e00cf2-ba46-5b5b-9d05-a0a11246bcc6.amp.html"
-    cdnAmpWebUrl: "https://theeagle-com.cdn.ampproject.org/c/s/theeagle.com/news/national/capitol-riot-boosts-facial-recognition-app/video_13e00cf2-ba46-5b5b-9d05-a0a11246bcc6.amp.html"
+  - title: "Here’s a way to find out if facial recognition systems used your photos"
+    excerpt: "Here's a way to find out if facial recognition systems used your photos When tech companies created the facial recognition systems that"
+    publishedDateTime: 2021-01-31T16:54:00Z
+    webUrl: "https://www.compsmag.com/news/technology/heres-a-way-to-find-out-if-facial-recognition-systems-used-your-photos/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/heres-a-way-to-find-out-if-facial-recognition-systems-used-your-photos/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/heres-a-way-to-find-out-if-facial-recognition-systems-used-your-photos/amp/"
     type: article
     provider:
-      name: The Eagle
-      domain: theeagle.com
-    quality: 39
+      name: Windows
+      domain: compsmag.com
+    quality: 61
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/Heres-a-way-to-find-out-if-facial-recognition-systems.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Indian police use facial recognition in search for farmer protesters"
     excerpt: "Indian police are using facial recognition technology to identify suspects in a crackdown on farmers who over-ran parts of New Delhi, while leaders of the months-long protest movement struggle to contain rifts within their ranks."
     publishedDateTime: 2021-01-28T07:00:00Z

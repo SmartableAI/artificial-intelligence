@@ -42,22 +42,6 @@ related:
         width: 2400
         height: 1573
         isCached: true
-  - title: "Using AI To Humanize Your Brand In 2021"
-    excerpt: "While 2021 offers the promise of a fresh start in many ways, the lessons of the recent past cannot be ignored."
-    publishedDateTime: 2021-01-28T13:20:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/01/28/using-ai-to-humanize-your-brand-in-2021/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/01/28/using-ai-to-humanize-your-brand-in-2021/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/01/28/using-ai-to-humanize-your-brand-in-2021/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601192cf859255b72531e304%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Wake Radiology practice adds artificial intelligence in fight against breast cancer"
     excerpt: "One in five cases of breast cancer is missed by radiologists. Can Artificial Intelligence improve that percentage and save lives? A Triangle radiology firm believes so, and it is adding AI to the firm"
     publishedDateTime: 2021-01-27T13:03:00Z

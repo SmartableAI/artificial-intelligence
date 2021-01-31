@@ -30,65 +30,49 @@ images:
     isCached: true
 
 related:
-  - title: "These Doctors Are Using AI to Screen for Breast Cancer"
-    excerpt: "“That’s 100 cancers that we haven’t diagnosed,” she says. Lehman says the AI approach has helped identify a number of women who, when persuaded to come in for routine screening, turn out to have early signs of cancer. The women flagged by the ..."
-    publishedDateTime: 2021-01-27T19:04:00Z
-    webUrl: "https://www.wired.com/story/doctors-using-ai-screen-breast-cancer/"
-    ampWebUrl: "https://www.wired.com/story/doctors-using-ai-screen-breast-cancer/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/doctors-using-ai-screen-breast-cancer/amp"
+  - title: "Here’s where AI will advance in 2021"
+    excerpt: "Advances in Transformer structures and GNNs will likely spur advances in domains that haven’t yet opened up to AI techniques and algorithms."
+    publishedDateTime: 2021-01-31T16:46:00Z
+    webUrl: "https://venturebeat.com/2021/01/31/heres-where-ai-will-advance-in-2021/"
+    ampWebUrl: "https://venturebeat.com/2021/01/31/heres-where-ai-will-advance-in-2021/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/31/heres-where-ai-will-advance-in-2021/amp/"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 87
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://media.wired.com/photos/6010c0d5cca15af79ead7926/master/pass/Business-MIT-Mirai.jpg"
-        width: 2400
-        height: 1573
+      - url: "https://venturebeat.com/wp-content/uploads/2021/01/AI-eye.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Using artificial intelligence to predict which women will develop breast cancer"
-    excerpt: "A team of researchers with members from institutions in the U.S., Sweden and Taiwan has developed an artificial intelligence system for predicting breast cancer years before tumors appear. In their paper published in the journal Science Translational Medicine,"
-    publishedDateTime: 2021-01-28T15:20:00Z
-    webUrl: "https://medicalxpress.com/news/2021-01-artificial-intelligence-women-breast-cancer.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-01-artificial-intelligence-women-breast-cancer.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-01-artificial-intelligence-women-breast-cancer.amp"
+  - title: "Global Artificial Intelligence (Ai) In Insurance Market Trend: Here's How High The Market Will Go In 2021"
+    excerpt: "Global Artificial Intelligence (AI) in Insurance Market 2021: By Type: (Software, Platform); By End Use Industry: (Life Insurance, Car Insurance, Property Insurance); By Leading Players: (Google, Microsoft Corporation,"
+    publishedDateTime: 2021-01-29T09:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-insurance-market-trend-heres-how-high-the-market-will-go-in-2021-2021-01-29"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 53
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2015/6-breastcancer.jpg"
-        width: 1280
-        height: 1024
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Wake Radiology practice adds artificial intelligence in fight against breast cancer"
-    excerpt: "One in five cases of breast cancer is missed by radiologists. Can Artificial Intelligence improve that percentage and save lives? A Triangle radiology firm believes so, and it is adding AI to the firm"
-    publishedDateTime: 2021-01-27T13:03:00Z
-    webUrl: "https://www.wraltechwire.com/2021/01/26/wake-radiology-practice-adds-artificial-intelligence-in-fight-against-breast-cancer/"
+  - title: "Artificial intelligence funding in 2021 will boost substantial growth."
+    excerpt: "With growing interest in emerging technologies, AI startups are seeing a rapid surge in funding and investment alike. Here’s the list of top artificial intelligence funding in January 2021."
+    publishedDateTime: 2021-01-27T09:06:00Z
+    webUrl: "https://www.analyticsinsight.net/top-artificial-intelligence-funding-in-january-2021/"
     type: article
     provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 48
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 37
     images:
-      - url: "https://www.wraltechwire.com/wp-content/uploads/2021/01/breast-cancer-3d-e1611678275762-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Wake Radiology practice adds artificial intelligence in fight against breast cancer"
-    excerpt: "One in five cases of breast cancer is missed by radiologists. Can Artificial Intelligence improve that percentage and save lives? A Triangle radiology firm believes so, and it is adding AI to the firm"
-    publishedDateTime: 2021-01-29T04:29:00Z
-    webUrl: "https://www.wraltechwire.com/2021/01/26/wake-radiology-firm-adds-artificial-intelligence-in-fight-against-breast-cancer/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 48
-    images:
-      - url: "https://www.wraltechwire.com/wp-content/uploads/2021/01/breast-cancer-3d-e1611678275762-1024x576.jpg"
-        width: 1024
-        height: 576
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/Top-Artificial-Intelligence-Funding-in-January-2021.jpg"
+        width: 900
+        height: 500
         isCached: true
 
 secured: "XGqfBSSRc2r9jp0/BuezZIaZYexfptl2HOXXhoLQREyZNscnWflerdtqgbVo42XDlvO/wgsOf1wiuucQt/C+O/IyRIJZRaEWDM+WxS4JIBHklj84/nKUyojZrA9EhXF5Pa21T05BcZNQvpOBjJN9QfDjIefHqvFVr83XJM/Ehhr5tS56ok+bTIJEwaQ18i9y0gdYNbjtQ5zXhgsz5eyWaFvyqg7xi/RhWoQro591Mey/V7908XF+0CKmBsHm0uizDxnvmnpxMqRMgfg9Cv5JmmXQGCiaXhuwXfpYNL/7+6954adKbymhDQHQsDRt8yhwnfVPnc41XERMEAXbbyNnMtsyAKC47e0w9e+XSNb3lL7zF1JU1sl64XORT+OLiBQQf5WGgEsndnWInHSOoUk8KfouKxT4XcwVx9QCzk7WNuLs2hq4APyGrWo4fIfPP8UvGmNCIFVgkcXLuo1KIF09zYTSNsPliujnGv7N8BH61fgfbq+oi2GNvuYhYq2rGXIJxnAjStbWh8WU37y5YSM1uw==;Fy+0z/Q7XtknpXu5M678Pw=="

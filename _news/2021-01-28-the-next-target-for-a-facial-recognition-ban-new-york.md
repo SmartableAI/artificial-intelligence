@@ -111,17 +111,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Global Campaign Urges Ban On Facial Recognition Technology"
-    excerpt: "A global campaign to ban facial recognition technology launched Tuesday. Critics say the technology creates privacy issues and can contribute to racial profiling; CBS2's Natalie Duddridge reports."
-    publishedDateTime: 2021-01-26T23:13:00Z
-    webUrl: "https://newyork.cbslocal.com/video/5234510-global-campaign-urges-ban-on-facial-recognition-technology/"
-    ampWebUrl: "https://newyork.cbslocal.com/video/5234510-global-campaign-urges-ban-on-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://newyork-cbslocal-com.cdn.ampproject.org/c/s/newyork.cbslocal.com/video/5234510-global-campaign-urges-ban-on-facial-recognition-technology/amp/"
-    type: article
-    provider:
-      name: CBS Local
-      domain: cbslocal.com
-    quality: 54
   - title: "The European Commission Doesn’t Allow Companies To Use Facial Recognition Freely"
     excerpt: "Recently, the European Commission stated that companies must not use facial recognition technology to judge employees. In recent years, facial recognition technology has become very"
     publishedDateTime: 2021-01-29T16:09:00Z
@@ -190,20 +179,6 @@ related:
       - url: "https://www.taipeitimes.com/assets/images/TaipeiTimesLogo-1200X1200px_new.jpg"
         width: 1200
         height: 1200
-        isCached: true
-  - title: "‘Ban the Scan’ - Groups call for city, state to outlaw facial recognition"
-    excerpt: "Nearly a dozen leaders and groups came together Tuesday to call on the city and state to ban government use of facial recognition technology scanning, saying that it negatively impacts people of color."
-    publishedDateTime: 2021-01-27T00:56:00Z
-    webUrl: "https://brooklyn.news12.com/ban-the-scan-groups-call-for-city-state-to-outlaw-facial-recognition"
-    type: article
-    provider:
-      name: News 12 New Jersey
-      domain: news12.com
-    quality: 38
-    images:
-      - url: "https://img.chdrstatic.com/media/9678d041-1c95-47ad-b9fe-9405bd80bd93.jpg?source=backend&crop=1200:675,smart&width=1200&height=675&auto=webp"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Calls to ban facial recognition technology over racism and protest impact"
     excerpt: "Facial recognition technology amplifies racist policing and threatens the right to protest, campaigners have warned as they launch a global campaign against its use. The new Ban the Scan campaign, launched by Amnesty International,"
