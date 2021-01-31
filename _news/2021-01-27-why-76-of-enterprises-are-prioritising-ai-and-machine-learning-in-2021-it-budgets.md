@@ -41,20 +41,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "76% Of Enterprises Prioritize AI & Machine Learning In 2021 IT Budgets"
-    excerpt: "Enterprises accelerated their adoption of AI and machine learning in 2020, concentrating on those initiatives that deliver revenue growth and cost reduction."
-    publishedDateTime: 2021-01-27T03:29:00Z
-    webUrl: "https://www.enterpriseirregulars.com/170814/76-of-enterprises-prioritize-ai-machine-learning-in-2021-it-budgets/"
-    type: article
-    provider:
-      name: Enterprise Irregulars
-      domain: enterpriseirregulars.com
-    quality: 56
-    images:
-      - url: "https://mk0enterpriseirdbne0.kinstacdn.com/wp-content/uploads/2021/01/76-Of-Enterprises-Prioritize-AI-Machine-Learning-In-2021-IT-Budgets-image-600x338.jpg"
-        width: 600
-        height: 338
-        isCached: true
 
 secured: "cbEEC9NPFKGmxsiYfKQV76xq9xJyFzRsXqyqQxjvbP7uq+j0qM0TsjI0RLKiBpLXrwCPf1xhIf+gRksxrogY/lafEdNUBjx5DByrSaE4qL9gFZfyp6d26E9uZQmkvQaMLntrB3FWKz6YDgGfR4Y0JBV3gC0Hw1mUcapLYgDLC82vtcKNKJ5/1SKgU7quPpSeFMfLoU8BOO9yaZj1sjurXtullljVkRSZ3qO3xouunQ/AMoSeubr2EowFcs3w4wr9G2JVK3JSuUTsxacShzDLn+8hgy6d+agE7Dg4DjXCegDL27lFdAAenOVamJHlU6GnVGEMcie73Yh8mslcMy9e3vRl8FUxwH3DnPgYzHxDMcY3CFtatm69NqCqgEClGP2LMLfOcAgWzplfLhfmRI6MMzvpBGgGZiDGzqbTKXpietJFBaeBS9o5bWuYaY9jX2uaJEkrVWs9rZHXgGkYqx0/7il038ge/ADJ9CRQti9RVBDmoUdUqAYY4iHTKya2le6k+0JehSAiTKnFX2WnJYd9OA==;7RLAt0LmEKaKjP9PGM3VjQ=="
 ---

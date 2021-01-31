@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/31/forget-user-experience-ai-must-fo
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/31/forget-user-experience-ai-must-focus-on-citizen-experience/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     height: 611
     isCached: true
 
-secured: "gB7zTQmawUjDW1wEeMAiWOf4yvFzUwUn+ho0uTE0utqyTE7+IVGF6WDlOls/RtxIAYayeX+jQc/StX3HH/YlyI9mEQtJFx5/3D0wAh9a/HTp8PLqCHb6fh3f83f+XL3L02wE3i4jiUsLM6vii7fmxVpNEFg0WV9vbcfKC3HeiJ2JAsN5Z9Urdtcq0jkJt5EbsQRrPxxWyt43O2cCWnuVaSIGSJRq3838wDZ413M546PaCbsW0vgahSA6CjVOG16IJTHynEBg+0opBZeXMLF7DSUlBYq2fKjJGS9xf/rYRqep8jx6UEDJJF392NJM2xyDn0JGQzSkTjQMPBi+Gp2vW9F00uEKVEpVPm3X0AWwb4Q=;gkA20u45S6rnW3f1zBdr4A=="
+related:
+  - title: "Forget user experience. AI must focus on ‘citizen experience’ – Jaweb"
+    excerpt: "Neither are the current AI ethics boards changing the course of AI development on a larger scale fast enough. The most effective and sustainable impact on the field of AI will only be achieved by ensuring that the design and development of AI solutions is ..."
+    publishedDateTime: 2021-01-31T19:12:00Z
+    webUrl: "https://elmoudjaweb.com/forget-user-experience-ai-must-focus-on-citizen-experience-jaweb/"
+    ampWebUrl: "https://elmoudjaweb.com/forget-user-experience-ai-must-focus-on-citizen-experience-jaweb/?amp"
+    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/forget-user-experience-ai-must-focus-on-citizen-experience-jaweb/?amp"
+    type: article
+    provider:
+      name: Elmoudjaweb
+      domain: elmoudjaweb.com
+    quality: 59
+    images:
+      - url: "https://elmoudjaweb.com/wp-content/uploads/2021/01/Forget-user-experience.-AI-must-focus-on-‘citizen-experience-–.jpg"
+        width: 1200
+        height: 611
+        isCached: true
+
+secured: "xOKcoMXGCUXDeEO7oa65OepozIMwF2RjtAfRpLhQ7UsqCWFpOuQKUYEj3IjG6tEjh0pDGjFoB8kiPCHyHTfw0PmMWe+kmO2wT0YNZbvCpAxNPeaPcwZ4XyrSPnwsKSTWJkakhmFKXDdoic4vfuTM1QsOVZB42uIRbOQnCiFtWO7KwmEkNIsjX4KeTCLW8vkO/yCGkg3TtKOwXf+LZx3MADIovFQAKGj6WwRJKDgtaWfJWwPbOKxK075Nu1i+GsgwM4hHlx+iRr8iAASbLxlLpzz+g5KLT+esPqd+gRRM/tQ+/WmxS/hZvFoMJlAantd631HZR/UJ+KKBOEOYwfOzL65nNzpb7TMF3WoGzJDRQA9hhdKjrWohWtwagdSX+ay6x47ogd1fRLTtArj7NeQu2WVOS7+oBfMRstfbTGsj13HsWWtgYpmK8PGeNCcDxbASJKb+BvUud21GoUmQjjH4EVLWqd/x0yf97C7W6fNK/ZypHLAMuErB55wkx1AdEHueleDpHwKu7rz95K3Dxl71zA==;Q/KtOAKR/U2/5u8WACp5vg=="
 ---
 

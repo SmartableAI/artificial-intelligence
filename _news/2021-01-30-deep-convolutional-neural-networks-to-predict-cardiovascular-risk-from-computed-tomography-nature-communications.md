@@ -43,6 +43,20 @@ related:
         isCached: true
   - title: "Deep convolutional neural networks to predict cardiovascular risk from computed tomography"
     excerpt: "Coronary artery calcium is an accurate predictor of cardiovascular events but this information is not routinely quantified. Here the authors show a robust and time-efficient deep learning system to automatically quantify coronary calcium on CT scans and predict cardiovascular events in a large,"
+    publishedDateTime: 2021-01-29T00:00:00Z
+    webUrl: "https://www.nature.com/articles/s41467-021-20966-2?code=a58cc095-5fcc-4e77-8915-d06e2f192c44&error=cookies_not_supported"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 14
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-021-20966-2/MediaObjects/41467_2021_20966_Fig1_HTML.png"
+        width: 685
+        height: 468
+        isCached: true
+  - title: "Deep convolutional neural networks to predict cardiovascular risk from computed tomography"
+    excerpt: "Coronary artery calcium is an accurate predictor of cardiovascular events but this information is not routinely quantified. Here the authors show a robust and time-efficient deep learning system to automatically quantify coronary calcium on CT scans and predict cardiovascular events in a large,"
     publishedDateTime: 2021-01-29T16:03:00Z
     webUrl: "https://www.nature.com/articles/s41467-021-20966-2"
     type: article

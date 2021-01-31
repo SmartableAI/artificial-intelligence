@@ -29,31 +29,34 @@ images:
     isCached: true
 
 related:
-  - title: "Global Natural Language Processing (NLP) Market 2020 Report Presents Complete Summary, Marketplace Shares and Growth Opportunities by 2025"
-    excerpt: "Global Natural Language Processing (NLP) Market 2020 by Company, Regions, Type and Application, Forecast to 2025 has recently been added by MarketsandResearch.biz to its extensive database, where you will find informative data on various dynamics such as market factors,"
-    publishedDateTime: 2021-01-28T08:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-market-2020-report-presents-complete-summary-marketplace-shares-and-growth-opportunities-by-2025-2021-01-27"
+  - title: "Robotics Market 2021 Analysis By Size & Share, Future Demands, Trends Evaluation, Business Growth Strategies and Forecast to 2024"
+    excerpt: "Robotics Market Research Report - Global Forecast till 2024 Global Robotics Market Research Report: by type (SCARA, Cartesian, Articulated, Cylindrical, Parallel), by Mobility (Mobile Robotics and Fixed Robotics),"
+    publishedDateTime: 2021-01-27T13:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/robotics-market-2021-analysis-by-size-share-future-demands-trends-evaluation-business-growth-strategies-and-forecast-to-2024-2021-01-27"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 50
+    quality: 55
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Text-to-Speech Market worth $5.0 billion by 2026 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "According to the new market research report \"Text-to-Speech Market with COVID-19 Impact by Offering (Software, Services), Vertical (Enterprise, Consumer Electronics, Education, Retail), Deployment, Language,"
-    publishedDateTime: 2021-01-28T18:31:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/text-to-speech-market-worth-5-0-billion-by-2026-exclusive-report-by-marketsandmarkets-1030015164"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/text-to-speech-market-worth-5-0-billion-by-2026-exclusive-report-by-marketsandmarkets-1030015164"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/text-to-speech-market-worth-5-0-billion-by-2026-exclusive-report-by-marketsandmarkets-1030015164"
+  - title: "Artificial intelligence (AI) hardware Market Growth Analysis By Revenue, Size, Share, Scenario on Latest Trends & Types, Applications to Forecast"
+    excerpt: "Artificial intelligence (AI) hardware Market Report Contain Size Analysis, Competitive Landscape, Revenue Status, Future Opportunities, Regional Analysis (Latin America, North America, Asia Specific,"
+    publishedDateTime: 2021-01-29T13:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-growth-analysis-by-revenue-size-share-scenario-on-latest-trends-types-applications-to-forecast-2021-01-29"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence Market 2020 Segmentation, Statistics, Top Manufacturers, Regional Analysis and Forecast to 2025"
     excerpt: "The recently distributed report entitled Global Artificial Intelligence Market 2020 by Company, Regions, Type and Application, Forecast to 2025 is well crafted using a combo of significant data related to the market."
     publishedDateTime: 2021-01-28T08:07:00Z
@@ -68,59 +71,62 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global $6+ Billion CAR-T Therapy Market Opportunities and Strategies to 2030 - ResearchAndMarkets.com"
-    excerpt: "T Therapy Global Market Opportunities and Strategies to 2030: COVID-19 Impact and Recovery” report has been added to ResearchAndMarkets.com’s offering. The global CAR-T therapy market reached a value of nearly $734."
-    publishedDateTime: 2021-01-29T15:06:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/business-technology-diagnosis-and-treatment-coronavirus-pandemic-artificial-intelligence-fc225c37e2364a9d9bd00fbd0f464403"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Speech and Voice Recognition Market Size, Trends, Comprehensive Research Study, Development Status and Opportunities Forecast to 2026"
-    excerpt: "The overall speech and voice recognition market is expected to grow from USD 6.9 Billion in 2018 to USD 28.3 Billion"
-    publishedDateTime: 2021-01-28T10:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-trends-comprehensive-research-study-development-status-and-opportunities-forecast-to-2026-2021-01-28"
+  - title: "Natural Language Processing Market Research Update, Size Estimation, Future Scope, Revenue Opportunities and Regional Forecast to 2026"
+    excerpt: "The overall natural language processing market is expected to grow from USD 8.61 Billion in 2018 to USD 80.68 Billion"
+    publishedDateTime: 2021-01-29T06:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-research-update-size-estimation-future-scope-revenue-opportunities-and-regional-forecast-to-2026-2021-01-28"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 23
+    quality: 37
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Text-to-Speech Market worth $5.0 billion by 2026 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "According to the new market research report \"Text-to-Speech Market with COVID-19 Impact by Offering (Software, Services), Vertical"
-    publishedDateTime: 2021-01-28T13:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/text-to-speech-market-worth-5-0-billion-by-2026--exclusive-report-by-marketsandmarkets-301216956.html"
+  - title: "Artificial Intelligence Market 2021-2026 to Post a CAGR of %, Segmentation by Key Regions, Gross Margin, Profit, Analysis, Market Size & Growth"
+    excerpt: "The research study on the Artificial Intelligence market comprises a detailed analysis of this business space and the remuneration that it is estimated to accrue by the end of the projected duration."
+    publishedDateTime: 2021-01-28T10:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2021-2026-to-post-a-cagr-of-segmentation-by-key-regions-gross-margin-profit-analysis-market-size-growth-2021-01-28"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 15
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
     images:
-      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=publish&p=facebook"
-        width: 669
-        height: 229
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Artificial Intelligence In Diagnostics Market Research Report by Component, by Type - Global Forecast to 2025 - Cumulative Impact of COVID-19"
-    excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence In Diagnostics Market Research Report by"
-    publishedDateTime: 2021-01-29T10:49:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19388407/artificial-intelligence-in-diagnostics-market-research-report-by-component-by-type-global-forecast"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19388407"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19388407"
+  - title: "Machine Learning as a Service Market Size 2021 with Regional Opportunities, Share, Trends, New Product Launches, Consumption Demand Forecast to 2024"
+    excerpt: "Machine Learning as a Service Market Study 2017-2024 by Deployment Type ( Public Cloud, Private Cloud), By End-Use Application (Manufacturing, Retail, Healthcare & Life Sciences, BFSI, Travel & Hospitality,"
+    publishedDateTime: 2021-01-27T10:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-size-2021-with-regional-opportunities-share-trends-new-product-launches-consumption-demand-forecast-to-2024-2021-01-27"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 4
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Big Data Technology Market Latest Industry Size, Share, Emerging Trends, Future Demands, Revenue and Forecasts Research Report"
+    excerpt: "The global big data technology market is set to experience an impressive growth trajectory owing to the rising"
+    publishedDateTime: 2021-01-29T06:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/big-data-technology-market-latest-industry-size-share-emerging-trends-future-demands-revenue-and-forecasts-research-report-2021-01-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "j3OIVFASBfCwXb2s95oo1SGUV418VnrvH7mh7f3W0dVg/hL5oahe8cF7QiN7qUu9Phr1BLCtX6yPxiigQvP8MTgRKSqxQ8KwW3S0/L8y2SbkRVJiBvWtnvczlA+OI8UvfVbFYOR8PLOcH9PthmjDrliTHBWx6n99oh2hXxhKhAmSvu9LxcYe2CZ9ZZmV+DW01wYT+s6riX3gDZ674S3v08iWDvKfoDCzO9yOUs6IzM5obO0iqS/e5m0UWukD8SC0X+PlPJol1hGq1eWqSXOo8keIPnXekqARtGZd7YA5nZuK1oag9UPhhCfvkn9RDk72HnAMOox+FvroBG0DPCP5Yl7vPVutshkAEk5G7bxTVrY=;DUQpKQomZGXSss89J3/KoA=="
 ---

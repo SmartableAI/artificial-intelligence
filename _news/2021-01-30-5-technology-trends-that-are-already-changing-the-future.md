@@ -26,22 +26,6 @@ images:
     height: 840
     isCached: true
 
-related:
-  - title: "Big Data Technology Market Latest Industry Size, Share, Emerging Trends, Future Demands, Revenue and Forecasts Research Report"
-    excerpt: "The global big data technology market is set to experience an impressive growth trajectory owing to the rising"
-    publishedDateTime: 2021-01-29T06:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/big-data-technology-market-latest-industry-size-share-emerging-trends-future-demands-revenue-and-forecasts-research-report-2021-01-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-
 secured: "ku2S46QrOZVzwpjmqJqS+MdxdQpedIKNmvfnv4C8jOyTjfM6qF3AEEE2inm+azG8OghSM2m26tSHTOC3wyJUtOL/RtnEojG8rQo48n6NmhfPjN80135eJxln+Iyc/RAtik8FFoFoHNOM767ALgSsMlwTtDoHZhW1SYH9+ndnd+Qo8bsZ6Gvxy3mjIBK28OaztuqhqsBS7U3/j6L/pCtJucz65j4oHDbwEKJ8sTavpLwQUUnkf4EhUC0wh6/Wgm9IAL/X22fMSPtrnu92Zm5ytVUBhplrGpBX3QCZHoKP3paPXj9ccAAke13e30E8EdKJJ2qyWHMOG7MP5Rp+AKlQK3A10SxFVQNnasmzD/8wLgXKbdB8wmzSXDDWdTCk53KXxKl2awsqePoNwBHE8rCFmIjpec+AvF2B3+nr82P0QYg7u7b3BV9S2erhZ/LH3fEutar85ktkvh2UZg9/uNezSehqzcPFFI5j8I7G740PGsMD3yuL4LMCINLGM9jaAiuWdB6touYTiZZDxnJSPQDYfQ==;WtZOJPSDQk0T74rACvr4tw=="
 ---
 

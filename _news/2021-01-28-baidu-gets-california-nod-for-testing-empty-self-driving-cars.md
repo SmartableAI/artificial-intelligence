@@ -89,6 +89,22 @@ related:
         width: 829
         height: 545
         isCached: true
+  - title: "SoftBank's Son expects mass production of driverless cars in two years"
+    excerpt: "Son, who made his name for investing early in startups such as China’s Alibaba Group had said he will continue to take stakes in public companies he thinks are frontrunners in the artificial ..."
+    publishedDateTime: 2021-01-29T16:08:00Z
+    webUrl: "https://www.reuters.com/article/us-davos-meeting-son-autonomous-idUSKBN29Y279"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Y279"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Y279"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210129&t=2&i=1549571164&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0S194"
+        width: 829
+        height: 545
+        isCached: true
   - title: "Baidu gets California nod for testing driverless vehicles"
     excerpt: "Baidu Inc has received a permit from the state of California to test driverless vehicles without a backup driver in the front seat, the state’s Department of Motor Vehicles said on Wednesday. (Reporting by Munsif Vengattil in Bengaluru;"
     publishedDateTime: 2021-01-27T20:23:00Z
@@ -121,17 +137,6 @@ related:
         width: 1024
         height: 640
         isCached: true
-  - title: "SoftBank's Son expects mass production of driverless cars in two years"
-    excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since Free subscriber-exclusive audiobook! “No Rules Rules: Netflix and the Culture of Reinvention ..."
-    publishedDateTime: 2021-01-29T16:38:00Z
-    webUrl: "https://www.businessinsider.com/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
   - title: "Baidu Apollo receives driverless vehicle test permit in California"
     excerpt: "Baidu Apollo has now been approved by the California Department of Motor Vehicles (DMV) to test driverless vehicles without a safety driver behind the wheel on public streets. This makes Baidu the"
     publishedDateTime: 2021-01-28T13:25:00Z
@@ -233,6 +238,6 @@ related:
         height: 300
         isCached: true
 
-secured: "AzQql5cisFmV7toLCoB+VKf2WSJgU9wK765wA298vYP13ybFUH2UQMA6YmGrUh6ePPCRWAyTq84HHG03YlNTPUMJOAxwPxdA3J9+YJV0MVoxisUvGO37mAR+fcxInEAxeCVivnA1DlSDvyHe0aYb73p/yBtSMq/UlLF8250HGkf3U94bhyqBCmCNky2d0pCBsWr4gAG66VnN6V+I3iD5XKxgtwPGy8N+tYQX3I0t10QduQuib38eILGSg0hbza9iSdk2FF4RARSnOLBbcTDTWAwFxwKUew9uH0TczegtUk+GgEV7IChHooajzG4zuxh1ZJsiHZl6NqNkVsG8+LyyNA3QrSEHYWImE5uppsrkDJni8mnkVzL0TCReFOt9XF1VhTon2CMkQaSQBQKoY73rDUo35ivHxCJeoxwI+3ozd4SVjVUbaPfkjHNucg2jLgZP9sKE2bHvIX/7Z6Za6k67HJclupoWgPQ3jhMfZoo2yuisRJ/i+/a4VVQ2BW0xZCxc+3Nm36m+YIk2eTZVyJRywg==;jXFjo8YdKmVx3OaOuasuMQ=="
+secured: "jdZBXWO4t/o4DbRgODVtcIHeYBy4cZa9mP5Qdqm0p1bYbximLRQHWyQkseWWyRzt6HjWjvCy+7QUXEY8HoFDdAi420470KbY8eCLdJXVGN0ebtjDcHOQJvEzLv8vgEtLxw1oPU1lIW8XmFhMJkFd35erGpfX8mSWANTiOV5ZQc0uIQyTsNooaOctYq6UbRA2zIUs6mEzLZ2OsjpC1Ncgmq79TWu5DOm15cep+bMXe8OwtZu3Gy3m54SsnmD3lGEOxjF4sxggiECWjJXzypSstNdI0UUNSyI9SIv9b1acP/UUA28kpdFigVP2qQMVhPwfnA8giLeThd89TFelb7fWglQeNjXDoO8KlJsmr7gqYEMMJEq2GP4IgvSjCnpih5kr1ALicymUhNhjdg2GKvuX2rF0rZDKI1gedj3+yp3nEHEhOwp3lqwHHXxnCnuO+m3JXh0sViP6tPryd/W+XTEucyw0Wr76YGm+FS/iAzCwkSlpHOsch9t3XhHnGF3hZxLFTMNva/kxCpbXyQycOszI7Q==;Cam/AT4qRAI0kgqOMJdi/Q=="
 ---
 

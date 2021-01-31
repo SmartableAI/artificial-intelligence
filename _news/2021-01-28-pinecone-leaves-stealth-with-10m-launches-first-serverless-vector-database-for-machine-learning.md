@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Pinecone leaves stealth with $10M, launches first serverless vector database for machine learning"
-excerpt: "PineconeSystems Inc., a machine learning (ML) cloud infrastructure company, left stealth today with $10m in seed funding. The investment"
-publishedDateTime: 2021-01-27T20:00:00Z
-originalUrl: "https://www.prnewswire.com/il/news-releases/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-301216240.html"
-webUrl: "https://www.prnewswire.com/il/news-releases/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-301216240.html"
+excerpt: "Built by the team behind Amazon SageMaker and founded by scientist and former AWS Director Edo Liberty, Pinecone makes large-scale real-time inference as simple as querying a database. It is ..."
+publishedDateTime: 2021-01-28T04:50:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-301216240.html"
+webUrl: "https://www.prnewswire.com/news-releases/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-301216240.html"
 type: article
 quality: 28
 heat: -1
@@ -15,9 +15,9 @@ provider:
   domain: prnewswire.com
 
 topics:
-  - Machine Learning
-  - AI
   - AWS AI
+  - AI
+  - Machine Learning
 
 images:
   - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
@@ -109,6 +109,6 @@ related:
       domain: benzinga.com
     quality: 28
 
-secured: "mraBkVGvAvbE5hFBiHMGn6EZMNoPP8lmbjoGnl6TSrcql0fu38KG9hmSRZaGXNa4LQ3v2N1hInLhNgQRyXGHyLtz1X1iOC3p0iO4FhNExPiGtnvJllppV3BjlGeU238DFDcvEhLzD2NpO2/sedFftb8RyWtUcOpiQbicvbof11hiH5Cm1/NHRsuFbEe+zBQtBUbff42jCdKlGnulHvoUHBoqxUmUxRMN1Ptado2lnJvsZdR4h+W8P1oWpZRRuE5YEBHVH6tnaLtaof9DjpXmKfbxmAKKMQdI5I+BVytpQJrnPItwY8LDkwVlOb36e+6M1YxfBRv4UVzyyyS4gq2/+7nu0ngEo0jsYZ6DtuNubN4=;yP8gugfN0c/DpwNGqkAt/A=="
+secured: "feVjVOsRULQANVzhVRf23Bwn8zbXEJcQx/6aadLtWp8DKeEJa9xoBPPbtENlySkhrKnNJrrXJt6keGb462AkWHqhVsQFqaCW8exACorXTwb8g7C48ZepySjoCEwa/ixQkVppyb5ovxb5zFd0yc6WIt0DK/jY7rGBaFOBcewqL+pupwkvDDSTCunDyhrU95LikfsKKptz1irwWUdyjsqw7F3j7gxzQYtYr0Cg5ZgFM9XGOmw/8eB+x1fjKE0HyXKsFgm7l0TRq+iXUanBcSRw+l92iltA4hqMPG/ZJzTguuiEltJ7X+i/rnVMt7Ra+wzINpuQSbSlhkAGRtw2PIyTLXaVmdJkBJyL0ErhybkP7GU=;bLUNezdJydPTU4ODFRI7uA=="
 ---
 

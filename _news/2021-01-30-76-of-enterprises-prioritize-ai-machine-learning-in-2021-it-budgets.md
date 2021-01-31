@@ -9,7 +9,7 @@ ampWebUrl: "https://www.business2community.com/business-innovation/76-of-enterpr
 cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-innovation/76-of-enterprises-prioritize-ai-machine-learning-in-2021-it-budgets-02382460/amp"
 type: article
 quality: 76
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "76% Of Enterprises Prioritize AI & Machine Learning In 2021 IT Budgets"
-    excerpt: "Enterprises accelerated their adoption of AI and machine learning in 2020, concentrating on those initiatives that deliver revenue growth and cost reduction."
-    publishedDateTime: 2021-01-27T03:29:00Z
-    webUrl: "https://www.enterpriseirregulars.com/170814/76-of-enterprises-prioritize-ai-machine-learning-in-2021-it-budgets/"
-    type: article
-    provider:
-      name: Enterprise Irregulars
-      domain: enterpriseirregulars.com
-    quality: 56
-    images:
-      - url: "https://mk0enterpriseirdbne0.kinstacdn.com/wp-content/uploads/2021/01/76-Of-Enterprises-Prioritize-AI-Machine-Learning-In-2021-IT-Budgets-image-600x338.jpg"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Why 76% of enterprises are prioritising AI and machine learning in 2021 IT budgets"
     excerpt: "AI and ML initiatives matter “more than we thought,” with one in four saying AI and ML should have been top priority sooner."
     publishedDateTime: 2021-01-27T11:11:00Z
