@@ -3,8 +3,8 @@ category: news
 title: "Artificial Intelligence (AI) Delivers for CloudCommerce"
 excerpt: "Our clients are reaping the benefit of our real-world application of artificial intelligence. Our goal is to continue to work toward potentially reducing the costs of advertising by as much as 50%.” The Company is developing SWARM into a cloud hosted software platform that will harness the power of artificial intelligence,"
 publishedDateTime: 2021-01-26T08:26:00Z
-originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-marketing-and-advertising-corporate-news-marketing-campaigns-66fd70c577a5eeeb50e3990141edbed3"
-webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-marketing-and-advertising-corporate-news-marketing-campaigns-66fd70c577a5eeeb50e3990141edbed3"
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-marketing-and-advertising-corporate-news-marketing-campaigns-66fd70c577a5eeeb50e3990141edbed3"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-marketing-and-advertising-corporate-news-marketing-campaigns-66fd70c577a5eeeb50e3990141edbed3"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 450
     isCached: true
 
-secured: "pN+TjPaMbY1cSuS7zuHEFm7W6Z3Ppf+wBt0fjf23yVot/ew9YRJs3m6w8m15rlBK7exaALbMq404tORk7GgD+cErF0od9QptRdGIwGDzvl14Dp3vse2dPGTm/K7pK1fUtSAurisvDVlxQlnx9ZUtiupxEDKxh7raMRN4IiZMwi7WX5KzrjcCwPv4BMhYtnKmhvgx2OP0GgVxQYI15dJCVyvNyQBJnXzOWZXRV8fbjC3p0CzzRX2X++Aeha76MstqvTHJAXVDVfhItX+TiDU7iC6CyifkxKktjHgZpUjl5bMsQ+q1lyBGtkUrihA3/wANFuYjLe1ny2lI2pmJMJUsQad9Er2ew1gUM+KVo3VW0js=;bUmm3kBxTYwNPGqPQ4PBWQ=="
+secured: "QREh5IbrG0oge6mssU34k1wxc6Wdvyny/bAKYjQKuYAgyFKaLYj78ZXUZEa/D+mmeD3/EaM6nrWqn8aym3r9zp/osI+2xAf0RVGnRTkUR+khQzya+vLbawOZeVJ3rWdGDZk2n6XtJZWmF1G+WJYfiO+w1OnBnfiih8Q64ttqsmoe68xTISBM0ZWEJ/DklxNUrM6gMr38hbzC+XVra5cqyccxwFfnhoomhqDR/MIDSQlZRaGoT2L2yoybj9fJfNVIa8x+XcL52Fw9DuFxhIjurl1UAmgBFLfXUeORwDiga5y3zjlaJqVGI4HOuIvvSoEeYSsMZDSCVLuP4U7McuZuvOD0x1XBB1B07a4qQQ/rIg0=;bV4Ix0ky98tE61JHvBzSTA=="
 ---
 

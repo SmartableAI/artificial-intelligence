@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/elon-musk-full-self-driving-tes
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/elon-musk-full-self-driving-tesla-earnings-call/"
 type: article
 quality: 79
-heat: 99
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNET
@@ -31,37 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Don't Fall for Elon Musk's Self-Driving Car Fallacy"
-    excerpt: "The Tesla CEO continues to overestimate the long-term profit potential of Tesla's self-driving car technology."
-    publishedDateTime: 2021-01-31T16:38:00Z
-    webUrl: "https://www.fool.com/investing/2021/01/31/dont-fall-for-elon-musks-self-driving-car-fallacy/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2021/01/31/dont-fall-for-elon-musks-self-driving-car-fallacy/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/01/31/dont-fall-for-elon-musks-self-driving-car-fallacy/"
+  - title: "Next Tesla Full Self Driving Chip Will Use 5 Nanometer Lithography"
+    excerpt: "Tesla will work with Samsung to develop a 5nm-class semiconductor for the HW4 version of the Tesla Full Self Driving Chip. Samsung is supplying 14nm chips to Tesla for the HW3 version of FSD. The in-v"
+    publishedDateTime: 2021-01-31T22:32:00Z
+    webUrl: "https://www.nextbigfuture.com/2021/01/next-tesla-full-self-driving-chip-will-use-5-nanometer-lithography.html"
+    ampWebUrl: "https://www.nextbigfuture.com/2021/01/next-tesla-full-self-driving-chip-will-use-5-nanometer-lithography.html?amp"
+    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/01/next-tesla-full-self-driving-chip-will-use-5-nanometer-lithography.html?amp"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 74
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 91
     images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F610624%2Findustrials-autos-tesla-model-3-tsla.JPG&w=1200&op=resize"
-        width: 1200
-        height: 601
+      - url: "https://www.nextbigfuture.com/wp-content/uploads/2019/12/fsdchip-1024x512.jpeg"
+        width: 1024
+        height: 512
         isCached: true
-  - title: "Video: Tesla Full Self-Driving Vehicle On Manhattan Beach Streets"
-    excerpt: "From Downtown Manhattan Beach up Manhattan Beach Boulevard and on to Torrance, this video of a Tesla FSD in traffic is amazing to watch."
-    publishedDateTime: 2021-01-30T23:58:00Z
-    webUrl: "https://patch.com/california/manhattanbeach/video-tesla-full-self-driving-vehicle-manhattan-beach-streets"
-    ampWebUrl: "https://patch.com/california/manhattanbeach/amp/29235702/video-tesla-full-self-driving-vehicle-on-manhattan-beach-streets"
-    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/california/manhattanbeach/amp/29235702/video-tesla-full-self-driving-vehicle-on-manhattan-beach-streets"
+  - title: "Tesla Reports First Yearly Profit, Musk Again Promises Full Self-Driving"
+    excerpt: "It's worth noting that the company missed the same FSD target in 2019 and 2020, but Tesla continues to work toward getting self-driving technology on the market."
+    publishedDateTime: 2021-01-28T02:04:00Z
+    webUrl: "https://www.caranddriver.com/news/a35341920/tesla-fourth-quarter-fsd-cybertruck-vans/"
+    ampWebUrl: "https://www.caranddriver.com/news/amp35341920/tesla-fourth-quarter-fsd-cybertruck-vans/"
+    cdnAmpWebUrl: "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp35341920/tesla-fourth-quarter-fsd-cybertruck-vans/"
     type: article
     provider:
-      name: Patch
-      domain: patch.com
-    quality: 59
+      name: Car and Driver
+      domain: caranddriver.com
+    quality: 73
     images:
-      - url: "https://patch.com/img/cdn20/users/73774/20210130/015123/styles/patch_image/public/model-s-001___30135051820.jpg?width=984"
-        width: 984
-        height: 738
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/an-aerial-view-of-the-tesla-fremont-factory-on-may-13-2020-news-photo-1611794951.?crop=1xw:0.74963xh;center,top&resize=1200:*"
+        width: 1024
+        height: 512
         isCached: true
 
 secured: "kfzH+tP2xWga+801EGE9JH0b0lWNSMsFntcpQtbXtzC21jf36HYpJJshordQ8v+6ev0jk2TaJC40rA1FykTIX+fS+dglrY03oC5gNgwHspcQ6tUuO263uqyKi+bbGJaLrWCnrmPsyTPrSKYE8IuI9oE3XYBAfLAtFfZAgpsMnCkl7uJslxWvrvAGtHvHzUt67xPtY7NAwYgPX2ko6SAEeG3TJAYT6be6B+DfBTILrKqlL3RLNzvfPtFe51W4IYJxz1gVvJmbIMEXHUgt2jihOL5ZVd7tqYMC0kORRDCGpJ1JTmIr6+N9LRuIpG+JSafzHOIaNttjyp9VGAFHdu/KLr17iTauNvpQlFnms/LizWY=;4yHOu7gZ5PGGCQmCEu/y6A=="

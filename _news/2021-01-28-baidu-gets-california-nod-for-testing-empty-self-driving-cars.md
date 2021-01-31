@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Baidu Gets California Nod for Testing Empty Self-Driving Cars"
-excerpt: "Baidu Inc has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor Vehicles said on Wednesday. Although self-driving vehicles are designed to eliminate the need for a driver,"
-publishedDateTime: 2021-01-28T09:25:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2021-01-27/baidu-gets-california-nod-for-testing-driverless-vehicles"
-webUrl: "https://www.usnews.com/news/technology/articles/2021-01-27/baidu-gets-california-nod-for-testing-driverless-vehicles"
-ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-01-27/baidu-gets-california-nod-for-testing-driverless-vehicles?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-01-27/baidu-gets-california-nod-for-testing-driverless-vehicles?context=amp"
+title: "Baidu gets California nod for testing empty self-driving cars"
+excerpt: "Baidu Inc has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor Vehicles said on Wednesday."
+publishedDateTime: 2021-01-28T02:37:00Z
+originalUrl: "https://www.reuters.com/article/us-baidu-autonomous-idUSKBN29W2OT"
+webUrl: "https://www.reuters.com/article/us-baidu-autonomous-idUSKBN29W2OT"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29W2OT"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29W2OT"
 type: article
-quality: 69
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210127&t=2&i=1549286737&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0Q1KU"
+    width: 817
+    height: 545
+    isCached: true
 
 related:
   - title: "Baidu is the sixth company approved to test fully driverless cars in California"
@@ -79,22 +85,6 @@ related:
     webUrl: "https://www.reuters.com/article/davos-meeting-son-autonomous/softbanks-son-expects-mass-production-of-driverless-cars-in-2-years-idUSL1N2K41Y9"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2K41Y9"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2K41Y9"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210129&t=2&i=1549571164&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0S194"
-        width: 829
-        height: 545
-        isCached: true
-  - title: "SoftBank's Son expects mass production of driverless cars in two years"
-    excerpt: "Son, who made his name for investing early in startups such as China’s Alibaba Group had said he will continue to take stakes in public companies he thinks are frontrunners in the artificial ..."
-    publishedDateTime: 2021-01-29T16:08:00Z
-    webUrl: "https://www.reuters.com/article/us-davos-meeting-son-autonomous-idUSKBN29Y279"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Y279"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Y279"
     type: article
     provider:
       name: Reuters
@@ -209,6 +199,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "SoftBank's Son expects mass production of driverless cars in two years"
+    excerpt: "Son, who made his name for investing early in startups such as China's Alibaba Group had said he will continue to take stakes in public companies he thinks are frontrunners in the artificial ..."
+    publishedDateTime: 2021-01-30T11:15:00Z
+    webUrl: "https://www.theguardian.pe.ca/business/reuters/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years-546670/"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.pe.ca
+    quality: 39
+    images:
+      - url: "https://www.theguardian.pe.ca/media/photologue/photos/cache/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years_medium"
+        width: 458
+        height: 305
+        isCached: true
   - title: "SoftBank’s Son expects mass production of driverless cars in two years"
     excerpt: "SoftBank Group Corp chief executive Masayoshi Son said on Friday he expects mass production of self-driving vehicles to start in two years."
     publishedDateTime: 2021-01-31T13:38:00Z
@@ -238,6 +242,6 @@ related:
         height: 300
         isCached: true
 
-secured: "jdZBXWO4t/o4DbRgODVtcIHeYBy4cZa9mP5Qdqm0p1bYbximLRQHWyQkseWWyRzt6HjWjvCy+7QUXEY8HoFDdAi420470KbY8eCLdJXVGN0ebtjDcHOQJvEzLv8vgEtLxw1oPU1lIW8XmFhMJkFd35erGpfX8mSWANTiOV5ZQc0uIQyTsNooaOctYq6UbRA2zIUs6mEzLZ2OsjpC1Ncgmq79TWu5DOm15cep+bMXe8OwtZu3Gy3m54SsnmD3lGEOxjF4sxggiECWjJXzypSstNdI0UUNSyI9SIv9b1acP/UUA28kpdFigVP2qQMVhPwfnA8giLeThd89TFelb7fWglQeNjXDoO8KlJsmr7gqYEMMJEq2GP4IgvSjCnpih5kr1ALicymUhNhjdg2GKvuX2rF0rZDKI1gedj3+yp3nEHEhOwp3lqwHHXxnCnuO+m3JXh0sViP6tPryd/W+XTEucyw0Wr76YGm+FS/iAzCwkSlpHOsch9t3XhHnGF3hZxLFTMNva/kxCpbXyQycOszI7Q==;Cam/AT4qRAI0kgqOMJdi/Q=="
+secured: "4aSeC7hWYQqZIYW2GUEHsIIgTY4XsBIojDXUI6N5NvqusTbyppSH+xWZ5fxAwsumOy4MXKSAlQPEj1cT/cyYhtnPedAtU6reiKey52GakjycBmrf6sQycC01dOKstDL1+RCUjSHnPNp1J5JyYer+nCBUONge537dEJeIVURNWR/CpUyJnNtm0k5uo407FNYGoBEAEgiGO+2FmgNl6YEKLmCmL/x8tvcTzrKhEPE11sRJVXHP4YFcgrAFdT8YzzUdgnA3klRnY2raw9ay5ARoanvtWT6w92LA5VgrDxy/Mamj+dhk2ILyJEdj9pyxjo1HsONy+MaTto7NnQbWxFZo86UgCmOwXydnFPdN9jqfuR8=;gmbC00qd5FEgPUmz/zeifg=="
 ---
 

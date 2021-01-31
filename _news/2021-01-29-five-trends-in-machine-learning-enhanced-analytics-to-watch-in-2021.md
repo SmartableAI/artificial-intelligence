@@ -7,7 +7,7 @@ originalUrl: "https://www.information-age.com/five-trends-machine-learning-enhan
 webUrl: "https://www.information-age.com/five-trends-machine-learning-enhanced-analytics-watch-2021-123493559/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI and ML in intelligent analytics can drive the efficiency in business"
-    excerpt: "The role of AI and ML in intelligent analytics is quite fruitful as it quickens the data transformation process. Artificial intelligence and ML frameworks exist that utilize analytics data to assist businesses with foreseeing results and effective blueprints."
-    publishedDateTime: 2021-01-27T06:44:00Z
-    webUrl: "https://www.analyticsinsight.net/the-role-of-artificial-intelligence-and-ml-in-intelligent-analytics/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 56
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/Intelligent-Analysis.jpg"
-        width: 900
-        height: 500
-        isCached: true
   - title: "Startup Employs Video Analytics and AI for Streamlined Aircraft Turnarounds"
     excerpt: "Aircraft turnaround processes may soon become streamlined thanks to a combination of video analytics and artificial intelligence (AI). Swiss startup Assaia has partnered with airport solutions provider ADB SAFEGATE to pair its ApronAI image recognition technology with ADB’s SafeControl"
     publishedDateTime: 2021-01-28T00:00:00Z

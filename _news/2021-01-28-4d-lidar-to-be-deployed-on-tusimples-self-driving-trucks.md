@@ -7,7 +7,7 @@ originalUrl: "https://insights.globalspec.com/article/15861/4d-lidar-to-be-deplo
 webUrl: "https://insights.globalspec.com/article/15861/4d-lidar-to-be-deployed-on-tusimple-s-self-driving-trucks"
 type: article
 quality: 4
-heat: -1
+heat: 4
 published: false
 
 provider:
@@ -17,19 +17,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "Aeva to supply lidar sensors to self-driving truck firm TuSimple"
-    excerpt: "Aeva Inc, a firm founded by former Apple Inc engineers to supply a key self-driving car sensor, said on Tuesday it had reached a deal to supply the sensors for self-driving heavy duty trucks being developed by TuSimple."
-    publishedDateTime: 2021-01-27T06:47:00Z
-    webUrl: "https://cn.reuters.com/article/aeva-tusimple-idCNL1N2K102G"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idCNL1N2K102G"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL1N2K102G"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
 
 secured: "gj1oQscmdDqLm5W+Pxy1AJuaje6194YbAD0TLI0z7gWVgIM5cuUMCvAVJ+scuYEg8rjO/+XTdVaENPjESMpAysDeDcqElWYsgNg8EXfFpPiJ1pmAp7CmRgRjJVShBd4x0ACXLWNiRleZAr5QwQpBVgpRziGUSag56JeNInS0oRsBA7EkLXjcup4aeH3Rn0WeufO8nvcUdlLYxs7sCqYRATenUFfjIAhmFviTs3LwwufbNsPLB5C0jIQ13dOX9hhhI2sAow3HgF5m5SSbSjq8dbolpVZJkG2W/RoPeUKuqoRmpG3C8WPD32yIUnM2dnJFcxBl8qHhay8bLHYtHKdd3Y81vhWf59oaEQ0XKoaZ7Swspk73fKm33E2bMacYVk9EJlrPTDZ8330Mcfz0KsHEIIfOIIanO6PI2Tgk5M9fPMEfSzFAbk5oRNoISPfFuSsMshrPmU6VGJb4NUnQbWe+CaZLaed+ZEbiryEb8dDNeVjMIlrCnCuGj4XhMTV/cPiHVob7ycsRr4/Tsfes0cklXg==;m2cVJ+rgedW/ubTIB0SIvQ=="
 ---

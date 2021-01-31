@@ -7,7 +7,7 @@ originalUrl: "https://www.ibtimes.com/singapore-launches-new-self-driving-bus-tr
 webUrl: "https://www.ibtimes.com/singapore-launches-new-self-driving-bus-trial-3132465"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Singapore launches new self-driving bus trial"
+    excerpt: "SINGAPORE: Singapore has moved a step closer to a driverless public transport network with the launch of a new"
+    publishedDateTime: 2021-01-31T22:53:00Z
+    webUrl: "https://www.brecorder.com/news/40058281"
+    ampWebUrl: "https://www.brecorder.com/news/amp/40058281"
+    cdnAmpWebUrl: "https://www-brecorder-com.cdn.ampproject.org/c/s/www.brecorder.com/news/amp/40058281"
+    type: article
+    provider:
+      name: Business Recorder
+      domain: brecorder.com
+    quality: 44
+    images:
+      - url: "https://i.brecorder.com/large/2021/01/6017284ed462c.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "S’pore launches self-driving bus trial"
     excerpt: "Singapore has moved a step closer to a driverless public transport network with the launch of a new trial of self-driving buses."
     publishedDateTime: 2021-01-28T18:27:00Z

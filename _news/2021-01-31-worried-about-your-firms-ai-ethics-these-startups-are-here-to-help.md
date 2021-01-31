@@ -6,8 +6,8 @@ publishedDateTime: 2021-01-31T15:58:00Z
 originalUrl: "https://www.predictiveanalyticsworld.com/machinelearningtimes/worried-about-your-firms-ai-ethics-these-startups-are-here-to-help/11942/"
 webUrl: "https://www.predictiveanalyticsworld.com/machinelearningtimes/worried-about-your-firms-ai-ethics-these-startups-are-here-to-help/11942/"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI Ethics
+  - Natural Language Processing
 
 images:
   - url: "https://www.predictiveanalyticsworld.com/machinelearningtimes/wp-content/uploads/2020/10/MSDS_270x270_LM.gif"

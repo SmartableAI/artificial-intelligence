@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/automotive/xpeng-p7-self-driving/?amp=true"
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/xpeng-p7-self-driving/?amp=true"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2019/10/Tesla-Autopilot-hero-4-e1570845324247.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Tesla Reports First Yearly Profit, Musk Again Promises Full Self-Driving"
-    excerpt: "It's worth noting that the company missed the same FSD target in 2019 and 2020, but Tesla continues to work toward getting self-driving technology on the market."
-    publishedDateTime: 2021-01-28T02:04:00Z
-    webUrl: "https://www.caranddriver.com/news/a35341920/tesla-fourth-quarter-fsd-cybertruck-vans/"
-    ampWebUrl: "https://www.caranddriver.com/news/amp35341920/tesla-fourth-quarter-fsd-cybertruck-vans/"
-    cdnAmpWebUrl: "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp35341920/tesla-fourth-quarter-fsd-cybertruck-vans/"
-    type: article
-    provider:
-      name: Car and Driver
-      domain: caranddriver.com
-    quality: 73
-    images:
-      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/an-aerial-view-of-the-tesla-fremont-factory-on-may-13-2020-news-photo-1611794951.?crop=1xw:0.74963xh;center,top&resize=1200:*"
-        width: 1024
-        height: 512
         isCached: true
 
 secured: "AcpW2WS7hpi15ZyESqwcv0LnYdin+paUu/S8AMoL5btr5RqFXz6FHWcI04uPr0emlcud8EKo2ijF+XQ4IhJrMnh/WKjhoKloAhiI9FL9cV+/qvXvMcnFB/aYiQu7Mb9DxdHj8qwxXdob72bdy7td4fz5T25fKqS/GGWe5k5aILv81Xl+C03TPWViGQrzeeHto57Jd9AHQua+4TrH96G0kzqplayOYiDWr+6ysLs5aHF/5OqzSKZQcOlv7ElH8GsnO4PtvSLSGA21d+G8wSxhQKHi6KB24Ek03LDGtbJTGGPtTySRkjFfgUnxYqcpfE8ATa5aNCQerQGXXRVtT9YldIm3dJG7+Wfd2QCaEyZR6JseqQYHj51LLKtO3eQM3cW5Q19MCQbuQurCpx89wVQAb0qkrTg+3Gkbxm2QN3foAGeIkttK2dqhevuZIb7yX2oM2SFa89NggqNcb1bOqHIiZPI3eZg34FIZ7VSVmZsd/JPs1Zr2McSKP/IS4nE0NErxx7kbdlQ4wgD0qS2UxgyBzA==;7xnkR6vB0KZDys42qLD/uA=="

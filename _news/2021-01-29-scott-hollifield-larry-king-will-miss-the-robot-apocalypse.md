@@ -9,7 +9,7 @@ ampWebUrl: "https://mcdowellnews.com/opinion/columnists/scott-hollifield-larry-k
 cdnAmpWebUrl: "https://mcdowellnews-com.cdn.ampproject.org/c/s/mcdowellnews.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_e6b5924e-6184-11eb-bbc1-cb7da67dedb2.amp.html"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -73,6 +73,17 @@ related:
         width: 414
         height: 233
         isCached: true
+  - title: "Hollifield: Larry King will miss the Robot Apocalypse"
+    excerpt: "Today, our disparate subjects will be the literary genius of the late Larry King and the inevitable end of the world as we know it brought about by killer robots."
+    publishedDateTime: 2021-01-31T22:00:00Z
+    webUrl: "https://journalnow.com/news/local/hollifield-larry-king-will-miss-the-robot-apocalypse/article_53c2c810-628f-11eb-8bbe-3339ac48fd6c.html"
+    ampWebUrl: "https://journalnow.com/news/local/hollifield-larry-king-will-miss-the-robot-apocalypse/article_53c2c810-628f-11eb-8bbe-3339ac48fd6c.amp.html"
+    cdnAmpWebUrl: "https://journalnow-com.cdn.ampproject.org/c/s/journalnow.com/news/local/hollifield-larry-king-will-miss-the-robot-apocalypse/article_53c2c810-628f-11eb-8bbe-3339ac48fd6c.amp.html"
+    type: article
+    provider:
+      name: Winston-Salem Journal
+      domain: journalnow.com
+    quality: 39
 
 secured: "JkJQKSzlFItkaHWFbqBWgsb10+EbQ++sumzeZkEw6xCyhTC/Mi3LPWEPriyO5HOXFbsGrTaVsQIaI3U0+YzTKF+UhwRURZ9NhuHvW1iunIF2yqowpoBlRsUjO5jbxjsUpyKIK0eqsuHA8UzEm7A3V1tTcI05dzPmO+IFDTZdkLdyADG0okrEYtpuUpbPL3dwWG/3jbFIUdi/krMOM/mVQls1HO9l8uBtEl+soSdUaX9yxWHiEPf674Rp8kENDaZlE2hyib1ze8cLliWxo48gUdnFLVPd3AH1DvNPB1jz4lqKHG9TyAoe33lqwqioS6hjXUEjHW3nomnMwyCcGNXYJ33sSEJkADGnhptmfF4VfMQ=;LO+IkXH1IGNS1otMbomS0g=="
 ---

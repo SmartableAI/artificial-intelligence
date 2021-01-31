@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "Singapore launches new self-driving bus trial"
+    excerpt: "SINGAPORE: Singapore has moved a step closer to a driverless public transport network with the launch of a new"
+    publishedDateTime: 2021-01-31T22:53:00Z
+    webUrl: "https://www.brecorder.com/news/40058281"
+    ampWebUrl: "https://www.brecorder.com/news/amp/40058281"
+    cdnAmpWebUrl: "https://www-brecorder-com.cdn.ampproject.org/c/s/www.brecorder.com/news/amp/40058281"
+    type: article
+    provider:
+      name: Business Recorder
+      domain: brecorder.com
+    quality: 44
+    images:
+      - url: "https://i.brecorder.com/large/2021/01/6017284ed462c.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Singapore Launches New Self-driving Bus Trial"
     excerpt: "Singapore has moved a step closer to a driverless public transport network with the launch of a new trial of self-driving buses. Orderly and high-tech, the Asian city-state has become a testbed for self-driving vehicles and has developed home-grown technology while inviting foreign companies to trial their own."
     publishedDateTime: 2021-01-28T06:52:00Z

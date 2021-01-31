@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI and ML in intelligent analytics can drive the efficiency in business"
-    excerpt: "The role of AI and ML in intelligent analytics is quite fruitful as it quickens the data transformation process. Artificial intelligence and ML frameworks exist that utilize analytics data to assist businesses with foreseeing results and effective blueprints."
-    publishedDateTime: 2021-01-27T06:44:00Z
-    webUrl: "https://www.analyticsinsight.net/the-role-of-artificial-intelligence-and-ml-in-intelligent-analytics/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 56
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/Intelligent-Analysis.jpg"
-        width: 900
-        height: 500
-        isCached: true
   - title: "Five trends in machine learning-enhanced analytics to watch in 2021"
     excerpt: "AI usage is growing rapidly. What exactly does 2021 hold for the world of analytics, and how will AI drive it?"
     publishedDateTime: 2021-01-29T14:33:00Z

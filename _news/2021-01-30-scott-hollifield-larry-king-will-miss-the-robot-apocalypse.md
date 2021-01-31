@@ -73,6 +73,17 @@ related:
         width: 414
         height: 233
         isCached: true
+  - title: "Hollifield: Larry King will miss the Robot Apocalypse"
+    excerpt: "Today, our disparate subjects will be the literary genius of the late Larry King and the inevitable end of the world as we know it brought about by killer robots."
+    publishedDateTime: 2021-01-31T22:00:00Z
+    webUrl: "https://journalnow.com/news/local/hollifield-larry-king-will-miss-the-robot-apocalypse/article_53c2c810-628f-11eb-8bbe-3339ac48fd6c.html"
+    ampWebUrl: "https://journalnow.com/news/local/hollifield-larry-king-will-miss-the-robot-apocalypse/article_53c2c810-628f-11eb-8bbe-3339ac48fd6c.amp.html"
+    cdnAmpWebUrl: "https://journalnow-com.cdn.ampproject.org/c/s/journalnow.com/news/local/hollifield-larry-king-will-miss-the-robot-apocalypse/article_53c2c810-628f-11eb-8bbe-3339ac48fd6c.amp.html"
+    type: article
+    provider:
+      name: Winston-Salem Journal
+      domain: journalnow.com
+    quality: 39
 
 secured: "J1I+tUgzL2unnV35MdZG1OAQ7/5Glq6GLm1fE4/ncMinVCwS3G6QT2VJqaPjeW5A80hEPNgJCjL77d+ZqkH61pJnWtV8h6nfmr/V2YbLKuKfqwtT8w6fr/y+Vw73LP6wxGNbWjBjHeDnv4E6ZTUgpbTeNnbZ58ThyFXMsfybQ3fiGxHDoKIUOfp7pKha6JPpnUAShl7GkHFRgDsyAGG3KD/LY6/iVyzwmgZQt2hBGBrnlx1q3y9z/RZLShtEMs9OEv578hkI1Gz3/jAGh433E5JyB/qD9O7dOfwD7uYvZaCbcDggJ2pS5/Oql1udrWmYXDg1rNhn4qdMA2HUrhpzocYY4vxTt7WJDSAmGkSMUIE=;DQurEZGAeLD1Eq30wz0BsA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/01/28/scientists-develop-ai-power
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/28/scientists-develop-ai-powered-puff-technology-to-help-smokers-quit/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 796
     height: 417
     isCached: true
+
+related:
+  - title: "Technology And Human Rights Series: Human Rights Guidelines For Neurotechnology And AI"
+    excerpt: "On Friday, the Institute for the Study of Human Rights hosted “Neurorights: Human Rights Guidelines for Neurotechnology and Artificial Intelligence,” as part of their Technology and Human Rights Series."
+    publishedDateTime: 2021-01-31T21:07:00Z
+    webUrl: "https://bwog.com/2021/01/technology-and-human-rights-series-human-rights-guidelines-for-neurotechnology-and-ai/"
+    type: article
+    provider:
+      name: Bwog
+      domain: bwog.com
+    quality: 31
+    images:
+      - url: "https://bwog.com/wp-content/uploads/2021/01/Es6xKkyXAAoqjc8.jpeg"
+        width: 1024
+        height: 512
+        isCached: true
 
 secured: "ocCX94DHJbgIJ5GwqcEK7LlGWQKHY3BKLa0TIpMosn1vVqj2/9mddqN3cYScAGPScazh7pftqCv/R983iTNQDueaypdBIG2+D6sQW3w0Q0KOOQoTHxA+MZQH+1KA6cAW7knhFNpey7LGZcOzg06ffZQT/3aCeVxMPHz9p/9VG66GgiC8u1qv488j1r8KDu1BNO5XMD/W+nUvQnQJY6NAKAbjn9OX7AUL2hRFhei8CkumGH15rd6WpKzLmCnEE1wqDzFQ/QXa4/Z9RIN989AYrDllr8vSwSXF2p3L8qMmATmJ8fxwzMSL/dnyPJe13bLX2GyUeng7zzaCH0Osc9nT/vvAjK0oOgEGIyqPNq8Kv9P6vqule51bO8rbCmb7zBKj0GmYSHOUTlx9RVKESrG9aDwlLIlPak1S2MebcJZkd2guOFTuPJ0eIpKtd2WHyF01MSQDNBKuw7zxv1ElyDLzJnm5gtkrjzzMw8JDVZsmhFHtsSteSe4QUx4QH0XtOaDEonjW66FkbJUYumctDnJHAg==;9zdaIfc2uL/m7L2fM6paRA=="
 ---
