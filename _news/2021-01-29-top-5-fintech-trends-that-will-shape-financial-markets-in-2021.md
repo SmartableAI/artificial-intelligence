@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/362981"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/362981"
 type: article
 quality: 74
-heat: 174
+heat: 154
 published: true
 
 provider:
@@ -63,17 +63,6 @@ related:
         width: 620
         height: 414
         isCached: true
-  - title: "Holt, a Leading Global Fintech Program, Awards a Financial Grant to AI-driven Risk Intelligence Platform Agryo, with the Support of Scale AI"
-    excerpt: "Holt, a leading Global Fintech Program, has awarded a financial grant to Agryo, an AI-driven blockchain based risk intelligence platform, with support from Scale AI Acceleration program that helps Canadian accelerators and incubators fund startups to enhance their AI-based product and service offerings,"
-    publishedDateTime: 2021-01-26T16:04:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/holt-a-leading-global-fintech-program-awards-a-financial-grant-to-ai-driven-risk-intelligence-platform-agryo-with-the-support-of-scale-ai-1030005417"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/holt-a-leading-global-fintech-program-awards-a-financial-grant-to-ai-driven-risk-intelligence-platform-agryo-with-the-support-of-scale-ai-1030005417"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/holt-a-leading-global-fintech-program-awards-a-financial-grant-to-ai-driven-risk-intelligence-platform-agryo-with-the-support-of-scale-ai-1030005417"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
   - title: "Bringing wealth management to the masses via fintech"
     excerpt: "With the help of fintech, XSpot Wealth has been able to bring top-class wealth management services to the smaller investors that traditional banks and other investment operators ignore, and it is boom"
     publishedDateTime: 2021-01-28T15:01:00Z
@@ -141,20 +130,6 @@ related:
       name: India Times
       domain: indiatimes.com
     quality: 12
-  - title: "Holt, a Leading Global Fintech Program, Awards a Financial Grant to AI-driven Risk Intelligence Platform Agryo, with the Support of Scale AI"
-    excerpt: "Holt, a leading Global Fintech Program, has awarded a financial grant to Agryo, an AI-driven blockchain based risk intelligence platform,"
-    publishedDateTime: 2021-01-26T15:56:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/holt-a-leading-global-fintech-program-awards-a-financial-grant-to-ai-driven-risk-intelligence-platform-agryo-with-the-support-of-scale-ai-301215327.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 4
-    images:
-      - url: "https://mma.prnewswire.com/media/1427043/1.jpg?p=facebook"
-        width: 1279
-        height: 670
-        isCached: true
   - title: "Growth Model of Fintech Industry and Expectations in 2021"
     excerpt: "India is amongst the world’s fastest emerging markets for the Fintech sector. With China, India ranked at the highest in Fintech adoption rate globally. After the 2016 demonetization, the country"
     publishedDateTime: 2021-01-27T09:04:00Z

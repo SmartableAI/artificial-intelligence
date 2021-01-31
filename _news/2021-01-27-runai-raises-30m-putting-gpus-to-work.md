@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geektime.com/run-ai-raises-30m-putting-gpus-to-work/amp/
 cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/run-ai-raises-30m-putting-gpus-to-work/amp/"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1536
     height: 1024
     isCached: true
-
-related:
-  - title: "Deep learning virtualization startup Run:AI raises $30M in new round"
-    excerpt: "Artificial intelligence orchestration and virtualization software startup Run:AI Labs Ltd. said today it’s now in expansion mode after raising $30 million in a new round of funding. Insight Partners led the Series B round,"
-    publishedDateTime: 2021-01-26T15:11:00Z
-    webUrl: "https://siliconangle.com/2021/01/26/deep-learning-virtualization-startup-runai-raises-30m-series-b-round/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 56
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/RunAI-Platform.png"
-        width: 2110
-        height: 1184
-        isCached: true
 
 secured: "Ii8yIYITiolM9GIflnelWSZiqzqb2q9fCBAUitPtl9eW7p2kOuvc507G63hDwkHBl7f2vJMuptcCa75NICY8BfKD8tVod6fRd730UTMtFEtGn7obKk8dKKB1kc5enXAMUGyPZ1ojf4q5rEzzm4zb4HffgawAL1g0NhjxR2NhPucS+V6kEqnf69TTe3MyiEIiPWA5MYsgAfOf1GxkK+8FyFd7TApVBNyLUtnX3oS4GBLiD9JXtNNk1iiYb17h2BZvMDQg1RmKMFLdb4SjVDuRG0yKdd1PTlgJ/ouufJAQGIWzSwe47xfSbDpuBP2xO9ehkJNrG8OAY+bR+5Ds+MyGc375/GOMOAXwSSt09Uj/eOg=;9GCN76NnQKsrEawgcbdgoQ=="
 ---

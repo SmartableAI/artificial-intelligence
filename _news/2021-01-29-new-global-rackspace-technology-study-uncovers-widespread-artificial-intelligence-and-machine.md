@@ -3,8 +3,8 @@ category: news
 title: "New Global Rackspace Technology Study Uncovers Widespread Artificial Intelligence and Machine ..."
 excerpt: "Rackspace Technology™ (NASDAQ: RXT), a leading end-to-end, multicloud technology solutions company today announced the results of a global survey that reveals that the majority of organizations globally lack the internal resources to support critical artificial intelligence (AI) and machine learning (ML) initiatives."
 publishedDateTime: 2021-01-28T17:09:00Z
-originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-new-products-and-services-58e522140b27005e2132ba0042f5dea7"
-webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-new-products-and-services-58e522140b27005e2132ba0042f5dea7"
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-58e522140b27005e2132ba0042f5dea7"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-58e522140b27005e2132ba0042f5dea7"
 type: article
 quality: 26
 heat: -1
@@ -40,16 +40,16 @@ related:
         height: 630
         isCached: true
   - title: "New Global Rackspace Technology Study Uncovers Widespread Artificial Intelligence and Machine Learning Knowledge Gap"
-    excerpt: "Rackspace Technology™ (NASDAQ: RXT), a leading end-to-end, multicloud technology solutions company today announced the results of a global survey that reveals that the majority of organizations globally lack the internal resources to support critical artificial intelligence (AI) and machine learning (ML) initiatives."
-    publishedDateTime: 2021-01-28T16:08:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/new-global-rackspace-technology-study-uncovers-widespread-artificial-intelligence-and-machine-learning-knowledge-gap-1030016221"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/New-Global-Rackspace-Technology-Study-Uncovers-Widespread-Artificial-Intelligence-and-Machine-Learning-Knowledge-Gap-1030016221"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/New-Global-Rackspace-Technology-Study-Uncovers-Widespread-Artificial-Intelligence-and-Machine-Learning-Knowledge-Gap-1030016221"
+    excerpt: "Rackspace Technology™ (NASDAQ:RXT), a leading end-to-end, multicloud technology solutions company today announced"
+    publishedDateTime: 2021-01-28T16:05:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19373023/new-global-rackspace-technology-study-uncovers-widespread-artificial-intelligence-and-machine-lear"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19373023"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19373023"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 31
   - title: "New Global Rackspace Technology Study reveals widespread knowledge gap in artificial intelligence and machine learning Nasdaq: RXT"
     excerpt: "New Global Rackspace Technology Study reveals widespread knowledge gap in artificial intelligence and machine learning Nasdaq: RXT SAN"
     publishedDateTime: 2021-01-28T16:18:00Z
@@ -71,6 +71,6 @@ related:
       domain: finanznachrichten.de
     quality: 1
 
-secured: "HNOj5lpdzMdZGRD6/GTWBSHBRQPYgR+ZT96jFmelCPadT/JBiAIjjRzVKN5hpz3Tg7mHxRnh91pVDrF9AYTJoGeQ+jKcFt1dBHF1dqoh71wYr2LJQb9oZUgWwbRVwGGX+SSLRBC2c7nzUzAcEpavVDfre5yjAetIyDs66AhmnfLtrNhcJgK5Mg5Y0oo+t31J3R8g55P8BvpRpk7kJVL+P2aOAumBDG8gMBD+Qru44bCcWg5/IagzScsnj5RSzEcoJkyFYyCMBAtoZKsxNxo50QFhCUeVbwQcChWiZWneWqBdgCw3jUHYuTlECXENJtTtvtRWk/OgYhzpjHJIULFr7g0lhNIIZtTtdZPp0dfEJew=;Y1uCfbX2IDrgiUfVJXnuMw=="
+secured: "0efJ1VpRJPY/LHjejPP/oYqirZYX0na8zIWvvdm9kF69rcmNEgirveVFbJUHONbzUxVQQPcADCJvZbSRlgPng0drHp/SQfx7NcR0HXttaJa017bBUSTMV9AAcAFjX58A8/XeieQ0viNa/aDpLpWkzGXrCcOc+i4yn/h0+FZgNWJChst8WKn010dBEVMVj/fevnBDqmaapY4T/VJVV9XZ5iwIb6um61Vzhvv5gDIKlaRftRN8eU4ihUibYRe2UdhgJg8KNiz6dEPjfMg/hNeQNZe2IhDKcwlP4XRMm9QCZoKFx5e9aAsXp7n0bCMGXJz7kqY7TzsMqY1DKy3tI66oDmd/T6rkl2YpV7+X3xa3MW8=;KF+4u/MDp+bS8YH+b0d8Aw=="
 ---
 

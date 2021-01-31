@@ -27,17 +27,6 @@ images:
 related:
   - title: "Silicon Labs and Edge Impulse Partner to Accelerate Machine Learning Applications"
     excerpt: "Silicon Labs (NASDAQ: SLAB), a leading provider of silicon, software and solutions for a smarter, more connected world, and Edge Impulse, a leading development platform for machine learning on edge devices,"
-    publishedDateTime: 2021-01-27T18:52:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/silicon-labs-and-edge-impulse-partner-to-accelerate-machine-learning-applications-1030011427"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/silicon-labs-and-edge-impulse-partner-to-accelerate-machine-learning-applications-1030011427"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/silicon-labs-and-edge-impulse-partner-to-accelerate-machine-learning-applications-1030011427"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
-  - title: "Silicon Labs and Edge Impulse Partner to Accelerate Machine Learning Applications"
-    excerpt: "Silicon Labs (NASDAQ: SLAB), a leading provider of silicon, software and solutions for a smarter, more connected world, and Edge Impulse, a leading development platform for machine learning on edge devices,"
     publishedDateTime: 2021-01-27T12:45:00Z
     webUrl: "https://www.morningstar.com/news/pr-newswire/20210127da61379/silicon-labs-and-edge-impulse-partner-to-accelerate-machine-learning-applications"
     type: article
@@ -49,6 +38,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1428108/Silicon_Labs_Edge_Impulse_Machine_Learning.jpg"
         width: 400
         height: 209
+        isCached: true
+  - title: "Silicon Labs and Edge Impulse Partner to Accelerate Machine Learning Applications"
+    excerpt: "Silicon Labs (NASDAQ: SLAB), a leading provider of silicon, software and solutions for a smarter, more connected world, and Edge Impulse, a leading"
+    publishedDateTime: 2021-01-27T18:45:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/silicon-labs-and-edge-impulse-partner-to-accelerate-machine-learning-applications/article_07d5c9fd-3f42-5008-8548-4363579501c6.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 34
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/65/d656d0d8-9f6e-5d52-ada9-57c472673bf2/6013c455c9f1c.image.jpg?resize=1200%2C628"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Harnessing the power of a digital assistant to accelerate patient access"
     excerpt: "Technology in the healthcare landscape is evolving, and leading hub services providers are implementing solutions that help accelerate speed to therapy for patients. One crucial portion of accessing medication is being able to receive benefit verification information in a timely manner."

@@ -180,22 +180,6 @@ related:
         width: 480
         height: 226
         isCached: true
-  - title: "Amnesty International wants to map facial recognition cameras so you can avoid them"
-    excerpt: "Several groups have launched a 'Ban the Scan' campaign to halt the use of facial recognition tech by New York's government."
-    publishedDateTime: 2021-01-26T16:29:00Z
-    webUrl: "https://www.dailydot.com/debug/facial-recognition-ban-the-scan-new-york-campaign/"
-    ampWebUrl: "https://www.dailydot.com/debug/facial-recognition-ban-the-scan-new-york-campaign/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facial-recognition-ban-the-scan-new-york-campaign/?amp"
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 53
-    images:
-      - url: "https://www.dailydot.com/wp-content/uploads/2021/01/Ban-the-Scan-Facial-Recognition-Campaign-New-York.jpg"
-        width: 5478
-        height: 2739
-        isCached: true
   - title: "Global Image Recognition in Retail Market 2020-2025 - Growing Adoption of Cloud-Based Image Recognition Solutions"
     excerpt: "The \"Global Image Recognition in Retail Market (2020-2025), by Technology, Component, Application, Deployment, Geography and the Impact of Covid-19 with Ansoff Analysis\" report has been added to ResearchAndMarkets."
     publishedDateTime: 2021-01-28T12:48:00Z

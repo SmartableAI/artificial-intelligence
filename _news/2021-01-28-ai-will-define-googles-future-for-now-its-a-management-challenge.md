@@ -7,7 +7,7 @@ originalUrl: "https://www.bangkokpost.com/tech/2058415/ai-will-define-googles-fu
 webUrl: "https://www.bangkokpost.com/tech/2058415/ai-will-define-googles-future-for-now-its-a-management-challenge-"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Will Define Google’s Future. For Now, It’s a Management Challenge."
-    excerpt: "Google’s parent, Alphabet, has waded through one controversy after another involving its top researchers and executives in the field over the past 18 months."
-    publishedDateTime: 2021-01-26T15:02:00Z
-    webUrl: "https://www.wsj.com/articles/artificial-intelligence-will-define-googles-future-for-now-its-a-management-challenge-11611676945"
-    ampWebUrl: "https://www.wsj.com/amp/articles/artificial-intelligence-will-define-googles-future-for-now-its-a-management-challenge-11611676945"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/artificial-intelligence-will-define-googles-future-for-now-its-a-management-challenge-11611676945"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 77
-    images:
-      - url: "https://images.wsj.net/im-290370/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Artificial Intelligence Will Define Google's Future. For Now, It's a Management Challenge."
     excerpt: "Google's parent has waded through one controversy after another involving its top researchers and executives in the field. In the most high-profile incident, last month Google parted ways with a prominent AI researcher,"
     publishedDateTime: 2021-01-26T20:03:00Z

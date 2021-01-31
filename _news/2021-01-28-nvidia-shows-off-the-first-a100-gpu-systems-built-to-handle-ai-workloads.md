@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/nvidia-shows-off-the-first-a100-g
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/nvidia-shows-off-the-first-a100-gpu-systems-built-to-handle-ai-workloads"
 type: article
 quality: 103
-heat: 153
+heat: 143
 published: true
 
 provider:
@@ -91,15 +91,6 @@ related:
         width: 948
         height: 474
         isCached: true
-  - title: "OEMs Join Nvidia-Certified Program – Systems Pre-tested for AI Workloads"
-    excerpt: "Inspur and Supermicro are among 11 systems makers engaged in an Nvidia certification program, announced this morning, designed to test hardware across a range of AI and data analytics workloads, including jobs that require multiple compute nodes and tasks that only need part of the power of one GPU."
-    publishedDateTime: 2021-01-26T15:26:00Z
-    webUrl: "https://insidehpc.com/2021/01/oems-join-nvidia-certified-program-systems-tested-for-ai-workloads/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 18
 
 secured: "kRNTVO56baoqCKKdD3m4WZNFH85xLu01JssGFFF1rj1YtDsQdLp0s49yxU+um2nxXU/IHywawEQg7PrfrrWXwDmtLrvYPutiBwDAznYAu+FMVLROWSc88LZKghrVL2K2SY+HZNK+oweG4wZPrPZBCxy0jSpZWpScmyn1qvpCnMKYdHv54IEwYQzqWdsjhk1oOEreml7So+btyFa5vswHBDlE4oOe530bZWE56bNwaAeL/fKbFgh5fUq9Vc2RgAl6DOzoFt2ByTAsmeSRceB98ZR1/w9DncZIzz9mN/+e/H5Gm9c/g6wCpoKsybp/Ev8nVc1m6+QGv9YrkrOSiJcBzQbMuIKHEnYOPm1qVLL/I5/u09irlTTESah5K0Xh8DgDHbV/wSvR3h9+fwxwG+edfePvuStcyF9vvB6HxwjC66ILj3xFiPH8aSfy72y/jjBU/ZwJGJq30MaUapa7GVQngcSGdWCmbD7PoMOqAabKQ7F86kCM9qAICkbmOdnHt1q9+9sTH0x0Vs7kYpjsN0rcbA==;Um38GQ6z6ayXNhp0dyfvIQ=="
 ---

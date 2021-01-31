@@ -67,20 +67,6 @@ related:
       name: Tech Zone 360
       domain: techzone360.com
     quality: 39
-  - title: "Engineering and artificial intelligence combine to safeguard COVID-19 patients"
-    excerpt: "Princeton engineers applied artificial intelligence to the task of monitoring and adjusting ventilators for COVID-19 patients, with the goal of easing the burden on medical workers and allowing ventilators to be deployed in areas with staffing shortages."
-    publishedDateTime: 2021-01-26T15:31:00Z
-    webUrl: "https://www.princeton.edu/news/2021/01/26/engineering-and-artificial-intelligence-combine-safeguard-covid-19-patients"
-    type: article
-    provider:
-      name: Princeton University
-      domain: princeton.edu
-    quality: 33
-    images:
-      - url: "https://www.princeton.edu/sites/default/files/styles/scale_1440/public/images/2021/01/TomZajdel090820_0017-ventilator-16X9-for-web.jpg?itok=zUiFQePT"
-        width: 1440
-        height: 810
-        isCached: true
   - title: "Researchers Build Models Using Machine Learning Technique to Enhance Predictions of COVID-19 Outcomes"
     excerpt: "Mount Sinai researchers have published one of the first studies using a machine learning technique called \"federated learning\" to examine"
     publishedDateTime: 2021-01-28T06:16:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210129/Novel-deep-learning-s
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210129/Novel-deep-learning-system-can-predict-cardiovascular-risk-from-CT-scans.aspx"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: News Medical
@@ -36,6 +36,20 @@ related:
       name: Nature
       domain: nature.com
     quality: 14
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-021-20966-2/MediaObjects/41467_2021_20966_Fig1_HTML.png"
+        width: 685
+        height: 468
+        isCached: true
+  - title: "Deep convolutional neural networks to predict cardiovascular risk from computed tomography | Nature Communications"
+    excerpt: "Coronary artery calcium is an accurate predictor of cardiovascular events but this information is not routinely quantified. Here the authors show a robust and time-efficient deep learning system to automatically quantify coronary calcium on CT scans and predict cardiovascular events in a large,"
+    publishedDateTime: 2021-01-29T16:01:38Z
+    webUrl: "https://www.nature.com/articles/s41467-021-20966-2"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 2
     images:
       - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-021-20966-2/MediaObjects/41467_2021_20966_Fig1_HTML.png"
         width: 685

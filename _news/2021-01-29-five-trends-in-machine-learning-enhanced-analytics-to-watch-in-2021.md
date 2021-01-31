@@ -25,31 +25,85 @@ images:
     isCached: true
 
 related:
-  - title: "TraQiQ makes big bet on Machine learning by acquiring Kringle, Leader in Loyalty, Rewards and Data analytics."
-    excerpt: "Ajay Sikka, CEO of TraQiQ said “Bringing the Kringle product suite and team into the TraQiQ family will allow us to provide a seamless solution for the post COVID hyper-digital, Contactless economy by integrating Kringle’s mobile and web products for end-to-end digital commerce solutions”."
-    publishedDateTime: 2021-01-26T15:04:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/traqiq-makes-big-bet-on-machine-learning-by-acquiring-kringle-leader-in-loyalty-rewards-and-data-analytics-1030004935"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/TraQiQ-makes-big-bet-on-Machine-learning-by-acquiring-Kringle-Leader-in-Loyalty-Rewards-and-Data-analytics-1030004935"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/TraQiQ-makes-big-bet-on-Machine-learning-by-acquiring-Kringle-Leader-in-Loyalty-Rewards-and-Data-analytics-1030004935"
+  - title: "AI and ML in intelligent analytics can drive the efficiency in business"
+    excerpt: "The role of AI and ML in intelligent analytics is quite fruitful as it quickens the data transformation process. Artificial intelligence and ML frameworks exist that utilize analytics data to assist businesses with foreseeing results and effective blueprints."
+    publishedDateTime: 2021-01-27T06:44:00Z
+    webUrl: "https://www.analyticsinsight.net/the-role-of-artificial-intelligence-and-ml-in-intelligent-analytics/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 52
-  - title: "TraQiQ makes big bet on Machine learning by acquiring Kringle, Leader in Loyalty, Rewards and ..."
-    excerpt: "(OTC QB:  TRIQ) (the “Company” or “TraQiQ”), a FinTech company delivering deeply targeted technology solutions for customer management, transaction management & fulfillment announced today that it has acquired Rohuma LLC,"
-    publishedDateTime: 2021-01-27T08:06:00Z
-    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-ownership-changes-8cd1353b901bd5d291a004d82b637143"
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 56
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/Intelligent-Analysis.jpg"
+        width: 900
+        height: 500
+        isCached: true
+  - title: "Startup Employs Video Analytics and AI for Streamlined Aircraft Turnarounds"
+    excerpt: "Aircraft turnaround processes may soon become streamlined thanks to a combination of video analytics and artificial intelligence (AI). Swiss startup Assaia has partnered with airport solutions provider ADB SAFEGATE to pair its ApronAI image recognition technology with ADB’s SafeControl"
+    publishedDateTime: 2021-01-28T00:00:00Z
+    webUrl: "https://aviationweek.com/mro/emerging-technologies/startup-employs-video-analytics-ai-streamlined-aircraft-turnarounds"
+    type: article
+    provider:
+      name: Aviation Week
+      domain: aviationweek.com
+    quality: 35
+    images:
+      - url: "https://aviationweek.com/sites/default/files/styles/crop_freeform/public/2021-01/adb-safegate-safedock.jpg?itok=6sZHSsAJ"
+        width: 1500
+        height: 1095
+        isCached: true
+  - title: "CLARA Analytics Introduces New Product Lineup To Address the Entire Claim Life Cycle"
+    excerpt: "CLARA Analytics (“CLARA”), the leading provider of artificial intelligence (AI) technology in the commercial insurance industry, today announced changes and additions to its product suite. The newly configured CLARA Triage,"
+    publishedDateTime: 2021-01-29T08:13:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-15c952a428dc49c098515f674604d864"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 28
+    quality: 32
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
         isCached: true
+  - title: "NICE Actimize Honored for AI and Advanced Analytics Innovation in Holistic Trade Surveillance by Regulation Asia"
+    excerpt: "NICE Actimize, a NICE (Nasdaq: NICE) business, announced today that its Holistic Trade and Communications Surveillance solutions suite was recognized by the Regulation Asia Awards for Excellence 2020 for the second consecutive year with the Best Solution in Market & Trading Surveillance award."
+    publishedDateTime: 2021-01-27T16:18:00Z
+    webUrl: "https://www.globalbankingandfinance.com/category/news/nice-actimize-honored-for-ai-and-advanced-analytics-innovation-in-holistic-trade-surveillance-by-regulation-asia/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 18
+    images:
+      - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Data Analytics and Artificial Intelligence to Propel Smart Water and Wastewater Leak Detection Solutions Market"
+    excerpt: "Frost & Sullivan's recent analysis, Data Analytics and AI Boost Accuracy to Drive Global Smart Water and Wastewater Leak Detection"
+    publishedDateTime: 2021-01-28T14:16:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/data-analytics-and-artificial-intelligence-to-propel-smart-water-and-wastewater-leak-detection-solutions-market-846058818.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 17
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "CLARA Analytics Introduces New Product Lineup To Address the Entire Claim Life Cycle"
+    excerpt: "CLARA Analytics (“CLARA”), the leading provider of artificial intelligence (AI) technology in the commercial ... such as surgery or physical therapy; which specialists have the greatest success with a particular type of injury; and more."
+    publishedDateTime: 2021-01-28T14:38:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210128005341/clara-analytics-introduces-new-product-lineup-to-address-the-entire-claim-life-cycle"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 12
 
 secured: "PRs0w5bgQ26ThHpbJ6LPBT0W+O0sqEEDVCclxSKL5j+vC9RpXf4RmNQH6KRfavgtXNWyMr3saPC6IXwLO2rUaGh+2FtD4AM9BftaA8p4SLwWAEu4z5kGctwKdNbdk5ogrWON6Q8DEXxxDCBxluazdYqjHHiOA3bKBCAERlxRw719x0CIe6KFL7xrw3EiiXAIEk273rKSyZmTuwBamdtSkQjAfan659kGZBdfSJ7+RDO7AbUPmMLV+jbRTGB5e31Hur4PyPmZK/FcYhDdfT8++7a8uHAiHjYEWyTUvSg2DrGAb3vv3eQz3pAsZjDLgo27N+49iv9S8mkpPSvd8xIU2Dsj6hlHkmC22MnY+T37+z0=;Ojg8sJvmFjBocpWFavHt1g=="
 ---

@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Sales startup Insent.ai raises $2 million to expand its data strategy with automated chatbots – Jaweb"
-    excerpt: "Insent.ai, which offers a business-to-business enterprise sales platform, has raised $2 million from Emergent Ventures in a seed-level funding round. Insent plans to use the funds to expand its data visibility and automated chatbot integrations."
-    publishedDateTime: 2021-01-26T15:10:00Z
-    webUrl: "https://elmoudjaweb.com/sales-startup-insent-ai-raises-2-million-to-expand-its-data-strategy-with-automated-chatbots-jaweb/"
-    ampWebUrl: "https://elmoudjaweb.com/sales-startup-insent-ai-raises-2-million-to-expand-its-data-strategy-with-automated-chatbots-jaweb/?amp"
-    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/sales-startup-insent-ai-raises-2-million-to-expand-its-data-strategy-with-automated-chatbots-jaweb/?amp"
-    type: article
-    provider:
-      name: Elmoudjaweb
-      domain: elmoudjaweb.com
-    quality: 59
-    images:
-      - url: "https://elmoudjaweb.com/wp-content/uploads/2021/01/Sales-startup-Insent.ai-raises-2-million-to-expand-its-data.jpg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "OyhjvyuRgCAOpbhXeRHdLi8G7a8hEl+qdvhsBya6yEXZTBcypY/MT+tWnjjP4KDdHtKbdoUe7SaBE190X+7ZN2HL4c50BnjK36464yFkWfa3PEPjOsUygV4FCAtOeR2jQTqFyaSp2KC42WCOvwX309Holir9zwOyGllv7CWy/3DjGC8bq7P1DPkkp5bKAe1cH5HdRUBH7EMsIjizUbP67rR3b74SGRIPdDZaH+KHZ/8wNpYEUYS579n/SB3tZ2jKOG/iwjH4RQ/ecjFFGIalVx4XQjxyHqpHP0qlPDsBHYHvg8aw5jVaLyVZX6SAT+q3/MrToqGOovXr4E0zfO5IZXKCy33w5NN6C0lo/soulEU=;oO49qsHbENDxJ8CS73AK2A=="
 ---

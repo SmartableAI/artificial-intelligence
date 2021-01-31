@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/26/opencv-opens-400000-contest-to-so
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/26/opencv-opens-400000-contest-to-solve-real-world-problems-with-spatial-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -30,24 +30,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "OpenCV opens $400,000 contest to solve real-world problems with spatial AI – Jaweb"
-    excerpt: "At some point in the not-too-distant future, pairing depth-sensing cameras with artificial intelligence will enable computers to truly understand the physical world — a vision that researchers and companies have spent years working to transform into reality."
-    publishedDateTime: 2021-01-26T16:47:00Z
-    webUrl: "https://elmoudjaweb.com/opencv-opens-400000-contest-to-solve-real-world-problems-with-spatial-ai-jaweb/"
-    ampWebUrl: "https://elmoudjaweb.com/opencv-opens-400000-contest-to-solve-real-world-problems-with-spatial-ai-jaweb/?amp"
-    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/opencv-opens-400000-contest-to-solve-real-world-problems-with-spatial-ai-jaweb/?amp"
-    type: article
-    provider:
-      name: Elmoudjaweb
-      domain: elmoudjaweb.com
-    quality: 55
-    images:
-      - url: "https://elmoudjaweb.com/wp-content/uploads/2021/01/OpenCV-opens-400000-contest-to-solve-real-world-problems-with-spatial.jpg"
-        width: 1200
-        height: 600
-        isCached: true
-
-secured: "wIVQQo9s2ONZkLa5mt9gpCnRQ59FitlBldVcR+NoIOOsLyD5GrN70/VaIrh843M7xAKP0ESGPFLmh8GZBHZr6C7Agqh7p+mXSPPv0yb/qiVLMg8CaHYAn4QL5V2IHPGAIRHqFQujrl7hzj5qPu0EMPLrux2vHF78PrRXNevMp9S+7qPCrs5editvPlS+uEiUfDwDeimRZQZ6wJcwwmtI7Om7SbMyVU4IBGomSuPloBjunff8ovtnOxL+RHzC4ERaVxxbkYPGJ2/JCT2ETj3ZnjUE46W7TbjXVdedNsfpUthCEDeasLystmMfwl32GjIzggJZp8FFNegZnoKQ30rg2Qobkud4RChtY56NS77ahgg=;Nxfv3JOqEaa2yxpHy2k6Sw=="
+secured: "d5nuSeiPZcGVHrP6Wvb1TBl1gFv9vGbOhGWKuwOwgZg9NTM4ACGCAWeADniBmSRQ+TZH2ma3A/5htMnellHIv0Rhvi2Xfj9SCqXc3zer3QB0j0LVWz77KYrdrwZBjZWZr2Dl6zLY6901Govh63vMDoXYf8IoeGEM/QuZmt7DzsTOUP3O7R2Hl+/0vO4+UuqgpwbZBI4EKdvFfQT7JWUkigb7v6h/QrWVViT90srtUyi9jVTZuHfSPcTBPFP0XK2pJ+UYrUubqmqClaiwGYc1lzfZ4qS4Z1yMlvL1GTzR1H5/zexFgcdVwy/PsNAyKr4n6LPAPpUn3xYSopQXNNbwmAfx5HaqSzsvtQmlCX4PokDpGCuFCmRMrRvanp73AbpVgMb6OskrOkz1DXiUrVi/CjYXUWmsf5KD3aldhtybqyCutBqQp6X4ZoytBhoCMRzFWHiMF7nkJFSN6yFo7TKcCxLi9aDWRuhORoAj3EKW29wPbI0wzGsVRNVfxpmyD+0Q/JBKI9BiUycs5jOXbW9enA==;K8IiruPFXkZeNgIM2WgudQ=="
 ---
 

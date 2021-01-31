@@ -7,8 +7,8 @@ originalUrl: "https://www.analyticsinsight.net/the-role-of-artificial-intelligen
 webUrl: "https://www.analyticsinsight.net/the-role-of-artificial-intelligence-and-ml-in-intelligent-analytics/"
 type: article
 quality: 56
-heat: -1
-published: false
+heat: 116
+published: true
 
 provider:
   name: Analytics Insight
@@ -26,21 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Ex-Uber team raises $6M seed for geospatial analytics platform Unfolded.ai"
-    excerpt: "Years ago, Uber had a problem. With millions of users and tens of thousands of drivers scattered across a widening expanse of the globe, the fast-growing mobility startup wanted to display more accurate maps to users about where their ride was coming from and where it was intending to go to reach"
-    publishedDateTime: 2021-01-26T15:36:00Z
-    webUrl: "https://techcrunch.com/2021/01/26/ex-uber-team-raises-6m-seed-for-geospatial-analytics-platform-unfolded-ai/"
-    ampWebUrl: "https://techcrunch.com/2021/01/26/ex-uber-team-raises-6m-seed-for-geospatial-analytics-platform-unfolded-ai/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/26/ex-uber-team-raises-6m-seed-for-geospatial-analytics-platform-unfolded-ai/amp/"
+  - title: "Five trends in machine learning-enhanced analytics to watch in 2021"
+    excerpt: "AI usage is growing rapidly. What exactly does 2021 hold for the world of analytics, and how will AI drive it?"
+    publishedDateTime: 2021-01-29T14:33:00Z
+    webUrl: "https://www.information-age.com/five-trends-machine-learning-enhanced-analytics-watch-2021-123493559/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 85
+      name: Information Age
+      domain: information-age.com
+    quality: 39
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/01/founders.png?w=680"
-        width: 680
-        height: 381
+      - url: "https://s27389.pcdn.co/wp-content/uploads/2021/01/five-trends-machine-learning-enhanced-analytics-watch-2021.jpeg"
+        width: 1080
+        height: 634
         isCached: true
   - title: "Startup Employs Video Analytics and AI for Streamlined Aircraft Turnarounds"
     excerpt: "Aircraft turnaround processes may soon become streamlined thanks to a combination of video analytics and artificial intelligence (AI). Swiss startup Assaia has partnered with airport solutions provider ADB SAFEGATE to pair its ApronAI image recognition technology with ADB’s SafeControl"
@@ -55,6 +53,20 @@ related:
       - url: "https://aviationweek.com/sites/default/files/styles/crop_freeform/public/2021-01/adb-safegate-safedock.jpg?itok=6sZHSsAJ"
         width: 1500
         height: 1095
+        isCached: true
+  - title: "CLARA Analytics Introduces New Product Lineup To Address the Entire Claim Life Cycle"
+    excerpt: "CLARA Analytics (“CLARA”), the leading provider of artificial intelligence (AI) technology in the commercial insurance industry, today announced changes and additions to its product suite. The newly configured CLARA Triage,"
+    publishedDateTime: 2021-01-29T08:13:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-15c952a428dc49c098515f674604d864"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 32
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "NICE Actimize Honored for AI and Advanced Analytics Innovation in Holistic Trade Surveillance by Regulation Asia"
     excerpt: "NICE Actimize, a NICE (Nasdaq: NICE) business, announced today that its Holistic Trade and Communications Surveillance solutions suite was recognized by the Regulation Asia Awards for Excellence 2020 for the second consecutive year with the Best Solution in Market & Trading Surveillance award."
@@ -84,6 +96,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "CLARA Analytics Introduces New Product Lineup To Address the Entire Claim Life Cycle"
+    excerpt: "CLARA Analytics (“CLARA”), the leading provider of artificial intelligence (AI) technology in the commercial ... such as surgery or physical therapy; which specialists have the greatest success with a particular type of injury; and more."
+    publishedDateTime: 2021-01-28T14:38:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210128005341/clara-analytics-introduces-new-product-lineup-to-address-the-entire-claim-life-cycle"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 12
 
 secured: "XmdAEeKIZnunHWXbxg3CXTQxwg6bZGrhEEsf864Optw9EqJJRe6/VzjZJZQYXk/zH+K8uqmGtOV3tKItRjnEDC9JttMq5Di8ksabNslV1c0UKW7hJ2GUimSi2Yk+s/L/0yXQXgsc0uw/p39rqkuNQNuXW2K0LgIvSP9gRXltJrVxvjj7O7Z4cr5y1VN15Bf/re1ZAGWwIRMy8Ie05j91fM7WkBuGgbZYdoHRAghpe51CjMIpcMCO8qHRp85v37KmslcHFuac0/A4TxMuMenbcr1f7d8KZfPA7aJ51GyrModsXhUJdIPJCquTETapaI8h378GuXO/7KZC5SVNfS2JCqyEpctFsU1oIjqdumgQpDT/tHN22rVaHS5YCPzvbUmTB2EWzAair634QYOy4j97M1r8S2z834HAvH8sbNuf0H827fYgJgBJ657SK2D7sN2eb3uskOn0csjTMhFuC1lyOL9t4d8RdEsJfSMqTO3kSbwP4sqXywRREfZ3hWc/dT3o/bGx9brXAEgGmJNm5K5o3A==;C5NsvRm4VlGYcVeOuncmUw=="
 ---

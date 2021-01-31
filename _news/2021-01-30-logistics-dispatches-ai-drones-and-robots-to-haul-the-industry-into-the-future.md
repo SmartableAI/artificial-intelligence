@@ -3,12 +3,12 @@ category: news
 title: "Logistics dispatches AI, drones, and robots to haul the industry into the future"
 excerpt: "Though the industry is slow to adopt new technologies, these trends can help streamline business.  Edge computing adoption to increase through 2026; organizations cautious about adding 5G to the mix T"
 publishedDateTime: 2021-01-29T22:35:00Z
-originalUrl: "https://www.techrepublic.com/videos/logistics-dispatches-ai-drones-and-robots-to-haul-the-industry-into-the-future/"
-webUrl: "https://www.techrepublic.com/videos/logistics-dispatches-ai-drones-and-robots-to-haul-the-industry-into-the-future/"
+originalUrl: "https://www.techrepublic.com/index.php/videos/logistics-dispatches-ai-drones-and-robots-to-haul-the-industry-into-the-future/"
+webUrl: "https://www.techrepublic.com/index.php/videos/logistics-dispatches-ai-drones-and-robots-to-haul-the-industry-into-the-future/"
 type: article
-quality: 79
-heat: 79
-published: true
+quality: 64
+heat: 64
+published: false
 
 provider:
   name: TechRepublic
@@ -19,7 +19,7 @@ provider:
       height: 50
 
 topics:
-  - AI in Robotics
+  - AI Ethics
   - AI
 
 images:
@@ -28,6 +28,6 @@ images:
     height: 578
     isCached: true
 
-secured: "iq73CZw/wM6Vzx91X8io5MracMxc4021sp9eY3Ohk9+/uAqqaTWnF55FXg01PW16xP0YZiWlhMoBEuxBapegYDT7wAXBlkhLfvko+w0l1xJceTY3Seq94pieHlSNdbNDm+e9jbOc0/oNHjYU47kHIJwRDpO9Is8/0RBeTUekB83Iwabbvp3aPxbMZImg3TXh2t1pKskpYYtC8cLtfciaS49P1y6OJ+vWoMkeGeJl6+CicH4wyIi6nFgHKBpQvzeKT+/bBBdwlS1usssDe7GD5cmJI3CrQoDYMi9WI2+Y9dPt9HmhLCfrlsoop9tGhDP5rjsJ0X5wX6yDaTD/Ehsd8cUxrxGY+N5oNxG9+jbFogg=;7yeHOlhXA0D3Ra8hHd0eEg=="
+secured: "sSriMux5YOqM/d6clWbeW2fRAmxF1cq2mjQup0zjHfiQunJ+AzJ0sBYXaJDeSLc0xUNMhZ4n9uWNc1fO+bKjMKLxb5kZV0s8rQY2a5zLaa7nsSQiNnDdZiZLYmN4qWl+BBVWs1cHeIZ+qeoVez+rSPDD8D8bH6NroJYNtxUCl+xAhjsv5yglcLQhf0rXZfMDSYbE/K5MPzUBWstZ5RZCaFUsRYSRgJH7+qu7qVn245ckTBeoZg/xvD51q5S4OV9DRmFYvHzbEEz2W1j1j8lDfTkdal50LvbgqdwFraxZFudfBHsIErM4+ezmyd14w10r+rY/pGC9nVDAQt/rK1mhUYRdb/sr9P4PeCnZ+v7Iiw4=;PqK+IzExE9Zm1cQvyEiZzg=="
 ---
 

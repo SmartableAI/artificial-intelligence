@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/commonwealth-banks-refreshe
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/commonwealth-banks-refreshed-digital-strategy-to-focus-on-the-power-of-ai/"
 type: article
 quality: 102
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 3661
     height: 2443
     isCached: true
-
-related:
-  - title: "To Unleash The Real Value Of Artificial Intelligence, Let Go Of These Common Myths"
-    excerpt: "AI can solve a myriad of business challenges—from managing and automating IT infrastructure to getting new insights about customers and improving customer service."
-    publishedDateTime: 2021-01-26T16:12:00Z
-    webUrl: "https://www.forbes.com/sites/sap/2021/01/26/to-spark-joy-with-artificial-intelligence-let-go-of-these-misconceptions/"
-    ampWebUrl: "https://www.forbes.com/sites/sap/2021/01/26/to-spark-joy-with-artificial-intelligence-let-go-of-these-misconceptions/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2021/01/26/to-spark-joy-with-artificial-intelligence-let-go-of-these-misconceptions/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 81
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600eed835aae59f8c507eb45%2F0x0.jpg"
-        width: 1199
-        height: 608
-        isCached: true
 
 secured: "Lf+RvhVmsJIsq6uX/9JB8St+ezml+naEs1k+a4iYc0Qy9c0dM7JpfhfQ9LqXY3c99xfhcAZD6SXJTAH2XGEOv6NfwgQyYoLBikRK7rOMm5FapdJQe2uqxPi1QBQGX91RtIxBM/ThCt4iCH1KSrO6H/krHyxHY0x/eMxGouyUbrwm/T0DpElu48nIFbTtbcp5smjYZ9LtW4+XZuFL8Tfz7vXpp9QDCEwE3gZ7uqbrxqG3iI7atw0zRWuBWn4BH248nkb6sCIIXnm4NdDqUBP3NetAKMbqKRSAR6CzgzSQQeZllA7dbeSdnQqRF7mMVtiTpqoeELCytl2PZbCgoqr7Rcbm7ltQKIU2kdBCvwVg4cLvCoTaZIXFnHfDkdFtFelzOrNBw0GkmWZEEJFeZhm0HGZeLEpqUgNuANoS6KzvNoKRrgYReuT6nUUbnxZ4A0hACTu4iAkKN8S5M3JkZG6BstTayXeShRv6IgQv+CVaxDyW+9QNufWZVdy4iXAKhWI/3ARyfRz66QsDaeK9R/kxEQ==;NcN8E75ADladJDZEqQnryg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/26/tealbook-raises-14-4-million-to-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/26/tealbook-raises-14-4-million-to-aggregate-procurement-data-with-ai/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -41,22 +41,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 73
-  - title: "Sales startup Insent.ai raises $2 million to expand its data strategy with automated chatbots – Jaweb"
-    excerpt: "Insent.ai, which offers a business-to-business enterprise sales platform, has raised $2 million from Emergent Ventures in a seed-level funding round. Insent plans to use the funds to expand its data visibility and automated chatbot integrations."
-    publishedDateTime: 2021-01-26T15:10:00Z
-    webUrl: "https://elmoudjaweb.com/sales-startup-insent-ai-raises-2-million-to-expand-its-data-strategy-with-automated-chatbots-jaweb/"
-    ampWebUrl: "https://elmoudjaweb.com/sales-startup-insent-ai-raises-2-million-to-expand-its-data-strategy-with-automated-chatbots-jaweb/?amp"
-    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/sales-startup-insent-ai-raises-2-million-to-expand-its-data-strategy-with-automated-chatbots-jaweb/?amp"
-    type: article
-    provider:
-      name: Elmoudjaweb
-      domain: elmoudjaweb.com
-    quality: 59
-    images:
-      - url: "https://elmoudjaweb.com/wp-content/uploads/2021/01/Sales-startup-Insent.ai-raises-2-million-to-expand-its-data.jpg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "kmQ06/lY73vwR8A+qW4fP18h46EGax0KlURSU2I1pcuaNk8XB8WZfxaKO9mK78z1b06+KDZc/ScupuRDgT/IHLi1gkQybHLHP0EDtFOvMkNOAA1qyaTws3QJr4l/JLKJndyT40PLSjrXqp2nSlrM7U7O3sCHKuK5tCCjR3xIrlFznzB23uNjBC4ec4N/2fno5mDthy6HqQVoefiO54LyfEAeoYK6zSuFq8pqTUdRcF86vfXGJvH5+kG8wKTslDFfi2uzEj4olN3lJEQbHQMeZPD2gWfS2AZHJhCuuJtLy/O1jEgJ1wclrPdwpv+rekb4Vaq01epqFhPRKPyepttf6LWXGY4SxUr3JEZfw1NPgRZyXIZzatq3B7jTFObuilYKCnjivwc3h3VMYK1kjvzxDz4c6FapEg56eRxwWqrkb0vz4QUhjRCBot/owo+mB9a01IdToupXdpD33NBH9R1VRbciI9+r9G/xLG+kE3mNDJvYJdECdpokMAfkPrFAWBpWaWeSJTLfj/hDuwIamsq+Mg==;t+QCmAvK328p2s6mmh6lGg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://aceds.org/reveal-and-brainspace-merge-to-become-leading-ar
 webUrl: "https://aceds.org/reveal-and-brainspace-merge-to-become-leading-artificial-intelligence-powered-ediscovery-platform/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -22,19 +22,6 @@ images:
     width: 512
     height: 512
     isCached: true
-
-related:
-  - title: "Reveal And Brainspace Merge to Become Leading Artificial Intelligence Powered eDiscovery Platform"
-    excerpt: "Press Release Reveal, a global provider of the leading AI-powered eDiscovery platform, and Brainspace, a global provider of visual analytics for eDiscovery and investigations, announced today that they have joined forces."
-    publishedDateTime: 2021-01-26T15:30:00Z
-    webUrl: "https://venturebeat.com/2021/01/26/reveal-and-brainspace-merge-to-become-leading-artificial-intelligence-powered-ediscovery-platform/"
-    ampWebUrl: "https://venturebeat.com/2021/01/26/reveal-and-brainspace-merge-to-become-leading-artificial-intelligence-powered-ediscovery-platform/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/26/reveal-and-brainspace-merge-to-become-leading-artificial-intelligence-powered-ediscovery-platform/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
 
 secured: "OhITAW/pVJBu6NH2kgqwe7B24mUjC4wx7RoHWQB5tWvdWrabnAhn6MZF3CWX5WBw783GHQOKeZfFmbZscnnqDrs4O6qwya7caOLwi7+7vmjK4Mnhor2TCT0Kmmr3V0mARhfahFlrOCHDI7kqUb5XWGJMLas5zbDuUDT6c4prEXyxOGRQdrm/unQtvQYtiM45DmICryQjp98X6zVbyqOZZAGiITpADFgoDg7gjM/VrIaLOIe4KEy0uD7wM7BO4bJt4sWZ8ZSAHgDzB/yobf9vaJfZ9L/v964kOdhrn6RYmn6d61IfwbuR09m9bvpQeTqW+Oysa2/67rrg/2niiizKqlJo9IwAhRA14rxaTBwSXxc=;R9ne59ckwHDVvJDUBPXjOA=="
 ---

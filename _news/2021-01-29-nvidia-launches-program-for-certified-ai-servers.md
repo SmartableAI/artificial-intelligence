@@ -87,15 +87,6 @@ related:
         width: 948
         height: 474
         isCached: true
-  - title: "OEMs Join Nvidia-Certified Program – Systems Pre-tested for AI Workloads"
-    excerpt: "Inspur and Supermicro are among 11 systems makers engaged in an Nvidia certification program, announced this morning, designed to test hardware across a range of AI and data analytics workloads, including jobs that require multiple compute nodes and tasks that only need part of the power of one GPU."
-    publishedDateTime: 2021-01-26T15:26:00Z
-    webUrl: "https://insidehpc.com/2021/01/oems-join-nvidia-certified-program-systems-tested-for-ai-workloads/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 18
 
 secured: "PQ/BcWfhTDfSbSXLQxsG45mKHoMYOJzejPcTFS1ZKv4VdfxUL7o+3wFU00Q0ul264Y/fyIYMdCW0ThyD5AdqjVyAbjWlavGwj0Y9Mj77+TCsReQl6K9pxDSfBbodcqVmVWHNfLsBrPvpl4MlQRBdvCYp3Kcf/ZeO6Av1dvzldTLS2KMzfjDS3oh40v7U7YaMEWzkYnL+YuJh7nJbfH4hZ1h4Nk1Ux9wgDM5GDkiggP2gy2Kb/DOVAzv3GVPY1Nn/2hJ8bZnzWL51fJnLtyihHC5pDzy0Gr1BuM0WXsig6xlVDohZrMYAOI/vfIWrHaJ26puirv3vnkl/vfC0ITzxZqRrRJPNducya8uPb84ckm4=;cW0j3kKqDwh/J9ngTjIjgQ=="
 ---

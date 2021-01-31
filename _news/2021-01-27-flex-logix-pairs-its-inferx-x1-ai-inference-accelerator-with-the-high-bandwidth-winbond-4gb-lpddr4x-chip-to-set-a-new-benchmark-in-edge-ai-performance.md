@@ -1,30 +1,27 @@
 ---
 category: news
 title: "Flex Logix Pairs its InferX X1 AI Inference Accelerator with the High-Bandwidth Winbond 4Gb LPDDR4X Chip to Set a New Benchmark in Edge AI Performance"
-excerpt: "TAICHUNG, Taiwan and MOUNTAIN VIEW, Calif., Jan. 26, 2021 /PRNewswire/ -- Winbond Electronics Corporation, a leading global supplier of semiconductor memory solutions,"
+excerpt: "Winbond Electronics Corporation, a leading global supplier of semiconductor memory solutions, today revealed that its"
 publishedDateTime: 2021-01-27T00:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/01/n19336095/flex-logix-pairs-its-inferx-x1-ai-inference-accelerator-with-the-high-bandwidth-winbond-4gb-lpddr4"
-webUrl: "https://www.benzinga.com/pressreleases/21/01/n19336095/flex-logix-pairs-its-inferx-x1-ai-inference-accelerator-with-the-high-bandwidth-winbond-4gb-lpddr4"
-ampWebUrl: "https://amp.benzinga.com/amp/content/19336095"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19336095"
+originalUrl: "https://www.prnewswire.com/news-releases/flex-logix-pairs-its-inferx-x1-ai-inference-accelerator-with-the-high-bandwidth-winbond-4gb-lpddr4x-chip-to-set-a-new-benchmark-in-edge-ai-performance-301215697.html"
+webUrl: "https://www.prnewswire.com/news-releases/flex-logix-pairs-its-inferx-x1-ai-inference-accelerator-with-the-high-bandwidth-winbond-4gb-lpddr4x-chip-to-set-a-new-benchmark-in-edge-ai-performance-301215697.html"
 type: article
-quality: 36
-heat: 36
+quality: 14
+heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - Computer Vision
-  - AI
   - AI Hardware
+  - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1427328/Flex_Logix_Technologies_Chip.jpg"
-    width: 400
-    height: 300
+  - url: "https://mma.prnewswire.com/media/1427328/Flex_Logix_Technologies_Chip.jpg?p=facebook"
+    width: 2699
+    height: 1414
     isCached: true
 
 related:
@@ -43,6 +40,6 @@ related:
         height: 427
         isCached: true
 
-secured: "TmeWRU6n/ecsG953R9D4dKDgICWmfWSRh/JR94zrr5yCqQiwM8KSYhF1NEGu7mNoRAjmf92NwRM2H1dsvQzn4WtoLchtKVsLGObVhtW0UcYwz7I+PewBEUC7pCD/u13ChsxLbNeHZBMCDTEwYkaOyyyqPVAmmsfx+ARe/pSHZuBTnDGNBsGPb1yUrZn4mK/xHjsqJHqagT8gT5nyl2iGueyq42AR2ArG4dCAMO6T1cfc415j1oW8sfcccYRDGZiEjve9oarzP42G6ibteDW/1Go2on73EUGqg9Z8rH4+Zwq/4pL5dIHDvLNXTN1JAoGUi4yiN9DckqSDRFy6b9e38i7jRdW8b75OUMduL/zGQkc=;i/sJoVQ+LdaoFnJXW2VMAw=="
+secured: "VqSxz6Au8gk6+FAf4O+Hov8A87xWDRpOlGr3F62qHg2op+Sd1QhMncl4usDO96r55zBeSgYj5kNapVK135BZARZQzYFSrq3WY3Vw7zzhfAII3c/ILMS2e0VUL1KpWPlPloRjT7le+J3aI/DeCVwt+r+ZMCQdJ5UIF6Yxqw43vVF9Kr7ziRX2yoSF062Q/2PKbtcXBU1rqAMZPFFunwa23S8drvw1UCjXtNhYVxYS3IAfOF3lzFI85TLcfYOD9Ji9fqG1ettNaYtmLgawRHFZdas0CKVhHVC3LouuGkNEZuOpbZqu/SpqQvu0wrY/lm6FXBKxiLdrh2bwPCoRtWqtCWFMIKr1S+C0F5iQk2Ul9Jo=;1kBK1NOwvtBRmegNEpeogg=="
 ---
 

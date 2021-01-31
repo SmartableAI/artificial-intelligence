@@ -2,17 +2,17 @@
 category: news
 title: "Fresh Air Weekend: China's 'Surveillance State'; Understanding The Human Voice"
 excerpt: "Fresh Air Weekend highlights some of the best interviews and reviews from past weeks, and new program elements specially paced for weekends. Our weekend"
-publishedDateTime: 2021-01-31T06:35:00Z
-originalUrl: "https://www.wnpr.org/post/fresh-air-weekend-chinas-surveillance-state-understanding-human-voice"
-webUrl: "https://www.wnpr.org/post/fresh-air-weekend-chinas-surveillance-state-understanding-human-voice"
+publishedDateTime: 2021-01-30T18:47:00Z
+originalUrl: "https://www.wwno.org/post/fresh-air-weekend-chinas-surveillance-state-understanding-human-voice"
+webUrl: "https://www.wwno.org/post/fresh-air-weekend-chinas-surveillance-state-understanding-human-voice"
 type: article
 quality: 35
 heat: -1
 published: false
 
 provider:
-  name: WNPR
-  domain: wnpr.org
+  name: WWNO
+  domain: wwno.org
 
 topics:
   - Natural Language Processing
@@ -54,6 +54,6 @@ related:
         height: 787
         isCached: true
 
-secured: "sjbPb2MyuTjViuKHuxc4bxTGlEaMCK+KD7HmM3WyiF7FgmgCscNC3C9CRdv3iIAOuXpWIuIuXadXCwyiIoZqmuf8CIY0B4QUDorGyWNu3bpF6DVLIMBbZS21WZzTEg8bjcJ+1ZBOxZFdBgKkUjaH4eRkIkM9VOAN/Ye5/qAotmHHxVgLcTXSJiJ1nCO4eIIT10uPRXN41PIA07KHUOImx1M4MdTCghrsWMsJFBGeBcnA3eHuWEKHcnyw1ed9YOmx7lZbI3v/ACzegdHJXQ03TcmJbZiS9XVGXglq1PFlVSn9S0USTaHcZBgjq8xxog5vgU8Ia4XktGVcf5FjPEo1XbZhbbpdMjWkBEswNogrFhw=;xNycWDR+E4OtyOa6Pk7jiQ=="
+secured: "O5kjvOXI4E4Tl3+xJ7z9DmyPYUI2ulI/ESIkzoL9tclNCtipjRcwcQYXo2aUtCHL5uwZ6HQeyKpZMMG00yTw/hL2KaTDI/RAPWGP/OJC/R85x6DG6HJCfwXJI97RMN1WaTEbqjelMTCkhDySQdY1cmljKf1l/uyvkH8BkQoUbv3yhtBOH/rl8NuGr+iBNAz0dOu8r/Zf2KGzQ5zK/YWVYY8ZvYHIYvLdLpb4qv1Iu5UbxW9d01l6Hhtg9AJ/b256jFARK+shipoJgzEFJsnfLbb8ZyRfU9cc9qbgqpPJqHmqS1IfI5JHruvYA5VbG60PwlbIApbWtKVGQkMEqmHoAz6do25Srq5IGYJsyMt+OGQ=;+jvKNQwKbHM1hWeCsWUYTQ=="
 ---
 

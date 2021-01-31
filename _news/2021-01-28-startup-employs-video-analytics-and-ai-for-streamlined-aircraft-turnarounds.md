@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ex-Uber team raises $6M seed for geospatial analytics platform Unfolded.ai"
-    excerpt: "Years ago, Uber had a problem. With millions of users and tens of thousands of drivers scattered across a widening expanse of the globe, the fast-growing mobility startup wanted to display more accurate maps to users about where their ride was coming from and where it was intending to go to reach"
-    publishedDateTime: 2021-01-26T15:36:00Z
-    webUrl: "https://techcrunch.com/2021/01/26/ex-uber-team-raises-6m-seed-for-geospatial-analytics-platform-unfolded-ai/"
-    ampWebUrl: "https://techcrunch.com/2021/01/26/ex-uber-team-raises-6m-seed-for-geospatial-analytics-platform-unfolded-ai/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/26/ex-uber-team-raises-6m-seed-for-geospatial-analytics-platform-unfolded-ai/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 85
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/01/founders.png?w=680"
-        width: 680
-        height: 381
-        isCached: true
   - title: "AI and ML in intelligent analytics can drive the efficiency in business"
     excerpt: "The role of AI and ML in intelligent analytics is quite fruitful as it quickens the data transformation process. Artificial intelligence and ML frameworks exist that utilize analytics data to assist businesses with foreseeing results and effective blueprints."
     publishedDateTime: 2021-01-27T06:44:00Z
@@ -53,6 +37,34 @@ related:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/Intelligent-Analysis.jpg"
         width: 900
         height: 500
+        isCached: true
+  - title: "Five trends in machine learning-enhanced analytics to watch in 2021"
+    excerpt: "AI usage is growing rapidly. What exactly does 2021 hold for the world of analytics, and how will AI drive it?"
+    publishedDateTime: 2021-01-29T14:33:00Z
+    webUrl: "https://www.information-age.com/five-trends-machine-learning-enhanced-analytics-watch-2021-123493559/"
+    type: article
+    provider:
+      name: Information Age
+      domain: information-age.com
+    quality: 39
+    images:
+      - url: "https://s27389.pcdn.co/wp-content/uploads/2021/01/five-trends-machine-learning-enhanced-analytics-watch-2021.jpeg"
+        width: 1080
+        height: 634
+        isCached: true
+  - title: "CLARA Analytics Introduces New Product Lineup To Address the Entire Claim Life Cycle"
+    excerpt: "CLARA Analytics (“CLARA”), the leading provider of artificial intelligence (AI) technology in the commercial insurance industry, today announced changes and additions to its product suite. The newly configured CLARA Triage,"
+    publishedDateTime: 2021-01-29T08:13:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-15c952a428dc49c098515f674604d864"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 32
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "NICE Actimize Honored for AI and Advanced Analytics Innovation in Holistic Trade Surveillance by Regulation Asia"
     excerpt: "NICE Actimize, a NICE (Nasdaq: NICE) business, announced today that its Holistic Trade and Communications Surveillance solutions suite was recognized by the Regulation Asia Awards for Excellence 2020 for the second consecutive year with the Best Solution in Market & Trading Surveillance award."
@@ -82,6 +94,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "CLARA Analytics Introduces New Product Lineup To Address the Entire Claim Life Cycle"
+    excerpt: "CLARA Analytics (“CLARA”), the leading provider of artificial intelligence (AI) technology in the commercial ... such as surgery or physical therapy; which specialists have the greatest success with a particular type of injury; and more."
+    publishedDateTime: 2021-01-28T14:38:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210128005341/clara-analytics-introduces-new-product-lineup-to-address-the-entire-claim-life-cycle"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 12
 
 secured: "5MP50ZOH6TNQ3VNkf9ykOPht/Rh+1JgB9gTmHgAOoKXwy4EJxWs7IBB+BfcQq52YvVhquGeeMyQWITJKTrM/1xgd3URf729CuswTDyIBv5TNgeEiC4/wBqBDsImVTYyHbasjpCznoLSGuiVS/oox08mCxRTCwANxy8a6mPQIj2KrTJRAjo/B5EfRUPgXEil1Qovx/6dyKyO2rtgUy3cM2j8kYJftIh21i31/N1nDQI4jPms8Aqe+Jc5rK1T6Hkb00GEfDRR9ntM7h71QqWpHmpmdmps7xcqED9OH53IMELmOJbvMrn1YDrNlLv3jDl5o/pEBYRrIG2k5w+2ly/l3gEDmrNGZQB1yQZ/YO9Jv4rxBzqEiOwRaPQFBlOIO2fuAmWa06vf7S6MS17Y0AxiZX59/cWWsR1o5iAX1PCyyoYwXxalvA5gwLVNz/BdScE4mqN6IPg0E/T2YxaSLpBUf0goKLq+Itn/FpKZ3x9k5M3k75LFxTHpD4DimKp+v8quoj9JlxGz66eZEVItn6cydgw==;rg3hkV9Pr76iIr07hmMb+g=="
 ---

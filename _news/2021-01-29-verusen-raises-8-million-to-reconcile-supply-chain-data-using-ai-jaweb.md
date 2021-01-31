@@ -67,15 +67,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 17
-  - title: "Edge AI company AlphaICs raises $8 million in funding round led by Emerald Technology Ventures and Endiya Partners"
-    excerpt: "AlphaICs, the leading edge AI technology company from Milpitas, CA and Bangalore, India, announced today that it has secured $8 million funding."
-    publishedDateTime: 2021-01-26T15:25:00Z
-    webUrl: "https://www.design-reuse.com/news/49362/alphaics-funding-round.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 0
 
 secured: "Fq+FKUwS+79a/ROpXymBaDC2RKm1Q8Ti1g/YzjkxGPT0T0BbazO+dOz065biI8iKZ/S2MmSV7aHyGPTC2JFsiJeOzIWj1PsbVutWUWen6OiwtzErbOhATpkMsFDVG1d9gnPOju0EdtkyqghgZEihfW7UWCBfBh9l3qq8s5KRBIyarZ2txqcUMpLsff3sDB48lG4EyG+0SHGw0hnc8Z5Xxt0K9GhKlqadPptkCxM7C0r8vg/d51nVOhqGSbEdJ4uWMRWb4opRtMF6bc3e/UCzaFNVce4vApgx1D+D9cj4e248TnUdHrT+uJEVBxMwc/6bPzD4ZHCjW/aFwyKdjkpHIPB7WhSSMitUwyQOVyJSxI4=;V6ea4P0sgLwidHUcC9bZ9g=="
 ---
