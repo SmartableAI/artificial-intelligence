@@ -47,6 +47,22 @@ related:
         width: 950
         height: 633
         isCached: true
+  - title: "Baidu gets California nod for testing empty self-driving cars"
+    excerpt: "Baidu Inc has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor Vehicles said on Wednesday."
+    publishedDateTime: 2021-01-28T02:37:00Z
+    webUrl: "https://www.reuters.com/article/us-baidu-autonomous-idUSKBN29W2OT"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29W2OT"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29W2OT"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210127&t=2&i=1549286737&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0Q1KU"
+        width: 817
+        height: 545
+        isCached: true
   - title: "SoftBank's Son expects mass production of driverless cars in 2 years"
     excerpt: "Son, who made his name for investing early in startups such as China’s Alibaba Group had said he will continue to take stakes in public companies he thinks are frontrunners in the artificial ..."
     publishedDateTime: 2021-01-29T15:55:00Z
@@ -111,17 +127,6 @@ related:
         width: 1024
         height: 640
         isCached: true
-  - title: "Baidu Gets California Nod for Testing Empty Self-Driving Cars"
-    excerpt: "Baidu Inc has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor Vehicles said on Wednesday. Although self-driving vehicles are designed to eliminate the need for a driver,"
-    publishedDateTime: 2021-01-28T09:25:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-01-27/baidu-gets-california-nod-for-testing-driverless-vehicles"
-    ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-01-27/baidu-gets-california-nod-for-testing-driverless-vehicles?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-01-27/baidu-gets-california-nod-for-testing-driverless-vehicles?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 69
   - title: "SoftBank's Son expects mass production of driverless cars in two years"
     excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since Free subscriber-exclusive audiobook! “No Rules Rules: Netflix and the Culture of Reinvention ..."
     publishedDateTime: 2021-01-29T16:38:00Z
@@ -204,6 +209,20 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-122421,msid-80563839/amazon.jpg"
         width: 600
         height: 450
+        isCached: true
+  - title: "SoftBank’s Son expects mass production of driverless cars in two years"
+    excerpt: "SoftBank Group Corp chief executive Masayoshi Son said on Friday he expects mass production of self-driving vehicles to start in two years."
+    publishedDateTime: 2021-01-31T13:38:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/02/01/softbank039s-son-expects-mass-production-of-driverless-cars-in-two-years"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/01/31/1027826.jpg"
+        width: 1240
+        height: 826
         isCached: true
   - title: "California OKs China’s Baidu for Testing Self-Driving Cars Without Driver"
     excerpt: "Baidu Inc. has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor"

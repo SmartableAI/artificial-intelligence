@@ -23,22 +23,6 @@ images:
     height: 270
     isCached: true
 
-related:
-  - title: "HHS Makes Strategic Moves to Achieve Ultimate ‘Artificial Intelligence Ambition’"
-    excerpt: "A recently produced enterprise artificial intelligence strategy is now in place to guide the Health and Human Services Department’s ongoing and upcoming efforts involving the technology. The 7-page document outlines a strategic approach to broaden tech fluency and accelerate AI-centered pursuits across HHS—and it also establishes an AI Council to help facilitate the massive health agency’s overall implementation."
-    publishedDateTime: 2021-01-26T22:03:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2021/01/hhs-makes-strategic-moves-achieve-ultimate-artificial-intelligence-ambition/171647/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 34
-    images:
-      - url: "https://cdn.nextgov.com/media/img/upload/2021/01/26/NGai20210126/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
-
 secured: "pf9hnRrvI3wTYtqT7yX8NmnUdBvaNGoBT1ycFjrzorFsf8qiXcoW9dxVx6M9pkVWsi0wqgHbSrsXh92F4B7q3HEyO2E46tpcGhSsZ7mCZIpLOTT/wj7SAcBYWjYBHbS9H0itzWwAZqV6HIzz7hBSx887EkQp4Ca/S3/HfdzDaI3Hk9wCI/9T+K1gHCm+7GqclpKAlieNIWBpwSsfuPcvDJ9lnkHmgHU6f920uDdQwh0PnBaFS5PYDH0vsUXXpesE02pdhcg3g+f3HIel8aTYLhR0PS3Ac4KFXV9KEzksst7xxUoY6f50hCay3hDnnlTtP86CyOqFl5TZvg0pecNACkGB9gWNIGSSXpmJmp+jHU6gAv//yhHSZQOWZV5KSJJ05fhInLPBFMo9JWnn9nrXWqnsrGL+A/spIaJYUrz7CJahh4kh2kJ5srnFdVafVmZICoh7Co1YDU3+T5My69vBr7M6aZkmlp0raZXhEjZRMhCmzHnVaV0Dllv2GFq61cVelS8+BkQItstGRgovam0jsQ==;7hOISO0sjVx0eq8GtIBU9g=="
 ---
 

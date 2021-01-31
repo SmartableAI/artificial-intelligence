@@ -243,19 +243,19 @@ related:
         width: 900
         height: 552
         isCached: true
-  - title: "New facial recognition Technology to be installed at North Country Incubator"
-    excerpt: "New facial recognition Technology to be installed at North Country Incubator Clarkson University is partnering with Precise Biometrics to"
-    publishedDateTime: 2021-01-29T13:51:00Z
-    webUrl: "https://www.compsmag.com/news/technology/new-facial-recognition-technology-to-be-installed-at-north-country-incubator/"
+  - title: "New Facial Recognition Technology to be Installed At North Country Incubator"
+    excerpt: "Clarkson University has teamed up with Precise Biometrics to install Precise’s YOUNiQ facial recognition for facility access in the North Country Incubator – part of Clarksons"
+    publishedDateTime: 2021-01-29T13:35:00Z
+    webUrl: "https://www.clarkson.edu/news/new-facial-recognition-technology-be-installed-north-country-incubator"
     type: article
     provider:
-      name: Windows
-      domain: compsmag.com
+      name: WTSC-FM
+      domain: clarkson.edu
     quality: 36
     images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/New-facial-recognition-Technology-to-be-installed-at-North-Country.jpg"
-        width: 2560
-        height: 1662
+      - url: "https://www.clarkson.edu/sites/default/files/media/image/2021-01/youniq-access.jpg"
+        width: 7541
+        height: 4896
         isCached: true
   - title: "Facial recognition regulation proposed in NJ, urged in NY; Chinese uncomfortable with status quo"
     excerpt: "The legislation proposes a moratorium on biometrics collection by state agencies, and restrictions on private sector use of facial recognition technology."

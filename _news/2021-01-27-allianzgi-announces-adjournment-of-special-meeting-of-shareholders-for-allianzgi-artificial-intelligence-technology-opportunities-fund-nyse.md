@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AllianzGI Announces Adjournment of Special Meeting of Shareholders for AllianzGI Artificial Intelligence & Technology"
-    excerpt: "Janu"
-    publishedDateTime: 2021-01-26T21:51:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2021-01-26/allianzgi-announces-adjournment-of-special-meeting-of-shareholders-for-allianzgi-artificial-intelligence-technology"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 44
-    images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AllianzGI Artificial Intelligence & Technology Opportunities Fund Reports Results for the Fiscal Quarter and Nine Months Ended"
     excerpt: "January"
     publishedDateTime: 2021-01-30T12:17:00Z

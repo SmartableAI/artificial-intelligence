@@ -1,27 +1,27 @@
 ---
 category: news
-title: "New facial recognition Technology to be installed at North Country Incubator"
-excerpt: "New facial recognition Technology to be installed at North Country Incubator Clarkson University is partnering with Precise Biometrics to"
-publishedDateTime: 2021-01-29T13:51:00Z
-originalUrl: "https://www.compsmag.com/news/technology/new-facial-recognition-technology-to-be-installed-at-north-country-incubator/"
-webUrl: "https://www.compsmag.com/news/technology/new-facial-recognition-technology-to-be-installed-at-north-country-incubator/"
+title: "New Facial Recognition Technology to be Installed At North Country Incubator"
+excerpt: "Clarkson University has teamed up with Precise Biometrics to install Precise’s YOUNiQ facial recognition for facility access in the North Country Incubator – part of Clarksons"
+publishedDateTime: 2021-01-29T13:35:00Z
+originalUrl: "https://www.clarkson.edu/news/new-facial-recognition-technology-be-installed-north-country-incubator"
+webUrl: "https://www.clarkson.edu/news/new-facial-recognition-technology-be-installed-north-country-incubator"
 type: article
 quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Windows
-  domain: compsmag.com
+  name: WTSC-FM
+  domain: clarkson.edu
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/New-facial-recognition-Technology-to-be-installed-at-North-Country.jpg"
-    width: 2560
-    height: 1662
+  - url: "https://www.clarkson.edu/sites/default/files/media/image/2021-01/youniq-access.jpg"
+    width: 7541
+    height: 4896
     isCached: true
 
 related:
@@ -356,6 +356,6 @@ related:
         height: 322
         isCached: true
 
-secured: "89gQ0832FT6oSi+3RaAOuVmh4BLPG9IOqRXJPWEFO12APX7JvRQxms0PYNTzu4D8E3OurfXNjVa08sGqemdZsDmz8vO5akbdOydd0l5DUkzVDCPEamRIt2+FSOaagAyjVoXi5kAJQ1WpKwiuJs3KnaDsXbST/PHaNVxndqw9tLEqw1Mn+5Zcoh9GoEmpEO6e4Sw43vv5NbVj+IFtmtSps52t0BXxorhfLbEP7J/XLUdi5I8PmzviYzRar4e4xTpQdxQ1LRx+rBIuojYAWNWgNDLilbJY4z8uw7BvPaU63U6ULCO4ZUeiSYQOSjQexn74m4SRu+1dpOMTGyg8KBU2AjQpeTSHwfvW427RBG0jSIyHMr11GnqcnTQgXlVJ8EQ9oNlyF9W/3btK8z3MgpI6nl/zjAP47wPKAHjL1kPr2/njXJHq3iFQs3E7/mA1LrW07U1bGwEwax93CZZpulyEIjO8UdlBNVjOUUmEsnUOmY8uGbM9cIsAnua/OZIaE3Q5KSaVETYAvAe8c4H44cNlMw==;9I9cuJIxoXyNPPvgDmb5Kg=="
+secured: "s4eVkq+ZBVcboDa3PiyshzJy5hRpo8dGy29QoDCHPiu4bkYfosbz6KEhhinIlZQBIESYxTP46W5AttVjB7FdXTBKr5vsjSOaid45IUgxBIhHpmUmCBHWDdU24MJglzNf15izFXxjry++Mtjo35f7Japbcp0257kqaxby+NXnGrsOpAjm8fjp1NPm0EN1sn4x8PAryxfqf/hwcqZ3J4TtA5prZAGs72cc2dvRIFv4oUoqzyEmrle/Kfj+Jb+pU9hO6UusVCJNFJMiVZjhYmkSoo4tFEBaoDv3IeNY1okTj+qtkLHYi8P9xQah1p84QecwDiOLtS4cHd1PNR9LqneQldCQ95rxCSuKu2z6YnEiWgs=;NZXwlhe2ovdxe9v8LxWIPQ=="
 ---
 

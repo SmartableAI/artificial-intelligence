@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/glenngow/2021/01/31/mckinsey-winning-co
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2021/01/31/mckinsey-winning-companies-are-increasing-their-investment-in-ai-during-covid-19-what-do-they-know-that-you-dont/amp/"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI in Insurance: How three forward-looking insurers are infusing AI into their front, middle, and back offices"
+    excerpt: "Insider Intelligence assesses the business impact of forward-looking insurers implementing AI in their front, middle, and back offices."
+    publishedDateTime: 2021-01-29T06:55:00Z
+    webUrl: "https://www.businessinsider.com/1-31-2021-ai-in-insurance-report"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+    images:
+      - url: "https://i.insider.com/60144cb2a7c0c4001991de31?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Pro-Vigil Research Finds 20% of Companies Experienced an Increase in Physical Security Incidents Since the Start of COVID-19"
     excerpt: "Vigil, a provider of remote video monitoring, management and crime deterrence solutions, today published a research report indicating that a significant number of companies have updated their security strategies in the wake of the COVID-19 pandemic."
     publishedDateTime: 2021-01-28T08:17:00Z
@@ -45,6 +59,6 @@ related:
         height: 450
         isCached: true
 
-secured: "vdEM2vCYVJbqlPXmcx/Hf0uBkzjIkGs7gRSwupEWhzBiz8TmqH/7kh00DR+27m/9ZOTBYW8F/Gfp198uqmLJ0fLtllWrgctgy+xUXoGQnNrxlxqaQ3EkiK4BS5AqH3KcrR3EdWTpkA1xzAJGJd28eV6lSZ+0rQJGJ8eBD7rba8YjoUNxs3Xf/gfnsHNpYbfBM5ZMatNdSYopYG+fGXrOmC9OpHBVHnmSib0dHH/MBaENfq+Ls5sKft40QC3iu7+RVTIPXeWx5Qv6EdJn6Qthl1j7Nt+LxVRjaxkT3c/P41/5z8rhIEV8szgpPy2EjwtNPJPGNTOafh63zxrljQYtgNnm4PZ+jrB+P51XrOlozjo=;MZmNVGqftJ1gmf3AbHr1tA=="
+secured: "x3TzCMmkgbk1JW5Fu3VKI2+aehTCBtj5n+m9Y+nYY9BMvbuWzokDkTD1KQETJbRslABY6TKfzHMtxfEidoU3laoLVeJscFd1xZ+x8d5sSVbcuCVpPJlPgwS5Z28MlsXGA2L4xrUJTxkDBrPwYR3S33oLf/Dhpki6cDviJtYn6z4LdfqEqEyaN/SfyHEqaF/vbXYfNxvVvmrtknmwvW7yuFTlSeEA6OOOTxzhH6S8d+XeeOYVcX0Uyw098tR3AponBPaN8lZyTpnegj1/XOWa6bgVjvL0DJy9kHpBZidXN8kuxq3Ms+C6jSJ/6/tX17TXXTY2D217lqVvMW9fIje++H0hbvcncsLN36rOaGpr+A+KVr66yL8LfTIjbUHi/h4LIdPz7YSCaax60/H2JjN3OXlmEKAUl9AbBIfQAo4pcD7MyC0+q/Gjy3obAHofNSBl8H5jR8oVPzvEBEehAD3Z7JBdz+s/FhQMi8ZCFH2UDfNbqu/qxovrzZ2mz6clEZNSuSSw1GfG5WrzLj0VkuVhgg==;iJ06TLMnFoJNQDuby2NmSg=="
 ---
 

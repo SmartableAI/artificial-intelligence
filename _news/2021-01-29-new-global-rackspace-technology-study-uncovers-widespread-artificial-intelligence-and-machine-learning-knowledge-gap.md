@@ -49,7 +49,7 @@ related:
   - title: "New Global Rackspace Technology Study Uncovers Widespread Artificial Intelligence and Machine ..."
     excerpt: "Rackspace Technology™ (NASDAQ: RXT), a leading end-to-end, multicloud technology solutions company today announced the results of a global survey that reveals that the majority of organizations globally lack the internal resources to support critical artificial intelligence (AI) and machine learning (ML) initiatives."
     publishedDateTime: 2021-01-28T17:09:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-58e522140b27005e2132ba0042f5dea7"
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-new-products-and-services-58e522140b27005e2132ba0042f5dea7"
     type: article
     provider:
       name: Associated Press

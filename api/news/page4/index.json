@@ -919,6 +919,49 @@
       ]
     },
     {
+      "path": "_news/2021-01-27-sales-startup-insentai-raises-2-million-to-expand-its-data-strategy-with-automated-chatbots.md",
+      "title": "Sales startup Insent.ai raises $2 million to expand its data strategy with automated chatbots",
+      "excerpt": "B2B enterprise sales platform Insent.ai has raised $2 million to expand its data visibility and automated chatbot integrations.Read MoreRead more",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/sales-startup-insent-ai-raises-$2-million-to-expand-its-data-strategy-with-automated-chatbots-9735019",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/sales-startup-insent-ai-raises-$2-million-to-expand-its-data-strategy-with-automated-chatbots-9735019",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/sales-startup-insent-ai-raises-$2-million-to-expand-its-data-strategy-with-automated-chatbots-9735019",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/sales-startup-insent-ai-raises-$2-million-to-expand-its-data-strategy-with-automated-chatbots-9735019",
+      "publishedDateTime": "2021-01-27T04:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2021-01-27-synthetic-biology-partners-with-ai-to-delete-food-allergies.md",
       "title": "Synthetic Biology Partners With AI To Delete Food Allergies",
       "excerpt": "Binur and fellow co-founder Yanay Ofran began Ukko in 2016 in an attempt to shift the paradigm on food allergies. Their mission seems to have struck a chord. The company recently announced a $40M Series B funding round to advance its efforts in ending food allergies for good.",
@@ -1219,50 +1262,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-ai-and-ml-in-intelligent-analytics-can-drive-the-efficiency-in-business.md",
-      "title": "AI and ML in intelligent analytics can drive the efficiency in business",
-      "excerpt": "The role of AI and ML in intelligent analytics is quite fruitful as it quickens the data transformation process. Artificial intelligence and ML frameworks exist that utilize analytics data to assist businesses with foreseeing results and effective blueprints.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/the-role-of-artificial-intelligence-and-ml-in-intelligent-analytics/",
-      "originalUrl": "https://www.analyticsinsight.net/the-role-of-artificial-intelligence-and-ml-in-intelligent-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/Intelligent-Analysis.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-26T22:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

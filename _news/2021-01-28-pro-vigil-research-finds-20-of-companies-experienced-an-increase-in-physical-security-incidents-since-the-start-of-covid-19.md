@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 684
         isCached: true
+  - title: "AI in Insurance: How three forward-looking insurers are infusing AI into their front, middle, and back offices"
+    excerpt: "Insider Intelligence assesses the business impact of forward-looking insurers implementing AI in their front, middle, and back offices."
+    publishedDateTime: 2021-01-29T06:55:00Z
+    webUrl: "https://www.businessinsider.com/1-31-2021-ai-in-insurance-report"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+    images:
+      - url: "https://i.insider.com/60144cb2a7c0c4001991de31?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "u1jUVF9FOyAS4bIehApWMk0UX8rF/w6Wt/E/5wGgsz9qOgNH81NWpp4dyXRXYjmpRXsLcv9A0N2VUO7/7x7vyiNfASKE8Co2Yt2k7/rFnb0KIoLz36Yr66MOjIC2UFrMirZoM7+P8ORTqJ0t/J3WXYPTeFkdPxzd6QjEEfLUVb9nHukJt62zII8/rTpfHZT4UTtpB5lBzOEdRTF28RmphKkLF/Gcr2kdHhxe3i2vLBj+W23eMgktcMcYxetf97z5I5G9zQroAg61RaOOBKZg5qqR6damraYDxzG/AbAd8OIbow1tHHSwt2qb4bD70kHCkYpJk9hccCrxwJUDpYUGe3wHeqLkxxKJ/U96YIlkTsU=;sdSUerSuopsTqHU3v1hwpA=="
 ---

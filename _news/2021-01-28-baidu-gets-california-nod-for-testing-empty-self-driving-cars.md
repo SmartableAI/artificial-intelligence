@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Baidu Gets California Nod for Testing Empty Self-Driving Cars"
-excerpt: "Baidu Inc has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor Vehicles said on Wednesday. Although self-driving vehicles are designed to eliminate the need for a driver,"
-publishedDateTime: 2021-01-28T09:25:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2021-01-27/baidu-gets-california-nod-for-testing-driverless-vehicles"
-webUrl: "https://www.usnews.com/news/technology/articles/2021-01-27/baidu-gets-california-nod-for-testing-driverless-vehicles"
-ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-01-27/baidu-gets-california-nod-for-testing-driverless-vehicles?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-01-27/baidu-gets-california-nod-for-testing-driverless-vehicles?context=amp"
+title: "Baidu gets California nod for testing empty self-driving cars"
+excerpt: "Baidu Inc has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor Vehicles said on Wednesday."
+publishedDateTime: 2021-01-28T02:37:00Z
+originalUrl: "https://www.reuters.com/article/us-baidu-autonomous-idUSKBN29W2OT"
+webUrl: "https://www.reuters.com/article/us-baidu-autonomous-idUSKBN29W2OT"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29W2OT"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29W2OT"
 type: article
-quality: 69
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210127&t=2&i=1549286737&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0Q1KU"
+    width: 817
+    height: 545
+    isCached: true
 
 related:
   - title: "Baidu is the sixth company approved to test fully driverless cars in California"
@@ -204,6 +210,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "SoftBank’s Son expects mass production of driverless cars in two years"
+    excerpt: "SoftBank Group Corp chief executive Masayoshi Son said on Friday he expects mass production of self-driving vehicles to start in two years."
+    publishedDateTime: 2021-01-31T13:38:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/02/01/softbank039s-son-expects-mass-production-of-driverless-cars-in-two-years"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/01/31/1027826.jpg"
+        width: 1240
+        height: 826
+        isCached: true
   - title: "California OKs China’s Baidu for Testing Self-Driving Cars Without Driver"
     excerpt: "Baidu Inc. has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor"
     publishedDateTime: 2021-01-28T17:34:00Z
@@ -219,6 +239,6 @@ related:
         height: 300
         isCached: true
 
-secured: "nQe0nx4+WjSf+0tQm7w1+pr/tp3SFtQD6bPG5bjA1RgQS//qjq2kA5tuFZU+L09J0GtTQtbVV5BrBZjIgvzxUNDTvICOzPHQ10IlcBi61Ehl2W9H2NTxl5Fz9nnVtX7OQ2/K/8nMMOUIQgu342k6mLXGhGJhli84/xDLi7xpnT4FopXCIe7CxbBvXGM8ax1v62HAniiizjdq2WNpcqVbaepnR7p8tz1zJUNAYqk3RIV1UhNm+Pm9wyycIwMAsNCe1vfdAf3fcU1XprzEaozotY1zfUihnrroajMcmft1D6Eg9bX9i0yde4eGQUF2W7FIitdDe1V+dkSYAZJ0UGQ8tTo9tR+NvTh/fQ2//XyxWWLWaYs2EsBFt0Lw43p+baR6UVTswfgfHJQl5FX2y4H3Harc7hStZUVNzxw4TxtrLX1xiu1w13MLoFcEGNTmPwXXzReX5Za7W+2Odfpn6j3RkeFWmONLhzX6+zGTfHwtdOu+PZrazAyv6Fc5RTcvJMWdAr0jLnQowVQyaEfYR1yXIg==;yxcMqv9yTO9xh5xHfdk0Mw=="
+secured: "NwDuXNcjNp4Y/wwvWzKzy3Y+k2mPmM1ta5jICwW3cDu8Pl1gYCHdHFUvLsklSY7N007yNzr0zt2kARrYNvEhhyIA+hyUsOR0NWd0foqE3A4aHwLoHOocHjyRD2vHCjdnLmZz2F7LT7N443QSCAWcAAq6NpyLERmeHHTsxufQqd+8d1pRmJpZ5QXEhIv1Wibum45zvyKA3sfeBGSvP/Uyll/GvF91ojaoL4ysxZrpfYlKAC47P9dsMX0YoQNj1TwcyJk8bBMlWvAvjmjjbHiDAKLdfwSIGm0mx6jck1FDLTyvTb43+0vRifxpvoXfE9CLehCpdUw7n+cpb1jMI9sqbWc9vMhY6bGZ3knHb9co7A4=;Rynww3dLYXcOplZSQA3eGA=="
 ---
 

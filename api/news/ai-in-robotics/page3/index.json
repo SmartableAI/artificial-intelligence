@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-12-ai-devs-claim-theyve-created-a-robot-that-demonstrates-a-primitive-form-of-empathy.md",
+      "title": "AI devs claim they’ve created a robot that demonstrates a ‘primitive form of empathy’",
+      "excerpt": "Columbia University researchers have developed a robot that displays a \"glimmer of empathy\" by visually predicting how another machine will behave.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/01/11/ai-devs-claim-theyve-created-a-robot-that-demonstrates-a-primitive-form-of-empathy/",
+      "originalUrl": "https://thenextweb.com/neural/2021/01/11/ai-devs-claim-theyve-created-a-robot-that-demonstrates-a-primitive-form-of-empathy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/Untitled-design-2021-01-11T181530.219-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/01/11/ai-devs-claim-theyve-created-a-robot-that-demonstrates-a-primitive-form-of-empathy/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/11/ai-devs-claim-theyve-created-a-robot-that-demonstrates-a-primitive-form-of-empathy/amp/",
+      "publishedDateTime": "2021-01-11T11:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-samsung-unveils-trio-of-new-robots-to-help-out-around-the-house.md",
       "title": "Samsung unveils trio of new robots to help out around the house",
       "excerpt": "Samsung has unveiled a range of new robots designed to help out around the home – capable of filling the dishwasher and even pouring owners a glass of wine.",
@@ -1298,49 +1350,6 @@
       "provider": {
         "name": "Daily Camera",
         "domain": "dailycamera.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-of-animal-bondage-andre-nortons-iron-cage.md",
-      "title": "Of Animal Bondage: Andre Norton’s Iron Cage",
-      "excerpt": "She and her husband were colonists on a newly discovered world, and were captured and taken offworld to serve as mind-controlled slaves. But Rutee and Bron could not be controlled, and their young ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tor.com/2021/01/04/of-animal-bondage-andre-nortons-iron-cage/",
-      "originalUrl": "https://www.tor.com/2021/01/04/of-animal-bondage-andre-nortons-iron-cage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/www.tor.com/wp-content/uploads/2020/12/Iron-Cage-Norton.jpg?fit=300%2C+9999&crop=0%2C0%2C100%2C496px&quality=100&ssl=1",
-          "width": 300,
-          "height": 496,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-04T13:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tor.com",
-        "domain": "tor.com",
         "images": null,
         "publishers": null,
         "authors": null

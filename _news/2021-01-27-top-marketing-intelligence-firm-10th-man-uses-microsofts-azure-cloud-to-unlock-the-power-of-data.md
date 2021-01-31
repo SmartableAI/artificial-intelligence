@@ -192,20 +192,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Bitscape Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
-    excerpt: "Jan 29, 2021-- Bitscape today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge, extensive experience and expertise in migrating Windows Server and SQL Server-based workloads to Azure."
-    publishedDateTime: 2021-01-29T08:46:00Z
-    webUrl: "https://apnews.com/article/technology-business-north-america-software-industry-cloud-computing-69d0d9117c084002ac90f60f0bccbff3"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 36
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "UnitedLex Integrates Microsoft Cloud to Globally Scale Digital Transformation of Legal Services"
     excerpt: "UnitedLex, a leading technology and legal services company, has integrated Microsoft Cloud services to globally scale UnitedLex Vantage, a holistic, turnkey technology platform built to revolutionize the customer experience and transform the legal function into a first-class digital citizen."
     publishedDateTime: 2021-01-28T08:01:00Z
@@ -220,6 +206,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Bitscape Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
+    excerpt: "Bitscape archives Windows Server and SQL Server Migration to Microsoft Azure advanced specialization and joins group of select few Microsoft partners."
+    publishedDateTime: 2021-01-29T13:01:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210129005073/en/Bitscape-Has-Earned-the-Windows-Server-and-SQL-Server-Migration-to-Microsoft-Azure-Advanced-Specialization"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 16
 
 secured: "U9Oo6bY4+M6teeWbprZV7iiqzT93Mm+aGIII4ITIBnNXkG/jC1bjMakSAMpCwqA2BI7G1vs9arSIRka26CzL7i+2clFkKr4OW6rjj0Zi98jPCFoEnuHgRdGJbMYjJZkFL74650NYEsjXqoEP9Djundux1ikhmBgpNBC7ajzXfoZmezc9NVXePZd2psz6NRrKjBsgEvcqCf4e4b7s97qIzYc42ugAVcuSJ554eDQqcN5eEr1/CaVkTcAYXDkSuZBGZtk9mgRnkgiqyo/BFmV2DQ90htCrxBJUMUIsQ68mJURLHS+SBNZl+VuTR1AOGp9a/rIc0ecLhz/VFKCJr0O85SHg1bmW4GARtSqU0E2Hht4rSwDswp8d2nFZlRCcLC6eezCx8sHZy/5kJE8D6RtiDix7sGp6ELTuykqj4W/Soqq3Nip/P+8zOSPJVsQmNaabM5u6yUIf/24CExVLnm8GdV/y9v7LT73wvLj90tzU59/f90di6+vTO3UBOoJV/ii1DBVq6Zp/IcJcVLyR9CmFGQ==;tVx18Q5NdVCOFG6clVGTzg=="
 ---
