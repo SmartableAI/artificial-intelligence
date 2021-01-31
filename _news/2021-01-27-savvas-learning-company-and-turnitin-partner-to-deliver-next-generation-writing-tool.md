@@ -53,15 +53,6 @@ related:
         width: 800
         height: 272
         isCached: true
-  - title: "Pindrop and TiVo Partner, Simplifying Video Streaming Content Discovery with Voice Enabled Personalization"
-    excerpt: "TiVo and Pindrop have partnered to deliver a streamlined content discovery experience for consumers, unlocked through voice AI. \"Contextual awareness is key when engaging users through a Natural User Interface."
-    publishedDateTime: 2021-01-26T14:02:00Z
-    webUrl: "https://www.oaoa.com/news/business/pindrop-and-tivo-partner-simplifying-video-streaming-content-discovery-with-voice-enabled-personalization/article_2b3acbe2-04fb-553a-888b-629863257ab8.html"
-    type: article
-    provider:
-      name: Odessa American
-      domain: oaoa.com
-    quality: 0
 
 secured: "booxITiU7zBQuw7n0lbhtAWHc7RsRSfypmf+0FZs7WI5qDStElB674SunA5vyjPcteU3Wu2yI6OAQvBGf2gHcSKa8cr6JSyQkkCxv7/DuW9d3A3fVBJM/S0aEsAgEHACo2sSrdytWAs6vWbi91hCfLI/6eanNRnBh7lmaJen56JknA3leY8gqKfo+aDHduqMtb4mRE9dCOi6bwoVItitPw3Oggv8FRmJGZnfbu9LAtmxQV2QGTlELpOTYhA4igQXdaTSZxFILZP6wyD+BwwfC7N514P/4NJsiqd6Wg/n150NaajQ5bvdCwPDnlEIWIA9742ViJ3uRUFvFZzV8GqRJq094VUOvAloBXJEgUGgL98=;w1RGby3wokXf5PoZwndqVg=="
 ---

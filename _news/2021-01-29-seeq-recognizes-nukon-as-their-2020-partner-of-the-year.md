@@ -3,8 +3,8 @@ category: news
 title: "Seeq Recognizes Nukon as Their 2020 Partner of the Year"
 excerpt: "Seeq Corporation, a leader in manufacturing and industrial internet of things (IIoT) advanced analytics software, today announced Nukon as its 2020 Partner of the Year."
 publishedDateTime: 2021-01-28T20:47:00Z
-originalUrl: "https://www.automation.com/en-us/articles/january-2021/seeq-recognizes-nukon-2020-partner-of-the-year?listname=Automation & Control News & Articles"
-webUrl: "https://www.automation.com/en-us/articles/january-2021/seeq-recognizes-nukon-2020-partner-of-the-year?listname=Automation & Control News & Articles"
+originalUrl: "https://www.automation.com/en-us/articles/january-2021/seeq-recognizes-nukon-2020-partner-of-the-year"
+webUrl: "https://www.automation.com/en-us/articles/january-2021/seeq-recognizes-nukon-2020-partner-of-the-year"
 type: article
 quality: 24
 heat: 24
@@ -24,6 +24,6 @@ images:
     height: 313
     isCached: true
 
-secured: "JLl+PFfPWGJqi419z/YuzjYdFeYHnG8vIHCRNFk2/4CRGGEiiyYn/4upWHjjMJvgoqTpon4MOEVl21BgEzPt0+f+AEtENdG+i5Uv1P2RhrIhqP9mDIecN+ciDJ1OwJk7+mcoJ9cVdPrlGsKGfbkKWBQNwPMfUArKjAB6CXMTb4v9+HSvrMm9Fm4q4WaHA8n1A3bgtwil2Ju4ICdlu0vGR3ckpEPJ+9qpLbhqZ/8O/xV4urCypDh4HFAluWG8qNGdxbMpNeKPl3M1r9Ob3pO3s/VWDFj7zhLakn4HzAMXnH1YJii/jaPwt4gGPQI53JUhrNqTAELINf2Og7dJPGBfCaQlxVQ0b7pQOI5RQsh8FOSUmFLuB9nFYwUfsVVbmEMUBQZLQyHALX6gWmvVtmwGM1X5S93YCF3WG+2sNl+k11F2r9W66B3WOrOBVlPKPKVTR60iIid9ZR9PwYFemfD6JUl+jiMMu1Q/bixWDWW5J8sk8ygieZW5F8aKmYxMpBFpUoJgU8eZBWjgzuBeqJJyHg==;MZCUsC8hRS30ckjb/dl82w=="
+secured: "H9XLsWdy2Un+a1N8obTx5uGxWXVr1vuYrbHIiCfld/mbY9jrEdJ03yAH8DGPtvAY9VR0RPRi6PwELxFEXkkfR2frTzE3HeveysB/si0wvNH31Zakv8cS4AmQZMgKC7CnawNW08GzDWf7uhN8GiFOqDpX7d6qC+4xKS21nIloFP19rIh/JTSqNYe3pkn8DKWN9Q6LDn3V6rPaF+wnqrcFXykYgZtU1TUAw9PU9OVAj8iZpHrxClRWACE1N4g/M5cNO6djD4b0VgP0Qjlu2eceioYjBGgH3KnYF1l9gWWysfGiHWt9jZbG+vg/E02OkJztEQH7B+KzRaGC79JKN4EoHRMoxJkgSF3ppjf6h9m5eSY=;59pjtQojWWmpxNnN44VXLQ=="
 ---
 

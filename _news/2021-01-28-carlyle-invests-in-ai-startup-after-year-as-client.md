@@ -42,6 +42,20 @@ related:
         width: 560
         height: 300
         isCached: true
+  - title: "The Intersection of AI and Talent Strategy in 2021 | Part 2"
+    excerpt: "See the key findings of Northeastern’s “Intersection of AI and Talent Strategy Symposium,” and learn how COVID-19 is changing AI and talent strategy in 2021 and beyond."
+    publishedDateTime: 2021-01-26T18:38:00Z
+    webUrl: "https://www.northeastern.edu/graduate/blog/ai-and-talent-strategy-part-2/"
+    type: article
+    provider:
+      name: Northeastern University
+      domain: northeastern.edu
+    quality: 39
+    images:
+      - url: "https://www.northeastern.edu/graduate/blog/wp-content/uploads/2021/01/Copy-of-Untitled-8.png"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "HED1vlDGmyUL75Q3mj+gN5qi07D3Va1y0fKIPmiNfGbvxP49PzHm5LMwrHTOFGXsiNeJ2KgN9F4YoiTA8kUvkc4141JgF4jLkUWJX1z8GoKHqmOSsZZxfHpeum0tqs3OQcy5d+TPWxFWvtd7GwXG4BHRubhc4N4wfvMYWBDXTt3T1LSFp4sHeHYmDuQ56d6gT7g+8VwBQEcCnIfyLjYfonQF1gD+sNJ+0ppd34SajZ9RcfQHH6J2pBViP8NwQTQ6WKk5W0Fue1s20/A5GP5JiUmuLiCbUPOU5YqP6U1c+Woo8FZOkv2S1gfINavt0rhcqQebgHy+fb7DCJVm1XgNUG0/IV9xqf+bwC4vQixpLyCJOunLXsjfC95obpBmD4mCvrOf81I1sS3I9p4Wu6raxM4QxXR8+HN2dUmihRdhxFdOXVd2ef2wIi+37OHZvsAYZm7VmvwGRUa4aYsNNcAsoKRgYqW+lzMHr0qnr2BS4GA82fyBAlNxTVa20B1eauc1ycRNjZ/v7Y8g+aLyX6Hksw==;3/iHVgpXYKXAhk+kBq1Zxw=="
 ---

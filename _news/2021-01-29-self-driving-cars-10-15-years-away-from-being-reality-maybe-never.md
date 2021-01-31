@@ -59,6 +59,20 @@ related:
         width: 590
         height: 400
         isCached: true
+  - title: "App will help visually impaired, seniors enjoy ride-sharing with self-driving cars"
+    excerpt: "A research group led by the Virtual Environments and Multimodal Interaction Laboratory (VEMI Lab) at the University of Maine is developing a smartphone app that provides the navigational assistance needed for people with visual impairments and seniors to enjoy ride-sharing and ride-hailing."
+    publishedDateTime: 2021-01-29T18:56:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-01/uom-awh012921.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 33
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Self-driving scooters to keep cruising Peachtree Corners"
     excerpt: "Self-driving scooters are on a roll in Peachtree Corners, where residents will continue to see them cruising through Atlanta Technology Park without a driver."
     publishedDateTime: 2021-01-29T19:14:00Z
@@ -73,15 +87,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "App will help visually impaired, seniors enjoy ride-sharing with self-driving cars"
-    excerpt: "Self-driving cars will offer access to ride-sharing and ride-hailing with their suite of modern conveniences. However, many people with visual impairments who use these services rely on a human driver to safely locate their vehicle."
-    publishedDateTime: 2021-01-29T21:36:00Z
-    webUrl: "https://7thspace.com/headlines/1441584/app_will_help_visually_impaired__seniors_enjoy_ride_sharing_with_self_driving_cars.html"
-    type: article
-    provider:
-      name: 7th Space
-      domain: 7thspace.com
-    quality: 13
 
 secured: "3af1yeIM8utA2nLjlhK8ysuPt5tEzMYno5O6sqW3xn4Ea3yKjEEz5coxtJb7Mrqm7WkD7IXND0Iw2wsTuI+2T/ucP7mRe2IdYHRe7C8s52+fap74ixklD02PkcOWfIMFozR6/DqLvtAphTTyx+SusjUhi+88T/tsEEgPUZMVKJNaCIIktfIUJrkDwA4ATEZWseJMlaPQ3Jc8jjq7PrT+mTCU20MbKBxdJxFE2i2O6NjQXTKEz04vc1iLLIhdoA/xpCU3jO/dI7auteJbkI2FWBwEwsfblzw5DYxSYWzvmA8bFH2I+6cCcfbCpSJ48g2bgAwIQ3dUs6NqYQz18ZdDdiVmeTk3j6VmW9Y2eWJkT2U=;rhilQ80jN2Zgasf+Qmnksw=="
 ---

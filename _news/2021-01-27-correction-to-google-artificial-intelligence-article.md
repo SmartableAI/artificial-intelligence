@@ -29,6 +29,20 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 67
+  - title: "Speech Processing Solutions: Next-generation Workflow Solution With AI-powered Speech Recognition, Now in Australia"
+    excerpt: "The new version of the Philips dictation workflow solution for enterprise businesses, SpeechExec Enterprise 7.0 (SEE 7.0) is now available in Australia. The close collaboration between Nuance Communications and Speech Processing Solutions,"
+    publishedDateTime: 2021-01-28T08:01:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-australia-oceania-voice-recognition-computing-and-information-technology-47f0b2ed891945d782c47422affab686"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 32
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "fIeq2ENzf2K0vo/Zo+ScC+JeKJaUBWSt2hpjqdFA9Z2/Ku78QNuwaiUohX3Srsjic9rjGVyorukz0719gXgytQf9+8heEyzdGiZTxN65a1WqTgSm6ycXC5gSRd+sBn23qQUqJIsKxbvpZRw9C9KhsnsAC3kOaMyBVosDoJuNOYAPO48mwMG0F6kYTK2+OhN28/QUzLcjKa1v6h35AEM0KHomw2Wl4sClNgEH6N8aMvqwuKO43XJV95erW7KLOalHx3FDcAWvhJ7b/UDagXCRzD+KUf1i+9raqBnSDnl2r22WXXHGHMATdtyDEz5PJFE/rtuDudWJ4SBL+k9Rv4o37VabyviRLr+AVDGllWlTUQE=;zqaAEhCPWnaWTbIeGxFBaA=="
 ---

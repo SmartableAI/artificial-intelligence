@@ -35,15 +35,6 @@ related:
         height: 630
         isCached: true
   - title: "Synaptics Expands Family of AI-enriched, High-Performance Multimedia SoCs for Mainstream Set-Top Boxes, Smart Video Devices"
-    excerpt: "Synaptics ® Incorporated, today announced customer sampling of its VideoSmart™ VS640, a next generation edge computing SoC that is AI-enriched for emerging set-top boxes, streaming OTT devices, video soundbars and smart displays."
-    publishedDateTime: 2021-01-26T13:02:00Z
-    webUrl: "https://www.nasdaq.com/press-release/synaptics-expands-family-of-ai-enriched-high-performance-multimedia-socs-for"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 25
-  - title: "Synaptics Expands Family of AI-enriched, High-Performance Multimedia SoCs for Mainstream Set-Top Boxes, Smart Video Devices"
     excerpt: "Synaptics® Incorporated (Nasdaq: SYNA), today announced customer sampling of its VideoSmart™ VS640, a next generation edge computing SoC that is AI-enriched for emerging set-top boxes, streaming OTT devices,"
     publishedDateTime: 2021-01-28T17:34:00Z
     webUrl: "https://www.globalbankingandfinance.com/category/news/synaptics-expands-family-of-ai-enriched-high-performance-multimedia-socs-for-mainstream-set-top-boxes-smart-video-devices/"

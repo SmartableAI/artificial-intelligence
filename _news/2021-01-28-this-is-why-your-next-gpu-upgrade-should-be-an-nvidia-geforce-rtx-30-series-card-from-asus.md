@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digit.in/article/amp/pc-components/58234/this-is-why-you
 cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/pc-components/58234/this-is-why-your-next-gpu-upgrade-should-be-an-nvidia-geforce-rtx-30-series-card-from-asus"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Nvidia GeForce RTX 3080 mobile review: The fastest laptop GPU just arrived"
-    excerpt: "Nvidia’s new GeForce RTX 30-series laptops offer very impressive graphics performance, even compared to some of the biggest and heaviest laptops around."
-    publishedDateTime: 2021-01-26T14:00:00Z
-    webUrl: "https://www.pcworld.com/article/3604615/nvidia-geforce-rtx-3080-review-the-fastest-laptop-gpu-just-arrived.html"
-    ampWebUrl: "https://www.pcworld.com/article/3604615/nvidia-geforce-rtx-3080-review-the-fastest-laptop-gpu-just-arrived.amp.html"
-    cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3604615/nvidia-geforce-rtx-3080-review-the-fastest-laptop-gpu-just-arrived.amp.html"
-    type: article
-    provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 87
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/09/ampere-vs-20-100857189-large.jpg"
-        width: 1199
-        height: 674
-        isCached: true
 
 secured: "53Rf+UqWl+kYdGedN1yqHoYD/kSBlGAbU+dH1QO7bMsuHODcdxbHsm2Rb2ylAZXqEchj/h4qkonZBGr+/2nCFNIndNO0CQm7lcknVHErofRy2vJYQp0B+Bg7XW/OZaELYOVbOkqfgW83FSiMZ12iHS3M1VtWRab7qxqmK7F6mWGJ/IgFK3IbxFHROf90+rpN++yo7/fz89/gyA4zkbT/N1B8bLVKcIyLxGeZZVWemAfxJg13GpR1XPYrrj0WgXec+f7yMxvkBAEEtdOn3JreTnvv109F4PGm1IbXn6HS5Il2YzaF9vtKLH5P50Tcg0gSgX/HQKaAgryxqE4m7X7g8TPi7LFYvurIeDqc+3bXb5et8o1XmgRy44mBS/siZN9+SC54Qbk3y3g2E8F5o50G8EtFGxJPcreYiVCY4EZqDCiOgpOs3hh24wluLj8y009Dd19alJFcR5vjNqaA3EBEIzG3xJJMgsBIM5B0L3WjCo5ETLPvXV6frflsnkjR19+PfjaTr4tYGXPfVLm+TWIVwA==;NASHspjvNl7JydN8AWUibQ=="
 ---

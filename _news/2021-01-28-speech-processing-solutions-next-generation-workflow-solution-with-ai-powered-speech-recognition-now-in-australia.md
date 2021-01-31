@@ -25,50 +25,26 @@ images:
     isCached: true
 
 related:
-  - title: "Understanding The Value Of Artificial Intelligence Solutions In Your Business"
-    excerpt: "A starting point for any organization in AI solution deployment is to assess the current digital maturity of the organization."
-    publishedDateTime: 2021-01-26T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/01/26/understanding-the-value-of-artificial-intelligence-solutions-in-your-business/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/01/26/understanding-the-value-of-artificial-intelligence-solutions-in-your-business/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/01/26/understanding-the-value-of-artificial-intelligence-solutions-in-your-business/amp/"
+  - title: "Dell Precision Workstations for AI"
+    excerpt: "Why developers are turning to ultra-powerful workstations for more creative freedom at less cost. Research shows that"
+    publishedDateTime: 2021-01-26T18:44:00Z
+    webUrl: "https://www.techrepublic.com/resource-library/whitepapers/dell-precision-workstations-for-ai/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/resource-library/whitepapers/dell-precision-workstations-for-ai/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/dell-precision-workstations-for-ai/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600b279b38fb40a4043817d3%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "This AI-Powered Startup Offers No Code Solutions To Build Apps In Minutes"
-    excerpt: "Enter Appy Pie, an AI-powered no-code platform to help your light bulb ideas see the light. For this week’s startup column, Analytics India Magazine spoke to Abhinav Girdhar, Founder and CEO of Appy Pie,"
-    publishedDateTime: 2021-01-30T07:30:00Z
-    webUrl: "https://analyticsindiamag.com/this-ai-powered-startup-offers-no-code-solutions-to-build-apps-in-minutes/"
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 67
+  - title: "Correction to Google Artificial Intelligence Article"
+    excerpt: "Chief Executive Sundar Pichai said last year, adding, \"While AI promises enormous benefits for Europe and the world, there are real concerns about the potential negative consequences.\" \"Artificial Intelligence Will Define Google's Future."
+    publishedDateTime: 2021-01-26T20:02:00Z
+    webUrl: "https://www.morningstar.com/news/dow-jones/2021012614168/correction-to-google-artificial-intelligence-article"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 38
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/01/pasted-image-0-15.png"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Spraoi’s Machine Learning Solution Deployed for Reliance Standard’s Retirement Services Operations"
-    excerpt: "Spraoi announced today that Reliance Standard Life Insurance Company (Reliance Standard) successfully deployed models for the identification of operational inconsistencies (e.g. churning, anomalous activity) across new business and in-force transactions within their block of traditional and indexed annuity business."
-    publishedDateTime: 2021-01-26T19:34:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-financial-services-life-insurance-providers-insurance-industry-1cd972f5778f677a438716a1503955d7"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 27
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 17
 
 secured: "5j2LGbGi8mtr/gXwRAew8+TTVZMwbYeIdrx2KeCCM/z2m6LSc+O3tePEq+AVzggfDMPQYzY3hqoQdDK5DFnHliFAyv57IPuFaOBQmyrmHoLe3a9XyjSAuP9Is9w4B0Fht0hbHAcMUKhx0r+xFjEIz1YIVHM1S8xUrrKHqHImku8F7W+sWu8HyEe6XvRwMnmeNKZ7G4LDqa2+vunLrwU0rR0qEqkzZM5aHAIuC3CunfL+0N+AZE3EmUR0X4arYaAy8Z4xNFnEfr0bjnpItxYtO/TfZHiIx8kQiEaL07hbUR7feB37OQZJ6w6Ay78cGiBPiqD/0d4N3TSmDbHeasuUfHWDBkuBWyVb42Y4aInFjJs=;X4GRLhVE4C+LhbNNPMfEXA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/global-military-robots-
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-military-robots-market-to-2026-intelligence-surveillance-and-reconnaissance-isr-segment-is-expected-to-lead-the-market-1030005786"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ provider:
 topics:
   - AI in Robotics
   - AI
-
-related:
-  - title: "Global Image Recognition in Retail Market 2020-2025, by Technology, Component, Application, Deployment & Impact of COVID-19 - ResearchAndMarkets.com"
-    excerpt: "The “Global Image Recognition in Retail Market (2020-2025), by Technology, Component, Application, Deployment, Geography and the Impact of Covid-19 with Ansoff Analysis” report has been added to ResearchAndMarkets."
-    publishedDateTime: 2021-01-26T14:08:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-information-technology-8748448585d5492b8bf8a3dd0cf89431"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "gwGX/7/GMKpJhMVLUnZT28I6cBtsswhDTzJ4R0eAVXztCHrClQg7YN91VNtLQJvR63+o8wIV05gY/YqgGqlLV/p6t+orAJJK762adzL41YiDx1qqykKLDcF/4daDpAb0yMizJPex7lT48ViDOru9dAw2Wl5A+sfb0n3JkSz4L3w2caI1n4uEMD5JCatuGKCkplIkb+BFU06JMSvTUM9w3FB4VhLghIQBkDQ/+6Zk7vEW8rVY4by/gDGfWNwJF6yDS0vn+yMu6AXei2Zcerh3Fq3dRrGD+givRv/LHOoUy18zySrQhQGvVdZy3FBEgBA8QaoWlLZPjJoW5wnlaaoWjYrb/2mDoK1nqvrfZagiCuo=;FeQmvoN33YlZEau/21KUPQ=="
 ---

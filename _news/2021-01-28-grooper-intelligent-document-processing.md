@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Grooper - Intelligent Document Processing"
-excerpt: "BIS, creator of Grooper® - a leading intelligent document processing and digital data integration platform is recognized in Quadrant"
-publishedDateTime: 2021-01-27T16:03:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/grooper--intelligent-document-processing-301216421.html"
-webUrl: "https://www.prnewswire.com/news-releases/grooper--intelligent-document-processing-301216421.html"
+excerpt: "BIS, creator of Grooper® - a leading intelligent document processing and digital data integration platform is recognized in Quadrant Knowledge Solutions SPARK MatrixTM: Intelligent Document Processing Report."
+publishedDateTime: 2021-01-28T08:07:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/4f8f67b70640b4ba3ff0f547f7b2a832"
+webUrl: "https://apnews.com/press-release/pr-newswire/4f8f67b70640b4ba3ff0f547f7b2a832"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1094561/Grooper_Logo.jpg?p=facebook"
-    width: 600
-    height: 315
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "2z+m/m2hOkUPUER8IWFBvzprBIq6195l4GgqvVQRyVH8KkLKMlgyToUOKmdPfyTmWI/BV8lD22L4IAQI/Dn8onYuH2lR5kKtasCctsTUZi0yWj1/W93+VXTuwzBSKvw9rU/JIbr6l6PIvnaUQWy8udOCmu7X+SRGIJiccTKyQTYhXvWCINlMpGUnq41wJQ3nFW9O4c42iFrJvNZlawwxuVbRVTioDdZXcpyRvfHyC3irkbVKHoBHPmC+QHOUYPWf8ggZcbWtu3Ft2YNGQwjiN74ycCmPn/2rIvemVfAYnGeiRKUVI322p9BSbnld+ed8fyA0bCGAN6QTZSBpUDQ09ERi6c8fN0aUF1b1yf87JuI=;vFnSGOzFDuM5XF2djybBhQ=="
+secured: "mR2QiIutRWsDDXm30CXRYFut9oJ1q2tHHzcRN9mrvOAHpmWUB5q4ybICJgL4eSE06G3cz3ppbg7Oip9SJKtRedGWNSMJN8gmjxktlWSpyXOuwIT3iBhdLgfMihZvuOTw7YPFqfIueIyF1blSIgRf8zQN/v2NyuFkeAJ73Pi3XM2lnnP8K1DOukZHO+WZqhpJHkv9R3cTUd6am5fqVUNxzmhT6VAhCaHArGw12oTLb2vUbWR1RAzM+nbXJ6XJPlrrBZ+L70QPHdO/TELmZmUtQBwBho0QAGrfyGBi3BfT1/HJAv3SK/K5v65PCMOgDtpOEo4aygMvh51Y4fGg+lW3Yy3HPgq20PDC+AsxS9zOfIU=;sSRQP5RFHUBFyIkbHAEiaQ=="
 ---
 

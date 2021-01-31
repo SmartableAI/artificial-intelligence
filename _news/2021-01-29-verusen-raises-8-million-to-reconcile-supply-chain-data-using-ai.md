@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/28/verusen-raises-8-million-to-recon
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/28/verusen-raises-8-million-to-reconcile-supply-chain-data-using-ai/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -71,6 +71,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 17
+  - title: "Edge AI company AlphaICs raises $8 million in funding round led by Emerald Technology Ventures and Endiya Partners"
+    excerpt: "AlphaICs, the leading edge AI technology company from Milpitas, CA and Bangalore, India, announced today that it has secured $8 million funding."
+    publishedDateTime: 2021-01-26T15:25:00Z
+    webUrl: "https://www.design-reuse.com/news/49362/alphaics-funding-round.html"
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 0
 
 secured: "vRiXagKC0Tw2uuik/hUoYrn++Cl+UFvYMA9mFMHW+pYvuJyWJwsvt5SneS8EYmvC/BJ/Lme/7UwU+VOvnCTpMjeBJYfgUAz9Grv63z5DqUzPLxnzuDCSf7vzKZmGc6PFBEW/oHfyvczW3dUXc/3+dcBpMeNA5qlP+LP/2PNHTUz+cC8ItBdOVLxQWsY7uQu0z/WxK6l3FbtzCJCyq0OjKikJ6HziYn0r7oqJieY3SuNwR7zhLSpm8y7oQAGpz6FlR7TzWMJPAVh97Rq7C1/SY4EBm8eBt0n9T12XLczpSadmOpl+dgLOQm6+eVya21SFvTgGqvTfDfxA6e04e2vFlxmb1lc38rBRJ7X1gO0HELz/9cDimnq+BAD3q+RE4E7upF+3PIlpnW/eGRZQHG4lcHweAui+5kTKQHqFZYA2xDalwpERWBNpi0eSYHdiQSUVe8J1m4qCa7BR5M6ag3xOnXmffnFVYU9wxGWE9LnejRKEducJptdRq5i72Q0Wz62RqicIdlbFIpHf2kDVJ5RqCw==;hXetlT4ErRJTwASbiTFclA=="
 ---

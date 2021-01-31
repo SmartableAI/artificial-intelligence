@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/delivering-natural-c
 webUrl: "https://aws.amazon.com/blogs/machine-learning/delivering-natural-conversational-experiences-using-amazon-lex-streaming-apis/"
 type: article
 quality: 84
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
         width: 2700
         height: 1414
         isCached: true
-  - title: "Pindrop and TiVo Partner, Simplifying Video Streaming Content Discovery with Voice Enabled Personalization"
-    excerpt: "TiVo and Pindrop have partnered to deliver a streamlined content discovery experience for consumers, unlocked through voice AI. \"Contextual awareness is key when engaging users through a Natural User Interface."
-    publishedDateTime: 2021-01-26T14:02:00Z
-    webUrl: "https://www.oaoa.com/news/business/pindrop-and-tivo-partner-simplifying-video-streaming-content-discovery-with-voice-enabled-personalization/article_2b3acbe2-04fb-553a-888b-629863257ab8.html"
-    type: article
-    provider:
-      name: Odessa American
-      domain: oaoa.com
-    quality: 0
 
 secured: "GJ7uJoI2QdE+tNE5gqsLX0nL8CkecVA/FMTpEYtPhfI8I+A448DkkC5LV6pW8f7/RN9HhhZCwl+owxF3DgukbIQ66yPZNfzLKguaUVZwOF16WntH8aa9IlmANycmRt11podPX8q8av5SG/sR2w3nwyYGSbRyaEX2oEQbuVJGQraJFiH1l6jHhH0tSpxEDfEJG1jC2edgf4PuoAorQshiNZpVwaPSl1Me9i1wlIrrUlZemhnMButooWLWqNt986qP9jx2SuzP4tENvYbIwTtmDPEY6bsGOGzG2OwkX9QzA5EEB0DaK9rV7gtsJ36zr5hYXPjgy+PHCp+WsSoRV/4JQDE4lte8pgSAUCf4hooYpyw=;w6OI2L5+MiwPELPUaTffsQ=="
 ---

@@ -158,18 +158,18 @@
     },
     {
       "path": "_news/2021-01-30-minneapolis-st-paul-airport-gets-facial-recognition-tech.md",
-      "title": "Minneapolis-St. Paul Airport Gets Facial Recognition Tech",
-      "excerpt": "St. Paul International Airport is gaining new facial recognition technology called Simplified Arrival to speed up the process for international travelers passing through customs.",
+      "title": "Minneapolis-St. Paul Airport gets facial recognition Tech",
+      "excerpt": "St. Paul Airport gets facial recognition Tech (TNS) - New facial recognition technology to speed international travelers",
       "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/products/Minneapolis-St-Paul-Airport-Gets-Facial-Recognition-Tech.html",
-      "originalUrl": "https://www.govtech.com/products/Minneapolis-St-Paul-Airport-Gets-Facial-Recognition-Tech.html",
+      "webUrl": "https://www.compsmag.com/news/technology/minneapolis-st-paul-airport-gets-facial-recognition-tech/",
+      "originalUrl": "https://www.compsmag.com/news/technology/minneapolis-st-paul-airport-gets-facial-recognition-tech/",
       "featuredContent": null,
       "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://media2.govtech.com/images/shutterstock_530657836.jpg",
+          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/Minneapolis-St-Paul-Airport-gets-facial-recognition-Tech.jpg",
           "width": 940,
           "height": 627,
           "title": null,
@@ -179,13 +179,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.govtech.com/products/Minneapolis-St-Paul-Airport-Gets-Facial-Recognition-Tech.html?AMP",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Minneapolis-St-Paul-Airport-Gets-Facial-Recognition-Tech.html?AMP",
-      "publishedDateTime": "2021-01-29T15:24:00-08:00",
+      "ampWebUrl": "https://www.compsmag.com/news/technology/minneapolis-st-paul-airport-gets-facial-recognition-tech/amp/",
+      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/minneapolis-st-paul-airport-gets-facial-recognition-tech/amp/",
+      "publishedDateTime": "2021-01-29T15:38:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
+        "name": "Windows",
+        "domain": "compsmag.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -241,6 +241,58 @@
         "Computer Vision",
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-01-30-logistics-dispatches-ai-drones-and-robots-to-haul-the-industry-into-the-future.md",
+      "title": "Logistics dispatches AI, drones, and robots to haul the industry into the future",
+      "excerpt": "Though the industry is slow to adopt new technologies, these trends can help streamline business.  Edge computing adoption to increase through 2026; organizations cautious about adding 5G to the mix T",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/videos/logistics-dispatches-ai-drones-and-robots-to-haul-the-industry-into-the-future/",
+      "originalUrl": "https://www.techrepublic.com/videos/logistics-dispatches-ai-drones-and-robots-to-haul-the-industry-into-the-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2021/01/29/a68cb509-5a30-40f5-bb6a-4cf5b4ee1022/thumbnail/770x578/bbde0295b6044de4c13aac47c9cb7faf/20210128-trucking-karen.jpg",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-29T14:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -702,7 +754,7 @@
       "originalUrl": "https://www.techrepublic.com/videos/best-robots-at-ces-2021-humanoids-ai-pets-uv-c-equipped-disinfecting-bots-and-more/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -944,6 +996,57 @@
       ]
     },
     {
+      "path": "_news/2021-01-29-10-ways-ai-can-elevate-your-service-and-operations-management.md",
+      "title": "10 Ways AI Can Elevate Your Service And Operations Management",
+      "excerpt": "AI-based insights are the catalyst IT needs to excel at serving internal customers and adapting to the fluid IT environment the pandemic continues to create.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2021/01/29/10-ways-ai-can-elevate-your-service-and-operations-management/",
+      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2021/01/29/10-ways-ai-can-elevate-your-service-and-operations-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60142bfe5fd8ca54afb5321c%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2021/01/29/10-ways-ai-can-elevate-your-service-and-operations-management/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2021/01/29/10-ways-ai-can-elevate-your-service-and-operations-management/amp/",
+      "publishedDateTime": "2021-01-29T07:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-29-cadeera-is-doing-ai-visual-search-for-home-decor.md",
       "title": "Cadeera is doing AI visual search for home decor",
       "excerpt": "In recent years we’ve seen a whole bunch of visual/style fashion-focused search engines cropping up, tailored to helping people find the perfect threads to buy online by applying computer vision and other AI technologies to perform smarter-than-keywords visual search which can easily match",
@@ -1120,109 +1223,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai.md",
-      "title": "US, China or Europe? Here's who is really winning the global race for AI",
-      "excerpt": "A new report shows that in the ever-more competitive race for AI, the US has a strong lead that China is catching up with, while the EU is falling behind little by little.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai/",
-      "originalUrl": "https://www.zdnet.com/article/us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/12/08/d2cda70e-e16c-48b0-b7cd-8321360bd6e5/woman-surrounded-by-high-tech-600-x-337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai/",
-      "publishedDateTime": "2021-01-29T04:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-top-5-fintech-trends-that-will-shape-financial-markets-in-2021.md",
-      "title": "Top 5 Fintech Trends That Will Shape Financial Markets in 2021",
-      "excerpt": "The popularity of fintech has spiked in recent times. Here's how FinTech will shape the global financial market in 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/362981",
-      "originalUrl": "https://www.entrepreneur.com/article/362981",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1611768140-GettyImages-1180543383.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/362981",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/362981",
-      "publishedDateTime": "2021-01-29T02:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

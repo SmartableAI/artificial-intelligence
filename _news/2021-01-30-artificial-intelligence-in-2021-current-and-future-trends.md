@@ -26,21 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Digital Trends 2021: Responsible Business Puts Trust, Ethics, And Sustainability First"
-    excerpt: "This year’s digital technology predictions from industry analysts reveal trending people-centric exigencies for brand trust, ethical responsibility, and sustainability."
-    publishedDateTime: 2021-01-26T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/sap/2021/01/26/digital-trends-2021-responsible-business-puts-trust-ethics-and-sustainability-first/"
-    ampWebUrl: "https://www.forbes.com/sites/sap/2021/01/26/digital-trends-2021-responsible-business-puts-trust-ethics-and-sustainability-first/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2021/01/26/digital-trends-2021-responsible-business-puts-trust-ethics-and-sustainability-first/amp/"
+  - title: "Best robots at CES 2021: Humanoids, AI pets, UV-C-equipped disinfecting bots, and more"
+    excerpt: "CES is virtually synonymous with engineering and the annual event routinely showcases a number of impressive robotics innovations. Here are some of the best robots at CES 2021."
+    publishedDateTime: 2021-01-29T17:55:00Z
+    webUrl: "https://www.techrepublic.com/videos/best-robots-at-ces-2021-humanoids-ai-pets-uv-c-equipped-disinfecting-bots-and-more/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 96
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 76
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60083ee55458cfa2224d06ea%2F0x0.jpg"
-        width: 1200
-        height: 649
+      - url: "https://tr2.cbsistatic.com/hub/i/r/2021/01/29/c0a0b09d-dd10-428e-accc-9e558447d8c5/thumbnail/770x578/13091ec4e2d44705026779de86db4640/20210114-ces-dallon-karen.jpg"
+        width: 770
+        height: 578
         isCached: true
 
 secured: "DAw2lVtlt0YaqnyfX/kJwEsSl1sf633uLw4lZiwUi5kC95LKOCWqg8yyqI+KNRIsYOmA6MHTPrAoa/eBse17MQcsOmeTHExz2T/5d/ZN/8QHFGrXQV0S0NRirptWm0odGXL2I0AMcDU1Xea5+QGBYyPTE5kSO+o3RcVWcRPKehTeMTLkWb8uhKClXi9mWRgrtJAUbdPiriyqybco2OV7CKZ94Z/1Lwl5DwaEZ8oKRaUMjS9q4MKkMXISMn5z5nttpgIPIwJ/m9XTN3jCxH6QSTotq71aqvVUBgPCYUEkngDJoLHMcNVq9jJPFwEUXQ15b9IvettX5rRgm4+LA5rjLzQ820UFKnBcf6yDNALRwcSOTkHf+dYsYbsFVAq/TU7O+RptS/fG4I8FSPar0rCbOfV2nAw25l+5SBao6ZxTc/F7Doki1sLWupPZHvCcMBnKsUsOk2HyDaPrHIj6VX7TCuiLT9yQR9LN+93XDxVvWHwVRPF/aC+4SihQ3ZuxsA2ts2ykI7K0hDm/5Mt3ZJvAxg==;7VJtpJpmiTAhHPTXi6qwCA=="

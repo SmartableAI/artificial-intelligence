@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/pc-hardware/artificial-intelligence-takes-ce
 webUrl: "https://www.eweek.com/pc-hardware/artificial-intelligence-takes-center-stage-early-in-2021"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://images.wsj.net/im-291450/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "The Intersection of AI and Talent Strategy in 2021 | Part 2"
+    excerpt: "See the key findings of Northeastern’s “Intersection of AI and Talent Strategy Symposium,” and learn how COVID-19 is changing AI and talent strategy in 2021 and beyond."
+    publishedDateTime: 2021-01-26T18:38:00Z
+    webUrl: "https://www.northeastern.edu/graduate/blog/ai-and-talent-strategy-part-2/"
+    type: article
+    provider:
+      name: Northeastern University
+      domain: northeastern.edu
+    quality: 39
+    images:
+      - url: "https://www.northeastern.edu/graduate/blog/wp-content/uploads/2021/01/Copy-of-Untitled-8.png"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "gjfDTNrMGmQlkKhwfYew1y7FbvQejFmmSdYoJJ8/CNKGSC3Mgw6BNc0s1CdUQIMNQaUx6yosvHUSA/cPvLiC2wRokqMiP86AMibyzBDdDoKXrfzSySVtAR+rg8+0GQmuRqPwACFpxExvAZr2PMWWTpGch1orPhr1DVrIWtSzTlDo35iimyzEql2IKIp+rByKswENUA6r4bucBBQrr60FseL/LYUz9yR1Xgo/ufeX2gi4fEztiR5IDUcUa9JbouezevEJ66oN4z1VuCjlyEM79pZEVDdm31cLBI9Ubgrp9KsOfRZB81ZVe9dYvFAT/EyZr0/GZXfMGKrR2MvCHCWYeNoki8xBQEKaKA+oktHCjoXwFLX6p7BMqbiCiwwbI9Yd4ayhubSrA4V5cHaAUsI91gcGd8eHlSgQ2qi/+u/j+tfEkNH6sgyYc4Lv5mJOz3XrFNGhcZRoGNbKVNtReI8JD0Wmrye+HAuVPGCD4uPm1nW3R9rqcH4c/S2fgCP/3pDZ1ukgRweBp+BJx4MMWjpcWw==;U/dba7QU30eAvfsUX3aAZQ=="

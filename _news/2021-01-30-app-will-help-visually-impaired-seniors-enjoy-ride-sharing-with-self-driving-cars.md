@@ -1,22 +1,28 @@
 ---
 category: news
 title: "App will help visually impaired, seniors enjoy ride-sharing with self-driving cars"
-excerpt: "Self-driving cars will offer access to ride-sharing and ride-hailing with their suite of modern conveniences. However, many people with visual impairments who use these services rely on a human driver to safely locate their vehicle."
-publishedDateTime: 2021-01-29T21:36:00Z
-originalUrl: "https://7thspace.com/headlines/1441584/app_will_help_visually_impaired__seniors_enjoy_ride_sharing_with_self_driving_cars.html"
-webUrl: "https://7thspace.com/headlines/1441584/app_will_help_visually_impaired__seniors_enjoy_ride_sharing_with_self_driving_cars.html"
+excerpt: "A research group led by the Virtual Environments and Multimodal Interaction Laboratory (VEMI Lab) at the University of Maine is developing a smartphone app that provides the navigational assistance needed for people with visual impairments and seniors to enjoy ride-sharing and ride-hailing."
+publishedDateTime: 2021-01-29T18:56:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2021-01/uom-awh012921.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2021-01/uom-awh012921.php"
 type: article
-quality: 13
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: 7th Space
-  domain: 7thspace.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "Self-Driving Cars Spurring Nearby Human Drivers Into Speeding And Abysmal Reckless Driving"
@@ -82,6 +88,6 @@ related:
         height: 630
         isCached: true
 
-secured: "h+WLEMi5jxKqVCQu/RlbliVCaMljR96Hxu2egbriSunRzaqukgUwEd6kk0mHGVPb4YKcA5HpsxunMSijGjAgBxHZ8lamu3Ma+8wXX24dh9BlaPMDw8Xsnfcg0mctaX5XwzuMyiIHueUVzgIVpJdJhaTHcP2tgJ1v1mF9oq8jAafwCIKSEel5rcHjaCvI8EhSeW2lFBEDpQmPFM21RUj10+ZOi4ZVvwSb4LWBsWVjsg8wOjEAlEFqdAmQ2Z+kzbNJhLJuGmBYRhwBo4vrZJ26pAnkCe+cjkFJEcgP7IiHV0gTGgg/VJKZ52FgKp+5aCJec30BkzJM6zU8TeGGc9i+08M4CEuAM+zIzlTIU5YS0m4=;Fh77N/m6TbyCNPCKx/lhjw=="
+secured: "pzAWtYiJlHfKk0mTIrY5SzbbvqfPLl4cfUMEY4/ad/Lr4MfgjF4liHFhowhyOz7QHBjX1IgIeVm6cTBGnGBoc6tRA20FCvOF8t6R7OvUNj0lI99hqj2dbxM+vin9VG34u7crXJKaj7/i6LYaf19J4K5yTYygs1kfnC/FpAM76vW+nfCiua6SLn6vNvPlK3wbg4wWB2ecbnMp4SYKgAjJpMA1bj3JzfTPJhatjIW3CrewerupvR4yKeujfc1T+ZwFPjAXBYnRMPT992TDUt1t7YHFrYEo70QE9vjkbCN671dAgdRGFXwgaekm/lPU8EmY/nYnJpVqeR4HyzbhW53mhSqLznwtF35DjFatG7Xwx4k=;Ojz/3TPjNLDVhYanxxZGLA=="
 ---
 

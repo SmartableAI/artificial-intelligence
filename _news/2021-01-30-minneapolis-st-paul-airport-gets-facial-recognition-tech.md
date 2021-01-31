@@ -1,31 +1,31 @@
 ---
 category: news
-title: "Minneapolis-St. Paul Airport Gets Facial Recognition Tech"
-excerpt: "St. Paul International Airport is gaining new facial recognition technology called Simplified Arrival to speed up the process for international travelers passing through customs."
-publishedDateTime: 2021-01-29T23:24:00Z
-originalUrl: "https://www.govtech.com/products/Minneapolis-St-Paul-Airport-Gets-Facial-Recognition-Tech.html"
-webUrl: "https://www.govtech.com/products/Minneapolis-St-Paul-Airport-Gets-Facial-Recognition-Tech.html"
-ampWebUrl: "https://www.govtech.com/products/Minneapolis-St-Paul-Airport-Gets-Facial-Recognition-Tech.html?AMP"
-cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Minneapolis-St-Paul-Airport-Gets-Facial-Recognition-Tech.html?AMP"
+title: "Minneapolis-St. Paul Airport gets facial recognition Tech"
+excerpt: "St. Paul Airport gets facial recognition Tech (TNS) - New facial recognition technology to speed international travelers"
+publishedDateTime: 2021-01-29T23:38:00Z
+originalUrl: "https://www.compsmag.com/news/technology/minneapolis-st-paul-airport-gets-facial-recognition-tech/"
+webUrl: "https://www.compsmag.com/news/technology/minneapolis-st-paul-airport-gets-facial-recognition-tech/"
+ampWebUrl: "https://www.compsmag.com/news/technology/minneapolis-st-paul-airport-gets-facial-recognition-tech/amp/"
+cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/minneapolis-st-paul-airport-gets-facial-recognition-tech/amp/"
 type: article
 quality: 74
 heat: 74
 published: true
 
 provider:
-  name: Government Technology
-  domain: govtech.com
+  name: Windows
+  domain: compsmag.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://media2.govtech.com/images/shutterstock_530657836.jpg"
+  - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/Minneapolis-St-Paul-Airport-gets-facial-recognition-Tech.jpg"
     width: 940
     height: 627
     isCached: true
 
-secured: "Vk36l7zyty2j7AlGiR5dNL+Hbu+sDI/LOK3ohWODZwqSXEMv5QTlL8r764uy9XIsf5FjVb9w3BBZMoGxW1+q2672uuglIDO2eLVmE8JmvHrCZK2zn68+zdu/I5MnfhaIypRDhgmjauGDRmnDUPK2vmctgXDN4ZZHMLAlwcWxQMBZRaCpgBTxzBSYV7WIQcrh6lTxnUeMf8+zPRPYlwFi8IS6sdQqbgM8kzKYqz/sgh1ErtiV4ZgQuX+zY9C65xe0bY491v+LRldlbxgPQfC55yQ/xY3gWVpeuG1GuNy5JwQPlKSwkCxp5uCyBFN/+I9CYt2Pdt/exapiCp2a08xoNxK8Krk9sDPSyWgUTidAeTjplrKpXod1KoS1GTyLrGfwokxQArv/R5pQGSFJxt1WUgv6JvLS0H2tKA4NIp3Od5xvatGYF21LKp+dTxVGf+EtzKYiyhOPl/tNlWijVQofmy+nXcxUk9BUwv26OK/cSihpDL9Ue3wsbAQ3RVXxE24jJDEkzynxDsj6Nas8GKbBVg==;L/bQlpJr67oiyfz2FexLhw=="
+secured: "EIxdmMk+lsK+YLugbxIhztvNoyhYwqiTRIUhgA7R0SzVrA0mQtiQzUGrExkM6LMogc0V7f4C7ranBtsuYT7NsNJhn2aPBkuroZGO0lIFLf8U37TX4xTVbZXCbU5xH7ZS9rV3sUGvKlHRWVaWTCVsIcYAyVilyRubQqYBXwJCiusGrChlIejyPRAkbR30zVOZzZ+P1oNobwJJxdv5K2zRKCVVMQp+2aYBgeJ/wZnjEQmidi06s/NxPRSQ03dGETJHoAamy1wDkK/Hhzk9SwMjF8rhRKeXCL1+yBBzyXULLeSyqJl6zf5pUX69j7iJWAm+sRoJjx8GEmp7wrb4J4KoLnwcBsayHf0dN+KIaZAexJk=;rWlQztElzdHbjoivLtttvg=="
 ---
 

@@ -19,86 +19,63 @@ topics:
   - AI
 
 related:
-  - title: "Run:AI raises $30M Series B for its AI compute platform"
-    excerpt: "Run:AI, a Tel Aviv-based company that helps businesses orchestrate and optimize their AI compute infrastructure, today announced that it has raised a $30 million Series B round. The new round was led by Insight Partners,"
-    publishedDateTime: 2021-01-26T14:02:00Z
-    webUrl: "https://techcrunch.com/2021/01/26/runai-raises-30m-series-b-for-its-ai-compute-platform/"
-    ampWebUrl: "https://techcrunch.com/2021/01/26/runai-raises-30m-series-b-for-its-ai-compute-platform/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/26/runai-raises-30m-series-b-for-its-ai-compute-platform/amp/"
+  - title: "Verusen raises $8 million to reconcile supply chain data using AI"
+    excerpt: "Atlanta, Georgia-based Verusen, a startup leveraging AI to build a connected supply chain, today raised $8 million in series A funding co-led by Forte Ventures and Flyover Capital. The company ..."
+    publishedDateTime: 2021-01-28T22:58:00Z
+    webUrl: "https://venturebeat.com/2021/01/28/verusen-raises-8-million-to-reconcile-supply-chain-data-using-ai/"
+    ampWebUrl: "https://venturebeat.com/2021/01/28/verusen-raises-8-million-to-reconcile-supply-chain-data-using-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/28/verusen-raises-8-million-to-reconcile-supply-chain-data-using-ai/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/01/RunAi-company-image2-01.jpg?w=1024"
-        width: 1024
-        height: 683
+      - url: "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Sturish Raises $3.2M To Build AI Based eCommerce Growth Platform for SMBs"
-    excerpt: "Sturish, an AI driven eCommerce growth platform that establishes and grows online businesses across multiple channels and global markets, closed a $3.2 million USD seed funding round. Led by Neo, the round also included Act One Ventures,"
-    publishedDateTime: 2021-01-27T15:22:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/sturish-raises-3-2m-to-build-ai-based-ecommerce-growth-platform-for-smbs-1030010220"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/sturish-raises-3-2m-to-build-ai-based-ecommerce-growth-platform-for-smbs-1030010220"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/sturish-raises-3-2m-to-build-ai-based-ecommerce-growth-platform-for-smbs-1030010220"
+  - title: "Cloud data analytics service Phocas raises $34 million to grow AI, global footprint"
+    excerpt: "An Australian data analytics company catering to mid-sized enterprises has raised funds to expand its use of AI, and expand in the US and UK."
+    publishedDateTime: 2021-01-28T20:39:00Z
+    webUrl: "https://venturebeat.com/2021/01/28/cloud-data-analytics-service-phocas-raises-34-million-to-grow-ai-global-footprint/"
+    ampWebUrl: "https://venturebeat.com/2021/01/28/cloud-data-analytics-service-phocas-raises-34-million-to-grow-ai-global-footprint/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/28/cloud-data-analytics-service-phocas-raises-34-million-to-grow-ai-global-footprint/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
-  - title: "Run:AI raises $30M putting GPUs to work"
-    excerpt: "Run:AI looks at training resources a little differently. The Israeli AI company, which was founded in 2018 by CEO Omri Geller and Dr. Ronen Dar, has built an orchestration and virtualization software layer tailored to the unique needs of AI workloads running on GPUs and similar chipsets."
-    publishedDateTime: 2021-01-26T19:51:00Z
-    webUrl: "https://www.geektime.com/run-ai-raises-30m-putting-gpus-to-work/"
-    ampWebUrl: "https://www.geektime.com/run-ai-raises-30m-putting-gpus-to-work/amp/"
-    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/run-ai-raises-30m-putting-gpus-to-work/amp/"
-    type: article
-    provider:
-      name: Geektime
-      domain: geektime.com
-    quality: 57
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 81
     images:
-      - url: "https://www.geektime.com/content/images/2021/01/RunAi-company-image2-01-1-1611498110-1536x1024.jpg"
-        width: 1536
-        height: 1024
+      - url: "https://venturebeat.com/wp-content/uploads/2021/01/phocas.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Deep learning virtualization startup Run:AI raises $30M in new round"
-    excerpt: "Artificial intelligence orchestration and virtualization software startup Run:AI Labs Ltd. said today it’s now in expansion mode after raising $30 million in a new round of funding. Insight Partners led the Series B round,"
-    publishedDateTime: 2021-01-26T15:11:00Z
-    webUrl: "https://siliconangle.com/2021/01/26/deep-learning-virtualization-startup-runai-raises-30m-series-b-round/"
+  - title: "Verusen raises $8 million to reconcile supply chain data using AI – Jaweb"
+    excerpt: "Atlanta, Georgia-based Verusen, a startup leveraging AI to build a connected supply chain, today raised $8 million in series A funding co-led by Forte Ventures and Flyover Capital. The company says it’ll put the funds toward R&D as it expands the size of its workforce."
+    publishedDateTime: 2021-01-29T00:01:00Z
+    webUrl: "https://elmoudjaweb.com/verusen-raises-8-million-to-reconcile-supply-chain-data-using-ai-jaweb/"
+    ampWebUrl: "https://elmoudjaweb.com/verusen-raises-8-million-to-reconcile-supply-chain-data-using-ai-jaweb/?amp"
+    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/verusen-raises-8-million-to-reconcile-supply-chain-data-using-ai-jaweb/?amp"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
+      name: Elmoudjaweb
+      domain: elmoudjaweb.com
     quality: 56
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/RunAI-Platform.png"
-        width: 2110
-        height: 1184
+      - url: "https://elmoudjaweb.com/wp-content/uploads/2021/01/Verusen-raises-8-million-to-reconcile-supply-chain-data-using.jpg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Run:AI Raises $30M To Split Up GPUs Into AI, HPC Containers"
-    excerpt: "Run:AI has raised a new $30 million Series B funding round for its virtualization platform, which can split up GPUs and spin them into Kubernetes containers."
-    publishedDateTime: 2021-01-26T14:21:00Z
-    webUrl: "https://www.crn.com/news/data-center/run-ai-raises-30m-to-splice-up-gpus-into-ai-hpc-containers"
+  - title: "Atlanta startup Verusen raises $8M for innovating supply chain with AI"
+    excerpt: "Atlanta startup Verusen raised an $8 million Series A round to use artificial intelligence and machine learning to make supply chains more efficient, according to a Jan. 28 announcement . Forte Ventures and Flyover Capital co-led the round with participation from BMW i Ventures,"
+    publishedDateTime: 2021-01-28T19:13:00Z
+    webUrl: "https://www.bizjournals.com/atlanta/inno/stories/fundings/2021/01/28/atlanta-startup-verusen-raises-8m.html"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
-    images:
-      - url: "https://www.crn.com/resources/0265-116d0a3f95df-fd00e3e86058-1000/runai_platform.png"
-        width: 1500
-        height: 842
-        isCached: true
-  - title: "MedAI Launches Artificial Intelligence Drug Discovery (AIDD) Platform to Accelerate Drug Development"
-    excerpt: "To accelerate drug development, MedAI, an expert of AI-assisted R&D research company, announces that it has completed the construction of its Artificial Intelligence Drug Discovery (AIDD) Platform. With this platform,"
-    publishedDateTime: 2021-01-27T00:00:00Z
-    webUrl: "https://www.bio-itworld.com/pressreleases/2021/01/27/medai-launches-artificial-intelligence-drug-discovery-(aidd)-platform-to-accelerate-drug-development"
-    type: article
-    provider:
-      name: Bio IT World
-      domain: bio-itworld.com
-    quality: 19
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "iyM6YGc91mhEaCyXQzyn9EfKu5BQydwLvK57TKuQzZXBRhJayXUSBIIlkDhLm9S9DniNOu22dAXbKtUO5VDxk5ILijtJaLosa0ZlOYU5nPJotiSHvFMOUn9AC7AtHwRXyTs2Jh9GqI9VpyC9V11TRjfiuNs+dXoJ207YVnCNo9nW44rfWOlGmGSHxIIv07N2OfP3nFsoPA9kXmmhRXBfhmzFbKOxaLb/KIhJkAqkjkYuWl6Ge75LE3/aJIG8ndNerT/WkjEMrfYscSEGzTtcx7CD0OtZW5+SeO3qU2rg/n0WqEkM5bPl2fzKQxZjyxQWPtmk0V46p7MU2VY6l0zBU6WsSu5IadUsT1V/C7R6lfo=;Hiaaaa9jHV80YtyQTUo7yg=="
 ---

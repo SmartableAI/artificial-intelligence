@@ -41,36 +41,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Voice recognition features return to TiVo through a partnership with Atlanta-based Pindrop"
-    excerpt: "TiVo devices are getting new voice recognition capabilities thanks to a partnership with the Atlanta-based startup Pindrop, which is now offering its voice recognition and personalization technologies for consumer devices."
-    publishedDateTime: 2021-01-26T14:03:00Z
-    webUrl: "https://techcrunch.com/2021/01/26/voice-recognition-features-return-to-tivo-through-a-partnership-with-atlanta-based-pindrop/"
-    ampWebUrl: "https://techcrunch.com/2021/01/26/voice-recognition-features-return-to-tivo-through-a-partnership-with-atlanta-based-pindrop/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/26/voice-recognition-features-return-to-tivo-through-a-partnership-with-atlanta-based-pindrop/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 64
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/10/introducing-tivo-plus.png?w=1024"
-        width: 1024
-        height: 571
-        isCached: true
-  - title: "Algolia Acquires MorphL, Launches AI-Powered Predictive Experiences and Personalization"
-    excerpt: "Algolia acquires Google DNI-funded MorphL, an AI/ML platform MorphL's AI/ML platform to fuel Algolia's new AI offerings Algolia's headless,"
-    publishedDateTime: 2021-01-26T14:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/algolia-acquires-morphl-launches-ai-powered-predictive-experiences-and-personalization-2021-01-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "NRF 2021 - ZineOne takes up our hyper-personalization debate on AI and retail"
     excerpt: "When you post a scorching critique of hyper-personalization, the last thing you expect to get is a reply - from a personalization vendor. As NRF 2021 winds down, the debate on personalization carries on."
     publishedDateTime: 2021-01-28T00:27:00Z

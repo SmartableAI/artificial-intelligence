@@ -3,12 +3,12 @@ category: news
 title: "Logistics dispatches AI, drones, and robots to haul the industry into the future"
 excerpt: "Though the industry is slow to adopt new technologies, these trends can help streamline business.  Edge computing adoption to increase through 2026; organizations cautious about adding 5G to the mix T"
 publishedDateTime: 2021-01-29T22:35:00Z
-originalUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/videos/logistics-dispatches-ai-drones-and-robots-to-haul-the-industry-into-the-future/"
-webUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/videos/logistics-dispatches-ai-drones-and-robots-to-haul-the-industry-into-the-future/"
+originalUrl: "https://www.techrepublic.com/videos/logistics-dispatches-ai-drones-and-robots-to-haul-the-industry-into-the-future/"
+webUrl: "https://www.techrepublic.com/videos/logistics-dispatches-ai-drones-and-robots-to-haul-the-industry-into-the-future/"
 type: article
-quality: 62
-heat: 62
-published: false
+quality: 79
+heat: 79
+published: true
 
 provider:
   name: TechRepublic
@@ -19,6 +19,7 @@ provider:
       height: 50
 
 topics:
+  - AI in Robotics
   - AI
 
 images:
@@ -27,6 +28,6 @@ images:
     height: 578
     isCached: true
 
-secured: "IXJHAlDfdoqBMN8I+OaB64adae2Lqp5GihgOjki7DjDgjZ+AVaRtDX5ejV2YEpZ+mFznZ/fJeaAec14hs9O1TQl89w+Hx7j18QNflLBRQV6O91TA6vnSDkp1e7Q1YfSAZlrrXNwgix4E1o1SIhT5WJKNS4UcQGxwsloJxcvfCYHcVHjvYGkb1bgWNnLIUvWc/Mk7f9joWcwe/DHMW1P2WjFmtMszqK35UmMZC5m9KIQEZNnLdJqdi3uCjSuSr8XZ5yjoa2GpVPYV8xZLX9/T92mIj3G1skNWVT9R/47SrKb/GOXqdQdrIaaqZXEd/lRYK0gbzcBFWmqWKJvJLN5Tr3NBAzKp/GuQJrMfZe+0xWE=;U+djcQGGqXi4SKJHlC8kOg=="
+secured: "iq73CZw/wM6Vzx91X8io5MracMxc4021sp9eY3Ohk9+/uAqqaTWnF55FXg01PW16xP0YZiWlhMoBEuxBapegYDT7wAXBlkhLfvko+w0l1xJceTY3Seq94pieHlSNdbNDm+e9jbOc0/oNHjYU47kHIJwRDpO9Is8/0RBeTUekB83Iwabbvp3aPxbMZImg3TXh2t1pKskpYYtC8cLtfciaS49P1y6OJ+vWoMkeGeJl6+CicH4wyIi6nFgHKBpQvzeKT+/bBBdwlS1usssDe7GD5cmJI3CrQoDYMi9WI2+Y9dPt9HmhLCfrlsoop9tGhDP5rjsJ0X5wX6yDaTD/Ehsd8cUxrxGY+N5oNxG9+jbFogg=;7yeHOlhXA0D3Ra8hHd0eEg=="
 ---
 

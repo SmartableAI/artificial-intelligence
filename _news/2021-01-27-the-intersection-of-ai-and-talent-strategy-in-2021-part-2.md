@@ -25,91 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence at the service of talent selection"
-    excerpt: "They present Hitch, the startup that through artificial intelligence and machine learning helps companies find the talent most compatible with their organizational culture."
-    publishedDateTime: 2021-01-26T14:00:00Z
-    webUrl: "https://www.entrepreneur.com/article/364141"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/364141"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/364141"
+  - title: "Artificial Intelligence Takes Center Stage Early in 2021"
+    excerpt: "AI is the most significant technology of the last 30 years and its innovation is accelerating in the early part of 2021."
+    publishedDateTime: 2021-01-28T05:26:00Z
+    webUrl: "https://www.eweek.com/pc-hardware/artificial-intelligence-takes-center-stage-early-in-2021"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 87
+      name: eWeek
+      domain: eweek.com
+    quality: 71
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1611623001-Hitch.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
+      - url: "https://www.eweek.com/imagesvr_ez/b2bezp/2017/07/IBM.Watson2.JPG?alias=social_image"
+        width: 560
+        height: 300
         isCached: true
-  - title: "Pushing The Frontiers Of Manufacturing AI At Seagate"
-    excerpt: "Seagate's wafer manufacturing plant has adopted several AI applications that improve their quality and productivity."
-    publishedDateTime: 2021-01-27T15:50:00Z
-    webUrl: "https://www.forbes.com/sites/tomdavenport/2021/01/27/pushing-the-frontiers-of-manufacturing-ai-at-seagate/"
-    ampWebUrl: "https://www.forbes.com/sites/tomdavenport/2021/01/27/pushing-the-frontiers-of-manufacturing-ai-at-seagate/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2021/01/27/pushing-the-frontiers-of-manufacturing-ai-at-seagate/amp/"
+  - title: "Carlyle Invests in AI Startup After Year as Client"
+    excerpt: "Carlyle Group Inc. is converting from a client of SESAMm SAS to an investor in the French developer of artificial intelligence-powered analytical software used by investment managers and banks to crunch through large data sets and analyze reams of text to identify investment opportunities."
+    publishedDateTime: 2021-01-28T12:38:00Z
+    webUrl: "https://www.wsj.com/articles/carlyle-invests-in-ai-startup-after-year-as-client-11611837000"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60118aa54082182beabf8d5a%2F0x0.jpg"
-        width: 696
-        height: 493
+      - url: "https://images.wsj.net/im-291450/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "10 Ways AI Can Elevate Your Service And Operations Management"
-    excerpt: "AI-based insights are the catalyst IT needs to excel at serving internal customers and adapting to the fluid IT environment the pandemic continues to create."
-    publishedDateTime: 2021-01-29T15:48:00Z
-    webUrl: "https://www.forbes.com/sites/louiscolumbus/2021/01/29/10-ways-ai-can-elevate-your-service-and-operations-management/"
-    ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2021/01/29/10-ways-ai-can-elevate-your-service-and-operations-management/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2021/01/29/10-ways-ai-can-elevate-your-service-and-operations-management/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60142bfe5fd8ca54afb5321c%2F0x0.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "The Allen Institute for AI (AI2) Selects Core Scientific to Provide AI-Powered GPU-as-a-Service"
-    excerpt: "Core Scientific, a leading infrastructure and software solutions provider for artificial intelligence and blockchain led by CEO Kevin Turner, the former COO of"
-    publishedDateTime: 2021-01-28T15:42:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/the-allen-institute-for-ai-ai2-selects-core-scientific-to-provide-ai-powered-gpu-as/article_957d8acc-4f36-54d6-8bcd-2effbef0067e.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 42
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/89/b8970e9f-a869-5c25-afab-1da10b378232/6013b2166bf48.image.jpg?resize=648%2C360"
-        width: 648
-        height: 360
-        isCached: true
-  - title: "The Allen Institute for AI (AI2) Selects Core Scientific to Provide AI-Powered GPU-as-a-Service"
-    excerpt: "Core Scientific’s AI-as-a-service model will free AI2 from operational hassles, allowing them to focus on their mission of accelerating foundational research, developing standards and models, and cultivating new ideas to make a broad,"
-    publishedDateTime: 2021-01-29T08:02:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-artificial-intelligence-paul-allen-computing-and-information-technology-0929ba93484496dddb09159fffc14451"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 42
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Federal Reserve Considering Formal Request for Public Feedback about the Adoption of AI in the Financial Services Sector"
-    excerpt: "It's great to see the Fed move in the direction of potentially providing clarification and additional guidance around supervision of AI/ML in financial services. Additional guidance from the Fed and other agencies (OCC,"
-    publishedDateTime: 2021-01-30T14:02:00Z
-    webUrl: "https://insidebigdata.com/2021/01/30/federal-reserve-considering-formal-request-for-public-feedback-about-the-adoption-of-ai-in-the-financial-services-sector/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 0
 
 secured: "3tR5oku54cPQWoI3e4moQnj1+NeBpLtxuzKjC2vcI/huQKjJMuNiQ5rhOEkgke542NatYl9rPwgIe3y3YXvdXJg6Cs+FCQ6FOafAsAez3VB980QSwDL/HZbNNSd+JfoAlgL4Gk+70x3FbC0u0HSmek/fzOOyXU+9+8hSOaV16BR2gUrXFr7l729uVbe+u3ZQQaQGBLVgW4eyFcjIG6P753MwZMz+aNlLPR7odtdwcztHjpUCF+tvcQmVrlXX5pmTZZBOXrUZQXRT3RJs15702ehuHfmje9/a+jgx2TMXmKV5MYN/59to3iBSaSKgXOXOnCViqRtI7itX2nPMaWPM8gcP+joGjU2nIONriZF+CV2StryXbmAX2ZcKoBUop6Zes3sQrnae7CUJWu3Hi0qsiFxj4EZpCIgcuOjD4Cy3qBZuxYgNIf3Vw0osfal+pTS2wJPIvhpNoKawKHs+kiFuvbIZDW7YHKgU3YntQoWts9JAZNA4Byx5cRvqdfVdnx+DxiVThWV504dUv9tvQOIDGA==;CHVwzusTERhQWRKi86keIg=="
 ---

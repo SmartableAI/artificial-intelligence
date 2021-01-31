@@ -3,10 +3,10 @@ category: news
 title: "End-to-End Deep Learning Inference with the NVIDIA Data Center Platform"
 excerpt: "The AI revolution is surging forward, igniting opportunities for businesses to reimagine how they solve customer challenges. It’s a"
 publishedDateTime: 2021-01-29T16:22:00Z
-originalUrl: "https://www.techrepublic.com/resource-library/whitepapers/end-to-end-deep-learning-inference-with-the-nvidia-data-center-platform/"
-webUrl: "https://www.techrepublic.com/resource-library/whitepapers/end-to-end-deep-learning-inference-with-the-nvidia-data-center-platform/"
-ampWebUrl: "https://www.techrepublic.com/google-amp/resource-library/whitepapers/end-to-end-deep-learning-inference-with-the-nvidia-data-center-platform/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/end-to-end-deep-learning-inference-with-the-nvidia-data-center-platform/"
+originalUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/resource-library/whitepapers/end-to-end-deep-learning-inference-with-the-nvidia-data-center-platform/"
+webUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/resource-library/whitepapers/end-to-end-deep-learning-inference-with-the-nvidia-data-center-platform/"
+ampWebUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/google-amp/resource-library/whitepapers/end-to-end-deep-learning-inference-with-the-nvidia-data-center-platform/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/2381/index.php/google-amp/resource-library/whitepapers/end-to-end-deep-learning-inference-with-the-nvidia-data-center-platform/"
 type: article
 quality: 69
 heat: 69
@@ -24,6 +24,6 @@ topics:
   - Machine Learning
   - AI
 
-secured: "GDaVr51iQcgsj/6oomCbiYV9KgnDkMeIyAWZL4i2ji16X3gJAQa1zI2rzJxyDBON6PcCN28mQAGLLt/XL2FhnjJNhlzUa1xOx3EdoQ3cMCzk9fY49YBRE8c+eGFx44oA/p3n8c1/n9HQVDfAwuFvq/LwPZT+n13/Y4osFEaDofe5gRBgtbNHf2mLpPkehhPhcgC80EOACkPJrASzWlaV43/4GBl3y362hpvGxepmP98uu9XKTKcn1EBBGq+yJXpwyCobfssKz5vcd8Mq7tw12s0oFZ1A1fMyITFUrA4uGiknomLg5p/T7WmtqOe/6s9c+81n5vFj3qdML9m31X2vWAJA7Mxv/km0dlvW8ol3iQA=;LKWGCo4Vd3Goqi6GH8m0pQ=="
+secured: "186y9Kwr0gd+kKvEWOoK1v5Gs+A6z+AtQYm+ONHZ9VPSRdpX0sKZaj0pbFPnShsqhCiC+D25kBmvVoIzowCdnbM5Te1I7Wj8UNf5BA0ZbrxO0XkH/TiHBi/nyyroVrdMUyel3l8tbACTtTPHiHgaFVxNnY+LT/HzFeZzobAJ5J0hGqhgh/6AbihRBI2AtdpPkTtUmDEii3JkCHU/vD9epCKk8WoBchbT0LWmuGINGPNQgujS3pOlxI9aeZSA4Z5YVrYaWWssh5RcxLreD8LTh4gdTU4xBPXe+qVVUzrRve07vv1cWqz4BK9hqXSRG194/ZTLpRlTIuq0nz99kFzUbVQapIwuDyOwK0fQG8m73+4=;DbTYJTDo/PTcAN0s+XXl5A=="
 ---
 

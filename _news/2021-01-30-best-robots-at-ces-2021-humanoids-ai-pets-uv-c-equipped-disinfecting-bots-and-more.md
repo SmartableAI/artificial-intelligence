@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/videos/best-robots-at-ces-2021-humano
 webUrl: "https://www.techrepublic.com/videos/best-robots-at-ces-2021-humanoids-ai-pets-uv-c-equipped-disinfecting-bots-and-more/"
 type: article
 quality: 76
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 770
     height: 578
     isCached: true
+
+related:
+  - title: "Artificial Intelligence in 2021: Current and Future Trends"
+    excerpt: "Three top experts in artificial intelligence discuss the key factors driving the growth of this emerging technology."
+    publishedDateTime: 2021-01-29T23:47:00Z
+    webUrl: "https://www.datamation.com/artificial-intelligence/artificial-intelligence-in-2021-current-and-future-trends/"
+    type: article
+    provider:
+      name: Datamation
+      domain: datamation.com
+    quality: 41
+    images:
+      - url: "https://www.datamation.com/wp-content/uploads/2018/03/pexels-panumas-nikhomkhai-1148820-1024x683-1.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "GV/CBp8RQ0l2L52ulqgv6X648k0HkK/Cl8Ahxrr1gFKYtDNjE8H4wIDxu+YRqmS5Ll3BpKOxP9PJazJsbW1VvdOLQrBndpI3n45v5Fov7GLmpxE4yOzeyDfYwhFyIufBVk4ky5Nn02kpCDDOTvtvRNQnCk18hd5sIKxMH64SsU6J/UgyYjx+l02px0vvI440eurod+L+3IBJThM4olKoloPQp2PbfjexZ+YIoTpGa2CSeYJhzfu/H27q4SAN8NyPqE5RC3SuB/Z1EqkrCFv91hHstiZnlTafAtQhTIgdfUvlirER6t8Q9ZJEAgrEO5Ys/sLgEQHeFXZVuq0R5aYAsAs29buC4QjpwGo+4NnxlMxLUIN0C/9NFrlCkXOlnMSKR1z5AhGabzd5/HVf3bvjkPG/fSB8fU1US3q8kVY12pM3dTuj8JEhp1nX3SXmo1juzAVBUkhUef5622CVFnHHWqbWsrR0zm2ezJKyoYyoQZuZrtbjGLriAHtpasoommIsywIE0roIYCduMCPJATwQng==;RYONPVwFBQrZK2fVA0WCaw=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.gctelegram.com/amp/4293251001"
 cdnAmpWebUrl: "https://amp-gctelegram-com.cdn.ampproject.org/c/s/amp.gctelegram.com/amp/4293251001"
 type: article
 quality: 72
-heat: 82
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Garden City Telegram
@@ -26,19 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "The AI Incident Database Aims to Make AI Algorithms Safer"
-    excerpt: "Any sufficiently large system will have errors, and part of correcting for these errors is having a database of these errors that can be analyzed for impacts and potential causes. Much like the FDA maintains a database for adverse medication reactions or the National Transportation Safety Board maintains a database for aviation accidents,"
-    publishedDateTime: 2021-01-26T22:30:00Z
-    webUrl: "https://www.unite.ai/the-ai-incident-database-aims-to-make-ai-algorithms-safer/"
+  - title: "10 Ways AI Can Elevate Your Service And Operations Management"
+    excerpt: "AI-based insights are the catalyst IT needs to excel at serving internal customers and adapting to the fluid IT environment the pandemic continues to create."
+    publishedDateTime: 2021-01-29T15:48:00Z
+    webUrl: "https://www.forbes.com/sites/louiscolumbus/2021/01/29/10-ways-ai-can-elevate-your-service-and-operations-management/"
+    ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2021/01/29/10-ways-ai-can-elevate-your-service-and-operations-management/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2021/01/29/10-ways-ai-can-elevate-your-service-and-operations-management/amp/"
     type: article
     provider:
-      name: unite
-      domain: unite.ai
-    quality: 41
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.f8AX~1c8f3/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2021/01/AIID.png"
-        width: 1000
-        height: 600
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60142bfe5fd8ca54afb5321c%2F0x0.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "txp0sRtUULr78IHqW5Q/qA8ECUVbaz8bF4B4XYykpPjA5gpYbnrFBpedDiMO/kTy7TcNeIS6QVke031RRDuJBpaOLwrJwyNo2BbGTkOHIPRAkLvje4y86mbvo0yqoHJpcx2mv3GWW70laSzLNgzSnwMWb2NZNZqyj5/CXl4lph1vc0j432IPaIgkGNSz2nuEMos/cV4lNSTPwiUuc9i5Sg1QRK+B+StimZHhOuBD8zEhMYujPA2iIwdJb0X0z5hO7llVbVywAmMItQzVDivqQPpRrnvDuaAavNcpr36n4uZDFOeR4GGL4z2Uq9yo35jHfVICtVekd6l1zPxHB8aUhi1NB1QbkdK1VZYcOGfZsY+7gIyxD86kryuL2ERnVVDjd3HswvtolYtHa5FR4skWa2E85/VPtrKTrcgTwzymDqkzO68OBKVUg5vwy7tjTw8SXFjCcv62MzBtmGT+0kl6FdA2eQKkrLRCEksmhNMz/QcyiVABH6oea0c3zjz53lEe/nKP01fp0TSiqfC2th1FYw==;5PDsQMVGAzDpTTTkUrEE/A=="

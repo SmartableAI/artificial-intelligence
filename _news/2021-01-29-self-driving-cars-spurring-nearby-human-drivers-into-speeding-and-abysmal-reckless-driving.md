@@ -63,6 +63,20 @@ related:
         width: 590
         height: 400
         isCached: true
+  - title: "App will help visually impaired, seniors enjoy ride-sharing with self-driving cars"
+    excerpt: "A research group led by the Virtual Environments and Multimodal Interaction Laboratory (VEMI Lab) at the University of Maine is developing a smartphone app that provides the navigational assistance needed for people with visual impairments and seniors to enjoy ride-sharing and ride-hailing."
+    publishedDateTime: 2021-01-29T18:56:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-01/uom-awh012921.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 33
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Self-driving scooters to keep cruising Peachtree Corners"
     excerpt: "Self-driving scooters are on a roll in Peachtree Corners, where residents will continue to see them cruising through Atlanta Technology Park without a driver."
     publishedDateTime: 2021-01-29T19:14:00Z
@@ -77,15 +91,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "App will help visually impaired, seniors enjoy ride-sharing with self-driving cars"
-    excerpt: "Self-driving cars will offer access to ride-sharing and ride-hailing with their suite of modern conveniences. However, many people with visual impairments who use these services rely on a human driver to safely locate their vehicle."
-    publishedDateTime: 2021-01-29T21:36:00Z
-    webUrl: "https://7thspace.com/headlines/1441584/app_will_help_visually_impaired__seniors_enjoy_ride_sharing_with_self_driving_cars.html"
-    type: article
-    provider:
-      name: 7th Space
-      domain: 7thspace.com
-    quality: 13
 
 secured: "3HXGlYNIksWWa7Y4P3mYkVhVbcb3ofUkKpRYcFuxNvQRFKIw7xPgycVgvBBrOtCQxf06zRhvPZ9mA+J79cYVhfh5HRO3JHQrblZR0cAXwce7mr7HOWao1pH/uh7RRQYVcK3DFjPEsA/iLDscj86swUjbLLZW6PLQamPsJyil8TISe8YnUUy/ZArCoZDf6IqBwbcSVTpckSJ+t1K20E6BAMv4Lnar44RsOhZFK/h6MrcDvOwm2HX4WAyyCXOBKY9aStIXHXixQIPxbpR+E/LxEDwX5C4eAlj3qta75MFHvWMp3tdy3mC5MiFtKacUEhJzhl0PHB2wXVOpS9Szu4zAQOk2hQiDB7caT893C/8IPVGTwb7wmrFBziiarT8SMx7cbjsF/fhyt0Q3R47ZU6gi9Fnc3FycRb75TLSuPhI5YXMeQfqOhu9gw6/VsIkiEaBZh4M7yi7MU2J6H9Bf1sXSToXcQekeP40kCAc3coMrN5aPPnUleDdAPdW7gKo0J7J76m0rFQWMhACodecnmcTuVw==;pLO4NvA41mEmNMVhVQLMwQ=="
 ---

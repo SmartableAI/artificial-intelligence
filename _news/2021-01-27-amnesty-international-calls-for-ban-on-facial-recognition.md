@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/01/27/amnesty-international-calls
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/27/amnesty-international-calls-for-ban-on-facial-recognition/amp/"
 type: article
 quality: 89
-heat: 379
+heat: 389
 published: true
 
 provider:
@@ -297,6 +297,20 @@ related:
       - url: "https://www.scottishlegal.com/uploads/security-camera-cctv-pixa.jpg"
         width: 640
         height: 426
+        isCached: true
+  - title: "Facial Recognition Technology is now Capable of Identifying Political Views"
+    excerpt: "Michal Kosinski's new research indicates facial recognition technology is now capable of exposing people’s political orientation from naturalistic facial images using a machine learning algorithm."
+    publishedDateTime: 2021-01-31T05:14:00Z
+    webUrl: "https://www.analyticsinsight.net/facial-recognition-can-reveal-your-political-orientation/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 37
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/FR.png"
+        width: 900
+        height: 552
         isCached: true
   - title: "New facial recognition Technology to be installed at North Country Incubator"
     excerpt: "New facial recognition Technology to be installed at North Country Incubator Clarkson University is partnering with Precise Biometrics to"

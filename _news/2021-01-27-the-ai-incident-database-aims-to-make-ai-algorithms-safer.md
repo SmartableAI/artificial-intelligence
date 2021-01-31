@@ -26,21 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Pentagon aims to spread artificial intelligence services"
-    excerpt: "After spending the past few years demonstrating how artificial intelligence tools can boost U.S. military efforts, the office responsible for overseeing such programs at the Defense Department is shifting its focus to helping military services and agencies figure out how to incorporate the technologies in their systems."
-    publishedDateTime: 2021-01-28T17:06:00Z
-    webUrl: "https://www.gctelegram.com/story/news/2021/01/28/pentagon-aims-spread-artificial-intelligence-services/4293251001/"
-    ampWebUrl: "https://amp.gctelegram.com/amp/4293251001"
-    cdnAmpWebUrl: "https://amp-gctelegram-com.cdn.ampproject.org/c/s/amp.gctelegram.com/amp/4293251001"
+  - title: "New consortium aims to establish the biggest pathology data to advance artificial intelligence"
+    excerpt: "A new consortium of the EU Innovative Medicines Initiative (IMI) aims to establish the biggest database of pathology images to accelerate the development of artificial intelligence in medicine."
+    publishedDateTime: 2021-01-29T04:55:00Z
+    webUrl: "https://www.news-medical.net/news/20210128/New-consortium-aims-to-establish-the-biggest-pathology-data-to-advance-artificial-intelligence.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210128/New-consortium-aims-to-establish-the-biggest-pathology-data-to-advance-artificial-intelligence.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210128/New-consortium-aims-to-establish-the-biggest-pathology-data-to-advance-artificial-intelligence.aspx"
     type: article
     provider:
-      name: The Garden City Telegram
-      domain: gctelegram.com
-    quality: 72
+      name: News Medical
+      domain: news-medical.net
+    quality: 60
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/28/NGCT/7388f80f-e5cb-4f68-b53e-584f40786f1d-MILITARY_TECH.jpg?auto=webp&crop=2499,1406,x0,y126&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
 
 secured: "E0P5bKMOmR0b2PqNgEUxhFU+vE6rINxaCl2YSWEQHZ9nA4RyTIoIbiqlY/MnQBXSJADng5bZ/e/LTW6RsTshYLf6i2Y373MRhmW8nSYUTiZXPVoWKA9YgVa6+CAfF4O9khPmDWgfmHnbf27jYlvl+sDgp/dtinPCOszGK+uU9hgmhAmmSPLrteeQ/jp8p427wHm4km3Ll5q0J5yLxD1QrfVGHfTXjh6hYMsNhjkCTx8R97YP5KIYMyGE4RHtAKVQG20CnAyIVjlglLETJYCwlCo5+UvQvhhx/Zea+sWHfOf10QxxU6q6oBx3kwUtLJ18hqXiaSygFoawhhKoIj0SAq3x2LRQvMMDt9JW3Dcqxj0=;k2/pjjUDcoJlLC9vb/PrbA=="
