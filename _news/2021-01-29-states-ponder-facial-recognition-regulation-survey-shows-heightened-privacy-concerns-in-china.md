@@ -53,17 +53,6 @@ related:
         width: 1240
         height: 826
         isCached: true
-  - title: "Voice Recognition Tech Co. Broke Ill. Privacy Law, Suit Says"
-    excerpt: "A software company that provides speech and voice recognition technology to companies like FedEx is accused in an Illinois state court lawsuit of violating Illinois' biometric privacy law by collecting customers' voiceprint biometrics without getting written permission and making required disclosures."
-    publishedDateTime: 2021-01-28T02:32:00Z
-    webUrl: "https://www.law360.com/articles/1349304/voice-recognition-tech-co-broke-ill-privacy-law-suit-says"
-    ampWebUrl: "https://www.law360.com/amp/articles/1349304"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1349304"
-    type: article
-    provider:
-      name: Law360
-      domain: law360.com
-    quality: 24
   - title: "Amherst teen wins recognition in national arts competition"
     excerpt: "Arden Lloyd first starting taking piano lessons when she was 8 at the behest of her parents. It wasn’t something she particularly objected to, she says, but on the other hand, “I didn’t take it too seriously."
     publishedDateTime: 2021-01-31T17:36:00Z

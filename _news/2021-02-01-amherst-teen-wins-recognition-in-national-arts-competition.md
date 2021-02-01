@@ -67,17 +67,6 @@ related:
         width: 1024
         height: 662
         isCached: true
-  - title: "Voice Recognition Tech Co. Broke Ill. Privacy Law, Suit Says"
-    excerpt: "A software company that provides speech and voice recognition technology to companies like FedEx is accused in an Illinois state court lawsuit of violating Illinois' biometric privacy law by collecting customers' voiceprint biometrics without getting written permission and making required disclosures."
-    publishedDateTime: 2021-01-28T02:32:00Z
-    webUrl: "https://www.law360.com/articles/1349304/voice-recognition-tech-co-broke-ill-privacy-law-suit-says"
-    ampWebUrl: "https://www.law360.com/amp/articles/1349304"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1349304"
-    type: article
-    provider:
-      name: Law360
-      domain: law360.com
-    quality: 24
   - title: "State Board of Elections ends recognition of Green and Constitution Parties in N.C."
     excerpt: "Both parties failed to meet the necessary voting requirements in the 2020 presidential and state elections. Here's what that means."
     publishedDateTime: 2021-02-01T02:35:00Z

@@ -1,27 +1,33 @@
 ---
 category: news
 title: "SoftBank's Son expects mass production of driverless cars in two years"
-excerpt: "Son, who made his name for investing early in startups such as China's Alibaba Group had said he will continue to take stakes in public companies he thinks are frontrunners in the artificial ..."
-publishedDateTime: 2021-01-30T11:15:00Z
-originalUrl: "https://www.theguardian.pe.ca/business/reuters/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years-546670/"
-webUrl: "https://www.theguardian.pe.ca/business/reuters/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years-546670/"
+excerpt: "SoftBank Group Corp Chief Executive Masayoshi Son said on Friday he expects mass production of self-driving vehicles to start in two years."
+publishedDateTime: 2021-01-29T21:00:00Z
+originalUrl: "https://www.reuters.com/article/us-davos-meeting-son-autonomous-idUSKBN29Y279"
+webUrl: "https://www.reuters.com/article/us-davos-meeting-son-autonomous-idUSKBN29Y279"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Y279"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Y279"
 type: article
-quality: 39
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.pe.ca
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.theguardian.pe.ca/media/photologue/photos/cache/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years_medium"
-    width: 458
-    height: 305
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210129&t=2&i=1549571164&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0S194"
+    width: 829
+    height: 545
     isCached: true
 
 related:
@@ -72,6 +78,6 @@ related:
         height: 826
         isCached: true
 
-secured: "0bFoJfdQFNouOnPSlmw3aSIbBoxBiZvygmfurquVHXofK9V6pZHakGrwK/faObHvvjUaeqEVEF7yvM5NvPsmRjoYBvpNpzX0PcMfMKgWFOZShH0OFMwMvFJWx9eu4rJXNgilZlGjPmxHYcW0EGcNy8rK8bE83ww9IviFNVFGSxdo2AmRl915kYXQbjv70KDPGrpSsgeun6Bl8Zr+3oFqBBw9AxsEZEZodf+ukpSEuhD7yQ885fv7/CfrUKC9jhs8dzKex8OjhuYRzL74kqmly4qpzMlou7crh0s0FUicwTS2r7zJoZJMxjEntRt9blFBQBNx1dq3yxxMM31RWYuTCu0V+ufRERyHlTu0afV9xDI=;6r7DUIZuN+x/M8N4E5v2JQ=="
+secured: "KhAHdG+GEnVqdGa8QPAxB4tqIDXIoixuQP0Z8V3e8Qhhy49snTw+Fu781xuuB00Dv1063lpt7XaH/nGnmePIy6dW7C5AVJmLqgpU+iNpOqKGsViFy2pFlVH1OsyirCnbW00J8P7HG8/C7p54TRXtJrrwkH6JfKukQ/hVfIPGNxWgDabxpr1xCpcxbtqY+M8tPenr+und80pBCXBKuORcjGwF9UD4101fRxKJH2KMwPwVs9u/qhPd2C/gr9enszSoo6YDPRJK826az3KhkNxpNKH4jSCDOSkq4mpAGsR/bdjL1ZpgxpcRCPJjTUSteKYf9iS07eBIBSfNaCMVl0Q9iwt06DasHzjdhiWOLELGtsc=;A3RjyrzZlMrlr0gtpcfVDA=="
 ---
 

@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu gets California nod for testing empty self-driving cars"
-    excerpt: "Baidu Inc has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor Vehicles said on Wednesday."
-    publishedDateTime: 2021-01-28T02:37:00Z
-    webUrl: "https://www.reuters.com/article/us-baidu-autonomous-idUSKBN29W2OT"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29W2OT"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29W2OT"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210127&t=2&i=1549286737&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0Q1KU"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "UPDATE 1-Baidu gets California nod for testing empty self-driving cars"
-    excerpt: "Baidu Inc has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor Vehicles said on Wednesday."
-    publishedDateTime: 2021-01-28T02:37:00Z
-    webUrl: "https://www.reuters.com/article/baidu-autonomous-idUSL4N2K24B6"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29W2OT"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29W2OT"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210127&t=2&i=1549286737&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0Q1KU"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Baidu gets California nod for testing driverless vehicles on Sunnyvale streets"
     excerpt: "Baidu is the sixth company to have a permit to test without a driver behind the wheel. The permit allows it to test three autonomous vehicles on specified streets within Sunnyvale."
     publishedDateTime: 2021-01-28T16:19:00Z
@@ -73,22 +41,17 @@ related:
         width: 1024
         height: 640
         isCached: true
-  - title: "Self-Driving Cars Spurring Nearby Human Drivers Into Speeding And Abysmal Reckless Driving"
-    excerpt: "Turns out that law abiding self-driving cars can inadvertently spur nearby human drivers into rather bad driving practices."
-    publishedDateTime: 2021-01-28T16:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/01/28/self-driving-cars-spurring-nearby-human-drivers-into-speeding-and-abysmal-reckless-driving/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/01/28/self-driving-cars-spurring-nearby-human-drivers-into-speeding-and-abysmal-reckless-driving/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/01/28/self-driving-cars-spurring-nearby-human-drivers-into-speeding-and-abysmal-reckless-driving/amp/"
+  - title: "Baidu Gets California Nod for Testing Empty Self-Driving Cars"
+    excerpt: "Baidu Inc has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor Vehicles said on Wednesday. Although self-driving vehicles are designed to eliminate the need for a driver,"
+    publishedDateTime: 2021-01-28T09:25:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-01-27/baidu-gets-california-nod-for-testing-driverless-vehicles"
+    ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-01-27/baidu-gets-california-nod-for-testing-driverless-vehicles?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-01-27/baidu-gets-california-nod-for-testing-driverless-vehicles?context=amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600a166556a5e0f16f10ffd8%2F0x0.jpg%3FcropX1%3D1736%26cropX2%3D8688%26cropY1%3D386%26cropY2%3D5378"
-        width: 1200
-        height: 865
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 69
   - title: "University Of Southern California and Amazon establish Center For Secure And Trusted Machine Learning"
     excerpt: "The expectation is that the center will unleash a new line of fundamental research on privacy and security aspects of machine learning –given the proliferation of artificial intelligence across all aspects of society from education to finance,"
     publishedDateTime: 2021-01-29T12:56:00Z
@@ -104,20 +67,6 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-122421,msid-80563839/amazon.jpg"
         width: 600
         height: 450
-        isCached: true
-  - title: "California OKs China’s Baidu for Testing Self-Driving Cars Without Driver"
-    excerpt: "Baidu Inc. has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor"
-    publishedDateTime: 2021-01-28T17:34:00Z
-    webUrl: "https://www.claimsjournal.com/news/west/2021/01/28/301746.htm"
-    type: article
-    provider:
-      name: Claims Journal
-      domain: claimsjournal.com
-    quality: 38
-    images:
-      - url: "https://www.claimsjournal.com/img/claims-journal-logo-640.png"
-        width: 640
-        height: 300
         isCached: true
 
 secured: "JbI609KPZEopFBUB7/CR9Ri1Xf06fJIa2KqS4GjVieE9f6YDa4eaTpfDNQ2RaI5zpCx5ZjkdxttmJqvmxAf2I5IMkh/HMPAjSNdwRZqdimfe6I9oqYBTIke9a+AiNvPxX8ASnnJuLkThogbdSkNwFPxG451GN4s79DLwb19wpbXE8AouAeujUxfynLK8UjydUa40KjDjDJiWlQu2v0g1lh5gLWZtVvExvk3kkxCfx42TtvmN/jJeL6C4D3yDuGe7xnEofnE8mUG93AmamjKE8L3RKTYHSjs4oDmcuQTbpFNYbZk8IKO4Lphy+gwdcG4AjbbNcHcODgVTYZ7JOBcAtU+zI5186IqsM1UqIqLwMmk6uf9ONkagUWa0oyUQhvYemxAGTmXc66u9JdWjVxOHTbR0Wi+KuY6nRm0Yf2Gwys7yw+kWn70lJ2UtZOzv4UhZDapZNpfJmuBItjAcAAxEvE97UPDgCt4G9gdHHMBsEiziLRwgxgG9/fJRvSr4jUcwzQ/1J1n5s21JhBgSXZKwDw==;zQQuPXED+FR6DNmVqpuRbQ=="

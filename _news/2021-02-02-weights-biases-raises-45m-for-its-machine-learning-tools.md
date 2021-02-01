@@ -48,17 +48,20 @@ related:
         height: 600
         isCached: true
   - title: "Weights and Biases Raises $45M Series B to Expand Beyond Experiment Tracking for Machine Learning Practitioners Everywhere"
-    excerpt: "Trusted by 70,000+ users at 200+ enterprises and institutionsSAN FRANCISCO, Feb. 1, 2021 /CNW/ -- Weights and Biases, the Experiment Tracking"
-    publishedDateTime: 2021-02-01T13:22:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/weights-and-biases-raises-45m-series-b-to-expand-beyond-experiment-tracking-for-machine-learning-practitioners-everywhere-1030027502"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/weights-and-biases-raises-45m-series-b-to-expand-beyond-experiment-tracking-for-machine-learning-practitioners-everywhere-1030027502"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/weights-and-biases-raises-45m-series-b-to-expand-beyond-experiment-tracking-for-machine-learning-practitioners-everywhere-1030027502"
+    excerpt: "Weights and Biases, the Experiment Tracking platform that is transforming how teams build and collaborate on Machine Learning (ML) models"
+    publishedDateTime: 2021-02-01T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/weights-and-biases-raises-45m-series-b-to-expand-beyond-experiment-tracking-for-machine-learning-practitioners-everywhere-301218743.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 58
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 28
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
-secured: "kq5+oxzZa81IGfgLsJsdmdULo5HwGMbHYEEIFu0UuQ3Dj7F7+4b3mPOcpdU5/vqz21OfFY2D1oagY6ngplubR9l0EdiUOltonJW9VxQFPfcY3Pr7gJ+79Rz4mZjqfD/oWhxcePZgTdTlXrG3nPC8mVG4ynFQ6kdMJbtRIhF0WVsuc9s+jKfFWNgfk8Xgx5DhGxN/B3s7I/U4Wo7BGeWXXHKpm0iOiqI13EsBkAqXEWsvqW5shpY81dK7YhDyiNPHxzPIR22j/nMXyNts5ENmvO73YmM05O8ifkX1rlIjk5mm750sGqJ/WEMzPLKxHa+j0435K8RNL1ZG36ERQnWOPy3VQjHDuI4fN6cRvyqofng=;52AI+ZbOvDMFULaHpJdu2w=="
+secured: "rYzl5m52Zn9BfZDxwcyKHXT0UJ0qd8ZFvBZri23TEyapEbPY7Mun7JFhGk8wnfbzl5+v8oNclbH9973nKuhXGaEesu/4jxSGMEuvxRg4f4oBi9lallaxwxzFAX5KiOJdG67QKD5VaeIYB5lttg+IfsJg7mc4TyXpzl76XojXtHejgNDuN+yYp8vOFEGle3dSpkSBOdoD1J2vnjpGc7nY3VImV9NldX1blkXal4nGh9pWWPeUGNPnF60UZSp26IbOgAebhb8hkz5313dQXQ1veK/SpSkk+466xFiTnc6YfqMqd+ok+/Y5VlC6NAjxUbUW1Vz8goflCG3NaGYOJqmm3IsSctDbl0K+jOJobgADz5cUO3Qr3Dvbk79L6Fd9AfFWI2QOFpQz9MjBUbfULKeOMSnHAhcxBSMrBWaRXi9AliqrFSYDd2p+1QSG5FlmOS5WZcIm0wd29Z/0vWEnvXiHOBM8SCTeWZFthrBT+gdrja0HNeA0nxRwNe2TI+s9MGgMu+RqCjep8SIhqTgOlaJkgA==;aMW4rxJpiUaF8haQ1pWFLg=="
 ---
 

@@ -48,16 +48,19 @@ related:
         height: 412
         isCached: true
   - title: "Weights and Biases Raises $45M Series B to Expand Beyond Experiment Tracking for Machine Learning Practitioners Everywhere"
-    excerpt: "Trusted by 70,000+ users at 200+ enterprises and institutionsSAN FRANCISCO, Feb. 1, 2021 /CNW/ -- Weights and Biases, the Experiment Tracking"
-    publishedDateTime: 2021-02-01T13:22:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/weights-and-biases-raises-45m-series-b-to-expand-beyond-experiment-tracking-for-machine-learning-practitioners-everywhere-1030027502"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/weights-and-biases-raises-45m-series-b-to-expand-beyond-experiment-tracking-for-machine-learning-practitioners-everywhere-1030027502"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/weights-and-biases-raises-45m-series-b-to-expand-beyond-experiment-tracking-for-machine-learning-practitioners-everywhere-1030027502"
+    excerpt: "Weights and Biases, the Experiment Tracking platform that is transforming how teams build and collaborate on Machine Learning (ML) models"
+    publishedDateTime: 2021-02-01T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/weights-and-biases-raises-45m-series-b-to-expand-beyond-experiment-tracking-for-machine-learning-practitioners-everywhere-301218743.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 58
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 28
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "7R/+7boz2aMnezNMu6pjBIXV9jPUOnSKeDrPUWhlWtAaRrNMvv8buObVyK/hoaSFyDBVDYasrp8K4p4KQiOJouezPlDD5oOXnpW8gtDjQfGYQIoTkAI7bRSN3iMInWtgCGcUfgxmWOzuvZPQdlivLEf52DusUsObtIrbvsEocKO3FpQCbLJC30uVaInVzsXFjCZ3VuiVG6HUzuhTF47ERaOZInaOtm2F41V/U3fBJAN7ZXmHCk0XTQfyFo+9wvCohojxydQU52C8Vxr1ZeCCVATPN+1apG1TDYy90hj6f7Xb70ajeja7sWS2NEYMUfCEIzIuwJAJPapOB0OA//8g/Xim2BxFfx5lmP/rhqW6r4dxgDNTXoee6c34IZ5crra5w6hhEJXTbV+m4cQqvRllE1mTTVjvQmt5yLNZ/jDcmTlghMPIk/KrDw7oEvbiPx033vBuKyqKBJxgBEIzqrpMDuhEbEwc2TDq+w8xVSiIw3Y0LTWZD47NA4RqU4bUUpfGmGoZ7zDnccgieuF+ph/4JA==;34W8cC7B0NvYbEaRUBlDqA=="
 ---

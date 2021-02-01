@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jumio/2021/02/01/5-ways-to-keep-ai-bias
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jumio/2021/02/01/5-ways-to-keep-ai-bias-out-of-online-identity-verification/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 400
     isCached: true
 
-secured: "a5P7vHDpiICvz7zieY0zwdRhn0b6krlCg5xtCtJrxLTtqVwM59AIJgbWGa01tGvtiOwzm+rsqs8deI1l3RgAjOlSqi7MVigWz4N/a6X/AAkgunwWA1xdw4bs0+MIAlAalnu2WC6kX9LAwUrE7SA+jsL3OaoNwa/+o4L2sUX5GoDNVGAhNTQoo8S0vyW+yPZLlcgSJIdY1RPYE2ghnV+/3wb3ucUBzYNNH82BGJbljCqBfg/MeXiIgr992M4kqWWRU+b7So3bm6U0/s3ZYoC1qkvFDODXB6Z8bwLBU59HE+PUN4Svx7fqNBGpEhCSRk9H30G6Q5so2wZXbqfyPHzKv31HyMwahmW2XhM87IOYh90=;uoM3zMiGa67l+dJR8KZoCQ=="
+secured: "Ta7tVnvD3Wvy/uPN+3XzBsNg1uzRHICyJ5U3HfyNaOUVMvFYlmUEim7Fbs+df540B06GS0uUtiLeMetfMgYfhFvclHDd9PoLAiZqUuU1nA1peEBJPMK420aqqeUKEqhxiY9a4s/zS3syd1inoXIXy3zpKE7DEA3nnFIScWvG29xCu4KeyD+jBMloFhUBfsLGBWV1w0ea63ngAI3zc8k0FfQlLje1vP1VEBZBGRLG9Kz/nHSqkodV968NLD0NKim+KHO5IvMroqNfvI0m90fOE8TRn7I2gZC8T9H4JRG8reZhiQcWICtxyMYufCoynjnu0rTnTY6OiiVp+Tev5FRIoNPqK2C7rtYW5/K+XAvrqOqi/tp1WF327PKUf729T6xjW2xp7gNLUFSKAQ7gAMOB9XQZbUuLi8p9uprEndsA/S5eOL8bangOOGELjgZ2jGfmxcP5U578KGgD2/rlADEiuYwUh6gS60Zhp3RMONRDBmIfFZF58h+RUB58oFb9vY8WgCqjHswMT+a6nbSAE54V8Q==;8Bo8qJQ3TmyMVmn4nAtEPw=="
 ---
 

@@ -6,8 +6,8 @@ publishedDateTime: 2021-02-01T15:03:00Z
 originalUrl: "https://www.nature.com/articles/s41569-020-00503-2"
 webUrl: "https://www.nature.com/articles/s41569-020-00503-2"
 type: article
-quality: 32
-heat: 32
+quality: 34
+heat: 34
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI in Healthcare
   - AI
   - Natural Language Processing
+  - Machine Learning
 
 images:
   - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41569-020-00503-2/MediaObjects/41569_2020_503_Fig1_HTML.png"

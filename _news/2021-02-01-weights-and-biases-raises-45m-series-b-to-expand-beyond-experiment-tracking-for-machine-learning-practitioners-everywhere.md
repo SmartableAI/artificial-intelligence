@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Weights and Biases Raises $45M Series B to Expand Beyond Experiment Tracking for Machine Learning Practitioners Everywhere"
-excerpt: "Trusted by 70,000+ users at 200+ enterprises and institutionsSAN FRANCISCO, Feb. 1, 2021 /CNW/ -- Weights and Biases, the Experiment Tracking"
-publishedDateTime: 2021-02-01T13:22:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/weights-and-biases-raises-45m-series-b-to-expand-beyond-experiment-tracking-for-machine-learning-practitioners-everywhere-1030027502"
-webUrl: "https://markets.businessinsider.com/news/stocks/weights-and-biases-raises-45m-series-b-to-expand-beyond-experiment-tracking-for-machine-learning-practitioners-everywhere-1030027502"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/weights-and-biases-raises-45m-series-b-to-expand-beyond-experiment-tracking-for-machine-learning-practitioners-everywhere-1030027502"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/weights-and-biases-raises-45m-series-b-to-expand-beyond-experiment-tracking-for-machine-learning-practitioners-everywhere-1030027502"
+excerpt: "Weights and Biases, the Experiment Tracking platform that is transforming how teams build and collaborate on Machine Learning (ML) models"
+publishedDateTime: 2021-02-01T13:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/weights-and-biases-raises-45m-series-b-to-expand-beyond-experiment-tracking-for-machine-learning-practitioners-everywhere-301218743.html"
+webUrl: "https://www.prnewswire.com/news-releases/weights-and-biases-raises-45m-series-b-to-expand-beyond-experiment-tracking-for-machine-learning-practitioners-everywhere-301218743.html"
 type: article
-quality: 58
+quality: 28
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "Weights & Biases raises $45M for its machine learning tools"
@@ -58,6 +58,6 @@ related:
         height: 600
         isCached: true
 
-secured: "gSbi5HNZUo4jVrhWdJvg64Owmben6qYXtXUyG3s3Wfe/Pjifoa2CUOkdMrinfWWTM2H0CInnTlIUc06X+fD5TQ4UuRjzZn1wFe+hlXtEKcEFLfDusdhfltDGRZIMCDWZdyIliMEMf8UpdqN/tlpUmr3Nb6njRsPqplhTzLKqngksrSWo6U/x/rgc/qd9kvjA4HHrmOBTynPeaR1sigLN7edRemwU6gllIwubeAKAoYIj0z7346Kg8ZC8BFy3TG7Hj0Mdbaculn/6tuWykv+u/B8MTZd3sFkXCohqPZ2byTK4aqkhb24/uLXYzL3FKn7mmR1xLSls0uRTyrEXD7QnDI2unfRkIdQQ2XZCXgvPG3E=;mHWpffyp2FEQP2mBt8t3YQ=="
+secured: "1XE2lllcX2j+PTxNDtqd6tYIDGbNjwYK+9K4aALVnMe4MYZ06y5w5QE46pHqzEiCAYyekiTMx1sSJMHNuErF1so2rm65xDV+v/BMhGwyBK+p3B51zbj/NndB6iFfyiuRPY7VrvmD87HD+JGs4kb743zcGiDl3SHP5ws3Se0sQqKUfQWUENdR1bx5iAahe7NsTlwPweVzVPILCWF6Bf+6NQoCBG9HhTX4MFJGt9ve0VV1xpWPHYK9uGdIl4iX6+apYEzaFp6OnB0rV96IIgTlIfGH3FR38G/BP6ZDaB+Sy/X08dmwB6isVZxGgH11BHD3eiGvrsIjlNQVcSTzGigrrL3s+j/SrM5s+YYrajVPnF0=;GLjdxOAW45c7YSRCqOzbxQ=="
 ---
 

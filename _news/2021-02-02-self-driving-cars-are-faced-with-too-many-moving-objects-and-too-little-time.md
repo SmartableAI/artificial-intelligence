@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/02/01/self-driving-cars
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/01/self-driving-cars-are-faced-with-too-many-moving-objects-and-too-little-time/amp/"
 type: article
 quality: 71
-heat: -1
-published: false
+heat: 101
+published: true
 
 provider:
   name: Forbes
@@ -31,55 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla had talks with other automakers about licensing its self-driving software, Elon Musk says"
-    excerpt: "Tesla had “preliminary” discussions with other automakers about licensing its self-driving software, according to new comments by CEO Elon Musk. Tesla Licensing Software Today, Tesla released its Q4 2020 financial results and following the release,"
-    publishedDateTime: 2021-01-28T01:46:00Z
-    webUrl: "https://electrek.co/2021/01/27/tesla-talks-automakers-licensing-self-driving-software-elon-musk/"
-    ampWebUrl: "https://electrek.co/2021/01/27/tesla-talks-automakers-licensing-self-driving-software-elon-musk/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/01/27/tesla-talks-automakers-licensing-self-driving-software-elon-musk/amp/"
+  - title: "Self-Driving Cars Spurring Nearby Human Drivers Into Speeding And Abysmal Reckless Driving"
+    excerpt: "Turns out that law abiding self-driving cars can inadvertently spur nearby human drivers into rather bad driving practices."
+    publishedDateTime: 2021-01-28T16:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/01/28/self-driving-cars-spurring-nearby-human-drivers-into-speeding-and-abysmal-reckless-driving/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/01/28/self-driving-cars-spurring-nearby-human-drivers-into-speeding-and-abysmal-reckless-driving/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/01/28/self-driving-cars-spurring-nearby-human-drivers-into-speeding-and-abysmal-reckless-driving/amp/"
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 77
+      name: Forbes
+      domain: forbes.com
+    quality: 64
     images:
-      - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2019/10/Tesla-Autopilot-hero-4-e1570845324247.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600a166556a5e0f16f10ffd8%2F0x0.jpg%3FcropX1%3D1736%26cropX2%3D8688%26cropY1%3D386%26cropY2%3D5378"
         width: 1200
-        height: 628
+        height: 865
         isCached: true
-  - title: "Don't Fall for Elon Musk's Self-Driving Car Fallacy"
-    excerpt: "The Tesla CEO continues to overestimate the long-term profit potential of Tesla's self-driving car technology."
-    publishedDateTime: 2021-01-31T16:38:00Z
-    webUrl: "https://www.fool.com/investing/2021/01/31/dont-fall-for-elon-musks-self-driving-car-fallacy/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2021/01/31/dont-fall-for-elon-musks-self-driving-car-fallacy/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/01/31/dont-fall-for-elon-musks-self-driving-car-fallacy/"
+  - title: "California OKs China’s Baidu for Testing Self-Driving Cars Without Driver"
+    excerpt: "Baidu Inc. has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor"
+    publishedDateTime: 2021-01-28T17:34:00Z
+    webUrl: "https://www.claimsjournal.com/news/west/2021/01/28/301746.htm"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 74
+      name: Claims Journal
+      domain: claimsjournal.com
+    quality: 38
     images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F610624%2Findustrials-autos-tesla-model-3-tsla.JPG&w=1200&op=resize"
+      - url: "https://www.claimsjournal.com/img/claims-journal-logo-640.png"
+        width: 640
+        height: 300
+        isCached: true
+  - title: "App will help visually impaired, seniors enjoy ride-sharing with self-driving cars"
+    excerpt: "A research group led by the Virtual Environments and Multimodal Interaction Laboratory (VEMI Lab) at the University of Maine is developing a smartphone app that provides the navigational assistance needed for people with visual impairments and seniors to enjoy ride-sharing and ride-hailing."
+    publishedDateTime: 2021-01-29T18:56:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-01/uom-awh012921.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 33
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
         width: 1200
-        height: 601
-        isCached: true
-  - title: "Tesla FSD Beta helps Sandy Munro change tune on self-driving"
-    excerpt: "Tesla FSD Beta helps Sandy Munro change his tune on self-driving after an unfavorable past experience with semi-autonomous electric vehicles."
-    publishedDateTime: 2021-01-29T14:34:00Z
-    webUrl: "https://www.teslarati.com/tesla-fsd-beta-sandy-munro-self-driving-video/"
-    ampWebUrl: "https://www.teslarati.com/tesla-fsd-beta-sandy-munro-self-driving-video/amp/"
-    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-fsd-beta-sandy-munro-self-driving-video/amp/"
-    type: article
-    provider:
-      name: Tesla News
-      domain: teslarati.com
-    quality: 59
-    images:
-      - url: "https://www.teslarati.com/wp-content/uploads/2021/01/tesla-fsd-beta-sandy-munro-video-1024x479.jpg"
-        width: 1024
-        height: 479
+        height: 675
         isCached: true
 
-secured: "noOjGprDB6u088iVQKqocKEg78slnAH5HWu5oRJvmzSPYBKNyk5U3cpz3ObIru0bREG2qW4JysnEbajPyvJRIorHeEuuHa4OcQnNSNMKDv8pTSdmSh3PUBA0sKlIkKncSfee1tyUZy6pwtADTwiCkp81uK3Chwjja4bm4UosZpqaeVvAN9H96WO8AUtL1jSTV1Ty3KITgXCukNVvHCYnD+3l9toEJoLxthnLRcCNDkX+3OAg7H5wW/AEv2Qfycrkxr6Y1ejhVh9QNOtxpzy+aNTllPbzYXN33yIb5YPM2+Aup9QG3VQjKK8aaa0CrqJ1ahkJMyjt9zMI26+a83Z865n25be5s8+SDARaFlxpB14=;+mf+VJW6vxNMFWgKBkqzMg=="
+secured: "dUCiTHQdkDCyw8iBA7sdSQYHVpIMCdvCCt28GpZn84HvCC4DBCS+cK2/NxOJwRDQ0SOatdWu9eySohdtaQNxRDIyFVJ0pl8RJht0E12h00WdbcGnsVoamptmwaMZ/LUqdoXVEykdsZZutFluNLU1taSBVkMXmgBLfjYDmV3yq9HhCVhvGmC1K7H4ku5iy/4hA3Rc0xzF9EuLGpk/nGEzdd3sY0py36v4B4uNDq77pvVtOfOsH1zOMaMdALtj5YTwj+SQKZqTWHuvRui53IOtz1uiHJ/o7JDrDT/ehAqRfuMyHBHPP6O/SVUgCuvM7KYzo/aTO9uBAVq7SP0+UCD8iE1oSDyTB31hRnSyocga4N02O4SzRZLynvc9mbd91m63NCEdPRFf0ZjG3aBZQLOJBtgBs5pV9BJL+SDeIYlpiYdCbKCblgHdbbZkjKpa72BtXi44GRYUixqF3ByPfLEbONvMvQNp6017NynKCEnoKV14MXNod4GiWHxbwI+a9NUFPQqeztUoiQuq7AJXedO5gA==;lWBjmzPMjAVBXcXIH1zTTQ=="
 ---
 
