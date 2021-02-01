@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-12-03-autoxs-robo-taxi-service-in-shenzhen-leaves-out-the-human-driver.md",
+      "title": "AutoX’s robo-taxi service in Shenzhen leaves out the human driver",
+      "excerpt": "AutoX, a China-based startup developing self-driving cars, has launched a fully driverless taxi service in Shenzhen.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/03/autoxs-robo-taxi-service-in-shenzhen-leaves-out-the-human-driver/",
+      "originalUrl": "https://venturebeat.com/2020/12/03/autoxs-robo-taxi-service-in-shenzhen-leaves-out-the-human-driver/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/383ee54a-aeb2-492e-928e-c3d6b2d8e352-e1595013776178.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/03/autoxs-robo-taxi-service-in-shenzhen-leaves-out-the-human-driver/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/03/autoxs-robo-taxi-service-in-shenzhen-leaves-out-the-human-driver/amp/",
+      "publishedDateTime": "2020-12-03T04:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-03-self-driving-robotaxis-are-taking-off-in-china.md",
       "title": "Self-driving robotaxis are taking off in China",
       "excerpt": "The Shenzhen-based firm focuses on making the technology that goes into self-driving cars, and partners with major automakers, such as Fiat Chrysler, to develop and put out its robotaxis.",
@@ -1343,58 +1395,6 @@
         "AI in Healthcare",
         "Microsoft AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-self-driving-cars-could-become-your-neighborhood-ice-cream-truck.md",
-      "title": "Self-Driving Cars Could Become Your Neighborhood Ice Cream Truck",
-      "excerpt": "Anticipating the advent of self-driving ice cream trucks. getty. As a freezing cold winter begins to descend upon us, your thoughts undoubtedly turn toward a summertime pastime th",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/22/self-driving-cars-could-become-your-neighborhood-ice-cream-truck/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/22/self-driving-cars-could-become-your-neighborhood-ice-cream-truck/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb306f7f4dd0e453d0deb0b%2F0x0.jpg",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/22/self-driving-cars-could-become-your-neighborhood-ice-cream-truck/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/11/22/self-driving-cars-could-become-your-neighborhood-ice-cream-truck/amp/",
-      "publishedDateTime": "2020-11-22T08:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -9,8 +9,8 @@ ampWebUrl: "https://galusaustralis.com/2021/01/1047902/towards-a-framework-for-f
 cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2021/01/1047902/towards-a-framework-for-face-recognition-in-europe/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: galusaustralis.com
@@ -42,6 +42,20 @@ related:
       - url: "https://www.gizchina.com/wp-content/uploads/images/2021/01/Facial-Recognition-1024x483-1.jpg?mrf-size=m"
         width: 480
         height: 226
+        isCached: true
+  - title: "Deep-learning-based high-resolution recognition of fractional-spatial-mode-encoded data for free-space optical communications"
+    excerpt: "Structured light with spatial degrees of freedom (DoF) is considered a potential solution to address the unprecedented demand for data traffic, but there is a limit to effectively improving the communication capacity by its integer quantization."
+    publishedDateTime: 2021-01-29T20:16:00Z
+    webUrl: "https://www.nature.com/articles/s41598-021-82239-8"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 0
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-82239-8/MediaObjects/41598_2021_82239_Fig1_HTML.png"
+        width: 685
+        height: 322
         isCached: true
 
 secured: "Omk5NVbOgrXPoZ7WMfML3dKCcVUooDApuFSb6x1PM5cFgpLvu+x7i9gRs7g8/+AppthkLAdHABlAUOH7bQcQ6yXFAB+COi+2URIyf8gCQhpA692tf56DaEZfWWffsYyj9rrdt1a5rpq7lGs8B8A4hzJIDr7XMebvHcz5zXS77JfsnUMPTgHRYX/XN81Nt7yjuqLxoSkhCEr+4Yv+HVGaTQ2TFGqoUN1siynYLpb8s61nGXSu8tPyXt20Ec5bv3oIvnYahbQwrgvjang7qaBHSezlTDtWr94zYTAavrCtwYZP+F7b9QWL2bUOCSfP0tqsyMgeij9V2sKToMVkVtn3DXYu2MKRxJnHO1jSJckrC8s=;3OmANPa165O3V16bxzqZnw=="

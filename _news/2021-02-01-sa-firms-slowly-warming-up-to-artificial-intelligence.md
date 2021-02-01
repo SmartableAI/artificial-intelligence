@@ -8,8 +8,8 @@ webUrl: "https://www.itweb.co.za/content/mQwkoM6P46pv3r9A"
 ampWebUrl: "https://amp.itweb.co.za/content/mQwkoM6P46pv3r9A"
 cdnAmpWebUrl: "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/mQwkoM6P46pv3r9A"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI Ethics
+  - Facebook AI
 
 images:
   - url: "https://www.itweb.co.za/static/pictures/2021/02/Dries-Cronje-2021.jpg"
@@ -26,6 +27,6 @@ images:
     height: 459
     isCached: true
 
-secured: "wSli9SpFPKtFD1OoT7LF6HUBH0aJ4HOOB6DeWWjioZAqb7QopFvMJSvT8lCBmgwNKNvWgcHAwgcmsZ6SG5rqpLK6ccmdomM84Uqtyd2fwnpL3WAZKeX+CPEWRIGxFfAc3pMkkgFKHMhdymow8AuQskrEBhsID6L+rglmU10ld5iv92rHgtWYmIwIFF4TndApiQNnOm2GL6eyM6mka7SvxMwUwmPcH4ydXMKquO2TPu+6vRJTn4nxqdJCRv4KHSDAZSsW0ncAFqMvFGREDpMFnNwN0hVNyOUE30l/K/rjnnjVaCGgtkvQvFqqVfInLQaEETcSk4y9sy78GR+5JQawWyigkFBfMIQt9UBsB/iLY8c=;PKuino3zWMI3ZHoK/zyzbw=="
+secured: "tIQAcXY9pH562ZN+mTqrnEGyv5CLfxjcqD06zGZEAQmFHom5BJP8ExNtq2OeblMPrpxPpgibm8yqLQJzvYekdbm7zF25GmlJAN1l6H4IltUjUfZZ7tG8TWI5QlMT2XhhEys6oxZOFVZz7bDtyOs+9lAlpK4hDF6G7mM+6xFUDxL5fertRdDK+gzozNtbh4ldxjt3r28ripRGS23dBy+C1fdGC80MreKGGUMpr6j5Q8OYdrsoitmOF2RbT/rOCphG+g7LPihfA+6gW0usIF5wm/pa+wkQA88ZaletZlkfFx3szYXcxEV9ubLh6nmi4vWwLCaY/JOnBKaoCIqse6+yDrbmPksNLSy0Qz2rGg8zY3uLUeRLIp5OzMJat4nCLlu+ebd10+d3ARNKjFjGGMT7UGPJ9jak0afWVMUNTPJd6kOG+NgreRpfaB18VDJcwPMpaRyzk7V/0OSCbU0QDoUak/l8puJnPlfGkhUCM8kwQQrs4TI9g0P2mFrZISZLZ9E0JKpF3MLLRjNuIsisjv//uA==;8gFkfBgOzOMVzyMA/1NZPw=="
 ---
 

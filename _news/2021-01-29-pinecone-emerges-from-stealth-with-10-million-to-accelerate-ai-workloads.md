@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/pinecone-emerges-from-s
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/pinecone-emerges-from-stealth-with-$10-million-to-accelerate-ai-workloads-9748315"
 type: article
 quality: 66
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -37,6 +37,20 @@ related:
       - url: "https://www.finsmes.com/wp-content/uploads/2018/07/espressive-400x293.jpg"
         width: 400
         height: 293
+        isCached: true
+  - title: "NWO.ai Emerges From Stealth With $3.5 Million To Scale Its Global Trendcasting Platform"
+    excerpt: "NWO.ai, the predictive AI platform that helps leading enterprises identify microtrends before they become exponential, announces a $3.5 million seed round. The round was co-led by Hyperplane, Wavemaker,"
+    publishedDateTime: 2021-02-01T12:31:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/b30307506490974d0d55bdd793196cdd"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 29
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Pinecone leaves stealth with $10M, launches first serverless vector database for machine learning"
     excerpt: "Built by the team behind Amazon SageMaker and founded by scientist and former AWS Director Edo Liberty, Pinecone makes large-scale real-time inference as simple as querying a database. It is ..."

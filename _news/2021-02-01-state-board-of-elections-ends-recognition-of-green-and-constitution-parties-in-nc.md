@@ -25,28 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "China growing use of emotion recognition tech raises rights concerns"
-    excerpt: "Technology that measures emotions based on biometric indicators such as facial movements, tone of voice or body movements, is increasingly being marketed in China, researchers say, despite concerns about its accuracy and wider human rights implications."
-    publishedDateTime: 2021-01-27T19:58:00Z
-    webUrl: "https://www.reuters.com/article/china-growing-use-of-emotion-recognition-idUSL8N2K2500"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL8N2K2500"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2K2500"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-  - title: "Global Image Recognition in Retail Market 2020-2025 - Growing Adoption of Cloud-Based Image Recognition Solutions"
-    excerpt: "The \"Global Image Recognition in Retail Market (2020-2025), by Technology, Component, Application, Deployment, Geography and the Impact of Covid-19 with Ansoff Analysis\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2021-01-28T12:48:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/global-image-recognition-in-retail-market-2020-2025-growing-adoption-of-cloud-based-image-recognition-solutions-1030014644"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/global-image-recognition-in-retail-market-2020-2025-growing-adoption-of-cloud-based-image-recognition-solutions-1030014644"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-image-recognition-in-retail-market-2020-2025-growing-adoption-of-cloud-based-image-recognition-solutions-1030014644"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
   - title: "Emotion recognition tech in China raises rights concerns"
     excerpt: "Technology that measures emotions based on biometric indicators such as facial movements, tone of voice or body movements is increasingly being marketed in China, researchers say, despite concerns about its accuracy and wider human rights implications."
     publishedDateTime: 2021-01-30T16:03:00Z
@@ -75,20 +53,6 @@ related:
         width: 1240
         height: 826
         isCached: true
-  - title: "Facial Recognition Technology is now Capable of Identifying Political Views"
-    excerpt: "Michal Kosinski's new research indicates facial recognition technology is now capable of exposing people’s political orientation from naturalistic facial images using a machine learning algorithm."
-    publishedDateTime: 2021-01-31T05:14:00Z
-    webUrl: "https://www.analyticsinsight.net/facial-recognition-can-reveal-your-political-orientation/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 37
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/FR.png"
-        width: 900
-        height: 552
-        isCached: true
   - title: "States ponder facial recognition regulation, survey shows heightened privacy concerns in China"
     excerpt: "More regulations for facial recognition may be coming, with NJ considering a wide-ranging proposal, and a new Amnesty International campaign against the technology. A U.S. Congressman says the country needs federal privacy regulation, while in China the ..."
     publishedDateTime: 2021-01-28T18:09:00Z
@@ -98,20 +62,6 @@ related:
       name: Biometric Companies
       domain: biometricupdate.com
     quality: 27
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing-1024x662.jpeg"
-        width: 1024
-        height: 662
-        isCached: true
-  - title: "Facial recognition regulation proposed in NJ, urged in NY; Chinese uncomfortable with status quo"
-    excerpt: "The legislation proposes a moratorium on biometrics collection by state agencies, and restrictions on private sector use of facial recognition technology."
-    publishedDateTime: 2021-01-27T20:00:00Z
-    webUrl: "https://www.biometricupdate.com/202101/facial-recognition-regulation-proposed-in-nj-urged-in-ny-chinese-uncomfortable-with-status-quo"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 26
     images:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing-1024x662.jpeg"
         width: 1024
@@ -155,20 +105,6 @@ related:
       - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-82135-1/MediaObjects/41598_2021_82135_Fig1_HTML.png"
         width: 535
         height: 685
-        isCached: true
-  - title: "Deep-learning-based high-resolution recognition of fractional-spatial-mode-encoded data for free-space optical communications"
-    excerpt: "Structured light with spatial degrees of freedom (DoF) is considered a potential solution to address the unprecedented demand for data traffic, but there is a limit to effectively improving the communication capacity by its integer quantization."
-    publishedDateTime: 2021-01-29T20:16:00Z
-    webUrl: "https://www.nature.com/articles/s41598-021-82239-8"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 0
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-82239-8/MediaObjects/41598_2021_82239_Fig1_HTML.png"
-        width: 685
-        height: 322
         isCached: true
 
 secured: "Pt2DXDQNK62ekEjbTM6YQ+LrfS0rLsRjfPtKPwjs18xDevxYLkefwlK2RPwlLTTfQUgedxdYtIvHh3jhCB4Ar1vwXAoksySLA0y/BPzMtQvUuxHLbm1FxujmvwxczEXROUCEozdLhrdq5MFt8lMcO1X0Ta7l3km2HKzThUR9RTyDKaOjkC5qsTl9b0s/AWXryW2NPQ5tfsyJmHv+QO3UHGgO8JUnGn7Z4CRCWooJMvCWm6mflukH8VT6bZ2fxWhfuwpaUNYoQOOOlr6skM8Eb74zFurotY1sz7ONorsvywwryzYoEnSJ/Da2DNxmeg8unxU5TNW43vrfTIT0h6IH1TGC8mTvlXigJ9M5wRikWS4=;uPVZDvoK6mWeJrL+IYCVHw=="

@@ -1,45 +1,26 @@
 ---
 category: news
 title: "Neurotechnology Releases New SentiVeillance 8.0 SDK for Identification and Analytics Using Live and Video Streams"
-excerpt: "New SentiVeillance 8.0 SDK from Neurotechnology provides identification and analytics using live video streams from digital surveillance cameras or video files, and it includes algorithms for face recognition,"
-publishedDateTime: 2021-01-18T14:45:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-europe-corporate-news-products-and-services-d895c5e344b25e95b16491272b90d6ff"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-europe-corporate-news-products-and-services-d895c5e344b25e95b16491272b90d6ff"
+excerpt: "a provider of deep-learning-based solutions and high-precision biometric identification and object recognition technologies, today announced the release of the SentiVeillance 8.0 software ..."
+publishedDateTime: 2021-01-18T11:44:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/neurotechnology-releases-new-sentiveillance-8-0-sdk-for-identification-and-analytics-using-live-and-video-streams-1029977135"
+webUrl: "https://markets.businessinsider.com/news/stocks/neurotechnology-releases-new-sentiveillance-8-0-sdk-for-identification-and-analytics-using-live-and-video-streams-1029977135"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/neurotechnology-releases-new-sentiveillance-8-0-sdk-for-identification-and-analytics-using-live-and-video-streams-1029977135"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/neurotechnology-releases-new-sentiveillance-8-0-sdk-for-identification-and-analytics-using-live-and-video-streams-1029977135"
 type: article
-quality: 3
-heat: -1
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-related:
-  - title: "Neurotechnology SentiVeillance 8.0 SDK: Creating identification by using live video streams"
-    excerpt: "Neurotechnology announced the release of the SentiVeillance 8.0 SDK for identification and analytics using live and video streams."
-    publishedDateTime: 2021-01-19T02:02:00Z
-    webUrl: "https://www.helpnetsecurity.com/2021/01/19/neurotechnology-sentiveillance-8-0-sdk/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 14
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
-        width: 1200
-        height: 627
-        isCached: true
-
-secured: "wLcE4wmrUkgDK+9U6NtpZmtJjgqfIkaOLwM2/0VLEZ4ACShvZEE5xqaI9cGuU1Df8IvxwZv66MR9weVujldBNYMEnsn77tGnnduCOZ1ZB/u0iX6tY4QkgFzKp/NxFV84Ch+3TxB2x8M3v5NWjKQlJ4lqnwN0thWrUF4a91T91Lr5E8JrjlBfUP5JL07m7TDprPI2SusEzjBf5FfLg2RHCdJh9wVIHENBT+PUDvGfiKFyoNVIczYeMjY33mY5YSE26kcXUB7MgGjWxFXyRNYQDRQ4+RCeQ6rLh30BKkIwKvrfXi2hdmUzyRBipCZOeRvSFvBnwvYWppepPrM41b+O+4g4n0aTMrPlGsNVfDl2dxg=;QdKVMGyCtpOseYuUUWkc2w=="
+secured: "3UL539CLsVIl+DtcsnO2QBqFjjFd9fpCPHk/KyjKrOdlXu4ddyJlOTXxLvPAWr77OaqsaowIWbHF1BukHQ20gz+XJFY1vnLQzuRs8hk7xJOVnHj+lgfe8CMg03Xj4PhqbSme6OQIremWo6Vy/d+A2oAHqbN6xL5fkgzP0sU3HP6iAYTWKnl5D3XDr54M5tlubyJtSvQ7YVx/lqLxkcndTD7jM4XEXAGakOq3fvriX9PGJZbCxyJY6iePiWQPy48fb/dQ6rjOaFfuA4yPi3BbfSl1VQmTehoOjOYzUXHSbHInj5JlHDI2I4l3H3ov6lT4AEIFKiewESxzCAl2kYtxaZ+yU9bTgqhyU76XI2HFk6k=;bYf/Mkr27PlckzEyBuNILQ=="
 ---
 

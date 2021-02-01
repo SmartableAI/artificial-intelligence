@@ -8,8 +8,8 @@ webUrl: "https://theconversation.com/artificial-intelligence-must-not-be-allowed
 ampWebUrl: "https://theconversation.com/amp/artificial-intelligence-must-not-be-allowed-to-replace-the-imperfection-of-human-empathy-151636"
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/artificial-intelligence-must-not-be-allowed-to-replace-the-imperfection-of-human-empathy-151636"
 type: article
-quality: 50
-heat: 50
+quality: 52
+heat: 52
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI Ethics
 
 images:
   - url: "https://images.theconversation.com/files/381307/original/file-20210129-17-wkmj6z.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
@@ -26,6 +27,6 @@ images:
     height: 213
     isCached: true
 
-secured: "X+Tn1WFfa1SpfmmzuI2/RbZAPp7P1wCpUjVC5v2O9qLdnxlSTbogcoSJ/heQ/vgFxRyXt2jf0xOH3OIHe8M65Fxbr/Q3Wt/xbkLsQm1np10fueTs8qu7VV56y6cbcNjHmBB5JkowoMhUMchaFiv26ckDitEwAfBazFsS8z5BfVuQNayTs/b1QZrzqPIkyqaXHzXjZranKHdlHfcjkcoA8i9CF0oUvyy5YG2i8ycZdyu95m8IPFHqk6hrHJwwy42+UkJiPtRZljFVydNcDeii7KgW90wvyQbDogP8fcQ/3OpTsHcYJ/k309YkZrrqHNw/M367fiPvSUAUvWICQKPP0lCHvfxIO4WvTrONfI3YvQU=;VLvd5UNlTi6+ynK5Xy2TSA=="
+secured: "XXapExjVxmoIEx3+FH1MUcGDxSXc+TTMPwLkCQ7ssXD5YTHs2acqQbeQFCmaA+ID0E8cI7AcBk1tCoXbcvdv16V0MwcMkXmK2R3ow6Kex6LBK6OYywreiYhrtyzPIdvauaeFKzgs446uu7RwqCLjFyyO1rt+5a3RNJNuIUoy0cEQRGwO42fzlEYypH9UIbzD7rWGVVoTkxNzoZPLTSUsPUK/zhVwI+A9ZCx8BH7J9lQFTC45WUWizNpdobdibUs/RpQvkra4K9xIljrWWmu+OVTXZwHge50ZwGo6nRkZIrELHyX58miRBDEMs+26tHqlP1zPQPARmPWX9Kj9weLImTcgCxuVuW8eRITEhyfLAYMMS2BkAEKolrR6Z+El8rLekEVPGaQejGj0MExTyQe1TpIntPFC4MAkfUEnhIk0RLiOx7j/mxVKw+IkgSxcTzp2tUgSNAKzeBeMIcdPzgGwZV0TbadqgGej5UtThRN70V5EGHVN2BG/T6dVzt+FgVUQL96WbjRL1Dd8eCmb6q8U4g==;7QQe9DgKJImkZu3EugP1UA=="
 ---
 

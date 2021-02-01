@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-20-paccar-aurora-to-develop-self-driving-big-rigs.md",
+      "title": "Paccar, Aurora to Develop Self-Driving Big Rigs",
+      "excerpt": "Truck-maker Paccar will work with autonomous vehicle startup Aurora Innovation to develop self-driving heavy-duty trucks, the latest in a growing series of deals aimed at bringing automation to the business that moves most of the freight in the U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/paccar-aurora-to-develop-self-driving-big-rigs-11611090000",
+      "originalUrl": "https://www.wsj.com/articles/paccar-aurora-to-develop-self-driving-big-rigs-11611090000",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-287222/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/paccar-aurora-to-develop-self-driving-big-rigs-11611090000",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/paccar-aurora-to-develop-self-driving-big-rigs-11611090000",
+      "publishedDateTime": "2021-01-19T12:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-20-microsoft-joins-2b-investment-in-cruise-to-speed-commercialization-of-self-driving-vehicles.md",
       "title": "Microsoft joins $2B investment in Cruise to speed commercialization of self-driving vehicles",
       "excerpt": "The company had planned to launch a self-driving commercial taxi service in 2019, but missed that deadline. Microsoft previously partnered with Chinese tech giant Baidu as its cloud partner for ...",
@@ -1359,58 +1411,6 @@
         "name": "Middle East North Africa Financial Network",
         "domain": "menafn.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-nio-teams-up-with-nvidia-qualcomm-in-self-driving-car-development.md",
-      "title": "NIO teams up with Nvidia, Qualcomm in self-driving car development",
-      "excerpt": "NIO has partnered with Nvidia and Qualcomm in the development of the next generation of automated vehicles. The Chinese vendor, which holds a strong position in its domestic electric vehicle (EV) market,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/nio-teams-up-with-nvidia-qualcomm-in-self-driving-car-development/",
-      "originalUrl": "https://www.zdnet.com/article/nio-teams-up-with-nvidia-qualcomm-in-self-driving-car-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2021/01/11/b918fd41-b28a-4732-be81-bc1129e5790f/screenshot-2021-01-11-at-10-10-51.png",
-          "width": 1870,
-          "height": 1184,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nio-teams-up-with-nvidia-qualcomm-in-self-driving-car-development/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nio-teams-up-with-nvidia-qualcomm-in-self-driving-car-development/",
-      "publishedDateTime": "2021-01-11T03:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

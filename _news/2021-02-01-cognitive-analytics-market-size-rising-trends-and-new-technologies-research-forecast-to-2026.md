@@ -29,33 +29,37 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence (AI) in manufacturing Market Analysis By Growth, Emerging Trends and Future Opportunities"
-    excerpt: "Artificial intelligence (AI) in manufacturing Market Size, Demand-sales, Suppliers By Key Applications Detailed Analysis and Growth Aspects on Manufacturing Landscapes and Regional Analysis \"Market Overview: Global Artificial Intelligence in Manufacturing Market is valued approximately USD 1 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 57."
-    publishedDateTime: 2021-01-29T13:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-analysis-by-growth-emerging-trends-and-future-opportunities-2021-01-29"
+  - title: "Budget 2021: AI, ML and analytics to ease compliance burden and check tax evasion"
+    excerpt: "The Union Budget 2021 presented by Finance Minister Nirmala Sitharaman threw emphasis on technologies like Artificial Intelligence and Machine Learning, and their application to the e-Governance, GST and easing"
+    publishedDateTime: 2021-02-01T12:45:00Z
+    webUrl: "https://www.dqindia.com/budget-2021-ai-ml-analytics-ease-compliance-burden-check-tax-evasion/"
+    ampWebUrl: "https://www.dqindia.com/budget-2021-ai-ml-analytics-ease-compliance-burden-check-tax-evasion/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/budget-2021-ai-ml-analytics-ease-compliance-burden-check-tax-evasion/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
+      name: Dataquest
+      domain: dqindia.com
+    quality: 71
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/02/AI-analytics-Union_Buget_2021.jpg"
+        width: 850
+        height: 400
         isCached: true
-  - title: "Artificial Intelligence in Military Market to Witness Astonishing Growth With Vital Key Players | Leidos Inc, Thales Group"
-    excerpt: "A consciously conceived and designed business intelligence report titled Global Artificial Intelligence in Military market 2021 by Manufacturers, Type, and Application, Forecast to 2030 by MarketResearch."
-    publishedDateTime: 2021-01-29T10:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-to-witness-astonishing-growth-with-vital-key-players-leidos-inc-thales-group-2021-01-29"
+  - title: "Budget 2021: Govt using Artificial Intelligence to track GST tax evasion"
+    excerpt: "Budget 2021 saw Finance Minister Nirmala Sitharaman emphasise on the use of AI technology to enable compliance, adjudication of disputes on Ministry of Corporate Affairs"
+    publishedDateTime: 2021-02-01T09:36:00Z
+    webUrl: "https://yourstory.com/2021/02/budget-2021-artificial-intelligence-being-used-track-gst-tax"
+    ampWebUrl: "https://yourstory.com/2021/02/budget-2021-artificial-intelligence-being-used-track-gst-tax/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/02/budget-2021-artificial-intelligence-being-used-track-gst-tax/amp"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
+      name: Your Story
+      domain: yourstory.com
+    quality: 56
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://images.yourstory.com/cs/2/604090802d6d11e9aa979329348d4c3e/agritechbudget2021-1612015767538.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 800
+        height: 400
         isCached: true
   - title: "Global Artificial Intelligence Market 2020 Segmentation, Statistics, Top Manufacturers, Regional Analysis and Forecast to 2025"
     excerpt: "The recently distributed report entitled Global Artificial Intelligence Market 2020 by Company, Regions, Type and Application, Forecast to 2025 is well crafted using a combo of significant data related to the market."
@@ -71,47 +75,47 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing Market Research Update, Size Estimation, Future Scope, Revenue Opportunities and Regional Forecast to 2026"
-    excerpt: "The overall natural language processing market is expected to grow from USD 8.61 Billion in 2018 to USD 80.68 Billion"
-    publishedDateTime: 2021-01-29T06:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-research-update-size-estimation-future-scope-revenue-opportunities-and-regional-forecast-to-2026-2021-01-28"
+  - title: "Five trends in machine learning-enhanced analytics to watch in 2021"
+    excerpt: "AI usage is growing rapidly. What exactly does 2021 hold for the world of analytics, and how will AI drive it?"
+    publishedDateTime: 2021-01-29T14:33:00Z
+    webUrl: "https://www.information-age.com/five-trends-machine-learning-enhanced-analytics-watch-2021-123493559/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
+      name: Information Age
+      domain: information-age.com
+    quality: 39
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://s27389.pcdn.co/wp-content/uploads/2021/01/five-trends-machine-learning-enhanced-analytics-watch-2021.jpeg"
+        width: 1080
+        height: 634
         isCached: true
-  - title: "Speech Recognition Market Size, Global Trends, Historical Analysis, Industry Demand, Growth, Future Plans and Opportunity Assessment by 2023"
-    excerpt: "Market Research Future published a research report on \"Global Speech Recognition Market Research Report – Forecast 2023\""
-    publishedDateTime: 2021-01-30T02:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-size-global-trends-historical-analysis-industry-demand-growth-future-plans-and-opportunity-assessment-by-2023-2021-01-29"
+  - title: "Startup Employs Video Analytics and AI for Streamlined Aircraft Turnarounds"
+    excerpt: "Aircraft turnaround processes may soon become streamlined thanks to a combination of video analytics and artificial intelligence (AI). Swiss startup Assaia has partnered with airport solutions provider ADB SAFEGATE to pair its ApronAI image recognition technology with ADB’s SafeControl"
+    publishedDateTime: 2021-01-28T00:00:00Z
+    webUrl: "https://aviationweek.com/mro/emerging-technologies/startup-employs-video-analytics-ai-streamlined-aircraft-turnarounds"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
+      name: Aviation Week
+      domain: aviationweek.com
+    quality: 35
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://aviationweek.com/sites/default/files/styles/crop_freeform/public/2021-01/adb-safegate-safedock.jpg?itok=6sZHSsAJ"
+        width: 1500
+        height: 1095
         isCached: true
-  - title: "Big Data Technology Market Latest Industry Size, Share, Emerging Trends, Future Demands, Revenue and Forecasts Research Report"
-    excerpt: "The global big data technology market is set to experience an impressive growth trajectory owing to the rising"
-    publishedDateTime: 2021-01-29T06:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/big-data-technology-market-latest-industry-size-share-emerging-trends-future-demands-revenue-and-forecasts-research-report-2021-01-28"
+  - title: "Data Analytics and Artificial Intelligence to Propel Smart Water and Wastewater Leak Detection Solutions Market"
+    excerpt: "Frost & Sullivan's recent analysis, Data Analytics and AI Boost Accuracy to Drive Global Smart Water and Wastewater Leak Detection"
+    publishedDateTime: 2021-01-28T14:16:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/data-analytics-and-artificial-intelligence-to-propel-smart-water-and-wastewater-leak-detection-solutions-market-846058818.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 17
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "nBH9/qYLksxzi9gvTVmAi4+NeXiQCP8/jsytiB+rVCfhofdZTPCfzsSUBbov2Wqz0M+1caOMA73elpb4gw7AjnSX/2+oboMRnE3mEyteCEZk24bOKx8L30qa+fmTh/gYRAsGd8/HhRtmYHBtIHQYfAlYosRa/GDsX4tPLj4VbVnkDpwfCXKYaFPP+P3c0tga5aWev2WABJdIUG7c3maaea3l6wWgvmaTSxlsqe0gSh2W0om/DfawKGYNUnvQldGSP8BBK+khmYI7cK1E7btpxkqqW5oEiRDeFKKEbxh7k94TZbuzIzOpmmseIIfzFi4CrDb5b+4nPR+Tuq1PjOn2AWT0MTg+AnixzhHfKrABZpM=;IFUmuBLhRjC3l7ezFPRIEw=="

@@ -51,6 +51,20 @@ related:
         width: 400
         height: 293
         isCached: true
+  - title: "NWO.ai Emerges From Stealth With $3.5 Million To Scale Its Global Trendcasting Platform"
+    excerpt: "NWO.ai, the predictive AI platform that helps leading enterprises identify microtrends before they become exponential, announces a $3.5 million seed round. The round was co-led by Hyperplane, Wavemaker,"
+    publishedDateTime: 2021-02-01T12:31:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/b30307506490974d0d55bdd793196cdd"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 29
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "feVjVOsRULQANVzhVRf23Bwn8zbXEJcQx/6aadLtWp8DKeEJa9xoBPPbtENlySkhrKnNJrrXJt6keGb462AkWHqhVsQFqaCW8exACorXTwb8g7C48ZepySjoCEwa/ixQkVppyb5ovxb5zFd0yc6WIt0DK/jY7rGBaFOBcewqL+pupwkvDDSTCunDyhrU95LikfsKKptz1irwWUdyjsqw7F3j7gxzQYtYr0Cg5ZgFM9XGOmw/8eB+x1fjKE0HyXKsFgm7l0TRq+iXUanBcSRw+l92iltA4hqMPG/ZJzTguuiEltJ7X+i/rnVMt7Ra+wzINpuQSbSlhkAGRtw2PIyTLXaVmdJkBJyL0ErhybkP7GU=;bLUNezdJydPTU4ODFRI7uA=="
 ---

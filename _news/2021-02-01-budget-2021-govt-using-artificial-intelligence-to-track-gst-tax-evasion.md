@@ -26,19 +26,91 @@ images:
     isCached: true
 
 related:
-  - title: "Budget 2021: When Robot has a request for the Finance minister"
-    excerpt: "Inker Robotics, a technology-based start-up and an industry expert in the field of Automation are developers of ALTON, an indigenously developed Humanoid Robot."
-    publishedDateTime: 2021-01-31T07:11:00Z
-    webUrl: "https://www.uniindia.com/budget-2021-when-robot-has-a-request-for-the-finance-minister/east/news/2306069.html"
+  - title: "Budget 2021: AI, ML and analytics to ease compliance burden and check tax evasion"
+    excerpt: "The Union Budget 2021 presented by Finance Minister Nirmala Sitharaman threw emphasis on technologies like Artificial Intelligence and Machine Learning, and their application to the e-Governance, GST and easing"
+    publishedDateTime: 2021-02-01T12:45:00Z
+    webUrl: "https://www.dqindia.com/budget-2021-ai-ml-analytics-ease-compliance-burden-check-tax-evasion/"
+    ampWebUrl: "https://www.dqindia.com/budget-2021-ai-ml-analytics-ease-compliance-burden-check-tax-evasion/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/budget-2021-ai-ml-analytics-ease-compliance-burden-check-tax-evasion/amp/"
     type: article
     provider:
-      name: United News of India
-      domain: uniindia.com
-    quality: 56
+      name: Dataquest
+      domain: dqindia.com
+    quality: 71
     images:
-      - url: "http://www.uniindia.com/cms/gall_content/2021/1/2021_1$largeimg31_Jan_2021_135413200.jpg"
-        width: 595
-        height: 350
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/02/AI-analytics-Union_Buget_2021.jpg"
+        width: 850
+        height: 400
+        isCached: true
+  - title: "Cognitive Analytics Market size Rising Trends and New Technologies Research Forecast to 2026"
+    excerpt: "The Cognitive Analytics market is anticipated to reach over USD 48 billion by 2026 according to a new research published by The marker research report. In 2017, the large enterprises segment dominated the global market,"
+    publishedDateTime: 2021-02-01T10:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-size-rising-trends-and-new-technologies-research-forecast-to-2026-2021-02-01?tesla=y"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence Market 2020 Segmentation, Statistics, Top Manufacturers, Regional Analysis and Forecast to 2025"
+    excerpt: "The recently distributed report entitled Global Artificial Intelligence Market 2020 by Company, Regions, Type and Application, Forecast to 2025 is well crafted using a combo of significant data related to the market."
+    publishedDateTime: 2021-01-28T08:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-2020-segmentation-statistics-top-manufacturers-regional-analysis-and-forecast-to-2025-2021-01-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Five trends in machine learning-enhanced analytics to watch in 2021"
+    excerpt: "AI usage is growing rapidly. What exactly does 2021 hold for the world of analytics, and how will AI drive it?"
+    publishedDateTime: 2021-01-29T14:33:00Z
+    webUrl: "https://www.information-age.com/five-trends-machine-learning-enhanced-analytics-watch-2021-123493559/"
+    type: article
+    provider:
+      name: Information Age
+      domain: information-age.com
+    quality: 39
+    images:
+      - url: "https://s27389.pcdn.co/wp-content/uploads/2021/01/five-trends-machine-learning-enhanced-analytics-watch-2021.jpeg"
+        width: 1080
+        height: 634
+        isCached: true
+  - title: "Startup Employs Video Analytics and AI for Streamlined Aircraft Turnarounds"
+    excerpt: "Aircraft turnaround processes may soon become streamlined thanks to a combination of video analytics and artificial intelligence (AI). Swiss startup Assaia has partnered with airport solutions provider ADB SAFEGATE to pair its ApronAI image recognition technology with ADB’s SafeControl"
+    publishedDateTime: 2021-01-28T00:00:00Z
+    webUrl: "https://aviationweek.com/mro/emerging-technologies/startup-employs-video-analytics-ai-streamlined-aircraft-turnarounds"
+    type: article
+    provider:
+      name: Aviation Week
+      domain: aviationweek.com
+    quality: 35
+    images:
+      - url: "https://aviationweek.com/sites/default/files/styles/crop_freeform/public/2021-01/adb-safegate-safedock.jpg?itok=6sZHSsAJ"
+        width: 1500
+        height: 1095
+        isCached: true
+  - title: "Data Analytics and Artificial Intelligence to Propel Smart Water and Wastewater Leak Detection Solutions Market"
+    excerpt: "Frost & Sullivan's recent analysis, Data Analytics and AI Boost Accuracy to Drive Global Smart Water and Wastewater Leak Detection"
+    publishedDateTime: 2021-01-28T14:16:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/data-analytics-and-artificial-intelligence-to-propel-smart-water-and-wastewater-leak-detection-solutions-market-846058818.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 17
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "KqhsOuvrUYl2UruLk2VuhgT6Bbtq+eBBhzIuXXmcrYILrPTpwlRXZajQAU/Wd32D3OKPvkdCvD2PqtHuzdAMjDZh3ZVbWekCUclOzJkXRoFGw4CHxwsU12ahfsz4godIwzJmhHDM8MD6CpVHr/ZjtN2rlNxUXkXCBdzv8bkqEXMs8mnnhE8VjB411BNokro3V3ELWGHTaWkwXtP8vBZB1EFSpNk7YXnumAzBFziOLtvz6cu151Bg9hwQe30cL1MddYtYg4PIBT7+xs6TPkmA2IKCrZr6JPnF0K6HVpE6FUbwBDKVCExh3kYxz4n7jr/E0kRLjloxcicA5nJoz3ng5Faenjq2/oWLGZRPeJzXzyA=;CamhPlksd1Tg5KNBfsB6tA=="

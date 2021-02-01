@@ -1,12 +1,12 @@
 ---
 category: news
 title: "SoftBank's Son expects mass production of driverless cars in two years"
-excerpt: "Son, who made his name for investing early in startups such as China’s Alibaba Group had said he will continue to take stakes in public companies he thinks are frontrunners in the artificial ..."
-publishedDateTime: 2021-01-29T16:08:00Z
-originalUrl: "https://www.reuters.com/article/us-davos-meeting-son-autonomous-idUSKBN29Y279"
-webUrl: "https://www.reuters.com/article/us-davos-meeting-son-autonomous-idUSKBN29Y279"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Y279"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Y279"
+excerpt: "SoftBank Group Corp Chief Executive Masayoshi Son said on Friday he expects mass production of self-driving vehicles to start in two years."
+publishedDateTime: 2021-01-29T21:00:00Z
+originalUrl: "https://www.reuters.com/article/davos-meeting-son-autonomous/softbanks-son-expects-mass-production-of-driverless-cars-in-2-years-idUSL1N2K41Y9"
+webUrl: "https://www.reuters.com/article/davos-meeting-son-autonomous/softbanks-son-expects-mass-production-of-driverless-cars-in-2-years-idUSL1N2K41Y9"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2K41Y9"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2K41Y9"
 type: article
 quality: 89
 heat: -1
@@ -46,22 +46,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/S95q_iD3ihUt3noy9_u01hZfVBA=/0x0:950x633/1400x933/filters:focal(399x241:551x393):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68730144/baidu.0.jpeg"
         width: 950
         height: 633
-        isCached: true
-  - title: "Baidu gets California nod for testing empty self-driving cars"
-    excerpt: "Baidu Inc has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor Vehicles said on Wednesday."
-    publishedDateTime: 2021-01-28T02:37:00Z
-    webUrl: "https://www.reuters.com/article/us-baidu-autonomous-idUSKBN29W2OT"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29W2OT"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29W2OT"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210127&t=2&i=1549286737&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0Q1KU"
-        width: 817
-        height: 545
         isCached: true
   - title: "UPDATE 1-Baidu gets California nod for testing empty self-driving cars"
     excerpt: "Baidu Inc has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor Vehicles said on Wednesday."
@@ -111,22 +95,6 @@ related:
         width: 829
         height: 545
         isCached: true
-  - title: "Baidu gets California nod for testing driverless vehicles"
-    excerpt: "Baidu Inc has received a permit from the state of California to test driverless vehicles without a backup driver in the front seat, the state’s Department of Motor Vehicles said on Wednesday. (Reporting by Munsif Vengattil in Bengaluru;"
-    publishedDateTime: 2021-01-27T20:23:00Z
-    webUrl: "https://www.metro.us/baidu-gets-california-nod/"
-    ampWebUrl: "https://www.metro.us/baidu-gets-california-nod/amp/"
-    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/baidu-gets-california-nod/amp/"
-    type: article
-    provider:
-      name: Metro US
-      domain: metro.us
-    quality: 74
-    images:
-      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXMPEH0Q1KU-BASEIMAGE.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Baidu gets California nod for testing driverless vehicles on Sunnyvale streets"
     excerpt: "Baidu is the sixth company to have a permit to test without a driver behind the wheel. The permit allows it to test three autonomous vehicles on specified streets within Sunnyvale."
     publishedDateTime: 2021-01-28T16:19:00Z
@@ -143,6 +111,17 @@ related:
         width: 1024
         height: 640
         isCached: true
+  - title: "Baidu Gets California Nod for Testing Empty Self-Driving Cars"
+    excerpt: "Baidu Inc has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor Vehicles said on Wednesday. Although self-driving vehicles are designed to eliminate the need for a driver,"
+    publishedDateTime: 2021-01-28T09:25:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-01-27/baidu-gets-california-nod-for-testing-driverless-vehicles"
+    ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-01-27/baidu-gets-california-nod-for-testing-driverless-vehicles?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-01-27/baidu-gets-california-nod-for-testing-driverless-vehicles?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 69
   - title: "Baidu Apollo receives driverless vehicle test permit in California"
     excerpt: "Baidu Apollo has now been approved by the California Department of Motor Vehicles (DMV) to test driverless vehicles without a safety driver behind the wheel on public streets. This makes Baidu the"
     publishedDateTime: 2021-01-28T13:25:00Z
@@ -244,6 +223,6 @@ related:
         height: 300
         isCached: true
 
-secured: "pSEvATAq+lEEJ391trnHAd07Ty18+V05PhZrkqx0i3mNh5s8TQKWiyeoEqrcI5xbz3zvsgivgcPR9Y0JkoH+0rzoRi3jViTcwSp052sHjgE/Firn+RWXphE1obp+c/mBv2qL68t3fVt4ZECMpM4tsN9uMHnzpzK3F5tByEb8dshZv3spxaWPQb/mfgEYp18YJ6Xr+r4DDBq99U8TQ2PPtCGC9b+sE492CEnKvcIcnDkA77xh1Ppd+AFx88aXStJY8vDcHJFExQCYUUl4ygPSAt6rUtvKXJoT9ZJTqZYV4KSrk1/EH5dsqv8vUcahvGIfbZC90nRqudMnBmtgofM7fHHNe1+wluT8kQcwF9Yw48I=;zU/mNBPOImdXdm5NzRAl/Q=="
+secured: "Qgmuf/x403rf9KP0VF07OR+uxydoITY/zmJJcjOaz/gKYckc9GqSQ0y41/XV37zZF7CP79Lj7+Sfy8qA6L0IyT2AdzETY/0QfRRYaKNWICyB+V79+j79ZgMkbjpK+eECl2UH2r6GUR+nb1Ip7Fr+KszZScAl6Qds0s6gca1Gq0152j9e2OnBxM43vBN6bJGvtIROLN03A94d784gksHrztXzmFvNKPIdO45vATtoIVFl/XRlOOwFtEuHkZ+j2V2otj+JfssBa5tmCCl4ME/dulragKLkQ9OtL6Ku3V5iQM9xnluiyAFRSzNAr/p7e4RcGeRM5yoxZYJu+fyCkPYOC+5VGSCfmEeBQrMbdTc5rok=;GbTTXHuSwmA8AiDiIb6p4A=="
 ---
 

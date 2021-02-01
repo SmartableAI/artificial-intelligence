@@ -2,6 +2,284 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-30-op-ed-gamestops-costly-financial-lesson-for-retail-investors.md",
+      "title": "Op-ed: Gamestop's costly financial lesson for retail investors",
+      "excerpt": "Retail investors buying frenzy for Gamestop shares resulted in $10 billion in losses when Robinhood halted trading in the stock. It was a costly lesson.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/01/29/op-ed-gamestops-costly-financial-lesson-for-retail-investors.html",
+      "originalUrl": "https://www.cnbc.com/2021/01/29/op-ed-gamestops-costly-financial-lesson-for-retail-investors.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105079975-GettyImages-547017701.jpg?v=1532563666",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/01/29/op-ed-gamestops-costly-financial-lesson-for-retail-investors.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/29/op-ed-gamestops-costly-financial-lesson-for-retail-investors.html",
+      "publishedDateTime": "2021-01-29T17:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-30-novel-deep-learning-system-can-predict-cardiovascular-risk-from-ct-scans.md",
+      "title": "Novel deep learning system can predict cardiovascular risk from CT scans",
+      "excerpt": "Coronary artery calcification -- the buildup of calcified plaque in the walls of the heart's arteries -- is an important predictor of adverse cardiovascular events like heart attacks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20210129/Novel-deep-learning-system-can-predict-cardiovascular-risk-from-CT-scans.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20210129/Novel-deep-learning-system-can-predict-cardiovascular-risk-from-CT-scans.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20210129/Novel-deep-learning-system-can-predict-cardiovascular-risk-from-CT-scans.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210129/Novel-deep-learning-system-can-predict-cardiovascular-risk-from-CT-scans.aspx",
+      "publishedDateTime": "2021-01-29T15:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-30-minneapolis-st-paul-airport-gets-facial-recognition-tech.md",
+      "title": "Minneapolis-St. Paul Airport gets facial recognition Tech",
+      "excerpt": "St. Paul Airport gets facial recognition Tech (TNS) - New facial recognition technology to speed international travelers",
+      "sourceUrl": null,
+      "webUrl": "https://www.compsmag.com/news/technology/minneapolis-st-paul-airport-gets-facial-recognition-tech/",
+      "originalUrl": "https://www.compsmag.com/news/technology/minneapolis-st-paul-airport-gets-facial-recognition-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/Minneapolis-St-Paul-Airport-gets-facial-recognition-Tech.jpg",
+          "width": 940,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.compsmag.com/news/technology/minneapolis-st-paul-airport-gets-facial-recognition-tech/amp/",
+      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/minneapolis-st-paul-airport-gets-facial-recognition-tech/amp/",
+      "publishedDateTime": "2021-01-29T15:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "compsmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-30-dial-tests-computer-vision-for-added-security-distancing.md",
+      "title": "DIAL tests ‘computer vision’ for added security, distancing",
+      "excerpt": "After installing over 500 overhead sensors inside Terminal-3 of the Delhi airport to ensure social distancing, Delhi International Airport .",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/city/delhi/dial-tests-computer-vision-for-added-security-distancing/articleshow/80593615.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/city/delhi/dial-tests-computer-vision-for-added-security-distancing/articleshow/80593615.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/city/delhi/dial-tests-computer-vision-for-added-security-distancing/amp_articleshow/80593615.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/delhi/dial-tests-computer-vision-for-added-security-distancing/amp_articleshow/80593615.cms",
+      "publishedDateTime": "2021-01-29T15:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-01-30-logistics-dispatches-ai-drones-and-robots-to-haul-the-industry-into-the-future.md",
+      "title": "Logistics dispatches AI, drones, and robots to haul the industry into the future",
+      "excerpt": "Though the industry is slow to adopt new technologies, these trends can help streamline business.  Edge computing adoption to increase through 2026; organizations cautious about adding 5G to the mix T",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/videos/logistics-dispatches-ai-drones-and-robots-to-haul-the-industry-into-the-future/",
+      "originalUrl": "https://www.techrepublic.com/videos/logistics-dispatches-ai-drones-and-robots-to-haul-the-industry-into-the-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2021/01/29/a68cb509-5a30-40f5-bb6a-4cf5b4ee1022/thumbnail/770x578/bbde0295b6044de4c13aac47c9cb7faf/20210128-trucking-karen.jpg",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-29T14:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-01-30-by-africans-for-africans-female-entrepreneur-pioneers-facial-recognition-tech.md",
+      "title": "'By Africans, for Africans': Female entrepreneur pioneers facial recognition tech",
+      "excerpt": "Charlette N'Guessan Desiree loved maths and science as a student in Ivory Coast, but never imagined she would one day use her problem-solving savvy to develop facial recognition technology more adept at identifying and verifying African faces.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-westafrica-tech-women-trfn-idUSKBN29Y2HG",
+      "originalUrl": "https://www.reuters.com/article/us-westafrica-tech-women-trfn-idUSKBN29Y2HG",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29Y2HG",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Y2HG",
+      "publishedDateTime": "2021-01-29T14:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-30-ai-weekly-announcing-our-ai-and-the-future-of-health-care-special-issue.md",
       "title": "AI Weekly: Announcing our ‘AI and the future of health care’ special issue",
       "excerpt": "Through the lens of AI and data, we examine how health care providers and vendors are tackling the challenges of this extraordinary time.",
@@ -556,58 +834,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-30-confluent-strengthens-strategic-alliance-with-microsoft.md",
-      "title": "Confluent strengthens strategic alliance with Microsoft",
-      "excerpt": "Confluent has entered a new strategic partnership with Microsoft to enable a seamless experience between its fully managed Apache Kafka service Confluent Cloud and Azure. Confluent initially launched its Confluent Cloud on the Microsoft Azure marketplace in March 2020,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/cloud/microsoft-azure/358472/confluent-strengthens-strategic-alliance-with-microsoft",
-      "originalUrl": "https://www.itpro.co.uk/cloud/microsoft-azure/358472/confluent-strengthens-strategic-alliance-with-microsoft",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1611940838/itpro/Confluent_Cloud_flow_chart.png",
-          "width": 1024,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/cloud/microsoft-azure/358472/confluent-strengthens-strategic-alliance-with-microsoft?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/358472/confluent-strengthens-strategic-alliance-with-microsoft?amp",
-      "publishedDateTime": "2021-01-29T09:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-30-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-2021-share-growth-trend-industry-analysis-and-forecast-to-2026.md",
       "title": "Natural Language Processing (NLP) in Healthcare and Life Sciences Market 2021, Share, Growth, Trend, Industry Analysis and Forecast to 2026",
       "excerpt": "Summary A New Market Study, titled \"Natural Language Processing (NLP) in Healthcare and Life Sciences Market Upcoming",
@@ -859,6 +1085,49 @@
       ]
     },
     {
+      "path": "_news/2021-01-30-towards-a-framework-for-face-recognition-in-europe.md",
+      "title": "Towards a framework for face recognition in Europe",
+      "excerpt": "The Advisory Committee of the Council of Europe Convention on the Protection of Individuals with regard to Automatic Processing of Personal Data, known as Convention 108, is celebrating its 40th anniversary.",
+      "sourceUrl": null,
+      "webUrl": "https://galusaustralis.com/2021/01/1047902/towards-a-framework-for-face-recognition-in-europe/",
+      "originalUrl": "https://galusaustralis.com/2021/01/1047902/towards-a-framework-for-face-recognition-in-europe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://galusaustralis.com/wp-content/uploads/2021/01/reconnaissance-faciale-facebook-1024x538.jpg",
+          "width": 1024,
+          "height": 538,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://galusaustralis.com/2021/01/1047902/towards-a-framework-for-face-recognition-in-europe/amp/",
+      "cdnAmpWebUrl": "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2021/01/1047902/towards-a-framework-for-face-recognition-in-europe/amp/",
+      "publishedDateTime": "2021-01-29T08:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "galusaustralis.com",
+        "domain": "galusaustralis.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-29-south-korean-ai-technology-brings-back-folk-singers-voice.md",
       "title": "South Korean AI technology brings back folk singer's voice",
       "excerpt": "Even though South Korean folk rock singer Kim Kwang-seok has been dead for nearly 25 years, his fans will be able to hear him perform a new song cover on Friday thanks to artificial intelligence (AI) technology used to recreate his voice.",
@@ -949,280 +1218,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-cadeera-is-doing-ai-visual-search-for-home-decor.md",
-      "title": "Cadeera is doing AI visual search for home decor",
-      "excerpt": "In recent years we’ve seen a whole bunch of visual/style fashion-focused search engines cropping up, tailored to helping people find the perfect threads to buy online by applying computer vision and other AI technologies to perform smarter-than-keywords visual search which can easily match",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/01/29/cadeera-is-doing-ai-visual-search-for-home-decor/",
-      "originalUrl": "https://techcrunch.com/2021/01/29/cadeera-is-doing-ai-visual-search-for-home-decor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/01/Screenshot-2021-01-29-at-16.29.23.png?w=1024",
-          "width": 1024,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/01/29/cadeera-is-doing-ai-visual-search-for-home-decor/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/29/cadeera-is-doing-ai-visual-search-for-home-decor/amp/",
-      "publishedDateTime": "2021-01-29T07:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-pinecone-emerges-from-stealth-with-10-million-to-accelerate-ai-workloads.md",
-      "title": "Pinecone emerges from stealth with $10 million to accelerate AI workloads",
-      "excerpt": "Pinecone, a startup developing database technology to support AI workloads, emerged from stealth with $10 million in funding.Read MoreRead more",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/pinecone-emerges-from-stealth-with-$10-million-to-accelerate-ai-workloads-9748315",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/pinecone-emerges-from-stealth-with-$10-million-to-accelerate-ai-workloads-9748315",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/pinecone-emerges-from-stealth-with-$10-million-to-accelerate-ai-workloads-9748315",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/pinecone-emerges-from-stealth-with-$10-million-to-accelerate-ai-workloads-9748315",
-      "publishedDateTime": "2021-01-29T07:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-scott-hollifield-larry-king-will-miss-the-robot-apocalypse.md",
-      "title": "Scott Hollifield: Larry King will miss the Robot Apocalypse",
-      "excerpt": "Today, our disparate subjects will be the literary genius of the late Larry King and the inevitable end of the world as we know it brought about by killer robots.",
-      "sourceUrl": null,
-      "webUrl": "https://mcdowellnews.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_e6b5924e-6184-11eb-bbc1-cb7da67dedb2.html",
-      "originalUrl": "https://mcdowellnews.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_e6b5924e-6184-11eb-bbc1-cb7da67dedb2.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/mcdowellnews.com/content/tncms/assets/v3/editorial/5/ed/5ed587b6-6185-11eb-ab39-1f16da3304cd/6012e55d6f04d.image.jpg",
-          "width": 504,
-          "height": 233,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mcdowellnews.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_e6b5924e-6184-11eb-bbc1-cb7da67dedb2.amp.html",
-      "cdnAmpWebUrl": "https://mcdowellnews-com.cdn.ampproject.org/c/s/mcdowellnews.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_e6b5924e-6184-11eb-bbc1-cb7da67dedb2.amp.html",
-      "publishedDateTime": "2021-01-29T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The McDowell News",
-        "domain": "mcdowellnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-artificial-intelligence-ai-in-manufacturing-market-analysis-by-growth-emerging-trends-and-future-opportunities.md",
-      "title": "Artificial intelligence (AI) in manufacturing Market Analysis By Growth, Emerging Trends and Future Opportunities",
-      "excerpt": "Artificial intelligence (AI) in manufacturing Market Size, Demand-sales, Suppliers By Key Applications Detailed Analysis and Growth Aspects on Manufacturing Landscapes and Regional Analysis \"Market Overview: Global Artificial Intelligence in Manufacturing Market is valued approximately USD 1 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 57.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-analysis-by-growth-emerging-trends-and-future-opportunities-2021-01-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-analysis-by-growth-emerging-trends-and-future-opportunities-2021-01-29",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-29T05:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-machine-learning-software-market-to-see-huge-growth-by-2025-google-bigml-fair-isaac.md",
-      "title": "Machine Learning Software Market to see Huge Growth by 2025 | Google, BigML, Fair Isaac",
-      "excerpt": "Stay up to date and exploit latest trends of Machine Learning Software Market with latest edition released by AMA A Latest intelligence report published by AMA Research with title Machine Learning Software Market Outlook to 2025 A detailed study accumulated",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2233321/machine-learning-software-market-to-see-huge-growth-by-2025",
-      "originalUrl": "https://www.openpr.com/news/2233321/machine-learning-software-market-to-see-huge-growth-by-2025",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/1/U129933167_g.jpg",
-          "width": 480,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2233321/machine-learning-software-market-to-see-huge-growth-by-2025",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2233321/machine-learning-software-market-to-see-huge-growth-by-2025",
-      "publishedDateTime": "2021-01-29T05:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-elis-technologies-launches-market-for-robotics.md",
-      "title": "Elis Technologies launches market for robotics",
-      "excerpt": "Previously a futurist vision, automation using artificial intelligence has consistently improved every industry it could get its hands on.",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/press-releases/elis-technologies-launches-market-for-robotics",
-      "originalUrl": "https://cointelegraph.com/press-releases/elis-technologies-launches-market-for-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy81Njk1ZWM1ZTBiNzUxZGRiNjE3OTQzN2NiNWIwODk5MS5qcGc=.jpg",
-          "width": 740,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cointelegraph.com/press-releases/elis-technologies-launches-market-for-robotics/amp",
-      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/press-releases/elis-technologies-launches-market-for-robotics/amp",
-      "publishedDateTime": "2021-01-29T05:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

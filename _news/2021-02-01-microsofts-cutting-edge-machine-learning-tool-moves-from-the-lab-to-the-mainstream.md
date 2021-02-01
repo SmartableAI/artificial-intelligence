@@ -1,0 +1,128 @@
+---
+category: news
+title: "Microsoft's cutting-edge machine-learning tool moves from the lab to the mainstream"
+excerpt: "Machine learning that can explore the world can solve different problems. These are the Microsoft services that make it something mainstream developers can use."
+publishedDateTime: 2021-02-01T12:37:00Z
+originalUrl: "https://www.techrepublic.com/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/"
+webUrl: "https://www.techrepublic.com/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/"
+ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/"
+type: article
+quality: 100
+heat: 160
+published: true
+
+provider:
+  name: TechRepublic
+  domain: techrepublic.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Microsoft AI
+  - AI
+  - Machine Learning
+
+images:
+  - url: "https://tr3.cbsistatic.com/hub/i/r/2021/02/01/1b622622-e749-47c0-9c60-ed09ab784bbe/resize/400x/f50dcab974e7e9400bbc49f5c9acb474/rl-wikipedia-2.jpg"
+    width: 400
+    height: 388
+    isCached: true
+
+related:
+  - title: "Confluent strengthens strategic alliance with Microsoft"
+    excerpt: "Confluent has entered a new strategic partnership with Microsoft to enable a seamless experience between its fully managed Apache Kafka service Confluent Cloud and Azure. Confluent initially launched its Confluent Cloud on the Microsoft Azure marketplace in March 2020,"
+    publishedDateTime: 2021-01-29T17:27:00Z
+    webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358472/confluent-strengthens-strategic-alliance-with-microsoft"
+    ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358472/confluent-strengthens-strategic-alliance-with-microsoft?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/358472/confluent-strengthens-strategic-alliance-with-microsoft?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 89
+    images:
+      - url: "https://media.itpro.co.uk//image/upload/v1611940838/itpro/Confluent_Cloud_flow_chart.png"
+        width: 1024
+        height: 443
+        isCached: true
+  - title: "Microsoft’s investment in cruises puts it in the game of self-driving cars"
+    excerpt: "Microsoft's investment in cruises puts it in the game of self-driving cars One of the pitches that has worked well for Microsoft in the"
+    publishedDateTime: 2021-01-30T14:05:00Z
+    webUrl: "https://www.compsmag.com/news/gaming/microsofts-investment-in-cruises-puts-it-in-the-game-of-self-driving-cars/"
+    ampWebUrl: "https://www.compsmag.com/news/gaming/microsofts-investment-in-cruises-puts-it-in-the-game-of-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/microsofts-investment-in-cruises-puts-it-in-the-game-of-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 59
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/Microsofts-investment-in-cruises-puts-it-in-the-game-of.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "WinWire launches Vaccine Management Solution Built on Microsoft Azure"
+    excerpt: "WinWire Technologies, a digital engineering services company, launched its Vaccine Management solution built on Azure. Healthcare"
+    publishedDateTime: 2021-01-28T13:38:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/winwire-launches-vaccine-management-solution-built-on-microsoft-azure-301217194.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 54
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "GM, Cruise Partners with Microsoft to Accelerate Self-Driving EV Technology | Work & Wheels"
+    excerpt: "GM, Cruise Partners with Microsoft to Accelerate Self-Driving EV Technology | Work & Wheels General Motors and its self-driving car"
+    publishedDateTime: 2021-01-30T05:44:00Z
+    webUrl: "https://www.compsmag.com/news/technology/gm-cruise-partners-with-microsoft-to-accelerate-self-driving-ev-technology-work-wheels/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/gm-cruise-partners-with-microsoft-to-accelerate-self-driving-ev-technology-work-wheels/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/gm-cruise-partners-with-microsoft-to-accelerate-self-driving-ev-technology-work-wheels/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 51
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/GM-Cruise-Partners-with-Microsoft-to-Accelerate-Self-Driving-EV-Technology.png"
+        width: 900
+        height: 470
+        isCached: true
+  - title: "GM, Cruise partner with Microsoft to speed up self-driving EV technology"
+    excerpt: "General Motors and its self-driving car subsidiary Cruise will partner with Microsoft to accelerate the commercialization of self-driving vehicles, the companies said recently."
+    publishedDateTime: 2021-01-29T17:16:00Z
+    webUrl: "https://www.gazettextra.com/work_wheels/gm-cruise-partner-with-microsoft-to-speed-up-self-driving-ev-technology/article_d27b5870-1f53-56fa-8079-6b77a515031b.html"
+    type: article
+    provider:
+      name: Janesville Gazette
+      domain: gazettextra.com
+    quality: 40
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/gazettextra.com/content/tncms/custom/image/22e609ae-afc7-11e9-8d80-639cb276d44a.png"
+        width: 900
+        height: 470
+        isCached: true
+  - title: "Confluent Announces Strategic Alliance with Microsoft"
+    excerpt: "Confluent, the company of the founders of Apache Kafka, recently announced a new strategic alliance between them and Microsoft to enable a more integrated experience between Confluent Cloud and the Azure platform."
+    publishedDateTime: 2021-01-29T12:06:00Z
+    webUrl: "https://www.infoq.com/news/2021/01/confluent-microsoft-alliance/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 39
+    images:
+      - url: "https://res.infoq.com/news/2021/01/confluent-microsoft-alliance/en/headerimage/header-1611818830074.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "Vs3LJE0ZuG4+/6yq8vYXjRT5Jx5+ZGVhRaGfTJ0RZ7MpUROf0JloVxd09MIhJvpeermfgmR2TyU0BoDoRi6WCuqNyIr0IALtKHmaO1/U2rvGdiMul46SSt4MapImdkSrUgsUHAej2Ddc/oe/+RRzOG2Si7PUrwnnTCJTkgL+B+Q//KNDl01skJPIsEEV6GYtN9/xzQaOPYges0ezw6euIUAyBACsbMbYksaYIPP+S6DiEYqPvk/4DWLvA9bvGIrLO7Xd8dhkCMBeSyxfewCcD3qTcAUaND+bUvSCrAE4k9hPn7pjLpZQw0kWJ03tLBsfxy8eSlwWETtX5V6Jgq85XDv6a/UPBRLfhS5PYqU+Xio=;S5i3AMyc5mdOoB/POlr9vA=="
+---
+

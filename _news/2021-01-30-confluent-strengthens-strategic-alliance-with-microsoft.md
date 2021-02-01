@@ -9,8 +9,8 @@ ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358472/confluent-stren
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/358472/confluent-strengthens-strategic-alliance-with-microsoft?amp"
 type: article
 quality: 89
-heat: 189
-published: true
+heat: -1
+published: false
 
 provider:
   name: IT Pro
@@ -31,35 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Corp. (NASDAQ: MSFT) Acquires Stake in Self-Driving EV Venture"
-    excerpt: "Microsoft Corp. (NASDAQ: MSFT), a company primarily known for developing, manufacturing, licensing and selling computer software, electronics and personal computers, has announced that it has strategically teamed up with General Motors Co."
-    publishedDateTime: 2021-01-30T02:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/microsoft-corp-nasdaq-msft-acquires-stake-in-self-driving-ev-venture-2021-01-29"
+  - title: "Microsoft's cutting-edge machine-learning tool moves from the lab to the mainstream"
+    excerpt: "Machine learning that can explore the world can solve different problems. These are the Microsoft services that make it something mainstream developers can use."
+    publishedDateTime: 2021-02-01T12:37:00Z
+    webUrl: "https://www.techrepublic.com/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 100
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Microsoft Translator now supports Inuktitut language"
-    excerpt: "Microsoft has added Inuktitut, the primary dialect of Inuktut, to Microsoft Translator in collaboration with the government of Nunavut."
-    publishedDateTime: 2021-01-29T16:09:00Z
-    webUrl: "https://www.itworldcanada.com/article/microsoft-translator-now-supports-inuktitut-language/441442"
-    ampWebUrl: "https://www.itworldcanada.com/article/microsoft-translator-now-supports-inuktitut-language/441442?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/microsoft-translator-now-supports-inuktitut-language/441442?amp=1"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 61
-    images:
-      - url: "https://i.itworldcanada.com/wp-content/uploads/2021/01/GettyImages-1184077941-620x250.jpg"
-        width: 620
-        height: 250
+      - url: "https://tr3.cbsistatic.com/hub/i/r/2021/02/01/1b622622-e749-47c0-9c60-ed09ab784bbe/resize/400x/f50dcab974e7e9400bbc49f5c9acb474/rl-wikipedia-2.jpg"
+        width: 400
+        height: 388
         isCached: true
   - title: "Microsoft’s investment in cruises puts it in the game of self-driving cars"
     excerpt: "Microsoft's investment in cruises puts it in the game of self-driving cars One of the pitches that has worked well for Microsoft in the"
@@ -107,20 +93,6 @@ related:
         width: 900
         height: 470
         isCached: true
-  - title: "buyMyplace reimagines real estate with Microsoft"
-    excerpt: "Real estate disruptor, buymyplace, is launching a fully automated version of its platform that empowers Australian property owners to sell their property privately, putting them in charge of the sale of their home from go-to-whoa and cuts out the middle man."
-    publishedDateTime: 2021-01-27T21:35:00Z
-    webUrl: "https://news.microsoft.com/en-au/features/buymyplace-reimagines-real-estate-with-microsoft/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 41
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/66/2021/01/buyMyPlace-Banner-1024x373.jpg"
-        width: 1024
-        height: 373
-        isCached: true
   - title: "GM, Cruise partner with Microsoft to speed up self-driving EV technology"
     excerpt: "General Motors and its self-driving car subsidiary Cruise will partner with Microsoft to accelerate the commercialization of self-driving vehicles, the companies said recently."
     publishedDateTime: 2021-01-29T17:16:00Z
@@ -149,29 +121,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "UnitedLex Integrates Microsoft Cloud to Globally Scale Digital Transformation of Legal Services"
-    excerpt: "UnitedLex, a leading technology and legal services company, has integrated Microsoft Cloud services to globally scale UnitedLex Vantage, a holistic, turnkey technology platform built to revolutionize the customer experience and transform the legal function into a first-class digital citizen."
-    publishedDateTime: 2021-01-28T08:01:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-technology-issues-cloud-computing-1acd75653b884d75b91433ef2b035ab1"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 27
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Bitscape Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
-    excerpt: "Bitscape archives Windows Server and SQL Server Migration to Microsoft Azure advanced specialization and joins group of select few Microsoft partners."
-    publishedDateTime: 2021-01-29T13:01:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210129005073/en/Bitscape-Has-Earned-the-Windows-Server-and-SQL-Server-Migration-to-Microsoft-Azure-Advanced-Specialization"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 16
 
 secured: "U2kE5rYfHh+UaK2hIkB8ak2MePDbrpPf0HJBdCk1pZHsDo0Yd8AqpLcxh9WIJKBKPSg30dV8/Ne1rSucTj+jsB/owq9jPPA65OYDaOkrRvl+iBRcI5kFAXYsxGnNZ5kuSaz2YfQN75EZ5+8uYvDPq711q4FN9Os8pqnSE3Vk2ENVDcgJIQth1VfZ5ucs4OEc88QtSBy4cTUysw7Ee2UzbEnrZnxZYyTlKn0m3gbQqwbw18I6V26AoO1o1oaDqN1ykY1CvGxRfOlGk0rY2P7XwEcMvCliimLwPa44eOAXfUkvEsy2FDguAt1r5MxtBAmrj5J5MUH9ppmRcZ3tUokPfrBb5YGCUjMiIdbabD1Z+GU=;cdA24W1WsfSyn31/op2rKA=="
 ---

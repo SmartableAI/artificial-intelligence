@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2021/01/28/mit-researchers-develop-a-new-liqu
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/28/mit-researchers-develop-a-new-liquid-neural-network-thats-better-at-adapting-to-new-info/amp/"
 type: article
 quality: 79
-heat: 99
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -31,33 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "“Liquid” machine-learning system adapts to changing conditions"
-    excerpt: "MIT researchers developed a neural network that learns on the job, not just during training. The “liquid” network varies its equations’ parameters, enhancing its ability to analyze time series data. The advance could boost autonomous driving,"
-    publishedDateTime: 2021-01-28T05:03:00Z
-    webUrl: "https://news.mit.edu/2021/machine-learning-adapts-0128"
+  - title: "AI: MIT scientists develop a new ‘liquid’ neural network – ‘future of robot control’"
+    excerpt: "MIT scientists have developed a type of neural network that learns on the job, not just during its training phase. These flexible algorithms, dubbed “liquid” networks, change their underlying equations to continuously adapt to new data inputs."
+    publishedDateTime: 2021-02-01T11:06:00Z
+    webUrl: "https://www.tunisiesoir.com/science/ai-mit-scientists-develop-a-new-liquid-neural-network-future-of-robot-control-26558-2021/"
+    ampWebUrl: "https://www.tunisiesoir.com/science/ai-mit-scientists-develop-a-new-liquid-neural-network-future-of-robot-control-26558-2021/?amp"
+    cdnAmpWebUrl: "https://www-tunisiesoir-com.cdn.ampproject.org/c/s/www.tunisiesoir.com/science/ai-mit-scientists-develop-a-new-liquid-neural-network-future-of-robot-control-26558-2021/?amp"
     type: article
     provider:
-      name: Massachusetts Institute of Technology
-      domain: mit.edu
-    quality: 54
+      name: Tunisie Soir
+      domain: tunisiesoir.com
+    quality: 84
     images:
-      - url: "https://news.mit.edu/sites/default/files/images/202101/MIT-liquid-networks-Cover.jpg"
-        width: 1000
-        height: 667
+      - url: "https://www.tunisiesoir.com/wp-content/uploads/2021/02/AI-MIT-scientists-develop-a-new-‘liquid-neural-network-‘future-of-robot-control.jpg"
+        width: 600
+        height: 400
         isCached: true
-  - title: "What shortcomings of a traditional neural network is addressed by MIT’s Liquid Neural Network"
-    excerpt: "While traditional neural network training prevents it from adapting to new input data feed, the new liquid neural network from MIT offers to address this due to its flexible learning."
-    publishedDateTime: 2021-01-29T13:38:00Z
-    webUrl: "https://www.analyticsinsight.net/why-is-liquid-neural-network-from-mit-a-revolutionary-innovation/"
+  - title: "Artificial Intelligence: MIT creates ‘liquid’ machine learning - ‘future of robot control'"
+    excerpt: "ARTIFICIAL INTELLIGENCE (AI) engineers have designed a new ‘liquid' machine-learning system potentially capable of revolutionising everything from autonomous cars to medical diagnosis."
+    publishedDateTime: 2021-01-28T16:45:00Z
+    webUrl: "https://www.express.co.uk/news/science/1390384/artificial-intelligence-news-mit-liquid-machine-learning-future-of-robot-control-evg"
+    ampWebUrl: "https://www.express.co.uk/news/science/1390384/artificial-intelligence-news-mit-liquid-machine-learning-future-of-robot-control-evg/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1390384/artificial-intelligence-news-mit-liquid-machine-learning-future-of-robot-control-evg/amp"
     type: article
     provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 28
+      name: Daily Express
+      domain: express.co.uk
+    quality: 81
     images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/Machine-learning-7.jpg"
-        width: 900
-        height: 500
+      - url: "https://cdn.images.express.co.uk/img/dynamic/151/590x/artificial-intelligence-news-mit-liquid-machine-learning-future-of-robot-control-1390384.jpg?r=1611852641718"
+        width: 590
+        height: 350
         isCached: true
 
 secured: "lwCI1B6Ev+RkxPgpXJmHLUeh2UhMB65C1+bcx3E1VeGunkdRZJI4vGHXnSX8NvbobK4Ma6l5vWVSXLIWFSI9tcgMbiyYMk5CGe7SVJ6SecfeU9aRhIAz221bwz+QwevQ7Y/UO1TguewHcdVpSr1+bw7e9ogSnRQ9QGs9J5L9sEUCc9d3ctzVkumyQvZxRbpiBhy2wAocbksqiQdlsh3nTk3C5M2qNdJX6sg5DbWuugQadjD6CPthKCGxVOJigkgeNM9XRfVCGOKnP29g/4wUwP8iNfRcsyAmSqB1kGb8XVBSgRFL99nuL0V8ms//OJl56IEWdzcmmBGds2ZruVgUF8jNRZqxjQNzotlmyyxE0iDWcBpJDHvbRH8UV15HNb+/vShmGvueGFZpJubJ3NyNDkXJ8qCQFxjrwbGxZyXeO1T+x1iQuNI31euQPIdliM9VkHQhb4+YbL/BhjmhpSzXRpyUa6O/qNUZlCAQbvM1/mLVEuJG0Cb/jSpeBNxA0un/BZnEnyd9solxa0bKQFColA==;+ecI1UZ9OJ+srm9BVhZSzA=="

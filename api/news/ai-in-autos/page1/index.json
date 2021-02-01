@@ -90,6 +90,59 @@
       ]
     },
     {
+      "path": "_news/2021-01-30-microsoft-corp-nasdaq-msft-acquires-stake-in-self-driving-ev-venture.md",
+      "title": "Microsoft Corp. (NASDAQ: MSFT) Acquires Stake in Self-Driving EV Venture",
+      "excerpt": "Microsoft Corp. (NASDAQ: MSFT), a company primarily known for developing, manufacturing, licensing and selling computer software, electronics and personal computers, has announced that it has strategically teamed up with General Motors Co.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/microsoft-corp-nasdaq-msft-acquires-stake-in-self-driving-ev-venture-2021-01-29",
+      "originalUrl": "https://www.marketwatch.com/press-release/microsoft-corp-nasdaq-msft-acquires-stake-in-self-driving-ev-venture-2021-01-29",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-29T18:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-28-tesla-had-talks-with-other-automakers-about-licensing-its-self-driving-software-elon-musk-says.md",
       "title": "Tesla had talks with other automakers about licensing its self-driving software, Elon Musk says",
       "excerpt": "Tesla had “preliminary” discussions with other automakers about licensing its self-driving software, according to new comments by CEO Elon Musk. Tesla Licensing Software Today, Tesla released its Q4 2020 financial results and following the release,",
@@ -150,7 +203,7 @@
       "originalUrl": "https://www.msn.com/en-us/finance/other/baidu-is-the-sixth-company-approved-to-test-fully-driverless-cars-in-california/ar-BB1d9fg2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 310,
+      "heat": 300,
       "tags": null,
       "images": [
         {
@@ -589,8 +642,8 @@
       "title": "Chinese self-driving startup nets $154m in investment from state-backed fund",
       "excerpt": "With the new funds, Uisee will further develop its autonomous driving technology and accelerate its monetization.",
       "sourceUrl": null,
-      "webUrl": "https://www.techinasia.com/chinese-selfdriving-startup-uisee-nets-154m-investment-statebacked-fund?ref=recommender-671716",
-      "originalUrl": "https://www.techinasia.com/chinese-selfdriving-startup-uisee-nets-154m-investment-statebacked-fund?ref=recommender-671716",
+      "webUrl": "https://www.techinasia.com/chinese-selfdriving-startup-uisee-nets-154m-investment-statebacked-fund?ref=recommender-669214",
+      "originalUrl": "https://www.techinasia.com/chinese-selfdriving-startup-uisee-nets-154m-investment-statebacked-fund?ref=recommender-669214",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1416,58 +1469,6 @@
         "AI in Autos",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-paccar-aurora-to-develop-self-driving-big-rigs.md",
-      "title": "Paccar, Aurora to Develop Self-Driving Big Rigs",
-      "excerpt": "Truck-maker Paccar will work with autonomous vehicle startup Aurora Innovation to develop self-driving heavy-duty trucks, the latest in a growing series of deals aimed at bringing automation to the business that moves most of the freight in the U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/paccar-aurora-to-develop-self-driving-big-rigs-11611090000",
-      "originalUrl": "https://www.wsj.com/articles/paccar-aurora-to-develop-self-driving-big-rigs-11611090000",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-287222/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/paccar-aurora-to-develop-self-driving-big-rigs-11611090000",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/paccar-aurora-to-develop-self-driving-big-rigs-11611090000",
-      "publishedDateTime": "2021-01-19T12:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

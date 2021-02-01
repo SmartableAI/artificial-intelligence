@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Holm Auto Good News: Debate and speech coach Gary Harmon receives recognition after 55 years in education"
-    excerpt: "The Kansas State High School Activities Association announced that Gary Harmon, longtime debate and speech coach at Kansas Wesleyan University has been selected  for the 2020-21 National Federation of State High School Associations (NFHS) “Outstanding Speech/Debate/Theatre Educator Award."
-    publishedDateTime: 2021-01-27T19:43:00Z
-    webUrl: "https://www.salina.com/story/news/education/2021/01/27/debate-and-speech-coach-gary-harmon-receives-recognition-after-55-years-education/4250421001/"
-    ampWebUrl: "https://amp.salina.com/amp/4250421001"
-    cdnAmpWebUrl: "https://amp-salina-com.cdn.ampproject.org/c/s/amp.salina.com/amp/4250421001"
+  - title: "Global facial recognition market to grow by over $3.3B in next five years"
+    excerpt: "The global market for facial recognition is forecast to reach $7.75 billion by 2024 following a 12 percent CAGR from 2020, according to a new Technavio report."
+    publishedDateTime: 2021-01-29T22:09:00Z
+    webUrl: "https://www.biometricupdate.com/202101/global-facial-recognition-market-to-grow-by-over-3-3b-in-next-five-years"
     type: article
     provider:
-      name: Salina Journal
-      domain: salina.com
-    quality: 44
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 38
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/26/NSAJ/a2cc052f-f939-47ae-a0ad-b4d8cf2f6e8c-KSSAL-012821-kwu_debate.jpg?auto=webp&crop=2877,1619,x0,y116&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
+        width: 730
+        height: 499
         isCached: true
 
 secured: "J06O7fmtkTl1c4Yu75XUDu9UbvXHwRSuSVzm76ogYsweEUX1vJgEoNoCj/eAyjCMNxbskhwwrkDBUDnleID0ykOyPViGYCBQlt2X0l/VQPJQq1coE9p+2YTpRdADHATDEOrLfTxppi5M1iLKgnr8X2j7ykf45+CioI1Rqcx/pzaWiOhCsXOvV3ANHTPX0XNKsKHLDW/nK8lSIU7w9OgsGhEmzGs1aMiqOS+X2Ut2oiCgU0qNclCCjFklWMfklO8IoKHVJY/7qAu2oGCtWKQChtO14/2KAlDopvIxOFXFEBb4cwR5aP01fRxwG5S1qPJruUPlwdg6tYPgSly2LIvoZ2ZTrKIQPtJrfqbFJOe7zjc=;tBoEusgnzoQwcwuNm28grA=="
