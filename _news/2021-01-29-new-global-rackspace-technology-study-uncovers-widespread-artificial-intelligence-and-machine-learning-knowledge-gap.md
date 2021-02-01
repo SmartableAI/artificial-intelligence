@@ -1,20 +1,24 @@
 ---
 category: news
 title: "New Global Rackspace Technology Study Uncovers Widespread Artificial Intelligence and Machine Learning Knowledge Gap"
-excerpt: "Rackspace Technology™ (NASDAQ:RXT), a leading end-to-end, multicloud technology solutions company today announced"
-publishedDateTime: 2021-01-28T16:05:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/01/g19373023/new-global-rackspace-technology-study-uncovers-widespread-artificial-intelligence-and-machine-lear"
-webUrl: "https://www.benzinga.com/pressreleases/21/01/g19373023/new-global-rackspace-technology-study-uncovers-widespread-artificial-intelligence-and-machine-lear"
-ampWebUrl: "https://amp.benzinga.com/amp/content/19373023"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19373023"
+excerpt: "Rackspace Technology™ (NASDAQ: RXT), a leading end-to-end, multicloud technology solutions company today announced the results of a global survey that reveals that the majority of organizations globally lack the internal resources to support critical artificial intelligence (AI) and machine learning (ML) initiatives."
+publishedDateTime: 2021-01-28T16:08:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/new-global-rackspace-technology-study-uncovers-widespread-artificial-intelligence-and-machine-learning-knowledge-gap-1030016221"
+webUrl: "https://markets.businessinsider.com/news/stocks/new-global-rackspace-technology-study-uncovers-widespread-artificial-intelligence-and-machine-learning-knowledge-gap-1030016221"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/New-Global-Rackspace-Technology-Study-Uncovers-Widespread-Artificial-Intelligence-and-Machine-Learning-Knowledge-Gap-1030016221"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/New-Global-Rackspace-Technology-Study-Uncovers-Widespread-Artificial-Intelligence-and-Machine-Learning-Knowledge-Gap-1030016221"
 type: article
-quality: 31
+quality: 61
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
@@ -70,6 +74,6 @@ related:
       domain: finanznachrichten.de
     quality: 1
 
-secured: "79qjhnKMx+b6NrvTn0rlOE8NBqfwz9Z72Aq5DpnWtomL+67B4K7moUioxtrnWhRxDgunkFfpKBaB9xmuZ1isb3Ll+wj5acLUK8AaaYbEwdLsUed1Hy5SNYAX0pBfYwB1xMwXkfpOaaQO/2pisWEzM1YQ8CB/76PKQnU7DL6bGq5hedkAPY60sHjLJCSBpxHhqxiJ5ZtCVvx9NBuqO9lzjcuGvr9X6RVimvGtachew3M/6m2WNbjRuX+Mw+ron5+JneRlyAdWKhzb26frdSNzjXx3ktJYB4BKoFtxQWWQv4MuZmsZtgEgBUw9r43fvP4IRAH1jRiivh7XNL9VPBBVTIXPa5Y0X+qegIoZ9ytgQ4E=;yT1JSBkYy7nXX+44Yoq+MA=="
+secured: "mK04ZGDB4xXBrD5O+f3/6IB7rf65v73rtHjGti3GmBMZKsmFw1MRU3oNVmdmFlvI7nHRSfJU25Yz+++bok1dMrww7Z6N+7uwDdeuLI1qv1jCxdocKswWpYl/XW7pdxBWdxS0pCJXabyNL1j5reTjzc9xF5pbjPJe0q7FCR/+tN53N0yhkvP1LWa6dDtHsmWOMHyt5vXnQp0OeDhKosCtZLRZYB/puJtuNG6S+NaFc3Sntbs5QnKqbN24Kt4h/Aajba4ZE8Kjink46x/OlDNyqoZKhi1IOOHARcThbZfZeGY2X3RwhPjyzDiNH7iVwSd2uKbb8o4GYKeXGFVfFxrSTSGK5Zk9uRD3S+w5u6SkQBE=;Lp540kSgZli1aW06i8GROg=="
 ---
 

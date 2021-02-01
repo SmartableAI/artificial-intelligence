@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-01-weird-new-things-are-happening-in-software-says-stanford-ai-professor-chris-re.md",
+      "title": "‘Weird new things are happening in software,’ says Stanford AI professor Chris Re",
+      "excerpt": "The time has come, said Re, for AI scientists to focus on higher-level tasks such as bringing domain expertise to AI rather than twiddling hyper-parameter settings of neural networks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/weird-new-things-are-happening-in-software-says-stanford-ai-professor-chris-re/",
+      "originalUrl": "https://www.zdnet.com/article/weird-new-things-are-happening-in-software-says-stanford-ai-professor-chris-re/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2021/01/31/20652a06-32b5-416e-8abc-c24e06b520cf/chris-re-2021-hai-lecture-on-software-2-0.png",
+          "width": 3334,
+          "height": 1423,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/weird-new-things-are-happening-in-software-says-stanford-ai-professor-chris-re/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/weird-new-things-are-happening-in-software-says-stanford-ai-professor-chris-re/",
+      "publishedDateTime": "2021-01-31T13:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-31-amazons-unique-approach-to-automl-makes-ai-accessible-to-enterprises.md",
       "title": "Amazon’s Unique Approach To AutoML Makes AI Accessible To Enterprises",
       "excerpt": "AutoML is a technique where customers bring their data and walk away with a model without worrying about the complex workflow involved in training machine learning models.",
@@ -1419,49 +1471,6 @@
       "provider": {
         "name": "International Business Times",
         "domain": "ibtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-graphcore-series-e-funding-710m-total-440m-cash-in-hand.md",
-      "title": "Graphcore Series E Funding: $710m Total, $440m Cash-in-Hand",
-      "excerpt": "One of the most well-funded ventures in this space is Graphcore, and the company just announced its latest Series E funding round of $222 million, taking it to $710m total across the five rounds. Graphcore,",
-      "sourceUrl": null,
-      "webUrl": "https://www.anandtech.com/show/16346/graphcore-series-e-funding-710m-total-440m-cashinhand",
-      "originalUrl": "https://www.anandtech.com/show/16346/graphcore-series-e-funding-710m-total-440m-cashinhand",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.anandtech.com/doci/16346/July%20Launch%20Blog%20Header%20Image_smallv2_678x452.jpg",
-          "width": 678,
-          "height": 254,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-04T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AnandTech",
-        "domain": "anandtech.com",
         "images": null,
         "publishers": null,
         "authors": null

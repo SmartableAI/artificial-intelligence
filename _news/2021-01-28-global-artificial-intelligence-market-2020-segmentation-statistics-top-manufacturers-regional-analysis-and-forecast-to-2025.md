@@ -98,20 +98,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning as a Service Market Size 2021 with Regional Opportunities, Share, Trends, New Product Launches, Consumption Demand Forecast to 2024"
-    excerpt: "Machine Learning as a Service Market Study 2017-2024 by Deployment Type ( Public Cloud, Private Cloud), By End-Use Application (Manufacturing, Retail, Healthcare & Life Sciences, BFSI, Travel & Hospitality,"
-    publishedDateTime: 2021-01-27T10:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-size-2021-with-regional-opportunities-share-trends-new-product-launches-consumption-demand-forecast-to-2024-2021-01-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Big Data Technology Market Latest Industry Size, Share, Emerging Trends, Future Demands, Revenue and Forecasts Research Report"
     excerpt: "The global big data technology market is set to experience an impressive growth trajectory owing to the rising"
     publishedDateTime: 2021-01-29T06:32:00Z

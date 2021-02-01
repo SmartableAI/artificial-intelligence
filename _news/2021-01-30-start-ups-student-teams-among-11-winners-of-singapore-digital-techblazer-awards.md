@@ -41,22 +41,6 @@ related:
         width: 590
         height: 400
         isCached: true
-  - title: "Singapore launches new self-driving bus trial"
-    excerpt: "SINGAPORE: Singapore has moved a step closer to a driverless public transport network with the launch of a new"
-    publishedDateTime: 2021-01-31T22:53:00Z
-    webUrl: "https://www.brecorder.com/news/40058281"
-    ampWebUrl: "https://www.brecorder.com/news/amp/40058281"
-    cdnAmpWebUrl: "https://www-brecorder-com.cdn.ampproject.org/c/s/www.brecorder.com/news/amp/40058281"
-    type: article
-    provider:
-      name: Business Recorder
-      domain: brecorder.com
-    quality: 44
-    images:
-      - url: "https://i.brecorder.com/large/2021/01/6017284ed462c.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Singapore Launches New Self-driving Bus Trial"
     excerpt: "Singapore has moved a step closer to a driverless public transport network with the launch of a new trial of self-driving buses. Orderly and high-tech, the Asian city-state has become a testbed for self-driving vehicles and has developed home-grown technology while inviting foreign companies to trial their own."
     publishedDateTime: 2021-01-28T06:52:00Z
@@ -93,6 +77,15 @@ related:
       name: The Guardian Nigeria
       domain: guardian.ng
     quality: 24
+  - title: "Singapore launches new self-driving bus trial"
+    excerpt: "Singapore has moved a step closer to a driverless public transport network with the launch of a new trial of self-driving buses."
+    publishedDateTime: 2021-02-01T01:05:00Z
+    webUrl: "https://www.thestar.com.my/index.php/tech/tech-news/2021/02/01/singapore-launches-new-self-driving-bus-trial"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 4
 
 secured: "auArnHab5Dm6FERObGzNQ759t6BnSo8KSkjj8iK8cZRp4aO0kVKyuJkIR1hsZyJMNoKEs0L39KAlbcbaJ8sxpk4xtjnVvcGhfabeJ7gPb+9Cs4RC5xSa60bYhM5QDuAUstIu4v16CMHpLEMK4XbFKPiwuqk6VrYUfW+Ircpwj3NVFWuxDRMIf6zmcUUs0A1TVELJMYUnogQJ6CxZkYtIF/O+tDiORqshWv+h25WS3ro99lzFLaU/qXerE5fXWqr1/aHAACVwFOidYkkZbs4gF7WQyYottww9C1ykjOF5m134kh/K0mi9zWRDRoAOSIDaHFlgEwUQaJFAGv3ncXVbuqe4t5G7t+XBXc5s/SAHNJK0FL5KmyL5PRo71LZZvdGxnRf1+QrNQ6N6YOH3NZnKY0QevLbDlEsciuZK9VjaMh+MSDzFy5F4htvX6Y4iSaBQ1FcC93Bu/kGKbnARxRMdVaYKwtcqy5H8yneKdzhHHeFUKRrciYuFiIzwitJeViIRxz/xuLBDroXt0oXKHGZNHw==;onFr+IMFfr14LwYh92o+VQ=="
 ---

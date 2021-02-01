@@ -55,20 +55,6 @@ related:
         width: 1000
         height: 500
         isCached: true
-  - title: "Rising integration of artificial intelligence in healthcare is influencing the Healthcare Virtual Assistants Market growth"
-    excerpt: "Meticulous Research (R) - leading global market research company published a research report titled \"Healthcare Virtual Assistants Market by Product (Chatbot and Smart Speaker), Technology (Speech Recognition,"
-    publishedDateTime: 2021-01-27T10:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/rising-integration-of-artificial-intelligence-in-healthcare-is-influencing-the-healthcare-virtual-assistants-market-growth-2021-01-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "How Could AI, AR, and VR Change Healthcare?"
     excerpt: "This article sheds light on the healthcare industry's evolution over the period while incorporating new technologies to enhance the healthcare sector's operations."
     publishedDateTime: 2021-01-27T11:12:00Z

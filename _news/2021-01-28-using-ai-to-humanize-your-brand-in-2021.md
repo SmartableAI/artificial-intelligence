@@ -60,20 +60,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial intelligence funding in 2021 will boost substantial growth."
-    excerpt: "With growing interest in emerging technologies, AI startups are seeing a rapid surge in funding and investment alike. Here’s the list of top artificial intelligence funding in January 2021."
-    publishedDateTime: 2021-01-27T09:06:00Z
-    webUrl: "https://www.analyticsinsight.net/top-artificial-intelligence-funding-in-january-2021/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 37
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/Top-Artificial-Intelligence-Funding-in-January-2021.jpg"
-        width: 900
-        height: 500
-        isCached: true
 
 secured: "XGqfBSSRc2r9jp0/BuezZIaZYexfptl2HOXXhoLQREyZNscnWflerdtqgbVo42XDlvO/wgsOf1wiuucQt/C+O/IyRIJZRaEWDM+WxS4JIBHklj84/nKUyojZrA9EhXF5Pa21T05BcZNQvpOBjJN9QfDjIefHqvFVr83XJM/Ehhr5tS56ok+bTIJEwaQ18i9y0gdYNbjtQ5zXhgsz5eyWaFvyqg7xi/RhWoQro591Mey/V7908XF+0CKmBsHm0uizDxnvmnpxMqRMgfg9Cv5JmmXQGCiaXhuwXfpYNL/7+6954adKbymhDQHQsDRt8yhwnfVPnc41XERMEAXbbyNnMtsyAKC47e0w9e+XSNb3lL7zF1JU1sl64XORT+OLiBQQf5WGgEsndnWInHSOoUk8KfouKxT4XcwVx9QCzk7WNuLs2hq4APyGrWo4fIfPP8UvGmNCIFVgkcXLuo1KIF09zYTSNsPliujnGv7N8BH61fgfbq+oi2GNvuYhYq2rGXIJxnAjStbWh8WU37y5YSM1uw==;Fy+0z/Q7XtknpXu5M678Pw=="
 ---

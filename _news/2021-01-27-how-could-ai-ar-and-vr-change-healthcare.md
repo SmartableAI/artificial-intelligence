@@ -55,20 +55,6 @@ related:
         width: 1000
         height: 500
         isCached: true
-  - title: "Rising integration of artificial intelligence in healthcare is influencing the Healthcare Virtual Assistants Market growth"
-    excerpt: "Meticulous Research (R) - leading global market research company published a research report titled \"Healthcare Virtual Assistants Market by Product (Chatbot and Smart Speaker), Technology (Speech Recognition,"
-    publishedDateTime: 2021-01-27T10:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/rising-integration-of-artificial-intelligence-in-healthcare-is-influencing-the-healthcare-virtual-assistants-market-growth-2021-01-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Sharecare acquires doc.ai to expand engineering expertise, accelerate digital transformation of healthcare through innovative AI platform"
     excerpt: "Sharecare, the digital health company that helps people manage all their health in one place, today announced it has entered into a definitive agreement to acquire doc.ai, an enterprise artificial intelligence (AI) platform accelerating digital transformation in healthcare."
     publishedDateTime: 2021-01-29T08:50:00Z

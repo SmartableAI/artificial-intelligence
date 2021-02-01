@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/31/heres-where-ai-will-advance-in-20
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/31/heres-where-ai-will-advance-in-2021/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Artificial intelligence funding in 2021 will boost substantial growth."
-    excerpt: "With growing interest in emerging technologies, AI startups are seeing a rapid surge in funding and investment alike. Here’s the list of top artificial intelligence funding in January 2021."
-    publishedDateTime: 2021-01-27T09:06:00Z
-    webUrl: "https://www.analyticsinsight.net/top-artificial-intelligence-funding-in-january-2021/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 37
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/Top-Artificial-Intelligence-Funding-in-January-2021.jpg"
-        width: 900
-        height: 500
         isCached: true
 
 secured: "b/hhIPc/YnjP9Nm7D3JczA3qfnSbRlwaXFXUwNottqAqB5ercBEj5uBWPjLGL/aZ3E76hB9gl9HrbX0Uj2Kz6piVIyPnN1+++m6EKON+2fFXyCAmwTNjsdYchYn205uNWH5d8K+9nT+FZoCy2GAfCsn9lcpKrSsIXijm4z0P2XN38UMQ3Uxy3BO8e3iEW4IPhfhI9gPIp4h6YC4ITaPUECy9FziSfnjKWmWYand6IncDpADknSw6k+Gb/YjKEmHC7aVdQ76z/fNyF7xBubmYsrimV8ntX8zMTIJ+YolUO3UdYWaE0AWNZGGo57tIDoxppPe8X+U08/g/lsTh/gje51Nk3yJ4R8KWdmHiXipkPkfEHNuWYIcfSVdFIsUnwJo0kN0fRqEgz0OKGe5b3JGpJBFM9t1Q+Oe+gM+51ZKTi54UDRJOJuLT+CAizlsKwZ0SCM9aeJlYQ05nFDr9+IpXC2iqgcSsb2gUq6HRP6Sw+/budJ8EPz0wliWVou7mn1smrizQ59vS7SZkmcieQpdEvQ==;7WOKzeywJEmdBVPcEWvzFQ=="

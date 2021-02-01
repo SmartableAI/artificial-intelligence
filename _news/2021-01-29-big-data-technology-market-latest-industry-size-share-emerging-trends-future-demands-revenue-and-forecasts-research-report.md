@@ -113,20 +113,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning as a Service Market Size 2021 with Regional Opportunities, Share, Trends, New Product Launches, Consumption Demand Forecast to 2024"
-    excerpt: "Machine Learning as a Service Market Study 2017-2024 by Deployment Type ( Public Cloud, Private Cloud), By End-Use Application (Manufacturing, Retail, Healthcare & Life Sciences, BFSI, Travel & Hospitality,"
-    publishedDateTime: 2021-01-27T10:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-size-2021-with-regional-opportunities-share-trends-new-product-launches-consumption-demand-forecast-to-2024-2021-01-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "o1vj0vw/wAkwYcJ5R3hGiuIbR9cbE0ME2NX7YYd/apSEYXI+N1TtEMAsV2I9HcODdaeXBjgaFK8P1y9nsNSCsVldHBru8YDEKdCw4bow2+Tyu60tG5uafsziB6c+zl/pOdPVOXuZHJZ39OJfxmqv9crPzyXT745YdM6uy0eqDYQEmgZYQQEOXKH0x5ScBU+NBWbrvu9sa00syWPWLkIr8YmXYhjsqZ2YbadS4WaKaktZDr+lO/RYyEprETjrh603xcFMTnmREiDT7Cc14ANmiExFWiWD0URBRjxS+hixRclab33tw7B7kl5FwXDTICbimpovRjv3kLZemDjWBGbapDRDayaKSEE/Y/DPjzzWaI0=;NlQEqjxVT08MI+0yjMsDFA=="
 ---

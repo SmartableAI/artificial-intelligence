@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/weird-new-things-are-happening-in-softwar
 ampWebUrl: "https://www.zdnet.com/google-amp/article/weird-new-things-are-happening-in-software-says-stanford-ai-professor-chris-re/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/weird-new-things-are-happening-in-software-says-stanford-ai-professor-chris-re/"
 type: article
-quality: 82
-heat: 82
+quality: 84
+heat: 84
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Google AI
 
 images:
   - url: "https://zdnet2.cbsistatic.com/hub/i/2021/01/31/20652a06-32b5-416e-8abc-c24e06b520cf/chris-re-2021-hai-lecture-on-software-2-0.png"

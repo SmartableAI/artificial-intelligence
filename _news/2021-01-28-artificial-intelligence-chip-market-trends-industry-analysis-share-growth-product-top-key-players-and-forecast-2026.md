@@ -6,7 +6,7 @@ publishedDateTime: 2021-01-28T02:38:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-trends--industry-analysis-share-growth-product-top-key-players-and-forecast-2026-2021-01-28"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-trends--industry-analysis-share-growth-product-top-key-players-and-forecast-2026-2021-01-28"
 type: article
-quality: 61
+quality: 63
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ topics:
   - Machine Learning
   - AI
   - AI Hardware
+  - AI in Robotics
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL8N2K2500"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2K2500"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -36,6 +36,20 @@ related:
       name: Law360
       domain: law360.com
     quality: 24
+  - title: "State Board of Elections ends recognition of Green and Constitution Parties in N.C."
+    excerpt: "Both parties failed to meet the necessary voting requirements in the 2020 presidential and state elections. Here's what that means."
+    publishedDateTime: 2021-02-01T02:35:00Z
+    webUrl: "https://www.dailytarheel.com/article/2021/02/city-green-constitution-party"
+    type: article
+    provider:
+      name: The Daily Tar Heel
+      domain: dailytarheel.com
+    quality: 18
+    images:
+      - url: "https://snworksceo.imgix.net/dth/77ee925f-c87b-4bea-b7e9-903ae8aef544.sized-1000x1000.jpg?w=800&h=600"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "f+smdBy2hJNEdLHEsn2QNefKJsMd9WpMd7aJ+tZiSxERV00VEZo316P9fN6MWwV9GMjSo+8bs6zGmeT4FLxZvXc7s9rF1My6e1CyHjWZyLKE8jKmZjMasEHuvuAbg+H/iH5pGj9YgZZmombwITK6pHA6m1neDzfoV6y1KfPASkJPGATGfE1H2RSYYlsRqMPgTgvZ+ZwOEJb8mamsRyAk4G9BDy1SgqccprTxHzkUFspJHNKUzOrGVU7lIIq8iY6OO7ppm8S9A5j36pebpfQOkiUsRcLZcs9iYPONQm9uLXt5ZE8MYOQQ2LRgHPLFMU5+j5NZfCIokhnojySDKtBszHEFdzuCUYWSggDZBTWx6x8=;oCxjyp3b006cYyboqHWBrA=="
 ---

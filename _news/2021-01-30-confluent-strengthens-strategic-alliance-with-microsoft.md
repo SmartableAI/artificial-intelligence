@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358472/confluent-stren
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/358472/confluent-strengthens-strategic-alliance-with-microsoft?amp"
 type: article
 quality: 89
-heat: 219
+heat: 209
 published: true
 
 provider:
@@ -90,20 +90,6 @@ related:
       - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/Microsofts-investment-in-cruises-puts-it-in-the-game-of.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Top marketing intelligence firm 10th Man uses Microsoft’s Azure cloud to unlock the power of data"
-    excerpt: "Man, a leading UK marketing intelligence company and data-driven innovator, is using Microsoft’s data tools to provide fast and accurate information to some of the world’s biggest brands. Headquartered in London,"
-    publishedDateTime: 2021-01-27T10:40:00Z
-    webUrl: "https://news.microsoft.com/en-gb/2021/01/27/top-marketing-intelligence-firm-10th-man-uses-microsofts-azure-cloud-to-unlock-the-power-of-data/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 58
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/68/2020/05/MDC19_coldAisleLow_001-768x512.jpg"
-        width: 768
-        height: 512
         isCached: true
   - title: "WinWire launches Vaccine Management Solution Built on Microsoft Azure"
     excerpt: "WinWire Technologies, a digital engineering services company, launched its Vaccine Management solution built on Azure. Healthcare"

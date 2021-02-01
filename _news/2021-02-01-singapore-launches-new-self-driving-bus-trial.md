@@ -1,30 +1,22 @@
 ---
 category: news
 title: "Singapore launches new self-driving bus trial"
-excerpt: "SINGAPORE: Singapore has moved a step closer to a driverless public transport network with the launch of a new"
-publishedDateTime: 2021-01-31T22:53:00Z
-originalUrl: "https://www.brecorder.com/news/40058281"
-webUrl: "https://www.brecorder.com/news/40058281"
-ampWebUrl: "https://www.brecorder.com/news/amp/40058281"
-cdnAmpWebUrl: "https://www-brecorder-com.cdn.ampproject.org/c/s/www.brecorder.com/news/amp/40058281"
+excerpt: "Singapore has moved a step closer to a driverless public transport network with the launch of a new trial of self-driving buses."
+publishedDateTime: 2021-02-01T01:05:00Z
+originalUrl: "https://www.thestar.com.my/index.php/tech/tech-news/2021/02/01/singapore-launches-new-self-driving-bus-trial"
+webUrl: "https://www.thestar.com.my/index.php/tech/tech-news/2021/02/01/singapore-launches-new-self-driving-bus-trial"
 type: article
-quality: 44
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Business Recorder
-  domain: brecorder.com
+  name: The Star
+  domain: thestar.com.my
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://i.brecorder.com/large/2021/01/6017284ed462c.jpg"
-    width: 640
-    height: 480
-    isCached: true
 
 related:
   - title: "Singapore launches new self-driving bus trial"
@@ -94,6 +86,6 @@ related:
         height: 509
         isCached: true
 
-secured: "YosVPJt1iPqbcEWEtk7OXRNIHLHE0FMtHUw93GN6B+ogddFUKekxC5CBfRA5ftqJzaFhh3aDQ/J1edOJg7NqolnQaesYa7hsZI5PUV451tOMkeU3zRN3mxOtKQrf9YqNIdJ/60eUFlCYBG79t4H6mmHf4yQLmr2T0MuXHCKW7JkMletm73cIBn7ckRvXJYTkRLgiQvGM0kSyzgppoYjvMnBynA+kW7SC0iE7lNFzStvKbp7Q1TfRYmkBW395DOmZo2qIkkb5CgFT3+17QU3zSeLFv8yqlNPcgxW5B74jhPBkx7JdkwpeD4MUNA00019ZBzbRQP8h+gfoojJg9HQD1pz9Z0yrms8MwgsbYAoXSQauaJzwOfwH4YyNa9Nm/HXN1KyxgXyZmVedjUQirceVt58oLZOKoEjnougyJu2HNcXpFC25sDzX+8GtN98ZH/BQAfEQ21w946/WlWeVvXIUOoHbOqU8yDwLT98v7u+mIjynCqmZRTaMIDgXuOoshjtpPR0wzi17MG0sgt9YaOBtXA==;DUimRyey1xiIytqHSvX8TA=="
+secured: "a7DpWW6LPJS2Lj8hxow3Zw7arM8dsA9TEOgqAvNhmafPVoLjgMbX20V3//GXPs4TbcUod+2LRzKKh/FdtHCMHOkX9ou+Kg91bWZhHS+yvtbcNL0CKoxlYCjANuAksQdLK+whd8jDsFiEkbSM+WHE9l+pSKzvzAdeWrx6jLiHs9O0Q7xDsqveyIbZwWE6SQKpT74yl5RCQONByI8kFeE/Z5giFE5Pfs+Nm6pjnLP8gKpZLfBhXoSVnBKBMnhN3ExGorNwQbtM020DLeHBb+WXQsmXuT+bdZsvHr3goEJ/ZbMpMhcox+18LFsbq/jCRwW8/X1braCJ4iUEiYNP4cg9VLzBY0jwR/Niuay4xG2pxQr19LaI4EHLvNH5qclByOiBssXTD0lZas7LYLbwa9qQ8V6l3LjkNh80RUoEBWpZsFNZQrkm4EqP526wxQSAm/yNBx6b38IqQIwtqJh4o8Isfdh8roO1EtKA8zflnR1QKk+I1xXj7LI7wZXX98S892H6vVZiD4kVuTpr8eYpApwVEg==;Jr8i7bIdbdhSTW+n0hL8MA=="
 ---
 
