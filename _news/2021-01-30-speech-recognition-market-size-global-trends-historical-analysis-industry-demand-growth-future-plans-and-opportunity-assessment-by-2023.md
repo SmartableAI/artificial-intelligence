@@ -30,34 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) Chipsets Market – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2026"
-    excerpt: "Selbyville Delaware Global Artificial Intelligence (AI) Chipsets Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2026. Artificial Intelligence (AI) Chipsets Market Report also covers top key players,"
-    publishedDateTime: 2021-01-27T07:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2026-2021-01-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 79
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Natural Language Processing (NLP) in Healthcare and Life Sciences Market 2021, Share, Growth, Trend, Industry Analysis and Forecast to 2026"
-    excerpt: "Summary A New Market Study, titled \"Natural Language Processing (NLP) in Healthcare and Life Sciences Market Upcoming"
-    publishedDateTime: 2021-01-29T17:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-2021-share-growth-trend-industry-analysis-and-forecast-to-2026-2021-01-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial intelligence (AI) in manufacturing Market Analysis By Growth, Emerging Trends and Future Opportunities"
     excerpt: "Artificial intelligence (AI) in manufacturing Market Size, Demand-sales, Suppliers By Key Applications Detailed Analysis and Growth Aspects on Manufacturing Landscapes and Regional Analysis \"Market Overview: Global Artificial Intelligence in Manufacturing Market is valued approximately USD 1 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 57."
     publishedDateTime: 2021-01-29T13:59:00Z
@@ -72,71 +44,90 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Chip Market Trends- Industry Analysis, Share, Growth, Product, Top Key Players and Forecast 2026"
-    excerpt: "Selbyville, Delaware According to the latest research report titled 'Global Artificial Intelligence Chip Market Analysis, 2020', available with Market Study Report LLC, worldwide artificial intelligence chip industry is expected to undergo a remunerative period,"
-    publishedDateTime: 2021-01-28T02:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-trends--industry-analysis-share-growth-product-top-key-players-and-forecast-2026-2021-01-28"
+  - title: "Artificial Intelligence in Military Market to Witness Astonishing Growth With Vital Key Players | Leidos Inc, Thales Group"
+    excerpt: "A consciously conceived and designed business intelligence report titled Global Artificial Intelligence in Military market 2021 by Manufacturers, Type, and Application, Forecast to 2030 by MarketResearch."
+    publishedDateTime: 2021-01-29T10:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-to-witness-astonishing-growth-with-vital-key-players-leidos-inc-thales-group-2021-01-29"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 61
+    quality: 43
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "North America AI Chipsets Market Outlook | Development Factors, Latest Opportunities and Forecast 2026"
-    excerpt: "According to the Graphical Research new growth forecast report titled North America AI Chipsets Market Size will"
-    publishedDateTime: 2021-01-28T09:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/north-america-ai-chipsets-market-outlook-development-factors-latest-opportunities-and-forecast-2026-2021-01-28"
+  - title: "Facial Recognition Market Analysis 2021 Growth Opportunities, Trends, Segmentation and Outlook 2025, with Impact of COVID-19"
+    excerpt: "Jan (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" “Facial Recognition Market”"
+    publishedDateTime: 2021-01-27T13:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-analysis-2021-growth-opportunities-trends-segmentation-and-outlook-2025-with-impact-of-covid-19-2021-01-26"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 53
+    quality: 42
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice Recognition Market Size, Detailed Analysis of Current Industry Figures with Forecasts Growth By 2026"
-    excerpt: "Selbyville, Delaware. The report on Voice Recognition market is a comprehensive evaluation of the market. It does"
-    publishedDateTime: 2021-01-29T11:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-size-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2026-2021-01-29?tesla=y"
+  - title: "Global Artificial Intelligence Market 2020 Segmentation, Statistics, Top Manufacturers, Regional Analysis and Forecast to 2025"
+    excerpt: "The recently distributed report entitled Global Artificial Intelligence Market 2020 by Company, Regions, Type and Application, Forecast to 2025 is well crafted using a combo of significant data related to the market."
+    publishedDateTime: 2021-01-28T08:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-2020-segmentation-statistics-top-manufacturers-regional-analysis-and-forecast-to-2025-2021-01-27"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
+    quality: 39
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Machine Learning Market Report 2020: Industry Analysis, Trends, Market Size, and Forecasts 2018-2026 - ResearchAndMarkets.com"
-    excerpt: "Global Industry Analysis, Trends, Market Size, and Forecasts up to 2026” report has been added to ResearchAndMarkets.com’s offering. The report on the global machine learning market provides qualitative and quantitative analysis for the period from 2018 to 2026."
-    publishedDateTime: 2021-01-29T07:59:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-north-america-679d3c6ec1574c5f95e349c671cd1828"
+  - title: "Natural Language Processing Market Research Update, Size Estimation, Future Scope, Revenue Opportunities and Regional Forecast to 2026"
+    excerpt: "The overall natural language processing market is expected to grow from USD 8.61 Billion in 2018 to USD 80.68 Billion"
+    publishedDateTime: 2021-01-29T06:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-research-update-size-estimation-future-scope-revenue-opportunities-and-regional-forecast-to-2026-2021-01-28"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 8
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Global Machine Learning Market Report 2020: Industry Analysis, Trends, Market Size, and Forecasts 2018-2026 - ResearchAndMarkets.com"
-    excerpt: "Global Industry Analysis, Trends, Market Size, and Forecasts up to 2026\" report has been added to ResearchAndMarkets.com's offering. The report on the global machine learning market provides qualitative and quantitative analysis for the period from 2018 to 2026."
-    publishedDateTime: 2021-01-28T04:32:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210128005516/global-machine-learning-market-report-2020-industry-analysis-trends-market-size-and-forecasts-2018-2026-researchandmarketscom"
+  - title: "Machine Learning as a Service Market Size 2021 with Regional Opportunities, Share, Trends, New Product Launches, Consumption Demand Forecast to 2024"
+    excerpt: "Machine Learning as a Service Market Study 2017-2024 by Deployment Type ( Public Cloud, Private Cloud), By End-Use Application (Manufacturing, Retail, Healthcare & Life Sciences, BFSI, Travel & Hospitality,"
+    publishedDateTime: 2021-01-27T10:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-size-2021-with-regional-opportunities-share-trends-new-product-launches-consumption-demand-forecast-to-2024-2021-01-27"
     type: article
     provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 0
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Big Data Technology Market Latest Industry Size, Share, Emerging Trends, Future Demands, Revenue and Forecasts Research Report"
+    excerpt: "The global big data technology market is set to experience an impressive growth trajectory owing to the rising"
+    publishedDateTime: 2021-01-29T06:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/big-data-technology-market-latest-industry-size-share-emerging-trends-future-demands-revenue-and-forecasts-research-report-2021-01-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "5G7gHAN3DX0mRfGKSeX+PV4TV0FlAjQTw9WBAPU/wAsEQJQ6+lmhb5FMT4yM5xY+ngcdES5U3HH9AoeUrmqTIVlbVSwo0H+f4Y2OG9rtqORcNeF9VTwQaNkjZm1yRmUW2RrrdhbJ0iVi6oHlzafF1YxzZ4MD3ykGed/lgLuSkLUTqwx//+DiOlA17ruBGreBjv08JWN3zC8LfCcdGhKhOImQFcQt1LB4oJ+PHDVOTFW36LACvTEUupX2mITtP30LkoP5/ROW/ql0DTl8D5GQKOIheR+HKo11+vsjGo/9WMQeCj4uNxmKqlnBhs96fpGKBZ1DqSp0LUnHlHEHUu+wqwG0Y16NW0DfoYSN1MmLn+k=;jowuJcfiLCySE2Kkz//XjA=="
 ---

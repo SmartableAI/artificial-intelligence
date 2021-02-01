@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/362981"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/362981"
 type: article
 quality: 74
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -130,15 +130,6 @@ related:
       name: India Times
       domain: indiatimes.com
     quality: 12
-  - title: "Growth Model of Fintech Industry and Expectations in 2021"
-    excerpt: "India is amongst the world’s fastest emerging markets for the Fintech sector. With China, India ranked at the highest in Fintech adoption rate globally. After the 2016 demonetization, the country"
-    publishedDateTime: 2021-01-27T09:04:00Z
-    webUrl: "https://www.ciol.com/growth-model-fintech-industry-expectations-2021/"
-    type: article
-    provider:
-      name: CIOL
-      domain: ciol.com
-    quality: 4
 
 secured: "Pz0pklU/b9zGJawobQjcoAwWJ2pkSMdvqRuxeANG0CylxX05JHfzjRnKqMbxGfomOpxnNVPG8Q8jxYT6OOlMN8I0JnQcQ5Cpg8BIltZzxPT4B9FklTZ9dSi0bj9FS8zvxR5EHdzSGy3p/WutExb8MDnfFXmzi1kS3XWXzHj7BK9wVWFc4L0xwaZu81x6acBkMfM3n5/Mrtk6vD650Yl3dfkm37IVSmKliK0MedREerJ9JcVAGa2KHXRPdflyZTRGdNJcJGptjcb9uvkVX3FVPe0UQq2u05/H6748AoVI9LCURKTeyxgKpXCIipaSUGyUFioDg3BlzjQm9afJAYT7bej+caP+ca8ielIa22gak14=;wgw0l9AXeD+97GxQRJLZyQ=="
 ---

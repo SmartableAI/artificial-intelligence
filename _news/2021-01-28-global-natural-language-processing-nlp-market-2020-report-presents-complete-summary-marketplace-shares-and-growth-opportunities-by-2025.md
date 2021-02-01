@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/global-natural-language-
 webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-market-2020-report-presents-complete-summary-marketplace-shares-and-growth-opportunities-by-2025-2021-01-27"
 type: article
 quality: 50
-heat: 100
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -29,70 +29,99 @@ images:
     isCached: true
 
 related:
-  - title: "Text-to-Speech Market worth $5.0 billion by 2026 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "According to the new market research report \"Text-to-Speech Market with COVID-19 Impact by Offering (Software, Services), Vertical (Enterprise, Consumer Electronics, Education, Retail), Deployment, Language,"
-    publishedDateTime: 2021-01-28T18:31:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/text-to-speech-market-worth-5-0-billion-by-2026-exclusive-report-by-marketsandmarkets-1030015164"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/text-to-speech-market-worth-5-0-billion-by-2026-exclusive-report-by-marketsandmarkets-1030015164"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/text-to-speech-market-worth-5-0-billion-by-2026-exclusive-report-by-marketsandmarkets-1030015164"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
-  - title: "Global $6+ Billion CAR-T Therapy Market Opportunities and Strategies to 2030 - ResearchAndMarkets.com"
-    excerpt: "T Therapy Global Market Opportunities and Strategies to 2030: COVID-19 Impact and Recovery” report has been added to ResearchAndMarkets.com’s offering. The global CAR-T therapy market reached a value of nearly $734."
-    publishedDateTime: 2021-01-29T15:06:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/business-technology-diagnosis-and-treatment-coronavirus-pandemic-artificial-intelligence-fc225c37e2364a9d9bd00fbd0f464403"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Speech and Voice Recognition Market Size, Trends, Comprehensive Research Study, Development Status and Opportunities Forecast to 2026"
-    excerpt: "The overall speech and voice recognition market is expected to grow from USD 6.9 Billion in 2018 to USD 28.3 Billion"
-    publishedDateTime: 2021-01-28T10:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-trends-comprehensive-research-study-development-status-and-opportunities-forecast-to-2026-2021-01-28"
+  - title: "Natural Language Processing (NLP) in Healthcare and Life Sciences Market 2021, Share, Growth, Trend, Industry Analysis and Forecast to 2026"
+    excerpt: "Summary A New Market Study, titled \"Natural Language Processing (NLP) in Healthcare and Life Sciences Market Upcoming"
+    publishedDateTime: 2021-01-29T17:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-2021-share-growth-trend-industry-analysis-and-forecast-to-2026-2021-01-29"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 23
+    quality: 67
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Text-to-Speech Market worth $5.0 billion by 2026 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "According to the new market research report \"Text-to-Speech Market with COVID-19 Impact by Offering (Software, Services), Vertical"
-    publishedDateTime: 2021-01-28T13:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/text-to-speech-market-worth-5-0-billion-by-2026--exclusive-report-by-marketsandmarkets-301216956.html"
+  - title: "Artificial Intelligence Chip Market Trends- Industry Analysis, Share, Growth, Product, Top Key Players and Forecast 2026"
+    excerpt: "Selbyville, Delaware According to the latest research report titled 'Global Artificial Intelligence Chip Market Analysis, 2020', available with Market Study Report LLC, worldwide artificial intelligence chip industry is expected to undergo a remunerative period,"
+    publishedDateTime: 2021-01-28T02:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-trends--industry-analysis-share-growth-product-top-key-players-and-forecast-2026-2021-01-28"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 15
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
     images:
-      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=publish&p=facebook"
-        width: 669
-        height: 229
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Artificial Intelligence In Diagnostics Market Research Report by Component, by Type - Global Forecast to 2025 - Cumulative Impact of COVID-19"
-    excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence In Diagnostics Market Research Report by"
-    publishedDateTime: 2021-01-29T10:49:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19388407/artificial-intelligence-in-diagnostics-market-research-report-by-component-by-type-global-forecast"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19388407"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19388407"
+  - title: "Robotics Market 2021 Analysis By Size & Share, Future Demands, Trends Evaluation, Business Growth Strategies and Forecast to 2024"
+    excerpt: "Robotics Market Research Report - Global Forecast till 2024 Global Robotics Market Research Report: by type (SCARA, Cartesian, Articulated, Cylindrical, Parallel), by Mobility (Mobile Robotics and Fixed Robotics),"
+    publishedDateTime: 2021-01-27T13:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/robotics-market-2021-analysis-by-size-share-future-demands-trends-evaluation-business-growth-strategies-and-forecast-to-2024-2021-01-27"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 4
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice Recognition Market Size, Detailed Analysis of Current Industry Figures with Forecasts Growth By 2026"
+    excerpt: "Selbyville, Delaware. The report on Voice Recognition market is a comprehensive evaluation of the market. It does"
+    publishedDateTime: 2021-01-29T11:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-size-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2026-2021-01-29?tesla=y"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial intelligence (AI) hardware Market Growth Analysis By Revenue, Size, Share, Scenario on Latest Trends & Types, Applications to Forecast"
+    excerpt: "Artificial intelligence (AI) hardware Market Report Contain Size Analysis, Competitive Landscape, Revenue Status, Future Opportunities, Regional Analysis (Latin America, North America, Asia Specific,"
+    publishedDateTime: 2021-01-29T13:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-growth-analysis-by-revenue-size-share-scenario-on-latest-trends-types-applications-to-forecast-2021-01-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Machine Learning Market Report 2020: Industry Analysis, Trends, Market Size, and Forecasts 2018-2026 - ResearchAndMarkets.com"
+    excerpt: "Global Industry Analysis, Trends, Market Size, and Forecasts up to 2026” report has been added to ResearchAndMarkets.com’s offering. The report on the global machine learning market provides qualitative and quantitative analysis for the period from 2018 to 2026."
+    publishedDateTime: 2021-01-29T07:59:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-north-america-679d3c6ec1574c5f95e349c671cd1828"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 8
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Global Machine Learning Market Report 2020: Industry Analysis, Trends, Market Size, and Forecasts 2018-2026 - ResearchAndMarkets.com"
+    excerpt: "Global Industry Analysis, Trends, Market Size, and Forecasts up to 2026\" report has been added to ResearchAndMarkets.com's offering. The report on the global machine learning market provides qualitative and quantitative analysis for the period from 2018 to 2026."
+    publishedDateTime: 2021-01-28T04:32:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210128005516/global-machine-learning-market-report-2020-industry-analysis-trends-market-size-and-forecasts-2018-2026-researchandmarketscom"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 0
 
 secured: "mRXvEaQbkWMrzoFu68mtrW4ABxt8a0AiX6VF/A1Tyhisr3jFTcTGhidhse4EJZiGhvThf2eGD6twSVcC7/M2oT7mNrLRkcmDGMZ0TZCB0lbuW/ZVWwFJ2ULyZBQ7cVYw/nebMSPU7N7X9YtYLImK7cIA4rzjLLo74LiR3LqCC+iEvsvQ5OaXGzybPkWwRptehhUTOImPvc6AuHt3dhJjQb1dWqUYbTNTpccHtIbKV+Q3z1wTn1hEqgNbPyzByhfzOLOcWojLNd09njvOuOBSGjbnz6hYIn2rF2DkpDVoikkt1mtCZm4gvv1q/GJ4tOhyMEf75Spismkp1ZOLtkAQkLDm3n7sa90dqbYHet2HGb4=;qnhmWOW6bPRpB9R150yMmw=="
 ---

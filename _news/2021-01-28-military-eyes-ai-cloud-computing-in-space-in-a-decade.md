@@ -9,7 +9,7 @@ ampWebUrl: "https://www.compsmag.com/news/pc/military-eyes-ai-cloud-computing-in
 cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/military-eyes-ai-cloud-computing-in-space-in-a-decade/amp/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -19,24 +19,6 @@ provider:
 topics:
   - AI
   - AI Hardware
-
-related:
-  - title: "Server Computing: A Data-Intensive Market Propelled by AI"
-    excerpt: "Yole expects the server computing market to reach US$33b in 2025. AI and HPC dedicated products combined will reach 29M units and US$8B in"
-    publishedDateTime: 2021-01-27T07:10:00Z
-    webUrl: "https://www.eetindia.co.in/server-computing-a-data-intensive-market-propelled-by-ai/"
-    ampWebUrl: "https://www.eetindia.co.in/server-computing-a-data-intensive-market-propelled-by-ai/amp/"
-    cdnAmpWebUrl: "https://www-eetindia-co-in.cdn.ampproject.org/c/s/www.eetindia.co.in/server-computing-a-data-intensive-market-propelled-by-ai/amp/"
-    type: article
-    provider:
-      name: eetindia.co.in
-      domain: eetindia.co.in
-    quality: 59
-    images:
-      - url: "https://www.eetindia.co.in/wp-content/uploads/sites/4/2021/01/AI_Data.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "ppEFklB9KzyOGQJFrKdoTwhZdvdONu5doP036MHZB41L4vyIQ9YFl4BdG33hrSv+lO+NfuCW9poeaVLhDaDDHyyuVmerUnl5YCYil7ya9IQPBDHpvu3+qat1JWa9MVA5nGv47xUX71T28gqec+HsJpatMRqXC7XfMcSAvHuKKLObFAovD5eEClG8EgasbRyvZ41hUrNBzgwk4y0EQD2baQkKzz16KXlPmjnhdp+izPU0PCQScBJYkG1Cnj+6mi1shxB9M6xh5rM2H3/M5suSW3K1GRfkbL0s0IxDxfv0hxdGCU+bt/2J81az2rdl6DpMqFLBgX57xsrtUMXssPuQzunk72ehUxEr6ZRacpmkAb4R2htcB9IIGDd86g/WRf2aI9BP/ftkAdJi4jKsBjABupdPr4JsjhsSdc2R0z7JAyxOFTLiJJrTwC/bjhIJ4KB3eBJCMU09PjUHYXMLDemveZRrSaya+xYtV0Q4pF1nVzmJunJt1QZsQ7E8d0NRqrRVmpFMj/eN+IHRXlAgDTcUxg==;D46dE6wkauw9vbiOK0p7+w=="
 ---

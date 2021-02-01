@@ -278,6 +278,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Millions of faces were scanned without approval. We need rules for facial recognition tech | Commentary"
+    excerpt: "Federal authorities say a San Francisco company scanned the faces of millions of people without their knowing it. What's needed are clear rules for how facial recognition technology can be collected and used,"
+    publishedDateTime: 2021-01-31T23:31:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/millions-of-faces-were-scanned-without-approval-we-need-rules-for-facial-recognition-tech-commentary/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/millions-of-faces-were-scanned-without-approval-we-need-rules-for-facial-recognition-tech-commentary/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/millions-of-faces-were-scanned-without-approval-we-need-rules-for-facial-recognition-tech-commentary/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 23
   - title: "Council of Europe calls for strict facial-recognition rules protecting human rights"
     excerpt: "The Council of Europe, an international organisation distinct from the EU, has called for much stricter regulations on facial-recognition technology to protect privacy and equality."
     publishedDateTime: 2021-01-28T12:44:00Z

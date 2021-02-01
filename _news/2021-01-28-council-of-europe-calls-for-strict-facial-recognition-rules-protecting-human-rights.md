@@ -288,6 +288,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Millions of faces were scanned without approval. We need rules for facial recognition tech | Commentary"
+    excerpt: "Federal authorities say a San Francisco company scanned the faces of millions of people without their knowing it. What's needed are clear rules for how facial recognition technology can be collected and used,"
+    publishedDateTime: 2021-01-31T23:31:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/millions-of-faces-were-scanned-without-approval-we-need-rules-for-facial-recognition-tech-commentary/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/millions-of-faces-were-scanned-without-approval-we-need-rules-for-facial-recognition-tech-commentary/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/millions-of-faces-were-scanned-without-approval-we-need-rules-for-facial-recognition-tech-commentary/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 23
   - title: "Facial Recognition Market Comprehensive Research Analysis Report in Market Industry | NEC Corporation and Aware Inc"
     excerpt: "MarketResearch.Biz :Facial Recognition Market 2021 Overview: The report provides quantitative and qualitative information on the global Facial Recognition market for the period of 2021 to 2030. Given the debilitating effect of COVID-19 (Coronavirus) on the Facial Recognition market,"
     publishedDateTime: 2021-01-29T07:59:00Z

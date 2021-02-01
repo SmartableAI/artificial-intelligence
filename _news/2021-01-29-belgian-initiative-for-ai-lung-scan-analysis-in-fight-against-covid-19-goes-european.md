@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Belgian initiative for AI lung scan analysis in fight against COVID-19 goes European"
-    excerpt: "The Belgian initiative icovid, which supports radiologists in the assessment of CT images of the lungs of COVID-19 patients, has grown into a multicentre European project, co-funded by the EU Horizon 2020 programme."
-    publishedDateTime: 2021-01-27T08:11:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-europe-diseases-and-conditions-western-europe-lung-disease-d22101b2b07501c01eeb925bcbc358da"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 30
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Australian games industry grows revenue 29% in the face of COVID-19"
     excerpt: "The Interactive Games & Entertainment Association’s 2020 Australian Game Development Survey reports that the local industry has grown its revenue 29% in 2020, despite the shakeup caused by the COVID-19 pandemic."
     publishedDateTime: 2021-01-29T06:30:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/2021/01/29/ai-weekly-announcing-our-ai-and
 webUrl: "https://venturebeat.com/2021/01/29/ai-weekly-announcing-our-ai-and-the-future-of-health-care-special-issue/"
 type: article
 quality: 67
-heat: 78
+heat: 77
 published: true
 
 provider:

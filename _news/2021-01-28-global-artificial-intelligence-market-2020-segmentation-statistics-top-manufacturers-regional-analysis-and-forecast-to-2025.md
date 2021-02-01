@@ -28,29 +28,29 @@ images:
     isCached: true
 
 related:
-  - title: "Robotics Market 2021 Analysis By Size & Share, Future Demands, Trends Evaluation, Business Growth Strategies and Forecast to 2024"
-    excerpt: "Robotics Market Research Report - Global Forecast till 2024 Global Robotics Market Research Report: by type (SCARA, Cartesian, Articulated, Cylindrical, Parallel), by Mobility (Mobile Robotics and Fixed Robotics),"
-    publishedDateTime: 2021-01-27T13:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/robotics-market-2021-analysis-by-size-share-future-demands-trends-evaluation-business-growth-strategies-and-forecast-to-2024-2021-01-27"
+  - title: "Artificial intelligence (AI) in manufacturing Market Analysis By Growth, Emerging Trends and Future Opportunities"
+    excerpt: "Artificial intelligence (AI) in manufacturing Market Size, Demand-sales, Suppliers By Key Applications Detailed Analysis and Growth Aspects on Manufacturing Landscapes and Regional Analysis \"Market Overview: Global Artificial Intelligence in Manufacturing Market is valued approximately USD 1 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 57."
+    publishedDateTime: 2021-01-29T13:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-analysis-by-growth-emerging-trends-and-future-opportunities-2021-01-29"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 55
+    quality: 63
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial intelligence (AI) hardware Market Growth Analysis By Revenue, Size, Share, Scenario on Latest Trends & Types, Applications to Forecast"
-    excerpt: "Artificial intelligence (AI) hardware Market Report Contain Size Analysis, Competitive Landscape, Revenue Status, Future Opportunities, Regional Analysis (Latin America, North America, Asia Specific,"
-    publishedDateTime: 2021-01-29T13:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-growth-analysis-by-revenue-size-share-scenario-on-latest-trends-types-applications-to-forecast-2021-01-29"
+  - title: "Artificial Intelligence in Military Market to Witness Astonishing Growth With Vital Key Players | Leidos Inc, Thales Group"
+    excerpt: "A consciously conceived and designed business intelligence report titled Global Artificial Intelligence in Military market 2021 by Manufacturers, Type, and Application, Forecast to 2030 by MarketResearch."
+    publishedDateTime: 2021-01-29T10:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-to-witness-astonishing-growth-with-vital-key-players-leidos-inc-thales-group-2021-01-29"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 45
+    quality: 43
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -84,15 +84,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market 2021-2026 to Post a CAGR of %, Segmentation by Key Regions, Gross Margin, Profit, Analysis, Market Size & Growth"
-    excerpt: "The research study on the Artificial Intelligence market comprises a detailed analysis of this business space and the remuneration that it is estimated to accrue by the end of the projected duration."
-    publishedDateTime: 2021-01-28T10:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2021-2026-to-post-a-cagr-of-segmentation-by-key-regions-gross-margin-profit-analysis-market-size-growth-2021-01-28"
+  - title: "Speech Recognition Market Size, Global Trends, Historical Analysis, Industry Demand, Growth, Future Plans and Opportunity Assessment by 2023"
+    excerpt: "Market Research Future published a research report on \"Global Speech Recognition Market Research Report – Forecast 2023\""
+    publishedDateTime: 2021-01-30T02:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-size-global-trends-historical-analysis-industry-demand-growth-future-plans-and-opportunity-assessment-by-2023-2021-01-29"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 31
+    quality: 36
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

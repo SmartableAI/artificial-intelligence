@@ -131,6 +131,15 @@ related:
         width: 615
         height: 384
         isCached: true
+  - title: "Eight ways small businesses can leverage the power of AI"
+    excerpt: "Still, there are ways small businesses can harness the power of AI, even with limited resources. Below, eight members of Business Journals Leadership Trust detail cost-effective strategies for taking advantage of artificial intelligence."
+    publishedDateTime: 2021-01-28T19:05:00Z
+    webUrl: "https://www.bizjournals.com/bizjournals/news/2021/01/28/eight-ways-small-businesses-can-leverage-the-power-of-ai.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "WMy0rKpq8Uln1Ry+Gn/Lhz1eWxpKbiFMtZEusWnQzUAtn7dnbIuqE9BDtVfDl4bZm3sHXsK+svjTSDRQaX1bvggv5CEYUkN1Vqdpzx3bD5NVeel9nXyuq3rNniBZXbNKVqX2HxUKs/p3ez51ldVY2nrNMerb30w42rpeaszX/zYShX1qhRd26OBHaGoKuCKrZn0gOQKx/iKPWqP31TL7EoP0ieZkdBKEk/p+h7AOyjGM+NnK2jctchfgBuSuxTlQPBFFPoRTAnHB5nYimlzB5kwMQ+3LlIkcbV00ABypIj453F6x+gmUb4lGOLXbNmU9tXxRm0dIddDB2pbOMWrQaRbAmkCgdXFChno9rVgO+Xk=;GJ4POI7OyDz8Q3m4XlCPcg=="
 ---

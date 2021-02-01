@@ -9,7 +9,7 @@ ampWebUrl: "https://www.brecorder.com/news/amp/40058281"
 cdnAmpWebUrl: "https://www-brecorder-com.cdn.ampproject.org/c/s/www.brecorder.com/news/amp/40058281"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Singapore launches new self-driving bus trial"
+    excerpt: "Singapore has moved a step closer to a driverless public transport network with the launch of a new trial of self-driving buses."
+    publishedDateTime: 2021-01-29T13:30:00Z
+    webUrl: "https://www.astroawani.com/berita-teknologi/singapore-launches-new-self-driving-bus-trial-280366"
+    ampWebUrl: "https://www.astroawani.com/berita-teknologi/singapore-launches-new-self-driving-bus-trial-280366?amp=1"
+    cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/berita-teknologi/singapore-launches-new-self-driving-bus-trial-280366?amp=1"
+    type: article
+    provider:
+      name: Astro Awani
+      domain: astroawani.com
+    quality: 44
+    images:
+      - url: "https://img.astroawani.com/2021-01/51611912751_SINGAPORE.jpg"
+        width: 590
+        height: 400
+        isCached: true
   - title: "Singapore Launches New Self-driving Bus Trial"
     excerpt: "Singapore has moved a step closer to a driverless public transport network with the launch of a new trial of self-driving buses. Orderly and high-tech, the Asian city-state has become a testbed for self-driving vehicles and has developed home-grown technology while inviting foreign companies to trial their own."
     publishedDateTime: 2021-01-28T06:52:00Z
@@ -78,6 +94,6 @@ related:
         height: 509
         isCached: true
 
-secured: "36bUKx6X5AvWBAw4u0gsMUyDHUqaPDrfmZwOw9u2NUxXbuysn9ogq7fqGoPKAl8bARlh28pevm5Jkbff0wpKhb/xifFh6Hld3q2nE1VKXfFA2Ef4XeRbQNd8jAb59/sdXhXOlZ3xi8z4CbLgXifsl3Lo4uwwiP88NbzjCfJx/mruLcWYfEVzFxaIteNFoP/rLGUQtgZ19z8/c+NI5ppH0wg7ZtpSQftWhqS1MdDsHtyoiTTQ1CMWqIn+Lcimgg4QmYaMXof67BaIQO8nnsxc5xismc9ZQStCi+aSIpagro+yGCpvSHFA86i9K2AoTJZf2t8o2yPIJNRMDTe2hhUDTuAwxYThypkESR1L++5GLa0=;6pSw4wEcMaHN2oAuOAqc4g=="
+secured: "YosVPJt1iPqbcEWEtk7OXRNIHLHE0FMtHUw93GN6B+ogddFUKekxC5CBfRA5ftqJzaFhh3aDQ/J1edOJg7NqolnQaesYa7hsZI5PUV451tOMkeU3zRN3mxOtKQrf9YqNIdJ/60eUFlCYBG79t4H6mmHf4yQLmr2T0MuXHCKW7JkMletm73cIBn7ckRvXJYTkRLgiQvGM0kSyzgppoYjvMnBynA+kW7SC0iE7lNFzStvKbp7Q1TfRYmkBW395DOmZo2qIkkb5CgFT3+17QU3zSeLFv8yqlNPcgxW5B74jhPBkx7JdkwpeD4MUNA00019ZBzbRQP8h+gfoojJg9HQD1pz9Z0yrms8MwgsbYAoXSQauaJzwOfwH4YyNa9Nm/HXN1KyxgXyZmVedjUQirceVt58oLZOKoEjnougyJu2HNcXpFC25sDzX+8GtN98ZH/BQAfEQ21w946/WlWeVvXIUOoHbOqU8yDwLT98v7u+mIjynCqmZRTaMIDgXuOoshjtpPR0wzi17MG0sgt9YaOBtXA==;DUimRyey1xiIytqHSvX8TA=="
 ---
 

@@ -1,29 +1,23 @@
 ---
 category: news
 title: "InGen Dynamics to Continue to Diversify Application of A.I and Robotics Technologies"
-excerpt: "Press Release InGen Dynamics, a Palo Alto, based Robotics and A.I firm, raised a recent round of funding bringing the total funding commitment to $4 Million at the most recent valuation of $45 Million."
-publishedDateTime: 2021-01-31T17:27:00Z
-originalUrl: "https://venturebeat.com/2021/01/31/ingen-dynamics-to-continue-to-diversify-application-of-a-i-and-robotics-technologies/"
-webUrl: "https://venturebeat.com/2021/01/31/ingen-dynamics-to-continue-to-diversify-application-of-a-i-and-robotics-technologies/"
-ampWebUrl: "https://venturebeat.com/2021/01/31/ingen-dynamics-to-continue-to-diversify-application-of-a-i-and-robotics-technologies/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/31/ingen-dynamics-to-continue-to-diversify-application-of-a-i-and-robotics-technologies/amp/"
+excerpt: "InGen Dynamics, a Palo Alto, based Robotics and A.I firm, raised a recent round of funding bringing the total funding commitment to $4 Million at the"
+publishedDateTime: 2021-01-31T21:29:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210131005050/en/InGen-Dynamics-to-Continue-to-Diversify-Application-of-A.I-and-Robotics-Technologies"
+webUrl: "https://www.businesswire.com/news/home/20210131005050/en/InGen-Dynamics-to-Continue-to-Diversify-Application-of-A.I-and-Robotics-Technologies"
 type: article
-quality: 77
-heat: 77
-published: true
+quality: 27
+heat: 27
+published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "98sX4KdWsOeaIQcgmp6glhqgIL4S0jenmuLeZREerZTqDcGr9MvPWSRrj+FoIwQ27hFNo0Y3xwpxGXj343AwnpMwC4xCbReXT5i0443NUAEVp4iKJxaAlvOTH5e24nKiWoXcqEzSx/Mw2dgn+eHLy9+50BsrmbgezFGEzBmkVMcPGHEZ5Ui/1QDp9XCxwv00g8XWKjccb6oL7Yb4EeFsJxBBBGVpoh0hSfI4jDBfvXH1kujTKjEZ7h9mqcQ+jcFSD8z5C75/pL4CTQw5UtKW7AzAKUM+fAUc6DYOc8In+ZBTRBqspV5avrORzo8j6lRxs1tG/AXSqpVptCnefqGvz1xFjA//vieFd+wscORalug=;u+LQitAXuIh57vXXDqb4Iw=="
+secured: "Rqn/ppA1ar8n3tFSIngG0Bh5SfcvZoLwitxYsPN6bwi7NVLlxKBi39F+KfXoF0FkibylYaG9lZLGASJAr0Hy4gBHcnqSxyFTKM6Np4N9Rm9aabxzH4DlnAfkVx0it3rw3P/7hMmhBrwtt5ZQviFLzaE4l54um58KLMKJb41cVGRXw+O/z05sz3ca0ozVpTrFwXXB2Mft2IuS7mxQeXbFQOMCNPWNCHQHi3x1nZqrqsrenjV4w4JAP1wVMfdNJ/uwHEZPw1LmuBgFTdxnuCNtxAinCzJgUInj4q00hHZ177Donjm5aMu/lZOsq/jpOcPmc3QFrylNDjDbjn5OWYS1+16N12SnEk63Cyhp7myQrZ0=;8d8lZ5ibRZegq1kLdk+xHw=="
 ---
 

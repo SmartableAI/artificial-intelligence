@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbesagencycouncil/2021/01/27/14-way
 webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2021/01/27/14-ways-to-better-leverage-ai-to-connect-with-consumers/?sh=2efafabb3465"
 type: article
 quality: 167
-heat: 237
+heat: 247
 published: true
 
 provider:
@@ -135,6 +135,15 @@ related:
       name: glamsham.com
       domain: glamsham.com
     quality: 39
+  - title: "Eight ways small businesses can leverage the power of AI"
+    excerpt: "Still, there are ways small businesses can harness the power of AI, even with limited resources. Below, eight members of Business Journals Leadership Trust detail cost-effective strategies for taking advantage of artificial intelligence."
+    publishedDateTime: 2021-01-28T19:05:00Z
+    webUrl: "https://www.bizjournals.com/bizjournals/news/2021/01/28/eight-ways-small-businesses-can-leverage-the-power-of-ai.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "KNjIg7ReP2GNmUuEBYfcLDFesU4Ny8Cmx+fyTCnpx24Y66a27GAQQwW4xCi9nBKw3SbuBjyExHwHjPGkLdzHLCT8vqrPFabSa+wnTz6kn+xZMKa/FLQs+8TS1kJvOGM3iQ/7DYOoG2s+YD49v7gprH79xslaBee5l+EwrZLpHzyr8JLO7HprcEZkzPgehA32iZBQwIX0MJZ/z/UNWOetM0p4y6sCf5mxp5swNlCdkhE62hzGW2Iz9oPfDF6KCRdaOCGKfUbaOqQ0Tu4KrNJqtTcjzR+ZV9D2mE7BuJ7z6LSx1hnJ7yf0qjp8UqPnqjJ7hOYqicQ78uMujWtTcI6ecuO3+Co1lCkqTcGpF8bWTS2U7SiL5bw8oEo7D1u9rFgi/ymABqI3nHLkgRvEv9dauIAa1B8mBCfxfCh5SexT783661nr0eLOA8C6fGbo1FQPcnLcBlUTeJJc3TlXVOBQ5bfh0xrNaV4WjaaaFk3cYDTTKo3xaY/dWa8CE/Ces9noIsHsPE6LjKQOOGTcWAWUSerAWAzh6bCKgEH8gc2VPr4=;IwLpt4hSsYfw9DMzjgZYCA=="
 ---

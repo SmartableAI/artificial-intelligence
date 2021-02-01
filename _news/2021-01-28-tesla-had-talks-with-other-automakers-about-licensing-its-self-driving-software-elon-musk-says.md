@@ -9,8 +9,8 @@ ampWebUrl: "https://electrek.co/2021/01/27/tesla-talks-automakers-licensing-self
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/01/27/tesla-talks-automakers-licensing-self-driving-software-elon-musk/amp/"
 type: article
 quality: 77
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: Electrek
@@ -31,21 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla rival XPeng P7 gets significant self-driving software updates"
-    excerpt: "China's closest Tesla Model 3 competitor, the XPeng P7, launched in April last year, loaded to the gills with enough self-driving sensors and computers to achieve full autonomy once the software is ready."
-    publishedDateTime: 2021-01-27T07:06:00Z
-    webUrl: "https://newatlas.com/automotive/xpeng-p7-self-driving/"
-    ampWebUrl: "https://newatlas.com/automotive/xpeng-p7-self-driving/?amp=true"
-    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/xpeng-p7-self-driving/?amp=true"
+  - title: "Don't Fall for Elon Musk's Self-Driving Car Fallacy"
+    excerpt: "The Tesla CEO continues to overestimate the long-term profit potential of Tesla's self-driving car technology."
+    publishedDateTime: 2021-01-31T16:38:00Z
+    webUrl: "https://www.fool.com/investing/2021/01/31/dont-fall-for-elon-musks-self-driving-car-fallacy/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2021/01/31/dont-fall-for-elon-musks-self-driving-car-fallacy/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/01/31/dont-fall-for-elon-musks-self-driving-car-fallacy/"
     type: article
     provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 89
+      name: The Motley Fool
+      domain: fool.com
+    quality: 74
     images:
-      - url: "https://assets.newatlas.com/dims4/default/fb141fa/2147483647/strip/true/crop/1620x1080+150+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F5a%2Faf%2F069a73894762b1ee09fff403f676%2Fxpengp7otaupgrade2.jpg"
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F610624%2Findustrials-autos-tesla-model-3-tsla.JPG&w=1200&op=resize"
         width: 1200
-        height: 800
+        height: 601
+        isCached: true
+  - title: "Self-Driving Cars Spurring Nearby Human Drivers Into Speeding And Abysmal Reckless Driving"
+    excerpt: "Turns out that law abiding self-driving cars can inadvertently spur nearby human drivers into rather bad driving practices."
+    publishedDateTime: 2021-01-28T16:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/01/28/self-driving-cars-spurring-nearby-human-drivers-into-speeding-and-abysmal-reckless-driving/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/01/28/self-driving-cars-spurring-nearby-human-drivers-into-speeding-and-abysmal-reckless-driving/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/01/28/self-driving-cars-spurring-nearby-human-drivers-into-speeding-and-abysmal-reckless-driving/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600a166556a5e0f16f10ffd8%2F0x0.jpg%3FcropX1%3D1736%26cropX2%3D8688%26cropY1%3D386%26cropY2%3D5378"
+        width: 1200
+        height: 865
+        isCached: true
+  - title: "Tesla FSD Beta helps Sandy Munro change tune on self-driving"
+    excerpt: "Tesla FSD Beta helps Sandy Munro change his tune on self-driving after an unfavorable past experience with semi-autonomous electric vehicles."
+    publishedDateTime: 2021-01-29T14:34:00Z
+    webUrl: "https://www.teslarati.com/tesla-fsd-beta-sandy-munro-self-driving-video/"
+    ampWebUrl: "https://www.teslarati.com/tesla-fsd-beta-sandy-munro-self-driving-video/amp/"
+    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-fsd-beta-sandy-munro-self-driving-video/amp/"
+    type: article
+    provider:
+      name: Tesla News
+      domain: teslarati.com
+    quality: 59
+    images:
+      - url: "https://www.teslarati.com/wp-content/uploads/2021/01/tesla-fsd-beta-sandy-munro-video-1024x479.jpg"
+        width: 1024
+        height: 479
         isCached: true
 
 secured: "+7G1NZDVtiHjwtWqjBxqItFK2UO9hvCmlE+qC9mI3CDNFikKrMlcF87MK2HpL+LoAvWRFYVkLUVICuKJOgyBgddxi2bKLJGL6bYPWd42YPzWjrAvQCfLfaiaCNPP535bHJ+9Qrpi4dds2PDBn0mC4nR1WpbTLGFPjyrHOjAtaiuTxVoxTCAmoFINH6tsS5zJnyFBSHQXJXcme82VtGhUZmTjBN/lb8c7yZWPiYXR5hAytI88pOl7HuqoPvNeL3VoZRHWCt+FVufC2rfg42RVADnzYfiKnnKl/UPkA6QKH4ipm2YIStGeHoNJYqAtKMJ3AYaaf8xsauu4LvajkBv5pQELMdvcMjIU5fUm+/hi7pTUsFnPleBW8GEDBuv0GjocqzkXeFp4qHpqr01opEMFpgPlM5yg050l6s5tsrtWEB8PmyBVVht+8COxWBymQ4ldEMuw8bt3gtRUcfOlkogMTvq04KGqqJG3NfL0wVH8vpCRD29XDKX0q3WzsJKTZFRIzEcvVBE51W7pFirJETBeNg==;b40JC3ywJanFn4LWIs+2lA=="

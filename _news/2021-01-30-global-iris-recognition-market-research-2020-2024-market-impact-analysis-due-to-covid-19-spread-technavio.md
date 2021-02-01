@@ -37,6 +37,17 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 8
+  - title: "Artificial Intelligence In Diagnostics Market Research Report by Component, by Type - Global Forecast to 2025 - Cumulative Impact of COVID-19"
+    excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence In Diagnostics Market Research Report by"
+    publishedDateTime: 2021-01-29T10:49:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19388407/artificial-intelligence-in-diagnostics-market-research-report-by-component-by-type-global-forecast"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19388407"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19388407"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 4
   - title: "Artificial Intelligence in Medicine Market Research Report by Application, by End User - Global Forecast to 2025 - Cumulative Impact of COVID-19"
     excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence in Medicine Market Research Report by"
     publishedDateTime: 2021-01-29T10:34:00Z

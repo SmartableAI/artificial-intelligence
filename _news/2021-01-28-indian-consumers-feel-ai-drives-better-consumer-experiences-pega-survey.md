@@ -132,6 +132,15 @@ related:
       name: glamsham.com
       domain: glamsham.com
     quality: 39
+  - title: "Eight ways small businesses can leverage the power of AI"
+    excerpt: "Still, there are ways small businesses can harness the power of AI, even with limited resources. Below, eight members of Business Journals Leadership Trust detail cost-effective strategies for taking advantage of artificial intelligence."
+    publishedDateTime: 2021-01-28T19:05:00Z
+    webUrl: "https://www.bizjournals.com/bizjournals/news/2021/01/28/eight-ways-small-businesses-can-leverage-the-power-of-ai.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "0wN81IHtoC7lhQ3RAH214cv4epjbe/wHdpjJHZ4uyxdia+eV4j7kdSdaqJqqsK2E/aLDGh4rlyghV+qiCnK8oAmwNem2oNcJtDU1SSza7ka1qKx6JMevnFaYPhuLTcC6HQ9fRYiD+DKhPmmaJM/ENetUH4GsVs5EfOb/sjQEz8mh3zZGrZ2rMnUl5JawfFd5Aqbp9DqgxmW3KKqepX+XpR4AlAoT1HQEmjfNuoqeB9OmStNeDWdU9Z5ZUNqLRniei6c4hXRPGOGudI88fu2TC0abTI20o7/eTrg3hcvG65x3Kw8mRRfcXTYrHfk6Zj0n2XWupShknTrW2YimpvOFZzFf5P6UoAm8FeDsmadkqVg=;X3yj9VnyESmUagcIvWTvjg=="
 ---

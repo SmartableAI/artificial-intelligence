@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/01/28/self-driving-cars
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/01/28/self-driving-cars-spurring-nearby-human-drivers-into-speeding-and-abysmal-reckless-driving/amp/"
 type: article
 quality: 64
-heat: 104
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -31,65 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving cars “10, 15 years away\" from being reality, \"maybe never”"
-    excerpt: "Fully self-driving cars becoming a regular sight on UK roads could be “10 or 15” years away, “maybe never”, says the consortium leader of a major autonomous vehicle trial."
-    publishedDateTime: 2021-01-29T12:31:00Z
-    webUrl: "https://www.fleetnews.co.uk/news/car-industry-news/2021/01/29/self-driving-cars-10-15-years-away-from-being-reality-maybe-never"
-    ampWebUrl: "https://www.fleetnews.co.uk/amp/news/car-industry-news/2021/01/29/self-driving-cars-10-15-years-away-from-being-reality-maybe-never"
-    cdnAmpWebUrl: "https://www-fleetnews-co-uk.cdn.ampproject.org/c/s/www.fleetnews.co.uk/amp/news/car-industry-news/2021/01/29/self-driving-cars-10-15-years-away-from-being-reality-maybe-never"
+  - title: "Tesla had talks with other automakers about licensing its self-driving software, Elon Musk says"
+    excerpt: "Tesla had “preliminary” discussions with other automakers about licensing its self-driving software, according to new comments by CEO Elon Musk. Tesla Licensing Software Today, Tesla released its Q4 2020 financial results and following the release,"
+    publishedDateTime: 2021-01-28T01:46:00Z
+    webUrl: "https://electrek.co/2021/01/27/tesla-talks-automakers-licensing-self-driving-software-elon-musk/"
+    ampWebUrl: "https://electrek.co/2021/01/27/tesla-talks-automakers-licensing-self-driving-software-elon-musk/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/01/27/tesla-talks-automakers-licensing-self-driving-software-elon-musk/amp/"
     type: article
     provider:
-      name: Fleet News
-      domain: fleetnews.co.uk
-    quality: 44
+      name: Electrek
+      domain: electrek.co
+    quality: 77
     images:
-      - url: "https://cdn.fleetnews.co.uk/web/1/root/oxbotica1.jpg"
-        width: 1128
-        height: 752
-        isCached: true
-  - title: "Singapore launches new self-driving bus trial"
-    excerpt: "Singapore has moved a step closer to a driverless public transport network with the launch of a new trial of self-driving buses."
-    publishedDateTime: 2021-01-29T13:30:00Z
-    webUrl: "https://www.astroawani.com/berita-teknologi/singapore-launches-new-self-driving-bus-trial-280366"
-    ampWebUrl: "https://www.astroawani.com/berita-teknologi/singapore-launches-new-self-driving-bus-trial-280366?amp=1"
-    cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/berita-teknologi/singapore-launches-new-self-driving-bus-trial-280366?amp=1"
-    type: article
-    provider:
-      name: Astro Awani
-      domain: astroawani.com
-    quality: 44
-    images:
-      - url: "https://img.astroawani.com/2021-01/51611912751_SINGAPORE.jpg"
-        width: 590
-        height: 400
-        isCached: true
-  - title: "App will help visually impaired, seniors enjoy ride-sharing with self-driving cars"
-    excerpt: "A research group led by the Virtual Environments and Multimodal Interaction Laboratory (VEMI Lab) at the University of Maine is developing a smartphone app that provides the navigational assistance needed for people with visual impairments and seniors to enjoy ride-sharing and ride-hailing."
-    publishedDateTime: 2021-01-29T18:56:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-01/uom-awh012921.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 33
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+      - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2019/10/Tesla-Autopilot-hero-4-e1570845324247.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
-        height: 675
+        height: 628
         isCached: true
-  - title: "Self-driving scooters to keep cruising Peachtree Corners"
-    excerpt: "Self-driving scooters are on a roll in Peachtree Corners, where residents will continue to see them cruising through Atlanta Technology Park without a driver."
-    publishedDateTime: 2021-01-29T19:14:00Z
-    webUrl: "https://www.ajc.com/news/atlanta-news/self-driving-scooters-to-keep-cruising-peachtree-corners/D6YDDLBVR5GQBHKZ2A5IUVQYWA/"
+  - title: "Don't Fall for Elon Musk's Self-Driving Car Fallacy"
+    excerpt: "The Tesla CEO continues to overestimate the long-term profit potential of Tesla's self-driving car technology."
+    publishedDateTime: 2021-01-31T16:38:00Z
+    webUrl: "https://www.fool.com/investing/2021/01/31/dont-fall-for-elon-musks-self-driving-car-fallacy/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2021/01/31/dont-fall-for-elon-musks-self-driving-car-fallacy/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/01/31/dont-fall-for-elon-musks-self-driving-car-fallacy/"
     type: article
     provider:
-      name: Atlanta Journal-Constitution
-      domain: ajc.com
-    quality: 24
+      name: The Motley Fool
+      domain: fool.com
+    quality: 74
     images:
-      - url: "https://www.ajc.com/resizer/_whVMmNmAEmpFD9LFzu2nA3K5gc=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/YD4EYMBHA5CKZIVUSVPQPAHSUI.jpg"
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F610624%2Findustrials-autos-tesla-model-3-tsla.JPG&w=1200&op=resize"
         width: 1200
-        height: 630
+        height: 601
+        isCached: true
+  - title: "Tesla FSD Beta helps Sandy Munro change tune on self-driving"
+    excerpt: "Tesla FSD Beta helps Sandy Munro change his tune on self-driving after an unfavorable past experience with semi-autonomous electric vehicles."
+    publishedDateTime: 2021-01-29T14:34:00Z
+    webUrl: "https://www.teslarati.com/tesla-fsd-beta-sandy-munro-self-driving-video/"
+    ampWebUrl: "https://www.teslarati.com/tesla-fsd-beta-sandy-munro-self-driving-video/amp/"
+    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-fsd-beta-sandy-munro-self-driving-video/amp/"
+    type: article
+    provider:
+      name: Tesla News
+      domain: teslarati.com
+    quality: 59
+    images:
+      - url: "https://www.teslarati.com/wp-content/uploads/2021/01/tesla-fsd-beta-sandy-munro-video-1024x479.jpg"
+        width: 1024
+        height: 479
         isCached: true
 
 secured: "3HXGlYNIksWWa7Y4P3mYkVhVbcb3ofUkKpRYcFuxNvQRFKIw7xPgycVgvBBrOtCQxf06zRhvPZ9mA+J79cYVhfh5HRO3JHQrblZR0cAXwce7mr7HOWao1pH/uh7RRQYVcK3DFjPEsA/iLDscj86swUjbLLZW6PLQamPsJyil8TISe8YnUUy/ZArCoZDf6IqBwbcSVTpckSJ+t1K20E6BAMv4Lnar44RsOhZFK/h6MrcDvOwm2HX4WAyyCXOBKY9aStIXHXixQIPxbpR+E/LxEDwX5C4eAlj3qta75MFHvWMp3tdy3mC5MiFtKacUEhJzhl0PHB2wXVOpS9Szu4zAQOk2hQiDB7caT893C/8IPVGTwb7wmrFBziiarT8SMx7cbjsF/fhyt0Q3R47ZU6gi9Fnc3FycRb75TLSuPhI5YXMeQfqOhu9gw6/VsIkiEaBZh4M7yi7MU2J6H9Bf1sXSToXcQekeP40kCAc3coMrN5aPPnUleDdAPdW7gKo0J7J76m0rFQWMhACodecnmcTuVw==;pLO4NvA41mEmNMVhVQLMwQ=="

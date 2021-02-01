@@ -2,21 +2,21 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2021-01-27-robotics-market-2021-analysis-by-size-share-future-demands-trends-evaluation-business-growth-strategies-and-forecast-to-2024.md",
-      "title": "Robotics Market 2021 Analysis By Size & Share, Future Demands, Trends Evaluation, Business Growth Strategies and Forecast to 2024",
-      "excerpt": "Robotics Market Research Report - Global Forecast till 2024 Global Robotics Market Research Report: by type (SCARA, Cartesian, Articulated, Cylindrical, Parallel), by Mobility (Mobile Robotics and Fixed Robotics),",
+      "path": "_news/2021-01-27-yati-ernie-machine-learning-in-yandex-and-baidu.md",
+      "title": "YATI & ERNIE: Machine Learning in Yandex and Baidu",
+      "excerpt": "Google isn't the only search engine making strides in machine learning. See how Yandex and Baidu have advanced search with YATI and ERNIE, as well.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/robotics-market-2021-analysis-by-size-share-future-demands-trends-evaluation-business-growth-strategies-and-forecast-to-2024-2021-01-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/robotics-market-2021-analysis-by-size-share-future-demands-trends-evaluation-business-growth-strategies-and-forecast-to-2024-2021-01-27",
+      "webUrl": "https://www.searchenginejournal.com/yati-ernie-machine-learning-yandex-baidu/392982/",
+      "originalUrl": "https://www.searchenginejournal.com/yati-ernie-machine-learning-yandex-baidu/392982/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://cdn.searchenginejournal.com/wp-content/uploads/2021/01/machine-learning-for-yandex-and-baidu-60104ca449da0.png",
+          "width": 1600,
+          "height": 840,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,23 +24,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-27T05:14:00-08:00",
+      "ampWebUrl": "https://www.searchenginejournal.com/yati-ernie-machine-learning-yandex-baidu/392982/amp/",
+      "cdnAmpWebUrl": "https://www-searchenginejournal-com.cdn.ampproject.org/c/s/www.searchenginejournal.com/yati-ernie-machine-learning-yandex-baidu/392982/amp/",
+      "publishedDateTime": "2021-01-27T05:45:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Search Engine Journal",
+        "domain": "searchenginejournal.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -49,7 +40,7 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "Machine Learning",
         "AI"
       ]
     },
@@ -62,7 +53,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/01/27/14-ways-to-better-leverage-ai-to-connect-with-consumers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 237,
+      "heat": 247,
       "tags": null,
       "images": [
         {

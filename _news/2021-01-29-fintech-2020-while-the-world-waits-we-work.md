@@ -126,15 +126,6 @@ related:
       name: India Times
       domain: indiatimes.com
     quality: 12
-  - title: "Growth Model of Fintech Industry and Expectations in 2021"
-    excerpt: "India is amongst the world’s fastest emerging markets for the Fintech sector. With China, India ranked at the highest in Fintech adoption rate globally. After the 2016 demonetization, the country"
-    publishedDateTime: 2021-01-27T09:04:00Z
-    webUrl: "https://www.ciol.com/growth-model-fintech-industry-expectations-2021/"
-    type: article
-    provider:
-      name: CIOL
-      domain: ciol.com
-    quality: 4
 
 secured: "hkGWDDVR6AUFcx5+R8hJEKzMb6h45dmN/BPowKjY1Q+zTS5CpJQHEKpe2oqrKvHhLbCx89hP+Z1PgRHkM8uuL7EgtSNQK40PciHDg3rRR6TosfTZv42dmlHbHmTGPAg3tzLddjZtw9AsV2YYnjVD6ufWHMdCaiYlVGSrRtbHSoGHFEqN9rpGpcFNAZijNsMYdFj4iHxo0lsvdBOmXQC9RtDSDue3ndnpQ9nx7ztwgOI7oGkELIAlKn9fAAMzgxGI7fznezCdhFDZgUFxEodIZXWGsGIR8Z5vepuRIZroVcdeK5t9IaxnMEMJlVr3xYU+AA/J0r/V8Okq7fVL9C5vN4/T2Dt3uf02Flxu8dPzjDw=;l/1VmCikTlLEVzxwJpusmg=="
 ---
