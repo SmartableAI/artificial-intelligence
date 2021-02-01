@@ -3,8 +3,8 @@ category: news
 title: "Chinese self-driving startup nets $154m in investment from state-backed fund"
 excerpt: "With the new funds, Uisee will further develop its autonomous driving technology and accelerate its monetization."
 publishedDateTime: 2021-01-25T11:30:00Z
-originalUrl: "https://www.techinasia.com/chinese-selfdriving-startup-uisee-nets-154m-investment-statebacked-fund?ref=recommender-669214"
-webUrl: "https://www.techinasia.com/chinese-selfdriving-startup-uisee-nets-154m-investment-statebacked-fund?ref=recommender-669214"
+originalUrl: "https://www.techinasia.com/chinese-selfdriving-startup-uisee-nets-154m-investment-statebacked-fund?ref=recommender-671561"
+webUrl: "https://www.techinasia.com/chinese-selfdriving-startup-uisee-nets-154m-investment-statebacked-fund?ref=recommender-671561"
 type: article
 
 provider:
@@ -19,6 +19,6 @@ topics:
   - AI in Autos
   - AI
 
-secured: "eW3KHnuh2zkmC0be6r3Bdmjot9DRAwQWbp/CzDNTKGl+Oowni+sp9lPgC7M85E28hybJNpvDLOOwEls77PFUfd2F+je/wduWEv9j/p7qpV9DVcFjh8oldz+bXBensWEmfh6wQTTtlTr02Oy/grw+ehOe8K7dePbCzmjfbqH3CRsDA5jQ+NHjaPlJMWHziWz3KT4xJrIRPn0GiUiVzzfpiE059c/YhNz8n4ocGdbfqE7DDS+nZTCqBEAGofV5V96fE67iMMCnqMrmbCz48Wki+CvQ1+O+KKG/6OqCbAZ5JImcWUDrOrfJvrqBZfEdIsDPgYS4dEDPnYqE+/Tdr9YcrsvjdwuRf4GP935T5nxFnXwO1Lq/EVMoGIMHR4wpsOAlqpqwX5wCxLvHJqMrVpQC0MFVjMsHHP+Xi5eJdiCnOownQxoFgY9Uwkc9QFLdGG9VTJK53MSpz1GthNIexFVd3obZNqX46FM2vfzo83kn+ML+djCntTOmFuQGPB22f/I+8R++o8Kc96ia4PgaUXxp9g==;XiTA1yQWNFD35yeNts1gkw=="
+secured: "F//k53nwH/P7qtHP7awqXPzLI2Ci7AVO+hWbmWTlVfdD2zLR513Ap9WywnlO7IiplDKMrVj6slhinBAYLb0jnzh73Fy6RxFoHz6kQRB49Z1nrYmaJ8RSCkTbrkkjEFNSXOlTKAYfDq9WCv3zS7a8v+4CLEnNjwFmVFk09yA35CPmuit0MxuW+DzwsHosyFpbF6k10nZJZdex4+W+aMUhSE+TjyRGGfmm5jdMA4UksUxmEdNvPBmIoXXTaFA0BwcSggpJOe/bK3tj/xHYjKOXp7BoR+XH3e32zJpPs/sU9g+CQwgjAzWBSX+e4KW3P8g5SkHmXdjV8XwoQWgcGcz21uXutsE5L1o2f3IUo3ldfzA3fgMIbUM7JyreYys0rYOoMCCHCf4duLXb4TlZ+lM8ryGtWD0C/0mi35RsQ0Q8ER6XuQp7OT7rR/fW0mb/PLUBGOSoMSkktc4Qh58HjlaxZzeFC62pDEBB1w/y+SC4qLvUlfCaeDyJ28N7zo5PHx2N6/QvK0qINMEMjipzZA2Wlg==;PWqg9qvepKjyq3QpoqVPfQ=="
 ---
 

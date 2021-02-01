@@ -71,6 +71,20 @@ related:
         width: 920
         height: 482
         isCached: true
+  - title: "AI In Telecommunication Market Size USD 13450 Million By 2026 At CAGR Of 49.8% - Valuates Reports"
+    excerpt: "Artificial Intelligence in Telecommunication Market is Segmented by Type Machine Learning and Deep Learning, Natural Language Processing,"
+    publishedDateTime: 2021-02-01T13:35:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/ai-in-telecommunication-market-size-usd-13450-million-by-2026-at-cagr-of-49-8-valuates-reports-881123483.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 26
+    images:
+      - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
+        width: 920
+        height: 482
+        isCached: true
 
 secured: "jDpf58af3V4L7biU39k3xiPs9WSGqvHn3Z9YPkJumPsvT62+d/sl6iW1QhBufLwMSdiXkFtRewCjJyX7UMWZhUnLmYn124W8XeejPiroIxHFeXO9Bgz45xfd1ANEEQx4gMCrF3qFsUk/OXgv0xVZQN3UQAb8xrgmxmTwog5HXLjcBeyJUf0C1iiBPS2Ev6rvLqcN5qiJEKnZC4vuz+1R8fmDVOGIHq/WIOFFTLfYYXqLUdtf/EfTyWW3eWpgAWFWF4gpkmft33qZwKJ2nyGRN6gKl0HoICrMxnVIAMPjk3V3dpOXPYVLN6ruqOqgkga8t0ZRymRrxkvM4OMJNKRymhveE04WQhjyGAcWU/QVxZQ=;cS8NH0DOStSO4a+7fzJunQ=="
 ---

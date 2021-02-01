@@ -31,53 +31,97 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla had talks with other automakers about licensing its self-driving software, Elon Musk says"
-    excerpt: "Tesla had “preliminary” discussions with other automakers about licensing its self-driving software, according to new comments by CEO Elon Musk. Tesla Licensing Software Today, Tesla released its Q4 2020 financial results and following the release,"
-    publishedDateTime: 2021-01-28T01:46:00Z
-    webUrl: "https://electrek.co/2021/01/27/tesla-talks-automakers-licensing-self-driving-software-elon-musk/"
-    ampWebUrl: "https://electrek.co/2021/01/27/tesla-talks-automakers-licensing-self-driving-software-elon-musk/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/01/27/tesla-talks-automakers-licensing-self-driving-software-elon-musk/amp/"
+  - title: "Baidu gets California nod for testing empty self-driving cars"
+    excerpt: "Baidu Inc has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor Vehicles said on Wednesday."
+    publishedDateTime: 2021-01-28T02:37:00Z
+    webUrl: "https://www.reuters.com/article/us-baidu-autonomous-idUSKBN29W2OT"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29W2OT"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29W2OT"
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 77
+      name: Reuters
+      domain: reuters.com
+    quality: 89
     images:
-      - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2019/10/Tesla-Autopilot-hero-4-e1570845324247.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210127&t=2&i=1549286737&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0Q1KU"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Don't Fall for Elon Musk's Self-Driving Car Fallacy"
-    excerpt: "The Tesla CEO continues to overestimate the long-term profit potential of Tesla's self-driving car technology."
-    publishedDateTime: 2021-01-31T16:38:00Z
-    webUrl: "https://www.fool.com/investing/2021/01/31/dont-fall-for-elon-musks-self-driving-car-fallacy/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2021/01/31/dont-fall-for-elon-musks-self-driving-car-fallacy/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/01/31/dont-fall-for-elon-musks-self-driving-car-fallacy/"
+  - title: "UPDATE 1-Baidu gets California nod for testing empty self-driving cars"
+    excerpt: "Baidu Inc has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor Vehicles said on Wednesday."
+    publishedDateTime: 2021-01-28T02:37:00Z
+    webUrl: "https://www.reuters.com/article/baidu-autonomous-idUSL4N2K24B6"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29W2OT"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29W2OT"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 74
+      name: Reuters
+      domain: reuters.com
+    quality: 89
     images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F610624%2Findustrials-autos-tesla-model-3-tsla.JPG&w=1200&op=resize"
-        width: 1200
-        height: 601
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210127&t=2&i=1549286737&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0Q1KU"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Tesla FSD Beta helps Sandy Munro change tune on self-driving"
-    excerpt: "Tesla FSD Beta helps Sandy Munro change his tune on self-driving after an unfavorable past experience with semi-autonomous electric vehicles."
-    publishedDateTime: 2021-01-29T14:34:00Z
-    webUrl: "https://www.teslarati.com/tesla-fsd-beta-sandy-munro-self-driving-video/"
-    ampWebUrl: "https://www.teslarati.com/tesla-fsd-beta-sandy-munro-self-driving-video/amp/"
-    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-fsd-beta-sandy-munro-self-driving-video/amp/"
+  - title: "Baidu gets California nod for testing driverless vehicles on Sunnyvale streets"
+    excerpt: "Baidu is the sixth company to have a permit to test without a driver behind the wheel. The permit allows it to test three autonomous vehicles on specified streets within Sunnyvale."
+    publishedDateTime: 2021-01-28T16:19:00Z
+    webUrl: "https://www.mercurynews.com/2021/01/28/baidu-gets-california-nod-for-testing-driverless-vehicles/"
+    ampWebUrl: "https://www.mercurynews.com/2021/01/28/baidu-gets-california-nod-for-testing-driverless-vehicles/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/28/baidu-gets-california-nod-for-testing-driverless-vehicles/amp/"
     type: article
     provider:
-      name: Tesla News
-      domain: teslarati.com
-    quality: 59
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 70
     images:
-      - url: "https://www.teslarati.com/wp-content/uploads/2021/01/tesla-fsd-beta-sandy-munro-video-1024x479.jpg"
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/01/Baidu.jpg?w=1024&h=640"
         width: 1024
-        height: 479
+        height: 640
+        isCached: true
+  - title: "Baidu Apollo receives driverless vehicle test permit in California"
+    excerpt: "Baidu Apollo has now been approved by the California Department of Motor Vehicles (DMV) to test driverless vehicles without a safety driver behind the wheel on public streets. This makes Baidu the"
+    publishedDateTime: 2021-01-28T13:25:00Z
+    webUrl: "https://roboticsandautomationnews.com/2021/01/28/baidu-apollo-receives-driverless-vehicle-test-permit-in-california/40012/"
+    type: article
+    provider:
+      name: Robotics & Automation News
+      domain: roboticsandautomationnews.com
+    quality: 54
+    images:
+      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2021/01/Apollo.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "University Of Southern California and Amazon establish Center For Secure And Trusted Machine Learning"
+    excerpt: "The expectation is that the center will unleash a new line of fundamental research on privacy and security aspects of machine learning –given the proliferation of artificial intelligence across all aspects of society from education to finance,"
+    publishedDateTime: 2021-01-29T12:56:00Z
+    webUrl: "https://economictimes.indiatimes.com/industry/services/education/university-of-southern-california-and-amazon-establish-center-for-secure-and-trusted-machine-learning/articleshow/80563909.cms"
+    ampWebUrl: "https://m.economictimes.com/industry/services/education/university-of-southern-california-and-amazon-establish-center-for-secure-and-trusted-machine-learning/amp_articleshow/80563909.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/services/education/university-of-southern-california-and-amazon-establish-center-for-secure-and-trusted-machine-learning/amp_articleshow/80563909.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-122421,msid-80563839/amazon.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "California OKs China’s Baidu for Testing Self-Driving Cars Without Driver"
+    excerpt: "Baidu Inc. has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor"
+    publishedDateTime: 2021-01-28T17:34:00Z
+    webUrl: "https://www.claimsjournal.com/news/west/2021/01/28/301746.htm"
+    type: article
+    provider:
+      name: Claims Journal
+      domain: claimsjournal.com
+    quality: 38
+    images:
+      - url: "https://www.claimsjournal.com/img/claims-journal-logo-640.png"
+        width: 640
+        height: 300
         isCached: true
 
 secured: "3HXGlYNIksWWa7Y4P3mYkVhVbcb3ofUkKpRYcFuxNvQRFKIw7xPgycVgvBBrOtCQxf06zRhvPZ9mA+J79cYVhfh5HRO3JHQrblZR0cAXwce7mr7HOWao1pH/uh7RRQYVcK3DFjPEsA/iLDscj86swUjbLLZW6PLQamPsJyil8TISe8YnUUy/ZArCoZDf6IqBwbcSVTpckSJ+t1K20E6BAMv4Lnar44RsOhZFK/h6MrcDvOwm2HX4WAyyCXOBKY9aStIXHXixQIPxbpR+E/LxEDwX5C4eAlj3qta75MFHvWMp3tdy3mC5MiFtKacUEhJzhl0PHB2wXVOpS9Szu4zAQOk2hQiDB7caT893C/8IPVGTwb7wmrFBziiarT8SMx7cbjsF/fhyt0Q3R47ZU6gi9Fnc3FycRb75TLSuPhI5YXMeQfqOhu9gw6/VsIkiEaBZh4M7yi7MU2J6H9Bf1sXSToXcQekeP40kCAc3coMrN5aPPnUleDdAPdW7gKo0J7J76m0rFQWMhACodecnmcTuVw==;pLO4NvA41mEmNMVhVQLMwQ=="

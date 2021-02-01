@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu is the sixth company approved to test fully driverless cars in California"
-    excerpt: "Baidu has gotten the green light to test fully autonomous vehicles on public roads in California. While Baidu has had permission from California regulators to test autonomous vehicles with safety drivers since 2016,"
-    publishedDateTime: 2021-01-27T21:09:49Z
-    webUrl: "https://www.theverge.com/2021/1/27/22252944/baidu-driverless-cars-test-permit-california-dmv"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2021/1/27/22252944/baidu-driverless-cars-test-permit-california-dmv"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/1/27/22252944/baidu-driverless-cars-test-permit-california-dmv"
+  - title: "Baidu gets California nod for testing empty self-driving cars"
+    excerpt: "Baidu Inc has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor Vehicles said on Wednesday."
+    publishedDateTime: 2021-01-28T02:37:00Z
+    webUrl: "https://www.reuters.com/article/us-baidu-autonomous-idUSKBN29W2OT"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29W2OT"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29W2OT"
     type: article
     provider:
-      name: theverge.com/2021/1/27/22252944/baidu-driverless-cars-test-permit-california-dmv
-      domain: theverge.com/2021/1/27/22252944/baidu-driverless-cars-test-permit-california-dmv
-    quality: 170
+      name: Reuters
+      domain: reuters.com
+    quality: 89
     images:
-      - url: "https://cdn.vox-cdn.com/thumbor/S95q_iD3ihUt3noy9_u01hZfVBA=/0x0:950x633/1400x933/filters:focal(399x241:551x393):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68730144/baidu.0.jpeg"
-        width: 950
-        height: 633
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210127&t=2&i=1549286737&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0Q1KU"
+        width: 817
+        height: 545
         isCached: true
   - title: "UPDATE 1-Baidu gets California nod for testing empty self-driving cars"
     excerpt: "Baidu Inc has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor Vehicles said on Wednesday."
@@ -55,54 +55,6 @@ related:
     images:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210127&t=2&i=1549286737&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0Q1KU"
         width: 817
-        height: 545
-        isCached: true
-  - title: "SoftBank's Son expects mass production of driverless cars in 2 years"
-    excerpt: "Son, who made his name for investing early in startups such as China’s Alibaba Group had said he will continue to take stakes in public companies he thinks are frontrunners in the artificial ..."
-    publishedDateTime: 2021-01-29T15:55:00Z
-    webUrl: "https://www.reuters.com/article/davos-meeting-son-autonomous-idUSL1N2K41Y9"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2K41Y9"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2K41Y9"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210129&t=2&i=1549571164&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0S194"
-        width: 829
-        height: 545
-        isCached: true
-  - title: "SoftBank's Son expects mass production of driverless cars in 2 years"
-    excerpt: "SoftBank Group Corp Chief Executive Masayoshi Son said on Friday he expects mass production of self-driving vehicles to start in two years."
-    publishedDateTime: 2021-01-29T20:50:00Z
-    webUrl: "https://www.reuters.com/article/davos-meeting-son-autonomous/softbanks-son-expects-mass-production-of-driverless-cars-in-2-years-idUSL1N2K41Y9"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2K41Y9"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2K41Y9"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210129&t=2&i=1549571164&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0S194"
-        width: 829
-        height: 545
-        isCached: true
-  - title: "SoftBank's Son expects mass production of driverless cars in two years"
-    excerpt: "SoftBank Group Corp Chief Executive Masayoshi Son said on Friday he expects mass production of self-driving vehicles to start in two years."
-    publishedDateTime: 2021-01-29T21:00:00Z
-    webUrl: "https://www.reuters.com/article/davos-meeting-son-autonomous/softbanks-son-expects-mass-production-of-driverless-cars-in-2-years-idUSL1N2K41Y9"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2K41Y9"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2K41Y9"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210129&t=2&i=1549571164&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0S194"
-        width: 829
         height: 545
         isCached: true
   - title: "Baidu gets California nod for testing driverless vehicles on Sunnyvale streets"
@@ -121,17 +73,22 @@ related:
         width: 1024
         height: 640
         isCached: true
-  - title: "Baidu Gets California Nod for Testing Empty Self-Driving Cars"
-    excerpt: "Baidu Inc has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor Vehicles said on Wednesday. Although self-driving vehicles are designed to eliminate the need for a driver,"
-    publishedDateTime: 2021-01-28T09:25:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-01-27/baidu-gets-california-nod-for-testing-driverless-vehicles"
-    ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-01-27/baidu-gets-california-nod-for-testing-driverless-vehicles?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-01-27/baidu-gets-california-nod-for-testing-driverless-vehicles?context=amp"
+  - title: "Self-Driving Cars Spurring Nearby Human Drivers Into Speeding And Abysmal Reckless Driving"
+    excerpt: "Turns out that law abiding self-driving cars can inadvertently spur nearby human drivers into rather bad driving practices."
+    publishedDateTime: 2021-01-28T16:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/01/28/self-driving-cars-spurring-nearby-human-drivers-into-speeding-and-abysmal-reckless-driving/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/01/28/self-driving-cars-spurring-nearby-human-drivers-into-speeding-and-abysmal-reckless-driving/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/01/28/self-driving-cars-spurring-nearby-human-drivers-into-speeding-and-abysmal-reckless-driving/amp/"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 69
+      name: Forbes
+      domain: forbes.com
+    quality: 64
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600a166556a5e0f16f10ffd8%2F0x0.jpg%3FcropX1%3D1736%26cropX2%3D8688%26cropY1%3D386%26cropY2%3D5378"
+        width: 1200
+        height: 865
+        isCached: true
   - title: "Baidu Apollo receives driverless vehicle test permit in California"
     excerpt: "Baidu Apollo has now been approved by the California Department of Motor Vehicles (DMV) to test driverless vehicles without a safety driver behind the wheel on public streets. This makes Baidu the"
     publishedDateTime: 2021-01-28T13:25:00Z
@@ -145,48 +102,6 @@ related:
       - url: "https://roboticsandautomationnews.com/wp-content/uploads/2021/01/Apollo.jpg"
         width: 800
         height: 533
-        isCached: true
-  - title: "Baidu gets Calif. nod to test driverless cars"
-    excerpt: "Baidu Inc. received a permit from the state of California to test self-driving vehicles without a driver behind the wheel, the state's Department of Motor Vehicles said on Wednesday. Although self-driving vehicles are designed to eliminate the need for a driver,"
-    publishedDateTime: 2021-01-27T22:02:00Z
-    webUrl: "https://www.autonews.com/mobility-report/baidu-gets-calif-nod-test-driverless-cars"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 54
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/RTS2G4UC-1.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Baidu gets green light to test fully driverless cars in California"
-    excerpt: "Baidu is the sixth company to receive a driverless test permit from California, after Waymo, Nuro, Zoox, Cruise, and AutoX -- an Alibaba-backed, Chinese self-driving startup. There are 58 companies that have an active permit to test autonomous vehicles with a safety driver in California,"
-    publishedDateTime: 2021-01-27T22:01:00Z
-    webUrl: "https://asia.nikkei.com/Business/Technology/Baidu-gets-green-light-to-test-fully-driverless-cars-in-California"
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 54
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F2%252F2%252F8%252F2%252F32042822-1-eng-GB%252FApollo.jpeg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "Baidu wins green light to test fully driverless cars in California"
-    excerpt: "Baidu is the sixth company to receive a driverless test permit from California, after Waymo, Nuro, Zoox, Cruise, and AutoX -- an Alibaba-backed, Chinese self-driving startup. There are 58 companies that have an active permit to test autonomous vehicles with a safety driver in California,"
-    publishedDateTime: 2021-01-27T22:01:00Z
-    webUrl: "https://asia.nikkei.com/Business/Technology/Baidu-wins-green-light-to-test-fully-driverless-cars-in-California"
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 54
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F2%252F2%252F8%252F2%252F32042822-1-eng-GB%252FApollo.jpeg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
-        width: 1024
-        height: 512
         isCached: true
   - title: "University Of Southern California and Amazon establish Center For Secure And Trusted Machine Learning"
     excerpt: "The expectation is that the center will unleash a new line of fundamental research on privacy and security aspects of machine learning –given the proliferation of artificial intelligence across all aspects of society from education to finance,"
@@ -203,20 +118,6 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-122421,msid-80563839/amazon.jpg"
         width: 600
         height: 450
-        isCached: true
-  - title: "SoftBank’s Son expects mass production of driverless cars in two years"
-    excerpt: "SoftBank Group Corp chief executive Masayoshi Son said on Friday he expects mass production of self-driving vehicles to start in two years."
-    publishedDateTime: 2021-01-31T13:38:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/02/01/softbank039s-son-expects-mass-production-of-driverless-cars-in-two-years"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/01/31/1027826.jpg"
-        width: 1240
-        height: 826
         isCached: true
 
 secured: "ECWgEhGcq1ZI1o9H+ZaR1a/ZSq8OcwYBrSwTK2GgjnADENrfxzoXvAJRAXmNa7tExM2owYZicUuIiuXYu7wHe9HqKc8a3ZoCV4HqWfNpS6URtEkqkvECz5sKqcDXjoFgiMHLAqRSuJM2CM4QWzI0TLeqwt4YO7ItsDjov1mpOKEorYpaQuSFUaFBgK0kyP0Za1OaCqG19sVPNOLaHMYxvuyCxag/GrwSdXi00qC/YhBSa5v25myvOcIXkDK5H0A0j9OU2ltndCsw4zw/d6Ao/D4UuHmpEp+dHzMQqDWQ9cRakGYt/cAqSQvlvf6UZrdK4ylr1mwbh86aIPUgKrHGaI8BaFwVf2OkKiN5hX4S9cU=;9dXXzSRYAq2gQB4zEHGuLw=="

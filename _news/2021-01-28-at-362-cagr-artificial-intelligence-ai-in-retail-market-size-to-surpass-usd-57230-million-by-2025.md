@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/at-362-cagr-artificial-i
 webUrl: "https://www.marketwatch.com/press-release/at-362-cagr-artificial-intelligence-ai-in-retail-market-size-to-surpass-usd-57230-million-by-2025-2021-01-28"
 type: article
 quality: 70
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -67,6 +67,20 @@ related:
       name: PR Newswire
       domain: prnewswire.com
     quality: 28
+    images:
+      - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
+        width: 920
+        height: 482
+        isCached: true
+  - title: "AI In Telecommunication Market Size USD 13450 Million By 2026 At CAGR Of 49.8% - Valuates Reports"
+    excerpt: "Artificial Intelligence in Telecommunication Market is Segmented by Type Machine Learning and Deep Learning, Natural Language Processing,"
+    publishedDateTime: 2021-02-01T13:35:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/ai-in-telecommunication-market-size-usd-13450-million-by-2026-at-cagr-of-49-8-valuates-reports-881123483.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 26
     images:
       - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
         width: 920

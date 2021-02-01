@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/technology-australi
 webUrl: "https://apnews.com/press-release/business-wire/technology-australia-oceania-voice-recognition-computing-and-information-technology-47f0b2ed891945d782c47422affab686"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Is India’s Solution to Fix Data Gaps"
-    excerpt: "India is turning from man to machines to improve the quality and speed of its economic data, which has been criticized as inadequate, delayed or even confusing due to sharp and unexpected revisions."
-    publishedDateTime: 2021-01-27T22:02:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-01-27/artificial-intelligence-is-india-s-solution-to-fix-data-gaps"
+  - title: "New eBook from Maxim Integrated and Mouser Explores Next-Generation Applications for Healthcare Wearables"
+    excerpt: "Mouser Electronics, Inc., the New Product Introduction (NPI) leader empowering innovation, announces a new eBook in collaboration with Maxim Integrated Products,"
+    publishedDateTime: 2021-01-28T16:24:00Z
+    webUrl: "https://www.eejournal.com/industry_news/new-ebook-from-maxim-integrated-and-mouser-explores-next-generation-applications-for-healthcare-wearables/"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 67
+      name: Electronic Engineering Journal
+      domain: eejournal.com
+    quality: 22
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKgMwJ4Jg9dM/v0/1200x800.jpg"
-        width: 1200
-        height: 800
+      - url: "https://www.eejournal.com/wp-content/uploads/2017/05/cropped-EEJ_favicon_2020-copy.png"
+        width: 512
+        height: 512
         isCached: true
 
 secured: "5j2LGbGi8mtr/gXwRAew8+TTVZMwbYeIdrx2KeCCM/z2m6LSc+O3tePEq+AVzggfDMPQYzY3hqoQdDK5DFnHliFAyv57IPuFaOBQmyrmHoLe3a9XyjSAuP9Is9w4B0Fht0hbHAcMUKhx0r+xFjEIz1YIVHM1S8xUrrKHqHImku8F7W+sWu8HyEe6XvRwMnmeNKZ7G4LDqa2+vunLrwU0rR0qEqkzZM5aHAIuC3CunfL+0N+AZE3EmUR0X4arYaAy8Z4xNFnEfr0bjnpItxYtO/TfZHiIx8kQiEaL07hbUR7feB37OQZJ6w6Ay78cGiBPiqD/0d4N3TSmDbHeasuUfHWDBkuBWyVb42Y4aInFjJs=;X4GRLhVE4C+LhbNNPMfEXA=="

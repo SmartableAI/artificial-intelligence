@@ -73,6 +73,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Microsoft Data & AI Day on March 11"
+    excerpt: "Microsoft Denmark is proud to present Microsoft Data & AI Day! Within the past few years, artificial intelligence has accelerated the digitization of businesses and societies rapidly. As previous entry barriers have fallen AI has undergone a tremendous democratization – and it is now easier than ever before to get started"
+    publishedDateTime: 2021-02-01T14:37:00Z
+    webUrl: "https://news.microsoft.com/da-dk/2021/02/01/microsoft-data-ai-day-on-march-11/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 56
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/53/2021/02/banner-600-x-300.png"
+        width: 600
+        height: 300
+        isCached: true
   - title: "GM, Cruise Partners with Microsoft to Accelerate Self-Driving EV Technology | Work & Wheels"
     excerpt: "GM, Cruise Partners with Microsoft to Accelerate Self-Driving EV Technology | Work & Wheels General Motors and its self-driving car"
     publishedDateTime: 2021-01-30T05:44:00Z

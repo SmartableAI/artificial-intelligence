@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsofts-cutting-e
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/"
 type: article
 quality: 100
-heat: 160
+heat: 170
 published: true
 
 provider:
@@ -63,6 +63,20 @@ related:
       - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/Microsofts-investment-in-cruises-puts-it-in-the-game-of.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Microsoft Data & AI Day on March 11"
+    excerpt: "Microsoft Denmark is proud to present Microsoft Data & AI Day! Within the past few years, artificial intelligence has accelerated the digitization of businesses and societies rapidly. As previous entry barriers have fallen AI has undergone a tremendous democratization – and it is now easier than ever before to get started"
+    publishedDateTime: 2021-02-01T14:37:00Z
+    webUrl: "https://news.microsoft.com/da-dk/2021/02/01/microsoft-data-ai-day-on-march-11/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 56
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/53/2021/02/banner-600-x-300.png"
+        width: 600
+        height: 300
         isCached: true
   - title: "WinWire launches Vaccine Management Solution Built on Microsoft Azure"
     excerpt: "WinWire Technologies, a digital engineering services company, launched its Vaccine Management solution built on Azure. Healthcare"
@@ -123,6 +137,6 @@ related:
         height: 630
         isCached: true
 
-secured: "GkPJAbgNVvEljZOHKqnfGDzATyeEz1wFNQVz+k0TxqulvzpuiKEAs9AvuLB8I5/AsSJLoNRuJuXZHEWAATYy9r/FNBFQi0sCixWr/neh16eOkq7+ddvb/nmryZhaR7xqH6l8/dWN1slFButBJk6CdwvvnxuJZ35AwfWx/efIfuZ6sDDvg8IVriDD73lXeUNyxcBoMYmo3VEJBtyu/HuDDbXbNEQGdWm8ATAhNDM4BNSy4XtIq+rMVsKsVpDLHBR6BZKSTjX6xxWKO/XhDEC8OZWbTDgbmRfRZu4y3lPIb2yizQGuDEuVXdvi3p91ngrWojcHIVI498R1TGzhnS1h8I2YINHiGq6ShUz2S9ZDdLc=;oH58A9ojA0zY97YD5R7oCg=="
+secured: "Y3E7M4A5WoWkGjwPFZAg2SjoQby7dyQ3UZRjH0yt8U8jEIA6Uzcipqys7BrurDTa++YNQEL/gCKFL0iAvj1cu8wz3n70z9SMrzyTJrSBmzhOGVo5m0+yoPCIDQhlAydA6q9pl1LOPbvhzK+utHd/lokb1Bfii6aQmPo48vf9ReO/WSkz1vivqecxNKvP2WeG8h2Tkf59i/40pjnx6JI3vcoMIxVf58jlqkYy3/wh0oEN5X7OFqfudRYYdpgVxQY7spMigzZDY3gkyD4MszIfw1eXCC/cq7a1wGWO4XUcXhue+AIPkOVpgxlnEeSDk3gUhoweKegFf9jjzdUlkjKd9jM0mXhiBmAPFcI5ts+K8fa0p3PvQN2A7FEytBlS2IWV6VaYSNGn2DIUoKNprljrgyVURQL8JymR5pJxj1r4px5LGB2brTtWUO3s/SF8OEjvkfusN943Ml43Z1fe3/vLmIUtDINMO+lkUHPQQiv79uJ8/yF2QxIyajkC2jBtLw2+8x3JE7j3kkwwMXd61VN5zA==;N/0yth4HLbRnsjVM3O4/GQ=="
 ---
 

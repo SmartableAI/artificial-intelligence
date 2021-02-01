@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://mma.prnewswire.com/media/86257/splice_machine_logo.jpg?p=facebook"

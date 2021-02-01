@@ -70,17 +70,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "AI Monitors Early Warning Signs in COVID Patients"
-    excerpt: "The University of Virginia is utilizing an artificial intelligence system called 'CoMET' to monitor COVID19 patients."
-    publishedDateTime: 2021-01-27T22:01:00Z
-    webUrl: "https://www.techzone360.com/topics/techzone/articles/2021/01/27/447827-ai-monitors-early-warning-signs-covid-patients.htm"
-    ampWebUrl: "http://www.techzone360.com/topics/techzone/articles/2021/01/27/447827-ai-monitors-early-warning-signs-covid-patients.htm/amp"
-    cdnAmpWebUrl: "https://www-techzone360-com.cdn.ampproject.org/c/www.techzone360.com/topics/techzone/articles/2021/01/27/447827-ai-monitors-early-warning-signs-covid-patients.htm/amp"
-    type: article
-    provider:
-      name: Tech Zone 360
-      domain: techzone360.com
-    quality: 39
   - title: "Researchers Build Models Using Machine Learning Technique to Enhance Predictions of COVID-19 Outcomes"
     excerpt: "Mount Sinai researchers have published one of the first studies using a machine learning technique called \"federated learning\" to examine"
     publishedDateTime: 2021-01-28T06:16:00Z
