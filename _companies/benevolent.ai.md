@@ -2,7 +2,7 @@
 name: "BenevolentAI"
 overview: "BenevolentAI is the global leader in the development and application of artificial intelligence (“AI”) for scientific innovation. We aim to accelerate the journey from inventive ideas to medicines for patients by developing AI to generate new treatments for some of the world’s 8,000 untreated diseases."
 type: "profile"
-heat: 115
+heat: 82
 
 website: http://benevolent.ai
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "benevolent_ai"
   url: "https://twitter.com/benevolent_ai"
-  followers: 6534
+  followers: 6533
 
 size: 51-200 employees
 yearFounded: 2013
@@ -41,6 +41,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=qtkZt5u1XE8"
 
-secured: "6z+XXOyLGx6nL+rGWBQEfh2wo1Ut/uK6AsNcGH+XDlkXkhIHRv8hrV5kv9+Q3TKd9JLCC8arivkbxkTrd/4VJAyM6mVzt99qR2UnDmKq/fqSFscPWu2FZjs1URsZOGPqYjLJTQTw7j1Xj+kfRiIDw/GRzQl3627UUeAo1mfxwaBJHL1+NZn4nz56yqTMDZYGFW5QAKgHtJUaT6qLvU4NY+yZ/VOxiQH8HSgERfaXhqR2T/E3p017XLfSZTeHMbS/n0eorAWMxOrf/1xvT5Tk2PS6z2sHq7gTO9mYnovkx7kQKmmON5t76WtJlrVnAMx0Icn/n4xHRNz2oJHorG2l6AICXbe90pReNZcZlfxkMUxINE5cY2aN5zCei1Zfmz9R8+M7FYrwwtwSLLK7S/YDQ/5IbXxaz8B5jnRH9w2gLiY=;+VkAyjXc+YoZ1HU4YRaNKA=="
+secured: "MhyHi4uRlilbLJJKRR2sXaW4G2qAja0rZ28n5ScMk2h1sKd8QxS4EVW7OuDkRRb4LIzzOqxI5UKoaGdwy+9TtMH/tnSWZ1iT1ARHO9X/4sr2dBwOwjmwJWcfqr9uM2a3953XE5AtA8z76DJFGbXIaOhmKG5kVUZBS8z614VVjKLs79OKVvAEPNOWgvQG8MJq73F6+K7ZNnbaVOEl3xz+/V5eT8VYFfUecSgRUmmWyeafo8txdxy9BtkGWcEeGB1rA5YgH2DU7KfX3rC674YglIyvkdLVxo/2kvT0eB15bNSneHeiOOMATeoFBTNcbR1js/NCQCGiFmzLikKDFNwNzrj/ElG/sza2IIdYP+rQfcMssz9WEmG4Vcd8MR/0A9g4Ez12ybUWSjSOewv5V5AA1Hc6K/NcYAuhdmnBUryKmug=;amD3tK6wHh78F3DvRJriWA=="
 ---
 

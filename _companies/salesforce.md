@@ -2,7 +2,7 @@
 name: "Salesforce"
 overview: "Salesforce Einstein is a layer of intelligence within the Customer 360 Platform that brings powerful AI technologies to everyone, right where they work. And with the Einstein Platform, admins and developers have a rich set of platform services to build smarter apps and customize AI for their businesses."
 type: "profile"
-heat: 312
+heat: 173
 
 website: https://www.salesforce.com/products/platform/solutions/ai-services/
 
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Salesforce"
 
-secured: "uk/kazapsXZfpRJYUfDl09SufF3STQHywiXdVrBftK5WpMMpp1sZFe3PoLATUu7duWMsfrWKvAt2Fu+5/7enGqB7f85LZzHGQ6ko8J88QJsooNi3DUEtNSAlysiycK+/1Nu1YTu4HArqVc6SRQ1kT1DBDyTlGywJ7WMhHiQkHmI7eP1SiPjma20ERjqvq75/KHNRfldk3MZsFQo0du32zWfkzlU8jvjvjCyzBR9g/KP8JVf+P39bYJfZDbTg27lvDhJm80zWMd0JQH6nWKaxwlCSb0oSLNf0vpCi6/yZ5P82p+zBymCDt3c/rNQHUXlUTFdW5b5DoGLAb7b5GVHqYUya89n/DZJcGnV8v7k3iwxgDjkpoNhW8GFRCPoeSC2Vxvla9ad03S1eKk7SgV/XnWjCI0hUIIcCPJwuSbW7vk4=;TqTgzrzhmX4QV9Fb9gra2Q=="
+secured: "lbTWa5DzZz1F+w5h/mmB5dyxSHc6EFnefE9EnvsaWfEFGdYhtuYNq+quXhNCQW8myj5N7XIxpuF1EHSfAkxMd72+tm/vpgkxBX6UfcJF2Df/DSwjsVedCm8+QAamFZdQDIAgLgjjMPCBMMb+rKzqd7Y1xC9izjXTTvKT7e2BfoOA0RGvGP+lLdoWGHzqplm7oshVwL9DtVtMmWCRTyKGz/m2BVBanaBmeZLIhWKfcSWAurglvK4TH2Z8VW+o7kELpfHQPjSzRhXlEKcEpYmVRGrJCz7/Fq3H7KjNi6N9dr/N68Ta1Uiiyk/LSawUHvJNwXsbHHtJ6ZRuzdbHiWOh4qmb8Xd79x9JEO7v2MIH6P6h3KvfFde112CrZ9PvhOSe4wAgbOgRE8tCmMI0LHLrLi+Sgi4AxTnnFp+Qc7vXsPw=;AgLiqxbF3csYTOhD08JZ8g=="
 ---
 

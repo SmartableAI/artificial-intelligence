@@ -2,7 +2,7 @@
 name: "Bossa Nova Robotics"
 overview: "Bossa Nova is the leading provider of real-time, on-shelf product data for the global retail industry. Its technology collects terabytes of data that enables the retail ecosystem to optimize the omnichannel shopping experience. With a multidisciplinary team of robotics, computer vision, artificial intelligence, and big data scientists, Bossa Nova has solved the challenges to deploy fully autonomous service robots in busy and crowded environments."
 type: "profile"
-heat: 42
+heat: 57
 
 website: http://www.bossanova.com
 
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=KykP6wTp1Qk"
 
-secured: "IPzB7XtvJ5cyFr5N/6zUrZ1jJO3BKo2i+8+gT9f3L6yLzemnav4s/R+sY6JI5i7J4AD1TcafbW5FPaFOHOxeBCwlhfZYR64af4u+22rE00oAL7tGFkiz23xnx46NoSzepfTvPJe8K4teAMA6kEiYN4JSK06U2Ze7mL6iHrNwvPmk161nsM0f5BR7dWRMV+4QDwBf8FH8iZim3lnOyL+yKpRmYFrtHMk8a9oKgxcSsTBDYbVwDYsuy3iQwy3j4V49EP1MXt8Zmn22YF9vkyU/xhQH4ybJRGvFKy4IRX/yJ+f52mnl3oIb7ju9dqHG1mCf/hZqJTLll5viMBXDi1mpPF6hxyFzebrXTOE51W/VJUso33HDW2PkgX6VhKtZqYqzTcQWAqZVGaLdr90SPJB5V/rjo8bBZXZeuOuJkcrIL9o=;y+gbyJ9a7A5wlDUC2XzV1A=="
+secured: "Pb/8P4lGkERTxICHABpb4SUFyw5+kCna0a9sY18h4fa3+lQLY30HtxJ/N7c+iYd5DvFWiu9Cd2sUrpIvjpLyUxmXh9fPTvrFZhtaMYHhUUssjfDBS5sNKki3GMqCp35DFNcpPzVNFFGmpsidb1Z+xJJP5Syc6hMlRe4jnQ72ot/lVxhhMvrz2HvqJc4epZR660advem9X21HI62uzfD7ETQoYQfRz5PARUANR2YT8HMW40eFqCalDqFMg3Qwg401u71n/k5vrVnghw7NAj2nqYsVUTAd1Mx3Z2yK+Q8d+/d9YfPjPcB8pyNh0hdHT+b4/apCDVzR24sWcuq3RINRtoF7bicZ3v4eK91XROrVZZiBzbIc88aCBTPoVdjUS2QB6lqdWu+d5xkhNzW4DTkyasEnBhV1yAf47aX81HCNppw=;i0e/D4aUxx+e9ntevXuUvg=="
 ---
 
