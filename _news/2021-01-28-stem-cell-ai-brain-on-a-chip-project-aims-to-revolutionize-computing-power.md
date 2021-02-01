@@ -36,7 +36,7 @@ related:
     provider:
       name: Leicester Mercury
       domain: leicestermercury.co.uk
-    quality: 62
+    quality: 66
     images:
       - url: "https://i2-prod.leicestermercury.co.uk/incoming/article4943747.ece/ALTERNATES/s615/0_image001.jpg"
         width: 615

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/pinecone-a-serverless-vecto
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/"
 type: article
 quality: 80
-heat: -1
-published: false
+heat: 130
+published: true
 
 provider:
   name: ZDNet
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Pinecone lands $10M seed for purpose-built machine learning database"
-    excerpt: "Pinecone, a new startup from the folks who helped launch Amazon SageMaker, has built a vector database that generates data in a specialized format to help build machine learning applications faster, something that was previously only accessible to the largest organizations."
-    publishedDateTime: 2021-01-27T15:01:00Z
-    webUrl: "https://techcrunch.com/2021/01/27/pinecone-lands-10m-seed-for-purpose-built-machine-learning-database/"
-    ampWebUrl: "https://techcrunch.com/2021/01/27/pinecone-lands-10m-seed-for-purpose-built-machine-learning-database/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/27/pinecone-lands-10m-seed-for-purpose-built-machine-learning-database/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/01/IMG_8828-1.jpg?w=1024"
-        width: 1024
-        height: 684
-        isCached: true
   - title: "Pinecone emerges from stealth with $10 million to accelerate AI workloads"
     excerpt: "Pinecone, a startup developing database technology to support AI workloads, emerged from stealth with $10 million in funding.Read MoreRead more"
     publishedDateTime: 2021-01-29T15:34:00Z

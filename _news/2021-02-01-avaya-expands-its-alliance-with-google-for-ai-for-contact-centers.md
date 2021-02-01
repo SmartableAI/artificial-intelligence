@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/31/avaya-expands-its-alliance-with-g
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/31/avaya-expands-its-alliance-with-google-for-ai-for-contact-centers/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

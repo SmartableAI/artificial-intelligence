@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3605101/patrick-j-mcgovern-foundat
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3605101/patrick-j-mcgovern-foundation-invests-in-ai-for-public-good.amp.html"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "New alliance aims to draw unheard voices into ethical AI conversation"
-    excerpt: "AI technologies \"are in too few hands to shape our common future,\" says Vilas Dhar, president of the Patrick J. McGovern Foundation. The World Economic Forum launches the Global AI Action Alliance in a move toward more inclusive conversations."
-    publishedDateTime: 2021-01-29T11:51:00Z
-    webUrl: "https://www.devex.com/news/new-alliance-aims-to-draw-unheard-voices-into-ethical-ai-conversation-99018"
-    type: article
-    provider:
-      name: Devex
-      domain: devex.com
-    quality: 56
-    images:
-      - url: "https://res.cloudinary.com/devex/image/fetch/c_limit,w_1200/https://lh6.googleusercontent.com/DmldKJv_cfYWNuv0nYaCMK4kHd1qVuKhDjWkI-YUSxympY7JhwWxZXXva_qSEtn88pE95-dK1BpUXkPu20kF0ycwBm3P6-rBmr3gjXBNBGYmrGwc1kFL3iMx4j7JdFxDf73j4MHB"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Patrick J. McGovern Foundation commits $40M to advancing AI and data for good"
     excerpt: "As AI and data increasingly influence our individual lives and shape the fabric of our shared future, questions about how to ensure these tools"
     publishedDateTime: 2021-01-28T15:00:00Z

@@ -2,6 +2,153 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-20-opinion-facial-recognition-vital-to-nab-capitol-assailants.md",
+      "title": "Opinion: Facial Recognition Vital to Nab Capitol Assailants",
+      "excerpt": "While cities ranging from San Francisco to Boston have worked to ban facial recognition outright, without that technology, the FBI and Capitol Police would have had a harder job arresting the Capitol insurrectionists.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/security/Opinion-Facial-Recognition-Vital-to-Nab-Capitol-Assailants.html",
+      "originalUrl": "https://www.govtech.com/security/Opinion-Facial-Recognition-Vital-to-Nab-Capitol-Assailants.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.govtech.com/images/shutterstock_1392652700.jpg",
+          "width": 939,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/security/Opinion-Facial-Recognition-Vital-to-Nab-Capitol-Assailants.html?AMP",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/Opinion-Facial-Recognition-Vital-to-Nab-Capitol-Assailants.html?AMP",
+      "publishedDateTime": "2021-01-19T08:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-14-tech-products-from-ces-2021-i-cant-wait-to-buy.md",
+      "title": "14 Tech Products From CES 2021 I Can’t Wait To Buy",
+      "excerpt": "Here is a roundup of our 14 favorite gadgets from CES. Most of these things are close to shipping to retail, though a few are a little less complete and might not hit store shelves this year. Either way,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2021/01/19/best-of-ces-2021/",
+      "originalUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2021/01/19/best-of-ces-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6006f9b57ef354a6bce2696a%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D866%26cropY1%3D0%26cropY2%3D577",
+          "width": 866,
+          "height": 577,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2021/01/19/best-of-ces-2021/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbes-personal-shopper/2021/01/19/best-of-ces-2021/amp/",
+      "publishedDateTime": "2021-01-19T07:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-google-launches-suite-of-ai-powered-solutions-for-retailers.md",
+      "title": "Google launches suite of AI-powered solutions for retailers",
+      "excerpt": "Google's new Product Discovery Solutions for Retail aims to address ecommerce challenges during the pandemic with AI and machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/19/google-launches-suite-of-ai-powered-solutions-for-retailers/",
+      "originalUrl": "https://venturebeat.com/2021/01/19/google-launches-suite-of-ai-powered-solutions-for-retailers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/google-cloud-e1594658562493.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/19/google-launches-suite-of-ai-powered-solutions-for-retailers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/19/google-launches-suite-of-ai-powered-solutions-for-retailers/amp/",
+      "publishedDateTime": "2021-01-19T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-01-19-delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official.md",
       "title": "Delhi Airport Evaluating 'computer Vision' Tech To Track Flyers, Ensure Social Distancing: Official",
       "excerpt": "Delhi airport is evaluating a computer vision technology to track passengers, reduce waiting time and ensure social distancing at its terminals, a top official of the facility's operator said on Tuesday.",
@@ -1277,162 +1424,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-ftc-settles-with-photo-storage-app-that-pivoted-to-facial-recognition.md",
-      "title": "FTC settles with photo storage app that pivoted to facial recognition",
-      "excerpt": "The Federal Trade Commission has reached a settlement with photo storage app Ever that it says used customers’ photos to develop facial recognition technology without telling them, the agency ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/1/11/22225171/ftc-facial-recognition-ever-settled-paravision-privacy-photos",
-      "originalUrl": "https://www.theverge.com/2021/1/11/22225171/ftc-facial-recognition-ever-settled-paravision-privacy-photos",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/JwxROb47y-Asl8rodvgatvth1X8=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68651588/acastro_180730_1777_facial_recognition_0003.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/1/11/22225171/ftc-facial-recognition-ever-settled-paravision-privacy-photos",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/1/11/22225171/ftc-facial-recognition-ever-settled-paravision-privacy-photos",
-      "publishedDateTime": "2021-01-11T12:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-capitol-attack-fbi-mum-on-facial-recognition-clearview-ai-searches-spike.md",
-      "title": "Capitol attack: FBI mum on facial recognition, Clearview AI searches spike",
-      "excerpt": "The FBI isn't saying whether it is using facial recognition technology to identify suspects involved in the Capitol attack on Wednesday. Neither are any of the other seven agencies CNET reached ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/capitol-attack-fbi-mum-on-facial-recognition-clearview-ai-searches-spike/",
-      "originalUrl": "https://www.cnet.com/news/capitol-attack-fbi-mum-on-facial-recognition-clearview-ai-searches-spike/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/1SCBaOEKePl0HetAmMuo0daOHPQ=/1200x630/2021/01/07/113e5699-dbdb-45c9-bc4b-4b4593a8c5b5/gettyimages-1230465281.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/capitol-attack-fbi-mum-on-facial-recognition-clearview-ai-searches-spike/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/capitol-attack-fbi-mum-on-facial-recognition-clearview-ai-searches-spike/",
-      "publishedDateTime": "2021-01-11T11:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-samsung-reveals-smarter-family-hub-fridge-and-a-robo-vac-that-thinks-its-a-guard-dog.md",
-      "title": "Samsung reveals smarter Family Hub fridge and a robo-vac that thinks it’s a guard dog",
-      "excerpt": "Samsung’s big Galaxy S21 launch may be coming later this week, but it’s home appliances which are getting their moment in the spotlight today. Fresh for CES 2021 are updates in the",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/samsung-reveals-smarter-family-hub-fridge-and-a-robo-vac-that-thinks-its-a-guard-dog-11654348/",
-      "originalUrl": "https://www.slashgear.com/samsung-reveals-smarter-family-hub-fridge-and-a-robo-vac-that-thinks-its-a-guard-dog-11654348/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/01/samsung-ces-2021-home-appliances-1.jpg",
-          "width": 1680,
-          "height": 1050,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/samsung-reveals-smarter-family-hub-fridge-and-a-robo-vac-that-thinks-its-a-guard-dog-11654348/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/samsung-reveals-smarter-family-hub-fridge-and-a-robo-vac-that-thinks-its-a-guard-dog-11654348/amp/",
-      "publishedDateTime": "2021-01-11T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

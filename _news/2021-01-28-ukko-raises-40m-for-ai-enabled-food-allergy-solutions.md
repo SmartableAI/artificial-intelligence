@@ -24,22 +24,6 @@ images:
     height: 364
     isCached: true
 
-related:
-  - title: "Bayer leads $40m investment in Israeli biotech co Ukko"
-    excerpt: "Israeli biotech company Ukko, which is working to eliminate food allergies and sensitivities, today announced the completion of a $40 million Series B financing round. The round was led by Bayer's impact investment arm Leaps,"
-    publishedDateTime: 2021-01-27T13:31:00Z
-    webUrl: "https://en.globes.co.il/en/article-Bayer-leads-40m-investment-in-Israeli-biotech-co-Ukko-1001358705"
-    type: article
-    provider:
-      name: globes.co.il
-      domain: globes.co.il
-    quality: 24
-    images:
-      - url: "https://res.cloudinary.com/globes/image/upload/t_desktop_article_content_header_800*392/v1611749962/direct/Ukko_Molecular_Biologists_in_Lab_p8vdcu.jpg"
-        width: 800
-        height: 392
-        isCached: true
-
 secured: "X7I+g9CRY8HazZLHUS6trhwiWDHMluwPTR3Y0ypuCHi2A9Ad1rE0eZkOgIVZx0VCL13rbcrUIHP6SisB2dTghHG4VB5o+mi49UY7tkd+S6vnN/xU4e0/G+4dkOgrVMzIcSuDloqET5f+a9Sr+ocF5HDLaRq2m10p3S33uK7Fqs/pmXKtxAp1CEgM7zyoSt2zelqF0K+lS0oFi8FVqcnCZX1wGw6Keh3AEEV4md2YVVWn+UOELrmZn+MhfODu7FHg9hxuWlH7CNnYGqgL+8377bEkVTbGFEE09D1lGmvU+0xKERiYI9HPL+jRSINs1ExSlQzIOXp/TI+yvdtVv46ej5KeGRfIHwkJrMJhgqbcAsE=;Anh2B796EKME71HYRaaqng=="
 ---
 

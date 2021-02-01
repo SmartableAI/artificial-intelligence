@@ -10,7 +10,7 @@
       "originalUrl": "https://www.leicestermercury.co.uk/news/local-news/scientists-awarded-3m-project-use-4943363",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -40,7 +40,9 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Autos",
+        "AI in Robotics"
       ]
     },
     {
@@ -138,7 +140,7 @@
       "originalUrl": "https://www.compsmag.com/news/pc/photonics-for-artificial-intelligence-and-neuromorphic-computing-sciencedaily/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -276,7 +278,7 @@
       "originalUrl": "https://venturebeat.com/2021/01/31/avaya-expands-its-alliance-with-google-for-ai-for-contact-centers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -378,7 +380,7 @@
       "originalUrl": "https://venturebeat.com/2021/01/31/forget-user-experience-ai-must-focus-on-citizen-experience/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {

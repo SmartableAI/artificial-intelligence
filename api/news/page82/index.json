@@ -2,6 +2,366 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2020-11-26-digital-health-smart-inhalers.md",
+      "title": "Digital Health: Smart Inhalers",
+      "excerpt": "The extensive scope of digital health encompasses technologies such as mobile health (mHealth) apps, artificial intelligence (AI)-enabled medical ... Traditional inhalers have long been the mainstay of therapy for patients with chronic respiratory diseases.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pharmacytimes.com/news/digital-health-smart-inhalers",
+      "originalUrl": "https://www.pharmacytimes.com/news/digital-health-smart-inhalers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pharmacytimes.s3.amazonaws.com/uploadedmedia/images/2020-11-20_AdobeStock_126613568-644px.jpg",
+          "width": 644,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-25T13:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Pharmacy Times",
+        "domain": "pharmacytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-26-researchers-taught-ai-how-to-judge-a-video-game-by-its-cover.md",
+      "title": "Researchers taught AI how to judge a video game by its cover",
+      "excerpt": "Have you ever seen the promo art or box cover for a video game and thought “what the hell is this even about?” Well, wonder no more. A pair of researchers have combined cutting-edge image recognition and natural language processing to create an AI system for video game genre classification.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/11/25/researchers-taught-ai-how-to-judge-a-video-game-by-its-cover/",
+      "originalUrl": "https://thenextweb.com/neural/2020/11/25/researchers-taught-ai-how-to-judge-a-video-game-by-its-cover/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/gameclassai-796x392.jpg",
+          "width": 796,
+          "height": 392,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/11/25/researchers-taught-ai-how-to-judge-a-video-game-by-its-cover/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/25/researchers-taught-ai-how-to-judge-a-video-game-by-its-cover/amp/",
+      "publishedDateTime": "2020-11-25T12:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-26-face-recognition-isnt-just-for-humans-its-learning-to-identify-bears-and-cows-too.md",
+      "title": "Face Recognition Isn’t Just For Humans — It’s Learning To Identify Bears And Cows, Too",
+      "excerpt": "It's hard for the average person to tell Dani, Lenore, and Bella apart: They all sport fashionably fuzzy brown coats and enjoy a lot of the same activities, like playing in icy-cold water and, occasionally,",
+      "sourceUrl": null,
+      "webUrl": "https://detroit.cbslocal.com/2020/11/25/face-recognition-isnt-just-for-humans-its-learning-to-identify-bears-and-cows-too/",
+      "originalUrl": "https://detroit.cbslocal.com/2020/11/25/face-recognition-isnt-just-for-humans-its-learning-to-identify-bears-and-cows-too/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://detroit.cbslocal.com/2020/11/25/face-recognition-isnt-just-for-humans-its-learning-to-identify-bears-and-cows-too/amp/",
+      "cdnAmpWebUrl": "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/2020/11/25/face-recognition-isnt-just-for-humans-its-learning-to-identify-bears-and-cows-too/amp/",
+      "publishedDateTime": "2020-11-25T12:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS Local",
+        "domain": "cbslocal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-26-insights-on-the-artificial-intelligence-ai-chips-market-2020-2024-covid-19-industry-analysis-market-trends-market-growth-opportunities.md",
+      "title": "Insights on the Artificial Intelligence (AI) Chips Market 2020-2024: COVID-19 Industry Analysis, Market Trends, Market Growth, Opportunities and Forecast 2024 - Technavio",
+      "excerpt": "Technavio has announced its latest market research report titled Global Artificial Intelligence (AI) Chips Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--The artificial intelligence (AI) chips market is expected to grow by USD 54.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20201125005643/en/Insights-on-the-Artificial-Intelligence-AI-Chips-Market-2020-2024-COVID-19-Industry-Analysis-Market-Trends-Market-Growth-Opportunities-and-Forecast-2024---Technavio",
+      "originalUrl": "https://www.businesswire.com/news/home/20201125005643/en/Insights-on-the-Artificial-Intelligence-AI-Chips-Market-2020-2024-COVID-19-Industry-Analysis-Market-Trends-Market-Growth-Opportunities-and-Forecast-2024---Technavio",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20201125005643/en/841915/23/IRTNTR41328.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-25T11:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-26-ai-automation-promises-to-have-a-big-and-not-always-positive-impact.md",
+      "title": "AI automation promises to have a big, and not always positive, impact",
+      "excerpt": "Just as telephone operators struggled with the automation of switching, AI promises to change global economies for the better, even as it wreaks havoc on individuals' jobs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/ai-automation-promises-to-have-a-big-and-not-always-positive-impact/",
+      "originalUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/ai-automation-promises-to-have-a-big-and-not-always-positive-impact/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2018/07/25/e8eedcaf-12c3-4a1e-bf5e-15e6fd477219/resize/1200x/64b60cf8e2906fc42ff960eec0c87377/robots-working-5.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/ai-automation-promises-to-have-a-big-and-not-always-positive-impact/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/ai-automation-promises-to-have-a-big-and-not-always-positive-impact/",
+      "publishedDateTime": "2020-11-25T10:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-26-global-facial-recognition-market-increasing-focus-on-infrastructural-growth-in-north-america-to-stimulate-growth-says-fortune-business-insightstm.md",
+      "title": "Global Facial Recognition Market: Increasing Focus on Infrastructural Growth in North America to Stimulate Growth, says Fortune Business InsightsTM",
+      "excerpt": "The global facial recognition market size is expected to hit USD 12.92 billion by 2027, while exhibiting a promising CAGR of 14.8% between 2020 and 2027. This is ascribable to factors such as increasing demand for advanced video surveillance systems and increasing adoption of modern technologies such as artificial intelligence (AI) and machine learning by the manufacturers.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/global-facial-recognition-market-increasing-focus-on-infrastructural-growth-in-north-america-to-stimulate-growth-says-fortune-business-insightstm-1029839491",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/global-facial-recognition-market-increasing-focus-on-infrastructural-growth-in-north-america-to-stimulate-growth-says-fortune-business-insightstm-1029839491",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-25T09:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-26-ai-neural-networks-are-now-smart-enough-to-know-when-they-shouldnt-be-trusted.md",
+      "title": "AI Neural Networks Are Now Smart Enough To Know When They Shouldn’t Be Trusted",
+      "excerpt": "The idea of all-knowing, uncontrollable artificial intelligence (AI) is scary, but if we’re lucky, it looks like AI might just be able to save us from itself. A team of computer scientists from Massachusetts Institute of Technology (MIT) say they have created AI neural networks that are able to determine whether they can be trusted,",
+      "sourceUrl": null,
+      "webUrl": "https://www.unilad.co.uk/technology/ai-neural-networks-are-now-smart-enough-to-know-when-they-shouldnt-be-trusted/?source=tech",
+      "originalUrl": "https://www.unilad.co.uk/technology/ai-neural-networks-are-now-smart-enough-to-know-when-they-shouldnt-be-trusted/?source=tech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.ladbible.com/thumbnail?type=jpeg&url=https://www.unilad.co.uk/wp-content/uploads/2020/11/sophia_neural_networks.jpg&quality=70&width=808",
+          "width": 808,
+          "height": 424,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.unilad.co.uk/technology/ai-neural-networks-are-now-smart-enough-to-know-when-they-shouldnt-be-trusted/amp/",
+      "cdnAmpWebUrl": "https://www-unilad-co-uk.cdn.ampproject.org/c/s/www.unilad.co.uk/technology/ai-neural-networks-are-now-smart-enough-to-know-when-they-shouldnt-be-trusted/amp/",
+      "publishedDateTime": "2020-11-25T08:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UNILAD",
+        "domain": "unilad.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-25-beeb-how-do-you-build-the-worlds-first-public-service-voice-assistant.md",
+      "title": "Beeb, how do you build the world’s first public service voice assistant?",
+      "excerpt": "The post Beeb, how do you build the world’s first public service voice assistant? appeared first on The AI Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://news.microsoft.com/en-gb/2020/11/25/beeb-how-do-you-build-the-worlds-first-public-service-voice-assistant/",
+      "originalUrl": "https://news.microsoft.com/en-gb/2020/11/25/beeb-how-do-you-build-the-worlds-first-public-service-voice-assistant/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/68/2020/11/BBC.png",
+          "width": 640,
+          "height": 352,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-25T08:27:01-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-25-castai-nabs-77m-seed-to-remove-barriers-between-public-clouds.md",
       "title": "Cast.ai nabs $7.7M seed to remove barriers between public clouds",
       "excerpt": "When you launch an application in the public cloud, you usually put everything on one provider, but what if you could choose the components based on cost and technology and have your database one place and your storage another?",
@@ -793,394 +1153,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-amazon-lex-launches-support-for-latin-american-spanish-and-german.md",
-      "title": "Amazon Lex launches support for Latin American Spanish and German",
-      "excerpt": "&iexcl;Amazon Lex lanza soporte para espa&ntilde;ol para Am&eacute;rica Latina! Amazon Lex startet auf Deutsch! Amazon Lex is a service for building conversational interfaces into any application using voice and text. Starting today, Amazon Lex supports Latin American Spanish and German. Now you can",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-lex-launches-support-for-latin-american-spanish-and-german/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-lex-launches-support-for-latin-american-spanish-and-german/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/25/LexLanguage_DE.jpg",
-          "width": 800,
-          "height": 451,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-24T17:32:21-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-how-xpertal-is-creating-the-contact-center-of-the-future-with-amazon-lex.md",
-      "title": "How Xpertal is creating the Contact Center of the future with Amazon Lex",
-      "excerpt": "This is a joint blog post with AWS Solutions Architects, Jorge Alfaro Hidalgo and Mauricio Zajbert, and Chester Perez, the Contact Center Manager at Xpertal. Fomento Econ&oacute;mico Mexicano, S.A.B. de C.V. (FEMSA) is a Mexican multinational beverage and retail company headquartered in Monterrey, Mexico.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-xpertal-is-creating-the-contact-center-of-the-future-with-amazon-lex/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-xpertal-is-creating-the-contact-center-of-the-future-with-amazon-lex/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/24/How-Xpertal-1.jpg",
-          "width": 800,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-24T17:29:04-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-uc-berkeley-researchers-detect-silent-speech-with-electrodes-and-ai.md",
-      "title": "UC Berkeley researchers detect ‘silent speech’ with electrodes and AI",
-      "excerpt": "AI for detecting speech without sound may have applications for a range of technologies and for people who cannot produce audible speech.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/24/uc-berkeley-researchers-detect-silent-speech-with-electrodes-and-ai/",
-      "originalUrl": "https://venturebeat.com/2020/11/24/uc-berkeley-researchers-detect-silent-speech-with-electrodes-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/EMG-2.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/24/uc-berkeley-researchers-detect-silent-speech-with-electrodes-and-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/24/uc-berkeley-researchers-detect-silent-speech-with-electrodes-and-ai/amp/",
-      "publishedDateTime": "2020-11-24T16:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-aureus-to-upgrade-e-discovery-solution-for-legal-profession-powered-by-microsoft-azure.md",
-      "title": "Aureus to upgrade e-Discovery solution for legal profession, powered by Microsoft Azure",
-      "excerpt": "DENVER, July 13, 2020 /PRNewswire/ -- Aureus Tech Systems, a digital transformation company that provides accelerated intelligent cloud and edge solutions, brings major new capabilities to its ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1149155&cat=PRN",
-      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1149155&cat=PRN",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1213215/Microsoft_PR_image.jpg ",
-          "width": 400,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-24T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Webindia 123",
-        "domain": "webindia123.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-this-wearable-ai-translator-lets-you-talk-freely-and-naturally-in-different-languages.md",
-      "title": "This wearable AI translator lets you talk freely and naturally in different languages",
-      "excerpt": "is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/video/wt2-plus-wearable-translator-timekettle/",
-      "originalUrl": "https://mashable.com/video/wt2-plus-wearable-translator-timekettle/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2019%252F01%252F08%252F6e%252Fcde31ac0debc4a54974622afc46c4242.e83a8.png%252F1200x630.png?signature=dW04es9FGsB6uLNoFow3pv8shcY=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/video/wt2-plus-wearable-translator-timekettle.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/wt2-plus-wearable-translator-timekettle.amp",
-      "publishedDateTime": "2020-11-24T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-donotpay-the-ai-lawyer-for-your-inbox-now-lets-you-report-businesses-for-tax-fraud.md",
-      "title": "DoNotPay, the AI lawyer for your inbox, now lets you report businesses for tax fraud",
-      "excerpt": "Here’s a cool one: DoNotPay, the legalese-trained email crawler that scours your inbox for ways to save you money (or earn you payouts from class action lawsuits), now helps you collect government tax fraud bounties.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/11/24/donotpay-the-ai-lawyer-for-your-inbox-now-lets-you-report-businesses-for-tax-fraud/",
-      "originalUrl": "https://thenextweb.com/neural/2020/11/24/donotpay-the-ai-lawyer-for-your-inbox-now-lets-you-report-businesses-for-tax-fraud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/05/3061093760_b92f06b7ba_o-796x531.jpg",
-          "width": 796,
-          "height": 531,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/11/24/donotpay-the-ai-lawyer-for-your-inbox-now-lets-you-report-businesses-for-tax-fraud/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/24/donotpay-the-ai-lawyer-for-your-inbox-now-lets-you-report-businesses-for-tax-fraud/amp/",
-      "publishedDateTime": "2020-11-24T15:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-microsoft-sas-in-deal-to-provide-sas-cloud-on-azure-in-sydney.md",
-      "title": "Microsoft, SAS in deal to provide SAS Cloud on Azure in Sydney",
-      "excerpt": "Clunies-Ross said in a statement: \"Together, Analytics and AI from SAS with the power of Microsoft Azure will underpin the new operating system for Digital Transformation. \"It represents a ...",
-      "sourceUrl": null,
-      "webUrl": "https://itwire.com/cloud/microsoft,-sas-in-deal-to-provide-sas-cloud-on-azure-in-apac.html",
-      "originalUrl": "https://itwire.com/cloud/microsoft,-sas-in-deal-to-provide-sas-cloud-on-azure-in-apac.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://itwire.com/media/k2/items/cache/cdfd24e27a749177e566c868d8b6de7f_M.jpg",
-          "width": 375,
-          "height": 319,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-24T15:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWire",
-        "domain": "itwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-ai-can-run-your-work-meetings-now.md",
-      "title": "AI Can Run Your Work Meetings Now",
-      "excerpt": "The idea behind Headroom, which was conceived pre-pandemic, is to improve on both the in-person and virtual problems with meetings, using AI. (Rabinovich used to head ... like interpreting body language from other people on-screen or figuring out if ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/ai-can-run-work-meetings-now-headroom-clockwise/",
-      "originalUrl": "https://www.wired.com/story/ai-can-run-work-meetings-now-headroom-clockwise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5fb86ad41dc55b7ec707231d/master/pass/business-ai-workplace-optimization-edit-2.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/ai-can-run-work-meetings-now-headroom-clockwise/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-can-run-work-meetings-now-headroom-clockwise/amp",
-      "publishedDateTime": "2020-11-24T15:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

@@ -1,21 +1,27 @@
 ---
 category: news
 title: "JetBlue Selects ASAPP Artificial Intelligence Platform for Customer Experience Transformation"
-excerpt: "JetBlue and ASAPP, Inc., the artificial intelligence research-driven company, today announced that JetBlue will use the ASAPP AI platform to amplify productivity and efficiency of JetBlue crewmembers that operate the digital and telephone channels for their customers."
-publishedDateTime: 2021-01-27T14:00:00Z
-originalUrl: "https://www.nasdaq.com/press-release/jetblue-selects-asapp-artificial-intelligence-platform-for-customer-experience"
-webUrl: "https://www.nasdaq.com/press-release/jetblue-selects-asapp-artificial-intelligence-platform-for-customer-experience"
+excerpt: "As part of our ongoing mission to inspire humanity, we were determined to find an artificial intelligence platform that would allow us to transform the JetBlue customer support experience by supporting and amplifying the efforts of our dedicated crewmembers,"
+publishedDateTime: 2021-01-27T15:05:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-68f505e7e529f59580ab2b2040f22b9e"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-68f505e7e529f59580ab2b2040f22b9e"
 type: article
-quality: 36
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "JetBlue Selects ASAPP Artificial Intelligence Platform for Customer Experience Transformation"
@@ -30,6 +36,6 @@ related:
       domain: businessinsider.com
     quality: 56
 
-secured: "7BtAeFLQmOBJRgM3/ol3jAnVXf+Gkw9mv2lqoq18pbLnux1N5tzsgC72tuydz5LH8mW12zCDgh7p/H74vZWvcptIVlOtIshoTtWM3On8cCTgX4YDHZLvvNk1yJtKFp11gjo0kZu69ZjQH3UvOwElbFOvcSvBugpI7arYBVQBPOa4f+4R9slK+7RfTkJdQl+cOInYFzg0ZwtQFEovQY7H9jz/PXERM4dA944w0ZV9K/E1jM9E0HWi/T0yu6WnDpZe1tyM+KSKwFV9AZEeSoViC1W1/cZSUnfWPgnPQ+NLlOl7qZ4o+3UMhSfQhnf8B55jw82BgJRTK/hzeh+QIkWinyaTzUbBi2I1aD+kWNawML0=;U8R93DWbVS3JbpUXufhANQ=="
+secured: "u35HXSo/Ny/irKNHxIBm69XUQCe82378z3s5NN+zQImrEMMXtPuNecJm6ro08s6/9jCevxds1wAm0624jIYlhLM6PVqgjbqpi3np2OIjERBleUFc1pFkrOi6n5HF3LqZIY8vTLHT6yOjFZVO+tFUlDRBGrNS4rz/QsUQWzrj6PURC0saaD4+Jyt5ODcMiqwerfGfUpHPJnzgv8N6zTHjWix0Nt77FdDuicQiYiZicEdLyFLSTay2+5S33PBnr0sWbjZtsmYhacJWkGBCQ1LUcprNKkF5t6t+WVA3q7OtGYzwnidZ8W1HxkGoX9u9YLndlcQ8p4DfuiQjDo227Ug1jf/Cmu5gGLL3oGrR9tUJC9g=;4p5phvDYVGzZOqkjGnT1gw=="
 ---
 

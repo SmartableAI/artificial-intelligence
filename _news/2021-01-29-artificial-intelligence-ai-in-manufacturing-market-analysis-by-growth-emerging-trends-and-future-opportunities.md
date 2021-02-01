@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-analysis-by-growth-emerging-trends-and-future-opportunities-2021-01-29"
 type: article
 quality: 63
-heat: 123
+heat: 113
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facial Recognition Market Analysis 2021 Growth Opportunities, Trends, Segmentation and Outlook 2025, with Impact of COVID-19"
-    excerpt: "Jan (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" “Facial Recognition Market”"
-    publishedDateTime: 2021-01-27T13:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-analysis-2021-growth-opportunities-trends-segmentation-and-outlook-2025-with-impact-of-covid-19-2021-01-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

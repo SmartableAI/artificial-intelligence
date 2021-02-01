@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-02-ai-still-struggles-to-recognize-hateful-memes-but-its-slowly-improving.md",
+      "title": "AI still struggles to recognize hateful memes, but it’s slowly improving",
+      "excerpt": "The preliminary results of Facebook's Hateful Memes Challenge suggest that multimodal tasks pose a challenge for AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/01/ai-still-struggles-to-recognize-hateful-memes-but-its-slowly-improving/",
+      "originalUrl": "https://venturebeat.com/2020/12/01/ai-still-struggles-to-recognize-hateful-memes-but-its-slowly-improving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/moderator-e1591354274848.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/01/ai-still-struggles-to-recognize-hateful-memes-but-its-slowly-improving/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/01/ai-still-struggles-to-recognize-hateful-memes-but-its-slowly-improving/amp/",
+      "publishedDateTime": "2020-12-01T11:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-30-nvidia-launches-monai-framework-to-speed-up-ai-healthcare-training.md",
       "title": "Nvidia launches Monai framework to speed up AI healthcare training",
       "excerpt": "Nvidia Corp. is stepping up its efforts in healthcare with today’s launch of its Medical Open Network for AI, or Monai, an open-source framework that’s used to train artificial intelligence-powered models for medical imaging.",

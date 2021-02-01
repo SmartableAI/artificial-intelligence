@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-12-28-this-ai-startup-rents-out-robots-that-can-do-human-jobs-amid-the-coronavirus-pandemic.md",
+      "title": "This AI startup rents out robots that can do human jobs amid the coronavirus pandemic",
+      "excerpt": "is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/video/vicarious-rent-robot-warehouse-coronavirus/",
+      "originalUrl": "https://mashable.com/video/vicarious-rent-robot-warehouse-coronavirus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F04%252F02%252F3c%252Ff7b8f42a453041b9aa48e8a0173d8bba.dc6de.jpg%252F1200x630.jpg?signature=5wuERepKvCbo6rZUr4s8AQZeVHg=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/video/vicarious-rent-robot-warehouse-coronavirus.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/vicarious-rent-robot-warehouse-coronavirus.amp",
+      "publishedDateTime": "2020-12-27T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-27-hyderabad-based-start-up-builds-robotic-disinfectant-to-fight-covid-19.md",
       "title": "Hyderabad-based start-up builds robotic disinfectant to fight Covid-19",
       "excerpt": "Bots works on developing various artificial intelligence (AI) robots and also works on research and development (R&D) of various real-time issues",
@@ -1371,58 +1414,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-entertainment-robots-market-new-opportunities-for-sustained-growth-and-expansion-with-covid-19-impact-2020-2026.md",
-      "title": "Entertainment Robots Market New Opportunities for Sustained Growth and Expansion (With Covid-19 Impact) 2020-2026",
-      "excerpt": "Global Entertainment Robots Market Growth 2020-2026 This study specially analyses the impact of Covid-19 outbreak",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/entertainment-robots-market-new-opportunities-for-sustained-growth-and-expansion-with-covid-19-impact-2020-2026-2020-12-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/entertainment-robots-market-new-opportunities-for-sustained-growth-and-expansion-with-covid-19-impact-2020-2026-2020-12-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-11T05:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

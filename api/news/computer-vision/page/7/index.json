@@ -2,6 +2,144 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-11-30-brazil-trials-facial-recognition-with-retired-public-servants.md",
+      "title": "Brazil trials facial recognition with retired public servants",
+      "excerpt": "The Brazilian government has announced a facial recognition trial with retired public servants to support the process of periodic verification that the beneficiary is alive in order to continue receiving of benefits.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/brazil-trials-facial-recognition-with-retired-public-servants/",
+      "originalUrl": "https://www.zdnet.com/article/brazil-trials-facial-recognition-with-retired-public-servants/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/brazil-trials-facial-recognition-with-retired-public-servants/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brazil-trials-facial-recognition-with-retired-public-servants/",
+      "publishedDateTime": "2020-11-30T05:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-28-t-tops-in-use-of-facial-recognition-technology.md",
+      "title": "T tops in use of facial recognition technology",
+      "excerpt": "Hyderabad: The Internet Freedom Foundation (IFF) on Friday said that Telangana has been using the highest number of facial recognition technologies in.",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/city/hyderabad/t-tops-in-use-of-facial-recognition-technology/articleshow/79454173.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/city/hyderabad/t-tops-in-use-of-facial-recognition-technology/articleshow/79454173.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/msid-79454171/79454171.jpg",
+          "width": 800,
+          "height": 406,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/city/hyderabad/t-tops-in-use-of-facial-recognition-technology/amp_articleshow/79454173.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/hyderabad/t-tops-in-use-of-facial-recognition-technology/amp_articleshow/79454173.cms",
+      "publishedDateTime": "2020-11-27T15:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-28-uganda-is-using-huaweis-facial-recognition-tech-to-crack-down-on-dissent-after-anti-government-protests.md",
+      "title": "Uganda is using Huawei’s facial recognition tech to crack down on dissent after anti-government protests",
+      "excerpt": "Uganda's national CCTV system installed by Huawei has 83 monitoring centers, 522 operators and 50 commanders according to president Museveni",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/huawei-technicians-helped-african-governments-spy-on-political-opponents-11565793017",
+      "originalUrl": "https://qz.com/africa/1938976/uganda-uses-chinas-huawei-facial-recognition-to-snare-protesters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-96392/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-27T10:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-11-27-another-city-is-using-crime-control-as-an-excuse-for-facial-recognition-surveillance.md",
       "title": "Another City Is Using Crime Control as an Excuse for Facial Recognition Surveillance",
       "excerpt": "Varanasi in India is installing 3,000 CCTV cameras with automated facial recognition tech at the city’s crossings.",

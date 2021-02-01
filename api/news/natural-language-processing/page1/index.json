@@ -167,7 +167,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-2021-share-growth-trend-industry-analysis-and-forecast-to-2026-2021-01-29",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -264,6 +264,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-29-googles-updated-voice-access-leverages-ai-to-detect-in-app-icons.md",
+      "title": "Google’s updated Voice Access leverages AI to detect in-app icons",
+      "excerpt": "Google says it's leveraging AI to detect in-app icons, toward the goal of making Android apps more accessible.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/28/googles-updated-voice-access-leverages-ai-to-detect-in-app-icons/",
+      "originalUrl": "https://venturebeat.com/2021/01/28/googles-updated-voice-access-leverages-ai-to-detect-in-app-icons/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1281329514.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/28/googles-updated-voice-access-leverages-ai-to-detect-in-app-icons/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/28/googles-updated-voice-access-leverages-ai-to-detect-in-app-icons/amp/",
+      "publishedDateTime": "2021-01-28T12:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-28-the-great-free-speech-reversal.md",
       "title": "The Great Free-Speech Reversal",
       "excerpt": "Liberals once believed that private corporations have far too much power over the flow of ideas and information in today’s society. Now it’s conservatives who are worried.",
@@ -324,7 +376,7 @@
       "originalUrl": "https://www.reuters.com/article/china-growing-use-of-emotion-recognition-idUSL8N2K2500",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 179,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1419,51 +1471,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-worried-about-your-firms-ai-ethics-these-startups-are-here-to-help.md",
-      "title": "Worried about your firm’s AI ethics? These startups are here to help.",
-      "excerpt": "A growing ecosystem of “responsible AI” ventures promise to help organizations monitor and fix their AI models.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2021/01/15/1016183/ai-ethics-startups/",
-      "originalUrl": "https://www.technologyreview.com/2021/01/15/1016183/ai-ethics-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/01/GettyImages-589006098.jpeg?w=3000",
-          "width": 3000,
-          "height": 1687,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2021/01/15/1016183/ai-ethics-startups/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/01/15/1016183/ai-ethics-startups/amp/",
-      "publishedDateTime": "2021-01-15T03:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI",
-        "Natural Language Processing"
       ]
     }
   ],

@@ -7,8 +7,8 @@ originalUrl: "https://www.techrepublic.com/videos/ai-ethics-the-future-of-ai-cou
 webUrl: "https://www.techrepublic.com/videos/ai-ethics-the-future-of-ai-could-become-scary/"
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 104
+published: true
 
 provider:
   name: TechRepublic
@@ -29,21 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI Ethics Really Come Down To Security"
-    excerpt: "If we're going to rely on them to take more active and responsible roles in our lives, we must be able to trust that they're not only ethical but that the AI and the machine learning that underpins them operate safely and securely."
-    publishedDateTime: 2021-01-27T13:50:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/01/27/ai-ethics-really-come-down-to-security/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/01/27/ai-ethics-really-come-down-to-security/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/27/ai-ethics-really-come-down-to-security/amp/"
+  - title: "Worried About Your Firm’s AI Ethics? These Startups Are Here to Help."
+    excerpt: "A growing ecosystem of “responsible AI” ventures promise to help organizations monitor and fix their AI models. Rumman Chowdhury’s job used to involve a lot of translation. As the “responsible AI” lead at the consulting firm Accenture,"
+    publishedDateTime: 2021-01-31T15:58:00Z
+    webUrl: "https://www.predictiveanalyticsworld.com/machinelearningtimes/worried-about-your-firms-ai-ethics-these-startups-are-here-to-help/11942/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 123
+      name: Predictive Analytics World
+      domain: predictiveanalyticsworld.com
+    quality: 56
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f353f32349adf926e0401fb%2F0x0.jpg"
-        width: 1200
-        height: 943
+      - url: "https://www.predictiveanalyticsworld.com/machinelearningtimes/wp-content/uploads/2020/10/MSDS_270x270_LM.gif"
+        width: 270
+        height: 270
         isCached: true
   - title: "Sharing Our AI Ethics Framework"
     excerpt: "Artificial intelligence (AI) is one of the biggest technology revolutions of our time. In the same way we have electrified factories and machines in the past century, we will infuse AI into every software and system in the 21st century."

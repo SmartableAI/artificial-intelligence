@@ -40,7 +40,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 61
+    quality: 63
   - title: "New Global Rackspace Technology Study reveals widespread knowledge gap in artificial intelligence and machine learning Nasdaq: RXT"
     excerpt: "New Global Rackspace Technology Study reveals widespread knowledge gap in artificial intelligence and machine learning Nasdaq: RXT SAN"
     publishedDateTime: 2021-01-28T16:18:00Z

@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Manufacturing Market is Growing at a 41.2% to Reach $18.8 billion by 2027"
-    excerpt: "Artificial Intelligence in Manufacturing Market is expected to reach $18.8 billion by 2027, at a CAGR of 41.2% during"
-    publishedDateTime: 2021-01-27T13:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-is-growing-at-a-412-to-reach-188-billion-by-2027-2021-01-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) in Manufacturing Market Size is USD 4798 Million by 2026 at CAGR 28.1% | Valuates Reports"
     excerpt: "Artificial Intelligence in Manufacturing Market is Segmented by Type (Deep Learning, Computer Vision, Context Awareness, NLP), by"
     publishedDateTime: 2021-01-28T13:30:00Z

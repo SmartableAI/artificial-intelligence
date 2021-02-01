@@ -47,7 +47,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 61
+    quality: 63
   - title: "New Global Rackspace Technology Study Uncovers Widespread Artificial Intelligence and Machine ..."
     excerpt: "Rackspace Technology™ (NASDAQ: RXT), a leading end-to-end, multicloud technology solutions company today announced the results of a global survey that reveals that the majority of organizations globally lack the internal resources to support critical artificial intelligence (AI) and machine learning (ML) initiatives."
     publishedDateTime: 2021-01-28T17:09:00Z

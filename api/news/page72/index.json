@@ -2,6 +2,386 @@
   "page": 72,
   "value": [
     {
+      "path": "_news/2020-12-03-siemens-smart-infrastructure-chooses-aws-as-its-preferred-cloud-provider-for-sap-environments.md",
+      "title": "Siemens Smart Infrastructure Chooses AWS as Its Preferred Cloud Provider for SAP Environments",
+      "excerpt": "Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), announced that Siemens Smart Infrastructure, a business of the Siemens AG group focusing on energy distribution and intelligent buildings,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedailytimes.com/business/siemens-smart-infrastructure-chooses-aws-as-its-preferred-cloud-provider-for-sap-environments/article_26822ddb-7015-5e2d-b7fa-9e73229e908a.html",
+      "originalUrl": "https://www.thedailytimes.com/business/siemens-smart-infrastructure-chooses-aws-as-its-preferred-cloud-provider-for-sap-environments/article_26822ddb-7015-5e2d-b7fa-9e73229e908a.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/custom/image/4c01e2ce-7067-11e6-87cd-0725ce0cc960.jpg?resize=600%2C600",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-02T23:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "thedailytimes.com",
+        "domain": "thedailytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-rheinmetalls-new-armed-reconnaissance-robot-also-provides-fire-support.md",
+      "title": "Rheinmetall's new armed reconnaissance robot also provides fire support",
+      "excerpt": "Rheinmetall has unveiled its latest armed battlefield robot designed for tactical intelligence gathering and combat support. Part of the company's Mission Master Autonomous – Unmanned Ground Vehicle (A-UGV) family,",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/military/rheinmetall-armed-reconnaissance-combat-robot/",
+      "originalUrl": "https://newatlas.com/military/rheinmetall-armed-reconnaissance-combat-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/049c99c/2147483647/strip/true/crop/750x500+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff8%2F87%2F47e1a4a649a48f97e9c190fc8296%2Fugv-mission-master-armed-reconnaissance-2-bunker.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/military/rheinmetall-armed-reconnaissance-combat-robot/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/military/rheinmetall-armed-reconnaissance-combat-robot/?amp=true",
+      "publishedDateTime": "2020-12-02T22:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-self-driving-robotaxis-are-taking-off-in-china.md",
+      "title": "Self-driving robotaxis are taking off in China",
+      "excerpt": "The Shenzhen-based firm focuses on making the technology that goes into self-driving cars, and partners with major automakers, such as Fiat Chrysler, to develop and put out its robotaxis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2020/12/03/tech/autox-robotaxi-china-intl-hnk/index.html",
+      "originalUrl": "https://www.cnn.com/2020/12/03/tech/autox-robotaxi-china-intl-hnk/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201202134709-autox-driverless-fleet-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/03/tech/autox-robotaxi-china-intl-hnk/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/tech/autox-robotaxi-china-intl-hnk/index.html",
+      "publishedDateTime": "2020-12-02T21:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-deep-learning-chipset-market-2020-analysis-and-in-depth-research-on-market-dynamics-trends-emerging-growth-factors-and-forecasts-to-2026.md",
+      "title": "Deep Learning Chipset Market 2020 Analysis and In-Depth Research on Market Dynamics, Trends, Emerging Growth Factors and Forecasts To 2026",
+      "excerpt": "Global “Deep Learning Chipset Market” report 2020 is an overview of the market is provided with prime focus on",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chipset-market-2020-analysis-and-in-depth-research-on-market-dynamics-trends-emerging-growth-factors-and-forecasts-to-2026-2020-12-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-chipset-market-2020-analysis-and-in-depth-research-on-market-dynamics-trends-emerging-growth-factors-and-forecasts-to-2026-2020-12-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-02T21:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-deepmind-claims-major-breakthrough-in-understanding-proteins.md",
+      "title": "DeepMind claims major breakthrough in understanding proteins",
+      "excerpt": "London — DeepMind, the UK-based artificial intelligence (AI) company owned by Alphabet, has said it can predict the structure of proteins, a breakthrough that could dramatically speed up the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesslive.co.za/ft/life/2020-12-03-deepmind-claims-major-breakthrough-in-understanding-proteins/",
+      "originalUrl": "https://www.businesslive.co.za/ft/life/2020-12-03-deepmind-claims-major-breakthrough-in-understanding-proteins/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/mAnoa0U_lK0Ey0sETH_8Cp3TWLVn8px8Y81UEwCAVdthDEEmB7fLdcYb9TGrGaBgT5xJRtTGFvHkbf3unbPkjdGsuOZJKbm0=s1000",
+          "width": 594,
+          "height": 395,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businesslive.co.za/amp/ft/life/2020-12-03-deepmind-claims-major-breakthrough-in-understanding-proteins/",
+      "cdnAmpWebUrl": "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/ft/life/2020-12-03-deepmind-claims-major-breakthrough-in-understanding-proteins/",
+      "publishedDateTime": "2020-12-02T21:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "businesslive.co.za",
+        "domain": "businesslive.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-intel-has-been-missing-an-ai-business-to-compete-with-nvidia-its-finally-here.md",
+      "title": "Intel Has Been Missing an AI Business to Compete With Nvidia. It’s Finally Here.",
+      "excerpt": "The chip maker has partnered with Amazon to offer Intel hardware to power the deep learning training used in applications like virtual assistants.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702?refsec=technology",
+      "originalUrl": "https://www.barrons.com/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702?refsec=technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-267539/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702",
+      "publishedDateTime": "2020-12-02T21:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-global-artificial-intelligence-ai-for-security-market-2020-key-aspects-of-the-industry-by-segments-to-2025.md",
+      "title": "Global Artificial Intelligence (AI) for Security Market 2020 Key Aspects of the Industry by Segments to 2025",
+      "excerpt": "The latest market study published by MarketQuest.biz entitled Global Artificial Intelligence (AI) for Security Market 2020 by Company, Type and Application, Forecast to 2025 comprises an outline of the market with crucial data in the form of tables,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-for-security-market-2020-key-aspects-of-the-industry-by-segments-to-2025-2020-12-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-for-security-market-2020-key-aspects-of-the-industry-by-segments-to-2025-2020-12-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-02T18:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-spain-to-invest-720m-in-artificial-intelligence.md",
+      "title": "Spain to invest $720M in artificial intelligence",
+      "excerpt": "OVIEDO, Spain Spanish Prime Minister Pedro Sanchez unveiled Spain’s national artificial intelligence strategy Wednesday, which will see €600 million ($720",
+      "sourceUrl": null,
+      "webUrl": "https://turkishpress.com/spain-to-invest-720m-in-artificial-intelligence/",
+      "originalUrl": "https://turkishpress.com/spain-to-invest-720m-in-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.turkishpress.com/2020/12/02142539/thumbs_b_c_d964d85c0b58d7f3b08c1b17631787d9.jpg",
+          "width": 864,
+          "height": 486,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://turkishpress.com/spain-to-invest-720m-in-artificial-intelligence/?amp",
+      "cdnAmpWebUrl": "https://turkishpress-com.cdn.ampproject.org/c/s/turkishpress.com/spain-to-invest-720m-in-artificial-intelligence/?amp",
+      "publishedDateTime": "2020-12-02T17:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Turkish Press",
+        "domain": "turkishpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-12-03-massachusetts-legislators-vote-to-ban-police-from-using-facial-recognition-technology.md",
       "title": "Massachusetts Legislators Vote to Ban Police From Using Facial Recognition Technology",
       "excerpt": "Lawmakers in Massachusetts have taken the rare step back from our inevitable, Minority Report-lite future by voting to ban police departments from using facial recognition technology.",
@@ -796,407 +1176,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-ipo-launch-c3ai-proposes-terms-for-504-million-ipo.md",
-      "title": "IPO Launch: C3.ai Proposes Terms For $504 Million IPO",
-      "excerpt": "Redwood City, California-based C3 was founded to develop a suite of machine learning software capabilities to help businesses make better decisions and optimize their operations and strategic activities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/ipo/news/c3ai-ipo-launch",
-      "originalUrl": "https://www.thestreet.com/ipo/news/c3ai-ipo-launch",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cq_auto:good%2Cw_620/MTc3MDQ4ODU5NTk0MjA0MzAz/c3logo.png",
-          "width": 619,
-          "height": 369,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp-ipo/ipo/news/c3ai-ipo-launch",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp-ipo/ipo/news/c3ai-ipo-launch",
-      "publishedDateTime": "2020-12-02T09:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-intel-announces-gold-release-of-oneapi-toolkits-and-new-intel-server-gpu.md",
-      "title": "Intel Announces Gold Release Of OneAPI Toolkits And New Intel Server GPU",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives deeper as a few weeks ago, Intel announced its gold release of the oneAPI toolkit and its first discrete graphics card for the data center, the Intel Server GPU.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/12/02/intel-announces-gold-release-of-oneapi-toolkits-and-new-intel-server-gpu/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/12/02/intel-announces-gold-release-of-oneapi-toolkits-and-new-intel-server-gpu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc7caa95de0fbc120ad3dbe%2F0x0.png",
-          "width": 626,
-          "height": 508,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/12/02/intel-announces-gold-release-of-oneapi-toolkits-and-new-intel-server-gpu/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2020/12/02/intel-announces-gold-release-of-oneapi-toolkits-and-new-intel-server-gpu/amp/",
-      "publishedDateTime": "2020-12-02T09:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-introducing-aws-panorama-improve-your-operations-with-computer-vision-at-the-edge.md",
-      "title": "Introducing AWS Panorama – Improve your operations with computer vision at the edge",
-      "excerpt": "Yesterday at AWS re:Invent 2020, we announced AWS Panorama, a new machine learning (ML) Appliance and SDK, which allows organizations to bring computer vision (CV) to their on-premises cameras to make automated predictions with high accuracy and low latency. In this post, you learn how customers across",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-aws-panorama-improve-your-operations-with-computer-vision-at-the-edge/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-aws-panorama-improve-your-operations-with-computer-vision-at-the-edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/01/Panorama-Device.jpg",
-          "width": 501,
-          "height": 404,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-02T09:12:04-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-why-intel-believes-confidential-computing-will-boost-ai-and-machine-learning.md",
-      "title": "Why Intel believes confidential computing will boost AI and machine learning",
-      "excerpt": "Intel believes confidential computing will allow enterprises to explore new ways to share the data needed to fuel AI and machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/02/why-intel-believes-confidential-computing-will-boost-ai-and-machine-learning/",
-      "originalUrl": "https://venturebeat.com/2020/12/02/why-intel-believes-confidential-computing-will-boost-ai-and-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/intelcc-1-e1606747265903.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/02/why-intel-believes-confidential-computing-will-boost-ai-and-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/02/why-intel-believes-confidential-computing-will-boost-ai-and-machine-learning/amp/",
-      "publishedDateTime": "2020-12-02T09:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-madison-wis-bans-city-agency-use-of-facial-recognition.md",
-      "title": "Madison, Wis., Bans City Agency Use of Facial Recognition",
-      "excerpt": "The Madison City Council has now banned all internal city agencies, including the Madison Police Department, from using new facial recognition technology for any functional reasons or purposes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/public-safety/Madison-Wis-Bans-City-Agency-Use-of-Facial-Recognition.html",
-      "originalUrl": "https://www.govtech.com/public-safety/Madison-Wis-Bans-City-Agency-Use-of-Facial-Recognition.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.govtech.com/images/shutterstock_1392652700.jpg",
-          "width": 939,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/public-safety/Madison-Wis-Bans-City-Agency-Use-of-Facial-Recognition.html?AMP",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Madison-Wis-Bans-City-Agency-Use-of-Facial-Recognition.html?AMP",
-      "publishedDateTime": "2020-12-02T08:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-sight-tech-global-is-live-join-top-ai-technologists-and-accessibility-innovators-discuss-the-future-of-assistive-tech.md",
-      "title": "Sight Tech Global is Live! Join top AI technologists and accessibility innovators discuss the future of assistive tech",
-      "excerpt": "Today and tomorrow, from 8 a.m. to 12:30 p.m. the first annual, virtual event Sight Tech Global is streaming on TechCrunch. The event looks at how AI-based technologies are rapidly changing the field of accessibility,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/02/sight-tech-global-is-live-join-top-ai-technologists-and-accessibility-innovators-discuss-the-future-of-assistive-tech/",
-      "originalUrl": "https://techcrunch.com/2020/12/02/sight-tech-global-is-live-join-top-ai-technologists-and-accessibility-innovators-discuss-the-future-of-assistive-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/08/sight-tech-global-1000px-v2.jpg?w=1000",
-          "width": 1000,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/12/02/sight-tech-global-is-live-join-top-ai-technologists-and-accessibility-innovators-discuss-the-future-of-assistive-tech/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/02/sight-tech-global-is-live-join-top-ai-technologists-and-accessibility-innovators-discuss-the-future-of-assistive-tech/amp/",
-      "publishedDateTime": "2020-12-02T08:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-wyatt-earp-or-ringo-starr-facial-recognition-meets-its-match-with-old-west-photos.md",
-      "title": "Wyatt Earp or Ringo Starr? Facial Recognition Meets Its Match With Old West Photos",
-      "excerpt": "Amateurs collectors use software to identify famous figures, but experts are skeptical.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/facial-recognition-software-old-west-outlaw-photos-11606922350",
-      "originalUrl": "https://www.wsj.com/articles/facial-recognition-software-old-west-outlaw-photos-11606922350",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-266353/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/facial-recognition-software-old-west-outlaw-photos-11606922350",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facial-recognition-software-old-west-outlaw-photos-11606922350",
-      "publishedDateTime": "2020-12-02T07:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-us-parents-now-more-accepting-of-robots-in-childrens-healthcare-study-shows.md",
-      "title": "US parents now more accepting of robots in children's healthcare, study shows",
-      "excerpt": "The COVID-19 pandemic has forced everyone to be more trusting of robots and AI in healthcare. Tufts professor discusses changes in attitudes toward technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/us-parents-now-more-accepting-of-robots-in-childrens-healthcare-study-shows/",
-      "originalUrl": "https://www.techrepublic.com/article/us-parents-now-more-accepting-of-robots-in-childrens-healthcare-study-shows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/12/02/b0b14d54-ced1-4968-a198-84015744bb49/resize/1200x/98f2f39d9b8b7d497b578adc563e2d6b/istock-1060861828.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/us-parents-now-more-accepting-of-robots-in-childrens-healthcare-study-shows/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/us-parents-now-more-accepting-of-robots-in-childrens-healthcare-study-shows/",
-      "publishedDateTime": "2020-12-02T07:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-07-google-ai-researchers-exit-sparks-ethics-bias-concerns.md",
+      "title": "Google AI researcher's exit sparks ethics, bias concerns",
+      "excerpt": "Prominent artificial intelligence scholar Timnit Gebru helped improve Google's public image as a company that elevates Black computer scientists and questions harmful uses of AI technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pressdemocrat.com/article/business/google-ai-researchers-exit-sparks-ethics-bias-concerns/",
+      "originalUrl": "https://www.pressdemocrat.com/article/business/google-ai-researchers-exit-sparks-ethics-bias-concerns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imengine.prod.srp.navigacloud.com?uuid=a9f6fcd4-7b22-5bbd-bbcf-5bdd66cd7fff&type=primary&q=72&width=1200",
+          "width": 1199,
+          "height": 822,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pressdemocrat.com/article/business/google-ai-researchers-exit-sparks-ethics-bias-concerns/amp/",
+      "cdnAmpWebUrl": "https://www-pressdemocrat-com.cdn.ampproject.org/c/s/www.pressdemocrat.com/article/business/google-ai-researchers-exit-sparks-ethics-bias-concerns/amp/",
+      "publishedDateTime": "2020-12-07T00:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Santa Rosa Press Democrat",
+        "domain": "pressdemocrat.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-07-google-ai-researcher-pushed-out-amid-ethics-concerns.md",
       "title": "Google AI Researcher Pushed Out Amid Ethics Concerns",
       "excerpt": "She examined the risks of computer systems that analyze huge language databases to create their own human-like text.",

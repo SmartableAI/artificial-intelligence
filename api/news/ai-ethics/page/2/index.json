@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-17-incoming-white-house-science-and-technology-leader-on-ai-diversity-and-society.md",
+      "title": "Incoming White House science and technology leader on AI, diversity, and society",
+      "excerpt": "Incoming White House science and technology leader Dr. Alondra Nelson addressed the relationship between AI development an inclusion.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/16/incoming-white-house-science-and-technology-leader-on-ai-diversity-and-society/",
+      "originalUrl": "https://venturebeat.com/2021/01/16/incoming-white-house-science-and-technology-leader-on-ai-diversity-and-society/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/alondra-nelson.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/16/incoming-white-house-science-and-technology-leader-on-ai-diversity-and-society/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/16/incoming-white-house-science-and-technology-leader-on-ai-diversity-and-society/amp/",
+      "publishedDateTime": "2021-01-16T15:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-01-16-former-dod-head-the-us-needs-a-new-plan-to-beat-china-on-ai.md",
       "title": "Former DOD Head: The US Needs a New Plan to Beat China on AI",
       "excerpt": "In an interview with WIRED, former secretary of defense Ash Carter discussed how to build morality into AI—and make sure other countries do too.",
@@ -1389,58 +1441,6 @@
         "AI",
         "Machine Learning",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-27-the-increasing-use-of-ai-in-the-pharmaceutical-industry.md",
-      "title": "The Increasing Use Of AI In The Pharmaceutical Industry",
-      "excerpt": "For AI ethics and transparency, we make sure MLOps processes are in place, and Machine learning (ML) models model scoring is established, monitoring and drift detection, the feedback loop is transparently followed. We bring a diverse ML team with diverse ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/12/26/the-increasing-use-of-ai-in-the-pharmaceutical-industry/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2020/12/26/the-increasing-use-of-ai-in-the-pharmaceutical-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe7b0c464ca6c458d7d92a7%2F0x0.jpg",
-          "width": 1200,
-          "height": 1500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/12/26/the-increasing-use-of-ai-in-the-pharmaceutical-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/12/26/the-increasing-use-of-ai-in-the-pharmaceutical-industry/amp/",
-      "publishedDateTime": "2020-12-26T14:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

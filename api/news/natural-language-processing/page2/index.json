@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-15-worried-about-your-firms-ai-ethics-these-startups-are-here-to-help.md",
+      "title": "Worried about your firm’s AI ethics? These startups are here to help.",
+      "excerpt": "A growing ecosystem of “responsible AI” ventures promise to help organizations monitor and fix their AI models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2021/01/15/1016183/ai-ethics-startups/",
+      "originalUrl": "https://www.technologyreview.com/2021/01/15/1016183/ai-ethics-startups/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/01/GettyImages-589006098.jpeg?w=3000",
+          "width": 3000,
+          "height": 1687,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2021/01/15/1016183/ai-ethics-startups/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/01/15/1016183/ai-ethics-startups/amp/",
+      "publishedDateTime": "2021-01-15T03:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Facebook AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-01-15-claude-shannons-information-theory-and-language-models.md",
       "title": "Claude Shannon's information theory and Language Models",
       "excerpt": "If you work in machine learning, you would have to be living under a rock if you are not aware of the big revolution that language models have brought to the area of Natural Language Processing. Language models make the assumption that natural language can be regarded as a stochastic process,",
@@ -1340,58 +1385,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-04-global-natural-language-processing-nlp-market-2020-demand-industry-synopsis-operational-efficiency-and-market-capitalization-by-2025.md",
-      "title": "Global Natural Language Processing (NLP) Market 2020 Demand, Industry Synopsis, Operational Efficiency and Market Capitalization by 2025",
-      "excerpt": "The statistical report titled Global Natural Language Processing (NLP) Market Growth (Status and Outlook) 2020-2025 has all the important market aspects penciled down in a understandable language format.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-market-2020-demand-industry-synopsis-operational-efficiency-and-market-capitalization-by-2025-2021-01-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-market-2020-demand-industry-synopsis-operational-efficiency-and-market-capitalization-by-2025-2021-01-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-03T22:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

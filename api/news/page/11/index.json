@@ -2,6 +2,386 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-01-22-competing-in-the-age-of-ai.md",
+      "title": "Competing in the Age of AI",
+      "excerpt": "Spun out of Alibaba, Ant Financial uses artificial intelligence and data from Alipay ... products (like Amazon’s warehouse robots or Waymo, Google’s self-driving car service).",
+      "sourceUrl": null,
+      "webUrl": "https://hbr.org/2020/01/competing-in-the-age-of-ai?registration=success",
+      "originalUrl": "https://hbr.org/2020/01/competing-in-the-age-of-ai?registration=success",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hbr.org/resources/images/article_assets/2019/12/R2001C_GUY.jpg",
+          "width": 4000,
+          "height": 1880,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://hbr.org/amp/2020/01/competing-in-the-age-of-ai",
+      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/01/competing-in-the-age-of-ai",
+      "publishedDateTime": "2021-01-21T10:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-threat-detection-and-security-are-aided-by-integrated-machine-learning-artificial-intelligence.md",
+      "title": "Threat Detection And Security Are Aided By Integrated Machine Learning / Artificial Intelligence",
+      "excerpt": "Government buildings, airports, and other buildings at risk from terror attacks, whether from individuals or organizations, need more security that visual tracking of potential threats. In addressing these complex needs,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2021/01/21/threat-detection-and-security-are-aided-by-integrated-machine-learning--artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2021/01/21/threat-detection-and-security-are-aided-by-integrated-machine-learning--artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D876%26cropY1%3D20%26cropY2%3D514",
+          "width": 876,
+          "height": 494,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2021/01/21/threat-detection-and-security-are-aided-by-integrated-machine-learning--artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/01/21/threat-detection-and-security-are-aided-by-integrated-machine-learning--artificial-intelligence/amp/",
+      "publishedDateTime": "2021-01-21T10:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-new-google-union-condemns-investigation-of-ai-ethics-researcher.md",
+      "title": "New Google union condemns investigation of AI ethics researcher",
+      "excerpt": "A union of workers at Google and its parent company Alphabet is condemning Google's investigation of an AI ethics researcher.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxbusiness.com/technology/google-union-investigation-ai-ethics-researcher",
+      "originalUrl": "https://www.foxbusiness.com/technology/google-union-investigation-ai-ethics-researcher",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.foxbusiness.com/BrightCove/854081161001/202012/226/854081161001_6218250239001_6218243109001-vs.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxbusiness.com/technology/google-union-investigation-ai-ethics-researcher.amp",
+      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/google-union-investigation-ai-ethics-researcher.amp",
+      "publishedDateTime": "2021-01-21T10:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox Business",
+        "domain": "foxbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-cisco-uses-ai-to-add-hand-gestures-to-webex.md",
+      "title": "Cisco uses AI to add hand gestures to Webex",
+      "excerpt": "Cisco is bringing hand gestures to its Webex video conferencing software to make it easier for participants to express themselves even while on mute. Gestures and non-verbal cues have long been an important part of face-to-face meetings as they allow a speaker to emphasize or support their ideas and give the audience a chance to provide real-time feedback.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/cisco-uses-ai-to-add-hand-gestures-to-webex",
+      "originalUrl": "https://www.techradar.com/news/cisco-uses-ai-to-add-hand-gestures-to-webex",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/4WKi6coauTPjCXCiWYscdW-1200-80.jpg",
+          "width": 721,
+          "height": 403,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/cisco-uses-ai-to-add-hand-gestures-to-webex",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/cisco-uses-ai-to-add-hand-gestures-to-webex",
+      "publishedDateTime": "2021-01-21T10:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-ai-in-computer-vision-technology-and-the-impact-on-healthcare.md",
+      "title": "AI in Computer Vision Technology and the Impact on Healthcare",
+      "excerpt": "In this episode of Impetus Digital’s Fireside Chat, Moshe Safran, CEO at RSIP Vision USA discusses a range of topics related to computer vision, AI, and deep learning in medical imaging, surgery, and healthcare, including the work that RSIP Vision is doing in these fields.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pmlive.com/pmhub/pharmaceutical_branding/impetus_digital/videos/ai_in_computer_vision_technology_and_the_impact_on_healthcare",
+      "originalUrl": "https://www.pmlive.com/pmhub/pharmaceutical_branding/impetus_digital/videos/ai_in_computer_vision_technology_and_the_impact_on_healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-21T10:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PMLiVE",
+        "domain": "pmlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-how-to-find-your-purpose-in-life-using-emotional-ai.md",
+      "title": "How To Find Your Purpose In Life Using Emotional AI",
+      "excerpt": "Aliya Grig, Founder of The Human Cosmos, recently released the brand's mental wellness app that uses emotional AI-powered technology to create personalized recommendations to help users find their purpose in life.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/njfalk/2021/01/21/how-to-find-your-purpose-in-life-using-emotional-ai/",
+      "originalUrl": "https://www.forbes.com/sites/njfalk/2021/01/21/how-to-find-your-purpose-in-life-using-emotional-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600617850dc6c7010ea3edb3%2F0x0.jpg%3FcropX1%3D47%26cropX2%3D1442%26cropY1%3D0%26cropY2%3D997",
+          "width": 1200,
+          "height": 858,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/njfalk/2021/01/21/how-to-find-your-purpose-in-life-using-emotional-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/njfalk/2021/01/21/how-to-find-your-purpose-in-life-using-emotional-ai/amp/",
+      "publishedDateTime": "2021-01-21T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-self-driving-cars-being-blocked-by-human-drivers-using-road-bouldering-tactics.md",
+      "title": "Self-Driving Cars Being Blocked By Human Drivers Using Road Bouldering Tactics",
+      "excerpt": "Human drivers use road bouldering to block other cars, and the question arises as to how self-driving cars will handle such machinations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/01/21/self-driving-cars-being-blocked-by-human-drivers-using-road-bouldering-tactics/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/01/21/self-driving-cars-being-blocked-by-human-drivers-using-road-bouldering-tactics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6008b4ae194950933a679a95%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5200%26cropY1%3D264%26cropY2%3D3189",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/01/21/self-driving-cars-being-blocked-by-human-drivers-using-road-bouldering-tactics/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/01/21/self-driving-cars-being-blocked-by-human-drivers-using-road-bouldering-tactics/amp/",
+      "publishedDateTime": "2021-01-21T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-ai-spacefarers-and-cosmic-testbeds-robust-robotic-systems-forge-path-for-human-space-exploration.md",
+      "title": "AI spacefarers and cosmic testbeds: Robust robotic systems forge path for human space exploration",
+      "excerpt": "With global dust storms, extreme temperature fluctuations, and cosmic radiation, life beyond the Earth's comparatively cozy confines is no picnic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ai-spacefarers-and-cosmic-testbeds-robust-robotic-systems-forge-path-for-human-space-exploration/",
+      "originalUrl": "https://www.techrepublic.com/article/ai-spacefarers-and-cosmic-testbeds-robust-robotic-systems-forge-path-for-human-space-exploration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/07/16/c951a0d1-cc8b-46da-988f-c58fe571e60b/resize/1200x/c86c0af5787ca81d7c75643556e811bc/mars-2020.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-spacefarers-and-cosmic-testbeds-robust-robotic-systems-forge-path-for-human-space-exploration/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-spacefarers-and-cosmic-testbeds-robust-robotic-systems-forge-path-for-human-space-exploration/",
+      "publishedDateTime": "2021-01-21T07:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-artificial-intelligence-researchers-rank-the-top-ai-labs-worldwide.md",
       "title": "Artificial intelligence researchers rank the top A.I. labs worldwide",
       "excerpt": "Artificial intelligence researchers don’t like it when you ask them to name the top AI labs in the world, possibly because it’s so hard to answer. There are some obvious contenders. U.S. Big Tech — Google,",
@@ -836,403 +1216,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-conversational-artificial-intelligence-ai-market-expectations-and-growth-trends-highlighted-until-2024.md",
-      "title": "Conversational Artificial Intelligence (AI) Market Expectations and Growth Trends Highlighted Until 2024",
-      "excerpt": "Available Exclusive Sample Copy of this Report @  The global market for conversational artificial intelligence (AI) is estimated to grow at a significant rate during the forecast period from 2019 to 2024.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-ai-market-expectations-and-growth-trends-highlighted-until-2024-2021-01-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-ai-market-expectations-and-growth-trends-highlighted-until-2024-2021-01-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-21T03:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-artificial-intelligence-in-retail-market-to-witness-a-healthy-growth-by-2023.md",
-      "title": "Artificial Intelligence in Retail Market to Witness a Healthy Growth by 2023",
-      "excerpt": "Artificial Intelligence is expected to disrupt every business and enterprises across the world. One of the major factors",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-to-witness-a-healthy-growth-by-2023-2021-01-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-to-witness-a-healthy-growth-by-2023-2021-01-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-21T03:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-financial-forecasting-startup-springbox-ai-launches-its-apps-and-raises-2m.md",
-      "title": "Financial forecasting startup Springbox AI launches its apps and raises $2M",
-      "excerpt": "Springbox AI, an AI-powered financial forecasting application designed to replace financial market investment service and aimed at the average financial markets trader, has launched on iOS and Android.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/01/21/financial-forecasting-startup-springbox-ai-launches-its-apps-and-raises-2m/",
-      "originalUrl": "https://techcrunch.com/2021/01/21/financial-forecasting-startup-springbox-ai-launches-its-apps-and-raises-2m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/01/NEW-Kassem-Lahham-and-Fayze-Bouaouid-Co-Founders-of-Springbox-AI.jpg?w=937",
-          "width": 937,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/01/21/financial-forecasting-startup-springbox-ai-launches-its-apps-and-raises-2m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/21/financial-forecasting-startup-springbox-ai-launches-its-apps-and-raises-2m/amp/",
-      "publishedDateTime": "2021-01-21T03:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-trump-pardons-former-google-self-driving-car-engineer-anthony-levandowski.md",
-      "title": "Trump pardons former Google self-driving car engineer Anthony Levandowski",
-      "excerpt": "Donald Trump has given a full pardon to Anthony Levandowski, a former Google engineer who stole trade secret on self-driving cars.Read MoreRead",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/trump-pardons-former-google-self-driving-car-engineer-anthony-levandowski-9713165",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/trump-pardons-former-google-self-driving-car-engineer-anthony-levandowski-9713165",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/trump-pardons-former-google-self-driving-car-engineer-anthony-levandowski-9713165",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/trump-pardons-former-google-self-driving-car-engineer-anthony-levandowski-9713165",
-      "publishedDateTime": "2021-01-20T23:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-baidu-share-price-why-citi-and-jpmorgan-analysts-raised-their-price-targets-to-us290.md",
-      "title": "Baidu share price: Why Citi and JPMorgan analysts raised their price targets to US$290",
-      "excerpt": "Baidu share price: the latest. Chinese search engine company Baidu’s share price has burgeoned roughly 19% since announcing that it would be entering the electric vehicle (EV) s",
-      "sourceUrl": null,
-      "webUrl": "https://www.ig.com/sg/news-and-trade-ideas/baidu-share-price--why-citi-and-jpmorgan-analysts-raised-their-p-210121.amp",
-      "originalUrl": "https://www.ig.com/sg/news-and-trade-ideas/baidu-share-price--why-citi-and-jpmorgan-analysts-raised-their-p-210121.amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a.c-dn.net/c/content/igcom/en_SG/ig-financial-markets/market-news-and-analysis/news/2021/01/21/baidu-share-price--why-citi-and-jpmorgan-analysts-raised-their-p/_jcr_content/ArticleImage.adaptive.620.high.png/1611210712549.png",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ig.com/sg/news-and-trade-ideas/baidu-share-price--why-citi-and-jpmorgan-analysts-raised-their-p-210121.amp",
-      "cdnAmpWebUrl": "https://www-ig-com.cdn.ampproject.org/c/s/www.ig.com/sg/news-and-trade-ideas/baidu-share-price--why-citi-and-jpmorgan-analysts-raised-their-p-210121.amp",
-      "publishedDateTime": "2021-01-20T22:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ig.com",
-        "domain": "ig.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-university-of-pisa-leans-into-the-io-challenge-ai-applications-create.md",
-      "title": "University of Pisa leans into the I/O challenge AI applications create",
-      "excerpt": "University of Pisa adopts NVMesh software from Excelero to enable AI researchers to access Nvidia GPU servers more efficiently.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/20/university-of-pisa-leans-into-the-i-o-challenge-ai-applications-create/",
-      "originalUrl": "https://venturebeat.com/2021/01/20/university-of-pisa-leans-into-the-i-o-challenge-ai-applications-create/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/06/artificial_intelligence.GettyImages-1067543600.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 819,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/20/university-of-pisa-leans-into-the-i-o-challenge-ai-applications-create/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/20/university-of-pisa-leans-into-the-i-o-challenge-ai-applications-create/amp/",
-      "publishedDateTime": "2021-01-20T22:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-designing-customized-brains-for-robots.md",
-      "title": "Designing customized “brains” for robots",
-      "excerpt": "MIT researchers have developed an automated way to design customized hardware that speeds up a robot’s operation. The system, called robomorphic computing, accounts for the robot’s physical layout in suggesting an optimized hardware architecture.",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2021/robot-customized-hardware-0121",
-      "originalUrl": "https://news.mit.edu/2021/robot-customized-hardware-0121",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202101/Robomorphic-01-press.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-20T21:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Massachusetts Institute of Technology",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-kyligence-launches-revamped-cloud-native-olap-on-big-data-platform.md",
-      "title": "Kyligence launches revamped cloud-native OLAP-on-big-data platform",
-      "excerpt": "New version 4 of the BI + big data platform is based on Spark and Parquet, leverages machine learning and is optimized for cloud storage. It's available on the Azure Marketplace now and coming to the AWS Marketplace soon.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/kyligence-launches-cloud-native-big-data-olap-on-azure-marketplace/",
-      "originalUrl": "https://www.zdnet.com/article/kyligence-launches-cloud-native-big-data-olap-on-azure-marketplace/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2021/01/20/6e47e0c7-f199-4a04-853c-50d9a7d4d9cb/kyligence-architecture-diagram.jpg",
-          "width": 872,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/kyligence-launches-cloud-native-big-data-olap-on-azure-marketplace/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/kyligence-launches-cloud-native-big-data-olap-on-azure-marketplace/",
-      "publishedDateTime": "2021-01-20T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

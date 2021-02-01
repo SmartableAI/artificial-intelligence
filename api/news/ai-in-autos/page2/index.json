@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-20-microsoft-joins-2b-investment-in-cruise-to-speed-commercialization-of-self-driving-vehicles.md",
+      "title": "Microsoft joins $2B investment in Cruise to speed commercialization of self-driving vehicles",
+      "excerpt": "The company had planned to launch a self-driving commercial taxi service in 2019, but missed that deadline. Microsoft previously partnered with Chinese tech giant Baidu as its cloud partner for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2021/microsoft-joins-2b-investment-cruise-speed-commercialization-self-driving-vehicles/",
+      "originalUrl": "https://www.geekwire.com/2021/microsoft-joins-2b-investment-cruise-speed-commercialization-self-driving-vehicles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/01/Cruise-Track-3-in-Seattle-630x420.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2021/microsoft-joins-2b-investment-cruise-speed-commercialization-self-driving-vehicles/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/microsoft-joins-2b-investment-cruise-speed-commercialization-self-driving-vehicles/amp/",
+      "publishedDateTime": "2021-01-19T09:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-20-microsoft-backs-general-motors-cruise-automation-self-driving-car-venture.md",
       "title": "Microsoft backs General Motors' Cruise Automation self-driving car venture",
       "excerpt": "Microsoft is in on the future of self-driving cars. On Tuesday, General Motors' self-driving car subsidiary, Cruise Automation, announced the company participated in the latest round of funding. Although the firm didn't provide breakout figures,",
@@ -1351,58 +1404,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-chinese-search-giant-baidu-teams-up-with-geely-to-build-electric-cars.md",
-      "title": "Chinese search giant Baidu teams up with Geely to build electric cars",
-      "excerpt": "Hong Kong (CNN Business)Chinese search giant Baidu is teaming up with carmaker Geely to build electric vehicles, the latest move by a tech company to shape the future of the autos industry.",
-      "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/2021/01/11/tech/baidu-geely-auto-self-driving-electric-cars-intl-hnk/",
-      "originalUrl": "https://edition.cnn.com/2021/01/11/tech/baidu-geely-auto-self-driving-electric-cars-intl-hnk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210111020126-01-baidu-geely-auto-self-driving-electric-cars-restricted-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/11/tech/baidu-geely-auto-self-driving-electric-cars-intl-hnk/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/11/tech/baidu-geely-auto-self-driving-electric-cars-intl-hnk/index.html",
-      "publishedDateTime": "2021-01-11T03:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

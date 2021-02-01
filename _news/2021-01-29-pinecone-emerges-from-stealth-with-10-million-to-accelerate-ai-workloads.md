@@ -24,22 +24,6 @@ topics:
   - AI
 
 related:
-  - title: "Pinecone lands $10M seed for purpose-built machine learning database"
-    excerpt: "Pinecone, a new startup from the folks who helped launch Amazon SageMaker, has built a vector database that generates data in a specialized format to help build machine learning applications faster, something that was previously only accessible to the largest organizations."
-    publishedDateTime: 2021-01-27T15:01:00Z
-    webUrl: "https://techcrunch.com/2021/01/27/pinecone-lands-10m-seed-for-purpose-built-machine-learning-database/"
-    ampWebUrl: "https://techcrunch.com/2021/01/27/pinecone-lands-10m-seed-for-purpose-built-machine-learning-database/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/27/pinecone-lands-10m-seed-for-purpose-built-machine-learning-database/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/01/IMG_8828-1.jpg?w=1024"
-        width: 1024
-        height: 684
-        isCached: true
   - title: "Pinecone, a serverless vector database for machine learning, leaves stealth with $10M funding"
     excerpt: "Built by the team behind Amazon SageMaker. Having attracted investment by Wing Venture Capital, with Wing's Founding Partner and early Snowflake investor, Peter Wagner, joining startup Pinecone's ..."
     publishedDateTime: 2021-01-27T15:03:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.predictiveanalyticsworld.com/machinelearningtimes/worr
 webUrl: "https://www.predictiveanalyticsworld.com/machinelearningtimes/worried-about-your-firms-ai-ethics-these-startups-are-here-to-help/11942/"
 type: article
 quality: 56
-heat: 56
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,36 @@ images:
     width: 270
     height: 270
     isCached: true
+
+related:
+  - title: "AI ethics: The future of AI could become scary"
+    excerpt: "A Gartner report says the consequences of widespread AI will have huge effects on our society. Cybersecurity pros can't handle all the threat tasks alone, expert says 5:00 Good and bad news for cybersecurity in 2021 10:50 Cybersecurity can use some help from AI and ML 9:30 7 tech skills that will be in high demand in 2021 6:26 Edge computing adoption to increase through 2026;"
+    publishedDateTime: 2021-01-29T16:47:00Z
+    webUrl: "https://www.techrepublic.com/videos/ai-ethics-the-future-of-ai-could-become-scary/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 84
+    images:
+      - url: "https://tr4.cbsistatic.com/hub/i/r/2021/01/29/bc4f2551-6116-44e4-96b2-454d3aad1c1b/thumbnail/770x578/fcbfbfeda4f4c87df63aa6889134d566/20210127-brandon1-karen.jpg"
+        width: 770
+        height: 578
+        isCached: true
+  - title: "Sharing Our AI Ethics Framework"
+    excerpt: "Artificial intelligence (AI) is one of the biggest technology revolutions of our time. In the same way we have electrified factories and machines in the past century, we will infuse AI into every software and system in the 21st century."
+    publishedDateTime: 2021-01-28T17:33:00Z
+    webUrl: "https://www.linkedin.com/pulse/sharing-our-ai-ethics-framework-arvind-krishna"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGeIX1PljlFNA/article-cover_image-shrink_720_1280/0/1611841497895?e=1617235200&v=beta&t=RJ41BRX2JUtyajpy73NuqQidprD_u1fFhCDFbU5-tIg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "cEcXKI3pPws92JP8o1Fw4l0xXxTPlMScuJcyhCi0PxvRrNWeO971tw0jwYIjtseqLynRxAQITfxR/ersvg/RUy5qp4cYhUIrnPyVKH2AZmVUhYmZ3IuKhUWi5ICme32Soup0Ui3w87fqq0LsTjv2b7ImGlZdk1oZFVYwKlMpjBFqpuXe1Kulsw7mCmIE+t2Z6mZEzf2YowaAojcnjCfJisrcV5sDx/DgPeSvoUTfC56+3YH6b5aYSbYO5vTm5OhR8xLUdc7A44qjYsVUuMfrr6M7tCiQTiwc0GmYN6J7THmdUD9IdKnnY7TGD/1DmEBMudhFG6cz9XDqs1ztx3d7EKWrZSshVKiXPnzD2OaDGT8=;E/WB0qbspjPqvhuDVHuHOQ=="
 ---

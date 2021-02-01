@@ -27,6 +27,22 @@ images:
     height: 675
     isCached: true
 
+related:
+  - title: "Facial Recognition Market Comprehensive Research Analysis Report in Market Industry | NEC Corporation and Aware Inc"
+    excerpt: "MarketResearch.Biz :Facial Recognition Market 2021 Overview: The report provides quantitative and qualitative information on the global Facial Recognition market for the period of 2021 to 2030. Given the debilitating effect of COVID-19 (Coronavirus) on the Facial Recognition market,"
+    publishedDateTime: 2021-01-29T07:59:00Z
+    webUrl: "https://apnews.com/press-release/wired-release/technology-lifestyle-business-greater-china-corporate-news-12b6fdc8ae2d7110c7e8ccb5cd93ba29"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 17
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
 secured: "BmYbtnd9muTlIhCkDHKp/Pk4rD07WwZckkYWILhjqgGW/MaoqK/bg0HHtCLuysBhUzbKoIMRhSWVeksWYckSgUO9+QuZFvh0+y66QQPoLqN8LtbZ7DRVKiJu1Js1rN5YZ2qXEra7z5SGxQgrgOqrKuFwZZJlXBr5zrwxnXbHWOyM2paDv/ZsOlDY8vBUz4SgBIUP88Ff4mdE46+PZN99PrySmkcxG1iYzkQGKJlRPaUT9Y7Y0Wjh7Cd6A8LiDYMNpXsbrdAnzU8aHJHMUmP+77Dgn+I4WnXwPM1FIvQyN03Mgl1KfSSivk1Dinw4qVs5+a0FywxbCoXLf2hWojfwoJrlvsmas6pdxci+VZFld+Vpq4ziFS8QA8tc9DGOcb2HSIvCyq5PyEkPrmO238hwo1n7M5S0/AHb89uC/nPM3jW4QTLTZ9rq6JAFOZc1ifezx7PX4Sp0C9pqUHFRBdvQbo7bVkonLcVmFvMWaM54oQT9o0Lqx00XdxCqLWxWm5E3uY6JqURo0V6KQf+u0RKHBw==;OMMj1MyDwStVZ8hsLOSmWw=="
 ---
 

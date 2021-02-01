@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/natural-language-process
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-2021-share-growth-trend-industry-analysis-and-forecast-to-2026-2021-01-29"
 type: article
 quality: 67
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Robotics Market 2021 Analysis By Size & Share, Future Demands, Trends Evaluation, Business Growth Strategies and Forecast to 2024"
-    excerpt: "Robotics Market Research Report - Global Forecast till 2024 Global Robotics Market Research Report: by type (SCARA, Cartesian, Articulated, Cylindrical, Parallel), by Mobility (Mobile Robotics and Fixed Robotics),"
-    publishedDateTime: 2021-01-27T13:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/robotics-market-2021-analysis-by-size-share-future-demands-trends-evaluation-business-growth-strategies-and-forecast-to-2024-2021-01-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

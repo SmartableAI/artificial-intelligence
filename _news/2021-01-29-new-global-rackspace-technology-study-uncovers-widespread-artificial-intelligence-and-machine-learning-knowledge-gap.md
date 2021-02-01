@@ -8,7 +8,7 @@ webUrl: "https://markets.businessinsider.com/news/stocks/new-global-rackspace-te
 ampWebUrl: "https://markets.businessinsider.com/amp/news/New-Global-Rackspace-Technology-Study-Uncovers-Widespread-Artificial-Intelligence-and-Machine-Learning-Knowledge-Gap-1030016221"
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/New-Global-Rackspace-Technology-Study-Uncovers-Widespread-Artificial-Intelligence-and-Machine-Learning-Knowledge-Gap-1030016221"
 type: article
-quality: 61
+quality: 63
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Healthcare
 
 related:
   - title: "New Global Rackspace Technology Study Uncovers Widespread Artificial Intelligence and Machine Learning Knowledge Gap"
