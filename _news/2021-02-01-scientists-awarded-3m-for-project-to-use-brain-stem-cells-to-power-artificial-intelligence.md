@@ -31,7 +31,7 @@ related:
   - title: "Stem cell AI -- 'brain on a chip' project aims to revolutionize computing power"
     excerpt: "Scientists have started work on a project that will see human brain stem cells used to power artificial intelligence (AI) devices and bring about a revolution in computing. The Neu-ChiP project, an international collaboration led by researchers at Aston University,"
     publishedDateTime: 2021-01-29T00:18:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-01/au-sca012621.php"
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-01/au-sca012621.php?fbclid=IwAR33zzyfi0RpPhP6U27mWBXLcQ4xYph3aUKBVIUVKAV4pa71AVJqzhW7AfQ"
     type: article
     provider:
       name: EurekAlert!

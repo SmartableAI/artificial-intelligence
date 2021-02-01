@@ -63,6 +63,22 @@ related:
         width: 829
         height: 545
         isCached: true
+  - title: "Baidu green light to test driverless autonomous vehicles in California"
+    excerpt: "Baidu’s autonomous vehicles can now drive alongside those from Cruise, Waymo, Nuro, Zoox and AutoX in California. The Chinese company has just received approval to operate its autonomous driverless vehicles from the US state."
+    publishedDateTime: 2021-02-01T22:34:00Z
+    webUrl: "https://galusaustralis.com/2021/02/1047997/baidu-green-light-to-test-driverless-autonomous-vehicles-in-california/"
+    ampWebUrl: "https://galusaustralis.com/2021/02/1047997/baidu-green-light-to-test-driverless-autonomous-vehicles-in-california/amp/"
+    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2021/02/1047997/baidu-green-light-to-test-driverless-autonomous-vehicles-in-california/amp/"
+    type: article
+    provider:
+      name: galusaustralis.com
+      domain: galusaustralis.com
+    quality: 74
+    images:
+      - url: "https://galusaustralis.com/wp-content/uploads/2021/02/baidu.0-e1612158742517-1024x538.jpg"
+        width: 1024
+        height: 538
+        isCached: true
   - title: "California to license driverless cars operated by artificial intelligence"
     excerpt: "The California Department of Motor Vehicles has officially issued a permit to Baidu USA to begin testing driverless vehicles on public roads in Sunnyvale, California."
     publishedDateTime: 2021-02-01T21:00:00Z

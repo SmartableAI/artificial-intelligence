@@ -33,6 +33,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Shell, C3 AI, Baker Hughes, and Microsoft Launch the Open AI Energy Initiative, an Ecosystem of AI Solutions to Help Transform the Energy Industry"
+    excerpt: "THE HAGUE, Netherlands, REDWOOD CITY, Calif., HOUSTON & REDMOND, Wash.-- (BUSINESS WIRE)--Feb 1, 2021-- Shell (NYSE:RDS), C3 AI (NYSE:AI), Baker Hughes (NYSE:BKR), and Microsoft (NASDAQ:MSFT) today announced the launch of the Open AI Energy Initiative™ (OAI),"
+    publishedDateTime: 2021-02-01T22:11:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/science-business-technology-products-and-services-western-europe-dfd49c9427b4436eb0add6c556db954a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 16
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "m/tqns0R6iUZKmNbWAXiMKwiv+zQ5wVIs2uGfty2mTDDN01eqUdRssefbja9NUqxhAWpg4dWZu2CYYaUNvXErX2ZplZxueaZXNjFy7NaxCMBApRmWd6OtoYRLLBdb5aF+nhqektFvxwQD28NK/aTmQf+pEizBN/BFyLajQJdM36+e5YwqB6bOjLQQ03n/KqulwL+5lrLNsudkibwdDxIqF9xwGs8+FYUCJowu4PMnB1MI03gGAWmCEDnndWILFBfZbbxi9wdyLxgnKCBrHzzVYYCEbqeZIsz4PDxOCfGaE8YEXNRI1iT56UBRWvUUB6uApmZmGBRk2kfOOWNiJxzhdwZZwy6H7BBYe5tz9neK44=;XiEyLpAXuSTgzYRUvKdtDA=="
 ---

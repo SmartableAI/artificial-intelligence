@@ -37,20 +37,6 @@ related:
         width: 590
         height: 400
         isCached: true
-  - title: "Singapore Launches New Self-driving Bus Trial"
-    excerpt: "Singapore has moved a step closer to a driverless public transport network with the launch of a new trial of self-driving buses. Orderly and high-tech, the Asian city-state has become a testbed for self-driving vehicles and has developed home-grown technology while inviting foreign companies to trial their own."
-    publishedDateTime: 2021-01-28T06:52:00Z
-    webUrl: "https://www.ibtimes.com/singapore-launches-new-self-driving-bus-trial-3132465"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 24
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/28/singapore-has-become-a-testbed-for-self-driving.jpg"
-        width: 1024
-        height: 681
-        isCached: true
   - title: "S’pore launches self-driving bus trial"
     excerpt: "Singapore has moved a step closer to a driverless public transport network with the launch of a new trial of self-driving buses."
     publishedDateTime: 2021-01-28T18:27:00Z

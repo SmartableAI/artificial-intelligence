@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/in/amp/news/spotify-is-developing-speech-r
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/spotify-is-developing-speech-recognition-tech-to-detect-your-mood-and-suggest-music"
 type: article
 quality: 68
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Safari turns on ‘Speech Recognition’ by default Tech Preview of release"
+    excerpt: "Safari turns on 'Speech Recognition' by default Tech Preview of release on February 1, 2021 at 2.30 p.m. Apple's Safari browser is"
+    publishedDateTime: 2021-02-01T21:18:00Z
+    webUrl: "https://www.compsmag.com/news/technology/safari-turns-on-speech-recognition-by-default-tech-preview-of-release/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/safari-turns-on-speech-recognition-by-default-tech-preview-of-release/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/safari-turns-on-speech-recognition-by-default-tech-preview-of-release/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 59
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Safari-turns-on-Speech-Recognition-by-default-Tech-Preview-of.png"
+        width: 600
+        height: 400
+        isCached: true
   - title: "New Spotify Patent Involves Monitoring Users’ Speech to Recommend Music"
     excerpt: "The streaming platform is interested in extracting data points like emotional state, gender, age, and accent to hone its recommendations"
     publishedDateTime: 2021-01-28T19:33:00Z

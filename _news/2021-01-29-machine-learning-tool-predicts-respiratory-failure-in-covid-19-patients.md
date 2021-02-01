@@ -71,19 +71,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Researchers Build Models Using Machine Learning Technique to Enhance Predictions of COVID-19 Outcomes"
-    excerpt: "Mount Sinai researchers have published one of the first studies using a machine learning technique called \"federated learning\" to examine"
-    publishedDateTime: 2021-01-28T06:16:00Z
-    webUrl: "https://www.miragenews.com/researchers-build-models-using-machine-learning-technique-to-enhance-predictions-of-covid-19-outcomes/"
+  - title: "Research proposals to address COVID-19 challenges sought"
+    excerpt: "Washington University's McDonnell International Scholars Academy and Social Policy Institute seek proposals from WashU researchers and their international partners to identify and address the challenges of COVID-19 through artificial intelligence,"
+    publishedDateTime: 2021-02-01T20:28:00Z
+    webUrl: "https://source.wustl.edu/2021/02/research-proposals-to-address-covid-19-challenges-sought/"
     type: article
     provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
+      name: Washington University in St. Louis
+      domain: wustl.edu
     quality: 24
     images:
-      - url: "https://www.parliament.wa.gov.au/webcms/webcms.nsf/resources/file-parliament-house-front-day/$file/parl-house-front-day.jpg"
-        width: 700
-        height: 467
+      - url: "https://source.wustl.edu/wp-content/uploads/2021/01/shutterstock_1656386548.jpg"
+        width: 800
+        height: 500
         isCached: true
 
 secured: "SX2cFTWvcNklF2/ZwLcgHiVqkbw2q+hoRxN53qthUWcaB/yaX0NPieYYt33CYO64ylM/hXG8ygTNs0VzZSLr6+jIQ3WblbLcrlQISIpySV3u2q6UXdZ4jC8/OVrqwT00ZLnMsAa+UbYF0iWM545XsjaReohnkfQ7icSbeApy2ueDjKf0dy8eZ4ZRVAgY6bnoScXIH/OHOX5USuLCw6J1RghLb6oYbpwRnLysBbrzhpGXoh24uEWdHSCHrF6h2TGP7O85mn+VARkleNs0enQPxSELajf0ICYOtm3VnCVjOhKHMJCNMpucvztkl/CAcVWxjFn/KN92dfMZHD5Xd1CW3jZf8jQIErbRi5PsXCVd7rQ=;l/01QpNaCQ++hwhs63yLcw=="

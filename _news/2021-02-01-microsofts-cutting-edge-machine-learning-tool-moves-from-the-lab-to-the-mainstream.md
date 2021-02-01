@@ -8,8 +8,8 @@ webUrl: "https://www.techrepublic.com/article/microsofts-cutting-edge-machine-le
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/"
 type: article
-quality: 98
-heat: 168
+quality: 100
+heat: 170
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://tr3.cbsistatic.com/hub/i/r/2021/02/01/1b622622-e749-47c0-9c60-ed09ab784bbe/resize/400x/f50dcab974e7e9400bbc49f5c9acb474/rl-wikipedia-2.jpg"
@@ -136,6 +137,6 @@ related:
         height: 630
         isCached: true
 
-secured: "c+K4rcOEPOp7DVKtScj1bSxa76urVgwoyhC2lnOaY8drgRkmOSvU/FZhEcYcEcKqOakf30yQNWZehvHhvHMTugUYNgL4ferZs70Y2fUC6XO5H/+cfdP4pI5QwYFsTn8hIbV19etymsORlUKOo3OlFO8iMReUj7sRhQXvr3h4qeUdxv3e0YriE5gXexHLPcmzEpFuxF0hNGjGWvmDpfT+G7G/B0rtcnssJRSPXvUUX+mGC7tHR2yU9d8x4hgHWbhHPw9LtNJL4YAmXR5FtGlrWpskRyymgGyYOA0KXQJqmsJxsiVEatrSVZ/ipeL4s4wCMHeGxklzdw2k1a8WJc327pSf+lNNKu74HEy5LXEu7gk=;VbbNPqMe4kgLMml9Hg2k3w=="
+secured: "Cx4EJByem+Ih+Kq+sm9/EZkOBNVKc9SdZU7ySD47OEg9Afl1lnu8F2siVKLmtqSAKg4xvNQojlUe92KVUngXy395YyKmk1BqgQPm6NWmFN2xmzQj5Jowc72Ss9D2/R6ss28+gUMvefGiM7KrQwxEAq2qHJML9LkeF3I+6r5Vi13N5lDpYl5Lqd34YFvpy26M2/qg4nOgF3OQAvN3TsW+6gcTWM6/77U62BQS2+wOBEAsQ3GUFKtWsAHUMu9a4bLJngqqKxX/1/+uNdOTr19eQr73GL+n5GOspcl42xSawGu5yhgPIaP9rShIUpfU/pKb8Xoa1wJmxn5yqU8vhzp6OYsSnerUhqvgiMzpp0nylkPwpFjeQV8IKvPooctRe+DqTszFTddZpner1wHjLxeFcA4yIUESM0FSNhEEhoi6XyGizyblAqOO5PU8Tsv2025DP7i3uffjsIslNVnAlFGsyBqxsK0pjLeXgtAJ+b6hnO99RhIZtjuNjCa9+Hb3E8zt5bbW6kSvG/QduEKixeEicw==;S/D/Hdka4BR0kdgWLSEXZg=="
 ---
 

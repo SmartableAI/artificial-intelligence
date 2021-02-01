@@ -71,19 +71,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Researchers Build Models Using Machine Learning Technique to Enhance Predictions of COVID-19 Outcomes"
-    excerpt: "Mount Sinai researchers have published one of the first studies using a machine learning technique called \"federated learning\" to examine"
-    publishedDateTime: 2021-01-28T06:16:00Z
-    webUrl: "https://www.miragenews.com/researchers-build-models-using-machine-learning-technique-to-enhance-predictions-of-covid-19-outcomes/"
+  - title: "Research proposals to address COVID-19 challenges sought"
+    excerpt: "Washington University's McDonnell International Scholars Academy and Social Policy Institute seek proposals from WashU researchers and their international partners to identify and address the challenges of COVID-19 through artificial intelligence,"
+    publishedDateTime: 2021-02-01T20:28:00Z
+    webUrl: "https://source.wustl.edu/2021/02/research-proposals-to-address-covid-19-challenges-sought/"
     type: article
     provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
+      name: Washington University in St. Louis
+      domain: wustl.edu
     quality: 24
     images:
-      - url: "https://www.parliament.wa.gov.au/webcms/webcms.nsf/resources/file-parliament-house-front-day/$file/parl-house-front-day.jpg"
-        width: 700
-        height: 467
+      - url: "https://source.wustl.edu/wp-content/uploads/2021/01/shutterstock_1656386548.jpg"
+        width: 800
+        height: 500
         isCached: true
 
 secured: "3V6lDuNULrX5QPpTAOEa3oj2Y6+smsDVY4zm7r25Voqox1mvdXzh7jRQdvqiXuCWTiQn3SU78i63QcLz+/4yjj1HwzEYrcOzrOvbgsn0vyiUIXwflZhb1r3MsYhWwFD4SpNE44QFJoehjbVvJIFv8++Tk93E5v1KaHcxObklfkjj8jvS1u21QonYiZJIuiJoxArz8KvRKrLTSBGN4VpHlTRN1zx4lfXev2/wNNss/q7F/H2ttMavrs6eFbocIn5NL2+6WK1l6n3uaYlAsjnO82LsCUMcffTmANhvfRYp3Kw7YV8mMxj7m89DVbdMHiuQbK/SKJXGCD0WDAPL/AQZDZho3MgwAKWyPtxLtJfKkVnVR/bPfj5Mwlpnk9IdEfLpieQraaLuNoWKgfOd8ysbRdmvH2JX5unF9S4miF1spZwNn1Gjbmrto5PhlZXpL6qDS8krTHs++M9a0+zadXI5D4odDTfUbznNKO36K+x0rWc2mxk1X0OZ5a+FWgJ7l2gQkNktqAYeAeYTTRFEHY4RLQ==;Xp4WHqj7FmfB47TDVmhnwQ=="

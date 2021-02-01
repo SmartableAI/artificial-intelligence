@@ -24,17 +24,6 @@ images:
     height: 265
     isCached: true
 
-related:
-  - title: "Robot to take over customer service tasks in the Hyundai Motor showroom"
-    excerpt: "To automate customer service tasks in the midst of a global pandemic, Hyundai Motor Group has debuted an advanced humanoid customer service robot at its showroom in Seoul, South Korea. The DAL-e, which stands for “Drive you,"
-    publishedDateTime: 2021-01-28T05:13:00Z
-    webUrl: "https://insights.globalspec.com/article/15854/robot-to-take-over-customer-service-tasks-in-the-hyundai-motor-showroom"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 34
-
 secured: "CQOQJBd0jxVgW3ZewSq96p5T6QIYIpxtaj1cWh77gnH5Lgshk5Cy/ZifdHcnskO2lLZ3sm2aGq4i7PLQ/74dEpjN6V9rY/KbilvJagGxBlXCKjfoikWbHfiviCDBRF0U2Gs6ZqGPztHdk2gGP1FylqeS3PaxoT9ur59XBiR2n1zlFu2XvvVRugOVcM1sOCv7WTaX4zLTSCwD35pckf8Jj8mow6QKUzasgxgz+Pl8NqFB1t4NEYiwOeAp6eZtADWhy1U7noeIZy0cIH9RAi95jZnHxc1z+/WHGq52eFOazFYeJKAq4P9h9ui40loUR0Rpnxb1v9+VIfKb2kB0mLWIHFvTvsDh7eKE7CQQJQsJ+WY=;U3RhK4VUFZPgZfKIiwuFqg=="
 ---
 

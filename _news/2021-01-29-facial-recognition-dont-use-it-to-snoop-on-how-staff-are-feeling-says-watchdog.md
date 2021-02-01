@@ -103,15 +103,6 @@ related:
         width: 1024
         height: 602
         isCached: true
-  - title: "Indian police use facial recognition in search for farmer protesters"
-    excerpt: "Indian police are using facial recognition technology to identify suspects in a crackdown on farmers who over-ran parts of New Delhi, while leaders of the months-long protest movement struggle to contain rifts within their ranks."
-    publishedDateTime: 2021-01-28T07:00:00Z
-    webUrl: "https://www.ft.com/content/044add20-7129-44a8-bc9d-92919a73d049"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 19
 
 secured: "6YPnIQazNh1+l9Tw1RW/wUB1G/LKd0mKunCC2r3EvEOkx4SQM0OSK0XbNgwYmmHvM75Lj1WmkB8b4FUmQNRoFN6tt4WcwY/jkVBes6gRq1MYBVfw5KPYf59gLAttMMO/1X2KsEk/gSbfVnO8UX/VE1MgunoWP8fqahgdUZsfrenxU0PXoud7RlU2+gV8FzIErtTgr/Z+oOwz+sfjl7ukd5Yhx9sdE7kfOLfWEWPp2/3bC3b3AkCvlCHGZuSGGvafifUUV9/vbDXD8x/PepXSe9bCI8cUuJoa4CLSW8HqFyqogg7yBmJw2Y5IkWwu5mUNvPCnkLwKdzCRp1Vs3Px8fRtjfW9JIdOK0v7pgJ/59L/WGZMt8SiGOmqcGFzK211T8KBJlESoRjVhYkcmfJ8rtKVULy22Bjdsdp/EehdisAZBQYWE9wFDwwGU7SuOHpTheazEDwWC/V9b4GZ3B8wSHohXGQazhCEZKZ7e6ounuoV+jcH7S9GIP2U/fXs86qpLfv3W4HhPFYJ9CP452cxhbg==;9rEJflUeLwNqhcvpyy299Q=="
 ---

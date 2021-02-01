@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidphelan/2021/02/01/ios-145-apple-ju
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidphelan/2021/02/01/ios-145-apple-just-revealed-brilliant-new-face-id-feature-security-unlock-with-mask-on/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 779
     isCached: true
+
+related:
+  - title: "Apple iOS 14.5 Beta Adds Support For Masked Face ID Unlock With A Big Caveat"
+    excerpt: "With iOS 14.5, you'll be able to unlock your iPhone while still wearing your mask. But there is one rather big \"gotcha\" to enable this trick: you will also need to be wearing Your iPhone will perform a partial facial scan,"
+    publishedDateTime: 2021-02-01T22:27:00Z
+    webUrl: "https://hothardware.com/news/apple-ios-145-beta-adds-masked-face-unlock-with-a-caveat"
+    ampWebUrl: "https://amp.hothardware.com/news/apple-ios-145-beta-adds-masked-face-unlock-with-a-caveat"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/apple-ios-145-beta-adds-masked-face-unlock-with-a-caveat"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 41
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/54152/content/iphone_mask.jpg"
+        width: 708
+        height: 472
+        isCached: true
 
 secured: "p7+IlwXTFq61PJBOe2DSB8/PHB0N1QTEPLYF9R3QVwPI5LagtYprOx/fEZ6DNADNcGwBfYTwo9ulIHSIJADyw6SovvZamkEB3Hf1pWoXZJ1x/r3AWQDnEXqdRGHk8wN5+A4TZ/jJDPsQJ1De89E10mUBGB61Dkb3bBIR5vakX4jGS3YAv5HPuA/+dxcDB3ocmepidDJ0VAjx1zrbPm3tw/40YdG5tk1eijlqsBQDj0fy+hiAp/SEvMYOcyOg1lqWv0oBPP2lODk19flqNYtf22uuiSP+G4ZkrmsDPxXyCjxnVLgaznF/GI5f2koZIpA8LBt7Uuq1ljL5w0cIkdphtDJxtD2wPqKmJfjlfXP/eRk=;wVmZVgyxfz3XB197ytHaZA=="
 ---

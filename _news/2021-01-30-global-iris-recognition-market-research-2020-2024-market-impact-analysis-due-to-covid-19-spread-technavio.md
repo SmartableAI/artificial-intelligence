@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Global Machine Learning as a Service Market 2020 with Covid-19 Impact Analysis and Forecast by 2025"
+    excerpt: "Global Machine Learning as a Service Market 2020 by Company, Type and Application, Forecast to 2025 provides a comprehensive assessment of market values, with corrective calculations and forecasts for sales by kind and by application in terms of volume and worth."
+    publishedDateTime: 2021-02-01T21:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-as-a-service-market-2020-with-covid-19-impact-analysis-and-forecast-by-2025-2021-02-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence In Remote Patient Monitoring Market Research Report - Global Forecast to 2025 - Cumulative Impact of COVID-19"
     excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence In Remote Patient Monitoring Market"
     publishedDateTime: 2021-01-29T10:39:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/01/31/technology/facial-recognition-pho
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/31/technology/facial-recognition-photo-tool.amp.html"
 type: article
 quality: 91
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -105,15 +105,6 @@ related:
         width: 1024
         height: 602
         isCached: true
-  - title: "Indian police use facial recognition in search for farmer protesters"
-    excerpt: "Indian police are using facial recognition technology to identify suspects in a crackdown on farmers who over-ran parts of New Delhi, while leaders of the months-long protest movement struggle to contain rifts within their ranks."
-    publishedDateTime: 2021-01-28T07:00:00Z
-    webUrl: "https://www.ft.com/content/044add20-7129-44a8-bc9d-92919a73d049"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 19
 
 secured: "VNqOhjPzjsg8b27KWOQDml983/WIi4GixrwzXSvWA+tLzdP0GXfT935B8fVI08RYVCG7WZddhS24BcPXRDQvIQT2VKfVJT6U+hVHZU3S1ibHLe0sCXNatbY28REeKQIrNQj4aot3iwtqOBijUjY/bNbGRntGt8i02xbbaqWFkqk9wgINQVjtCLLsKs9x37SE8MZr9QkRZyUQqrqqj40NO4QV1KXI5yyDbzXygL9bneebIQRU71rGkUKmdZg91JN/WzX09x/9WF+A2+rzA6h7aZH1WcUoiXfQK6dLrWlhOyJglZizCysttJTRgRmraP6HIqktmfyOLRV6ewJSBqPTlM+rooGCRfqzsN9PuStp1WkPItSZu14YFWRJviVr23qzEQAnHK0QaABpULqBGy5ELCzJyf09mfQ1zVLsbU8yeB4o8pUDwjpBBOHQWG2pz1h0UykyXpndmXH51+KUPsIHPis26PJ4MrtA6IBTwSu++1zaw0A9v/SkA7bKrjnYajYyGs82Fd456nyRIiB7rK2Y2Q==;myhQt4g1Bwom3Cv4G74UfQ=="
 ---

@@ -40,7 +40,7 @@ related:
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 98
+    quality: 100
     images:
       - url: "https://tr3.cbsistatic.com/hub/i/r/2021/02/01/1b622622-e749-47c0-9c60-ed09ab784bbe/resize/400x/f50dcab974e7e9400bbc49f5c9acb474/rl-wikipedia-2.jpg"
         width: 400

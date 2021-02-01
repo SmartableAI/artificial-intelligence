@@ -60,6 +60,22 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "MIT is developing a new fluid-type neural network"
+    excerpt: "In a blog post on January 28, 2021, a team of researchers from the Massachusetts Institute of Technology presented their research on a new type of neural network. According to their writings, this deep learning algorithm would be a training technique better suited to processing sequential data,"
+    publishedDateTime: 2021-02-01T21:39:00Z
+    webUrl: "https://galusaustralis.com/2021/02/1047995/mit-is-developing-a-new-fluid-type-neural-network/"
+    ampWebUrl: "https://galusaustralis.com/2021/02/1047995/mit-is-developing-a-new-fluid-type-neural-network/amp/"
+    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2021/02/1047995/mit-is-developing-a-new-fluid-type-neural-network/amp/"
+    type: article
+    provider:
+      name: galusaustralis.com
+      domain: galusaustralis.com
+    quality: 59
+    images:
+      - url: "https://galusaustralis.com/wp-content/uploads/2021/02/rowan-heuvel-BwcYVtE_bAM-unsplash-scaled-1024x538.jpg"
+        width: 1024
+        height: 538
+        isCached: true
 
 secured: "6teyuNaUl2RLGvqYm4NjmN/R+l7CSLxlrQwOD0Rh7xPAlhmzi7yEewpjVWjHNIbnenE1D/TfluxoRwpl5WfvSue8jvltIVW/m2X6MW2ynLd4ijYTALFRip6e9Gc6Umw9MZzrOJatUStUNb1hf/khvbHeMv0PQJ8uFj1JD7JfiaVQycbdpUd0Wz2c8VwEfQEy+QCrkCXBZmF/7/J5Wr1txH+eFVkv+wLmg7faDKBLYMfhgCEHbJ7C4mvdq1y7jJJ8sqscUok1x4DFN9W3KiqgZv7l4yLPYkcer021ZOlYedJMnKqgc70s7Fq1kRdiHHxvlyuWni8xzEUcmS1FqnN3MOiF3JSdN5E46geGWosEQ8oHqxhuHSEaXSTIOTjctsSb46r4LugHgudieD8zgH9Icsih31q4ESKwYw72RrdhZ9PMJYCiR62vlSuqRC+Ah31qlFnh/m5u25F7oqWM7odGhi6ylG+UXNdJ3vk6wB6nAJ83rQckApfoxKEiJrVLgSA1A48vFFo9iljZewgydVGrgw==;aTBeilzlg8nF2Cbg7K7zLQ=="
 ---
