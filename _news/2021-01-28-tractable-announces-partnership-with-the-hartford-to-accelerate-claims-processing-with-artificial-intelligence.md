@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/tractable-announces-partn
 webUrl: "https://www.prnewswire.com/news-releases/tractable-announces-partnership-with-the-hartford-to-accelerate-claims-processing-with-artificial-intelligence-301217448.html"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -24,31 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI can streamline health care claims processing and benefit payers"
-    excerpt: "AI is constantly learning and improving in order to better meet brokers’ needs; meanwhile, the claims process continues to evolve in the digital age."
-    publishedDateTime: 2021-01-27T15:39:00Z
-    webUrl: "https://www.benefitspro.com/2021/01/27/how-ai-can-streamline-health-care-claims-processing-and-benefit-payers/"
-    ampWebUrl: "https://www.benefitspro.com/2021/01/27/how-ai-can-streamline-health-care-claims-processing-and-benefit-payers/?amp=1"
-    cdnAmpWebUrl: "https://www-benefitspro-com.cdn.ampproject.org/c/s/www.benefitspro.com/2021/01/27/how-ai-can-streamline-health-care-claims-processing-and-benefit-payers/?amp=1"
-    type: article
-    provider:
-      name: Benefits Pro
-      domain: benefitspro.com
-    quality: 59
-    images:
-      - url: "https://images.benefitspro.com/contrib/content/uploads/sites/412/2021/01/shutterstock_1027448323-1.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "How AI and Machine Learning Will Shape Software Testing"
-    excerpt: "In this special guest feature, Erik Fogg, Chief Operating Officer at ProdPerfect, covers some of the main benefits of adding AI to the software testing process, and why you should consider adding it to yours if you haven’t already."
-    publishedDateTime: 2021-01-27T14:03:00Z
-    webUrl: "https://insidebigdata.com/2021/01/27/how-ai-and-machine-learning-will-shape-software-testing/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 34
   - title: "Tractable announces partnership with The Hartford to accelerate claims processing with artificial intelligence"
     excerpt: "The Hartford, a leading US property and casualty insurer, is using an AI solution to analyze auto damage within its auto insurance claims operations in the US, accelerating how quickly claims can be processed for its customers."
     publishedDateTime: 2021-01-28T17:00:00Z
@@ -62,6 +37,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Eyeris Technologies Partners with Texas Instruments to Launch Industry-First In-Cabin Sensing AI Solution"
+    excerpt: "Eyeris Technologies, a world leader in vision AI for in-cabin sensing, announced its collaboration with Texas Instruments (TI) on an industry-first in-cabin sensing AI solution, using TI's Jacinto TDA4 processors and 2D RGB-IR image sensors,"
+    publishedDateTime: 2021-01-29T07:07:00Z
+    webUrl: "https://www.cioapplications.com/news/eyeris-technologies-partners-with-texas-instruments-to-launch-industryfirst-incabin-sensing-ai-solution-nid-7136.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 22
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/9dx3g450.jpg"
+        width: 450
+        height: 308
         isCached: true
 
 secured: "1+S/Q/5EPGL2rBJX6L/bkWPxTi1HuqoFfUaR2S35UHJtU8Eojrkuc7/TAqhXv5W1T5CDVfIViRqWwX1VhjSOcvOnpN1WA7qngZCnBoVsRFrUxa0wGuQuwFLlvzzmjF6g+gnohc8T1CM0eo4VGaKIyk1KDumEv7pMfbmLslfsCsTL7K3cN/jDeAYgm/4ZkZSUieen5B8xx4k+WmpLYVZDMNEWQndRFZqttHMakMfzZ9fwbe/TcHWzVNbTQjOI4NGOC8ETdF2eFXUUKDZ3P55oxwXEjbZ7jZ/xPXfiSH9/R+gABLtFf7HXqxJtsroEWruJ0+B3PGWT29qx5uvbPp5qyaOjB6DNmcQOV4Eok8eE0po=;CiNfm8IyZ1+ir8Cazbn5ew=="

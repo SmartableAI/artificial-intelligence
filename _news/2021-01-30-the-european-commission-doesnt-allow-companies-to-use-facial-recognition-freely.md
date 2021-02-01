@@ -91,22 +91,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "NY Civil Rights Advocates Back Facial Recognition Ban"
-    excerpt: "The technology has raised concerns across the country by some who worry it could be a dangerous step toward a surveillance state where people’s movements are tracked the moment they leave their homes"
-    publishedDateTime: 2021-01-27T12:00:00Z
-    webUrl: "https://www.nbcnewyork.com/news/local/ny-civil-rights-advocates-back-facial-recognition-ban/2850193/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/local/ny-civil-rights-advocates-back-facial-recognition-ban/2850193/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/local/ny-civil-rights-advocates-back-facial-recognition-ban/2850193/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 59
-    images:
-      - url: "https://media.nbcnewyork.com/2021/01/GettyImages-1184155312.jpg?resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Facial recognition payments making a mark on world"
     excerpt: "Facial recognition is happening in large parts of China, the US, Spain, Denmark and Nigeria as contactless payments look here to stay"
     publishedDateTime: 2021-01-28T23:01:00Z
@@ -175,20 +159,6 @@ related:
       - url: "https://www.taipeitimes.com/assets/images/TaipeiTimesLogo-1200X1200px_new.jpg"
         width: 1200
         height: 1200
-        isCached: true
-  - title: "Calls to ban facial recognition technology over racism and protest impact"
-    excerpt: "Facial recognition technology amplifies racist policing and threatens the right to protest, campaigners have warned as they launch a global campaign against its use. The new Ban the Scan campaign, launched by Amnesty International,"
-    publishedDateTime: 2021-01-27T12:36:00Z
-    webUrl: "https://www.scottishlegal.com/article/calls-to-ban-facial-recognition-technology-over-racism-and-protest-impact"
-    type: article
-    provider:
-      name: Scottish Legal News
-      domain: scottishlegal.com
-    quality: 38
-    images:
-      - url: "https://www.scottishlegal.com/uploads/security-camera-cctv-pixa.jpg"
-        width: 640
-        height: 426
         isCached: true
   - title: "Facial Recognition Technology is now Capable of Identifying Political Views"
     excerpt: "Michal Kosinski's new research indicates facial recognition technology is now capable of exposing people’s political orientation from naturalistic facial images using a machine learning algorithm."

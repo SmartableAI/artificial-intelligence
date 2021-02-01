@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL8N2K2500"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2K2500"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -25,6 +25,20 @@ topics:
   - AI
 
 related:
+  - title: "China growing use of emotion recognition tech raises rights concerns"
+    excerpt: "Technology that measures emotions based on biometric indicators such as facial movements, tone of voice or body movements, is increasingly being marketed in China, researchers say, despite concerns about its accuracy and wider human rights implications."
+    publishedDateTime: 2021-02-01T04:12:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/02/01/china-growing-use-of-emotion-recognition-tech-raises-rights-concerns"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/01/31/1027888.jpg"
+        width: 1240
+        height: 826
+        isCached: true
   - title: "Voice Recognition Tech Co. Broke Ill. Privacy Law, Suit Says"
     excerpt: "A software company that provides speech and voice recognition technology to companies like FedEx is accused in an Illinois state court lawsuit of violating Illinois' biometric privacy law by collecting customers' voiceprint biometrics without getting written permission and making required disclosures."
     publishedDateTime: 2021-01-28T02:32:00Z

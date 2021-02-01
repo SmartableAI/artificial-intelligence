@@ -1,44 +1,31 @@
 ---
 category: news
 title: "Silicon Labs and Edge Impulse Partner to Accelerate Machine Learning Applications"
-excerpt: "Silicon Labs (NASDAQ: SLAB), a leading provider of silicon, software and solutions for a smarter, more connected world, and Edge Impulse, a leading"
-publishedDateTime: 2021-01-27T18:45:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/silicon-labs-and-edge-impulse-partner-to-accelerate-machine-learning-applications/article_07d5c9fd-3f42-5008-8548-4363579501c6.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/silicon-labs-and-edge-impulse-partner-to-accelerate-machine-learning-applications/article_07d5c9fd-3f42-5008-8548-4363579501c6.html"
+excerpt: "Silicon Labs (NASDAQ: SLAB), a leading provider of silicon, software and solutions for a smarter, more connected world, and Edge Impulse, a leading development platform for machine learning on edge devices,"
+publishedDateTime: 2021-01-27T18:52:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/silicon-labs-and-edge-impulse-partner-to-accelerate-machine-learning-applications-1030011427"
+webUrl: "https://markets.businessinsider.com/news/stocks/silicon-labs-and-edge-impulse-partner-to-accelerate-machine-learning-applications-1030011427"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/silicon-labs-and-edge-impulse-partner-to-accelerate-machine-learning-applications-1030011427"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/silicon-labs-and-edge-impulse-partner-to-accelerate-machine-learning-applications-1030011427"
 type: article
-quality: 34
-heat: -1
-published: false
+quality: 66
+heat: 86
+published: true
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/65/d656d0d8-9f6e-5d52-ada9-57c472673bf2/6013c455c9f1c.image.jpg?resize=1200%2C628"
-    width: 1200
-    height: 628
-    isCached: true
+  - Machine Learning
 
 related:
-  - title: "Silicon Labs and Edge Impulse Partner to Accelerate Machine Learning Applications"
-    excerpt: "Silicon Labs (NASDAQ: SLAB), a leading provider of silicon, software and solutions for a smarter, more connected world, and Edge Impulse, a leading development platform for machine learning on edge devices,"
-    publishedDateTime: 2021-01-27T12:45:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20210127da61379/silicon-labs-and-edge-impulse-partner-to-accelerate-machine-learning-applications"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 34
-    images:
-      - url: "https://mma.prnewswire.com/media/1428108/Silicon_Labs_Edge_Impulse_Machine_Learning.jpg"
-        width: 400
-        height: 209
-        isCached: true
   - title: "Silicon Labs and Edge Impulse Partner to Accelerate Machine Learning Applications"
     excerpt: "\"Silicon Labs believes the infusion of machine learning into the edge devices we help create will make the IoT smarter,\" said Matt Saunders, vice president of IoT at Silicon Labs. \"The secure ..."
     publishedDateTime: 2021-01-29T01:58:00Z
@@ -68,6 +55,6 @@ related:
         height: 600
         isCached: true
 
-secured: "QnuGKcreMikzh5W4ogJ1LRd1FcLl5s8MImMVqni5+MMh832ueJPCm9nTg0KQ3cZmh3yDd73skFqT71icns57VbT+P76vKkd9MQYSNZuKklSJIqSQMkQ+03+B/4Fi/vStx8N/eO8XxqFY+DZRfM7Aa3FH8lOzWdaNG9KGxsLBF8o8A8Xd1/VRQyLt+eADQxsrSBASXrpk+xhryJC/ly2JVlEpJSOVMiVFsNyd3dRaCcF7aK44VIjiBCVuDlylD6Y6AA9IM3n4rhtndS0N90nwQmuqq4HW9tYDy+zj6YYZvlfes90p5Tgau8mQb27uscoYFCHhqUTJJwMD3doebgpp7WSyLC7TrvpRtISQnD6xjw4=;Bo3mWPt982vBPKQQcl65/g=="
+secured: "gcFRisivA+9pLagKCgaVU33fq8ylAE5Zi7R5ATgEmCg8048YtAMPJvpE7PxJOzMY8vKhVkMNyRHQ5bF6SUGRVHC/8AhyouNvwEJdLqn9aAsGKNQl1gY2ACmxMiw3Bl4H7Zy5VfLx9mioo5RVPGHQupjdfSBqS9+laO1R/NTIfkj5/FVWBLiENy3De8dADg5RnEKE++PYW2vJ4UxZzSu54JBpu1VT9DSSWwwxkv7H/lwn+TZrAI4GHRo8D4Y2xXQIXICmpY1aYtlIopaGVvsuTF7HFeLOST4FPdqQr1ECz4aX+PMNvNtZUUD6/71XT+KVLslx7EvaOgJ2/J2ybwHiqWO9+sY/haJ/h9Xuaa11VIs=;bmINxUuhIm9OPC/C+FU3jw=="
 ---
 

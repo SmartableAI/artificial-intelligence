@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210128/New-machine-learning-
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210128/New-machine-learning-model-predicts-COVID-19-severity.aspx"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -68,20 +68,6 @@ related:
       - url: "https://healthitanalytics.com/images/site/article_headers/_normal/Apps_and_Software.jpg"
         width: 690
         height: 400
-        isCached: true
-  - title: "Integrating deep learning CT-scan model, biological and clinical variables to predict severity of COVID-19 patients"
-    excerpt: "The SARS-COV-2 pandemic has put pressure on intensive care units, so that predicting severe deterioration early is a priority. Here, the authors develop a multimodal severity score including clinical and imaging features that has significantly improved prognostic performance in two validation datasets compared to previous scores."
-    publishedDateTime: 2021-01-27T11:39:00Z
-    webUrl: "https://www.nature.com/articles/s41467-020-20657-4"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 17
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-020-20657-4/MediaObjects/41467_2020_20657_Fig1_HTML.png"
-        width: 685
-        height: 378
         isCached: true
 
 secured: "3V6lDuNULrX5QPpTAOEa3oj2Y6+smsDVY4zm7r25Voqox1mvdXzh7jRQdvqiXuCWTiQn3SU78i63QcLz+/4yjj1HwzEYrcOzrOvbgsn0vyiUIXwflZhb1r3MsYhWwFD4SpNE44QFJoehjbVvJIFv8++Tk93E5v1KaHcxObklfkjj8jvS1u21QonYiZJIuiJoxArz8KvRKrLTSBGN4VpHlTRN1zx4lfXev2/wNNss/q7F/H2ttMavrs6eFbocIn5NL2+6WK1l6n3uaYlAsjnO82LsCUMcffTmANhvfRYp3Kw7YV8mMxj7m89DVbdMHiuQbK/SKJXGCD0WDAPL/AQZDZho3MgwAKWyPtxLtJfKkVnVR/bPfj5Mwlpnk9IdEfLpieQraaLuNoWKgfOd8ysbRdmvH2JX5unF9S4miF1spZwNn1Gjbmrto5PhlZXpL6qDS8krTHs++M9a0+zadXI5D4odDTfUbznNKO36K+x0rWc2mxk1X0OZ5a+FWgJ7l2gQkNktqAYeAeYTTRFEHY4RLQ==;Xp4WHqj7FmfB47TDVmhnwQ=="

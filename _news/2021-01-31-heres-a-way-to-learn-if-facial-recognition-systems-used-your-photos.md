@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/01/31/technology/facial-recognition-pho
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/31/technology/facial-recognition-photo-tool.amp.html"
 type: article
 quality: 91
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/Heres-a-way-to-find-out-if-facial-recognition-systems.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Female entrepreneur pioneers facial recognition tech"
+    excerpt: "Kim Harrisberg - Charlette N'Guessan Desiree loved maths and science as a student in Ivory Coast, but never imagined she would one day use her problem-solving savvy to develop facial recognition technology more adept at identifying and verifying African faces."
+    publishedDateTime: 2021-02-01T04:05:00Z
+    webUrl: "https://www.republikein.com.na/nuus/female-entrepreneur-pioneers-facial-recognition-tech2021-02-01/"
+    type: article
+    provider:
+      name: Republikein
+      domain: republikein.com.na
+    quality: 39
+    images:
+      - url: "https://d3rp5jatom3eyn.cloudfront.net/assets/images/11964/female-entrepreneur-pioneers-facial-recognition-tech2021-02-010.jpg"
+        width: 1024
+        height: 602
         isCached: true
   - title: "Indian police use facial recognition in search for farmer protesters"
     excerpt: "Indian police are using facial recognition technology to identify suspects in a crackdown on farmers who over-ran parts of New Delhi, while leaders of the months-long protest movement struggle to contain rifts within their ranks."

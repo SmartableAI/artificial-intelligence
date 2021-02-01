@@ -101,20 +101,6 @@ related:
         width: 1920
         height: 1180
         isCached: true
-  - title: "Jump Start 2021: Fintech Innovation Accelerates Digital Strategies in Financial Institutions"
-    excerpt: "For financial institutions, the year 2020 accelerated the already intense focus on digital. A recent report from Deloitte notes that the pandemic has turbo-charged digitization for the banking industry,"
-    publishedDateTime: 2021-01-27T11:21:00Z
-    webUrl: "https://www.finextra.com/the-long-read/103/jump-start-2021-fintech-innovation-accelerates-digital-strategies-in-financial-institutions"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 13
-    images:
-      - url: "https://www.finextra.com/finextra-images/oped/103.jpg"
-        width: 800
-        height: 449
-        isCached: true
   - title: "Fintech regulations, financial stability, and data privacy: So, what is the path to go forward?"
     excerpt: "In a recent development, the Delhi High Court received a Public Interest Litigation (PIL) from an applied economist, Reshmi P Bhaskaran, seeking to regulate the entry and operations of ‘TechFin’ platforms."
     publishedDateTime: 2021-01-27T15:44:00Z

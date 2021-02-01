@@ -69,20 +69,6 @@ related:
         width: 690
         height: 400
         isCached: true
-  - title: "Integrating deep learning CT-scan model, biological and clinical variables to predict severity of COVID-19 patients"
-    excerpt: "The SARS-COV-2 pandemic has put pressure on intensive care units, so that predicting severe deterioration early is a priority. Here, the authors develop a multimodal severity score including clinical and imaging features that has significantly improved prognostic performance in two validation datasets compared to previous scores."
-    publishedDateTime: 2021-01-27T11:39:00Z
-    webUrl: "https://www.nature.com/articles/s41467-020-20657-4"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 17
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-020-20657-4/MediaObjects/41467_2020_20657_Fig1_HTML.png"
-        width: 685
-        height: 378
-        isCached: true
 
 secured: "SX2cFTWvcNklF2/ZwLcgHiVqkbw2q+hoRxN53qthUWcaB/yaX0NPieYYt33CYO64ylM/hXG8ygTNs0VzZSLr6+jIQ3WblbLcrlQISIpySV3u2q6UXdZ4jC8/OVrqwT00ZLnMsAa+UbYF0iWM545XsjaReohnkfQ7icSbeApy2ueDjKf0dy8eZ4ZRVAgY6bnoScXIH/OHOX5USuLCw6J1RghLb6oYbpwRnLysBbrzhpGXoh24uEWdHSCHrF6h2TGP7O85mn+VARkleNs0enQPxSELajf0ICYOtm3VnCVjOhKHMJCNMpucvztkl/CAcVWxjFn/KN92dfMZHD5Xd1CW3jZf8jQIErbRi5PsXCVd7rQ=;l/01QpNaCQ++hwhs63yLcw=="
 ---

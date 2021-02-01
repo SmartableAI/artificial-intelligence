@@ -111,20 +111,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Jump Start 2021: Fintech Innovation Accelerates Digital Strategies in Financial Institutions"
-    excerpt: "For financial institutions, the year 2020 accelerated the already intense focus on digital. A recent report from Deloitte notes that the pandemic has turbo-charged digitization for the banking industry,"
-    publishedDateTime: 2021-01-27T11:21:00Z
-    webUrl: "https://www.finextra.com/the-long-read/103/jump-start-2021-fintech-innovation-accelerates-digital-strategies-in-financial-institutions"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 13
-    images:
-      - url: "https://www.finextra.com/finextra-images/oped/103.jpg"
-        width: 800
-        height: 449
-        isCached: true
 
 secured: "ARww3Cm1MGa9XDJ7vi3/AvTK3xqsl6YmE9/lBsX6c0rUFKERKgDJ5WkSATLdx9D48fhVjLIH2vVxPIY52H36RSYZ7vEyp5olycYo29s/HqMFLom+XFHHEc/ZyxGwhUclalQw/zIZdaPF8U8ase1rHOCVDrj+XZrfQkXjbgQkbTHXzmqWjjUIWYh9Dey5Y1+F8+6D3Hcc4EVNMGO/fnVCljtTXKtcRhOrDE5kjsYMPDDvtj7eCYO9GthiSQxmGupb67zz4ls0aN/tlztcl6CwhoXeNaNSWdCfDjdDWb8RebIgu0BQBqt7XJSANO1npbjgKmjy22GxWwJGXjGT2Gun+O734hVHhmWFwsAjyBCo7XM=;6hLwipeylYU15TL1dh6MsQ=="
 ---

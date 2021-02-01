@@ -7,8 +7,8 @@ originalUrl: "https://www.businessinsider.com/artificial-intelligence-healthcare
 webUrl: "https://www.businessinsider.com/artificial-intelligence-healthcare"
 type: article
 quality: 61
-heat: -1
-published: false
+heat: 71
+published: true
 
 provider:
   name: Business Insider
@@ -29,49 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "The Role Artificial Intelligence is Playing In the Healthcare Sector"
-    excerpt: "With modern technology making business operations convenient, fraudsters are also banking on advanced technology for their illicit activities. Cybercriminals are now targeting the healthcare sector for their illegal gains."
-    publishedDateTime: 2021-01-27T11:55:00Z
-    webUrl: "https://techbullion.com/the-role-artificial-intelligence-is-playing-in-the-healthcare-sector/"
-    ampWebUrl: "https://techbullion.com/the-role-artificial-intelligence-is-playing-in-the-healthcare-sector/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/the-role-artificial-intelligence-is-playing-in-the-healthcare-sector/amp/"
+  - title: "How AI can streamline health care claims processing and benefit payers"
+    excerpt: "AI is constantly learning and improving in order to better meet brokers’ needs; meanwhile, the claims process continues to evolve in the digital age."
+    publishedDateTime: 2021-01-27T15:39:00Z
+    webUrl: "https://www.benefitspro.com/2021/01/27/how-ai-can-streamline-health-care-claims-processing-and-benefit-payers/"
+    ampWebUrl: "https://www.benefitspro.com/2021/01/27/how-ai-can-streamline-health-care-claims-processing-and-benefit-payers/?amp=1"
+    cdnAmpWebUrl: "https://www-benefitspro-com.cdn.ampproject.org/c/s/www.benefitspro.com/2021/01/27/how-ai-can-streamline-health-care-claims-processing-and-benefit-payers/?amp=1"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 74
+      name: Benefits Pro
+      domain: benefitspro.com
+    quality: 59
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2021/01/Healthcare-Sector.jpg"
-        width: 1600
-        height: 790
-        isCached: true
-  - title: "How Could AI, AR, and VR Change Healthcare?"
-    excerpt: "This article sheds light on the healthcare industry's evolution over the period while incorporating new technologies to enhance the healthcare sector's operations."
-    publishedDateTime: 2021-01-27T11:12:00Z
-    webUrl: "https://elearning.adobe.com/2021/01/how-could-ai-ar-and-vr-change-healthcare/"
-    type: article
-    provider:
-      name: Adobe Systems
-      domain: adobe.com
-    quality: 54
-    images:
-      - url: "https://elearningimages.adobe.com/files/2021/01/doctor-4187242_1920-500x322.jpg"
-        width: 500
-        height: 322
-        isCached: true
-  - title: "Sharecare acquires doc.ai to expand engineering expertise, accelerate digital transformation of healthcare through innovative AI platform"
-    excerpt: "Sharecare, the digital health company that helps people manage all their health in one place, today announced it has entered into a definitive agreement to acquire doc.ai, an enterprise artificial intelligence (AI) platform accelerating digital transformation in healthcare."
-    publishedDateTime: 2021-01-29T08:50:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-medical-technology-f093e8793a77d261cd22c39aefb766f7"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 21
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://images.benefitspro.com/contrib/content/uploads/sites/412/2021/01/shutterstock_1027448323-1.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "30ViIDjt/yVOfIbQvxbKIfwdUPKQelWm4QnWr0DzBRTZqRPCxTQveWgX3wU5J8XDpvvkIFoFbKimD8sLpDYhXNLuLnggDb50m0oKiYU5fpE2k/QbqmHIB6MBObSqH0SxnSbJS4+aEPZSAf+Oz0GMU7+HHz2Djug2FLUd/V3xyuXYRkvoowjjBt5ke5a8OOIAsSFy5j9PQsQaG5Rz+lCTHEtbMDP0Y1vI2y3gm6thvWz7b0nK7hjdhW/bHf3u+c96B+7uKy925hcf7t9dFUo7TkPRG3dHzpdyTQSZuPtqWZViMC+RFsD7kwGt9Sykdrbr8I5wfxlkw3q/SgdrMMHyRBu2X8FAXGwSkbO1ijZflnql4hP8qKRVDEvTlf9sVoBTEm3JEBp93CjlOs2lnqM3d8Lrbov8j8B6pxTbrEC5+YY5uXFifh3s3n1cS0EsMt7MfVz7IzTXvKD2gbK3HMlCLTu2q7zPHjT9Fv02nK7T+wIAMhjUxT9PHDg/PrEQuQ8gZ6XkqTHXLHT9Ov7IqrlJLg==;subwiu1tM/DXAuDv3gLSfQ=="
