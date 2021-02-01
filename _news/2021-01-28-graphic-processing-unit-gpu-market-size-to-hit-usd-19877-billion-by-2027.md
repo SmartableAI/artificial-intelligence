@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/graphic-processing-unit-
 webUrl: "https://www.marketwatch.com/press-release/graphic-processing-unit-gpu-market-size-to-hit-usd-19877-billion-by-2027-2021-01-28"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Natural Language Processing (NLP) Market Size Estimated to Reach USD 47,147 Million By 2027, According to Facts & Factors"
+    excerpt: "\"According to the research study, the global Natural Language Processing (NLP) Market was estimated at USD 12,748 Million in 2018 and is expected to reach USD 47,147 Million by 2027. The global Natural Language Processing (NLP) Market is expected to grow at a compound annual growth rate (CAGR) of 15."
+    publishedDateTime: 2021-02-01T16:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-size-estimated-to-reach-usd-47147-million-by-2027-according-to-facts-factors-2021-02-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural Language Processing (NLP) Market Size Estimated to Reach USD 47,147 Million By 2027, According to Facts & Factors"
     excerpt: "Facts and Factors have published a new research report titled \"Natural Language Processing (NLP) Market Size &"
     publishedDateTime: 2021-02-01T07:49:00Z

@@ -3,10 +3,10 @@ category: news
 title: "Microsoft's cutting-edge machine-learning tool moves from the lab to the mainstream"
 excerpt: "Machine learning that can explore the world can solve different problems. These are the Microsoft services that make it something mainstream developers can use."
 publishedDateTime: 2021-02-01T12:37:00Z
-originalUrl: "https://www.techrepublic.com/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/"
-webUrl: "https://www.techrepublic.com/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/"
-ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/"
+originalUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/"
+webUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/"
+ampWebUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/"
 type: article
 quality: 100
 heat: 170
@@ -21,14 +21,14 @@ provider:
       height: 50
 
 topics:
-  - Microsoft AI
-  - AI
   - Machine Learning
+  - AI
+  - Microsoft AI
 
 images:
-  - url: "https://tr3.cbsistatic.com/hub/i/r/2021/02/01/1b622622-e749-47c0-9c60-ed09ab784bbe/resize/400x/f50dcab974e7e9400bbc49f5c9acb474/rl-wikipedia-2.jpg"
+  - url: "https://tr3.cbsistatic.com/hub/i/r/2021/02/01/67c46b9c-cb75-42aa-a46f-b70b10ddca61/resize/400x/0c10b3c9b58b56304f151a017ee9c1dd/john-langford-microsoft-research.jpg"
     width: 400
-    height: 388
+    height: 465
     isCached: true
 
 related:
@@ -137,6 +137,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Y3E7M4A5WoWkGjwPFZAg2SjoQby7dyQ3UZRjH0yt8U8jEIA6Uzcipqys7BrurDTa++YNQEL/gCKFL0iAvj1cu8wz3n70z9SMrzyTJrSBmzhOGVo5m0+yoPCIDQhlAydA6q9pl1LOPbvhzK+utHd/lokb1Bfii6aQmPo48vf9ReO/WSkz1vivqecxNKvP2WeG8h2Tkf59i/40pjnx6JI3vcoMIxVf58jlqkYy3/wh0oEN5X7OFqfudRYYdpgVxQY7spMigzZDY3gkyD4MszIfw1eXCC/cq7a1wGWO4XUcXhue+AIPkOVpgxlnEeSDk3gUhoweKegFf9jjzdUlkjKd9jM0mXhiBmAPFcI5ts+K8fa0p3PvQN2A7FEytBlS2IWV6VaYSNGn2DIUoKNprljrgyVURQL8JymR5pJxj1r4px5LGB2brTtWUO3s/SF8OEjvkfusN943Ml43Z1fe3/vLmIUtDINMO+lkUHPQQiv79uJ8/yF2QxIyajkC2jBtLw2+8x3JE7j3kkwwMXd61VN5zA==;N/0yth4HLbRnsjVM3O4/GQ=="
+secured: "kxcyDV8k7VeH948X+xQAUCDGUNspDoLlrkSWeQf4E3yC9nDYzZJ+Wnzb3YqO8c3gUOmFLfa3LicAkeekbm8Wl3LW+OIGk1Z2flAWimHbRMBYOUeQPCncAp5/RkBw/zF16jTd0JE3byA5fwYd6hnQlpwwjl4rhK0vkdPVc6468RO77ElXBXp20OE/TBCFxY0wL1gCJGRQrRxVoCWg+GBNcHKo4uG2aTHmtINH4AG1O6L/xvKp6mOM0wVPCcTci2eBVRiFHS638S0QacLQpiswbcIStGeTaF45cHHClaRSxNBUttMmykcov8HEE+OfHrkGfCdIOilfE0iUPQeRWG9JcZiT7wBnStKXKifspV7bzlA=;pZx/INXf1Q55w1V3Ff4fWw=="
 ---
 

@@ -89,20 +89,6 @@ related:
         width: 1080
         height: 634
         isCached: true
-  - title: "Startup Employs Video Analytics and AI for Streamlined Aircraft Turnarounds"
-    excerpt: "Aircraft turnaround processes may soon become streamlined thanks to a combination of video analytics and artificial intelligence (AI). Swiss startup Assaia has partnered with airport solutions provider ADB SAFEGATE to pair its ApronAI image recognition technology with ADB’s SafeControl"
-    publishedDateTime: 2021-01-28T00:00:00Z
-    webUrl: "https://aviationweek.com/mro/emerging-technologies/startup-employs-video-analytics-ai-streamlined-aircraft-turnarounds"
-    type: article
-    provider:
-      name: Aviation Week
-      domain: aviationweek.com
-    quality: 35
-    images:
-      - url: "https://aviationweek.com/sites/default/files/styles/crop_freeform/public/2021-01/adb-safegate-safedock.jpg?itok=6sZHSsAJ"
-        width: 1500
-        height: 1095
-        isCached: true
   - title: "Data Analytics and Artificial Intelligence to Propel Smart Water and Wastewater Leak Detection Solutions Market"
     excerpt: "Frost & Sullivan's recent analysis, Data Analytics and AI Boost Accuracy to Drive Global Smart Water and Wastewater Leak Detection"
     publishedDateTime: 2021-01-28T14:16:00Z

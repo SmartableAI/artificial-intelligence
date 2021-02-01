@@ -2,6 +2,40 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-12-19-etu-leti-held-russias-first-olympics-in-ai-for-self-driving-cars.md",
+      "title": "ETU “LETI” Held Russia’s First Olympics in AI for Self-Driving Cars",
+      "excerpt": "On December 6, the ETU “LETI” robotarium hosted the finals of the Autonomous Driving Olympics. It is the first Russian competition to develop artificial intelligence technologies for",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/etu-leti-held-russias-first-olympics-in-ai-for-self-driving-cars/",
+      "originalUrl": "https://indiaeducationdiary.in/etu-leti-held-russias-first-olympics-in-ai-for-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/etu-leti-held-russias-first-olympics-in-ai-for-self-driving-cars/?amp",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/etu-leti-held-russias-first-olympics-in-ai-for-self-driving-cars/?amp",
+      "publishedDateTime": "2020-12-19T03:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-18-thales-speakers-bureau-experts-to-ponder-quantum-technology-5g-digital-identity-cybersecurity-and-artificial-intelligence.md",
       "title": "Thales Speakers Bureau: Experts to Ponder Quantum Technology, 5G, Digital Identity, Cybersecurity and Artificial Intelligence",
       "excerpt": "Quantum technology, 5G, cyberdefence, cybersecurity, biometrics, AI, self-driving cars ... in digital and “deep tech” innovations – connectivity, big data, artificial intelligence, cybersecurity and quantum technology – to build a future we ...",
@@ -1387,59 +1421,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-machine-learning-a-cheat-sheet.md",
-      "title": "Machine learning: A cheat sheet",
-      "excerpt": "This comprehensive guide explains what machine learning really means. Artificial intelligence (AI), which has been around since the 1950s, has seen ebbs and flows in popularity over the last 60 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/machine-learning-the-smart-persons-guide/",
-      "originalUrl": "https://www.techrepublic.com/article/machine-learning-the-smart-persons-guide/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2018/02/28/0b23d692-86fe-4992-ac77-01704623cc2b/thumbnail/1200x675/1b95ac4d209af970fcc0c175aad91cf6/20180227machinelearningtom.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/machine-learning-the-smart-persons-guide/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/machine-learning-the-smart-persons-guide/",
-      "publishedDateTime": "2020-12-10T01:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

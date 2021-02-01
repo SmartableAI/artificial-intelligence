@@ -2,6 +2,40 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-12-04-3-popular-robinhood-stocks-that-ill-likely-never-sell.md",
+      "title": "3 Popular Robinhood Stocks That I'll Likely Never Sell",
+      "excerpt": "E-commerce, the migration to the cloud, artificial intelligence, streaming TV ... In particular, I think that Waymo, the company's self-driving car subsidiary, will be a major success story ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-popular-robinhood-stocks-that-ill-likely-never-sell-2020-12-04?time=1607080501",
+      "originalUrl": "https://www.nasdaq.com/articles/3-popular-robinhood-stocks-that-ill-likely-never-sell-2020-12-04?time=1607080501",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/3-popular-robinhood-stocks-that-ill-likely-never-sell-2020-12-04?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-popular-robinhood-stocks-that-ill-likely-never-sell-2020-12-04?amp",
+      "publishedDateTime": "2020-12-04T03:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-04-artificial-intelligence-the-new-season-is-out.md",
       "title": "Artificial Intelligence – the new season is out",
       "excerpt": "Forget about Steven Spielberg’s “A.I. Artificial Intelligence” movie from 2001 that was merely entertainment, though with valid examples and illustrations of AI. The technology now is very much in self-driving vehicles, in the analysis of our online ...",
@@ -1313,58 +1347,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-kfc-rolls-out-self-driving-food-trucks-in-china-and-its-sort-of-wild.md",
-      "title": "KFC rolls out self-driving food trucks in China and it's sort of wild",
-      "excerpt": "Some experts believe the self-driving cars are in for a boom, thanks to how the coronavirus pandemic has started to reshape how we purchase goods. When a top priority is to slow the spread of a contagious virus, having things delivered can help some people.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/kfc-food-trucks-self-driving-china/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/kfc-food-trucks-self-driving-china/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/vVVJc_UXS8zKfNCqn1-Zu_LkhS4=/2020/11/23/194f0a35-6f2b-4fe6-a886-776ba77b6ef3/ogi-kfc.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/kfc-food-trucks-self-driving-china/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/kfc-food-trucks-self-driving-china/",
-      "publishedDateTime": "2020-11-23T11:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -1,28 +1,44 @@
 ---
 category: news
-title: "AI Startup Growing in Indy"
-excerpt: "An Indianapolis-based Software-as-a-Service company is planning to expand its central Indiana operations. Catipult.AI, which has developed an artificial intelligence platform to help businesses manage"
-publishedDateTime: 2021-01-28T14:26:00Z
-originalUrl: "https://www.insideindianabusiness.com/story/43252015/ai-startup-growing-in-indy"
-webUrl: "https://www.insideindianabusiness.com/story/43252015/ai-startup-growing-in-indy"
+title: "AI startup growing in Indy"
+excerpt: "Catipult.AI, which has developed an artificial intelligence platform to help businesses manage and track strategic goals, says it will invest more than $2.6 million to secure a larger office space in Indy and create up to 51 jobs by the end of 2024."
+publishedDateTime: 2021-01-28T14:12:00Z
+originalUrl: "https://www.wishtv.com/news/inside-indiana-business/ai-startup-growing-in-indy/"
+webUrl: "https://www.wishtv.com/news/inside-indiana-business/ai-startup-growing-in-indy/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
-  name: INside INdiana Business
-  domain: insideindianabusiness.com
+  name: WISHTV8
+  domain: wishtv.com
 
 topics:
   - AI
 
 images:
-  - url: "https://INSIDEINDIANA.images.worldnow.com/images/20307337_G.jpg?lastEditedDate=1611824691000"
+  - url: "https://i2.wp.com/www.wishtv.com/wp-content/uploads/2021/01/Peter-Fuller-Catipult.jpg?fit=960%2C540&#038;ssl=1"
     width: 960
     height: 540
     isCached: true
 
-secured: "xapGjqQx2X88TyTlmH2q7gpn6024ocPs7BVyRWU9ZBbuyTLr+w7gWTeaab7llUx8rsb9nMxL8DolSe0PAFVusunzDW2/JEULtxb50sZFwPvRuolCEEAJRbDHjKZn1uRfOJceLNoCzg7BUG7y6lc/Oh98SiJRkYuUMiGi0npnpxsIEX4KuWT13sxWpYcY889HmJweLFzHW9YmPJhuPyvgNeYXe/hLm64FoKCXZDUotW3dsSjruIdRa8REbabbui+SfpR3B8oabJA8vTPkkNtj57yBJhLwRXO9RFUi2hfYEB4RUHu+h4azkvLgDAUPhFTjUMQ4uwnTdhwAhiufq2ZBRbBku6COJTZApTtCUSpy/4o=;FCG2XFVxSiWlGe5SEPfcpA=="
+related:
+  - title: "AI-driven software startup plans 51 new jobs as part of expansion"
+    excerpt: "Catipult.AI, which is now located at 55 Monument Circle, said it will invest $2.6 million to expand its operations, including a move to a larger but yet-to-be determined space."
+    publishedDateTime: 2021-01-28T12:33:00Z
+    webUrl: "https://www.ibj.com/articles/ai-driven-software-startup-plans-51-new-jobs-as-part-of-expansion"
+    type: article
+    provider:
+      name: Ibj.com
+      domain: ibj.com
+    quality: 37
+    images:
+      - url: "https://cdn.ibj.com/wp-content/uploads/2020/05/Catipult.png"
+        width: 8233
+        height: 4773
+        isCached: true
+
+secured: "ZWRjPpeTWTUv+eRKr4xVJKlnHTiVKW88ltO976+QzKVpphY8S9lQWQ5mB/6EurKHWR6cNmApKrnSyyun6gHYDW7s62sof4QLmsTJiP0ISoo7G1xVtGinr0s5naV/WrTEcZd0OFoPw72wHeb4/Ph5JSYZGcB/YlNsdB5aZ3z9JAr1C2cY7u3d3duxlUvBwwx9DX4YnlVqEBgAxyoqT6M4LmDhEXDfwYyCwbCtUWwXc3wVll86mGKodVyWbnThkGViQk5O9M/EJDjyrEQDL65jJw+s31lnG+vKDW0yHE1LEQUJIX0kX0fbiNVOihnj5WQbLf7/Vq6PYG5wpYKRBdVLrOIFbpSOhXUOizG95+HkB28=;r/+deOgwScWWDn6Go94VTA=="
 ---
 

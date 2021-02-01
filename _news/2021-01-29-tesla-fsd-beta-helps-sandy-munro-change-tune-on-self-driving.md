@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 601
         isCached: true
+  - title: "Self-Driving Cars Are Faced With Too Many Moving Objects And Too Little Time"
+    excerpt: "A surprising difficulty for self-driving cars involves having a multitude of objects in-motion nearby and being short on time to computationally analyze the frenzy."
+    publishedDateTime: 2021-02-01T16:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/02/01/self-driving-cars-are-faced-with-too-many-moving-objects-and-too-little-time/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/02/01/self-driving-cars-are-faced-with-too-many-moving-objects-and-too-little-time/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/01/self-driving-cars-are-faced-with-too-many-moving-objects-and-too-little-time/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 71
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6e8ecc36de110ecd54a5fc%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2501%26cropY1%3D176%26cropY2%3D1583"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "8sSl+01qJAy5HfwTkd9yt5L6C30jw7qxJfz9ISciO88d/DwGWEEqRUvM9pSoDpuIIaP1FV34Oo+3pklHRV+S0nXv6ow3shQFuiFNYo3w/gqz65n4k7S/kLomMQSGXljOWHJGqngRyAeKepctEpZ/td1CjiYhmP8SMkrkVlo01FYxUT96qBJL+nQOp2j8JEYR6Dz2286PVRT26H25PosDfZy4Z6VwORfhQZD+ViPnpyqXDItq1dtqrELIzFtk28OI0unGlETVwMFvi2ooOjEZNBIUyRLnatzBlyvnfLMldja3y4MVs1w7gsUqbVq/sAkJSlhIPbYuZMetneaewMIfAfDgb7VOH2yXxioqI1Ku8tYM9qQbJL8/T32zqZvSts8GCIqo+t4szihARc2o6IEz/17azoMTQ0twOWRsbk0O1lykjYuTS9A+mzCvzYq3vO+JqbId9/9nHzvkzjNTMf0txu27Xj4lV/ZKCyhA4PigiO29ls/oIF43UBtGNTxcJjzyo/JyEmVZAKiygtLJJnAGWg==;84DphuUC5rw/buLOa4lJyg=="
 ---

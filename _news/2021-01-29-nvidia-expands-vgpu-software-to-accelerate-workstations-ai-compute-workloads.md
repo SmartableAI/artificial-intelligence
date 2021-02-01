@@ -7,7 +7,7 @@ originalUrl: "https://www.hpcwire.com/off-the-wire/nvidia-expands-vgpu-software-
 webUrl: "https://www.hpcwire.com/off-the-wire/nvidia-expands-vgpu-software-to-accelerate-workstations-ai-compute-workloads/"
 type: article
 quality: 51
-heat: -1
+heat: 51
 published: false
 
 provider:
@@ -23,40 +23,6 @@ images:
     width: 405
     height: 228
     isCached: true
-
-related:
-  - title: "Nvidia shows off the first A100 GPU systems built to handle AI workloads"
-    excerpt: "As AI workloads can be complex and demanding, Nvidia has unveiled a new program that makes it easier for businesses to choose servers geared towards machine learning and analytics. This new class of accelerated servers from the company's partners are given the Nvidia-Certified Systems branding as they are designed to power organization's journeys into AI and data analytics."
-    publishedDateTime: 2021-01-27T23:52:00Z
-    webUrl: "https://www.techradar.com/news/nvidia-shows-off-the-first-a100-gpu-systems-built-to-handle-ai-workloads"
-    ampWebUrl: "https://www.techradar.com/amp/news/nvidia-shows-off-the-first-a100-gpu-systems-built-to-handle-ai-workloads"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/nvidia-shows-off-the-first-a100-gpu-systems-built-to-handle-ai-workloads"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 103
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/vdaqQtQFfvSMJT6pxoTPrK-1200-80.jpg"
-        width: 636
-        height: 358
-        isCached: true
-  - title: "Nvidia launches program for certified AI servers"
-    excerpt: "Nvidia is offering a certification program to steer customers and partners to buy GPU servers specifically tailored for artificial intelligence (AI) workloads from top-tier OEMs and ODMs. The program,"
-    publishedDateTime: 2021-01-29T11:03:00Z
-    webUrl: "https://www.networkworld.com/article/3605088/nvidia-launches-program-for-certified-ai-servers.html"
-    ampWebUrl: "https://www.networkworld.com/article/3605088/nvidia-launches-program-for-certified-ai-servers.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3605088/nvidia-launches-program-for-certified-ai-servers.amp.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 59
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/12/nvidia-ampere-pcb-primary-100869709-large.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "nEu2KROJQWlyLiBpj+0+qS9c+T8uSNz0LaKcfW+gTJgUR4IFlez2jRGgJpjXHN0DKCZujVmq5wa/YtvcPiEfCK31XBVZNQPuUPC3+TxZCj6tQSfw5ydoHX6PYQ99/jsgRYQ+0m2jRLQKcviqE/yZcGgV5DO/cwPl68ehBFFk4aK4w5CQXGDYMx9lqMRmhMgUmLl5fSZKO2LXY8puseQ2VIk0OVQmRsAf/rYq8pDNrD+wvZCrMZFjEHNLyTdL00DEdZ7K64d/mNfJBhlqowapx4t1698l3CnNHOV21pdk/i1jH4bIjtEaNedgxwh09ofqgYw32GSQhsZQNlrfzKZkhJ9GCCzeF0GxsonIdg6PritaUDkBu8udFrEVO7ALLdp2pPW4yNucvGIQDaTzxZ7OrCGJ5EpMRpRZ9CERwxvJJs0s/gn5iL7Z0B3cqG3U18dhUdXzVeGHOOmsHbwbLRQVA/AsJjvKv83WmZkskdZmT0PB7kpD7Ks1ZFRUjhLbjm6tk3H4wkeyc3ILWt9SK3C/aQ==;I5XbliK9if5Y9jbCkyBC6g=="
 ---

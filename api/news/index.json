@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-02-01-weights-and-biases-raises-45-million-to-advance-mlops-governance.md",
-      "title": "Weights and Biases raises $45 million to advance MLOps governance",
-      "excerpt": "Weights and Biases, provider of a platform for enabling collaboration and governance across teams building machine learning models, today revealed it has raised a $45 million series B round led by Insight Partners.",
+      "path": "_news/2021-02-02-the-two-companies-have-announced-a-significant-6-year-partnership.md",
+      "title": "The two companies have announced a significant 6-year partnership",
+      "excerpt": "Google and Ford have inked a six-year partnership that will see the automaker using the tech giant’s expertise and products to bolster their cars and services.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/01/weights-and-biases-raises-45-million-to-advance-mlops-governance/",
-      "originalUrl": "https://venturebeat.com/2021/02/01/weights-and-biases-raises-45-million-to-advance-mlops-governance/",
+      "webUrl": "https://www.techspot.com/news/88477-ford-google-sign-significant-6-year-partnership.html",
+      "originalUrl": "https://www.techspot.com/news/88477-ford-google-sign-significant-6-year-partnership.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/WeightsandBiases.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/02/2021-02-01-image-9.jpg",
+          "width": 4000,
+          "height": 2250,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,9 +24,217 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/01/weights-and-biases-raises-45-million-to-advance-mlops-governance/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/01/weights-and-biases-raises-45-million-to-advance-mlops-governance/amp/",
-      "publishedDateTime": "2021-02-01T05:02:00-08:00",
+      "ampWebUrl": "https://www.techspot.com/amp/news/88477-ford-google-sign-significant-6-year-partnership.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/88477-ford-google-sign-significant-6-year-partnership.html",
+      "publishedDateTime": "2021-02-01T08:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-weights-biases-raises-45m-for-its-machine-learning-tools.md",
+      "title": "Weights & Biases raises $45M for its machine learning tools",
+      "excerpt": "Weights & Biases, a startup building tools for machine learning practitioners, is announcing that it’s raised $45 million in Series B funding. The company was founded by Lukas Biewald, Chris Van Pelt and Shawn Lewis — Biewald and Van Pelt previously founded CrowdFlower/Figure Eight",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/02/01/weights-and-biases-series-b/",
+      "originalUrl": "https://techcrunch.com/2021/02/01/weights-and-biases-series-b/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/02/image-5.jpg?w=680",
+          "width": 680,
+          "height": 412,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/02/01/weights-and-biases-series-b/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/01/weights-and-biases-series-b/amp/",
+      "publishedDateTime": "2021-02-01T08:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-gdit-announces-availability-of-aws-services-on-milcloud-20.md",
+      "title": "GDIT Announces Availability of AWS Services on milCloud 2.0",
+      "excerpt": "General Dynamics Information Technology (GDIT), a business unit of General Dynamics (NYSE:GD), announced today the availability of Amazon Web Services (AWS) through the milCloud 2.0 contract, providing Department of Defense (DoD) mission partners access to an expanded portfolio of secure cloud services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/gdit-announces-availability-of-aws-services-on-milcloud-20-2021-02-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/gdit-announces-availability-of-aws-services-on-milcloud-20-2021-02-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-01T08:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-5-ways-to-keep-ai-bias-out-of-online-identity-verification.md",
+      "title": "5 Ways To Keep AI Bias Out Of Online Identity Verification",
+      "excerpt": "In these types of surveillance, the quality and robustness of the underlying database is what can fuel bias in the AI models. Modern facial recognition software uses biometrics to map facial features from a photograph or video.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jumio/2021/02/01/5-ways-to-keep-ai-bias-out-of-online-identity-verification/",
+      "originalUrl": "https://www.forbes.com/sites/jumio/2021/02/01/5-ways-to-keep-ai-bias-out-of-online-identity-verification/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600f2a0812e0069c07567088%2F0x0.jpg",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jumio/2021/02/01/5-ways-to-keep-ai-bias-out-of-online-identity-verification/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jumio/2021/02/01/5-ways-to-keep-ai-bias-out-of-online-identity-verification/amp/",
+      "publishedDateTime": "2021-02-01T08:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-01-confidence-uncertainty-and-trust-in-ai-affect-how-humans-make-decisions.md",
+      "title": "Confidence, uncertainty, and trust in AI affect how humans make decisions",
+      "excerpt": "Health care applications of AI are growing fast, but there are obstacles to building robust, trustworthy systems.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/01/confidence-uncertainty-and-trust-in-ai-affect-how-humans-make-decisions/",
+      "originalUrl": "https://venturebeat.com/2021/02/01/confidence-uncertainty-and-trust-in-ai-affect-how-humans-make-decisions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/How-confidence-uncertainty-and-trust-influence-human-decision-making-01.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/01/confidence-uncertainty-and-trust-in-ai-affect-how-humans-make-decisions/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/01/confidence-uncertainty-and-trust-in-ai-affect-how-humans-make-decisions/amp/",
+      "publishedDateTime": "2021-02-01T07:22:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -49,7 +257,102 @@
         "news"
       ],
       "topics": [
-        "Google AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-02-01-artificial-intelligence-machine-learning-top-naval-intelligence-technology-needs-says-director.md",
+      "title": "Artificial Intelligence, Machine Learning Top Naval Intelligence Technology Needs, says director",
+      "excerpt": "Artificial Intelligence, Machine Learning Top Naval Intelligence Technology Needs, says director Sailors stand guard in the sonar room of",
+      "sourceUrl": null,
+      "webUrl": "https://www.compsmag.com/news/technology/artificial-intelligence-machine-learning-top-naval-intelligence-technology-needs-says-director/",
+      "originalUrl": "https://www.compsmag.com/news/technology/artificial-intelligence-machine-learning-top-naval-intelligence-technology-needs-says-director/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Artificial-Intelligence-Machine-Learning-Top-Naval-Intelligence-Technology-Needs-says.jpg",
+          "width": 2048,
+          "height": 1365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.compsmag.com/news/technology/artificial-intelligence-machine-learning-top-naval-intelligence-technology-needs-says-director/amp/",
+      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/artificial-intelligence-machine-learning-top-naval-intelligence-technology-needs-says-director/amp/",
+      "publishedDateTime": "2021-02-01T07:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "compsmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-02-01-elder-care-wireless-ai-and-the-internet-of-medical-things.md",
+      "title": "Elder care, wireless AI, and the Internet of Medical Things",
+      "excerpt": "Senior citizens are accustomed to constant probes by doctors, but wireless AI tech is enabling massive-scale, nonintrusive data monitoring.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/01/elder-care-wireless-ai-and-the-internet-of-medical-things/",
+      "originalUrl": "https://venturebeat.com/2021/02/01/elder-care-wireless-ai-and-the-internet-of-medical-things/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/Elder-care-wireless-AI-and-the-Internet-of-Medical-Things-01.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/01/elder-care-wireless-ai-and-the-internet-of-medical-things/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/01/elder-care-wireless-ai-and-the-internet-of-medical-things/amp/",
+      "publishedDateTime": "2021-02-01T07:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -62,7 +365,7 @@
       "originalUrl": "https://www.dqindia.com/budget-2021-ai-ml-analytics-ease-compliance-burden-check-tax-evasion/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -102,17 +405,17 @@
       "title": "Microsoft's cutting-edge machine-learning tool moves from the lab to the mainstream",
       "excerpt": "Machine learning that can explore the world can solve different problems. These are the Microsoft services that make it something mainstream developers can use.",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/",
-      "originalUrl": "https://www.techrepublic.com/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/",
+      "webUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/",
+      "originalUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/",
       "featuredContent": null,
       "highlight": null,
       "heat": 170,
       "tags": null,
       "images": [
         {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2021/02/01/1b622622-e749-47c0-9c60-ed09ab784bbe/resize/400x/f50dcab974e7e9400bbc49f5c9acb474/rl-wikipedia-2.jpg",
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2021/02/01/67c46b9c-cb75-42aa-a46f-b70b10ddca61/resize/400x/0c10b3c9b58b56304f151a017ee9c1dd/john-langford-microsoft-research.jpg",
           "width": 400,
-          "height": 388,
+          "height": 465,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -120,8 +423,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/",
       "publishedDateTime": "2021-02-01T04:37:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -145,9 +448,9 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "Machine Learning",
         "AI",
-        "Machine Learning"
+        "Microsoft AI"
       ]
     },
     {
@@ -908,312 +1211,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-31-budget-2021-important-to-expand-on-national-program-on-artificial-intelligence-says-inker-robotics-ceo.md",
-      "title": "Budget 2021| Important to expand on National Program on Artificial Intelligence, says Inker Robotics CEO",
-      "excerpt": "By Rahul Balachandran India has been projected as the only economy that will grow in double-digit i.e. 11.5 per cent in 2021. As we have seen, the challenging 2020-21 has made us realize the importance of adapting and adopting the latest technologies to drive the economy forward.",
-      "sourceUrl": null,
-      "webUrl": "https://www.deccanherald.com/business/union-budget/budget-2021-important-to-expand-on-national-program-on-artificial-intelligence-says-inker-robotics-ceo-945358.html",
-      "originalUrl": "https://www.deccanherald.com/business/union-budget/budget-2021-important-to-expand-on-national-program-on-artificial-intelligence-says-inker-robotics-ceo-945358.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.deccanherald.com/sites/dh/files/articleimages/2021/01/31/584098-01-02-1-945358-1612101268.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.deccanherald.com/amp/business/union-budget/budget-2021-important-to-expand-on-national-program-on-artificial-intelligence-says-inker-robotics-ceo-945358.html",
-      "cdnAmpWebUrl": "https://www-deccanherald-com.cdn.ampproject.org/c/s/www.deccanherald.com/amp/business/union-budget/budget-2021-important-to-expand-on-national-program-on-artificial-intelligence-says-inker-robotics-ceo-945358.html",
-      "publishedDateTime": "2021-01-31T05:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deccan Herald",
-        "domain": "deccanherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-31-amazons-unique-approach-to-automl-makes-ai-accessible-to-enterprises.md",
-      "title": "Amazon’s Unique Approach To AutoML Makes AI Accessible To Enterprises",
-      "excerpt": "AutoML is a technique where customers bring their data and walk away with a model without worrying about the complex workflow involved in training machine learning models.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2021/01/31/amazons-unique-approach-to-automl-makes-ai-accessible-to-enterprises/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2021/01/31/amazons-unique-approach-to-automl-makes-ai-accessible-to-enterprises/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60168f6c53f27a98a70bf662%2F0x0.png",
-          "width": 1000,
-          "height": 780,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2021/01/31/amazons-unique-approach-to-automl-makes-ai-accessible-to-enterprises/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/01/31/amazons-unique-approach-to-automl-makes-ai-accessible-to-enterprises/amp/",
-      "publishedDateTime": "2021-01-31T03:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI",
-        "Microsoft AI",
-        "IBM AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-31-mckinsey-winning-companies-are-increasing-their-investment-in-ai-during-covid-19-what-do-they-know-that-you-dont.md",
-      "title": "McKinsey: Winning Companies Are Increasing Their Investment In AI During COVID-19. What Do They Know That You Don’t?",
-      "excerpt": "When I think about how to guide my company’s strategy, I look at what the winners in various industries are doing to see what I can learn from them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/glenngow/2021/01/31/mckinsey-winning-companies-are-increasing-their-investment-in-ai-during-covid-19-what-do-they-know-that-you-dont/",
-      "originalUrl": "https://www.forbes.com/sites/glenngow/2021/01/31/mckinsey-winning-companies-are-increasing-their-investment-in-ai-during-covid-19-what-do-they-know-that-you-dont/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600c63d62211004774caee59%2F0x0.jpg",
-          "width": 1200,
-          "height": 684,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/glenngow/2021/01/31/mckinsey-winning-companies-are-increasing-their-investment-in-ai-during-covid-19-what-do-they-know-that-you-dont/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2021/01/31/mckinsey-winning-companies-are-increasing-their-investment-in-ai-during-covid-19-what-do-they-know-that-you-dont/amp/",
-      "publishedDateTime": "2021-01-31T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-31-heres-a-way-to-learn-if-facial-recognition-systems-used-your-photos.md",
-      "title": "Here’s a Way to Learn if Facial Recognition Systems Used Your Photos",
-      "excerpt": "An online tool targets only a small slice of what’s out there, but may open some eyes to how widely artificial intelligence research fed on personal images.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/01/31/technology/facial-recognition-photo-tool.html",
-      "originalUrl": "https://www.nytimes.com/2021/01/31/technology/facial-recognition-photo-tool.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/01/22/business/22facedata/merlin_182626764_00ff9955-a389-4061-a12f-e547bae6948d-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/01/31/technology/facial-recognition-photo-tool.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/31/technology/facial-recognition-photo-tool.amp.html",
-      "publishedDateTime": "2021-01-31T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-01-31-vaccine-rollout-how-ai-can-help.md",
-      "title": "Vaccine Rollout: How AI Can Help",
-      "excerpt": "Yet it seems that technologies like AI can help with the challenges. \"Humans don’t have the capacity to consider thousands of competing and evolving factors,” said Arijit Sengupta, who is the Founder and CEO of Aible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2021/01/30/vaccine-rollout-how-ai-can-help/",
-      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2021/01/30/vaccine-rollout-how-ai-can-help/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60161ce25e2686b3d7cc8107%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7626%26cropY1%3D387%26cropY2%3D4678",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2021/01/30/vaccine-rollout-how-ai-can-help/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2021/01/30/vaccine-rollout-how-ai-can-help/amp/",
-      "publishedDateTime": "2021-01-30T19:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-31-ai-needs-an-open-labeling-platform.md",
-      "title": "AI needs an open labeling platform",
-      "excerpt": "Training data platforms are emerging as the best way to handle the collection, labeling, and feeding of data into supervised learning models.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/30/ai-needs-an-open-labeling-platform/",
-      "originalUrl": "https://venturebeat.com/2021/01/30/ai-needs-an-open-labeling-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/labeling.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/30/ai-needs-an-open-labeling-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/30/ai-needs-an-open-labeling-platform/amp/",
-      "publishedDateTime": "2021-01-30T12:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

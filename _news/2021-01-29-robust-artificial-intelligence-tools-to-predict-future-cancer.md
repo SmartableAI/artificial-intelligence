@@ -7,8 +7,8 @@ originalUrl: "https://news.mit.edu/2021/robust-artificial-intelligence-tools-pre
 webUrl: "https://news.mit.edu/2021/robust-artificial-intelligence-tools-predict-future-cancer-0128"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: Massachusetts Institute of Technology
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Finesse raises $4.5M to predict fashion trends with AI"
-    excerpt: "Finesse, a startup promising to take the guesswork and waste out of fashion, is announcing that it has raised $4.5 million in seed and pre-seed funding. Founder and CEO Ramin Ahmari said the tremendous waste in the fashion industry has become a badly kept secret,"
-    publishedDateTime: 2021-01-27T23:17:00Z
-    webUrl: "https://techcrunch.com/2021/01/27/finesse-launch-seed-funding/"
-    ampWebUrl: "https://techcrunch.com/2021/01/27/finesse-launch-seed-funding/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/27/finesse-launch-seed-funding/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/01/ECOMM_RETOUCHED_CC_2U6A9550-1.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Robust artificial intelligence tools to predict future cancer"
     excerpt: "Researchers created a risk-assessment algorithm that shows consistent performance across datasets from US, Europe, and Asia. To catch cancer earlier, we"
     publishedDateTime: 2021-01-31T14:38:00Z
@@ -59,6 +43,22 @@ related:
       - url: "https://scienceblog.com/wp-content/uploads/2021/01/MIT-Mirai_0-scaled-1.jpg"
         width: 1350
         height: 900
+        isCached: true
+  - title: "Using artificial intelligence to predict which women will develop breast cancer"
+    excerpt: "A team of researchers with members from institutions in the U.S., Sweden and Taiwan has developed an artificial intelligence system for predicting breast cancer years before tumors appear. In their paper published in the journal Science Translational Medicine,"
+    publishedDateTime: 2021-01-28T15:20:00Z
+    webUrl: "https://medicalxpress.com/news/2021-01-artificial-intelligence-women-breast-cancer.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-01-artificial-intelligence-women-breast-cancer.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-01-artificial-intelligence-women-breast-cancer.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 53
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2015/6-breastcancer.jpg"
+        width: 1280
+        height: 1024
         isCached: true
 
 secured: "p6QFjuy10cwCzHffLml55DMS3AzufYr5TaeNt3rOJtCBCrTrHUB5gHY8TOUMNMGdERTcIWJKHTEcd3mtK3AJirqpHBKg3aXsfQREC57h9YkrPclxX3ywMuVI0Mhd2ijftA1JArRojRhMU6GHwiQlkFjNl5+Udo4ILF7oQFTO8rJl/7EbEYm1gD/FmMnUdSLn+6B+0TC0WfWlZkss1OX+ORykTRNmYuapGdGccK7XNZN+viaIF3NqBbxtDQvJGHKXJWTMbEyjXu1iVddOVHu3GLK8kX9ZFjsG4KmaVDyVIGzeR/I/uneqkHCQM/5oPxRwmxiu6G72Ib0AgaHgq1PSIo7g4wvkMm/nnWBkoEsW70l3M+BQ7C9FS2BhUIa+L+FlQcCWJklzlPxT9RGltPOIOsYK2Grs6UNbnWxEWYZh+3y4Cl0V6/ZSdypgy3/aveLeWm+j7QAB3D1GH/PQVEnsQvEiMKRPOO3z3eRuzRVPhY1nm2tPQ6MPBGf4eaN4gjozhm3QOYdjiLSRsKNd5/5FAQ==;nH9PAgcwEDoA/SOzvqmbrQ=="

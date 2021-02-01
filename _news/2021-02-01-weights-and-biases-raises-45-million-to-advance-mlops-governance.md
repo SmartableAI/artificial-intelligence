@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/02/01/weights-and-biases-raises-45-mill
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/01/weights-and-biases-raises-45-million-to-advance-mlops-governance/amp/"
 type: article
 quality: 89
-heat: 109
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -31,32 +31,34 @@ images:
     isCached: true
 
 related:
-  - title: "Weights and Biases Raises $45M Series B to Expand Beyond Experiment Tracking for Machine Learning Practitioners Everywhere"
-    excerpt: "Canada NewsWire SAN FRANCISCO, Feb. 1, 2021 Trusted by 7"
-    publishedDateTime: 2021-02-01T13:09:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2021-02-01/weights-and-biases-raises-45m-series-b-to-expand-beyond-experiment-tracking-for-machine-learning-practitioners-everywhere"
+  - title: "Weights & Biases raises $45M for its machine learning tools"
+    excerpt: "Weights & Biases, a startup building tools for machine learning practitioners, is announcing that it’s raised $45 million in Series B funding. The company was founded by Lukas Biewald, Chris Van Pelt and Shawn Lewis — Biewald and Van Pelt previously founded CrowdFlower/Figure Eight"
+    publishedDateTime: 2021-02-01T16:35:00Z
+    webUrl: "https://techcrunch.com/2021/02/01/weights-and-biases-series-b/"
+    ampWebUrl: "https://techcrunch.com/2021/02/01/weights-and-biases-series-b/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/01/weights-and-biases-series-b/amp/"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 58
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
     images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-        width: 1200
-        height: 630
+      - url: "https://techcrunch.com/wp-content/uploads/2021/02/image-5.jpg?w=680"
+        width: 680
+        height: 412
         isCached: true
-  - title: "Online Voice Message Platform Company Yac Raises $7.5 Million"
-    excerpt: "Yac — an online voice message and asynchronous communications platform — announced it has raised $7.5 million in venture funding led by GGV Capital. These are the details."
-    publishedDateTime: 2021-02-01T10:15:00Z
-    webUrl: "https://pulse2.com/yac-raises-7-5-million/"
-    ampWebUrl: "https://pulse2.com/yac-raises-7-5-million/amp/"
-    cdnAmpWebUrl: "https://pulse2-com.cdn.ampproject.org/c/s/pulse2.com/yac-raises-7-5-million/amp/"
+  - title: "Weights and Biases Raises $45M Series B to Expand Beyond Experiment Tracking for Machine Learning Practitioners Everywhere"
+    excerpt: "Trusted by 70,000+ users at 200+ enterprises and institutionsSAN FRANCISCO, Feb. 1, 2021 /CNW/ -- Weights and Biases, the Experiment Tracking"
+    publishedDateTime: 2021-02-01T13:22:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/weights-and-biases-raises-45m-series-b-to-expand-beyond-experiment-tracking-for-machine-learning-practitioners-everywhere-1030027502"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/weights-and-biases-raises-45m-series-b-to-expand-beyond-experiment-tracking-for-machine-learning-practitioners-everywhere-1030027502"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/weights-and-biases-raises-45m-series-b-to-expand-beyond-experiment-tracking-for-machine-learning-practitioners-everywhere-1030027502"
     type: article
     provider:
-      name: Pulse 2.0
-      domain: pulse2.com
-    quality: 39
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 58
 
-secured: "R7YnTarmPfplkJTja9pUFUUrGmYl9BH4vTr6QIVwEaYUCIg7JcUtV6oMAKnXNOGlEMtEgM34RJUeiZb9ANg9KDklWgXmrg1U6m+AvLcjiGGjBPc1B/cJmtiSW7FS3sxIjVt3MhO8fKhugcZFJgXfY2ekCT+MI8w5lt9Gj8bzaqfgF+8snFMZJJKWYRIz3cr1NdQo4qcqIfGRrmcLGfG73hqUmMc84k/1zIm7+YDwMwez2NBLPc7yASMVVcp9kdwiq9dQi0kWoUBjnl+AKcD44ZTXwVyoN2m9RRwuJtBoX9bhcc2mg0S7eQA7yFnw0WnwRMSePrVPp9G33edUN2H9WVV6Pnn0EqK/ykBYu6E/e6Y=;KGuA5qfV6BH5XP7yNWYw0A=="
+secured: "7R/+7boz2aMnezNMu6pjBIXV9jPUOnSKeDrPUWhlWtAaRrNMvv8buObVyK/hoaSFyDBVDYasrp8K4p4KQiOJouezPlDD5oOXnpW8gtDjQfGYQIoTkAI7bRSN3iMInWtgCGcUfgxmWOzuvZPQdlivLEf52DusUsObtIrbvsEocKO3FpQCbLJC30uVaInVzsXFjCZ3VuiVG6HUzuhTF47ERaOZInaOtm2F41V/U3fBJAN7ZXmHCk0XTQfyFo+9wvCohojxydQU52C8Vxr1ZeCCVATPN+1apG1TDYy90hj6f7Xb70ajeja7sWS2NEYMUfCEIzIuwJAJPapOB0OA//8g/Xim2BxFfx5lmP/rhqW6r4dxgDNTXoee6c34IZ5crra5w6hhEJXTbV+m4cQqvRllE1mTTVjvQmt5yLNZ/jDcmTlghMPIk/KrDw7oEvbiPx033vBuKyqKBJxgBEIzqrpMDuhEbEwc2TDq+w8xVSiIw3Y0LTWZD47NA4RqU4bUUpfGmGoZ7zDnccgieuF+ph/4JA==;34W8cC7B0NvYbEaRUBlDqA=="
 ---
 

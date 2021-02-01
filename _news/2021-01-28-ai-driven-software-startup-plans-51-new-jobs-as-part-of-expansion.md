@@ -23,6 +23,22 @@ images:
     height: 4773
     isCached: true
 
+related:
+  - title: "AI startup growing in Indy"
+    excerpt: "Catipult.AI, which has developed an artificial intelligence platform to help businesses manage and track strategic goals, says it will invest more than $2.6 million to secure a larger office space in Indy and create up to 51 jobs by the end of 2024."
+    publishedDateTime: 2021-01-28T14:12:00Z
+    webUrl: "https://www.wishtv.com/news/inside-indiana-business/ai-startup-growing-in-indy/"
+    type: article
+    provider:
+      name: WISHTV8
+      domain: wishtv.com
+    quality: 37
+    images:
+      - url: "https://i2.wp.com/www.wishtv.com/wp-content/uploads/2021/01/Peter-Fuller-Catipult.jpg?fit=960%2C540&#038;ssl=1"
+        width: 960
+        height: 540
+        isCached: true
+
 secured: "e9vX4s7d/1rpENcDhC7HjNfskrTuEB/M8LOLNEnx2KOTajfHrw6wLjNCXLX/PjVSEqd9d+vX55r9J7yJ23KWxFdWRrdgwfKvFvBEz/dDs6k0bgG249YRXRUnzeXMWP2YHiqyhgJnNvlMo53eV9sGpKCIayAFCH0v0sSlOx2PpociWHyG+ZHJhqQLswhLy1yJo3yN1BD29ydBTfMMiWHnmMiXx8/NvNYI66huRczkZXWeJ02gq2XfiPzjdBk4WXSiKG+hr1uQ7U/MrUKeP4YyWYv/UwO6ss3CHVzFE2TCrDl0vALmqCwyctXIoRki8g1fhqKnL2IdsGUbGF1bVVhGBKAfd8GnGy8sY1X0QF6ckERHOQKtHoRVD8mCxo7uMQXWtz2oRYO06n/qB/+cytAinPNc1TLX+wD1MkyAQAJg6dOuEhzE2PKhySsyMpxuVrhVnBcyGn2RCMEzdfOSd4Tc4llMt17VUsyQOXXIn3HBP3bCIrUit3BjAl5Car06qdo0DbASkWaHx6fagdCuWA9tuw==;5gQRoEd+JqXskSh92BId0w=="
 ---
 

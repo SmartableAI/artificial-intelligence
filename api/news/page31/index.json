@@ -2,6 +2,452 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2021-01-08-its-not-going-to-be-very-hard-to-id-them-feds-have-tools-to-easily-track-down-capitol-rioters.md",
+      "title": "‘It’s not going to be very hard to ID them’: Feds have tools to easily track down Capitol rioters",
+      "excerpt": "The FBI has some of the most powerful facial recognition systems in the country, according to outside experts. And because few arrests were made during the deadly unrest, law enforcement officials will now have to depend on that technology to speed up ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fedscoop.com/capitol-riots-mob-facial-recognition-fbi-tracking/",
+      "originalUrl": "https://www.fedscoop.com/capitol-riots-mob-facial-recognition-fbi-tracking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fedscoop.com/wp-content/uploads/2021/01/50810619993_3417a94153_k.jpg",
+          "width": 2040,
+          "height": 1190,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-07T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FedScoop",
+        "domain": "fedscoop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-lisk-machine-learning-trading-up-158-over-last-week-lml.md",
+      "title": "Lisk Machine Learning Trading Up 15.8% Over Last Week (LML)",
+      "excerpt": "Lisk Machine Learning (CURRENCY:LML) traded up 31.8% against the U.S. dollar during the 24-hour period ending at 18:00 PM Eastern on January 7th. One Lisk Machine Learning token can now be purchased for about $0.",
+      "sourceUrl": null,
+      "webUrl": "https://www.modernreaders.com/news/2021/01/07/lisk-machine-learning-trading-up-15-8-over-last-week-lml.html",
+      "originalUrl": "https://www.modernreaders.com/news/2021/01/07/lisk-machine-learning-trading-up-15-8-over-last-week-lml.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.modernreaders.com/news/2021/01/07/lisk-machine-learning-trading-up-15-8-over-last-week-lml.html/amp",
+      "cdnAmpWebUrl": "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2021/01/07/lisk-machine-learning-trading-up-15-8-over-last-week-lml.html/amp",
+      "publishedDateTime": "2021-01-07T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "modernreaders.com",
+        "domain": "modernreaders.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-top-consumer-ideas-to-start-off-2021.md",
+      "title": "Top Consumer Ideas To Start Off 2021",
+      "excerpt": "Our top consumer ideas for January as we enter 2021. As we exit the political season and with the Covid-19 vaccine in front of us, we go in-depth on our favorite consumer stocks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2021/01/07/top-consumer-ideas-to-start-off-2021/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2021/01/07/top-consumer-ideas-to-start-off-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff791628b012174845f5771%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2000%26cropY1%3D60%26cropY2%3D1185",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2021/01/07/top-consumer-ideas-to-start-off-2021/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2021/01/07/top-consumer-ideas-to-start-off-2021/amp/",
+      "publishedDateTime": "2021-01-07T14:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-robotics-ready-for-its-moment-as-pandemic-headwinds-abate.md",
+      "title": "Robotics Ready for Its Moment as Pandemic Headwinds Abate",
+      "excerpt": "Disruptive technologies can encounter headwinds over the course of their evolutions, but that doesn't always mean long-term negativity. Take the case of robotics investments. The coronavirus pandemic could have been a problem for the group,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/robotics-ready-for-its-moment-as-pandemic-headwinds-abate-2021-01-07",
+      "originalUrl": "https://www.nasdaq.com/articles/robotics-ready-for-its-moment-as-pandemic-headwinds-abate-2021-01-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/robotics-ready-for-its-moment-as-pandemic-headwinds-abate-2021-01-07?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/robotics-ready-for-its-moment-as-pandemic-headwinds-abate-2021-01-07?amp",
+      "publishedDateTime": "2021-01-07T14:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-2-artificial-intelligence-stocks-leading-the-new-wave.md",
+      "title": "2 Artificial Intelligence Stocks Leading the New Wave",
+      "excerpt": "It's a new year, and good time to take a look at what lies ahead. Not in the short term, but on the longer horizon. So, here’s a number to think about: $126 billion. That’s the predicted size of the Artificial Intelligence (AI) technology market in 2025.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/2-artificial-intelligence-stocks-leading-the-new-wave-2021-01-07",
+      "originalUrl": "https://www.nasdaq.com/articles/2-artificial-intelligence-stocks-leading-the-new-wave-2021-01-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/2-artificial-intelligence-stocks-leading-the-new-wave-2021-01-07?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-artificial-intelligence-stocks-leading-the-new-wave-2021-01-07?amp",
+      "publishedDateTime": "2021-01-07T13:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-augmented-creativity-how-ai-can-accelerate-human-invention.md",
+      "title": "‘Augmented creativity’: How AI can accelerate human invention",
+      "excerpt": "We're witnessing the emergence of something called \"augmented creativity,\" in which humans use AI to help them understand the deluge of data.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/07/why-we-need-augmented-creativity-to-reignite-growth-in-2021/",
+      "originalUrl": "https://venturebeat.com/2021/01/07/why-we-need-augmented-creativity-to-reignite-growth-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/09/GettyImages-844383206.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/07/why-we-need-augmented-creativity-to-reignite-growth-in-2021/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/07/why-we-need-augmented-creativity-to-reignite-growth-in-2021/amp/",
+      "publishedDateTime": "2021-01-07T13:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-two-ways-of-performing-massively-parallel-ai-calculations-using-light.md",
+      "title": "Two ways of performing massively parallel AI calculations using light",
+      "excerpt": "Now, two different teams of researchers have figured out ways of performing calculations with light in a way that both merges memory and calculations and allows for massive parallelism. Despite the differences in implementation,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/science/2021/01/two-ways-of-performing-massively-parallel-ai-calculations-using-light/?comments=1",
+      "originalUrl": "https://arstechnica.com/science/2021/01/two-ways-of-performing-massively-parallel-ai-calculations-using-light/?comments=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/01/Laser_frequency_comb_installed_on_HARPS-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-07T12:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-uk-competition-regulator-to-probe-nvidias-40-billion-arm-takeover.md",
+      "title": "U.K. competition regulator to probe Nvidia’s $40 billion Arm takeover",
+      "excerpt": "Britain's competition regulator said it would start an investigation into Nvidia’s $40 billion deal to buy U.K.-based chip designer Arm.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/07/uk-to-probe-nvidias-40-billion-arm-takeover/",
+      "originalUrl": "https://venturebeat.com/2021/01/07/uk-to-probe-nvidias-40-billion-arm-takeover/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/GettyImages-1208744151.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/07/uk-to-probe-nvidias-40-billion-arm-takeover/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/07/uk-to-probe-nvidias-40-billion-arm-takeover/amp/",
+      "publishedDateTime": "2021-01-07T10:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-chinese-search-giant-baidu-to-make-electric-cars.md",
+      "title": "Chinese search giant Baidu to make electric cars",
+      "excerpt": "Chinese search giant Baidu plans to make electric vehicles with help from Geely, the country’s largest private automaker, according to a new report from Reuters. It’s the latest Chinese conglomerate to venture into the flourishing electric vehicle market,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2021/1/7/22218903/china-baidu-geely-electric-cars-partnership-tech",
+      "originalUrl": "https://www.theverge.com/2021/1/7/22218903/china-baidu-geely-electric-cars-partnership-tech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 249,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/6tCoAglLnNPPfPd479qk3U1jivY=/0x0:5472x3648/1400x933/filters:focal(2263x2166:3137x3040):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68633552/1211912915.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/1/7/22218903/china-baidu-geely-electric-cars-partnership-tech",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/1/7/22218903/china-baidu-geely-electric-cars-partnership-tech",
+      "publishedDateTime": "2021-01-07T10:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-cox-automotive-to-service-self-driving-fleet-of-hyundais-joint-venture.md",
+      "title": "Cox Automotive to service self-driving fleet of Hyundai's joint venture",
+      "excerpt": "Privately held Cox Automotive Inc entered an agreement on Thursday to provide cleaning and maintenance services for the self-driving cars of Motional, a joint venture between Hyundai Motor Co and auto supplier Aptiv Plc .",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/cox-automotive-motional-idUSL4N2JH3AX",
+      "originalUrl": "https://www.reuters.com/article/cox-automotive-motional-idUSL4N2JH3AX",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL4N2JH3AX",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2JH3AX",
+      "publishedDateTime": "2021-01-07T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-ensuring-healthcares-innovation-boom-benefits-all-equally.md",
       "title": "Ensuring Healthcare’s Innovation Boom Benefits All Equally",
       "excerpt": "She shared thoughts on three areas of innovation that have seen some of the biggest leaps in the past few years. While there might be a drop off in telehealth visits once the pandemic subsides, it has undoubtedly become a mainstay of medicine.",
@@ -696,449 +1142,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-dsp-group-unveils-dbm10-low-power-edge-aiml-soc-with-dedicated-neural-network-inference-processor.md",
-      "title": "DSP Group Unveils DBM10 Low-Power Edge AI/ML SoC with Dedicated Neural Network Inference Processor",
-      "excerpt": "SAN JOSE, Calif., Jan. (GLOBE NEWSWIRE) -- DSP Group, Inc. (NASDAQ:DSPG), a leading global provider of wireless and voice-processing chipset solutions for",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/01/g19055169/dsp-group-unveils-dbm10-low-power-edge-aiml-soc-with-dedicated-neural-network-inference-processor",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/01/g19055169/dsp-group-unveils-dbm10-low-power-edge-aiml-soc-with-dedicated-neural-network-inference-processor",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/19055169",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19055169",
-      "publishedDateTime": "2021-01-07T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-masks-no-obstacle-for-new-nec-facial-recognition-system.md",
-      "title": "Masks no obstacle for new NEC facial recognition system",
-      "excerpt": "Japan's NEC Corp has launched a facial recognition system that identifies people even when they are wearing masks, adapting to a new normal where face coverings have become a key form of protection against the spread of the coronavirus.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-japan-facial-recog-idUKKBN29C0JZ",
-      "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-japan-facial-recog-idUKKBN29C0JZ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 259,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1546913023&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH060BW",
-          "width": 743,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN29C0JZ",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29C0JZ",
-      "publishedDateTime": "2021-01-07T02:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-explained-how-does-facebooks-ai-tool-for-suicide-prevention-work.md",
-      "title": "Explained | How does Facebook’s AI tool for suicide prevention work?",
-      "excerpt": "Along with its community operations team, the social media giant has an AI tool that picks up phrases or words that signal distress or trouble in posts as well as comments to alert authorities or get help to the person.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/business/explained-how-does-facebooks-ai-tool-for-suicide-prevention-work-6316061.html",
-      "originalUrl": "https://www.moneycontrol.com/news/business/explained-how-does-facebooks-ai-tool-for-suicide-prevention-work-6316061.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2020/11/Facebook_nov30-770x433.jpg?impolicy=website&width=770&height=431",
-          "width": 770,
-          "height": 431,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/business/explained-how-does-facebooks-ai-tool-for-suicide-prevention-work-6316061.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/explained-how-does-facebooks-ai-tool-for-suicide-prevention-work-6316061.html/amp",
-      "publishedDateTime": "2021-01-07T01:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-poet-enters-into-development-and-supply-agreements-with-photonic-neural-network-systems-firm.md",
-      "title": "POET enters into development and supply agreements with photonic neural network systems firm",
-      "excerpt": "POET Technologies Inc of Toronto, Ontario, Canada — designer and developer of the POET Optical Interposer and photonic integrated circuits (PICs)",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/poet-enters-into-development-and-supply-agreements-with-photonic-neural-network-systems-firm-9670571",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/poet-enters-into-development-and-supply-agreements-with-photonic-neural-network-systems-firm-9670571",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/poet-enters-into-development-and-supply-agreements-with-photonic-neural-network-systems-firm-9670571",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/poet-enters-into-development-and-supply-agreements-with-photonic-neural-network-systems-firm-9670571",
-      "publishedDateTime": "2021-01-07T00:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-healthcare-artificial-intelligence-ai-market-share-analysis-regional-outlook-growth-statistics-key-players-and-covid-19-impact-analysis.md",
-      "title": "Healthcare Artificial Intelligence (AI) Market Share Analysis, Regional Outlook, Growth Statistics, Key Players and COVID-19 Impact Analysis By 2023",
-      "excerpt": "The healthcare artificial intelligence (AI) market is anticipated to grow by US$12.22 Billion by 2023 rapidly growing at a CAGR of 51.9% during the forecast period 2018 to 2023. The global demand for artificial intelligence (AI) in healthcare is driven by a rising volume of healthcare data,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-share-analysis-regional-outlook-growth-statistics-key-players-and-covid-19-impact-analysis-by-2023-2021-01-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-share-analysis-regional-outlook-growth-statistics-key-players-and-covid-19-impact-analysis-by-2023-2021-01-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-07T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-tiktok-parent-company-bytedance-open-sources-neural-speech-translation-toolkit.md",
-      "title": "TikTok Parent Company ByteDance Open Sources Neural Speech Translation Toolkit",
-      "excerpt": "Chinese tech company ByteDance, parent of video-sharing app TikTok, releases NeurST, an open-source toolkit neural speech translation.",
-      "sourceUrl": null,
-      "webUrl": "https://slator.com/industry-news/tiktok-parent-company-bytedance-open-sources-neural-speech-translation-toolkit/",
-      "originalUrl": "https://slator.com/industry-news/tiktok-parent-company-bytedance-open-sources-neural-speech-translation-toolkit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://slator.com/assets/2021/01/Bytedance-Neural-Machine-Translation-Research-2021.png",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-06T23:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Slator",
-        "domain": "slator.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-intels-new-realsense-id-packs-on-device-facial-recognition.md",
-      "title": "Intel's new RealSense ID packs on-device facial recognition",
-      "excerpt": "Intel's new RealSense ID will cost $99 and launch in Q1 2021 with built-in anti-spoofing technology protecting your data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/77159/intels-new-realsense-id-packs-on-device-facial-recognition/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/77159/intels-new-realsense-id-packs-on-device-facial-recognition/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tweaktown.com/news/7/7/77159_03_intels-new-realsense-id-packs-on-device-facial-recognition.png",
-          "width": 620,
-          "height": 387,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tweaktown.com/news/77159/intels-new-realsense-id-packs-on-device-facial-recognition/amp.html",
-      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/77159/intels-new-realsense-id-packs-on-device-facial-recognition/amp.html",
-      "publishedDateTime": "2021-01-06T22:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-need-a-covid-test-look-for-a-vending-machine.md",
-      "title": "Need a COVID test? Look for a vending machine",
-      "excerpt": "\"Our unique cloud architecture allows us to service many use cases like Wellness 4 Humanity, while having machine learning power our operations,\" Smith said. Swyft's other customers include CVS, Best Buy, and 7-Eleven. These companies use Swyft's automated ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/need-a-covid-test-look-for-a-vending-machine/",
-      "originalUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/need-a-covid-test-look-for-a-vending-machine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2021/01/06/94c4c6b9-7324-42c8-a7e1-a8b8dec10bea/resize/1200x/9b85599fd04562d09f3944361b6379d2/istock-1224323409.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/need-a-covid-test-look-for-a-vending-machine/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/need-a-covid-test-look-for-a-vending-machine/",
-      "publishedDateTime": "2021-01-06T21:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-video-search-pioneer-panopto-hires-ibm-ai-marketing-executive.md",
-      "title": "Video Search Pioneer Panopto Hires IBM AI Marketing Executive",
-      "excerpt": "Neway brings a unique combination of marketing leadership, B2B expertise, and B2C brand experience to Panopto. Panopto’s video management system helps large enterprises and higher educational institutions build,",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210107005168/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20210107005168/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-06T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-aws-invites-registrations-for-free-online-event-on-artificial-intelligence-here-are-the-details.md",
-      "title": "AWS Invites Registrations for Free Online Event on Artificial Intelligence: Here Are the Details",
-      "excerpt": "AWS has invited organisations and individuals to take part in a free event on artificial intelligence called “Amazon AI Conclave” AWS has invited individuals and businesses to take part in a free online event on artificial intelligence. The event ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/aws-invites-registrations-free-online-event-artificial-intelligence-details/",
-      "originalUrl": "https://www.dqindia.com/aws-invites-registrations-free-online-event-artificial-intelligence-details/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2020/05/online-5059828_640.jpg",
-          "width": 674,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/aws-invites-registrations-free-online-event-artificial-intelligence-details/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/aws-invites-registrations-free-online-event-artificial-intelligence-details/amp/",
-      "publishedDateTime": "2021-01-06T20:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }
