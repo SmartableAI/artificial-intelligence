@@ -1,27 +1,33 @@
 ---
 category: news
 title: "SoftBank's Son expects mass production of driverless cars in two years"
-excerpt: "Son, who made his name for investing early in startups such as China's Alibaba Group had said he will continue to take stakes in public companies he thinks are frontrunners in the artificial ..."
-publishedDateTime: 2021-01-30T11:15:00Z
-originalUrl: "https://www.theguardian.pe.ca/business/reuters/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years-546670/"
-webUrl: "https://www.theguardian.pe.ca/business/reuters/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years-546670/"
+excerpt: "Son, who made his name for investing early in startups such as China’s Alibaba Group had said he will continue to take stakes in public companies he thinks are frontrunners in the artificial ..."
+publishedDateTime: 2021-01-29T16:08:00Z
+originalUrl: "https://www.reuters.com/article/us-davos-meeting-son-autonomous-idUSKBN29Y279"
+webUrl: "https://www.reuters.com/article/us-davos-meeting-son-autonomous-idUSKBN29Y279"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Y279"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Y279"
 type: article
-quality: 39
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.pe.ca
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.theguardian.pe.ca/media/photologue/photos/cache/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years_medium"
-    width: 458
-    height: 305
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210129&t=2&i=1549571164&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0S194"
+    width: 829
+    height: 545
     isCached: true
 
 related:
@@ -233,6 +239,6 @@ related:
         height: 300
         isCached: true
 
-secured: "SZJFBN7nxyta8A3Tcc1lseDdnUVjxEwL5bZN0rsSwW4SHrfDHOBtLvwTQSdFYch7vKQvER5uI7a4hhM7KUQSMT1ONWG2cZ7Ulw+QW7MfDoFU+8r0G/LMmTLvPtNR1WIRXUmTpPd4nBC9i/8gm2uR/CsB7Ixc1tHfCHQcS7wn6YWktCd/eMdTFsethKlaMz9vM1CAP7qgG4uUNTGmPclZN0yK/7meGQDeTRJsuqXYiFkXJv4L9Tj6g/zKM5LHA0ZM6o3W/j8esDzYqav/h0oeaN0Vrx/zU9QZYiR7vnon9o2s7rczSE0lOOuUlUleiwdzuSdnc2MBvEMX2v3OvOvwLA6ewLI2uOmjxFrjFpxId68=;kRZbc+T3DhZhw9JARAv5fQ=="
+secured: "mpG+aE0yaIArofD8twlSJtOIyeh3firsnRbz15SXFcp2G1mdMm2Kw6Px/ieUU6OFW7Xe46wodkB9IeVAwQdfSZydJ8i00KoPjFJv/ly32AkmFdmrUfI1Z7iqW4TxX15yXZZGgPRBdsfCRjmwW8YOxNDFrH6T8gtCjexbe5+fCIhfdYwBooygPQhWYpPU1Jl10tL6VbuqgOSxwSLXPRbuosY8QXJZjh9DT80XoqXD565MN0jgK41Kn4QH8wXdfIz5GVLj1QhnpFKXkNVy8yUPXCbkTGPcQ5++itpVmwoX9yFtj4nN+bby6wmPPQlKQY4UeZpp2LTnjT7n5gQacROTelok6Bk3xQJ/DU8Esku/NTY=;nSxSnEl5fkYEMr1FmQPn7A=="
 ---
 

@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Female entrepreneur pioneers facial recognition tech"
-excerpt: "Kim Harrisberg - Charlette N'Guessan Desiree loved maths and science as a student in Ivory Coast, but never imagined she would one day use her problem-solving savvy to develop facial recognition technology more adept at identifying and verifying African faces."
-publishedDateTime: 2021-02-01T04:05:00Z
-originalUrl: "https://www.republikein.com.na/nuus/female-entrepreneur-pioneers-facial-recognition-tech2021-02-01/"
-webUrl: "https://www.republikein.com.na/nuus/female-entrepreneur-pioneers-facial-recognition-tech2021-02-01/"
+excerpt: "Female entrepreneur pioneers facial recognition tech - Kommunikation - Kim Harrisberg - Charlette N'Guessan Desiree loved maths and science as a student in Ivory... - Allgemeine Zeitung"
+publishedDateTime: 2021-02-01T07:04:00Z
+originalUrl: "https://www.az.com.na/nachrichten/female-entrepreneur-pioneers-facial-recognition-tech2021-02-01/"
+webUrl: "https://www.az.com.na/nachrichten/female-entrepreneur-pioneers-facial-recognition-tech2021-02-01/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Republikein
-  domain: republikein.com.na
+  name: Allgemeine Zeitung
+  domain: az.com.na
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://d3rp5jatom3eyn.cloudfront.net/assets/images/11964/female-entrepreneur-pioneers-facial-recognition-tech2021-02-010.jpg"
+  - url: "https://cdn.my.na/assets/images/11964/female-entrepreneur-pioneers-facial-recognition-tech2021-02-010.jpg"
     width: 1024
     height: 602
     isCached: true
@@ -94,6 +94,6 @@ related:
       domain: ft.com
     quality: 19
 
-secured: "B+lkPAXrAb0fiERr7341WXN+37AJ0kLSRdr7p52JoLTV01na2ZssxDV4+yHVuP0MkpKr+fVyfmf5ycpGBWPsfikXOPkG5Cb/HmijzScHg6HDcqRpgDa7OqeuLP+5hg5tbdpy0sqqN0M1hH8wCymfAfKilvIgCQPe4D17Dox9h6ktLcApKi6Up2LWzfzHO/a3z00/rfKSjZln1pr4RCy7ATyiQSoWCetwIpbXUa53EWBkQIETldWSR8Lw8JKATeNgqgGa5fsZmFv1tpK0tVu9g0l35/FtrVn3eGMu/FJ7RhyQ+I7dhXl5464TOwZEjGlZ6Hrh5CI+6U2jPEQH2f5m8S6B7d9uJySVyQY5iln2ybeEE7ugFOzEsH5gMjO6dCxg2+TL7oCEmO4+hUJiHyWmvLHgApXCSJoWG9EK0i+wGtTKMKAvX5h1PU/Nf9OvsQD796I+xZjIJ/qBqtWC8mBPoLl4e7aw9JPzY2qjlIeg9QfWw6iWbkEyxhrsrH2/2K7eY8dAvug1sVeN0ovJwGrCPQ==;EHl+UVXg+6ma+/wyQOj1HA=="
+secured: "WDm91lXHmR9ZMoG8IgT5IXFIUAyWTnnpcGG8chgdAOCvAJpZ/dt6sQjdITyD3MYEPTTrHbmuo/LOsDEUq64oXqgC3OMDcn3okHi2fSO2RynLWTWks3HEGx8GkxgtpWqFl7BSOcQVcBLoyOZAWJV11CxVu1Ezg2ZOd2R9/cpQWRoVIEOiDeC03kcN2iXBIqcJxD0NVU6GPHIqogwNPY1jGPznA+EtTIFXp8t/yXjVKXmKfjMgEANuueQEmez/L2ASwOsJJmei5l3eEL4NK/QtizLG0w+guq/iRkEu1MTFYnpW9b2j9DgGyuq8gjo444wRE0O8DrdIDngmCHliDBjqQYFQL7tcvgghrnv1fQXpcu8=;XG/J1z+reUkikRPvQLhllw=="
 ---
 

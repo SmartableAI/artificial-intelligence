@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/362981"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/362981"
 type: article
 quality: 74
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -105,17 +105,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Fintech regulations, financial stability, and data privacy: So, what is the path to go forward?"
-    excerpt: "In a recent development, the Delhi High Court received a Public Interest Litigation (PIL) from an applied economist, Reshmi P Bhaskaran, seeking to regulate the entry and operations of ‘TechFin’ platforms."
-    publishedDateTime: 2021-01-27T15:44:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/fintech-regulations-financial-stability-and-data-privacy-so-what-is-the-path-to-go-forward/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/fintech-regulations-financial-stability-and-data-privacy-so-what-is-the-path-to-go-forward/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/fintech-regulations-financial-stability-and-data-privacy-so-what-is-the-path-to-go-forward/"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 12
 
 secured: "Pz0pklU/b9zGJawobQjcoAwWJ2pkSMdvqRuxeANG0CylxX05JHfzjRnKqMbxGfomOpxnNVPG8Q8jxYT6OOlMN8I0JnQcQ5Cpg8BIltZzxPT4B9FklTZ9dSi0bj9FS8zvxR5EHdzSGy3p/WutExb8MDnfFXmzi1kS3XWXzHj7BK9wVWFc4L0xwaZu81x6acBkMfM3n5/Mrtk6vD650Yl3dfkm37IVSmKliK0MedREerJ9JcVAGa2KHXRPdflyZTRGdNJcJGptjcb9uvkVX3FVPe0UQq2u05/H6748AoVI9LCURKTeyxgKpXCIipaSUGyUFioDg3BlzjQm9afJAYT7bej+caP+ca8ielIa22gak14=;wgw0l9AXeD+97GxQRJLZyQ=="
 ---

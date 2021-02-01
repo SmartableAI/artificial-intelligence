@@ -79,16 +79,16 @@ related:
         height: 550
         isCached: true
   - title: "Female entrepreneur pioneers facial recognition tech"
-    excerpt: "Kim Harrisberg - Charlette N'Guessan Desiree loved maths and science as a student in Ivory Coast, but never imagined she would one day use her problem-solving savvy to develop facial recognition technology more adept at identifying and verifying African faces."
-    publishedDateTime: 2021-02-01T04:05:00Z
-    webUrl: "https://www.republikein.com.na/nuus/female-entrepreneur-pioneers-facial-recognition-tech2021-02-01/"
+    excerpt: "Female entrepreneur pioneers facial recognition tech - Kommunikation - Kim Harrisberg - Charlette N'Guessan Desiree loved maths and science as a student in Ivory... - Allgemeine Zeitung"
+    publishedDateTime: 2021-02-01T07:04:00Z
+    webUrl: "https://www.az.com.na/nachrichten/female-entrepreneur-pioneers-facial-recognition-tech2021-02-01/"
     type: article
     provider:
-      name: Republikein
-      domain: republikein.com.na
+      name: Allgemeine Zeitung
+      domain: az.com.na
     quality: 39
     images:
-      - url: "https://d3rp5jatom3eyn.cloudfront.net/assets/images/11964/female-entrepreneur-pioneers-facial-recognition-tech2021-02-010.jpg"
+      - url: "https://cdn.my.na/assets/images/11964/female-entrepreneur-pioneers-facial-recognition-tech2021-02-010.jpg"
         width: 1024
         height: 602
         isCached: true

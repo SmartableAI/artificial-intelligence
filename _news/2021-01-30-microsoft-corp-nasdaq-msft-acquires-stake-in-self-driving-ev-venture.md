@@ -46,20 +46,6 @@ related:
         width: 1024
         height: 443
         isCached: true
-  - title: "SD Times news digest: Microsoft Azure Boards, Neo4j Aura Enterprise announced, and Cloud Security Alliance’s Cloud Controls Matrix v4"
-    excerpt: "Azure Boards enables developers to filter to ... system level security, 5G, and AI/ML,” said Kevin Dallas, the president and CEO of Wind River. The solution contains a fully cloud-native ..."
-    publishedDateTime: 2021-01-27T16:52:00Z
-    webUrl: "https://sdtimes.com/softwaredev/sd-times-news-digest-microsoft-azure-boards-neo4j-aura-enterprise-announced-and-cloud-security-alliances-cloud-controls-matrix-v4/"
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 70
-    images:
-      - url: "https://sdtimes.com/wp-content/uploads/2021/01/008eGmZEly1gmlcy608vgj31b20u0wmg.jpg"
-        width: 1080
-        height: 689
-        isCached: true
   - title: "Microsoft Translator now supports Inuktitut language"
     excerpt: "Microsoft has added Inuktitut, the primary dialect of Inuktut, to Microsoft Translator in collaboration with the government of Nunavut."
     publishedDateTime: 2021-01-29T16:09:00Z

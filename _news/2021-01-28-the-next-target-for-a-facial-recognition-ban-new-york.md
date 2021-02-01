@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/next-target-facial-recognition-ban-new-y
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/next-target-facial-recognition-ban-new-york/amp"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Human rights group urges New York to ban police use of facial recognition"
-    excerpt: "The technology has repeatedly come up short in tests for racial bias and has been restricted in other major cities across the US"
-    publishedDateTime: 2021-01-27T15:50:00Z
-    webUrl: "https://www.theguardian.com/technology/2021/jan/25/new-york-facial-recognition-technology-police"
-    ampWebUrl: "https://amp.theguardian.com/technology/2021/jan/25/new-york-facial-recognition-technology-police"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/jan/25/new-york-facial-recognition-technology-police"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 60
-    images:
-      - url: "https://i.guim.co.uk/img/media/85676a6a424d2da156a1e11b78fc593a1ac470e2/0_232_3853_2312/master/3853.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8f16457acdc97a5aa2b31edd5fe305b7"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Millions of faces were scanned without approval. We need rules for facial recognition tech | Commentary"
     excerpt: "Federal authorities say a San Francisco company scanned the faces of millions of people without their knowing it. What's needed are clear rules for how facial recognition technology can be collected and used,"
     publishedDateTime: 2021-01-31T23:31:00Z

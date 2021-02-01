@@ -35,20 +35,6 @@ related:
         width: 1024
         height: 443
         isCached: true
-  - title: "SD Times news digest: Microsoft Azure Boards, Neo4j Aura Enterprise announced, and Cloud Security Alliance’s Cloud Controls Matrix v4"
-    excerpt: "Azure Boards enables developers to filter to ... system level security, 5G, and AI/ML,” said Kevin Dallas, the president and CEO of Wind River. The solution contains a fully cloud-native ..."
-    publishedDateTime: 2021-01-27T16:52:00Z
-    webUrl: "https://sdtimes.com/softwaredev/sd-times-news-digest-microsoft-azure-boards-neo4j-aura-enterprise-announced-and-cloud-security-alliances-cloud-controls-matrix-v4/"
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 70
-    images:
-      - url: "https://sdtimes.com/wp-content/uploads/2021/01/008eGmZEly1gmlcy608vgj31b20u0wmg.jpg"
-        width: 1080
-        height: 689
-        isCached: true
   - title: "Microsoft Corp. (NASDAQ: MSFT) Acquires Stake in Self-Driving EV Venture"
     excerpt: "Microsoft Corp. (NASDAQ: MSFT), a company primarily known for developing, manufacturing, licensing and selling computer software, electronics and personal computers, has announced that it has strategically teamed up with General Motors Co."
     publishedDateTime: 2021-01-30T02:02:00Z

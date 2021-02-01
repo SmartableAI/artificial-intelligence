@@ -2,6 +2,49 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-01-13-chartwise-medical-systems-selects-sytrue-natural-language-processing-to-improve-clinical-documentation-review.md",
+      "title": "ChartWise Medical Systems Selects SyTrue Natural Language Processing to Improve Clinical Documentation Review",
+      "excerpt": "ChartWise integrates healthcare’s most-advanced Natural Language Processing Operating System, NLP OS™ into its NotePath™ AI-based chart review system, an innovative documentation improvement ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wboc.com/story/43162812/chartwise-medical-systems-selects-sytrue-natural-language-processing-to-improve-clinical-documentation-review",
+      "originalUrl": "https://www.wboc.com/story/43162812/chartwise-medical-systems-selects-sytrue-natural-language-processing-to-improve-clinical-documentation-review",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://EINPRESSWIRE.images.worldnow.com/images/20243357_G.png?lastEditedDate=1610466746000",
+          "width": 900,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-12T15:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WBOC",
+        "domain": "wboc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-13-what-this-bald-eagle-and-neural-network-depiction-have-to-do-with-future-us-ai-strategy.md",
       "title": "What this bald eagle and neural network depiction have to do with future U.S. AI strategy",
       "excerpt": "The White House launched the National AI Initiatives Office, an org with an eagle and neural network on its seal, to plan U.S. AI strategy.",
@@ -1117,49 +1160,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-ai-chipsets-key-players-in-the-cloud-to-edge-shift.md",
-      "title": "AI Chipsets: Key Players in the Cloud-to-Edge Shift",
-      "excerpt": "AI chipsets and their significance in the modern industrial landscape. Why edge AI chips are surpassing cloud-based solutions as the preferred option for AI processing. The latest developments in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicdesign.com/technologies/iot/article/21152120/global-market-insights-ai-chipsets-key-players-in-the-cloudtoedge-shift",
-      "originalUrl": "https://www.electronicdesign.com/technologies/iot/article/21152120/global-market-insights-ai-chipsets-key-players-in-the-cloudtoedge-shift",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://base.imgix.net/files/base/ebm/electronicdesign/image/2021/01/Smart_Factory_promo.5ffdc298234b7.png?auto=format&fit=max&w=1200",
-          "width": 1200,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-12T07:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronic Design",
-        "domain": "electronicdesign.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

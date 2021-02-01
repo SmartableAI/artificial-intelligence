@@ -89,6 +89,22 @@ related:
         width: 829
         height: 545
         isCached: true
+  - title: "SoftBank's Son expects mass production of driverless cars in two years"
+    excerpt: "Son, who made his name for investing early in startups such as China’s Alibaba Group had said he will continue to take stakes in public companies he thinks are frontrunners in the artificial ..."
+    publishedDateTime: 2021-01-29T16:08:00Z
+    webUrl: "https://www.reuters.com/article/us-davos-meeting-son-autonomous-idUSKBN29Y279"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Y279"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Y279"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210129&t=2&i=1549571164&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0S194"
+        width: 829
+        height: 545
+        isCached: true
   - title: "Baidu gets California nod for testing driverless vehicles"
     excerpt: "Baidu Inc has received a permit from the state of California to test driverless vehicles without a backup driver in the front seat, the state’s Department of Motor Vehicles said on Wednesday. (Reporting by Munsif Vengattil in Bengaluru;"
     publishedDateTime: 2021-01-27T20:23:00Z
@@ -193,20 +209,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "SoftBank's Son expects mass production of driverless cars in two years"
-    excerpt: "Son, who made his name for investing early in startups such as China's Alibaba Group had said he will continue to take stakes in public companies he thinks are frontrunners in the artificial ..."
-    publishedDateTime: 2021-01-30T11:15:00Z
-    webUrl: "https://www.theguardian.pe.ca/business/reuters/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years-546670/"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.pe.ca
-    quality: 39
-    images:
-      - url: "https://www.theguardian.pe.ca/media/photologue/photos/cache/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years_medium"
-        width: 458
-        height: 305
-        isCached: true
   - title: "SoftBank’s Son expects mass production of driverless cars in two years"
     excerpt: "SoftBank Group Corp chief executive Masayoshi Son said on Friday he expects mass production of self-driving vehicles to start in two years."
     publishedDateTime: 2021-01-31T13:38:00Z
@@ -236,6 +238,6 @@ related:
         height: 300
         isCached: true
 
-secured: "cGCMgycKRmb7nnRDNNJcsCfGFpUiT3ZfaW43wtBa54XkKFTF7C8Ho/RKA31H5szx/vV3LUo+uk5tH+SFOKoZtI6i9og3YOCRsBzVcj0lU5nbXSVrL6P9fVrJhpQwYNAJFmTsagWdtmkDnqcToirivwFt2obAWQk6yjNWWArPv0vpnXJaz4IoO9utEJVg6nN4e2YgSr38I4TawEhkOuI1K4OM3mivmrhs+102KIXBrAQ0Y/ufve7GqXpYKK3ldw5m3UEtYE2j1ApFcBXH8dlenvrDpUyH62RvjOk2wUlM8l0t8T1v8z91jfn1lfImEq4W2pMCv9NTmbd7cgClGINMdTKWd/A4PaUvar1M9Ae7JBkMPaP/Xz98s6kdrdtDPbOvG6z5nd9BW8svY++MJuUL7/5GaecnE4GYo/xXar0DPHnnKyrHO39hIpcgOdl7cUWVrof83k5ZigjqX6pczbFDC0sVrygb4dM3HseNmWSWI3MWZhw5Gc8Qu1H1GWvl3FplD+SREUt8evUAIS+tOVfD8A==;3diEN9PByfwuJv2HwBwP7Q=="
+secured: "Gs252ugCz1XEoBoZsRPAgNRYQxL/mK15DA2Hf69nmwVL0dB+Macz2Ews96h5GDKPAaD+FxUcCudyArZJRxtQmM3H7StIQ4kvZ/EJZNbxDAQfe5GWJC/MDqU0dVrQoyzZ0ClY5YtiA6N4Lmr/kMjRKZgmBm5oIMBK2T0z8CdpqnVoLWRfntQi7grrkE6cs5+em3mvnRRjril1C2cEDA+LSvY4AAqRoStHOWIbJ4atmtsq7XZBYUoJqp5Nv4Bi8/HLsZ6cZEO2DQujV93dlDuomY28spyHnUpfrASAfMb9HsDoyhr+H4etCKVuvsJWmOriLmDfkUlrg30tESGybzBc1HSg70nJ76Q/vnSxkf+4C++kp9PsC9+KpTPIO3tfaWyf4rMgcEsc8QiKdIcr1dRtbWw4GEEp3WDTrC2jaSQGVLuKJjDXkoB+M9vDEj8wCue+PmzuhnB+qgy//+QaeJAVO4EOuffCT+puxJ86NJl2AUTz0QAloK+VZrKtjvDYdN2humGqkKDYY6P0lrMmddOQZg==;sKZU53gbMtA6drTQ6OToGw=="
 ---
 

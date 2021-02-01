@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "We Helped Greece Build an AI System to Make Covid-19 Testing More Efficient. Here's What We Learned."
-    excerpt: "In addition to travel and tourism, we believe AI-driven systems like Eva can help schools, workplaces, local governments, and other institutions with limited resources better manage their Covid-19 restrictions and testing policies. If a university ..."
-    publishedDateTime: 2021-01-27T16:30:00Z
-    webUrl: "https://www.entrepreneur.com/article/363706"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/363706"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/363706"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 72
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1611603565-GettyImages-148740649.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Machine Learning Technique Helps Predict COVID-19 Outcomes"
     excerpt: "Mount Sinai researchers used a machine learning technique called 'federated learning' to predict outcomes of COVID-19 patients."
     publishedDateTime: 2021-01-28T09:40:00Z
@@ -57,6 +41,36 @@ related:
         width: 1200
         height: 1000
         isCached: true
+  - title: "New machine learning model predicts COVID-19 severity"
+    excerpt: "COVID-19 vaccine distribution has begun across the globe, while many countries are still struggling with the rampant rise of infections."
+    publishedDateTime: 2021-01-29T04:06:00Z
+    webUrl: "https://www.news-medical.net/news/20210128/New-machine-learning-model-predicts-COVID-19-severity.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210128/New-machine-learning-model-predicts-COVID-19-severity.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210128/New-machine-learning-model-predicts-COVID-19-severity.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 59
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/1/CT_machine_is_prepared_for_the_patient_shooting-sfam_photo_698c003ae3d54b69bf4c077708d403e4-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
+  - title: "Machine learning tool predicts respiratory failure in COVID-19 patients"
+    excerpt: "In an effort to expedite care for coronavirus disease 2019 (COVID-19) patients upon hospital admission, a team at The Feinstein Institutes for Medical Research has developed a machine learning (ML) artificial intelligence (AI) powered clinical predictive tool that can accurately assess patients for the risk of respiratory failure within 48 hours."
+    publishedDateTime: 2021-01-29T07:59:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/science-technology-diseases-and-conditions-medical-technology-lung-disease-1b94a3d69e2541ee8e9d75b2cfb03f8f"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "AI Monitors Early Warning Signs in COVID Patients"
     excerpt: "The University of Virginia is utilizing an artificial intelligence system called 'CoMET' to monitor COVID19 patients."
     publishedDateTime: 2021-01-27T22:01:00Z
@@ -68,6 +82,34 @@ related:
       name: Tech Zone 360
       domain: techzone360.com
     quality: 39
+  - title: "Can Robots and Drones Help to Fight COVID-19?"
+    excerpt: "As such, there is a big push to use drones and other manned and unmanned aerial vehicles to help combat infection rates. We have already seen drones working within the military and also embraced in public safety roles."
+    publishedDateTime: 2021-01-27T17:18:00Z
+    webUrl: "https://www.nextgov.com/ideas/2021/01/can-robots-and-drones-help-fight-covid-19/171667/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 39
+    images:
+      - url: "https://cdn.nextgov.com/media/img/upload/2021/01/27/NGdrone20210127/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Machine Learning, Real-Time Data App Rates COVID-19 Exposure Risk"
+    excerpt: "A new app leverages machine learning and real-time data to provide location-based risk assessments of COVID-19 exposure."
+    publishedDateTime: 2021-01-27T18:01:00Z
+    webUrl: "https://healthitanalytics.com/news/machine-learning-real-time-data-app-rates-covid-19-exposure-risk"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/Apps_and_Software.jpg"
+        width: 690
+        height: 400
+        isCached: true
   - title: "New AI-severity score COVID-19 integrating CT images published to Nature Communications"
     excerpt: "Owkin, a French-American startup pioneering AI and Federated Learning in medical research, has been focusing it's COVID-19 research efforts on aspects of the pandemic that still require much public health attention,"
     publishedDateTime: 2021-01-28T16:52:00Z
