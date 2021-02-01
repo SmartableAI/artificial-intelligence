@@ -1,26 +1,27 @@
 ---
 category: news
 title: "Silicon Labs and Edge Impulse Partner to Accelerate Machine Learning Applications"
-excerpt: "Silicon Labs (NASDAQ: SLAB), a leading provider of silicon, software and solutions for a smarter, more connected world, and Edge Impulse,"
-publishedDateTime: 2021-01-27T18:45:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/silicon-labs-and-edge-impulse-partner-to-accelerate-machine-learning-applications-301216540.html"
-webUrl: "https://www.prnewswire.com/news-releases/silicon-labs-and-edge-impulse-partner-to-accelerate-machine-learning-applications-301216540.html"
+excerpt: "Silicon Labs (NASDAQ: SLAB), a leading provider of silicon, software and solutions for a smarter, more connected world, and Edge Impulse, a leading development platform for machine learning on edge devices,"
+publishedDateTime: 2021-01-27T18:52:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/silicon-labs-and-edge-impulse-partner-to-accelerate-machine-learning-applications-1030011427"
+webUrl: "https://markets.businessinsider.com/news/stocks/silicon-labs-and-edge-impulse-partner-to-accelerate-machine-learning-applications-1030011427"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/silicon-labs-and-edge-impulse-partner-to-accelerate-machine-learning-applications-1030011427"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/silicon-labs-and-edge-impulse-partner-to-accelerate-machine-learning-applications-1030011427"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
+  - Machine Learning
 
-images:
-  - url: "https://mma.prnewswire.com/media/1428108/Silicon_Labs_Edge_Impulse_Machine_Learning.jpg?p=facebook"
-    width: 2398
-    height: 1257
-    isCached: true
-
-secured: "knKY+pbej8KOiW7L4IBJb/sHJvc7Gsjc5Z5ZA76CUCzmhktW8SRu480zOzZNyWVCH4NgWdD+NzjZblmQBUxPhFUbQDttJLXSuvVdvXdbPQfli5SQ97OljSeeHnTwSXY1rGZaQVpJcvecYmwdEoaMfNaO9RRSpaa7+YCO/YqomEgPT4gpEGsVJgN7q5Q6oZXQgQuqIErCCNaAG5JuZH13HUjDEja7DKS4WoWd99tjLbfvXX5B9paSMzk4vKny18+CLKV+KkL7l0BEBg4jDhBsq51kNFNGPFnKjWKQEBDSaPSwnTuikDiijBy4zgr0toJz5a3fazDjLPyeS9eLXQGArYd3mTYT5DijHlINNVNf8qU=;TaMrBn4goxf030Pcy6ih7g=="
+secured: "c2ykIMcJcwx9sP+rtb1skpSwM3viGN5GT0tAdaH3AhnRfJajMqBJETwGOCCOg+it4tDXTP5UnJbvGViaqdor52lT01QhmOsvXqJWuva4DZVWKH1ZHAPgH6BaOY5ERnY/gdrdFrWwSZAu1WwB0cMkwwjIVhIXgts8N2uH7xSgF4i694uUeed7GhSq+e5U0uBWSY5x8GI1fk+5vqeMbKleiYFPQzQCLBL8j3Tt+FKOdiQdB+gnC63oEDDjY8CAs9kEKiZ39JhmuSrhO1WHTL3F6Oqu1a0a+v9mLFwnFXoHkuHtAsYmALvlq66YVaJe8taXccy8AMLiCmpSo95GJxwiqqiTPIICfUyBwDRghw2pVRk=;JjlL4WfwUzoPE5WH+Z4Sww=="
 ---
 

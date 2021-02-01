@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/lanceeliot/2021/02/01/self-driving-cars-ar
 ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/02/01/self-driving-cars-are-faced-with-too-many-moving-objects-and-too-little-time/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/01/self-driving-cars-are-faced-with-too-many-moving-objects-and-too-little-time/amp/"
 type: article
-quality: 71
-heat: 101
+quality: 73
+heat: 103
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AI in Autos
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6e8ecc36de110ecd54a5fc%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2501%26cropY1%3D176%26cropY2%3D1583"

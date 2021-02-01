@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-01-discovering-the-next-generation-of-soccer-talent-through-ai-and-the-amateur-game.md",
+      "title": "Discovering The Next Generation Of Soccer Talent Through AI And The Amateur Game",
+      "excerpt": "Having watched my national team, Wales, all around the world (including in 2003 in San Jose), I must admit I was particularly excited to sit down recently with former Chelsea, Sunderland, Swindon and Wales defender Gareth Hall Head of Football Operations at AiSCOUT and Founder & CEO,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/drgeraintevans/2021/01/31/discovering-the-next-generation-of-soccer-talent-through-ai-and-the-amateur-game/",
+      "originalUrl": "https://www.forbes.com/sites/drgeraintevans/2021/01/31/discovering-the-next-generation-of-soccer-talent-through-ai-and-the-amateur-game/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6016f7feb80f1ecb9673bf86%2F0x0.jpg%3FcropX1%3D255%26cropX2%3D4899%26cropY1%3D75%26cropY2%3D2687",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/drgeraintevans/2021/01/31/discovering-the-next-generation-of-soccer-talent-through-ai-and-the-amateur-game/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/drgeraintevans/2021/01/31/discovering-the-next-generation-of-soccer-talent-through-ai-and-the-amateur-game/amp/",
+      "publishedDateTime": "2021-01-31T11:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-01-forget-user-experience-ai-must-focus-on-citizen-experience.md",
       "title": "Forget user experience. AI must focus on ‘citizen experience’",
       "excerpt": "To ensure AI has a positive impact on society, we need to look beyond user experience to a new practice of 'citizen experience' design.",
@@ -1188,58 +1239,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-30-can-we-trust-ai-trusting-ai-is-best-for-everyone-part-two.md",
-      "title": "Can We Trust AI? Trusting AI Is Best For Everyone (Part Two)",
-      "excerpt": "Bringing AI into the boardroom, and using it more effectively to influence decision-making in the right places, could not only help improve trust in AI as a technology but also improve our relationship with Big Tech companies in general.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/charlestowersclark/2021/01/29/can-we-trust-ai-trusting-ai-is-best-for-everyone-part-two/",
-      "originalUrl": "https://www.forbes.com/sites/charlestowersclark/2021/01/29/can-we-trust-ai-trusting-ai-is-best-for-everyone-part-two/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601456c88ac2c2e65d67a64f%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/charlestowersclark/2021/01/29/can-we-trust-ai-trusting-ai-is-best-for-everyone-part-two/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charlestowersclark/2021/01/29/can-we-trust-ai-trusting-ai-is-best-for-everyone-part-two/amp/",
-      "publishedDateTime": "2021-01-29T10:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

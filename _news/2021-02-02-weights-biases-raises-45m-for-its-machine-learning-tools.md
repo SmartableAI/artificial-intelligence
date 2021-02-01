@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/02/01/weights-and-biases-series-b/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/01/weights-and-biases-series-b/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 125
 published: true
 
 provider:

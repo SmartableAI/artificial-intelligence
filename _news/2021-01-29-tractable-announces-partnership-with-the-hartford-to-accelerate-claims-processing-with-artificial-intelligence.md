@@ -38,6 +38,20 @@ related:
         width: 2239
         height: 1173
         isCached: true
+  - title: "Tractable Announces Partnership with the Hartford to Accelerate Claims Processing with Artificial Intelligence"
+    excerpt: "The Hartford, a leading US property and casualty insurer, is utilizing an AI solution to analyze auto damage within its auto insurance claims operations in the US, boosting how quickly claims can be processed for its customers."
+    publishedDateTime: 2021-02-01T19:24:00Z
+    webUrl: "https://www.cioapplications.com/news/tractable-announces-partnership-with-the-hartford-to-accelerate-claims-processing-with-artificial-intelligence-nid-7179.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 32
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/l2wfimg---6.gif"
+        width: 450
+        height: 308
+        isCached: true
   - title: "Harnessing the power of a digital assistant to accelerate patient access"
     excerpt: "Technology in the healthcare landscape is evolving, and leading hub services providers are implementing solutions that help accelerate speed to therapy for patients. One crucial portion of accessing medication is being able to receive benefit verification information in a timely manner."
     publishedDateTime: 2021-01-30T00:57:00Z

@@ -3,10 +3,10 @@ category: news
 title: "Microsoft's cutting-edge machine-learning tool moves from the lab to the mainstream"
 excerpt: "Machine learning that can explore the world can solve different problems. These are the Microsoft services that make it something mainstream developers can use."
 publishedDateTime: 2021-02-01T12:37:00Z
-originalUrl: "https://www.techrepublic.com/index.php/category/10250/4/index.php/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/"
-webUrl: "https://www.techrepublic.com/index.php/category/10250/4/index.php/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/"
-ampWebUrl: "https://www.techrepublic.com/index.php/category/10250/4/index.php/google-amp/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/10250/4/index.php/google-amp/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/"
+originalUrl: "https://www.techrepublic.com/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/"
+webUrl: "https://www.techrepublic.com/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/"
+ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/"
 type: article
 quality: 98
 heat: 168
@@ -25,9 +25,9 @@ topics:
   - AI
 
 images:
-  - url: "https://tr3.cbsistatic.com/hub/i/r/2021/02/01/67c46b9c-cb75-42aa-a46f-b70b10ddca61/resize/400x/0c10b3c9b58b56304f151a017ee9c1dd/john-langford-microsoft-research.jpg"
+  - url: "https://tr3.cbsistatic.com/hub/i/r/2021/02/01/1b622622-e749-47c0-9c60-ed09ab784bbe/resize/400x/f50dcab974e7e9400bbc49f5c9acb474/rl-wikipedia-2.jpg"
     width: 400
-    height: 465
+    height: 388
     isCached: true
 
 related:
@@ -136,6 +136,6 @@ related:
         height: 630
         isCached: true
 
-secured: "ZMbdMVYO17Oaq+Y93svQHXg+SFRBiIwdMUJs3wp08tpsMBTKpykLnvih33fIyenqu5ozjPzqXulROOjHm7SqRuBnRd0P89CXMr90xZQxiFP6TBQJlLJ9zmH+JaAbvDXW3zoU1R0JMD5POdwA5jBaCIBvCV+DxxZAhmr2fXBub9KdWbmJEI05ikCIfPmKgdLeK902+5Vse87e/InFXlJktskhbnJkAfpiunkji3Vb62MzB9qTJaRXrvnkSgyZ5wz3Df/3kS5V39tcUV0piHBgrw7I22O3t72eod7Nl+danZvBsUTvzVXBIhm0eJeorV4AqgV8rLKgRJla0tB3y1kxVP/Qe3GuSBvEaio1GPQz+rs=;FZsc0+bCYpLaxjfi4/U8YA=="
+secured: "c+K4rcOEPOp7DVKtScj1bSxa76urVgwoyhC2lnOaY8drgRkmOSvU/FZhEcYcEcKqOakf30yQNWZehvHhvHMTugUYNgL4ferZs70Y2fUC6XO5H/+cfdP4pI5QwYFsTn8hIbV19etymsORlUKOo3OlFO8iMReUj7sRhQXvr3h4qeUdxv3e0YriE5gXexHLPcmzEpFuxF0hNGjGWvmDpfT+G7G/B0rtcnssJRSPXvUUX+mGC7tHR2yU9d8x4hgHWbhHPw9LtNJL4YAmXR5FtGlrWpskRyymgGyYOA0KXQJqmsJxsiVEatrSVZ/ipeL4s4wCMHeGxklzdw2k1a8WJc327pSf+lNNKu74HEy5LXEu7gk=;VbbNPqMe4kgLMml9Hg2k3w=="
 ---
 

@@ -2,6 +2,110 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-12-21-elon-musk-says-teslas-full-self-driving-subscription-arrives-in-early-2021.md",
+      "title": "Elon Musk says Tesla's Full Self-Driving subscription arrives in early 2021",
+      "excerpt": "Tesla is narrowing the time frame for the Full Self-Driving subscription rollout. Elon Musk told Twitter followers that the pay-per-month package is now due to arrive “early next year.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/tesla-full-self-driving-subscription-early-2021-193919961.html",
+      "originalUrl": "https://www.engadget.com/tesla-full-self-driving-subscription-early-2021-193919961.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2Ff5f3b9a0-42fa-11eb-9f7e-a9997b05940d&client=amp-blogside-v2&signature=80608dabce3aa259588b774c4974e084809372ba",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/tesla-full-self-driving-subscription-early-2021-193919961.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-full-self-driving-subscription-early-2021-193919961.html",
+      "publishedDateTime": "2020-12-20T11:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-21-self-driving-cars-and-the-polanyi-paradox-of-knowing-versus-telling.md",
+      "title": "Self-Driving Cars And The Polanyi Paradox Of Knowing Versus Telling",
+      "excerpt": "Questioning the act of knowing and the act of telling, which comes up for humans, animals, and ... [+] self-driving cars. We can know more than we can tell. That’s an assertion made by philosopher Michael Polanyi in his 1966 book entitled The Tacit ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/12/20/self-driving-cars-and-the-polanyi-paradox-of-knowing-versus-telling/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/12/20/self-driving-cars-and-the-polanyi-paradox-of-knowing-versus-telling/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fdd3ae5d1bf9ff470ffd053%2F0x0.jpg%3FcropX1%3D466%26cropX2%3D5504%26cropY1%3D9%26cropY2%3D3895",
+          "width": 1200,
+          "height": 926,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/12/20/self-driving-cars-and-the-polanyi-paradox-of-knowing-versus-telling/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/12/20/self-driving-cars-and-the-polanyi-paradox-of-knowing-versus-telling/amp/",
+      "publishedDateTime": "2020-12-20T08:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-19-ark-autonomous-technology-robotics-etf-triple-digit-gains-including-tesla.md",
       "title": "ARK Autonomous Technology & Robotics ETF: Triple-Digit Gains Including Tesla",
       "excerpt": "ARKQ's underlying objective is well positioned to profit from advancements in new technologies in the energy, automation, manufacturing, materials, and transportation sectors.",
@@ -1309,110 +1413,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-12-12-luminar-is-overhyped-these-self-driving-car-stocks-are-better-buys-right-now.md",
-      "title": "Luminar Is Overhyped: These Self-Driving Car Stocks Are Better Buys Right Now",
-      "excerpt": "Investors are right in getting excited about the potential for self-driving cars. But these stocks are better bets to take advantage of that potential.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/12/12/luminar-is-overhyped-these-self-driving-car-stocks/",
-      "originalUrl": "https://www.fool.com/investing/2020/12/12/luminar-is-overhyped-these-self-driving-car-stocks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F604448%2Fsmart-car-road-grid-autonomous-driving-source-getty.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 769,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/12/12/luminar-is-overhyped-these-self-driving-car-stocks/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/12/luminar-is-overhyped-these-self-driving-car-stocks/",
-      "publishedDateTime": "2020-12-12T04:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-12-tesla-expands-in-house-self-driving-testing-to-phoenix.md",
-      "title": "Tesla expands in-house Self-Driving testing to Phoenix",
-      "excerpt": "Driving testing to Phoenix, Arizona, which is already a hub for self-driving tests. Over the last few years, Tesla has been criticized for not reporting autonomous test mileage in California. The California DMV makes companies who are testing autonomous vehicles in the state submit yearly “disengagement reports”",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2020/12/11/tesla-expands-in-house-self-driving-testing-phoenix/",
-      "originalUrl": "https://electrek.co/2020/12/11/tesla-expands-in-house-self-driving-testing-phoenix/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2019/12/Tesla-Self-driving-visualization.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2020/12/11/tesla-expands-in-house-self-driving-testing-phoenix/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/12/11/tesla-expands-in-house-self-driving-testing-phoenix/amp/",
-      "publishedDateTime": "2020-12-11T09:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

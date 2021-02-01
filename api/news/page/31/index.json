@@ -2,6 +2,83 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2021-01-08-gpu-database-market-2021-growth-and-business-prospects-industry-size-forecast-by-share-revenue-development-status-demand-by-regions-2023.md",
+      "title": "GPU Database Market 2021 Growth and Business Prospects, Industry Size, Forecast by Share, Revenue, Development Status, Demand by Regions 2023",
+      "excerpt": "Comserve Inc. / -- The global GPU database market was valued at USD 195.3 million in 2017 and is expected to reach USD",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/01/19074776/gpu-database-market-2021-growth-and-business-prospects-industry-size-forecast-by-share-revenue-deve",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/01/19074776/gpu-database-market-2021-growth-and-business-prospects-industry-size-forecast-by-share-revenue-deve",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/19074776",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19074776",
+      "publishedDateTime": "2021-01-07T23:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-seoul-robotics-democratizes-lidar-with-breakthrough-perception-software-platform.md",
+      "title": "Seoul Robotics Democratizes LiDAR With Breakthrough Perception Software Platform",
+      "excerpt": "Seoul Robotics, the 3D computer vision company using AI and machine learning to power the future of mobility, today makes its formal debut to the US market with the announcement of its first commercial product,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-driverless-cars-3d-technology-3ed0d75aa4dbd97fe329a8819573fcd0",
+      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-driverless-cars-3d-technology-3ed0d75aa4dbd97fe329a8819573fcd0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-07T22:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-meet-the-robots-taking-the-virtual-stage-at-ces-2021.md",
       "title": "Meet the robots taking the virtual stage at CES 2021",
       "excerpt": "This year's all-digital CES is going to be a tough one for everyone involved, but it may be even harder if you're a robot. Robots can pique people's interest via the written word or videos, but there's nothing like showing people what you can do in person to really make a good first impression.",
@@ -1075,110 +1152,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-ev-dreams-power-baidu-but-may-not-last.md",
-      "title": "EV Dreams Power Baidu but May Not Last",
-      "excerpt": "The company needs a new growth model. But a road trip into the frothy EV industry might prove long and bumpy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/amp/articles/ev-dreams-power-baidu-but-may-not-last-11610016124",
-      "originalUrl": "https://www.wsj.com/amp/articles/ev-dreams-power-baidu-but-may-not-last-11610016124",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-281927/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ev-dreams-power-baidu-but-may-not-last-11610016124",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ev-dreams-power-baidu-but-may-not-last-11610016124",
-      "publishedDateTime": "2021-01-07T07:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-waymo-ditches-self-driving-term-in-apparent-dig-at-tesla.md",
-      "title": "Waymo Ditches 'Self-Driving' Term in Apparent Dig at Tesla",
-      "excerpt": "Don't call Waymo's vehicles \"self-driving.\" The company this week announced that it's replacing the term with the broader \"fully autonomous driving tech.\" \"It may seem like a small change, but it's an important one,",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/362902",
-      "originalUrl": "https://www.entrepreneur.com/article/362902",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1610033743-waymo.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-07T07:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

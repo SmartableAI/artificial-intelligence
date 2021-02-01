@@ -50,6 +50,20 @@ related:
         width: 669
         height: 229
         isCached: true
+  - title: "Worldwide Conversational AI Industry to 2027 - Strategic Recommendations for New Entrants - ResearchAndMarkets.com"
+    excerpt: "The “Conversational AI - Global Market Outlook (2019-2027)” report has been added to ResearchAndMarkets.com’s offering. According to this report, the Global Conversational AI market accounted for $3.81 billion in 2019 and is expected to reach $18."
+    publishedDateTime: 2021-01-29T08:01:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-corporate-news-latin-america-and-caribbean-4a64e2e6e39e4ccf9d0261ea67d571dc"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 15
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "E6Bq8CxABmvETVFyCml345cIUjOKvFnfXLoBpYCLAWMTJU+btrdxyITotLnP3QQEes9zICWlR7DS2X9nlxyaTPBsRCDCiqIMyxYPzQYZkxXBOtvaz5pFfAoICi9K6POtfaxefJV1qXwh3IsjFRjmcGUErEAmvSlFksGR+qPVRHTrTEPqPat+nUBsMe9pPpytEqW2fpzGNjw1H9QHxrZ+Oz4K3wcrAASVWAvKkOefMEqxko5w6MZiqe4aGDgmxU54gg0NDTDV+268hhOmqknJNvR9Dnw1oSo8Vxr5UeacSozhnsJFOjXoaEMsFVOZy0RlsskN3SUhb8yP7fe2ZR9/fuyFwOtYW4RfOuShG3BcLW4=;ujjG0VpOg9HBul9fKey+nQ=="
 ---

@@ -98,6 +98,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Autonomous Cars Market | Worldwide Industry Share, Size, Gross Margin, Trend, Future Demand, Analysis by Top Leading Player and Forecast Till 2027"
+    excerpt: "Autonomous Cars Market is set to grow exponentially owing to the increasing development of the ride-hailing technology. Hence, numerous industry giants are investing hefty amounts of money in the field of driverless ride-sharing."
+    publishedDateTime: 2021-02-01T15:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/autonomous-cars-market-worldwide-industry-share-size-gross-margin-trend-future-demand-analysis-by-top-leading-player-and-forecast-till-2027-2021-02-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 16
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Machine Learning Market Report 2020: Industry Analysis, Trends, Market Size, and Forecasts 2018-2026 - ResearchAndMarkets.com"
     excerpt: "Global Industry Analysis, Trends, Market Size, and Forecasts up to 2026” report has been added to ResearchAndMarkets.com’s offering. The report on the global machine learning market provides qualitative and quantitative analysis for the period from 2018 to 2026."
     publishedDateTime: 2021-01-29T07:59:00Z
@@ -112,15 +126,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Global Machine Learning Market Report 2020: Industry Analysis, Trends, Market Size, and Forecasts 2018-2026 - ResearchAndMarkets.com"
-    excerpt: "Global Industry Analysis, Trends, Market Size, and Forecasts up to 2026\" report has been added to ResearchAndMarkets.com's offering. The report on the global machine learning market provides qualitative and quantitative analysis for the period from 2018 to 2026."
-    publishedDateTime: 2021-01-28T04:32:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210128005516/global-machine-learning-market-report-2020-industry-analysis-trends-market-size-and-forecasts-2018-2026-researchandmarketscom"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 0
 
 secured: "a/uQ3wZXZpIdUzEcBZXfSrQ3SGRrKRsAxh5uQq5is4k4U4cVC3m6jctsmp+Eui7iR3+XyvOozzSJlsPg5xXC9UFJCKgUItX95gIpCNHyeMiosxPZhNzF0DI4InyJFzllD9N71mlivtoQR5AdaAMbbhfEjajdjJe0+1h0W2iEtxGSY9hD3ogCgETfLYVWsvR3Wdp2gn0SxzO37fJDeqXj/Uq+aG4YAcbF4+Y1ZEn51z5Dp201sF1goy2Nh/RC5DI3WHl8+ag4A9G1NPxPhABuZd/sM+jo6w7N6AhPKTczlS5InjD9ZMfHbuDKP7ZCZBbImFsjdgzE1m7fmajKc8H4k3G7ZlJNNZV7drP/q296odM=;XQrort1219RMFMMjUf6naw=="
 ---

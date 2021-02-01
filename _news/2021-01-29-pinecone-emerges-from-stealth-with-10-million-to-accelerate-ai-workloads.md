@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/pinecone-emerges-from-s
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/pinecone-emerges-from-stealth-with-$10-million-to-accelerate-ai-workloads-9748315"
 type: article
 quality: 66
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -51,20 +51,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "Pinecone leaves stealth with $10M, launches first serverless vector database for machine learning"
-    excerpt: "Built by the team behind Amazon SageMaker and founded by scientist and former AWS Director Edo Liberty, Pinecone makes large-scale real-time inference as simple as querying a database. It is ..."
-    publishedDateTime: 2021-01-28T04:50:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-301216240.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 28
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
         isCached: true
 
 secured: "v8uxgueLfaKhl+GUpfVDhONw5FLOFVMNc/vVFm0c/rRDpOr7FZM7KtiVfF0qPeWyHdvWFDW8uSvSwh1YHnx4hjPIdsnt55LudGYa6AmOaTqAJOyEtgd2j/qP06drDasOH6PWo4e47ZBIGJ2Pjnp4RHEeR6UqvJIrSN0vuLTsWGlAL35dk6sisZPIn0WArAbEaCQ7ts+x7ua01yx19/moXFkx+fuVK3ClqIpGfRCJH3IYieCS6vqKMufjlsouE/SqydSTdecrgd/bxHf6gGsLuIiSCR36ngB8xOSHxQOl45PrDPV5LYi8K1wlpOekaTTiIKI1hKr56xyAScD6nyz0bISVrncSqWFycFjEIBSd6Qw=;l2yaZrJvXLpVUpmZ30QsKg=="

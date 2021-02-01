@@ -9,7 +9,7 @@ ampWebUrl: "https://www.leicestermercury.co.uk/news/local-news/scientists-awarde
 cdnAmpWebUrl: "https://www-leicestermercury-co-uk.cdn.ampproject.org/c/s/www.leicestermercury.co.uk/news/local-news/scientists-awarded-3m-project-use-4943363.amp"
 type: article
 quality: 66
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Stem cell AI -- 'brain on a chip' project aims to revolutionize computing power"
-    excerpt: "Scientists have started work on a project that will see human brain stem cells used to power artificial intelligence (AI) devices and bring about a revolution in computing. The Neu-ChiP project, an international collaboration led by researchers at Aston University,"
-    publishedDateTime: 2021-01-28T05:00:00Z
-    webUrl: "https://eurekalert.org/e/JWn3"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 52
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/254606_web.jpg"
-        width: 720
-        height: 435
-        isCached: true
   - title: "Stem cell AI -- 'brain on a chip' project aims to revolutionize computing power"
     excerpt: "Scientists have started work on a project that will see human brain stem cells used to power artificial intelligence (AI) devices and bring about a revolution in computing. The Neu-ChiP project, an international collaboration led by researchers at Aston University,"
     publishedDateTime: 2021-01-29T00:18:00Z

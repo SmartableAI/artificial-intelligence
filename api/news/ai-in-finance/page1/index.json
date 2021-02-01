@@ -299,6 +299,50 @@
       ]
     },
     {
+      "path": "_news/2021-01-28-silicon-labs-and-edge-impulse-partner-to-accelerate-machine-learning-applications.md",
+      "title": "Silicon Labs and Edge Impulse Partner to Accelerate Machine Learning Applications",
+      "excerpt": "Silicon Labs (NASDAQ: SLAB), a leading provider of silicon, software and solutions for a smarter, more connected world, and Edge Impulse, a leading development platform for machine learning on edge devices,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/silicon-labs-and-edge-impulse-partner-to-accelerate-machine-learning-applications-1030011427",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/silicon-labs-and-edge-impulse-partner-to-accelerate-machine-learning-applications-1030011427",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/silicon-labs-and-edge-impulse-partner-to-accelerate-machine-learning-applications-1030011427",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/silicon-labs-and-edge-impulse-partner-to-accelerate-machine-learning-applications-1030011427",
+      "publishedDateTime": "2021-01-27T10:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-01-28-stilt-a-financial-services-provider-for-immigrants-raises-100-million-debt-facility-from-silicon-valley-bank.md",
       "title": "Stilt, a financial services provider for immigrants, raises $100 million debt facility from Silicon Valley Bank",
       "excerpt": "Stilt, a provider of financial services for immigrants in the United States, announced today it has raised a $100 million warehouse facility from Silicon Valley Bank for lending to its customers. This brings Stilt’s total debt facilities so far to $225 million,",
@@ -1366,41 +1410,6 @@
         "AI Ethics",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-01-03-future-of-banking-yes-bank-datathon-pushes-the-boundaries-of-finance-with-ai-and-machine-learning.md",
-      "title": "Future Of Banking: YES Bank Datathon Pushes The Boundaries Of Finance With AI And Machine Learning",
-      "excerpt": "Used along with Machine Learning (ML) algorithms ... This is a unique facet wherein data professionals from a non- financial services background are participating in the challenge beyond the ...",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/features/future-of-banking-yes-bank-datathon-pushes-the-boundaries-of-finance-with-ai-and-machine-learning/",
-      "originalUrl": "https://inc42.com/features/future-of-banking-yes-bank-datathon-pushes-the-boundaries-of-finance-with-ai-and-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/features/future-of-banking-yes-bank-datathon-pushes-the-boundaries-of-finance-with-ai-and-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/features/future-of-banking-yes-bank-datathon-pushes-the-boundaries-of-finance-with-ai-and-machine-learning/amp/",
-      "publishedDateTime": "2021-01-02T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

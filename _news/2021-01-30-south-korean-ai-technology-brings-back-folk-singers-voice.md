@@ -36,6 +36,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 69
+  - title: "AI brings back voice of late South Korean singer"
+    excerpt: "Innovations AI brings back voice of late South Korean singer. Posted . One of South Korea's most outstanding rock legends, Kim Kwang-seok, passed away in 1996. Nearly 25 years lat"
+    publishedDateTime: 2021-02-01T18:56:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVDXTI4IJ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210201&i=OVDXTI4IJ&r=OVDXTI4IJ&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "South Korean AI technology resurrects dead singer's voice"
     excerpt: "South Korean folk rock singer Kim Kwang-seok has been dead for nearly 25 years, but his fans will be able to hear him perform a new song cover on Friday thanks to artificial intelligence (AI) technology used to recreate his voice."
     publishedDateTime: 2021-01-30T06:43:00Z

@@ -50,20 +50,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Pinecone leaves stealth with $10M, launches first serverless vector database for machine learning"
-    excerpt: "Built by the team behind Amazon SageMaker and founded by scientist and former AWS Director Edo Liberty, Pinecone makes large-scale real-time inference as simple as querying a database. It is ..."
-    publishedDateTime: 2021-01-28T04:50:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-301216240.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 28
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "hd9x2U8JANiKfdbzTrFbn1dsc6rbc9jOUd4OEFMJIAXE5Ha9pf98oxdIxypdkq4o8W3qjLG9L4vdekXu49F4MNCbLdaeQLAySBvVjy/YHfxScTnT88YfLH3zvuezbxXZyKWzLprQQPlCKFukJ9EWrF1/V/eKaiGJcM/usx4KJNE34o39WpgWGh+WkPrxFwZ/hMi01RCRYoc6Lma77dLksvZjq90ASYizE+V7dzPo2eVRh3w9upCJFq0GCj8//avJLwZ7KpA0B9NhgqAMvi9ZVzROliTUJECrI98dYa8fIDrDtoM1dyTimQQXWaM27SHqyTpu7vNRpIzFH8NtiWhduZdxqV2dRlywIyNQF64v/YE=;KTdD2yd+DXkNbg0mEFLaqQ=="
 ---

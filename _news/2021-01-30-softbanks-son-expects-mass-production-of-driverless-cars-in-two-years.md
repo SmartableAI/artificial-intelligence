@@ -63,6 +63,17 @@ related:
         width: 829
         height: 545
         isCached: true
+  - title: "California to license driverless cars operated by artificial intelligence"
+    excerpt: "The California Department of Motor Vehicles has officially issued a permit to Baidu USA to begin testing driverless vehicles on public roads in Sunnyvale, California."
+    publishedDateTime: 2021-02-01T21:00:00Z
+    webUrl: "https://www.washingtonexaminer.com/politics/california-to-license-driverless-cars-operated-by-artificial-intelligence"
+    ampWebUrl: "https://www.washingtonexaminer.com/politics/california-to-license-driverless-cars-operated-by-artificial-intelligence?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/politics/california-to-license-driverless-cars-operated-by-artificial-intelligence?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 53
   - title: "SoftBank’s Son expects mass production of driverless cars in two years"
     excerpt: "SoftBank Group Corp chief executive Masayoshi Son said on Friday he expects mass production of self-driving vehicles to start in two years."
     publishedDateTime: 2021-01-31T13:38:00Z
@@ -78,6 +89,6 @@ related:
         height: 826
         isCached: true
 
-secured: "KhAHdG+GEnVqdGa8QPAxB4tqIDXIoixuQP0Z8V3e8Qhhy49snTw+Fu781xuuB00Dv1063lpt7XaH/nGnmePIy6dW7C5AVJmLqgpU+iNpOqKGsViFy2pFlVH1OsyirCnbW00J8P7HG8/C7p54TRXtJrrwkH6JfKukQ/hVfIPGNxWgDabxpr1xCpcxbtqY+M8tPenr+und80pBCXBKuORcjGwF9UD4101fRxKJH2KMwPwVs9u/qhPd2C/gr9enszSoo6YDPRJK826az3KhkNxpNKH4jSCDOSkq4mpAGsR/bdjL1ZpgxpcRCPJjTUSteKYf9iS07eBIBSfNaCMVl0Q9iwt06DasHzjdhiWOLELGtsc=;A3RjyrzZlMrlr0gtpcfVDA=="
+secured: "6ymwQaPPzzWoSJwhqCcbF0j3cS6GHX1euGc5su9CWwoERjP5W2/3J37Fv40ZLYS4OBpV3J4/32caAwZy13am/MdMxXFxPZ4E3T1CM0jkCxBdq+YFleW7h8sHJQuuzifiVT8szxy+SRdYO8mWRVaF3/ZWjUUyYMPNqHnxvJ7ZkttswrSCgvUjgvYcwGIJfPGQGr6BSCK6JMhfGrSPVumKNgpoqBtu1F/Kw61t3F2v7f8i8uKG1Ondy22OTcsAZh46KfYzc0Yc1niJVOcdeUGQoTxgqXIgHr55H9Aj7WlO4pX/uRAjndToM9zXQ3x30hkTGpzicPgax23PuP8xzbHlL2sJ2N+i5pBKZ9DD0AP6tk99ViExScYf55yqw6Y38NgpzXaJfz1VkAoVJcT6w7z/ZQ1aJTUgugeOM5BoXspngJdg/ycx1EF/gp3vPZ/yzJHp2teIVAmvHnZk7J7tWMqzqzhM14xyKNXYDUjIdMZJZyOthMcPOP18j9qSA/V843slbWZF1zcA0SYF0UgWOx+VuA==;p+KTdXwEAAicJavcNUKH3A=="
 ---
 

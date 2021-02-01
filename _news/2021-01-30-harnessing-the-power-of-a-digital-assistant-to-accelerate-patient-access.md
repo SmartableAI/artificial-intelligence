@@ -53,6 +53,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Tractable Announces Partnership with the Hartford to Accelerate Claims Processing with Artificial Intelligence"
+    excerpt: "The Hartford, a leading US property and casualty insurer, is utilizing an AI solution to analyze auto damage within its auto insurance claims operations in the US, boosting how quickly claims can be processed for its customers."
+    publishedDateTime: 2021-02-01T19:24:00Z
+    webUrl: "https://www.cioapplications.com/news/tractable-announces-partnership-with-the-hartford-to-accelerate-claims-processing-with-artificial-intelligence-nid-7179.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 32
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/l2wfimg---6.gif"
+        width: 450
+        height: 308
+        isCached: true
   - title: "Eyeris Technologies Partners with Texas Instruments to Launch Industry-First In-Cabin Sensing AI Solution"
     excerpt: "Eyeris Technologies, a world leader in vision AI for in-cabin sensing, announced its collaboration with Texas Instruments (TI) on an industry-first in-cabin sensing AI solution, using TI's Jacinto TDA4 processors and 2D RGB-IR image sensors,"
     publishedDateTime: 2021-01-29T07:07:00Z

@@ -24,21 +24,44 @@ images:
     isCached: true
 
 related:
-  - title: "Which country leads the innovation charge in AI research?"
-    excerpt: "New discoveries and understanding of AI capabilities are ever-evolving, much like the technology itself. Hence many national and private interests are charging ahead with AI research and development in a dizzying assortment of fields,"
-    publishedDateTime: 2021-01-28T04:51:00Z
-    webUrl: "https://techwireasia.com/2021/01/which-country-leads-the-innovation-charge-in-ai-research/"
-    ampWebUrl: "https://techwireasia.com/amp/2021/01/which-country-leads-the-innovation-charge-in-ai-research/"
-    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/01/which-country-leads-the-innovation-charge-in-ai-research/"
+  - title: "Text-to-Speech Market worth $5.0 billion by 2026 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "According to the new market research report \"Text-to-Speech Market with COVID-19 Impact by Offering (Software, Services), Vertical (Enterprise, Consumer Electronics, Education, Retail), Deployment, Language,"
+    publishedDateTime: 2021-01-28T18:31:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/text-to-speech-market-worth-5-0-billion-by-2026-exclusive-report-by-marketsandmarkets-1030015164"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/text-to-speech-market-worth-5-0-billion-by-2026-exclusive-report-by-marketsandmarkets-1030015164"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/text-to-speech-market-worth-5-0-billion-by-2026-exclusive-report-by-marketsandmarkets-1030015164"
     type: article
     provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 59
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
+  - title: "Global $6+ Billion CAR-T Therapy Market Opportunities and Strategies to 2030 - ResearchAndMarkets.com"
+    excerpt: "T Therapy Global Market Opportunities and Strategies to 2030: COVID-19 Impact and Recovery” report has been added to ResearchAndMarkets.com’s offering. The global CAR-T therapy market reached a value of nearly $734."
+    publishedDateTime: 2021-01-29T15:06:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-technology-diagnosis-and-treatment-coronavirus-pandemic-artificial-intelligence-fc225c37e2364a9d9bd00fbd0f464403"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
     images:
-      - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/01/000_8ZH7HR-450x300.jpg"
-        width: 450
-        height: 300
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Text-to-Speech Market worth $5.0 billion by 2026 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "According to the new market research report \"Text-to-Speech Market with COVID-19 Impact by Offering (Software, Services), Vertical"
+    publishedDateTime: 2021-01-28T13:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/text-to-speech-market-worth-5-0-billion-by-2026--exclusive-report-by-marketsandmarkets-301216956.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 15
+    images:
+      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=publish&p=facebook"
+        width: 669
+        height: 229
         isCached: true
 
 secured: "Elm/gPJiUI+2Ob5EX9iQEcgjmUlPdvaghMWxSXvUVedC+vCJchMP2FHlaE4OqDv97qDoqDWDK6EjD5qzYbhxR7byjEBhXSlv0sofgSHEn/VBskk6eO3TEnkKWB3FhEjH0qp7tWvQebIzd6WV1jyCbL9UhFDtX1x/44MPgombDJoBK1wtqeytGKmZHpx/1DS2tzJL7xCaZeCEVH9AJ1dpYyJeVMH3dKkSH9Jv74wS6N7UVAL22hHb9facPIpxFP5XR40PfzrTfwKjkX30Dvrq3aGzZbkC/Zm+YUGCQrGY2O4zkptbjwqTW+Cvn7CVMd/6bGgPVlfT+2Zw+cu9SAAprscp6k8tV2VWi1lbyQvJ0YI=;CsjZb4DfqxlOZNqD6/KTuw=="

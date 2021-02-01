@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/02/01/rpa-startup-uipath-raises-750-millio
 ampWebUrl: "https://venturebeat.com/2021/02/01/rpa-startup-uipath-raises-750-million/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/01/rpa-startup-uipath-raises-750-million/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2019/02/uipath.jpg?w=1200&strip=all"
@@ -29,6 +30,6 @@ images:
     height: 600
     isCached: true
 
-secured: "j2tQN59l73HTC9n1ZQNVFogq8jUupwumgH0f22CGb/B31DhvhidHjWNlWtMRnpKna7u3xrLtJFIKAZKSWwOZO5/Zv2vXw4We3stjR46B2nXmieRH8kbF9L2TvaCuFIfuJBybjYcfeMWPY2wnxQ7DhcV5xGt2IKcJz14bdkH+mgv1bRkQJ8Q3AapF/3BpHoM4z3E6jCQrq7m1QCG3IvDS0NO3Fw2GyfIQ4rroDD1dSXSJi1to/bVg+OBYSJDBipBazXIbRQUjHYvwGKGcH/xEjB+gTjxgLp44BmjYxdqLuz1IAzLxoaCN9hLBPZpvz2NW5xEvNFutRuscfitjR53n9aN2wPyvTDecqmS8Ubf2yHU=;DqafXMG28ZuyWbr7/M9QuA=="
+secured: "9s7fETRpAMhaSKOSzjzCc+39kXBL22cjkEuz9NZE5dR3gc2gzpeHkdHN55ByeS3PedJqpxtKDO1WI9z7a2jjJeNK1i3wYsX0bNLvCsz9D7w52uvMHF4jiRYrpKdNx0MgIotLFUMvsuv9AD/55n7sdsYGrU+irp8Dv0l3sKYFiigZxqHKiAhYetn3Sgr6swRSHBCklziz3tl0xhM724Ox+FCwE05w+qSSAQfb/hIOg96h0ewMOgoigfHKvKV2K1uhh1GObJl+GMaCBpNHyVg4cbVyBcMFT1F0fdHUTCdS51o6IeOGRPqBDuoPww6qrZiC2yGk7sD/HvTrSjEbmIHjrCsC5FFOebocEHo81iSKgch79YONVyMR8NESoKvue4WcDLpawNXjNMZx1eZRm8FGsPmnZVaLmXWrdtPRBQYUNLsyIp4DQSsGTTVNf3UtC5H2EcOTJt1UvBTjcvyQ/iNkGga4KdDABh+Q39ta6Sr9mMXVlmhBRKx+H5PhLttqrTn1NwsPprtGg9KesXHohYEXsw==;rNQdktGOAm87iFBPuVdwEA=="
 ---
 

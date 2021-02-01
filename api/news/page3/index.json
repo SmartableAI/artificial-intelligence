@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-30-can-we-trust-ai-trusting-ai-is-best-for-everyone-part-two.md",
+      "title": "Can We Trust AI? Trusting AI Is Best For Everyone (Part Two)",
+      "excerpt": "Bringing AI into the boardroom, and using it more effectively to influence decision-making in the right places, could not only help improve trust in AI as a technology but also improve our relationship with Big Tech companies in general.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/charlestowersclark/2021/01/29/can-we-trust-ai-trusting-ai-is-best-for-everyone-part-two/",
+      "originalUrl": "https://www.forbes.com/sites/charlestowersclark/2021/01/29/can-we-trust-ai-trusting-ai-is-best-for-everyone-part-two/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601456c88ac2c2e65d67a64f%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charlestowersclark/2021/01/29/can-we-trust-ai-trusting-ai-is-best-for-everyone-part-two/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charlestowersclark/2021/01/29/can-we-trust-ai-trusting-ai-is-best-for-everyone-part-two/amp/",
+      "publishedDateTime": "2021-01-29T10:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-01-30-ai-humans-is-the-superpower-your-organisation-needs-in-2021.md",
       "title": "AI + Humans Is The Superpower Your Organisation Needs In 2021",
       "excerpt": "Dhubaib, Managing Partner, Pandata. It’s an exciting time in the world of AI: chatbots and virtual assistants are getting smarte",
@@ -452,7 +504,7 @@
       "originalUrl": "https://www.reuters.com/article/davos-meeting-son-autonomous-idUSL1N2K41Y9",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -504,7 +556,7 @@
       "originalUrl": "https://www.reuters.com/article/us-southkorea-ai-voice-recreation-idUSKBN29Y18O",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -649,7 +701,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/pinecone-emerges-from-stealth-with-$10-million-to-accelerate-ai-workloads-9748315",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 86,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1143,57 +1195,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-the-amazing-ways-wild-me-uses-artificial-intelligence-and-citizen-scientists-to-help-with-conservation.md",
-      "title": "The Amazing Ways Wild Me Uses Artificial Intelligence And Citizen Scientists To Help With Conservation",
-      "excerpt": "Wildlife conservation is an enormous challenge. Wild Me, a non-profit organization, is leveraging the photos and videos of citizen scientists and the cloud, artificial intelligence, and computer vision to help track individual animals and to inform wildlife conservation efforts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2021/01/29/the-amazing-ways-wild-me-uses-artificial-intelligence-and-citizen-scientists-to-help-with-conservation/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/01/29/the-amazing-ways-wild-me-uses-artificial-intelligence-and-citizen-scientists-to-help-with-conservation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60139ca26580dd95edd4bbc2%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2021/01/29/the-amazing-ways-wild-me-uses-artificial-intelligence-and-citizen-scientists-to-help-with-conservation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/01/29/the-amazing-ways-wild-me-uses-artificial-intelligence-and-citizen-scientists-to-help-with-conservation/amp/",
-      "publishedDateTime": "2021-01-28T21:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

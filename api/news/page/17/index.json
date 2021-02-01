@@ -2,6 +2,109 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-01-19-will-ai-save-the-movie-consumer.md",
+      "title": "Will AI Save The Movie Consumer?",
+      "excerpt": "Any organization planning to use AI in their processes should collect a diverse and trusted set of data upon which to perform thorough back-testing to reach the necessary precision for their intended application.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/19/will-ai-save-the-movie-consumer/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/19/will-ai-save-the-movie-consumer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe0c5cc58f86207d3472bdb%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/19/will-ai-save-the-movie-consumer/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/19/will-ai-save-the-movie-consumer/amp/",
+      "publishedDateTime": "2021-01-19T04:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-remote-care-startup-k-health-valued-at-over-14-billion.md",
+      "title": "Remote Care Startup K Health Valued at Over $1.4 Billion",
+      "excerpt": "K Health raised $132 million in a funding round led by GGV Capital and Valor Equity Partners after the Covid-19 pandemic led to a surge in use for remote health-care apps.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-01-19/health-care-startup-k-health-valued-at-over-1-4-billion",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-01-19/health-care-startup-k-health-valued-at-over-1-4-billion",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3bIuOotwAsw/v0/1200x660.jpg",
+          "width": 1200,
+          "height": 660,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-19T04:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-19-how-ai-is-reshaping-hpc-and-what-this-means-for-data-center-architects.md",
       "title": "How AI Is Reshaping HPC And What This Means For Data Center Architects",
       "excerpt": "IT users, evaluate your current data center environment and closely consider how hardware resources can be repurposed.",
@@ -641,49 +744,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-19-healthcare-artificial-intelligence-market-2027-market-is-expected-to-grow-at-a-cagr-of-414-researchandmarketscom.md",
-      "title": "Healthcare Artificial Intelligence Market, 2027 - Market is Expected to Grow at a CAGR of 41.4% - ResearchAndMarkets.com",
-      "excerpt": "ResearchAndMarkets.com The “Healthcare Artificial Intelligence Market - Global Forecast to 2027” report has been added to ResearchAndMarkets.com’s offering. The global healthcare artificial intelligence (AI) market is expected to grow at a CAGR of 41.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/business-technology-products-and-services-investment-management-financial-services-72b3f49e4ace4eb7bac06edc0b5dbc23",
-      "originalUrl": "https://apnews.com/press-release/business-wire/business-technology-products-and-services-investment-management-financial-services-72b3f49e4ace4eb7bac06edc0b5dbc23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-18T21:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-19-us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers.md",
       "title": "U.S. lawmakers aim to curtail face recognition even as the technology IDs Capitol attackers",
       "excerpt": "U.S. lawmakers are moving ahead with efforts to ban facial recognition software even as the technology helps identify supporters of President Donald Trump who ransacked their workplace and forced them to evacuate this month.",
@@ -1109,57 +1169,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-curefit-acquires-ai-body-tracker-onyx-to-enable-two-way-workout-videos.md",
-      "title": "Cure.fit acquires AI body tracker Onyx to enable two-way workout videos",
-      "excerpt": "Now India’s most funded health startup is making a move to bridge that gap, using a California company’s AI system to replace human fitness coaches at users’ homes. Currently offered as an ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/18/cure-fit-acquires-ai-body-tracker-onyx-to-enable-two-way-workout-videos/",
-      "originalUrl": "https://venturebeat.com/2021/01/18/cure-fit-acquires-ai-body-tracker-onyx-to-enable-two-way-workout-videos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/onyxcurefit.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/18/cure-fit-acquires-ai-body-tracker-onyx-to-enable-two-way-workout-videos/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/18/cure-fit-acquires-ai-body-tracker-onyx-to-enable-two-way-workout-videos/amp/",
-      "publishedDateTime": "2021-01-18T08:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

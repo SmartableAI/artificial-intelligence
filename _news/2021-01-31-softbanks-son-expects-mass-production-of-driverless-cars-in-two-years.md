@@ -73,6 +73,17 @@ related:
         width: 829
         height: 545
         isCached: true
+  - title: "California to license driverless cars operated by artificial intelligence"
+    excerpt: "The California Department of Motor Vehicles has officially issued a permit to Baidu USA to begin testing driverless vehicles on public roads in Sunnyvale, California."
+    publishedDateTime: 2021-02-01T21:00:00Z
+    webUrl: "https://www.washingtonexaminer.com/politics/california-to-license-driverless-cars-operated-by-artificial-intelligence"
+    ampWebUrl: "https://www.washingtonexaminer.com/politics/california-to-license-driverless-cars-operated-by-artificial-intelligence?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/politics/california-to-license-driverless-cars-operated-by-artificial-intelligence?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 53
 
 secured: "cZ5vul+3Bx0/LxMWFsNQlcvnoyK+UfJgfxadetQA1CzX56rHl8iwgj5qwN9p/iT3lQTxgmLaB/315GxtnyK+JtJim8wVZRun/wXr/U/5XFD+NkOWanEtPjjUF2UrXKL2Gujs+M9EcAJrzXXGNF4L1qG5dp33IGAvQ0KVQ+S6eHcLblyBOuj01kEut/o4HCFOQ+UopeWVMbsuuWRqfJIzcyOnMYL0U+qHG3x0pppuGTrdCQN23fckoZsX5yrDOvYTY7PcQnPE4NPgBuqvRr2+20jBQwgDWJvScSGq2BjQCDdx9pVzy7L2Jyocl0PxsJrFXFVuOMk9tvJP09+nHhboemqESdKBzdZG4sK4aEj/qPk=;4Fuee7NDW0l6KcU7oQa/ow=="
 ---

@@ -25,17 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Military Eyes AI, Cloud Computing in Space in a Decade"
-    excerpt: "Military Eyes AI, Cloud Computing in Space in a Decade. Machine learning in space could one day revolutionize the way the U.S. military"
-    publishedDateTime: 2021-01-28T04:41:00Z
-    webUrl: "https://www.compsmag.com/news/pc/military-eyes-ai-cloud-computing-in-space-in-a-decade/"
-    ampWebUrl: "https://www.compsmag.com/news/pc/military-eyes-ai-cloud-computing-in-space-in-a-decade/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/military-eyes-ai-cloud-computing-in-space-in-a-decade/amp/"
+  - title: "The limits of computer vision are coming into sharp focus"
+    excerpt: "The advert for ‘Ben Fordham Live’, it turned out, exemplified perfectly the current limits of computer vision…. Unlimited online access to all content, including research, publications, articles and webinars Unlimited online access to all content,"
+    publishedDateTime: 2021-01-29T10:27:00Z
+    webUrl: "https://www.automotiveworld.com/articles/the-limits-of-computer-vision-are-coming-into-sharp-focus/"
     type: article
     provider:
-      name: Windows
-      domain: compsmag.com
+      name: Automotive World
+      domain: automotiveworld.com
     quality: 39
+    images:
+      - url: "https://1bgnvt3q09toyb96v2ecsygm-wpengine.netdna-ssl.com/wp-content/themes/jannah/assets/images/tie-empty.png"
+        width: 390
+        height: 220
+        isCached: true
 
 secured: "m1dBjr32YUlJ5geydKNEP8ag7Ty9zagIVRE16AqrQLSCgQrJcMDwSGI3ExDtyXNVXc7DyhXsgLrl7GTrjo9FqZmLJwLIvGL0dMUunKXSFt6bd2bppgu8cvrckXjJYS5r/IHV8bt7ypaFR62feOk0C7M8M9mHGvVhzh5hRO4azPDyADdoPVDbanLDdaKd6C+jA9fIX6dLhErYsgx2PggfJXJmAvErFxY1HnIGKpwrslF5BFjZAMm9byqipnpN5boKHX/ogTOZjQ68SiAx3XMWBfQwhZ3ogT0GqhNEyOoXCsdtFD81wmF4ayGyFfsGtz3bbJ6MofEpRNeMaEskYjDYNP/vXhVTtdxP6/3AAFBD7XCpXTaCnba4ZSSGTJzpN9WdMoZdHvrgZKLpImTGgW4NCMyv610o9nyTVgxNoohOgELazO71DGjgmwAKJPRRmBvz1LwsEhhfidm8I+QINKs0ZCnX+XFmkq1fA4NLdzFQXcbi4qMVzdN+h9ifPl4EV9CfWBh5qT4YpHZ92DzMgXNBuQ==;w2EOTlECV62DSoha46fxGw=="
 ---

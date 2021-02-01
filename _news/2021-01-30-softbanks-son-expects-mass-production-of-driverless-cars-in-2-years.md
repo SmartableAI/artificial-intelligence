@@ -63,6 +63,17 @@ related:
         width: 829
         height: 545
         isCached: true
+  - title: "California to license driverless cars operated by artificial intelligence"
+    excerpt: "The California Department of Motor Vehicles has officially issued a permit to Baidu USA to begin testing driverless vehicles on public roads in Sunnyvale, California."
+    publishedDateTime: 2021-02-01T21:00:00Z
+    webUrl: "https://www.washingtonexaminer.com/politics/california-to-license-driverless-cars-operated-by-artificial-intelligence"
+    ampWebUrl: "https://www.washingtonexaminer.com/politics/california-to-license-driverless-cars-operated-by-artificial-intelligence?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/politics/california-to-license-driverless-cars-operated-by-artificial-intelligence?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 53
   - title: "SoftBank’s Son expects mass production of driverless cars in two years"
     excerpt: "SoftBank Group Corp chief executive Masayoshi Son said on Friday he expects mass production of self-driving vehicles to start in two years."
     publishedDateTime: 2021-01-31T13:38:00Z

@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Healthcare Artificial Intelligence Market, 2027 - Market is Expected to Grow at a CAGR of 41.4% - ResearchAndMarkets.com"
-excerpt: "ResearchAndMarkets.com The “Healthcare Artificial Intelligence Market - Global Forecast to 2027” report has been added to ResearchAndMarkets.com’s offering. The global healthcare artificial intelligence (AI) market is expected to grow at a CAGR of 41."
-publishedDateTime: 2021-01-19T05:51:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/business-technology-products-and-services-investment-management-financial-services-72b3f49e4ace4eb7bac06edc0b5dbc23"
-webUrl: "https://apnews.com/press-release/business-wire/business-technology-products-and-services-investment-management-financial-services-72b3f49e4ace4eb7bac06edc0b5dbc23"
+excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Healthcare Artificial Intelligence Market - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The global healthcare artificial intelligence (AI) market is expected to grow at a CAGR of 41.4% ..."
+publishedDateTime: 2021-01-18T16:01:00Z
+originalUrl: "https://www.pharmiweb.com/press-release/2021-01-18/healthcare-artificial-intelligence-market-2027-market-is-expected-to-grow-at-a-cagr-of-414-re"
+webUrl: "https://www.pharmiweb.com/press-release/2021-01-18/healthcare-artificial-intelligence-market-2027-market-is-expected-to-grow-at-a-cagr-of-414-re"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PharmiWeb
+  domain: pharmiweb.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+    width: 1200
+    height: 448
     isCached: true
 
-secured: "gtHM8cZrJxlMAel9OQKXuSs21e9etBbXxny3YgqWm6Xo5V1o/KCm21+txPMMS/VtxD5TuRQVDLvLtugVAJEB94Udqo459laq9HAjjynTAKcyRRe3zqammRy35lZm4r0/lwAbNutNWfwn0wUaLv6p0aoWMLw6QhPRUjz+iwP1+TnMlLddpsv5kKchNSUCvBq3Ctc4/VzAlPYoPI3BT8x+rCZzUUeIZ0lqWLIOkYu5Hevr9wAG45xiQ0FT9OvvCAz7QHrDsXpURdNg1WYzXxhgPTZObyLAXpaR/FflJxDtSjGl0mfPtM+jMrR78Dx3aK3ebukMVGGr3arV2+QmnyTFlBCrF24lm+N4IBkXfvuBsGg=;1/2IN9WAt1Ai8SsfiE+/tA=="
+secured: "sk7vVv0tdIp5wJoNCAYk5RPDmV/y5OTXzIZMQTyj9tMTQk82TPrKHCo7WbpU04K5EzA5ma3EujsROCl/tFfgpKWpRtHpxMsA59AaTf1xYQ0ZjXdLrnRfBI5E21WJP7Kpc93pzsvKE8aCC8nELMIdsu1hciB/u+EySGcdBY75NMbt7hUgSMNpa5LrLZ5R9FbWtfz55axCcgHsoDgrIv30NPLg3U45bZqMOcIxiX0xZFAb2vZpV+Afqs0j+Hu7pJPR/7qcEB7YC762r0VpAJu8u8E+qbvW4DvQoNHdICiy08/OisOnuwcm8GU/xTKcVGhwX3j9qmrX1GdzoOxo7VamJhAIRRUshkw++8sLzgcEJjs=;IQn2kWiU3JTOxWvsqQHXGQ=="
 ---
 

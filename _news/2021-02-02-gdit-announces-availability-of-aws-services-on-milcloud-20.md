@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/gdit-announces-availabili
 webUrl: "https://www.prnewswire.com/news-releases/gdit-announces-availability-of-aws-services-on-milcloud-2-0--301219143.html"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 2699
     height: 1414
     isCached: true
+
+related:
+  - title: "DISA, General Dynamics roll out AWS across milCloud"
+    excerpt: "The Defense Information Systems Agency and General Dynamics introduce the first commercial cloud hosting service to be made available on the milCloud 2.0 platform."
+    publishedDateTime: 2021-02-01T20:01:00Z
+    webUrl: "https://washingtontechnology.com/articles/2021/02/01/milcloud-amazon-available.aspx"
+    type: article
+    provider:
+      name: Washington Technology
+      domain: washingtontechnology.com
+    quality: 39
+    images:
+      - url: "https://washingtontechnology.com/~/media/GIG/Washington%20Technology/WTlogo.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "WH5pm4Vgd6Qfn3uN2DwwvQoY2nD2ARojVBBHUEBxoERToQ6sqTJ4kcfPFYWUYjgMdUD1t8KbZy9ZdfIXqobjEJ1asN1CvyZfO1bU92zVYvlRS1S9oIgmIiXne/ZOJbnivBu1jE5zMHv/54LZ8gtV0jFQ4hCzYTlEHo5BcsMvPsRq600K195Aum9udonbbICK/iTnEt3BEL//rztyll8u4mCii7K6MSjfFfZS3mBXa+XwEutwV0TOU3pKYMWA9N+0IkAS5Zf8K5rF4tMtb4f9ETASswg5nlE8+XpJQ8B19vJcZablfGbpVohn7ecMKLX5EdHZflTv917NB+q58uga1c9OwfAOjALPOcnnNAWicjk=;za6PMGEav7CUvqnXzp8i1A=="
 ---

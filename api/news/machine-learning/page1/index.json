@@ -10,7 +10,7 @@
       "originalUrl": "https://techcrunch.com/2021/02/01/weights-and-biases-series-b/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -949,34 +949,34 @@
     {
       "path": "_news/2021-01-28-silicon-labs-and-edge-impulse-partner-to-accelerate-machine-learning-applications.md",
       "title": "Silicon Labs and Edge Impulse Partner to Accelerate Machine Learning Applications",
-      "excerpt": "Silicon Labs (NASDAQ: SLAB), a leading provider of silicon, software and solutions for a smarter, more connected world, and Edge Impulse,",
+      "excerpt": "Silicon Labs (NASDAQ: SLAB), a leading provider of silicon, software and solutions for a smarter, more connected world, and Edge Impulse, a leading development platform for machine learning on edge devices,",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/silicon-labs-and-edge-impulse-partner-to-accelerate-machine-learning-applications-301216540.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/silicon-labs-and-edge-impulse-partner-to-accelerate-machine-learning-applications-301216540.html",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/silicon-labs-and-edge-impulse-partner-to-accelerate-machine-learning-applications-1030011427",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/silicon-labs-and-edge-impulse-partner-to-accelerate-machine-learning-applications-1030011427",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1428108/Silicon_Labs_Edge_Impulse_Machine_Learning.jpg?p=facebook",
-          "width": 2398,
-          "height": 1257,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-27T10:45:00-08:00",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/silicon-labs-and-edge-impulse-partner-to-accelerate-machine-learning-applications-1030011427",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/silicon-labs-and-edge-impulse-partner-to-accelerate-machine-learning-applications-1030011427",
+      "publishedDateTime": "2021-01-27T10:52:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -985,8 +985,9 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI"
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
