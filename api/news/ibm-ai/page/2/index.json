@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-18-what-to-expect-in-the-nlp-space-in-2021.md",
+      "title": "What to expect in the NLP space in 2021",
+      "excerpt": "2020 has been a great year for the advancement of Natural Language Processing (NLP). We have seen a large number of organizations, from small ventures to massive enterprises, adopt NLP into their business solutions and data pipelines. With this high rate of adoption comes the next set of innovations",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/12/what-to-expect-in-the-nlp-space-in-2021/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2020/12/what-to-expect-in-the-nlp-space-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/12/nlp-2021-forecast-leadspace-990x498.jpg",
+          "width": 990,
+          "height": 498,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-18T08:56:23-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-12-17-big-blue-shines-a-light-on-the-future-of-tape-storage.md",
       "title": "Big Blue Shines A Light On The Future Of Tape Storage",
       "excerpt": "A decade later IBM sold its X86-based server business to Lenovo for $2.3 billion and in the intervening years has put a keen focus on hybrid clouds and artificial intelligence, buying Red Hat for $34 billion and continuing to invest its Watson portfolio.",
@@ -1371,49 +1423,6 @@
         "IBM AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2020-11-27-ibm-smart-lineup-decisions-for-nfl-week-12.md",
-      "title": "IBM Smart Lineup Decisions for NFL Week 12",
-      "excerpt": "That's where IBM Insights comes in, as they use Watson AI to break down all of the content you're consuming and then some. And by \"some,\" I mean every inch of the interwebs. Below are the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.espn.co.uk/fantasy/football/story/_/id/30393654/ibm-smart-lineup-decisions-nfl-week-12",
-      "originalUrl": "https://www.espn.co.uk/fantasy/football/story/_/id/30393654/ibm-smart-lineup-decisions-nfl-week-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2020%2F1126%2Fr781106_1296x729_16%2D9.jpg",
-          "width": 1298,
-          "height": 730,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.espn.co.uk/fantasy/football/story/_/page/smartlineup201127/ibm-smart-lineup-decisions-nfl-week-12?platform=amp",
-      "cdnAmpWebUrl": "https://www-espn-co-uk.cdn.ampproject.org/c/s/www.espn.co.uk/fantasy/football/story/_/page/smartlineup201127/ibm-smart-lineup-decisions-nfl-week-12?platform=amp",
-      "publishedDateTime": "2020-11-27T06:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ESPN",
-        "domain": "espn.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

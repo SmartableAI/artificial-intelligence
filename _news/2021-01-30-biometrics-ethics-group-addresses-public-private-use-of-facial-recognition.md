@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerweekly.com/news/252495597/Biometrics-ethics-grou
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252495597/Biometrics-ethics-group-address-public-private-use-of-facial-recognition?amp=1"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
     images:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
         width: 730
-        height: 499
-        isCached: true
-  - title: "ID R&D voice biometrics extend WhatsApp for Business capabilities with new partnership"
-    excerpt: "ID R&D has launched in-app voice biometric authentication to WhatsApp for Business in collaboration with partner Wittybots by SimpleTech."
-    publishedDateTime: 2021-01-27T17:56:00Z
-    webUrl: "https://www.biometricupdate.com/202101/id-rd-voice-biometrics-extend-whatsapp-for-business-capabilities-with-new-partnership"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 16
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg"
-        width: 900
         height: 499
         isCached: true
 

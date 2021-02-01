@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-01-artificial-intelligence-ethics-under-spotlight-at-davos-2021.md",
+      "title": "Artificial intelligence ethics under spotlight at Davos 2021",
+      "excerpt": "The World Economic Forum announces two initiatives to accelerate the adoption of technology across the globe, at the annual Davos meeting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/xA9POvNZj4Pvo4J8",
+      "originalUrl": "https://www.itweb.co.za/content/xA9POvNZj4Pvo4J8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itweb.co.za/static/pictures/2021/02/AI-city-2021.jpg",
+          "width": 816,
+          "height": 459,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.itweb.co.za/content/xA9POvNZj4Pvo4J8",
+      "cdnAmpWebUrl": "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/xA9POvNZj4Pvo4J8",
+      "publishedDateTime": "2021-02-01T02:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-01-30-ai-weekly-announcing-our-ai-and-the-future-of-health-care-special-issue.md",
       "title": "AI Weekly: Announcing our ‘AI and the future of health care’ special issue",
       "excerpt": "Through the lens of AI and data, we examine how health care providers and vendors are tackling the challenges of this extraordinary time.",
@@ -115,7 +159,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-analysis-by-growth-emerging-trends-and-future-opportunities-2021-01-29",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -1396,59 +1440,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-aws-goes-big-with-contact-center-intelligence.md",
-      "title": "AWS Goes Big with Contact Center Intelligence",
-      "excerpt": "Artificial intelligence is redefining contact centers and AWS is taking a leading position. We are two weeks into 2021, and Amazon Web Services has wasted no time in making a splash in the contact center industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/cloud/aws-goes-big-with-contact-center-intelligence",
-      "originalUrl": "https://www.eweek.com/cloud/aws-goes-big-with-contact-center-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/imagesvr_ez/b2bezp/2021/01/AWS.Connect.call.center.png?alias=social_image",
-          "width": 560,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-15T16:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

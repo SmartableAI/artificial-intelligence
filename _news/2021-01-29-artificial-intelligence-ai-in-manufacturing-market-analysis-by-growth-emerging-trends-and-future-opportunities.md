@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-analysis-by-growth-emerging-trends-and-future-opportunities-2021-01-29"
 type: article
 quality: 63
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -33,6 +33,20 @@ related:
     excerpt: "A consciously conceived and designed business intelligence report titled Global Artificial Intelligence in Military market 2021 by Manufacturers, Type, and Application, Forecast to 2030 by MarketResearch."
     publishedDateTime: 2021-01-29T10:55:00Z
     webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-to-witness-astonishing-growth-with-vital-key-players-leidos-inc-thales-group-2021-01-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cognitive Analytics Market size Rising Trends and New Technologies Research Forecast to 2026"
+    excerpt: "The Cognitive Analytics market is anticipated to reach over USD 48 billion by 2026 according to a new research published by The marker research report. In 2017, the large enterprises segment dominated the global market,"
+    publishedDateTime: 2021-02-01T10:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-size-rising-trends-and-new-technologies-research-forecast-to-2026-2021-02-01?tesla=y"
     type: article
     provider:
       name: MarketWatch

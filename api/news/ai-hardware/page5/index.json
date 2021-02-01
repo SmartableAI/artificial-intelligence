@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-12-08-apples-2021-chip-strategy-will-create-a-massively-parallel-universe.md",
+      "title": "Apple’s 2021 chip strategy will create a massively parallel universe",
+      "excerpt": "Apple's Macs will soon march into data centers, equipped with multi-core CPU, GPU, and AI capabilities in tiny, power-efficient form factors.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/07/apples-2021-chip-strategy-will-create-a-massively-parallel-universe/",
+      "originalUrl": "https://venturebeat.com/2020/12/07/apples-2021-chip-strategy-will-create-a-massively-parallel-universe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/m1die.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/07/apples-2021-chip-strategy-will-create-a-massively-parallel-universe/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/07/apples-2021-chip-strategy-will-create-a-massively-parallel-universe/amp/",
+      "publishedDateTime": "2020-12-07T10:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-07-simplemachines-inc-debuts-mozart-ai-chipdisrupts-ai-chip-landscape.md",
       "title": "SimpleMachines, Inc. debuts Mozart AI Chip—Disrupts AI Chip Landscape",
       "excerpt": "SimpleMachines and its new AI chip offer exciting option in the inference market, with radical new compiler approach and TensorFlow support.",
@@ -1401,58 +1453,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-south-korea-unveils-ai-chip-to-maintain-semiconductor-leadership.md",
-      "title": "South Korea Unveils AI Chip to Maintain Semiconductor Leadership",
-      "excerpt": "South Korea is adding a new artificial intelligence chip to its arsenal of semiconductors as the nation seeks a bigger slice of the global tech market and an upgrade of its industrial capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-11-25/south-korea-unveils-ai-chip-to-maintain-semiconductor-leadership",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-11-25/south-korea-unveils-ai-chip-to-maintain-semiconductor-leadership",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i91wAuLvp3JY/v0/360x-1.jpg",
-          "width": 360,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-11-25/south-korea-unveils-ai-chip-to-maintain-semiconductor-leadership",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-11-25/south-korea-unveils-ai-chip-to-maintain-semiconductor-leadership",
-      "publishedDateTime": "2020-11-24T22:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

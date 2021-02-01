@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 400
         isCached: true
-  - title: "ID R&D voice biometrics extend WhatsApp for Business capabilities with new partnership"
-    excerpt: "ID R&D has launched in-app voice biometric authentication to WhatsApp for Business in collaboration with partner Wittybots by SimpleTech."
-    publishedDateTime: 2021-01-27T17:56:00Z
-    webUrl: "https://www.biometricupdate.com/202101/id-rd-voice-biometrics-extend-whatsapp-for-business-capabilities-with-new-partnership"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 16
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg"
-        width: 900
-        height: 499
-        isCached: true
 
 secured: "pCeXC5vQM9XApc+GYD/RjPJDiXKOZdN3CgRaffLkey45hL5lBmsPKz24FJ6AEVnkzpDrBZMwHipKNm9ExopwBW/cX0E7isFY1soedop5LWq7SNEFQ5CvlzLwcsUdTSGNdrugLWaJtpuVLSPYkIgcFh5C86jljOT7DDK8YZ7vpwRcyX5EsQrqCc0TLkQn+AraGp9LXteMbQ8AoJ+wJOhsJhLRU2oHsD1X8C8pbxrCnjKvGN1FMCY1tgO5JG6jpdKUbg68oV2NfEWsDdXpEt39DquraKKjMcAxBvZds6bEtFNM6LW0hasLrpqOPrSvCC0xBx7KMXEj7+VpSDOA9gvbpE5k4KImpdVy5TPH0uUvmdfkq6t070RbSFEgmtCvvDsY9NutJNKB2f7PG12pi+6SMCiO6Xm4nltAh+TF5ffl7BdBZX13qYzqrxij2ioSXScrlGsxBRy/vNzVLWx7rLrs4znW5VhQ+SfImkcfvrmUVf6h/6KF/g28dZy/kSr8CSR84r3hZlWk4MwwtYqDXWv89w==;eVODeHJRDdBRS8WjEvgryw=="
 ---

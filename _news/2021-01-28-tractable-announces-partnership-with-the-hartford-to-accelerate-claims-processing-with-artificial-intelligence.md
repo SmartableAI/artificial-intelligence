@@ -38,6 +38,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Harnessing the power of a digital assistant to accelerate patient access"
+    excerpt: "Technology in the healthcare landscape is evolving, and leading hub services providers are implementing solutions that help accelerate speed to therapy for patients. One crucial portion of accessing medication is being able to receive benefit verification information in a timely manner."
+    publishedDateTime: 2021-01-30T00:57:00Z
+    webUrl: "https://www.fiercebiotech.com/biotech/harnessing-power-a-digital-assistant-to-accelerate-patient-access"
+    type: article
+    provider:
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 23
+    images:
+      - url: "https://qtxasset.com/fiercebiotech/1611937441/ab_2_3_card_02.png/ab_2_3_card_02.png?hdi6wqdjifXjdJir64A8bk9CJFz8BaIg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Eyeris Technologies Partners with Texas Instruments to Launch Industry-First In-Cabin Sensing AI Solution"
     excerpt: "Eyeris Technologies, a world leader in vision AI for in-cabin sensing, announced its collaboration with Texas Instruments (TI) on an industry-first in-cabin sensing AI solution, using TI's Jacinto TDA4 processors and 2D RGB-IR image sensors,"
     publishedDateTime: 2021-01-29T07:07:00Z

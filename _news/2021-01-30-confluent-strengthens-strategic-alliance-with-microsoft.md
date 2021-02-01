@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358472/confluent-stren
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/358472/confluent-strengthens-strategic-alliance-with-microsoft?amp"
 type: article
 quality: 89
-heat: 199
+heat: 189
 published: true
 
 provider:
@@ -134,20 +134,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/gazettextra.com/content/tncms/custom/image/22e609ae-afc7-11e9-8d80-639cb276d44a.png"
         width: 900
         height: 470
-        isCached: true
-  - title: "Microsoft surpasses $10 billion in security business revenue, more than 40 percent year-over-year growth"
-    excerpt: "I joined Microsoft a little more than six months ago—amid a global pandemic and a new norm of remote work, as well as one of the most rapidly evolving threat landscapes in history. We’ve witnessed more sophisticated attacks,"
-    publishedDateTime: 2021-01-27T18:11:00Z
-    webUrl: "https://www.microsoft.com/security/blog/2021/01/27/microsoft-surpasses-10-billion-in-security-business-revenue-more-than-40-percent-year-over-year-growth/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 39
-    images:
-      - url: "https://www.microsoft.com/security/blog/wp-content/uploads/2021/01/MSC17_dataCenter_053-1.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Confluent Announces Strategic Alliance with Microsoft"
     excerpt: "Confluent, the company of the founders of Apache Kafka, recently announced a new strategic alliance between them and Microsoft to enable a more integrated experience between Confluent Cloud and the Azure platform."

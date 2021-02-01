@@ -98,6 +98,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-28-graphic-processing-unit-gpu-market-size-to-hit-usd-19877-billion-by-2027.md",
+      "title": "Graphic Processing Unit (GPU) Market Size to Hit USD 198.77 Billion by 2027",
+      "excerpt": "The global graphic processing unit (GPU) market is poised to grow at a compound annual growth rate (CAGR) 33.4% during the forecast period 2020 to 2027. Graphics Processing Unit (GPU) also referred as visual processing unit is mainly a computer chip that performs rapid mathematical calculations,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/graphic-processing-unit-gpu-market-size-to-hit-usd-19877-billion-by-2027-2021-01-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/graphic-processing-unit-gpu-market-size-to-hit-usd-19877-billion-by-2027-2021-01-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-28T07:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-28-nvidia-shows-off-the-first-a100-gpu-systems-built-to-handle-ai-workloads.md",
       "title": "Nvidia shows off the first A100 GPU systems built to handle AI workloads",
       "excerpt": "As AI workloads can be complex and demanding, Nvidia has unveiled a new program that makes it easier for businesses to choose servers geared towards machine learning and analytics. This new class of accelerated servers from the company's partners are given the Nvidia-Certified Systems branding as they are designed to power organization's journeys into AI and data analytics.",
@@ -1430,58 +1482,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-how-ai-is-reshaping-hpc-and-what-this-means-for-data-center-architects.md",
-      "title": "How AI Is Reshaping HPC And What This Means For Data Center Architects",
-      "excerpt": "IT users, evaluate your current data center environment and closely consider how hardware resources can be repurposed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/19/how-ai-is-reshaping-hpc-and-what-this-means-for-data-center-architects/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/19/how-ai-is-reshaping-hpc-and-what-this-means-for-data-center-architects/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd8fdab4651878de6f35fbf%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/19/how-ai-is-reshaping-hpc-and-what-this-means-for-data-center-architects/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/19/how-ai-is-reshaping-hpc-and-what-this-means-for-data-center-architects/amp/",
-      "publishedDateTime": "2021-01-19T04:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

@@ -2,6 +2,109 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-28-this-robot-could-be-mass-manufactured-to-fight-the-pandemic.md",
+      "title": "This Robot Could Be Mass-Manufactured to Fight the Pandemic",
+      "excerpt": "Now more than ever, the pandemic has created the need to incorporate new technologies that will help reduce the workload of health professionals. Likewise, the prevention of the risk of contagion, reducing physical contact between people.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/364271",
+      "originalUrl": "https://www.entrepreneur.com/article/364271",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1611768922-sophia-robot1.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/364271",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/364271",
+      "publishedDateTime": "2021-01-27T09:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-28-researchers-create-new-model-to-evaluate-ai-generated-navigation-instructions.md",
+      "title": "Researchers create new model to evaluate AI-generated navigation instructions",
+      "excerpt": "In a paper, researchers at Google claim current benchmarks are insufficient for evaluating the quality of navigation instructions.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/27/researchers-find-current-benchmarks-are-insufficient-for-evaluating-the-quality-of-ai-generated-navigation-instructions/",
+      "originalUrl": "https://venturebeat.com/2021/01/27/researchers-find-current-benchmarks-are-insufficient-for-evaluating-the-quality-of-ai-generated-navigation-instructions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/static.reuters.com_.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 633,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/27/researchers-find-current-benchmarks-are-insufficient-for-evaluating-the-quality-of-ai-generated-navigation-instructions/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/27/researchers-find-current-benchmarks-are-insufficient-for-evaluating-the-quality-of-ai-generated-navigation-instructions/amp/",
+      "publishedDateTime": "2021-01-27T09:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-28-stilt-a-financial-services-provider-for-immigrants-raises-100-million-debt-facility-from-silicon-valley-bank.md",
       "title": "Stilt, a financial services provider for immigrants, raises $100 million debt facility from Silicon Valley Bank",
       "excerpt": "Stilt, a provider of financial services for immigrants in the United States, announced today it has raised a $100 million warehouse facility from Silicon Valley Bank for lending to its customers. This brings Stilt’s total debt facilities so far to $225 million,",
@@ -1160,109 +1263,6 @@
         "Natural Language Processing",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-neural-network-software-market-size-share-growth-future-scope-trends-2020-2026.md",
-      "title": "Neural Network Software Market Size, Share, Growth, Future Scope, Trends 2020-2026",
-      "excerpt": "The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-size-share-growth-future-scope-trends-2020-2026-2021-01-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-size-share-growth-future-scope-trends-2020-2026-2021-01-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-26T19:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-us-commission-cites-moral-imperative-to-explore-ai-weapons.md",
-      "title": "U.S. commission cites 'moral imperative' to explore AI weapons",
-      "excerpt": "The United States should not agree to ban the use or development of autonomous weapons powered by artificial intelligence (AI) software, a government-appointed panel said in a draft report for Congress.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-military-ai/u-s-commission-cites-moral-imperative-to-explore-ai-weapons-idUSKBN29V2M0?edition-redirect=ca",
-      "originalUrl": "https://www.reuters.com/article/us-usa-military-ai/u-s-commission-cites-moral-imperative-to-explore-ai-weapons-idUSKBN29V2M0?edition-redirect=ca",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210126&t=2&i=1549163391&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0P1K3",
-          "width": 924,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29V2M0",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29V2M0",
-      "publishedDateTime": "2021-01-26T19:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

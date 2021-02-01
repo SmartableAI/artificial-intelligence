@@ -67,34 +67,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Can Robots and Drones Help to Fight COVID-19?"
-    excerpt: "As such, there is a big push to use drones and other manned and unmanned aerial vehicles to help combat infection rates. We have already seen drones working within the military and also embraced in public safety roles."
-    publishedDateTime: 2021-01-27T17:18:00Z
-    webUrl: "https://www.nextgov.com/ideas/2021/01/can-robots-and-drones-help-fight-covid-19/171667/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 39
-    images:
-      - url: "https://cdn.nextgov.com/media/img/upload/2021/01/27/NGdrone20210127/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Machine Learning, Real-Time Data App Rates COVID-19 Exposure Risk"
-    excerpt: "A new app leverages machine learning and real-time data to provide location-based risk assessments of COVID-19 exposure."
-    publishedDateTime: 2021-01-27T18:01:00Z
-    webUrl: "https://healthitanalytics.com/news/machine-learning-real-time-data-app-rates-covid-19-exposure-risk"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/Apps_and_Software.jpg"
-        width: 690
-        height: 400
-        isCached: true
   - title: "New AI-severity score COVID-19 integrating CT images published to Nature Communications"
     excerpt: "Owkin, a French-American startup pioneering AI and Federated Learning in medical research, has been focusing it's COVID-19 research efforts on aspects of the pandemic that still require much public health attention,"
     publishedDateTime: 2021-01-28T16:52:00Z

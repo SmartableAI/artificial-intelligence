@@ -2,6 +2,92 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-01-25-ehave-inc-utilizes-artificial-intelligence-and-machine-learning-for-big-data-management-in-mental-healthcare-morningstar.md",
+      "title": "Ehave, Inc. Utilizes Artificial Intelligence and Machine Learning for Big Data Management in Mental Healthcare | Morningstar",
+      "excerpt": "The Ehave Dashboard will continue to evolve to include its artificial intelligence and machine learning functions in order to become more integrated with clinical care in the coming years. Ehave Dashboard has been in the forefront of using data analytics with its blockchain data warehouse that provides insights to clinicians and patients.",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/globe-newswire/8140900/ehave-inc-utilizes-artificial-intelligence-and-machine-learning-for-big-data-management-in-mental-healthcare",
+      "originalUrl": "https://www.morningstar.com/news/globe-newswire/8140900/ehave-inc-utilizes-artificial-intelligence-and-machine-learning-for-big-data-management-in-mental-healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-25T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-01-25-skyrim-modders-are-using-ai-to-generate-new-spoken-dialogue.md",
+      "title": "Skyrim modders are using AI to generate new spoken dialogue",
+      "excerpt": "A new AI app called VASynth that lets Skyrim modders turn text into speech has already produced an impressive fan-made trailer.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/01/25/skyrim-modders-are-using-ai-to-generate-new-spoken-dialogue/",
+      "originalUrl": "https://thenextweb.com/neural/2021/01/25/skyrim-modders-are-using-ai-to-generate-new-spoken-dialogue/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/Untitled-design-2021-01-25T102150.637-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/01/25/skyrim-modders-are-using-ai-to-generate-new-spoken-dialogue/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/25/skyrim-modders-are-using-ai-to-generate-new-spoken-dialogue/amp/",
+      "publishedDateTime": "2021-01-25T05:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-25-hyundai-dal-e-ai-powered-robot-provides-automated-customer-service.md",
       "title": "Hyundai DAL-e AI-powered robot provides automated customer service",
       "excerpt": "Automaker Hyundai has a new employee working in one of its showrooms in Seoul, Korea. The employee is an AI-powered automated robot called DAL-e that provides customer services at the showroom.",
@@ -1103,83 +1189,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-23-staten-island-da-draws-criticism-for-facial-recognition-use.md",
-      "title": "Staten Island DA Draws Criticism for Facial Recognition Use",
-      "excerpt": "Critics argue the technology from Clearview AI treads on basic privacy and civil rights by collecting and storing data on individuals pulled from social media and Internet channels without their knowledge or consent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/public-safety/Staten-Island-DA-Draws-Criticism-for-Facial-Recognition-Use.html",
-      "originalUrl": "https://www.govtech.com/public-safety/Staten-Island-DA-Draws-Criticism-for-Facial-Recognition-Use.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.govtech.com/images/shutterstock_1392652700.jpg",
-          "width": 939,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/public-safety/Staten-Island-DA-Draws-Criticism-for-Facial-Recognition-Use.html?AMP",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Staten-Island-DA-Draws-Criticism-for-Facial-Recognition-Use.html?AMP",
-      "publishedDateTime": "2021-01-22T15:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-23-tripadvisor-beats-speech-recognition-ip-suit-after-ptab-win.md",
-      "title": "TripAdvisor Beats Speech Recognition IP Suit After PTAB Win",
-      "excerpt": "Mimzi LLC on Thursday agreed to permanently dismiss an infringement suit against TripAdvisor LLC over a speech recognition patent after the Patent Trial and Appeal Board found all the claims invalid.",
-      "sourceUrl": null,
-      "webUrl": "https://www.law360.com/articles/1347471/tripadvisor-beats-speech-recognition-ip-suit-after-ptab-win",
-      "originalUrl": "https://www.law360.com/articles/1347471/tripadvisor-beats-speech-recognition-ip-suit-after-ptab-win",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.law360.com/amp/articles/1347471",
-      "cdnAmpWebUrl": "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1347471",
-      "publishedDateTime": "2021-01-22T14:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law360",
-        "domain": "law360.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

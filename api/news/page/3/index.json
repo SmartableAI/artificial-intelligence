@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-29-us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai.md",
+      "title": "US, China or Europe? Here's who is really winning the global race for AI",
+      "excerpt": "A new report shows that in the ever-more competitive race for AI, the US has a strong lead that China is catching up with, while the EU is falling behind little by little.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai/",
+      "originalUrl": "https://www.zdnet.com/article/us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/12/08/d2cda70e-e16c-48b0-b7cd-8321360bd6e5/woman-surrounded-by-high-tech-600-x-337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai/",
+      "publishedDateTime": "2021-01-29T04:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-29-top-5-fintech-trends-that-will-shape-financial-markets-in-2021.md",
       "title": "Top 5 Fintech Trends That Will Shape Financial Markets in 2021",
       "excerpt": "The popularity of fintech has spiked in recent times. Here's how FinTech will shape the global financial market in 2021.",
@@ -945,6 +996,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-28-graphic-processing-unit-gpu-market-size-to-hit-usd-19877-billion-by-2027.md",
+      "title": "Graphic Processing Unit (GPU) Market Size to Hit USD 198.77 Billion by 2027",
+      "excerpt": "The global graphic processing unit (GPU) market is poised to grow at a compound annual growth rate (CAGR) 33.4% during the forecast period 2020 to 2027. Graphics Processing Unit (GPU) also referred as visual processing unit is mainly a computer chip that performs rapid mathematical calculations,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/graphic-processing-unit-gpu-market-size-to-hit-usd-19877-billion-by-2027-2021-01-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/graphic-processing-unit-gpu-market-size-to-hit-usd-19877-billion-by-2027-2021-01-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-28T07:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-28-at-362-cagr-artificial-intelligence-ai-in-retail-market-size-to-surpass-usd-57230-million-by-2025.md",
       "title": "At 36.2% CAGR, Artificial Intelligence (AI) in Retail Market Size to Surpass USD 5723.0 Million by 2025",
       "excerpt": "Artificial Intelligence (AI) in Retail Market is valued at USD 658.2 Million in 2018 and expected to reach USD 5723.0",
@@ -1149,110 +1252,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-how-communities-can-become-smarter-about-artificial-intelligence.md",
-      "title": "How Communities Can Become Smarter About Artificial Intelligence",
-      "excerpt": "The growing use of artificial intelligence for smart cities is changing the rules for everyone, including government agencies, elected officials, constituents and AI vendors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/28/how-communities-can-become-smarter-about-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/28/how-communities-can-become-smarter-about-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60119bd673d98c63b706c92d%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-28T05:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-the-next-target-for-a-facial-recognition-ban-new-york.md",
-      "title": "The Next Target for a Facial Recognition Ban? New York",
-      "excerpt": "San Francisco, Oakland, and other cities have enacted moratoriums on government use of the tech. New York looks like a harder sell.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/next-target-facial-recognition-ban-new-york/",
-      "originalUrl": "https://www.wired.com/story/next-target-facial-recognition-ban-new-york/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6010bfcaea675c9b9e49067c/master/pass/Business-Police-Facial-Recognition-1177427464.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/next-target-facial-recognition-ban-new-york/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/next-target-facial-recognition-ban-new-york/amp",
-      "publishedDateTime": "2021-01-28T05:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

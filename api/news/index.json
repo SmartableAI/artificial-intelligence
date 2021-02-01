@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-01-artificial-intelligence-ethics-under-spotlight-at-davos-2021.md",
+      "title": "Artificial intelligence ethics under spotlight at Davos 2021",
+      "excerpt": "The World Economic Forum announces two initiatives to accelerate the adoption of technology across the globe, at the annual Davos meeting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/xA9POvNZj4Pvo4J8",
+      "originalUrl": "https://www.itweb.co.za/content/xA9POvNZj4Pvo4J8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itweb.co.za/static/pictures/2021/02/AI-city-2021.jpg",
+          "width": 816,
+          "height": 459,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.itweb.co.za/content/xA9POvNZj4Pvo4J8",
+      "cdnAmpWebUrl": "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/xA9POvNZj4Pvo4J8",
+      "publishedDateTime": "2021-02-01T02:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-02-01-tech-firms-to-benefit-on-fms-push-for-digital-census-use-of-ai-ml-on-mca-21.md",
       "title": "Tech firms to benefit on FM's push for digital census, use of AI, ML on MCA-21",
       "excerpt": "Finance minister Nirmala Sitharaman said that government will use data analytics, Artificial Intelligence, Machine Learning to launch the next version of the Ministry of Corporate Affairs portal MCA 21 3.",
@@ -1151,58 +1195,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-30-ai-weekly-announcing-our-ai-and-the-future-of-health-care-special-issue.md",
-      "title": "AI Weekly: Announcing our ‘AI and the future of health care’ special issue",
-      "excerpt": "Through the lens of AI and data, we examine how health care providers and vendors are tackling the challenges of this extraordinary time.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/29/ai-weekly-announcing-our-ai-and-the-future-of-health-care-special-issue/",
-      "originalUrl": "https://venturebeat.com/2021/01/29/ai-weekly-announcing-our-ai-and-the-future-of-health-care-special-issue/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/ai-weekly-feature-image-ai-and-healthcare.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-29T13:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

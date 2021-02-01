@@ -47,6 +47,22 @@ related:
         width: 950
         height: 633
         isCached: true
+  - title: "Baidu gets California nod for testing empty self-driving cars"
+    excerpt: "Baidu Inc has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor Vehicles said on Wednesday."
+    publishedDateTime: 2021-01-28T02:37:00Z
+    webUrl: "https://www.reuters.com/article/us-baidu-autonomous-idUSKBN29W2OT"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29W2OT"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29W2OT"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210127&t=2&i=1549286737&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0Q1KU"
+        width: 817
+        height: 545
+        isCached: true
   - title: "UPDATE 1-Baidu gets California nod for testing empty self-driving cars"
     excerpt: "Baidu Inc has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor Vehicles said on Wednesday."
     publishedDateTime: 2021-01-28T02:37:00Z
@@ -127,17 +143,6 @@ related:
         width: 1024
         height: 640
         isCached: true
-  - title: "Baidu Gets California Nod for Testing Empty Self-Driving Cars"
-    excerpt: "Baidu Inc has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor Vehicles said on Wednesday. Although self-driving vehicles are designed to eliminate the need for a driver,"
-    publishedDateTime: 2021-01-28T09:25:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-01-27/baidu-gets-california-nod-for-testing-driverless-vehicles"
-    ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-01-27/baidu-gets-california-nod-for-testing-driverless-vehicles?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-01-27/baidu-gets-california-nod-for-testing-driverless-vehicles?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 69
   - title: "Baidu Apollo receives driverless vehicle test permit in California"
     excerpt: "Baidu Apollo has now been approved by the California Department of Motor Vehicles (DMV) to test driverless vehicles without a safety driver behind the wheel on public streets. This makes Baidu the"
     publishedDateTime: 2021-01-28T13:25:00Z
@@ -239,6 +244,6 @@ related:
         height: 300
         isCached: true
 
-secured: "mpG+aE0yaIArofD8twlSJtOIyeh3firsnRbz15SXFcp2G1mdMm2Kw6Px/ieUU6OFW7Xe46wodkB9IeVAwQdfSZydJ8i00KoPjFJv/ly32AkmFdmrUfI1Z7iqW4TxX15yXZZGgPRBdsfCRjmwW8YOxNDFrH6T8gtCjexbe5+fCIhfdYwBooygPQhWYpPU1Jl10tL6VbuqgOSxwSLXPRbuosY8QXJZjh9DT80XoqXD565MN0jgK41Kn4QH8wXdfIz5GVLj1QhnpFKXkNVy8yUPXCbkTGPcQ5++itpVmwoX9yFtj4nN+bby6wmPPQlKQY4UeZpp2LTnjT7n5gQacROTelok6Bk3xQJ/DU8Esku/NTY=;nSxSnEl5fkYEMr1FmQPn7A=="
+secured: "pSEvATAq+lEEJ391trnHAd07Ty18+V05PhZrkqx0i3mNh5s8TQKWiyeoEqrcI5xbz3zvsgivgcPR9Y0JkoH+0rzoRi3jViTcwSp052sHjgE/Firn+RWXphE1obp+c/mBv2qL68t3fVt4ZECMpM4tsN9uMHnzpzK3F5tByEb8dshZv3spxaWPQb/mfgEYp18YJ6Xr+r4DDBq99U8TQ2PPtCGC9b+sE492CEnKvcIcnDkA77xh1Ppd+AFx88aXStJY8vDcHJFExQCYUUl4ygPSAt6rUtvKXJoT9ZJTqZYV4KSrk1/EH5dsqv8vUcahvGIfbZC90nRqudMnBmtgofM7fHHNe1+wluT8kQcwF9Yw48I=;zU/mNBPOImdXdm5NzRAl/Q=="
 ---
 
