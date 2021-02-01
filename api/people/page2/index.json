@@ -17,7 +17,7 @@
       "twitter": {
         "username": "kaliouby",
         "url": "https://twitter.com/kaliouby",
-        "followers": 22982
+        "followers": 22983
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/kaliouby/"
@@ -58,7 +58,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=EZjSxgwAAAAJ",
-        "citations": 163679
+        "citations": 163798
       },
       "affiliation": {
         "path": "",
@@ -96,14 +96,14 @@
       "twitter": {
         "username": "rajatmonga",
         "url": "https://twitter.com/rajatmonga",
-        "followers": 14168
+        "followers": 14172
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/rajatmonga/"
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=W8yZCNsAAAAJ",
-        "citations": 35274
+        "citations": 35329
       },
       "affiliation": {
         "path": "",
@@ -156,11 +156,11 @@
       "twitter": {
         "username": "SebastianThrun",
         "url": "https://twitter.com/SebastianThrun",
-        "followers": 77056
+        "followers": 77058
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=7K34d7cAAAAJ",
-        "citations": 121502
+        "citations": 121568
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Sebastian_Thrun"
@@ -333,7 +333,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=GTtW9H0AAAAJ",
-        "citations": 132127
+        "citations": 132824
       },
       "affiliation": {
         "path": "",
@@ -370,7 +370,7 @@
       "twitter": {
         "username": "noramayc",
         "url": "https://twitter.com/noramayc",
-        "followers": 17200
+        "followers": 17201
       },
       "topics": [
         "AI"
@@ -433,7 +433,7 @@
       "twitter": {
         "username": "harryshum",
         "url": "https://twitter.com/harryshum",
-        "followers": 17556
+        "followers": 17559
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=9akH-n8AAAAJ",
@@ -486,7 +486,7 @@
       "twitter": {
         "username": "johnkrafcik",
         "url": "https://twitter.com/johnkrafcik",
-        "followers": 15343
+        "followers": 15345
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/johnkrafcik/"
@@ -524,7 +524,7 @@
       "twitter": {
         "username": "rosalindpicard",
         "url": "https://twitter.com/rosalindpicard",
-        "followers": 11163
+        "followers": 11164
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/rosalind-picard-0111bb/"
@@ -567,7 +567,7 @@
       "twitter": {
         "username": "TarynSouthern",
         "url": "https://twitter.com/TarynSouthern",
-        "followers": 67181
+        "followers": 67178
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/tarynsouthern/"
@@ -730,7 +730,7 @@
       "bio": "Andrew Zisserman FRS is a British computer scientist and a professor at the University of Oxford, and a researcher in computer vision. As of 2014 he is affiliated with DeepMind.",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=UZ5wscMAAAAJ",
-        "citations": 212297
+        "citations": 212469
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Andrew_Zisserman"
@@ -767,7 +767,7 @@
       "bio": "Michigan State University",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=g-_ZXGsAAAAJ",
-        "citations": 218457
+        "citations": 218537
       },
       "affiliation": {
         "path": "",
@@ -802,7 +802,7 @@
       "bio": "Professor of Computer Science, National Chiao Tung University",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=_0PCbyUAAAAJ",
-        "citations": 150595
+        "citations": 150737
       },
       "affiliation": {
         "path": "",
@@ -838,7 +838,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=910z20QAAAAJ",
-        "citations": 44990
+        "citations": 45019
       },
       "wikipedia": {
         "url": "http://en.wikipedia.org/wiki/Daniela_L._Rus"
@@ -893,7 +893,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=7_xEzmUAAAAJ",
-        "citations": 143586
+        "citations": 143642
       },
       "affiliation": {
         "path": "",
@@ -933,7 +933,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=P6krKIkAAAAJ",
-        "citations": 163421
+        "citations": 163523
       },
       "affiliation": {
         "path": "",
@@ -971,7 +971,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=4mF2FgcAAAAJ",
-        "citations": 302789
+        "citations": 303203
       },
       "affiliation": {
         "path": "",
@@ -1005,7 +1005,7 @@
       "bio": "National Research University Higher School of Economics",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=vbLFLLEAAAAJ",
-        "citations": 137246
+        "citations": 137300
       },
       "affiliation": {
         "path": "",
@@ -1044,7 +1044,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=q_wYjF8AAAAJ",
-        "citations": 237702
+        "citations": 238248
       },
       "affiliation": {
         "path": "",
@@ -1155,7 +1155,7 @@
       "bio": "Professor of EECS, UC Berkeley. Jitendra is known for his research in computer vision.",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=oY9R5YQAAAAJ",
-        "citations": 194117
+        "citations": 194252
       },
       "affiliation": {
         "path": "",
@@ -1216,7 +1216,7 @@
       "bio": "Queen Mary University of London",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=1DS8DjgAAAAJ",
-        "citations": 208290
+        "citations": 208469
       },
       "affiliation": {
         "path": "",
@@ -1250,7 +1250,7 @@
       "bio": "PhD Physics, Stanford University",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=_EPCKe0AAAAJ",
-        "citations": 193567
+        "citations": 193741
       },
       "affiliation": {
         "path": "",
@@ -1298,7 +1298,7 @@
       "bio": "Koenig Endowed Chair Professor, Electrical and Computer Engineering, Michigan State …",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=paTAXiIAAAAJ",
-        "citations": 155125
+        "citations": 155292
       },
       "affiliation": {
         "path": "",
