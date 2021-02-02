@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/il/news-releases/la-based-tech-company-
 webUrl: "https://www.prnewswire.com/il/news-releases/la-based-tech-company-sci-find-announces-upcoming-launch-of-ai-powered-search-engine-and-database-for-life-sciences-301219845.html"
 type: article
 quality: 14
-heat: 14
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,19 @@ images:
     width: 600
     height: 315
     isCached: true
+
+related:
+  - title: "L.A based tech company Sci Find announces upcoming launch of AI-Powered search engine and database for Life Sciences"
+    excerpt: "Sci Find, a Los Angeles -based tech company will be launching its search engine and comprehensive database on February 8, to promote scientific innovation in the Life Sciences community. The AI-powered platform,"
+    publishedDateTime: 2021-02-02T18:05:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/l-a-based-tech-company-sci-find-announces-upcoming-launch-of-ai-powered-search-engine-and-database-for-life-sciences-1030033482"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/l-a-based-tech-company-sci-find-announces-upcoming-launch-of-ai-powered-search-engine-and-database-for-life-sciences-1030033482"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/l-a-based-tech-company-sci-find-announces-upcoming-launch-of-ai-powered-search-engine-and-database-for-life-sciences-1030033482"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 44
 
 secured: "tX94tkxI83tbIybpg1kTjwDXw1JyFrJDBoZ9paQd7AghKEraJpIMPRmyQWiSH/aFiV1BoZwop2OMk0y8Hkg1fXXvIIjczNhXJLM/XbLiz82P6nXY0C6MGdRQA9LtEEMZRxO40prjoppnXGVM1eiyCsLf5Iok8cGLshPyvBRXs28nDr5rCqoRThX5M81bnGZIVxS5QmZHs3q02d1PwYthjQSeU3EkEdZUC0IxZ37CtzK0S6prsL7WdbqWb1sQqCTO8zEe07dy+ciTcErW4atlOgtSeMUEDajh9xO3HDrUGVIXimsCnBW/B5hlADPoNby3HXIxe/AMh3NtmXJKICZ973J7QkAERiqOThonH53L7hU=;oUR9pONgqZ6THflGveDxrw=="
 ---

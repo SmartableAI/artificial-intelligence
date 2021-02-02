@@ -6,7 +6,7 @@ publishedDateTime: 2021-02-02T15:00:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/adlink-launches-the-dlap-x86-series-a-deep-learning-acceleration-platform-for-smarter-ai-inferencing/article_11c70074-228e-5304-a1c6-65d5cf14b4b6.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/adlink-launches-the-dlap-x86-series-a-deep-learning-acceleration-platform-for-smarter-ai-inferencing/article_11c70074-228e-5304-a1c6-65d5cf14b4b6.html"
 type: article
-quality: 33
+quality: 35
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI Hardware
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"

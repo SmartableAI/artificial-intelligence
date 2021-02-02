@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/362981"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/362981"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -100,6 +100,15 @@ related:
       name: Arabian Business
       domain: arabianbusiness.com
     quality: 4
+  - title: "Dallas fintech startup takes top prize at Impact Ventures pitch competition"
+    excerpt: "Capping of the completion of its first fully-virtual – and second-ever – cohort, a few of its graduating members walked away from Impact Ventures’ accelerator program with more than just knowledge, after landing funding at its digital showcase and demo day pitch competition this past weekend."
+    publishedDateTime: 2021-02-02T17:06:00Z
+    webUrl: "https://www.bizjournals.com/dallas/inno/stories/fundings/2021/02/02/algopear-wins-impact-ventures-pitch-competition.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 2
 
 secured: "Pz0pklU/b9zGJawobQjcoAwWJ2pkSMdvqRuxeANG0CylxX05JHfzjRnKqMbxGfomOpxnNVPG8Q8jxYT6OOlMN8I0JnQcQ5Cpg8BIltZzxPT4B9FklTZ9dSi0bj9FS8zvxR5EHdzSGy3p/WutExb8MDnfFXmzi1kS3XWXzHj7BK9wVWFc4L0xwaZu81x6acBkMfM3n5/Mrtk6vD650Yl3dfkm37IVSmKliK0MedREerJ9JcVAGa2KHXRPdflyZTRGdNJcJGptjcb9uvkVX3FVPe0UQq2u05/H6748AoVI9LCURKTeyxgKpXCIipaSUGyUFioDg3BlzjQm9afJAYT7bej+caP+ca8ielIa22gak14=;wgw0l9AXeD+97GxQRJLZyQ=="
 ---

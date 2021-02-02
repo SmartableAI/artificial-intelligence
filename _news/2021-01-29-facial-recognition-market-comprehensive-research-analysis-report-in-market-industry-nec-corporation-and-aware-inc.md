@@ -36,6 +36,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 73
+  - title: "New Report Shows Marketers Lack the Education, Training to Effectively Adopt Artificial Intelligence"
+    excerpt: "The majority of marketers know artificial intelligence is essential to their success this year. But, lack of education and training is holding the industry back, with 70 percent of respondents identifying it as a barrier to adoption of AI in their marketing."
+    publishedDateTime: 2021-02-02T18:50:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-north-america-cleveland-advertising-and-marketing-industry-022340fc6d665efe35c66cfcddcbb8f7"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Worldwide Conversational AI Industry to 2027 - Strategic Recommendations for New Entrants - ResearchAndMarkets.com"
     excerpt: "The “Conversational AI - Global Market Outlook (2019-2027)” report has been added to ResearchAndMarkets.com’s offering. According to this report, the Global Conversational AI market accounted for $3.81 billion in 2019 and is expected to reach $18."
     publishedDateTime: 2021-01-29T08:01:00Z

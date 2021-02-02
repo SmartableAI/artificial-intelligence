@@ -45,7 +45,7 @@ related:
   - title: "Photonics for artificial intelligence and neuromorphic computing"
     excerpt: "Photonics offers an attractive platform for implementing neuromorphic computing due to its low latency, multiplexing capabilities and integrated on-chip technology."
     publishedDateTime: 2021-01-29T21:24:00Z
-    webUrl: "https://www.nature.com/articles/s41566-020-00754-y"
+    webUrl: "https://www.nature.com/articles/s41566-020-00754-y%5d."
     type: article
     provider:
       name: Nature

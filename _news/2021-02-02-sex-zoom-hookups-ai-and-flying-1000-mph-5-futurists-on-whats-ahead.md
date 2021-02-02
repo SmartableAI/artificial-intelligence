@@ -8,8 +8,8 @@ webUrl: "https://www.ibtimes.com/sex-zoom-hookups-ai-flying-1000-mph-5-futurists
 ampWebUrl: "https://www.ibtimes.com/sex-zoom-hookups-ai-flying-1000-mph-5-futurists-whats-ahead-3134891?amp=1"
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/sex-zoom-hookups-ai-flying-1000-mph-5-futurists-whats-ahead-3134891?amp=1"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Finance
 
 images:
   - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/06/10/artificial-intelligence.jpg"

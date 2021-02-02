@@ -3,10 +3,10 @@ category: news
 title: "Microsoft and the workplace of the future: How AI can help you build more productive relationships with your colleagues"
 excerpt: "Microsoft wants to help organizations use their data to deliver experiences, insights and outcomes. But careful design, clear ethics and full transparency are required to keep the AI in check."
 publishedDateTime: 2021-02-02T11:22:00Z
-originalUrl: "https://www.techrepublic.com/index.php/article/microsoft-and-the-workplace-of-the-future-how-ai-can-help-you-build-more-productive-relationships-with-your-colleagues/"
-webUrl: "https://www.techrepublic.com/index.php/article/microsoft-and-the-workplace-of-the-future-how-ai-can-help-you-build-more-productive-relationships-with-your-colleagues/"
-ampWebUrl: "https://www.techrepublic.com/index.php/google-amp/article/microsoft-and-the-workplace-of-the-future-how-ai-can-help-you-build-more-productive-relationships-with-your-colleagues/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/microsoft-and-the-workplace-of-the-future-how-ai-can-help-you-build-more-productive-relationships-with-your-colleagues/"
+originalUrl: "https://www.techrepublic.com/article/microsoft-and-the-workplace-of-the-future-how-ai-can-help-you-build-more-productive-relationships-with-your-colleagues/"
+webUrl: "https://www.techrepublic.com/article/microsoft-and-the-workplace-of-the-future-how-ai-can-help-you-build-more-productive-relationships-with-your-colleagues/"
+ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-and-the-workplace-of-the-future-how-ai-can-help-you-build-more-productive-relationships-with-your-colleagues/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-and-the-workplace-of-the-future-how-ai-can-help-you-build-more-productive-relationships-with-your-colleagues/"
 type: article
 quality: 82
 heat: -1
@@ -64,6 +64,20 @@ related:
         width: 605
         height: 500
         isCached: true
+  - title: "Shell, C3 AI, Baker Hughes, and Microsoft Launch the Open AI Energy Initiative, an Ecosystem of AI Solutions to Help Transform the Energy Industry"
+    excerpt: "Baker Hughes (NYSE:BKR), and Microsoft (NASDAQ:MSFT) today announced the launch of the Open AI Energy Initiative™ (OAI),"
+    publishedDateTime: 2021-02-02T11:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/shell-c3-ai-baker-hughes-and-microsoft-launch-the-open-ai-energy-initiative-an-ecosystem-of-ai-solutions-to-help-transform-the-energy-industry-2021-02-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "BKR, RDS, AI and MSFT Launch AI Energy Initiative"
     excerpt: "C3 AI (NYSE: AI), and Microsoft (NASDAQ: MSFT) have announced the launch of the Open AI Energy Initiative. Baker Hughes (NYSE: BKR), Shell (NYSE: RDS), C3 AI (NYSE: AI), and Microsoft (NASDAQ: MSFT) have announced the launch of the Open AI Energy Initiative (OAI),"
     publishedDateTime: 2021-02-02T11:38:00Z
@@ -89,21 +103,7 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Shell, C3 AI, Baker Hughes, and Microsoft Launch the Open AI Energy Initiative, an Ecosystem of AI Solutions to Help Transform the Energy Industry"
-    excerpt: "THE HAGUE, Netherlands, REDWOOD CITY, Calif., HOUSTON & REDMOND, Wash.-- (BUSINESS WIRE)--Feb 1, 2021-- Shell (NYSE:RDS), C3 AI (NYSE:AI), Baker Hughes (NYSE:BKR), and Microsoft (NASDAQ:MSFT) today announced the launch of the Open AI Energy Initiative™ (OAI),"
-    publishedDateTime: 2021-02-01T22:11:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/science-business-technology-products-and-services-western-europe-dfd49c9427b4436eb0add6c556db954a"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 16
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
-secured: "S9Rs7rMXJ/HVUQeMDnBcb+mov/RitEjZjimf72w12opb5PuJF7aMfsqp0GHZOAbMFbDX4Np90HBDuKuFF1APgevD3nB4kmuPkxe0P4I1fexx2Oi6/7sM7zcTX+tG06OfX7oY8IulrcmyRtHPExBtrztdVmrUfAKsYIFC7hT8h+xfesT+p0djhSogt3EIlupRCTFcjR7rHxa6/irVfVvv6VI5p0qUZQZ+Nl8nrUJ1ROIfymbk3sG3LoWYWTXpEeFBn7CUztuUyv6YSMZdVgpjek/XRkY58lfSCdO3kMi8W3uvp3ai3lMZhxX6/ODgovkU/mqiyXuVukFs7KJCPjNU9dM3yspFDdSr4E/gVOYdqBU=;g0uaozzk/uL2DVG55NH57A=="
+secured: "jrfjCZyXq6CqMV3KzA0jbldUWiT5VzGVy/qNn5d7o3iv+bjOsnT1Nz3Bec9HstbXwNN4yjbIuS/hrfehwQYb68vOAKB/1PhRs5DLQn4F1Ckv3vm5o6rtXjQmrO9dAFC9B5woTxBFM7/qOcnbM0mX6tKenkwLrsvtLuBIWaiRqu4ilaZxsv3U6jqmQOliCeAJuXkcbbKcYa+cm36mLDKqnHZE6z3E+XUaBDeFJKD8W+uAOGWs4A70yqKTCXOC40we2W7SBRT2iFtU/xv0E9L0ORIoc/sx6/vhliru76BdcyKyQCq3i4LKOPxA9GSdlSKyrGO5yc0kj5ILxnQzByKkk1E+dpg8dtW1PxCmprb2zKE=;hM8U1y00rvDjD1zvyD7fYw=="
 ---
 

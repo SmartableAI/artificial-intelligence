@@ -45,21 +45,16 @@ related:
         height: 800
         isCached: true
   - title: "ADVANCE.AI Launches 'Advance Intelligence Group' Parent Brand"
-    excerpt: "Homegrown AI and big data company eyes global expansion on the back of robust growth in 2020 across enterprise, consumer lines SINGAPORE, Feb. 2, 2021"
-    publishedDateTime: 2021-02-02T06:00:00Z
-    webUrl: "https://www.asiaone.com/business/advanceai-launches-advance-intelligence-group-parent-brand"
-    ampWebUrl: "https://www.asiaone.com/business/advanceai-launches-advance-intelligence-group-parent-brand?amp"
-    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/advanceai-launches-advance-intelligence-group-parent-brand?amp"
+    excerpt: "ADVANCE.AI, a homegrown AI and big data company in Asia helping to solve digital transformation, fraud prevention, and process automation for enterprise clients, is today formally announcing its corporate parent brand Advance Intelligence Group."
+    publishedDateTime: 2021-02-02T06:10:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/advance-ai-launches-advance-intelligence-group-parent-brand-1030031079"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/advance-ai-launches-advance-intelligence-group-parent-brand-1030031079"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/advance-ai-launches-advance-intelligence-group-parent-brand-1030031079"
     type: article
     provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 59
-    images:
-      - url: "https://www.asiaone.com/themes/asiaone_amp/logo.png"
-        width: 299
-        height: 300
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
 
 secured: "KNpX4KVuvyW+cm01lYipLmg2A6PG8A/AGe1QveB76JO/Z0qOeQ7BxgSEaWaCNm0DJ+Kl0zHMEsgXGpn6avRbOZ5FO3SQHPdonH0AN/jlgc4cgKQE19dwhqCEZiGPu5xeLO1x5Wym6imAQR/U3hmjGYvIk0nGjhmYPNFTD2VcMJ0Zs9EgPKqXALQ6+mhZlY1JzQKme9QWM4EI4vnPdQ69QujfZxN7Jxe/DFPpnpeFkbl3iyhQLnxJ4jc9xOBoKTMzTWsqgszHfCtcIh2UVvHvwgU0fafPiuslY8kvamXl3bgNLKDAj/FJqEkH4OR+f718fm38C9yu23GDdJJ+y4IOm5210FYtaeAmcLLhixfmoTQ=;lnWYWEmIqBp4mcYzYX4J4Q=="
 ---

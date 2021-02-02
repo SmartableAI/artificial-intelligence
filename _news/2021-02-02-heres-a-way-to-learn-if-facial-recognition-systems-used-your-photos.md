@@ -60,22 +60,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "Facial recognition tool used to identify Red Fort raiders"
-    excerpt: "The Delhi Police have so far arrested 19 persons and detained over 200 persons after 33 FIRs were registered under various sections of IPC, Disaster Management Act, Epidemic Disease Act, UAPA and Prevention of Damage to Public Property Act,"
-    publishedDateTime: 2021-01-29T02:51:00Z
-    webUrl: "https://economictimes.indiatimes.com/news/politics-and-nation/facial-recognition-tool-used-to-identify-red-fort-raiders/articleshow/80516165.cms"
-    ampWebUrl: "https://m.economictimes.com/news/politics-and-nation/facial-recognition-tool-used-to-identify-red-fort-raiders/amp_articleshow/80516165.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/politics-and-nation/facial-recognition-tool-used-to-identify-red-fort-raiders/amp_articleshow/80516165.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-449348,msid-80516165/facial-recognition-tool-used-to-identify-red-fort-raiders.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Here’s a way to find out if facial recognition systems used your photos"
     excerpt: "Here's a way to find out if facial recognition systems used your photos When tech companies created the facial recognition systems that"
     publishedDateTime: 2021-01-31T16:54:00Z
@@ -122,6 +106,20 @@ related:
         width: 1024
         height: 602
         isCached: true
+  - title: "Millions of faces scanned without approval. We need rules for facial recognition"
+    excerpt: "The powers that be at UCLA thought it was a good idea at the time — using state-of-the-art technology to scan students' faces for gaining access to campus buildings. Students"
+    publishedDateTime: 2021-01-31T04:00:00Z
+    webUrl: "https://www.decaturdaily.com/business/millions-of-faces-scanned-without-approval-we-need-rules-for-facial-recognition/article_78ce915a-aaae-5adf-904f-849658af0769.html"
+    type: article
+    provider:
+      name: Decatur Daily
+      domain: decaturdaily.com
+    quality: 34
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/decaturdaily.com/content/tncms/assets/v3/editorial/6/c5/6c530fe2-caea-5610-a12b-f0b17da37879/6014a79ba90b5.image.jpg?resize=948%2C630"
+        width: 948
+        height: 630
+        isCached: true
   - title: "Millions of US faces scanned without approval, rules for facial recognition needed"
     excerpt: "The powers that be at UCLA thought it was a good idea at the time — using state-of-the-art technology to scan students' faces for gaining access to campus buildings. Students thought otherwise."
     publishedDateTime: 2021-02-02T03:03:00Z
@@ -136,7 +134,18 @@ related:
         width: 1240
         height: 823
         isCached: true
+  - title: "Moscow police use facial recognition system to detect participants in unauthorized rally"
+    excerpt: "The system detected those who had been put on the database for their repeated participation in unauthorized events"
+    publishedDateTime: 2021-02-01T03:13:00Z
+    webUrl: "https://tass.com/society/1250959"
+    ampWebUrl: "https://tass.com/society/1250959/amp"
+    cdnAmpWebUrl: "https://tass-com.cdn.ampproject.org/c/s/tass.com/society/1250959/amp"
+    type: article
+    provider:
+      name: TASS
+      domain: tass.com
+    quality: 30
 
-secured: "HVIq+YX+Xq/ScgG4R+uip6YpkHD5ii8yKiMJaE8q3xnjYcJoTqShpKTbEGGT1J7DrzVs1u1eFdpWNpzz/KtUbKAcZPbbLIkr/YTuUi/5iSu0qKAAJ2Z7/cmsKCYvUjZuDrjAbhlkVepKLpqR0bKU0aETyNa/88UNzwFCtIR92oU1YB0AoJjfbsFCZkIUTLokUmfZNb1hZ12RBsiPxjJ9bPueufKn3ddssGHOdCn+ov1PwjmX6l6qnb/MUpfseVXwwZXOW7sJ0XhmYXVANhgIa1H+HVr/n/NOct+kKrWOuRO2Jy3kMC5eTeCY9q/dIiumyWTIofdbW8q8lIzXkE4MxFnncb0r50wlgR3Xz5hCGmQ=;67ePwu1Dmc5skr2wDVQkHQ=="
+secured: "lkkbDuVipXeJpvh3Lb2JS3jgKUVkybBNTbCZcY/+qdElkslGYLyN0nP0c23Pw5WWLSn4nlRKqSGg0/HeJ6wuCM3PjfG3HC2LXfxTK15LLhybSl+Nywt2IaTwdRSXH2NOPnbA3sRKhrlvQH616zWhvqRM6PAsu+1R25bmUIm+z1M/oOj4YeokfYSgvauG2Oc9I+bjrOtBExbwWXz2hQSYWFSwUW3rC7FfAERrOUGIfK9GldQ8yQzyFL8iKD2tyOVnPq9T5lW1i8BeLxh2pN9W+ta4nx91mm9g6TB3AkP+cCrdHGQZF/Se7y//uL2IDgs/lyfmNsVb2wnQsgDnPjOFxxF5Xy5ra3hXTZJ7JlCppu6RM1xrBHESAtDVNg4k2Iar42JiiYr5R8hQd7h1ugNOQBP8td+bjWXMdBXZVvbHPmSImiM/J4RXYiwWJVM2jk7//vNzFqs4jO2CUYicJb0WyZvzwD8niG4YfvX1r6b8rUnZlr+tHYSJH12FW4zGIC6vbFrknPgneg7wgqWN8F7d5g==;ojpaXklLWtAeFHNPF2IOJw=="
 ---
 

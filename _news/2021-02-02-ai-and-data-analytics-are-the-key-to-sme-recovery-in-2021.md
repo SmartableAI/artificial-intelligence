@@ -24,19 +24,21 @@ topics:
   - AI
 
 related:
-  - title: "Logistics dispatches AI, drones, and robots to haul the industry into the future"
-    excerpt: "Though the industry is slow to adopt new technologies, these trends can help streamline business.  Edge computing adoption to increase through 2026; organizations cautious about adding 5G to the mix T"
-    publishedDateTime: 2021-01-29T22:35:00Z
-    webUrl: "https://www.techrepublic.com/videos/logistics-dispatches-ai-drones-and-robots-to-haul-the-industry-into-the-future/"
+  - title: "How Artificial Intelligence Can Be The Key To Loyalty And Retention In 2021"
+    excerpt: "How Artificial Intelligence Can Be the Key to Loyalty and Retention in 2021 Leveraging emerging technologies can help retailers make sense of data As the dust settles on the disruption that was 2020,"
+    publishedDateTime: 2021-02-02T17:36:00Z
+    webUrl: "https://www.forbes.com/sites/jonathantreiber/2021/02/02/how-artificial-intelligence-can-be-the-key-to-loyalty-and-retention-in-2021/"
+    ampWebUrl: "https://www.forbes.com/sites/jonathantreiber/2021/02/02/how-artificial-intelligence-can-be-the-key-to-loyalty-and-retention-in-2021/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonathantreiber/2021/02/02/how-artificial-intelligence-can-be-the-key-to-loyalty-and-retention-in-2021/amp/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 81
+      name: Forbes
+      domain: forbes.com
+    quality: 85
     images:
-      - url: "https://tr4.cbsistatic.com/hub/i/r/2021/01/29/a68cb509-5a30-40f5-bb6a-4cf5b4ee1022/thumbnail/770x578/bbde0295b6044de4c13aac47c9cb7faf/20210128-trucking-karen.jpg"
-        width: 770
-        height: 578
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60198c7fc5ca2949770a813f%2F0x0.jpg"
+        width: 1200
+        height: 697
         isCached: true
 
 secured: "BwAfItWqYoN3JOi+U7cLTiKOdH80qF7f1OkzbF60zmt0MqZZoMuh8VISEx6kfu66Kz0OmEpnqSh6vN8yxgtGhjWfUJsV+ERzbWIaF6i4YpM9ad7dbNwk5yx2+6bwQPT5epnroZ2pELmg3ifaRTWlOg/+PMC/NAbUZIZzD205EAnNoAuGAAF6WK3Z7yMt11sRD7DtiSSMl52hRDX4gbYFwCaV36azoC69oUIz0piJAp4I1w7cOgb44hUMFO6J8AyPnl9FgihuKeto1Hdhw97rcgwthoOBigXxisGfwTW7AjBuhAt4MrztWRCttlWyUvni0Mx+OjEcQTVBGVqOzxl/1t3QvKf06br5F5uArraK+trcQS1aqYz7a7vIuuad1XSK7q5wEfZhEXxvGsowSrrovr4V5oi6lyEGVnk/jalqU0LWDuclrSLmxlj7QWVRj+9/Dtbw3essB0F/Z5GySoRQHe6NjRg19fM3Ml+4VCY3mKr12befVViyQmcBN6AVtgU4KN+Nlkgm4knkbj+qHYPP3w==;LhHuVokW0Xm4lt97zyio8w=="

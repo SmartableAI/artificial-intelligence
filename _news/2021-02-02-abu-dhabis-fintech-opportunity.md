@@ -95,6 +95,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Dallas fintech startup takes top prize at Impact Ventures pitch competition"
+    excerpt: "Capping of the completion of its first fully-virtual – and second-ever – cohort, a few of its graduating members walked away from Impact Ventures’ accelerator program with more than just knowledge, after landing funding at its digital showcase and demo day pitch competition this past weekend."
+    publishedDateTime: 2021-02-02T17:06:00Z
+    webUrl: "https://www.bizjournals.com/dallas/inno/stories/fundings/2021/02/02/algopear-wins-impact-ventures-pitch-competition.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 2
 
 secured: "u12zCqCHmqzPQLSFqMMqX6lMVWLOg365yDKmxYGe+CEatUPRTScWz0cBw8Hnlu8sC3LX7DnVA1ZWcOj8LVHhklBv9F8JNr7nu8B9DNvA6v0OuWp1grzs5KM4BVA9ZO3kq6Sq2txH3bZO1g9DlGWNy4E4hewpxGSWNGz0+NVwU6kvCqY3akyR1XsCT343V+AVgEje6qahv1e9ORZGzjbvUq87Bt5oefDcXXoBGwD97L/S/ckQVP9WzC8r4X5HAt44iN6bOuSU+jto54ZxGOeXH73YzeEXW7JdMsQi428EYQ+HIrf9evws2WQiMqi4lusj4LA+PIT8d26jn002rNJM78l+VGHHO7FUDuL+9AQhV5Hs3czyB+cjHui8OeL9G7kjK/Mh+2RIOyOesWtQQzu7DYyvhK0/lAuntU4EYllyRifO7HhObj6Z+mYE1zrWkSbu2DI4Z5tk2lBNeCV+zjRy0ylQTq55qZzKjCuCR7TgqPYIupWWklr1gko+3qQn0Gb5bYnCVXtRB19gpuq6SzPOKw==;QKKL6/nfIgAbK8/Izqeg3g=="
 ---

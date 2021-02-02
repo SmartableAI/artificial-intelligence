@@ -1,45 +1,70 @@
 ---
 category: news
 title: "New Report Shows Marketers Lack the Education, Training to Effectively Adopt Artificial Intelligence"
-excerpt: "The majority of marketers know artificial intelligence is essential to their success this year. But, lack of education and training is"
-publishedDateTime: 2021-02-02T16:31:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/new-report-shows-marketers-lack-the-education-training-to-effectively-adopt-artificial-intelligence-301220406.html"
-webUrl: "https://www.prnewswire.com/news-releases/new-report-shows-marketers-lack-the-education-training-to-effectively-adopt-artificial-intelligence-301220406.html"
+excerpt: "The majority of marketers know artificial intelligence is essential to their success this year. But, lack of education and training is holding the industry back, with 70 percent of respondents identifying it as a barrier to adoption of AI in their marketing."
+publishedDateTime: 2021-02-02T18:50:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-north-america-cleveland-advertising-and-marketing-industry-022340fc6d665efe35c66cfcddcbb8f7"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-north-america-cleveland-advertising-and-marketing-industry-022340fc6d665efe35c66cfcddcbb8f7"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
   - AI in Education
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
-  - title: "Introducing the 2021 State of Marketing AI [FREE REPORT]"
-    excerpt: "AI may seem like a futuristic concept, but you use it dozens, if not hundreds, of times everyday most likely without knowing it. Major brands such Amazon, Facebook, Google, Microsoft,"
-    publishedDateTime: 2021-02-02T13:02:00Z
-    webUrl: "https://www.drift.com/blog/introducing-the-2021-state-of-marketing-ai-free-report/"
+  - title: "Worldwide Digital Talent Acquisition Industry to 2025 - Integration with AI and Machine Learning"
+    excerpt: "The Global Digital Talent Acquisition Market is expected to grow from $22,791.04 Million in 2020 to $33,498.78 Million by the end of 2025. This research report categorizes the Digital Talent Acquisition to forecast the revenues and analyze the trends in each of the following sub-markets: Based on Training,"
+    publishedDateTime: 2021-02-02T11:23:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/worldwide-digital-talent-acquisition-industry-to-2025-integration-with-ai-and-machine-learning-1030031930"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/worldwide-digital-talent-acquisition-industry-to-2025-integration-with-ai-and-machine-learning-1030031930"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/worldwide-digital-talent-acquisition-industry-to-2025-integration-with-ai-and-machine-learning-1030031930"
     type: article
     provider:
-      name: Drift
-      domain: drift.com
-    quality: 58
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 73
+  - title: "Facial Recognition Market Comprehensive Research Analysis Report in Market Industry | NEC Corporation and Aware Inc"
+    excerpt: "MarketResearch.Biz :Facial Recognition Market 2021 Overview: The report provides quantitative and qualitative information on the global Facial Recognition market for the period of 2021 to 2030. Given the debilitating effect of COVID-19 (Coronavirus) on the Facial Recognition market,"
+    publishedDateTime: 2021-01-29T07:59:00Z
+    webUrl: "https://apnews.com/press-release/wired-release/technology-lifestyle-business-greater-china-corporate-news-12b6fdc8ae2d7110c7e8ccb5cd93ba29"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 17
     images:
-      - url: "https://www.drift.com/wp-content/uploads/2021/01/StateOfMarketingAI-INDEX-BLOG.jpg"
-        width: 1200
-        height: 627
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Worldwide Conversational AI Industry to 2027 - Strategic Recommendations for New Entrants - ResearchAndMarkets.com"
+    excerpt: "The “Conversational AI - Global Market Outlook (2019-2027)” report has been added to ResearchAndMarkets.com’s offering. According to this report, the Global Conversational AI market accounted for $3.81 billion in 2019 and is expected to reach $18."
+    publishedDateTime: 2021-01-29T08:01:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-corporate-news-latin-america-and-caribbean-4a64e2e6e39e4ccf9d0261ea67d571dc"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 15
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
-secured: "1MEYOAysFxLK+85yoNl5hOBdATZhKlT2pb9uKqOQNMGd8k6qiflZ9CNHiJ7qM5kld3I9rgS+I5pRbqWLzjnyHj8eTEp2V3j351/Vu2hwF/avev0+fEovHT290uBr+TkoZsEN5EGu/tDOrVFIIK3QnQPOq2UjfqdUioiA/4JREIXTjv83Owgja5f0racTz6uwGOSPeP1DjYVc3U2oskKQw8TH4ZYJue3SRfkNnjOBswQ13LRxm+dAZqCbu0BTx//qC1jiu/FhUT0iIekPddjdBwAWAMNOnsuR3jmxzddkko6F7+nF5vuiUD1QQ5srsRdV7+6yMD1n2xX3NNWhnIY35xzyYaUm5DB08qI0adbAYKA=;1nJk7RlX2deWsGg1KrU0uQ=="
+secured: "BQLruI1tUnoLIVVYRGpbikhCmONKA/QLBBIqMnhz2omBvjPYVlJeGrftD3yJBvg7b6iwa52cfuCOlz5xVRr9fuspWmoy9ukZB46/mS18FCbv28RXC23gRvkRAQZgf7C7ZRXuZBlfeCPCo9MkYlSU+BcZI3IO6H3hLkzoTBnvYAEXec9zayemCydyh9QC1Si04KGsRCFtIM8QvzUr+ZH3PAXeaoCr5DcOfFb/11xVeQZziYlUyIZJvQ/x9+K3VcMsi+WLMDHZFGJtJMBy77RUMnXDraUpYLGS6IdQsDuPBPxQ6b+IBD6ROxcMWaPtsvu4WNEHUU5FRRTwmt76evBSeCwBafetk3RV4dODcg8Yb40=;1Pd+t13Niwq9/ZhS//0K0w=="
 ---
 

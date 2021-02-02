@@ -96,6 +96,15 @@ related:
       name: Arabian Business
       domain: arabianbusiness.com
     quality: 4
+  - title: "Dallas fintech startup takes top prize at Impact Ventures pitch competition"
+    excerpt: "Capping of the completion of its first fully-virtual – and second-ever – cohort, a few of its graduating members walked away from Impact Ventures’ accelerator program with more than just knowledge, after landing funding at its digital showcase and demo day pitch competition this past weekend."
+    publishedDateTime: 2021-02-02T17:06:00Z
+    webUrl: "https://www.bizjournals.com/dallas/inno/stories/fundings/2021/02/02/algopear-wins-impact-ventures-pitch-competition.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 2
 
 secured: "hkGWDDVR6AUFcx5+R8hJEKzMb6h45dmN/BPowKjY1Q+zTS5CpJQHEKpe2oqrKvHhLbCx89hP+Z1PgRHkM8uuL7EgtSNQK40PciHDg3rRR6TosfTZv42dmlHbHmTGPAg3tzLddjZtw9AsV2YYnjVD6ufWHMdCaiYlVGSrRtbHSoGHFEqN9rpGpcFNAZijNsMYdFj4iHxo0lsvdBOmXQC9RtDSDue3ndnpQ9nx7ztwgOI7oGkELIAlKn9fAAMzgxGI7fznezCdhFDZgUFxEodIZXWGsGIR8Z5vepuRIZroVcdeK5t9IaxnMEMJlVr3xYU+AA/J0r/V8Okq7fVL9C5vN4/T2Dt3uf02Flxu8dPzjDw=;l/1VmCikTlLEVzxwJpusmg=="
 ---

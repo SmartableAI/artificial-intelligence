@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/videos/logistics-dispatches-ai-drones
 webUrl: "https://www.techrepublic.com/videos/logistics-dispatches-ai-drones-and-robots-to-haul-the-industry-into-the-future/"
 type: article
 quality: 81
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -28,19 +28,6 @@ images:
     width: 770
     height: 578
     isCached: true
-
-related:
-  - title: "AI and data analytics are the key to SME recovery in 2021"
-    excerpt: "For most enterprises, the bulk of new revenue opportunities into the future will come from digital sources, as customer engagement through to product development shifts how businesses operate. To take advantage of this as an opportunity,"
-    publishedDateTime: 2021-02-02T13:19:00Z
-    webUrl: "https://www.zdnet.com/paid-content/article/ai-and-data-analytics-are-the-key-to-sme-recovery-in-2021/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-and-data-analytics-are-the-key-to-sme-recovery-in-2021/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-and-data-analytics-are-the-key-to-sme-recovery-in-2021/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
 
 secured: "asAbLwLlqskknfeBRGniKLmDvl9EEOCmfi2W+retf/a4Hsce+K/X/itOPX3k1QycXVotLElEeKKjxGPyn9ZFLVGr9cnK1kMl/73T00prhF6QbVtxuQnxw0y0BOUnPbS+wlOhakuilz48ViwLBP7gcIuKpFUhnz/2YDkrw/xiwqPLcgNL/X0oCVmiUico347MJMaXrsOttsPMN2JlruJJ+tajwltBgDcFAuthRnIR3S8nkmXHE49FsdmCE2vZhZ8W5vK7Gyh3P2xeVJLGYFE5dH9ON+BvPTy5OpqfuirBeh7Kgagr/bWZWo0fQkD/HHx9wtDrT+EY/CwEyszAgkWiMUpnUIAgyKcrJfAzzPN85bLkqUS10eBkYgZN6+nsoBl4qGGrgaKjYlzoDDfr9vGFCt9eROUsWV7YSSK2DPDo57aaQ8UBflFP8ldMVma2NS4TgWP6UuYeHd50/SgtTK3n8TULoNlFXMQ4Mu4/Bmjvc/LS+k1g7jTksP+olUDoePqUeptlbJ28zs9czRwLQEgoFQ==;RFdpZAqo7rphoJ3tfD4Sag=="
 ---

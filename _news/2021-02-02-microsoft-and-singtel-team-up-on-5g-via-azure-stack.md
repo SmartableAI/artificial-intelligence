@@ -53,6 +53,36 @@ related:
         width: 1024
         height: 443
         isCached: true
+  - title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
+    excerpt: "Observe.AI platform now available in the Microsoft Azure Marketplace and AppSource Business"
+    publishedDateTime: 2021-02-02T17:08:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2021-02-02/observe-ai-and-microsoft-team-up-to-redefine-customer-experience-with-contact-center-ai"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 76
+    images:
+      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Moving from the Lab to the Mainstream - Microsoft's Machine-Learning Tool"
+    excerpt: "Now techniques developed by Microsoft are emerging from the lab and moving into production. Perhaps the most significant embodiment of this development is Personalizer, part of Azure Cognitive Services on the Azure AI Platform³."
+    publishedDateTime: 2021-02-02T17:27:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=11966"
+    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=11966"
+    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=11966"
+    type: article
+    provider:
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 75
+    images:
+      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_11966_16122866370551170.jpg"
+        width: 1103
+        height: 469
+        isCached: true
   - title: "Microsoft’s investment in cruises puts it in the game of self-driving cars"
     excerpt: "Microsoft's investment in cruises puts it in the game of self-driving cars One of the pitches that has worked well for Microsoft in the"
     publishedDateTime: 2021-01-30T14:05:00Z
@@ -82,6 +112,20 @@ related:
       - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/53/2021/02/banner-600-x-300.png"
         width: 600
         height: 300
+        isCached: true
+  - title: "Observe.AI and Microsoft Team Up on Contact Center AI"
+    excerpt: "Observe.AI, a contact center artificial intelligence technology provider, is working with Microsoft to bring automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
+    publishedDateTime: 2021-02-02T17:29:00Z
+    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=145046"
+    type: article
+    provider:
+      name: Destination CRM
+      domain: destinationcrm.com
+    quality: 54
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/135080-0121_Trends_480x610-ORG.png"
+        width: 480
+        height: 610
         isCached: true
   - title: "GM, Cruise Partners with Microsoft to Accelerate Self-Driving EV Technology | Work & Wheels"
     excerpt: "GM, Cruise Partners with Microsoft to Accelerate Self-Driving EV Technology | Work & Wheels General Motors and its self-driving car"

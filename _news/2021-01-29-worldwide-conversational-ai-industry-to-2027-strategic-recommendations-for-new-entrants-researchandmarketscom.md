@@ -35,6 +35,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 73
+  - title: "New Report Shows Marketers Lack the Education, Training to Effectively Adopt Artificial Intelligence"
+    excerpt: "The majority of marketers know artificial intelligence is essential to their success this year. But, lack of education and training is holding the industry back, with 70 percent of respondents identifying it as a barrier to adoption of AI in their marketing."
+    publishedDateTime: 2021-02-02T18:50:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-north-america-cleveland-advertising-and-marketing-industry-022340fc6d665efe35c66cfcddcbb8f7"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Facial Recognition Market Comprehensive Research Analysis Report in Market Industry | NEC Corporation and Aware Inc"
     excerpt: "MarketResearch.Biz :Facial Recognition Market 2021 Overview: The report provides quantitative and qualitative information on the global Facial Recognition market for the period of 2021 to 2030. Given the debilitating effect of COVID-19 (Coronavirus) on the Facial Recognition market,"
     publishedDateTime: 2021-01-29T07:59:00Z
