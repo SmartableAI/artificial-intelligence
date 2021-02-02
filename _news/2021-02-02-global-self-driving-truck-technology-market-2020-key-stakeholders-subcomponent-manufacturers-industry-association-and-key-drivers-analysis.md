@@ -59,6 +59,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Self-driving Car Technology Market"
+    excerpt: "The Self driving Car Technology Market is growing at a faster pace with substantial growth rates over the last few years and is estimated that the market will grow significantly in the forecasted period i e 2020 to 2027 The"
+    publishedDateTime: 2021-02-02T12:35:00Z
+    webUrl: "https://www.openpr.com/news/2234913/self-driving-car-technology-market-latest-trends"
+    ampWebUrl: "https://www.openpr.com/amp/2234913/self-driving-car-technology-market-latest-trends"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2234913/self-driving-car-technology-market-latest-trends"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 24
 
 secured: "vn+KEcTBh+p92Z/mP/WR+OATtWCfa/AtafUkwx9kyxXGA3GLwO8dSGc7Q1nPGWBptugRue3r/V/ytb8gQev81KZRwNs7TvfhBL+j09UkMqayBzfYsbcg6hbNGSGl1MAzIvK2tgCofBICnIidWgtd6HSwsZ9pl6m/fJDo2ZuCC9tGxMzDT6S6xm+QTUeawqoWM4uOohzHmGnWARYAyuxM295yVsQbIpEwhJqGwAZoDMs0ZPQ3kTAcKFWtmpMfPPcfkrCDfyMFpU6nQ75iDzLE+IZlHIUi4pvWDUfqXn3OrIKbqZj5jMpnibaDHH6QN9LaIoBSxq2+/YePBPcGS8WjJZLr9jgx8/rPmORNUNWUS2I=;R+qAC8as/qXqG0IwnRh5qA=="
 ---

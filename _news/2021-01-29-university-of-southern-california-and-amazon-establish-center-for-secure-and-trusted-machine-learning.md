@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "USC and Amazon establish Center for Secure and Trusted Machine Learning"
-    excerpt: "USC and Amazon today announced they are creating a joint research center focused on development of new approaches to machine learning (ML) privacy, security, and trustworthiness. The Center for Secure and Trusted Machine Learning,"
-    publishedDateTime: 2021-01-28T19:54:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-01/uosc-uaa012821.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "USC and Amazon Establish Center for Machine Learning"
     excerpt: "USC and Amazon announced they are creating a joint research center focused on developing new approaches to machine learning privacy, security, and trustworthiness. The Center for Secure and Trusted Machine Learning,"
     publishedDateTime: 2021-01-29T19:42:00Z

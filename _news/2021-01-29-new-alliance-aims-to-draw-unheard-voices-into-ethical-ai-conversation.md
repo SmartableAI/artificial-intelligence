@@ -26,37 +26,35 @@ images:
     isCached: true
 
 related:
-  - title: "Google’s updated Voice Access leverages AI to detect in-app icons"
-    excerpt: "Google says it's leveraging AI to detect in-app icons, toward the goal of making Android apps more accessible."
-    publishedDateTime: 2021-01-28T20:23:00Z
-    webUrl: "https://venturebeat.com/2021/01/28/googles-updated-voice-access-leverages-ai-to-detect-in-app-icons/"
-    ampWebUrl: "https://venturebeat.com/2021/01/28/googles-updated-voice-access-leverages-ai-to-detect-in-app-icons/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/28/googles-updated-voice-access-leverages-ai-to-detect-in-app-icons/amp/"
+  - title: "Patrick J. McGovern Foundation invests in AI for public good"
+    excerpt: "Organization pledges $40 million for initiatives to help nonprofits and NGOs benefit from data science and to foster the responsible and inclusive use of data and AI."
+    publishedDateTime: 2021-01-29T20:38:00Z
+    webUrl: "https://www.infoworld.com/article/3605101/patrick-j-mcgovern-foundation-invests-in-ai-for-public-good.html"
+    ampWebUrl: "https://www.infoworld.com/article/3605101/patrick-j-mcgovern-foundation-invests-in-ai-for-public-good.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3605101/patrick-j-mcgovern-foundation-invests-in-ai-for-public-good.amp.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: InfoWorld
+      domain: infoworld.com
     quality: 89
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1281329514.jpg?w=1200&strip=all"
+      - url: "https://images.idgesg.net/images/article/2020/09/light_bulb_with_gears_and_network_of_sparks_outlining_a_virtual_brain_ideas_innovation_intelligence_creativity_transformation_by_urupong_gettyimages-1066422156_2400x1600-100859291-large.jpg"
         width: 1200
-        height: 600
+        height: 800
         isCached: true
-  - title: "Firm leverages artificial intelligence to help retailers"
-    excerpt: "Southwest Florida startup has big plans to make progress with major retailers, using advanced technology to solve an age-old problem."
-    publishedDateTime: 2021-01-29T11:11:00Z
-    webUrl: "https://www.businessobserverfl.com/article/firm-leverages-artificial-intelligence-to-help-retailers"
-    ampWebUrl: "https://www.businessobserverfl.com/article/firm-leverages-artificial-intelligence-to-help-retailers?amp"
-    cdnAmpWebUrl: "https://www-businessobserverfl-com.cdn.ampproject.org/c/s/www.businessobserverfl.com/article/firm-leverages-artificial-intelligence-to-help-retailers?amp"
+  - title: "Patrick J. McGovern Foundation commits $40M to advancing AI and data for good"
+    excerpt: "Today, the Patrick J. McGovern Foundation is announcing that it will double its groundbreaking investments in data science and AI grantmaking in 2021 with a new commitment of $40 million and introduce new initiatives to accelerate opportunity and innovation in the development of inclusive,"
+    publishedDateTime: 2021-01-29T08:24:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-philanthropic-foundations-social-affairs-philanthropy-50d0bc0485a6ba41550a026f9be46579"
     type: article
     provider:
-      name: Business Observer
-      domain: businessobserverfl.com
-    quality: 72
+      name: Associated Press
+      domain: apnews.com
+    quality: 34
     images:
-      - url: "https://www.businessobserverfl.com/sites/default/files/323677_standard.jpeg"
-        width: 2000
-        height: 1333
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "my3+FDuedAj1Ydryzme8PvEiC2SG3ZkGFTP2XYspE/IqOVrkil9XWTltWSoMoC5J4aLM+KmFlZQGYm8g7dI4eo0TFCn476N45c2dIf3L9tEQL7sp/g0odWNTdHwzTNTVUR1o+d4VoidDLerfRnVX9Rw9f4hIt59nua7fDM/Q55QDNs3EapzgJdd7gAhe3YBcoQKdUq6cKn9NNplog0GGE6klUfkHMLBam7o9s+SzGw0YiAvpqID4SFmkY5WRg/82OVeMD3VUWUOwSfmF26A0LdCBfZVurQkm+HWEgYJOlkw9YiwRe5JwyGxdYwlXq/J2Yz4Y/uxu5Bn5nHRkQDd28veQOw5ufh18EvI+PQQoAbBY68GQ82DhPuRgBqUCSCOwvXo5Pur2D2kRFkyr92HzhEftDHdiuGXxU/55yueZE/nQ25gcttW+7x+mVIteDQLaVmcGvOoS8+lv0GFB9bRIgWb4S0AnYVxxxqsFeUH+s8zToKElZPdO99STrP/YII+HPKZkcnDqL2hGApAUzDV3kg==;67fyuMUxYprup7gYa1zTKQ=="

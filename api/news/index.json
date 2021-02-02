@@ -2,6 +2,145 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-02-dubais-dewa-artificial-intelligence-services-anticipate-shape-the-future.md",
+      "title": "Dubai's DEWA Artificial Intelligence services anticipate, shape the future",
+      "excerpt": "DEWA’s efforts in AI have consolidated the UAE’s global position and enriched the user experience of customers, staff and stakeholder",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/mena/en/business/story/Dubais_DEWA_Artificial_Intelligence_services_anticipate_shape_the_future-WAM20210202115415866/",
+      "originalUrl": "https://www.zawya.com/mena/en/business/story/Dubais_DEWA_Artificial_Intelligence_services_anticipate_shape_the_future-WAM20210202115415866/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.zawya.com/images/cia/zAmp/200708111501XFSN.jpeg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/WAM20210202115415866/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/WAM20210202115415866/",
+      "publishedDateTime": "2021-02-02T04:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-the-iphones-face-id-will-soon-work-with-a-maskif-you-have-an-apple-watch.md",
+      "title": "The iPhone's Face ID Will Soon Work With a Mask—If You Have an Apple Watch",
+      "excerpt": "Apple is facing our face-masked future. This week, the company started testing some new software for the iPhone that will let device owners unlock the handset while wearing a. There’s a catch though,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/iphone-face-id-mask-ios-beta/",
+      "originalUrl": "https://www.wired.com/story/iphone-face-id-mask-ios-beta/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6018a6413453f789506008b6/master/pass/Gear-iPhone-Mask-1211881889.jpg",
+          "width": 2400,
+          "height": 1605,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/iphone-face-id-mask-ios-beta/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/iphone-face-id-mask-ios-beta/amp",
+      "publishedDateTime": "2021-02-02T04:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-worldwide-digital-talent-acquisition-industry-to-2025-integration-with-ai-and-machine-learning.md",
+      "title": "Worldwide Digital Talent Acquisition Industry to 2025 - Integration with AI and Machine Learning",
+      "excerpt": "The Global Digital Talent Acquisition Market is expected to grow from $22,791.04 Million in 2020 to $33,498.78 Million by the end of 2025. This research report categorizes the Digital Talent Acquisition to forecast the revenues and analyze the trends in each of the following sub-markets: Based on Training,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/worldwide-digital-talent-acquisition-industry-to-2025-integration-with-ai-and-machine-learning-1030031930",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/worldwide-digital-talent-acquisition-industry-to-2025-integration-with-ai-and-machine-learning-1030031930",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/worldwide-digital-talent-acquisition-industry-to-2025-integration-with-ai-and-machine-learning-1030031930",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/worldwide-digital-talent-acquisition-industry-to-2025-integration-with-ai-and-machine-learning-1030031930",
+      "publishedDateTime": "2021-02-02T03:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-02-02-how-machine-learning-can-improve-our-email-experience.md",
       "title": "How Machine Learning Can Improve Our Email Experience",
       "excerpt": "Around 2015 or 2016, Google began a strategic move, possibly one of the most important it has undertaken in its more than 20 years of existence, to incorporate machine learning and apply it to all its products.",
@@ -62,7 +201,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-share-growth-insight-size-competitive-analysis-regional-and-global-forecast-to-2027-2021-02-02",
       "featuredContent": null,
       "highlight": null,
-      "heat": 168,
+      "heat": 184,
       "tags": null,
       "images": [
         {
@@ -102,7 +241,10 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
+        "AI",
+        "AWS AI",
+        "Machine Learning",
+        "AI in Healthcare"
       ]
     },
     {
@@ -157,49 +299,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-02-gdit-announces-availability-of-aws-services-on-milcloud-20.md",
-      "title": "GDIT Announces Availability of AWS Services on milCloud 2.0",
-      "excerpt": "GDIT announced today the availability of Amazon Web Services (AWS) through the milCloud 2.0 contract, providing DoD mission partners access to an expanded portfolio of secure cloud services. FAIRFAX,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-government-business-and-finance-corporate-news-products-and-services-dcdc78fe232b6bc8d86839fb56fd3603",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-government-business-and-finance-corporate-news-products-and-services-dcdc78fe232b6bc8d86839fb56fd3603",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-02T00:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-02-canon-powershot-pick-robot-uses-ai-to-automatically-take-photos.md",
       "title": "Canon PowerShot PICK robot uses AI to automatically take photos",
       "excerpt": "AI and machine learning can be found in almost every consumer electronics product these days, whether directly or indirectly. Often, the goal is to make offload some of the decision-making duties",
@@ -208,7 +307,7 @@
       "originalUrl": "https://www.slashgear.com/canon-powershot-pick-robot-uses-ai-to-automatically-take-photos-02657664/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -260,7 +359,7 @@
       "originalUrl": "https://www.neowin.net/news/microsoft-launches-open-ai-energy-initiative-in-partnership-with-shell-c3-ai-others",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -397,7 +496,7 @@
       "originalUrl": "https://www.bloomberg.com/news/audio/2021-02-01/using-ai-to-speed-up-the-covid-vaccination-process-podcast",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -960,7 +1059,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/01/self-driving-cars-are-faced-with-too-many-moving-objects-and-too-little-time/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -1057,21 +1156,21 @@
       ]
     },
     {
-      "path": "_news/2021-02-01-confidence-uncertainty-and-trust-in-ai-affect-how-humans-make-decisions.md",
-      "title": "Confidence, uncertainty, and trust in AI affect how humans make decisions",
-      "excerpt": "Health care applications of AI are growing fast, but there are obstacles to building robust, trustworthy systems.",
+      "path": "_news/2021-02-02-natural-language-processing-nlp-market-size-estimated-to-reach-usd-47147-million-by-2027-according-to-facts-factors.md",
+      "title": "Natural Language Processing (NLP) Market Size Estimated to Reach USD 47,147 Million By 2027, According to Facts & Factors",
+      "excerpt": "\"According to the research study, the global Natural Language Processing (NLP) Market was estimated at USD 12,748 Million in 2018 and is expected to reach USD 47,147 Million by 2027. The global Natural Language Processing (NLP) Market is expected to grow at a compound annual growth rate (CAGR) of 15.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/01/confidence-uncertainty-and-trust-in-ai-affect-how-humans-make-decisions/",
-      "originalUrl": "https://venturebeat.com/2021/02/01/confidence-uncertainty-and-trust-in-ai-affect-how-humans-make-decisions/",
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-size-estimated-to-reach-usd-47147-million-by-2027-according-to-facts-factors-2021-02-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-size-estimated-to-reach-usd-47147-million-by-2027-according-to-facts-factors-2021-02-01",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/How-confidence-uncertainty-and-trust-influence-human-decision-making-01.jpg?w=1200&strip=all",
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
           "width": 1200,
-          "height": 598,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1079,16 +1178,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/01/confidence-uncertainty-and-trust-in-ai-affect-how-humans-make-decisions/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/01/confidence-uncertainty-and-trust-in-ai-affect-how-humans-make-decisions/amp/",
-      "publishedDateTime": "2021-02-01T07:22:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-01T08:15:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1104,40 +1203,31 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI Ethics"
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
-      "path": "_news/2021-02-01-artificial-intelligence-machine-learning-top-naval-intelligence-technology-needs-says-director.md",
-      "title": "Artificial Intelligence, Machine Learning Top Naval Intelligence Technology Needs, says director",
-      "excerpt": "Artificial Intelligence, Machine Learning Top Naval Intelligence Technology Needs, says director Sailors stand guard in the sonar room of",
+      "path": "_news/2021-02-02-gdit-announces-availability-of-aws-services-on-milcloud-20.md",
+      "title": "GDIT Announces Availability of AWS Services on milCloud 2.0",
+      "excerpt": "General Dynamics Information Technology, a business unit of General Dynamics, announced today the availability of Amazon Web Services through the milCloud 2.0 contract, providing Department of Defense mission partners access to an expanded portfolio of secure cloud services.",
       "sourceUrl": null,
-      "webUrl": "https://www.compsmag.com/news/technology/artificial-intelligence-machine-learning-top-naval-intelligence-technology-needs-says-director/",
-      "originalUrl": "https://www.compsmag.com/news/technology/artificial-intelligence-machine-learning-top-naval-intelligence-technology-needs-says-director/",
+      "webUrl": "https://www.nasdaq.com/press-release/gdit-announces-availability-of-aws-services-on-milcloud-2.0-2021-02-01",
+      "originalUrl": "https://www.nasdaq.com/press-release/gdit-announces-availability-of-aws-services-on-milcloud-2.0-2021-02-01",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 84,
       "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Artificial-Intelligence-Machine-Learning-Top-Naval-Intelligence-Technology-Needs-says.jpg",
-          "width": 2048,
-          "height": 1365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.compsmag.com/news/technology/artificial-intelligence-machine-learning-top-naval-intelligence-technology-needs-says-director/amp/",
-      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/artificial-intelligence-machine-learning-top-naval-intelligence-technology-needs-says-director/amp/",
-      "publishedDateTime": "2021-02-01T07:20:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-01T08:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Windows",
-        "domain": "compsmag.com",
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1147,110 +1237,7 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-elder-care-wireless-ai-and-the-internet-of-medical-things.md",
-      "title": "Elder care, wireless AI, and the Internet of Medical Things",
-      "excerpt": "Senior citizens are accustomed to constant probes by doctors, but wireless AI tech is enabling massive-scale, nonintrusive data monitoring.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/01/elder-care-wireless-ai-and-the-internet-of-medical-things/",
-      "originalUrl": "https://venturebeat.com/2021/02/01/elder-care-wireless-ai-and-the-internet-of-medical-things/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/Elder-care-wireless-AI-and-the-Internet-of-Medical-Things-01.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/01/elder-care-wireless-ai-and-the-internet-of-medical-things/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/01/elder-care-wireless-ai-and-the-internet-of-medical-things/amp/",
-      "publishedDateTime": "2021-02-01T07:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-how-the-responsible-use-of-ai-can-help-create-a-better-health-system.md",
-      "title": "How the responsible use of AI can help create a better health system",
-      "excerpt": "Used responsibly, AI can produce better health outcomes, better patient experiences, and better care provider experiences.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/01/how-the-responsible-use-of-ai-can-help-create-a-better-health-system/",
-      "originalUrl": "https://venturebeat.com/2021/02/01/how-the-responsible-use-of-ai-can-help-create-a-better-health-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/How-the-responsible-use-of-AI-can-create-a-better-health-system-01.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/01/how-the-responsible-use-of-ai-can-help-create-a-better-health-system/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/01/how-the-responsible-use-of-ai-can-help-create-a-better-health-system/amp/",
-      "publishedDateTime": "2021-02-01T07:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
+        "AWS AI",
         "AI"
       ]
     }

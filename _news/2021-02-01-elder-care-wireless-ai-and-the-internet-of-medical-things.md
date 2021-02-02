@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/01/elder-care-wireless-ai-and-the-in
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/01/elder-care-wireless-ai-and-the-internet-of-medical-things/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -86,6 +86,20 @@ related:
       - url: "https://www.powermag.com/wp-content/uploads/2021/01/screen-shot-2021-01-29-at-9-28-06-am.png"
         width: 885
         height: 596
+        isCached: true
+  - title: "Land a career in AI with these top artificial intelligence jobs in 2021."
+    excerpt: "As AI has taken the center-stage in businesses, the demand for AI professionals is soaring. Here are the top artificial intelligence jobs to apply for in February 2021."
+    publishedDateTime: 2021-02-02T11:24:00Z
+    webUrl: "https://www.analyticsinsight.net/top-artificial-intelligence-jobs-to-apply-in-february-2021/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 53
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/02/Top-Artificial-Intelligence-Jobs-to-Apply-in-February-2021.jpg"
+        width: 900
+        height: 500
         isCached: true
   - title: "Perimeter Medical Imaging AI Announces Acceleration of Expiry Date of Warrants"
     excerpt: "Perimeter Medical Imaging AI, Inc. (TSX-V:PINK)(OTC:PYNKF) (FSE:4PC) (“Perimeter” or the “Company”), a medical technology company driven to transform"

@@ -29,51 +29,156 @@ images:
     isCached: true
 
 related:
-  - title: "Budget 2021: AI, ML and analytics to ease compliance burden and check tax evasion"
-    excerpt: "The Union Budget 2021 presented by Finance Minister Nirmala Sitharaman threw emphasis on technologies like Artificial Intelligence and Machine Learning, and their application to the e-Governance, GST and easing"
-    publishedDateTime: 2021-02-01T12:45:00Z
-    webUrl: "https://www.dqindia.com/budget-2021-ai-ml-analytics-ease-compliance-burden-check-tax-evasion/"
-    ampWebUrl: "https://www.dqindia.com/budget-2021-ai-ml-analytics-ease-compliance-burden-check-tax-evasion/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/budget-2021-ai-ml-analytics-ease-compliance-burden-check-tax-evasion/amp/"
+  - title: "Artificial Intelligence (AI) Chipsets Market Share, Growth Insight, Size, Competitive Analysis, Regional, And Global Forecast To 2027"
+    excerpt: "https://www.fortunebusinessinsights.com/enquiry/customization/artificial-intelligence-ai-chipsets-market-104500 8.1.1.1. Graphics Processing Unit (GPU) 8.1.1.2. Field Programmable Gate Arrays (FPGAs) 8.1.1.3. Application-specific Integrated Circuit (ASIC ..."
+    publishedDateTime: 2021-02-02T10:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-share-growth-insight-size-competitive-analysis-regional-and-global-forecast-to-2027-2021-02-02"
     type: article
     provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 71
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 74
     images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/02/AI-analytics-Union_Buget_2021.jpg"
-        width: 850
-        height: 400
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Budget 2021: Govt using Artificial Intelligence to track GST tax evasion"
-    excerpt: "Budget 2021 saw Finance Minister Nirmala Sitharaman emphasise on the use of AI technology to enable compliance, adjudication of disputes on Ministry of Corporate Affairs"
-    publishedDateTime: 2021-02-01T09:36:00Z
-    webUrl: "https://yourstory.com/2021/02/budget-2021-artificial-intelligence-being-used-track-gst-tax"
-    ampWebUrl: "https://yourstory.com/2021/02/budget-2021-artificial-intelligence-being-used-track-gst-tax/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/02/budget-2021-artificial-intelligence-being-used-track-gst-tax/amp"
+  - title: "Natural Language Processing (NLP) in Healthcare and Life Sciences Market 2021, Share, Growth, Trend, Industry Analysis and Forecast to 2026"
+    excerpt: "Summary A New Market Study, titled \"Natural Language Processing (NLP) in Healthcare and Life Sciences Market Upcoming"
+    publishedDateTime: 2021-01-29T17:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-2021-share-growth-trend-industry-analysis-and-forecast-to-2026-2021-01-29"
     type: article
     provider:
-      name: Your Story
-      domain: yourstory.com
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Cloud Machine Learning Market 2020 Growth, Industry Trend, Sales Revenue, Size by Regional Forecast to 2025"
+    excerpt: "A recent report published by MarketsandResearch.biz titled Global Cloud Machine Learning Market 2020 by Company, Type and Application, Forecast to 2025 aims to provide up-to-date information on the market carrying out a thorough research on the market of historical as well as current growth parameters,"
+    publishedDateTime: 2021-02-01T21:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-cloud-machine-learning-market-2020-growth-industry-trend-sales-revenue-size-by-regional-forecast-to-2025-2021-02-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) In Fintech Market Qualitative Insights on Application and Drivers & Growth Opportunity Analysis Report"
+    excerpt: "In Fintech Market Estimation, Global Share, Industry Outlook, Price Trend, Growth Opportunity and Top Regional Forecast (Latin America, North America, Asia Specific, Europe, Middle East ) \" Market Overview: Global Artificial Intelligence (AI) in Fintech Market is valued approximately USD 2."
+    publishedDateTime: 2021-02-01T13:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-qualitative-insights-on-application-and-drivers-growth-opportunity-analysis-report-2021-02-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 56
     images:
-      - url: "https://images.yourstory.com/cs/2/604090802d6d11e9aa979329348d4c3e/agritechbudget2021-1612015767538.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
-        width: 800
-        height: 400
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Five trends in machine learning-enhanced analytics to watch in 2021"
-    excerpt: "AI usage is growing rapidly. What exactly does 2021 hold for the world of analytics, and how will AI drive it?"
-    publishedDateTime: 2021-01-29T14:33:00Z
-    webUrl: "https://www.information-age.com/five-trends-machine-learning-enhanced-analytics-watch-2021-123493559/"
+  - title: "Artificial Intelligence Chipsets Market Growth Analysis By Size, Share, News, Demand, Opportunity"
+    excerpt: "Artificial Intelligence Chipsets Market Size, Demand-sales, Suppliers By Key Applications Detailed Analysis and Growth Aspects on Manufacturing Landscapes and Regional Analysis \"Market Overview: Global Artificial Intelligence (Chipsets) Market is valued approximately at USD 5."
+    publishedDateTime: 2021-02-01T13:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-growth-analysis-by-size-share-news-demand-opportunity-2021-02-01"
     type: article
     provider:
-      name: Information Age
-      domain: information-age.com
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) Enabled Medical Imaging Market – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2025"
+    excerpt: "Selbyville, Delaware According to the research report titled 'Global Artificial Intelligence (AI) Enabled Medical Imaging Market Analysis, 2020', available with Market Study Report LLC, global artificial intelligence (AI) enabled medical imaging market is expected to register 29% CAGR during 2021-2026."
+    publishedDateTime: 2021-02-02T07:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-enabled-medical-imaging-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2021-02-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial intelligence (AI) hardware Market Growth Analysis By Revenue, Size, Share, Scenario on Latest Trends & Types, Applications to Forecast"
+    excerpt: "Artificial intelligence (AI) hardware Market Report Contain Size Analysis, Competitive Landscape, Revenue Status, Future Opportunities, Regional Analysis (Latin America, North America, Asia Specific,"
+    publishedDateTime: 2021-01-29T13:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-growth-analysis-by-revenue-size-share-scenario-on-latest-trends-types-applications-to-forecast-2021-01-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI-Based Fever Detection Camera Market Share, Growth Insight, Size, Competitive Analysis, Regional, And Global Forecast To 2027"
+    excerpt: "How will the AI-based fever detection cameras help in battling COVID-19? Which region is likely to generate the highest revenue in the near future? Which segment would procure the largest share? What are the restraining factors of the AI-Based Fever Detection Camera Market?"
+    publishedDateTime: 2021-02-01T13:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-based-fever-detection-camera-market-share-growth-insight-size-competitive-analysis-regional-and-global-forecast-to-2027-2021-02-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 39
     images:
-      - url: "https://s27389.pcdn.co/wp-content/uploads/2021/01/five-trends-machine-learning-enhanced-analytics-watch-2021.jpeg"
-        width: 1080
-        height: 634
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Smart Retail Market Size & Growth Analysis Report, 2021-2027"
+    excerpt: "The global smart retail market is expected to grow from 21 6 billion in 2020 to 62 5 billion in 2025 It is growing at a 23 CAGR The key factors driving the growth of this market are the increased"
+    publishedDateTime: 2021-02-02T08:25:00Z
+    webUrl: "https://www.openpr.com/news/2234587/smart-retail-market-size-growth-analysis-report-2021-2027"
+    ampWebUrl: "https://www.openpr.com/amp/2234587/smart-retail-market-size-growth-analysis-report-2021-2027"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2234587/smart-retail-market-size-growth-analysis-report-2021-2027"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 39
+  - title: "Speech Recognition Market Size, Global Trends, Historical Analysis, Industry Demand, Growth, Future Plans and Opportunity Assessment by 2023"
+    excerpt: "Market Research Future published a research report on \"Global Speech Recognition Market Research Report – Forecast 2023\""
+    publishedDateTime: 2021-01-30T02:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-size-global-trends-historical-analysis-industry-demand-growth-future-plans-and-opportunity-assessment-by-2023-2021-01-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Machine Learning Market Report 2020: Industry Analysis, Trends, Market Size, and Forecasts 2018-2026 - ResearchAndMarkets.com"
+    excerpt: "Global Industry Analysis, Trends, Market Size, and Forecasts up to 2026” report has been added to ResearchAndMarkets.com’s offering. The report on the global machine learning market provides qualitative and quantitative analysis for the period from 2018 to 2026."
+    publishedDateTime: 2021-01-29T07:59:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-north-america-679d3c6ec1574c5f95e349c671cd1828"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 8
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "nBH9/qYLksxzi9gvTVmAi4+NeXiQCP8/jsytiB+rVCfhofdZTPCfzsSUBbov2Wqz0M+1caOMA73elpb4gw7AjnSX/2+oboMRnE3mEyteCEZk24bOKx8L30qa+fmTh/gYRAsGd8/HhRtmYHBtIHQYfAlYosRa/GDsX4tPLj4VbVnkDpwfCXKYaFPP+P3c0tga5aWev2WABJdIUG7c3maaea3l6wWgvmaTSxlsqe0gSh2W0om/DfawKGYNUnvQldGSP8BBK+khmYI7cK1E7btpxkqqW5oEiRDeFKKEbxh7k94TZbuzIzOpmmseIIfzFi4CrDb5b+4nPR+Tuq1PjOn2AWT0MTg+AnixzhHfKrABZpM=;IFUmuBLhRjC3l7ezFPRIEw=="

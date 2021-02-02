@@ -9,7 +9,7 @@ ampWebUrl: "https://www.compsmag.com/news/gaming/iphone-13-may-not-use-the-notch
 cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/iphone-13-may-not-use-the-notch-design-and-face-id-feature/amp/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "The iPhone's Face ID Will Soon Work With a Mask—If You Have an Apple Watch"
+    excerpt: "Apple is facing our face-masked future. This week, the company started testing some new software for the iPhone that will let device owners unlock the handset while wearing a. There’s a catch though,"
+    publishedDateTime: 2021-02-02T12:02:00Z
+    webUrl: "https://www.wired.com/story/iphone-face-id-mask-ios-beta/"
+    ampWebUrl: "https://www.wired.com/story/iphone-face-id-mask-ios-beta/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/iphone-face-id-mask-ios-beta/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 72
+    images:
+      - url: "https://media.wired.com/photos/6018a6413453f789506008b6/master/pass/Gear-iPhone-Mask-1211881889.jpg"
+        width: 2400
+        height: 1605
+        isCached: true
   - title: "iPhone Face ID will work with a mask only if you wear an Apple Watch"
     excerpt: "Face ID has been the only option for biometric identification on iPhones. Nobody envisaged that there will be a time when"
     publishedDateTime: 2021-02-02T07:38:00Z

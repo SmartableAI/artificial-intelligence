@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "The iPhone's Face ID Will Soon Work With a Mask—If You Have an Apple Watch"
+    excerpt: "Apple is facing our face-masked future. This week, the company started testing some new software for the iPhone that will let device owners unlock the handset while wearing a. There’s a catch though,"
+    publishedDateTime: 2021-02-02T12:02:00Z
+    webUrl: "https://www.wired.com/story/iphone-face-id-mask-ios-beta/"
+    ampWebUrl: "https://www.wired.com/story/iphone-face-id-mask-ios-beta/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/iphone-face-id-mask-ios-beta/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 72
+    images:
+      - url: "https://media.wired.com/photos/6018a6413453f789506008b6/master/pass/Gear-iPhone-Mask-1211881889.jpg"
+        width: 2400
+        height: 1605
+        isCached: true
   - title: "iPhone 13 may not use the notch design and Face ID feature"
     excerpt: "News Highlights: iPhone 13 may not use the notch design and Face ID feature - Recent reports claim that the iPhone 13 does not come with Face ID facial"
     publishedDateTime: 2021-02-01T15:20:00Z
@@ -44,6 +60,6 @@ related:
         height: 404
         isCached: true
 
-secured: "Cl/z6f7+JTyCTclu4bmpvrWWDMRxTDKPsP2r/jCOa2vCH8LB+42uAL6cAflxtPtRk2gzioiw/AwqRWyK/QcugTFmszGBjtpguOMCu2fW/KrpoY2cHRLWonyMErA99TKpcSb8Mx5wVTP2apeKJotgmcKtaD9YbbJ18gg+HVjnJ4a89GWiHe30mqo5dsrL3KNOzEpkDdpkgQbKKDTPKxUZw0d1aurfpX8Jz+xhXAJoGlSBouPdOxP9Gcv9yzhp0eQ9NEHOf3DAwcAetkQrROgNtLHeHKBntrw8gpBhnOIUJ1sSLZ4U69gP2aJ83It4ByiS/Eg16KAwb4ncJzrHmmRhmbc71ab8ro+c1HLIAj6Ecq8=;UEO2BWkpvkztb+ClCKZoLg=="
+secured: "3UtnaO9w95oD486FSPy5Zvgo6ufLLJi6ntM1jx0qavU8lM2dyIP62XmZtaDb/6dBr1aNujuzop+UDKXOGV1RnR5eGN40+BETHJcAL+TCZ7wIzwjjrrdNKlZvXw5zCdNKkOEZQrGmCHDPbsJTKuSZtvWpSI0Etd4M9ihVZUNJpTDWWcjeaHvDWwmdr26UXelzlZfh9v8aywke/jQlk7M1D0m8RIPHqY9q1+HRAWvmjbK1ks2MCKXjzPQqqPwifxBRyO+7JNc3qLsoFCr+RT6lAPRiKanWURHdKez6Rrk9ZgnrQXgGNh63y2dqpnWQlrbmu6/O1BrEEkBVAJqRTspE3X7OOzzDKCJiHMIhsQKqtBFubs3Jc8Z3Jb/Ij3lJchPpGp+xP+NN4egHRdjyG5s2ifojYWIiZ4tfdqVje5pUzgGKkgkKvyQZJ7r9J7UWlFWPFp4wShoxWVHOWlF+m3DNVPzw/ocMO8njstYgJd+8ewrDUwzocre6LdEY2dZi3Vp4ExyxDAHB5GPS+hRy8c+dRQ==;5WI1uBp6lkRr9ROKqBIUsw=="
 ---
 

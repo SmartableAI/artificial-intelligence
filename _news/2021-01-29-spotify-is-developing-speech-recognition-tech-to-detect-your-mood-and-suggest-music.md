@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/in/amp/news/spotify-is-developing-speech-r
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/spotify-is-developing-speech-recognition-tech-to-detect-your-mood-and-suggest-music"
 type: article
 quality: 68
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Safari-turns-on-Speech-Recognition-by-default-Tech-Preview-of.png"
         width: 600
         height: 400
-        isCached: true
-  - title: "New Spotify Patent Involves Monitoring Users’ Speech to Recommend Music"
-    excerpt: "The streaming platform is interested in extracting data points like emotional state, gender, age, and accent to hone its recommendations"
-    publishedDateTime: 2021-01-28T19:33:00Z
-    webUrl: "https://pitchfork.com/news/new-spotify-patent-involves-monitoring-users-speech-to-recommend-music/"
-    ampWebUrl: "https://pitchfork.com/news/new-spotify-patent-involves-monitoring-users-speech-to-recommend-music/amp/"
-    cdnAmpWebUrl: "https://pitchfork-com.cdn.ampproject.org/c/s/pitchfork.com/news/new-spotify-patent-involves-monitoring-users-speech-to-recommend-music/amp/"
-    type: article
-    provider:
-      name: Pitchfork
-      domain: pitchfork.com
-    quality: 44
-    images:
-      - url: "https://media.pitchfork.com/photos/6012ef11b752509babbe8191/2:1/w_648/Spotify.png"
-        width: 648
-        height: 324
         isCached: true
   - title: "Spotify patents technology to recommend songs based on the speech, emotion of users"
     excerpt: "Spotify patents technology to recommend songs based on the speech, emotion of users The music streaming company Spotify has been patented"

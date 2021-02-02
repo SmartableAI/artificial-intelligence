@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-02-natural-language-processing-nlp-market-size-estimated-to-reach-usd-47147-million-by-2027-according-to-facts-factors.md",
+      "title": "Natural Language Processing (NLP) Market Size Estimated to Reach USD 47,147 Million By 2027, According to Facts & Factors",
+      "excerpt": "\"According to the research study, the global Natural Language Processing (NLP) Market was estimated at USD 12,748 Million in 2018 and is expected to reach USD 47,147 Million by 2027. The global Natural Language Processing (NLP) Market is expected to grow at a compound annual growth rate (CAGR) of 15.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-size-estimated-to-reach-usd-47147-million-by-2027-according-to-facts-factors-2021-02-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-size-estimated-to-reach-usd-47147-million-by-2027-according-to-facts-factors-2021-02-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-01T08:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-01-tech-firms-to-benefit-on-fms-push-for-digital-census-use-of-ai-ml-on-mca-21.md",
       "title": "Tech firms to benefit on FM's push for digital census, use of AI, ML on MCA-21",
       "excerpt": "Finance minister Nirmala Sitharaman said that government will use data analytics, Artificial Intelligence, Machine Learning to launch the next version of the Ministry of Corporate Affairs portal MCA 21 3.",
@@ -106,7 +158,7 @@
       "originalUrl": "https://www.nytimes.com/2021/01/31/technology/facial-recognition-photo-tool.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 151,
+      "heat": 161,
       "tags": null,
       "images": [
         {
@@ -211,7 +263,7 @@
       "originalUrl": "https://www.techradar.com/in/news/spotify-is-developing-speech-recognition-tech-to-detect-your-mood-and-suggest-music",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -1410,58 +1462,6 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-amazon-will-let-companies-build-voice-assistants-on-alexa.md",
-      "title": "Amazon Will Let Companies Build Voice Assistants on Alexa",
-      "excerpt": "Amazon.com Inc. is offering other companies the ability to use the building blocks of the Alexa digital assistant for their own automated versions, the latest effort to embed the company’s voice software into other devices.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-01-15/amazon-will-let-companies-build-voice-assistants-on-alexa",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-01-15/amazon-will-let-companies-build-voice-assistants-on-alexa",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4RPzukzY818/v0/360x-1.jpg",
-          "width": 360,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2021-01-15/amazon-will-let-companies-build-voice-assistants-on-alexa",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2021-01-15/amazon-will-let-companies-build-voice-assistants-on-alexa",
-      "publishedDateTime": "2021-01-15T05:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

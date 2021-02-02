@@ -79,6 +79,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Here’s a way to learn if facial recognition systems used your photos"
+    excerpt: "An online tool targets only a small slice of what’s out there, but may open some eyes to how widely artificial intelligence research fed on personal images."
+    publishedDateTime: 2021-02-01T16:25:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-facial-recognition-photos-20210201-idcvahi65bh7zkobkb7wjvwpgy-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-facial-recognition-photos-20210201-idcvahi65bh7zkobkb7wjvwpgy-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-facial-recognition-photos-20210201-idcvahi65bh7zkobkb7wjvwpgy-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 61
+    images:
+      - url: "https://www.chicagotribune.com/resizer/8u3zVMFj8ZrGh5JwqjtNcPSfTwI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SITXYEMZCKKE5TMUY7NNTYPHRY.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Apple solves facial recognition problem caused by masks"
     excerpt: "SINCE the coronavirus pandemic has made it necessary for everyone to wear masks, using FaceID on iPhones isn’t quite as good as it was supposed to be. The"
     publishedDateTime: 2021-02-02T09:31:00Z

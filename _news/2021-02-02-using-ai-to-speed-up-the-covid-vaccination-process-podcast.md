@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/audio/2021-02-01/using-ai-to-speed-
 webUrl: "https://www.bloomberg.com/news/audio/2021-02-01/using-ai-to-speed-up-the-covid-vaccination-process-podcast"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://cambridgenetwork.co.uk/sites/default/files/Collaboration_Zoom.width-840.jpg"
         width: 700
         height: 393
+        isCached: true
+  - title: "Mass General uses artificial intelligence to bust imaging language barriers during COVID-19 pandemic"
+    excerpt: "The COVID-19 pandemic has disproportionately affected members of minority communities, leaving some unable to obtain imaging services in a timely fashion. One Boston-based provider, however, is busting these care disparities,"
+    publishedDateTime: 2021-02-02T07:53:00Z
+    webUrl: "https://www.radiologybusiness.com/topics/artificial-intelligence/mass-general-artificial-intelligence-imaging-language"
+    type: article
+    provider:
+      name: Radiology Business
+      domain: radiologybusiness.com
+    quality: 22
+    images:
+      - url: "https://www.radiologybusiness.com/sites/default/files/styles/facebook/public/2021-02/portuguese-5233295_1920.jpg?h=d1cb525d&itok=kJGJ5iMR"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "dj5RLlu1AA/u9wvLwWg9BnKywBdX8Isr18OZGD5566K+/+XHy8czffxMlzKFeYwbFO6JLYL4gEl5j5HRkYydIdZYvoubMUAEjQcY6PiJ7yGt40WnmUS+djmhHoUEVBe6tYbfbNXIAviIeI5+VkWHoQz/DlcD4Qh5J7YLJJpzpBkw4CSxMBqlC5fXQDCi98YSmTeHCtZBJkp1sRAFVZ+kXHttWHT5QH73+34QU5PybSpL17OsEcWIsWFnlJBYAxC3dAKxLfrl5JM+wj6bkUDMVMNBHrVsADpqBIX+UmsBPkCccTH26C5OyDHs0pupi5i6zvdWbSBtxGEkaWlaOlpaJ8SPqcIcIAFI3ecwSUtwy5A=;gexD1U4wKBCKYBLTRKc82Q=="

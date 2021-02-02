@@ -26,19 +26,14 @@ images:
 
 related:
   - title: "GDIT Announces Availability of AWS Services on milCloud 2.0"
-    excerpt: "GDIT announced today the availability of Amazon Web Services (AWS) through the milCloud 2.0 contract, providing DoD mission partners access to an expanded portfolio of secure cloud services. FAIRFAX,"
-    publishedDateTime: 2021-02-02T08:07:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-government-business-and-finance-corporate-news-products-and-services-dcdc78fe232b6bc8d86839fb56fd3603"
+    excerpt: "General Dynamics Information Technology, a business unit of General Dynamics, announced today the availability of Amazon Web Services through the milCloud 2.0 contract, providing Department of Defense mission partners access to an expanded portfolio of secure cloud services."
+    publishedDateTime: 2021-02-01T16:00:00Z
+    webUrl: "https://www.nasdaq.com/press-release/gdit-announces-availability-of-aws-services-on-milcloud-2.0-2021-02-01"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 54
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 64
   - title: "GDIT Announces AWS Availability on milCloud 2.0 Contract; Dave Levy Quoted"
     excerpt: "General Dynamics Information Technology (GDIT) has announced the availability of Amazon Web Services (AWS) under the milCloud 2.0 contract, GDIT reported on Monday. AWS availability will provide the Department of Defense (DoD) access to an expanded portfolio of secure cloud services."
     publishedDateTime: 2021-02-01T21:42:00Z

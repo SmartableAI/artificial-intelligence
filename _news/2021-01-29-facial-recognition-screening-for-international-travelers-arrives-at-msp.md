@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition now used for border screenings at MSP Airport"
-    excerpt: "St. Paul International Airport from other countries can now choose to go through border control using facial recognition scanners. U.S. Customs and Border Protection announced on Wednesday that \"Simplified Arrival\" is now available at both MSP Airport terminals for international arrivals."
-    publishedDateTime: 2021-01-28T19:43:00Z
-    webUrl: "https://bringmethenews.com/minnesota-lifestyle/facial-recognition-now-used-for-border-screenings-at-msp-airport"
-    ampWebUrl: "https://bringmethenews.com/.amp/minnesota-lifestyle/facial-recognition-now-used-for-border-screenings-at-msp-airport"
-    cdnAmpWebUrl: "https://bringmethenews-com.cdn.ampproject.org/c/s/bringmethenews.com/.amp/minnesota-lifestyle/facial-recognition-now-used-for-border-screenings-at-msp-airport"
+  - title: "Minneapolis-St. Paul Airport gets facial recognition Tech"
+    excerpt: "St. Paul Airport gets facial recognition Tech (TNS) - New facial recognition technology to speed international travelers"
+    publishedDateTime: 2021-01-29T23:38:00Z
+    webUrl: "https://www.compsmag.com/news/technology/minneapolis-st-paul-airport-gets-facial-recognition-tech/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/minneapolis-st-paul-airport-gets-facial-recognition-tech/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/minneapolis-st-paul-airport-gets-facial-recognition-tech/amp/"
     type: article
     provider:
-      name: Bring Me The News
-      domain: bringmethenews.com
+      name: Windows
+      domain: compsmag.com
     quality: 74
     images:
-      - url: "https://bringmethenews.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTcxODMyMjYyNjQ2NTcyMzU0/1024px-msp_airport_-_view_from_the_observation_deck_8487245657.jpg"
-        width: 620
-        height: 411
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/Minneapolis-St-Paul-Airport-gets-facial-recognition-Tech.jpg"
+        width: 940
+        height: 627
         isCached: true
 
 secured: "v5FsbJxxecf2Yl7g7DttwbqIONPBkHokHDOGosooIg9LsMl2gNwlprx4TdlQ8H0AcPPUI9JYn/Nn15EsLcbE3knnwTPgi5hB+7Eqv39YFhEX4x5oZfNo3t81h40wkQZDgKNQqNc0jJ9ibBLQKsrV4JaJ9xTVNClRtif20E4X2VlfikKLQolsuKCdH126rYNqn0c7mBPTTMZbaStlXsCA6AAVQMkZyqMKPbRRe4VK7lNSKbF5S2ZduCwZ2crOCbrpMoaycjIpOMTopqIReh8Zs6dWoJdPW/WPXh871O+++5uIWr+k788Sm7CA7H4ufD9iirhmXpuYxwmbcujIe9T/OtPE9LVGTeC1nu9wuZsI3+MImctcpocaFtqS8Un3Wq5OAadXs3uwRt3AzqcTqCqJEekR9OT+eOv0C++vOo8GKq5kdrfvxLvVWS1Qh1VlUZJFFXjlGloePsFsuAOZ4KdxjY4qcQkeKThY8MDrf3uURiJNSyc+QC4Vm/gLbr5bQ6ld5BqsFpPcMscjrKBb988qFQ==;7oxY9eJYC6B/2NGCHg09sw=="

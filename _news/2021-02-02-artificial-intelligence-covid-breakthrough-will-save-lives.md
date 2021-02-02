@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Mass General uses artificial intelligence to bust imaging language barriers during COVID-19 pandemic"
+    excerpt: "The COVID-19 pandemic has disproportionately affected members of minority communities, leaving some unable to obtain imaging services in a timely fashion. One Boston-based provider, however, is busting these care disparities,"
+    publishedDateTime: 2021-02-02T07:53:00Z
+    webUrl: "https://www.radiologybusiness.com/topics/artificial-intelligence/mass-general-artificial-intelligence-imaging-language"
+    type: article
+    provider:
+      name: Radiology Business
+      domain: radiologybusiness.com
+    quality: 22
+    images:
+      - url: "https://www.radiologybusiness.com/sites/default/files/styles/facebook/public/2021-02/portuguese-5233295_1920.jpg?h=d1cb525d&itok=kJGJ5iMR"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "kwgzoOwqiDYyuGE2cA/xVwFU9URmZ01igzVqZQhWnJSPKOPlT6DZF+ltgfxNKJ8eBvBdGAggVSioPyLVXGSRLwmZtz6dDFSRvG9exUZrEpYkfdbpNXA0EtrbOFXUm2emm5aWbI/ZeyokK8m/PtGy6lg0cqf1OzMwKzC8xr/wYdypdtyXaUEHrAI3umQTOTLRSID+oJ+IORS6giDTyJ9BG3lhymQnwdoveKgIyKPqznMbPN+rzjuhk1RA30XnLJbVeSUWSIt9YvlxhMEQw+S4mExmuBGTk1ORl4SJGgRk7WQvlATGxwfIaYanz/PYLjvVjVBGQp+iuhvB+6n2qIfW81pOcxBaXZ5y4XolrTn7PUM=;yon19OTOFbMBrYbyb8ODFw=="
 ---

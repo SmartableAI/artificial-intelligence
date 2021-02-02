@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/budget-2021-ai-ml-analytics-ease-compliance-
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/budget-2021-ai-ml-analytics-ease-compliance-burden-check-tax-evasion/amp/"
 type: article
 quality: 71
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://images.yourstory.com/cs/2/604090802d6d11e9aa979329348d4c3e/agritechbudget2021-1612015767538.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
         width: 800
         height: 400
-        isCached: true
-  - title: "Cognitive Analytics Market size Rising Trends and New Technologies Research Forecast to 2026"
-    excerpt: "The Cognitive Analytics market is anticipated to reach over USD 48 billion by 2026 according to a new research published by The marker research report. In 2017, the large enterprises segment dominated the global market,"
-    publishedDateTime: 2021-02-01T10:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-size-rising-trends-and-new-technologies-research-forecast-to-2026-2021-02-01?tesla=y"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Five trends in machine learning-enhanced analytics to watch in 2021"
     excerpt: "AI usage is growing rapidly. What exactly does 2021 hold for the world of analytics, and how will AI drive it?"

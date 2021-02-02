@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/02/01/self-driving-cars
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/01/self-driving-cars-are-faced-with-too-many-moving-objects-and-too-little-time/amp/"
 type: article
 quality: 73
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -46,6 +46,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Self-driving Car Technology Market"
+    excerpt: "The Self driving Car Technology Market is growing at a faster pace with substantial growth rates over the last few years and is estimated that the market will grow significantly in the forecasted period i e 2020 to 2027 The"
+    publishedDateTime: 2021-02-02T12:35:00Z
+    webUrl: "https://www.openpr.com/news/2234913/self-driving-car-technology-market-latest-trends"
+    ampWebUrl: "https://www.openpr.com/amp/2234913/self-driving-car-technology-market-latest-trends"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2234913/self-driving-car-technology-market-latest-trends"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 24
   - title: "Global Self-Driving Truck Technology Market 2020 Key Stakeholders, Subcomponent Manufacturers, Industry Association and Key Drivers Analysis to 2025"
     excerpt: "The latest market research report titled Global Self-Driving Truck Technology Market 2020 by Company, Type and Application, Forecast to 2025 reveals the overview of the global industry, encompassing the latest industry data and industry future trends,"
     publishedDateTime: 2021-02-02T06:27:00Z

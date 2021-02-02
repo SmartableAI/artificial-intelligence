@@ -24,15 +24,26 @@ images:
     isCached: true
 
 related:
-  - title: "Global $6+ Billion CAR-T Therapy Market Opportunities and Strategies to 2030 - ResearchAndMarkets.com"
-    excerpt: "T Therapy Global Market Opportunities and Strategies to 2030: COVID-19 Impact and Recovery” report has been added to ResearchAndMarkets.com’s offering. The global CAR-T therapy market reached a value of nearly $734."
-    publishedDateTime: 2021-01-29T15:06:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/business-technology-diagnosis-and-treatment-coronavirus-pandemic-artificial-intelligence-fc225c37e2364a9d9bd00fbd0f464403"
+  - title: "Worldwide Digital Talent Acquisition Industry to 2025 - Integration with AI and Machine Learning"
+    excerpt: "The Global Digital Talent Acquisition Market is expected to grow from $22,791.04 Million in 2020 to $33,498.78 Million by the end of 2025. This research report categorizes the Digital Talent Acquisition to forecast the revenues and analyze the trends in each of the following sub-markets: Based on Training,"
+    publishedDateTime: 2021-02-02T11:23:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/worldwide-digital-talent-acquisition-industry-to-2025-integration-with-ai-and-machine-learning-1030031930"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/worldwide-digital-talent-acquisition-industry-to-2025-integration-with-ai-and-machine-learning-1030031930"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/worldwide-digital-talent-acquisition-industry-to-2025-integration-with-ai-and-machine-learning-1030031930"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 73
+  - title: "Facial Recognition Market Comprehensive Research Analysis Report in Market Industry | NEC Corporation and Aware Inc"
+    excerpt: "MarketResearch.Biz :Facial Recognition Market 2021 Overview: The report provides quantitative and qualitative information on the global Facial Recognition market for the period of 2021 to 2030. Given the debilitating effect of COVID-19 (Coronavirus) on the Facial Recognition market,"
+    publishedDateTime: 2021-01-29T07:59:00Z
+    webUrl: "https://apnews.com/press-release/wired-release/technology-lifestyle-business-greater-china-corporate-news-12b6fdc8ae2d7110c7e8ccb5cd93ba29"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 24
+    quality: 17
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

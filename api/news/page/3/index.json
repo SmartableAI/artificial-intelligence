@@ -2,6 +2,209 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-31-budget-2021-important-to-expand-on-national-program-on-artificial-intelligence-says-inker-robotics-ceo.md",
+      "title": "Budget 2021| Important to expand on National Program on Artificial Intelligence, says Inker Robotics CEO",
+      "excerpt": "By Rahul Balachandran India has been projected as the only economy that will grow in double-digit i.e. 11.5 per cent in 2021. As we have seen, the challenging 2020-21 has made us realize the importance of adapting and adopting the latest technologies to drive the economy forward.",
+      "sourceUrl": null,
+      "webUrl": "https://www.deccanherald.com/business/union-budget/budget-2021-important-to-expand-on-national-program-on-artificial-intelligence-says-inker-robotics-ceo-945358.html",
+      "originalUrl": "https://www.deccanherald.com/business/union-budget/budget-2021-important-to-expand-on-national-program-on-artificial-intelligence-says-inker-robotics-ceo-945358.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.deccanherald.com/sites/dh/files/articleimages/2021/01/31/584098-01-02-1-945358-1612101268.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.deccanherald.com/amp/business/union-budget/budget-2021-important-to-expand-on-national-program-on-artificial-intelligence-says-inker-robotics-ceo-945358.html",
+      "cdnAmpWebUrl": "https://www-deccanherald-com.cdn.ampproject.org/c/s/www.deccanherald.com/amp/business/union-budget/budget-2021-important-to-expand-on-national-program-on-artificial-intelligence-says-inker-robotics-ceo-945358.html",
+      "publishedDateTime": "2021-01-31T05:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deccan Herald",
+        "domain": "deccanherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-31-amazons-unique-approach-to-automl-makes-ai-accessible-to-enterprises.md",
+      "title": "Amazon’s Unique Approach To AutoML Makes AI Accessible To Enterprises",
+      "excerpt": "AutoML is a technique where customers bring their data and walk away with a model without worrying about the complex workflow involved in training machine learning models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2021/01/31/amazons-unique-approach-to-automl-makes-ai-accessible-to-enterprises/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2021/01/31/amazons-unique-approach-to-automl-makes-ai-accessible-to-enterprises/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60168f6c53f27a98a70bf662%2F0x0.png",
+          "width": 1000,
+          "height": 780,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2021/01/31/amazons-unique-approach-to-automl-makes-ai-accessible-to-enterprises/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/01/31/amazons-unique-approach-to-automl-makes-ai-accessible-to-enterprises/amp/",
+      "publishedDateTime": "2021-01-31T03:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI",
+        "Microsoft AI",
+        "IBM AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-31-mckinsey-winning-companies-are-increasing-their-investment-in-ai-during-covid-19-what-do-they-know-that-you-dont.md",
+      "title": "McKinsey: Winning Companies Are Increasing Their Investment In AI During COVID-19. What Do They Know That You Don’t?",
+      "excerpt": "When I think about how to guide my company’s strategy, I look at what the winners in various industries are doing to see what I can learn from them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/glenngow/2021/01/31/mckinsey-winning-companies-are-increasing-their-investment-in-ai-during-covid-19-what-do-they-know-that-you-dont/",
+      "originalUrl": "https://www.forbes.com/sites/glenngow/2021/01/31/mckinsey-winning-companies-are-increasing-their-investment-in-ai-during-covid-19-what-do-they-know-that-you-dont/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600c63d62211004774caee59%2F0x0.jpg",
+          "width": 1200,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/glenngow/2021/01/31/mckinsey-winning-companies-are-increasing-their-investment-in-ai-during-covid-19-what-do-they-know-that-you-dont/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2021/01/31/mckinsey-winning-companies-are-increasing-their-investment-in-ai-during-covid-19-what-do-they-know-that-you-dont/amp/",
+      "publishedDateTime": "2021-01-31T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-31-heres-a-way-to-learn-if-facial-recognition-systems-used-your-photos.md",
+      "title": "Here’s a Way to Learn if Facial Recognition Systems Used Your Photos",
+      "excerpt": "An online tool targets only a small slice of what’s out there, but may open some eyes to how widely artificial intelligence research fed on personal images.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/01/31/technology/facial-recognition-photo-tool.html",
+      "originalUrl": "https://www.nytimes.com/2021/01/31/technology/facial-recognition-photo-tool.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/01/22/business/22facedata/merlin_182626764_00ff9955-a389-4061-a12f-e547bae6948d-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/01/31/technology/facial-recognition-photo-tool.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/31/technology/facial-recognition-photo-tool.amp.html",
+      "publishedDateTime": "2021-01-31T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-01-31-vaccine-rollout-how-ai-can-help.md",
       "title": "Vaccine Rollout: How AI Can Help",
       "excerpt": "Yet it seems that technologies like AI can help with the challenges. \"Humans don’t have the capacity to consider thousands of competing and evolving factors,” said Arijit Sengupta, who is the Founder and CEO of Aible.",
@@ -156,7 +359,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/microsoft-corp-nasdaq-msft-acquires-stake-in-self-driving-ev-venture-2021-01-29",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -304,7 +507,7 @@
       "originalUrl": "https://www.compsmag.com/news/technology/minneapolis-st-paul-airport-gets-facial-recognition-tech/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -487,7 +690,7 @@
       "originalUrl": "https://www.infoworld.com/article/3605101/patrick-j-mcgovern-foundation-invests-in-ai-for-public-good.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1019,213 +1222,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-30-best-robots-at-ces-2021-humanoids-ai-pets-uv-c-equipped-disinfecting-bots-and-more.md",
-      "title": "Best robots at CES 2021: Humanoids, AI pets, UV-C-equipped disinfecting bots, and more",
-      "excerpt": "CES is virtually synonymous with engineering and the annual event routinely showcases a number of impressive robotics innovations. Here are some of the best robots at CES 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/videos/best-robots-at-ces-2021-humanoids-ai-pets-uv-c-equipped-disinfecting-bots-and-more/",
-      "originalUrl": "https://www.techrepublic.com/videos/best-robots-at-ces-2021-humanoids-ai-pets-uv-c-equipped-disinfecting-bots-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2021/01/29/c0a0b09d-dd10-428e-accc-9e558447d8c5/thumbnail/770x578/13091ec4e2d44705026779de86db4640/20210114-ces-dallon-karen.jpg",
-          "width": 770,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-29T09:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-30-physna-raises-20-million-for-ai-that-analyzes-and-digitizes-3d-objects.md",
-      "title": "Physna raises $20 million for AI that analyzes and digitizes 3D objects",
-      "excerpt": "Physna, a startup developing software that analyzes and digitizes 3D models, has raised $20 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/29/physna-raises-20-million-for-ai-that-analyzes-and-digitizes-3d-objects/",
-      "originalUrl": "https://venturebeat.com/2021/01/29/physna-raises-20-million-for-ai-that-analyzes-and-digitizes-3d-objects/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/physna1-e1611938280196.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 729,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/29/physna-raises-20-million-for-ai-that-analyzes-and-digitizes-3d-objects/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/29/physna-raises-20-million-for-ai-that-analyzes-and-digitizes-3d-objects/amp/",
-      "publishedDateTime": "2021-01-29T08:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-30-ai-ethics-the-future-of-ai-could-become-scary.md",
-      "title": "AI ethics: The future of AI could become scary",
-      "excerpt": "A Gartner report says the consequences of widespread AI will have huge effects on our society. Cybersecurity pros can't handle all the threat tasks alone, expert says 5:00 Good and bad news for cybersecurity in 2021 10:50 Cybersecurity can use some help from AI and ML 9:30 7 tech skills that will be in high demand in 2021 6:26 Edge computing adoption to increase through 2026;",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/videos/ai-ethics-the-future-of-ai-could-become-scary/",
-      "originalUrl": "https://www.techrepublic.com/videos/ai-ethics-the-future-of-ai-could-become-scary/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2021/01/29/bc4f2551-6116-44e4-96b2-454d3aad1c1b/thumbnail/770x578/fcbfbfeda4f4c87df63aa6889134d566/20210127-brandon1-karen.jpg",
-          "width": 770,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-29T08:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-01-30-huami-to-launch-third-generation-self-developed-wearable-chip-soon.md",
-      "title": "Huami to launch third-generation self-developed wearable chip soon",
-      "excerpt": "Huami Technology is a company that excels in smart wearable technology. Headquartered in Hefei, China, the company also makes its own AI-powered wearable chips. Today, the company’s founder has announced that the third-generation wearable chip is coming soon.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/01/29/huami-to-launch-third-generation-self-developed-wearable-chip-soon/",
-      "originalUrl": "https://www.gizmochina.com/2021/01/29/huami-to-launch-third-generation-self-developed-wearable-chip-soon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2018/09/Huangshan-No.1-MHS001.jpg",
-          "width": 1225,
-          "height": 571,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-29T08:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

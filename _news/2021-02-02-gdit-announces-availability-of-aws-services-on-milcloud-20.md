@@ -1,28 +1,22 @@
 ---
 category: news
 title: "GDIT Announces Availability of AWS Services on milCloud 2.0"
-excerpt: "GDIT announced today the availability of Amazon Web Services (AWS) through the milCloud 2.0 contract, providing DoD mission partners access to an expanded portfolio of secure cloud services. FAIRFAX,"
-publishedDateTime: 2021-02-02T08:07:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-government-business-and-finance-corporate-news-products-and-services-dcdc78fe232b6bc8d86839fb56fd3603"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-government-business-and-finance-corporate-news-products-and-services-dcdc78fe232b6bc8d86839fb56fd3603"
+excerpt: "General Dynamics Information Technology, a business unit of General Dynamics, announced today the availability of Amazon Web Services through the milCloud 2.0 contract, providing Department of Defense mission partners access to an expanded portfolio of secure cloud services."
+publishedDateTime: 2021-02-01T16:00:00Z
+originalUrl: "https://www.nasdaq.com/press-release/gdit-announces-availability-of-aws-services-on-milcloud-2.0-2021-02-01"
+webUrl: "https://www.nasdaq.com/press-release/gdit-announces-availability-of-aws-services-on-milcloud-2.0-2021-02-01"
 type: article
-quality: 54
-heat: 74
+quality: 64
+heat: 84
 published: true
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "GDIT Announces AWS Availability on milCloud 2.0 Contract; Dave Levy Quoted"
@@ -54,6 +48,6 @@ related:
         height: 630
         isCached: true
 
-secured: "xoHCB24d1s7KrATxItfRNXQYICYj0uM/KyqlPDJpgjM6amO7MnpmYSBfcSTmuW0t3eGiR4r8HVQUF8rM+as7W7ONUEPzd1MWxh/AmY9dN16NVIOu/Qm1ldHzF3A/7yQwIW4ZW1bTXRD/esO1YbKOuxWvymLOkIHlPGWjJAxP0qZ8+Thw1eseLdS6UIO2wol14cpl8E3nMMvsJfC3V+qmJBAGZEkNKDE8I3uNrvf1knvnqFPZhtLmjPcM1JXKJwKzfS6huxERIPmusmlBbYsQukwhFoyn6g/FKnibW0/edQmBTmLoz1ACHE9lk1puLLAYcYCMenTPnAR+UDwoFLi7t1rstf4X9yydf9BE6g4d24A=;Djkl1HDiT0Vwlr9XBqs89w=="
+secured: "zj0KlE1vIR1z9ZH1gyyossiBdlBq3hsXbSQp5YXG5T1w+H0eOwUccwB1NV4TEy991nv9rVXNNA4eVfE2btbuibFTlCHumDJrHwpwRFz3L6B6YznB7KAZvr5lxy6B2jxABwJF/5wpIb+RwceGccjj9Q2Txf/vWpgtKMqStMj5fKCPhqIVym1Gwg1ChnEE86peF+48DQo4vdxl6dfwNdTpvm6XsB336Z30WtlIlnTvvwP6rftoVanwOCuHeKLrxcEifRb1vKIYqqA01UYOlajRWkCTYP0e/kr0jUyc8TDWlTlapPVzfHe68YiTyS2+RDloA7SzF1S7CIHOI3yHF1bsCZ1Wvp2iykyulJtjdUUyk1U=;RCVCoDncBXHk1QUahNh52A=="
 ---
 

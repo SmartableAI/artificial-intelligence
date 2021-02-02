@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-02-02-gdit-announces-availability-of-aws-services-on-milcloud-20.md",
-      "title": "GDIT Announces Availability of AWS Services on milCloud 2.0",
-      "excerpt": "GDIT announced today the availability of Amazon Web Services (AWS) through the milCloud 2.0 contract, providing DoD mission partners access to an expanded portfolio of secure cloud services. FAIRFAX,",
+      "path": "_news/2021-02-02-artificial-intelligence-ai-chipsets-market-share-growth-insight-size-competitive-analysis-regional-and-global-forecast-to-2027.md",
+      "title": "Artificial Intelligence (AI) Chipsets Market Share, Growth Insight, Size, Competitive Analysis, Regional, And Global Forecast To 2027",
+      "excerpt": "https://www.fortunebusinessinsights.com/enquiry/customization/artificial-intelligence-ai-chipsets-market-104500 8.1.1.1. Graphics Processing Unit (GPU) 8.1.1.2. Field Programmable Gate Arrays (FPGAs) 8.1.1.3. Application-specific Integrated Circuit (ASIC ...",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-government-business-and-finance-corporate-news-products-and-services-dcdc78fe232b6bc8d86839fb56fd3603",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-government-business-and-finance-corporate-news-products-and-services-dcdc78fe232b6bc8d86839fb56fd3603",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-share-growth-insight-size-competitive-analysis-regional-and-global-forecast-to-2027-2021-02-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-share-growth-insight-size-competitive-analysis-regional-and-global-forecast-to-2027-2021-02-02",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 184,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,12 +26,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-02T00:07:00-08:00",
+      "publishedDateTime": "2021-02-02T02:36:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -40,8 +49,11 @@
         "news"
       ],
       "topics": [
+        "AI Hardware",
+        "AI",
         "AWS AI",
-        "AI"
+        "Machine Learning",
+        "AI in Healthcare"
       ]
     },
     {
@@ -190,6 +202,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-gdit-announces-availability-of-aws-services-on-milcloud-20.md",
+      "title": "GDIT Announces Availability of AWS Services on milCloud 2.0",
+      "excerpt": "General Dynamics Information Technology, a business unit of General Dynamics, announced today the availability of Amazon Web Services through the milCloud 2.0 contract, providing Department of Defense mission partners access to an expanded portfolio of secure cloud services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/press-release/gdit-announces-availability-of-aws-services-on-milcloud-2.0-2021-02-01",
+      "originalUrl": "https://www.nasdaq.com/press-release/gdit-announces-availability-of-aws-services-on-milcloud-2.0-2021-02-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-01T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1435,50 +1481,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-amazon-ai-conclave-2021-everything-you-need-to-know.md",
-      "title": "Amazon AI Conclave 2021: Everything You Need To Know",
-      "excerpt": "Roche, the second-largest pharmaceutical company in the world, uses Amazon SageMaker to accelerate the delivery of treatments and tailor medical experiences. And the list goes on… Data scientists, researchers,",
-      "sourceUrl": null,
-      "webUrl": "https://in.mashable.com/tech/19475/amazon-ai-conclave-2021-everything-you-need-to-know",
-      "originalUrl": "https://in.mashable.com/tech/19475/amazon-ai-conclave-2021-everything-you-need-to-know",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_in/photo/default/shutterstock-1083512990-1_fw3k.620.jpg",
-          "width": 620,
-          "height": 347,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://in.mashable.com/tech/19475/amazon-ai-conclave-2021-everything-you-need-to-know?amp=1",
-      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/19475/amazon-ai-conclave-2021-everything-you-need-to-know?amp=1",
-      "publishedDateTime": "2021-01-13T20:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Google AI"
       ]
     }
   ],

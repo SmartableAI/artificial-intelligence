@@ -1,58 +1,22 @@
 ---
 category: news
 title: "Artificial Intelligence (AI) in Healthcare Market Size Worth $61.59 Billion By 2027 | CAGR of 43.6% By Reports and Data"
-excerpt: "CAGR of 43.6%, Market Trends -Drug development for COVID-19. The global artificial intelligence (AI) in healthcare market is forecast to reach a market size of USD 61.59 Billion by 2027 and register a significantly high CAGR,"
-publishedDateTime: 2021-01-19T10:09:00Z
-originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-size-worth-6159-billion-by-2027-cagr-of-436-by-reports-and-data-2021-01-19"
-webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-size-worth-6159-billion-by-2027-cagr-of-436-by-reports-and-data-2021-01-19"
+excerpt: "Artificial intelligence helps medical professionals to retrieve information, interpret images, and plan therapy during medical procedures. It also eases the burden on healthcare workers."
+publishedDateTime: 2021-01-19T08:45:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/01/g19208601/artificial-intelligence-ai-in-healthcare-market-size-worth-61-59-billion-by-2027-cagr-of-43-6-by-r"
+webUrl: "https://www.benzinga.com/pressreleases/21/01/g19208601/artificial-intelligence-ai-in-healthcare-market-size-worth-61-59-billion-by-2027-cagr-of-43-6-by-r"
+ampWebUrl: "https://amp.benzinga.com/amp/content/19208601"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19208601"
 type: article
-quality: 75
-heat: -1
-published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-
-related:
-  - title: "Healthcare Artificial Intelligence (AI) Market Worth $51.3 Billion by 2027 at a CAGR of 41.4%"
-    excerpt: "According to this latest publication from Meticulous Research(R), the healthcare artificial intelligence market is"
-    publishedDateTime: 2021-01-20T14:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-worth-513-billion-by-2027-at-a-cagr-of-414-2021-01-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 88
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) Hardware Market to record 37.5% CAGR through 2027"
-    excerpt: "Global Artificial Intelligence (AI) Hardware Market Report from its database. The report provides study with in-depth overview, describing about the Product, Size, Share, and Industry Scope and elaborates market outlook and status to 2027."
-    publishedDateTime: 2021-01-20T15:35:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/137201/artificial-intelligence-ai-hardware-market-to/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 30
-
-secured: "Pt+V6P+k0ByETNV5I3UED8UTczb5DMR/NZfN9j0Ez14ijT7Ivarm/APatc5y9UD6Wxo2HIbkfhVqlWOcerco2iwoa0L59g6JTH4zXVlGghYgPR6352AzFkkKtaKEQ3MSXyagiHQ6CDfQlJlO+tkzLQFCrV0quHBhQaQZEpcJpUtIdgoN9eF2rZFsfYYSG41/EIOdz7hJPcp2STybCrvvQUQ7Fivj1hrnm6xF1f1hTmjNUySsmyPEYKn1avsUcSeGS4KGykUZHNEUhcdhf/LRbjIwHHVli8vDBzJo5bIA85KAtD/F2vH9z3ml+3vLIdd8nOaajxYPt1gnyQFlFOtkdOSTUaTpanfQzcJcuPplz+s=;nR2nUZ9JvP6J2gzUdi018w=="
+secured: "5SbV/kQ/CrN57anxLXAo1cGlRuWDpij7FiMniMC9DjL3ImUdJalfGrE48aQrzVy/90V9ByXaOesY/ddfg8VMbUaUzUE709jEPtXMyKvkBCp31hx9PDfMYh23b3OAoan4Z6kKALkdwBGtEDWSNlhjFWdwcmxyXwdqSib2MCrGxoA88KUE/4OZXl2xEBqYHdh81VlOXzIr7VFORErTNr/gjp54IDoaGOdiXfDOl1kAQYSqdyqrnWh230RQ2AJPd4TE94TsD1aEdW6DwBrC7KDpi8dzVVQkbQu7y5L0ZvgrHZ3hE37mpT58Gr8iHU+saEoAfsY/vDnF8gS62yN/yBz+ynKje2QDXtBnyr9d47NxkCQ=;rccXBgIqku7v9+Aia60HZA=="
 ---
 
