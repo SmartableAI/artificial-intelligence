@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/saving-time-with-per
 webUrl: "https://aws.amazon.com/blogs/machine-learning/saving-time-with-personalized-videos-using-aws-machine-learning/"
 type: article
 quality: 106
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 800
     height: 558
     isCached: true
-
-related:
-  - title: "Quizlet and TikTok Partner on New Integration Enabling Creators to Build Engaging, Informative Learning Videos"
-    excerpt: "Quizlet, the global learning platform known for its AI-powered study tools, today announced an integration with TikTok, the short-form video app with a mission to inspire creativity and bring joy. The integration will allow TikTok creators in the education space – including teachers and subject matter experts – to link Quizlet study sets directly to their videos for interactive learning that’s fun and engaging for viewers."
-    publishedDateTime: 2021-01-28T08:07:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-north-america-products-and-services-new-products-and-services-4b89b1200c074c28c34a31c332df1ca5"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 4
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "/fDIP+IhLokPNtGTWDUfl7WHLFRg/fwmYhOhesxoKByRnwl011levjLjYLi+rJCXfLZg+IaU7K+ovTK9A0xyMEkHV/lksXmteRmT3h7E/NzF93X/r4qzygTpR1yDU6b1h93eXeL/jf30OOefMu6lSSJPx5n9+lZHA+arS2QgKA8bBKXgMgye3ioGXTCyjxu2h6+lIY6ULw5PSiJulc9llJzXi6BYmLRCSO3gVvTg0yWiXQMGVzt3b3WYFdVJ3DNTPsCfwcxg8QFXhgZLBPtvG4bR3xrsOLJcOXVJ4BDWZz+IENL29Lf16v4C52uu/R2ghwbUkLl+m4oYJHYUl3DqVbum+ZAlnAKV7T1sb3reaTY=;4DzS0XMO82lCCv4Y7Mz5kw=="
 ---

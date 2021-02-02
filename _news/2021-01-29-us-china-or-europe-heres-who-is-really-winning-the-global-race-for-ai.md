@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/us-china-or-europe-heres-who-is-really-wi
 ampWebUrl: "https://www.zdnet.com/google-amp/article/us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai/"
 type: article
-quality: 86
-heat: 86
+quality: 88
+heat: 88
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://zdnet3.cbsistatic.com/hub/i/2020/12/08/d2cda70e-e16c-48b0-b7cd-8321360bd6e5/woman-surrounded-by-high-tech-600-x-337.jpg"

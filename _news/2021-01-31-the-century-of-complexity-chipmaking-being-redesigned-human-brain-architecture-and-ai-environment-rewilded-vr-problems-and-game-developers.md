@@ -6,8 +6,8 @@ publishedDateTime: 2021-01-31T00:00:00Z
 originalUrl: "https://www.linkedin.com/pulse/century-complexity-chipmaking-being-redesigned-human-brain-massimo"
 webUrl: "https://www.linkedin.com/pulse/century-complexity-chipmaking-being-redesigned-human-brain-massimo"
 type: article
-quality: 17
-heat: 17
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGwyvvDP21Wzw/article-cover_image-shrink_720_1280/0/1612111937653?e=1617840000&v=beta&t=_yJQ7mUKctmpFLm8NM06uk1jJ2FChgM2lqhEJpL0NG8"

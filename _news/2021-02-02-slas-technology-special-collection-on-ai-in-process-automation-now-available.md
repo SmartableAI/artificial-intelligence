@@ -9,8 +9,8 @@ ampWebUrl: "https://www.compsmag.com/news/technology/slas-technology-special-col
 cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/slas-technology-special-collection-on-ai-in-process-automation-now-available/amp/"
 type: article
 quality: 56
-heat: 86
-published: true
+heat: -1
+published: false
 
 provider:
   name: Windows
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "SLAS Technology Special collection on artificial intelligence in process automation now available"
+    excerpt: "SLAS Technology Special collection on artificial intelligence in process automation now available Newswise - Oak Brook, IL - The February"
+    publishedDateTime: 2021-02-01T23:23:00Z
+    webUrl: "https://www.compsmag.com/news/technology/slas-technology-special-collection-on-artificial-intelligence-in-process-automation-now-available/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/slas-technology-special-collection-on-artificial-intelligence-in-process-automation-now-available/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/slas-technology-special-collection-on-artificial-intelligence-in-process-automation-now-available/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 59
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/SLAS-Technology-Special-collection-on-artificial-intelligence-in-process-automation-1024x1024.jpg"
+        width: 1024
+        height: 1024
+        isCached: true
   - title: "Supermarket Technology Trends: The Unstoppable Rise of AI, Speech, and Automation"
     excerpt: "Technology food retail solutions have exploded in recent years, and never more than in the past pandemic year. Harnessing the power of artificial intelligence, machine learning and data has become a necessity as consumers rapidly transition from in-store shopping to e-commerce while expecting stores to deliver a personalized,"
     publishedDateTime: 2021-02-01T13:47:00Z
@@ -57,21 +73,7 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Speech Processing Solutions: Next-generation Workflow Solution With AI-powered Speech Recognition, Now in Australia"
-    excerpt: "The new version of the Philips dictation workflow solution for enterprise businesses, SpeechExec Enterprise 7.0 (SEE 7.0) is now available in Australia. The close collaboration between Nuance Communications and Speech Processing Solutions,"
-    publishedDateTime: 2021-01-28T08:01:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-australia-oceania-voice-recognition-computing-and-information-technology-47f0b2ed891945d782c47422affab686"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 32
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
-secured: "t/yQcsLJPsgtoiI/m04Lc3nD8wcbvcLQBrQ+2aGcU/Z4nUb1wvRU4rx3QcHzSyCzSgO+qUiPyO8kw6jWSoQlkAcGKhoTIfywgYP1FcjYGncm6V3aFc8bWmVgBviM2I4wUv0U7wxdBHdmqDXcmmZq6peneFEITe/CSE0Bk+Arg0fAzN5eB30yfmRGaYB1gPckh24TaLkJUnWoIAtSkdLm3FDfbXw6tl7QFAIZAuxfwRnBfOwyIz231o3lJ0DMas1inHhLDgLlpKi0HX5I5naFKjGIU8X9/Bsd9TLIA23JaW4NS6ox7xmT3+3oGVa9+5WGpKJOSRXvKh1qDnoZ/MsK28syV5a+eHJXaTr7lQ9QIJs=;mTpWrvFQuwZaHAxouCqpJQ=="
+secured: "4EHrfqm6Hj4nL25C0etND9DmJ8a/QqKqwG1ICnNc2RgiZcUitoH8VgBFgbUJaUdgtkGEMfYv86jRYCyBLBc/IPVGFzBIkkVUqv2rIttB0TtRWG1r1ZbaAZk8+hONUrs+xjw6B4NmYrSOALPgYQ2Q3uwZR7t7fLJm6YepQOMOP04raM/5YrE0H4KaLHJtobaN40dzjh5J9HlQ4btUKQ7+LR03XNTe+QM/S6u5HMIVN5Rt8mukQ1qJnBYxwdzzy0JtwnlflPgj1n8OJKRviP9RXUuD/2+O5Ud1UyOr72TdbgYU4QP+t1aoLzpPOMxymwe/0nK7OJZf8VrNsK+9xGDBtWueIOuspOJ2tPGtA7ZfoRobqQBOLlEm5M1MkrnBc0ixSWnlFTfGIIq6IgKFFN+WWp4nMEXgyFPXl2QhZztFvbIBni6wokOuF0mI8MVIcQLoJE/yOn+ZDefz2CpelX/vrVMbSWPbNZbqibLnqoOXD6yNMADctNDFLJMvIXaVy6AQaPTb/acm5eXmWkHU/uqVMg==;0LK2RZNs3N4EWo6Nj/ljxQ=="
 ---
 

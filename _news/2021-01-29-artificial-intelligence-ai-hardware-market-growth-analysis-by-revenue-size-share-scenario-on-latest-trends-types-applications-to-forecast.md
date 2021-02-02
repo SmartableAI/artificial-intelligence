@@ -84,20 +84,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Natural Language Processing (NLP) Market 2020 Report Presents Complete Summary, Marketplace Shares and Growth Opportunities by 2025"
-    excerpt: "Global Natural Language Processing (NLP) Market 2020 by Company, Regions, Type and Application, Forecast to 2025 has recently been added by MarketsandResearch.biz to its extensive database, where you will find informative data on various dynamics such as market factors,"
-    publishedDateTime: 2021-01-28T08:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-market-2020-report-presents-complete-summary-marketplace-shares-and-growth-opportunities-by-2025-2021-01-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI-Based Fever Detection Camera Market Share, Growth Insight, Size, Competitive Analysis, Regional, And Global Forecast To 2027"
     excerpt: "How will the AI-based fever detection cameras help in battling COVID-19? Which region is likely to generate the highest revenue in the near future? Which segment would procure the largest share? What are the restraining factors of the AI-Based Fever Detection Camera Market?"
     publishedDateTime: 2021-02-01T13:52:00Z

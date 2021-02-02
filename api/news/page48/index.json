@@ -2,6 +2,291 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2020-12-22-the-newest-weapon-against-covid-19-ai-that-speed-reads-faxes.md",
+      "title": "The Newest Weapon Against Covid-19: AI That Speed-Reads Faxes",
+      "excerpt": "Local health departments rely on the old-fangled tech to track cases. A hastily developed machine-learning program gives it an assist.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/newest-weapon-against-covid-ai-speed-reads-faxes/",
+      "originalUrl": "https://www.wired.com/story/newest-weapon-against-covid-ai-speed-reads-faxes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5fe125e4fe6cb52eb1cc8aec/master/pass/Business-AI-Fax-Machines-Covid-153151104.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/newest-weapon-against-covid-ai-speed-reads-faxes/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/newest-weapon-against-covid-ai-speed-reads-faxes/amp",
+      "publishedDateTime": "2020-12-22T04:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-22-is-that-aibo-a-good-dog-sony-to-review-ethics-of-all-ai-products.md",
+      "title": "Is that Aibo a good dog? Sony to review ethics of all AI products",
+      "excerpt": "But even as it increases convenience, AI could unintentionally employ discriminatory algorithms, leading to embarrassing problems. Sony will start screening its AI-infused products for ethical risks as early as spring,",
+      "sourceUrl": null,
+      "webUrl": "https://asia.nikkei.com/Business/Companies/Is-that-Aibo-a-good-dog-Sony-to-review-ethics-of-all-AI-products",
+      "originalUrl": "https://asia.nikkei.com/Business/Companies/Is-that-Aibo-a-good-dog-Sony-to-review-ethics-of-all-AI-products",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F2%252F6%252F3%252F1%252F31381362-3-eng-GB%252FCropped-1608663127AIBO.JPG?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-22T01:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NIKKEI",
+        "domain": "nikkei.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-22-diving-into-japans-top-aiml-startups.md",
+      "title": "Diving into Japan’s top AI/ML startups",
+      "excerpt": "It has accelerated the speed of our business with minimum IT investment. As a startup, agility is one of the most important success factors. Similarly, the AI space is rapidly evolving, and speed is particularly crucial to stay ahead in this area.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techinasia.com/diving-japans-top-aiml-startups?ref=recommender-667984",
+      "originalUrl": "https://www.techinasia.com/diving-japans-top-aiml-startups?ref=recommender-667984",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-21T23:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Techinasia",
+        "domain": "techinasia.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techinasia.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-22-horizon-robotics-a-chinese-rival-to-nvidia-seeks-to-raise-over-700m.md",
+      "title": "Horizon Robotics, a Chinese rival to Nvidia, seeks to raise over $700M",
+      "excerpt": "In their rush to offer alternatives to advanced western chipsets, Chinese semiconductor companies are racking up large fundings from investors. Horizon Robotics, a five-year-old unicorn specializing in AI chips for robots and autonomous vehicles,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/12/21/horizon-robotics-700-million-funding/",
+      "originalUrl": "https://techcrunch.com/2020/12/21/horizon-robotics-700-million-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/12/horizon-robotics-e1608616778526.jpeg?w=1024",
+          "width": 1024,
+          "height": 546,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/12/21/horizon-robotics-700-million-funding/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/21/horizon-robotics-700-million-funding/amp/",
+      "publishedDateTime": "2020-12-21T22:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-22-exclusive-self-driving-startup-ouster-nears-19-billion-deal-to-go-public-sources.md",
+      "title": "Exclusive: Self-driving startup Ouster nears $1.9 billion deal to go public - sources",
+      "excerpt": "Ouster Inc, a U.S. startup that makes lidar sensors for self-driving cars and smart cities, is nearing a deal to go public at a roughly $1.9 billion valuation through a merger with a blank-check acquisition firm,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-ouster-m-a-colonnade-acqsn-exclusive/exclusive-self-driving-startup-ouster-nears-1-9-billion-deal-to-go-public-sources-idUSKBN28W00B",
+      "originalUrl": "https://www.reuters.com/article/us-ouster-m-a-colonnade-acqsn-exclusive/exclusive-self-driving-startup-ouster-nears-1-9-billion-deal-to-go-public-sources-idUSKBN28W00B",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28W00B",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28W00B",
+      "publishedDateTime": "2020-12-21T21:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-22-honeywell-buys-sparta-systems-for-13-billion-plots-life-sciences-expansion.md",
+      "title": "Honeywell buys Sparta Systems for $1.3 billion, plots life sciences expansion",
+      "excerpt": "Honeywell will acquire life sciences software company Sparta Systems for $1.3 billion in a move that will expand the reach for the Honeywell Forge platform. Sparta Systems feature",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/honeywell-buys-sparta-systems-for-1-3-billion-plots-life-sciences-expansion/",
+      "originalUrl": "https://www.zdnet.com/article/honeywell-buys-sparta-systems-for-1-3-billion-plots-life-sciences-expansion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/12/22/52a7fadc-ba5d-44a7-8dcb-590bce0e9673/sparta-systems-trackwise-stack.png",
+          "width": 644,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/honeywell-buys-sparta-systems-for-1-3-billion-plots-life-sciences-expansion/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/honeywell-buys-sparta-systems-for-1-3-billion-plots-life-sciences-expansion/",
+      "publishedDateTime": "2020-12-21T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-22-top-10-deep-learning-chip-makers-in-global-market-and-their-business-development-strategies-over-2020-2027.md",
       "title": "Top 10 Deep Learning Chip Makers in Global Market and Their Business Development Strategies Over 2020-2027",
       "excerpt": "Allied Market Research Published Latest Report titled, “Deep Learning Chip Market by Chip Type (GPU, ASIC, FPGA, CPU, and Others), Technology (System-on-chip, System-in-package, Multi-chip ...",
@@ -898,271 +1183,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-ai-will-take-away-lots-of-jobs-and-we-are-nowhere-near-ready-to-replace-them.md",
-      "title": "AI will take away lots of jobs. And we are nowhere near ready to replace them",
-      "excerpt": "The government, said the committee, must start actively explaining how data is being used, rather than expect the public to find out. The report stressed that to enable a better deployment of AI, the government should urgently appoint a dedicated leader.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-will-take-away-lots-of-jobs-and-we-are-nowhere-near-ready-to-replace-them/",
-      "originalUrl": "https://www.zdnet.com/article/ai-will-take-away-lots-of-jobs-and-we-are-nowhere-near-ready-to-replace-them/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/12/11/c04a10b1-906a-4231-b402-a811eadccee2/thumbnail/1200x675/ab72407c06211c42c14c61cd2c430a83/automation-lowcode-and-nocode-tools-crea-5fd2019dcaad46044ff21da6-1-dec-11-2020-12-25-53-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-will-take-away-lots-of-jobs-and-we-are-nowhere-near-ready-to-replace-them/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-will-take-away-lots-of-jobs-and-we-are-nowhere-near-ready-to-replace-them/",
-      "publishedDateTime": "2020-12-21T07:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-rising-demand-for-natural-language-processing-in-bfsi-market-2020-2026.md",
-      "title": "Rising Demand for Natural Language Processing in BFSI Market 2020– 2026",
-      "excerpt": "Natural Language Processing in BFSI Market Report Coverage: Key Growth Factors & Challenges, Segmentation & Regional Outlook, Top Industry Trends & Opportunities, Competition Analysis, COVID-19 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2214402/rising-demand-for-natural-language-processing-in-bfsi-market",
-      "originalUrl": "https://www.openpr.com/news/2214402/rising-demand-for-natural-language-processing-in-bfsi-market",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-21T07:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-elon-musk-tesla-full-self-driving-subscription-coming-in-2021.md",
-      "title": "Elon Musk: Tesla Full Self Driving subscription coming in 2021",
-      "excerpt": "Tesla could start offering its pricey self-driving system as a monthly subscription next year, according to Elon Musk.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/elon-musk-tesla-full-self-driving-subscription-coming-in-2021/",
-      "originalUrl": "https://www.zdnet.com/article/elon-musk-tesla-full-self-driving-subscription-coming-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/elon-musk-tesla-full-self-driving-subscription-coming-in-2021/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/elon-musk-tesla-full-self-driving-subscription-coming-in-2021/",
-      "publishedDateTime": "2020-12-21T06:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-ringcentral-acquires-conversational-ai-startup-deepaffects.md",
-      "title": "RingCentral acquires conversational AI startup DeepAffects",
-      "excerpt": "RingCentral, which creates cloud-based enterprise communication and collaboration tools, has acquired conversational AI startup DeepAffects.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/21/ringcentral-acquires-conversational-ai-startup-deepaffects/",
-      "originalUrl": "https://venturebeat.com/2020/12/21/ringcentral-acquires-conversational-ai-startup-deepaffects/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/RingCentralFeat.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/21/ringcentral-acquires-conversational-ai-startup-deepaffects/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/21/ringcentral-acquires-conversational-ai-startup-deepaffects/amp/",
-      "publishedDateTime": "2020-12-21T06:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-bda-advises-inawisdom-on-its-sale-to-cognizant.md",
-      "title": "BDA Advises Inawisdom on Its Sale to Cognizant",
-      "excerpt": "BDA Partners is pleased to announce that its client, Inawisdom Ltd., has been acquired by Cognizant. BDA was exclusive",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/12/r18875064/bda-advises-inawisdom-on-its-sale-to-cognizant",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/12/r18875064/bda-advises-inawisdom-on-its-sale-to-cognizant",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/18875064",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18875064",
-      "publishedDateTime": "2020-12-21T06:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-employ-your-ai-as-a-smart-partner-intelligent-ways-to-leverage-knowledge.md",
-      "title": "Employ Your AI As A Smart Partner: Intelligent Ways To Leverage Knowledge",
-      "excerpt": "While automation does remove repetitive tasks from daily work routines, new responsibilities also arise to take their place.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/21/employ-your-ai-as-a-smart-partner-intelligent-ways-to-leverage-knowledge/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/21/employ-your-ai-as-a-smart-partner-intelligent-ways-to-leverage-knowledge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fdcc3472c78ec67b5540bbc%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-21T06:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

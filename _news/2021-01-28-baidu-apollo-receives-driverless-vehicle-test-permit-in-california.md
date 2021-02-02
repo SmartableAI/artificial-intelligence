@@ -41,17 +41,6 @@ related:
         width: 1024
         height: 640
         isCached: true
-  - title: "Baidu Gets California Nod for Testing Empty Self-Driving Cars"
-    excerpt: "Baidu Inc has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor Vehicles said on Wednesday. Although self-driving vehicles are designed to eliminate the need for a driver,"
-    publishedDateTime: 2021-01-28T09:25:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-01-27/baidu-gets-california-nod-for-testing-driverless-vehicles"
-    ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-01-27/baidu-gets-california-nod-for-testing-driverless-vehicles?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-01-27/baidu-gets-california-nod-for-testing-driverless-vehicles?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 69
   - title: "University Of Southern California and Amazon establish Center For Secure And Trusted Machine Learning"
     excerpt: "The expectation is that the center will unleash a new line of fundamental research on privacy and security aspects of machine learning –given the proliferation of artificial intelligence across all aspects of society from education to finance,"
     publishedDateTime: 2021-01-29T12:56:00Z

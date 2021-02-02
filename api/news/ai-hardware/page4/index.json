@@ -2,40 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2020-12-22-beyond-limits-aligns-its-ai-with-nvidia-in-energy-discovery-sector.md",
-      "title": "Beyond Limits Aligns its AI with Nvidia in Energy Discovery Sector",
-      "excerpt": "AI company Beyond Limits today said it will collaborate with Nvidia on joint strategies leveraging Nvidia technical support and GPU-optimized AI software, including containers, models and application frameworks from the Nvidia NGC catalog, to improve ...",
-      "sourceUrl": null,
-      "webUrl": "https://insidehpc.com/2020/12/beyond-limits-aligns-its-ai-with-nvidia-in-energy-discovery-sector/",
-      "originalUrl": "https://insidehpc.com/2020/12/beyond-limits-aligns-its-ai-with-nvidia-in-energy-discovery-sector/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-21T12:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-21-microsoft-msft-reportedly-mulling-on-designing-chips-in-house.md",
       "title": "Microsoft (MSFT) Reportedly Mulling on Designing Chips In-House",
       "excerpt": "Microsoft MSFT is collaborating with Arm Ltd to design processors in-house for its data center operations and server computers that power its cloud service platform, reported Bloomberg citing familiar sources.",
@@ -1438,6 +1404,59 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-apple-shifts-leadership-of-self-driving-car-division-to-ai-chief.md",
+      "title": "Apple Shifts Leadership of Self-Driving Car Division to AI Chief",
+      "excerpt": "Apple Inc. has moved its self-driving car unit under the leadership of top artificial intelligence executive John Giannandrea, who will oversee the company’s continued work on an autonomous system that could eventually be used in its own car.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-12-08/apple-shifts-leadership-of-self-driving-car-division-to-ai-chief",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-12-08/apple-shifts-leadership-of-self-driving-car-division-to-ai-chief",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 251,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifXBaPelED4s/v0/360x-1.jpg",
+          "width": 360,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-12-08/apple-shifts-leadership-of-self-driving-car-division-to-ai-chief",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-08/apple-shifts-leadership-of-self-driving-car-division-to-ai-chief",
+      "publishedDateTime": "2020-12-08T11:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI Hardware"
       ]
     }
   ],

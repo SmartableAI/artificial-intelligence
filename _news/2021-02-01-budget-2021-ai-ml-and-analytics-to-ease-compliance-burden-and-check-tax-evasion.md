@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/budget-2021-ai-ml-analytics-ease-compliance-
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/budget-2021-ai-ml-analytics-ease-compliance-burden-check-tax-evasion/amp/"
 type: article
 quality: 71
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -53,20 +53,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence Market 2020 Segmentation, Statistics, Top Manufacturers, Regional Analysis and Forecast to 2025"
-    excerpt: "The recently distributed report entitled Global Artificial Intelligence Market 2020 by Company, Regions, Type and Application, Forecast to 2025 is well crafted using a combo of significant data related to the market."
-    publishedDateTime: 2021-01-28T08:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-2020-segmentation-statistics-top-manufacturers-regional-analysis-and-forecast-to-2025-2021-01-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

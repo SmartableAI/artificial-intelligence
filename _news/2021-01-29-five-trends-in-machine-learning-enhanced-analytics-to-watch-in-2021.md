@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence Market 2020 Segmentation, Statistics, Top Manufacturers, Regional Analysis and Forecast to 2025"
-    excerpt: "The recently distributed report entitled Global Artificial Intelligence Market 2020 by Company, Regions, Type and Application, Forecast to 2025 is well crafted using a combo of significant data related to the market."
-    publishedDateTime: 2021-01-28T08:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-2020-segmentation-statistics-top-manufacturers-regional-analysis-and-forecast-to-2025-2021-01-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Data Analytics and Artificial Intelligence to Propel Smart Water and Wastewater Leak Detection Solutions Market"
     excerpt: "Frost & Sullivan's recent analysis, Data Analytics and AI Boost Accuracy to Drive Global Smart Water and Wastewater Leak Detection"
     publishedDateTime: 2021-01-28T14:16:00Z

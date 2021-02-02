@@ -2,6 +2,274 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-01-15-how-to-install-tensorflow-machine-learning-framework-on-ubuntu-2004.md",
+      "title": "How to Install TensorFlow machine-learning framework on Ubuntu 20.04",
+      "excerpt": "TensorFlow is a free and open-source machine-learning platform developed by Google. It helps developers and data scientists simplify the process of implementing machine-learning models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linuxtoday.com/infrastructure/how-to-install-tensorflow-machine-learning-framework-on-ubuntu-20.04-210113042509.html",
+      "originalUrl": "https://www.linuxtoday.com/infrastructure/how-to-install-tensorflow-machine-learning-framework-on-ubuntu-20.04-210113042509.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-14T18:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Linux Today",
+        "domain": "linuxtoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-15-smart-collar-translates-dog-barks-into-emotions-startup-company-says.md",
+      "title": "Smart collar translates dog barks into emotions, startup company says",
+      "excerpt": "Now you can find out what your dog is saying when it barks -- or at least, you’ll know how it’s feeling. South Korean startup Petpuls has created a smart collar that can identify five emotions in dogs using AI-enabled voice recognition technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/lifestyle/smart-dog-collar-translates-barks-emotions",
+      "originalUrl": "https://www.foxnews.com/lifestyle/smart-dog-collar-translates-barks-emotions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/iStock-156869127.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/lifestyle/smart-dog-collar-translates-barks-emotions.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/smart-dog-collar-translates-barks-emotions.amp",
+      "publishedDateTime": "2021-01-14T18:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-15-a-skeleton-key-for-ai-hardware-experimentation.md",
+      "title": "A Skeleton Key for AI Hardware Experimentation",
+      "excerpt": "There’s TensorFlow, Keras, PyTorch, and so on not to mention the increasingly complex interplay between ML models, software frameworks, and hardware,” says Luis Ceze, professor at the University of Washington and co-founder and co-CEO of TVM-driven ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2021/01/15/a-skeleton-key-for-ai-hardware-experimentation/",
+      "originalUrl": "https://www.nextplatform.com/2021/01/15/a-skeleton-key-for-ai-hardware-experimentation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/TVM1.png",
+          "width": 941,
+          "height": 611,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2021/01/15/a-skeleton-key-for-ai-hardware-experimentation/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/01/15/a-skeleton-key-for-ai-hardware-experimentation/amp/",
+      "publishedDateTime": "2021-01-14T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-15-2020-was-impossible-to-predict-can-ai-save-2021.md",
+      "title": "2020 Was Impossible To Predict. Can AI Save 2021?",
+      "excerpt": "Is 2021 the year that businesses and governments start building an AI strategy so computers can look at data the way humans too frequently don’t?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/andrewfilev/2021/01/14/2020-was-impossible-to-predict-can-ai-save-2021/",
+      "originalUrl": "https://www.forbes.com/sites/andrewfilev/2021/01/14/2020-was-impossible-to-predict-can-ai-save-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fff4443003dc6aa290e8a51%2F0x0.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/andrewfilev/2021/01/14/2020-was-impossible-to-predict-can-ai-save-2021/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewfilev/2021/01/14/2020-was-impossible-to-predict-can-ai-save-2021/amp/",
+      "publishedDateTime": "2021-01-14T14:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-15-artificial-intelligence-creates-tremendous-changes-for-the-direction-of-marketing.md",
+      "title": "Artificial Intelligence Creates Tremendous Changes for the Direction of Marketing",
+      "excerpt": "Artificial intelligence has entered numerous facets of our lives. Here’s how it is revolutionizing the business world by changing the marketing landscape.",
+      "sourceUrl": null,
+      "webUrl": "https://www.smartdatacollective.com/artificial-intelligence-creates-changes-for-direction-of-marketing/",
+      "originalUrl": "https://www.smartdatacollective.com/artificial-intelligence-creates-changes-for-direction-of-marketing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.smartdatacollective.com/wp-content/uploads/2020/12/How-Artificial-Intelligence-is-Transforming-Business-Marketing.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.smartdatacollective.com/artificial-intelligence-creates-changes-for-direction-of-marketing/amp/",
+      "cdnAmpWebUrl": "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/artificial-intelligence-creates-changes-for-direction-of-marketing/amp/",
+      "publishedDateTime": "2021-01-14T14:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SmartData Collective",
+        "domain": "smartdatacollective.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Marketing",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-01-15-lapd-commission-oks-detectives-to-use-facial-recognition.md",
+      "title": "LAPD Commission OKs Detectives to Use Facial Recognition",
+      "excerpt": "Under the new policy, detectives can use the facial recognition database to help them in criminal investigations, and when they need to identify incapacitated, unconscious or dead people.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/public-safety/LAPD-Commission-OKs-Detectives-to-Use-Facial-Recognition.html",
+      "originalUrl": "https://www.govtech.com/public-safety/LAPD-Commission-OKs-Detectives-to-Use-Facial-Recognition.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.govtech.com/images/shutterstock_1392652700.jpg",
+          "width": 939,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/public-safety/LAPD-Commission-OKs-Detectives-to-Use-Facial-Recognition.html?AMP",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/LAPD-Commission-OKs-Detectives-to-Use-Facial-Recognition.html?AMP",
+      "publishedDateTime": "2021-01-14T13:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-15-stanford-team-behind-bs-gaydar-ai-says-facial-recognition-can-expose-political-orientation.md",
       "title": "Stanford team behind BS gaydar AI says facial recognition can expose political orientation",
       "excerpt": "Stanford researcher Michael Kosinski, the PhD behind the infamous “Gaydar” AI, is back with another phrenology-adjacent (his team swears it’s not phrenology) bit of pseudo-scientific ridiculousness. This time,",
@@ -889,272 +1157,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-pilot-company-adopts-machine-learning-platform-to-streamline-supply-chain-management.md",
-      "title": "Pilot Company Adopts Machine Learning Platform to Streamline Supply Chain Management",
-      "excerpt": "Pilot Company has chosen the 4R Systems machine learning Forecasting and Replenishment Solution to power logistics at its 750 Pilot Flying J travel centers in the U.S. and Canada. The system is expected to provide a more consistent and efficient solution to help maximize inventory and sales.",
-      "sourceUrl": null,
-      "webUrl": "https://retailtouchpoints.com/topics/supply-chain-sourcing/pilot-company-adopts-machine-learning-platform-to-streamline-supply-chain-management",
-      "originalUrl": "https://retailtouchpoints.com/topics/supply-chain-sourcing/pilot-company-adopts-machine-learning-platform-to-streamline-supply-chain-management",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://retailtouchpoints.com/wp-content/uploads/2021/01/pilot-flying-j.jpg",
-          "width": 1000,
-          "height": 665,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://retailtouchpoints.com/topics/supply-chain-sourcing/pilot-company-adopts-machine-learning-platform-to-streamline-supply-chain-management/amp",
-      "cdnAmpWebUrl": "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/topics/supply-chain-sourcing/pilot-company-adopts-machine-learning-platform-to-streamline-supply-chain-management/amp",
-      "publishedDateTime": "2021-01-14T06:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Retail TouchPoints",
-        "domain": "retailtouchpoints.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-the-best-new-robot-vacuums-of-ces-2021.md",
-      "title": "The best new robot vacuums of CES 2021",
-      "excerpt": "At CES 2021, we're seeing vacuums that will be able to clean your home better than ever before. Here are some of the best robot vacuums on display this year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/home/best-robot-vacuums-ces-2021/",
-      "originalUrl": "https://www.digitaltrends.com/home/best-robot-vacuums-ces-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/home/best-robot-vacuums-ces-2021/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/best-robot-vacuums-ces-2021/?amp",
-      "publishedDateTime": "2021-01-14T05:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-even-ais-cant-help-but-turn-into-hateful-jerks-on-facebook.md",
-      "title": "Even AIs can't help but turn into hateful jerks on Facebook",
-      "excerpt": "The popular South Korean Al chatbot, Lee Luda, has been suspended from Facebook ... research into \"Korean Al dialogue, Al products, and Al ethics development.\" It's not the first AI chatbot ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcgamer.com/ai-chatbot-suspended-facebook/",
-      "originalUrl": "https://www.pcgamer.com/ai-chatbot-suspended-facebook/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/tEzDTfy6yUTw4Q56rQneYf-1200-80.jpg",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcgamer.com/amp/ai-chatbot-suspended-facebook/",
-      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/ai-chatbot-suspended-facebook/",
-      "publishedDateTime": "2021-01-14T05:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-milrem-robotics-rolls-out-its-new-type-x-rcv.md",
-      "title": "Milrem Robotics rolls out its new Type-X RCV",
-      "excerpt": "X Robotic Combat Vehicle by the European leading robotics and autonomous systems developer Milrem Robotics passed its initial mobility",
-      "sourceUrl": null,
-      "webUrl": "https://en.antaranews.com/news/165844/milrem-robotics-rolls-out-its-new-type-x-rcv",
-      "originalUrl": "https://en.antaranews.com/news/165844/milrem-robotics-rolls-out-its-new-type-x-rcv",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.antaranews.com/cache/800x533/2021/01/14/Type-X_1.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://en.antaranews.com/amp/news/165844/milrem-robotics-rolls-out-its-new-type-x-rcv",
-      "cdnAmpWebUrl": "https://en-antaranews-com.cdn.ampproject.org/c/s/en.antaranews.com/amp/news/165844/milrem-robotics-rolls-out-its-new-type-x-rcv",
-      "publishedDateTime": "2021-01-14T04:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Antara News",
-        "domain": "antaranews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-sana-labs-raises-18-million-to-upskill-workers-remotely-with-machine-learning.md",
-      "title": "Sana Labs raises $18 million to upskill workers remotely with machine learning",
-      "excerpt": "Sana Labs, which uses machine learning to personalize training courses for professionals, has raised $18 million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/14/sana-labs-raises-18-million-to-upskill-workers-remotely-using-machine-learning/",
-      "originalUrl": "https://venturebeat.com/2021/01/14/sana-labs-raises-18-million-to-upskill-workers-remotely-using-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/SanaLabs.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/14/sana-labs-raises-18-million-to-upskill-workers-remotely-using-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/14/sana-labs-raises-18-million-to-upskill-workers-remotely-using-machine-learning/amp/",
-      "publishedDateTime": "2021-01-14T04:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-patenting-ai-and-protecting-intellectual-property.md",
-      "title": "Patenting AI and protecting intellectual property",
-      "excerpt": "Rather than being a necessary evil, patenting incentivizes investment into research and development. Computer technologies such as Artificial Intelligence (AI) and machine learning are being ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itproportal.com/features/patenting-ai-and-protecting-intellectual-property/",
-      "originalUrl": "https://www.itproportal.com/features/patenting-ai-and-protecting-intellectual-property/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/mpr37pUgQUuEWNhxeEwmrK-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itproportal.com/amp/features/patenting-ai-and-protecting-intellectual-property/",
-      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/patenting-ai-and-protecting-intellectual-property/",
-      "publishedDateTime": "2021-01-14T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro Portal",
-        "domain": "itproportal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

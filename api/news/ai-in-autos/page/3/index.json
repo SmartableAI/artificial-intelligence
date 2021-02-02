@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-12-chinas-baidu-to-team-up-with-geely-on-evs.md",
+      "title": "China's Baidu to team up with Geely on EVs",
+      "excerpt": "The new company will make and sell electric cars. Baidu will provide the technology for self-driving, while Geely will likely handle production. Baidu has not provided further details, such as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20210112_09/",
+      "originalUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20210112_09/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20210112_09_929166_L.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20210112_09/amp.html",
+      "cdnAmpWebUrl": "https://www3-nhk-or-jp.cdn.ampproject.org/c/s/www3.nhk.or.jp/nhkworld/en/news/20210112_09/amp.html",
+      "publishedDateTime": "2021-01-11T16:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NHK",
+        "domain": "nhk.or.jp",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-baidu-confirms-plans-to-join-the-smoking-hot-ev-market.md",
       "title": "Baidu Confirms Plans to Join the Smoking Hot EV Market",
       "excerpt": "In a press release on Monday, Baidu (NASDAQ:BIDU) confirmed that it was entering the red-hot electric-vehicle (EV) market. The company plans to set up an independent subsidiary co",
@@ -1347,49 +1390,6 @@
       "provider": {
         "name": "Business Daily Africa",
         "domain": "businessdailyafrica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-self-driving-pioneer-waymo-dumps-the-term-self-driving.md",
-      "title": "Self-driving pioneer Waymo dumps the term 'self-driving'",
-      "excerpt": "Waymo, the Google company that pioneered the self-driving car business, says it's done with the term, \"self-driving.\" Waymo says that some automakers are using the phrase \"self-driving ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gwinnettdailypost.com/news/business/self-driving-pioneer-waymo-dumps-the-term-self-driving/article_892f18a8-89fa-58a0-8f0c-c94cf3f29e3d.html",
-      "originalUrl": "https://www.gwinnettdailypost.com/news/business/self-driving-pioneer-waymo-dumps-the-term-self-driving/article_892f18a8-89fa-58a0-8f0c-c94cf3f29e3d.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/gwinnettdailypost.com/content/tncms/assets/v3/editorial/6/0a/60adf668-318b-5b7a-9870-c270ef3b67fe/5ff6012a07900.image.jpg?resize=1120%2C630",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-06T11:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gwinnett Daily Post",
-        "domain": "gwinnettdailypost.com",
         "images": null,
         "publishers": null,
         "authors": null

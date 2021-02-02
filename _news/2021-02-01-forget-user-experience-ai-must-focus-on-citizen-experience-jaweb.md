@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 611
         isCached: true
-  - title: "Indian consumers feel AI drives better consumer experiences: Pega survey"
-    excerpt: "Indian consumers were more trusting of new technologies like AI if they see the potential to improve their productivity and make things simpler."
-    publishedDateTime: 2021-01-28T08:45:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/information-tech/indian-consumers-feel-ai-drives-better-consumer-experiences-pega-survey/articleshow/80497146.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/information-tech/indian-consumers-feel-ai-drives-better-consumer-experiences-pega-survey/amp_articleshow/80497146.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/information-tech/indian-consumers-feel-ai-drives-better-consumer-experiences-pega-survey/amp_articleshow/80497146.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 58
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-486248,msid-80497126/artificial-intelligence.jpg"
-        width: 600
-        height: 450
-        isCached: true
 
 secured: "jRV/pf1KYRRnzcu6gn20eZFZuQrKHX918V0ZYfo3hL0lTPSSPcXmSgoEqsGAYpuT3S83HUDoWlI6HMG0f0W+Go9nY/9traD1ec4E7YTAH7H2SNdJXPi/te+HEgmdknA/5rVdOUa5UZ6IIpEAuwFVpcdaXTX+xbixc6Oo1bAHEeDec4DVOL/+9KGXF39kk0rk+AgIuXflq5ccsFyT47xhKvoa4f3uGFT8USHVRrY/SC3VPnXXfUfT7XiBuO3QmtyYxV8/JCmEAHL6au3oSg3GVdoq4pO3oGd5hCEWgYz8hc3y1/jE6N7UsquvuobUBxK7hkPQTKuxOOapVfK9Loe4Ibp00Ryg3A5br260qA/g4dVdDhvYqoGZPyS5wAujPTrIsO9d73xHH8Iby5TpZLIvQxhiofGJtlgAcIbq8IsU/vHud/QcDtWcFNyGozL/r4jgEve7QQHip7BEFUATyt1Q03ncXczSmjeK/c6/AFXUad4FKQaamRSdko4sL9ZDQKwaLzlCh1n7XzcMAwTd6bAuDQ==;U41j2mlLIgLttOvOZIjFPg=="
 ---

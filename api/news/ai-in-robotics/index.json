@@ -462,6 +462,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-29-us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai.md",
+      "title": "US, China or Europe? Here's who is really winning the global race for AI",
+      "excerpt": "A new report shows that in the ever-more competitive race for AI, the US has a strong lead that China is catching up with, while the EU is falling behind little by little.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai/",
+      "originalUrl": "https://www.zdnet.com/article/us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/12/08/d2cda70e-e16c-48b0-b7cd-8321360bd6e5/woman-surrounded-by-high-tech-600-x-337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai/",
+      "publishedDateTime": "2021-01-29T04:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-01-29-robot-empowerment-a-viable-alternative-to-asimovs-three-laws-of-robotics.md",
       "title": "Robot empowerment - a viable alternative to Asimov's three laws of robotics?",
       "excerpt": "Human-robot interaction is upon us - we're in dire need of a framework that makes sense. Asimov's three laws of robotics are one model, but is it applicable to today's robots? An alternative based on robot \"empowerment\" is worth a close look.",
@@ -1388,58 +1440,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-100-years-later-the-future-of-robots-still-lies-in-science-fiction.md",
-      "title": "100 Years Later, The Future Of Robots Still Lies In Science Fiction",
-      "excerpt": "Every year there is some version of this remembrance on the internet, dated January 25th and full of science fiction references and doom-saying. This is the 2021 version. Today marks the 100th anniversary of the first use of the term \"robot\" to describe a non-human,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/curtissilver/2021/01/25/100-years-later-the-future-of-robots-still-lies-in-science-fiction/",
-      "originalUrl": "https://www.forbes.com/sites/curtissilver/2021/01/25/100-years-later-the-future-of-robots-still-lies-in-science-fiction/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600da4573c6f05ba1eaa23c9%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/curtissilver/2021/01/25/100-years-later-the-future-of-robots-still-lies-in-science-fiction/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/curtissilver/2021/01/25/100-years-later-the-future-of-robots-still-lies-in-science-fiction/amp/",
-      "publishedDateTime": "2021-01-25T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

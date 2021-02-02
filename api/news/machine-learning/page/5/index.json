@@ -2,6 +2,104 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-12-31-3-machine-learning-stocks-for-a-touchless-society.md",
+      "title": "3 Machine Learning Stocks for a Touchless Society",
+      "excerpt": "Investors looking for a high-growth play will find this machine learning stock a great buy. DocuSign is best known for its e-signature service which ... She is a financial writer and analyst ...",
+      "sourceUrl": null,
+      "webUrl": "https://investorplace.com/2020/12/3-machine-learning-stocks-for-a-touchless-society/",
+      "originalUrl": "https://investorplace.com/2020/12/3-machine-learning-stocks-for-a-touchless-society/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2020/12/ai-stocks-1600-1.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://investorplace.com/2020/12/3-machine-learning-stocks-for-a-touchless-society/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/12/3-machine-learning-stocks-for-a-touchless-society/amp/",
+      "publishedDateTime": "2020-12-31T05:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-12-31-you-dont-code-do-machine-learning-straight-from-microsoft-excel.md",
+      "title": "You don’t code? Do machine learning straight from Microsoft Excel",
+      "excerpt": "Machine learning and deep learning have become an important part of many applications we use every day. There are few domains that the fast expansion of machine learning hasn’t touched. Many businesses have thrived by developing the right strategy to integrate machine learning algorithms into their operations and processes.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/30/you-dont-code-do-machine-learning-straight-from-microsoft-excel/",
+      "originalUrl": "https://venturebeat.com/2020/12/30/you-dont-code-do-machine-learning-straight-from-microsoft-excel/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/Excel-machine-learning-AI.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/30/you-dont-code-do-machine-learning-straight-from-microsoft-excel/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/30/you-dont-code-do-machine-learning-straight-from-microsoft-excel/amp/",
+      "publishedDateTime": "2020-12-30T17:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-31-3-machine-learning-stocks-for-a-profitable-2021-portfolio.md",
       "title": "3 Machine Learning Stocks for a Profitable 2021 Portfolio",
       "excerpt": "Machine Learning (“ML”) is being integrated into everything, starting from business needs to consumer needs in the Artificial Intelligence ... on the back of its Waymo vehicles, which are ...",
@@ -1326,103 +1424,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-forecast-2021-artificial-intelligence-during-covid-and-beyond.md",
-      "title": "Forecast 2021: Artificial Intelligence during COVID and beyond",
-      "excerpt": "Artificial intelligence has been a sector to watch during the pandemic. The enterprise has been seeking new routes to efficiency, organizations with an abundance of furloughed or fired workers have bandwidth crunches,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/forecast-for-2021-artificial-intelligence-during-covid-and-beyond/",
-      "originalUrl": "https://www.zdnet.com/article/forecast-for-2021-artificial-intelligence-during-covid-and-beyond/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/12/18/a27716e3-910e-475e-8d53-d164555a9b5f/art-intellig.jpg",
-          "width": 960,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/forecast-for-2021-artificial-intelligence-during-covid-and-beyond/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/forecast-for-2021-artificial-intelligence-during-covid-and-beyond/",
-      "publishedDateTime": "2020-12-17T20:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-kangaroo-court-ai-education-machine-learning.md",
-      "title": "Kangaroo Court: AI Education – Machine Learning",
-      "excerpt": "The past five years have witnessed a steady growth in both the testing and application of AI solutions for both legal ops and litigation teams. Whilst many of these applications are early stage, some are beginning to see enterprise-wide adoption.",
-      "sourceUrl": null,
-      "webUrl": "https://aceds.org/kangaroo-court-ai-education-machine-learning/",
-      "originalUrl": "https://aceds.org/kangaroo-court-ai-education-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://aceds.org/wp-content/uploads/2020/10/Kangaroo-Court_Blog-3-1030x515-1.png",
-          "width": 1030,
-          "height": 515,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-17T17:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ACEDS",
-        "domain": "aceds.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

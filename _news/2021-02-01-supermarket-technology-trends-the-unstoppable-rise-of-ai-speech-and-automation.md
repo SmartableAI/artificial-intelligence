@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "SLAS Technology Special collection on artificial intelligence in process automation now available"
+    excerpt: "SLAS Technology Special collection on artificial intelligence in process automation now available Newswise - Oak Brook, IL - The February"
+    publishedDateTime: 2021-02-01T23:23:00Z
+    webUrl: "https://www.compsmag.com/news/technology/slas-technology-special-collection-on-artificial-intelligence-in-process-automation-now-available/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/slas-technology-special-collection-on-artificial-intelligence-in-process-automation-now-available/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/slas-technology-special-collection-on-artificial-intelligence-in-process-automation-now-available/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 59
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/SLAS-Technology-Special-collection-on-artificial-intelligence-in-process-automation-1024x1024.jpg"
+        width: 1024
+        height: 1024
+        isCached: true
   - title: "SLAS Technology special collection on AI in process automation now available"
     excerpt: "SLAS Technology special collection on AI in process automation now available Oak Brook, IL - The February edition of SLAS Technology is a"
     publishedDateTime: 2021-02-01T22:46:00Z
@@ -56,20 +72,6 @@ related:
       - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Speech Processing Solutions: Next-generation Workflow Solution With AI-powered Speech Recognition, Now in Australia"
-    excerpt: "The new version of the Philips dictation workflow solution for enterprise businesses, SpeechExec Enterprise 7.0 (SEE 7.0) is now available in Australia. The close collaboration between Nuance Communications and Speech Processing Solutions,"
-    publishedDateTime: 2021-01-28T08:01:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-australia-oceania-voice-recognition-computing-and-information-technology-47f0b2ed891945d782c47422affab686"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 32
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "mhL0V8uIBgmsSSWbNuxpjK98Bobd7EY3OQ+Vu/qtV4bKDo6KtQWJOc1HKpRccXXYFJK/Y3v394uEBTOEOMTtMQ1KyBwa6nZg9gVAqAKDSsgwooWFCowcwoF39+0slqKOO1PBHZLzAasZYsjojaM/YsDWGzEcCQoH7a+syh2O05puz2rIEVzABXWvHtWGYuJ5BVecF33rI87kxUrvLDQWyjOka6DIzoZMLYvF4WjOsNv368Jw8FTc8A1naw8437nN+dYgTnsuwBwOe78KtweHTuV6xSqVWqL0yhkfIF1/cXZAa16j1DzWCwKCPYJxsnUW95Zc5SUYzHTptBONatRxYNSq/r6e2Bt0b9zuYxtUYXAKThT5eykucAu1CW5a/soZ0cgM1fDDUFyKbedO0tYjaWixJeB+oYJ6NEBGFajSFS393S0TDUtgVsLRBDRrFaeKRN/gSi79942IWomt+gsG9bu/ceT72w+0NcV/StVY46ZNcpLVeKrcJGTCdn0Li8JAa32YXE0o/p5bfzLouENxkg==;aIuaxOwmPwdRAB6vwHUOuw=="

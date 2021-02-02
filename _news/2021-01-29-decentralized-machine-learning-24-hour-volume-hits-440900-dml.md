@@ -9,8 +9,8 @@ ampWebUrl: "https://www.modernreaders.com/news/2021/01/28/decentralized-machine-
 cdnAmpWebUrl: "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2021/01/28/decentralized-machine-learning-24-hour-volume-hits-4409-00-dml.html/amp"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: modernreaders.com
@@ -27,6 +27,17 @@ related:
     webUrl: "https://theenterpriseleader.com/2021/01/29/decentralized-machine-learning-dml-24-hour-volume-hits-9542-00.html"
     ampWebUrl: "https://theenterpriseleader.com/2021/01/29/decentralized-machine-learning-dml-24-hour-volume-hits-9542-00.html/amp"
     cdnAmpWebUrl: "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2021/01/29/decentralized-machine-learning-dml-24-hour-volume-hits-9542-00.html/amp"
+    type: article
+    provider:
+      name: theenterpriseleader.com
+      domain: theenterpriseleader.com
+    quality: 54
+  - title: "Decentralized Machine Learning (DML) Price Tops $0.0010"
+    excerpt: "Decentralized Machine Learning (CURRENCY:DML) traded down 8.5% against the dollar during the 1-day period ending at 7:00 AM E.T. on February 1st. Decentralized Machine Learning has a market capitalization of $259,"
+    publishedDateTime: 2021-02-02T00:09:00Z
+    webUrl: "https://theenterpriseleader.com/2021/02/01/decentralized-machine-learning-dml-price-tops-0-0010.html"
+    ampWebUrl: "https://theenterpriseleader.com/2021/02/01/decentralized-machine-learning-dml-price-tops-0-0010.html/amp"
+    cdnAmpWebUrl: "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2021/02/01/decentralized-machine-learning-dml-price-tops-0-0010.html/amp"
     type: article
     provider:
       name: theenterpriseleader.com

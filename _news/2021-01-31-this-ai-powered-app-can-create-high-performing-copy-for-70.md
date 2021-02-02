@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/copysmith-155548549.html"
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/copysmith-155548549.html"
 type: article
 quality: 87
-heat: 89
+heat: 87
 published: true
 
 provider:

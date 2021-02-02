@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/glenngow/2021/01/31/mckinsey-winning-co
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2021/01/31/mckinsey-winning-companies-are-increasing-their-investment-in-ai-during-covid-19-what-do-they-know-that-you-dont/amp/"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://i.insider.com/60144cb2a7c0c4001991de31?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Pro-Vigil Research Finds 20% of Companies Experienced an Increase in Physical Security Incidents Since the Start of COVID-19"
-    excerpt: "Vigil, a provider of remote video monitoring, management and crime deterrence solutions, today published a research report indicating that a significant number of companies have updated their security strategies in the wake of the COVID-19 pandemic."
-    publishedDateTime: 2021-01-28T08:17:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/covid-19-pandemic-health-coronavirus-pandemic-lung-disease-diseases-and-conditions-ea6f79eace008236b7adbc7b47820a2b"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 12
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "x3TzCMmkgbk1JW5Fu3VKI2+aehTCBtj5n+m9Y+nYY9BMvbuWzokDkTD1KQETJbRslABY6TKfzHMtxfEidoU3laoLVeJscFd1xZ+x8d5sSVbcuCVpPJlPgwS5Z28MlsXGA2L4xrUJTxkDBrPwYR3S33oLf/Dhpki6cDviJtYn6z4LdfqEqEyaN/SfyHEqaF/vbXYfNxvVvmrtknmwvW7yuFTlSeEA6OOOTxzhH6S8d+XeeOYVcX0Uyw098tR3AponBPaN8lZyTpnegj1/XOWa6bgVjvL0DJy9kHpBZidXN8kuxq3Ms+C6jSJ/6/tX17TXXTY2D217lqVvMW9fIje++H0hbvcncsLN36rOaGpr+A+KVr66yL8LfTIjbUHi/h4LIdPz7YSCaax60/H2JjN3OXlmEKAUl9AbBIfQAo4pcD7MyC0+q/Gjy3obAHofNSBl8H5jR8oVPzvEBEehAD3Z7JBdz+s/FhQMi8ZCFH2UDfNbqu/qxovrzZ2mz6clEZNSuSSw1GfG5WrzLj0VkuVhgg==;iJ06TLMnFoJNQDuby2NmSg=="

@@ -57,20 +57,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "New AI-severity score COVID-19 integrating CT images published to Nature Communications"
-    excerpt: "Owkin, a French-American startup pioneering AI and Federated Learning in medical research, has been focusing it's COVID-19 research efforts on aspects of the pandemic that still require much public health attention,"
-    publishedDateTime: 2021-01-28T16:52:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-01/oi-nas012821.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 29
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Research proposals to address COVID-19 challenges sought"
     excerpt: "Washington University's McDonnell International Scholars Academy and Social Policy Institute seek proposals from WashU researchers and their international partners to identify and address the challenges of COVID-19 through artificial intelligence,"
     publishedDateTime: 2021-02-01T20:28:00Z

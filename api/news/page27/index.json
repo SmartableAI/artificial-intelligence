@@ -2,6 +2,299 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2021-01-12-artificial-intelligence-ai-in-healthcare-market-is-expected-to-reach-462-billion-usd-by-2026-at-a-cagr-of-448.md",
+      "title": "Artificial Intelligence (AI) In Healthcare Market is Expected to reach 46.2 billion USD by 2026, at a CAGR of 44.8%",
+      "excerpt": "In Healthcare Market size is expected to grow from USD 4.8 billion in 2020 and reach USD 46.2 billion by 2026; it is projected to grow at a CAGR of 44.8% during the forecast period. The report presents the market competitive landscape and a corresponding detailed analysis of the major vendor/key players in the market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-is-expected-to-reach-462-billion-usd-by-2026-at-a-cagr-of-448-2021-01-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-is-expected-to-reach-462-billion-usd-by-2026-at-a-cagr-of-448-2021-01-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-11T22:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-ftc-settles-facial-recognition-misuse-suit-with-everalbum.md",
+      "title": "FTC Settles Facial Recognition Misuse Suit With Everalbum",
+      "excerpt": "Law Street provides accessible, client-focused legal news designed to inform readers and connect lawyers with the legal needs in their field.",
+      "sourceUrl": null,
+      "webUrl": "https://lawstreetmedia.com/tech/ftc-settles-facial-recognition-misuse-suit-with-everalbum/",
+      "originalUrl": "https://lawstreetmedia.com/tech/ftc-settles-facial-recognition-misuse-suit-with-everalbum/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lawstreetmedia.com/wp-content/uploads/2020/03/iStock-1165990649-1024x683.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://lawstreetmedia.com/tech/ftc-settles-facial-recognition-misuse-suit-with-everalbum/amp/",
+      "cdnAmpWebUrl": "https://lawstreetmedia-com.cdn.ampproject.org/c/s/lawstreetmedia.com/tech/ftc-settles-facial-recognition-misuse-suit-with-everalbum/amp/",
+      "publishedDateTime": "2021-01-11T22:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Law Street Media",
+        "domain": "lawstreetmedia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-a-new-technique-called-concept-whitening-promises-to-provide-neural-network-interpretability-venturebeat.md",
+      "title": "A new technique called 'concept whitening' promises to provide neural network interpretability | VentureBeat",
+      "excerpt": "\"Concept whitening\" can help steer neural networks toward learning specific concepts without sacrificing performance.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/12/a-new-technique-called-concept-whitening-promises-to-provide-neural-network-interpretability/?via=indexdotco",
+      "originalUrl": "https://venturebeat.com/2021/01/12/a-new-technique-called-concept-whitening-promises-to-provide-neural-network-interpretability/?via=indexdotco",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/11/shutterstock_577251916-e1586532869922.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/12/a-new-technique-called-concept-whitening-promises-to-provide-neural-network-interpretability/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/12/a-new-technique-called-concept-whitening-promises-to-provide-neural-network-interpretability/amp/",
+      "publishedDateTime": "2021-01-11T22:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-artificial-intelligence-for-edge-devices-booming-segments-investors-seeking-growth-baidu-intel-google.md",
+      "title": "Artificial Intelligence for Edge Devices Booming Segments; Investors Seeking Growth| Baidu, Intel, Google",
+      "excerpt": "Global Artificial Intelligence for Edge Devices Industry Market Report-Development Trends, Threats, Opportunities and Competitive Landscape in 2020 This report studies the COVID-19 Outbreak-Global Artificial Intelligence for Edge Devices market size,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-edge-devices-booming-segments-investors-seeking-growth-baidu-intel-google-2021-01-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-edge-devices-booming-segments-investors-seeking-growth-baidu-intel-google-2021-01-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-11T21:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-thundercomm-introduces-its-latest-edge-ai-box-and-e-cockpit-solution-at-ces-2021.md",
+      "title": "Thundercomm Introduces Its Latest Edge AI Box and E-cockpit Solution at CES 2021",
+      "excerpt": "PRNewswire/ -- Thundercomm, a world-leading IoT product and solution provider, today introduces its unparalleled Edge AI Box--EB5 and E-cockpit Solution 4.5 at CES 2021, from Jan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/thundercomm-introduces-its-latest-edge-ai-box-and-e-cockpit-solution-at-ces-2021/article_d2c408a0-8d0b-5b57-bfc4-ad10b41d9240.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/thundercomm-introduces-its-latest-edge-ai-box-and-e-cockpit-solution-at-ces-2021/article_d2c408a0-8d0b-5b57-bfc4-ad10b41d9240.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-11T21:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-absci-acquires-ai-startup-denovium-to-boost-synthetic-biology-platform.md",
+      "title": "AbSci acquires AI startup Denovium to boost synthetic biology platform",
+      "excerpt": "AbSci has acquired Denovium, a 6-person bootstrapped startup out of San Diego that uses deep learning to analyze the function and behavior of proteins. The deal will help bolster AbSci'",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2021/absci-acquires-ai-startup-denovium-boost-synthetic-biology-platform/",
+      "originalUrl": "https://www.geekwire.com/2021/absci-acquires-ai-startup-denovium-boost-synthetic-biology-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/10/Sean_McClain__2-258x300.jpg",
+          "width": 258,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2021/absci-acquires-ai-startup-denovium-boost-synthetic-biology-platform/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/absci-acquires-ai-startup-denovium-boost-synthetic-biology-platform/amp/",
+      "publishedDateTime": "2021-01-11T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-natural-language-processing-in-bfsi-market-status-and-global-outlook-2021-2025.md",
       "title": "Natural Language Processing in BFSI Market Status and Global Outlook 2021-2025",
       "excerpt": "Global Natural Language Processing in BFSI Market research report published by market intelligence data explores",
@@ -925,307 +1218,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-get-ready-for-really-low-power-ai-synaptics-and-eta-compute-envision-neural-nets-that-observe-every-sound-motion.md",
-      "title": "Get ready for really low-power AI: Synaptics and Eta Compute envision neural nets that observe every sound, motion",
-      "excerpt": "Eta was one of the first companies to implement Google's TFMicro implementation of TensorFlow for embedded devices. What sets Eta apart from other companies in edge inference, said Haddad ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/get-ready-for-really-low-power-ai-synaptics-and-eta-compute-envision-neural-nets-that-will-observe-every-sound-every-motion/",
-      "originalUrl": "https://www.zdnet.com/article/get-ready-for-really-low-power-ai-synaptics-and-eta-compute-envision-neural-nets-that-will-observe-every-sound-every-motion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2021/01/11/d58010c3-32cd-4d8c-b27a-8e81f9e68010/eta-compute-ecm3532-ai-sensor-board-top.jpg",
-          "width": 1500,
-          "height": 817,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/get-ready-for-really-low-power-ai-synaptics-and-eta-compute-envision-neural-nets-that-will-observe-every-sound-every-motion/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/get-ready-for-really-low-power-ai-synaptics-and-eta-compute-envision-neural-nets-that-will-observe-every-sound-every-motion/",
-      "publishedDateTime": "2021-01-11T11:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-ai-devs-claim-theyve-created-a-robot-that-demonstrates-a-primitive-form-of-empathy.md",
-      "title": "AI devs claim they’ve created a robot that demonstrates a ‘primitive form of empathy’",
-      "excerpt": "Columbia University researchers have developed a robot that displays a \"glimmer of empathy\" by visually predicting how another machine will behave.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/01/11/ai-devs-claim-theyve-created-a-robot-that-demonstrates-a-primitive-form-of-empathy/",
-      "originalUrl": "https://thenextweb.com/neural/2021/01/11/ai-devs-claim-theyve-created-a-robot-that-demonstrates-a-primitive-form-of-empathy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/Untitled-design-2021-01-11T181530.219-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/01/11/ai-devs-claim-theyve-created-a-robot-that-demonstrates-a-primitive-form-of-empathy/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/11/ai-devs-claim-theyve-created-a-robot-that-demonstrates-a-primitive-form-of-empathy/amp/",
-      "publishedDateTime": "2021-01-11T11:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-scientists-use-supercomputers-and-ai-to-determine-how-good-or-deadly-your-street-drugs-are.md",
-      "title": "Scientists use supercomputers and AI to determine how good (or deadly) your street drugs are",
-      "excerpt": "A team of researchers from the University of Victoria have developed an AI system capable of determining the expected chemical makeup of drugs. While it involves supercomputers and a robust cocktail of cloud-based machine learning technologies,",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/01/11/scientists-use-supercomputers-and-ai-to-determine-how-good-or-deadly-your-street-drugs-are/",
-      "originalUrl": "https://thenextweb.com/neural/2021/01/11/scientists-use-supercomputers-and-ai-to-determine-how-good-or-deadly-your-street-drugs-are/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/drugs-796x418.jpg",
-          "width": 796,
-          "height": 418,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/01/11/scientists-use-supercomputers-and-ai-to-determine-how-good-or-deadly-your-street-drugs-are/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/11/scientists-use-supercomputers-and-ai-to-determine-how-good-or-deadly-your-street-drugs-are/amp/",
-      "publishedDateTime": "2021-01-11T11:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-how-ai-will-guide-corporations-part-1-by-redefining-roles.md",
-      "title": "How AI Will Guide Corporations, Part 1: By Redefining Roles",
-      "excerpt": "For the first article in my three-part series, I’ll walk you through how, guided by AI, executive roles within companies will change in the 2020s. Companies have long assigned new responsibilities to some executive roles,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/01/11/how-ai-will-guide-corporations-part-1-by-redefining-roles/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/01/11/how-ai-will-guide-corporations-part-1-by-redefining-roles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa5643b70f34f885c49aa56%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/01/11/how-ai-will-guide-corporations-part-1-by-redefining-roles/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/01/11/how-ai-will-guide-corporations-part-1-by-redefining-roles/amp/",
-      "publishedDateTime": "2021-01-11T10:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-argus-research-analysts-highlight-5-of-their-top-stock-picks-for-2021.md",
-      "title": "Argus Research Analysts Highlight 5 Of Their Top Stock Picks For 2021",
-      "excerpt": "Several leading experts from Argus reveal their favorite investment ideas for the year ahead — included as part of our annual MoneyShow 2021 Top Picks report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moneyshow/2021/01/11/argus-research-analysts-highlight-5-of-their-top-stock-picks-for-2021/",
-      "originalUrl": "https://www.forbes.com/sites/moneyshow/2021/01/11/argus-research-analysts-highlight-5-of-their-top-stock-picks-for-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ffc9778d3d641fe5ab07647%2F0x0.jpg",
-          "width": 1200,
-          "height": 1112,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moneyshow/2021/01/11/argus-research-analysts-highlight-5-of-their-top-stock-picks-for-2021/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moneyshow/2021/01/11/argus-research-analysts-highlight-5-of-their-top-stock-picks-for-2021/amp/",
-      "publishedDateTime": "2021-01-11T10:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-samsung-unveils-trio-of-new-robots-to-help-out-around-the-house.md",
-      "title": "Samsung unveils trio of new robots to help out around the house",
-      "excerpt": "Samsung has unveiled a range of new robots designed to help out around the home – capable of filling the dishwasher and even pouring owners a glass of wine.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eveningexpress.co.uk/news/samsung-unveils-trio-of-new-robots-to-help-out-around-the-house/",
-      "originalUrl": "https://www.eveningexpress.co.uk/news/samsung-unveils-trio-of-new-robots-to-help-out-around-the-house/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wpcluster.dctdigital.com/eveningexpress/wp-content/uploads/sites/54/2021/01/368c9412-3124-4fa6-809a-468ee7adf1ff-scaled.jpg",
-          "width": 2560,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.eveningexpress.co.uk/news/samsung-unveils-trio-of-new-robots-to-help-out-around-the-house/amp/",
-      "cdnAmpWebUrl": "https://www-eveningexpress-co-uk.cdn.ampproject.org/c/s/www.eveningexpress.co.uk/news/samsung-unveils-trio-of-new-robots-to-help-out-around-the-house/amp/",
-      "publishedDateTime": "2021-01-11T10:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Evening Express",
-        "domain": "eveningexpress.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

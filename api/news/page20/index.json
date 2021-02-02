@@ -2,6 +2,311 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-01-16-ai-weekly-meet-the-people-trying-to-replicate-and-open-source-openais-gpt-3.md",
+      "title": "AI Weekly: Meet the people trying to replicate and open-source OpenAI’s GPT-3",
+      "excerpt": "A grassroots group of researchers is attempting to create an open source language model as powerful as OpenAI's GPT-3.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/15/ai-weekly-meet-the-people-trying-to-replicate-and-open-source-openais-gpt-3/",
+      "originalUrl": "https://venturebeat.com/2021/01/15/ai-weekly-meet-the-people-trying-to-replicate-and-open-source-openais-gpt-3/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-15T11:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-16-feature-store-repositories-emerge-as-an-mlops-linchpin-for-advancing-ai.md",
+      "title": "Feature store repositories emerge as an MLOps linchpin for advancing AI",
+      "excerpt": "A race to build an MLOps ecosystem around feature store repositories is now uderway as organizations look for ways to accelerate AI projects",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/15/feature-store-repositories-emerge-as-an-mlops-linchpin-for-advancing-ai/",
+      "originalUrl": "https://venturebeat.com/2021/01/15/feature-store-repositories-emerge-as-an-mlops-linchpin-for-advancing-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/tecton-feature-store.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/15/feature-store-repositories-emerge-as-an-mlops-linchpin-for-advancing-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/15/feature-store-repositories-emerge-as-an-mlops-linchpin-for-advancing-ai/amp/",
+      "publishedDateTime": "2021-01-15T11:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-16-in-brain-imaging-deep-learning-beats-standard-machine-learning.md",
+      "title": "In Brain Imaging, Deep Learning Beats Standard Machine Learning",
+      "excerpt": "Deep learning models were able to detect patterns and discriminative features in brain imaging better than standard machine learning tools.",
+      "sourceUrl": null,
+      "webUrl": "https://healthitanalytics.com/news/in-brain-imaging-deep-learning-beats-standard-machine-learning",
+      "originalUrl": "https://healthitanalytics.com/news/in-brain-imaging-deep-learning-beats-standard-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-513688464.jpg",
+          "width": 690,
+          "height": 402,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-15T10:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics",
+        "domain": "healthitanalytics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-16-microsofts-new-settings-let-users-contribute-recordings-to-improve-its-speech-recognition-systems.md",
+      "title": "Microsoft’s new settings let users contribute recordings to improve its speech recognition systems",
+      "excerpt": "Microsoft today announced it will give customers finer-grain control over whether their voice data is used to improve its speech recognition products. The new policy will allow customers to decide ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/15/microsofts-new-settings-let-users-contribute-voice-clips-to-improve-its-speech-recognition-systems/",
+      "originalUrl": "https://venturebeat.com/2021/01/15/microsofts-new-settings-let-users-contribute-voice-clips-to-improve-its-speech-recognition-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/05/microsoft.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/15/microsofts-new-settings-let-users-contribute-voice-clips-to-improve-its-speech-recognition-systems/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/15/microsofts-new-settings-let-users-contribute-voice-clips-to-improve-its-speech-recognition-systems/amp/",
+      "publishedDateTime": "2021-01-15T09:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-16-facebook-develops-ai-to-predict-likelihood-of-worsening-covid-symptoms.md",
+      "title": "Facebook develops A.I. to predict likelihood of worsening Covid symptoms",
+      "excerpt": "The 10 researchers involved in the study — five from Facebook AI Research and five from the NYU School of Medicine — said they have developed three machine-learning \"models\" in total ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/01/15/facebook-develops-ai-to-predict-likelihood-of-worsening-covid-symptoms.html",
+      "originalUrl": "https://www.cnbc.com/2021/01/15/facebook-develops-ai-to-predict-likelihood-of-worsening-covid-symptoms.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106822467-16103929872021-01-11t191852z_1187074364_rc2v5l9jg0ho_rtrmadp_0_health-coronavirus-usa-trends.jpeg?v=1610394636",
+          "width": 3500,
+          "height": 2334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/01/15/facebook-develops-ai-to-predict-likelihood-of-worsening-covid-symptoms.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/15/facebook-develops-ai-to-predict-likelihood-of-worsening-covid-symptoms.html",
+      "publishedDateTime": "2021-01-15T09:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-16-facebook-uses-ai-to-predict-if-covid-19-patients-will-need-more-care.md",
+      "title": "Facebook uses AI to predict if COVID-19 patients will need more care",
+      "excerpt": "Using X-ray images, the three AI models Facebook developed could help hospitals decide how to allot its resources as COVID-19 cases rise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/health/facebook-uses-ai-to-predict-if-covid-19-patients-will-need-more-care/",
+      "originalUrl": "https://www.cnet.com/health/facebook-uses-ai-to-predict-if-covid-19-patients-will-need-more-care/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/5NLpgUSxfolUyoYn6sbBB6Wj6NE=/1200x630/2020/03/26/0b95f2b8-2fd9-489e-ad69-8f949cbea4f0/coronavirus-facebook-9706.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/facebook-uses-ai-to-predict-if-covid-19-patients-will-need-more-care/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-uses-ai-to-predict-if-covid-19-patients-will-need-more-care/",
+      "publishedDateTime": "2021-01-15T09:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-16-global-x-robotics-artificial-intelligence-etf-nasdaqbotz-short-interest-down-604-in-december.md",
       "title": "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Short Interest Down 60.4% in December",
       "excerpt": "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) saw a significant drop in short interest during the month of December. As of December 31st, there was short interest totalling 197,600 shares,",
@@ -912,274 +1217,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-how-to-install-tensorflow-machine-learning-framework-on-ubuntu-2004.md",
-      "title": "How to Install TensorFlow machine-learning framework on Ubuntu 20.04",
-      "excerpt": "TensorFlow is a free and open-source machine-learning platform developed by Google. It helps developers and data scientists simplify the process of implementing machine-learning models.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linuxtoday.com/infrastructure/how-to-install-tensorflow-machine-learning-framework-on-ubuntu-20.04-210113042509.html",
-      "originalUrl": "https://www.linuxtoday.com/infrastructure/how-to-install-tensorflow-machine-learning-framework-on-ubuntu-20.04-210113042509.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-14T18:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Linux Today",
-        "domain": "linuxtoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-smart-collar-translates-dog-barks-into-emotions-startup-company-says.md",
-      "title": "Smart collar translates dog barks into emotions, startup company says",
-      "excerpt": "Now you can find out what your dog is saying when it barks -- or at least, you’ll know how it’s feeling. South Korean startup Petpuls has created a smart collar that can identify five emotions in dogs using AI-enabled voice recognition technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/lifestyle/smart-dog-collar-translates-barks-emotions",
-      "originalUrl": "https://www.foxnews.com/lifestyle/smart-dog-collar-translates-barks-emotions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/iStock-156869127.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/lifestyle/smart-dog-collar-translates-barks-emotions.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/smart-dog-collar-translates-barks-emotions.amp",
-      "publishedDateTime": "2021-01-14T18:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-a-skeleton-key-for-ai-hardware-experimentation.md",
-      "title": "A Skeleton Key for AI Hardware Experimentation",
-      "excerpt": "There’s TensorFlow, Keras, PyTorch, and so on not to mention the increasingly complex interplay between ML models, software frameworks, and hardware,” says Luis Ceze, professor at the University of Washington and co-founder and co-CEO of TVM-driven ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2021/01/15/a-skeleton-key-for-ai-hardware-experimentation/",
-      "originalUrl": "https://www.nextplatform.com/2021/01/15/a-skeleton-key-for-ai-hardware-experimentation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/TVM1.png",
-          "width": 941,
-          "height": 611,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2021/01/15/a-skeleton-key-for-ai-hardware-experimentation/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/01/15/a-skeleton-key-for-ai-hardware-experimentation/amp/",
-      "publishedDateTime": "2021-01-14T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-2020-was-impossible-to-predict-can-ai-save-2021.md",
-      "title": "2020 Was Impossible To Predict. Can AI Save 2021?",
-      "excerpt": "Is 2021 the year that businesses and governments start building an AI strategy so computers can look at data the way humans too frequently don’t?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/andrewfilev/2021/01/14/2020-was-impossible-to-predict-can-ai-save-2021/",
-      "originalUrl": "https://www.forbes.com/sites/andrewfilev/2021/01/14/2020-was-impossible-to-predict-can-ai-save-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fff4443003dc6aa290e8a51%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/andrewfilev/2021/01/14/2020-was-impossible-to-predict-can-ai-save-2021/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewfilev/2021/01/14/2020-was-impossible-to-predict-can-ai-save-2021/amp/",
-      "publishedDateTime": "2021-01-14T14:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-artificial-intelligence-creates-tremendous-changes-for-the-direction-of-marketing.md",
-      "title": "Artificial Intelligence Creates Tremendous Changes for the Direction of Marketing",
-      "excerpt": "Artificial intelligence has entered numerous facets of our lives. Here’s how it is revolutionizing the business world by changing the marketing landscape.",
-      "sourceUrl": null,
-      "webUrl": "https://www.smartdatacollective.com/artificial-intelligence-creates-changes-for-direction-of-marketing/",
-      "originalUrl": "https://www.smartdatacollective.com/artificial-intelligence-creates-changes-for-direction-of-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.smartdatacollective.com/wp-content/uploads/2020/12/How-Artificial-Intelligence-is-Transforming-Business-Marketing.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.smartdatacollective.com/artificial-intelligence-creates-changes-for-direction-of-marketing/amp/",
-      "cdnAmpWebUrl": "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/artificial-intelligence-creates-changes-for-direction-of-marketing/amp/",
-      "publishedDateTime": "2021-01-14T14:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SmartData Collective",
-        "domain": "smartdatacollective.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Marketing",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-lapd-commission-oks-detectives-to-use-facial-recognition.md",
-      "title": "LAPD Commission OKs Detectives to Use Facial Recognition",
-      "excerpt": "Under the new policy, detectives can use the facial recognition database to help them in criminal investigations, and when they need to identify incapacitated, unconscious or dead people.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/public-safety/LAPD-Commission-OKs-Detectives-to-Use-Facial-Recognition.html",
-      "originalUrl": "https://www.govtech.com/public-safety/LAPD-Commission-OKs-Detectives-to-Use-Facial-Recognition.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.govtech.com/images/shutterstock_1392652700.jpg",
-          "width": 939,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/public-safety/LAPD-Commission-OKs-Detectives-to-Use-Facial-Recognition.html?AMP",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/LAPD-Commission-OKs-Detectives-to-Use-Facial-Recognition.html?AMP",
-      "publishedDateTime": "2021-01-14T13:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }
