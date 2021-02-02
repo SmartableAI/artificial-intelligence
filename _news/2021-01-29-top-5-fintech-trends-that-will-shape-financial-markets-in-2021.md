@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/362981"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/362981"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://images.cutimes.com/contrib/content/uploads/sites/413/2020/12/fintech-bank-e1607455163832.jpg"
         width: 620
         height: 414
-        isCached: true
-  - title: "Bringing wealth management to the masses via fintech"
-    excerpt: "With the help of fintech, XSpot Wealth has been able to bring top-class wealth management services to the smaller investors that traditional banks and other investment operators ignore, and it is boom"
-    publishedDateTime: 2021-01-28T15:01:00Z
-    webUrl: "https://www.worldfinance.com/wealth-management/utilising-fintech-to-bring-wealth-management-to-the-masses"
-    type: article
-    provider:
-      name: World Finance
-      domain: worldfinance.com
-    quality: 24
-    images:
-      - url: "https://www.worldfinance.com/wp-content/uploads/2021/01/fintech-600x450.jpg"
-        width: 600
-        height: 450
         isCached: true
   - title: "Must-watch Startups in Africa’s Fintech Space in 2021"
     excerpt: "More than $1.07 billion flowed into Africa’s startups in 2020, with the fintech sector accounting for 31% of this funding."

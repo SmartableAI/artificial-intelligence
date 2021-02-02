@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/02/01/self-driving-cars
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/01/self-driving-cars-are-faced-with-too-many-moving-objects-and-too-little-time/amp/"
 type: article
 quality: 73
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -75,6 +75,20 @@ related:
       - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Global Self-Driving Truck Technology Market 2020 Key Stakeholders, Subcomponent Manufacturers, Industry Association and Key Drivers Analysis to 2025"
+    excerpt: "The latest market research report titled Global Self-Driving Truck Technology Market 2020 by Company, Type and Application, Forecast to 2025 reveals the overview of the global industry, encompassing the latest industry data and industry future trends,"
+    publishedDateTime: 2021-02-02T06:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-truck-technology-market-2020-key-stakeholders-subcomponent-manufacturers-industry-association-and-key-drivers-analysis-to-2025-2021-02-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 15
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "IIa+P8yH4t1ARz4d3BzVUmXibj2LNMXQdkf/Tq/MTCUZuiHA3JeC3tx0xkgh5U3dUoV81g0sfTzULtWPn3NF0HnGUUScxV5gsSVnwFOjMe4UVy1XI4eGy9XY+8xV6OQc0oUGyIQvV8DfGQzAMqliBaB/t3nQM122jlqkH/T8vPihiaG89Xspx7nRzjh/RPfzpaJn4skcibVxqgC5jRRnEVd3yXKe1cJMqNhx2pXKtQISzRdZRJY1tRyHO7n6UoXG4kR4GwZdo2FL0IIBpjxeHNKyGpJXp/Arr6trBSgQYzOQPxg4Xg3/k6QTHG6AFhn183qdj1qv7GsRBxdUxZvjPZ6jNl7VuQQRyx+BxJtejncVW11VymO1/tFyigytqOMM8moXyaZFQA1lthyh7yW202wnbV8HPXoHl61rwMikJG8z7PpcsEvIwqQsP4PSWKUwaeFwxE1kGFtnHz8DaeFDTn5JqRuPJhnADaFRcqanfkXrU4jLhWqWr5zjK2RNJ4yzUrcfXHHC/N44NhRRBCGpIg==;f23FTZF1EHdhPVG8Vcx6Rg=="

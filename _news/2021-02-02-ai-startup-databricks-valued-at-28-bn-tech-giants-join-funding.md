@@ -27,9 +27,9 @@ related:
   - title: "Databricks, champion of data \"lakehouse\" model, closes $1B series G funding round"
     excerpt: "The company founded by the creators of Apache Spark nabs $1B in fresh funding from an array of financial services and cloud companies' venture funds, marking a vote of confidence in the data lakehouse model."
     publishedDateTime: 2021-02-01T19:33:00Z
-    webUrl: "https://www.zdnet.com/index.php/price/freetotry/index.php/article/databricks-champion-of-data-lakehouse-model-closes-1b-series-g-funding-round/"
-    ampWebUrl: "https://www.zdnet.com/index.php/price/freetotry/index.php/google-amp/article/databricks-champion-of-data-lakehouse-model-closes-1b-series-g-funding-round/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/price/freetotry/index.php/google-amp/article/databricks-champion-of-data-lakehouse-model-closes-1b-series-g-funding-round/"
+    webUrl: "https://www.zdnet.com/article/databricks-champion-of-data-lakehouse-model-closes-1b-series-g-funding-round/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/databricks-champion-of-data-lakehouse-model-closes-1b-series-g-funding-round/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/databricks-champion-of-data-lakehouse-model-closes-1b-series-g-funding-round/"
     type: article
     provider:
       name: ZDNet

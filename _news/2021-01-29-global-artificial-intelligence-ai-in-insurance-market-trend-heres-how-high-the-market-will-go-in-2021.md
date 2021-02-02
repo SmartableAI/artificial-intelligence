@@ -44,22 +44,17 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Using AI To Humanize Your Brand In 2021"
-    excerpt: "While 2021 offers the promise of a fresh start in many ways, the lessons of the recent past cannot be ignored."
-    publishedDateTime: 2021-01-28T13:20:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/01/28/using-ai-to-humanize-your-brand-in-2021/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/01/28/using-ai-to-humanize-your-brand-in-2021/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/01/28/using-ai-to-humanize-your-brand-in-2021/amp/"
+  - title: "ADVANCE.AI Launches 'Advance Intelligence Group' Parent Brand"
+    excerpt: "ADVANCE.AI, a homegrown AI and big data company in Asia helping to solve digital transformation, fraud prevention, and process automation for enterprise clients, is today formally announcing its corporate parent brand Advance Intelligence Group."
+    publishedDateTime: 2021-02-02T06:10:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/advance-ai-launches-advance-intelligence-group-parent-brand-1030031079"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/advance-ai-launches-advance-intelligence-group-parent-brand-1030031079"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/advance-ai-launches-advance-intelligence-group-parent-brand-1030031079"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601192cf859255b72531e304%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
 
 secured: "KNpX4KVuvyW+cm01lYipLmg2A6PG8A/AGe1QveB76JO/Z0qOeQ7BxgSEaWaCNm0DJ+Kl0zHMEsgXGpn6avRbOZ5FO3SQHPdonH0AN/jlgc4cgKQE19dwhqCEZiGPu5xeLO1x5Wym6imAQR/U3hmjGYvIk0nGjhmYPNFTD2VcMJ0Zs9EgPKqXALQ6+mhZlY1JzQKme9QWM4EI4vnPdQ69QujfZxN7Jxe/DFPpnpeFkbl3iyhQLnxJ4jc9xOBoKTMzTWsqgszHfCtcIh2UVvHvwgU0fafPiuslY8kvamXl3bgNLKDAj/FJqEkH4OR+f718fm38C9yu23GDdJJ+y4IOm5210FYtaeAmcLLhixfmoTQ=;lnWYWEmIqBp4mcYzYX4J4Q=="
 ---

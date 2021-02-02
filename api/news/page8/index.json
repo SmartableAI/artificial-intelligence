@@ -2,6 +2,151 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-01-27-researchers-are-working-on-a-chess-playing-ai-that-emulates-human-level-skill.md",
+      "title": "Researchers are working on a chess-playing AI that emulates human-level skill",
+      "excerpt": "This is certainly a novel concept: again, most chess and board game-playing AIs seek to beat out the best of the best. Indeed, in some cases,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/88424-researchers-working-chess-playing-ai-emulates-human-level.html",
+      "originalUrl": "https://www.techspot.com/news/88424-researchers-working-chess-playing-ai-emulates-human-level.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/01/2021-01-26-image-29.jpg",
+          "width": 1680,
+          "height": 1102,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/88424-researchers-working-chess-playing-ai-emulates-human-level.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/88424-researchers-working-chess-playing-ai-emulates-human-level.html",
+      "publishedDateTime": "2021-01-26T14:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-ny-civil-rights-advocates-back-facial-recognition-ban.md",
+      "title": "NY civil rights advocates back facial recognition ban",
+      "excerpt": "Amnesty International is calling on New York City and state officials to ban law enforcement from using facial recognition technology, saying it threatens the civil rights of",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/0b06e8acd185ef9229ae748c9a640457",
+      "originalUrl": "https://apnews.com/0b06e8acd185ef9229ae748c9a640457",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/afs-prod/media/679a8bec16954685bad51568fde1bf5e/3000.jpeg",
+          "width": 3000,
+          "height": 1785,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-26T14:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-tealbook-raises-144-million-to-aggregate-procurement-data-with-ai.md",
+      "title": "Tealbook raises $14.4 million to aggregate procurement data with AI",
+      "excerpt": "Tealbook, a startup developing a platform that extracts and aggregates procurement data from around the web, raised $14.4 million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/26/tealbook-raises-14-4-million-to-aggregate-procurement-data-with-ai/",
+      "originalUrl": "https://venturebeat.com/2021/01/26/tealbook-raises-14-4-million-to-aggregate-procurement-data-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/26/tealbook-raises-14-4-million-to-aggregate-procurement-data-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/26/tealbook-raises-14-4-million-to-aggregate-procurement-data-with-ai/amp/",
+      "publishedDateTime": "2021-01-26T14:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-27-what-real-ai-developers-and-black-mirror-both-get-wrong-about-digital-resurrection.md",
       "title": "What real AI developers and Black Mirror both get wrong about digital resurrection",
       "excerpt": "One day we’re all going to die. Science and technology can put it off for awhile, but the march of time stops for no human. Sadly, most of us will be forgotten. It’s a bleak prognosis but that’s how things have always been.",
@@ -1076,152 +1221,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-nvidia-geforce-rtx-3080-mobile-review-the-fastest-laptop-gpu-just-arrived.md",
-      "title": "Nvidia GeForce RTX 3080 mobile review: The fastest laptop GPU just arrived",
-      "excerpt": "Nvidia’s new GeForce RTX 30-series laptops offer very impressive graphics performance, even compared to some of the biggest and heaviest laptops around.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcworld.com/article/3604615/nvidia-geforce-rtx-3080-review-the-fastest-laptop-gpu-just-arrived.html",
-      "originalUrl": "https://www.pcworld.com/article/3604615/nvidia-geforce-rtx-3080-review-the-fastest-laptop-gpu-just-arrived.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/09/ampere-vs-20-100857189-large.jpg",
-          "width": 1199,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcworld.com/article/3604615/nvidia-geforce-rtx-3080-review-the-fastest-laptop-gpu-just-arrived.amp.html",
-      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3604615/nvidia-geforce-rtx-3080-review-the-fastest-laptop-gpu-just-arrived.amp.html",
-      "publishedDateTime": "2021-01-26T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-understanding-the-value-of-artificial-intelligence-solutions-in-your-business.md",
-      "title": "Understanding The Value Of Artificial Intelligence Solutions In Your Business",
-      "excerpt": "A starting point for any organization in AI solution deployment is to assess the current digital maturity of the organization.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/01/26/understanding-the-value-of-artificial-intelligence-solutions-in-your-business/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/01/26/understanding-the-value-of-artificial-intelligence-solutions-in-your-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600b279b38fb40a4043817d3%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/01/26/understanding-the-value-of-artificial-intelligence-solutions-in-your-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/01/26/understanding-the-value-of-artificial-intelligence-solutions-in-your-business/amp/",
-      "publishedDateTime": "2021-01-26T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-how-sas-ai-and-iot-startup-aizatron-taps-aws-infrastructure-to-be-innovative.md",
-      "title": "How SA’s AI and IoT Startup Aizatron Taps AWS Infrastructure To Be Innovative",
-      "excerpt": "South Africa’s AI, Data Systems and IoT startup Aizatron is developing future-focused technology. The startup has",
-      "sourceUrl": null,
-      "webUrl": "https://www.techfinancials.co.za/2021/01/26/how-sas-ai-and-iot-startup-aizatron-taps-aws-infrastructure-to-be-innovative/",
-      "originalUrl": "https://www.techfinancials.co.za/2021/01/26/how-sas-ai-and-iot-startup-aizatron-taps-aws-infrastructure-to-be-innovative/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://n9v2j5d8.rocketcdn.me/wp-content/uploads/2021/01/internet-of-things-4129218_640.jpg",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techfinancials.co.za/2021/01/26/how-sas-ai-and-iot-startup-aizatron-taps-aws-infrastructure-to-be-innovative/?amp",
-      "cdnAmpWebUrl": "https://www-techfinancials-co-za.cdn.ampproject.org/c/s/www.techfinancials.co.za/2021/01/26/how-sas-ai-and-iot-startup-aizatron-taps-aws-infrastructure-to-be-innovative/?amp",
-      "publishedDateTime": "2021-01-26T05:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techfinancials",
-        "domain": "techfinancials.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

@@ -49,20 +49,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Text-to-Speech Market worth $5.0 billion by 2026 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "According to the new market research report \"Text-to-Speech Market with COVID-19 Impact by Offering (Software, Services), Vertical"
-    publishedDateTime: 2021-01-28T13:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/text-to-speech-market-worth-5-0-billion-by-2026--exclusive-report-by-marketsandmarkets-301216956.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 15
-    images:
-      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=publish&p=facebook"
-        width: 669
-        height: 229
-        isCached: true
 
 secured: "Elm/gPJiUI+2Ob5EX9iQEcgjmUlPdvaghMWxSXvUVedC+vCJchMP2FHlaE4OqDv97qDoqDWDK6EjD5qzYbhxR7byjEBhXSlv0sofgSHEn/VBskk6eO3TEnkKWB3FhEjH0qp7tWvQebIzd6WV1jyCbL9UhFDtX1x/44MPgombDJoBK1wtqeytGKmZHpx/1DS2tzJL7xCaZeCEVH9AJ1dpYyJeVMH3dKkSH9Jv74wS6N7UVAL22hHb9facPIpxFP5XR40PfzrTfwKjkX30Dvrq3aGzZbkC/Zm+YUGCQrGY2O4zkptbjwqTW+Cvn7CVMd/6bGgPVlfT+2Zw+cu9SAAprscp6k8tV2VWi1lbyQvJ0YI=;CsjZb4DfqxlOZNqD6/KTuw=="
 ---

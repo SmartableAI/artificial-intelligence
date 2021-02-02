@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/budget-2021-ai-ml-analytics-ease-compliance-
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/budget-2021-ai-ml-analytics-ease-compliance-burden-check-tax-evasion/amp/"
 type: article
 quality: 71
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -71,20 +71,6 @@ related:
       - url: "https://s27389.pcdn.co/wp-content/uploads/2021/01/five-trends-machine-learning-enhanced-analytics-watch-2021.jpeg"
         width: 1080
         height: 634
-        isCached: true
-  - title: "Data Analytics and Artificial Intelligence to Propel Smart Water and Wastewater Leak Detection Solutions Market"
-    excerpt: "Frost & Sullivan's recent analysis, Data Analytics and AI Boost Accuracy to Drive Global Smart Water and Wastewater Leak Detection"
-    publishedDateTime: 2021-01-28T14:16:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/data-analytics-and-artificial-intelligence-to-propel-smart-water-and-wastewater-leak-detection-solutions-market-846058818.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 17
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
         isCached: true
 
 secured: "DG2bakb+eXrbC4WDucjW8MhvJsbavL55dR5pQJNmu2fq2pxaHYKW5T+tw3xl8yz4iDinNC7lBQxxeUkKCIxZtNqighyYJ2aCFiziDS5gE16oEITPZ1Nxjli/3mSwCIguyzVxdz412uId7O6Pb0vNlaoBDgsmhphz2GSHcmrSxR3s7bemRUDr2zmGR3EIy49EbZtBv7zmxtvjWe4u78fLmnbcHmYyTpOc+mcHMvy8C4k7YL+N3tQ39GDfzWV8nC5vQ5Gy7DuMEOPPJ7iW5Ez4O5hHVV9dAkt1i5VQ1Zs/2qd93XdpWprrn4aWuK+s2224NqxRBvy2RJM7m4iIGNUGdzaPDzSqPfcF5XaC+8KzSOePP2+YJM4/Lh4hEStXaj9LXACNzSdX6NZbvEf4oBfIElL8H0ojRmP81rJD81rrBo6PYcTsrvutmqUG8vazo1AZT3Bf76qT5E7eeknwbENh47Du7cL+9zsKMy9P5YccmpPDNKaas0jnJr7Lour7GxVrggGjzd3t12l7Fhi3LKxQ0g==;dCrjku+TbB3WXRxanflZvw=="

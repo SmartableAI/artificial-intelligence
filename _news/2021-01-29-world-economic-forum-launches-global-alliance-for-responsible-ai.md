@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "World Economic Forum launches global alliance to speed adoption of trustworthy AI"
-    excerpt: "The World Economic Forum is launching the Global AI Action Alliance today with over 100 organizations participating."
-    publishedDateTime: 2021-01-28T15:02:00Z
-    webUrl: "https://venturebeat.com/2021/01/28/world-economic-forum-launches-global-alliance-to-speed-adoption-of-trustworthy-ai/"
-    ampWebUrl: "https://venturebeat.com/2021/01/28/world-economic-forum-launches-global-alliance-to-speed-adoption-of-trustworthy-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/28/world-economic-forum-launches-global-alliance-to-speed-adoption-of-trustworthy-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/05/world-economic-forum.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "This alliance aims to accelerate the adoption of inclusive, trusted and transparent AI worldwide"
     excerpt: "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Kay Firth-Butterfield, Head of Artificial Intelligence"
     publishedDateTime: 2021-01-28T16:09:00Z
@@ -57,20 +41,6 @@ related:
         width: 752
         height: 1002
         isCached: true
-  - title: "New ID and biometrics advisory board, ethical AI alliance formed by global organizations"
-    excerpt: "The Security Industry Association announced the foundation of an Identity and Biometric Technology Advisory Board, WEF forms group to take action on AI ethics"
-    publishedDateTime: 2021-01-29T23:14:00Z
-    webUrl: "https://www.biometricupdate.com/202101/new-id-and-biometrics-advisory-board-ethical-ai-alliance-formed-by-global-organizations"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 45
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/09/23155952/advisory-board-artificial-intelligence-leadership-1024x485.jpg"
-        width: 1024
-        height: 485
-        isCached: true
   - title: "World Economic Forum launches GAIA to accelerate responsible AI adoption"
     excerpt: "The  (WEF) announced on Thursday that it was launching the Global AI Action Alliance (GAIA), an initiative to speed up development and adoption of trusted and inclusive artificial intelligence across industry sectors."
     publishedDateTime: 2021-01-29T09:57:00Z
@@ -84,6 +54,20 @@ related:
       - url: "https://www.computing.co.uk/api/v1/wps/d0973ec/fe1e0acb-05c1-4498-ae13-641b4514e455/5/weforum-370x229.jpg"
         width: 370
         height: 229
+        isCached: true
+  - title: "Sharecare acquires doc.ai to expand engineering expertise, accelerate digital transformation of healthcare through innovative AI platform"
+    excerpt: "Sharecare, the digital health company that helps people manage all their health in one place, today announced it has entered into a definitive agreement to acquire doc.ai, an enterprise artificial intelligence (AI) platform accelerating digital transformation in healthcare."
+    publishedDateTime: 2021-01-29T08:50:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-medical-technology-f093e8793a77d261cd22c39aefb766f7"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 21
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "T62UscHIoBqGqKenBn3xeFcqal/pB7qiUguyuDNKs7Zs2lAErSZEnFaJBhK3akYNtoU1R3d0qgOQ4vXEDEznipxJtQoklGLs+W7nzdJrvYQcZTFRzYx9/Bg7Zv4en5lVjCIy74Nv0RyatGq9dRjYZD2k7DI5lbr7eCD9fDpvUFQ9r0AoQ1zsUaBa3b8q7IELEKcl5I9KfmVgbCGu5Y0yKgG4qe5d2Ecp/QNuOZfh5eE6bk89gvwfnUypnO4H0eEfZ2kSPjUf6KJaUUAJOiNpsvmJJo6dZsuqEa96fHNKKQfitL49VPFHxWb3Z0SamhzPJS3ifPvr2MfDPqTlxAJQo0IYr5VzywX3wXN4sdj4czI=;Um+8ZCqMiRUZwogmHyoO7Q=="

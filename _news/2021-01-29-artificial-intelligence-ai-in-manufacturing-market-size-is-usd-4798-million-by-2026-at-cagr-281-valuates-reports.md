@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Manufacturing Market Size is USD 4798 Million by 2026 at CAGR 28.1% | Valuates Reports"
-    excerpt: "Artificial Intelligence in Manufacturing Market is Segmented by Type (Deep Learning, Computer Vision, Context Awareness, NLP), by"
-    publishedDateTime: 2021-01-28T13:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-in-manufacturing-market-size-is-usd-4798-million-by-2026-at-cagr-28-1--valuates-reports-301217278.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 28
-    images:
-      - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
-        width: 920
-        height: 482
-        isCached: true
   - title: "AI In Telecommunication Market Size USD 13450 Million By 2026 At CAGR Of 49.8% - Valuates Reports"
     excerpt: "Artificial Intelligence in Telecommunication Market is Segmented by Type Machine Learning and Deep Learning, Natural Language Processing,"
     publishedDateTime: 2021-02-01T13:35:00Z

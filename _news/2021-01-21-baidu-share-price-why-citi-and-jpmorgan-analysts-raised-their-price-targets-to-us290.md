@@ -3,8 +3,8 @@ category: news
 title: "Baidu share price: Why Citi and JPMorgan analysts raised their price targets to US$290"
 excerpt: "Baidu share price: the latest. Chinese search engine company Baidu’s share price has burgeoned roughly 19% since announcing that it would be entering the electric vehicle (EV) s"
 publishedDateTime: 2021-01-21T06:36:00Z
-originalUrl: "https://www.ig.com/sg/news-and-trade-ideas/baidu-share-price--why-citi-and-jpmorgan-analysts-raised-their-p-210121.amp"
-webUrl: "https://www.ig.com/sg/news-and-trade-ideas/baidu-share-price--why-citi-and-jpmorgan-analysts-raised-their-p-210121.amp"
+originalUrl: "https://www.ig.com/sg/news-and-trade-ideas/baidu-share-price--why-citi-and-jpmorgan-analysts-raised-their-p-210121"
+webUrl: "https://www.ig.com/sg/news-and-trade-ideas/baidu-share-price--why-citi-and-jpmorgan-analysts-raised-their-p-210121"
 ampWebUrl: "https://www.ig.com/sg/news-and-trade-ideas/baidu-share-price--why-citi-and-jpmorgan-analysts-raised-their-p-210121.amp"
 cdnAmpWebUrl: "https://www-ig-com.cdn.ampproject.org/c/s/www.ig.com/sg/news-and-trade-ideas/baidu-share-price--why-citi-and-jpmorgan-analysts-raised-their-p-210121.amp"
 type: article
@@ -23,6 +23,6 @@ images:
     height: 450
     isCached: true
 
-secured: "FNE0Skw4zyK7GMOWG0LwcW/Iqb2otoytPT0TktDfA+Bs8J9Aq6+5ioi0S8p0vCSprWma4zstLY/Z/8gF9niacCj44QqeCU1Bl/Z56QGYRAKeSUpdN9C4AAzFpEfe3F3Z3l6ZSbiTqRsN/n263cITZ0MRUA4ErWXT7n1MT5g54qL60LxH8cheQ93pd+PwimqWT6W6Ymr4WCHzFOV+IorY7OdBvpSdJZ73dSf/+9/vsign37gNQeUs9+6CysTTtgdRE77PB/ECdzq32Xxn9G/o1clgulwW7QUCHwTDZJzPvoNFF2U6h1dlYr5+OKV/dDoTYVsi9q5zhKt0vb38ZTwabXChkFhcp+U1aWQPLF4ccwE=;FVpxti/SqrlZFEw0UiCj/A=="
+secured: "/sNfEY4lhT/9ikj3cCb/pXtjeDWDxJYuHUMCJZOeLT9CWCmDAYV8sDVePM0ohyP+hOJ4kmAjxcaR3cW/slFxczjkVfx5X72UmM8svw4VacDiN1cx/QbCJMjhfXrXE5tlUf2DxYgz4p3Yp0GPNivOKxxVh1tWshUX/cXAxPxQlXErfd1XRTVgVQkmgfy1fmjrO4opICjDqOTt40140xt+IQogFoT/Ab+ATZtkX+TKz8pHPKspJFyWgPHARflQnu07pdW33CVvxeuWY4FZabBoDKd5RY8XsxkLnsUXGlORAi5ni8aYlz/a5AD/cfHLHR9YACpBvm0fUb8d6Jcu2LbJNWYp65b8vEiZ+2efU1FV1mk=;PJi0Lcl6qUTztutmd7sA9Q=="
 ---
 

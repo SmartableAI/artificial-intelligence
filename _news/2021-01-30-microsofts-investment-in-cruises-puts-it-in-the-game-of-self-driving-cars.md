@@ -74,20 +74,6 @@ related:
         width: 600
         height: 300
         isCached: true
-  - title: "WinWire launches Vaccine Management Solution Built on Microsoft Azure"
-    excerpt: "WinWire Technologies, a digital engineering services company, launched its Vaccine Management solution built on Azure. Healthcare"
-    publishedDateTime: 2021-01-28T13:38:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/winwire-launches-vaccine-management-solution-built-on-microsoft-azure-301217194.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 54
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "GM, Cruise Partners with Microsoft to Accelerate Self-Driving EV Technology | Work & Wheels"
     excerpt: "GM, Cruise Partners with Microsoft to Accelerate Self-Driving EV Technology | Work & Wheels General Motors and its self-driving car"
     publishedDateTime: 2021-01-30T05:44:00Z

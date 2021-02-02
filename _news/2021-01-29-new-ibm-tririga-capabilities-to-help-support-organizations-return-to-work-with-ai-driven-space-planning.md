@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/new-ibm-tririga-capabilit
 webUrl: "https://www.prnewswire.com/news-releases/new-ibm-tririga-capabilities-to-help-support-organizations-return-to-work-with-ai-driven-space-planning-301216821.html"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1513
     height: 792
     isCached: true
-
-related:
-  - title: "New IBM TRIRIGA Capabilities to Help Support Organizations' Return to Work with AI-Driven Space Planning"
-    excerpt: "In a recent IBM Institute for Business Value study, 59% of executives surveyed said the pandemic had accelerated their organizations' digital transformation. IBM worked closely with IBM technology partners Cisco and Esri,"
-    publishedDateTime: 2021-01-28T14:00:00Z
-    webUrl: "https://www.nasdaq.com/press-release/new-ibm-tririga-capabilities-to-help-support-organizations-return-to-work-with-ai"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 32
 
 secured: "1T/yaK4aKLKxvOjZ0HtMOXX+hl1lNgJA1uoYIhw4bnGIGRisL6Uhg1AlTQzU16Ole+eQrTqJkEQJ6xXWu1PR4n9XbzMgtiKjY+gX46Mg4/ENAQGJS9U9pK3Qwuynhlwf994EaY9wuauwR/WYFrepzD9WnbAGxmjF2RgdFEgQ5UuOiIj5+xhVmSI/DouWQK/4Zij9lVL2yvzHs4PzMTeFRmZpuOxxlXGMNUj66qVFzfJgyeNXVurrc+k8a1QnQNIIAsvwgKDwDw0zrCSai0+hzv1NGmoHulcEwdKeKzk/HJaOOLLS5jF/hBDRKOsomi7wt9AwIyJfu6A9AojhxY2P9nHpIYlXRLNBaxM6pbqFGQk=;HhCWkgkXdG6XaftbpyTyNg=="
 ---

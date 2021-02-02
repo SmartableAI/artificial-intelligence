@@ -1,10 +1,10 @@
 ---
 category: news
 title: "AI sans ethics can endanger everyone"
-excerpt: "Legislative framework on the use of AI needs to balance public interest and innovation.. Read more at straitstimes.com."
+excerpt: "It was around this time a year ago that Singapore launched the second edition of the \"Model Artificial Intelligence (AI) Governance Framework\" in Davos; the first edition was launched in January 2019."
 publishedDateTime: 2021-02-01T21:26:00Z
-originalUrl: "https://www.straitstimes.com/opinion/ai-sans-ethics-can-endanger-everyone"
-webUrl: "https://www.straitstimes.com/opinion/ai-sans-ethics-can-endanger-everyone"
+originalUrl: "https://www.straitstimes.com/opinion/ai-sans-ethics-can-endanger-everyone-0"
+webUrl: "https://www.straitstimes.com/opinion/ai-sans-ethics-can-endanger-everyone-0"
 type: article
 quality: 54
 heat: 54
@@ -19,11 +19,11 @@ topics:
   - AI
 
 images:
-  - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/02/01/staiethics02.jpg?itok=JigogX6X"
+  - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/02/02/ST_20210202_STAIETHICS_6302839.jpg?itok=J_GqevMc"
     width: 763
     height: 509
     isCached: true
 
-secured: "ThjOL4RJEHZrEbqveQVeMysrfPP6R1bkfNV8ULZYvC6YCLMbBLS1WInowQBDDTT+Rq/oLyN/mMZ5d3uXDYFEUWymS7C+6xoW/QibuoWLIubv6pKuAmW3aQqVGZq4bSrlqVNSLTeHSQVHerislf+kh6xZfifMQ2RpmoWIO44g9UslQmHGoXhQ1qcphyeQGYS4poh4OV+01nOqObXVXSSnGnucNwYdzReVZUrp1x/xE05VsSqPLsYbnUQ1j5A98Yj7eADqh2yzUBY9llGUZu94nypdNCW6n/Ps+DMrsNDGLsyQXt7TR1XpeJSbeTwx7HMOPw0YY0vLx+jh062vefpbZy33FxWTsvZNzAYw4cOMofI53kJDx91ErOlM6KD0aE0eCsaoiHUfcFr6Cu+VYxcov0vC7R2bgRB0b39HEHqoaQPiu/mqkdMlWQrX961nxebO/fbohhBAtPOE5NgG+8N6bP1Ay8Qtu3dJFslM7LjzNbU6iYEG1TFHK0NX0u2lhrETvXknvJGrvP2OrAh3R7qDBw==;ylKH1KWCw6DyN6FLMqLJ3Q=="
+secured: "4OyjLcUSU27NkQkjzrEXZ2wUuDDfxH5RenWXZYnCRMfSsnuErZDIalP44T0NAyg+vEVeHCGrXCdI0Z/zrgYVgxML3b1JY2nKvhfR3Ub3TIL83hQbdIZTEZWvt1Da2aPOqlS4uS/s9UZqC9e63LK7AucvjPFgjWk359OUKa/NrYA8Jvf0fhX90Afh/MYU9qgxWh1xJMxNo4V3GgMixFE5yEeRiUKWaBDaUFnGbSkHzR2/46kC+FoOkbCTyXOtZp0Fw2CjD3goUMWXOpsxScp7ApvmMUchYk6oADl9cjltyu7SXFOZpv4MfzA4DHNpKhhum6S8qs6a7iRXZPSa62RF4yFpQjYMWwqy9NJl6uUOKKU=;udbSDTfekQx7YwTHDznsPQ=="
 ---
 

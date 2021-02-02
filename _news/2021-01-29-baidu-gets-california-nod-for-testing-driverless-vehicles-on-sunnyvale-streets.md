@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mercurynews.com/2021/01/28/baidu-gets-california-nod-for
 cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/28/baidu-gets-california-nod-for-testing-driverless-vehicles/amp/"
 type: article
 quality: 70
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu Apollo receives driverless vehicle test permit in California"
-    excerpt: "Baidu Apollo has now been approved by the California Department of Motor Vehicles (DMV) to test driverless vehicles without a safety driver behind the wheel on public streets. This makes Baidu the"
-    publishedDateTime: 2021-01-28T13:25:00Z
-    webUrl: "https://roboticsandautomationnews.com/2021/01/28/baidu-apollo-receives-driverless-vehicle-test-permit-in-california/40012/"
-    type: article
-    provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 54
-    images:
-      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2021/01/Apollo.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "University Of Southern California and Amazon establish Center For Secure And Trusted Machine Learning"
     excerpt: "The expectation is that the center will unleash a new line of fundamental research on privacy and security aspects of machine learning –given the proliferation of artificial intelligence across all aspects of society from education to finance,"
     publishedDateTime: 2021-01-29T12:56:00Z

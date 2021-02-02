@@ -43,20 +43,6 @@ related:
         width: 1024
         height: 640
         isCached: true
-  - title: "Baidu Apollo receives driverless vehicle test permit in California"
-    excerpt: "Baidu Apollo has now been approved by the California Department of Motor Vehicles (DMV) to test driverless vehicles without a safety driver behind the wheel on public streets. This makes Baidu the"
-    publishedDateTime: 2021-01-28T13:25:00Z
-    webUrl: "https://roboticsandautomationnews.com/2021/01/28/baidu-apollo-receives-driverless-vehicle-test-permit-in-california/40012/"
-    type: article
-    provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 54
-    images:
-      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2021/01/Apollo.jpg"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "/qVTjIWHpyzCP6TPwcEQmR72ecpP+vjHZfxHQLV9XuZOjxvIKJ2nFeFxBSHdl1Ilk+kn3GwmfmhbxKWVszy7fWwHWUDr6oMCSGCFv7C8Ss7EnfZ0xsB6TQ2jSy3JTfRhS0uTlaIkKqKARHS27duGSEWVKLwj2EBUPuA80+Wq7en8PhbgCEINLls0SC096+ccnG4y4aOzYAJLM2v8zr6br8hZuJdcHaLotPfJjkCTjdAC14fgbekUdPnADyAsc96nkAGbdOnDxWjIaBSXvhjzg6OBq1730zHC+OSPmiIXinTcZQ+D/7rDjQ/aU2sLuTXOVeBmD3W/wgWP5WbF/T0Rn8UEWuBwg3fivZrPwxzw8PrSNyrB/nGMnCDHZV7JXOdJEgsxxcLi9FfqCWaqbX472ZbtctgAohC02dqPk3A8mV0c4fP2lTg8dXIpZxEElQ+kBh9hREAY2lgi86Ok0M8z6Dt+of0j02dbaro9QYxnDiBRTlvc9gE1lwRgR6FOKoNanp6gWtyBMEjG2YGwEZ1Uag==;fAUtOxrGgdO+XTTlSMrpMA=="
 ---

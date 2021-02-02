@@ -162,19 +162,19 @@
     {
       "path": "_news/2021-02-02-gdit-announces-availability-of-aws-services-on-milcloud-20.md",
       "title": "GDIT Announces Availability of AWS Services on milCloud 2.0",
-      "excerpt": "General Dynamics Information Technology (GDIT), a business unit of General Dynamics (NYSE:GD), announced today the availability of Amazon",
+      "excerpt": "PRNewswire/ -- (GDIT), a business unit of General Dynamics (NYSE:GD), announced today the availability of Amazon Web Services (AWS) through the",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/gdit-announces-availability-of-aws-services-on-milcloud-2-0--301219143.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/gdit-announces-availability-of-aws-services-on-milcloud-2-0--301219143.html",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/gdit-announces-availability-of-aws-services-on-milcloud-2-0/article_66ada851-29ba-5398-970d-7996a069b07d.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/gdit-announces-availability-of-aws-services-on-milcloud-2-0/article_66ada851-29ba-5398-970d-7996a069b07d.html",
       "featuredContent": null,
       "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1430423/GDIT_milCloud_2_0_AWS_availability.jpg?p=facebook",
-          "width": 2699,
-          "height": 1414,
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/35/835d5abc-548f-55fb-b63e-62f01825ec9e/6018f8e5c923b.image.jpg?resize=1200%2C628",
+          "width": 1200,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -187,8 +187,8 @@
       "publishedDateTime": "2021-02-01T08:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -471,10 +471,10 @@
     {
       "path": "_news/2021-01-28-pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning.md",
       "title": "Pinecone leaves stealth with $10M, launches first serverless vector database for machine learning",
-      "excerpt": "PineconeSystems Inc., a machine learning (ML) cloud infrastructure company, left stealth today with $10m in seed funding. The investment",
+      "excerpt": "Built by the team behind Amazon SageMaker and founded by scientist and former AWS Director Edo Liberty, Pinecone makes large-scale real-time inference as simple as querying a database. It is ...",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/il/news-releases/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-301216240.html",
-      "originalUrl": "https://www.prnewswire.com/il/news-releases/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-301216240.html",
+      "webUrl": "https://www.prnewswire.com/news-releases/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-301216240.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-301216240.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -493,7 +493,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-27T14:00:00-08:00",
+      "publishedDateTime": "2021-01-27T20:50:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "PR Newswire",

@@ -9,7 +9,7 @@ ampWebUrl: "https://europeansting.com/2021/01/28/this-alliance-aims-to-accelerat
 cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/01/28/this-alliance-aims-to-accelerate-the-adoption-of-inclusive-trusted-and-transparent-ai-worldwide/amp/"
 type: article
 quality: 46
-heat: -1
+heat: 46
 published: false
 
 provider:
@@ -27,36 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "World Economic Forum launches global alliance to speed adoption of trustworthy AI"
-    excerpt: "The World Economic Forum is launching the Global AI Action Alliance today with over 100 organizations participating."
-    publishedDateTime: 2021-01-28T15:02:00Z
-    webUrl: "https://venturebeat.com/2021/01/28/world-economic-forum-launches-global-alliance-to-speed-adoption-of-trustworthy-ai/"
-    ampWebUrl: "https://venturebeat.com/2021/01/28/world-economic-forum-launches-global-alliance-to-speed-adoption-of-trustworthy-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/28/world-economic-forum-launches-global-alliance-to-speed-adoption-of-trustworthy-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/05/world-economic-forum.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "New ID and biometrics advisory board, ethical AI alliance formed by global organizations"
-    excerpt: "The Security Industry Association announced the foundation of an Identity and Biometric Technology Advisory Board, WEF forms group to take action on AI ethics"
-    publishedDateTime: 2021-01-29T23:14:00Z
-    webUrl: "https://www.biometricupdate.com/202101/new-id-and-biometrics-advisory-board-ethical-ai-alliance-formed-by-global-organizations"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 45
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/09/23155952/advisory-board-artificial-intelligence-leadership-1024x485.jpg"
-        width: 1024
-        height: 485
-        isCached: true
   - title: "World Economic Forum launches global alliance for responsible AI"
     excerpt: "The World Economic Forum announced today the launch of the Global AI Action Alliance (GAIA), a new flagship initiative to accelerate the adoption of inclusive, transparent and trusted artificial intelligence globally."
     publishedDateTime: 2021-01-28T16:38:00Z
@@ -84,6 +54,20 @@ related:
       - url: "https://www.computing.co.uk/api/v1/wps/d0973ec/fe1e0acb-05c1-4498-ae13-641b4514e455/5/weforum-370x229.jpg"
         width: 370
         height: 229
+        isCached: true
+  - title: "Sharecare acquires doc.ai to expand engineering expertise, accelerate digital transformation of healthcare through innovative AI platform"
+    excerpt: "Sharecare, the digital health company that helps people manage all their health in one place, today announced it has entered into a definitive agreement to acquire doc.ai, an enterprise artificial intelligence (AI) platform accelerating digital transformation in healthcare."
+    publishedDateTime: 2021-01-29T08:50:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-medical-technology-f093e8793a77d261cd22c39aefb766f7"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 21
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "SQf1PGy8Qy5L8HVzkt8s9uCru+I5Jz+xHTukiZNbehfn34Th97eHbJ73IUwNfS7iqrjnl6IWPLnrJ2KDc4EQkGwzQ+wyXcUvkTTEw4vgu05Iqsv/ujfRuQTlDZQafk7JZ0ZS5SvP2XOuRwFblEjqKD8JC8spY4MIQ+6cSk3hN6fSdF+/00nSyJtiNfPuu2mkZIH5YZcxvj1d0viAPNK7QV4Gh36l8kDaqUy+aSmceVT5lW9wWGvbiWh4OM4hGHUxClv4ygkisgg9S0GOD926IrbzVHAav351CQLMfjd6YgU3bHkU/I4SqaDbsaTE8R8v5ibq/VSi8ZpBJLdrdoSvfh9G25wghuVkHtH2gMGdNJTVyuarGaZo+hOzm0THGQpSqZvN6SJBho1FWOHyhpW3zj6ksPEacsaZ3o5mA5kd6R5QgsD+Oo5mc7V6r14NhPNZKErXazI2+d33W5triJMu7HpewDImT9JIrxLkiPCnghbrnLXP9iTWLjmsZ8+/SDHyg15NMPhCeNeF0FBgQb8UWA==;4afLjv9jUcAOitJ7Z25vGQ=="

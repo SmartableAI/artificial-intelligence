@@ -25,19 +25,49 @@ images:
     isCached: true
 
 related:
-  - title: "Sharecare acquires Doc.ai, reportedly plans to go public via SPAC"
-    excerpt: "Sharecare, a digital health startup created by Web MD founder Jeff Arnold and Dr. Mehmet Oz, is reportedly in talks to go public through a merger with a special-purpose acquisition company. It also recently acquired startup Doc."
-    publishedDateTime: 2021-01-29T00:39:00Z
-    webUrl: "https://medcitynews.com/2021/01/sharecare-acquires-doc-ai-reportedly-plans-to-go-public-via-spac/"
+  - title: "This alliance aims to accelerate the adoption of inclusive, trusted and transparent AI worldwide"
+    excerpt: "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Kay Firth-Butterfield, Head of Artificial Intelligence"
+    publishedDateTime: 2021-01-28T16:09:00Z
+    webUrl: "https://europeansting.com/2021/01/28/this-alliance-aims-to-accelerate-the-adoption-of-inclusive-trusted-and-transparent-ai-worldwide/"
+    ampWebUrl: "https://europeansting.com/2021/01/28/this-alliance-aims-to-accelerate-the-adoption-of-inclusive-trusted-and-transparent-ai-worldwide/amp/"
+    cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/01/28/this-alliance-aims-to-accelerate-the-adoption-of-inclusive-trusted-and-transparent-ai-worldwide/amp/"
     type: article
     provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 37
+      name: europeansting.com
+      domain: europeansting.com
+    quality: 46
     images:
-      - url: "https://medcitynews.com/uploads/2021/01/Sharecare-tracking.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://europeansting.files.wordpress.com/2021/01/robots-2-21.jpeg"
+        width: 752
+        height: 1002
+        isCached: true
+  - title: "World Economic Forum launches global alliance for responsible AI"
+    excerpt: "The World Economic Forum announced today the launch of the Global AI Action Alliance (GAIA), a new flagship initiative to accelerate the adoption of inclusive, transparent and trusted artificial intelligence globally."
+    publishedDateTime: 2021-01-28T16:38:00Z
+    webUrl: "https://www.finextra.com/pressarticle/85927/world-economic-forum-launches-global-alliance-for-responsible-ai"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
+  - title: "World Economic Forum launches GAIA to accelerate responsible AI adoption"
+    excerpt: "The  (WEF) announced on Thursday that it was launching the Global AI Action Alliance (GAIA), an initiative to speed up development and adoption of trusted and inclusive artificial intelligence across industry sectors."
+    publishedDateTime: 2021-01-29T09:57:00Z
+    webUrl: "https://www.computing.co.uk/news/4026460/wef-gaia-responsible-ai-adoption"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 38
+    images:
+      - url: "https://www.computing.co.uk/api/v1/wps/d0973ec/fe1e0acb-05c1-4498-ae13-641b4514e455/5/weforum-370x229.jpg"
+        width: 370
+        height: 229
         isCached: true
 
 secured: "+aAqTLPyrLf4B2dUffXRUHMlvZJ/b+HYvrXFvpF9qzZ5Q2U8yvE8iW223OSU9so1atIbHIz1UeIyEJN283q6AgLm+PuQiZ5eEdyJiI2RA7xgyHFnpaAHiBRy7U/wNfpWrbaS6bySrgyHoaNCfNP9Tgw0d6LTIUAmrXdtJzxo/9kXsJ7pWiofnUwG7qIl4vul02/l1TDx0MIdee+oYO2Z1LWr159HYA6Hzp0+um5A+l6MSPkLZTNkxcQQTN09VYEwtm4zR7K2N5ZHwSpWa3s7r+d+o16HGdsjesoeaCb7U7s0Phr92go3WYLPA5Aoc8dmpcskiI+7XLJl9tiUI6Cdggl6YLKYK9NKQcHYSay4SG0=;1Qm8QbpMTcuYZmfxRRTLpA=="

@@ -81,6 +81,17 @@ related:
         width: 499
         height: 325
         isCached: true
+  - title: "Millions of faces were scanned without approval. We need rules for facial recognition tech | Commentary"
+    excerpt: "Federal authorities say a San Francisco company scanned the faces of millions of people without their knowing it. What's needed are clear rules for how facial recognition technology can be collected and used,"
+    publishedDateTime: 2021-01-31T23:31:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/millions-of-faces-were-scanned-without-approval-we-need-rules-for-facial-recognition-tech-commentary/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/millions-of-faces-were-scanned-without-approval-we-need-rules-for-facial-recognition-tech-commentary/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/millions-of-faces-were-scanned-without-approval-we-need-rules-for-facial-recognition-tech-commentary/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 23
   - title: "Effects of aging on emotion recognition from dynamic multimodal expressions and vocalizations"
     excerpt: "Age-related differences in emotion recognition have predominantly been investigated using static pictures of facial expressions, and positive emotions beyond happiness have rarely been included. The current study instead used dynamic facial and vocal stimuli,"
     publishedDateTime: 2021-01-29T20:16:00Z

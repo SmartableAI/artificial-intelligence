@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Global Self-Driving Truck Technology Market 2020 Key Stakeholders, Subcomponent Manufacturers, Industry Association and Key Drivers Analysis to 2025"
+    excerpt: "The latest market research report titled Global Self-Driving Truck Technology Market 2020 by Company, Type and Application, Forecast to 2025 reveals the overview of the global industry, encompassing the latest industry data and industry future trends,"
+    publishedDateTime: 2021-02-02T06:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-truck-technology-market-2020-key-stakeholders-subcomponent-manufacturers-industry-association-and-key-drivers-analysis-to-2025-2021-02-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 15
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "ECWgEhGcq1ZI1o9H+ZaR1a/ZSq8OcwYBrSwTK2GgjnADENrfxzoXvAJRAXmNa7tExM2owYZicUuIiuXYu7wHe9HqKc8a3ZoCV4HqWfNpS6URtEkqkvECz5sKqcDXjoFgiMHLAqRSuJM2CM4QWzI0TLeqwt4YO7ItsDjov1mpOKEorYpaQuSFUaFBgK0kyP0Za1OaCqG19sVPNOLaHMYxvuyCxag/GrwSdXi00qC/YhBSa5v25myvOcIXkDK5H0A0j9OU2ltndCsw4zw/d6Ao/D4UuHmpEp+dHzMQqDWQ9cRakGYt/cAqSQvlvf6UZrdK4ylr1mwbh86aIPUgKrHGaI8BaFwVf2OkKiN5hX4S9cU=;9dXXzSRYAq2gQB4zEHGuLw=="
 ---

@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 400
         isCached: true
+  - title: "New ID and biometrics advisory board, ethical AI alliance formed by global organizations"
+    excerpt: "The Security Industry Association announced the foundation of an Identity and Biometric Technology Advisory Board, WEF forms group to take action on AI ethics"
+    publishedDateTime: 2021-01-29T23:14:00Z
+    webUrl: "https://www.biometricupdate.com/202101/new-id-and-biometrics-advisory-board-ethical-ai-alliance-formed-by-global-organizations"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 45
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/09/23155952/advisory-board-artificial-intelligence-leadership-1024x485.jpg"
+        width: 1024
+        height: 485
+        isCached: true
   - title: "New rumors point to Touch ID and Face ID biometrics on the screen iPhone 13"
     excerpt: "New rumors point to Touch ID and Face ID biometrics on the screen iPhone 13 The following iPhone 13 lineup may include biometric"
     publishedDateTime: 2021-02-01T22:40:00Z
