@@ -6,7 +6,7 @@ publishedDateTime: 2021-02-02T14:28:00Z
 originalUrl: "https://scitechdaily.com/mits-new-neural-network-liquid-machine-learning-system-adapts-to-changing-conditions/"
 webUrl: "https://scitechdaily.com/mits-new-neural-network-liquid-machine-learning-system-adapts-to-changing-conditions/"
 type: article
-quality: 30
+quality: 32
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://scitechdaily.com/images/Machine-Learning-AI-Concept.gif"

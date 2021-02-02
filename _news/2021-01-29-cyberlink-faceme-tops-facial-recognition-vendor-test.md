@@ -24,6 +24,22 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "CyberLink Partners with Network Optix for Facial Recognition Integration into Video Management Systems"
+    excerpt: "CyberLink Corp. (5203.TW), a pioneer in AI and facial recognition technologies, today announced a high level integration with all Powered by Nx VsaaS solutions developed by Network Optix ? including Nx Witness VMS."
+    publishedDateTime: 2021-02-02T14:09:00Z
+    webUrl: "https://www.lelezard.com/en/news-19629631.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 23
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
+
 secured: "LQFgvYQymOWv4FkrXL6DtpJanLsZQym8RBwuUPpCAmFBkh00Ahh9pxQ2jpj3ph1tmdZJbKNZd96XSlSrHPdUic7te9K8xuqFwl+/2eYoVWluk8o7hvYNt+HWKu8V8njNNu+Nig8Mf/b2yhU89do4MBaJmV0vyJ32HW2YY/86LFenbmupPczKCL/LwR2kmxHaT15HEsngCS/TAICfPrDym9exE714h7j/L3jlT23izh+bHNruTAsOwrK1MapInUvhEbzZL5mwr656wyyq1i3ERbpn2x3VY/8TAzw9E1Pp82dXQzRl7oqbYEf9mvhrr144uLXnlLxkH3GCCK7f/eeVZf+DgKae2lnHkO0avZHqD2U=;6PZKEjl+lfk2WZ+yvu/1aA=="
 ---
 

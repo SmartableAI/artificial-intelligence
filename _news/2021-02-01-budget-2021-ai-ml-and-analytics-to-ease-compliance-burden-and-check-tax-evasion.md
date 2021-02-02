@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/budget-2021-ai-ml-analytics-ease-compliance-
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/budget-2021-ai-ml-analytics-ease-compliance-burden-check-tax-evasion/amp/"
 type: article
 quality: 71
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://s27389.pcdn.co/wp-content/uploads/2021/01/five-trends-machine-learning-enhanced-analytics-watch-2021.jpeg"
         width: 1080
         height: 634
+        isCached: true
+  - title: "SAS Viya delivers innovation and analytics for all"
+    excerpt: "Analytics leader SAS continues to innovate by making it easier to access its powerful, cloud-native SAS® Viya® platform. Recent"
+    publishedDateTime: 2021-02-02T14:49:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/sas-viya-delivers-innovation-and-analytics-for-all-301219567.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 24
+    images:
+      - url: "https://mma.prnewswire.com/media/1431107/doctor_with_tablet_SAS_Viya.jpg?p=facebook"
+        width: 800
+        height: 418
         isCached: true
 
 secured: "DG2bakb+eXrbC4WDucjW8MhvJsbavL55dR5pQJNmu2fq2pxaHYKW5T+tw3xl8yz4iDinNC7lBQxxeUkKCIxZtNqighyYJ2aCFiziDS5gE16oEITPZ1Nxjli/3mSwCIguyzVxdz412uId7O6Pb0vNlaoBDgsmhphz2GSHcmrSxR3s7bemRUDr2zmGR3EIy49EbZtBv7zmxtvjWe4u78fLmnbcHmYyTpOc+mcHMvy8C4k7YL+N3tQ39GDfzWV8nC5vQ5Gy7DuMEOPPJ7iW5Ez4O5hHVV9dAkt1i5VQ1Zs/2qd93XdpWprrn4aWuK+s2224NqxRBvy2RJM7m4iIGNUGdzaPDzSqPfcF5XaC+8KzSOePP2+YJM4/Lh4hEStXaj9LXACNzSdX6NZbvEf4oBfIElL8H0ojRmP81rJD81rrBo6PYcTsrvutmqUG8vazo1AZT3Bf76qT5E7eeknwbENh47Du7cL+9zsKMy9P5YccmpPDNKaas0jnJr7Lour7GxVrggGjzd3t12l7Fhi3LKxQ0g==;dCrjku+TbB3WXRxanflZvw=="

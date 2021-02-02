@@ -1,49 +1,131 @@
 ---
 category: news
 title: "How Medical Technology Companies are Taking Full Advantage of Artificial Intelligence (AI) In Healthcare"
-excerpt: "PR Newswire PALM BEACH, Fla., Feb. 2, 2021 Financialnewsmedia.com News Com"
-publishedDateTime: 2021-02-02T14:48:00Z
-originalUrl: "https://www.bloomberg.com/press-releases/2021-02-02/how-medical-technology-companies-are-taking-full-advantage-of-artificial-intelligence-ai-in-healthcare"
-webUrl: "https://www.bloomberg.com/press-releases/2021-02-02/how-medical-technology-companies-are-taking-full-advantage-of-artificial-intelligence-ai-in-healthcare"
+excerpt: "However, in time, AI has made its way closer to the user – into software and into Internet of Medical Things (IoMT) endpoints and other medical devices. For example, wearable health monitors such as ECG monitors and blood pressure monitors can collect and analyse data locally,"
+publishedDateTime: 2021-02-02T14:46:00Z
+originalUrl: "https://www.marketwatch.com/press-release/how-medical-technology-companies-are-taking-full-advantage-of-artificial-intelligence-ai-in-healthcare-2021-02-02"
+webUrl: "https://www.marketwatch.com/press-release/how-medical-technology-companies-are-taking-full-advantage-of-artificial-intelligence-ai-in-healthcare-2021-02-02"
 type: article
-quality: 82
-heat: 92
-published: true
+quality: 84
+heat: -1
+published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
+  name: MarketWatch
+  domain: marketwatch.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - AI in Healthcare
+  - AI Hardware
   - AI
+  - AI in Healthcare
 
 images:
-  - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
     isCached: true
 
 related:
-  - title: "Fake News Is Rampant, Here Is How Artificial Intelligence (AI) Can Help"
-    excerpt: "One of the latest collaborations between artificial intelligence and humans is further evidence of how machines and humans can create better results when working together. Artificial intelligence (AI)"
-    publishedDateTime: 2021-02-02T06:41:00Z
-    webUrl: "https://www.linkedin.com/pulse/fake-news-rampant-here-how-artificial-intelligence-ai-bernard-marr"
+  - title: "Elder care, wireless AI, and the Internet of Medical Things"
+    excerpt: "Senior citizens are accustomed to constant probes by doctors, but wireless AI tech is enabling massive-scale, nonintrusive data monitoring."
+    publishedDateTime: 2021-02-01T15:14:00Z
+    webUrl: "https://venturebeat.com/2021/02/01/elder-care-wireless-ai-and-the-internet-of-medical-things/"
+    ampWebUrl: "https://venturebeat.com/2021/02/01/elder-care-wireless-ai-and-the-internet-of-medical-things/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/01/elder-care-wireless-ai-and-the-internet-of-medical-things/amp/"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 52
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEXkdRat0Olrw/article-cover_image-shrink_720_1280/0/1612247891089?e=1617840000&v=beta&t=FiQ5EFWl5LyYvnyT0IWFcEPcT_jWPu-VeYqnRSruxSQ"
-        width: 1183
-        height: 720
+      - url: "https://venturebeat.com/wp-content/uploads/2021/02/Elder-care-wireless-AI-and-the-Internet-of-Medical-Things-01.jpg?w=1200&strip=all"
+        width: 1200
+        height: 598
         isCached: true
+  - title: "VB Special Issue: AI and the future of health care"
+    excerpt: "In this issue, we examine how the medical field is using AI and data to tackle the challenges of this extraordinary time"
+    publishedDateTime: 2021-02-01T15:45:00Z
+    webUrl: "https://venturebeat.com/vb-special-issue-ai-and-the-future-of-health-care/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/01/vb-special-issue-ai-health-care-Header.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 400
+        isCached: true
+  - title: "AI Weekly: Announcing our ‘AI and the future of health care’ special issue"
+    excerpt: "Through the lens of AI and data, we examine how health care providers and vendors are tackling the challenges of this extraordinary time."
+    publishedDateTime: 2021-01-29T21:59:00Z
+    webUrl: "https://venturebeat.com/2021/01/29/ai-weekly-announcing-our-ai-and-the-future-of-health-care-special-issue/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/01/ai-weekly-feature-image-ai-and-healthcare.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 598
+        isCached: true
+  - title: "Use of AI in healthcare & medicine is booming – here's how the medical field is benefiting from AI in 2021 and beyond"
+    excerpt: "The AI and technology revolutionizing all industries, it was only a matter of time before the same happened to healthcare. BI reviews the latest research and trends regarding artificial intelligence in medicine and healthcare."
+    publishedDateTime: 2021-01-29T21:55:00Z
+    webUrl: "https://www.businessinsider.com/artificial-intelligence-healthcare"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 61
+    images:
+      - url: "https://i.insider.com/5c98ef348e436a48a55cb83b?width=1200&format=jpeg"
+        width: 1000
+        height: 500
+        isCached: true
+  - title: "The POWER Interview: The Importance of AI and Machine Learning"
+    excerpt: "Artificial intelligence (AI) and machine learning (ML) are becoming synonymous with the operation of power generation facilities. The increased"
+    publishedDateTime: 2021-01-31T19:28:00Z
+    webUrl: "https://www.powermag.com/the-power-interview-the-importance-of-ai-and-machine-learning/"
+    type: article
+    provider:
+      name: POWER Magazine
+      domain: powermag.com
+    quality: 54
+    images:
+      - url: "https://www.powermag.com/wp-content/uploads/2021/01/screen-shot-2021-01-29-at-9-28-06-am.png"
+        width: 885
+        height: 596
+        isCached: true
+  - title: "Land a career in AI with these top artificial intelligence jobs in 2021."
+    excerpt: "As AI has taken the center-stage in businesses, the demand for AI professionals is soaring. Here are the top artificial intelligence jobs to apply for in February 2021."
+    publishedDateTime: 2021-02-02T11:24:00Z
+    webUrl: "https://www.analyticsinsight.net/top-artificial-intelligence-jobs-to-apply-in-february-2021/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 53
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/02/Top-Artificial-Intelligence-Jobs-to-Apply-in-February-2021.jpg"
+        width: 900
+        height: 500
+        isCached: true
+  - title: "Perimeter Medical Imaging AI Announces Acceleration of Expiry Date of Warrants"
+    excerpt: "Perimeter Medical Imaging AI, Inc. (TSX-V:PINK)(OTC:PYNKF) (FSE:4PC) (“Perimeter” or the “Company”), a medical technology company driven to transform"
+    publishedDateTime: 2021-02-02T04:15:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210201005963/en/Perimeter-Medical-Imaging-AI-Announces-Acceleration-of-Expiry-Date-of-Warrants"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 13
 
-secured: "GTJSdiJXlEeGWBJds5aNwAHsKCza7aRL6dALw9JU5aBnJwN7zFZi+ncPU1IIkPghrkB86DvVjjqL4UKS+lE1/zUBs291bzyBQlzpfpSzzD8Anc+neC/0dUrb5w6dr64eizVelPkXbphZWydsI5ecL+4AOPzArhonfDh5gcrWxDlQwFK+gyUSEA2BlKIpKFNXUMFHsEVEZSwU6orzPq5rE/0iA6epS7KKenNMrI1tcy0G3R04353ITlyyZ7LeO8AoZxj5aSZ23JgnKPxoMssNrD66aT8zeeB8fXAdQDuRVCL3HvHy2jCirdmx/f35FOVq2Qu5k6XW6BPXGTQGkeHtE51AG6df2Psh8capDDTE/kU=;NkSHME705vFK/q58lIIYNw=="
+secured: "TxuAluAUZao+1T/l+A5AN4mnHfkRcyC6xjEGjvXlCMrmU0aMBUafN3nE3quHaenJ0utkDet6B4yFjaKwv7SDhmwYfXl1ZNXxzL+IsIKRTevRaU2eVHfeDA9IOhfo9kKWcbaGTi1gxKDSYxKsAQUmDhdtN6+5kTjGvGwsKBi25oPwYjQ/6U9u3X69bSz7tQkcuE8w5yqSFLq2sw1ZZTyT0hQZVOsDR3bkCTjakRfQmxEaHSx9pfF4TjNYPn9P1nZUle1Q08fIf+HBDCy4f5qREvRR5rGoHiWao6WiFtQ/EKfi/iKzE9pnHDPXr7GuRotfNd3dmEUSm6PZMBdTl9Dj0g0eojfEsLYaaqP/HueDlI0=;dJ+qEizDsLKtr5e3elO9vQ=="
 ---
 

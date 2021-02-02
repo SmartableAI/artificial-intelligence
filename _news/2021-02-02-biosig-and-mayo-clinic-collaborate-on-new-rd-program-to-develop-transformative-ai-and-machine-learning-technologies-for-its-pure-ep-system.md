@@ -25,6 +25,19 @@ images:
     height: 642
     isCached: true
 
+related:
+  - title: "BioSig Technologies collaborates with Mayo Clinic on artificial intelligence R&D program for its PURE EP system"
+    excerpt: "PURE EP is a computerized system for acquiring, measuring and and storing electrocardiographic and intracardiac signals"
+    publishedDateTime: 2021-02-02T15:45:00Z
+    webUrl: "https://www.proactiveinvestors.com/companies/news/940180/biosig-technologies-collaborates-with-mayo-clinic-on-artificial-intelligence-rd-program-for-its-pure-ep-system-940180.html"
+    ampWebUrl: "https://www.proactiveinvestors.com/companies/amp/news/940180"
+    cdnAmpWebUrl: "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/940180"
+    type: article
+    provider:
+      name: Proactiveinvestors
+      domain: proactiveinvestors.com
+    quality: 19
+
 secured: "MK2ywBUHvVsUMLFYPphrOdL3122XZGY9LaAfghTTAYeWQuACKvH2JnyLGHq/UGSErWxLpdbJ0H2qM0ZvfNt4N3ZPcv1+OGwo4Gzmf8UVVzOQcw1mx3BDu20kf+kJXAjmFpsZ4EpXWrGI2jSXq844u6AO0+kHIiAad5NxEVC9eezCKrsCl7s50urZMIp0UBcj/ZAus6EvUd/TJn3h3Zrf/+4IXjC6SgJJ/CBtnf4B0jVZzIYva4ViHGv2mHVprDJccWxG7t3iRWhVLHMHA/7VQx2B+NEatBm8Kn1p90qL/3ci01yj9+qj5FvDUoG8K5OZhPArZs1mafSxBY2EUYVMRfSHkhCtlp2VhewfAVCAyX4=;7IJ0Vjs/cF5FSxYkuRPwjA=="
 ---
 

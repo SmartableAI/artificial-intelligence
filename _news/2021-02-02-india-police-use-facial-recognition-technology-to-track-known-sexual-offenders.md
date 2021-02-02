@@ -7,7 +7,7 @@ originalUrl: "https://www.straitstimes.com/asia/south-asia/india-police-use-faci
 webUrl: "https://www.straitstimes.com/asia/south-asia/india-police-use-facial-recognition-technology-to-track-known-sexual-offenders"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -26,21 +26,16 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Technology is now Capable of Identifying Political Views"
-    excerpt: "Michal Kosinski's new research indicates facial recognition technology is now capable of exposing people’s political orientation from naturalistic facial images using a machine learning algorithm."
-    publishedDateTime: 2021-01-31T05:14:00Z
-    webUrl: "https://www.analyticsinsight.net/facial-recognition-can-reveal-your-political-orientation/"
+  - title: "Greek Police to Introduce Live Facial Recognition"
+    excerpt: "Police in Greece are to be issued new devices that will allow them to carry out real-time facial recognition and fingerprint identification while out on the beat. The plan to disseminate the new technology is part of the 4."
+    publishedDateTime: 2021-02-01T17:52:00Z
+    webUrl: "https://www.infosecurity-magazine.com/news/greek-police-to-introduce-live/"
     type: article
     provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 37
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/FR.png"
-        width: 900
-        height: 552
-        isCached: true
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 19
 
-secured: "URKtP59muskx9g4I/4WMLl6soE8XCVI/inM/zLWQ9Vuwf0tfQui8LYZTz+kpvWtRPql2+7oBB3W6XxdA8SBTMt7SHbKQoo8npaKR9G8S02UPoVAd4ldk5j9VgovrWnk3q9M5u4VlfdRxJ3MnJXlDVucbIbcAnM0lBf5sp3R985qKnVwHXjdaUtCgPEBx04Obh1B7Ag/yagSo3OafU6hpwtEXL60s0fKbS2hEn+J4yOkVq0WpH2Ue29IabS8cURkVyRdyv9jQG+u/jFG/uS0kfUnR+TvB+MaydKqMVEvu0GfB04DwPpDeAMG+eMiD3L9P5fxG85TT8RiIhkUrWFUVPuuvwxYx5Qfn78AsoV5EEtY=;IWIGevvsgs37qicMcBc9qw=="
+secured: "5iWG6i2szRpVZiUWPKJ307VicqMaJT/phbw8VmShDUzIU/mxrXJHBxfnQayYkvXhSV9lUvN2lpgpVk6fK8gVRBfEgpX+bj5tKjPUHd2ADQlvc/7io2/tS5g5B674pyH0qiFBOUBW//PAS8bQ+CTXlQj8zvhzD/804tb1ih7ltW97yXCCje8Vvy7wic2u0AfO3r4fz00jjphQGWiRfuQuJPGLQE6S9kDjxXI5Xl/zujAyJSmUV2fs+eOlCzfzR1dqoXNJpIk6iK/A1sd0QY5IIBmY9ybJ8T6/E+FrLAGqyNi1ghCANOR2zBxhfBdl1/uGDzgfSEkVSwMB+Fnh89iD6w5P6PQ2q/e/ha9ndOe2pqVE6DJzbQVmIVDwMUGw8JpJThbsV01SuV0gzaU4Fb9lsU7aXPUQXqdX/AW+8zsLV3cIhHfzyJP3DcWkNVjlM7ieJSd2XLFkjHtcFD3wRfTcJRljMCWpX5Auk9YTVpiQ/IqVE6G/7uydu9KJo/hnN3iGg1C8FZSoFwhvOi2iySMoRw==;gguAG1ZPMkQ1ly6kB44Row=="
 ---
 

@@ -3,10 +3,10 @@ category: news
 title: "Microsoft and the workplace of the future: How AI can help you build more productive relationships with your colleagues"
 excerpt: "Microsoft wants to help organizations use their data to deliver experiences, insights and outcomes. But careful design, clear ethics and full transparency are required to keep the AI in check."
 publishedDateTime: 2021-02-02T11:22:00Z
-originalUrl: "https://www.techrepublic.com/article/microsoft-and-the-workplace-of-the-future-how-ai-can-help-you-build-more-productive-relationships-with-your-colleagues/"
-webUrl: "https://www.techrepublic.com/article/microsoft-and-the-workplace-of-the-future-how-ai-can-help-you-build-more-productive-relationships-with-your-colleagues/"
-ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-and-the-workplace-of-the-future-how-ai-can-help-you-build-more-productive-relationships-with-your-colleagues/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-and-the-workplace-of-the-future-how-ai-can-help-you-build-more-productive-relationships-with-your-colleagues/"
+originalUrl: "https://www.techrepublic.com/index.php/article/microsoft-and-the-workplace-of-the-future-how-ai-can-help-you-build-more-productive-relationships-with-your-colleagues/"
+webUrl: "https://www.techrepublic.com/index.php/article/microsoft-and-the-workplace-of-the-future-how-ai-can-help-you-build-more-productive-relationships-with-your-colleagues/"
+ampWebUrl: "https://www.techrepublic.com/index.php/google-amp/article/microsoft-and-the-workplace-of-the-future-how-ai-can-help-you-build-more-productive-relationships-with-your-colleagues/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/microsoft-and-the-workplace-of-the-future-how-ai-can-help-you-build-more-productive-relationships-with-your-colleagues/"
 type: article
 quality: 82
 heat: -1
@@ -21,9 +21,9 @@ provider:
       height: 50
 
 topics:
+  - AI Ethics
   - AI
   - Microsoft AI
-  - AI Ethics
 
 images:
   - url: "https://tr3.cbsistatic.com/hub/i/r/2021/02/02/0913614a-f6f7-4acd-ae1b-db7ac3fbdf31/resize/1200x/76e6ecdbcb386ba09f38fbb29f53d792/ms-365-mwt-building-blocks.jpg"
@@ -64,20 +64,6 @@ related:
         width: 605
         height: 500
         isCached: true
-  - title: "Shell, C3 AI, Baker Hughes, and Microsoft Launch the Open AI Energy Initiative, an Ecosystem of AI Solutions to Help Transform the Energy Industry"
-    excerpt: "Baker Hughes (NYSE:BKR), and Microsoft (NASDAQ:MSFT) today announced the launch of the Open AI Energy Initiative™ (OAI),"
-    publishedDateTime: 2021-02-02T11:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/shell-c3-ai-baker-hughes-and-microsoft-launch-the-open-ai-energy-initiative-an-ecosystem-of-ai-solutions-to-help-transform-the-energy-industry-2021-02-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "BKR, RDS, AI and MSFT Launch AI Energy Initiative"
     excerpt: "C3 AI (NYSE: AI), and Microsoft (NASDAQ: MSFT) have announced the launch of the Open AI Energy Initiative. Baker Hughes (NYSE: BKR), Shell (NYSE: RDS), C3 AI (NYSE: AI), and Microsoft (NASDAQ: MSFT) have announced the launch of the Open AI Energy Initiative (OAI),"
     publishedDateTime: 2021-02-02T11:38:00Z
@@ -89,7 +75,35 @@ related:
       name: Rigzone
       domain: rigzone.com
     quality: 39
+  - title: "SAS deepens partnership with Microsoft, offers analytics through cloud"
+    excerpt: "Building on a partnership announced with Microsoft in 2020, SAS today disclosed it is offering its analytics platform to customers through Microsoft's cloud known as Azure."
+    publishedDateTime: 2021-02-02T15:01:00Z
+    webUrl: "https://www.wraltechwire.com/2021/02/02/sas-deepens-partnership-with-microsoft-offers-analytics-through-cloud/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 39
+    images:
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2018/06/158478-sas1-DMID1-5f43ui4wc-640x360.jpg"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "Shell, C3 AI, Baker Hughes, and Microsoft Launch the Open AI Energy Initiative, an Ecosystem of AI Solutions to Help Transform the Energy Industry"
+    excerpt: "THE HAGUE, Netherlands, REDWOOD CITY, Calif., HOUSTON & REDMOND, Wash.-- (BUSINESS WIRE)--Feb 1, 2021-- Shell (NYSE:RDS), C3 AI (NYSE:AI), Baker Hughes (NYSE:BKR), and Microsoft (NASDAQ:MSFT) today announced the launch of the Open AI Energy Initiative™ (OAI),"
+    publishedDateTime: 2021-02-01T22:11:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/science-business-technology-products-and-services-western-europe-dfd49c9427b4436eb0add6c556db954a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 16
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
-secured: "1MHrs3F/efZtZyetadEI82lZCg+PAzCChRG1ypM7vP/q8oIJz8CyfrB8Aqk4UZeqYIZSiHS0FCyd0NwFYX+XAq+mG7HdYrqW9X7FpVcbwbt3rmq2TDIobwE4KXw1YCQ6g1hJMRZE6xg957RFZ6CZn2PqVZaGzAg4yjr9fbeECGMTnEZHOQoC2UfgMMCfw3GPJqKgKrOixTcxDb6qeZrMrUSy2emlIr3GEn0qSTPiHM3Yj1W3ZSFUYWs45wnRkNUJoIQtEKfshPaeBe3E41Lwqgv+sLMQLZAju3N/FsUHq0MCzZsNvBykiEntpNA1kbxazOogzJjCum49rHEZPWaZkK3923pVMy/3Sr6REuzaDEbeOKDHhSnF86dkD041aj4sxROPZ5iAHVa+sQ9ZFDnHoLsQeELTsVBdBco/Xwt61b+ZpGdbCr+lN7+kv5lbA+0nLno0FUortKSrT+exSuU3Pe6q+QNWOy6n+Aho5bK5Y+udurmIvyOr8bEb+brl6JFxVtz8M8NGveOE9GAmcrCUNg==;7aVEIauY+CiEd4nUdYhmPw=="
+secured: "S9Rs7rMXJ/HVUQeMDnBcb+mov/RitEjZjimf72w12opb5PuJF7aMfsqp0GHZOAbMFbDX4Np90HBDuKuFF1APgevD3nB4kmuPkxe0P4I1fexx2Oi6/7sM7zcTX+tG06OfX7oY8IulrcmyRtHPExBtrztdVmrUfAKsYIFC7hT8h+xfesT+p0djhSogt3EIlupRCTFcjR7rHxa6/irVfVvv6VI5p0qUZQZ+Nl8nrUJ1ROIfymbk3sG3LoWYWTXpEeFBn7CUztuUyv6YSMZdVgpjek/XRkY58lfSCdO3kMi8W3uvp3ai3lMZhxX6/ODgovkU/mqiyXuVukFs7KJCPjNU9dM3yspFDdSr4E/gVOYdqBU=;g0uaozzk/uL2DVG55NH57A=="
 ---
 

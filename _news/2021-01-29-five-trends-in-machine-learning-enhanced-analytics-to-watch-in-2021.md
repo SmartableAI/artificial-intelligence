@@ -57,6 +57,20 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "SAS Viya delivers innovation and analytics for all"
+    excerpt: "Analytics leader SAS continues to innovate by making it easier to access its powerful, cloud-native SAS® Viya® platform. Recent"
+    publishedDateTime: 2021-02-02T14:49:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/sas-viya-delivers-innovation-and-analytics-for-all-301219567.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 24
+    images:
+      - url: "https://mma.prnewswire.com/media/1431107/doctor_with_tablet_SAS_Viya.jpg?p=facebook"
+        width: 800
+        height: 418
+        isCached: true
 
 secured: "PRs0w5bgQ26ThHpbJ6LPBT0W+O0sqEEDVCclxSKL5j+vC9RpXf4RmNQH6KRfavgtXNWyMr3saPC6IXwLO2rUaGh+2FtD4AM9BftaA8p4SLwWAEu4z5kGctwKdNbdk5ogrWON6Q8DEXxxDCBxluazdYqjHHiOA3bKBCAERlxRw719x0CIe6KFL7xrw3EiiXAIEk273rKSyZmTuwBamdtSkQjAfan659kGZBdfSJ7+RDO7AbUPmMLV+jbRTGB5e31Hur4PyPmZK/FcYhDdfT8++7a8uHAiHjYEWyTUvSg2DrGAb3vv3eQz3pAsZjDLgo27N+49iv9S8mkpPSvd8xIU2Dsj6hlHkmC22MnY+T37+z0=;Ojg8sJvmFjBocpWFavHt1g=="
 ---

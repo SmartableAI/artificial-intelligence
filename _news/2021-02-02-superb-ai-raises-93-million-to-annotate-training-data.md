@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 729
         isCached: true
+  - title: "HealthTensor raises $5 million for AI that augments and corrects medical records"
+    excerpt: "HealthTensor, a startup developing a platform that leverages AI to identify health care inefficiencies, has raised $5 million."
+    publishedDateTime: 2021-02-02T16:02:00Z
+    webUrl: "https://venturebeat.com/2021/02/02/healthtensor-raises-5-million-for-ai-that-augments-and-corrects-medical-records/"
+    ampWebUrl: "https://venturebeat.com/2021/02/02/healthtensor-raises-5-million-for-ai-that-augments-and-corrects-medical-records/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/02/healthtensor-raises-5-million-for-ai-that-augments-and-corrects-medical-records/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 82
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Geometric Deep-Learning And 3D Search Solutions Company Physna Raises $20 Million"
     excerpt: "Physna — a geometric deep-learning and 3D search solutions company — announced that it raised $20 million in Series B funding. These are the details."
     publishedDateTime: 2021-01-29T18:09:00Z

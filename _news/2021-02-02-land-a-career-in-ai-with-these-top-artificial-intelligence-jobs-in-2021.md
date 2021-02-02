@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 598
         isCached: true
+  - title: "How Medical Technology Companies are Taking Full Advantage of Artificial Intelligence (AI) In Healthcare"
+    excerpt: "However, in time, AI has made its way closer to the user – into software and into Internet of Medical Things (IoMT) endpoints and other medical devices. For example, wearable health monitors such as ECG monitors and blood pressure monitors can collect and analyse data locally,"
+    publishedDateTime: 2021-02-02T14:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/how-medical-technology-companies-are-taking-full-advantage-of-artificial-intelligence-ai-in-healthcare-2021-02-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "VB Special Issue: AI and the future of health care"
     excerpt: "In this issue, we examine how the medical field is using AI and data to tackle the challenges of this extraordinary time"
     publishedDateTime: 2021-02-01T15:45:00Z

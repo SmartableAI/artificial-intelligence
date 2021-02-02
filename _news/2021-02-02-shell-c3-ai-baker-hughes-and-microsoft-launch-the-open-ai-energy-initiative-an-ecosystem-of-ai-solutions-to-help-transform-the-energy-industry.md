@@ -1,31 +1,27 @@
 ---
 category: news
 title: "Shell, C3 AI, Baker Hughes, and Microsoft Launch the Open AI Energy Initiative, an Ecosystem of AI Solutions to Help Transform the Energy Industry"
-excerpt: "Baker Hughes (NYSE:BKR), and Microsoft (NASDAQ:MSFT) today announced the launch of the Open AI Energy Initiative™ (OAI),"
-publishedDateTime: 2021-02-02T11:37:00Z
-originalUrl: "https://www.marketwatch.com/press-release/shell-c3-ai-baker-hughes-and-microsoft-launch-the-open-ai-energy-initiative-an-ecosystem-of-ai-solutions-to-help-transform-the-energy-industry-2021-02-02"
-webUrl: "https://www.marketwatch.com/press-release/shell-c3-ai-baker-hughes-and-microsoft-launch-the-open-ai-energy-initiative-an-ecosystem-of-ai-solutions-to-help-transform-the-energy-industry-2021-02-02"
+excerpt: "THE HAGUE, Netherlands, REDWOOD CITY, Calif., HOUSTON & REDMOND, Wash.-- (BUSINESS WIRE)--Feb 1, 2021-- Shell (NYSE:RDS), C3 AI (NYSE:AI), Baker Hughes (NYSE:BKR), and Microsoft (NASDAQ:MSFT) today announced the launch of the Open AI Energy Initiative™ (OAI),"
+publishedDateTime: 2021-02-01T22:11:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/science-business-technology-products-and-services-western-europe-dfd49c9427b4436eb0add6c556db954a"
+webUrl: "https://apnews.com/press-release/business-wire/science-business-technology-products-and-services-western-europe-dfd49c9427b4436eb0add6c556db954a"
 type: article
-quality: 46
+quality: 16
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - Microsoft AI
   - AI
+  - Microsoft AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -48,9 +44,9 @@ related:
   - title: "Microsoft and the workplace of the future: How AI can help you build more productive relationships with your colleagues"
     excerpt: "Microsoft wants to help organizations use their data to deliver experiences, insights and outcomes. But careful design, clear ethics and full transparency are required to keep the AI in check."
     publishedDateTime: 2021-02-02T11:22:00Z
-    webUrl: "https://www.techrepublic.com/article/microsoft-and-the-workplace-of-the-future-how-ai-can-help-you-build-more-productive-relationships-with-your-colleagues/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-and-the-workplace-of-the-future-how-ai-can-help-you-build-more-productive-relationships-with-your-colleagues/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-and-the-workplace-of-the-future-how-ai-can-help-you-build-more-productive-relationships-with-your-colleagues/"
+    webUrl: "https://www.techrepublic.com/index.php/article/microsoft-and-the-workplace-of-the-future-how-ai-can-help-you-build-more-productive-relationships-with-your-colleagues/"
+    ampWebUrl: "https://www.techrepublic.com/index.php/google-amp/article/microsoft-and-the-workplace-of-the-future-how-ai-can-help-you-build-more-productive-relationships-with-your-colleagues/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/microsoft-and-the-workplace-of-the-future-how-ai-can-help-you-build-more-productive-relationships-with-your-colleagues/"
     type: article
     provider:
       name: TechRepublic
@@ -88,7 +84,21 @@ related:
       name: Rigzone
       domain: rigzone.com
     quality: 39
+  - title: "SAS deepens partnership with Microsoft, offers analytics through cloud"
+    excerpt: "Building on a partnership announced with Microsoft in 2020, SAS today disclosed it is offering its analytics platform to customers through Microsoft's cloud known as Azure."
+    publishedDateTime: 2021-02-02T15:01:00Z
+    webUrl: "https://www.wraltechwire.com/2021/02/02/sas-deepens-partnership-with-microsoft-offers-analytics-through-cloud/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 39
+    images:
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2018/06/158478-sas1-DMID1-5f43ui4wc-640x360.jpg"
+        width: 640
+        height: 360
+        isCached: true
 
-secured: "IlOZykRtr4SXmYTRHkpIZNYtP8hXPzQjSxyJFDu6iY/jk54kTPrbZegrQ14JoNYc1/L5W31jH953aHX40ChWYQrpybN4qeWQOxitdhKqQyUO4AYHLJxG9HdC/GJZyRONutPzAZs/sYgJCn22HV8UYN9HIuZJ8C/SXB/HuBLSfDSHR1vHogQmri7roHoj6KVKGZHceZd58wDDuPFfgWjAb9J8j/xq5Ahzxdi+u9w4CXTOAGylyzSDQUyj9KMO38lSrvx849aUMuFU85Or4ve/A956xi/KQgKSkloxPka4R8yAyGupcTJ5ITmSMfWiljQQaIRFuqlucoNemrzcek3V/dVSEZv1lEMO3q8qTnyYbrc=;Qt6/TpGtcVQh9Ldkl7VxVg=="
+secured: "NnFNd3zY/zmKwHT9/qKPt3vkZkhE+XBg7I1TT5WvnxEs/zxD98/NKPUwM2gQvDSxoGNuCPZyvEzkpn6tscu+U0UiuVua1JD+Aw62Xxx8gS5UQUllskYuv9Lyr02E6EaAu6qgZxV5sma3KAJX9T6G0dpXZN1h/QTkIMSaMeEfQz6/BDYur5L9Ua063nlaNL+p2slof8KX19F9BHjmDVkPlWB9mcXztKf2I0DYLQ2xoqJ9FJWTKOxB0TZB+YTOvfOCBDBAVLwaJmVsij7gNSNLVbrnqoTOx2exaZx2zBQ+/pT7Xd5JR52Af29oEsvF/EL/kC0W6MOph6xbaB8m9VrWklTxFJ8DTYfQdz0jsqEjsnM=;c4IWKU0u0I/750aAEETQHg=="
 ---
 

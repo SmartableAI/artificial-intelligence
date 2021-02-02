@@ -2,19 +2,19 @@
 category: news
 title: "Here’s a way to learn if facial recognition systems used your photos"
 excerpt: "An online tool targets only a small slice of what’s out there, but may open some eyes to how widely artificial intelligence research fed on personal images."
-publishedDateTime: 2021-02-01T16:25:00Z
-originalUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-facial-recognition-photos-20210201-idcvahi65bh7zkobkb7wjvwpgy-story.html"
-webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-facial-recognition-photos-20210201-idcvahi65bh7zkobkb7wjvwpgy-story.html"
-ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-facial-recognition-photos-20210201-idcvahi65bh7zkobkb7wjvwpgy-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-facial-recognition-photos-20210201-idcvahi65bh7zkobkb7wjvwpgy-story.html?outputType=amp"
+publishedDateTime: 2021-02-01T19:19:00Z
+originalUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-nyt-facial-recognition-photos-20210201-idcvahi65bh7zkobkb7wjvwpgy-story.html"
+webUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-nyt-facial-recognition-photos-20210201-idcvahi65bh7zkobkb7wjvwpgy-story.html"
+ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-nyt-facial-recognition-photos-20210201-idcvahi65bh7zkobkb7wjvwpgy-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-nw-nyt-facial-recognition-photos-20210201-idcvahi65bh7zkobkb7wjvwpgy-story.html?outputType=amp"
 type: article
 quality: 61
 heat: -1
 published: false
 
 provider:
-  name: Chicago Tribune
-  domain: chicagotribune.com
+  name: The Baltimore Sun
+  domain: baltimoresun.com
 
 topics:
   - Natural Language Processing
@@ -22,7 +22,7 @@ topics:
   - Computer Vision
 
 images:
-  - url: "https://www.chicagotribune.com/resizer/8u3zVMFj8ZrGh5JwqjtNcPSfTwI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SITXYEMZCKKE5TMUY7NNTYPHRY.jpg"
+  - url: "https://www.baltimoresun.com/resizer/8u3zVMFj8ZrGh5JwqjtNcPSfTwI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SITXYEMZCKKE5TMUY7NNTYPHRY.jpg"
     width: 1200
     height: 800
     isCached: true
@@ -137,6 +137,6 @@ related:
         height: 823
         isCached: true
 
-secured: "bF0Xdb6hVNoxJqXPG1ZmiupX2luzU1ohDRi+++MBRxbnUxYblm4Xje0+mOT98bty9yQCQrXF8vx5z0J8SE2tbQiE/gK5VDicEPZTO/pIcbpg/Wdtodv15b55mkLynSJ3dhpJZzhNl55PQdM0egPrKW5EQMupz+nO7lEQjZuQhJ3+EZUYQmonrv8PAZFyx5qoqa6wIoH9UOUL8HQRH2FnWvDTCoWXWVCmhFWzbw+h3L9F2cvBHPBmnqtjNmST0bR16pHkJPUedWj+dYDnLppDZRFfHq24iS6V8wcPi0e+yNmEnmrALbTzgvik44qiMb6PKFkN5gNM9B28+o+HhnhouBzHNECwVf45FVDfyHQHn6bxRObosUDUe9eG20O2sUPZ1ycfHCLC7/DOblSe3eBTYwoVXE6UJ1y3PAsX+n3gbzlN04sWsPfqkH3rSNFfvtgRll3P/wgbwa5CxbCXJ98mQg5f7Bc8+c0CxZaTMh9rT0pkNzlxMwhxxFLM+bn84He1qxWjI4fEZTLoky3b96rMtA==;Uezc/UYN9DqbLgl/lqB+Sg=="
+secured: "HVIq+YX+Xq/ScgG4R+uip6YpkHD5ii8yKiMJaE8q3xnjYcJoTqShpKTbEGGT1J7DrzVs1u1eFdpWNpzz/KtUbKAcZPbbLIkr/YTuUi/5iSu0qKAAJ2Z7/cmsKCYvUjZuDrjAbhlkVepKLpqR0bKU0aETyNa/88UNzwFCtIR92oU1YB0AoJjfbsFCZkIUTLokUmfZNb1hZ12RBsiPxjJ9bPueufKn3ddssGHOdCn+ov1PwjmX6l6qnb/MUpfseVXwwZXOW7sJ0XhmYXVANhgIa1H+HVr/n/NOct+kKrWOuRO2Jy3kMC5eTeCY9q/dIiumyWTIofdbW8q8lIzXkE4MxFnncb0r50wlgR3Xz5hCGmQ=;67ePwu1Dmc5skr2wDVQkHQ=="
 ---
 

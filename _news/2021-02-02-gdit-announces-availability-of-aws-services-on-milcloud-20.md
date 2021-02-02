@@ -7,7 +7,7 @@ originalUrl: "https://www.nasdaq.com/press-release/gdit-announces-availability-o
 webUrl: "https://www.nasdaq.com/press-release/gdit-announces-availability-of-aws-services-on-milcloud-2.0-2021-02-01"
 type: article
 quality: 64
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AWS cloud now available on milCloud 2.0"
+    excerpt: "AWS is now a part of the MilCloud 2.0 offering, GDIT announced Monday. MilCloud is GDIT's DOD-specific cloud service offering."
+    publishedDateTime: 2021-02-02T15:57:00Z
+    webUrl: "https://www.fedscoop.com/aws-mil-cloud-gdit-disa/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 34
 
 secured: "zj0KlE1vIR1z9ZH1gyyossiBdlBq3hsXbSQp5YXG5T1w+H0eOwUccwB1NV4TEy991nv9rVXNNA4eVfE2btbuibFTlCHumDJrHwpwRFz3L6B6YznB7KAZvr5lxy6B2jxABwJF/5wpIb+RwceGccjj9Q2Txf/vWpgtKMqStMj5fKCPhqIVym1Gwg1ChnEE86peF+48DQo4vdxl6dfwNdTpvm6XsB336Z30WtlIlnTvvwP6rftoVanwOCuHeKLrxcEifRb1vKIYqqA01UYOlajRWkCTYP0e/kr0jUyc8TDWlTlapPVzfHe68YiTyS2+RDloA7SzF1S7CIHOI3yHF1bsCZ1Wvp2iykyulJtjdUUyk1U=;RCVCoDncBXHk1QUahNh52A=="
 ---

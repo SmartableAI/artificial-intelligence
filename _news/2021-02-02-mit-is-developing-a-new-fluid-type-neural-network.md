@@ -51,7 +51,7 @@ related:
     provider:
       name: SciTech Daily
       domain: scitechdaily.com
-    quality: 30
+    quality: 32
     images:
       - url: "https://scitechdaily.com/images/Machine-Learning-AI-Concept.gif"
         width: 777

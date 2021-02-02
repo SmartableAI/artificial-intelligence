@@ -17,8 +17,8 @@ provider:
   domain: thehayride.com
 
 topics:
-  - AI
   - AI in Autos
+  - AI
 
 images:
   - url: "https://thehayride.com/wp-content/uploads/2021/02/external-content.duckduckgo.jpg"
@@ -106,6 +106,6 @@ related:
         height: 826
         isCached: true
 
-secured: "qNPuGV2WkTq9LvB/fL3bLTF4ZSUly9PA0WxCgnrImftUg+f4Sa/7gHRG7l1AcbcJnPFimGEv+PHJ0aTNUMw+OlWhw0zXeqbiS2AA6LZN3M5+YPik6l2VHRg+yVurOCpRqt8TV55alZprnZpc76mex+6XWSM+RqmGHh0slakAvbZdqo2FpPCwH1qpGgtrFmxQT8+98wqXPwgtU/TyVhqmY2XNIVRtA3h518ofWCkbYtmIm1eLMZC60cQQN3A3Nagha6l5pod8xEvQO1cHIKPtFiX3alRp3GVf2+c29zJfHjmsOEnysCFTlH6LerqsXcny9VzzZ3xqUrDzf9DjxnGREU7XTiagdKN96F7DLo4xiqc=;FIKe+xKoBOVg9WNZkIj0bA=="
+secured: "0+ORI3HqYDnvHdW9wNeSYt9OPV8+MegpbRr6UQ0Rsi1swkNIU90Ob2MvEzybUIGz+uhNNWJpJQpLTpB9BO8fXOZ4xfzcmantvdOIfCB81aJnC1UT0f8IM0MzXPHP9ASKWX0kNH1frwRbaSO3j6kMuaDLpz2RAbZv5ZUm9hqJHl4aTnhkgI8qZNCd/H8rmmcbwrKrMW4xuSJlIOtZqdiNllvUXwUwouxO4D4D2wONHKaJXrQngT7OtkV0WkJpgtcsHg8zf4TQYKDEfWNO7GG6HBH6S6oUJY5FqrG6dRdvSqPqgeA2iG8CxcPhOBopgqzSvi8qsaDmFSG1aX/jIHPo38VYSyE/lt9zDgc0Qobjyts=;BfEjbxw/7/HQY+iA2GFHTA=="
 ---
 
