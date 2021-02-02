@@ -84,6 +84,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Face Recognition Device Market Scenario by Industry Growth, Size, Trends and Forecast by 2025"
+    excerpt: "Selbyville, Delaware, Global Face Recognition Device Market report added by Market Study Report that gives meticulous investigation of current scenario of the market size, share, demand, growth, trends,"
+    publishedDateTime: 2021-01-29T13:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-device-market-scenario-by-industry-growth-size-trends-and-forecast-by-2025-2021-01-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) Enabled Medical Imaging Market – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2025"
     excerpt: "Selbyville, Delaware According to the research report titled 'Global Artificial Intelligence (AI) Enabled Medical Imaging Market Analysis, 2020', available with Market Study Report LLC, global artificial intelligence (AI) enabled medical imaging market is expected to register 29% CAGR during 2021-2026."
     publishedDateTime: 2021-02-02T07:37:00Z

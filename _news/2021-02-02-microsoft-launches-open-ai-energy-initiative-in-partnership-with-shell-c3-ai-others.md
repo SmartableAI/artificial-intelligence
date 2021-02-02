@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-launches-open-ai-energy-initiat
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-launches-open-ai-energy-initiative-in-partnership-with-shell-c3-ai-others/"
 type: article
 quality: 97
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -41,11 +41,27 @@ related:
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 80
+    quality: 82
     images:
       - url: "https://tr3.cbsistatic.com/hub/i/r/2021/02/02/0913614a-f6f7-4acd-ae1b-db7ac3fbdf31/resize/1200x/76e6ecdbcb386ba09f38fbb29f53d792/ms-365-mwt-building-blocks.jpg"
         width: 1200
         height: 678
+        isCached: true
+  - title: "Shell, C3 AI, Baker Hughes, and Microsoft Launch the Open AI Energy Initiative"
+    excerpt: "Shell, C3 AI, Baker Hughes, and Microsoft have launched the Open AI Energy Initiative (OAI), a first-of-its-kind open ecosystem of artificial intelligence (AI)-based solutions for the energy and process industries,"
+    publishedDateTime: 2021-02-02T08:09:00Z
+    webUrl: "https://www.hartenergy.com/news/shell-c3-ai-baker-hughes-and-microsoft-launch-open-ai-energy-initiative-192146"
+    ampWebUrl: "https://www.hartenergy.com/news/shell-c3-ai-baker-hughes-and-microsoft-launch-open-ai-energy-initiative-192146?amp"
+    cdnAmpWebUrl: "https://www-hartenergy-com.cdn.ampproject.org/c/s/www.hartenergy.com/news/shell-c3-ai-baker-hughes-and-microsoft-launch-open-ai-energy-initiative-192146?amp"
+    type: article
+    provider:
+      name: Hart Energy
+      domain: hartenergy.com
+    quality: 70
+    images:
+      - url: "https://www.hartenergy.com/themes/custom/hart_energy/screenshot.png"
+        width: 605
+        height: 500
         isCached: true
   - title: "Shell, C3 AI, Baker Hughes, and Microsoft Launch the Open AI Energy Initiative, an Ecosystem of AI Solutions to Help Transform the Energy Industry"
     excerpt: "Baker Hughes (NYSE:BKR), and Microsoft (NASDAQ:MSFT) today announced the launch of the Open AI Energy Initiative™ (OAI),"

@@ -7,7 +7,7 @@ originalUrl: "https://www.analyticsinsight.net/facial-recognition-can-reveal-you
 webUrl: "https://www.analyticsinsight.net/facial-recognition-can-reveal-your-political-orientation/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -25,31 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition payments making a mark on world"
-    excerpt: "Facial recognition is happening in large parts of China, the US, Spain, Denmark and Nigeria as contactless payments look here to stay"
-    publishedDateTime: 2021-01-28T23:01:00Z
-    webUrl: "https://www.theceomagazine.com/business/innovation-technology/facial-recognition-payments/"
-    ampWebUrl: "https://amp.theceomagazine.com/business/innovation-technology/facial-recognition-payments/"
-    cdnAmpWebUrl: "https://amp-theceomagazine-com.cdn.ampproject.org/c/s/amp.theceomagazine.com/business/innovation-technology/facial-recognition-payments/"
+  - title: "India police use facial recognition technology to track known sexual offenders"
+    excerpt: "The use of modern technology has to become part of policing in everyday life, Lucknow inspector-general Laxmi Singh said.. Read more at straitstimes.com."
+    publishedDateTime: 2021-02-02T13:28:00Z
+    webUrl: "https://www.straitstimes.com/asia/south-asia/india-police-use-facial-recognition-technology-to-track-known-sexual-offenders"
     type: article
     provider:
-      name: The CEO Magazine
-      domain: theceomagazine.com
-    quality: 59
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 37
     images:
-      - url: "https://static.theceomagazine.net/wp-content/uploads/2021/01/29095154/facial-recognition.jpg"
-        width: 1200
-        height: 800
+      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/02/02/yq-indiawoman-210202.jpg?itok=YnJTxhW1"
+        width: 763
+        height: 509
         isCached: true
-  - title: "Facial Recognition Ethical Framework Launched by BSIA"
-    excerpt: "The British Security Industry Association’s (BSIA) video surveillance section has launched an ethical and legal use guide for Automated Facial Recognition (AFR). The guide, recommended by the Organization for Economic Co-operation and Development,"
-    publishedDateTime: 2021-02-01T12:25:00Z
-    webUrl: "https://www.infosecurity-magazine.com/news/facial-recognition-ethical/"
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 36
 
 secured: "JaUWM8h0yeZQyhdjnDQAUZPzjvHMWNMiZCAk/ShE+6c/AdhCRbNx4gEVTuEcSPL2teDLNuBKy5VRMGP0EGi16hzGAnbd+d4qslvagbJhgLd8Ow1L4cSZugcn33qHhxhs7BLZFSQBkuzw+v53u04lqr9WNwHHmjo30VrG/AQXmbB7fdi1gJo8AoM1SCboXbxtLpdRYiEdssZywPDc+GM23+nSr7NTNy/X2odFqF/bC6Cz3h0OTl6DXMev5A3KtBcIFYQuZpiMYrj3uiP01LAXP9SfG1a4+RCulfmY8CP57gUIu+LTowXdnOI/MsX0hv8dbqrWCFIEtDsts/WFcW/8ZDBAeo+Lmf07Ohx9hjXbtaw=;Ipk/CTeSKxAiQaSZc2NsUQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/29/physna-raises-20-million-for-ai-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/29/physna-raises-20-million-for-ai-that-analyzes-and-digitizes-3d-objects/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Superb AI raises $9.3 million to annotate training data"
+    excerpt: "Superb AI, a startup developing a suite of AI training data prep and verification tools, has raised $9.3 million."
+    publishedDateTime: 2021-02-02T13:02:00Z
+    webUrl: "https://venturebeat.com/2021/02/02/superb-ai-raises-9-3-million-to-annotate-training-data/"
+    ampWebUrl: "https://venturebeat.com/2021/02/02/superb-ai-raises-9-3-million-to-annotate-training-data/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/02/superb-ai-raises-9-3-million-to-annotate-training-data/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/01/Hyun-Kim-Superb-AI.jpg?w=1200&strip=all"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Geometric Deep-Learning And 3D Search Solutions Company Physna Raises $20 Million"
     excerpt: "Physna — a geometric deep-learning and 3D search solutions company — announced that it raised $20 million in Series B funding. These are the details."
     publishedDateTime: 2021-01-29T18:09:00Z

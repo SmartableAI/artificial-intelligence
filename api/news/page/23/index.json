@@ -2,6 +2,378 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-01-15-this-cute-ai-pet-will-fill-the-deep-dark-void-in-your-life.md",
+      "title": "This cute AI pet will fill the deep, dark void in your life",
+      "excerpt": "Meet Moflin, an AI pet with “emotional capabilities that evolve like living animals.” The creature, which looks like a cross between a hamster and a slipper, won the Best of Innovation Award in Robotics at CES 2021 this week.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/01/14/this-cute-ai-pet-will-fill-the-deep-dark-void-in-your-life/",
+      "originalUrl": "https://thenextweb.com/neural/2021/01/14/this-cute-ai-pet-will-fill-the-deep-dark-void-in-your-life/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/Untitled-design-2021-01-14T145203.477-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/01/14/this-cute-ai-pet-will-fill-the-deep-dark-void-in-your-life/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/14/this-cute-ai-pet-will-fill-the-deep-dark-void-in-your-life/amp/",
+      "publishedDateTime": "2021-01-14T09:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-15-exemptions-from-some-safety-rules-eyed-for-self-driving-cars.md",
+      "title": "Exemptions From Some Safety Rules Eyed for Self-Driving Cars",
+      "excerpt": "President Donald Trump’s administration is moving to update federal motor vehicle safety standards to exempt self-driving cars from crashworthiness standards that are applied to cars operated by humans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-01-14/exemptions-from-some-safety-rules-eyed-for-self-driving-cars",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-01-14/exemptions-from-some-safety-rules-eyed-for-self-driving-cars",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXeN87BDBPAs/v1/360x-1.jpg",
+          "width": 360,
+          "height": 221,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2021-01-14/exemptions-from-some-safety-rules-eyed-for-self-driving-cars",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2021-01-14/exemptions-from-some-safety-rules-eyed-for-self-driving-cars",
+      "publishedDateTime": "2021-01-14T08:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-14-the-best-facial-recognition-security-cameras-for-2021.md",
+      "title": "The best facial recognition security cameras for 2021",
+      "excerpt": "Some home security cameras have facial recognition, an advanced feature that lets you make a database of people who regularly come to your house. Then, when the camera sees a face, it determines whether or not it belongs to someone in your list of known faces.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-for-2021/",
+      "originalUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-for-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/Po3RwqbEHc2CKBgcOkuRry496iw=/1200x630/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-for-2021/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-for-2021/",
+      "publishedDateTime": "2021-01-14T07:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-01-14-hyundai-robotics-advancing-predictive-maintenance-with-ai.md",
+      "title": "Hyundai Robotics: advancing predictive maintenance with AI",
+      "excerpt": "Discover how Hyundai Robotics is advancing predictive maintenance alongside MakinaRocks with AI-based anomaly detection In partnership with MakinaRocks, Hyundai Robotics - following the signing of a memorandum of understanding (MOU) - will work together to advance AI-based industrial robot anomaly detection for robot arms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.manufacturingglobal.com/ai-and-automation/hyundai-robotics-advancing-predictive-maintenance-ai",
+      "originalUrl": "https://www.manufacturingglobal.com/ai-and-automation/hyundai-robotics-advancing-predictive-maintenance-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bizclik-cms-prod.s3.eu-west-2.amazonaws.com/images/404no22rkjwz1rzc140120215213.jpeg",
+          "width": 1000,
+          "height": 387,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-14T07:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manufacturingglobal.com",
+        "domain": "manufacturingglobal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-14-fda-clears-deep-learning-application-to-support-image-interpretation-with-hyperfines-swoop.md",
+      "title": "FDA Clears Deep Learning Application to Support Image Interpretation with Hyperfine’s Swoop™",
+      "excerpt": "(k) clearance from the US FDA for its deep-learning image analysis software. These Advanced AI Applications measure brain structure and pathology in images acquired by the category-defining Swoop™ Portable MR Imaging System through tools featuring automatic measurement of ventricular volume,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-mri-scans-diagnosis-and-treatment-diagnostic-imaging-health-fba9c868d2f7fc891c3091ea6d3551dd",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-mri-scans-diagnosis-and-treatment-diagnostic-imaging-health-fba9c868d2f7fc891c3091ea6d3551dd",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-14T07:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-14-machine-learning-and-artificial-intelligence-integration-drives-the-growth-of-the-global-natural-language-processing-market-at-a-cagr-of-184.md",
+      "title": "Machine Learning and Artificial Intelligence Integration Drives the Growth of the Global Natural Language Processing Market at a CAGR of 18.4%",
+      "excerpt": "In 2019, the global natural language processing market reached USD 9.2 Billion and it is expected to grow at a",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-and-artificial-intelligence-integration-drives-the-growth-of-the-global-natural-language-processing-market-at-a-cagr-of-184-2021-01-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-and-artificial-intelligence-integration-drives-the-growth-of-the-global-natural-language-processing-market-at-a-cagr-of-184-2021-01-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-14T07:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-01-14-pexip-and-logitech-partnership-brings-ai-powered-immersive-video-collaboration-from-the-desktop-to-the-meeting-room.md",
+      "title": "Pexip and Logitech Partnership Brings AI-Powered, Immersive Video Collaboration from the Desktop to the Meeting Room",
+      "excerpt": "Organizations can deliver a consistent experience across their meeting rooms, whether deploying new video-enabled rooms or expanding their existing video estate Today Pexip, a leading provider of enterprise video conferencing and collaboration solutions,",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210114io48995/pexip-and-logitech-partnership-brings-ai-powered-immersive-video-collaboration-from-the-desktop-to-the-meeting-room",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210114io48995/pexip-and-logitech-partnership-brings-ai-powered-immersive-video-collaboration-from-the-desktop-to-the-meeting-room",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-14T07:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-14-machine-learning-tool-gives-early-warning-of-cardiac-issues-in-covid-19-patients.md",
+      "title": "Machine learning tool gives early warning of cardiac issues in COVID-19 patients",
+      "excerpt": "A team of Johns Hopkins University biomedical engineers and heart specialists have developed an algorithm that warns doctors several hours before hospitalized COVID-19 patients experience cardiac arrest or blood clots.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-01-machine-tool-early-cardiac-issues.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-01-machine-tool-early-cardiac-issues.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2018/cardiacdevice.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-01-machine-tool-early-cardiac-issues.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-01-machine-tool-early-cardiac-issues.amp",
+      "publishedDateTime": "2021-01-14T06:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-14-pilot-company-adopts-machine-learning-platform-to-streamline-supply-chain-management.md",
       "title": "Pilot Company Adopts Machine Learning Platform to Streamline Supply Chain Management",
       "excerpt": "Pilot Company has chosen the 4R Systems machine learning Forecasting and Replenishment Solution to power logistics at its 750 Pilot Flying J travel centers in the U.S. and Canada. The system is expected to provide a more consistent and efficient solution to help maximize inventory and sales.",
@@ -777,380 +1149,6 @@
         "Computer Vision",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-breaking-the-ai-wizardry-of-microsoft-flight-simulator.md",
-      "title": "Breaking the AI wizardry of ‘Microsoft Flight Simulator’",
-      "excerpt": "Breaking the AI ​​wizardry of 'Microsoft Flight Simulator' There are some wild statistics about Microsoft Flight Simulator. In the",
-      "sourceUrl": null,
-      "webUrl": "https://www.compsmag.com/news/gaming/breaking-the-ai-​​wizardry-of-microsoft-flight-simulator/",
-      "originalUrl": "https://www.compsmag.com/news/gaming/breaking-the-ai-​​wizardry-of-microsoft-flight-simulator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/Breaking-the-AI-​​wizardry-of-Microsoft-Flight-Simulator-1024x576.jpeg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.compsmag.com/news/gaming/breaking-the-ai-%e2%80%8b%e2%80%8bwizardry-of-microsoft-flight-simulator/amp/",
-      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/breaking-the-ai-%e2%80%8b%e2%80%8bwizardry-of-microsoft-flight-simulator/amp/",
-      "publishedDateTime": "2021-01-13T20:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows",
-        "domain": "compsmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-chinese-driverless-car-start-up-weride-raises-310-million-in-funding-as-competition-heats-up.md",
-      "title": "Chinese driverless car start-up WeRide raises $310 million in funding as competition heats up",
-      "excerpt": "Tony Han, CEO of WeRide said the funding will give the company the strategic resources to fulfill the goal of commercializing self-driving technology.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/01/14/chinese-driverless-car-start-up-weride-raises-310-million-in-funding.html",
-      "originalUrl": "https://www.cnbc.com/2021/01/14/chinese-driverless-car-start-up-weride-raises-310-million-in-funding.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 203,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106688926-1599111743041-WeRide_in_Guangzhou.jpeg?v=1599111846",
-          "width": 4000,
-          "height": 2250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/01/14/chinese-driverless-car-start-up-weride-raises-310-million-in-funding.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/14/chinese-driverless-car-start-up-weride-raises-310-million-in-funding.html",
-      "publishedDateTime": "2021-01-13T19:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-machine-learning-market-outlook-size-share-and-growth-and-forecast-assumptions.md",
-      "title": "Machine Learning Market Outlook, Size, Share and Growth and Forecast Assumptions",
-      "excerpt": "Global Machine Learning industry valued approximately USD 1.02 billion in 2016 is anticipated to grow with a healthy",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-market-outlook-size-share-and-growth-and-forecast-assumptions-2021-01-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-market-outlook-size-share-and-growth-and-forecast-assumptions-2021-01-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-13T16:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-ibm-leads-in-quantum-computing-ford-in-driverless-car-patents.md",
-      "title": "IBM leads in quantum computing, Ford in driverless car patents",
-      "excerpt": "ARTIFICIAL INTELLIGENCE, quantum computers and autonomous vehicles are among the fastest growing areas of technology, with American companies often in the lead, according to a new study of US patents issued over the past five years. International Business ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bworldonline.com/ibm-leads-in-quantum-computing-ford-in-driverless-car-patents/",
-      "originalUrl": "https://www.bworldonline.com/ibm-leads-in-quantum-computing-ford-in-driverless-car-patents/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bworldonline.com/wp-content/uploads/2021/01/640px-IBM_logo.svg_.png",
-          "width": 640,
-          "height": 256,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-13T16:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BusinessWorld",
-        "domain": "bworldonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-deep-learning-outperforms-standard-machine-learning-in-biomedical-research-applications.md",
-      "title": "Deep learning outperforms standard machine learning in biomedical research applications",
-      "excerpt": "Deep learning encodes robust discriminative neuroimaging representations to outperform standard machine learning. Nature Communications , 2021; 12 (1) DOI: 10.1038/s41467-020-20655-6 Cite This Page :",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2021/01/210114130125.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2021/01/210114130125.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-13T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-hope-turns-into-reality-with-robotic-prosthetics-exoskeletons.md",
-      "title": "Hope Turns into Reality with Robotic Prosthetics, Exoskeletons",
-      "excerpt": "starting with a LEGO-inspired robotic hand, and that’s led him to design mind-controlled prosthetics that are affordable for all. Momo is patient zero for Unlimited Tomorrow. She is the first ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.machinedesign.com/mechanical-motion-systems/article/21836407/hope-turns-into-reality-with-robotic-prosthetics-exoskeletons",
-      "originalUrl": "https://www.machinedesign.com/mechanical-motion-systems/article/21836407/hope-turns-into-reality-with-robotic-prosthetics-exoskeletons",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://base.imgix.net/files/base/ebm/machinedesign/image/2019/04/machinedesign_14399_sw_med_promo.png?auto=format&fit=max&w=1200",
-          "width": 1200,
-          "height": 785,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-13T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Machine Design",
-        "domain": "machinedesign.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-object-detection-with-tensorflow.md",
-      "title": "Object Detection, With TensorFlow",
-      "excerpt": "One of the tools that can be put to work in object recognition is an open source library called TensorFlow, which [Evan] aka [Edje Electronics] has put to work for exactly this purpose.",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2018/07/31/object-detection-with-tensorflow/",
-      "originalUrl": "https://hackaday.com/2018/07/31/object-detection-with-tensorflow/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2018/07/main3.png",
-          "width": 877,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-13T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-using-machine-learning-to-predict-vessel-time-of-arrival-with-amazon-sagemaker.md",
-      "title": "Using machine learning to predict vessel time of arrival with Amazon SageMaker",
-      "excerpt": "According to the International Chamber of Shipping, 90% of world commerce happens at sea. Vessels are transporting every possible kind of commodity, including raw materials and semi-finished and finished goods, making ocean transportation a key component of the global supply chain. Manufacturers, retailers,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/using-machine-learning-to-predict-vessel-time-of-arrival-with-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/using-machine-learning-to-predict-vessel-time-of-arrival-with-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/24/ML-1521-1.jpg",
-          "width": 800,
-          "height": 389,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-13T14:46:51-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

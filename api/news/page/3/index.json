@@ -2,6 +2,264 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-01-discovering-the-next-generation-of-soccer-talent-through-ai-and-the-amateur-game.md",
+      "title": "Discovering The Next Generation Of Soccer Talent Through AI And The Amateur Game",
+      "excerpt": "Having watched my national team, Wales, all around the world (including in 2003 in San Jose), I must admit I was particularly excited to sit down recently with former Chelsea, Sunderland, Swindon and Wales defender Gareth Hall Head of Football Operations at AiSCOUT and Founder & CEO,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/drgeraintevans/2021/01/31/discovering-the-next-generation-of-soccer-talent-through-ai-and-the-amateur-game/",
+      "originalUrl": "https://www.forbes.com/sites/drgeraintevans/2021/01/31/discovering-the-next-generation-of-soccer-talent-through-ai-and-the-amateur-game/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6016f7feb80f1ecb9673bf86%2F0x0.jpg%3FcropX1%3D255%26cropX2%3D4899%26cropY1%3D75%26cropY2%3D2687",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/drgeraintevans/2021/01/31/discovering-the-next-generation-of-soccer-talent-through-ai-and-the-amateur-game/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/drgeraintevans/2021/01/31/discovering-the-next-generation-of-soccer-talent-through-ai-and-the-amateur-game/amp/",
+      "publishedDateTime": "2021-01-31T11:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-01-forget-user-experience-ai-must-focus-on-citizen-experience.md",
+      "title": "Forget user experience. AI must focus on ‘citizen experience’",
+      "excerpt": "To ensure AI has a positive impact on society, we need to look beyond user experience to a new practice of 'citizen experience' design.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/31/forget-user-experience-ai-must-focus-on-citizen-experience/",
+      "originalUrl": "https://venturebeat.com/2021/01/31/forget-user-experience-ai-must-focus-on-citizen-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/Person-AI.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 611,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/31/forget-user-experience-ai-must-focus-on-citizen-experience/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/31/forget-user-experience-ai-must-focus-on-citizen-experience/amp/",
+      "publishedDateTime": "2021-01-31T10:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-01-heres-where-ai-will-advance-in-2021.md",
+      "title": "Here’s where AI will advance in 2021",
+      "excerpt": "Advances in Transformer structures and GNNs will likely spur advances in domains that haven’t yet opened up to AI techniques and algorithms.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/31/heres-where-ai-will-advance-in-2021/",
+      "originalUrl": "https://venturebeat.com/2021/01/31/heres-where-ai-will-advance-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/AI-eye.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/31/heres-where-ai-will-advance-in-2021/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/31/heres-where-ai-will-advance-in-2021/amp/",
+      "publishedDateTime": "2021-01-31T08:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-01-dont-fall-for-elon-musks-self-driving-car-fallacy.md",
+      "title": "Don't Fall for Elon Musk's Self-Driving Car Fallacy",
+      "excerpt": "The Tesla CEO continues to overestimate the long-term profit potential of Tesla's self-driving car technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/01/31/dont-fall-for-elon-musks-self-driving-car-fallacy/",
+      "originalUrl": "https://www.fool.com/investing/2021/01/31/dont-fall-for-elon-musks-self-driving-car-fallacy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F610624%2Findustrials-autos-tesla-model-3-tsla.JPG&w=1200&op=resize",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/01/31/dont-fall-for-elon-musks-self-driving-car-fallacy/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/01/31/dont-fall-for-elon-musks-self-driving-car-fallacy/",
+      "publishedDateTime": "2021-01-31T08:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-31-this-ai-powered-app-can-create-high-performing-copy-for-70.md",
+      "title": "This AI-powered app can create high-performing copy for $70",
+      "excerpt": "Most words you read online, from marketing emails to social media posts, are known as “copy.” This includes ads on social media platforms like Facebook and Instagram, product descriptions, SEO taglines and much more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/copysmith-155548549.html",
+      "originalUrl": "https://www.engadget.com/copysmith-155548549.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-01/49d70bb0-6175-11eb-bf3f-65eecb96ab9a",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/copysmith-155548549.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/copysmith-155548549.html",
+      "publishedDateTime": "2021-01-31T07:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-31-budget-2021-important-to-expand-on-national-program-on-artificial-intelligence-says-inker-robotics-ceo.md",
       "title": "Budget 2021| Important to expand on National Program on Artificial Intelligence, says Inker Robotics CEO",
       "excerpt": "By Rahul Balachandran India has been projected as the only economy that will grow in double-digit i.e. 11.5 per cent in 2021. As we have seen, the challenging 2020-21 has made us realize the importance of adapting and adopting the latest technologies to drive the economy forward.",
@@ -213,7 +471,7 @@
       "originalUrl": "https://www.forbes.com/sites/tomtaulli/2021/01/30/vaccine-rollout-how-ai-can-help/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -456,6 +714,49 @@
       ]
     },
     {
+      "path": "_news/2021-01-30-inbox-it-brings-advanced-artificial-intelligence-to-targeted-email-marketing.md",
+      "title": "INbox-iT Brings Advanced Artificial Intelligence to Targeted Email Marketing",
+      "excerpt": "Hackensack, NJ – iNbox-iT co-founders Frank Corallo and Henry Skull bring some real heat to the email marketing field. Corallo arrives with a long track record of success, serving as",
+      "sourceUrl": null,
+      "webUrl": "https://www.wboc.com/story/43261705/inbox-it-brings-advanced-artificial-intelligence-to-targeted-email-marketing",
+      "originalUrl": "https://www.wboc.com/story/43261705/inbox-it-brings-advanced-artificial-intelligence-to-targeted-email-marketing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.getnews.info/uploads/00180c8d128c47aa66a8538f335f51c3.png",
+          "width": 475,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-29T16:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WBOC",
+        "domain": "wboc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2021-01-30-novel-deep-learning-system-can-predict-cardiovascular-risk-from-ct-scans.md",
       "title": "Novel deep learning system can predict cardiovascular risk from CT scans",
       "excerpt": "Coronary artery calcification -- the buildup of calcified plaque in the walls of the heart's arteries -- is an important predictor of adverse cardiovascular events like heart attacks.",
@@ -507,7 +808,7 @@
       "originalUrl": "https://www.compsmag.com/news/technology/minneapolis-st-paul-airport-gets-facial-recognition-tech/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -594,7 +895,7 @@
       "originalUrl": "https://www.techrepublic.com/videos/logistics-dispatches-ai-drones-and-robots-to-haul-the-industry-into-the-future/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -935,293 +1236,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-30-76-of-enterprises-prioritize-ai-machine-learning-in-2021-it-budgets.md",
-      "title": "76% Of Enterprises Prioritize AI & Machine Learning In 2021 IT Budgets",
-      "excerpt": "AI and Machine Learning (ML) initiatives matter “more than we thought,” with one in four saying AI and ML should have been their top priority sooner. 50% of enterprises plan to spend more on AI and ML this year,",
-      "sourceUrl": null,
-      "webUrl": "https://www.business2community.com/business-innovation/76-of-enterprises-prioritize-ai-machine-learning-in-2021-it-budgets-02382460",
-      "originalUrl": "https://www.business2community.com/business-innovation/76-of-enterprises-prioritize-ai-machine-learning-in-2021-it-budgets-02382460",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lcolumbus.files.wordpress.com/2021/01/76-of-enterprises-prioritize-ai-machine-learning-in-2021-it-budgets-image.jpg?w=400",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.business2community.com/business-innovation/76-of-enterprises-prioritize-ai-machine-learning-in-2021-it-budgets-02382460/amp",
-      "cdnAmpWebUrl": "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-innovation/76-of-enterprises-prioritize-ai-machine-learning-in-2021-it-budgets-02382460/amp",
-      "publishedDateTime": "2021-01-29T11:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business 2 Community",
-        "domain": "business2community.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-30-google-ceo-slammed-by-ai-ethics-researcher-for-blaming-public-feud-on-transparency.md",
-      "title": "Google CEO slammed by AI ethics researcher for blaming public feud on transparency",
-      "excerpt": "Google CEO Sundar Pichai credited the company's transparency for the backlash over Timnit Gebru's firing, earning a withering rebuke from the AI ethicist.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/01/29/google-ceo-slammed-by-ai-ethics-researcher-for-blaming-public-feud-on-transparency/",
-      "originalUrl": "https://thenextweb.com/neural/2021/01/29/google-ceo-slammed-by-ai-ethics-researcher-for-blaming-public-feud-on-transparency/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2015/08/16928752317_2e39f492da_k_Sundar-Pichai-by-Maurizio-Pesce-1200x600.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/01/29/google-ceo-slammed-by-ai-ethics-researcher-for-blaming-public-feud-on-transparency/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/29/google-ceo-slammed-by-ai-ethics-researcher-for-blaming-public-feud-on-transparency/amp/",
-      "publishedDateTime": "2021-01-29T10:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-30-can-we-trust-ai-trusting-ai-is-best-for-everyone-part-two.md",
-      "title": "Can We Trust AI? Trusting AI Is Best For Everyone (Part Two)",
-      "excerpt": "Bringing AI into the boardroom, and using it more effectively to influence decision-making in the right places, could not only help improve trust in AI as a technology but also improve our relationship with Big Tech companies in general.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/charlestowersclark/2021/01/29/can-we-trust-ai-trusting-ai-is-best-for-everyone-part-two/",
-      "originalUrl": "https://www.forbes.com/sites/charlestowersclark/2021/01/29/can-we-trust-ai-trusting-ai-is-best-for-everyone-part-two/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601456c88ac2c2e65d67a64f%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/charlestowersclark/2021/01/29/can-we-trust-ai-trusting-ai-is-best-for-everyone-part-two/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charlestowersclark/2021/01/29/can-we-trust-ai-trusting-ai-is-best-for-everyone-part-two/amp/",
-      "publishedDateTime": "2021-01-29T10:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-01-30-ai-humans-is-the-superpower-your-organisation-needs-in-2021.md",
-      "title": "AI + Humans Is The Superpower Your Organisation Needs In 2021",
-      "excerpt": "Dhubaib, Managing Partner, Pandata. It’s an exciting time in the world of AI: chatbots and virtual assistants are getting smarte",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/businessreporter/2021/01/29/ai--humans-is-the-superpower-your-organisation-needs-in-2021/",
-      "originalUrl": "https://www.forbes.com/sites/businessreporter/2021/01/29/ai--humans-is-the-superpower-your-organisation-needs-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601453bd5f511181fc8b4d29%2F0x0.jpg",
-          "width": 1200,
-          "height": 701,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/businessreporter/2021/01/29/ai--humans-is-the-superpower-your-organisation-needs-in-2021/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/businessreporter/2021/01/29/ai--humans-is-the-superpower-your-organisation-needs-in-2021/amp/",
-      "publishedDateTime": "2021-01-29T10:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-01-30-biometrics-ethics-group-addresses-public-private-use-of-facial-recognition.md",
-      "title": "Biometrics ethics group addresses public-private use of facial recognition",
-      "excerpt": "Home Office’s Biometrics and Forensics Ethics Group releases briefing note on the use of live facial recognition in public–private collaborations following a year-long investigation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/news/252495597/Biometrics-ethics-group-address-public-private-use-of-facial-recognition",
-      "originalUrl": "https://www.computerweekly.com/news/252495597/Biometrics-ethics-group-address-public-private-use-of-facial-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ttgtmedia.com/visuals/German/article/CCTV-facial-recognition-2-adobe.jpg",
-          "width": 1200,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/news/252495597/Biometrics-ethics-group-address-public-private-use-of-facial-recognition?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252495597/Biometrics-ethics-group-address-public-private-use-of-facial-recognition?amp=1",
-      "publishedDateTime": "2021-01-29T10:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-01-30-how-microsofts-azure-playfab-supports-game-developers-with-james-gwertzman.md",
-      "title": "How Microsoft’s Azure PlayFab Supports Game Developers, with James Gwertzman",
-      "excerpt": "How Microsoft's Azure PlayFab Supports Game Developers, with James Gwertzman Source: Microsoft Microsoft just released some of its",
-      "sourceUrl": null,
-      "webUrl": "https://www.compsmag.com/news/gaming/how-microsofts-azure-playfab-supports-game-developers-with-james-gwertzman/",
-      "originalUrl": "https://www.compsmag.com/news/gaming/how-microsofts-azure-playfab-supports-game-developers-with-james-gwertzman/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/How-Microsofts-Azure-PlayFab-Supports-Game-Developers-with-James-Gwertzman.jpg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.compsmag.com/news/gaming/how-microsofts-azure-playfab-supports-game-developers-with-james-gwertzman/amp/",
-      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/how-microsofts-azure-playfab-supports-game-developers-with-james-gwertzman/amp/",
-      "publishedDateTime": "2021-01-29T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows",
-        "domain": "compsmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -2,6 +2,375 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2020-12-24-google-reportedly-told-ai-scientists-to-strike-a-positive-tone-in-research.md",
+      "title": "Google Reportedly Told AI Scientists To 'Strike A Positive Tone' In Research",
+      "excerpt": "Nearly three weeks after the abrupt exit of Black artificial intelligence ethicist Timnit Gebru, more details are emerging about the shady new set of policies Google has rolled out for its research team.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/google-reportedly-told-ai-scientists-to-strike-a-positi-1845944406",
+      "originalUrl": "https://gizmodo.com/google-reportedly-told-ai-scientists-to-strike-a-positi-1845944406",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/uuuqhcmntzmazuwchdbo.jpg",
+          "width": 800,
+          "height": 449,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/google-reportedly-told-ai-scientists-to-strike-a-positi-1845944406/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/google-reportedly-told-ai-scientists-to-strike-a-positi-1845944406/amp",
+      "publishedDateTime": "2020-12-23T18:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-24-deepminds-ai-agent-muzero-could-turbocharge-youtube.md",
+      "title": "DeepMind's AI agent MuZero could turbocharge YouTube",
+      "excerpt": "DeepMind's latest AI program can attain \"superhuman performance\" in tasks without needing to be given the rules. Like the research hub's earlier artificial intelligence agents, MuZero achieved ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/technology-55403473",
+      "originalUrl": "https://www.bbc.com/news/technology-55403473",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/B9AB/production/_116213574_deepm.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/amp/technology-55403473",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-55403473",
+      "publishedDateTime": "2020-12-23T17:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-24-chatroulette-is-on-the-rise-againwith-help-from-ai.md",
+      "title": "Chatroulette Is On the Rise Again—With Help From AI",
+      "excerpt": "The hottest app of early 2010 faded quickly when it was flooded with unwanted nudity. Smarter content moderation is helping to revive it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/chatroulette-rise-again-help-ai/",
+      "originalUrl": "https://www.wired.com/story/chatroulette-rise-again-help-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5fe37578abb4491ff39c28bf/master/pass/Backchannel-YIR-Chatroulette-AI.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/chatroulette-rise-again-help-ai/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/chatroulette-rise-again-help-ai/amp",
+      "publishedDateTime": "2020-12-23T16:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-24-ai-debate-2-night-of-a-thousand-ai-scholars.md",
+      "title": "AI Debate 2: Night of a thousand AI scholars",
+      "excerpt": "Gary Marcus, a frequent critic of deep learning forms of AI, and Vincent Boucher, president of Montreal.AI, hosted sixteen scholars to discuss what AI needs to move forward, including Daniel Kahneman, Fei-Fei Li, and Judea Pearl.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/ai-debate4-2-night-of-a-thousand-ai-scholars/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/ai-debate4-2-night-of-a-thousand-ai-scholars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/12/23/f053e7cc-79d7-4c08-951d-dd7fc1fc8b58/ai-debate-2-screen-shot-1.jpg",
+          "width": 1898,
+          "height": 1064,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ai-debate4-2-night-of-a-thousand-ai-scholars/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ai-debate4-2-night-of-a-thousand-ai-scholars/",
+      "publishedDateTime": "2020-12-23T15:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-24-cio-leadership-hmg-strategy-the-worlds-1-executive-leadership-network-looks-ahead-to-its.md",
+      "title": "CIO Leadership: HMG Strategy, the World’s #1 Executive Leadership Network, Looks Ahead to Its ...",
+      "excerpt": "HMG Strategy, the world's #1 digital platform for connecting technology executives to reimagine the enterprise and reshape the business world, is looking",
+      "sourceUrl": null,
+      "webUrl": "https://omaha.com/business/consumer/article_54317928-7247-5fb3-97c1-e81ebe1202ca.html",
+      "originalUrl": "https://omaha.com/business/consumer/article_54317928-7247-5fb3-97c1-e81ebe1202ca.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-23T14:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Omaha.com",
+        "domain": "omaha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-24-ringcentral-acquires-event-intelligence-firm-deepaffects.md",
+      "title": "RingCentral Acquires Event Intelligence Firm DeepAffects",
+      "excerpt": "DeepAffects analyzes business conversations to extract meaningful insights, using a set of AI models that provide “high accuracy for diarization, emotion and speech recognition,” states ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mediapost.com/publications/article/358968/ringcentral-acquires-event-intelligence-firm-deepa.html",
+      "originalUrl": "https://www.mediapost.com/publications/article/358968/ringcentral-acquires-event-intelligence-firm-deepa.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-23T14:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MediaPost",
+        "domain": "mediapost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-24-nuro-receives-the-first-ever-autonomous-vehicle-deployment-permit-from-california-dmv-to-launch.md",
+      "title": "Nuro Receives the First Ever Autonomous Vehicle Deployment Permit from California DMV to Launch ...",
+      "excerpt": "Today, Nuro received the first ever Autonomous Vehicle Deployment Permit from the State of California, enabling the company to launch the first commercial autonomous vehicle service in the state. This regulatory approval,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globe-newswire/business-technology-driverless-cars-products-and-services-first-time-events-cc3f6d3a2cd682c7f0a7b85f21c0303e",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/business-technology-driverless-cars-products-and-services-first-time-events-cc3f6d3a2cd682c7f0a7b85f21c0303e",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-23T13:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-24-googles-muzero-ai-gets-all-queens-gambit-mastering-chess-and-atari-for-human-domination.md",
+      "title": "Google’s MuZero AI Gets All Queen's Gambit, Mastering Chess And Atari For Human Domination",
+      "excerpt": "Now, the team at DeepMind has created an AI called MuZero, which can model and conquer games without even knowing the rules. Back in April, DeepMind created an AI called Agent57, which was set out ...",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/muzero-deepmind-ai",
+      "originalUrl": "https://hothardware.com/news/muzero-deepmind-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/53786/content/hero-muzero-background.jpg",
+          "width": 708,
+          "height": 398,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/muzero-deepmind-ai",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/muzero-deepmind-ai",
+      "publishedDateTime": "2020-12-23T12:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-24-i-defeated-the-ai-that-roasts-your-spotify-taste.md",
       "title": "I Defeated the AI That Roasts Your Spotify Taste",
       "excerpt": "Disappointments are a natural part of life. Sometimes you buy a new game that doesn’t live up to the hype, or you end up with a new gadget that, while cool in concept, is actually kind of useless. In my case,",
@@ -785,366 +1154,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-tiktok-parent-bytedance-hiring-for-ai-drug-discovery-team.md",
-      "title": "TikTok parent ByteDance hiring for AI drug discovery team",
-      "excerpt": "ByteDance, TikTok’s Chinese parent company, is entering the health industry as it seeks to diversify a business dependent on advertising and livestreaming sales. The company, which prides itself on content algorithms,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/23/bytedance-ai-drug/",
-      "originalUrl": "https://techcrunch.com/2020/12/23/bytedance-ai-drug/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2017/06/33602814_7750651a44_o-e1608724710523.jpg?w=800",
-          "width": 800,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/12/23/bytedance-ai-drug/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/23/bytedance-ai-drug/amp/",
-      "publishedDateTime": "2020-12-23T04:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-toyota-wants-to-sell-self-driving-shuttles-which-double-as-on-the-go-offices.md",
-      "title": "Toyota wants to sell self-driving shuttles which double as on-the-go offices",
-      "excerpt": "Toyota Motor Corp. is aiming to commercialize an autonomous shipping-container-like vehicle within a few years that it says could double as a mobile store or roving office. Toyota’s e-Palette ...",
-      "sourceUrl": null,
-      "webUrl": "https://mybroadband.co.za/news/motoring/380996-toyota-wants-to-sell-self-driving-shuttles-which-double-as-on-the-go-offices.html",
-      "originalUrl": "https://mybroadband.co.za/news/motoring/380996-toyota-wants-to-sell-self-driving-shuttles-which-double-as-on-the-go-offices.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mybroadband.co.za/news/motoring/380996-toyota-wants-to-sell-self-driving-shuttles-which-double-as-on-the-go-offices.html/amp",
-      "cdnAmpWebUrl": "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/motoring/380996-toyota-wants-to-sell-self-driving-shuttles-which-double-as-on-the-go-offices.html/amp",
-      "publishedDateTime": "2020-12-23T03:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MyBroadband",
-        "domain": "mybroadband.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-focus-google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents.md",
-      "title": "FOCUS-Google told its scientists to 'strike a positive tone' in AI research - documents",
-      "excerpt": "\"Advances in technology and the growing complexity of our external environment are increasingly leading to situations where seemingly inoffensive projects raise ethical, reputational, regulatory or legal issues,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/focus-google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents-2020",
-      "originalUrl": "https://www.nasdaq.com/articles/focus-google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents-2020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/focus-google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents-2020?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/focus-google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents-2020?amp",
-      "publishedDateTime": "2020-12-23T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-ai-driven-energy-startup-octopus-hits-2bn-mark-after-200m-investment-from-tokyo-gas.md",
-      "title": "AI-driven energy startup Octopus hits $2Bn mark after $200M investment from Tokyo Gas",
-      "excerpt": "Octopus will now launch as a brand in Japan with its trademark 100% renewable electricity operation which uses an innovative AI and data-based platform to balance loads around the grid.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/23/ai-driven-energy-startup-octopus-hits-2bn-mark-after-200m-investment-from-tokyo-gas/",
-      "originalUrl": "https://techcrunch.com/2020/12/23/ai-driven-energy-startup-octopus-hits-2bn-mark-after-200m-investment-from-tokyo-gas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/12/octopus-energy-Jackson.jpg?w=650",
-          "width": 650,
-          "height": 433,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/12/23/ai-driven-energy-startup-octopus-hits-2bn-mark-after-200m-investment-from-tokyo-gas/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/23/ai-driven-energy-startup-octopus-hits-2bn-mark-after-200m-investment-from-tokyo-gas/amp/",
-      "publishedDateTime": "2020-12-23T02:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-microsoft-developing-its-own-chips.md",
-      "title": "Microsoft developing its own chips",
-      "excerpt": "Looks like Apple was not the only one Software King of the world Microsoft is designing its own processors to be used in cloud systems and Surface computers as part of a cunning plan to reduce reliance on Intel.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fudzilla.com/news/52103-microsoft-developing-its-own-chips",
-      "originalUrl": "https://www.fudzilla.com/news/52103-microsoft-developing-its-own-chips",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.fudzilla.com/media/k2/items/cache/20c70d92e248b2d19e62fc05d27afbe1_L.jpg",
-          "width": 620,
-          "height": 465,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-23T01:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fudzilla",
-        "domain": "fudzilla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-the-how-bad-is-your-spotify-ai-is-here-to-judge-taste-in-music.md",
-      "title": "The 'How Bad Is Your Spotify' AI Is Here to Judge Taste in Music",
-      "excerpt": "Look no further than the \"How Bad Is Your Spotify\" app that will cruelly rag on your taste in music. The A.I., created by digital culture publication The Pudding, is akin to a meaner, less thorough yet still fun version of Spotify's popular Wrapped function,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/how-bad-your-spotify-ai-pudding-cool-judge-taste-music-1556878",
-      "originalUrl": "https://www.newsweek.com/how-bad-your-spotify-ai-pudding-cool-judge-taste-music-1556878",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1691346/spotify-getty.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/how-bad-your-spotify-ai-pudding-cool-judge-taste-music-1556878?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/how-bad-your-spotify-ai-pudding-cool-judge-taste-music-1556878?amp=1",
-      "publishedDateTime": "2020-12-23T01:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-why-biden-nominee-miguel-cardona-should-make-sure-facial-recognition-stays-out-of-schools.md",
-      "title": "Why Biden nominee Miguel Cardona should make sure facial recognition stays out of schools",
-      "excerpt": "The man Biden intends to nominate to lead the Education Department cares deeply about racial and class inequality. This is one way to show it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/think/opinion/why-biden-nominee-miguel-cardona-should-make-sure-facial-recognition-ncna1252139",
-      "originalUrl": "https://www.nbcnews.com/think/opinion/why-biden-nominee-miguel-cardona-should-make-sure-facial-recognition-ncna1252139",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media4.s-nbcnews.com/i/newscms/2020_52/3437707/201222-miguel-cardona-illo-2x1-jm-1057_5a1c83eb5d2179f470c9ab925385d35f.jpg",
-          "width": 2500,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1252139",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1252139",
-      "publishedDateTime": "2020-12-23T01:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-mindbeacon-holdings-inc-completes-initial-public-offering.md",
-      "title": "MindBeacon Holdings Inc. Completes Initial Public Offering",
-      "excerpt": "TORONTO, (GLOBE NEWSWIRE) -- MindBeacon Holdings Inc. (\" MindBeacon \" or the \" Company \") (TSX: MBCN) announced today the successful closing of its previously announced initial public offering (the \" Offering \") pursuant to which it and TELUS Corporation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/mindbeacon-holdings-inc-completes-initial-public-offering-2020-12-23-91841327",
-      "originalUrl": "https://www.marketwatch.com/press-release/mindbeacon-holdings-inc-completes-initial-public-offering-2020-12-23-91841327",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-23T01:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

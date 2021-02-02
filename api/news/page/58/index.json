@@ -2,6 +2,389 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2020-12-15-how-ibm-researchers-enabled-ai-platform-watson-to-understand-native-hindi.md",
+      "title": "How IBM researchers enabled AI platform Watson to understand native Hindi",
+      "excerpt": "With this, Watson Discovery can understand documents written in Devanagari and extract their meaning, without having to resort to any translation to English",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/technology/how-ibm-researchers-enabled-ai-platform-watson-to-understand-native-hindi-120121501070_1.html",
+      "originalUrl": "https://www.business-standard.com/article/technology/how-ibm-researchers-enabled-ai-platform-watson-to-understand-native-hindi-120121501070_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2020-12/15/full/1608042837-363.jpg&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/technology/how-ibm-researchers-enabled-ai-platform-watson-to-understand-native-hindi-120121501070_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/how-ibm-researchers-enabled-ai-platform-watson-to-understand-native-hindi-120121501070_1.html",
+      "publishedDateTime": "2020-12-15T06:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-a-data-driven-guide-to-whether-a-machine-will-be-doing-your-job-by-2025.md",
+      "title": "A Data-Driven Guide to Whether a Machine Will Be Doing Your Job By 2025",
+      "excerpt": "Humans and machines will clock the same work hours by 2025 (and other startling findings from the World Economic Forum’s ‘Future of Jobs 2020’ report).",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en/article/88a575/a-data-driven-guide-to-whether-a-machine-will-be-doing-your-job-by-2025",
+      "originalUrl": "https://www.vice.com/en/article/88a575/a-data-driven-guide-to-whether-a-machine-will-be-doing-your-job-by-2025",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com/_uncategorized/1608041314845-screen-shot-2020-12-02-at-91900-pm.png",
+          "width": 789,
+          "height": 414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en/article/88a575/a-data-driven-guide-to-whether-a-machine-will-be-doing-your-job-by-2025",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/88a575/a-data-driven-guide-to-whether-a-machine-will-be-doing-your-job-by-2025",
+      "publishedDateTime": "2020-12-15T06:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-tesla-hacker-unlocks-autopilot-augmented-vision-and-its-awesome.md",
+      "title": "Tesla hacker unlocks Autopilot ‘Augmented Vision’ and it’s awesome",
+      "excerpt": "A Tesla hacker has unlocked “Autopilot Augmented Vision,” a new mode in Tesla’s autonomous driving suite, that enables to see what Autopilot can detect in real time. It’s awesome to watch. More than two years ago,",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2020/12/15/tesla-hacker-unlocks-autopilot-augmented-vision-and-its-awesome/",
+      "originalUrl": "https://electrek.co/2020/12/15/tesla-hacker-unlocks-autopilot-augmented-vision-and-its-awesome/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/12/Tesla-Autopilot-Augmeneted-vision-e1608042867540.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2020/12/15/tesla-hacker-unlocks-autopilot-augmented-vision-and-its-awesome/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/12/15/tesla-hacker-unlocks-autopilot-augmented-vision-and-its-awesome/amp/",
+      "publishedDateTime": "2020-12-15T06:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-it-takes-a-lot-of-energy-for-machines-to-learn-why-ai-is-so-power-hungry.md",
+      "title": "It takes a lot of energy for machines to learn: Why AI is so power-hungry",
+      "excerpt": "Google forced out a prominent AI ethics researcher after she voiced frustration with the company for making her withdraw a research paper. The paper pointed out the risks of language-processing artificial intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2020-12-lot-energy-machines-ai-power-hungry.html",
+      "originalUrl": "https://techxplore.com/news/2020-12-lot-energy-machines-ai-power-hungry.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/ittakesaloto.jpg",
+          "width": 1356,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2020-12-lot-energy-machines-ai-power-hungry.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2020-12-lot-energy-machines-ai-power-hungry.amp",
+      "publishedDateTime": "2020-12-15T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-berg-deepens-research-collaboration-with-adventhealth-to-advance-aging-metabolism-and-nash-research.md",
+      "title": "BERG Deepens Research Collaboration With AdventHealth To Advance Aging, Metabolism and Nash Research",
+      "excerpt": "PRNewswire/ -- BERG, a clinical-stage biotech that employs patient biology and artificial intelligence (AI) to research diseases and develop",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/berg-deepens-research-collaboration-with-adventhealth-to-advance-aging-metabolism-and-nash-research-301192593.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/berg-deepens-research-collaboration-with-adventhealth-to-advance-aging-metabolism-and-nash-research-301192593.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1082030/BERG_Logo.jpg?p=facebook",
+          "width": 2865,
+          "height": 1499,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-15T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-nvidias-chips-have-powered-nearly-every-major-ai-breakthrough.md",
+      "title": "Nvidia’s Chips Have Powered Nearly Every Major AI Breakthrough",
+      "excerpt": "In the ‘50s, we imagined bionic men would soon be running factories. Within a decade, cyborgs would be doing our housework. We were promised a new breed of machines. 70 years later, what did we get?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stephenmcbride1/2020/12/15/nvidias-chips-have-powered-nearly-every-major-ai-breakthrough/",
+      "originalUrl": "https://www.forbes.com/sites/stephenmcbride1/2020/12/15/nvidias-chips-have-powered-nearly-every-major-ai-breakthrough/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd8bdc08240120acd5675ac%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3200%26cropY1%3D159%26cropY2%3D1959",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stephenmcbride1/2020/12/15/nvidias-chips-have-powered-nearly-every-major-ai-breakthrough/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenmcbride1/2020/12/15/nvidias-chips-have-powered-nearly-every-major-ai-breakthrough/amp/",
+      "publishedDateTime": "2020-12-15T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-amazon-zoox-introduces-self-driving-robot-taxi.md",
+      "title": "Amazon Zoox introduces self-driving robot taxi",
+      "excerpt": "Zoox, Amazon’s self-driving car company, draws the attention of its first robot taxi. Zoox debuted on Monday with an electric, completely driverless vehicle built to drive. It is a “coach-style” car,",
+      "sourceUrl": null,
+      "webUrl": "https://www.compsmag.com/news/business-news/amazon-zoox-introduces-self-driving-robot-taxi/",
+      "originalUrl": "https://www.compsmag.com/news/business-news/amazon-zoox-introduces-self-driving-robot-taxi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/12/1-521.jpg",
+          "width": 736,
+          "height": 415,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.compsmag.com/news/business-news/amazon-zoox-introduces-self-driving-robot-taxi/amp/",
+      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/business-news/amazon-zoox-introduces-self-driving-robot-taxi/amp/",
+      "publishedDateTime": "2020-12-15T05:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "compsmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
+      "excerpt": "Amazon may be best known as an e-commerce company but the company is also making big bets on artificial intelligence. Amazon Web Services (AWS), the company's cloud computing business, is not only ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/12/15/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "originalUrl": "https://www.fool.com/investing/2020/12/15/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F604683%2Fgettyimages-1145585734.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/12/15/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/15/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "publishedDateTime": "2020-12-15T04:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-15-ai-is-the-key-to-more-affordable-and-available-live-transcription.md",
       "title": "AI Is The Key To More Affordable And Available Live Transcription",
       "excerpt": "Many organizations with an accessibility mindset (or mandate) consider real-time transcription services a must-have for live events. How else to ensure every attendant is able to follow what's happening,",
@@ -824,395 +1207,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-roblox-acquires-loomai-for-realistic-avatars-and-delays-ipo-to-2021.md",
-      "title": "Roblox acquires Loom.ai for realistic avatars and delays IPO to 2021",
-      "excerpt": "Roblox has acquired Loom.ai for an undisclosed price to enable its users to create realistic 3D avatars. Roblox also delayed its IPO.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/14/roblox-acquires-loom-ai-for-realistic-avatars-and-delays-ipo-to-2021/",
-      "originalUrl": "https://venturebeat.com/2020/12/14/roblox-acquires-loom-ai-for-realistic-avatars-and-delays-ipo-to-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/Ready-Player-Two-Roblox-Event.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 740,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/14/roblox-acquires-loom-ai-for-realistic-avatars-and-delays-ipo-to-2021/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/14/roblox-acquires-loom-ai-for-realistic-avatars-and-delays-ipo-to-2021/amp/",
-      "publishedDateTime": "2020-12-14T17:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-big-brother-in-disguise-the-rise-of-a-new-technological-world-order.md",
-      "title": "Big Brother in Disguise: The Rise of a New, Technological World Order",
-      "excerpt": "You had to live—did live, from habit that became instinct—in the assumption that every sound you made was overheard, and, except in darkness, every movement scrutinized.”—George Orwell, 1984 It had the potential for disaster.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/big-brother-disguise-rise-new-technological-world-order-whitehead/",
-      "originalUrl": "https://www.linkedin.com/pulse/big-brother-disguise-rise-new-technological-world-order-whitehead/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQHQpsExSWWgtA/article-cover_image-shrink_720_1280/0/1608042175767?e=1614211200&v=beta&t=IKWznxYAMUu1-URizkra9UrTQDOm7sGWi8yNFqWpAnM",
-          "width": 612,
-          "height": 612,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-14T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-facebook-open-sources-game-playing-ai-rebel.md",
-      "title": "Facebook Open-Sources Game Playing AI ReBeL",
-      "excerpt": "Facebook AI Research (FAIR) published a paper on Recursive Belief-based Learning (ReBeL), their new AI for playing imperfect-information games that can defeat top human players in poker.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2020/12/facebook-poker-ai/",
-      "originalUrl": "https://www.infoq.com/news/2020/12/facebook-poker-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2020/12/facebook-poker-ai/en/headerimage/facebook-poker-ai-header-1607288751593.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-14T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-if-you-were-a-fintech-genie.md",
-      "title": "If you were a fintech genie...",
-      "excerpt": "By Theodora Lau & Bradley Leimer of Unconventional Ventures If you were a fintech genie in 2020, what wish would you grant? For a year that is far from normal, with many of us being socially isolated,",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/you-were-fintech-genie-theodora-lau",
-      "originalUrl": "https://www.linkedin.com/pulse/you-were-fintech-genie-theodora-lau",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQEb9SdtDzspAQ/article-cover_image-shrink_720_1280/0/1608058864776?e=1614211200&v=beta&t=pufKHrCX-RtjtOIjoofERJUvfnHgnEoiMWeLLV7XVSg",
-          "width": 1200,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-14T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-microsoft-releases-azure-bot-service-and-cognitive-services-language-understanding.md",
-      "title": "Microsoft releases Azure Bot Service and Cognitive Services Language Understanding",
-      "excerpt": "Microsoft Azure Bot Service and Microsoft Cognitive Services Language Understanding (LUIS) are now available. “Conversational AI, or making human and computer interactions more natural ...",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/ai/microsoft-releases-azure-bot-service-cognitive-services-language-understanding/",
-      "originalUrl": "https://sdtimes.com/ai/microsoft-releases-azure-bot-service-cognitive-services-language-understanding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2017/12/5588dd73-2c97-4efb-9a8e-e24ff0f31806.png",
-          "width": 1575,
-          "height": 847,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-14T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-using-personal-digital-assistants-to-document-pharmacist-cognitive-services-and-estimate-potential-reimbursement.md",
-      "title": "Using Personal Digital Assistants to Document Pharmacist Cognitive Services and Estimate Potential Reimbursement",
-      "excerpt": "Pharmacists documented cognitive services on Palm-based devices with ... Data were exported into Microsoft Excel 2000 for graphing. CliniTrend for Windows NT, version 2.02 (ASHP, Bethesda, MD ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medscape.com/viewarticle/453038_2",
-      "originalUrl": "https://www.medscape.com/viewarticle/453038_2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.medscape.com/thumbnail_library/Social_Facebook_806x806.jpg",
-          "width": 806,
-          "height": 806,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-14T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medscape",
-        "domain": "medscape.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-nopd-has-used-facial-recognition-since-at-least-2018-emails-reveal.md",
-      "title": "NOPD has used facial recognition since at least 2018, emails reveal",
-      "excerpt": "Although the practice was long shrouded in secrecy, the New Orleans Police Department has used a partnership with the Louisiana State Police to run face recognition searches since at least",
-      "sourceUrl": null,
-      "webUrl": "https://www.nola.com/news/crime_police/article_2e2fccb2-3e5c-11eb-a45d-032cabc1b089.html",
-      "originalUrl": "https://www.nola.com/news/crime_police/article_2e2fccb2-3e5c-11eb-a45d-032cabc1b089.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/0/06/0065f5a8-4ed7-538e-988a-de21a06170d7/5d239eab53a17.image.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nola.com/news/crime_police/article_2e2fccb2-3e5c-11eb-a45d-032cabc1b089.amp.html",
-      "cdnAmpWebUrl": "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/crime_police/article_2e2fccb2-3e5c-11eb-a45d-032cabc1b089.amp.html",
-      "publishedDateTime": "2020-12-14T15:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NOLA.com",
-        "domain": "nola.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-ai-ethics-learn-the-basics-in-this-free-online-course.md",
-      "title": "AI ethics: Learn the basics in this free online course",
-      "excerpt": "It's time to think about the potential risks of artificial intelligence, instead of after something happens. This free online course about AI ethics is a good starting point.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-ethics-learn-the-basics-in-this-free-online-course/",
-      "originalUrl": "https://www.techrepublic.com/article/ai-ethics-learn-the-basics-in-this-free-online-course/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/06/08/c72c3495-4430-4506-a732-ccffd727714b/resize/1200x/38c546efe64f75f3cbb60431c1a91006/istock-1183313700.jpg",
-          "width": 1200,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-ethics-learn-the-basics-in-this-free-online-course/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-ethics-learn-the-basics-in-this-free-online-course/",
-      "publishedDateTime": "2020-12-14T15:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

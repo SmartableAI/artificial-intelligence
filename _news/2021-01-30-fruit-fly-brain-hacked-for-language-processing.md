@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fruit Fly Brain Network Hacked For Language Processing"
-    excerpt: "A simulated fruit fly brain has learnt to perform natural language processing tasks."
-    publishedDateTime: 2021-01-28T21:33:00Z
-    webUrl: "https://www.discovermagazine.com/the-sciences/fruit-fly-brain-network-hacked-for-language-processing"
-    type: article
-    provider:
-      name: Discover Magazine
-      domain: discovermagazine.com
-    quality: 41
-    images:
-      - url: "https://images.ctfassets.net/cnu0m8re1exe/7qiurOYVouUMu2yuj7rqfU/352099944644717a8cdf5a484c9a5a42/shutterstock_134872160.jpg?w=650&h=433&fit=fill"
-        width: 650
-        height: 433
-        isCached: true
   - title: "Fruit Fly Brain Hacked For Language Processing"
     excerpt: "A simulated fruit fly brain has learnt to perform natural language processing tasks."
     publishedDateTime: 2021-01-29T06:00:00Z

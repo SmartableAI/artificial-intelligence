@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/audio/2021-02-01/using-ai-to-speed-
 webUrl: "https://www.bloomberg.com/news/audio/2021-02-01/using-ai-to-speed-up-the-covid-vaccination-process-podcast"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Covid breakthrough will save lives"
-    excerpt: "A team from the University of Cambridge is developing artificial intelligence (AI) algorithms to support doctors to decide what action to take on the front-line, such as giving oxygen and medications,"
-    publishedDateTime: 2021-02-02T03:03:00Z
-    webUrl: "https://cambridgenetwork.co.uk/news/612121"
-    type: article
-    provider:
-      name: Cambridge Network
-      domain: cambridgenetwork.co.uk
-    quality: 39
-    images:
-      - url: "https://cambridgenetwork.co.uk/sites/default/files/Collaboration_Zoom.width-840.jpg"
-        width: 700
-        height: 393
-        isCached: true
   - title: "Mass General uses artificial intelligence to bust imaging language barriers during COVID-19 pandemic"
     excerpt: "The COVID-19 pandemic has disproportionately affected members of minority communities, leaving some unable to obtain imaging services in a timely fashion. One Boston-based provider, however, is busting these care disparities,"
     publishedDateTime: 2021-02-02T07:53:00Z

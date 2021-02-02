@@ -43,22 +43,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Fintech Round-Up: CU Partnerships Spotlight Fraud Control, Financial Wellness"
-    excerpt: "Plus, a fintech launches a new cloud-based product and pricing platform specifically for community banks and credit unions."
-    publishedDateTime: 2021-01-28T22:35:00Z
-    webUrl: "https://www.cutimes.com/2021/01/28/fintech-round-up-cu-partnerships-spotlight-fraud-control-financial-wellness/"
-    ampWebUrl: "https://www.cutimes.com/2021/01/28/fintech-round-up-cu-partnerships-spotlight-fraud-control-financial-wellness/?amp=1"
-    cdnAmpWebUrl: "https://www-cutimes-com.cdn.ampproject.org/c/s/www.cutimes.com/2021/01/28/fintech-round-up-cu-partnerships-spotlight-fraud-control-financial-wellness/?amp=1"
-    type: article
-    provider:
-      name: Credit Union Times
-      domain: cutimes.com
-    quality: 41
-    images:
-      - url: "https://images.cutimes.com/contrib/content/uploads/sites/413/2020/12/fintech-bank-e1607455163832.jpg"
-        width: 620
-        height: 414
-        isCached: true
   - title: "Learn How to Invest in A Trillion-Dollar Industry With This $40 Fintech Bootcamp"
     excerpt: "The latest innovation since the internet is here and you need to invest in it. Finance meets technology in this fintech bootcamp bundle."
     publishedDateTime: 2021-02-02T10:00:00Z
@@ -103,6 +87,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Abu Dhabi's fintech opportunity"
+    excerpt: "Fintech, the confluence of financial services, products and regulation with technology, is shaking up the world of finance at an unprecedented rate. From automated compliance to cross border payments, AI-driven trading algorithms and the brave new world of ..."
+    publishedDateTime: 2021-02-02T14:48:00Z
+    webUrl: "https://www.arabianbusiness.com/comment/458149-abu-dhabis-fintech-opportunity"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 4
 
 secured: "hkGWDDVR6AUFcx5+R8hJEKzMb6h45dmN/BPowKjY1Q+zTS5CpJQHEKpe2oqrKvHhLbCx89hP+Z1PgRHkM8uuL7EgtSNQK40PciHDg3rRR6TosfTZv42dmlHbHmTGPAg3tzLddjZtw9AsV2YYnjVD6ufWHMdCaiYlVGSrRtbHSoGHFEqN9rpGpcFNAZijNsMYdFj4iHxo0lsvdBOmXQC9RtDSDue3ndnpQ9nx7ztwgOI7oGkELIAlKn9fAAMzgxGI7fznezCdhFDZgUFxEodIZXWGsGIR8Z5vepuRIZroVcdeK5t9IaxnMEMJlVr3xYU+AA/J0r/V8Okq7fVL9C5vN4/T2Dt3uf02Flxu8dPzjDw=;l/1VmCikTlLEVzxwJpusmg=="
 ---

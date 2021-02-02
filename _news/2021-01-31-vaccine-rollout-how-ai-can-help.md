@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomtaulli/2021/01/30/vaccine-rollout-ho
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2021/01/30/vaccine-rollout-how-ai-can-help/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Here’s how artificial intelligence can help improve your quality of hearing"
-    excerpt: "A recent device that has become a popular choice for patients with hearing loss is digital hearing aids, also known as artificial intelligence aids (AI). AI refers to smart devices and machines that are proficient in performing tasks that usually require human intelligence."
-    publishedDateTime: 2021-01-28T21:12:00Z
-    webUrl: "https://www.woodtv.com/wotv4women/the-crew/hearing/heres-how-artificial-intelligence-can-help-improve-your-quality-of-hearing/"
-    ampWebUrl: "https://www.woodtv.com/wotv4women/the-crew/hearing/heres-how-artificial-intelligence-can-help-improve-your-quality-of-hearing/amp/"
-    cdnAmpWebUrl: "https://www-woodtv-com.cdn.ampproject.org/c/s/www.woodtv.com/wotv4women/the-crew/hearing/heres-how-artificial-intelligence-can-help-improve-your-quality-of-hearing/amp/"
-    type: article
-    provider:
-      name: WOOD-TV
-      domain: woodtv.com
-    quality: 57
-    images:
-      - url: "https://www.woodtv.com/wp-content/uploads/sites/51/2021/01/GettyImages-856556294.jpg?w=1280"
-        width: 1280
-        height: 1337
-        isCached: true
 
 secured: "Db0c9EdwvnOjfk69TPDPSKjXaBM2O3zEgNEfgt8kBkoVr7KMKcAr/ZxiL+YDw1Mxh72FQD+gEYrLRCNKzqJy0ByKpIZXi9+MxmcgDIsG5c8s+ZkbHe3vIoOusNy/oRRicckRJynnSi3Za1Zk0+arsBxxlkTJ8sfvcz39qsb4PbE5/sImT77GOV3jiVvG9WMqA33fiKOG4w69IBRNXTa2lIh+rC5k1Qs7A8GxRlxA/0ocF/Pe+xDP28s7o5iJITDu6E0385oNOdcPknETapTiNC+96rSiR+wQ+OtEp0jepGC6H38tJ7iJ1isD6510YUXBAv96jEYK3rnRlW94YDFD2SPoN4zgWTTmBGDK200VL0ysm6buw/ReSrTxOO5uOptOWojpQ0cXKuTIpH4qLtRgYpqi73R/1lf2zIIhYiZ196blsA2aa9vcv/Z3MzbbIRB4hBhA/aucxPeQHB4l6V5YqsWHRYFXaBspjNXdmqOHBUNfoYMucTNGkvDL028fEVdf1isf/AbphXV3wdD+/9xbkQ==;bbHyULgrToH0CA35D63mqg=="
 ---

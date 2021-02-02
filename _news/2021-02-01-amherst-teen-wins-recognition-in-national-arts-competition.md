@@ -53,6 +53,20 @@ related:
         width: 1240
         height: 826
         isCached: true
+  - title: "Nuance Dragon Medical One Earns #1 Best in KLAS Award for Speech Recognition: Front-End EMR"
+    excerpt: "Nuance Communications, Inc. (NASDAQ: NUAN) today announced that Nuance Dragon® Medical One cloud-based speech recognition platform captured"
+    publishedDateTime: 2021-02-02T13:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/nuance-dragon-medical-one-earns-1-best-in-klas-award-for-speech-recognition-front-end-emr-301219608.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 29
+    images:
+      - url: "https://mma.prnewswire.com/media/1156940/Nuance_Communications_Logo.jpg?p=facebook"
+        width: 1500
+        height: 785
+        isCached: true
   - title: "Millions of faces were scanned without approval. We need rules for facial recognition tech | Commentary"
     excerpt: "Federal authorities say a San Francisco company scanned the faces of millions of people without their knowing it. What's needed are clear rules for how facial recognition technology can be collected and used,"
     publishedDateTime: 2021-01-31T23:31:00Z

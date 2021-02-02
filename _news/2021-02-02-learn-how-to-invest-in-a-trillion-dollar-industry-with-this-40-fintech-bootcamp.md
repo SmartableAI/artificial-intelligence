@@ -59,22 +59,6 @@ related:
         width: 6121
         height: 4081
         isCached: true
-  - title: "Fintech Round-Up: CU Partnerships Spotlight Fraud Control, Financial Wellness"
-    excerpt: "Plus, a fintech launches a new cloud-based product and pricing platform specifically for community banks and credit unions."
-    publishedDateTime: 2021-01-28T22:35:00Z
-    webUrl: "https://www.cutimes.com/2021/01/28/fintech-round-up-cu-partnerships-spotlight-fraud-control-financial-wellness/"
-    ampWebUrl: "https://www.cutimes.com/2021/01/28/fintech-round-up-cu-partnerships-spotlight-fraud-control-financial-wellness/?amp=1"
-    cdnAmpWebUrl: "https://www-cutimes-com.cdn.ampproject.org/c/s/www.cutimes.com/2021/01/28/fintech-round-up-cu-partnerships-spotlight-fraud-control-financial-wellness/?amp=1"
-    type: article
-    provider:
-      name: Credit Union Times
-      domain: cutimes.com
-    quality: 41
-    images:
-      - url: "https://images.cutimes.com/contrib/content/uploads/sites/413/2020/12/fintech-bank-e1607455163832.jpg"
-        width: 620
-        height: 414
-        isCached: true
   - title: "Must-watch Startups in Africa’s Fintech Space in 2021"
     excerpt: "More than $1.07 billion flowed into Africa’s startups in 2020, with the fintech sector accounting for 31% of this funding."
     publishedDateTime: 2021-01-30T20:01:00Z
@@ -103,6 +87,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Abu Dhabi's fintech opportunity"
+    excerpt: "Fintech, the confluence of financial services, products and regulation with technology, is shaking up the world of finance at an unprecedented rate. From automated compliance to cross border payments, AI-driven trading algorithms and the brave new world of ..."
+    publishedDateTime: 2021-02-02T14:48:00Z
+    webUrl: "https://www.arabianbusiness.com/comment/458149-abu-dhabis-fintech-opportunity"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 4
 
 secured: "9QLb6JZPN1X1LOpbfao3fonwzf2O3T4AOCnIdoK3/zGo03ux4HCEHj8DqvQ16rIAcL7n8dnhHnUg/0Aauu5X8uQ8FrrFbMZbdnWMQcrDzL18tYhqNdi5DMkmxvRhEKVCE8pzLKtXYVR0xWt8kcmj3eUmYgwgIZstDBDybFLrxag7qrgCsqki6DU6QBH0msu2ePxjCX2ZcsawIOsosxtWFdnNxNasyB8ICF7/YYVNqkmDhDiWeQRuJslo++I8AKZqTATS9m/X2A0NAXjhy2Fey/fPoIGZrQsXBEDRu3RqyJeddXtn1KGD1kKm0+GgPra/MNySO/iLeUisr2MsRwzMCo7MpSaWuqPUjUNHM7MJR2OVe8yTu8JwryXg59cXzfEjnFiswTkERNWntBt3w4/2mPLu1nfSx+CramTLYyPWB2DRrgCZBH3E0OxORpSi5bscOHAszt7LLi+LeGMcon2ua9Lwer/3fBnle4ArNr1/XVC4PG58a+vFXH2zmkRRS2aip2HSwxLhDFJhocJHC7bP8Q==;l9qZXgKGKEWz1AqKNZ5Rbg=="
 ---

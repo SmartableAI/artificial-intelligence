@@ -53,6 +53,20 @@ related:
         width: 1240
         height: 826
         isCached: true
+  - title: "Nuance Dragon Medical One Earns #1 Best in KLAS Award for Speech Recognition: Front-End EMR"
+    excerpt: "Nuance Communications, Inc. (NASDAQ: NUAN) today announced that Nuance Dragon® Medical One cloud-based speech recognition platform captured"
+    publishedDateTime: 2021-02-02T13:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/nuance-dragon-medical-one-earns-1-best-in-klas-award-for-speech-recognition-front-end-emr-301219608.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 29
+    images:
+      - url: "https://mma.prnewswire.com/media/1156940/Nuance_Communications_Logo.jpg?p=facebook"
+        width: 1500
+        height: 785
+        isCached: true
   - title: "Amherst teen wins recognition in national arts competition"
     excerpt: "Arden Lloyd first starting taking piano lessons when she was 8 at the behest of her parents. It wasn’t something she particularly objected to, she says, but on the other hand, “I didn’t take it too seriously."
     publishedDateTime: 2021-01-31T17:36:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-share-growth-insight-size-competitive-analysis-regional-and-global-forecast-to-2027-2021-02-02"
 type: article
 quality: 74
-heat: 184
+heat: 194
 published: true
 
 provider:
@@ -69,6 +69,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Face Recognition Device Market Scenario by Industry Growth, Size, Trends and Forecast by 2025"
+    excerpt: "Selbyville, Delaware, Global Face Recognition Device Market report added by Market Study Report that gives meticulous investigation of current scenario of the market size, share, demand, growth, trends,"
+    publishedDateTime: 2021-01-29T13:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-device-market-scenario-by-industry-growth-size-trends-and-forecast-by-2025-2021-01-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

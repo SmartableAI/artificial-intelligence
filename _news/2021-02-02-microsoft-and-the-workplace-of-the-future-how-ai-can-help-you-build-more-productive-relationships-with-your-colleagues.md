@@ -8,7 +8,7 @@ webUrl: "https://www.techrepublic.com/article/microsoft-and-the-workplace-of-the
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-and-the-workplace-of-the-future-how-ai-can-help-you-build-more-productive-relationships-with-your-colleagues/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-and-the-workplace-of-the-future-how-ai-can-help-you-build-more-productive-relationships-with-your-colleagues/"
 type: article
-quality: 80
+quality: 82
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - Microsoft AI
+  - AI Ethics
 
 images:
   - url: "https://tr3.cbsistatic.com/hub/i/r/2021/02/02/0913614a-f6f7-4acd-ae1b-db7ac3fbdf31/resize/1200x/76e6ecdbcb386ba09f38fbb29f53d792/ms-365-mwt-building-blocks.jpg"
@@ -46,6 +47,22 @@ related:
       - url: "https://cdn.neow.in/news/images/uploaded/2017/07/1499866975_microsoft-ai-for-earth_story.jpg"
         width: 760
         height: 428
+        isCached: true
+  - title: "Shell, C3 AI, Baker Hughes, and Microsoft Launch the Open AI Energy Initiative"
+    excerpt: "Shell, C3 AI, Baker Hughes, and Microsoft have launched the Open AI Energy Initiative (OAI), a first-of-its-kind open ecosystem of artificial intelligence (AI)-based solutions for the energy and process industries,"
+    publishedDateTime: 2021-02-02T08:09:00Z
+    webUrl: "https://www.hartenergy.com/news/shell-c3-ai-baker-hughes-and-microsoft-launch-open-ai-energy-initiative-192146"
+    ampWebUrl: "https://www.hartenergy.com/news/shell-c3-ai-baker-hughes-and-microsoft-launch-open-ai-energy-initiative-192146?amp"
+    cdnAmpWebUrl: "https://www-hartenergy-com.cdn.ampproject.org/c/s/www.hartenergy.com/news/shell-c3-ai-baker-hughes-and-microsoft-launch-open-ai-energy-initiative-192146?amp"
+    type: article
+    provider:
+      name: Hart Energy
+      domain: hartenergy.com
+    quality: 70
+    images:
+      - url: "https://www.hartenergy.com/themes/custom/hart_energy/screenshot.png"
+        width: 605
+        height: 500
         isCached: true
   - title: "Shell, C3 AI, Baker Hughes, and Microsoft Launch the Open AI Energy Initiative, an Ecosystem of AI Solutions to Help Transform the Energy Industry"
     excerpt: "Baker Hughes (NYSE:BKR), and Microsoft (NASDAQ:MSFT) today announced the launch of the Open AI Energy Initiative™ (OAI),"
@@ -73,6 +90,6 @@ related:
       domain: rigzone.com
     quality: 39
 
-secured: "tKf87vc6eCjqAuHz9FO4UDg9rMe2W29r9IEKCr8M6qvds/YeVm4W52dh8omTE5HtJKO+lx6/lR+GSt8wy949gZXUGZNmWmpE35NfuVAs+MBrLeGEj+z6/ejRrKkmQrVldGnfUPMtiqxRXxy99ipAj7pm6Xw7a2OEfeP2T323Z+eXKC1qImS/6riN4cE05g/g89D8fZ2JPKPA2evMsgYe+9yThT6IOAvf42LaMntq5GsA/N0CjXgXkBeKxxR8zH8uA1jUbRq1iZeI+6Q1Z29cRRp+dbCOhJf8u857FFRMdOAkMJTmr9inj5uFNCTLER29YPCmQSd8r06WXJedI4AqyC1cjgjOtApPQLbNOq9gEKI=;mlJzfKKfgj0qbI9Y+NHp8g=="
+secured: "1MHrs3F/efZtZyetadEI82lZCg+PAzCChRG1ypM7vP/q8oIJz8CyfrB8Aqk4UZeqYIZSiHS0FCyd0NwFYX+XAq+mG7HdYrqW9X7FpVcbwbt3rmq2TDIobwE4KXw1YCQ6g1hJMRZE6xg957RFZ6CZn2PqVZaGzAg4yjr9fbeECGMTnEZHOQoC2UfgMMCfw3GPJqKgKrOixTcxDb6qeZrMrUSy2emlIr3GEn0qSTPiHM3Yj1W3ZSFUYWs45wnRkNUJoIQtEKfshPaeBe3E41Lwqgv+sLMQLZAju3N/FsUHq0MCzZsNvBykiEntpNA1kbxazOogzJjCum49rHEZPWaZkK3923pVMy/3Sr6REuzaDEbeOKDHhSnF86dkD041aj4sxROPZ5iAHVa+sQ9ZFDnHoLsQeELTsVBdBco/Xwt61b+ZpGdbCr+lN7+kv5lbA+0nLno0FUortKSrT+exSuU3Pe6q+QNWOy6n+Aho5bK5Y+udurmIvyOr8bEb+brl6JFxVtz8M8NGveOE9GAmcrCUNg==;7aVEIauY+CiEd4nUdYhmPw=="
 ---
 

@@ -57,22 +57,6 @@ related:
         width: 6121
         height: 4081
         isCached: true
-  - title: "Fintech Round-Up: CU Partnerships Spotlight Fraud Control, Financial Wellness"
-    excerpt: "Plus, a fintech launches a new cloud-based product and pricing platform specifically for community banks and credit unions."
-    publishedDateTime: 2021-01-28T22:35:00Z
-    webUrl: "https://www.cutimes.com/2021/01/28/fintech-round-up-cu-partnerships-spotlight-fraud-control-financial-wellness/"
-    ampWebUrl: "https://www.cutimes.com/2021/01/28/fintech-round-up-cu-partnerships-spotlight-fraud-control-financial-wellness/?amp=1"
-    cdnAmpWebUrl: "https://www-cutimes-com.cdn.ampproject.org/c/s/www.cutimes.com/2021/01/28/fintech-round-up-cu-partnerships-spotlight-fraud-control-financial-wellness/?amp=1"
-    type: article
-    provider:
-      name: Credit Union Times
-      domain: cutimes.com
-    quality: 41
-    images:
-      - url: "https://images.cutimes.com/contrib/content/uploads/sites/413/2020/12/fintech-bank-e1607455163832.jpg"
-        width: 620
-        height: 414
-        isCached: true
   - title: "Learn How to Invest in A Trillion-Dollar Industry With This $40 Fintech Bootcamp"
     excerpt: "The latest innovation since the internet is here and you need to invest in it. Finance meets technology in this fintech bootcamp bundle."
     publishedDateTime: 2021-02-02T10:00:00Z
@@ -103,6 +87,15 @@ related:
         width: 1920
         height: 1180
         isCached: true
+  - title: "Abu Dhabi's fintech opportunity"
+    excerpt: "Fintech, the confluence of financial services, products and regulation with technology, is shaking up the world of finance at an unprecedented rate. From automated compliance to cross border payments, AI-driven trading algorithms and the brave new world of ..."
+    publishedDateTime: 2021-02-02T14:48:00Z
+    webUrl: "https://www.arabianbusiness.com/comment/458149-abu-dhabis-fintech-opportunity"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 4
 
 secured: "3EQGknc5tSFt5nZqDUDAzyb6sAoSF+TrgJn9uDtECZmTlsZ2u97njOa8QAmDJ4aZe3TlXywRtPjjI5uA0EEB3JcijNwO3af3ZNtxNWJcSUFz2yjqL6mYQTDsbFp067/+cvGaf6xa4n8boZpQ32h4N90EBTUjigB1VAMPflPsciEwJOnprBeSh5fVMUeZqwAtBKrHYYoOS/bynH1fZkj5tR4OX1nbHvUAD49zXKUumEOzM6B2s0FgMKriBptCOMm0jkmsMgbbTEhIkdAnxADnE3uUyMoRTFONFBBZdBKvpm4Xprz20Ndx6fn549//tYM+w7t/X50KkHzU33ECJ6d/L075pHxmMhXS2GsDcTOQJx9wtAU7SkRXeuhR/V4M7faZlpQNt+K4V93jpDt6yLmVDWOuhF0UOVWJon317WeGK6rdVtvIhOUdtkjNEA6nAdc7/4yyrMoiJyFOL9LkXboEbe/0B2sUtW1vdTHgg03G/QAQIuUnQGFOAmLXEuM4R5R7cHWLyvOtnQNLZDImQti+Xg==;W5rD1Cm20qt21fTjrcQvIA=="
 ---

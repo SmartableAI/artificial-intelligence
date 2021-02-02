@@ -9,7 +9,7 @@ ampWebUrl: "https://galusaustralis.com/2021/01/1047902/towards-a-framework-for-f
 cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2021/01/1047902/towards-a-framework-for-face-recognition-in-europe/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 480
         height: 226
         isCached: true
+  - title: "Facial Recognition Ethical Framework Launched by BSIA"
+    excerpt: "The British Security Industry Association’s (BSIA) video surveillance section has launched an ethical and legal use guide for Automated Facial Recognition (AFR). The guide, recommended by the Organization for Economic Co-operation and Development,"
+    publishedDateTime: 2021-02-01T12:25:00Z
+    webUrl: "https://www.infosecurity-magazine.com/news/facial-recognition-ethical/"
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 36
   - title: "Deep-learning-based high-resolution recognition of fractional-spatial-mode-encoded data for free-space optical communications"
     excerpt: "Structured light with spatial degrees of freedom (DoF) is considered a potential solution to address the unprecedented demand for data traffic, but there is a limit to effectively improving the communication capacity by its integer quantization."
     publishedDateTime: 2021-01-29T20:16:00Z

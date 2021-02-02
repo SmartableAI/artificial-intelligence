@@ -28,17 +28,17 @@ images:
     isCached: true
 
 related:
-  - title: "AI No Silver Bullet for Cloud Security, but Here’s How It Can Help"
-    excerpt: "In this article, the author look at the real role of artificial intelligence in cloud security – the hype, the reality, and how we can resolve the gap between them. He encourages the reader to focus on making cloud security platforms that allow humans to provide truly intelligent threat responses,"
-    publishedDateTime: 2021-02-01T13:07:00Z
-    webUrl: "https://www.infoq.com/articles/ai-cloud-security/"
+  - title: "How Medical Technology Companies are Taking Full Advantage of Artificial Intelligence (AI) In Healthcare"
+    excerpt: "PR Newswire PALM BEACH, Fla., Feb. 2, 2021 Financialnewsmedia.com News Com"
+    publishedDateTime: 2021-02-02T14:48:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2021-02-02/how-medical-technology-companies-are-taking-full-advantage-of-artificial-intelligence-ai-in-healthcare"
     type: article
     provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 54
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 82
     images:
-      - url: "https://res.infoq.com/articles/ai-cloud-security/en/headerimage/AI-no-silver-bullet-for-cloud-security-big-1611928293018.jpg"
+      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
         width: 1200
         height: 630
         isCached: true

@@ -57,6 +57,15 @@ related:
         width: 480
         height: 226
         isCached: true
+  - title: "Facial Recognition Ethical Framework Launched by BSIA"
+    excerpt: "The British Security Industry Association’s (BSIA) video surveillance section has launched an ethical and legal use guide for Automated Facial Recognition (AFR). The guide, recommended by the Organization for Economic Co-operation and Development,"
+    publishedDateTime: 2021-02-01T12:25:00Z
+    webUrl: "https://www.infosecurity-magazine.com/news/facial-recognition-ethical/"
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 36
 
 secured: "a+Gr3b+AeXLyTqxpjz4JeeovB0XXKNJCluhcLinu+/J4uxQDhfMm0vAvLmhJ9yQxencIchpMP/LwC9Esd4Bq/s5W9wsckKUNOm/+ZhiJHRGYq5Ofqv8WrCFTgmtLkezjup/wTWekTmo6EuJ6+V+2ISWRY3f1uKIKVzjxwrIegE+o64N7tV9Wi2yC9uAJv/zcW0uJt84nfQGSMOX+di4kDkt8DFH25qz4jX57/rgagKLNX1WDuikpdEpSJzHgZjXQITu+KjGNpRbQONpLjceaMtH8zY478/Tn7rqJ9WPinsxLnfzGoPExeMp0EdTxUa6ebVhxdOFX/ty+6eTUSX29VdYiyEklNgMsdieqIHs0fpsSqPj92fdzm1wZ2MaQmWWW+eopM0vdy34hSsi3FXivEWKoZg1huGfB3Ja0gdJBJEh5HVtcMtO2NsbccuZ9DdZ2unsKAzMitEhGldkF7NjN6epIuRfcBHY190quD7xwAUNjAUHEcOBDi+DfXwKvk3O/yzOH3f/yzUB0sij+9Zz2VA==;X2FZemyWdbZt17r6GCS0WQ=="
 ---

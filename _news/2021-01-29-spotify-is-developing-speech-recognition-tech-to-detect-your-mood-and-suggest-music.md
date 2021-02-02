@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/in/amp/news/spotify-is-developing-speech-r
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/spotify-is-developing-speech-recognition-tech-to-detect-your-mood-and-suggest-music"
 type: article
 quality: 68
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/Spotify-patents-technology-to-recommend-songs-based-on-the-speech.jpg"
         width: 1366
         height: 768
-        isCached: true
-  - title: "Spotify patents tech that can analyze speech patterns and emotional states to recommend music"
-    excerpt: "A new Spotify patent describes a speech recognition technology capable of recommending music based on user audio recordings."
-    publishedDateTime: 2021-01-28T21:18:00Z
-    webUrl: "https://www.thefader.com/2021/01/28/spotify-patents-tech-that-can-analyze-speech-patterns-and-emotional-states-to-recommend-music"
-    ampWebUrl: "https://www.thefader.com/2021/01/28/spotify-patents-tech-that-can-analyze-speech-patterns-and-emotional-states-to-recommend-music/amp"
-    cdnAmpWebUrl: "https://www-thefader-com.cdn.ampproject.org/c/s/www.thefader.com/2021/01/28/spotify-patents-tech-that-can-analyze-speech-patterns-and-emotional-states-to-recommend-music/amp"
-    type: article
-    provider:
-      name: The Fader
-      domain: thefader.com
-    quality: 33
-    images:
-      - url: "https://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_533,w_1024,x_0,y_0,f_auto,q_auto:eco/photo-by-lionel-bonaventure-afp-via-getty-images_wlrrnz/photo-by-lionel-bonaventure-afp-via-getty-images_wlrrnz.jpg"
-        width: 1024
-        height: 533
         isCached: true
   - title: "Spotify wants to analyse your VOICE and suggest songs based on your emotions, patent reveals"
     excerpt: "Spotify was granted a patent on January 12 that lets them listen to your voice to determine your age, gender, accent and current emotional state to pick songs you might want to hear."

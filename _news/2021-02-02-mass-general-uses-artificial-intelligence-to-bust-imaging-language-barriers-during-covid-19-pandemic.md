@@ -38,21 +38,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Covid breakthrough will save lives"
-    excerpt: "A team from the University of Cambridge is developing artificial intelligence (AI) algorithms to support doctors to decide what action to take on the front-line, such as giving oxygen and medications,"
-    publishedDateTime: 2021-02-02T03:03:00Z
-    webUrl: "https://cambridgenetwork.co.uk/news/612121"
-    type: article
-    provider:
-      name: Cambridge Network
-      domain: cambridgenetwork.co.uk
-    quality: 39
-    images:
-      - url: "https://cambridgenetwork.co.uk/sites/default/files/Collaboration_Zoom.width-840.jpg"
-        width: 700
-        height: 393
-        isCached: true
 
-secured: "otCbZp1zfRFF8jKWsQNe68u9OFJotXfJht9w2lMjqU1HGRsomP5Om9r/Mn8SRjbDR1rBlGZQ5TpZSYBYtSkiXi8S92PEP/avpgnoiHVV8kOxrtGKG0Y41T+fCYguIuXPLjht7Dw4O4dIThk61065123vz6uO/bghPGeiDIZpV8d7jhHDXFmNdy667xlkcxqBbCy2fiMbN5MsRm5FAnuDmQ1LDf08UXS0+eekicXJCCNAD6jHKaaGhxqxszYAGSpCg5N4iiJWOuxHsjnslaT6B5LW9angkq9pgp3GbZi9s8/7Sog+vWzbzv3IchJ6RUns3CIUrSpVoCp645YHsmjBUWKNO0NKKSlAGOp4AGXKhQc=;hAXlBQL5YUrJNiO7z7nJjQ=="
+secured: "kV4BPukxcgEHkh400OFWf8O6sLZqN3SL3UN2pguESpt1j9ofXZUPQefUGu62143nCAfZVdBSXFN4hJfiX0dQ+lZOnBnsIQ4B40Fk+OcoFd4HGsA3zNfF8/jGGrnXt9FFD823boT8uVx9ErF+eX2Rq/yEcD7NPG3oi260tXvlxU5sgMaa03LGFwVQ0qGmcKHEvK1Nzpigaip7G9pFz6J2A7MXOxM5ZoTjX2JuMuWIZ9YWw2MmHuyk2KUvYW3JH79Hnr51i0HIRS82OllMW/1OwsPqgI4xdrc7S6I51Ykh02a6pu8S+8zvdug6Rztslef8l/P8gq40U0hS1lynC6zOqynwnOltYyqUjaNxXNOVofmzRz5q0Lhv2MWv1pQ5zxsmzULtwwHDOW5Qn8KeMKAgU12HJcIAU0gTfRn1nJXFKjLW47Fxzmd627165PqDV8d7E7GVzYX82y/+IukhmGsVFzVn1ZBJHHflgGvfI+uQY+Xt7knPjoUa0crWtdb14BBSZZCN6LLX50uMVpV4oOrhdQ==;8/QcM64A2pnkA9LAYc6YQQ=="
 ---
 

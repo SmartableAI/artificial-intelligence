@@ -75,22 +75,6 @@ related:
         width: 1366
         height: 768
         isCached: true
-  - title: "Spotify patents tech that can analyze speech patterns and emotional states to recommend music"
-    excerpt: "A new Spotify patent describes a speech recognition technology capable of recommending music based on user audio recordings."
-    publishedDateTime: 2021-01-28T21:18:00Z
-    webUrl: "https://www.thefader.com/2021/01/28/spotify-patents-tech-that-can-analyze-speech-patterns-and-emotional-states-to-recommend-music"
-    ampWebUrl: "https://www.thefader.com/2021/01/28/spotify-patents-tech-that-can-analyze-speech-patterns-and-emotional-states-to-recommend-music/amp"
-    cdnAmpWebUrl: "https://www-thefader-com.cdn.ampproject.org/c/s/www.thefader.com/2021/01/28/spotify-patents-tech-that-can-analyze-speech-patterns-and-emotional-states-to-recommend-music/amp"
-    type: article
-    provider:
-      name: The Fader
-      domain: thefader.com
-    quality: 33
-    images:
-      - url: "https://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_533,w_1024,x_0,y_0,f_auto,q_auto:eco/photo-by-lionel-bonaventure-afp-via-getty-images_wlrrnz/photo-by-lionel-bonaventure-afp-via-getty-images_wlrrnz.jpg"
-        width: 1024
-        height: 533
-        isCached: true
 
 secured: "5PK5P0XkikZJILZAcJsnFFOTHmi9ncmU2f+ykR4OzQU4jnD8HoGoLS4nXu130PzHiUYRza4nj8XDhOktMsUOSAL1GOjPqGEyZag64Mdx9jZoIKPkBwz97FCK9Rpx2SOa8gjgZYFSiJMzatQ/9wwdI3iCtMTWTobGKyYOmhJP+rn+JlGh03dkj34NVZ+vuF6M0xg6ucyLVZ6fa+Nyb12yfJsaLbjkUQmBuugTNMWFJ6gknJhI0snafYhDDPVcpE/TL/DAMHeaAFj4AA4PHslBihoZYvtC8bhYaU6No4dtxqcz0+Wn84uPvWEntlEwM2oGKk4bx7trlmdSd/fr1qRawaMlFKUuQ6LoIc981J3PpYSNSipgX19gAYsXuS0rolOYrUZLXJNqrqhQT3ost4BWrVjFzxU0NIGWB3nI6mRHC3H8cRc/N3js7URUKT8q9WzsqbNxPijrgesXIaPm+Ey3iDFbKrHKP3FsuILiasRY43/9eekXzDfY3VyRixx19AW7SWMmKvhryJ2c7a2gM0XQTw==;AbNYwOmWA4aZlFHBS7J5bA=="
 ---

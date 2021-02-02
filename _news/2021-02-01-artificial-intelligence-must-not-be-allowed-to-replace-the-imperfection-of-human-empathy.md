@@ -9,7 +9,7 @@ ampWebUrl: "https://theconversation.com/amp/artificial-intelligence-must-not-be-
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/artificial-intelligence-must-not-be-allowed-to-replace-the-imperfection-of-human-empathy-151636"
 type: article
 quality: 52
-heat: 52
+heat: 62
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 320
     height: 213
     isCached: true
+
+related:
+  - title: "Artificial intelligence must not be allowed to replace the imperfection of human empathy"
+    excerpt: "At the heart of the development of AI appears to be a search for perfection. And it could be just as dangerous to humanity as the one that came from philosophical and pseudoscientific ideas of the 19th and early"
+    publishedDateTime: 2021-02-02T13:32:00Z
+    webUrl: "https://www.econotimes.com/Artificial-intelligence-must-not-be-allowed-to-replace-the-imperfection-of-human-empathy-1601293"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 30
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/2021020263ee77b3097f0de0d_th_1024x0.jpg"
+        width: 1024
+        height: 769
+        isCached: true
 
 secured: "XXapExjVxmoIEx3+FH1MUcGDxSXc+TTMPwLkCQ7ssXD5YTHs2acqQbeQFCmaA+ID0E8cI7AcBk1tCoXbcvdv16V0MwcMkXmK2R3ow6Kex6LBK6OYywreiYhrtyzPIdvauaeFKzgs446uu7RwqCLjFyyO1rt+5a3RNJNuIUoy0cEQRGwO42fzlEYypH9UIbzD7rWGVVoTkxNzoZPLTSUsPUK/zhVwI+A9ZCx8BH7J9lQFTC45WUWizNpdobdibUs/RpQvkra4K9xIljrWWmu+OVTXZwHge50ZwGo6nRkZIrELHyX58miRBDEMs+26tHqlP1zPQPARmPWX9Kj9weLImTcgCxuVuW8eRITEhyfLAYMMS2BkAEKolrR6Z+El8rLekEVPGaQejGj0MExTyQe1TpIntPFC4MAkfUEnhIk0RLiOx7j/mxVKw+IkgSxcTzp2tUgSNAKzeBeMIcdPzgGwZV0TbadqgGej5UtThRN70V5EGHVN2BG/T6dVzt+FgVUQL96WbjRL1Dd8eCmb6q8U4g==;7QQe9DgKJImkZu3EugP1UA=="
 ---
