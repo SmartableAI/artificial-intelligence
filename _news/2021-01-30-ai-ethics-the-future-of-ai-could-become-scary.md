@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/videos/ai-ethics-the-future-of-ai-cou
 webUrl: "https://www.techrepublic.com/videos/ai-ethics-the-future-of-ai-could-become-scary/"
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://www.predictiveanalyticsworld.com/machinelearningtimes/wp-content/uploads/2020/10/MSDS_270x270_LM.gif"
         width: 270
         height: 270
-        isCached: true
-  - title: "Sharing Our AI Ethics Framework"
-    excerpt: "Artificial intelligence (AI) is one of the biggest technology revolutions of our time. In the same way we have electrified factories and machines in the past century, we will infuse AI into every software and system in the 21st century."
-    publishedDateTime: 2021-01-28T17:33:00Z
-    webUrl: "https://www.linkedin.com/pulse/sharing-our-ai-ethics-framework-arvind-krishna"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 54
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGeIX1PljlFNA/article-cover_image-shrink_720_1280/0/1611841497895?e=1617235200&v=beta&t=RJ41BRX2JUtyajpy73NuqQidprD_u1fFhCDFbU5-tIg"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "QwQcclIJSSFuDKaT+Kyx58gvWEwomaNuRFeblpJVdKX/DWrfx8CfNoLApss34T5kpnRSEFl/M1O5AlVuai092lnXs6eKgNUX03C04LCQJFm6kMc8iifQ3BfzXNIeV3i+UhvKSmnrqaSHztmA8FkNPxEUY7FiPU1GScunGmCVJjjUpzCQbA9o1UbDnjp4InLSHU0RXWa1b/wlD63KTnB3e1pDEqhfU2MpSzKhyXk40+W/ej299nlREfoBaAUlQNKujD8yF0ZnRky0aZ7tW5DzKmcPUTZOPxQUafXjRhcky14oefNG7f6bhdJuUFqutcKkAUZxPLvc7kIaeo+SV/umov7o+Nuh42irW/+5CP0ud0flN5anRZYI/i/Wcw6utn/gF/MJH3rpSIZD6F0e5/+rL10WZ1P1pvKdFB6pHzPOJuU4bMmG8rSduo0Gwlu/gRICQjkC2G6X3G8wT++OJlWC5eK3sms7LKGVV6rnfcEo9bdALMJpTY/OCNVRU0aDbTLJli2x7wEUxZAILCfn+0J/Zw==;qkzQrf/sICHhgTTdHMNqdQ=="

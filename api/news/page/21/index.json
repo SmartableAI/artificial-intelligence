@@ -2,6 +2,102 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-01-16-artificial-intelligence-beats-us-in-chess-but-not-in-memory.md",
+      "title": "Artificial intelligence beats us in chess, but not in memory",
+      "excerpt": "In the last decades, artificial intelligence has shown to be very good at achieving exceptional goals in several fields. Chess is one of them: in 1996, for the first time, the computer Deep Blue beat a human player,",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-01-artificial-intelligence-chess-memory.html",
+      "originalUrl": "https://phys.org/news/2021-01-artificial-intelligence-chess-memory.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/5-artificialin.jpg",
+          "width": 985,
+          "height": 704,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-01-artificial-intelligence-chess-memory.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-01-artificial-intelligence-chess-memory.amp",
+      "publishedDateTime": "2021-01-15T08:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-16-blockchain-beyond-bitcoin-transforming-fintech-healthcare-and-more.md",
+      "title": "Blockchain Beyond Bitcoin: Transforming FinTech, Healthcare, And More",
+      "excerpt": "The origin of blockchain dates back to 1991, when researchers Stuart Haber and W. Scott Stornetta outlined a system to document timestamps that could not be altered. However, it is most widely known as the underpinning of Bitcoin,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2021/01/15/blockchain-beyond-bitcoin-transforming-fintech-healthcare-and-more/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2021/01/15/blockchain-beyond-bitcoin-transforming-fintech-healthcare-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6001bffef1677f1270da7683%2F0x0.jpg",
+          "width": 1200,
+          "height": 593,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2021/01/15/blockchain-beyond-bitcoin-transforming-fintech-healthcare-and-more/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/01/15/blockchain-beyond-bitcoin-transforming-fintech-healthcare-and-more/amp/",
+      "publishedDateTime": "2021-01-15T08:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-01-15-i-am-not-a-soldier-but-i-have-been-trained-to-kill.md",
       "title": "I Am Not a Soldier, but I Have Been Trained to Kill",
       "excerpt": "A sprawling tactical industry is teaching American civilians how to fight like Special Ops forces. By preparing for violence at home, are they calling it into being?",
@@ -1094,83 +1190,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-oracle-extends-database-leadership-with-oracle-database-21c.md",
-      "title": "Oracle extends database leadership with Oracle database 21c",
-      "excerpt": "Oracle Database 21c contains more than 200 new innovations, including immutable blockchain tables, In-Database JavaScript, native JSON binary data type, AutoML for in-database machine learning (ML), and persistent memory store, as well as enhancements for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/mena/en/press-releases/story/Oracle_extends_database_leadership_with_Oracle_database_21c-ZAWYA20210114095931/",
-      "originalUrl": "https://www.zawya.com/mena/en/press-releases/story/Oracle_extends_database_leadership_with_Oracle_database_21c-ZAWYA20210114095931/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/ZAWYA20210114095931/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210114095931/",
-      "publishedDateTime": "2021-01-14T12:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-deep-learning-outperforms-standard-machine-learning-in-biomedical-research-applications.md",
-      "title": "Deep learning outperforms standard machine learning in biomedical research applications",
-      "excerpt": "ATLANTA--Compared to standard machine learning models, deep learning models are largely superior at discerning patterns and discriminative features in brain imaging, despite being more complex in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2021-01/gsu-dlo011421.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-01/gsu-dlo011421.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-14T11:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

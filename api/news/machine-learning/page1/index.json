@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-02-how-machine-learning-can-improve-our-email-experience.md",
+      "title": "How Machine Learning Can Improve Our Email Experience",
+      "excerpt": "Around 2015 or 2016, Google began a strategic move, possibly one of the most important it has undertaken in its more than 20 years of existence, to incorporate machine learning and apply it to all its products.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/enriquedans/2021/02/02/how-machine-learning-can-improve-our-email-experience/",
+      "originalUrl": "https://www.forbes.com/sites/enriquedans/2021/02/02/how-machine-learning-can-improve-our-email-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60192be6e789e0fa6557c369%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3935%26cropY1%3D82%26cropY2%3D1927",
+          "width": 1200,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/enriquedans/2021/02/02/how-machine-learning-can-improve-our-email-experience/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/enriquedans/2021/02/02/how-machine-learning-can-improve-our-email-experience/amp/",
+      "publishedDateTime": "2021-02-02T02:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-01-this-month-in-aws-machine-learning-january-edition.md",
       "title": "This month in AWS Machine Learning: January edition",
       "excerpt": "Hello and welcome to our first “This month in AWS Machine Learning” of 2021! Every day there is something new going on in the world of AWS Machine Learning—from launches to new to use cases to interactive trainings. We’re packaging some of the not-to-miss information from the ML Blog and beyond for easy",
@@ -63,7 +115,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-machine-learning-as-a-service-market-2020-with-covid-19-impact-analysis-and-forecast-by-2025-2021-02-01",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -849,7 +901,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/managing-your-machine-learning-lifecycle-with-mlflow-and-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 130,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -1353,50 +1405,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning.md",
-      "title": "Pinecone leaves stealth with $10M, launches first serverless vector database for machine learning",
-      "excerpt": "Built by the team behind Amazon SageMaker and founded by scientist and former AWS Director Edo Liberty, Pinecone makes large-scale real-time inference as simple as querying a database. It is ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-1030010484",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-1030010484",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-1030010484",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-1030010484",
-      "publishedDateTime": "2021-01-27T07:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI",
         "Machine Learning"
       ]

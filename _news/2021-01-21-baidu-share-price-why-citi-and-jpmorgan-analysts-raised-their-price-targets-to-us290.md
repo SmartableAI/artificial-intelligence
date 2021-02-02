@@ -3,8 +3,8 @@ category: news
 title: "Baidu share price: Why Citi and JPMorgan analysts raised their price targets to US$290"
 excerpt: "Baidu share price: the latest. Chinese search engine company Baidu’s share price has burgeoned roughly 19% since announcing that it would be entering the electric vehicle (EV) s"
 publishedDateTime: 2021-01-21T06:36:00Z
-originalUrl: "https://www.ig.com/sg/news-and-trade-ideas/baidu-share-price--why-citi-and-jpmorgan-analysts-raised-their-p-210121"
-webUrl: "https://www.ig.com/sg/news-and-trade-ideas/baidu-share-price--why-citi-and-jpmorgan-analysts-raised-their-p-210121"
+originalUrl: "https://www.ig.com/sg/news-and-trade-ideas/baidu-share-price--why-citi-and-jpmorgan-analysts-raised-their-p-210121.amp"
+webUrl: "https://www.ig.com/sg/news-and-trade-ideas/baidu-share-price--why-citi-and-jpmorgan-analysts-raised-their-p-210121.amp"
 ampWebUrl: "https://www.ig.com/sg/news-and-trade-ideas/baidu-share-price--why-citi-and-jpmorgan-analysts-raised-their-p-210121.amp"
 cdnAmpWebUrl: "https://www-ig-com.cdn.ampproject.org/c/s/www.ig.com/sg/news-and-trade-ideas/baidu-share-price--why-citi-and-jpmorgan-analysts-raised-their-p-210121.amp"
 type: article
@@ -23,6 +23,6 @@ images:
     height: 450
     isCached: true
 
-secured: "wsgGD4joUZqAsi33cLivJmp67urOBfbHxidbu298xgvIZ6971Hgxunna/U/iUu9JmqrRBtfm/YkE4hZEXT/cNGvy9R2v5pQhSNhlx47sHOIx2eZ4YLMTdI3xZ8J/16MpOAK6wG2NYkBbayLxs1iSOq8KSAlo6Syo7sxlE94hAn6Ggvk1/6lfTYDwhNIUC3RUImVDYIYSs99CB51k4HtlseYpDJjS/WGnmrjjNSdhuYSN8NJOxdve0TipR4NiBfD0gv/TjR+lrjJhg3hhDHzyvMxBGyyfzpZJN+ophzgIMGw8ThGGS8Uxr9RhAJhpLFI5m3Rrq/7JMdr8olJ0ViabBv2jy4y8lSpeXa3pSaY6qulxy9kxr4Bt0EQeiUC+DozkioFFjeFU/1L61eRHuvHpVbGAMikoOSXn53/vYUO0UstBv6MSJ8cNAExf/BXRtl2MGvyQg2WbmHvMR+KqC5SRvOrkKF5PFBzZJvLEpvmardltWzuFX1vHkv+ygMFM1yTlg2iSqkugaRmlYKaDVWdzxw==;uIoazlxK4PrZYmjYYn7OYA=="
+secured: "SaCfEecKZwryb2ImbP7fLyXpC+IP5+LqX8IijLwApxEgSZS7VWgCQds5v78rLtnxmOdIRntLsYnFtHq9p+h5R8RXmtp2KTYbon+sOoYSShwoqQkhoPYkJI5YBLX+vh+LWHswf7U8FCWSMe75XWbUf+aTsRfqXWwliKsQkXmSZr24Khe3BSg/ikYC9mFnZr5fdp6st/1OJTOKXsf6/z31FoF1a3o/WXnZPFhoh9j/Wl2tQ9asjRNz+2/0moRXxLhKXFWQoIjjID47/WlIeA109EPJ+RmL1Uqk6dLdYmAkt4LeHi7qbpbU1YOC/B0aapO3lbQS7fVZyOtvAPPSajWK+zb3Mw1p/bR6I/65oAkC6Gw=;1KddCwdGO1LLfaNRBJwR3Q=="
 ---
 

@@ -2,6 +2,145 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-01-guardforce-ai-announces-two-new-appointments-to-its-board-of-directors.md",
+      "title": "Guardforce AI Announces Two New Appointments to its Board of Directors",
+      "excerpt": "Guardforce AI Co., Ltd (OTC Pink: GRDAF) (\"Guardforce AI\"), an integrated security solutions provider in Asia, announced today the appointment of two independent board members, John Fletcher and David Ian Viccars,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/guardforce-ai-announces-two-new-appointments-to-its-board-of-directors-1030027474",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/guardforce-ai-announces-two-new-appointments-to-its-board-of-directors-1030027474",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/guardforce-ai-announces-two-new-appointments-to-its-board-of-directors-1030027474",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/guardforce-ai-announces-two-new-appointments-to-its-board-of-directors-1030027474",
+      "publishedDateTime": "2021-02-01T05:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-01-budget-2021-ai-ml-and-analytics-to-ease-compliance-burden-and-check-tax-evasion.md",
+      "title": "Budget 2021: AI, ML and analytics to ease compliance burden and check tax evasion",
+      "excerpt": "The Union Budget 2021 presented by Finance Minister Nirmala Sitharaman threw emphasis on technologies like Artificial Intelligence and Machine Learning, and their application to the e-Governance, GST and easing",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/budget-2021-ai-ml-analytics-ease-compliance-burden-check-tax-evasion/",
+      "originalUrl": "https://www.dqindia.com/budget-2021-ai-ml-analytics-ease-compliance-burden-check-tax-evasion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2021/02/AI-analytics-Union_Buget_2021.jpg",
+          "width": 850,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/budget-2021-ai-ml-analytics-ease-compliance-burden-check-tax-evasion/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/budget-2021-ai-ml-analytics-ease-compliance-burden-check-tax-evasion/amp/",
+      "publishedDateTime": "2021-02-01T04:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-02-01-microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream.md",
+      "title": "Microsoft's cutting-edge machine-learning tool moves from the lab to the mainstream",
+      "excerpt": "Machine learning that can explore the world can solve different problems. These are the Microsoft services that make it something mainstream developers can use.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/",
+      "originalUrl": "https://www.techrepublic.com/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2021/02/01/1b622622-e749-47c0-9c60-ed09ab784bbe/resize/400x/f50dcab974e7e9400bbc49f5c9acb474/rl-wikipedia-2.jpg",
+          "width": 400,
+          "height": 388,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/",
+      "publishedDateTime": "2021-02-01T04:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-02-01-to-add-value-to-your-business-dont-treat-data-and-ai-as-islands.md",
       "title": "To Add Value To Your Business, Don't Treat Data And AI As Islands",
       "excerpt": "The best strategy is one that can connect enterprise data and AI-related efforts to everything we care about and turn data into intelligent experiences.",
@@ -1016,7 +1155,7 @@
       "originalUrl": "https://www.nytimes.com/2021/01/31/technology/facial-recognition-photo-tool.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 151,
       "tags": null,
       "images": [
         {
@@ -1058,152 +1197,6 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-01-31-vaccine-rollout-how-ai-can-help.md",
-      "title": "Vaccine Rollout: How AI Can Help",
-      "excerpt": "Yet it seems that technologies like AI can help with the challenges. \"Humans don’t have the capacity to consider thousands of competing and evolving factors,” said Arijit Sengupta, who is the Founder and CEO of Aible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2021/01/30/vaccine-rollout-how-ai-can-help/",
-      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2021/01/30/vaccine-rollout-how-ai-can-help/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60161ce25e2686b3d7cc8107%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7626%26cropY1%3D387%26cropY2%3D4678",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2021/01/30/vaccine-rollout-how-ai-can-help/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2021/01/30/vaccine-rollout-how-ai-can-help/amp/",
-      "publishedDateTime": "2021-01-30T19:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-31-ai-needs-an-open-labeling-platform.md",
-      "title": "AI needs an open labeling platform",
-      "excerpt": "Training data platforms are emerging as the best way to handle the collection, labeling, and feeding of data into supervised learning models.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/30/ai-needs-an-open-labeling-platform/",
-      "originalUrl": "https://venturebeat.com/2021/01/30/ai-needs-an-open-labeling-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/labeling.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/30/ai-needs-an-open-labeling-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/30/ai-needs-an-open-labeling-platform/amp/",
-      "publishedDateTime": "2021-01-30T12:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-30-direxion-daily-robotics-artificial-intelligence-automation-index-bull-2x-shares-nysearcaubot-stock-price-down-33.md",
-      "title": "Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2X Shares (NYSEARCA:UBOT) Stock Price Down 3.3%",
-      "excerpt": "Robotics, Artificial Intelligence & Automation Index Bull 2X Shares (NYSEARCA:UBOT)’s share price dropped 3.3% during trading on Wednesday . The company traded as low as $44.30 and last traded at $44.",
-      "sourceUrl": null,
-      "webUrl": "https://www.modernreaders.com/news/2021/01/30/direxion-daily-robotics-artificial-intelligence-automation-index-bull-2x-shares-nysearcaubot-stock-price-down-3-3.html",
-      "originalUrl": "https://www.modernreaders.com/news/2021/01/30/direxion-daily-robotics-artificial-intelligence-automation-index-bull-2x-shares-nysearcaubot-stock-price-down-3-3.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
-          "width": 450,
-          "height": 323,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.modernreaders.com/news/2021/01/30/direxion-daily-robotics-artificial-intelligence-automation-index-bull-2x-shares-nysearcaubot-stock-price-down-3-3.html/amp",
-      "cdnAmpWebUrl": "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2021/01/30/direxion-daily-robotics-artificial-intelligence-automation-index-bull-2x-shares-nysearcaubot-stock-price-down-3-3.html/amp",
-      "publishedDateTime": "2021-01-29T18:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "modernreaders.com",
-        "domain": "modernreaders.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

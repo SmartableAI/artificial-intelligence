@@ -1,30 +1,28 @@
 ---
 category: news
 title: "MedTech Startup See-Mode Technologies Announces CE Mark and Australian TGA Approval for AI-powered Ultrasound Analysis Software"
-excerpt: "SINGAPORE and MELBOURNE, Australia, Feb. 2, 2021 /PRNewswire/ -- See-Mode Technologies, a MedTech startup based in Singapore and Australia that seeks to empower clinicians to"
-publishedDateTime: 2021-02-02T08:00:00Z
-originalUrl: "https://www.asiaone.com/business/medtech-startup-see-mode-technologies-announces-ce-mark-and-australian-tga-approval-ai"
-webUrl: "https://www.asiaone.com/business/medtech-startup-see-mode-technologies-announces-ce-mark-and-australian-tga-approval-ai"
-ampWebUrl: "https://www.asiaone.com/business/medtech-startup-see-mode-technologies-announces-ce-mark-and-australian-tga-approval-ai?amp"
-cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/medtech-startup-see-mode-technologies-announces-ce-mark-and-australian-tga-approval-ai?amp"
+excerpt: "SINGAPORE and MELBOURNE, Australia, Feb. 2, 2021 /PRNewswire/ -- See-Mode Technologies, a MedTech startup based in Singapore and Australia that"
+publishedDateTime: 2021-02-01T22:08:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/medtech-startup-see-mode-technologies-announces-ce-mark-and-australian-tga-approval-for-ai-powered-ultrasound-analysis-software-1030031535"
+webUrl: "https://markets.businessinsider.com/news/stocks/medtech-startup-see-mode-technologies-announces-ce-mark-and-australian-tga-approval-for-ai-powered-ultrasound-analysis-software-1030031535"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/medtech-startup-see-mode-technologies-announces-ce-mark-and-australian-tga-approval-for-ai-powered-ultrasound-analysis-software-1030031535"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/medtech-startup-see-mode-technologies-announces-ce-mark-and-australian-tga-approval-for-ai-powered-ultrasound-analysis-software-1030031535"
 type: article
-quality: 29
-heat: 29
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
-images:
-  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Feb2021/pr-newswire_500_4_57.jpg?itok=H5gmJMR4"
-    width: 763
-    height: 509
-    isCached: true
-
-secured: "jH1ps60YTIq+Zxmcl5VSjcojeaBfEd4CJsHZ0Y/ZKN917QKmR+IMW4FAa+yOIH2tZXYW9xOmgsgUeoJNzWBcnILwhJMOmhiPRxZ3sk1M8/VfO0l2TigrNoiomoEMqiIZ2wssRQzpc+IHUB76vpb4C2g4sRg7kNB1fr1RUlegzr0XKl5BYJfXmRBU0NMYLNA2e7uU1nk6t/YzjpzklVbSaB19p5pi7WZxhYqcFP/uBs+PlfgvBqjZzfXHteh7kT7PGjwXPrddI9zUeOoEr/EdfCCGEPTgmXo65L5sFPAQofVUPb7vpaRor4fkjENBreKv7NAPnoo0HsyCvkro7xgzda151Th8VfjErSNiJq1HHqI=;hkwA3t1dok+/SYOuJPk7Bg=="
+secured: "+g10SDqsGYLQrIAl5NTyAP5iKxT4KEutl9/tiqq0AGFJuQNse3g89Twr7ZdIzSoEKbiAf41aE8nZ7zOiPyy4rFOzrjZQcCYUdV3xEGX9utU4oQu5A7j+qSdGjsdb4wWu2OpIzKKJn08gm0p8QOy9MxqwlSRj4iKcdbH5Tkp7B8F6biCMVfSGe6SdLIICpjEk5ofNypYW//ojdW7ebr5AcN9qbgE1qAn/sC86QMWtsFItLNlEaCtDzHeLZoYoexXl1yIB5tOG5ZWFxu7/ldatUMXvbYqQrATEfyM18LbdGUb2WUrcW/1+dVAOQJxWxw/pMhxd3zwPoM+WFqM3P/ae9KjYh0yXw8l/M08IVMjY1O8=;56zNfq9eJiHUGrq17lvZ8w=="
 ---
 

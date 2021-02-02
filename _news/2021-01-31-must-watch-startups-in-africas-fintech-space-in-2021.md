@@ -73,6 +73,22 @@ related:
         width: 620
         height: 414
         isCached: true
+  - title: "Learn How to Invest in A Trillion-Dollar Industry With This $40 Fintech Bootcamp"
+    excerpt: "The latest innovation since the internet is here and you need to invest in it. Finance meets technology in this fintech bootcamp bundle."
+    publishedDateTime: 2021-02-02T10:00:00Z
+    webUrl: "https://www.blackenterprise.com/learn-how-to-invest-in-a-trillion-dollar-industry-with-this-40-fintech-bootcamp/"
+    ampWebUrl: "https://www.blackenterprise.com/learn-how-to-invest-in-a-trillion-dollar-industry-with-this-40-fintech-bootcamp/amp/"
+    cdnAmpWebUrl: "https://www-blackenterprise-com.cdn.ampproject.org/c/s/www.blackenterprise.com/learn-how-to-invest-in-a-trillion-dollar-industry-with-this-40-fintech-bootcamp/amp/"
+    type: article
+    provider:
+      name: Black Enterprise
+      domain: blackenterprise.com
+    quality: 39
+    images:
+      - url: "https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2021/01/andre-francois-mckenzie-JrjhtBJ-pGU-unsplash.jpg"
+        width: 1000
+        height: 668
+        isCached: true
   - title: "Davos 2021: Key leader takeaways and what they mean for fintech and the environment"
     excerpt: "Finextra attended a very different, digital Davos this year which centred on ‘The Great Reset’. Covering global insights into the impact that fintech has on wider issues such as responding to Covid-19,"
     publishedDateTime: 2021-01-29T17:02:00Z

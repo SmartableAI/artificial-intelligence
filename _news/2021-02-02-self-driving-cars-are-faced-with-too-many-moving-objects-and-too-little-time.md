@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/02/01/self-driving-cars
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/01/self-driving-cars-are-faced-with-too-many-moving-objects-and-too-little-time/amp/"
 type: article
 quality: 73
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "California OKs China’s Baidu for Testing Self-Driving Cars Without Driver"
-    excerpt: "Baidu Inc. has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor"
-    publishedDateTime: 2021-01-28T17:34:00Z
-    webUrl: "https://www.claimsjournal.com/news/west/2021/01/28/301746.htm"
-    type: article
-    provider:
-      name: Claims Journal
-      domain: claimsjournal.com
-    quality: 38
-    images:
-      - url: "https://www.claimsjournal.com/img/claims-journal-logo-640.png"
-        width: 640
-        height: 300
-        isCached: true
   - title: "App will help visually impaired, seniors enjoy ride-sharing with self-driving cars"
     excerpt: "A research group led by the Virtual Environments and Multimodal Interaction Laboratory (VEMI Lab) at the University of Maine is developing a smartphone app that provides the navigational assistance needed for people with visual impairments and seniors to enjoy ride-sharing and ride-hailing."
     publishedDateTime: 2021-01-29T18:56:00Z

@@ -2,6 +2,100 @@
   "page": 68,
   "value": [
     {
+      "path": "_news/2020-12-08-googles-look-to-speak-taps-gaze-tracking-ai-to-help-users-with-impairments-communicate.md",
+      "title": "Google’s Look to Speak taps gaze-tracking AI to help users with impairments communicate",
+      "excerpt": "Google released an Android app called Look to Speak that enables users to select prewritten phrases to communicate using only their gaze.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/08/googles-look-to-speak-taps-gaze-tracking-ai-to-help-users-with-impairments-communicate/",
+      "originalUrl": "https://venturebeat.com/2020/12/08/googles-look-to-speak-taps-gaze-tracking-ai-to-help-users-with-impairments-communicate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/google_ai-2-e1572035641146.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/08/googles-look-to-speak-taps-gaze-tracking-ai-to-help-users-with-impairments-communicate/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/08/googles-look-to-speak-taps-gaze-tracking-ai-to-help-users-with-impairments-communicate/amp/",
+      "publishedDateTime": "2020-12-08T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-08-aws-and-viacomcbs-expand-strategic-agreement-to-transform-content-creation-and-delivery.md",
+      "title": "AWS and ViacomCBS Expand Strategic Agreement to Transform Content Creation and Delivery",
+      "excerpt": "(NASDAQ: AMZN), and ViacomCBS (NASDAQ: VIAC) announced an agreement that makes AWS the preferred cloud provider for ViacomCBS’s global broadcast media operations. As part of the strategic agreement, ViacomCBS will migrate operations for its entire broadcast footprint,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/technology-business-amazoncom-inc-media-corporate-news-570900c3c0814d9c91830f28b5f53a7a",
+      "originalUrl": "https://apnews.com/article/technology-business-amazoncom-inc-media-corporate-news-570900c3c0814d9c91830f28b5f53a7a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-08T06:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-08-machine-learning-identifies-brain-signature-of-depression.md",
       "title": "Machine Learning Identifies Brain Signature of Depression",
       "excerpt": "Using machine learning, researchers have identified novel, distinct patterns of coordinated activity between brain regions in people with major depressive disorder – even when different protocols are used to detect these brain networks.",
@@ -1094,92 +1188,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-lemonade-ceo-daniel-schreiber-to-present-at-the-goldman-sachs-financial-services-conference.md",
-      "title": "Lemonade CEO Daniel Schreiber to Present at the Goldman Sachs Financial Services Conference",
-      "excerpt": "Powered by artificial intelligence and behavioral economics, Lemonade set out to replace brokers and bureaucracy with bots and machine learning, aiming for zero paperwork and instant everything.",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20201207005965/lemonade-ceo-daniel-schreiber-to-present-at-the-goldman-sachs-financial-services-conference",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20201207005965/lemonade-ceo-daniel-schreiber-to-present-at-the-goldman-sachs-financial-services-conference",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-07T15:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-50k-ai-prediction-contest-launches-today.md",
-      "title": "$50K AI Prediction Contest Launches Today",
-      "excerpt": "A forecasting platform that aggregates insight from thousands of technology experts announced a two-year contest today focused on AI predictions: the future state of key benchmarks in machine learning,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/12/07/50k-ai-prediction-contest-launches-today/",
-      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2020/12/07/50k-ai-prediction-contest-launches-today/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fcea9ea964f1397d45a037c%2F0x0.jpg",
-          "width": 1200,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/12/07/50k-ai-prediction-contest-launches-today/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/12/07/50k-ai-prediction-contest-launches-today/amp/",
-      "publishedDateTime": "2020-12-07T14:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

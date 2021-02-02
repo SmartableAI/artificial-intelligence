@@ -29,104 +29,76 @@ images:
     isCached: true
 
 related:
-  - title: "Natural Language Processing (NLP) in Healthcare and Life Sciences Market 2021, Share, Growth, Trend, Industry Analysis and Forecast to 2026"
-    excerpt: "Summary A New Market Study, titled \"Natural Language Processing (NLP) in Healthcare and Life Sciences Market Upcoming"
-    publishedDateTime: 2021-01-29T17:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-2021-share-growth-trend-industry-analysis-and-forecast-to-2026-2021-01-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Cloud Machine Learning Market 2020 Growth, Industry Trend, Sales Revenue, Size by Regional Forecast to 2025"
-    excerpt: "A recent report published by MarketsandResearch.biz titled Global Cloud Machine Learning Market 2020 by Company, Type and Application, Forecast to 2025 aims to provide up-to-date information on the market carrying out a thorough research on the market of historical as well as current growth parameters,"
+  - title: "Global Machine Learning as a Service Market 2020 with Covid-19 Impact Analysis and Forecast by 2025"
+    excerpt: "Global Machine Learning as a Service Market 2020 by Company, Type and Application, Forecast to 2025 provides a comprehensive assessment of market values, with corrective calculations and forecasts for sales by kind and by application in terms of volume and worth."
     publishedDateTime: 2021-02-01T21:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-cloud-machine-learning-market-2020-growth-industry-trend-sales-revenue-size-by-regional-forecast-to-2025-2021-02-01"
+    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-as-a-service-market-2020-with-covid-19-impact-analysis-and-forecast-by-2025-2021-02-01"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 64
+    quality: 55
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Consumer Robotics Market Size, Comprehensive Analysis, Development Strategy, Opportunities, Future Trends and Industry Forecast 2023"
-    excerpt: "Market Research Future published a research report on \"Consumer Robotics Market Research Report – Global Forecast To 2023\""
-    publishedDateTime: 2021-02-01T16:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/consumer-robotics-market-size-comprehensive-analysis-development-strategy-opportunities-future-trends-and-industry-forecast-2023-2021-02-01"
+  - title: "Artificial Intelligence In Remote Patient Monitoring Market Research Report - Global Forecast to 2025 - Cumulative Impact of COVID-19"
+    excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence In Remote Patient Monitoring Market"
+    publishedDateTime: 2021-01-29T10:39:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19388228/artificial-intelligence-in-remote-patient-monitoring-market-research-report-global-forecast-to-202"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19388228"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19388228"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial intelligence (AI) hardware Market Growth Analysis By Revenue, Size, Share, Scenario on Latest Trends & Types, Applications to Forecast"
-    excerpt: "Artificial intelligence (AI) hardware Market Report Contain Size Analysis, Competitive Landscape, Revenue Status, Future Opportunities, Regional Analysis (Latin America, North America, Asia Specific,"
-    publishedDateTime: 2021-01-29T13:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-growth-analysis-by-revenue-size-share-scenario-on-latest-trends-types-applications-to-forecast-2021-01-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI-Based Fever Detection Camera Market Share, Growth Insight, Size, Competitive Analysis, Regional, And Global Forecast To 2027"
-    excerpt: "How will the AI-based fever detection cameras help in battling COVID-19? Which region is likely to generate the highest revenue in the near future? Which segment would procure the largest share? What are the restraining factors of the AI-Based Fever Detection Camera Market?"
-    publishedDateTime: 2021-02-01T13:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-based-fever-detection-camera-market-share-growth-insight-size-competitive-analysis-regional-and-global-forecast-to-2027-2021-02-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Autonomous Cars Market | Worldwide Industry Share, Size, Gross Margin, Trend, Future Demand, Analysis by Top Leading Player and Forecast Till 2027"
-    excerpt: "Autonomous Cars Market is set to grow exponentially owing to the increasing development of the ride-hailing technology. Hence, numerous industry giants are investing hefty amounts of money in the field of driverless ride-sharing."
-    publishedDateTime: 2021-02-01T15:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/autonomous-cars-market-worldwide-industry-share-size-gross-margin-trend-future-demand-analysis-by-top-leading-player-and-forecast-till-2027-2021-02-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 16
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Machine Learning Market Report 2020: Industry Analysis, Trends, Market Size, and Forecasts 2018-2026 - ResearchAndMarkets.com"
-    excerpt: "Global Industry Analysis, Trends, Market Size, and Forecasts up to 2026” report has been added to ResearchAndMarkets.com’s offering. The report on the global machine learning market provides qualitative and quantitative analysis for the period from 2018 to 2026."
-    publishedDateTime: 2021-01-29T07:59:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-north-america-679d3c6ec1574c5f95e349c671cd1828"
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 8
+  - title: "Global Iris Recognition Market Research 2020-2024 | Market Impact Analysis due to COVID-19 Spread | Technavio"
+    excerpt: "Technavio has announced its latest market research report titled Global Iris Recognition Market 2020-2024 (Graphic: Business Wire) Worried about the impact of COVID-19 on your business? Here is an exclusive report talking about Market scenarios,"
+    publishedDateTime: 2021-01-30T07:57:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-europe-latin-america-and-caribbean-diseases-and-conditions-united-kingdom-85a9c5851391492cbe1541e90fcb15ad"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 8
+    quality: 7
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
         isCached: true
+  - title: "Artificial Intelligence In Diagnostics Market Research Report by Component, by Type - Global Forecast to 2025 - Cumulative Impact of COVID-19"
+    excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence In Diagnostics Market Research Report by"
+    publishedDateTime: 2021-01-29T10:49:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19388407/artificial-intelligence-in-diagnostics-market-research-report-by-component-by-type-global-forecast"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19388407"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19388407"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 4
+  - title: "Artificial Intelligence in Medicine Market Research Report by Application, by End User - Global Forecast to 2025 - Cumulative Impact of COVID-19"
+    excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence in Medicine Market Research Report by"
+    publishedDateTime: 2021-01-29T10:34:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/g19388179/artificial-intelligence-in-medicine-market-research-report-by-application-by-end-user-global-forec"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19388179"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19388179"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
+  - title: "Global Iris Recognition Market Research 2020-2024 | Market Impact Analysis due to COVID-19 Spread | Technavio"
+    excerpt: "Technavio has announced its latest market research report titled Global Iris Recognition Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--The iris recognition market is poised to grow by USD 2."
+    publishedDateTime: 2021-01-29T13:09:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210129005302/en/Global-Iris-Recognition-Market-Research-2020-2024-Market-Impact-Analysis-due-to-COVID-19-Spread-Technavio"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "s+E63js7ARF43r52TP8aclXUo1Q3/gAwJXbisNoSIj0T6BSfI6zqsQ1NfxFNfcFZFXr3qLFD4KOfy5WYa5xvoAFmVuwF1GTyhJM4IchSX1RkeU5yFNZThWDPpuzzZSaMhS7EQHnwBCQXNSmhOsmFuTsurZq6hzCHNaEYO0CW1Xhb4CdiflH5X9Ln7C5eL1I20JoDPzp1T9+IPRGkuSafoZFdPUwor/Yeo8hUqIqmGHUkgK76MErSHZB4Uq+DQ2QezA1iT9lHxQKtajkdWxzbN1v/NCdyyvxjWqjsRKsk5GGxfmsdtfehiijmEhm9KpgwU1h/+KYq51vx0U35Fo46kgXIkHIF8nIxcRi3OZ/xmDI=;umzkeo/OTu+kyhMhOYllbA=="
 ---

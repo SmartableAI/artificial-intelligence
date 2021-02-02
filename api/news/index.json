@@ -2,6 +2,161 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-02-how-machine-learning-can-improve-our-email-experience.md",
+      "title": "How Machine Learning Can Improve Our Email Experience",
+      "excerpt": "Around 2015 or 2016, Google began a strategic move, possibly one of the most important it has undertaken in its more than 20 years of existence, to incorporate machine learning and apply it to all its products.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/enriquedans/2021/02/02/how-machine-learning-can-improve-our-email-experience/",
+      "originalUrl": "https://www.forbes.com/sites/enriquedans/2021/02/02/how-machine-learning-can-improve-our-email-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60192be6e789e0fa6557c369%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3935%26cropY1%3D82%26cropY2%3D1927",
+          "width": 1200,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/enriquedans/2021/02/02/how-machine-learning-can-improve-our-email-experience/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/enriquedans/2021/02/02/how-machine-learning-can-improve-our-email-experience/amp/",
+      "publishedDateTime": "2021-02-02T02:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-artificial-intelligence-ai-chipsets-market-share-growth-insight-size-competitive-analysis-regional-and-global-forecast-to-2027.md",
+      "title": "Artificial Intelligence (AI) Chipsets Market Share, Growth Insight, Size, Competitive Analysis, Regional, And Global Forecast To 2027",
+      "excerpt": "https://www.fortunebusinessinsights.com/enquiry/customization/artificial-intelligence-ai-chipsets-market-104500 8.1.1.1. Graphics Processing Unit (GPU) 8.1.1.2. Field Programmable Gate Arrays (FPGAs) 8.1.1.3. Application-specific Integrated Circuit (ASIC ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-share-growth-insight-size-competitive-analysis-regional-and-global-forecast-to-2027-2021-02-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-share-growth-insight-size-competitive-analysis-regional-and-global-forecast-to-2027-2021-02-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-02T02:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-this-japanese-ai-journaling-app-helped-me-understand-my-feelings.md",
+      "title": "This Japanese AI Journaling App Helped Me Understand My Feelings",
+      "excerpt": "As a self-proclaimed serial journal collector, Muute, billed as Japan’s first AI journaling app, was all too enticing for me. Much like a writing prompts journal, the app asks questions that encourage self-reflection.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en/article/epdk3j/japan-first-ai-journaling-app-muute-experience-understand-feelings-mental-health",
+      "originalUrl": "https://www.vice.com/en/article/epdk3j/japan-first-ai-journaling-app-muute-experience-understand-feelings-mental-health",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com/articles/601912fc060c7e009597478a/lede/1612260630822-befunky-collage-42.jpeg?crop=1xw:0.9106xh;0xw,0xh",
+          "width": 3264,
+          "height": 1833,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en/article/epdk3j/japan-first-ai-journaling-app-muute-experience-understand-feelings-mental-health",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/epdk3j/japan-first-ai-journaling-app-muute-experience-understand-feelings-mental-health",
+      "publishedDateTime": "2021-02-02T02:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-02-gdit-announces-availability-of-aws-services-on-milcloud-20.md",
       "title": "GDIT Announces Availability of AWS Services on milCloud 2.0",
       "excerpt": "GDIT announced today the availability of Amazon Web Services (AWS) through the milCloud 2.0 contract, providing DoD mission partners access to an expanded portfolio of secure cloud services. FAIRFAX,",
@@ -293,7 +448,7 @@
       "originalUrl": "https://techcrunch.com/2021/02/01/daily-crunch-google-shutters-internal-game-studios/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -451,7 +606,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-machine-learning-as-a-service-market-2020-with-covid-19-impact-analysis-and-forecast-by-2025-2021-02-01",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -701,7 +856,7 @@
       "originalUrl": "https://www.techspot.com/news/88477-ford-google-sign-significant-6-year-partnership.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -805,7 +960,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/01/self-driving-cars-are-faced-with-too-many-moving-objects-and-too-little-time/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -1097,145 +1252,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-guardforce-ai-announces-two-new-appointments-to-its-board-of-directors.md",
-      "title": "Guardforce AI Announces Two New Appointments to its Board of Directors",
-      "excerpt": "Guardforce AI Co., Ltd (OTC Pink: GRDAF) (\"Guardforce AI\"), an integrated security solutions provider in Asia, announced today the appointment of two independent board members, John Fletcher and David Ian Viccars,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/guardforce-ai-announces-two-new-appointments-to-its-board-of-directors-1030027474",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/guardforce-ai-announces-two-new-appointments-to-its-board-of-directors-1030027474",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/guardforce-ai-announces-two-new-appointments-to-its-board-of-directors-1030027474",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/guardforce-ai-announces-two-new-appointments-to-its-board-of-directors-1030027474",
-      "publishedDateTime": "2021-02-01T05:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-budget-2021-ai-ml-and-analytics-to-ease-compliance-burden-and-check-tax-evasion.md",
-      "title": "Budget 2021: AI, ML and analytics to ease compliance burden and check tax evasion",
-      "excerpt": "The Union Budget 2021 presented by Finance Minister Nirmala Sitharaman threw emphasis on technologies like Artificial Intelligence and Machine Learning, and their application to the e-Governance, GST and easing",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/budget-2021-ai-ml-analytics-ease-compliance-burden-check-tax-evasion/",
-      "originalUrl": "https://www.dqindia.com/budget-2021-ai-ml-analytics-ease-compliance-burden-check-tax-evasion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2021/02/AI-analytics-Union_Buget_2021.jpg",
-          "width": 850,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/budget-2021-ai-ml-analytics-ease-compliance-burden-check-tax-evasion/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/budget-2021-ai-ml-analytics-ease-compliance-burden-check-tax-evasion/amp/",
-      "publishedDateTime": "2021-02-01T04:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream.md",
-      "title": "Microsoft's cutting-edge machine-learning tool moves from the lab to the mainstream",
-      "excerpt": "Machine learning that can explore the world can solve different problems. These are the Microsoft services that make it something mainstream developers can use.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/",
-      "originalUrl": "https://www.techrepublic.com/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2021/02/01/1b622622-e749-47c0-9c60-ed09ab784bbe/resize/400x/f50dcab974e7e9400bbc49f5c9acb474/rl-wikipedia-2.jpg",
-          "width": 400,
-          "height": 388,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/",
-      "publishedDateTime": "2021-02-01T04:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

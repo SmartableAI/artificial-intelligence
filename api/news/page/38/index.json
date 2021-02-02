@@ -2,6 +2,102 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2021-01-05-graphcore-series-e-funding-710m-total-440m-cash-in-hand.md",
+      "title": "Graphcore Series E Funding: $710m Total, $440m Cash-in-Hand",
+      "excerpt": "One of the most well-funded ventures in this space is Graphcore, and the company just announced its latest Series E funding round of $222 million, taking it to $710m total across the five rounds. Graphcore,",
+      "sourceUrl": null,
+      "webUrl": "https://www.anandtech.com/show/16346/graphcore-series-e-funding-710m-total-440m-cashinhand",
+      "originalUrl": "https://www.anandtech.com/show/16346/graphcore-series-e-funding-710m-total-440m-cashinhand",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.anandtech.com/doci/16346/July%20Launch%20Blog%20Header%20Image_smallv2_678x452.jpg",
+          "width": 678,
+          "height": 254,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-04T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AnandTech",
+        "domain": "anandtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-04-healthcare-artificial-intelligence-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025.md",
+      "title": "Healthcare Artificial Intelligence Market Detailed Analysis of Current Industry Figures with Forecasts Growth By 2025",
+      "excerpt": "Request a sample Report of Healthcare Artificial Intelligence Market Analysis Report at:  Growing applications of AI for healthcare and research purposes, including detection of disease, management of chronic condition,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2021-01-04?tesla=y",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2021-01-04?tesla=y",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 228,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-04T06:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-04-why-baidu-stock-soared-556-in-december.md",
       "title": "Why Baidu Stock Soared 55.6% in December",
       "excerpt": "Shares of Baidu (NASDAQ:BIDU) rose 55.6% in December, according to data from YCharts. The Chinese search engine giant's stock surged following a report from Reuters",
@@ -1112,94 +1208,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-03-ai-based-database-to-solve-similar-crimes-quicker-centre.md",
-      "title": "AI based database to solve similar crimes quicker, Centre",
-      "excerpt": "The Centre is involved in developing an Artificial Intelligence (AI) and Natural Language Processing (NLP)-based database of modus operandi various cr..|News Track",
-      "sourceUrl": null,
-      "webUrl": "https://english.newstracklive.com/news/ai-based-database-to-solve-similar-crimes-quicker-centre-mc16-nu306-ta306-1138317-1.html",
-      "originalUrl": "https://english.newstracklive.com/news/ai-based-database-to-solve-similar-crimes-quicker-centre-mc16-nu306-ta306-1138317-1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.newstracklive.com/uploads/crime-news//Jan/03/big_thumb/AI-based-database-to-solve-similar-crimes-quicker-Centre_5ff1b71375b0f.jpg",
-          "width": 796,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://english.newstracklive.com/ampnews/ai-based-database-to-solve-similar-crimes-quicker-centre-mc16-nu306-ta306-1138317-1.html",
-      "cdnAmpWebUrl": "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/ai-based-database-to-solve-similar-crimes-quicker-centre-mc16-nu306-ta306-1138317-1.html",
-      "publishedDateTime": "2021-01-03T04:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Track",
-        "domain": "newstracklive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-03-why-robotics-and-language-need-each-other.md",
-      "title": "Why robotics and language need each other",
-      "excerpt": "Combining robotics and language complicates both, but they have the potential to bolster each other",
-      "sourceUrl": null,
-      "webUrl": "https://www.theweek.com/articles/957699/why-robotics-language-need-each-other",
-      "originalUrl": "https://www.theweek.com/articles/957699/why-robotics-language-need-each-other",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theweek.com/sites/default/files/styles/tw_image_9_4/public/istock-1127591787.jpg?itok=tVPxJFyv",
-          "width": 1260,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://bypass.theweek.com/articles-amp/957699/why-robotics-language-need-each-other",
-      "cdnAmpWebUrl": "https://bypass-theweek-com.cdn.ampproject.org/c/s/bypass.theweek.com/articles-amp/957699/why-robotics-language-need-each-other",
-      "publishedDateTime": "2021-01-03T03:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "THE WEEK",
-        "domain": "theweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics",
-        "Machine Learning"
       ]
     }
   ],

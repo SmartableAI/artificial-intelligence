@@ -71,20 +71,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Council of Europe warns against biometrics-based emotion recognition"
-    excerpt: "Face biometrics should not be used to implement evaluations of employees based on emotion recognition, The Council of Europe has warned."
-    publishedDateTime: 2021-01-28T18:34:00Z
-    webUrl: "https://www.biometricupdate.com/202101/council-of-europe-warns-against-biometrics-based-emotion-recognition"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 41
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
-        width: 730
-        height: 499
-        isCached: true
 
 secured: "wTBmthxRWIDUO0g8kGpS9qjyfrU/ooNuJXU85PVfMftjqyn35ow/wxf8cmIBA+fqCxp3jzw61rgP/S3rPstFlPcDPbLinUwXqzDJA0JvY2pP5XJaMUqDv+59WWNRvWY8cR3pneaqXMtjqYV/CSFnGcaPq6cOf7WJzjyy5V5G+7CTB1Hj+Ee6elfOARdVOLxoXbbDYj5IZYwdf7rpQaqaexewHyzf1Q+rf0sVKRBb+kBy+yP02W0REW8qpX38dztIA9SvEgh+ATeDIxyW6dyj+TWDFD2WeHIDwV0+s62aARDblVZqz5+toaaKIOxDUxbGFPX1+yzNhSv51vIFzVteIEniFYPl4YlkZgt0KH/Cs9s=;pFVVqlVrIvyIkxzgGQvUZw=="
 ---

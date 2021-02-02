@@ -1,27 +1,30 @@
 ---
 category: news
 title: "ADVANCE.AI Launches 'Advance Intelligence Group' Parent Brand"
-excerpt: "ADVANCE.AI, a homegrown AI and big data company in Asia helping to solve digital transformation, fraud prevention, and process automation for enterprise clients, is today formally announcing its corporate parent brand Advance Intelligence Group."
-publishedDateTime: 2021-02-02T06:10:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/advance-ai-launches-advance-intelligence-group-parent-brand-1030031079"
-webUrl: "https://markets.businessinsider.com/news/stocks/advance-ai-launches-advance-intelligence-group-parent-brand-1030031079"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/advance-ai-launches-advance-intelligence-group-parent-brand-1030031079"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/advance-ai-launches-advance-intelligence-group-parent-brand-1030031079"
+excerpt: "Homegrown AI and big data company eyes global expansion on the back of robust growth in 2020 across enterprise, consumer lines SINGAPORE, Feb. 2, 2021"
+publishedDateTime: 2021-02-02T06:00:00Z
+originalUrl: "https://www.asiaone.com/business/advanceai-launches-advance-intelligence-group-parent-brand"
+webUrl: "https://www.asiaone.com/business/advanceai-launches-advance-intelligence-group-parent-brand"
+ampWebUrl: "https://www.asiaone.com/business/advanceai-launches-advance-intelligence-group-parent-brand?amp"
+cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/advanceai-launches-advance-intelligence-group-parent-brand?amp"
 type: article
-quality: 67
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Asia One
+  domain: asiaone.com
 
 topics:
+  - AI in Finance
   - AI
+
+images:
+  - url: "https://www.asiaone.com/themes/asiaone_amp/logo.png"
+    width: 299
+    height: 300
+    isCached: true
 
 related:
   - title: "Here’s where AI will advance in 2021"
@@ -55,6 +58,6 @@ related:
         height: 630
         isCached: true
 
-secured: "SZziq67s8rM5mTXFPRBqM/0OQ2ML2PfiGxcpGGO4n+Z9XByoq87qSuTPr6TXPDzIHRQyIXDzjfQ5rG0oZeGlIzd0nAfuxZMOPNHS/SOqEoADFr45P1xagAoZNimSWn260vIKA5dxVuMoXG65+54DBWeqxUGJnkk5KS/I+oGKn2MbhzOlnDrqiR6JUIE+B5MbgkKv5ZY3ju7mb77DlJ7WRBNltB2n74b55JIeGRYqbQYozTaMH+pQrmM4BXBAcOsEeo+qZJVWvDLHdCXG469atfvp6a9hIVWcAA0j5zeppts2rFWCDdMgByg8M2nyls7B4svTUP4wiQeT5x4jy6MBv1DZ1Sz0dyBbCg89i57nb8A=;q43kz0Y1RGkKp+4EtvvHyw=="
+secured: "zAxcwBvH8bjW28+Z2r7HOQWsxIGxd7MkPE/wziwHb2kgmhLtQRXhZ22SvcK8WMYHvbp3zGOW+cnMzIa3f6xeRUVCyBCR+0/EQoPk24uAyMIC4rAjn1BpwZlPFKShF3F2Xhfy/JeSkcKEEmW0w8Kl6nCtiibmnHdkaNwdCyVCvn6ye2R9YKiTWQy69f6WX1irjEWqFZQd32iAJP8ydYrnB88LNH8qCDDJRRpX9jJoItijw1617aWEi03dV9u22Qp4+ynWUU+QWftHztkzwneGo6WKY50918MtGqVA+3+w7F+sZAKqs7/nIcCc+/XGQL6VIIeYwA3YxpNrPtouEbk2cNwCQb27bDFqxOTrUchOjlM=;d3rl4+sVCilG9NorjrlAMg=="
 ---
 

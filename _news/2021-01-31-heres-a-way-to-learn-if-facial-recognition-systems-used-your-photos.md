@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/01/31/technology/facial-recognition-pho
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/31/technology/facial-recognition-photo-tool.amp.html"
 type: article
 quality: 91
-heat: 141
+heat: 151
 published: true
 
 provider:
@@ -79,6 +79,22 @@ related:
       - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/Heres-a-way-to-find-out-if-facial-recognition-systems.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Apple solves facial recognition problem caused by masks"
+    excerpt: "SINCE the coronavirus pandemic has made it necessary for everyone to wear masks, using FaceID on iPhones isn’t quite as good as it was supposed to be. The"
+    publishedDateTime: 2021-02-02T09:31:00Z
+    webUrl: "https://www.euroweeklynews.com/2021/02/02/apple-solves-facial-recognition-problem-caused-by-masks/"
+    ampWebUrl: "https://www.euroweeklynews.com/2021/02/02/apple-solves-facial-recognition-problem-caused-by-masks/"
+    cdnAmpWebUrl: "https://www-euroweeklynews-com.cdn.ampproject.org/c/s/www.euroweeklynews.com/2021/02/02/apple-solves-facial-recognition-problem-caused-by-masks/"
+    type: article
+    provider:
+      name: Euro Weekly News
+      domain: euroweeklynews.com
+    quality: 59
+    images:
+      - url: "https://cdn.euroweeklynews.com/wp-content/uploads/2021/02/mask-5008668_1280.jpg?x53461"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Female entrepreneur pioneers facial recognition tech"
     excerpt: "Female entrepreneur pioneers facial recognition tech - Kommunikation - Kim Harrisberg - Charlette N'Guessan Desiree loved maths and science as a student in Ivory... - Allgemeine Zeitung"

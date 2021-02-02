@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/362981"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/362981"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://images.cutimes.com/contrib/content/uploads/sites/413/2020/12/fintech-bank-e1607455163832.jpg"
         width: 620
         height: 414
+        isCached: true
+  - title: "Learn How to Invest in A Trillion-Dollar Industry With This $40 Fintech Bootcamp"
+    excerpt: "The latest innovation since the internet is here and you need to invest in it. Finance meets technology in this fintech bootcamp bundle."
+    publishedDateTime: 2021-02-02T10:00:00Z
+    webUrl: "https://www.blackenterprise.com/learn-how-to-invest-in-a-trillion-dollar-industry-with-this-40-fintech-bootcamp/"
+    ampWebUrl: "https://www.blackenterprise.com/learn-how-to-invest-in-a-trillion-dollar-industry-with-this-40-fintech-bootcamp/amp/"
+    cdnAmpWebUrl: "https://www-blackenterprise-com.cdn.ampproject.org/c/s/www.blackenterprise.com/learn-how-to-invest-in-a-trillion-dollar-industry-with-this-40-fintech-bootcamp/amp/"
+    type: article
+    provider:
+      name: Black Enterprise
+      domain: blackenterprise.com
+    quality: 39
+    images:
+      - url: "https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2021/01/andre-francois-mckenzie-JrjhtBJ-pGU-unsplash.jpg"
+        width: 1000
+        height: 668
         isCached: true
   - title: "Must-watch Startups in Africa’s Fintech Space in 2021"
     excerpt: "More than $1.07 billion flowed into Africa’s startups in 2020, with the fintech sector accounting for 31% of this funding."

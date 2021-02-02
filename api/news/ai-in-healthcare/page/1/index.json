@@ -46,59 +46,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-30-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-2021-share-growth-trend-industry-analysis-and-forecast-to-2026.md",
-      "title": "Natural Language Processing (NLP) in Healthcare and Life Sciences Market 2021, Share, Growth, Trend, Industry Analysis and Forecast to 2026",
-      "excerpt": "Summary A New Market Study, titled \"Natural Language Processing (NLP) in Healthcare and Life Sciences Market Upcoming",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-2021-share-growth-trend-industry-analysis-and-forecast-to-2026-2021-01-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-2021-share-growth-trend-industry-analysis-and-forecast-to-2026-2021-01-29",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-29T09:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2021-01-29-artificial-intelligence-ai-in-manufacturing-market-analysis-by-growth-emerging-trends-and-future-opportunities.md",
       "title": "Artificial intelligence (AI) in manufacturing Market Analysis By Growth, Emerging Trends and Future Opportunities",
       "excerpt": "Artificial intelligence (AI) in manufacturing Market Size, Demand-sales, Suppliers By Key Applications Detailed Analysis and Growth Aspects on Manufacturing Landscapes and Regional Analysis \"Market Overview: Global Artificial Intelligence in Manufacturing Market is valued approximately USD 1 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 57.",
@@ -107,7 +54,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-analysis-by-growth-emerging-trends-and-future-opportunities-2021-01-29",
       "featuredContent": null,
       "highlight": null,
-      "heat": 153,
+      "heat": 133,
       "tags": null,
       "images": [
         {
@@ -1430,6 +1377,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-healthcare-artificial-intelligence-market-2027-market-is-expected-to-grow-at-a-cagr-of-414-researchandmarketscom.md",
+      "title": "Healthcare Artificial Intelligence Market, 2027 - Market is Expected to Grow at a CAGR of 41.4% - ResearchAndMarkets.com",
+      "excerpt": "DUBLIN--(BUSINESS WIRE)--The \"Healthcare Artificial Intelligence Market - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The global healthcare artificial intelligence (AI) market is expected to grow at a CAGR of 41.4% ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pharmiweb.com/press-release/2021-01-18/healthcare-artificial-intelligence-market-2027-market-is-expected-to-grow-at-a-cagr-of-414-re",
+      "originalUrl": "https://www.pharmiweb.com/press-release/2021-01-18/healthcare-artificial-intelligence-market-2027-market-is-expected-to-grow-at-a-cagr-of-414-re",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png",
+          "width": 1200,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-18T08:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PharmiWeb",
+        "domain": "pharmiweb.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

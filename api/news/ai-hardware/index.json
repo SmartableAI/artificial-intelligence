@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-02-artificial-intelligence-ai-chipsets-market-share-growth-insight-size-competitive-analysis-regional-and-global-forecast-to-2027.md",
+      "title": "Artificial Intelligence (AI) Chipsets Market Share, Growth Insight, Size, Competitive Analysis, Regional, And Global Forecast To 2027",
+      "excerpt": "https://www.fortunebusinessinsights.com/enquiry/customization/artificial-intelligence-ai-chipsets-market-104500 8.1.1.1. Graphics Processing Unit (GPU) 8.1.1.2. Field Programmable Gate Arrays (FPGAs) 8.1.1.3. Application-specific Integrated Circuit (ASIC ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-share-growth-insight-size-competitive-analysis-regional-and-global-forecast-to-2027-2021-02-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-share-growth-insight-size-competitive-analysis-regional-and-global-forecast-to-2027-2021-02-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-02T02:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-01-elder-care-wireless-ai-and-the-internet-of-medical-things.md",
       "title": "Elder care, wireless AI, and the Internet of Medical Things",
       "excerpt": "Senior citizens are accustomed to constant probes by doctors, but wireless AI tech is enabling massive-scale, nonintrusive data monitoring.",
@@ -1439,58 +1491,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-snapdragon-870-5g-gives-oneplus-moto-more-a-cheaper-flagship-chip.md",
-      "title": "Snapdragon 870 5G gives OnePlus, Moto & more a cheaper flagship chip",
-      "excerpt": "Qualcomm has revealed its newest mobile chipset, with the Snapdragon 870 5G slotting in just below the most potent Snapdragon 888 as the company expands its flagship series. Successor to the",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/snapdragon-870-5g-gives-oneplus-moto-more-a-cheaper-flagship-chip-19655779/",
-      "originalUrl": "https://www.slashgear.com/snapdragon-870-5g-gives-oneplus-moto-more-a-cheaper-flagship-chip-19655779/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/01/Snapdragon-870-5G-Mobile-Platform.jpg",
-          "width": 1680,
-          "height": 946,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/snapdragon-870-5g-gives-oneplus-moto-more-a-cheaper-flagship-chip-19655779/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/snapdragon-870-5g-gives-oneplus-moto-more-a-cheaper-flagship-chip-19655779/amp/",
-      "publishedDateTime": "2021-01-19T12:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

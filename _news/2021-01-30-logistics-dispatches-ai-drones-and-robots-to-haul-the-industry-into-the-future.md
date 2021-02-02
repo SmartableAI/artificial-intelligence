@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/videos/logistics-dispatches-ai-drones
 webUrl: "https://www.techrepublic.com/videos/logistics-dispatches-ai-drones-and-robots-to-haul-the-industry-into-the-future/"
 type: article
 quality: 81
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 770
     height: 578
     isCached: true
-
-related:
-  - title: "Global Artificial Intelligence for Edge Devices Market 2020 Growth, Trend, Analysis, Future Opportunities and Industry Forecast to 2025"
-    excerpt: "Global Artificial Intelligence for Edge Devices Market 2020 by Company, Regions, Type and Application, Forecast"
-    publishedDateTime: 2021-01-28T18:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-for-edge-devices-market-2020-growth-trend-analysis-future-opportunities-and-industry-forecast-to-2025-2021-01-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "asAbLwLlqskknfeBRGniKLmDvl9EEOCmfi2W+retf/a4Hsce+K/X/itOPX3k1QycXVotLElEeKKjxGPyn9ZFLVGr9cnK1kMl/73T00prhF6QbVtxuQnxw0y0BOUnPbS+wlOhakuilz48ViwLBP7gcIuKpFUhnz/2YDkrw/xiwqPLcgNL/X0oCVmiUico347MJMaXrsOttsPMN2JlruJJ+tajwltBgDcFAuthRnIR3S8nkmXHE49FsdmCE2vZhZ8W5vK7Gyh3P2xeVJLGYFE5dH9ON+BvPTy5OpqfuirBeh7Kgagr/bWZWo0fQkD/HHx9wtDrT+EY/CwEyszAgkWiMUpnUIAgyKcrJfAzzPN85bLkqUS10eBkYgZN6+nsoBl4qGGrgaKjYlzoDDfr9vGFCt9eROUsWV7YSSK2DPDo57aaQ8UBflFP8ldMVma2NS4TgWP6UuYeHd50/SgtTK3n8TULoNlFXMQ4Mu4/Bmjvc/LS+k1g7jTksP+olUDoePqUeptlbJ28zs9czRwLQEgoFQ==;RFdpZAqo7rphoJ3tfD4Sag=="
 ---

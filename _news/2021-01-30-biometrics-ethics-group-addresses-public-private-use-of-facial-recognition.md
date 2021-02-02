@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerweekly.com/news/252495597/Biometrics-ethics-grou
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252495597/Biometrics-ethics-group-address-public-private-use-of-facial-recognition?amp=1"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/New-rumors-point-to-Touch-ID-and-Face-ID-biometrics.png"
         width: 800
         height: 450
-        isCached: true
-  - title: "Council of Europe warns against biometrics-based emotion recognition"
-    excerpt: "Face biometrics should not be used to implement evaluations of employees based on emotion recognition, The Council of Europe has warned."
-    publishedDateTime: 2021-01-28T18:34:00Z
-    webUrl: "https://www.biometricupdate.com/202101/council-of-europe-warns-against-biometrics-based-emotion-recognition"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 41
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
-        width: 730
-        height: 499
         isCached: true
   - title: "New rumors hint at in-screen Touch ID and Face ID biometrics on iPhone 13"
     excerpt: "The upcoming iPhone 13 lineup could feature biometric authentication with a combination of in-screen Touch ID and Face ID, says a new Wall Street Journal report"

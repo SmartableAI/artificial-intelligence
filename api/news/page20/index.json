@@ -2,6 +2,99 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-01-18-artificial-intelligence-likely-to-replace-humans-in-cybersecurity-space-by-2030.md",
+      "title": "Artificial Intelligence likely to replace humans in cybersecurity space by 2030",
+      "excerpt": "New Delhi: As Artificial Intelligence (AI) becomes all-pervasive, a new report has forecast that technology would replace humans by 2031 in the field of cybersecurity, as hackers use more sophisticated tools.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freepressjournal.in/technology/artificial-intelligence-likely-to-replace-humans-in-cybersecurity-space-by-2030",
+      "originalUrl": "https://www.freepressjournal.in/technology/artificial-intelligence-likely-to-replace-humans-in-cybersecurity-space-by-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gumlet.assettype.com/freepressjournal/2021-01/3b2dd1c1-ba9f-430b-98c0-bd68bdfa8c0c/etc_lead_jan_17.jpg",
+          "width": 760,
+          "height": 507,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.freepressjournal.in/article/technology/artificial-intelligence-likely-to-replace-humans-in-cybersecurity-space-by-2030/9626ec89-6519-4310-9bc2-bfc07ca58e36",
+      "cdnAmpWebUrl": "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/technology/artificial-intelligence-likely-to-replace-humans-in-cybersecurity-space-by-2030/9626ec89-6519-4310-9bc2-bfc07ca58e36",
+      "publishedDateTime": "2021-01-17T09:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Free Press Journal",
+        "domain": "freepressjournal.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-18-how-data-and-ai-can-help-create-a-mobility-renaissance.md",
+      "title": "How Data And AI Can Help Create A Mobility Renaissance",
+      "excerpt": "Evangelos Simoudis’ latest book Transportation Transformation: How Autonomous Mobility Will Fuel New Value Chains, meticulously presents the case for redefining mobility value chains globally.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2021/01/17/how-data-and-ai-can-help-create-a-mobility-renaissance/",
+      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2021/01/17/how-data-and-ai-can-help-create-a-mobility-renaissance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60045ed8592ed21731f31ce5%2F0x0.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2021/01/17/how-data-and-ai-can-help-create-a-mobility-renaissance/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2021/01/17/how-data-and-ai-can-help-create-a-mobility-renaissance/amp/",
+      "publishedDateTime": "2021-01-17T08:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-17-bidens-inaugural-speech-to-plead-for-comity-in-wake-of-riot.md",
       "title": "Biden’s Inaugural Speech to Plead for Comity in Wake of Riot",
       "excerpt": "“There’s a recognition that things aren’t great right now, but there’s definitely hope that they’re going to get better.” Teper said not to expect the speech to dwell on the past. There’s “no way” Biden would invoke “American carnage ...",
@@ -1116,102 +1209,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-artificial-intelligence-beats-us-in-chess-but-not-in-memory.md",
-      "title": "Artificial intelligence beats us in chess, but not in memory",
-      "excerpt": "In the last decades, artificial intelligence has shown to be very good at achieving exceptional goals in several fields. Chess is one of them: in 1996, for the first time, the computer Deep Blue beat a human player,",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-01-artificial-intelligence-chess-memory.html",
-      "originalUrl": "https://phys.org/news/2021-01-artificial-intelligence-chess-memory.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/5-artificialin.jpg",
-          "width": 985,
-          "height": 704,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-01-artificial-intelligence-chess-memory.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-01-artificial-intelligence-chess-memory.amp",
-      "publishedDateTime": "2021-01-15T08:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-blockchain-beyond-bitcoin-transforming-fintech-healthcare-and-more.md",
-      "title": "Blockchain Beyond Bitcoin: Transforming FinTech, Healthcare, And More",
-      "excerpt": "The origin of blockchain dates back to 1991, when researchers Stuart Haber and W. Scott Stornetta outlined a system to document timestamps that could not be altered. However, it is most widely known as the underpinning of Bitcoin,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2021/01/15/blockchain-beyond-bitcoin-transforming-fintech-healthcare-and-more/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2021/01/15/blockchain-beyond-bitcoin-transforming-fintech-healthcare-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6001bffef1677f1270da7683%2F0x0.jpg",
-          "width": 1200,
-          "height": 593,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2021/01/15/blockchain-beyond-bitcoin-transforming-fintech-healthcare-and-more/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/01/15/blockchain-beyond-bitcoin-transforming-fintech-healthcare-and-more/amp/",
-      "publishedDateTime": "2021-01-15T08:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

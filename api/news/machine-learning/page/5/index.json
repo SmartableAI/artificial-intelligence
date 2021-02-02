@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-04-deep-learning-and-extreme-weather-catastrophes.md",
+      "title": "Deep Learning and Extreme Weather Catastrophes",
+      "excerpt": "Welcome to the second edition of the AI and Global Grand Challenges newsletter, where we explore how AI is tackling the largest problems facing the world. In the short term we are focusing exclusively on the use of AI in Healthcare and Climate Change!",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/deep-learning-extreme-weather-catastrophes-marcel-hedman",
+      "originalUrl": "https://www.linkedin.com/pulse/deep-learning-extreme-weather-catastrophes-marcel-hedman",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQFBIRQHlQ4HQw/article-cover_image-shrink_600_2000/0/1609762916485?e=1616025600&v=beta&t=hXyO50zf5Us3Cow_8uO1rvaK4etLRmznXvdTxbcPSOM",
+          "width": 1800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-03T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-03-why-robotics-and-language-need-each-other.md",
       "title": "Why robotics and language need each other",
       "excerpt": "Combining robotics and language complicates both, but they have the potential to bolster each other",
@@ -1355,58 +1407,6 @@
         "AI",
         "Machine Learning",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-bolt-raises-75-million-to-fight-ecommerce-fraud-with-machine-learning.md",
-      "title": "Bolt raises $75 million to fight ecommerce fraud with machine learning",
-      "excerpt": "Its machine learning algorithms analyze over 200 variables on each transaction, and a dedicated team reviews every declined transaction. Customers flagged as potentially malicious are afforded the ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/21/bolt-raises-75-million-to-fight-ecommerce-fraud-with-machine-learning/",
-      "originalUrl": "https://venturebeat.com/2020/12/21/bolt-raises-75-million-to-fight-ecommerce-fraud-with-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/https___specials-images.forbesimg.com_imageserve_5f103274ae07b50006534ccd_0x0.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/21/bolt-raises-75-million-to-fight-ecommerce-fraud-with-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/21/bolt-raises-75-million-to-fight-ecommerce-fraud-with-machine-learning/amp/",
-      "publishedDateTime": "2020-12-21T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

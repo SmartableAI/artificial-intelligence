@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "California OKs China’s Baidu for Testing Self-Driving Cars Without Driver"
-    excerpt: "Baidu Inc. has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor"
-    publishedDateTime: 2021-01-28T17:34:00Z
-    webUrl: "https://www.claimsjournal.com/news/west/2021/01/28/301746.htm"
-    type: article
-    provider:
-      name: Claims Journal
-      domain: claimsjournal.com
-    quality: 38
-    images:
-      - url: "https://www.claimsjournal.com/img/claims-journal-logo-640.png"
-        width: 640
-        height: 300
-        isCached: true
   - title: "Global Self-Driving Truck Technology Market 2020 Key Stakeholders, Subcomponent Manufacturers, Industry Association and Key Drivers Analysis to 2025"
     excerpt: "The latest market research report titled Global Self-Driving Truck Technology Market 2020 by Company, Type and Application, Forecast to 2025 reveals the overview of the global industry, encompassing the latest industry data and industry future trends,"
     publishedDateTime: 2021-02-02T06:27:00Z

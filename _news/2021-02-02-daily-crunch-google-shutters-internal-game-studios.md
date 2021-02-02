@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/02/01/daily-crunch-google-shutters-inter
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/01/daily-crunch-google-shutters-internal-game-studios/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:

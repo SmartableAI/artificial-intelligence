@@ -2,21 +2,21 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2021-01-28-baidu-gets-california-nod-for-testing-empty-self-driving-cars.md",
-      "title": "Baidu gets California nod for testing empty self-driving cars",
-      "excerpt": "Baidu Inc has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor Vehicles said on Wednesday.",
+      "path": "_news/2021-01-28-artificial-intelligence-takes-center-stage-early-in-2021.md",
+      "title": "Artificial Intelligence Takes Center Stage Early in 2021",
+      "excerpt": "AI is the most significant technology of the last 30 years and its innovation is accelerating in the early part of 2021.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-baidu-autonomous-idUSKBN29W2OT",
-      "originalUrl": "https://www.reuters.com/article/us-baidu-autonomous-idUSKBN29W2OT",
+      "webUrl": "https://www.eweek.com/pc-hardware/artificial-intelligence-takes-center-stage-early-in-2021",
+      "originalUrl": "https://www.eweek.com/pc-hardware/artificial-intelligence-takes-center-stage-early-in-2021",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 81,
       "tags": null,
       "images": [
         {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210127&t=2&i=1549286737&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0Q1KU",
-          "width": 817,
-          "height": 545,
+          "url": "https://www.eweek.com/imagesvr_ez/b2bezp/2017/07/IBM.Watson2.JPG?alias=social_image",
+          "width": 560,
+          "height": 300,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29W2OT",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29W2OT",
-      "publishedDateTime": "2021-01-27T18:37:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-27T21:26:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "eWeek",
+        "domain": "eweek.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/eweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,8 +49,97 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
-        "AI"
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-01-28-pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning.md",
+      "title": "Pinecone leaves stealth with $10M, launches first serverless vector database for machine learning",
+      "excerpt": "Built by the team behind Amazon SageMaker and founded by scientist and former AWS Director Edo Liberty, Pinecone makes large-scale real-time inference as simple as querying a database. It is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-301216240.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-301216240.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-27T20:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-01-28-neural-network-software-market-is-booming-worldwide-neurala-ibm-microsoft.md",
+      "title": "Neural Network Software Market is Booming Worldwide | Neurala, IBM, Microsoft",
+      "excerpt": "Latest released the research study on Global Neural Network Software Market offers a detailed overview of the factors influencing the global business scope Neural Network Software Market research report shows the latest market insights current situation analysis with upcoming trends",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2232068/neural-network-software-market-is-booming-worldwide-neurala",
+      "originalUrl": "https://www.openpr.com/news/2232068/neural-network-software-market-is-booming-worldwide-neurala",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/1/U128436343_g.jpg",
+          "width": 512,
+          "height": 325,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2232068/neural-network-software-market-is-booming-worldwide-neurala",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2232068/neural-network-software-market-is-booming-worldwide-neurala",
+      "publishedDateTime": "2021-01-27T20:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -1133,103 +1222,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning.md",
-      "title": "Pinecone leaves stealth with $10M, launches first serverless vector database for machine learning",
-      "excerpt": "Built by the team behind Amazon SageMaker and founded by scientist and former AWS Director Edo Liberty, Pinecone makes large-scale real-time inference as simple as querying a database. It is ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-1030010484",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-1030010484",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-1030010484",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-1030010484",
-      "publishedDateTime": "2021-01-27T07:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding.md",
-      "title": "Pinecone, a serverless vector database for machine learning, leaves stealth with $10M funding",
-      "excerpt": "Built by the team behind Amazon SageMaker. Having attracted investment by Wing Venture Capital, with Wing's Founding Partner and early Snowflake investor, Peter Wagner, joining startup Pinecone's ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/",
-      "originalUrl": "https://www.zdnet.com/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2021/01/27/433da3ee-bf33-491e-b03e-51e2184e3670/pinecone-illustration.jpg",
-          "width": 426,
-          "height": 398,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/pinecone-a-serverless-vector-database-for-machine-learning-leaves-stealth-with-10m-funding/",
-      "publishedDateTime": "2021-01-27T07:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

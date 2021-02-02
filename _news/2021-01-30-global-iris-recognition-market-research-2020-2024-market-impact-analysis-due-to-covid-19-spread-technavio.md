@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Voice Recognition Market Size, Detailed Analysis of Current Industry Figures with Forecasts Growth By 2026"
+    excerpt: "Selbyville, Delaware. The report on Voice Recognition market is a comprehensive evaluation of the market. It does"
+    publishedDateTime: 2021-01-29T11:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-size-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2026-2021-01-29?tesla=y"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence In Remote Patient Monitoring Market Research Report - Global Forecast to 2025 - Cumulative Impact of COVID-19"
     excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence In Remote Patient Monitoring Market"
     publishedDateTime: 2021-01-29T10:39:00Z

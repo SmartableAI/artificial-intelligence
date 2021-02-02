@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-08-gpu-database-market-2021-growth-and-business-prospects-industry-size-forecast-by-share-revenue-development-status-demand-by-regions-2023.md",
+      "title": "GPU Database Market 2021 Growth and Business Prospects, Industry Size, Forecast by Share, Revenue, Development Status, Demand by Regions 2023",
+      "excerpt": "Comserve Inc. / -- The global GPU database market was valued at USD 195.3 million in 2017 and is expected to reach USD",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/01/19074776/gpu-database-market-2021-growth-and-business-prospects-industry-size-forecast-by-share-revenue-deve",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/01/19074776/gpu-database-market-2021-growth-and-business-prospects-industry-size-forecast-by-share-revenue-deve",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/19074776",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19074776",
+      "publishedDateTime": "2021-01-07T23:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-two-ways-of-performing-massively-parallel-ai-calculations-using-light.md",
       "title": "Two ways of performing massively parallel AI calculations using light",
       "excerpt": "Now, two different teams of researchers have figured out ways of performing calculations with light in a way that both merges memory and calculations and allows for massive parallelism. Despite the differences in implementation,",
@@ -1414,40 +1448,6 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-beyond-limits-aligns-its-ai-with-nvidia-in-energy-discovery-sector.md",
-      "title": "Beyond Limits Aligns its AI with Nvidia in Energy Discovery Sector",
-      "excerpt": "AI company Beyond Limits today said it will collaborate with Nvidia on joint strategies leveraging Nvidia technical support and GPU-optimized AI software, including containers, models and application frameworks from the Nvidia NGC catalog, to improve ...",
-      "sourceUrl": null,
-      "webUrl": "https://insidehpc.com/2020/12/beyond-limits-aligns-its-ai-with-nvidia-in-energy-discovery-sector/",
-      "originalUrl": "https://insidehpc.com/2020/12/beyond-limits-aligns-its-ai-with-nvidia-in-energy-discovery-sector/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-21T12:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

@@ -40,20 +40,6 @@ related:
         width: 770
         height: 578
         isCached: true
-  - title: "Sharing Our AI Ethics Framework"
-    excerpt: "Artificial intelligence (AI) is one of the biggest technology revolutions of our time. In the same way we have electrified factories and machines in the past century, we will infuse AI into every software and system in the 21st century."
-    publishedDateTime: 2021-01-28T17:33:00Z
-    webUrl: "https://www.linkedin.com/pulse/sharing-our-ai-ethics-framework-arvind-krishna"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 54
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGeIX1PljlFNA/article-cover_image-shrink_720_1280/0/1611841497895?e=1617235200&v=beta&t=RJ41BRX2JUtyajpy73NuqQidprD_u1fFhCDFbU5-tIg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "cEcXKI3pPws92JP8o1Fw4l0xXxTPlMScuJcyhCi0PxvRrNWeO971tw0jwYIjtseqLynRxAQITfxR/ersvg/RUy5qp4cYhUIrnPyVKH2AZmVUhYmZ3IuKhUWi5ICme32Soup0Ui3w87fqq0LsTjv2b7ImGlZdk1oZFVYwKlMpjBFqpuXe1Kulsw7mCmIE+t2Z6mZEzf2YowaAojcnjCfJisrcV5sDx/DgPeSvoUTfC56+3YH6b5aYSbYO5vTm5OhR8xLUdc7A44qjYsVUuMfrr6M7tCiQTiwc0GmYN6J7THmdUD9IdKnnY7TGD/1DmEBMudhFG6cz9XDqs1ztx3d7EKWrZSshVKiXPnzD2OaDGT8=;E/WB0qbspjPqvhuDVHuHOQ=="
 ---

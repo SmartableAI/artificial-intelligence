@@ -43,43 +43,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) In Fintech Market Qualitative Insights on Application and Drivers & Growth Opportunity Analysis Report"
-    excerpt: "In Fintech Market Estimation, Global Share, Industry Outlook, Price Trend, Growth Opportunity and Top Regional Forecast (Latin America, North America, Asia Specific, Europe, Middle East ) \" Market Overview: Global Artificial Intelligence (AI) in Fintech Market is valued approximately USD 2."
-    publishedDateTime: 2021-02-01T13:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-qualitative-insights-on-application-and-drivers-growth-opportunity-analysis-report-2021-02-01"
+  - title: "Consumer Robotics Market Size, Comprehensive Analysis, Development Strategy, Opportunities, Future Trends and Industry Forecast 2023"
+    excerpt: "Market Research Future published a research report on \"Consumer Robotics Market Research Report – Global Forecast To 2023\""
+    publishedDateTime: 2021-02-01T16:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/consumer-robotics-market-size-comprehensive-analysis-development-strategy-opportunities-future-trends-and-industry-forecast-2023-2021-02-01"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Chipsets Market Growth Analysis By Size, Share, News, Demand, Opportunity"
-    excerpt: "Artificial Intelligence Chipsets Market Size, Demand-sales, Suppliers By Key Applications Detailed Analysis and Growth Aspects on Manufacturing Landscapes and Regional Analysis \"Market Overview: Global Artificial Intelligence (Chipsets) Market is valued approximately at USD 5."
-    publishedDateTime: 2021-02-01T13:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-growth-analysis-by-size-share-news-demand-opportunity-2021-02-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) Enabled Medical Imaging Market – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2025"
-    excerpt: "Selbyville, Delaware According to the research report titled 'Global Artificial Intelligence (AI) Enabled Medical Imaging Market Analysis, 2020', available with Market Study Report LLC, global artificial intelligence (AI) enabled medical imaging market is expected to register 29% CAGR during 2021-2026."
-    publishedDateTime: 2021-02-02T07:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-enabled-medical-imaging-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2021-02-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
+    quality: 53
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -113,20 +85,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech Recognition Market Size, Global Trends, Historical Analysis, Industry Demand, Growth, Future Plans and Opportunity Assessment by 2023"
-    excerpt: "Market Research Future published a research report on \"Global Speech Recognition Market Research Report – Forecast 2023\""
-    publishedDateTime: 2021-01-30T02:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-size-global-trends-historical-analysis-industry-demand-growth-future-plans-and-opportunity-assessment-by-2023-2021-01-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) in Manufacturing Market Size is USD 4798 Million by 2026 at CAGR 28.1% | Valuates Reports"
     excerpt: "Artificial Intelligence in Manufacturing Market is Segmented by Type (Deep Learning, Computer Vision, Context Awareness, NLP), by"
     publishedDateTime: 2021-01-29T00:00:00Z
@@ -150,6 +108,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 26
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Autonomous Cars Market | Worldwide Industry Share, Size, Gross Margin, Trend, Future Demand, Analysis by Top Leading Player and Forecast Till 2027"
+    excerpt: "Autonomous Cars Market is set to grow exponentially owing to the increasing development of the ride-hailing technology. Hence, numerous industry giants are investing hefty amounts of money in the field of driverless ride-sharing."
+    publishedDateTime: 2021-02-01T15:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/autonomous-cars-market-worldwide-industry-share-size-gross-margin-trend-future-demand-analysis-by-top-leading-player-and-forecast-till-2027-2021-02-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 16
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

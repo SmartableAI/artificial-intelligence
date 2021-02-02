@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence (AI) Chipsets Market Share, Growth Insight, Size, Competitive Analysis, Regional, And Global Forecast To 2027"
+    excerpt: "https://www.fortunebusinessinsights.com/enquiry/customization/artificial-intelligence-ai-chipsets-market-104500 8.1.1.1. Graphics Processing Unit (GPU) 8.1.1.2. Field Programmable Gate Arrays (FPGAs) 8.1.1.3. Application-specific Integrated Circuit (ASIC ..."
+    publishedDateTime: 2021-02-02T10:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-share-growth-insight-size-competitive-analysis-regional-and-global-forecast-to-2027-2021-02-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural Language Processing (NLP) in Healthcare and Life Sciences Market 2021, Share, Growth, Trend, Industry Analysis and Forecast to 2026"
     excerpt: "Summary A New Market Study, titled \"Natural Language Processing (NLP) in Healthcare and Life Sciences Market Upcoming"
     publishedDateTime: 2021-01-29T17:09:00Z
@@ -53,24 +67,38 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Consumer Robotics Market Size, Comprehensive Analysis, Development Strategy, Opportunities, Future Trends and Industry Forecast 2023"
-    excerpt: "Market Research Future published a research report on \"Consumer Robotics Market Research Report – Global Forecast To 2023\""
-    publishedDateTime: 2021-02-01T16:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/consumer-robotics-market-size-comprehensive-analysis-development-strategy-opportunities-future-trends-and-industry-forecast-2023-2021-02-01"
+  - title: "Artificial Intelligence (AI) In Fintech Market Qualitative Insights on Application and Drivers & Growth Opportunity Analysis Report"
+    excerpt: "In Fintech Market Estimation, Global Share, Industry Outlook, Price Trend, Growth Opportunity and Top Regional Forecast (Latin America, North America, Asia Specific, Europe, Middle East ) \" Market Overview: Global Artificial Intelligence (AI) in Fintech Market is valued approximately USD 2."
+    publishedDateTime: 2021-02-01T13:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-qualitative-insights-on-application-and-drivers-growth-opportunity-analysis-report-2021-02-01"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 53
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice Recognition Market Size, Detailed Analysis of Current Industry Figures with Forecasts Growth By 2026"
-    excerpt: "Selbyville, Delaware. The report on Voice Recognition market is a comprehensive evaluation of the market. It does"
-    publishedDateTime: 2021-01-29T11:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-size-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2026-2021-01-29?tesla=y"
+  - title: "Artificial Intelligence Chipsets Market Growth Analysis By Size, Share, News, Demand, Opportunity"
+    excerpt: "Artificial Intelligence Chipsets Market Size, Demand-sales, Suppliers By Key Applications Detailed Analysis and Growth Aspects on Manufacturing Landscapes and Regional Analysis \"Market Overview: Global Artificial Intelligence (Chipsets) Market is valued approximately at USD 5."
+    publishedDateTime: 2021-02-01T13:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-growth-analysis-by-size-share-news-demand-opportunity-2021-02-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) Enabled Medical Imaging Market – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2025"
+    excerpt: "Selbyville, Delaware According to the research report titled 'Global Artificial Intelligence (AI) Enabled Medical Imaging Market Analysis, 2020', available with Market Study Report LLC, global artificial intelligence (AI) enabled medical imaging market is expected to register 29% CAGR during 2021-2026."
+    publishedDateTime: 2021-02-02T07:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-enabled-medical-imaging-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2021-02-02"
     type: article
     provider:
       name: MarketWatch
@@ -109,15 +137,26 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Autonomous Cars Market | Worldwide Industry Share, Size, Gross Margin, Trend, Future Demand, Analysis by Top Leading Player and Forecast Till 2027"
-    excerpt: "Autonomous Cars Market is set to grow exponentially owing to the increasing development of the ride-hailing technology. Hence, numerous industry giants are investing hefty amounts of money in the field of driverless ride-sharing."
-    publishedDateTime: 2021-02-01T15:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/autonomous-cars-market-worldwide-industry-share-size-gross-margin-trend-future-demand-analysis-by-top-leading-player-and-forecast-till-2027-2021-02-01"
+  - title: "Smart Retail Market Size & Growth Analysis Report, 2021-2027"
+    excerpt: "The global smart retail market is expected to grow from 21 6 billion in 2020 to 62 5 billion in 2025 It is growing at a 23 CAGR The key factors driving the growth of this market are the increased"
+    publishedDateTime: 2021-02-02T08:25:00Z
+    webUrl: "https://www.openpr.com/news/2234587/smart-retail-market-size-growth-analysis-report-2021-2027"
+    ampWebUrl: "https://www.openpr.com/amp/2234587/smart-retail-market-size-growth-analysis-report-2021-2027"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2234587/smart-retail-market-size-growth-analysis-report-2021-2027"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 39
+  - title: "Speech Recognition Market Size, Global Trends, Historical Analysis, Industry Demand, Growth, Future Plans and Opportunity Assessment by 2023"
+    excerpt: "Market Research Future published a research report on \"Global Speech Recognition Market Research Report – Forecast 2023\""
+    publishedDateTime: 2021-01-30T02:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-size-global-trends-historical-analysis-industry-demand-growth-future-plans-and-opportunity-assessment-by-2023-2021-01-29"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 16
+    quality: 36
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

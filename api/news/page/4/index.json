@@ -2,6 +2,92 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-30-end-to-end-deep-learning-inference-with-the-nvidia-data-center-platform.md",
+      "title": "End-to-End Deep Learning Inference with the NVIDIA Data Center Platform",
+      "excerpt": "The AI revolution is surging forward, igniting opportunities for businesses to reimagine how they solve customer challenges. It’s a",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/resource-library/whitepapers/end-to-end-deep-learning-inference-with-the-nvidia-data-center-platform/",
+      "originalUrl": "https://www.techrepublic.com/resource-library/whitepapers/end-to-end-deep-learning-inference-with-the-nvidia-data-center-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/resource-library/whitepapers/end-to-end-deep-learning-inference-with-the-nvidia-data-center-platform/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/end-to-end-deep-learning-inference-with-the-nvidia-data-center-platform/",
+      "publishedDateTime": "2021-01-29T08:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-30-towards-a-framework-for-face-recognition-in-europe.md",
+      "title": "Towards a framework for face recognition in Europe",
+      "excerpt": "The Advisory Committee of the Council of Europe Convention on the Protection of Individuals with regard to Automatic Processing of Personal Data, known as Convention 108, is celebrating its 40th anniversary.",
+      "sourceUrl": null,
+      "webUrl": "https://galusaustralis.com/2021/01/1047902/towards-a-framework-for-face-recognition-in-europe/",
+      "originalUrl": "https://galusaustralis.com/2021/01/1047902/towards-a-framework-for-face-recognition-in-europe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://galusaustralis.com/wp-content/uploads/2021/01/reconnaissance-faciale-facebook-1024x538.jpg",
+          "width": 1024,
+          "height": 538,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://galusaustralis.com/2021/01/1047902/towards-a-framework-for-face-recognition-in-europe/amp/",
+      "cdnAmpWebUrl": "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2021/01/1047902/towards-a-framework-for-face-recognition-in-europe/amp/",
+      "publishedDateTime": "2021-01-29T08:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "galusaustralis.com",
+        "domain": "galusaustralis.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-29-softbanks-son-expects-mass-production-of-driverless-cars-in-2-years.md",
       "title": "SoftBank's Son expects mass production of driverless cars in 2 years",
       "excerpt": "Son, who made his name for investing early in startups such as China’s Alibaba Group had said he will continue to take stakes in public companies he thinks are frontrunners in the artificial ...",
@@ -105,7 +191,7 @@
       "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2021/01/29/10-ways-ai-can-elevate-your-service-and-operations-management/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -343,7 +429,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-analysis-by-growth-emerging-trends-and-future-opportunities-2021-01-29",
       "featuredContent": null,
       "highlight": null,
-      "heat": 153,
+      "heat": 133,
       "tags": null,
       "images": [
         {
@@ -533,7 +619,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/362981",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -1098,110 +1184,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-managing-your-machine-learning-lifecycle-with-mlflow-and-amazon-sagemaker.md",
-      "title": "Managing your machine learning lifecycle with MLflow and Amazon SageMaker",
-      "excerpt": "With the rapid adoption of machine learning (ML) and MLOps, enterprises want to increase the velocity of ML projects from experimentation to production. During the initial phase of an ML project, data scientists collaborate and share experiment results in order to find a solution to a business need.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/managing-your-machine-learning-lifecycle-with-mlflow-and-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/managing-your-machine-learning-lifecycle-with-mlflow-and-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/05/ML-1367-1.jpg",
-          "width": 800,
-          "height": 301,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-28T13:48:48-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-robust-artificial-intelligence-tools-to-predict-future-cancer.md",
-      "title": "Robust artificial intelligence tools to predict future cancer",
-      "excerpt": "MIT researchers have improved their machine learning system, Mirai, developed to predict cancer risk from mammogram images, and validated their effectiveness with studies across several hospitals.",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2021/robust-artificial-intelligence-tools-predict-future-cancer-0128",
-      "originalUrl": "https://news.mit.edu/2021/robust-artificial-intelligence-tools-predict-future-cancer-0128",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202101/MIT-Mirai_0.jpg",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-28T13:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Massachusetts Institute of Technology",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
