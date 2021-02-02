@@ -39,16 +39,16 @@ related:
         height: 630
         isCached: true
   - title: "Artificial Intelligence Covid breakthrough will save lives"
-    excerpt: "A team from the University of Cambridge is developing artificial intelligence (AI ... Analysis group and co-director of the Cambridge Mathematics of Information in Healthcare Hub (CMIH) at the University of Cambridge, said: \"A shared altruistic desire ..."
-    publishedDateTime: 2021-02-02T00:34:00Z
-    webUrl: "https://www.cambridgenetwork.co.uk/news/artificial-intelligence-covid-breakthrough-will-save-lives"
+    excerpt: "A team from the University of Cambridge is developing artificial intelligence (AI) algorithms to support doctors to decide what action to take on the front-line, such as giving oxygen and medications,"
+    publishedDateTime: 2021-02-02T03:03:00Z
+    webUrl: "https://cambridgenetwork.co.uk/news/612121"
     type: article
     provider:
       name: Cambridge Network
       domain: cambridgenetwork.co.uk
     quality: 39
     images:
-      - url: "https://www.cambridgenetwork.co.uk/sites/default/files/Collaboration_Zoom.width-840.jpg"
+      - url: "https://cambridgenetwork.co.uk/sites/default/files/Collaboration_Zoom.width-840.jpg"
         width: 700
         height: 393
         isCached: true

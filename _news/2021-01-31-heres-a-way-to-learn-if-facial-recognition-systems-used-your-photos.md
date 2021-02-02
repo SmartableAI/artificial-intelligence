@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/01/31/technology/facial-recognition-pho
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/31/technology/facial-recognition-photo-tool.amp.html"
 type: article
 quality: 91
-heat: 141
+heat: 151
 published: true
 
 provider:
@@ -104,6 +104,20 @@ related:
       - url: "https://cdn.my.na/assets/images/11964/female-entrepreneur-pioneers-facial-recognition-tech2021-02-010.jpg"
         width: 1024
         height: 602
+        isCached: true
+  - title: "Millions of US faces scanned without approval, rules for facial recognition needed"
+    excerpt: "The powers that be at UCLA thought it was a good idea at the time — using state-of-the-art technology to scan students' faces for gaining access to campus buildings. Students thought otherwise."
+    publishedDateTime: 2021-02-02T03:03:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/02/02/millions-of-us-faces-scanned-without-approval-rules-for-facial-recognition-needed"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 33
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/02/02/1029532.jpeg"
+        width: 1240
+        height: 823
         isCached: true
 
 secured: "VNqOhjPzjsg8b27KWOQDml983/WIi4GixrwzXSvWA+tLzdP0GXfT935B8fVI08RYVCG7WZddhS24BcPXRDQvIQT2VKfVJT6U+hVHZU3S1ibHLe0sCXNatbY28REeKQIrNQj4aot3iwtqOBijUjY/bNbGRntGt8i02xbbaqWFkqk9wgINQVjtCLLsKs9x37SE8MZr9QkRZyUQqrqqj40NO4QV1KXI5yyDbzXygL9bneebIQRU71rGkUKmdZg91JN/WzX09x/9WF+A2+rzA6h7aZH1WcUoiXfQK6dLrWlhOyJglZizCysttJTRgRmraP6HIqktmfyOLRV6ewJSBqPTlM+rooGCRfqzsN9PuStp1WkPItSZu14YFWRJviVr23qzEQAnHK0QaABpULqBGy5ELCzJyf09mfQ1zVLsbU8yeB4o8pUDwjpBBOHQWG2pz1h0UykyXpndmXH51+KUPsIHPis26PJ4MrtA6IBTwSu++1zaw0A9v/SkA7bKrjnYajYyGs82Fd456nyRIiB7rK2Y2Q==;myhQt4g1Bwom3Cv4G74UfQ=="

@@ -36,17 +36,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Global Image Recognition in Retail Market 2020-2025 - Growing Adoption of Cloud-Based Image Recognition Solutions"
-    excerpt: "The \"Global Image Recognition in Retail Market (2020-2025), by Technology, Component, Application, Deployment, Geography and the Impact of Covid-19 with Ansoff Analysis\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2021-01-28T12:48:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/global-image-recognition-in-retail-market-2020-2025-growing-adoption-of-cloud-based-image-recognition-solutions-1030014644"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/global-image-recognition-in-retail-market-2020-2025-growing-adoption-of-cloud-based-image-recognition-solutions-1030014644"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-image-recognition-in-retail-market-2020-2025-growing-adoption-of-cloud-based-image-recognition-solutions-1030014644"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
   - title: "Facial Recognition Technology is now Capable of Identifying Political Views"
     excerpt: "Michal Kosinski's new research indicates facial recognition technology is now capable of exposing people’s political orientation from naturalistic facial images using a machine learning algorithm."
     publishedDateTime: 2021-01-31T05:14:00Z

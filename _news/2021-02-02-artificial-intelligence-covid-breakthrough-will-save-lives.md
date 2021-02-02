@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Artificial Intelligence Covid breakthrough will save lives"
-excerpt: "A team from the University of Cambridge is developing artificial intelligence (AI ... Analysis group and co-director of the Cambridge Mathematics of Information in Healthcare Hub (CMIH) at the University of Cambridge, said: \"A shared altruistic desire ..."
-publishedDateTime: 2021-02-02T00:34:00Z
-originalUrl: "https://www.cambridgenetwork.co.uk/news/artificial-intelligence-covid-breakthrough-will-save-lives"
-webUrl: "https://www.cambridgenetwork.co.uk/news/artificial-intelligence-covid-breakthrough-will-save-lives"
+excerpt: "A team from the University of Cambridge is developing artificial intelligence (AI) algorithms to support doctors to decide what action to take on the front-line, such as giving oxygen and medications,"
+publishedDateTime: 2021-02-02T03:03:00Z
+originalUrl: "https://cambridgenetwork.co.uk/news/612121"
+webUrl: "https://cambridgenetwork.co.uk/news/612121"
 type: article
 quality: 39
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - AI
 
 images:
-  - url: "https://www.cambridgenetwork.co.uk/sites/default/files/Collaboration_Zoom.width-840.jpg"
+  - url: "https://cambridgenetwork.co.uk/sites/default/files/Collaboration_Zoom.width-840.jpg"
     width: 700
     height: 393
     isCached: true
@@ -54,6 +54,6 @@ related:
         height: 675
         isCached: true
 
-secured: "y9DEVAx+fV5Ut4xsdhq6QmGlHFeC6y/T9zW1V1tSaR7wTBD5fKWUbob/qwqohSKE6WaqncKZbfWBmSRuI6eCClKz6EmXwKNEezXYN6jKjP6YF45x0g5nC5zQyh0hLmCGX06EERHbty0Is2CFd1X6J9jwO3bVqMr4ctb84QM+egHiKvvVksPscGqxZEQbVmc2qhyRZERBEllOAJlGRXSnzi6oxROjbGaBpGkPXw3Lqr6G3kZyi0WMxTEwXqEztzdMk9sdKomVsMHQpqR9idSBjr6o4vyPSvIv8MwJUukYfnWzll3G9u/lnRNwrqohIJvl9l7UFzucOvkkixONZjfCvj9pQY+C9EOpSqD1qu3agdk=;HINUjEL0FrmaZwAFW9bWBg=="
+secured: "kwgzoOwqiDYyuGE2cA/xVwFU9URmZ01igzVqZQhWnJSPKOPlT6DZF+ltgfxNKJ8eBvBdGAggVSioPyLVXGSRLwmZtz6dDFSRvG9exUZrEpYkfdbpNXA0EtrbOFXUm2emm5aWbI/ZeyokK8m/PtGy6lg0cqf1OzMwKzC8xr/wYdypdtyXaUEHrAI3umQTOTLRSID+oJ+IORS6giDTyJ9BG3lhymQnwdoveKgIyKPqznMbPN+rzjuhk1RA30XnLJbVeSUWSIt9YvlxhMEQw+S4mExmuBGTk1ORl4SJGgRk7WQvlATGxwfIaYanz/PYLjvVjVBGQp+iuhvB+6n2qIfW81pOcxBaXZ5y4XolrTn7PUM=;yon19OTOFbMBrYbyb8ODFw=="
 ---
 

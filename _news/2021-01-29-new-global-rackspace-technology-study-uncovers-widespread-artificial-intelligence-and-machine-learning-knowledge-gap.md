@@ -9,8 +9,8 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/New-Global-Rackspace-Te
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/New-Global-Rackspace-Technology-Study-Uncovers-Widespread-Artificial-Intelligence-and-Machine-Learning-Knowledge-Gap-1030016221"
 type: article
 quality: 63
-heat: -1
-published: false
+heat: 93
+published: true
 
 provider:
   name: Business Insider
@@ -26,20 +26,6 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "New Global Rackspace Technology Study Uncovers Widespread Artificial Intelligence and Machine Learning Knowledge Gap"
-    excerpt: "SAN ANTONIO, (GLOBE NEWSWIRE) -- Rackspace Technology (TM) (NASDAQ: RXT), a leading end-to-end, multicloud technology solutions company today announced the results of a global survey that reveals that the majority of organizations globally lack the internal resources to support critical artificial intelligence (AI) and machine learning (ML) initiatives."
-    publishedDateTime: 2021-01-28T11:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/new-global-rackspace-technology-study-uncovers-widespread-artificial-intelligence-and-machine-learning-knowledge-gap-2021-01-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "New Global Rackspace Technology Study reveals widespread knowledge gap in artificial intelligence and machine learning Nasdaq: RXT"
     excerpt: "New Global Rackspace Technology Study reveals widespread knowledge gap in artificial intelligence and machine learning Nasdaq: RXT SAN"
     publishedDateTime: 2021-01-28T16:18:00Z

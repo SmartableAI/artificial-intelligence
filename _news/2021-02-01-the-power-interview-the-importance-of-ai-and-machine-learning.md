@@ -84,19 +84,14 @@ related:
         height: 500
         isCached: true
   - title: "Perimeter Medical Imaging AI Announces Acceleration of Expiry Date of Warrants"
-    excerpt: "Perimeter Medical Imaging AI, Inc. (TSX-V:PINK)(OTC:PYNKF) (FSE:4PC) (“Perimeter” or the “Company”), a medical technology company driven to transform cancer surgery with ultra-high-resolution, real-time,"
-    publishedDateTime: 2021-02-02T01:39:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/business-technology-ontario-products-and-services-government-regulations-9d97a080a8824a2bb884adcd4308cb40"
+    excerpt: "Perimeter Medical Imaging AI, Inc. (TSX-V:PINK)(OTC:PYNKF) (FSE:4PC) (“Perimeter” or the “Company”), a medical technology company driven to transform"
+    publishedDateTime: 2021-02-02T04:15:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210201005963/en/Perimeter-Medical-Imaging-AI-Announces-Acceleration-of-Expiry-Date-of-Warrants"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 33
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Business Wire
+      domain: businesswire.com
+    quality: 13
 
 secured: "7yVJd/99SZ2JAKz2MFXj1o3+t0jjZ59HNy/1fsocIO1vDg1dKRUzPlmoCLL7ogDIziLVu8skcTIVB2hOOuUsRy1ci5+V5SRl42+NnKMYcJTTzv3Dc8kWxW1PVzzNwcgWe3JXoOFH+opBsyi167ZSGinBeWR21TjbvucIMSzTzAIDSs8BV1GXYBzUvPKZv3tP3LKQmEp16UaNaacEUw2REQhoBNbXgnrTbZ8StntaoTq01LoUDZwbAYCjJyTKmA6ATcgyoPV30HGjKz5ZDpn1zZkFczSaCJQ1/a5YwCn6uQIEefQpoLgemlYnrDRZnt0wceEFMhbzKmVoUUt+YeVZ2CutBq/qlO0/cPegN0vinkufNZOR/+kqgvujIOEJsiDsKbVRITSFMCotPVkepikZtmcgITxRG+SG0tMhESOk2CBTTxLU36dgnjIg5zAmejr4FSFnD6+Wpl9LTe/Yyfsau7WpJvzyhr5diEpdZRwcA4/zHbr9YI7cD+p6W1RKK6awiG8dotYX5/1N8xYiQXhFuQ==;BhGyt3c3aUPZIB8eJI/x8Q=="
 ---

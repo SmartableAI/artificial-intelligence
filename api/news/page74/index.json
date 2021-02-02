@@ -2,6 +2,49 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2020-12-03-neuroglee-therapeutics-to-attack-alzheimers-disease-through-personalized-ai-powered-digital-therapeutics.md",
+      "title": "Neuroglee Therapeutics to Attack Alzheimer's Disease Through Personalized AI-Powered Digital Therapeutics",
+      "excerpt": "Neuroglee's technology leverages artificial intelligence (AI), machine learning and novel ... will offer DTx that can be used with pharmacological therapy or as a standalone treatment, with a focus on slowing dementia-related cognitive decline.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pharmiweb.com/press-release/2020-12-03/neuroglee-therapeutics-to-attack-alzheimers-disease-through-personalized-ai-powered-digital-therape",
+      "originalUrl": "https://www.pharmiweb.com/press-release/2020-12-03/neuroglee-therapeutics-to-attack-alzheimers-disease-through-personalized-ai-powered-digital-therape",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pharmiweb.com/media/9690/neurogleerx_logo.jpg?anchor=center&amp;mode=crop&amp;width=300&amp;height=300&amp;rnd=132514696030000000",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-03T03:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PharmiWeb",
+        "domain": "pharmiweb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-03-healthcare-natural-language-processing-nlp-market-research-report-growth-forecast-2026.md",
       "title": "Healthcare Natural Language Processing (NLP) Market Research Report, Growth Forecast 2026",
       "excerpt": "The major vendors in the Healthcare Natural Language Processing (NLP) market aggressively focused on enhancing their contributions to meet the business goal. Request a sample Report of Healthcare Natural Language Processing (NLP) Market Analysis Report at:  Global Healthcare Natural Language Processing (NLP) Market to reach USD XX billion by 2025.",
@@ -1125,40 +1168,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-robotics-ai-etfs-still-producing-massive-gains.md",
-      "title": "Robotics & A.I. ETFs Still Producing Massive Gains",
-      "excerpt": "T he Global X Robotics & Artificial Intelligence ETF (BOTZ) isn't churning out an almost 50% gain year-to-date for nothing. The ETF operates in a space that's not only benefiting from the technological requirements brought on by the current pandemic,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/robotics-a.i.-etfs-still-producing-massive-gains-2020-12-02",
-      "originalUrl": "https://www.nasdaq.com/articles/robotics-a.i.-etfs-still-producing-massive-gains-2020-12-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/robotics-a.i.-etfs-still-producing-massive-gains-2020-12-02?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/robotics-a.i.-etfs-still-producing-massive-gains-2020-12-02?amp",
-      "publishedDateTime": "2020-12-02T10:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -100,6 +100,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Millions of US faces scanned without approval, rules for facial recognition needed"
+    excerpt: "The powers that be at UCLA thought it was a good idea at the time — using state-of-the-art technology to scan students' faces for gaining access to campus buildings. Students thought otherwise."
+    publishedDateTime: 2021-02-02T03:03:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/02/02/millions-of-us-faces-scanned-without-approval-rules-for-facial-recognition-needed"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 33
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/02/02/1029532.jpeg"
+        width: 1240
+        height: 823
+        isCached: true
 
 secured: "WDm91lXHmR9ZMoG8IgT5IXFIUAyWTnnpcGG8chgdAOCvAJpZ/dt6sQjdITyD3MYEPTTrHbmuo/LOsDEUq64oXqgC3OMDcn3okHi2fSO2RynLWTWks3HEGx8GkxgtpWqFl7BSOcQVcBLoyOZAWJV11CxVu1Ezg2ZOd2R9/cpQWRoVIEOiDeC03kcN2iXBIqcJxD0NVU6GPHIqogwNPY1jGPznA+EtTIFXp8t/yXjVKXmKfjMgEANuueQEmez/L2ASwOsJJmei5l3eEL4NK/QtizLG0w+guq/iRkEu1MTFYnpW9b2j9DgGyuq8gjo444wRE0O8DrdIDngmCHliDBjqQYFQL7tcvgghrnv1fQXpcu8=;XG/J1z+reUkikRPvQLhllw=="
 ---

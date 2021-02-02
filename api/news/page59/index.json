@@ -2,6 +2,50 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2020-12-14-deep-learning-gpu-cluster.md",
+      "title": "Deep Learning GPU Cluster",
+      "excerpt": "In this whitepaper, “Deep Learning GPU Cluster,” our friends over at Lambda walk you through the Lambda Echelon multi-node cluster reference design: a node design, a rack design, and an entire cluster level architecture. This document is for technical ...",
+      "sourceUrl": null,
+      "webUrl": "https://insidehpc.com/2020/12/deep-learning-gpu-cluster/",
+      "originalUrl": "https://insidehpc.com/2020/12/deep-learning-gpu-cluster/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insidehpc.com/wp-content/uploads/2020/12/Echelon2.png",
+          "width": 700,
+          "height": 373,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-14T06:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insideHPC",
+        "domain": "insidehpc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-12-14-truera-raises-12-million-for-its-ai-explainability-platform.md",
       "title": "Truera raises $12 million for its AI explainability platform",
       "excerpt": "Truera, a startup developing an AI explainability platform, has raised $12 million in venture capital financing.",
@@ -1154,57 +1198,6 @@
         "Computer Vision",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-13-google-used-a-64-camera-rig-to-train-its-portrait-lighting-ai.md",
-      "title": "Google used a 64-camera rig to train its portrait lighting AI",
-      "excerpt": "On the Pixel 4, Pixel 4a, Pixel 4a (5G) and Pixel 5, the Pixel Camera automatically applies Portrait Light in default mode and to Night Sight photos that have people in them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/google-portrait-lighting-ai-technology-180758456.html",
-      "originalUrl": "https://www.engadget.com/google-portrait-lighting-ai-technology-180758456.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2Fe60d2cd0-3c77-11eb-9dd7-226a3fff991b&client=amp-blogside-v2&signature=2ce2c91b44de27c7f06cb14aa5c89a940953eed1",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/google-portrait-lighting-ai-technology-180758456.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-portrait-lighting-ai-technology-180758456.html",
-      "publishedDateTime": "2020-12-12T10:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

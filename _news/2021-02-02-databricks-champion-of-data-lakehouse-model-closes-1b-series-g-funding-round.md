@@ -3,10 +3,10 @@ category: news
 title: "Databricks, champion of data \"lakehouse\" model, closes $1B series G funding round"
 excerpt: "The company founded by the creators of Apache Spark nabs $1B in fresh funding from an array of financial services and cloud companies' venture funds, marking a vote of confidence in the data lakehouse model."
 publishedDateTime: 2021-02-01T19:33:00Z
-originalUrl: "https://www.zdnet.com/article/databricks-champion-of-data-lakehouse-model-closes-1b-series-g-funding-round/"
-webUrl: "https://www.zdnet.com/article/databricks-champion-of-data-lakehouse-model-closes-1b-series-g-funding-round/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/databricks-champion-of-data-lakehouse-model-closes-1b-series-g-funding-round/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/databricks-champion-of-data-lakehouse-model-closes-1b-series-g-funding-round/"
+originalUrl: "https://www.zdnet.com/index.php/price/freetotry/index.php/article/databricks-champion-of-data-lakehouse-model-closes-1b-series-g-funding-round/"
+webUrl: "https://www.zdnet.com/index.php/price/freetotry/index.php/article/databricks-champion-of-data-lakehouse-model-closes-1b-series-g-funding-round/"
+ampWebUrl: "https://www.zdnet.com/index.php/price/freetotry/index.php/google-amp/article/databricks-champion-of-data-lakehouse-model-closes-1b-series-g-funding-round/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/price/freetotry/index.php/google-amp/article/databricks-champion-of-data-lakehouse-model-closes-1b-series-g-funding-round/"
 type: article
 quality: 49
 heat: 49
@@ -40,6 +40,6 @@ related:
         height: 682
         isCached: true
 
-secured: "AiewtGX0mGj4ldeU8xAaEMfw6Wg8JpqdBTXMzQhEnIH+zRT9bGE8fPdVe0hPUwprhAdnDVR2IbkRKejCGib1uNJT9ImvUV/tp0W8KwbWpYwa6r84byiFUgjXX5agrxcOyDoDLzbGMxDral4IZaUzAZNiyvI7kIeqg3j7DfJdxNgyywfGJZjhLh9eqFh/TjfNdEAl1hXV/27QXkpvv0YMBDp2JeXrRY0HeSOpNralxbZ3D5G7Gahgged3TK0X5afRp7UwcUUEFvnpOAVGbkSgkqObpaQxfRQatfJ2bFZ6u1OaBLAWD//uP5qfQF+qm6qnFmVAWhbU1wbac6Qlqi6fupcqal6CrTIAIFWSmaGRC19suYYoquG2hUFkTPEWYb5EK1RSGzXVvAdmYA2ii5LY63xg4fZa856pjxBTG6kuqpbWWQOEcyC2cnJtW6DMn/PKeoR4jhPMX7S6laSOVAFiCvzPLkLECHdIJIiRFcTcAXu6Ml0IB2A7Cifu1tv8ifnzRQJ3lFG4ZtY1yX7ATRn+yw==;L9P0KbSO7KPQK1dSvKRiNA=="
+secured: "br0Yq+0AGuBF5ivs6/jIedn8sMi5uNFzvCngWUohIR78+gS04+HDPWZmGaTCrJ9E5mVTTy6rMjDVJbww+/93vut/id0aqL0AsWL9jr7RFLTNyrPI+ENmW0GG/WL0cPKgBAgAvldaZXvOi/M1ej1IQE7ytk5q9/oSEd9M5NCHAwEnSGg9trXZ1UazeHmwhIwvnkcxmClE0V7m6ZO17o6XKWA6K9zjQexUx4cw4o7mxg/bD8OGFeTJAQJ3nsXUy15/pr8+c6ETzZCGA3FtkbmxYUzgO0xC9htusdofX4ZLE6XORz9UrTJ9MnjpThjbg0VCwBvmF4Eg0aR39uCV7F+K87LgYgV/JIREfOb42CX/iivTh1pLgcc+OYrjnk6pwBAp2KByPrJTHK4SSAiHWU0XP0uxPTMrG7Kgsd+ak5fNTv/Bzx/PulhUB/k2nYEm0tL5f6OKbrZDOOlsMRJcez7kt2u0/DZ32GD6tY4DABd56ySLLHMhLv6evdAWmHKkOlyNLGQntDCshkRw1aInm9Iuiw==;ngPwa7GSJd2/Tch5CtM5PA=="
 ---
 

@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "At More than 36.2% CAGR, Artificial Intelligence Market Will exceed USD 208.49 Billion by 2025"
-    excerpt: "Based on end-user, the market is segmented into media & advertising, BFSI, it & telecom, retail, healthcare, automotive & transportation and others. The regions covered in this Artificial Intelligence Market report are North America, Europe, Asia-Pacific ..."
-    publishedDateTime: 2021-01-28T12:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/at-more-than-362-cagr-artificial-intelligence-market-will-exceed-usd-20849-billion-by-2025-2021-01-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) in Manufacturing Market Size is USD 4798 Million by 2026 at CAGR 28.1% | Valuates Reports"
     excerpt: "Artificial Intelligence in Manufacturing Market is Segmented by Type (Deep Learning, Computer Vision, Context Awareness, NLP), by"
     publishedDateTime: 2021-01-28T13:30:00Z

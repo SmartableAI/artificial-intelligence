@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Perimeter Medical Imaging AI Announces Acceleration of Expiry Date of Warrants"
-excerpt: "Perimeter Medical Imaging AI, Inc. (TSX-V:PINK)(OTC:PYNKF) (FSE:4PC) (“Perimeter” or the “Company”), a medical technology company driven to transform cancer surgery with ultra-high-resolution, real-time,"
-publishedDateTime: 2021-02-02T01:39:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/business-technology-ontario-products-and-services-government-regulations-9d97a080a8824a2bb884adcd4308cb40"
-webUrl: "https://apnews.com/press-release/business-wire/business-technology-ontario-products-and-services-government-regulations-9d97a080a8824a2bb884adcd4308cb40"
+excerpt: "Perimeter Medical Imaging AI, Inc. (TSX-V:PINK)(OTC:PYNKF) (FSE:4PC) (“Perimeter” or the “Company”), a medical technology company driven to transform"
+publishedDateTime: 2021-02-02T04:15:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210201005963/en/Perimeter-Medical-Imaging-AI-Announces-Acceleration-of-Expiry-Date-of-Warrants"
+webUrl: "https://www.businesswire.com/news/home/20210201005963/en/Perimeter-Medical-Imaging-AI-Announces-Acceleration-of-Expiry-Date-of-Warrants"
 type: article
-quality: 33
+quality: 13
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Elder care, wireless AI, and the Internet of Medical Things"
@@ -97,6 +91,6 @@ related:
         height: 596
         isCached: true
 
-secured: "7er2vIMipukAEL1DCBP1Oj1hnjuyt0czphH/s1f8Plv+pnqv6QhHRJIAqG7jicF8Snp+iPKwWBArkkBUv+h+UwUtex4yhzkKGl0DUEsB6R7OqcX2aV3yoTN7Y6MNNSAIPwNUoQpBQIQ4blJ80zdPVouIuJora9SBmyZRpwFBmk5zXR+VLXYmquw7fuf6xR0lJ1Rurn8dCy4NSbGiWe283J7WgHFWcl7JeFjfGboQQ1upDY/MMGf6Jt9BfZbDIKlDnBIyRKyLWOG5EeHEk3Y88zl06pgzGH5TXEdSx5BVtkewW75jYjsLbKGnJ5mZeyaXuluoaNdgQa5A14xWONPuseQRee6DiKcNOR67n1kx2nM=;86nm161NbXeYkNgO3BCZ3g=="
+secured: "1l0lca2+mp4XCAffJEpyAkpaLU9rAPi0cSq18nl63UslKjeXMEnkgWKLPhGUiBOz6aS7mWSFqT3PzfZugMPE5/KcRwxaNQfUv4zo5VGFeELd3OhNrR8xEWLQxbz3PL/FqdWxv3QN+gvrLhTfHbs/j8P1QkZB5/AzNopATIiNAHtBD+lgQ45fNNii6VSxqAixHJ676Sz94LN0H5ttlWTbCb/cJ4IeCfdqi20OtI+Ot6yuij2LQ2e0VVnN9+zzvkaATrns0pzj8Qg7/O2RYbh4UKskORFUxdUPoxrjRphp4Jgp3hLDSZL2BjkJsan/1fr/Pr5luKoXLXvh0xUWVGQh6LCksER+XTzpRYKHDOjS3QE=;IBZ7w+0ZikxlsBIJB3fIFw=="
 ---
 

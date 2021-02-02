@@ -41,17 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Global Image Recognition in Retail Market 2020-2025 - Growing Adoption of Cloud-Based Image Recognition Solutions"
-    excerpt: "The \"Global Image Recognition in Retail Market (2020-2025), by Technology, Component, Application, Deployment, Geography and the Impact of Covid-19 with Ansoff Analysis\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2021-01-28T12:48:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/global-image-recognition-in-retail-market-2020-2025-growing-adoption-of-cloud-based-image-recognition-solutions-1030014644"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/global-image-recognition-in-retail-market-2020-2025-growing-adoption-of-cloud-based-image-recognition-solutions-1030014644"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-image-recognition-in-retail-market-2020-2025-growing-adoption-of-cloud-based-image-recognition-solutions-1030014644"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
   - title: "Facial Recognition Ethical Framework Launched by BSIA"
     excerpt: "The British Security Industry Association’s (BSIA) video surveillance section has launched an ethical and legal use guide for Automated Facial Recognition (AFR). The guide, recommended by the Organization for Economic Co-operation and Development,"
     publishedDateTime: 2021-02-01T12:25:00Z

@@ -41,20 +41,6 @@ related:
         width: 620
         height: 411
         isCached: true
-  - title: "Council of Europe calls for strict facial-recognition rules protecting human rights"
-    excerpt: "The Council of Europe, an international organisation distinct from the EU, has called for much stricter regulations on facial-recognition technology to protect privacy and equality."
-    publishedDateTime: 2021-01-28T12:44:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2021/01/council-of-europe-calls-for-strict-facial-recognition-rules-protecting-human-rights/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 18
-    images:
-      - url: "https://eandt.theiet.org/media/3236/15113327-1.jpg?center=0.651685393258427,0.51428571428571423&mode=crop&width=1200&height=450&rnd=131372513160000000"
-        width: 1200
-        height: 450
-        isCached: true
 
 secured: "v5FsbJxxecf2Yl7g7DttwbqIONPBkHokHDOGosooIg9LsMl2gNwlprx4TdlQ8H0AcPPUI9JYn/Nn15EsLcbE3knnwTPgi5hB+7Eqv39YFhEX4x5oZfNo3t81h40wkQZDgKNQqNc0jJ9ibBLQKsrV4JaJ9xTVNClRtif20E4X2VlfikKLQolsuKCdH126rYNqn0c7mBPTTMZbaStlXsCA6AAVQMkZyqMKPbRRe4VK7lNSKbF5S2ZduCwZ2crOCbrpMoaycjIpOMTopqIReh8Zs6dWoJdPW/WPXh871O+++5uIWr+k788Sm7CA7H4ufD9iirhmXpuYxwmbcujIe9T/OtPE9LVGTeC1nu9wuZsI3+MImctcpocaFtqS8Un3Wq5OAadXs3uwRt3AzqcTqCqJEekR9OT+eOv0C++vOo8GKq5kdrfvxLvVWS1Qh1VlUZJFFXjlGloePsFsuAOZ4KdxjY4qcQkeKThY8MDrf3uURiJNSyc+QC4Vm/gLbr5bQ6ld5BqsFpPcMscjrKBb988qFQ==;7oxY9eJYC6B/2NGCHg09sw=="
 ---

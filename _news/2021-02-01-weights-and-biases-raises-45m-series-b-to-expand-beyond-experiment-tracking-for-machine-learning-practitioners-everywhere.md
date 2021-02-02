@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Machine learning experiment tracking startup Weights and Biases raises $45M"
+    excerpt: "Machine learning startup Weights and Biases Inc. said today it has raised $45 million in a new round of funding that brings its total amount raised to $65 million. The Series B round was led by Insight Partners with participation from Coatue,"
+    publishedDateTime: 2021-02-02T03:44:00Z
+    webUrl: "https://siliconangle.com/2021/02/01/machine-learning-experiment-tracking-startup-weights-biases-raises-45m/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 52
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/5f3ea98410a400266d2579b5_image-15.jpg"
+        width: 761
+        height: 544
+        isCached: true
 
 secured: "1XE2lllcX2j+PTxNDtqd6tYIDGbNjwYK+9K4aALVnMe4MYZ06y5w5QE46pHqzEiCAYyekiTMx1sSJMHNuErF1so2rm65xDV+v/BMhGwyBK+p3B51zbj/NndB6iFfyiuRPY7VrvmD87HD+JGs4kb743zcGiDl3SHP5ws3Se0sQqKUfQWUENdR1bx5iAahe7NsTlwPweVzVPILCWF6Bf+6NQoCBG9HhTX4MFJGt9ve0VV1xpWPHYK9uGdIl4iX6+apYEzaFp6OnB0rV96IIgTlIfGH3FR38G/BP6ZDaB+Sy/X08dmwB6isVZxGgH11BHD3eiGvrsIjlNQVcSTzGigrrL3s+j/SrM5s+YYrajVPnF0=;GLjdxOAW45c7YSRCqOzbxQ=="
 ---

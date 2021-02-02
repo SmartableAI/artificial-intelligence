@@ -3,8 +3,8 @@ category: news
 title: "Baidu share price: Why Citi and JPMorgan analysts raised their price targets to US$290"
 excerpt: "Baidu share price: the latest. Chinese search engine company Baidu’s share price has burgeoned roughly 19% since announcing that it would be entering the electric vehicle (EV) s"
 publishedDateTime: 2021-01-21T06:36:00Z
-originalUrl: "https://www.ig.com/sg/news-and-trade-ideas/baidu-share-price--why-citi-and-jpmorgan-analysts-raised-their-p-210121"
-webUrl: "https://www.ig.com/sg/news-and-trade-ideas/baidu-share-price--why-citi-and-jpmorgan-analysts-raised-their-p-210121"
+originalUrl: "https://www.ig.com/sg/news-and-trade-ideas/baidu-share-price--why-citi-and-jpmorgan-analysts-raised-their-p-210121.amp"
+webUrl: "https://www.ig.com/sg/news-and-trade-ideas/baidu-share-price--why-citi-and-jpmorgan-analysts-raised-their-p-210121.amp"
 ampWebUrl: "https://www.ig.com/sg/news-and-trade-ideas/baidu-share-price--why-citi-and-jpmorgan-analysts-raised-their-p-210121.amp"
 cdnAmpWebUrl: "https://www-ig-com.cdn.ampproject.org/c/s/www.ig.com/sg/news-and-trade-ideas/baidu-share-price--why-citi-and-jpmorgan-analysts-raised-their-p-210121.amp"
 type: article
@@ -23,6 +23,6 @@ images:
     height: 450
     isCached: true
 
-secured: "iZRODN1HNkgfQZjtBaI/gmpE0Wg1MMDFFj7um2IgQkh2noP8Bywn/PKL6PLqsHXq6Ty3gt1xBmIlit7xlBOnQ6c6PCM4SsPKm9ZgJvjuepz6aLEbFF8pDcXMlnyLcDoJ9AZRcxZrCK300OpvqTAfKg+XOZ407irmu+dm8sc4q4+0MJXXGvLtHNgDn/x6ck4et9AKuhd1u2W/+4YnfVLmJOQUbeeohA/m5u5Mm+8WUuWr8ksVoXRm6w8Qf/ZuwGy/c8y/svecTgi4rnj5DFUNPP/GvZKOeKppemNBDEvcjABqOmRYNWOBwNhtkgAs1TIOiX6zn4xwtFsCLm8pLoB17SHb+tsJhpFH0hQu4a+0vAA=;+jCR7Lkw21zNOM/npDv0Rg=="
+secured: "FNE0Skw4zyK7GMOWG0LwcW/Iqb2otoytPT0TktDfA+Bs8J9Aq6+5ioi0S8p0vCSprWma4zstLY/Z/8gF9niacCj44QqeCU1Bl/Z56QGYRAKeSUpdN9C4AAzFpEfe3F3Z3l6ZSbiTqRsN/n263cITZ0MRUA4ErWXT7n1MT5g54qL60LxH8cheQ93pd+PwimqWT6W6Ymr4WCHzFOV+IorY7OdBvpSdJZ73dSf/+9/vsign37gNQeUs9+6CysTTtgdRE77PB/ECdzq32Xxn9G/o1clgulwW7QUCHwTDZJzPvoNFF2U6h1dlYr5+OKV/dDoTYVsi9q5zhKt0vb38ZTwabXChkFhcp+U1aWQPLF4ccwE=;FVpxti/SqrlZFEw0UiCj/A=="
 ---
 

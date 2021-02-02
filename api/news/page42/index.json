@@ -2,6 +2,58 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2020-12-30-highlights-from-the-year-in-science-2020.md",
+      "title": "Highlights from the year in science 2020",
+      "excerpt": "One of the biggest scientific breakthroughs of the year came just last month, with news that Alphabet's DeepMind AI has made huge strides in being able to accurately predict the 3D structures of ...",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/science/science-2020-year-review/",
+      "originalUrl": "https://newatlas.com/science/science-2020-year-review/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/1957683/2147483647/strip/true/crop/1999x1333+0+46/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F40%2Fde%2F1497dbbb40b18507ebe95f4976d0%2Fdepositphotos-13261072-l-2015.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/science/science-2020-year-review/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/science/science-2020-year-review/?amp=true",
+      "publishedDateTime": "2020-12-29T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-30-improving-algorithms-with-high-level-synthesis.md",
       "title": "Improving Algorithms With High-Level Synthesis",
       "excerpt": "Sometimes the results of HLS are seen feeding back into the algorithm. Klein said he recently worked on a voice recognition system in which the original TensorFlow algorithm, as defined by the data scientists, called for a feature map of spectral data in a ...",
@@ -1121,57 +1173,6 @@
         "name": "Business Line",
         "domain": "thehindubusinessline.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-29-artificial-intelligence-is-great-for-day-to-day-stuff-but-it-cant-build-a-business.md",
-      "title": "Artificial Intelligence Is Great For Day-To-Day Stuff, But It Can’t Build A Business",
-      "excerpt": "AI can't build a business the way humans can. getty. Let’s face it, artificial intelligence is probably one of the best management tools to come along since the first commercial",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2021/12/28/artificial-intelligence-is-great-for-day-to-day-stuff-but-it-cant-build-a-business/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2021/12/28/artificial-intelligence-is-great-for-day-to-day-stuff-but-it-cant-build-a-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fea1efdc398efe2f56e500e%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2021/12/28/artificial-intelligence-is-great-for-day-to-day-stuff-but-it-cant-build-a-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2021/12/28/artificial-intelligence-is-great-for-day-to-day-stuff-but-it-cant-build-a-business/amp/",
-      "publishedDateTime": "2020-12-28T20:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
