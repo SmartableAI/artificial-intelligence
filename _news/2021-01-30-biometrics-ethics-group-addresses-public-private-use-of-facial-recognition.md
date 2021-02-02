@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerweekly.com/news/252495597/Biometrics-ethics-grou
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252495597/Biometrics-ethics-group-address-public-private-use-of-facial-recognition?amp=1"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -85,6 +85,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/06/15124940/iphone-in-use.png"
         width: 800
         height: 450
+        isCached: true
+  - title: "Hikvision to deploy 1,900 cameras with face biometrics for $33M smart city contract"
+    excerpt: "Hikvision has won a contract worth an estimated $33 million to install roughly 1,900 cameras with face biometrics as part of a smart city project."
+    publishedDateTime: 2021-02-02T22:31:00Z
+    webUrl: "https://www.biometricupdate.com/202102/hikvision-to-deploy-1900-cameras-with-face-biometrics-for-33m-smart-city-contract"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 18
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/18144436/Hikvision-biometric-facial-recognition-cameras.jpg"
+        width: 720
+        height: 480
         isCached: true
 
 secured: "rqo8XY66oTwh4TaSXKjvLbLrQIjv72hoPZd2O/ZPLyMdpDkar93qCS95ObOhxCr8koQu/zvpxL2SweDjD2mQYASdp2vkBNlUTNTld7SDT3EAQgjt6cpwuKWHYH6CJSz6GnfG7UXoN7fywdnMFeuf/PLU91TAWpNk9XHSr/mSFwxK/KYbEXc1ND1kCN/u90toRprgWL95wqteNcNfIjZNEBgdgNb04TZM97whmSDY7zHIt7sGf10FatcGXvZ6/pbJiX3NoewvOI33MetNdPWI+NnIonVmIv+cF8nREtkRFKj7S+5ECRwIt0PJ0uP6bWA54/1mVbE8jnRFRNbdIboDx0L3ZEpdW2n36l2ydR9tiOU=;wvt0RExArMbBLYgJdlQP1A=="

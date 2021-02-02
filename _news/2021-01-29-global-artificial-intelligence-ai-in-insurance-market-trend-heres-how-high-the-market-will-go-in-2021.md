@@ -55,6 +55,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 69
+  - title: "Why Future Advances In AI Need A New Architecture"
+    excerpt: "Businesses will need to adopt AI technologies not just because they can, but because they must - AI is the technology that will help businesses to be"
+    publishedDateTime: 2021-02-02T22:22:00Z
+    webUrl: "https://www.nextplatform.com/2021/02/02/why-future-advances-in-ai-need-a-new-architecture/"
+    ampWebUrl: "https://www.nextplatform.com/2021/02/02/why-future-advances-in-ai-need-a-new-architecture/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/02/02/why-future-advances-in-ai-need-a-new-architecture/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 59
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/samba-nova-logo.jpg"
+        width: 432
+        height: 293
+        isCached: true
 
 secured: "KNpX4KVuvyW+cm01lYipLmg2A6PG8A/AGe1QveB76JO/Z0qOeQ7BxgSEaWaCNm0DJ+Kl0zHMEsgXGpn6avRbOZ5FO3SQHPdonH0AN/jlgc4cgKQE19dwhqCEZiGPu5xeLO1x5Wym6imAQR/U3hmjGYvIk0nGjhmYPNFTD2VcMJ0Zs9EgPKqXALQ6+mhZlY1JzQKme9QWM4EI4vnPdQ69QujfZxN7Jxe/DFPpnpeFkbl3iyhQLnxJ4jc9xOBoKTMzTWsqgszHfCtcIh2UVvHvwgU0fafPiuslY8kvamXl3bgNLKDAj/FJqEkH4OR+f718fm38C9yu23GDdJJ+y4IOm5210FYtaeAmcLLhixfmoTQ=;lnWYWEmIqBp4mcYzYX4J4Q=="
 ---

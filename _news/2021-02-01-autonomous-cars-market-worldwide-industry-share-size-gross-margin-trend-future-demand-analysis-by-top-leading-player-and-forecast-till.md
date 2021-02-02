@@ -85,34 +85,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing Market Research Update, Size Estimation, Future Scope, Revenue Opportunities and Regional Forecast to 2026"
-    excerpt: "The overall natural language processing market is expected to grow from USD 8.61 Billion in 2018 to USD 80.68 Billion"
-    publishedDateTime: 2021-01-29T06:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-research-update-size-estimation-future-scope-revenue-opportunities-and-regional-forecast-to-2026-2021-01-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Big Data Technology Market Latest Industry Size, Share, Emerging Trends, Future Demands, Revenue and Forecasts Research Report"
-    excerpt: "The global big data technology market is set to experience an impressive growth trajectory owing to the rising"
-    publishedDateTime: 2021-01-29T06:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/big-data-technology-market-latest-industry-size-share-emerging-trends-future-demands-revenue-and-forecasts-research-report-2021-01-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "4qJp1FwgfNs235trwHnB3OugvVPg/Sd9k7oDevC+W/fM4cxwNFvyJ63SZes4FAEbEFahZ1iBEmPC2yjtBVFvp5c+QMoKfFHx61Nb0bE48h95Y8LMaqvcd587pZe9TLTwFag7EJH5tUxpdwd8VWnHGhWSrQrw+E4AB1KO6lC7FWnR+JziYZ4nCouDUhRG0G94oWLumSlK6pj8CvIDrfyWZ0cCUK1k0OZiAqM68scPQx8ZybslVpPpunurhxcGX6PtzL2lt80+QcpkGWPpRDI96LBXwk/kVYN13vYds28TgLfBFd5PucZpstEBI2vlk3UhUhHrR9yLTbRdsSo7t3upee27cd4u2f1UueDJ61aEcyI=;xFdy+jW2+B7Fg953R+yF3Q=="
 ---

@@ -55,6 +55,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Why Future Advances In AI Need A New Architecture"
+    excerpt: "Businesses will need to adopt AI technologies not just because they can, but because they must - AI is the technology that will help businesses to be"
+    publishedDateTime: 2021-02-02T22:22:00Z
+    webUrl: "https://www.nextplatform.com/2021/02/02/why-future-advances-in-ai-need-a-new-architecture/"
+    ampWebUrl: "https://www.nextplatform.com/2021/02/02/why-future-advances-in-ai-need-a-new-architecture/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/02/02/why-future-advances-in-ai-need-a-new-architecture/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 59
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/samba-nova-logo.jpg"
+        width: 432
+        height: 293
+        isCached: true
 
 secured: "Qtyfszjz8tV0BQHkopyP0rTyfGlQ6JUbBmLhpcAld5SyjMZObcfjYAzYcC8XTofFYNudUOyqGeoacsAusetG8bsBPCuRVgr8d8LsIFVnepJwcrbcHl5cBWZSTaZYXR8vhyAZTcjGzCIbCToJ0IjvE1tHEX15ItK7lvdusMv3jr7FE9qUspq6bGhp2UeTnWIoaJu63Cwls6t5kqdmEHrbzjZMs1EGQ3N2wXsvGhzMIGzGrUeJb1sdXscfPBePDdCsRsEkYEQeal8vE5H+ZxAFSJkRsTK6jq7uruEDC02qfLDnTG+TKUdaSHqB0EbwInAHWT5XbiUHuWhvauW/rEUHutq7oLRx+r6PwuZSn1OgUuQ=;+Jeyy8pQf/z+JMmFD2xofA=="
 ---

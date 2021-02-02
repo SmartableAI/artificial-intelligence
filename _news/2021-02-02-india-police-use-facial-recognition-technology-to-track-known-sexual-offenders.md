@@ -26,20 +26,29 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Technology is now Capable of Identifying Political Views"
-    excerpt: "Michal Kosinski's new research indicates facial recognition technology is now capable of exposing people’s political orientation from naturalistic facial images using a machine learning algorithm."
-    publishedDateTime: 2021-01-31T05:14:00Z
-    webUrl: "https://www.analyticsinsight.net/facial-recognition-can-reveal-your-political-orientation/"
+  - title: "Use of facial recognition to combat sex crimes in India sparks concerns"
+    excerpt: "Police in the Indian state of Uttar Pradesh will use facial recognition to track sex offenders in the latest use of a technology that many argue throws up issues of privacy.. Read more at straitstimes."
+    publishedDateTime: 2021-02-02T22:33:00Z
+    webUrl: "https://www.straitstimes.com/asia/south-asia/use-of-facial-recognition-to-combat-sex-crimes-in-india-sparks-concerns"
     type: article
     provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 37
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 39
     images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/FR.png"
-        width: 900
-        height: 552
+      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/02/03/ST_20210203_NGFACIAL03_6306811.jpg?itok=wH6IiOFk"
+        width: 763
+        height: 509
         isCached: true
+  - title: "Greek Police to Introduce Live Facial Recognition"
+    excerpt: "Police in Greece are to be issued new devices that will allow them to carry out real-time facial recognition and fingerprint identification while out on the beat. The plan to disseminate the new technology is part of the 4."
+    publishedDateTime: 2021-02-01T17:52:00Z
+    webUrl: "https://www.infosecurity-magazine.com/news/greek-police-to-introduce-live/"
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 19
 
 secured: "5iWG6i2szRpVZiUWPKJ307VicqMaJT/phbw8VmShDUzIU/mxrXJHBxfnQayYkvXhSV9lUvN2lpgpVk6fK8gVRBfEgpX+bj5tKjPUHd2ADQlvc/7io2/tS5g5B674pyH0qiFBOUBW//PAS8bQ+CTXlQj8zvhzD/804tb1ih7ltW97yXCCje8Vvy7wic2u0AfO3r4fz00jjphQGWiRfuQuJPGLQE6S9kDjxXI5Xl/zujAyJSmUV2fs+eOlCzfzR1dqoXNJpIk6iK/A1sd0QY5IIBmY9ybJ8T6/E+FrLAGqyNi1ghCANOR2zBxhfBdl1/uGDzgfSEkVSwMB+Fnh89iD6w5P6PQ2q/e/ha9ndOe2pqVE6DJzbQVmIVDwMUGw8JpJThbsV01SuV0gzaU4Fb9lsU7aXPUQXqdX/AW+8zsLV3cIhHfzyJP3DcWkNVjlM7ieJSd2XLFkjHtcFD3wRfTcJRljMCWpX5Auk9YTVpiQ/IqVE6G/7uydu9KJo/hnN3iGg1C8FZSoFwhvOi2iySMoRw==;gguAG1ZPMkQ1ly6kB44Row=="
 ---

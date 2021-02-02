@@ -6,8 +6,8 @@ publishedDateTime: 2021-02-02T19:41:00Z
 originalUrl: "https://customerthink.com/new-global-rackspace-technology-study-uncovers-widespread-artificial-intelligence-and-machine-learning-knowledge-gap/"
 webUrl: "https://customerthink.com/new-global-rackspace-technology-study-uncovers-widespread-artificial-intelligence-and-machine-learning-knowledge-gap/"
 type: article
-quality: 33
-heat: 33
+quality: 35
+heat: 35
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI in Healthcare
   - AI
   - Machine Learning
+  - AI in Finance
 
 images:
   - url: "https://customerthink.com/wp-content/uploads/newspaper-154444_1280-pixabay-news.png"

@@ -37,7 +37,7 @@ related:
   - title: "DISA, General Dynamics roll out AWS across milCloud"
     excerpt: "The Defense Information Systems Agency and General Dynamics introduce the first commercial cloud hosting service to be made available on the milCloud 2.0 platform."
     publishedDateTime: 2021-02-01T20:01:00Z
-    webUrl: "https://washingtontechnology.com/Articles/2021/02/01/MilCloud-Amazon-available.aspx?p=1"
+    webUrl: "https://washingtontechnology.com/articles/2021/02/01/milcloud-amazon-available.aspx"
     type: article
     provider:
       name: Washington Technology
@@ -47,6 +47,20 @@ related:
       - url: "https://washingtontechnology.com/~/media/GIG/Washington%20Technology/WTlogo.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "MilCloud adds AWS option"
+    excerpt: "The Defense Department’s MilCloud 2.0 contract now gives Defense Information Services Agency and other non-combat DOD agencies access to cloud services from Amazon Web Services."
+    publishedDateTime: 2021-02-02T21:15:00Z
+    webUrl: "https://gcn.com/articles/2021/02/02/milcloud-adds-aws.aspx"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 39
+    images:
+      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Cloud/milcloud20.jpg"
+        width: 760
+        height: 368
         isCached: true
   - title: "AWS cloud now available on milCloud 2.0"
     excerpt: "AWS is now a part of the MilCloud 2.0 offering, GDIT announced Monday. MilCloud is GDIT's DOD-specific cloud service offering."

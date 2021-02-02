@@ -1,0 +1,49 @@
+{
+  "page": 94,
+  "value": [
+    {
+      "path": "_news/2020-11-20-artificial-intelligence-is-reshaping-finance.md",
+      "title": "Artificial intelligence is reshaping finance",
+      "excerpt": "Instead, the German tie-up’s real significance is as a tiny, but unusually visible, sign of a feverish race under way at banks and tech companies to find ways to use big data and artificial intelligence in finance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/c7d9a81c-e6a3-4f37-bbfd-71dcefda3739?source=top-articles&link=title",
+      "originalUrl": "https://www.ft.com/content/c7d9a81c-e6a3-4f37-bbfd-71dcefda3739?source=top-articles&link=title",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F136ee239-920a-4bb8-afc5-c91ad26d1f4d.jpg?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/c7d9a81c-e6a3-4f37-bbfd-71dcefda3739",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/c7d9a81c-e6a3-4f37-bbfd-71dcefda3739",
+      "publishedDateTime": "2020-11-19T08:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    }
+  ],
+  "nextPage": null
+}

@@ -47,6 +47,20 @@ related:
         width: 400
         height: 388
         isCached: true
+  - title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
+    excerpt: "Observe.AI platform now available in the Microsoft Azure Marketplace and AppSource Business"
+    publishedDateTime: 2021-02-02T17:08:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2021-02-02/observe-ai-and-microsoft-team-up-to-redefine-customer-experience-with-contact-center-ai"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 76
+    images:
+      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Moving from the Lab to the Mainstream - Microsoft's Machine-Learning Tool"
     excerpt: "Now techniques developed by Microsoft are emerging from the lab and moving into production. Perhaps the most significant embodiment of this development is Personalizer, part of Azure Cognitive Services on the Azure AI Platform³."
     publishedDateTime: 2021-02-02T17:27:00Z
@@ -162,15 +176,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
-    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance"
-    publishedDateTime: 2021-02-02T17:17:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 26
 
 secured: "U2kE5rYfHh+UaK2hIkB8ak2MePDbrpPf0HJBdCk1pZHsDo0Yd8AqpLcxh9WIJKBKPSg30dV8/Ne1rSucTj+jsB/owq9jPPA65OYDaOkrRvl+iBRcI5kFAXYsxGnNZ5kuSaz2YfQN75EZ5+8uYvDPq711q4FN9Os8pqnSE3Vk2ENVDcgJIQth1VfZ5ucs4OEc88QtSBy4cTUysw7Ee2UzbEnrZnxZYyTlKn0m3gbQqwbw18I6V26AoO1o1oaDqN1ykY1CvGxRfOlGk0rY2P7XwEcMvCliimLwPa44eOAXfUkvEsy2FDguAt1r5MxtBAmrj5J5MUH9ppmRcZ3tUokPfrBb5YGCUjMiIdbabD1Z+GU=;cdA24W1WsfSyn31/op2rKA=="
 ---

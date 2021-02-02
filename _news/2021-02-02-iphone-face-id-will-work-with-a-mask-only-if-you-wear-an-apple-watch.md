@@ -43,6 +43,20 @@ related:
         width: 2400
         height: 1605
         isCached: true
+  - title: "iOS 14.5 developer beta allows users unlock their iPhones with Face ID while wearing mask"
+    excerpt: "Apple has just released the developer beta of iOS 14.5 that has incorporated a new feature that makes it possible to unlock an iPhone using Face ID even while putting on a facemask. The feature in the Apple watch is called Unlock iPhone,"
+    publishedDateTime: 2021-02-02T21:01:00Z
+    webUrl: "https://www.gizmochina.com/2021/02/02/ios-14-5-developer-beta-allows-users-unlock-their-iphones-with-face-id-while-wearing-mask/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 45
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2020/09/ios-14-1.jpg"
+        width: 640
+        height: 378
+        isCached: true
   - title: "iPhone 13 may not use the notch design and Face ID feature"
     excerpt: "News Highlights: iPhone 13 may not use the notch design and Face ID feature - Recent reports claim that the iPhone 13 does not come with Face ID facial"
     publishedDateTime: 2021-02-01T15:20:00Z
@@ -59,6 +73,17 @@ related:
         width: 600
         height: 404
         isCached: true
+  - title: "Apple tests new way to unlock an iPhone without removing a face mask"
+    excerpt: "Some iPhone users will soon be able to unlock their smartphones without needing to remove their face masks in public. There’s just"
+    publishedDateTime: 2021-02-02T22:36:00Z
+    webUrl: "https://whdh.com/news/apple-tests-new-way-to-unlock-an-iphone-without-removing-a-face-mask/"
+    ampWebUrl: "https://whdh.com/news/apple-tests-new-way-to-unlock-an-iphone-without-removing-a-face-mask/amp/"
+    cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/apple-tests-new-way-to-unlock-an-iphone-without-removing-a-face-mask/amp/"
+    type: article
+    provider:
+      name: WHDH
+      domain: whdh.com
+    quality: 24
 
 secured: "3UtnaO9w95oD486FSPy5Zvgo6ufLLJi6ntM1jx0qavU8lM2dyIP62XmZtaDb/6dBr1aNujuzop+UDKXOGV1RnR5eGN40+BETHJcAL+TCZ7wIzwjjrrdNKlZvXw5zCdNKkOEZQrGmCHDPbsJTKuSZtvWpSI0Etd4M9ihVZUNJpTDWWcjeaHvDWwmdr26UXelzlZfh9v8aywke/jQlk7M1D0m8RIPHqY9q1+HRAWvmjbK1ks2MCKXjzPQqqPwifxBRyO+7JNc3qLsoFCr+RT6lAPRiKanWURHdKez6Rrk9ZgnrQXgGNh63y2dqpnWQlrbmu6/O1BrEEkBVAJqRTspE3X7OOzzDKCJiHMIhsQKqtBFubs3Jc8Z3Jb/Ij3lJchPpGp+xP+NN4egHRdjyG5s2ifojYWIiZ4tfdqVje5pUzgGKkgkKvyQZJ7r9J7UWlFWPFp4wShoxWVHOWlF+m3DNVPzw/ocMO8njstYgJd+8ewrDUwzocre6LdEY2dZi3Vp4ExyxDAHB5GPS+hRy8c+dRQ==;5WI1uBp6lkRr9ROKqBIUsw=="
 ---

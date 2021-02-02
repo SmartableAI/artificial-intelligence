@@ -7,8 +7,8 @@ originalUrl: "https://www.thestar.com.my/news/education/2021/01/29/taylors-robot
 webUrl: "https://www.thestar.com.my/news/education/2021/01/29/taylors-robotics-programme-prepares-students-for-an-era-of-artificial-intelligence"
 type: article
 quality: 65
-heat: -1
-published: false
+heat: 75
+published: true
 
 provider:
   name: The Star
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Academic City University College launches BSc Robotics Engineering Programme"
-    excerpt: "He revealed that in the Robotics programme, emphasis is placed on design, analysis and modeling, programming, integration of Artificial Intelligence (AI) and manufacturing. \"Additionally, the need to industrialise has been effectively articulated by the ..."
-    publishedDateTime: 2021-01-29T06:35:00Z
-    webUrl: "https://www.modernghana.com/news/1058182/academic-city-university-college-launches-bsc-robo.html"
-    ampWebUrl: "https://www.modernghana.com/amp/news/1058182/academic-city-university-college-launches-bsc-robo.html"
-    cdnAmpWebUrl: "https://www-modernghana-com.cdn.ampproject.org/c/s/www.modernghana.com/amp/news/1058182/academic-city-university-college-launches-bsc-robo.html"
-    type: article
-    provider:
-      name: Modernghana.com
-      domain: modernghana.com
-    quality: 71
-    images:
-      - url: "https://cdn.modernghana.com/content__/600/400/129202164730-h41o266fea-whatsapp-image-2021-01-28-at-11.04.26-pm.jpeg"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Academy of Robotics Extends Its Autonomous Delivery Trials Programme to Surrey"
     excerpt: "Academy of Robotics expands road trials for its self-driving delivery vehicle, Kar-go. Kar-go will begin supporting local businesses in Surrey."
     publishedDateTime: 2021-01-30T07:35:00Z

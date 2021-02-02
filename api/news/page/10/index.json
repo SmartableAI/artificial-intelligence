@@ -2,6 +2,152 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-01-26-container-approach-to-boosting-gpu-utilization-secures-bigger-backing.md",
+      "title": "Container Approach to Boosting GPU Utilization Secures Bigger Backing",
+      "excerpt": "Getting peak utilization out of GPU farms in the age of AI will be the unending quest. From being able to partition a GPU into small fractions to scaling",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2021/01/26/container-approach-to-boosting-gpu-utilization-secures-bigger-backing/",
+      "originalUrl": "https://www.nextplatform.com/2021/01/26/container-approach-to-boosting-gpu-utilization-secures-bigger-backing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/ab_traffic_smart.jpg",
+          "width": 1300,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2021/01/26/container-approach-to-boosting-gpu-utilization-secures-bigger-backing/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/01/26/container-approach-to-boosting-gpu-utilization-secures-bigger-backing/amp/",
+      "publishedDateTime": "2021-01-26T06:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-runai-raises-30m-series-b-for-its-ai-compute-platform.md",
+      "title": "Run:AI raises $30M Series B for its AI compute platform",
+      "excerpt": "Run:AI, a Tel Aviv-based company that helps businesses orchestrate and optimize their AI compute infrastructure, today announced that it has raised a $30 million Series B round. The new round was led by Insight Partners,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/01/26/runai-raises-30m-series-b-for-its-ai-compute-platform/",
+      "originalUrl": "https://techcrunch.com/2021/01/26/runai-raises-30m-series-b-for-its-ai-compute-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/01/RunAi-company-image2-01.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/01/26/runai-raises-30m-series-b-for-its-ai-compute-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/26/runai-raises-30m-series-b-for-its-ai-compute-platform/amp/",
+      "publishedDateTime": "2021-01-26T06:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-artificial-intelligence-at-the-service-of-talent-selection.md",
+      "title": "Artificial intelligence at the service of talent selection",
+      "excerpt": "They present Hitch, the startup that through artificial intelligence and machine learning helps companies find the talent most compatible with their organizational culture.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/364141",
+      "originalUrl": "https://www.entrepreneur.com/article/364141",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1611623001-Hitch.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/364141",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/364141",
+      "publishedDateTime": "2021-01-26T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-digital-trends-2021-responsible-business-puts-trust-ethics-and-sustainability-first.md",
       "title": "Digital Trends 2021: Responsible Business Puts Trust, Ethics, And Sustainability First",
       "excerpt": "This year’s digital technology predictions from industry analysts reveal trending people-centric exigencies for brand trust, ethical responsibility, and sustainability.",
@@ -876,6 +1022,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-26-computer-vision-researchers-develop-city-scale-smart-tracking-platform.md",
+      "title": "Computer vision researchers develop city-scale smart tracking platform",
+      "excerpt": "Tracking a vehicle or person moving between multiple city-scale locations will become considerably easier thanks to AI camera innovations.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/25/computer-vision-researchers-develop-city-scale-smart-tracking-platform/",
+      "originalUrl": "https://venturebeat.com/2021/01/25/computer-vision-researchers-develop-city-scale-smart-tracking-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/anveshak.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/25/computer-vision-researchers-develop-city-scale-smart-tracking-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/25/computer-vision-researchers-develop-city-scale-smart-tracking-platform/amp/",
+      "publishedDateTime": "2021-01-25T19:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-ai-helps-this-koda-social-robot-dog-sense-human-emotions.md",
       "title": "AI helps this Koda social robot dog sense human emotions",
       "excerpt": "This AI robot dog not only climbs stairs but also interacts socially with its human owners. Man's best friend has always been the domesticated dog, but mutts around the world could end up with some serious competition in the form of Koda's AI-powered robot dog .",
@@ -1030,186 +1228,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-social-distancing-hyundais-dal-e-robot-helps-showroom-customers-without-wearing-a-mask.md",
-      "title": "Social Distancing? Hyundai's DAL-e Robot Helps Showroom Customers Without Wearing A Mask",
-      "excerpt": "The robots come installed with a state-of-the-art artificial intelligence technology for facial recognition and an automatic communication system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hotcars.com/hyundais-dal-e-robot-helps-showroom-customers-socially-distance-without-wearing-a-mask/",
-      "originalUrl": "https://www.hotcars.com/hyundais-dal-e-robot-helps-showroom-customers-socially-distance-without-wearing-a-mask/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static1.hotcarsimages.com/wordpress/wp-content/uploads/2021/01/DAL-e-with-SUV.jpg",
-          "width": 1710,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hotcars.com/hyundais-dal-e-robot-helps-showroom-customers-socially-distance-without-wearing-a-mask/amp/",
-      "cdnAmpWebUrl": "https://www-hotcars-com.cdn.ampproject.org/c/s/www.hotcars.com/hyundais-dal-e-robot-helps-showroom-customers-socially-distance-without-wearing-a-mask/amp/",
-      "publishedDateTime": "2021-01-25T16:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "hotcars",
-        "domain": "hotcars.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-computer-vision-in-healthcare-market-outlook-by-industry-size-share-revenue-regions-and-top-key-players-analysis.md",
-      "title": "Computer Vision in Healthcare Market Outlook By Industry Size, Share, Revenue, Regions and Top Key Players Analysis",
-      "excerpt": "Computer Vision in Healthcare Market Outlook and Forecasts By Top Manufacturers, Production, Consumption, Trade Statistics,Size, Analysis ,Growth Analysis & Regional Analysis (Latin America, North America,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-outlook-by-industry-size-share-revenue-regions-and-top-key-players-analysis-2021-01-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-outlook-by-industry-size-share-revenue-regions-and-top-key-players-analysis-2021-01-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-25T16:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-sd-wan-how-to-leverage-next-gen-networks-without-adding-cyber-risk.md",
-      "title": "SD-WAN: How to Leverage Next-Gen Networks Without Adding Cyber Risk",
-      "excerpt": "However, if managed service providers, system integrators and other channel players want to leverage these kinds of benefits, they must pay close attention to the unique security risks SD-WAN also introduces.",
-      "sourceUrl": null,
-      "webUrl": "https://blogs.gartner.com/andrew_white/2021/01/12/our-top-data-and-analytics-predicts-for-2021/",
-      "originalUrl": "https://www.channelpartnersonline.com/blog/sd-wan-how-to-leverage-next-gen-networks-without-adding-cyber-risk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-25T15:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Channel Partners",
-        "domain": "channelpartnersonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-how-ai-can-make-the-world-more-fair-for-gifted-kids.md",
-      "title": "How AI can make the world more fair for ‘gifted’ kids",
-      "excerpt": "A team of researchers from Las Vegas recently developed an AI model capable of judging a human pianist’s skill level. On the surface, it might not sound like the kind of breakthrough research that could change the world overnight.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/01/25/how-ai-can-make-the-world-more-fair-for-gifted-kids/",
-      "originalUrl": "https://thenextweb.com/neural/2021/01/25/how-ai-can-make-the-world-more-fair-for-gifted-kids/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/06/vintage-robot-796x398.jpg",
-          "width": 796,
-          "height": 398,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/01/25/how-ai-can-make-the-world-more-fair-for-gifted-kids/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/25/how-ai-can-make-the-world-more-fair-for-gifted-kids/amp/",
-      "publishedDateTime": "2021-01-25T14:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

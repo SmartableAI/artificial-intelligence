@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-16-adventhealth-joins-clinical-biotech-research-initiative-on-age-related-diseases-3-things-to-know.md",
+      "title": "AdventHealth joins clinical biotech research initiative on age-related diseases: 3 things to know",
+      "excerpt": "based AdventHealth formed a new research partnership Dec. 15 focused on using artificial intelligence to study ... the organizations will study exercise therapy treatments for aging skeletal ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.beckershospitalreview.com/artificial-intelligence/adventhealth-joins-clinical-biotech-research-initiative-on-age-related-diseases-3-things-to-know.html",
+      "originalUrl": "https://www.beckershospitalreview.com/artificial-intelligence/adventhealth-joins-clinical-biotech-research-initiative-on-age-related-diseases-3-things-to-know.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/3.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-15T14:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Becker's Hospital Review",
+        "domain": "beckershospitalreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-15-how-artificial-intelligence-is-reshaping-the-healthcare-sector.md",
       "title": "How Artificial Intelligence is Reshaping the Healthcare Sector",
       "excerpt": "How Artificial Intelligence is Reshaping the Healthcare Sector  - The healthcare sector is adopting artificial intelligence because it helps build reliable predictive tools",
@@ -1298,49 +1341,6 @@
       "provider": {
         "name": "UPI.com",
         "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-healthcare-artificial-intelligence-requires-data-access-standards.md",
-      "title": "Healthcare Artificial Intelligence Requires Data Access, Standards",
-      "excerpt": "To ensure the successful use of artificial intelligence in healthcare, leaders will need to expand data access and develop industry standards.",
-      "sourceUrl": null,
-      "webUrl": "https://healthitanalytics.com/news/healthcare-artificial-intelligence-requires-data-access-standards",
-      "originalUrl": "https://healthitanalytics.com/news/healthcare-artificial-intelligence-requires-data-access-standards",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-821302488.jpg",
-          "width": 689,
-          "height": 407,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-01T09:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
         "images": null,
         "publishers": null,
         "authors": null

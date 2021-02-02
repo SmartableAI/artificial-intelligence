@@ -43,6 +43,20 @@ related:
         width: 2400
         height: 1605
         isCached: true
+  - title: "iOS 14.5 developer beta allows users unlock their iPhones with Face ID while wearing mask"
+    excerpt: "Apple has just released the developer beta of iOS 14.5 that has incorporated a new feature that makes it possible to unlock an iPhone using Face ID even while putting on a facemask. The feature in the Apple watch is called Unlock iPhone,"
+    publishedDateTime: 2021-02-02T21:01:00Z
+    webUrl: "https://www.gizmochina.com/2021/02/02/ios-14-5-developer-beta-allows-users-unlock-their-iphones-with-face-id-while-wearing-mask/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 45
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2020/09/ios-14-1.jpg"
+        width: 640
+        height: 378
+        isCached: true
   - title: "iPhone Face ID will work with a mask only if you wear an Apple Watch"
     excerpt: "Face ID has been the only option for biometric identification on iPhones. Nobody envisaged that there will be a time when"
     publishedDateTime: 2021-02-02T07:38:00Z
@@ -59,6 +73,17 @@ related:
         width: 740
         height: 448
         isCached: true
+  - title: "Apple tests new way to unlock an iPhone without removing a face mask"
+    excerpt: "Some iPhone users will soon be able to unlock their smartphones without needing to remove their face masks in public. There’s just"
+    publishedDateTime: 2021-02-02T22:36:00Z
+    webUrl: "https://whdh.com/news/apple-tests-new-way-to-unlock-an-iphone-without-removing-a-face-mask/"
+    ampWebUrl: "https://whdh.com/news/apple-tests-new-way-to-unlock-an-iphone-without-removing-a-face-mask/amp/"
+    cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/apple-tests-new-way-to-unlock-an-iphone-without-removing-a-face-mask/amp/"
+    type: article
+    provider:
+      name: WHDH
+      domain: whdh.com
+    quality: 24
 
 secured: "j+EgsFldUfZrLouol1u0E8d/GlUqq+W50a/xc5dz3/gO0kQ66drykbvXpHubj0ppeaz4roTvWL6/0oz9WlA+m3AB7I68a5izqKlO5w/Dg/8Mv9hLy+NZDWpQtSSi0RmJd9HbagXOxbTgtdoc1rQ065hF/e9+fEMLaQRsOYFoKFRtJbLGpFTnoYCMCwtPWH7f7tx8V4jnRDCEINui6MilVvD79d8Bayn8hxEfsv6st3NSWbgnACmAS9wjo0PZt/0VUsJzhRm9yrJmFHm5vfVn3j6gnl0ktEPc3442EvMzYeoAX1zVdxeWYpKakBuntLSp1q9DYWGRpy7PJz9csh4nl9IHVt0NcwyOV3vmquh5b2A=;qeTGofID4a4YqhOIRrQcXA=="
 ---

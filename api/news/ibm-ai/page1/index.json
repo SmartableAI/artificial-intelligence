@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-02-alzheimers-prediction-may-be-found-in-writing-tests.md",
+      "title": "Alzheimer’s Prediction May Be Found in Writing Tests",
+      "excerpt": "IBM researchers trained artificial intelligence to pick up hints of changes ... health care and life sciences research at IBM Thomas J. Watson Research Center in Yorktown Heights, N.Y., where ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/02/01/health/alzheimers-prediction-speech.html",
+      "originalUrl": "https://www.nytimes.com/2021/02/01/health/alzheimers-prediction-speech.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/02/02/science/00SCI-SPEECH1/00SCI-SPEECH1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/02/01/health/alzheimers-prediction-speech.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/01/health/alzheimers-prediction-speech.amp.html",
+      "publishedDateTime": "2021-02-01T08:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-31-amazons-unique-approach-to-automl-makes-ai-accessible-to-enterprises.md",
       "title": "Amazon’s Unique Approach To AutoML Makes AI Accessible To Enterprises",
       "excerpt": "AutoML is a technique where customers bring their data and walk away with a model without worrying about the complex workflow involved in training machine learning models.",
@@ -1349,49 +1401,6 @@
       "provider": {
         "name": "CMS Wire",
         "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-20-5-companies-owned-by-ibm.md",
-      "title": "5 Companies Owned by IBM",
-      "excerpt": "which will enable IBM to expand the capabilities of its Watson artificial intelligence (AI) system. AI machine learning systems such as Watson require large amounts of data from which they are ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.investopedia.com/companies-owned-by-ibm-5092453",
-      "originalUrl": "https://www.investopedia.com/companies-owned-by-ibm-5092453",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.investopedia.com/thmb/BwRRso7Oa0D_Z0tRTwIibhYH8tY=/1783x1265/filters:fill(auto,1)/ibm-logo-3-56a81a2c3df78cf7729c1f61.jpg",
-          "width": 1783,
-          "height": 1265,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.investopedia.com/amp/companies-owned-by-ibm-5092453",
-      "cdnAmpWebUrl": "https://www-investopedia-com.cdn.ampproject.org/c/s/www.investopedia.com/amp/companies-owned-by-ibm-5092453",
-      "publishedDateTime": "2020-12-19T15:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Investopedia",
-        "domain": "investopedia.com",
         "images": null,
         "publishers": null,
         "authors": null

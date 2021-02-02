@@ -2,6 +2,110 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-01-27-zara-meets-netflixthe-fashion-house-where-ai-removes-designers-and-overstock.md",
+      "title": "“Zara Meets Netflix”—The Fashion House Where AI Removes Designers And Overstock",
+      "excerpt": "Described by its founder Ramin Ahmari as “Zara meets Netflix,” FINESSE creates products their Gen Z target audience want when they want them, and in the quantities they demand.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/brookerobertsislam/2021/01/27/zara-meets-netflix-the-fashion-house-where-ai-replaces-designers-eliminating-overstock/",
+      "originalUrl": "https://www.forbes.com/sites/brookerobertsislam/2021/01/27/zara-meets-netflix-the-fashion-house-where-ai-replaces-designers-eliminating-overstock/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60115f7de603b45fc40bca93%2F0x0.jpg",
+          "width": 1200,
+          "height": 788,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/brookerobertsislam/2021/01/27/zara-meets-netflix-the-fashion-house-where-ai-replaces-designers-eliminating-overstock/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brookerobertsislam/2021/01/27/zara-meets-netflix-the-fashion-house-where-ai-replaces-designers-eliminating-overstock/amp/",
+      "publishedDateTime": "2021-01-27T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-northwestern-scientists-create-soft-robots-that-can-walk-and-transport-goods.md",
+      "title": "Northwestern scientists create soft robots that can walk and transport goods",
+      "excerpt": "A group of professors and researchers at Northwestern University have created an innovative new kind of robot that is soft, can walk on its own, and transport cargo. Samuel Stupp, the board of trustees professor of materials science and engineering,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/northwestern-scientists-create-soft-robots-that-can-walk-and-transport-goods/",
+      "originalUrl": "https://www.techrepublic.com/article/northwestern-scientists-create-soft-robots-that-can-walk-and-transport-goods/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2021/01/27/9d1d6bec-c0fd-4e49-8afc-57252c0b0f83/resize/1200x/bd3d1d074a70899ee11e3a1bdab134cc/sr-banner-image.jpg",
+          "width": 1200,
+          "height": 565,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/northwestern-scientists-create-soft-robots-that-can-walk-and-transport-goods/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/northwestern-scientists-create-soft-robots-that-can-walk-and-transport-goods/",
+      "publishedDateTime": "2021-01-27T06:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-27-amnesty-international-calls-for-ban-on-facial-recognition.md",
       "title": "Amnesty International calls for ban on facial recognition",
       "excerpt": "As advocates for facial recognition tout the tech’s potential to track down the US Capitol rioters, a new Amnesty International campaign has provided a timely reminder of the software’s dangers.",
@@ -1141,110 +1245,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-how-the-pandemic-is-accelerating-enterprise-open-source-adoption.md",
-      "title": "How the pandemic is accelerating enterprise open source adoption",
-      "excerpt": "Enterprise IT teams increasingly shifted to open source software solutions in 2020 as they adapted to the pandemic's disruptions.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/26/how-the-pandemic-is-accelerating-enterprise-open-source-adoption/",
-      "originalUrl": "https://venturebeat.com/2021/01/26/how-the-pandemic-is-accelerating-enterprise-open-source-adoption/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/GettyImages-452883256-e1611622262540.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/26/how-the-pandemic-is-accelerating-enterprise-open-source-adoption/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/26/how-the-pandemic-is-accelerating-enterprise-open-source-adoption/amp/",
-      "publishedDateTime": "2021-01-26T15:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-snap-looks-to-enhance-augmented-reality-features-with-acquisition-of-british-research-lab-ariel-ai.md",
-      "title": "Snap looks to enhance augmented reality features with acquisition of British research lab Ariel AI",
-      "excerpt": "Snap, the parent company of Snapchat, has acquired a British artificial intelligence start-up called Ariel AI which focuses on augmented reality.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/01/26/snap-acquires-ariel-ai-to-boost-snapchat-augmented-reality-features.html",
-      "originalUrl": "https://www.cnbc.com/2021/01/26/snap-acquires-ariel-ai-to-boost-snapchat-augmented-reality-features.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/104318447-GettyImages-647204978.jpg?v=1588764817",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/01/26/snap-acquires-ariel-ai-to-boost-snapchat-augmented-reality-features.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/26/snap-acquires-ariel-ai-to-boost-snapchat-augmented-reality-features.html",
-      "publishedDateTime": "2021-01-26T14:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

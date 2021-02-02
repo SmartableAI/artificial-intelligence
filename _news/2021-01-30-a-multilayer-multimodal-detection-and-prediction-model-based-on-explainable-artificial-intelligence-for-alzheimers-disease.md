@@ -7,7 +7,7 @@ originalUrl: "https://www.nature.com/articles/s41598-021-82098-3"
 webUrl: "https://www.nature.com/articles/s41598-021-82098-3"
 type: article
 quality: 26
-heat: 26
+heat: -1
 published: false
 
 provider:
@@ -24,19 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Effects of aging on emotion recognition from dynamic multimodal expressions and vocalizations"
-    excerpt: "Age-related differences in emotion recognition have predominantly been investigated using static pictures of facial expressions, and positive emotions beyond happiness have rarely been included. The current study instead used dynamic facial and vocal stimuli,"
-    publishedDateTime: 2021-01-29T20:16:00Z
-    webUrl: "https://www.nature.com/articles/s41598-021-82135-1"
+  - title: "Alzheimer’s Prediction May Be Found in Writing Tests"
+    excerpt: "IBM researchers trained artificial intelligence to pick up hints of changes ... health care and life sciences research at IBM Thomas J. Watson Research Center in Yorktown Heights, N.Y., where ..."
+    publishedDateTime: 2021-02-01T16:27:00Z
+    webUrl: "https://www.nytimes.com/2021/02/01/health/alzheimers-prediction-speech.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/01/health/alzheimers-prediction-speech.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/01/health/alzheimers-prediction-speech.amp.html"
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 15
+      name: New York Times
+      domain: nytimes.com
+    quality: 74
     images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-82135-1/MediaObjects/41598_2021_82135_Fig1_HTML.png"
-        width: 535
-        height: 685
+      - url: "https://static01.nyt.com/images/2021/02/02/science/00SCI-SPEECH1/00SCI-SPEECH1-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
 
 secured: "s1WSd0bdfjt7kCgYHoiWAj9rqkMVkuYQWpUI0gZM0Ik/zgQ+OSz9fFjVlpn0Y27si08AnCNuv5p8x0H6VAexqzM3p5D3Icx43NADTvfN8aPZ4RsW+zT3wxspjUTEqAx2eml8Umk9ckS81bQ1gZaymguWvXNTxdZQqhZY53edvOsDP+p/aJfUXhqsgAENMLrISPqpD2LEIqAO0DP71MUk1038Yee3Rclo317gZOdy1go6cCkqAyodBXWR59tjscTWCNhcR02T1BScuvJuTajYKp8mv0ipVZkd7YjzVYHH4BZvSrXc2GIIS6AfwgztgEA4DcmixE4TOhhyjgGpBIL5ZEqC+M/7IoTByttGlQI2i4I=;I8yMBh8PEL/41B3IJIF2+g=="

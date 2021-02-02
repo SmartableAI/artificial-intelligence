@@ -2,6 +2,92 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-01-29-4-ways-ai-and-ml-enhance-the-b2b-buyers-journey.md",
+      "title": "4 Ways AI And ML Enhance The B2B Buyers’ Journey",
+      "excerpt": "Just as consumer marketing teams have found AI-driven martech to help them reach their buyers where they are, B2B marketing teams are starting to realize that AI can do similar things to enhance their business customers’ journeys.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/danielnewman/2021/01/28/4-ways-ai-and-ml-enhance-the-b2b-buyers-journey/",
+      "originalUrl": "https://www.forbes.com/sites/danielnewman/2021/01/28/4-ways-ai-and-ml-enhance-the-b2b-buyers-journey/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6012fb7404112e7aa8e50214%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/danielnewman/2021/01/28/4-ways-ai-and-ml-enhance-the-b2b-buyers-journey/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2021/01/28/4-ways-ai-and-ml-enhance-the-b2b-buyers-journey/amp/",
+      "publishedDateTime": "2021-01-28T10:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-decentralized-machine-learning-24-hour-volume-hits-440900-dml.md",
+      "title": "Decentralized Machine Learning 24 Hour Volume Hits $4,409.00 (DML)",
+      "excerpt": "Decentralized Machine Learning (CURRENCY:DML) traded 5% higher against the dollar during the 24-hour period ending at 12:00 PM Eastern on January 28th. Over the last week, Decentralized Machine Learning has traded 4.",
+      "sourceUrl": null,
+      "webUrl": "https://www.modernreaders.com/news/2021/01/28/decentralized-machine-learning-24-hour-volume-hits-4409-00-dml.html",
+      "originalUrl": "https://www.modernreaders.com/news/2021/01/28/decentralized-machine-learning-24-hour-volume-hits-4409-00-dml.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.modernreaders.com/news/2021/01/28/decentralized-machine-learning-24-hour-volume-hits-4409-00-dml.html/amp",
+      "cdnAmpWebUrl": "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2021/01/28/decentralized-machine-learning-24-hour-volume-hits-4409-00-dml.html/amp",
+      "publishedDateTime": "2021-01-28T09:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "modernreaders.com",
+        "domain": "modernreaders.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-28-saving-time-with-personalized-videos-using-aws-machine-learning.md",
       "title": "Saving time with personalized videos using AWS machine learning",
       "excerpt": "CLIPr aspires to help save 1 billion hours of people’s time. We organize video into a first-class, searchable data source that unlocks the content most relevant to your interests using AWS machine learning (ML) services. CLIPr simplifies the extraction of information in videos, saving you hours by eliminating",
@@ -1142,110 +1228,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-tesla-had-talks-with-other-automakers-about-licensing-its-self-driving-software-elon-musk-says.md",
-      "title": "Tesla had talks with other automakers about licensing its self-driving software, Elon Musk says",
-      "excerpt": "Tesla had “preliminary” discussions with other automakers about licensing its self-driving software, according to new comments by CEO Elon Musk. Tesla Licensing Software Today, Tesla released its Q4 2020 financial results and following the release,",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/01/27/tesla-talks-automakers-licensing-self-driving-software-elon-musk/",
-      "originalUrl": "https://electrek.co/2021/01/27/tesla-talks-automakers-licensing-self-driving-software-elon-musk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2019/10/Tesla-Autopilot-hero-4-e1570845324247.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/01/27/tesla-talks-automakers-licensing-self-driving-software-elon-musk/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/01/27/tesla-talks-automakers-licensing-self-driving-software-elon-musk/amp/",
-      "publishedDateTime": "2021-01-27T17:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-the-great-free-speech-reversal.md",
-      "title": "The Great Free-Speech Reversal",
-      "excerpt": "Liberals once believed that private corporations have far too much power over the flow of ideas and information in today’s society. Now it’s conservatives who are worried.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theatlantic.com/ideas/archive/2021/01/first-amendment-regulation/617827/",
-      "originalUrl": "https://www.theatlantic.com/ideas/archive/2021/01/first-amendment-regulation/617827/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.theatlantic.com/thumbor/aYdbtnZ42iYsmiyu9rQ5lLmUZsg=/74x0:1842x994/570x320/filters:format(png)/media/img/mt/2021/01/7CN23I00/original.png",
-          "width": 570,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theatlantic.com/amp/article/617827/",
-      "cdnAmpWebUrl": "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/617827/",
-      "publishedDateTime": "2021-01-27T17:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Atlantic",
-        "domain": "theatlantic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theatlantic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

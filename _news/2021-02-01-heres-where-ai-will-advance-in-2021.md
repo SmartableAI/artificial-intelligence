@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/31/heres-where-ai-will-advance-in-20
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/31/heres-where-ai-will-advance-in-2021/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -55,6 +55,22 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Why Future Advances In AI Need A New Architecture"
+    excerpt: "Businesses will need to adopt AI technologies not just because they can, but because they must - AI is the technology that will help businesses to be"
+    publishedDateTime: 2021-02-02T22:22:00Z
+    webUrl: "https://www.nextplatform.com/2021/02/02/why-future-advances-in-ai-need-a-new-architecture/"
+    ampWebUrl: "https://www.nextplatform.com/2021/02/02/why-future-advances-in-ai-need-a-new-architecture/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/02/02/why-future-advances-in-ai-need-a-new-architecture/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 59
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/samba-nova-logo.jpg"
+        width: 432
+        height: 293
         isCached: true
 
 secured: "b/hhIPc/YnjP9Nm7D3JczA3qfnSbRlwaXFXUwNottqAqB5ercBEj5uBWPjLGL/aZ3E76hB9gl9HrbX0Uj2Kz6piVIyPnN1+++m6EKON+2fFXyCAmwTNjsdYchYn205uNWH5d8K+9nT+FZoCy2GAfCsn9lcpKrSsIXijm4z0P2XN38UMQ3Uxy3BO8e3iEW4IPhfhI9gPIp4h6YC4ITaPUECy9FziSfnjKWmWYand6IncDpADknSw6k+Gb/YjKEmHC7aVdQ76z/fNyF7xBubmYsrimV8ntX8zMTIJ+YolUO3UdYWaE0AWNZGGo57tIDoxppPe8X+U08/g/lsTh/gje51Nk3yJ4R8KWdmHiXipkPkfEHNuWYIcfSVdFIsUnwJo0kN0fRqEgz0OKGe5b3JGpJBFM9t1Q+Oe+gM+51ZKTi54UDRJOJuLT+CAizlsKwZ0SCM9aeJlYQ05nFDr9+IpXC2iqgcSsb2gUq6HRP6Sw+/budJ8EPz0wliWVou7mn1smrizQ59vS7SZkmcieQpdEvQ==;7WOKzeywJEmdBVPcEWvzFQ=="

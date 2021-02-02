@@ -275,7 +275,7 @@
       "originalUrl": "https://www.nasdaq.com/press-release/gdit-announces-availability-of-aws-services-on-milcloud-2.0-2021-02-01",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -668,8 +668,8 @@
       "title": "Pinecone leaves stealth with $10M, launches first serverless vector database for machine learning",
       "excerpt": "Built by the team behind Amazon SageMaker and founded by scientist and former AWS Director Edo Liberty, Pinecone makes large-scale real-time inference as simple as querying a database. It is ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-1030010484",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-1030010484",
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210127ln57621/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210127ln57621/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -677,23 +677,14 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-1030010484",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-1030010484",
-      "publishedDateTime": "2021-01-27T07:16:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-27T07:10:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1010,6 +1001,49 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-25-unboxing-for-business-overlord-3d-printer.md",
+      "title": "Unboxing for Business: OverLord 3D Printer",
+      "excerpt": "This time on Unboxing for Business we’re unpacking DreamMaker’s OverLord 3D Printer. We’ve been told it’s one of the more beautiful 3D printers out there. Is that true? Let’s find out ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itworldcanada.com/video/unboxing-for-business-overlord-3d-printer",
+      "originalUrl": "https://www.itworldcanada.com/video/unboxing-for-business-overlord-3d-printer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2017/01/Overlord-Thumbnail-1.jpg",
+          "width": 620,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itworldcanada.com/video/unboxing-for-business-overlord-3d-printer?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/video/unboxing-for-business-overlord-3d-printer?amp=1",
+      "publishedDateTime": "2021-01-24T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -1435,58 +1469,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-automating-amazon-personalize-solution-using-the-aws-step-functions-data-science-sdk.md",
-      "title": "Automating Amazon Personalize solution using the AWS Step Functions Data Science SDK",
-      "excerpt": "Machine learning (ML)-based recommender systems aren’t a new concept across organizations such as retail, media and entertainment, and education, but developing such a system can be a resource-intensive task—from data labelling, training and inference, to scaling. You also need to apply continuous integration,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automating-amazon-personalize-solution-using-the-aws-step-functions-data-science-sdk/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automating-amazon-personalize-solution-using-the-aws-step-functions-data-science-sdk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/01/12/ML-1267-12.jpg",
-          "width": 633,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-14T09:47:17-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "AWS AI"
       ]

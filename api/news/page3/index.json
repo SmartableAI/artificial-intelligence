@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-01-ai-mit-scientists-develop-a-new-liquid-neural-network-future-of-robot-control.md",
+      "title": "AI: MIT scientists develop a new ‘liquid’ neural network – ‘future of robot control’",
+      "excerpt": "MIT scientists have developed a type of neural network that learns on the job, not just during its training phase. These flexible algorithms, dubbed “liquid” networks, change their underlying equations to continuously adapt to new data inputs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tunisiesoir.com/science/ai-mit-scientists-develop-a-new-liquid-neural-network-future-of-robot-control-26558-2021/",
+      "originalUrl": "https://www.tunisiesoir.com/science/ai-mit-scientists-develop-a-new-liquid-neural-network-future-of-robot-control-26558-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tunisiesoir.com/wp-content/uploads/2021/02/AI-MIT-scientists-develop-a-new-‘liquid-neural-network-‘future-of-robot-control.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tunisiesoir.com/science/ai-mit-scientists-develop-a-new-liquid-neural-network-future-of-robot-control-26558-2021/?amp",
+      "cdnAmpWebUrl": "https://www-tunisiesoir-com.cdn.ampproject.org/c/s/www.tunisiesoir.com/science/ai-mit-scientists-develop-a-new-liquid-neural-network-future-of-robot-control-26558-2021/?amp",
+      "publishedDateTime": "2021-02-01T03:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tunisie Soir",
+        "domain": "tunisiesoir.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-02-01-artificial-intelligence-ethics-under-spotlight-at-davos-2021.md",
       "title": "Artificial intelligence ethics under spotlight at Davos 2021",
       "excerpt": "The World Economic Forum announces two initiatives to accelerate the adoption of technology across the globe, at the annual Davos meeting.",
@@ -520,7 +564,7 @@
       "originalUrl": "https://venturebeat.com/2021/01/31/heres-where-ai-will-advance-in-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -763,57 +807,6 @@
         "Microsoft AI",
         "IBM AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-31-mckinsey-winning-companies-are-increasing-their-investment-in-ai-during-covid-19-what-do-they-know-that-you-dont.md",
-      "title": "McKinsey: Winning Companies Are Increasing Their Investment In AI During COVID-19. What Do They Know That You Don’t?",
-      "excerpt": "When I think about how to guide my company’s strategy, I look at what the winners in various industries are doing to see what I can learn from them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/glenngow/2021/01/31/mckinsey-winning-companies-are-increasing-their-investment-in-ai-during-covid-19-what-do-they-know-that-you-dont/",
-      "originalUrl": "https://www.forbes.com/sites/glenngow/2021/01/31/mckinsey-winning-companies-are-increasing-their-investment-in-ai-during-covid-19-what-do-they-know-that-you-dont/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600c63d62211004774caee59%2F0x0.jpg",
-          "width": 1200,
-          "height": 684,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/glenngow/2021/01/31/mckinsey-winning-companies-are-increasing-their-investment-in-ai-during-covid-19-what-do-they-know-that-you-dont/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2021/01/31/mckinsey-winning-companies-are-increasing-their-investment-in-ai-during-covid-19-what-do-they-know-that-you-dont/amp/",
-      "publishedDateTime": "2021-01-31T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
