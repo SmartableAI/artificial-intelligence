@@ -40,22 +40,6 @@ related:
         width: 3000
         height: 2000
         isCached: true
-  - title: "Using artificial intelligence to predict which women will develop breast cancer"
-    excerpt: "A team of researchers with members from institutions in the U.S., Sweden and Taiwan has developed an artificial intelligence system for predicting breast cancer years before tumors appear. In their paper published in the journal Science Translational Medicine,"
-    publishedDateTime: 2021-01-28T15:20:00Z
-    webUrl: "https://medicalxpress.com/news/2021-01-artificial-intelligence-women-breast-cancer.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-01-artificial-intelligence-women-breast-cancer.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-01-artificial-intelligence-women-breast-cancer.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 53
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2015/6-breastcancer.jpg"
-        width: 1280
-        height: 1024
-        isCached: true
 
 secured: "JM4MX645LSaDCCXd/kdjDqLkOYAylx79fBJZok+1Ir0mou7otHvId3fv40p9fghV5VbFOOP5BXOnJEM7HRDhukySprgOoX126YJr4o6HyZhPd2u50sFqasoPEMkH+uG4/MmriTtwpJyVFFzgnGStQ6wsb5CJI3mGr2HzDlrfseCJLzJHcm2BlDv7mPUitUkZ1zHSBmxUjyZDlCeXDnwxEZEnJTqGBcDP6BANaWN/wIm9y+wyuPFJ2QfrzKOmWxWdYzYTB33HfyIczI/A+O2Im1c7y6dADZhkw41s6EPDCbWqvZPWqEUMfLwO0Sr0TQ6n0Z8IrV2hWbEd4WH5bRokNKXkxHLu0YokSSrXsIM7RQqyMwr9cSnNwBIOZ0JNgo4r98imvSmhgIuYdiKvRD7n0Rmhk1+4vUbDqWYePq1KFdVMJSdmHaUnJwjHstqvaZRisJ2zesLPX+APOzSZQOEe6jsQf8/1XSJ+4eJoY0ccXMgCDFO1hy2uL/NVgc7EJdiSA5V0eiEU8daiMkpngVcUvw==;5e9vNiaABUOkwwTfoMXdSA=="
 ---

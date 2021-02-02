@@ -25,33 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "USC, Amazon Plan Center for Machine Learning Research"
-    excerpt: "The new Center for Secure and Trusted Machine Learning will be part of the university’s Viterbi School of Engineering, USC and Amazon announced Jan. 28. Researchers from both the university and the company will work alongside one another at the center,"
-    publishedDateTime: 2021-01-28T19:20:00Z
-    webUrl: "https://labusinessjournal.com/news/2021/jan/28/usc-amazon-will-open-center-machine-learning/"
+  - title: "University Of Southern California and Amazon establish Center For Secure And Trusted Machine Learning"
+    excerpt: "The expectation is that the center will unleash a new line of fundamental research on privacy and security aspects of machine learning –given the proliferation of artificial intelligence across all aspects of society from education to finance,"
+    publishedDateTime: 2021-01-29T12:56:00Z
+    webUrl: "https://economictimes.indiatimes.com/industry/services/education/university-of-southern-california-and-amazon-establish-center-for-secure-and-trusted-machine-learning/articleshow/80563909.cms"
+    ampWebUrl: "https://m.economictimes.com/industry/services/education/university-of-southern-california-and-amazon-establish-center-for-secure-and-trusted-machine-learning/amp_articleshow/80563909.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/services/education/university-of-southern-california-and-amazon-establish-center-for-secure-and-trusted-machine-learning/amp_articleshow/80563909.cms"
     type: article
     provider:
-      name: Los Angeles Business Journal
-      domain: labusinessjournal.com
-    quality: 39
+      name: India Times
+      domain: indiatimes.com
+    quality: 44
     images:
-      - url: "https://ocbj.media.clients.ellingtoncms.com/img/photos/2021/01/27/30917071552_6d75ed7f96_k_1_t670.jpg?b3f6a5d7692ccc373d56e40cf708e3fa67d9af9d"
-        width: 670
-        height: 446
-        isCached: true
-  - title: "USC, Amazon Plan Center for Machine Learning Study"
-    excerpt: "The new Center for Secure and Trusted Machine Learning will be part of the uni-versity’s Viterbi School of Engineering, USC and Amazon announced Jan. 28. Researchers from both the university and the company will work alongside one another at the center,"
-    publishedDateTime: 2021-01-28T16:06:00Z
-    webUrl: "https://labusinessjournal.com/news/2021/jan/28/usc-amazon-will-open-center-machine-learning/"
-    type: article
-    provider:
-      name: Los Angeles Business Journal
-      domain: labusinessjournal.com
-    quality: 39
-    images:
-      - url: "https://ocbj.media.clients.ellingtoncms.com/img/photos/2021/01/27/30917071552_6d75ed7f96_k_1_t670.jpg?b3f6a5d7692ccc373d56e40cf708e3fa67d9af9d"
-        width: 670
-        height: 446
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-122421,msid-80563839/amazon.jpg"
+        width: 600
+        height: 450
         isCached: true
   - title: "USC and Amazon establish Center for Secure and Trusted Machine Learning"
     excerpt: "USC and Amazon today announced they are creating a joint research center focused on development of new approaches to machine learning (ML) privacy, security, and trustworthiness. The Center for Secure and Trusted Machine Learning,"

@@ -25,36 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "This alliance aims to accelerate the adoption of inclusive, trusted and transparent AI worldwide"
-    excerpt: "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Kay Firth-Butterfield, Head of Artificial Intelligence"
-    publishedDateTime: 2021-01-28T16:09:00Z
-    webUrl: "https://europeansting.com/2021/01/28/this-alliance-aims-to-accelerate-the-adoption-of-inclusive-trusted-and-transparent-ai-worldwide/"
-    ampWebUrl: "https://europeansting.com/2021/01/28/this-alliance-aims-to-accelerate-the-adoption-of-inclusive-trusted-and-transparent-ai-worldwide/amp/"
-    cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/01/28/this-alliance-aims-to-accelerate-the-adoption-of-inclusive-trusted-and-transparent-ai-worldwide/amp/"
-    type: article
-    provider:
-      name: europeansting.com
-      domain: europeansting.com
-    quality: 46
-    images:
-      - url: "https://europeansting.files.wordpress.com/2021/01/robots-2-21.jpeg"
-        width: 752
-        height: 1002
-        isCached: true
-  - title: "World Economic Forum launches global alliance for responsible AI"
-    excerpt: "The World Economic Forum announced today the launch of the Global AI Action Alliance (GAIA), a new flagship initiative to accelerate the adoption of inclusive, transparent and trusted artificial intelligence globally."
-    publishedDateTime: 2021-01-28T16:38:00Z
-    webUrl: "https://www.finextra.com/pressarticle/85927/world-economic-forum-launches-global-alliance-for-responsible-ai"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
   - title: "World Economic Forum launches GAIA to accelerate responsible AI adoption"
     excerpt: "The  (WEF) announced on Thursday that it was launching the Global AI Action Alliance (GAIA), an initiative to speed up development and adoption of trusted and inclusive artificial intelligence across industry sectors."
     publishedDateTime: 2021-01-29T09:57:00Z

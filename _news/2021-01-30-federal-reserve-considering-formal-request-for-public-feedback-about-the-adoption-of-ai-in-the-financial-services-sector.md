@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "AI in Financial Services: Overcoming the Barriers to Combat Fraud and Money Laundering"
-    excerpt: "Global As a top-of-mind issue for global policymakers, law enforcement authorities and industry stakeholders, the scale of financial crime is vast and continues to grow, affecting everyone. The complexity of the international financial system,"
-    publishedDateTime: 2021-01-28T16:34:00Z
-    webUrl: "https://www.globalbankingandfinance.com/ai-in-financial-services-overcoming-the-barriers-to-combat-fraud-and-money-laundering/"
+  - title: "Homeland Security Wants AI to Help Realize a 5-Year-Old Financial Services Mandate"
+    excerpt: "The Financial Systems Modernization Program hasn’t met its requirements, but officials hope an injection of artificial intelligence and automation can help."
+    publishedDateTime: 2021-02-02T01:31:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2021/02/dhs-wants-ai-help-realize-5-year-old-financial-services-mandate/171774/"
     type: article
     provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 31
+      name: Nextgov
+      domain: nextgov.com
+    quality: 50
     images:
-      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2021/01/2021-10.jpg"
-        width: 750
-        height: 422
+      - url: "https://cdn.nextgov.com/media/img/upload/2021/02/01/shutterstock_255304399_2/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "hbhiv3ROlE4VooNMNmsZDerCJEKV/3zvi/wh59tZNugwbi+zdxwNdGfZxKUpUA3q2wO+1+LR5PWQIkLmtN4xNrrC/ihPrHd9HnqSD1gH3rzwh2M/yT6Aw+LcMMddO5T1FOObGi2kKcUlFswjsCvBPRPBtUpGnAX2u2hyzuMJuaNEwk9m3Y8lsnU37lcW1QZMsLKHuf/eJeplj1Oz0uRPpLIBkw3rGraV1DmLDQMbhS1k+Y6ZVNWB+hUcJdwAYg6WgCC9qAIsx/kXvsOmIaP7LQNKwWvvsqOdv79l1NkQ9X5Z+RwORYM2pvcECmrXOYSb1kxQGUy0yz7g7lB/4/EPEFnWDv7adVSvRKnc6MRMF2XGnlJ6BSiTDsDw+ZBMXp9LPDf/ms6q9jY+HyHJHKgD9EmighQjwFp95vuUH36UY1+GoACD7tiO/7ft25+KS3ZmOZun23cTvkX8t0UiVnSWjn86kAvqiPs7DZWwI+5m6ApoqyBT4LfmRKnj85hPj4F2VKWMx3vFsdeKO9CdT/mK3w==;ygBa4G9+UitZ8H5taPh5lA=="

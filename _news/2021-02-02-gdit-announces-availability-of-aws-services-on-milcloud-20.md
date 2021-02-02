@@ -1,27 +1,27 @@
 ---
 category: news
 title: "GDIT Announces Availability of AWS Services on milCloud 2.0"
-excerpt: "PRNewswire/ -- (GDIT), a business unit of General Dynamics (NYSE:GD), announced today the availability of Amazon Web Services (AWS) through the"
-publishedDateTime: 2021-02-01T16:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/gdit-announces-availability-of-aws-services-on-milcloud-2-0/article_66ada851-29ba-5398-970d-7996a069b07d.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/gdit-announces-availability-of-aws-services-on-milcloud-2-0/article_66ada851-29ba-5398-970d-7996a069b07d.html"
+excerpt: "GDIT announced today the availability of Amazon Web Services (AWS) through the milCloud 2.0 contract, providing DoD mission partners access to an expanded portfolio of secure cloud services. FAIRFAX,"
+publishedDateTime: 2021-02-02T08:07:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-government-business-and-finance-corporate-news-products-and-services-dcdc78fe232b6bc8d86839fb56fd3603"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-government-business-and-finance-corporate-news-products-and-services-dcdc78fe232b6bc8d86839fb56fd3603"
 type: article
 quality: 54
 heat: 74
 published: true
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/35/835d5abc-548f-55fb-b63e-62f01825ec9e/6018f8e5c923b.image.jpg?resize=1200%2C628"
-    width: 1200
-    height: 628
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -54,6 +54,6 @@ related:
         height: 630
         isCached: true
 
-secured: "clMhbr+Cy3pbo/ndDSLLHIoqqQf5DMWgSd4znifEkpgOZ913Bcjuwe4YlyVDdJc5HCWPYgC6QuEWJGhnGZJLcl4e49sCSkeW1la3W11MVNF3EFEJRuXE6+OWexBxt9DaoiEcOobQuaFixs/SRvZOfnyeTV5ILTnUDNTNfQPDHGQofPtDDjHWINN8gJwT7J0jIn85B6kmo3RlrF1pwLuhoTc4pLCH69T8RNz0GmSUx5RCDhs66Q8QnBRtZHOHE2zKYhGOX1DA5Yc3+jWH9ZTsSNl1hQyTr4NSQXOac//xrvBGTfUFMRhbGOQjaQ7t2XtUgmkY7cs7Lw3Gx/XA8yhAmDdOpxj33uctU6N2aBCvm/E=;v4zHcOnGErXndR0Myr4FTQ=="
+secured: "TN6iXHTUc+TiLKVCfI/sjE6oXVuKdJCXu4UcYeye3RyfIf5rX+zSNTz9f9/D9qQ6XFPZgNKMQ6aqbNA/hXYC1Bg+dJZNDWxwB16K6heaXFu9UIpPPcJ+x33gE37lGhOfjolKRn9S5Q9GS5XE2mR3B/HVtq44gx6DLgXOUD4QCYH5jM6TcP7xOvoRvkXG9hUmGQDOTEJjf9qLMfv9HdNv/ZAJIP9wvsMQB/S1/H8VdZlngUFWZbuCXbT1NF+Tx+cAhBDSBhfShI2VJIU6KMYtmM/ggjcErptk4eYJpHydreBGXCUiDaFBXwkB9liOBmLG32x99Z7bNuZzGSKQXnG4mt5rJkCTrRCko2Vv0Eh6KfA=;aUSTtDYqt/yZ90OpDervwQ=="
 ---
 

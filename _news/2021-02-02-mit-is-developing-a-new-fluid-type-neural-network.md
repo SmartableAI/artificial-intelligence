@@ -43,38 +43,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Artificial Intelligence: MIT creates ‘liquid’ machine learning - ‘future of robot control'"
-    excerpt: "ARTIFICIAL INTELLIGENCE (AI) engineers have designed a new ‘liquid' machine-learning system potentially capable of revolutionising everything from autonomous cars to medical diagnosis."
-    publishedDateTime: 2021-01-28T16:45:00Z
-    webUrl: "https://www.express.co.uk/news/science/1390384/artificial-intelligence-news-mit-liquid-machine-learning-future-of-robot-control-evg"
-    ampWebUrl: "https://www.express.co.uk/news/science/1390384/artificial-intelligence-news-mit-liquid-machine-learning-future-of-robot-control-evg/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1390384/artificial-intelligence-news-mit-liquid-machine-learning-future-of-robot-control-evg/amp"
-    type: article
-    provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 81
-    images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/151/590x/artificial-intelligence-news-mit-liquid-machine-learning-future-of-robot-control-1390384.jpg?r=1611852641718"
-        width: 590
-        height: 350
-        isCached: true
-  - title: "MIT researchers develop a new ‘liquid’ neural network that’s better at adapting to new info"
-    excerpt: "A new type of neural network that’s capable of adapting its underlying behavior after the initial training phase could be the key to big improvements in situations where conditions can change quickly – like autonomous driving,"
-    publishedDateTime: 2021-01-28T15:26:00Z
-    webUrl: "https://techcrunch.com/2021/01/28/mit-researchers-develop-a-new-liquid-neural-network-thats-better-at-adapting-to-new-info/"
-    ampWebUrl: "https://techcrunch.com/2021/01/28/mit-researchers-develop-a-new-liquid-neural-network-thats-better-at-adapting-to-new-info/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/28/mit-researchers-develop-a-new-liquid-neural-network-thats-better-at-adapting-to-new-info/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 79
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/09/GettyImages-1098118724.jpg?w=1024"
-        width: 1024
-        height: 512
-        isCached: true
 
 secured: "Y2ONq0iKgLbxXPXDJhAlYllspynlAe1deMm+cXQwHxCtv16lxfof5KbuHGJBZk6UjX8iIdScuKcJqs7hUhtjeXVqeJM9sGZ0f5ij59J0QrM/PRzA1ZxweLlkv4zfpPz50jAYP77P1HHP/Ug0wHxHeCls85pXAbqxYIzU3EnslLDQXT2fJ4VNAlseIE9sXcGeBINOmQOeal4GnqZqT/Dm0JEu8XrXPIx6NKWzpw6upJhv44k/Bi/Rat09j8DOBc8JRXCCaE6Rjob5Jg4ngplIknTgtiIR8bD3m2d0qKJ9OGy+3NeGRzh46chtKzqD+nfQVwU5j22qc7Jo345siprpss/dfbcOjxaJHfO/vZL+c7miQCFuE5mvgj7yXDH5j+FZVba0i2lQlc4POpN83zJAw6733S96ZjgpaOTon2m1jJxPQoF1JkmPVAY6ZPmnlcHILBjMAj+5tP1v5ghJqh5ywmQLVxL0NU+SQFXVVfmMa9Iu298iam4ZmX19WnQ/wCUkTeVhQVyeZBL7txg1fnRcvg==;SN5T8aAtACC5grODlfcWsQ=="
 ---

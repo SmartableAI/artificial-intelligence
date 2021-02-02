@@ -58,6 +58,20 @@ related:
         height: 600
         isCached: true
   - title: "Weights and Biases Raises $45M Series B to Expand Beyond Experiment Tracking for Machine Learning Practitioners Everywhere"
+    excerpt: "Weights and Biases, the Experiment Tracking platform that is transforming how teams build and collaborate on Machine Learning (ML) models and operations (MLOps), announced today that it has raised a $45 million Series B investment round led by Insight Partners,"
+    publishedDateTime: 2021-02-02T08:30:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-investment-management-financial-services-venture-capital-98a44334895d88e6adbd6305da1774ef"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 30
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Weights and Biases Raises $45M Series B to Expand Beyond Experiment Tracking for Machine Learning Practitioners Everywhere"
     excerpt: "Weights and Biases, the Experiment Tracking platform that is transforming how teams build and collaborate on Machine Learning (ML) models"
     publishedDateTime: 2021-02-01T13:00:00Z
     webUrl: "https://www.prnewswire.com/news-releases/weights-and-biases-raises-45m-series-b-to-expand-beyond-experiment-tracking-for-machine-learning-practitioners-everywhere-301218743.html"

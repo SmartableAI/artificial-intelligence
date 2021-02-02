@@ -88,6 +88,17 @@ related:
         width: 600
         height: 300
         isCached: true
+  - title: "Microsoft and Singtel team up on 5G via Azure Stack"
+    excerpt: "Microsoft Azure customers in Singapore will soon be able to use Singtel’s 5G infrastructure to power 5G applications through the telco’s edge computing platform"
+    publishedDateTime: 2021-02-02T08:34:00Z
+    webUrl: "https://www.computerweekly.com/news/252495728/Microsoft-and-Singtel-team-up-on-5G-via-Azure-Stack"
+    ampWebUrl: "https://www.computerweekly.com/news/252495728/Microsoft-and-Singtel-team-up-on-5G-via-Azure-Stack?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252495728/Microsoft-and-Singtel-team-up-on-5G-via-Azure-Stack?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 54
   - title: "GM, Cruise Partners with Microsoft to Accelerate Self-Driving EV Technology | Work & Wheels"
     excerpt: "GM, Cruise Partners with Microsoft to Accelerate Self-Driving EV Technology | Work & Wheels General Motors and its self-driving car"
     publishedDateTime: 2021-01-30T05:44:00Z

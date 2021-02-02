@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/audio/2021-02-01/using-ai-to-speed-
 webUrl: "https://www.bloomberg.com/news/audio/2021-02-01/using-ai-to-speed-up-the-covid-vaccination-process-podcast"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://cambridgenetwork.co.uk/sites/default/files/Collaboration_Zoom.width-840.jpg"
         width: 700
         height: 393
-        isCached: true
-  - title: "New AI-severity score COVID-19 integrating CT images published to Nature Communications"
-    excerpt: "Owkin, a French-American startup pioneering AI and Federated Learning in medical research, has been focusing it's COVID-19 research efforts on aspects of the pandemic that still require much public health attention,"
-    publishedDateTime: 2021-01-28T16:52:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-01/oi-nas012821.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 29
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "dj5RLlu1AA/u9wvLwWg9BnKywBdX8Isr18OZGD5566K+/+XHy8czffxMlzKFeYwbFO6JLYL4gEl5j5HRkYydIdZYvoubMUAEjQcY6PiJ7yGt40WnmUS+djmhHoUEVBe6tYbfbNXIAviIeI5+VkWHoQz/DlcD4Qh5J7YLJJpzpBkw4CSxMBqlC5fXQDCi98YSmTeHCtZBJkp1sRAFVZ+kXHttWHT5QH73+34QU5PybSpL17OsEcWIsWFnlJBYAxC3dAKxLfrl5JM+wj6bkUDMVMNBHrVsADpqBIX+UmsBPkCccTH26C5OyDHs0pupi5i6zvdWbSBtxGEkaWlaOlpaJ8SPqcIcIAFI3ecwSUtwy5A=;gexD1U4wKBCKYBLTRKc82Q=="

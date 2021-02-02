@@ -24,17 +24,6 @@ images:
     height: 1280
     isCached: true
 
-related:
-  - title: "Khoros Advances CX Leadership with Acquisition of AI & Machine Learning Leader Flow.ai"
-    excerpt: "Khoros, a global leader in digital-first customer engagement software, today announced that it has acquired Flow.ai, an innovative conversational AI platform for designing and managing chatbots. Adding Flow."
-    publishedDateTime: 2021-01-28T16:00:00Z
-    webUrl: "https://www.financialbuzz.com/khoros-advances-cx-leadership-with-acquisition-of-ai-machine-learning-leader-flow-ai/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 28
-
 secured: "z7UEoSJIxCY7+5rLDEslIzFI6iDezjgL4KiaF8lJT3u3M5sK+goRvhi/24d25179Kenj9+suQWopRu9iMGiI+420T4CVzVJvyBXmTDBAvdRJ0YPqBJJwJ+Ez4eXweY8XyuyXB9iYUX8Hkzwkw+NfBGlOegwU92RHBBbakUKEPyiimvrxgEKLqMuGUio+/ftUi8W3zOB/JU5Sxc7Y9KlqWohkl3UbWEvc2P0K2Fq27xoRHE/0sPXSLS9NYg7rYmNOExXSInVqXs7y+dQ0lsmZRH5YDUs2PrhCZhEgbYwiPxkWC9ICYP5BYpX0Nn/IClDVD49mhdezCwfsa9WuulxiC+pqXG3Vrs3AiwfV3yMK/mc=;kAsbsAXd4L9lt56QD4hchw=="
 ---
 

@@ -76,17 +76,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Facial recognition: Don't use it to snoop on how staff are feeling, says watchdog"
-    excerpt: "The Council of Europe's new guidelines call for a ban on some applications of facial recognition, and stringent privacy safeguards when the technology is deployed."
-    publishedDateTime: 2021-01-28T16:27:00Z
-    webUrl: "https://www.zdnet.com/article/facial-recognition-dont-use-it-to-snoop-on-how-staff-are-feeling-says-watchdog/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/facial-recognition-dont-use-it-to-snoop-on-how-staff-are-feeling-says-watchdog/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facial-recognition-dont-use-it-to-snoop-on-how-staff-are-feeling-says-watchdog/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 64
   - title: "Female entrepreneur pioneers facial recognition tech"
     excerpt: "Female entrepreneur pioneers facial recognition tech - Kommunikation - Kim Harrisberg - Charlette N'Guessan Desiree loved maths and science as a student in Ivory... - Allgemeine Zeitung"
     publishedDateTime: 2021-02-01T07:04:00Z

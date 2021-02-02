@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/01/31/technology/facial-recognition-pho
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/31/technology/facial-recognition-photo-tool.amp.html"
 type: article
 quality: 91
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -64,17 +64,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Facial recognition: Don't use it to snoop on how staff are feeling, says watchdog"
-    excerpt: "The Council of Europe's new guidelines call for a ban on some applications of facial recognition, and stringent privacy safeguards when the technology is deployed."
-    publishedDateTime: 2021-01-28T16:27:00Z
-    webUrl: "https://www.zdnet.com/article/facial-recognition-dont-use-it-to-snoop-on-how-staff-are-feeling-says-watchdog/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/facial-recognition-dont-use-it-to-snoop-on-how-staff-are-feeling-says-watchdog/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facial-recognition-dont-use-it-to-snoop-on-how-staff-are-feeling-says-watchdog/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 64
   - title: "Here’s a way to find out if facial recognition systems used your photos"
     excerpt: "Here's a way to find out if facial recognition systems used your photos When tech companies created the facial recognition systems that"
     publishedDateTime: 2021-01-31T16:54:00Z
