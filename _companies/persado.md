@@ -2,7 +2,7 @@
 name: "Persado"
 overview: "Spearheading the future of mobility by building world-class autonomous driving technology - safely, reliably, and at scale"
 type: "profile"
-heat: 50
+heat: 6
 
 website: https://www.persado.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "persado"
   url: "https://www.twitter.com/persado"
-  followers: 5455
+  followers: 5456
 
 size: 201-500 employees
 yearFounded: 2012
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=Ig4B5roBgao"
 
-secured: "IitC29EZTmuRU5SjD9iJru8bWdBu9/78KaoSL/BP43ILgPp1bRqQcBMRlaoVtXMhND6uYXvXY+sJ0kpuydchSesbR++CxxHDSZVu9EqViR26/UU/vqe5v7yBeitymaTuqKyOomga/An2rrQavhwEUX/fnpXdJdWz8A9a6QokEuEUIry3xrxu+LlD+nNvDp4rhslKDzNj0TO6lTRkb3sqAeZpSBHHmWUxGRMWUGE72hSDm/neGLbxDYmlFS5GkAOmLrJos6M4FSaZfmsR+1yGHNOAfir1nO7K0qzMSNhLJckRyff9UbAGsIGwhfsTPKw6dy/KNt03shLAPeAcihG1VQAPtkRCZjHxBZORcMAgDZCs+jAi372qflzBKByoe8rb4u64efk+GPFiiJIH1jETM6JFIVxs6wEfoHR1Rma6aSQ=;VO8J9PUejuP+r0c6Ue/ZiA=="
+secured: "UPPNdMDFGCpgJpy1gxKITDmhqpJ+Vz8u3pgm+Z4x+W3T+DRroKkLoaHADbXqoVzcvJlk+qVRq6dl8mGM3QE1pcaYUJPjuNkLi8w/Lv1xV/JgHH5O1uB2zVZ7eng1ZQR0C2iqjLb/6er0cXBD8t632lUGusv+Y6bT03wpkq+rDmb+VtM6XkAHU0XdI0aRrsP8xmVN5gqMJ1UIoDgGP+IrSFhAffmV1h3Hde3A6ZQYmRyUqqFsrzPs3HlC08/bMUrDixew/9Bi152iLPLw1AwaITUAZIbevU8AW8dpm9HqI2V3M2OpQ4j6ApljkuzYYcYSmdwLs3bvPs9nTrbpPamIlgWG9qG5wyQwzW7orzNHHgO4VK3f23oPtTtUZoaX1nVaxTKCv+LtwMHkvrelhGtyJ7TeuVcay6glzGfv99fzN7g=;PR8b7e2f8DMS2PAzyj+v8Q=="
 ---
 
