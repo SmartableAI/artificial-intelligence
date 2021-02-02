@@ -56,6 +56,6 @@ related:
       domain: proactiveinvestors.com
     quality: 19
 
-secured: "GTsMvjLfkIzRXP9Ycc4nYoTTr39/3pJt4ZTi4mHE7O4iuB+3Uk3DvrvJcvjRQgvWPCWeG8sgiZBv635cyTQ/mc3NS+XC/n0KT4Gli7HISXm+DlXZkXXcUeou7pJ79SqeUzRwmYm2ZnJZnBeTW4IsWafnVe1xn15cNGpakVlTs9l8FKJjz2Rf/3DRP4y4Q/4KXGWro1uz/JFKIY4BtdwtsOrCHGb7pPJ3/+U6ifVO3h2+9VfMymtw+KkW9lBWQMSXcoegv38Jy/oZN0QNoEbdZZlfDpxA92zm/UxeImBLbXcfBr8u0E02BNuUQrT2Dl9yHP8Rhfao9hrXmmT8sSjPWuMQjUeIs+Vs0I+IvSnmSnM=;6IFoYouaUHeW2QLxb6hgnQ=="
+secured: "HaIHcTHV/MEo859dIAouBMjM0yCed78geZX6bizrxXOLu6H/nSh6HOvdsUfil1GUhhcjEEnspP91qipwjqCfO67K5jxJ9Y6CHgC/oTL/Or8YOd3/FTC8xCMh/P0/JGcD0wy7xwAzvwS4Ou0v+ZgRGVcieOQV4Nk7yWETDmPx4EDrTCwJtz64BFvsDOwBD9UkVQv7bnh/cAQL9ed+w0XEfsztCNOvT1xz/7S8pKQ6gPAkTTUBtqIRudAbxXKcRGkkAqmPeB6ftEOUY+tOW5T4o1CQfVvZcwQeH0OY5FEV0yVTYH4ObvsGzQig54EjxhsQmHH1IVFnhSFH1n3ZWG3jnRgbhrSaBvc/XClguK7Ajf4=;DFk+L9vrqb93n4Ic8zEJPg=="
 ---
 
