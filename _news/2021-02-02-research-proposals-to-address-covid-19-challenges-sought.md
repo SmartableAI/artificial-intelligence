@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning Technique Helps Predict COVID-19 Outcomes"
-    excerpt: "Mount Sinai researchers used a machine learning technique called 'federated learning' to predict outcomes of COVID-19 patients."
-    publishedDateTime: 2021-01-28T09:40:00Z
-    webUrl: "https://www.medindia.net/news/machine-learning-technique-to-enhance-predictions-of-covid-19-outcomes-199595-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/machine-learning-technique-to-enhance-predictions-of-covid-19-outcomes-199595-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/machine-learning-technique-to-enhance-predictions-of-covid-19-outcomes-199595-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 59
-    images:
-      - url: "https://images.medindia.net/amp-images/health-images/pollen-allergy-women-cold.jpg"
-        width: 1200
-        height: 1000
-        isCached: true
   - title: "New machine learning model predicts COVID-19 severity"
     excerpt: "COVID-19 vaccine distribution has begun across the globe, while many countries are still struggling with the rampant rise of infections."
     publishedDateTime: 2021-01-29T04:06:00Z

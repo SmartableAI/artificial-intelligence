@@ -1,23 +1,23 @@
 ---
 category: news
 title: "Shell, C3 AI, Baker Hughes, and Microsoft Launch the Open AI Energy Initiative, an Ecosystem of AI Solutions to Help Transform the Energy Industry"
-excerpt: "Shell (NYSE:RDS), C3 AI (NYSE:AI), Baker Hughes (NYSE:BKR), and Microsoft (NASDAQ:MSFT) today announced the launch of the Open AI Energy Initiative™ (OAI), a first-of-its-kind open ecosystem of artificial intelligence (AI)-based solutions for the energy and process industries."
-publishedDateTime: 2021-02-01T22:11:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/science-business-technology-products-and-services-western-europe-b056c939a84e4ff0b2e9e8154e0e108e"
-webUrl: "https://apnews.com/press-release/business-wire/science-business-technology-products-and-services-western-europe-b056c939a84e4ff0b2e9e8154e0e108e"
+excerpt: "Baker Hughes (NYSE:BKR), and Microsoft (NASDAQ:MSFT) today announced the launch of the Open AI Energy Initiative™ ("
+publishedDateTime: 2021-02-01T23:03:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210201005936/en/Shell-C3-AI-Baker-Hughes-and-Microsoft-Launch-the-Open-AI-Energy-Initiative-an-Ecosystem-of-AI-Solutions-to-Help-Transform-the-Energy-Industry"
+webUrl: "https://www.businesswire.com/news/home/20210201005936/en/Shell-C3-AI-Baker-Hughes-and-Microsoft-Launch-the-Open-AI-Energy-Initiative-an-Ecosystem-of-AI-Solutions-to-Help-Transform-the-Energy-Industry"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
   - Microsoft AI
 
-secured: "xIwRJduPRurZRbWI00JW2oubhUy5WRIArIpFIPoIcBlWjdvoW27bVKqqWF8ewCAUAYtuNiOxOVQp4WR/NpCSFkqsTDqdNpSu2KH+6YfWJjVt32ph+9kUTLoGkPYxkZl0uinRw5E31hQoUgruenSosoaxKpZV/1KLYEeWg5TrXIrIb0KOj/iuC31JHSw1P03dAx6YskYhIbk0ezFuv3lttcUR7ZE8xIarFy15VGXt1To63kXv6uqLV5S1XljovzGCvGIssMqjAQO1bSWfw9thLfsGRN0NJ300l8VjFD6GnRTA30D+cXQptW835lv3n18FvqYwEkeDHl/6UTC4hY75bPLE3TsgDZsehvXj9Jb7dyc=;+LLcNnJcVD9HMcLQiQ3+yQ=="
+secured: "esLnYiQs1BP3HzzwNfcN0kY8X7NaD3ipqs9os+gdm0WDRjjkXJJtWORN3o3nYc9NVwxGK9hs6oFR1S299SC7mO7qP3shTq8hJ5z9ihzLFE+sahXiKOlGaFcbLZteH88yHitT4xKS6pRDx6nOee4CKdNWnt3pRPvBMS7rHB+iXooiOiCT80OSJLe01KfoOP2cC31PZ2Oj3nyJN5361J0PadiCDAzrwRzDCEdxe9YpQekUJ40HXo2M8vpnjVQF1Q7vYAUuz/q61HuNb3ZTn5eY51l+Ap6ue4NnMDEJ4z1hDrVLhvEPcoGD1zM2KDV+jnh6CZnDvKKvpYsDNuSjzCmHLKaJQ79PDZvoFNKcsxyLLf8=;p4HjXoyiAzQs0isQnBVv9w=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210128/New-machine-learning-
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210128/New-machine-learning-model-predicts-COVID-19-severity.aspx"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: News Medical
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning Technique Helps Predict COVID-19 Outcomes"
-    excerpt: "Mount Sinai researchers used a machine learning technique called 'federated learning' to predict outcomes of COVID-19 patients."
-    publishedDateTime: 2021-01-28T09:40:00Z
-    webUrl: "https://www.medindia.net/news/machine-learning-technique-to-enhance-predictions-of-covid-19-outcomes-199595-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/machine-learning-technique-to-enhance-predictions-of-covid-19-outcomes-199595-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/machine-learning-technique-to-enhance-predictions-of-covid-19-outcomes-199595-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 59
-    images:
-      - url: "https://images.medindia.net/amp-images/health-images/pollen-allergy-women-cold.jpg"
-        width: 1200
-        height: 1000
-        isCached: true
   - title: "Machine learning tool predicts respiratory failure in COVID-19 patients"
     excerpt: "In an effort to expedite care for coronavirus disease 2019 (COVID-19) patients upon hospital admission, a team at The Feinstein Institutes for Medical Research has developed a machine learning (ML) artificial intelligence (AI) powered clinical predictive tool that can accurately assess patients for the risk of respiratory failure within 48 hours."
     publishedDateTime: 2021-01-29T07:59:00Z

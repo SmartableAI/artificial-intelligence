@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/pinecone-emerges-from-s
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/pinecone-emerges-from-stealth-with-$10-million-to-accelerate-ai-workloads-9748315"
 type: article
 quality: 66
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -24,20 +24,6 @@ topics:
   - AI
 
 related:
-  - title: "Pinecone Raises $10M in Funding"
-    excerpt: "PineconeSystems Inc., a Sunnyvale, California, New York and Tel Aviv, Israel-based machine learning (ML) cloud infrastructure company, raised $10m in seed funding"
-    publishedDateTime: 2021-01-28T09:36:00Z
-    webUrl: "https://www.finsmes.com/2021/01/pinecone-raises-10m-in-funding.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 39
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2018/07/espressive-400x293.jpg"
-        width: 400
-        height: 293
-        isCached: true
   - title: "NWO.ai Emerges From Stealth With $3.5 Million To Scale Its Global Trendcasting Platform"
     excerpt: "NWO.ai, the predictive AI platform that helps leading enterprises identify microtrends before they become exponential, announces a $3.5 million seed round. The round was co-led by Hyperplane, Wavemaker,"
     publishedDateTime: 2021-02-01T12:31:00Z

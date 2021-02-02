@@ -3,8 +3,8 @@ category: news
 title: "Baidu share price: Why Citi and JPMorgan analysts raised their price targets to US$290"
 excerpt: "Baidu share price: the latest. Chinese search engine company Baidu’s share price has burgeoned roughly 19% since announcing that it would be entering the electric vehicle (EV) s"
 publishedDateTime: 2021-01-21T06:36:00Z
-originalUrl: "https://www.ig.com/sg/news-and-trade-ideas/baidu-share-price--why-citi-and-jpmorgan-analysts-raised-their-p-210121.amp"
-webUrl: "https://www.ig.com/sg/news-and-trade-ideas/baidu-share-price--why-citi-and-jpmorgan-analysts-raised-their-p-210121.amp"
+originalUrl: "https://www.ig.com/sg/news-and-trade-ideas/baidu-share-price--why-citi-and-jpmorgan-analysts-raised-their-p-210121"
+webUrl: "https://www.ig.com/sg/news-and-trade-ideas/baidu-share-price--why-citi-and-jpmorgan-analysts-raised-their-p-210121"
 ampWebUrl: "https://www.ig.com/sg/news-and-trade-ideas/baidu-share-price--why-citi-and-jpmorgan-analysts-raised-their-p-210121.amp"
 cdnAmpWebUrl: "https://www-ig-com.cdn.ampproject.org/c/s/www.ig.com/sg/news-and-trade-ideas/baidu-share-price--why-citi-and-jpmorgan-analysts-raised-their-p-210121.amp"
 type: article
@@ -23,6 +23,6 @@ images:
     height: 450
     isCached: true
 
-secured: "Bcu50rBZEZnvAMfTDNJFvQ7d6PR1TKWrotXMslg9mKEyxPlmtt6I6l+ZfOfecHDGvVn4rv/B4ohp5z85nsXnED+DZpXK1pNSY6LWY6WmYQMPYuEF9IOLyyrXReh1bMEaRpNZD16m6Memf6vrabKAxAr6HuOZb7oazRD0sAML/m/Jme1fesgQZAXQWay7FP8UIZlXo/CyWd3BSlhu76ukN8b2RF3811yBy1avXN0S2Z9IO2DAt3T7NsdTO3Luli9fRix0a8LFDkB0W+cfgMWQFceYZfdErbl033joN45FvUe1MHIZlBfT/c5bhlnJjXvShLh6SyX4C0mr79YeGKMa/sVurTZ1+IkjzNP764nEG7I=;uReXOH/+kmAyxc6sUhASbQ=="
+secured: "iZRODN1HNkgfQZjtBaI/gmpE0Wg1MMDFFj7um2IgQkh2noP8Bywn/PKL6PLqsHXq6Ty3gt1xBmIlit7xlBOnQ6c6PCM4SsPKm9ZgJvjuepz6aLEbFF8pDcXMlnyLcDoJ9AZRcxZrCK300OpvqTAfKg+XOZ407irmu+dm8sc4q4+0MJXXGvLtHNgDn/x6ck4et9AKuhd1u2W/+4YnfVLmJOQUbeeohA/m5u5Mm+8WUuWr8ksVoXRm6w8Qf/ZuwGy/c8y/svecTgi4rnj5DFUNPP/GvZKOeKppemNBDEvcjABqOmRYNWOBwNhtkgAs1TIOiX6zn4xwtFsCLm8pLoB17SHb+tsJhpFH0hQu4a+0vAA=;+jCR7Lkw21zNOM/npDv0Rg=="
 ---
 

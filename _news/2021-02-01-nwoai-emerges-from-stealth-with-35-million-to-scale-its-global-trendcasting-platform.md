@@ -35,20 +35,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 66
-  - title: "Pinecone Raises $10M in Funding"
-    excerpt: "PineconeSystems Inc., a Sunnyvale, California, New York and Tel Aviv, Israel-based machine learning (ML) cloud infrastructure company, raised $10m in seed funding"
-    publishedDateTime: 2021-01-28T09:36:00Z
-    webUrl: "https://www.finsmes.com/2021/01/pinecone-raises-10m-in-funding.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 39
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2018/07/espressive-400x293.jpg"
-        width: 400
-        height: 293
-        isCached: true
 
 secured: "rHYrQKN6OKrQgmoNnjRAVgI5QjDM4lHUu03vZ2bTk66RtQX/etVb5Obgvs2cRu5iupnq+CzV+aTbXNuUGUBgqs1BBulI2vOo8tNdqXimVWeViywlYr0+Cwps9uMjA00hXcBlKOfqyu4Or65KFi8Eww+PjoOMjy8MuO8p5x4AErUTQif5VpqgTky1fo1lNnAAFv6EMhmiEXf8po4p0xNZxwMmxIEnsOCX2yLoEGvwoLPZupWjheWLCgVBu6qkqhQtxC4fijiVaJ4FwqGPjFHNHI/9iQ3joDgqCQduevWlWLuurAC3PNxqv8LEPcXk+evq+VO7kjGQ99+PWYBnCnD431nGjVgaqj+CG81Pb48Z37A=;TFp/gSpOnZXvNAvCx7F6Wg=="
 ---

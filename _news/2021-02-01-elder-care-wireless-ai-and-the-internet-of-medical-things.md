@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/01/elder-care-wireless-ai-and-the-in
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/01/elder-care-wireless-ai-and-the-internet-of-medical-things/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -86,6 +86,20 @@ related:
       - url: "https://www.powermag.com/wp-content/uploads/2021/01/screen-shot-2021-01-29-at-9-28-06-am.png"
         width: 885
         height: 596
+        isCached: true
+  - title: "Perimeter Medical Imaging AI Announces Acceleration of Expiry Date of Warrants"
+    excerpt: "Perimeter Medical Imaging AI, Inc. (TSX-V:PINK)(OTC:PYNKF) (FSE:4PC) (“Perimeter” or the “Company”), a medical technology company driven to transform cancer surgery with ultra-high-resolution, real-time,"
+    publishedDateTime: 2021-02-02T01:39:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-technology-ontario-products-and-services-government-regulations-9d97a080a8824a2bb884adcd4308cb40"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 33
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "RKqHgsPQp7XKwFZqRuAx9xXlKQLyjJFhj5WbTTA8++IcZZ0E0T93xJqNvvDvTHq4G+d1vO/VgSXlhZ3BBPvpSqbKEswBW2RknvMbRbY70Mtz8pwpfa8LKERj0oekvEyJ1Smfn1hu8F4FWjKaQ9ldRE82CaBaIxJ05l+4R+K57jhAGmFpbBaq7O/9ifJg0zFMwRq9+yUav7ZggkVBv9NlzW1QeeStCLnmVpEYx0XjDo4JOFcyPmKsXFC/tsQkLcdPcpLWrN1xGXwVSD9IaiySZslbcsnMGvOMwAfExMZbi5PCQIg9uBGkyVGIa2ejXfvQGJOwEIHyQuojV/sTXb8ix4JEJuoYGARpK7FCevmxDv2H3qFgrOFB8xxJMwXdd9Y19WBUYhdG5Cd0nvwTkKsuFNc+7Vbx/Nhlil8TBa7kRO/45Ld3HsyNynXJ0smaZ6E32NMzoNxQ/H7QTAI7Wx9T8A1C13jQ2urq9xO0tUExv9iEQRnU9vHRUaKP74JoOCBY7d3fBZHWDvEytS270erw1A==;XK+J0laXL1bv7v+O58ua/Q=="
