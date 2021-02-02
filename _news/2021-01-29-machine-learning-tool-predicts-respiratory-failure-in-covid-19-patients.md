@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/science-technology-
 webUrl: "https://apnews.com/press-release/business-wire/science-technology-diseases-and-conditions-medical-technology-lung-disease-1b94a3d69e2541ee8e9d75b2cfb03f8f"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "New machine learning model predicts COVID-19 severity"
-    excerpt: "COVID-19 vaccine distribution has begun across the globe, while many countries are still struggling with the rampant rise of infections."
-    publishedDateTime: 2021-01-29T04:06:00Z
-    webUrl: "https://www.news-medical.net/news/20210128/New-machine-learning-model-predicts-COVID-19-severity.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20210128/New-machine-learning-model-predicts-COVID-19-severity.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210128/New-machine-learning-model-predicts-COVID-19-severity.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 59
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/1/CT_machine_is_prepared_for_the_patient_shooting-sfam_photo_698c003ae3d54b69bf4c077708d403e4-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
   - title: "Research proposals to address COVID-19 challenges sought"
     excerpt: "Washington University's McDonnell International Scholars Academy and Social Policy Institute seek proposals from WashU researchers and their international partners to identify and address the challenges of COVID-19 through artificial intelligence,"
     publishedDateTime: 2021-02-01T20:28:00Z

@@ -1,31 +1,27 @@
 ---
 category: news
 title: "Shell, C3 AI, Baker Hughes, and Microsoft Launch the Open AI Energy Initiative, an Ecosystem of AI Solutions to Help Transform the Energy Industry"
-excerpt: "Baker Hughes (NYSE:BKR), and Microsoft (NASDAQ:MSFT) today announced the launch of the Open AI Energy Initiative™ (OAI),"
-publishedDateTime: 2021-02-02T11:37:00Z
-originalUrl: "https://www.marketwatch.com/press-release/shell-c3-ai-baker-hughes-and-microsoft-launch-the-open-ai-energy-initiative-an-ecosystem-of-ai-solutions-to-help-transform-the-energy-industry-2021-02-02"
-webUrl: "https://www.marketwatch.com/press-release/shell-c3-ai-baker-hughes-and-microsoft-launch-the-open-ai-energy-initiative-an-ecosystem-of-ai-solutions-to-help-transform-the-energy-industry-2021-02-02"
+excerpt: "Shell (NYSE:RDS), C3 AI (NYSE:AI), Baker Hughes (NYSE:BKR), and Microsoft (NASDAQ:MSFT) today announced the launch of the Open AI Energy Initiative™ (OAI), a first-of-its-kind open ecosystem of artificial intelligence (AI)-based solutions for the energy and process industries."
+publishedDateTime: 2021-02-01T22:11:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/science-business-technology-products-and-services-western-europe-b056c939a84e4ff0b2e9e8154e0e108e"
+webUrl: "https://apnews.com/press-release/business-wire/science-business-technology-products-and-services-western-europe-b056c939a84e4ff0b2e9e8154e0e108e"
 type: article
-quality: 46
+quality: 16
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - Microsoft AI
   - AI
+  - Microsoft AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -47,10 +43,10 @@ related:
         isCached: true
   - title: "Microsoft and the workplace of the future: How AI can help you build more productive relationships with your colleagues"
     excerpt: "Microsoft wants to help organizations use their data to deliver experiences, insights and outcomes. But careful design, clear ethics and full transparency are required to keep the AI in check."
-    publishedDateTime: 2021-02-02T11:22:00Z
-    webUrl: "https://www.techrepublic.com/article/microsoft-and-the-workplace-of-the-future-how-ai-can-help-you-build-more-productive-relationships-with-your-colleagues/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-and-the-workplace-of-the-future-how-ai-can-help-you-build-more-productive-relationships-with-your-colleagues/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-and-the-workplace-of-the-future-how-ai-can-help-you-build-more-productive-relationships-with-your-colleagues/"
+    publishedDateTime: 2021-02-02T03:19:00Z
+    webUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/article/microsoft-and-the-workplace-of-the-future-how-ai-can-help-you-build-more-productive-relationships-with-your-colleagues/"
+    ampWebUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/microsoft-and-the-workplace-of-the-future-how-ai-can-help-you-build-more-productive-relationships-with-your-colleagues/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/microsoft-and-the-workplace-of-the-future-how-ai-can-help-you-build-more-productive-relationships-with-your-colleagues/"
     type: article
     provider:
       name: TechRepublic
@@ -103,6 +99,6 @@ related:
         height: 360
         isCached: true
 
-secured: "CldEMVfZOvwcaEQXb4KPjooWnei2J5dIqUPZPz3srK8FkIqhJyq0w5gfonSD+RKWfYJdzWer4gCXqn1kG1K2Xmzhd8Au3KWjHyX+Q0WrgquRNdnRHWzbyzMcHLNOdim09ATBECFCn0SDu0UH4pn5SReDqZcSnUspIdGzPlvH+Gt5m4s7MIW0yiPg79wqoR3o9+gDb3VPrcnXegr/cyW5IVq1MCrUqUQJQyDNf20L/jYG4y554cY4kwzMjVKrcvvC/gRPkPwgHGCk4LY2LtePP2Yqkd8I/PP2OZmrY6T3Cff5OSvOL7K8Obj7k6MJhHTA+7nUTci501feVt31wj0zrxaiSwkvWQ/6QtvkjhARUKg=;peeWpe3Zx318PgLLs7km3g=="
+secured: "XGe+J+0X0Dr9bYApLe5tDfiFD0hrxiGDuGlYpgqPUAYCRAxYlDxlR+witSpuvx1Ez1PMAsSMIKXcxVtwpvZ/v7KNEEvdOLzszVMIPb6on2fQm5jNj6YJiFgubNaRKGZHT+Jtg1oFTszl3S++uSxRLuv7g5T882aJSHWnFv1LldW2zbRv9NdLxbRrHD8ScCtRaI4W68+wiU4moCjJh+tlbEalVeE2B8quvyliPwcTk6SPi4x9yytb7G2gmGySPYvKexvLvQTnCS9CFHqopjzYeCGIX41SCpbaXnX6BolpgCRwsoC6sq1mLcmFKFnpRa4PP7eqT1DesOyYyCWpthHyjvNWc35ha1MtjI/gndv5P0Y=;OXcOpGTigTl+K97CfYiZ4A=="
 ---
 

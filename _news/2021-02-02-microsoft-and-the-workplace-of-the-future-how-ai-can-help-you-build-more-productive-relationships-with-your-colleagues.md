@@ -2,11 +2,11 @@
 category: news
 title: "Microsoft and the workplace of the future: How AI can help you build more productive relationships with your colleagues"
 excerpt: "Microsoft wants to help organizations use their data to deliver experiences, insights and outcomes. But careful design, clear ethics and full transparency are required to keep the AI in check."
-publishedDateTime: 2021-02-02T11:22:00Z
-originalUrl: "https://www.techrepublic.com/article/microsoft-and-the-workplace-of-the-future-how-ai-can-help-you-build-more-productive-relationships-with-your-colleagues/"
-webUrl: "https://www.techrepublic.com/article/microsoft-and-the-workplace-of-the-future-how-ai-can-help-you-build-more-productive-relationships-with-your-colleagues/"
-ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-and-the-workplace-of-the-future-how-ai-can-help-you-build-more-productive-relationships-with-your-colleagues/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-and-the-workplace-of-the-future-how-ai-can-help-you-build-more-productive-relationships-with-your-colleagues/"
+publishedDateTime: 2021-02-02T03:19:00Z
+originalUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/article/microsoft-and-the-workplace-of-the-future-how-ai-can-help-you-build-more-productive-relationships-with-your-colleagues/"
+webUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/article/microsoft-and-the-workplace-of-the-future-how-ai-can-help-you-build-more-productive-relationships-with-your-colleagues/"
+ampWebUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/microsoft-and-the-workplace-of-the-future-how-ai-can-help-you-build-more-productive-relationships-with-your-colleagues/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/microsoft-and-the-workplace-of-the-future-how-ai-can-help-you-build-more-productive-relationships-with-your-colleagues/"
 type: article
 quality: 82
 heat: -1
@@ -64,20 +64,6 @@ related:
         width: 605
         height: 500
         isCached: true
-  - title: "Shell, C3 AI, Baker Hughes, and Microsoft Launch the Open AI Energy Initiative, an Ecosystem of AI Solutions to Help Transform the Energy Industry"
-    excerpt: "Baker Hughes (NYSE:BKR), and Microsoft (NASDAQ:MSFT) today announced the launch of the Open AI Energy Initiative™ (OAI),"
-    publishedDateTime: 2021-02-02T11:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/shell-c3-ai-baker-hughes-and-microsoft-launch-the-open-ai-energy-initiative-an-ecosystem-of-ai-solutions-to-help-transform-the-energy-industry-2021-02-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "BKR, RDS, AI and MSFT Launch AI Energy Initiative"
     excerpt: "C3 AI (NYSE: AI), and Microsoft (NASDAQ: MSFT) have announced the launch of the Open AI Energy Initiative. Baker Hughes (NYSE: BKR), Shell (NYSE: RDS), C3 AI (NYSE: AI), and Microsoft (NASDAQ: MSFT) have announced the launch of the Open AI Energy Initiative (OAI),"
     publishedDateTime: 2021-02-02T11:38:00Z
@@ -103,7 +89,21 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Shell, C3 AI, Baker Hughes, and Microsoft Launch the Open AI Energy Initiative, an Ecosystem of AI Solutions to Help Transform the Energy Industry"
+    excerpt: "Shell (NYSE:RDS), C3 AI (NYSE:AI), Baker Hughes (NYSE:BKR), and Microsoft (NASDAQ:MSFT) today announced the launch of the Open AI Energy Initiative™ (OAI), a first-of-its-kind open ecosystem of artificial intelligence (AI)-based solutions for the energy and process industries."
+    publishedDateTime: 2021-02-01T22:11:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/science-business-technology-products-and-services-western-europe-b056c939a84e4ff0b2e9e8154e0e108e"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 16
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
-secured: "jrfjCZyXq6CqMV3KzA0jbldUWiT5VzGVy/qNn5d7o3iv+bjOsnT1Nz3Bec9HstbXwNN4yjbIuS/hrfehwQYb68vOAKB/1PhRs5DLQn4F1Ckv3vm5o6rtXjQmrO9dAFC9B5woTxBFM7/qOcnbM0mX6tKenkwLrsvtLuBIWaiRqu4ilaZxsv3U6jqmQOliCeAJuXkcbbKcYa+cm36mLDKqnHZE6z3E+XUaBDeFJKD8W+uAOGWs4A70yqKTCXOC40we2W7SBRT2iFtU/xv0E9L0ORIoc/sx6/vhliru76BdcyKyQCq3i4LKOPxA9GSdlSKyrGO5yc0kj5ILxnQzByKkk1E+dpg8dtW1PxCmprb2zKE=;hM8U1y00rvDjD1zvyD7fYw=="
+secured: "XIaDj8vaS0/rbeHudU7HGNiZh0/lD9hxWn642lRpn8y6cOFSvI5P2LeFZ/sNpEjc9NC55NtdGu3SLaiAp9Pvgae9+Gp+Id4i5T5DlN5alDD7s3MdDetb713OS7zWqapNu3kiZkBeCk4aoXkyeojK7RONIDrTUIU6o86B53WeqIu6URTN629eNp6FbjaeQ67MHlN3pLT9T++NC8q2ArD3pQd7gjWeM1+7m3ullL3MJlzGvdWPSHzqMzWrOonuLtbSTiyPmmpMjCd4edPMkZaVdfcmWCarmsJJc/oShFKnBy9z4A01VDXS7WNWjb0aaHSpd1SVzr/tdyA00rGPjgY3qPyKMjuGgFsYJYMakY9CebA=;N9XAbVafkl8xi80PBzNoaA=="
 ---
 

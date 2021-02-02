@@ -9,8 +9,8 @@ ampWebUrl: "https://www.business2community.com/business-intelligence/5-artificia
 cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-intelligence/5-artificial-intelligence-predictions-for-2021-02382937/amp"
 type: article
 quality: 57
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business 2 Community
@@ -26,49 +26,50 @@ images:
     isCached: true
 
 related:
-  - title: "HSBC launches AI pricing chatbot for foreign exchange options"
-    excerpt: "The chatbot uses natural language processing (NLP) to analyse information from numerous sources and distribute it to clients as well as internally within the bank."
-    publishedDateTime: 2021-02-02T12:21:00Z
-    webUrl: "https://www.thetradenews.com/hsbc-launches-ai-pricing-chatbot-for-foreign-exchange-options/"
+  - title: "How AI Can Be The Key To Loyalty And Retention For Retail In 2021"
+    excerpt: "How Artificial Intelligence Can Be the Key to Loyalty and Retention in 2021 Leveraging emerging technologies can help retailers make sense of data As the dust settles on the disruption that was 2020,"
+    publishedDateTime: 2021-02-02T17:36:00Z
+    webUrl: "https://www.forbes.com/sites/jonathantreiber/2021/02/02/how-artificial-intelligence-can-be-the-key-to-loyalty-and-retention-in-2021/"
+    ampWebUrl: "https://www.forbes.com/sites/jonathantreiber/2021/02/02/how-artificial-intelligence-can-be-the-key-to-loyalty-and-retention-in-2021/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonathantreiber/2021/02/02/how-artificial-intelligence-can-be-the-key-to-loyalty-and-retention-in-2021/amp/"
     type: article
     provider:
-      name: The TRADE
-      domain: thetradenews.com
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.thetradenews.com/wp-content/uploads/2020/12/LiTDX-260x260-1-300x300.jpg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "AI art critic can predict which emotions a painting will evoke"
-    excerpt: "An AI can guess how a person will feel when viewing art and write a caption that passes as human-sounding 50 per cent of the time"
-    publishedDateTime: 2021-01-29T09:27:00Z
-    webUrl: "https://www.newscientist.com/article/2266240-ai-art-critic-can-predict-which-emotions-a-painting-will-evoke/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2021/01/28215620/29-jan_ai-critic.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60198c7fc5ca2949770a813f%2F0x0.jpg"
         width: 1200
-        height: 800
+        height: 697
         isCached: true
-  - title: "Predictions for 2021 – Machine Learning will become Ubiquitous – Four Things We Need to Do Now"
-    excerpt: "It wasn’t too long ago that concepts like communicating with your friends in real-time through text or accessing your bank account information all from a mobi"
-    publishedDateTime: 2021-01-29T04:22:00Z
-    webUrl: "https://www.cxotoday.com/corner-office/predictions-for-2021-machine-learning-will-become-ubiquitous-four-things-we-need-to-do-now/"
+  - title: "How Artificial Intelligence Can Be The Key To Loyalty And Retention In 2021"
+    excerpt: "How Artificial Intelligence Can Be the Key to Loyalty and Retention in 2021 Leveraging emerging technologies can help retailers make sense of data As the dust settles on the disruption that was 2020,"
+    publishedDateTime: 2021-02-02T17:36:00Z
+    webUrl: "https://www.forbes.com/sites/jonathantreiber/2021/02/02/how-artificial-intelligence-can-be-the-key-to-loyalty-and-retention-in-2021/"
+    ampWebUrl: "https://www.forbes.com/sites/jonathantreiber/2021/02/02/how-artificial-intelligence-can-be-the-key-to-loyalty-and-retention-in-2021/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonathantreiber/2021/02/02/how-artificial-intelligence-can-be-the-key-to-loyalty-and-retention-in-2021/amp/"
     type: article
     provider:
-      name: CXO Today
-      domain: cxotoday.com
-    quality: 29
+      name: Forbes
+      domain: forbes.com
+    quality: 85
     images:
-      - url: "https://www.cxotoday.com/ashojoac/2021/01/Swami-Sivasubramanian-1-1.jpg"
-        width: 600
-        height: 467
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60198c7fc5ca2949770a813f%2F0x0.jpg"
+        width: 1200
+        height: 697
         isCached: true
+  - title: "AI and data analytics are the key to SME recovery in 2021"
+    excerpt: "For most enterprises, the bulk of new revenue opportunities into the future will come from digital sources, as customer engagement through to product development shifts how businesses operate. To take advantage of this as an opportunity,"
+    publishedDateTime: 2021-02-02T13:19:00Z
+    webUrl: "https://www.zdnet.com/paid-content/article/ai-and-data-analytics-are-the-key-to-sme-recovery-in-2021/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-and-data-analytics-are-the-key-to-sme-recovery-in-2021/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-and-data-analytics-are-the-key-to-sme-recovery-in-2021/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
 
-secured: "0uiMD+vtuR+w0yuCZzN0hli0G8eR3ZLYj94SsVd/X0tDIq9R0pCfrEgg7OkUrgRZnIU5tzCSHb0m94S1u6UUx5x1DoAkIVrqFMtmeo0TSH8cjnmtxYVvyBtwyf3mKH1C8l3UWloVNedmPK1FB/onRIAzVYjiJUTQKYVdhEsQIaqsIGxYD+1/S6Ll2bF5g3K0hBGaAdfZlWOhscSqfVZU4KMWEYyKzcnvTa7WfCDU9rSALD/chD/SeROyHmMmYqLPpdHnDyfSKzSZJA4dhOzRgryy0xm08nA5605DZACcltAdAPpFDFiPMgdwnuRqo52aauxeNx3PMv/C2k2XrVVVspkIRb4V6v93W4Te7p4i0j4=;tQW5+sMeQqgRYACfl03k9w=="
+secured: "esL/GQFszBup7AoMijZ/13Zipn1vh8z32PEH0M+O73UpAswoI+qy+nqxNUfDSIbbWlqYOo+ENr+9+yEqdFkoVKzrUV3mLDzo/x26YKybnxPBip7KVN9CjSA2TmVrhllWG2A7aNESRJOGm9tTQT6ng8bg+rM15O1sW5OrD0JIahuEkmJwTOcGYv0QmY8UzrX6hdIM+NfzeQPOhpuD1lhQ8py4uwgbV651LlIdVDWwOtwS0ycMX5kJK+2IqPHwU1TrZzxIdiY6g6ddBFj7QjPWdhkZ8gBKGfI+Jjtpwm6IVkfw9gVyNHHEyIh7Gm36JlRjRpfeHqCM1abo8kGnadmo6wuCqgKrbooFp66Thn7puFM8p2t30W0d7ZFi5mu+1yHYg9TxosHPpt5D+2aEVaWK0+aCH9U9WZerKgZww4vSmlFpakBvBp840xiDkqPdhy3jAJkuOAf7hw9QyTzFOd/0p31W8Q6dk2gq1WhyY6uMcehdrM1uuZZ9tqhNOARRrknxoTKaAQMlGblLS0T436wOdw==;rKQLtvrQ8WVgefXrYXHTPw=="
 ---
 

@@ -1,32 +1,22 @@
 ---
 category: news
 title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
-excerpt: "Observe.AI platform now available in the Microsoft Azure Marketplace and AppSource Business"
-publishedDateTime: 2021-02-02T17:08:00Z
-originalUrl: "https://www.bloomberg.com/press-releases/2021-02-02/observe-ai-and-microsoft-team-up-to-redefine-customer-experience-with-contact-center-ai"
-webUrl: "https://www.bloomberg.com/press-releases/2021-02-02/observe-ai-and-microsoft-team-up-to-redefine-customer-experience-with-contact-center-ai"
+excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance"
+publishedDateTime: 2021-02-02T17:17:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
+webUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
 type: article
-quality: 76
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
-  - AI
   - Microsoft AI
-
-images:
-  - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-    width: 1200
-    height: 630
-    isCached: true
+  - AI
 
 related:
   - title: "Microsoft's cutting-edge machine-learning tool moves from the lab to the mainstream"
@@ -177,6 +167,6 @@ related:
         height: 630
         isCached: true
 
-secured: "0gYmv4ACSf2pVoenHYE63dmlqzJ6fpO46VXkf9F+lRp9CXQMEX7UF3HyCOmT9suiTmfioKwRlECteIIkE2z+mrMJtvo9KQysMeM9ifZPcO+8+TspclACjuC/q28v1tnNjhxZUFjhqy7w3W0RgRvLzMIFyiYgBlS97f6yZzB5YISEf5eMLUKWKsb/bR6JkrobebGh++rjr84DNz/D+BYsa96rqeJVZmtgvjlyt5vqGBUyh1JkdbrMdmJyw1oW7taxrBnnftytWgPvUARVKlJ9cl99rmBF+wjL/17OlBPXgCjp0cOOYC1GPNWpvdwJAcQ10NRdmcUXt9iw46eRmcWj3SKaOOdfeD3b2VIvEuqYlIc=;UKC7bw/rl77PqmaEgDTPDQ=="
+secured: "mjjIDVECFjPSndQ4n4CwlzHWaAjSDPfXGnuwlOFfy/46AkBvGVw52nYa0ft72hOQnb/I83GqjqXJXCBXWFN9hpp6iAYbbo0MFg4xdBdrELLhfS45yCDjCCjQ+HxgPaU3nHayEZEwXG0t8XDlpAgjrRtdQgXPV5UYpq5wEWLIUpNUZrOVPRU7wcowrAgUpfC44sh/dC9bk5ZJaqUnmaE7CWS1P6+M+O2k/0PzlT0nuFFeLnPp+RoI+xV5HFpaeVMbQ33jVq8U59KFwkJ3pBrMAG1w/XSTt+kxrPcaZ8TeSRZifRncdEKmbotB/RferLsayrWAN1fjsF0riKgSYL9gwGihhmfAEfoIRglPte882PU=;WOpFJJv8lJn5x0S8RHYX9A=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.compsmag.com/news/technology/safari-turns-on-speech-reco
 cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/safari-turns-on-speech-recognition-by-default-tech-preview-of-release/amp/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 109
+published: true
 
 provider:
   name: Windows
@@ -27,53 +27,75 @@ images:
     isCached: true
 
 related:
-  - title: "Spotify is developing speech-recognition tech to detect your mood and suggest music"
-    excerpt: "Global music-streaming giant Spotify has recently been granted a patent for a new technology which will allow it to analyze its users' voice data – including speech recognition and background noise – with an eye to suggesting music based on what it finds."
-    publishedDateTime: 2021-01-29T03:13:00Z
-    webUrl: "https://www.techradar.com/in/news/spotify-is-developing-speech-recognition-tech-to-detect-your-mood-and-suggest-music"
-    ampWebUrl: "https://www.techradar.com/in/amp/news/spotify-is-developing-speech-recognition-tech-to-detect-your-mood-and-suggest-music"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/spotify-is-developing-speech-recognition-tech-to-detect-your-mood-and-suggest-music"
+  - title: "Nuance Dragon Medical One Earns #1 Best in KLAS Award for Speech Recognition: Front-End EMR"
+    excerpt: "Nuance Communications, Inc. (NASDAQ: NUAN) today announced that Nuance Dragon® Medical One cloud-based speech recognition platform captured top honors as the 2021 Best in KLAS: Software & Services award winner,"
+    publishedDateTime: 2021-02-02T20:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/nuance-dragon-medical-one-earns-1-best-in-klas-award-for-speech-recognition-front-end-emr-2021-02-02"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 68
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/FSkiiycgcqqGc9sF8moAXN-1200-80.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "Spotify patents technology to recommend songs based on the speech, emotion of users"
-    excerpt: "Spotify patents technology to recommend songs based on the speech, emotion of users The music streaming company Spotify has been patented"
-    publishedDateTime: 2021-01-31T00:25:00Z
-    webUrl: "https://www.compsmag.com/news/technology/spotify-patents-technology-to-recommend-songs-based-on-the-speech-emotion-of-users/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/spotify-patents-technology-to-recommend-songs-based-on-the-speech-emotion-of-users/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/spotify-patents-technology-to-recommend-songs-based-on-the-speech-emotion-of-users/amp/"
+  - title: "Emotion recognition tech in China raises rights concerns"
+    excerpt: "Technology that measures emotions based on biometric indicators such as facial movements, tone of voice or body movements is increasingly being marketed in China, researchers say, despite concerns about its accuracy and wider human rights implications."
+    publishedDateTime: 2021-01-30T16:03:00Z
+    webUrl: "https://www.taipeitimes.com/News/biz/archives/2021/01/31/2003751475"
     type: article
     provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 38
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 39
     images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/Spotify-patents-technology-to-recommend-songs-based-on-the-speech.jpg"
-        width: 1366
-        height: 768
+      - url: "https://www.taipeitimes.com/assets/images/TaipeiTimesLogo-1200X1200px_new.jpg"
+        width: 1200
+        height: 1200
         isCached: true
-  - title: "Spotify wants to analyse your VOICE and suggest songs based on your emotions, patent reveals"
-    excerpt: "Spotify was granted a patent on January 12 that lets them listen to your voice to determine your age, gender, accent and current emotional state to pick songs you might want to hear."
-    publishedDateTime: 2021-01-29T10:32:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-9201017/Spotify-wants-analyse-VOICE-suggest-songs-based-emotions-patent-reveals.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9201017/amp/Spotify-wants-analyse-VOICE-suggest-songs-based-emotions-patent-reveals.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9201017/amp/Spotify-wants-analyse-VOICE-suggest-songs-based-emotions-patent-reveals.html"
+  - title: "China growing use of emotion recognition tech raises rights concerns"
+    excerpt: "Technology that measures emotions based on biometric indicators such as facial movements, tone of voice or body movements, is increasingly being marketed in China, researchers say, despite concerns about its accuracy and wider human rights implications."
+    publishedDateTime: 2021-02-01T04:12:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/02/01/china-growing-use-of-emotion-recognition-tech-raises-rights-concerns"
     type: article
     provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 33
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
     images:
-      - url: "https://i.dailymail.co.uk/1s/2021/01/29/10/38627706-0-image-a-8_1611916146087.jpg"
-        width: 636
-        height: 382
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/01/31/1027888.jpg"
+        width: 1240
+        height: 826
+        isCached: true
+  - title: "Spotify patent hints at speech recognition for music recommendations"
+    excerpt: "Spotify has been granted a patent for the invention of a system to use speech recognition and analysis to create individually recommended music choices."
+    publishedDateTime: 2021-02-02T19:28:00Z
+    webUrl: "https://www.biometricupdate.com/202102/spotify-patent-hints-at-speech-recognition-for-music-recommendations"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/02142013/spotify-patent-personalization-speech-recognition.jpg"
+        width: 608
+        height: 405
+        isCached: true
+  - title: "Nuance Dragon Medical One Earns #1 Best in KLAS Award for Speech Recognition: Front-End EMR"
+    excerpt: "Nuance Communications, Inc. (NASDAQ: NUAN) today announced that Nuance Dragon® Medical One cloud-based speech recognition platform captured"
+    publishedDateTime: 2021-02-02T13:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/nuance-dragon-medical-one-earns-1-best-in-klas-award-for-speech-recognition-front-end-emr-301219608.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 29
+    images:
+      - url: "https://mma.prnewswire.com/media/1156940/Nuance_Communications_Logo.jpg?p=facebook"
+        width: 1500
+        height: 785
         isCached: true
 
 secured: "bX3T5j2w0upJy+WzO5PmV1Wah5qKC5x2maqjNMEmZtMA91FtY8obx3S0+RFwHGF/AYgMMM/o5TdrfRL8NRP55I8Qt+HAhIko8dpYQNfhgO5cAukNo/atstTZJphY0m7cFuy1TjMFgy89sAOmdtKWniZvkh1DkF267xqSrKdLj8+ksrUTPOYHzi8CxcSNChqf1aYjrX+C3ywSIt/pByF87aPl6pZ60B45ce1n2szpm4Qr0YQuh2GhwKWq84qRMJICs/UvtcJf7I7CQeAZCOFjl3SGwQG7cZJ0WqBphOGRlFdbHctqMG55lCWezgPyFlCwVQUBZzXaDTlHpgKuAh1bmRYoAMBOuj2G9Edl7AiLkPi6aN8uAREeZcgN4Ec9kYeLC4r5oX1lwqkXpeHGlJURyxV+2uNw7ZK4xvy3t16w4re00VcGP3WWu7CJbtQ4i7cLV07TvlliQcBKbiNvbzP60tjC+RRQ/s3EF1h4eV4WLzvSpS5N59sjgOieIUVagez4jvJb4fGUiMpTaw0avT78CQ==;FTNXusGki13i/9BEWQKk1A=="

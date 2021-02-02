@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bostonglobe.com/2021/01/29/metro/colby-college-launches-
 cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/01/29/metro/colby-college-launches-machine-learning-institute/?outputType=amp"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -21,20 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Colby College announces Davis Institute for Artificial Intelligence"
-    excerpt: "The new Colby College Davis Institute for Artificial Intelligence will be the first of its kind, school officials say. Announced by the college at a virtual event Wednesday evening, the institute is believed by administration to be the first and only of its nature at a small U."
-    publishedDateTime: 2021-01-29T04:24:00Z
-    webUrl: "https://www.pressherald.com/2021/01/28/colby-college-announces-davis-institute-for-artificial-intelligence/"
-    type: article
-    provider:
-      name: Portland Press Herald
-      domain: pressherald.com
-    quality: 39
-    images:
-      - url: "https://multifiles.pressherald.com/uploads/sites/10/2019/04/4595150_20190422-colby-art-1-1024x887.jpg"
-        width: 1024
-        height: 887
-        isCached: true
   - title: "Colby College to start artificial-intelligence institute"
     excerpt: "A Maine college is working to establish an institute for artificial intelligence that it said would be the first of its kind at a liberal arts college. The Davis Institute for Artificial Intelligence will “provide new pathways for talented students and faculty to research,"
     publishedDateTime: 2021-01-29T15:32:00Z

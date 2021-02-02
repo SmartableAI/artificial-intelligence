@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "New machine learning model predicts COVID-19 severity"
-    excerpt: "COVID-19 vaccine distribution has begun across the globe, while many countries are still struggling with the rampant rise of infections."
-    publishedDateTime: 2021-01-29T04:06:00Z
-    webUrl: "https://www.news-medical.net/news/20210128/New-machine-learning-model-predicts-COVID-19-severity.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20210128/New-machine-learning-model-predicts-COVID-19-severity.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210128/New-machine-learning-model-predicts-COVID-19-severity.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 59
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/1/CT_machine_is_prepared_for_the_patient_shooting-sfam_photo_698c003ae3d54b69bf4c077708d403e4-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
   - title: "Machine learning tool predicts respiratory failure in COVID-19 patients"
     excerpt: "In an effort to expedite care for coronavirus disease 2019 (COVID-19) patients upon hospital admission, a team at The Feinstein Institutes for Medical Research has developed a machine learning (ML) artificial intelligence (AI) powered clinical predictive tool that can accurately assess patients for the risk of respiratory failure within 48 hours."
     publishedDateTime: 2021-01-29T07:59:00Z

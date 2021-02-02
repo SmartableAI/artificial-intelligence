@@ -1,17 +1,19 @@
 ---
 category: news
 title: "Supermicro Unveils NVIDIA GPU Server Test Drive Program with Leading Channel Partners to Deliver Workload Qualification on Remote Supermicro Servers"
-excerpt: "\"Supermicro's collaboration with NVIDIA in the GPU test drive program delivers through channel partners a unique opportunity to test workloads on remote Supermicro servers leveraging NVIDIA's HGX A100 platforms,"
-publishedDateTime: 2021-01-20T09:00:00Z
-originalUrl: "https://www.marketwatch.com/press-release/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-2021-01-20"
-webUrl: "https://www.marketwatch.com/press-release/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-2021-01-20"
+excerpt: "GPU or 4U HGX A100 8-GPU Systems Through Channel Partners – EMEA: Boston and Broadberry; North/Latin America: Colfax, Exxact, Microway, Thinkmate, and AMAX – Enabling Fast-track Testing of Industry-Leading Platforms SAN JOSE,"
+publishedDateTime: 2021-01-20T14:28:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-1029986600"
+webUrl: "https://markets.businessinsider.com/news/stocks/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-1029986600"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-1029986600"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-1029986600"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -19,12 +21,6 @@ topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "66oQoXae7gRoazBJtpn1UmoahOABUYBnAUdIIWkd1FVZVYuZLzyHTgqWJoTOPIKvkmyhbn+THGD0XelXdTfVvmZIMlX1Tp3qb5rVdYafUGnyP4ulk2HWPP68CDdIHJxWc0guQFbGq9ue8Xm8OFmRI7zXpVKwGZX6ldqbmgzVbCkuN6X6PPrZzM60poSdjhZByXcZqCM2FACmSEeCtIwYLNpN8nXnvouJJfcLqM4uVAlQtEfWlhg2FYsa37RJyfcPXUyy1QccWFrKIUIW/GKlYb4DL7mQ52tFdg/UbqFe2gKyGd8FLgr7whOFYoXodN7+IFieKuzdvB9q5zMs9ir4bp9hieam2o7tVmljMjkbwTY=;A3bZhIte7uYcA1WOQZOa1g=="
+secured: "MhEYV1B7N75GS2A6OGTONq1HKIpqjZSnB7r1OpamdCfkfhYv7MDl2GFM70m9Htb1L8xz9qY3ZNyjofdkg+RMqp/3Rjf7+/EiAFEKj2FAqwve8N+IQKngVG5VCeIuKMW8HGaNdsWqafq8mj6MMvx2pKyq/TwNgVswKGYvGig30CkeO7/1kUyVvp66pmNGZTJgAP49n65mFPejBr5JcdJtnfi9KYIoWrZuWbvrDZHaDqVlTs04tGXjPXGK4VJhn0DOBTvFo3hT4aAwtK1ryPcCzXU7j1zVzDfa/NX048NLtsUIQRZbN5CekbxefvLiovGUxnneXyM9I05ansK9yjEB3/mM4aIiq6J1xADJ3sdiu/w=;9iACbN//XtNRxiaCQdnqfA=="
 ---
 

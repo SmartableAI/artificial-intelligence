@@ -50,6 +50,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "AI Applied in Enterprises: Information Architecture, Decision Optimization, and Operationalization"
+    excerpt: "Thomas Schaeck is an IBM Distinguished Engineer at IBM Data and AI, leading Watson Studio on IBM Cloud. On a one-year assignment in the USA in 2013 - 2014, Schaeck led transformation of ..."
+    publishedDateTime: 2021-01-31T15:20:00Z
+    webUrl: "https://www.infoq.com/articles/AI-applied-architecture-decision-optimization/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 25
+    images:
+      - url: "https://res.infoq.com/articles/AI-applied-architecture-decision-optimization/en/headerimage/deploying-ai-in-the-enterprise-big-1611926216131.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Worldwide Conversational AI Industry to 2027 - Strategic Recommendations for New Entrants - ResearchAndMarkets.com"
     excerpt: "The “Conversational AI - Global Market Outlook (2019-2027)” report has been added to ResearchAndMarkets.com’s offering. According to this report, the Global Conversational AI market accounted for $3.81 billion in 2019 and is expected to reach $18."
     publishedDateTime: 2021-01-29T08:01:00Z

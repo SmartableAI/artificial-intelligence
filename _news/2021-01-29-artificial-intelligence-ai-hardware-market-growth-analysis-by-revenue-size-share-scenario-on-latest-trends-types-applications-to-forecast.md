@@ -140,6 +140,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Computer Vision Market 2021 Global Trends, Market Share, Industry Size, Growth, Opportunities, and Market Forecast to 2027"
+    excerpt: "New Study Reports \"Computer Vision Market 2021 Global Market Opportunities, Challenges, Strategies and Forecasts 2027\" has been Added on WiseGuyReports. This report provides in depth study of \"Computer Vision Market\" using SWOT analysis i."
+    publishedDateTime: 2021-02-02T20:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2021-global-trends-market-share-industry-size-growth-opportunities-and-market-forecast-to-2027-2021-02-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI-Based Fever Detection Camera Market Share, Growth Insight, Size, Competitive Analysis, Regional, And Global Forecast To 2027"
     excerpt: "How will the AI-based fever detection cameras help in battling COVID-19? Which region is likely to generate the highest revenue in the near future? Which segment would procure the largest share? What are the restraining factors of the AI-Based Fever Detection Camera Market?"
     publishedDateTime: 2021-02-01T13:52:00Z

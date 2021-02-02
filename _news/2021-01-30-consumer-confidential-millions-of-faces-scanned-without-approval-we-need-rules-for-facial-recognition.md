@@ -24,6 +24,19 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Millions of faces were scanned without approval. We need rules for facial recognition tech | Commentary"
+    excerpt: "Federal authorities say a San Francisco company scanned the faces of millions of people without their knowing it. What's needed are clear rules for how facial recognition technology can be collected and used,"
+    publishedDateTime: 2021-01-31T23:31:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/millions-of-faces-were-scanned-without-approval-we-need-rules-for-facial-recognition-tech-commentary/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/millions-of-faces-were-scanned-without-approval-we-need-rules-for-facial-recognition-tech-commentary/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/millions-of-faces-were-scanned-without-approval-we-need-rules-for-facial-recognition-tech-commentary/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 23
+
 secured: "u6g5Y740TyaFFKbJgu0YMZAqWwMRaAk4sF2DOQdc0aUbY3+vB0XL03CcY6rM9ogXwK/ctAk9AP64G+K3fIunIQC0TP/Z/yZtLnZzcjWqwFzDZtxs7XUBhtVAQzQmawVaRDrk9rUNpe5d74IpFd05m0p+Zda9FfcwV4O8kwCiuwag9uBF5xpEh3PSfe5nCL3BsHkQx6BO6oLGP4Ot0VfTSjz/3F2Bmam2NPlnJwCqrA00c0Cc3F6jslxc8aN68znRZtQakVe+g0T9kzgdmA0gmLVElXuSRxX5rV64FcInEtUH4VcUSjeVMf52JcQBAJrvfCoSeCZTqE/Bxx6Dh26HTRQbWlQPsgOS3uWmBn+unSI=;qIJa+tc9NRF+eP9qBivC9w=="
 ---
 

@@ -36,6 +36,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 73
+  - title: "AI Applied in Enterprises: Information Architecture, Decision Optimization, and Operationalization"
+    excerpt: "Thomas Schaeck is an IBM Distinguished Engineer at IBM Data and AI, leading Watson Studio on IBM Cloud. On a one-year assignment in the USA in 2013 - 2014, Schaeck led transformation of ..."
+    publishedDateTime: 2021-01-31T15:20:00Z
+    webUrl: "https://www.infoq.com/articles/AI-applied-architecture-decision-optimization/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 25
+    images:
+      - url: "https://res.infoq.com/articles/AI-applied-architecture-decision-optimization/en/headerimage/deploying-ai-in-the-enterprise-big-1611926216131.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facial Recognition Market Comprehensive Research Analysis Report in Market Industry | NEC Corporation and Aware Inc"
     excerpt: "MarketResearch.Biz :Facial Recognition Market 2021 Overview: The report provides quantitative and qualitative information on the global Facial Recognition market for the period of 2021 to 2030. Given the debilitating effect of COVID-19 (Coronavirus) on the Facial Recognition market,"
     publishedDateTime: 2021-01-29T07:59:00Z

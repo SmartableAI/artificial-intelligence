@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Hourly job-matching startup Landed raises $1.4M"
+    excerpt: "Landed, a startup aiming to improve the hiring process for hourly employers and job applicants, is officially launching its mobile app today. It’s also announcing that it has raised $1.4 million in seed funding."
+    publishedDateTime: 2021-02-02T19:53:00Z
+    webUrl: "https://techcrunch.com/2021/02/02/landed-seed-funding/"
+    ampWebUrl: "https://techcrunch.com/2021/02/02/landed-seed-funding/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/02/landed-seed-funding/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/02/LANDED_IMAGE_TC.jpg?w=1024"
+        width: 1024
+        height: 618
+        isCached: true
   - title: "Weights and Biases Raises $45M Series B to Expand Beyond Experiment Tracking for Machine Learning Practitioners Everywhere"
     excerpt: "Weights and Biases, the Experiment Tracking platform that is transforming how teams build and collaborate on Machine Learning (ML) models and operations (MLOps), announced today that it has raised a $45 million Series B investment round led by Insight Partners,"
     publishedDateTime: 2021-02-02T08:30:00Z

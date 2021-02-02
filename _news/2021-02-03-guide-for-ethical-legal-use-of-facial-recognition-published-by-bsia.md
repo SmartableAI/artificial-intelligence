@@ -1,0 +1,92 @@
+---
+category: news
+title: "Guide for ethical, legal use of facial recognition published by BSIA"
+excerpt: "The report explains the key factors companies have to take into consideration before choosing a facial recognition solution for their biometric security systems"
+publishedDateTime: 2021-02-02T20:55:00Z
+originalUrl: "https://www.biometricupdate.com/202102/guide-for-ethical-legal-use-of-facial-recognition-published-by-bsia"
+webUrl: "https://www.biometricupdate.com/202102/guide-for-ethical-legal-use-of-facial-recognition-published-by-bsia"
+type: article
+quality: 56
+heat: -1
+published: false
+
+provider:
+  name: Biometric Companies
+  domain: biometricupdate.com
+
+topics:
+  - Computer Vision
+  - AI
+  - AI Ethics
+
+images:
+  - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/07/25183012/Chincotech-facial-recognition.png"
+    width: 623
+    height: 432
+    isCached: true
+
+related:
+  - title: "Biometrics ethics group addresses public-private use of facial recognition"
+    excerpt: "Home Office’s Biometrics and Forensics Ethics Group releases briefing note on the use of live facial recognition in public–private collaborations following a year-long investigation."
+    publishedDateTime: 2021-01-29T18:19:00Z
+    webUrl: "https://www.computerweekly.com/news/252495597/Biometrics-ethics-group-address-public-private-use-of-facial-recognition"
+    ampWebUrl: "https://www.computerweekly.com/news/252495597/Biometrics-ethics-group-address-public-private-use-of-facial-recognition?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252495597/Biometrics-ethics-group-address-public-private-use-of-facial-recognition?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 74
+    images:
+      - url: "https://cdn.ttgtmedia.com/visuals/German/article/CCTV-facial-recognition-2-adobe.jpg"
+        width: 1200
+        height: 400
+        isCached: true
+  - title: "New ID and biometrics advisory board, ethical AI alliance formed by global organizations"
+    excerpt: "The Security Industry Association announced the foundation of an Identity and Biometric Technology Advisory Board, WEF forms group to take action on AI ethics"
+    publishedDateTime: 2021-01-29T23:14:00Z
+    webUrl: "https://www.biometricupdate.com/202101/new-id-and-biometrics-advisory-board-ethical-ai-alliance-formed-by-global-organizations"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 45
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/09/23155952/advisory-board-artificial-intelligence-leadership-1024x485.jpg"
+        width: 1024
+        height: 485
+        isCached: true
+  - title: "New rumors point to Touch ID and Face ID biometrics on the screen iPhone 13"
+    excerpt: "New rumors point to Touch ID and Face ID biometrics on the screen iPhone 13 The following iPhone 13 lineup may include biometric"
+    publishedDateTime: 2021-02-01T22:40:00Z
+    webUrl: "https://www.compsmag.com/news/apple/new-rumors-point-to-touch-id-and-face-id-biometrics-on-the-screen-iphone-13/"
+    ampWebUrl: "https://www.compsmag.com/news/apple/new-rumors-point-to-touch-id-and-face-id-biometrics-on-the-screen-iphone-13/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/apple/new-rumors-point-to-touch-id-and-face-id-biometrics-on-the-screen-iphone-13/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 42
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/New-rumors-point-to-Touch-ID-and-Face-ID-biometrics.png"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "New rumors hint at in-screen Touch ID and Face ID biometrics on iPhone 13"
+    excerpt: "The upcoming iPhone 13 lineup could feature biometric authentication with a combination of in-screen Touch ID and Face ID, says a new Wall Street Journal report"
+    publishedDateTime: 2021-02-01T22:17:00Z
+    webUrl: "https://www.biometricupdate.com/202102/new-rumors-hint-at-in-screen-touch-id-and-face-id-biometrics-on-iphone-13"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 23
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/06/15124940/iphone-in-use.png"
+        width: 800
+        height: 450
+        isCached: true
+
+secured: "LfUBHgt3LFT4zo4Yu8qkxGy+XAAZ6NGHDf+OeUNrtMgeFK/F6bfv+2IXWKjcsiqSAQOFQvLw2qpZqVI4sSy934Scrc4uwNQlbWwcHxyvB6vrvm/YlcRjlid60gFV/eUODUS50dvonBApDgyHsjm0z+BBPAnnyZ4znBeFCSMDLeMv8KVGq1nlYXv78sANkWFPlBTiuuBegt1UILhDQbPcTV9mUWvtGXcqMwVxzqmP8v3qXAm6ArtDIKfD6/70gU2EsQFVQGQEobMGyymvUmCyu1uzSr0keExAMRkN5PrCHA5/ri+fqJXLbakI97a+Mywt8+HHsTRZGhxcZRqPBos+dtGjV8y/g2rF+07YUjqoajw=;MC1B47oKd8bVlujWy2sshw=="
+---
+

@@ -27,9 +27,9 @@ images:
 
 related:
   - title: "AI ethics: The future of AI could become scary"
-    excerpt: "A Gartner report says the consequences of widespread AI will have huge effects on our society. Cybersecurity pros can't handle all the threat tasks alone, expert says 5:00 Good and bad news for cybersecurity in 2021 10:50 Cybersecurity can use some help from AI and ML 9:30 7 tech skills that will be in high demand in 2021 6:26 Edge computing adoption to increase through 2026;"
+    excerpt: "A Gartner report says the consequences of widespread AI will have huge effects on our society. Logistics dispatches AI, drones, and robots to haul the industry into the future 8:41 Cybersecurity pros can't handle all the threat tasks alone,"
     publishedDateTime: 2021-01-29T16:47:00Z
-    webUrl: "https://www.techrepublic.com/videos/ai-ethics-the-future-of-ai-could-become-scary/"
+    webUrl: "https://www.techrepublic.com/index.php/category/10250/4/index.php/videos/ai-ethics-the-future-of-ai-could-become-scary/"
     type: article
     provider:
       name: TechRepublic
@@ -37,6 +37,20 @@ related:
     quality: 84
     images:
       - url: "https://tr4.cbsistatic.com/hub/i/r/2021/01/29/bc4f2551-6116-44e4-96b2-454d3aad1c1b/thumbnail/770x578/fcbfbfeda4f4c87df63aa6889134d566/20210127-brandon1-karen.jpg"
+        width: 770
+        height: 578
+        isCached: true
+  - title: "Logistics dispatches AI, drones, and robots to haul the industry into the future"
+    excerpt: "Though the industry is slow to adopt new technologies, these trends can help streamline business.  Edge computing adoption to increase through 2026; organizations cautious about adding 5G to the mix T"
+    publishedDateTime: 2021-01-29T22:35:00Z
+    webUrl: "https://www.techrepublic.com/videos/logistics-dispatches-ai-drones-and-robots-to-haul-the-industry-into-the-future/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 81
+    images:
+      - url: "https://tr4.cbsistatic.com/hub/i/r/2021/01/29/a68cb509-5a30-40f5-bb6a-4cf5b4ee1022/thumbnail/770x578/bbde0295b6044de4c13aac47c9cb7faf/20210128-trucking-karen.jpg"
         width: 770
         height: 578
         isCached: true

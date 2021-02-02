@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerweekly.com/news/252495597/Biometrics-ethics-grou
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252495597/Biometrics-ethics-group-address-public-private-use-of-facial-recognition?amp=1"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Guide for ethical, legal use of facial recognition published by BSIA"
+    excerpt: "The report explains the key factors companies have to take into consideration before choosing a facial recognition solution for their biometric security systems"
+    publishedDateTime: 2021-02-02T20:55:00Z
+    webUrl: "https://www.biometricupdate.com/202102/guide-for-ethical-legal-use-of-facial-recognition-published-by-bsia"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 56
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/07/25183012/Chincotech-facial-recognition.png"
+        width: 623
+        height: 432
+        isCached: true
   - title: "New ID and biometrics advisory board, ethical AI alliance formed by global organizations"
     excerpt: "The Security Industry Association announced the foundation of an Identity and Biometric Technology Advisory Board, WEF forms group to take action on AI ethics"
     publishedDateTime: 2021-01-29T23:14:00Z

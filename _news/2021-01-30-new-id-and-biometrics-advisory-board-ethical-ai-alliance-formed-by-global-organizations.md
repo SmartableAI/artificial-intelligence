@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 400
         isCached: true
+  - title: "Guide for ethical, legal use of facial recognition published by BSIA"
+    excerpt: "The report explains the key factors companies have to take into consideration before choosing a facial recognition solution for their biometric security systems"
+    publishedDateTime: 2021-02-02T20:55:00Z
+    webUrl: "https://www.biometricupdate.com/202102/guide-for-ethical-legal-use-of-facial-recognition-published-by-bsia"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 56
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/07/25183012/Chincotech-facial-recognition.png"
+        width: 623
+        height: 432
+        isCached: true
   - title: "New rumors point to Touch ID and Face ID biometrics on the screen iPhone 13"
     excerpt: "New rumors point to Touch ID and Face ID biometrics on the screen iPhone 13 The following iPhone 13 lineup may include biometric"
     publishedDateTime: 2021-02-01T22:40:00Z

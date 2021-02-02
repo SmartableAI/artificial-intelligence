@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-share-growth-insight-size-competitive-analysis-regional-and-global-forecast-to-2027-2021-02-02"
 type: article
 quality: 74
-heat: 194
+heat: 204
 published: true
 
 provider:
@@ -134,6 +134,20 @@ related:
     excerpt: "The Cognitive Analytics market is anticipated to reach over USD 48 billion by 2026 according to a new research published by The marker research report. In 2017, the large enterprises segment dominated the global market,"
     publishedDateTime: 2021-02-01T10:30:00Z
     webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-size-rising-trends-and-new-technologies-research-forecast-to-2026-2021-02-01?tesla=y"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Computer Vision Market 2021 Global Trends, Market Share, Industry Size, Growth, Opportunities, and Market Forecast to 2027"
+    excerpt: "New Study Reports \"Computer Vision Market 2021 Global Market Opportunities, Challenges, Strategies and Forecasts 2027\" has been Added on WiseGuyReports. This report provides in depth study of \"Computer Vision Market\" using SWOT analysis i."
+    publishedDateTime: 2021-02-02T20:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2021-global-trends-market-share-industry-size-growth-opportunities-and-market-forecast-to-2027-2021-02-02"
     type: article
     provider:
       name: MarketWatch

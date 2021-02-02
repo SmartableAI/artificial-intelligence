@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/02/01/weights-and-biases-series-b/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/01/weights-and-biases-series-b/amp/"
 type: article
 quality: 104
-heat: 145
+heat: 155
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/01/WeightsandBiases.png?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Hourly job-matching startup Landed raises $1.4M"
+    excerpt: "Landed, a startup aiming to improve the hiring process for hourly employers and job applicants, is officially launching its mobile app today. It’s also announcing that it has raised $1.4 million in seed funding."
+    publishedDateTime: 2021-02-02T19:53:00Z
+    webUrl: "https://techcrunch.com/2021/02/02/landed-seed-funding/"
+    ampWebUrl: "https://techcrunch.com/2021/02/02/landed-seed-funding/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/02/landed-seed-funding/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/02/LANDED_IMAGE_TC.jpg?w=1024"
+        width: 1024
+        height: 618
         isCached: true
   - title: "Machine learning experiment tracking startup Weights and Biases raises $45M"
     excerpt: "Machine learning startup Weights and Biases Inc. said today it has raised $45 million in a new round of funding that brings its total amount raised to $65 million. The Series B round was led by Insight Partners with participation from Coatue,"

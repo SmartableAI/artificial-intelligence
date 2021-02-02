@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Colby College announces Davis Institute for Artificial Intelligence"
-    excerpt: "The new Colby College Davis Institute for Artificial Intelligence will be the first of its kind, school officials say. Announced by the college at a virtual event Wednesday evening, the institute is believed by administration to be the first and only of its nature at a small U."
-    publishedDateTime: 2021-01-29T04:24:00Z
-    webUrl: "https://www.pressherald.com/2021/01/28/colby-college-announces-davis-institute-for-artificial-intelligence/"
-    type: article
-    provider:
-      name: Portland Press Herald
-      domain: pressherald.com
-    quality: 39
-    images:
-      - url: "https://multifiles.pressherald.com/uploads/sites/10/2019/04/4595150_20190422-colby-art-1-1024x887.jpg"
-        width: 1024
-        height: 887
-        isCached: true
   - title: "Colby College launches machine learning institute"
     excerpt: "Colby's new Davis Institute for Artificial Intelligence will help students to incorporate artificial intelligence into their liberal arts education."
     publishedDateTime: 2021-01-29T21:32:00Z

@@ -27,37 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Spotify is developing speech-recognition tech to detect your mood and suggest music"
-    excerpt: "Global music-streaming giant Spotify has recently been granted a patent for a new technology which will allow it to analyze its users' voice data – including speech recognition and background noise – with an eye to suggesting music based on what it finds."
-    publishedDateTime: 2021-01-29T03:13:00Z
-    webUrl: "https://www.techradar.com/in/news/spotify-is-developing-speech-recognition-tech-to-detect-your-mood-and-suggest-music"
-    ampWebUrl: "https://www.techradar.com/in/amp/news/spotify-is-developing-speech-recognition-tech-to-detect-your-mood-and-suggest-music"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/spotify-is-developing-speech-recognition-tech-to-detect-your-mood-and-suggest-music"
+  - title: "Spotify Patents Tech To Monitor And Interpret Your Speech"
+    excerpt: "Spotify has patented a piece of tech which can monitor your speech and interpret it to establish emotions. As reported by Android Police, Spotify filed"
+    publishedDateTime: 2021-02-02T20:36:00Z
+    webUrl: "https://www.androidheadlines.com/2021/02/spotify-patents-tech-to-monitor-and-interpret-your-speech.html"
+    ampWebUrl: "https://www.androidheadlines.com/2021/02/spotify-patents-tech-to-monitor-and-interpret-your-speech.html/amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/02/spotify-patents-tech-to-monitor-and-interpret-your-speech.html/amp"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 68
+      name: Android
+      domain: androidheadlines.com
+    quality: 44
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/FSkiiycgcqqGc9sF8moAXN-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Safari turns on ‘Speech Recognition’ by default Tech Preview of release"
-    excerpt: "Safari turns on 'Speech Recognition' by default Tech Preview of release on February 1, 2021 at 2.30 p.m. Apple's Safari browser is"
-    publishedDateTime: 2021-02-01T21:18:00Z
-    webUrl: "https://www.compsmag.com/news/technology/safari-turns-on-speech-recognition-by-default-tech-preview-of-release/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/safari-turns-on-speech-recognition-by-default-tech-preview-of-release/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/safari-turns-on-speech-recognition-by-default-tech-preview-of-release/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 59
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Safari-turns-on-Speech-Recognition-by-default-Tech-Preview-of.png"
-        width: 600
-        height: 400
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2019/01/AH-Spotify-new-logo-1.jpg"
+        width: 1600
+        height: 899
         isCached: true
   - title: "Spotify wants to analyse your VOICE and suggest songs based on your emotions, patent reveals"
     excerpt: "Spotify was granted a patent on January 12 that lets them listen to your voice to determine your age, gender, accent and current emotional state to pick songs you might want to hear."

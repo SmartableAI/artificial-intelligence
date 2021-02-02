@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/davidteich/2021/02/02/radiological-analysi
 ampWebUrl: "https://www.forbes.com/sites/davidteich/2021/02/02/radiological-analysis-leveraging-artificial-intelligence-is-moving-past-pure-identification-of-tumors/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/02/02/radiological-analysis-leveraging-artificial-intelligence-is-moving-past-pure-identification-of-tumors/amp/"
 type: article
-quality: 74
-heat: 74
+quality: 76
+heat: 76
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Machine Learning
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D876%26cropY1%3D26%26cropY2%3D519"
@@ -30,6 +31,6 @@ images:
     height: 493
     isCached: true
 
-secured: "+0WvgSON4IcZBrAr7aiPlP1OXPCzWxmsBntufrBvuVRsJnzimybbFg2SyVJTKM1IpVU7GbTzSpNpW0nIp3RxcjTlKEx3mCCinfYb/PbSmgDfDgXtlpimDu3nTO75I5Twbs3IUZ2OP7R4s6gCSuzKwbQFMaJUeEBpLIW9GbWuGzxWTimf+mOK+EdcM/pLoGlYT5M/EsAdNGVkVe7PzVnGiNd5U2l8fHJcx3QFpz30lZM5PviQ/Vn8GRb9qQE+afHMZG1fH1eNNke3KHAzx5UyRVO24owy3fEHzhYSsp7Ez8VuMIyiUW/UGpvKEdykNYrXR6ylnmkjTvMpnWSRmLc/yWAmbvdQX7A5dxzs9eY+hSA=;SqE6INyFYvH5ElV68eRe7g=="
+secured: "bgpOp21f5STDBpUJVz6iPXfKpsxmVaFsESInEyNUJMKT899745zD5HiBPRGMRIbdTs+kG4BK49qDqpPvCGbmxdW3PFdLG/2dcaz6lIaU727AecND17GTxp5elbVbVpNOGbMN7n65B6AhzQ9p3veXD6wM41JkLI8bcaqGK0MgWfybjiVt767SoP7w7yXBR9kNWcoBY0kTQgVuL10EIESTXfUp/lHM6G/VYxAoMO8LLLKtV8AtLLL5a7h34nTe6wEMfCS2d5tcF+j6nb3jFLf65frCkddPpHM93jbUD4NrQ7uxt8kc9pAJtl0PIToqwly0Zs3GQrmWU2pju/91TZZFy5eHCyKAMvuZSeMcyRrt3U8Er6IMj2Vfxs0gyMB82lVw+hBINLeQfNQDT5wMzGlJDyzAJ1oThoEOiaNw9QMwa/2EM0LlJLQeTLfvP/z22bS+0OnVnGBjU7y3a6/ZBL33U9EEPhRSCPnRTNtvBUNPHmeGI/cTJs/K/bBgdgC94gcZn4GQp28HGZAi0Pu+aLc2qQ==;MQA0MlWVF9NC6vjkbz8AfQ=="
 ---
 
