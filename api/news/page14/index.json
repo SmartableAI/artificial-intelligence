@@ -2,6 +2,49 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-01-23-a-scary-proposal-to-use-facial-recognition-and-ai-by-an-indian-state-has-experts-fuming.md",
+      "title": "A scary proposal to use facial recognition and AI by an Indian state has experts fuming",
+      "excerpt": "The Lucknow police are installing cameras with facial recognition technology, powered by artificial intelligence (AI), in prominent harassment hotspots. The cameras will gauge whether a woman is in distress based on her facial expression and send an alert to the police.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.in/news/a-scary-proposal-to-use-facial-recognition-and-ai-by-an-indian-state-has-experts-fuming/articleshow/80421935.cms",
+      "originalUrl": "https://www.businessinsider.in/news/a-scary-proposal-to-use-facial-recognition-and-ai-by-an-indian-state-has-experts-fuming/articleshow/80421935.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.businessinsider.in/photo/80422279/Master.jpg",
+          "width": 500,
+          "height": 339,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.in/news/a-scary-proposal-to-use-facial-recognition-and-ai-by-an-indian-state-has-experts-fuming/amp_articleshow/80421935.cms",
+      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/news/a-scary-proposal-to-use-facial-recognition-and-ai-by-an-indian-state-has-experts-fuming/amp_articleshow/80421935.cms",
+      "publishedDateTime": "2021-01-23T03:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider India",
+        "domain": "businessinsider.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-23-artificial-intelligence-ai-in-marketing-market-size-share-analysis-report-forecast-to-2025.md",
       "title": "Artificial Intelligence (AI) in Marketing Market, Size, Share, Analysis Report & Forecast to 2025",
       "excerpt": "Jan (Heraldkeepers) -- Artificial Intelligence (AI) in marketing market is growing rapidly owing to high demand for lead generation,",
@@ -1137,49 +1180,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-ai-systems-to-get-an-ethics-code-dod.md",
-      "title": "AI Systems to get an Ethics Code: DoD",
-      "excerpt": "Ethical considerations will go into Artificial Intelligence (AI)’s design and employment because it enables autonomy, decision making and system execution at incredibly fast speeds, a DoD official said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.defenseworld.net/news/28810/AI_Systems_to_get_an_Ethics_Code__DoD",
-      "originalUrl": "https://www.defenseworld.net/news/28810/AI_Systems_to_get_an_Ethics_Code__DoD",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.defenseworld.net/uploads//news/big/autonomou_1608524511.jpg",
-          "width": 640,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-21T21:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Defense World",
-        "domain": "defenseworld.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

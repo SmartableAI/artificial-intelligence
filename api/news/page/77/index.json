@@ -2,6 +2,58 @@
   "page": 77,
   "value": [
     {
+      "path": "_news/2020-12-03-self-driving-cars-being-tailgated-by-obnoxious-human-drivers.md",
+      "title": "Self-Driving Cars Being Tailgated By Obnoxious Human Drivers",
+      "excerpt": "Human drivers tailgate self-driving cars, but this bodes for big trouble. getty. Let’s talk about those obnoxious people that insist on driving their car as though it is an exte",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/12/03/self-driving-cars-being-tailgated-by-obnoxious-human-drivers/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/12/03/self-driving-cars-being-tailgated-by-obnoxious-human-drivers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc85171be22ff9f9a86dc61%2F0x0.jpg%3FcropX1%3D93%26cropX2%3D5250%26cropY1%3D441%26cropY2%3D2859",
+          "width": 1200,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/12/03/self-driving-cars-being-tailgated-by-obnoxious-human-drivers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/12/03/self-driving-cars-being-tailgated-by-obnoxious-human-drivers/amp/",
+      "publishedDateTime": "2020-12-03T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-03-microsoft-unveils-azure-purview-a-new-data-governance-platform.md",
       "title": "Microsoft unveils Azure Purview, a new data governance platform",
       "excerpt": "Aside from the introduction of the new data governance platform termed Azure Purview, Microsoft has also announced that its Azure Synapse Analytics service has reached general availability.",
@@ -1123,49 +1175,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-meldcx-unveils-sami-digitizing-clean-up-in-public-spaces-with-ai-and-computer-vision.md",
-      "title": "meldCX unveils SAMi® - digitizing clean-up in public spaces with AI and computer vision",
-      "excerpt": "To help businesses meet new hygiene standards efficiently and affordably, meldCX, an enterprise software solution provider, has created SAMi(®) ( a new surface",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/meldcx-unveils-sami---digitizing-clean-up-in-public-spaces-with-ai-and-computer/article_2b17351d-cddc-51a6-bfe9-1f8859164c2f.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/meldcx-unveils-sami---digitizing-clean-up-in-public-spaces-with-ai-and-computer/article_2b17351d-cddc-51a6-bfe9-1f8859164c2f.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/ac/8acef392-25fe-5470-b964-e12fc105099c/5fc81d0699c60.image.jpg?resize=400%2C225",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-02T13:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

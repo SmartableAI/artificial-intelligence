@@ -2,6 +2,57 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2020-12-22-ai-and-satellite-data-could-help-end-slavery-on-the-high-seas.md",
+      "title": "AI and Satellite Data Could Help End Slavery on the High Seas",
+      "excerpt": "Slavery is rampant on fishing vessels around the world. A new study aims to use satellite and machine learning to track ships that traffic laborers. The findings estimate up to 100,000 people were forced to labor on fishing vessels between 2012 and 2018.",
+      "sourceUrl": null,
+      "webUrl": "https://earther.gizmodo.com/ai-and-satellite-data-could-help-end-slavery-on-the-hig-1845929400",
+      "originalUrl": "https://earther.gizmodo.com/ai-and-satellite-data-could-help-end-slavery-on-the-hig-1845929400",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/dl5oyjxzztz5sqggtzsc.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://earther.gizmodo.com/ai-and-satellite-data-could-help-end-slavery-on-the-hig-1845929400/amp",
+      "cdnAmpWebUrl": "https://earther-gizmodo-com.cdn.ampproject.org/c/s/earther.gizmodo.com/ai-and-satellite-data-could-help-end-slavery-on-the-hig-1845929400/amp",
+      "publishedDateTime": "2020-12-21T14:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-22-facial-recognition-legislation-rolls-on-in-new-orleans-and-oakland-boston-celtics-players-urge-passage.md",
       "title": "Facial recognition legislation rolls on in New Orleans and Oakland, Boston Celtics players urge passage",
       "excerpt": "New Orleans passes ban on use of facial recognition by police, Oakland follows suit, Massachusetts governor urged to sign restrictions, tenants are surveilled.",
@@ -1131,41 +1182,6 @@
         "AI",
         "AI in Healthcare",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-fintech-innovators-partner-to-turn-nlp-into-dollars.md",
-      "title": "FinTech Innovators Partner to Turn NLP into Dollars",
-      "excerpt": "CHICAGO & SAN FRANCISCO--(BUSINESS WIRE)--Vectorspace AI in partnership with CloudQuant announce the availability of novel datasets that reveal relationships between global equity products. Vectorspace AI datasets are designed to boost precision ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201221005087/en/FinTech-Innovators-Partner-to-Turn-NLP-into-Dollars",
-      "originalUrl": "https://www.businesswire.com/news/home/20201221005087/en/FinTech-Innovators-Partner-to-Turn-NLP-into-Dollars",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-21T03:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

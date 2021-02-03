@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/rescale-raises-50-millio
 webUrl: "https://www.marketwatch.com/press-release/rescale-raises-50-million-in-series-c-funding-2021-02-02"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://www.finsmes.com/wp-content/uploads/2021/02/Superb-AI.jpg"
         width: 400
         height: 400
+        isCached: true
+  - title: "Microsoft, Nvidia join $50M round for high-performance computing startup Rescale"
+    excerpt: "Rescale Inc., a startup developing software for running high-performance computing applications in the cloud, today announced that it has raised a $50 million funding round from Microsoft Corp., Nvidia Corp."
+    publishedDateTime: 2021-02-02T12:05:00Z
+    webUrl: "https://siliconangle.com/2021/02/02/microsoft-nvidia-join-50m-round-high-performance-computing-startup-rescale/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/unsplash-1.png"
+        width: 1050
+        height: 700
         isCached: true
 
 secured: "uDtdZkt1FS+oW6Ro+gjEZOsXn5Du1u3PMWnCtzWQdIfnKh/2mSPbafsFKDgF5uBx2y1TqQHIa6PZVxhkxK9f/bJw02Hyfr2UmPO2gCZoPxu4HQG+lFblNrB20dVOTGUC0f7Sai5pS+JjRGZHtOTP+TfWViLNQvpAsZZUMAEnqHXvlfloFYlITjBC1wD76wrTt2fCw3BkVI81xGx6T3MzhQDsj2+D5FSY6+yo+lGVQv+ZQW27KvHbmC6qcd0rswD/2pFaKBMT3PeW6eBeG82pkS41Ohu9p1Kid7fEHi5oveYbX/oxd1UvobcoOUEQxiAgyn8ToTsaS/G+RQzEvOTszTHB3LiNVkRiEpMNBLmvgMQ=;MP1wgILNPceYBi7ZwNy20g=="

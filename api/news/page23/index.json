@@ -2,6 +2,49 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-01-17-neurala-with-more-cash-advances-ai-for-drones-self-driving-cars.md",
+      "title": "Neurala, With More Cash, Advances A.I. for Drones, Self-Driving Cars",
+      "excerpt": "Artificial intelligence software firm Neurala cut its ... For example, Google’s experimental self-driving vehicles (now spun off as Waymo) handle at least some of the processing of their ...",
+      "sourceUrl": null,
+      "webUrl": "https://xconomy.com/boston/2017/01/17/neurala-with-more-cash-advances-a-i-for-drones-self-driving-cars/",
+      "originalUrl": "https://xconomy.com/boston/2017/01/17/neurala-with-more-cash-advances-a-i-for-drones-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.xconomy.com/wordpress/wp-content/images/2016/12/06160304/Neurala-e1484428109959.jpg",
+          "width": 1480,
+          "height": 987,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-16T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Xconomy",
+        "domain": "xconomy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-17-incoming-white-house-science-and-technology-leader-on-ai-diversity-and-society.md",
       "title": "Incoming White House science and technology leader on AI, diversity, and society",
       "excerpt": "Incoming White House science and technology leader Dr. Alondra Nelson addressed the relationship between AI development an inclusion.",
@@ -1164,57 +1207,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/15/three-ways-brands-can-win-the-buy-box-using-search-and-ai/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/15/three-ways-brands-can-win-the-buy-box-using-search-and-ai/amp/",
       "publishedDateTime": "2021-01-15T06:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-a-major-business-breakthrough-in-ai-is-happening-now-do-you-know-about-it.md",
-      "title": "A Major Business Breakthrough In AI Is Happening Now -- Do You Know About It?",
-      "excerpt": "Almost every business in the world will be transformed by the use of artificial intelligence (AI) and machine learning (ML) technology. However, to non-data-scientist business and IT leaders, ML is often a black box that is hard to understand and manage,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/15/a-major-business-breakthrough-in-ai-is-happening-nowdo-you-know-about-it/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/15/a-major-business-breakthrough-in-ai-is-happening-nowdo-you-know-about-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6000aee8fcea373dc9e83566%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/15/a-major-business-breakthrough-in-ai-is-happening-nowdo-you-know-about-it/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/15/a-major-business-breakthrough-in-ai-is-happening-nowdo-you-know-about-it/amp/",
-      "publishedDateTime": "2021-01-15T06:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

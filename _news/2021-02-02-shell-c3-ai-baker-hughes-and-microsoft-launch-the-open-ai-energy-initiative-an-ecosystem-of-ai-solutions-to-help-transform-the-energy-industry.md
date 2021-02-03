@@ -93,6 +93,22 @@ related:
         width: 605
         height: 500
         isCached: true
+  - title: "Microsoft launches Custom Neural Voice in limited access – Jaweb"
+    excerpt: "Microsoft today announced the general availability of Custom Neural Voice, an Azure Cognitive Services product that lets developers create synthetic voices with neural text-to-speech technology. It’s in limited access,"
+    publishedDateTime: 2021-02-03T17:41:00Z
+    webUrl: "https://elmoudjaweb.com/microsoft-launches-custom-neural-voice-in-limited-access-jaweb/"
+    ampWebUrl: "https://elmoudjaweb.com/microsoft-launches-custom-neural-voice-in-limited-access-jaweb/?amp"
+    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/microsoft-launches-custom-neural-voice-in-limited-access-jaweb/?amp"
+    type: article
+    provider:
+      name: Elmoudjaweb
+      domain: elmoudjaweb.com
+    quality: 59
+    images:
+      - url: "https://elmoudjaweb.com/wp-content/uploads/2021/02/Microsoft-launches-Custom-Neural-Voice-in-limited-access-–-Jaweb.png"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "BKR, RDS, AI and MSFT Launch AI Energy Initiative"
     excerpt: "C3 AI (NYSE: AI), and Microsoft (NASDAQ: MSFT) have announced the launch of the Open AI Energy Initiative. Baker Hughes (NYSE: BKR), Shell (NYSE: RDS), C3 AI (NYSE: AI), and Microsoft (NASDAQ: MSFT) have announced the launch of the Open AI Energy Initiative (OAI),"
     publishedDateTime: 2021-02-02T11:38:00Z

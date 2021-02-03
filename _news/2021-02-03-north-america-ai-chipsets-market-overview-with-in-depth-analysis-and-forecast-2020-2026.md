@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/north-america-ai-chipset
 webUrl: "https://www.marketwatch.com/press-release/north-america-ai-chipsets-market-overview-with-in-depth-analysis-and-forecast-2020-2026-2021-02-03"
 type: article
 quality: 77
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 74
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Chipsets Market 2020 Industry Development and Growth Forecast to 2025"
+    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence Chipsets Market with the reasons given for variations in the growth of the industry in certain regions. Browse the full report here:  Due to high growth in computing applications,"
+    publishedDateTime: 2021-02-03T11:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-2020-industry-development-and-growth-forecast-to-2025-2021-02-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/02/bioware-used-ai-upscaling-to-rema
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/02/bioware-used-ai-upscaling-to-remaster-mass-effects-original-textures/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

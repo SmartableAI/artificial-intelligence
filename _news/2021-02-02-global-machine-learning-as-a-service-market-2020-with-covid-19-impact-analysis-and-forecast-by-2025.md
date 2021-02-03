@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Chipsets Market 2020 Industry Development and Growth Forecast to 2025"
+    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence Chipsets Market with the reasons given for variations in the growth of the industry in certain regions. Browse the full report here:  Due to high growth in computing applications,"
+    publishedDateTime: 2021-02-03T11:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-2020-industry-development-and-growth-forecast-to-2025-2021-02-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Chipsets Market Growth Analysis By Size, Share, News, Demand, Opportunity"
     excerpt: "Artificial Intelligence Chipsets Market Size, Demand-sales, Suppliers By Key Applications Detailed Analysis and Growth Aspects on Manufacturing Landscapes and Regional Analysis \"Market Overview: Global Artificial Intelligence (Chipsets) Market is valued approximately at USD 5."
     publishedDateTime: 2021-02-01T13:01:00Z

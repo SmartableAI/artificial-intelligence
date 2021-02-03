@@ -125,20 +125,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech Recognition Market Size, Global Trends, Historical Analysis, Industry Demand, Growth, Future Plans and Opportunity Assessment by 2023"
-    excerpt: "Market Research Future published a research report on \"Global Speech Recognition Market Research Report – Forecast 2023\""
-    publishedDateTime: 2021-01-30T02:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-size-global-trends-historical-analysis-industry-demand-growth-future-plans-and-opportunity-assessment-by-2023-2021-01-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Edge AI Hardware Market Global Forecast to 2024 by Devices, Processor, Power Consumption, Process, End-User Industry, Top Key Players, and Regions"
     excerpt: "The edge AI hardware market is expected to register a shipment of 610 million units in 2019 and is likely to reach 1559.3 million units by 2024, at a CAGR of 20.64% during the forecast period. Major drivers for the market's growth are growing demand for low latency and real-time processing on edge devices and emergence of AI coprocessors for edge computing."
     publishedDateTime: 2021-02-03T14:59:00Z
@@ -164,6 +150,20 @@ related:
     quality: 25
     images:
       - url: "https://res.infoq.com/articles/AI-applied-architecture-decision-optimization/en/headerimage/deploying-ai-in-the-enterprise-big-1611926216131.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Intelligent Virtual Assistant (IVA) Market Top Leading Companies, Consumption, Key Drivers, Challenges and Trends Forecast to 2026"
+    excerpt: "Growing application areas for Artificial Intelligence (AI) based systems and solutions will power the global intelligent virtual assistant market, according to Fortune Business Insights, which shares its findings in its report,"
+    publishedDateTime: 2021-02-02T20:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/intelligent-virtual-assistant-iva-market-top-leading-companies-consumption-key-drivers-challenges-and-trends-forecast-to-2026-2021-02-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 24
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true

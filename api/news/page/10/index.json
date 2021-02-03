@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-01-27-neural-network-software-market-size-share-growth-future-scope-trends-2020-2026.md",
+      "title": "Neural Network Software Market Size, Share, Growth, Future Scope, Trends 2020-2026",
+      "excerpt": "The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-size-share-growth-future-scope-trends-2020-2026-2021-01-26",
+      "originalUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-size-share-growth-future-scope-trends-2020-2026-2021-01-26",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-26T19:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-27-us-commission-cites-moral-imperative-to-explore-ai-weapons.md",
       "title": "U.S. commission cites 'moral imperative' to explore AI weapons",
       "excerpt": "The United States should not agree to ban the use or development of autonomous weapons powered by artificial intelligence (AI) software, a government-appointed panel said in a draft report for Congress.",
@@ -1160,50 +1212,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-traqiq-makes-big-bet-on-machine-learning-by-acquiring-kringle-leader-in-loyalty-rewards-and-data-analytics.md",
-      "title": "TraQiQ makes big bet on Machine learning by acquiring Kringle, Leader in Loyalty, Rewards and Data analytics.",
-      "excerpt": "Ajay Sikka, CEO of TraQiQ said “Bringing the Kringle product suite and team into the TraQiQ family will allow us to provide a seamless solution for the post COVID hyper-digital, Contactless economy by integrating Kringle’s mobile and web products for end-to-end digital commerce solutions”.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/traqiq-makes-big-bet-on-machine-learning-by-acquiring-kringle-leader-in-loyalty-rewards-and-data-analytics-1030004935",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/traqiq-makes-big-bet-on-machine-learning-by-acquiring-kringle-leader-in-loyalty-rewards-and-data-analytics-1030004935",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/TraQiQ-makes-big-bet-on-Machine-learning-by-acquiring-Kringle-Leader-in-Loyalty-Rewards-and-Data-analytics-1030004935",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/TraQiQ-makes-big-bet-on-Machine-learning-by-acquiring-Kringle-Leader-in-Loyalty-Rewards-and-Data-analytics-1030004935",
-      "publishedDateTime": "2021-01-26T07:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

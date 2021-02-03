@@ -6,8 +6,8 @@ publishedDateTime: 2021-02-03T16:42:00Z
 originalUrl: "https://www.businessinsider.com/david-cheriton-self-driving-cars-ai-iot-on-the-downturn-2021-2"
 webUrl: "https://www.businessinsider.com/david-cheriton-self-driving-cars-ai-iot-on-the-downturn-2021-2"
 type: article
-quality: 47
-heat: 47
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://i.insider.com/5fd40cfc9cf1420018d2f039?width=1200&format=jpeg"
@@ -27,6 +28,6 @@ images:
     height: 499
     isCached: true
 
-secured: "uvi8HS9fjHcx0OsWFuZ8IDrsLYlbBQ9iwNoT/iUDN77bYAAItwGNz00mw4usjJSCZQtUjjnieTrHx4s3dLVuxKNnLAB9QlpftJwwaiTfIHHKo4d2cN3WXQWWg3Z+bB6HxmN7c5oVQ4zllEJsBKnHikEFJbJVXCpuho/u91cYd0+MrwHfjgPryCVK3wYsLAIvAELx711nsxv+lfdWlcXxzbktti/ve2TeSHkXGrRTCaYdAYO3viXqAeKG5PE+YEje7kTeln/sIUI7my8GeBPPvMb0SbKo/ZVbaFBZuTVmPDbxYj0RwjJrV5OAfcRMEsZr/cDh0IWLjGC20eRweXdLTzF6UTAcRM2bAoQHzFecmao=;aO0N3TmYIswywoVlIJDYqA=="
+secured: "s+xOPVYeCGdXMeMxAtHU7hUxNJksZ1g4sfHVO2xt3V1nuyCV7ENPNOp3/atcRpsl+OB2Z7c11JlQ9+B4/m8x7OzfvVmtwDxH2o1sbUWEnGTJCM28WmioDk6zkNGqhOI+y2tArzZ8RNZmDiOzCEOGD9s73J7abnmOt5JlgB2vgFBk2o8XfLmfiQHWO2NyZEG2KHjmo1IYdXsGROghLlh/FuufX/9VekopAdhxTIHBDYl9xiYQBDOO643ZD6W2QzDxZfJgjv3YYz5lXbPR7SB0C2pUhR3ssd6YMw3C9oQY51ULie6mfKzCGcdacfKkMGFWtczmWkh0ea2Qa8H1eug3TiEA0OgItBwoB8xhBtYrcEBDxSdh4svgK/Bs3PT5uwV/EX5RJoa9g7u1iQN8d/DJeS/GCjmKAk9l3uqgQZeuSpx3+ie6zRoECJU+itR7O9L2eWAXSn6WpUDpl9My8SW71oo5PJWA1gOlMBHjcmNoptp5he0JfZgSKS6z9d00Pt0ZAD0DXU+w+CvvnOX+gorLwQ==;33ldKrt/FJKZxIPyuKJ2jg=="
 ---
 

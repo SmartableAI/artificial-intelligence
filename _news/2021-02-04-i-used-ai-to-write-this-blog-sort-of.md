@@ -8,8 +8,8 @@ webUrl: "https://www.business2community.com/blogging/i-used-ai-to-write-this-blo
 ampWebUrl: "https://www.business2community.com/blogging/i-used-ai-to-write-this-blog-sort-of-02383702/amp"
 cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/blogging/i-used-ai-to-write-this-blog-sort-of-02383702/amp"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://cdn.business2community.com/wp-content/uploads/2021/02/Batman-Movie-Script-Written-By-AI-After-Watching-1000-Hours-Footage-4.jpg"
@@ -25,6 +26,6 @@ images:
     height: 422
     isCached: true
 
-secured: "i/YamAct0yZORd8bw8PIWorOe1glK99aKfbD8UuHuXxxDIOgnFc7+5A97xmfU4V7I1axn6ulVriAM1ajC8Ig/dAxn4zia8Ytp01N2PDXsiAQCQlgKSoahb5XMBVh62VkiLDaUIIoVCd+vVnd5lzJj2v9OT3LIJY/po1YRypSoOokK3bnDgZPAvdv7euJXiJI95rTIFJfinOK4iEpwV6ttd+tOHKq8y9abjwlASjh9k38mMTVkaRwsP0ERhbOfyjdGGdzyfpd1JwoQjdQwkso+yvrvL9BaeYVv2PbsrmuU5vtcEuw2nYtGMow1loP3DHAQ0/ItMws1cwDbxM1Nd8s2tpFMQTVKUuqKn4Q9gztF/E=;8lvWev02E0xzdV3D+jMWGw=="
+secured: "78SDne4nMhyFc1jWClGVTOGSoU3VBRMhUWanMY32YSJbF94LhPYbRfCF6hcrAIvfVr5KV6BNwGoq1/BY5IvfN4xbFrbU2jsFG5uK7uhvvG8DF8WQeGxjSrZ5T+cPOXN9lXzdAN0FramIV8Q0es7YjAVjDp7ZrWPmA5HG44qy3qHKoBl8GBatwn+8ow1L1AijtofRQtaguRC6C/TRN5KtM/uioTyNdhawDp8plCsoSLnChFOFgie0+TUzzYSe2UHhgLG0wlbT8zlOglcLFhloDXCUNHrF7Xw8E0e6/VvH8ZwVpgX8e4i7trs7HDKUSwD83rqhoL1lwWj3QUIf91xsyTBJycMxrIkxS/nLe8xQzJvRfqt9DRkxa7DCaS/HQGvUAo55+3VCEakePuMUv0Kj9kDK4GS8/VgGM73MGpokztjpMdlwDXgKlHEvaTMal7+sF+wOVRoSAJ0mdD7BldGvUgM4uulrjs8YytqXcW4mRbt4gmm0jZv/5aXi2ruQSctlBBLVovx/9aE2rhEJM3qwGg==;PGle09X0y/OSP+5sGejYUw=="
 ---
 

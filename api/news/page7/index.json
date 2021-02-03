@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-01-29-googles-updated-voice-access-leverages-ai-to-detect-in-app-icons.md",
+      "title": "Google’s updated Voice Access leverages AI to detect in-app icons",
+      "excerpt": "Google says it's leveraging AI to detect in-app icons, toward the goal of making Android apps more accessible.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/28/googles-updated-voice-access-leverages-ai-to-detect-in-app-icons/",
+      "originalUrl": "https://venturebeat.com/2021/01/28/googles-updated-voice-access-leverages-ai-to-detect-in-app-icons/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1281329514.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/28/googles-updated-voice-access-leverages-ai-to-detect-in-app-icons/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/28/googles-updated-voice-access-leverages-ai-to-detect-in-app-icons/amp/",
+      "publishedDateTime": "2021-01-28T12:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-29-facial-recognition-now-used-for-border-screenings-at-msp-airport.md",
       "title": "Facial recognition now used for border screenings at MSP Airport",
       "excerpt": "St. Paul International Airport from other countries can now choose to go through border control using facial recognition scanners. U.S. Customs and Border Protection announced on Wednesday that \"Simplified Arrival\" is now available at both MSP Airport terminals for international arrivals.",
@@ -939,8 +991,8 @@
       "title": "Alibaba-backed self-driving startup opens its robotaxi service to the Chinese public",
       "excerpt": "AutoX became the third firm to receive a test permit in California to operate its autonomous vehicles without a human safety driver.",
       "sourceUrl": null,
-      "webUrl": "https://www.techinasia.com/alibababacked-selfdriving-startup-autox-opens-robotaxi-general-public-china",
-      "originalUrl": "https://www.techinasia.com/alibababacked-selfdriving-startup-autox-opens-robotaxi-general-public-china",
+      "webUrl": "https://www.techinasia.com/alibababacked-selfdriving-startup-autox-opens-robotaxi-general-public-china?ref=recommender-671946",
+      "originalUrl": "https://www.techinasia.com/alibababacked-selfdriving-startup-autox-opens-robotaxi-general-public-china?ref=recommender-671946",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1174,50 +1226,6 @@
         "IBM AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning.md",
-      "title": "Pinecone leaves stealth with $10M, launches first serverless vector database for machine learning",
-      "excerpt": "Built by the team behind Amazon SageMaker and founded by scientist and former AWS Director Edo Liberty, Pinecone makes large-scale real-time inference as simple as querying a database. It is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-301216240.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-301216240.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-27T20:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

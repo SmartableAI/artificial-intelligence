@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Chipsets Market 2020 Industry Development and Growth Forecast to 2025"
+    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence Chipsets Market with the reasons given for variations in the growth of the industry in certain regions. Browse the full report here:  Due to high growth in computing applications,"
+    publishedDateTime: 2021-02-03T11:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-2020-industry-development-and-growth-forecast-to-2025-2021-02-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Machine Learning as a Service Market 2020 with Covid-19 Impact Analysis and Forecast by 2025"
     excerpt: "Global Machine Learning as a Service Market 2020 by Company, Type and Application, Forecast to 2025 provides a comprehensive assessment of market values, with corrective calculations and forecasts for sales by kind and by application in terms of volume and worth."
     publishedDateTime: 2021-02-01T21:40:00Z

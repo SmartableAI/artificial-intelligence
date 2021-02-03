@@ -56,6 +56,17 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "Bindr.AI Workplace Data Platform Emerges from Stealth, Offering Intuitive, Time-Saving Solution for Employers"
+    excerpt: "Bindr.AI, a Silicon Valley-based technology startup, today announced that it is emerging from stealth mode and launching"
+    publishedDateTime: 2021-02-03T17:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/02/n19470429/bindr-ai-workplace-data-platform-emerges-from-stealth-offering-intuitive-time-saving-solution-for-"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19470429"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19470429"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 18
 
 secured: "LBOKt2Bi5tdQlMnFzK1R/d3ruaZAEMbF35qO53ahfJtYYnLoMfVto/4JELAJ9f/7xq2dq52bDQsiMBnJb6+PP8q7RS5ZpfOcZ7QTj/NY8nHNLbe9h1hwDFiC/pKnLl4YhHoUZK2f0cfgPRz56Uj6Zca2TJAJBJSkBVSN5JK2fSE0HD9DdCIC+14tkJzGGY5RjnCffJ8MnBOf8WkvkED6HicI9PLrZiVhzVNISo6uS6XFUb4C2wh2MxwK47dX1fb3ktXBaQD35dI7Xnd+ZMEAkE/9FOpntFPHdH/I4DBYtOC15divkinzGC3QeKMU5xzPaxuKAEe3sCsKZ/QuabMbeVkvuqQyvnhyunQLPKZBt5Q=;8VngcP6fhW4p75XhoMMnpg=="
 ---

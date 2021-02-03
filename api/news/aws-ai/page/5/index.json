@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-12-08-mgm-leverages-aws-for-its-supply-chain.md",
+      "title": "MGM leverages AWS for its supply chain",
+      "excerpt": "Film studio MGM has reached a multi-year deal with Amazon Web Services to power its media supply chain with AWS cloud technology to help distribute its TV and film content across multiple platforms. The new MGM media supply chain will use AWS compute,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tvbeurope.com/media-management/mgm-leverages-aws-for-its-supply-chain",
+      "originalUrl": "https://www.tvbeurope.com/media-management/mgm-leverages-aws-for-its-supply-chain",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tvbeurope.com/wp-content/uploads/2019/12/bond.jpg",
+          "width": 768,
+          "height": 433,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tvbeurope.com/media-management/mgm-leverages-aws-for-its-supply-chain?amp",
+      "cdnAmpWebUrl": "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-management/mgm-leverages-aws-for-its-supply-chain?amp",
+      "publishedDateTime": "2020-12-08T00:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tvbeurope.com",
+        "domain": "tvbeurope.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-08-aws-announces-plans-to-open-second-region-in-australia.md",
       "title": "AWS Announces Plans to Open Second Region in Australia",
       "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), today announced plans to open a second infrastructure region in Australia in th",
@@ -1283,59 +1326,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-autonomous-agents-market-growing-at-a-cagr-54-key-player-oracle-ibm-sap-aws-sas.md",
-      "title": "Autonomous Agents Market Growing at a CAGR 54% | Key Player Oracle, IBM, SAP, AWS, SAS",
-      "excerpt": "The global Autonomous Agents Market size is expected to grow from USD 345 million in 2019 to USD 2,992 million",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/autonomous-agents-market-growing-at-a-cagr-54-key-player-oracle-ibm-sap-aws-sas-2020-12-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/autonomous-agents-market-growing-at-a-cagr-54-key-player-oracle-ibm-sap-aws-sas-2020-12-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-01T16:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "IBM AI"
       ]
     }
   ],

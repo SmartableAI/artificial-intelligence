@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-11-20-as-festive-season-approaches-remember-these-cybersecurity-tips.md",
+      "title": "As festive season approaches, remember these cybersecurity tips",
+      "excerpt": "Next week is Black Friday and while it is expected to be rather muted compared to previous years, it is the day that has come to mark the start of the festive shopping season. As such, it’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.htxt.co.za/2020/11/20/as-festive-season-approaches-remember-these-cybersecurity-tips/",
+      "originalUrl": "https://www.htxt.co.za/2020/11/20/as-festive-season-approaches-remember-these-cybersecurity-tips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.htxt.co.za/wp-content/uploads/2019/07/cyber-security-1805246.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.htxt.co.za/2020/11/20/as-festive-season-approaches-remember-these-cybersecurity-tips/amp/",
+      "cdnAmpWebUrl": "https://www-htxt-co-za.cdn.ampproject.org/c/s/www.htxt.co.za/2020/11/20/as-festive-season-approaches-remember-these-cybersecurity-tips/amp/",
+      "publishedDateTime": "2020-11-20T06:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Htxt.Africa",
+        "domain": "htxt.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-20-automating-business-processes-with-machine-learning-in-the-covid-19-pandemic.md",
       "title": "Automating business processes with machine learning in the COVID-19 pandemic",
       "excerpt": "COVID-19 has changed our world significantly. All of this change has been almost instantaneous, forcing companies to pivot quickly and find new ways to operate. Automation is playing an increasingly important role to help companies adjust. The ability to automate business processes with machine learning",

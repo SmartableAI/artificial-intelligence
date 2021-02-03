@@ -43,6 +43,22 @@ related:
         width: 1020
         height: 574
         isCached: true
+  - title: "Facial recognition tool used by RCMP deemed mass surveillance of unwitting Canadians"
+    excerpt: "Privacy watchdogs say U.S. firm Clearview AI’s facial-recognition technology resulted in mass surveillance of Canadians and violated federal and provincial laws governing personal information. In a report Wednesday with three provincial counterparts,"
+    publishedDateTime: 2021-02-03T18:52:00Z
+    webUrl: "https://nationalpost.com/news/canada/clearview-ai-mass-surveillance-rcmp"
+    ampWebUrl: "https://nationalpost.com/news/canada/clearview-ai-mass-surveillance-rcmp/wcm/8194455a-f278-499b-86fd-bb890da4842b/amp/"
+    cdnAmpWebUrl: "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/news/canada/clearview-ai-mass-surveillance-rcmp/wcm/8194455a-f278-499b-86fd-bb890da4842b/amp/"
+    type: article
+    provider:
+      name: National Post
+      domain: nationalpost.com
+    quality: 52
+    images:
+      - url: "https://smartcdn.prod.postmedia.digital/nationalpost/wp-content/uploads/2021/02/Clearview.jpg"
+        width: 1000
+        height: 750
+        isCached: true
   - title: "Clearview AI facial recognition tool broke Canadian privacy laws, watchdogs say"
     excerpt: "The move included the indefinite suspension of Clearview AI's contract with the RCMP, its last remaining client in Canada."
     publishedDateTime: 2021-02-03T16:13:00Z
@@ -54,7 +70,23 @@ related:
       name: Global News
       domain: globalnews.ca
     quality: 50
+  - title: "‘What Clearview does is mass surveillance and it is illegal’: Privacy watchdog slams facial recognition tech used by RCMP and Toronto police"
+    excerpt: "A joint investigation by Canadian privacy regulators has concluded that Clearview AI’s controversial technology represented “the mass identification"
+    publishedDateTime: 2021-02-03T17:03:00Z
+    webUrl: "https://www.thestar.com/news/canada/2021/02/03/what-clearview-does-is-mass-surveillance-and-it-is-illegal-privacy-watchdog-slams-facial-recognition-tech-used-by-rcmp-and-toronto-police.html"
+    ampWebUrl: "https://www.thestar.com/amp/news/canada/2021/02/03/what-clearview-does-is-mass-surveillance-and-it-is-illegal-privacy-watchdog-slams-facial-recognition-tech-used-by-rcmp-and-toronto-police.html"
+    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/news/canada/2021/02/03/what-clearview-does-is-mass-surveillance-and-it-is-illegal-privacy-watchdog-slams-facial-recognition-tech-used-by-rcmp-and-toronto-police.html"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com
+    quality: 24
+    images:
+      - url: "https://images.thestar.com/GfuN0VnEnImJdvyL1B62vYa8BOg=/1200x800/smart/filters:cb(1612374889717)/https://www.thestar.com/content/dam/thestar/news/canada/2021/02/03/what-clearview-does-is-mass-surveillance-and-it-is-illegal-privacy-watchdog-slams-facial-recognition-tech-used-by-rcmp-and-toronto-police/rcmp.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
-secured: "kAKGgisGyT9YvV3jIkTW1AS6aOhmxx8LfBHEuYaENZBRuHKFAQUX5PsXJ1paeph3pfw/JwL4zUU+0QD3zUzaeHglWBM8Z8db/e0mF2qZSMozVB3Z/2YHgGtqS09U8FzLlb1fcJVd4txQmvP8Lu91HSJJeuqGK8W5P8kjQ0GCArfqOx7jal5L0i4nRHjknEm/Ba5ab3tCOA+TUzk3we2GekxqLUyAkdVyV0VG0dROaC0TpHz4GIesp989MzvBIyUQGmYY2YJ8G4GZaG7lNPnzmzpdkgtLRB8mZ5kmojg0ugbo60RtA8FUBD5FX/21Ma1+PwFkrI3YzD7WvzJB3oSsw/SaW3ZMNo9LNJoF8mllWmM=;ma6w5DdBnIXlErmDRygTAg=="
+secured: "wfoREk5Ee5Dz4nuXEN+f6AZZdnfh6hFocHSaGHQnpJiM/szjtVtNTsFLJpNeUduPRpoQ6XLcV581U3rg8NkSP95NAWofiprH2QLZ2Qo4EUHJZ/6dO5sCA5AAuouV+4EaMpl1Q3NaduAm8UFO5bWQnL98ecJ0y5E4eA7d9lDOEcyMyCpSjQySdgmbItiifvxbaESlArs3da6/XZPKGmTcdBmZzFXSDmANYIEYr00NhBL7yYRkucXUatLI3YI1h50HMowvR3/bBwB1Z9q6/oXIZPjEkobugG6YfmoTv4pgURZCvRe/Jlz/LFGxVSfnsRN7HleZNW192z/BuNJsCxRrvH2kEgB8vY1HVYcQMBGn0T9+6gb01Aup2xbn1O1GDoP1pLR2KSgSmRVxraz6ya7a4/A49yM36XFFRY/UGTp8mxyTHQ9+LGIkgAF8reNWckfLS5WGm3Pvwe6YwKDNtmQ9ZaYdIWHJ/BpIynkcl1S4voV05BfjysKZ7xYXRzMlxRYL9MrK7Sbn+fNLjQI7e047MQ==;14+5YHmSWSAd1x//br7Ciw=="
 ---
 

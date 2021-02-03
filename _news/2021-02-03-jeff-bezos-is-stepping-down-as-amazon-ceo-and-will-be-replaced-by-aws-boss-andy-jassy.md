@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "New Amazon CEO Andy Jassy Loves Fossil Fuels and Facial Recognition"
+    excerpt: "Jassy, who will replace Bezos this year, has a deeply concerning track record on everything from antitrust to killer robots."
+    publishedDateTime: 2021-02-03T18:29:00Z
+    webUrl: "https://www.vice.com/en/article/qjpm87/new-amazon-ceo-andy-jassy-loves-fossil-fuels-and-facial-recognition"
+    ampWebUrl: "https://www.vice.com/amp/en/article/qjpm87/new-amazon-ceo-andy-jassy-loves-fossil-fuels-and-facial-recognition"
+    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/qjpm87/new-amazon-ceo-andy-jassy-loves-fossil-fuels-and-facial-recognition"
+    type: article
+    provider:
+      name: VICE
+      domain: vice.com
+    quality: 91
+    images:
+      - url: "https://video-images.vice.com/articles/601ae267409f2e00958c730c/lede/1612374770921-gettyimages-670451714.jpeg?crop=1xw:0.843644544431946xh;center,center"
+        width: 4000
+        height: 2250
+        isCached: true
   - title: "As Jeff Bezos Takes Off, Meet His Earthbound Successor"
     excerpt: "And, most of all, the self-effacing and affable executive has been perhaps the most loyal lieutenant to the Amazon founder Jeff Bezos, joining him right out of Harvard Business School in 1997 and playing no small part as the tech mogul became one of the most powerful figures in American business."
     publishedDateTime: 2021-02-03T10:00:00Z
@@ -43,21 +59,53 @@ related:
         width: 1050
         height: 549
         isCached: true
-  - title: "Bezos' Departure as CEO Shows Amazon Is a Cloud Company Now"
-    excerpt: "Andy Jassy, who helped create Amazon Web Services in 2006 and has run it since, will take over as chief executive later this year."
-    publishedDateTime: 2021-02-03T01:07:00Z
-    webUrl: "https://www.wired.com/story/bezos-departure-ceo-shows-amazon-cloud-company/"
-    ampWebUrl: "https://www.wired.com/story/bezos-departure-ceo-shows-amazon-cloud-company/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/bezos-departure-ceo-shows-amazon-cloud-company/amp"
+  - title: "After 27 Years, Jeff Bezos Will Step Down As CEO Of Amazon"
+    excerpt: "He will be replaced by Andy Jassy, who is currently CEO of Amazon Web Services. Jeff Bezos is stepping down as Amazon CEO, the online internet retailing giant he founded 27 years ago, and will become executive chair focused on “new products and early initiatives,"
+    publishedDateTime: 2021-02-03T18:29:00Z
+    webUrl: "https://www.buzzfeednews.com/article/carolinehaskins1/jeff-bezos-stepping-down-amazon-ceo-jassy?origin=web-hf"
+    ampWebUrl: "https://www.buzzfeednews.com/amphtml/carolinehaskins1/jeff-bezos-stepping-down-amazon-ceo-jassy"
+    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/jeff-bezos-stepping-down-amazon-ceo-jassy"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
+      name: BuzzFeed News
+      domain: buzzfeednews.com
     quality: 74
     images:
-      - url: "https://media.wired.com/photos/6019cab23453f789506008d0/master/pass/Sec_Bezos_1036084400.jpg"
-        width: 2400
-        height: 1600
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2018-09/4/13/campaign_images/buzzfeed-prod-web-03/amazon-just-became-the-second-public-us-company-t-2-18612-1536082639-0_dblbig.jpg"
+        width: 625
+        height: 415
+        isCached: true
+  - title: "Incoming Amazon CEO said you can’t ‘assume’ police will abuse facial recognition tech"
+    excerpt: "Andy Jassy, who will take over for Jeff Bezos as CEO of Amazon, has previously defended law enforcement use of facial recognition technology."
+    publishedDateTime: 2021-02-03T17:32:00Z
+    webUrl: "https://www.dailydot.com/debug/andy-jassy-facial-recognition-amazon-law-enforcement/"
+    ampWebUrl: "https://www.dailydot.com/debug/andy-jassy-facial-recognition-amazon-law-enforcement/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/andy-jassy-facial-recognition-amazon-law-enforcement/?amp"
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 67
+    images:
+      - url: "https://uploads.dailydot.com/2021/02/Andy-Jassy-Amazon-Facial-Recognition.jpg?fm=pjpg&ixlib=php-3.3.0"
+        width: 2000
+        height: 1000
+        isCached: true
+  - title: "Amazon.com announces financial results and CEO transition"
+    excerpt: "Founder and CEO Jeff Bezos will transition to role of Executive Chair in Q3, Andy Jassy to become Chief Executive Officer of Amazon."
+    publishedDateTime: 2021-02-03T11:21:00Z
+    webUrl: "https://www.telecomtv.com/content/digital-platforms-services/amazon-com-announces-financial-results-and-ceo-transition-40764/"
+    ampWebUrl: "https://www.telecomtv.com/content/digital-platforms-services/amazon-com-announces-financial-results-and-ceo-transition-40764/amp/"
+    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/digital-platforms-services/amazon-com-announces-financial-results-and-ceo-transition-40764/amp/"
+    type: article
+    provider:
+      name: TelecomTV
+      domain: telecomtv.com
+    quality: 46
+    images:
+      - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Jeff Bezos Will Step Down as Amazon CEO in Third Quarter of 2021"
     excerpt: "Jeff Bezos will step down as CEO of Amazon and become Executive Chair of the Amazon Board in 2021 third quarter. Andy Jassy will become CEO. Bezos will focus on new products and early initiatives. As"

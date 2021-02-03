@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
-excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
-publishedDateTime: 2021-02-03T08:22:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
-webUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
+excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance"
+publishedDateTime: 2021-02-02T22:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
+webUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
 type: article
-quality: 46
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Microsoft's cutting-edge machine-learning tool moves from the lab to the mainstream"
@@ -40,6 +34,22 @@ related:
       - url: "https://tr3.cbsistatic.com/hub/i/r/2021/02/01/1b622622-e749-47c0-9c60-ed09ab784bbe/resize/400x/f50dcab974e7e9400bbc49f5c9acb474/rl-wikipedia-2.jpg"
         width: 400
         height: 388
+        isCached: true
+  - title: "Microsoft launches Custom Neural Voice in limited access"
+    excerpt: "Microsoft today launched Custom Neural Voice in limited preview, a service that allows customers to create custom voices using AI."
+    publishedDateTime: 2021-02-03T17:02:00Z
+    webUrl: "https://venturebeat.com/2021/02/03/microsoft-launches-custom-neural-voice-in-limited-access/"
+    ampWebUrl: "https://venturebeat.com/2021/02/03/microsoft-launches-custom-neural-voice-in-limited-access/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/03/microsoft-launches-custom-neural-voice-in-limited-access/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Moving from the Lab to the Mainstream - Microsoft's Machine-Learning Tool"
     excerpt: "Now techniques developed by Microsoft are emerging from the lab and moving into production. Perhaps the most significant embodiment of this development is Personalizer, part of Azure Cognitive Services on the Azure AI Platform³."
@@ -133,7 +143,7 @@ related:
   - title: "Observe.AI and Microsoft Team Up on Contact Center AI"
     excerpt: "Observe.AI, a contact center artificial intelligence technology provider, is working with Microsoft to bring automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
     publishedDateTime: 2021-02-02T17:29:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=145046"
+    webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Observe.AI-and-Microsoft-Team-Up-on-Contact-Center-AI-145046.aspx"
     type: article
     provider:
       name: Destination CRM
@@ -161,6 +171,6 @@ related:
         height: 470
         isCached: true
 
-secured: "SZl5bK+8iHb9TUoiMYDpKe1TUw2t2hZSSxCLpXXD7WDwKFfjYCiCmOoAkKSTE153x/qO6d6/TQkoN2xAyTR1ga6ZFIkdqTU4xa9bzaG0fbnHpcbhkme1hjAsXSp9M9y9sWTscld2/mKzloYLeAYMrBFresWc3WAbCm6yGzx/9AwbxHjTZZKG9X9cl7bkiQggbSRSpTSDUuP6Wtvrk0nmesCxLVFYzvdHansYbYAUFQ4xqHNliWMquUBoWZ16Cev1YaNjImyUHmeR1XRqtGXSl5NkFofQ0YRmwavaG0n3nFW8bVoNwZM0rljh2/CgfZb5fSIMSJzk1E7PUggPqf9SLQO9tA/MJ8uOP89XxaoAupM=;hPkL3p9ihLLG3wPZSNAFTw=="
+secured: "AY8UmvrzRW1YoPlHk3brf4ockLJFmor3HGCSeir+/i8QcHLq42FKqssB9Fpg0/abfAgEBcN1zamvgrvYHMmirmlFIl2p9YFX+sGMvp5w5LdZ3kSefKPIzI9igTsm7Nob2c8FRkFXsa3huBajAEtzXx/NARbamtgMDnWEIX5W/m+CwY/k+sJB6BeoUf3dxkMLhE0zYq7lOLkJDLAblhyj5JGg3jzysMT3H5XVjAOjca/7tCg5m4c00rH7Xvrcg4IOLZmrUgiRX6ItlxPLpMRacrCeQiOLijczl7KWPYLQlyDPoKZcRL6uJ9TlrhLqCayXK1dM5Hfr43/kvBLcGI1nIwcrjryQOz75CUzjXkpztcM=;qwxuVS8M0olgjG+ZtDQIOQ=="
 ---
 

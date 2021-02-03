@@ -2,6 +2,57 @@
   "page": 75,
   "value": [
     {
+      "path": "_news/2020-12-04-how-ai-is-making-an-impact-on-the-surveillance-world.md",
+      "title": "How AI Is Making An Impact On The Surveillance World",
+      "excerpt": "Numerous states are adopting sophisticated AI surveillance technologies -- some legitimate, some violating human rights and some of which fall into a gray area.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/04/how-ai-is-making-an-impact-on-the-surveillance-world/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/04/how-ai-is-making-an-impact-on-the-surveillance-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6cc69863202e1c1b581ae8%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/04/how-ai-is-making-an-impact-on-the-surveillance-world/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/12/04/how-ai-is-making-an-impact-on-the-surveillance-world/amp/",
+      "publishedDateTime": "2020-12-04T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-04-fortinet-collaborates-with-aws-to-deliver-an-integrated-next-generation-firewall-solution-to-protect-customer-workloads-on-aws.md",
       "title": "Fortinet Collaborates with AWS to Deliver an Integrated Next-Generation Firewall Solution to Protect Customer Workloads on AWS",
       "excerpt": "Fortinet Continues to Build Cybersecurity Solutions with AWS Services, including AWS Gateway Load Balancer, AWS Outposts, AWS Network Firewall and AWS Transit Gateway SUNNYVALE, Calif., Dec. 03, 2020 (GLOBE NEWSWIRE) -- John Maddison,",
@@ -1141,50 +1192,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-ready-to-enter-a-new-era-of-ai-ready-smartphones.md",
-      "title": "Ready to enter a new era of AI-ready smartphones?",
-      "excerpt": "The Qualcomm Snapdragon 888 chip will let handsets take high-resolution photos faster and perform AI-related tasks more efficiently",
-      "sourceUrl": null,
-      "webUrl": "https://techwireasia.com/2020/12/ready-to-enter-a-new-era-of-ai-ready-smartphones/",
-      "originalUrl": "https://techwireasia.com/2020/12/ready-to-enter-a-new-era-of-ai-ready-smartphones/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.techwireasia.com/wp-content/uploads/2020/12/shutterstock_1562699506-450x300.jpg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techwireasia.com/amp/2020/12/ready-to-enter-a-new-era-of-ai-ready-smartphones/",
-      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2020/12/ready-to-enter-a-new-era-of-ai-ready-smartphones/",
-      "publishedDateTime": "2020-12-03T16:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techwireasia.com",
-        "domain": "techwireasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

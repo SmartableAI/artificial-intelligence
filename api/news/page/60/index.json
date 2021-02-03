@@ -2,6 +2,40 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2020-12-15-cognitive-assessment-and-training-market-worth-1801-billion-globally-by-2027-at-2856-cagr-verified-market-research.md",
+      "title": "Cognitive Assessment and Training Market Worth $ 18.01 Billion, Globally, by 2027 at 28.56% CAGR Verified Market Research",
+      "excerpt": "\"Cognitive Assessment and Training Market by type (Pen- and Paper-Based Assessment, Hosted Assessment, and Biometrics Assessment), by Component (Solution and Services), by Application (Clinical ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wallstreet-online.de/nachricht/13274527-cognitive-assessment-and-training-market-worth-18-01-billion-globally-by-2027-at-28-56-cagr-verified-market-research/all",
+      "originalUrl": "https://www.wallstreet-online.de/nachricht/13274527-cognitive-assessment-and-training-market-worth-18-01-billion-globally-by-2027-at-28-56-cagr-verified-market-research/all",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-15T07:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "wallstreet online",
+        "domain": "wallstreet-online.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-15-ai-pre-cog-predicts-which-twitter-users-will-spread-disinformation.md",
       "title": "AI ‘pre-cog’ predicts which Twitter users will spread disinformation",
       "excerpt": "Researchers used the system to forecast which social media users will share disinformation in the future and also revealed the language that they use.",
@@ -1156,58 +1190,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-at-226-of-cagr-deep-learning-market-share-will-increase-and-aimed-to-cross-62151-million-usd-in-2025.md",
-      "title": "At 22.6 % of CAGR Deep Learning Market Share will increase and aimed to cross 6215.1 Million USD in 2025",
-      "excerpt": "Selbyville, Delaware. The report Deep Learning Market Analysis and forecast 2025 maintains enhanced dynamics and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/at-226-of-cagr-deep-learning-market-share-will-increase-and-aimed-to-cross-62151-million-usd-in-2025-2020-12-15?tesla=y",
-      "originalUrl": "https://www.marketwatch.com/press-release/at-226-of-cagr-deep-learning-market-share-will-increase-and-aimed-to-cross-62151-million-usd-in-2025-2020-12-15?tesla=y",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-14T22:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

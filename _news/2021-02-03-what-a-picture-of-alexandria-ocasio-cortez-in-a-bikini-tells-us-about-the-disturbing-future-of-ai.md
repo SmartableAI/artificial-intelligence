@@ -3,8 +3,8 @@ category: news
 title: "What a picture of Alexandria Ocasio-Cortez in a bikini tells us about the disturbing future of AI"
 excerpt: "New research on image-generating algorithms has raised alarming evidence of bias. It’s time to tackle the problem of discrimination being baked into tech, before it is too late, writes Arwa Mahdawi"
 publishedDateTime: 2021-02-03T10:24:00Z
-originalUrl: "https://www.theguardian.com/commentisfree/2021/feb/03/what-a-picture-of-alexandria-ocasio-cortez-in-a-bikini-tells-us-about-the-disturbing-future-of-ai?ICID=ref_fark"
-webUrl: "https://www.theguardian.com/commentisfree/2021/feb/03/what-a-picture-of-alexandria-ocasio-cortez-in-a-bikini-tells-us-about-the-disturbing-future-of-ai?ICID=ref_fark"
+originalUrl: "https://www.theguardian.com/commentisfree/2021/feb/03/what-a-picture-of-alexandria-ocasio-cortez-in-a-bikini-tells-us-about-the-disturbing-future-of-ai"
+webUrl: "https://www.theguardian.com/commentisfree/2021/feb/03/what-a-picture-of-alexandria-ocasio-cortez-in-a-bikini-tells-us-about-the-disturbing-future-of-ai"
 ampWebUrl: "https://amp.theguardian.com/commentisfree/2021/feb/03/what-a-picture-of-alexandria-ocasio-cortez-in-a-bikini-tells-us-about-the-disturbing-future-of-ai"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2021/feb/03/what-a-picture-of-alexandria-ocasio-cortez-in-a-bikini-tells-us-about-the-disturbing-future-of-ai"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 360
     isCached: true
 
-secured: "KKk9cqxN4Mf+srxmnaEVGOUR/cK4izVnuPyE3pPEqSIVPjytTAqAv4Kcz3JGxtuCVhmcE7muPBpSKnudHu6889bJkVKER57jcY4mxF/QrAF9qho1T5vD1X7ap39k3QbYBgbAFtTD+rzCeHJjjNwm7Z6F80gMAQpCtrhfxaOvjeUypTCPUQ+NKaS7zLyNV1bYUtPh8J+cTpjfFNApZ1TsHJuJHTzkDyGjloxmI+p1cWbhbpMEIxXwYl8ncC6+Hlb1S3b2NS/734kbZXWyHMZKTRk1zd4FAch38OAbQe4Ky41mfMyBCM6LznbTtzxoCw2hmhMOjB2dXrStE39zlmQht7iSeqxge886qwZqqPiVhzg=;BWgK0hArnzmxAyJA5Bj51A=="
+secured: "BNuhEbHI2BJ/WqWrYjAQRIeG1kZteGiWjZPXuKqHbEqbEBMuREpoDZ9O9UNp5KqGchDcxlucQGOYuaUuVl/JCSNIiLkIy8WwP7jj+SJ+In2Pou7CEUV15ZcvJJoPAQwDYoZS9IZB7u0Sm8/pQpDCPxhj74KU70Io79PEssAA+G4owUvvFCvsUqol/V6F+QbwuEE8a0CwScOikkYdTQLAfaxrCgB5clddvrteZn0QZlUdWnGS1ueyKlRf9xSwc8AY/3p0JEDtzJGJg7OiWWSgS+Dv1aNxkuSuFRoERxaq9uCAqqwmxSLLV9NOKB70GFLVTT5nspzuQobs4bM2JcQIpLe9D0ojaTKZF+AdmvstMvY=;TLmumvgYH/9eDsjR6gk+Hw=="
 ---
 

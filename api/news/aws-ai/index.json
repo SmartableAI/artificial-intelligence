@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-02-03-as-jeff-bezos-takes-off-meet-his-earthbound-successor.md",
-      "title": "As Jeff Bezos Takes Off, Meet His Earthbound Successor",
-      "excerpt": "And, most of all, the self-effacing and affable executive has been perhaps the most loyal lieutenant to the Amazon founder Jeff Bezos, joining him right out of Harvard Business School in 1997 and playing no small part as the tech mogul became one of the most powerful figures in American business.",
+      "path": "_news/2021-02-04-new-amazon-ceo-andy-jassy-loves-fossil-fuels-and-facial-recognition.md",
+      "title": "New Amazon CEO Andy Jassy Loves Fossil Fuels and Facial Recognition",
+      "excerpt": "Jassy, who will replace Bezos this year, has a deeply concerning track record on everything from antitrust to killer robots.",
       "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/02/03/opinion/amazon-jeff-bezos-andy-jassy.html",
-      "originalUrl": "https://www.nytimes.com/2021/02/03/opinion/amazon-jeff-bezos-andy-jassy.html",
+      "webUrl": "https://www.vice.com/en/article/qjpm87/new-amazon-ceo-andy-jassy-loves-fossil-fuels-and-facial-recognition",
+      "originalUrl": "https://www.vice.com/en/article/qjpm87/new-amazon-ceo-andy-jassy-loves-fossil-fuels-and-facial-recognition",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 191,
       "tags": null,
       "images": [
         {
-          "url": "https://static01.nyt.com/images/2021/03/02/opinion/02swisher/02swisher-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
+          "url": "https://video-images.vice.com/articles/601ae267409f2e00958c730c/lede/1612374770921-gettyimages-670451714.jpeg?crop=1xw:0.843644544431946xh;center,center",
+          "width": 4000,
+          "height": 2250,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/02/03/opinion/amazon-jeff-bezos-andy-jassy.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/03/opinion/amazon-jeff-bezos-andy-jassy.amp.html",
-      "publishedDateTime": "2021-02-03T02:00:00-08:00",
+      "ampWebUrl": "https://www.vice.com/amp/en/article/qjpm87/new-amazon-ceo-andy-jassy-loves-fossil-fuels-and-facial-recognition",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/qjpm87/new-amazon-ceo-andy-jassy-loves-fossil-fuels-and-facial-recognition",
+      "publishedDateTime": "2021-02-03T10:29:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
+        "name": "VICE",
+        "domain": "vice.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -50,7 +50,8 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -104,6 +105,58 @@
         "AI",
         "AWS AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-02-03-bezos-departure-as-ceo-shows-amazon-is-a-cloud-company-now.md",
+      "title": "Bezos' Departure as CEO Shows Amazon Is a Cloud Company Now",
+      "excerpt": "Andy Jassy, who helped create Amazon Web Services in 2006 and has run it since, will take over as chief executive later this year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/bezos-departure-ceo-shows-amazon-cloud-company/",
+      "originalUrl": "https://www.wired.com/story/bezos-departure-ceo-shows-amazon-cloud-company/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6019cab23453f789506008d0/master/pass/Sec_Bezos_1036084400.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/bezos-departure-ceo-shows-amazon-cloud-company/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/bezos-departure-ceo-shows-amazon-cloud-company/amp",
+      "publishedDateTime": "2021-02-02T17:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -1415,58 +1468,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-automating-amazon-personalize-solution-using-the-aws-step-functions-data-science-sdk.md",
-      "title": "Automating Amazon Personalize solution using the AWS Step Functions Data Science SDK",
-      "excerpt": "Machine learning (ML)-based recommender systems aren’t a new concept across organizations such as retail, media and entertainment, and education, but developing such a system can be a resource-intensive task—from data labelling, training and inference, to scaling. You also need to apply continuous integration,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automating-amazon-personalize-solution-using-the-aws-step-functions-data-science-sdk/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automating-amazon-personalize-solution-using-the-aws-step-functions-data-science-sdk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/01/12/ML-1267-12.jpg",
-          "width": 633,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-14T09:47:17-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "AWS AI"
       ]

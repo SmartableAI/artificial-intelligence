@@ -2,6 +2,57 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2020-12-06-more-than-1500-google-employees-sign-petition-condemning-firing-of-black-ai-ethicist-timnit-gebru.md",
+      "title": "More Than 1,500 Google Employees Sign Petition Condemning Firing of Black AI Ethicist Timnit Gebru",
+      "excerpt": "More than 1,500 Google employees and some 2,000 academic, industry, and civil society supporters have signed a petition protesting the termination of Timnit Gebru, a Black scientist and artificial intelligence ethicist.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/more-than-1-500-google-employees-sign-petition-condemni-1845816400",
+      "originalUrl": "https://gizmodo.com/more-than-1-500-google-employees-sign-petition-condemni-1845816400",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/zrxtfs0w2gbmty1jqgis.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/more-than-1-500-google-employees-sign-petition-condemni-1845816400/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/more-than-1-500-google-employees-sign-petition-condemni-1845816400/amp",
+      "publishedDateTime": "2020-12-05T09:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-06-top-20-predictions-of-how-ai-is-going-to-improve-cybersecurity-in-2021.md",
       "title": "Top 20 Predictions Of How AI Is Going To Improve Cybersecurity In 2021",
       "excerpt": "In 2021, cybersecurity vendors will accelerate AI and machine learning app development to combine human and machine insights so they can out-innovate attackers intent on escalating an AI-based arms race.",
@@ -1149,57 +1200,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-how-ai-is-making-an-impact-on-the-surveillance-world.md",
-      "title": "How AI Is Making An Impact On The Surveillance World",
-      "excerpt": "Numerous states are adopting sophisticated AI surveillance technologies -- some legitimate, some violating human rights and some of which fall into a gray area.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/04/how-ai-is-making-an-impact-on-the-surveillance-world/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/04/how-ai-is-making-an-impact-on-the-surveillance-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6cc69863202e1c1b581ae8%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/04/how-ai-is-making-an-impact-on-the-surveillance-world/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/12/04/how-ai-is-making-an-impact-on-the-surveillance-world/amp/",
-      "publishedDateTime": "2020-12-04T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,6 +2,50 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2020-12-18-healthcare-artificial-intelligence-market-may-see-a-big-move-microsoft-ibm-medtronic.md",
+      "title": "Healthcare Artificial Intelligence Market May See a Big Move | Microsoft, IBM, Medtronic",
+      "excerpt": "Healthcare Artificial Intelligence Market Comprehensive Study is an expert and top to bottom investigation on the momentum condition of the worldwide Healthcare Artificial Intelligence industry with an attention on the Global market. The report gives key ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2213095/healthcare-artificial-intelligence-market-may-see-a-big-move",
+      "originalUrl": "https://www.openpr.com/news/2213095/healthcare-artificial-intelligence-market-may-see-a-big-move",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/c/Tc18165825_g.jpg",
+          "width": 775,
+          "height": 436,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2213095/healthcare-artificial-intelligence-market-may-see-a-big-move",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2213095/healthcare-artificial-intelligence-market-may-see-a-big-move",
+      "publishedDateTime": "2020-12-18T02:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-18-thales-speakers-bureau-experts-to-ponder-quantum-technology-5g-digital-identity-cybersecurity-and-artificial-intelligence.md",
       "title": "Thales Speakers Bureau: Experts to Ponder Quantum Technology, 5G, Digital Identity, Cybersecurity and Artificial Intelligence",
       "excerpt": "Quantum technology, 5G, cyberdefence, cybersecurity, biometrics, AI, self-driving cars ... in digital and “deep tech” innovations – connectivity, big data, artificial intelligence, cybersecurity and quantum technology – to build a future we ...",
@@ -1110,49 +1154,6 @@
       "provider": {
         "name": "EurekAlert!",
         "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-researchers-use-artificial-intelligence-to-id-mosquitos.md",
-      "title": "Researchers use artificial intelligence to ID mosquitos",
-      "excerpt": "Rapid and accurate identification of mosquitoes that transmit human pathogens such as malaria is an essential part of mosquito-borne disease surveillance. Now, researchers reporting in PLOS Neglected Tropical Diseases have shown the effectiveness of an artificial intelligence system—known as a Convoluted Neural Network—to classify mosquito sex,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2020-12-artificial-intelligence-id-mosquitos.html",
-      "originalUrl": "https://medicalxpress.com/news/2020-12-artificial-intelligence-id-mosquitos.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/88-researchersu.jpg",
-          "width": 2592,
-          "height": 1944,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-12-artificial-intelligence-id-mosquitos.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-12-artificial-intelligence-id-mosquitos.amp",
-      "publishedDateTime": "2020-12-17T11:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
         "images": null,
         "publishers": null,
         "authors": null

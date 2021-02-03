@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-launches-open-ai-energy-initiat
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-launches-open-ai-energy-initiative-in-partnership-with-shell-c3-ai-others/"
 type: article
 quality: 97
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://www.hartenergy.com/themes/custom/hart_energy/screenshot.png"
         width: 605
         height: 500
+        isCached: true
+  - title: "Microsoft launches Custom Neural Voice in limited access – Jaweb"
+    excerpt: "Microsoft today announced the general availability of Custom Neural Voice, an Azure Cognitive Services product that lets developers create synthetic voices with neural text-to-speech technology. It’s in limited access,"
+    publishedDateTime: 2021-02-03T17:41:00Z
+    webUrl: "https://elmoudjaweb.com/microsoft-launches-custom-neural-voice-in-limited-access-jaweb/"
+    ampWebUrl: "https://elmoudjaweb.com/microsoft-launches-custom-neural-voice-in-limited-access-jaweb/?amp"
+    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/microsoft-launches-custom-neural-voice-in-limited-access-jaweb/?amp"
+    type: article
+    provider:
+      name: Elmoudjaweb
+      domain: elmoudjaweb.com
+    quality: 59
+    images:
+      - url: "https://elmoudjaweb.com/wp-content/uploads/2021/02/Microsoft-launches-Custom-Neural-Voice-in-limited-access-–-Jaweb.png"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Shell, C3 AI, Baker Hughes, and Microsoft Launch the Open AI Energy Initiative, an Ecosystem of AI Solutions to Help Transform the Energy Industry"
     excerpt: "Baker Hughes (NYSE:BKR), and Microsoft (NASDAQ:MSFT) today announced the launch of the Open AI Energy Initiative™ (OAI),"

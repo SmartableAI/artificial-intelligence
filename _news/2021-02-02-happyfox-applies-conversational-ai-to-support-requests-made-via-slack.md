@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/02/happyfox-applies-conversational-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/02/happyfox-applies-conversational-ai-to-support-requests-made-via-slack/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 98
 published: true
 
 provider:

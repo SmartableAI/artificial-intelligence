@@ -44,6 +44,22 @@ related:
         width: 400
         height: 388
         isCached: true
+  - title: "Microsoft launches Custom Neural Voice in limited access"
+    excerpt: "Microsoft today launched Custom Neural Voice in limited preview, a service that allows customers to create custom voices using AI."
+    publishedDateTime: 2021-02-03T17:02:00Z
+    webUrl: "https://venturebeat.com/2021/02/03/microsoft-launches-custom-neural-voice-in-limited-access/"
+    ampWebUrl: "https://venturebeat.com/2021/02/03/microsoft-launches-custom-neural-voice-in-limited-access/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/03/microsoft-launches-custom-neural-voice-in-limited-access/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Moving from the Lab to the Mainstream - Microsoft's Machine-Learning Tool"
     excerpt: "Now techniques developed by Microsoft are emerging from the lab and moving into production. Perhaps the most significant embodiment of this development is Personalizer, part of Azure Cognitive Services on the Azure AI Platform³."
     publishedDateTime: 2021-02-02T17:27:00Z
@@ -136,7 +152,7 @@ related:
   - title: "Observe.AI and Microsoft Team Up on Contact Center AI"
     excerpt: "Observe.AI, a contact center artificial intelligence technology provider, is working with Microsoft to bring automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
     publishedDateTime: 2021-02-02T17:29:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=145046"
+    webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Observe.AI-and-Microsoft-Team-Up-on-Contact-Center-AI-145046.aspx"
     type: article
     provider:
       name: Destination CRM
@@ -148,19 +164,14 @@ related:
         height: 610
         isCached: true
   - title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
-    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
-    publishedDateTime: 2021-02-03T08:22:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
+    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance"
+    publishedDateTime: 2021-02-02T22:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 46
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Business Wire
+      domain: businesswire.com
+    quality: 26
 
 secured: "Mc66S8eymPUF5rMiL+5t7sccQNw6XkQ846cTMlh+NbOafwfRqZcuZ5eU/VekP2GTJl/XmgsldYWFd2CJQt877R3X13+CVDdNtk9l9q37VSFRlPhuvxfdyV3krLH2XDA5bjnCTAWmMLWLi014AgrqhSVB/RLd6VFbaoWyVH8+uWnhoFRVEg1S6txsZMCYwiacKSYafvP3Z9MFoKCEgNKCyZXDK//ayFxzbT7gAZB8U0ECLPgQYvG4N7EMzAuUmZ4ByLWEK6v+vTW2iWvhp5FzYI7J/DB8Z+x+SiuW85MTemDoeDzYnfGaRPMbB2C3DWo1TFDrxZszyf5qK4W5HNvZdtKhHaJ+DM+F2EgcC28ywjbUiGeGaXzwdCyd5LzI75E48+hMpZt+YoxLI6kXPEdmehqNO7sSubEwKH5CLBSKGkYLxuJ/1Tu7Qf/ZGRzF3aTdwkm8VdxbPzB1IsHpuKNp4Y4Y4kZq5uwh9Pfi0928NC2kk0kKwKjzo5AYijW/wlwwjjVo2fnJDgFXLcORSPJhKw==;AbFbVkS2mIED+ZaQ9s+42g=="
 ---
