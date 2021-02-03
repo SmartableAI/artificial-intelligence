@@ -3,11 +3,11 @@ category: news
 title: "C3.ai Digital Transformation Institute Announces Call for Papers to Advance AI for Energy and Climate Security"
 excerpt: "The C3.ai Digital Transformation Institute invites scholars, software developers, and researchers to address the challenge of re-envisioning energy systems with artificial intelligence (AI) and digital transformation to lead the way to a lower-carbon,"
 publishedDateTime: 2021-02-03T08:22:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-champaign-north-america-software-industry-6b5fe56f2d2443c0a8477d3bd952b2f2"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-champaign-north-america-software-industry-6b5fe56f2d2443c0a8477d3bd952b2f2"
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-champaign-north-america-software-industry-9a726e68ea5840c0a1cd7176aa6b4d4b"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-champaign-north-america-software-industry-9a726e68ea5840c0a1cd7176aa6b4d4b"
 type: article
-quality: 38
-heat: 38
+quality: 36
+heat: 36
 published: false
 
 provider:
@@ -18,7 +18,6 @@ topics:
   - AI Ethics
   - AI
   - AI in Security
-  - Microsoft AI
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"
@@ -37,6 +36,6 @@ related:
       domain: businesswire.com
     quality: 18
 
-secured: "Hz3xwsofYUD2c3q9l1otDSplEPSl7CalC2ALQa7hOeoU93RF8W9okY2b7J80bHooLbN9nJskLdVdkU7V08hJ/V16Y+GC0kMD7VVO1aqXZKTwZwczTKvqG66tU4IVLowhd71F30d4BADYuiezJJcmcD0EXoqbgW7wCGsgAuvHFELYVm06/uky2a//IxJXyvxWTPDYam/lk01/wbxQR1nNIyotfOHD/Tf3Q0OVr0vmUDowjhI3MKBsOYb0AVlXLTxGwHgAOe5m21fzsGgCjuQL7CSohg901ArtihnrE+69Ie43iJ6R+qbg3rCGbcWSpa4ZKrxGkAZAirOehUeD/DcGTeoDolhIWhGBwImRoLJvQiU=;9lWkID+lAJEDVxop59MGbg=="
+secured: "vxuH0aLovr3yDYkxEx4BwQvyIgPkRW+xzZFfDydhCGfpBariyCDG5SCvD7CiUhLiXz1gbO4cL0H02nm7zLtf9591dXTHu5Ub03hjpGYRcEP8U85T4pMVJiwZp14xBC8EYSEJAMc62WEo5qzMfTt3/hr98eSV7G2nyDu9Ifzn25pJB3iBSiiOLPw9A80cttayNJYtulv+ODxfBrd+rHHcR589nkpb+uXV5ELRh3peyo5rRZ14mqRo0AZGq3v2QtKGlPLFcdAumUB8uT0kOdBdraMy3OoRr1X6vyB3AySsI3Sso1byC5Z5vbpEQ4GnW0sFlKAMHT0osaEsQWNc1EoUvsycbEbTyFiIeewAcGBjEHY=;SfcQw7sQuehg+T5vlD/dfw=="
 ---
 

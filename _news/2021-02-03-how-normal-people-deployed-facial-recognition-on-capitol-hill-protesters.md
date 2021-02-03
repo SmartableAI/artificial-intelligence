@@ -49,12 +49,12 @@ related:
         isCached: true
   - title: "Apple creates workaround to facial recognition blocked by face mask"
     excerpt: "This has probably happened at least once to an Apple user who is trying to unlock their iPhone with the device’s camera. The phone just can’t figure out you are you while you’re wearing a face mask. Jumping through the hoops of trying the camera,"
-    publishedDateTime: 2021-02-03T18:45:00Z
-    webUrl: "https://www.fox23.com/news/trending/apple-creates-workaround-facial-recognition-blocked-by-face-mask/F7GQKNQQ35C3DCUKS3MJMBR5VQ/"
+    publishedDateTime: 2021-02-03T19:47:00Z
+    webUrl: "https://www.fox13memphis.com/news/trending/apple-creates-workaround-facial-recognition-blocked-by-face-mask/F7GQKNQQ35C3DCUKS3MJMBR5VQ/"
     type: article
     provider:
-      name: Fox 23
-      domain: fox23.com
+      name: FOX13 Memphis
+      domain: fox13memphis.com
     quality: 39
     images:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/cmg/HZVJSW2DHBCL7JGHKGCW72AOEQ.jpg"

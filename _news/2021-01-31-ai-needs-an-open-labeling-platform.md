@@ -60,16 +60,19 @@ related:
         height: 512
         isCached: true
   - title: "Bindr.AI Workplace Data Platform Emerges from Stealth, Offering Intuitive, Time-Saving Solution for Employers"
-    excerpt: "Bindr.AI, a Silicon Valley-based technology startup, today announced that it is emerging from stealth mode and launching"
+    excerpt: "Bindr.AI, a Silicon Valley-based technology startup, today announced that it is emerging from stealth mode and launching a limited beta trial for its"
     publishedDateTime: 2021-02-03T17:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/02/n19470429/bindr-ai-workplace-data-platform-emerges-from-stealth-offering-intuitive-time-saving-solution-for-"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19470429"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19470429"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/bindr-ai-workplace-data-platform-emerges-from-stealth-offering-intuitive-time-saving-solution-for-employers/article_cfbca046-9bde-528d-93f4-0d0d8be4da12.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 18
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "KrbP2050Fe4bU+OXSq8z6/m5NiGvTEulBURWVtN8lfWvgamkhrqhMVMg2xP5D8ovGNYXeqQ+gN2+oHfMmiL23bgQmsl/wBBNARVHN/vNbZYCkj6VRDuIdoqev277Zm3KpMiFNwOC3eR7u2VaW1yjKbkWEUgW54uC1k/ImX4IT2dpnArvS/yCcAMJufK2NVNsqsO41rKLfLJaXIbY5CB5M2krugXOtBkZXBTlgYPdYxJp8LMQ3oZzClT4VDSsYsvxrTCQp/1wFyzDNNr0GRBTU4LVXQdZ6whMqNRkcbdlgjY+unz8w6JwMN0QYJqBhBLDeb1hLc+AdmUR0pptV1q4P4madAC5qNbIm0Hg3SlshI6NTP+VILcIDnUFicv00CmZ1vjFb/XRXKIdGBEg7wlkG7Iz00ldF5+tovlOIF5mrqWJRC9EAoEhSn7dxVjQqJi+KZ1cYTGuZCltZ/UC9klURTr69muh5D5G/2WaBJhMQXHTvpb7TI8Ot86w77Fl8p+eRFaAhhaXZasDS9bpu4ajKw==;M3/FSkWNA00U4OvcIQ4ieQ=="
 ---

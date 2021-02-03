@@ -24,12 +24,12 @@ related:
   - title: "C3.ai Digital Transformation Institute Announces Call for Papers to Advance AI for Energy and Climate Security"
     excerpt: "The C3.ai Digital Transformation Institute invites scholars, software developers, and researchers to address the challenge of re-envisioning energy systems with artificial intelligence (AI) and digital transformation to lead the way to a lower-carbon,"
     publishedDateTime: 2021-02-03T08:22:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-champaign-north-america-software-industry-6b5fe56f2d2443c0a8477d3bd952b2f2"
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-champaign-north-america-software-industry-9a726e68ea5840c0a1cd7176aa6b4d4b"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 38
+    quality: 36
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

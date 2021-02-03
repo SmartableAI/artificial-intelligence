@@ -9,7 +9,7 @@ ampWebUrl: "https://www.leicestermercury.co.uk/news/local-news/scientists-awarde
 cdnAmpWebUrl: "https://www-leicestermercury-co-uk.cdn.ampproject.org/c/s/www.leicestermercury.co.uk/news/local-news/scientists-awarded-3m-project-use-4943363.amp"
 type: article
 quality: 66
-heat: 66
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,24 @@ images:
     width: 615
     height: 409
     isCached: true
+
+related:
+  - title: "Scientists invented an AI to detect racist people"
+    excerpt: "A team of researchers at the University of Virginia have developed an AI system that attempts to detect and quantify the physiological signs associated with racial bias. In other words, they’re building a wearable device that tries to identify when you’re having racist thoughts."
+    publishedDateTime: 2021-02-03T20:13:00Z
+    webUrl: "https://thenextweb.com/neural/2021/02/03/scientists-invented-an-ai-to-detect-racist-people/"
+    ampWebUrl: "https://thenextweb.com/neural/2021/02/03/scientists-invented-an-ai-to-detect-racist-people/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/03/scientists-invented-an-ai-to-detect-racist-people/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 87
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/07/spiderman-spot-796x448.png"
+        width: 796
+        height: 448
+        isCached: true
 
 secured: "qM/Y8euexttzdQcot5PTGvlxkY/JUgwPCJJLVhg6Kr6tZ3KHlyEc5hJ2Jww6xscnJh2nZoVTBlwqAVTZH+9JlWnmv5VdmR8rPyN1fKZRJUUKv1Vs7LlPzyMPCPqdR2JiCd+sT9+mMHf15OE3S2nH5685rGpFvCjugEeqZsqMxxWXctNqNfkEMcngkiSalTAIMGA2CIEXCmNvj5chwXxivwdX1JTOegPS4Ruc1snRxy9e0yeNz8LYAm5wR0XUDhO7pSZyv2K6AQXfTufdeDM+4pnkxxz6S3xWoIt6nZRokEl924uqHfQw1/+1G1yHoMOVeTn8kH+5X5Z8eRYyoJNiEMmab71qAJ8RJcTfBl0G9+WlM3XKa17YbY7SnwL1Xhz1f2XQ1FEzkaC9Hl34xlT5cfTqP1SeRH4jJg/ZIlkTYVJbMKU8FvHAROoO1tW+F5VKFozObGBSSjWCh+RrW09A9Xfre77rde/iTDaWael0raRXQ4ayE3YkOWgzeoC7Flm6shMQgJ2d4g6f+qFZ4f028Q==;mJaa+c96a+6mUYy/daTPnQ=="
 ---

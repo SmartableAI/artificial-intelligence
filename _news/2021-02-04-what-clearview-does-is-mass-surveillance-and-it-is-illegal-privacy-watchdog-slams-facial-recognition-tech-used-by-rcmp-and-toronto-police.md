@@ -2,26 +2,24 @@
 category: news
 title: "‘What Clearview does is mass surveillance and it is illegal’: Privacy watchdog slams facial recognition tech used by RCMP and Toronto police"
 excerpt: "A joint investigation by Canadian privacy regulators has concluded that Clearview AI’s controversial technology represented “the mass identification"
-publishedDateTime: 2021-02-03T17:03:00Z
-originalUrl: "https://www.thestar.com/news/canada/2021/02/03/what-clearview-does-is-mass-surveillance-and-it-is-illegal-privacy-watchdog-slams-facial-recognition-tech-used-by-rcmp-and-toronto-police.html"
-webUrl: "https://www.thestar.com/news/canada/2021/02/03/what-clearview-does-is-mass-surveillance-and-it-is-illegal-privacy-watchdog-slams-facial-recognition-tech-used-by-rcmp-and-toronto-police.html"
-ampWebUrl: "https://www.thestar.com/amp/news/canada/2021/02/03/what-clearview-does-is-mass-surveillance-and-it-is-illegal-privacy-watchdog-slams-facial-recognition-tech-used-by-rcmp-and-toronto-police.html"
-cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/news/canada/2021/02/03/what-clearview-does-is-mass-surveillance-and-it-is-illegal-privacy-watchdog-slams-facial-recognition-tech-used-by-rcmp-and-toronto-police.html"
+publishedDateTime: 2021-02-03T17:07:00Z
+originalUrl: "https://www.thespec.com/ts/news/canada/2021/02/03/what-clearview-does-is-mass-surveillance-and-it-is-illegal-privacy-watchdog-slams-facial-recognition-tech-used-by-rcmp-and-toronto-police.html"
+webUrl: "https://www.thespec.com/ts/news/canada/2021/02/03/what-clearview-does-is-mass-surveillance-and-it-is-illegal-privacy-watchdog-slams-facial-recognition-tech-used-by-rcmp-and-toronto-police.html"
 type: article
-quality: 24
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: The Star
-  domain: thestar.com
+  name: The Hamilton Spectator
+  domain: thespec.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://images.thestar.com/GfuN0VnEnImJdvyL1B62vYa8BOg=/1200x800/smart/filters:cb(1612374889717)/https://www.thestar.com/content/dam/thestar/news/canada/2021/02/03/what-clearview-does-is-mass-surveillance-and-it-is-illegal-privacy-watchdog-slams-facial-recognition-tech-used-by-rcmp-and-toronto-police/rcmp.jpg"
+  - url: "https://images.thestar.com/NEw-4VaZJG3X-xhtS69Hdru_aDU=/1200x800/smart/filters:cb(1612374889717)/https://www.thespec.com/content/dam/thestar/news/canada/2021/02/03/what-clearview-does-is-mass-surveillance-and-it-is-illegal-privacy-watchdog-slams-facial-recognition-tech-used-by-rcmp-and-toronto-police/rcmp.jpg"
     width: 1200
     height: 800
     isCached: true
@@ -87,6 +85,6 @@ related:
       domain: globalnews.ca
     quality: 50
 
-secured: "nM7gmtc1vZFdbSu3zem49I0qH+BL3P7bfoFAWJ+xtBVIBOg8JAC3jt3pVJFhEUJn/Vt7bSea0tgbz8lUd0ULJLe622n6K0vXX8NU2JA7LOTY8zT6gTd9Nud/tAKbAnDXoRmVyuHvmiftDxmqEc8vh8WMWYByu3+fWpdTERB+bw/wVpCUoPd2DGKaM/MLj+4dhm8wnC//ow2K+QVFyFVA7hyzTL4/UGfLvEk/fQn5SYe3YQOoQ0frtTctekjFQhuO3SPCm8pNgDtezm4b7842qqslUu0jFeUl/IS2UEBQOV3cDd5ZUOqkg4xYCMEO7ABOPxqzK4q88syEKD/gVDjlvSZ5N7AVqUW7dzfseUYe8sU=;ekjwC2HKYAntNAtctRjpMQ=="
+secured: "lH63d0DwpDKMuUYdi6ju1T3+qIT8se3/mjohcp+DrrILWEi1ozDL8znNwnjlLhxAvZaxBuHwaivStyUCrUpdi+zsj7m6t4NsAHWOJk7xW1gI4iCiAIzZr8O7C0AGcg5ImeVW4/HblfcKRWTzKFCbLlZ1KyaYSKUoliYGuUGWdO/xGzxRenmChAZlD9iYGx1d2P9RYMHMjvqwRa6o79tJIhzb3Sd+2e68WTinrQoW0iYrbWbvlfEgazMKViUvRMrCu2ZyeA5q0+TpWJ0JVJMPqPCnZBjduqZPcI2QwXVhaD2w0r0WddCAYh+KRQExWj9itLRg4PMeAX4Vi/YrBWTJ78Ht0tOWI687Zs1iHzy7GMQ=;WhtyCrEexcq4SO7W+fahOQ=="
 ---
 

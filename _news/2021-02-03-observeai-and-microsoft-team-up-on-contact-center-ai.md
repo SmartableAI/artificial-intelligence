@@ -35,7 +35,7 @@ related:
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 100
+    quality: 150
     images:
       - url: "https://tr3.cbsistatic.com/hub/i/r/2021/02/01/1b622622-e749-47c0-9c60-ed09ab784bbe/resize/400x/f50dcab974e7e9400bbc49f5c9acb474/rl-wikipedia-2.jpg"
         width: 400
@@ -163,14 +163,19 @@ related:
         height: 470
         isCached: true
   - title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
-    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance"
-    publishedDateTime: 2021-02-02T22:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
+    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
+    publishedDateTime: 2021-02-03T08:22:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 26
+      name: Associated Press
+      domain: apnews.com
+    quality: 46
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "+/aSePnw6Nnl9cwFFDX1ERFaes/COjmrC5VJuxMEbguSnpNT73GXbwHTCb2GC0wCB45fUCmK66hR3DDeQ5tZ4DOOmdhUQfc7Wmr8gPYS5Ml4UUicb1zH8hZjJaeZUv40U6cF+f3Ll/E6SzsSEE4mT/kIJvSm2NKiYleN/15YAzs0XDjV7TH4laoboPFO+kJzM46ZNnlzf70Hc2InwVaZQ7ZVGNkFSl04KlO28EBihotG5lZdNVhPbqIZG2sZJxQHi+ujoJtiqz48/ndmLE1rWpM4vzs+2/29Se/RC0fTN6nDNtgbcDjytwUSBWVaKoizmF8KRrcusbGpDcwf11ZnFY/2nU/6rD3x/mYQFTAj4RQ=;bXWSnDOFwuZ54tX0CbtIpA=="
 ---

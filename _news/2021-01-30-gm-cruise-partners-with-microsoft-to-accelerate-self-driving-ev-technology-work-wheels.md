@@ -38,7 +38,7 @@ related:
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 100
+    quality: 150
     images:
       - url: "https://tr3.cbsistatic.com/hub/i/r/2021/02/01/1b622622-e749-47c0-9c60-ed09ab784bbe/resize/400x/f50dcab974e7e9400bbc49f5c9acb474/rl-wikipedia-2.jpg"
         width: 400
@@ -164,14 +164,19 @@ related:
         height: 610
         isCached: true
   - title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
-    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance"
-    publishedDateTime: 2021-02-02T22:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
+    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
+    publishedDateTime: 2021-02-03T08:22:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 26
+      name: Associated Press
+      domain: apnews.com
+    quality: 46
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "Mc66S8eymPUF5rMiL+5t7sccQNw6XkQ846cTMlh+NbOafwfRqZcuZ5eU/VekP2GTJl/XmgsldYWFd2CJQt877R3X13+CVDdNtk9l9q37VSFRlPhuvxfdyV3krLH2XDA5bjnCTAWmMLWLi014AgrqhSVB/RLd6VFbaoWyVH8+uWnhoFRVEg1S6txsZMCYwiacKSYafvP3Z9MFoKCEgNKCyZXDK//ayFxzbT7gAZB8U0ECLPgQYvG4N7EMzAuUmZ4ByLWEK6v+vTW2iWvhp5FzYI7J/DB8Z+x+SiuW85MTemDoeDzYnfGaRPMbB2C3DWo1TFDrxZszyf5qK4W5HNvZdtKhHaJ+DM+F2EgcC28ywjbUiGeGaXzwdCyd5LzI75E48+hMpZt+YoxLI6kXPEdmehqNO7sSubEwKH5CLBSKGkYLxuJ/1Tu7Qf/ZGRzF3aTdwkm8VdxbPzB1IsHpuKNp4Y4Y4kZq5uwh9Pfi0928NC2kk0kKwKjzo5AYijW/wlwwjjVo2fnJDgFXLcORSPJhKw==;AbFbVkS2mIED+ZaQ9s+42g=="
 ---

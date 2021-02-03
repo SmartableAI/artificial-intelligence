@@ -99,6 +99,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Market By Competitive Landscape, Industry Size, Applications, Pricing Analysis and Opportunities Forecast to 2026"
+    excerpt: "The artificial intelligence market in North America is set for rapid growth. The growth witnessed in this region"
+    publishedDateTime: 2021-02-03T08:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-by-competitive-landscape-industry-size-applications-pricing-analysis-and-opportunities-forecast-to-2026-2021-02-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "v/1tSchinrxNiXPUpLjkHcvCyqMKqeNf9M+dmItzH85YEd4JmQwOX6ldXK8fl/LeYNgK14klkpQJcpKHGp3FSQmqvR1yVQl3gD0v4M+Lo1vz2C3ryiMZ1dgYCJCFbpqZfWs7CYLo4dznfMtDGsAx/nyW2YkMadKYu+jqCGAUeqNxGMJkMoZEzplXF8xKo15G7z4o+KpENzKTQ7k+0H/sTZH/uUoLxn4YrjlM42Av7wF7GoG9bWOsrL3LuMsfTduJnN6YJ4S/yVa5D520az4a5C3zYnUe0iUzXK9bBCiTGhL3G3V3Y0UiuUPxP7eXlhw1vjVxHJPh74a6kz/pIB4WuXOlV7vHS0BTqTllphItlA0=;Oc9Yss7XD9ylaYY5c1mXZA=="
 ---

@@ -2,17 +2,17 @@
 category: news
 title: "Apple creates workaround to facial recognition blocked by face mask"
 excerpt: "This has probably happened at least once to an Apple user who is trying to unlock their iPhone with the device’s camera. The phone just can’t figure out you are you while you’re wearing a face mask. Jumping through the hoops of trying the camera,"
-publishedDateTime: 2021-02-03T18:45:00Z
-originalUrl: "https://www.fox23.com/news/trending/apple-creates-workaround-facial-recognition-blocked-by-face-mask/F7GQKNQQ35C3DCUKS3MJMBR5VQ/"
-webUrl: "https://www.fox23.com/news/trending/apple-creates-workaround-facial-recognition-blocked-by-face-mask/F7GQKNQQ35C3DCUKS3MJMBR5VQ/"
+publishedDateTime: 2021-02-03T19:47:00Z
+originalUrl: "https://www.fox13memphis.com/news/trending/apple-creates-workaround-facial-recognition-blocked-by-face-mask/F7GQKNQQ35C3DCUKS3MJMBR5VQ/"
+webUrl: "https://www.fox13memphis.com/news/trending/apple-creates-workaround-facial-recognition-blocked-by-face-mask/F7GQKNQQ35C3DCUKS3MJMBR5VQ/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Fox 23
-  domain: fox23.com
+  name: FOX13 Memphis
+  domain: fox13memphis.com
 
 topics:
   - Computer Vision
@@ -58,6 +58,6 @@ related:
         height: 628
         isCached: true
 
-secured: "U1P6394anOg8AwdbYwy+h4Ywp0EkAswro5gw0sSLS6pISAbBwbfhbqecbN0q75PctIwn/5dnpF0vhGojjdjoMrwgV7YYYZYGEXQc+8LAREOI46yzS7FPN4tv7iFyqVu0qQViPUviE+Qh7yCpk5BA3lhN3dRVf2cLlkjC4fJiBIJlcolAp4U2zZB/eadcmi8IH800o+d0pL2z4lyCKPwT5yNOy9ETbBqrxjgTXPqPiXK6wfR35Pv+WfJFDdlw7YfW6sc/tIHPlZF5+jxjTjE86N4crVZBbYiJKLSQnVwMDaZwmQDssvoc3XX7T0CVy7enPwy6IgZg8CpS3wkutfz+wA3gIbUGXeqeZFjaqJXooCc=;EmVjJ+stwOzEp4wv3ka63A=="
+secured: "Z6TIasSUnxyiUzHanaip8DSsQiN8uUSnneCazn4yS6nWFoKZ6D+ZMP9L2BnAUNxZ85aioosxcz1RyHAlz2Fcoe4cPHXu6/zl9YIIxQHGEZ0W1yV6x+3KN9UA1qluSNQEvkXpww/7yLj2/winpvCppJf3l5fIj3p8I+1C9AZIko3MQ/gI0Pn08BuxiVGTzSKFwceRG+0PsKn7HEVlLUSfzYwQhenGpyR3OcakpFp5Zkp+2MCZx6B0k1rdRq2ajuFEK6CXEQ+tlRVb3tgYqIaUB4Zgu16oMEkFksixSPHj9jodeM0d73dnkfw70StrI9wBMc1dhkHgE2ZW4n5u0JMNsbFSHdBPbVQltRfDrzDvHPM=;jRxoXsky4emJM27RK+vbwg=="
 ---
 

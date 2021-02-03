@@ -20,6 +20,22 @@ topics:
   - AI in Robotics
   - AI
 
+related:
+  - title: "Dak Prescott part of group making investment in Plano fitness, sports medicine startup"
+    excerpt: "Dak Prescott has made a deal. No, not that deal. Plano-based OxeFit announced on Feb. 3 it has successfully closed an oversubscribed A round led by"
+    publishedDateTime: 2021-02-03T19:14:00Z
+    webUrl: "https://fortworthbusiness.com/ccbp/oxefit-gets-investments/"
+    type: article
+    provider:
+      name: Fort Worth Business Press
+      domain: fortworthbusiness.com
+    quality: 16
+    images:
+      - url: "https://fortworthbusiness.com/wp-content/uploads/2020/04/4035b1fd4d72079459dac9c8030b2e2b.jpg"
+        width: 1728
+        height: 1199
+        isCached: true
+
 secured: "b743VANDEEWPwHlnWPVszvAgCtnR61QeNgey1TcWtoKskzArX+29bAFGH+4RyBi/ISmy+M/2rUt3RwVIR9FwueHgZADYIi0wdkdVKHv1IXHBCEy/7nVIcumKTV+o5CCvA88sltFlRxenTmnw0AIH0G4OJEw/PbmHlO9ZkHTnp9FoDPgY2NoKswVZcdBW+eTmJzJ31qkr1ooSZCRsRWENZoB8u7Hz1M4VeUwdZVHyOgtdoogNI3jTtee4IG/0PTE52rWa16XL9TrKNcsXfr4dFOYCYmFiccTMdRO6Qoh4WYBm+SDrSAfSNMOJnXFzLHDm92qfb40ib+wG7ueDNX0en9p3mydzIa0r0Gc0p86SkXE3epO2uv2wwUVSDH1jBsne6PRlv/F57LCiBqGrFzfNK9mWSk5yQCp4eljw8CAcQNWRMfLrS8j1bl62KlPV85ycL4P027nFxZLION0U0+FPZ3GfnFJA8828Y/rerLPfjihvgyrSuE8tpnDUTzp52f3ve/vtUJh+QCkYzO9wPBZO2w==;v1mrcu7YqxPVrSzihiIJNw=="
 ---
 

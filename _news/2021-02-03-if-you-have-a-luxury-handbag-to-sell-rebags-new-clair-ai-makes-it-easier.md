@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/sharonedelson/2021/02/03/if-you-have-a-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sharonedelson/2021/02/03/if-you-have-a-luxury-handbag-to-sell-rebags-new-clair-ai-makes-it-easier/amp/"
 type: article
 quality: 85
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     height: 1016
     isCached: true
 
-secured: "0X3ry9VS1stkkhDDEPUavdBQ++uxN8VLU0MnaEqSvVtbDIkjHojEqUmJdfrT1RnNXoFW933aisUmgiHQn7z5zEBAQkInMlE/PQAmhXdzHseZBLBXJDBHdo0VpL/f/rU/Fj52J6YSAiQ4g1WO2+gF4uvuzKyzylLwbSBONA19a9RZsRscx5A5g0fcVYDTpiv06MDdaC7q22ej3kG4Og7V81zIT6yFwJVBF1yY9LIw3+SjZHRasdiOLXmL4NzPSUQ2a6YPD3HgBYewEZJ7iob2S4jFnpVaA443qtJApeAlBTvY3cru0gdmKskTtGlIpu9anZoRJa8OP9GSzM2e5A0DQ9uX6o9P6sOJGheJHvgfiTE=;9ctE19C34CFJq1brZIvdPA=="
+related:
+  - title: "Rebag Launches Clair AI, the World’s First Image Recognition Technology for Luxury Resale"
+    excerpt: "Rebag, the luxury resale authority, launches Clair AI, a revolutionary image recognition technology that can identify and price luxury handbags within seconds. An extension of Clair, the company’s groundbreaking pricing tool that launched in October 2019,"
+    publishedDateTime: 2021-02-03T20:05:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-lifestyle-business-new-york-consumer-products-and-services-f10a09f67a96b33b430281ac85b90e79"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 28
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
+secured: "UEBJYUUU2+Uz8vpNatyseDf+2LYvbIqNFYFyCbwL3M74gO/PUHjgG1TYjpWTCXS+cn1FdJltbWl/TCiRxBjVrIWfHtuzNhkileiACkSzvvVggCSMWSFjBVsW9s8+4kaua429UUHR7SqmyXplkuPjXMd3+NdCZzCBFZmh9AOEBf8ERGsUP8oIc6HE08GXsoeGmUSFgF0u7DbH3s/l/javIsjVGIXA2om0IULYIyfsuXJCtz5YZOobHCR/yJKUtLq7FbmvzHxOrBUEF46IM5Z45hEFBwZToheNodLDkg5Nts5ixxC0iIHSc+vGNiD3W53iddPtTPDoIKzMOV2fIk+gnVfoRL9mbOkslLekSAon/42Pgwe9AFtpDSVZBYkdxv+u9tng1weY7HepdoNdy1oIkXGaDtNOyG0j7KezAxeD15t5H0UKOpz6UdBnYos3OleeAruoR4Z2lk0JaNEC/0LGHDc2Q1XlKLISIrdcX+LIZ2JWcsoceT6tKNlpee0qYMg9HoQJZOaZQM1ZK94YLlY2TA==;Csm0drZ0AN08UT15PNmHYQ=="
 ---
 
