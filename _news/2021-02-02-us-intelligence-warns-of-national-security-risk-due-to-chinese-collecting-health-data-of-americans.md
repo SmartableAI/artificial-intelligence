@@ -25,19 +25,6 @@ images:
     height: 221
     isCached: true
 
-related:
-  - title: "Americans Abandoning Free Speech Better Brace for the Consequences"
-    excerpt: "The political turbulence of recent years, culminating in the Capitol riot on January 6, may similarly liberate the political class to do its worst—this time with free speech as the target. The effort will likely again enjoy support from members of the public eager to surrender their freedom."
-    publishedDateTime: 2021-01-29T16:30:00Z
-    webUrl: "https://reason.com/2021/01/29/americans-abandoning-free-speech-protections-better-brace-for-the-consequences/"
-    ampWebUrl: "https://reason.com/2021/01/29/americans-abandoning-free-speech-protections-better-brace-for-the-consequences/?amp"
-    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2021/01/29/americans-abandoning-free-speech-protections-better-brace-for-the-consequences/?amp"
-    type: article
-    provider:
-      name: Reason
-      domain: reason.com
-    quality: 24
-
 secured: "7zCekMzo1en50Pdy65TetrrZD03qDqfX1xHXtUb7JMrh8pE0GPjOSqakPanEBhKmRoeeNybk5ketZH9x/RJ5lNZgPzHZglffg9VaYSWdvDy45epcus3d/O5gq0HF1toMOb22QFn9wQx7X6t/3EweCz/ZwOkOoFGSLktqT7QThx1UN9NSX7FenK60yWUYYrmBUyfihf781EYf0abNTUhjX8a9XeYnjlgq60B8dvQBwg2l+v5J3B8+gqq9HXH1C3EE9naI/OT8SCdEzlCmyamDJPOHaQn2bw2m/4xw6iTkha9MYcGiEZwq6M3AG2aCLQK4YSdT8u7tGyS9cywS5i3yu7x5ES+rFq+fzd4iI1qwpOY=;inctRzfFnDKxjh+0I+SMHQ=="
 ---
 

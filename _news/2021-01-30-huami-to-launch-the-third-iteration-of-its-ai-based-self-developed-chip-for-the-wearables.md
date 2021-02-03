@@ -7,7 +7,7 @@ originalUrl: "https://appuals.com/huami-to-launch-the-third-iteration-of-its-ai-
 webUrl: "https://appuals.com/huami-to-launch-the-third-iteration-of-its-ai-based-self-developed-chip-for-the-wearables/"
 type: article
 quality: 45
-heat: -1
+heat: 45
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 600
     height: 450
     isCached: true
-
-related:
-  - title: "Huami to launch third-generation self-developed wearable chip soon"
-    excerpt: "Huami Technology is a company that excels in smart wearable technology. Headquartered in Hefei, China, the company also makes its own AI-powered wearable chips. Today, the company’s founder has announced that the third-generation wearable chip is coming soon."
-    publishedDateTime: 2021-01-29T16:40:00Z
-    webUrl: "https://www.gizmochina.com/2021/01/29/huami-to-launch-third-generation-self-developed-wearable-chip-soon/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 69
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2018/09/Huangshan-No.1-MHS001.jpg"
-        width: 1225
-        height: 571
-        isCached: true
 
 secured: "VF1oAPWnLl6Fbx7rooMhhX8fVX1lZY9EeJ3YuAMp2adj73viYCWel9K8i/HSyNWwGYOJkvqgNeSVytze8bGQgkYhTwR2sXRMyKMq9Dvu8+sf4kXTU7TK5OrL9y0v/Cp6hdLm1F4J2BGj3uaNfgIcaTAfpW/q8WZzq9PGnqxVOourG6utelXHHipZUeWRsyxqK9X9VpaE08K3ah0JIwxC+A+2OR4BdvIGeFqDkkgwBTuwDKgk7jgli8KMdBSD7TC+Ph1B39BXaDmGuRO0W5VS4ciCO/ZWB0vaNQ5W6S6j2a+UqJdfphLi+szEl8RzEDQC0ZryKKepmcGwy2rayIu/jL9sT2xYxLQ6j51y45KUJhZE/oB2yZLHlbQrT7ZLSRBqUPDrVhjqfznWUZqKFQh+q6Y/W1jwp7G4eKkSQiXINaWDQwJMEq9uKsV5ni67vUwraY2ZQQFwTn2IDbIppvaExZOYG6NXlDao156W+orE2Uc5EuLuE3T9tLQqLLKulgcbKy2LpTShOgWWE9dzXg6jWg==;9y+uHz5HNDHq3NWqPsJNQg=="
 ---

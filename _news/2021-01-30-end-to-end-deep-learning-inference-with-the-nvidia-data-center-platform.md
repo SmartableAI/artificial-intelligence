@@ -3,14 +3,11 @@ category: news
 title: "End-to-End Deep Learning Inference with the NVIDIA Data Center Platform"
 excerpt: "The AI revolution is surging forward, igniting opportunities for businesses to reimagine how they solve customer challenges. It’s a"
 publishedDateTime: 2021-01-29T16:22:00Z
-originalUrl: "https://www.techrepublic.com/resource-library/whitepapers/end-to-end-deep-learning-inference-with-the-nvidia-data-center-platform/"
-webUrl: "https://www.techrepublic.com/resource-library/whitepapers/end-to-end-deep-learning-inference-with-the-nvidia-data-center-platform/"
-ampWebUrl: "https://www.techrepublic.com/google-amp/resource-library/whitepapers/end-to-end-deep-learning-inference-with-the-nvidia-data-center-platform/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/end-to-end-deep-learning-inference-with-the-nvidia-data-center-platform/"
+originalUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/resource-library/whitepapers/end-to-end-deep-learning-inference-with-the-nvidia-data-center-platform/"
+webUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/resource-library/whitepapers/end-to-end-deep-learning-inference-with-the-nvidia-data-center-platform/"
+ampWebUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/google-amp/resource-library/whitepapers/end-to-end-deep-learning-inference-with-the-nvidia-data-center-platform/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/2381/index.php/google-amp/resource-library/whitepapers/end-to-end-deep-learning-inference-with-the-nvidia-data-center-platform/"
 type: article
-quality: 69
-heat: 79
-published: true
 
 provider:
   name: TechRepublic
@@ -24,22 +21,6 @@ topics:
   - Machine Learning
   - AI
 
-related:
-  - title: "Nvidia’s Tensor Cores for Machine Learning and AI – Explained"
-    excerpt: "Nvidia’s now-renowned RTX series of graphics cards has been hugely successful ever since their launch with the RTX 20 series. The introduction of the RTX"
-    publishedDateTime: 2021-01-31T09:18:00Z
-    webUrl: "https://appuals.com/nvidias-tensor-cores-for-machine-learning-and-ai-explained/"
-    type: article
-    provider:
-      name: appuals.com
-      domain: appuals.com
-    quality: 54
-    images:
-      - url: "https://appuals.com/wp-content/uploads/2020/11/tensorcore.jpg"
-        width: 800
-        height: 444
-        isCached: true
-
-secured: "nj1UH2VY4zWgoEKh7LUH5IAyQW4u7wwB4qRD4/Ts0PKp+L/ZaBWVi0ZFXIP4TOijOBUhKak8H+KBE1UDqVq0u2xlxBG587DRzGCALYppSDf3++LZr8V+cJ1Dg0s+kbaxIJcsv4cBUpI1PBV6l02cSOxKz37WXGQCbPzYNAkQA9lgdaY+x2fQFTW9dVtax03jrz5w2JYCvMeOlD1+KA7ABMUgaCu0vI8/xvM9eB1KqP9UttcsfYMwsE7qErUu1L6LMSA5qc+4+QovCq+j9LJfQEkc+2AxA/7KOLYM5tX5UuI96F6U19rvYHLrOeeEUv2UIHG9e4+6GWojtDipNxYQej+gIkE7o6FUEgbv58ItkFg=;tTVHlY2WQFep8Eb84rou0A=="
+secured: "bxBbCdc3mjc6sPUhdwKndFLKBgMBhLZ0CYZkw5PvboeEWDg7UGppxQTazzz9sp3qrJlHpeXzkjW4cLqsiT2lY2x8P6e4ComEYDP6WIkSgaoOeGAxL5HdDrgsaKYlOBIFu86EzMiJ9geCN9tLaCILjG0U33Yos1G5+E07nx4WfTTp3Jyk5S/9X5NBu7aPRuBE1eAnpPAcCVOo87cO9mN/2tOOaZ3AXYz8j0R2h1OQCNJBCHLZgvYUK6wiQSw/z534BR21Bp7QxxDNbjDszB2E4Xg91oy/nHgOt5hhpvPF3rbgNp2K5dUuLceD7k9fqfSgwYNCHMTKAuKg2Z+cfDLL57MhSagbOaFTjAlw49lM8so=;fHl4qTsPJwWN6/xAm3bazA=="
 ---
 

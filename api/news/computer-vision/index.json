@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-03-uk-has-launched-first-ethical-automated-facial-recognition-framework.md",
+      "title": "UK Has Launched First Ethical Automated Facial Recognition Framework",
+      "excerpt": "The British Security Industry Association has put out a unique ethical guide to use AI responsibly for businesses that use automated facial recognition in their security systems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/uk-has-launched-first-ethical-automated-facial-recognition-framework/",
+      "originalUrl": "https://www.analyticsinsight.net/uk-has-launched-first-ethical-automated-facial-recognition-framework/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/02/‘Industry-first-ethical-Automated-Facial-Recognition-framework-launched-by-BSIA.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-02T09:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-02-03-how-normal-people-deployed-facial-recognition-on-capitol-hill-protesters.md",
       "title": "How Normal People Deployed Facial Recognition on Capitol Hill Protesters",
       "excerpt": "Facial recognition is now freely accessible to random people on Twitter using a Polish website called Pimeyes.",
@@ -1380,58 +1424,6 @@
         "Computer Vision",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-this-site-published-every-face-from-parlers-capitol-riot-videos.md",
-      "title": "This Site Published Every Face From Parler's Capitol Riot Videos",
-      "excerpt": "Faces of the Riot used open source software to detect, extract, and deduplicate every face from the 827 videos taken from the insurrection on January 6.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/faces-of-the-riot-capitol-insurrection-facial-recognition/",
-      "originalUrl": "https://www.wired.com/story/faces-of-the-riot-capitol-insurrection-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6008823e103a85a519187c3a/master/pass/parler-face-recognition-illustration.jpg",
-          "width": 2095,
-          "height": 1178,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/faces-of-the-riot-capitol-insurrection-facial-recognition/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/faces-of-the-riot-capitol-insurrection-facial-recognition/amp",
-      "publishedDateTime": "2021-01-20T16:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

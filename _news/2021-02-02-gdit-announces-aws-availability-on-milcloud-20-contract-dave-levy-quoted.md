@@ -71,6 +71,15 @@ related:
       name: FedScoop
       domain: fedscoop.com
     quality: 34
+  - title: "TrinityRail Announces New Products and Services Expansion"
+    excerpt: "TrinityRail® announced today two new service offerings that will expand and enhance the TrinityRail platform for its customers. The company has officially launched a new technology service platform, Trinsight™,"
+    publishedDateTime: 2021-02-03T08:47:00Z
+    webUrl: "https://www.financialbuzz.com/trinityrail-announces-new-products-and-services-expansion/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 19
 
 secured: "0dj9s7PuOSylWbH8W1illeoUGGNuWvovZeyrTb6Bq9OVxqqhvm2LhZUrvs5s+uwOd3jfp1dmolr3wnrDUWoPVf+vSzbwFt0Mp5Tqnp0cc8X9+CsCYqwxT0Hi3HCknJHleCBjcj/Jcw1q6LksQg8v/M6G2MOGLc1632BsQOeN9/g2j+uzMlQV7Kutep+2lXmGElnv4u0ke9q4T4qNl3UbXvTdbG1Am5+F5rfCRPK1HB7BF4rc88I/J9thFNPzb8t2OAa/RrJeXRunnx6pfpfdmaDKXa1MaUS7CkLfugpXeQrD/sew9Cj24716OypA3EclJznIO48Ju+uWCiCHbKbYqkKqRD5XzgjpODRWVhz2UI22+GOwYowxDOI8M8OGYVoksuH+xIMCZJ4I1L8wA6L8QOriw85rSbU1VNdTqaxgAUanUCtiQWkEXm2fyeTl0KTp7HwFxWugd574SCvuy2R6kHvPbogyXuEhb7A29OA5oneTIT7hLB/g4ZkbL/l+t6G2+cEtAW8oW5A7MNHVQ6hY8w==;qbB0BzVSIj1DTW0wElnHKA=="
 ---

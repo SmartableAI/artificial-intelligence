@@ -306,49 +306,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-03-lilt-included-in-gartners-market-guide-for-ai-enabled-translation-services.md",
-      "title": "Lilt Included in Gartner's Market Guide for AI-Enabled Translation Services",
-      "excerpt": "Lilt, a leading provider of human-powered, AI-enabled translation services and technology, today announced that it has been identified as a Representative Vendor in the Gartner \"Market Guide for AI-Enabled Translation Services\" report.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/lilt-included-in-gartner-s-market-guide-for-ai-enabled-translation-services-1030033410",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/lilt-included-in-gartner-s-market-guide-for-ai-enabled-translation-services-1030033410",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/lilt-included-in-gartner-s-market-guide-for-ai-enabled-translation-services-1030033410",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/lilt-included-in-gartner-s-market-guide-for-ai-enabled-translation-services-1030033410",
-      "publishedDateTime": "2021-02-02T11:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-03-abu-dhabis-etihad-airways-taps-microsoft-to-modernise-its-finance-operations.md",
       "title": "Abu Dhabi's Etihad Airways taps Microsoft to modernise its finance operations",
       "excerpt": "Etihad Airways has turned to Microsoft AI to transform its Finance Operations, which is comprised of the company’s Finance and Digital, Technology and Innovation divisions. The move saw the Abu Dhabi-based carrier work with Microsoft to modernise its payment inspection process using cognitive services.",
@@ -485,6 +442,50 @@
       "topics": [
         "AI Ethics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-03-uk-has-launched-first-ethical-automated-facial-recognition-framework.md",
+      "title": "UK Has Launched First Ethical Automated Facial Recognition Framework",
+      "excerpt": "The British Security Industry Association has put out a unique ethical guide to use AI responsibly for businesses that use automated facial recognition in their security systems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/uk-has-launched-first-ethical-automated-facial-recognition-framework/",
+      "originalUrl": "https://www.analyticsinsight.net/uk-has-launched-first-ethical-automated-facial-recognition-framework/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/02/‘Industry-first-ethical-Automated-Facial-Recognition-framework-launched-by-BSIA.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-02T09:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -862,7 +863,7 @@
       "originalUrl": "https://venturebeat.com/2021/02/02/happyfox-applies-conversational-ai-to-support-requests-made-via-slack/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -937,6 +938,57 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-superb-ai-raises-93-million-to-annotate-training-data.md",
+      "title": "Superb AI raises $9.3 million to annotate training data",
+      "excerpt": "Superb AI, a startup developing a suite of AI training data prep and verification tools, has raised $9.3 million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/02/superb-ai-raises-9-3-million-to-annotate-training-data/",
+      "originalUrl": "https://venturebeat.com/2021/02/02/superb-ai-raises-9-3-million-to-annotate-training-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/Hyun-Kim-Superb-AI.jpg?w=1200&strip=all",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/02/superb-ai-raises-9-3-million-to-annotate-training-data/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/02/superb-ai-raises-9-3-million-to-annotate-training-data/amp/",
+      "publishedDateTime": "2021-02-02T05:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1199,57 +1251,6 @@
         "AWS AI",
         "Machine Learning",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-this-japanese-ai-journaling-app-helped-me-understand-my-feelings.md",
-      "title": "This Japanese AI Journaling App Helped Me Understand My Feelings",
-      "excerpt": "As a self-proclaimed serial journal collector, Muute, billed as Japan’s first AI journaling app, was all too enticing for me. Much like a writing prompts journal, the app asks questions that encourage self-reflection.",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en/article/epdk3j/japan-first-ai-journaling-app-muute-experience-understand-feelings-mental-health",
-      "originalUrl": "https://www.vice.com/en/article/epdk3j/japan-first-ai-journaling-app-muute-experience-understand-feelings-mental-health",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com/articles/601912fc060c7e009597478a/lede/1612260630822-befunky-collage-42.jpeg?crop=1xw:0.9106xh;0xw,0xh",
-          "width": 3264,
-          "height": 1833,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en/article/epdk3j/japan-first-ai-journaling-app-muute-experience-understand-feelings-mental-health",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/epdk3j/japan-first-ai-journaling-app-muute-experience-understand-feelings-mental-health",
-      "publishedDateTime": "2021-02-02T02:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

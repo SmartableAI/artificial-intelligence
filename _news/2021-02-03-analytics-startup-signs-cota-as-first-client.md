@@ -72,15 +72,20 @@ related:
         width: 800
         height: 418
         isCached: true
-  - title: "SAS Viya Delivers Innovation and Analytics for All"
-    excerpt: "Analytics leader SAS continues to innovate by making it easier to access its powerful, cloud-native SAS® Viya® platform. Recent product developments help customers more efficiently democratize analytics throughout their organizations while seamlessly managing analytic workloads and building SAS into a variety of applications."
-    publishedDateTime: 2021-02-03T06:09:00Z
-    webUrl: "https://www.businesswireindia.com/sas-viya-delivers-innovation-and-analytics-for-all-71363.html"
+  - title: "SAS Viya Delivers Innovation And Analytics For All"
+    excerpt: "Customers benefit from easier cloud migration and management of analytic workloads; SAS continues to strengthen its partnership with Microsoft Azure Mumbai, Maharashtra, India Business Wire India Analytics leader SAS continues to innovate by making it easier to access its powerful,"
+    publishedDateTime: 2021-02-03T08:05:00Z
+    webUrl: "https://www.republicworld.com/business-news/india-business/sas-viya-delivers-innovation-and-analytics-for-all.html"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswireindia.com
-    quality: 4
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 24
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/wf9zahdas70tznpq_1612339428.jpeg?tr=f-jpeg"
+        width: 1242
+        height: 710
+        isCached: true
 
 secured: "rIEeVYz4PU6AoHderLge0755R0gVfmb6XA+EBKPEqfHS0Jf7vKKNQtXsQpXzZoVpnuQGiwkgIBukygO69BAfDsFrSDiNzVzZPjftOG19J4ZBdyrqwbigEpibEiLX6kscd2mBDWMDDC0W+qvDHsL5ChLUODskAvfap9DTJdJozo45gM7lZvAoPwWQQt1uRmuOial8xAQU6wgJJqtRId4sdYtnV6Hhz8EWOIJl/RE/YY7lPwglLP1in7VjeBHmkPoZbVjJT+8bEK6DAL96uiwmZBj7XYz40sPiAjGsIT0pOoLcMaKf0BVUWBwF06RsiXuIIezdm3pSLqm1CbTpDYKIRNpmqHEsXZa7wmX1n69+19o=;nn+jXz2+wMB9R1PrkFUPXA=="
 ---

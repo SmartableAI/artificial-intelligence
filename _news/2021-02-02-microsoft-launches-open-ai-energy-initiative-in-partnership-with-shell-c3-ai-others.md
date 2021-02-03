@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-launches-open-ai-energy-initiat
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-launches-open-ai-energy-initiative-in-partnership-with-shell-c3-ai-others/"
 type: article
 quality: 97
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://tr3.cbsistatic.com/hub/i/r/2021/02/02/0913614a-f6f7-4acd-ae1b-db7ac3fbdf31/resize/1200x/76e6ecdbcb386ba09f38fbb29f53d792/ms-365-mwt-building-blocks.jpg"
         width: 1200
         height: 678
+        isCached: true
+  - title: "Etihad Airways Transforms Its Finance Operations by Leveraging Microsoft AI Capabilities"
+    excerpt: "Etihad Airways has carried out a transformation of its Finance Operations through harnessing the power of Microsoft AI. The Finance and Digital, Technol"
+    publishedDateTime: 2021-02-03T07:30:00Z
+    webUrl: "https://www.albawaba.com/business/pr/etihad-airways-transforms-its-finance-operations-leveraging-microsoft-ai-capabilities"
+    ampWebUrl: "https://www.albawaba.com/amp/business/pr/etihad-airways-transforms-its-finance-operations-leveraging-microsoft-ai-capabilities"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/etihad-airways-transforms-its-finance-operations-leveraging-microsoft-ai-capabilities"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 82
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2021-02/Etihad%20image%201.jpg?itok=tMPbQ2Tz"
+        width: 960
+        height: 640
         isCached: true
   - title: "Shell, C3 AI, Baker Hughes, and Microsoft Launch the Open AI Energy Initiative"
     excerpt: "Shell, C3 AI, Baker Hughes, and Microsoft have launched the Open AI Energy Initiative (OAI), a first-of-its-kind open ecosystem of artificial intelligence (AI)-based solutions for the energy and process industries,"

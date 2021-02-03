@@ -67,6 +67,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 67
+  - title: "What Budget 2021 has in Store for Artificial Intelligence"
+    excerpt: "Budget 2021 measures to deploy deep analytics and Artificial Intelligence to identify the tax evaders and fake billers, use of machine learning, data analytics and artificial intelligence to strengthen the Government’s initiatives."
+    publishedDateTime: 2021-02-03T08:02:00Z
+    webUrl: "https://www.analyticsinsight.net/what-budget-2021-has-in-store-for-artificial-intelligence/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/02/What-Budget-2021-has-in-Store-for-Artificial-Intelligence.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "ChA3YFcFHSIBs5EFaYKIhkRO3CFdJ/9/WyLz3iQDUBC0RMnVa52iWq2LH0iJCTPxf+SejD6T/eqwXiSp5tmHcC5Uwr82VSbZ/rf49ZnspBtniyLT4jp70fkyLC3Z9QJqCP2UNOkZ98CGaJhb9WoRCrhx5CIjhAbnZS1198ftweIp/zLcWMrusNg8FFYIiEz/kkJTQ/EE+M6eUOuxS58i2kSBAzVDJZgkAELtCqDPpzXxZsoKGavVrPa1+MPMVX7Ze4E5j/R7pCoozqptRqFxzsOwSfsmgcMt7mEq//2IMpjOgOun7JnjcFMnm3vayqsI2FMbYM2bVS1ycojCCQ7BTFWtMKXZx4Cld9oPspkVEKxE38NEC9VFeeADHLdZLKsRYt4zyo2zoJu6w0tK+ztrXmAVzgQpKxGbfDirK22pxjTch73gMpBmzIsuUptNAwMytSjxWKSSyoX2kpvT5IfObfOq0v/15zbYPnKy/SamHdkoCk/8uyQA5grz4NL166e8cd5rtl8wmHeVLoYOBO61mg==;Dq/I1IfFra5vRzTtGNZbrg=="
 ---

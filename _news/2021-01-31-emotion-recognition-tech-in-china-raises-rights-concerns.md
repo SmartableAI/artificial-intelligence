@@ -41,20 +41,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Nuance Dragon Medical One Earns #1 Best in KLAS Award for Speech Recognition: Front-End EMR"
-    excerpt: "Nuance Communications, Inc. (NASDAQ: NUAN) today announced that Nuance Dragon® Medical One cloud-based speech recognition platform captured top honors as the 2021 Best in KLAS: Software & Services award winner,"
-    publishedDateTime: 2021-02-02T20:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/nuance-dragon-medical-one-earns-1-best-in-klas-award-for-speech-recognition-front-end-emr-2021-02-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "China growing use of emotion recognition tech raises rights concerns"
     excerpt: "Technology that measures emotions based on biometric indicators such as facial movements, tone of voice or body movements, is increasingly being marketed in China, researchers say, despite concerns about its accuracy and wider human rights implications."
     publishedDateTime: 2021-02-01T04:12:00Z
@@ -96,6 +82,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1156940/Nuance_Communications_Logo.jpg?p=facebook"
         width: 1500
         height: 785
+        isCached: true
+  - title: "Nuance Dragon Medical One Earns #1 Best in KLAS Award for Speech Recognition: Front-End EMR"
+    excerpt: "Nuance Communications, Inc. (NASDAQ: NUAN) today announced that Nuance Dragon® Medical One cloud-based speech recognition platform captured top honors as the 2021 Best in KLAS: Software & Services award winner,"
+    publishedDateTime: 2021-02-03T07:56:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-health-voice-recognition-computing-and-information-technology-5cd52a89fd3eb2b038ccf842a9781924"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 29
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "DAQzY5tG917gvcWqwvObryp95bW7RQLc+FGq/6axfImQXKtZO1+EyoaHbHrmOA5konPSkhkt8xHmiAGp0u/Tvcbhm5ajlGGMmdzzbF1Qm2wcJwJHR6RnVF6UdC587tcqOAf9+fjyH+cK7BN41N2ujmJ/ZBfxUZ6rv77suZfQxob5pYKtm6rEighg4FV7fYfjC+AZpgb8jp5WZr/QA034krhWWQH+Er6sebA+F5GtkFFVmFRqfbux2qguyL3MQe9eI65Bx7Iqqm9VQFgq3HKiwXq5gFOPtCkUAfiDdvB+Zlfc4lMDeLe3LgkjeR0EUxp9P8IhF+WvLwdn6sPhJ2Qspa7+xrN21DrlZRUXHtjxFzA=;YbVtGketYlX50SHw+drN+A=="

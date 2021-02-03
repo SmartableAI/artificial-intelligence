@@ -2,6 +2,143 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2021-01-13-ai-startup-sees-opportunity-forecasting-pandemic-era-consumer-demand.md",
+      "title": "AI Startup Sees Opportunity Forecasting Pandemic-Era Consumer Demand",
+      "excerpt": "New York-based Centricity is helping companies track consumer demand by analyzing some 2.5 billion data points’ worth of internet traffic a day.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-startup-sees-opportunity-forecasting-pandemic-era-consumer-demand-11610496808",
+      "originalUrl": "https://www.wsj.com/articles/ai-startup-sees-opportunity-forecasting-pandemic-era-consumer-demand-11610496808",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-284183/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-startup-sees-opportunity-forecasting-pandemic-era-consumer-demand-11610496808",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-startup-sees-opportunity-forecasting-pandemic-era-consumer-demand-11610496808",
+      "publishedDateTime": "2021-01-12T16:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-is-amazon-creepier-than-google-at-this-point.md",
+      "title": "Is Amazon creepier than Google at this point?",
+      "excerpt": "We could go on and on. Remember Rekognition, the facial recognition system Amazon allowed police to use that sparked fears the company was essentially supporting the surveillance state?",
+      "sourceUrl": null,
+      "webUrl": "https://bgr.com/2019/01/13/amazon-vs-google-too-creepy-privacy-scandals/",
+      "originalUrl": "https://bgr.com/2019/01/13/amazon-vs-google-too-creepy-privacy-scandals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bgr.com/wp-content/uploads/2019/01/1b8toh.jpg?quality=70&strip=all",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://bgr.com/2019/01/13/amazon-vs-google-too-creepy-privacy-scandals/amp/",
+      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2019/01/13/amazon-vs-google-too-creepy-privacy-scandals/amp/",
+      "publishedDateTime": "2021-01-12T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-unsupervised-deep-learning-for-super-resolution-reconstruction-of-turbulence.md",
+      "title": "Unsupervised deep learning for super-resolution reconstruction of turbulence",
+      "excerpt": "Recent attempts to use deep learning for super-resolution reconstruction of turbulent flows have used supervised learning, which requires paired data for training. This limitation hinders more practical applications of super-resolution reconstruction.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/unsupervised-deep-learning-for-superresolution-reconstruction-of-turbulence/CF82FEF56DD7C2711B1102209872E6D6",
+      "originalUrl": "https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/unsupervised-deep-learning-for-superresolution-reconstruction-of-turbulence/CF82FEF56DD7C2711B1102209872E6D6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cambridge.org/core/cambridge-core/public/images/logo_core_page_share_600x600.jpg",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-12T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-13-rep-clyburn-wants-to-make-lift-every-voice-and-sing-a-national-hymn.md",
       "title": "Rep. Clyburn wants to make 'Lift Every Voice and Sing' a national hymn",
       "excerpt": "The Democrat from South Carolina is aiming for bipartisan support on his proposal, since, he said, it's a song “everybody can identify with.”",
@@ -1025,134 +1162,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-online-therapy-provider-talkspace-seeks-spac-deal-what-investors-should-know.md",
-      "title": "Online Therapy Provider Talkspace Seeks SPAC Deal: What Investors Should Know",
-      "excerpt": "The company uses machine learning and artificial intelligence to analyze therapy sessions and detect trends in a patient’s behavior, which can lead to better treatment options. Talkspace has a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/21/01/19125843/online-therapy-provider-talkspace-seeks-spac-deal-what-investors-should-know",
-      "originalUrl": "https://www.benzinga.com/news/21/01/19125843/online-therapy-provider-talkspace-seeks-spac-deal-what-investors-should-know",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/files/images/story/2012/web-cam-796227_1920_2.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/19125843",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19125843",
-      "publishedDateTime": "2021-01-12T09:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-artificial-intelligence-puts-focus-on-the-life-of-insects.md",
-      "title": "Artificial intelligence puts focus on the life of insects",
-      "excerpt": "Scientists are combining artificial intelligence and advanced computer technology with biological know how to identify insects with supernatural speed. This opens up new possibilities for describing u",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-01-artificial-intelligence-focus-life-insects.html",
-      "originalUrl": "https://phys.org/news/2021-01-artificial-intelligence-focus-life-insects.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/1-artificialin.jpg",
-          "width": 1430,
-          "height": 726,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-01-artificial-intelligence-focus-life-insects.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-01-artificial-intelligence-focus-life-insects.amp",
-      "publishedDateTime": "2021-01-12T08:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-hirevue-leads-the-industry-with-commitment-to-transparent-and-ethical-use-of-ai-in-hiring.md",
-      "title": "HireVue Leads the Industry with Commitment to Transparent and Ethical Use of AI in Hiring",
-      "excerpt": "HireVue, the global leader in video interviewing, assessments, chatbot and recruiting automation technology, today made two announcements to extend its leadership position defining the transparent and appropriate use of AI and software as part of the hiring process.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-political-issues-government-and-politics-artificial-intelligence-political-ethics-37d0fe232bcce86da20a5596cc840552",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-political-issues-government-and-politics-artificial-intelligence-political-ethics-37d0fe232bcce86da20a5596cc840552",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-12T08:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

@@ -1,48 +1,26 @@
 ---
 category: news
-title: "California to license driverless cars operated by Artificial Intelligence"
-excerpt: "The California Department of Motor Vehicles has officially issued a permit to Baidu USA to begin testing driverless vehicles on public roads in Sunnyvale, California. According to the state Department of Motor Vehicles (DMV),"
-publishedDateTime: 2021-02-02T14:24:00Z
-originalUrl: "https://thehayride.com/2021/02/california-to-license-driverless-cars-operated-by-artificial-intelligence/"
-webUrl: "https://thehayride.com/2021/02/california-to-license-driverless-cars-operated-by-artificial-intelligence/"
-ampWebUrl: "https://thehayride.com/2021/02/california-to-license-driverless-cars-operated-by-artificial-intelligence/?amp_markup=1"
-cdnAmpWebUrl: "https://thehayride-com.cdn.ampproject.org/c/s/thehayride.com/2021/02/california-to-license-driverless-cars-operated-by-artificial-intelligence/?amp_markup=1"
+title: "California to license driverless cars operated by artificial intelligence"
+excerpt: "The California Department of Motor Vehicles has officially issued a permit to Baidu USA to begin testing driverless vehicles on public roads in Sunnyvale, California."
+publishedDateTime: 2021-02-01T21:00:00Z
+originalUrl: "https://www.washingtonexaminer.com/politics/california-to-license-driverless-cars-operated-by-artificial-intelligence"
+webUrl: "https://www.washingtonexaminer.com/politics/california-to-license-driverless-cars-operated-by-artificial-intelligence"
+ampWebUrl: "https://www.washingtonexaminer.com/politics/california-to-license-driverless-cars-operated-by-artificial-intelligence?_amp=true"
+cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/politics/california-to-license-driverless-cars-operated-by-artificial-intelligence?_amp=true"
 type: article
-quality: 73
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: The Hayride
-  domain: thehayride.com
+  name: Washington Examiner
+  domain: washingtonexaminer.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://thehayride.com/wp-content/uploads/2021/02/external-content.duckduckgo.jpg"
-    width: 1280
-    height: 720
-    isCached: true
-
 related:
-  - title: "SoftBank's Son expects mass production of driverless cars in 2 years"
-    excerpt: "Son, who made his name for investing early in startups such as China’s Alibaba Group had said he will continue to take stakes in public companies he thinks are frontrunners in the artificial ..."
-    publishedDateTime: 2021-01-29T15:55:00Z
-    webUrl: "https://www.reuters.com/article/davos-meeting-son-autonomous-idUSL1N2K41Y9"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2K41Y9"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2K41Y9"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210129&t=2&i=1549571164&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0S194"
-        width: 829
-        height: 545
-        isCached: true
   - title: "SoftBank's Son expects mass production of driverless cars in 2 years"
     excerpt: "SoftBank Group Corp Chief Executive Masayoshi Son said on Friday he expects mass production of self-driving vehicles to start in two years."
     publishedDateTime: 2021-01-30T09:51:00Z
@@ -106,6 +84,6 @@ related:
         height: 826
         isCached: true
 
-secured: "f9U35JZJkJATQWHmOv7rorggDylpTRm2quugOziEuXYtfEsyK4ddAlcJCK5TUf4caYUNBBAMSI+fW68XfGT6wunYWjr6mXNtx/jVd7udRW+Xkp5Wm+58cduGjAJkGvia+Mjj25/XbkICakO0ocgaiNF4r1z1NtlQrayFR+3iwphgE/9lIwjA5mVUt6p6aoZLoz4qm6W2AiAfRDrMvbTeOSxNHL3etV6PXNjNvd7zYEV6vxQ9Fxf0Snsx3CSG/sUI47n6m1XJpyaVOdsa/2PzAFwFueLUHzvNQVIi/ZESniyIHi8qkhtJsgwSgRtYbimSzfsWHjZzrITjHwVhzDxhKCwltjlzGDMTAgJ0vw51P5w=;CR11iB3Ujt+S9i8VTft2uw=="
+secured: "2TaLeS9CKr8sMlroQag+TiSLmZxgld7jsPEPnFgHGhOazhMcdn//YT91j50lukWsxrr31NIIigyQHstNKKTTucn1gUoN7nzZy/KHtGWQ8amuMJIopqRidXDXDlJ6V/QLRcO2xE1pIwBNO3tENzkyBX1vAb9WlYkLKc35LEAFTW0M0HETHBaUYQluph5NZgxOEdS4ylnGRorpGSOvuNqJ8kGssyJu3erpcuxRzX8aFXdQnrLKBEf0kbkwRYLkEDpuiFIBw2WwPNIax97UBfwJCsJ+Tm/aZIApQMNOVZJ96pYaN0dc8zsXOWr5YyIj2C7ooy1X6CMTxd3Z8j4UeKsU7zKgeYj0ks0iSeWskhE92hCR5QOTljcxNJcUWy0TIQOYvGUJvbOE+MeQSu3YlzRHyrJXhxxglXLT9nhM/GPjah9I2Z6m+dwW/LPuUjEjd+JIGdOZPKunGUbGuMLe8SMVMoJK76GNG1+p9OPvKMWXNVRPmFYblluoASL+s1vl3aK8kgDPDQiAW3Fr8XkiJxuK+w==;NxEA9FrsUrF0smpePf0spQ=="
 ---
 

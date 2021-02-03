@@ -24,17 +24,6 @@ images:
     height: 676
     isCached: true
 
-related:
-  - title: "Belgian Initiative for AI Lung Scan Analysis in Fight Against COVID-19 Goes European"
-    excerpt: "The Belgian initiative icovid, which supports radiologists in the assessment of CT images of the lungs of COVID-19 patients, has grown into a multicentre European project, co-funded by the EU Horizon 2020 programme."
-    publishedDateTime: 2021-01-29T15:18:00Z
-    webUrl: "https://www.newswiretoday.com/news/174671/Belgian-Initiative-for-AI-Lung-Scan-Analysis-in-Fight-Against-COVID-19-Goes-European/"
-    type: article
-    provider:
-      name: Newswire Today
-      domain: newswiretoday.com
-    quality: 10
-
 secured: "nw/ef+CVN8UVlja6VnLVa0HXeZTK3ZmUcYGIxsDGDzwJo0Ymp/WFTQbgiPFxR3tUvqEfu9lplHQrsIGKH2ToZjEXajZBAkm7ZWqSmY5VRbRrxcs3MUGd00tqTlB2VwtYmW/zWk9Jdl/8N1wEtc60oUBsE3mgZlXGwN2inTia1TSdojL8/Sp4f7HP/+UKlyNya7yZpu1hptm+VfDGn/i0FZj82whqVr9XwHIQqvKiUCMgEGBOe/kqj6UciKPEyNK63VkZYp2uYXpbBTeZn2oitAbO/Gc56hnxOXNK7t8HvPt0WyPU02bKydCxjCbVxOOVWF/yAwm4JvyY+w4zfHtBFDKXHAzstcglwnZ4gbXlbPTY2ci4rLl3DnnGMJvrruU0/KaC8vGYC9b5LCsng6orB3v0rqlzg/qJ5R8EF/8a9YSwnzUAxxnCtoQC1QF5TwcuNa4ShBtAGKQIkx3TtvQOcaOPaF3Qn1xeFugf68bNNzrw6P354XwlM0Lc0bhpxbw8BWwpSN0MTFXFrR1cIXpd4w==;4TaoqhwRVFOMKyXp0x6VUg=="
 ---
 

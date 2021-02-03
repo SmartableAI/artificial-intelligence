@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-02-03-lilt-included-in-gartners-market-guide-for-ai-enabled-translation-services.md",
-      "title": "Lilt Included in Gartner's Market Guide for AI-Enabled Translation Services",
-      "excerpt": "Lilt, a leading provider of human-powered, AI-enabled translation services and technology, today announced that it has been identified as a Representative Vendor in the Gartner \"Market Guide for AI-Enabled Translation Services\" report.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/lilt-included-in-gartner-s-market-guide-for-ai-enabled-translation-services-1030033410",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/lilt-included-in-gartner-s-market-guide-for-ai-enabled-translation-services-1030033410",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/lilt-included-in-gartner-s-market-guide-for-ai-enabled-translation-services-1030033410",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/lilt-included-in-gartner-s-market-guide-for-ai-enabled-translation-services-1030033410",
-      "publishedDateTime": "2021-02-02T11:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-02-safari-turns-on-speech-recognition-by-default-tech-preview-of-release.md",
       "title": "Safari turns on ‘Speech Recognition’ by default Tech Preview of release",
       "excerpt": "Safari turns on 'Speech Recognition' by default Tech Preview of release on February 1, 2021 at 2.30 p.m. Apple's Safari browser is",
@@ -192,7 +149,7 @@
       "originalUrl": "https://venturebeat.com/2021/01/31/heres-where-ai-will-advance-in-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -1443,6 +1400,58 @@
       "topics": [
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-01-17-bidens-inaugural-speech-to-plead-for-comity-in-wake-of-riot.md",
+      "title": "Biden’s Inaugural Speech to Plead for Comity in Wake of Riot",
+      "excerpt": "“There’s a recognition that things aren’t great right now, but there’s definitely hope that they’re going to get better.” Teper said not to expect the speech to dwell on the past. There’s “no way” Biden would invoke “American carnage ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-01-17/biden-s-inaugural-speech-to-plead-for-comity-in-wake-of-riot",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-01-17/biden-s-inaugural-speech-to-plead-for-comity-in-wake-of-riot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iPAY_sBCoYTY/v1/360x-1.jpg",
+          "width": 360,
+          "height": 239,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2021-01-17/biden-s-inaugural-speech-to-plead-for-comity-in-wake-of-riot",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2021-01-17/biden-s-inaugural-speech-to-plead-for-comity-in-wake-of-riot",
+      "publishedDateTime": "2021-01-17T04:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],

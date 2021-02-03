@@ -2,6 +2,142 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2020-12-19-element-ai-sold-for-230-million-as-founders-saw-value-mostly-wiped-out-document-reveals.md",
+      "title": "Element AI sold for $230-million as founders saw value mostly wiped out, document reveals",
+      "excerpt": "Tides turned fast for former domestic darling that just four years ago burst onto the tech scene promising to anchor a thriving domestic AI sector",
+      "sourceUrl": null,
+      "webUrl": "https://www.theglobeandmail.com/business/article-element-ai-sold-for-230-million-as-founders-saw-value-wiped-out/",
+      "originalUrl": "https://www.theglobeandmail.com/business/article-element-ai-sold-for-230-million-as-founders-saw-value-wiped-out/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.theglobeandmail.com/resizer/Xe89nLDKykN61L6kb2S375e9ryQ=/1200x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/K5O5GVZWYJPNPDA6JF46EDBN7A.jpg",
+          "width": 1200,
+          "height": 759,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-18T13:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-19-alibaba-facial-recognition-tech-picks-out-uyghur-minorities.md",
+      "title": "Alibaba Facial Recognition Tech Picks Out Uyghur Minorities",
+      "excerpt": "Chinese multinational technology company Alibaba Group Holding Ltd is offering Uyghur/ethnic minority recognition as a cloud service, according to a new report by surveillance industry researcher IPVM and The New York Times. Users simply send photographs ...",
+      "sourceUrl": null,
+      "webUrl": "https://ipvm.com/reports/alibaba-uyghur",
+      "originalUrl": "https://www.infosecurity-magazine.com/news/alibaba-tech-uyghur-alert/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1tzzns6d79su2.cloudfront.net/uploads/embedded_image/e3225a8a645d553e2a92b40639bb2261b05ec42dd7df56ba648f049dfd0f17d7/placeholder_b2388037-5fce-4827-bf00-8467fd5b1671.jpg",
+          "width": 903,
+          "height": 1177,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-18T13:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Infosecurity-magazine.com",
+        "domain": "infosecurity-magazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-12-19-sony-ai-launches-its-gastronomy-flagship-project-to-make-the-world-a-bit-tastier.md",
+      "title": "Sony AI launches its Gastronomy Flagship Project to make the world a bit tastier",
+      "excerpt": "Sony AI recently announced its Gastronomy Flagship Project, an AI-powered initiative built on “enhancing the creativity and techniques of chefs around the world.” This might sound like a small-potatoes problem compared to self-driving cars,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/12/18/sony-ai-launches-its-gastronomy-flagship-project-to-make-the-world-a-bit-tastier/",
+      "originalUrl": "https://thenextweb.com/neural/2020/12/18/sony-ai-launches-its-gastronomy-flagship-project-to-make-the-world-a-bit-tastier/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/sonygastro-796x398.jpg",
+          "width": 796,
+          "height": 398,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/12/18/sony-ai-launches-its-gastronomy-flagship-project-to-make-the-world-a-bit-tastier/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/18/sony-ai-launches-its-gastronomy-flagship-project-to-make-the-world-a-bit-tastier/amp/",
+      "publishedDateTime": "2020-12-18T12:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-19-ai-weekly-facebooks-news-summarization-tool-reeks-of-bad-intentions.md",
       "title": "AI Weekly: Facebook’s news summarization tool reeks of bad intentions",
       "excerpt": "Facebook is reportedly developing an AI tool that summarizes news articles. There's plenty of reason to be wary of it.",
@@ -1065,143 +1201,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-global-deep-learning-market-top-companies-covid-19-impact-regional-demand-and-future-development-research.md",
-      "title": "Global Deep Learning Market -Top Companies, COVID-19 Impact, Regional Demand And Future Development Research",
-      "excerpt": "Facto Market Insights published a title on “Global Deep Learning Market – 2020-2028”, to its collection. The study on the global deep learning market defines the analysis of all the segments ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2212858/global-deep-learning-market-top-companies-covid-19-impact",
-      "originalUrl": "https://www.openpr.com/news/2212858/global-deep-learning-market-top-companies-covid-19-impact",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/c/Tc18479226_g.jpg",
-          "width": 800,
-          "height": 565,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2212858/global-deep-learning-market-top-companies-covid-19-impact",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2212858/global-deep-learning-market-top-companies-covid-19-impact",
-      "publishedDateTime": "2020-12-18T00:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-coachhub-nabs-30-million-for-talent-development-platform-that-meshes-ai-with-analytics.md",
-      "title": "CoachHub nabs $30 million for talent development platform that meshes AI with analytics",
-      "excerpt": "CoachHub, a digital coaching platform that leans on AI and analytics, has raised $30 million in a round of funding led by Draper Esprit.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/18/coachhub-nabs-30-million-for-talent-development-platform-that-meshes-ai-with-analytics/",
-      "originalUrl": "https://venturebeat.com/2020/12/18/coachhub-nabs-30-million-for-talent-development-platform-that-meshes-ai-with-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/feat-4.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 715,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/18/coachhub-nabs-30-million-for-talent-development-platform-that-meshes-ai-with-analytics/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/18/coachhub-nabs-30-million-for-talent-development-platform-that-meshes-ai-with-analytics/amp/",
-      "publishedDateTime": "2020-12-18T00:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-pandemic-induced-brain-fog-is-result-of-cognitive-overload.md",
-      "title": "Pandemic-induced ‘brain fog’ is result of cognitive overload",
-      "excerpt": "Specifically, he has tapped into cognitive load theory to throw light on why Covid-19 is messing with our minds. The theory was developed by Australian educational psychologist Prof John Sweller ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.irishtimes.com/business/work/pandemic-induced-brain-fog-is-result-of-cognitive-overload-1.4436434",
-      "originalUrl": "https://www.irishtimes.com/business/work/pandemic-induced-brain-fog-is-result-of-cognitive-overload-1.4436434",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.irishtimes.com/image-creator/?id=1.4436413&origw=1253",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-18T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Irish Times",
-        "domain": "irishtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

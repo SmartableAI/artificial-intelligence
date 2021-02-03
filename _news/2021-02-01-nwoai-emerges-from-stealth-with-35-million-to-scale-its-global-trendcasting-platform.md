@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/pr-newswire/b30307506490974d0d55b
 webUrl: "https://apnews.com/press-release/pr-newswire/b30307506490974d0d55bdd793196cdd"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -22,19 +22,6 @@ images:
     width: 700
     height: 450
     isCached: true
-
-related:
-  - title: "Pinecone emerges from stealth with $10 million to accelerate AI workloads"
-    excerpt: "Pinecone, a startup developing database technology to support AI workloads, emerged from stealth with $10 million in funding.Read MoreRead more"
-    publishedDateTime: 2021-01-29T15:34:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/pinecone-emerges-from-stealth-with-$10-million-to-accelerate-ai-workloads-9748315"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/pinecone-emerges-from-stealth-with-$10-million-to-accelerate-ai-workloads-9748315"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/pinecone-emerges-from-stealth-with-$10-million-to-accelerate-ai-workloads-9748315"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
 
 secured: "rHYrQKN6OKrQgmoNnjRAVgI5QjDM4lHUu03vZ2bTk66RtQX/etVb5Obgvs2cRu5iupnq+CzV+aTbXNuUGUBgqs1BBulI2vOo8tNdqXimVWeViywlYr0+Cwps9uMjA00hXcBlKOfqyu4Or65KFi8Eww+PjoOMjy8MuO8p5x4AErUTQif5VpqgTky1fo1lNnAAFv6EMhmiEXf8po4p0xNZxwMmxIEnsOCX2yLoEGvwoLPZupWjheWLCgVBu6qkqhQtxC4fijiVaJ4FwqGPjFHNHI/9iQ3joDgqCQduevWlWLuurAC3PNxqv8LEPcXk+evq+VO7kjGQ99+PWYBnCnD431nGjVgaqj+CG81Pb48Z37A=;TFp/gSpOnZXvNAvCx7F6Wg=="
 ---

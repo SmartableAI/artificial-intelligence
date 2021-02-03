@@ -29,19 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Superb AI Raises $9.3M in Series A Funding"
-    excerpt: "Superb AI, a San Mateo, Calif.-based provider of AI-enabled training data platforms, completed a $9.3m Series A round of financing"
-    publishedDateTime: 2021-02-02T19:00:00Z
-    webUrl: "https://www.finsmes.com/2021/02/superb-ai-raises-9-3m-in-series-a-funding.html"
+  - title: "Rescale Raises $50 Million in Series C Funding"
+    excerpt: "Rescale, the leading hybrid HPC cloud platform enabling intelligent computing for digital R&D, today announced it has closed $50 million in Series C funding from Hitachi Ventures, Microsoft’s M12, Nautilus Venture Partners,"
+    publishedDateTime: 2021-02-03T07:58:00Z
+    webUrl: "https://apnews.com/article/business-technology-science-genomics-products-and-services-3e1356013d10e82c6e1290414a7c7500"
     type: article
     provider:
-      name: finsmes.com
-      domain: finsmes.com
+      name: Associated Press
+      domain: apnews.com
     quality: 39
     images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2021/02/Superb-AI.jpg"
-        width: 400
-        height: 400
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "uDtdZkt1FS+oW6Ro+gjEZOsXn5Du1u3PMWnCtzWQdIfnKh/2mSPbafsFKDgF5uBx2y1TqQHIa6PZVxhkxK9f/bJw02Hyfr2UmPO2gCZoPxu4HQG+lFblNrB20dVOTGUC0f7Sai5pS+JjRGZHtOTP+TfWViLNQvpAsZZUMAEnqHXvlfloFYlITjBC1wD76wrTt2fCw3BkVI81xGx6T3MzhQDsj2+D5FSY6+yo+lGVQv+ZQW27KvHbmC6qcd0rswD/2pFaKBMT3PeW6eBeG82pkS41Ohu9p1Kid7fEHi5oveYbX/oxd1UvobcoOUEQxiAgyn8ToTsaS/G+RQzEvOTszTHB3LiNVkRiEpMNBLmvgMQ=;MP1wgILNPceYBi7ZwNy20g=="

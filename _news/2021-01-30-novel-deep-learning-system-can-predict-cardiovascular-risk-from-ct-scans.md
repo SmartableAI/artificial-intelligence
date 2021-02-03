@@ -9,8 +9,8 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210129/Novel-deep-learning-s
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210129/Novel-deep-learning-system-can-predict-cardiovascular-risk-from-CT-scans.aspx"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: 58
+published: false
 
 provider:
   name: News Medical
@@ -25,36 +25,6 @@ images:
     width: 620
     height: 480
     isCached: true
-
-related:
-  - title: "Deep convolutional neural networks to predict cardiovascular risk from computed tomography"
-    excerpt: "Coronary artery calcium is an accurate predictor of cardiovascular events but this information is not routinely quantified. Here the authors show a robust and time-efficient deep learning system to automatically quantify coronary calcium on CT scans and predict cardiovascular events in a large,"
-    publishedDateTime: 2021-01-29T16:03:00Z
-    webUrl: "https://www.nature.com/articles/s41467-021-20966-2"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 14
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-021-20966-2/MediaObjects/41467_2021_20966_Fig1_HTML.png"
-        width: 685
-        height: 468
-        isCached: true
-  - title: "Deep convolutional neural networks to predict cardiovascular risk from computed tomography | Nature Communications"
-    excerpt: "Coronary artery calcium is an accurate predictor of cardiovascular events but this information is not routinely quantified. Here the authors show a robust and time-efficient deep learning system to automatically quantify coronary calcium on CT scans and predict cardiovascular events in a large,"
-    publishedDateTime: 2021-01-29T16:01:38Z
-    webUrl: "https://www.nature.com/articles/s41467-021-20966-2"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 2
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-021-20966-2/MediaObjects/41467_2021_20966_Fig1_HTML.png"
-        width: 685
-        height: 468
-        isCached: true
 
 secured: "m7iRx1Qzv5n+P32sBKG9Itx4QS05f0aC73F+j+XU4MqKe/9QHhF0O+L2mU5Hyl/ms2gMGVa6jGkS5eBbtOYlNmSTOFwtMFNy3cXFqshdM0fUd1WKS9H+4dTkvHESXXDLVbx/WGhbHlgWsa+JjN33RPmgsr7tSFD2MlVp+26oNZ35Yhfg3cPltOu29YaoA8xpDjl5+Z6TjqSB/z6vrYaFaLQDH24e6arpyAY+O6E0RptpxwLes90+EXDgZaBbSoftEX/7/7mueTtoWqE44ZF3RzMeVtjvWoMIke+TVwnXj+f9XQbn8SkKBZHMDr6r4j5egGKOvAK+A/dcBoSTClHDE7btR/xVslFICmFF3o6CBEM=;oNqp8giPss7oAK54w6gv6w=="
 ---

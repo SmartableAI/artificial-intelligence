@@ -1,28 +1,28 @@
 ---
 category: news
 title: "DonorSearch Introduces DonorSearch Aristotle - A New Research Division to Deliver Artificial Intelligence for Nonprofits"
-excerpt: "DonorSearch, the leading provider in prospect research solutions, today unveiled DonorSearch Aristotle, bringing the power of"
-publishedDateTime: 2021-02-02T16:25:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/donorsearch-introduces-donorsearch-aristotle---a-new-research-division-to-deliver-artificial-intelligence-for-nonprofits-301220401.html"
-webUrl: "https://www.prnewswire.com/news-releases/donorsearch-introduces-donorsearch-aristotle---a-new-research-division-to-deliver-artificial-intelligence-for-nonprofits-301220401.html"
+excerpt: "DonorSearch, the leading provider in prospect research solutions, today unveiled DonorSearch Aristotle, bringing the power of artificial intelligence to DonorSearch users. With DonorSearch Aristotle,"
+publishedDateTime: 2021-02-03T08:27:00Z
+originalUrl: "https://apnews.com/article/technology-business-charity-fundraising-nonprofit-business-and-finance-social-affairs-b174ca58bf34db4b7d929e40b35b4cbc"
+webUrl: "https://apnews.com/article/technology-business-charity-fundraising-nonprofit-business-and-finance-social-affairs-b174ca58bf34db4b7d929e40b35b4cbc"
 type: article
 quality: 12
 heat: 12
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "WvazE9ze+6MUFiosKZ1DuUHP2jwViU+CCgGokNtLSR5LE45uehFj3a4/vz2uKcoA6k0VpP9ICLv1+ZbL9Jd4XK16RrAG6U/iZh7uEgNFHZldF4W4VUcik+eX1sLrKnJkHESPIW0L1mrkwrF4DlzXNdo5eQ8CtCKx5dIfAuOLhLrbgqQqAj7y5DXC8uzqtUDdKZW8cTCsV4gMOq0VSe2irvdJtrQ6YwqyqlkUnDVdGCmA+MGFlLntJ/1Q6ZWZeVIEaPfsebVwQUSj42p+U0sqO6D7J3LiVzNR+qBjPamHbVugnbCohS448yOS88GUb7l7Lnle+r8HPSjLE3IH/bNOdg/zA4y2sF0JvDusOui9jQI=;cRM+Hc/v0Ux5Qm55tsasqw=="
+secured: "hITFqVvhMvqZju9+RXhZf8Y4yAQ4um6m0ZjnFH3EJ3xmfyEBMKoWKuBTZn98Bbkh6AMQ9dwRfdXerdkjKOwfTFFZ0bNasnDVr7KrLpR5hGPuH1rYLA7kNpafUWZtxaYyaFH5Az5+R91H3C30qQVBFL60Xz0HQa7QwgyzXsDcHlfF+VYaPrRmN3XBL/4HHTGtTySS7eq12XQ/agGWV9zP8B9lz32PqJBBfod/KZZIwaNS2ahP/MuzcpyQuG6kDwTH1eIRWFw3zu5vcnIdWlR81Xbd6DE6X6HQRp6uNbvHC2h1Bsp8yHqMbDWFHlwDk5i8g2MzfSYZwL7BQ/dh/Vl6ouCqej2UJwJgT209Bn2RRrU=;WshUgpkOnfpzhE1vSrnLmA=="
 ---
 

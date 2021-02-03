@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 678
         isCached: true
+  - title: "Etihad Airways Transforms Its Finance Operations by Leveraging Microsoft AI Capabilities"
+    excerpt: "Etihad Airways has carried out a transformation of its Finance Operations through harnessing the power of Microsoft AI. The Finance and Digital, Technol"
+    publishedDateTime: 2021-02-03T07:30:00Z
+    webUrl: "https://www.albawaba.com/business/pr/etihad-airways-transforms-its-finance-operations-leveraging-microsoft-ai-capabilities"
+    ampWebUrl: "https://www.albawaba.com/amp/business/pr/etihad-airways-transforms-its-finance-operations-leveraging-microsoft-ai-capabilities"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/etihad-airways-transforms-its-finance-operations-leveraging-microsoft-ai-capabilities"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 82
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2021-02/Etihad%20image%201.jpg?itok=tMPbQ2Tz"
+        width: 960
+        height: 640
+        isCached: true
   - title: "Shell, C3 AI, Baker Hughes, and Microsoft Launch the Open AI Energy Initiative, an Ecosystem of AI Solutions to Help Transform the Energy Industry"
     excerpt: "Baker Hughes (NYSE:BKR), and Microsoft (NASDAQ:MSFT) today announced the launch of the Open AI Energy Initiative™ (OAI),"
     publishedDateTime: 2021-02-02T11:37:00Z

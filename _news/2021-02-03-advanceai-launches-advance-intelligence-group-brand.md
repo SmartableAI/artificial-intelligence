@@ -67,7 +67,21 @@ related:
         width: 432
         height: 293
         isCached: true
+  - title: "What Budget 2021 has in Store for Artificial Intelligence"
+    excerpt: "Budget 2021 measures to deploy deep analytics and Artificial Intelligence to identify the tax evaders and fake billers, use of machine learning, data analytics and artificial intelligence to strengthen the Government’s initiatives."
+    publishedDateTime: 2021-02-03T08:02:00Z
+    webUrl: "https://www.analyticsinsight.net/what-budget-2021-has-in-store-for-artificial-intelligence/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/02/What-Budget-2021-has-in-Store-for-Artificial-Intelligence.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
-secured: "0Q/kkAZXD56ibvbwmNarqX9Jjz2kOM48IarGrwamK2JshCoiyBf2MDhaadt5tQDgvePq5nYJVLGNpl74FOnS9NXF4RgyJ+Z0Vh9PZlAhZ8SCZjWIEe2GT8rCHH1pNxnNkMheeCqXkyX2kAqIrpgI22sPbzkwNNkq4SHG+MBocVE0kxHSJecIQOr6fJgdD03ibnzwMfSCniSfPGVV3EtmT3sRnBZPyXEC4dO1npF2pshSHOknXAD9WjoO6i+pjXLltldBLBu//G00UxtIO1v/rCQ34Pl9dqbeZi1zjSJclYaAt2Q10G0FUgQ1QVNzpbVFI88TkWGwRQ2W/NAvPPQzGaYbV9tPtdNTI7WjNRcic2I=;6z0hrt/2UP1apJLVXD+7zg=="
+secured: "oYizj+E1ovKMDrGK3LPV1ds2rRdZ+CjpUprecdMKVaphLxRfP+Ff4wD9bLX84GEcyYIQBxJy/wJgfI/+AHRSlRTRfMWMOO13O2R6rx5DC1Sb2wLWD0cBQ67jg/RMPdQ1543IbbBR/d0zcWtjzg0gSJZ5E4OZI999nYq6sseGnCvCoKwJWibTJJX+GbENyqIJQatiuD9Qh9/sHstoheyHavCXGKG6l56n9xR35lNSfyetYMviFxGrjg/XsfDHf/oQGRWXAPIY3uIZyCaZWJtGkf6jfStRGpof2yZfVU+OnYaxzVYpghkh4Fy+p9XtDKfz7KFkqOq9PkJXsinq287rzCRHkhwGZUsckSILj/5/4Ig=;9SDKlkBKFPRfbuo/c/ae5Q=="
 ---
 

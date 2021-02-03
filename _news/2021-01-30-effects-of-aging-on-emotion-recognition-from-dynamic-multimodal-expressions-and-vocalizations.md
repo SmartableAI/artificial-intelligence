@@ -54,6 +54,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Deep-learning-based high-resolution recognition of fractional-spatial-mode-encoded data for free-space optical communications"
+    excerpt: "Structured light with spatial degrees of freedom (DoF) is considered a potential solution to address the unprecedented demand for data traffic, but there is a limit to effectively improving the communication capacity by its integer quantization."
+    publishedDateTime: 2021-01-29T20:16:00Z
+    webUrl: "https://www.nature.com/articles/s41598-021-82239-8"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 0
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-82239-8/MediaObjects/41598_2021_82239_Fig1_HTML.png"
+        width: 685
+        height: 322
+        isCached: true
 
 secured: "Nfh+06DceJt839dRxX6YBfKK5bcqHhk4RFGWUPxe0v7FkkjYxbjnsoGpbywbgdif7DFu0bkOCVK3o6fRXpJpIibANhAeqyld6cNWbhGOwyNEwOJ39wBkn6y07InDBx4v7LWnvegSzZ37iTv09IG+zMDgLsMMrjXLJtLe9kQcyGyJKF3LV3DsD1fc/ScDPwDoU489h3v5YUTupe3FGlXldzxLF6VJI6p40J4HdIUvsWQeUL7PxeGMBUXD6ZrixUa/Nxd+xmvtAhTqOuEbHGo4C/4vBoiRWQKIPfcsFuukaBBctrLU7Ceivb5CrxRcPe4o+OTWc3imfnHKeCjMZ81ev60kAtNrzCG3gWSOjiBb8qU=;VuIi2x8TaP6AWbYFesdgcg=="
 ---

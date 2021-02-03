@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/31/heres-where-ai-will-advance-in-20
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/31/heres-where-ai-will-advance-in-2021/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -68,6 +68,20 @@ related:
       - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/samba-nova-logo.jpg"
         width: 432
         height: 293
+        isCached: true
+  - title: "What Budget 2021 has in Store for Artificial Intelligence"
+    excerpt: "Budget 2021 measures to deploy deep analytics and Artificial Intelligence to identify the tax evaders and fake billers, use of machine learning, data analytics and artificial intelligence to strengthen the Government’s initiatives."
+    publishedDateTime: 2021-02-03T08:02:00Z
+    webUrl: "https://www.analyticsinsight.net/what-budget-2021-has-in-store-for-artificial-intelligence/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/02/What-Budget-2021-has-in-Store-for-Artificial-Intelligence.jpg"
+        width: 900
+        height: 500
         isCached: true
 
 secured: "b/hhIPc/YnjP9Nm7D3JczA3qfnSbRlwaXFXUwNottqAqB5ercBEj5uBWPjLGL/aZ3E76hB9gl9HrbX0Uj2Kz6piVIyPnN1+++m6EKON+2fFXyCAmwTNjsdYchYn205uNWH5d8K+9nT+FZoCy2GAfCsn9lcpKrSsIXijm4z0P2XN38UMQ3Uxy3BO8e3iEW4IPhfhI9gPIp4h6YC4ITaPUECy9FziSfnjKWmWYand6IncDpADknSw6k+Gb/YjKEmHC7aVdQ76z/fNyF7xBubmYsrimV8ntX8zMTIJ+YolUO3UdYWaE0AWNZGGo57tIDoxppPe8X+U08/g/lsTh/gje51Nk3yJ4R8KWdmHiXipkPkfEHNuWYIcfSVdFIsUnwJo0kN0fRqEgz0OKGe5b3JGpJBFM9t1Q+Oe+gM+51ZKTi54UDRJOJuLT+CAizlsKwZ0SCM9aeJlYQ05nFDr9+IpXC2iqgcSsb2gUq6HRP6Sw+/budJ8EPz0wliWVou7mn1smrizQ59vS7SZkmcieQpdEvQ==;7WOKzeywJEmdBVPcEWvzFQ=="

@@ -2,6 +2,134 @@
   "page": 92,
   "value": [
     {
+      "path": "_news/2020-11-21-making-sense-of-the-ai-landscape.md",
+      "title": "Making Sense of the AI Landscape",
+      "excerpt": "As more and more companies incorporate AI tools into their operations, business leaders need to find ways to adapt. But the term “AI” in fact covers a huge spectrum of different things.",
+      "sourceUrl": null,
+      "webUrl": "https://hbr.org/2020/11/making-sense-of-the-ai-landscape",
+      "originalUrl": "https://hbr.org/2020/11/making-sense-of-the-ai-landscape",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hbr.org/resources/images/article_assets/2020/11/Nov20_17_498430921.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://hbr.org/amp/2020/11/making-sense-of-the-ai-landscape",
+      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/11/making-sense-of-the-ai-landscape",
+      "publishedDateTime": "2020-11-20T12:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-21-update-twin-science-robotics-to-close-seedrs-campaign-with-nearly-12-million-raised.md",
+      "title": "Update: Twin Science & Robotics to Close Seedrs Campaign With Nearly £1.2 Million Raised",
+      "excerpt": "Twin Science & Robotics, a new educational experience that up skills children with physical and digital products, is set to close its equity crowdfunding campaign on Seedrs with nearly £1.2 million raised.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2020/11/169373-update-twin-science-robotics-to-close-seedrs-campaign-with-nearly-1-2-million-raised/",
+      "originalUrl": "https://www.crowdfundinsider.com/2020/11/169373-update-twin-science-robotics-to-close-seedrs-campaign-with-nearly-1-2-million-raised/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/10/twin-science-robotics-1-600x426.jpg",
+          "width": 600,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2020/11/169373-update-twin-science-robotics-to-close-seedrs-campaign-with-nearly-1-2-million-raised/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/169373-update-twin-science-robotics-to-close-seedrs-campaign-with-nearly-1-2-million-raised/amp/",
+      "publishedDateTime": "2020-11-20T11:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-21-military-robots-market-to-show-strong-growth-demand-qinetiq-endeavor-robotics-irobot-cobham-plc.md",
+      "title": "Military Robots Market To Show Strong Growth & Demand | Qinetiq, Endeavor Robotics (iRobot), Cobham PLC",
+      "excerpt": "Global Military Robots Market is valued approximately at USD 21.4 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 12.92% over the forecast period 2020-2027 ... According to Artificial Intelligence and National Security ...",
+      "sourceUrl": null,
+      "webUrl": "https://de.statista.com/statistik/studie/id/50489/dokument/artificial-intelligence/",
+      "originalUrl": "https://ipsnews.net/business/2020/11/20/military-robots-market-to-show-strong-growth-demand-qinetiq-endeavor-robotics-irobot-cobham-plc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/Study/50000/50489_cover.png",
+          "width": 429,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-20T11:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inter Press Service",
+        "domain": "ipsnews.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-11-21-luminar-to-supply-lidar-sensors-for-mobileyes-self-driving-fleet.md",
       "title": "Luminar to supply lidar sensors for Mobileye's self-driving fleet",
       "excerpt": "Luminar Technologies, the self-driving sensor startup that is about to go public, said on Friday that it will supply laser-based lidar sensors to Intel Corp's <INTC.O> Mobileye subsidiary for its test fleet of self-driving vehicles.",
@@ -1050,137 +1178,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-artificial-intelligence-and-satellite-technologies-reveal-detailed-map-of-air-pollution-across-uk.md",
-      "title": "Artificial intelligence and satellite technologies reveal detailed map of air pollution across UK",
-      "excerpt": "A novel method that combines artificial intelligence with remote sensing satellite technologies has produced the most detailed coverage of air pollution in Britain to date.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2020-11-artificial-intelligence-satellite-technologies-reveal.html",
-      "originalUrl": "https://phys.org/news/2020-11-artificial-intelligence-satellite-technologies-reveal.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/7-pollution.jpg",
-          "width": 1920,
-          "height": 1279,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2020-11-artificial-intelligence-satellite-technologies-reveal.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-11-artificial-intelligence-satellite-technologies-reveal.amp",
-      "publishedDateTime": "2020-11-20T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-startup-circle-how-is-doceree-using-ai-and-machine-learning-to-revolutionize-the-pharma-industry.md",
-      "title": "Startup Circle: How is Doceree using AI and Machine Learning to revolutionize the Pharma Industry?",
-      "excerpt": "In healthcare, robotics and machine learning are already having an impact on patient care, providing basic assistance across many clinical facilities – no doubt a life-saving job. Some may",
-      "sourceUrl": null,
-      "webUrl": "https://www.ciol.com/startup-circle-doceree-using-ai-machine-learning-revolutionize-pharma-industry/",
-      "originalUrl": "https://www.ciol.com/startup-circle-doceree-using-ai-machine-learning-revolutionize-pharma-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ciol.com/wp-content/uploads/2020/11/docree.jpg",
-          "width": 850,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.ciol.com/startup-circle-doceree-using-ai-machine-learning-revolutionize-pharma-industry/amp/",
-      "cdnAmpWebUrl": "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/startup-circle-doceree-using-ai-machine-learning-revolutionize-pharma-industry/amp/",
-      "publishedDateTime": "2020-11-19T23:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIOL",
-        "domain": "ciol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-education-about-ai-to-begin-in-high-schools-next-year.md",
-      "title": "Education about AI to begin in high schools next year",
-      "excerpt": "Artificial intelligence (AI) will be introduced as a new subject in local high schools next year before being expanded to the curriculums of kindergartens and elementary and middle schools by 2025, the education ministry said Friday,",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/nation/2020/11/181_299636.html",
-      "originalUrl": "https://www.koreatimes.co.kr/www/nation/2020/11/181_299636.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202011/9091269d05644e31af78ec36c18c7fe0.jpg",
-          "width": 980,
-          "height": 712,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=299636",
-      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=299636",
-      "publishedDateTime": "2020-11-19T23:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "koreatimes.co.kr",
-        "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

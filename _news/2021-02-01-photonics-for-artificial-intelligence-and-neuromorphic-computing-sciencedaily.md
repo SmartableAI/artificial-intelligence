@@ -9,7 +9,7 @@ ampWebUrl: "https://www.compsmag.com/news/pc/photonics-for-artificial-intelligen
 cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/photonics-for-artificial-intelligence-and-neuromorphic-computing-sciencedaily/amp/"
 type: article
 quality: 68
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -41,6 +41,22 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/photon.jpg"
         width: 1920
         height: 1280
+        isCached: true
+  - title: "New study investigates photonics for artificial intelligence and neuromorphic computing"
+    excerpt: "Scientists have given a fascinating new insight into the next steps to develop fast, energy-efficient, future computing systems that use light instead of electr"
+    publishedDateTime: 2021-02-01T17:00:00Z
+    webUrl: "https://sciencebulletin.org/new-study-investigates-photonics-for-artificial-intelligence-and-neuromorphic-computing/"
+    ampWebUrl: "https://sciencebulletin.org/new-study-investigates-photonics-for-artificial-intelligence-and-neuromorphic-computing/?amp"
+    cdnAmpWebUrl: "https://sciencebulletin-org.cdn.ampproject.org/c/s/sciencebulletin.org/new-study-investigates-photonics-for-artificial-intelligence-and-neuromorphic-computing/?amp"
+    type: article
+    provider:
+      name: Science Bulletin
+      domain: sciencebulletin.org
+    quality: 49
+    images:
+      - url: "https://sciencebulletin.org/wp-content/uploads/2021/02/New-study-investigates-photonics-for-artificial-intelligence-and-neuromorphic-computing.jpg"
+        width: 640
+        height: 427
         isCached: true
   - title: "Photonics for artificial intelligence and neuromorphic computing"
     excerpt: "Photonics offers an attractive platform for implementing neuromorphic computing due to its low latency, multiplexing capabilities and integrated on-chip technology."

@@ -58,20 +58,6 @@ related:
         width: 1024
         height: 443
         isCached: true
-  - title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
-    excerpt: "Observe.AI platform now available in the Microsoft Azure Marketplace and AppSource Business"
-    publishedDateTime: 2021-02-02T17:08:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2021-02-02/observe-ai-and-microsoft-team-up-to-redefine-customer-experience-with-contact-center-ai"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 76
-    images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Moving from the Lab to the Mainstream - Microsoft's Machine-Learning Tool"
     excerpt: "Now techniques developed by Microsoft are emerging from the lab and moving into production. Perhaps the most significant embodiment of this development is Personalizer, part of Azure Cognitive Services on the Azure AI Platform³."
     publishedDateTime: 2021-02-02T17:27:00Z
@@ -87,6 +73,22 @@ related:
       - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_11966_16122866370551170.jpg"
         width: 1103
         height: 469
+        isCached: true
+  - title: "Why Microsoft’s Self-Driving Car Strategy Will Work"
+    excerpt: "Self-driving car startup Cruise received more than $2 billion investment from Microsoft, General Motors, Honda, and institutional investors,"
+    publishedDateTime: 2021-02-03T08:02:00Z
+    webUrl: "https://www.techfinancials.co.za/2021/02/03/why-microsofts-self-driving-car-strategy-will-work/"
+    ampWebUrl: "https://www.techfinancials.co.za/2021/02/03/why-microsofts-self-driving-car-strategy-will-work/?amp"
+    cdnAmpWebUrl: "https://www-techfinancials-co-za.cdn.ampproject.org/c/s/www.techfinancials.co.za/2021/02/03/why-microsofts-self-driving-car-strategy-will-work/?amp"
+    type: article
+    provider:
+      name: techfinancials
+      domain: techfinancials.co.za
+    quality: 61
+    images:
+      - url: "https://n9v2j5d8.rocketcdn.me/wp-content/uploads/2020/05/Microsoft.png"
+        width: 512
+        height: 341
         isCached: true
   - title: "Microsoft’s investment in cruises puts it in the game of self-driving cars"
     excerpt: "Microsoft's investment in cruises puts it in the game of self-driving cars One of the pitches that has worked well for Microsoft in the"
@@ -158,6 +160,20 @@ related:
       - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/GM-Cruise-Partners-with-Microsoft-to-Accelerate-Self-Driving-EV-Technology.png"
         width: 900
         height: 470
+        isCached: true
+  - title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
+    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
+    publishedDateTime: 2021-02-03T08:22:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 46
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "Lye1D4AYA/n/tp7Rw+RfBNVOciEaojPEeYGS5e/leCa53lVlolavldZvFcPaIViYFe0S5UUpCUuX4zBUmzwc4IfK9E3lgd2EDVd5rAWFiBSoEHLXem1G14n/bspg5fasT+rVqXkl7FuBa/ExMI2ZpFHQj7VHw358O3/oQnJ0cOPB689CCmmOb2g0XfURVXmznj4CxjvvlIBQGRgod1NxnYQ8yRwDiQuSN9EMDxGNX6LOZ8Ddeqqe7LKgvNXmkofg6Hsw6QN1hAnrviM4UdEi1aJomDo4Fw+EwJk33C3/PcrMJ/FcBmtcra9+vYXbUOXUzUBb6+/IegKRozeFAjY+WqmKQUqhdwtYGESCVGr/wLk=;1Vdzpkh6Vdd7ci+Iq25K5Q=="

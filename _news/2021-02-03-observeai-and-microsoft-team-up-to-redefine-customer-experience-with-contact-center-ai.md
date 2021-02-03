@@ -1,31 +1,27 @@
 ---
 category: news
 title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
-excerpt: "Observe.AI platform now available in the Microsoft Azure Marketplace and AppSource Business"
-publishedDateTime: 2021-02-02T17:08:00Z
-originalUrl: "https://www.bloomberg.com/press-releases/2021-02-02/observe-ai-and-microsoft-team-up-to-redefine-customer-experience-with-contact-center-ai"
-webUrl: "https://www.bloomberg.com/press-releases/2021-02-02/observe-ai-and-microsoft-team-up-to-redefine-customer-experience-with-contact-center-ai"
+excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
+publishedDateTime: 2021-02-03T08:22:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
+webUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
 type: article
-quality: 76
+quality: 46
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI
   - Microsoft AI
+  - AI
 
 images:
-  - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -76,6 +72,22 @@ related:
       - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_11966_16122866370551170.jpg"
         width: 1103
         height: 469
+        isCached: true
+  - title: "Why Microsoft’s Self-Driving Car Strategy Will Work"
+    excerpt: "Self-driving car startup Cruise received more than $2 billion investment from Microsoft, General Motors, Honda, and institutional investors,"
+    publishedDateTime: 2021-02-03T08:02:00Z
+    webUrl: "https://www.techfinancials.co.za/2021/02/03/why-microsofts-self-driving-car-strategy-will-work/"
+    ampWebUrl: "https://www.techfinancials.co.za/2021/02/03/why-microsofts-self-driving-car-strategy-will-work/?amp"
+    cdnAmpWebUrl: "https://www-techfinancials-co-za.cdn.ampproject.org/c/s/www.techfinancials.co.za/2021/02/03/why-microsofts-self-driving-car-strategy-will-work/?amp"
+    type: article
+    provider:
+      name: techfinancials
+      domain: techfinancials.co.za
+    quality: 61
+    images:
+      - url: "https://n9v2j5d8.rocketcdn.me/wp-content/uploads/2020/05/Microsoft.png"
+        width: 512
+        height: 341
         isCached: true
   - title: "Microsoft’s investment in cruises puts it in the game of self-driving cars"
     excerpt: "Microsoft's investment in cruises puts it in the game of self-driving cars One of the pitches that has worked well for Microsoft in the"
@@ -163,6 +175,6 @@ related:
         height: 470
         isCached: true
 
-secured: "Z9/86xemXIm+68+dxPirgVvnhZ7BKck2AMS+yo2g5C24rh27G6vCbEEGseyhywGm5csaq7TOlPuLp332knRN7QwQXF/wt3iimD78aFOiHE9hYF+jN5X65Jj+c1bzhymqgHC9mR52FrBCIsLwlxfv0QHzK4/pXvpjqFxiYKkRI76qo8BejPrM2M8lQLN+Y+9XFUS1LvUdxz7aurSw68r95BSzC2f1gdVVkK4NaUgGOo3mae5WsFa+M0+nWdCqev9RDadyLMUNh2FVENGSyr3AALQD9pcLJc0vI5UU5TJpk03MqhfCjscAe8h7o57CogRj2qvQmGqSNphc1d0pl74Ck1OtKmpuyymZI24qCXblU5s=;5JbuTyWlPLvPKQQ8x31b7w=="
+secured: "S5oFQHyZQpFs8SsjFhld5NbGa67lhIhjVQC70WsA9qmCTRqIwH7VNfV0i8gaHvwhYRN0pM8Qu6tVahqxgLL1IfZm95Ue6xPlhkIhPmSeVXRQKJrQXUzo8AJSbd9R74zjV3NZVJQ7F6kroWcskR4IX+4lcYxhS/Cpy7nrKM4b2PWRxDZqRdv5Tnr29HpEsDAI2Ue3gECHJgaBvAyZXWbXWIW1CNYY/YcROyxltPFoakX6UtBBggIZFCqjXbqH0sB1hA3rWLnugnlbxyNv7w7/lfT8n3uoPES88qscdg+FdERElC3QWARLSp1hhSeey/c4XdJ5OkGDpgLeFcO/qZLgfQ7fJzLdIsdoPMlqZsxd2To=;nQvL+5RCT/rRfv4hrG8Vcg=="
 ---
 

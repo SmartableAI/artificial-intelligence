@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-21-this-site-published-every-face-from-parlers-capitol-riot-videos.md",
+      "title": "This Site Published Every Face From Parler's Capitol Riot Videos",
+      "excerpt": "Faces of the Riot used open source software to detect, extract, and deduplicate every face from the 827 videos taken from the insurrection on January 6.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/faces-of-the-riot-capitol-insurrection-facial-recognition/",
+      "originalUrl": "https://www.wired.com/story/faces-of-the-riot-capitol-insurrection-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6008823e103a85a519187c3a/master/pass/parler-face-recognition-illustration.jpg",
+          "width": 2095,
+          "height": 1178,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/faces-of-the-riot-capitol-insurrection-facial-recognition/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/faces-of-the-riot-capitol-insurrection-facial-recognition/amp",
+      "publishedDateTime": "2021-01-20T16:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-technologists-use-facial-recognition-on-parler-videos.md",
       "title": "Technologists Use Facial Recognition on Parler Videos",
       "excerpt": "Technologists have used facial recognition techniques on the large archive of Parler videos filmed from the January 6 Capitol riots, Motherboard has learned. In some cases they have been able to track individual faces across different videos,",
@@ -1353,58 +1405,6 @@
       "ampWebUrl": "https://www.wired.com/story/job-screening-service-halts-facial-analysis-applicants/amp",
       "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/job-screening-service-halts-facial-analysis-applicants/amp",
       "publishedDateTime": "2021-01-12T14:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-ces-liveblog-laptops-robovacs-and-lab-grown-breast-milk.md",
-      "title": "CES Liveblog: Laptops, Robovacs, and Lab-Grown Breast Milk",
-      "excerpt": "The consumer tech show is virtual this year, and the WIRED Gear crew is watching all the Zooms to bring you up-to-the-minute highlights of news from CES.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/ces-2021-liveblog-day-2/",
-      "originalUrl": "https://www.wired.com/story/ces-2021-liveblog-day-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ffcfc947576555735fb9eb6/master/pass/Gear-CES-Liveblog-Day2.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/ces-2021-liveblog-day-2/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ces-2021-liveblog-day-2/amp",
-      "publishedDateTime": "2021-01-12T13:57:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Wired",

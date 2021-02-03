@@ -7,7 +7,7 @@ originalUrl: "https://www.nasdaq.com/press-release/gdit-announces-availability-o
 webUrl: "https://www.nasdaq.com/press-release/gdit-announces-availability-of-aws-services-on-milcloud-2.0-2021-02-01"
 type: article
 quality: 64
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -70,6 +70,15 @@ related:
       name: FedScoop
       domain: fedscoop.com
     quality: 34
+  - title: "TrinityRail Announces New Products and Services Expansion"
+    excerpt: "TrinityRail® announced today two new service offerings that will expand and enhance the TrinityRail platform for its customers. The company has officially launched a new technology service platform, Trinsight™,"
+    publishedDateTime: 2021-02-03T08:47:00Z
+    webUrl: "https://www.financialbuzz.com/trinityrail-announces-new-products-and-services-expansion/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 19
 
 secured: "zj0KlE1vIR1z9ZH1gyyossiBdlBq3hsXbSQp5YXG5T1w+H0eOwUccwB1NV4TEy991nv9rVXNNA4eVfE2btbuibFTlCHumDJrHwpwRFz3L6B6YznB7KAZvr5lxy6B2jxABwJF/5wpIb+RwceGccjj9Q2Txf/vWpgtKMqStMj5fKCPhqIVym1Gwg1ChnEE86peF+48DQo4vdxl6dfwNdTpvm6XsB336Z30WtlIlnTvvwP6rftoVanwOCuHeKLrxcEifRb1vKIYqqA01UYOlajRWkCTYP0e/kr0jUyc8TDWlTlapPVzfHe68YiTyS2+RDloA7SzF1S7CIHOI3yHF1bsCZ1Wvp2iykyulJtjdUUyk1U=;RCVCoDncBXHk1QUahNh52A=="
 ---

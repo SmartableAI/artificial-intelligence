@@ -1,22 +1,28 @@
 ---
 category: news
-title: "SAS Viya Delivers Innovation and Analytics for All"
-excerpt: "Analytics leader SAS continues to innovate by making it easier to access its powerful, cloud-native SAS® Viya® platform. Recent product developments help customers more efficiently democratize analytics throughout their organizations while seamlessly managing analytic workloads and building SAS into a variety of applications."
-publishedDateTime: 2021-02-03T06:09:00Z
-originalUrl: "https://www.businesswireindia.com/sas-viya-delivers-innovation-and-analytics-for-all-71363.html"
-webUrl: "https://www.businesswireindia.com/sas-viya-delivers-innovation-and-analytics-for-all-71363.html"
+title: "SAS Viya Delivers Innovation And Analytics For All"
+excerpt: "Customers benefit from easier cloud migration and management of analytic workloads; SAS continues to strengthen its partnership with Microsoft Azure Mumbai, Maharashtra, India Business Wire India Analytics leader SAS continues to innovate by making it easier to access its powerful,"
+publishedDateTime: 2021-02-03T08:05:00Z
+originalUrl: "https://www.republicworld.com/business-news/india-business/sas-viya-delivers-innovation-and-analytics-for-all.html"
+webUrl: "https://www.republicworld.com/business-news/india-business/sas-viya-delivers-innovation-and-analytics-for-all.html"
 type: article
-quality: 4
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswireindia.com
+  name: RepublicWorld
+  domain: republicworld.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/wf9zahdas70tznpq_1612339428.jpeg?tr=f-jpeg"
+    width: 1242
+    height: 710
+    isCached: true
 
 related:
   - title: "Budget 2021: AI, ML and analytics to ease compliance burden and check tax evasion"
@@ -82,6 +88,6 @@ related:
         height: 418
         isCached: true
 
-secured: "fqGY9xmM1lnGARgQkfFWd/hCYRGM3/+KXn3tG+iJIOxBx+Pn4iYuXRB+JaJb/XNEuwvKBNls/XMnmRLiD6Fi2CixOV8yLHpsYl5/LAZsP87kkKUBE+B9Zji49jMVvXfO5WW8GsRP8PqqbJb2H5vjUhq40xUbs0/J0aRaQxfdGJqH9JwaZ3ExwML1A+qOLOnB4Sv+AMVF3CF4eWrj2Zw7Zw+BieAlho/yvWDGxn7D9qA/Dm8M/+D59ppe0D6E/Jm/G4XUFKAXLaRTwMxImp51sCNUIMREih51Z5SsIUD5Ym1gPugTfz07DbKHr+nclS0yCA4cgCv+Gx/iZHJoVAcLq4idMiAVV1b102Z1m12n+Eo=;BxpUXvESPv6ighbGWzHj9Q=="
+secured: "SrzqrSoUTBFeC2WwjZo+abmWxU4340kzbrkNiVjj0FUZ/ET5tgSlNc6QAa2sMGmZibkXgAqVy32THsnISDy1DIPtDAPX/ReCub6PiS79/NAcEBOGN1L7eB7uGaeZaT1GP2EL6nex08ZHhVHzMH535fjkTCLzTsvj2iTMQoX/VQdz2KFpdglxpQarvjTJBHDLtQuTYWoL4eduF2v4vllFWklu+ZBSqVVfJWhPh5KdSkoim1XILJuvyVrMjZefqi6X0AgLfZyDUJszKctSh3Z7LFGGoZFK6tqA0YF+qgFxPPpXJ+zD8tmJuDOZ/ViCTa8X218MJbPXHObe5PgDfC/fbgHfdCjNJVKJS1mb8HPtE4Q=;e0somuwTw8HVAY6fuAzkow=="
 ---
 

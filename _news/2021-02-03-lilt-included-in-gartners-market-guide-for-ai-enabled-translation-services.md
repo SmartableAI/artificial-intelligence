@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Lilt Included in Gartner's Market Guide for AI-Enabled Translation Services"
-excerpt: "Lilt, a leading provider of human-powered, AI-enabled translation services and technology, today announced that it has been identified as a Representative Vendor in the Gartner \"Market Guide for AI-Enabled Translation Services\" report."
-publishedDateTime: 2021-02-02T19:08:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/lilt-included-in-gartner-s-market-guide-for-ai-enabled-translation-services-1030033410"
-webUrl: "https://markets.businessinsider.com/news/stocks/lilt-included-in-gartner-s-market-guide-for-ai-enabled-translation-services-1030033410"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/lilt-included-in-gartner-s-market-guide-for-ai-enabled-translation-services-1030033410"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/lilt-included-in-gartner-s-market-guide-for-ai-enabled-translation-services-1030033410"
+title: "Lilt Included in Gartner’s Market Guide for AI-Enabled Translation Services"
+excerpt: "Lilt, a leading provider of human-powered, AI-enabled translation services and technology, today announced that it has been identified as a Representative Vendor in the Gartner ” Market Guide for AI-Enabled Translation Services” report."
+publishedDateTime: 2021-02-03T07:55:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-55d4a7ddc9d20796c31730febd3a85ab"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-55d4a7ddc9d20796c31730febd3a85ab"
 type: article
-quality: 67
-heat: 77
-published: true
+quality: 37
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Lilt Included in Gartner's Market Guide for AI-Enabled Translation Services"
@@ -39,7 +39,21 @@ related:
         width: 797
         height: 419
         isCached: true
+  - title: "Skinopathy Files Provisional Patent for Artificial Intelligence and Augmented Reality Powered Technology that will Guide Skin Cancer Surgeries"
+    excerpt: "Skinopathy, a Canadian medical company founded in 2020, has filed a provisional patent with the United States Patent and Trademark Office (USPTO) for Artificial Intelligence (AI) and Augmented Reality (AR) technology that will help guide"
+    publishedDateTime: 2021-02-02T15:58:00Z
+    webUrl: "https://www.lelezard.com/en/news-19630114.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 3
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
-secured: "0DeAxR1E1Wf9adppekPlmTkL61BYRljzNkZZnZwPyKDbkKLjP2bd24ulShHPGiDO5bIOpEdmQYaTkN9hrgQRicO63vsAX6g0L21pVgKPp30CUYbxh3C9rpP+zvVNixwqfJChiVpfz18fJaGH3AqfNETTWLvSZk2LCk7wjrlTfsmK694aWiemB2R8nGYbd+pFnpeXICSqd4DPt2deLcH8AxLU02p7ULannOnE32/tQegq+gdqsuhx/eF9RvcxPf+4t1G34n4hv//fmCWXKS9ONtJUrVBJ3qaX8E4KHipA223AjzXEi9Ux+Zc678FmUHLXzo/28Ct05wGkpJpAYZYmVPrG9GIb32T/Sxxl4DqrEFQ=;y0rGfw4L3luF8g4YROJibQ=="
+secured: "FAy5tMa32tpxUpWdzh2INtZTOjNet3xlI8CQkZ9o+VRHubj7jjbR6ozsiZ2rZjJi7v+8zL/8A/CY7WXnZZ79/MJ/LMsUc7AuaQIsX9pM0xUPb+UDIP5pGq2G5to3YLN0tdibVzGmrot6hgaOSBrAQ75fWTUqCnh68AlGyN4L7jZT9j1MgUXDjFkxIvaYXYBh+eE5Kd3K/kC1f8NxY4bxi4Jb4tWoUuM0ZaBN3rqcCJ0WnuqUckIud5dODeN6c1FktOVpCx8JzVmo78hnJkGVkXdsGybG+8N5IkltHjToWNHPa8lqtZKFKqQc2hESZlsdNHGFcFeHE/o0f7sIDYRmiZbzUH/HYxPR3XFh2OZr660=;UEkHlPKIdn4FvbOovs+viw=="
 ---
 

@@ -35,20 +35,6 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 39
-  - title: "Colby College to start artificial-intelligence institute"
-    excerpt: "A Maine college is working to establish an institute for artificial intelligence that it said would be the first of its kind at a liberal arts college. The Davis Institute for Artificial Intelligence will “provide new pathways for talented students and faculty to research,"
-    publishedDateTime: 2021-01-29T15:32:00Z
-    webUrl: "https://bangordailynews.com/2021/01/29/news/central-maine/colby-college-to-start-artificial-intelligence-institute/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 24
-    images:
-      - url: "https://i2.wp.com/bdn-data.s3.amazonaws.com/uploads/2020/10/Colby-020819-H-LCO.jpg?fit=2500%2C1681&#038;ssl=1"
-        width: 2500
-        height: 1681
-        isCached: true
 
 secured: "1jAWkO8diOAEx0Mp3eaBk6dougNbezIS2PSL6h2SVouYg04OJcKQmCFNn5hBs94vwPExd3e0B4gasQqUgR5DiSI+nlph68CyYGfwLxiTm+QZhgIbx81fbZ16qrXF6qQJkOG6j3iLzIFuLq6x4FVCssmxEbVvr8GLs3SWDiapISfpWGEY1kaW7id4tyDaAzjDHy1e9NQexD3Y9/p5nPgI7k8bJuTdY+s/Acy3Oyy3KHuJAzSSjpuqp7wWANP8XfyTipQ27ztnE3NzuXKd0q8qYzKYpzmCmY7FOg16IW2aVyXGIR4ltvmbql7d0mShPHKB6NbSc/H3nlVANfsl1mt9vObmTa4GjyaDxaMkY73vLZQ=;pO2wJk1/eKrlidfdSZQAeA=="
 ---

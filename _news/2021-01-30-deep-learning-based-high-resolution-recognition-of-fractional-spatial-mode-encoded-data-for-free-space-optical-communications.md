@@ -25,47 +25,48 @@ images:
     isCached: true
 
 related:
-  - title: "Towards a framework for face recognition in Europe"
-    excerpt: "The Advisory Committee of the Council of Europe Convention on the Protection of Individuals with regard to Automatic Processing of Personal Data, known as Convention 108, is celebrating its 40th anniversary."
-    publishedDateTime: 2021-01-29T16:06:00Z
-    webUrl: "https://galusaustralis.com/2021/01/1047902/towards-a-framework-for-face-recognition-in-europe/"
-    ampWebUrl: "https://galusaustralis.com/2021/01/1047902/towards-a-framework-for-face-recognition-in-europe/amp/"
-    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2021/01/1047902/towards-a-framework-for-face-recognition-in-europe/amp/"
+  - title: "Amherst teen wins recognition in national arts competition"
+    excerpt: "Arden Lloyd first starting taking piano lessons when she was 8 at the behest of her parents. It wasn’t something she particularly objected to, she says, but on the other hand, “I didn’t take it too seriously."
+    publishedDateTime: 2021-01-31T17:36:00Z
+    webUrl: "https://www.gazettenet.com/Amherst-teen-is-a-finalist-in-national-music-competition-38601871"
     type: article
     provider:
-      name: galusaustralis.com
-      domain: galusaustralis.com
-    quality: 59
+      name: Daily Hampshire Gazette
+      domain: gazettenet.com
+    quality: 24
     images:
-      - url: "https://galusaustralis.com/wp-content/uploads/2021/01/reconnaissance-faciale-facebook-1024x538.jpg"
-        width: 1024
-        height: 538
+      - url: "http://www.gazettenet.com/getattachment/3a4ca9e8-a4c4-4c5d-9697-e069219c034f/70ba58820e2a47a08a7452c0c83b9128.jpg"
+        width: 499
+        height: 325
         isCached: true
-  - title: "The European Commission Doesn’t Allow Companies To Use Facial Recognition Freely"
-    excerpt: "Recently, the European Commission stated that companies must not use facial recognition technology to judge employees. In recent years, facial recognition technology has become very"
-    publishedDateTime: 2021-01-29T16:09:00Z
-    webUrl: "https://www.gizchina.com/2021/01/29/the-european-commission-doesnt-allow-companies-to-use-facial-recognition-freely/"
-    ampWebUrl: "https://www.gizchina.com/2021/01/29/the-european-commission-doesnt-allow-companies-to-use-facial-recognition-freely/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/01/29/the-european-commission-doesnt-allow-companies-to-use-facial-recognition-freely/amp/"
+  - title: "State Board of Elections ends recognition of Green and Constitution Parties in N.C."
+    excerpt: "Both parties failed to meet the necessary voting requirements in the 2020 presidential and state elections. Here's what that means."
+    publishedDateTime: 2021-02-01T02:35:00Z
+    webUrl: "https://www.dailytarheel.com/article/2021/02/city-green-constitution-party"
     type: article
     provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 54
+      name: The Daily Tar Heel
+      domain: dailytarheel.com
+    quality: 18
     images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2021/01/Facial-Recognition-1024x483-1.jpg?mrf-size=m"
-        width: 480
-        height: 226
+      - url: "https://snworksceo.imgix.net/dth/77ee925f-c87b-4bea-b7e9-903ae8aef544.sized-1000x1000.jpg?w=800&h=600"
+        width: 800
+        height: 533
         isCached: true
-  - title: "Facial Recognition Ethical Framework Launched by BSIA"
-    excerpt: "The British Security Industry Association’s (BSIA) video surveillance section has launched an ethical and legal use guide for Automated Facial Recognition (AFR). The guide, recommended by the Organization for Economic Co-operation and Development,"
-    publishedDateTime: 2021-02-01T12:25:00Z
-    webUrl: "https://www.infosecurity-magazine.com/news/facial-recognition-ethical/"
+  - title: "Effects of aging on emotion recognition from dynamic multimodal expressions and vocalizations"
+    excerpt: "Age-related differences in emotion recognition have predominantly been investigated using static pictures of facial expressions, and positive emotions beyond happiness have rarely been included. The current study instead used dynamic facial and vocal stimuli,"
+    publishedDateTime: 2021-01-29T20:16:00Z
+    webUrl: "https://www.nature.com/articles/s41598-021-82135-1"
     type: article
     provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 36
+      name: Nature
+      domain: nature.com
+    quality: 15
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-82135-1/MediaObjects/41598_2021_82135_Fig1_HTML.png"
+        width: 535
+        height: 685
+        isCached: true
 
 secured: "a+Gr3b+AeXLyTqxpjz4JeeovB0XXKNJCluhcLinu+/J4uxQDhfMm0vAvLmhJ9yQxencIchpMP/LwC9Esd4Bq/s5W9wsckKUNOm/+ZhiJHRGYq5Ofqv8WrCFTgmtLkezjup/wTWekTmo6EuJ6+V+2ISWRY3f1uKIKVzjxwrIegE+o64N7tV9Wi2yC9uAJv/zcW0uJt84nfQGSMOX+di4kDkt8DFH25qz4jX57/rgagKLNX1WDuikpdEpSJzHgZjXQITu+KjGNpRbQONpLjceaMtH8zY478/Tn7rqJ9WPinsxLnfzGoPExeMp0EdTxUa6ebVhxdOFX/ty+6eTUSX29VdYiyEklNgMsdieqIHs0fpsSqPj92fdzm1wZ2MaQmWWW+eopM0vdy34hSsi3FXivEWKoZg1huGfB3Ja0gdJBJEh5HVtcMtO2NsbccuZ9DdZ2unsKAzMitEhGldkF7NjN6epIuRfcBHY190quD7xwAUNjAUHEcOBDi+DfXwKvk3O/yzOH3f/yzUB0sij+9Zz2VA==;X2FZemyWdbZt17r6GCS0WQ=="
 ---
