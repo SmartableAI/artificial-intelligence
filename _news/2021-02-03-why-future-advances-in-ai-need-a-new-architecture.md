@@ -56,6 +56,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 69
+  - title: "ADVANCE.AI Launches 'Advance Intelligence Group' Brand"
+    excerpt: "ADVANCE.AI, a homegrown AI and big data company in Asia helping to solve digital transformation, fraud prevention, and process automation for enterprise clients, is today formally announcing its corporate parent brand Advance Intelligence Group."
+    publishedDateTime: 2021-02-03T06:11:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/advance-ai-launches-advance-intelligence-group-brand-1030036725"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/advance-ai-launches-advance-intelligence-group-brand-1030036725"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/advance-ai-launches-advance-intelligence-group-brand-1030036725"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
 
 secured: "ChA3YFcFHSIBs5EFaYKIhkRO3CFdJ/9/WyLz3iQDUBC0RMnVa52iWq2LH0iJCTPxf+SejD6T/eqwXiSp5tmHcC5Uwr82VSbZ/rf49ZnspBtniyLT4jp70fkyLC3Z9QJqCP2UNOkZ98CGaJhb9WoRCrhx5CIjhAbnZS1198ftweIp/zLcWMrusNg8FFYIiEz/kkJTQ/EE+M6eUOuxS58i2kSBAzVDJZgkAELtCqDPpzXxZsoKGavVrPa1+MPMVX7Ze4E5j/R7pCoozqptRqFxzsOwSfsmgcMt7mEq//2IMpjOgOun7JnjcFMnm3vayqsI2FMbYM2bVS1ycojCCQ7BTFWtMKXZx4Cld9oPspkVEKxE38NEC9VFeeADHLdZLKsRYt4zyo2zoJu6w0tK+ztrXmAVzgQpKxGbfDirK22pxjTch73gMpBmzIsuUptNAwMytSjxWKSSyoX2kpvT5IfObfOq0v/15zbYPnKy/SamHdkoCk/8uyQA5grz4NL166e8cd5rtl8wmHeVLoYOBO61mg==;Dq/I1IfFra5vRzTtGNZbrg=="
 ---

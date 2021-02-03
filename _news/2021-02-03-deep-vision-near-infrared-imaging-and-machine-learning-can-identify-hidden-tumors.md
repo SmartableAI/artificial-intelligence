@@ -39,6 +39,17 @@ related:
         width: 2075
         height: 1638
         isCached: true
+  - title: "New technology uses near-infrared imaging and machine learning to find hidden tumors"
+    excerpt: "Tumors can be damaging to surrounding blood vessels and tissues even if they're benign. If they're malignant, they're aggressive and sneaky, and often irrevocably damaging. In the latter case, early detection is key to treatment and recovery."
+    publishedDateTime: 2021-02-03T05:15:00Z
+    webUrl: "https://www.news-medical.net/news/20210203/New-technology-uses-near-infrared-imaging-and-machine-learning-to-find-hidden-tumors.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210203/New-technology-uses-near-infrared-imaging-and-machine-learning-to-find-hidden-tumors.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210203/New-technology-uses-near-infrared-imaging-and-machine-learning-to-find-hidden-tumors.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 32
 
 secured: "ZKQrt9VFKKMsP/fAaBlSy5sMOwYY28/ss+++kC3n9ILL2yCQHvOmf6WFF9cmD9UkttOuqqjemaqkbIToqyNZE3alqIP214pj91KGQwmTn1ViOSwgXBGWxGO8sj5R8qGB7Uw7dlo7KOpde5poB68oER1Gp/+gYdBNh4woZtxVcNK8XqkiNz2a+khebgN8oknoPI7Nf8Zi6plXrMvjOpOQziOL0Ox/i2eqYclRtZuq/CpggQnEorY8C5GPD8UCLpOSa/I+QJiJVuhT9P2tj4YLSliUVkPsv798XzsF+/twCQBu+kPy4EkwC0pI9r7OkPBSJ8sbjgeMaHikpZx9SDs9DXpycsKRl5Jjq1EvakNg6dk=;vEnJZJtxMTy9JHg+ZEB+/w=="
 ---

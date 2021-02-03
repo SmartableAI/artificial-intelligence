@@ -60,20 +60,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Five trends in machine learning-enhanced analytics to watch in 2021"
-    excerpt: "AI usage is growing rapidly. What exactly does 2021 hold for the world of analytics, and how will AI drive it?"
-    publishedDateTime: 2021-01-29T14:33:00Z
-    webUrl: "https://www.information-age.com/five-trends-machine-learning-enhanced-analytics-watch-2021-123493559/"
-    type: article
-    provider:
-      name: Information Age
-      domain: information-age.com
-    quality: 39
-    images:
-      - url: "https://s27389.pcdn.co/wp-content/uploads/2021/01/five-trends-machine-learning-enhanced-analytics-watch-2021.jpeg"
-        width: 1080
-        height: 634
-        isCached: true
   - title: "SAS Viya delivers innovation and analytics for all"
     excerpt: "Analytics leader SAS continues to innovate by making it easier to access its powerful, cloud-native SAS® Viya® platform. Recent"
     publishedDateTime: 2021-02-02T14:49:00Z
@@ -88,6 +74,15 @@ related:
         width: 800
         height: 418
         isCached: true
+  - title: "SAS Viya Delivers Innovation and Analytics for All"
+    excerpt: "Analytics leader SAS continues to innovate by making it easier to access its powerful, cloud-native SAS® Viya® platform. Recent product developments help customers more efficiently democratize analytics throughout their organizations while seamlessly managing analytic workloads and building SAS into a variety of applications."
+    publishedDateTime: 2021-02-03T06:09:00Z
+    webUrl: "https://www.businesswireindia.com/sas-viya-delivers-innovation-and-analytics-for-all-71363.html"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 4
 
 secured: "DG2bakb+eXrbC4WDucjW8MhvJsbavL55dR5pQJNmu2fq2pxaHYKW5T+tw3xl8yz4iDinNC7lBQxxeUkKCIxZtNqighyYJ2aCFiziDS5gE16oEITPZ1Nxjli/3mSwCIguyzVxdz412uId7O6Pb0vNlaoBDgsmhphz2GSHcmrSxR3s7bemRUDr2zmGR3EIy49EbZtBv7zmxtvjWe4u78fLmnbcHmYyTpOc+mcHMvy8C4k7YL+N3tQ39GDfzWV8nC5vQ5Gy7DuMEOPPJ7iW5Ez4O5hHVV9dAkt1i5VQ1Zs/2qd93XdpWprrn4aWuK+s2224NqxRBvy2RJM7m4iIGNUGdzaPDzSqPfcF5XaC+8KzSOePP2+YJM4/Lh4hEStXaj9LXACNzSdX6NZbvEf4oBfIElL8H0ojRmP81rJD81rrBo6PYcTsrvutmqUG8vazo1AZT3Bf76qT5E7eeknwbENh47Du7cL+9zsKMy9P5YccmpPDNKaas0jnJr7Lour7GxVrggGjzd3t12l7Fhi3LKxQ0g==;dCrjku+TbB3WXRxanflZvw=="
 ---

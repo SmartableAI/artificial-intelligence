@@ -29,48 +29,42 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence (AI) in manufacturing Market Analysis By Growth, Emerging Trends and Future Opportunities"
-    excerpt: "Artificial intelligence (AI) in manufacturing Market Size, Demand-sales, Suppliers By Key Applications Detailed Analysis and Growth Aspects on Manufacturing Landscapes and Regional Analysis \"Market Overview: Global Artificial Intelligence in Manufacturing Market is valued approximately USD 1 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 57."
-    publishedDateTime: 2021-01-29T13:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-analysis-by-growth-emerging-trends-and-future-opportunities-2021-01-29"
+  - title: "Natural Language Processing (NLP) Market Size Estimated to Reach USD 47,147 Million By 2027, According to Facts & Factors"
+    excerpt: "\"According to the research study, the global Natural Language Processing (NLP) Market was estimated at USD 12,748 Million in 2018 and is expected to reach USD 47,147 Million by 2027. The global Natural Language Processing (NLP) Market is expected to grow at a compound annual growth rate (CAGR) of 15."
+    publishedDateTime: 2021-02-01T16:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-size-estimated-to-reach-usd-47147-million-by-2027-according-to-facts-factors-2021-02-01"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 63
+    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Consumer Robotics Market Size, Comprehensive Analysis, Development Strategy, Opportunities, Future Trends and Industry Forecast 2023"
-    excerpt: "Market Research Future published a research report on \"Consumer Robotics Market Research Report – Global Forecast To 2023\""
-    publishedDateTime: 2021-02-01T16:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/consumer-robotics-market-size-comprehensive-analysis-development-strategy-opportunities-future-trends-and-industry-forecast-2023-2021-02-01"
+  - title: "Natural Language Processing (NLP) Market Size Estimated to Reach USD 47,147 Million By 2027, According to Facts & Factors"
+    excerpt: "Facts and Factors have published a new research report titled \"Natural Language Processing (NLP) Market Size &"
+    publishedDateTime: 2021-02-01T07:49:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/02/g19413090/natural-language-processing-nlp-market-size-estimated-to-reach-usd-47-147-million-by-2027-accordin"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19413090"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19413090"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Autonomous Cars Market | Worldwide Industry Share, Size, Gross Margin, Trend, Future Demand, Analysis by Top Leading Player and Forecast Till 2027"
-    excerpt: "Autonomous Cars Market is set to grow exponentially owing to the increasing development of the ride-hailing technology. Hence, numerous industry giants are investing hefty amounts of money in the field of driverless ride-sharing."
-    publishedDateTime: 2021-02-01T15:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/autonomous-cars-market-worldwide-industry-share-size-gross-margin-trend-future-demand-analysis-by-top-leading-player-and-forecast-till-2027-2021-02-01"
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 29
+  - title: "Market Size of AI in Agriculture is Projected to Reach USD 2,400 Million by 2026, According to Facts & Factors"
+    excerpt: "Facts and Factors have published a new research report titled \"AI in Agriculture Market By Technology (Machine"
+    publishedDateTime: 2021-02-02T12:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/02/g19437667/market-size-of-ai-in-agriculture-is-projected-to-reach-usd-2-400-million-by-2026-according-to-fact"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19437667"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19437667"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 16
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 19
 
 secured: "vSIcuyW6AfetFYx/mSyV2vgBJXaa1rzYr7OkoAQokXZv6OaOPJ0YJNhRek5VQOF75oe68PTPOdAZTPJn4RyaqFy/gWDEZXOyp4vPaq74Kv1Pm2pVKc+ccHsHzCdPd5P77KelMZbuk4l7gsgr9CZ//MFjFgY4s4BDthDgvZNAHa2j3rmbkTlUm1g51985Po1P6CVJV71D//33Fwneu5BXY/ODN+2JBbr4SsBlsmsJEzlcP7P5HIjyut5ADDNHWxvTFLa1G7Euoxl3J+mrkJT0FTBvp+AJHcbXnxu3uALijNy/r8Eu+eOrzX+8Wqn9cLOQABOQe53Bi6SgZV6I38JSuDUWXTqXcjiavPyU0S0YGY4=;gktllnp45qBkh4+bO+sm+g=="
 ---

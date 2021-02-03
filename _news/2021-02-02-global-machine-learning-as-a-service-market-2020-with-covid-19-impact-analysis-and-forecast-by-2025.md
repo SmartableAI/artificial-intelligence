@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/global-machine-learning-
 webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-as-a-service-market-2020-with-covid-19-impact-analysis-and-forecast-by-2025-2021-02-01"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: MarketWatch
@@ -43,15 +43,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Global Iris Recognition Market Research 2020-2024 | Market Impact Analysis due to COVID-19 Spread | Technavio"
-    excerpt: "Technavio has announced its latest market research report titled Global Iris Recognition Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--The iris recognition market is poised to grow by USD 2."
-    publishedDateTime: 2021-01-29T13:09:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210129005302/en/Global-Iris-Recognition-Market-Research-2020-2024-Market-Impact-Analysis-due-to-COVID-19-Spread-Technavio"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "v/1tSchinrxNiXPUpLjkHcvCyqMKqeNf9M+dmItzH85YEd4JmQwOX6ldXK8fl/LeYNgK14klkpQJcpKHGp3FSQmqvR1yVQl3gD0v4M+Lo1vz2C3ryiMZ1dgYCJCFbpqZfWs7CYLo4dznfMtDGsAx/nyW2YkMadKYu+jqCGAUeqNxGMJkMoZEzplXF8xKo15G7z4o+KpENzKTQ7k+0H/sTZH/uUoLxn4YrjlM42Av7wF7GoG9bWOsrL3LuMsfTduJnN6YJ4S/yVa5D520az4a5C3zYnUe0iUzXK9bBCiTGhL3G3V3Y0UiuUPxP7eXlhw1vjVxHJPh74a6kz/pIB4WuXOlV7vHS0BTqTllphItlA0=;Oc9Yss7XD9ylaYY5c1mXZA=="
 ---

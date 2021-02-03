@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2021-02-near-infrared-imaging-machine
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-02-near-infrared-imaging-machine-hidden-tumors.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Medical Xpress
@@ -36,6 +36,17 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 43
+  - title: "New technology uses near-infrared imaging and machine learning to find hidden tumors"
+    excerpt: "Tumors can be damaging to surrounding blood vessels and tissues even if they're benign. If they're malignant, they're aggressive and sneaky, and often irrevocably damaging. In the latter case, early detection is key to treatment and recovery."
+    publishedDateTime: 2021-02-03T05:15:00Z
+    webUrl: "https://www.news-medical.net/news/20210203/New-technology-uses-near-infrared-imaging-and-machine-learning-to-find-hidden-tumors.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210203/New-technology-uses-near-infrared-imaging-and-machine-learning-to-find-hidden-tumors.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210203/New-technology-uses-near-infrared-imaging-and-machine-learning-to-find-hidden-tumors.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 32
 
 secured: "xF3NuohsWmEp6KNWx3suKy2QuH8UMelzX864TH1p6F4ZP0uCLbISkbEs5rPjGloSuP+bNfPcoRcxQs6wgdpRkWiJ+Ayle/rQDMjnmqlf/XEYyTOoDcV34dVOVQWV+TZ9pfY9YVtCwxXpfwseA2V2d+6hzLYKE05zP0yK2WpH0Di+1PPb3aGxp3ciLMohwDsfdwCA8i7CZxaWHKT6rTcyjBOl9lzml44qONEAzyL6OaCAZGms9brHAW3iT7RnEbj7+F0lILHoS2Z4OGVncv/05GO39o6jeNB+CEOsei1jDwR9wyHCjOiYWbsB18TnnhuThtUynTTHeP2OEHy/1KUUpKu94wSpfczxQfDilgYKsLGib4MpSiMTL7yWfF3lIpvce8X4dgQ583ruFZQY32+L7bbNO18H/dYjE/YRcUHD4UudWhrW5QalBRAhRF/Q0XuaRK5NnW1jkUewrSzV2huWcqWad/Kj1eab5w3mE3NFkKgfHFs8Uem+3iFi/F4x/XTEn88ckbz7/YpHJnvhYNEdFQ==;5kRsIm0JAPDi6QoJ77NNBg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1101529486/Enzolytics-Announces-The-Discovery-O
 webUrl: "https://menafn.com/1101529486/Enzolytics-Announces-The-Discovery-Of-Seven-Newly-Identified-Conserved-Target-Sites-On-The-HIV-Virus"
 type: article
 quality: 9
-heat: -1
+heat: 9
 published: false
 
 provider:
@@ -26,19 +26,14 @@ images:
 
 related:
   - title: "Enzolytics Announces The Discovery Of Seven Newly Identified Conserved Target Sites On The HIV Virus"
-    excerpt: "Company begins process of identifying conserved/immutable target sites on SARS-CoV-2 (the CoronaVirus) and other developments COLLEGE STATION, TX / ACCESSWIRE / February 1, 2021 / Enzolytics, Inc. (OTC PINK:ENZC) (the “Company”) today announced it has identified seven additional conserved,"
-    publishedDateTime: 2021-02-01T14:21:00Z
-    webUrl: "https://apnews.com/press-release/accesswire/science-business-technology-products-and-services-eastern-europe-ac99d227eeda9b45325f5500fceee67c"
+    excerpt: "(OTC PINK:ENZC) (the \"Company\") today announced it has identified seven additional conserved, expectedly immutable sites on the HIV virus against which it plans to produce targeted anti-HIV monoclonal antibodies."
+    publishedDateTime: 2021-02-01T08:00:00Z
+    webUrl: "https://www.morningstar.com/news/accesswire/626941msn/enzolytics-announces-the-discovery-of-seven-newly-identified-conserved-target-sites-on-the-hiv-virus"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 9
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 0
 
 secured: "T9f2FCGoN7Ku49C3GAFsbL6cnNwc6Vs+M72jH3caWJJCWJEOKrTdFbXPPMJr6MSba7I9elg8T48vGvIVZEBYXJfLEieO2o5Vkr8aD6Tapvz2Q8QEDY/qGGl+wihxSonkwls54PyFgZjLQQlQYPhj8BJNgqCuSmBkb+gn+8su/5RcGXAHl7cxmkmzvMnH6UssjXv6IaaM9b9CXDaNv7+aPqHZkdPDBNU5yxoOzyAB+8ZHj4FNZY1vO4gJUn4Yp5tF3nTG6qGXnH3GM32O7zrMrmuhm/DYAwF7KWK/IUMUS6CnE750c0VKr7j3l6VgOJSpEDAT0lvrnWyiSykr+83PRpMb87jbXmfNEMTt21NUYx4=;DF0DFJSznUQ9eaxYKx3jsw=="
 ---

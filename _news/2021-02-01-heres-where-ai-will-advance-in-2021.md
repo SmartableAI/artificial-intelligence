@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/01/31/heres-where-ai-will-advance-in-20
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/31/heres-where-ai-will-advance-in-2021/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -42,6 +42,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 69
+  - title: "ADVANCE.AI Launches 'Advance Intelligence Group' Brand"
+    excerpt: "ADVANCE.AI, a homegrown AI and big data company in Asia helping to solve digital transformation, fraud prevention, and process automation for enterprise clients, is today formally announcing its corporate parent brand Advance Intelligence Group."
+    publishedDateTime: 2021-02-03T06:11:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/advance-ai-launches-advance-intelligence-group-brand-1030036725"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/advance-ai-launches-advance-intelligence-group-brand-1030036725"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/advance-ai-launches-advance-intelligence-group-brand-1030036725"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
   - title: "Why Future Advances In AI Need A New Architecture"
     excerpt: "Businesses will need to adopt AI technologies not just because they can, but because they must - AI is the technology that will help businesses to be"
     publishedDateTime: 2021-02-02T22:22:00Z

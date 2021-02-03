@@ -1,28 +1,22 @@
 ---
 category: news
-title: "SAS Viya delivers innovation and analytics for all"
-excerpt: "Analytics leader SAS continues to innovate by making it easier to access its powerful, cloud-native SAS® Viya® platform. Recent"
-publishedDateTime: 2021-02-02T14:49:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/sas-viya-delivers-innovation-and-analytics-for-all-301219567.html"
-webUrl: "https://www.prnewswire.com/news-releases/sas-viya-delivers-innovation-and-analytics-for-all-301219567.html"
+title: "SAS Viya Delivers Innovation and Analytics for All"
+excerpt: "Analytics leader SAS continues to innovate by making it easier to access its powerful, cloud-native SAS® Viya® platform. Recent product developments help customers more efficiently democratize analytics throughout their organizations while seamlessly managing analytic workloads and building SAS into a variety of applications."
+publishedDateTime: 2021-02-03T06:09:00Z
+originalUrl: "https://www.businesswireindia.com/sas-viya-delivers-innovation-and-analytics-for-all-71363.html"
+webUrl: "https://www.businesswireindia.com/sas-viya-delivers-innovation-and-analytics-for-all-71363.html"
 type: article
-quality: 24
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Wire
+  domain: businesswireindia.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/1431107/doctor_with_tablet_SAS_Viya.jpg?p=facebook"
-    width: 800
-    height: 418
-    isCached: true
 
 related:
   - title: "Budget 2021: AI, ML and analytics to ease compliance burden and check tax evasion"
@@ -73,16 +67,21 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "SAS Viya Delivers Innovation and Analytics for All"
-    excerpt: "Analytics leader SAS continues to innovate by making it easier to access its powerful, cloud-native SAS® Viya® platform. Recent product developments help customers more efficiently democratize analytics throughout their organizations while seamlessly managing analytic workloads and building SAS into a variety of applications."
-    publishedDateTime: 2021-02-03T06:09:00Z
-    webUrl: "https://www.businesswireindia.com/sas-viya-delivers-innovation-and-analytics-for-all-71363.html"
+  - title: "SAS Viya delivers innovation and analytics for all"
+    excerpt: "Analytics leader SAS continues to innovate by making it easier to access its powerful, cloud-native SAS® Viya® platform. Recent"
+    publishedDateTime: 2021-02-02T14:49:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/sas-viya-delivers-innovation-and-analytics-for-all-301219567.html"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswireindia.com
-    quality: 4
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 24
+    images:
+      - url: "https://mma.prnewswire.com/media/1431107/doctor_with_tablet_SAS_Viya.jpg?p=facebook"
+        width: 800
+        height: 418
+        isCached: true
 
-secured: "tuCHORJntJfP8PsptVIdJX76+bIM42V7IDvj4XuGSw8B3xuHffvIhaDfSMYMQOc3xBAkawVxyMGwhIlpyKIYMz2qQwtqDZUfYcge18dg0vj8bjLKOQr9JsH9ywcE7TwEWXfbncwu7ouHZXKiieVhATbSi4Nme/gARAhy0JAylpVowVnNmQiFngNDvpAIm9s1n4IkFzNIrSwnjZ2HNPprid6tpY4pIo5ztnTJROWdX54caGkCbAmMdC/IFhrdKOQsJO7hx3D3K/M889ZlcRKoq5FTC4QSxBMUcxYmMIfWHI264wGLU/PXEwju5X5a2PGjfrycY3P0+16G3stoke4Fyht+DB+FfkiguRjOTbdwf8E=;NBGJS4KeX+WTC92gmaFsSw=="
+secured: "fqGY9xmM1lnGARgQkfFWd/hCYRGM3/+KXn3tG+iJIOxBx+Pn4iYuXRB+JaJb/XNEuwvKBNls/XMnmRLiD6Fi2CixOV8yLHpsYl5/LAZsP87kkKUBE+B9Zji49jMVvXfO5WW8GsRP8PqqbJb2H5vjUhq40xUbs0/J0aRaQxfdGJqH9JwaZ3ExwML1A+qOLOnB4Sv+AMVF3CF4eWrj2Zw7Zw+BieAlho/yvWDGxn7D9qA/Dm8M/+D59ppe0D6E/Jm/G4XUFKAXLaRTwMxImp51sCNUIMREih51Z5SsIUD5Ym1gPugTfz07DbKHr+nclS0yCA4cgCv+Gx/iZHJoVAcLq4idMiAVV1b102Z1m12n+Eo=;BxpUXvESPv6ighbGWzHj9Q=="
 ---
 

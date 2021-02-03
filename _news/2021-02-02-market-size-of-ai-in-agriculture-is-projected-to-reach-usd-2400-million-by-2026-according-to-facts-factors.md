@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "3d Facial Recognition Market According to latest research on focusing on Leading Manufacturers"
+    excerpt: "Facial Recognition Market Report Contain Size Analysis, Competitive Landscape, Revenue Status, Future Opportunities, Regional Analysis (Latin America, North America, Asia Specific, Europe, Middle East ) and Demand By Top Key Players \"Market Overview: Global 3D Facial Recognition Market is valued approximately at USD XXX billion in 2018 and is anticipated to grow with a healthy growth rate of more than XX % over the forecast period 2019-2026."
+    publishedDateTime: 2021-02-01T13:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-market-according-to-latest-research-on-focusing-on-leading-manufacturers-2021-02-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural Language Processing (NLP) Market Size Estimated to Reach USD 47,147 Million By 2027, According to Facts & Factors"
     excerpt: "Facts and Factors have published a new research report titled \"Natural Language Processing (NLP) Market Size &"
     publishedDateTime: 2021-02-01T07:49:00Z

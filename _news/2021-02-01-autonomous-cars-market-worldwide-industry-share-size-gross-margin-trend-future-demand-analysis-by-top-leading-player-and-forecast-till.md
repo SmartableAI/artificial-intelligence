@@ -29,34 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence (AI) in manufacturing Market Analysis By Growth, Emerging Trends and Future Opportunities"
-    excerpt: "Artificial intelligence (AI) in manufacturing Market Size, Demand-sales, Suppliers By Key Applications Detailed Analysis and Growth Aspects on Manufacturing Landscapes and Regional Analysis \"Market Overview: Global Artificial Intelligence in Manufacturing Market is valued approximately USD 1 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 57."
-    publishedDateTime: 2021-01-29T13:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-analysis-by-growth-emerging-trends-and-future-opportunities-2021-01-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "3d Facial Recognition Market According to latest research on focusing on Leading Manufacturers"
-    excerpt: "Facial Recognition Market Report Contain Size Analysis, Competitive Landscape, Revenue Status, Future Opportunities, Regional Analysis (Latin America, North America, Asia Specific, Europe, Middle East ) and Demand By Top Key Players \"Market Overview: Global 3D Facial Recognition Market is valued approximately at USD XXX billion in 2018 and is anticipated to grow with a healthy growth rate of more than XX % over the forecast period 2019-2026."
-    publishedDateTime: 2021-02-01T13:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-market-according-to-latest-research-on-focusing-on-leading-manufacturers-2021-02-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Consumer Robotics Market Size, Comprehensive Analysis, Development Strategy, Opportunities, Future Trends and Industry Forecast 2023"
     excerpt: "Market Research Future published a research report on \"Consumer Robotics Market Research Report – Global Forecast To 2023\""
     publishedDateTime: 2021-02-01T16:11:00Z

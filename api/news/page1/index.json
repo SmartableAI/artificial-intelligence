@@ -263,6 +263,49 @@
       ]
     },
     {
+      "path": "_news/2021-02-03-near-infrared-imaging-and-machine-learning-can-identify-hidden-tumors.md",
+      "title": "Near-infrared imaging and machine learning can identify hidden tumors",
+      "excerpt": "Tumors can be damaging to surrounding blood vessels and tissues even if they're benign. If they're malignant, they're aggressive and sneaky, and often irrevocably damaging. In the latter case, early detection is key to treatment and recovery.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-02-near-infrared-imaging-machine-hidden-tumors.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-02-near-infrared-imaging-machine-hidden-tumors.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/nearinfrared.jpg",
+          "width": 2075,
+          "height": 1638,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-02-near-infrared-imaging-machine-hidden-tumors.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-02-near-infrared-imaging-machine-hidden-tumors.amp",
+      "publishedDateTime": "2021-02-02T11:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-03-lilt-included-in-gartners-market-guide-for-ai-enabled-translation-services.md",
       "title": "Lilt Included in Gartner's Market Guide for AI-Enabled Translation Services",
       "excerpt": "Lilt, a leading provider of human-powered, AI-enabled translation services and technology, today announced that it has been identified as a Representative Vendor in the Gartner \"Market Guide for AI-Enabled Translation Services\" report.",
@@ -866,15 +909,15 @@
       "title": "Ai Weiwei's Covid-19 Documentary",
       "excerpt": "When his family found him he was dead hanging on a tree in a forest. This is not just an interview case but a tragedy.” Dissident artist Ai Weiwei @aiww’s #Covid19 documentary details China’s handling of the pandemic,",
       "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/videos/2021-02-02/ai-weiwei-s-covid-19-documentary-video",
-      "originalUrl": "https://www.bloomberg.com/news/videos/2021-02-02/ai-weiwei-s-covid-19-documentary-video",
+      "webUrl": "https://www.bloomberg.com/news/videos/2021-02-03/ai-weiwei-s-covid-19-documentary-video",
+      "originalUrl": "https://www.bloomberg.com/news/videos/2021-02-03/ai-weiwei-s-covid-19-documentary-video",
       "featuredContent": null,
       "highlight": null,
       "heat": 77,
       "tags": null,
       "images": [
         {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLCUpuNWE8Jc/v5/-1x-1.jpg",
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1C7VDWV8asA/v5/-1x-1.jpg",
           "width": 1920,
           "height": 1080,
           "title": null,
@@ -1112,7 +1155,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-share-growth-insight-size-competitive-analysis-regional-and-global-forecast-to-2027-2021-02-02",
       "featuredContent": null,
       "highlight": null,
-      "heat": 214,
+      "heat": 194,
       "tags": null,
       "images": [
         {
@@ -1207,58 +1250,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-canon-powershot-pick-robot-uses-ai-to-automatically-take-photos.md",
-      "title": "Canon PowerShot PICK robot uses AI to automatically take photos",
-      "excerpt": "AI and machine learning can be found in almost every consumer electronics product these days, whether directly or indirectly. Often, the goal is to make offload some of the decision-making duties",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/canon-powershot-pick-robot-uses-ai-to-automatically-take-photos-02657664/",
-      "originalUrl": "https://www.slashgear.com/canon-powershot-pick-robot-uses-ai-to-automatically-take-photos-02657664/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/02/detail_14551_1611879493.jpg",
-          "width": 1280,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/canon-powershot-pick-robot-uses-ai-to-automatically-take-photos-02657664/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/canon-powershot-pick-robot-uses-ai-to-automatically-take-photos-02657664/amp/",
-      "publishedDateTime": "2021-02-01T22:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

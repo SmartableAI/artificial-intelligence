@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Enzolytics Announces The Discovery Of Seven Newly Identified Conserved Target Sites On The HIV Virus"
-excerpt: "Company begins process of identifying conserved/immutable target sites on SARS-CoV-2 (the CoronaVirus) and other developments COLLEGE STATION, TX / ACCESSWIRE / February 1, 2021 / Enzolytics, Inc. (OTC PINK:ENZC) (the “Company”) today announced it has identified seven additional conserved,"
-publishedDateTime: 2021-02-01T14:21:00Z
-originalUrl: "https://apnews.com/press-release/accesswire/science-business-technology-products-and-services-eastern-europe-ac99d227eeda9b45325f5500fceee67c"
-webUrl: "https://apnews.com/press-release/accesswire/science-business-technology-products-and-services-eastern-europe-ac99d227eeda9b45325f5500fceee67c"
+excerpt: "(OTC PINK:ENZC) (the \"Company\") today announced it has identified seven additional conserved, expectedly immutable sites on the HIV virus against which it plans to produce targeted anti-HIV monoclonal antibodies."
+publishedDateTime: 2021-02-01T08:00:00Z
+originalUrl: "https://www.morningstar.com/news/accesswire/626941msn/enzolytics-announces-the-discovery-of-seven-newly-identified-conserved-target-sites-on-the-hiv-virus"
+webUrl: "https://www.morningstar.com/news/accesswire/626941msn/enzolytics-announces-the-discovery-of-seven-newly-identified-conserved-target-sites-on-the-hiv-virus"
 type: article
-quality: 9
-heat: 9
+quality: 0
+heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - AI in Healthcare
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Enzolytics Announces The Discovery Of Seven Newly Identified Conserved Target Sites On The HIV Virus"
@@ -40,6 +34,6 @@ related:
         height: 250
         isCached: true
 
-secured: "lyrb0k5TeqgeigeUk0n+1bDygyYc/bxTAxaNXtcVZE/ASLB+Cme9c24MLetlS1n/pFBophht4raUPfMv1V6EMM8J2aF+4w0kaum5PS7Dq8hpylvrsD0NiN0+FvssyWyFOsFrExC8jS81dJHB5j+byAbvSGJ2AIyn7KsX5an1gJlOXMliDQ/GlrEI0jE9RnXPZ/fV9g6S+AYmfgAMYr3oQMi7mLVR4fSmXBEhx3b2Q/7E68tldTE9wDsDOvDqY0VeNrQo0XczBI05NlNJgZ3a2Y+D37ArHOtLAaUp40FUanmrOjFVe4n88aJIRtkUU+AazDt3v/kJUKpvRETfLdROrIXMJRf2LAxrekf24edWskQ=;hfXxe2lMpUS5B/IKDtxRrg=="
+secured: "1hh648AiXYqDe7nVVbXsY2+GjrDvBhthjgnyQQtdLz3YsqlMJB+Jf7mVVJ5jDY2OlJEWmNLK028TxADSCV9Cm+j7IUucfL6O8Feaj2BOizU997aC4elmw3gOgCU/x0FS6by9Vy560zmrvs9vlB5dAC4+wP7aOxEKl1YldjfazBrYEm6spr/rHX8+TDecJGJ98F6nmjB2g2MrW9H3xZx0XxHSqyHcljVEN+KxUw58017KUp3FRV3mXXWsmxK7mByOVtFwCBkEvOUmih0PlXzK0kVjMcz9p89MUDJtHk14AFOyGP2ibaDBGUxW+NT+OeFZj0oKb2kzoo/c6jljK1FdlVHRLjuOaf1RxLvVlqYDhzE=;rcfXezD9AYrIhOjW52C1og=="
 ---
 

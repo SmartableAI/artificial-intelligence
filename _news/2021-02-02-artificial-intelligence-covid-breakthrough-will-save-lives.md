@@ -28,14 +28,14 @@ related:
   - title: "Ai Weiwei's Covid-19 Documentary"
     excerpt: "When his family found him he was dead hanging on a tree in a forest. This is not just an interview case but a tragedy.” Dissident artist Ai Weiwei @aiww’s #Covid19 documentary details China’s handling of the pandemic,"
     publishedDateTime: 2021-02-02T13:20:00Z
-    webUrl: "https://www.bloomberg.com/news/videos/2021-02-02/ai-weiwei-s-covid-19-documentary-video"
+    webUrl: "https://www.bloomberg.com/news/videos/2021-02-03/ai-weiwei-s-covid-19-documentary-video"
     type: article
     provider:
       name: Bloomberg
       domain: bloomberg.com
     quality: 67
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLCUpuNWE8Jc/v5/-1x-1.jpg"
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1C7VDWV8asA/v5/-1x-1.jpg"
         width: 1920
         height: 1080
         isCached: true

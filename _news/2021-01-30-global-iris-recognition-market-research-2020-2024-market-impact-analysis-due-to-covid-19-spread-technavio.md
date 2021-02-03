@@ -40,15 +40,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Iris Recognition Market Research 2020-2024 | Market Impact Analysis due to COVID-19 Spread | Technavio"
-    excerpt: "Technavio has announced its latest market research report titled Global Iris Recognition Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--The iris recognition market is poised to grow by USD 2."
-    publishedDateTime: 2021-01-29T13:09:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210129005302/en/Global-Iris-Recognition-Market-Research-2020-2024-Market-Impact-Analysis-due-to-COVID-19-Spread-Technavio"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "aJ8OGobUnHMTwXHXnR9vcT9kZ783tSEDCfC3dt/51hpB5bqqsYdFX3fcR4tKFCoDnT9rmyM4ApvSwWZ9hokCmuQl+9BGqSVMnFeyUlsLt1ibxP5VGoTOPemavqY2ZRzbb2Cbqt0m97GRIdp0MC8WubBrGAbk8vKdgKxgJmrJcwVsMwLhsmJOEE+0XHyJIOW+Zb2Wch91gzSlVNzE3otOLJxATZQ6/BpIrs3ui4tGMyOkxPc7EI6YleTAruGhBRdqXwZQeqbeROtXsZMApGeupQOm3WX7gY3ekSNAVn2NexyMrkCXqjuRM75N/NGOG4zxSWPMiJDgAbGPjG5mp/TA0utAHEu9r4ugdBMWiPaW6Y8=;Y1arsqLMWzrZnvqNWjUvaQ=="
 ---
