@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/02/03/scientists-invented-an-ai-t
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/03/scientists-invented-an-ai-to-detect-racist-people/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -46,7 +46,23 @@ related:
         width: 615
         height: 409
         isCached: true
+  - title: "New AI system uses radio signals to detect a person's emotions"
+    excerpt: "Scientists have developed a new artificial intelligence system that uses radio wave signals and a deep-learning neural network to remotely detect a subject's emotions."
+    publishedDateTime: 2021-02-03T22:38:00Z
+    webUrl: "https://www.upi.com/Science_News/2021/02/03/New-AI-system-uses-radio-signals-to-detect-a-persons-emotions/1251612379914/"
+    ampWebUrl: "https://www.upi.com/amp/Science_News/2021/02/03/New-AI-system-uses-radio-signals-to-detect-a-persons-emotions/1251612379914/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2021/02/03/New-AI-system-uses-radio-signals-to-detect-a-persons-emotions/1251612379914/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 57
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi_com/1251612379914/2021/1/28dbe164e23e3fd494bb339aff55d2ee/v1.5/New-AI-system-uses-radio-signals-to-detect-a-persons-emotions.jpg"
+        width: 800
+        height: 533
+        isCached: true
 
-secured: "v3it4Hnvna5rv9r8KqAer/FTbYWnnMrh8/CAqOSHEHO5kknyaH5RG/kLoKwPVWoYTuXXClMdwd4Z2WKqM/vuxqj8Jrk/36IneVzhWY74sbeM4IVS6EVdIipuQ2QNFf8FwzAE/DHCUqlP1Gd3OI4P+qQTzCOTXrmTKbJX9fi8p1LTk7IrQRQ5UG9iU9qon7VzaDsTfsHocaph4COFXfwzofHvVCjb4U+uAQSHBa15Hw0HsyuYADJp4+6X8vN5uIFWIB4mOVoAc+bRNkhoUTmRORxEBjIWtFIp3GBpfmXq3bdGoQ2z3kxWJ4gTuC6zdhj2eZRE+hbkFcyAvyU8XWROl3qTMTgWupp9SjLnOY9Iu5s=;CC1LJ8H9GGZg14Cuh9YZsQ=="
+secured: "ECh0/yrigojfqz/s+loDHTTem6ObjSnbIC/Lbgm6hgPxHIVrAEHoNVRSFuxWh6lgOQ23TKau/lJCr0IvECRUTxe+1Mwx5VqXZumiHdVBv3MHrQQrHMswjwOZbFBYB/77OnRqPl16FaVFWLMNkEWJBaCQOYJ+5YSvoBIJswZpshfk3Auq7b63MMWjbPn1TLkelLWJPlPU0SpKFVCL/CZWE8tGsz5ZuIdISZWNz0vIj6qG4yOp5UHITlfsx5gdOZsHgD7eb+E0e8tI3jaGrTjhTE2rK9ewqcR6Ox4MbQHCas8PPROJk+sHLnSNWLwu63bLayFOEmOUUBxKcsj4tW8IFj50aItBiaPl6ucQoc5mxQyMoUz9SojNdzdo//Rw2TpnjHDsHATBjFy1nbn4MREponLfvbMrT98kx6C9Ic0/a5AJQz+tXeEZ5QJg8UXR47AmP+T3pF6RTF00NgdxFUc4fR5Oc9cMJ4QFJBDVu4TZKsCsQangHeCpKnoGxyPTjMgQ4XunM8DY9lZUVffWQ/eWJA==;gHIRER6mpCnXO1oaY3iV6A=="
 ---
 

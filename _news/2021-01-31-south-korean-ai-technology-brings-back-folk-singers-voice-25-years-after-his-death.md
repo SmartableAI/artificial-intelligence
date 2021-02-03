@@ -41,22 +41,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "South Korean AI technology resurrects dead singer's voice"
-    excerpt: "South Korean folk rock singer Kim Kwang-seok has been dead for nearly 25 years, but his fans will be able to hear him perform a new song cover on Friday thanks to artificial intelligence (AI) technology used to recreate his voice."
-    publishedDateTime: 2021-01-30T06:43:00Z
-    webUrl: "https://tribune.com.pk/story/2281928/south-korean-ai-technology-resurrects-dead-singers-voice"
-    ampWebUrl: "https://tribune.com.pk/story/2281928/south-korean-ai-technology-resurrects-dead-singers-voice?amp=1"
-    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2281928/south-korean-ai-technology-resurrects-dead-singers-voice?amp=1"
-    type: article
-    provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
-    quality: 59
-    images:
-      - url: " https://i.tribune.com.pk/media/images/kim-kwang-seok-hero1611985593-0/kim-kwang-seok-hero1611985593-0.jpg  "
-        width: 720
-        height: 432
-        isCached: true
 
 secured: "qMUzxXxL1OLYZ/vvCfvDvjKwoe2BGGUFVqkYt8Yxv4iv0zaGzZQIXt5WG1P1dQVMpLbV6PuR8JmTxdg0lMGf2Ie+ZUhOUYr33oqaJmQjY6nlJCe2CNFk6h6vgg3K0JDep96GBPIfAnmNlh+/nMYEgOgyM7CFJqXbOmybwWGNTirmGtJ6H7yWTTmu4rAUea5tfNSu7zB3URUWnSedxySHPbvWfU4DC3e6gqsCI3Nh1iSQc/gpjrPaoqW8wN69TP59qcJQo4cg514TwmzuzowhvfE6EOpI6sYW+zXZiVbfl/u+yiqLQfNH23cg8B2N1Kr0Zvhn/kMydwVci5k/dCuzqWn3rxRLX+LtteEpVePAnGE=;Ts6EIn6vocXO2kZnyg+xjg=="
 ---

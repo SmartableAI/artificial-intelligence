@@ -69,6 +69,20 @@ related:
         width: 1000
         height: 750
         isCached: true
+  - title: "Facial Recognition Software Has Been Used by 48 Agencies in Canada"
+    excerpt: "Controversial facial recognition firm Clearview AI had at least 48 accounts in agencies across the country, most of them police forces, a press release by federal and provincial privacy commissioners said today."
+    publishedDateTime: 2021-02-03T21:40:00Z
+    webUrl: "https://thetyee.ca/News/2021/02/03/Facial-Recognition-Software-Used-By-48-Agencies-Canada/"
+    type: article
+    provider:
+      name: The Tyee
+      domain: thetyee.ca
+    quality: 39
+    images:
+      - url: "https://thetyee.ca/News/2021/02/03/FederalPrivacyCommissionerDanielTherrien.jpg"
+        width: 1000
+        height: 704
+        isCached: true
   - title: "‘What Clearview does is mass surveillance and it is illegal’: Privacy watchdog slams facial recognition tech used by RCMP and Toronto police"
     excerpt: "A joint investigation by Canadian privacy regulators has concluded that Clearview AI’s controversial technology represented “the mass identification"
     publishedDateTime: 2021-02-03T17:07:00Z

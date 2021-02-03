@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Khoros Advances CX Leadership with Acquisition of AI & Machine Learning Leader Flow.ai"
-    excerpt: "Adding Flow.ai’s state-of-the art technology advances Khoros’ conversational AI and machine learning (ML) capabilities, data science expertise, and reflects the Company’s continued investment in the automation framework that powers Khoros’ industry-leading customer engagement platform."
-    publishedDateTime: 2021-01-30T06:15:00Z
-    webUrl: "https://customerthink.com/khoros-advances-cx-leadership-with-acquisition-of-ai-machine-learning-leader-flow-ai/"
+  - title: "Carecard Launches Artificial Intelligence-Powered Platform to Tackle the $450 Billion Dollar Prescription Market"
+    excerpt: "Carecard launches to make healthcare affordable for everyone by tackling the $450 billion dollar prescription market. Carecard is powered by advanced AI technology, and the Company has secured relationships with major pharmacies nationwide,"
+    publishedDateTime: 2021-02-03T14:36:00Z
+    webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-health-care-costs-medication-4d765d736591a663ef4230894bf2a559"
     type: article
     provider:
-      name: CustomerThink
-      domain: customerthink.com
-    quality: 46
+      name: Associated Press
+      domain: apnews.com
+    quality: 18
     images:
-      - url: "https://customerthink.com/wp-content/uploads/newspaper-154444_1280-pixabay-news.png"
-        width: 1280
-        height: 1280
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "4eknWIxslxgeoMet3iQ8M4YmmyHpDwrOgfPl0qb01wxyT29yACYAyG09t9i12X7Bh3T/up1F9SpJDFH0KlixGgxBSWKhMdaC9wCxz50w+iGkXkqdLRfXcUnLkhveu0QUmnbLbK7+t8n/MohFxo+0FfbjvNUmL7KT1FQhlTgVUso7PcG+lOHiJ5qEsNhF+ZQuHSJdHuZ4Ih/1tiLPf7tuoFqTJAAE3c6i2R2gRiPIaz8dEfFY/ggcCHWY4oBcZKYpI6TO3F/Y69zuhOyLenZs7ry31R5OJYy/pdWhZCFljvUCcqZYVEc7a2CCf3CRhwoKu5cvuvGsWFG5fv0VzU/jQOjhkpnE0Lah84EBOhq13zI=;CpZifFRu4Hv2M02zCbMLDA=="

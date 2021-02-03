@@ -8,7 +8,7 @@ webUrl: "https://venturebeat.com/2021/02/03/microsoft-launches-custom-neural-voi
 ampWebUrl: "https://venturebeat.com/2021/02/03/microsoft-launches-custom-neural-voice-in-limited-access/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/03/microsoft-launches-custom-neural-voice-in-limited-access/amp/"
 type: article
-quality: 89
+quality: 139
 heat: -1
 published: false
 
@@ -150,37 +150,16 @@ related:
         width: 480
         height: 610
         isCached: true
-  - title: "GM, Cruise Partners with Microsoft to Accelerate Self-Driving EV Technology | Work & Wheels"
-    excerpt: "GM, Cruise Partners with Microsoft to Accelerate Self-Driving EV Technology | Work & Wheels General Motors and its self-driving car"
-    publishedDateTime: 2021-01-30T05:44:00Z
-    webUrl: "https://www.compsmag.com/news/technology/gm-cruise-partners-with-microsoft-to-accelerate-self-driving-ev-technology-work-wheels/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/gm-cruise-partners-with-microsoft-to-accelerate-self-driving-ev-technology-work-wheels/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/gm-cruise-partners-with-microsoft-to-accelerate-self-driving-ev-technology-work-wheels/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 51
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/GM-Cruise-Partners-with-Microsoft-to-Accelerate-Self-Driving-EV-Technology.png"
-        width: 900
-        height: 470
-        isCached: true
   - title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
-    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
-    publishedDateTime: 2021-02-03T08:22:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
+    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance"
+    publishedDateTime: 2021-02-02T22:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 46
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Business Wire
+      domain: businesswire.com
+    quality: 26
 
-secured: "Vp42fCmTsOEa/qnScLk4VG50y/NxGWWTW5WIdD/sjoSN9Ni0We5gIzvS57cNFz2JV15DRT72AaFxQooKTTwW1KNK6EFAh+FqrbJYQ3Wv9mckvLKRrLwuw2feCNET9++2rgtAkJr+gzLt70FKYQSK09DyUyefAHGgwPK9CLFXXf2ffBdOXxRfyNwqQWE3nu+5gZiB97vXHVf6e/JOGmIXX2vZZRa7U+aFgRnF9l+d2YXKuvBZHZxF8tnfjspX1SjY2lOWw/FoaxlTtxgR04BIOnckTdp/ATkLAMs/72ezQFXG8xwSdUNE9+nF2ezrA7xHVPKJZWiq15EirKr5/bE784P5exJQ5FnzPZ9OJ6qBT3++UaIHTETFqCLEYkdFhWSSJq4x1X8oQBSh85P9tK86LM8owhFGUTfAUgfg5Z5cCSXO2iRXPt+e88o5u6JkxZdh4wkwOdhSlmc+2Gdx7SOmBYIEobzJyWgRZVgxrLOB0SJvyYYIZ5r9q9PxMmcZWEoMuV/yf6qJ5mbpl4qWOxHVZQ==;Jvsj3mF1MT8qZmasOjP9Fw=="
+secured: "Mbbqh5/N6WJIqGtxNcMerpqvx2IlzJIqfEjKl3q/TrWNjIJv0PDIphIWEeSoKk34NivJtQVBFkjkbBXNhct1tC+6EbtpoxVmnWXg3qDDdwqYUXsIZx+VcRoIGiEzuwluBdHRCZIfDb7lip0qkvZsid5tog9gOn3c+iWsvSBliqw9cn6pMYejY2oBAjSVpmBR93Kbmy+hphR3Qn30qvmwSbEZ1/QzofM47lCc+3ec1L/Kk07g+ua4YMKKEj0Wk2g6xhDB0iVE8dgkMn3Q/lKF/t4FjpiPkqj0dH9n2x/TicIW3txsUuYB/a99HcVo4QXcVhx1k2ZP7uptI+kgR3hmGt4uPo34goS2uGeRoZmpcwTm1isK9BIVfate+dUfQQ1qzfTC2/vvJ6U40ekAXEU3wXG59vz56obXiG4ule9g9DZy1ZaZWJx/rcT7+jfPoZtVPY928udIinEtYgp/REnKI7CgiS9x4qa+M7uCWOdVb77TzcOknNQ/Z3x8C5TVcn8JtFzEnAFSMZFPHRKa0LfXh7p1htB6GS2tkGw0QiAgxto=;y+No29R6fYSjC9W7biORUQ=="
 ---
 

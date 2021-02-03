@@ -2,17 +2,17 @@
 category: news
 title: "Apple creates workaround to facial recognition blocked by face mask"
 excerpt: "This has probably happened at least once to an Apple user who is trying to unlock their iPhone with the device’s camera. The phone just can’t figure out you are you while you’re wearing a face mask. Jumping through the hoops of trying the camera,"
-publishedDateTime: 2021-02-03T19:47:00Z
-originalUrl: "https://www.fox13memphis.com/news/trending/apple-creates-workaround-facial-recognition-blocked-by-face-mask/F7GQKNQQ35C3DCUKS3MJMBR5VQ/"
-webUrl: "https://www.fox13memphis.com/news/trending/apple-creates-workaround-facial-recognition-blocked-by-face-mask/F7GQKNQQ35C3DCUKS3MJMBR5VQ/"
+publishedDateTime: 2021-02-03T18:13:00Z
+originalUrl: "https://www.wpxi.com/news/trending/apple-creates-workaround-facial-recognition-blocked-by-face-mask/F7GQKNQQ35C3DCUKS3MJMBR5VQ/"
+webUrl: "https://www.wpxi.com/news/trending/apple-creates-workaround-facial-recognition-blocked-by-face-mask/F7GQKNQQ35C3DCUKS3MJMBR5VQ/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: FOX13 Memphis
-  domain: fox13memphis.com
+  name: WPXI
+  domain: wpxi.com
 
 topics:
   - Computer Vision
@@ -58,6 +58,6 @@ related:
         height: 628
         isCached: true
 
-secured: "Z6TIasSUnxyiUzHanaip8DSsQiN8uUSnneCazn4yS6nWFoKZ6D+ZMP9L2BnAUNxZ85aioosxcz1RyHAlz2Fcoe4cPHXu6/zl9YIIxQHGEZ0W1yV6x+3KN9UA1qluSNQEvkXpww/7yLj2/winpvCppJf3l5fIj3p8I+1C9AZIko3MQ/gI0Pn08BuxiVGTzSKFwceRG+0PsKn7HEVlLUSfzYwQhenGpyR3OcakpFp5Zkp+2MCZx6B0k1rdRq2ajuFEK6CXEQ+tlRVb3tgYqIaUB4Zgu16oMEkFksixSPHj9jodeM0d73dnkfw70StrI9wBMc1dhkHgE2ZW4n5u0JMNsbFSHdBPbVQltRfDrzDvHPM=;jRxoXsky4emJM27RK+vbwg=="
+secured: "hRMoEuMSTCZqB/Uf7+AjK6rV2WiWXsh6rb0y+OsujHDMhV9ZcCpn5pzyS3s3ap22yuEIlM9WHsUHtqUKBLSCm3LeEhJXnUOMaJTdHu7tMqzBo3weAkxHwwO8RBafRzLOWF7SFLJMnM4U5hvCUb72dfRgMBG1WUvUWigxb3WJQRe9wvnJ06PY+4G8U0Fm72nVoKk3L1421dY0LovQ4Vge71BVmceD80fzvmA4xOgNOlaNELFu3CiJqtp4eEbjvOHXiAPLvSaQJw1cNCYrhMImunLdcfkzk6mSKQnWegTGsCcSbkWYJbYDS/O57OaX439hOVJ4ISHuNBFae50E8oP98SPN9el7VOyr9S+Icc3wznM=;CyFEhEjmaUHnJVPT9Vc+Yg=="
 ---
 

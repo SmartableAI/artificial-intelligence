@@ -84,6 +84,20 @@ related:
       name: Global News
       domain: globalnews.ca
     quality: 50
+  - title: "Facial Recognition Software Has Been Used by 48 Agencies in Canada"
+    excerpt: "Controversial facial recognition firm Clearview AI had at least 48 accounts in agencies across the country, most of them police forces, a press release by federal and provincial privacy commissioners said today."
+    publishedDateTime: 2021-02-03T21:40:00Z
+    webUrl: "https://thetyee.ca/News/2021/02/03/Facial-Recognition-Software-Used-By-48-Agencies-Canada/"
+    type: article
+    provider:
+      name: The Tyee
+      domain: thetyee.ca
+    quality: 39
+    images:
+      - url: "https://thetyee.ca/News/2021/02/03/FederalPrivacyCommissionerDanielTherrien.jpg"
+        width: 1000
+        height: 704
+        isCached: true
 
 secured: "lH63d0DwpDKMuUYdi6ju1T3+qIT8se3/mjohcp+DrrILWEi1ozDL8znNwnjlLhxAvZaxBuHwaivStyUCrUpdi+zsj7m6t4NsAHWOJk7xW1gI4iCiAIzZr8O7C0AGcg5ImeVW4/HblfcKRWTzKFCbLlZ1KyaYSKUoliYGuUGWdO/xGzxRenmChAZlD9iYGx1d2P9RYMHMjvqwRa6o79tJIhzb3Sd+2e68WTinrQoW0iYrbWbvlfEgazMKViUvRMrCu2ZyeA5q0+TpWJ0JVJMPqPCnZBjduqZPcI2QwXVhaD2w0r0WddCAYh+KRQExWj9itLRg4PMeAX4Vi/YrBWTJ78Ht0tOWI687Zs1iHzy7GMQ=;WhtyCrEexcq4SO7W+fahOQ=="
 ---

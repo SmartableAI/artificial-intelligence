@@ -54,7 +54,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 89
+    quality: 139
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all"
         width: 1200
@@ -147,36 +147,15 @@ related:
         width: 480
         height: 610
         isCached: true
-  - title: "GM, Cruise Partners with Microsoft to Accelerate Self-Driving EV Technology | Work & Wheels"
-    excerpt: "GM, Cruise Partners with Microsoft to Accelerate Self-Driving EV Technology | Work & Wheels General Motors and its self-driving car"
-    publishedDateTime: 2021-01-30T05:44:00Z
-    webUrl: "https://www.compsmag.com/news/technology/gm-cruise-partners-with-microsoft-to-accelerate-self-driving-ev-technology-work-wheels/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/gm-cruise-partners-with-microsoft-to-accelerate-self-driving-ev-technology-work-wheels/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/gm-cruise-partners-with-microsoft-to-accelerate-self-driving-ev-technology-work-wheels/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 51
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/GM-Cruise-Partners-with-Microsoft-to-Accelerate-Self-Driving-EV-Technology.png"
-        width: 900
-        height: 470
-        isCached: true
   - title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
-    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
-    publishedDateTime: 2021-02-03T08:22:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
+    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance"
+    publishedDateTime: 2021-02-02T22:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 46
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Business Wire
+      domain: businesswire.com
+    quality: 26
 
 secured: "3QQQHTfalMl6T2jpWqVB6jJFNvOS735PfHrJaIr7qP1IQl9axpe1XEINSJn0tbtJ1B/LJMOVLQmz8q97Z70gq9OFLzQURK9j6YVNXyMP0FSGrhefprI5VQ2uzYdIAL8NOtvw17ORzay7hzwwaTi5xxdTOoQxWzcAjD9AT91et798A4BQ9e7F0mudPaEjcBP//veuDDf5uw2WfS2j7DjpsBYp1MNGiRUlWBuzVr57IGyFrZJreZikMR5c9uURwGmgFXrVZ3dWAxA8oN/VNRcVsaTIBDNDAa3IvJL6MkjNH5iRVJC+1JQqoJOZVPYcaS4c/HEldKDdDZSzbPPWOYYn/WgvWt/MQ6R+EOpXP2EDu3LelV9QAW8qldn5uL8BX4eki0VJi2zM8Wt1cfrAhOzckDMLVjfwUXg7k6vM9cW3jEjNc36t6DtJoeiA4m94RqiQr/8MDz453IIQKa78kfn4+SaCliPUuEFR6pA2cmhMKIw6+nMEZdZXB6R1a9zrinqf3bg6EEOvKMi3LRhBNoGrCQ==;nb6SwvRyschObgkMyes7Zg=="
 ---

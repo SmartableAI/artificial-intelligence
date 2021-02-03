@@ -47,6 +47,22 @@ related:
         width: 4000
         height: 2250
         isCached: true
+  - title: "How Andy Jassy, Amazon’s Next C.E.O., Was a ‘Brain Double’ for Jeff Bezos"
+    excerpt: "Mr. Jassy, who will become Amazon’s chief this summer, has spent more than two decades absorbing lessons from Mr. Bezos."
+    publishedDateTime: 2021-02-03T22:20:00Z
+    webUrl: "https://www.nytimes.com/2021/02/03/technology/andy-jassy-amazon-ceo-jeff-bezos.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/03/technology/andy-jassy-amazon-ceo-jeff-bezos.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/03/technology/andy-jassy-amazon-ceo-jeff-bezos.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 88
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/03/business/03jassy/03jassy-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "After 27 Years, Jeff Bezos Will Step Down As CEO Of Amazon"
     excerpt: "He will be replaced by Andy Jassy, who is currently CEO of Amazon Web Services. Jeff Bezos is stepping down as Amazon CEO, the online internet retailing giant he founded 27 years ago, and will become executive chair focused on “new products and early initiatives,"
     publishedDateTime: 2021-02-03T18:29:00Z
@@ -142,6 +158,22 @@ related:
       - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/jeff-bezos-owner-of-blue-origin-introduces-a-new-lunar-news-photo-1612302458.?crop=1.00xw:0.672xh;0,0.210xh&resize=1200:*"
         width: 1200
         height: 602
+        isCached: true
+  - title: "Who is Andy Jassy, the longtime Amazon executive set to become its new CEO?"
+    excerpt: "The Amazon vet runs its most profitable division. Here's what his appointment tells us about the company's future."
+    publishedDateTime: 2021-02-03T22:22:00Z
+    webUrl: "https://www.cbsnews.com/news/who-is-andy-jassy-amazon-ceo/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/who-is-andy-jassy-amazon-ceo/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/who-is-andy-jassy-amazon-ceo/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 42
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/03/8d479944-d332-4de1-9d61-25c44ed488b0/thumbnail/1200x630g6/3de4be33411da8961307fb8858d5a45e/gettyimages-1129882595.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "AWS CEO Andy Jassy Named New Amazon CEO, Replacing Bezos"
     excerpt: "CEO Andy Jassy – credited as the ‘father’ of cloud computing – will be the new CEO of parent company Amazon.com when founder Jeff Bezos steps down in the third quarter"
