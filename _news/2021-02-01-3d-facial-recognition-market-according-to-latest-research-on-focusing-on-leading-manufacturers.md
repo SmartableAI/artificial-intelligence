@@ -43,6 +43,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Smart Retail Market Size & Growth Analysis Report, 2021-2027"
+    excerpt: "The global smart retail market is expected to grow from 21 6 billion in 2020 to 62 5 billion in 2025 It is growing at a 23 CAGR The key factors driving the growth of this market are the increased"
+    publishedDateTime: 2021-02-02T08:25:00Z
+    webUrl: "https://www.openpr.com/news/2234587/smart-retail-market-size-growth-analysis-report-2021-2027"
+    ampWebUrl: "https://www.openpr.com/amp/2234587/smart-retail-market-size-growth-analysis-report-2021-2027"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2234587/smart-retail-market-size-growth-analysis-report-2021-2027"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 39
   - title: "Natural Language Processing (NLP) Market Size Estimated to Reach USD 47,147 Million By 2027, According to Facts & Factors"
     excerpt: "Facts and Factors have published a new research report titled \"Natural Language Processing (NLP) Market Size &"
     publishedDateTime: 2021-02-01T07:49:00Z

@@ -121,7 +121,21 @@ related:
         width: 800
         height: 420
         isCached: true
+  - title: "What Amazon CEO Jeff Bezos stepping down means for fintech"
+    excerpt: "Jeff Bezos will step down as founder and CEO of Amazon and transition to chairman in 2021, allowing seasoned cloud executive Andy Jassy to take the reins of the $1.6 trillion giant. As detailed in an email to his employees,"
+    publishedDateTime: 2021-02-03T11:31:00Z
+    webUrl: "https://www.finextra.com/the-long-read/115/what-amazon-ceo-jeff-bezos-stepping-down-means-for-fintech"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/oped/115.jpg"
+        width: 800
+        height: 450
+        isCached: true
 
-secured: "3BhsJh1ukIVU9GZXWhXg1pE/nJTypoIa74Y5cymISaWYLuY0Mh9rVmT+0hWT/IDgCzj97k1PjOUf0KalIe3DnWZnlOUw3E2mGxac5SGpAe20cEnblkme+kCxJs+c1s8vJoZRRxTm3zFOs3uitkr/Ao1g0eLodhnkN64Jzni076vYroh3IrWGAhZHsdp2BdITuCqHfZ+J3zHXyengt/nv886NQSAdNvrdZv6VWT0BjSyozCZkEONNMSySovD7br/d+kC2q/niKIWKfOmp3pgyYGu+HGf8zi1TNeVBafrM/FtCFhtqF9qAFn4r53W5gKCri8s3GEJAu3yIPlqFcLQJi8Vns9tYus3JCBo8UY8unfc=;la7JQP5tynu9u596fZFobg=="
+secured: "rk60g5KReiPKXLSrNKBLfeA/P6A92Ca9fdG8DKjDgyK7WZItHsswJID7E/j2m+fIN2LGFP7oHIiqw1bLv7kDwug6PC6EO69auBV4AZXBvWxYXS6rrp4jWFmKIidRDJUIY/9bK/kM2VhDj3/1rCyTZvAfk+1z45PF1ZkXdPckZHX6sC0TgBMGc3yvxS2MK85+ECpZ0CEogWrL+t2eExC5BVnBzkr7dbSfg8dF2QWAbJyEoARJQG7Nxaw4RPO7Hn4+IhN0f/tjWC3ur3/1nnuEq7zpU4IvsMJ2p8LCYceQaGUaJft1DdeMZb5AoGADinnxdOsg5U7++l/s1n1VpYAHdyTqvTzrzOYx77+0/QKXBwHQGSKpXg7gFaK48J/U7wcN2s4pqkGLLPsDmbXzzi8GmRzzJ8pp85ge7D/5f5sz5HxGoSW0PCsK7j6vqarcXjXYBhydnT8PVKldx/n1+jDdT+/I8aMEcym/PHFSR6GsP1xLblH8sSfrcLfHyIivPw5A17pHyJnrQ07rCu5ASEJCkQ==;PXMcFvuuQwak2HaCEEsNYw=="
 ---
 

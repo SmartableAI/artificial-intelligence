@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/01/how-the-responsible-use-of-ai-can
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/01/how-the-responsible-use-of-ai-can-help-create-a-better-health-system/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 598
     isCached: true
+
+related:
+  - title: "How AI Will Reshape Healthcare After The Pandemic"
+    excerpt: "The Covid-19 crisis has affected healthcare workers and the healthcare system in many profound ways. In an article for The New Yorker, Dr. Siddhartha Mukherjee showed that the healthcare industry has failed to provide adequate support and care to its patients and practitioners,"
+    publishedDateTime: 2021-02-03T11:09:00Z
+    webUrl: "https://collegian.csufresno.edu/2021/02/how-ai-will-reshape-healthcare-after-the-pandemic/"
+    type: article
+    provider:
+      name: The Collegian
+      domain: csufresno.edu
+    quality: 54
+    images:
+      - url: "https://collegian.csufresno.edu/wp-content/uploads/2021/02/Depositphotos_271798500_s-20198551.jpg"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "8ZBMHqU26ahTWdcuwCB4UzVN+LEwN9CSgnDYSV/75uC7Kvfe0L24YgcnBVNXtJFDqCRdzX/x6yq1JzoSDInQr7tXNAtM0In/xfrkQ67FoXgS3EoBOemF31aLRxXarKooHEd40Qit2w9tbupVWjfz12jifTOtsCzRLRM8OfoPUVUwI2tHjme32Gz+Jpi31vw+bH2JTd2//zzgkUXXDdZXXDlu2SfnVpjt9FaCyOMygXCrDUNTUkQIoVEWvtc6MVGU6niCe6nF4QkvLlG7ZIvkFlws/TxrADC1WvVTrZKyutXM00skpIAT8ahQ54hF1Daz3YeSM6YV+3UVu9itGhYsoWDxT4JjJqlAywhdCAPBnrUHExP2XpZ9PHNt5F4U0dtmboSlh6UfDSvm8zyzVGc9rNKQUFPBmJsye5RAQPGOjYsOYivC5GjRj+tNeOApYgr26MbBFW8exeexkcXIJhjYECFqzVGDbpp6RxBQQxRCD+y/7XhDemcdHEHw+iNj6z1CB3ar0wq9p83hfdFeSsbo8Q==;N1juxznA4/0L6XeTpmzJgA=="
 ---

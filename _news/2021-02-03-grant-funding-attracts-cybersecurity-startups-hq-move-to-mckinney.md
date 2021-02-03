@@ -7,7 +7,7 @@ originalUrl: "https://www.bizjournals.com/dallas/inno/stories/news/2021/02/02/co
 webUrl: "https://www.bizjournals.com/dallas/inno/stories/news/2021/02/02/contraforce-moves-hq-to-mckinney.html"
 type: article
 quality: 2
-heat: 2
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,19 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Cybersecurity centre for self-driving vehicles heads to University of Windsor"
+    excerpt: "Cybersecurity centre for self-driving vehicles heads to University of Windsor. A new center at the University of Windsor will be the"
+    publishedDateTime: 2021-01-30T02:32:00Z
+    webUrl: "https://www.compsmag.com/news/hacking/cybersecurity-centre-for-self-driving-vehicles-heads-to-university-of-windsor/"
+    ampWebUrl: "https://www.compsmag.com/news/hacking/cybersecurity-centre-for-self-driving-vehicles-heads-to-university-of-windsor/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/hacking/cybersecurity-centre-for-self-driving-vehicles-heads-to-university-of-windsor/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 21
 
 secured: "pCjoYnkehiP6ymVWOH9C9yQwpC7Y4tT5Ns6otac6IdzrOYKlx0Hksi3dgbkSJG8YxHILEcGbO7KR0X3ALZ8V/G0hrMY8RvVII7Zes60eAZDjq4+0tCuo3M5XyzwOa/pRteUtwC2fa56BQFbgqYDaeDwwX3Zh3MYgI7MLzSiTUm2k7ugu9vrtXSSRXsioXQmg47idYpjva9W+TxeSJyI6Gi4NxiZwcvvxWxarpBjaveeNgHAvi0xiJnV0RSHoisNHc3paf79QLZ1Tjhtnta16n062LL30ug78eJWDnRF6jwDgveXPT3xAkDNH01gQCxSowc2yKoVJAoGtt7WZLpAf02Znl/Hql2aYerqceX43NS7KEqp7DBk7f1vnKDNJp0cjeMcBLyghLZfgcCO9+40VC0hZ6OplcH3bSbcq5Z11pX/aqZiCLWxay3hsgLEURdqWGcwlvPqYpC/401sx5EhDgfWR+2woRhkzBgyjBSG/AqKqKoaqAxRgIJOpFToKTxWq7aOA2XIb1LWQoAMQymdA8w==;FTqispcQBCbUvNxFGg/nQQ=="
 ---

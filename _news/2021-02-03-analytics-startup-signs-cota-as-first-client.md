@@ -58,6 +58,20 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Cognitive Analytics Market size Rising Trends and New Technologies Research Forecast to 2026"
+    excerpt: "The Cognitive Analytics market is anticipated to reach over USD 48 billion by 2026 according to a new research published by The marker research report. In 2017, the large enterprises segment dominated the global market,"
+    publishedDateTime: 2021-02-01T10:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-size-rising-trends-and-new-technologies-research-forecast-to-2026-2021-02-01?tesla=y"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in 2021: Current and Future Trends"
     excerpt: "Three top experts in artificial intelligence discuss the key factors driving the growth of this emerging technology."
     publishedDateTime: 2021-01-29T23:47:00Z
@@ -71,6 +85,20 @@ related:
       - url: "https://www.datamation.com/wp-content/uploads/2018/03/pexels-panumas-nikhomkhai-1148820-1024x683-1.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Global Cognitive Analytics Market 2020 Size, Market Share, Key Players, Segmentation Development and Forecast by 2025"
+    excerpt: "Global Cognitive Analytics Market 2020 by Company, Type and Application, Forecast to 2025 is the latest market report rolled out by MarketsandResearch.biz, one of the world’s leading market research firms."
+    publishedDateTime: 2021-02-03T04:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-cognitive-analytics-market-2020-size-market-share-key-players-segmentation-development-and-forecast-by-2025-2021-02-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Viking Analytics and pour-tech AB sign contract to provide AI operators to iron foundries"
     excerpt: "Viking Analytics, a Swedish startup in advanced analytics solution for predictive operations, and pour-tech AB, specialized in"

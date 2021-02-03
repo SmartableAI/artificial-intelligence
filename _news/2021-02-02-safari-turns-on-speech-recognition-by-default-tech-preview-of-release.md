@@ -9,7 +9,7 @@ ampWebUrl: "https://www.compsmag.com/news/technology/safari-turns-on-speech-reco
 cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/safari-turns-on-speech-recognition-by-default-tech-preview-of-release/amp/"
 type: article
 quality: 59
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Apple Safari builds in speech recognition on the web with MacOS 11.3"
+    excerpt: "Apple Safari builds in speech recognition on the web with MacOS 11.3 Illustration by Stephen Shanlkland / CNET Apple has added support"
+    publishedDateTime: 2021-02-03T11:45:00Z
+    webUrl: "https://www.compsmag.com/news/gaming/apple-safari-builds-in-speech-recognition-on-the-web-with-macos-11-3/"
+    ampWebUrl: "https://www.compsmag.com/news/gaming/apple-safari-builds-in-speech-recognition-on-the-web-with-macos-11-3/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/apple-safari-builds-in-speech-recognition-on-the-web-with-macos-11-3/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 59
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Apple-Safari-builds-in-speech-recognition-on-the-web-with.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Emotion recognition tech in China raises rights concerns"
     excerpt: "Technology that measures emotions based on biometric indicators such as facial movements, tone of voice or body movements is increasingly being marketed in China, researchers say, despite concerns about its accuracy and wider human rights implications."
     publishedDateTime: 2021-01-30T16:03:00Z

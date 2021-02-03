@@ -9,7 +9,7 @@ ampWebUrl: "https://www.compsmag.com/news/hacking/cybersecurity-centre-for-self-
 cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/hacking/cybersecurity-centre-for-self-driving-vehicles-heads-to-university-of-windsor/amp/"
 type: article
 quality: 21
-heat: -1
+heat: 21
 published: false
 
 provider:
@@ -21,20 +21,15 @@ topics:
   - AI
 
 related:
-  - title: "Self-driving scooters to keep cruising Peachtree Corners"
-    excerpt: "Self-driving scooters are on a roll in Peachtree Corners, where residents will continue to see them cruising through Atlanta Technology Park without a driver."
-    publishedDateTime: 2021-01-29T19:14:00Z
-    webUrl: "https://www.ajc.com/news/atlanta-news/self-driving-scooters-to-keep-cruising-peachtree-corners/D6YDDLBVR5GQBHKZ2A5IUVQYWA/"
+  - title: "Grant funding attracts cybersecurity startup's HQ move to McKinney"
+    excerpt: "After attracting roughly a dozen startup headquarter moves in 2020 through its Innovation Fund, the McKinney Economic Development is continuing that streak with a new announcement. Newly launched cybersecurity SaaS startup ContraForce is planting its HQ in the city,"
+    publishedDateTime: 2021-02-02T20:44:00Z
+    webUrl: "https://www.bizjournals.com/dallas/inno/stories/news/2021/02/02/contraforce-moves-hq-to-mckinney.html"
     type: article
     provider:
-      name: Atlanta Journal-Constitution
-      domain: ajc.com
-    quality: 24
-    images:
-      - url: "https://www.ajc.com/resizer/_whVMmNmAEmpFD9LFzu2nA3K5gc=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/YD4EYMBHA5CKZIVUSVPQPAHSUI.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 2
 
 secured: "8dBll0YrZnf7MJ7niiq/9PTNm9VYT2a1JgwL+yTJZ36jIAIWLQEHkhYInoUrxstcOkgKejM4oOHpn8r0V0hr+no7IAsm+ehSrItNQKBoIFhyhWfMNzGDR3CwGZ1LcnOQ7ZIQMiubVhxlaq3RsuH0cloQW5wpeIygJYUUBF7+sqtjwcIVRf5BfRSSqbMVqRtYCZn+e3o5j0wPcNvy2WuoGrcGlqHDeF0ESWvW7UAgEl3PfYvIdMNXj7VYPU2NePH4VoCexR1Db7EHZ1eZwIARiCKNkYBhzwh5e6U75vVG052FyImRteRJQ1aDsA4iYxqPP3SwuPZlCYDn18Hs6+RvOK4wmd30dRwC9hx0Bx5oa1E=;lKJbbdvmnVUWT06/0NLpcw=="
 ---

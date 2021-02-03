@@ -39,34 +39,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Effects of aging on emotion recognition from dynamic multimodal expressions and vocalizations"
-    excerpt: "Age-related differences in emotion recognition have predominantly been investigated using static pictures of facial expressions, and positive emotions beyond happiness have rarely been included. The current study instead used dynamic facial and vocal stimuli,"
-    publishedDateTime: 2021-01-29T20:16:00Z
-    webUrl: "https://www.nature.com/articles/s41598-021-82135-1"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 15
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-82135-1/MediaObjects/41598_2021_82135_Fig1_HTML.png"
-        width: 535
-        height: 685
-        isCached: true
-  - title: "Deep-learning-based high-resolution recognition of fractional-spatial-mode-encoded data for free-space optical communications"
-    excerpt: "Structured light with spatial degrees of freedom (DoF) is considered a potential solution to address the unprecedented demand for data traffic, but there is a limit to effectively improving the communication capacity by its integer quantization."
-    publishedDateTime: 2021-01-29T20:16:00Z
-    webUrl: "https://www.nature.com/articles/s41598-021-82239-8"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 0
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-82239-8/MediaObjects/41598_2021_82239_Fig1_HTML.png"
-        width: 685
-        height: 322
-        isCached: true
 
 secured: "YcZtXkO/7tU3VFCXt+Q0hOGe31XqpPD/nHnqSKLgSPCZHgNd6iCzsDoJ3y5wpPfR39P23Smpx6XjwzJcugRfvTj+cJZh2H/mLFcdKD+SGjgLFqm//CMz0jfT11pJYsfRUUN2OWsMG/lSqQ6k5uUffevkwEH1DX1ziCfQMR6ax7j+Cut9TnewJqRtoDyyARxp08KFCqXtApLOUOPj0HfJ6XMaAlSt+WRHX3gxNl+Aa5MFu4+VI1EmKwMmgT8NViOivaneRv2iibit/xYzbR8mqUlSEV2gYQG1sTRs86jFbiklp8PqwXvLkXsKTG8hXstdsXD1dh70dzqktwHYsq5bTCeah8lzgbis0pfTBSHbYKEas7uAf9U7DOGJIum5hlFWCtsWpc0AMU3Lv5hU12/2LJCOzC6bOemGfqQBxB2u8g5S/gvgfs2Spx25CAeM9nvevco+EzKj13DB/s3dTSAwNhEYmLPAlo3czRpWdA/J86OKilNjgT7n5qogcIN90mUQnzE+7rLKl2G76cwVnK6VoA==;GD3yK6bfAuvHDhMkxe0nhw=="
 ---

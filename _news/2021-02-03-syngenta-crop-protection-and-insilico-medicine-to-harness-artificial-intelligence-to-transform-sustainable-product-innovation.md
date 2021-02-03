@@ -1,29 +1,22 @@
 ---
 category: news
 title: "Syngenta Crop Protection and Insilico Medicine to Harness Artificial Intelligence to Transform Sustainable Product Innovation"
-excerpt: "Syngenta Crop Protection is collaborating with artificial intelligence (AI) and deep learning company Insilico Medicine to accelerate the invention and development of new, more effective crop protection solutions that protect crops from diseases,"
-publishedDateTime: 2021-02-03T07:15:00Z
-originalUrl: "https://www.globalbankingandfinance.com/category/news/syngenta-crop-protection-and-insilico-medicine-to-harness-artificial-intelligence-to-transform-sustainable-product-innovation/"
-webUrl: "https://www.globalbankingandfinance.com/category/news/syngenta-crop-protection-and-insilico-medicine-to-harness-artificial-intelligence-to-transform-sustainable-product-innovation/"
+excerpt: "Syngenta Crop Protection is collaborating with artificial intelligence (AI) and deep learning company Insilico Medicine to accelerate the invention an"
+publishedDateTime: 2021-02-03T12:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210202006134/en/Syngenta-Crop-Protection-and-Insilico-Medicine-to-Harness-Artificial-Intelligence-to-Transform-Sustainable-Product-Innovation"
+webUrl: "https://www.businesswire.com/news/home/20210202006134/en/Syngenta-Crop-Protection-and-Insilico-Medicine-to-Harness-Artificial-Intelligence-to-Transform-Sustainable-Product-Innovation"
 type: article
-quality: 27
-heat: 27
+quality: 5
+heat: 5
 published: false
 
 provider:
-  name: List of Banks in Belarus
-  domain: globalbankingandfinance.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
-  - AI in Healthcare
   - AI
 
-images:
-  - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
-    width: 1000
-    height: 600
-    isCached: true
-
-secured: "YWqO0sMbV0I5nxyu9D3qXXeWgvuW+7FWoQsZKwJOqORmx0VJsJJZFbsADQKj8qzKnAMJoI2C21tjYF06tL53OYwQq6+r5XttPoUXikdIUaRPzl+YnbcjMHItrwdenP9U6F+IshwVhOEfQ4eoFEKw4+8La1QzxksG26VDLQI+42sRr7b6JKuJGAWUPOUvMZ/9cegsCp9ETAxlpt6Ij+3/OeC/q+ElNoIllJ5hpP4muoYzxzUN+6ToQo/NK7q1rZ3JVY2+WM2iVOhQk0mvcJaKA6qGB8SrP6NGc/huewr+96yWcF6dt7B9PMte+cJnGkBaQJqi/gdPMz3GD/S0C3zWQfw+w1/1CQC932NrVomlXBY=;GLusly1Viq2OjWU1VjeBlQ=="
+secured: "agpP8ipnPjKiweiC6lRgrp6xTYBqn6Uu/W3u39vyGciPYLY8PKgmWldtHeMdoGoI7R1xhyk93SSq4XeFYWGMr2KWKVWjXug9FlTf2nXtAnCRivrCbrE9BjWGHfNhOI7OVCNCUPTYhqo5+i1vj6s0NNFZT2oW3NcbK2ruEg4U+xEOWQZXkX1GNxYmC7LJTPKvtcLt85HjHJh6fiuVOWOjFSGueRCKfBoHabs86LHhGhFprbsWh/c93dOKVyUE+nOVBLDuaFZQRHa6coQRIv45tgcquBC4V8nKr5Yty0EghySPhWR9du4tWry3UB57qgNciWvi2DJ6v65eO0aOiWTGITN78DYZYYPOR8HGTVTKKHQOj71+Y5cQDoQI3Ottb5Pd93zA5DgSGe/MPEubG6H9YvqYH4m07SW/8B8mgPs+5+1OqET2eXsNAhlI9lgULFn8hPrRiJEj1FD7cP0MNzbd6jBEn2EHahY1kX6BqRY9nqPTTzWxFozGcL6GkE9RrFU1ptm6Mn8Ko2d3LTc7noP4NA==;OTa/LFSObYv1Z7Mfh53CBA=="
 ---
 

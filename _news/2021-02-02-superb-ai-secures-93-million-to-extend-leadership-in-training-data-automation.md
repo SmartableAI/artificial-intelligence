@@ -53,19 +53,21 @@ related:
         width: 800
         height: 345
         isCached: true
-  - title: "Performing anomaly detection on industrial equipment using audio signals"
-    excerpt: "Industrial companies have been collecting a massive amount of time-series data about operating processes, manufacturing production lines, and industrial equipment. You might store years of data in historian systems or in your factory information system at large. Whether you’re looking to prevent equipment"
-    publishedDateTime: 2021-01-29T20:29:57Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/performing-anomaly-detection-on-industrial-equipment-using-audio-signals/"
+  - title: "Obtaining Market Recognition And Assessing Value Propositions In A Rapidly Changing Business Climate"
+    excerpt: "What will it take for organizations to keep building market recognition? How can leaders impact the sentiment of their audiences? Why are some companies excelling and others getting behind?"
+    publishedDateTime: 2021-02-03T12:10:00Z
+    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/02/03/obtaining-market-recognition-and-assessing-value-propositions-in-a-rapidly-changing-business-climate/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/02/03/obtaining-market-recognition-and-assessing-value-propositions-in-a-rapidly-changing-business-climate/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/02/03/obtaining-market-recognition-and-assessing-value-propositions-in-a-rapidly-changing-business-climate/amp/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 73
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/22/ML-1479-1.jpg"
-        width: 800
-        height: 272
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee90f75a2b06400077bbb41%2F0x0.jpg"
+        width: 1200
+        height: 801
         isCached: true
   - title: "Google employees consider jumping ship for Facebook and Microsoft after firings, reorgs and mounting tension in its AI division"
     excerpt: "Google's commitment to building ethical AI has been thrown into question as tensions between employees and management continue to flare."

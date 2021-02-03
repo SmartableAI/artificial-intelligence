@@ -9,7 +9,7 @@ ampWebUrl: "https://scienceblog.com/520793/robust-artificial-intelligence-tools-
 cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/520793/robust-artificial-intelligence-tools-to-predict-future-cancer/amp/"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1350
     height: 900
     isCached: true
+
+related:
+  - title: "MIT Mirai: Robust Artificial Intelligence Tools To Predict Future Cancer"
+    excerpt: "Researchers created a risk-assessment algorithm that shows consistent performance across datasets from US, Europe, and Asia. To catch cancer earlier, we need to predict who is going to get it in the future."
+    publishedDateTime: 2021-02-03T11:12:00Z
+    webUrl: "https://scitechdaily.com/mit-mirai-robust-artificial-intelligence-tools-to-predict-future-cancer/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 51
+    images:
+      - url: "https://scitechdaily.com/images/Machine-Learning-Predict-Cancer-Risk-From-Mammogram-Images.jpg"
+        width: 900
+        height: 590
+        isCached: true
 
 secured: "JM4MX645LSaDCCXd/kdjDqLkOYAylx79fBJZok+1Ir0mou7otHvId3fv40p9fghV5VbFOOP5BXOnJEM7HRDhukySprgOoX126YJr4o6HyZhPd2u50sFqasoPEMkH+uG4/MmriTtwpJyVFFzgnGStQ6wsb5CJI3mGr2HzDlrfseCJLzJHcm2BlDv7mPUitUkZ1zHSBmxUjyZDlCeXDnwxEZEnJTqGBcDP6BANaWN/wIm9y+wyuPFJ2QfrzKOmWxWdYzYTB33HfyIczI/A+O2Im1c7y6dADZhkw41s6EPDCbWqvZPWqEUMfLwO0Sr0TQ6n0Z8IrV2hWbEd4WH5bRokNKXkxHLu0YokSSrXsIM7RQqyMwr9cSnNwBIOZ0JNgo4r98imvSmhgIuYdiKvRD7n0Rmhk1+4vUbDqWYePq1KFdVMJSdmHaUnJwjHstqvaZRisJ2zesLPX+APOzSZQOEe6jsQf8/1XSJ+4eJoY0ccXMgCDFO1hy2uL/NVgc7EJdiSA5V0eiEU8daiMkpngVcUvw==;5e9vNiaABUOkwwTfoMXdSA=="
 ---

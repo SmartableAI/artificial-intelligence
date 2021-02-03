@@ -9,8 +9,8 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/scania-tests-self-drivi
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/scania-tests-self-driving-trucks-in-motorway-traffic-1030037027"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Business Insider
@@ -38,6 +38,20 @@ related:
       - url: "https://img.aviationpros.com/files/base/cygnus/cavc/image/2021/02/zt_5.601822e68e878.png?auto=format&fit=max&w=1200"
         width: 1200
         height: 900
+        isCached: true
+  - title: "Self-driving trucks join the motorway"
+    excerpt: "Scania has been granted permission by the Swedish Transport Agency to test self-driving trucks on the E4 motorway between Södertälje and Jönköping. The tests will occur in collaboration with TuSimple,"
+    publishedDateTime: 2021-02-03T10:48:00Z
+    webUrl: "https://www.khl.com/news/selfdriving-trucks-join-the-motorway/8010090.article"
+    type: article
+    provider:
+      name: KHL
+      domain: khl.com
+    quality: 24
+    images:
+      - url: "https://www.khl.com/Images/1260x628/index-20210203-101654-Scania-auto-2.jpg"
+        width: 1260
+        height: 628
         isCached: true
 
 secured: "3ia2uLhFD4Tis5gVawKsbSOEMyNH+5LiHMb8U6VRVuOTPF/2eJw+oWi/O2kw6qkuLVOpCB/lIDGV7AmFC+UcnKBuAmVYsnTakO2DpZ/zwBECLe4sLsvWrsNJnaSVEeTWnu2GQ8M+gG/KzUjFcngbm2wbqGvehMZEiygJaJHwKDXLrjj8ASbhlYpl3LJdg64dZsSYUWCHdvG0GiP4LUHvYWt8dmQdzGeSlywIuvUn39KUJN1fn2XqnFIY3sXBb1KW3nxZBaNwE4YCnztJ2eubbhB4C+5oeTVjkAwIQMqAin5zY7of1CAdce2ahe3K5k4TWVI8LXLvcCVd892UyIf0OoQebrdfXYQKjqGduPF64gA=;48469b5ANcqQYwH5sPEwqQ=="

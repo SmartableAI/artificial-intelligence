@@ -25,23 +25,32 @@ images:
     isCached: true
 
 related:
-  - title: "Forget The City, See How This Self-Driving Pilot In Norway Tackles Winter Conditions And Steep Hills"
-    excerpt: "From automated docking for boats to wintery self-driving pilots in Norway, autonomous driving is moving forward around the world."
-    publishedDateTime: 2021-01-29T19:18:00Z
-    webUrl: "https://www.forbes.com/sites/jenniferhicks/2021/01/29/forget-the-city-see-how-this-self-driving-pilot-in-norway-tackles-winter-conditions-and-steep-hills/"
-    ampWebUrl: "https://www.forbes.com/sites/jenniferhicks/2021/01/29/forget-the-city-see-how-this-self-driving-pilot-in-norway-tackles-winter-conditions-and-steep-hills/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2021/01/29/forget-the-city-see-how-this-self-driving-pilot-in-norway-tackles-winter-conditions-and-steep-hills/amp/"
+  - title: "Scania tests self-driving trucks in motorway traffic"
+    excerpt: "Scania has been granted permission by the Swedish Transport Agency to test self-driving trucks on the E4 motorway between Södertälje and Jönköping. The tests will occur in collaboration with TuSimple,"
+    publishedDateTime: 2021-02-03T08:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/scania-tests-self-driving-trucks-in-motorway-traffic-1030037027"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/scania-tests-self-driving-trucks-in-motorway-traffic-1030037027"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/scania-tests-self-driving-trucks-in-motorway-traffic-1030037027"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 59
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
+  - title: "Schiphol Tests Self-Driving Baggage Tractor"
+    excerpt: "The trial, which will last until the end of the month, is being carried out in collaboration with KLM Ground Services and Smart Airport Systems."
+    publishedDateTime: 2021-02-01T15:52:00Z
+    webUrl: "https://www.aviationpros.com/gse/gse-technology/press-release/21208232/schiphol-schiphol-tests-selfdriving-baggage-tractor"
+    type: article
+    provider:
+      name: AviationPros
+      domain: aviationpros.com
+    quality: 24
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6014298927c58ca85c19d946%2F0x0.jpg"
+      - url: "https://img.aviationpros.com/files/base/cygnus/cavc/image/2021/02/zt_5.601822e68e878.png?auto=format&fit=max&w=1200"
         width: 1200
         height: 900
         isCached: true
 
-secured: "ywHgWtuX9WEWl9keGE+8780YlKnOYXcWKq9/qn3YlNtBwcbnq1sC3LrCECwo+X8sfTvJGB5fmGXOmuQJvCMqMkpZWTKKGHaDhaFUcFcT49uglDgMvEdGbYihMrFXK6fwOvIfqBTKuzxhIJglNhCD3Iq6MDEQsFzTI4H/AzTgm2wkWFoN2HVd8Sggs+HQxcG838vh47ZzXGMwGLwzKY1CU9NUqunWimmzvhLTD2YDdCRueaTasLshIBC5ut02bRBnV7Qy6BF+ZGGLATc8DLoaVhbOlLOjdJlW5lM+xo+ZU/sPXgZlXUXXAHp0ncvfw/Vlp/8qiypFC7jDlBu1bVIXbXdMAR7pgX+OVZqprDApZ7U=;WqEGgCjWyT2Z24cizj6wPA=="
+secured: "jT+u4Yce8y2bKQlS9d1okoQdo6E+kRKLtk9+5Dy9HhWqgb2pNm2vlqwgLSNSS5tTbTHkXf66JYD4iEoT+qdSjRPvnWPa+OFJ2DkVn6Hmxq18L8fdieMvnLJr6HUotJB8OybOjr7z2XVafooad+EH9LcHIJrM7HG9FEsB1Y3MOCqN5cVWeGMSdOTVFGanxhRSB9+aVQw2YYSMHTs84B0770UwI4o0K3Q0MGQWqEf4U4kDSDc8niCQivH0qJt4xwuHLh/Ayk0ZmAJO9Z/ua/YKQbxQJa5RaPAvk0wZ+M+3SXBIsSVixuQV9I9VN07GGm/QGeSOKq1l/GI+/aNs/Y1pSPIoJZzUvWk6hYV3Kp0V5VnNOud5qOzV3tdyZGI7XEs3Ph4vmRkvz8KCgZMPbKZQj0GKWOdfnx3WVyEE3ioDJIFkezQ9u0SomhMHw0isI/kyjpTawHHEXJ0gRlARiTvonpLO+0+RrP3WvdB2RP3UJg8cSbxlkACT80P1T2bLbZYVQ/efgdsUJbgwP4P9TGNQCg==;xNCfOe2IFVWqDLVrqv3bYA=="
 ---
 

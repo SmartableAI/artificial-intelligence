@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-machine-learning-
 webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-as-a-service-market-2020-with-covid-19-impact-analysis-and-forecast-by-2025-2021-02-01"
 type: article
 quality: 55
-heat: 65
+heat: -1
 published: false
 
 provider:
@@ -29,19 +29,47 @@ images:
     isCached: true
 
 related:
-  - title: "Global Iris Recognition Market Research 2020-2024 | Market Impact Analysis due to COVID-19 Spread | Technavio"
-    excerpt: "Technavio has announced its latest market research report titled Global Iris Recognition Market 2020-2024 (Graphic: Business Wire) Worried about the impact of COVID-19 on your business? Here is an exclusive report talking about Market scenarios,"
-    publishedDateTime: 2021-01-30T07:57:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-europe-latin-america-and-caribbean-diseases-and-conditions-united-kingdom-85a9c5851391492cbe1541e90fcb15ad"
+  - title: "North America AI Chipsets Market Overview with In-Depth Analysis and Forecast (2020-2026)"
+    excerpt: "The North America AI chipsets market from Central Processing Unit (CPU) segment is projected to grow at a CAGR of 30% over the forecast period. The growth is credited to several features offered by the CPU architecture such as low latency,"
+    publishedDateTime: 2021-02-03T10:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/north-america-ai-chipsets-market-overview-with-in-depth-analysis-and-forecast-2020-2026-2021-02-03"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 7
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 77
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) Chipsets Market Share, Growth Insight, Size, Competitive Analysis, Regional, And Global Forecast To 2027"
+    excerpt: "https://www.fortunebusinessinsights.com/enquiry/customization/artificial-intelligence-ai-chipsets-market-104500 8.1.1.1. Graphics Processing Unit (GPU) 8.1.1.2. Field Programmable Gate Arrays (FPGAs) 8.1.1.3. Application-specific Integrated Circuit (ASIC ..."
+    publishedDateTime: 2021-02-02T10:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-share-growth-insight-size-competitive-analysis-regional-and-global-forecast-to-2027-2021-02-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 74
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Chipsets Market Growth Analysis By Size, Share, News, Demand, Opportunity"
+    excerpt: "Artificial Intelligence Chipsets Market Size, Demand-sales, Suppliers By Key Applications Detailed Analysis and Growth Aspects on Manufacturing Landscapes and Regional Analysis \"Market Overview: Global Artificial Intelligence (Chipsets) Market is valued approximately at USD 5."
+    publishedDateTime: 2021-02-01T13:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-growth-analysis-by-size-share-news-demand-opportunity-2021-02-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "v/1tSchinrxNiXPUpLjkHcvCyqMKqeNf9M+dmItzH85YEd4JmQwOX6ldXK8fl/LeYNgK14klkpQJcpKHGp3FSQmqvR1yVQl3gD0v4M+Lo1vz2C3ryiMZ1dgYCJCFbpqZfWs7CYLo4dznfMtDGsAx/nyW2YkMadKYu+jqCGAUeqNxGMJkMoZEzplXF8xKo15G7z4o+KpENzKTQ7k+0H/sTZH/uUoLxn4YrjlM42Av7wF7GoG9bWOsrL3LuMsfTduJnN6YJ4S/yVa5D520az4a5C3zYnUe0iUzXK9bBCiTGhL3G3V3Y0UiuUPxP7eXlhw1vjVxHJPh74a6kz/pIB4WuXOlV7vHS0BTqTllphItlA0=;Oc9Yss7XD9ylaYY5c1mXZA=="

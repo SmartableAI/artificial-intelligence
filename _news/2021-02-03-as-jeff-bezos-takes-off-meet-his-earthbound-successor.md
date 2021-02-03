@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/02/03/opinion/amazon-jeff-bezos-andy-ja
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/03/opinion/amazon-jeff-bezos-andy-jassy.amp.html"
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -125,7 +125,21 @@ related:
         width: 800
         height: 420
         isCached: true
+  - title: "What Amazon CEO Jeff Bezos stepping down means for fintech"
+    excerpt: "Jeff Bezos will step down as founder and CEO of Amazon and transition to chairman in 2021, allowing seasoned cloud executive Andy Jassy to take the reins of the $1.6 trillion giant. As detailed in an email to his employees,"
+    publishedDateTime: 2021-02-03T11:31:00Z
+    webUrl: "https://www.finextra.com/the-long-read/115/what-amazon-ceo-jeff-bezos-stepping-down-means-for-fintech"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/oped/115.jpg"
+        width: 800
+        height: 450
+        isCached: true
 
-secured: "dym6wBuA3QgVvaMO/4yKcommtDQzIHpZRpjXGi3E0XdwqEDce3kvrt4F58Txo+rBLGYqwg/M0J3kdEyxFv5PHvdvPFz3o4FpQ4uk/tynTQRtSPHcVXj2cTLsBQpXlcqhTtRx9QoawAKvamVxLGZED6HyyW+OLhKOwkuFluzL3kOYm3fyURl4HOffFrAe95XaIB8sKiQwz7bFs8312A5krrHlhvYIDCMx7ao7N6DVvN+bULkhHdfcKsyKg8CMaVpzmsOdBGfkTTQ1OCkOZ8xORePuuWN1MDJJZBNrpWwxY+dOa5ix9qojg69K/g3rDrakwE11Nxmpxg0UCK7U0/n5qQ5Fe7Llq86x9sPmYEaLl6I=;+1LArZonQqBsX9srjIFRBA=="
+secured: "krzvFF7F6hhIohWqvDa6lsgMRw1L4Yhoy/rIvSXmPmWXfm39PNelBZPobICm21Qnm6T1wthKQmTXXj/lKgVjYy10H1EyH1II+2Mo7N7lKYIV8kz++Y/4Wj758C4ODFTrd5PQNRCsEzmyAAs0tA1PW4S7ZCNvA+mfzzGVV/hkXPCeTYH/Ofkw7hbtUdJcZeWAlcVd6SIaNoMYlXLU2pkUP9c63kEeNaHUrTLoXUfBDTCsDZnxm2ctMI2UIXELabAYI7Smy9Bm4wQnm/f17WWWs2O6dYI7pAuyLKaJSXFj4r26/ncxwnsA03ZQa+2AkmUHtWfHCggBLU2fzzkWPD4uBcN0zxQZDW1VF3HQfhzz3e6uJpFeZIhUyZZEkdm5tZ6D1yKdNFizJXIS0Ev54KYztvsHJ/EBKak+fBliVKGsjNDSRYDJlaKKvSoJQ05tQtkPFV3xWdSAZDX7DqM6fUIidI7CQJ4/1UmkG7Sd+1ZAiAs1i8gj+sKUjhkeas36dODyUDwDgIY+77Y+VSIYkGdiqQ==;6p/UoEBOx4PRWq4NIDI6Mg=="
 ---
 
