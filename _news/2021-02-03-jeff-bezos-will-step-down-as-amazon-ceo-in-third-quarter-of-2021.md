@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextbigfuture.com/2021/02/jeff-bezos-will-step-down-as-a
 cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/02/jeff-bezos-will-step-down-as-amazon-ceo-in-third-quarter-of-2021.html?amp"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Bezos' Departure as CEO Shows Amazon Is a Cloud Company Now"
+    excerpt: "Andy Jassy, who helped create Amazon Web Services in 2006 and has run it since, will take over as chief executive later this year."
+    publishedDateTime: 2021-02-03T01:07:00Z
+    webUrl: "https://www.wired.com/story/bezos-departure-ceo-shows-amazon-cloud-company/"
+    ampWebUrl: "https://www.wired.com/story/bezos-departure-ceo-shows-amazon-cloud-company/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/bezos-departure-ceo-shows-amazon-cloud-company/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 74
+    images:
+      - url: "https://media.wired.com/photos/6019cab23453f789506008d0/master/pass/Sec_Bezos_1036084400.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "What to Know About Jeff Bezos's Successor, Amazon's Next CEO Andy Jassy"
     excerpt: "Amazon CEO Jeff Bezos announced that he would be stepping down from his position in Q3 of this year, and will be replaced by Amazon Web Services CEO Andy Jassy. At that point, Bezos will transition to executive chair of Amazon’s board."
     publishedDateTime: 2021-02-02T22:47:00Z
@@ -57,37 +73,7 @@ related:
         width: 610
         height: 457
         isCached: true
-  - title: "Who is Andy Jassy? All about Amazon's new CEO after Jeff Bezos steps down between July and September 2021"
-    excerpt: "Andy Jassy helped launch the Amazon Web Services (AWS) with a team of 57 people in 2003 and eventually became the CEO of the division. As of November 2020, Jassy's estimated net worth is $377 million"
-    publishedDateTime: 2021-02-02T23:59:00Z
-    webUrl: "https://meaww.com/andy-jassy-net-worth-profile-amazon-new-incoming-ceo-after-jeff-bezos-steps-down-later-in-2021-aws"
-    ampWebUrl: "https://meaww.com/amp/andy-jassy-net-worth-profile-amazon-new-incoming-ceo-after-jeff-bezos-steps-down-later-in-2021-aws"
-    cdnAmpWebUrl: "https://meaww-com.cdn.ampproject.org/c/s/meaww.com/amp/andy-jassy-net-worth-profile-amazon-new-incoming-ceo-after-jeff-bezos-steps-down-later-in-2021-aws"
-    type: article
-    provider:
-      name: Meaww
-      domain: meaww.com
-    quality: 27
-    images:
-      - url: "https://cheesecake.articleassets.meaww.com/520377/uploads/f1b1a910-65aa-11eb-bea0-fbd4614cd2cf_800_420.png"
-        width: 800
-        height: 420
-        isCached: true
-  - title: "Amazon.com Announces Financial Results and CEO Transition"
-    excerpt: "Founder and CEO Jeff Bezos will transition to role of Executive Chair in Q3, Andy Jassy to become Chief Executive Officer of Amazon at that timeSEATTLE--(BUSINESS WIRE)--Amazon.com, Inc. (NASDAQ: AMZN) today announced financial results for its fourth quarter ended December 31,"
-    publishedDateTime: 2021-02-02T21:22:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=415814"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 24
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/29/mark/20210129882520.jpg"
-        width: 580
-        height: 327
-        isCached: true
 
-secured: "6JVZDoWWkv6ZF1MKe5ZhKtfLoxE9x5CWwCyKMsyBSBWKwwKvX9102lD0mjrBeH+O4i3anxXw4SASSqOM6wHxZeLPfkD07brW0lpjuWJXNfwRckt/xdBxMP1eB1syPd7aw3fCluTEPnKc+axvkAQ54YfHwdwp9Ni/SpYPWwSVs/mDpNKBQKN4g2iP6pvSlRtSDuVAA8JaxN+lcOOZnuo0/7numcZRPcLmmtc2RkZDBNRGL8n/ad9o6qhJVLrm0ROGtydL1msJIbypYr/RujS9JwBUA/q0aYmfp1Xke2Ql54VaM6YMbtL0FYH3izXQr619oZJYLqIodGPMLFsqUm8Vrs2atkqYZLjpmylCtSkYCAA=;p+Q8ULQYyHK2LE6X4EwxIQ=="
+secured: "rQb9HD6tNm3P1rA87v/nmmANcFNj0J4TstsVaNEO2LpK7QBADJGPyAmtHGog4sWOjljFdLJDp8WNGp8pk2ubn48NWCWy3UtzvOq5cEk4z0o3n2QsE9TldpMIO2iJiXEbjl43wmEQDNOun9TLRDT1oFKQ/VjuysPJ8EaYMFRdkOzgzmbPlDj649VQTp97kHKJ1y3p0z6k0FrkQvMdI4FMETumowfkIv1bRf+nM/Zg0XMTx09yUuC31aquTiPJH1Z8H0JF1cPnmvCGL7fkXhdqG6oS2mYXMBO/Wb1ZJwxx7D/YeJnPyKKXyLB4Z6r967diSiWLt43bkUuQc9mIaXbrIIwdU1GHu7Qgx4kTjer1XeEmEYmLXSDV/Q9vpZb0E1smGJrrz3H9YntrDsLeUodagY0KY3h6FWVL9AkW5bp6B8JD5V7riLhX9HxoPQANcsaDifXc2jbWeggBn7p47RCynKnCdQrGIwEz04Imh0c9uJFuM7mRw2jzjUTu87S/hGP3oWzSDVw+vj03S+/24Xq3dQ==;coJd/cNzrwXLsaySEThR1w=="
 ---
 

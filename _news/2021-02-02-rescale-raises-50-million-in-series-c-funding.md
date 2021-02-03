@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/rescale-raises-50-millio
 webUrl: "https://www.marketwatch.com/press-release/rescale-raises-50-million-in-series-c-funding-2021-02-02"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Superb AI Secures $9.3 Million to Extend Leadership in Training Data Automation"
-    excerpt: "Superb AI, one of the world's most powerful AI-enabled training data platforms, today announced it has completed a $9.3 million Series A round of financing. Atinum Investment led the round with participation from existing and new investors including Premier Partners,"
-    publishedDateTime: 2021-02-02T13:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/superb-ai-secures-9-3-million-to-extend-leadership-in-training-data-automation-1030032496"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/superb-ai-secures-9-3-million-to-extend-leadership-in-training-data-automation-1030032496"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/superb-ai-secures-9-3-million-to-extend-leadership-in-training-data-automation-1030032496"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 65
   - title: "Superb AI Raises $9.3M in Series A Funding"
     excerpt: "Superb AI, a San Mateo, Calif.-based provider of AI-enabled training data platforms, completed a $9.3m Series A round of financing"
     publishedDateTime: 2021-02-02T19:00:00Z

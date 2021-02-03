@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-12-06-tesla-cuts-full-self-driving-upgrade-price-by-1000-for-some-customers.md",
+      "title": "Tesla cuts Full Self-Driving upgrade price by $1,000 for some customers",
+      "excerpt": "Tesla has cut the price of a Full Self Driving upgrade by $1,000, but only for people with Enhanced Autopilot-equipped cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/tesla-drops-full-self-driving-upgrade-price-for-some-184028591.html",
+      "originalUrl": "https://www.engadget.com/tesla-drops-full-self-driving-upgrade-price-for-some-184028591.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2F3f4f2080-3725-11eb-91e7-4fbce3f7cebf&client=amp-blogside-v2&signature=b785dbde864c2b1a7d76720b76a1279eee6fe894",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/tesla-drops-full-self-driving-upgrade-price-for-some-184028591.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-drops-full-self-driving-upgrade-price-for-some-184028591.html",
+      "publishedDateTime": "2020-12-05T10:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-05-google-ai-researchers-exit-sparks-ethics-bias-concerns.md",
       "title": "Google AI researcher’s exit sparks ethics, bias concerns",
       "excerpt": "Prominent artificial intelligence scholar Timnit Gebru helped ... of problems facing the company heading into the new year. Waymo signs sublease deal for big Silicon Valley expansion Google ...",
@@ -1312,49 +1364,6 @@
       "provider": {
         "name": "Associated Press",
         "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-26-weride-robotaxis-gain-loyal-passengers-but-fixed-pick-up-drop-off-spots-irk-some-survey-shows.md",
-      "title": "WeRide robotaxis gain loyal passengers but fixed pick-up, drop-off spots irk some, survey shows",
-      "excerpt": "Major self-driving companies, including Baidu, ride-hailing giant Didi Chuxing and start-up AutoX have all launched robotaxi services in different cities across the country. Autonomous driving is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/tech/tech-news/2020/11/26/weride-robotaxis-gain-loyal-passengers-but-fixed-pick-up-drop-off-spots-irk-some-survey-shows",
-      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2020/11/26/weride-robotaxis-gain-loyal-passengers-but-fixed-pick-up-drop-off-spots-irk-some-survey-shows",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apicms.thestar.com.my/uploads/images/2020/11/26/950956.jpg",
-          "width": 1240,
-          "height": 697,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-25T22:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,212 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-01-19-artificial-intelligence-ai-in-healthcare-market-size-worth-6159-billion-by-2027-cagr-of-436-by-reports-and-data.md",
+      "title": "Artificial Intelligence (AI) in Healthcare Market Size Worth $61.59 Billion By 2027 | CAGR of 43.6% By Reports and Data",
+      "excerpt": "Artificial intelligence helps medical professionals to retrieve information, interpret images, and plan therapy during medical procedures. It also eases the burden on healthcare workers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/01/g19208601/artificial-intelligence-ai-in-healthcare-market-size-worth-61-59-billion-by-2027-cagr-of-43-6-by-r",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/01/g19208601/artificial-intelligence-ai-in-healthcare-market-size-worth-61-59-billion-by-2027-cagr-of-43-6-by-r",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/19208601",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19208601",
+      "publishedDateTime": "2021-01-19T00:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-neurophth-and-aavnergene-enter-strategic-aav-capsids-partnership-for-next-generation-ophthalmic-gene-therapy.md",
+      "title": "Neurophth and AAVnerGene Enter Strategic AAV Capsids Partnership for Next-Generation Ophthalmic Gene Therapy",
+      "excerpt": "Neurophth Therapeutics, Inc., a subsidiary of Wuhan Neurophth Biotechnology Ltd. gene therapy company (hereafter Neurophth), and AAVnerGene Inc., a specializing AAV technology company, today announced a strategic partnership to provide Neurophth with worldwide rights to mutually select adeno-associated virus (AAV) capsids for the next generation ophthalmic gene therapy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/health-press-release/Neurophth-and-AAVnerGene-Enter-Strategic-AAV-Capsids-Partnership-for-Next-Generation-Ophthalmic-Gene-Therapy-506755-1.htm",
+      "originalUrl": "https://www.medindia.net/health-press-release/Neurophth-and-AAVnerGene-Enter-Strategic-AAV-Capsids-Partnership-for-Next-Generation-Ophthalmic-Gene-Therapy-506755-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-19T00:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-us-lawmakers-aims-to-curtail-face-recognition.md",
+      "title": "US lawmakers aims to curtail face recognition",
+      "excerpt": "Microsoft and Amazon halted facial recognition sales to police this month following nationwide protests that have demanded an end to law enforcement tactics that unfairly target African Americans and other minorities.",
+      "sourceUrl": null,
+      "webUrl": "https://tribune.com.pk/story/2280538/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers",
+      "originalUrl": "https://tribune.com.pk/story/2280538/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": " https://i.tribune.com.pk/media/images/9231611038223-0/9231611038223-0.jpg  ",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tribune.com.pk/story/2280538/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers?amp=1",
+      "cdnAmpWebUrl": "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2280538/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers?amp=1",
+      "publishedDateTime": "2021-01-19T00:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Express Tribune",
+        "domain": "tribune.com.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-prosus-bets-on-ai-to-help-reshape-indias-350-billion-farm-industry.md",
+      "title": "Prosus Bets on AI to Help Reshape India’s $350 Billion Farm Industry",
+      "excerpt": "Prosus NV is investing in agritech company DeHaat in a bet on India’s $350 billion farming industry. The Dutch e-commerce group with assets all round the globe led a Series C funding round of $30 million that DeHaat will use to hire more staff,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-01-19/prosus-backs-dehaat-in-bet-on-india-s-350-billion-farm-sector",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-01-19/prosus-backs-dehaat-in-bet-on-india-s-350-billion-farm-sector",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRIiWt3lRAGI/v1/360x-1.jpg",
+          "width": 360,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2021-01-19/prosus-backs-dehaat-in-bet-on-india-s-350-billion-farm-sector",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2021-01-19/prosus-backs-dehaat-in-bet-on-india-s-350-billion-farm-sector",
+      "publishedDateTime": "2021-01-18T23:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare.md",
+      "title": "Facebook to use AI in predicting if Covid-19 patients need better healthcare",
+      "excerpt": "Washington [: American social media giant Facebook is publishing a research conducted by its artificial intelligence (AI) unit in an effort to help healthcare providers predict in advance if a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/companies/news/facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare-11611015950906.html",
+      "originalUrl": "https://www.livemint.com/companies/news/facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare-11611015950906.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2021/01/19/600x338/2021-01-18T135851Z_33186576_RC2DAL9C6WEM_RTRMADP_3_HUNGARY-MEDIA-REGULATIONS_1611020801836_1611020835549.JPG",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/companies/news/facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare/amp-11611015950906.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare/amp-11611015950906.html",
+      "publishedDateTime": "2021-01-18T23:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-01-19-us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers.md",
       "title": "U.S. lawmakers aim to curtail face recognition even as the technology IDs Capitol attackers",
       "excerpt": "U.S. lawmakers are moving ahead with efforts to ban facial recognition software even as the technology helps identify supporters of President Donald Trump who ransacked their workplace and forced them to evacuate this month.",
@@ -899,247 +1105,6 @@
         "name": "PR Newswire",
         "domain": "prnewswire.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-neurotechnology-releases-new-sentiveillance-80-sdk-for-identification-and-analytics-using-live-and-video-streams.md",
-      "title": "Neurotechnology Releases New SentiVeillance 8.0 SDK for Identification and Analytics Using Live and Video Streams",
-      "excerpt": "a provider of deep-learning-based solutions and high-precision biometric identification and object recognition technologies, today announced the release of the SentiVeillance 8.0 software ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/neurotechnology-releases-new-sentiveillance-8-0-sdk-for-identification-and-analytics-using-live-and-video-streams-1029977135",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/neurotechnology-releases-new-sentiveillance-8-0-sdk-for-identification-and-analytics-using-live-and-video-streams-1029977135",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/neurotechnology-releases-new-sentiveillance-8-0-sdk-for-identification-and-analytics-using-live-and-video-streams-1029977135",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/neurotechnology-releases-new-sentiveillance-8-0-sdk-for-identification-and-analytics-using-live-and-video-streams-1029977135",
-      "publishedDateTime": "2021-01-18T03:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-the-great-compromise-in-ais-buy-vs-build-dilemma.md",
-      "title": "The Great Compromise In AI’s Buy Vs Build Dilemma",
-      "excerpt": "Businesses is AI capabilities face a critical decision deciding whether to buy or build. An alternative exists which is able to take advantage of the benefits of both.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/kasiaborowska/2021/01/18/the-great-compromise-in-ais-buy-vs-build-dilemma/",
-      "originalUrl": "https://www.forbes.com/sites/kasiaborowska/2021/01/18/the-great-compromise-in-ais-buy-vs-build-dilemma/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6001c0040a8baa196cbb51b7%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5000%26cropY1%3D253%26cropY2%3D3064",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/kasiaborowska/2021/01/18/the-great-compromise-in-ais-buy-vs-build-dilemma/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kasiaborowska/2021/01/18/the-great-compromise-in-ais-buy-vs-build-dilemma/amp/",
-      "publishedDateTime": "2021-01-18T00:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-still-talking-to-cortana-microsoft-gives-you-more-control-over-how-your-voice-recordings-are-used.md",
-      "title": "Still talking to Cortana? Microsoft gives you more control over how your voice recordings are used",
-      "excerpt": "Microsoft still wants to re-use your voice clips, but will now ask for permission first. Users of Microsoft's voice-enabled services such as Cortana will now be able to decide whether or not the audio recordings of their interactions can be used by the company to improve its speech recognition algorithms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/article/still-talking-to-cortana-microsoft-gives-you-more-control-over-how-your-voice-recordings-are-used/",
-      "originalUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/article/still-talking-to-cortana-microsoft-gives-you-more-control-over-how-your-voice-recordings-are-used/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2018/01/15/37af3c7b-8de3-4016-b11a-f6c6ff0044eb/thumbnail/1200x675/0694bbed8403720a906252aaf7f4a583/5a578ebc69340d506caef07c-1280x7201jan152018133314poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/still-talking-to-cortana-microsoft-gives-you-more-control-over-how-your-voice-recordings-are-used/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/still-talking-to-cortana-microsoft-gives-you-more-control-over-how-your-voice-recordings-are-used/",
-      "publishedDateTime": "2021-01-17T23:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-machine-learning-finds-more-gravitational-lenses-than-all-astronomers-combined.md",
-      "title": "Machine Learning Finds More Gravitational Lenses Than All Astronomers Combined",
-      "excerpt": "The lensing effect stretches, distorts, and magnifies the background galaxy, as well as creating multiple images of it. One of Einstein’s most revolutionary predictions is that mass bends light. Starlight bent around the eclipsed Sun in 1919 confirmed this.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/startswithabang/2021/01/18/machine-learning-finds-more-gravitational-lenses-than-all-astronomers-combined/",
-      "originalUrl": "https://www.forbes.com/sites/startswithabang/2021/01/18/machine-learning-finds-more-gravitational-lenses-than-all-astronomers-combined/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe8fe3d591966afc92f2ce0%2F0x0.jpg",
-          "width": 1200,
-          "height": 699,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/startswithabang/2021/01/18/machine-learning-finds-more-gravitational-lenses-than-all-astronomers-combined/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/startswithabang/2021/01/18/machine-learning-finds-more-gravitational-lenses-than-all-astronomers-combined/amp/",
-      "publishedDateTime": "2021-01-17T23:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-artificial-intelligence-used-in-bid-to-improve-coronavirus-treatment.md",
-      "title": "Artificial intelligence used in bid to improve coronavirus treatment",
-      "excerpt": "Artificial intelligence will be used in an effort to improve the treatment of coronavirus patients.Read more on 'Belfast Telegraph'",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-used-in-bid-to-improve-coronavirus-treatment-9703277",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-used-in-bid-to-improve-coronavirus-treatment-9703277",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/artificial-intelligence-used-in-bid-to-improve-coronavirus-treatment-9703277",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-used-in-bid-to-improve-coronavirus-treatment-9703277",
-      "publishedDateTime": "2021-01-17T22:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -85,6 +85,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Major Telco Disrupts Organized Fraud with Voice Biometrics"
+    excerpt: "Preventing fraud is a big responsibility. For telcos, the financial losses from fraud can be huge. But for customers, the impact of fraud can be catastrophic."
+    publishedDateTime: 2021-02-03T01:03:00Z
+    webUrl: "https://thefastmode.com/resources/nuance/2021-cs-organized-fraud/?source=middlebanner"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 24
+    images:
+      - url: "https://thefastmode.com/resources/nuance/2021-cs-organized-fraud/banner1400.jpg?"
+        width: 1024
+        height: 585
+        isCached: true
   - title: "Hikvision to deploy 1,900 cameras with face biometrics for $33M smart city contract"
     excerpt: "Hikvision has won a contract worth an estimated $33 million to install roughly 1,900 cameras with face biometrics as part of a smart city project."
     publishedDateTime: 2021-02-02T22:31:00Z

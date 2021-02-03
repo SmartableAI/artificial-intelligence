@@ -9,7 +9,7 @@ ampWebUrl: "https://meaww.com/amp/andy-jassy-net-worth-profile-amazon-new-incomi
 cdnAmpWebUrl: "https://meaww-com.cdn.ampproject.org/c/s/meaww.com/amp/andy-jassy-net-worth-profile-amazon-new-incoming-ceo-after-jeff-bezos-steps-down-later-in-2021-aws"
 type: article
 quality: 27
-heat: -1
+heat: 27
 published: false
 
 provider:
@@ -25,68 +25,6 @@ images:
     width: 800
     height: 420
     isCached: true
-
-related:
-  - title: "Jeff Bezos Will Step Down as Amazon CEO in Third Quarter of 2021"
-    excerpt: "Jeff Bezos will step down as CEO of Amazon and become Executive Chair of the Amazon Board in 2021 third quarter. Andy Jassy will become CEO. Bezos will focus on new products and early initiatives. As"
-    publishedDateTime: 2021-02-02T22:39:00Z
-    webUrl: "https://www.nextbigfuture.com/2021/02/jeff-bezos-will-step-down-as-amazon-ceo-in-third-quarter-of-2021.html"
-    ampWebUrl: "https://www.nextbigfuture.com/2021/02/jeff-bezos-will-step-down-as-amazon-ceo-in-third-quarter-of-2021.html?amp"
-    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/02/jeff-bezos-will-step-down-as-amazon-ceo-in-third-quarter-of-2021.html?amp"
-    type: article
-    provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 44
-    images:
-      - url: "https://www.nextbigfuture.com/wp-content/uploads/2018/10/amazonbezos-min-1024x584.jpg"
-        width: 1024
-        height: 584
-        isCached: true
-  - title: "What to Know About Jeff Bezos's Successor, Amazon's Next CEO Andy Jassy"
-    excerpt: "Amazon CEO Jeff Bezos announced that he would be stepping down from his position in Q3 of this year, and will be replaced by Amazon Web Services CEO Andy Jassy. At that point, Bezos will transition to executive chair of Amazon’s board."
-    publishedDateTime: 2021-02-02T22:47:00Z
-    webUrl: "https://www.townandcountrymag.com/society/money-and-power/a35398175/andy-jassy-amazon-ceo-news/"
-    ampWebUrl: "https://www.townandcountrymag.com/society/money-and-power/amp35398175/andy-jassy-amazon-ceo-news/"
-    cdnAmpWebUrl: "https://www-townandcountrymag-com.cdn.ampproject.org/c/s/www.townandcountrymag.com/society/money-and-power/amp35398175/andy-jassy-amazon-ceo-news/"
-    type: article
-    provider:
-      name: Town & Country
-      domain: townandcountrymag.com
-    quality: 44
-    images:
-      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/jeff-bezos-owner-of-blue-origin-introduces-a-new-lunar-news-photo-1612302458.?crop=1.00xw:0.672xh;0,0.210xh&resize=1200:*"
-        width: 1200
-        height: 602
-        isCached: true
-  - title: "AWS CEO Andy Jassy Named New Amazon CEO, Replacing Bezos"
-    excerpt: "CEO Andy Jassy – credited as the ‘father’ of cloud computing – will be the new CEO of parent company Amazon.com when founder Jeff Bezos steps down in the third quarter"
-    publishedDateTime: 2021-02-02T05:30:00Z
-    webUrl: "https://www.crn.com/news/cloud/aws-ceo-andy-jassy-named-new-amazon-ceo-replacing-bezos"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 39
-    images:
-      - url: "https://www.crn.com/resources/0266-117bc3194e6d-9c898b9db5c2-1000/jassy-andy-aws-cover.jpg"
-        width: 610
-        height: 457
-        isCached: true
-  - title: "Amazon.com Announces Financial Results and CEO Transition"
-    excerpt: "Founder and CEO Jeff Bezos will transition to role of Executive Chair in Q3, Andy Jassy to become Chief Executive Officer of Amazon at that timeSEATTLE--(BUSINESS WIRE)--Amazon.com, Inc. (NASDAQ: AMZN) today announced financial results for its fourth quarter ended December 31,"
-    publishedDateTime: 2021-02-02T21:22:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=415814"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 24
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/29/mark/20210129882520.jpg"
-        width: 580
-        height: 327
-        isCached: true
 
 secured: "jIGS1sm3BWZOYpYcsMic7HvjeJqQ2QLJGSrdJ/BrPOacpXMBt7ckp352oBNCXC8T6H20TCtdM3CwFb4izqaY9KWciEHOYvG6P4oEyFAOesv18Jt7q5xt0TIEE6YHCn7JGfcMwbotbjsTwiYFaEAD43DtdhFX+qHOeuUURRzfFIaeKTs6ITBbVbN5JJt0cg8fXoIt6XS936uqOybSlfvdbcaeGIo+dQj5Mxj2bEVT5KKjmEgT6Q6ci0hO+3JXP/Lrh61x1dKRLCIP+QbB+9S5OMRH8SaxCr6QpCFxHs3O84ols5WkLSD4xGpXKHp3P2p1BNJGxg/QG+NCrRVlVZW4+PzPzj4m4lDZGiTTEMe+ctM=;VbOyTM0cohYp8v/aLTsHiQ=="
 ---

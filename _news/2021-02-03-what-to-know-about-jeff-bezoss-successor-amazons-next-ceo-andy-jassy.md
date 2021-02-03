@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Bezos' Departure as CEO Shows Amazon Is a Cloud Company Now"
+    excerpt: "Andy Jassy, who helped create Amazon Web Services in 2006 and has run it since, will take over as chief executive later this year."
+    publishedDateTime: 2021-02-03T01:07:00Z
+    webUrl: "https://www.wired.com/story/bezos-departure-ceo-shows-amazon-cloud-company/"
+    ampWebUrl: "https://www.wired.com/story/bezos-departure-ceo-shows-amazon-cloud-company/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/bezos-departure-ceo-shows-amazon-cloud-company/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 74
+    images:
+      - url: "https://media.wired.com/photos/6019cab23453f789506008d0/master/pass/Sec_Bezos_1036084400.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "Jeff Bezos Will Step Down as Amazon CEO in Third Quarter of 2021"
     excerpt: "Jeff Bezos will step down as CEO of Amazon and become Executive Chair of the Amazon Board in 2021 third quarter. Andy Jassy will become CEO. Bezos will focus on new products and early initiatives. As"
     publishedDateTime: 2021-02-02T22:39:00Z
@@ -57,37 +73,7 @@ related:
         width: 610
         height: 457
         isCached: true
-  - title: "Who is Andy Jassy? All about Amazon's new CEO after Jeff Bezos steps down between July and September 2021"
-    excerpt: "Andy Jassy helped launch the Amazon Web Services (AWS) with a team of 57 people in 2003 and eventually became the CEO of the division. As of November 2020, Jassy's estimated net worth is $377 million"
-    publishedDateTime: 2021-02-02T23:59:00Z
-    webUrl: "https://meaww.com/andy-jassy-net-worth-profile-amazon-new-incoming-ceo-after-jeff-bezos-steps-down-later-in-2021-aws"
-    ampWebUrl: "https://meaww.com/amp/andy-jassy-net-worth-profile-amazon-new-incoming-ceo-after-jeff-bezos-steps-down-later-in-2021-aws"
-    cdnAmpWebUrl: "https://meaww-com.cdn.ampproject.org/c/s/meaww.com/amp/andy-jassy-net-worth-profile-amazon-new-incoming-ceo-after-jeff-bezos-steps-down-later-in-2021-aws"
-    type: article
-    provider:
-      name: Meaww
-      domain: meaww.com
-    quality: 27
-    images:
-      - url: "https://cheesecake.articleassets.meaww.com/520377/uploads/f1b1a910-65aa-11eb-bea0-fbd4614cd2cf_800_420.png"
-        width: 800
-        height: 420
-        isCached: true
-  - title: "Amazon.com Announces Financial Results and CEO Transition"
-    excerpt: "Founder and CEO Jeff Bezos will transition to role of Executive Chair in Q3, Andy Jassy to become Chief Executive Officer of Amazon at that timeSEATTLE--(BUSINESS WIRE)--Amazon.com, Inc. (NASDAQ: AMZN) today announced financial results for its fourth quarter ended December 31,"
-    publishedDateTime: 2021-02-02T21:22:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=415814"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 24
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/29/mark/20210129882520.jpg"
-        width: 580
-        height: 327
-        isCached: true
 
-secured: "Xpyx6lKPiSEp/kCf0IvhBx+HT8z+J1QQH43bRdVnqLKhfQr2HIxCYQUgdN3I8ZCljsa28iJ8Pp2qcsHQyZqYgTczOLiv8LXHCbiZBI9izaDXVpj5lEA37vBJp/s0hPEV9PecweetWcKT63yZQF1iulYrsmZMw9FZn05WgcLrNqBcyIKplIp1/LKUcPIZgYbTUTOVHNiiFnG+hQw7DfrCNLzFpNyzBMdLjLUC//xxFZYEuvQ//56WoqS6NibBw0vFK8uRZldGvWkgXJdFW9o6+cf2Nw0uR6EncxgFfjHCt1jaHAhwk6R0vLEFnvFkg5rwT/Cjq+dyX9OFe7EkYpmYe/MOrHyIE7GN0e5Cojck45o=;MLhj98FIEzklnp/kOTBHwA=="
+secured: "eHsjUsdL/wbi8SQCnKP8TFibeiStBL6DflwCREJDPXLfEFW8J3c6iAU4HGxLouYyasp+iDRl1QxXcDy0tdpPORBv3Y28oXMjNxwK03iuExYbXOv3Ro7RtqiNwtm0SXM/aX2RGB6SxhiYWklxrgu2wMSaon4AY18WBRKb6DoJqJvliSEp79bG9NYoNJAhEjcu4hI8q4PdNIOdPvUCUNGCMENMNyywvTroH+8qDpA+yS/IVHd1hSNGcR7kj7ZPgj7EUjNJ3i72oDwf1Hs1N5u3sI5PmkE+jcY/Qe8IezyBlpe6Aniv3HGOYzRaxNDoM0Qt92J1wZwRYEC+CRkVV4Zi8q6H1JeXEyHG1ugCWIECMDmQVH5F9faxeS4wWQxO811uDhFf+2wymWT/KNgLBbfuMqNMyZ8NTsvm/yPHtAngja3nPlgHw/inOylK/8Y8wmkRfRiS28QfN75CgnRXpXdZfr48Jnhg6Nijscv8rvzMEh+Lh5H2verscu0yckhwaUG9dRqgkUKeQKmE8FGXdu7PKg==;qRZ4wndyMLenhjTiqQlG6w=="
 ---
 

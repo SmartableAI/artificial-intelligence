@@ -2,6 +2,187 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-01-23-how-fintech-and-serial-founders-drove-african-pre-seed-investing-to-new-heights-in-2020.md",
+      "title": "How fintech and serial founders drove African pre-seed investing to new heights in 2020",
+      "excerpt": "When Stripe-subsidiary Paystack raised its seed round of $1.3 million in 2016, it was one of the largest disclosed rounds at that stage in Nigeria.  At the time, seven-figure seed investments in African startups were a rarity.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/01/22/how-fintech-and-serial-founders-drove-african-pre-seed-investing-to-new-heights-in-2020/",
+      "originalUrl": "https://techcrunch.com/2021/01/22/how-fintech-and-serial-founders-drove-african-pre-seed-investing-to-new-heights-in-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/01/africa-preseed-investment.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/01/22/how-fintech-and-serial-founders-drove-african-pre-seed-investing-to-new-heights-in-2020/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/22/how-fintech-and-serial-founders-drove-african-pre-seed-investing-to-new-heights-in-2020/amp/",
+      "publishedDateTime": "2021-01-22T23:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-23-technology-is-rapidly-changing-cancer-care.md",
+      "title": "Technology Is Rapidly Changing Cancer Care",
+      "excerpt": "The Watson platform was developed with ... to identify the best treatments for cancer patients. IBM Research has been exploring how AI systems could ingest raw data and support oncologists as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/saibala/2021/01/23/technology-is-rapidly-changing-cancer-care/",
+      "originalUrl": "https://www.forbes.com/sites/saibala/2021/01/23/technology-is-rapidly-changing-cancer-care/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600cc1fc7c71e2869dea3b6f%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/saibala/2021/01/23/technology-is-rapidly-changing-cancer-care/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2021/01/23/technology-is-rapidly-changing-cancer-care/amp/",
+      "publishedDateTime": "2021-01-22T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-23-staten-island-da-draws-criticism-for-facial-recognition-use.md",
+      "title": "Staten Island DA Draws Criticism for Facial Recognition Use",
+      "excerpt": "Critics argue the technology from Clearview AI treads on basic privacy and civil rights by collecting and storing data on individuals pulled from social media and Internet channels without their knowledge or consent.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/public-safety/Staten-Island-DA-Draws-Criticism-for-Facial-Recognition-Use.html",
+      "originalUrl": "https://www.govtech.com/public-safety/Staten-Island-DA-Draws-Criticism-for-Facial-Recognition-Use.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.govtech.com/images/shutterstock_1392652700.jpg",
+          "width": 939,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/public-safety/Staten-Island-DA-Draws-Criticism-for-Facial-Recognition-Use.html?AMP",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Staten-Island-DA-Draws-Criticism-for-Facial-Recognition-Use.html?AMP",
+      "publishedDateTime": "2021-01-22T15:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-23-tripadvisor-beats-speech-recognition-ip-suit-after-ptab-win.md",
+      "title": "TripAdvisor Beats Speech Recognition IP Suit After PTAB Win",
+      "excerpt": "Mimzi LLC on Thursday agreed to permanently dismiss an infringement suit against TripAdvisor LLC over a speech recognition patent after the Patent Trial and Appeal Board found all the claims invalid.",
+      "sourceUrl": null,
+      "webUrl": "https://www.law360.com/articles/1347471/tripadvisor-beats-speech-recognition-ip-suit-after-ptab-win",
+      "originalUrl": "https://www.law360.com/articles/1347471/tripadvisor-beats-speech-recognition-ip-suit-after-ptab-win",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.law360.com/amp/articles/1347471",
+      "cdnAmpWebUrl": "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1347471",
+      "publishedDateTime": "2021-01-22T14:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Law360",
+        "domain": "law360.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-22-multi-account-model-deployment-with-amazon-sagemaker-pipelines.md",
       "title": "Multi-account model deployment with Amazon SageMaker Pipelines",
       "excerpt": "Amazon SageMaker Pipelines is the first purpose-built CI/CD service for machine learning (ML). It helps you build, automate, manage, and scale end-to-end ML workflows and apply DevOps best practices of CI/CD to ML (also known as MLOps). Creating multiple accounts to organize all the resources of your",
@@ -1000,195 +1181,6 @@
         "Google AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-hybrid-roles-the-new-norm-ielts-azure-software-testing-in-demand.md",
-      "title": "‘Hybrid roles, the new norm: IELTS, Azure, software testing in demand’",
-      "excerpt": "The report is based on data from the global companies using the Udemy for Business platform and a survey of more than 500 learning and development professionals.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/business/economy/hybrid-roles-the-new-norm-ielts-azure-software-testing-in-demand-7156602/",
-      "originalUrl": "https://indianexpress.com/article/business/economy/hybrid-roles-the-new-norm-ielts-azure-software-testing-in-demand-7156602/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2020/12/e-class-1200.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/business/economy/hybrid-roles-the-new-norm-ielts-azure-software-testing-in-demand-7156602/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/business/economy/hybrid-roles-the-new-norm-ielts-azure-software-testing-in-demand-7156602/lite/",
-      "publishedDateTime": "2021-01-21T14:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-new-google-union-concerned-after-a-senior-ai-ethics-researcher-is-reportedly-locked-out-of-her-account.md",
-      "title": "New Google union ‘concerned’ after a senior A.I. ethics researcher is reportedly locked out of her account",
-      "excerpt": "The Alphabet Workers Union has said it is concerned over Google's decision to lock Margaret Mitchell, a senior AI ethics researcher, out of her account.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/01/21/margaret-mitchell-google-investigating-ai-researcher-awu-concerned.html",
-      "originalUrl": "https://www.cnbc.com/2021/01/21/margaret-mitchell-google-investigating-ai-researcher-awu-concerned.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/103724796-GettyImages-461180134.jpg?v=1532564092",
-          "width": 3000,
-          "height": 1978,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/01/21/margaret-mitchell-google-investigating-ai-researcher-awu-concerned.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/21/margaret-mitchell-google-investigating-ai-researcher-awu-concerned.html",
-      "publishedDateTime": "2021-01-21T14:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-how-ai-has-completely-transformed-medtech.md",
-      "title": "How AI Has Completely Transformed Medtech",
-      "excerpt": "There are countless ways in which AI is transforming medtech, which explains why the global software revenue from its top cases in healthcare will grow from $3.7 billion in 2019 to nearly $67 billion by 2027.",
-      "sourceUrl": null,
-      "webUrl": "https://entrepreneur.com/article/362355",
-      "originalUrl": "https://entrepreneur.com/article/362355",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1610729074-GettyImages-1125116173.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/362355",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/362355",
-      "publishedDateTime": "2021-01-21T12:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-designing-customized-brains-for-robots.md",
-      "title": "Designing customized \"brains\" for robots",
-      "excerpt": "MIT researchers have developed an automated way to design customized hardware that speeds up a robot's operation. The system, called robomorphic computing, accounts for the robot's physical layout in suggesting an optimized hardware architecture.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2021-01/miot-dc012021.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-01/miot-dc012021.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-21T10:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Military Market to Witness Astonishing Growth With Vital Key Players | Leidos Inc, Thales Group"
-    excerpt: "A consciously conceived and designed business intelligence report titled Global Artificial Intelligence in Military market 2021 by Manufacturers, Type, and Application, Forecast to 2030 by MarketResearch."
-    publishedDateTime: 2021-01-29T10:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-to-witness-astonishing-growth-with-vital-key-players-leidos-inc-thales-group-2021-01-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "4qJp1FwgfNs235trwHnB3OugvVPg/Sd9k7oDevC+W/fM4cxwNFvyJ63SZes4FAEbEFahZ1iBEmPC2yjtBVFvp5c+QMoKfFHx61Nb0bE48h95Y8LMaqvcd587pZe9TLTwFag7EJH5tUxpdwd8VWnHGhWSrQrw+E4AB1KO6lC7FWnR+JziYZ4nCouDUhRG0G94oWLumSlK6pj8CvIDrfyWZ0cCUK1k0OZiAqM68scPQx8ZybslVpPpunurhxcGX6PtzL2lt80+QcpkGWPpRDI96LBXwk/kVYN13vYds28TgLfBFd5PucZpstEBI2vlk3UhUhHrR9yLTbRdsSo7t3upee27cd4u2f1UueDJ61aEcyI=;xFdy+jW2+B7Fg953R+yF3Q=="
 ---

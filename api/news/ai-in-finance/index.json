@@ -55,6 +55,41 @@
       ]
     },
     {
+      "path": "_news/2021-02-03-abu-dhabis-etihad-airways-taps-microsoft-to-modernise-its-finance-operations.md",
+      "title": "Abu Dhabi's Etihad Airways taps Microsoft to modernise its finance operations",
+      "excerpt": "Etihad Airways has turned to Microsoft AI to transform its Finance Operations, which is comprised of the company’s Finance and Digital, Technology and Innovation divisions. The move saw the Abu Dhabi-based carrier work with Microsoft to modernise its payment inspection process using cognitive services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itp.net/emergent-tech/95876-abu-dhabis-etihad-airways-taps-microsoft-to-modernise-its-finance-operations",
+      "originalUrl": "https://www.itp.net/emergent-tech/95876-abu-dhabis-etihad-airways-taps-microsoft-to-modernise-its-finance-operations",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itp.net/emergent-tech/95876-abu-dhabis-etihad-airways-taps-microsoft-to-modernise-its-finance-operations?amp",
+      "cdnAmpWebUrl": "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/emergent-tech/95876-abu-dhabis-etihad-airways-taps-microsoft-to-modernise-its-finance-operations?amp",
+      "publishedDateTime": "2021-02-02T10:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GDPR fines",
+        "domain": "itp.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-02-03-fintech-integrator-50-.md",
       "title": "\"Fintech Integrator\" - ინიციატივა 5.0-ის ფარგლებში ჰაკათონი ჩატარდება",
       "excerpt": "Fintech Integrator“ ინიციატივა 5.0–ის ფარგლებში ფინტექის მიმართულებით დაგეგმილი აქტივობებს შორის ერთ–ერთი ღონისძიებაა. ჰაკათონი 13–14 მარტს გაიმართება და მასში მონაწილეობა ყველა დაინტერესებულ ადამიანს შეეძლება.",
@@ -332,6 +367,49 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-fintech-2020-while-the-world-waits-we-work.md",
+      "title": "FinTech 2020: While The World Waits, We Work",
+      "excerpt": "A world-wide health crisis leaves a trail of destruction that moves through space and time. Beyond the horrible loss of life, people are stuck away from their family",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/fintech/21/01/19391085/fintech-2020-while-the-world-waits-we-work",
+      "originalUrl": "https://www.benzinga.com/fintech/21/01/19391085/fintech-2020-while-the-world-waits-we-work",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/files/images/story/2012/pexels-vlada-karpovich-4050296.jpg",
+          "width": 6121,
+          "height": 4081,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/19391085",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19391085",
+      "publishedDateTime": "2021-01-29T05:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
       ]
     },
     {
@@ -875,6 +953,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-25-how-2021-will-reshape-southeast-asias-financial-services-ecosystem.md",
+      "title": "How 2021 will reshape Southeast Asia’s financial services ecosystem",
+      "excerpt": "Across Southeast Asia, financial institutions faced challenges such as squeezing margins, increasing costs, heightening asset risk and reducing demand in some segments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/how-2021-reshape-southeast-asias-financial-services-ecosystem-thung/",
+      "originalUrl": "https://www.linkedin.com/pulse/how-2021-reshape-southeast-asias-financial-services-ecosystem-thung/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQGn-n6dictFEA/article-cover_image-shrink_720_1280/0/1611546037655?e=1617840000&v=beta&t=-aFJCwFtY7K1UuEHb8vJ9LESwZvr5CoWnWaq1fjn-yU",
+          "width": 1180,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-24T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-24-seven-ways-ai-can-help-govts-transform-public-services.md",
       "title": "Seven ways AI can help govts transform public services",
       "excerpt": "Governments are starting to explore the potential of AI and can work with policy-makers, public servants and data scientists to fully realise its benefits.",
@@ -1286,145 +1416,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-blockchain-beyond-bitcoin-transforming-fintech-healthcare-and-more.md",
-      "title": "Blockchain Beyond Bitcoin: Transforming FinTech, Healthcare, And More",
-      "excerpt": "The origin of blockchain dates back to 1991, when researchers Stuart Haber and W. Scott Stornetta outlined a system to document timestamps that could not be altered. However, it is most widely known as the underpinning of Bitcoin,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2021/01/15/blockchain-beyond-bitcoin-transforming-fintech-healthcare-and-more/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2021/01/15/blockchain-beyond-bitcoin-transforming-fintech-healthcare-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6001bffef1677f1270da7683%2F0x0.jpg",
-          "width": 1200,
-          "height": 593,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2021/01/15/blockchain-beyond-bitcoin-transforming-fintech-healthcare-and-more/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/01/15/blockchain-beyond-bitcoin-transforming-fintech-healthcare-and-more/amp/",
-      "publishedDateTime": "2021-01-15T08:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-broadridge-partners-with-ai-company-fligoo-providing-innovative-predictive-analytics-to-wealth-management.md",
-      "title": "Broadridge Partners with AI Company Fligoo, Providing Innovative Predictive Analytics to Wealth Management",
-      "excerpt": "Enabling banks and wealth management firms to better leverage data through artificial intelligence (AI), Broadridge Financial Solutions, Inc. (NYSE:BR), a global Fintech leader, has announced a collaboration with AI company Fligoo to develop a suite of proprietary predictive analytics software products for the wealth management industry.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-e03c025b09ba987d292a32cf31c15a0b",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-e03c025b09ba987d292a32cf31c15a0b",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-13T06:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-us-fintech-artis-announces-new-bank-funding-partneship-with-drummond-community-bank.md",
-      "title": "U.S. Fintech Artis Announces New Bank Funding Partneship With Drummond Community Bank",
-      "excerpt": "Artis Technologies, a U.S.-based fintech that provides lending solutions for businesses, announced on Tuesday it has entered into a new bank funding partnership with Drummond Community Bank for its Artis Credit platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2021/01/171151-u-s-fintech-artis-announces-new-bank-funding-partneship-with-drummond-community-bank/",
-      "originalUrl": "https://www.crowdfundinsider.com/2021/01/171151-u-s-fintech-artis-announces-new-bank-funding-partneship-with-drummond-community-bank/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/benjamin-vladimir-solomyani-unsplash-600x400.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2021/01/171151-u-s-fintech-artis-announces-new-bank-funding-partneship-with-drummond-community-bank/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/01/171151-u-s-fintech-artis-announces-new-bank-funding-partneship-with-drummond-community-bank/amp/",
-      "publishedDateTime": "2021-01-12T06:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

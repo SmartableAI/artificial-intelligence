@@ -2,6 +2,143 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-02-microsoft-launches-open-ai-energy-initiative-in-partnership-with-shell-c3-ai-others.md",
+      "title": "Microsoft launches Open AI Energy Initiative in partnership with Shell, C3 AI, others",
+      "excerpt": "Microsoft has launched the Open AI Energy Initiative in collaboration with Shell, C3 AI, and Baker Hughes. It aims to offer AI-based scalable and interoperable solutions for the energy sector.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/microsoft-launches-open-ai-energy-initiative-in-partnership-with-shell-c3-ai-others",
+      "originalUrl": "https://www.neowin.net/news/microsoft-launches-open-ai-energy-initiative-in-partnership-with-shell-c3-ai-others",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2017/07/1499866975_microsoft-ai-for-earth_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/microsoft-launches-open-ai-energy-initiative-in-partnership-with-shell-c3-ai-others/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-launches-open-ai-energy-initiative-in-partnership-with-shell-c3-ai-others/",
+      "publishedDateTime": "2021-02-01T18:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-scientists-developing-quantum-brain-for-human-thinking-robots.md",
+      "title": "Scientists Developing \"Quantum Brain\" for Human-Thinking Robots",
+      "excerpt": "It was but a matter of time before robots roam the land with a processing unit similar to that of a human brain, and according to researchers from Radboud University, that time could be now. In a new journal entry in Nature Nanotechnology,",
+      "sourceUrl": null,
+      "webUrl": "https://comicbook.com/irl/news/scientists-quantum-brain-device-revealed-artificial-intelligence/",
+      "originalUrl": "https://comicbook.com/irl/news/scientists-quantum-brain-device-revealed-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.comicbook.com/files/images/default.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://comicbook.com/irl/amp/news/scientists-quantum-brain-device-revealed-artificial-intelligence/",
+      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/irl/amp/news/scientists-quantum-brain-device-revealed-artificial-intelligence/",
+      "publishedDateTime": "2021-02-01T18:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Comicbook.com",
+        "domain": "comicbook.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-slas-technology-special-collection-on-artificial-intelligence-in-process-automation-now-available.md",
+      "title": "SLAS Technology Special collection on artificial intelligence in process automation now available",
+      "excerpt": "SLAS Technology Special collection on artificial intelligence in process automation now available Newswise - Oak Brook, IL - The February",
+      "sourceUrl": null,
+      "webUrl": "https://www.compsmag.com/news/technology/slas-technology-special-collection-on-artificial-intelligence-in-process-automation-now-available/",
+      "originalUrl": "https://www.compsmag.com/news/technology/slas-technology-special-collection-on-artificial-intelligence-in-process-automation-now-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/SLAS-Technology-Special-collection-on-artificial-intelligence-in-process-automation-1024x1024.jpg",
+          "width": 1024,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.compsmag.com/news/technology/slas-technology-special-collection-on-artificial-intelligence-in-process-automation-now-available/amp/",
+      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/slas-technology-special-collection-on-artificial-intelligence-in-process-automation-now-available/amp/",
+      "publishedDateTime": "2021-02-01T15:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "compsmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-02-using-ai-to-speed-up-the-covid-vaccination-process-podcast.md",
       "title": "Using AI To Speed Up the Covid Vaccination Process (Podcast)",
       "excerpt": "Sean Lane, CEO of Olive, talks about using technology to speed up the Covid vaccination process. Bloomberg News Investing Reporter Annie Massa shares insight on Robinhood relaxing trading curbs. Bloomberg Businessweek Editor Joel Weber and Businessweek Economics Editor Peter Coy discuss the story “Market Manipulation Is a Controversial Concept in Securities Law.",
@@ -219,7 +356,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-machine-learning-as-a-service-market-2020-with-covid-19-impact-analysis-and-forecast-by-2025-2021-02-01",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -573,7 +710,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/01/self-driving-cars-are-faced-with-too-many-moving-objects-and-too-little-time/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -1089,162 +1226,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream.md",
-      "title": "Microsoft's cutting-edge machine-learning tool moves from the lab to the mainstream",
-      "excerpt": "Machine learning that can explore the world can solve different problems. These are the Microsoft services that make it something mainstream developers can use.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/",
-      "originalUrl": "https://www.techrepublic.com/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 200,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2021/02/01/1b622622-e749-47c0-9c60-ed09ab784bbe/resize/400x/f50dcab974e7e9400bbc49f5c9acb474/rl-wikipedia-2.jpg",
-          "width": 400,
-          "height": 388,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/",
-      "publishedDateTime": "2021-02-01T04:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-to-add-value-to-your-business-dont-treat-data-and-ai-as-islands.md",
-      "title": "To Add Value To Your Business, Don't Treat Data And AI As Islands",
-      "excerpt": "The best strategy is one that can connect enterprise data and AI-related efforts to everything we care about and turn data into intelligent experiences.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/01/to-add-value-to-your-business-dont-treat-data-and-ai-as-islands/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/01/to-add-value-to-your-business-dont-treat-data-and-ai-as-islands/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f99ceb378494ab149d9081a%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/01/to-add-value-to-your-business-dont-treat-data-and-ai-as-islands/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/01/to-add-value-to-your-business-dont-treat-data-and-ai-as-islands/amp/",
-      "publishedDateTime": "2021-02-01T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-how-computer-vision-and-ai-make-new-revenue-from-old-media.md",
-      "title": "How Computer Vision And AI Make New Revenue From Old Media",
-      "excerpt": "Ryff can place new products in old media, creating new integrated advertising opportunities where there were none.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/charliefink/2021/02/01/how-computer-vision-and-ai-make-new-revenue-from-old-media/",
-      "originalUrl": "https://www.forbes.com/sites/charliefink/2021/02/01/how-computer-vision-and-ai-make-new-revenue-from-old-media/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6017508d4c82f5970c432c25%2F0x0.jpg",
-          "width": 1200,
-          "height": 673,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2021/02/01/how-computer-vision-and-ai-make-new-revenue-from-old-media/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2021/02/01/how-computer-vision-and-ai-make-new-revenue-from-old-media/amp/",
-      "publishedDateTime": "2021-02-01T03:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

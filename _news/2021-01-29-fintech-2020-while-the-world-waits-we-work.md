@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/19391085"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19391085"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: Benzinga.com
@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Top 5 Fintech Trends That Will Shape Financial Markets in 2021"
-    excerpt: "The popularity of fintech has spiked in recent times. Here's how FinTech will shape the global financial market in 2021."
-    publishedDateTime: 2021-01-29T10:30:00Z
-    webUrl: "https://www.entrepreneur.com/article/362981"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/362981"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/362981"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 74
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1611768140-GettyImages-1180543383.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Learn How to Invest in A Trillion-Dollar Industry With This $40 Fintech Bootcamp"
-    excerpt: "The latest innovation since the internet is here and you need to invest in it. Finance meets technology in this fintech bootcamp bundle."
-    publishedDateTime: 2021-02-02T10:00:00Z
-    webUrl: "https://www.blackenterprise.com/learn-how-to-invest-in-a-trillion-dollar-industry-with-this-40-fintech-bootcamp/"
-    ampWebUrl: "https://www.blackenterprise.com/learn-how-to-invest-in-a-trillion-dollar-industry-with-this-40-fintech-bootcamp/amp/"
-    cdnAmpWebUrl: "https://www-blackenterprise-com.cdn.ampproject.org/c/s/www.blackenterprise.com/learn-how-to-invest-in-a-trillion-dollar-industry-with-this-40-fintech-bootcamp/amp/"
-    type: article
-    provider:
-      name: Black Enterprise
-      domain: blackenterprise.com
-    quality: 39
-    images:
-      - url: "https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2021/01/andre-francois-mckenzie-JrjhtBJ-pGU-unsplash.jpg"
-        width: 1000
-        height: 668
-        isCached: true
   - title: "Must-watch Startups in Africa’s Fintech Space in 2021"
     excerpt: "More than $1.07 billion flowed into Africa’s startups in 2020, with the fintech sector accounting for 31% of this funding."
     publishedDateTime: 2021-01-30T20:01:00Z
@@ -87,24 +55,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Abu Dhabi's fintech opportunity"
-    excerpt: "Fintech, the confluence of financial services, products and regulation with technology, is shaking up the world of finance at an unprecedented rate. From automated compliance to cross border payments, AI-driven trading algorithms and the brave new world of ..."
-    publishedDateTime: 2021-02-02T14:48:00Z
-    webUrl: "https://www.arabianbusiness.com/comment/458149-abu-dhabis-fintech-opportunity"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 4
-  - title: "Dallas fintech startup takes top prize at Impact Ventures pitch competition"
-    excerpt: "Capping of the completion of its first fully-virtual – and second-ever – cohort, a few of its graduating members walked away from Impact Ventures’ accelerator program with more than just knowledge, after landing funding at its digital showcase and demo day pitch competition this past weekend."
-    publishedDateTime: 2021-02-02T17:06:00Z
-    webUrl: "https://www.bizjournals.com/dallas/inno/stories/fundings/2021/02/02/algopear-wins-impact-ventures-pitch-competition.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 2
 
 secured: "hkGWDDVR6AUFcx5+R8hJEKzMb6h45dmN/BPowKjY1Q+zTS5CpJQHEKpe2oqrKvHhLbCx89hP+Z1PgRHkM8uuL7EgtSNQK40PciHDg3rRR6TosfTZv42dmlHbHmTGPAg3tzLddjZtw9AsV2YYnjVD6ufWHMdCaiYlVGSrRtbHSoGHFEqN9rpGpcFNAZijNsMYdFj4iHxo0lsvdBOmXQC9RtDSDue3ndnpQ9nx7ztwgOI7oGkELIAlKn9fAAMzgxGI7fznezCdhFDZgUFxEodIZXWGsGIR8Z5vepuRIZroVcdeK5t9IaxnMEMJlVr3xYU+AA/J0r/V8Okq7fVL9C5vN4/T2Dt3uf02Flxu8dPzjDw=;l/1VmCikTlLEVzxwJpusmg=="
 ---

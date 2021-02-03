@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Military Market to Witness Astonishing Growth With Vital Key Players | Leidos Inc, Thales Group"
-    excerpt: "A consciously conceived and designed business intelligence report titled Global Artificial Intelligence in Military market 2021 by Manufacturers, Type, and Application, Forecast to 2030 by MarketResearch."
-    publishedDateTime: 2021-01-29T10:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-to-witness-astonishing-growth-with-vital-key-players-leidos-inc-thales-group-2021-01-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Autonomous Cars Market | Worldwide Industry Share, Size, Gross Margin, Trend, Future Demand, Analysis by Top Leading Player and Forecast Till 2027"
     excerpt: "Autonomous Cars Market is set to grow exponentially owing to the increasing development of the ride-hailing technology. Hence, numerous industry giants are investing hefty amounts of money in the field of driverless ride-sharing."
     publishedDateTime: 2021-02-01T15:49:00Z

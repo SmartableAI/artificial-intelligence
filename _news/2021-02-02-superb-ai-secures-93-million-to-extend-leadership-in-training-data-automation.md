@@ -25,33 +25,75 @@ topics:
   - AI
 
 related:
-  - title: "Rescale Raises $50 Million in Series C Funding"
-    excerpt: "Rescale, the leading hybrid HPC cloud platform enabling intelligent computing for digital R&D, today announced it has closed $50 million in Series C funding from Hitachi Ventures, Microsoft's M12, Nautilus Venture Partners,"
-    publishedDateTime: 2021-02-02T14:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/rescale-raises-50-million-in-series-c-funding-2021-02-02"
+  - title: "Automating complex deep learning model training using Amazon SageMaker Debugger and AWS Step Functions"
+    excerpt: "Amazon SageMaker Debugger can monitor ML model parameters, metrics, and computation resources as the model optimization is in progress. You can use it to identify issues during training, gain insights, and take actions like stopping the training or sending notifications through built-in or custom actions."
+    publishedDateTime: 2021-02-03T01:10:10Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/automating-complex-deep-learning-model-training-using-amazon-sagemaker-debugger-and-aws-step-functions/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
+      name: AWS
+      domain: aws.amazon.com
+    quality: 120
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        width: 768
+        height: 385
         isCached: true
-  - title: "Superb AI Raises $9.3M in Series A Funding"
-    excerpt: "Superb AI, a San Mateo, Calif.-based provider of AI-enabled training data platforms, completed a $9.3m Series A round of financing"
-    publishedDateTime: 2021-02-02T19:00:00Z
-    webUrl: "https://www.finsmes.com/2021/02/superb-ai-raises-9-3m-in-series-a-funding.html"
+  - title: "Setting up an IVR to collect customer feedback via phone using Amazon Connect and AWS AI Services"
+    excerpt: "As many companies place their focus on customer centricity, customer feedback becomes a top priority. However, as new laws are formed, for instance GDPR in Europe, collecting feedback from customers can become increasingly difficult. One means of collecting this feedback is via phone. When a customer"
+    publishedDateTime: 2021-02-02T15:28:45Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/setting-up-an-ivr-to-collect-customer-feedback-via-phone-using-amazon-connect-and-aws-ai-services/"
     type: article
     provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 39
+      name: AWS
+      domain: aws.amazon.com
+    quality: 91
     images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2021/02/Superb-AI.jpg"
-        width: 400
-        height: 400
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/01/08/ML-1454-1.jpg"
+        width: 800
+        height: 345
+        isCached: true
+  - title: "Performing anomaly detection on industrial equipment using audio signals"
+    excerpt: "Industrial companies have been collecting a massive amount of time-series data about operating processes, manufacturing production lines, and industrial equipment. You might store years of data in historian systems or in your factory information system at large. Whether you’re looking to prevent equipment"
+    publishedDateTime: 2021-01-29T20:29:57Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/performing-anomaly-detection-on-industrial-equipment-using-audio-signals/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 73
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/22/ML-1479-1.jpg"
+        width: 800
+        height: 272
+        isCached: true
+  - title: "Google employees consider jumping ship for Facebook and Microsoft after firings, reorgs and mounting tension in its AI division"
+    excerpt: "Google's commitment to building ethical AI has been thrown into question as tensions between employees and management continue to flare."
+    publishedDateTime: 2021-02-02T19:46:00Z
+    webUrl: "https://www.businessinsider.com/sundar-pichai-to-build-ethical-ai-detonated-battle-inside-google-2021-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
+    images:
+      - url: "https://i.insider.com/6018d1106dfbe10018e0135d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Head motion classification using thread-based sensor and machine learning algorithm"
+    excerpt: "Human machine interfaces that can track head motion will result in advances in physical rehabilitation, improved augmented reality/virtual reality systems, and aid in the study of human behavior. This paper presents a head position monitoring and classification system using thin flexible strain sensing threads placed on the neck of an individual."
+    publishedDateTime: 2021-01-29T12:00:00Z
+    webUrl: "https://www.nature.com/articles/s41598-021-81284-7"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 33
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-81284-7/MediaObjects/41598_2021_81284_Fig1_HTML.png"
+        width: 685
+        height: 436
         isCached: true
 
 secured: "tcybT+mONVT49kh0d1N0ZWH4fBGk6cUPpHTDP22YDay5+Lqx+D8zNCmZAwwoGK/nq7lkkm5ySLHpLT2SN27tbca6eELCpR5xJW82TRE4OtSDPOfQfPpA6rz+L1HBJwsAHAi3CEt48bsqPMhREB2CIm0DEPNKFtLaiTkvccDQ38aAgpzvP1hyv7O1gXAEvnAf0cEZdlswBS2q6nIgyVrKmq5QZAT9Kld1192mnPj+JcOg0mmD8mqCgfo1ChH76e5MJlv1rEiPodm16YAOhQVd3xlLgNHUL3bhwM/PCW4hdyZblgZ2pgaMl8w4yKkBq2hHl3wuGDYM92g7+AmIjFGAZUByr41j8NggWaBU1uBg78E=;pzBV1eVNkTVADI8eXkNgrQ=="

@@ -43,22 +43,6 @@ related:
         width: 1600
         height: 899
         isCached: true
-  - title: "Spotify wants to analyse your VOICE and suggest songs based on your emotions, patent reveals"
-    excerpt: "Spotify was granted a patent on January 12 that lets them listen to your voice to determine your age, gender, accent and current emotional state to pick songs you might want to hear."
-    publishedDateTime: 2021-01-29T10:32:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-9201017/Spotify-wants-analyse-VOICE-suggest-songs-based-emotions-patent-reveals.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9201017/amp/Spotify-wants-analyse-VOICE-suggest-songs-based-emotions-patent-reveals.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9201017/amp/Spotify-wants-analyse-VOICE-suggest-songs-based-emotions-patent-reveals.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 33
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2021/01/29/10/38627706-0-image-a-8_1611916146087.jpg"
-        width: 636
-        height: 382
-        isCached: true
 
 secured: "2UgZTGgvJt/TYDSoUGlfiLQ/NIkvO+xGzoldDwhEEz/pBuJzQpvaJt0iuv2SVstdpu5JFIG8EqpXsUeYgfEPPFx+uxd0xELRGzy6JovX2KXWZOlw21a8ATu4n0ycMIQ/W67ybIQG6G83YPMiB7jSWCO122q1jaMZ5FCI523liEcVTmKwJTck5wXqPkWuJj3F7hfG5Hfrr3B8/gn6l48moxRXWP4jWpGSx8xL6GS8otH6Iifu5Vc0NijaKR14Afp8IDXey1tnqp4ffy+Jz9drR9KNYdj3nb8oYVWINwto/DbbaJH57G02baWrTS5RPuMc8Rt3pgdgOaptyWO1scVBHy3OVd+t6T8lNxLTDckgFpeIcocQaEw/7agVczHDDanbthcKXUTrlTAdXZbvmxqZcsiZCPkNPH6ziV0KRCNw5Qn42Np3jvwasEO5spq5YErMX98FDy0wbwhePy+k0n2NjkqDNptT2/M/1ptTdRdEavD2NmMCJffbUddj8Rz45zeLP/XwEHFibHa94kXJQoN3XA==;rgwfVTwdtQVBXsmAZnY4oQ=="
 ---

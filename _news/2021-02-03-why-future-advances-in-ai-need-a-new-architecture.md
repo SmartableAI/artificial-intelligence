@@ -8,7 +8,7 @@ webUrl: "https://www.nextplatform.com/2021/02/02/why-future-advances-in-ai-need-
 ampWebUrl: "https://www.nextplatform.com/2021/02/02/why-future-advances-in-ai-need-a-new-architecture/amp/"
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/02/02/why-future-advances-in-ai-need-a-new-architecture/amp/"
 type: article
-quality: 61
+quality: 63
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ topics:
   - Natural Language Processing
   - AI
   - AI Hardware
+  - Google AI
 
 images:
   - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/samba-nova-logo.jpg"
@@ -55,20 +56,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 69
-  - title: "Global Artificial Intelligence (Ai) In Insurance Market Trend: Here's How High The Market Will Go In 2021"
-    excerpt: "Global Artificial Intelligence (AI) in Insurance Market 2021: By Type: (Software, Platform); By End Use Industry: (Life Insurance, Car Insurance, Property Insurance); By Leading Players: (Google, Microsoft Corporation,"
-    publishedDateTime: 2021-01-29T09:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-insurance-market-trend-heres-how-high-the-market-will-go-in-2021-2021-01-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "ChA3YFcFHSIBs5EFaYKIhkRO3CFdJ/9/WyLz3iQDUBC0RMnVa52iWq2LH0iJCTPxf+SejD6T/eqwXiSp5tmHcC5Uwr82VSbZ/rf49ZnspBtniyLT4jp70fkyLC3Z9QJqCP2UNOkZ98CGaJhb9WoRCrhx5CIjhAbnZS1198ftweIp/zLcWMrusNg8FFYIiEz/kkJTQ/EE+M6eUOuxS58i2kSBAzVDJZgkAELtCqDPpzXxZsoKGavVrPa1+MPMVX7Ze4E5j/R7pCoozqptRqFxzsOwSfsmgcMt7mEq//2IMpjOgOun7JnjcFMnm3vayqsI2FMbYM2bVS1ycojCCQ7BTFWtMKXZx4Cld9oPspkVEKxE38NEC9VFeeADHLdZLKsRYt4zyo2zoJu6w0tK+ztrXmAVzgQpKxGbfDirK22pxjTch73gMpBmzIsuUptNAwMytSjxWKSSyoX2kpvT5IfObfOq0v/15zbYPnKy/SamHdkoCk/8uyQA5grz4NL166e8cd5rtl8wmHeVLoYOBO61mg==;Dq/I1IfFra5vRzTtGNZbrg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-analysis-by-growth-emerging-trends-and-future-opportunities-2021-01-29"
 type: article
 quality: 63
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Military Market to Witness Astonishing Growth With Vital Key Players | Leidos Inc, Thales Group"
-    excerpt: "A consciously conceived and designed business intelligence report titled Global Artificial Intelligence in Military market 2021 by Manufacturers, Type, and Application, Forecast to 2030 by MarketResearch."
-    publishedDateTime: 2021-01-29T10:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-to-witness-astonishing-growth-with-vital-key-players-leidos-inc-thales-group-2021-01-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

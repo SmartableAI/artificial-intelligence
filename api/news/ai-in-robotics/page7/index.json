@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-12-05-new-wmg-ai-algorithms-raises-hope-for-human-like-robot-hands.md",
+      "title": "New WMG AI algorithms raises hope for human-like Robot hands",
+      "excerpt": "Researchers at WMG, University of Warwick, have produced groundbreaking artificial intelligence algorithms that enable a robot to perform dexterous manipulation of objects just like humans. While dexterous manipulation of objects is a basic and perfunctory task for humans,",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2020/12/04/new-wmg-ai-algorithms-raises-hope-for-human-like-robot-hands/",
+      "originalUrl": "https://www.gizmochina.com/2020/12/04/new-wmg-ai-algorithms-raises-hope-for-human-like-robot-hands/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2020/12/robot.png",
+          "width": 600,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-04T11:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-04-how-artificial-intelligence-could-widen-the-gap-between-rich-and-poor-nations.md",
       "title": "How Artificial Intelligence Could Widen the Gap Between Rich and Poor Nations",
       "excerpt": "New technologies like artificial intelligence, machine learning, robotics, big data, and networks are expected to revolutionize production processes, but they could also have a major impact on ...",
@@ -1288,58 +1340,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-do-you-have-a-conflict-of-interest-this-robotic-assistant-may-find-it-first.md",
-      "title": "Do You Have a Conflict of Interest? This Robotic Assistant May Find It First",
-      "excerpt": "They can’t detect all conflicts, but new computer programs serve as guard rails when scientists and publishers fail to self-police.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/23/science/conflict-of-interest-ai.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/23/science/conflict-of-interest-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/11/24/science/24SCI-CONFLICTSCOLOR/24SCI-CONFLICTSCOLOR-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/23/science/conflict-of-interest-ai.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/23/science/conflict-of-interest-ai.amp.html",
-      "publishedDateTime": "2020-11-23T13:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -52,20 +52,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 24
-  - title: "App from VEMI Lab group will help people with visual impairments, seniors enjoy ride sharing with self-driving cars"
-    excerpt: "Self-driving cars will offer access to ride-sharing and ride-hailing with their suite of modern conveniences. However, many people with visual"
-    publishedDateTime: 2021-02-02T16:52:00Z
-    webUrl: "https://bangordailynews.com/2021/02/02/bdn-maine/app-from-vemi-lab-group-will-help-people-with-visual-impairments-seniors-enjoy-ride-sharing-with-self-driving-cars/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 17
-    images:
-      - url: "https://i1.wp.com/bdn-data.s3.amazonaws.com/uploads/2020/06/BDN-Web-Masthead-01.png?fit=5000%2C3200&#038;ssl=1"
-        width: 5000
-        height: 3200
-        isCached: true
   - title: "Global Self-Driving Truck Technology Market 2020 Key Stakeholders, Subcomponent Manufacturers, Industry Association and Key Drivers Analysis to 2025"
     excerpt: "The latest market research report titled Global Self-Driving Truck Technology Market 2020 by Company, Type and Application, Forecast to 2025 reveals the overview of the global industry, encompassing the latest industry data and industry future trends,"
     publishedDateTime: 2021-02-02T06:27:00Z

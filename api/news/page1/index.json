@@ -2,6 +2,163 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-03-vw-group-will-handle-self-driving-car-development-in-house-report-says.md",
+      "title": "VW Group will handle self-driving car development in-house, report says",
+      "excerpt": "Not only is developing self-driving car technology incredibly difficult, but it's also expensive. That has led many car companies to partner up with smaller, self-driving car-specific startups. Ford and Argo or Honda and Cruise,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/vw-group-self-driving-development-in-house/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/vw-group-self-driving-development-in-house/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/mHimEO5D4t57G21MdHwHA29Gl_U=/2019/08/30/b94c197b-f23c-4c0b-8248-a67c9d9108ef/ogi-vw.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/vw-group-self-driving-development-in-house/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/vw-group-self-driving-development-in-house/",
+      "publishedDateTime": "2021-02-02T17:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-03-automating-complex-deep-learning-model-training-using-amazon-sagemaker-debugger-and-aws-step-functions.md",
+      "title": "Automating complex deep learning model training using Amazon SageMaker Debugger and AWS Step Functions",
+      "excerpt": "Amazon SageMaker Debugger can monitor ML model parameters, metrics, and computation resources as the model optimization is in progress. You can use it to identify issues during training, gain insights, and take actions like stopping the training or sending notifications through built-in or custom actions.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automating-complex-deep-learning-model-training-using-amazon-sagemaker-debugger-and-aws-step-functions/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automating-complex-deep-learning-model-training-using-amazon-sagemaker-debugger-and-aws-step-functions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-02T17:10:10-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-02-03-bezos-departure-as-ceo-shows-amazon-is-a-cloud-company-now.md",
+      "title": "Bezos' Departure as CEO Shows Amazon Is a Cloud Company Now",
+      "excerpt": "Andy Jassy, who helped create Amazon Web Services in 2006 and has run it since, will take over as chief executive later this year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/bezos-departure-ceo-shows-amazon-cloud-company/",
+      "originalUrl": "https://www.wired.com/story/bezos-departure-ceo-shows-amazon-cloud-company/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6019cab23453f789506008d0/master/pass/Sec_Bezos_1036084400.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/bezos-departure-ceo-shows-amazon-cloud-company/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/bezos-departure-ceo-shows-amazon-cloud-company/amp",
+      "publishedDateTime": "2021-02-02T17:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-03-biosig-and-mayo-clinic-collaborate-on-new-rd-program-to-develop-transformative-ai-and-machine-learning-technologies-for-its-pure-eptm-system.md",
       "title": "BioSig and Mayo Clinic Collaborate on New R&D Program to Develop Transformative AI and Machine Learning Technologies for its PURE EP(TM) System",
       "excerpt": "Global market for AI in healthcare is estimated to reach $45.2 billion by 2026 Westport, CT – February 2, 2021 — BioSig Technologies, Inc. (NASDAQ: BSGM) (\"BioSig\" or the \"Company\"), a medical technology company commercializing an innovative signal processing platform designed to improve signal fidelity and uncover the full range of ECG and intra-cardiac signals,",
@@ -146,6 +303,41 @@
       "topics": [
         "Natural Language Processing",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-03-abu-dhabis-etihad-airways-taps-microsoft-to-modernise-its-finance-operations.md",
+      "title": "Abu Dhabi's Etihad Airways taps Microsoft to modernise its finance operations",
+      "excerpt": "Etihad Airways has turned to Microsoft AI to transform its Finance Operations, which is comprised of the company’s Finance and Digital, Technology and Innovation divisions. The move saw the Abu Dhabi-based carrier work with Microsoft to modernise its payment inspection process using cognitive services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itp.net/emergent-tech/95876-abu-dhabis-etihad-airways-taps-microsoft-to-modernise-its-finance-operations",
+      "originalUrl": "https://www.itp.net/emergent-tech/95876-abu-dhabis-etihad-airways-taps-microsoft-to-modernise-its-finance-operations",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itp.net/emergent-tech/95876-abu-dhabis-etihad-airways-taps-microsoft-to-modernise-its-finance-operations?amp",
+      "cdnAmpWebUrl": "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/emergent-tech/95876-abu-dhabis-etihad-airways-taps-microsoft-to-modernise-its-finance-operations?amp",
+      "publishedDateTime": "2021-02-02T10:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GDPR fines",
+        "domain": "itp.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Finance"
       ]
     },
     {
@@ -513,58 +705,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-02-setting-up-an-ivr-to-collect-customer-feedback-via-phone-using-amazon-connect-and-aws-ai-services.md",
-      "title": "Setting up an IVR to collect customer feedback via phone using Amazon Connect and AWS AI Services",
-      "excerpt": "As many companies place their focus on customer centricity, customer feedback becomes a top priority. However, as new laws are formed, for instance GDPR in Europe, collecting feedback from customers can become increasingly difficult. One means of collecting this feedback is via phone. When a customer",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/setting-up-an-ivr-to-collect-customer-feedback-via-phone-using-amazon-connect-and-aws-ai-services/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/setting-up-an-ivr-to-collect-customer-feedback-via-phone-using-amazon-connect-and-aws-ai-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/01/08/ML-1454-1.jpg",
-          "width": 800,
-          "height": 345,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-02T07:28:45-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-02-rescale-raises-50-million-in-series-c-funding.md",
       "title": "Rescale Raises $50 Million in Series C Funding",
       "excerpt": "Rescale, the leading hybrid HPC cloud platform enabling intelligent computing for digital R&D, today announced it has closed $50 million in Series C funding from Hitachi Ventures, Microsoft's M12, Nautilus Venture Partners,",
@@ -573,7 +713,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/rescale-raises-50-million-in-series-c-funding-2021-02-02",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -1119,143 +1259,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-microsoft-launches-open-ai-energy-initiative-in-partnership-with-shell-c3-ai-others.md",
-      "title": "Microsoft launches Open AI Energy Initiative in partnership with Shell, C3 AI, others",
-      "excerpt": "Microsoft has launched the Open AI Energy Initiative in collaboration with Shell, C3 AI, and Baker Hughes. It aims to offer AI-based scalable and interoperable solutions for the energy sector.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/microsoft-launches-open-ai-energy-initiative-in-partnership-with-shell-c3-ai-others",
-      "originalUrl": "https://www.neowin.net/news/microsoft-launches-open-ai-energy-initiative-in-partnership-with-shell-c3-ai-others",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2017/07/1499866975_microsoft-ai-for-earth_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/microsoft-launches-open-ai-energy-initiative-in-partnership-with-shell-c3-ai-others/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-launches-open-ai-energy-initiative-in-partnership-with-shell-c3-ai-others/",
-      "publishedDateTime": "2021-02-01T18:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-scientists-developing-quantum-brain-for-human-thinking-robots.md",
-      "title": "Scientists Developing \"Quantum Brain\" for Human-Thinking Robots",
-      "excerpt": "It was but a matter of time before robots roam the land with a processing unit similar to that of a human brain, and according to researchers from Radboud University, that time could be now. In a new journal entry in Nature Nanotechnology,",
-      "sourceUrl": null,
-      "webUrl": "https://comicbook.com/irl/news/scientists-quantum-brain-device-revealed-artificial-intelligence/",
-      "originalUrl": "https://comicbook.com/irl/news/scientists-quantum-brain-device-revealed-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.comicbook.com/files/images/default.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://comicbook.com/irl/amp/news/scientists-quantum-brain-device-revealed-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/irl/amp/news/scientists-quantum-brain-device-revealed-artificial-intelligence/",
-      "publishedDateTime": "2021-02-01T18:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Comicbook.com",
-        "domain": "comicbook.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-slas-technology-special-collection-on-artificial-intelligence-in-process-automation-now-available.md",
-      "title": "SLAS Technology Special collection on artificial intelligence in process automation now available",
-      "excerpt": "SLAS Technology Special collection on artificial intelligence in process automation now available Newswise - Oak Brook, IL - The February",
-      "sourceUrl": null,
-      "webUrl": "https://www.compsmag.com/news/technology/slas-technology-special-collection-on-artificial-intelligence-in-process-automation-now-available/",
-      "originalUrl": "https://www.compsmag.com/news/technology/slas-technology-special-collection-on-artificial-intelligence-in-process-automation-now-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/SLAS-Technology-Special-collection-on-artificial-intelligence-in-process-automation-1024x1024.jpg",
-          "width": 1024,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.compsmag.com/news/technology/slas-technology-special-collection-on-artificial-intelligence-in-process-automation-now-available/amp/",
-      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/slas-technology-special-collection-on-artificial-intelligence-in-process-automation-now-available/amp/",
-      "publishedDateTime": "2021-02-01T15:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows",
-        "domain": "compsmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

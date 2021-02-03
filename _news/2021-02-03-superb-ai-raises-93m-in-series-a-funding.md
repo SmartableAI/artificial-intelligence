@@ -39,17 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Superb AI Secures $9.3 Million to Extend Leadership in Training Data Automation"
-    excerpt: "Superb AI, one of the world's most powerful AI-enabled training data platforms, today announced it has completed a $9.3 million Series A round of financing. Atinum Investment led the round with participation from existing and new investors including Premier Partners,"
-    publishedDateTime: 2021-02-02T13:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/superb-ai-secures-9-3-million-to-extend-leadership-in-training-data-automation-1030032496"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/superb-ai-secures-9-3-million-to-extend-leadership-in-training-data-automation-1030032496"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/superb-ai-secures-9-3-million-to-extend-leadership-in-training-data-automation-1030032496"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 65
 
 secured: "TyS5yFS0MFtrns42AQtO9DeJpdj9DhOUOVQcQPGdwDef6VVFyV4fPF5VkqGFyUtJ5B3pX/HlWREFiZ1ONGeqp/G3rCMUbvXm4pEl9rZZAVNhFo+RaAti1HFZT/WXrl29roSBb1Wl342cUYZiTMs2QKA0JlBsHzr/sSGE+CxqipgbW1dCmqWcMeKD27UGvoWzPKLkT8hBjYzrpQVEpqUxgg5gIsKnvD9J/+27A9GtExKHVbEpZWV+9WnsKYTiD/zFrn/5gemm+YEjTV/DW8fwGQ5tNSH1PiDlse/+qwiZ1I4vtvbuncFNdL+Ev3m2ZQqjlfRQq0bQhHKeNxR2Bis86veC8xOX5e73njEzFFYFHU07CPuU+sKyR5v2WsmdQxxM2OKUyG8gBjPXAWKKqIccUbD9ExDaIYVAzvxBTFcS3Z4QAHS2urxFBYaH7+/vukatBI3bSepS4I5Tw5Rm5Anc+CFOO1kuyCKN/RSbMyggIf4j2K/nmdmiEk1+96ihj7cxecOII5SYjUXhICs0NHA+qg==;86MuGG9K9DSHQsx0Xssd6A=="
 ---

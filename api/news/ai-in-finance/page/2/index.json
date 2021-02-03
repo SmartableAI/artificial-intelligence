@@ -2,6 +2,145 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-16-blockchain-beyond-bitcoin-transforming-fintech-healthcare-and-more.md",
+      "title": "Blockchain Beyond Bitcoin: Transforming FinTech, Healthcare, And More",
+      "excerpt": "The origin of blockchain dates back to 1991, when researchers Stuart Haber and W. Scott Stornetta outlined a system to document timestamps that could not be altered. However, it is most widely known as the underpinning of Bitcoin,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2021/01/15/blockchain-beyond-bitcoin-transforming-fintech-healthcare-and-more/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2021/01/15/blockchain-beyond-bitcoin-transforming-fintech-healthcare-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6001bffef1677f1270da7683%2F0x0.jpg",
+          "width": 1200,
+          "height": 593,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2021/01/15/blockchain-beyond-bitcoin-transforming-fintech-healthcare-and-more/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/01/15/blockchain-beyond-bitcoin-transforming-fintech-healthcare-and-more/amp/",
+      "publishedDateTime": "2021-01-15T08:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-broadridge-partners-with-ai-company-fligoo-providing-innovative-predictive-analytics-to-wealth-management.md",
+      "title": "Broadridge Partners with AI Company Fligoo, Providing Innovative Predictive Analytics to Wealth Management",
+      "excerpt": "Enabling banks and wealth management firms to better leverage data through artificial intelligence (AI), Broadridge Financial Solutions, Inc. (NYSE:BR), a global Fintech leader, has announced a collaboration with AI company Fligoo to develop a suite of proprietary predictive analytics software products for the wealth management industry.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-e03c025b09ba987d292a32cf31c15a0b",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-e03c025b09ba987d292a32cf31c15a0b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-13T06:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-us-fintech-artis-announces-new-bank-funding-partneship-with-drummond-community-bank.md",
+      "title": "U.S. Fintech Artis Announces New Bank Funding Partneship With Drummond Community Bank",
+      "excerpt": "Artis Technologies, a U.S.-based fintech that provides lending solutions for businesses, announced on Tuesday it has entered into a new bank funding partnership with Drummond Community Bank for its Artis Credit platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2021/01/171151-u-s-fintech-artis-announces-new-bank-funding-partneship-with-drummond-community-bank/",
+      "originalUrl": "https://www.crowdfundinsider.com/2021/01/171151-u-s-fintech-artis-announces-new-bank-funding-partneship-with-drummond-community-bank/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/benjamin-vladimir-solomyani-unsplash-600x400.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2021/01/171151-u-s-fintech-artis-announces-new-bank-funding-partneship-with-drummond-community-bank/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/01/171151-u-s-fintech-artis-announces-new-bank-funding-partneship-with-drummond-community-bank/amp/",
+      "publishedDateTime": "2021-01-12T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-compeer-financial-delivers-superior-user-experience-with-citrix.md",
       "title": "Compeer Financial Delivers Superior User Experience with Citrix®",
       "excerpt": "Our lives are driven by technology and we expect it to be always on and perform flawlessly– especially at work. It’ s a tall order, but one that just got easier to deliver at Compeer Financial, thanks to Citrix Systems,",
@@ -1213,144 +1352,6 @@
         "AI in Finance",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-td-bank-is-using-ai-to-boost-engagement-with-its-customers.md",
-      "title": "TD Bank is using AI to boost engagement with its customers",
-      "excerpt": "TD Bank upgraded its mobile banking app in Canada with AI-powered features that tailor users' experiences based on past behavior and transactions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/td-bank-closing-ux-gap-with-canadian-competitors-2020-12",
-      "originalUrl": "https://www.businessinsider.com/td-bank-closing-ux-gap-with-canadian-competitors-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fca3f1c037cbd0018613ca7?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-11T05:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-1-fintech-stock-to-buy-before-2021.md",
-      "title": "1 Fintech Stock to Buy Before 2021",
-      "excerpt": "Several different next-gen fintech stocks have thus done very well in 2020. One such intriguing name posting impressive growth metrics heading into 2021 is Chinese fintech OneConnect Financial Technology (NYSE: OCFT).",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/1-fintech-stock-to-buy-before-2021-2020-12-11",
-      "originalUrl": "https://www.nasdaq.com/articles/1-fintech-stock-to-buy-before-2021-2020-12-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/1-fintech-stock-to-buy-before-2021-2020-12-11?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/1-fintech-stock-to-buy-before-2021-2020-12-11?amp",
-      "publishedDateTime": "2020-12-11T04:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-will-a-covid-19-vaccine-inoculate-fintech-startups-or-lead-to-their-demise.md",
-      "title": "Will A COVID-19 Vaccine Inoculate FinTech Startups Or Lead To Their Demise?",
-      "excerpt": "Despite, or maybe partly because of the raging pandemic, many FinTech startups are more successful and are raising more funds than ever before. But what will happen to the many currently operating FinTech startups after the pandemic ends?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/nizangpackin/2020/12/11/will-a-covid-19-vaccine-inoculate-fintech-startups-or-lead-to-their-demise/",
-      "originalUrl": "https://www.forbes.com/sites/nizangpackin/2020/12/11/will-a-covid-19-vaccine-inoculate-fintech-startups-or-lead-to-their-demise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd2cbb4abc4e6125bd76adf%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/nizangpackin/2020/12/11/will-a-covid-19-vaccine-inoculate-fintech-startups-or-lead-to-their-demise/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nizangpackin/2020/12/11/will-a-covid-19-vaccine-inoculate-fintech-startups-or-lead-to-their-demise/amp/",
-      "publishedDateTime": "2020-12-11T02:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

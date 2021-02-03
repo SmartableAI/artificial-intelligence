@@ -85,6 +85,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Major Telco Disrupts Organized Fraud with Voice Biometrics"
+    excerpt: "Preventing fraud is a big responsibility. For telcos, the financial losses from fraud can be huge. But for customers, the impact of fraud can be catastrophic."
+    publishedDateTime: 2021-02-03T01:03:00Z
+    webUrl: "https://thefastmode.com/resources/nuance/2021-cs-organized-fraud/?source=middlebanner"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 24
+    images:
+      - url: "https://thefastmode.com/resources/nuance/2021-cs-organized-fraud/banner1400.jpg?"
+        width: 1024
+        height: 585
+        isCached: true
   - title: "New rumors hint at in-screen Touch ID and Face ID biometrics on iPhone 13"
     excerpt: "The upcoming iPhone 13 lineup could feature biometric authentication with a combination of in-screen Touch ID and Face ID, says a new Wall Street Journal report"
     publishedDateTime: 2021-02-01T22:17:00Z
