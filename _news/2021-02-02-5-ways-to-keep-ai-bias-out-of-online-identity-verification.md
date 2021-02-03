@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jumio/2021/02/01/5-ways-to-keep-ai-bias
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jumio/2021/02/01/5-ways-to-keep-ai-bias-out-of-online-identity-verification/amp/"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Patrick J. McGovern Foundation commits $40M to advancing AI and data for good"
-    excerpt: "Today, the Patrick J. McGovern Foundation is announcing that it will double its groundbreaking investments in data science and AI grantmaking in 2021 with a new commitment of $40 million and introduce new initiatives to accelerate opportunity and innovation in the development of inclusive,"
-    publishedDateTime: 2021-01-29T08:24:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-philanthropic-foundations-social-affairs-philanthropy-50d0bc0485a6ba41550a026f9be46579"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 34
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "my3+FDuedAj1Ydryzme8PvEiC2SG3ZkGFTP2XYspE/IqOVrkil9XWTltWSoMoC5J4aLM+KmFlZQGYm8g7dI4eo0TFCn476N45c2dIf3L9tEQL7sp/g0odWNTdHwzTNTVUR1o+d4VoidDLerfRnVX9Rw9f4hIt59nua7fDM/Q55QDNs3EapzgJdd7gAhe3YBcoQKdUq6cKn9NNplog0GGE6klUfkHMLBam7o9s+SzGw0YiAvpqID4SFmkY5WRg/82OVeMD3VUWUOwSfmF26A0LdCBfZVurQkm+HWEgYJOlkw9YiwRe5JwyGxdYwlXq/J2Yz4Y/uxu5Bn5nHRkQDd28veQOw5ufh18EvI+PQQoAbBY68GQ82DhPuRgBqUCSCOwvXo5Pur2D2kRFkyr92HzhEftDHdiuGXxU/55yueZE/nQ25gcttW+7x+mVIteDQLaVmcGvOoS8+lv0GFB9bRIgWb4S0AnYVxxxqsFeUH+s8zToKElZPdO99STrP/YII+HPKZkcnDqL2hGApAUzDV3kg==;67fyuMUxYprup7gYa1zTKQ=="
 ---

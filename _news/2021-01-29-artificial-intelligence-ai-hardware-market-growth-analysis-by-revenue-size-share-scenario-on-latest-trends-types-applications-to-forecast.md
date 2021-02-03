@@ -140,6 +140,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence as a Service Market 2021 Global Demand, Growth, Opportunities, Top Key Players and Forecast to 2027"
+    excerpt: "New Study Reports \"Artificial Intelligence as a Service Market 2021 Global Market Opportunities, Challenges, Strategies and Forecasts 2027\" has been Added on WiseGuyReports. This report provides in depth study of \"Artificial Intelligence as a Service Market\" using SWOT analysis i."
+    publishedDateTime: 2021-02-03T00:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-2021-global-demand-growth-opportunities-top-key-players-and-forecast-to-2027-2021-02-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Computer Vision Market 2021 Global Trends, Market Share, Industry Size, Growth, Opportunities, and Market Forecast to 2027"
     excerpt: "New Study Reports \"Computer Vision Market 2021 Global Market Opportunities, Challenges, Strategies and Forecasts 2027\" has been Added on WiseGuyReports. This report provides in depth study of \"Computer Vision Market\" using SWOT analysis i."
     publishedDateTime: 2021-02-02T20:33:00Z
@@ -192,20 +206,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Global Machine Learning Market Report 2020: Industry Analysis, Trends, Market Size, and Forecasts 2018-2026 - ResearchAndMarkets.com"
-    excerpt: "Global Industry Analysis, Trends, Market Size, and Forecasts up to 2026” report has been added to ResearchAndMarkets.com’s offering. The report on the global machine learning market provides qualitative and quantitative analysis for the period from 2018 to 2026."
-    publishedDateTime: 2021-01-29T07:59:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-north-america-679d3c6ec1574c5f95e349c671cd1828"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 8
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "a/uQ3wZXZpIdUzEcBZXfSrQ3SGRrKRsAxh5uQq5is4k4U4cVC3m6jctsmp+Eui7iR3+XyvOozzSJlsPg5xXC9UFJCKgUItX95gIpCNHyeMiosxPZhNzF0DI4InyJFzllD9N71mlivtoQR5AdaAMbbhfEjajdjJe0+1h0W2iEtxGSY9hD3ogCgETfLYVWsvR3Wdp2gn0SxzO37fJDeqXj/Uq+aG4YAcbF4+Y1ZEn51z5Dp201sF1goy2Nh/RC5DI3WHl8+ag4A9G1NPxPhABuZd/sM+jo6w7N6AhPKTczlS5InjD9ZMfHbuDKP7ZCZBbImFsjdgzE1m7fmajKc8H4k3G7ZlJNNZV7drP/q296odM=;XQrort1219RMFMMjUf6naw=="

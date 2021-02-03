@@ -3,10 +3,10 @@ category: news
 title: "Singapore launches new self-driving bus trial"
 excerpt: "Singapore has moved a step closer to a driverless public transport network with the launch of a new trial of self-driving buses."
 publishedDateTime: 2021-01-29T13:30:00Z
-originalUrl: "https://www.astroawani.com/berita-teknologi/singapore-launches-new-self-driving-bus-trial-280366"
-webUrl: "https://www.astroawani.com/berita-teknologi/singapore-launches-new-self-driving-bus-trial-280366"
-ampWebUrl: "https://www.astroawani.com/berita-teknologi/singapore-launches-new-self-driving-bus-trial-280366?amp=1"
-cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/berita-teknologi/singapore-launches-new-self-driving-bus-trial-280366?amp=1"
+originalUrl: "https://www.astroawani.com/berita-malaysia/singapore-launches-new-self-driving-bus-trial-280366"
+webUrl: "https://www.astroawani.com/berita-malaysia/singapore-launches-new-self-driving-bus-trial-280366"
+ampWebUrl: "https://www.astroawani.com/berita-malaysia/singapore-launches-new-self-driving-bus-trial-280366?amp=1"
+cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/berita-malaysia/singapore-launches-new-self-driving-bus-trial-280366?amp=1"
 type: article
 quality: 44
 heat: 44
@@ -62,6 +62,6 @@ related:
       domain: thestar.com.my
     quality: 4
 
-secured: "XDddWxNiTt784N3W2a/FA2SUNHnUBESXISGJuwNItj9qq2dCNIFZZ3qJHOMf1v0OxYDzenxvZAJsS04sxoCEkA5XuTu7PTigfHCAUqiS7S+TEM3twcrkBMK6vAHbXnpSvg2eWXQT11gZpvmzDTAEZXAglFUI7lLAKb00QRY1d33K2uZ/78a4Tf5blJokthSVr5ADxJf68oaQdevzs87XrhpjgvVWcTdIvQd1vZPHtuTyM82I56ZdUlvdRadMAb5o/JOXo1qNlNoB415hAmnYhCk/NqXV2PBAlNej0SOhdCnBfwF4wjYxhNX4pHbtcMgYJVc1E72yecuLKRNDU26aPNfWOduDMvpxqk7WZddL4OYkazE8bgz1E8OLsvkOowf6lAVk3kxAdtsU1R0fb4asZkv4TzW97fdjUZavTefs5ge5DwNSk/NGTwc+rorQrpi68lMetjii4BGprip4c2VwGeE8PuWzCbN8/1OmakEzgiJ8YjOHPGYDeyJ3PZMfIjv0RrvQFMAfeGDHJgYMgsE84A==;PD1s3seTOFJS8hEG7da9Lw=="
+secured: "LFjpBmrexsHuaAV8fQPXCi1GEEyvTJaa1WJmcPn62iO77iRMHfPJhF2BUaNiu7gXuAxagxWK0EKvGXSGuNThYFpSu0X5e4nW7quQH2ji8AxgcNDWzHezGvUWUIPJ+ru9WkTrIYNbF5zLWIjCxv3/01aNAjHwcEaZB4pBV3C2VqVUcr0E+0nXL7/h8BdzU8nZCRWSFZV7LW+1HsX5zR2945Sloli8qSgrMI9eam1QrL48i60G50335Uw8Pj/pdTIewW25gz5epvN5LdV2nqVkdjMF2o7/mhn+I4txZDFMaVHf7V8P3dE5px5LJA3tMwvPB18Slq+T2dhyEdh8XWLisXy47eDHVFtxzqEaO4T7FLs=;IaTTjLpqRMQyOyf0rc74ZA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/02/case-studies-of-successful-ai-sta
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/02/case-studies-of-successful-ai-startups/amp/"
 type: article
 quality: 91
-heat: 91
+heat: 92
 published: true
 
 provider:

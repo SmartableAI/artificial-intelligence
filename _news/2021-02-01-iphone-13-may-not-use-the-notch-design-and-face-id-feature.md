@@ -73,17 +73,31 @@ related:
         width: 740
         height: 448
         isCached: true
-  - title: "Apple tests new way to unlock an iPhone without removing a face mask"
-    excerpt: "Some iPhone users will soon be able to unlock their smartphones without needing to remove their face masks in public. There’s just"
-    publishedDateTime: 2021-02-02T22:36:00Z
-    webUrl: "https://whdh.com/news/apple-tests-new-way-to-unlock-an-iphone-without-removing-a-face-mask/"
-    ampWebUrl: "https://whdh.com/news/apple-tests-new-way-to-unlock-an-iphone-without-removing-a-face-mask/amp/"
-    cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/apple-tests-new-way-to-unlock-an-iphone-without-removing-a-face-mask/amp/"
+  - title: "Apple is testing “new way to create “iPhone without removing “face mask"
+    excerpt: "Apple is testing a new way to create a iPhone without removing a face mask Apple (AAPL) is testing new iOS software that allows people to"
+    publishedDateTime: 2021-02-02T23:30:00Z
+    webUrl: "https://www.compsmag.com/news/apple/apple-is-testing-new-way-to-create-iphone-without-removing-face-mask/"
+    ampWebUrl: "https://www.compsmag.com/news/apple/apple-is-testing-new-way-to-create-iphone-without-removing-face-mask/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/apple/apple-is-testing-new-way-to-create-iphone-without-removing-face-mask/amp/"
     type: article
     provider:
-      name: WHDH
-      domain: whdh.com
+      name: Windows
+      domain: compsmag.com
     quality: 24
+  - title: "Apple tests new way to unlock an iPhone without removing a face mask"
+    excerpt: "Some iPhone users will soon be able to unlock their smartphones without needing to remove their face masks in public. There's just one catch: it requires an additional Apple device."
+    publishedDateTime: 2021-02-03T00:53:00Z
+    webUrl: "https://www.kctv5.com/apple-tests-new-way-to-unlock-an-iphone-without-removing-a-face-mask/article_423fefb9-6248-5861-93c3-d957ee7d7785.html"
+    type: article
+    provider:
+      name: KCTV News
+      domain: kctv5.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/kctv5.com/content/tncms/custom/image/022e6960-5753-11eb-8d89-07ba8c1a1370.jpg"
+        width: 820
+        height: 462
+        isCached: true
 
 secured: "j+EgsFldUfZrLouol1u0E8d/GlUqq+W50a/xc5dz3/gO0kQ66drykbvXpHubj0ppeaz4roTvWL6/0oz9WlA+m3AB7I68a5izqKlO5w/Dg/8Mv9hLy+NZDWpQtSSi0RmJd9HbagXOxbTgtdoc1rQ065hF/e9+fEMLaQRsOYFoKFRtJbLGpFTnoYCMCwtPWH7f7tx8V4jnRDCEINui6MilVvD79d8Bayn8hxEfsv6st3NSWbgnACmAS9wjo0PZt/0VUsJzhRm9yrJmFHm5vfVn3j6gnl0ktEPc3442EvMzYeoAX1zVdxeWYpKakBuntLSp1q9DYWGRpy7PJz9csh4nl9IHVt0NcwyOV3vmquh5b2A=;qeTGofID4a4YqhOIRrQcXA=="
 ---

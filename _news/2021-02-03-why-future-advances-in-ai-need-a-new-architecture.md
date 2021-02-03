@@ -8,7 +8,7 @@ webUrl: "https://www.nextplatform.com/2021/02/02/why-future-advances-in-ai-need-
 ampWebUrl: "https://www.nextplatform.com/2021/02/02/why-future-advances-in-ai-need-a-new-architecture/amp/"
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/02/02/why-future-advances-in-ai-need-a-new-architecture/amp/"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI Hardware
 
 images:
   - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/samba-nova-logo.jpg"
@@ -69,6 +70,6 @@ related:
         height: 630
         isCached: true
 
-secured: "gqPDRDShg09aU5oJMRCXfIAES8kunXeCAL9XFHrHsNarA/sP/IgYPbowmjESA/KGxLiZkcan2LOGnnOHRkngzaHMNPlT+kNfTUNCVt5Y1AknYeZTO2nrBf5pivtByyooJXPozVzvhzNHElDpy6MvT19VEgPVeOlLyRuMxy6NCNmA/IhCvy9XDj3ebIlBsUbnUK/XKCsax6TuxO9mlIdDg+TUVKk2rVfYbg3lNrdRpBi5T3L588jDkPxrlsvmUOreENCnK0JkzBi6FwyhBUq6cpGtdGl876Hu8i+hWaVfuESg5QwZ3sQyU6j4E2hdf/JAMO629HD2ciPHjhB8d5Z2flXln0z+IcSV8RjwACqlMo4=;TSQYPottSMD0HmKOKKci4g=="
+secured: "ChA3YFcFHSIBs5EFaYKIhkRO3CFdJ/9/WyLz3iQDUBC0RMnVa52iWq2LH0iJCTPxf+SejD6T/eqwXiSp5tmHcC5Uwr82VSbZ/rf49ZnspBtniyLT4jp70fkyLC3Z9QJqCP2UNOkZ98CGaJhb9WoRCrhx5CIjhAbnZS1198ftweIp/zLcWMrusNg8FFYIiEz/kkJTQ/EE+M6eUOuxS58i2kSBAzVDJZgkAELtCqDPpzXxZsoKGavVrPa1+MPMVX7Ze4E5j/R7pCoozqptRqFxzsOwSfsmgcMt7mEq//2IMpjOgOun7JnjcFMnm3vayqsI2FMbYM2bVS1ycojCCQ7BTFWtMKXZx4Cld9oPspkVEKxE38NEC9VFeeADHLdZLKsRYt4zyo2zoJu6w0tK+ztrXmAVzgQpKxGbfDirK22pxjTch73gMpBmzIsuUptNAwMytSjxWKSSyoX2kpvT5IfObfOq0v/15zbYPnKy/SamHdkoCk/8uyQA5grz4NL166e8cd5rtl8wmHeVLoYOBO61mg==;Dq/I1IfFra5vRzTtGNZbrg=="
 ---
 

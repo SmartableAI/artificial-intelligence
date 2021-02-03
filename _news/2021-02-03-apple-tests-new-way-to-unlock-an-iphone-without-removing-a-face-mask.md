@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Apple tests new way to unlock an iPhone without removing a face mask"
-excerpt: "Some iPhone users will soon be able to unlock their smartphones without needing to remove their face masks in public. There’s just"
-publishedDateTime: 2021-02-02T22:36:00Z
-originalUrl: "https://whdh.com/news/apple-tests-new-way-to-unlock-an-iphone-without-removing-a-face-mask/"
-webUrl: "https://whdh.com/news/apple-tests-new-way-to-unlock-an-iphone-without-removing-a-face-mask/"
-ampWebUrl: "https://whdh.com/news/apple-tests-new-way-to-unlock-an-iphone-without-removing-a-face-mask/amp/"
-cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/apple-tests-new-way-to-unlock-an-iphone-without-removing-a-face-mask/amp/"
+excerpt: "Some iPhone users will soon be able to unlock their smartphones without needing to remove their face masks in public. There's just one catch: it requires an additional Apple device."
+publishedDateTime: 2021-02-03T00:53:00Z
+originalUrl: "https://www.kctv5.com/apple-tests-new-way-to-unlock-an-iphone-without-removing-a-face-mask/article_423fefb9-6248-5861-93c3-d957ee7d7785.html"
+webUrl: "https://www.kctv5.com/apple-tests-new-way-to-unlock-an-iphone-without-removing-a-face-mask/article_423fefb9-6248-5861-93c3-d957ee7d7785.html"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: WHDH
-  domain: whdh.com
+  name: KCTV News
+  domain: kctv5.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/kctv5.com/content/tncms/custom/image/022e6960-5753-11eb-8d89-07ba8c1a1370.jpg"
+    width: 820
+    height: 462
+    isCached: true
 
 related:
   - title: "The iPhone's Face ID Will Soon Work With a Mask—If You Have an Apple Watch"
@@ -83,7 +87,18 @@ related:
         width: 740
         height: 448
         isCached: true
+  - title: "Apple is testing “new way to create “iPhone without removing “face mask"
+    excerpt: "Apple is testing a new way to create a iPhone without removing a face mask Apple (AAPL) is testing new iOS software that allows people to"
+    publishedDateTime: 2021-02-02T23:30:00Z
+    webUrl: "https://www.compsmag.com/news/apple/apple-is-testing-new-way-to-create-iphone-without-removing-face-mask/"
+    ampWebUrl: "https://www.compsmag.com/news/apple/apple-is-testing-new-way-to-create-iphone-without-removing-face-mask/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/apple/apple-is-testing-new-way-to-create-iphone-without-removing-face-mask/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 24
 
-secured: "nas6YwEN0nsArYl/ZLUcxht6D/KNW0Je8n0DscCOP8IdiPeMOyZjKz1X6Dk6EUScU3MAoMGeqckz5Dw2yoTG99j6ut5A76kU+g5tSTMZvT6PsoBrVc20ny52JwGbJSz8gygjubg9zPSBm46HHxv42Z75Av9dFbhBQxD+NCLoLltKXnCXmHiZDw19ifXkx5/oaHMl8APM9NmFnbw8FT7Hp1woeD15N21DRqgdOA7JF3JVsx3q7NIlMXf8NeWcVk3KtghgSikHLgfO6A/uJC8B6EXWP2mDa9GyecTb7tDtBOOnXe1x1oUvZN11KZ/FFEIHafg2GUHBgfjwHmpQivpikf3epOFcnq+Ed+MYXcIFMFPdom+zJgEBHAucmLKRgXSwN+f8uo9wQBiTvN/GnXn3d1csizDWdlbImlkZKt5BBbZST08olINC0vpThUbAy5UPyHHbGEGHd3KOB2j6QGNu3DNP+T8vMZxXXduo6M87SpJW/M0/opyEuOeHjq8HNcEdS4VNHwuxYQKQ27F5UQl9yw==;NlCi2sezGF2Fmg7nC1eU+Q=="
+secured: "b7ikDRg32FRl2ouAaALTTeUqygta7HvZ4PVGqb7HPXenEtYWewbJvZxnGW2NwEhaVsEkP2wdMpDLman/K54+HkrnM5VhX1NtNc4xKzxpAMFDbtmAjIu808Nr2qXa7y+bioqMlPeXv3deTfegXrdddmhC3Rzo3zPx8piAbvCEPoa9oVN9y8aVz0WlatSysCsAR+RBVKNyVMZzucHOlCP3OUZ7KoPrOTna9DfyWqCDMp7Cr21auiO9UQCsjVahX1+oMRdVcDAH9iIbkRsrAFIsGs7mVUfKLybL9agllvsIZKuKpyM07y32FPnyi5uSyI5/KsJsOiETUM4CB7vwme1/qZfkF5EQZ7yUbCiN09Qaz/0=;XFTB3V8TpKW16Uu5a/A4vg=="
 ---
 

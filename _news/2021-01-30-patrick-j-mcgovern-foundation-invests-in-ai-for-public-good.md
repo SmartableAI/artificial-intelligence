@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3605101/patrick-j-mcgovern-foundat
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3605101/patrick-j-mcgovern-foundation-invests-in-ai-for-public-good.amp.html"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
     images:
       - url: "https://res.cloudinary.com/devex/image/fetch/c_limit,w_1200/https://lh6.googleusercontent.com/DmldKJv_cfYWNuv0nYaCMK4kHd1qVuKhDjWkI-YUSxympY7JhwWxZXXva_qSEtn88pE95-dK1BpUXkPu20kF0ycwBm3P6-rBmr3gjXBNBGYmrGwc1kFL3iMx4j7JdFxDf73j4MHB"
         width: 800
-        height: 450
-        isCached: true
-  - title: "Patrick J. McGovern Foundation commits $40M to advancing AI and data for good"
-    excerpt: "Today, the Patrick J. McGovern Foundation is announcing that it will double its groundbreaking investments in data science and AI grantmaking in 2021 with a new commitment of $40 million and introduce new initiatives to accelerate opportunity and innovation in the development of inclusive,"
-    publishedDateTime: 2021-01-29T08:24:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-philanthropic-foundations-social-affairs-philanthropy-50d0bc0485a6ba41550a026f9be46579"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 34
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
         height: 450
         isCached: true
 

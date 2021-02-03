@@ -9,7 +9,7 @@ ampWebUrl: "https://www.compsmag.com/news/pc/photonics-for-artificial-intelligen
 cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/photonics-for-artificial-intelligence-and-neuromorphic-computing-sciencedaily/amp/"
 type: article
 quality: 68
-heat: 89
+heat: 88
 published: true
 
 provider:

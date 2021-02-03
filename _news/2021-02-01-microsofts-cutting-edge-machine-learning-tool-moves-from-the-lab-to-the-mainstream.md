@@ -48,20 +48,6 @@ related:
         width: 1024
         height: 443
         isCached: true
-  - title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
-    excerpt: "Observe.AI platform now available in the Microsoft Azure Marketplace and AppSource Business"
-    publishedDateTime: 2021-02-02T17:08:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2021-02-02/observe-ai-and-microsoft-team-up-to-redefine-customer-experience-with-contact-center-ai"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 76
-    images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Moving from the Lab to the Mainstream - Microsoft's Machine-Learning Tool"
     excerpt: "Now techniques developed by Microsoft are emerging from the lab and moving into production. Perhaps the most significant embodiment of this development is Personalizer, part of Azure Cognitive Services on the Azure AI Platform³."
     publishedDateTime: 2021-02-02T17:27:00Z
@@ -177,6 +163,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
+    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance"
+    publishedDateTime: 2021-02-02T22:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 26
 
 secured: "Cx4EJByem+Ih+Kq+sm9/EZkOBNVKc9SdZU7ySD47OEg9Afl1lnu8F2siVKLmtqSAKg4xvNQojlUe92KVUngXy395YyKmk1BqgQPm6NWmFN2xmzQj5Jowc72Ss9D2/R6ss28+gUMvefGiM7KrQwxEAq2qHJML9LkeF3I+6r5Vi13N5lDpYl5Lqd34YFvpy26M2/qg4nOgF3OQAvN3TsW+6gcTWM6/77U62BQS2+wOBEAsQ3GUFKtWsAHUMu9a4bLJngqqKxX/1/+uNdOTr19eQr73GL+n5GOspcl42xSawGu5yhgPIaP9rShIUpfU/pKb8Xoa1wJmxn5yqU8vhzp6OYsSnerUhqvgiMzpp0nylkPwpFjeQV8IKvPooctRe+DqTszFTddZpner1wHjLxeFcA4yIUESM0FSNhEEhoi6XyGizyblAqOO5PU8Tsv2025DP7i3uffjsIslNVnAlFGsyBqxsK0pjLeXgtAJ+b6hnO99RhIZtjuNjCa9+Hb3E8zt5bbW6kSvG/QduEKixeEicw==;S/D/Hdka4BR0kdgWLSEXZg=="
 ---

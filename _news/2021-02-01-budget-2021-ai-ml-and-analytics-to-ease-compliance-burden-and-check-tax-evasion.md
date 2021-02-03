@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/budget-2021-ai-ml-analytics-ease-compliance-
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/budget-2021-ai-ml-analytics-ease-compliance-burden-check-tax-evasion/amp/"
 type: article
 quality: 71
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://images.yourstory.com/cs/2/604090802d6d11e9aa979329348d4c3e/agritechbudget2021-1612015767538.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
         width: 800
         height: 400
+        isCached: true
+  - title: "Analytics startup signs COTA as first client"
+    excerpt: "Ikonos Analytics is the brainchild of Women in Analytics founder Rehgan Avon and operations specialist Allie Dauterman."
+    publishedDateTime: 2021-02-02T23:42:00Z
+    webUrl: "https://www.columbusceo.com/business/20210202/analytics-startup-signs-cota-as-first-client"
+    ampWebUrl: "https://www.columbusceo.com/business/20210202/analytics-startup-signs-cota-as-first-client?template=ampart"
+    cdnAmpWebUrl: "https://www-columbusceo-com.cdn.ampproject.org/c/s/www.columbusceo.com/business/20210202/analytics-startup-signs-cota-as-first-client?template=ampart"
+    type: article
+    provider:
+      name: Columbus CEO
+      domain: columbusceo.com
+    quality: 42
+    images:
+      - url: "https://www.columbusceo.com/apps/pbcsi.dll/bilde?Site=OH&Date=20210202&Category=BUSINESS&ArtNo=210129905&Ref=AR"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Five trends in machine learning-enhanced analytics to watch in 2021"
     excerpt: "AI usage is growing rapidly. What exactly does 2021 hold for the world of analytics, and how will AI drive it?"

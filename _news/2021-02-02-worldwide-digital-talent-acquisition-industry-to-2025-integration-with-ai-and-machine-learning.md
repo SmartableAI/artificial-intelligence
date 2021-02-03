@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/worldwide-digital-talen
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/worldwide-digital-talent-acquisition-industry-to-2025-integration-with-ai-and-machine-learning-1030031930"
 type: article
 quality: 73
-heat: 113
+heat: 93
 published: true
 
 provider:
@@ -53,34 +53,6 @@ related:
       - url: "https://res.infoq.com/articles/AI-applied-architecture-decision-optimization/en/headerimage/deploying-ai-in-the-enterprise-big-1611926216131.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Facial Recognition Market Comprehensive Research Analysis Report in Market Industry | NEC Corporation and Aware Inc"
-    excerpt: "MarketResearch.Biz :Facial Recognition Market 2021 Overview: The report provides quantitative and qualitative information on the global Facial Recognition market for the period of 2021 to 2030. Given the debilitating effect of COVID-19 (Coronavirus) on the Facial Recognition market,"
-    publishedDateTime: 2021-01-29T07:59:00Z
-    webUrl: "https://apnews.com/press-release/wired-release/technology-lifestyle-business-greater-china-corporate-news-12b6fdc8ae2d7110c7e8ccb5cd93ba29"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 17
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Worldwide Conversational AI Industry to 2027 - Strategic Recommendations for New Entrants - ResearchAndMarkets.com"
-    excerpt: "The “Conversational AI - Global Market Outlook (2019-2027)” report has been added to ResearchAndMarkets.com’s offering. According to this report, the Global Conversational AI market accounted for $3.81 billion in 2019 and is expected to reach $18."
-    publishedDateTime: 2021-01-29T08:01:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-corporate-news-latin-america-and-caribbean-4a64e2e6e39e4ccf9d0261ea67d571dc"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 15
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "WnvJlZyNe08noTi6qCVd6kiwiJwBjSddEcvT9Pw8f1IfaVKoxFgWahV3BQ+S0Yj5M3rXAq4NoOWjVJxP/Tp43kmcqlPsrHtDGj/Lh5nESYWfYZ4J3PeSsrc7W9GfAJNZO9uatWIoAun/EzxZaOqhilCR19fWdVaHvoYwsOLDZSdEaiA5X2uKayQmcvU4qpw0HaPLQSnlkt1Dd+rB6DqcoEh0opu5CfcBh4Inhw/vM+x1lPdwUS7Zt2904rOIGZVC5WpvCUp7JQjGBZsS307dz116OF53G57hP1T0xwIgAvdys3UMc/VIphA55/4H/mE2USbZSNjOmCx7c0VbcAoYzrt48bE4Bzu5SGHtRtqEa3Q=;MMy2n6B8XDbnBn9mf4A5YQ=="

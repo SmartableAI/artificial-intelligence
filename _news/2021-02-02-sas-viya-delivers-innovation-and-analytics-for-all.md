@@ -57,6 +57,22 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Analytics startup signs COTA as first client"
+    excerpt: "Ikonos Analytics is the brainchild of Women in Analytics founder Rehgan Avon and operations specialist Allie Dauterman."
+    publishedDateTime: 2021-02-02T23:42:00Z
+    webUrl: "https://www.columbusceo.com/business/20210202/analytics-startup-signs-cota-as-first-client"
+    ampWebUrl: "https://www.columbusceo.com/business/20210202/analytics-startup-signs-cota-as-first-client?template=ampart"
+    cdnAmpWebUrl: "https://www-columbusceo-com.cdn.ampproject.org/c/s/www.columbusceo.com/business/20210202/analytics-startup-signs-cota-as-first-client?template=ampart"
+    type: article
+    provider:
+      name: Columbus CEO
+      domain: columbusceo.com
+    quality: 42
+    images:
+      - url: "https://www.columbusceo.com/apps/pbcsi.dll/bilde?Site=OH&Date=20210202&Category=BUSINESS&ArtNo=210129905&Ref=AR"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Five trends in machine learning-enhanced analytics to watch in 2021"
     excerpt: "AI usage is growing rapidly. What exactly does 2021 hold for the world of analytics, and how will AI drive it?"
     publishedDateTime: 2021-01-29T14:33:00Z

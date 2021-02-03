@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "ADLINK Launches the DLAP x86 Series, a Deep Learning Acceleration Platform for Smarter AI Inferencing at the Edge"
+    excerpt: "The most compact, high performing GPU-enabled deep learning acceleration platforms for deploying AI at the edge across industrial applications"
+    publishedDateTime: 2021-02-03T00:52:00Z
+    webUrl: "https://www.dcvelocity.com/articles/49435-adlink-launches-the-dlap-x86-series-a-deep-learning-acceleration-platform-for-smarter-ai-inferencing-at-the-edge"
+    type: article
+    provider:
+      name: DC Velocity
+      domain: dcvelocity.com
+    quality: 35
+    images:
+      - url: "https://www.dcvelocity.com/ext/resources/2021/02/01/intro_transportation_logistics_law_virtual_course_series_thumb.jpg?crop=true&height=430&t=1612219765&width=640"
+        width: 640
+        height: 430
+        isCached: true
 
 secured: "LBOKt2Bi5tdQlMnFzK1R/d3ruaZAEMbF35qO53ahfJtYYnLoMfVto/4JELAJ9f/7xq2dq52bDQsiMBnJb6+PP8q7RS5ZpfOcZ7QTj/NY8nHNLbe9h1hwDFiC/pKnLl4YhHoUZK2f0cfgPRz56Uj6Zca2TJAJBJSkBVSN5JK2fSE0HD9DdCIC+14tkJzGGY5RjnCffJ8MnBOf8WkvkED6HicI9PLrZiVhzVNISo6uS6XFUb4C2wh2MxwK47dX1fb3ktXBaQD35dI7Xnd+ZMEAkE/9FOpntFPHdH/I4DBYtOC15divkinzGC3QeKMU5xzPaxuKAEe3sCsKZ/QuabMbeVkvuqQyvnhyunQLPKZBt5Q=;8VngcP6fhW4p75XhoMMnpg=="
 ---

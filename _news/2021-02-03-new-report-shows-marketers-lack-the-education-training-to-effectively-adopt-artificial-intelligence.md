@@ -50,34 +50,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Market Comprehensive Research Analysis Report in Market Industry | NEC Corporation and Aware Inc"
-    excerpt: "MarketResearch.Biz :Facial Recognition Market 2021 Overview: The report provides quantitative and qualitative information on the global Facial Recognition market for the period of 2021 to 2030. Given the debilitating effect of COVID-19 (Coronavirus) on the Facial Recognition market,"
-    publishedDateTime: 2021-01-29T07:59:00Z
-    webUrl: "https://apnews.com/press-release/wired-release/technology-lifestyle-business-greater-china-corporate-news-12b6fdc8ae2d7110c7e8ccb5cd93ba29"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 17
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Worldwide Conversational AI Industry to 2027 - Strategic Recommendations for New Entrants - ResearchAndMarkets.com"
-    excerpt: "The “Conversational AI - Global Market Outlook (2019-2027)” report has been added to ResearchAndMarkets.com’s offering. According to this report, the Global Conversational AI market accounted for $3.81 billion in 2019 and is expected to reach $18."
-    publishedDateTime: 2021-01-29T08:01:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-corporate-news-latin-america-and-caribbean-4a64e2e6e39e4ccf9d0261ea67d571dc"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 15
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "BQLruI1tUnoLIVVYRGpbikhCmONKA/QLBBIqMnhz2omBvjPYVlJeGrftD3yJBvg7b6iwa52cfuCOlz5xVRr9fuspWmoy9ukZB46/mS18FCbv28RXC23gRvkRAQZgf7C7ZRXuZBlfeCPCo9MkYlSU+BcZI3IO6H3hLkzoTBnvYAEXec9zayemCydyh9QC1Si04KGsRCFtIM8QvzUr+ZH3PAXeaoCr5DcOfFb/11xVeQZziYlUyIZJvQ/x9+K3VcMsi+WLMDHZFGJtJMBy77RUMnXDraUpYLGS6IdQsDuPBPxQ6b+IBD6ROxcMWaPtsvu4WNEHUU5FRRTwmt76evBSeCwBafetk3RV4dODcg8Yb40=;1Pd+t13Niwq9/ZhS//0K0w=="
 ---
