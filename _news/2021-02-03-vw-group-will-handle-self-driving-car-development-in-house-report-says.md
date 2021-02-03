@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/vw-group-self-driving-developme
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/vw-group-self-driving-development-in-house/"
 type: article
 quality: 74
-heat: 84
+heat: 85
 published: true
 
 provider:
@@ -46,6 +46,6 @@ related:
         height: 3200
         isCached: true
 
-secured: "a0HxnRXVOt8isASeBEGaFa5XYLRDDQCG4e7uDuOnN83JLvqfUbg6Q+kG1zOBm2EnH8CeBhJIGhZkNO153B+LLLkGeBw9VZ42ybWx1Z2jSQCArL0rmpCZMUdkjjcqLVYGV1W1WBbeXDZpsn86g/zY3O80onBmzH9wnE8l6lxJxbS5DDEZmF+DJ+5qgE5TguvqpUKtyVUdTFyAUCjmzC9rvTuFLGGmubhzmsRvj9WejTsztzDJp5B54LZMkTZCBpGW9uCmkj0T6dD8qlE601ftnVEJfQoPqorNfWxQec9ueUefh19gFc2LJhAuDUOvwJOjG9kDOfZOC5idc9qi31Eecp74jndm3YHEa+mroKY4DMY=;Ya8mW2AxCpOucydbEtRxBg=="
+secured: "+EP3cm5doZT9nwUEsNV2d20HOXCJ77yuzAW734qjN/EionyAVV7XkWmkqMjrcqMIJh93jcThD661baE6ZEB0pYW4ScXoFoSgdbiIu14gm2Q91EjcBM+29YJlFAIbMhNkIO9V7jSsM//c2tqGYHfhSr8o1w1+3g+coeT9X46fGNs7i7VzNqAA9cB34u8T+eTel0ZjvdOx19faLSo2qE9xjlsrghl8djNnAgQaebz4efVb4nFUqDzso41gYx7H2D1yMxvr5u9NXm0dZc7Vw4S54nlyXCZQYOhY0QIOA+F4xRKFUXL24lv2SYC/UkVKSz9NCGeWGPsP3Rdom6ocb1oQyK0A/TWHVhQn41s+skubZwkcafB+vt2JYoz4Z+mOqjjDL9aiTkkAeXW6hOW+5+M9teaoQIYFnYHQvxnT7lnUJ2ciVN7peZvkdUcm7UpPv+abjJW4+9SBKRbgpMmAvtW5vK9B8tmtUV1pzf/OXgzOjfv0mnCQA9xT2BbZ81N6a9GI2yLt7YU1VAprPXIzK0c69g==;RZWdedQaLoeo/Bq6+9ZIVg=="
 ---
 

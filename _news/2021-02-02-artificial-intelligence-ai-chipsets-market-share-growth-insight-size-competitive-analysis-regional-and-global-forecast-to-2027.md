@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-share-growth-insight-size-competitive-analysis-regional-and-global-forecast-to-2027-2021-02-02"
 type: article
 quality: 74
-heat: 204
+heat: 214
 published: true
 
 provider:
@@ -206,6 +206,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Cognitive Analytics Market 2020 Size, Market Share, Key Players, Segmentation Development and Forecast by 2025"
+    excerpt: "Global Cognitive Analytics Market 2020 by Company, Type and Application, Forecast to 2025 is the latest market report rolled out by MarketsandResearch.biz, one of the world’s leading market research firms."
+    publishedDateTime: 2021-02-03T04:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-cognitive-analytics-market-2020-size-market-share-key-players-segmentation-development-and-forecast-by-2025-2021-02-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

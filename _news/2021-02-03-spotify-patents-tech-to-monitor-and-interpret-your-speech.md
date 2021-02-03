@@ -43,6 +43,17 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "Spotify patents technology that tracks your speech and derives emotions from it"
+    excerpt: "Spotify patents technology that tracks your speech and derives emotions from it Targeted ads are often incredibly perfect, leading some"
+    publishedDateTime: 2021-02-03T03:58:00Z
+    webUrl: "https://www.compsmag.com/news/gaming/spotify-patents-technology-that-tracks-your-speech-and-derives-emotions-from-it/"
+    ampWebUrl: "https://www.compsmag.com/news/gaming/spotify-patents-technology-that-tracks-your-speech-and-derives-emotions-from-it/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/spotify-patents-technology-that-tracks-your-speech-and-derives-emotions-from-it/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 20
 
 secured: "1BOZeNqTKHfE6AQiHXVjHgmuhRAyafjLsVGQv6bJDPso5+afGQAk4OTYJDYJypLrRuHDPTG++ktvWkOWJADrBBZiQI5OeYuxGPfjyqpQxbF0Plhl2CbtyaJ5X8I+xvv2BUX3ZajAkY1zjKtIm/hCNH4qjli41BQNCEdR4iaGm0oedP+2O+wVzNrMN+XUHv1CxOOLSsCxMTbnwUS4LuQ5DaX4U6zsBgccTnQhSpUAXTJYxpHvQv76rxZryu8KhMJ6qwpjjrpbbknvtAmRRExj/mxnDcuvj2lJfDGFfhAg/dXVgHqJHHbWldOwQiatBULvlHw1TjjkGB2CHsUc0333CjVN+dWZLnXCmeg9rvr0J3tFQEryUlsQfeTzkvJ3lftxdcfAR58q0FcUtJKiNiNYPeaFjTPy4u0S0dtclF3B2OOxR6GFKdVmq9Fm2kgpcAuST8sWVE2+EzTWPHG9VwhGxJpZcLYBKL06LfghVXK3/vpNWzYECBU4mjkU/vu4rnwFRWBFf1FBm/A7klSRWmn75Q==;Bf9LCWHCmCsHPZ7A8AzGMw=="
 ---

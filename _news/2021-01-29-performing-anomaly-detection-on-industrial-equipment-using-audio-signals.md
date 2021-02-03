@@ -82,20 +82,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Head motion classification using thread-based sensor and machine learning algorithm"
-    excerpt: "Human machine interfaces that can track head motion will result in advances in physical rehabilitation, improved augmented reality/virtual reality systems, and aid in the study of human behavior. This paper presents a head position monitoring and classification system using thin flexible strain sensing threads placed on the neck of an individual."
-    publishedDateTime: 2021-01-29T12:00:00Z
-    webUrl: "https://www.nature.com/articles/s41598-021-81284-7"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 33
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-81284-7/MediaObjects/41598_2021_81284_Fig1_HTML.png"
-        width: 685
-        height: 436
-        isCached: true
 
 secured: "q/FMB8ZdTWdH7qrEqB02f+Vf1TeBfBHtoUBXQsVgLUhqEIajHZv/twTJWTU+CFqVn/BacwHaGmTYI4Jq/mLrKTj+DOQlnJpbpjDJIN0jN/tM2I7/aJMyfB226pjNXh50pjziy/xNI6gUBKAr8hVGw1Z9naABJVGZCc/l4s6FChPGXEbH+RbfS55A2BZA0siaJ/Qp6aFPtBlSJikIW1cxCxTSXWCfxCFN/YwkuRMvQWtQlrEdJKW5IkoSta6KhdSiylFqH6YR3g9k02ZW3WCtvFbwoZQYuzcAmXdYveAczwXUGro/zDK2Vl9g2Snm6KqXXOssDMYQRsTBtkFHFyqZavbQWt40oAckZaxORtxDWDc=;Lu/Kvjs9miPhM6giK95ZzA=="
 ---

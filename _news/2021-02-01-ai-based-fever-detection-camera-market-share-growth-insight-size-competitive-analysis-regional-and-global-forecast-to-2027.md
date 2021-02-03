@@ -207,6 +207,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Cognitive Analytics Market 2020 Size, Market Share, Key Players, Segmentation Development and Forecast by 2025"
+    excerpt: "Global Cognitive Analytics Market 2020 by Company, Type and Application, Forecast to 2025 is the latest market report rolled out by MarketsandResearch.biz, one of the world’s leading market research firms."
+    publishedDateTime: 2021-02-03T04:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-cognitive-analytics-market-2020-size-market-share-key-players-segmentation-development-and-forecast-by-2025-2021-02-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "r+SfrJbanBctuftOosoB3g+Y2NTpH/Py/zavweFpxCA6q9Jsa54ceDZUiqCik173gdmzFFzEhHrKLGME5g1Lm6pXCFOqRtP9AXphqzHWKosI5FzVapdo5f7C3zvgD+1J88vNtYxO+t6vapp6h5HYwN3c3Jm7+Q7XZ5BbDMnbNCwVA1c4MKctn9yxAOfruvML82ZbA82+OHXnh/CGMyZ2zUQ/FNkjvUNrnPWKtAL2MZXCkOkMx/AopIJiZMc/lCszc+TaQNC/qcZr73POJwyXuurVwwkDb2Ms9keJzNR7QhV4XvcoQh/32fcBbXsxm7xxm6clYj6IMW7iagIriTZHjIfd75i8kRWCXdUCz/uU+yk=;QsEaPkCmVcN87wKBDhk/yw=="
 ---

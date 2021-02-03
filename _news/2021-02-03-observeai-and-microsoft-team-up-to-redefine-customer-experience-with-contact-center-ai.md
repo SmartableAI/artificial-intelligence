@@ -152,20 +152,6 @@ related:
         width: 900
         height: 470
         isCached: true
-  - title: "Confluent Announces Strategic Alliance with Microsoft"
-    excerpt: "Confluent, the company of the founders of Apache Kafka, recently announced a new strategic alliance between them and Microsoft to enable a more integrated experience between Confluent Cloud and the Azure platform."
-    publishedDateTime: 2021-01-29T12:06:00Z
-    webUrl: "https://www.infoq.com/news/2021/01/confluent-microsoft-alliance/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 39
-    images:
-      - url: "https://res.infoq.com/news/2021/01/confluent-microsoft-alliance/en/headerimage/header-1611818830074.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "WBJxJl9ZOXG34QDsE2BXJnTRq+sPzO3j6GnMpxIzFPwuUSoXExyrSusrabVN6cKnaSXdPZKaxClRRyIDYrZGURoCK9mXRsWyYvsuY6iyWXxHTf7yiaXPKg34KKp5yocxfn8uyU8vXV/BGZ4xCkACpxc1EObQMsyCCU3GNVhkJzUF7c2GDfrgOSGHIvgjgB2KBFkfXmNJWzQpcXuDs8/4GgtRqFB+3tNUUZfBFK/P95rbIzDVGQmFUP6+Suam327gGW+8EWlKqZOdWvclKd+Ij1MCPGCxkcVzf1xQjdifiub0flBjIba4v3xg6m46+x+R29Maj2ZxGZMU95I0rIcwGOFXF2rMioNotOXgqwe47Nc=;fFRXc0BvQWp3fY+AXefAMQ=="
 ---

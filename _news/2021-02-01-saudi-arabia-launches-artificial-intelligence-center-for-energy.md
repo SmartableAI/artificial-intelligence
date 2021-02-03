@@ -7,7 +7,7 @@ originalUrl: "https://english.aawsat.com/home/article/2777911/saudi-arabia-launc
 webUrl: "https://english.aawsat.com/home/article/2777911/saudi-arabia-launches-artificial-intelligence-center-energy"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 480
     height: 320
     isCached: true
-
-related:
-  - title: "Nvidia launches program for certified AI servers"
-    excerpt: "Nvidia is offering a certification program to steer customers and partners to buy GPU servers specifically tailored for artificial intelligence (AI) workloads from top-tier OEMs and ODMs. The program,"
-    publishedDateTime: 2021-01-29T11:03:00Z
-    webUrl: "https://www.networkworld.com/article/3605088/nvidia-launches-program-for-certified-ai-servers.html"
-    ampWebUrl: "https://www.networkworld.com/article/3605088/nvidia-launches-program-for-certified-ai-servers.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3605088/nvidia-launches-program-for-certified-ai-servers.amp.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 59
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/12/nvidia-ampere-pcb-primary-100869709-large.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "Op2/l/uP0GQG6cnD/ktD6B6Cflix7lfBiG8PXUviohJbzkXW6pL0bkctWZ26z/Z1xrU4UFyjPEqP2K5e+SaqnIIJ8GOaRy/BtjOotQ1LeOW93U3SCxEtG7Kzlc9SqRhnqbT4OKhH8FnFKBTilYdy3ma1UQE94IHVX8Rc3pI3TKvgw/fAv7m+CSoYhOX86hw5ougEsLf3wZ9VxhW7Pxd8FrTf4n0FoGvYZtLWKSRIrrbpi+I4/Hj8wO9Ujcy9J/VGdWT4ogVzp2R7/s0gGVGwRboxMGiHkaJIXfo2TmpalRkEF+8oPX53GKrCY1FrQgK7rVly0F4xqKM6EYOH6hz6W7/pX+n9RtWdx0568A21Iu0=;V6KAfS1fFLbMgXnmqJ0tEg=="
 ---

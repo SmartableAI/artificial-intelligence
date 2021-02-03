@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/worldwide-digital-talen
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/worldwide-digital-talent-acquisition-industry-to-2025-integration-with-ai-and-machine-learning-1030031930"
 type: article
 quality: 73
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Global Deep Learning Market 2020 Regional Demand, Industry Top Players Study, Key Trends and SWOT Analysis to 2025"
+    excerpt: "The latest report entitled Global Deep Learning Market 2020 by Company, Type and Application, Forecast to 2025 firstly focuses on some important aspects of the market such as revenue rate, market share,"
+    publishedDateTime: 2021-02-03T03:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-market-2020-regional-demand-industry-top-players-study-key-trends-and-swot-analysis-to-2025-2021-02-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "AI Applied in Enterprises: Information Architecture, Decision Optimization, and Operationalization"
     excerpt: "Thomas Schaeck is an IBM Distinguished Engineer at IBM Data and AI, leading Watson Studio on IBM Cloud. On a one-year assignment in the USA in 2013 - 2014, Schaeck led transformation of ..."

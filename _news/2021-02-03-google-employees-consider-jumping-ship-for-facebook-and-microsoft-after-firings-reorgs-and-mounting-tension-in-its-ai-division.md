@@ -84,20 +84,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 65
-  - title: "Head motion classification using thread-based sensor and machine learning algorithm"
-    excerpt: "Human machine interfaces that can track head motion will result in advances in physical rehabilitation, improved augmented reality/virtual reality systems, and aid in the study of human behavior. This paper presents a head position monitoring and classification system using thin flexible strain sensing threads placed on the neck of an individual."
-    publishedDateTime: 2021-01-29T12:00:00Z
-    webUrl: "https://www.nature.com/articles/s41598-021-81284-7"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 33
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-81284-7/MediaObjects/41598_2021_81284_Fig1_HTML.png"
-        width: 685
-        height: 436
-        isCached: true
 
 secured: "Dyovpq+516Pl6IpKWKp1SewQd4QYOVIMGcLHLchadUordq4FkRONYUXXdxatKaKLsiQHGcwyj8rUMJrvyy0KWtWLr9UUlWNT+h/TwhYixrLA+0yR46uCBzyuhwk9sfIiauCWmg7YDENjnaiCgHv65fnXVvtjow7NaLCwODE8Z5FJfTv+WHFNQ8AiRBvxhTiyNb/xH7qjnNYu1AFHtox5EFqO6CNLbFVRL/eKhfTqeKkEZAIUSCABrhFkkxuic1fRsA4s6VhIJIB0Vyu0Lwh78WABIy7nfkAfOXh1FqVOKLJxcE8MqCW3FqUzqBiiM2dyPsIjZ/fDrWpoSH8vSF+cu09u+a6dPkN8qUqm34DtPlXs8xetTQXLDI31SuEAv42DpmYQCa40jrpxZuTN3D2HInvsGKQvokcuaTqfl23OLXmwGVnkoo/gfkil77vWrGp+QHc0ECIhZXWrEAj4ssAPAPWx332GK3zPvO1Wd07SDRVJXdoVETPUUiiBsVnRQL54Wqr/IAex97+SfwdKWwy/Lg==;+uyQk4P8r3akhISG7eyPFw=="
 ---

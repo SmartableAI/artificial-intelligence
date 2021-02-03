@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Global Face Recognition Device Market Scenario by Industry Growth, Size, Trends and Forecast by 2025"
-excerpt: "Selbyville, Delaware, Global Face Recognition Device Market report added by Market Study Report that gives meticulous investigation of current scenario of the market size, share, demand, growth, trends,"
-publishedDateTime: 2021-01-29T13:50:00Z
-originalUrl: "https://www.marketwatch.com/press-release/global-face-recognition-device-market-scenario-by-industry-growth-size-trends-and-forecast-by-2025-2021-01-29"
-webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-device-market-scenario-by-industry-growth-size-trends-and-forecast-by-2025-2021-01-29"
+title: "Global Cognitive Analytics Market 2020 Size, Market Share, Key Players, Segmentation Development and Forecast by 2025"
+excerpt: "Global Cognitive Analytics Market 2020 by Company, Type and Application, Forecast to 2025 is the latest market report rolled out by MarketsandResearch.biz, one of the world’s leading market research firms."
+publishedDateTime: 2021-02-03T04:51:00Z
+originalUrl: "https://www.marketwatch.com/press-release/global-cognitive-analytics-market-2020-size-market-share-key-players-segmentation-development-and-forecast-by-2025-2021-02-02"
+webUrl: "https://www.marketwatch.com/press-release/global-cognitive-analytics-market-2020-size-market-share-key-players-segmentation-development-and-forecast-by-2025-2021-02-02"
 type: article
-quality: 54
+quality: 31
 heat: -1
 published: false
 
@@ -19,7 +19,7 @@ provider:
       height: 50
 
 topics:
-  - Computer Vision
+  - Microsoft AI
   - AI
 
 images:
@@ -80,6 +80,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Face Recognition Device Market Scenario by Industry Growth, Size, Trends and Forecast by 2025"
+    excerpt: "Selbyville, Delaware, Global Face Recognition Device Market report added by Market Study Report that gives meticulous investigation of current scenario of the market size, share, demand, growth, trends,"
+    publishedDateTime: 2021-01-29T13:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-device-market-scenario-by-industry-growth-size-trends-and-forecast-by-2025-2021-01-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -208,21 +222,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Cognitive Analytics Market 2020 Size, Market Share, Key Players, Segmentation Development and Forecast by 2025"
-    excerpt: "Global Cognitive Analytics Market 2020 by Company, Type and Application, Forecast to 2025 is the latest market report rolled out by MarketsandResearch.biz, one of the world’s leading market research firms."
-    publishedDateTime: 2021-02-03T04:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-cognitive-analytics-market-2020-size-market-share-key-players-segmentation-development-and-forecast-by-2025-2021-02-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
-secured: "hhF6MZlB3OOkWZrM83eh/gj1C/VWm8f5JAQUVAk0eY7+QBO23osvPVI7Z0G9/CKYzf6sfAXAOLXm6z6W6DCb35yPHOjJmEnSuojS8WJwopb3S4XXbNyBVhQ9vVtn3b8Quo9BFhaIDVPjRmcJTXAKeeF+tVwpsq6DoTq0NWzjXnhkWb+1dBv74e21axb1I+/Yan1/E1ErIVBMWf62mbU8qpZNp2hcA+XHgBSKjGWyiRP102lx1WJB7JsW/1vnljPIfCji04KAodacVl5KX0IFHBtf8aJYTMSp3seGRmTrE7u0y9dhkNjIPy1Lr5eHugK56RTDDjm/7mvE4OdUatZjDvDwwVpGjUJXEch8/6qrXj4=;GQMNonZJWQwDW2Y2/dLHiA=="
+secured: "Tj0Y4qUdOOfh7S0oVivFA6wAfawkMXjEeVN4J5MJlC1v3RBjhwvbbjtrEzTRZrT1uu3CAkR+BlxHNn6nKnJmSB4i/+Ok79blkZgqfDnWiCrAC40cVjTGhsJuL4p4Shq0524ZMrBATTsXN+4RaFjNzOkJZYY7bIiVqi1h2gjkrp7nVd1NBZsH/qpb2tSXfufr4GrDC305cot+cid/Aqbumu94PUo2LQ8g/yby+CKeCA3T1okRWPP2kih9/CE9AKF6hiteBqxGpdBK1UP8IymWsyvN0Bq8OfW4xIuajdNEPg53s0e0UuZoWry0ULdoOzVV2CzSbLwFvQIMCzGF3sHt8HRMCS3Au1Sh09bIChS4WFM=;z3QidM2NR9PMqqHxE5ki1Q=="
 ---
 

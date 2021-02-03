@@ -1,25 +1,29 @@
 ---
 category: news
-title: "AI Applied in Enterprises: Information Architecture, Decision Optimization, and Operationalization"
-excerpt: "Thomas Schaeck is an IBM Distinguished Engineer at IBM Data and AI, leading Watson Studio on IBM Cloud. On a one-year assignment in the USA in 2013 - 2014, Schaeck led transformation of ..."
-publishedDateTime: 2021-01-31T15:20:00Z
-originalUrl: "https://www.infoq.com/articles/AI-applied-architecture-decision-optimization/"
-webUrl: "https://www.infoq.com/articles/AI-applied-architecture-decision-optimization/"
+title: "Global Deep Learning Market 2020 Regional Demand, Industry Top Players Study, Key Trends and SWOT Analysis to 2025"
+excerpt: "The latest report entitled Global Deep Learning Market 2020 by Company, Type and Application, Forecast to 2025 firstly focuses on some important aspects of the market such as revenue rate, market share,"
+publishedDateTime: 2021-02-03T03:52:00Z
+originalUrl: "https://www.marketwatch.com/press-release/global-deep-learning-market-2020-regional-demand-industry-top-players-study-key-trends-and-swot-analysis-to-2025-2021-02-02"
+webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-market-2020-regional-demand-industry-top-players-study-key-trends-and-swot-analysis-to-2025-2021-02-02"
 type: article
-quality: 25
+quality: 47
 heat: -1
 published: false
 
 provider:
-  name: InfoQ
-  domain: infoq.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - IBM AI
+  - Machine Learning
   - AI
 
 images:
-  - url: "https://res.infoq.com/articles/AI-applied-architecture-decision-optimization/en/headerimage/deploying-ai-in-the-enterprise-big-1611926216131.jpg"
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
     isCached: true
@@ -50,21 +54,21 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Global Deep Learning Market 2020 Regional Demand, Industry Top Players Study, Key Trends and SWOT Analysis to 2025"
-    excerpt: "The latest report entitled Global Deep Learning Market 2020 by Company, Type and Application, Forecast to 2025 firstly focuses on some important aspects of the market such as revenue rate, market share,"
-    publishedDateTime: 2021-02-03T03:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-market-2020-regional-demand-industry-top-players-study-key-trends-and-swot-analysis-to-2025-2021-02-02"
+  - title: "AI Applied in Enterprises: Information Architecture, Decision Optimization, and Operationalization"
+    excerpt: "Thomas Schaeck is an IBM Distinguished Engineer at IBM Data and AI, leading Watson Studio on IBM Cloud. On a one-year assignment in the USA in 2013 - 2014, Schaeck led transformation of ..."
+    publishedDateTime: 2021-01-31T15:20:00Z
+    webUrl: "https://www.infoq.com/articles/AI-applied-architecture-decision-optimization/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
+      name: InfoQ
+      domain: infoq.com
+    quality: 25
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://res.infoq.com/articles/AI-applied-architecture-decision-optimization/en/headerimage/deploying-ai-in-the-enterprise-big-1611926216131.jpg"
         width: 1200
         height: 630
         isCached: true
 
-secured: "FCV/b2RuopKNYbk8wB21NoyURCCi2aOqJcLDDLRXJ0kTg8+p3NFZvE7oMg4YkAbHJ/qiWUDqUpwYCMLoZnVPPTUnxAwnZUr+4UajJXYLA5TcENhY5j9ZXVVhflR6DInmbVMPEif2CY0LmB9iedlgRkmx8OkLN6tFCcwuUEPaiF9hUWDO798nBih0K5m/736GqQixS1LXryTOz0qBTgky8SML6uf9NKjTk8OWGoUFb39RsOAl2qAXak+qKFvkrHAwUqkOziC3oicuuhwwV9mMbhp2EEt9yn23/BjB6hIpwQT24lMX1No/Xr1MFkcohBL+3ustUhMuKGDndI9qzpv/SQUe1JJojFBjkWS5E0qUOGg=;c0bh9HvF3IgXesWJr0aFcA=="
+secured: "w7eKTVjSDOD6BzFZUJ8BBuYBwHkazcx5E+of5Ou+xLJL19vmeO4ElIJwY45HnkRqdMRl+wZL31VbQsUlQMnuSPjjg/66GnKL6z3RUipk4yoCaym3lUTZ65h/x9Q8G+0zA5v5ydpFXslMZWD0zQyPDwpd0jUEkl8PP5AVswhLuXT5GqmQnjp+esVrsEzLrbxkvq6NtiiTRjTwpFywKBCclt22akrz/IKQ71OjPp/KPvq/TAOG0Vw7G9CJ2cpGAWubfxzSv9hgxr01UbBmBVGfWC72BGUlz57oJ8SGzfq2znR2OaLq8lnnzhKV+r1Ck3BMad7kKhPzZAQU+BBIpmhhWATwsL+gnxRQkWUhsGT+CSk=;uPN5GVPl8+TrMDvMgIsg9w=="
 ---
 

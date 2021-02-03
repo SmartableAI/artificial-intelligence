@@ -7,7 +7,7 @@ originalUrl: "https://www.compsmag.com/news/technology/healthlynkeds-the-future-
 webUrl: "https://www.compsmag.com/news/technology/healthlynkeds-the-future-of-healthcare-summit-brings-together-healthcare-experts-and-technology-innovators-from-around-the-world-to-naples-florida/"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 600
     height: 315
     isCached: true
-
-related:
-  - title: "HealthLynked's The Future of Healthcare Summit Brings Healthcare Experts and Technology Innovators from Around the World to Naples, Florida"
-    excerpt: "HealthLynked Corp. (OTCQB: HLYK), a global healthcare network focused on care management of its members and a provider of"
-    publishedDateTime: 2021-01-29T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/healthlynkeds-the-future-of-healthcare-summit-brings-healthcare-experts-and-technology-innovators-from-around-the-world-to-naples-florida-301217887.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 5
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "+IYxT85T48IJ28EwSDozrNA52PXSD+7UEwMAANaTkOf2Ml9QAcP0oP8GlbVcXFGDyJyiZup/1MoCpzpUWwfEKsYVRYs4JyPt88b3b7qfZzNuRGL2cqn+mSfdW7jrWZVQokF2wmbgw11G73lpU5uMCeQBhcOpTGURgrqUCQ/5Epbd6KKzHNdJaCpS+Ip2e8lRNw2P2M1q1EVzgK3eqSTB6qCMHN5jlBs39boLBhiRKdH9jN2kIukjRJRLoMCgvM1u0QYWtQtdAcQQRqMlIbXeVWzGlUPwua5bkXyK1iYszxsqzLcRjGXG/mqiPXPXtLL2xVW/Cwx/+kBc+XIQDAHkhNOpOU+ZTsbbe0nI4+WcRtlltE1SE5kuqPIXtAjZn2Y0npWKJn/PZgEEx6k8WH1+yDLYkce5sTDmdhcbva4WDgevzi7VPLyd28XncLbH+64y6W4uoQ4XQJ+I2op3vsl+1HltStsorDSt9n4mAcmftPqRks4FH+QCQnSUdqNOPQgdVjZehGoX8vQTa083WWlZkA==;bEu0Xsn/O1ScspGmr6cvKg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com/news/applications-os/sas-teams-with-microsoft-
 webUrl: "https://www.crn.com/news/applications-os/sas-teams-with-microsoft-to-offer-viya-analytics-on-azure"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     height: 843
     isCached: true
 
-related:
-  - title: "Bitscape Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
-    excerpt: "Bitscape archives Windows Server and SQL Server Migration to Microsoft Azure advanced specialization and joins group of select few Microsoft partners."
-    publishedDateTime: 2021-01-29T13:01:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210129005073/en/Bitscape-Has-Earned-the-Windows-Server-and-SQL-Server-Migration-to-Microsoft-Azure-Advanced-Specialization"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 16
-
-secured: "J7eoQ2qDRwqJhH+ppaDpRFm+wQxRcZKafpn0QZQ7/OxbOrFixIkNfk7Htc8DVM/GxOKE/8SrCoIFNG4jp2FoQJyjeKF+nlDM1qvpumSYWiAxXiPl7VFL4YMg437oyJE0z4CUVJUjAdJPtOmKw9Sfpuzi0vJmdJVNuqtDYJvK3zw6snIgpiw94Acak44m/QJNftJdGan9mMut7mjV7ORk50vYIuX7gDFWrUnfQ0sTvpDpECTPdHdA3CZ0Dqb81qI6/fcoZKvkppLHiixBDX4Z6SmQQmRsYZEEDZzTjF5gBgxfnifaBrFdTXle8STdKfagGR6PBVeQM86t5fqSH+q9ntFBKS7WIY0OLzd/aqzgCCk=;ImcGO6ff8xjvtA557whmtQ=="
+secured: "6WyKdJf7I0KpWMyJ6TWQM+e3zYkUyKO0JVtA77Zaph529QG73G4LbN1PGCd1TNFEXtRvkWg4SXO7+Lk5TZkVMCLlXkn8PaF9K13YJixDB+M7MMOwmduyDc+hno8eAylpSbb3Oruxm3/NZ9draLdNDpayySuo9huMQM7a6PnVgR5+g7zTev6jpbqO/D9cUKAftBps+ZTJtLYU5awgmkRUZPpP3C5zmqljrLr4eP4Nw3QB0STID+Jq3+BYbhzHx57u6lthESc5iuREuXk0Y5V39NSdOVtQv9rQvQxtdcIRWOQ+RBedQspybekympHbT4aNsdpuL0o4wU8hGLbJ7T3VKGAZT7v32C1TeEC7IySP8Fv31c5v/5raP4jclj2sIFtFnkIJpb8EH6brIJbU89oXG4RzK+QRxvPvvsjO0Oz+X1lbakzQRhLliWa6CczeZ+vnum2nW1nWUFqTjGKFTVe++UCsBScTpcPykOmFqA2aL4QTd0Va3sp/sfB2FRQjr9hKN5HkAXtnW9LZB65YbifisA==;ViuOPS8nthrL7U/Z1g25ZQ=="
 ---
 

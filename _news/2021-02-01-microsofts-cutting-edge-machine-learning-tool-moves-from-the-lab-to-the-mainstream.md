@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsofts-cutting-e
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/"
 type: article
 quality: 100
-heat: 200
+heat: 190
 published: true
 
 provider:
@@ -148,20 +148,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/gazettextra.com/content/tncms/custom/image/22e609ae-afc7-11e9-8d80-639cb276d44a.png"
         width: 900
         height: 470
-        isCached: true
-  - title: "Confluent Announces Strategic Alliance with Microsoft"
-    excerpt: "Confluent, the company of the founders of Apache Kafka, recently announced a new strategic alliance between them and Microsoft to enable a more integrated experience between Confluent Cloud and the Azure platform."
-    publishedDateTime: 2021-01-29T12:06:00Z
-    webUrl: "https://www.infoq.com/news/2021/01/confluent-microsoft-alliance/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 39
-    images:
-      - url: "https://res.infoq.com/news/2021/01/confluent-microsoft-alliance/en/headerimage/header-1611818830074.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
     excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance"

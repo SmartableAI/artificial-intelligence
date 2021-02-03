@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/automating-complex-d
 webUrl: "https://aws.amazon.com/blogs/machine-learning/automating-complex-deep-learning-model-training-using-amazon-sagemaker-debugger-and-aws-step-functions/"
 type: article
 quality: 120
-heat: 170
+heat: 160
 published: true
 
 provider:
@@ -82,20 +82,6 @@ related:
       - url: "https://i.insider.com/6018d1106dfbe10018e0135d?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Head motion classification using thread-based sensor and machine learning algorithm"
-    excerpt: "Human machine interfaces that can track head motion will result in advances in physical rehabilitation, improved augmented reality/virtual reality systems, and aid in the study of human behavior. This paper presents a head position monitoring and classification system using thin flexible strain sensing threads placed on the neck of an individual."
-    publishedDateTime: 2021-01-29T12:00:00Z
-    webUrl: "https://www.nature.com/articles/s41598-021-81284-7"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 33
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-81284-7/MediaObjects/41598_2021_81284_Fig1_HTML.png"
-        width: 685
-        height: 436
         isCached: true
 
 secured: "E1Bz0uhhf6pYmAubCm+XvyFRbnf56n9RywhiF5CihEJkX3XljwEB2kRx4p8LFVFc2OnOXgtz+h9zu2K9WarT9X3+w8T9e+vDSeqZIulcKHeA61OOSrr2XiyOsgY4w5ToAuaqkeV9Ftgk+za/1EuoeUc7bwgeqAMPtfO0MZMmiptQlhoiFOVMSqT+nQptdd2OjAzStFvtOJnShDq/bDLVnolnbcDGvUaFD+JEYshkhx8Z+xUFXs29Eti8RS99HQcIdsvUD/TBixGr63mH/Lfm1ZYKu4uqIz8CnwotirzGvJSPWKff7F0FkgPS5uqToxR5nXzinAm/ZC85GgfWQj+IFeE5PqDUFX7XTSigsZHjxDo=;XDnjfPlZOqTM0z7IQcALLw=="
