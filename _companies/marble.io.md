@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "marblerobot"
   url: "https://twitter.com/marblerobot"
-  followers: 400
+  followers: 399
 
 size: 11-50 employees
 yearFounded: 2015
