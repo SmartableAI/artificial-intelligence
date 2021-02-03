@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/budget-2021-ai-ml-analytics-ease-compliance-
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/budget-2021-ai-ml-analytics-ease-compliance-burden-check-tax-evasion/amp/"
 type: article
 quality: 71
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -71,20 +71,6 @@ related:
     quality: 42
     images:
       - url: "https://www.columbusceo.com/apps/pbcsi.dll/bilde?Site=OH&Date=20210202&Category=BUSINESS&ArtNo=210129905&Ref=AR"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Artificial Intelligence in 2021: Current and Future Trends"
-    excerpt: "Three top experts in artificial intelligence discuss the key factors driving the growth of this emerging technology."
-    publishedDateTime: 2021-01-29T23:47:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/artificial-intelligence-in-2021-current-and-future-trends/"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 41
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2018/03/pexels-panumas-nikhomkhai-1148820-1024x683-1.jpg"
         width: 1024
         height: 683
         isCached: true

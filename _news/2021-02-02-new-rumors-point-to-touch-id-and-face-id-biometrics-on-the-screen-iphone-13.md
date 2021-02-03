@@ -9,7 +9,7 @@ ampWebUrl: "https://www.compsmag.com/news/apple/new-rumors-point-to-touch-id-and
 cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/apple/new-rumors-point-to-touch-id-and-face-id-biometrics-on-the-screen-iphone-13/amp/"
 type: article
 quality: 42
-heat: -1
+heat: 42
 published: false
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "New ID and biometrics advisory board, ethical AI alliance formed by global organizations"
-    excerpt: "The Security Industry Association announced the foundation of an Identity and Biometric Technology Advisory Board, WEF forms group to take action on AI ethics"
-    publishedDateTime: 2021-01-29T23:14:00Z
-    webUrl: "https://www.biometricupdate.com/202101/new-id-and-biometrics-advisory-board-ethical-ai-alliance-formed-by-global-organizations"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 45
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/09/23155952/advisory-board-artificial-intelligence-leadership-1024x485.jpg"
-        width: 1024
-        height: 485
-        isCached: true
   - title: "Major Telco Disrupts Organized Fraud with Voice Biometrics"
     excerpt: "Preventing fraud is a big responsibility. For telcos, the financial losses from fraud can be huge. But for customers, the impact of fraud can be catastrophic."
     publishedDateTime: 2021-02-03T01:03:00Z
@@ -68,6 +54,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/06/15124940/iphone-in-use.png"
         width: 800
         height: 450
+        isCached: true
+  - title: "Hikvision to deploy 1,900 cameras with face biometrics for $33M smart city contract"
+    excerpt: "Hikvision has won a contract worth an estimated $33 million to install roughly 1,900 cameras with face biometrics as part of a smart city project."
+    publishedDateTime: 2021-02-02T22:31:00Z
+    webUrl: "https://www.biometricupdate.com/202102/hikvision-to-deploy-1900-cameras-with-face-biometrics-for-33m-smart-city-contract"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 18
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/18144436/Hikvision-biometric-facial-recognition-cameras.jpg"
+        width: 720
+        height: 480
         isCached: true
 
 secured: "rnEdkEvdZZUwiK/N0TAmu84tZT02XPJeq9EGpzYgjJ+JL9Zki5+GYyXuEn9XlODSCPd2X5KshSQFw7g14FdLlyGsMdkGC6lKwDH/ZXWweIG9QzkQcySWE7eR0ecz6ga7gQwOuzj55KyEkBWOvIpWlH5U3SKhhnJ8cmZVfeXTrUZlA4BN6OBmrxZu4Pl4g3iJ6wjGUsFO37hPP0rF0gBTwiKUQavs4PtDBMVgjQoJEclZf+wBIuWIQZIiZSxE3ujw8xBBivL8C4qBVHsBSjAo0pMkrjFnrUkSTKRE0iaBDALfJUx5dFHAffwMIwp9hMJKqSDgo8MLqLdIA/Yh0yELQRvVbZIxmNP6z8z7SXW+n1U=;50mzM5459R5saJ3oBx32Ow=="

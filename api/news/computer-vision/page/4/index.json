@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-08-its-not-going-to-be-very-hard-to-id-them-feds-have-tools-to-easily-track-down-capitol-rioters.md",
+      "title": "‘It’s not going to be very hard to ID them’: Feds have tools to easily track down Capitol rioters",
+      "excerpt": "The FBI has some of the most powerful facial recognition systems in the country, according to outside experts. And because few arrests were made during the deadly unrest, law enforcement officials will now have to depend on that technology to speed up ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fedscoop.com/capitol-riots-mob-facial-recognition-fbi-tracking/",
+      "originalUrl": "https://www.fedscoop.com/capitol-riots-mob-facial-recognition-fbi-tracking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fedscoop.com/wp-content/uploads/2021/01/50810619993_3417a94153_k.jpg",
+          "width": 2040,
+          "height": 1190,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-07T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FedScoop",
+        "domain": "fedscoop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-intel-launches-realsense-id-an-on-device-facial-recognition-system.md",
       "title": "Intel Launches RealSense ID, An On-Device Facial Recognition System",
       "excerpt": "Intel has launched RealSense ID, a new on-device facial recognition system that uses the company's RealSense 3D technology.",
@@ -1325,41 +1368,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-omniq-ai-based-machine-vision-safety-system-selected-for-security-and-protection-of-a-non-us-government-leader.md",
-      "title": "OMNIQ AI-Based Machine Vision Safety System Selected for Security and Protection of a Non-U.S. Government Leader",
-      "excerpt": "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/globe-newswire/8117188/omniq-ai-based-machine-vision-safety-system-selected-for-security-and-protection-of-a-non-us-government-leader",
-      "originalUrl": "https://www.morningstar.com/news/globe-newswire/8117188/omniq-ai-based-machine-vision-safety-system-selected-for-security-and-protection-of-a-non-us-government-leader",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-23T12:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

@@ -36,20 +36,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 54
-  - title: "Self-driving trucks join the motorway"
-    excerpt: "Scania has been granted permission by the Swedish Transport Agency to test self-driving trucks on the E4 motorway between Södertälje and Jönköping. The tests will occur in collaboration with TuSimple,"
-    publishedDateTime: 2021-02-03T10:48:00Z
-    webUrl: "https://www.khl.com/news/selfdriving-trucks-join-the-motorway/8010090.article"
-    type: article
-    provider:
-      name: KHL
-      domain: khl.com
-    quality: 24
-    images:
-      - url: "https://www.khl.com/Images/1260x628/index-20210203-101654-Scania-auto-2.jpg"
-        width: 1260
-        height: 628
-        isCached: true
 
 secured: "hwUPDip65QFqEVO/O85zlRsw4jhiJuhx3Nouo2UmwQWlq4bjQeYX+W8ZXK2sGP0ltPIKW8O7/JQ4ZMxdzYqhD5dlbdb9Orvd7fiPZW+6ZQgHZ4FagvYvjHE7ktSM/r+f6apOGUEIfoKzYCz4PFq5AzU442Ul4U/o7sHktsx6tS3fHXyt5pYwxuOo5SW8Boj/iuVBAgmIVTKGDkD5cQv8kbMGokAJXk3v4Xa1nVyF50y/PAo+t7nWGm5FXwjsWuzHBjNwVAoGM0KNfW6BS9G0+Oto+dKwFELeeLCa1IfL7dt/nPEtpo34VWMjz9Q2bzZvTcFk2Obfnftwwz81qEEjp8hGqKtiCvwWHNQcMWngIg0=;rDnoir3ynG8IYnA3XuYlxg=="
 ---

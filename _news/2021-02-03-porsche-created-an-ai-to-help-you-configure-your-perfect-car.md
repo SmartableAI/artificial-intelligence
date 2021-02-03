@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/porsche-ai-car-configurator-rec
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/porsche-ai-car-configurator-recommendation-engine/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Porsche: Personalised recommendations using artificial intelligence"
+    excerpt: "Porsche is equipping its Car Configurator with a new advisory function that draws on artificial intelligence. A new function has been added to the Porsche Car Configurator, to offer individuals specially tailored suggestions as to how they might configure their vehicle."
+    publishedDateTime: 2021-02-03T15:50:00Z
+    webUrl: "https://www.automotiveworld.com/news-releases/porsche-personalised-recommendations-using-artificial-intelligence/"
+    type: article
+    provider:
+      name: Automotive World
+      domain: automotiveworld.com
+    quality: 19
 
 secured: "R4zTowK4ugb26rdvj/hewTlKnse4/ghKAlLl9k+M3oHUFIrOI3fkJuWoGRZrb8kq5sZthWnOfvUgNMyEClo4l/lRi1kb3dELJhiRtQMATm2tGYtQZJsaWbMr3zHPgBZteVh4BcWeQAYcprufS3VeKxEW2Y2pyqdfJjdGJFCx1tat4wi+fZoNFx1izgkveDa1kOUXIvr74pZ/ElZK1ojWTKwYqlOiMi5aHzCt5fwgbE7H8qRCb3GmZw8GlRKj5OjFYMxOtHPBTmR7utjlb8hpAJPSK3Z5kHPHfRaSRXpiUIrDsQO0mPP6QE6Uh1XamrbG7INvOS6Ihmie8+Pzydkz22yB+M+HoC504sJGn3ffu90=;95joyTMnlZ7xT0989NBhXA=="
 ---

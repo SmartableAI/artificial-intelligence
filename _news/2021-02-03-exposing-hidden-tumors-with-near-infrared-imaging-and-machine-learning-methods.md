@@ -43,6 +43,22 @@ related:
         width: 2075
         height: 1638
         isCached: true
+  - title: "New technology uses near infrared imaging and machine learning to find hidden tumors"
+    excerpt: "New technology uses near infrared imaging and machine learning to find hidden tumors Tumors can damage surrounding blood vessels and"
+    publishedDateTime: 2021-02-03T05:35:00Z
+    webUrl: "https://www.compsmag.com/news/technology/new-technology-uses-near-infrared-imaging-and-machine-learning-to-find-hidden-tumors/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/new-technology-uses-near-infrared-imaging-and-machine-learning-to-find-hidden-tumors/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/new-technology-uses-near-infrared-imaging-and-machine-learning-to-find-hidden-tumors/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 52
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/New-technology-uses-near-infrared-imaging-and-machine-learning-to.jpg"
+        width: 620
+        height: 480
+        isCached: true
   - title: "Deep Vision: Near-infrared imaging and machine learning can identify hidden tumors"
     excerpt: "Gastrointestinal stromal tumors are tumors of the digestive tract that grow underneath the mucus layer covering our organs. Because they are deep inside the tissue, these 'submucosal tumors' are difficult to detect and diagnose,"
     publishedDateTime: 2021-02-03T01:30:00Z
@@ -52,17 +68,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 43
-  - title: "New technology uses near-infrared imaging and machine learning to find hidden tumors"
-    excerpt: "Tumors can be damaging to surrounding blood vessels and tissues even if they're benign. If they're malignant, they're aggressive and sneaky, and often irrevocably damaging. In the latter case, early detection is key to treatment and recovery."
-    publishedDateTime: 2021-02-03T05:15:00Z
-    webUrl: "https://www.news-medical.net/news/20210203/New-technology-uses-near-infrared-imaging-and-machine-learning-to-find-hidden-tumors.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20210203/New-technology-uses-near-infrared-imaging-and-machine-learning-to-find-hidden-tumors.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210203/New-technology-uses-near-infrared-imaging-and-machine-learning-to-find-hidden-tumors.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 32
 
 secured: "QfDdyd+OYjaN2EkWl6c58fov1qTDSGyIuGIqzHNaW0MlwmDpJOUQHyFJ/v/MYO5RxiH+7nWZDJis4OkfK99uCiGF1/4/ZezPUyzoiyOrYXh3uHHd8Rf1zL86hDwaA+KXCzxBWjVJi/NsIrHp+NZwh0V48MPpgZO0RAErT0WgKhSswud1Kl0fc15LP3aNR3/584+x+Gq0cUaK06L1CqdFYpclhJ4QBtpJAjXtc186VR83JdSil24EGoXUITBPdJhG/l0NQmoOwINxURtj28x2to64VPSeIVaWJdRAsmWI8caaiOjCvs07UuazfvvbErUIo5bYU6C/dJYqw1z0FW6JayqGcaufcgPHkdYCQ+QLesWq8JmGsEyvbjjR3pFkDEBcaf+G6eYmo7Wga7nMIabWvxUW897cQoOo8c/VSD6LIGmZmhwuwttliEHHWyzJegjYQKw4CDlXzzjx18EbvBRpL/Z1xsq1XeboBaZpvdCcSUMh1HqJWMjudYZ2kVKdENlQxv7V0JBnNmbmIS0yyKGvlw==;xaKU0fePC9yGY9ipjOQJpA=="
 ---

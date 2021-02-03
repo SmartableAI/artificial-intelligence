@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "New ID and biometrics advisory board, ethical AI alliance formed by global organizations"
-    excerpt: "The Security Industry Association announced the foundation of an Identity and Biometric Technology Advisory Board, WEF forms group to take action on AI ethics"
-    publishedDateTime: 2021-01-29T23:14:00Z
-    webUrl: "https://www.biometricupdate.com/202101/new-id-and-biometrics-advisory-board-ethical-ai-alliance-formed-by-global-organizations"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 45
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/09/23155952/advisory-board-artificial-intelligence-leadership-1024x485.jpg"
-        width: 1024
-        height: 485
-        isCached: true
   - title: "New rumors point to Touch ID and Face ID biometrics on the screen iPhone 13"
     excerpt: "New rumors point to Touch ID and Face ID biometrics on the screen iPhone 13 The following iPhone 13 lineup may include biometric"
     publishedDateTime: 2021-02-01T22:40:00Z
@@ -68,6 +54,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/06/15124940/iphone-in-use.png"
         width: 800
         height: 450
+        isCached: true
+  - title: "Hikvision to deploy 1,900 cameras with face biometrics for $33M smart city contract"
+    excerpt: "Hikvision has won a contract worth an estimated $33 million to install roughly 1,900 cameras with face biometrics as part of a smart city project."
+    publishedDateTime: 2021-02-02T22:31:00Z
+    webUrl: "https://www.biometricupdate.com/202102/hikvision-to-deploy-1900-cameras-with-face-biometrics-for-33m-smart-city-contract"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 18
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/18144436/Hikvision-biometric-facial-recognition-cameras.jpg"
+        width: 720
+        height: 480
         isCached: true
 
 secured: "lzbxn9cHCuVumL2gLN1pE8+cbTCNgWIxO0sljc2BWJHYRK6PEyn9VTuSUUPlKSBthXOZUQ7bJBdhLhVWY0pNtweqsSv8n5keXSg16r7Q3d7oZUhowdBWS6nvbvohNC+ku/xULbcDGXVPwsA1jeTivkC2aLsSN0VTjZGoP7+v8pflTTDMayyByGuANyqPkLQhrx/cd6addtPPuk6xSR5rg/uI4J+TU3UNcGdiQwm53uK03UWvm0+C3K8Ob3a5yTX3y1pGxX0t7C+RcqvUC281Os1+m9cLJ/9jkmBqHWnRJqLyeFopnRYf6AhhNQXiKyjdChubZKaw5abfGtlQGiJMXvmo8p1qvoHi56tDRCV4ZqCrqeTnx00XMAQ7hS2me0UNgL+Hdgndx0Te2MEXT8aQh0zjaXsz3iZt/WwzknhuoXwa1dD0wJN5AYVl82zdJgAhkSnGI1NJRHc8nqDKX4tNYkrDfWA55LC+ZRFycZsk/lGvZkf2Zf6YAST1eJKT9Kg+zHstGOB1mkREq4ptq6umfA==;dJVqH7Tm9syQtljSdK3a8A=="

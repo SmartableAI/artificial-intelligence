@@ -72,20 +72,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in 2021: Current and Future Trends"
-    excerpt: "Three top experts in artificial intelligence discuss the key factors driving the growth of this emerging technology."
-    publishedDateTime: 2021-01-29T23:47:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/artificial-intelligence-in-2021-current-and-future-trends/"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 41
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2018/03/pexels-panumas-nikhomkhai-1148820-1024x683-1.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Global Cognitive Analytics Market 2020 Size, Market Share, Key Players, Segmentation Development and Forecast by 2025"
     excerpt: "Global Cognitive Analytics Market 2020 by Company, Type and Application, Forecast to 2025 is the latest market report rolled out by MarketsandResearch.biz, one of the world’s leading market research firms."
     publishedDateTime: 2021-02-03T04:51:00Z

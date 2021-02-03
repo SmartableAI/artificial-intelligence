@@ -152,14 +152,19 @@ related:
         height: 470
         isCached: true
   - title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
-    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance"
-    publishedDateTime: 2021-02-02T22:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
+    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
+    publishedDateTime: 2021-02-03T08:22:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 26
+      name: Associated Press
+      domain: apnews.com
+    quality: 46
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "Cx4EJByem+Ih+Kq+sm9/EZkOBNVKc9SdZU7ySD47OEg9Afl1lnu8F2siVKLmtqSAKg4xvNQojlUe92KVUngXy395YyKmk1BqgQPm6NWmFN2xmzQj5Jowc72Ss9D2/R6ss28+gUMvefGiM7KrQwxEAq2qHJML9LkeF3I+6r5Vi13N5lDpYl5Lqd34YFvpy26M2/qg4nOgF3OQAvN3TsW+6gcTWM6/77U62BQS2+wOBEAsQ3GUFKtWsAHUMu9a4bLJngqqKxX/1/+uNdOTr19eQr73GL+n5GOspcl42xSawGu5yhgPIaP9rShIUpfU/pKb8Xoa1wJmxn5yqU8vhzp6OYsSnerUhqvgiMzpp0nylkPwpFjeQV8IKvPooctRe+DqTszFTddZpner1wHjLxeFcA4yIUESM0FSNhEEhoi6XyGizyblAqOO5PU8Tsv2025DP7i3uffjsIslNVnAlFGsyBqxsK0pjLeXgtAJ+b6hnO99RhIZtjuNjCa9+Hb3E8zt5bbW6kSvG/QduEKixeEicw==;S/D/Hdka4BR0kdgWLSEXZg=="
 ---

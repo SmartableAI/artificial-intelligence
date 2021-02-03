@@ -26,19 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "INbox-iT Brings Advanced Artificial Intelligence to Targeted Email Marketing"
-    excerpt: "Hackensack, NJ – iNbox-iT co-founders Frank Corallo and Henry Skull bring some real heat to the email marketing field. Corallo arrives with a long track record of success, serving as"
-    publishedDateTime: 2021-01-30T00:49:00Z
-    webUrl: "https://www.wboc.com/story/43261705/inbox-it-brings-advanced-artificial-intelligence-to-targeted-email-marketing"
+  - title: "Introducing the 2021 State of Marketing AI [FREE REPORT]"
+    excerpt: "AI may seem like a futuristic concept, but you use it dozens, if not hundreds, of times everyday most likely without knowing it. Major brands such Amazon, Facebook, Google, Microsoft,"
+    publishedDateTime: 2021-02-02T13:02:00Z
+    webUrl: "https://www.drift.com/blog/introducing-the-2021-state-of-marketing-ai-free-report/"
     type: article
     provider:
-      name: WBOC
-      domain: wboc.com
-    quality: 66
+      name: Drift
+      domain: drift.com
+    quality: 58
     images:
-      - url: "https://www.getnews.info/uploads/00180c8d128c47aa66a8538f335f51c3.png"
-        width: 475
-        height: 480
+      - url: "https://www.drift.com/wp-content/uploads/2021/01/StateOfMarketingAI-INDEX-BLOG.jpg"
+        width: 1200
+        height: 627
         isCached: true
 
 secured: "9hVcayKVVmYPPghqpZLVX5TJW9vwrdivPLRrOUmtW1g2jHnuqSrWM/111IWHhO8JrECpxTP6YtfplootC5mXQJqjfgTq7O56shDx3nBC+KHTk1kfXZ7WC/JmQXQaNzJB7kzkcKZwXM02cwz0HQ0dyqyg47LoQk/mArn3tArvhOgeScrqxENBqgau/cWXyrAZNpZCdOYOR5ar84QdKVmFuZfA01oDVXSsTjZ/5s8CBJYzGRcGSH18UFkDy74xOlzladX0PC7r8eZte+QZjG/RiPEhz6PsGEGCuA4fw5W3wYCSLdJ2TDaWoEZNzZt1nF5Xd3TF2eOwHpNJxc/vQfzQIbPOwgzHHvvQMKU3DyAyMyo=;QlpwprEQqzWdwtgS7SZrow=="

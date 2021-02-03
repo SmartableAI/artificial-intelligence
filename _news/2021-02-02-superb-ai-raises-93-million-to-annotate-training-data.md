@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Reverie Labs raises $25 million for its AI drug discovery platform"
+    excerpt: "Reverie Labs, a startup using AI to develop new medicines, today announced the closure of its $25 million series A round. The company says the capital will be used to advance its internal and partnered drug discovery program,"
+    publishedDateTime: 2021-02-03T15:38:00Z
+    webUrl: "https://venturebeat.com/2021/02/03/reverie-labs-raises-25-million-for-its-ai-drug-discovery-platform/"
+    ampWebUrl: "https://venturebeat.com/2021/02/03/reverie-labs-raises-25-million-for-its-ai-drug-discovery-platform/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/03/reverie-labs-raises-25-million-for-its-ai-drug-discovery-platform/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "HealthTensor raises $5 million for AI that augments and corrects medical records"
     excerpt: "HealthTensor, a startup developing a platform that leverages AI to identify health care inefficiencies, has raised $5 million."
     publishedDateTime: 2021-02-02T16:02:00Z

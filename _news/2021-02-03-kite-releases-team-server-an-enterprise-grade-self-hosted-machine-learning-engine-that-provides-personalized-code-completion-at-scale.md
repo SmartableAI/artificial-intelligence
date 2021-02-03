@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Kite Releases Team Server, an Enterprise Grade Self-Hosted Machine Learning Engine That Provides Personalized Code Completion at Scale"
-excerpt: "Kite, a leading AI-powered coding assistant that helps programmers code faster with Multi-Line Completions, today announced the availability"
+excerpt: "Kite, a leading AI-powered coding assistant that helps programmers code faster with Multi-Line Completions, today announced the availability of Kite Team Server. Kite"
 publishedDateTime: 2021-02-03T14:05:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/kite-releases-team-server-an-enterprise-grade-self-hosted-machine-learning-engine-that-provides-personalized-code-completion-at-scale-301221151.html"
-webUrl: "https://www.prnewswire.com/news-releases/kite-releases-team-server-an-enterprise-grade-self-hosted-machine-learning-engine-that-provides-personalized-code-completion-at-scale-301221151.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/kite-releases-team-server-an-enterprise-grade-self-hosted-machine-learning-engine-that-provides-personalized/article_41a468cc-c7c8-5e33-ba2c-6626e8a3d677.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/kite-releases-team-server-an-enterprise-grade-self-hosted-machine-learning-engine-that-provides-personalized/article_41a468cc-c7c8-5e33-ba2c-6626e8a3d677.html"
 type: article
 quality: 7
 heat: 7
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1432178/Kite_Team_Server.jpg?p=facebook"
-    width: 1064
-    height: 557
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/c4/0c484cdd-27ac-59f3-8f85-cabcc8ad1eb8/601adacf1f8e1.image.jpg?resize=936%2C630"
+    width: 936
+    height: 630
     isCached: true
 
-secured: "1J49p0v23wwQe1Dnz+WrNyohunn6fqyNCRyC+FCvNxCmmZ1pUZD/LT2sWhOCY2adzRQaCWgMsMQ4y6mHyv5Hoq7h31Ah55r3N/V+mrpVzfE92W25GPQmku3t3YFvhedH9CY8kw1K7ZTVHXJq/Y0Mt0t9DMtaMgc6HEYQ2nN/g9CBpd13r7pOVSGHOQjQWmmzIlzsKKiERHY904IEi4sKbrrPwcZkmQi34QePgDirBdsROFsMOfOMP6c7WzxVR2D7VTHTq9mCnklWb8vZDo3xNUuL0kG5URnxGaAdLweYaws3rmGIsJ2mLmdWPbQeWytwRJiVKJX3e9/yKnjaXUqxw2XeNvffuM1Tc1+IAS5R7Hk=;FUqd6TUIJBLZZe7h8EIc+g=="
+secured: "57/KMf/FH8VkiLc87EB8G6+onDreL+ivJ+YqvlJ+b+EINdugnRsrrbkEfNIcHpPmC8eXeMqUkEcT6OIOYi0E+LgUYAzFhy2uajnJNiDWkoyTyTgInPiP5+6JssiU5Ko36hkqPJ3RW/7sa/Yx5HkXhXTtDeYIu07LKPfvjbHP6vvfiSIbO/BOgqcHBO/YRfD/R7KxMMg8zEJp0Gm2wkJ4kFtEeKqtJVNLBvUp7riKDiB8/EuPObwvbbG8EuLRNTWpGM0FObw9JKx28PZe4VuClsnv6esRmrRm5bRa3gAm5IlClELziKaYDzOFUazJxpiiGdRqqjj9UNsElWcbSUgZ7yu7oZhz7/Fz74n7BkI48/o=;eIpmLqZtAXAmmDn6WL3LCw=="
 ---
 
