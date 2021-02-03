@@ -48,6 +48,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How Medical Technology Companies are Taking Full Advantage of Artificial Intelligence (AI) In Healthcare"
+    excerpt: "However, in time, AI has made its way closer to the user - into software and into Internet of Medical Things (IoMT) endpoints and other medical devices. For example, wearable health monitors such as ECG monitors and blood pressure monitors can collect and analyse data locally,"
+    publishedDateTime: 2021-02-03T08:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/how-medical-technology-companies-are-taking-full-advantage-of-artificial-intelligence-ai-in-healthcare-2021-02-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 82
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "VB Special Issue: AI and the future of health care"
     excerpt: "In this issue, we examine how the medical field is using AI and data to tackle the challenges of this extraordinary time"
     publishedDateTime: 2021-02-01T15:45:00Z
@@ -61,34 +75,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/01/vb-special-issue-ai-health-care-Header.jpg?w=1200&#038;strip=all"
         width: 1200
         height: 400
-        isCached: true
-  - title: "AI Weekly: Announcing our ‘AI and the future of health care’ special issue"
-    excerpt: "Through the lens of AI and data, we examine how health care providers and vendors are tackling the challenges of this extraordinary time."
-    publishedDateTime: 2021-01-29T21:59:00Z
-    webUrl: "https://venturebeat.com/2021/01/29/ai-weekly-announcing-our-ai-and-the-future-of-health-care-special-issue/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/01/ai-weekly-feature-image-ai-and-healthcare.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 598
-        isCached: true
-  - title: "Use of AI in healthcare & medicine is booming – here's how the medical field is benefiting from AI in 2021 and beyond"
-    excerpt: "The AI and technology revolutionizing all industries, it was only a matter of time before the same happened to healthcare. BI reviews the latest research and trends regarding artificial intelligence in medicine and healthcare."
-    publishedDateTime: 2021-01-29T21:55:00Z
-    webUrl: "https://www.businessinsider.com/artificial-intelligence-healthcare"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 61
-    images:
-      - url: "https://i.insider.com/5c98ef348e436a48a55cb83b?width=1200&format=jpeg"
-        width: 1000
-        height: 500
         isCached: true
   - title: "The POWER Interview: The Importance of AI and Machine Learning"
     excerpt: "Artificial intelligence (AI) and machine learning (ML) are becoming synonymous with the operation of power generation facilities. The increased"

@@ -1,14 +1,11 @@
 ---
 category: news
 title: "Facebook AI Gets Better at Describing Photos for Visually Impaired Users"
-excerpt: "In an effort to better accommodate users who are blind or visually impaired, Facebook this week updated its automatic alternative text (AAT) technology. The feature, introduced in 2016 (and granted the Helen Keller Achievement Award from the American Foundation for the Blind in 2018),"
-publishedDateTime: 2021-01-20T12:49:00Z
-originalUrl: "https://uk.pcmag.com/social-media/131125/facebook-ai-gets-better-at-describing-photos-for-visually-impaired-users"
-webUrl: "https://uk.pcmag.com/social-media/131125/facebook-ai-gets-better-at-describing-photos-for-visually-impaired-users"
+excerpt: "The feature, introduced in 2016 (and granted the Helen Keller Achievement Award from the American Foundation for the Blind in 2018), relies on object recognition to generate descriptions of photos ..."
+publishedDateTime: 2021-01-20T12:41:00Z
+originalUrl: "https://in.pcmag.com/social-media/140372/facebook-ai-gets-better-at-describing-photos-for-visually-impaired-users"
+webUrl: "https://in.pcmag.com/social-media/140372/facebook-ai-gets-better-at-describing-photos-for-visually-impaired-users"
 type: article
-quality: 68
-heat: -1
-published: false
 
 provider:
   name: PC Magazine
@@ -23,114 +20,11 @@ topics:
   - AI
 
 images:
-  - url: "https://sm.pcmag.com/t/pcmag_uk/news/f/facebook-a/facebook-ai-gets-better-at-describing-photos-for-visually-im_njkb.1200.jpg"
+  - url: "https://sm.pcmag.com/t/pcmag_in/news/f/facebook-a/facebook-ai-gets-better-at-describing-photos-for-visually-im_zvtd.1200.jpg"
     width: 1200
     height: 675
     isCached: true
 
-related:
-  - title: "Facebook uses AI to improve photo descriptions for the visually impaired"
-    excerpt: "One of the most common types of content shared on Facebook, and other social media platforms are photographs. While most social media users can look at an image and see what it represents,"
-    publishedDateTime: 2021-01-20T12:28:00Z
-    webUrl: "https://www.slashgear.com/facebook-uses-ai-to-improve-photo-descriptions-for-the-visually-impaired-20655881/"
-    ampWebUrl: "https://www.slashgear.com/facebook-uses-ai-to-improve-photo-descriptions-for-the-visually-impaired-20655881/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/facebook-uses-ai-to-improve-photo-descriptions-for-the-visually-impaired-20655881/amp/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 88
-    images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/01/ai-img-desc.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Facebook AI Gets Better at Describing Photos for Visually Impaired Users"
-    excerpt: "In an effort to better accommodate users who are blind or visually impaired, Facebook this week updated its automatic alternative text (AAT) technology. The feature, introduced in 2016 (and granted the Helen Keller Achievement Award from the American Foundation for the Blind in 2018),"
-    publishedDateTime: 2021-01-20T16:30:00Z
-    webUrl: "https://www.entrepreneur.com/article/363767"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/363767"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/363767"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 88
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1611158780-03y4aZSGaxg8n0A3gIm3L57-11611143412fit-limfit-limsize-1696x.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Facebook Improves Photo Experience For The Blind, Visually Impaired"
-    excerpt: "Facebook said it has launched an improved version of its automatic alternative text or AAT feature to improve photo descriptions for its users who are blind or visually impaired. AAT utilizes object recognition to generate descriptions of photos on demand so that blind or visually impaired,"
-    publishedDateTime: 2021-01-20T14:21:00Z
-    webUrl: "https://www.nasdaq.com/articles/facebook-improves-photo-experience-for-the-blind-visually-impaired-2021-01-20"
-    ampWebUrl: "https://www.nasdaq.com/articles/facebook-improves-photo-experience-for-the-blind-visually-impaired-2021-01-20?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/facebook-improves-photo-experience-for-the-blind-visually-impaired-2021-01-20?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
-  - title: "Good News for Visually Impaired: Facebook can Describe Photos Better for You"
-    excerpt: "Facebook announced new improvements in its artificial intelligence (AI) technology. Facebook can now generate descriptions of photos posted on its platforms including Instagram for the visually-impaired users."
-    publishedDateTime: 2021-01-21T08:08:00Z
-    webUrl: "https://www.medindia.net/news/good-news-for-visually-impaired-facebook-can-describe-photos-better-for-you-199480-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/good-news-for-visually-impaired-facebook-can-describe-photos-better-for-you-199480-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/good-news-for-visually-impaired-facebook-can-describe-photos-better-for-you-199480-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 56
-    images:
-      - url: "https://images.medindia.net/amp-images/health-images/facebook.jpg"
-        width: 1200
-        height: 1000
-        isCached: true
-  - title: "Facebook Improves Its AI Audio Photo Descriptions for the Visually Impaired"
-    excerpt: "Facebook has been using AI to audibly describe the contents of photos for the visually impaired for some time, but it's improving those efforts this year."
-    publishedDateTime: 2021-01-20T20:08:00Z
-    webUrl: "https://petapixel.com/2021/01/20/facebook-improves-its-ai-audio-photo-descriptions-for-visually-impaired/"
-    type: article
-    provider:
-      name: PetaPixel
-      domain: petapixel.com
-    quality: 37
-    images:
-      - url: "https://petapixel.com/assets/uploads/2021/01/Facebook-Improves-its-AI-Audio-Photo-Descriptions-for-Visually-Impaired.jpg"
-        width: 1600
-        height: 840
-        isCached: true
-  - title: "Facebook is getting better at providing more details to visually impaired users"
-    excerpt: "Facebook is improving its Automatic Alternative Text (AAT) technology to better utilize object recognition to generate descriptions of photos"
-    publishedDateTime: 2021-01-21T07:05:00Z
-    webUrl: "https://pocketnow.com/facebook-is-getting-better-at-providing-more-details-to-visually-impaired-users"
-    type: article
-    provider:
-      name: pocketnow.com
-      domain: pocketnow.com
-    quality: 35
-    images:
-      - url: "https://pocketnow.com/wp/../files/2021/01/Facebook-AI-for-blind.jpg"
-        width: 1536
-        height: 864
-        isCached: true
-  - title: "How Facebook’s Latest Image Description Tool For The Visually Impaired Really Works"
-    excerpt: "The first version of AAT was developed using human-labelled data. The data was then used to train a deep convolutional neural network."
-    publishedDateTime: 2021-01-23T10:34:00Z
-    webUrl: "https://analyticsindiamag.com/how-facebooks-latest-image-description-tool-for-the-visually-impaired-really-works/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 33
-    images:
-      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2021/01/2021-01-22.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-
-secured: "mv8ooIIT3iCo54xeBn6NURYxLGiftEKq4ZeGJRE2hVjW66guahV+OPbJeUB6ylfQ2XE/dWEvuiq37TUFiPgCY4qVzRCgQNwoaJ8sA6sIvoWcn7tj/w4brQhGOMzbeDFlOfZePlEd38TiAaCAIQmNTqu7Horlc08m66Geu0sSZCda2DZXJsRHR9+2yM24MWg6Qf78xwd7Ycyjf0zYo25RZTjRYr8EEtTnO/nqBcjySJv6YtsC83oKOuwM92x/wnCCMtGPL09SqT19FuYK5QKX48sZqZgN7E0XmY9I0MPDZWwvWf9G1Uvg0V58HNGXHk5aGGnVBJuv67mx79SKBGWFjUerz2yfFn92uMrPq2ZTD/irj9QbW2/a6M2tyYRZnwbVW1tjOmclo3Luhbt3YJbOh7YXVyUaAw+zSnuDolNwPVpjwm2VczJvmofYRM59a+wDJ0fi5XfpIcr/rvMzn4TrKb31ODDmkA+KzZ4efTr1LnpcZYKgnSkTZytP1lOXajHsRRkNqpAaFw3dmkBG7bcppw==;TCp+gysVqADZ2W8/ge/0WQ=="
+secured: "1662B0a66fRcbDAIzGCsMouhG/ZTkaFWiXsJyKsz+4BlyjIwi0XfWpM7hncx14prvkxXNGK1mrSY53LG5Mld9pY4ITSu8CfLkE3vhD02NP9IXLU5DONeKqxnlL0w3VG/rIpYWR14nbBVTFCjoLqLWvoe5kmJAqhp5Fx+f8RbJq7tIQL5SeRYqLrh2vKGvUKt3t5cdaqASITyER37eISsBL4B/NVWtI1/CzQSGgUsmCA+Ql8pF4PzLkcaa8AxjygX6VsaBl5LNY9JVQX9UtOrL6f79akyIaPyNpI/B4M5KoGYmJ1G9O1YF0K9AHoUF66eZzIDD7dVjcQrBSbBLxnBd4SFo6MTlnZXKNZiYfPjsq8=;pIHubEBUUrtTu70hvTpKLQ=="
 ---
 

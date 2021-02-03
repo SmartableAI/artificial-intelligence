@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/article/technology-waterville-maine-artificial-
 webUrl: "https://apnews.com/article/technology-waterville-maine-artificial-intelligence-6b776d45f2e6f3866ee4173cbfd91c0f"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -22,19 +22,6 @@ images:
     width: 700
     height: 450
     isCached: true
-
-related:
-  - title: "Colby College launches machine learning institute"
-    excerpt: "Colby's new Davis Institute for Artificial Intelligence will help students to incorporate artificial intelligence into their liberal arts education."
-    publishedDateTime: 2021-01-29T21:32:00Z
-    webUrl: "https://www.bostonglobe.com/2021/01/29/metro/colby-college-launches-machine-learning-institute/"
-    ampWebUrl: "https://www.bostonglobe.com/2021/01/29/metro/colby-college-launches-machine-learning-institute/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/01/29/metro/colby-college-launches-machine-learning-institute/?outputType=amp"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 39
 
 secured: "1jAWkO8diOAEx0Mp3eaBk6dougNbezIS2PSL6h2SVouYg04OJcKQmCFNn5hBs94vwPExd3e0B4gasQqUgR5DiSI+nlph68CyYGfwLxiTm+QZhgIbx81fbZ16qrXF6qQJkOG6j3iLzIFuLq6x4FVCssmxEbVvr8GLs3SWDiapISfpWGEY1kaW7id4tyDaAzjDHy1e9NQexD3Y9/p5nPgI7k8bJuTdY+s/Acy3Oyy3KHuJAzSSjpuqp7wWANP8XfyTipQ27ztnE3NzuXKd0q8qYzKYpzmCmY7FOg16IW2aVyXGIR4ltvmbql7d0mShPHKB6NbSc/H3nlVANfsl1mt9vObmTa4GjyaDxaMkY73vLZQ=;pO2wJk1/eKrlidfdSZQAeA=="
 ---

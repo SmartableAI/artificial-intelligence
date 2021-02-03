@@ -69,18 +69,18 @@ related:
         height: 600
         isCached: true
   - title: "Microchip Accelerates Machine Learning and Hyperscale Computing Infrastructure with the World’s First PCI Express® 5.0 Switches"
-    excerpt: "Applications such as data analytics, autonomous-driving and medical diagnostics are driving extraordinary demands for machine learning and hyperscale compute infrastructure. To meet these demands, Microchip Technology Inc."
-    publishedDateTime: 2021-02-03T05:25:00Z
-    webUrl: "https://www.globalbankingandfinance.com/category/news/microchip-accelerates-machine-learning-and-hyperscale-computing-infrastructure-with-the-worlds-first-pci-express-5-0-switches/"
+    excerpt: "CHANDLER, Ariz., Feb. 02, 2021 (GLOBE NEWSWIRE) — Applications such as data analytics, autonomous-driving and medical diagnostics are driving extraordinary demands for machine learning and hyperscale compute infrastructure. To meet these demands ..."
+    publishedDateTime: 2021-02-03T14:27:00Z
+    webUrl: "https://www.eejournal.com/industry_news/microchip-accelerates-machine-learning-and-hyperscale-computing-infrastructure-with-the-worlds-first-pci-express-5-0-switches/"
     type: article
     provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 13
+      name: Electronic Engineering Journal
+      domain: eejournal.com
+    quality: 11
     images:
-      - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
-        width: 1000
-        height: 600
+      - url: "https://www.eejournal.com/wp-content/uploads/2017/05/cropped-EEJ_favicon_2020-copy.png"
+        width: 512
+        height: 512
         isCached: true
 
 secured: "n4bAnxsOqCsIPgHV8CGOAjFSOUW+U9p9sr+uXIGaigZcj9rTj8yrO6raYCzIfZnjwvpZkpVcFkRUqdLshWhgDMzvizl6yRN6xFl8OQaGpi3Kb5KfBtnmB7Si6L3fXiRlbB31PNMU1ZNukncjViLq6PmdX7ZznumlU8FXVjkU22fW7m4hRx3Fg70yHm7TqctGHLh57duGBA/RDe9nyVCPwUULxYUcUpJ3Q+P7oN/GUpM6gWCDaRSPfU41yBOFoJXFNyNQmF/FbOXW+E2NQAwhOFYc0TcqVuILFXBDg/cnP2EugE4sFnfFwjocG8jqR9h8tqAD4aGkXt5qWWoKa4QoUHMR/m6PDDyhGhzvehmgPkM=;wlyrOJ9QTIILwD4CXh3NaQ=="

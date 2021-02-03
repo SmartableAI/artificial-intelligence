@@ -1,28 +1,27 @@
 ---
 category: news
 title: "Microchip Accelerates Machine Learning and Hyperscale Computing Infrastructure with the World’s First PCI Express® 5.0 Switches"
-excerpt: "Applications such as data analytics, autonomous-driving and medical diagnostics are driving extraordinary demands for machine learning and hyperscale compute infrastructure. To meet these demands, Microchip Technology Inc."
-publishedDateTime: 2021-02-03T05:25:00Z
-originalUrl: "https://www.globalbankingandfinance.com/category/news/microchip-accelerates-machine-learning-and-hyperscale-computing-infrastructure-with-the-worlds-first-pci-express-5-0-switches/"
-webUrl: "https://www.globalbankingandfinance.com/category/news/microchip-accelerates-machine-learning-and-hyperscale-computing-infrastructure-with-the-worlds-first-pci-express-5-0-switches/"
+excerpt: "CHANDLER, Ariz., Feb. 02, 2021 (GLOBE NEWSWIRE) — Applications such as data analytics, autonomous-driving and medical diagnostics are driving extraordinary demands for machine learning and hyperscale compute infrastructure. To meet these demands ..."
+publishedDateTime: 2021-02-03T14:27:00Z
+originalUrl: "https://www.eejournal.com/industry_news/microchip-accelerates-machine-learning-and-hyperscale-computing-infrastructure-with-the-worlds-first-pci-express-5-0-switches/"
+webUrl: "https://www.eejournal.com/industry_news/microchip-accelerates-machine-learning-and-hyperscale-computing-infrastructure-with-the-worlds-first-pci-express-5-0-switches/"
 type: article
-quality: 13
+quality: 11
 heat: -1
 published: false
 
 provider:
-  name: List of Banks in Belarus
-  domain: globalbankingandfinance.com
+  name: Electronic Engineering Journal
+  domain: eejournal.com
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
 
 images:
-  - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
-    width: 1000
-    height: 600
+  - url: "https://www.eejournal.com/wp-content/uploads/2017/05/cropped-EEJ_favicon_2020-copy.png"
+    width: 512
+    height: 512
     isCached: true
 
 related:
@@ -80,6 +79,6 @@ related:
         height: 600
         isCached: true
 
-secured: "8vKM0E0M2oafAIy1ihzp0j3W2LSqUJpnJiRzb25oSavQK1s9/cvAereG3jM3vMJvK5L/Sm8dWP/OkEZWOFwcVsOvUjzU2PvbFFb/OJBkN23I4P0PUyD5+eB7nqEUe4fzYrtGPoYIBrhlI0Nc29axuRUMSYNmYofPv0xzwhkJptReEKDFpPAy8uP9DVQYgUg/ygklKAdGjx+RK24R+QwW7GAZdjYawWP1eOiHyZI+JUff2XjPSq+5RLLm7LAEQbJXZUOXsTd5hDpOwbCtwdVTI9a+Vck1CpISM/KbnYYim1dLyppnccCkpSHWTgd6+yMt8mDPRKFWsD7ftcQtD67aiLmKi9/xNnoQoI6TRt90Jb4=;LD9SulIAJlfRdbtWvVGGHw=="
+secured: "pFXIqsUNZSOGEOI0SgzWWHcgtUBR1ieFa/51qa8slAr/WnSL0O64u6mgsL2ceb94fXF0Nd6tEzwIPAL1JG5jpYkoq0cULsPkEZG1tVXce+16QV8biHX+A4rtrSvNAiF8+plILtBhio+1hSUr3PjuITLx0hjdOCWsb6hLVA8yPhyR+n0Dhaa29jdd7kSbZ9HlBcjk5HobqL02a3fkSWYK0XJfVCt1H76HeUYHjAr/EWrO6rb157XCROKlKkNnJLAii17LzywimtmLw0iOY1cvpbyLZjGKpYXgLpZae8wrInsR++XzxrjdahjR5zXBs/194FlXFKfc6oe5JC1QrM1gJ8aCc+SJggQciK0GgBEzSTA=;C/WeokeX6kWtqt71W/CL/w=="
 ---
 

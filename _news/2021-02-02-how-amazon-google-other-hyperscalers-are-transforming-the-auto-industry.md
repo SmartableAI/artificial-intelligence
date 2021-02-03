@@ -65,18 +65,18 @@ related:
         height: 600
         isCached: true
   - title: "Microchip Accelerates Machine Learning and Hyperscale Computing Infrastructure with the World’s First PCI Express® 5.0 Switches"
-    excerpt: "Applications such as data analytics, autonomous-driving and medical diagnostics are driving extraordinary demands for machine learning and hyperscale compute infrastructure. To meet these demands, Microchip Technology Inc."
-    publishedDateTime: 2021-02-03T05:25:00Z
-    webUrl: "https://www.globalbankingandfinance.com/category/news/microchip-accelerates-machine-learning-and-hyperscale-computing-infrastructure-with-the-worlds-first-pci-express-5-0-switches/"
+    excerpt: "CHANDLER, Ariz., Feb. 02, 2021 (GLOBE NEWSWIRE) — Applications such as data analytics, autonomous-driving and medical diagnostics are driving extraordinary demands for machine learning and hyperscale compute infrastructure. To meet these demands ..."
+    publishedDateTime: 2021-02-03T14:27:00Z
+    webUrl: "https://www.eejournal.com/industry_news/microchip-accelerates-machine-learning-and-hyperscale-computing-infrastructure-with-the-worlds-first-pci-express-5-0-switches/"
     type: article
     provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 13
+      name: Electronic Engineering Journal
+      domain: eejournal.com
+    quality: 11
     images:
-      - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
-        width: 1000
-        height: 600
+      - url: "https://www.eejournal.com/wp-content/uploads/2017/05/cropped-EEJ_favicon_2020-copy.png"
+        width: 512
+        height: 512
         isCached: true
 
 secured: "Ibh+3vj58/QOuTiganYu9H8FoDc3x1uL9e66ph4+BUVa7PinAAcCpSINTKMz8rD9+tEJEA8roHkeU3x+n45vTxsm/ekrGWfygZediFHS9917cD7vvL9g9GfKhDGxxJh47fhp73/bTVb51OWLRCTbrloY7LcLa4uOfxsH8++G7q0mnxiJyK0OQpYY0DkDLC41tc6+RBSY9VgJz1Dgb9PDKXUAgBUOsaZ0JIeyQ95Hhus7D5pAzf9Pl+5J2gfGh5pez7l8hoUXZfbeU4MLBd3EflN57D2QGxnA81f197p1q8Sd2ZmbZkQkVc7Ktzw1aMqaFx1BiYxukPcP9MMrxzAxAJnwLcvK3GRDS1slT6blYDl+c1lBR8tn9RCoLphQE5rZD6mFRSFud/OZ3lx8OADPqq94jX9onn8HDOJFlLgpRek9OvP7xVN6SF2JgULhUBCMNancV8q79q8pdd4O+UC7jv+T8xwZz/5B4LF9iKt/Xmaqnnjz+mb0IXU5UmzNJj/ekDNGi+2zCO9DyhXMFkKPvQ==;+NeXdvFS9mW3UmU5zs7vMQ=="

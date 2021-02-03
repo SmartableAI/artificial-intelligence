@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/rescale-raises-50-millio
 webUrl: "https://www.marketwatch.com/press-release/rescale-raises-50-million-in-series-c-funding-2021-02-02"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Superb AI Raises $9.3M in Series A Funding"
+    excerpt: "Superb AI, a San Mateo, Calif.-based provider of AI-enabled training data platforms, completed a $9.3m Series A round of financing"
+    publishedDateTime: 2021-02-02T19:00:00Z
+    webUrl: "https://www.finsmes.com/2021/02/superb-ai-raises-9-3m-in-series-a-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 39
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2021/02/Superb-AI.jpg"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "uDtdZkt1FS+oW6Ro+gjEZOsXn5Du1u3PMWnCtzWQdIfnKh/2mSPbafsFKDgF5uBx2y1TqQHIa6PZVxhkxK9f/bJw02Hyfr2UmPO2gCZoPxu4HQG+lFblNrB20dVOTGUC0f7Sai5pS+JjRGZHtOTP+TfWViLNQvpAsZZUMAEnqHXvlfloFYlITjBC1wD76wrTt2fCw3BkVI81xGx6T3MzhQDsj2+D5FSY6+yo+lGVQv+ZQW27KvHbmC6qcd0rswD/2pFaKBMT3PeW6eBeG82pkS41Ohu9p1Kid7fEHi5oveYbX/oxd1UvobcoOUEQxiAgyn8ToTsaS/G+RQzEvOTszTHB3LiNVkRiEpMNBLmvgMQ=;MP1wgILNPceYBi7ZwNy20g=="

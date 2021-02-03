@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jonathantreiber/2021/02/02/how-artifici
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonathantreiber/2021/02/02/how-artificial-intelligence-can-be-the-key-to-loyalty-and-retention-in-2021/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 137
 published: true
 
 provider:
@@ -73,6 +73,31 @@ related:
         width: 550
         height: 366
         isCached: true
+  - title: "Bingo and AI The changing relation between entertainment and artificial intelligence"
+    excerpt: "The relation between entertainment and artificial intelligence is undoubtedly influencing the quality of humans lives. It is personalizing our entertainment activities, including gaming."
+    publishedDateTime: 2021-02-03T14:44:00Z
+    webUrl: "https://www.analyticsinsight.net/bingo-and-ai-the-changing-relation-between-entertainment-and-artificial-intelligence/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 45
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/02/Bingo-and-AI-The-changing-relation-between-entertainment-and-artificial-intelligence-min.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "How the Artificial Intelligence In Fashion Retail Market is Growing in Fashion Industry by 2027"
+    excerpt: "The Artificial Intelligence In Fashion Retail Market study added by Reports web exhibits a comprehensive analysis of the growth trends present in the global business scenario The study further presents conclusive data referring to the commercialization aspects industry size and"
+    publishedDateTime: 2021-02-03T13:05:00Z
+    webUrl: "https://www.openpr.com/news/2235665/how-the-artificial-intelligence-in-fashion-retail-market"
+    ampWebUrl: "https://www.openpr.com/amp/2235665/how-the-artificial-intelligence-in-fashion-retail-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2235665/how-the-artificial-intelligence-in-fashion-retail-market"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 40
 
 secured: "zt8A5qtdogyFK5N2BABQlP8kYRCVNJFT3BtfdVig81dv6Y3Rke+Z4pHH96IUzW45xF74tHNldU9t9jHH7baVPmJGLqzwNavk/F8/JqVji7REWI5PZAL8++KyNUdC2p4znh5u45EdiidesqU12O23cm9SrE6KnbigYdi+9tNkxSFg/2plXbnUSrBME8PgqZwhocRF793GLWVuqJjDCam2XVu1tYm3w75MmneGx8UQ2y+RLw1vAKkED+O72ua7wd17TthdpOhS25hn5OtVbTefRbG7uNabc6YHTcKJFBBCODpPBgKiel1DTifj43Ruo3nOf5z+lFnXFw8ZHtgcUqne52go8j902yukFbNKsbB9bhwgOmBHyTuUBoH1LxilE+34eT2CltKxJ0k1I5G4oUeA3sCnFIXquxUc2mdz5AlHfK2gltbO9NP9PDXrARtOGx4SO16bd4Ko2NlrYpj8JydHNx7C/cpdN4I5Ss8qFN1HIMolo8wvicBjwO/tMKqkLK7h5Zpqnkdg9ECobGzyhfbFwQ==;+XRnDGvIf0aAShdoN+vAMA=="
 ---

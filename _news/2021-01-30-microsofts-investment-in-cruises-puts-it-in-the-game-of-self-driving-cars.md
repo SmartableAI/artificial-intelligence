@@ -60,6 +60,22 @@ related:
         width: 1103
         height: 469
         isCached: true
+  - title: "Machines Are Learning From Each Other, But It's A Good Thing"
+    excerpt: "The ability to transfer learning from one machine to another within the same domain is how machine learning becomes accessible and affordable for most businesses."
+    publishedDateTime: 2021-02-03T13:20:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/03/machines-are-learning-from-each-other-but-its-a-good-thing/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/03/machines-are-learning-from-each-other-but-its-a-good-thing/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/03/machines-are-learning-from-each-other-but-its-a-good-thing/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60198d97a09e56a8d5a45d7a%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Why Microsoft’s Self-Driving Car Strategy Will Work"
     excerpt: "Self-driving car startup Cruise received more than $2 billion investment from Microsoft, General Motors, Honda, and institutional investors,"
     publishedDateTime: 2021-02-03T08:02:00Z
@@ -132,19 +148,14 @@ related:
         height: 470
         isCached: true
   - title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
-    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
-    publishedDateTime: 2021-02-03T08:22:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
+    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance"
+    publishedDateTime: 2021-02-02T22:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 46
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Business Wire
+      domain: businesswire.com
+    quality: 26
 
 secured: "u9035pupED+AOoXCx4dJ20mj74W0bcWF1E6oCkEIQl39hdw8tYmERKhan3Rcr2nT6OjLpegFAM+EhVTpTGiqt6wyhOPG58hoPiVH8exVf2YOVjskWFQfHr7DyEATrEo8mXqArw+AwwtMqUr0hC2sL6LBQMSMhvULw6r/3Q3TLSGsGmdS4wX+fhl/COBiZSi8/9w2gwQykN0vvAFgKkWNZCIdIT8n6gGxUbmJuJQO5aaGoR27lzCWFcHV9kOdAtQtHvf1fC6FpLgVz+UFy4ARlbkOg3Pfu+7p2X6QL8pbeGqc9eZqtmuaWG6BUPN9xQpsmaOXJPA55c0Cm1w7qITPSezFDE0UbDplx7C0NCxKnhOUpGCX7q6JlPkfbkjssz7vJTbOnqCvEhk8LQLJnQCwjUcelzu4bSbn8f5ZAbT1MphIiReJuPgiYYRNX5T4KGWnAcGWq07Pcw15a96uXaCc4KF2yA7apGOiDNvp8qnSZAJMzzeyX4Z54dRXnBuwdXK2CLj0XOmWCKu7v6e0WMHKAg==;F56TgqhGo0R73OsGfRtb7A=="
 ---

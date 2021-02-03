@@ -2,6 +2,242 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2021-01-09-voice-life-inc-showcases-wireless-power-for-the-21st-century-with-nvidia-deep-learning-accelerator-technology-at-ces-2021-showcase.md",
+      "title": "Voice Life Inc. Showcases Wireless Power For The 21st Century With NVIDIA Deep Learning Accelerator Technology At CES 2021 Showcase",
+      "excerpt": "Voice Life Inc. today announced its digital presence at the CES 2021 Showcase launching the Life-Line Power Connect platform based upon a terahertz-based scalable network designed for far field wireless charging.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-industrial-products-and-services-consumer-products-and-services-industrial-machinery-and-equipment-7af1c7e65f69193d5662335948b45efb",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-industrial-products-and-services-consumer-products-and-services-industrial-machinery-and-equipment-7af1c7e65f69193d5662335948b45efb",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-08T09:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-09-hyundai-to-partner-with-apple-on-self-driving-car-but-maybe-not.md",
+      "title": "Hyundai to Partner With Apple on Self-Driving Car ... but Maybe Not",
+      "excerpt": "Hyundai says it will partner with Apple on a self-driving car, but then quickly shifts gears to say it has received requests from a number of technology suitors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/investing/apple-aapl-hyundai-self-driving-car-010821",
+      "originalUrl": "https://www.thestreet.com/investing/apple-aapl-hyundai-self-driving-car-010821",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.jwplatform.com/thumbs/nJGNyKYO-720.jpg",
+          "width": 720,
+          "height": 406,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestreet.com/.amp/investing/apple-aapl-hyundai-self-driving-car-010821",
+      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/apple-aapl-hyundai-self-driving-car-010821",
+      "publishedDateTime": "2021-01-08T08:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-09-five-ways-to-make-ai-a-greater-force-for-good-in-2021.md",
+      "title": "Five ways to make AI a greater force for good in 2021",
+      "excerpt": "A year ago, none the wiser about what 2020 would bring, I reflected on the pivotal moment that the AI community was in. 2018 had seen a series of high-profile automated failures, like self-driving car crashes and discriminatory recruiting tools.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2021/01/08/1015907/ai-force-for-good-in-2021/",
+      "originalUrl": "https://www.technologyreview.com/2021/01/08/1015907/ai-force-for-good-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/01/SA-GettyImages-1193127525.jpeg?w=3000",
+          "width": 3000,
+          "height": 1688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2021/01/08/1015907/ai-force-for-good-in-2021/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/01/08/1015907/ai-force-for-good-in-2021/amp/",
+      "publishedDateTime": "2021-01-08T08:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-09-is-neuroscience-the-key-to-protecting-ai-from-adversarial-attacks.md",
+      "title": "Is neuroscience the key to protecting AI from adversarial attacks?",
+      "excerpt": "Deep neural networks are a key component of computer vision applications, from video editors to medical software and self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/08/is-neuroscience-the-key-to-protecting-ai-from-adversarial-attacks/",
+      "originalUrl": "https://venturebeat.com/2021/01/08/is-neuroscience-the-key-to-protecting-ai-from-adversarial-attacks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/10/artificial_intelligence.shutterstock_673672549-e1586861549970.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/08/is-neuroscience-the-key-to-protecting-ai-from-adversarial-attacks/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/08/is-neuroscience-the-key-to-protecting-ai-from-adversarial-attacks/amp/",
+      "publishedDateTime": "2021-01-08T08:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Computer Vision",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-09-self-driving-cars-and-the-newest-move-over-slow-down-laws.md",
+      "title": "Self-Driving Cars And The Newest ‘Move Over, Slow Down’ Laws",
+      "excerpt": "The law and prudent driving dictate that you should move over and slow down when nearing stranded vehicles on the side of the road, which is easier to say than for self-driving cars to achieve.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/01/08/self-driving-cars-and-those-move-over-slow-down-laws/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/01/08/self-driving-cars-and-those-move-over-slow-down-laws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff392b289032e7d9ad91594%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6720%26cropY1%3D341%26cropY2%3D4121",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/01/08/self-driving-cars-and-those-move-over-slow-down-laws/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/01/08/self-driving-cars-and-those-move-over-slow-down-laws/amp/",
+      "publishedDateTime": "2021-01-08T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-artificial-intelligence-robots-market-2021-with-strategies-to-boost-growth-manufactures-types-applications-status-and-outlook-to-2023.md",
       "title": "Artificial Intelligence Robots Market 2021 with Strategies to Boost Growth, Manufactures, Types, Applications, Status and Outlook to 2023",
       "excerpt": "Comserve Inc. / -- While AI robots have been a technical masterstroke, different innovations have been attributed to disparate players, leading to a diverse set of standards The Artificial Intelligence Robots Market is estimated to record a significant growth throughout the forecast period.",
@@ -914,229 +1150,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-google-ai-concocts-breakie-and-cakie-hybrid-baked-goods.md",
-      "title": "Google AI concocts ‘breakie’ and ‘cakie’ hybrid baked goods",
-      "excerpt": "If, as I suspect many of you have, you have worked your way through baking every type of cookie, bread and cake under the sun over the last year, Google has a surprise for you: a pair of AI-generated hybrid treats,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/01/07/google-ai-concocts-breakie-and-cakie-hybrid-baked-goods/",
-      "originalUrl": "https://techcrunch.com/2021/01/07/google-ai-concocts-breakie-and-cakie-hybrid-baked-goods/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/01/cakie.jpg?w=1024",
-          "width": 1024,
-          "height": 649,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/01/07/google-ai-concocts-breakie-and-cakie-hybrid-baked-goods/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/07/google-ai-concocts-breakie-and-cakie-hybrid-baked-goods/amp/",
-      "publishedDateTime": "2021-01-07T16:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-enhance-automated-model-building-with-the-latest-product.md",
-      "title": "Enhance Automated Model Building With the Latest Product",
-      "excerpt": "FREMONT, CA: The global artificial intelligence (AI) company,SparkCognition, announced the release of version 2.0 of its automated machine learning (AutoML) product, Darwin. The new version considerably improves the user’s experience and capabilities in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cioreview.com/news/enhance-automated-model-building-with-the-latest-product-nid-30206-cid-133.html",
-      "originalUrl": "https://www.cioreview.com/news/enhance-automated-model-building-with-the-latest-product-nid-30206-cid-133.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cioreview.com/newsimages/special/4hxC0X38.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-07T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIOReview",
-        "domain": "cioreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-its-not-going-to-be-very-hard-to-id-them-feds-have-tools-to-easily-track-down-capitol-rioters.md",
-      "title": "‘It’s not going to be very hard to ID them’: Feds have tools to easily track down Capitol rioters",
-      "excerpt": "The FBI has some of the most powerful facial recognition systems in the country, according to outside experts. And because few arrests were made during the deadly unrest, law enforcement officials will now have to depend on that technology to speed up ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fedscoop.com/capitol-riots-mob-facial-recognition-fbi-tracking/",
-      "originalUrl": "https://www.fedscoop.com/capitol-riots-mob-facial-recognition-fbi-tracking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.fedscoop.com/wp-content/uploads/2021/01/50810619993_3417a94153_k.jpg",
-          "width": 2040,
-          "height": 1190,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-07T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FedScoop",
-        "domain": "fedscoop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-lisk-machine-learning-trading-up-158-over-last-week-lml.md",
-      "title": "Lisk Machine Learning Trading Up 15.8% Over Last Week (LML)",
-      "excerpt": "Lisk Machine Learning (CURRENCY:LML) traded up 31.8% against the U.S. dollar during the 24-hour period ending at 18:00 PM Eastern on January 7th. One Lisk Machine Learning token can now be purchased for about $0.",
-      "sourceUrl": null,
-      "webUrl": "https://www.modernreaders.com/news/2021/01/07/lisk-machine-learning-trading-up-15-8-over-last-week-lml.html",
-      "originalUrl": "https://www.modernreaders.com/news/2021/01/07/lisk-machine-learning-trading-up-15-8-over-last-week-lml.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.modernreaders.com/news/2021/01/07/lisk-machine-learning-trading-up-15-8-over-last-week-lml.html/amp",
-      "cdnAmpWebUrl": "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2021/01/07/lisk-machine-learning-trading-up-15-8-over-last-week-lml.html/amp",
-      "publishedDateTime": "2021-01-07T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "modernreaders.com",
-        "domain": "modernreaders.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-top-consumer-ideas-to-start-off-2021.md",
-      "title": "Top Consumer Ideas To Start Off 2021",
-      "excerpt": "Our top consumer ideas for January as we enter 2021. As we exit the political season and with the Covid-19 vaccine in front of us, we go in-depth on our favorite consumer stocks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2021/01/07/top-consumer-ideas-to-start-off-2021/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2021/01/07/top-consumer-ideas-to-start-off-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff791628b012174845f5771%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2000%26cropY1%3D60%26cropY2%3D1185",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2021/01/07/top-consumer-ideas-to-start-off-2021/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2021/01/07/top-consumer-ideas-to-start-off-2021/amp/",
-      "publishedDateTime": "2021-01-07T14:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

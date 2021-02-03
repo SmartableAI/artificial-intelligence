@@ -70,6 +70,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Market Research Report Covers, Future Trends, Past, Present Data and Deep Analysis 2020-2026"
+    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence Market with the reasons given for variations in the growth of the industry in certain regions. The developments of a lot of human-like robots and increase within their preparation rate in the developing regions have had a considerable impact on the overall computing (AI) market."
+    publishedDateTime: 2021-02-03T14:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-research-report-covers-future-trends-past-present-data-and-deep-analysis-2020-2026-2021-02-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "rJUVrd/csnawBzoE3w1NW2+eKdMY3A1Cq7vG4BXpCnMLMLjcdNbmmU95cYMyw6lpeO4b2FplIstttTrLIDABPqjNKPFy171lRUfBELtMIFFYg/LPFjXHjRidqD5oZubRr1H5s8ZVAm5A2PpwdpfY+mjFLPn3d5jKt+VJxrtzJiN+ojghFH/WDStS9Xi11oTWEX6+HYfH0+PumgTZXeTotwJvnC6yyPR76kE3600hm7ZWtCEIhaA7T95fflFp4nlp8NTXSgnKuvtLFFmffI1Pb2JHV+CH8peWdmTTy42u5D1BJ/aFGiVp0TUAO9WbCmG0aoImE2Q+VFN50F6gyT5dhTZhcqlXxgiePwDlX0gp6dg=;GUpzpSjfDyFEz6QNrFqKVw=="
 ---

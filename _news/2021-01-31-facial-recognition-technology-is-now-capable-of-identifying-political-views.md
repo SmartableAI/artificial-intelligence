@@ -7,7 +7,7 @@ originalUrl: "https://www.analyticsinsight.net/facial-recognition-can-reveal-you
 webUrl: "https://www.analyticsinsight.net/facial-recognition-can-reveal-your-political-orientation/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 900
     height: 552
     isCached: true
+
+related:
+  - title: "Facial Recognition Market Insights By Growth, Research Methodology, Emerging Trends and Forecast 2027"
+    excerpt: "Facial Recognition is a biometric application which captures image of an individual and identify it by applying"
+    publishedDateTime: 2021-02-03T14:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-insights-by-growth-research-methodology-emerging-trends-and-forecast-2027-2021-02-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "JaUWM8h0yeZQyhdjnDQAUZPzjvHMWNMiZCAk/ShE+6c/AdhCRbNx4gEVTuEcSPL2teDLNuBKy5VRMGP0EGi16hzGAnbd+d4qslvagbJhgLd8Ow1L4cSZugcn33qHhxhs7BLZFSQBkuzw+v53u04lqr9WNwHHmjo30VrG/AQXmbB7fdi1gJo8AoM1SCboXbxtLpdRYiEdssZywPDc+GM23+nSr7NTNy/X2odFqF/bC6Cz3h0OTl6DXMev5A3KtBcIFYQuZpiMYrj3uiP01LAXP9SfG1a4+RCulfmY8CP57gUIu+LTowXdnOI/MsX0hv8dbqrWCFIEtDsts/WFcW/8ZDBAeo+Lmf07Ohx9hjXbtaw=;Ipk/CTeSKxAiQaSZc2NsUQ=="
 ---

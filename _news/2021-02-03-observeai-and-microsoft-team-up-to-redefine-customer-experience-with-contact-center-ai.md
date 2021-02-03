@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
-excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
-publishedDateTime: 2021-02-03T08:22:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
-webUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
+excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance"
+publishedDateTime: 2021-02-02T22:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
+webUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
 type: article
-quality: 46
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Microsoft's cutting-edge machine-learning tool moves from the lab to the mainstream"
@@ -56,6 +50,22 @@ related:
       - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_11966_16122866370551170.jpg"
         width: 1103
         height: 469
+        isCached: true
+  - title: "Machines Are Learning From Each Other, But It's A Good Thing"
+    excerpt: "The ability to transfer learning from one machine to another within the same domain is how machine learning becomes accessible and affordable for most businesses."
+    publishedDateTime: 2021-02-03T13:20:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/03/machines-are-learning-from-each-other-but-its-a-good-thing/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/03/machines-are-learning-from-each-other-but-its-a-good-thing/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/03/machines-are-learning-from-each-other-but-its-a-good-thing/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60198d97a09e56a8d5a45d7a%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Why Microsoft’s Self-Driving Car Strategy Will Work"
     excerpt: "Self-driving car startup Cruise received more than $2 billion investment from Microsoft, General Motors, Honda, and institutional investors,"
@@ -145,6 +155,6 @@ related:
         height: 470
         isCached: true
 
-secured: "qXZGXfXIPZbNqGuJYavgdSKzZoXhLGoAJBAFzh2ZKZhb/Fp0P0TPpXlcWfTRHerkWDQMSSCJs+Y1l00waz/it8xYBP+o9sL+yqFLI0mHyWQ9+Spvnoni1COzbRiP4BIwl/IQnvSIc4LeLCYoH1gxsXCARTCtAgVFT21tzORz14gWj1kyOSFSPO0yTKJ79elm+Adc5DRsRJRI5qNmCzrKy538Ws0xtdyxIjkhJ3TWHPcA70vGNiOWGWzlsfAxlrn6S/oBzMs6/WAijWRXvW0dPScnzeiu9wn9upIfHvvREWSNE0qFYZew7PCQ6dxjxitXPJhLWSeLw9WDCfLhh1pIxqNDqlhAh3kB44n4VEoRskI=;+mfywpWgoPgYFFhGFjySTw=="
+secured: "9M5Vu/w8fLE/xe/WkET+sy2KHeWsgqwHhMzNWasRIjhM+aWtVlbSoFByXjxOid6r1GR2gQ7G76F63NUU11r7zx2Y5sVzB7sAWrwao0ql1V+lZq1jNIDH7/dVcxM08heZyu2Ah+X9PJasFJRTzzbUhLnjLIGWdAvwuDceOpfgnK0oQaB7dF9WvhXgozyf4PLN1mpPje7oXVOZb8Ls/sTmnbg9s0sPgfk0iFhPlPVoRU7Vg6x2zOEar7TY75P3u6MjLhlV159ZMYQAQTEoFX1mN1oRlL7PYCEjryOThx+n7hgR2M/jc4pqWeDEF8XW1Qr9kOFJNtH4HyRPjHTCNMKezWzUODkdyx5piMvMQd/Zmv8=;b29CcF0/ZQ19cJaKvdMUsg=="
 ---
 

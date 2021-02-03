@@ -46,18 +46,18 @@ related:
         height: 720
         isCached: true
   - title: "ADLINK Launches the DLAP x86 Series, a Deep Learning Acceleration Platform for Smarter AI Inferencing at the Edge"
-    excerpt: "The most compact, high performing GPU-enabled deep learning acceleration platforms for deploying AI at the edge across industrial applications"
-    publishedDateTime: 2021-02-03T00:52:00Z
-    webUrl: "https://www.dcvelocity.com/articles/49435-adlink-launches-the-dlap-x86-series-a-deep-learning-acceleration-platform-for-smarter-ai-inferencing-at-the-edge"
+    excerpt: "Summary: • ADLINK’s DLAP x86 series is the most compact GPU-enabled deep learning acceleration platforms available, powering AI applications in industrial, manufacturing, and healthcare"
+    publishedDateTime: 2021-02-03T14:21:00Z
+    webUrl: "https://www.eejournal.com/industry_news/adlink-launches-the-dlap-x86-series-a-deep-learning-acceleration-platform-for-smarter-ai-inferencing-at-the-edge/"
     type: article
     provider:
-      name: DC Velocity
-      domain: dcvelocity.com
+      name: Electronic Engineering Journal
+      domain: eejournal.com
     quality: 35
     images:
-      - url: "https://www.dcvelocity.com/ext/resources/2021/02/01/intro_transportation_logistics_law_virtual_course_series_thumb.jpg?crop=true&height=430&t=1612219765&width=640"
-        width: 640
-        height: 430
+      - url: "https://www.eejournal.com/wp-content/uploads/2017/05/cropped-EEJ_favicon_2020-copy.png"
+        width: 512
+        height: 512
         isCached: true
 
 secured: "KrbP2050Fe4bU+OXSq8z6/m5NiGvTEulBURWVtN8lfWvgamkhrqhMVMg2xP5D8ovGNYXeqQ+gN2+oHfMmiL23bgQmsl/wBBNARVHN/vNbZYCkj6VRDuIdoqev277Zm3KpMiFNwOC3eR7u2VaW1yjKbkWEUgW54uC1k/ImX4IT2dpnArvS/yCcAMJufK2NVNsqsO41rKLfLJaXIbY5CB5M2krugXOtBkZXBTlgYPdYxJp8LMQ3oZzClT4VDSsYsvxrTCQp/1wFyzDNNr0GRBTU4LVXQdZ6whMqNRkcbdlgjY+unz8w6JwMN0QYJqBhBLDeb1hLc+AdmUR0pptV1q4P4madAC5qNbIm0Hg3SlshI6NTP+VILcIDnUFicv00CmZ1vjFb/XRXKIdGBEg7wlkG7Iz00ldF5+tovlOIF5mrqWJRC9EAoEhSn7dxVjQqJi+KZ1cYTGuZCltZ/UC9klURTr69muh5D5G/2WaBJhMQXHTvpb7TI8Ot86w77Fl8p+eRFaAhhaXZasDS9bpu4ajKw==;M3/FSkWNA00U4OvcIQ4ieQ=="

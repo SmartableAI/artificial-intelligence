@@ -72,6 +72,31 @@ related:
         width: 550
         height: 366
         isCached: true
+  - title: "Bingo and AI The changing relation between entertainment and artificial intelligence"
+    excerpt: "The relation between entertainment and artificial intelligence is undoubtedly influencing the quality of humans lives. It is personalizing our entertainment activities, including gaming."
+    publishedDateTime: 2021-02-03T14:44:00Z
+    webUrl: "https://www.analyticsinsight.net/bingo-and-ai-the-changing-relation-between-entertainment-and-artificial-intelligence/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 45
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/02/Bingo-and-AI-The-changing-relation-between-entertainment-and-artificial-intelligence-min.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "How the Artificial Intelligence In Fashion Retail Market is Growing in Fashion Industry by 2027"
+    excerpt: "The Artificial Intelligence In Fashion Retail Market study added by Reports web exhibits a comprehensive analysis of the growth trends present in the global business scenario The study further presents conclusive data referring to the commercialization aspects industry size and"
+    publishedDateTime: 2021-02-03T13:05:00Z
+    webUrl: "https://www.openpr.com/news/2235665/how-the-artificial-intelligence-in-fashion-retail-market"
+    ampWebUrl: "https://www.openpr.com/amp/2235665/how-the-artificial-intelligence-in-fashion-retail-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2235665/how-the-artificial-intelligence-in-fashion-retail-market"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 40
 
 secured: "BwAfItWqYoN3JOi+U7cLTiKOdH80qF7f1OkzbF60zmt0MqZZoMuh8VISEx6kfu66Kz0OmEpnqSh6vN8yxgtGhjWfUJsV+ERzbWIaF6i4YpM9ad7dbNwk5yx2+6bwQPT5epnroZ2pELmg3ifaRTWlOg/+PMC/NAbUZIZzD205EAnNoAuGAAF6WK3Z7yMt11sRD7DtiSSMl52hRDX4gbYFwCaV36azoC69oUIz0piJAp4I1w7cOgb44hUMFO6J8AyPnl9FgihuKeto1Hdhw97rcgwthoOBigXxisGfwTW7AjBuhAt4MrztWRCttlWyUvni0Mx+OjEcQTVBGVqOzxl/1t3QvKf06br5F5uArraK+trcQS1aqYz7a7vIuuad1XSK7q5wEfZhEXxvGsowSrrovr4V5oi6lyEGVnk/jalqU0LWDuclrSLmxlj7QWVRj+9/Dtbw3essB0F/Z5GySoRQHe6NjRg19fM3Ml+4VCY3mKr12befVViyQmcBN6AVtgU4KN+Nlkgm4knkbj+qHYPP3w==;LhHuVokW0Xm4lt97zyio8w=="
 ---

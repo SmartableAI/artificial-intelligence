@@ -60,6 +60,22 @@ related:
         width: 1103
         height: 469
         isCached: true
+  - title: "Machines Are Learning From Each Other, But It's A Good Thing"
+    excerpt: "The ability to transfer learning from one machine to another within the same domain is how machine learning becomes accessible and affordable for most businesses."
+    publishedDateTime: 2021-02-03T13:20:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/03/machines-are-learning-from-each-other-but-its-a-good-thing/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/03/machines-are-learning-from-each-other-but-its-a-good-thing/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/03/machines-are-learning-from-each-other-but-its-a-good-thing/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60198d97a09e56a8d5a45d7a%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Microsoft’s investment in cruises puts it in the game of self-driving cars"
     excerpt: "Microsoft's investment in cruises puts it in the game of self-driving cars One of the pitches that has worked well for Microsoft in the"
     publishedDateTime: 2021-01-30T14:05:00Z
@@ -132,19 +148,14 @@ related:
         height: 470
         isCached: true
   - title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
-    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
-    publishedDateTime: 2021-02-03T08:22:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
+    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance"
+    publishedDateTime: 2021-02-02T22:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 46
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Business Wire
+      domain: businesswire.com
+    quality: 26
 
 secured: "wQpmW7gQwuH+uuEIb8Ca2Ugu2pNBbSiNPp8BroOmCZNPeBhPqEx2EBGLiXDP+6vQRXWCDeEzAEgLBUbWEJgAVowRO+sze57XmOBSb9JkUpVMc+EQvgRK+cjrBDJIl5b59SGh8kKUBLqiy44NX8V4gmP9IPmazWp+cXv0Jp0spXSIYTeCKUtecK6aipXDlhaodnVrgJSaoS6fk3nmba/ngKqfLuvmtHkzoLGVuCi886clp6x2oJfv0rnvXROftKw4HrhivQgE6ttTGJoIUhcJVnzUEDVoaBrZHSE7xlCcrRDb33+qQvkNmb4CPPG72zqfJssoKZSTp0En1ZtimMU25RviwG8ALeJYMLf8gKragcY=;BLgsHECvsryGhlrswTyzHg=="
 ---

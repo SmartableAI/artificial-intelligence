@@ -17,6 +17,17 @@ provider:
 topics:
   - AI
 
-secured: "agpP8ipnPjKiweiC6lRgrp6xTYBqn6Uu/W3u39vyGciPYLY8PKgmWldtHeMdoGoI7R1xhyk93SSq4XeFYWGMr2KWKVWjXug9FlTf2nXtAnCRivrCbrE9BjWGHfNhOI7OVCNCUPTYhqo5+i1vj6s0NNFZT2oW3NcbK2ruEg4U+xEOWQZXkX1GNxYmC7LJTPKvtcLt85HjHJh6fiuVOWOjFSGueRCKfBoHabs86LHhGhFprbsWh/c93dOKVyUE+nOVBLDuaFZQRHa6coQRIv45tgcquBC4V8nKr5Yty0EghySPhWR9du4tWry3UB57qgNciWvi2DJ6v65eO0aOiWTGITN78DYZYYPOR8HGTVTKKHQOj71+Y5cQDoQI3Ottb5Pd93zA5DgSGe/MPEubG6H9YvqYH4m07SW/8B8mgPs+5+1OqET2eXsNAhlI9lgULFn8hPrRiJEj1FD7cP0MNzbd6jBEn2EHahY1kX6BqRY9nqPTTzWxFozGcL6GkE9RrFU1ptm6Mn8Ko2d3LTc7noP4NA==;OTa/LFSObYv1Z7Mfh53CBA=="
+related:
+  - title: "Registration deadline for Khalid bin Hamad Competition for Innovation in Artificial Intelligence is on Friday"
+    excerpt: "Manama, Feb. 3 (BNA): Registration for the third edition of the Khalid bin Hamad Competition for Innovation in Artificial Intelligence, to be organized by Bahrain Polytechnic in cooperation with the media office of His Highness Shaikh Khalid bin Hamad Al ..."
+    publishedDateTime: 2021-02-03T14:21:00Z
+    webUrl: "https://www.bna.bh/en/news?cms=q8FmFJgiscL2fwIzON1%2bDrNUjXxNv9D%2fpxc2gO42WEU%3d"
+    type: article
+    provider:
+      name: bna.bh
+      domain: www.bna.bh
+    quality: 0
+
+secured: "ZTogoTdOBnKU4T2XN0whxaZ8zJh2PGQtygQkP1RHMWU5WJLvmwn6c5FgS1JulEZ4luKRsuJZl2YwdnKEMrh3v5OycLsxyHlQUozpdWmaKhDlzsehTQvJJ0J0DeHQEbQglyflsHp0xGaXMxAzSIvy5ix9/3Qqdp/XtooVSvacQ59XLd2HKVi/lU3BeAg9n3kY9sbFlF+4ZEHVvrVNIZsJWoATHQxl5l6Pni6k9ErKDhBPIIOm0WTpBGkB2rSDVpnryO6xN04RExhmn186BQgWuO2vQIGeGfHfPyerOnVoJ6frkVr31OcV70skPnboEh+ViLO7P7Ka2s0UXPcqzGga9LiNTu4Oij+EzN0BYyYGMNAVVtSSgAaxEP/rw7DIrUo10c2v21NYxmiFg9p4q50Kjk9ccQFo5BbxsHAV5IPs6jfENrc2AmgSXW+IC+5dKTRdnzKCnp1nCoat9876zPFAf9bzwPlF07pSv6+3tBd6IJx+2Y2zAZFpZzGr2kjcLRMMo4G7q2rc5P27Jw9hTSQWzg==;TXr2iD7NT8DMe+4KQJ3RYw=="
 ---
 

@@ -1,18 +1,18 @@
 ---
 category: news
 title: "ADLINK Launches the DLAP x86 Series, a Deep Learning Acceleration Platform for Smarter AI Inferencing at the Edge"
-excerpt: "The most compact, high performing GPU-enabled deep learning acceleration platforms for deploying AI at the edge across industrial applications"
-publishedDateTime: 2021-02-03T00:52:00Z
-originalUrl: "https://www.dcvelocity.com/articles/49435-adlink-launches-the-dlap-x86-series-a-deep-learning-acceleration-platform-for-smarter-ai-inferencing-at-the-edge"
-webUrl: "https://www.dcvelocity.com/articles/49435-adlink-launches-the-dlap-x86-series-a-deep-learning-acceleration-platform-for-smarter-ai-inferencing-at-the-edge"
+excerpt: "Summary: • ADLINK’s DLAP x86 series is the most compact GPU-enabled deep learning acceleration platforms available, powering AI applications in industrial, manufacturing, and healthcare"
+publishedDateTime: 2021-02-03T14:21:00Z
+originalUrl: "https://www.eejournal.com/industry_news/adlink-launches-the-dlap-x86-series-a-deep-learning-acceleration-platform-for-smarter-ai-inferencing-at-the-edge/"
+webUrl: "https://www.eejournal.com/industry_news/adlink-launches-the-dlap-x86-series-a-deep-learning-acceleration-platform-for-smarter-ai-inferencing-at-the-edge/"
 type: article
 quality: 35
 heat: -1
 published: false
 
 provider:
-  name: DC Velocity
-  domain: dcvelocity.com
+  name: Electronic Engineering Journal
+  domain: eejournal.com
 
 topics:
   - AI Hardware
@@ -20,9 +20,9 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://www.dcvelocity.com/ext/resources/2021/02/01/intro_transportation_logistics_law_virtual_course_series_thumb.jpg?crop=true&height=430&t=1612219765&width=640"
-    width: 640
-    height: 430
+  - url: "https://www.eejournal.com/wp-content/uploads/2017/05/cropped-EEJ_favicon_2020-copy.png"
+    width: 512
+    height: 512
     isCached: true
 
 related:
@@ -57,6 +57,6 @@ related:
         height: 720
         isCached: true
 
-secured: "Pheb89ASA7Nk3iAyl9kI0EI4KS5sPvLVtrvQ+Ys3qrbrUxYD3wDIWYZ4xLPFesOSPyGBcKyijZA7WJaccm38SyEKn8jZpv2jNEygsSkLZkZsh74DoeMy3MJva6Nm6cXNhemNPtDzqdOHBpBaURlXvJ86HhNo0SCffgDVV8uHWb3xhEfN/rStjXv2DmUXTYXDCGrwE9ZNH2SYTcZ8TiD7HSN+xNvyubC+RL9x1I86jt9dCmtLVTJB07gb8B5BJvJfhJBD54sjv8f9ux2hERxnmW8+J4yaWowdGrec6uHRxICU2Y4ujmckK9WIXZxUmiYcmetmhEvyqvBa7vxhNWWr3UhXx3CTklKPUTuG2Gk61Ns=;hWqDx0TrcFFtYk5MGRQl+Q=="
+secured: "Zrg0ga+JbWdgJVnrr0w82Yp2sw14Tc94QXvc0Xz4G0JCrmfJpIwz5B1zEtQPUVLAPhIReeC4qmIsMiaxF9EMsLX6zmKROv2k/TrJKTuvA+VcrcqVxHEE0E7hIMdyn5SKLwOXVDL0NSA6PdwjNM9nhh8J+EteJql1XuhJbbgzOeO/nDmBtBjEptGamQBMYhLv4ABrAgzm6rda2Xs7ombpG5Nb7xLhvcHlomSaVC7/2YQ6+yThv/NzPjun2guzoCPVsOPYA+ERQ4Vyfa/lkmj+OHlU60b4Az1MMFi2EmtEi09Dq8eu9NtnRLhPP0I9pxzQVcExEywV/svtPa7hBs8F20Kgzdmz55bR5PI5qOl4Vco=;v2BhsT2BLErZYvBymcsikA=="
 ---
 

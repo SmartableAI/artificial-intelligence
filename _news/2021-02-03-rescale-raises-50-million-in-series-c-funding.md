@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Superb AI Raises $9.3M in Series A Funding"
+    excerpt: "Superb AI, a San Mateo, Calif.-based provider of AI-enabled training data platforms, completed a $9.3m Series A round of financing"
+    publishedDateTime: 2021-02-02T19:00:00Z
+    webUrl: "https://www.finsmes.com/2021/02/superb-ai-raises-9-3m-in-series-a-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 39
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2021/02/Superb-AI.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "b99zNeJSIBGXc1NLXIrWf7aNchOvRk6SwgHbEgS+bCZcH4/M2xxBRMokLaoGVQu5cbXo7Yvs8dJ6ZIvv/P+rdNXgUTusyROlZhCnJF92x4oPcotlHSWv4439Uzv2SJb65F0PR+9gSAckQa27vUhVDB73yMxMLUW7OhdvO0x3G3t6n8RhvnGErYimsEODf/gdoCwn1fQacFsHdkKkTPMqd//u2EqI6htkAiVhsFO5ycPsklob1B9tr9usumg9SUPlC3BSsbWW76mmMDoOUwEVGpAELT+ZJCUQL0SFxrIwP2qsazQEz94qhd5y52wxDp+GYBZCvJO/3hRH+eQRukLpNzPh5nggNWG7+vyykCalEDo=;RcJHk7naV5YkGo7chZt6PQ=="
 ---
