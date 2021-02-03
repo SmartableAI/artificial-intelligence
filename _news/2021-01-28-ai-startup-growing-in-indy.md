@@ -1,28 +1,25 @@
 ---
 category: news
-title: "AI startup growing in Indy"
-excerpt: "Catipult.AI, which has developed an artificial intelligence platform to help businesses manage and track strategic goals, says it will invest more than $2.6 million to secure a larger office space in Indy and create up to 51 jobs by the end of 2024."
-publishedDateTime: 2021-01-28T14:12:00Z
-originalUrl: "https://www.wishtv.com/news/inside-indiana-business/ai-startup-growing-in-indy/"
-webUrl: "https://www.wishtv.com/news/inside-indiana-business/ai-startup-growing-in-indy/"
+title: "AI Startup Growing in Indy"
+excerpt: "An Indianapolis-based Software-as-a-Service company is planning to expand its central Indiana operations. Catipult.AI, which has developed an artificial intelligence platform to help businesses manage"
+publishedDateTime: 2021-01-28T14:26:00Z
+originalUrl: "https://www.insideindianabusiness.com/story/43252015/ai-startup-growing-in-indy"
+webUrl: "https://www.insideindianabusiness.com/story/43252015/ai-startup-growing-in-indy"
 type: article
-quality: 37
-heat: 37
-published: false
 
 provider:
-  name: WISHTV8
-  domain: wishtv.com
+  name: INside INdiana Business
+  domain: insideindianabusiness.com
 
 topics:
   - AI
 
 images:
-  - url: "https://i2.wp.com/www.wishtv.com/wp-content/uploads/2021/01/Peter-Fuller-Catipult.jpg?fit=960%2C540&#038;ssl=1"
+  - url: "https://INSIDEINDIANA.images.worldnow.com/images/20307337_G.jpg?lastEditedDate=1611824691000"
     width: 960
     height: 540
     isCached: true
 
-secured: "dS+weqpkP3XySEj+Que8QzKS3lJnkdoIHvnYQhe/DT1iUKQAPJZ9+XUMZ0YK/5CFJR6XXdt0FkqS3UpmocK4YAwy8etX4lY5MccdQ2SfJtCcg/J1GtYBDFNM9EwJAdEaCmtycjYM3PSMQmFujBgotpwje+bZmAYYlThrGgMNva16qLRQib9cA9QddBa3MNf9qGqjj2USOu8gq8tfCMfIi6m3XIjeW0Hp80cMuKmSkbeorvvE82yrXDePhnrMhDerTcUCKQq88yz2d0RqHZTjl3ZJHLVjBXCP6lY8kG/ZRM3XViJmwHMr2KH1VYmx6kUOBebzlZex1hb1ILbAeC4upi5RQZUkjjxgQqg36xrYK+wA7KbXFrXfCIO8zsfUQSf1moYjRwjbFQbE0FMDiReHVSfRuPVta2jG9PRAm/uUFx+ZuO2Lc7ti1+QvkN3W7YN/B0k499uL6j9oLjyqzU6kwv8B3UXZhOLkg2BZhkfD4reVJNhd3uFTaC4ozyVvKgLqWa8DWJrl2rDz4WzFfUPaXQ==;o71AUIhPSdxvfXT64yqFyQ=="
+secured: "4POvmT3fEog6Zcmayh80hKQjfiYkWrdE6dyxmimZMYg2Wg3vaxlmZJuq8vJvmDlNg73w5OGWkS2lx70OD0X9PMkHKuV8kTBXRNSh8q0aDY9QHmO4iHjgUh3qjz2j8bvCbkDxkQgDp1ggjadJbe/i7uzPYbBX9lPvCNi7+8osLo3dxvJ3davxkovFThxkz8jkh9R9E/5vf+PSjklZP/2Y7oTz1Tw7Xm7Nd77/gTwewFJyn52rVM3ZnOzRJt0StC/0EaTvk2TLwolgpyas6vgwUPofgj2KFIlII6bt3rG48iAuT1D87m6ikAiA+gxTu+wQFm3Myh9RcmWgrP7L3V3CdH2DkJFRusrKYVIF+pZC7Ro=;YuPHzSda1iq5fu7qSye5Lw=="
 ---
 

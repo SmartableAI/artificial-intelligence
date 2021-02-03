@@ -41,17 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "ADVANCE.AI Launches 'Advance Intelligence Group' Brand"
-    excerpt: "ADVANCE.AI, a homegrown AI and big data company in Asia helping to solve digital transformation, fraud prevention, and process automation for enterprise clients, is today formally announcing its corporate parent brand Advance Intelligence Group."
-    publishedDateTime: 2021-02-03T06:11:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/advance-ai-launches-advance-intelligence-group-brand-1030036725"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/advance-ai-launches-advance-intelligence-group-brand-1030036725"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/advance-ai-launches-advance-intelligence-group-brand-1030036725"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
   - title: "Why Future Advances In AI Need A New Architecture"
     excerpt: "Businesses will need to adopt AI technologies not just because they can, but because they must - AI is the technology that will help businesses to be"
     publishedDateTime: 2021-02-02T22:22:00Z
@@ -68,6 +57,22 @@ related:
         width: 432
         height: 293
         isCached: true
+  - title: "ADVANCE.AI Launches 'Advance Intelligence Group' Brand"
+    excerpt: "ADVANCE.AI, a homegrown AI and big data company in Asia helping to solve digital transformation, fraud prevention, and process automation for enterprise clients, is today formally announcing its corporate parent brand Advance Intelligence Group."
+    publishedDateTime: 2021-02-03T06:37:00Z
+    webUrl: "https://www.finanzen.ch/nachrichten/aktien/advance-ai-launches-advance-intelligence-group-brand-1030036725"
+    ampWebUrl: "https://www.finanzen.ch/nachrichten/amp/advance-ai-launches-advance-intelligence-group-brand-1030036725"
+    cdnAmpWebUrl: "https://www-finanzen-ch.cdn.ampproject.org/c/s/www.finanzen.ch/nachrichten/amp/advance-ai-launches-advance-intelligence-group-brand-1030036725"
+    type: article
+    provider:
+      name: Finanzen
+      domain: finanzen.ch
+    quality: 59
+    images:
+      - url: "https://download54.boersestuttgart.mpcnet.de/download/jpg_378/switzerland/66/0/J3AhNK1rmGKbkOIax8ANSTC7yKAOxb6I1RjLc1xH/17118/17118.jpg"
+        width: 377
+        height: 212
+        isCached: true
   - title: "What Budget 2021 has in Store for Artificial Intelligence"
     excerpt: "Budget 2021 measures to deploy deep analytics and Artificial Intelligence to identify the tax evaders and fake billers, use of machine learning, data analytics and artificial intelligence to strengthen the Government’s initiatives."
     publishedDateTime: 2021-02-03T08:02:00Z
@@ -76,7 +81,7 @@ related:
     provider:
       name: Analytics Insight
       domain: analyticsinsight.net
-    quality: 39
+    quality: 41
     images:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/02/What-Budget-2021-has-in-Store-for-Artificial-Intelligence.jpg"
         width: 900

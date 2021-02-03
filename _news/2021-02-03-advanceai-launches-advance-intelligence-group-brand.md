@@ -2,26 +2,29 @@
 category: news
 title: "ADVANCE.AI Launches 'Advance Intelligence Group' Brand"
 excerpt: "ADVANCE.AI, a homegrown AI and big data company in Asia helping to solve digital transformation, fraud prevention, and process automation for enterprise clients, is today formally announcing its corporate parent brand Advance Intelligence Group."
-publishedDateTime: 2021-02-03T06:11:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/advance-ai-launches-advance-intelligence-group-brand-1030036725"
-webUrl: "https://markets.businessinsider.com/news/stocks/advance-ai-launches-advance-intelligence-group-brand-1030036725"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/advance-ai-launches-advance-intelligence-group-brand-1030036725"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/advance-ai-launches-advance-intelligence-group-brand-1030036725"
+publishedDateTime: 2021-02-03T06:37:00Z
+originalUrl: "https://www.finanzen.ch/nachrichten/aktien/advance-ai-launches-advance-intelligence-group-brand-1030036725"
+webUrl: "https://www.finanzen.ch/nachrichten/aktien/advance-ai-launches-advance-intelligence-group-brand-1030036725"
+ampWebUrl: "https://www.finanzen.ch/nachrichten/amp/advance-ai-launches-advance-intelligence-group-brand-1030036725"
+cdnAmpWebUrl: "https://www-finanzen-ch.cdn.ampproject.org/c/s/www.finanzen.ch/nachrichten/amp/advance-ai-launches-advance-intelligence-group-brand-1030036725"
 type: article
-quality: 67
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Finanzen
+  domain: finanzen.ch
 
 topics:
+  - AI in Finance
   - AI
+
+images:
+  - url: "https://download54.boersestuttgart.mpcnet.de/download/jpg_378/switzerland/66/0/J3AhNK1rmGKbkOIax8ANSTC7yKAOxb6I1RjLc1xH/17118/17118.jpg"
+    width: 377
+    height: 212
+    isCached: true
 
 related:
   - title: "Here’s where AI will advance in 2021"
@@ -75,13 +78,13 @@ related:
     provider:
       name: Analytics Insight
       domain: analyticsinsight.net
-    quality: 39
+    quality: 41
     images:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/02/What-Budget-2021-has-in-Store-for-Artificial-Intelligence.jpg"
         width: 900
         height: 500
         isCached: true
 
-secured: "oYizj+E1ovKMDrGK3LPV1ds2rRdZ+CjpUprecdMKVaphLxRfP+Ff4wD9bLX84GEcyYIQBxJy/wJgfI/+AHRSlRTRfMWMOO13O2R6rx5DC1Sb2wLWD0cBQ67jg/RMPdQ1543IbbBR/d0zcWtjzg0gSJZ5E4OZI999nYq6sseGnCvCoKwJWibTJJX+GbENyqIJQatiuD9Qh9/sHstoheyHavCXGKG6l56n9xR35lNSfyetYMviFxGrjg/XsfDHf/oQGRWXAPIY3uIZyCaZWJtGkf6jfStRGpof2yZfVU+OnYaxzVYpghkh4Fy+p9XtDKfz7KFkqOq9PkJXsinq287rzCRHkhwGZUsckSILj/5/4Ig=;9SDKlkBKFPRfbuo/c/ae5Q=="
+secured: "F+pM/ZyglND2RrdnaB8dhQ0E2IzRQ8niIhXl7y0OK2Qv68oJM0X3Ew8F7+l7TxKCRPC2nCSxLP9g2JTKjR96VRSK2gxxBxcJ7+xlTqlSH1NFq0vhImHuSwrC452sR0svSZ1SM8vV9dkG7OWIYdoMTvcOWx9SXT+qHWMNyuMoWssrF/3Sft5OIXTmjUU7fGdC55XbH2ZRH6ZLOFPO43btMTyRwGA030KL1udeQ6NU3zdPuzOL9U5wlyR1N6IfILl24oLCoPgCpy7TdLrBFoziUBZnYMh1euc7CyiuBV7/eDQq+KsuE0DiseQ6p5sfBxtvuum2zX2iN9BAfaiJ/nlBEuAxtqqptSZttQE2zP/ykCc=;kWsyz+t8lVUvbvJn93uv2A=="
 ---
 

@@ -37,6 +37,22 @@ related:
         width: 2075
         height: 1638
         isCached: true
+  - title: "Exposing Hidden Tumors With Near-Infrared Imaging and Machine Learning Methods"
+    excerpt: "Researchers have coupled near-infrared hyperspectral imaging with machine learning techniques to visualize tumors in deep tissue that are typically hard to detect."
+    publishedDateTime: 2021-02-03T10:04:00Z
+    webUrl: "https://www.technologynetworks.com/cancer-research/news/exposing-hidden-tumors-with-near-infrared-imaging-and-machine-learning-345181"
+    ampWebUrl: "https://www.technologynetworks.com/cancer-research/news/amp/exposing-hidden-tumors-with-near-infrared-imaging-and-machine-learning-345181"
+    cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/cancer-research/news/amp/exposing-hidden-tumors-with-near-infrared-imaging-and-machine-learning-345181"
+    type: article
+    provider:
+      name: technologynetworks.com
+      domain: technologynetworks.com
+    quality: 55
+    images:
+      - url: "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/exposing-hidden-tumors-with-near-infrared-imaging-and-machine-learning-345181.jpg?v=11094352"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Deep Vision: Near-infrared imaging and machine learning can identify hidden tumors"
     excerpt: "Gastrointestinal stromal tumors are tumors of the digestive tract that grow underneath the mucus layer covering our organs. Because they are deep inside the tissue, these 'submucosal tumors' are difficult to detect and diagnose,"
     publishedDateTime: 2021-02-03T01:30:00Z

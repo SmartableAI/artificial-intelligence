@@ -73,6 +73,34 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Artificial Intelligence in 2021: Current and Future Trends"
+    excerpt: "Three top experts in artificial intelligence discuss the key factors driving the growth of this emerging technology."
+    publishedDateTime: 2021-01-29T23:47:00Z
+    webUrl: "https://www.datamation.com/artificial-intelligence/artificial-intelligence-in-2021-current-and-future-trends/"
+    type: article
+    provider:
+      name: Datamation
+      domain: datamation.com
+    quality: 41
+    images:
+      - url: "https://www.datamation.com/wp-content/uploads/2018/03/pexels-panumas-nikhomkhai-1148820-1024x683-1.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Viking Analytics and pour-tech AB sign contract to provide AI operators to iron foundries"
+    excerpt: "Viking Analytics, a Swedish startup in advanced analytics solution for predictive operations, and pour-tech AB, specialized in"
+    publishedDateTime: 2021-02-03T10:20:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/viking-analytics-and-pour-tech-ab-sign-contract-to-provide-ai-operators-to-iron-foundries-301221068.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 28
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "SAS Viya delivers innovation and analytics for all"
     excerpt: "Analytics leader SAS continues to innovate by making it easier to access its powerful, cloud-native SAS® Viya® platform. Recent"
     publishedDateTime: 2021-02-02T14:49:00Z

@@ -1,24 +1,30 @@
 ---
 category: news
-title: "California to license driverless cars operated by artificial intelligence"
-excerpt: "The California Department of Motor Vehicles has officially issued a permit to Baidu USA to begin testing driverless vehicles on public roads in Sunnyvale, California."
-publishedDateTime: 2021-02-01T21:00:00Z
-originalUrl: "https://www.washingtonexaminer.com/politics/california-to-license-driverless-cars-operated-by-artificial-intelligence"
-webUrl: "https://www.washingtonexaminer.com/politics/california-to-license-driverless-cars-operated-by-artificial-intelligence"
-ampWebUrl: "https://www.washingtonexaminer.com/politics/california-to-license-driverless-cars-operated-by-artificial-intelligence?_amp=true"
-cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/politics/california-to-license-driverless-cars-operated-by-artificial-intelligence?_amp=true"
+title: "California to license driverless cars operated by Artificial Intelligence"
+excerpt: "The California Department of Motor Vehicles has officially issued a permit to Baidu USA to begin testing driverless vehicles on public roads in Sunnyvale, California. According to the state Department of Motor Vehicles (DMV),"
+publishedDateTime: 2021-02-02T14:24:00Z
+originalUrl: "https://thehayride.com/2021/02/california-to-license-driverless-cars-operated-by-artificial-intelligence/"
+webUrl: "https://thehayride.com/2021/02/california-to-license-driverless-cars-operated-by-artificial-intelligence/"
+ampWebUrl: "https://thehayride.com/2021/02/california-to-license-driverless-cars-operated-by-artificial-intelligence/?amp_markup=1"
+cdnAmpWebUrl: "https://thehayride-com.cdn.ampproject.org/c/s/thehayride.com/2021/02/california-to-license-driverless-cars-operated-by-artificial-intelligence/?amp_markup=1"
 type: article
-quality: 53
+quality: 73
 heat: -1
 published: false
 
 provider:
-  name: Washington Examiner
-  domain: washingtonexaminer.com
+  name: The Hayride
+  domain: thehayride.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://thehayride.com/wp-content/uploads/2021/02/external-content.duckduckgo.jpg"
+    width: 1280
+    height: 720
+    isCached: true
 
 related:
   - title: "SoftBank's Son expects mass production of driverless cars in 2 years"
@@ -84,6 +90,6 @@ related:
         height: 826
         isCached: true
 
-secured: "2TaLeS9CKr8sMlroQag+TiSLmZxgld7jsPEPnFgHGhOazhMcdn//YT91j50lukWsxrr31NIIigyQHstNKKTTucn1gUoN7nzZy/KHtGWQ8amuMJIopqRidXDXDlJ6V/QLRcO2xE1pIwBNO3tENzkyBX1vAb9WlYkLKc35LEAFTW0M0HETHBaUYQluph5NZgxOEdS4ylnGRorpGSOvuNqJ8kGssyJu3erpcuxRzX8aFXdQnrLKBEf0kbkwRYLkEDpuiFIBw2WwPNIax97UBfwJCsJ+Tm/aZIApQMNOVZJ96pYaN0dc8zsXOWr5YyIj2C7ooy1X6CMTxd3Z8j4UeKsU7zKgeYj0ks0iSeWskhE92hCR5QOTljcxNJcUWy0TIQOYvGUJvbOE+MeQSu3YlzRHyrJXhxxglXLT9nhM/GPjah9I2Z6m+dwW/LPuUjEjd+JIGdOZPKunGUbGuMLe8SMVMoJK76GNG1+p9OPvKMWXNVRPmFYblluoASL+s1vl3aK8kgDPDQiAW3Fr8XkiJxuK+w==;NxEA9FrsUrF0smpePf0spQ=="
+secured: "mFK9EwLjW55PKLwj0wGYHCl+2Ey2dOPHdEWQF5H5BnmJ/7+w3kLp7N8B1erdMo1sdLr0wLrxJT8inZqOPzyLI/VDXRpFJnz88p7LLE+PsZ0mk2XEXs9YtV7EKnPEsnvIDTUy2snyDzdnG9SeJ6LD/1zirYquK6Yxvo1RDATrx+jkAlssyqCYGP/U6FJCx8g2cw9z1SjiZW8FOhVTGDRyqTkrI46Jhwd06uRajuO4oYm0Vdqskk0uxt1K2Tzhj5EE3QKSXmlIRZOtxf/rl807D/THolFehdNl/HpPB8wPWKHQhBGsQh5Fvuim+7+gdNonLIMpfTI5CM8kWLTLTu7yoJXV0EhBbYMcIOUIbLqFxR0=;7C7d8lRQ61xOeoicadz+Xw=="
 ---
 

@@ -42,22 +42,6 @@ related:
         width: 1024
         height: 1024
         isCached: true
-  - title: "New study investigates photonics for artificial intelligence and neuromorphic computing"
-    excerpt: "Scientists have given a fascinating new insight into the next steps to develop fast, energy-efficient, future computing systems that use light instead of electrons to process and store information—incorporating hardware inspired directly by the functioning of the human brain."
-    publishedDateTime: 2021-01-29T17:44:00Z
-    webUrl: "https://phys.org/news/2021-01-photonics-artificial-intelligence-neuromorphic.html"
-    ampWebUrl: "https://phys.org/news/2021-01-photonics-artificial-intelligence-neuromorphic.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-01-photonics-artificial-intelligence-neuromorphic.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 49
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/photon.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "Photonics for artificial intelligence and neuromorphic computing"
     excerpt: "Photonics offers an attractive platform for implementing neuromorphic computing due to its low latency, multiplexing capabilities and integrated on-chip technology."
     publishedDateTime: 2021-01-29T21:24:00Z

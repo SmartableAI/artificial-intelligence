@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
-excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
-publishedDateTime: 2021-02-03T08:22:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
-webUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
+excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance"
+publishedDateTime: 2021-02-02T22:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
+webUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
 type: article
-quality: 46
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Microsoft's cutting-edge machine-learning tool moves from the lab to the mainstream"
@@ -40,22 +34,6 @@ related:
       - url: "https://tr3.cbsistatic.com/hub/i/r/2021/02/01/1b622622-e749-47c0-9c60-ed09ab784bbe/resize/400x/f50dcab974e7e9400bbc49f5c9acb474/rl-wikipedia-2.jpg"
         width: 400
         height: 388
-        isCached: true
-  - title: "Confluent strengthens strategic alliance with Microsoft"
-    excerpt: "Confluent has entered a new strategic partnership with Microsoft to enable a seamless experience between its fully managed Apache Kafka service Confluent Cloud and Azure. Confluent initially launched its Confluent Cloud on the Microsoft Azure marketplace in March 2020,"
-    publishedDateTime: 2021-01-29T17:27:00Z
-    webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358472/confluent-strengthens-strategic-alliance-with-microsoft"
-    ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358472/confluent-strengthens-strategic-alliance-with-microsoft?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/358472/confluent-strengthens-strategic-alliance-with-microsoft?amp"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 89
-    images:
-      - url: "https://media.itpro.co.uk//image/upload/v1611940838/itpro/Confluent_Cloud_flow_chart.png"
-        width: 1024
-        height: 443
         isCached: true
   - title: "Moving from the Lab to the Mainstream - Microsoft's Machine-Learning Tool"
     excerpt: "Now techniques developed by Microsoft are emerging from the lab and moving into production. Perhaps the most significant embodiment of this development is Personalizer, part of Azure Cognitive Services on the Azure AI Platform³."
@@ -160,21 +138,7 @@ related:
         width: 900
         height: 470
         isCached: true
-  - title: "GM, Cruise partner with Microsoft to speed up self-driving EV technology"
-    excerpt: "General Motors and its self-driving car subsidiary Cruise will partner with Microsoft to accelerate the commercialization of self-driving vehicles, the companies said recently."
-    publishedDateTime: 2021-01-29T17:16:00Z
-    webUrl: "https://www.gazettextra.com/work_wheels/gm-cruise-partner-with-microsoft-to-speed-up-self-driving-ev-technology/article_d27b5870-1f53-56fa-8079-6b77a515031b.html"
-    type: article
-    provider:
-      name: Janesville Gazette
-      domain: gazettextra.com
-    quality: 40
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/gazettextra.com/content/tncms/custom/image/22e609ae-afc7-11e9-8d80-639cb276d44a.png"
-        width: 900
-        height: 470
-        isCached: true
 
-secured: "S5oFQHyZQpFs8SsjFhld5NbGa67lhIhjVQC70WsA9qmCTRqIwH7VNfV0i8gaHvwhYRN0pM8Qu6tVahqxgLL1IfZm95Ue6xPlhkIhPmSeVXRQKJrQXUzo8AJSbd9R74zjV3NZVJQ7F6kroWcskR4IX+4lcYxhS/Cpy7nrKM4b2PWRxDZqRdv5Tnr29HpEsDAI2Ue3gECHJgaBvAyZXWbXWIW1CNYY/YcROyxltPFoakX6UtBBggIZFCqjXbqH0sB1hA3rWLnugnlbxyNv7w7/lfT8n3uoPES88qscdg+FdERElC3QWARLSp1hhSeey/c4XdJ5OkGDpgLeFcO/qZLgfQ7fJzLdIsdoPMlqZsxd2To=;nQvL+5RCT/rRfv4hrG8Vcg=="
+secured: "/2TZpWrg5cRSEu5Mah4lhl5YefHHjvOzBHKm0I8jVZKbwrcWI3SZaJhxqa8mtfjqy7zbajIc0eJJ0MJ7BPdgzl+SX+VdWWMqIqXn/RfLb2OUeQnz1sqF4fXd+eo9fmafKBJS2ZFc4NiXf0pxVQjTdzEp4OLVE9lASIRNdNHijfg6uLw1Lbn9r/taG2Hp+TX4el62Hrn9AICzyNtDUtKTl3QMZhApR4OvxmgbLjis165zEyl1O65p8MercLkdda/Nl+ik0Xqpdf3Nb+jMyb0ZFeB9lq4IAJsgUbOa/UsdviVisP82a3ur7d7GpzUJRb1K/gHSwJorfW4EtYIdd7f7tIAB2WhX5ba2Pm0iGpbQnHc=;PXC4Q56YiYLYxV/7b5M66A=="
 ---
 

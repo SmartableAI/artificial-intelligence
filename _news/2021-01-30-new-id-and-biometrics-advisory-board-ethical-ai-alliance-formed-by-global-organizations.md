@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202101/new-id-and-biometrics-advis
 webUrl: "https://www.biometricupdate.com/202101/new-id-and-biometrics-advisory-board-ethical-ai-alliance-formed-by-global-organizations"
 type: article
 quality: 45
-heat: -1
+heat: 45
 published: false
 
 provider:
@@ -25,36 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biometrics ethics group addresses public-private use of facial recognition"
-    excerpt: "Home Office’s Biometrics and Forensics Ethics Group releases briefing note on the use of live facial recognition in public–private collaborations following a year-long investigation."
-    publishedDateTime: 2021-01-29T18:19:00Z
-    webUrl: "https://www.computerweekly.com/news/252495597/Biometrics-ethics-group-address-public-private-use-of-facial-recognition"
-    ampWebUrl: "https://www.computerweekly.com/news/252495597/Biometrics-ethics-group-address-public-private-use-of-facial-recognition?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252495597/Biometrics-ethics-group-address-public-private-use-of-facial-recognition?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 74
-    images:
-      - url: "https://cdn.ttgtmedia.com/visuals/German/article/CCTV-facial-recognition-2-adobe.jpg"
-        width: 1200
-        height: 400
-        isCached: true
-  - title: "Guide for ethical, legal use of facial recognition published by BSIA"
-    excerpt: "The report explains the key factors companies have to take into consideration before choosing a facial recognition solution for their biometric security systems"
-    publishedDateTime: 2021-02-02T20:55:00Z
-    webUrl: "https://www.biometricupdate.com/202102/guide-for-ethical-legal-use-of-facial-recognition-published-by-bsia"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 56
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/07/25183012/Chincotech-facial-recognition.png"
-        width: 623
-        height: 432
-        isCached: true
   - title: "New rumors point to Touch ID and Face ID biometrics on the screen iPhone 13"
     excerpt: "New rumors point to Touch ID and Face ID biometrics on the screen iPhone 13 The following iPhone 13 lineup may include biometric"
     publishedDateTime: 2021-02-01T22:40:00Z
@@ -98,20 +68,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/06/15124940/iphone-in-use.png"
         width: 800
         height: 450
-        isCached: true
-  - title: "Hikvision to deploy 1,900 cameras with face biometrics for $33M smart city contract"
-    excerpt: "Hikvision has won a contract worth an estimated $33 million to install roughly 1,900 cameras with face biometrics as part of a smart city project."
-    publishedDateTime: 2021-02-02T22:31:00Z
-    webUrl: "https://www.biometricupdate.com/202102/hikvision-to-deploy-1900-cameras-with-face-biometrics-for-33m-smart-city-contract"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 18
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/18144436/Hikvision-biometric-facial-recognition-cameras.jpg"
-        width: 720
-        height: 480
         isCached: true
 
 secured: "BGW9uHT8C/o/OCTTLa7BUXpxQVJgbQ3DPEsqHbxuZn59numVLmpSfPSpKlxFcpv2bXlTykBsp64BJJFAl1S6wHeKUwxJYgihK5WrWpPerm2GndpBbvYLkXG+OTbDRr5p81jb8jTFVHMMWUemeUx1TU3bRovp8/htf6EPUWk1NzpVGRposSRdnISgf15DbKOlJ8DQ0eDYJjR8IiTotBK/bPGPRYUXWmerHGDhG+Pdmx2SjGrUI7vVLHi0fbi2TyeVDDzbDgsbF+LVJzPWaAYjMQ1NVE6d32gpuz4Pdf+JZLSkDrYnRDTffJTDTxQWQn79jIw4aq9PYcyO/hN4YLl52IHBql4R/df3m1TAcRqGpfGyAz1Vw0Ks5GlySbi6XPZQ4QjA4KgDi3wTPmjdrQZXXNpWOoLLbowm0jG5wtvWI4HhYZ/bUyjhq4nTBtbLHxrAMqt4fRxDtCMz5ogVUou5xkFZU42ukcJXVyhRDkc+0Y+x4tOyfKTEFG8iMtiloBghTVDdj+ePdRcvB2Rc3XkyXw==;IqglkOAxbK8pfX18o9IQlQ=="

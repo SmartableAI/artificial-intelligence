@@ -6,7 +6,7 @@ publishedDateTime: 2021-02-03T08:02:00Z
 originalUrl: "https://www.analyticsinsight.net/what-budget-2021-has-in-store-for-artificial-intelligence/"
 webUrl: "https://www.analyticsinsight.net/what-budget-2021-has-in-store-for-artificial-intelligence/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/02/What-Budget-2021-has-in-Store-for-Artificial-Intelligence.jpg"
@@ -52,17 +53,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 69
-  - title: "ADVANCE.AI Launches 'Advance Intelligence Group' Brand"
-    excerpt: "ADVANCE.AI, a homegrown AI and big data company in Asia helping to solve digital transformation, fraud prevention, and process automation for enterprise clients, is today formally announcing its corporate parent brand Advance Intelligence Group."
-    publishedDateTime: 2021-02-03T06:11:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/advance-ai-launches-advance-intelligence-group-brand-1030036725"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/advance-ai-launches-advance-intelligence-group-brand-1030036725"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/advance-ai-launches-advance-intelligence-group-brand-1030036725"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
   - title: "Why Future Advances In AI Need A New Architecture"
     excerpt: "Businesses will need to adopt AI technologies not just because they can, but because they must - AI is the technology that will help businesses to be"
     publishedDateTime: 2021-02-02T22:22:00Z
@@ -79,7 +69,23 @@ related:
         width: 432
         height: 293
         isCached: true
+  - title: "ADVANCE.AI Launches 'Advance Intelligence Group' Brand"
+    excerpt: "ADVANCE.AI, a homegrown AI and big data company in Asia helping to solve digital transformation, fraud prevention, and process automation for enterprise clients, is today formally announcing its corporate parent brand Advance Intelligence Group."
+    publishedDateTime: 2021-02-03T06:37:00Z
+    webUrl: "https://www.finanzen.ch/nachrichten/aktien/advance-ai-launches-advance-intelligence-group-brand-1030036725"
+    ampWebUrl: "https://www.finanzen.ch/nachrichten/amp/advance-ai-launches-advance-intelligence-group-brand-1030036725"
+    cdnAmpWebUrl: "https://www-finanzen-ch.cdn.ampproject.org/c/s/www.finanzen.ch/nachrichten/amp/advance-ai-launches-advance-intelligence-group-brand-1030036725"
+    type: article
+    provider:
+      name: Finanzen
+      domain: finanzen.ch
+    quality: 59
+    images:
+      - url: "https://download54.boersestuttgart.mpcnet.de/download/jpg_378/switzerland/66/0/J3AhNK1rmGKbkOIax8ANSTC7yKAOxb6I1RjLc1xH/17118/17118.jpg"
+        width: 377
+        height: 212
+        isCached: true
 
-secured: "5DCu71QqE8I2vzVSpt9nxjFAHvi4DDzuBo1qSBM3oSfOaKjH+j8XGL3KY99cQJUc7/P+N817BcKq3H8PKLyeyGmpSxzb1wOqF2JQqq29It7B1rxNztAFNknECs2AOkBxV606P0xeMYbLzZvxkzQPtFbIsQE7PyB+Nw/YcSLrONqvPjjsqUiuqW1zfO5y9oL8xvXA5TRBTCz1rIA66yxNgr8CTXpWy9oBRDvWU40GVrWvmnrzU/g/PzYZgcrMOlNBRdEM/7TDYu7Rk+jdXk0XyBEGBLsrtnu12Yy5lr0uSjepfGFH0Eu8DzDWTSrtz1zglX8wcq+0K7VhIPG6HBwFhtMgrD3UGppk4KpnjXnslSQ=;ckVe1kBafHEYVQCbW4gExQ=="
+secured: "mkddvymf+6VdAXZ2Jse/h3ZO1XWxquT7pPIaHnrVndJLI9lKUcMl40NPXAja1s1KuLnSSH+cQf0xUDYpRU5f34g78fbTtA31/sN374E9eb+pQshJX1M3AXQ/PIX1/pvzZOlRGhQsOKwZ8S+6h+tsfrdJST5KsSTXmZPjwuDzhweOBuuY9/3QDpfc7LCZVZ9Yz4ctH+vBKWVRXxhcMVxoO2G7i6SbnzuK7D099+weos5tU9u6n76my59avQRclWc/gREiM+ze7TD8zgdsRLuTMD4tksftad24PQMg/h1PhMAWIaW8F3YGEe/zYGe/HO0iBZrURcqFjCrlPG8TbFP20ko+iO+94wTsWpA+HyHZXUgJLEfL17yz1l4qKdp3wzeWTOFhuwBpXe4Eoo5xkJqqyaw2/uHyo6FPeOOcmq+DW5cUd0TwxviQxaKT8yIhkpcdfCtLeXqnz91zYJNVgc7LdkjJ802+WUHPhR9utZDbKQb+xx3hmDQJV6lPGVw2uaKa58RXFslXig2h/rHW0Pwv/w==;2cEgGolQVkeljRmY4wfbmQ=="
 ---
 

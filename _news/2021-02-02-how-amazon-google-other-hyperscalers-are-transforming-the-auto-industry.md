@@ -50,6 +50,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Accelerating machine learning and hyperscale computing infrastructure"
+    excerpt: "Microchip’s introduction of the world’s first PCIe 5.0 switch doubles the PCIe Gen 4 interconnect link rates to 32 GT/s to support the most demanding next-generation machine learning platforms,” said Andrew Dieckmann,"
+    publishedDateTime: 2021-02-03T09:38:00Z
+    webUrl: "https://www.electropages.com/2021/02/accelerating-machine-learning-and-hyperscale-computing-infrastructure"
+    type: article
+    provider:
+      name: Electropages
+      domain: electropages.com
+    quality: 39
+    images:
+      - url: "https://www.electropages.com/storage/app/media//company-logos/company-logo-Microchip@2x.jpg"
+        width: 600
+        height: 600
+        isCached: true
   - title: "Microchip Accelerates Machine Learning and Hyperscale Computing Infrastructure with the World’s First PCI Express® 5.0 Switches"
     excerpt: "Applications such as data analytics, autonomous-driving and medical diagnostics are driving extraordinary demands for machine learning and hyperscale compute infrastructure. To meet these demands, Microchip Technology Inc."
     publishedDateTime: 2021-02-03T05:25:00Z

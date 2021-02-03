@@ -44,22 +44,6 @@ related:
         width: 400
         height: 388
         isCached: true
-  - title: "Confluent strengthens strategic alliance with Microsoft"
-    excerpt: "Confluent has entered a new strategic partnership with Microsoft to enable a seamless experience between its fully managed Apache Kafka service Confluent Cloud and Azure. Confluent initially launched its Confluent Cloud on the Microsoft Azure marketplace in March 2020,"
-    publishedDateTime: 2021-01-29T17:27:00Z
-    webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358472/confluent-strengthens-strategic-alliance-with-microsoft"
-    ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358472/confluent-strengthens-strategic-alliance-with-microsoft?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/358472/confluent-strengthens-strategic-alliance-with-microsoft?amp"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 89
-    images:
-      - url: "https://media.itpro.co.uk//image/upload/v1611940838/itpro/Confluent_Cloud_flow_chart.png"
-        width: 1024
-        height: 443
-        isCached: true
   - title: "Why Microsoft’s Self-Driving Car Strategy Will Work"
     excerpt: "Self-driving car startup Cruise received more than $2 billion investment from Microsoft, General Motors, Honda, and institutional investors,"
     publishedDateTime: 2021-02-03T08:02:00Z
@@ -148,33 +132,14 @@ related:
         height: 470
         isCached: true
   - title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
-    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
-    publishedDateTime: 2021-02-03T08:22:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
+    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance"
+    publishedDateTime: 2021-02-02T22:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 46
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "GM, Cruise partner with Microsoft to speed up self-driving EV technology"
-    excerpt: "General Motors and its self-driving car subsidiary Cruise will partner with Microsoft to accelerate the commercialization of self-driving vehicles, the companies said recently."
-    publishedDateTime: 2021-01-29T17:16:00Z
-    webUrl: "https://www.gazettextra.com/work_wheels/gm-cruise-partner-with-microsoft-to-speed-up-self-driving-ev-technology/article_d27b5870-1f53-56fa-8079-6b77a515031b.html"
-    type: article
-    provider:
-      name: Janesville Gazette
-      domain: gazettextra.com
-    quality: 40
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/gazettextra.com/content/tncms/custom/image/22e609ae-afc7-11e9-8d80-639cb276d44a.png"
-        width: 900
-        height: 470
-        isCached: true
+      name: Business Wire
+      domain: businesswire.com
+    quality: 26
 
 secured: "uu5XAIHFDUWul4+b7HGIHQ0tTQUZYlkMvdZggopVmRkbzJDCxGSVeskuE1JNbMwCdKPVMa3gJ0o1EiTF2aNTbF2as/SuS2fumXfHDGTnzTJ017Bs8fZVdaC1ARUhLyWbL7LZPoCFUjLyOsJ5iqFrDp45TVbw1e/POhCsNXAbH/tH74zude/HjhcZ38ckdunWPLjBN5uanfZbFOe0yTHQ+WnQcz2OwMn3ye2O1MLCP/nG0jFkb8S0TuNWZ2st+M+H5346MpHKqfLwZQ6d5pQRNXrBXuxL7Kz3bgWO1qk3+Uh+Rz0euMOXEItxuvwgY8C4FYpOl2pxiRW4uuD0eBWEucLhZ/XfRBSzNRvOzsg/2ZiBHUUBZMaxcoRF0FBY82Ve70tef3E1Y61RgDvjUYNYVcwEPVrOxTVNKoG1AjsYQCiLMtntjiyHC4uq/gsU+1ydHiUTjVWxE6G2FyV3AzEF3+MLPUOVYDOqouh+9cyjvPENUP5Ilr+HsmzzIoOqVdZrH9imw/ttUacBwimeXyMZzw==;Hw1aGAlN0bHlSOBv1Cno6w=="
 ---

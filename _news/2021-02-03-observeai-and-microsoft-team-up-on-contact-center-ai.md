@@ -41,22 +41,6 @@ related:
         width: 400
         height: 388
         isCached: true
-  - title: "Confluent strengthens strategic alliance with Microsoft"
-    excerpt: "Confluent has entered a new strategic partnership with Microsoft to enable a seamless experience between its fully managed Apache Kafka service Confluent Cloud and Azure. Confluent initially launched its Confluent Cloud on the Microsoft Azure marketplace in March 2020,"
-    publishedDateTime: 2021-01-29T17:27:00Z
-    webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358472/confluent-strengthens-strategic-alliance-with-microsoft"
-    ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358472/confluent-strengthens-strategic-alliance-with-microsoft?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/358472/confluent-strengthens-strategic-alliance-with-microsoft?amp"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 89
-    images:
-      - url: "https://media.itpro.co.uk//image/upload/v1611940838/itpro/Confluent_Cloud_flow_chart.png"
-        width: 1024
-        height: 443
-        isCached: true
   - title: "Moving from the Lab to the Mainstream - Microsoft's Machine-Learning Tool"
     excerpt: "Now techniques developed by Microsoft are emerging from the lab and moving into production. Perhaps the most significant embodiment of this development is Personalizer, part of Azure Cognitive Services on the Azure AI Platform³."
     publishedDateTime: 2021-02-02T17:27:00Z
@@ -147,33 +131,14 @@ related:
         height: 470
         isCached: true
   - title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
-    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
-    publishedDateTime: 2021-02-03T08:22:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
+    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance"
+    publishedDateTime: 2021-02-02T22:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 46
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "GM, Cruise partner with Microsoft to speed up self-driving EV technology"
-    excerpt: "General Motors and its self-driving car subsidiary Cruise will partner with Microsoft to accelerate the commercialization of self-driving vehicles, the companies said recently."
-    publishedDateTime: 2021-01-29T17:16:00Z
-    webUrl: "https://www.gazettextra.com/work_wheels/gm-cruise-partner-with-microsoft-to-speed-up-self-driving-ev-technology/article_d27b5870-1f53-56fa-8079-6b77a515031b.html"
-    type: article
-    provider:
-      name: Janesville Gazette
-      domain: gazettextra.com
-    quality: 40
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/gazettextra.com/content/tncms/custom/image/22e609ae-afc7-11e9-8d80-639cb276d44a.png"
-        width: 900
-        height: 470
-        isCached: true
+      name: Business Wire
+      domain: businesswire.com
+    quality: 26
 
 secured: "tIusJiYewehaPN4WwinlN/AnSDT7e2wlw/+QOZGEN0I10HE5LZRbzqeiZmVMbyWnB4OZLchYAzZA+WczoUMM3c0D0X5u6XKrqR9BGoO2dt5a2pY+5R8fllbmY/m0gBQ1VbIcWM7x7gHx0hbcfUYfLpdSqmA4b3HpiTOvjdGzgPMFp9+ZN2TsTt/FGWlWW4Owf1IEoQ6p39+1nH0iF+SDZYa2OgM5Byy525Ot45ti1V2U5iyJNaFb3bDTNIPdQ2AZPtdQp8KxF5wumO5ytwTMwQQ/FZbdg714QvJbrrAQKXh6nN9ehYbSPugUzCrf0NqBHE4xkfcUUvlZLH49Bq1HEPDVU/DpX32A1zOTM7FcNJg=;QMsgBh7eeJYJD+B1qCYjGA=="
 ---

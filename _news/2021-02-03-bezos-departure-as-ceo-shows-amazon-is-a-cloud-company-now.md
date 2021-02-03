@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wired.com/story/bezos-departure-ceo-shows-amazon-cloud-c
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/bezos-departure-ceo-shows-amazon-cloud-company/amp"
 type: article
 quality: 74
-heat: 104
-published: true
+heat: -1
+published: false
 
 provider:
   name: Wired
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "As Jeff Bezos Takes Off, Meet His Earthbound Successor"
+    excerpt: "And, most of all, the self-effacing and affable executive has been perhaps the most loyal lieutenant to the Amazon founder Jeff Bezos, joining him right out of Harvard Business School in 1997 and playing no small part as the tech mogul became one of the most powerful figures in American business."
+    publishedDateTime: 2021-02-03T10:00:00Z
+    webUrl: "https://www.nytimes.com/2021/02/03/opinion/amazon-jeff-bezos-andy-jassy.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/03/opinion/amazon-jeff-bezos-andy-jassy.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/03/opinion/amazon-jeff-bezos-andy-jassy.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 74
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/02/opinion/02swisher/02swisher-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "Jeff Bezos is stepping down as Amazon CEO and will be replaced by AWS boss Andy Jassy"
+    excerpt: "Bezos announced the change in an email to staff on Tuesday afternoon and as the company reported bumper 2020 Q4 earnings of more than $100billion."
+    publishedDateTime: 2021-02-03T09:31:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-9216343/Jeff-Bezos-stepping-Amazon-CEO.html?ci=73931&si=24249205"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-9216343/amp/Jeff-Bezos-stepping-Amazon-CEO.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9216343/amp/Jeff-Bezos-stepping-Amazon-CEO.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 52
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/02/02/21/38803406-0-image-a-27_1612302759925.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "Jeff Bezos Will Step Down as Amazon CEO in Third Quarter of 2021"
     excerpt: "Jeff Bezos will step down as CEO of Amazon and become Executive Chair of the Amazon Board in 2021 third quarter. Andy Jassy will become CEO. Bezos will focus on new products and early initiatives. As"
     publishedDateTime: 2021-02-02T22:39:00Z
@@ -76,6 +108,22 @@ related:
       - url: "https://www.crn.com/resources/0266-117bc3194e6d-9c898b9db5c2-1000/jassy-andy-aws-cover.jpg"
         width: 610
         height: 457
+        isCached: true
+  - title: "Who is Andy Jassy? All about Amazon's new CEO after Jeff Bezos steps down between July and September 2021"
+    excerpt: "Andy Jassy helped launch the Amazon Web Services (AWS) with a team of 57 people in 2003 and eventually became the CEO of the division. As of November 2020, Jassy's estimated net worth is $377 million"
+    publishedDateTime: 2021-02-02T23:59:00Z
+    webUrl: "https://meaww.com/andy-jassy-net-worth-profile-amazon-new-incoming-ceo-after-jeff-bezos-steps-down-later-in-2021-aws"
+    ampWebUrl: "https://meaww.com/amp/andy-jassy-net-worth-profile-amazon-new-incoming-ceo-after-jeff-bezos-steps-down-later-in-2021-aws"
+    cdnAmpWebUrl: "https://meaww-com.cdn.ampproject.org/c/s/meaww.com/amp/andy-jassy-net-worth-profile-amazon-new-incoming-ceo-after-jeff-bezos-steps-down-later-in-2021-aws"
+    type: article
+    provider:
+      name: Meaww
+      domain: meaww.com
+    quality: 27
+    images:
+      - url: "https://cheesecake.articleassets.meaww.com/520377/uploads/f1b1a910-65aa-11eb-bea0-fbd4614cd2cf_800_420.png"
+        width: 800
+        height: 420
         isCached: true
 
 secured: "s5ykxK4m05GXVXa7GBVmVf1LdLkG7+be75Ra9CqO4EJggeexIjiE2PAyhboc00EEIay6vQifJX7camribfC1pYAq3dmVkLEjaVYPSKcbvOWp+tJwANiYwNYec0PM1otnRKv1pLWPCWN8kSmsqBN1eZLafShC1HwwCbHeS9NBUIj9Uod9TU8FHne4ojdzLx/bhPhI3Y6GqcDnhC54QeSRIUe77AHNTdhytZeK49xyoyFwS8RDEkjlJn/HvbMwuvIig3oiMrVbPGkJqi5cDSwsAfAttiHtkvu/b3t2rdYscR+D91mOVRZFCWLq4ugYBfpv3DGOWFkh6LpDXpIXGw+WJ95StmRC3WCzTpl+lf12M33ezZciX4L8pD04wS3uy2WFnnRIV5bpiK87cDfIpTTc0EqObTH9+2WrPW0GlBFdnEFhBg3Yw8oby+Xhivnkls5UMU64P2BJEBRwQH8/QV4oNWkiC2C58vtfVGekwRpQG/XcUPMQVYNQCTa1Ocz7ZGm0q9zK+Sbr30KD+kytwkOalg==;Ip1qS9rQvmFBZKfVXGl0Rg=="

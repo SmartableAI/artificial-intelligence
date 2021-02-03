@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "As Jeff Bezos Takes Off, Meet His Earthbound Successor"
+    excerpt: "And, most of all, the self-effacing and affable executive has been perhaps the most loyal lieutenant to the Amazon founder Jeff Bezos, joining him right out of Harvard Business School in 1997 and playing no small part as the tech mogul became one of the most powerful figures in American business."
+    publishedDateTime: 2021-02-03T10:00:00Z
+    webUrl: "https://www.nytimes.com/2021/02/03/opinion/amazon-jeff-bezos-andy-jassy.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/03/opinion/amazon-jeff-bezos-andy-jassy.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/03/opinion/amazon-jeff-bezos-andy-jassy.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 74
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/02/opinion/02swisher/02swisher-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Bezos' Departure as CEO Shows Amazon Is a Cloud Company Now"
     excerpt: "Andy Jassy, who helped create Amazon Web Services in 2006 and has run it since, will take over as chief executive later this year."
     publishedDateTime: 2021-02-03T01:07:00Z
@@ -40,6 +56,22 @@ related:
       - url: "https://media.wired.com/photos/6019cab23453f789506008d0/master/pass/Sec_Bezos_1036084400.jpg"
         width: 2400
         height: 1600
+        isCached: true
+  - title: "Jeff Bezos is stepping down as Amazon CEO and will be replaced by AWS boss Andy Jassy"
+    excerpt: "Bezos announced the change in an email to staff on Tuesday afternoon and as the company reported bumper 2020 Q4 earnings of more than $100billion."
+    publishedDateTime: 2021-02-03T09:31:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-9216343/Jeff-Bezos-stepping-Amazon-CEO.html?ci=73931&si=24249205"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-9216343/amp/Jeff-Bezos-stepping-Amazon-CEO.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9216343/amp/Jeff-Bezos-stepping-Amazon-CEO.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 52
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/02/02/21/38803406-0-image-a-27_1612302759925.jpg"
+        width: 636
+        height: 382
         isCached: true
   - title: "Jeff Bezos Will Step Down as Amazon CEO in Third Quarter of 2021"
     excerpt: "Jeff Bezos will step down as CEO of Amazon and become Executive Chair of the Amazon Board in 2021 third quarter. Andy Jassy will become CEO. Bezos will focus on new products and early initiatives. As"
@@ -72,6 +104,22 @@ related:
       - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/jeff-bezos-owner-of-blue-origin-introduces-a-new-lunar-news-photo-1612302458.?crop=1.00xw:0.672xh;0,0.210xh&resize=1200:*"
         width: 1200
         height: 602
+        isCached: true
+  - title: "Who is Andy Jassy? All about Amazon's new CEO after Jeff Bezos steps down between July and September 2021"
+    excerpt: "Andy Jassy helped launch the Amazon Web Services (AWS) with a team of 57 people in 2003 and eventually became the CEO of the division. As of November 2020, Jassy's estimated net worth is $377 million"
+    publishedDateTime: 2021-02-02T23:59:00Z
+    webUrl: "https://meaww.com/andy-jassy-net-worth-profile-amazon-new-incoming-ceo-after-jeff-bezos-steps-down-later-in-2021-aws"
+    ampWebUrl: "https://meaww.com/amp/andy-jassy-net-worth-profile-amazon-new-incoming-ceo-after-jeff-bezos-steps-down-later-in-2021-aws"
+    cdnAmpWebUrl: "https://meaww-com.cdn.ampproject.org/c/s/meaww.com/amp/andy-jassy-net-worth-profile-amazon-new-incoming-ceo-after-jeff-bezos-steps-down-later-in-2021-aws"
+    type: article
+    provider:
+      name: Meaww
+      domain: meaww.com
+    quality: 27
+    images:
+      - url: "https://cheesecake.articleassets.meaww.com/520377/uploads/f1b1a910-65aa-11eb-bea0-fbd4614cd2cf_800_420.png"
+        width: 800
+        height: 420
         isCached: true
 
 secured: "HmFzowVa/P2XNG3YcHVbZXXtOL/AeGc6k5DVrk3krlsX2OcmR1Sk+cYohFdjeqOpwo4mDR8bDjMOI0SDglnnUAzO7/7xOXgQahHkzdhP5eyKa0KmBgoeBbmQCl91IXzKaYzpD08GBXBUbg2bDsiaoAUMzAnTje0rRucG1bT9dx/6EKolPPAxgAtjINJSZpudj8E+pQaTuvQJDroTVXpPI2medhCrA3jFT8MQlESG6wEVhyBXD/t7qXYZ0G8X8nyjmMeMB/9i7D9W2ImVBvyNBBqP+GGmjls7AzVT4LHhYsJtGcVflqjzxvxWeuyTGfeTLWUxODBF7dfK0bdjBGPb50C7KjPwApVeiahyDvYWN+JhsOrWZAjmdrO/0oSIb6E1lF5eyWb8T6F9DH8+JiJnQ+yEK0SW1LHcU8Q5DDrnKKHRYzYcP4YfAujChu/ghN0NTnTIbalz0HZVpBMIBnmqXllmJjeICU7nCP4kXQtMd/2vGIe2XSCosjkZhToM7Z8i11Io0AGoEdw/k/OVUpLZiw==;hJERiFdFBReyWpbbc0KRWQ=="

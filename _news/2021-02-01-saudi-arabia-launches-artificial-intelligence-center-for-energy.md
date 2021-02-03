@@ -23,6 +23,22 @@ images:
     height: 320
     isCached: true
 
+related:
+  - title: "DIAGNOS Announces Further Deployment of its AI based CARA Technology in Saudi Arabia"
+    excerpt: "Diagnos Inc. (\"DIAGNOS\" or \"the Corporation\") a leader in early detection of critical health issues through the use of its FLAIRE platform based on Artificial Intelligence (AI), is pleased to announce that it will be deploying its AI medical"
+    publishedDateTime: 2021-02-03T09:09:00Z
+    webUrl: "https://www.lelezard.com/en/news-19629822.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 32
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+        width: 640
+        height: 480
+        isCached: true
+
 secured: "Op2/l/uP0GQG6cnD/ktD6B6Cflix7lfBiG8PXUviohJbzkXW6pL0bkctWZ26z/Z1xrU4UFyjPEqP2K5e+SaqnIIJ8GOaRy/BtjOotQ1LeOW93U3SCxEtG7Kzlc9SqRhnqbT4OKhH8FnFKBTilYdy3ma1UQE94IHVX8Rc3pI3TKvgw/fAv7m+CSoYhOX86hw5ougEsLf3wZ9VxhW7Pxd8FrTf4n0FoGvYZtLWKSRIrrbpi+I4/Hj8wO9Ujcy9J/VGdWT4ogVzp2R7/s0gGVGwRboxMGiHkaJIXfo2TmpalRkEF+8oPX53GKrCY1FrQgK7rVly0F4xqKM6EYOH6hz6W7/pX+n9RtWdx0568A21Iu0=;V6KAfS1fFLbMgXnmqJ0tEg=="
 ---
 
