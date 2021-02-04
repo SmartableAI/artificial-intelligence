@@ -3,8 +3,8 @@ category: news
 title: "Observe.AI and Microsoft Team Up on Contact Center AI"
 excerpt: "Observe.AI, a contact center artificial intelligence technology provider, is working with Microsoft to bring automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
 publishedDateTime: 2021-02-02T17:29:00Z
-originalUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Observe.AI-and-Microsoft-Team-Up-on-Contact-Center-AI-145046.aspx"
-webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Observe.AI-and-Microsoft-Team-Up-on-Contact-Center-AI-145046.aspx"
+originalUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=145046"
+webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=145046"
 type: article
 quality: 54
 heat: -1
@@ -145,15 +145,20 @@ related:
         height: 314
         isCached: true
   - title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
-    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance"
-    publishedDateTime: 2021-02-02T22:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
+    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
+    publishedDateTime: 2021-02-03T08:22:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 26
+      name: Associated Press
+      domain: apnews.com
+    quality: 46
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
-secured: "ppiSiHyCSWSPGRXPM24VogNLxIR/9gzLQOsAN24xtlfKLT6aGR+NpnbpwQeanzuih+pqFP5tPNyofayTaFRgQGOLAHFSrMOfWvaT660sE930cwaM1ie182PdFcE1kh+5nwWiba5KLTD3r8m3TfnqVlc03A5uKtFlpsD9+Ec6GurXKN8Yk6jPTZVlmvDWXvdKKz4fnItczG0JqLnT1+EUmeZobKu+TJCd2FVrkNZajb5HoPKbHoHiBaI/ghWXEbJb4hD++WZAEpWYjv5zGtJp9QR4Cc5zMj7HZT95Zsc8W9Qj6aCv2ua6sZZWuTq9Oy7CVoHPdwz8Jk/xtsk1RkYHpZYjbLzieJ+IC3ct2t4R+8Q=;EkFmdRemWEVYlYTsN5EZvQ=="
+secured: "kr0Y7m9tnVIWWHmqK9up7P8LLAuFq8en901MbBRe7REJbXsbx+paB1Nkt8fV5I8+78N1qLvHVtS3PoGbZ4ASGEWdcDTXDpmlHvvMCBc6nBNyalglA1AJbRwPGwNLuMMjSBvrw8NYP2rzLW45BKTRfLRFTxNh8TBFNzHlqmxZm0i2QRa0NZK2heD57oioqKOQZVo4AUYZ+iUIEeVkPntx/AjZT13U0BjlN9Pw8hR8rwC3p8VRQO1+LMz0m8xm9vE+qVtL0I6CaZxVEunDhlT9zzP/nrP4qB1kMNxOzktT1paFPgzr3xwTgdMus9b2cUgpGz3A+0m9nNpuOTxTI6EK2x81WEv3KZZyCH8pqysV0X8=;4gpEJsbk0w+1U/WMmLsFmg=="
 ---
 

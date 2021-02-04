@@ -7,7 +7,7 @@ originalUrl: "https://www.globalbankingandfinance.com/category/news/singapore-ba
 webUrl: "https://www.globalbankingandfinance.com/category/news/singapore-based-fintech-firm-transwap-expands-into-the-uk-with-plans-to-open-new-rd-centre/"
 type: article
 quality: 14
-heat: -1
+heat: 14
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Singapore launches new self-driving bus trial"
-    excerpt: "Singapore has moved a step closer to a driverless public transport network with the launch of a new trial of self-driving buses. Orderly and high-tech, the Asian city-state has become a testbed for self-driving vehicles and has developed home-grown technology while inviting foreign companies to trial their own."
-    publishedDateTime: 2021-01-30T16:47:00Z
-    webUrl: "https://tv.guardian.ng/news/world-news/singapore-launches-new-self-driving-bus-trial/"
-    ampWebUrl: "https://tv.guardian.ng/news/world-news/singapore-launches-new-self-driving-bus-trial/amp"
-    cdnAmpWebUrl: "https://tv-guardian-ng.cdn.ampproject.org/c/s/tv.guardian.ng/news/world-news/singapore-launches-new-self-driving-bus-trial/amp"
-    type: article
-    provider:
-      name: The Guardian Nigeria
-      domain: guardian.ng
-    quality: 24
   - title: "Singapore launches new self-driving bus trial"
     excerpt: "Singapore has moved a step closer to a driverless public transport network with the launch of a new trial of self-driving buses."
     publishedDateTime: 2021-02-01T01:05:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.compsmag.com/news/technology/safari-turns-on-speech-reco
 cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/safari-turns-on-speech-recognition-by-default-tech-preview-of-release/amp/"
 type: article
 quality: 59
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Apple-Safari-builds-in-speech-recognition-on-the-web-with.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Emotion recognition tech in China raises rights concerns"
-    excerpt: "Technology that measures emotions based on biometric indicators such as facial movements, tone of voice or body movements is increasingly being marketed in China, researchers say, despite concerns about its accuracy and wider human rights implications."
-    publishedDateTime: 2021-01-30T16:03:00Z
-    webUrl: "https://www.taipeitimes.com/News/biz/archives/2021/01/31/2003751475"
-    type: article
-    provider:
-      name: The Taipei Times
-      domain: taipeitimes.com
-    quality: 39
-    images:
-      - url: "https://www.taipeitimes.com/assets/images/TaipeiTimesLogo-1200X1200px_new.jpg"
-        width: 1200
-        height: 1200
         isCached: true
   - title: "China growing use of emotion recognition tech raises rights concerns"
     excerpt: "Technology that measures emotions based on biometric indicators such as facial movements, tone of voice or body movements, is increasingly being marketed in China, researchers say, despite concerns about its accuracy and wider human rights implications."

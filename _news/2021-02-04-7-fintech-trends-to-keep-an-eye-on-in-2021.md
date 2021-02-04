@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "United Fintech Enters the Market Data and RegTech Space with TTMzero Acquisition"
+    excerpt: "United Fintech has entered the Market Data & RegTech space with the acquisition of German fintech, TTMzero. United Fintech has taken a 25% stake in the market leading firm, with the intention of increasing to 80% over the next three years."
+    publishedDateTime: 2021-02-04T08:48:00Z
+    webUrl: "https://www.lelezard.com/en/news-19633786.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 19
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Speech and Voice Recognition Market Revenue, Industry Growing Demand, Size, Share, Business Opportunities, Top Companies, Regional Outlook 2027"
     excerpt: "Global Speech and Voice Recognition Market is valued approximately at USD 12.3 Billion in 2019 and is anticipated to"
     publishedDateTime: 2021-02-03T21:39:00Z
@@ -70,6 +84,6 @@ related:
         height: 630
         isCached: true
 
-secured: "79P7cN3W/p1c3LkEiOpsTNG7ZH/LZQmBZ9aWRJQXG2WQq7pBgTZLqFiQGmYRDhh8Q89445fDBdgZgTwpHdCnyUQ4aBmzWt/4yzBQvQEmDDTGCpiw84Wc+iHyFVugn+Qu148r+vyQqLjgYwB7vROOoxEci3ZPWDISdc9m9w6dWXrlzaoWyRnwx0ahQZZC13p7S26IzLdQkzbiCxHrwTaBgfz2dF94C1oFa2LbjFBGmkOo+7/+/j7SBlVIkr8uf6/7W6Z6hVjFJMH/egW3tto1oE0SD5QvyFQnZXH7v9KLj8zMBggKvtli3TYTfMMhM+WISY/3uyGJgoOJ1TPNjAIJJq9GXXBS4BNFOTqYrs8baKU=;6M4+pvilNEb8bKaxKWWGjQ=="
+secured: "NyWsBackWuO5HMxyBkgzA9mxyFt/bZIRljA0dkbEOp+qEt+1wl1YiTpqZylB5yzCV+Zqr+MmbIRskhScjPbiWMc15Sh5XpZLQjuxNzAKsLOdFnNmWT1u84u0YFG+XakiLi8lk3/56IUnGwSiU1PWfTTPRPD7tcX/r5jrC/nYS9LVgEKNPqW1CZAP73YIpdOUdY1U6pbYSuQa6qNN+l8GCq9pH+2J7dWn3MJqh+V/+ZceOL7LRia5EGIm28+RQ+qA0fFNzvBQwZS55opqv6Nx3kNy9KxnhnjgbzP/JTq9jebuGbWabnWbd7ARz5y2yFyQ8qG8CTXzLBukFTczlq2fQL18fnzdtW+mqi5pilJBOPne+mx+UW0A2AU0/OIuu1D30iAnDY/u82lvztvI/hCxhLdJbJfIoQy2TcXHCFbbHKyYTxD9O81EfyR5JrN4xFjdtsHcrQiTKVncUFNXdvUQKZV27CKxDIK3A4lHQCbwQS1ThIRf5GpASsUcCB1ewubDGQTV38JZgviMZf6AESvZxA==;QPxvF2ib+4JuB4GdIyyXSw=="
 ---
 

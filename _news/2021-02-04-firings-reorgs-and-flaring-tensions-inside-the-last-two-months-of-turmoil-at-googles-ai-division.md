@@ -6,8 +6,8 @@ publishedDateTime: 2021-02-04T06:34:00Z
 originalUrl: "https://www.businessinsider.com/sundar-pichai-to-build-ethical-ai-detonated-battle-inside-google-2021-2"
 webUrl: "https://www.businessinsider.com/sundar-pichai-to-build-ethical-ai-detonated-battle-inside-google-2021-2"
 type: article
-quality: 53
-heat: 53
+quality: 55
+heat: 55
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://i.insider.com/6018d1106dfbe10018e0135d?width=1200&format=jpeg"
@@ -27,6 +28,6 @@ images:
     height: 600
     isCached: true
 
-secured: "AODSTQr/xAnNswOyX9Xt/gpM9gFpUlbWg0GSmGEY6wOQovST3d7YO93sBk2T0z3LWX1QAEh0NRIcbWbvhuh8+LgIMVVsUhJUpIywqUrK8Or5Dlmnau7L8zLTDLxVCdrEEvegrK25SE4c9G1C8UAufRPvBuTWdESk00otIgxHGxVy13fipbFB6+yqoDcGHE+VZEfhm7O+KbTuQ8d+5qjzPfFJSxkMG4HpKzlBuFZpE1+fcBkdrU9j5HUHGcJWKfiS7b0l0WAYbfT0sPeZKmFIUY6efuir56Q+hpmdsSDdvl4yHueXxr6kzzrLUvLhp5gqKhhW6mXERJKs+KHwDgsGp3dBsBRxis7jd3+RTM63DbM=;YbQqGvagCdbbEk3pCU/luw=="
+secured: "3c+ZEWvcsdSauJxmzTO9hoJIOWgEwF3MAaIU2LFGd2uxs2OxlHgtbP7p+dIFoSqhqifZ/5bwQhuL1lSAZLIRLn2JQU5YZMM2+bS/5V3xEaUuiN/T+3JWb7ZyBhFcExfyLsWxUGsDejPMbnjuyB8eANZDlACuBrEEtywAfICaQgXhbSDGldvnP7+mpRtOEf14cJ6Vy29jV8OOvYGkAGOiAHPcW6Bwfz7xo9R9JSrHJuppkkrb9G9zdlTdiAKHNwFlLFDNFLjWr4xVi5zkYN3cXlywhYzeRovXtV3NY1I8rcVIQVUUwRiQJKiOru3r9CSCoY5sMmqYHFYUl6WvyyeQTCga3nCu2KH92hiRun7mqMIaIhu9PewzBx8HB5Km5grFgZR3HpfindivC62z/VWEdfJvyv9MT7GV1xMwrvu8ZoW7Lnmx7yb04Y2a8tXKXk5fFAmO+KrCJsepul2wEdpk+ApM1FN54cwUpdIUwoKRIFyxs5I5qbamSWvDMkXIxTgmYNaKHeiGe4k1nK4mX2Digg==;j/sEIyT2yJ9/wFXvb6Z8SA=="
 ---
 

@@ -1,14 +1,11 @@
 ---
 category: news
 title: "Logistics dispatches AI, drones, and robots to haul the industry into the future"
-excerpt: "Though the industry is slow to adopt new technologies, these trends can help streamline business.  Edge computing adoption to increase through 2026; organizations cautious about adding 5G to the mix T"
+excerpt: "Though the industry is slow to adopt new technologies, these trends can help streamline business.  Checklist: Securing digital information Video game career snapshot: Industry insights and jobs for IT"
 publishedDateTime: 2021-01-29T22:35:00Z
-originalUrl: "https://www.techrepublic.com/videos/logistics-dispatches-ai-drones-and-robots-to-haul-the-industry-into-the-future/"
-webUrl: "https://www.techrepublic.com/videos/logistics-dispatches-ai-drones-and-robots-to-haul-the-industry-into-the-future/"
+originalUrl: "https://www.techrepublic.com/index.php/category/2184/index.php/videos/logistics-dispatches-ai-drones-and-robots-to-haul-the-industry-into-the-future/"
+webUrl: "https://www.techrepublic.com/index.php/category/2184/index.php/videos/logistics-dispatches-ai-drones-and-robots-to-haul-the-industry-into-the-future/"
 type: article
-quality: 81
-heat: 81
-published: true
 
 provider:
   name: TechRepublic
@@ -19,9 +16,8 @@ provider:
       height: 50
 
 topics:
-  - AI Ethics
-  - AI
   - AI in Robotics
+  - AI
 
 images:
   - url: "https://tr4.cbsistatic.com/hub/i/r/2021/01/29/a68cb509-5a30-40f5-bb6a-4cf5b4ee1022/thumbnail/770x578/bbde0295b6044de4c13aac47c9cb7faf/20210128-trucking-karen.jpg"
@@ -29,6 +25,6 @@ images:
     height: 578
     isCached: true
 
-secured: "asAbLwLlqskknfeBRGniKLmDvl9EEOCmfi2W+retf/a4Hsce+K/X/itOPX3k1QycXVotLElEeKKjxGPyn9ZFLVGr9cnK1kMl/73T00prhF6QbVtxuQnxw0y0BOUnPbS+wlOhakuilz48ViwLBP7gcIuKpFUhnz/2YDkrw/xiwqPLcgNL/X0oCVmiUico347MJMaXrsOttsPMN2JlruJJ+tajwltBgDcFAuthRnIR3S8nkmXHE49FsdmCE2vZhZ8W5vK7Gyh3P2xeVJLGYFE5dH9ON+BvPTy5OpqfuirBeh7Kgagr/bWZWo0fQkD/HHx9wtDrT+EY/CwEyszAgkWiMUpnUIAgyKcrJfAzzPN85bLkqUS10eBkYgZN6+nsoBl4qGGrgaKjYlzoDDfr9vGFCt9eROUsWV7YSSK2DPDo57aaQ8UBflFP8ldMVma2NS4TgWP6UuYeHd50/SgtTK3n8TULoNlFXMQ4Mu4/Bmjvc/LS+k1g7jTksP+olUDoePqUeptlbJ28zs9czRwLQEgoFQ==;RFdpZAqo7rphoJ3tfD4Sag=="
+secured: "dAPQbmgCD6J6ka7T5hmJ65CfUPtp4jHPWiUbkpauM5jn6+6HjezqQdOKYaHi+xtL+H3MGctS01T/YHfyQzdayAPfMNyO8Zoe+ASRNQz5UjLUGFKbRMq2eupMbYF0H20i6hDQDk0yy8bMEX1SBtGIGYnes3uOnY0Pxzc/oLUukFQxe+/5vPmYGfT56qHtvFUyA3ojzY7mYRqJVeX4B51lldqCpmbqg3TB72TiUeoQYetX3xAqO+JksT5dCeu1P97Ip8bXazN+XafGNqtlDNo8tEFuIwcAVpqLP+A6DftjYhD6lwJVKn1upopryxZOFAO1J4DIIw1TVXzv40B7DlSPydMOsWHE+Jd3ShsAmeQws84=;zWlurDFZTKVq3yXJR9v7Sw=="
 ---
 

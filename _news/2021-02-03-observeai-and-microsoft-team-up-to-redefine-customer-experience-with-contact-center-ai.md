@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
-excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance"
-publishedDateTime: 2021-02-02T22:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
-webUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
+excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
+publishedDateTime: 2021-02-03T08:22:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
+webUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
 type: article
-quality: 26
+quality: 46
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Microsoft's cutting-edge machine-learning tool moves from the lab to the mainstream"
@@ -127,7 +133,7 @@ related:
   - title: "Observe.AI and Microsoft Team Up on Contact Center AI"
     excerpt: "Observe.AI, a contact center artificial intelligence technology provider, is working with Microsoft to bring automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
     publishedDateTime: 2021-02-02T17:29:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Observe.AI-and-Microsoft-Team-Up-on-Contact-Center-AI-145046.aspx"
+    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=145046"
     type: article
     provider:
       name: Destination CRM
@@ -153,6 +159,6 @@ related:
         height: 314
         isCached: true
 
-secured: "IqYU5AmKvCLAo4QJKOIbyCzdUoPOckcGXrFrjADhGXguO+wHcI6NB/CbtYfVT9i70ZhPxXeuexOi9s8zmTwTwhhebJ73hNq8UCPmlBS4cd72j57++4wtifXWPZxcFKH08RzXgr8DWK5A91Q7Vv1m1+yd8HRP/IB1p1zyhbHPxq+DaXBvgLqsvwbYrSryFzTj7AwNPhqdE36Vu4j5EqSZzj5jmvp6qzumHboCo7/2e+G+087JGDeSb4lUK8CZ0Tp3vzGunyysieUIXDv+5L0mWuvjWCFB2Fe/x/mv2/B/KHPjue/QOl3NUSQ5HI2St2HHhiYcP259xJQCHwdrPjrLnvdcBIf86uDXYw5Hc72eF0w=;BYpcOuyFCiMggecOLv9+EQ=="
+secured: "VIMpvprOQhPc3Q7bWxpSXd0gKLuDPnG2m+WW9i876+BsL3aGdmZuqgn5Gyngmc0kuBpaSwkmC2MnfsrmrX2keqVSVm0sGJTE1vv8Z6n9B7SqgGMoDf/T2wvWWIOyyd1k3U8q49twVBdIUgaK3mpGrG2tijeh2q9AVgvQ2Exmj0qlbDVIPz4zg4rW60z5fa/1hYWpByvmhKPMDB3yqyp9QV2Nh6EsOkHNBZenmCEutQWufdS/OR7s2qouCX6D7WGbZDkNUunLsrLbB+lQUJpKvxDOoKzqiQmz8s9ZTzo8tuF96QMOEnNE+PL4J08wmW239X48zfa9y8tEySnHDatqLGHceVZCjeZKYPXg9AHOmPI=;HD1vseK9xEMh4yfa8qRFag=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2021-02-03T08:58:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-by-competitive-landscape-industry-size-applications-pricing-analysis-and-opportunities-forecast-to-2026-2021-02-03"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-by-competitive-landscape-industry-size-applications-pricing-analysis-and-opportunities-forecast-to-2026-2021-02-03"
 type: article
-quality: 34
+quality: 36
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AWS AI
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

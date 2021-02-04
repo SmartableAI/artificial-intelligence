@@ -74,17 +74,12 @@ related:
   - title: "Artificial Intelligence in Diagnostics Market is Estimated to Achieve CAGR of 33.2% By 2027"
     excerpt: "The global artificial intelligence in Diagnostics market is expected to grow at a CAGR of 33.2% during the forecast period 2020 - 2027. According to the report titled ‘Artificial Intelligence in Diagnostics Market Size study,"
     publishedDateTime: 2021-02-04T07:06:00Z
-    webUrl: "https://www.reseller.co.nz/mediareleases/137470/artificial-intelligence-in-diagnostics-market-is/"
+    webUrl: "https://www.arnnet.com.au/mediareleases/137470/artificial-intelligence-in-diagnostics-market-is/"
     type: article
     provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 27
-    images:
-      - url: "https://www.reseller.co.nz/dimg/300x300/dimg/truadiovsslmain8_1.jpg"
-        width: 300
-        height: 241
-        isCached: true
+      name: ARN
+      domain: arnnet.com.au
+    quality: 7
 
 secured: "YZGrgsA6w0Xy+eXwB1j0IyQSG9HAHbj17RTfi4H9yvw45ZwvuGjAzyVwsMg2VTTRKRVfE9w/UDEBgIf85NYkgu0TosGPtwN7DOPn9hUXc07YYjS4A6xv90JA2Y3Yr6OYidwjyf+BQAcFeRTtRMCI9AXxjtwUvkqm9vUEJ/ssSsPMfQApSC54eu8/XiDZRfFlVYSzsCgsuRdtKs9DD4HihnJ2+fJLEvtybPjnArjbXSOEcZ3OFBTET7nYB5WX9ULDmEJg114OUTxALtMRMSX0IQ/X2NZR9ToDO2XpSdU/i+8t0GhBCblWvnCvoJwohl8KaNVN/x9mT9DhvMqqEiPzDSxvjzGCAWpCWar95frWVks=;+tyDPi3ZheQ3iPSTF5/vqg=="
 ---

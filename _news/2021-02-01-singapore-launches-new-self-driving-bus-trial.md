@@ -19,17 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Singapore launches new self-driving bus trial"
-    excerpt: "Singapore has moved a step closer to a driverless public transport network with the launch of a new trial of self-driving buses. Orderly and high-tech, the Asian city-state has become a testbed for self-driving vehicles and has developed home-grown technology while inviting foreign companies to trial their own."
-    publishedDateTime: 2021-01-30T16:47:00Z
-    webUrl: "https://tv.guardian.ng/news/world-news/singapore-launches-new-self-driving-bus-trial/"
-    ampWebUrl: "https://tv.guardian.ng/news/world-news/singapore-launches-new-self-driving-bus-trial/amp"
-    cdnAmpWebUrl: "https://tv-guardian-ng.cdn.ampproject.org/c/s/tv.guardian.ng/news/world-news/singapore-launches-new-self-driving-bus-trial/amp"
-    type: article
-    provider:
-      name: The Guardian Nigeria
-      domain: guardian.ng
-    quality: 24
   - title: "Singapore-Based FinTech Firm TranSwap Expands into The UK With Plans to Open New R&D Centre"
     excerpt: "TranSwap, a home-grown cross-border payment platform, has officially launched in the United Kingdom. This expansion further strengthens TranSwap’s position as one of the leading fintech firms in Asia Pacific and beyond,"
     publishedDateTime: 2021-02-03T18:17:00Z

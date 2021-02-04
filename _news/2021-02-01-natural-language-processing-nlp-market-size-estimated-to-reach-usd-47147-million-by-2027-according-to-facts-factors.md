@@ -60,20 +60,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 39
-  - title: "Artificial Intelligence in Diagnostics Market is Estimated to Achieve CAGR of 33.2% By 2027"
-    excerpt: "The global artificial intelligence in Diagnostics market is expected to grow at a CAGR of 33.2% during the forecast period 2020 - 2027. According to the report titled ‘Artificial Intelligence in Diagnostics Market Size study,"
-    publishedDateTime: 2021-02-04T07:06:00Z
-    webUrl: "https://www.reseller.co.nz/mediareleases/137470/artificial-intelligence-in-diagnostics-market-is/"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 27
-    images:
-      - url: "https://www.reseller.co.nz/dimg/300x300/dimg/truadiovsslmain8_1.jpg"
-        width: 300
-        height: 241
-        isCached: true
   - title: "Market Size of AI in Agriculture is Projected to Reach USD 2,400 Million by 2026, According to Facts & Factors"
     excerpt: "Facts and Factors have published a new research report titled \"AI in Agriculture Market By Technology (Machine"
     publishedDateTime: 2021-02-02T12:00:00Z
@@ -85,6 +71,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 19
+  - title: "Artificial Intelligence in Diagnostics Market is Estimated to Achieve CAGR of 33.2% By 2027"
+    excerpt: "The global artificial intelligence in Diagnostics market is expected to grow at a CAGR of 33.2% during the forecast period 2020 - 2027. According to the report titled ‘Artificial Intelligence in Diagnostics Market Size study,"
+    publishedDateTime: 2021-02-04T07:06:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/137470/artificial-intelligence-in-diagnostics-market-is/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 7
 
 secured: "3EoWf0LdxBqEny6Vxjo8DuReQtBp4+7MErZ4boJuF/XxBqUOVmYkrHeYgQFn5i9eUNWMDMGJzwI8k3eEqdxjOigD3iuNKx+qdfEELy5dGaxORVgu4b5FGlD3rj4gT0TTD5cMZEa0+RNEMBnuMEClrKpP50Wasqo1ZdbkDjmVw8vUFv5+t++djm55605PtHP2CYdSCM/EK/R/etLAIbN0FMJl6H5CmQ845SRqJIZrK5MbDZCc4DSywj0pIpM+uuLMOD4NX+O7EZsETjeIbxXYbhDmawo3x3qhLet6s8RCMMnr22seZxWT0cfRy18nJRRO9Bsk3Dll6JoPXhYB4DE0IHCOgI6aNo6gqeDV9ihuv0Q=;F5Ka6VY/fGynWAoglsNlsg=="
 ---

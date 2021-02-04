@@ -68,6 +68,20 @@ related:
       name: inc42.com
       domain: inc42.com
     quality: 43
+  - title: "How to Improve Automatic Machine Translation Evaluation? Add Humans, Scientists Say"
+    excerpt: "Scientists propose new system to standardize automatic evaluation of NLP systems by adding humans in the loop."
+    publishedDateTime: 2021-02-04T07:31:00Z
+    webUrl: "https://slator.com/machine-translation/how-to-improve-automatic-machine-translation-evaluation-add-humans-scientists-say/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 33
+    images:
+      - url: "https://slator.com/assets/2021/02/How-to-Improve-Automatic-Machine-Translation-Evaluation_-Add-Humans-Scientists-Say.png"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "FCV/b2RuopKNYbk8wB21NoyURCCi2aOqJcLDDLRXJ0kTg8+p3NFZvE7oMg4YkAbHJ/qiWUDqUpwYCMLoZnVPPTUnxAwnZUr+4UajJXYLA5TcENhY5j9ZXVVhflR6DInmbVMPEif2CY0LmB9iedlgRkmx8OkLN6tFCcwuUEPaiF9hUWDO798nBih0K5m/736GqQixS1LXryTOz0qBTgky8SML6uf9NKjTk8OWGoUFb39RsOAl2qAXak+qKFvkrHAwUqkOziC3oicuuhwwV9mMbhp2EEt9yn23/BjB6hIpwQT24lMX1No/Xr1MFkcohBL+3ustUhMuKGDndI9qzpv/SQUe1JJojFBjkWS5E0qUOGg=;c0bh9HvF3IgXesWJr0aFcA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.searchenginewatch.com/2021/02/01/leveraging-customer-dat
 cdnAmpWebUrl: "https://www-searchenginewatch-com.cdn.ampproject.org/c/s/www.searchenginewatch.com/2021/02/01/leveraging-customer-data-and-ai-to-drive-ecommerce-growth-in-2021/amp/"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 728
     height: 256
     isCached: true
+
+related:
+  - title: "CloudCommerce Reports Further Artificial Intelligence (AI) Success"
+    excerpt: "Also, this experience demonstrates, once again, the benefit of using artificial intelligence to improve advertising performance.” The Company is developing SWARM into a cloud hosted software platform that will harness the power of artificial intelligence,"
+    publishedDateTime: 2021-02-04T08:11:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-marketing-and-advertising-corporate-news-products-and-services-5118bd98078f123d8daaa004196625a1"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 52
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "eAgwkcC9uOGv00+9AOx9xCfV0GNqIkXl1t2xtNE2GKLWPThJV5fGMxt+HDoKdMuJ58acdOBWOQBL0iXD2m99DIrCerOrHM1LVivd9XvHJHXRyQFNhufLydH4iXL5wOcY/FIuJwY4P9gdkg1jDLmuVycM8RuxwvcL13GeZUu82SO1k5Tz2V92WJxGRfZ4BvaSa4d/8lNE3gqTiVyMQZIzpYLrLP2uTb9KWFd5Xw+TRg5bmNxlAOAd7xPbu0tOpArlWKff5uPlLBMDBf37iF1O7Iye+12JQJr62GYK8PWKk/z1wFPLCv1C56xyTZVxjtfWoXZ2FJgf6/LCRu3CID9Vx9EetSQ0vqUnE5zz1FrT2+c=;Yq0y8Us1fH/1PSSH8tFjhg=="
 ---

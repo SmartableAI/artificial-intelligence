@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/02/03/ai-detects-1210-new-potenti
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/03/ai-detects-1210-new-potential-gravitational-lenses-in-the-search-for-dark-matter/amp/"
 type: article
 quality: 82
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI Deep Neural Networks Find 1200 Potential Gravitational Lenses At Berkeley Lab"
+    excerpt: "A research team of scientists from the Berkeley lab has used Artificial Intelligence(AI) to discover about 1200 possible gravitational lenses."
+    publishedDateTime: 2021-02-04T08:44:00Z
+    webUrl: "https://www.republicworld.com/technology-news/science/ai-deep-neural-networks-find-1200-potential-gravitational-lenses-at-berkeley-lab.html"
+    ampWebUrl: "https://www.republicworld.com/amp/technology-news/science/ai-deep-neural-networks-find-1200-potential-gravitational-lenses-at-berkeley-lab.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/technology-news/science/ai-deep-neural-networks-find-1200-potential-gravitational-lenses-at-berkeley-lab.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 69
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/efmx8nyfuva4zdlh_1612422810.jpeg?tr=f-jpeg"
+        width: 1242
+        height: 710
+        isCached: true
   - title: "AI finds more than 1,200 gravitational lensing candidates"
     excerpt: "A research team with participation by Berkeley Lab physicists has used artificial intelligence to identify more than 1,200 possible gravitational lenses—objects that can be powerful markers for the distribution of dark matter."
     publishedDateTime: 2021-02-03T14:47:00Z

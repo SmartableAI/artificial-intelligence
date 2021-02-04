@@ -53,6 +53,20 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "How to Improve Automatic Machine Translation Evaluation? Add Humans, Scientists Say"
+    excerpt: "Scientists propose new system to standardize automatic evaluation of NLP systems by adding humans in the loop."
+    publishedDateTime: 2021-02-04T07:31:00Z
+    webUrl: "https://slator.com/machine-translation/how-to-improve-automatic-machine-translation-evaluation-add-humans-scientists-say/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 33
+    images:
+      - url: "https://slator.com/assets/2021/02/How-to-Improve-Automatic-Machine-Translation-Evaluation_-Add-Humans-Scientists-Say.png"
+        width: 600
+        height: 400
+        isCached: true
   - title: "AI Applied in Enterprises: Information Architecture, Decision Optimization, and Operationalization"
     excerpt: "Thomas Schaeck is an IBM Distinguished Engineer at IBM Data and AI, leading Watson Studio on IBM Cloud. On a one-year assignment in the USA in 2013 - 2014, Schaeck led transformation of ..."
     publishedDateTime: 2021-01-31T15:20:00Z

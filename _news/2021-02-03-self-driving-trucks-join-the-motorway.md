@@ -77,6 +77,20 @@ related:
         width: 400
         height: 268
         isCached: true
+  - title: "Scania tests self-driving trucks in motorway traffic"
+    excerpt: "Scania has been granted permission by the Swedish Transport Agency to test self-driving trucks on the E4 motorway between Södertälje and Jönköping. The"
+    publishedDateTime: 2021-02-03T08:08:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/scania-tests-self-driving-trucks-in-motorway-traffic/article_a7ee09a7-4d22-5915-a3d7-9bfdd17a6064.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "jT+u4Yce8y2bKQlS9d1okoQdo6E+kRKLtk9+5Dy9HhWqgb2pNm2vlqwgLSNSS5tTbTHkXf66JYD4iEoT+qdSjRPvnWPa+OFJ2DkVn6Hmxq18L8fdieMvnLJr6HUotJB8OybOjr7z2XVafooad+EH9LcHIJrM7HG9FEsB1Y3MOCqN5cVWeGMSdOTVFGanxhRSB9+aVQw2YYSMHTs84B0770UwI4o0K3Q0MGQWqEf4U4kDSDc8niCQivH0qJt4xwuHLh/Ayk0ZmAJO9Z/ua/YKQbxQJa5RaPAvk0wZ+M+3SXBIsSVixuQV9I9VN07GGm/QGeSOKq1l/GI+/aNs/Y1pSPIoJZzUvWk6hYV3Kp0V5VnNOud5qOzV3tdyZGI7XEs3Ph4vmRkvz8KCgZMPbKZQj0GKWOdfnx3WVyEE3ioDJIFkezQ9u0SomhMHw0isI/kyjpTawHHEXJ0gRlARiTvonpLO+0+RrP3WvdB2RP3UJg8cSbxlkACT80P1T2bLbZYVQ/efgdsUJbgwP4P9TGNQCg==;xNCfOe2IFVWqDLVrqv3bYA=="
 ---

@@ -8,7 +8,7 @@ webUrl: "https://venturebeat.com/2021/02/02/case-studies-of-successful-ai-startu
 ampWebUrl: "https://venturebeat.com/2021/02/02/case-studies-of-successful-ai-startups/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/02/case-studies-of-successful-ai-startups/amp/"
 type: article
-quality: 87
+quality: 89
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/02/artificial-intelligence-startup-case-studies.jpg?w=1200&strip=all"
@@ -47,6 +48,6 @@ related:
         height: 599
         isCached: true
 
-secured: "ygqwUFWT1ZB7YX6Ub8BctS/JeiDdMKqYSO5ONfyG3v3lVNS62J0qj0qIJMgSASb1yU6rh82+5coQHXtM5GoktugdMaL9/bch4Pjv6Xv3P+Qcim4DSNhOOQQgQIkiISjNvmKmeKiYbmyiCG7mobzJ0FqpbX4KapgM5f4sUZ3zBLIYVfJ3/Dl88jUBCQ/p5ZR2NTg/t0xI7BQp3lUy5SJw6kDEAm2+e8U5ofiN5+FnJ7yxJS7Sitr15h0Ef0BX+GAzUB9sh3LA9KwFTo8jtJMBQBzTRvBm074j/BmcNOFePlnKLzLBiKZloHW1CCHj2WB8EYXQGMuGm+vFI/9oq8/Rq8ua0eSZ1XUS/XwE1Il7SLE=;/87ZbJMqszcDJ2bLhXILGg=="
+secured: "wSqaUp2GxFRw3vOeygH+S3uyL5M0rLIsTeUGDJBXDsfoY1POXcsIxNamPH/2UjB/uMI1x1/aLCdkl0iWDl9ogaj8gIE93wUwstvDIsvUsOo1XU6e1KYZI6W8z+qmSs7qImMhSNn5T9sFDmQObJDNr7scz5Epunxh2F6lheGZFyWiyBbqNLHZg6MATyh0+S/bXO1B9NULQY1PxPCXahnTnfkZwjxUvIohZsOU3IgwwDXDeZdWws4GtX3zRxAh6RE2iY6KA6tDXBZyMB3pqoBdkk3E7gqBm/I6HM2rgJTS6jdQ/JVFdnjX2Wo8lQeDwv6uKL30I1SszB8IkMmKEB5ue3MnVYyf1loLx33GoBxmfZ9qctoR2wlfrnFd/6xHDYEWJrblKmQjSAicjp2GOeOYNqgP9Fx6YmDrWNKYecFp2FAlSq3qA1Jy0xaerYZ3YQthBK/TPWTXvIvFLQphyBactYF4DrZZV99Z2so3MPptF2D2BhnCUa8wWL3+Wlt9ty3in+lZtA4CKmoxlCZ5avD3SA==;O5RzakxmzChGblQ/8ylZ0Q=="
 ---
 

@@ -6,8 +6,8 @@ publishedDateTime: 2021-02-04T06:04:00Z
 originalUrl: "https://www.stanforddaily.com/2021/02/03/even-if-you-can-do-it-should-you-researchers-talk-combating-bias-in-artificial-intelligence/"
 webUrl: "https://www.stanforddaily.com/2021/02/03/even-if-you-can-do-it-should-you-researchers-talk-combating-bias-in-artificial-intelligence/"
 type: article
-quality: 25
-heat: 25
+quality: 27
+heat: 27
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://wp.stanforddaily.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-03-at-7.14.29-PM.png"
@@ -23,6 +24,6 @@ images:
     height: 618
     isCached: true
 
-secured: "gauYMAxBu6kfYVvzFYclMSrD8iwBRwUvxt9ZEJ6KBjDEWwGB+rA8AvMZ4ThCr95iBdydJ8WtIS4wMsjuX6m/8AM9i/8SnotpcS5+jyc4/2v2rO5MHm/3rXd/ydwp1zVnllBQIilMqeW9TU630BPTnp01fMzKFVp7Ca2PmNPX/guODLdp/DIuQ4qUWSWpz/zy1aM8L7eAaZUNXb/TOW7GMNJm4oYMRHVyLMJ5fafKckxHTL1wod3ENfphsrco5dxmYlFYCJB03lU9U26ZNYBYDdwvRoLdWXCvrbLILN08cDYnIbOpIRGt+oitBSjxvyA8cICY3yYhO2zRt6a6nPbErdUWIOulXCCyoEOjJ1wdShg=;VFz2oIJ03n1V0smcSsLg3A=="
+secured: "ohVUjdlnnWBee2IYSq/kp3iK/L7U5s4IgN2RZPZvjSAmtqrCDOk/FN2otXXj4xvUB0LIPPuzUqUF78YCUen2LkRnGXzSEBIdX8Q5j+i/wWXSbh7GAm5cS0Hyf85kWBScyvi5cFlz3uk1zy5mayp2HD8oj42wCxCqNE4um69jFg+lNE1CA7VV8to49QDZxcOnhPvniEZCZ911U4hC4Hl+SrlVGCyNeJEf4H0CoeTp2u528D21369sEcz3dFAIdDJvfCKf/anIuCk5khA6LhBvep+oJ7oA5DerpIZL7Q/f+Ba7WJ2gWE1m82q/RPDRch4Ip0bvc7SV/Hy9kWUIG8ychiP77+WncXkyw357W0oWUFtBnrLr8ECjDmbzkniGkkrZPr3lxluooJHj3k1ciKasNL7omeTaqTvEJCA22wX1bMsk20Vc554C2+wZcvxJNxYvMQO2kFV/Bwc6SutLPgqaBxTIhRh/Zz4PuivPmWeb8slhG2SWCk8d/bGFtXvbu8537NYrViaTfjYFo3x30luIkg==;x7mKOziSGyk6OWiSrKIu6g=="
 ---
 

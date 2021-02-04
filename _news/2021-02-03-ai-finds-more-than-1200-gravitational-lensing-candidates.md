@@ -42,6 +42,22 @@ related:
         width: 796
         height: 664
         isCached: true
+  - title: "AI Deep Neural Networks Find 1200 Potential Gravitational Lenses At Berkeley Lab"
+    excerpt: "A research team of scientists from the Berkeley lab has used Artificial Intelligence(AI) to discover about 1200 possible gravitational lenses."
+    publishedDateTime: 2021-02-04T08:44:00Z
+    webUrl: "https://www.republicworld.com/technology-news/science/ai-deep-neural-networks-find-1200-potential-gravitational-lenses-at-berkeley-lab.html"
+    ampWebUrl: "https://www.republicworld.com/amp/technology-news/science/ai-deep-neural-networks-find-1200-potential-gravitational-lenses-at-berkeley-lab.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/technology-news/science/ai-deep-neural-networks-find-1200-potential-gravitational-lenses-at-berkeley-lab.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 69
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/efmx8nyfuva4zdlh_1612422810.jpeg?tr=f-jpeg"
+        width: 1242
+        height: 710
+        isCached: true
 
 secured: "D3Jk5Rllp8ONM/s9rTUWs3xUmQ5A/cBq/FAq8ocY1ySsb0sKa1b1qLGYoB52DSL47QDCJ4N3U9R6y0WOl5It4sUzzCNLO3Q2dUM9LA0brJ+km1h+EKKzbhBJc62JpjmVnkzkrWThGupJv9Ju5GU+uWE1zXp+4lWUXvqYOA7saBISrmamYIoB1UFdmAzVocadxMhyc07PuScTfKjsJpSLo70E/cmz8fS5o80U9210lTiimT11coUhK1MdBU4NBBlUECErAI6pT0CJ49Ry8s4emY28rM6fHdDk/vBUlHGcs88wFv8tK32RlPLNSdOPOd+aA3fPN6R8HCeBiroU/z7jgOhyh4gABFd5qzUJx6+UAR249Sdn4Tn6R9EVrXd0YhsTec9HXO3xd1ZxMx9M1/WCSHQF/G80pZwTlFyC3pw9YMfyYuXl8qzVZtIUlS766pYI54iixrOeZqsczDJOCFGwZMyZ4jLaxziFU3IUQQPhhTAio1+KheTNyOpnLdJByzCQs0r/JlmO6DilNjPkqg25zA==;1boZFmtfuJcpgVWEL9gXXg=="
 ---

@@ -20,12 +20,12 @@ topics:
 related:
   - title: "Closing the gap to win the AI marathon"
     excerpt: "Fortunately for the U.S., the race for AI superiority with China is not a sprint. An industry expert shares ideas for how Washington can come out ahead in the long run."
-    publishedDateTime: 2021-02-02T21:00:00Z
-    webUrl: "https://www.navytimes.com/thought-leadership/2021/02/02/closing-the-gap-to-win-the-ai-marathon/"
+    publishedDateTime: 2021-02-02T21:01:00Z
+    webUrl: "https://www.airforcetimes.com/thought-leadership/2021/02/02/closing-the-gap-to-win-the-ai-marathon/"
     type: article
     provider:
-      name: Navy Times
-      domain: navytimes.com
+      name: Air Force Times
+      domain: airforcetimes.com
     quality: 39
     images:
       - url: "https://www.armytimes.com/resizer/p3zemX6HJKBa4qaZxvSnd7xISxo=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/SY7J6A2BH5ACZDPUZLELFFKBNU.png"
