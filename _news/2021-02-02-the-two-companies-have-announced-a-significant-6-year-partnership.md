@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/88477-ford-google-sign-significant
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/88477-ford-google-sign-significant-6-year-partnership.html"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

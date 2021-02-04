@@ -27,8 +27,8 @@ images:
 related:
   - title: "Agent Factory announces collaboration with Microsoft to enable Smart Logistics solutions with advanced 3D vision technologies"
     excerpt: "AGENT FACTORY LTD., based in Israel, announces its collaboration with Microsoft's Azure Depth Platform program, aimed at democratizing"
-    publishedDateTime: 2021-02-03T18:14:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/agent-factory-announces-collaboration-with-microsoft-to-enable-smart-logistics-solutions-with-advanced-3d-vision-technologies-301221519.html"
+    publishedDateTime: 2021-02-03T23:14:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/agent-factory-announces-collaboration-with-microsoft-to-enable-smart-logistics-solutions-with-advanced-3d-vision-technologies-301221519.html"
     type: article
     provider:
       name: PR Newswire

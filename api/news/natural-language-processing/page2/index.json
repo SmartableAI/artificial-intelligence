@@ -2,6 +2,145 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-20-eden-health-selects-nvoq-to-increase-productivity-by-enabling-home-health-caregivers-with-speech-to-text-technology.md",
+      "title": "Eden Health selects nVoq to increase productivity by enabling home health caregivers with speech to text technology.",
+      "excerpt": "PRNewswire/ -- nVoq, a leading provider of HIPAA compliant speech recognition solutions for post-acute care, is pleased to announce Eden Health has selected nVoq's innovative",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/eden-health-selects-nvoq-to-increase-productivity-by-enabling-home-health-caregivers-with-speech-to/article_944431e1-4d0a-5d4e-9c97-01a5f6b32192.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/eden-health-selects-nvoq-to-increase-productivity-by-enabling-home-health-caregivers-with-speech-to/article_944431e1-4d0a-5d4e-9c97-01a5f6b32192.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/29/c2976269-6db7-5b99-882a-d63d5cc8eeec/600714215fe49.image.jpg?resize=400%2C400",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-19T08:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-global-contactless-biometrics-technology-market-analysis-2020-2026-voice-recognition-hand-geometrypalm-vein-recognition-iris-recognition.md",
+      "title": "Global Contactless Biometrics Technology Market Analysis 2020-2026: Voice Recognition, Hand Geometry/Palm Vein Recognition, Iris Recognition, Facial R",
+      "excerpt": "The \"Global Contactless Biometrics Technology Market Analysis 2020\" report has been added to ResearchAndMarkets.com's offering. The Global Contactless Biometrics Technology market is expected to reach $22.",
+      "sourceUrl": null,
+      "webUrl": "https://us.acrofan.com/detail.php?number=407414",
+      "originalUrl": "https://us.acrofan.com/detail.php?number=407414",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://us.acrofan.com/news_images/2021/01/25/mark/20210125427284.jpg",
+          "width": 580,
+          "height": 366,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-19T01:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "아크로팬",
+        "domain": "acrofan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-18-still-talking-to-cortana-microsoft-gives-you-more-control-over-how-your-voice-recordings-are-used.md",
+      "title": "Still talking to Cortana? Microsoft gives you more control over how your voice recordings are used",
+      "excerpt": "Microsoft still wants to re-use your voice clips, but will now ask for permission first. Users of Microsoft's voice-enabled services such as Cortana will now be able to decide whether or not the audio recordings of their interactions can be used by the company to improve its speech recognition algorithms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/article/still-talking-to-cortana-microsoft-gives-you-more-control-over-how-your-voice-recordings-are-used/",
+      "originalUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/article/still-talking-to-cortana-microsoft-gives-you-more-control-over-how-your-voice-recordings-are-used/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2018/01/15/37af3c7b-8de3-4016-b11a-f6c6ff0044eb/thumbnail/1200x675/0694bbed8403720a906252aaf7f4a583/5a578ebc69340d506caef07c-1280x7201jan152018133314poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/still-talking-to-cortana-microsoft-gives-you-more-control-over-how-your-voice-recordings-are-used/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/still-talking-to-cortana-microsoft-gives-you-more-control-over-how-your-voice-recordings-are-used/",
+      "publishedDateTime": "2021-01-17T23:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-18-natural-language-processing-market-share-industry-size-leading-companies-outlook-upcoming-challenges-and-opportunities-till-2026.md",
       "title": "Natural Language Processing Market Share, Industry Size, Leading Companies Outlook, Upcoming Challenges and Opportunities till 2026",
       "excerpt": "\"Top Players in Natural Language Processing Market are 3M Company, Adobe Systems Inc., Amazon Web Services Inc., Apple Inc., Google (Alphabet Inc.), Hewlett-Packard Enterprise Company, Intel ...",
@@ -1242,154 +1381,6 @@
       "provider": {
         "name": "Slator",
         "domain": "slator.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-openais-dall-e-turns-weird-text-into-weird-images.md",
-      "title": "OpenAI's DALL-E turns weird text into weird images",
-      "excerpt": "OpenAI is known for developing impressive AI models like GPT-2 and GPT-3, which are capable of writing believable fake news but can also become essential tools",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/88191-openai-dall-e-turns-weird-text-weird-images.html",
-      "originalUrl": "https://www.techspot.com/news/88191-openai-dall-e-turns-weird-text-weird-images.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2021/01/2021-01-06-image-6.jpg",
-          "width": 1460,
-          "height": 1172,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/88191-openai-dall-e-turns-weird-text-weird-images.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/88191-openai-dall-e-turns-weird-text-weird-images.html",
-      "publishedDateTime": "2021-01-06T15:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-intel-is-using-its-realsense-tech-for-facial-recognition.md",
-      "title": "Intel is using its RealSense tech for facial recognition",
-      "excerpt": "Intel has found another use for its RealSense depth-sensing camera. It married the tech with a neural network to develop a facial recognition system that can enable access to the likes of smart locks and ATMs with only a glance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/intel-facial-recognition-realsense-id-191322846.html",
-      "originalUrl": "https://www.engadget.com/intel-facial-recognition-realsense-id-191322846.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 241,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2021-01%2F7daa7160-5050-11eb-a7fb-ebe8df925d58&client=amp-blogside-v2&signature=21ed96e62f4d4cf3a8e85595647849cb3e045c56",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/intel-facial-recognition-realsense-id-191322846.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/intel-facial-recognition-realsense-id-191322846.html",
-      "publishedDateTime": "2021-01-06T13:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-openai-model-generates-whimsical-images-from-text-prompts.md",
-      "title": "OpenAI model generates whimsical images from text prompts",
-      "excerpt": "AI research laboratory OpenAI has shared a multimodel AI system - dubbed DALL.E - which combines natural language processing and computer vision to generate images from text captions. DALL.E uses a 12 billion parameter version of GPT-3 – a model for ...",
-      "sourceUrl": null,
-      "webUrl": "https://eandt.theiet.org/content/articles/2021/01/openai-model-generates-whimsical-images-from-text-prompts/",
-      "originalUrl": "https://eandt.theiet.org/content/articles/2021/01/openai-model-generates-whimsical-images-from-text-prompts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://eandt.theiet.org/media/14700/dalle-blue-strawberry-stained-glass.jpg?crop=0,0,0,0.50564971751412424&cropmode=percentage&width=1200&height=450&rnd=132544117900000000",
-          "width": 1200,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-06T05:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IET",
-        "domain": "theiet.org",
         "images": null,
         "publishers": null,
         "authors": null

@@ -36,6 +36,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 24
+  - title: "Plano’s AI-powered fitness startup OxeFit gets boost from Dak Prescott, Jason Witten, Dez Bryant"
+    excerpt: "The Plano startup announced it has raised $12.5 million from investors including several current and former Cowboys."
+    publishedDateTime: 2021-02-03T23:01:00Z
+    webUrl: "https://www.dallasnews.com/business/entrepreneurs/2021/02/03/planos-ai-powered-fitness-startup-oxefit-gets-boost-from-dak-prescott-jason-witten-dez-bryant/"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 24
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/d_XFPAR8yaFNMFUiwnEGBX7yNaA=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/3M7EMPGWUJGSRAXVNPCKHUPLGA.jpg"
+        width: 964
+        height: 522
+        isCached: true
 
 secured: "+W8V1at4HCEROQr11HjxnLdCPJhK6O5qV/gOldLowU/hwXiwt0aG3+V64w0Z56S5fp8agsY5JxupAK755y//Y3moxwpURwShXmB9mECqeBntPwP32vOCRKNlLKnPnFNKAUxxsdLh0Xm0PvyxqO2LDBlIC/oSkBL5ZC8kqoUtpMEvTKvRO652B7n49aOpJ8St2bNtg8A/S+/TUhSi5Tr2derOm/MBQf+eSB4DNLfRjuGW+vFIWjmdKyuaoUv9enGThqy4OCD+TDxi/zFZZG2qKQ7y5SBux8pKg+BLM/1dM2HgRNs0jEdx05DYq10ZcArfpvexh9y4eKq44sKIugWkb741l4RyptUa/ld1uK7l8EoJsH0Iq6MoaGc/WmS67xJDGvsLT0cQUQZXrGL7tYG/ZP8oS9dkIyQrWEwBTFCXuGmRn4DBJ16gyJUowSkFkljza7RuWRBjn7QW8Zs5o9r4gYdJkK7oWEZbBlN/MH+mUtcl21PviQrqZ82ySfUBka14H602hYdlYNlG6g3dxFVWGg==;rtwawh9aaeGoF5Vn9sjU/A=="
 ---

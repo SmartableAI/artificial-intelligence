@@ -45,6 +45,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Looking for Self-Driving Cars? The DRIV ETF Has You Covered"
+    excerpt: "I ncreasing demand for electric automobiles is opening up opportunities for ETF investors to focus on the sector with funds like the Global X Autonomous & Electric Vehicles ETF (DRIV). DRIV seeks to invest in companies involved in the development of autonomous vehicle technology,"
+    publishedDateTime: 2021-02-03T21:35:00Z
+    webUrl: "https://www.nasdaq.com/articles/looking-for-self-driving-cars-the-driv-etf-has-you-covered-2021-02-03"
+    ampWebUrl: "https://www.nasdaq.com/articles/looking-for-self-driving-cars-the-driv-etf-has-you-covered-2021-02-03?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/looking-for-self-driving-cars-the-driv-etf-has-you-covered-2021-02-03?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "Self-driving Car Technology Market"
     excerpt: "The Self driving Car Technology Market is growing at a faster pace with substantial growth rates over the last few years and is estimated that the market will grow significantly in the forecasted period i e 2020 to 2027 The"
     publishedDateTime: 2021-02-02T12:35:00Z

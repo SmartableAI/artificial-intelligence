@@ -43,6 +43,22 @@ related:
         width: 504
         height: 233
         isCached: true
+  - title: "HUMOR: Larry King will miss the Robot Apocalypse"
+    excerpt: "Today, our disparate subjects will be the literary genius of the late Larry King and the inevitable end of the world as we know it brought about by killer robots."
+    publishedDateTime: 2021-02-04T00:20:00Z
+    webUrl: "https://godanriver.com/lifestyles/humor-larry-king-will-miss-the-robot-apocalypse/article_235149ae-e9d6-5da9-813e-caeddbf11080.html"
+    ampWebUrl: "https://godanriver.com/lifestyles/humor-larry-king-will-miss-the-robot-apocalypse/article_235149ae-e9d6-5da9-813e-caeddbf11080.amp.html"
+    cdnAmpWebUrl: "https://godanriver-com.cdn.ampproject.org/c/s/godanriver.com/lifestyles/humor-larry-king-will-miss-the-robot-apocalypse/article_235149ae-e9d6-5da9-813e-caeddbf11080.amp.html"
+    type: article
+    provider:
+      name: GoDanRiver.com
+      domain: godanriver.com
+    quality: 59
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/godanriver.com/content/tncms/assets/v3/editorial/c/b6/cb66693c-fec7-5a4b-9ebf-9b31ca9db2ae/5fb3f2d04671c.image.jpg"
+        width: 800
+        height: 1018
+        isCached: true
   - title: "Scott Hollifield: Larry King will miss the Robot Apocalypse"
     excerpt: "Today, our disparate subjects will be the literary genius of the late Larry King and the inevitable end of the world as we know it brought about by killer robots."
     publishedDateTime: 2021-01-31T11:45:00Z

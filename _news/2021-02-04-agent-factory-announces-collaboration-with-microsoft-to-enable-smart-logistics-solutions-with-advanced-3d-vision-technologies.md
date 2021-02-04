@@ -2,9 +2,9 @@
 category: news
 title: "Agent Factory announces collaboration with Microsoft to enable Smart Logistics solutions with advanced 3D vision technologies"
 excerpt: "AGENT FACTORY LTD., based in Israel, announces its collaboration with Microsoft's Azure Depth Platform program, aimed at democratizing"
-publishedDateTime: 2021-02-03T18:14:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/agent-factory-announces-collaboration-with-microsoft-to-enable-smart-logistics-solutions-with-advanced-3d-vision-technologies-301221519.html"
-webUrl: "https://www.prnewswire.com/news-releases/agent-factory-announces-collaboration-with-microsoft-to-enable-smart-logistics-solutions-with-advanced-3d-vision-technologies-301221519.html"
+publishedDateTime: 2021-02-03T23:14:00Z
+originalUrl: "https://www.prnewswire.com/il/news-releases/agent-factory-announces-collaboration-with-microsoft-to-enable-smart-logistics-solutions-with-advanced-3d-vision-technologies-301221519.html"
+webUrl: "https://www.prnewswire.com/il/news-releases/agent-factory-announces-collaboration-with-microsoft-to-enable-smart-logistics-solutions-with-advanced-3d-vision-technologies-301221519.html"
 type: article
 quality: 14
 heat: -1
@@ -41,6 +41,6 @@ related:
         height: 843
         isCached: true
 
-secured: "JMi2OcGYHcbtdc81ReCdRH5hiaDKR9WGrBt1oJIZ053jMzrNxMHoWklSW/9eo4pb+IUwhyp9grf/LX7IeX/KnCGXyPLrMOun89ulxjl5w6AkLhWMzhYrrCaEb6/2DT4nB3zpIpx7goxe22eOuXfvY3noTGQ9ZD2oCGyqo+geRJvrYGxxbshNp/ds2bOdyD2281NYyI44Qhj+MGR/bg74l+Sc+3NhvnnV62mUsKB1aJkG/iHgnRm5WxCtTH/rsq5evV/r0nIu9iZmy5BsNBlz4CeoSbENbWalOu/o2IEWSLCgZgzoV8/GBt/YTB/81bbuF+YOnkNE482dpnF0G7B+8q+rCp83CC9p3kOO4HY8xtY=;bROKHOuV6GOgF2qb1Njn/g=="
+secured: "cy0Myg31Zv+C72m4tys/QABxvz55IIEzB1Q1wSq2MTNlDveu6yLLhY1smUBmyQ969VyuGzEuKniC7BjOcb2gotlcaHMj61WOuFtjbL4noI/CvzVNlwzpGQ+XLxtKGTyuBDhgpi6lpqpnxTllAArwjhaJFHX06pRMurz2L4Pcgp0WyHX94YgMRW1UTJr0FY8VN04ME5ueG0YYqhdmRrkUpPSqFFyGhJdYJRtDBP/2fMVdoKCpaBmznEA37h6znzzldkfhQBp1wYrcn9Fh11EUL1ktD55f/hqaB/ouohLsfKG7Z8u3HfAUdDigze1FwEwPEwqF2QA/lOiaC7x8c44HOEMlr4FNG0tqa4IGJ81zENY=;jj0UF5PX5x56pedpkMvPfA=="
 ---
 

@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Clearview AI’s Facial-Recognition App Ruled Illegal in Canada"
+    excerpt: "Canadian authorities declared that the company needed citizens’ consent to use their biometric information, and ordered the firm to delete facial images from its database."
+    publishedDateTime: 2021-02-04T00:08:00Z
+    webUrl: "https://www.nytimes.com/2021/02/03/technology/clearview-ai-illegal-canada.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/03/technology/clearview-ai-illegal-canada.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/03/technology/clearview-ai-illegal-canada.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 87
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/03/business/03Clearview-01/merlin_153962745_f3eb3cf6-5fce-4616-931e-683e7a2809b8-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Clearview AI broke Canadian privacy laws with facial recognition tool, watchdogs say"
     excerpt: "A new watchdog report says Canadian use of U.S. firm Clearview AI's facial-recognition technology violated federal and provincial laws governing personal information."
     publishedDateTime: 2021-02-03T16:14:00Z
@@ -57,6 +73,22 @@ related:
         width: 620
         height: 250
         isCached: true
+  - title: "Image scraping facial recognition technology used in Alberta deemed illegal: report"
+    excerpt: "A controversial facial recognition tool is equivalent to mass surveillance and violates the privacy rights of Canadians, an investigation has found."
+    publishedDateTime: 2021-02-03T20:47:00Z
+    webUrl: "https://edmonton.ctvnews.ca/image-scraping-facial-recognition-technology-used-in-alberta-deemed-illegal-report-1.5294349"
+    ampWebUrl: "https://beta.ctvnews.ca/local/edmonton/2021/2/3/1_5294349.html"
+    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/edmonton/2021/2/3/1_5294349.html"
+    type: article
+    provider:
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 53
+    images:
+      - url: "https://beta.ctvnews.ca/local/edmonton/2021/2/3/1_5294349/_jcr_content/root/responsivegrid/image.coreimg.jpg"
+        width: 1020
+        height: 573
+        isCached: true
   - title: "Facial recognition tool used by RCMP deemed mass surveillance of unwitting Canadians"
     excerpt: "Privacy watchdogs say U.S. firm Clearview AI’s facial-recognition technology resulted in mass surveillance of Canadians and violated federal and provincial laws governing personal information. In a report Wednesday with three provincial counterparts,"
     publishedDateTime: 2021-02-03T18:52:00Z
@@ -84,6 +116,31 @@ related:
       name: Global News
       domain: globalnews.ca
     quality: 50
+  - title: "Privacy Commissioner claims facial recognition company Clearview AI violated Canadian privacy laws"
+    excerpt: "A report from the federal privacy commissioner and three provincial counterparts claims Clearview AI has unlawfully violated the privacy rights of Canadians."
+    publishedDateTime: 2021-02-03T22:57:00Z
+    webUrl: "https://betakit.com/privacy-commissioner-claims-facial-recognition-company-clearview-ai-violated-canadian-privacy-laws/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 40
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2021/02/Clearview-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Millions of faces were scanned without approval. We need rules for facial recognition tech | Commentary"
+    excerpt: "Federal authorities say a San Francisco company scanned the faces of millions of people without their knowing it. What's needed are clear rules for how facial recognition technology can be collected and used,"
+    publishedDateTime: 2021-01-31T23:31:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/millions-of-faces-were-scanned-without-approval-we-need-rules-for-facial-recognition-tech-commentary/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/millions-of-faces-were-scanned-without-approval-we-need-rules-for-facial-recognition-tech-commentary/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/millions-of-faces-were-scanned-without-approval-we-need-rules-for-facial-recognition-tech-commentary/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 23
   - title: "‘What Clearview does is mass surveillance and it is illegal’: Privacy watchdog slams facial recognition tech used by RCMP and Toronto police"
     excerpt: "A joint investigation by Canadian privacy regulators has concluded that Clearview AI’s controversial technology represented “the mass identification"
     publishedDateTime: 2021-02-03T17:07:00Z
@@ -99,6 +156,6 @@ related:
         height: 800
         isCached: true
 
-secured: "FpIbJxNPcmj+4AeAglpH5v6i8aus1YBzX7FLNz6v/TBgSSupbCSAWfqkqmjbGth1rBVDpD1PElP5gvJpT3LKwuGV5GTAVyUGEzQ2hUgH4ePa6hcJzWwrcMKzcqJFXsTEtSTLaUXXPsCl6vA3kxH/u9WsiQiLwBXjUCKJQqoeZuxNexfNIxrhqFZE2PMMe6ayUSkE6VAa50IhvmBP0zGYFKRKcuGi6y9lE4/NZUhyz0YmoaRAdFT0F57EMXns4POqH7qz0+j69rctJEU11TUgr0P7EfmyAv2jl/Y+d0b2430J0II1uferksICPwKVYIFB9ZVCrIZsr3pi9FYMEq5mLmRdJ5wLm/hRS2baWVex5Vg=;v8/G+Jx6vZRWOCsYNKfsHg=="
+secured: "aHA4DuP34rgtieiCckceplbwfdXiAmDJGUHdAK/mmQ4iMf0FaFyhEthVFDiVtG00h3KGikqRq+ftG3sTBEGhsJi8pzZJCqN4Vm7kyLm2WsrtQK34HCRkQJ2Xu0RoYBYTftYKJgdqleS9D5OXyFs3BMTOQ/s6V5U0wa8mApUogaFgfD7YJRfjRRgZvTLUxV/KEHV+bUlXvvP8VayLn7gSB2SSBsfw24eMDFqXwyjRipIt8lYOa3d227cIj1HALMq63vEguBWiL55T3GC37W/X5FhyAfTQJIo+1chzMua9qnIy+ur3O4mU6E+lHqhW8lNVEqE+WebBn5qLWf7x9pr5q0p4o/TsRJwpEjYvSV6yU9rEOQ7Zzvnd/jcDcy/xjyQQqibRcP82mGSFNkUw3MDuG2UR9kBo75tZO1a45Zvx6SVZa8KobTqYicgqd98V0K572CV+JM28ZK8BaoCLVYyh7pCpaFtNxGEQ8+IK3JLZQbr8S4kAHClA/7GRLV9fePBIPOCfFXJ5xQ73PKFWdrFcBA==;InBlpocR6/7t5pYuVbM1fQ=="
 ---
 

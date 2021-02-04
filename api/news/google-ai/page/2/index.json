@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-06-how-to-merge-data-in-python-using-pandas-merge.md",
+      "title": "How to merge data in Python using Pandas merge",
+      "excerpt": "Use the popular Pandas library for data manipulation and analysis to read data from two files and join them into a single dataset.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3600911/how-to-merge-data-in-python-using-pandas-merge.html",
+      "originalUrl": "https://www.infoworld.com/article/3600911/how-to-merge-data-in-python-using-pandas-merge.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2015/09/convergence-railroad-tracks-merge-aquisitions-100613703-large.jpg",
+          "width": 1200,
+          "height": 795,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3600911/how-to-merge-data-in-python-using-pandas-merge.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3600911/how-to-merge-data-in-python-using-pandas-merge.amp.html",
+      "publishedDateTime": "2021-01-06T03:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-05-just-desserts-baking-with-ai-made-recipes.md",
       "title": "Just desserts: Baking with AI-made recipes",
       "excerpt": "It’s winter, it’s the holidays and it’s quarantine-times: It’s the perfect recipe for doing a ton of baking. In fact, U.S. search interest in \"baking\" spiked in both November and December 2020. But being in the AI field, we decided to dive a little deeper into the trend and try to understand the science",
@@ -1410,49 +1462,6 @@
         "Google AI",
         "Facebook AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-google-releases-new-coral-apis-for-iot-ai.md",
-      "title": "Google Releases New Coral APIs for IoT AI",
-      "excerpt": "Google has released new APIs and tools for their Coral AI toolkit. The new release brings parity across the C++ and Python SDKs and includes more efficient memory usage. Other updates include additional pre-trained models and general-availability of model pipelining.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2020/12/google-coral-ai-iot/",
-      "originalUrl": "https://www.infoq.com/news/2020/12/google-coral-ai-iot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2020/12/google-coral-ai-iot/en/headerimage/google-coral-ai-iot-header-1606664656669.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-08T06:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

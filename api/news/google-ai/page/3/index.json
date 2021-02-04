@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-08-google-releases-new-coral-apis-for-iot-ai.md",
+      "title": "Google Releases New Coral APIs for IoT AI",
+      "excerpt": "Google has released new APIs and tools for their Coral AI toolkit. The new release brings parity across the C++ and Python SDKs and includes more efficient memory usage. Other updates include additional pre-trained models and general-availability of model pipelining.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2020/12/google-coral-ai-iot/",
+      "originalUrl": "https://www.infoq.com/news/2020/12/google-coral-ai-iot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2020/12/google-coral-ai-iot/en/headerimage/google-coral-ai-iot-header-1606664656669.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-08T06:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-07-researchers-can-use-qsim-to-explore-quantum-algorithms.md",
       "title": "Researchers can use qsim to explore quantum algorithms",
       "excerpt": "A year ago, Google’s Quantum AI team achieved a beyond-classical computation by using a quantum computer to outperform the world’s fastest classical computer. With this, we entered a new era of quantum computing. We still have a long journey ahead of us to find practical applications, and we know we",
@@ -1363,58 +1406,6 @@
         "name": "Scientific American",
         "domain": "scientificamerican.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-deepmind-solves-50-year-old-grand-challenge-with-protein-folding-ai.md",
-      "title": "DeepMind solves 50-year-old ‘grand challenge’ with protein folding A.I.",
-      "excerpt": "DeepMind has developed a piece of AI software called \"AlphaFold\" that can accurately predict the structure that proteins will fold into in a matter of days.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/11/30/deepmind-solves-protein-folding-grand-challenge-with-alphafold-ai.html",
-      "originalUrl": "https://www.cnbc.com/2020/11/30/deepmind-solves-protein-folding-grand-challenge-with-alphafold-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 499,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/104565791-Google_DeepMind_Hassabis_Future_of_Go_2017_day1.jpg?v=1499109367",
-          "width": 4898,
-          "height": 3265,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/11/30/deepmind-solves-protein-folding-grand-challenge-with-alphafold-ai.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/11/30/deepmind-solves-protein-folding-grand-challenge-with-alphafold-ai.html",
-      "publishedDateTime": "2020-11-30T07:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

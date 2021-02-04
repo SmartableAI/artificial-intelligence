@@ -9,7 +9,7 @@ ampWebUrl: "https://hickoryrecord.com/opinion/columnists/scott-hollifield-larry-
 cdnAmpWebUrl: "https://hickoryrecord-com.cdn.ampproject.org/c/s/hickoryrecord.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_45f1e9e2-61a8-11eb-b0c5-dfa087330ef1.amp.html"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/heraldcourier.com/content/tncms/assets/v3/editorial/1/f3/1f39f51e-b959-11e8-aa23-5b9e7b3fa293/5b9dc17bef052.image.jpg"
         width: 421
         height: 220
+        isCached: true
+  - title: "HUMOR: Larry King will miss the Robot Apocalypse"
+    excerpt: "Today, our disparate subjects will be the literary genius of the late Larry King and the inevitable end of the world as we know it brought about by killer robots."
+    publishedDateTime: 2021-02-04T00:20:00Z
+    webUrl: "https://godanriver.com/lifestyles/humor-larry-king-will-miss-the-robot-apocalypse/article_235149ae-e9d6-5da9-813e-caeddbf11080.html"
+    ampWebUrl: "https://godanriver.com/lifestyles/humor-larry-king-will-miss-the-robot-apocalypse/article_235149ae-e9d6-5da9-813e-caeddbf11080.amp.html"
+    cdnAmpWebUrl: "https://godanriver-com.cdn.ampproject.org/c/s/godanriver.com/lifestyles/humor-larry-king-will-miss-the-robot-apocalypse/article_235149ae-e9d6-5da9-813e-caeddbf11080.amp.html"
+    type: article
+    provider:
+      name: GoDanRiver.com
+      domain: godanriver.com
+    quality: 59
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/godanriver.com/content/tncms/assets/v3/editorial/c/b6/cb66693c-fec7-5a4b-9ebf-9b31ca9db2ae/5fb3f2d04671c.image.jpg"
+        width: 800
+        height: 1018
         isCached: true
   - title: "Scott Hollifield: Larry King will miss the Robot Apocalypse"
     excerpt: "Today, our disparate subjects will be the literary genius of the late Larry King and the inevitable end of the world as we know it brought about by killer robots."

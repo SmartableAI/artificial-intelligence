@@ -21,21 +21,51 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Tech firms to benefit on FM's push for digital census, use of AI, ML on MCA-21"
-    excerpt: "Finance minister Nirmala Sitharaman said that government will use data analytics, Artificial Intelligence, Machine Learning to launch the next version of the Ministry of Corporate Affairs portal MCA 21 3."
-    publishedDateTime: 2021-02-01T07:34:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/information-tech/tech-firms-to-benefit-on-fms-push-for-digital-census-use-of-ai-ml-on-mca-21/articleshow/80627824.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/information-tech/tech-firms-to-benefit-on-fms-push-for-digital-census-use-of-ai-ml-on-mca-21/amp_articleshow/80627824.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/information-tech/tech-firms-to-benefit-on-fms-push-for-digital-census-use-of-ai-ml-on-mca-21/amp_articleshow/80627824.cms"
+  - title: "AI, ML to drive Budget 2021's National Language Translation Mission"
+    excerpt: "The National Language Translation Mission seeks to build the next generation government apps and websites that will be 'conversational' like Amazons Alexa or Apples Siri."
+    publishedDateTime: 2021-02-03T23:31:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/ai-ml-to-drive-budget-2021-national-language-translation-mission/articleshow/80674800.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/ai-ml-to-drive-budget-2021-national-language-translation-mission/amp_articleshow/80674800.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/ai-ml-to-drive-budget-2021-national-language-translation-mission/amp_articleshow/80674800.cms"
     type: article
     provider:
       name: India Times
       domain: indiatimes.com
-    quality: 72
+    quality: 76
     images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-452528,msid-80627864/information-technology.jpg"
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-161390,msid-80679442/tamil-hindi.jpg"
         width: 600
         height: 450
+        isCached: true
+  - title: "Budget 2021: Govt using Artificial Intelligence to track GST tax evasion"
+    excerpt: "Budget 2021 saw Finance Minister Nirmala Sitharaman emphasise on the use of AI technology to enable compliance, adjudication of disputes on Ministry of Corporate Affairs"
+    publishedDateTime: 2021-02-01T09:36:00Z
+    webUrl: "https://yourstory.com/2021/02/budget-2021-artificial-intelligence-being-used-track-gst-tax"
+    ampWebUrl: "https://yourstory.com/2021/02/budget-2021-artificial-intelligence-being-used-track-gst-tax/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/02/budget-2021-artificial-intelligence-being-used-track-gst-tax/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 56
+    images:
+      - url: "https://images.yourstory.com/cs/2/604090802d6d11e9aa979329348d4c3e/agritechbudget2021-1612015767538.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "AI Applied in Enterprises: Information Architecture, Decision Optimization, and Operationalization"
+    excerpt: "Thomas Schaeck is an IBM Distinguished Engineer at IBM Data and AI, leading Watson Studio on IBM Cloud. On a one-year assignment in the USA in 2013 - 2014, Schaeck led transformation of ..."
+    publishedDateTime: 2021-01-31T15:20:00Z
+    webUrl: "https://www.infoq.com/articles/AI-applied-architecture-decision-optimization/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 25
+    images:
+      - url: "https://res.infoq.com/articles/AI-applied-architecture-decision-optimization/en/headerimage/deploying-ai-in-the-enterprise-big-1611926216131.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "eQsjpaAXxOn+5HbVWaK+XViFctAB6PY+WbES1CpnGurBzCy2PB8PRwQoMdAntO07HLE+QAalBTpNTgFzr+Q5nthkOyfsuxI0xFUqjWlZNO10/OdeHfNOleoZHvVcufMTUzsY8gd4G5eMi70GboUjXLpFgkyWUePvosGOyn86RFsiFvWNNLa4YY/q63MuOTAlAVi7EcdSzXP+Zyjwn5l0b4U5n13Qe9/kB/oRX4JBJlwH3FZgQLJgX1vmlWkpG9aawvTdDDcJQWb+lcwRZLJq/Nb4AD/ktMwqb+ZzrbCCf7WXa5bOA+TlOE/8VYx0AptaalFQYCHd1aFMqgULq/WCuVkK2nfx7ySSASITP8Ywtn+Ey71GL7YlXS6CTDIAFypbe0KLKKMFzjMPDRj3KCwyOb11m/LUmxSIB9jH3E+O1U7a5UymJ36iqzI+HiQiKS/jcuQ4bcuLSPTq3Ok8OuVXX7X0GveacZjz3ss+6QEIg7N0TZQmcRstoEiVbPWztFRBv3S02S4Ca4AeinWOzxWjIQ==;sqrvYf5EsKKhQDlh3ldj7Q=="

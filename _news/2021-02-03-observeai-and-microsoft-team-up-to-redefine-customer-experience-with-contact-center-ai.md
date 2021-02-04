@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
-excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance"
-publishedDateTime: 2021-02-02T22:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
-webUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
+excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
+publishedDateTime: 2021-02-03T08:22:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
+webUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
 type: article
-quality: 26
+quality: 46
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Microsoft's cutting-edge machine-learning tool moves from the lab to the mainstream"
@@ -143,7 +149,7 @@ related:
   - title: "Observe.AI and Microsoft Team Up on Contact Center AI"
     excerpt: "Observe.AI, a contact center artificial intelligence technology provider, is working with Microsoft to bring automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
     publishedDateTime: 2021-02-02T17:29:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Observe.AI-and-Microsoft-Team-Up-on-Contact-Center-AI-145046.aspx"
+    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=145046"
     type: article
     provider:
       name: Destination CRM
@@ -154,7 +160,21 @@ related:
         width: 480
         height: 610
         isCached: true
+  - title: "This Microsoft self-driving car concept takes aim at the ambitious Apple Project Titan"
+    excerpt: "With the Microsoft Surface car concept, that feud extends into the world of transportation too! Meet the Microsoft Surface Car, an automobile that beautifully channels the sleek aesthetic of Microsoft’s Surface laptops into its automotive design."
+    publishedDateTime: 2021-02-03T23:30:00Z
+    webUrl: "https://www.yankodesign.com/2021/02/03/this-microsoft-self-driving-car-concept-takes-aim-at-the-ambitious-apple-project-titan/"
+    type: article
+    provider:
+      name: Yanko Design
+      domain: yankodesign.com
+    quality: 48
+    images:
+      - url: "https://www.yankodesign.com/images/design_news/2021/01/these-in-ear-translator-earphones-help-you-fluently-speak-in-as-many-as-40-different-languages/worlds_first_bi_directional_translation_earbuds-510x314.jpg"
+        width: 510
+        height: 314
+        isCached: true
 
-secured: "DbBfNPSgx8tiecDKo0QnPIAjeF514SDvjkNlE7C1YRSF2xkEmEii8Pisvsb8PG8VzUgl0+kMt+u4lh6I1pIpzxkfTr8OserenDts+bNi2IYIq/bZTAQNslJhRBnIiOpGbKiKLmEpT0HOi1yTBjgZ56C5NkCrbVBzuCENlqeIo5oLVlbr1qmvP53WoSQS9T0NK7TjiJnJ3sE4QL88bzVVVXnCCzPrkewcaGucSOsDiwasVykZo9GAFepX1/eKr1B16i4veMpc0eY3ht2by47py+8JKu3YlV9vDPJTCE7T0AuHxG/YCd9Dd+7Z+mv82B53lHDWJKGTPA1SieuUwmV0WhK0NnIRhZqF/WrS8+m1GcY=;KL13atWcgoqqhN+C/Q24dw=="
+secured: "OheVB1ssh/I1m0lw0ALLB9Lq+3cxJCWgFa7xdlvjLCrFLcahn5GQvjsweO1ESopEsBqkEE0RF0NGxYzqb5hHvdEnAcuGra0QEsAqFRds4OunqgIUvzYEuD2lPTZyA209aiBmWSJ7fLwF8xLKpCq410s6aiIiL3L/jf4tzCyd1sNDInb7G+6hxgDVNaQYa+pyL8WZtKJpN0FZo50Rzu9cfQFGqnHQtNqC8enGLP6JSpnAnxxvvPy0i5CdtsVTd5GJDTlk2Hb9J5qq4Xofm6+MgeM0r9frU3WTSexwWBjSegXh/3s9TrmsXJ8A/11s5mbsoKZboj3Ns3rrLPK5ZZCBCFhNvjs8j6X06Yhhj3FWh8c=;D18mMuEAXZnVcbu8LtZzMw=="
 ---
 

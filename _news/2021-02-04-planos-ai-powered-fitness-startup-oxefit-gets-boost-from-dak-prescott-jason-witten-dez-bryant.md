@@ -1,0 +1,55 @@
+---
+category: news
+title: "Plano’s AI-powered fitness startup OxeFit gets boost from Dak Prescott, Jason Witten, Dez Bryant"
+excerpt: "The Plano startup announced it has raised $12.5 million from investors including several current and former Cowboys."
+publishedDateTime: 2021-02-03T23:01:00Z
+originalUrl: "https://www.dallasnews.com/business/entrepreneurs/2021/02/03/planos-ai-powered-fitness-startup-oxefit-gets-boost-from-dak-prescott-jason-witten-dez-bryant/"
+webUrl: "https://www.dallasnews.com/business/entrepreneurs/2021/02/03/planos-ai-powered-fitness-startup-oxefit-gets-boost-from-dak-prescott-jason-witten-dez-bryant/"
+type: article
+quality: 24
+heat: -1
+published: false
+
+provider:
+  name: Dallas Morning News
+  domain: dallasnews.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/d_XFPAR8yaFNMFUiwnEGBX7yNaA=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/3M7EMPGWUJGSRAXVNPCKHUPLGA.jpg"
+    width: 964
+    height: 522
+    isCached: true
+
+related:
+  - title: "Plano startup gets backing from Dak Prescott, others in $12.5M round"
+    excerpt: "A Plano startup has wrapped up a funding round that comes with some well-known current and former Dallas Cowboys. OxeFit, developing a connected workout service that employs modern tech tools, has closed on an A round for $12."
+    publishedDateTime: 2021-02-03T13:00:00Z
+    webUrl: "https://www.bizjournals.com/dallas/news/2021/02/03/dak-prescott-dallas-startup.html"
+    ampWebUrl: "https://www.bizjournals.com/dallas/news/2021/02/03/dak-prescott-dallas-startup.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/dallas/news/2021/02/03/dak-prescott-dallas-startup.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 24
+  - title: "Dak Prescott part of group making investment in Plano fitness, sports medicine startup"
+    excerpt: "Dak Prescott has made a deal. No, not that deal. Plano-based OxeFit announced on Feb. 3 it has successfully closed an oversubscribed A round led by"
+    publishedDateTime: 2021-02-03T19:14:00Z
+    webUrl: "https://fortworthbusiness.com/ccbp/oxefit-gets-investments/"
+    type: article
+    provider:
+      name: Fort Worth Business Press
+      domain: fortworthbusiness.com
+    quality: 16
+    images:
+      - url: "https://fortworthbusiness.com/wp-content/uploads/2020/04/4035b1fd4d72079459dac9c8030b2e2b.jpg"
+        width: 1728
+        height: 1199
+        isCached: true
+
+secured: "ibASn2bxEug3euc/Wkf7ltqbx9XEkhQ/mnnsJ16y7T7igM89U3eW82RxbpKuMaUVn1KstAEJorgbonmgkuuh/RsRo9YppfB6aBrSBsGdeUY6JNCTZ8rp1PZdy7CGPxbMwZSeEdZgnyQO1FybssJiZoxuXeu5mriS79BjDvcnuy3E95dvffcjgyiP/PJ+6VhgPSYsF8rFWnf+ZTVqWatUJhU2vqILmGCHQMeXD352SQostswavHRM2i6d8fhtvHp2T31lzgtpe9/MKFxq460A+s9KtaqgBBuktJkWXRJM1kb6cPk+3GmInSBIDW9rp4MLmMmWDyM6OHCq+Ypk4PcGwvCVSzHGem124cj3dWqIMOM=;GaF9VYedt/9k+83nRLYxEw=="
+---
+

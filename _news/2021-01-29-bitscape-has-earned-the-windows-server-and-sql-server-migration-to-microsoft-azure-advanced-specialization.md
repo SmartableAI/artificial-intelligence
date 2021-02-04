@@ -1,39 +1,26 @@
 ---
 category: news
 title: "Bitscape Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
-excerpt: "Bitscape archives Windows Server and SQL Server Migration to Microsoft Azure advanced specialization and joins group of select few Microsoft partners."
-publishedDateTime: 2021-01-29T13:01:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210129005073/en/Bitscape-Has-Earned-the-Windows-Server-and-SQL-Server-Migration-to-Microsoft-Azure-Advanced-Specialization"
-webUrl: "https://www.businesswire.com/news/home/20210129005073/en/Bitscape-Has-Earned-the-Windows-Server-and-SQL-Server-Migration-to-Microsoft-Azure-Advanced-Specialization"
+excerpt: "Jan 29, 2021-- Bitscape today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge, extensive experience and expertise in migrating Windows Server and SQL Server-based workloads to Azure."
+publishedDateTime: 2021-01-29T08:46:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-north-america-software-industry-cloud-computing-69d0d9117c084002ac90f60f0bccbff3"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-north-america-software-industry-cloud-computing-69d0d9117c084002ac90f60f0bccbff3"
 type: article
-quality: 16
-heat: -1
-published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
 
-related:
-  - title: "SAS Teams With Microsoft To Offer Viya Analytics On Azure"
-    excerpt: "Big data software vendor SAS is making its Viya AI, analytics and data management system available on the Microsoft Azure cloud platform."
-    publishedDateTime: 2021-02-03T01:38:00Z
-    webUrl: "https://www.crn.com/news/applications-os/sas-teams-with-microsoft-to-offer-viya-analytics-on-azure"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
-    images:
-      - url: "https://www.crn.com/resources/0266-117c11a50dd5-9301b525dd7b-1000/digital_data_cloud_futuristic_cloud_with_blockchain_technology.jpeg"
-        width: 1500
-        height: 843
-        isCached: true
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
-secured: "m/tqns0R6iUZKmNbWAXiMKwiv+zQ5wVIs2uGfty2mTDDN01eqUdRssefbja9NUqxhAWpg4dWZu2CYYaUNvXErX2ZplZxueaZXNjFy7NaxCMBApRmWd6OtoYRLLBdb5aF+nhqektFvxwQD28NK/aTmQf+pEizBN/BFyLajQJdM36+e5YwqB6bOjLQQ03n/KqulwL+5lrLNsudkibwdDxIqF9xwGs8+FYUCJowu4PMnB1MI03gGAWmCEDnndWILFBfZbbxi9wdyLxgnKCBrHzzVYYCEbqeZIsz4PDxOCfGaE8YEXNRI1iT56UBRWvUUB6uApmZmGBRk2kfOOWNiJxzhdwZZwy6H7BBYe5tz9neK44=;XiEyLpAXuSTgzYRUvKdtDA=="
+secured: "TSQKH+f1dh2bO9Zhsim1LOsM8c7M+B63tbxcAudj5h8QGL/qF9RfJwvp++CGeWRJRsIw+OQPouml0xRuv5tM4CspxzjD5mwpHin3+9IgVz4ug2SRSK+nkv7VTrw10PAGwq40oBY6fdvPbxrjXdv+WwS1KkZH/LbrVIfQ5NSdiUUiB4g1+uLVi8SFniD5QmP0ZRsN7STO68elSyhnzO6uRrn6Ut8shWV84nfKuThqJ3p632RqP6Ye3H0CgNE9iazvSov77pwRN2QpMUVNXvhjxVdNaH1+c8g96tdk+nCFJvf5CR61CeGrAB1nGZDrF2p3CASBzLV1JRg+hiFsAQ7ep2LXaeDGyAqgO9+VmCIOdjw=;zuZexKHVjaV6sg0jD6ipAw=="
 ---
 

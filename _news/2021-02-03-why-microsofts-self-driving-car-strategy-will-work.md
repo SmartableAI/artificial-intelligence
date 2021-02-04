@@ -136,7 +136,7 @@ related:
   - title: "Observe.AI and Microsoft Team Up on Contact Center AI"
     excerpt: "Observe.AI, a contact center artificial intelligence technology provider, is working with Microsoft to bring automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
     publishedDateTime: 2021-02-02T17:29:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Observe.AI-and-Microsoft-Team-Up-on-Contact-Center-AI-145046.aspx"
+    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=145046"
     type: article
     provider:
       name: Destination CRM
@@ -147,15 +147,34 @@ related:
         width: 480
         height: 610
         isCached: true
-  - title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
-    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance"
-    publishedDateTime: 2021-02-02T22:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
+  - title: "This Microsoft self-driving car concept takes aim at the ambitious Apple Project Titan"
+    excerpt: "With the Microsoft Surface car concept, that feud extends into the world of transportation too! Meet the Microsoft Surface Car, an automobile that beautifully channels the sleek aesthetic of Microsoft’s Surface laptops into its automotive design."
+    publishedDateTime: 2021-02-03T23:30:00Z
+    webUrl: "https://www.yankodesign.com/2021/02/03/this-microsoft-self-driving-car-concept-takes-aim-at-the-ambitious-apple-project-titan/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 26
+      name: Yanko Design
+      domain: yankodesign.com
+    quality: 48
+    images:
+      - url: "https://www.yankodesign.com/images/design_news/2021/01/these-in-ear-translator-earphones-help-you-fluently-speak-in-as-many-as-40-different-languages/worlds_first_bi_directional_translation_earbuds-510x314.jpg"
+        width: 510
+        height: 314
+        isCached: true
+  - title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
+    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
+    publishedDateTime: 2021-02-03T08:22:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 46
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "3QQQHTfalMl6T2jpWqVB6jJFNvOS735PfHrJaIr7qP1IQl9axpe1XEINSJn0tbtJ1B/LJMOVLQmz8q97Z70gq9OFLzQURK9j6YVNXyMP0FSGrhefprI5VQ2uzYdIAL8NOtvw17ORzay7hzwwaTi5xxdTOoQxWzcAjD9AT91et798A4BQ9e7F0mudPaEjcBP//veuDDf5uw2WfS2j7DjpsBYp1MNGiRUlWBuzVr57IGyFrZJreZikMR5c9uURwGmgFXrVZ3dWAxA8oN/VNRcVsaTIBDNDAa3IvJL6MkjNH5iRVJC+1JQqoJOZVPYcaS4c/HEldKDdDZSzbPPWOYYn/WgvWt/MQ6R+EOpXP2EDu3LelV9QAW8qldn5uL8BX4eki0VJi2zM8Wt1cfrAhOzckDMLVjfwUXg7k6vM9cW3jEjNc36t6DtJoeiA4m94RqiQr/8MDz453IIQKa78kfn4+SaCliPUuEFR6pA2cmhMKIw6+nMEZdZXB6R1a9zrinqf3bg6EEOvKMi3LRhBNoGrCQ==;nb6SwvRyschObgkMyes7Zg=="
 ---

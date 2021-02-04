@@ -7,7 +7,7 @@ originalUrl: "https://www.cioapplications.com/news/three-benefits-of-ai-and-ml-i
 webUrl: "https://www.cioapplications.com/news/three-benefits-of-ai-and-ml-in-banking-and-finance--nid-7142.html"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -40,6 +40,15 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "2021 Predictions: Cashless Society, Autopay Systems Fueled by AI, and New Digital Banking Standards"
+    excerpt: "With FinTech at the forefront of this recent innovation, here are my five predictions on the horizon for the banking industry and financial institutions in 2021: 1. The global impact of the pandemic will create a hyperdrive to digital banking solutions."
+    publishedDateTime: 2021-02-02T18:09:00Z
+    webUrl: "https://www.finextra.com/blogposting/19834/2021-predictions-cashless-society-autopay-systems-fueled-by-ai-and-new-digital-banking-standards"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 20
 
 secured: "hiMhYPFY2PReA68i7N1VkYJALPfU60EinHscc4SwZmxYZYbiMuG9Ye/DzT05IG/oHHMgBY34dB70hwmbF+G2knksNw66ZIUVkT472OBl6wfYSYO3gbY0vA6I1c3z+MgQlw781YbYw8E9GhGndIjpmmpSREKNieQM50IJbQaj29Q0Z8R3J3db0P1rkaak/qJK8Xb/wmHSiurESRaiz8DtI5NrjHvPDUbNyl2hE1VNKiKilyOTKgp/ListpzbmnJt7u9GL1mkiDk3o+Zo/DtRAqEwxdJcGI1pnNqkrzj+Dqw524RyTAHY6lKiuPAeyKZCyPujWntx99JYAye9rWR75gZnUGn0Pmcq21Z9gFa7Ei8WJphI8UrUFSEvp0a5He5ohrGZlIpt2yy/zo2penhryRlVDFRFDhjjOTPgmAwj3V0/vp++raza19J96V1qDjvxE9wGen/YZXEvaZeZ+jsRHMJq8EQae2ILZAaK+ILXRZ/Dx9Cm0TuE6EWXBjRshf3sixMG7YE3v4ZyF/WyfLUOzng==;Ac1YOUDYoJdCGt1BKoOP/A=="
 ---

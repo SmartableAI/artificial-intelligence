@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "India police use facial recognition technology to track known sexual offenders"
-    excerpt: "The use of modern technology has to become part of policing in everyday life, Lucknow inspector-general Laxmi Singh said.. Read more at straitstimes.com."
-    publishedDateTime: 2021-02-02T13:28:00Z
-    webUrl: "https://www.straitstimes.com/asia/south-asia/india-police-use-facial-recognition-technology-to-track-known-sexual-offenders"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 37
-    images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/02/02/yq-indiawoman-210202.jpg?itok=YnJTxhW1"
-        width: 763
-        height: 509
-        isCached: true
   - title: "Greek Police to Introduce Live Facial Recognition"
     excerpt: "Police in Greece are to be issued new devices that will allow them to carry out real-time facial recognition and fingerprint identification while out on the beat. The plan to disseminate the new technology is part of the 4."
     publishedDateTime: 2021-02-01T17:52:00Z

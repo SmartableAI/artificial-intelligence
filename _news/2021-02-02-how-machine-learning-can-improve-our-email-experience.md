@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/enriquedans/2021/02/02/how-machine-lear
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/enriquedans/2021/02/02/how-machine-learning-can-improve-our-email-experience/amp/"
 type: article
 quality: 104
-heat: 105
+heat: 104
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://comicbook.com/irl/amp/news/scientists-quantum-brain-device-r
 cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/irl/amp/news/scientists-quantum-brain-device-revealed-artificial-intelligence/"
 type: article
 quality: 74
-heat: 85
+heat: 84
 published: true
 
 provider:

@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-12-04-alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions.md",
+      "title": "Alinta Energy uses Azure Synapse Analytics to power data-driven decisions",
+      "excerpt": "It's using Microsoft Azure Synapse Analytics to bring together enterprise data warehousing and big data analytics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions/",
+      "originalUrl": "https://www.zdnet.com/article/alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions/",
+      "publishedDateTime": "2020-12-03T13:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-03-microsoft-heres-how-your-smartphone-camera-plus-ai-can-keep-an-eye-on-your-health.md",
       "title": "Microsoft: Here's how your smartphone camera plus AI can keep an eye on your health",
       "excerpt": "While wearables are at the forefront of medical applications for mobile technology, COVID-19 has sent researchers looking at older technologies like the humble smartphone for remote diagnosis. Microsoft Research has been working on telehealth ...",
@@ -1379,53 +1422,6 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-north-america-artificial-intelligence-ai-chipsets-market-growth-predicted-at-35-through-2026.md",
-      "title": "North America Artificial Intelligence (AI) Chipsets Market Growth Predicted at 35% through 2026",
-      "excerpt": "Graphical Research :According to the Graphical Research new growth forecast report titled North America Artificial Intelligence (AI) Chipsets Market Size, By Product (Graphics Processing Unit (GPU), Application-Specific Integrated Circuit (ASIC),",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/wired-release/business-technology-driverless-cars-products-and-services-consumer-products-and-services-71516a6c28d0208736b8b914a16078cb",
-      "originalUrl": "https://apnews.com/press-release/wired-release/business-technology-driverless-cars-products-and-services-consumer-products-and-services-71516a6c28d0208736b8b914a16078cb",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-22T23:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware",
-        "AI in Healthcare",
-        "Microsoft AI",
-        "AI in Robotics"
       ]
     }
   ],

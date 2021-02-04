@@ -2,6 +2,204 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-01-28-at-362-cagr-artificial-intelligence-ai-in-retail-market-size-to-surpass-usd-57230-million-by-2025.md",
+      "title": "At 36.2% CAGR, Artificial Intelligence (AI) in Retail Market Size to Surpass USD 5723.0 Million by 2025",
+      "excerpt": "Artificial Intelligence (AI) in Retail Market is valued at USD 658.2 Million in 2018 and expected to reach USD 5723.0",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/at-362-cagr-artificial-intelligence-ai-in-retail-market-size-to-surpass-usd-57230-million-by-2025-2021-01-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/at-362-cagr-artificial-intelligence-ai-in-retail-market-size-to-surpass-usd-57230-million-by-2025-2021-01-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-28T07:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-01-28-world-economic-forum-launches-global-alliance-to-speed-adoption-of-trustworthy-ai.md",
+      "title": "World Economic Forum launches global alliance to speed adoption of trustworthy AI",
+      "excerpt": "The World Economic Forum is launching the Global AI Action Alliance today with over 100 organizations participating.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/28/world-economic-forum-launches-global-alliance-to-speed-adoption-of-trustworthy-ai/",
+      "originalUrl": "https://venturebeat.com/2021/01/28/world-economic-forum-launches-global-alliance-to-speed-adoption-of-trustworthy-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/05/world-economic-forum.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/28/world-economic-forum-launches-global-alliance-to-speed-adoption-of-trustworthy-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/28/world-economic-forum-launches-global-alliance-to-speed-adoption-of-trustworthy-ai/amp/",
+      "publishedDateTime": "2021-01-28T07:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-01-28-researchers-propose-ai-system-that-summarizes-historical-texts.md",
+      "title": "Researchers propose AI system that summarizes historical texts",
+      "excerpt": "Summarizing historical text can help to better gather, organize, and share knowledge by identifying the key points in original documents. However, this comes at the cost of time and effort. Due to cultural and linguistic changes over time and the sheer volume of archives,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/28/researchers-propose-ai-system-that-summarizes-historical-texts/",
+      "originalUrl": "https://venturebeat.com/2021/01/28/researchers-propose-ai-system-that-summarizes-historical-texts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/28/researchers-propose-ai-system-that-summarizes-historical-texts/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/28/researchers-propose-ai-system-that-summarizes-historical-texts/amp/",
+      "publishedDateTime": "2021-01-28T06:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-28-ai-startup-growing-in-indy.md",
+      "title": "AI startup growing in Indy",
+      "excerpt": "Catipult.AI, which has developed an artificial intelligence platform to help businesses manage and track strategic goals, says it will invest more than $2.6 million to secure a larger office space in Indy and create up to 51 jobs by the end of 2024.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wishtv.com/news/inside-indiana-business/ai-startup-growing-in-indy/",
+      "originalUrl": "https://www.wishtv.com/news/inside-indiana-business/ai-startup-growing-in-indy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/www.wishtv.com/wp-content/uploads/2021/01/Peter-Fuller-Catipult.jpg?fit=960%2C540&#038;ssl=1",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-28T06:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WISHTV8",
+        "domain": "wishtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-28-how-communities-can-become-smarter-about-artificial-intelligence.md",
       "title": "How Communities Can Become Smarter About Artificial Intelligence",
       "excerpt": "The growing use of artificial intelligence for smart cities is changing the rules for everyone, including government agencies, elected officials, constituents and AI vendors.",
@@ -1009,202 +1207,6 @@
         "name": "Seattle Times",
         "domain": "seattletimes.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-its-time-to-use-all-of-twitters-archives-to-teach-ai-about-bias.md",
-      "title": "It’s time to use all of Twitter’s archives to teach AI about bias",
-      "excerpt": "Microsoft released a chatbot called Tay that fed off people’s replies to it. Within hours, the bot turned racist and the company had to pull it down. This incident remains one of the classic lessons that teach us why it’s a bad idea to train an AI using social media.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/01/27/its-time-to-use-all-of-twitters-archives-to-teach-ai-about-about-bias/",
-      "originalUrl": "https://thenextweb.com/neural/2021/01/27/its-time-to-use-all-of-twitters-archives-to-teach-ai-about-about-bias/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Screenshot-2020-08-13-at-11.17.10-AM-796x386.png",
-          "width": 796,
-          "height": 386,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/01/27/its-time-to-use-all-of-twitters-archives-to-teach-ai-about-about-bias/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/27/its-time-to-use-all-of-twitters-archives-to-teach-ai-about-about-bias/amp/",
-      "publishedDateTime": "2021-01-27T14:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-artificial-intelligence-is-indias-solution-to-fix-data-gaps.md",
-      "title": "Artificial Intelligence Is India’s Solution to Fix Data Gaps",
-      "excerpt": "India is turning from man to machines to improve the quality and speed of its economic data, which has been criticized as inadequate, delayed or even confusing due to sharp and unexpected revisions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-01-27/artificial-intelligence-is-india-s-solution-to-fix-data-gaps",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-01-27/artificial-intelligence-is-india-s-solution-to-fix-data-gaps",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKgMwJ4Jg9dM/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-27T14:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-baidu-is-the-sixth-company-approved-to-test-fully-driverless-cars-in-california.md",
-      "title": "Baidu is the sixth company approved to test fully driverless cars in California",
-      "excerpt": "Baidu has gotten the green light to test fully autonomous vehicles on public roads in California. While Baidu has had permission from California regulators to test autonomous vehicles with safety drivers since 2016,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/1/27/22252944/baidu-driverless-cars-test-permit-california-dmv",
-      "originalUrl": "https://www.msn.com/en-us/finance/other/baidu-is-the-sixth-company-approved-to-test-fully-driverless-cars-in-california/ar-BB1d9fg2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 300,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/S95q_iD3ihUt3noy9_u01hZfVBA=/0x0:950x633/1400x933/filters:focal(399x241:551x393):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68730144/baidu.0.jpeg",
-          "width": 950,
-          "height": 633,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/1/27/22252944/baidu-driverless-cars-test-permit-california-dmv",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/1/27/22252944/baidu-driverless-cars-test-permit-california-dmv",
-      "publishedDateTime": "2021-01-27T13:09:49-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theverge.com/2021/1/27/22252944/baidu-driverless-cars-test-permit-california-dmv",
-        "domain": "theverge.com/2021/1/27/22252944/baidu-driverless-cars-test-permit-california-dmv",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-new-mit-brain-research-shows-how-ai-could-help-us-understand-consciousness.md",
-      "title": "New MIT brain research shows how AI could help us understand consciousness",
-      "excerpt": "A team of researchers from MIT and Massachusetts General Hospital recently published a study linking social awareness to individual neuronal activity. To the best of our knowledge, this is the first time evidence for the ‘theory of mind‘ has been identified at this scale.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/01/27/new-mit-brain-research-shows-how-ai-could-help-us-understand-consciousness/",
-      "originalUrl": "https://thenextweb.com/neural/2021/01/27/new-mit-brain-research-shows-how-ai-could-help-us-understand-consciousness/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/03/braincomputer-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/01/27/new-mit-brain-research-shows-how-ai-could-help-us-understand-consciousness/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/27/new-mit-brain-research-shows-how-ai-could-help-us-understand-consciousness/amp/",
-      "publishedDateTime": "2021-01-27T12:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

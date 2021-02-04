@@ -26,107 +26,46 @@ images:
     isCached: true
 
 related:
-  - title: "Budget 2021: AI, ML and analytics to ease compliance burden and check tax evasion"
-    excerpt: "The Union Budget 2021 presented by Finance Minister Nirmala Sitharaman threw emphasis on technologies like Artificial Intelligence and Machine Learning, and their application to the e-Governance, GST and easing"
-    publishedDateTime: 2021-02-01T12:45:00Z
-    webUrl: "https://www.dqindia.com/budget-2021-ai-ml-analytics-ease-compliance-burden-check-tax-evasion/"
-    ampWebUrl: "https://www.dqindia.com/budget-2021-ai-ml-analytics-ease-compliance-burden-check-tax-evasion/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/budget-2021-ai-ml-analytics-ease-compliance-burden-check-tax-evasion/amp/"
+  - title: "AI, ML to drive Budget 2021's National Language Translation Mission"
+    excerpt: "The National Language Translation Mission seeks to build the next generation government apps and websites that will be 'conversational' like Amazons Alexa or Apples Siri."
+    publishedDateTime: 2021-02-03T23:31:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/ai-ml-to-drive-budget-2021-national-language-translation-mission/articleshow/80674800.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/ai-ml-to-drive-budget-2021-national-language-translation-mission/amp_articleshow/80674800.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/ai-ml-to-drive-budget-2021-national-language-translation-mission/amp_articleshow/80674800.cms"
     type: article
     provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 71
+      name: India Times
+      domain: indiatimes.com
+    quality: 76
     images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/02/AI-analytics-Union_Buget_2021.jpg"
-        width: 850
-        height: 400
-        isCached: true
-  - title: "Cognitive Analytics Market size Rising Trends and New Technologies Research Forecast to 2026"
-    excerpt: "The Cognitive Analytics market is anticipated to reach over USD 48 billion by 2026 according to a new research published by The marker research report. In 2017, the large enterprises segment dominated the global market,"
-    publishedDateTime: 2021-02-01T10:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-size-rising-trends-and-new-technologies-research-forecast-to-2026-2021-02-01?tesla=y"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Analytics startup signs COTA as first client"
-    excerpt: "Ikonos Analytics is the brainchild of Women in Analytics founder Rehgan Avon and operations specialist Allie Dauterman."
-    publishedDateTime: 2021-02-02T23:42:00Z
-    webUrl: "https://www.columbusceo.com/business/20210202/analytics-startup-signs-cota-as-first-client"
-    ampWebUrl: "https://www.columbusceo.com/business/20210202/analytics-startup-signs-cota-as-first-client?template=ampart"
-    cdnAmpWebUrl: "https://www-columbusceo-com.cdn.ampproject.org/c/s/www.columbusceo.com/business/20210202/analytics-startup-signs-cota-as-first-client?template=ampart"
-    type: article
-    provider:
-      name: Columbus CEO
-      domain: columbusceo.com
-    quality: 42
-    images:
-      - url: "https://www.columbusceo.com/apps/pbcsi.dll/bilde?Site=OH&Date=20210202&Category=BUSINESS&ArtNo=210129905&Ref=AR"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Global Cognitive Analytics Market 2020 Size, Market Share, Key Players, Segmentation Development and Forecast by 2025"
-    excerpt: "Global Cognitive Analytics Market 2020 by Company, Type and Application, Forecast to 2025 is the latest market report rolled out by MarketsandResearch.biz, one of the world’s leading market research firms."
-    publishedDateTime: 2021-02-03T04:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-cognitive-analytics-market-2020-size-market-share-key-players-segmentation-development-and-forecast-by-2025-2021-02-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Viking Analytics and pour-tech AB sign contract to provide AI operators to iron foundries"
-    excerpt: "Viking Analytics, a Swedish startup in advanced analytics solution for predictive operations, and pour-tech AB, specialized in"
-    publishedDateTime: 2021-02-03T10:20:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/viking-analytics-and-pour-tech-ab-sign-contract-to-provide-ai-operators-to-iron-foundries-301221068.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 28
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-161390,msid-80679442/tamil-hindi.jpg"
         width: 600
-        height: 315
+        height: 450
         isCached: true
-  - title: "SAS Viya delivers innovation and analytics for all"
-    excerpt: "Analytics leader SAS continues to innovate by making it easier to access its powerful, cloud-native SAS® Viya® platform. Recent"
-    publishedDateTime: 2021-02-02T14:49:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/sas-viya-delivers-innovation-and-analytics-for-all-301219567.html"
+  - title: "Union Budget 2021: MCA-21 3.0 Portal To Reduce Compliance Burden On Startups With AI, ML Tech"
+    excerpt: "Finance Minister Nirmala Sitharaman has proposed to use data analytics, artificial intelligence, machine learning for MCA"
+    publishedDateTime: 2021-02-01T08:53:00Z
+    webUrl: "https://inc42.com/infocus/union-budget-2021/union-budget-2021-mca-21-3-0-portal-to-reduce-compliance-burden-on-startups-with-ai-ml-tech/"
+    ampWebUrl: "https://inc42.com/infocus/union-budget-2021/union-budget-2021-mca-21-3-0-portal-to-reduce-compliance-burden-on-startups-with-ai-ml-tech/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/infocus/union-budget-2021/union-budget-2021-mca-21-3-0-portal-to-reduce-compliance-burden-on-startups-with-ai-ml-tech/amp/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 24
-    images:
-      - url: "https://mma.prnewswire.com/media/1431107/doctor_with_tablet_SAS_Viya.jpg?p=facebook"
-        width: 800
-        height: 418
-        isCached: true
-  - title: "SAS Viya Delivers Innovation And Analytics For All"
-    excerpt: "Customers benefit from easier cloud migration and management of analytic workloads; SAS continues to strengthen its partnership with Microsoft Azure Mumbai, Maharashtra, India Business Wire India Analytics leader SAS continues to innovate by making it easier to access its powerful,"
-    publishedDateTime: 2021-02-03T08:05:00Z
-    webUrl: "https://www.republicworld.com/business-news/india-business/sas-viya-delivers-innovation-and-analytics-for-all.html"
+      name: inc42.com
+      domain: inc42.com
+    quality: 43
+  - title: "AI Applied in Enterprises: Information Architecture, Decision Optimization, and Operationalization"
+    excerpt: "Thomas Schaeck is an IBM Distinguished Engineer at IBM Data and AI, leading Watson Studio on IBM Cloud. On a one-year assignment in the USA in 2013 - 2014, Schaeck led transformation of ..."
+    publishedDateTime: 2021-01-31T15:20:00Z
+    webUrl: "https://www.infoq.com/articles/AI-applied-architecture-decision-optimization/"
     type: article
     provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 24
+      name: InfoQ
+      domain: infoq.com
+    quality: 25
     images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/wf9zahdas70tznpq_1612339428.jpeg?tr=f-jpeg"
-        width: 1242
-        height: 710
+      - url: "https://res.infoq.com/articles/AI-applied-architecture-decision-optimization/en/headerimage/deploying-ai-in-the-enterprise-big-1611926216131.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "KqhsOuvrUYl2UruLk2VuhgT6Bbtq+eBBhzIuXXmcrYILrPTpwlRXZajQAU/Wd32D3OKPvkdCvD2PqtHuzdAMjDZh3ZVbWekCUclOzJkXRoFGw4CHxwsU12ahfsz4godIwzJmhHDM8MD6CpVHr/ZjtN2rlNxUXkXCBdzv8bkqEXMs8mnnhE8VjB411BNokro3V3ELWGHTaWkwXtP8vBZB1EFSpNk7YXnumAzBFziOLtvz6cu151Bg9hwQe30cL1MddYtYg4PIBT7+xs6TPkmA2IKCrZr6JPnF0K6HVpE6FUbwBDKVCExh3kYxz4n7jr/E0kRLjloxcicA5nJoz3ng5Faenjq2/oWLGZRPeJzXzyA=;CamhPlksd1Tg5KNBfsB6tA=="

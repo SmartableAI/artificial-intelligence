@@ -2,6 +2,175 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2021-01-06-australian-insurer-develops-ai-to-improve-car-accident-assessment-times.md",
+      "title": "Australian insurer develops AI to improve car accident assessment times",
+      "excerpt": "The AI has reduced insurance claims processing times from over three weeks to a few days. Share. Contact. Read full article: Australian insurer uses AI for car accident claims",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/video/australian-insurer-uses-ai-for-car-accident-claims/",
+      "originalUrl": "https://www.zdnet.com/video/australian-insurer-uses-ai-for-car-accident-claims/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/11/30/ba2ee07b-f96c-476f-9045-755edc3b4254/thumbnail/770x578/443dde8f20574926a84edb5c80cb2e5b/australian-insurer-uses-ai-for-car-accid-5fc46afdcaad46044ff1b6b9-1-nov-30-2020-5-48-56-poster.jpg",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-05T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-06-how-to-opt-out-of-facial-recognition-at-the-airport.md",
+      "title": "How to Opt Out of Facial Recognition at the Airport",
+      "excerpt": "Facial recognition technology is becoming more widespread, but opting out isn't always obvious. Facial recognition technology is one of the fastest growing trends in airports across the world. Biometric scanning systems,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cntraveler.com/story/how-to-opt-out-of-facial-recognition-at-the-airport",
+      "originalUrl": "https://www.cntraveler.com/story/how-to-opt-out-of-facial-recognition-at-the-airport",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cntraveler.com/photos/5ff4856b19684347ada7374f/master/pass/FacialRecognition-Airport-2020-GettyImages-1027974140.jpg",
+          "width": 5568,
+          "height": 3712,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cntraveler.com/story/how-to-opt-out-of-facial-recognition-at-the-airport/amp",
+      "cdnAmpWebUrl": "https://www-cntraveler-com.cdn.ampproject.org/c/s/www.cntraveler.com/story/how-to-opt-out-of-facial-recognition-at-the-airport/amp",
+      "publishedDateTime": "2021-01-05T15:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Condé Nast Traveler",
+        "domain": "cntraveler.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-06-ai-algorithms-detect-diabetic-eye-disease-inconsistently.md",
+      "title": "AI algorithms detect diabetic eye disease inconsistently",
+      "excerpt": "Diabetes continues to be the leading cause of new cases of blindness among adults in the United States. But the current shortage of eye-care providers would make it impossible to keep up with demand to provide the requisite annual screenings for this population.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-01-ai-algorithms-diabetic-eye-disease.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-01-ai-algorithms-diabetic-eye-disease.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/4-eye.jpg",
+          "width": 1920,
+          "height": 1487,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-01-ai-algorithms-diabetic-eye-disease.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-01-ai-algorithms-diabetic-eye-disease.amp",
+      "publishedDateTime": "2021-01-05T13:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-06-apple-patents-point-to-using-your-macbook-to-wirelessly-charge-your-iphone-and-apple-watch.md",
+      "title": "Apple patents point to using your MacBook to wirelessly charge your iPhone and Apple Watch",
+      "excerpt": "According to the patent images, a MacBook’s lid, palm rest, or trackpad could be used to charge a wireless charging-compatible iOS device. The problem the patents claim to solve is the one where you may find yourself without enough outlets,",
+      "sourceUrl": null,
+      "webUrl": "https://pdfpiw.uspto.gov/.piw?PageNum=0&docid=10853717&IDKey=6E72242A6301%0D%0A&HomeUrl=http%3A%2F%2Fpatft.uspto.gov%2Fnetacgi%2Fnph-Parser%3FSect1%3DPTO2%2526Sect2%3DHITOFF%2526p%3D1%2526u%3D%25252Fnetahtml%25252FPTO%25252Fsearch-bool.html%2526r%3D31%2526f%3DG%2526l%3D50%2526co1%3DAND%2526d%3DPTXT%2526s1%3Dmicrosoft.ASNM.%2526OS%3DAN%2Fmicrosoft%2526RS%3DAN%2Fmicrosoft",
+      "originalUrl": "https://www.msn.com/en-us/news/technology/apple-patents-point-to-using-your-macbook-to-wirelessly-charge-your-iphone-and-apple-watch/ar-BB1cuX3w",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-05T12:25:22-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "asnm.%2526os%3dan%2fmicrosoft%2526rs%3dan%2fmicrosoft",
+        "domain": "asnm.%2526os%3dan%2fmicrosoft%2526rs%3dan%2fmicrosoft",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-05-accelerating-mlops-at-bayer-crop-science-with-kubeflow-pipelines-and-amazon-sagemaker.md",
       "title": "Accelerating MLOps at Bayer Crop Science with Kubeflow Pipelines and Amazon SageMaker",
       "excerpt": "This is a guest post by the data science team at Bayer Crop Science.&nbsp; Farmers have always collected and evaluated a large amount of data with each growing season: seeds planted, crop protection inputs applied, crops harvested, and much more. The rise of data science and digital technologies provides",
@@ -993,206 +1162,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-consumer-like-employee-self-help-requires-a-bridge-between-ai-and-the-semantics-of-human-language.md",
-      "title": "Consumer-Like Employee Self-Help Requires A Bridge Between AI And The Semantics Of Human Language",
-      "excerpt": "Whether completely remote, in the office with an abundance of safety precautions or a hybrid of the two, employees require immediate, personalized help 24/7.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/05/consumer-like-employee-self-help-requires-a-bridge-between-ai-and-the-semantics-of-human-language/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/05/consumer-like-employee-self-help-requires-a-bridge-between-ai-and-the-semantics-of-human-language/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f184032107158000722cf84%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/05/consumer-like-employee-self-help-requires-a-bridge-between-ai-and-the-semantics-of-human-language/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/05/consumer-like-employee-self-help-requires-a-bridge-between-ai-and-the-semantics-of-human-language/amp/",
-      "publishedDateTime": "2021-01-05T04:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-jarvis-meets-automotive-how-artificial-intelligence-is-remodeling-computer-aided-design.md",
-      "title": "Jarvis Meets Automotive: How Artificial Intelligence Is Remodeling Computer-Aided Design",
-      "excerpt": "The world of computer-aided design is transforming from a visual, drafting tool to an artificial intelligence agent that uses feedback and weighted goals to design an integrated system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevetengler/2021/01/05/jarvis-meets-automotive-how-artificial-intelligence-is-remodeling-computer-aided-design/",
-      "originalUrl": "https://www.forbes.com/sites/stevetengler/2021/01/05/jarvis-meets-automotive-how-artificial-intelligence-is-remodeling-computer-aided-design/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fce6fad7d46dc2167aa1ac4%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevetengler/2021/01/05/jarvis-meets-automotive-how-artificial-intelligence-is-remodeling-computer-aided-design/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevetengler/2021/01/05/jarvis-meets-automotive-how-artificial-intelligence-is-remodeling-computer-aided-design/amp/",
-      "publishedDateTime": "2021-01-05T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-tcs-a-leader-in-system-integrator-capabilities-on-microsoft-azure-everest-group.md",
-      "title": "TCS a Leader in System Integrator Capabilities on Microsoft Azure: Everest Group",
-      "excerpt": "New Delhi: Tata Consultancy Services (TCS) (BSE: 532540, NSE: TCS), a leading global IT services, consulting and business solutions organization, has been recognized as a Leader in the Everest",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/tcs-a-leader-in-system-integrator-capabilities-on-microsoft-azure-everest-group/",
-      "originalUrl": "https://indiaeducationdiary.in/tcs-a-leader-in-system-integrator-capabilities-on-microsoft-azure-everest-group/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/09/TCS.jpg?fit=400%2C400&ssl=1",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/tcs-a-leader-in-system-integrator-capabilities-on-microsoft-azure-everest-group/?amp",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/tcs-a-leader-in-system-integrator-capabilities-on-microsoft-azure-everest-group/?amp",
-      "publishedDateTime": "2021-01-05T03:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-microsoft-wants-to-use-ai-to-turn-your-friends-and-family-into-3d-chatbots.md",
-      "title": "Microsoft wants to use AI to turn your friends and family into 3D chatbots",
-      "excerpt": "A patent published by Microsoft describes the process of creating an AI chatbot based on a real-life person using their social data, photos, and even voice recordings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/microsoft-wants-to-use-ai-to-turn-your-friends-and-family-into-3d-chatbots/",
-      "originalUrl": "https://www.techrepublic.com/article/microsoft-wants-to-use-ai-to-turn-your-friends-and-family-into-3d-chatbots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/11/11/44436744-fe4e-4eaf-bdbe-c943f9889f46/resize/1200x/ec4c1fe64d24827800bfe87676c10f69/metamorworks-11.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-wants-to-use-ai-to-turn-your-friends-and-family-into-3d-chatbots/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-wants-to-use-ai-to-turn-your-friends-and-family-into-3d-chatbots/",
-      "publishedDateTime": "2021-01-05T03:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "AI Ethics"
       ]
     }
   ],

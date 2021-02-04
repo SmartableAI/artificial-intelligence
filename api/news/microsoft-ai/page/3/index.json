@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-07-brief-novartis-microsoft-announce-artificial-intelligence-collaboration.md",
+      "title": "BRIEF-Novartis, Microsoft Announce Artificial Intelligence Collaboration",
+      "excerpt": "JOINT RESEARCH ACTIVITIES WILL INCLUDE PERSONALIZED THERAPIES FOR MACULAR DEGENERATION, CELL & GENE THERAPY, DRUG DESIGN Source text for Eikon: Further company coverage: (Berlin Speed Desk ...",
+      "sourceUrl": null,
+      "webUrl": "https://uk.reuters.com/article/brief-novartis-microsoft-announce-artifi/brief-novartis-microsoft-announce-artificial-intelligence-collaboration-idUKASP0017LB",
+      "originalUrl": "https://uk.reuters.com/article/brief-novartis-microsoft-announce-artifi/brief-novartis-microsoft-announce-artificial-intelligence-collaboration-idUKASP0017LB",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKASP0017LB",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKASP0017LB",
+      "publishedDateTime": "2021-01-06T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure.md",
       "title": "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure",
       "excerpt": "New offering extends Blue Prism’s intelligent automation leadership in the cloud and brings increased benefits to Microsoft Azure users",
@@ -1347,41 +1391,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-microsoft-msft-reportedly-mulling-on-designing-chips-in-house.md",
-      "title": "Microsoft (MSFT) Reportedly Mulling on Designing Chips In-House",
-      "excerpt": "Microsoft MSFT is collaborating with Arm Ltd to design processors in-house for its data center operations and server computers that power its cloud service platform, reported Bloomberg citing familiar sources.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/microsoft-msft-reportedly-mulling-on-designing-chips-in-house-2020-12-21",
-      "originalUrl": "https://www.nasdaq.com/articles/microsoft-msft-reportedly-mulling-on-designing-chips-in-house-2020-12-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-21T07:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI",
         "Microsoft AI"
       ]

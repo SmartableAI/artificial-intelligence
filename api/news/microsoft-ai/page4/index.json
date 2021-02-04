@@ -2,6 +2,41 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-21-microsoft-msft-reportedly-mulling-on-designing-chips-in-house.md",
+      "title": "Microsoft (MSFT) Reportedly Mulling on Designing Chips In-House",
+      "excerpt": "Microsoft MSFT is collaborating with Arm Ltd to design processors in-house for its data center operations and server computers that power its cloud service platform, reported Bloomberg citing familiar sources.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/microsoft-msft-reportedly-mulling-on-designing-chips-in-house-2020-12-21",
+      "originalUrl": "https://www.nasdaq.com/articles/microsoft-msft-reportedly-mulling-on-designing-chips-in-house-2020-12-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-21T07:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-21-cloud-api-market-2020-research-report-rationalize-share-size-and-future-opportunities-ca-technologies-dell-google-ibm-microsoft-corpo.md",
       "title": "Cloud API Market 2020, Research Report Rationalize Share, Size and Future Opportunities - CA Technologies, Dell, Google, IBM, Microsoft Corpo",
       "excerpt": "The cloud application programming interface (API) allows the development of applications and services utilized to ... such as speech recognition and cognitive computing are some factors ...",
@@ -1327,49 +1362,6 @@
         "name": "IT News For Australia Business",
         "domain": "itnews.com.au",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions.md",
-      "title": "Alinta Energy uses Azure Synapse Analytics to power data-driven decisions",
-      "excerpt": "It's using Microsoft Azure Synapse Analytics to bring together enterprise data warehousing and big data analytics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions/",
-      "originalUrl": "https://www.zdnet.com/article/alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions/",
-      "publishedDateTime": "2020-12-03T13:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

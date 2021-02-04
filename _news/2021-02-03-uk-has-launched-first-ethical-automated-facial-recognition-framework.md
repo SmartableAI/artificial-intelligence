@@ -7,7 +7,7 @@ originalUrl: "https://www.analyticsinsight.net/uk-has-launched-first-ethical-aut
 webUrl: "https://www.analyticsinsight.net/uk-has-launched-first-ethical-automated-facial-recognition-framework/"
 type: article
 quality: 56
-heat: 76
+heat: 77
 published: true
 
 provider:

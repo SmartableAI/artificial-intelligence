@@ -45,22 +45,6 @@ related:
         width: 850
         height: 400
         isCached: true
-  - title: "Budget 2021: Govt using Artificial Intelligence to track GST tax evasion"
-    excerpt: "Budget 2021 saw Finance Minister Nirmala Sitharaman emphasise on the use of AI technology to enable compliance, adjudication of disputes on Ministry of Corporate Affairs"
-    publishedDateTime: 2021-02-01T09:36:00Z
-    webUrl: "https://yourstory.com/2021/02/budget-2021-artificial-intelligence-being-used-track-gst-tax"
-    ampWebUrl: "https://yourstory.com/2021/02/budget-2021-artificial-intelligence-being-used-track-gst-tax/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/02/budget-2021-artificial-intelligence-being-used-track-gst-tax/amp"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 56
-    images:
-      - url: "https://images.yourstory.com/cs/2/604090802d6d11e9aa979329348d4c3e/agritechbudget2021-1612015767538.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
-        width: 800
-        height: 400
-        isCached: true
   - title: "Analytics startup signs COTA as first client"
     excerpt: "Ikonos Analytics is the brainchild of Women in Analytics founder Rehgan Avon and operations specialist Allie Dauterman."
     publishedDateTime: 2021-02-02T23:42:00Z

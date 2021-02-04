@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/evinced-a-web-accessibility-startup
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/evinced-a-web-accessibility-startup-raises-17-million-11612353609"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

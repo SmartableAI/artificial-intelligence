@@ -10,7 +10,7 @@
       "originalUrl": "https://www.zdnet.com/article/ai-chips-in-the-real-world-interoperability-constraints-cost-energy-efficiency-and-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -50,7 +50,9 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
+        "AI",
+        "Google AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -672,10 +674,10 @@
     {
       "path": "_news/2021-01-20-facebook-enhances-ai-used-to-describe-photos-for-visually-impaired-users.md",
       "title": "Facebook enhances AI used to describe photos for visually impaired users",
-      "excerpt": "Facebook has announced new improvements to its artificial intelligence (AI) technology that is used to generate descriptions of photos posted on the social network for visually impaired users. The technology,",
+      "excerpt": "the company trained its two-stage object detector using an open-source platform developed by Facebook AI Research. \"We trained the models to predict locations and semantic labels of the objects ...",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/article/facebook-enhances-ai-used-to-describe-photos-for-visually-impaired-users/",
-      "originalUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/article/facebook-enhances-ai-used-to-describe-photos-for-visually-impaired-users/",
+      "webUrl": "https://www.zdnet.com/article/facebook-enhances-ai-used-to-describe-photos-for-visually-impaired-users/",
+      "originalUrl": "https://www.zdnet.com/article/facebook-enhances-ai-used-to-describe-photos-for-visually-impaired-users/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -692,9 +694,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/facebook-enhances-ai-used-to-describe-photos-for-visually-impaired-users/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/facebook-enhances-ai-used-to-describe-photos-for-visually-impaired-users/",
-      "publishedDateTime": "2021-01-20T00:57:00-08:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/facebook-enhances-ai-used-to-describe-photos-for-visually-impaired-users/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-enhances-ai-used-to-describe-photos-for-visually-impaired-users/",
+      "publishedDateTime": "2021-01-19T19:10:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
