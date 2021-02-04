@@ -71,6 +71,15 @@ related:
         width: 1240
         height: 826
         isCached: true
+  - title: "Nuance Dragon Medical One Earns #1 Best in KLAS Award for Speech Recognition: Front-End EMR"
+    excerpt: "Nuance Communications, Inc. today announced that Nuance Dragon ® Medical One cloud-based speech recognition platform captured top honors as the 2021 Best in KLAS: Software& Services award winner, earning praise from clinicians as the #1 conversational AI speech recognition solution helping deliver and document better patient care."
+    publishedDateTime: 2021-02-02T13:30:00Z
+    webUrl: "https://www.nasdaq.com/press-release/nuance-dragon-medical-one-earns-1-best-in-klas-award-for-speech-recognition%3A-front"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 39
   - title: "Spotify patent hints at speech recognition for music recommendations"
     excerpt: "Spotify has been granted a patent for the invention of a system to use speech recognition and analysis to create individually recommended music choices."
     publishedDateTime: 2021-02-02T19:28:00Z
@@ -84,20 +93,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/02142013/spotify-patent-personalization-speech-recognition.jpg"
         width: 608
         height: 405
-        isCached: true
-  - title: "Nuance Dragon Medical One Earns #1 Best in KLAS Award for Speech Recognition: Front-End EMR"
-    excerpt: "Nuance Communications, Inc. (NASDAQ: NUAN) today announced that Nuance Dragon® Medical One cloud-based speech recognition platform captured"
-    publishedDateTime: 2021-02-02T13:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/nuance-dragon-medical-one-earns-1-best-in-klas-award-for-speech-recognition-front-end-emr-301219608.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 29
-    images:
-      - url: "https://mma.prnewswire.com/media/1156940/Nuance_Communications_Logo.jpg?p=facebook"
-        width: 1500
-        height: 785
         isCached: true
 
 secured: "qO1R8zsuOaEjxuzOTEmr9Jtv2kmIoHJmqN+oeISa1P+fM6eOC4p2PYwWHEsDWAYjQqg1ach+5GwF5U8HsPdSwrnvVZeD//5onbfGJOnYVNdljwVVlOtEVR9a/fEP8azCjFCb4Z8PrNDl8wW2OUmvCzUmcun44mIED39UGTwAu+rWDnxFeyEzkcIdSOvl4fOPv/zJlaZQNz/JRGBtkaIRo1gL3wraqnRm5JwJZGYx1pJL7+XMawLUddgrhcOcigfGNM1xnPCk2ejedh3RDqiULJurBs4w0b+BAAPIivOafaZGuS32MsBdui3//4wKFbnUoiGH4UT/2lGJOeutOWtCQUL4GCH7jDq+JQTY6C3vliw=;5RhLc8m9uf3GAtGCJOL8nw=="

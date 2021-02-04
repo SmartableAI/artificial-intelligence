@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
-excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
-publishedDateTime: 2021-02-03T08:22:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
-webUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
+excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance"
+publishedDateTime: 2021-02-02T22:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
+webUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
 type: article
-quality: 46
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Microsoft's cutting-edge machine-learning tool moves from the lab to the mainstream"
@@ -89,6 +83,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Microsoft Debuts Custom Neural Voice for Azure Cognitive Services"
+    excerpt: "With Custom Neural Voice, Azure Cognitive Services developers can use AI to generate human-like speech-to-voice for their apps."
+    publishedDateTime: 2021-02-04T13:48:00Z
+    webUrl: "https://winbuzzer.com/2021/02/04/microsoft-debuts-custom-neural-voice-for-azure-cognitive-services-xcxwbn/"
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 69
+    images:
+      - url: "https://winbuzzer.com/wp-content/uploads/2021/02/AT-T-Neural-Voice-Research-Azure-Microsoft.jpg"
+        width: 1157
+        height: 649
+        isCached: true
   - title: "Why Microsoft’s Self-Driving Car Strategy Will Work"
     excerpt: "Self-driving car startup Cruise received more than $2 billion investment from Microsoft, General Motors, Honda, and institutional investors,"
     publishedDateTime: 2021-02-03T08:02:00Z
@@ -149,7 +157,7 @@ related:
   - title: "Observe.AI and Microsoft Team Up on Contact Center AI"
     excerpt: "Observe.AI, a contact center artificial intelligence technology provider, is working with Microsoft to bring automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
     publishedDateTime: 2021-02-02T17:29:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=145046"
+    webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Observe.AI-and-Microsoft-Team-Up-on-Contact-Center-AI-145046.aspx"
     type: article
     provider:
       name: Destination CRM
@@ -175,6 +183,6 @@ related:
         height: 314
         isCached: true
 
-secured: "Gk9qIyQ68Ki/f/o2W1XBQQNqgJQe5+3DAWm9uVyMQT7frEx4lAZJflFsKAuWnnGX/KGjojlDFM2E32+xUbGLdy4z3ReET7cfa222QUqJ9ZVLUU5KdDiqWxbOfUPRr1H25+krkQbXrhTeY0GKoUPCTZ1qQ/4f/xRSNXjmwvrybGafnsCSdLqQZ3yLT1WABjf2ertFA4ezIiJxwEbaCRcAVm8N1ZxXzsBfjLv4eaXf1NnhgLAR6wZooAdvvBAi3Cg8eSYHq7CfQHAis/TV+rU6TtTsJag0PeWNTZoTT1X27McCMRBogLxp10X2VUk7nBcjmyiR6/UxRf9Z9HeNp6jYqHkHVJFycCSpB/1cvDFai3s=;czRv5Fsro2NAMv+QCz03EA=="
+secured: "nGWq0ruwQq0memaXpTIF1fzplTvWXHUMfCKh8Iljppe3R8fMDjXbwt9wt6fjF7jfwtYkErITC3NGo3zUT1JBzOus/KgE8/vDXhdHU5Bp2UJa6bNg1a2NXTyrvlK2gPo+MUpzm045SzZtbwfTTg6N+2O1VwgEhs1vfFoZCuEv7FN/P0ZkkLtzg2gq1h5sc6YMsyj7QttHVQmudQiND4YgWiMQE/9tcP1PdzOXG7MfDmH6CKSRADdYRNxCLzk48Zp5FbaMnV6PYlsohNmU0Dv1Ftsbpy7CpsmSoJi5B5aV4MuCroQbe60dYyDD15pDOe5bN2HUmWYETsoRo7g6ZnaBFAD5HaG5Z73jY3fzryQ1lUY=;MhXBwAU3iQLyWfqqvvL8Kg=="
 ---
 

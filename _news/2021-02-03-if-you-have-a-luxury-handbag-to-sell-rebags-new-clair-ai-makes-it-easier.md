@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/sharonedelson/2021/02/03/if-you-have-a-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sharonedelson/2021/02/03/if-you-have-a-luxury-handbag-to-sell-rebags-new-clair-ai-makes-it-easier/amp/"
 type: article
 quality: 85
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Rebag adds artificial intelligence tool that instantly prices luxury handbags for resale"
+    excerpt: "An app called Clair helps sellers recognize the handbag and set prices in which company Rebag will offer to buy."
+    publishedDateTime: 2021-02-04T13:47:00Z
+    webUrl: "https://www.bizjournals.com/bizwomen/news/latest-news/2021/02/rebag-adds-artificial-intelligence-tool-to-instant.html?page=all"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 8
 
 secured: "UEBJYUUU2+Uz8vpNatyseDf+2LYvbIqNFYFyCbwL3M74gO/PUHjgG1TYjpWTCXS+cn1FdJltbWl/TCiRxBjVrIWfHtuzNhkileiACkSzvvVggCSMWSFjBVsW9s8+4kaua429UUHR7SqmyXplkuPjXMd3+NdCZzCBFZmh9AOEBf8ERGsUP8oIc6HE08GXsoeGmUSFgF0u7DbH3s/l/javIsjVGIXA2om0IULYIyfsuXJCtz5YZOobHCR/yJKUtLq7FbmvzHxOrBUEF46IM5Z45hEFBwZToheNodLDkg5Nts5ixxC0iIHSc+vGNiD3W53iddPtTPDoIKzMOV2fIk+gnVfoRL9mbOkslLekSAon/42Pgwe9AFtpDSVZBYkdxv+u9tng1weY7HepdoNdy1oIkXGaDtNOyG0j7KezAxeD15t5H0UKOpz6UdBnYos3OleeAruoR4Z2lk0JaNEC/0LGHDc2Q1XlKLISIrdcX+LIZ2JWcsoceT6tKNlpee0qYMg9HoQJZOaZQM1ZK94YLlY2TA==;Csm0drZ0AN08UT15PNmHYQ=="
 ---

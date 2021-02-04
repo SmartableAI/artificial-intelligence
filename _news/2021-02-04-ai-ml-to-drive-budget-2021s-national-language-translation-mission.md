@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/tech/technology/ai-ml-to-drive-budget-20
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/ai-ml-to-drive-budget-2021-national-language-translation-mission/amp_articleshow/80674800.cms"
 type: article
 quality: 76
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -68,20 +68,6 @@ related:
       - url: "https://slator.com/assets/2021/02/How-to-Improve-Automatic-Machine-Translation-Evaluation_-Add-Humans-Scientists-Say.png"
         width: 600
         height: 400
-        isCached: true
-  - title: "AI Applied in Enterprises: Information Architecture, Decision Optimization, and Operationalization"
-    excerpt: "Thomas Schaeck is an IBM Distinguished Engineer at IBM Data and AI, leading Watson Studio on IBM Cloud. On a one-year assignment in the USA in 2013 - 2014, Schaeck led transformation of ..."
-    publishedDateTime: 2021-01-31T15:20:00Z
-    webUrl: "https://www.infoq.com/articles/AI-applied-architecture-decision-optimization/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 25
-    images:
-      - url: "https://res.infoq.com/articles/AI-applied-architecture-decision-optimization/en/headerimage/deploying-ai-in-the-enterprise-big-1611926216131.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "K2s+UtqgolxvXhNG2SEovi3xIm669I+ThmtKpTqBYN1R1cIAkQc9NMIqzK0Ovjn6wR3hqcNvnX0sb7jlC/o7Ei39brCoR+OJPvGvH8JrBr/S25Uf7gdsTt+K8gSl5yLrEEW0f8VfAm0KAaP0UwAymOpBffy16/+mNhQy/VUgOJ3kE+CicFzXEDDZIJ31n7JOc/hgMcxT1nwRf5b2s/XWNslCAGXRFlcESkXGMC/UaGIODQinyUYUXCaClUuQWLKQZaqzkf2t13/OKxy2FfB3VD1GSKwZZaKyLYbbBDx96i1KBdgB96UfKE9inqTprR5lgMI9X1K0xrVaxmiy2ZakeS3sExDelCWHFIDI5SUK8ZGMUyddp0EU0wLOfuHPG8YjskwVtwZutYCkuEzrBAFl+pMzCdTndlZZ0ptN4NTONGCdyLnBHx/SYbwuGzsYfd5y4m84aGD9pahO3ShDMf8j8cZ+yEaLfrqjUYxxMy+zxydEMpaKkZRMoTYxTdm1oOBhCW8KRzZwjYc3I1vOYMA6qA==;Z8NJDOyqjr5KmIC1Y7wPxA=="

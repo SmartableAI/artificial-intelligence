@@ -1,24 +1,30 @@
 ---
 category: news
 title: "Two Google engineers resign over firing of AI ethics researcher"
-excerpt: "The resignations come as workers have demanded commitments to academic freedom and management change in Google's research organization"
-publishedDateTime: 2021-02-04T04:36:00Z
-originalUrl: "https://www.foxbusiness.com/markets/two-google-engineers-resign-over-firing-of-ai-ethics-researcher"
-webUrl: "https://www.foxbusiness.com/markets/two-google-engineers-resign-over-firing-of-ai-ethics-researcher"
-ampWebUrl: "https://www.foxbusiness.com/markets/two-google-engineers-resign-over-firing-of-ai-ethics-researcher.amp"
-cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/markets/two-google-engineers-resign-over-firing-of-ai-ethics-researcher.amp"
+excerpt: "An engineering director and a software developer have quit Alphabet's Google over the dismissal of AI researcher Timnit Gebru, a sign of the ongoing conflicts at the search giant over diversity and ethics."
+publishedDateTime: 2021-02-04T13:58:00Z
+originalUrl: "https://www.nbcnews.com/tech/tech-news/two-google-engineers-resign-firing-ai-ethics-researcher-rcna245"
+webUrl: "https://www.nbcnews.com/tech/tech-news/two-google-engineers-resign-firing-ai-ethics-researcher-rcna245"
+ampWebUrl: "https://www.nbcnews.com/news/amp/rcna245"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna245"
 type: article
-quality: 54
-heat: -1
-published: false
+quality: 104
+heat: 134
+published: true
 
 provider:
-  name: Fox Business
-  domain: foxbusiness.com
+  name: NBC News
+  domain: nbcnews.com
 
 topics:
   - AI Ethics
   - AI
+
+images:
+  - url: "https://media1.s-nbcnews.com/i/rockcms/2021-02/279/210204-google-timnit-gebru-jm-0819-f159ea_1feca3a0d9ad0c970c8da6b982134d473bd228e0.jpg"
+    width: 2500
+    height: 1667
+    isCached: true
 
 related:
   - title: "Two Google engineers resign over firing of AI ethics researcher Timnit Gebru"
@@ -65,6 +71,6 @@ related:
       domain: army.mil
     quality: 56
 
-secured: "XLdTwINS3rkkcE2DfxGMdFXVPqAoYkvCooMQHnYPlkKi4LZwy/NaoHoRPE4DXvK/t4tr2Cda1REAitwIJV4ZMGVfCdS85jm+QeivO02lGfkc3VFsELwkWPyYIwPtLH+Q4XJh9/We2ADJHAVDFrFkk6VicONJaWnouqWVzJygPp6+Nd+PC4Y62glSs7yaK2mLDWOM/FAXajfWX9QTRvGVQlKUQNiX9XGGBRBwJYmfu6p/kBM7cDZ8/BLPLPNnT6cPb4925yhynZtTrsW0mYtZooPqiYG5gGwEJcK4U9Xd5SwJFa+/erybaRl03TAgdhBL4lu6lNFG+IcJKWOK+Aqir5CI2eqgr3rUlIrw1qI8cJCZs0+Bvs8Rs7BtGh+s3v60Fe8urbalxw1hJcbd6WdWeKTLeNd3kqdcxRH+231qb2OeBMuBlQYQmy6qH7O7FGEgr4SFMy5rfaXqoba/QrnoCxUPWg7c/Qo3Q4ZWRcFENxYx9+H6Ftm+uRRxOb1MBNxQA5NPEZdVt5PtukC7+Qb4nA==;4WBDfazdXjdsDOGud8SwuQ=="
+secured: "jL396JpUmnMGxxDtbwlcj9u4g93M/53orb7cbnXtyGXYv6ZAJf5Wx3WRI7ua0Cl/L/y4yTZRWHBh5TCR6Nd3CKdi5vl17MfS5FCePHc5t13fttkNkZQ6paluSTDhgPQBYbwUYqVw+xDzFxGeiuZui/cHs/z28xTXpvkJ9AsnNrW6YrLVeu/YZ9u85eG7wIrP1YuwLY7E/Y4Sl2zAV5Y08vaPJxLG5bERhberjkoTFw2racLind4wphL/yuIkOsiXKI/gasHSqxu5/I1OvnPb980xlGIRw1ZpWE8j8b5jWliO2PLTLZpuuTfj0rRihxf5kzWUrNF7FZdNmCnLdHxPQ3yNboHbJYNX5cq3YacLuTw=;ai5f496JwAUzIVIM8sdx4w=="
 ---
 

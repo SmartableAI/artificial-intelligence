@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Two Google engineers resign over firing of AI ethics researcher"
+    excerpt: "An engineering director and a software developer have quit Alphabet's Google over the dismissal of AI researcher Timnit Gebru, a sign of the ongoing conflicts at the search giant over diversity and ethics."
+    publishedDateTime: 2021-02-04T13:58:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/two-google-engineers-resign-firing-ai-ethics-researcher-rcna245"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna245"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna245"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 104
+    images:
+      - url: "https://media1.s-nbcnews.com/i/rockcms/2021-02/279/210204-google-timnit-gebru-jm-0819-f159ea_1feca3a0d9ad0c970c8da6b982134d473bd228e0.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Two Google engineers resign over firing of AI ethics researcher Timnit Gebru"
     excerpt: "An engineering director and a software developer have quit Alphabet Inc's Google over the dismissal of AI researcher Timnit Gebru, a sign of the ongoing conflicts at the search giant over diversity and ethics."
     publishedDateTime: 2021-02-04T07:26:00Z
@@ -54,17 +70,6 @@ related:
       name: United States Army
       domain: army.mil
     quality: 56
-  - title: "Two Google engineers resign over firing of AI ethics researcher"
-    excerpt: "The resignations come as workers have demanded commitments to academic freedom and management change in Google's research organization"
-    publishedDateTime: 2021-02-04T04:36:00Z
-    webUrl: "https://www.foxbusiness.com/markets/two-google-engineers-resign-over-firing-of-ai-ethics-researcher"
-    ampWebUrl: "https://www.foxbusiness.com/markets/two-google-engineers-resign-over-firing-of-ai-ethics-researcher.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/markets/two-google-engineers-resign-over-firing-of-ai-ethics-researcher.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 54
 
 secured: "vIyLPhR1Q4yoZvWyUYuDkAMJ/r8wlY1N7ZY/gCRQipYvBpNsEU/dD/0i0x4X5y/q5IJQSbwVNmQYEgIs4PUnt0MTZxsGboBkEvYdCEYICSfaaLNGxnSdzCR1OB3acDpEOqAL2umTwIBmXpB3/xApLxn4Z2D553lXDBN4UpLIIFEt0tWR4MFrGYFkjAHctwhat+c0OU2WfyK/1QRndPoVwjPe+MZUqsi2NvzxRtbQO79GtA3v+s/oDltZ12nlFU5wEbva6DqiXvtvG1Trndp2k+ZknbuxcuRgvmYlWhSTG6x2kBJOFoDM6d4MeKSby4f0WUpLaUXzo/QzmTRZggn9uMdQ7GyifKzmsD+D/NCMwco=;yJZpcOv7zu3ATDPJADgsPg=="
 ---

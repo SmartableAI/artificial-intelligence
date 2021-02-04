@@ -6,8 +6,8 @@ publishedDateTime: 2021-02-04T10:39:00Z
 originalUrl: "https://techent.tv/2021/02/04/aws-golden-age-machine-learning/"
 webUrl: "https://techent.tv/2021/02/04/aws-golden-age-machine-learning/"
 type: article
-quality: 23
-heat: 23
+quality: 25
+heat: 25
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI in Finance
   - AI
   - Machine Learning
+  - AWS AI
 
 images:
   - url: "https://techent.tv/wp-content/uploads/2021/02/pexels-photo-5473951.jpeg"

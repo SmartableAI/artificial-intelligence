@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft launches Viva, an AI-powered information hub for enterprises"
+    excerpt: "Microsoft today introduced Microsoft Viva, a hub of services designed to address digital workplace challenges."
+    publishedDateTime: 2021-02-04T14:02:00Z
+    webUrl: "https://venturebeat.com/2021/02/04/microsoft-launches-viva-topics-an-ai-powered-information-curator-for-enterprises/"
+    ampWebUrl: "https://venturebeat.com/2021/02/04/microsoft-launches-viva-topics-an-ai-powered-information-curator-for-enterprises/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/04/microsoft-launches-viva-topics-an-ai-powered-information-curator-for-enterprises/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/02/Jared-Spataro.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft launches Open AI Energy Initiative in partnership with Shell, C3 AI, others"
     excerpt: "Microsoft has launched the Open AI Energy Initiative in collaboration with Shell, C3 AI, and Baker Hughes. It aims to offer AI-based scalable and interoperable solutions for the energy sector."
     publishedDateTime: 2021-02-02T02:54:00Z
@@ -42,6 +58,22 @@ related:
       - url: "https://cdn.neow.in/news/images/uploaded/2017/07/1499866975_microsoft-ai-for-earth_story.jpg"
         width: 760
         height: 428
+        isCached: true
+  - title: "Etihad Airways transforms its Finance Operations by leveraging Microsoft AI capabilities"
+    excerpt: "Etihad Airways has carried out a transformation of its Finance Operations through harnessing the power of Microsoft AI. The Finance and Digital, Technology and Innovation divisions worked with Microsoft to modernize their payment inspection process using cognitive services."
+    publishedDateTime: 2021-02-02T12:28:00Z
+    webUrl: "https://www.zawya.com/uae/en/press-releases/story/Etihad_Airways_transforms_its_Finance_Operations_by_leveraging_Microsoft_AI_capabilities-ZAWYA20210202122859/"
+    ampWebUrl: "https://www.zawya.com/uae/en/story/amp/ZAWYA20210202122859/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/ZAWYA20210202122859/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 82
+    images:
+      - url: "https://images.zawya.com/pr/images/2021/Etiha1_2021_02_02.jpg"
+        width: 450
+        height: 300
         isCached: true
   - title: "Microsoft and the workplace of the future: How AI can help you build more productive relationships with your colleagues"
     excerpt: "Microsoft wants to help organizations use their data to deliver experiences, insights and outcomes. But careful design, clear ethics and full transparency are required to keep the AI in check."
@@ -75,6 +107,22 @@ related:
         width: 960
         height: 640
         isCached: true
+  - title: "Etihad Airways transforms operations with Microsoft AI capabilities"
+    excerpt: "Etihad Airways has carried out a transformation of its finance operations through harnessing the power of Microsoft AI. The Finance and"
+    publishedDateTime: 2021-02-04T14:27:00Z
+    webUrl: "https://www.khaleejtimes.com/business/aviation/etihad-airways-transforms-operations-with-microsoft-ai-capabilities"
+    ampWebUrl: "https://amp.khaleejtimes.com/business/aviation/etihad-airways-transforms-operations-with-microsoft-ai-capabilities"
+    cdnAmpWebUrl: "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/business/aviation/etihad-airways-transforms-operations-with-microsoft-ai-capabilities"
+    type: article
+    provider:
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 74
+    images:
+      - url: "https://images.khaleejtimes.com/storyimage/KT/20210204/ARTICLE/210209551/AR/0/AR-210209551.jpg&NCS_modified=20210204151537&MaxH=225&imageVersion=16by9"
+        width: 399
+        height: 225
+        isCached: true
   - title: "Microsoft launches Custom Neural Voice in limited access – Jaweb"
     excerpt: "Microsoft today announced the general availability of Custom Neural Voice, an Azure Cognitive Services product that lets developers create synthetic voices with neural text-to-speech technology. It’s in limited access,"
     publishedDateTime: 2021-02-03T17:41:00Z
@@ -91,30 +139,61 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "BKR, RDS, AI and MSFT Launch AI Energy Initiative"
-    excerpt: "C3 AI (NYSE: AI), and Microsoft (NASDAQ: MSFT) have announced the launch of the Open AI Energy Initiative. Baker Hughes (NYSE: BKR), Shell (NYSE: RDS), C3 AI (NYSE: AI), and Microsoft (NASDAQ: MSFT) have announced the launch of the Open AI Energy Initiative (OAI),"
-    publishedDateTime: 2021-02-02T11:38:00Z
-    webUrl: "https://www.rigzone.com/news/bkr_rds_ai_and_msft_launch_ai_energy_initiative-02-feb-2021-164500-article/"
-    ampWebUrl: "https://www.rigzone.com/news/bkr_rds_ai_and_msft_launch_ai_energy_initiative-02-feb-2021-164500-article/?amp"
-    cdnAmpWebUrl: "https://www-rigzone-com.cdn.ampproject.org/c/s/www.rigzone.com/news/bkr_rds_ai_and_msft_launch_ai_energy_initiative-02-feb-2021-164500-article/?amp"
+  - title: "SAS Teams With Microsoft To Offer Viya Analytics On Azure"
+    excerpt: "Big data software vendor SAS is making its Viya AI, analytics and data management system available on the Microsoft Azure cloud platform."
+    publishedDateTime: 2021-02-03T01:38:00Z
+    webUrl: "https://www.crn.com/news/applications-os/sas-teams-with-microsoft-to-offer-viya-analytics-on-azure"
     type: article
     provider:
-      name: Rigzone
-      domain: rigzone.com
-    quality: 39
-  - title: "SAS deepens partnership with Microsoft, offers analytics through cloud"
-    excerpt: "Building on a partnership announced with Microsoft in 2020, SAS today disclosed it is offering its analytics platform to customers through Microsoft's cloud known as Azure."
-    publishedDateTime: 2021-02-02T15:01:00Z
-    webUrl: "https://www.wraltechwire.com/2021/02/02/sas-deepens-partnership-with-microsoft-offers-analytics-through-cloud/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 39
+      name: CRN
+      domain: crn.com
+    quality: 54
     images:
-      - url: "https://www.wraltechwire.com/wp-content/uploads/2018/06/158478-sas1-DMID1-5f43ui4wc-640x360.jpg"
-        width: 640
-        height: 360
+      - url: "https://www.crn.com/resources/0266-117c11a50dd5-9301b525dd7b-1000/digital_data_cloud_futuristic_cloud_with_blockchain_technology.jpeg"
+        width: 1500
+        height: 843
+        isCached: true
+  - title: "Talking Medicines Launches AI-Powered Patient Intelligence Platform to Revolutionize Marketing for World’s Leading Drug Brands"
+    excerpt: "Talking Medicines has today (Thursday 4 February) launched an AI-powered social intelligence service, PatientMetRx, giving the world’s leading drug brands insights on patient experience on a scale and depth never previously possible."
+    publishedDateTime: 2021-02-04T11:13:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/science-business-technology-products-and-services-media-1e1bfb36d8944678a13496401aafdf00"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 28
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "AI Applied in Enterprises: Information Architecture, Decision Optimization, and Operationalization"
+    excerpt: "Thomas Schaeck is an IBM Distinguished Engineer at IBM Data and AI, leading Watson Studio on IBM Cloud. On a one-year assignment in the USA in 2013 - 2014, Schaeck led transformation of ..."
+    publishedDateTime: 2021-01-31T15:20:00Z
+    webUrl: "https://www.infoq.com/articles/AI-applied-architecture-decision-optimization/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 25
+    images:
+      - url: "https://res.infoq.com/articles/AI-applied-architecture-decision-optimization/en/headerimage/deploying-ai-in-the-enterprise-big-1611926216131.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Agent Factory announces collaboration with Microsoft to enable Smart Logistics solutions with advanced 3D vision technologies"
+    excerpt: "AGENT FACTORY LTD., based in Israel, announces its collaboration with Microsoft's Azure Depth Platform program, aimed at democratizing"
+    publishedDateTime: 2021-02-04T01:17:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/agent-factory-announces-collaboration-with-microsoft-to-enable-smart-logistics-solutions-with-advanced-3d-vision-technologies-865633482.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 14
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "Shell, C3 AI, Baker Hughes, and Microsoft Launch the Open AI Energy Initiative, an Ecosystem of AI Solutions to Help Transform the Energy Industry"
     excerpt: "Initial Offerings Include AI-Based Reliability Applications to Improve Operational Efficiency for the Energy and Process Industries."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/budget-2021-ai-ml-analytics-ease-compliance-
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/budget-2021-ai-ml-analytics-ease-compliance-burden-check-tax-evasion/amp/"
 type: article
 quality: 71
-heat: 141
+heat: 151
 published: true
 
 provider:
@@ -85,6 +85,20 @@ related:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
+        isCached: true
+  - title: "Strategy Analytics Reveals Research to Maximize Success for AI-Enhanced Product Development"
+    excerpt: "Strategy Analytics today released complimentary research which explores the link between the level of understanding of the buyer journey and the success of AI projects. The report “ Defining the AI Buyer Journey ” clearly shows that both AI vendors and users can succeed through a thorough understanding of customer journeys."
+    publishedDateTime: 2021-02-04T14:32:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-new-products-and-services-68226491913d4cd2a19db72f2d5970c4"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 27
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "SAS Viya delivers innovation and analytics for all"
     excerpt: "Analytics leader SAS continues to innovate by making it easier to access its powerful, cloud-native SAS® Viya® platform. Recent"

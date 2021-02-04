@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/automating-complex-d
 webUrl: "https://aws.amazon.com/blogs/machine-learning/automating-complex-deep-learning-model-training-using-amazon-sagemaker-debugger-and-aws-step-functions/"
 type: article
 quality: 120
-heat: 170
+heat: 180
 published: true
 
 provider:
@@ -98,6 +98,20 @@ related:
       - url: "https://www.cioapplications.com/newstransfer/upload/hvhlh450.jpg"
         width: 450
         height: 308
+        isCached: true
+  - title: "New machine learning and physics-based scoring functions for drug discovery"
+    excerpt: "Scoring functions are essential for modern in silico drug discovery. However, the accurate prediction of binding affinity by scoring functions remains a challenging task. The performance of scoring functions is very heterogeneous across different target classes."
+    publishedDateTime: 2021-02-04T14:20:00Z
+    webUrl: "https://www.nature.com/articles/s41598-021-82410-1"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 37
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-82410-1/MediaObjects/41598_2021_82410_Fig1_HTML.png"
+        width: 685
+        height: 392
         isCached: true
 
 secured: "E1Bz0uhhf6pYmAubCm+XvyFRbnf56n9RywhiF5CihEJkX3XljwEB2kRx4p8LFVFc2OnOXgtz+h9zu2K9WarT9X3+w8T9e+vDSeqZIulcKHeA61OOSrr2XiyOsgY4w5ToAuaqkeV9Ftgk+za/1EuoeUc7bwgeqAMPtfO0MZMmiptQlhoiFOVMSqT+nQptdd2OjAzStFvtOJnShDq/bDLVnolnbcDGvUaFD+JEYshkhx8Z+xUFXs29Eti8RS99HQcIdsvUD/TBixGr63mH/Lfm1ZYKu4uqIz8CnwotirzGvJSPWKff7F0FkgPS5uqToxR5nXzinAm/ZC85GgfWQj+IFeE5PqDUFX7XTSigsZHjxDo=;XDnjfPlZOqTM0z7IQcALLw=="

@@ -94,6 +94,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "New machine learning and physics-based scoring functions for drug discovery"
+    excerpt: "Scoring functions are essential for modern in silico drug discovery. However, the accurate prediction of binding affinity by scoring functions remains a challenging task. The performance of scoring functions is very heterogeneous across different target classes."
+    publishedDateTime: 2021-02-04T14:20:00Z
+    webUrl: "https://www.nature.com/articles/s41598-021-82410-1"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 37
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-82410-1/MediaObjects/41598_2021_82410_Fig1_HTML.png"
+        width: 685
+        height: 392
+        isCached: true
 
 secured: "84xM517zWRnefbnZP01K9SJSXL4MAoRPsKcBCewJ0pzRROuwOVz8GYEGrhDIxxQGM3zaOE2S2KiRxPcn4AuL05oQ0PsIbbCz90kbkypUHJRlvEA1lKrWsrup8rOt9PsmXu5on573mxEbkW6I6nu+iSeezuPFWsyn50Rx1enGbbR404XtAVT6KrAW1nxaFmxcjPFJTHs4YoXLjy+HMa3ZU8dxtdlD6GQg+tJOBG7CqSW2XXbLHnbPIFyg7OO+TT1mCOdf0vJel8p+OFCUzGDHEKgQu+Dbp5PFLGTWscjTkMtr+oDAYeHE/lvz1KptPI++0CXZO2Cg06iJK4/K8zilG72KCG9fWF68xwyFt7pcpp4=;opqIpN2EkhF4MuiefPFD6Q=="
 ---

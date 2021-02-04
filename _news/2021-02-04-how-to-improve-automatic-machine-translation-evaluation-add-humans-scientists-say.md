@@ -68,20 +68,6 @@ related:
       name: inc42.com
       domain: inc42.com
     quality: 43
-  - title: "AI Applied in Enterprises: Information Architecture, Decision Optimization, and Operationalization"
-    excerpt: "Thomas Schaeck is an IBM Distinguished Engineer at IBM Data and AI, leading Watson Studio on IBM Cloud. On a one-year assignment in the USA in 2013 - 2014, Schaeck led transformation of ..."
-    publishedDateTime: 2021-01-31T15:20:00Z
-    webUrl: "https://www.infoq.com/articles/AI-applied-architecture-decision-optimization/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 25
-    images:
-      - url: "https://res.infoq.com/articles/AI-applied-architecture-decision-optimization/en/headerimage/deploying-ai-in-the-enterprise-big-1611926216131.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "J1WLGYu3a2In6FBb2VWx0h+9JvkFHQ3K+JXi87Rw1boIkWLdnulG7scKvu9+itwQHYUoWak3VbnmkBeK0Jib7AupEGW/NZT72T5T8y+oZWaAgJuDVb/Aht0qbP+Ooqz8ID6bbxwRVfU7Vu4jp0b619ca/khfiJggn7TuaV8VgN0unyfmpwI2uxJna1vYEMCq+ZH8MhldP3Wn/pF+qMQ07IVgZYzDsIeCLd0G/ZOJTGytmE+N5fQioqZXbOVOZahj9yJbrbRRJiWEPWk+ACmP97aa1mUaXttV8tHuFC6FmdOuhsEMz7Pd1WMx64U8+ttVRtTYRauGbQBXrULz+n3vxRw1rz+sNeSD8f3JY/c7GYHVLwzsinbgKW8ttFxIsLd6KHt8LFZcDwnHKLvrcaULsSqOCCcidHh6cFb8rNAi5NnTFGaimjyLfHE6v8anrWJjyMfHYTpZk8FbeCpc4DGy5MEFiNY4C904ADpfxHnXkFRalkSRqdOgsis7cfJuRwbvhcAtxkL4JJq3xLjtEjumfA==;cR8SPhz655J+0xtEFbrsuQ=="
 ---

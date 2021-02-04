@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Nuance Dragon Medical One Earns #1 Best in KLAS Award for Speech Recognition: Front-End EMR"
-excerpt: "Nuance Communications, Inc. (NASDAQ: NUAN) today announced that Nuance Dragon® Medical One cloud-based speech recognition platform captured"
+excerpt: "Nuance Communications, Inc. today announced that Nuance Dragon ® Medical One cloud-based speech recognition platform captured top honors as the 2021 Best in KLAS: Software& Services award winner, earning praise from clinicians as the #1 conversational AI speech recognition solution helping deliver and document better patient care."
 publishedDateTime: 2021-02-02T13:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/nuance-dragon-medical-one-earns-1-best-in-klas-award-for-speech-recognition-front-end-emr-301219608.html"
-webUrl: "https://www.prnewswire.com/news-releases/nuance-dragon-medical-one-earns-1-best-in-klas-award-for-speech-recognition-front-end-emr-301219608.html"
+originalUrl: "https://www.nasdaq.com/press-release/nuance-dragon-medical-one-earns-1-best-in-klas-award-for-speech-recognition%3A-front"
+webUrl: "https://www.nasdaq.com/press-release/nuance-dragon-medical-one-earns-1-best-in-klas-award-for-speech-recognition%3A-front"
 type: article
-quality: 29
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/1156940/Nuance_Communications_Logo.jpg?p=facebook"
-    width: 1500
-    height: 785
-    isCached: true
 
 related:
   - title: "Safari turns on ‘Speech Recognition’ by default Tech Preview of release"
@@ -100,6 +94,6 @@ related:
         height: 450
         isCached: true
 
-secured: "YtO1mtv+zRjCVC0E3mN6/jGN87NT5BtqCBr7JTfvgyubNTZwtQptquvb4HoMvCTzNT2Rx8QVw9UJMs+jUmRdu4/AEzWBBFszzgUJD2aIRQQmJ0OThZkdbkGOw9owiMvhNP2YyokEukmRhguea3ELzqOPtl2JGJ0qVuicidDzLhg3RtgBOMeD9hKcyTFF2v6YTK1AkU0i7/27gMdekcNbAPn8iJG+M++esQvUqwZ0xLSGgauCztrCQC6q3p2gV5oyWkRBH705gSPpxuP4ppVxi2TNqb7UhbZhF/lN7XO2jttp8srWCRpF8fGJIHuch/igJ1V/uoiQXyN4QfXACXx1SCDg1RfK2ky2aBu90eMHjSQ=;YBJeZSSHoFaVZUNC5zQ5sg=="
+secured: "XjHHCkIaznUo6dTe7kxPJFgX80NFSm6L4EUOPqn0MU66fKlO6vgYjjHMyvIRKZEz3l9KVptZsF/MUu3SBznySQBQ9RXnoEfkP+8Qnv0iieFcC3RqvAKg2Wqv3OJIeoH7cTan+xy43GG/nQH9qI9GQtezQCIjVfWewKDubl7Wdj1hYBRFQ8PCPL+uSlCCfuIFn84BXzZirOXjVRCCADNDB2+L8Eqpc6vsWcx2rMzIuGQB0GEhykDfIm09b6PR89hP3D+2USCI/L+/xtmuiI1X9/d4u5YuVZm1SjCeKVJ//3ftC+iciCQyRLx25xtC0Yk6khZrJMPoeqNyp8qFV9wn+NLQEhd0rgUk3XLFpOPwhLA=;4uGlLnqTrIEMXvs9S1GACw=="
 ---
 

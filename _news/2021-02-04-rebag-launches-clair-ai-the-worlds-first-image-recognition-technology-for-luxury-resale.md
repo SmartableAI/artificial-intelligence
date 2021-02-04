@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 1016
         isCached: true
+  - title: "Rebag adds artificial intelligence tool that instantly prices luxury handbags for resale"
+    excerpt: "An app called Clair helps sellers recognize the handbag and set prices in which company Rebag will offer to buy."
+    publishedDateTime: 2021-02-04T13:47:00Z
+    webUrl: "https://www.bizjournals.com/bizwomen/news/latest-news/2021/02/rebag-adds-artificial-intelligence-tool-to-instant.html?page=all"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 8
 
 secured: "PBer41tRYIJvnpy6PPFcHJ96VHTJiRkoR0doVW26YbwTModwNnu1xNFZn1bgqJzxGA/tjr8DnmXTK2FQHHR1WID6vHgCfPXnxKLXC+AkgugzR7fBMR+uSlB8y0G56V/JFxpuzUDkJeYNvVJbOuT43cU5u0wHM3Kdbr6lF92SkVRZYIKL4P01IDzSH4jh4NxVXOw+0BNYUidukTB/OlzJ7n0f9YL3tY8xyUvHOrgYnuxlHUB54QZpYtEMPU9CcauPcYhdSNmrYtdE2x6ljN1+e6vJSTsQ1HeU7wdo9jtex664/uPTKg+4p24dKU7pImCzfT4CHE8MIitwEVjCVlvQqmL9mFtaB4a3zVAWIINdHt0=;7zntD19LS7QRv5hG21a7NA=="
 ---
