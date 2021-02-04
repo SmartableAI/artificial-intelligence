@@ -2,45 +2,51 @@
 category: news
 title: "EPCC Selects Cerebras Systems AI Supercomputer to Rapidly Accelerate AI Research"
 excerpt: "Cerebras Systems, the pioneer in high performance artificial intelligence (AI) compute, and EPCC, the supercomputing centre at the University of Edinburgh, today announced the selection of the world’s fastest AI computer,"
-publishedDateTime: 2021-02-03T17:22:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/science-technology-genomics-scotland-coronavirus-pandemic-4ede3df1dab34c3eb5ba7c05b1ef2b04"
-webUrl: "https://apnews.com/press-release/business-wire/science-technology-genomics-scotland-coronavirus-pandemic-4ede3df1dab34c3eb5ba7c05b1ef2b04"
+publishedDateTime: 2021-02-03T22:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210203005062/en/EPCC-Selects-Cerebras-Systems-AI-Supercomputer-to-Rapidly-Accelerate-AI-Research"
+webUrl: "https://www.businesswire.com/news/home/20210203005062/en/EPCC-Selects-Cerebras-Systems-AI-Supercomputer-to-Rapidly-Accelerate-AI-Research"
 type: article
-quality: 36
+quality: 14
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - AI Hardware
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
+  - AI
 
 related:
-  - title: "EPCC Bets on Cerebras CS-1 to Boost AI Capabilities in EDIF Buildout"
-    excerpt: "EPCC, the supercomputing center at the University of Edinburgh, today announced plans to deploy a combination HPE/Cerebras system in its growing Edinburgh"
-    publishedDateTime: 2021-02-03T17:07:00Z
-    webUrl: "https://www.hpcwire.com/2021/02/03/epcc-bets-on-cerebras-cs-1-to-boost-ai-capabilities-in-edif-buildout/"
+  - title: "Wafer-Scale Chip to Power AI Supercomputers"
+    excerpt: "Wafer-scale AI chip startup Cerebras will supply its technology to EPCC, the supercomputing center at the University of Edinburgh, UK. The new hardware, designed specifically to accelerate huge AI workloads,"
+    publishedDateTime: 2021-02-04T02:16:00Z
+    webUrl: "https://www.eetindia.co.in/wafer-scale-chip-to-power-ai-supercomputers/"
+    ampWebUrl: "https://www.eetindia.co.in/wafer-scale-chip-to-power-ai-supercomputers/amp/"
+    cdnAmpWebUrl: "https://www-eetindia-co-in.cdn.ampproject.org/c/s/www.eetindia.co.in/wafer-scale-chip-to-power-ai-supercomputers/amp/"
     type: article
     provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 39
+      name: eetindia.co.in
+      domain: eetindia.co.in
+    quality: 74
     images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/Cerebras-CS-1-cropped.jpg"
-        width: 640
-        height: 479
+      - url: "https://www.eetindia.co.in/wp-content/uploads/sites/4/2021/02/Cerebras_WLC.jpg"
+        width: 1024
+        height: 849
         isCached: true
+  - title: "Waferscale Makes Further AI Supercomputing Inroads"
+    excerpt: "The battle for HPC centers and national labs is underway among the leading AI chip startups in the high-end datacenter space (Graphcore, Cerebras, and"
+    publishedDateTime: 2021-02-03T17:00:00Z
+    webUrl: "https://www.nextplatform.com/2021/02/03/cerebras-makes-further-ai-supercomputing-inroads/"
+    ampWebUrl: "https://www.nextplatform.com/2021/02/03/cerebras-makes-further-ai-supercomputing-inroads/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/02/03/cerebras-makes-further-ai-supercomputing-inroads/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 41
 
-secured: "OV6zFwDfoVKdnbJ7c5nrHDYOPhY5KvZonoBpYi9PXAjD5xaaQa4LAYFZkZi1bwRgFs33FYEbTjipqpDDBFkUt0hPnFtk9eh+DeRceDgkyw838dsbjUa5KfuTs531UXmyKUlR4mfd98Z4Aj3Lxd4sWyCdT/0bgAxROMbVgIE4gnuNl3ikQZd9CkfbtZ3ERm5jZe7Y+cnszqHF/mbXt9V4IAKoK9ime6J4eJFxzTIweE4ajJEsnGhs66GB/iywhi+/9gql1MnBmvlu7gdnLIpJfyxKhKbT11t0bVvoETAhxSNpsYXLt5QBnAf52ZhImIJGoVVCHUZQDddZdf58DTvCQKFdy3/67VNlIXyX5NGAjoE=;QhcaQb6B7ghnx7DcY041LA=="
+secured: "O0cl+yVVydqwGdkFDr7uHoX2CavB9L8HqL+7pFBfWia65DW+Yfn9OJQF9+ZXFsF51TDgBE8wb6ze7R2D7Jin5ZLSSydvtF+0Rl6fxYchnitNGo/rVjhQgW4TKeBtH2vvSEbvisHzMSgD/u/txF2ETgoVC4rka/A8fGwXDyJeTlQdbQZD4OhvhHhDuAho2/Jj8HMesUQ8Bf8Gyayvtk2oAJzIfLqy6k4HZjev2eeEjtRiTvMxjq78F1fNArVnBpHe5reGvyEcDEEs1pu9J8s8NJBO6PI7cp4YHaHC9+KI16fO5f3hptL4TvmzRujGiT+vTD/FmOBaYMzglb+sFVummgaAx5MRZ8w3Qd5nAnseN1k=;s1lA1BUUUPabDEg0OCBbPg=="
 ---
 

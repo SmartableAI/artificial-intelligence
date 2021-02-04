@@ -8,8 +8,8 @@ webUrl: "https://www.business2community.com/strategy/how-machine-learning-is-enh
 ampWebUrl: "https://www.business2community.com/strategy/how-machine-learning-is-enhancing-fraud-detection-02383902/amp"
 cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/strategy/how-machine-learning-is-enhancing-fraud-detection-02383902/amp"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://cdn.business2community.com/wp-content/uploads/2021/02/unnamed-1.png"
@@ -26,6 +27,6 @@ images:
     height: 326
     isCached: true
 
-secured: "V4b/dbGJ3FEt7268WTqdVoBBXAhs4QjclobGyRtrU+6G6sPtjDeq5SENikx4oGCtwPJ34+nLV28WOC9R1bcmbGxceDfSyiDMeavHjiGt3CDYqFI+6MxOmVmKtjapPHBecGVyLWzXP9zugO58jmONc+8fllB1WEVht0+/lZl7Z6XT2sr8jss5VitGvmkJZtHtf96S79cUsCAuwoXvAcMpHuRmWGSksWa+n8Vzgk5dz6wwxYSifJS4Iz+gxgnArK/RdiIh3GA8pa+eWbDC9K9b7WxjCTCJYW85AmmBBOCBK4lIl7VZnmZh/dbb0trYm1kOr0yTBxscu36dZd/b10P+vke71C2BoDOPpfZr5FVoAiE=;WqdR49CHlR6h6U39dlOZ3w=="
+secured: "zHLUgi4LXVpW7yjfUmjlUJB+YomL/Jv4FB3vUzPYSbhXspePvJqlZ5OLLHj6TPfuZlRfdFEh2CYiPDZrh8035+9gdwVhYpupGPJIrxcBm1kwP4XJQt2QclZwL5cfalWMTe2FmpqytsTelbhUIoixwxt3js4RyX6KpRnBCaMelaO61Og+FcD/DXrjx9QG4IR+OCWWaC3zUxBIT+WOnsXeUP2kqbE68DTVs77DNQKd8R3U/aVwztTlQrok7PXDlOYh34W3DM/Mfn8vG7sg9CladF7Ngy0ZtdTWEx/F+dbZhviix7upr3e4l8bs1RnAb+azCDsModH/CqTS0ggjVa4raMSVAbUvSKKIUzMCphGiS35GywAyAOr2ZQ9fq5dyWf8r/3yC8drI9KFmkTc2Xcd37Yglvv+8tD8Dogne7IUYKrLGiINSQxu/lSKOKG199/J2ffL3xC8L8KGcVCTegzm/t+0MUcbLLTbyRHjq4zytni+h8/JmavzrtSfDfHgybuoGc5a0/nBIKaTEb+hPA02RPQ==;OhAiPS9rlpg7VfuGMcc+QA=="
 ---
 

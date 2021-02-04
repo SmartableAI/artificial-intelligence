@@ -2,6 +2,186 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-01-29-firm-leverages-artificial-intelligence-to-help-retailers.md",
+      "title": "Firm leverages artificial intelligence to help retailers",
+      "excerpt": "Southwest Florida startup has big plans to make progress with major retailers, using advanced technology to solve an age-old problem.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessobserverfl.com/article/firm-leverages-artificial-intelligence-to-help-retailers",
+      "originalUrl": "https://www.businessobserverfl.com/article/firm-leverages-artificial-intelligence-to-help-retailers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.businessobserverfl.com/sites/default/files/323677_standard.jpeg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessobserverfl.com/article/firm-leverages-artificial-intelligence-to-help-retailers?amp",
+      "cdnAmpWebUrl": "https://www-businessobserverfl-com.cdn.ampproject.org/c/s/www.businessobserverfl.com/article/firm-leverages-artificial-intelligence-to-help-retailers?amp",
+      "publishedDateTime": "2021-01-29T03:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Observer",
+        "domain": "businessobserverfl.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-top-5-fintech-trends-that-will-shape-financial-markets-in-2021.md",
+      "title": "Top 5 Fintech Trends That Will Shape Financial Markets in 2021",
+      "excerpt": "The popularity of fintech has spiked in recent times. Here's how FinTech will shape the global financial market in 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/362981",
+      "originalUrl": "https://www.entrepreneur.com/article/362981",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1611768140-GettyImages-1180543383.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/362981",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/362981",
+      "publishedDateTime": "2021-01-29T02:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-robot-empowerment-a-viable-alternative-to-asimovs-three-laws-of-robotics.md",
+      "title": "Robot empowerment - a viable alternative to Asimov's three laws of robotics?",
+      "excerpt": "Human-robot interaction is upon us - we're in dire need of a framework that makes sense. Asimov's three laws of robotics are one model, but is it applicable to today's robots? An alternative based on robot \"empowerment\" is worth a close look.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/robot-empowerment-viable-alternative-asimovs-three-laws-robotics",
+      "originalUrl": "https://diginomica.com/robot-empowerment-viable-alternative-asimovs-three-laws-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2019-06/shutterstock-pathdoc-1076106332.jpg",
+          "width": 740,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/robot-empowerment-viable-alternative-asimovs-three-laws-robotics?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/robot-empowerment-viable-alternative-asimovs-three-laws-robotics?amp",
+      "publishedDateTime": "2021-01-29T02:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-machine-learning-tool-may-streamline-or-scheduling.md",
+      "title": "Machine Learning Tool May Streamline OR Scheduling",
+      "excerpt": "The use of a machine learning model may aid in accurately predicting surgical procedure time, according to the results from a randomized clinical trial. Researchers found that improving planned surgery duration accuracy reduced the use of presurgical resources,",
+      "sourceUrl": null,
+      "webUrl": "https://www.physiciansweekly.com/machine-learning-tool-may-streamline-or-scheduling/",
+      "originalUrl": "https://www.physiciansweekly.com/machine-learning-tool-may-streamline-or-scheduling/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.physiciansweekly.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.physiciansweekly.com/machine-learning-tool-may-streamline-or-scheduling/amp/",
+      "cdnAmpWebUrl": "https://www-physiciansweekly-com.cdn.ampproject.org/c/s/www.physiciansweekly.com/machine-learning-tool-may-streamline-or-scheduling/amp/",
+      "publishedDateTime": "2021-01-29T01:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Too Old to Operate",
+        "domain": "physiciansweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-29-bitscape-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization.md",
       "title": "Bitscape Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization",
       "excerpt": "Jan 29, 2021-- Bitscape today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge, extensive experience and expertise in migrating Windows Server and SQL Server-based workloads to Azure.",
@@ -727,6 +907,49 @@
       ]
     },
     {
+      "path": "_news/2021-01-29-kitovai-combines-3d-coverage-intelligent-robotic-planner-and-deep-learning-for-kitov-smart-visual-inspection-solutions.md",
+      "title": "Kitov.ai Combines 3D coverage, Intelligent Robotic planner and Deep Learning for KITOV Smart Visual Inspection Solutions",
+      "excerpt": "Israeli-based smart visual inspection company Kitov.ai introduces its KITOV ONE inspection system to North America. A novel, hybrid approach combining 3D image acquisition",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/kitov-ai-combines-3d-coverage-intelligent-robotic-planner-and-deep-learning-for-kitov-smart-visual/article_75cdefe6-3ac5-51e4-9b64-1ce901e20d1f.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/kitov-ai-combines-3d-coverage-intelligent-robotic-planner-and-deep-learning-for-kitov-smart-visual/article_75cdefe6-3ac5-51e4-9b64-1ce901e20d1f.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-28T12:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-29-facial-recognition-now-used-for-border-screenings-at-msp-airport.md",
       "title": "Facial recognition now used for border screenings at MSP Airport",
       "excerpt": "St. Paul International Airport from other countries can now choose to go through border control using facial recognition scanners. U.S. Customs and Border Protection announced on Wednesday that \"Simplified Arrival\" is now available at both MSP Airport terminals for international arrivals.",
@@ -957,248 +1180,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-scientists-develop-ai-powered-puff-technology-to-help-smokers-quit.md",
-      "title": "Scientists develop AI-powered ‘puff technology’ to help smokers quit",
-      "excerpt": "The onboard computer for e-cigs is designed to help people quit by predicting when they'll next crave a nicotine hit.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/01/28/scientists-develop-ai-powered-puff-technology-to-help-smokers-quit/",
-      "originalUrl": "https://thenextweb.com/neural/2021/01/28/scientists-develop-ai-powered-puff-technology-to-help-smokers-quit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/Untitled-design-2021-01-28T130539.375-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/01/28/scientists-develop-ai-powered-puff-technology-to-help-smokers-quit/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/28/scientists-develop-ai-powered-puff-technology-to-help-smokers-quit/amp/",
-      "publishedDateTime": "2021-01-28T09:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-baidu-gets-california-nod-for-testing-driverless-vehicles-on-sunnyvale-streets.md",
-      "title": "Baidu gets California nod for testing driverless vehicles on Sunnyvale streets",
-      "excerpt": "Baidu is the sixth company to have a permit to test without a driver behind the wheel. The permit allows it to test three autonomous vehicles on specified streets within Sunnyvale.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mercurynews.com/2021/01/28/baidu-gets-california-nod-for-testing-driverless-vehicles/",
-      "originalUrl": "https://www.mercurynews.com/2021/01/28/baidu-gets-california-nod-for-testing-driverless-vehicles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mercurynews.com/wp-content/uploads/2021/01/Baidu.jpg?w=1024&h=640",
-          "width": 1024,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mercurynews.com/2021/01/28/baidu-gets-california-nod-for-testing-driverless-vehicles/amp/",
-      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/28/baidu-gets-california-nod-for-testing-driverless-vehicles/amp/",
-      "publishedDateTime": "2021-01-28T08:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mercury News",
-        "domain": "mercurynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-new-global-rackspace-technology-study-uncovers-widespread-artificial-intelligence-and-machine-learning-knowledge-gap.md",
-      "title": "New Global Rackspace Technology Study Uncovers Widespread Artificial Intelligence and Machine Learning Knowledge Gap",
-      "excerpt": "Rackspace Technology™ (NASDAQ: RXT), a leading end-to-end, multicloud technology solutions company today announced the results of a global survey that reveals that the majority of organizations globally lack the internal resources to support critical artificial intelligence (AI) and machine learning (ML) initiatives.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/new-global-rackspace-technology-study-uncovers-widespread-artificial-intelligence-and-machine-learning-knowledge-gap-1030016221",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/new-global-rackspace-technology-study-uncovers-widespread-artificial-intelligence-and-machine-learning-knowledge-gap-1030016221",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/New-Global-Rackspace-Technology-Study-Uncovers-Widespread-Artificial-Intelligence-and-Machine-Learning-Knowledge-Gap-1030016221",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/New-Global-Rackspace-Technology-Study-Uncovers-Widespread-Artificial-Intelligence-and-Machine-Learning-Knowledge-Gap-1030016221",
-      "publishedDateTime": "2021-01-28T08:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-microsoft-playfab-grows-ninefold-in-3-years.md",
-      "title": "Microsoft’ PlayFab grows ninefold in 3 years",
-      "excerpt": "Microsoft's PlayFab division said today that its monthly active users grew nearly nine times since the software giant acquired it.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/28/microsoft-playfab-grows-ninefold-in-3-years/",
-      "originalUrl": "https://venturebeat.com/2021/01/28/microsoft-playfab-grows-ninefold-in-3-years/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/playfab-main.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/28/microsoft-playfab-grows-ninefold-in-3-years/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/28/microsoft-playfab-grows-ninefold-in-3-years/amp/",
-      "publishedDateTime": "2021-01-28T08:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-graphic-processing-unit-gpu-market-size-to-hit-usd-19877-billion-by-2027.md",
-      "title": "Graphic Processing Unit (GPU) Market Size to Hit USD 198.77 Billion by 2027",
-      "excerpt": "The global graphic processing unit (GPU) market is poised to grow at a compound annual growth rate (CAGR) 33.4% during the forecast period 2020 to 2027. Graphics Processing Unit (GPU) also referred as visual processing unit is mainly a computer chip that performs rapid mathematical calculations,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/graphic-processing-unit-gpu-market-size-to-hit-usd-19877-billion-by-2027-2021-01-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/graphic-processing-unit-gpu-market-size-to-hit-usd-19877-billion-by-2027-2021-01-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-28T07:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

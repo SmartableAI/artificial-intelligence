@@ -1,19 +1,19 @@
 ---
 category: news
-title: "Baidu gets California nod for testing empty self-driving cars"
-excerpt: "Baidu Inc has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor Vehicles said on Wednesday."
-publishedDateTime: 2021-01-28T02:37:00Z
-originalUrl: "https://www.reuters.com/article/us-baidu-autonomous-idUSKBN29W2OT"
-webUrl: "https://www.reuters.com/article/us-baidu-autonomous-idUSKBN29W2OT"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29W2OT"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29W2OT"
+title: "Baidu Gets California Nod for Testing Empty Self-Driving Cars"
+excerpt: "Baidu Inc has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor Vehicles said on Wednesday. Although self-driving vehicles are designed to eliminate the need for a driver,"
+publishedDateTime: 2021-01-28T09:25:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2021-01-27/baidu-gets-california-nod-for-testing-driverless-vehicles"
+webUrl: "https://www.usnews.com/news/technology/articles/2021-01-27/baidu-gets-california-nod-for-testing-driverless-vehicles"
+ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-01-27/baidu-gets-california-nod-for-testing-driverless-vehicles?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-01-27/baidu-gets-california-nod-for-testing-driverless-vehicles?context=amp"
 type: article
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -21,12 +21,6 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210127&t=2&i=1549286737&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0Q1KU"
-    width: 817
-    height: 545
-    isCached: true
-
-secured: "vgDHAYZJkPd1aSFyM2G6xiwfqoUZoDUsIIyPJ5yN2EEcsa3dRQCXPqeiVQ6N4NHyecJYxePQ3rw6pvisuYywIE7thcjww6hBO9+bfWn+dOWWX8A42E7Y+ysi/bsqoQzwBG1STUYZzHEY8lhZNYCZ2LlC31fOGdFmLSCi/7AS65Q922n5CUOujT/3yJVMNHVIdUJeqb3xa7klcRVeCgfvRYQV0DxWhFK8IGufSYpMXt3N0Vf+wahA/WVn4c/NdomLWoiIXsEbEyHfGN1WeYc1hyPevROcWZAlomfbrxPaGa2MtoU2s+RXT/SwJAk7G3SP2e0gJHfN5WrZuruR5stgegGJRBbkNh/g+9uOpJBVgvImQo9uHmgouhyRVTKP7ofA/EQkC73gt3uzeTKUIhSSdtDRMLPBxeVSBoyQRg97036E+m3VKzmJfElqMcz+R1pl7jyX/4SGqHNe4NXQikfM0UajvKuDAbUy7rXFifxfqoLuDb6G3i2ml2HHIunkXcbt3MMrmJxGffzCPNGzI0hEHA==;Sd/E/iN85B5jYojyb0HN0g=="
+secured: "4KvH2CmP7R5K9uSSY4mn5YHm8X/4x/gZ/xSz3/M7/n10KT6y91y2Cgt5gLS/AUIX9TpZEq+rtXs85mumiPMgXjwIHMO8GMG4I/W1g8I/l2NLH3rw8t/R02XlV6QKEzUcHzeJW44fApT1vtzXz7A7t8gkUF2AYRCLrMxivWAYJjl23pfqbZLTCY6VimqycolhLwxywt9hrHcrEjL0Yo8iE8iehvupV8Euq9tIrAjN7wKpj1N7I8HI4/KUOsUDvt2k9ZJ8wzA+Vd6WIvYnfgM4PLTYE7oJ3mRL/ssJQy+TviYhXOQyUp3KRBlIRiRg0vGxhc1pIY25hrCmmvgQ5J1Ir1Ba5z6tiTorqmYv4ZPvtV03mLNT+2/kKqU5O2CW4r1A3h02AqmnNBi+fS5GQeCNKb51MEN2glvkT1HL/kQGc64eo/RFvzYHg59roTARRNXschkYE+1dXGt3BnPprlInL/grZzuNX4NMSBcHalNS5NXW782NyhieNUN8hnYOQhush5Y80+E58qaz2wpJeSKVvw==;eqRqAvMfvXepMsBQVUzGag=="
 ---
 

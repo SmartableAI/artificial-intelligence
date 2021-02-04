@@ -2,6 +2,92 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-20-amax-accelerates-next-gen-ai-computing-with-nvidia-a100-gpu-test-drive-program.md",
+      "title": "AMAX Accelerates Next-Gen AI Computing With NVIDIA A100 GPU Test Drive Program",
+      "excerpt": "AMAX ’s HPC and AI Solutions Group announced the launch of its NVIDIA A100 GPU Test Drive program for customers to accelerate their most demanding analytics, high-performance computing (HPC), inference,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-data-storage-3cfb8acd4b64bb1d4213688771d593b4",
+      "originalUrl": "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-data-storage-3cfb8acd4b64bb1d4213688771d593b4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-20T06:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro.md",
+      "title": "Supermicro Unveils NVIDIA GPU Server Test Drive Program with Leading Channel Partners to Deliver Workload Qualification on Remote Supermicro Servers",
+      "excerpt": "GPU or 4U HGX A100 8-GPU Systems Through Channel Partners – EMEA: Boston and Broadberry; North/Latin America: Colfax, Exxact, Microway, Thinkmate, and AMAX – Enabling Fast-track Testing of Industry-Leading Platforms SAN JOSE,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-1029986600",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-1029986600",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-1029986600",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-1029986600",
+      "publishedDateTime": "2021-01-20T06:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-20-ai-startup-alphaics-raises-8-million-in-series-b-funding.md",
       "title": "AI-startup AlphaICs raises $8 million in Series B funding",
       "excerpt": "The funding was led by Endiya Partners and Emerald Technology Ventures.The startup will use the funds to develop the software stack and to build system solutions for its target markets",
@@ -1326,83 +1412,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-grai-matter-labs-introduces-grai-vip-vision-inference-processor-to-bring-fastest-ai-to-the-edge-at-ces-2021.md",
-      "title": "GrAI Matter Labs introduces GrAI VIP, Vision Inference Processor to bring Fastest AI to the Edge, at CES 2021",
-      "excerpt": "GrAI Matter Labs, a pioneer of brain-inspired ultra-low latency computing, announced today that it would be introducing GrAI VIP, Vision Inference Pro",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210111005733/en/GrAI-Matter-Labs-introduces-GrAI-VIP-Vision-Inference-Processor-to-bring-Fastest-AI-to-the-Edge-at-CES-2021",
-      "originalUrl": "https://www.businesswire.com/news/home/20210111005733/en/GrAI-Matter-Labs-introduces-GrAI-VIP-Vision-Inference-Processor-to-bring-Fastest-AI-to-the-Edge-at-CES-2021",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-11T11:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-hybrid-chips-can-run-ai-on-battery-powered-devices.md",
-      "title": "Hybrid chips can run AI on battery-powered devices",
-      "excerpt": "Smartwatches and other battery-powered electronics would be even smarter if they could run AI algorithms. But efforts to build AI-capable chips for mobile",
-      "sourceUrl": null,
-      "webUrl": "https://scienceblog.com/520448/hybrid-chips-can-run-ai-on-battery-powered-devices/",
-      "originalUrl": "https://scienceblog.com/520448/hybrid-chips-can-run-ai-on-battery-powered-devices/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scienceblog.com/wp-content/uploads/2021/01/Illusion-art-960x640-1.jpg",
-          "width": 960,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://scienceblog.com/520448/hybrid-chips-can-run-ai-on-battery-powered-devices/amp/",
-      "cdnAmpWebUrl": "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/520448/hybrid-chips-can-run-ai-on-battery-powered-devices/amp/",
-      "publishedDateTime": "2021-01-11T09:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ScienceBlog",
-        "domain": "scienceblog.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

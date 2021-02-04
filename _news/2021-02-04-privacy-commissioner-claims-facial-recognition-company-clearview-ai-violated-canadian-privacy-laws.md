@@ -35,7 +35,7 @@ related:
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://static01.nyt.com/images/2021/02/03/business/03Clearview-01/merlin_153962745_f3eb3cf6-5fce-4616-931e-683e7a2809b8-facebookJumbo.jpg"
         width: 1050

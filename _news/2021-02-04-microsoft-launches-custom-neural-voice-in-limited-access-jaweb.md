@@ -91,20 +91,6 @@ related:
         width: 605
         height: 500
         isCached: true
-  - title: "Shell, C3 AI, Baker Hughes, and Microsoft Launch the Open AI Energy Initiative, an Ecosystem of AI Solutions to Help Transform the Energy Industry"
-    excerpt: "Baker Hughes (NYSE:BKR), and Microsoft (NASDAQ:MSFT) today announced the launch of the Open AI Energy Initiative™ (OAI),"
-    publishedDateTime: 2021-02-02T11:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/shell-c3-ai-baker-hughes-and-microsoft-launch-the-open-ai-energy-initiative-an-ecosystem-of-ai-solutions-to-help-transform-the-energy-industry-2021-02-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "BKR, RDS, AI and MSFT Launch AI Energy Initiative"
     excerpt: "C3 AI (NYSE: AI), and Microsoft (NASDAQ: MSFT) have announced the launch of the Open AI Energy Initiative. Baker Hughes (NYSE: BKR), Shell (NYSE: RDS), C3 AI (NYSE: AI), and Microsoft (NASDAQ: MSFT) have announced the launch of the Open AI Energy Initiative (OAI),"
     publishedDateTime: 2021-02-02T11:38:00Z
@@ -130,6 +116,15 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Shell, C3 AI, Baker Hughes, and Microsoft Launch the Open AI Energy Initiative, an Ecosystem of AI Solutions to Help Transform the Energy Industry"
+    excerpt: "Initial Offerings Include AI-Based Reliability Applications to Improve Operational Efficiency for the Energy and Process Industries."
+    publishedDateTime: 2021-02-02T03:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210201005886/en/Shell-C3-AI-Baker-Hughes-and-Microsoft-Launch-the-Open-AI-Energy-Initiative-an-Ecosystem-of-AI-Solutions-to-Help-Transform-the-Energy-Industry"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "4eGBFssrddiPJmY6Dr2WJwOc7irkMSb73e9kTJ8/SSKJrfrsGqjT1MJan1ygm0sbDQlwb1+gooXbr5jZCg5dpDENi+jn7nrhUgm1Lt74lS75RYJqciEKz3Nly7lrUOuN8Ynp0k3vDWMOTbIJzDDDgNJikIensa1JsQk18XMom+TOIA/A8aLl6SLhVxEhOkYFke7/yq8RKLaVh+V1HVPYUMRbfDh5seB2y5mWgXup5fQzvO2MzkXxKzPOkOaxft/Jv5NOzaGc54AyQPAyFCaQVoYb8oEZRazEWXyyBtnx4eSC57JWVRmrc4bbzP9soka/10o8Ivsnx1PC1TeYoA/J4F/gIT7UrnoK1ZSD1IH42+uD2erI/HvJ8TFRdf2HzTDftQsRDCXx3lkI0K6GrXaSL6sDysnV3dxrHMfqMvcNywe0akBpvZVRfcylo9qQseHH9hvoHAkIqFbdFvp10/rAPjdStsdNwaLnL9suIMFk9E77GD8CVzcQEjDBbc1TPVS+FYX0R9aAaS/msLxvsjfFEw==;zI96X9vNYWgxFf01ybTNNA=="
 ---

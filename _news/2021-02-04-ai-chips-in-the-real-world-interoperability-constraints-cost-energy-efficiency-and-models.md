@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/ai-chips-in-the-real-world-interoperabili
 ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-chips-in-the-real-world-interoperability-constraints-cost-energy-efficiency-and-models/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-chips-in-the-real-world-interoperability-constraints-cost-energy-efficiency-and-models/"
 type: article
-quality: 81
-heat: 81
+quality: 98
+heat: 98
 published: true
 
 provider:
@@ -25,6 +25,7 @@ topics:
   - AI
   - Google AI
   - Natural Language Processing
+  - AI Hardware
 
 images:
   - url: "https://zdnet4.cbsistatic.com/hub/i/2018/12/31/e6b87307-59d1-4f26-89cd-e0e38f2026b4/hybrid.jpg"

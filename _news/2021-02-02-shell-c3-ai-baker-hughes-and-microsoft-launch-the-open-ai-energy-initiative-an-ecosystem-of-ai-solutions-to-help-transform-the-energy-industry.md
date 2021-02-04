@@ -1,32 +1,22 @@
 ---
 category: news
 title: "Shell, C3 AI, Baker Hughes, and Microsoft Launch the Open AI Energy Initiative, an Ecosystem of AI Solutions to Help Transform the Energy Industry"
-excerpt: "Baker Hughes (NYSE:BKR), and Microsoft (NASDAQ:MSFT) today announced the launch of the Open AI Energy Initiative™ (OAI),"
-publishedDateTime: 2021-02-02T11:37:00Z
-originalUrl: "https://www.marketwatch.com/press-release/shell-c3-ai-baker-hughes-and-microsoft-launch-the-open-ai-energy-initiative-an-ecosystem-of-ai-solutions-to-help-transform-the-energy-industry-2021-02-02"
-webUrl: "https://www.marketwatch.com/press-release/shell-c3-ai-baker-hughes-and-microsoft-launch-the-open-ai-energy-initiative-an-ecosystem-of-ai-solutions-to-help-transform-the-energy-industry-2021-02-02"
+excerpt: "Initial Offerings Include AI-Based Reliability Applications to Improve Operational Efficiency for the Energy and Process Industries."
+publishedDateTime: 2021-02-02T03:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210201005886/en/Shell-C3-AI-Baker-Hughes-and-Microsoft-Launch-the-Open-AI-Energy-Initiative-an-Ecosystem-of-AI-Solutions-to-Help-Transform-the-Energy-Industry"
+webUrl: "https://www.businesswire.com/news/home/20210201005886/en/Shell-C3-AI-Baker-Hughes-and-Microsoft-Launch-the-Open-AI-Energy-Initiative-an-Ecosystem-of-AI-Solutions-to-Help-Transform-the-Energy-Industry"
 type: article
-quality: 46
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Microsoft launches Open AI Energy Initiative in partnership with Shell, C3 AI, others"
@@ -135,6 +125,6 @@ related:
         height: 360
         isCached: true
 
-secured: "lh5fenM+6jqB/KWrkzOQtQ76ZJtatTOOgs+kF2Gt7C4HKWuH8dnilb11xKE9DymxvLQu3pxUbclbkSc4nxmjteSfBbwfz3/5LIPEdibKSXb1VUuWlIkAdUMICQvDPX958hTVGYqpxj6u1luZNEV9+wvum7XIiAVTuY4jcoBdn9xBdmyk9XmMmHI/+Lk1fgGBGWfsd552ZrJamJEzU0tnR/dQPmmm33q4lDUVwKbI65AKpVOnIXNIfmFa5Bczr+vM69q6rnSiDxOSXPvJ2Cbp07DgI3Ja+6soW1QYl5ovhAU3hQfnUZhbQ+9F8D2PshtmGK7opvLQ+XytI7l04PaAFK87j87cCBpkRLJ4JsYkygk=;qisuBTgvVe+fUnwISYw8Rg=="
+secured: "1XbRhEt03QAVUNaQsajE6rQomhe7sTm/cQOKaUOJAKB8NGXca05f55uo7hXnmfv+bJ2lHh0A7cy5wFJvGXFiL3vXD4qvXqmP+xgU+5GNa8uXz6JcgKAkVk7J3L6cF9sZkII28TPajG0YcQAjWFtO708SaxGxQUeg2i8X2CZxTm+/cIjqxYiIiSYfMwwstWfMV6kFx95eO38xfluWJsvpdOaH4RCUca2Vsk02y0ovJXXb8FAray6/QjojDW0y1u9JxYYOXLa8JiudVK2qhh6FzHns/hkEXQTsv+d4nMfpLjWKEVSFUp5u4JniMDgLp0wgU34Mb2ZkgrvYP0nElzYkWhAAIRq5esftxYA+o9ZXk9Q=;4+VkjGsGQtRqiYGaqpKaQg=="
 ---
 

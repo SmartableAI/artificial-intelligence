@@ -92,20 +92,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Shell, C3 AI, Baker Hughes, and Microsoft Launch the Open AI Energy Initiative, an Ecosystem of AI Solutions to Help Transform the Energy Industry"
-    excerpt: "Baker Hughes (NYSE:BKR), and Microsoft (NASDAQ:MSFT) today announced the launch of the Open AI Energy Initiative™ (OAI),"
-    publishedDateTime: 2021-02-02T11:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/shell-c3-ai-baker-hughes-and-microsoft-launch-the-open-ai-energy-initiative-an-ecosystem-of-ai-solutions-to-help-transform-the-energy-industry-2021-02-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "BKR, RDS, AI and MSFT Launch AI Energy Initiative"
     excerpt: "C3 AI (NYSE: AI), and Microsoft (NASDAQ: MSFT) have announced the launch of the Open AI Energy Initiative. Baker Hughes (NYSE: BKR), Shell (NYSE: RDS), C3 AI (NYSE: AI), and Microsoft (NASDAQ: MSFT) have announced the launch of the Open AI Energy Initiative (OAI),"
     publishedDateTime: 2021-02-02T11:38:00Z
@@ -131,6 +117,15 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Shell, C3 AI, Baker Hughes, and Microsoft Launch the Open AI Energy Initiative, an Ecosystem of AI Solutions to Help Transform the Energy Industry"
+    excerpt: "Initial Offerings Include AI-Based Reliability Applications to Improve Operational Efficiency for the Energy and Process Industries."
+    publishedDateTime: 2021-02-02T03:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210201005886/en/Shell-C3-AI-Baker-Hughes-and-Microsoft-Launch-the-Open-AI-Energy-Initiative-an-Ecosystem-of-AI-Solutions-to-Help-Transform-the-Energy-Industry"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "sAfr8hFcGC+pXFNqnlzJhscku1CLxegUjtdt4t9eprGQpa30gnLobuKrqQnU76hAlaqjtFh4ogdHjYb8/saMbiZl302JG0m36Jgx6Oj0aJgnoQtGnVUcIuAFqIqXJRBLzHVa9nbp6vEJBJX3r06VESfHH0hUS8jHj+gJXrv87GXMTlcVfEpDiSlRL7/9sIwBjFNbC/q3IwN5Sqoq1g+I4+fj9Hs2zWpxaiw/rxMFBHWpn8IF4s/C5qb7pGI5scf5k5NqFC42F8POl6FMVU6K/yGF0fAG32mKvwEdDmIp6BiL54DuYjK3G534CFx/cB9pEAIk3Z3f7nz4KhnhD8lFgGLmlK9CgDFI6eUYEMJ/xtDdWc9TqMmW4b5kGVj8RQ8a8okcOs+to8tUIv2y9bx5dgBgZJ1XxScocuaiMzkfy7jbIZwOMAygMLf/dfiLPgw0nYxt9266W++xp7Hgo81ti0c6th4YXanoD1q9yyctir3aYa6nGiAdhnE7csvNpmyz6+fAE736dnuQH7Ef8hti9A==;EL0ebZOshO6eBlxdswBcFA=="
 ---

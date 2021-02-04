@@ -105,20 +105,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Shell, C3 AI, Baker Hughes, and Microsoft Launch the Open AI Energy Initiative, an Ecosystem of AI Solutions to Help Transform the Energy Industry"
-    excerpt: "Baker Hughes (NYSE:BKR), and Microsoft (NASDAQ:MSFT) today announced the launch of the Open AI Energy Initiative™ (OAI),"
-    publishedDateTime: 2021-02-02T11:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/shell-c3-ai-baker-hughes-and-microsoft-launch-the-open-ai-energy-initiative-an-ecosystem-of-ai-solutions-to-help-transform-the-energy-industry-2021-02-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "BKR, RDS, AI and MSFT Launch AI Energy Initiative"
     excerpt: "C3 AI (NYSE: AI), and Microsoft (NASDAQ: MSFT) have announced the launch of the Open AI Energy Initiative. Baker Hughes (NYSE: BKR), Shell (NYSE: RDS), C3 AI (NYSE: AI), and Microsoft (NASDAQ: MSFT) have announced the launch of the Open AI Energy Initiative (OAI),"
     publishedDateTime: 2021-02-02T11:38:00Z
@@ -130,6 +116,15 @@ related:
       name: Rigzone
       domain: rigzone.com
     quality: 39
+  - title: "Shell, C3 AI, Baker Hughes, and Microsoft Launch the Open AI Energy Initiative, an Ecosystem of AI Solutions to Help Transform the Energy Industry"
+    excerpt: "Initial Offerings Include AI-Based Reliability Applications to Improve Operational Efficiency for the Energy and Process Industries."
+    publishedDateTime: 2021-02-02T03:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210201005886/en/Shell-C3-AI-Baker-Hughes-and-Microsoft-Launch-the-Open-AI-Energy-Initiative-an-Ecosystem-of-AI-Solutions-to-Help-Transform-the-Energy-Industry"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "Qm9+J7rsEbSRHWNS3AT0vygkisKQjsQ//JDRs7vF/4s2YfQd+BomoTUxq8E94OwDtlI3K0iqLbgLhzEocVsvd2QKGAh19Y8Hsn4SaS/Jyv1SVZCjHcQH7tah2LEMcwLOi5A8bgGYMClowOUTtUCsTm/uWECNAQI2/+Gr3ywWbCX/U0+m/u+aEw61h91dF3wVaL1/H2STmZW3gemrmBAstukT5XYuosuAYgdRT14QMgBjd5XO5jBVv8TaBmjfHp1hwFGLQS91lXGJmO/gsCV5MMj+bmCkTF6dkzfKnntjWsSH0px0p71VuDB29NmqLQXwT+vZm7tDTfxx6GoZdiUTQui2H5vcdw4ZT4U3ErId3UntLqEXvI7M7tRRz4kOkAXueE1qLfk0uX6XecnJ2vlqL8YdAzZhdy6KXvfJ56rT+SssvXVECSKso3Z6CY9M44X3fGjggJbLKBT4BtXc/w4II5TGT1JxVaRPWs5ZuMc0o6tn5CPFgTJij8X4EwPZOU4XH8/xfyBMsaBMxioqrQVmcA==;YowDBDTB6dm77OwxhzH8YQ=="
 ---

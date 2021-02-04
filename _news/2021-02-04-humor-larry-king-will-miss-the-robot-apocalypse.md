@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Scott Hollifield: Larry King will miss the Robot Apocalypse"
-    excerpt: "Today, our disparate subjects will be the literary genius of the late Larry King and the inevitable end of the world as we know it brought about by killer robots."
-    publishedDateTime: 2021-01-30T11:00:00Z
-    webUrl: "https://hickoryrecord.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_45f1e9e2-61a8-11eb-b0c5-dfa087330ef1.html"
-    ampWebUrl: "https://hickoryrecord.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_45f1e9e2-61a8-11eb-b0c5-dfa087330ef1.amp.html"
-    cdnAmpWebUrl: "https://hickoryrecord-com.cdn.ampproject.org/c/s/hickoryrecord.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_45f1e9e2-61a8-11eb-b0c5-dfa087330ef1.amp.html"
-    type: article
-    provider:
-      name: Hickory Daily Record
-      domain: hickoryrecord.com
-    quality: 59
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/hickoryrecord.com/content/tncms/assets/v3/editorial/4/5e/45eb0942-61a8-11eb-b0c4-7b12bc0878ae/60131fec0930e.image.jpg"
-        width: 504
-        height: 233
-        isCached: true
   - title: "HOLLIFIELD: Larry King will miss the Robot Apocalypse"
     excerpt: "Today, our disparate subjects will be the literary genius of the late Larry King and the inevitable end of the world as we know it brought about by killer robots."
     publishedDateTime: 2021-01-31T08:45:00Z
@@ -85,6 +69,6 @@ related:
       domain: journalnow.com
     quality: 39
 
-secured: "27ANfoLWSO2GzRjJbplqCdc6Fr8raA+pDnHp1uyJXqr+F1micb7kP98d2lRwu2A149pG9g1Ttzjue+E2xy0RQVt3qq5Be1rt0rCAiLhQMJzTfB7tekefQAYxSNEinIoT4zH08Yw1vN4s9kqXA7eBUjDILSfDoCs7DYExsDBMF2iFAOqCL8Zu/zX3Ut2XexhqiGfZM0UMuDLpMtXDdN6Xvw8NIgt45kFpDrHlHqKebTddNYESwXwWUGf8RLFTEyq51stbzwqE7xh34ImmBnTYS+AIBer0HG4LAdhp7eQ6RoRqdoKPaqBDjECku6LZ/kuhu1T4WLtDd9tShR9LAwqVPb4nkwtXc1wsgzKHlWHJWCc=;zCo165TDdvlJui91yNIk2Q=="
+secured: "Bgjxb2F7cnxwM4//8Hh0I7DDqm+O9s3/Yqq0gLwdEoLleEWJd4Qze18naEm3YNr/judbb55AIleuG96+5g2mFa4G0tjYF9VAPEbKlFHmqoj8WMYmq+R1Kwsuz3qeckmSjd520nX6AP5WdGedzh+4DyabK+573D6NK4UV+Ifbr2TOmPp6o/Nbw+58FHjoAC9GWQVR2yXWQc3IslbXujHq9blGALie4WSo4Aft6BW3WPcit6daHgyXZMiE+PWZ0oOfEv+ljwOlsKwTplTlVYUXH2GSpz5dNj5CuVT5mF/wJay5lVuN+AJLH9El3G2NyhyR/0zLW7loAkFy867tV7klRaTtmqW9nF2NsaSh/4e7W5FErWJ7UYpxWEqUX9a3DiBUGhAzKzibKDttlBGXK1W+7GYZTPet1IIKKDxfw4KqoQsjrrFq9/V6Np4Fb41GJRmVsU86BnCV9GAKMNXkfmbGjRWIIaWI1oXnMfYtGRBkKG1H+gY63Qevf41DzVZf8YN1DuB/tVVJSUJ0J+JhmnimaA==;B0PlJWo+oJy/v+xk2lUYlQ=="
 ---
 

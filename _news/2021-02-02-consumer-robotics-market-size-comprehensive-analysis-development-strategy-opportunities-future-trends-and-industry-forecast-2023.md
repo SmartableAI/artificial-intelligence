@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/consumer-robotics-market
 webUrl: "https://www.marketwatch.com/press-release/consumer-robotics-market-size-comprehensive-analysis-development-strategy-opportunities-future-trends-and-industry-forecast-2023-2021-02-01"
 type: article
 quality: 53
-heat: 53
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Artificial Intelligence Market: Size, Share, Outlook, and Global Opportunity Analysis, 2021-2026"
+    excerpt: "Wiseguyreports.Com Adds \"Artificial Intelligence -Market Demand, Growth, Opportunities and Analysis Of Top Key Player Forecast To 2023\" To Its Research Database Artificial Intelligence is one of the fastest growing areas of computer science,"
+    publishedDateTime: 2021-02-04T01:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-share-outlook-and-global-opportunity-analysis-2021-2026-2021-02-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "GW7ohqXGFpKmtREdfGwgY7pl66Dda9vzM9lKlNkT6i0NxCXbwAdTjX3tdNToCS8/zDOKmLcI2vNdJUIR1apZbjXiwJcemeEZr3MXv8QZDwWBMk8hYvD9WWOEjE3PB/oAnvX6H3OQ/mUwPa5bo7qbsGbmk/g83ITHiVjRFQ0takLIaUIvFmnbk6HizMMoy/02oR610XwSQVZBR8rlIWjlmA2WNijYRbL9A/T0Xekj3ngtAxHBKPB6De7PqZ3lssbc6c07OOF/zEmqnegtQoX7J4uU/UBqfpZgYNYCacnVlHUhWeNp4j8NAOCmp7Da+x6VB3LAhqLVhGwBUKcyvNdlR9aehrpeTikCtIY5dWQyGmo=;zB1G2sID8vJhaEP4ciwXUg=="
 ---

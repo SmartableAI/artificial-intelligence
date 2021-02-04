@@ -8,8 +8,8 @@ webUrl: "https://www.nytimes.com/2021/02/03/technology/clearview-ai-illegal-cana
 ampWebUrl: "https://www.nytimes.com/2021/02/03/technology/clearview-ai-illegal-canada.amp.html"
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/03/technology/clearview-ai-illegal-canada.amp.html"
 type: article
-quality: 87
-heat: 177
+quality: 89
+heat: 179
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Computer Vision
 
 images:
   - url: "https://static01.nyt.com/images/2021/02/03/business/03Clearview-01/merlin_153962745_f3eb3cf6-5fce-4616-931e-683e7a2809b8-facebookJumbo.jpg"
@@ -159,6 +160,6 @@ related:
         height: 800
         isCached: true
 
-secured: "bmkmjKlPYy+LRo1x5YNuA6lx3sGrzCYFMt5WBGN4kqSZHyVsWzbbRpseyLuYb6xEyEMir6lNLY5bnSvbPmDS3ldk6/F8HO5CM07MI9EXJTEStqdrC1tynj6U7l+GRdSAqrptavSe9mV4CegPadfsFRFoJDF0Jq0kC/Vot1ayIlSp+QHF9gLD5tcAd7CSGF0laa99mgnv09HUyrsTkKCbFDqN5Fu8PhBXz27JOef/JEqA7sn7LX61MrFWF6GalZbZg9XZ2oHneXsye6GoYeJyMxaIpWXhcTEwoEYsndT1p/kp8BXQyprQ6EPTzz1ZYCCSUifwA1MRJYoujGhRGTzdovuN3BmAAF2wNntnT14VeX4=;9qsJZVu70yYYjstWMsnv3g=="
+secured: "7+mYh8Cq3WQNfxfIqYxOs7DS8P89VC1fD3x303oViJyKqd1TdALCKrQay4PUGw8oDEp0pe3D4/QYgslqwt9aghjC14AocXEuzV+K5HFv72K3tZlw2LUSHLiYcw0WFscZxTkJdm8/j/S8dcYI0E4wU5bWu1Swo3yQJSMBAnPyRF3/kgr3OpngQ7Nh/XzsSfbBLMDhYtON1NByspeXSmMXSrfkFpmIpmOYOPfruEI7I6nAiSKYxWendx+blcTbwxU/0ALxgK6tvZs2BLb3QIV7GLQdkLiKwFO9N2v2pnx2KFHIR+fF/entSOBT+80GjIyVwd2QCSqhYTSnyiWAsimqfDaNGrY9e2JNwMYWNNumTlqSwysR7/BDhGZO8Joz8QRsQBBJvxZDCP6vNBMWx/cVm8E74M/gKOC05UHoPZHGIJQ9ElhQHxadXQLpnBwhaL1QZzBUXxhOkreyBjbRutCmEOwwhq2hLMUZNnzW0hlQJV7QZuipTbM8DITNgqWhjDioLeq/IhipTrtn7Hspv+bAvA==;fgsaokIbW0jOmcnKUAjIVg=="
 ---
 

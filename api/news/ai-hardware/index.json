@@ -2,6 +2,104 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-04-wafer-scale-chip-to-power-ai-supercomputers.md",
+      "title": "Wafer-Scale Chip to Power AI Supercomputers",
+      "excerpt": "Wafer-scale AI chip startup Cerebras will supply its technology to EPCC, the supercomputing center at the University of Edinburgh, UK. The new hardware, designed specifically to accelerate huge AI workloads,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eetindia.co.in/wafer-scale-chip-to-power-ai-supercomputers/",
+      "originalUrl": "https://www.eetindia.co.in/wafer-scale-chip-to-power-ai-supercomputers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eetindia.co.in/wp-content/uploads/sites/4/2021/02/Cerebras_WLC.jpg",
+          "width": 1024,
+          "height": 849,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.eetindia.co.in/wafer-scale-chip-to-power-ai-supercomputers/amp/",
+      "cdnAmpWebUrl": "https://www-eetindia-co-in.cdn.ampproject.org/c/s/www.eetindia.co.in/wafer-scale-chip-to-power-ai-supercomputers/amp/",
+      "publishedDateTime": "2021-02-03T18:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eetindia.co.in",
+        "domain": "eetindia.co.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-04-ai-chips-in-the-real-world-interoperability-constraints-cost-energy-efficiency-and-models.md",
+      "title": "AI chips in the real world: Interoperability, constraints, cost, energy efficiency, and models",
+      "excerpt": "The answer to the question of how to make the best of AI hardware may not be solely, or even primarily, related to hardware",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-chips-in-the-real-world-interoperability-constraints-cost-energy-efficiency-and-models/",
+      "originalUrl": "https://www.zdnet.com/article/ai-chips-in-the-real-world-interoperability-constraints-cost-energy-efficiency-and-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2018/12/31/e6b87307-59d1-4f26-89cd-e0e38f2026b4/hybrid.jpg",
+          "width": 512,
+          "height": 341,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-chips-in-the-real-world-interoperability-constraints-cost-energy-efficiency-and-models/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-chips-in-the-real-world-interoperability-constraints-cost-energy-efficiency-and-models/",
+      "publishedDateTime": "2021-02-03T13:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Google AI",
+        "Natural Language Processing",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-02-03-north-america-ai-chipsets-market-overview-with-in-depth-analysis-and-forecast-2020-2026.md",
       "title": "North America AI Chipsets Market Overview with In-Depth Analysis and Forecast (2020-2026)",
       "excerpt": "The North America AI chipsets market from Central Processing Unit (CPU) segment is projected to grow at a CAGR of 30% over the forecast period. The growth is credited to several features offered by the CPU architecture such as low latency,",
@@ -1387,92 +1485,6 @@
         "AI",
         "Google AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-amax-accelerates-next-gen-ai-computing-with-nvidia-a100-gpu-test-drive-program.md",
-      "title": "AMAX Accelerates Next-Gen AI Computing With NVIDIA A100 GPU Test Drive Program",
-      "excerpt": "AMAX ’s HPC and AI Solutions Group announced the launch of its NVIDIA A100 GPU Test Drive program for customers to accelerate their most demanding analytics, high-performance computing (HPC), inference,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-data-storage-3cfb8acd4b64bb1d4213688771d593b4",
-      "originalUrl": "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-data-storage-3cfb8acd4b64bb1d4213688771d593b4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-20T06:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro.md",
-      "title": "Supermicro Unveils NVIDIA GPU Server Test Drive Program with Leading Channel Partners to Deliver Workload Qualification on Remote Supermicro Servers",
-      "excerpt": "GPU or 4U HGX A100 8-GPU Systems Through Channel Partners – EMEA: Boston and Broadberry; North/Latin America: Colfax, Exxact, Microway, Thinkmate, and AMAX – Enabling Fast-track Testing of Industry-Leading Platforms SAN JOSE,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-1029986600",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-1029986600",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-1029986600",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/supermicro-unveils-nvidia-gpu-server-test-drive-program-with-leading-channel-partners-to-deliver-workload-qualification-on-remote-supermicro-servers-1029986600",
-      "publishedDateTime": "2021-01-20T06:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

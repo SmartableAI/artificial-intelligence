@@ -7,7 +7,7 @@ originalUrl: "https://www.navytimes.com/thought-leadership/2021/02/02/closing-th
 webUrl: "https://www.navytimes.com/thought-leadership/2021/02/02/closing-the-gap-to-win-the-ai-marathon/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "the game in which an artificial intelligence assesses your drawing skills"
-    excerpt: "Take Microsoft Paint, add in a shot of Blancmange Coco and a good helping of artificial intelligence and you have Paint.wtf, a crazy game where AI will test your drawing skills. Do you think you have the soul of an artist but nobody recognizes your gift except your mother?"
-    publishedDateTime: 2021-01-30T10:26:00Z
-    webUrl: "https://galusaustralis.com/2021/01/1047926/the-game-in-which-an-artificial-intelligence-assesses-your-drawing-skills/"
-    ampWebUrl: "https://galusaustralis.com/2021/01/1047926/the-game-in-which-an-artificial-intelligence-assesses-your-drawing-skills/amp/"
-    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2021/01/1047926/the-game-in-which-an-artificial-intelligence-assesses-your-drawing-skills/amp/"
+  - title: "DECIDE-AI: new reporting guidelines to bridge the development-to-implementation gap in clinical artificial intelligence"
+    excerpt: "As an increasing number of clinical decision-support systems driven by artificial intelligence progress from development to implementation, better guidance on the reporting of human factors and early-stage clinical evaluation is needed."
+    publishedDateTime: 2021-02-01T20:35:00Z
+    webUrl: "https://www.nature.com/articles/s41591-021-01229-5"
     type: article
     provider:
-      name: galusaustralis.com
-      domain: galusaustralis.com
-    quality: 56
-    images:
-      - url: "https://galusaustralis.com/wp-content/uploads/2021/01/Paint.wtf-dessin-IA-scaled-1024x538.jpg"
-        width: 1024
-        height: 538
-        isCached: true
+      name: Nature
+      domain: nature.com
+    quality: 8
 
 secured: "CS2p7DoAYts2kBYc+RKL8fGuNPnonPkV8w4jMoXZeXLY3UnK+DCNP+7QIdReKEEAtnBiZPmU7Kmk6oor04LCZLZjW16gGDRClXuLEPhMeaMg31N/TgcwX5Jh/BhAMzAjOm3PVMixRgM5LOS2kkEHOrBLwaimkr8umZCo8irUtk0YTjNHG1S0+0O7kMKAhwqYSn1OXJ8bzUHE1PoG7e5BErzq6pLu9XCcWUQev3caFl7WFL91VSt5QjS2lKersGsC6fZJEWUBEZlXhD4LSIUaWwzQIQaYoxEaznwgtRq8NwOoCjs/HpjIIe6sDFWltfdW6IIAqL5lDwYg2vfhuGU5NkPGtZKzkLs+YcaNQY8pJrU=;yuopxgTQd6aCHZnzcGZ3og=="
 ---

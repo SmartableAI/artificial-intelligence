@@ -2,6 +2,248 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-01-29-scientists-develop-ai-powered-puff-technology-to-help-smokers-quit.md",
+      "title": "Scientists develop AI-powered ‘puff technology’ to help smokers quit",
+      "excerpt": "The onboard computer for e-cigs is designed to help people quit by predicting when they'll next crave a nicotine hit.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/01/28/scientists-develop-ai-powered-puff-technology-to-help-smokers-quit/",
+      "originalUrl": "https://thenextweb.com/neural/2021/01/28/scientists-develop-ai-powered-puff-technology-to-help-smokers-quit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/Untitled-design-2021-01-28T130539.375-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/01/28/scientists-develop-ai-powered-puff-technology-to-help-smokers-quit/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/28/scientists-develop-ai-powered-puff-technology-to-help-smokers-quit/amp/",
+      "publishedDateTime": "2021-01-28T09:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-baidu-gets-california-nod-for-testing-driverless-vehicles-on-sunnyvale-streets.md",
+      "title": "Baidu gets California nod for testing driverless vehicles on Sunnyvale streets",
+      "excerpt": "Baidu is the sixth company to have a permit to test without a driver behind the wheel. The permit allows it to test three autonomous vehicles on specified streets within Sunnyvale.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mercurynews.com/2021/01/28/baidu-gets-california-nod-for-testing-driverless-vehicles/",
+      "originalUrl": "https://www.mercurynews.com/2021/01/28/baidu-gets-california-nod-for-testing-driverless-vehicles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mercurynews.com/wp-content/uploads/2021/01/Baidu.jpg?w=1024&h=640",
+          "width": 1024,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mercurynews.com/2021/01/28/baidu-gets-california-nod-for-testing-driverless-vehicles/amp/",
+      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/28/baidu-gets-california-nod-for-testing-driverless-vehicles/amp/",
+      "publishedDateTime": "2021-01-28T08:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mercury News",
+        "domain": "mercurynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-new-global-rackspace-technology-study-uncovers-widespread-artificial-intelligence-and-machine-learning-knowledge-gap.md",
+      "title": "New Global Rackspace Technology Study Uncovers Widespread Artificial Intelligence and Machine Learning Knowledge Gap",
+      "excerpt": "Rackspace Technology™ (NASDAQ: RXT), a leading end-to-end, multicloud technology solutions company today announced the results of a global survey that reveals that the majority of organizations globally lack the internal resources to support critical artificial intelligence (AI) and machine learning (ML) initiatives.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/new-global-rackspace-technology-study-uncovers-widespread-artificial-intelligence-and-machine-learning-knowledge-gap-1030016221",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/new-global-rackspace-technology-study-uncovers-widespread-artificial-intelligence-and-machine-learning-knowledge-gap-1030016221",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/New-Global-Rackspace-Technology-Study-Uncovers-Widespread-Artificial-Intelligence-and-Machine-Learning-Knowledge-Gap-1030016221",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/New-Global-Rackspace-Technology-Study-Uncovers-Widespread-Artificial-Intelligence-and-Machine-Learning-Knowledge-Gap-1030016221",
+      "publishedDateTime": "2021-01-28T08:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-microsoft-playfab-grows-ninefold-in-3-years.md",
+      "title": "Microsoft’ PlayFab grows ninefold in 3 years",
+      "excerpt": "Microsoft's PlayFab division said today that its monthly active users grew nearly nine times since the software giant acquired it.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/28/microsoft-playfab-grows-ninefold-in-3-years/",
+      "originalUrl": "https://venturebeat.com/2021/01/28/microsoft-playfab-grows-ninefold-in-3-years/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/playfab-main.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/28/microsoft-playfab-grows-ninefold-in-3-years/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/28/microsoft-playfab-grows-ninefold-in-3-years/amp/",
+      "publishedDateTime": "2021-01-28T08:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-28-graphic-processing-unit-gpu-market-size-to-hit-usd-19877-billion-by-2027.md",
+      "title": "Graphic Processing Unit (GPU) Market Size to Hit USD 198.77 Billion by 2027",
+      "excerpt": "The global graphic processing unit (GPU) market is poised to grow at a compound annual growth rate (CAGR) 33.4% during the forecast period 2020 to 2027. Graphics Processing Unit (GPU) also referred as visual processing unit is mainly a computer chip that performs rapid mathematical calculations,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/graphic-processing-unit-gpu-market-size-to-hit-usd-19877-billion-by-2027-2021-01-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/graphic-processing-unit-gpu-market-size-to-hit-usd-19877-billion-by-2027-2021-01-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-28T07:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-28-at-362-cagr-artificial-intelligence-ai-in-retail-market-size-to-surpass-usd-57230-million-by-2025.md",
       "title": "At 36.2% CAGR, Artificial Intelligence (AI) in Retail Market Size to Surpass USD 5723.0 Million by 2025",
       "excerpt": "Artificial Intelligence (AI) in Retail Market is valued at USD 658.2 Million in 2018 and expected to reach USD 5723.0",
@@ -159,18 +401,18 @@
     },
     {
       "path": "_news/2021-01-28-ai-startup-growing-in-indy.md",
-      "title": "AI startup growing in Indy",
-      "excerpt": "Catipult.AI, which has developed an artificial intelligence platform to help businesses manage and track strategic goals, says it will invest more than $2.6 million to secure a larger office space in Indy and create up to 51 jobs by the end of 2024.",
+      "title": "AI Startup Growing in Indy",
+      "excerpt": "An Indianapolis-based Software-as-a-Service company is planning to expand its central Indiana operations. Catipult.AI, which has developed an artificial intelligence platform to help businesses manage",
       "sourceUrl": null,
-      "webUrl": "https://www.wishtv.com/news/inside-indiana-business/ai-startup-growing-in-indy/",
-      "originalUrl": "https://www.wishtv.com/news/inside-indiana-business/ai-startup-growing-in-indy/",
+      "webUrl": "https://www.insideindianabusiness.com/story/43252015/ai-startup-growing-in-indy",
+      "originalUrl": "https://www.insideindianabusiness.com/story/43252015/ai-startup-growing-in-indy",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://i2.wp.com/www.wishtv.com/wp-content/uploads/2021/01/Peter-Fuller-Catipult.jpg?fit=960%2C540&#038;ssl=1",
+          "url": "https://INSIDEINDIANA.images.worldnow.com/images/20307337_G.jpg?lastEditedDate=1611824691000",
           "width": 960,
           "height": 540,
           "title": null,
@@ -182,11 +424,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-28T06:12:00-08:00",
+      "publishedDateTime": "2021-01-28T06:26:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WISHTV8",
-        "domain": "wishtv.com",
+        "name": "INside INdiana Business",
+        "domain": "insideindianabusiness.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -463,8 +705,8 @@
       "title": "Alibaba-backed self-driving startup opens its robotaxi service to the Chinese public",
       "excerpt": "AutoX became the third firm to receive a test permit in California to operate its autonomous vehicles without a human safety driver.",
       "sourceUrl": null,
-      "webUrl": "https://www.techinasia.com/alibababacked-selfdriving-startup-autox-opens-robotaxi-general-public-china?ref=recommender-671946",
-      "originalUrl": "https://www.techinasia.com/alibababacked-selfdriving-startup-autox-opens-robotaxi-general-public-china?ref=recommender-671946",
+      "webUrl": "https://www.techinasia.com/alibababacked-selfdriving-startup-autox-opens-robotaxi-general-public-china",
+      "originalUrl": "https://www.techinasia.com/alibababacked-selfdriving-startup-autox-opens-robotaxi-general-public-china",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -593,6 +835,49 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-28-baidu-gets-california-nod-for-testing-empty-self-driving-cars.md",
+      "title": "Baidu Gets California Nod for Testing Empty Self-Driving Cars",
+      "excerpt": "Baidu Inc has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor Vehicles said on Wednesday. Although self-driving vehicles are designed to eliminate the need for a driver,",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2021-01-27/baidu-gets-california-nod-for-testing-driverless-vehicles",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-01-27/baidu-gets-california-nod-for-testing-driverless-vehicles",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2021-01-27/baidu-gets-california-nod-for-testing-driverless-vehicles?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-01-27/baidu-gets-california-nod-for-testing-driverless-vehicles?context=amp",
+      "publishedDateTime": "2021-01-28T01:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -832,58 +1117,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-28-baidu-gets-california-nod-for-testing-empty-self-driving-cars.md",
-      "title": "Baidu gets California nod for testing empty self-driving cars",
-      "excerpt": "Baidu Inc has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor Vehicles said on Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-baidu-autonomous-idUSKBN29W2OT",
-      "originalUrl": "https://www.reuters.com/article/us-baidu-autonomous-idUSKBN29W2OT",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210127&t=2&i=1549286737&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0Q1KU",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29W2OT",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29W2OT",
-      "publishedDateTime": "2021-01-27T18:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-28-tesla-had-talks-with-other-automakers-about-licensing-its-self-driving-software-elon-musk-says.md",
       "title": "Tesla had talks with other automakers about licensing its self-driving software, Elon Musk says",
       "excerpt": "Tesla had “preliminary” discussions with other automakers about licensing its self-driving software, according to new comments by CEO Elon Musk. Tesla Licensing Software Today, Tesla released its Q4 2020 financial results and following the release,",
@@ -984,237 +1217,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-direxion-daily-robotics-artificial-intelligence-automation-index-bull-2x-shares-nysearcaubot-stock-price-down-33.md",
-      "title": "Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2X Shares (NYSEARCA:UBOT) Stock Price Down 3.3%",
-      "excerpt": "Shares of Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2X Shares (NYSEARCA:UBOT) were down 3.3% during mid-day trading on Wednesday . The stock traded as low as $44.30 and last traded at $44.",
-      "sourceUrl": null,
-      "webUrl": "https://theenterpriseleader.com/2021/01/28/direxion-daily-robotics-artificial-intelligence-automation-index-bull-2x-shares-nysearcaubot-stock-price-down-3-3.html",
-      "originalUrl": "https://theenterpriseleader.com/2021/01/28/direxion-daily-robotics-artificial-intelligence-automation-index-bull-2x-shares-nysearcaubot-stock-price-down-3-3.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
-          "width": 450,
-          "height": 323,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theenterpriseleader.com/2021/01/28/direxion-daily-robotics-artificial-intelligence-automation-index-bull-2x-shares-nysearcaubot-stock-price-down-3-3.html/amp",
-      "cdnAmpWebUrl": "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2021/01/28/direxion-daily-robotics-artificial-intelligence-automation-index-bull-2x-shares-nysearcaubot-stock-price-down-3-3.html/amp",
-      "publishedDateTime": "2021-01-27T16:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theenterpriseleader.com",
-        "domain": "theenterpriseleader.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-commonwealth-banks-refreshed-digital-strategy-to-focus-on-the-power-of-ai.md",
-      "title": "Commonwealth Bank's refreshed digital strategy to focus on the power of AI",
-      "excerpt": "The bank has also scooped up hospitality cloud platform Doshii to celebrate one year of its venture arm, X15 Ventures.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/commonwealth-banks-refreshed-digital-strategy-to-focus-on-the-power-of-ai/",
-      "originalUrl": "https://www.zdnet.com/article/commonwealth-banks-refreshed-digital-strategy-to-focus-on-the-power-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/07/28/efda0bab-abb7-46af-8123-09c5edf316e2/cba-x15-matt-comyn-commonwealth-bank-of-australia.jpg",
-          "width": 3661,
-          "height": 2443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/commonwealth-banks-refreshed-digital-strategy-to-focus-on-the-power-of-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/commonwealth-banks-refreshed-digital-strategy-to-focus-on-the-power-of-ai/",
-      "publishedDateTime": "2021-01-27T16:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-nvidia-shows-off-the-first-a100-gpu-systems-built-to-handle-ai-workloads.md",
-      "title": "Nvidia shows off the first A100 GPU systems built to handle AI workloads",
-      "excerpt": "As AI workloads can be complex and demanding, Nvidia has unveiled a new program that makes it easier for businesses to choose servers geared towards machine learning and analytics. This new class of accelerated servers from the company's partners are given the Nvidia-Certified Systems branding as they are designed to power organization's journeys into AI and data analytics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/nvidia-shows-off-the-first-a100-gpu-systems-built-to-handle-ai-workloads",
-      "originalUrl": "https://www.techradar.com/news/nvidia-shows-off-the-first-a100-gpu-systems-built-to-handle-ai-workloads",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/vdaqQtQFfvSMJT6pxoTPrK-1200-80.jpg",
-          "width": 636,
-          "height": 358,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/nvidia-shows-off-the-first-a100-gpu-systems-built-to-handle-ai-workloads",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/nvidia-shows-off-the-first-a100-gpu-systems-built-to-handle-ai-workloads",
-      "publishedDateTime": "2021-01-27T15:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-finesse-raises-45m-to-predict-fashion-trends-with-ai.md",
-      "title": "Finesse raises $4.5M to predict fashion trends with AI",
-      "excerpt": "Finesse, a startup promising to take the guesswork and waste out of fashion, is announcing that it has raised $4.5 million in seed and pre-seed funding. Founder and CEO Ramin Ahmari said the tremendous waste in the fashion industry has become a badly kept secret,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/01/27/finesse-launch-seed-funding/",
-      "originalUrl": "https://techcrunch.com/2021/01/27/finesse-launch-seed-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/01/ECOMM_RETOUCHED_CC_2U6A9550-1.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/01/27/finesse-launch-seed-funding/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/27/finesse-launch-seed-funding/amp/",
-      "publishedDateTime": "2021-01-27T15:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-senate-introduces-bill-to-ban-firearms-at-public-demonstrations-washington-state-capitol.md",
-      "title": "Senate introduces bill to ban firearms at public demonstrations, Washington state Capitol",
-      "excerpt": "Senate Bill 5038 would make it a gross misdemeanor to open ... and sometimes with deadly consequences.” According to Washington State Patrol spokesperson Chris Loftis, there have been 149 unpermitted demonstrations or events at the Capitol since COVID ...",
-      "sourceUrl": null,
-      "webUrl": "https://app.leg.wa.gov/billsummary?BillNumber=5062&Year=2021&Initiative=False",
-      "originalUrl": "https://www.seattletimes.com/seattle-news/politics/senate-introduces-bill-to-ban-firearms-at-public-demonstrations-state-capitol/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-27T15:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

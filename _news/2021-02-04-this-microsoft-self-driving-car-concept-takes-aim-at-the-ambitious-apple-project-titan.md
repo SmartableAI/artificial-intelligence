@@ -162,20 +162,15 @@ related:
         height: 610
         isCached: true
   - title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
-    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
-    publishedDateTime: 2021-02-03T08:22:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
+    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance"
+    publishedDateTime: 2021-02-02T22:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 46
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Business Wire
+      domain: businesswire.com
+    quality: 26
 
-secured: "Mj5H1l0fabd20TXzz8DGKmsHfMSBHR0Kd77SisU1UbQQaifYKi6OsC4M/f7hKl618g3iZlm4YOEYuQVSHS43zistazWtK5vYanijcle/9aWGbrt2xIdMRtgc8tMPOAeLlckYlr/55pLx86ZaM82B/2kc+dqn+tBOYC9gOGp7OBZjJryuURtGSTF4jg+R3XF7aW5H4CacUZzEanNNmVCqDHxOdBNaau+v8S/8B3UTkjIU3mVcdOko7jRmG62WrYceJyd8wR+CVmM5Q9iTOHQ75CgeZLV0VJqvy34kRbKgtt8Mdh7I9JgUGMZ7hu9kD3prSY1+Xg6P+/OsO0X0TB7B914rk1zSg1Xa664Em+eFhvw=;kVRi0MVbuUxI0pBq0Tqjlg=="
+secured: "oPk2aR2wwmJNuSHJHjt5aPRDi/CrB/26+LDsrIh6sP/llCXdByyVFRBI/44TslefdZIin3Dm/MxPOLpBKJr5pHINsrFdyVULIw0X6UGAjco6fLaLbHSye6BiQqOOE/QsikHowm0Gem2HCp6F7Mru9WdknQKhCGmAW192PcbH9KX0oScutO4a+BkW4DMEFHAvrfTt6bZcqfOzG9aYaBxrFbz/ocigWqanHVG/ixHRxBL+FDwSZMlwhngD5Y/54kqP2jrZwlNOUsh4ECR6kulLm841IaERfAeWOlremon50u84SwMpXoLw0eHWCAlQbi/50Af/n8gMUSo69jbjXz9hFI4sNLik8NWPotfGeo4d08XpJqx+78VOtBBxpZbS0kKo5HRUWBW2/K4QiupN91Wci2qqX7lq+q4C8LBM2Em+duItpPqt+UDpAvtU9cHG4/aDKTfRdq6JWf8TihLseg27B0pNdp30JWRK316ubnWAk20BEdUR8WWF6tISDMsG9hV2mTDr/ln8YjDJ5v/ha8KJRw==;1WBzVJlaMc9n5SAzyZ895w=="
 ---
 

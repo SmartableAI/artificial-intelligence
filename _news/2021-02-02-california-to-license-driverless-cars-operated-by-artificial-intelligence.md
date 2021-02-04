@@ -1,42 +1,32 @@
 ---
 category: news
-title: "California to license driverless cars operated by artificial intelligence"
-excerpt: "The California Department of Motor Vehicles has officially issued a permit to Baidu USA to begin testing driverless vehicles on public roads in Sunnyvale, California."
-publishedDateTime: 2021-02-01T21:00:00Z
-originalUrl: "https://www.washingtonexaminer.com/politics/california-to-license-driverless-cars-operated-by-artificial-intelligence"
-webUrl: "https://www.washingtonexaminer.com/politics/california-to-license-driverless-cars-operated-by-artificial-intelligence"
-ampWebUrl: "https://www.washingtonexaminer.com/politics/california-to-license-driverless-cars-operated-by-artificial-intelligence?_amp=true"
-cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/politics/california-to-license-driverless-cars-operated-by-artificial-intelligence?_amp=true"
+title: "California to license driverless cars operated by Artificial Intelligence"
+excerpt: "The California Department of Motor Vehicles has officially issued a permit to Baidu USA to begin testing driverless vehicles on public roads in Sunnyvale, California. According to the state Department of Motor Vehicles (DMV),"
+publishedDateTime: 2021-02-02T14:24:00Z
+originalUrl: "https://thehayride.com/2021/02/california-to-license-driverless-cars-operated-by-artificial-intelligence/"
+webUrl: "https://thehayride.com/2021/02/california-to-license-driverless-cars-operated-by-artificial-intelligence/"
+ampWebUrl: "https://thehayride.com/2021/02/california-to-license-driverless-cars-operated-by-artificial-intelligence/?amp_markup=1"
+cdnAmpWebUrl: "https://thehayride-com.cdn.ampproject.org/c/s/thehayride.com/2021/02/california-to-license-driverless-cars-operated-by-artificial-intelligence/?amp_markup=1"
 type: article
-quality: 53
+quality: 73
 heat: -1
 published: false
 
 provider:
-  name: Washington Examiner
-  domain: washingtonexaminer.com
+  name: The Hayride
+  domain: thehayride.com
 
 topics:
   - AI in Autos
   - AI
 
+images:
+  - url: "https://thehayride.com/wp-content/uploads/2021/02/external-content.duckduckgo.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
 related:
-  - title: "SoftBank's Son expects mass production of driverless cars in 2 years"
-    excerpt: "SoftBank Group Corp Chief Executive Masayoshi Son said on Friday he expects mass production of self-driving vehicles to start in two years."
-    publishedDateTime: 2021-01-30T09:51:00Z
-    webUrl: "https://cn.reuters.com/article/davos-meeting-son-autonomous-idCNL1N2K41Y9"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idCNL1N2K41Y9"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL1N2K41Y9"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210129&t=2&i=1549571164&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0S194"
-        width: 829
-        height: 545
-        isCached: true
   - title: "Baidu green light to test driverless autonomous vehicles in California"
     excerpt: "Baidu’s autonomous vehicles can now drive alongside those from Cruise, Waymo, Nuro, Zoox and AutoX in California. The Chinese company has just received approval to operate its autonomous driverless vehicles from the US state."
     publishedDateTime: 2021-02-01T22:34:00Z
@@ -68,6 +58,6 @@ related:
         height: 826
         isCached: true
 
-secured: "dwo0h/L+A3VC7Ga1Uxl0R8V/OTUafAUUenzGW6TFFj5+dZd3GghI86ygfxieDE7FOMePRifYHcxHDhVPEJxk4eNY8vvpXXxrg4HiPvYq76E71p1krJaAiq+eU/ci4CVPfweExmqnnXJTiFw38W/Ofb5IKr97Z3Nc80J0k9/FW6i8kbe6hCvFCa74fxEZqY26OdoYzi+Xy0G+bnlOLjl4zbaeVdJnUaJ8qI+zqnXZyqjICfC4PpuW/Mkltn6/2GTJwW17PL1DdFFIyk5a5Wnenpb6o2Vtjvve7ClGDDTdGuGgnlzgeUeAX8Fz68KM6Wu+YUufHQ2ZSmfHKtNpu1SecswOCWc7JWFvgOemAUS5lyH4IdoNYZCi+8ZzV3hZFBAs12Dyjrqtumk9XNXdqp3slmxdPIvpDQ36mYLbvNXvWzGyxwqUTh5Q5vlDZQQKHDAWdhRI4x59yC653g+vsPA/CGfzNDBSIjC3IayBWJMSmuT44GQ0HaELvkThFWjN8qm+cSRJZma7Ci+/JrXhAA4gnw==;TvKxtROnhmN1x/mtDd2AgA=="
+secured: "7THj1gFbSyJkeCU9ZZfr1OsOVmkvWrmMQnFrdu1NiOHCNwGfoXy12e/6f4+KUTRp/Ems8J+vNy4d/AWBtX33iLqM/FtzcnQGkCPt62TQCB2tVjVvsqjOUEut21ctZxVe5+/pnX9rrxoNgjTu6BrxPiVjdxlq+QPzLO5vP6K47nSgGpgap6WeALhDnE3RJLCqnx6am4xNwuYLU5aRQWGSpcqTklWZgI/i9RdEXFsHo/FzWVUp9Ps7KxbErp3tf3BvGDy5EouZYdXzRNrQSe4PggOe7fYEtM0e83dqUm1jYe81ufJPXPotu3MtmoT1At5JE/UMYIx18vNlhRoi4cl0pr0sqmbhyx9+3k0hobYgQSA=;kG59I9Nh2g9vV+w20EyPHQ=="
 ---
 

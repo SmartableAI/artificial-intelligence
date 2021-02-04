@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Scott Hollifield: Larry King will miss the Robot Apocalypse"
-    excerpt: "Today, our disparate subjects will be the literary genius of the late Larry King and the inevitable end of the world as we know it brought about by killer robots."
-    publishedDateTime: 2021-01-30T11:00:00Z
-    webUrl: "https://hickoryrecord.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_45f1e9e2-61a8-11eb-b0c5-dfa087330ef1.html"
-    ampWebUrl: "https://hickoryrecord.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_45f1e9e2-61a8-11eb-b0c5-dfa087330ef1.amp.html"
-    cdnAmpWebUrl: "https://hickoryrecord-com.cdn.ampproject.org/c/s/hickoryrecord.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_45f1e9e2-61a8-11eb-b0c5-dfa087330ef1.amp.html"
-    type: article
-    provider:
-      name: Hickory Daily Record
-      domain: hickoryrecord.com
-    quality: 59
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/hickoryrecord.com/content/tncms/assets/v3/editorial/4/5e/45eb0942-61a8-11eb-b0c4-7b12bc0878ae/60131fec0930e.image.jpg"
-        width: 504
-        height: 233
-        isCached: true
   - title: "HOLLIFIELD: Larry King will miss the Robot Apocalypse"
     excerpt: "Today, our disparate subjects will be the literary genius of the late Larry King and the inevitable end of the world as we know it brought about by killer robots."
     publishedDateTime: 2021-01-31T08:45:00Z
