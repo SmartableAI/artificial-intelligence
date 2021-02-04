@@ -150,7 +150,7 @@ related:
   - title: "Observe.AI and Microsoft Team Up on Contact Center AI"
     excerpt: "Observe.AI, a contact center artificial intelligence technology provider, is working with Microsoft to bring automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
     publishedDateTime: 2021-02-02T17:29:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=145046"
+    webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Observe.AI-and-Microsoft-Team-Up-on-Contact-Center-AI-145046.aspx"
     type: article
     provider:
       name: Destination CRM
@@ -162,14 +162,19 @@ related:
         height: 610
         isCached: true
   - title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
-    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance"
-    publishedDateTime: 2021-02-02T22:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
+    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
+    publishedDateTime: 2021-02-03T08:22:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 26
+      name: Associated Press
+      domain: apnews.com
+    quality: 46
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "oPk2aR2wwmJNuSHJHjt5aPRDi/CrB/26+LDsrIh6sP/llCXdByyVFRBI/44TslefdZIin3Dm/MxPOLpBKJr5pHINsrFdyVULIw0X6UGAjco6fLaLbHSye6BiQqOOE/QsikHowm0Gem2HCp6F7Mru9WdknQKhCGmAW192PcbH9KX0oScutO4a+BkW4DMEFHAvrfTt6bZcqfOzG9aYaBxrFbz/ocigWqanHVG/ixHRxBL+FDwSZMlwhngD5Y/54kqP2jrZwlNOUsh4ECR6kulLm841IaERfAeWOlremon50u84SwMpXoLw0eHWCAlQbi/50Af/n8gMUSo69jbjXz9hFI4sNLik8NWPotfGeo4d08XpJqx+78VOtBBxpZbS0kKo5HRUWBW2/K4QiupN91Wci2qqX7lq+q4C8LBM2Em+duItpPqt+UDpAvtU9cHG4/aDKTfRdq6JWf8TihLseg27B0pNdp30JWRK316ubnWAk20BEdUR8WWF6tISDMsG9hV2mTDr/ln8YjDJ5v/ha8KJRw==;1WBzVJlaMc9n5SAzyZ895w=="
 ---

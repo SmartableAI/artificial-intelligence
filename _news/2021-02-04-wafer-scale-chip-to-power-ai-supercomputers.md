@@ -46,8 +46,8 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 14
+    quality: 16
 
-secured: "Nq6U1mmhudeg3bzzVaK/O6LNu/OByBSxWY9c5vtu8QEghcZmkXV33hKjmjJVfEPRzMiVqU87m9LptE9utS2WSXeePnsvg7BUkg+Nl5c3SIqowpu6b0rxPeQ/tE9C7vnDKbcd+1BsZm/5P0/0eOLI7fIrPc0V102VUj1qZDTpYPmIZglQIKZGbGZKUcbVHoKNRn6S0h58NYEAWPiSpnMcJBRwcaddiu5+OPz0mCBRFm/WIMcN9F8xy8vfrgXR0qCVQpfLJpPhb8woWl5m3mAW/QYkWe7/xQFsg5Kfi5JX7I+HzIZ0wPO84WXQapuR0O5gjIOocOCHHqrFefke8bN7Aj8GL2zdnQyGsAqLDoEbwGc=;3a7Aqhte7VnTP1yrNqzj4A=="
+secured: "dxuVu9s4fyVzC2cPcRwxStvJ3h8sEj62LZLhTODSl/oLNESnPL9AVG0U3JyA7N8oMHAkriyFdkQO6kw92LN/TYcLWrJTXgm+bDVFhKYv5Tc8ziCUTdFFUDTNJWKwGVIZAMKFbTua9R5oNOMdPGDeFrfZj/rnxdKQD6d5J75ULaUDcI4i/rYpftXBQ7IlLkP6TCCwhTEW6TY0ze1Fk/fj7wULbNE+68Zyx+UhhzZy+RVkFOoBfcfF+UsS8qvfWerakyBiO8gAa+RL7JFA0xF4RYNnWw35p53WCZBu9bN8VgV2W8oxhwuMowNESndjRI+9IgAxrtMCOLxQiPObp/L49nMok5/qPvxycuCAu7os5YCf06DUq6LFZ3/7Fy2qnz4Re4BLtcyQuxxWejX8mmSd4aDa6XCQb1ebIPndvScdzK6S3x3adsm7zq13RdvSuX04yMVCPhaWtQD6rWASBnXhJHYQvuEImbQxKOC6A3oECB3LaQGcVlfKTSzI1BR5JRmcW5fqclAkL25lhhyvatlkzQ==;ZF+7K6eck/FW8iFaNdIVCA=="
 ---
 

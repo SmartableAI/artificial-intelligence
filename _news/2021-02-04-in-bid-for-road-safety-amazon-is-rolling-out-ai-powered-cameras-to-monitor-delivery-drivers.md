@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/rachelsandler/2021/02/03/in-bid-for-roa
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelsandler/2021/02/03/in-bid-for-road-safety-amazon-is-rolling-out-ai-powered-cameras-to-monitor-delivery-drivers/amp/"
 type: article
 quality: 76
-heat: 76
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Amazon plans to install AI-powered cameras in delivery vehicles"
+    excerpt: "Amazon said Wednesday it plans to equip its delivery vans with cameras powered by artificial intelligence in an effort The internet retailer said it had recently started rolling out technology across its delivery fleet,"
+    publishedDateTime: 2021-02-04T03:24:00Z
+    webUrl: "https://www.cnet.com/news/amazon-plans-to-install-ai-powered-cameras-in-delivery-vehicles/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/amazon-plans-to-install-ai-powered-cameras-in-delivery-vehicles/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-plans-to-install-ai-powered-cameras-in-delivery-vehicles/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://cnet4.cbsistatic.com/img/fS83UzG25a-76KAqWp20Oyc6ycU=/1200x630/2021/02/04/35d80178-a496-462f-a268-0a74948f3cb0/gettyimages-1230935623.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Y1hENl03WXkEiAvUf+VL+n9zisqqUPGBTZPEK0wfskzUL1gJr6iIMwL9ndOSUqdGmTlk2u4Vy+ZulyZZLvbkE004gvMCxZ2vUrYBkq94NhdkJuSp4/wezz1eIjBmmj2FujIvzBcI3OCSjie9LYaB2fJmW2sQjr9xg/54xsq2M/ryGL/x711NAwLwJk3d8PK4uKzTJCqQXmqoQwOmfwcKkOWPadi30JrGFCDE+YVBGhWee6YUnvXn+CqwHG0ASuFW5DseKBo+rFDE5RMk2TcDI5BH9ylV7fZkObwyY/TU4yTZLVQQiroW6jeD+a6h+W1/viMMN5Z6abqVc9XiYM4P0Vz5L/H+Hnn9hyeEibmuTvVpfuJow/m1sejvgJOvGXT/jIpKffjBQfmK00LzfBU+KxartyFnHxxJo1i6Uvfc55kpkgTk5yxqke5LOT7NPzLbzu0EV6s8GWpzjKBy+pL9nOzC7FIzUTYI3fszr9EoTqJwBYhNUTg5qPPQWAnvFZQu4yaGPfPwjombrp11UlJCSA==;kS6Ysjv9JbNBwsy8yzk9/w=="
 ---

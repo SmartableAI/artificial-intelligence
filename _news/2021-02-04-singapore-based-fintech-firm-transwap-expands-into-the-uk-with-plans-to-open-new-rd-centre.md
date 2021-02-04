@@ -36,20 +36,6 @@ related:
       name: The Guardian Nigeria
       domain: guardian.ng
     quality: 24
-  - title: "Start-ups, student teams among 11 winners of Singapore Digital Techblazer Awards"
-    excerpt: "SINGAPORE - A biomedical start-up that uses artificial intelligence to improve the accuracy of antibody drug discovery. A robotics start-up that developed a solution allowing non-technical users to programme robots easily."
-    publishedDateTime: 2021-01-30T12:11:00Z
-    webUrl: "https://www.straitstimes.com/tech/11-winners-lauded-for-spirit-of-innovation-at-third-singapore-digital-techblazer-awards"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 19
-    images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/01/27/yutechblazer0127main.jpg?itok=mYstWSxu"
-        width: 763
-        height: 509
-        isCached: true
   - title: "Singapore launches new self-driving bus trial"
     excerpt: "Singapore has moved a step closer to a driverless public transport network with the launch of a new trial of self-driving buses."
     publishedDateTime: 2021-02-01T01:05:00Z
