@@ -2,6 +2,143 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-01-29-academic-city-university-college-launches-bsc-robotics-engineering-programme.md",
+      "title": "Academic City University College launches BSc Robotics Engineering Programme",
+      "excerpt": "He revealed that in the Robotics programme, emphasis is placed on design, analysis and modeling, programming, integration of Artificial Intelligence (AI) and manufacturing. \"Additionally, the need to industrialise has been effectively articulated by the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.modernghana.com/news/1058182/academic-city-university-college-launches-bsc-robo.html",
+      "originalUrl": "https://www.modernghana.com/news/1058182/academic-city-university-college-launches-bsc-robo.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.modernghana.com/content__/600/400/129202164730-h41o266fea-whatsapp-image-2021-01-28-at-11.04.26-pm.jpeg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.modernghana.com/amp/news/1058182/academic-city-university-college-launches-bsc-robo.html",
+      "cdnAmpWebUrl": "https://www-modernghana-com.cdn.ampproject.org/c/s/www.modernghana.com/amp/news/1058182/academic-city-university-college-launches-bsc-robo.html",
+      "publishedDateTime": "2021-01-28T22:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Modernghana.com",
+        "domain": "modernghana.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-the-amazing-ways-wild-me-uses-artificial-intelligence-and-citizen-scientists-to-help-with-conservation.md",
+      "title": "The Amazing Ways Wild Me Uses Artificial Intelligence And Citizen Scientists To Help With Conservation",
+      "excerpt": "Wildlife conservation is an enormous challenge. Wild Me, a non-profit organization, is leveraging the photos and videos of citizen scientists and the cloud, artificial intelligence, and computer vision to help track individual animals and to inform wildlife conservation efforts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2021/01/29/the-amazing-ways-wild-me-uses-artificial-intelligence-and-citizen-scientists-to-help-with-conservation/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/01/29/the-amazing-ways-wild-me-uses-artificial-intelligence-and-citizen-scientists-to-help-with-conservation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60139ca26580dd95edd4bbc2%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2021/01/29/the-amazing-ways-wild-me-uses-artificial-intelligence-and-citizen-scientists-to-help-with-conservation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/01/29/the-amazing-ways-wild-me-uses-artificial-intelligence-and-citizen-scientists-to-help-with-conservation/amp/",
+      "publishedDateTime": "2021-01-28T21:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-new-machine-learning-model-predicts-covid-19-severity.md",
+      "title": "New machine learning model predicts COVID-19 severity",
+      "excerpt": "COVID-19 vaccine distribution has begun across the globe, while many countries are still struggling with the rampant rise of infections.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20210128/New-machine-learning-model-predicts-COVID-19-severity.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20210128/New-machine-learning-model-predicts-COVID-19-severity.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/1/CT_machine_is_prepared_for_the_patient_shooting-sfam_photo_698c003ae3d54b69bf4c077708d403e4-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20210128/New-machine-learning-model-predicts-COVID-19-severity.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210128/New-machine-learning-model-predicts-COVID-19-severity.aspx",
+      "publishedDateTime": "2021-01-28T20:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-29-spotify-is-developing-speech-recognition-tech-to-detect-your-mood-and-suggest-music.md",
       "title": "Spotify is developing speech-recognition tech to detect your mood and suggest music",
       "excerpt": "Global music-streaming giant Spotify has recently been granted a patent for a new technology which will allow it to analyze its users' voice data – including speech recognition and background noise – with an eye to suggesting music based on what it finds.",
@@ -110,8 +247,8 @@
       "title": "Stem cell AI -- 'brain on a chip' project aims to revolutionize computing power",
       "excerpt": "Scientists have started work on a project that will see human brain stem cells used to power artificial intelligence (AI) devices and bring about a revolution in computing. The Neu-ChiP project, an international collaboration led by researchers at Aston University,",
       "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2021-01/au-sca012621.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-01/au-sca012621.php",
+      "webUrl": "https://www.eurekalert.org/pub_releases/2021-01/au-sca012621.php?fbclid=IwAR33zzyfi0RpPhP6U27mWBXLcQ4xYph3aUKBVIUVKAV4pa71AVJqzhW7AfQ",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-01/au-sca012621.php?fbclid=IwAR33zzyfi0RpPhP6U27mWBXLcQ4xYph3aUKBVIUVKAV4pa71AVJqzhW7AfQ",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1063,151 +1200,6 @@
         "AI in Robotics",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-world-economic-forum-launches-global-alliance-to-speed-adoption-of-trustworthy-ai.md",
-      "title": "World Economic Forum launches global alliance to speed adoption of trustworthy AI",
-      "excerpt": "The World Economic Forum is launching the Global AI Action Alliance today with over 100 organizations participating.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/28/world-economic-forum-launches-global-alliance-to-speed-adoption-of-trustworthy-ai/",
-      "originalUrl": "https://venturebeat.com/2021/01/28/world-economic-forum-launches-global-alliance-to-speed-adoption-of-trustworthy-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/world-economic-forum.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/28/world-economic-forum-launches-global-alliance-to-speed-adoption-of-trustworthy-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/28/world-economic-forum-launches-global-alliance-to-speed-adoption-of-trustworthy-ai/amp/",
-      "publishedDateTime": "2021-01-28T07:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-researchers-propose-ai-system-that-summarizes-historical-texts.md",
-      "title": "Researchers propose AI system that summarizes historical texts",
-      "excerpt": "Summarizing historical text can help to better gather, organize, and share knowledge by identifying the key points in original documents. However, this comes at the cost of time and effort. Due to cultural and linguistic changes over time and the sheer volume of archives,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/28/researchers-propose-ai-system-that-summarizes-historical-texts/",
-      "originalUrl": "https://venturebeat.com/2021/01/28/researchers-propose-ai-system-that-summarizes-historical-texts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/28/researchers-propose-ai-system-that-summarizes-historical-texts/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/28/researchers-propose-ai-system-that-summarizes-historical-texts/amp/",
-      "publishedDateTime": "2021-01-28T06:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-ai-startup-growing-in-indy.md",
-      "title": "AI Startup Growing in Indy",
-      "excerpt": "An Indianapolis-based Software-as-a-Service company is planning to expand its central Indiana operations. Catipult.AI, which has developed an artificial intelligence platform to help businesses manage",
-      "sourceUrl": null,
-      "webUrl": "https://www.insideindianabusiness.com/story/43252015/ai-startup-growing-in-indy",
-      "originalUrl": "https://www.insideindianabusiness.com/story/43252015/ai-startup-growing-in-indy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://INSIDEINDIANA.images.worldnow.com/images/20307337_G.jpg?lastEditedDate=1611824691000",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-28T06:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "INside INdiana Business",
-        "domain": "insideindianabusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

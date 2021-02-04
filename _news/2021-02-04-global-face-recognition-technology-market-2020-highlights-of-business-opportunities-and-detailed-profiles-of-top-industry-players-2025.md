@@ -29,34 +29,31 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Market Insights By Growth, Research Methodology, Emerging Trends and Forecast 2027"
-    excerpt: "Facial Recognition is a biometric application which captures image of an individual and identify it by applying"
-    publishedDateTime: 2021-02-03T14:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-insights-by-growth-research-methodology-emerging-trends-and-forecast-2027-2021-02-03"
+  - title: "Consumer Robotics Market Size, Comprehensive Analysis, Development Strategy, Opportunities, Future Trends and Industry Forecast 2023"
+    excerpt: "Market Research Future published a research report on \"Consumer Robotics Market Research Report – Global Forecast To 2023\""
+    publishedDateTime: 2021-02-01T16:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/consumer-robotics-market-size-comprehensive-analysis-development-strategy-opportunities-future-trends-and-industry-forecast-2023-2021-02-01"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 54
+    quality: 53
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Technology is now Capable of Identifying Political Views"
-    excerpt: "Michal Kosinski's new research indicates facial recognition technology is now capable of exposing people’s political orientation from naturalistic facial images using a machine learning algorithm."
-    publishedDateTime: 2021-01-31T05:14:00Z
-    webUrl: "https://www.analyticsinsight.net/facial-recognition-can-reveal-your-political-orientation/"
+  - title: "Natural Language Processing in Healthcare and Life Sciences Market 2021 Growth, COVID Impact, Trends Analysis Report 2027"
+    excerpt: "The global Natural Language Processing NLP in healthcare and life sciences market size to grow from USD 1 5 billion in 2020 to USD 3 7 billion by 2025 at a Compound Annual Growth Rate CAGR of 20 5 during"
+    publishedDateTime: 2021-02-04T12:44:00Z
+    webUrl: "https://www.openpr.com/news/2236397/natural-language-processing-in-healthcare-and-life-sciences"
+    ampWebUrl: "https://www.openpr.com/amp/2236397/natural-language-processing-in-healthcare-and-life-sciences"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2236397/natural-language-processing-in-healthcare-and-life-sciences"
     type: article
     provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 37
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/FR.png"
-        width: 900
-        height: 552
-        isCached: true
+      name: openpr.com
+      domain: openpr.com
+    quality: 31
 
 secured: "B+I2aveVmGwMfQht/6NgJzm/MYHBu2B/gFeaJN0gm7mdrQXl5893RZ8ONVYnDwxnLGbFgNHPMLTWP+wip1HHSgrfu5bUTjbQQ5BJWTp4Jz+1JabpVeJ8XoKtNRQFnuxncB5fncbs8K4ReVQiFyoPTYIU+aprfGsqFy86ndntVFFoGhUHJ3/gniwXoyEIbspmhkUxd9eFg6ZYow6+9OCVADFBSYmCldlzOMn8BOtrAnp/8p/mTi5FqEYlDSpFOUAXB5NKfbtulnNxrbI7sfT9joez8BPrfw+6f+PZDPxoUKW4Hu6xOQCeIx1znoywLAiiLRqnFmnrnoA16RcgfJnE6s9wDcpOX8hlE+g2qukwb1o=;vBHuBkEb8YbGY62F3bEiAA=="
 ---

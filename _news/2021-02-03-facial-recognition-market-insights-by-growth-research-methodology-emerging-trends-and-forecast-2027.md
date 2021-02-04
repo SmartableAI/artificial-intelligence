@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/facial-recognition-marke
 webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-insights-by-growth-research-methodology-emerging-trends-and-forecast-2027-2021-02-03"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -29,33 +29,35 @@ images:
     isCached: true
 
 related:
-  - title: "Global Face Recognition Technology Market 2020 Highlights of Business Opportunities and Detailed Profiles of Top Industry Players 2025"
-    excerpt: "MarketsandResearch.biz is aimed at offering market research study on Global Face Recognition Technology Market"
-    publishedDateTime: 2021-02-04T10:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-technology-market-2020-highlights-of-business-opportunities-and-detailed-profiles-of-top-industry-players-2025-2021-02-03"
+  - title: "Image Recognition Market will obtain $53.0 billion by 2025"
+    excerpt: "According to a new market research report Image Recognition Market by Technology Digital Image Processing Facial Recognition Pattern Recognition Component Hardware Software and Services Deployment Mode On premises Cloud Application Vertical and Region Global Forecast to 2025 published by"
+    publishedDateTime: 2021-02-04T16:55:00Z
+    webUrl: "https://www.openpr.com/news/2236648/image-recognition-market-will-obtain-53-0-billion-by-2025"
+    ampWebUrl: "https://www.openpr.com/amp/2236648/image-recognition-market-will-obtain-53-0-billion-by-2025"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2236648/image-recognition-market-will-obtain-53-0-billion-by-2025"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
+      name: openpr.com
+      domain: openpr.com
+    quality: 59
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.openpr.com/U/2/U204746962_g.jpg"
+        width: 650
+        height: 439
         isCached: true
-  - title: "Facial Recognition Technology is now Capable of Identifying Political Views"
-    excerpt: "Michal Kosinski's new research indicates facial recognition technology is now capable of exposing people’s political orientation from naturalistic facial images using a machine learning algorithm."
-    publishedDateTime: 2021-01-31T05:14:00Z
-    webUrl: "https://www.analyticsinsight.net/facial-recognition-can-reveal-your-political-orientation/"
+  - title: "Image Recognition Market Worth $ 98.47 Billion, Globally, by 2027 at 18.24% CAGR: Verified Market Research"
+    excerpt: "Verified Market Research recently published a report, \"Image Recognition Market\" By Technology (Object Recognition, Facial Recognition, Digital"
+    publishedDateTime: 2021-02-03T15:17:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-02/51913954-image-recognition-market-worth-dollar-98-47-billion-globally-by-2027-at-18-24-cagr-verified-market-research-008.htm"
     type: article
     provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 37
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 6
     images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/FR.png"
-        width: 900
-        height: 552
+      - url: "https://mma.prnewswire.com/media/1432317/Image_Recognition_Market.jpg"
+        width: 400
+        height: 225
         isCached: true
 
 secured: "Zg7QgdmvGwCxHjfGvXNinsExkd13dqXJc7ExQXjznplM9Nxu0nigXIgOWsLlQ5XYKHJd9cW4ry0+flGA9l4U4s2DsKYh3dIMpseVNEJF0FW3SbrRIKCe6KWpmrI10K17j8i6PIDQaU7HyjOj5FeBWp9L73AAfOhT/xE5HBj9+xXlsrQuKWv8d2yRzbG42Fl0t2zWEriFqaJ1Kr8P3278itvSLMXCrIcyIdQ0auxLDsAA6/NSo4rSTcWmGS1aKZTcvDDbnkHgpX4KMhYRjk6bMNrJscoGTersj0xWViflPR75oLc8dE97RNOYNKNU96LBif5bE2X2dwLFUdLHxrqnkv13C4vfXaUxn4VXtL0kefM=;ntCN87rQrtt5utK+jBj0Lw=="

@@ -30,7 +30,7 @@ related:
   - title: "Two Google engineers resign over firing of AI ethics researcher Timnit Gebru"
     excerpt: "An engineering director and a software developer have quit Alphabet Inc's Google over the dismissal of AI researcher Timnit Gebru, a sign of the ongoing conflicts at the search giant over diversity and ethics."
     publishedDateTime: 2021-02-04T07:26:00Z
-    webUrl: "https://www.reuters.com/article/us-alphabet-resignations/two-google-engineers-resign-over-firing-of-ai-ethics-researcher-timnit-gebru-idUSKBN2A4090"
+    webUrl: "https://www.reuters.com/article/us-alphabet-resignations-idUSKBN2A4090"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A4090"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A4090"
     type: article
@@ -71,6 +71,6 @@ related:
       domain: army.mil
     quality: 56
 
-secured: "+LFaF4EbNLmpeR2yiK80uHTB/NGb9z1g8LntEXjHGfl5lsfC7CRl4iOQJ/E1mMf1/NBCAEMeKMOJBO4Ynj6nTiv0S06KppTOMFVPkQAJt9dWBiobY3bA61R3rCLTNgcipsvTDhVrSZU2CbiK7RJh8v0SLV3BSxl3zjt9+LZaLrKHSRkNrMMfM5DzGk7v58EHSw/Xc+DzR3609YbWeaFmbX5d5GICUf3CZgydZfJqZge2dIg3mQBlJkDk44b3zEEsL+9WlZOsc8dIrCRbTvqIMpgiYWDJVg6cKpvh2E9tT0qtPVCaSM09uIftwUdFLJaM2oieC4M/z6YDwo+asyoKFTZRyTyABlWszCSZup9oESI=;NnZheFcWBorB59cRY8s45w=="
+secured: "kv5WYzm3ZEUZk/DP11mPYXp2krmwXd+wNho9v6OVpOUK/qjXFqXnvLhEdpO2G5PNjLSp/w1NYdSNoepQMeKS4yiHI2GDNM9cvGjZZ451VJq7mVK3a7i+2NL83lzHMEYsRZEyApPABf5l7lJaxNeWQV3UiFJ3asZbRGzAkiaFCbdNulukPmSXSVXXRrj3xPSoU6l52ugFxU675C1+lcMIkG7UOuAKJ4cfj0JBwYK/P+44llO5niMY2Fr1DVCc8+VQX7YoPCAJYtCcPpI0oKxRsXD/qd8KiGDNCAnVAHbZOUthq1mz8wYIP9Ojdqe8b3uNwo4ZKeUZVg7KIv87gvb99sywmIzufUT5nXJuYM4ee1ONjDtPFp7WNKJVEEqnFvKqhTLsUczq1TJJUntykFf5wF7OEZoxXOujcqq7HTqHDzqrFf3KxzfRjXTsn217zxOUcouMp611eOYxTTRMLkvnfjClOorRbnJUPVZFEWJJ+22ITsYqPfkoJyfjOhIICzvM+QA3V1tgHlf+Ivoma/BIyQ==;1OCGWtWHPVjaZoXydztXxA=="
 ---
 

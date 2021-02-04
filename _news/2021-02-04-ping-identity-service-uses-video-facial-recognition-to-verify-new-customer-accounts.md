@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2021/02/03/ping-identity-service-uses-vid
 webUrl: "https://siliconangle.com/2021/02/03/ping-identity-service-uses-video-facial-recognition-verify-new-customer-accounts/"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Ping Identity Launches Face-Based Onboarding Solution"
-    excerpt: "The solution has been dubbed PingOne Verify, and it uses face and document recognition to match a selfie to the image on an official government ID. In that regard, PingOne Verify is comparable to other face-based onboarding solutions. The service is ..."
-    publishedDateTime: 2021-02-02T21:51:00Z
-    webUrl: "https://mobileidworld.com/ping-identity-launches-face-based-onboarding-solution-020209/"
+  - title: "Facial Recognition Technology is now Capable of Identifying Political Views"
+    excerpt: "Michal Kosinski's new research indicates facial recognition technology is now capable of exposing people’s political orientation from naturalistic facial images using a machine learning algorithm."
+    publishedDateTime: 2021-01-31T05:14:00Z
+    webUrl: "https://www.analyticsinsight.net/facial-recognition-can-reveal-your-political-orientation/"
     type: article
     provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 24
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 37
     images:
-      - url: "https://mobileidworld.com/wp-content/uploads/face-269x300.jpeg"
-        width: 269
-        height: 300
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/FR.png"
+        width: 900
+        height: 552
         isCached: true
 
 secured: "DGtvQOzMEk9BrTwo3UmarrEAEm7XgBLf3MydzAFKSYErurHi95jL8Jtc+TqHZaQrnrBFKq6//JFqwySgEdH0Su8ofs8Ii2yrIJerISkmo8cl3ACJHZB4NeKyETWEst0OhP08Ms4iQtmSOPMg5dWJM6DnA08Ltitc+9hlJQYQIGb54MvSErHdrcX2CmwYjxJ2UZDWBGWZCsxpqYz9ceJs+E+2vF4A8Y3tGAGIOgcz+biKP7v5l//kVonIg2HHsc8Y7mJBLqVe/parAwoThine8OZFTdTJG0PqgrRgfJ0tdV4h7f/zKYt8SUpjJPVVjh4G6wVQNn+4gpljflPgxYTAHTtbsHr+kZB/GjxWUMFT3QZPJ7fv0FkmVKb9XMeNnIOQkieqj52PE/n7X6VTWRMFp7CZv7Lp39qztCsa9+FXeqbEWPpScTdJ6HyCNBLCGh9lKM0UJCiQQmBGIYmrvDl1h82CW1oI08hLG7P8lDSq/hHTKoBS37zuPGqUzMZEeCvmZLmpWzWrgJOsFO6/mhBULA==;+4u7rqVk2Y/9s5m7+DlYwA=="

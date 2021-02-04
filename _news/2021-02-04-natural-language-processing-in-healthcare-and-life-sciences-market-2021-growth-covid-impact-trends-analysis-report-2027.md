@@ -36,6 +36,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Face Recognition Technology Market 2020 Highlights of Business Opportunities and Detailed Profiles of Top Industry Players 2025"
+    excerpt: "MarketsandResearch.biz is aimed at offering market research study on Global Face Recognition Technology Market"
+    publishedDateTime: 2021-02-04T10:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-technology-market-2020-highlights-of-business-opportunities-and-detailed-profiles-of-top-industry-players-2025-2021-02-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "ln1CtL3YwBD7MiGUsSBceNf4SfbACqokTdfnhBWEtJX4Fby0Uj5RglaVThzYtYqF0nQ/TRJT+j0z5D6Q5N9L/o4RMt2a9TS2pYMICOi5wzw1G0tlNxDeOYFf8u/BYuYlBanXZo/MEw68xfmKJwcdnxasOnCcqUWl54xMqV/yIgL1Jq5+C4mo9OzNoHaAxylj/PZYLwUFt4jZkDqbKy+MCUape2fXSRVqNWtSSs7rbfUj2rQzyvReDaeTkE+s1KF1WawCa2ueFdQwotQpbIq0pfvC1yPokQ6pGrCNAhXIuC5vRWsF7Lyh9yn6Vj9nFz1daLk7WhNisd4huQWInH3kLzDQKxMRtXArDwgPy9wSPp0=;MPE0ACXemfJz3XLlUH1AmQ=="
 ---

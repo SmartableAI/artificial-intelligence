@@ -67,6 +67,17 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 24
+  - title: "Goodyear invests in self-driving trucking company TuSimple"
+    excerpt: "TuSimple operates self-driving trucks out of its facilities in Arizona, Texas, China, Japan and Europe using digital maps, terminals and an autonomous fleet operations system."
+    publishedDateTime: 2021-02-04T16:44:00Z
+    webUrl: "https://www.bizjournals.com/cleveland/news/2021/02/04/goodyear-invests-in-self-driving-trucking-company.html"
+    ampWebUrl: "https://www.bizjournals.com/cleveland/news/2021/02/04/goodyear-invests-in-self-driving-trucking-company.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/cleveland/news/2021/02/04/goodyear-invests-in-self-driving-trucking-company.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 24
 
 secured: "vn+KEcTBh+p92Z/mP/WR+OATtWCfa/AtafUkwx9kyxXGA3GLwO8dSGc7Q1nPGWBptugRue3r/V/ytb8gQev81KZRwNs7TvfhBL+j09UkMqayBzfYsbcg6hbNGSGl1MAzIvK2tgCofBICnIidWgtd6HSwsZ9pl6m/fJDo2ZuCC9tGxMzDT6S6xm+QTUeawqoWM4uOohzHmGnWARYAyuxM295yVsQbIpEwhJqGwAZoDMs0ZPQ3kTAcKFWtmpMfPPcfkrCDfyMFpU6nQ75iDzLE+IZlHIUi4pvWDUfqXn3OrIKbqZj5jMpnibaDHH6QN9LaIoBSxq2+/YePBPcGS8WjJZLr9jgx8/rPmORNUNWUS2I=;R+qAC8as/qXqG0IwnRh5qA=="
 ---

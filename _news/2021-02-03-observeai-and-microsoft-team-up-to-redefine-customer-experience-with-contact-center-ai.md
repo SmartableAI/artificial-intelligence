@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
-excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance"
-publishedDateTime: 2021-02-02T22:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
-webUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
+excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
+publishedDateTime: 2021-02-03T08:22:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
+webUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
 type: article
-quality: 26
+quality: 46
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Microsoft's cutting-edge machine-learning tool moves from the lab to the mainstream"
@@ -157,7 +163,7 @@ related:
   - title: "Observe.AI and Microsoft Team Up on Contact Center AI"
     excerpt: "Observe.AI, a contact center artificial intelligence technology provider, is working with Microsoft to bring automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
     publishedDateTime: 2021-02-02T17:29:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Observe.AI-and-Microsoft-Team-Up-on-Contact-Center-AI-145046.aspx"
+    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=145046"
     type: article
     provider:
       name: Destination CRM
@@ -182,7 +188,21 @@ related:
         width: 510
         height: 314
         isCached: true
+  - title: "Microsoft’s Custom Neural Voice technology goes out of preview"
+    excerpt: "Microsoft has announced that its text-to-speech AI “Custom Neural Voice” has hit general availability. The technology enables developers to create personalized voices using their audio data and"
+    publishedDateTime: 2021-02-04T16:31:00Z
+    webUrl: "https://www.onmsft.com/news/microsofts-custom-neural-voice-technology-goes-out-of-preview"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 39
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2021/01/Microsoft-Campus.jpg"
+        width: 1024
+        height: 768
+        isCached: true
 
-secured: "nGWq0ruwQq0memaXpTIF1fzplTvWXHUMfCKh8Iljppe3R8fMDjXbwt9wt6fjF7jfwtYkErITC3NGo3zUT1JBzOus/KgE8/vDXhdHU5Bp2UJa6bNg1a2NXTyrvlK2gPo+MUpzm045SzZtbwfTTg6N+2O1VwgEhs1vfFoZCuEv7FN/P0ZkkLtzg2gq1h5sc6YMsyj7QttHVQmudQiND4YgWiMQE/9tcP1PdzOXG7MfDmH6CKSRADdYRNxCLzk48Zp5FbaMnV6PYlsohNmU0Dv1Ftsbpy7CpsmSoJi5B5aV4MuCroQbe60dYyDD15pDOe5bN2HUmWYETsoRo7g6ZnaBFAD5HaG5Z73jY3fzryQ1lUY=;MhXBwAU3iQLyWfqqvvL8Kg=="
+secured: "D7sYsQ///9YBP33rbnjb4uT5Fl5JRG0fWCJ4OyaU15btxSX7MccTspaPH/TSAKYwIwEttMSFtdJvGaoX4g7UICXs1k+JnL/NLzQPuWKPCGFr2wCR7eTkab16y2F0OomatRtqVKmvAwuNKZLwyyEOgFOr8/SPiy6/t9lrtw7nJ0i0fTlZc1qQuEgSs34nJNQehk1OpdGeWzbXAxYjxmx9dwy/x2/jXbRmnJn7cc9M0MNp4NS6h8k62igMWfaNvuKLd/jecTSy6zCUqMSeRi2V2fhAt2KytHOxj1XuDteOo5ItVQHwUak84hynclrt2kpTgAhYREIYvjPX4PCXi1O/24dMR3mV3o595yylnIU16IY=;18I1NYQNYxAAJn7CLJhdZg=="
 ---
 

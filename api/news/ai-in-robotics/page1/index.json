@@ -417,6 +417,58 @@
       ]
     },
     {
+      "path": "_news/2021-02-02-consumer-robotics-market-size-comprehensive-analysis-development-strategy-opportunities-future-trends-and-industry-forecast-2023.md",
+      "title": "Consumer Robotics Market Size, Comprehensive Analysis, Development Strategy, Opportunities, Future Trends and Industry Forecast 2023",
+      "excerpt": "Market Research Future published a research report on \"Consumer Robotics Market Research Report – Global Forecast To 2023\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/consumer-robotics-market-size-comprehensive-analysis-development-strategy-opportunities-future-trends-and-industry-forecast-2023-2021-02-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/consumer-robotics-market-size-comprehensive-analysis-development-strategy-opportunities-future-trends-and-industry-forecast-2023-2021-02-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-01T08:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-01-ai-mit-scientists-develop-a-new-liquid-neural-network-future-of-robot-control.md",
       "title": "AI: MIT scientists develop a new ‘liquid’ neural network – ‘future of robot control’",
       "excerpt": "MIT scientists have developed a type of neural network that learns on the job, not just during its training phase. These flexible algorithms, dubbed “liquid” networks, change their underlying equations to continuously adapt to new data inputs.",
@@ -1352,40 +1404,6 @@
         "AI in Healthcare",
         "AI Hardware",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-miso-robotics-expands-series-c-into-2021-to-match-investor-demand.md",
-      "title": "Miso Robotics Expands Series C into 2021 to Match Investor Demand",
-      "excerpt": "After raising a record-breaking $17 million through crowdfunding, the creators of Flippy extend round as pandemic boosts demand for kitchen robots",
-      "sourceUrl": null,
-      "webUrl": "https://www.roboticstomorrow.com/news/2021/01/26/miso-robotics-expands-series-c-into-2021-to-match-investor-demand/16155/",
-      "originalUrl": "https://www.roboticstomorrow.com/news/2021/01/26/miso-robotics-expands-series-c-into-2021-to-match-investor-demand/16155/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-26T12:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Robotics Tomorrow",
-        "domain": "roboticstomorrow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

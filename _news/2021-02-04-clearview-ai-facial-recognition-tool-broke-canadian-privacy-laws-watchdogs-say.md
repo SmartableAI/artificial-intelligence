@@ -145,6 +145,20 @@ related:
         width: 1000
         height: 704
         isCached: true
+  - title: "Privacy commissioners call facial recognition service illegal"
+    excerpt: "Canada’s privacy commissioner and three of his provincial counterparts say a facial recognition tool sold by  technology company Clearview constitutes mass surveillance and is illegal in Canada. “It is an affront to individuals’ privacy rights and inflicts broad-based harm on all members of society,"
+    publishedDateTime: 2021-02-04T16:00:00Z
+    webUrl: "https://www.rcinet.ca/en/2021/02/04/privacy-commissioners-call-facial-recognition-service-illegal/"
+    type: article
+    provider:
+      name: rcinet.ca
+      domain: rcinet.ca
+    quality: 39
+    images:
+      - url: "https://www.rcinet.ca/en/wp-content/uploads/sites/3/2021/02/istock-1284886674.jpg"
+        width: 1266
+        height: 828
+        isCached: true
   - title: "Clearview Facial-Recognition Technology Ruled Illegal in Canada"
     excerpt: "The company’s controversial practice of collecting and selling billions of faceprints was dealt a heavy blow by the Privacy Commissioner that could set a precedent in other legal challenges."
     publishedDateTime: 2021-02-04T12:52:00Z
@@ -169,6 +183,17 @@ related:
     provider:
       name: Seattle Times
       domain: seattletimes.com
+    quality: 23
+  - title: "Clearview’s facial recognition technology is illegal mass surveillance, Canadian privacy officials say"
+    excerpt: "Clearview's facial recognition technology is illegal mass surveillance, Canadian privacy officials say Clearview AI's facial recognition"
+    publishedDateTime: 2021-02-04T16:02:00Z
+    webUrl: "https://www.compsmag.com/news/technology/clearviews-facial-recognition-technology-is-illegal-mass-surveillance-canadian-privacy-officials-say/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/clearviews-facial-recognition-technology-is-illegal-mass-surveillance-canadian-privacy-officials-say/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/clearviews-facial-recognition-technology-is-illegal-mass-surveillance-canadian-privacy-officials-say/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
     quality: 23
   - title: "‘What Clearview does is mass surveillance and it is illegal’: Privacy watchdog slams facial recognition tech used by RCMP and Toronto police"
     excerpt: "A joint investigation by Canadian privacy regulators has concluded that Clearview AI’s controversial technology represented “the mass identification"

@@ -3,8 +3,8 @@ category: news
 title: "Two Google engineers resign over firing of AI ethics researcher Timnit Gebru"
 excerpt: "An engineering director and a software developer have quit Alphabet Inc's Google over the dismissal of AI researcher Timnit Gebru, a sign of the ongoing conflicts at the search giant over diversity and ethics."
 publishedDateTime: 2021-02-04T07:26:00Z
-originalUrl: "https://www.reuters.com/article/us-alphabet-resignations/two-google-engineers-resign-over-firing-of-ai-ethics-researcher-timnit-gebru-idUSKBN2A4090"
-webUrl: "https://www.reuters.com/article/us-alphabet-resignations/two-google-engineers-resign-over-firing-of-ai-ethics-researcher-timnit-gebru-idUSKBN2A4090"
+originalUrl: "https://www.reuters.com/article/us-alphabet-resignations-idUSKBN2A4090"
+webUrl: "https://www.reuters.com/article/us-alphabet-resignations-idUSKBN2A4090"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A4090"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A4090"
 type: article
@@ -21,8 +21,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - AI Ethics
+  - AI
 
 images:
   - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210204&t=2&i=1550257126&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1304U"
@@ -75,6 +75,6 @@ related:
       domain: army.mil
     quality: 56
 
-secured: "8gufR9NahHdJ+jAldjkuFK7k94uqlDZu2C2bi7ZKN0tBpcEbSF7Ojr3ioU1xYig95+NXDHYfMETpAAKd1k6YgJrteWUDizz/9mD/gPP173dVL7f7+HffkjFAOF+wo9PSVoR0gBnC2dT+dCEEhx5TeUiN7bNNgKmwsckELIj+Z1JdNcdjDhn3pszEsWYW4LDpaalG7ydxjYMdQTH0jD/DfewF7eqnhU8YtyE/9KIkqVgLp+Yeo1RlRPsKzir6T9DBrLWqcNs7hvkYUO/t8c7YjOhjaX0bH8DypZ+YzD0TCD4lNKM9+o/7zNWH5o1eUojH6ZzR5qELbaPxOlXf/itNT/VL37Khg8IaVKbEbZKaoqo=;+pRN7D1pNFEizREboZsYtA=="
+secured: "xG954sS0wA5N2I9AD8i2SZ1qkWNrwtlEgPZZ/H/NAXd72OnTzbxFNFSRxm/b4D7jNP5LP+rTAzuoRbAFJelg4F+MJ+WfZZvb7JTyq8lEUHAAN9juNqEZCWmjlt1DG+ACApEfM4GPG/zAB5oaaC8SriudmbT4fAXMpGGNr/FZhyeTbgTYYuCnd19fpC2GDcoY1Pvr39W4AiQ27qNu1RuJLtN6bFUhmbjYNXXjuRavRW1KtXyic7m7eLSbgdEYbb4tZHLHPK4P86WT/437pd92h87fD5Z4dqc7eymS7gLCoez7OamoB+8/LWLu81yzFZnVABaqgpCjhIicyu2l4z/nS7OUPVxhRyTLM68mBM9P95g=;Ba0UlEWHAli3cV1YIr5wBg=="
 ---
 

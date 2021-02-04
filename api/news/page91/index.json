@@ -2,6 +2,153 @@
   "page": 91,
   "value": [
     {
+      "path": "_news/2020-11-25-using-deep-java-library-to-do-machine-learning-on-springboot.md",
+      "title": "Using Deep Java Library to do Machine Learning on SpringBoot",
+      "excerpt": "Apply these frameworks to integrate ML capabilities into microservices for deep learning. Many AWS customers—startups and large enterprises—are on a path to adopt machine learning and deep ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3598313/using-deep-java-library-to-do-machine-learning-on-springboot.html",
+      "originalUrl": "https://www.infoworld.com/article/3598313/using-deep-java-library-to-do-machine-learning-on-springboot.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/11/team-of-computer-engineers-work-on-machine-learning-neural-network-picture-id1182697691-100868264-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-24T09:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-25-microservices-development-boosted-with-integrated-deep-learning.md",
+      "title": "Microservices Development Boosted With Integrated Deep Learning",
+      "excerpt": "This blog explores a simplified approach to combine microservice technology stacks and proven deep learning frameworks while using existing talent and resources. Many AWS customers—startups and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3598313/microservices-development-boosted-with-integrated-deep-learning.html",
+      "originalUrl": "https://www.infoworld.com/article/3598313/microservices-development-boosted-with-integrated-deep-learning.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/11/team-of-computer-engineers-work-on-machine-learning-neural-network-picture-id1182697691-100868264-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-24T08:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-resgreen-group-brings-affordable-and-effective-disinfecting-robot-to-market.md",
+      "title": "Resgreen Group Brings Affordable and Effective Disinfecting Robot to Market",
+      "excerpt": "PRNewswire/ -- Resgreen Group (RGGI) today launched sales of its industry-changing Wanda SD, a cost-effective robot that uses Ultraviolet-C (UVC) lights to sanitize everything from schools and offices to hotels and airplanes.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/resgreen-group-brings-affordable-and-effective-disinfecting-robot-to-market-1029835247",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/resgreen-group-brings-affordable-and-effective-disinfecting-robot-to-market-1029835247",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/resgreen-group-brings-affordable-and-effective-disinfecting-robot-to-market-1029835247",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/resgreen-group-brings-affordable-and-effective-disinfecting-robot-to-market-1029835247",
+      "publishedDateTime": "2020-11-24T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-24-the-ethical-use-of-ai-will-help-businesses-when-engaging-with-customers.md",
       "title": "The ethical use of AI will help businesses when engaging with customers",
       "excerpt": "Dries Cronje, CEO if Deep Learning Café, says that ethics will play a critical role as more businesses leverage AI in order to tap into customer trends.",
@@ -996,152 +1143,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-recent-trends-in-global-mobile-speech-recognition-software-market-to-expand-with-covid-19-impact-2020-2026.md",
-      "title": "Recent Trends In Global Mobile Speech Recognition Software Market - To Expand With Covid-19 Impact [2020-2026]",
-      "excerpt": "Global Mobile Speech Recognition Software Market report provides a crucial document of Technology and Media for the industry players to understand competitive Mobile Speech Recognition Software market scenario.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/recent-trends-in-global-mobile-speech-recognition-software-market---to-expand-with-covid-19-impact-2020-2026-2020-11-24",
-      "originalUrl": "https://www.marketwatch.com/press-release/recent-trends-in-global-mobile-speech-recognition-software-market---to-expand-with-covid-19-impact-2020-2026-2020-11-24",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-23T21:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-artificial-intelligence-ai-in-healthcare-market-advancements-in-technology-current-scenario-of-industry-and-demand-forecast-by-2027.md",
-      "title": "Artificial Intelligence (AI) In Healthcare Market Advancements in Technology, Current Scenario of Industry and Demand Forecast by 2027",
-      "excerpt": "Pune, Maharashtra, India, November 24 2020 (Wiredrelease) Allied Analytics –:AI in healthcare market is majorly driven by surge in processing power of AI systems leading to enhanced AI capabilities and application of AI for novel surgeries. Furthermore ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pharmiweb.com/press-release/2020-11-24/artificial-intelligence-ai-in-healthcare-market-advancements-in-technology-current-scenario-of-in",
-      "originalUrl": "https://www.pharmiweb.com/press-release/2020-11-24/artificial-intelligence-ai-in-healthcare-market-advancements-in-technology-current-scenario-of-in",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png",
-          "width": 1200,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-23T20:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PharmiWeb",
-        "domain": "pharmiweb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-softbank-led-round-values-uber-like-truck-startup-at-12-billion.md",
-      "title": "SoftBank-Led Round Values Uber-Like Truck Startup at $12 Billion",
-      "excerpt": "known as Manbang in Chinese, said Tuesday it broke even this year and currently handles transactions for some 10 million truckers and 5 million shippers. It’s also expanding into automotive technology and backs autonomous trucking startup Plus.AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-11-24/softbank-led-round-values-uber-like-truck-startup-at-12-billion",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-11-24/softbank-led-round-values-uber-like-truck-startup-at-12-billion",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZmQLXcawPmM/v0/360x-1.jpg",
-          "width": 360,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-11-24/softbank-led-round-values-uber-like-truck-startup-at-12-billion",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-11-24/softbank-led-round-values-uber-like-truck-startup-at-12-billion",
-      "publishedDateTime": "2020-11-23T20:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

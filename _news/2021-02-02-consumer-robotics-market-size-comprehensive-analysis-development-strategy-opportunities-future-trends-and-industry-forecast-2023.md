@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/consumer-robotics-market
 webUrl: "https://www.marketwatch.com/press-release/consumer-robotics-market-size-comprehensive-analysis-development-strategy-opportunities-future-trends-and-industry-forecast-2023-2021-02-01"
 type: article
 quality: 53
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: MarketWatch
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Global Face Recognition Technology Market 2020 Highlights of Business Opportunities and Detailed Profiles of Top Industry Players 2025"
+    excerpt: "MarketsandResearch.biz is aimed at offering market research study on Global Face Recognition Technology Market"
+    publishedDateTime: 2021-02-04T10:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-technology-market-2020-highlights-of-business-opportunities-and-detailed-profiles-of-top-industry-players-2025-2021-02-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural Language Processing in Healthcare and Life Sciences Market 2021 Growth, COVID Impact, Trends Analysis Report 2027"
     excerpt: "The global Natural Language Processing NLP in healthcare and life sciences market size to grow from USD 1 5 billion in 2020 to USD 3 7 billion by 2025 at a Compound Annual Growth Rate CAGR of 20 5 during"
     publishedDateTime: 2021-02-04T12:44:00Z

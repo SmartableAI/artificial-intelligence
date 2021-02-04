@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-03-xiaomi-founder-lei-jun-acquires-controlling-stake-in-ai-chip-developer-cvitek.md",
+      "title": "Xiaomi Founder Lei Jun acquires controlling stake in AI chip developer CVITEK",
+      "excerpt": "Earlier today (3rd February 2021), a new report surfaced that revealed that the Founder and CEO of Xiaomi has acquired stakes in a Chinese artificial intelligence development based firm called CVITEK.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/02/03/xiaomi-lei-jun-acquires-controlling-stake-in-cvitek/",
+      "originalUrl": "https://www.gizmochina.com/2021/02/03/xiaomi-lei-jun-acquires-controlling-stake-in-cvitek/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2021/02/abt-b.4202f298-e1612343206607.png",
+          "width": 768,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-03T01:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-03-vw-group-will-handle-self-driving-car-development-in-house-report-says.md",
       "title": "VW Group will handle self-driving car development in-house, report says",
       "excerpt": "Not only is developing self-driving car technology incredibly difficult, but it's also expensive. That has led many car companies to partner up with smaller, self-driving car-specific startups. Ford and Argo or Honda and Cruise,",
@@ -733,6 +785,48 @@
       ]
     },
     {
+      "path": "_news/2021-02-02-percayai-and-saint-louis-university-partner-to-accelerate-ai-adoption-across-biomedical-sciences-research.md",
+      "title": "PercayAI and Saint Louis University Partner to Accelerate AI Adoption across Biomedical Sciences Research",
+      "excerpt": "Biotech startup PercayAI and Saint Louis University (SLU) announced a partnership today to provide SLU researchers with access to PercayAI's augmented intelligence (AI) drug discovery platform. One of the primary components of the PercayAI platform is CompBio™,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/percayai-and-saint-louis-university-partner-to-accelerate-ai-adoption-across-biomedical-sciences-research-1030034010",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/percayai-and-saint-louis-university-partner-to-accelerate-ai-adoption-across-biomedical-sciences-research-1030034010",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/percayai-and-saint-louis-university-partner-to-accelerate-ai-adoption-across-biomedical-sciences-research-1030034010",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/percayai-and-saint-louis-university-partner-to-accelerate-ai-adoption-across-biomedical-sciences-research-1030034010",
+      "publishedDateTime": "2021-02-02T07:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-02-case-studies-of-successful-ai-startups.md",
       "title": "Case studies of successful AI startups",
       "excerpt": "Unsurprisingly, artificial intelligence is a small part -- albeit an important one -- of a successful product management strategy.",
@@ -1112,102 +1206,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-worldwide-digital-talent-acquisition-industry-to-2025-integration-with-ai-and-machine-learning.md",
-      "title": "Worldwide Digital Talent Acquisition Industry to 2025 - Integration with AI and Machine Learning",
-      "excerpt": "The Global Digital Talent Acquisition Market is expected to grow from $22,791.04 Million in 2020 to $33,498.78 Million by the end of 2025. This research report categorizes the Digital Talent Acquisition to forecast the revenues and analyze the trends in each of the following sub-markets: Based on Training,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/worldwide-digital-talent-acquisition-industry-to-2025-integration-with-ai-and-machine-learning-1030031930",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/worldwide-digital-talent-acquisition-industry-to-2025-integration-with-ai-and-machine-learning-1030031930",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 183,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/worldwide-digital-talent-acquisition-industry-to-2025-integration-with-ai-and-machine-learning-1030031930",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/worldwide-digital-talent-acquisition-industry-to-2025-integration-with-ai-and-machine-learning-1030031930",
-      "publishedDateTime": "2021-02-02T03:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-how-machine-learning-can-improve-our-email-experience.md",
-      "title": "How Machine Learning Can Improve Our Email Experience",
-      "excerpt": "Around 2015 or 2016, Google began a strategic move, possibly one of the most important it has undertaken in its more than 20 years of existence, to incorporate machine learning and apply it to all its products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/enriquedans/2021/02/02/how-machine-learning-can-improve-our-email-experience/",
-      "originalUrl": "https://www.forbes.com/sites/enriquedans/2021/02/02/how-machine-learning-can-improve-our-email-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60192be6e789e0fa6557c369%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3935%26cropY1%3D82%26cropY2%3D1927",
-          "width": 1200,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/enriquedans/2021/02/02/how-machine-learning-can-improve-our-email-experience/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/enriquedans/2021/02/02/how-machine-learning-can-improve-our-email-experience/amp/",
-      "publishedDateTime": "2021-02-02T02:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

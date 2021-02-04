@@ -2,6 +2,100 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-04-dustin-diamond-was-working-on-screechs-robot-ad-campaign-before-his-death.md",
+      "title": "Dustin Diamond Was Working on Screech's Robot Ad Campaign Before His Death",
+      "excerpt": "The ‘Saved by the Bell’ actor sadly passed away earlier this week after a short battle with advanced lung cancer.",
+      "sourceUrl": null,
+      "webUrl": "https://movieweb.com/dustin-diamond-dead-screech-robot-commercials/",
+      "originalUrl": "https://movieweb.com/dustin-diamond-dead-screech-robot-commercials/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn3.movieweb.com/i/article/oz8EStU1MM2Zwnlo9gHSNdvz9LURWD/1200:100/Dustin-Diamond-Dead-Screech-Robot-Commercials.jpg",
+          "width": 1200,
+          "height": 632,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://movieweb.com/amp/dustin-diamond-dead-screech-robot-commercials/",
+      "cdnAmpWebUrl": "https://movieweb-com.cdn.ampproject.org/c/s/movieweb.com/amp/dustin-diamond-dead-screech-robot-commercials/",
+      "publishedDateTime": "2021-02-03T12:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MovieWeb",
+        "domain": "movieweb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-04-how-i-learned-to-stop-worrying-and-love-ai.md",
+      "title": "How I Learned To Stop Worrying And Love AI",
+      "excerpt": "In recent years people’s concerns about artificial intelligence have heightened, especially anxiety that the technology will replace human workers throughout the economy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevevassallo/2021/02/03/how-i-learned-to-stop-worrying-and-love-ai/",
+      "originalUrl": "https://www.forbes.com/sites/stevevassallo/2021/02/03/how-i-learned-to-stop-worrying-and-love-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601b0551eddc6b688511ddfe%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevevassallo/2021/02/03/how-i-learned-to-stop-worrying-and-love-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevevassallo/2021/02/03/how-i-learned-to-stop-worrying-and-love-ai/amp/",
+      "publishedDateTime": "2021-02-03T12:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-04-scientists-invented-an-ai-to-detect-racist-people.md",
       "title": "Scientists invented an AI to detect racist people",
       "excerpt": "A team of researchers at the University of Virginia have developed an AI system that attempts to detect and quantify the physiological signs associated with racial bias. In other words, they’re building a wearable device that tries to identify when you’re having racist thoughts.",
@@ -616,58 +710,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-03-facial-recognition-market-insights-by-growth-research-methodology-emerging-trends-and-forecast-2027.md",
-      "title": "Facial Recognition Market Insights By Growth, Research Methodology, Emerging Trends and Forecast 2027",
-      "excerpt": "Facial Recognition is a biometric application which captures image of an individual and identify it by applying",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-insights-by-growth-research-methodology-emerging-trends-and-forecast-2027-2021-02-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-insights-by-growth-research-methodology-emerging-trends-and-forecast-2027-2021-02-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-03T06:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-03-deepgram-raises-25-million-to-build-custom-enterprise-speech-recognition-models.md",
       "title": "Deepgram raises $25 million to build custom enterprise speech recognition models",
       "excerpt": "Deepgram, a startup developing custom voice recognition models for enterprise customers, raised $25 million in funding.",
@@ -1189,7 +1231,7 @@
       "originalUrl": "https://www.techrepublic.com/resource-library/whitepapers/cyber-ai-for-saas-security-protecting-your-dynamic-workforce/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1221,58 +1263,6 @@
       "topics": [
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-xiaomi-founder-lei-jun-acquires-controlling-stake-in-ai-chip-developer-cvitek.md",
-      "title": "Xiaomi Founder Lei Jun acquires controlling stake in AI chip developer CVITEK",
-      "excerpt": "Earlier today (3rd February 2021), a new report surfaced that revealed that the Founder and CEO of Xiaomi has acquired stakes in a Chinese artificial intelligence development based firm called CVITEK.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/02/03/xiaomi-lei-jun-acquires-controlling-stake-in-cvitek/",
-      "originalUrl": "https://www.gizmochina.com/2021/02/03/xiaomi-lei-jun-acquires-controlling-stake-in-cvitek/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2021/02/abt-b.4202f298-e1612343206607.png",
-          "width": 768,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-03T01:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

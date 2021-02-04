@@ -50,6 +50,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Cyber Daily: Data Drought Slows Advance of AI in Cybersecurity"
+    excerpt: "Cybersecurity professionals would love to use artificial intelligence to harden their defenses. But it’s hard to get enough of the right kind of data to train AI models, WSJ Pro’s James Rundle reports."
+    publishedDateTime: 2021-02-04T15:12:00Z
+    webUrl: "https://www.wsj.com/articles/cyber-daily-data-drought-slows-advance-of-ai-in-cybersecurity-11612448985"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://s.wsj.net/img/meta/wsj-social-share.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "JbXIjC8EKmOQyA0CLzCsBuiqajLsY7amHOly2RmTVI4wE2IeGJegjE2hsXlI3pl/GjO0iovqsrvSpUVagJgInFzVNdThGCVF4m4spOCVbjIuOT2shnboQDhhhw9wK6R2yJjyFihH2yLFfgYzewuA30nekJuMOon9G6OrQqrknYaDX40VD0jOfPPIJvDDE9xgHbGJUHHytWCLkapwp4JGjbV5OzxL2WeoaIIW/ox3twfQrAcS6vY6y/zfrBkBz2fTt5OH7k71BUNG30ITQ8jmejSmS64vFMFrKLnWAlk/flU+nK3d3OW3ziNOfEI8NkH2VigLyN/2QRBaauoUWjlf1ts7E8vBjvd8Xda05BOei9KeYXbb24Pb0P2BGt7rwesYzXbN4noAg6j0jFvX7RmmrAapUAvEllCwKB+bm132pP8G+pF0vo5U++OFk2UfrGoncRz498qzj2I/Fv4XdxDDtw2QVu5+UUUW/DtV9jH03UUU3p9zNUoCBQThvXF1mVpSI+Dt1wiIClmBAqMkqkjeZg==;+EL34TDx7M6BXevFNc3zWQ=="
 ---

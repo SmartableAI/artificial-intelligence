@@ -48,6 +48,17 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "Goodyear invests in self-driving trucking company TuSimple"
+    excerpt: "TuSimple operates self-driving trucks out of its facilities in Arizona, Texas, China, Japan and Europe using digital maps, terminals and an autonomous fleet operations system."
+    publishedDateTime: 2021-02-04T16:44:00Z
+    webUrl: "https://www.bizjournals.com/cleveland/news/2021/02/04/goodyear-invests-in-self-driving-trucking-company.html"
+    ampWebUrl: "https://www.bizjournals.com/cleveland/news/2021/02/04/goodyear-invests-in-self-driving-trucking-company.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/cleveland/news/2021/02/04/goodyear-invests-in-self-driving-trucking-company.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 24
   - title: "Global Self-Driving Truck Technology Market 2020 Key Stakeholders, Subcomponent Manufacturers, Industry Association and Key Drivers Analysis to 2025"
     excerpt: "The latest market research report titled Global Self-Driving Truck Technology Market 2020 by Company, Type and Application, Forecast to 2025 reveals the overview of the global industry, encompassing the latest industry data and industry future trends,"
     publishedDateTime: 2021-02-02T06:27:00Z

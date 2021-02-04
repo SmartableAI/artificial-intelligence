@@ -1,23 +1,33 @@
 ---
 category: news
 title: "Continued Research Grants New Options in Cancer Treatment"
-excerpt: "FinancialBuzz.com News Commentary NEW YORK, Feb. 4, 2021 /PRNewswire/ -- The growing prevalence of cancer all over the globe is a major obstacle to overcome. In 2020, an estimated 1,806"
-publishedDateTime: 2021-02-04T14:23:24Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2021-02/51926081-continued-research-grants-new-options-in-cancer-treatment-008.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2021-02/51926081-continued-research-grants-new-options-in-cancer-treatment-008.htm"
+excerpt: "The growing prevalence of cancer all over the globe is a major obstacle to overcome. In 2020, an estimated 1,806,590 new cases of cancer were diagnosed in the United States alone and 606,520 people did not recover from the disease,"
+publishedDateTime: 2021-02-04T15:23:00Z
+originalUrl: "https://www.marketwatch.com/press-release/continued-research-grants-new-options-in-cancer-treatment-2021-02-04"
+webUrl: "https://www.marketwatch.com/press-release/continued-research-grants-new-options-in-cancer-treatment-2021-02-04"
 type: article
-quality: 4
-heat: 4
+quality: 54
+heat: 54
 published: false
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "hQwdwPWTzLK7Vg8zdLd/VaiN45WBOXNx6gpr4K+ZT/2j/oSgEZPX4vyx7WZ0iuVUSDeQhoq/dp2LytAXWBcdQclXzeFek1Bqd4chvjMiTB7pkA1Jr+jvyPgkTnjEYRGOa9w+iU5tbGe7SJENRGCKnxuupZD12f5avkLgbHRUYttj/VDUB6z7tKQqIivbwhEmtm4VHuwvVoata3OiJGJaVqwK2+wOMWzHE9GEoitf+ty5vEHMPCNa1dQKgbK/ho2LaoHiBGJQHq44DHc4vfXVKmYW79ndmadQaSzCDjiDSUbWQ3la9beidkm1Dad0/JKld0GL+XlSH0m5GYy3fYo7X3sOx7EjUE8X2r+DCHEroK4=;5ilNQ+iaf+b03xmF1WZCuw=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "ZZ+3Rqz4n7PtAJR6iEvAQhvYiUs9zZJcM1dMwp4lWP/kYeVQlH+tSt+yU2tb7ZsYILUewfHt9MncomOImsfcoP69GpBQ3K+uoWxrA7TC9dWbZcgW8DvG+3Jemyn8P61niJtSrL5QZLSDvMsFRsNdXGbYDv2jEpZm33pMiCEGvEUGcf2sMNjk9O7A61IUTArSip91QQ1Gp5jTe2nhXZtgW5eIhCYO/k7815G/XiHAiNdDuwc9eUa/2afvP+NqxDhGFWM3vctiMu0xH64dIF/qi4AaoP2CPalbQ3hX2Non3hIgdFCnMkxdAya+Asb145m2GWP6FZvwlXqpKZGvXU72gRMu2cnwPV5KNgyAWqHPTyA=;EOxN80eoU5JCLXMWJeo4kQ=="
 ---
 
