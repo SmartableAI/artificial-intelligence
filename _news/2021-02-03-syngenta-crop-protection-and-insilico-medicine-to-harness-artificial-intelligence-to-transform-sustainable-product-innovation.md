@@ -1,22 +1,29 @@
 ---
 category: news
 title: "Syngenta Crop Protection and Insilico Medicine to Harness Artificial Intelligence to Transform Sustainable Product Innovation"
-excerpt: "Syngenta Crop Protection is collaborating with artificial intelligence (AI) and deep learning company Insilico Medicine to accelerate the invention an"
-publishedDateTime: 2021-02-03T12:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210202006134/en/Syngenta-Crop-Protection-and-Insilico-Medicine-to-Harness-Artificial-Intelligence-to-Transform-Sustainable-Product-Innovation"
-webUrl: "https://www.businesswire.com/news/home/20210202006134/en/Syngenta-Crop-Protection-and-Insilico-Medicine-to-Harness-Artificial-Intelligence-to-Transform-Sustainable-Product-Innovation"
+excerpt: "Syngenta Crop Protection is collaborating with artificial intelligence (AI) and deep learning company Insilico Medicine to accelerate the invention and development of new, more effective crop protection solutions that protect crops from diseases,"
+publishedDateTime: 2021-02-03T07:15:00Z
+originalUrl: "https://www.globalbankingandfinance.com/category/news/syngenta-crop-protection-and-insilico-medicine-to-harness-artificial-intelligence-to-transform-sustainable-product-innovation/"
+webUrl: "https://www.globalbankingandfinance.com/category/news/syngenta-crop-protection-and-insilico-medicine-to-harness-artificial-intelligence-to-transform-sustainable-product-innovation/"
 type: article
-quality: 5
-heat: 5
+quality: 27
+heat: 27
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: List of Banks in Belarus
+  domain: globalbankingandfinance.com
 
 topics:
+  - AI in Healthcare
   - AI
 
-secured: "3zu0st8EX5TomA7/2vtU/oI0zq2KfPLtdTNzjDnDGktsjWXJx+zuCpDXmgbT3krJ9CjVyoZuu5cFNLAPI0C+aoDBXE9g5Hwv9r3TnFG/KEKwYCwoosfuxkFrPU+dKmYb87X8b2O9guq7FcfV4AlOZkfpsh/U960hkcEuoDG6v4zmGoN3evmOPWtwpkYlQfMe1meOXdqtMSiVcI6uVXo+VXETeAwDnnRGO0BOS0ANfaVoLFn/sSkvLJSm7I0fNRklOBROabjezbZFJkR2eQxoqT/jv7I4VceJ0J9CTSWnQ9dhbqD05BUQYf9G9RP+gR1ehHdsCQEwhA7m/R/PNa6zQz9KZ5kyi/vc1xk/5ZLTJpVF/Krj5I5j48t+K24gpDfb878gsgv6Nt+eCtkFjvcT2/bdHuhCwudqscLwwiwTVErWRI8NgrTe1SX7BcndQdUtkY8Ddaiw+sA3B645PIuBST7JU5MXUUyJAXBEVWOtdMkfGgytC9Z89Eo1HVgqWk7BVdn1lD/ZmJPhroL/ukG70Q==;YsN3cX4qJWXYpPKXaB1AXg=="
+images:
+  - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
+    width: 1000
+    height: 600
+    isCached: true
+
+secured: "fHiHZO/rll6kLJEXkZohXswhS2wXmWJum+No1Ir0uKyUBG+/lym+6Rwx95LaiQ0GraeOtWfKstcsOvtAvq0BoPeOUPALNB5lPF+O291NQGlVAfYmAP8aTbwFPKRn24XhjJCICyR7m60WOkfKP85uUrrD9Prtjc5xW/0ciaheszvg2xgFDw3x5/nsNwdcgV3SR47VuSl27gCpEytZK/ZkN+NE4e4n7HBCnL8+iuZPM9/vKmZj1DLPqx2GqoHAKi0ot59efwL+c+YT5GRDjshVcWvv/lkfJnvU+ovW9QJMpjGxY0NoQtI7/APSYZoEStK/zTH40mx7OAAiCzE2xS7IEEk+IONHmPUfAmeUEm5vJDo=;gYj3PrMRsul5cWnWc4JNKg=="
 ---
 

@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-07-brief-novartis-microsoft-announce-artificial-intelligence-collaboration.md",
+      "title": "BRIEF-Novartis, Microsoft Announce Artificial Intelligence Collaboration",
+      "excerpt": "JOINT RESEARCH ACTIVITIES WILL INCLUDE PERSONALIZED THERAPIES FOR MACULAR DEGENERATION, CELL & GENE THERAPY, DRUG DESIGN Source text for Eikon: Further company coverage: (Berlin Speed Desk ...",
+      "sourceUrl": null,
+      "webUrl": "https://uk.reuters.com/article/brief-novartis-microsoft-announce-artifi/brief-novartis-microsoft-announce-artificial-intelligence-collaboration-idUKASP0017LB",
+      "originalUrl": "https://uk.reuters.com/article/brief-novartis-microsoft-announce-artifi/brief-novartis-microsoft-announce-artificial-intelligence-collaboration-idUKASP0017LB",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKASP0017LB",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKASP0017LB",
+      "publishedDateTime": "2021-01-06T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-washington-post-live-to-host-artificial-intelligence-in-health-care-with-presenting-sponsor-ge.md",
       "title": "Washington Post Live to host “Artificial Intelligence in Health Care” with presenting sponsor GE",
       "excerpt": "Speakers will discuss how artificial intelligence is changing how doctors work, drugs are developed, patients are diagnosed, surgeries are performed, and how it is used in the fight against COVID-19",
@@ -1363,58 +1407,6 @@
         "AI",
         "AI in Marketing",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-khosla-backed-health-ai-startup-raises-275-million-to-supercharge-primary-care.md",
-      "title": "Khosla-Backed Health AI Startup Raises $27.5 Million To Supercharge Primary Care",
-      "excerpt": "“We think that AI can be a superpower, where we can make the cost of care lower,” says Khosla, cofounder of San Francisco-based Curai, which announced a $27.5 million Series B financing round on Wednesday. The company has built a chat-based platform ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/katiejennings/2020/12/16/khosla-backed-health-ai-startup-raises-275-million-to-supercharge-primary-care/",
-      "originalUrl": "https://www.forbes.com/sites/katiejennings/2020/12/16/khosla-backed-health-ai-startup-raises-275-million-to-supercharge-primary-care/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd98d60ec452825cba9b7ec%2F0x0.jpg%3FcropX1%3D110%26cropX2%3D1816%26cropY1%3D0%26cropY2%3D959",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/katiejennings/2020/12/16/khosla-backed-health-ai-startup-raises-275-million-to-supercharge-primary-care/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/katiejennings/2020/12/16/khosla-backed-health-ai-startup-raises-275-million-to-supercharge-primary-care/amp/",
-      "publishedDateTime": "2020-12-16T04:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -43,6 +43,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Clearview AI Surveillance Ruled Illegal In Canada"
+    excerpt: "The Canadian privacy watchdog has ruled that the use of Clearview's AI surveillance technology is illegal, and is demanding that it stop offering its services in the country."
+    publishedDateTime: 2021-02-04T10:34:00Z
+    webUrl: "https://www.forbes.com/sites/emmawoollacott/2021/02/04/clearview-ai-surveillance-ruled-illegal-in-canada/"
+    ampWebUrl: "https://www.forbes.com/sites/emmawoollacott/2021/02/04/clearview-ai-surveillance-ruled-illegal-in-canada/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2021/02/04/clearview-ai-surveillance-ruled-illegal-in-canada/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601bcd83af0c1ecebb845422%2F0x0.jpg"
+        width: 1200
+        height: 1074
+        isCached: true
   - title: "Clearview AI violated privacy rights of Canadians with facial recognition tech, say privacy commissioners"
     excerpt: "All four of Canada's privacy commissioners have denounced the controversial facial recognition company Clearview AI."
     publishedDateTime: 2021-02-03T16:55:00Z

@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence as a Service Market Size- Detailed Analysis of Current Industry Figures with Forecasts Growth By 2025"
+    excerpt: "Selbyville, Delaware As cited by the business intelligence report titled 'Global Artificial Intelligence as a Service Market Analysis, 2020', available with Market Study Report LLC, global Artificial Intelligence as a Service market is anticipated to grow with a healthy year-on-year growth rate during the stipulated timeframe of 2020 to 2025."
+    publishedDateTime: 2021-02-04T10:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-size--detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2021-02-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Chipsets Market Growth Analysis By Size, Share, News, Demand, Opportunity"
     excerpt: "Artificial Intelligence Chipsets Market Size, Demand-sales, Suppliers By Key Applications Detailed Analysis and Growth Aspects on Manufacturing Landscapes and Regional Analysis \"Market Overview: Global Artificial Intelligence (Chipsets) Market is valued approximately at USD 5."
     publishedDateTime: 2021-02-01T13:01:00Z

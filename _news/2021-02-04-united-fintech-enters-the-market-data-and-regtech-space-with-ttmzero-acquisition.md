@@ -2,26 +2,26 @@
 category: news
 title: "United Fintech Enters the Market Data and RegTech Space with TTMzero Acquisition"
 excerpt: "United Fintech has entered the Market Data & RegTech space with the acquisition of German fintech, TTMzero. United Fintech has taken a 25% stake in the market leading firm, with the intention of increasing to 80% over the next three years."
-publishedDateTime: 2021-02-04T08:48:00Z
-originalUrl: "https://www.lelezard.com/en/news-19633786.html"
-webUrl: "https://www.lelezard.com/en/news-19633786.html"
+publishedDateTime: 2021-02-04T10:02:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-new-york-europe-new-york-city-7b404de2dd2f455587e5b5f4eb5704f0"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-new-york-europe-new-york-city-7b404de2dd2f455587e5b5f4eb5704f0"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -84,6 +84,6 @@ related:
         height: 630
         isCached: true
 
-secured: "rTcVjR4IhNv6cPNCwn04hCKj23xgxqaiRvWfm/YoJR66AVKtF+jZy6dtlAvuOvosKQl0mgqJwKd2Xo3U6q+O8qXdYuo6ZUngsYSHh5T1l5Zoi8lNdn7QiWp+1Rzy8NsM2Q9LcAkK4TCjIeb2awzFwDAy6hTqvKGuHCzLsWTUay7OxmCzvcdWxj3m4f9mZ7bB/NvKWW3iy2JkiKlbIbMjVQuooOi/q40O7T6HNGu1nCznpnE6AROQvlGCAwfJYOhtWrv3UDi06d46R6aCDW0VvzY9Dekv6TuTm/9PNwxV3VYlP+SYPdNTczE0LMKISZGUvrUFtNbsdPMuC4gp2u2bJhk7y4bbTDM2LfaE8iH7bxY=;bREfJGQBwiDDvXXq/zGdDA=="
+secured: "I5oQRXCL+kX/xjrJ/hHKFN2dlBSZAGT2hL6rOHFG3xKoDj1zyAPi/iDDdphfCxOlzYyrhgfNt6xVvm08DX6X++ecGBKIyu54fMTgzOyT9aR+xW/7+IjcPkKS5BB92on+NGGfcO65tFfwz8yEKfIKNBqjEZBzLYFy9v0eUWQ1uwLNeDOc3J27OXXl3TTn242fqlTPYEh+MfvvY3pX7IJ7jJsotM2sWAlCTmcY2bqwWGSl1PVqeZd5tkTaD1O5qlBCfHcNpVAQpjXjGlCRb6sVAa4LRw+6hGAD+WQJXNHecVbxiEkWgvVPnjheQONVye70eJHIwoK2xpu1qthzbqBVT+T2mTxCkHZoZD23Yid9sJU=;opduNdka0nvSc+d5JVKlAA=="
 ---
 

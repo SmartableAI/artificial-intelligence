@@ -75,17 +75,17 @@ related:
         isCached: true
   - title: "United Fintech Enters the Market Data and RegTech Space with TTMzero Acquisition"
     excerpt: "United Fintech has entered the Market Data & RegTech space with the acquisition of German fintech, TTMzero. United Fintech has taken a 25% stake in the market leading firm, with the intention of increasing to 80% over the next three years."
-    publishedDateTime: 2021-02-04T08:48:00Z
-    webUrl: "https://www.lelezard.com/en/news-19633786.html"
+    publishedDateTime: 2021-02-04T10:02:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-new-york-europe-new-york-city-7b404de2dd2f455587e5b5f4eb5704f0"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
+      name: Associated Press
+      domain: apnews.com
     quality: 19
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "/ya7H6fcrfc7bgVaRipwvz9wpXW9Dtavc1kN52AI1Y26CBKuYJXtFCK0W0wst2mAufpujDBPF8KoJDDDreSkStPOy6BCbJR5H0vhfzKWTby9MZa+Mi/zy8Q/nN6QNlqDqXWuvP5CLG0NiG2C6d8nvHaGKJQC8V8jvQO6LoEtUqJOWG3hm28Gabrxs4ouWl9/Lr9NQaTtOEav3m/9lgPxmo5dSMBkm4960XCo3O6GdKnxu99qoEedveOfOXxi7DHiUrbsG2INSaBzFvZTlZ/exGeIGOzzjdex1RMd1ESk43YOmc3rQlC8qeTTwFG7tsSLKVUd37WX29mE2bWk4RsBUQFVfXRjRnnOR5tBji9zhJo=;UleE7Tai5/PzB/yTHzMfJQ=="

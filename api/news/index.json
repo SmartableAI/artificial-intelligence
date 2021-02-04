@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-04-ai-in-retail-ocado-goes-bananas-for-robot-food-pickers.md",
+      "title": "AI in Retail - Ocado goes bananas for robot food pickers",
+      "excerpt": "Ocado Technology is training its robots to be more sensitive as pressures from the rise in online shopping grow, explains Isabel Richards, Head of UK Development Centers. (Isabel Richards) As I was chatting to Isabel Richards,",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/ai-retail-ocado-goes-bananas-robot-food-pickers",
+      "originalUrl": "https://diginomica.com/ai-retail-ocado-goes-bananas-robot-food-pickers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2021-02/OcadoRobots.jpg",
+          "width": 1702,
+          "height": 1328,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/ai-retail-ocado-goes-bananas-robot-food-pickers?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-retail-ocado-goes-bananas-robot-food-pickers?amp",
+      "publishedDateTime": "2021-02-04T02:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-04-two-google-engineers-resign-over-firing-of-ai-ethics-researcher-timnit-gebru.md",
       "title": "Two Google engineers resign over firing of AI ethics researcher Timnit Gebru",
       "excerpt": "An engineering director and a software developer have quit Alphabet Inc's Google over the dismissal of AI researcher Timnit Gebru, a sign of the ongoing conflicts at the search giant over diversity and ethics.",
@@ -286,6 +329,58 @@
       ]
     },
     {
+      "path": "_news/2021-02-04-artificial-intelligence-market-size-share-outlook-and-global-opportunity-analysis-2021-2026.md",
+      "title": "Artificial Intelligence Market: Size, Share, Outlook, and Global Opportunity Analysis, 2021-2026",
+      "excerpt": "Wiseguyreports.Com Adds \"Artificial Intelligence -Market Demand, Growth, Opportunities and Analysis Of Top Key Player Forecast To 2023\" To Its Research Database Artificial Intelligence is one of the fastest growing areas of computer science,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-share-outlook-and-global-opportunity-analysis-2021-2026-2021-02-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-share-outlook-and-global-opportunity-analysis-2021-2026-2021-02-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-03T17:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-04-is-the-ai-ethics-issue-hindering-innovation.md",
       "title": "Is the AI ethics issue hindering innovation?",
       "excerpt": "There are too many cases of discrimination in AI and, in some cases, organizations are even shelving plans to adopt it altogether Beneath the exciting",
@@ -389,7 +484,7 @@
       "originalUrl": "https://www.nytimes.com/2021/02/03/technology/clearview-ai-illegal-canada.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -1133,109 +1228,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-daimler-to-spin-off-trucks-in-shift-to-electric-and-self-driving-vehicles.md",
-      "title": "Daimler to spin off trucks in shift to electric and self-driving vehicles",
-      "excerpt": "German carmaker Daimler plans to spin-off Daimler Truck to focus on zero-emission vehicles and self-driving technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/02/03/daimler-to-spin-off-trucks-in-shift-to-electric-and-self-driving-vehicles.html",
-      "originalUrl": "https://www.cnbc.com/2021/02/03/daimler-to-spin-off-trucks-in-shift-to-electric-and-self-driving-vehicles.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106834715-1612368566679-gettyimages-1145508601-AFP_1GS0WF.jpeg?v=1612368644",
-          "width": 5296,
-          "height": 3283,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/02/03/daimler-to-spin-off-trucks-in-shift-to-electric-and-self-driving-vehicles.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/02/03/daimler-to-spin-off-trucks-in-shift-to-electric-and-self-driving-vehicles.html",
-      "publishedDateTime": "2021-02-03T07:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-if-you-have-a-luxury-handbag-to-sell-rebags-new-clair-ai-makes-it-easier.md",
-      "title": "If You Have A Luxury Handbag To Sell, Rebag’s New Clair AI Makes It Easier",
-      "excerpt": "In an effort to further distinguish itself amid the increasingly competitive luxury resale channel, Rebag is launching Clair AI image recognition technology for luxury products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sharonedelson/2021/02/03/if-you-have-a-luxury-handbag-to-sell-rebags-new-clair-ai-makes-it-easier/",
-      "originalUrl": "https://www.forbes.com/sites/sharonedelson/2021/02/03/if-you-have-a-luxury-handbag-to-sell-rebags-new-clair-ai-makes-it-easier/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601a32875504fa3f560800f6%2F0x0.jpg",
-          "width": 1200,
-          "height": 1016,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sharonedelson/2021/02/03/if-you-have-a-luxury-handbag-to-sell-rebags-new-clair-ai-makes-it-easier/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sharonedelson/2021/02/03/if-you-have-a-luxury-handbag-to-sell-rebags-new-clair-ai-makes-it-easier/amp/",
-      "publishedDateTime": "2021-02-03T07:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

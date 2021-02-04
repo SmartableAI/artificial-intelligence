@@ -60,17 +60,17 @@ related:
         isCached: true
   - title: "United Fintech Enters the Market Data and RegTech Space with TTMzero Acquisition"
     excerpt: "United Fintech has entered the Market Data & RegTech space with the acquisition of German fintech, TTMzero. United Fintech has taken a 25% stake in the market leading firm, with the intention of increasing to 80% over the next three years."
-    publishedDateTime: 2021-02-04T08:48:00Z
-    webUrl: "https://www.lelezard.com/en/news-19633786.html"
+    publishedDateTime: 2021-02-04T10:02:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-new-york-europe-new-york-city-7b404de2dd2f455587e5b5f4eb5704f0"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
+      name: Associated Press
+      domain: apnews.com
     quality: 19
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Speech and Voice Recognition Market Revenue, Industry Growing Demand, Size, Share, Business Opportunities, Top Companies, Regional Outlook 2027"
     excerpt: "Global Speech and Voice Recognition Market is valued approximately at USD 12.3 Billion in 2019 and is anticipated to"
