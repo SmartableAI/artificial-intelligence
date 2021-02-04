@@ -2,28 +2,26 @@
 category: news
 title: "As Jeff Bezos steps down, Amazon stakes its future on the cloud"
 excerpt: "In his 2014 annual letter to shareholders, Amazon CEO Jeff Bezos wrote that a \"dreamy business offering\" comprises at least four elements: \"Customers love it, it can grow to very"
-publishedDateTime: 2021-02-04T18:48:00Z
-originalUrl: "https://www.kctv5.com/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_ef46bfbf-44aa-59ab-a260-9af4dac74385.html"
-webUrl: "https://www.kctv5.com/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_ef46bfbf-44aa-59ab-a260-9af4dac74385.html"
-ampWebUrl: "https://www.kctv5.com/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_ef46bfbf-44aa-59ab-a260-9af4dac74385.amp.html"
-cdnAmpWebUrl: "https://www-kctv5-com.cdn.ampproject.org/c/s/www.kctv5.com/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_ef46bfbf-44aa-59ab-a260-9af4dac74385.amp.html"
+publishedDateTime: 2021-02-04T17:20:00Z
+originalUrl: "https://omaha.com/lifestyles/technology/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_bd0dbaf0-3abf-5418-bba3-4c405fad7daf.html"
+webUrl: "https://omaha.com/lifestyles/technology/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_bd0dbaf0-3abf-5418-bba3-4c405fad7daf.html"
 type: article
-quality: 44
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: KCTV News
-  domain: kctv5.com
+  name: Omaha.com
+  domain: omaha.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/kctv5.com/content/tncms/assets/v3/editorial/d/01/d019b8f8-b810-59f9-be8c-e7c8173baa68/601c30033141d.image.jpg?resize=1024%2C576"
-    width: 1024
-    height: 576
+  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/5/2a/52a57f52-8222-5f86-8f10-64507dda120d/601c566d9342f.image.jpg?resize=576%2C324"
+    width: 576
+    height: 324
     isCached: true
 
 related:
@@ -232,6 +230,6 @@ related:
         height: 450
         isCached: true
 
-secured: "jRJalKU6P2O8IJtw9y/wxgsyx7NQRRvlHCqJMpDCknYG5vwOPVgmAz668L1IWi3bQMfxcYy6Iq8UmnqBASX/HFd83Xd3RGaJiB60rQf+Y2Hw1jf70+YOxxkoBxNs7sfntiBY9XdmtrvmLdhyTouiYZJ34JwzUNMXKF1/ibpw4JfEPZzEQPW8JxcC/LUrR4yXUJJqM9ChVXEg56grWB2IwfIlyoUs1xM1cCtfiB0hiDisyF3mSbrJljFQGWgFzUU2d7UR/f7qfmXapaYXTZXxmxa3hSd3V8kcyCBIAfOp07FfHhNmsiehBlSiavvOApvyA45PbFp/+NSMYX9Ar2PeGtv8/Yi3qvVnfw7acsI3cdE=;Sc3+xWf2SORxu8hbNJtiWg=="
+secured: "NhZZ5hysNtxtue6QXyPMkpM8k1XYMditah/ptDX04vRfjlIkwS/Wg7LXVGhWsjxEoKOQI2PvrCu51o1pYA196BzLN6RsUv7ibYzen4SawBDCKlqoyTEcDszi7d38Dals+myAaQdI4PR+RGWDXwDulJzam7oHsOoU5kgvnxP8FvSPIOiwcThZJtw1bR7og6AkkKNhtv0RPxQ+5Bf1HIGikwDgvb6P3P2yCLvl2CKfoyGLrDTbZYwlTItaPn7Q2CUcpzD4d5k1Pyrg0mJtdpM2BO0NqbC2D+0Z2O6NDPmy76tD4pDcS0ozOI4OojDuTMqg2pcqLlt9QW7xCD2hneqVP2XH4AbWUdXscTV7AWdz98U=;aDpwU3JVexRDX7DCU5xF/g=="
 ---
 

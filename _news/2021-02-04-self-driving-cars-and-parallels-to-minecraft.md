@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/02/03/self-driving-cars
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/03/self-driving-cars-and-parallels-to-minecraft/amp/"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

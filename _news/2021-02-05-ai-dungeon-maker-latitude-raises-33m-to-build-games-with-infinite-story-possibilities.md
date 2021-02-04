@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/02/04/latitude-seed-funding/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/04/latitude-seed-funding/amp/"
 type: article
 quality: 78
-heat: 88
+heat: 89
 published: true
 
 provider:
@@ -45,6 +45,6 @@ related:
         height: 563
         isCached: true
 
-secured: "z+oacTCsYw07eNZL+kRNzdPedNeihDhtpVUE4NhMF9NxJ960WgeOS4MZrT4SxRroOwk/zS+GOZADhDs1Q/s3EHTKpa+j8NEIVDkZMXZPiUrC3KIj5jLGiJHfwomYUX62qCwFAMD0hrHLgUgfHhbqrigDzOwA+fBTnZotCl+0ke4MOmbKEQjsvZ5MELwXdBhzdDV9bagJtNbCU5mfPn1Q4Fq4eINdrhthJK9GuZsQNzzyrGx57xKjzGNPXcZEcUoMuCB3YAZOMdYlRdYsl8bM5D1WaYp3XhVYfYIIQCou3afmyG12BNzEhgV0bjkXbDG01vvPWonAqAZym95OnipVifErXbGEvp2aQjf+xXuaokg=;EYT2SFWBNstDZj7Ib8ORJg=="
+secured: "qdgIsXQoBoic2hMC46bmocKJkBMYReiBnRA12KgRP7oECukB1A0tBCcWue2suwBR/vMsKFwVPRJSVEorDAcr93mc2mkInuIkzxwsZJjP5x9bizk3nP/cPjgrHAZgPQott8uMeQ2OdcgaBIfJHag7FIjsWrnaB9uWbGYfrErKq3FaN6h7hzpG5JfwBAFhX4mZ+ewgGuu7rg4MBWOoXTyuiLTGwJvegiJTRFdO5NSXcNN4bEAeCma2u0XMxhJ9irrnMzNnWQKhIxO3xLXpoaDvwH3Iku/oUcsxaWZp9CcnGLglJvvwwxSq+UoAHBKUZ5iUbQiLnFDvAfe5QpJfCQuQBirOygT6YNAMQBq1XX+6fLQBYB+VTtb7LVtZCmJ/nNAY0OP945ZBxP284i7eyULX9YMSYlprT4Z8Pr3Qyvn07CBdYcpuCR1SbVznmQ2EXRcO47SZ8+JwX6QLYb2kBs41LaPMjmz42WoMDM1RUmiK1Pp20HssE5NtVZpvqbFYVzft8GcsvAYV1Vq0SdsSIPITyw==;nWD//2v8gyYX1dXJYslPqw=="
 ---
 

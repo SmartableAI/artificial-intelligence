@@ -2,6 +2,186 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-01-29-firm-leverages-artificial-intelligence-to-help-retailers.md",
+      "title": "Firm leverages artificial intelligence to help retailers",
+      "excerpt": "Southwest Florida startup has big plans to make progress with major retailers, using advanced technology to solve an age-old problem.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessobserverfl.com/article/firm-leverages-artificial-intelligence-to-help-retailers",
+      "originalUrl": "https://www.businessobserverfl.com/article/firm-leverages-artificial-intelligence-to-help-retailers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.businessobserverfl.com/sites/default/files/323677_standard.jpeg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessobserverfl.com/article/firm-leverages-artificial-intelligence-to-help-retailers?amp",
+      "cdnAmpWebUrl": "https://www-businessobserverfl-com.cdn.ampproject.org/c/s/www.businessobserverfl.com/article/firm-leverages-artificial-intelligence-to-help-retailers?amp",
+      "publishedDateTime": "2021-01-29T03:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Observer",
+        "domain": "businessobserverfl.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-top-5-fintech-trends-that-will-shape-financial-markets-in-2021.md",
+      "title": "Top 5 Fintech Trends That Will Shape Financial Markets in 2021",
+      "excerpt": "The popularity of fintech has spiked in recent times. Here's how FinTech will shape the global financial market in 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/362981",
+      "originalUrl": "https://www.entrepreneur.com/article/362981",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1611768140-GettyImages-1180543383.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/362981",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/362981",
+      "publishedDateTime": "2021-01-29T02:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-robot-empowerment-a-viable-alternative-to-asimovs-three-laws-of-robotics.md",
+      "title": "Robot empowerment - a viable alternative to Asimov's three laws of robotics?",
+      "excerpt": "Human-robot interaction is upon us - we're in dire need of a framework that makes sense. Asimov's three laws of robotics are one model, but is it applicable to today's robots? An alternative based on robot \"empowerment\" is worth a close look.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/robot-empowerment-viable-alternative-asimovs-three-laws-robotics",
+      "originalUrl": "https://diginomica.com/robot-empowerment-viable-alternative-asimovs-three-laws-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2019-06/shutterstock-pathdoc-1076106332.jpg",
+          "width": 740,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/robot-empowerment-viable-alternative-asimovs-three-laws-robotics?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/robot-empowerment-viable-alternative-asimovs-three-laws-robotics?amp",
+      "publishedDateTime": "2021-01-29T02:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-machine-learning-tool-may-streamline-or-scheduling.md",
+      "title": "Machine Learning Tool May Streamline OR Scheduling",
+      "excerpt": "The use of a machine learning model may aid in accurately predicting surgical procedure time, according to the results from a randomized clinical trial. Researchers found that improving planned surgery duration accuracy reduced the use of presurgical resources,",
+      "sourceUrl": null,
+      "webUrl": "https://www.physiciansweekly.com/machine-learning-tool-may-streamline-or-scheduling/",
+      "originalUrl": "https://www.physiciansweekly.com/machine-learning-tool-may-streamline-or-scheduling/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.physiciansweekly.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.physiciansweekly.com/machine-learning-tool-may-streamline-or-scheduling/amp/",
+      "cdnAmpWebUrl": "https://www-physiciansweekly-com.cdn.ampproject.org/c/s/www.physiciansweekly.com/machine-learning-tool-may-streamline-or-scheduling/amp/",
+      "publishedDateTime": "2021-01-29T01:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Too Old to Operate",
+        "domain": "physiciansweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-29-bitscape-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization.md",
       "title": "Bitscape Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization",
       "excerpt": "Jan 29, 2021-- Bitscape today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge, extensive experience and expertise in migrating Windows Server and SQL Server-based workloads to Azure.",
@@ -425,6 +605,49 @@
       ]
     },
     {
+      "path": "_news/2021-01-29-chinas-didi-chuxing-lands-300-million-for-driverless-cars.md",
+      "title": "China's Didi Chuxing Lands $300 Million For Driverless Cars",
+      "excerpt": "Chinese ride-hailing giant Didi Chuxing has raised $300 million for its autonomous driving unit, adding to the $500 million the company raised in May, according to a Reuters report on Thursday ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/investment-tracker/2021/china-didi-chuxing-300m-funding-driverless-cars/",
+      "originalUrl": "https://www.pymnts.com/news/investment-tracker/2021/china-didi-chuxing-300m-funding-driverless-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/01/didi-chuxing-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/investment-tracker/2021/china-didi-chuxing-300m-funding-driverless-cars/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/china-didi-chuxing-300m-funding-driverless-cars/amp/",
+      "publishedDateTime": "2021-01-28T15:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-29-facial-recognition-payments-making-a-mark-on-world.md",
       "title": "Facial recognition payments making a mark on world",
       "excerpt": "Facial recognition is happening in large parts of China, the US, Spain, Denmark and Nigeria as contactless payments look here to stay",
@@ -731,31 +954,22 @@
       "title": "Kitov.ai Combines 3D coverage, Intelligent Robotic planner and Deep Learning for KITOV Smart Visual Inspection Solutions",
       "excerpt": "Israeli-based smart visual inspection company Kitov.ai introduces its KITOV ONE inspection system to North America. A novel, hybrid approach combining 3D image acquisition",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/kitov-ai-combines-3d-coverage-intelligent-robotic-planner-and-deep-learning-for-kitov-smart-visual/article_75cdefe6-3ac5-51e4-9b64-1ce901e20d1f.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/kitov-ai-combines-3d-coverage-intelligent-robotic-planner-and-deep-learning-for-kitov-smart-visual/article_75cdefe6-3ac5-51e4-9b64-1ce901e20d1f.html",
+      "webUrl": "https://www.benzinga.com/pressreleases/21/01/p19379252/kitov-ai-combines-3d-coverage-intelligent-robotic-planner-and-deep-learning-for-kitov-smart-visual",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/01/p19379252/kitov-ai-combines-3d-coverage-intelligent-robotic-planner-and-deep-learning-for-kitov-smart-visual",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/19379252",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19379252",
       "publishedDateTime": "2021-01-28T12:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -949,248 +1163,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-digital-careers-ahead-why-should-techies-have-all-the-fun-with-artificial-intelligence.md",
-      "title": "Digital Careers Ahead: Why Should Techies Have All The Fun With Artificial Intelligence?",
-      "excerpt": "Every organization wants to build their future on digital technologies, but what does it take to make it all happen? To get a better sense of the skills and talents that will be in demand, I reached out to experts and entrepreneurs across the landscape to get their views on what it takes to build a career in this new world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2021/01/28/digital-careers-ahead-why-should-techies-have-all-the-fun-with-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2021/01/28/digital-careers-ahead-why-should-techies-have-all-the-fun-with-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6012edfc63c56a43fc8d45ed%2F0x0.jpg",
-          "width": 1199,
-          "height": 782,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2021/01/28/digital-careers-ahead-why-should-techies-have-all-the-fun-with-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2021/01/28/digital-careers-ahead-why-should-techies-have-all-the-fun-with-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-01-28T09:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-scientists-develop-ai-powered-puff-technology-to-help-smokers-quit.md",
-      "title": "Scientists develop AI-powered ‘puff technology’ to help smokers quit",
-      "excerpt": "The onboard computer for e-cigs is designed to help people quit by predicting when they'll next crave a nicotine hit.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/01/28/scientists-develop-ai-powered-puff-technology-to-help-smokers-quit/",
-      "originalUrl": "https://thenextweb.com/neural/2021/01/28/scientists-develop-ai-powered-puff-technology-to-help-smokers-quit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/Untitled-design-2021-01-28T130539.375-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/01/28/scientists-develop-ai-powered-puff-technology-to-help-smokers-quit/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/28/scientists-develop-ai-powered-puff-technology-to-help-smokers-quit/amp/",
-      "publishedDateTime": "2021-01-28T09:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-baidu-gets-california-nod-for-testing-driverless-vehicles-on-sunnyvale-streets.md",
-      "title": "Baidu gets California nod for testing driverless vehicles on Sunnyvale streets",
-      "excerpt": "Baidu is the sixth company to have a permit to test without a driver behind the wheel. The permit allows it to test three autonomous vehicles on specified streets within Sunnyvale.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mercurynews.com/2021/01/28/baidu-gets-california-nod-for-testing-driverless-vehicles/",
-      "originalUrl": "https://www.mercurynews.com/2021/01/28/baidu-gets-california-nod-for-testing-driverless-vehicles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mercurynews.com/wp-content/uploads/2021/01/Baidu.jpg?w=1024&h=640",
-          "width": 1024,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mercurynews.com/2021/01/28/baidu-gets-california-nod-for-testing-driverless-vehicles/amp/",
-      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/28/baidu-gets-california-nod-for-testing-driverless-vehicles/amp/",
-      "publishedDateTime": "2021-01-28T08:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mercury News",
-        "domain": "mercurynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-new-global-rackspace-technology-study-uncovers-widespread-artificial-intelligence-and-machine-learning-knowledge-gap.md",
-      "title": "New Global Rackspace Technology Study Uncovers Widespread Artificial Intelligence and Machine Learning Knowledge Gap",
-      "excerpt": "Rackspace Technology™ (NASDAQ: RXT), a leading end-to-end, multicloud technology solutions company today announced the results of a global survey that reveals that the majority of organizations globally lack the internal resources to support critical artificial intelligence (AI) and machine learning (ML) initiatives.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/new-global-rackspace-technology-study-uncovers-widespread-artificial-intelligence-and-machine-learning-knowledge-gap-1030016221",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/new-global-rackspace-technology-study-uncovers-widespread-artificial-intelligence-and-machine-learning-knowledge-gap-1030016221",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/New-Global-Rackspace-Technology-Study-Uncovers-Widespread-Artificial-Intelligence-and-Machine-Learning-Knowledge-Gap-1030016221",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/New-Global-Rackspace-Technology-Study-Uncovers-Widespread-Artificial-Intelligence-and-Machine-Learning-Knowledge-Gap-1030016221",
-      "publishedDateTime": "2021-01-28T08:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-microsoft-playfab-grows-ninefold-in-3-years.md",
-      "title": "Microsoft’ PlayFab grows ninefold in 3 years",
-      "excerpt": "Microsoft's PlayFab division said today that its monthly active users grew nearly nine times since the software giant acquired it.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/28/microsoft-playfab-grows-ninefold-in-3-years/",
-      "originalUrl": "https://venturebeat.com/2021/01/28/microsoft-playfab-grows-ninefold-in-3-years/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/playfab-main.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/28/microsoft-playfab-grows-ninefold-in-3-years/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/28/microsoft-playfab-grows-ninefold-in-3-years/amp/",
-      "publishedDateTime": "2021-01-28T08:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

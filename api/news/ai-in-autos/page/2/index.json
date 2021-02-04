@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-22-self-driving-cars-being-blocked-by-human-drivers-using-road-bouldering-tactics.md",
+      "title": "Self-Driving Cars Being Blocked By Human Drivers Using Road Bouldering Tactics",
+      "excerpt": "Human drivers use road bouldering to block other cars, and the question arises as to how self-driving cars will handle such machinations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/01/21/self-driving-cars-being-blocked-by-human-drivers-using-road-bouldering-tactics/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/01/21/self-driving-cars-being-blocked-by-human-drivers-using-road-bouldering-tactics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6008b4ae194950933a679a95%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5200%26cropY1%3D264%26cropY2%3D3189",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/01/21/self-driving-cars-being-blocked-by-human-drivers-using-road-bouldering-tactics/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/01/21/self-driving-cars-being-blocked-by-human-drivers-using-road-bouldering-tactics/amp/",
+      "publishedDateTime": "2021-01-21T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-the-real-self-driving-revolution-remains-years-away.md",
       "title": "The real self-driving revolution remains years away",
       "excerpt": "This year, new technologies will enable more drivers to take their hands off the wheel while on the road. But that doesn't mean their cars will be fully self-driving -- that day still remains far in the future.",
@@ -1055,6 +1107,49 @@
       ]
     },
     {
+      "path": "_news/2021-01-16-the-pessimists-guide-to-the-future-from-virtual-reality-to-driverless-cars.md",
+      "title": "The pessimist’s guide to the future, from virtual reality to driverless cars",
+      "excerpt": "artificial intelligence and even driverless cars. Virtual reality headsets have long been the next big thing, but that’s not based on anything approaching reality. At the beginning of 2017 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.alphr.com/technology/1009462/pessimist-VR-AI-driverless-cars-bitcoin-blockchain",
+      "originalUrl": "https://www.alphr.com/technology/1009462/pessimist-VR-AI-driverless-cars-bitcoin-blockchain",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.alphr.com/wp-content/uploads/2018/05/pessimists_guide_to_the_future.jpg?fit=569%2C320&ssl=1",
+          "width": 569,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-15T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Alphr",
+        "domain": "alphr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-15-full-autonomous-self-driving-teslas-in-vegas-boring-tunnels-by-the-end-of-2021.md",
       "title": "Full Autonomous Self Driving Teslas in Vegas Boring Tunnels by the End of 2021",
       "excerpt": "The LVCVA board approved $6.25 million to Boring to operate the mile-long convention center system from Feb. 1 through June 30, 2022. At no cost, authorized access to Boring to dig tunnels connecting",
@@ -1326,101 +1421,6 @@
       "provider": {
         "name": "Asia One",
         "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-chinese-driverless-car-start-up-weride-raises-310-million-in-funding-as-competition-heats-up.md",
-      "title": "Chinese driverless car start-up WeRide raises $310 million in funding as competition heats up",
-      "excerpt": "Tony Han, CEO of WeRide said the funding will give the company the strategic resources to fulfill the goal of commercializing self-driving technology.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/01/14/chinese-driverless-car-start-up-weride-raises-310-million-in-funding.html",
-      "originalUrl": "https://www.cnbc.com/2021/01/14/chinese-driverless-car-start-up-weride-raises-310-million-in-funding.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 203,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106688926-1599111743041-WeRide_in_Guangzhou.jpeg?v=1599111846",
-          "width": 4000,
-          "height": 2250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/01/14/chinese-driverless-car-start-up-weride-raises-310-million-in-funding.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/14/chinese-driverless-car-start-up-weride-raises-310-million-in-funding.html",
-      "publishedDateTime": "2021-01-13T19:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-ibm-leads-in-quantum-computing-ford-in-driverless-car-patents.md",
-      "title": "IBM leads in quantum computing, Ford in driverless car patents",
-      "excerpt": "ARTIFICIAL INTELLIGENCE, quantum computers and autonomous vehicles are among the fastest growing areas of technology, with American companies often in the lead, according to a new study of US patents issued over the past five years. International Business ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bworldonline.com/ibm-leads-in-quantum-computing-ford-in-driverless-car-patents/",
-      "originalUrl": "https://www.bworldonline.com/ibm-leads-in-quantum-computing-ford-in-driverless-car-patents/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bworldonline.com/wp-content/uploads/2021/01/640px-IBM_logo.svg_.png",
-          "width": 640,
-          "height": 256,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-13T16:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BusinessWorld",
-        "domain": "bworldonline.com",
         "images": null,
         "publishers": null,
         "authors": null

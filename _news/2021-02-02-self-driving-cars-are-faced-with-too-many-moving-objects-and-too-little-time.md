@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/02/01/self-driving-cars
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/01/self-driving-cars-are-faced-with-too-many-moving-objects-and-too-little-time/amp/"
 type: article
 quality: 73
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -65,6 +65,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 24
+  - title: "Vt. transportation officials to hold forum on self-driving cars"
+    excerpt: "Vermont transportation officials next week will be giving an update on self-driving cars and their future in the Green Mountain State."
+    publishedDateTime: 2021-02-04T19:32:00Z
+    webUrl: "https://www.wcax.com/2021/02/04/vt-transportation-officials-to-hold-forum-on-self-driving-cars/"
+    type: article
+    provider:
+      name: WCAX3
+      domain: wcax.com
+    quality: 24
+    images:
+      - url: "https://gray-wcax-prod.cdn.arcpublishing.com/resizer/kW1valWAsy9BUn8C6W97vluZHw4=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/SBKRRW7OCNLNVGCZXPAU46VP2Y.jpg"
+        width: 980
+        height: 552
+        isCached: true
   - title: "Global Self-Driving Truck Technology Market 2020 Key Stakeholders, Subcomponent Manufacturers, Industry Association and Key Drivers Analysis to 2025"
     excerpt: "The latest market research report titled Global Self-Driving Truck Technology Market 2020 by Company, Type and Application, Forecast to 2025 reveals the overview of the global industry, encompassing the latest industry data and industry future trends,"
     publishedDateTime: 2021-02-02T06:27:00Z

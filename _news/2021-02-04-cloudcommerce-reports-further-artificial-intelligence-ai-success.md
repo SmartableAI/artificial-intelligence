@@ -40,6 +40,17 @@ related:
         width: 728
         height: 256
         isCached: true
+  - title: "Machine Learning Automates Online Store Development for Ecommerce Startups"
+    excerpt: "Machine learning is streamlining the development of online stores for new ecommerce startups in the 21st century."
+    publishedDateTime: 2021-02-04T20:49:00Z
+    webUrl: "https://www.smartdatacollective.com/machine-learning-automates-online-store-development-for-ecommerce-startups/"
+    ampWebUrl: "https://www.smartdatacollective.com/machine-learning-automates-online-store-development-for-ecommerce-startups/amp/"
+    cdnAmpWebUrl: "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/machine-learning-automates-online-store-development-for-ecommerce-startups/amp/"
+    type: article
+    provider:
+      name: SmartData Collective
+      domain: smartdatacollective.com
+    quality: 37
 
 secured: "+2/nZiuQZ2QO7R1P4hRZKh5ONaR75BnFh1Op+zZDZnIC6kJRvRr41eaW0ECxe7pIWQAPtmnXRU7QDwVJO1WI7LOlALIapOj8U/51GHMhleSZrsrXIewbak+kBZJ1sg83k7CX9/jUuU1e1KBxzIi3dQOW33bIQij3MgSBMGpNCm4nIrgMnl9BVhm2oG0Fe3F71H0KVe48teid+wB/tOGN9MFVjsG5CHFEewWo8W4T5714fON4qzF8vGt683daD5UAy2QMFX1QTTJvpy7Egvh30htGA23XgEBwG4im6u3CXE83++E2SGlJ3ZRN8bpyHTWe3K5hkOKqba9sWItFmTRMhEiwgtB5tyVp3jWGUTLVb00=;Jk+aHuXjCzQGwGjzdxFg4A=="
 ---

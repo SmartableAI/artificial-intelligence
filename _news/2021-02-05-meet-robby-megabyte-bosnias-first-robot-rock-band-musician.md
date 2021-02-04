@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A41U5"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A41U5"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 545
     isCached: true
 
-secured: "zCh+hHqXhQfjlgaKzx/4wr56tWqdy5ZGHGVp3Re4lOCZI6vuDAVHqESc3+qWSSwpMfp7FxrnbkCMwhkQDLUBNcIXFS5FchcA91o7qsS0Hr3Z5shw6lTlHinRWf3tyUAUQavQFFIX5vIotaYLG4GlA9JB93WOFB2K7T2YDYXUjwAnnvzK87VF6JZIMigwWeOgZ2HlxHOLm4BZqB54BqOICk/OHUDewEiz1lNGID8dI+ogNjufH3UicbdOKYm8zFQNCc37VLG3MVNmqI/hNgp65/HjzRW1SyK3tE4fiUFr2IdD9G5s5Dp3kRkiUCeR+qb7d9B1Xfd9nbd0mEOSTc/ANchqhTDro/ZqAuoiR/YTq2M=;aOhnMQF1Cm40rZ2+OAgloA=="
+secured: "NWnN526BBmEzU4MX55NHApxT/I+1JnH4dpdndh62ap4bd27g30fpdGC4HDvzoMDvdMcCTTstf8HjtQXpp2XKcDJ8b0Zcu042y5/tCuIm5sQsV5PKCREKqLCewNqHOOWC/r3wDdkgYZv0a05XNyO3G2sorhqFGIW+uwi9923azKPcc0rYdOCxoxv4Ai4fObgrpZR3YWVPqXFGh2jwAgY8sKxiUUjCy3BLJqYnJfCJmE/PVtoCVzUIyImabAMmHN4QPcozwRs1qGKuieuUq7JWKH1Amo9Hc9Na/EyraiG4As0E7NJs8v8bwjnbBdEP0KS2TnPrhi9veIi67sVD1h1L28YBeUiT8n0aI2TjB8cgoj6hryV0nOjZFb+/QURukFOxLTwqErnukG/uw8SLsm6cdvWWZM07cs4EW1lLEnDtxHyccSr36lb/cPo5uFQx4qGrJumQIGRnL2Q+jd5KbVffJtBdZ4o3rzX5zXZ443wtyhwXhj7XP2H2NG6AyDCejKBwrtsm0FSrqHqpZCQaaLbOiw==;ENMdWAO4HGRHA/f30L0atA=="
 ---
 

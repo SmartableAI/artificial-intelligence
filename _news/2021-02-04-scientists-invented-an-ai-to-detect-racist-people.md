@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/02/03/scientists-invented-an-ai-t
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/03/scientists-invented-an-ai-to-detect-racist-people/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 108
 published: true
 
 provider:

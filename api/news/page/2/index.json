@@ -2,6 +2,163 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-04-creating-a-bankingbot-on-amazon-lex-v2-console-with-support-for-english-and-spanish.md",
+      "title": "Creating a BankingBot on Amazon Lex V2 Console with support for English and Spanish",
+      "excerpt": "Amazon Lex is a service for building conversational interfaces into any application. The new Amazon Lex V2 Console and APIs make it easier to build, deploy, and manage bots. In this post, you will learn about about the 3 main benefits of Amazon Lex V2 Console and API, basic bot building concepts, and",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/creating-a-bankingbot-on-amazon-lex-v2-console-with-support-for-english-and-spanish/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/creating-a-bankingbot-on-amazon-lex-v2-console-with-support-for-english-and-spanish/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/01/ML-2423-NEW-1.jpg",
+          "width": 800,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-03T16:37:13-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-04-clearview-ais-facial-recognition-app-ruled-illegal-in-canada.md",
+      "title": "Clearview AI’s Facial-Recognition App Ruled Illegal in Canada",
+      "excerpt": "Canadian authorities declared that the company needed citizens’ consent to use their biometric information, and ordered the firm to delete facial images from its database.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/02/03/technology/clearview-ai-illegal-canada.html",
+      "originalUrl": "https://www.nytimes.com/2021/02/03/technology/clearview-ai-illegal-canada.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 219,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/02/03/business/03Clearview-01/merlin_153962745_f3eb3cf6-5fce-4616-931e-683e7a2809b8-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/02/03/technology/clearview-ai-illegal-canada.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/03/technology/clearview-ai-illegal-canada.amp.html",
+      "publishedDateTime": "2021-02-03T16:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-02-03-using-amazon-translate-to-provide-language-support-to-amazon-kendra.md",
+      "title": "Using Amazon Translate to provide language support to Amazon Kendra",
+      "excerpt": "Amazon Kendra is a highly accurate and easy-to-use intelligent search service powered by machine learning (ML). Amazon Kendra supports English. This post provides a set of techniques to provide non-English language support when using Amazon Kendra. We demonstrate these techniques within the context of",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/using-amazon-translate-to-provide-language-support-to-amazon-kendra/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/using-amazon-translate-to-provide-language-support-to-amazon-kendra/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/01/12/ML-2024-3.jpg",
+          "width": 825,
+          "height": 590,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-03T15:44:31-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-02-04-ai-ml-to-drive-budget-2021s-national-language-translation-mission.md",
       "title": "AI, ML to drive Budget 2021's National Language Translation Mission",
       "excerpt": "The National Language Translation Mission seeks to build the next generation government apps and websites that will be 'conversational' like Amazons Alexa or Apples Siri.",
@@ -254,7 +411,7 @@
       "originalUrl": "https://thenextweb.com/neural/2021/02/03/scientists-invented-an-ai-to-detect-racist-people/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -558,7 +715,7 @@
       "originalUrl": "https://www.forbes.com/sites/tomdavenport/2021/02/03/the-future-of-work-now-ai-driven-policing-in-wilmington-nc/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -609,7 +766,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/03/self-driving-cars-and-parallels-to-minecraft/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -1110,161 +1267,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-healthtech-startup-remedico-raises-inr-4-cr-in-bridge-round-led-by-awe-funds.md",
-      "title": "Healthtech Startup Remedico Raises INR 4 Cr In Bridge Round Led By AWE Funds",
-      "excerpt": "The funding will help accelerate the company’s growth, in addition to further augmenting its technology capabilities",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/364666",
-      "originalUrl": "https://www.entrepreneur.com/article/364666",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1612351346-ProductImagev1.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/364666",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/364666",
-      "publishedDateTime": "2021-02-03T03:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-infoworlds-2021-technology-of-the-year-award-winners.md",
-      "title": "InfoWorld’s 2021 Technology of the Year Award winners",
-      "excerpt": "InfoWorld celebrates the year’s best products in software development, cloud computing, data analytics, and machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3604653/infoworlds-2021-technology-of-the-year-award-winners.html",
-      "originalUrl": "https://www.infoworld.com/article/3604653/infoworlds-2021-technology-of-the-year-award-winners.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2021/02/toy-2021-intro-100875981-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3604653/infoworlds-2021-technology-of-the-year-award-winners.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3604653/infoworlds-2021-technology-of-the-year-award-winners.amp.html",
-      "publishedDateTime": "2021-02-03T03:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-evinced-a-web-accessibility-startup-raises-17-million.md",
-      "title": "Evinced, a Web Accessibility Startup, Raises $17 Million",
-      "excerpt": "Startup uses AI to scan company websites for flaws in their accessibility to people with disabilities. The round was led by Microsoft’s M12 venture arm and Capital One Ventures, and comes as others in the field are also drawing venture interest.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/evinced-a-web-accessibility-startup-raises-17-million-11612353609",
-      "originalUrl": "https://www.wsj.com/articles/evinced-a-web-accessibility-startup-raises-17-million-11612353609",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-293714?width=620&size=1.5",
-          "width": 620,
-          "height": 413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/evinced-a-web-accessibility-startup-raises-17-million-11612353609",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/evinced-a-web-accessibility-startup-raises-17-million-11612353609",
-      "publishedDateTime": "2021-02-03T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

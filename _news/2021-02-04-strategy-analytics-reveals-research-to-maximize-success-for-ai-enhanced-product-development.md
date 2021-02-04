@@ -98,6 +98,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Viking Analytics and Pour-tech AB Sign Contract to Provide AI Operators to Iron Foundries"
+    excerpt: "Automation is well established in foundries, but companies also must take on digital transformation. The Viking Analytics / pour-tech AB partnership shows the potential Artificial Intelligence use in the metal industry."
+    publishedDateTime: 2021-02-04T20:39:00Z
+    webUrl: "https://www.automation.com/en-us/articles/february-2021/viking-analytics-pour-tech-ab-contract-ai-iron"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 28
+    images:
+      - url: "https://www.automation.com/getmedia/c471b09e-28ab-4216-bcd8-972b5c9f81a8/Viking-news-Feb-4-2021-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
   - title: "SAS Viya delivers innovation and analytics for all"
     excerpt: "Analytics leader SAS continues to innovate by making it easier to access its powerful, cloud-native SAS® Viya® platform. Recent"
     publishedDateTime: 2021-02-02T14:49:00Z

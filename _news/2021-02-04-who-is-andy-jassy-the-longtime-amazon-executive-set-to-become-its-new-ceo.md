@@ -171,22 +171,6 @@ related:
         width: 1200
         height: 602
         isCached: true
-  - title: "As Jeff Bezos steps down, Amazon stakes its future on the cloud"
-    excerpt: "In his 2014 annual letter to shareholders, Amazon CEO Jeff Bezos wrote that a \"dreamy business offering\" comprises at least four elements: \"Customers love it, it can grow to very"
-    publishedDateTime: 2021-02-04T18:48:00Z
-    webUrl: "https://www.kctv5.com/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_ef46bfbf-44aa-59ab-a260-9af4dac74385.html"
-    ampWebUrl: "https://www.kctv5.com/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_ef46bfbf-44aa-59ab-a260-9af4dac74385.amp.html"
-    cdnAmpWebUrl: "https://www-kctv5-com.cdn.ampproject.org/c/s/www.kctv5.com/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_ef46bfbf-44aa-59ab-a260-9af4dac74385.amp.html"
-    type: article
-    provider:
-      name: KCTV News
-      domain: kctv5.com
-    quality: 44
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/kctv5.com/content/tncms/assets/v3/editorial/d/01/d019b8f8-b810-59f9-be8c-e7c8173baa68/601c30033141d.image.jpg?resize=1024%2C576"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "AWS CEO Andy Jassy Named New Amazon CEO, Replacing Bezos"
     excerpt: "CEO Andy Jassy – credited as the ‘father’ of cloud computing – will be the new CEO of parent company Amazon.com when founder Jeff Bezos steps down in the third quarter"
     publishedDateTime: 2021-02-02T05:30:00Z
@@ -230,6 +214,20 @@ related:
       - url: "https://www.finextra.com/finextra-images/oped/115.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "As Jeff Bezos steps down, Amazon stakes its future on the cloud"
+    excerpt: "In his 2014 annual letter to shareholders, Amazon CEO Jeff Bezos wrote that a \"dreamy business offering\" comprises at least four elements: \"Customers love it, it can grow to very"
+    publishedDateTime: 2021-02-04T17:20:00Z
+    webUrl: "https://omaha.com/lifestyles/technology/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_bd0dbaf0-3abf-5418-bba3-4c405fad7daf.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/5/2a/52a57f52-8222-5f86-8f10-64507dda120d/601c566d9342f.image.jpg?resize=576%2C324"
+        width: 576
+        height: 324
         isCached: true
 
 secured: "GHGL7xM0af4VBUiTXB/xJ71SDgXGbvxznCTQVwUNipmszf2JiLij6W3xMfWZw7hphcRSXgqni3lRTV4tOdVGyaZbQnEPt4ERwyiDq5Q+mc+K+LDEhjH07iGkdpDmp/SvozT0CK6YmMSz97CWzKORiQVq7D1yjs0abRD+qsPLm/eSrF4Xoiuxkfo488NpoUoHw4SM//iP9t4lanQkVX5K6BUj6lsKEmpXUM94ujyLofrDiyOGtwpKgEh84gWPN0XngRbizYenxeHEj/f+7QOsSuiJCR805NsMjX5Gv2Ljj44aa24caOZOior/X19ugTSblo//vJi6AoXkm/9Y3TKjB9XKR42eF3yPvUXpuWkLFgcEhacQBQ7eIXT9+dVcDkoKk6/55umzkTe5Yv1UoCLbTKY3pHRgLu+vtTwKqFp3z6MzeNnkRevMiqMKjTs9MAtyfu9Gsem9P2UP0/HS/Nj3vGFO7iA2aZO3Tr0ueTNV4kqv92Sl5LgU5rtIu8Pt3nWtyNZei6i97b7Jq+IE7izn/A==;/z0GsSjKfWQR3MFUPkn/yg=="

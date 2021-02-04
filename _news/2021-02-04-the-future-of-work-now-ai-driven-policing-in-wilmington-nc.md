@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomdavenport/2021/02/03/the-future-of-w
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2021/02/03/the-future-of-work-now-ai-driven-policing-in-wilmington-nc/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

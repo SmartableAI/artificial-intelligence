@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://diginomica.com/sites/default/files/images/2017-08/investigator.jpg"

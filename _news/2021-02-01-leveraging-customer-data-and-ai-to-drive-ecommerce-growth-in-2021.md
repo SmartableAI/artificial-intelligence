@@ -9,8 +9,8 @@ ampWebUrl: "https://www.searchenginewatch.com/2021/02/01/leveraging-customer-dat
 cdnAmpWebUrl: "https://www-searchenginewatch-com.cdn.ampproject.org/c/s/www.searchenginewatch.com/2021/02/01/leveraging-customer-data-and-ai-to-drive-ecommerce-growth-in-2021/amp/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Search Engine Watch
@@ -40,6 +40,17 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Machine Learning Automates Online Store Development for Ecommerce Startups"
+    excerpt: "Machine learning is streamlining the development of online stores for new ecommerce startups in the 21st century."
+    publishedDateTime: 2021-02-04T20:49:00Z
+    webUrl: "https://www.smartdatacollective.com/machine-learning-automates-online-store-development-for-ecommerce-startups/"
+    ampWebUrl: "https://www.smartdatacollective.com/machine-learning-automates-online-store-development-for-ecommerce-startups/amp/"
+    cdnAmpWebUrl: "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/machine-learning-automates-online-store-development-for-ecommerce-startups/amp/"
+    type: article
+    provider:
+      name: SmartData Collective
+      domain: smartdatacollective.com
+    quality: 37
 
 secured: "eAgwkcC9uOGv00+9AOx9xCfV0GNqIkXl1t2xtNE2GKLWPThJV5fGMxt+HDoKdMuJ58acdOBWOQBL0iXD2m99DIrCerOrHM1LVivd9XvHJHXRyQFNhufLydH4iXL5wOcY/FIuJwY4P9gdkg1jDLmuVycM8RuxwvcL13GeZUu82SO1k5Tz2V92WJxGRfZ4BvaSa4d/8lNE3gqTiVyMQZIzpYLrLP2uTb9KWFd5Xw+TRg5bmNxlAOAd7xPbu0tOpArlWKff5uPlLBMDBf37iF1O7Iye+12JQJr62GYK8PWKk/z1wFPLCv1C56xyTZVxjtfWoXZ2FJgf6/LCRu3CID9Vx9EetSQ0vqUnE5zz1FrT2+c=;Yq0y8Us1fH/1PSSH8tFjhg=="
 ---

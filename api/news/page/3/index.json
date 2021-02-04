@@ -2,6 +2,161 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-03-healthtech-startup-remedico-raises-inr-4-cr-in-bridge-round-led-by-awe-funds.md",
+      "title": "Healthtech Startup Remedico Raises INR 4 Cr In Bridge Round Led By AWE Funds",
+      "excerpt": "The funding will help accelerate the company’s growth, in addition to further augmenting its technology capabilities",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/364666",
+      "originalUrl": "https://www.entrepreneur.com/article/364666",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1612351346-ProductImagev1.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/364666",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/364666",
+      "publishedDateTime": "2021-02-03T03:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-03-infoworlds-2021-technology-of-the-year-award-winners.md",
+      "title": "InfoWorld’s 2021 Technology of the Year Award winners",
+      "excerpt": "InfoWorld celebrates the year’s best products in software development, cloud computing, data analytics, and machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3604653/infoworlds-2021-technology-of-the-year-award-winners.html",
+      "originalUrl": "https://www.infoworld.com/article/3604653/infoworlds-2021-technology-of-the-year-award-winners.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2021/02/toy-2021-intro-100875981-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3604653/infoworlds-2021-technology-of-the-year-award-winners.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3604653/infoworlds-2021-technology-of-the-year-award-winners.amp.html",
+      "publishedDateTime": "2021-02-03T03:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-02-03-evinced-a-web-accessibility-startup-raises-17-million.md",
+      "title": "Evinced, a Web Accessibility Startup, Raises $17 Million",
+      "excerpt": "Startup uses AI to scan company websites for flaws in their accessibility to people with disabilities. The round was led by Microsoft’s M12 venture arm and Capital One Ventures, and comes as others in the field are also drawing venture interest.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/evinced-a-web-accessibility-startup-raises-17-million-11612353609",
+      "originalUrl": "https://www.wsj.com/articles/evinced-a-web-accessibility-startup-raises-17-million-11612353609",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-293714?width=620&size=1.5",
+          "width": 620,
+          "height": 413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/evinced-a-web-accessibility-startup-raises-17-million-11612353609",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/evinced-a-web-accessibility-startup-raises-17-million-11612353609",
+      "publishedDateTime": "2021-02-03T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-03-north-america-ai-chipsets-market-overview-with-in-depth-analysis-and-forecast-2020-2026.md",
       "title": "North America AI Chipsets Market Overview with In-Depth Analysis and Forecast (2020-2026)",
       "excerpt": "The North America AI chipsets market from Central Processing Unit (CPU) segment is projected to grow at a CAGR of 30% over the forecast period. The growth is credited to several features offered by the CPU architecture such as low latency,",
@@ -741,7 +896,7 @@
       "originalUrl": "https://www.analyticsinsight.net/uk-has-launched-first-ethical-automated-facial-recognition-framework/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -890,7 +1045,7 @@
       "originalUrl": "https://venturebeat.com/2021/02/02/bioware-used-ai-upscaling-to-remaster-mass-effects-original-textures/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -1057,163 +1212,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-rescale-raises-50-million-in-series-c-funding.md",
-      "title": "Rescale Raises $50 Million in Series C Funding",
-      "excerpt": "Rescale, the leading hybrid HPC cloud platform enabling intelligent computing for digital R&D, today announced it has closed $50 million in Series C funding from Hitachi Ventures, Microsoft's M12, Nautilus Venture Partners,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/rescale-raises-50-million-in-series-c-funding-2021-02-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/rescale-raises-50-million-in-series-c-funding-2021-02-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-02T06:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-artificial-intelligence-in-marketing-market-next-big-thing-major-giants-alphabet-baidu-oculus360.md",
-      "title": "Artificial Intelligence in Marketing Market Next Big Thing | Major Giants- Alphabet, Baidu, Oculus360",
-      "excerpt": "HTF MI presents an in-depth overview of the Global Artificial Intelligence in Marketing Market Study, detailing",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-marketing-market-next-big-thing-major-giants--alphabet-baidu-oculus360-2021-02-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-marketing-market-next-big-thing-major-giants--alphabet-baidu-oculus360-2021-02-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-02T06:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing",
-        "AI in Healthcare",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-happyfox-applies-conversational-ai-to-support-requests-made-via-slack.md",
-      "title": "HappyFox applies conversational AI to support requests made via Slack",
-      "excerpt": "HappyFox today announced it is using conversational AI to automatically resolve requests made to help or service desk platforms it supports via a Slack communications channel. Assist AI from HappyFox analyzes each request made via Slack to determine if a way to solve that issue already exists within an IT organization’s knowledge base.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/02/happyfox-applies-conversational-ai-to-support-requests-made-via-slack/",
-      "originalUrl": "https://venturebeat.com/2021/02/02/happyfox-applies-conversational-ai-to-support-requests-made-via-slack/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/HappyFox-why-assist-ai-image-1.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/02/happyfox-applies-conversational-ai-to-support-requests-made-via-slack/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/02/happyfox-applies-conversational-ai-to-support-requests-made-via-slack/amp/",
-      "publishedDateTime": "2021-02-02T06:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

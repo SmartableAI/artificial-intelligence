@@ -2,11 +2,11 @@
 category: news
 title: "Two Google engineers resign over firing of AI ethics researcher Timnit Gebru"
 excerpt: "An engineering director and a software developer have quit Alphabet Inc's Google over the dismissal of AI researcher Timnit Gebru, a sign of the ongoing conflicts at the search giant over diversity and ethics."
-publishedDateTime: 2021-02-04T07:26:00Z
-originalUrl: "https://www.reuters.com/article/us-alphabet-resignations-idUSKBN2A4090"
-webUrl: "https://www.reuters.com/article/us-alphabet-resignations-idUSKBN2A4090"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A4090"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A4090"
+publishedDateTime: 2021-02-04T07:42:00Z
+originalUrl: "https://www.reuters.com/article/alphabet-resignations-idINKBN2A40AE"
+webUrl: "https://www.reuters.com/article/alphabet-resignations-idINKBN2A40AE"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2A40AE"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2A40AE"
 type: article
 quality: 101
 heat: -1
@@ -47,6 +47,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Two Google engineers quit over firing of ethical AI leader Timnit Gebru"
+    excerpt: "Two Google engineers have quit over the treatment of Timnit Gebru, former co-lead of the ethical AI team. David Baker, an engineering director, said Gebru’s dismissal “extinguished” his desire to remain at the company."
+    publishedDateTime: 2021-02-04T19:08:00Z
+    webUrl: "https://www.theverge.com/2021/2/4/22266513/google-engineers-quit-timnit-gebru-ethical-ai-april-christina-curley-firing"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2021/2/4/22266513/google-engineers-quit-timnit-gebru-ethical-ai-april-christina-curley-firing"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/2/4/22266513/google-engineers-quit-timnit-gebru-ethical-ai-april-christina-curley-firing"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 104
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/rIIhMta1h8Vp1UlVVbgtVJAp0nU=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68770010/acastro_180130_1777_0003.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "Two Google Employees Resign Over Firing of AI Ethics Researcher Timnit Gebru"
     excerpt: "We cannot say we believe in diversity, and then ignore the conspicuous absence of many voices from within our walls,\" one of the employees said."
     publishedDateTime: 2021-02-04T07:29:00Z
@@ -75,6 +91,6 @@ related:
       domain: army.mil
     quality: 56
 
-secured: "/MpGL8JEeOElDI9m3fWSINiNYV8iQbIE1qT8oV05KaVRgbVEFH66JJ+2T2XjiTRY0tEr0qmnmccucJVD3oQC0lBZWEq8+j5j+TfSMgTsblyDqKYj6xvdjHvXS4hd6bR3fvdCqq0m8Gi4G4p3uIEnkkjK3hN1UzeZwkPwsjUX+tXhgbyEofgLHKTj/87KoC6HxJPKufGaYRPgm3BRKYK6ClkSuGuMjINfmKjHkPL6e7rG4xomhWM0KNT9AdY7Y42gFdakbK++jGr6MyPyZbraZS/9saD/+Evit1qZ/4raCZAEQfMGn8Y6N+NkOlh74J+Zp4d2qa3kXaW26SuL7q67HHYPDdU2X+Rdt7F1quW35Bkas+xy5FXmlVIphdTgLFth5ZsRFSlsNbTDh21nlo8sYxUGqP1BLPlNu4Lgc/SCLcc85PcSlrXhVujXIafK8/QP9s+2fJU0gRb300/XTCUUjMhAmSNgU7fpwZ4kg/M4Ab7WpjTr44MHAfYTLXf4efvCnGjHtDrq4W/yMHHFFjrGNw==;XhEMmoFak9zJfYxwoOfkHw=="
+secured: "xdEw+6F2M4o20V+1tp1Eol1rfT7+RY1QW2EquxPdcxX8SodBJtunB8Wgh+kGbE0E42cXj5kFSPFrqm2g56VvtIqAL7act0aN6Z6LuxDpS14pDwhObofjomud40PlkYDAA2LLV+084JOY8stxzehNqxZqI2EWUXsH8JRcazAGM1AOEV6oOEVycx790U2HqJQ+r5L4ZaHdkcIhIA4siilcGz1fEfwfphQLShaF09YqjQcZfqWZKDUoUwOfTwTITgHoPeYcflK/Bfxu6N/vC50By/F9nS8+ncSH7x2Wb0lV5aYJ4gY2e8xVW/qLCOCWxyMMrsP5r0dk/jwDKxL3T+XmxchYT7rKwLDVrc5ohEFyrWs=;nhrFTwvmXqNlXdad5kmW0w=="
 ---
 

@@ -78,6 +78,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 24
+  - title: "Vt. transportation officials to hold forum on self-driving cars"
+    excerpt: "Vermont transportation officials next week will be giving an update on self-driving cars and their future in the Green Mountain State."
+    publishedDateTime: 2021-02-04T19:32:00Z
+    webUrl: "https://www.wcax.com/2021/02/04/vt-transportation-officials-to-hold-forum-on-self-driving-cars/"
+    type: article
+    provider:
+      name: WCAX3
+      domain: wcax.com
+    quality: 24
+    images:
+      - url: "https://gray-wcax-prod.cdn.arcpublishing.com/resizer/kW1valWAsy9BUn8C6W97vluZHw4=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/SBKRRW7OCNLNVGCZXPAU46VP2Y.jpg"
+        width: 980
+        height: 552
+        isCached: true
 
 secured: "vn+KEcTBh+p92Z/mP/WR+OATtWCfa/AtafUkwx9kyxXGA3GLwO8dSGc7Q1nPGWBptugRue3r/V/ytb8gQev81KZRwNs7TvfhBL+j09UkMqayBzfYsbcg6hbNGSGl1MAzIvK2tgCofBICnIidWgtd6HSwsZ9pl6m/fJDo2ZuCC9tGxMzDT6S6xm+QTUeawqoWM4uOohzHmGnWARYAyuxM295yVsQbIpEwhJqGwAZoDMs0ZPQ3kTAcKFWtmpMfPPcfkrCDfyMFpU6nQ75iDzLE+IZlHIUi4pvWDUfqXn3OrIKbqZj5jMpnibaDHH6QN9LaIoBSxq2+/YePBPcGS8WjJZLr9jgx8/rPmORNUNWUS2I=;R+qAC8as/qXqG0IwnRh5qA=="
 ---

@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Listening to Customers to Unlock the Future of Innovation"
-    excerpt: "With 30 years under our belt and over 30 million robots sold, iRobot is an established leader in the emerging consumer robot industry – but it hasn’t always been that way. Prior making the choice to apply all of our effort to solving the needs of home users,"
-    publishedDateTime: 2021-02-02T16:34:00Z
-    webUrl: "https://www.linkedin.com/pulse/listening-customers-unlock-future-innovation-colin-angle"
+  - title: "Universal Robots’ Safety Expert Recognized in ‘20 Exceptional Women in Robotics and Automation’ List by SME"
+    excerpt: "The international group of remarkable women on SME’s list published today represent a comprehensive cross section of technologies in robotics and automation. The list was developed by U.S.-based Smart Manufacturing magazine published by SME in consultation with several leaders across the robotics and automation industries."
+    publishedDateTime: 2021-02-04T15:01:00Z
+    webUrl: "https://www.fltimes.com/business/national/universal-robots-safety-expert-recognized-in-20-exceptional-women-in-robotics-and-automation-list-by/article_9f7f2920-65ac-5786-91f6-fe3f798f8f8c.html"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
+      name: Finger Lakes Times
+      domain: fltimes.com
+    quality: 36
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEpHdWLGfiFjg/article-cover_image-shrink_720_1280/0/1612277569044?e=1617840000&v=beta&t=dJ6wn32rvOY5khl0MXYGw1BQJPBA50K3zCaPrwURuuQ"
-        width: 1078
-        height: 720
+      - url: "https://bloximages.chicago2.vip.townnews.com/fltimes.com/content/tncms/assets/v3/editorial/e/b0/eb0c58f5-8b72-5421-b41d-9612b509c1a4/601c105850126.image.jpg?crop=1297%2C973%2C0%2C312&resize=840%2C630&order=crop%2Cresize"
+        width: 840
+        height: 630
         isCached: true
 
 secured: "jAW0oqdq9UY2dL4KMMwoRVYB/t7GS0uGoIEAAMpAkmEvUXy3SwnZ8iAp64Av2dk5SAaHTWGTi8dovQvp2iCHyRRYmbeTdChrvjKTZD6CGjRpSD97cQ9qaqyiG59Cmlv+W3LcxcfXET7+z7Wgzz5RGj/59zej6kAn6xlbtAzJYh8Zr/MKZ82n19f4wKn5COV+XdJOC2Bfk5tORI60wSghEQ6vLSmzZtukPfR4tI6aB8Lpoc9lnpWnQYn62ZU1rtYCZf6GigL981rGUHFZqccQj/UOi13BoMW5Mk9Jq4eE2x16VzO0T3EnqENMu/wRxzk/Dlrie0bV428rs+9gTWHg7/YqeFoFl07VFLQHrOBBbog=;G7MpJOjFkpYM4cfQ83vmTQ=="

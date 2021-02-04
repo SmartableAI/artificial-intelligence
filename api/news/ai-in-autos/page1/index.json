@@ -10,7 +10,7 @@
       "originalUrl": "https://www.techrepublic.com/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -63,7 +63,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/03/self-driving-cars-and-parallels-to-minecraft/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -367,7 +367,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/01/self-driving-cars-are-faced-with-too-many-moving-objects-and-too-little-time/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -652,6 +652,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-chinas-didi-chuxing-lands-300-million-for-driverless-cars.md",
+      "title": "China's Didi Chuxing Lands $300 Million For Driverless Cars",
+      "excerpt": "Chinese ride-hailing giant Didi Chuxing has raised $300 million for its autonomous driving unit, adding to the $500 million the company raised in May, according to a Reuters report on Thursday ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/investment-tracker/2021/china-didi-chuxing-300m-funding-driverless-cars/",
+      "originalUrl": "https://www.pymnts.com/news/investment-tracker/2021/china-didi-chuxing-300m-funding-driverless-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/01/didi-chuxing-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/investment-tracker/2021/china-didi-chuxing-300m-funding-driverless-cars/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/china-didi-chuxing-300m-funding-driverless-cars/amp/",
+      "publishedDateTime": "2021-01-28T15:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1424,58 +1467,6 @@
         "name": "Harvard Business Review",
         "domain": "hbr.org",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-self-driving-cars-being-blocked-by-human-drivers-using-road-bouldering-tactics.md",
-      "title": "Self-Driving Cars Being Blocked By Human Drivers Using Road Bouldering Tactics",
-      "excerpt": "Human drivers use road bouldering to block other cars, and the question arises as to how self-driving cars will handle such machinations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/01/21/self-driving-cars-being-blocked-by-human-drivers-using-road-bouldering-tactics/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/01/21/self-driving-cars-being-blocked-by-human-drivers-using-road-bouldering-tactics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6008b4ae194950933a679a95%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5200%26cropY1%3D264%26cropY2%3D3189",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/01/21/self-driving-cars-being-blocked-by-human-drivers-using-road-bouldering-tactics/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/01/21/self-driving-cars-being-blocked-by-human-drivers-using-road-bouldering-tactics/amp/",
-      "publishedDateTime": "2021-01-21T08:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

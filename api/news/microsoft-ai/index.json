@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-05-ibm-rolls-out-an-all-new-elite-hybrid-cloud-build-team-for-ai-partners.md",
+      "title": "IBM rolls out an all-new Elite Hybrid Cloud Build team for AI partners",
+      "excerpt": "IBM today announced the formation of its Elite Hybrid Cloud Build Team. According to Big Blue, this group of AI and cloud computing experts was assembled to help bring its partners into the cutting edge of hybrid solution systems.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/02/04/ibm-rolls-out-an-all-new-elite-hybrid-cloud-build-team-for-ai-partners/",
+      "originalUrl": "https://thenextweb.com/neural/2021/02/04/ibm-rolls-out-an-all-new-elite-hybrid-cloud-build-team-for-ai-partners/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/08/ibm-796x448.jpg",
+          "width": 796,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/02/04/ibm-rolls-out-an-all-new-elite-hybrid-cloud-build-team-for-ai-partners/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/04/ibm-rolls-out-an-all-new-elite-hybrid-cloud-build-team-for-ai-partners/amp/",
+      "publishedDateTime": "2021-02-04T12:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-04-microsoft-launches-viva-an-ai-powered-information-hub-for-enterprises.md",
       "title": "Microsoft launches Viva, an AI-powered information hub for enterprises",
       "excerpt": "Microsoft today introduced Microsoft Viva, a hub of services designed to address digital workplace challenges.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://venturebeat.com/2021/02/04/microsoft-launches-viva-topics-an-ai-powered-information-curator-for-enterprises/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 224,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -1411,50 +1463,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-microsoft-gm-cruise-partner-on-self-driving-cars.md",
-      "title": "Microsoft, GM, Cruise Partner on Self-Driving Cars",
-      "excerpt": "A strategic partnership with Microsoft was announced Tuesday by General Motors and Cruise aimed at speeding up the commercialization of shared self-driving vehicles. In addition, Microsoft will be joining GM,",
-      "sourceUrl": null,
-      "webUrl": "https://www.technewsworld.com/story/86988.html",
-      "originalUrl": "https://www.technewsworld.com/story/86988.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2021-cruise-msft-gm-1.jpg",
-          "width": 620,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-20T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNewsWorld",
-        "domain": "technewsworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

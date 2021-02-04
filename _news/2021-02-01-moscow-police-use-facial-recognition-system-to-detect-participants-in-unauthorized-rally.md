@@ -53,6 +53,20 @@ related:
         width: 796
         height: 417
         isCached: true
+  - title: "Short Amazon’s facial recognition ban. Go long on selling Rekognition to cops again"
+    excerpt: "Will Amazon begin selling its facial recognition technology to any governmental body when its self-imposed moratorium ends."
+    publishedDateTime: 2021-02-04T19:11:00Z
+    webUrl: "https://www.biometricupdate.com/202102/short-amazons-facial-recognition-ban-go-long-on-selling-rekognition-to-cops-again"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 65
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/06/11110622/amazon-biometric-facial-recognition.jpg"
+        width: 810
+        height: 405
+        isCached: true
   - title: "Here’s a way to find out if facial recognition systems used your photos"
     excerpt: "Here's a way to find out if facial recognition systems used your photos When tech companies created the facial recognition systems that"
     publishedDateTime: 2021-01-31T16:54:00Z
@@ -114,20 +128,6 @@ related:
       - url: "https://cdn.my.na/assets/images/11964/female-entrepreneur-pioneers-facial-recognition-tech2021-02-010.jpg"
         width: 1024
         height: 602
-        isCached: true
-  - title: "Millions of faces scanned without approval. We need rules for facial recognition"
-    excerpt: "The powers that be at UCLA thought it was a good idea at the time — using state-of-the-art technology to scan students' faces for gaining access to campus buildings. Students"
-    publishedDateTime: 2021-01-31T04:00:00Z
-    webUrl: "https://www.decaturdaily.com/business/millions-of-faces-scanned-without-approval-we-need-rules-for-facial-recognition/article_78ce915a-aaae-5adf-904f-849658af0769.html"
-    type: article
-    provider:
-      name: Decatur Daily
-      domain: decaturdaily.com
-    quality: 34
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/decaturdaily.com/content/tncms/assets/v3/editorial/6/c5/6c530fe2-caea-5610-a12b-f0b17da37879/6014a79ba90b5.image.jpg?resize=948%2C630"
-        width: 948
-        height: 630
         isCached: true
   - title: "Millions of US faces scanned without approval, rules for facial recognition needed"
     excerpt: "The powers that be at UCLA thought it was a good idea at the time — using state-of-the-art technology to scan students' faces for gaining access to campus buildings. Students thought otherwise."

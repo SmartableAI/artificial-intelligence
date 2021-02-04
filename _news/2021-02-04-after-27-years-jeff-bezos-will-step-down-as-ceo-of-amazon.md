@@ -159,22 +159,6 @@ related:
         width: 1200
         height: 602
         isCached: true
-  - title: "As Jeff Bezos steps down, Amazon stakes its future on the cloud"
-    excerpt: "In his 2014 annual letter to shareholders, Amazon CEO Jeff Bezos wrote that a \"dreamy business offering\" comprises at least four elements: \"Customers love it, it can grow to very"
-    publishedDateTime: 2021-02-04T18:48:00Z
-    webUrl: "https://www.kctv5.com/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_ef46bfbf-44aa-59ab-a260-9af4dac74385.html"
-    ampWebUrl: "https://www.kctv5.com/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_ef46bfbf-44aa-59ab-a260-9af4dac74385.amp.html"
-    cdnAmpWebUrl: "https://www-kctv5-com.cdn.ampproject.org/c/s/www.kctv5.com/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_ef46bfbf-44aa-59ab-a260-9af4dac74385.amp.html"
-    type: article
-    provider:
-      name: KCTV News
-      domain: kctv5.com
-    quality: 44
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/kctv5.com/content/tncms/assets/v3/editorial/d/01/d019b8f8-b810-59f9-be8c-e7c8173baa68/601c30033141d.image.jpg?resize=1024%2C576"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Who is Andy Jassy, the longtime Amazon executive set to become its new CEO?"
     excerpt: "The Amazon vet runs its most profitable division. Here's what his appointment tells us about the company's future."
     publishedDateTime: 2021-02-04T12:20:00Z
@@ -235,7 +219,21 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "As Jeff Bezos steps down, Amazon stakes its future on the cloud"
+    excerpt: "In his 2014 annual letter to shareholders, Amazon CEO Jeff Bezos wrote that a \"dreamy business offering\" comprises at least four elements: \"Customers love it, it can grow to very"
+    publishedDateTime: 2021-02-04T17:20:00Z
+    webUrl: "https://omaha.com/lifestyles/technology/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_bd0dbaf0-3abf-5418-bba3-4c405fad7daf.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/5/2a/52a57f52-8222-5f86-8f10-64507dda120d/601c566d9342f.image.jpg?resize=576%2C324"
+        width: 576
+        height: 324
+        isCached: true
 
-secured: "GZFV/fqe00w1zCoyumIJ4JpzywxDzoMiGzwDqnY/y/Gr86uOJQotsFooJv0k9324UUDWV4aF0QVVkmnoQdJl9JdQoradV1dT+uTsXb7GMrdJkpU6VT5SjE49/AnX2wL3f6XBxH4vL4PaihOMoWmdi4f6ohk8ecsfM0D8neVNsi9PyHmYjSibicjDiENcon+r53fu8b94o2B2zumY62Wd7VMa2xb5KppcVNguUGgn2DAZ1xECUQ9Cf5QkGg/UEu0KBJZzo6CiupbKluziP6GfUPmTha02zkTu+wyV0nlkq6nWvj8hDc6520xI6UpmGz2kFzkbYpBxYRhcOzKX5KdvE+iOcIH6ZsHfp4/twQmlTo4=;kpR9gfhJmPtwZL+JjHH20Q=="
+secured: "SEYjdhso4uBgBJyAPQjV5297NIKKynAeu5Kd9txVgSo21oCX0E1+xdjyXMeIAFZxlbkbQoGR7ThcPQ7JkgbWZadxjd4LDI9SaY/wT2MjcSZGkBJ8sdyP3h1Pr494i1R5gAdjeTPd/D1yy3Bk5xma+IQXYuYKFZQi3WOg//63dhmLJD96FPhrYwmDKTfGSpV+6zxJ0uU6JHc6pue4vbSb3HsoSpViQ/nKobW4VEwYd8wcd9wzOctG+uqueVT87tzxA62IfrDMD/2D0GT9O0qIAssyVWr/PKwsgoDlV4CjtjMw3m59MbyUl6oB65BvQyVe/w9j/ocUs0fgxXAJWinDp3N4bbWexgR2lIlto2nTc1JJqEjyBb0++O868Vn7wONGGK140Z34v40R1ckzuK5xVP4eoHZJRSmrNdzTBMxlWH5F04hvid4pThfp6OZwL/3h5s18kuplNmct42rclWKbBs9cOn67svjZFHNzrS0PfCrjtoz+tBAj3/idBuYihzpG9A+SU+tN4S2fR4TzTlPCtQ==;u0a2XFTZDIWpCLVwG6ZDvQ=="
 ---
 

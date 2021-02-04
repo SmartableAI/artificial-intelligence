@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/budget-2021-ai-ml-analytics-ease-compliance-
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/budget-2021-ai-ml-analytics-ease-compliance-burden-check-tax-evasion/amp/"
 type: article
 quality: 71
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -85,6 +85,20 @@ related:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
+        isCached: true
+  - title: "Viking Analytics and Pour-tech AB Sign Contract to Provide AI Operators to Iron Foundries"
+    excerpt: "Automation is well established in foundries, but companies also must take on digital transformation. The Viking Analytics / pour-tech AB partnership shows the potential Artificial Intelligence use in the metal industry."
+    publishedDateTime: 2021-02-04T20:39:00Z
+    webUrl: "https://www.automation.com/en-us/articles/february-2021/viking-analytics-pour-tech-ab-contract-ai-iron"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 28
+    images:
+      - url: "https://www.automation.com/getmedia/c471b09e-28ab-4216-bcd8-972b5c9f81a8/Viking-news-Feb-4-2021-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
         isCached: true
   - title: "Strategy Analytics Reveals Research to Maximize Success for AI-Enhanced Product Development"
     excerpt: "Strategy Analytics today released complimentary research which explores the link between the level of understanding of the buyer journey and the success of AI projects. The report “ Defining the AI Buyer Journey ” clearly shows that both AI vendors and users can succeed through a thorough understanding of customer journeys."
