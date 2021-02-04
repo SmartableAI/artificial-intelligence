@@ -2,6 +2,155 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-01-25-how-to-leverage-ai-visualization-and-iot-to-simplify-and-improve-security.md",
+      "title": "How To Leverage AI, Visualization And IoT To Simplify And Improve Security",
+      "excerpt": "With the right strategies and technologies, you don't have to contend with the added burdens of cybersecurity complexity and disconnected point systems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/25/how-to-leverage-ai-visualization-and-iot-to-simplify-and-improve-security/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/25/how-to-leverage-ai-visualization-and-iot-to-simplify-and-improve-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600b425db7d369a10dfa14df%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/25/how-to-leverage-ai-visualization-and-iot-to-simplify-and-improve-security/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/25/how-to-leverage-ai-visualization-and-iot-to-simplify-and-improve-security/amp/",
+      "publishedDateTime": "2021-01-25T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-01-25-tesla-partners-with-samsung-on-new-5nm-chip-for-full-self-driving-report-says.md",
+      "title": "Tesla partners with Samsung on new 5nm chip for full self-driving, report says",
+      "excerpt": "Tesla has reportedly partnered with Samsung on a new 5nm chip for full self-driving, according to a new report coming from Korea. Tesla moves to design its own chips Back in 2016, Tesla started building a team of chip architects led by legendary chip designer Jim Keller to develop its own silicon.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/01/25/tesla-partners-samsung-new-5nm-chip-full-self-driving-report/",
+      "originalUrl": "https://electrek.co/2021/01/25/tesla-partners-samsung-new-5nm-chip-full-self-driving-report/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2019/04/Screen-Shot-2019-04-22-at-2.48.22-PM-1-e1555961353311.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/01/25/tesla-partners-samsung-new-5nm-chip-full-self-driving-report/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/01/25/tesla-partners-samsung-new-5nm-chip-full-self-driving-report/amp/",
+      "publishedDateTime": "2021-01-25T05:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-01-25-ehave-inc-utilizes-artificial-intelligence-and-machine-learning-for-big-data-management-in-mental-healthcare.md",
+      "title": "Ehave, Inc. Utilizes Artificial Intelligence and Machine Learning for Big Data Management in Mental Healthcare",
+      "excerpt": "Ehave, Inc. (OTC Pink: EHVVF) (the “Company”), a provider of digital therapeutics for the psychedelic and mental health sectors, announced today plans to continue to address the needs of big data management in mental healthcare.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ehave-inc-utilizes-artificial-intelligence-and-machine-learning-for-big-data-management-in-mental-healthcare-1029999161",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ehave-inc-utilizes-artificial-intelligence-and-machine-learning-for-big-data-management-in-mental-healthcare-1029999161",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Ehave-Inc-Utilizes-Artificial-Intelligence-and-Machine-Learning-for-Big-Data-Management-in-Mental-Healthcare-1029999161",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Ehave-Inc-Utilizes-Artificial-Intelligence-and-Machine-Learning-for-Big-Data-Management-in-Mental-Healthcare-1029999161",
+      "publishedDateTime": "2021-01-25T05:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-01-25-ehave-inc-utilizes-artificial-intelligence-and-machine-learning-for-big-data-management-in-mental-healthcare-morningstar.md",
       "title": "Ehave, Inc. Utilizes Artificial Intelligence and Machine Learning for Big Data Management in Mental Healthcare | Morningstar",
       "excerpt": "The Ehave Dashboard will continue to evolve to include its artificial intelligence and machine learning functions in order to become more integrated with clinical care in the coming years. Ehave Dashboard has been in the forefront of using data analytics with its blockchain data warehouse that provides insights to clinicians and patients.",
@@ -1033,153 +1182,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-23-a-scary-proposal-to-use-facial-recognition-and-ai-by-an-indian-state-has-experts-fuming.md",
-      "title": "A scary proposal to use facial recognition and AI by an Indian state has experts fuming",
-      "excerpt": "The Lucknow police are installing cameras with facial recognition technology, powered by artificial intelligence (AI), in prominent harassment hotspots. The cameras will gauge whether a woman is in distress based on her facial expression and send an alert to the police.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.in/news/a-scary-proposal-to-use-facial-recognition-and-ai-by-an-indian-state-has-experts-fuming/articleshow/80421935.cms",
-      "originalUrl": "https://www.businessinsider.in/news/a-scary-proposal-to-use-facial-recognition-and-ai-by-an-indian-state-has-experts-fuming/articleshow/80421935.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.businessinsider.in/photo/80422279/Master.jpg",
-          "width": 500,
-          "height": 339,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.in/news/a-scary-proposal-to-use-facial-recognition-and-ai-by-an-indian-state-has-experts-fuming/amp_articleshow/80421935.cms",
-      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/news/a-scary-proposal-to-use-facial-recognition-and-ai-by-an-indian-state-has-experts-fuming/amp_articleshow/80421935.cms",
-      "publishedDateTime": "2021-01-23T03:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider India",
-        "domain": "businessinsider.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-23-artificial-intelligence-ai-in-marketing-market-size-share-analysis-report-forecast-to-2025.md",
-      "title": "Artificial Intelligence (AI) in Marketing Market, Size, Share, Analysis Report & Forecast to 2025",
-      "excerpt": "Jan (Heraldkeepers) -- Artificial Intelligence (AI) in marketing market is growing rapidly owing to high demand for lead generation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-marketing-market-size-share-analysis-report-forecast-to-2025-2021-01-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-marketing-market-size-share-analysis-report-forecast-to-2025-2021-01-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 286,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-23T00:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-01-23-yellow-messenger-integrates-microsoft-azure-cognitive-services-on-its-platform.md",
-      "title": "Yellow Messenger integrates Microsoft Azure cognitive services on its platform",
-      "excerpt": "Microsoft is working with Yellow Messenger to use AI services to make automated voice customer services with virtual assistants feel more natural and human to human during interactions",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/yellow-messenger-integrates-microsoft-azure-cognitive-services-on-its-platform",
-      "originalUrl": "https://www.neowin.net/news/yellow-messenger-integrates-microsoft-azure-cognitive-services-on-its-platform",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2021/01/1611405390_yellow_messenger__story.jpg",
-          "width": 760,
-          "height": 429,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/yellow-messenger-integrates-microsoft-azure-cognitive-services-on-its-platform/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/yellow-messenger-integrates-microsoft-azure-cognitive-services-on-its-platform/",
-      "publishedDateTime": "2021-01-23T00:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

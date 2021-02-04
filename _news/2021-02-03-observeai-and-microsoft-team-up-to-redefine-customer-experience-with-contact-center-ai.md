@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
-excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
-publishedDateTime: 2021-02-03T08:22:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
-webUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
+excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance"
+publishedDateTime: 2021-02-02T22:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
+webUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
 type: article
-quality: 46
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Microsoft's cutting-edge machine-learning tool moves from the lab to the mainstream"
@@ -105,22 +99,6 @@ related:
         width: 512
         height: 341
         isCached: true
-  - title: "Microsoft’s investment in cruises puts it in the game of self-driving cars"
-    excerpt: "Microsoft's investment in cruises puts it in the game of self-driving cars One of the pitches that has worked well for Microsoft in the"
-    publishedDateTime: 2021-01-30T14:05:00Z
-    webUrl: "https://www.compsmag.com/news/gaming/microsofts-investment-in-cruises-puts-it-in-the-game-of-self-driving-cars/"
-    ampWebUrl: "https://www.compsmag.com/news/gaming/microsofts-investment-in-cruises-puts-it-in-the-game-of-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/microsofts-investment-in-cruises-puts-it-in-the-game-of-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 59
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/Microsofts-investment-in-cruises-puts-it-in-the-game-of.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Microsoft Data & AI Day on March 11"
     excerpt: "Microsoft Denmark is proud to present Microsoft Data & AI Day! Within the past few years, artificial intelligence has accelerated the digitization of businesses and societies rapidly. As previous entry barriers have fallen AI has undergone a tremendous democratization – and it is now easier than ever before to get started"
     publishedDateTime: 2021-02-01T14:37:00Z
@@ -175,6 +153,6 @@ related:
         height: 314
         isCached: true
 
-secured: "uF9X+c7+/eSkOJP4Ta8Ec8BohnH1hmqK+mMQGFa9R2aB7MWcyKeqSbkWrdbzH+QycMSWYru5AhHjoQjEjmhKVsRnTpV42zO5d8LG4N+TiPiNhmM3/6KEYLYtsLkZRmzILVdmGEOr9qGmRhRBHyYZfNSp8cnYXUGPZMkpWSF+HVweIrfJmGuCSXiEz1tzsY4UDruDxJLhiSir0mbwLVXxo0gWtwd6LXWCRaBtvaltuUrpes+fRVzVmHo7vp25RXyUyIDgFATT4U4EcAeUQjEZjOp/1O8DQmxlxNBAVgGs1QjrGf9KTuodmvpfrvCEuFEPqLYdG5NEvL4B+pvvA1ZPqYCc6GhMt4kutBG0uKm0I74=;8e7ua8EU8me4f+irnW/BfQ=="
+secured: "IqYU5AmKvCLAo4QJKOIbyCzdUoPOckcGXrFrjADhGXguO+wHcI6NB/CbtYfVT9i70ZhPxXeuexOi9s8zmTwTwhhebJ73hNq8UCPmlBS4cd72j57++4wtifXWPZxcFKH08RzXgr8DWK5A91Q7Vv1m1+yd8HRP/IB1p1zyhbHPxq+DaXBvgLqsvwbYrSryFzTj7AwNPhqdE36Vu4j5EqSZzj5jmvp6qzumHboCo7/2e+G+087JGDeSb4lUK8CZ0Tp3vzGunyysieUIXDv+5L0mWuvjWCFB2Fe/x/mv2/B/KHPjue/QOl3NUSQ5HI2St2HHhiYcP259xJQCHwdrPjrLnvdcBIf86uDXYw5Hc72eF0w=;BYpcOuyFCiMggecOLv9+EQ=="
 ---
 

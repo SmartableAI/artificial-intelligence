@@ -26,14 +26,19 @@ images:
 
 related:
   - title: "GDIT Announces Availability of AWS Services on milCloud 2.0"
-    excerpt: "General Dynamics Information Technology, a business unit of General Dynamics, announced today the availability of Amazon Web Services through the milCloud 2.0 contract, providing Department of Defense mission partners access to an expanded portfolio of secure cloud services."
+    excerpt: "General Dynamics Information Technology (GDIT), a business unit of General Dynamics (NYSE:GD), announced today the availability of Amazon"
     publishedDateTime: 2021-02-01T16:00:00Z
-    webUrl: "https://www.nasdaq.com/press-release/gdit-announces-availability-of-aws-services-on-milcloud-2.0-2021-02-01"
+    webUrl: "https://www.prnewswire.com/news-releases/gdit-announces-availability-of-aws-services-on-milcloud-2-0--301219143.html"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 64
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 54
+    images:
+      - url: "https://mma.prnewswire.com/media/1430423/GDIT_milCloud_2_0_AWS_availability.jpg?p=facebook"
+        width: 2699
+        height: 1414
+        isCached: true
   - title: "GDIT Announces AWS Availability on milCloud 2.0 Contract; Dave Levy Quoted"
     excerpt: "General Dynamics Information Technology (GDIT) has announced the availability of Amazon Web Services (AWS) under the milCloud 2.0 contract, GDIT reported on Monday. AWS availability will provide the Department of Defense (DoD) access to an expanded portfolio of secure cloud services."
     publishedDateTime: 2021-02-01T21:42:00Z
@@ -85,15 +90,6 @@ related:
       name: FedScoop
       domain: fedscoop.com
     quality: 34
-  - title: "TrinityRail Announces New Products and Services Expansion"
-    excerpt: "TrinityRail® announced today two new service offerings that will expand and enhance the TrinityRail platform for its customers. The company has officially launched a new technology service platform, Trinsight™,"
-    publishedDateTime: 2021-02-03T08:47:00Z
-    webUrl: "https://www.financialbuzz.com/trinityrail-announces-new-products-and-services-expansion/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 19
 
 secured: "mwns03HFKMuafu2bLyG9TO5Ey5OnrfBGJr4Ih87w4B+Px3n7sYjxZstP05bLLQKKZg1hztZ1qeLaCaWT2ZrUjIX9H+8Cchy0uVQVHysp1VQLj5wt56rQ4ryzbZh2QiAePf0tHDAmXIaDmEtvliMlMkw+26l+s7D8Q92T5YcedFa7UBaX2vZSXxbgWOEh9j7XfuCS92IXP5mjOVWgob49lU5pYIKnXzQAH1OkWKhi2GylrD9XnP+0KmQC9+uCUt8vgMOW1JgtudHlDwYhr/lsASg6t64oe2YLghFuXXugKQ4AMIyUmIFJ4sHf3Ar4BaCjMvWbudSSqh02Oy5TgdYFtPEuOJ+wQ6C9LLkdB6AvbEDXYgWv+Cc5U4wDG/kq1frNGl85mB69qQOV/KUa7/Hgjtg3ARISLEQ9PPljxf45Q/ARgJgwp+2F4JonOQWpKNy+DzcX8WNHp38+3hex9P/beONOev8Y2gKRdo2NDSHH9jgeuGKsPghWO7BqmCbUnrVPONz1dMHOkBC9kKY1u7Lgeg==;nozAVrEmqr/l8CazB1SaDw=="
 ---

@@ -26,14 +26,19 @@ images:
 
 related:
   - title: "GDIT Announces Availability of AWS Services on milCloud 2.0"
-    excerpt: "General Dynamics Information Technology, a business unit of General Dynamics, announced today the availability of Amazon Web Services through the milCloud 2.0 contract, providing Department of Defense mission partners access to an expanded portfolio of secure cloud services."
+    excerpt: "General Dynamics Information Technology (GDIT), a business unit of General Dynamics (NYSE:GD), announced today the availability of Amazon"
     publishedDateTime: 2021-02-01T16:00:00Z
-    webUrl: "https://www.nasdaq.com/press-release/gdit-announces-availability-of-aws-services-on-milcloud-2.0-2021-02-01"
+    webUrl: "https://www.prnewswire.com/news-releases/gdit-announces-availability-of-aws-services-on-milcloud-2-0--301219143.html"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 64
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 54
+    images:
+      - url: "https://mma.prnewswire.com/media/1430423/GDIT_milCloud_2_0_AWS_availability.jpg?p=facebook"
+        width: 2699
+        height: 1414
+        isCached: true
   - title: "DISA, General Dynamics roll out AWS across milCloud"
     excerpt: "The Defense Information Systems Agency and General Dynamics introduce the first commercial cloud hosting service to be made available on the milCloud 2.0 platform."
     publishedDateTime: 2021-02-01T20:01:00Z
@@ -85,15 +90,6 @@ related:
       name: FedScoop
       domain: fedscoop.com
     quality: 34
-  - title: "TrinityRail Announces New Products and Services Expansion"
-    excerpt: "TrinityRail® announced today two new service offerings that will expand and enhance the TrinityRail platform for its customers. The company has officially launched a new technology service platform, Trinsight™,"
-    publishedDateTime: 2021-02-03T08:47:00Z
-    webUrl: "https://www.financialbuzz.com/trinityrail-announces-new-products-and-services-expansion/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 19
 
 secured: "0dj9s7PuOSylWbH8W1illeoUGGNuWvovZeyrTb6Bq9OVxqqhvm2LhZUrvs5s+uwOd3jfp1dmolr3wnrDUWoPVf+vSzbwFt0Mp5Tqnp0cc8X9+CsCYqwxT0Hi3HCknJHleCBjcj/Jcw1q6LksQg8v/M6G2MOGLc1632BsQOeN9/g2j+uzMlQV7Kutep+2lXmGElnv4u0ke9q4T4qNl3UbXvTdbG1Am5+F5rfCRPK1HB7BF4rc88I/J9thFNPzb8t2OAa/RrJeXRunnx6pfpfdmaDKXa1MaUS7CkLfugpXeQrD/sew9Cj24716OypA3EclJznIO48Ju+uWCiCHbKbYqkKqRD5XzgjpODRWVhz2UI22+GOwYowxDOI8M8OGYVoksuH+xIMCZJ4I1L8wA6L8QOriw85rSbU1VNdTqaxgAUanUCtiQWkEXm2fyeTl0KTp7HwFxWugd574SCvuy2R6kHvPbogyXuEhb7A29OA5oneTIT7hLB/g4ZkbL/l+t6G2+cEtAW8oW5A7MNHVQ6hY8w==;qbB0BzVSIj1DTW0wElnHKA=="
 ---

@@ -2,6 +2,195 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2020-12-07-amazons-self-driving-zoox-vehicle-spotted-ahead-of-next-weeks-reveal.md",
+      "title": "Amazon’s self-driving Zoox vehicle spotted ahead of next week’s reveal",
+      "excerpt": "The first vehicle from Amazon-owned self-driving startup Zoox has been spotted on the streets of San Francisco ahead of its reveal next week.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/shift/2020/12/07/amazons-self-driving-zoox-vehicle-spotted-ahead-of-next-weeks-reveal/",
+      "originalUrl": "https://thenextweb.com/shift/2020/12/07/amazons-self-driving-zoox-vehicle-spotted-ahead-of-next-weeks-reveal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/zoox-spotted-car-autonomous-unveiling-ev-future-self-driving-796x448.png",
+          "width": 796,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/shift/2020/12/07/amazons-self-driving-zoox-vehicle-spotted-ahead-of-next-weeks-reveal/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2020/12/07/amazons-self-driving-zoox-vehicle-spotted-ahead-of-next-weeks-reveal/amp/",
+      "publishedDateTime": "2020-12-07T03:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-07-ford-and-argo-ai-kick-off-charitable-food-delivery-pilot-in-miami.md",
+      "title": "Ford and Argo AI kick off charitable food delivery pilot in Miami",
+      "excerpt": "Ford and self-driving car startup Argo AI are conducting a pilot in Miami to deliver school supplies to families",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/07/ford-and-argo-ai-kick-off-charitable-food-delivery-pilot-in-miami/",
+      "originalUrl": "https://venturebeat.com/2020/12/07/ford-and-argo-ai-kick-off-charitable-food-delivery-pilot-in-miami/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/1_oicU5rThFycr0IEq7Asj3A-e1607120859779.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/07/ford-and-argo-ai-kick-off-charitable-food-delivery-pilot-in-miami/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/07/ford-and-argo-ai-kick-off-charitable-food-delivery-pilot-in-miami/amp/",
+      "publishedDateTime": "2020-12-07T03:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-07-retina-ai-health-inc-welcomes-nwamaka-imasogie-as-chief-product-officer.md",
+      "title": "RETINA-AI Health, Inc. Welcomes Nwamaka Imasogie as Chief Product Officer",
+      "excerpt": "AI Health, Inc. as Chief Product Officer. She joins from Microsoft’s Healthcare AI and Research team where she was Principal Software Engineer. Nwamaka has a passion for healthcare and is driven to build technology that will save lives.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-health-care-industry-north-america-medical-technology-bd235b7e50a2cec9810a9d5c363a4e4c",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-health-care-industry-north-america-medical-technology-bd235b7e50a2cec9810a9d5c363a4e4c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-07T03:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-07-allcloud-announces-strategic-collaboration-agreement-with-aws.md",
+      "title": "AllCloud Announces Strategic Collaboration Agreement with AWS",
+      "excerpt": "AllCloud, a leading cloud professional services company, has announced a Strategic Collaboration Agreement with Amazon Web Services (AWS) to help customers use AWS to accelerate their digital transformations.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-israel-products-and-services-398ca9c65afe355fb0836b3f9da8b5c6",
+      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-israel-products-and-services-398ca9c65afe355fb0836b3f9da8b5c6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-07T03:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-07-when-newsrooms-collaborate-with-ai.md",
       "title": "When newsrooms collaborate with AI",
       "excerpt": "Two years ago, the Google News Initiative partnered with the London School of Economics and Political Science to launch JournalismAI, a global effort to foster media literacy in newsrooms through research, training and experimentation.  Since then, more than 62 thousand journalists have taken Introduction",
@@ -994,203 +1183,6 @@
         "Google AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-12-06-tesla-cuts-full-self-driving-upgrade-price-by-1000-for-some-customers.md",
-      "title": "Tesla cuts Full Self-Driving upgrade price by $1,000 for some customers",
-      "excerpt": "Tesla has cut the price of a Full Self Driving upgrade by $1,000, but only for people with Enhanced Autopilot-equipped cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/tesla-drops-full-self-driving-upgrade-price-for-some-184028591.html",
-      "originalUrl": "https://www.engadget.com/tesla-drops-full-self-driving-upgrade-price-for-some-184028591.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2F3f4f2080-3725-11eb-91e7-4fbce3f7cebf&client=amp-blogside-v2&signature=b785dbde864c2b1a7d76720b76a1279eee6fe894",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/tesla-drops-full-self-driving-upgrade-price-for-some-184028591.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-drops-full-self-driving-upgrade-price-for-some-184028591.html",
-      "publishedDateTime": "2020-12-05T10:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-06-demis-hassabis-interview-the-kid-from-the-comp-who-founded-deepmind-and-cracked-a-mighty-riddle-of-science.md",
-      "title": "Demis Hassabis interview: the kid from the comp who founded DeepMind and cracked a mighty riddle of science",
-      "excerpt": "If you want to understand Demis Hassabis, and his quest to apply artificial intelligence to the greatest scientific mysteries, you first have to understand chess. Or more precisely, the trials and",
-      "sourceUrl": null,
-      "webUrl": "https://www.thetimes.co.uk/edition/news/demis-hassabis-interview-the-kid-from-the-comp-who-founded-deepmind-and-cracked-a-mighty-riddle-of-science-g3v3z9b80",
-      "originalUrl": "https://www.thetimes.co.uk/edition/news/demis-hassabis-interview-the-kid-from-the-comp-who-founded-deepmind-and-cracked-a-mighty-riddle-of-science-g3v3z9b80",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2Fbfcbc658-3650-11eb-ab48-f271d195f66f.jpg?crop=1600%2C900%2C0%2C0&resize=685",
-          "width": 685,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-05T10:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times",
-        "domain": "thetimes.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-06-more-than-1500-google-employees-sign-petition-condemning-firing-of-black-ai-ethicist-timnit-gebru.md",
-      "title": "More Than 1,500 Google Employees Sign Petition Condemning Firing of Black AI Ethicist Timnit Gebru",
-      "excerpt": "More than 1,500 Google employees and some 2,000 academic, industry, and civil society supporters have signed a petition protesting the termination of Timnit Gebru, a Black scientist and artificial intelligence ethicist.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/more-than-1-500-google-employees-sign-petition-condemni-1845816400",
-      "originalUrl": "https://gizmodo.com/more-than-1-500-google-employees-sign-petition-condemni-1845816400",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/zrxtfs0w2gbmty1jqgis.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/more-than-1-500-google-employees-sign-petition-condemni-1845816400/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/more-than-1-500-google-employees-sign-petition-condemni-1845816400/amp",
-      "publishedDateTime": "2020-12-05T09:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-06-top-20-predictions-of-how-ai-is-going-to-improve-cybersecurity-in-2021.md",
-      "title": "Top 20 Predictions Of How AI Is Going To Improve Cybersecurity In 2021",
-      "excerpt": "In 2021, cybersecurity vendors will accelerate AI and machine learning app development to combine human and machine insights so they can out-innovate attackers intent on escalating an AI-based arms race.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/12/05/top-20-predictions-of-how-ai-is-going-to-improve-cybersecurity-in-2021/",
-      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2020/12/05/top-20-predictions-of-how-ai-is-going-to-improve-cybersecurity-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fcb9d7e99411771234c0196%2F0x0.jpg%3FcropX1%3D1189%26cropX2%3D6735%26cropY1%3D0%26cropY2%3D4500",
-          "width": 1200,
-          "height": 974,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/12/05/top-20-predictions-of-how-ai-is-going-to-improve-cybersecurity-in-2021/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/12/05/top-20-predictions-of-how-ai-is-going-to-improve-cybersecurity-in-2021/amp/",
-      "publishedDateTime": "2020-12-05T08:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

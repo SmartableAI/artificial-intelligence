@@ -54,20 +54,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "New Report Shows Marketers Lack the Education, Training to Effectively Adopt Artificial Intelligence"
-    excerpt: "The majority of marketers know artificial intelligence is essential to their success this year. But, lack of education and training is holding the industry back, with 70 percent of respondents identifying it as a barrier to adoption of AI in their marketing."
-    publishedDateTime: 2021-02-02T18:50:00Z
-    webUrl: "https://apnews.com/article/technology-business-north-america-cleveland-advertising-and-marketing-industry-022340fc6d665efe35c66cfcddcbb8f7"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 54
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Global Deep Learning Market 2020 Regional Demand, Industry Top Players Study, Key Trends and SWOT Analysis to 2025"
     excerpt: "The latest report entitled Global Deep Learning Market 2020 by Company, Type and Application, Forecast to 2025 firstly focuses on some important aspects of the market such as revenue rate, market share,"
     publishedDateTime: 2021-02-03T03:52:00Z

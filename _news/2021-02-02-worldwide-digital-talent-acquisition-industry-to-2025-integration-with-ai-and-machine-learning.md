@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/worldwide-digital-talen
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/worldwide-digital-talent-acquisition-industry-to-2025-integration-with-ai-and-machine-learning-1030031930"
 type: article
 quality: 73
-heat: 163
+heat: 153
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "New Report Shows Marketers Lack the Education, Training to Effectively Adopt Artificial Intelligence"
-    excerpt: "The majority of marketers know artificial intelligence is essential to their success this year. But, lack of education and training is holding the industry back, with 70 percent of respondents identifying it as a barrier to adoption of AI in their marketing."
-    publishedDateTime: 2021-02-02T18:50:00Z
-    webUrl: "https://apnews.com/article/technology-business-north-america-cleveland-advertising-and-marketing-industry-022340fc6d665efe35c66cfcddcbb8f7"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 54
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Artificial Intelligence (AI) Enabled Medical Imaging Market – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2025"
     excerpt: "Selbyville, Delaware According to the research report titled 'Global Artificial Intelligence (AI) Enabled Medical Imaging Market Analysis, 2020', available with Market Study Report LLC, global artificial intelligence (AI) enabled medical imaging market is expected to register 29% CAGR during 2021-2026."

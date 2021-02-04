@@ -3,8 +3,8 @@ category: news
 title: "Jeff Bezos is stepping down as Amazon CEO and will be replaced by AWS boss Andy Jassy"
 excerpt: "Bezos announced the change in an email to staff on Tuesday afternoon and as the company reported bumper 2020 Q4 earnings of more than $100billion."
 publishedDateTime: 2021-02-03T09:31:00Z
-originalUrl: "https://www.dailymail.co.uk/news/article-9216343/Jeff-Bezos-stepping-Amazon-CEO.html?ci=73931&si=24249205"
-webUrl: "https://www.dailymail.co.uk/news/article-9216343/Jeff-Bezos-stepping-Amazon-CEO.html?ci=73931&si=24249205"
+originalUrl: "https://www.dailymail.co.uk/news/article-9216343/Jeff-Bezos-stepping-Amazon-CEO.html"
+webUrl: "https://www.dailymail.co.uk/news/article-9216343/Jeff-Bezos-stepping-Amazon-CEO.html"
 ampWebUrl: "https://www.dailymail.co.uk/news/article-9216343/amp/Jeff-Bezos-stepping-Amazon-CEO.html"
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9216343/amp/Jeff-Bezos-stepping-Amazon-CEO.html"
 type: article
@@ -216,6 +216,6 @@ related:
         height: 450
         isCached: true
 
-secured: "rk60g5KReiPKXLSrNKBLfeA/P6A92Ca9fdG8DKjDgyK7WZItHsswJID7E/j2m+fIN2LGFP7oHIiqw1bLv7kDwug6PC6EO69auBV4AZXBvWxYXS6rrp4jWFmKIidRDJUIY/9bK/kM2VhDj3/1rCyTZvAfk+1z45PF1ZkXdPckZHX6sC0TgBMGc3yvxS2MK85+ECpZ0CEogWrL+t2eExC5BVnBzkr7dbSfg8dF2QWAbJyEoARJQG7Nxaw4RPO7Hn4+IhN0f/tjWC3ur3/1nnuEq7zpU4IvsMJ2p8LCYceQaGUaJft1DdeMZb5AoGADinnxdOsg5U7++l/s1n1VpYAHdyTqvTzrzOYx77+0/QKXBwHQGSKpXg7gFaK48J/U7wcN2s4pqkGLLPsDmbXzzi8GmRzzJ8pp85ge7D/5f5sz5HxGoSW0PCsK7j6vqarcXjXYBhydnT8PVKldx/n1+jDdT+/I8aMEcym/PHFSR6GsP1xLblH8sSfrcLfHyIivPw5A17pHyJnrQ07rCu5ASEJCkQ==;PXMcFvuuQwak2HaCEEsNYw=="
+secured: "g/kmUM+SUAumt0etEVxw22N8Ps9lvfpc6T7YOrM5QBCBRIBBEl21tttfnXQFnnZ1K7SQOe3Mf96SQGavqSWPOIuzQGeKAoWHYulEw2CFwW7jXH+pdulfgPQYBzizAuVLcIEg60xHbKNGCvO3npYhr/zqlhvcFBHMg78ECqknr8Al8tjeFZCnbiUujXKBWMlfWUv1oiwfOmgeaX1WWo0qnFz67m1lADTQPtvql1OB8fPVmEbKfqsSXqMjgul5APve140CnqqDTk0KsckUN0xKJ53m2i7vNF236cwsc7425MAja2WFU2RpnjwLSFLzqq2plijOnAWd45hT+vDbdI8bQfPbtfQxDjGH7SmqW1Uc/Ao=;KPSnih/iJScesLSSDjorlA=="
 ---
 

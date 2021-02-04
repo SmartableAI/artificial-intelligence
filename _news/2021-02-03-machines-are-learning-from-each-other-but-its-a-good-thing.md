@@ -95,22 +95,6 @@ related:
         width: 512
         height: 341
         isCached: true
-  - title: "Microsoft’s investment in cruises puts it in the game of self-driving cars"
-    excerpt: "Microsoft's investment in cruises puts it in the game of self-driving cars One of the pitches that has worked well for Microsoft in the"
-    publishedDateTime: 2021-01-30T14:05:00Z
-    webUrl: "https://www.compsmag.com/news/gaming/microsofts-investment-in-cruises-puts-it-in-the-game-of-self-driving-cars/"
-    ampWebUrl: "https://www.compsmag.com/news/gaming/microsofts-investment-in-cruises-puts-it-in-the-game-of-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/microsofts-investment-in-cruises-puts-it-in-the-game-of-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 59
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/Microsofts-investment-in-cruises-puts-it-in-the-game-of.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Microsoft Data & AI Day on March 11"
     excerpt: "Microsoft Denmark is proud to present Microsoft Data & AI Day! Within the past few years, artificial intelligence has accelerated the digitization of businesses and societies rapidly. As previous entry barriers have fallen AI has undergone a tremendous democratization – and it is now easier than ever before to get started"
     publishedDateTime: 2021-02-01T14:37:00Z
@@ -165,19 +149,14 @@ related:
         height: 314
         isCached: true
   - title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
-    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
-    publishedDateTime: 2021-02-03T08:22:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
+    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance"
+    publishedDateTime: 2021-02-02T22:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 46
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Business Wire
+      domain: businesswire.com
+    quality: 26
 
 secured: "w3dNtrf3u9guNcYpULLtfrcT243vI/E9bRbp1uDEWzO5mm9y76WEd53ovMVHKwlxgZzonj5fV4nmCXk8WrFRnd8qP9WfCkUwxaL515cZnAiPQ5fbEGUqvi7pbW1cvRMYgp11R3sHupNGptDyZGJGzAXbh+uSP9b03TJjJgANo/w83JSLI4743hSM0LotMKZHv1ur2hyNcKUIt8GGX/lBnYCIPbkMnrYUsUbqMgHlMH+U9ClmFfXc7lHovb40T7jz+esxoZlK45jauLSekwp2yny9+VyR2QdXyiqq/jiEVM/y5E7n4YzRpRQr1o7IGWqbIVJeKToUdhb1fCdjIr3T/0JJCi5lLDyD49gCP2ajksBC/lw7y2mBGrI6DnhkvhqvTD3PzkZeWHhaWf8a44oXqkuSwEykAkw8G/VyzK/851+eN9SUtLYSsTt1BV7QYZCuqmuQ3i9YhfEsKY63u7kCOVFv3brPvQMk9x2TJ7KuvKVwGierS9DfTMyupGmkmpAmuEFYxy0/+x76yZM34d8QAQ==;rOHQPsbFMmevANqDhGLjuw=="
 ---

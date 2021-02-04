@@ -9,7 +9,7 @@ ampWebUrl: "https://heraldcourier.com/community/hollifield-larry-king-will-miss-
 cdnAmpWebUrl: "https://heraldcourier-com.cdn.ampproject.org/c/s/heraldcourier.com/community/hollifield-larry-king-will-miss-the-robot-apocalypse/article_0eb64c84-7593-53b2-9aab-cc89f63f0239.amp.html"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -67,6 +67,17 @@ related:
     provider:
       name: Winston-Salem Journal
       domain: journalnow.com
+    quality: 39
+  - title: "SCOTT HOLLIFIELD: Larry King will miss the Robot Apocalypse"
+    excerpt: "Today, our disparate subjects will be the literary genius of the late Larry King and the inevitable end of the world as we know it brought about by killer robots."
+    publishedDateTime: 2021-02-04T07:00:00Z
+    webUrl: "https://starherald.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_2ab167ca-669e-11eb-8267-df9061970ac5.html"
+    ampWebUrl: "https://starherald.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_2ab167ca-669e-11eb-8267-df9061970ac5.amp.html"
+    cdnAmpWebUrl: "https://starherald-com.cdn.ampproject.org/c/s/starherald.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_2ab167ca-669e-11eb-8267-df9061970ac5.amp.html"
+    type: article
+    provider:
+      name: Scottsbluff Star Herald
+      domain: starherald.com
     quality: 39
 
 secured: "TW+aIWcHDMc4AdHXeGAPBS59a0s6XiC57QPDJQERhbDKj3mpMjyN4JRWmyjT58qwsXO+55Ltg8pSm5AEMgqfVV9AwRr/dALgMFGb5qlLasYZlJhSKiGLsB2Y1J44XRoLWgwKi3pz0E6Ek+36fIV63wGG+JHNUtrPTCZAywCb1eT+NH2ojnNZvL4BLWuun5eKXUdcE7GN4D0r8o6mTz57Qs4hP2lhaMcxBaxGusvQrovP+igfR1PF2rnKy7M5VPH6KYuoEJ8hC3HyN9fJEaJ3huXhVwR/QUfxNFUrRukPxobBN9Qdb0WvuW3eiF5FlkyrpPFbdQ2T7q4mBs/F0SRrCZO/pwb4gi9nwrq/xOhlofc=;Wo10q7NB51ZyeNgY6KdIrQ=="

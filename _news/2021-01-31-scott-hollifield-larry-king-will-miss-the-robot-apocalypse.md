@@ -68,6 +68,17 @@ related:
       name: Winston-Salem Journal
       domain: journalnow.com
     quality: 39
+  - title: "SCOTT HOLLIFIELD: Larry King will miss the Robot Apocalypse"
+    excerpt: "Today, our disparate subjects will be the literary genius of the late Larry King and the inevitable end of the world as we know it brought about by killer robots."
+    publishedDateTime: 2021-02-04T07:00:00Z
+    webUrl: "https://starherald.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_2ab167ca-669e-11eb-8267-df9061970ac5.html"
+    ampWebUrl: "https://starherald.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_2ab167ca-669e-11eb-8267-df9061970ac5.amp.html"
+    cdnAmpWebUrl: "https://starherald-com.cdn.ampproject.org/c/s/starherald.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_2ab167ca-669e-11eb-8267-df9061970ac5.amp.html"
+    type: article
+    provider:
+      name: Scottsbluff Star Herald
+      domain: starherald.com
+    quality: 39
 
 secured: "rYkb+/8BFaAzC6kkqQNTldnroVzDL6FQGmyruq+ynOG2FnEDzn77BEd3jyFz2HB2P90+b2pUERSh2xXSs+tN0pOdk1H1J3IygFZD2xkd1qPFx1ZztGZtvBGiqNEqXfCG10U2C8IMLPvk8WrZhpq2lYZr/XyZ3Su+GVJIqQfCQL9cmz20c91LvG24KgLPtBLM+NQZ1rbHSjskCEMQ7ztHg8oS2NMijgvCfEMVXxuDX6AhZNPC3PnU+uQzGWM1NrqSZF3rKy75bQUJavOX9qUUnG9WwHLWCuxQnwNq1aDjzTfEoFEl/VcJejBeEBKjWJJXQmahcr5NDoZhKhpF+lbC3cg+LX4MArtNqrDLqNsNIecc2iOii5kttgOJTh5tUN6Gc7y6NFOYlPLrwn0NTCygu44b34FORG87ypYowPnldGnNI77irw1dJCdzBrVs7sNokpB7kR9yaLbAqvQi5TxLbTEQ66WYoMvba3ERU1Y9TZlXq+Gf6C73DG3l6sjD9rFOwfxrUciup6JyXl7Fb7VPgA==;UTZFX5D/vpy7C/m4UJAzOA=="
 ---

@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-24-google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-reuters-reports.md",
+      "title": "Google told its scientists to 'strike a positive tone' in AI research, Reuters reports",
+      "excerpt": "Reuters could not determine why. A paper this month on AI for understanding a foreign language softened a reference to how the Google Translate product was making mistakes following a request from company reviewers, a source said. The published version ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2020/12/23/google-told-scientists-to-strike-a-positive-tone-in-ai-research-reuters.html",
+      "originalUrl": "https://www.cnbc.com/2020/12/23/google-told-scientists-to-strike-a-positive-tone-in-ai-research-reuters.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105384585-1533750651888rts1wjr5.jpg?v=1533750713",
+          "width": 3516,
+          "height": 2344,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/12/23/google-told-scientists-to-strike-a-positive-tone-in-ai-research-reuters.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/23/google-told-scientists-to-strike-a-positive-tone-in-ai-research-reuters.html",
+      "publishedDateTime": "2020-12-23T21:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-12-24-ringcentral-acquires-event-intelligence-firm-deepaffects.md",
       "title": "RingCentral Acquires Event Intelligence Firm DeepAffects",
       "excerpt": "DeepAffects analyzes business conversations to extract meaningful insights, using a set of AI models that provide “high accuracy for diarization, emotion and speech recognition,” states ...",
@@ -1310,49 +1363,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-natural-language-processing-nlp-market-analysis-trends-growth-size-share-and-forecast-2019-to-2025.md",
-      "title": "Natural Language Processing Nlp Market Analysis, Trends, Growth, Size, Share and Forecast 2019 to 2025",
-      "excerpt": "The Global Natural Language Processing Nlp Market size is expected to grow at an annual average of 20 3 during 2019 2025 Key growth factors for the NLP market include increased use of smart devices increased adoption of cloud based",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2207688/natural-language-processing-nlp-market-analysis-trends",
-      "originalUrl": "https://www.openpr.com/news/2207688/natural-language-processing-nlp-market-analysis-trends",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/c/Tc11826692_g.jpg",
-          "width": 564,
-          "height": 444,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2207688/natural-language-processing-nlp-market-analysis-trends",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2207688/natural-language-processing-nlp-market-analysis-trends",
-      "publishedDateTime": "2020-12-11T03:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

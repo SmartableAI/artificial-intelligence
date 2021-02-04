@@ -2,6 +2,214 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-01-20-healthcare-artificial-intelligence-ai-market-worth-513-billion-by-2027-at-a-cagr-of-414.md",
+      "title": "Healthcare Artificial Intelligence (AI) Market Worth $51.3 Billion by 2027 at a CAGR of 41.4%",
+      "excerpt": "According to this latest publication from Meticulous Research(R), the healthcare artificial intelligence market is",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-worth-513-billion-by-2027-at-a-cagr-of-414-2021-01-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-worth-513-billion-by-2027-at-a-cagr-of-414-2021-01-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-20T06:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-trump-pardons-former-google-self-driving-car-engineer-levandowski.md",
+      "title": "Trump pardons former Google self-driving car engineer Levandowski",
+      "excerpt": "U.S. President Donald Trump said on Wednesday he had given a full pardon to a former Google engineer sentenced for stealing a trade secret on self-driving cars months before he briefly headed Uber Technologies Inc's rival unit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-trump-google-idUSKBN29P0JM",
+      "originalUrl": "https://www.reuters.com/article/us-usa-trump-google-idUSKBN29P0JM",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210120&t=2&i=1548414698&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0J09X",
+          "width": 830,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29P0JM",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29P0JM",
+      "publishedDateTime": "2021-01-20T05:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-why-chicago-is-emerging-an-ai-life-sciences-leader.md",
+      "title": "Why Chicago Is Emerging An AI-Life Sciences Leader",
+      "excerpt": "Chicago is becoming a world leader in a new frontier of precision medicine. And with continued momentum from Chicago-based academic research, venture funded startups and established enterprises—we can expect this sector to continue to expand in the years to come.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/peterandrewwilkins/2021/01/20/why-chicago-is-emerging-an-ai-life-sciences-leader/",
+      "originalUrl": "https://www.forbes.com/sites/peterandrewwilkins/2021/01/20/why-chicago-is-emerging-an-ai-life-sciences-leader/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60082c5cedfffcad1b332bb6%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5000%26cropY1%3D46%26cropY2%3D2390",
+          "width": 1200,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/peterandrewwilkins/2021/01/20/why-chicago-is-emerging-an-ai-life-sciences-leader/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peterandrewwilkins/2021/01/20/why-chicago-is-emerging-an-ai-life-sciences-leader/amp/",
+      "publishedDateTime": "2021-01-20T05:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-google-investigates-ethical-ai-team-member-over-handling-of-sensitive-data.md",
+      "title": "Google investigates ethical AI team member over handling of sensitive data",
+      "excerpt": "Alphabet Inc's Google is investigating a member of its ethical AI team and has locked the corporate account linked to that person after finding that thousands of files were retrieved from its server and shared with external accounts,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-alphabet-google-research-idUSKBN29P0TW",
+      "originalUrl": "https://www.reuters.com/article/us-alphabet-google-research-idUSKBN29P0TW",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20210120&t=2&i=1548412512&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0J0F2",
+          "width": 1056,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29P0TW",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29P0TW",
+      "publishedDateTime": "2021-01-20T05:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-20-speech-zadarma-is-offering-free-access-to-their-widely-recommended-speech-recognition-analytics-tool-until-march-2021.md",
       "title": "Speech Zadarma is offering free access to their widely recommended speech recognition analytics tool until March 2021",
       "excerpt": "Speech analytics is transforming many aspects of business, and is especially beneficial to any sales driven organisation. Zadarma, most well known as a leading global VoIP provider, also offers an industry leading smart speech recognition and analytics feature as part of their incredibly easy to use and highly affordable telecommunications offering.",
@@ -995,187 +1203,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-automotive-artificial-intelligence-market-size-2020-notable-growth-trends-key-players-reginal-product-review-and-forecasts-report-to-2025.md",
-      "title": "Automotive Artificial Intelligence Market Size 2020: Notable Growth, Trends, Key Players, Reginal, Product Review and Forecasts Report To 2025",
-      "excerpt": "Benefits of automotive artificial intelligence include - driverless cars, smarter, safer and affordable, assisted features, cognitive predictive maintenance. These major players have adopted ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-size-2020-notable-growth-trends-key-players-reginal-product-review-and-forecasts-report-to-2025-2021-01-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-size-2020-notable-growth-trends-key-players-reginal-product-review-and-forecasts-report-to-2025-2021-01-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-19T23:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-private-sector-expects-to-lose-control-of-ai-governance-within-five-years-says-new-study.md",
-      "title": "Private Sector Expects to Lose Control of AI Governance Within Five Years, Says New Study",
-      "excerpt": "A lack of accountability within the private sector will lead to governments taking over responsibility for AI regulation over the next five years, according to new research by Pegasystems Inc. (NASDAQ: PEGA),",
-      "sourceUrl": null,
-      "webUrl": "https://www.pega.com/tech-trends-future-proof-2025",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-government-regulations-government-and-politics-artificial-intelligence-computing-and-information-technology-f1a05847b8dcfdd326e70a97c46083cc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pega.com/sites/default/files/media/images/2021-01/pega-tech-trends-og.jpg",
-          "width": 2501,
-          "height": 1307,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-19T22:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-dunnhumby-extends-machine-learning-automation-tool-built-on-microsoft-azure.md",
-      "title": "dunnhumby Extends Machine Learning Automation Tool Built on Microsoft Azure",
-      "excerpt": "Customer data science company dunnhumby is preparing to launch an Enterprise Edition of dunnhumby Model Lab, a machine learning automation tool for data scientists built on Microsoft Azure. As retailers and CPGs begin to reimagine their business operations,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-science-data-management-computing-and-information-technology-9b0e49504cdf4f22936c3414ca648f45",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-science-data-management-computing-and-information-technology-9b0e49504cdf4f22936c3414ca648f45",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-19T22:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-rsip-vision-announces-versatile-medical-image-segmentation-tool-delivering-efficient-anatomical-measurements-and-better-treatment-options.md",
-      "title": "RSIP Vision Announces Versatile Medical Image Segmentation Tool, Delivering Efficient Anatomical Measurements and Better Treatment Options",
-      "excerpt": "Jan 19, 2021-- RSIP Vision, a leading innovator in medical imaging through advanced AI and computer vision solutions, today announces a general purpose, AI-based segmentation and measurement tool for detecting objects of interest and their boundaries quickly and automatically,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/science-business-technology-products-and-services-diagnosis-and-treatment-1d5c5f5c3dfb449a9a6125ce5e87091b",
-      "originalUrl": "https://apnews.com/press-release/business-wire/science-business-technology-products-and-services-diagnosis-and-treatment-1d5c5f5c3dfb449a9a6125ce5e87091b",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-19T21:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "New Report Shows Marketers Lack the Education, Training to Effectively Adopt Artificial Intelligence"
+    excerpt: "The majority of marketers know artificial intelligence is essential to their success this year. But, lack of education and training is"
+    publishedDateTime: 2021-02-02T16:31:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/new-report-shows-marketers-lack-the-education-training-to-effectively-adopt-artificial-intelligence-301220406.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 54
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "9hVcayKVVmYPPghqpZLVX5TJW9vwrdivPLRrOUmtW1g2jHnuqSrWM/111IWHhO8JrECpxTP6YtfplootC5mXQJqjfgTq7O56shDx3nBC+KHTk1kfXZ7WC/JmQXQaNzJB7kzkcKZwXM02cwz0HQ0dyqyg47LoQk/mArn3tArvhOgeScrqxENBqgau/cWXyrAZNpZCdOYOR5ar84QdKVmFuZfA01oDVXSsTjZ/5s8CBJYzGRcGSH18UFkDy74xOlzladX0PC7r8eZte+QZjG/RiPEhz6PsGEGCuA4fw5W3wYCSLdJ2TDaWoEZNzZt1nF5Xd3TF2eOwHpNJxc/vQfzQIbPOwgzHHvvQMKU3DyAyMyo=;QlpwprEQqzWdwtgS7SZrow=="
 ---

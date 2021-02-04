@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Amazon plans AI-powered cameras in delivery vans to improve driver safety"
+    excerpt: "Amazon.com has revealed plans to install AI-powered video cameras in its branded delivery vans, in a move that the world's largest e-commerce firm says would improve safety of both drivers and the communities in which they deliver."
+    publishedDateTime: 2021-02-04T06:51:00Z
+    webUrl: "https://www.reuters.com/article/amazon-com-delivery-idINKBN2A406W"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2A406W"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2A406W"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 86
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210204&t=2&i=1550254162&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH13003"
+        width: 768
+        height: 545
+        isCached: true
 
 secured: "Y1hENl03WXkEiAvUf+VL+n9zisqqUPGBTZPEK0wfskzUL1gJr6iIMwL9ndOSUqdGmTlk2u4Vy+ZulyZZLvbkE004gvMCxZ2vUrYBkq94NhdkJuSp4/wezz1eIjBmmj2FujIvzBcI3OCSjie9LYaB2fJmW2sQjr9xg/54xsq2M/ryGL/x711NAwLwJk3d8PK4uKzTJCqQXmqoQwOmfwcKkOWPadi30JrGFCDE+YVBGhWee6YUnvXn+CqwHG0ASuFW5DseKBo+rFDE5RMk2TcDI5BH9ylV7fZkObwyY/TU4yTZLVQQiroW6jeD+a6h+W1/viMMN5Z6abqVc9XiYM4P0Vz5L/H+Hnn9hyeEibmuTvVpfuJow/m1sejvgJOvGXT/jIpKffjBQfmK00LzfBU+KxartyFnHxxJo1i6Uvfc55kpkgTk5yxqke5LOT7NPzLbzu0EV6s8GWpzjKBy+pL9nOzC7FIzUTYI3fszr9EoTqJwBYhNUTg5qPPQWAnvFZQu4yaGPfPwjombrp11UlJCSA==;kS6Ysjv9JbNBwsy8yzk9/w=="
 ---

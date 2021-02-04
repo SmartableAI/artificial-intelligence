@@ -67,6 +67,17 @@ related:
         width: 414
         height: 233
         isCached: true
+  - title: "SCOTT HOLLIFIELD: Larry King will miss the Robot Apocalypse"
+    excerpt: "Today, our disparate subjects will be the literary genius of the late Larry King and the inevitable end of the world as we know it brought about by killer robots."
+    publishedDateTime: 2021-02-04T07:00:00Z
+    webUrl: "https://starherald.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_2ab167ca-669e-11eb-8267-df9061970ac5.html"
+    ampWebUrl: "https://starherald.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_2ab167ca-669e-11eb-8267-df9061970ac5.amp.html"
+    cdnAmpWebUrl: "https://starherald-com.cdn.ampproject.org/c/s/starherald.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_2ab167ca-669e-11eb-8267-df9061970ac5.amp.html"
+    type: article
+    provider:
+      name: Scottsbluff Star Herald
+      domain: starherald.com
+    quality: 39
 
 secured: "OUAL0s47kxAcDet0c1VpJ2bXvJWXdjzNARVLzLbDD4E/Q3cW8fmcwdY6CpkWwICV/rsHRa5Efg7u56tJa9akLq7QPUynr2WDmBfkJ5pJ8O1cHvvmZDtY3aCWmOmDzZnjiu/v7qJn+RvvI2l1FZap1J5mrfucOUI5AXg1IFs3Z5zoOzDp9eoFE48mecrgx665vYcUskp87OK/XiRDuoamfSPiSRBh2POVxaJixEcjc52tyznVKEDGVnjJubGLGY9SZxkYUJOo18mgLvwNggRBi/x77uxMyYUU2YNQWFaqG331B7Dm+IYqPG0jP4tx3qfFXECnm6/26GQIpLY1wrsm07ajyTUaZehKuUmzSCv0ULJy3ecJlW+l8gIovD5Fj/FXLwJrH2qfotgCyptEFdumFv1RhZ6Nv8fjaF2TdfkJ8KgtxTI+cNMs/VFrcZg26sECLGtLtxSkn3Meb7wGzVKeDAL5MUBHaF5xZ3jw0jfcFPJN22c0Z1lS1VkXcv2ECxuCHLWDJ0pwfjmYlsJRhB2AVA==;8+UStNV0t6oMZ+N60xhQPw=="
 ---

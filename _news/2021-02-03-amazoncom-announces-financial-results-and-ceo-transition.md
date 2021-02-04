@@ -111,7 +111,7 @@ related:
   - title: "Jeff Bezos is stepping down as Amazon CEO and will be replaced by AWS boss Andy Jassy"
     excerpt: "Bezos announced the change in an email to staff on Tuesday afternoon and as the company reported bumper 2020 Q4 earnings of more than $100billion."
     publishedDateTime: 2021-02-03T09:31:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-9216343/Jeff-Bezos-stepping-Amazon-CEO.html?ci=73931&si=24249205"
+    webUrl: "https://www.dailymail.co.uk/news/article-9216343/Jeff-Bezos-stepping-Amazon-CEO.html"
     ampWebUrl: "https://www.dailymail.co.uk/news/article-9216343/amp/Jeff-Bezos-stepping-Amazon-CEO.html"
     cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9216343/amp/Jeff-Bezos-stepping-Amazon-CEO.html"
     type: article

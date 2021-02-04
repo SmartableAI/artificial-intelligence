@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/amazon-plans-to-install-ai-powe
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-plans-to-install-ai-powered-cameras-in-delivery-vehicles/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Amazon plans AI-powered cameras in delivery vans to improve driver safety"
+    excerpt: "Amazon.com has revealed plans to install AI-powered video cameras in its branded delivery vans, in a move that the world's largest e-commerce firm says would improve safety of both drivers and the communities in which they deliver."
+    publishedDateTime: 2021-02-04T06:51:00Z
+    webUrl: "https://www.reuters.com/article/amazon-com-delivery-idINKBN2A406W"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2A406W"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2A406W"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 86
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210204&t=2&i=1550254162&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH13003"
+        width: 768
+        height: 545
+        isCached: true
   - title: "In Bid For Road Safety, Amazon Is Rolling Out AI-Powered Cameras To Monitor Delivery Drivers"
     excerpt: "The effort is meant to improve driver safety, but critics say it doesn’t actually address the demanding quotas that make drivers more prone to reckless behavior."
     publishedDateTime: 2021-02-03T23:18:00Z

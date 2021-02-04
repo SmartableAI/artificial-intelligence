@@ -60,6 +60,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 29
+  - title: "Artificial Intelligence in Diagnostics Market is Estimated to Achieve CAGR of 33.2% By 2027"
+    excerpt: "The global artificial intelligence in Diagnostics market is expected to grow at a CAGR of 33.2% during the forecast period 2020 - 2027. According to the report titled ‘Artificial Intelligence in Diagnostics Market Size study,"
+    publishedDateTime: 2021-02-04T07:06:00Z
+    webUrl: "https://www.reseller.co.nz/mediareleases/137470/artificial-intelligence-in-diagnostics-market-is/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 27
+    images:
+      - url: "https://www.reseller.co.nz/dimg/300x300/dimg/truadiovsslmain8_1.jpg"
+        width: 300
+        height: 241
+        isCached: true
   - title: "Market Size of AI in Agriculture is Projected to Reach USD 2,400 Million by 2026, According to Facts & Factors"
     excerpt: "Facts and Factors have published a new research report titled \"AI in Agriculture Market By Technology (Machine"
     publishedDateTime: 2021-02-02T12:00:00Z

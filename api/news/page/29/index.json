@@ -2,6 +2,178 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2021-01-13-chinese-facial-recognition-unicorn-megvii-prepares-china-ipo.md",
+      "title": "Chinese facial recognition unicorn Megvii prepares China IPO",
+      "excerpt": "Megvii, one of China’s largest facial recognition startups, is gearing up for an initial public offering in Shanghai. The company is working with CITIC Securities to prepare for its planned listing, according to an announcement posted by the China Securities Regulatory Commission on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/01/12/megvii-ipo-china/",
+      "originalUrl": "https://www.msn.com/en-us/news/technology/chinese-facial-recognition-unicorn-megvii-prepares-china-ipo/ar-BB1cHL4R",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/05/megvii-e1557323313961.jpg?w=1024",
+          "width": 1024,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/01/12/megvii-ipo-china/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/12/megvii-ipo-china/amp/",
+      "publishedDateTime": "2021-01-12T23:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "https://techcrunch.com/2021/01/12/megvii-ipo-china/",
+        "domain": "https://techcrunch.com/2021/01/12/megvii-ipo-china/",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-fda-releases-artificial-intelligencemachine-learning-action-plan.md",
+      "title": "FDA Releases Artificial Intelligence/Machine Learning Action Plan",
+      "excerpt": "Today, the U.S. Food and Drug Administration released the agency’s first Artificial Intelligence/Machine Learning (AI/ML)-Based Software as a Medical Device (SaMD) Action Plan. This action plan describes a multi-pronged approach to advance the Agency’s oversight of AI/ML-based medical software.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-medical-devices-health-care-it-services-government-regulations-9f8625b1abf64126683b061f486c043c",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-medical-devices-health-care-it-services-government-regulations-9f8625b1abf64126683b061f486c043c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-12T22:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-rugged-computer-artificial-intelligence-ai-edge-supercomputing.md",
+      "title": "rugged computer artificial intelligence (AI) edge supercomputing",
+      "excerpt": "News Highlights: rugged computer artificial intelligence (AI) edge supercomputing. SUGAR LAND, Texas - System Inc. in Sugar Land, Texas, introduces the",
+      "sourceUrl": null,
+      "webUrl": "https://www.compsmag.com/news/pc/rugged-computer-artificial-intelligence-ai-edge-supercomputing/",
+      "originalUrl": "https://www.compsmag.com/news/pc/rugged-computer-artificial-intelligence-ai-edge-supercomputing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/rugged-computer-artificial-intelligence-AI-edge-supercomputing.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.compsmag.com/news/pc/rugged-computer-artificial-intelligence-ai-edge-supercomputing/amp/",
+      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/rugged-computer-artificial-intelligence-ai-edge-supercomputing/amp/",
+      "publishedDateTime": "2021-01-12T22:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "compsmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-controversial-chatbot-leaves-lessons-on-ai-use-ethics.md",
+      "title": "Controversial chatbot leaves lessons on AI use ethics",
+      "excerpt": "Developers of an artificial intelligence (AI) based chatbot have suspended the service after unfiltered inflammatory remarks it delivered sparked controversy, leaving both developers and users to reflect on the ethics of AI use.",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreatimes.co.kr/www/tech/2021/01/129_302390.html",
+      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2021/01/129_302390.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202101/0573ca44e97c4371b32c6db43eedfa53.jpg",
+          "width": 640,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=302390",
+      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=302390",
+      "publishedDateTime": "2021-01-12T22:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "koreatimes.co.kr",
+        "domain": "koreatimes.co.kr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-13-gowin-embeds-winbond-64mb-hyperram-to-goai-20.md",
       "title": "Gowin embeds Winbond 64Mb HyperRAM to GoAI 2.0",
       "excerpt": "Winbond Electronics Corporation, a leading global supplier of semiconductor memory solutions, today announced that FPGA manufacturer Gowin Semiconductor has embedded a Winbond 64Mb HyperRAM fast memory device in its new GoAI 2.",
@@ -972,186 +1144,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-startup-opportunities-in-ai-the-unbundling-of-search.md",
-      "title": "Startup Opportunities In AI – The Unbundling Of Search",
-      "excerpt": "The first major wave of AI was search.. Every great technology wave has a paradigm, a very broad and deep movement that is o",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/konstantinebuhler/2021/01/12/startup-opportunities-in-ai--the-unbundling-of-search/",
-      "originalUrl": "https://www.forbes.com/sites/konstantinebuhler/2021/01/12/startup-opportunities-in-ai--the-unbundling-of-search/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ffd0f3a90dfd0c80f3d607b%2F0x0.jpg",
-          "width": 1200,
-          "height": 646,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/konstantinebuhler/2021/01/12/startup-opportunities-in-ai--the-unbundling-of-search/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/konstantinebuhler/2021/01/12/startup-opportunities-in-ai--the-unbundling-of-search/amp/",
-      "publishedDateTime": "2021-01-12T10:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-avaya-expanding-ai-powered-contact-center-capabilities-to-improve-customer-experience-participating-with-aws-contact-center-intelligence.md",
-      "title": "Avaya Expanding AI-powered Contact Center Capabilities to Improve Customer Experience, Participating with AWS Contact Center Intelligence",
-      "excerpt": "Avaya (NYSE: AVYA), a global leader in solutions to enhance and simplify communications and collaboration, today announced an expansion of its artific",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210112005233/en/Avaya-Expanding-AI-powered-Contact-Center-Capabilities-to-Improve-Customer-Experience-Participating-with-AWS-Contact-Center-Intelligence",
-      "originalUrl": "https://www.businesswire.com/news/home/20210112005233/en/Avaya-Expanding-AI-powered-Contact-Center-Capabilities-to-Improve-Customer-Experience-Participating-with-AWS-Contact-Center-Intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-12T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-nvidia-introduces-geforce-rtx-3060-next-generation-of-the-worlds-most-popular-gpu.md",
-      "title": "NVIDIA Introduces GeForce RTX 3060, Next Generation of the World’s Most Popular GPU",
-      "excerpt": "NVIDIA today announced that it is bringing the NVIDIA Ampere architecture to millions more PC gamers with the new GeForce® RTX™ 3060 GPU. With its efficient, high-performance architecture and the second generation of NVIDIA RTX™,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-new-products-and-services-5907a252ea7235d845e24534c1668515",
-      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-new-products-and-services-5907a252ea7235d845e24534c1668515",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-12T09:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-trump-admin-launches-national-ai-initiative-office.md",
-      "title": "Trump admin launches National AI Initiative Office",
-      "excerpt": "The White House today announced the launch of its National AI Initiative Office, marking what should be President Trump‘s final manipulation of the country’s gutted Office of Science and Technology Policy (OSTP).",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/01/12/trump-admin-launches-national-ai-initiative-office/",
-      "originalUrl": "https://thenextweb.com/neural/2021/01/12/trump-admin-launches-national-ai-initiative-office/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/04/robotarmy-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/01/12/trump-admin-launches-national-ai-initiative-office/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/12/trump-admin-launches-national-ai-initiative-office/amp/",
-      "publishedDateTime": "2021-01-12T09:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

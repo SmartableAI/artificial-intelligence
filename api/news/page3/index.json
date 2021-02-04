@@ -2,6 +2,109 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-03-how-ai-can-be-the-key-to-loyalty-and-retention-for-retail-in-2021.md",
+      "title": "How AI Can Be The Key To Loyalty And Retention For Retail In 2021",
+      "excerpt": "How Artificial Intelligence Can Be the Key to Loyalty and Retention in 2021 Leveraging emerging technologies can help retailers make sense of data As the dust settles on the disruption that was 2020,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jonathantreiber/2021/02/02/how-artificial-intelligence-can-be-the-key-to-loyalty-and-retention-in-2021/",
+      "originalUrl": "https://www.forbes.com/sites/jonathantreiber/2021/02/02/how-artificial-intelligence-can-be-the-key-to-loyalty-and-retention-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60198c7fc5ca2949770a813f%2F0x0.jpg",
+          "width": 1200,
+          "height": 697,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jonathantreiber/2021/02/02/how-artificial-intelligence-can-be-the-key-to-loyalty-and-retention-in-2021/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonathantreiber/2021/02/02/how-artificial-intelligence-can-be-the-key-to-loyalty-and-retention-in-2021/amp/",
+      "publishedDateTime": "2021-02-02T09:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-03-how-normal-people-deployed-facial-recognition-on-capitol-hill-protesters.md",
+      "title": "How Normal People Deployed Facial Recognition on Capitol Hill Protesters",
+      "excerpt": "Facial recognition is now freely accessible to random people on Twitter using a Polish website called Pimeyes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en/article/4ad5k3/how-normal-people-deployed-facial-recognition-on-capitol-hill-protesters",
+      "originalUrl": "https://www.vice.com/en/article/4ad5k3/how-normal-people-deployed-facial-recognition-on-capitol-hill-protesters",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com/articles/601989938019b80095f88ce7/lede/1612286477494-gettyimages-1230453278.jpeg?crop=1xw:0.8429xh;0xw,0.1571xh",
+          "width": 5128,
+          "height": 2881,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en/article/4ad5k3/how-normal-people-deployed-facial-recognition-on-capitol-hill-protesters",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/4ad5k3/how-normal-people-deployed-facial-recognition-on-capitol-hill-protesters",
+      "publishedDateTime": "2021-02-02T09:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-03-radiological-analysis-leveraging-artificial-intelligence-is-moving-past-pure-identification-of-tumors.md",
       "title": "Radiological Analysis Leveraging Artificial Intelligence Is Moving Past Pure Identification Of Tumors",
       "excerpt": "In the medical area of lung health, there is significant movement past the early success of AI for identification of objects in radiological images, into machine learning for more high level analysis for identification,",
@@ -114,7 +217,7 @@
       "originalUrl": "https://venturebeat.com/2021/02/02/case-studies-of-successful-ai-startups/?via=indexdotco",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -349,6 +452,51 @@
       ]
     },
     {
+      "path": "_news/2021-02-02-introducing-the-2021-state-of-marketing-ai-free-report.md",
+      "title": "Introducing the 2021 State of Marketing AI [FREE REPORT]",
+      "excerpt": "AI may seem like a futuristic concept, but you use it dozens, if not hundreds, of times everyday most likely without knowing it. Major brands such Amazon, Facebook, Google, Microsoft,",
+      "sourceUrl": null,
+      "webUrl": "https://www.drift.com/blog/introducing-the-2021-state-of-marketing-ai-free-report/",
+      "originalUrl": "https://www.drift.com/blog/introducing-the-2021-state-of-marketing-ai-free-report/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.drift.com/wp-content/uploads/2021/01/StateOfMarketingAI-INDEX-BLOG.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-02T05:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Drift",
+        "domain": "drift.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Marketing",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-02-02-dubais-dewa-artificial-intelligence-services-anticipate-shape-the-future.md",
       "title": "Dubai's DEWA Artificial Intelligence services anticipate, shape the future",
       "excerpt": "DEWA’s efforts in AI have consolidated the UAE’s global position and enriched the user experience of customers, staff and stakeholder",
@@ -452,7 +600,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/worldwide-digital-talent-acquisition-industry-to-2025-integration-with-ai-and-machine-learning-1030031930",
       "featuredContent": null,
       "highlight": null,
-      "heat": 163,
+      "heat": 153,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1071,161 +1219,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-ai-brings-back-voice-of-late-south-korean-singer.md",
-      "title": "AI brings back voice of late South Korean singer",
-      "excerpt": "Innovations AI brings back voice of late South Korean singer. Posted . One of South Korea's most outstanding rock legends, Kim Kwang-seok, passed away in 1996. Nearly 25 years lat",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/video/watch/idOVDXTI4IJ",
-      "originalUrl": "https://www.reuters.com/video/watch/idOVDXTI4IJ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?d=20210201&i=OVDXTI4IJ&r=OVDXTI4IJ&t=2",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-01T10:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-rpa-startup-uipath-raises-750-million.md",
-      "title": "RPA startup UiPath raises $750 million",
-      "excerpt": "Robotic process automation startup UiPath has raised $750 million in a series F round valuing the company at $35 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/01/rpa-startup-uipath-raises-750-million/",
-      "originalUrl": "https://venturebeat.com/2021/02/01/rpa-startup-uipath-raises-750-million/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/02/uipath.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/01/rpa-startup-uipath-raises-750-million/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/01/rpa-startup-uipath-raises-750-million/amp/",
-      "publishedDateTime": "2021-02-01T10:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-ios-145-apple-just-revealed-brilliant-new-face-id-feature.md",
-      "title": "iOS 14.5: Apple Just Revealed Brilliant New Face ID Feature",
-      "excerpt": "The next version of iOS is coming soon, and today’s developer beta release lets slip a timely and important security feature.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidphelan/2021/02/01/ios-145-apple-just-revealed-brilliant-new-face-id-feature-security-unlock-with-mask-on/",
-      "originalUrl": "https://www.forbes.com/sites/davidphelan/2021/02/01/ios-145-apple-just-revealed-brilliant-new-face-id-feature-security-unlock-with-mask-on/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6018415e9f9059ef357afd41%2F0x0.jpg",
-          "width": 1200,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidphelan/2021/02/01/ios-145-apple-just-revealed-brilliant-new-face-id-feature-security-unlock-with-mask-on/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidphelan/2021/02/01/ios-145-apple-just-revealed-brilliant-new-face-id-feature-security-unlock-with-mask-on/amp/",
-      "publishedDateTime": "2021-02-01T10:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

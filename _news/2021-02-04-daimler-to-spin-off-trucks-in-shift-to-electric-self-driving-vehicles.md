@@ -37,6 +37,17 @@ related:
         width: 5296
         height: 3283
         isCached: true
+  - title: "Daimler to split in two companies, Daimler Truck to focus on EV, self-driving"
+    excerpt: "Germany's Daimler AG , the company behind well-known auto brands such as Mercedes Benz and truck and bus makers Freightliner and Thomas Built,"
+    publishedDateTime: 2021-02-04T06:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/daimler-to-split-in-two-companies--daimler-truck-to-focus-on-ev--self-driving-9770048"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/daimler-to-split-in-two-companies--daimler-truck-to-focus-on-ev--self-driving-9770048"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/daimler-to-split-in-two-companies--daimler-truck-to-focus-on-ev--self-driving-9770048"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
   - title: "The next self-driving vehicle"
     excerpt: "While self-driving cars get all the coverage, autonomous tractors might actually be closer to reality and even more practical in global terms, says a report in Protocol. But what do farmers and industry experts think?"
     publishedDateTime: 2021-02-02T06:03:00Z
