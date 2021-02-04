@@ -2,6 +2,99 @@
   "page": 96,
   "value": [
     {
+      "path": "_news/2020-11-20-tldr-this-ai-summarizes-research-papers-so-you-dont-have-to.md",
+      "title": "TL;DR: This AI summarizes research papers so you don’t have to",
+      "excerpt": "Reading scientific papers is a tough job. It might contain language and sections that you might not understand, and not all of it would be interesting to you. My colleague Tristan is great at traversing through these papers,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/11/20/tldr-this-ai-summarizes-research-papers-so-you-dont-have-to/",
+      "originalUrl": "https://thenextweb.com/neural/2020/11/20/tldr-this-ai-summarizes-research-papers-so-you-dont-have-to/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/AI-research-summary-796x418.jpg",
+          "width": 796,
+          "height": 418,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/11/20/tldr-this-ai-summarizes-research-papers-so-you-dont-have-to/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/20/tldr-this-ai-summarizes-research-papers-so-you-dont-have-to/amp/",
+      "publishedDateTime": "2020-11-20T02:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-artificial-intelligence-and-satellite-technologies-reveal-detailed-map-of-air-pollution-across-uk.md",
+      "title": "Artificial intelligence and satellite technologies reveal detailed map of air pollution across UK",
+      "excerpt": "A novel method that combines artificial intelligence with remote sensing satellite technologies has produced the most detailed coverage of air pollution in Britain to date.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2020-11-artificial-intelligence-satellite-technologies-reveal.html",
+      "originalUrl": "https://phys.org/news/2020-11-artificial-intelligence-satellite-technologies-reveal.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/7-pollution.jpg",
+          "width": 1920,
+          "height": 1279,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2020-11-artificial-intelligence-satellite-technologies-reveal.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-11-artificial-intelligence-satellite-technologies-reveal.amp",
+      "publishedDateTime": "2020-11-20T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-20-startup-circle-how-is-doceree-using-ai-and-machine-learning-to-revolutionize-the-pharma-industry.md",
       "title": "Startup Circle: How is Doceree using AI and Machine Learning to revolutionize the Pharma Industry?",
       "excerpt": "In healthcare, robotics and machine learning are already having an impact on patient care, providing basic assistance across many clinical facilities – no doubt a life-saving job. Some may",
@@ -1105,92 +1198,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-a-neural-network-learns-when-it-should-not-be-trusted.md",
-      "title": "A neural network learns when it should not be trusted",
-      "excerpt": "Increasingly, artificial intelligence systems known as deep learning neural networks are used to inform decisions vital to human health and safety, such as in autonomous driving or medical diagnosis.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-11/miot-ann111920.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-11/miot-ann111920.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-19T11:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-facebook-says-ai-has-fueled-a-hate-speech-crackdown-jaweb.md",
-      "title": "Facebook says AI has fueled a hate speech crackdown – Jaweb",
-      "excerpt": "Facebook says it is proactively detecting more hate speech using artificial intelligence. A new transparency report released on Thursday offers greater detail on social media hate following policy changes earlier this year,",
-      "sourceUrl": null,
-      "webUrl": "https://elmoudjaweb.com/facebook-says-ai-has-fueled-a-hate-speech-crackdown-jaweb/",
-      "originalUrl": "https://elmoudjaweb.com/facebook-says-ai-has-fueled-a-hate-speech-crackdown-jaweb/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://elmoudjaweb.com/wp-content/uploads/2020/11/Facebook-says-AI-has-fueled-a-hate-speech-crackdown-–.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://elmoudjaweb.com/facebook-says-ai-has-fueled-a-hate-speech-crackdown-jaweb/?amp",
-      "cdnAmpWebUrl": "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/facebook-says-ai-has-fueled-a-hate-speech-crackdown-jaweb/?amp",
-      "publishedDateTime": "2020-11-19T10:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Elmoudjaweb",
-        "domain": "elmoudjaweb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

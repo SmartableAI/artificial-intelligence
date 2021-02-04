@@ -179,15 +179,15 @@ related:
         width: 510
         height: 314
         isCached: true
-  - title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
-    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
-    publishedDateTime: 2021-02-03T08:22:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
+  - title: "General Dynamics Information Technology Offers Microsoft Azure to Federal Agencies"
+    excerpt: "General Dynamics Information Technology (GDIT), a business unit of General Dynamics (NYSE:GD), announced today the signing of Microsoft Partner Agreement for Online Services-Government (AOS-G). The new agreement provides federal customers with the capability to access Azure services and offerings,"
+    publishedDateTime: 2021-02-04T17:59:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-government-business-and-finance-corporate-news-products-and-services-7c7c2146254e7c0b1d0b8fe0b781d921"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 46
+    quality: 48
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
@@ -207,6 +207,15 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
+    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance"
+    publishedDateTime: 2021-02-02T22:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 26
 
 secured: "IcVeV0B5oCcOMTa38vPPi1/1KSIoN5q2dVANGVhbQiOSKG/84joQo+caF+YjqJ3SU2SGqgdZ1f9hjoxN9u7wTPpO306Zh6pWxeAI/Sxud3iaHfGQpEVHJQW/RgtoU38Y4j58+oOcFXA1tC7Z1nB5q+IOEu2qT4EEo2AMUHjN1z7veNhHyZzfkBX/1mkwN6GWBCgVnTqWUhELsJxZman50+jrsurS2koFP2Ab4JIspwcczOAgPSHlGQESPry0Mrhvin5nsAFoibY5eEk4GzKBxHDaoWJ0dWIIiAilrWMAS3CvqjActgvEr69b/kB/+BBG6wFV9VSoDAo/6AxukXUfYFZfB8WI2KpF98uwHFLz+iE=;q//n4gVQtA1mgwAW91Av8Q=="
 ---

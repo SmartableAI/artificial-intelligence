@@ -52,7 +52,7 @@ related:
   - title: "DSLAB GLOBAL Offers a Free AutoML Tool With Its All-in-One Platform, CLICK AI"
     excerpt: "DSLAB GLOBAL INC., a Seoul-based startup, has launched an automatic AI modeling tool, CLICK AI, to help companies all over the world gain access to developing artificial intelligence in just a few clicks back in 2020."
     publishedDateTime: 2021-02-04T13:52:00Z
-    webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-seoul-cc92b2aa89e83ab576d61095f886edba"
+    webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-seoul-b0b461552350963079c49f013d460e00"
     type: article
     provider:
       name: Associated Press

@@ -188,21 +188,30 @@ related:
         width: 510
         height: 314
         isCached: true
-  - title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
-    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
-    publishedDateTime: 2021-02-03T08:22:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
+  - title: "General Dynamics Information Technology Offers Microsoft Azure to Federal Agencies"
+    excerpt: "General Dynamics Information Technology (GDIT), a business unit of General Dynamics (NYSE:GD), announced today the signing of Microsoft Partner Agreement for Online Services-Government (AOS-G). The new agreement provides federal customers with the capability to access Azure services and offerings,"
+    publishedDateTime: 2021-02-04T17:59:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-government-business-and-finance-corporate-news-products-and-services-7c7c2146254e7c0b1d0b8fe0b781d921"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 46
+    quality: 48
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
         isCached: true
+  - title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
+    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance"
+    publishedDateTime: 2021-02-02T22:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 26
 
-secured: "lbGMrn7b0uvmZyvI88tGhw0XY1MfyXSfgakwwk6KEBq0JwLQh8OhTXFF5j0ltxslGFes74zr30B2oLHxADHXgVOnCV8cINoMGE4dZRP/njjDbj3FCKKZWAO774M++WrZL0BbOOiC6xjwU6pZHzHVVV4ZkoKN1D2FgoIvLHfUVWR27cYjN58iaye8chcottvIOeZk5yjBSzhn2uZsSYV6Avl/1vO57971i/HVWW178QXklu+W2TgJYfbotaVF2vVICqpakRsBNVzKgCMsU6roxSzZvW52mYRE4s5+NiaEwGcx1YMpg5JiyRU9Zz+HS7awGQFbnvOEOW8KozN7sleNxySQUxFzwDcnOd5KBiWHDUU=;SNxSu2jbcpSv1yjk1sEX1Q=="
+secured: "Ln0B0pctgNCIq2Wcx+otbdGCXz7F0fqfTH4R3la3lm99PJJi5ZXo1Tk2h63eOD1+dFhNCkxeXUd/KEgUiKgVel84Ol96QWZcWMTgUkvnhGjrjdHT9wqGXTcucKJ835PYtTLnO6edSdZG/linjHNkW2qxr6+2sO6G2btSdOF4zGfpewmbCgZEsn0+6bBmtTH8z+Ms5UpYyZopR75dYW36IdVFiFsszKCz/XS8O8PcyH1O5UIB04QUbc1yZsQntlwXlJHKFVyNtE1pPuEdu34qG0g8BygeEnAhPPZr2UyeYIVuPGdjY7StQatgyPWMR+Armj4adyNRZPHtkI8FprmoYESiLu7Elfb1BC05cUUV1pRKtbSYVP/lGiUVjIqZRFMj1Wgw43KFly9rE73O93hYGLf4hKInWcaonrDNic0V5LPINcfGTJFGffGbHIfYUgKy66dnKX1GqASVU1O3mvj36EMnZnDVpbolkpCax2BtjmaQzGOjACekvXDAjlbZq9fghCoLsw7Jpje/wamZXnx2QA==;LmBX0LgEjZRu/SQHA/6RAw=="
 ---
 

@@ -43,6 +43,17 @@ related:
         width: 5128
         height: 2881
         isCached: true
+  - title: "Fears raised over facial recognition use at Moscow protests"
+    excerpt: "Russian authorities are deploying facial recognition cameras to identify protesters during rallies in support of Kremlin critic Alexei Navalny in Moscow, human rights groups said, warning that the technology is being used to stifle peaceful dissent."
+    publishedDateTime: 2021-02-04T17:45:00Z
+    webUrl: "https://www.reuters.com/article/russia-protests-tech-idUSL8N2KA54T"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL8N2KA54T"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2KA54T"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
   - title: "Apple creates workaround to facial recognition blocked by face mask"
     excerpt: "This has probably happened at least once to an Apple user who is trying to unlock their iPhone with the device’s camera. The phone just can’t figure out you are you while you’re wearing a face mask. Jumping through the hoops of trying the camera,"
     publishedDateTime: 2021-02-03T18:17:00Z

@@ -77,17 +77,17 @@ related:
         isCached: true
   - title: "Here’s a way to learn if facial recognition systems used your photos"
     excerpt: "An online tool targets only a small slice of what’s out there, but may open some eyes to how widely artificial intelligence research fed on personal images."
-    publishedDateTime: 2021-02-01T19:19:00Z
-    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-nyt-facial-recognition-photos-20210201-idcvahi65bh7zkobkb7wjvwpgy-story.html"
-    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-nyt-facial-recognition-photos-20210201-idcvahi65bh7zkobkb7wjvwpgy-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-nw-nyt-facial-recognition-photos-20210201-idcvahi65bh7zkobkb7wjvwpgy-story.html?outputType=amp"
+    publishedDateTime: 2021-02-01T16:27:00Z
+    webUrl: "https://www.orlandosentinel.com/news/nationworld/ct-nw-nyt-facial-recognition-photos-20210201-idcvahi65bh7zkobkb7wjvwpgy-story.html"
+    ampWebUrl: "https://www.orlandosentinel.com/news/nationworld/ct-nw-nyt-facial-recognition-photos-20210201-idcvahi65bh7zkobkb7wjvwpgy-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/news/nationworld/ct-nw-nyt-facial-recognition-photos-20210201-idcvahi65bh7zkobkb7wjvwpgy-story.html?outputType=amp"
     type: article
     provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 61
+      name: Orlando Sentinel
+      domain: orlandosentinel.com
+    quality: 59
     images:
-      - url: "https://www.baltimoresun.com/resizer/8u3zVMFj8ZrGh5JwqjtNcPSfTwI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SITXYEMZCKKE5TMUY7NNTYPHRY.jpg"
+      - url: "https://www.orlandosentinel.com/resizer/8u3zVMFj8ZrGh5JwqjtNcPSfTwI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SITXYEMZCKKE5TMUY7NNTYPHRY.jpg"
         width: 1200
         height: 800
         isCached: true

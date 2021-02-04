@@ -2,6 +2,111 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2021-01-07-intel-is-using-its-realsense-tech-for-facial-recognition.md",
+      "title": "Intel is using its RealSense tech for facial recognition",
+      "excerpt": "Intel has found another use for its RealSense depth-sensing camera. It married the tech with a neural network to develop a facial recognition system that can enable access to the likes of smart locks and ATMs with only a glance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/intel-facial-recognition-realsense-id-191322846.html",
+      "originalUrl": "https://www.engadget.com/intel-facial-recognition-realsense-id-191322846.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 241,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2021-01%2F7daa7160-5050-11eb-a7fb-ebe8df925d58&client=amp-blogside-v2&signature=21ed96e62f4d4cf3a8e85595647849cb3e045c56",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/intel-facial-recognition-realsense-id-191322846.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/intel-facial-recognition-realsense-id-191322846.html",
+      "publishedDateTime": "2021-01-06T13:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-in-a-sign-of-ais-fundamental-impact-on-computing-legendary-chip-designer-keller-joins-startup-tenstorrent.md",
+      "title": "In a sign of AI’s fundamental impact on computing, legendary chip designer Keller joins startup Tenstorrent",
+      "excerpt": "In a sign of the profound changes being wrought in computing by artificial intelligence, Toronto-based AI chip startup Tenstorrent on Wednesday announced it has hired legendary chip designer Jim Keller to be its chief technology officer. Keller most ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/in-a-sign-of-ais-fundamental-impact-on-computing-legendary-chip-designer-keller-joins-startup-tenstorrent/",
+      "originalUrl": "https://www.zdnet.com/article/in-a-sign-of-ais-fundamental-impact-on-computing-legendary-chip-designer-keller-joins-startup-tenstorrent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2021/01/06/f250f14a-bc14-4ebd-b8b0-1e175b2d6e94/tenstorrent-grayskull-schematic-april-2020.png",
+          "width": 1013,
+          "height": 870,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/in-a-sign-of-ais-fundamental-impact-on-computing-legendary-chip-designer-keller-joins-startup-tenstorrent/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/in-a-sign-of-ais-fundamental-impact-on-computing-legendary-chip-designer-keller-joins-startup-tenstorrent/",
+      "publishedDateTime": "2021-01-06T12:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure.md",
       "title": "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure",
       "excerpt": "New offering extends Blue Prism’s intelligent automation leadership in the cloud and brings increased benefits to Microsoft Azure users",
@@ -1111,111 +1216,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-moves-former-intel-tesla-chip-exec-jim-keller-joins-artificial-intelligence-startup.md",
-      "title": "MOVES-Former Intel, Tesla chip exec Jim Keller joins artificial intelligence startup",
-      "excerpt": "Jim Keller, a prominent computing chip architect who left Intel Corp last year, has joined a Toronto-based startup developing artificial intelligence chips.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/tenstorrent-tech/moves-former-intel-tesla-chip-exec-jim-keller-joins-artificial-intelligence-startup-idUKL1N2JG2I6?edition-redirect=in",
-      "originalUrl": "https://www.reuters.com/article/tenstorrent-tech/moves-former-intel-tesla-chip-exec-jim-keller-joins-artificial-intelligence-startup-idUKL1N2JG2I6?edition-redirect=in",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-05T21:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-self-driving-software-startup-oxbotica-raises-47mln-in-latest-funding-round.md",
-      "title": "Self-driving software startup Oxbotica raises $47mln in latest funding round",
-      "excerpt": "Self-driving software startup Oxbotica said on Wednesday it has raised $47 million in its latest funding round led by the venture arm of oil giant BP and including health and safety device maker Halma Plc and Tencent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/idCAKBN29B00X-OCATC?edition-redirect=ca",
-      "originalUrl": "https://www.reuters.com/article/idCAKBN29B00X-OCATC?edition-redirect=ca",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210106&t=2&i=1546726058&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0500I",
-          "width": 772,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCAKBN29B00X-OCATC",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN29B00X-OCATC",
-      "publishedDateTime": "2021-01-05T21:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

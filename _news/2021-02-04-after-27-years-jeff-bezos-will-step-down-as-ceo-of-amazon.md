@@ -1,10 +1,10 @@
 ---
 category: news
 title: "After 27 Years, Jeff Bezos Will Step Down As CEO Of Amazon"
-excerpt: "He will be replaced by Andy Jassy, who is currently CEO of Amazon Web Services. Jeff Bezos is stepping down as Amazon CEO, the online internet retailing giant he founded 27 years ago, and will become executive chair focused on “new products and early initiatives,"
+excerpt: "Jeff Bezos is stepping down as Amazon CEO, the online internet retailing giant he founded 27 years ago, and will become executive chair, focused on “new products and early initiatives,” he announced on Tuesday."
 publishedDateTime: 2021-02-03T18:29:00Z
-originalUrl: "https://www.buzzfeednews.com/article/carolinehaskins1/jeff-bezos-stepping-down-amazon-ceo-jassy?origin=web-hf"
-webUrl: "https://www.buzzfeednews.com/article/carolinehaskins1/jeff-bezos-stepping-down-amazon-ceo-jassy?origin=web-hf"
+originalUrl: "https://www.buzzfeednews.com/article/carolinehaskins1/jeff-bezos-stepping-down-amazon-ceo-jassy"
+webUrl: "https://www.buzzfeednews.com/article/carolinehaskins1/jeff-bezos-stepping-down-amazon-ceo-jassy"
 ampWebUrl: "https://www.buzzfeednews.com/amphtml/carolinehaskins1/jeff-bezos-stepping-down-amazon-ceo-jassy"
 cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/jeff-bezos-stepping-down-amazon-ceo-jassy"
 type: article
@@ -159,6 +159,22 @@ related:
         width: 1200
         height: 602
         isCached: true
+  - title: "As Jeff Bezos steps down, Amazon stakes its future on the cloud"
+    excerpt: "In his 2014 annual letter to shareholders, Amazon CEO Jeff Bezos wrote that a \"dreamy business offering\" comprises at least four elements: \"Customers love it, it can grow to very"
+    publishedDateTime: 2021-02-04T18:48:00Z
+    webUrl: "https://www.kctv5.com/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_ef46bfbf-44aa-59ab-a260-9af4dac74385.html"
+    ampWebUrl: "https://www.kctv5.com/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_ef46bfbf-44aa-59ab-a260-9af4dac74385.amp.html"
+    cdnAmpWebUrl: "https://www-kctv5-com.cdn.ampproject.org/c/s/www.kctv5.com/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_ef46bfbf-44aa-59ab-a260-9af4dac74385.amp.html"
+    type: article
+    provider:
+      name: KCTV News
+      domain: kctv5.com
+    quality: 44
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/kctv5.com/content/tncms/assets/v3/editorial/d/01/d019b8f8-b810-59f9-be8c-e7c8173baa68/601c30033141d.image.jpg?resize=1024%2C576"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Who is Andy Jassy, the longtime Amazon executive set to become its new CEO?"
     excerpt: "The Amazon vet runs its most profitable division. Here's what his appointment tells us about the company's future."
     publishedDateTime: 2021-02-04T12:20:00Z
@@ -220,6 +236,6 @@ related:
         height: 450
         isCached: true
 
-secured: "+2VSNK89ql87rf71LGhssvcp44reiuphnI7MIQbAP6AIe4/uaq3oSBwDV5YzZoAtOMThCYjshS7D/bQN+nacjCss1aYlvK1F2RV3oI0HY1l1Lcvfvn5izBrBt0o4H0C7E4AtenZZqrbDiiYqghTFgytuweuPi33Jg0w8x3gFwewLtD1ae44eECOfr5wuHh4CJkS9F7YvL+ENuX7Tqif/ZYz0nJhLppdPrpI3inYXOE+BQtHUZAgG5rXdGXsv/6wkYf/rQL0PveMqNp2zGcAkyXSP2bHbfAu3E20+o9ywgprhvEIGFgSiuby8bmsHwAuLFCNBsLw1diJJ3bFDsxCm89+swuIHj/UJFryKag0teaXIB4ZRsWQFc+gsNObUq1k7w3pn4NEla0zLMO4/9hMpn0VZAPY2f12ZktiZpaO7sbE/iKCWj/9QcjTEvZquuOm++DXupKDgMyyY23RBhHLPpuc/mymiiewhs8Z6fb7L+mZoJefoha5oJrMeO1UG8cx/G0z7mosDJmT2dXNIhkOlOw==;mr4vaOwf7dJiyloNLHZfqg=="
+secured: "GZFV/fqe00w1zCoyumIJ4JpzywxDzoMiGzwDqnY/y/Gr86uOJQotsFooJv0k9324UUDWV4aF0QVVkmnoQdJl9JdQoradV1dT+uTsXb7GMrdJkpU6VT5SjE49/AnX2wL3f6XBxH4vL4PaihOMoWmdi4f6ohk8ecsfM0D8neVNsi9PyHmYjSibicjDiENcon+r53fu8b94o2B2zumY62Wd7VMa2xb5KppcVNguUGgn2DAZ1xECUQ9Cf5QkGg/UEu0KBJZzo6CiupbKluziP6GfUPmTha02zkTu+wyV0nlkq6nWvj8hDc6520xI6UpmGz2kFzkbYpBxYRhcOzKX5KdvE+iOcIH6ZsHfp4/twQmlTo4=;kpR9gfhJmPtwZL+JjHH20Q=="
 ---
 

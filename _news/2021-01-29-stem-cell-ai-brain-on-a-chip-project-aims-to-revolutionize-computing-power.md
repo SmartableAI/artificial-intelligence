@@ -3,8 +3,8 @@ category: news
 title: "Stem cell AI -- 'brain on a chip' project aims to revolutionize computing power"
 excerpt: "Scientists have started work on a project that will see human brain stem cells used to power artificial intelligence (AI) devices and bring about a revolution in computing. The Neu-ChiP project, an international collaboration led by researchers at Aston University,"
 publishedDateTime: 2021-01-29T00:18:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2021-01/au-sca012621.php?fbclid=IwAR33zzyfi0RpPhP6U27mWBXLcQ4xYph3aUKBVIUVKAV4pa71AVJqzhW7AfQ"
-webUrl: "https://www.eurekalert.org/pub_releases/2021-01/au-sca012621.php?fbclid=IwAR33zzyfi0RpPhP6U27mWBXLcQ4xYph3aUKBVIUVKAV4pa71AVJqzhW7AfQ"
+originalUrl: "https://www.eurekalert.org/pub_releases/2021-01/au-sca012621.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2021-01/au-sca012621.php"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 435
     isCached: true
 
-secured: "+1UCKI4y1J49YJ5ubhP/XuqVB6Q+INJ+Zrvh7cojT8aB1514HZJpvjyMNmmW9WE8SKuuaVSuK34jIluVzBaTTEdCS2bwqn32EeThmZgH1Sdz0EmB6+z41zskhFK52nULWqjVsz0b+Zdlh9H1Qy/jJv/z8T59EMGFNJ1As/t4eFjsWg7h6DSa2xSgXTOzDZ/AXVZ288uTpLv4bFT2AgodeFH+Pi9F+s9kE+8jPxGYtWo8xiabAEW4Yx/C90rzaXd/k87wQnEOgLjf4ZKprGDVdWwlcvAJcLoV3fbUzZedlte3GngY4QrFo0Nqqc9Hv4J82MCxRr0Aoy1iYzJNITWKz+laGMKR92jTwinBHG3MVjA=;ozUbk1i7bAkWNwxJnK2tHw=="
+secured: "gf2khGgu059PnO1IjgDNnSHapxNsrA5UwK8ap5uBlAXal7Yhn9ifFPXOFoE4vc3cEy+SMgx030Z7qviQTDtc58aGsv0xIgyMDJv9wFdurIerno8WX/Jf+8XGBFLhOVUGXu0Hg2qBv+rwfe+5DImxT4RW+9cALuo2IGkSNoMfuVqHZr3cc/A8eiZxdzOYTcO0txNvtspeb4WAS/4JE0yZtVVVJbMA/qtCrz7F3HAD01/8JCI2Pg7g8gCi3s40Ln00UlCndp3nFz69dpT+5Wm6JvWuNnHTna4OUS2wL6NnNzRT0N9G9Erzux7Y545TqJ7L4EtQQePA1Sf/BcVzYefr+zb2D0gvqtixKY2ZQKDNuoc=;N6+6H2bMtPr63lyH5BZtaA=="
 ---
 

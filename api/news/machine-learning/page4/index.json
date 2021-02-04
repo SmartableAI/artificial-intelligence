@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-14-oracle-database-21c-spotlights-in-memory-processing-and-ml-adds-new-low-code-apex-cloud-service.md",
+      "title": "Oracle Database 21c spotlights in-memory processing and ML, adds new low-code APEX cloud service",
+      "excerpt": "Because COVID drove customers to postpone upgrades last year, the latest annual update of Oracle database packs two years’ worth of new features. And it’s adding icing to the cake with a new low-code/no-code developer cloud service with a free tier to draw rookie developers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/oracle-database-21c-spotlights-in-memory-processing-and-ml-in-adds-new-low-code-apex-cloud-service/",
+      "originalUrl": "https://www.zdnet.com/article/oracle-database-21c-spotlights-in-memory-processing-and-ml-in-adds-new-low-code-apex-cloud-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2021/01/08/ce523dd4-fe30-4673-b761-3850204c001b/low-code.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/oracle-database-21c-spotlights-in-memory-processing-and-ml-in-adds-new-low-code-apex-cloud-service/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/oracle-database-21c-spotlights-in-memory-processing-and-ml-in-adds-new-low-code-apex-cloud-service/",
+      "publishedDateTime": "2021-01-13T08:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-13-ai-machine-learning-in-crm-systems-opportunities-benefits-for-charities.md",
       "title": "AI & machine learning in CRM systems – opportunities & benefits for charities",
       "excerpt": "While we tend to think first of robots and self-driving cars when we think of AI, in fact, along with its subset machine learning, it’s already firmly",
@@ -1295,58 +1347,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-need-a-covid-test-look-for-a-vending-machine.md",
-      "title": "Need a COVID test? Look for a vending machine",
-      "excerpt": "\"Our unique cloud architecture allows us to service many use cases like Wellness 4 Humanity, while having machine learning power our operations,\" Smith said. Swyft's other customers include CVS, Best Buy, and 7-Eleven. These companies use Swyft's automated ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/need-a-covid-test-look-for-a-vending-machine/",
-      "originalUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/need-a-covid-test-look-for-a-vending-machine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2021/01/06/94c4c6b9-7324-42c8-a7e1-a8b8dec10bea/resize/1200x/9b85599fd04562d09f3944361b6379d2/istock-1224323409.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/need-a-covid-test-look-for-a-vending-machine/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/need-a-covid-test-look-for-a-vending-machine/",
-      "publishedDateTime": "2021-01-06T21:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

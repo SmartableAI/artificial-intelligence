@@ -26,6 +26,24 @@ images:
     height: 675
     isCached: true
 
+related:
+  - title: "Automakers Push for ‘Critical’ Self-Driving Car Rules"
+    excerpt: "A group of nearly four-dozen automakers, industry advocacy groups and corporations sent a letter to Congressional leaders urging action on legislation that would allow for greater deployment of autonomous vehicles."
+    publishedDateTime: 2021-02-04T17:46:00Z
+    webUrl: "https://www.govtech.com/transportation/Automakers-Push-for-Critical-Self-Driving-Car-Rules.html"
+    ampWebUrl: "https://www.govtech.com/transportation/Automakers-Push-for-Critical-Self-Driving-Car-Rules.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/transportation/Automakers-Push-for-Critical-Self-Driving-Car-Rules.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 44
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_536243134.jpg"
+        width: 940
+        height: 627
+        isCached: true
+
 secured: "acfrjU0qf8PEMIC4Dh7ZwFDmYEBZi5cxIYUU0hiA9VRnG67+KM0ufsKoxBQIGC6qsC+OwgCRFIi4A/LvgKVKL2LGr/C5FbzVJnViQL/KLVJa3aybqHEajtjMdngVTRgsAZtHIDcevAw3e864UPSpHFoEGfCQelB9CrXKgWBSlLVqqHhBLYfaimYlNzBzOyc5WjidgiWAXFUxdJlCYN5zFFBCFtp5c3jCJGQHEIFi/zvhoxF9ybXGI2AKLVKi9yQYFmEgFHXMiLyS9RN9OJxREQv6K6dHjIuLliIOg/wPKKDZvtQsC2OqZrhnjAFCvf7f1GmSHfq6EB/dzpUwGI+Gl0U+CLHm5FEs5eU7iXD+epY=;a5FZVcUctqsJ9QvVKUkzxg=="
 ---
 

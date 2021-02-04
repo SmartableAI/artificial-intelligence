@@ -26,6 +26,22 @@ images:
     height: 2365
     isCached: true
 
-secured: "nIqvZZ/eSfuEvrOWAnRAaEl8MHk/dLqZLArQs4oGab9wdVBDE9rLKEMPZ9GksgjnETc+lFBKhchbiAtjzagBBosT2y13SAHm9+orG9RyOH8a8wnZ63DplFyPesi7RZA8J1nDrdgD0wK3s9j1zoTEissotaHCW3/YrQ6sMhR5FFjsvxHxY9ZcvhIdbfEFHBoXRvaALAdGpSFuPIND5vetruafIe/aog3caOdJq2MvixmxAEAS7DNX7f3MIbcp16wLq4L1kz6miYyJq9zlZYqwx7ips6akVW+Njs/UyOaT9JCcIekx5jNY2nfP+TwiQRKOPBL49w3Hax1Xaj8xNBDB6lFSvMS+v83/T8RfNjF7mmk=;jx+rKlKlY5vpuiw8J6VfOA=="
+related:
+  - title: "Extraction of protein dynamics information from cryo-EM maps using deep learning"
+    excerpt: "Cryo-electron microscopy (cryo-EM) can be used to determine the three-dimensional structure of proteins at atomic-scale resolution. It is challenging to observe the dynamics of proteins using cryo-EM because of their large sizes and complex structural assemblies."
+    publishedDateTime: 2021-02-04T17:01:00Z
+    webUrl: "https://www.nature.com/articles/s42256-020-00290-y"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 34
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42256-020-00290-y/MediaObjects/42256_2020_290_Fig1_HTML.png"
+        width: 685
+        height: 406
+        isCached: true
+
+secured: "M8vVI6xC+SPUsLNC8qELdUNtd+im7IbBhHWCORTACYA9EKA9Bd4jUKUOSj1xoE9X1etquiI6HHs8u//StDk6Gj0GQwOcSECT0DKJEsf/8T5RKkbLYAuShfHvupZkWhwsR4uywsxIEc1qlqdt1jhz+8Ua/xxSlNAtAv3uHVon+7IleBtfF7INr/HOMhEvblq7mzNELd7fTQ1l2e1+f1iY7gTzB5TXLKlW1XmWXVj2YtYJt7egspq9mzqcjoghg1IEvZmRUgAIcoCQ1686mM0vDluNXG0S6yECPxt2YrX967Hhi3f7abaArm/FNhb7dXS/9FTlDoZThwd27Of1P1Kr0KuaiJA7HlEthkBV99ieOC50rrZUZN+QqFzIBUQcUU1k8rnmTrgi9o7ibV+16qB8WC4+ePQNXMvTSH0hEgzbZsS4sHwctr1v6XRahS+PweTQSF1uAMwcHqXBaCISlW5yJvlNAFyI1OsXthuwcAvwxY6z4E8xnIVeFG2NxzjST7XgHB6bSs6gpd9RIP8bCIjlmg==;0XzV53otU0+wqRwLCqUMfA=="
 ---
 

@@ -2,6 +2,60 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-01-how-artificial-intelligence-will-be-used-in-2021.md",
+      "title": "How artificial intelligence will be used in 2021",
+      "excerpt": "Scale AI CEO Alexandr Wang doesn’t need a crystal ball to see where artificial intelligence will be used in the future. He just looks at his customer list. The four-year-old startup, which recently hit a valuation of more than $3.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/12/31/how-artificial-intelligence-will-be-used-in-2021/",
+      "originalUrl": "https://techcrunch.com/2020/12/31/how-artificial-intelligence-will-be-used-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1160440766.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/12/31/how-artificial-intelligence-will-be-used-in-2021/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/31/how-artificial-intelligence-will-be-used-in-2021/amp/",
+      "publishedDateTime": "2020-12-31T08:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-12-31-waymos-driverless-ride-service-moves-metro-phoenix-toward-autonomous-future.md",
       "title": "Waymo’s driverless ride service moves metro Phoenix toward autonomous future",
       "excerpt": "Artificial intelligence packed with more than a ... such as those developed by Waymo, which began in 2009 as the Google Self-Driving Car Project. This fall, Waymo introduced a fully driverless ...",
@@ -1285,58 +1339,6 @@
         "name": "Barron's",
         "domain": "barrons.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-ouster-maker-of-self-driving-tech-agrees-19-bln-deal-to-go-public.md",
-      "title": "Ouster, maker of self-driving tech, agrees $1.9 bln deal to go public",
-      "excerpt": "(Reuters) - Ouster Inc, a U.S. startup that makes lidar sensors for self-driving cars and smart cities, said on Tuesday it has agreed to go public through a merger with special purpose acquisition company (SPAC) Colonnade Acquisition Corp. The deal values ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-ouster-m-a-colonnade-acqsn-idINKBN28W1D3",
-      "originalUrl": "https://www.reuters.com/article/us-ouster-m-a-colonnade-acqsn-idINKBN28W1D3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201222&t=2&i=1545432002&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBL0TE",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN28W1D3",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28W1D3",
-      "publishedDateTime": "2020-12-22T04:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

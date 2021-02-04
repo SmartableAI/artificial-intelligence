@@ -9,7 +9,7 @@ ampWebUrl: "https://www.vice.com/amp/en/article/4ad5k3/how-normal-people-deploye
 cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/4ad5k3/how-normal-people-deployed-facial-recognition-on-capitol-hill-protesters"
 type: article
 quality: 88
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -31,6 +31,17 @@ images:
     isCached: true
 
 related:
+  - title: "Fears raised over facial recognition use at Moscow protests"
+    excerpt: "Russian authorities are deploying facial recognition cameras to identify protesters during rallies in support of Kremlin critic Alexei Navalny in Moscow, human rights groups said, warning that the technology is being used to stifle peaceful dissent."
+    publishedDateTime: 2021-02-04T17:45:00Z
+    webUrl: "https://www.reuters.com/article/russia-protests-tech-idUSL8N2KA54T"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL8N2KA54T"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2KA54T"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
   - title: "Facial Recognition Tech May Be Being Used Against Russian Protestors"
     excerpt: "Navalny protests using facial recognition tools, detainees claim. As massive protests sweep across the nation, activists fear Russia has been deploying facial recognition technology to clamp down on dissent."
     publishedDateTime: 2021-02-01T21:37:00Z

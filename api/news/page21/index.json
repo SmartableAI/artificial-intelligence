@@ -2,6 +2,111 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-01-20-self-driving-startup-aurora-partners-with-heavy-truck-company-paccar.md",
+      "title": "Self-driving startup Aurora partners with heavy truck company Paccar",
+      "excerpt": "Aurora -- a company probably best known for buying up Uber's ill-fated self-driving vehicle division -- is hard at work trying to bring autonomy to the world of trucking. To facilitate this, Aurora announced its partnership with Paccar (maker of Peterbilt and Kenworth trucks) on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/self-driving-startup-aurora-partners-with-heavy-truck-company-paccar/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/self-driving-startup-aurora-partners-with-heavy-truck-company-paccar/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/ddCJEW3LnbLxA4_0Y_6-Y_5n3go=/2021/01/19/080d0a1e-4592-46cd-942b-9a64f4cea9e8/e2d68bdc-cd79-4fb2-a700-756261f55f32-blog-truck-freeway-1260x700.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/self-driving-startup-aurora-partners-with-heavy-truck-company-paccar/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-startup-aurora-partners-with-heavy-truck-company-paccar/",
+      "publishedDateTime": "2021-01-19T16:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-cruise-gm-partner-with-microsoft-to-ramp-up-self-driving-vehicles.md",
+      "title": "Cruise, GM partner with Microsoft to ramp up self-driving vehicles",
+      "excerpt": "Self-driving car maker Cruise and majority shareholder General Motors Co said on Tuesday they would partner with Microsoft Corp to accelerate the commercialization of driverless vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-gm-microsoft-autonomous/cruise-gm-partner-with-microsoft-to-commercialize-self-driving-vehicles-idUSKBN29O1MO?edition-redirect=ca",
+      "originalUrl": "https://www.reuters.com/article/us-gm-microsoft-autonomous/cruise-gm-partner-with-microsoft-to-commercialize-self-driving-vehicles-idUSKBN29O1MO?edition-redirect=ca",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210119&t=2&i=1548348568&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0I0YQ",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29O1MO",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29O1MO",
+      "publishedDateTime": "2021-01-19T16:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-20-2021-year-of-fintech-product-opportunities.md",
       "title": "2021: Year of Fintech Product Opportunities",
       "excerpt": "It is no secret that the COVID-19 outbreak has boosted the acceptance of some of the fintech technology developments that are most exciting. Shifting to a digital-only format was essential for stability for some financial industry players.",
@@ -1101,84 +1206,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-infosys-launches-applied-ai-cloud-powered-by-nvidia-dgx-a100-systems.md",
-      "title": "Infosys launches applied AI cloud powered by NVIDIA DGX A100 systems",
-      "excerpt": "Infosys announced the launch of an Infosys Cobalt offering - its applied AI cloud, built on NVIDIA DGXTM A100 systems, the universal system for all AI workloads, offering unprecedented compute density,",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiainfoline.com/article/capital-market-corporate-news/infosys-launches-applied-ai-cloud-powered-by-nvidia-dgx-a100-systems-121011900622_1.html",
-      "originalUrl": "https://www.indiainfoline.com/article/capital-market-corporate-news/infosys-launches-applied-ai-cloud-powered-by-nvidia-dgx-a100-systems-121011900622_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg",
-          "width": 350,
-          "height": 233,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.indiainfoline.com/article-amp/capital-market-corporate-news/infosys-launches-applied-ai-cloud-powered-by-nvidia-dgx-a100-systems-121011900622_1.html",
-      "cdnAmpWebUrl": "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/capital-market-corporate-news/infosys-launches-applied-ai-cloud-powered-by-nvidia-dgx-a100-systems-121011900622_1.html",
-      "publishedDateTime": "2021-01-19T06:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Infoline",
-        "domain": "indiainfoline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-cruise-gm-partner-with-microsoft-to-commercialize-self-driving-vehicles.md",
-      "title": "Cruise, GM partner with Microsoft to commercialize self-driving vehicles",
-      "excerpt": "Self-driving car maker Cruise and majority ... to accelerate the automaker's digitization initiatives, including artificial intelligence, and explore opportunities to streamline operations across ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/cruise-gm-partner-with-microsoft-to-commercialize-self-driving-vehicles-2021-01-19",
-      "originalUrl": "https://www.nasdaq.com/articles/cruise-gm-partner-with-microsoft-to-commercialize-self-driving-vehicles-2021-01-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/cruise-gm-partner-with-microsoft-to-commercialize-self-driving-vehicles-2021-01-19?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/cruise-gm-partner-with-microsoft-to-commercialize-self-driving-vehicles-2021-01-19?amp",
-      "publishedDateTime": "2021-01-19T06:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

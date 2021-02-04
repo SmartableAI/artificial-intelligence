@@ -2,6 +2,93 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-01-29-bitscape-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization.md",
+      "title": "Bitscape Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization",
+      "excerpt": "Jan 29, 2021-- Bitscape today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge, extensive experience and expertise in migrating Windows Server and SQL Server-based workloads to Azure.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-north-america-software-industry-cloud-computing-69d0d9117c084002ac90f60f0bccbff3",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-north-america-software-industry-cloud-computing-69d0d9117c084002ac90f60f0bccbff3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-29T00:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-taylors-robotics-programme-prepares-students-for-an-era-of-artificial-intelligence.md",
+      "title": "Taylor’s Robotics programme prepares students for an era of artificial intelligence",
+      "excerpt": "C3-PO, RoboCop, Transformers, Baymax and the Terminator are characters that make the top lists in best movies of all time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/news/education/2021/01/29/taylors-robotics-programme-prepares-students-for-an-era-of-artificial-intelligence",
+      "originalUrl": "https://www.thestar.com.my/news/education/2021/01/29/taylors-robotics-programme-prepares-students-for-an-era-of-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2021/01/29/1025592.jpg",
+          "width": 1240,
+          "height": 826,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-29T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-01-29-academic-city-university-college-launches-bsc-robotics-engineering-programme.md",
       "title": "Academic City University College launches BSc Robotics Engineering Programme",
       "excerpt": "He revealed that in the Robotics programme, emphasis is placed on design, analysis and modeling, programming, integration of Artificial Intelligence (AI) and manufacturing. \"Additionally, the need to industrialise has been effectively articulated by the ...",
@@ -247,8 +334,8 @@
       "title": "Stem cell AI -- 'brain on a chip' project aims to revolutionize computing power",
       "excerpt": "Scientists have started work on a project that will see human brain stem cells used to power artificial intelligence (AI) devices and bring about a revolution in computing. The Neu-ChiP project, an international collaboration led by researchers at Aston University,",
       "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2021-01/au-sca012621.php?fbclid=IwAR33zzyfi0RpPhP6U27mWBXLcQ4xYph3aUKBVIUVKAV4pa71AVJqzhW7AfQ",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-01/au-sca012621.php?fbclid=IwAR33zzyfi0RpPhP6U27mWBXLcQ4xYph3aUKBVIUVKAV4pa71AVJqzhW7AfQ",
+      "webUrl": "https://www.eurekalert.org/pub_releases/2021-01/au-sca012621.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-01/au-sca012621.php",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -644,22 +731,31 @@
       "title": "Kitov.ai Combines 3D coverage, Intelligent Robotic planner and Deep Learning for KITOV Smart Visual Inspection Solutions",
       "excerpt": "Israeli-based smart visual inspection company Kitov.ai introduces its KITOV ONE inspection system to North America. A novel, hybrid approach combining 3D image acquisition",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/01/p19379252/kitov-ai-combines-3d-coverage-intelligent-robotic-planner-and-deep-learning-for-kitov-smart-visual",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/01/p19379252/kitov-ai-combines-3d-coverage-intelligent-robotic-planner-and-deep-learning-for-kitov-smart-visual",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/kitov-ai-combines-3d-coverage-intelligent-robotic-planner-and-deep-learning-for-kitov-smart-visual/article_75cdefe6-3ac5-51e4-9b64-1ce901e20d1f.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/kitov-ai-combines-3d-coverage-intelligent-robotic-planner-and-deep-learning-for-kitov-smart-visual/article_75cdefe6-3ac5-51e4-9b64-1ce901e20d1f.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/19379252",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19379252",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-01-28T12:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1095,111 +1191,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-graphic-processing-unit-gpu-market-size-to-hit-usd-19877-billion-by-2027.md",
-      "title": "Graphic Processing Unit (GPU) Market Size to Hit USD 198.77 Billion by 2027",
-      "excerpt": "The global graphic processing unit (GPU) market is poised to grow at a compound annual growth rate (CAGR) 33.4% during the forecast period 2020 to 2027. Graphics Processing Unit (GPU) also referred as visual processing unit is mainly a computer chip that performs rapid mathematical calculations,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/graphic-processing-unit-gpu-market-size-to-hit-usd-19877-billion-by-2027-2021-01-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/graphic-processing-unit-gpu-market-size-to-hit-usd-19877-billion-by-2027-2021-01-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-28T07:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-at-362-cagr-artificial-intelligence-ai-in-retail-market-size-to-surpass-usd-57230-million-by-2025.md",
-      "title": "At 36.2% CAGR, Artificial Intelligence (AI) in Retail Market Size to Surpass USD 5723.0 Million by 2025",
-      "excerpt": "Artificial Intelligence (AI) in Retail Market is valued at USD 658.2 Million in 2018 and expected to reach USD 5723.0",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/at-362-cagr-artificial-intelligence-ai-in-retail-market-size-to-surpass-usd-57230-million-by-2025-2021-01-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/at-362-cagr-artificial-intelligence-ai-in-retail-market-size-to-surpass-usd-57230-million-by-2025-2021-01-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-28T07:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

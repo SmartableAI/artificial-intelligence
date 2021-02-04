@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
-excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
-publishedDateTime: 2021-02-03T08:22:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
-webUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
+excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance"
+publishedDateTime: 2021-02-02T22:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
+webUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
 type: article
-quality: 46
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Microsoft's cutting-edge machine-learning tool moves from the lab to the mainstream"
@@ -188,6 +182,20 @@ related:
         width: 510
         height: 314
         isCached: true
+  - title: "General Dynamics Information Technology Offers Microsoft Azure to Federal Agencies"
+    excerpt: "General Dynamics Information Technology (GDIT), a business unit of General Dynamics (NYSE:GD), announced today the signing of Microsoft Partner Agreement for Online Services-Government (AOS-G). The new agreement provides federal customers with the capability to access Azure services and offerings,"
+    publishedDateTime: 2021-02-04T17:59:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-government-business-and-finance-corporate-news-products-and-services-7c7c2146254e7c0b1d0b8fe0b781d921"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 48
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Microsoft’s Custom Neural Voice technology goes out of preview"
     excerpt: "Microsoft has announced that its text-to-speech AI “Custom Neural Voice” has hit general availability. The technology enables developers to create personalized voices using their audio data and"
     publishedDateTime: 2021-02-04T16:31:00Z
@@ -203,6 +211,6 @@ related:
         height: 768
         isCached: true
 
-secured: "D7sYsQ///9YBP33rbnjb4uT5Fl5JRG0fWCJ4OyaU15btxSX7MccTspaPH/TSAKYwIwEttMSFtdJvGaoX4g7UICXs1k+JnL/NLzQPuWKPCGFr2wCR7eTkab16y2F0OomatRtqVKmvAwuNKZLwyyEOgFOr8/SPiy6/t9lrtw7nJ0i0fTlZc1qQuEgSs34nJNQehk1OpdGeWzbXAxYjxmx9dwy/x2/jXbRmnJn7cc9M0MNp4NS6h8k62igMWfaNvuKLd/jecTSy6zCUqMSeRi2V2fhAt2KytHOxj1XuDteOo5ItVQHwUak84hynclrt2kpTgAhYREIYvjPX4PCXi1O/24dMR3mV3o595yylnIU16IY=;18I1NYQNYxAAJn7CLJhdZg=="
+secured: "690kaqO0RpgzRnXemWuRytp0Uo1mFjjH10kv8Lqz2QLNtZFL1rXfI3USbO0KeuT/WUKt10roqQh1mYdqHSbTKeP+v4tubrKbWA0+EJ9q5p3wOvovSD2QARPflPge1qCg0K7KwFqEoZN5As8nkAgQ4dADRFvbNQFqTMMHUdjq/WsmEIkVu6RlMNOKrpMN4O9fWLSCvql8TbiRJTcvB4PK+MUiJ7ofiNQqb9jLduZe1rJye1tq5SNr6XDIzAn5vn3E5FO5jc3j9z4HkZxpZOIL7sdAReCjD44I/u0dnKcxXMGUyRtbsL/36oIZTs2gTw2pgBD7sKuf9rBF0yFHy6eTtNCJAYCxCOSw/DaJUTmuo9U=;T6CHxftfuCI6Yuhh+JZr6w=="
 ---
 

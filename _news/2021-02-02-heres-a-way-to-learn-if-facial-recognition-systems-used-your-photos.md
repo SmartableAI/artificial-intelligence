@@ -2,27 +2,26 @@
 category: news
 title: "Here’s a way to learn if facial recognition systems used your photos"
 excerpt: "An online tool targets only a small slice of what’s out there, but may open some eyes to how widely artificial intelligence research fed on personal images."
-publishedDateTime: 2021-02-01T19:19:00Z
-originalUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-nyt-facial-recognition-photos-20210201-idcvahi65bh7zkobkb7wjvwpgy-story.html"
-webUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-nyt-facial-recognition-photos-20210201-idcvahi65bh7zkobkb7wjvwpgy-story.html"
-ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-nyt-facial-recognition-photos-20210201-idcvahi65bh7zkobkb7wjvwpgy-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-nw-nyt-facial-recognition-photos-20210201-idcvahi65bh7zkobkb7wjvwpgy-story.html?outputType=amp"
+publishedDateTime: 2021-02-01T16:27:00Z
+originalUrl: "https://www.orlandosentinel.com/news/nationworld/ct-nw-nyt-facial-recognition-photos-20210201-idcvahi65bh7zkobkb7wjvwpgy-story.html"
+webUrl: "https://www.orlandosentinel.com/news/nationworld/ct-nw-nyt-facial-recognition-photos-20210201-idcvahi65bh7zkobkb7wjvwpgy-story.html"
+ampWebUrl: "https://www.orlandosentinel.com/news/nationworld/ct-nw-nyt-facial-recognition-photos-20210201-idcvahi65bh7zkobkb7wjvwpgy-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/news/nationworld/ct-nw-nyt-facial-recognition-photos-20210201-idcvahi65bh7zkobkb7wjvwpgy-story.html?outputType=amp"
 type: article
-quality: 61
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: The Baltimore Sun
-  domain: baltimoresun.com
+  name: Orlando Sentinel
+  domain: orlandosentinel.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - Computer Vision
+  - AI
 
 images:
-  - url: "https://www.baltimoresun.com/resizer/8u3zVMFj8ZrGh5JwqjtNcPSfTwI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SITXYEMZCKKE5TMUY7NNTYPHRY.jpg"
+  - url: "https://www.orlandosentinel.com/resizer/8u3zVMFj8ZrGh5JwqjtNcPSfTwI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SITXYEMZCKKE5TMUY7NNTYPHRY.jpg"
     width: 1200
     height: 800
     isCached: true
@@ -146,6 +145,6 @@ related:
       domain: tass.com
     quality: 30
 
-secured: "lkkbDuVipXeJpvh3Lb2JS3jgKUVkybBNTbCZcY/+qdElkslGYLyN0nP0c23Pw5WWLSn4nlRKqSGg0/HeJ6wuCM3PjfG3HC2LXfxTK15LLhybSl+Nywt2IaTwdRSXH2NOPnbA3sRKhrlvQH616zWhvqRM6PAsu+1R25bmUIm+z1M/oOj4YeokfYSgvauG2Oc9I+bjrOtBExbwWXz2hQSYWFSwUW3rC7FfAERrOUGIfK9GldQ8yQzyFL8iKD2tyOVnPq9T5lW1i8BeLxh2pN9W+ta4nx91mm9g6TB3AkP+cCrdHGQZF/Se7y//uL2IDgs/lyfmNsVb2wnQsgDnPjOFxxF5Xy5ra3hXTZJ7JlCppu6RM1xrBHESAtDVNg4k2Iar42JiiYr5R8hQd7h1ugNOQBP8td+bjWXMdBXZVvbHPmSImiM/J4RXYiwWJVM2jk7//vNzFqs4jO2CUYicJb0WyZvzwD8niG4YfvX1r6b8rUnZlr+tHYSJH12FW4zGIC6vbFrknPgneg7wgqWN8F7d5g==;ojpaXklLWtAeFHNPF2IOJw=="
+secured: "lov2QoqfpnAVZfmsPkqm1vH5NEc5SuilK6lcaPHd262EeUqSL0fE1voRqg5JcQvGK3FQ5mqUle+qaBqn1GNXLJ/WBz+bFDZDA4prlRuM++9c0MYRVo3fak7XzNx781ZnGv+phiUakugLU44tGvaufunfWU4Hq8hDLKDLLfMAHC9H+0xpohnekTFKArUA4gL3DY4Vj4N6pQj8FmE/E07buLbwSIbuCF/KB8lGGLy8mkZCpCSxYRVsUcweQW6gbxlGfduD0fmb+1+4FfvhPbh4DjcwfsI65P+c2LIQK+NCU8+p9jYcL8U3bVLjrgoy/vfsS+fqzPGvIFGn4+yz33gmdSaX+4cKNOsNQbvpw4UwzfA=;qN4kywWMboU6ro9LLToBcQ=="
 ---
 

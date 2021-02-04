@@ -41,6 +41,17 @@ related:
         width: 5128
         height: 2881
         isCached: true
+  - title: "Fears raised over facial recognition use at Moscow protests"
+    excerpt: "Russian authorities are deploying facial recognition cameras to identify protesters during rallies in support of Kremlin critic Alexei Navalny in Moscow, human rights groups said, warning that the technology is being used to stifle peaceful dissent."
+    publishedDateTime: 2021-02-04T17:45:00Z
+    webUrl: "https://www.reuters.com/article/russia-protests-tech-idUSL8N2KA54T"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL8N2KA54T"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2KA54T"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
   - title: "Facial Recognition Tech May Be Being Used Against Russian Protestors"
     excerpt: "Navalny protests using facial recognition tools, detainees claim. As massive protests sweep across the nation, activists fear Russia has been deploying facial recognition technology to clamp down on dissent."
     publishedDateTime: 2021-02-01T21:37:00Z
@@ -58,6 +69,6 @@ related:
         height: 628
         isCached: true
 
-secured: "cgd53A0xOepSnzFwPgGm9tgC0CDgROBOZKDaEGtxLZg8WCqIdMrtC6U0p1NeXmMRW0QY0V939L1Vaq+OlgTDR1HXydnbRmNH+ouu7XNjpffAQVUIdK0+XvptHA0YGm7yhEHeUM2r0j8dvKysmKpK8zf6zSRkaw8X2gSiqIl4ZoaXjbkbmTDeZQSV4ZgWbwpLnxjRjcAIp3YYLc4qDZwcllle4/wez5qxAwsFhGc270MX3ASQ4PIGlW9h0PLoQCzHqTmSehMdwUzZud/jGKEBYiWTt9F2FfjzMm1X3W4YnyxKPwa0D8ixFbozB3c2HJZ6kONcbRAlctNoCQ6TzDt7i2o+CnzoUzIuGFyvjnRcFsg=;mU6a58RBEZeV4a2oli9jeQ=="
+secured: "jQ0Nv1k+0+DbWSnxb6MIRBr7LCKLCUWreJCkDkI/KQu1W97UcONuLlMYHANBudA7ql91yoVc/ZokOOPkPlBZ6AP2HK2E3w15tML1USGaeXd53z3bKWg2iOkzFSXxdKN2Nf76X4qlzr8X+yjwqKS3c6GwoSKJUFxLcjQfFtX+iJdHuUkjjJr5an443t6AQKI1/efOuuCbdgb18cmASJtc9uXnsInqQzR84iToI9FSKP3lf9mDIfD/RLL9g5B62aa16d7f62kJ6hMnKv5Zs4oEjuXp29SSbk6oSVYGpjuwiGHbC4o/SlXoXwsErEdjNUxuBPaiTqw9JHTbkar/8hhSUJjnZaSd/cUevJ98OOM2/l6NCWm+q32fDQf91u7Q6SJRb8JKijRJpi5sj35YVY/8wSvLzwN0r3jYQ/f+LAr9yGUbjm+4+8KyKUePyIl/3f672Z6HuvLF9geAj4TX3VTQ2prgauWHc3GSBB3pYytW2zeYk4wEjWt0023Xse0cFM5pcb+4FZswtBoQsvxJ+2222g==;1WpJ7UX+DiiC/noVTMWkwg=="
 ---
 

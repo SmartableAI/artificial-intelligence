@@ -3,10 +3,10 @@ category: news
 title: "MedTech Startup See-Mode Technologies Announces CE Mark and Australian TGA Approval for AI-powered Ultrasound Analysis Software"
 excerpt: "SINGAPORE and MELBOURNE, Australia, Feb. 2, 2021 /PRNewswire/ -- See-Mode Technologies, a MedTech startup based in Singapore and Australia that"
 publishedDateTime: 2021-02-01T22:08:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/medtech-startup-see-mode-technologies-announces-ce-mark-and-australian-tga-approval-for-ai-powered-ultrasound-analysis-software-1030029701"
-webUrl: "https://markets.businessinsider.com/news/stocks/medtech-startup-see-mode-technologies-announces-ce-mark-and-australian-tga-approval-for-ai-powered-ultrasound-analysis-software-1030029701"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/medtech-startup-see-mode-technologies-announces-ce-mark-and-australian-tga-approval-for-ai-powered-ultrasound-analysis-software-1030029701"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/medtech-startup-see-mode-technologies-announces-ce-mark-and-australian-tga-approval-for-ai-powered-ultrasound-analysis-software-1030029701"
+originalUrl: "https://markets.businessinsider.com/news/stocks/medtech-startup-see-mode-technologies-announces-ce-mark-and-australian-tga-approval-for-ai-powered-ultrasound-analysis-software-1030031535"
+webUrl: "https://markets.businessinsider.com/news/stocks/medtech-startup-see-mode-technologies-announces-ce-mark-and-australian-tga-approval-for-ai-powered-ultrasound-analysis-software-1030031535"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/medtech-startup-see-mode-technologies-announces-ce-mark-and-australian-tga-approval-for-ai-powered-ultrasound-analysis-software-1030031535"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/medtech-startup-see-mode-technologies-announces-ce-mark-and-australian-tga-approval-for-ai-powered-ultrasound-analysis-software-1030031535"
 type: article
 quality: 39
 heat: 39
@@ -23,6 +23,6 @@ provider:
 topics:
   - AI
 
-secured: "ruwJZG2ZYfMOwQp4JJkbnzH6oLSdE5dyJiPFD5Ju6EJCds6CaaOSi4ln5AjfpryuM5T62hBMCoISTnn2YtgHL6yppbwzCbk2Xxybi1aF2bV7co+iznlWgEUsHW+NVCCKhcUlHI/YuW+5XbwYbPEJJCg8aH9l0ajCAuFPjPAbOOSAZ58Pxni4ExBa3jJOmTICNewfQyr975NrF4UaykeFCc5bqfrj8DZJHYNZAIo2THmevoi/9QeK3XVMPsdw3W9uNVEjxRiisoOrL8tyZSPZHm+Mvjoup6Z6ibPwIJCUX0980oIFxgUXpDoXK76riK0apX1Yn0zssGXmRQdB7UPWRC36C1oEKBBIcvKBDVwUvmw=;p53Y+ZYoQIZ4mrzlW4ny4g=="
+secured: "yqlZh+wAl0d/jJwznEHHmmQVXDip5r++CMLKj5utBhu5XNYiqBvH5H3QckKiuAC8+xHd6dxdoleCpF2nQ6Vg9dj66zbUNlcTZehiHZ8cjVgA6tLt8utvAoRJuqSLwoxD8ByT5lDgOVNADVnPEwwCJlkY/vbgLEz4u72MQEQ/bU1uRwcAQ9PKJGUGp85vdWMl4BoBGClRJfEzAL4/RL15ciuOEnD2zdWbka/C3pDm5SoEGNeVKT/25QVrbZ5dibAiJBIBMdGu4VDWAr//LOxqXsDnBye8SApxA71BH/92bhEciPchGcKtH7Ekjb+3UUTNfdfYkPQhJi+YK15dF3DuJuNwpVqW74of94+LEjLMByQ=;jpkoPLm1nw1JitrImigLXA=="
 ---
 

@@ -2,6 +2,101 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2021-01-01-tesla-sweetens-new-ev-purchase-with-full-self-driving-trial-tossed-in-for-free.md",
+      "title": "Tesla sweetens new EV purchase with Full Self-Driving trial tossed in for free",
+      "excerpt": "Elon Musk said those who buy a new Tesla and take delivery by midnight on Dec. 31 get three months on the house.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/tesla-ev-full-self-driving-free-elon-musk/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-ev-full-self-driving-free-elon-musk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/fbog9b0wseVeS9NEriiL0hOkiTE=/2020/10/28/6a17786b-6e8e-4721-ae26-aebe63198edf/ogi-tesla.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-ev-full-self-driving-free-elon-musk/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-ev-full-self-driving-free-elon-musk/",
+      "publishedDateTime": "2020-12-31T11:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-01-new-teslas-get-free-trial-of-full-self-driving-option-but-theres-a-catch.md",
+      "title": "New Teslas Get Free Trial of Full Self-Driving Option, but There's a Catch",
+      "excerpt": "Well, now you've got a new incentive to make your own magic happen: three free months of the company's questionably named Full Self-Driving Capability feature, as decreed on Twitter by Elon Musk ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.motortrend.com/news/tesla-full-self-driving-free-trial-incentive/",
+      "originalUrl": "https://www.motortrend.com/news/tesla-full-self-driving-free-trial-incentive/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.motortrend.com/uploads/sites/5/2020/10/2020-Tesla-Model-Y-Dual-Motor-Long-Range-25.jpg",
+          "width": 2048,
+          "height": 1152,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.motortrend.com/news/tesla-full-self-driving-free-trial-incentive/amp/",
+      "cdnAmpWebUrl": "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/tesla-full-self-driving-free-trial-incentive/amp/",
+      "publishedDateTime": "2020-12-31T10:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Motor Trend",
+        "domain": "motortrend.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-01-why-this-ai-company-founder-left-tech-to-become-a-healer.md",
       "title": "Why This AI Company Founder Left Tech To Become A Healer",
       "excerpt": "After founding three tech companies and working for years as a UX designer, Cris Beasley made a radical choice. She left the tech world to become a healer, moving from SF to the cloud forests of Chiapas,",
@@ -1053,92 +1148,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-ai-and-robot-run-farms-are-transforming-agriculture.md",
-      "title": "AI and robot-run farms are transforming agriculture",
-      "excerpt": "Ag-tech startup Plenty's vertical farm produces 400 times more food per acre than a flat farm with employed robots and AI.",
-      "sourceUrl": null,
-      "webUrl": "https://techwireasia.com/2020/12/ai-and-robot-run-farms-are-transforming-agriculture/",
-      "originalUrl": "https://techwireasia.com/2020/12/ai-and-robot-run-farms-are-transforming-agriculture/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.techwireasia.com/wp-content/uploads/2020/12/plenty-450x300.jpg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techwireasia.com/amp/2020/12/ai-and-robot-run-farms-are-transforming-agriculture/",
-      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2020/12/ai-and-robot-run-farms-are-transforming-agriculture/",
-      "publishedDateTime": "2020-12-30T18:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techwireasia.com",
-        "domain": "techwireasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me.md",
-      "title": "Agile robots score another YouTube hit, dancing to 'Do You Love Me'",
-      "excerpt": "Boston Dynamics' robots are back to let you know they can really shake 'em down. In a stunning dance video that's part celebration of an incredible engineering achievement and part advertisement for the robotics company,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wesh.com/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269",
-      "originalUrl": "https://www.wesh.com/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-a685812271f68161dbb35d0810ed2fb5-h-839419f9e969d1bdb2453264c7c74e2b-1609381106.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wesh.com/amp/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269",
-      "cdnAmpWebUrl": "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/agile-robots-score-another-youtube-hit-dancing-to-do-you-love-me/35101269",
-      "publishedDateTime": "2020-12-30T18:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WESH",
-        "domain": "wesh.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

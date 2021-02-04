@@ -2,6 +2,156 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-04-ai-ml-to-drive-budget-2021s-national-language-translation-mission.md",
+      "title": "AI, ML to drive Budget 2021's National Language Translation Mission",
+      "excerpt": "The National Language Translation Mission seeks to build the next generation government apps and websites that will be 'conversational' like Amazons Alexa or Apples Siri.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/technology/ai-ml-to-drive-budget-2021-national-language-translation-mission/articleshow/80674800.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/ai-ml-to-drive-budget-2021-national-language-translation-mission/articleshow/80674800.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-161390,msid-80679442/tamil-hindi.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/technology/ai-ml-to-drive-budget-2021-national-language-translation-mission/amp_articleshow/80674800.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/ai-ml-to-drive-budget-2021-national-language-translation-mission/amp_articleshow/80674800.cms",
+      "publishedDateTime": "2021-02-03T15:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-02-04-ai-chips-in-the-real-world-interoperability-constraints-cost-energy-efficiency-and-models.md",
+      "title": "AI chips in the real world: Interoperability, constraints, cost, energy efficiency, and models",
+      "excerpt": "The answer to the question of how to make the best of AI hardware may not be solely, or even primarily, related to hardware",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-chips-in-the-real-world-interoperability-constraints-cost-energy-efficiency-and-models/",
+      "originalUrl": "https://www.zdnet.com/article/ai-chips-in-the-real-world-interoperability-constraints-cost-energy-efficiency-and-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2018/12/31/e6b87307-59d1-4f26-89cd-e0e38f2026b4/hybrid.jpg",
+          "width": 512,
+          "height": 341,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-chips-in-the-real-world-interoperability-constraints-cost-energy-efficiency-and-models/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-chips-in-the-real-world-interoperability-constraints-cost-energy-efficiency-and-models/",
+      "publishedDateTime": "2021-02-03T13:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Google AI",
+        "Natural Language Processing",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-02-04-ai-detects-1210-new-potential-gravitational-lenses-in-the-search-for-dark-matter.md",
+      "title": "AI detects 1,210 new potential gravitational lenses in the search for dark matter",
+      "excerpt": "Scientists used deep residual neural networks to search for the lenses in surveys of the sky. Their study could help unravel the mysteries of dark matter.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/02/03/ai-detects-1210-new-potential-gravitational-lenses-in-the-search-for-dark-matter/",
+      "originalUrl": "https://thenextweb.com/neural/2021/02/03/ai-detects-1210-new-potential-gravitational-lenses-in-the-search-for-dark-matter/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/40501331252_d8f39000a4_o-796x664.jpg",
+          "width": 796,
+          "height": 664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/02/03/ai-detects-1210-new-potential-gravitational-lenses-in-the-search-for-dark-matter/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/03/ai-detects-1210-new-potential-gravitational-lenses-in-the-search-for-dark-matter/amp/",
+      "publishedDateTime": "2021-02-03T13:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-04-dustin-diamond-was-working-on-screechs-robot-ad-campaign-before-his-death.md",
       "title": "Dustin Diamond Was Working on Screech's Robot Ad Campaign Before His Death",
       "excerpt": "The ‘Saved by the Bell’ actor sadly passed away earlier this week after a short battle with advanced lung cancer.",
@@ -53,7 +203,7 @@
       "originalUrl": "https://www.forbes.com/sites/stevevassallo/2021/02/03/how-i-learned-to-stop-worrying-and-love-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -303,7 +453,7 @@
       "originalUrl": "https://www.vice.com/en/article/qjpm87/new-amazon-ceo-andy-jassy-loves-fossil-fuels-and-facial-recognition",
       "featuredContent": null,
       "highlight": null,
-      "heat": 211,
+      "heat": 221,
       "tags": null,
       "images": [
         {
@@ -718,7 +868,7 @@
       "originalUrl": "https://venturebeat.com/2021/02/03/deepgram-raises-25-million-to-build-custom-enterprise-speech-recognition-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -1115,154 +1265,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-north-america-ai-chipsets-market-overview-with-in-depth-analysis-and-forecast-2020-2026.md",
-      "title": "North America AI Chipsets Market Overview with In-Depth Analysis and Forecast (2020-2026)",
-      "excerpt": "The North America AI chipsets market from Central Processing Unit (CPU) segment is projected to grow at a CAGR of 30% over the forecast period. The growth is credited to several features offered by the CPU architecture such as low latency,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/north-america-ai-chipsets-market-overview-with-in-depth-analysis-and-forecast-2020-2026-2021-02-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/north-america-ai-chipsets-market-overview-with-in-depth-analysis-and-forecast-2020-2026-2021-02-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-03T02:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-who-needs-a-supercomputer-your-desktop-pc-and-a-gpu-might-be-enough-to-solve-some-of-the-largest-problems.md",
-      "title": "Who needs a supercomputer? Your desktop PC and a GPU might be enough to solve some of the largest problems",
-      "excerpt": "A new method significantly reduces the amount of memory needed for brain simulations, freeing some AI models from the need for a supercomputer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/who-needs-a-supercomputer-your-desktop-pc-and-a-gpu-might-be-enough-to-solve-some-of-the-largest-problems/",
-      "originalUrl": "https://www.zdnet.com/article/who-needs-a-supercomputer-your-desktop-pc-and-a-gpu-might-be-enough-to-solve-some-of-the-largest-problems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2021/02/02/43f7be8f-9cba-4383-86c1-dd00d73b639a/james-knight-and-thomas-nowotny.jpg",
-          "width": 1154,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/who-needs-a-supercomputer-your-desktop-pc-and-a-gpu-might-be-enough-to-solve-some-of-the-largest-problems/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/who-needs-a-supercomputer-your-desktop-pc-and-a-gpu-might-be-enough-to-solve-some-of-the-largest-problems/",
-      "publishedDateTime": "2021-02-03T02:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-cyber-ai-for-saas-security-protecting-your-dynamic-workforce.md",
-      "title": "Cyber AI for SaaS Security: Protecting Your Dynamic Workforce",
-      "excerpt": "To protect today's dynamic workforce, security teams must be equipped to discern when and how a trusted account has been leveraged for",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/resource-library/whitepapers/cyber-ai-for-saas-security-protecting-your-dynamic-workforce/",
-      "originalUrl": "https://www.techrepublic.com/resource-library/whitepapers/cyber-ai-for-saas-security-protecting-your-dynamic-workforce/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/resource-library/whitepapers/cyber-ai-for-saas-security-protecting-your-dynamic-workforce/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/cyber-ai-for-saas-security-protecting-your-dynamic-workforce/",
-      "publishedDateTime": "2021-02-03T01:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],
