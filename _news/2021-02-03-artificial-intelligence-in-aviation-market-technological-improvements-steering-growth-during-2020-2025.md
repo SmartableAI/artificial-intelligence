@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Cloud Machine Learning Market 2020 Growth, Industry Trend, Sales Revenue, Size by Regional Forecast to 2025"
+    excerpt: "A recent report published by MarketsandResearch.biz titled Global Cloud Machine Learning Market 2020 by Company, Type and Application, Forecast to 2025 aims to provide up-to-date information on the market carrying out a thorough research on the market of historical as well as current growth parameters,"
+    publishedDateTime: 2021-02-01T21:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-cloud-machine-learning-market-2020-growth-industry-trend-sales-revenue-size-by-regional-forecast-to-2025-2021-02-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "V2Zi5Zfz03xInCSpQUdCjJqAzKn4+wemWJLUvcpNP89RsDOCOEBsyJu1eKn8kN7OWLh7XaS2b1IcI3gDWE3RdGrBkVzdkIpataj7AGX05etMmS1f6cct40MJMnY6Y5+Gedk7Sm0zp7yRm0yDYQSguNhtj6d8ppEYxLvY+qgOZvMuxGUBwKXGFPT/AH1YcXTejRrZFaIEm+3zSfQXk+4Wq1esf/AdetzaGNpQxuDEkvkU9knnjQdBCLiwyMtNBh8Cs1FWavHaTfvYtjN5hszHIaFy/7zoLl26boK55HDBUTYgYdYG03Rwc+0JAuDypIDkz4eR3awOthU094ikqGeURgJjCiQRFfo6+UzeIYhePGY=;BNuNugGiJgvgKopQ38mVUg=="
 ---

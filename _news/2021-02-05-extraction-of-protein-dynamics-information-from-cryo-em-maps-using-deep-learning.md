@@ -41,6 +41,22 @@ related:
         width: 2880
         height: 2365
         isCached: true
+  - title: "Machine-learning program imagines a protein's many possible structures"
+    excerpt: "Thanks to a new machine-learning algorithm, scientists can now anticipate and recognize a protein's varied structural iterations."
+    publishedDateTime: 2021-02-04T22:29:00Z
+    webUrl: "https://www.upi.com/Science_News/2021/02/04/Machine-learning-program-imagines-a-proteins-many-possible-structures/4831612466430/"
+    ampWebUrl: "https://www.upi.com/amp/Science_News/2021/02/04/Machine-learning-program-imagines-a-proteins-many-possible-structures/4831612466430/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2021/02/04/Machine-learning-program-imagines-a-proteins-many-possible-structures/4831612466430/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 44
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/i/4831612466430/2021/1/16124689865191/v1.5/Machine-learning-program-imagines-a-proteins-many-possible-structures.jpg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "ioJm+uNXPFiLMfmMZQb+H2XeHWcxA/3Dr3unwh5VW3kONRecC14zsYb1cdgtB+eiBEKdEHRhqK5+gRdA4kf/B0J+REBP8W10O0e6DFLmqvNiTmQ9GN5TxwA4TmBjxNp/jiLs+u2mrv6iTmfUqsuvz8UOXcbdmMWHw7ko3biwWkDv0WFXkDRKBt1YSn26t46HRQe5zNxjE+S1A67dL1A8hHC1m86BtN7n1hEB8/oTMrs9M/MLcki0cqDswl3Sf7PIH9MHhNgxUazqKVpTSpFTuC5I8TRM4woHSfKzPWzuCntGEHRoOlG89uMLtaind2IANHeZVoOBSqlAmSJRGvG8dyqUE80ubXhugjWKyjkJHykiWZIbpvzNjdXsUMCmjLqTiieGbRrl7gCeeLOGHTlAmWRYQvYVeimp3ylO6YX0KEkERCtCBbnRYGLNhgC9Ggy0HtTLL3eJSXqSr5mnmqPNDzvoJPRMCS/FhhYvI5n4Y/WiSWP5z6Z/547fkCpeSivzIEv6cH3hQ99bXeR1hfncqg==;D8/qYTHKx8dfRgXGsSjS2A=="
 ---

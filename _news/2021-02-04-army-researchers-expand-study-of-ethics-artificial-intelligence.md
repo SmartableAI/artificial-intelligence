@@ -86,6 +86,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Two Google employees quit over AI researcher Timnit Gebru’s exit"
+    excerpt: "Two Google engineers have resigned from the tech giant, citing the departure late last year of prominent Black artificial intelligence researcher Timnit Gebru. The resignations are the latest salvos in an ongoing fight between the company and workers who are furious about its lack of diversity."
+    publishedDateTime: 2021-02-04T22:31:00Z
+    webUrl: "https://kvia.com/news/business-technology/2021/02/04/two-google-employees-quit-over-ai-researcher-timnit-gebrus-exit/"
+    type: article
+    provider:
+      name: KVIA
+      domain: kvia.com
+    quality: 39
+    images:
+      - url: "https://kvia.b-cdn.net/2019/10/featured-biz-tech.jpeg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "IjsU2mHpSpACMjGx0T3m4jZEjLPGTRqJtOPH+Trp2l16KQvNWcvOQ+F5xubiEJ1yfZXbtHv2/BrKpI0SQiLfWeDdFZjC/j0MrIdy61hpckM6RcGtPLRZCuMR/yi3IYeJ5/PsMSoVxJRb9gqxsr2Y2bwhLchIi9vxB1/xJ/EIqf+0kOs5h+vv9q0b9ZlOPU5TwrhSIStOblMrtfYPsLpgwF9v8ZVsncQ/1wAfu3C+lmMQ7NqzsDnAXWsvv7VLEH91zIAwMzXknPIOp38EeucJ21IrqXd+0Q+vYph1jNBYUjsF4c9OnKx1wmupopItdpSFvEBi4ynLGy3TTtjlyG1ww7FxoS19Ym8OiOMAYlU13Di1ONOnUTSlFuY1KBcYVsgX6inquyH0QsnfKPxwqnROFQvqIitN30nGwtd/wzJqYtj09SKe4jwdtHsh+l8mRK0XTWbiD+9lwUnZpeApHMTiGCQbi25Z2s+N2GHM3GNk4KE0ENEWnhujNlESD1S70kVU3S/SmGXI9tvGlo2XbX3Dew==;CPqb54lKSdLpEPKpOU8b8A=="
 ---

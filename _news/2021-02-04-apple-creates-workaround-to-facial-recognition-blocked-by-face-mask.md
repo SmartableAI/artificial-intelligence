@@ -2,24 +2,24 @@
 category: news
 title: "Apple creates workaround to facial recognition blocked by face mask"
 excerpt: "This has probably happened at least once to an Apple user who is trying to unlock their iPhone with the device’s camera. The phone just can’t figure out you are you while you’re wearing a face mask. Jumping through the hoops of trying the camera,"
-publishedDateTime: 2021-02-03T19:02:00Z
-originalUrl: "https://www.wsbtv.com/news/trending/apple-creates-workaround-facial-recognition-blocked-by-face-mask/F7GQKNQQ35C3DCUKS3MJMBR5VQ/"
-webUrl: "https://www.wsbtv.com/news/trending/apple-creates-workaround-facial-recognition-blocked-by-face-mask/F7GQKNQQ35C3DCUKS3MJMBR5VQ/"
+publishedDateTime: 2021-02-03T18:02:00Z
+originalUrl: "https://www.wsoctv.com/news/trending/apple-creates-workaround-facial-recognition-blocked-by-face-mask/F7GQKNQQ35C3DCUKS3MJMBR5VQ/"
+webUrl: "https://www.wsoctv.com/news/trending/apple-creates-workaround-facial-recognition-blocked-by-face-mask/F7GQKNQQ35C3DCUKS3MJMBR5VQ/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: WSB-TV
-  domain: wsbtv.com
+  name: WSOC-TV
+  domain: wsoctv.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.wsbtv.com/resizer/CBVb4qLwlF6YmcjIZ6eoh_TT_2k=/1200x628/d1hfln2sfez66z.cloudfront.net/02-03-2021/t_8fc4e0349f8b49209d662ee18ce01ca7_name_thumb.jpg"
+  - url: "https://www.wsoctv.com/resizer/CBVb4qLwlF6YmcjIZ6eoh_TT_2k=/1200x628/d1hfln2sfez66z.cloudfront.net/02-03-2021/t_8fc4e0349f8b49209d662ee18ce01ca7_name_thumb.jpg"
     width: 1200
     height: 628
     isCached: true
@@ -69,6 +69,6 @@ related:
         height: 628
         isCached: true
 
-secured: "8oQ8CS4EpxJpN0TDfn5+Oh8fsZSc2ZAx1ichNcGSly/4VCPzCPRH+D5d8fMCvA5E51rnZaJ5po6x0s0sgrR80Dht1+yBklX8Mdua+Z3cCKIFFwTRBujNYK83yo0AnEkdmm2maWhgCORLSHIjm+I3dOJ91FEUzISNOY+Ui3uAdQSSbLwe+4S6seAZufsxy3yWc/+iWb0oi6ITp8cQuqOHp0d2dRfO0CDghHCl+OzrtVi8tirdayV+6vxpNTQ/XRTF1yfIEAoEWVfReEgNWkGga1pO13cVfREIhJegGOlPP/P2Tr/iTZVXv+ctJHGiPZKs68u/K/YkO/JVJx5graDB6ASU3TgbJvjS9WyF8jIDzeM=;92bQsKxoA0eHFFK3cNfQRw=="
+secured: "QGfZCpskhiQ6skXm0itIlTvIT39KAnQygMfrXml7WA7fZ1Whm9ilcwQ1NZqRW0q0/+L6Olk7j6FY/o63eVLGZ2GKJz8cZC4s7xmeewBqiS2muPCM0vFi6u+CqmeRpSYO6LoCZFRH8CLaYFAp8eMB7n8gDW16vqDY2r9pkuyTGtoooA7dU0McVjGXn5eboFlCpzzSYQw1UGYhQjffykaurGuLfnsWnRso0ZdPyaF9itiDKvDK55tPsHl/tZfLT9+F47CH4CJFT2TVPL18f5/cVcq/7Ay1rVy+iXb6BA4/ULyasVTmlVkjdVbY5JDGt1Dcly2e4IspmXXgfMprZPzMlMB5AqT3swe8FXAatYXgt6Y=;Wx3ozGumKgqZUQBYQjYRGg=="
 ---
 

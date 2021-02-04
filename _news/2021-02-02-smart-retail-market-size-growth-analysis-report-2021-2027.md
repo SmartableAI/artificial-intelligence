@@ -21,19 +21,33 @@ topics:
   - AI
 
 related:
-  - title: "Natural Language Processing (NLP) Market Size Estimated to Reach USD 47,147 Million By 2027, According to Facts & Factors"
-    excerpt: "\"According to the research study, the global Natural Language Processing (NLP) Market was estimated at USD 12,748 Million in 2018 and is expected to reach USD 47,147 Million by 2027. The global Natural Language Processing (NLP) Market is expected to grow at a compound annual growth rate (CAGR) of 15."
-    publishedDateTime: 2021-02-01T16:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-size-estimated-to-reach-usd-47147-million-by-2027-according-to-facts-factors-2021-02-01"
+  - title: "Artificial Intelligence in Manufacturing Market: Size, Industry Outlook By Drivers, Restraints And 2021-2023"
+    excerpt: "Market Analysis: AI in manufacturing market is estimated to be $330.5 million in 2017 and is expected to reach $4,012.5 million by 2023, growing at a CAGR of 51.6% during the forecast period 2017-2023."
+    publishedDateTime: 2021-02-04T13:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-size-industry-outlook-by-drivers-restraints-and-2021-2023-2021-02-04"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 59
+    quality: 63
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "2021 State of Marketing AI Report"
+    excerpt: "The State of Marketing AI from Marketing AI Institute and Drift provides benchmarks on AI in marketing and the future of marketing AI. Get the FREE report."
+    publishedDateTime: 2021-02-02T13:01:00Z
+    webUrl: "https://www.drift.com/insider/learn/books-reports/state-of-marketing-ai/"
+    type: article
+    provider:
+      name: Drift
+      domain: drift.com
+    quality: 58
+    images:
+      - url: "https://www.drift.com/wp-content/uploads/2021/02/StateOfMarketingAI-unfurl.jpg"
+        width: 1200
+        height: 627
         isCached: true
   - title: "3d Facial Recognition Market According to latest research on focusing on Leading Manufacturers"
     excerpt: "Facial Recognition Market Report Contain Size Analysis, Competitive Landscape, Revenue Status, Future Opportunities, Regional Analysis (Latin America, North America, Asia Specific, Europe, Middle East ) and Demand By Top Key Players \"Market Overview: Global 3D Facial Recognition Market is valued approximately at USD XXX billion in 2018 and is anticipated to grow with a healthy growth rate of more than XX % over the forecast period 2019-2026."
@@ -49,37 +63,73 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing (NLP) Market Size Estimated to Reach USD 47,147 Million By 2027, According to Facts & Factors"
-    excerpt: "Facts and Factors have published a new research report titled \"Natural Language Processing (NLP) Market Size &"
-    publishedDateTime: 2021-02-01T07:49:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/02/g19413090/natural-language-processing-nlp-market-size-estimated-to-reach-usd-47-147-million-by-2027-accordin"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19413090"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19413090"
+  - title: "Artificial Intelligence Market: Size, Share, Outlook, and Global Opportunity Analysis, 2021-2026"
+    excerpt: "Wiseguyreports.Com Adds \"Artificial Intelligence -Market Demand, Growth, Opportunities and Analysis Of Top Key Player Forecast To 2023\" To Its Research Database Artificial Intelligence is one of the fastest growing areas of computer science,"
+    publishedDateTime: 2021-02-04T01:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-share-outlook-and-global-opportunity-analysis-2021-2026-2021-02-03"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 29
-  - title: "Market Size of AI in Agriculture is Projected to Reach USD 2,400 Million by 2026, According to Facts & Factors"
-    excerpt: "Facts and Factors have published a new research report titled \"AI in Agriculture Market By Technology (Machine"
-    publishedDateTime: 2021-02-02T12:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/02/g19437667/market-size-of-ai-in-agriculture-is-projected-to-reach-usd-2-400-million-by-2026-according-to-fact"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19437667"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19437667"
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Computer Vision Market 2020 Manufacturer Analysis, Technology Advancements, Industry Scope and Forecast to 2025"
+    excerpt: "MarketsandResearch.biz has added a new report Global Computer Vision Market 2020 by Company, Type and Application, Forecast to 2025 that contains aggregate information of the market’s current situation and future prospects."
+    publishedDateTime: 2021-02-03T11:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-computer-vision-market-2020-manufacturer-analysis-technology-advancements-industry-scope-and-forecast-to-2025-2021-02-02"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 19
-  - title: "Artificial Intelligence in Diagnostics Market is Estimated to Achieve CAGR of 33.2% By 2027"
-    excerpt: "The global artificial intelligence in Diagnostics market is expected to grow at a CAGR of 33.2% during the forecast period 2020 - 2027. According to the report titled ‘Artificial Intelligence in Diagnostics Market Size study,"
-    publishedDateTime: 2021-02-04T07:06:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/137470/artificial-intelligence-in-diagnostics-market-is/"
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Computer Vision Market 2021 Global Trends, Market Share, Industry Size, Growth, Opportunities, and Market Forecast to 2027"
+    excerpt: "New Study Reports \"Computer Vision Market 2021 Global Market Opportunities, Challenges, Strategies and Forecasts 2027\" has been Added on WiseGuyReports. This report provides in depth study of \"Computer Vision Market\" using SWOT analysis i."
+    publishedDateTime: 2021-02-02T20:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2021-global-trends-market-share-industry-size-growth-opportunities-and-market-forecast-to-2027-2021-02-02"
     type: article
     provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 7
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Natural Language Processing in Healthcare and Life Sciences Market 2021 Growth, COVID Impact, Trends Analysis Report 2027"
+    excerpt: "The global Natural Language Processing NLP in healthcare and life sciences market size to grow from USD 1 5 billion in 2020 to USD 3 7 billion by 2025 at a Compound Annual Growth Rate CAGR of 20 5 during"
+    publishedDateTime: 2021-02-04T12:44:00Z
+    webUrl: "https://www.openpr.com/news/2236397/natural-language-processing-in-healthcare-and-life-sciences"
+    ampWebUrl: "https://www.openpr.com/amp/2236397/natural-language-processing-in-healthcare-and-life-sciences"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2236397/natural-language-processing-in-healthcare-and-life-sciences"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 31
+  - title: "Speech and Voice Recognition Market Revenue, Industry Growing Demand, Size, Share, Business Opportunities, Top Companies, Regional Outlook 2027"
+    excerpt: "Global Speech and Voice Recognition Market is valued approximately at USD 12.3 Billion in 2019 and is anticipated to"
+    publishedDateTime: 2021-02-03T21:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-revenue-industry-growing-demand-size-share-business-opportunities-top-companies-regional-outlook-2027-2021-02-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 18
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "r0eK11qWNXLd66Mhe0VooEiyemdF2Yj5YKotj58bU3IcPJKuPvdGpssJsd3ErVgIF54xKYKiETza8BKHOANlVkVnpX+GycBs7GDQ7vUO8VJv6UC0uWmSBzIH4UZww69+WQ2zf3pgmPi1A6Fnrza2Pf84quV1dIDGW3xk9WKwNXPIE0yg1IX72GkNy0IA5TNfXpARc8CoQNFhVN5qqky5yjSSsH25J0SilZR7bDmbiRvHUQPbOUCgf0UEksi6RM6jIKT8HQDkXoQR2g0XEjg8BdNAxLjj1lV0isUAGOjUBHEPxM1s7wJmj/bTYYz8Us0waY2zXHZW6i7g5uXl4e10mQekYBPd25Q5g7obM1XtbyA=;ZO7NSOVoVoRxWAXi/2JCJw=="
 ---

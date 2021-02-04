@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Machine-learning program imagines a protein's many possible structures"
+    excerpt: "Thanks to a new machine-learning algorithm, scientists can now anticipate and recognize a protein's varied structural iterations."
+    publishedDateTime: 2021-02-04T22:29:00Z
+    webUrl: "https://www.upi.com/Science_News/2021/02/04/Machine-learning-program-imagines-a-proteins-many-possible-structures/4831612466430/"
+    ampWebUrl: "https://www.upi.com/amp/Science_News/2021/02/04/Machine-learning-program-imagines-a-proteins-many-possible-structures/4831612466430/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2021/02/04/Machine-learning-program-imagines-a-proteins-many-possible-structures/4831612466430/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 44
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/i/4831612466430/2021/1/16124689865191/v1.5/Machine-learning-program-imagines-a-proteins-many-possible-structures.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Extraction of protein dynamics information from cryo-EM maps using deep learning"
     excerpt: "Cryo-electron microscopy (cryo-EM) can be used to determine the three-dimensional structure of proteins at atomic-scale resolution. It is challenging to observe the dynamics of proteins using cryo-EM because of their large sizes and complex structural assemblies."
     publishedDateTime: 2021-02-04T17:01:00Z

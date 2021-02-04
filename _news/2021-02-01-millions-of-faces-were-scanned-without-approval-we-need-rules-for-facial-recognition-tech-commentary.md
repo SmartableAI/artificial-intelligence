@@ -69,6 +69,20 @@ related:
         width: 1020
         height: 574
         isCached: true
+  - title: "Clearview AI Raises Disquiet at Privacy Regulators"
+    excerpt: "In Europe, North America, the U.K. and Australia, the facial-recognition company is looking down investigations, lawsuits and reprimands, and adjusting accordingly."
+    publishedDateTime: 2021-02-04T22:15:00Z
+    webUrl: "https://www.wsj.com/articles/clearview-ai-raises-disquiet-at-privacy-regulators-11612473878"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-295201/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Clearview AI violated privacy rights of Canadians with facial recognition tech, say privacy commissioners"
     excerpt: "All four of Canada's privacy commissioners have denounced the controversial facial recognition company Clearview AI."
     publishedDateTime: 2021-02-03T16:55:00Z

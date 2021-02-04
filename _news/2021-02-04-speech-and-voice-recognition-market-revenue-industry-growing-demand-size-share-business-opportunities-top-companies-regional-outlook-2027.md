@@ -29,10 +29,52 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) In Fintech Market Qualitative Insights on Application and Drivers & Growth Opportunity Analysis Report"
-    excerpt: "In Fintech Market Estimation, Global Share, Industry Outlook, Price Trend, Growth Opportunity and Top Regional Forecast (Latin America, North America, Asia Specific, Europe, Middle East ) \" Market Overview: Global Artificial Intelligence (AI) in Fintech Market is valued approximately USD 2."
-    publishedDateTime: 2021-02-01T13:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-qualitative-insights-on-application-and-drivers-growth-opportunity-analysis-report-2021-02-01"
+  - title: "Artificial Intelligence in Manufacturing Market: Size, Industry Outlook By Drivers, Restraints And 2021-2023"
+    excerpt: "Market Analysis: AI in manufacturing market is estimated to be $330.5 million in 2017 and is expected to reach $4,012.5 million by 2023, growing at a CAGR of 51.6% during the forecast period 2017-2023."
+    publishedDateTime: 2021-02-04T13:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-size-industry-outlook-by-drivers-restraints-and-2021-2023-2021-02-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "2021 State of Marketing AI Report"
+    excerpt: "The State of Marketing AI from Marketing AI Institute and Drift provides benchmarks on AI in marketing and the future of marketing AI. Get the FREE report."
+    publishedDateTime: 2021-02-02T13:01:00Z
+    webUrl: "https://www.drift.com/insider/learn/books-reports/state-of-marketing-ai/"
+    type: article
+    provider:
+      name: Drift
+      domain: drift.com
+    quality: 58
+    images:
+      - url: "https://www.drift.com/wp-content/uploads/2021/02/StateOfMarketingAI-unfurl.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "3d Facial Recognition Market According to latest research on focusing on Leading Manufacturers"
+    excerpt: "Facial Recognition Market Report Contain Size Analysis, Competitive Landscape, Revenue Status, Future Opportunities, Regional Analysis (Latin America, North America, Asia Specific, Europe, Middle East ) and Demand By Top Key Players \"Market Overview: Global 3D Facial Recognition Market is valued approximately at USD XXX billion in 2018 and is anticipated to grow with a healthy growth rate of more than XX % over the forecast period 2019-2026."
+    publishedDateTime: 2021-02-01T13:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-market-according-to-latest-research-on-focusing-on-leading-manufacturers-2021-02-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Market: Size, Share, Outlook, and Global Opportunity Analysis, 2021-2026"
+    excerpt: "Wiseguyreports.Com Adds \"Artificial Intelligence -Market Demand, Growth, Opportunities and Analysis Of Top Key Player Forecast To 2023\" To Its Research Database Artificial Intelligence is one of the fastest growing areas of computer science,"
+    publishedDateTime: 2021-02-04T01:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-share-outlook-and-global-opportunity-analysis-2021-2026-2021-02-03"
     type: article
     provider:
       name: MarketWatch
@@ -43,50 +85,56 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "7 FinTech Trends to Keep an Eye on in 2021"
-    excerpt: "As advancements in technology are on the rise, it seems inevitable that digitalization and innovation will change the world as we know it. And this is c"
-    publishedDateTime: 2021-02-04T07:19:00Z
-    webUrl: "https://www.albawaba.com/business/7-fintech-trends-keep-eye-2021"
-    ampWebUrl: "https://www.albawaba.com/amp/business/7-fintech-trends-keep-eye-2021"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/7-fintech-trends-keep-eye-2021"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 44
-    images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/im_new/Sama%20al%20Kurdi/7FinTechTrends-shutterstock-03Feb21.jpg?itok=dgX8RVJ2"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "AI-Based Fever Detection Camera Market Share, Growth Insight, Size, Competitive Analysis, Regional, And Global Forecast To 2027"
-    excerpt: "How will the AI-based fever detection cameras help in battling COVID-19? Which region is likely to generate the highest revenue in the near future? Which segment would procure the largest share? What are the restraining factors of the AI-Based Fever Detection Camera Market?"
-    publishedDateTime: 2021-02-01T13:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-based-fever-detection-camera-market-share-growth-insight-size-competitive-analysis-regional-and-global-forecast-to-2027-2021-02-01"
+  - title: "Global Computer Vision Market 2020 Manufacturer Analysis, Technology Advancements, Industry Scope and Forecast to 2025"
+    excerpt: "MarketsandResearch.biz has added a new report Global Computer Vision Market 2020 by Company, Type and Application, Forecast to 2025 that contains aggregate information of the market’s current situation and future prospects."
+    publishedDateTime: 2021-02-03T11:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-computer-vision-market-2020-manufacturer-analysis-technology-advancements-industry-scope-and-forecast-to-2025-2021-02-02"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 39
+    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "United Fintech Enters the Market Data and RegTech Space with TTMzero Acquisition"
-    excerpt: "United Fintech has entered the Market Data & RegTech space with the acquisition of German fintech, TTMzero. United Fintech has taken a 25% stake in the market leading firm, with the intention of increasing to 80% over the next three years."
-    publishedDateTime: 2021-02-04T10:02:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-new-york-europe-new-york-city-7b404de2dd2f455587e5b5f4eb5704f0"
+  - title: "Computer Vision Market 2021 Global Trends, Market Share, Industry Size, Growth, Opportunities, and Market Forecast to 2027"
+    excerpt: "New Study Reports \"Computer Vision Market 2021 Global Market Opportunities, Challenges, Strategies and Forecasts 2027\" has been Added on WiseGuyReports. This report provides in depth study of \"Computer Vision Market\" using SWOT analysis i."
+    publishedDateTime: 2021-02-02T20:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2021-global-trends-market-share-industry-size-growth-opportunities-and-market-forecast-to-2027-2021-02-02"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 19
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Smart Retail Market Size & Growth Analysis Report, 2021-2027"
+    excerpt: "The global smart retail market is expected to grow from 21 6 billion in 2020 to 62 5 billion in 2025 It is growing at a 23 CAGR The key factors driving the growth of this market are the increased"
+    publishedDateTime: 2021-02-02T08:25:00Z
+    webUrl: "https://www.openpr.com/news/2234587/smart-retail-market-size-growth-analysis-report-2021-2027"
+    ampWebUrl: "https://www.openpr.com/amp/2234587/smart-retail-market-size-growth-analysis-report-2021-2027"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2234587/smart-retail-market-size-growth-analysis-report-2021-2027"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 39
+  - title: "Natural Language Processing in Healthcare and Life Sciences Market 2021 Growth, COVID Impact, Trends Analysis Report 2027"
+    excerpt: "The global Natural Language Processing NLP in healthcare and life sciences market size to grow from USD 1 5 billion in 2020 to USD 3 7 billion by 2025 at a Compound Annual Growth Rate CAGR of 20 5 during"
+    publishedDateTime: 2021-02-04T12:44:00Z
+    webUrl: "https://www.openpr.com/news/2236397/natural-language-processing-in-healthcare-and-life-sciences"
+    ampWebUrl: "https://www.openpr.com/amp/2236397/natural-language-processing-in-healthcare-and-life-sciences"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2236397/natural-language-processing-in-healthcare-and-life-sciences"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 31
 
 secured: "/ya7H6fcrfc7bgVaRipwvz9wpXW9Dtavc1kN52AI1Y26CBKuYJXtFCK0W0wst2mAufpujDBPF8KoJDDDreSkStPOy6BCbJR5H0vhfzKWTby9MZa+Mi/zy8Q/nN6QNlqDqXWuvP5CLG0NiG2C6d8nvHaGKJQC8V8jvQO6LoEtUqJOWG3hm28Gabrxs4ouWl9/Lr9NQaTtOEav3m/9lgPxmo5dSMBkm4960XCo3O6GdKnxu99qoEedveOfOXxi7DHiUrbsG2INSaBzFvZTlZ/exGeIGOzzjdex1RMd1ESk43YOmc3rQlC8qeTTwFG7tsSLKVUd37WX29mE2bWk4RsBUQFVfXRjRnnOR5tBji9zhJo=;UleE7Tai5/PzB/yTHzMfJQ=="
 ---

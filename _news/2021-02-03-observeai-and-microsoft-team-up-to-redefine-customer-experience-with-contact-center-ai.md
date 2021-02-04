@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
-excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance"
-publishedDateTime: 2021-02-02T22:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
-webUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
+excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
+publishedDateTime: 2021-02-03T08:22:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
+webUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
 type: article
-quality: 26
+quality: 46
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Microsoft's cutting-edge machine-learning tool moves from the lab to the mainstream"
@@ -196,6 +202,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Microsoft Says It's Time to Attack Your Machine-Learning Models"
+    excerpt: "With access to some training data, Microsoft's red team recreated a machine-learning system and found sequences of requests that resulted in a denial-of-service."
+    publishedDateTime: 2021-02-04T22:13:00Z
+    webUrl: "https://www.darkreading.com/vulnerabilities---threats/advanced-threats/microsoft-says-its-time-to-attack-your-machine-learning-models/d/d-id/1340072"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 41
+    images:
+      - url: "https://img.deusm.com/darkreading/Jan21_DR_cartoon.jpg"
+        width: 800
+        height: 637
+        isCached: true
   - title: "Microsoft’s Custom Neural Voice technology goes out of preview"
     excerpt: "Microsoft has announced that its text-to-speech AI “Custom Neural Voice” has hit general availability. The technology enables developers to create personalized voices using their audio data and"
     publishedDateTime: 2021-02-04T16:31:00Z
@@ -211,6 +231,6 @@ related:
         height: 768
         isCached: true
 
-secured: "0CxmAuZhM0trthpf6UjJJyuD/XTd6X/JT3fOfRcwLj+3fjtz/xaXK+t2yjJanRCWxR+1fVqMgX2oLUy3aMEBosCmQEfL+2MESBwEhUv+ETnhmdvyuqwmVFCMSmdMf7GcNm6MpxLQIE3KewC69SoU8wcyy+iZsMB1b5A6hcuCXqTw2/eR4kaMlBw4iHKu5Rzk6r9hpW8bn5RdHBeBdj1CoGZifcP5Dgvdejd1TvsWmVF/X+3+BXeGgjG1gCfez0ojn7LtBp6uWPZfXlJFZBX4NC1swjSROWjfGvXuEDFYrIvKQwxn+28HYThB6kDYl4euqfIZAcSFqh2K77nqKa1P5HZega/XSFB6gAf2mbDMliQ=;GETEabBblmehjKuFOdVaHw=="
+secured: "V/Ej3cdHtQqm1QRlWjRSngI5P6d2AuoZi9hNLFESchaEQVfJap+56+MxLbi2D9K7KmvtXlIuxw7MF1KTuhk6hWxAd6kFz+hjSgM5N7RlODlt7TQpRk1pL809YXGuiWK9bos++nHto6k1DK2mpOGHOEpzi9qYaXgBYMISIhqGKBWXA6c+3FqcYvw8N3L/SFJlX+vpB66kj/h0CN3RDzuWq+251cszROaFDAAUfYvjSbHjmB2wZfPaCIx76dODYNxxsANTpkUL9Jv211Vf5rmWQxuKfZOpizb6q0VH+gPjU3EiFVa98GwQsuUSEGNiNFXokhvN8jOWQ7nPQJGoQ57MBcDuLf2klZi6gR2B0jHY8Xk=;9Qv2tykKW3ik8VUnrGKVDw=="
 ---
 

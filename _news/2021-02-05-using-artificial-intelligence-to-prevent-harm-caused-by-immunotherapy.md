@@ -1,28 +1,25 @@
 ---
 category: news
 title: "Using Artificial Intelligence to prevent harm caused by immunotherapy"
-excerpt: "Until recently, researchers and oncologists had placed these lung cancer patients into two broad categories: those who would benefit from immunotherapy, and those who likely would not. Now, researchers at Case Western Reserve University,"
-publishedDateTime: 2021-02-04T20:57:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2021-02/cwru-uai020421.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2021-02/cwru-uai020421.php"
+excerpt: "Researchers at Case Western Reserve University, using artificial intelligence (AI) to analyze simple tissue scans, say they have discovered biomarkers that could tell doctors which lung cancer patients might actually get worse from immunotherapy."
+publishedDateTime: 2021-02-04T21:45:00Z
+originalUrl: "https://medicalxpress.com/news/2021-02-artificial-intelligence-immunotherapy.html"
+webUrl: "https://medicalxpress.com/news/2021-02-artificial-intelligence-immunotherapy.html"
+ampWebUrl: "https://medicalxpress.com/news/2021-02-artificial-intelligence-immunotherapy.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-02-artificial-intelligence-immunotherapy.amp"
 type: article
-quality: 37
-heat: 37
+quality: 54
+heat: 54
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
+  - AI in Healthcare
   - AI
 
-images:
-  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-    width: 1200
-    height: 675
-    isCached: true
-
-secured: "EUElSmOeqejFscjVB3X/hwLqsS8zSyzT2Kn87uZhis+gi60gaSF4iRSdlwiRUeYbXXKzCkf1K2mzp8WjwIUSDvQFGsMaa8G7z5me+Vgi738sWnI31Wfx5ZHA67QTSTgP65bi0W79P10x1CLoCAiBqIkXDNWn9jk4n+iYXvcapWlI92stWnLSs62Xe1V0FW7HpADgOr7sRnqpgML55UIhehPWnNA4gMz2JAFASk/Xuu6/EvzByExFROTfk1TKsDTIj4gMh1wbSy5YNZqkCxKfdWjjKnHJ7VkG2S7fQxeH1jyf4fUNslPWdwQ0g3CPiNdHq/Gl/tbKuwXQCymLqgDRObnA7ElW/WmAyQFA4OapL9I=;YsETR6aYodC4EWhleMCtUA=="
+secured: "ddp4oCfHLCLckiGrZCGeVuOCfWqUessasjaTGP5R8DdvRI+5QsoLuop9v1cGixuhT0JYRFLecN8EBmPq+1jQE2Xos76FRmoq1lxz9NbdfOXRjXgufWbaEe8EYFhneW8UjXrjkvd0arRzQLPxAyuKChzk5qv4n0nqV0GJXDhd9Cn5PuMcQLJKuCbAQIqzWOuGYJGzIvNXEl/35RjeU9Rqre9IfYLLut+bh55TB89crjw3lX5RJDbMBxjDDzyHaFrJDUU37kVn0Occ9dj9EBI4K24HICWH8b+76wtCP+Z/akjOV/vX7C4BV4nkSf+X5aLXolenI0A2XUFIWcldAWsM/c/gwSQ9AhOROTfUOtmK50k=;r8AA6E+k3W+dXyzDayWTTw=="
 ---
 

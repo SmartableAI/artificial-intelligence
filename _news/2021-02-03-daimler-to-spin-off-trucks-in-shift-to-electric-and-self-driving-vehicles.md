@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/02/03/daimler-to-spin-off-trucks-in-sh
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/02/03/daimler-to-spin-off-trucks-in-shift-to-electric-and-self-driving-vehicles.html"
 type: article
 quality: 88
-heat: 128
+heat: 148
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "UPDATE 1-Daimler to spin off trucks in shift to electric, self-driving vehicles"
+    excerpt: "German carmaker Daimler plans to spin-off Daimler Truck, the world's largest truck and bus maker, to allow it to focus on zero-emission vehicles and self-driving technologies."
+    publishedDateTime: 2021-02-03T21:00:00Z
+    webUrl: "https://www.reuters.com/article/daimler-trucks-divestiture-idUSL8N2K95JQ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A329T"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A329T"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 85
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210203&t=2&i=1550192910&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH121KT"
+        width: 824
+        height: 545
+        isCached: true
   - title: "Daimler to spin off trucks in shift to electric, self-driving vehicles"
     excerpt: "German carmaker Daimler plans to spin-off Daimler Truck, the world's largest truck and bus maker, to allow it to focus on zero-emission vehicles and self-driving technologies. Feb 3 (Reuters) - German carmaker Daimler plans to spin-off Daimler Truck,"
     publishedDateTime: 2021-02-03T16:00:00Z
@@ -53,6 +69,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 66
+  - title: "Ford boosts investment in electric and self-driving vehicles to $29 billion over five years,"
+    excerpt: "Ford on Thursday said it will invest $29 billion in electric and autonomous vehicles, even as it posted a fourth-quarter net loss of $2.8 billion."
+    publishedDateTime: 2021-02-04T21:42:00Z
+    webUrl: "https://www.businessinsider.com/ford-boosts-investment-plan-for-evs-and-self-driving-vehicles-reports-loss-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/ford-boosts-investment-plan-for-evs-and-self-driving-vehicles-reports-loss-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ford-boosts-investment-plan-for-evs-and-self-driving-vehicles-reports-loss-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
+    images:
+      - url: "https://i.insider.com/601c68a119cbd800188afd52?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "The next self-driving vehicle"
     excerpt: "While self-driving cars get all the coverage, autonomous tractors might actually be closer to reality and even more practical in global terms, says a report in Protocol. But what do farmers and industry experts think?"
     publishedDateTime: 2021-02-02T06:03:00Z
