@@ -83,6 +83,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Machine Learning to Bring a Transformation in Software Testing"
+    excerpt: "Automated testing has emerged as one of the most relevant technologies for scaling DevOps, businesses are spending a lot of time and effort to develop end-to-end software delivery pipelines, and containers and their ecosystem are keeping up with their early promise."
+    publishedDateTime: 2021-02-04T11:19:00Z
+    webUrl: "https://www.cioapplications.com/news/machine-learning-to-bring-a-transformation-in-software-testing-nid-7199.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 39
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/hvhlh450.jpg"
+        width: 450
+        height: 308
+        isCached: true
 
 secured: "tcybT+mONVT49kh0d1N0ZWH4fBGk6cUPpHTDP22YDay5+Lqx+D8zNCmZAwwoGK/nq7lkkm5ySLHpLT2SN27tbca6eELCpR5xJW82TRE4OtSDPOfQfPpA6rz+L1HBJwsAHAi3CEt48bsqPMhREB2CIm0DEPNKFtLaiTkvccDQ38aAgpzvP1hyv7O1gXAEvnAf0cEZdlswBS2q6nIgyVrKmq5QZAT9Kld1192mnPj+JcOg0mmD8mqCgfo1ChH76e5MJlv1rEiPodm16YAOhQVd3xlLgNHUL3bhwM/PCW4hdyZblgZ2pgaMl8w4yKkBq2hHl3wuGDYM92g7+AmIjFGAZUByr41j8NggWaBU1uBg78E=;pzBV1eVNkTVADI8eXkNgrQ=="
 ---

@@ -156,6 +156,20 @@ related:
         width: 1000
         height: 704
         isCached: true
+  - title: "Clearview Facial-Recognition Technology Ruled Illegal in Canada"
+    excerpt: "The company’s controversial practice of collecting and selling billions of faceprints was dealt a heavy blow by the Privacy Commissioner that could set a precedent in other legal challenges."
+    publishedDateTime: 2021-02-04T12:52:00Z
+    webUrl: "https://threatpost.com/clearview-facial-recognition-canada/163650/"
+    type: article
+    provider:
+      name: Threat Post
+      domain: threatpost.com
+    quality: 24
+    images:
+      - url: "https://media.threatpost.com/wp-content/uploads/sites/103/2018/11/12101942/Facial-Recognition-2.jpg"
+        width: 750
+        height: 499
+        isCached: true
   - title: "‘What Clearview does is mass surveillance and it is illegal’: Privacy watchdog slams facial recognition tech used by RCMP and Toronto police"
     excerpt: "A joint investigation by Canadian privacy regulators has concluded that Clearview AI’s controversial technology represented “the mass identification"
     publishedDateTime: 2021-02-03T17:07:00Z

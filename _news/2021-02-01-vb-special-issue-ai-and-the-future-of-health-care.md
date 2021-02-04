@@ -45,34 +45,6 @@ related:
         width: 1200
         height: 598
         isCached: true
-  - title: "How Medical Technology Companies are Taking Full Advantage of Artificial Intelligence (AI) In Healthcare"
-    excerpt: "However, in time, AI has made its way closer to the user – into software and into Internet of Medical Things (IoMT) endpoints and other medical devices. For example, wearable health monitors such as ECG monitors and blood pressure monitors can collect and analyse data locally,"
-    publishedDateTime: 2021-02-02T14:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/how-medical-technology-companies-are-taking-full-advantage-of-artificial-intelligence-ai-in-healthcare-2021-02-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "How Medical Technology Companies are Taking Full Advantage of Artificial Intelligence (AI) In Healthcare"
-    excerpt: "However, in time, AI has made its way closer to the user - into software and into Internet of Medical Things (IoMT) endpoints and other medical devices. For example, wearable health monitors such as ECG monitors and blood pressure monitors can collect and analyse data locally,"
-    publishedDateTime: 2021-02-03T08:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/how-medical-technology-companies-are-taking-full-advantage-of-artificial-intelligence-ai-in-healthcare-2021-02-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 82
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "The POWER Interview: The Importance of AI and Machine Learning"
     excerpt: "Artificial intelligence (AI) and machine learning (ML) are becoming synonymous with the operation of power generation facilities. The increased"
     publishedDateTime: 2021-01-31T19:28:00Z
@@ -86,20 +58,6 @@ related:
       - url: "https://www.powermag.com/wp-content/uploads/2021/01/screen-shot-2021-01-29-at-9-28-06-am.png"
         width: 885
         height: 596
-        isCached: true
-  - title: "Land a career in AI with these top artificial intelligence jobs in 2021."
-    excerpt: "As AI has taken the center-stage in businesses, the demand for AI professionals is soaring. Here are the top artificial intelligence jobs to apply for in February 2021."
-    publishedDateTime: 2021-02-02T11:24:00Z
-    webUrl: "https://www.analyticsinsight.net/top-artificial-intelligence-jobs-to-apply-in-february-2021/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 53
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/02/Top-Artificial-Intelligence-Jobs-to-Apply-in-February-2021.jpg"
-        width: 900
-        height: 500
         isCached: true
   - title: "Perimeter Medical Imaging AI Announces Acceleration of Expiry Date of Warrants"
     excerpt: "Perimeter Medical Imaging AI, Inc. (TSX-V:PINK)(OTC:PYNKF) (FSE:4PC) (“Perimeter” or the “Company”), a medical technology company driven to transform"

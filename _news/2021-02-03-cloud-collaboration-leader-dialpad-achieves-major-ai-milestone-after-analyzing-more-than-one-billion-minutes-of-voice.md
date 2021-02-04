@@ -2,21 +2,27 @@
 category: news
 title: "Cloud Collaboration Leader Dialpad Achieves Major AI Milestone After Analyzing More Than One Billion Minutes of Voice"
 excerpt: "Dialpad, Inc., the leading AI-powered cloud communications platform, today announced a significant breakthrough regarding its proprietary Voice Intelligence (Vi™) AI technology. Dialpad’s Voice Intelligence combines automated speech recognition (ASR) and natural language processing to deliver real-time business optimization,"
-publishedDateTime: 2021-02-03T08:58:00Z
-originalUrl: "https://www.financialbuzz.com/cloud-collaboration-leader-dialpad-achieves-major-ai-milestone-after-analyzing-more-than-one-billion-minutes-of-voice/"
-webUrl: "https://www.financialbuzz.com/cloud-collaboration-leader-dialpad-achieves-major-ai-milestone-after-analyzing-more-than-one-billion-minutes-of-voice/"
+publishedDateTime: 2021-02-03T08:11:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-software-industry-information-technology-desktop-and-enterprise-application-software-db3a849a91434638bca025005ab1b900"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-software-industry-information-technology-desktop-and-enterprise-application-software-db3a849a91434638bca025005ab1b900"
 type: article
-quality: 0
+quality: 16
 heat: -1
 published: false
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Carecard Launches Artificial Intelligence-Powered Platform to Tackle the $450 Billion Dollar Prescription Market"
@@ -34,6 +40,6 @@ related:
         height: 450
         isCached: true
 
-secured: "4eknWIxslxgeoMet3iQ8M4YmmyHpDwrOgfPl0qb01wxyT29yACYAyG09t9i12X7Bh3T/up1F9SpJDFH0KlixGgxBSWKhMdaC9wCxz50w+iGkXkqdLRfXcUnLkhveu0QUmnbLbK7+t8n/MohFxo+0FfbjvNUmL7KT1FQhlTgVUso7PcG+lOHiJ5qEsNhF+ZQuHSJdHuZ4Ih/1tiLPf7tuoFqTJAAE3c6i2R2gRiPIaz8dEfFY/ggcCHWY4oBcZKYpI6TO3F/Y69zuhOyLenZs7ry31R5OJYy/pdWhZCFljvUCcqZYVEc7a2CCf3CRhwoKu5cvuvGsWFG5fv0VzU/jQOjhkpnE0Lah84EBOhq13zI=;CpZifFRu4Hv2M02zCbMLDA=="
+secured: "nve9jhFs0em5CK39sLR1FrQo5fHZhN5+Tm5aGVCXJkhxwqjVpy5/Q7g5HmPXaU1AHrfHKRZj6rRpaUWth6UcPaF6VvARwTvYt2FT0Cx6yAfOhj+s8hHIotbKTCydkTnA+02CpxqwHSnVDrYlXCngDYLiNXH2hV4lcp1qSX3NwxD6+49wF8i1g58dc/xPyCwOlVpzt4lrXyVfrY8GOZEdz52k2vJZ39hOnS6M5KzKpaXovGLUJTvUsa2rQ9DIY+eJ5eIXM26gvsIYNET3SaPBTVk0+UMgYzU8irotU7zBCYt38iUhavk3H98UxNHqZkJnXKepUAZ5Ug12W42KkeBuXtxPr2lP5Vi+EmaaegheZb8=;/wElgToFx0T/tswmxnp65g=="
 ---
 

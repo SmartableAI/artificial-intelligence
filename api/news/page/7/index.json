@@ -2,6 +2,245 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-01-29-softbanks-son-expects-mass-production-of-driverless-cars-in-2-years.md",
+      "title": "SoftBank's Son expects mass production of driverless cars in 2 years",
+      "excerpt": "Son, who made his name for investing early in startups such as China’s Alibaba Group had said he will continue to take stakes in public companies he thinks are frontrunners in the artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/davos-meeting-son-autonomous-idUSL1N2K41Y9",
+      "originalUrl": "https://www.reuters.com/article/davos-meeting-son-autonomous-idUSL1N2K41Y9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210129&t=2&i=1549571164&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0S194",
+          "width": 829,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2K41Y9",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2K41Y9",
+      "publishedDateTime": "2021-01-29T07:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-south-korean-ai-technology-brings-back-folk-singers-voice.md",
+      "title": "South Korean AI technology brings back folk singer's voice",
+      "excerpt": "Even though South Korean folk rock singer Kim Kwang-seok has been dead for nearly 25 years, his fans will be able to hear him perform a new song cover on Friday thanks to artificial intelligence (AI) technology used to recreate his voice.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-southkorea-ai-voice-recreation-idUSKBN29Y18O",
+      "originalUrl": "https://www.reuters.com/article/us-southkorea-ai-voice-recreation-idUSKBN29Y18O",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29Y18O",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Y18O",
+      "publishedDateTime": "2021-01-29T07:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-10-ways-ai-can-elevate-your-service-and-operations-management.md",
+      "title": "10 Ways AI Can Elevate Your Service And Operations Management",
+      "excerpt": "AI-based insights are the catalyst IT needs to excel at serving internal customers and adapting to the fluid IT environment the pandemic continues to create.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2021/01/29/10-ways-ai-can-elevate-your-service-and-operations-management/",
+      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2021/01/29/10-ways-ai-can-elevate-your-service-and-operations-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60142bfe5fd8ca54afb5321c%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2021/01/29/10-ways-ai-can-elevate-your-service-and-operations-management/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2021/01/29/10-ways-ai-can-elevate-your-service-and-operations-management/amp/",
+      "publishedDateTime": "2021-01-29T07:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-cadeera-is-doing-ai-visual-search-for-home-decor.md",
+      "title": "Cadeera is doing AI visual search for home decor",
+      "excerpt": "In recent years we’ve seen a whole bunch of visual/style fashion-focused search engines cropping up, tailored to helping people find the perfect threads to buy online by applying computer vision and other AI technologies to perform smarter-than-keywords visual search which can easily match",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/01/29/cadeera-is-doing-ai-visual-search-for-home-decor/",
+      "originalUrl": "https://techcrunch.com/2021/01/29/cadeera-is-doing-ai-visual-search-for-home-decor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/01/Screenshot-2021-01-29-at-16.29.23.png?w=1024",
+          "width": 1024,
+          "height": 536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/01/29/cadeera-is-doing-ai-visual-search-for-home-decor/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/29/cadeera-is-doing-ai-visual-search-for-home-decor/amp/",
+      "publishedDateTime": "2021-01-29T07:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-pinecone-emerges-from-stealth-with-10-million-to-accelerate-ai-workloads.md",
+      "title": "Pinecone emerges from stealth with $10 million to accelerate AI workloads",
+      "excerpt": "Pinecone, a startup developing database technology to support AI workloads, emerged from stealth with $10 million in funding.Read MoreRead more",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/pinecone-emerges-from-stealth-with-$10-million-to-accelerate-ai-workloads-9748315",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/pinecone-emerges-from-stealth-with-$10-million-to-accelerate-ai-workloads-9748315",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/pinecone-emerges-from-stealth-with-$10-million-to-accelerate-ai-workloads-9748315",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/pinecone-emerges-from-stealth-with-$10-million-to-accelerate-ai-workloads-9748315",
+      "publishedDateTime": "2021-01-29T07:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-29-its-time-to-use-all-of-twitters-archives-to-teach-ai-about-bias.md",
       "title": "It’s time to use all of Twitter’s archives to teach AI about bias",
       "excerpt": "Microsoft released a chatbot called Tay that fed off people’s replies to it. Within hours, the bot turned racist and the company had to pull it down. This incident remains one of the classic lessons that teach us why it’s a bad idea to train an AI using social media.",
@@ -911,257 +1150,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-ai-holds-the-key-to-even-better-ai.md",
-      "title": "AI holds the key to even better AI",
-      "excerpt": "The task of creating effective deep learning models has become too much of a challenge for humans to tackle alone.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/28/ai-holds-the-key-to-even-better-ai/",
-      "originalUrl": "https://venturebeat.com/2021/01/28/ai-holds-the-key-to-even-better-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/AI.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/28/ai-holds-the-key-to-even-better-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/28/ai-holds-the-key-to-even-better-ai/amp/",
-      "publishedDateTime": "2021-01-28T16:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-facial-recognition-payments-making-a-mark-on-world.md",
-      "title": "Facial recognition payments making a mark on world",
-      "excerpt": "Facial recognition is happening in large parts of China, the US, Spain, Denmark and Nigeria as contactless payments look here to stay",
-      "sourceUrl": null,
-      "webUrl": "https://www.theceomagazine.com/business/innovation-technology/facial-recognition-payments/",
-      "originalUrl": "https://www.theceomagazine.com/business/innovation-technology/facial-recognition-payments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.theceomagazine.net/wp-content/uploads/2021/01/29095154/facial-recognition.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theceomagazine.com/business/innovation-technology/facial-recognition-payments/",
-      "cdnAmpWebUrl": "https://amp-theceomagazine-com.cdn.ampproject.org/c/s/amp.theceomagazine.com/business/innovation-technology/facial-recognition-payments/",
-      "publishedDateTime": "2021-01-28T15:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The CEO Magazine",
-        "domain": "theceomagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-verusen-raises-8-million-to-reconcile-supply-chain-data-using-ai.md",
-      "title": "Verusen raises $8 million to reconcile supply chain data using AI",
-      "excerpt": "Atlanta, Georgia-based Verusen, a startup leveraging AI to build a connected supply chain, today raised $8 million in series A funding co-led by Forte Ventures and Flyover Capital. The company ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/28/verusen-raises-8-million-to-reconcile-supply-chain-data-using-ai/",
-      "originalUrl": "https://venturebeat.com/2021/01/28/verusen-raises-8-million-to-reconcile-supply-chain-data-using-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/28/verusen-raises-8-million-to-reconcile-supply-chain-data-using-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/28/verusen-raises-8-million-to-reconcile-supply-chain-data-using-ai/amp/",
-      "publishedDateTime": "2021-01-28T14:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-the-ethics-of-the-metaverse.md",
-      "title": "The ethics of the metaverse",
-      "excerpt": "Into the Metaverse online event with Hendrik Lesser, CEO of Remote Control Productions, about the ethics of the metaverse, the universe of virtual worlds that are all interconnected, like in novels such as Snow Crash and Ready Player One.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/28/the-ethics-of-the-metaverse/",
-      "originalUrl": "https://venturebeat.com/2021/01/28/the-ethics-of-the-metaverse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/richard-bartle.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 645,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/28/the-ethics-of-the-metaverse/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/28/the-ethics-of-the-metaverse/amp/",
-      "publishedDateTime": "2021-01-28T14:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-managing-your-machine-learning-lifecycle-with-mlflow-and-amazon-sagemaker.md",
-      "title": "Managing your machine learning lifecycle with MLflow and Amazon SageMaker",
-      "excerpt": "With the rapid adoption of machine learning (ML) and MLOps, enterprises want to increase the velocity of ML projects from experimentation to production. During the initial phase of an ML project, data scientists collaborate and share experiment results in order to find a solution to a business need.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/managing-your-machine-learning-lifecycle-with-mlflow-and-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/managing-your-machine-learning-lifecycle-with-mlflow-and-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/05/ML-1367-1.jpg",
-          "width": 800,
-          "height": 301,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-28T13:48:48-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

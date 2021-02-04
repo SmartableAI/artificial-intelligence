@@ -36,6 +36,20 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 84
+  - title: "Data Drought Slows Advance of AI in Cybersecurity"
+    excerpt: "It’s early days, but both government and business want to solidify their cyberwalls with AI. Yet training AI models requires reams of just the right sort of data."
+    publishedDateTime: 2021-02-04T11:01:00Z
+    webUrl: "https://www.wsj.com/articles/data-drought-slows-advance-of-ai-in-cybersecurity-11612434602"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 69
+    images:
+      - url: "https://images.wsj.net/im-294669/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "JbXIjC8EKmOQyA0CLzCsBuiqajLsY7amHOly2RmTVI4wE2IeGJegjE2hsXlI3pl/GjO0iovqsrvSpUVagJgInFzVNdThGCVF4m4spOCVbjIuOT2shnboQDhhhw9wK6R2yJjyFihH2yLFfgYzewuA30nekJuMOon9G6OrQqrknYaDX40VD0jOfPPIJvDDE9xgHbGJUHHytWCLkapwp4JGjbV5OzxL2WeoaIIW/ox3twfQrAcS6vY6y/zfrBkBz2fTt5OH7k71BUNG30ITQ8jmejSmS64vFMFrKLnWAlk/flU+nK3d3OW3ziNOfEI8NkH2VigLyN/2QRBaauoUWjlf1ts7E8vBjvd8Xda05BOei9KeYXbb24Pb0P2BGt7rwesYzXbN4noAg6j0jFvX7RmmrAapUAvEllCwKB+bm132pP8G+pF0vo5U++OFk2UfrGoncRz498qzj2I/Fv4XdxDDtw2QVu5+UUUW/DtV9jH03UUU3p9zNUoCBQThvXF1mVpSI+Dt1wiIClmBAqMkqkjeZg==;+EL34TDx7M6BXevFNc3zWQ=="
 ---

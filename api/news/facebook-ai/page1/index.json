@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-04-artificial-intelligence-helping-to-prevent-disinformation-for-investors.md",
+      "title": "Artificial Intelligence Helping to Prevent Disinformation for Investors",
+      "excerpt": "That’s further proof investors have turned to chat rooms for investing ideas. Unfortunately, not all information gathered in such chat rooms is truthful information. However, with a good deal of rampant disinformation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-helping-to-prevent-disinformation-for-investors-2021-02-04-41974517",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-helping-to-prevent-disinformation-for-investors-2021-02-04-41974517",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-04T04:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-04-ai-chips-in-the-real-world-interoperability-constraints-cost-energy-efficiency-and-models.md",
       "title": "AI chips in the real world: Interoperability, constraints, cost, energy efficiency, and models",
       "excerpt": "The answer to the question of how to make the best of AI hardware may not be solely, or even primarily, related to hardware",
@@ -204,51 +256,6 @@
         "AI in Marketing",
         "AI in Healthcare",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-introducing-the-2021-state-of-marketing-ai-free-report.md",
-      "title": "Introducing the 2021 State of Marketing AI [FREE REPORT]",
-      "excerpt": "AI may seem like a futuristic concept, but you use it dozens, if not hundreds, of times everyday most likely without knowing it. Major brands such Amazon, Facebook, Google, Microsoft,",
-      "sourceUrl": null,
-      "webUrl": "https://www.drift.com/blog/introducing-the-2021-state-of-marketing-ai-free-report/",
-      "originalUrl": "https://www.drift.com/blog/introducing-the-2021-state-of-marketing-ai-free-report/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.drift.com/wp-content/uploads/2021/01/StateOfMarketingAI-INDEX-BLOG.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-02T05:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Drift",
-        "domain": "drift.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Marketing",
-        "Natural Language Processing"
       ]
     },
     {

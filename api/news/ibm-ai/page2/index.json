@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-23-ibm-providing-ai-solutions-to-government.md",
+      "title": "IBM Providing AI Solutions to Government",
+      "excerpt": "including a deeper context of AI in health and human services, agency examples and outcomes achieved via IBM Watson, and IBM’s future plans. IBM Watson Health improves health and human services ...",
+      "sourceUrl": null,
+      "webUrl": "https://fcw.com/whitepapers/2021/01/ibm-watson-providing-ai-solutions-to-government-010121.aspx?tc=page0",
+      "originalUrl": "https://fcw.com/whitepapers/2021/01/ibm-watson-providing-ai-solutions-to-government-010121.aspx?tc=page0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fcw.com/~/media/GIG/FCW/FCWlogo.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-22T19:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Federal Computer Week",
+        "domain": "fcw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-22-cmswires-top-10-information-management-articles-of-2020.md",
       "title": "CMSWire's Top 10 Information Management Articles of 2020",
       "excerpt": "The virtual event saw important announcements in hybrid cloud, edge computing and artificial intelligence ... streamlined IBM line-up of offerings, following the sale of its Watson marketing ...",
@@ -1360,50 +1403,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-ibm-named-a-leader-in-the-2020-idc-marketscape-for-worldwide-advanced-machine-learning-software-platform.md",
-      "title": "IBM Named a Leader in the 2020 IDC MarketScape For Worldwide Advanced Machine Learning Software Platform",
-      "excerpt": "PRNewswire/ -- IBM (NYSE: IBM ) has been named to the Leaders Category in the latest IDC MarketScape: Worldwide Advanced Machine Learning Software Platforms 2020 Vendor Assessment (October 2020, IDC # US45358820).",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/article/technology-business-corporate-news-products-and-services-lung-disease-23cc892460107a1d1430227e43547537",
-      "originalUrl": "https://apnews.com/article/technology-business-corporate-news-products-and-services-lung-disease-23cc892460107a1d1430227e43547537",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-02T06:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

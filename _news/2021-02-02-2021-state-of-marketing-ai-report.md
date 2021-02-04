@@ -6,9 +6,9 @@ publishedDateTime: 2021-02-02T13:01:00Z
 originalUrl: "https://www.drift.com/insider/learn/books-reports/state-of-marketing-ai/"
 webUrl: "https://www.drift.com/insider/learn/books-reports/state-of-marketing-ai/"
 type: article
-quality: 56
-heat: -1
-published: false
+quality: 58
+heat: 88
+published: true
 
 provider:
   name: Drift
@@ -18,6 +18,7 @@ topics:
   - Natural Language Processing
   - AI
   - AI in Marketing
+  - Google AI
 
 images:
   - url: "https://www.drift.com/wp-content/uploads/2021/02/StateOfMarketingAI-unfurl.jpg"
@@ -40,6 +41,20 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Artificial Intelligence Market: Size, Share, Outlook, and Global Opportunity Analysis, 2021-2026"
+    excerpt: "Wiseguyreports.Com Adds \"Artificial Intelligence -Market Demand, Growth, Opportunities and Analysis Of Top Key Player Forecast To 2023\" To Its Research Database Artificial Intelligence is one of the fastest growing areas of computer science,"
+    publishedDateTime: 2021-02-04T01:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-share-outlook-and-global-opportunity-analysis-2021-2026-2021-02-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "New Report Shows Marketers Lack the Education, Training to Effectively Adopt Artificial Intelligence"
     excerpt: "The majority of marketers know artificial intelligence is essential to their success this year. But, lack of education and training is"
     publishedDateTime: 2021-02-02T16:31:00Z
@@ -55,6 +70,6 @@ related:
         height: 315
         isCached: true
 
-secured: "9hVcayKVVmYPPghqpZLVX5TJW9vwrdivPLRrOUmtW1g2jHnuqSrWM/111IWHhO8JrECpxTP6YtfplootC5mXQJqjfgTq7O56shDx3nBC+KHTk1kfXZ7WC/JmQXQaNzJB7kzkcKZwXM02cwz0HQ0dyqyg47LoQk/mArn3tArvhOgeScrqxENBqgau/cWXyrAZNpZCdOYOR5ar84QdKVmFuZfA01oDVXSsTjZ/5s8CBJYzGRcGSH18UFkDy74xOlzladX0PC7r8eZte+QZjG/RiPEhz6PsGEGCuA4fw5W3wYCSLdJ2TDaWoEZNzZt1nF5Xd3TF2eOwHpNJxc/vQfzQIbPOwgzHHvvQMKU3DyAyMyo=;QlpwprEQqzWdwtgS7SZrow=="
+secured: "uHSQj3rkYQiZSDjSNxWSDOzOFm+PFeqQ6tzQT5re3ODIk0PNuF80vGIZJMRNZE6zp4jakjDgak9OVNbqiOXlgbFgudRq2q3BzN/uBPUHO2N4xGnFeXr/cWC4URR1vv9ftaymfDB0lakFH7UOB4bw0h8NsWTKRyetj2yFSV/lyrzyKQAgb2bR7UvJ/aZeFoU0Y+ZDMVK4kzlEdLk5mH/C89kKwU+W6wy8ynMqKAFmX6hYCnlVGWmUZYZ+qxIy6F2OjhAq5VtG73Gct9MAIFUhhm3hDBdamtdNL0RghnulXlpwMl7ANzgWasCDBcfxrufrH8+dsK2XEmUV94xtuQYTq2pgvRKwwxmue8p9wMyuoSMY3EnOJIPAla33upXiiOybRywkapI/AvipKB3MPr+WTDhSnsq+hxWm1oSjocnyMgUO0sZX7S22WfPJ8fLdlau/pulrE0M8rvY7SIH7MEba1+hyKK3kPq5REbIypNVEnR6ljk034AK8T+j3y/WtME6yj+E1A59KRmPKnPcX0lg7gw==;QTixCHKVo9vkq9z6CGc4Hg=="
 ---
 

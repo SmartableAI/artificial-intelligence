@@ -8,8 +8,8 @@ webUrl: "https://www.infoworld.com/article/3604653/infoworlds-2021-technology-of
 ampWebUrl: "https://www.infoworld.com/article/3604653/infoworlds-2021-technology-of-the-year-award-winners.amp.html"
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3604653/infoworlds-2021-technology-of-the-year-award-winners.amp.html"
 type: article
-quality: 74
-heat: 74
+quality: 76
+heat: 76
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://images.idgesg.net/images/article/2021/02/toy-2021-intro-100875981-large.jpg"

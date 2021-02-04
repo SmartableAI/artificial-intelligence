@@ -92,6 +92,22 @@ related:
         width: 512
         height: 341
         isCached: true
+  - title: "From Bugs Bunny to Flo from Progressive, Microsoft's AI tech is being used to create digital voices"
+    excerpt: "Microsoft Azure AI is being used to create realistic voices ranging from fictional characters to chatbots for an insurance company. Microsoft discusses how it's done and why it's important to be careful about how it's used in a recent blog post."
+    publishedDateTime: 2021-02-04T12:19:00Z
+    webUrl: "https://www.windowscentral.com/bugs-bunny-flo-progressive-microsofts-ai-tech-being-used-create-digital-voices"
+    ampWebUrl: "https://www.windowscentral.com/bugs-bunny-flo-progressive-microsofts-ai-tech-being-used-create-digital-voices?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/bugs-bunny-flo-progressive-microsofts-ai-tech-being-used-create-digital-voices?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 60
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/11/microsoft-logo-ignite-2019.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Microsoft Data & AI Day on March 11"
     excerpt: "Microsoft Denmark is proud to present Microsoft Data & AI Day! Within the past few years, artificial intelligence has accelerated the digitization of businesses and societies rapidly. As previous entry barriers have fallen AI has undergone a tremendous democratization – and it is now easier than ever before to get started"
     publishedDateTime: 2021-02-01T14:37:00Z
@@ -120,7 +136,7 @@ related:
   - title: "Observe.AI and Microsoft Team Up on Contact Center AI"
     excerpt: "Observe.AI, a contact center artificial intelligence technology provider, is working with Microsoft to bring automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
     publishedDateTime: 2021-02-02T17:29:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Observe.AI-and-Microsoft-Team-Up-on-Contact-Center-AI-145046.aspx"
+    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=145046"
     type: article
     provider:
       name: Destination CRM
@@ -146,14 +162,19 @@ related:
         height: 314
         isCached: true
   - title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
-    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance"
-    publishedDateTime: 2021-02-02T22:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
+    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
+    publishedDateTime: 2021-02-03T08:22:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 26
+      name: Associated Press
+      domain: apnews.com
+    quality: 46
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "uu5XAIHFDUWul4+b7HGIHQ0tTQUZYlkMvdZggopVmRkbzJDCxGSVeskuE1JNbMwCdKPVMa3gJ0o1EiTF2aNTbF2as/SuS2fumXfHDGTnzTJ017Bs8fZVdaC1ARUhLyWbL7LZPoCFUjLyOsJ5iqFrDp45TVbw1e/POhCsNXAbH/tH74zude/HjhcZ38ckdunWPLjBN5uanfZbFOe0yTHQ+WnQcz2OwMn3ye2O1MLCP/nG0jFkb8S0TuNWZ2st+M+H5346MpHKqfLwZQ6d5pQRNXrBXuxL7Kz3bgWO1qk3+Uh+Rz0euMOXEItxuvwgY8C4FYpOl2pxiRW4uuD0eBWEucLhZ/XfRBSzNRvOzsg/2ZiBHUUBZMaxcoRF0FBY82Ve70tef3E1Y61RgDvjUYNYVcwEPVrOxTVNKoG1AjsYQCiLMtntjiyHC4uq/gsU+1ydHiUTjVWxE6G2FyV3AzEF3+MLPUOVYDOqouh+9cyjvPENUP5Ilr+HsmzzIoOqVdZrH9imw/ttUacBwimeXyMZzw==;Hw1aGAlN0bHlSOBv1Cno6w=="
 ---

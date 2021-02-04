@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nextplatform.com/2021/02/02/why-future-advances-in-ai-ne
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/02/02/why-future-advances-in-ai-need-a-new-architecture/amp/"
 type: article
 quality: 63
-heat: -1
-published: false
+heat: 93
+published: true
 
 provider:
   name: The Next Platform
@@ -29,62 +29,49 @@ images:
     isCached: true
 
 related:
-  - title: "Here’s where AI will advance in 2021"
-    excerpt: "Advances in Transformer structures and GNNs will likely spur advances in domains that haven’t yet opened up to AI techniques and algorithms."
-    publishedDateTime: 2021-01-31T16:46:00Z
-    webUrl: "https://venturebeat.com/2021/01/31/heres-where-ai-will-advance-in-2021/"
-    ampWebUrl: "https://venturebeat.com/2021/01/31/heres-where-ai-will-advance-in-2021/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/31/heres-where-ai-will-advance-in-2021/amp/"
+  - title: "Robust artificial intelligence tools to predict future cancer"
+    excerpt: "Researchers created a risk-assessment algorithm that shows consistent performance across datasets from US, Europe, and Asia. To catch cancer earlier, we"
+    publishedDateTime: 2021-01-31T14:38:00Z
+    webUrl: "https://scienceblog.com/520793/robust-artificial-intelligence-tools-to-predict-future-cancer/"
+    ampWebUrl: "https://scienceblog.com/520793/robust-artificial-intelligence-tools-to-predict-future-cancer/amp/"
+    cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/520793/robust-artificial-intelligence-tools-to-predict-future-cancer/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: ScienceBlog
+      domain: scienceblog.com
+    quality: 57
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/01/AI-eye.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
+      - url: "https://scienceblog.com/wp-content/uploads/2021/01/MIT-Mirai_0-scaled-1.jpg"
+        width: 1350
+        height: 900
         isCached: true
-  - title: "ADVANCE.AI Launches 'Advance Intelligence Group' Parent Brand"
-    excerpt: "ADVANCE.AI, a homegrown AI and big data company in Asia helping to solve digital transformation, fraud prevention, and process automation for enterprise clients, is today formally announcing its corporate parent brand Advance Intelligence Group."
-    publishedDateTime: 2021-02-02T06:10:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/advance-ai-launches-advance-intelligence-group-parent-brand-1030031079"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/advance-ai-launches-advance-intelligence-group-parent-brand-1030031079"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/advance-ai-launches-advance-intelligence-group-parent-brand-1030031079"
+  - title: "SKEMA deploys its first advances in AI"
+    excerpt: "One year after the launch of its strategic plan 2020-2025, SKEMA is pleased to announce several concrete advances especially in"
+    publishedDateTime: 2021-02-02T08:38:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/skema-deploys-its-first-advances-in-ai-836747076.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-  - title: "ADVANCE.AI Launches 'Advance Intelligence Group' Brand"
-    excerpt: "ADVANCE.AI, a homegrown AI and big data company in Asia helping to solve digital transformation, fraud prevention, and process automation for enterprise clients, is today formally announcing its corporate parent brand Advance Intelligence Group."
-    publishedDateTime: 2021-02-03T06:37:00Z
-    webUrl: "https://www.finanzen.ch/nachrichten/aktien/advance-ai-launches-advance-intelligence-group-brand-1030036725"
-    ampWebUrl: "https://www.finanzen.ch/nachrichten/amp/advance-ai-launches-advance-intelligence-group-brand-1030036725"
-    cdnAmpWebUrl: "https://www-finanzen-ch.cdn.ampproject.org/c/s/www.finanzen.ch/nachrichten/amp/advance-ai-launches-advance-intelligence-group-brand-1030036725"
-    type: article
-    provider:
-      name: Finanzen
-      domain: finanzen.ch
-    quality: 59
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
     images:
-      - url: "https://download54.boersestuttgart.mpcnet.de/download/jpg_378/switzerland/66/0/J3AhNK1rmGKbkOIax8ANSTC7yKAOxb6I1RjLc1xH/17118/17118.jpg"
-        width: 377
-        height: 212
+      - url: "https://mma.prnewswire.com/media/1430593/SKEMA_AI_visual.jpg?p=facebook"
+        width: 800
+        height: 419
         isCached: true
-  - title: "What Budget 2021 has in Store for Artificial Intelligence"
-    excerpt: "Budget 2021 measures to deploy deep analytics and Artificial Intelligence to identify the tax evaders and fake billers, use of machine learning, data analytics and artificial intelligence to strengthen the Government’s initiatives."
-    publishedDateTime: 2021-02-03T08:02:00Z
-    webUrl: "https://www.analyticsinsight.net/what-budget-2021-has-in-store-for-artificial-intelligence/"
+  - title: "SKEMA deploys its first advances in AI"
+    excerpt: "With SKEMA AI Institute, AI is being rolled out across all programmes and campuses. A forerunner in 2019 with the opening of an AI research centre in Montreal, SKEMA is gaining momentum with the creation of the SKEMA AI Institute,"
+    publishedDateTime: 2021-02-03T08:00:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-social-affairs-higher-education-artificial-intelligence-education-2939010dc5580529579313dda81e387e"
     type: article
     provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 41
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
     images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/02/What-Budget-2021-has-in-Store-for-Artificial-Intelligence.jpg"
-        width: 900
-        height: 500
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "ChA3YFcFHSIBs5EFaYKIhkRO3CFdJ/9/WyLz3iQDUBC0RMnVa52iWq2LH0iJCTPxf+SejD6T/eqwXiSp5tmHcC5Uwr82VSbZ/rf49ZnspBtniyLT4jp70fkyLC3Z9QJqCP2UNOkZ98CGaJhb9WoRCrhx5CIjhAbnZS1198ftweIp/zLcWMrusNg8FFYIiEz/kkJTQ/EE+M6eUOuxS58i2kSBAzVDJZgkAELtCqDPpzXxZsoKGavVrPa1+MPMVX7Ze4E5j/R7pCoozqptRqFxzsOwSfsmgcMt7mEq//2IMpjOgOun7JnjcFMnm3vayqsI2FMbYM2bVS1ycojCCQ7BTFWtMKXZx4Cld9oPspkVEKxE38NEC9VFeeADHLdZLKsRYt4zyo2zoJu6w0tK+ztrXmAVzgQpKxGbfDirK22pxjTch73gMpBmzIsuUptNAwMytSjxWKSSyoX2kpvT5IfObfOq0v/15zbYPnKy/SamHdkoCk/8uyQA5grz4NL166e8cd5rtl8wmHeVLoYOBO61mg==;Dq/I1IfFra5vRzTtGNZbrg=="

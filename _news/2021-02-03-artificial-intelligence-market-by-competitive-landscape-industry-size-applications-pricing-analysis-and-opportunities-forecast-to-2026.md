@@ -6,7 +6,7 @@ publishedDateTime: 2021-02-03T08:58:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-by-competitive-landscape-industry-size-applications-pricing-analysis-and-opportunities-forecast-to-2026-2021-02-03"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-by-competitive-landscape-industry-size-applications-pricing-analysis-and-opportunities-forecast-to-2026-2021-02-03"
 type: article
-quality: 36
+quality: 38
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - AWS AI
+  - Machine Learning
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -127,6 +128,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Automotive Artificial Intelligence Market Growth, Trends, Industry Analysis and Forecast - 2026"
+    excerpt: "Automotive Artificial Intelligence Ai Market is expected to be valued at USD 782 9 Million in 2017 and is expected to reach USD 10 573 3 Million by 2026 at a CAGR of 38 Artificial intelligence AI is one of"
+    publishedDateTime: 2021-02-04T11:02:00Z
+    webUrl: "https://www.openpr.com/news/2236293/automotive-artificial-intelligence-market-growth-trends"
+    ampWebUrl: "https://www.openpr.com/amp/2236293/automotive-artificial-intelligence-market-growth-trends"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2236293/automotive-artificial-intelligence-market-growth-trends"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 25
 
 secured: "dTe7whuJQGPS/Isy4r2JeBGkaBdnVsfRojkJ17MTKHDRrS1oJ+Saw8A5fDzHdH/nHbqepK8pocNEN+x9HBMTGh6cX5xjhRlDhQ7TzS8vBnu6yM/Q5e2Qucft6C1np91Av1fQvdFjNUrnSle2pDYvBL66O3zKYZbttXTNMmvmx0hgh88GGGknLc3PlH2dJZ/MhZVJnB02J501q/MqBeI8+y/rO15QjYYwn0yI4D0eWnUVGYrkP5GjAox+97ZgNDuX8mef39s97AKFKreQXQCXu7KWP1rmn24NQqc1bNx4sckAC0i0/oPZGLYT+T29m0fMylQljuRuYux6iQtxiBAULwLGn7eEXEAFoXXbiP/sO4w=;B7YTLyk/6ON8ohE+6sY+rw=="
 ---

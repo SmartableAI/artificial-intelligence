@@ -2,6 +2,138 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-11-25-iit-kharagpur-innovation-hub-on-ai-and-ml-to-translate-research-to-industrially-scalable-products.md",
+      "title": "IIT Kharagpur innovation hub on AI and ML to translate research to industrially scalable products",
+      "excerpt": "IIT Kharagpur has set up a technology innovation hub on artificial intelligence (AI) and machine learning (ML) to translate academic research to industrially scalable products and processes, a spokesperson said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/education/iit-kharagpur-innovation-hub-on-ai-and-ml-to-translate-research-to-industrially-scalable-products/story-TeX5kWOuBlFAkYT1DZwj9K.html",
+      "originalUrl": "https://www.hindustantimes.com/education/iit-kharagpur-innovation-hub-on-ai-and-ml-to-translate-research-to-industrially-scalable-products/story-TeX5kWOuBlFAkYT1DZwj9K.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.hindustantimes.com/education/iit-kharagpur-innovation-hub-on-ai-and-ml-to-translate-research-to-industrially-scalable-products/story-TeX5kWOuBlFAkYT1DZwj9K_amp.html",
+      "cdnAmpWebUrl": "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/education/iit-kharagpur-innovation-hub-on-ai-and-ml-to-translate-research-to-industrially-scalable-products/story-TeX5kWOuBlFAkYT1DZwj9K_amp.html",
+      "publishedDateTime": "2020-11-25T00:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-11-25-freshworks-taps-aws-ml-ai-to-deliver-predictive-customer-support-at-scale.md",
+      "title": "Freshworks Taps AWS ML-AI to Deliver Predictive Customer Support at Scale",
+      "excerpt": "Incorporating AWS’s machine learning and artificial intelligence services more closely into our systems and processes allows us to intelligently resolve support requests and provide even better ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cxotoday.com/press-release/freshworks-taps-aws-ml-ai-to-deliver-predictive-customer-support-at-scale/",
+      "originalUrl": "https://www.cxotoday.com/press-release/freshworks-taps-aws-ml-ai-to-deliver-predictive-customer-support-at-scale/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cxotoday.com/wp-content/uploads/2018/10/smart_machine_artificial_intelligence_concept_web.jpg",
+          "width": 620,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-24T22:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CXO Today",
+        "domain": "cxotoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-11-25-your-guide-to-artificial-intelligence-and-machine-learning-at-reinvent-2020.md",
+      "title": "Your guide to artificial intelligence and machine learning at re:Invent 2020",
+      "excerpt": "With less than a week to re:Invent 2020, we are feeling the excitement and thrill, and looking forward to seeing you all at the world’s premier cloud learning event. As always, artificial intelligence (AI) and machine learning (ML) continue to be on the list of top topics with our customers and partners.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/your-guide-to-artificial-intelligence-and-machine-learning-at-reinvent-2020/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/your-guide-to-artificial-intelligence-and-machine-learning-at-reinvent-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-24T18:32:23-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-11-25-deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring.md",
       "title": "Deep learning, facial recognition, and bears: Researchers take a high-tech approach to wildlife monitoring",
       "excerpt": "The BearID Project is using deep learning to help automate time-intensive research processes amid climate change and shifting wildlife behaviors.",

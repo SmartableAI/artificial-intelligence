@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI needs an open labeling platform"
-    excerpt: "Training data platforms are emerging as the best way to handle the collection, labeling, and feeding of data into supervised learning models."
-    publishedDateTime: 2021-01-30T20:15:00Z
-    webUrl: "https://venturebeat.com/2021/01/30/ai-needs-an-open-labeling-platform/"
-    ampWebUrl: "https://venturebeat.com/2021/01/30/ai-needs-an-open-labeling-platform/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/30/ai-needs-an-open-labeling-platform/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/01/labeling.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "ADLINK Launches the DLAP x86 Series, a Deep Learning Acceleration Platform for Smarter AI Inferencing at the Edge"
     excerpt: "ADLINK's DLAP x86 series is the most compact GPU-enabled deep learning acceleration platforms available, powering AI applications in industrial, manufacturing, and healthcare environments Designed to accelerate compute-intensive AI inferencing and learning tasks,"
     publishedDateTime: 2021-02-02T15:00:00Z
@@ -56,19 +40,19 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Bindr.AI Workplace Data Platform Emerges from Stealth, Offering Intuitive, Time-Saving Solution for Employers"
-    excerpt: "Bindr.AI, a Silicon Valley-based technology startup, today announced that it is emerging from stealth mode and launching a limited beta trial for its"
-    publishedDateTime: 2021-02-03T17:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/bindr-ai-workplace-data-platform-emerges-from-stealth-offering-intuitive-time-saving-solution-for-employers/article_cfbca046-9bde-528d-93f4-0d0d8be4da12.html"
+  - title: "Aizon Launches GxP AI Bioreactor Application for the Pharma Industry to Scale Manufacturing & Quality"
+    excerpt: "Aizon launches its Bioreactor Application, the pharma industry’s first predictive analysis and deep knowledge management application. The Aizon Bioreactor Application adds the bioreactor process to the “Smart Manufacturing” transformation that is accelerating across the Pharma and Biotech industry."
+    publishedDateTime: 2021-02-01T15:06:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-biotechnology-pharmaceutical-manufacturing-health-care-industry-fd2b871fd80a4b279c2b86574f118597"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 18
+      name: Associated Press
+      domain: apnews.com
+    quality: 22
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "Zrg0ga+JbWdgJVnrr0w82Yp2sw14Tc94QXvc0Xz4G0JCrmfJpIwz5B1zEtQPUVLAPhIReeC4qmIsMiaxF9EMsLX6zmKROv2k/TrJKTuvA+VcrcqVxHEE0E7hIMdyn5SKLwOXVDL0NSA6PdwjNM9nhh8J+EteJql1XuhJbbgzOeO/nDmBtBjEptGamQBMYhLv4ABrAgzm6rda2Xs7ombpG5Nb7xLhvcHlomSaVC7/2YQ6+yThv/NzPjun2guzoCPVsOPYA+ERQ4Vyfa/lkmj+OHlU60b4Az1MMFi2EmtEi09Dq8eu9NtnRLhPP0I9pxzQVcExEywV/svtPa7hBs8F20Kgzdmz55bR5PI5qOl4Vco=;v2BhsT2BLErZYvBymcsikA=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/budget-2021-ai-ml-analytics-ease-compliance-
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/budget-2021-ai-ml-analytics-ease-compliance-burden-check-tax-evasion/amp/"
 type: article
 quality: 71
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -114,6 +114,15 @@ related:
         width: 1242
         height: 710
         isCached: true
+  - title: "OH: Local analytics startup signs COTA as first client"
+    excerpt: "Ikonos is positioned to establish process and governance around the use of data in organizations, such as COTA."
+    publishedDateTime: 2021-02-04T12:22:00Z
+    webUrl: "https://www.masstransitmag.com/technology/news/21208795/oh-local-analytics-startup-signs-cota-as-first-client"
+    type: article
+    provider:
+      name: Mass Transit
+      domain: masstransitmag.com
+    quality: 2
 
 secured: "DG2bakb+eXrbC4WDucjW8MhvJsbavL55dR5pQJNmu2fq2pxaHYKW5T+tw3xl8yz4iDinNC7lBQxxeUkKCIxZtNqighyYJ2aCFiziDS5gE16oEITPZ1Nxjli/3mSwCIguyzVxdz412uId7O6Pb0vNlaoBDgsmhphz2GSHcmrSxR3s7bemRUDr2zmGR3EIy49EbZtBv7zmxtvjWe4u78fLmnbcHmYyTpOc+mcHMvy8C4k7YL+N3tQ39GDfzWV8nC5vQ5Gy7DuMEOPPJ7iW5Ez4O5hHVV9dAkt1i5VQ1Zs/2qd93XdpWprrn4aWuK+s2224NqxRBvy2RJM7m4iIGNUGdzaPDzSqPfcF5XaC+8KzSOePP2+YJM4/Lh4hEStXaj9LXACNzSdX6NZbvEf4oBfIElL8H0ojRmP81rJD81rrBo6PYcTsrvutmqUG8vazo1AZT3Bf76qT5E7eeknwbENh47Du7cL+9zsKMy9P5YccmpPDNKaas0jnJr7Lour7GxVrggGjzd3t12l7Fhi3LKxQ0g==;dCrjku+TbB3WXRxanflZvw=="
 ---

@@ -2,6 +2,258 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-04-doceree-is-disrupting-physician-marketing-dr-harshit-jain.md",
+      "title": "Doceree is disrupting Physician Marketing: Dr. Harshit Jain",
+      "excerpt": "Doceree is the only global start-up that has the largest network of physician-only platforms. Doceree, having offices in the US and India.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/doceree-is-disrupting-physician-marketing-sector-dr-harshit-jain/",
+      "originalUrl": "https://www.dqindia.com/doceree-is-disrupting-physician-marketing-sector-dr-harshit-jain/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2021/02/healthcare-marketing-social-media.png",
+          "width": 676,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/doceree-is-disrupting-physician-marketing-sector-dr-harshit-jain/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/doceree-is-disrupting-physician-marketing-sector-dr-harshit-jain/amp/",
+      "publishedDateTime": "2021-02-04T04:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-02-04-artificial-intelligence-helping-to-prevent-disinformation-for-investors.md",
+      "title": "Artificial Intelligence Helping to Prevent Disinformation for Investors",
+      "excerpt": "That’s further proof investors have turned to chat rooms for investing ideas. Unfortunately, not all information gathered in such chat rooms is truthful information. However, with a good deal of rampant disinformation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-helping-to-prevent-disinformation-for-investors-2021-02-04-41974517",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-helping-to-prevent-disinformation-for-investors-2021-02-04-41974517",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-04T04:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-04-ai-and-the-list-of-dirty-naughty-obscene-and-otherwise-bad-words.md",
+      "title": "AI and the List of Dirty, Naughty, Obscene, and Otherwise Bad Words",
+      "excerpt": "It started as a way to restrict autocompletes on Shutterstock. Now it grooms search suggestions on Slack and influences Google's artificial intelligence research.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ai-list-dirty-naughty-obscene-bad-words/",
+      "originalUrl": "https://www.wired.com/story/ai-list-dirty-naughty-obscene-bad-words/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/601b20bbd18be3330afe51f4/master/pass/bad-words-ai-72432895.jpg",
+          "width": 1974,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/ai-list-dirty-naughty-obscene-bad-words/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-list-dirty-naughty-obscene-bad-words/amp",
+      "publishedDateTime": "2021-02-04T04:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-04-how-data-and-ai-will-continue-to-change-healthcare-in-2021.md",
+      "title": "How Data And AI Will Continue To Change Healthcare In 2021",
+      "excerpt": "The growth of data, artificial intelligence (AI) and machine learning (ML) has had a particularly strong impact on healthcare.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/02/04/how-data-and-ai-will-continue-to-change-healthcare-in-2021/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/02/04/how-data-and-ai-will-continue-to-change-healthcare-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0db1df72fadb0007edeed4%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/02/04/how-data-and-ai-will-continue-to-change-healthcare-in-2021/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/02/04/how-data-and-ai-will-continue-to-change-healthcare-in-2021/amp/",
+      "publishedDateTime": "2021-02-04T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-04-deep-learning-market-technological-improvements-steering-growth-during-2020-2025.md",
+      "title": "Deep Learning Market Technological Improvements Steering Growth during 2020-2025",
+      "excerpt": "Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-technological-improvements-steering-growth-during-2020-2025-2021-02-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-technological-improvements-steering-growth-during-2020-2025-2021-02-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-04T02:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-02-04-ai-in-retail-ocado-goes-bananas-for-robot-food-pickers.md",
       "title": "AI in Retail - Ocado goes bananas for robot food pickers",
       "excerpt": "Ocado Technology is training its robots to be more sensitive as pressures from the rise in online shopping grow, explains Isabel Richards, Head of UK Development Centers. (Isabel Richards) As I was chatting to Isabel Richards,",
@@ -329,58 +581,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-04-artificial-intelligence-market-size-share-outlook-and-global-opportunity-analysis-2021-2026.md",
-      "title": "Artificial Intelligence Market: Size, Share, Outlook, and Global Opportunity Analysis, 2021-2026",
-      "excerpt": "Wiseguyreports.Com Adds \"Artificial Intelligence -Market Demand, Growth, Opportunities and Analysis Of Top Key Player Forecast To 2023\" To Its Research Database Artificial Intelligence is one of the fastest growing areas of computer science,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-share-outlook-and-global-opportunity-analysis-2021-2026-2021-02-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-share-outlook-and-global-opportunity-analysis-2021-2026-2021-02-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-03T17:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-04-is-the-ai-ethics-issue-hindering-innovation.md",
       "title": "Is the AI ethics issue hindering innovation?",
       "excerpt": "There are too many cases of discrimination in AI and, in some cases, organizations are even shelving plans to adopt it altogether Beneath the exciting",
@@ -484,7 +684,7 @@
       "originalUrl": "https://www.nytimes.com/2021/02/03/technology/clearview-ai-illegal-canada.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 189,
+      "heat": 199,
       "tags": null,
       "images": [
         {
@@ -1021,214 +1221,6 @@
         "AI",
         "Math for AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-new-amazon-ceo-andy-jassy-loves-fossil-fuels-and-facial-recognition.md",
-      "title": "New Amazon CEO Andy Jassy Loves Fossil Fuels and Facial Recognition",
-      "excerpt": "Jassy, who will replace Bezos this year, has a deeply concerning track record on everything from antitrust to killer robots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en/article/qjpm87/new-amazon-ceo-andy-jassy-loves-fossil-fuels-and-facial-recognition",
-      "originalUrl": "https://www.vice.com/en/article/qjpm87/new-amazon-ceo-andy-jassy-loves-fossil-fuels-and-facial-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 211,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com/articles/601ae267409f2e00958c730c/lede/1612374770921-gettyimages-670451714.jpeg?crop=1xw:0.843644544431946xh;center,center",
-          "width": 4000,
-          "height": 2250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en/article/qjpm87/new-amazon-ceo-andy-jassy-loves-fossil-fuels-and-facial-recognition",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/qjpm87/new-amazon-ceo-andy-jassy-loves-fossil-fuels-and-facial-recognition",
-      "publishedDateTime": "2021-02-03T10:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-are-you-talking-to-me-azure-ai-brings-iconic-characters-to-life-with-custom-neural-voice.md",
-      "title": "Are you talking to me? Azure AI brings iconic characters to life with Custom Neural Voice",
-      "excerpt": "The post Are you talking to me? Azure AI brings iconic characters to life with Custom Neural Voice appeared first on The AI Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://blogs.microsoft.com/ai-for-business/?p=3039",
-      "originalUrl": "https://blogs.microsoft.com/ai-for-business/?p=3039",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/171/2020/08/headshot-300x300.jpg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-03T09:00:17-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-the-future-of-work-now-ai-driven-policing-in-wilmington-nc.md",
-      "title": "The Future Of Work Now: AI-Driven Policing In Wilmington, NC",
-      "excerpt": "Police officers in Wilmington, NC now use two AI-based tools from ShotSpotter for gunshot detection and patrol recommendations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomdavenport/2021/02/03/the-future-of-work-now-ai-driven-policing-in-wilmington-nc/",
-      "originalUrl": "https://www.forbes.com/sites/tomdavenport/2021/02/03/the-future-of-work-now-ai-driven-policing-in-wilmington-nc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601ad258dfd08e5e88bc7a7a%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomdavenport/2021/02/03/the-future-of-work-now-ai-driven-policing-in-wilmington-nc/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2021/02/03/the-future-of-work-now-ai-driven-policing-in-wilmington-nc/amp/",
-      "publishedDateTime": "2021-02-03T08:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-self-driving-cars-and-parallels-to-minecraft.md",
-      "title": "Self-Driving Cars And Parallels To Minecraft",
-      "excerpt": "Minecraft is big business. This quite revered and now over a decade old video game has reportedly attained more than 126 million monthly active players and has sold well beyond 200 million copies of the gaming software.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/03/self-driving-cars-and-parallels-to-minecraft/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/03/self-driving-cars-and-parallels-to-minecraft/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6019e6282fe1ee9cfc355e07%2F0x0.jpg%3FcropX1%3D766%26cropX2%3D2715%26cropY1%3D276%26cropY2%3D1178",
-          "width": 1199,
-          "height": 555,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/03/self-driving-cars-and-parallels-to-minecraft/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/03/self-driving-cars-and-parallels-to-minecraft/amp/",
-      "publishedDateTime": "2021-02-03T08:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -6,8 +6,8 @@ publishedDateTime: 2021-02-04T10:19:00Z
 originalUrl: "https://www.nature.com/articles/s41598-021-82665-8"
 webUrl: "https://www.nature.com/articles/s41598-021-82665-8"
 type: article
-quality: 16
-heat: 16
+quality: 18
+heat: 18
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Google AI
 
 images:
   - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-82665-8/MediaObjects/41598_2021_82665_Fig1_HTML.png"

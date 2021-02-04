@@ -114,7 +114,7 @@
       "originalUrl": "https://venturebeat.com/2021/02/03/community-health-network-prescribes-ai-to-combat-covid-19/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -219,7 +219,7 @@
       "originalUrl": "https://www.infoworld.com/article/3604653/infoworlds-2021-technology-of-the-year-award-winners.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -259,7 +259,8 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -271,7 +272,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/north-america-ai-chipsets-market-overview-with-in-depth-analysis-and-forecast-2020-2026-2021-02-03",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -497,7 +498,7 @@
       "originalUrl": "https://www.techrepublic.com/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 240,
+      "heat": 250,
       "tags": null,
       "images": [
         {

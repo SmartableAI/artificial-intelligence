@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-share-outlook-and-global-opportunity-analysis-2021-2026-2021-02-03"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -29,33 +29,47 @@ images:
     isCached: true
 
 related:
-  - title: "Consumer Robotics Market Size, Comprehensive Analysis, Development Strategy, Opportunities, Future Trends and Industry Forecast 2023"
-    excerpt: "Market Research Future published a research report on \"Consumer Robotics Market Research Report – Global Forecast To 2023\""
-    publishedDateTime: 2021-02-01T16:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/consumer-robotics-market-size-comprehensive-analysis-development-strategy-opportunities-future-trends-and-industry-forecast-2023-2021-02-01"
+  - title: "2021 State of Marketing AI Report"
+    excerpt: "The State of Marketing AI from Marketing AI Institute and Drift provides benchmarks on AI in marketing and the future of marketing AI. Get the FREE report."
+    publishedDateTime: 2021-02-02T13:01:00Z
+    webUrl: "https://www.drift.com/insider/learn/books-reports/state-of-marketing-ai/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
+      name: Drift
+      domain: drift.com
+    quality: 58
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://www.drift.com/wp-content/uploads/2021/02/StateOfMarketingAI-unfurl.jpg"
         width: 1200
-        height: 630
+        height: 627
         isCached: true
-  - title: "Global Face Recognition Technology Market 2020 Highlights of Business Opportunities and Detailed Profiles of Top Industry Players 2025"
-    excerpt: "MarketsandResearch.biz is aimed at offering market research study on Global Face Recognition Technology Market"
-    publishedDateTime: 2021-02-04T10:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-technology-market-2020-highlights-of-business-opportunities-and-detailed-profiles-of-top-industry-players-2025-2021-02-03"
+  - title: "Introducing the 2021 State of Marketing AI [FREE REPORT]"
+    excerpt: "AI may seem like a futuristic concept, but you use it dozens, if not hundreds, of times everyday most likely without knowing it. Major brands such Amazon, Facebook, Google, Microsoft,"
+    publishedDateTime: 2021-02-02T13:02:00Z
+    webUrl: "https://www.drift.com/blog/introducing-the-2021-state-of-marketing-ai-free-report/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
+      name: Drift
+      domain: drift.com
+    quality: 58
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://www.drift.com/wp-content/uploads/2021/01/StateOfMarketingAI-INDEX-BLOG.jpg"
         width: 1200
-        height: 630
+        height: 627
+        isCached: true
+  - title: "New Report Shows Marketers Lack the Education, Training to Effectively Adopt Artificial Intelligence"
+    excerpt: "The majority of marketers know artificial intelligence is essential to their success this year. But, lack of education and training is"
+    publishedDateTime: 2021-02-02T16:31:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/new-report-shows-marketers-lack-the-education-training-to-effectively-adopt-artificial-intelligence-301220406.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 54
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "gFGiC6jhZjufE2cfEt8RQ7et02fZkGCPgeCxRvheQKbdqAP2RiJAFHX1j+NaJ4q6LSN6rbDeOdBzp8BIaapLvyNuFd6vVk+JJUq7ngjImAf+j4CVpMmxSuHqF5rUAQFzheJshKGIPiDYud3ro4cahtsaT6YsoRGeul5nN14yNxxWgtk4A5GfS0RhEx7zC4o9RTetOAikLaEh7G8ivNV6c32HzBvCElNeECcs9YoFXFexnQRdSN1s1owt/YLhuJwUYKWTtE0sJhkKVJFoY8inzMDP1gw0FmyKH8WdGWsB3jGxep0zzcpId4ZZyxq7kTKKP9JUyK6zNHGJ+HLB7Ehv9W/0DIDxoZGTq9giprHVzPU=;cHfUVagwNTngngTMKAECgg=="

@@ -38,6 +38,20 @@ related:
         width: 500
         height: 333
         isCached: true
+  - title: "Talking Medicines Launches AI-Powered Patient Intelligence Platform to Revolutionize Marketing for World’s Leading Drug Brands"
+    excerpt: "Talking Medicines has today (Thursday 4 February) launched an AI-powered social intelligence service, PatientMetRx, giving the world’s leading drug brands insights on patient experience on a scale and depth never previously possible."
+    publishedDateTime: 2021-02-04T11:13:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/science-business-technology-products-and-services-media-1e1bfb36d8944678a13496401aafdf00"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 28
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "L.A based tech company Sci Find announces upcoming launch of AI-Powered search engine and database for Life Sciences"
     excerpt: "Sci Find, a Los Angeles-based tech company will be launching its search engine and comprehensive database on February 8, to promote"
     publishedDateTime: 2021-02-02T14:11:00Z

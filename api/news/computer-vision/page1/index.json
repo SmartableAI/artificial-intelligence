@@ -10,7 +10,7 @@
       "originalUrl": "https://www.nytimes.com/2021/02/03/technology/clearview-ai-illegal-canada.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 189,
+      "heat": 199,
       "tags": null,
       "images": [
         {
@@ -104,6 +104,58 @@
         "AWS AI",
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-02-03-facial-recognition-market-insights-by-growth-research-methodology-emerging-trends-and-forecast-2027.md",
+      "title": "Facial Recognition Market Insights By Growth, Research Methodology, Emerging Trends and Forecast 2027",
+      "excerpt": "Facial Recognition is a biometric application which captures image of an individual and identify it by applying",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-insights-by-growth-research-methodology-emerging-trends-and-forecast-2027-2021-02-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-insights-by-growth-research-methodology-emerging-trends-and-forecast-2027-2021-02-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-03T06:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -1389,50 +1441,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-sen-sherrod-brown-files-ethics-complaint-against-ted-cruz-josh-hawley.md",
-      "title": "Sen. Sherrod Brown files ethics complaint against Ted Cruz, Josh Hawley",
-      "excerpt": "Sen. Sherrod Brown of Ohio has joined several Democrats in filing a Senate Ethics Committee complaint against Republican Senators Ted Cruz and Josh Hawley.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wlwt.com/article/sen-sherrod-brown-files-ethics-complaint-against-ted-cruz-josh-hawley/35290144",
-      "originalUrl": "https://www.wlwt.com/article/sen-sherrod-brown-files-ethics-complaint-against-ted-cruz-josh-hawley/35290144",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap19253558406066.jpg?crop=1.00xw:0.846xh;0.00163xw,0.154xh&resize=1200:*",
-          "width": 1024,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wlwt.com/amp/article/sen-sherrod-brown-files-ethics-complaint-against-ted-cruz-josh-hawley/35290144",
-      "cdnAmpWebUrl": "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/sen-sherrod-brown-files-ethics-complaint-against-ted-cruz-josh-hawley/35290144",
-      "publishedDateTime": "2021-01-22T07:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WLWT",
-        "domain": "wlwt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

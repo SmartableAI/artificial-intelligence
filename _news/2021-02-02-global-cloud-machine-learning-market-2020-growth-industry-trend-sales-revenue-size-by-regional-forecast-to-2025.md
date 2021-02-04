@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Worldwide Deep Learning Market Outlook to 2025: Emerging Trends and Will Generate New Growth Opportunities Status"
+    excerpt: "Global “Deep Learning Market” is segmented by region, players, by Type, and by Application. Players, stakeholders,"
+    publishedDateTime: 2021-02-04T12:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/worldwide-deep-learning-market-outlook-to-2025-emerging-trends-and-will-generate-new-growth-opportunities-status-2021-02-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Deep Learning Market 2020 Regional Demand, Industry Top Players Study, Key Trends and SWOT Analysis to 2025"
     excerpt: "The latest report entitled Global Deep Learning Market 2020 by Company, Type and Application, Forecast to 2025 firstly focuses on some important aspects of the market such as revenue rate, market share,"
     publishedDateTime: 2021-02-03T03:52:00Z
@@ -111,6 +125,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How the Artificial Intelligence In Fashion Retail Market is Growing in Fashion Industry by 2027"
+    excerpt: "The Artificial Intelligence In Fashion Retail Market study added by Reports web exhibits a comprehensive analysis of the growth trends present in the global business scenario The study further presents conclusive data referring to the commercialization aspects industry size and"
+    publishedDateTime: 2021-02-03T13:05:00Z
+    webUrl: "https://www.openpr.com/news/2235665/how-the-artificial-intelligence-in-fashion-retail-market"
+    ampWebUrl: "https://www.openpr.com/amp/2235665/how-the-artificial-intelligence-in-fashion-retail-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2235665/how-the-artificial-intelligence-in-fashion-retail-market"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 40
   - title: "Edge AI Hardware Market Global Forecast to 2024 by Devices, Processor, Power Consumption, Process, End-User Industry, Top Key Players, and Regions"
     excerpt: "The edge AI hardware market is expected to register a shipment of 610 million units in 2019 and is likely to reach 1559.3 million units by 2024, at a CAGR of 20.64% during the forecast period. Major drivers for the market's growth are growing demand for low latency and real-time processing on edge devices and emergence of AI coprocessors for edge computing."
     publishedDateTime: 2021-02-03T14:59:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/facial-recognition-marke
 webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-insights-by-growth-research-methodology-emerging-trends-and-forecast-2027-2021-02-03"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: MarketWatch
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Global Face Recognition Technology Market 2020 Highlights of Business Opportunities and Detailed Profiles of Top Industry Players 2025"
+    excerpt: "MarketsandResearch.biz is aimed at offering market research study on Global Face Recognition Technology Market"
+    publishedDateTime: 2021-02-04T10:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-technology-market-2020-highlights-of-business-opportunities-and-detailed-profiles-of-top-industry-players-2025-2021-02-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facial Recognition Technology is now Capable of Identifying Political Views"
     excerpt: "Michal Kosinski's new research indicates facial recognition technology is now capable of exposing people’s political orientation from naturalistic facial images using a machine learning algorithm."
     publishedDateTime: 2021-01-31T05:14:00Z

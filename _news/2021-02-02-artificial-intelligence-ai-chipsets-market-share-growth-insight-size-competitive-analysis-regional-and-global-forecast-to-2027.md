@@ -124,12 +124,23 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 36
+    quality: 38
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
+  - title: "Automotive Artificial Intelligence Market Growth, Trends, Industry Analysis and Forecast - 2026"
+    excerpt: "Automotive Artificial Intelligence Ai Market is expected to be valued at USD 782 9 Million in 2017 and is expected to reach USD 10 573 3 Million by 2026 at a CAGR of 38 Artificial intelligence AI is one of"
+    publishedDateTime: 2021-02-04T11:02:00Z
+    webUrl: "https://www.openpr.com/news/2236293/automotive-artificial-intelligence-market-growth-trends"
+    ampWebUrl: "https://www.openpr.com/amp/2236293/automotive-artificial-intelligence-market-growth-trends"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2236293/automotive-artificial-intelligence-market-growth-trends"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 25
 
 secured: "TK6iYBShSH26yQfS4aNwsJoHjvdJuARO7CATtelVVQIjjL1PgBlzWDmLiK81j2Fo5xsgREVClih9SLJt1LO6HW14sy+uNZ9HMMLQPuS5kQjcShaHNuh1H7Txgt7ruTn4kcLo+b/0yAGB2AyEQBlJjbIkm5uMdAYc8k8cxSe3WqDqig84eI/D5UA+c3sIB00NX915ylbw84DX/yJr7cnc4aafFuETkLpg15lWZgk/1hU6OqTKgrcllFmFpUGNFn1JNxVeyHw0USXh5Q5zZUciVa4zbjzpfencLWUmopfXJt8jJEp6UOQsF9fOAaUapaKHdi6JtQT9UOL7TD6NOXB08D0xscv/eByBicztIFYqrZE=;omVf5srJLA0pGLY5pD+fBA=="
 ---

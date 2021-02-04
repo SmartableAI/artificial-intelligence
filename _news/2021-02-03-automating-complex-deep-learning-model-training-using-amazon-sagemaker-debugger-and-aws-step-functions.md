@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/automating-complex-d
 webUrl: "https://aws.amazon.com/blogs/machine-learning/automating-complex-deep-learning-model-training-using-amazon-sagemaker-debugger-and-aws-step-functions/"
 type: article
 quality: 120
-heat: 160
+heat: 170
 published: true
 
 provider:
@@ -84,6 +84,20 @@ related:
       - url: "https://i.insider.com/6018d1106dfbe10018e0135d?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Machine Learning to Bring a Transformation in Software Testing"
+    excerpt: "Automated testing has emerged as one of the most relevant technologies for scaling DevOps, businesses are spending a lot of time and effort to develop end-to-end software delivery pipelines, and containers and their ecosystem are keeping up with their early promise."
+    publishedDateTime: 2021-02-04T11:19:00Z
+    webUrl: "https://www.cioapplications.com/news/machine-learning-to-bring-a-transformation-in-software-testing-nid-7199.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 39
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/hvhlh450.jpg"
+        width: 450
+        height: 308
         isCached: true
 
 secured: "E1Bz0uhhf6pYmAubCm+XvyFRbnf56n9RywhiF5CihEJkX3XljwEB2kRx4p8LFVFc2OnOXgtz+h9zu2K9WarT9X3+w8T9e+vDSeqZIulcKHeA61OOSrr2XiyOsgY4w5ToAuaqkeV9Ftgk+za/1EuoeUc7bwgeqAMPtfO0MZMmiptQlhoiFOVMSqT+nQptdd2OjAzStFvtOJnShDq/bDLVnolnbcDGvUaFD+JEYshkhx8Z+xUFXs29Eti8RS99HQcIdsvUD/TBixGr63mH/Lfm1ZYKu4uqIz8CnwotirzGvJSPWKff7F0FkgPS5uqToxR5nXzinAm/ZC85GgfWQj+IFeE5PqDUFX7XTSigsZHjxDo=;XDnjfPlZOqTM0z7IQcALLw=="

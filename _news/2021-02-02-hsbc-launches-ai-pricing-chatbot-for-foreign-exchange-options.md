@@ -7,7 +7,7 @@ originalUrl: "https://www.thetradenews.com/hsbc-launches-ai-pricing-chatbot-for-
 webUrl: "https://www.thetradenews.com/hsbc-launches-ai-pricing-chatbot-for-foreign-exchange-options/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 300
     height: 300
     isCached: true
+
+related:
+  - title: "5 Artificial Intelligence Predictions for 2021"
+    excerpt: "Here in this blog, I am sharing a few predictions for the specific AI techniques, tooling, apps, and platforms that will come to the forefront in the year to come. Pandemic has brought changes in all the workforce,"
+    publishedDateTime: 2021-02-02T18:08:00Z
+    webUrl: "https://www.business2community.com/business-intelligence/5-artificial-intelligence-predictions-for-2021-02382937"
+    ampWebUrl: "https://www.business2community.com/business-intelligence/5-artificial-intelligence-predictions-for-2021-02382937/amp"
+    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-intelligence/5-artificial-intelligence-predictions-for-2021-02382937/amp"
+    type: article
+    provider:
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 57
+    images:
+      - url: "https://cdn.business2community.com/wp-content/uploads/2021/01/2021-AI-predictions.jpg"
+        width: 550
+        height: 366
+        isCached: true
 
 secured: "XnNfo3Y2LrTwVRNK/Ve3LVS6yDiW0kzavMlNViuJkYCtl63UnQG67evrqcsBkc94KsedO7pytbbYl4eNtIKqOnCvsAduP8Ckx0UOENjksASHEKufb+E6CPqTX3PqXKuZ3OMxvbsEIt0KrKPvJwHPxh7HP90xZjErtNWh2i9axeE7eadbFbm/R/4+BPwQ9G1j1NJKyBuPrXepbgp1mAiJG+W/cWJlps6T2qgFJx5wFpPm975xT3nQ1eae40Q/7PmAp94UQ4r610J8ycyNZT7PZ7jazUAD5Nu0fmVxIx0URhkOL4WODg5JfD37/ZdI8CGO8Z5LTNhEiGsoTNisDaiVTJgKsS2MC+riuzS/Y/mgXsjBU2l45zbxpKcZLFNXmDVT1stPdeS8Ix0QaWmRYlWDi4QrW4VVx0O1x2Qafy31Y37SadPW8y0HqiZEaBDbRZkSVQLbdrUN9GCD7SBV3cNcHQ1MXGxSmv9IBIWmWa3BdepyzlmTtFeLZ0tI4Iy89+easgPy39nHu/HZ/cSbK7LVuw==;gSrtI1h+4k2d4eG7HY5cHg=="
 ---

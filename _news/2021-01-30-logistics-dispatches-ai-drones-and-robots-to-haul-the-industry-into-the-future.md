@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Logistics dispatches AI, drones, and robots to haul the industry into the future"
-excerpt: "Though the industry is slow to adopt new technologies, these trends can help streamline business.  Checklist: Securing digital information Video game career snapshot: Industry insights and jobs for IT"
+excerpt: "Though the industry is slow to adopt new technologies, these trends can help streamline business.  Edge computing adoption to increase through 2026; organizations cautious about adding 5G to the mix T"
 publishedDateTime: 2021-01-29T22:35:00Z
-originalUrl: "https://www.techrepublic.com/index.php/category/2184/index.php/videos/logistics-dispatches-ai-drones-and-robots-to-haul-the-industry-into-the-future/"
-webUrl: "https://www.techrepublic.com/index.php/category/2184/index.php/videos/logistics-dispatches-ai-drones-and-robots-to-haul-the-industry-into-the-future/"
+originalUrl: "https://www.techrepublic.com/videos/logistics-dispatches-ai-drones-and-robots-to-haul-the-industry-into-the-future/"
+webUrl: "https://www.techrepublic.com/videos/logistics-dispatches-ai-drones-and-robots-to-haul-the-industry-into-the-future/"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 578
     isCached: true
 
-secured: "kFxeNEW05rwWKSANDEOIiAMTg9mEIuUBo/TW/PGRxnX2LsuLNjrE3c0JdMq6r1ukj+LZut/QRcwZgipR/vpGh4P3bXm+q8Krk2YFqMo4ztO3gAY9KsOXL5MSt8c9Zle4sfYT89sEypqE6dAZW5F+yadw7KM5RwthCIB78uILzig01INScxNxNiav//m/vG6E/Ai9aJm/3bpgAA4xg4Wrg1g66+OJED13RzK+WkAD6vYPHl4yNBEI7sJqKGNdVp9c72caa8SNGEvA8DiqSGmim/WnIWO+m64l2GSDSpk7Ce0Cakk13rgm+mJaNRiawxcKxYRwE3Bu207qxaSozqCTy40FV6vGRbSlii/VekANbCFDmvYaC+2iL3caqVw+IyPr9npK+bRLhIU4oMyOmoS+HRPHyS6y3GpxKcp5fa64f/mPBtoSuNdOEf14XRsEzEYguqDU0GkEzdPCVnyFNnTkUz0uYknlP5cm9gvKxDM8bfnwhG3NPnONrcC0H7pcpCcW3W9649mbpq24dDOyUjEgoQ==;Inn4QLmc9p7WHZCN48/DMA=="
+secured: "mL6pbLoT6xGwVqwhmO5+DtdMPUM3cJxRy7NKxTtIlqOJDYjsqdDkbOQSaTiwLbwcnUmskPtuwfue0mvS5jTQWClLJSZcqCp5XjePO1b2LLf+yWDNIKqitNFBSOW4M68eXB3mCWsfD6vg7QwgGQhTSOVPNG8d3qg23NU+G2X3iFV/nLsAjwBKIcJzMtB8+uOQKi271D9ufbw4ZbOHzCVr0ajyC/U/lWF8+nmGVg6BQqyI2o5JIKWRkIBYvY7KIaYIs0LDp3+GPxrPmFcwONfGGq5m+k8oZ99gFvQMhWCCASZL8j35Sbdaa7zT3AJRXHmKL9BHo5EPC4A9p3MgFZ3kirRj3Q1zDaflC7cuwnhQoFw=;junljT28BNQ+4ZGuBik5oA=="
 ---
 

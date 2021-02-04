@@ -101,6 +101,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Global Computer Vision Market 2020 Research Study with Trends and Opportunities to 2025 - Impact of COVID-19"
+    excerpt: "Global Computer Vision Market 2020 by Company, Regions, Type and Application, Forecast to 2025 is the latest market report rolled out by MarketsandResearch.biz, presents an encyclopedic evaluation of the global market."
+    publishedDateTime: 2021-02-04T12:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-computer-vision-market-2020-research-study-with-trends-and-opportunities-to-2025---impact-of-covid-19-2021-02-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Research proposals to address COVID-19 challenges sought"
     excerpt: "Washington University's McDonnell International Scholars Academy and Social Policy Institute seek proposals from WashU researchers and their international partners to identify and address the challenges of COVID-19 through artificial intelligence,"
     publishedDateTime: 2021-02-01T20:28:00Z

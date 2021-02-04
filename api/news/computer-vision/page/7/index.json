@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-12-03-neuroscientists-find-a-way-to-make-object-recognition-models-perform-better.md",
+      "title": "Neuroscientists find a way to make object-recognition models perform better",
+      "excerpt": "Many of these convolutional networks perform very well, but in most cases, researchers don’t know exactly how the network is solving the object-recognition task. In 2013, researchers from DiCarlo’s lab showed that some of these neural networks could ...",
+      "sourceUrl": null,
+      "webUrl": "https://scienceblog.com/519797/neuroscientists-find-a-way-to-make-object-recognition-models-perform-better/",
+      "originalUrl": "https://scienceblog.com/519797/neuroscientists-find-a-way-to-make-object-recognition-models-perform-better/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scienceblog.com/wp-content/uploads/2020/12/Neuroscientists-find-a-way-to-make-object-recognition-models-perform-better-.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://scienceblog.com/519797/neuroscientists-find-a-way-to-make-object-recognition-models-perform-better/amp/",
+      "cdnAmpWebUrl": "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/519797/neuroscientists-find-a-way-to-make-object-recognition-models-perform-better/amp/",
+      "publishedDateTime": "2020-12-03T07:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ScienceBlog",
+        "domain": "scienceblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-03-massachusetts-legislators-vote-to-ban-police-from-using-facial-recognition-technology.md",
       "title": "Massachusetts Legislators Vote to Ban Police From Using Facial Recognition Technology",
       "excerpt": "Lawmakers in Massachusetts have taken the rare step back from our inevitable, Minority Report-lite future by voting to ban police departments from using facial recognition technology.",
@@ -1368,58 +1411,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-22-congress-is-eyeing-face-recognition-and-companies-want-a-say.md",
-      "title": "Congress Is Eyeing Face Recognition, and Companies Want a Say",
-      "excerpt": "Amazon and Microsoft have hired lobbyists. So too have airlines, retailers, wireless carriers, and cruise operators.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/congress-eyeing-face-recognition-companies-want-say/",
-      "originalUrl": "https://www.wired.com/story/congress-eyeing-face-recognition-companies-want-say/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/congress-eyeing-face-recognition-companies-want-say/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/congress-eyeing-face-recognition-companies-want-say/amp",
-      "publishedDateTime": "2020-11-22T01:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

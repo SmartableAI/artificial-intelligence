@@ -2,6 +2,163 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-11-the-most-valuable-software-developer-skills-to-get-hired-now.md",
+      "title": "The most valuable software developer skills to get hired now",
+      "excerpt": "We identify some of the hot areas where software developers can focus their attention to better stand out from the crowd in a challenging job market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3583931/the-most-valuable-software-developer-skills.html",
+      "originalUrl": "https://www.infoworld.com/article/3583931/the-most-valuable-software-developer-skills.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/01/red-balloon_leader_unique_one-of-a-kind-100746953-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3583931/the-most-valuable-software-developer-skills.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3583931/the-most-valuable-software-developer-skills.amp.html",
+      "publishedDateTime": "2021-01-10T22:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-google-ai-classifies-baking-recipes-and-explains-its-predictions.md",
+      "title": "Google AI classifies baking recipes and explains its predictions",
+      "excerpt": "One goal of AI researchers is to figure out how to make machine learning models more interpretable so researchers can understand why they make their predictions. Google says this is an improvement",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/google-ai-classifies-baking-recipes-and-explains-its-predictions-08654182/",
+      "originalUrl": "https://www.slashgear.com/google-ai-classifies-baking-recipes-and-explains-its-predictions-08654182/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/01/cakie.jpg",
+          "width": 1280,
+          "height": 811,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/google-ai-classifies-baking-recipes-and-explains-its-predictions-08654182/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/google-ai-classifies-baking-recipes-and-explains-its-predictions-08654182/amp/",
+      "publishedDateTime": "2021-01-08T03:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-06-nissan-source-code-leaked-online-after-git-repo-misconfiguration.md",
+      "title": "Nissan source code leaked online after Git repo misconfiguration",
+      "excerpt": "The source code of mobile apps and internal tools developed and used by Nissan North America has leaked online after the company misconfigured one of its Git servers. Cheat sheet: TensorFlow, an open source software library for machine learning Read More The leak originated from a Git server that was left exposed on the internet with its default username and password combo of admin/admin,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/nissan-source-code-leaked-online-after-git-repo-misconfiguration/",
+      "originalUrl": "https://www.zdnet.com/article/nissan-source-code-leaked-online-after-git-repo-misconfiguration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2021/01/06/d9b8188d-cc6f-470c-a927-3fe945025185/nissan-logo.jpg",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nissan-source-code-leaked-online-after-git-repo-misconfiguration/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nissan-source-code-leaked-online-after-git-repo-misconfiguration/",
+      "publishedDateTime": "2021-01-06T07:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-06-how-to-merge-data-in-python-using-pandas-merge.md",
       "title": "How to merge data in Python using Pandas merge",
       "excerpt": "Use the popular Pandas library for data manipulation and analysis to read data from two files and join them into a single dataset.",
@@ -1329,139 +1486,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-an-introduction-to-tensorflow-lite-development-on-android.md",
-      "title": "An introduction to TensorFlow Lite development on Android",
-      "excerpt": "What is deepfake? Should you be worried? Deepfake videos are all the hype online, but they are also the source of public fear. What's this all about? Let's tell you. Edgar CervantesNovember 4 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/tag/ai/",
-      "originalUrl": "https://www.androidauthority.com/tag/ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-13T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-himax-and-edge-impulse-launch-the-first-ultralow-power-ai-vision-and-sensor-fusion-solution.md",
-      "title": "Himax and Edge Impulse Launch the First Ultralow Power AI Vision and Sensor Fusion Solution",
-      "excerpt": "Himax Technologies, Inc., a leading supplier and fabless manufacturer of display drivers and other semiconductor products, today announced a collaboration with Edge Impulse that enables the rapid development and deployment of machine learning models on the Himax HX6537-A WE-I Plus AI processor and Google TensorFlow Lite for",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/himax-and-edge-impulse-launch-the-first-ultralow-power-ai-vision-and-sensor-fusion",
-      "originalUrl": "https://www.nasdaq.com/press-release/himax-and-edge-impulse-launch-the-first-ultralow-power-ai-vision-and-sensor-fusion",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-09T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-speeding-up-tensorflow-mxnet-and-pytorch-inference-with-amazon-sagemaker-neo.md",
-      "title": "Speeding up TensorFlow, MXNet, and PyTorch inference with Amazon SageMaker Neo",
-      "excerpt": "Various machine learning (ML) optimizations are possible at every stage of the flow during or after training. Model compiling is one optimization that creates a more efficient implementation of a trained model. In 2018, we launched Amazon SageMaker Neo to compile machine learning models for many frameworks",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/speeding-up-tensorflow-mxnet-and-pytorch-inference-with-amazon-sagemaker-neo/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/speeding-up-tensorflow-mxnet-and-pytorch-inference-with-amazon-sagemaker-neo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 226,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-08T17:27:21-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Google AI",
-        "Facebook AI",
-        "TensorFlow"
       ]
     }
   ],

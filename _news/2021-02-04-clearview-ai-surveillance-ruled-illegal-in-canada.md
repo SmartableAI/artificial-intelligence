@@ -149,6 +149,20 @@ related:
         width: 1000
         height: 704
         isCached: true
+  - title: "Clearview Facial-Recognition Technology Ruled Illegal in Canada"
+    excerpt: "The company’s controversial practice of collecting and selling billions of faceprints was dealt a heavy blow by the Privacy Commissioner that could set a precedent in other legal challenges."
+    publishedDateTime: 2021-02-04T12:52:00Z
+    webUrl: "https://threatpost.com/clearview-facial-recognition-canada/163650/"
+    type: article
+    provider:
+      name: Threat Post
+      domain: threatpost.com
+    quality: 24
+    images:
+      - url: "https://media.threatpost.com/wp-content/uploads/sites/103/2018/11/12101942/Facial-Recognition-2.jpg"
+        width: 750
+        height: 499
+        isCached: true
   - title: "Millions of faces were scanned without approval. We need rules for facial recognition tech | Commentary"
     excerpt: "Federal authorities say a San Francisco company scanned the faces of millions of people without their knowing it. What's needed are clear rules for how facial recognition technology can be collected and used,"
     publishedDateTime: 2021-01-31T23:31:00Z
@@ -175,6 +189,6 @@ related:
         height: 800
         isCached: true
 
-secured: "T34P1B9jGLm6tI9pqc8Hq4lYFEug1xfJ1xsyHsmnaDXcee7gNvCkR34l9lDaPvVhOdfvGd8UCp/0I0uRwEsklG0m6zMhLlmggpAArakX026JYRhlIDkGlWiGFKluYZMHx/s4iaz7YvhVLPtr0+2tY+CxoOFHoUMj+g/G2UgfkHP0kYJP5PoemA46/XsMrk+EWVZEI6Up+45eyWPoLJ/G1KttYyHwvE9v6eI465eCLEdI0+hzhX7pPUpdoCZXefbpmTjC7B5ovAK5Jjy4RMY4ZawfVhJvcIOwF0TGNUdWZI2s4wdwBN77K81gwb2ChFg0OZnDvxt/YUKGDP00fZykZNnxFk0CpTbC/hOom7xMR1U=;umfiO9qoyCY++jmUnOBR1A=="
+secured: "lz6OyPb2OEZxZPc4+jK1SXm+QdMZy9QG2t7wsvE+TUpBkucKmywnyIc4vlxcUxX9jcyl8mgTLcALHqtsCfzNqe0gxHU2iFpj2ZGQ3hFza0XJIS/ckHGKa1/V3v50D3KB0pWSrBZJrIGUb1W44E9W+cUZBI7yInEU6ePbfwdpUq7QEAwHpgtUyL7kq1lHzDFAQrxLTFfgFPy8IrtvcQf/rv6IMbSxT4XkZW5TzP2kxEgMUVkafndyns5Pvi3xRzviY4hF+Hy3mswn5bKC9G1mvRG/DswE7o+PqZ+tKXORAJ1eoaEdV4L0fSrtIb88SGZGQzU0s0PmwDuK+VOeYRR0qd2+3XysLLyjOuaT7mnCp5dFDb8AHcIxdXhyhXY4O3cB2C67hJTZ3PnEI4pNU3i/XMa9OStQobYcQ2V8yM8sgiJUX76bHRG8SLYh3ELIMUlmdLXXCtgTlqpU84bKomzqrhgdB5nWnFLyqQg/vCvOcJCZaP4qAdKAO3LlhvGB6ck78VU890hfDdREXkuuOuQzbA==;mX4C5VODpGyhJZoTmNi7iQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/north-america-ai-chipset
 webUrl: "https://www.marketwatch.com/press-release/north-america-ai-chipsets-market-overview-with-in-depth-analysis-and-forecast-2020-2026-2021-02-03"
 type: article
 quality: 77
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -122,12 +122,23 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 36
+    quality: 38
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
+  - title: "Automotive Artificial Intelligence Market Growth, Trends, Industry Analysis and Forecast - 2026"
+    excerpt: "Automotive Artificial Intelligence Ai Market is expected to be valued at USD 782 9 Million in 2017 and is expected to reach USD 10 573 3 Million by 2026 at a CAGR of 38 Artificial intelligence AI is one of"
+    publishedDateTime: 2021-02-04T11:02:00Z
+    webUrl: "https://www.openpr.com/news/2236293/automotive-artificial-intelligence-market-growth-trends"
+    ampWebUrl: "https://www.openpr.com/amp/2236293/automotive-artificial-intelligence-market-growth-trends"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2236293/automotive-artificial-intelligence-market-growth-trends"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 25
 
 secured: "AZxsdGWSpq47Y4mykL4CcSooGiGjJ/VjziZBeAdqSs88cjvaa/i9nASGyeLEXWVOwYhQRwt1VHt2O3QIs5ertQ4FAvS3KYyF/IUCDTUmij+bXiP7UB6mOwUBupgeSh2SwVae69sF05qzZxpkV+EiRE4nuGG5m7lQMIC5hMXuttg2D4Iezd975dDKc5H2/NMyRZ97+bPfMePaJLrN4slXVpIUA5oL+uQJA832jyXYc91rKD10QKB18KyqN/gWjVHsvanXD/1BiMt+J1tvh3r+jGnByjJaRfkBrOKwr8Q2FXXenISIqEV5pOKEd0SNYek/qXsOS/7dllUlGtx7hlh3xnTC3ybJ8COTwD9a1WtAfsg=;wlP1ktDCKzpcRb2M4LIibg=="
 ---

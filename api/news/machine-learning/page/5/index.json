@@ -2,6 +2,135 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-06-artificial-intelligence-software-platform-market-is-predicted-to-touch-usd-113-billion-at-a-healthy-281gr-between-2018-2023.md",
+      "title": "Artificial Intelligence Software Platform Market is Predicted to Touch USD 11.3 Billion at a Healthy 28.1?GR Between 2018- 2023",
+      "excerpt": "Artificial Intelligence Software Platform Market is Predicted to Touch USD 11.3 Billion at a Healthy 28.1?GR Between 2018- 2023 <br />  Jan 6, 2021 1:52 AM ET<p>The global <a href=' target='_blank'>ar",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1101391834/Artificial-Intelligence-Software-Platform-Market-is-Predicted-to-Touch-USD-113-Billion-at-a-Healthy-281GR-Between-2018-2023",
+      "originalUrl": "https://menafn.com/1101391834/Artificial-Intelligence-Software-Platform-Market-is-Predicted-to-Touch-USD-113-Billion-at-a-Healthy-281GR-Between-2018-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/banners/ebdc13ce-4.jpg",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-05T18:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-06-oracle-packs-oracle-database-21c-with-more-than-200-innovations.md",
+      "title": "Oracle Packs Oracle Database 21c with More Than 200 Innovations",
+      "excerpt": "Oracle Database 21c is now available on Oracle Cloud, including the Always Free tier of Oracle Autonomous Database. The new release contains more than 200 new innovations, including immutable blockchain tables,",
+      "sourceUrl": null,
+      "webUrl": "https://www.dbta.com/Editorial/News-Flashes/Oracle-Packs-Oracle-Database-21c-with-More-Than-200-Innovations-144764.aspx",
+      "originalUrl": "https://www.dbta.com/Editorial/News-Flashes/Oracle-Packs-Oracle-Database-21c-with-More-Than-200-Innovations-144764.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dbta.com/images/social-logo-2019.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-05T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "dbta.com",
+        "domain": "dbta.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-06-machine-learning-improves-particle-accelerator-diagnostics.md",
+      "title": "Machine learning improves particle accelerator diagnostics",
+      "excerpt": "Operators of the primary particle accelerator at the U.S. Department of Energy's Thomas Jefferson National Accelerator Facility are getting a new tool to help them quickly address issues that can prevent it from running smoothly.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-01-machine-particle-diagnostics.html",
+      "originalUrl": "https://phys.org/news/2021-01-machine-particle-diagnostics.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/1-machinelearn.jpg",
+          "width": 799,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-01-machine-particle-diagnostics.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-01-machine-particle-diagnostics.amp",
+      "publishedDateTime": "2021-01-05T08:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-05-watch-this-amazing-ai-enhanced-montage-of-lumiere-films-historians-will-hate-it-though.md",
       "title": "Watch this amazing AI-enhanced montage of Lumière films — historians will hate it though",
       "excerpt": "YouTuber Denis Shiryaev used a controversial technique of AI video restoration to colorize, upscale, and enhance films by the French pioneers.",
@@ -1237,163 +1366,6 @@
         "name": "India Times",
         "domain": "indiatimes.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-reflections-on-my-2020-predictions-for-ai-dl-and-ml.md",
-      "title": "Reflections On My 2020 Predictions For AI, DL, And ML",
-      "excerpt": "I published a piece on five 2020 predictions - this is my reflection on that story. While many industries came to a halt in 2020, it was exciting to see the forward momentum in AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/evansparks/2020/12/23/reflections-on-my-2020-predictions-for-ai-dl-and-ml/",
-      "originalUrl": "https://www.forbes.com/sites/evansparks/2020/12/23/reflections-on-my-2020-predictions-for-ai-dl-and-ml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe397b1724bccc64f4c6a81%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/evansparks/2020/12/23/reflections-on-my-2020-predictions-for-ai-dl-and-ml/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/evansparks/2020/12/23/reflections-on-my-2020-predictions-for-ai-dl-and-ml/amp/",
-      "publishedDateTime": "2020-12-23T11:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-how-ai-and-ml-innovations-are-driving-the-need-for-hardware-transformation-vb-live.md",
-      "title": "How AI and ML innovations are driving the need for hardware transformation (VB Live)",
-      "excerpt": "Access free on demand here. Innovations in AI and machine learning demand more compute power than ever, but today’s chips can’t keep up with the demand. Moore’s law — the idea that ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/23/how-ai-and-ml-innovations-are-driving-the-need-for-hardware-transformation-vb-live/",
-      "originalUrl": "https://venturebeat.com/2020/12/23/how-ai-and-ml-innovations-are-driving-the-need-for-hardware-transformation-vb-live/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1179964586.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/23/how-ai-and-ml-innovations-are-driving-the-need-for-hardware-transformation-vb-live/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/23/how-ai-and-ml-innovations-are-driving-the-need-for-hardware-transformation-vb-live/amp/",
-      "publishedDateTime": "2020-12-23T04:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-machine-learning-as-a-service-mlaas-market-outlook-by-industry-size-share-revenue-regions-and-top-key-players-analysis-from-2020-2025.md",
-      "title": "Machine Learning as a Service (MLaaS) Market Outlook By Industry Size, Share, Revenue, Regions and Top Key Players Analysis From 2020-2025",
-      "excerpt": "The report offers overview of leading companies encompassing their successful marketing strategies, market contribution, recent developments in both historic and present contexts. Market Overview The Machine Learning as a Service (MLaaS) Market was valued at USD 1.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-outlook-by-industry-size-share-revenue-regions-and-top-key-players-analysis-from-2020-2025-2020-12-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-outlook-by-industry-size-share-revenue-regions-and-top-key-players-analysis-from-2020-2025-2020-12-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-22T22:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

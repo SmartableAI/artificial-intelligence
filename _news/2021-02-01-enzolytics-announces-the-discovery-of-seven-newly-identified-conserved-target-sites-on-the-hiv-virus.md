@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Enzolytics Announces The Discovery Of Seven Newly Identified Conserved Target Sites On The HIV Virus"
-excerpt: "(OTC PINK:ENZC) (the \"Company\") today announced it has identified seven additional conserved, expectedly immutable sites on the HIV virus against which it plans to produce targeted anti-HIV monoclonal antibodies."
-publishedDateTime: 2021-02-01T08:00:00Z
-originalUrl: "https://www.morningstar.com/news/accesswire/626941msn/enzolytics-announces-the-discovery-of-seven-newly-identified-conserved-target-sites-on-the-hiv-virus"
-webUrl: "https://www.morningstar.com/news/accesswire/626941msn/enzolytics-announces-the-discovery-of-seven-newly-identified-conserved-target-sites-on-the-hiv-virus"
+excerpt: "Enzolytics, Inc. today announced it has identified seven additional conserved, expectedly immutable sites on the HIV virus against which it plans to produce targeted anti-HIV monoclonal antibodies. Additional conserved target sites have now been identified against which fully human anti-HIV monoclonal antibodies will be produced in its lab on"
+publishedDateTime: 2021-02-01T14:00:00Z
+originalUrl: "https://www.nasdaq.com/press-release/enzolytics-announces-the-discovery-of-seven-newly-identified-conserved-target-sites"
+webUrl: "https://www.nasdaq.com/press-release/enzolytics-announces-the-discovery-of-seven-newly-identified-conserved-target-sites"
 type: article
-quality: 0
-heat: -1
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Healthcare
@@ -34,6 +34,6 @@ related:
         height: 250
         isCached: true
 
-secured: "1hh648AiXYqDe7nVVbXsY2+GjrDvBhthjgnyQQtdLz3YsqlMJB+Jf7mVVJ5jDY2OlJEWmNLK028TxADSCV9Cm+j7IUucfL6O8Feaj2BOizU997aC4elmw3gOgCU/x0FS6by9Vy560zmrvs9vlB5dAC4+wP7aOxEKl1YldjfazBrYEm6spr/rHX8+TDecJGJ98F6nmjB2g2MrW9H3xZx0XxHSqyHcljVEN+KxUw58017KUp3FRV3mXXWsmxK7mByOVtFwCBkEvOUmih0PlXzK0kVjMcz9p89MUDJtHk14AFOyGP2ibaDBGUxW+NT+OeFZj0oKb2kzoo/c6jljK1FdlVHRLjuOaf1RxLvVlqYDhzE=;rcfXezD9AYrIhOjW52C1og=="
+secured: "bwXS2nZ1yZBSbFiq6Fm1gO4ewuq7e8N1BPXTmSELAyGQNten2Aitd+i3hAQGnfSIxmOSo+TTSaUHQaPOYnkAlj+U2OipfBfVVPZVsmXEdZgz/5EW5WslU5cHwI+z2mZ5prR3F+4tCXNVJp1TWpwiDekdfydz7Cqn0YC3r9cyyFaJz/y3CvY8QyikH+qf/+mP6yyuK6cUL2b6vvUwu8bkyn40eAxyCt42udub4J+0zOvWy8B2T8Ze+mNgT4OlVBaPAdJGowX/zJsGHe9qerJTQHGxk4qvIFYIpk46SBYnCT9xRPDYq26h5ESrZVHGwKv6ka+E8kTkaM1OgHu8LSttLQ+r8r+2nUWU1uZi8K3T7kc=;88e3tU4w6ZQdDBLi6nkY3w=="
 ---
 

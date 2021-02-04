@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/resource-library/whitepapers
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/cyber-ai-for-saas-security-protecting-your-dynamic-workforce/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -25,6 +25,20 @@ topics:
   - AI in Security
 
 related:
+  - title: "Data Drought Slows Advance of AI in Cybersecurity"
+    excerpt: "It’s early days, but both government and business want to solidify their cyberwalls with AI. Yet training AI models requires reams of just the right sort of data."
+    publishedDateTime: 2021-02-04T11:01:00Z
+    webUrl: "https://www.wsj.com/articles/data-drought-slows-advance-of-ai-in-cybersecurity-11612434602"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 69
+    images:
+      - url: "https://images.wsj.net/im-294669/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Machine learning meets cybersecurity"
     excerpt: "The healthy and transformative relationship between Machine Learning (ML) and cybersecurity continues to unfold in front of our eyes. As our world becomes increasingly digital, the demand for ML and cybersecurity has peaked."
     publishedDateTime: 2021-02-03T15:00:00Z

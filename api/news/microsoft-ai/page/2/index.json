@@ -662,6 +662,49 @@
       ]
     },
     {
+      "path": "_news/2021-01-15-arinco-expands-into-nsw-with-new-office.md",
+      "title": "Arinco expands into NSW with new office",
+      "excerpt": "Back in August, Arinco was involved in a project with Maurice Blackburn Lawyers where it tapped into Microsoft Azure Cognitive Services to develop a solution that accelerated business processes ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.arnnet.com.au/article/685597/arinco-expands-into-nsw-new-office/",
+      "originalUrl": "https://www.arnnet.com.au/article/685597/arinco-expands-into-nsw-new-office/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/arinco_-_chris_p__david_l.jpg",
+          "width": 800,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-14T17:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-14-pexip-and-logitech-partnership-brings-ai-powered-immersive-video-collaboration-from-the-desktop-to-the-meeting-room.md",
       "title": "Pexip and Logitech Partnership Brings AI-Powered, Immersive Video Collaboration from the Desktop to the Meeting Room",
       "excerpt": "Organizations can deliver a consistent experience across their meeting rooms, whether deploying new video-enabled rooms or expanding their existing video estate Today Pexip, a leading provider of enterprise video conferencing and collaboration solutions,",
@@ -1426,58 +1469,6 @@
         "name": "tvbeurope.com",
         "domain": "tvbeurope.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-microsoft-deberta-surpasses-human-performance-on-the-superglue-benchmark.md",
-      "title": "Microsoft DeBERTa surpasses human performance on the SuperGLUE benchmark",
-      "excerpt": "The Microsoft AI model DeBERTa—being integrated into the next version of Microsoft Turing—set a new state of the art in natural language understanding. Learn how it uses 3 novel techniques to surpass human performance on and top the SuperGLUE leaderboard.",
-      "sourceUrl": null,
-      "webUrl": "https://www.microsoft.com/en-us/research/blog/microsoft-deberta-surpasses-human-performance-on-the-superglue-benchmark/",
-      "originalUrl": "https://www.microsoft.com/en-us/research/blog/microsoft-deberta-surpasses-human-performance-on-the-superglue-benchmark/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.microsoft.com/en-us/research/uploads/prod/2021/01/1400x788_Deberta_nologo_still-scaled.jpg",
-          "width": 2560,
-          "height": 1441,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-06T16:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

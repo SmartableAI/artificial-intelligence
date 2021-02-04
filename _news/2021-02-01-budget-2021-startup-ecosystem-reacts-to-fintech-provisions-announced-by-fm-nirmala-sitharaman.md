@@ -59,20 +59,6 @@ related:
         width: 1000
         height: 668
         isCached: true
-  - title: "Must-watch Startups in Africa’s Fintech Space in 2021"
-    excerpt: "More than $1.07 billion flowed into Africa’s startups in 2020, with the fintech sector accounting for 31% of this funding."
-    publishedDateTime: 2021-01-30T20:01:00Z
-    webUrl: "https://africa.com/must-watch-startups-in-africas-fintech-space-in-2021/"
-    type: article
-    provider:
-      name: Africa.com
-      domain: africa.com
-    quality: 24
-    images:
-      - url: "https://i2.wp.com/africa.com/wp-content/uploads/2021/01/startups-hipotecas-1920x1180-1.jpg?fit=1920%2C1180&#038;ssl=1"
-        width: 1920
-        height: 1180
-        isCached: true
 
 secured: "hn/QIsfOhd3NIOJFrECm6tnHI2mcycm86fxIjJltg1Hcy9p9gZiYdRYadUhgYK4xvjQdrh36w3ukepwTr+Xudia/tSV5sWy7l8YHuKCm2rgkDyGEPwgAaZ4CgJ6hcq7fB/c3DpaYvPmM3UKSXlChhOrOQRtj1KJtAL2WLZ/A+HK76IVNQDt5GC4qCv/JeLbFCD+aQjeYKtpUH5Hwa+gjmYwemzAfnmnH6PugvQDQLdGkYgw2tH22Ln62AJEYPBiqv2Ri4N4D105v6Fmsi0zSIIs1gW/IPpLnxG6WTD1lCHrveP1YyP9Ce7Pt2Slu1Sgrdk5uPrRmDkIhd38D0U/u2SnLWe2aPIdUInQMCAiNVyO++CkxyjmYRnIlscHG2QNk5sFMRhG0+9L4TukKeFbmmAJAo5/bIkIdQaBfcu9xtzsHkpwAt/j22Dy5iqYEVacrzh3c5NHrLsbUt1Wg7Fg62Yasa+jQrwPA+GFXArLp6qmh3CCsZ5xGcw16rnmuyDU6mPuQP6F+pxIfg/FjhptMrA==;q+CQva0UK2wZZVVst/v9lA=="
 ---

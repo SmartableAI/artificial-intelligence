@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/02/03/deepgram-raises-25-million-to-build-
 ampWebUrl: "https://venturebeat.com/2021/02/03/deepgram-raises-25-million-to-build-custom-enterprise-speech-recognition-models/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/03/deepgram-raises-25-million-to-build-custom-enterprise-speech-recognition-models/amp/"
 type: article
-quality: 99
-heat: 99
+quality: 101
+heat: 101
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Machine Learning
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/09/Voice-recognition.NLP_.GettyImages-1199031078.jpg?w=1200&strip=all"

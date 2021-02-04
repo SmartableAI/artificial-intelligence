@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/03/community-health-network-prescrib
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/03/community-health-network-prescribes-ai-to-combat-covid-19/amp/"
 type: article
 quality: 89
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -90,6 +90,20 @@ related:
       - url: "https://elmoudjaweb.com/wp-content/uploads/2021/01/K-Health-raises-132-million-to-launch-AI-powered-telemedical-pediatric.jpg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Global Computer Vision Market 2020 Research Study with Trends and Opportunities to 2025 - Impact of COVID-19"
+    excerpt: "Global Computer Vision Market 2020 by Company, Regions, Type and Application, Forecast to 2025 is the latest market report rolled out by MarketsandResearch.biz, presents an encyclopedic evaluation of the global market."
+    publishedDateTime: 2021-02-04T12:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-computer-vision-market-2020-research-study-with-trends-and-opportunities-to-2025---impact-of-covid-19-2021-02-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Artificial Intelligence Covid breakthrough will save lives"
     excerpt: "A team from the University of Cambridge is developing artificial intelligence (AI) algorithms to support doctors to decide what action to take on the front-line, such as giving oxygen and medications,"

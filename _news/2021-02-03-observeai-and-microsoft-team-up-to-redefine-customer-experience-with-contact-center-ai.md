@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
-excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance"
-publishedDateTime: 2021-02-02T22:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
-webUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
+excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
+publishedDateTime: 2021-02-03T08:22:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
+webUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
 type: article
-quality: 26
+quality: 46
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Microsoft's cutting-edge machine-learning tool moves from the lab to the mainstream"
@@ -99,6 +105,22 @@ related:
         width: 512
         height: 341
         isCached: true
+  - title: "From Bugs Bunny to Flo from Progressive, Microsoft's AI tech is being used to create digital voices"
+    excerpt: "Microsoft Azure AI is being used to create realistic voices ranging from fictional characters to chatbots for an insurance company. Microsoft discusses how it's done and why it's important to be careful about how it's used in a recent blog post."
+    publishedDateTime: 2021-02-04T12:19:00Z
+    webUrl: "https://www.windowscentral.com/bugs-bunny-flo-progressive-microsofts-ai-tech-being-used-create-digital-voices"
+    ampWebUrl: "https://www.windowscentral.com/bugs-bunny-flo-progressive-microsofts-ai-tech-being-used-create-digital-voices?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/bugs-bunny-flo-progressive-microsofts-ai-tech-being-used-create-digital-voices?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 60
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/11/microsoft-logo-ignite-2019.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Microsoft Data & AI Day on March 11"
     excerpt: "Microsoft Denmark is proud to present Microsoft Data & AI Day! Within the past few years, artificial intelligence has accelerated the digitization of businesses and societies rapidly. As previous entry barriers have fallen AI has undergone a tremendous democratization – and it is now easier than ever before to get started"
     publishedDateTime: 2021-02-01T14:37:00Z
@@ -127,7 +149,7 @@ related:
   - title: "Observe.AI and Microsoft Team Up on Contact Center AI"
     excerpt: "Observe.AI, a contact center artificial intelligence technology provider, is working with Microsoft to bring automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
     publishedDateTime: 2021-02-02T17:29:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Observe.AI-and-Microsoft-Team-Up-on-Contact-Center-AI-145046.aspx"
+    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=145046"
     type: article
     provider:
       name: Destination CRM
@@ -153,6 +175,6 @@ related:
         height: 314
         isCached: true
 
-secured: "EmjNABqmwH7wfMc/9iDpmcqijAxBbac4ZUFjb5qQLFYzxoDfCymGJugMIgl0zbBHtaNKjiu/NtYiMUnRTJM9Gc83w0ZryokcC6s+b5O2ncBI7O6eLZHZ+Maq4zrjK884fzpnqVZm7wstN4oIVZW1koGMZHcEtqVR6uucK73cAOje6FFCImwxx9h6Cwkqj84s/IxxR2AF7Yy51Kwq/t3tYaeJA1XDsqLsldCaIDod25kBg2a5kP66P9Dyw+Xs+AK58ZzI7PyNdqCXdSHVh2rN2hE9BZdHzeRHkvs86N+V8x1IcFtxE16z//u2zcCXPH2+w3LtGm6LVq9oAKDaACn/U7IzFaDMLk8eAJtu9+vbdSQ=;t4xoK5Zn/k5bA00MrF+YmA=="
+secured: "Gk9qIyQ68Ki/f/o2W1XBQQNqgJQe5+3DAWm9uVyMQT7frEx4lAZJflFsKAuWnnGX/KGjojlDFM2E32+xUbGLdy4z3ReET7cfa222QUqJ9ZVLUU5KdDiqWxbOfUPRr1H25+krkQbXrhTeY0GKoUPCTZ1qQ/4f/xRSNXjmwvrybGafnsCSdLqQZ3yLT1WABjf2ertFA4ezIiJxwEbaCRcAVm8N1ZxXzsBfjLv4eaXf1NnhgLAR6wZooAdvvBAi3Cg8eSYHq7CfQHAis/TV+rU6TtTsJag0PeWNTZoTT1X27McCMRBogLxp10X2VUk7nBcjmyiR6/UxRf9Z9HeNp6jYqHkHVJFycCSpB/1cvDFai3s=;czRv5Fsro2NAMv+QCz03EA=="
 ---
 

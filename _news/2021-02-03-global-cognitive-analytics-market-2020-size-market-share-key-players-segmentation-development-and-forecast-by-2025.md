@@ -117,6 +117,15 @@ related:
         width: 1242
         height: 710
         isCached: true
+  - title: "OH: Local analytics startup signs COTA as first client"
+    excerpt: "Ikonos is positioned to establish process and governance around the use of data in organizations, such as COTA."
+    publishedDateTime: 2021-02-04T12:22:00Z
+    webUrl: "https://www.masstransitmag.com/technology/news/21208795/oh-local-analytics-startup-signs-cota-as-first-client"
+    type: article
+    provider:
+      name: Mass Transit
+      domain: masstransitmag.com
+    quality: 2
 
 secured: "Tj0Y4qUdOOfh7S0oVivFA6wAfawkMXjEeVN4J5MJlC1v3RBjhwvbbjtrEzTRZrT1uu3CAkR+BlxHNn6nKnJmSB4i/+Ok79blkZgqfDnWiCrAC40cVjTGhsJuL4p4Shq0524ZMrBATTsXN+4RaFjNzOkJZYY7bIiVqi1h2gjkrp7nVd1NBZsH/qpb2tSXfufr4GrDC305cot+cid/Aqbumu94PUo2LQ8g/yby+CKeCA3T1okRWPP2kih9/CE9AKF6hiteBqxGpdBK1UP8IymWsyvN0Bq8OfW4xIuajdNEPg53s0e0UuZoWry0ULdoOzVV2CzSbLwFvQIMCzGF3sHt8HRMCS3Au1Sh09bIChS4WFM=;z3QidM2NR9PMqqHxE5ki1Q=="
 ---

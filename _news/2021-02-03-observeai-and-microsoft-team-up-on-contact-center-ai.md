@@ -3,8 +3,8 @@ category: news
 title: "Observe.AI and Microsoft Team Up on Contact Center AI"
 excerpt: "Observe.AI, a contact center artificial intelligence technology provider, is working with Microsoft to bring automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
 publishedDateTime: 2021-02-02T17:29:00Z
-originalUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Observe.AI-and-Microsoft-Team-Up-on-Contact-Center-AI-145046.aspx"
-webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Observe.AI-and-Microsoft-Team-Up-on-Contact-Center-AI-145046.aspx"
+originalUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=145046"
+webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=145046"
 type: article
 quality: 54
 heat: -1
@@ -105,6 +105,22 @@ related:
         width: 512
         height: 341
         isCached: true
+  - title: "From Bugs Bunny to Flo from Progressive, Microsoft's AI tech is being used to create digital voices"
+    excerpt: "Microsoft Azure AI is being used to create realistic voices ranging from fictional characters to chatbots for an insurance company. Microsoft discusses how it's done and why it's important to be careful about how it's used in a recent blog post."
+    publishedDateTime: 2021-02-04T12:19:00Z
+    webUrl: "https://www.windowscentral.com/bugs-bunny-flo-progressive-microsofts-ai-tech-being-used-create-digital-voices"
+    ampWebUrl: "https://www.windowscentral.com/bugs-bunny-flo-progressive-microsofts-ai-tech-being-used-create-digital-voices?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/bugs-bunny-flo-progressive-microsofts-ai-tech-being-used-create-digital-voices?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 60
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/11/microsoft-logo-ignite-2019.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Microsoft Data & AI Day on March 11"
     excerpt: "Microsoft Denmark is proud to present Microsoft Data & AI Day! Within the past few years, artificial intelligence has accelerated the digitization of businesses and societies rapidly. As previous entry barriers have fallen AI has undergone a tremendous democratization – and it is now easier than ever before to get started"
     publishedDateTime: 2021-02-01T14:37:00Z
@@ -145,15 +161,20 @@ related:
         height: 314
         isCached: true
   - title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
-    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance"
-    publishedDateTime: 2021-02-02T22:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
+    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
+    publishedDateTime: 2021-02-03T08:22:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 26
+      name: Associated Press
+      domain: apnews.com
+    quality: 46
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
-secured: "yQUYxTm/0v3YGyzh8591Wi8LzeeHFnFLZi6pRE0eQMgCJ3Twwv3/Bnk6lSmGGFibbg1eEaGcLRrcPXoYK39MjFDxNbQlhD2k27RuUJHG651kkxWLgzPihXCvDPoZe4Xr//plG+oZfZjObK0v+gOv6z53WgVVpMNCIhBQeXnNevNsMk0dJFJDOaNS78i/bjJ/uYtj/YIq0nktnNAOWqe4VcGMeCo/3bdqcuGzyFwZ4smbOmQ1gYgWHWrjk17IGkLRJ7XBNTuoOeUbRDIB4ssKfgJlkLGzAqmvakvNIhfx8AlmYI6zYWLAHt53sgkEHod9ZeLqtRNBwSYF6RjVGot4xoea1bjjsQh6DbYl+NKlWAA=;VWhgHirVWg/bl1bhJbYZYw=="
+secured: "c2ZpUBZoDBThpTfAj7hsKD2zCfj9aoCtAnEE+HbCxzAewiPb11SV4gRISVKSB1TMwBGz8YfB/0flC8kvuQkrVTVAXyBicUwUk1WELM63rZ2JaBpf5ZW4w+w8eHQeQrBcq+ke/fVQ/Bf+AIfASU0TzPqL3VnA/FOn14F35qJRVE4Vt3dCyh1m5mF23s3EW0mZxM6LmbYyLaNP6hRaSPwvM/UYBDUml8DyLo5C4AMkroTGVpkwzLEyzvv7tYJ0w9OPchYgL3R8Tp6p5T4wSpWLb9c9ffSMg7ji99PvKYFRNoX74OSBTp/Y0nW4vBm0xYxWGNDCj6W+nq3ldWCm5L+WVIeqRdavdqPekm96+zB/vNE=;uQehALq0Zuj0CzHbUj/uaA=="
 ---
 

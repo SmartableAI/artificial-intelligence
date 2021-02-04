@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-16-ibm-acquires-fintech-startup-expertus-to-strengthen-banking-solutions.md",
+      "title": "IBM Acquires Fintech Startup Expertus To Strengthen Banking Solutions",
+      "excerpt": "IBM Corporation (NYSE: IBM) on Tuesday announced it has acquired Expertus Technologies Inc, a Canadian fintech startup offering payments and cash management solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/m-a/20/12/18809433/ibm-acquires-fintech-startup-expertus-to-strengthen-banking-solutions",
+      "originalUrl": "https://www.benzinga.com/m-a/20/12/18809433/ibm-acquires-fintech-startup-expertus-to-strengthen-banking-solutions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/files/images/story/2012/sam-pak-nwlfmvepzhi-unsplash.jpg",
+          "width": 2832,
+          "height": 2832,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/18809433",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18809433",
+      "publishedDateTime": "2020-12-15T23:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-if-you-were-a-fintech-genie.md",
+      "title": "If you were a fintech genie...",
+      "excerpt": "By Theodora Lau & Bradley Leimer of Unconventional Ventures If you were a fintech genie in 2020, what wish would you grant? For a year that is far from normal, with many of us being socially isolated,",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/you-were-fintech-genie-theodora-lau",
+      "originalUrl": "https://www.linkedin.com/pulse/you-were-fintech-genie-theodora-lau",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQEb9SdtDzspAQ/article-cover_image-shrink_720_1280/0/1608058864776?e=1614211200&v=beta&t=pufKHrCX-RtjtOIjoofERJUvfnHgnEoiMWeLLV7XVSg",
+          "width": 1200,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-14T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-15-when-machine-learning-goes-off-the-rails.md",
       "title": "When Machine Learning Goes Off the Rails",
       "excerpt": "What happens when machine learning—computer programs that absorb new information and then change how they make decisions—leads to investment losses, biased hiring or lending, or car accidents? Should businesses allow their smart products and services to autonomously evolve,",
@@ -1238,110 +1333,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-11-27-bank-of-canada-says-recent-covid-19-vaccine-news-is-promising-recovery-to-be-tough.md",
-      "title": "Bank of Canada says recent COVID-19 vaccine news is promising, recovery to be tough",
-      "excerpt": "Recent news about coronavirus vaccines is promising even as cases continue to increase, Bank of Canada Governor Tiff Macklem said on Thursday, reiterating that the recovery would be tough.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-canada-cenbank-idCAKBN2862DA",
-      "originalUrl": "https://www.reuters.com/article/us-canada-cenbank-idCAKBN2862DA",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201126&t=2&i=1542599144&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAP1BR",
-          "width": 886,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCAKBN2862DA",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2862DA",
-      "publishedDateTime": "2020-11-26T18:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-11-27-how-ai-and-big-data-helped-chinas-tech-giants-dominate-consumer-finance.md",
-      "title": "How AI and big data helped China’s tech giants dominate consumer finance",
-      "excerpt": "The aim is to build a much more accurate picture of a user’s credit profile by using a range of online data as opposed to traditional credit scoring.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/policy/article/3111505/how-ai-and-big-data-helped-chinas-tech-giants-dominate-consumer-finance",
-      "originalUrl": "https://www.scmp.com/tech/policy/article/3111505/how-ai-and-big-data-helped-chinas-tech-giants-dominate-consumer-finance",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/11/27/afc48a3e-2fce-11eb-be20-200ca6256645_image_hires_073856.jpg?itok=jW1cEXEG&v=1606433950",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/policy/article/3111505/how-ai-and-big-data-helped-chinas-tech-giants-dominate-consumer-finance",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/policy/article/3111505/how-ai-and-big-data-helped-chinas-tech-giants-dominate-consumer-finance",
-      "publishedDateTime": "2020-11-26T15:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

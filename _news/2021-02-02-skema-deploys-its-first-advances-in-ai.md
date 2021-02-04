@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/in/news-releases/skema-deploys-its-firs
 webUrl: "https://www.prnewswire.com/in/news-releases/skema-deploys-its-first-advances-in-ai-836747076.html"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,38 @@ images:
     isCached: true
 
 related:
+  - title: "Why Future Advances In AI Need A New Architecture"
+    excerpt: "Businesses will need to adopt AI technologies not just because they can, but because they must - AI is the technology that will help businesses to be"
+    publishedDateTime: 2021-02-02T22:22:00Z
+    webUrl: "https://www.nextplatform.com/2021/02/02/why-future-advances-in-ai-need-a-new-architecture/"
+    ampWebUrl: "https://www.nextplatform.com/2021/02/02/why-future-advances-in-ai-need-a-new-architecture/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/02/02/why-future-advances-in-ai-need-a-new-architecture/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 63
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/samba-nova-logo.jpg"
+        width: 432
+        height: 293
+        isCached: true
+  - title: "Robust artificial intelligence tools to predict future cancer"
+    excerpt: "Researchers created a risk-assessment algorithm that shows consistent performance across datasets from US, Europe, and Asia. To catch cancer earlier, we"
+    publishedDateTime: 2021-01-31T14:38:00Z
+    webUrl: "https://scienceblog.com/520793/robust-artificial-intelligence-tools-to-predict-future-cancer/"
+    ampWebUrl: "https://scienceblog.com/520793/robust-artificial-intelligence-tools-to-predict-future-cancer/amp/"
+    cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/520793/robust-artificial-intelligence-tools-to-predict-future-cancer/amp/"
+    type: article
+    provider:
+      name: ScienceBlog
+      domain: scienceblog.com
+    quality: 57
+    images:
+      - url: "https://scienceblog.com/wp-content/uploads/2021/01/MIT-Mirai_0-scaled-1.jpg"
+        width: 1350
+        height: 900
+        isCached: true
   - title: "SKEMA deploys its first advances in AI"
     excerpt: "With SKEMA AI Institute, AI is being rolled out across all programmes and campuses. A forerunner in 2019 with the opening of an AI research centre in Montreal, SKEMA is gaining momentum with the creation of the SKEMA AI Institute,"
     publishedDateTime: 2021-02-03T08:00:00Z

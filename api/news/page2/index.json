@@ -2,6 +2,214 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-04-new-amazon-ceo-andy-jassy-loves-fossil-fuels-and-facial-recognition.md",
+      "title": "New Amazon CEO Andy Jassy Loves Fossil Fuels and Facial Recognition",
+      "excerpt": "Jassy, who will replace Bezos this year, has a deeply concerning track record on everything from antitrust to killer robots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en/article/qjpm87/new-amazon-ceo-andy-jassy-loves-fossil-fuels-and-facial-recognition",
+      "originalUrl": "https://www.vice.com/en/article/qjpm87/new-amazon-ceo-andy-jassy-loves-fossil-fuels-and-facial-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 211,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com/articles/601ae267409f2e00958c730c/lede/1612374770921-gettyimages-670451714.jpeg?crop=1xw:0.843644544431946xh;center,center",
+          "width": 4000,
+          "height": 2250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en/article/qjpm87/new-amazon-ceo-andy-jassy-loves-fossil-fuels-and-facial-recognition",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/qjpm87/new-amazon-ceo-andy-jassy-loves-fossil-fuels-and-facial-recognition",
+      "publishedDateTime": "2021-02-03T10:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-02-03-are-you-talking-to-me-azure-ai-brings-iconic-characters-to-life-with-custom-neural-voice.md",
+      "title": "Are you talking to me? Azure AI brings iconic characters to life with Custom Neural Voice",
+      "excerpt": "The post Are you talking to me? Azure AI brings iconic characters to life with Custom Neural Voice appeared first on The AI Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://blogs.microsoft.com/ai-for-business/?p=3039",
+      "originalUrl": "https://blogs.microsoft.com/ai-for-business/?p=3039",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/171/2020/08/headshot-300x300.jpg",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-03T09:00:17-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-04-the-future-of-work-now-ai-driven-policing-in-wilmington-nc.md",
+      "title": "The Future Of Work Now: AI-Driven Policing In Wilmington, NC",
+      "excerpt": "Police officers in Wilmington, NC now use two AI-based tools from ShotSpotter for gunshot detection and patrol recommendations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomdavenport/2021/02/03/the-future-of-work-now-ai-driven-policing-in-wilmington-nc/",
+      "originalUrl": "https://www.forbes.com/sites/tomdavenport/2021/02/03/the-future-of-work-now-ai-driven-policing-in-wilmington-nc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601ad258dfd08e5e88bc7a7a%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomdavenport/2021/02/03/the-future-of-work-now-ai-driven-policing-in-wilmington-nc/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2021/02/03/the-future-of-work-now-ai-driven-policing-in-wilmington-nc/amp/",
+      "publishedDateTime": "2021-02-03T08:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-04-self-driving-cars-and-parallels-to-minecraft.md",
+      "title": "Self-Driving Cars And Parallels To Minecraft",
+      "excerpt": "Minecraft is big business. This quite revered and now over a decade old video game has reportedly attained more than 126 million monthly active players and has sold well beyond 200 million copies of the gaming software.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/03/self-driving-cars-and-parallels-to-minecraft/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/03/self-driving-cars-and-parallels-to-minecraft/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6019e6282fe1ee9cfc355e07%2F0x0.jpg%3FcropX1%3D766%26cropX2%3D2715%26cropY1%3D276%26cropY2%3D1178",
+          "width": 1199,
+          "height": 555,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/03/self-driving-cars-and-parallels-to-minecraft/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/03/self-driving-cars-and-parallels-to-minecraft/amp/",
+      "publishedDateTime": "2021-02-03T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-03-daimler-to-spin-off-trucks-in-shift-to-electric-and-self-driving-vehicles.md",
       "title": "Daimler to spin off trucks in shift to electric and self-driving vehicles",
       "excerpt": "German carmaker Daimler plans to spin-off Daimler Truck to focus on zero-emission vehicles and self-driving technologies.",
@@ -165,7 +373,7 @@
       "originalUrl": "https://venturebeat.com/2021/02/03/community-health-network-prescribes-ai-to-combat-covid-19/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -209,6 +417,58 @@
       ]
     },
     {
+      "path": "_news/2021-02-03-facial-recognition-market-insights-by-growth-research-methodology-emerging-trends-and-forecast-2027.md",
+      "title": "Facial Recognition Market Insights By Growth, Research Methodology, Emerging Trends and Forecast 2027",
+      "excerpt": "Facial Recognition is a biometric application which captures image of an individual and identify it by applying",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-insights-by-growth-research-methodology-emerging-trends-and-forecast-2027-2021-02-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-insights-by-growth-research-methodology-emerging-trends-and-forecast-2027-2021-02-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-03T06:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-03-deepgram-raises-25-million-to-build-custom-enterprise-speech-recognition-models.md",
       "title": "Deepgram raises $25 million to build custom enterprise speech recognition models",
       "excerpt": "Deepgram, a startup developing custom voice recognition models for enterprise customers, raised $25 million in funding.",
@@ -217,7 +477,7 @@
       "originalUrl": "https://venturebeat.com/2021/02/03/deepgram-raises-25-million-to-build-custom-enterprise-speech-recognition-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -257,7 +517,8 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -520,7 +781,7 @@
       "originalUrl": "https://www.infoworld.com/article/3604653/infoworlds-2021-technology-of-the-year-award-winners.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -560,7 +821,8 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -623,7 +885,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/north-america-ai-chipsets-market-overview-with-in-depth-analysis-and-forecast-2020-2026-2021-02-03",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -728,7 +990,7 @@
       "originalUrl": "https://www.techrepublic.com/resource-library/whitepapers/cyber-ai-for-saas-security-protecting-your-dynamic-workforce/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -875,7 +1137,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automating-complex-deep-learning-model-training-using-amazon-sagemaker-debugger-and-aws-step-functions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 160,
+      "heat": 170,
       "tags": null,
       "images": [
         {
@@ -972,21 +1234,21 @@
       ]
     },
     {
-      "path": "_news/2021-02-03-biosig-and-mayo-clinic-collaborate-on-new-rd-program-to-develop-transformative-ai-and-machine-learning-technologies-for-its-pure-eptm-system.md",
-      "title": "BioSig and Mayo Clinic Collaborate on New R&D Program to Develop Transformative AI and Machine Learning Technologies for its PURE EP(TM) System",
-      "excerpt": "Global market for AI in healthcare is estimated to reach $45.2 billion by 2026 Westport, CT – February 2, 2021 — BioSig Technologies, Inc. (NASDAQ: BSGM) (\"BioSig\" or the \"Company\"), a medical technology company commercializing an innovative signal processing platform designed to improve signal fidelity and uncover the full range of ECG and intra-cardiac signals,",
+      "path": "_news/2021-02-03-why-future-advances-in-ai-need-a-new-architecture.md",
+      "title": "Why Future Advances In AI Need A New Architecture",
+      "excerpt": "Businesses will need to adopt AI technologies not just because they can, but because they must - AI is the technology that will help businesses to be",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/biosig-and-mayo-clinic-collaborate-on-new-rd-program-to-develop-transformative-ai-and-machine-learning-technologies-for-its-pure-eptm-system-2021-02-02-81973843",
-      "originalUrl": "https://www.marketwatch.com/press-release/biosig-and-mayo-clinic-collaborate-on-new-rd-program-to-develop-transformative-ai-and-machine-learning-technologies-for-its-pure-eptm-system-2021-02-02-81973843",
+      "webUrl": "https://www.nextplatform.com/2021/02/02/why-future-advances-in-ai-need-a-new-architecture/",
+      "originalUrl": "https://www.nextplatform.com/2021/02/02/why-future-advances-in-ai-need-a-new-architecture/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 93,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/samba-nova-logo.jpg",
+          "width": 432,
+          "height": 293,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -994,117 +1256,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-02T12:06:00-08:00",
+      "ampWebUrl": "https://www.nextplatform.com/2021/02/02/why-future-advances-in-ai-need-a-new-architecture/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/02/02/why-future-advances-in-ai-need-a-new-architecture/amp/",
+      "publishedDateTime": "2021-02-02T14:22:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-experimental-ai-framework-vx2text-generates-video-captions-using-inferences-from-audio-and-text.md",
-      "title": "Experimental AI framework Vx2Text generates video captions using inferences from audio and text",
-      "excerpt": "Researchers at Facebook have developed a framework, Vx2Text, that can generate captions by inferring from videos, audio, and text.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/02/researchers-vx2text-ai-framework-draws-inferences-from-videos-audio-and-text-to-generate-captions/",
-      "originalUrl": "https://venturebeat.com/2021/02/02/researchers-vx2text-ai-framework-draws-inferences-from-videos-audio-and-text-to-generate-captions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/02/big-data.shutterstock_350592197.jpg?w=1200&strip=all",
-          "width": 1000,
-          "height": 609,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/02/researchers-vx2text-ai-framework-draws-inferences-from-videos-audio-and-text-to-generate-captions/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/02/researchers-vx2text-ai-framework-draws-inferences-from-videos-audio-and-text-to-generate-captions/amp/",
-      "publishedDateTime": "2021-02-02T11:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-near-infrared-imaging-and-machine-learning-can-identify-hidden-tumors.md",
-      "title": "Near-infrared imaging and machine learning can identify hidden tumors",
-      "excerpt": "Tumors can be damaging to surrounding blood vessels and tissues even if they're benign. If they're malignant, they're aggressive and sneaky, and often irrevocably damaging. In the latter case, early detection is key to treatment and recovery.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-02-near-infrared-imaging-machine-hidden-tumors.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-02-near-infrared-imaging-machine-hidden-tumors.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/nearinfrared.jpg",
-          "width": 2075,
-          "height": 1638,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-02-near-infrared-imaging-machine-hidden-tumors.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-02-near-infrared-imaging-machine-hidden-tumors.amp",
-      "publishedDateTime": "2021-02-02T11:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1114,138 +1272,10 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-spot-the-robots-new-arm-lets-it-jump-rope-and-do-serious-stuff.md",
-      "title": "Spot the robot's new arm lets it jump rope (and do serious stuff)",
-      "excerpt": "Boston Dynamic's Spot robot got a whole toolkit of improvements from an arm that can lift 11 pounds to thermal imaging video cameras. The dog-like robot can now swing a",
-      "sourceUrl": null,
-      "webUrl": "https://www.youtube.com/watch?v=6Zbhvaac68Y&feature=youtu.be",
-      "originalUrl": "https://www.stltoday.com/lifestyles/technology/spot-the-robots-new-arm-lets-it-jump-rope-and-do-serious-stuff/video_c1ad22d0-c742-597c-9f8a-d43102ae5b2c.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/6Zbhvaac68Y/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-02T11:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "St. Louis Post-Dispatch",
-        "domain": "stltoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
+        "Natural Language Processing",
         "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-abu-dhabis-etihad-airways-taps-microsoft-to-modernise-its-finance-operations.md",
-      "title": "Abu Dhabi's Etihad Airways taps Microsoft to modernise its finance operations",
-      "excerpt": "Etihad Airways has turned to Microsoft AI to transform its Finance Operations, which is comprised of the company’s Finance and Digital, Technology and Innovation divisions. The move saw the Abu Dhabi-based carrier work with Microsoft to modernise its payment inspection process using cognitive services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itp.net/emergent-tech/95876-abu-dhabis-etihad-airways-taps-microsoft-to-modernise-its-finance-operations",
-      "originalUrl": "https://www.itp.net/emergent-tech/95876-abu-dhabis-etihad-airways-taps-microsoft-to-modernise-its-finance-operations",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itp.net/emergent-tech/95876-abu-dhabis-etihad-airways-taps-microsoft-to-modernise-its-finance-operations?amp",
-      "cdnAmpWebUrl": "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/emergent-tech/95876-abu-dhabis-etihad-airways-taps-microsoft-to-modernise-its-finance-operations?amp",
-      "publishedDateTime": "2021-02-02T10:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GDPR fines",
-        "domain": "itp.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-fintech-integrator-50-.md",
-      "title": "\"Fintech Integrator\" - ინიციატივა 5.0-ის ფარგლებში ჰაკათონი ჩატარდება",
-      "excerpt": "Fintech Integrator“ ინიციატივა 5.0–ის ფარგლებში ფინტექის მიმართულებით დაგეგმილი აქტივობებს შორის ერთ–ერთი ღონისძიებაა. ჰაკათონი 13–14 მარტს გაიმართება და მასში მონაწილეობა ყველა დაინტერესებულ ადამიანს შეეძლება.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/364604",
-      "originalUrl": "https://www.entrepreneur.com/article/364604",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1612290528-image-safe-zone-check.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/364604",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/364604",
-      "publishedDateTime": "2021-02-02T10:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
+        "AI Hardware",
+        "Google AI"
       ]
     }
   ],
