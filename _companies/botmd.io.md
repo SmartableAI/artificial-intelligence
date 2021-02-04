@@ -6,7 +6,7 @@ otherNames:
   - "botmd"
 overview: "Bot M.D. is an A.I assistant for Doctors.  Our A.I. instantly answers doctor questions on drugs, diseases, medical calculators as well as provides automatic voice to text transcriptions. Any doctor with a smartphone can download Bot M.D., making it a highly scalable platform to improve access to care in large markets.  We are always looking to hire awesome Android, React & iOS software developers as well as kickass, Data/ML and Backend engineers. "
 type: "profile"
-heat: 50
+heat: 78
 
 website: https://www.botmd.io
 
@@ -20,7 +20,7 @@ crunchbase:
 twitter:
   username: "botmdio"
   url: "https://twitter.com/botmdio"
-  followers: 55
+  followers: 56
 
 size: 2-10 employees
 yearFounded: 2018
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=zQLP9b9WHjU"
 
-secured: "FsGhpwP0c7raPdLAYxgxhaD8mkkbRNtfEvkNrEJvg1IjnRDUuo89RFjqOo8gsSNFw33N5zWz3f1caE0vve47pjko3W8mJrmGtvLolEEM1GnNxtxeR+hOl9Z7CwLu9FDDkfIa1muZzrSJJXERjrUfT/nPWcCG4LLs4aRiHwI8+bsBA/jlgS0R9DP4w7oXxxo2p4UAGNZVrBk5rbLPX2IjsH8adtLgOZScmO07WiE6HZx7ZPjP89N04ZyV9vjLq6GXQPM50U641IAuQ6CEnG+1ssqMnzldX+EHOcVdW81VexZ5tBQBrGc7Qz8VhgM5cmNKPNNTE+6twYlQl1fNiPcns1ZhRd/wzYwybgeP04uhir9BOh/Ds/wgsfUORaPiuEBIQv13CsnHj3s9+2rn4jjLfA==;KVuTHDHLqHaiebNPF0Oi/w=="
+secured: "4MsnHAgAWqH3mZdrMTvFhGAWvtw9SEQugi5cJ4Z9dx7Smm6DRQ45YRMGfAjw0H7I/SpFAbG78/RmpEcCq9q3xWWCcpjKU10EJJbG6f9aIjqCU/MPwMiGcwiTk5VcSthovFHF03W4LIJXPBYcOu4GXoznOHPa1pNXV4QALj3TRvSWGOmWEtoJK/KElnWH6sjy6ZWC/q9lVhfAN2oKaUkxqOl9PWC6wseP8ep7pdWRI/iKpdkKLJevzEtnXKugSY8NSUMi27T5hvlEKfxrql+sVr22Fy+laDTfW4uIo63dzaz5aPpxhFXQ4oI9e9LEwziOoeEONPceZXNJPXbaTaLJ3pihEznV9LKbVmi8dELA7c7k1JRsWfWGYa/B280ybPMfJNPhdNCPG2WIoA8mWm7Y4w==;WoffovwYD3t3o36/LgO5aA=="
 ---
 
