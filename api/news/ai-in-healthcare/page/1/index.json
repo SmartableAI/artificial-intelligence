@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-04-artificial-intelligence-in-manufacturing-market-size-industry-outlook-by-drivers-restraints-and-2021-2023.md",
+      "title": "Artificial Intelligence in Manufacturing Market: Size, Industry Outlook By Drivers, Restraints And 2021-2023",
+      "excerpt": "Market Analysis: AI in manufacturing market is estimated to be $330.5 million in 2017 and is expected to reach $4,012.5 million by 2023, growing at a CAGR of 51.6% during the forecast period 2017-2023.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-size-industry-outlook-by-drivers-restraints-and-2021-2023-2021-02-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-size-industry-outlook-by-drivers-restraints-and-2021-2023-2021-02-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-04T05:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-02-04-how-data-and-ai-will-continue-to-change-healthcare-in-2021.md",
       "title": "How Data And AI Will Continue To Change Healthcare In 2021",
       "excerpt": "The growth of data, artificial intelligence (AI) and machine learning (ML) has had a particularly strong impact on healthcare.",
@@ -489,7 +541,8 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -639,7 +692,8 @@
         "IBM AI",
         "AI",
         "AI in Healthcare",
-        "AWS AI"
+        "AWS AI",
+        "AI in Autos"
       ]
     },
     {
@@ -1420,49 +1474,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-global-healthcare-artificial-intelligence-market-2020-2027-growing-incorporation-of-ai-in-clinical-trials-to-accelerate-new-drug-launches.md",
-      "title": "Global Healthcare Artificial Intelligence Market, 2020-2027 - Growing Incorporation of AI in Clinical Trials to Accelerate New Drug Launches",
-      "excerpt": "The \"Healthcare Artificial Intelligence Market - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The global healthcare artificial intelligence (AI) market is expected to grow at a CAGR of 41.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/global-healthcare-artificial-intelligence-market-2020-2027-growing-incorporation-of-ai-in-clinical-trials-to-accelerate-new-drug-launches-1029983009",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/global-healthcare-artificial-intelligence-market-2020-2027-growing-incorporation-of-ai-in-clinical-trials-to-accelerate-new-drug-launches-1029983009",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/global-healthcare-artificial-intelligence-market-2020-2027-growing-incorporation-of-ai-in-clinical-trials-to-accelerate-new-drug-launches-1029983009",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-healthcare-artificial-intelligence-market-2020-2027-growing-incorporation-of-ai-in-clinical-trials-to-accelerate-new-drug-launches-1029983009",
-      "publishedDateTime": "2021-01-19T11:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

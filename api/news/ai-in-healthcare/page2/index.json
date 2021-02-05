@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-20-global-healthcare-artificial-intelligence-market-2020-2027-growing-incorporation-of-ai-in-clinical-trials-to-accelerate-new-drug-launches.md",
+      "title": "Global Healthcare Artificial Intelligence Market, 2020-2027 - Growing Incorporation of AI in Clinical Trials to Accelerate New Drug Launches",
+      "excerpt": "The \"Healthcare Artificial Intelligence Market - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The global healthcare artificial intelligence (AI) market is expected to grow at a CAGR of 41.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/global-healthcare-artificial-intelligence-market-2020-2027-growing-incorporation-of-ai-in-clinical-trials-to-accelerate-new-drug-launches-1029983009",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/global-healthcare-artificial-intelligence-market-2020-2027-growing-incorporation-of-ai-in-clinical-trials-to-accelerate-new-drug-launches-1029983009",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/global-healthcare-artificial-intelligence-market-2020-2027-growing-incorporation-of-ai-in-clinical-trials-to-accelerate-new-drug-launches-1029983009",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-healthcare-artificial-intelligence-market-2020-2027-growing-incorporation-of-ai-in-clinical-trials-to-accelerate-new-drug-launches-1029983009",
+      "publishedDateTime": "2021-01-19T11:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-20-mission-healthcare-of-san-diego-adopts-muse-healthcares-machine-learning-tool.md",
       "title": "Mission Healthcare of San Diego Adopts Muse Healthcare's Machine Learning Tool",
       "excerpt": "ST. PAUL, Minn., Jan. 19, 2021 /PRNewswire/ -- San Diego-based Mission Healthcare, one of the largest home health, hospice, and palliative care",
@@ -218,6 +261,40 @@
       ]
     },
     {
+      "path": "_news/2021-01-19-healthcare-artificial-intelligence-market-2027-market-is-expected-to-grow-at-a-cagr-of-414-researchandmarketscom.md",
+      "title": "Healthcare Artificial Intelligence Market, 2027 – Market is Expected to Grow at a CAGR of 41.4% – ResearchAndMarkets.com",
+      "excerpt": "Global Forecast to 2027” report has been added to ResearchAndMarkets.com’s offering. The global healthcare artificial intelligence (AI) market is expected to grow at a CAGR of 41.4% from 2020 to 2027 to reach $51.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/healthcare-artificial-intelligence-market-2027-market-is-expected-to-grow-at-a-cagr-of-41-4-researchandmarkets-com/",
+      "originalUrl": "https://www.financialbuzz.com/healthcare-artificial-intelligence-market-2027-market-is-expected-to-grow-at-a-cagr-of-41-4-researchandmarkets-com/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-19T00:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-19-neurophth-and-aavnergene-enter-strategic-aav-capsids-partnership-for-next-generation-ophthalmic-gene-therapy.md",
       "title": "Neurophth and AAVnerGene Enter Strategic AAV Capsids Partnership for Next-Generation Ophthalmic Gene Therapy",
       "excerpt": "Neurophth Therapeutics, Inc., a subsidiary of Wuhan Neurophth Biotechnology Ltd. gene therapy company (hereafter Neurophth), and AAVnerGene Inc., a specializing AAV technology company, today announced a strategic partnership to provide Neurophth with worldwide rights to mutually select adeno-associated virus (AAV) capsids for the next generation ophthalmic gene therapy.",
@@ -378,49 +455,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-healthcare-artificial-intelligence-market-2027-market-is-expected-to-grow-at-a-cagr-of-414-researchandmarketscom.md",
-      "title": "Healthcare Artificial Intelligence Market, 2027 - Market is Expected to Grow at a CAGR of 41.4% - ResearchAndMarkets.com",
-      "excerpt": "DUBLIN--(BUSINESS WIRE)--The \"Healthcare Artificial Intelligence Market - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The global healthcare artificial intelligence (AI) market is expected to grow at a CAGR of 41.4% ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pharmiweb.com/press-release/2021-01-18/healthcare-artificial-intelligence-market-2027-market-is-expected-to-grow-at-a-cagr-of-414-re",
-      "originalUrl": "https://www.pharmiweb.com/press-release/2021-01-18/healthcare-artificial-intelligence-market-2027-market-is-expected-to-grow-at-a-cagr-of-414-re",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png",
-          "width": 1200,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-18T08:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PharmiWeb",
-        "domain": "pharmiweb.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1292,59 +1326,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-healthcare-artificial-intelligence-ai-market-share-analysis-regional-outlook-growth-statistics-key-players-and-covid-19-impact-analysis.md",
-      "title": "Healthcare Artificial Intelligence (AI) Market Share Analysis, Regional Outlook, Growth Statistics, Key Players and COVID-19 Impact Analysis By 2023",
-      "excerpt": "The healthcare artificial intelligence (AI) market is anticipated to grow by US$12.22 Billion by 2023 rapidly growing at a CAGR of 51.9% during the forecast period 2018 to 2023. The global demand for artificial intelligence (AI) in healthcare is driven by a rising volume of healthcare data,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-share-analysis-regional-outlook-growth-statistics-key-players-and-covid-19-impact-analysis-by-2023-2021-01-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-share-analysis-regional-outlook-growth-statistics-key-players-and-covid-19-impact-analysis-by-2023-2021-01-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-07T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

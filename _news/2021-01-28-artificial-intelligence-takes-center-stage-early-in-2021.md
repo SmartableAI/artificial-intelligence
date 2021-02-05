@@ -23,6 +23,7 @@ topics:
   - AI
   - AI in Healthcare
   - AWS AI
+  - AI in Autos
 
 images:
   - url: "https://www.eweek.com/imagesvr_ez/b2bezp/2017/07/IBM.Watson2.JPG?alias=social_image"

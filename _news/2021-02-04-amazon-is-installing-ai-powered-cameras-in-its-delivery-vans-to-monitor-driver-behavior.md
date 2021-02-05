@@ -124,6 +124,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Amazon criticized for spying over AI cameras in its vans"
+    excerpt: "The reason for the cameras – designed by San Diego-based startup Netradyne – is to improve safety, so any mistakes that drivers make are recorded. If drivers get drowsy at the wheel, speed, fail to stop at a stop sign,"
+    publishedDateTime: 2021-02-05T03:37:00Z
+    webUrl: "https://siliconangle.com/2021/02/04/amazon-criticized-spying-ai-cameras-vans/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/Capture.png"
+        width: 963
+        height: 526
+        isCached: true
 
 secured: "9Z8qtLAsVUim2TL/b5LJcE+4+F2Bs0xUWfy6nYxi+zMOXNoQFzXau9y5eCJyLxiO/jnKd0WA4CIURLwT9lVV1kGEsrIKaaPsjA1slhxc9xS+HqeAkLyt8hXSIHLlDSF51OneVHoKJnA2SzCBkEY8dk59YZdeOk4L3CxbyDqOo+lQ1AvrI7N4QpIp4XcVPPZ81qSdqAjjJEdDtAGsG2nc26t76PeeNRfYNq87PxAVLtpVqYLFBCwTpoo38gFc9Yeo9HW/yUczR8AdxzH734CQczUbbRXC2n8RXx25Y6Ro2x2Ul5eQLdWqV3sjbGZmcME5n5VF7iaTW8W3zeLPDnuOChUyPLOVpjd6nPz0UhsZn3s=;7F9QmQ+nvWmWAehGNjENtQ=="
 ---

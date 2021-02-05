@@ -2,6 +2,41 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-03-abu-dhabis-etihad-airways-taps-microsoft-to-modernise-its-finance-operations.md",
+      "title": "Abu Dhabi's Etihad Airways taps Microsoft to modernise its finance operations",
+      "excerpt": "Etihad Airways has turned to Microsoft AI to transform its Finance Operations, which is comprised of the company’s Finance and Digital, Technology and Innovation divisions. The move saw the Abu Dhabi-based carrier work with Microsoft to modernise its payment inspection process using cognitive services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itp.net/emergent-tech/95876-abu-dhabis-etihad-airways-taps-microsoft-to-modernise-its-finance-operations",
+      "originalUrl": "https://www.itp.net/emergent-tech/95876-abu-dhabis-etihad-airways-taps-microsoft-to-modernise-its-finance-operations",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itp.net/emergent-tech/95876-abu-dhabis-etihad-airways-taps-microsoft-to-modernise-its-finance-operations?amp",
+      "cdnAmpWebUrl": "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/emergent-tech/95876-abu-dhabis-etihad-airways-taps-microsoft-to-modernise-its-finance-operations?amp",
+      "publishedDateTime": "2021-02-02T10:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GDPR fines",
+        "domain": "itp.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-02-03-fintech-integrator-50-.md",
       "title": "\"Fintech Integrator\" - ინიციატივა 5.0-ის ფარგლებში ჰაკათონი ჩატარდება",
       "excerpt": "Fintech Integrator“ ინიციატივა 5.0–ის ფარგლებში ფინტექის მიმართულებით დაგეგმილი აქტივობებს შორის ერთ–ერთი ღონისძიებაა. ჰაკათონი 13–14 მარტს გაიმართება და მასში მონაწილეობა ყველა დაინტერესებულ ადამიანს შეეძლება.",
@@ -1166,49 +1201,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-safari-turns-on-speech-recognition-by-default-tech-preview-of-release.md",
-      "title": "Safari turns on ‘Speech Recognition’ by default Tech Preview of release",
-      "excerpt": "Safari turns on 'Speech Recognition' by default Tech Preview of release on February 1, 2021 at 2.30 p.m. Apple's Safari browser is",
-      "sourceUrl": null,
-      "webUrl": "https://www.compsmag.com/news/technology/safari-turns-on-speech-recognition-by-default-tech-preview-of-release/",
-      "originalUrl": "https://www.compsmag.com/news/technology/safari-turns-on-speech-recognition-by-default-tech-preview-of-release/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Safari-turns-on-Speech-Recognition-by-default-Tech-Preview-of.png",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.compsmag.com/news/technology/safari-turns-on-speech-recognition-by-default-tech-preview-of-release/amp/",
-      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/safari-turns-on-speech-recognition-by-default-tech-preview-of-release/amp/",
-      "publishedDateTime": "2021-02-01T13:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows",
-        "domain": "compsmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

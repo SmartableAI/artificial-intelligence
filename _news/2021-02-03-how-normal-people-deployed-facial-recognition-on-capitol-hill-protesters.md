@@ -31,17 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fears raised over facial recognition use at Moscow protests"
-    excerpt: "Russian authorities are deploying facial recognition cameras to identify protesters during rallies in support of Kremlin critic Alexei Navalny in Moscow, human rights groups said, warning that the technology is being used to stifle peaceful dissent."
-    publishedDateTime: 2021-02-04T17:45:00Z
-    webUrl: "https://www.reuters.com/article/russia-protests-tech-idUSL8N2KA54T"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL8N2KA54T"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2KA54T"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
   - title: "Facial Recognition Tech May Be Being Used Against Russian Protestors"
     excerpt: "Navalny protests using facial recognition tools, detainees claim. As massive protests sweep across the nation, activists fear Russia has been deploying facial recognition technology to clamp down on dissent."
     publishedDateTime: 2021-02-01T21:37:00Z
@@ -88,6 +77,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Fears raised over facial recognition use at Moscow protests"
+    excerpt: "Russian authorities are deploying facial recognition cameras to identify protesters during rallies in support of Kremlin critic Alexei Navalny in Moscow, human rights groups said, warning that the technology is being used to stifle peaceful dissent."
+    publishedDateTime: 2021-02-05T03:02:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/02/05/fears-raised-over-facial-recognition-use-at-moscow-protests"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 54
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/02/05/1034122.jpg"
+        width: 1240
+        height: 826
+        isCached: true
   - title: "Female entrepreneur pioneers facial recognition tech"
     excerpt: "Female entrepreneur pioneers facial recognition tech - Kommunikation - Kim Harrisberg - Charlette N'Guessan Desiree loved maths and science as a student in Ivory... - Allgemeine Zeitung"
     publishedDateTime: 2021-02-01T07:04:00Z
@@ -104,15 +107,15 @@ related:
         isCached: true
   - title: "Apple creates workaround to facial recognition blocked by face mask"
     excerpt: "This has probably happened at least once to an Apple user who is trying to unlock their iPhone with the device’s camera. The phone just can’t figure out you are you while you’re wearing a face mask. Jumping through the hoops of trying the camera,"
-    publishedDateTime: 2021-02-03T18:17:00Z
-    webUrl: "https://www.wftv.com/news/trending/apple-creates-workaround-facial-recognition-blocked-by-face-mask/F7GQKNQQ35C3DCUKS3MJMBR5VQ/"
+    publishedDateTime: 2021-02-03T18:02:00Z
+    webUrl: "https://www.wsoctv.com/news/trending/apple-creates-workaround-facial-recognition-blocked-by-face-mask/F7GQKNQQ35C3DCUKS3MJMBR5VQ/"
     type: article
     provider:
-      name: WFTV
-      domain: wftv.com
+      name: WSOC-TV
+      domain: wsoctv.com
     quality: 39
     images:
-      - url: "https://www.wftv.com/resizer/CBVb4qLwlF6YmcjIZ6eoh_TT_2k=/1200x628/d1hfln2sfez66z.cloudfront.net/02-03-2021/t_8fc4e0349f8b49209d662ee18ce01ca7_name_thumb.jpg"
+      - url: "https://www.wsoctv.com/resizer/CBVb4qLwlF6YmcjIZ6eoh_TT_2k=/1200x628/d1hfln2sfez66z.cloudfront.net/02-03-2021/t_8fc4e0349f8b49209d662ee18ce01ca7_name_thumb.jpg"
         width: 1200
         height: 628
         isCached: true

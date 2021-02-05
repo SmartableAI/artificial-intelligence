@@ -8,7 +8,7 @@ webUrl: "https://www.army.mil/article/242923/army_researchers_expand_study_of_et
 ampWebUrl: "https://www.army.mil/article-amp/242923/army_researchers_expand_study_of_ethics_artificial_intelligence"
 cdnAmpWebUrl: "https://www-army-mil.cdn.ampproject.org/c/s/www.army.mil/article-amp/242923/army_researchers_expand_study_of_ethics_artificial_intelligence"
 type: article
-quality: 56
+quality: 58
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ topics:
   - AI
   - AI Ethics
   - AI in Robotics
+  - AI in Autos
 
 related:
   - title: "Two Google engineers resign over firing of AI ethics researcher"

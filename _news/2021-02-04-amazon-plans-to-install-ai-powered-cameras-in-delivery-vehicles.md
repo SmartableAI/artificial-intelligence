@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/amazon-plans-to-install-ai-powe
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-plans-to-install-ai-powered-cameras-in-delivery-vehicles/"
 type: article
 quality: 87
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -123,6 +123,20 @@ related:
       - url: "https://i.insider.com/6012caf36dfbe10018e00709?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Amazon criticized for spying over AI cameras in its vans"
+    excerpt: "The reason for the cameras – designed by San Diego-based startup Netradyne – is to improve safety, so any mistakes that drivers make are recorded. If drivers get drowsy at the wheel, speed, fail to stop at a stop sign,"
+    publishedDateTime: 2021-02-05T03:37:00Z
+    webUrl: "https://siliconangle.com/2021/02/04/amazon-criticized-spying-ai-cameras-vans/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/Capture.png"
+        width: 963
+        height: 526
         isCached: true
 
 secured: "VRaihTemvPKenkb0bB7OFvsNuq7lIEJAvXzxbrA5bkMlVSvfqfMyys9GWeVVeOvJ1W4aCUU8BnTRKAnvM43065w79Wp0grAs0AgBElVhvSljpyUM/FrjeBnB8BsdYx8Q0MGTwM8j1AYbD8/b4q1O4Ujm/N+hPvMK87q3Itz8o56ck5NPEnSJK+wDPQXwiLyqosinZ3WMaW0MWDLb/BD5GEA2qM7j1lKedeik0d0d8/bx5HVzZalR5Q/d5aqW3BJZpjPmIPOO853Dzh+UEWI+DqiVzarCTLvsRlsTQaX55oaQOe+UslL/YHEPtwR0RsLT2QiJOGTjd7PLdxTCX3esy01BknfySrKOGGwi85opMXw=;epRDcgT1rTAxdEd/Wea0sw=="

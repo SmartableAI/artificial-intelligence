@@ -141,6 +141,20 @@ related:
         width: 800
         height: 418
         isCached: true
+  - title: "Law.com Litigation Trendspotter: Why Trial Lawyers Owe It to Their Clients to Embrace AI and Data Analytics"
+    excerpt: "Now, more than ever, litigators may be doing their clients a disservice by not taking advantage of legal technology."
+    publishedDateTime: 2021-02-05T03:08:00Z
+    webUrl: "https://www.law.com/2021/02/04/law-com-litigation-trendspotter-why-trial-lawyers-owe-it-to-their-clients-to-embrace-ai-and-data-analytics/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 19
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/292/2021/02/Robot-Article-202102042052.jpg"
+        width: 620
+        height: 372
+        isCached: true
   - title: "OH: Local analytics startup signs COTA as first client"
     excerpt: "Ikonos is positioned to establish process and governance around the use of data in organizations, such as COTA."
     publishedDateTime: 2021-02-04T12:22:00Z

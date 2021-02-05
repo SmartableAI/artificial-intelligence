@@ -45,59 +45,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-05-ai-reading-list-8-interesting-books-about-artificial-intelligence-to-check-out.md",
-      "title": "AI reading list: 8 interesting books about artificial intelligence to check out",
-      "excerpt": "These eight books about artificial intelligence cover a range of topics, including ethical issues, how AI is affecting the job market, and how organizations can use AI to gain a competitive advantage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
-      "originalUrl": "https://www.techrepublic.com/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2021/02/02/12791f95-34d0-4745-b925-969861beab17/resize/1200x900/c78d0cc8a33af41d91857d238e02bdef/t-minus-ai.jpg",
-          "width": 603,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
-      "publishedDateTime": "2021-02-04T08:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_news/2021-02-04-two-google-engineers-resign-over-firing-of-ai-ethics-researcher.md",
       "title": "Two Google engineers resign over firing of AI ethics researcher",
       "excerpt": "An engineering director and a software developer have quit Alphabet's Google over the dismissal of AI researcher Timnit Gebru, a sign of the ongoing conflicts at the search giant over diversity and ethics.",
@@ -138,6 +85,58 @@
       "topics": [
         "AI Ethics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-04-how-censorship-can-influence-artificial-intelligence.md",
+      "title": "How Censorship Can Influence Artificial Intelligence",
+      "excerpt": "A study finds that algorithms learn to associate words with other words. “Democracy” can equal “stability”—or “chaos.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/how-censorship-can-influence-artificial-intelligence/",
+      "originalUrl": "https://www.wired.com/story/how-censorship-can-influence-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/601b432ad18be3330afe51f8/master/pass/business-china-ai-170618501.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/how-censorship-can-influence-artificial-intelligence/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/how-censorship-can-influence-artificial-intelligence/amp",
+      "publishedDateTime": "2021-02-04T05:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
       ]
     },
     {

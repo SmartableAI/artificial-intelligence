@@ -8,8 +8,8 @@ webUrl: "https://www.wired.com/story/how-censorship-can-influence-artificial-int
 ampWebUrl: "https://www.wired.com/story/how-censorship-can-influence-artificial-intelligence/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/how-censorship-can-influence-artificial-intelligence/amp"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://media.wired.com/photos/601b432ad18be3330afe51f8/master/pass/business-china-ai-170618501.jpg"

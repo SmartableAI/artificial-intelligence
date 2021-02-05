@@ -193,20 +193,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
-    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
-    publishedDateTime: 2021-02-03T08:22:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 46
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Microsoft Says It's Time to Attack Your Machine-Learning Models"
     excerpt: "With access to some training data, Microsoft's red team recreated a machine-learning system and found sequences of requests that resulted in a denial-of-service."
     publishedDateTime: 2021-02-04T22:13:00Z
@@ -235,6 +221,29 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Microsoft Partnership Will Bring New Cloud Service to DOD Microelectronics Project"
+    excerpt: "Microsoft announced new partnerships Thursday that will support two major Defense Department projects using the tech giant’s Azure cloud services. Microsoft is working with ten companies on a technology solution for the secure design of microelectronics using a new service in the Azure Government cloud region in support of a Defense Department program,"
+    publishedDateTime: 2021-02-05T02:57:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2021/02/microsoft-partnership-will-bring-new-cloud-service-dod-microelectronics-project/171872/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 35
+    images:
+      - url: "https://cdn.nextgov.com/media/img/upload/2021/02/04/NGmicrosfot20210204/860x394.jpg"
+        width: 860
+        height: 394
+        isCached: true
+  - title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
+    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance"
+    publishedDateTime: 2021-02-02T22:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 26
 
 secured: "IcVeV0B5oCcOMTa38vPPi1/1KSIoN5q2dVANGVhbQiOSKG/84joQo+caF+YjqJ3SU2SGqgdZ1f9hjoxN9u7wTPpO306Zh6pWxeAI/Sxud3iaHfGQpEVHJQW/RgtoU38Y4j58+oOcFXA1tC7Z1nB5q+IOEu2qT4EEo2AMUHjN1z7veNhHyZzfkBX/1mkwN6GWBCgVnTqWUhELsJxZman50+jrsurS2koFP2Ab4JIspwcczOAgPSHlGQESPry0Mrhvin5nsAFoibY5eEk4GzKBxHDaoWJ0dWIIiAilrWMAS3CvqjActgvEr69b/kB/+BBG6wFV9VSoDAo/6AxukXUfYFZfB8WI2KpF98uwHFLz+iE=;q//n4gVQtA1mgwAW91Av8Q=="
 ---

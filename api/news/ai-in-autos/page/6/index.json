@@ -2,6 +2,135 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-12-24-nuro-acquires-self-driving-truck-startup-ike.md",
+      "title": "Nuro acquires self-driving truck startup Ike",
+      "excerpt": "Ike, a self-driving truck company, has been acquired for autonomous delivery vehicle startup Nuro for an undusclosed.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/23/nuro-acquires-self-driving-truck-startup-ike/",
+      "originalUrl": "https://venturebeat.com/2020/12/23/nuro-acquires-self-driving-truck-startup-ike/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/1_9IoN3j6ndt5nxBKUJZWqbA-e1575988061611.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/23/nuro-acquires-self-driving-truck-startup-ike/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/23/nuro-acquires-self-driving-truck-startup-ike/amp/",
+      "publishedDateTime": "2020-12-23T09:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-24-tesla-to-offer-full-self-driving-as-a-subscription.md",
+      "title": "Tesla To Offer Full Self-Driving As A Subscription",
+      "excerpt": "Tesla has confirmed that its full-self driving software suite will be offered to customers as a subscription. In recent months, the automaker’s Full-Self Driving beta has been rolled out to a number of customers for testing but Elon Musk does want to see this testing program grow.",
+      "sourceUrl": null,
+      "webUrl": "https://www.carscoops.com/2020/12/tesla-to-offer-full-self-driving-as-a-subscription/",
+      "originalUrl": "https://www.carscoops.com/2020/12/tesla-to-offer-full-self-driving-as-a-subscription/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.carscoops.com/wp-content/uploads/2019/06/1b9f05e6-tesla-autopilot-00-1024x555.jpg",
+          "width": 1024,
+          "height": 555,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.carscoops.com/2020/12/tesla-to-offer-full-self-driving-as-a-subscription/amp/",
+      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2020/12/tesla-to-offer-full-self-driving-as-a-subscription/amp/",
+      "publishedDateTime": "2020-12-23T08:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Carscoops",
+        "domain": "carscoops.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-23-5-self-driving-car-stocks-with-the-most-potential-moving-into-2021.md",
+      "title": "5 Self-Driving Car Stocks With the Most Potential Moving Into 2021",
+      "excerpt": "Investors seeking exposure to the driverless car revolution now have the option of choosing from a variety of self-driving car stocks. Several companies are racing to get the first fully ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021-2020-12-23?time=1608885181",
+      "originalUrl": "https://www.nasdaq.com/articles/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021-2020-12-23?time=1608885181",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021-2020-12-23?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-self-driving-car-stocks-with-the-most-potential-moving-into-2021-2020-12-23?amp",
+      "publishedDateTime": "2020-12-23T06:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-23-toyota-wants-to-sell-self-driving-shuttles-which-double-as-on-the-go-offices.md",
       "title": "Toyota wants to sell self-driving shuttles which double as on-the-go offices",
       "excerpt": "Toyota Motor Corp. is aiming to commercialize an autonomous shipping-container-like vehicle within a few years that it says could double as a mobile store or roving office. Toyota’s e-Palette ...",
@@ -1261,126 +1390,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-huawei-case-layout-and-strategy-research-report.md",
-      "title": "Huawei CASE Layout and Strategy Research Report...",
-      "excerpt": "Huawei has BAT (Baidu, Alibaba, and Tencent ... that Neolix developed self-driving delivery system; that DeepRoute.ai developed the solution for container trucks at ports; that i-Tage Technology ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/12/b18811805/huawei-case-layout-and-strategy-research-report-2020-huaweis-automotive-business-route-is-to-first",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/12/b18811805/huawei-case-layout-and-strategy-research-report-2020-huaweis-automotive-business-route-is-to-first",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/18811805",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18811805",
-      "publishedDateTime": "2020-12-16T03:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-chinese-search-engine-baidu-considers-making-electric-cars-in-talks-with-geely-hongqi-others.md",
-      "title": "Chinese search-engine Baidu considers making electric cars: In talks with Geely, Hongqi, others",
-      "excerpt": "tech giant Sony Corp in January unveiled an electric concept car with self-driving functions. Building cars would represent a dramatic development in Baidu’s push to diversify income streams as ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/auto/electric-vehicles/chinese-search-engine-baidu-considers-making-electric-cars-in-talks-with-geely-hongqi-others/2150551/",
-      "originalUrl": "https://www.financialexpress.com/auto/electric-vehicles/chinese-search-engine-baidu-considers-making-electric-cars-in-talks-with-geely-hongqi-others/2150551/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.financialexpress.com/2020/12/baidu-electric-cars.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/auto/electric-vehicles/chinese-search-engine-baidu-considers-making-electric-cars-in-talks-with-geely-hongqi-others/2150551/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/auto/electric-vehicles/chinese-search-engine-baidu-considers-making-electric-cars-in-talks-with-geely-hongqi-others/2150551/lite/",
-      "publishedDateTime": "2020-12-15T22:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-china-search-giant-baidu-considers-making-own-electric-vehicles.md",
-      "title": "China search giant Baidu considers making own electric vehicles",
-      "excerpt": "Baidu has held preliminary talks – without ... giant Sony Corp in January unveiled an electric concept car with self-driving functions. Building cars would represent a dramatic development ...",
-      "sourceUrl": null,
-      "webUrl": "https://dailytimes.com.pk/702293/china-search-giant-baidu-considers-making-own-electric-vehicles/",
-      "originalUrl": "https://dailytimes.com.pk/702293/china-search-giant-baidu-considers-making-own-electric-vehicles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dailytimes.com.pk/assets/uploads/2020/12/CHINA-CAR.jpg",
-          "width": 611,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://dailytimes.com.pk/702293/china-search-giant-baidu-considers-making-own-electric-vehicles/amp/",
-      "cdnAmpWebUrl": "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/702293/china-search-giant-baidu-considers-making-own-electric-vehicles/amp/",
-      "publishedDateTime": "2020-12-15T21:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Times",
-        "domain": "dailytimes.com.pk",
-        "images": null,
         "publishers": null,
         "authors": null
       },

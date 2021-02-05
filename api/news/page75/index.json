@@ -2,6 +2,58 @@
   "page": 75,
   "value": [
     {
+      "path": "_news/2020-12-07-researchers-can-use-qsim-to-explore-quantum-algorithms.md",
+      "title": "Researchers can use qsim to explore quantum algorithms",
+      "excerpt": "A year ago, Google’s Quantum AI team achieved a beyond-classical computation by using a quantum computer to outperform the world’s fastest classical computer. With this, we entered a new era of quantum computing. We still have a long journey ahead of us to find practical applications, and we know we",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/qsim-explore-quantum-algorithms/",
+      "originalUrl": "https://blog.google/technology/ai/qsim-explore-quantum-algorithms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blog.google/static/blogv2/images/google-1000x1000.png",
+          "width": 1000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/qsim-explore-quantum-algorithms/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/qsim-explore-quantum-algorithms/amp/",
+      "publishedDateTime": "2020-12-07T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-08-the-ipo-market-looks-hot-as-airbnb-and-c3ai-raise-price-targets.md",
       "title": "The IPO market looks hot as Airbnb and C3.ai raise price targets",
       "excerpt": "So much for a December slowdown— this morning, Airbnb and C3.ai raised their IPO price ranges and we got early pricing information from Upstart and Wish.",
@@ -1143,49 +1195,6 @@
         "IBM AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-grasping-an-object-model-describes-complete-movement-planning-in-the-brain.md",
-      "title": "Grasping an object - model describes complete movement planning in the brain",
-      "excerpt": "Neurobiologists at the German Primate Center developed a model that for the first time can completely represent the neuronal processes from seeing to grasping an object Every day we effortlessly ...",
-      "sourceUrl": null,
-      "webUrl": "https://idw-online.de/de/news759379",
-      "originalUrl": "https://idw-online.de/de/news759379",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://files.idw-online.de/corona_idw.png",
-          "width": 615,
-          "height": 284,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-07T02:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "idw",
-        "domain": "idw-online.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

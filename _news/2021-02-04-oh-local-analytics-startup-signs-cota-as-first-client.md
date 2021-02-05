@@ -148,6 +148,20 @@ related:
         width: 1242
         height: 710
         isCached: true
+  - title: "Law.com Litigation Trendspotter: Why Trial Lawyers Owe It to Their Clients to Embrace AI and Data Analytics"
+    excerpt: "Now, more than ever, litigators may be doing their clients a disservice by not taking advantage of legal technology."
+    publishedDateTime: 2021-02-05T03:08:00Z
+    webUrl: "https://www.law.com/2021/02/04/law-com-litigation-trendspotter-why-trial-lawyers-owe-it-to-their-clients-to-embrace-ai-and-data-analytics/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 19
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/292/2021/02/Robot-Article-202102042052.jpg"
+        width: 620
+        height: 372
+        isCached: true
 
 secured: "5E80K/QnlVCZcXqOw+r8np4Ax/xT92IvUPD2ehiYqYrBRI69H8aSOQ6IZDvXU4CEH0i/uXwwXY7URCh7szhK3LE7aWpuNg4uJOnoeLFqnf1b9RY/9QrOftf3hGdK8O/jMKaEuMzNgClCftmWHoHaELZlxiUKpe6TkSRnkDtXL4ZWl+vLM5E3qWznGMUJzZc4pWtbmtozsPv1icGa3Ziqmh00xEyBAJkv5iF2UNSbv8QzLjh/wq/uVCQ3nhG8xNvzgdHLC8bkvjZDRkFppusga/H/WpPOUn1yIh5cq/F8EA9aGd2s1df75PkL/IFSOUounLquOaoDXZYSQqnPQK+1Y94cRSR7ovJlcbcfNI9Uvm4=;Bwu5WYLh0GvtPPiWFrNrAg=="
 ---

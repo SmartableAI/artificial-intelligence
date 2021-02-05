@@ -6,8 +6,8 @@ publishedDateTime: 2021-02-04T13:24:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-size-industry-outlook-by-drivers-restraints-and-2021-2023-2021-02-04"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-size-industry-outlook-by-drivers-restraints-and-2021-2023-2021-02-04"
 type: article
-quality: 63
-heat: 153
+quality: 65
+heat: 165
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -120,6 +121,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 31
+  - title: "Artificial Intelligence in Medicine Market to Witness a CAGR of 49.6% During Forecast Period to 2025"
+    excerpt: "Allied Analytics –:Artificial Intelligence in Medicine Market by Product Type, Technology, and Application: Global Opportunity Analysis and Industry Forecast, 2017-2023,” the market was valued at $719 million in 2017 and is estimated to"
+    publishedDateTime: 2021-02-05T04:02:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2021-02-05/artificial-intelligence-in-medicine-market-to-witness-a-cagr-of-496-during-forecast-period-to-2025"
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 24
+    images:
+      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+        width: 1200
+        height: 448
+        isCached: true
   - title: "Speech and Voice Recognition Market Revenue, Industry Growing Demand, Size, Share, Business Opportunities, Top Companies, Regional Outlook 2027"
     excerpt: "Global Speech and Voice Recognition Market is valued approximately at USD 12.3 Billion in 2019 and is anticipated to"
     publishedDateTime: 2021-02-03T21:39:00Z

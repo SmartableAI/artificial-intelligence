@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Apple, Hyundai-Kia near deal to build self-driving electric Apple Car"
+    excerpt: "CNBC's Phil LeBeau explains his scoop about the deal talks between Hyundai-Kia and Apple to manufacture an Apple Car as soon as 2024."
+    publishedDateTime: 2021-02-05T04:03:00Z
+    webUrl: "https://www.cnbc.com/video/2021/02/04/apple-hyundai-kia-near-deal-to-build-self-driving-electric-apple-car.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 69
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106741890-16025951652020-10-13t105843z_940689204_rc2mhj94sbo0_rtrmadp_0_apple-iphone.jpeg?v=1602595195"
+        width: 3500
+        height: 2334
+        isCached: true
   - title: "Hyundai’s Kia latest focus of Apple self-driving car rumors"
     excerpt: "South Korea's Kia Corp is the latest car manufacturer to have come under the spotlight following previous reports that Apple is targeting 2024 to produce a self-driving car that could include its own battery technology."
     publishedDateTime: 2021-02-03T16:11:00Z
@@ -32,6 +46,20 @@ related:
       - url: "https://img.lightreading.com/2021/02/767107/5236.jpg"
         width: 500
         height: 500
+        isCached: true
+  - title: "Apple’s self-driving electric car project could call Georgia home"
+    excerpt: "If Georgia is picked to build Silicon Valley giant Apple’s self-driving electric vehicles, it could mean lots of new jobs, a big boost to tax revenue and a burnishing of the state’s reputation as a tech hub."
+    publishedDateTime: 2021-02-05T01:42:00Z
+    webUrl: "https://www.ajc.com/news/apples-self-driving-electric-car-project-could-call-georgia-home/MPQA3U2N7BH2HG4NLTFG6OT5LE/"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 24
+    images:
+      - url: "https://www.ajc.com/resizer/J3ITkLApWMSLxu9bJP_HZpIJN-E=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/TPRVKCNPGC7O2WSAZKTK6PUSXQ.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "k0N/Gn87XgIzmRWlAwzuN1+zf6wRfVq/fZ/SOreCppL2PSg/XJKzCCz3HeZVsP7Kz64HETyC82IhIxPB4PruR9m3R04vQGxV1OLlX7pdO/OVBFJtzptsUT/uLSgJX6GENr2q8bWHDpT6FeL5mfQDwGmSn0GD0pjJfjd+ZBaVv4GK0/MJyPHkKWP+B6GQuyZoTrvJYx31i0fLV9SxfksX7wxTvRe5pg03zGa6OBnth1NPwq+WFhwDQT7VoP0GgcBdpHiGRWnswvQU/r+vWTyHodJYyGEVFDW94VvllyTXPhVSp3anw3DvHztLxb6OPso0Eq/6Ka/L3fbN0F2x/5a1wM+qNZB1xKPdLE4p1+aiCAw=;fc8tIrdOB7kekWCFXhEn5Q=="

@@ -1,7 +1,7 @@
 ---
 category: news
 title: "SoftBank's Son expects mass production of driverless cars in two years"
-excerpt: "Son, who made his name for investing early in startups such as China’s Alibaba Group had said he will continue to take stakes in public companies he thinks are frontrunners in the artificial ..."
+excerpt: "Automakers and tech companies, including Alphabet Inc’s Waymo and Tesla Inc ... in public companies he thinks are frontrunners in the artificial intelligence (AI) race."
 publishedDateTime: 2021-01-29T16:08:00Z
 originalUrl: "https://www.reuters.com/article/us-davos-meeting-son-autonomous-idUSKBN29Y279"
 webUrl: "https://www.reuters.com/article/us-davos-meeting-son-autonomous-idUSKBN29Y279"
@@ -27,6 +27,6 @@ images:
     height: 545
     isCached: true
 
-secured: "0tU5nULZ5BvnjYvtS4hX/W88rSCBdjQOZqWUBXY2enrzyPnDju8Zx72vGGzo7k750HGD+9XsJXLY6lHDdTKhIib5Jogd8e6YQIXHSHOlZBkctGI4E0/GrVYPH4LnvoidHddelhbZFjmQpatRpvCMyu+L0TgSq7gCZGEFTGDiG/LtEecnVEgjiu3adhOnd88Lx8wk39GP7eKqQPNQqKc3TiYMzQzvO+qaE7nNObUmQtsmATYD2pFBC9YG7Q535n/qg5e34kY5T4/Gv9Dh1m/qLD+C+oty8tqwpSawWqKrgvD0KWraro4sLR7c5RFB+rpLSxqDSp4Iqwv6Oz0/GiIehKtWCBypNzeU5oeM5wtvBIk=;77KwVKPugEsWHRsMXoFZtg=="
+secured: "iqYD/MrqqYzISNfH8uls09DwFQNOPxLvxKuiaBE/tF5wPBOG3CqyZYMRKzJVa8b9jF1N7C/X5JeIZz2ptu7CwR6fChwXn2VLUgHpaofp1pC055h0TpooBewU8IUG2DxhokltDi41WTCNYkxnveIZqZscfUepkao0vAZXTxzyXjrgPsAMj7PUVlIky4mHDS94LE3oMWGbwl9Cqa113C54NBYfbnZ0sDca4TRiuW2d4/P1CB5M4QdqdcK3CYtnimVh8O/Cm0z6pD8PwTm+zHuaAjyw3JzT0wCCI3vOXrDFoYf7DbvLtnfwN1i8ebIVAsF9nLojdRMTQHHtSKBcNN9ro28G1h750VhbABkBFX5nhbU=;9w+nhNUuqoKP4BX4Yklt/w=="
 ---
 

@@ -2,24 +2,24 @@
 category: news
 title: "Apple creates workaround to facial recognition blocked by face mask"
 excerpt: "This has probably happened at least once to an Apple user who is trying to unlock their iPhone with the device’s camera. The phone just can’t figure out you are you while you’re wearing a face mask. Jumping through the hoops of trying the camera,"
-publishedDateTime: 2021-02-03T18:17:00Z
-originalUrl: "https://www.wftv.com/news/trending/apple-creates-workaround-facial-recognition-blocked-by-face-mask/F7GQKNQQ35C3DCUKS3MJMBR5VQ/"
-webUrl: "https://www.wftv.com/news/trending/apple-creates-workaround-facial-recognition-blocked-by-face-mask/F7GQKNQQ35C3DCUKS3MJMBR5VQ/"
+publishedDateTime: 2021-02-03T18:02:00Z
+originalUrl: "https://www.wsoctv.com/news/trending/apple-creates-workaround-facial-recognition-blocked-by-face-mask/F7GQKNQQ35C3DCUKS3MJMBR5VQ/"
+webUrl: "https://www.wsoctv.com/news/trending/apple-creates-workaround-facial-recognition-blocked-by-face-mask/F7GQKNQQ35C3DCUKS3MJMBR5VQ/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: WFTV
-  domain: wftv.com
+  name: WSOC-TV
+  domain: wsoctv.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.wftv.com/resizer/CBVb4qLwlF6YmcjIZ6eoh_TT_2k=/1200x628/d1hfln2sfez66z.cloudfront.net/02-03-2021/t_8fc4e0349f8b49209d662ee18ce01ca7_name_thumb.jpg"
+  - url: "https://www.wsoctv.com/resizer/CBVb4qLwlF6YmcjIZ6eoh_TT_2k=/1200x628/d1hfln2sfez66z.cloudfront.net/02-03-2021/t_8fc4e0349f8b49209d662ee18ce01ca7_name_thumb.jpg"
     width: 1200
     height: 628
     isCached: true
@@ -41,17 +41,6 @@ related:
         width: 5128
         height: 2881
         isCached: true
-  - title: "Fears raised over facial recognition use at Moscow protests"
-    excerpt: "Russian authorities are deploying facial recognition cameras to identify protesters during rallies in support of Kremlin critic Alexei Navalny in Moscow, human rights groups said, warning that the technology is being used to stifle peaceful dissent."
-    publishedDateTime: 2021-02-04T17:45:00Z
-    webUrl: "https://www.reuters.com/article/russia-protests-tech-idUSL8N2KA54T"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL8N2KA54T"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2KA54T"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
   - title: "Facial Recognition Tech May Be Being Used Against Russian Protestors"
     excerpt: "Navalny protests using facial recognition tools, detainees claim. As massive protests sweep across the nation, activists fear Russia has been deploying facial recognition technology to clamp down on dissent."
     publishedDateTime: 2021-02-01T21:37:00Z
@@ -98,6 +87,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Fears raised over facial recognition use at Moscow protests"
+    excerpt: "Russian authorities are deploying facial recognition cameras to identify protesters during rallies in support of Kremlin critic Alexei Navalny in Moscow, human rights groups said, warning that the technology is being used to stifle peaceful dissent."
+    publishedDateTime: 2021-02-05T03:02:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/02/05/fears-raised-over-facial-recognition-use-at-moscow-protests"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 54
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/02/05/1034122.jpg"
+        width: 1240
+        height: 826
+        isCached: true
   - title: "Female entrepreneur pioneers facial recognition tech"
     excerpt: "Female entrepreneur pioneers facial recognition tech - Kommunikation - Kim Harrisberg - Charlette N'Guessan Desiree loved maths and science as a student in Ivory... - Allgemeine Zeitung"
     publishedDateTime: 2021-02-01T07:04:00Z
@@ -127,6 +130,6 @@ related:
         height: 823
         isCached: true
 
-secured: "q+5oqruaqEmS+thZZ6ihw05GEKiAz111ZRl4FPeUeeVHgHV+Fw6h22s3y5EsS1Odyhr0+DX1tW4YgCRPndyWtrEAbSlaSTeb6D1sK6vmyT8HFby1cvjM1pwt8rwwg/37ejq9+hBP8S6lCgyKKad1DOgKRfcICdrk/9aLEPUJCTtv7S7gwDBlintD7Yig/IWrWLVbFjn5PIwP9ow0TJgFE0lIULa7fPx+a+ackKUaC82WB8VxGTKUL6eq+RD4ZKYP9u9COxnnw2wN1DJLYCzgNmB+Ml8VutLew1PL4BA+czSLkGaS2yG5+mYpirAv6pVCUxy1TSy3whBkQwjJGkpZn5hs3RLUQEoPHbt1EevSpB0h+WZ7GGFchk98n9jpfSB30yre5Z7W39AQimSxuEvvcvQnTY6NCnmc1LP5IBjKSwirPtSpIVBAp+Ym1xjAaol+Ih8LjFDIOgoMZ3YsCaz1McioT3Yn3dMWpWhX51v4/c8h9WfBA5klVtlSuwQL0TqmyGJlrsf1C7x3oDh/ZcohqQ==;8uxCzsM6wz8vNqTHH10z3g=="
+secured: "dMfwxGWhkoYexhl9Lsb6c9fQvBYs/GeLoS+wYj3VeYLg57QzMFdgZM+WEJ4fv9A3i+ADrgF4KpenuMw2lzTY8XXo10jLx9034Q2YhjugX4D9LHPk1EvPgJANAgnmVnyf5fttWAZsyLQDCIyK+eVlvUQDdehY7j4OtKwxQhXfkTtNpJOnxWy7YZtwwN1KjK2cgyzp9AcvBP8eK7OvMO7se50N6H7RHzIdr9pYCl/S1Z5oBkoro5e1lnhM2DO8IJ7tuQBwcUzGWT5Bw5kqL+bDJJOzXRzVcsxG3VD8NLCY7Py8ptS0OlD6XdTkNGpKp4PGgwkOFPa74V1WLlajmTQ9tK7Fg4YCNKQMGTWNPwWK6mw=;onHoDTjE6E8puK+KWp+/nA=="
 ---
 

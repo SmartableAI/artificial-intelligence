@@ -37,7 +37,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 63
+    quality: 65
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -135,6 +135,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 31
+  - title: "Artificial Intelligence in Medicine Market to Witness a CAGR of 49.6% During Forecast Period to 2025"
+    excerpt: "Allied Analytics –:Artificial Intelligence in Medicine Market by Product Type, Technology, and Application: Global Opportunity Analysis and Industry Forecast, 2017-2023,” the market was valued at $719 million in 2017 and is estimated to"
+    publishedDateTime: 2021-02-05T04:02:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2021-02-05/artificial-intelligence-in-medicine-market-to-witness-a-cagr-of-496-during-forecast-period-to-2025"
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 24
+    images:
+      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+        width: 1200
+        height: 448
+        isCached: true
   - title: "Global Mobile Speech Recognition Software Market Report 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026"
     excerpt: "The Mobile Speech Recognition Software market is expected to grow from USD X.X million in 2020 to USD X.X million by 2026, at a CAGR of X.X% during the forecast period. The global Mobile Speech Recognition Software market report is a comprehensive research that focuses on the overall consumption structure,"
     publishedDateTime: 2021-02-05T02:09:00Z

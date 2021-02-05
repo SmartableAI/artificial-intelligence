@@ -1,32 +1,27 @@
 ---
 category: news
 title: "How Medical Technology Companies are Taking Full Advantage of Artificial Intelligence (AI) In Healthcare"
-excerpt: "However, in time, AI has made its way closer to the user – into software and into Internet of Medical Things (IoMT) endpoints and other medical devices. For example, wearable health monitors such as ECG monitors and blood pressure monitors can collect and analyse data locally,"
-publishedDateTime: 2021-02-02T14:46:00Z
-originalUrl: "https://www.marketwatch.com/press-release/how-medical-technology-companies-are-taking-full-advantage-of-artificial-intelligence-ai-in-healthcare-2021-02-02"
-webUrl: "https://www.marketwatch.com/press-release/how-medical-technology-companies-are-taking-full-advantage-of-artificial-intelligence-ai-in-healthcare-2021-02-02"
+excerpt: "COVID-19 put unbelievable strain on our health care system. With industry organizations facing sharper realities around managing costs and"
+publishedDateTime: 2021-02-02T13:45:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/how-medical-technology-companies-are-taking-full-advantage-of-artificial-intelligence-ai-in-healthcare-301219703.html"
+webUrl: "https://www.prnewswire.com/news-releases/how-medical-technology-companies-are-taking-full-advantage-of-artificial-intelligence-ai-in-healthcare-301219703.html"
 type: article
-quality: 84
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - AI Hardware
-  - AI
   - AI in Healthcare
+  - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
     isCached: true
 
 related:
@@ -164,6 +159,6 @@ related:
         height: 500
         isCached: true
 
-secured: "TxuAluAUZao+1T/l+A5AN4mnHfkRcyC6xjEGjvXlCMrmU0aMBUafN3nE3quHaenJ0utkDet6B4yFjaKwv7SDhmwYfXl1ZNXxzL+IsIKRTevRaU2eVHfeDA9IOhfo9kKWcbaGTi1gxKDSYxKsAQUmDhdtN6+5kTjGvGwsKBi25oPwYjQ/6U9u3X69bSz7tQkcuE8w5yqSFLq2sw1ZZTyT0hQZVOsDR3bkCTjakRfQmxEaHSx9pfF4TjNYPn9P1nZUle1Q08fIf+HBDCy4f5qREvRR5rGoHiWao6WiFtQ/EKfi/iKzE9pnHDPXr7GuRotfNd3dmEUSm6PZMBdTl9Dj0g0eojfEsLYaaqP/HueDlI0=;dJ+qEizDsLKtr5e3elO9vQ=="
+secured: "oY7wu+yabXX1g7SlHvn5athoOdbdo6clI78XwzrOJOx+N2l5NF7HLdG0JVj5fjiwP24CKPZhPrB12QhWha8yKd5hw12QgUeZaJ24ePo7YmieA60J6TFUmtLlXlCZtZE8pkI4lOJ3si7PGVUtnhaXs1dTyiubCP8i5lHrG06Zmx7H0HwMxjffD1yVZ8eGIK+7gyssyAYIUvUCrXvTvoHWpf2x67iaJTzXL+c4DYNiE84NtWLsr02ixbExH6Brrptw1mJo/bRrQQoBtgmfQK6D/37Td0g93jAPelx8pOmDAD4Qx/UPyryGkajAj+YJLKZz9OO3sMEZD7XkaweapbT9GQkcBsFBQXfDN/eIw6Ou2+I=;frOJRoGsFKtNsetg+9WIeA=="
 ---
 

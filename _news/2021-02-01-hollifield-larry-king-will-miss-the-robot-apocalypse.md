@@ -37,20 +37,6 @@ related:
         width: 800
         height: 1018
         isCached: true
-  - title: "Scott Hollifield: Larry King will miss the Robot Apocalypse"
-    excerpt: "Today, our disparate subjects will be the literary genius of the late Larry King and the inevitable end of the world as we know it brought about by killer robots."
-    publishedDateTime: 2021-01-31T11:45:00Z
-    webUrl: "https://independenttribune.com/opinion/columnists/scott-hollifield-larry-king-will-miss-the-robot-apocalypse/article_d06acca6-61a8-11eb-a150-9fda6da5ae72.html"
-    type: article
-    provider:
-      name: Independent Tribune
-      domain: independenttribune.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/independenttribune.com/content/tncms/assets/v3/editorial/d/06/d06399e0-61a8-11eb-a14f-3ba7d121a494/601320d456440.image.jpg?crop=414%2C233%2C44%2C0&resize=414%2C233&order=crop%2Cresize"
-        width: 414
-        height: 233
-        isCached: true
   - title: "SCOTT HOLLIFIELD: Larry King will miss the Robot Apocalypse"
     excerpt: "Today, our disparate subjects will be the literary genius of the late Larry King and the inevitable end of the world as we know it brought about by killer robots."
     publishedDateTime: 2021-02-04T07:00:00Z

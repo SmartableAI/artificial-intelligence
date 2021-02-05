@@ -2,6 +2,59 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-01-28-new-global-rackspace-technology-study-uncovers-widespread-artificial-intelligence-and-machine-learning-knowledge-gap.md",
+      "title": "New Global Rackspace Technology Study Uncovers Widespread Artificial Intelligence and Machine Learning Knowledge Gap",
+      "excerpt": "SAN ANTONIO, (GLOBE NEWSWIRE) -- Rackspace Technology (TM) (NASDAQ: RXT), a leading end-to-end, multicloud technology solutions company today announced the results of a global survey that reveals that the majority of organizations globally lack the internal resources to support critical artificial intelligence (AI) and machine learning (ML) initiatives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/new-global-rackspace-technology-study-uncovers-widespread-artificial-intelligence-and-machine-learning-knowledge-gap-2021-01-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/new-global-rackspace-technology-study-uncovers-widespread-artificial-intelligence-and-machine-learning-knowledge-gap-2021-01-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-28T03:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-01-28-alibaba-backed-self-driving-startup-opens-its-robotaxi-service-to-the-chinese-public.md",
       "title": "Alibaba-backed self-driving startup opens its robotaxi service to the Chinese public",
       "excerpt": "AutoX became the third firm to receive a test permit in California to operate its autonomous vehicles without a human safety driver.",
@@ -336,7 +389,8 @@
         "IBM AI",
         "AI",
         "AI in Healthcare",
-        "AWS AI"
+        "AWS AI",
+        "AI in Autos"
       ]
     },
     {
@@ -1129,57 +1183,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-mit-csail-claims-its-breast-cancer-prediction-ai-works-equally-well-across-demographic-groups.md",
-      "title": "MIT CSAIL claims its breast cancer prediction AI works equally well across demographic groups",
-      "excerpt": "Researchers at MIT CSAIL developed a breast cancer risk prediction algorithm that works equally well across patient groups.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/27/mit-csail-claims-its-breast-cancer-prediction-ai-works-equally-well-across-demographic-groups/",
-      "originalUrl": "https://venturebeat.com/2021/01/27/mit-csail-claims-its-breast-cancer-prediction-ai-works-equally-well-across-demographic-groups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/07/healthcare-security-e1588830355309.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/27/mit-csail-claims-its-breast-cancer-prediction-ai-works-equally-well-across-demographic-groups/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/27/mit-csail-claims-its-breast-cancer-prediction-ai-works-equally-well-across-demographic-groups/amp/",
-      "publishedDateTime": "2021-01-27T11:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -106,20 +106,6 @@ related:
         height: 697
         isCached: true
   - title: "How Medical Technology Companies are Taking Full Advantage of Artificial Intelligence (AI) In Healthcare"
-    excerpt: "However, in time, AI has made its way closer to the user – into software and into Internet of Medical Things (IoMT) endpoints and other medical devices. For example, wearable health monitors such as ECG monitors and blood pressure monitors can collect and analyse data locally,"
-    publishedDateTime: 2021-02-02T14:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/how-medical-technology-companies-are-taking-full-advantage-of-artificial-intelligence-ai-in-healthcare-2021-02-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "How Medical Technology Companies are Taking Full Advantage of Artificial Intelligence (AI) In Healthcare"
     excerpt: "However, in time, AI has made its way closer to the user - into software and into Internet of Medical Things (IoMT) endpoints and other medical devices. For example, wearable health monitors such as ECG monitors and blood pressure monitors can collect and analyse data locally,"
     publishedDateTime: 2021-02-03T08:52:00Z
     webUrl: "https://www.marketwatch.com/press-release/how-medical-technology-companies-are-taking-full-advantage-of-artificial-intelligence-ai-in-healthcare-2021-02-03"
@@ -157,6 +143,20 @@ related:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/02/Top-Artificial-Intelligence-Jobs-to-Apply-in-February-2021.jpg"
         width: 900
         height: 500
+        isCached: true
+  - title: "How Medical Technology Companies are Taking Full Advantage of Artificial Intelligence (AI) In Healthcare"
+    excerpt: "COVID-19 put unbelievable strain on our health care system. With industry organizations facing sharper realities around managing costs and"
+    publishedDateTime: 2021-02-02T13:45:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/how-medical-technology-companies-are-taking-full-advantage-of-artificial-intelligence-ai-in-healthcare-301219703.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 52
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "H84B+QLrPb0/qr+KHD2K5TFfQ93tc/4ESiEgQ4g0/jbWqut3CjGMd9DOjnxHKM+IIkz8tRNYDrizkWBEeHJ3biqmoHJH6DWNbj0Bu08gKaSvan6KxooC/dJ1cQv0tPmYhIpNOd5zynAGBk97Ug1yicaC5kW/m2PE8H5krQtEyj/NOA53jnTJ4c9IT7PTegTXS2XEZHg+JXOyVg+a2E4cp0H5NO5MLWj343hHowszGyY5uuHUSgGvk4LNSJx5TmoSHIVROathdMDzJe16EQLkU/NXPjVkzy4L7BKrvphsOnPpmyESz6dmE1OjUvPywGhZuxFl9rC2n5SFNsAI+Ifc+PKnhtyQmEIwo1g7kEbqnz/f8FX7XjUMglEGBOjQpNoDl6WqfJvS9trS4/fmGm4edXnau8KYqVhtxvC+x5qiDQLQvxE3pkAKln8JGHnpaNdypuuoW8Rg2KOmhykeW9Br5Xvb/S6hD4p7TcT91db6ecAV/E3LRR5dtAZaRV8+f3G9RuzGva2iPl+BWpcVP/CC8w==;3mxb3GSoLy6wbqUVR0CZXA=="

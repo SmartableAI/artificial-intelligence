@@ -89,7 +89,7 @@ related:
     provider:
       name: United States Army
       domain: army.mil
-    quality: 56
+    quality: 58
   - title: "Two Google employees quit over AI researcher Timnit Gebru’s exit"
     excerpt: "Two Google engineers have resigned from the tech giant, citing the departure late last year of prominent Black artificial intelligence researcher Timnit Gebru. The resignations are the latest salvos in an ongoing fight between the company and workers who are furious about its lack of diversity."
     publishedDateTime: 2021-02-04T22:31:00Z
@@ -105,6 +105,6 @@ related:
         height: 576
         isCached: true
 
-secured: "vXnrV113VJGDBKnp2jRlvIpJhJO+HEjy5UmE/2IMDH6qcHO6l1yUGLpoAyHecO27JeDfbTacgQVw4AH/4apmA5MR6qA9fIaya53+3R4ApsqJlup9ZwbxMaUUT1mz8UQBmBZZMQcMQFxhdE52T4Eka8O/n7HSyRH4O0va3gMUBikVegOfoIFmWZzNtIhT2SpRU/3JKKvcis97tWSy5Lcshe+64VROAwfF9zBwESXrcV248r3UG7RxLTGJ1Rx1Je7/KdarvGiqg+8MgihQd0piCK2bPyXeX1Krpi5F5paI3ggiMk0uoTLh9RU4VDWxUN8mHjW0HqrMBbyBGFK+EoOTgJ5Bf6SYy2o8IHWeoEfW2Ec=;LbOBxgGzJ8BP4sB2Q03c7g=="
+secured: "4M+8MsP7oJQZBSkZPOnhlt8SkBMQt57d0cHCLuooWNwjgCidHp3BvfPI7gE3x+9cmZURxs9DlzDjIdExDL2EsOVg3nRywJecKts5ruZ0M3/hdbDNVb5EnmBKIfPyBJL+PBi6FMU+flmmrdkU3taAzeOvz2T4ptXcVqd67jDetQx/ItHWKyVf2846s+sjEWMms/z84BKbO++Yp5UvzL6/Q3tRhT/+4ysTzf0EGrDl/ck12VKcZw6+nbLKRASVrs2O6VXafGulCimShwbKqfTUAgs5JhtFHa+i/4ym2VnrJcf+T4VEqY36AJO6QJIx37GJbGYSGIoHoo/KspEusBgUxA6Sp7WNkowXVJT4NBUAvfLzQpS+wIIgCz8CtDUQ3ZO57uI+0gnQex+mg3X+Kjbh+pqG0sM9x4zVrc8tI+KjCuGLFxagWfiH2KVGKNQ4o0f3X3yzS3wItIYL0rXk0oNH7RE+lHo3UUOgbj7LKTK9IccC/HtgzMRETmNTYgU/USoo5v7S9KMNZvYKw9JjSNEH/w==;MwYzJiKDoGntRj0HLgLftQ=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-05-apple-hyundai-kia-near-deal-to-build-self-driving-electric-apple-car.md",
+      "title": "Apple, Hyundai-Kia near deal to build self-driving electric Apple Car",
+      "excerpt": "CNBC's Phil LeBeau explains his scoop about the deal talks between Hyundai-Kia and Apple to manufacture an Apple Car as soon as 2024.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2021/02/04/apple-hyundai-kia-near-deal-to-build-self-driving-electric-apple-car.html",
+      "originalUrl": "https://www.cnbc.com/video/2021/02/04/apple-hyundai-kia-near-deal-to-build-self-driving-electric-apple-car.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106741890-16025951652020-10-13t105843z_940689204_rc2mhj94sbo0_rtrmadp_0_apple-iphone.jpeg?v=1602595195",
+          "width": 3500,
+          "height": 2334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-04T20:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-05-ford-boosts-investment-plan-for-evs-and-self-driving-vehicles-reports-loss.md",
       "title": "Ford boosts investment plan for EVs and self driving vehicles, reports loss",
       "excerpt": "Ford Motor Co on Thursday boosted the amount of money it plans to invest on electric and autonomous vehicles to $29 billion even as it posted a fourth-quarter net loss of $2.8 billion.",
@@ -110,8 +162,8 @@
       "title": "How an AI-powered robot could upend wine storage (for those who can afford it)",
       "excerpt": "A new tech company, WineCab, is using software to improve wine management, storing wine and offering tips on what kind of wine to try next. Here's how it works.",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/how-an-ai-powered-robot-could-upend-wine-storage-for-those-who-can-afford-it/",
-      "originalUrl": "https://www.techrepublic.com/article/how-an-ai-powered-robot-could-upend-wine-storage-for-those-who-can-afford-it/",
+      "webUrl": "https://www.techrepublic.com/index.php/category/10250/4/index.php/article/how-an-ai-powered-robot-could-upend-wine-storage-for-those-who-can-afford-it/",
+      "originalUrl": "https://www.techrepublic.com/index.php/category/10250/4/index.php/article/how-an-ai-powered-robot-could-upend-wine-storage-for-those-who-can-afford-it/",
       "featuredContent": null,
       "highlight": null,
       "heat": 100,
@@ -128,8 +180,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-an-ai-powered-robot-could-upend-wine-storage-for-those-who-can-afford-it/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-an-ai-powered-robot-could-upend-wine-storage-for-those-who-can-afford-it/",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/category/10250/4/index.php/google-amp/article/how-an-ai-powered-robot-could-upend-wine-storage-for-those-who-can-afford-it/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/10250/4/index.php/google-amp/article/how-an-ai-powered-robot-could-upend-wine-storage-for-those-who-can-afford-it/",
       "publishedDateTime": "2021-02-04T15:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -519,7 +571,7 @@
       "originalUrl": "https://thenextweb.com/neural/2021/02/04/ibm-rolls-out-an-all-new-elite-hybrid-cloud-build-team-for-ai-partners/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -661,11 +713,11 @@
       "title": "AI reading list: 8 interesting books about artificial intelligence to check out",
       "excerpt": "These eight books about artificial intelligence cover a range of topics, including ethical issues, how AI is affecting the job market, and how organizations can use AI to gain a competitive advantage.",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
-      "originalUrl": "https://www.techrepublic.com/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
+      "webUrl": "https://www.techrepublic.com/index.php/category/10250/4/index.php/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
+      "originalUrl": "https://www.techrepublic.com/index.php/category/10250/4/index.php/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -679,8 +731,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/category/10250/4/index.php/google-amp/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/10250/4/index.php/google-amp/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
       "publishedDateTime": "2021-02-04T08:46:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -704,9 +756,7 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Autos",
-        "AI Ethics"
+        "AI"
       ]
     },
     {
@@ -746,33 +796,24 @@
     {
       "path": "_news/2021-02-04-quantiphi-recognized-as-a-tensorflow-ai-service-partner-for-machine-learning-led-enterprise-transformation.md",
       "title": "Quantiphi Recognized as a TensorFlow AI Service Partner for Machine Learning Led Enterprise Transformation",
-      "excerpt": "Quantiphi, an applied AI and data science company, has been selected by TensorFlow as an AI Service Partner to enable businesses across industries",
+      "excerpt": "Quantiphi has been selected by TensorFlow as an AI Service Partner to enable businesses across industries to benefit from AI-based systems and help them innovate faster,",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/quantiphi-recognized-as-a-tensorflow-ai-service-partner-for-machine-learning-led-enterprise-transformation/article_4c4c7bb7-085f-5ba9-a361-6bc04201dd08.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/quantiphi-recognized-as-a-tensorflow-ai-service-partner-for-machine-learning-led-enterprise-transformation/article_4c4c7bb7-085f-5ba9-a361-6bc04201dd08.html",
+      "webUrl": "https://www.benzinga.com/pressreleases/21/02/p19489798/quantiphi-recognized-as-a-tensorflow-ai-service-partner-for-machine-learning-led-enterprise-transf",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/02/p19489798/quantiphi-recognized-as-a-tensorflow-ai-service-partner-for-machine-learning-led-enterprise-transf",
       "featuredContent": null,
       "highlight": null,
       "heat": 90,
       "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/19489798",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19489798",
       "publishedDateTime": "2021-02-04T06:25:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -782,10 +823,10 @@
         "news"
       ],
       "topics": [
+        "TensorFlow",
         "Google AI",
         "AI",
-        "Machine Learning",
-        "TensorFlow"
+        "Machine Learning"
       ]
     },
     {
@@ -944,7 +985,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-size-industry-outlook-by-drivers-restraints-and-2021-2023-2021-02-04",
       "featuredContent": null,
       "highlight": null,
-      "heat": 153,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -983,7 +1024,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -995,7 +1037,7 @@
       "originalUrl": "https://www.wired.com/story/how-censorship-can-influence-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1034,7 +1076,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -1181,58 +1224,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-how-data-and-ai-will-continue-to-change-healthcare-in-2021.md",
-      "title": "How Data And AI Will Continue To Change Healthcare In 2021",
-      "excerpt": "The growth of data, artificial intelligence (AI) and machine learning (ML) has had a particularly strong impact on healthcare.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/02/04/how-data-and-ai-will-continue-to-change-healthcare-in-2021/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/02/04/how-data-and-ai-will-continue-to-change-healthcare-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0db1df72fadb0007edeed4%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/02/04/how-data-and-ai-will-continue-to-change-healthcare-in-2021/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/02/04/how-data-and-ai-will-continue-to-change-healthcare-in-2021/amp/",
-      "publishedDateTime": "2021-02-04T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

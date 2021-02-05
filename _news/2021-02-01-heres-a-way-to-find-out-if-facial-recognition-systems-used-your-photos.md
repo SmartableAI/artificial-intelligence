@@ -60,6 +60,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "New A.I. face recognition tool"
+    excerpt: "When you post photos of yourself or friends and family online, you may not imagine they could be used to develop facial-recognition systems that can identify individuals offline. A new"
+    publishedDateTime: 2021-02-05T04:45:00Z
+    webUrl: "https://www.fox10tv.com/news/daily_dot_com/new-a-i-face-recognition-tool/article_5dceafd6-6753-11eb-9920-135d6b072d2c.html"
+    type: article
+    provider:
+      name: FOX10 News
+      domain: fox10tv.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/fox10tv.com/content/tncms/assets/v3/editorial/3/d0/3d0c8992-3f6a-5603-9191-e9a72f968aa5/601cc71f95c27.image.jpg?resize=1120%2C630"
+        width: 1120
+        height: 630
+        isCached: true
 
 secured: "q7IE8qDSG8y6w7GSnqYGd4OhMbeHUgjJe9SAlaJao04bMb9fM3t1yQcwRNij4XeowNZppEtTLBtYeGeoIa+2N7viE8L9FUsUIAzMaWA3DoYox2zJQuQTDFldD9nBfpeEk10eJqDeZmtsh6yJ6LA8y/kO+iWJDX4fsh6iaip++XNKxiQ0nE6mtBbvFGrdmg3K0N6fLyApTUSG4C2MhzqvBbjjfaDiIJPjJ6eXlVX5WSsF1GIp7wQBuJWjVv+WxTQzVgcT9gfc3jGgwo+vGYE3CAEZyRlSmW6zmkd4n1pyWyogSW+MRqQJMeSnY+Bq42Gs7eWi/bRgEVOLlf6/hDfe8TLIyFML6Lb3SqDve6bvXaoFrInYX9LodmlmN9CDWnoukRBkdPzApgcZMjReEMA1rarieJFr9wF6GRonQWObu0Qp1p0CH3ziC/pFlafW62NrmImgQtyBUdg2DZDFwINEGQahGm5N0i/KWp50qCC4RdJo0A1kpLrxMOQsJ8f3zFYEOgml7P6TT1fBC2HyxaPV0Q==;CHphbYEVlbqdY8fzUFYImw=="
 ---

@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
-excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
-publishedDateTime: 2021-02-03T08:22:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
-webUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
+excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance"
+publishedDateTime: 2021-02-02T22:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
+webUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
 type: article
-quality: 46
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Microsoft's cutting-edge machine-learning tool moves from the lab to the mainstream"
@@ -230,7 +224,21 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Microsoft Partnership Will Bring New Cloud Service to DOD Microelectronics Project"
+    excerpt: "Microsoft announced new partnerships Thursday that will support two major Defense Department projects using the tech giant’s Azure cloud services. Microsoft is working with ten companies on a technology solution for the secure design of microelectronics using a new service in the Azure Government cloud region in support of a Defense Department program,"
+    publishedDateTime: 2021-02-05T02:57:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2021/02/microsoft-partnership-will-bring-new-cloud-service-dod-microelectronics-project/171872/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 35
+    images:
+      - url: "https://cdn.nextgov.com/media/img/upload/2021/02/04/NGmicrosfot20210204/860x394.jpg"
+        width: 860
+        height: 394
+        isCached: true
 
-secured: "hldzXv+v4N6uhF8XJ3Y8Q7EcU1ht7/Q0sqxo3f4PE0srydUcyUn83msGQMbsCCtqVyi0gyKyP7Ofup2oZiFt+/uWfP5fqKNHhbRic1VrDiz4elOTVXq2+vgiOOASAEaZDgxHEp3jSwRxJbcHF7ptsItCQ47wZZy66vcH20ncliQPxKI9KpKJIZeYZiMmUtBcLGc3SCBFHRxaM+DHq6FloyvHK3EgBgKVzp14a9jAMkyyNxdod/oe+0sv94mCxp27KGDXprKYNzpHnfT7wjGJBuuohoOeSHV4odQD0ppmmMUNyMRuy3A9877veivFryNWgRqQ2kusuYqbtMnVCAwRY2U1vGhuiGyyWq0AvnG3Hek=;W9Kt/SMq81DPftH/zSSe0Q=="
+secured: "0hx1Ex5FXMMwKIj8wndnKc8b52gAOOiuNxzx5V8jRm/dQ8saDyWjU7Dj5IHBUNMtUkySPVtWIjL616IioxYjxm1BLQAjkdGfoEXCzyUBuFBzeMI1r76uCEe7cKLQEtVTddDv+AH4POmvR/sEwCJB2chxIRPtFAnVvdTKpmawE9wcZVLCv4obG2d5ZAoSXi6GVmPiVpT6mnMYJVgZCfhfs8m/znK4hSM5p++/490bxzEHZctcPta6veSvaxBryIwGNiNzRW36aRjGssawxHZdhC9oFxAMfvfeUSVDtaqWTaxmMS+sazF2Oe2BMiVfxXvjEAozv5FHoSW6HY2SsHJMQYC+3O1dPNNY+tS9duhoSYo=;wGj+Se9twAoDmkIPdtRSQA=="
 ---
 

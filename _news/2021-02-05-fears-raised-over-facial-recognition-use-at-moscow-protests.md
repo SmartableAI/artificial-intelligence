@@ -2,27 +2,27 @@
 category: news
 title: "Fears raised over facial recognition use at Moscow protests"
 excerpt: "Russian authorities are deploying facial recognition cameras to identify protesters during rallies in support of Kremlin critic Alexei Navalny in Moscow, human rights groups said, warning that the technology is being used to stifle peaceful dissent."
-publishedDateTime: 2021-02-04T17:45:00Z
-originalUrl: "https://www.reuters.com/article/russia-protests-tech-idUSL8N2KA54T"
-webUrl: "https://www.reuters.com/article/russia-protests-tech-idUSL8N2KA54T"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL8N2KA54T"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2KA54T"
+publishedDateTime: 2021-02-05T03:02:00Z
+originalUrl: "https://www.thestar.com.my/tech/tech-news/2021/02/05/fears-raised-over-facial-recognition-use-at-moscow-protests"
+webUrl: "https://www.thestar.com.my/tech/tech-news/2021/02/05/fears-raised-over-facial-recognition-use-at-moscow-protests"
 type: article
-quality: 84
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Star
+  domain: thestar.com.my
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://apicms.thestar.com.my/uploads/images/2021/02/05/1034122.jpg"
+    width: 1240
+    height: 826
+    isCached: true
 
 related:
   - title: "How Normal People Deployed Facial Recognition on Capitol Hill Protesters"
@@ -103,15 +103,15 @@ related:
         isCached: true
   - title: "Apple creates workaround to facial recognition blocked by face mask"
     excerpt: "This has probably happened at least once to an Apple user who is trying to unlock their iPhone with the device’s camera. The phone just can’t figure out you are you while you’re wearing a face mask. Jumping through the hoops of trying the camera,"
-    publishedDateTime: 2021-02-03T18:17:00Z
-    webUrl: "https://www.wftv.com/news/trending/apple-creates-workaround-facial-recognition-blocked-by-face-mask/F7GQKNQQ35C3DCUKS3MJMBR5VQ/"
+    publishedDateTime: 2021-02-03T18:02:00Z
+    webUrl: "https://www.wsoctv.com/news/trending/apple-creates-workaround-facial-recognition-blocked-by-face-mask/F7GQKNQQ35C3DCUKS3MJMBR5VQ/"
     type: article
     provider:
-      name: WFTV
-      domain: wftv.com
+      name: WSOC-TV
+      domain: wsoctv.com
     quality: 39
     images:
-      - url: "https://www.wftv.com/resizer/CBVb4qLwlF6YmcjIZ6eoh_TT_2k=/1200x628/d1hfln2sfez66z.cloudfront.net/02-03-2021/t_8fc4e0349f8b49209d662ee18ce01ca7_name_thumb.jpg"
+      - url: "https://www.wsoctv.com/resizer/CBVb4qLwlF6YmcjIZ6eoh_TT_2k=/1200x628/d1hfln2sfez66z.cloudfront.net/02-03-2021/t_8fc4e0349f8b49209d662ee18ce01ca7_name_thumb.jpg"
         width: 1200
         height: 628
         isCached: true
@@ -130,6 +130,6 @@ related:
         height: 823
         isCached: true
 
-secured: "FyrXm5I5fgj/Mar8aVcl9bwJ8X5VzFGwWjtpAnRIAuvBfKZzjIvP/yoN9zjGEeUIE5FyEWDkQ2O2Rn8cBy+vTMbv9CFUaua48Pzjed5/62VUv8A80RrmsiV2HnyCUCUjPdAKpPnkfNusEf4HhP9YvLjE9hkEYJfsOkRXc332ikhqElzKbJmE2LjFkCuqDbTQNyOOIT59j3UVPH2xHPNYcFU6dyH+0nz2XKQ+YzLvGFRP0RMv+amn55gW0fSoJsxERkTkqc+dFJ3YgOtFbCZDpV3YD0N2vID066eTSQaiN40n/OEpIB/Gd9ve4kRXpwqSEbEtLdxg2tq3vZtzA/6fIXQtYuVJis6h0QEgbhFwIqk=;6igLbTLLtINzwPW9c20HnA=="
+secured: "PktI4ARkMH3cWyImRjSdoPwdd5dUs0i7jV9GT8Bukl11ouwbDIqSKG12uyIzPc8d9yoKf+31Qc2drKmx6ivsGzBp8k7T7r1YRJYzYkqvXLaKs9saLUgUVXyTWeDIT+SWvWx3/llRwXHiNLS1CpXVzwbfLrVoeWesfeQ2N4WZxEc8AlK43GmcWyLqV9Hv4mnAXLAPxHgflUvbYtzPnbIzce6RKvWqEUtW0GgAOlkPgUwQnua0E532MyY2tSKBv1rNrxQ2AT4pegtHJ8JxBja/yUGY8NiRpiw4x5j16pRL2O1ukN0pC3wVHSngHfBoaFtzZxdZCyZqJlZ5PM9AvgleMGUOdNMYUHqaWsyixaD3cFY=;qqOhNK4Ipod4CtXFAJMKnQ=="
 ---
 
