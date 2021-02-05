@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fourier Intelligence partners the National University of Singapore to advance neurorehabilitation robotics"
-    excerpt: "The collaboration aims to facilitate research in rehabilitation technology, and promote its adoption in patient care and therapy."
-    publishedDateTime: 2021-02-05T07:20:00Z
-    webUrl: "https://www.wfmj.com/story/43295725/fourier-intelligence-partners-the-national-university-of-singapore-to-advance-neurorehabilitation-robotics"
-    type: article
-    provider:
-      name: WFMJ
-      domain: wfmj.com
-    quality: 36
-    images:
-      - url: "https://EINPRESSWIRE.images.worldnow.com/images/20337036_G.jpg?lastEditedDate=1612469038000"
-        width: 900
-        height: 506
-        isCached: true
   - title: "New eBook from Maxim Integrated and Mouser Explores Next-Generation Applications for Healthcare Wearables"
     excerpt: "Mouser Electronics, Inc., the New Product Introduction (NPI) leader empowering innovation, announces a new eBook in collaboration with Maxim Integrated Products, Inc. highlighting the future of wearable technology in healthcare."
     publishedDateTime: 2021-02-05T04:57:00Z

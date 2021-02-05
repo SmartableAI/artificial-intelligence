@@ -44,7 +44,7 @@ related:
   - title: "Fears raised over facial recognition use at Moscow protests"
     excerpt: "Russian authorities are deploying facial recognition cameras to identify protesters during rallies in support of Kremlin critic Alexei Navalny in Moscow, human rights groups said, warning that the technology is being used to stifle peaceful dissent."
     publishedDateTime: 2021-02-04T17:45:00Z
-    webUrl: "https://www.reuters.com/article/russia-protests-tech-idUSL8N2KA54T"
+    webUrl: "https://www.reuters.com/article/russia-protests-tech/fears-raised-over-facial-recognition-use-at-moscow-protests-idUSL8N2KA54T"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL8N2KA54T"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2KA54T"
     type: article
@@ -127,6 +127,6 @@ related:
         height: 823
         isCached: true
 
-secured: "6ksfMVNRfcmVYyY3KiseunEaEJOo3aFmFGBSBuCwiMG9o5uumimvuYJidCQsH5DWlNJp+1diW5OOpvsc+Bvbzw0/7s5mMa5wZm6vC5dDVLB+ZUEl7ZIKV7NDrClc4tKemaRnSmXnr33Kfg1C/HOh1fGHV5/Wf0V0K5hrrKKQqiXRN9NZoblibt6nyz2QJPw+dJPmdDVJHpdHHEZuztQGBH8R7QABKaiiUkWSjAymvHRtD1ajsOV1E8vuVQEO8S70BaCPPfXS2/KqLUFTEJ0SfXVX0FqbDKGsqhVBlEuYRp4Hq/DfbpTpNjfJUXAa4mE9aiGxwtgOrAWP6u75l4O5XtVFJpXsvXZW22n3ubmMwwk=;rBJN60wWJsmaRV+wNulyBg=="
+secured: "9YbDRv0dTRRkTfMIhGatJLtfxE7+Sjra/SE3PIKFwaQC+6kb9e4nIGAN1FGy740Z92rgLIzwI6SDy2OZELIr5lhy4pKhCQ1YO38MvcoxgvI0kGGPuLlhlW8fRgbJ+YA1TV9InRjGOZbojXGNMY+pcgYEtSh1qjj0lJCWGI0aeK7mie4XHzyUO/ZABNdruF/CQZaCf205dwzgVj3eozEksW0XtGgrLinCvZqmfjsMiDyMZmJufezUN6uZrqliVf6cW0JAfLkbmcsKm8dKwEdeYt273vz80fcjHbRYT1mFZXI7TVgErG3wPp4nU7VyWP4+80fy/MGGO2xP/UKIsi+wEdonf/DSdmv//BhSBB1oRIC+WRloMEzF3eMWAi8PD8cZXdQmp4l4L5wy6l93zjEN/Q5spG19cCW0uWVXcmRBAA88hmtruWqpQ91A2eFpfs+BG3tMmf84aEw5Vfq0Uy6AJ/jXu2zIzwk/fDLQHORl8eAGEbBiwfmWCezb8jOwjYVrWmK0Vwn2OZTbdU6csXeEkw==;WAVKtCsVjFGGCKVCQRws1g=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-qualitative-insights-on-application-and-drivers-growth-opportunity-analysis-report-2021-02-01"
 type: article
 quality: 56
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "7 FinTech Trends to Keep an Eye on in 2021"
-    excerpt: "As advancements in technology are on the rise, it seems inevitable that digitalization and innovation will change the world as we know it. And this is c"
-    publishedDateTime: 2021-02-04T07:19:00Z
-    webUrl: "https://www.albawaba.com/business/7-fintech-trends-keep-eye-2021"
-    ampWebUrl: "https://www.albawaba.com/amp/business/7-fintech-trends-keep-eye-2021"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/7-fintech-trends-keep-eye-2021"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 44
-    images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/im_new/Sama%20al%20Kurdi/7FinTechTrends-shutterstock-03Feb21.jpg?itok=dgX8RVJ2"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "AI-Based Fever Detection Camera Market Share, Growth Insight, Size, Competitive Analysis, Regional, And Global Forecast To 2027"
     excerpt: "How will the AI-based fever detection cameras help in battling COVID-19? Which region is likely to generate the highest revenue in the near future? Which segment would procure the largest share? What are the restraining factors of the AI-Based Fever Detection Camera Market?"
     publishedDateTime: 2021-02-01T13:52:00Z

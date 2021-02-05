@@ -3,8 +3,8 @@ category: news
 title: "Monitoreal provides an AI-smart object detection appliance to deliver advanced analytics and real time alerts"
 excerpt: "The use of AI-computer vision technology to improve situational awareness and provide highly accurate advanced object detection analytics, reducing false alerts and delivering real time"
 publishedDateTime: 2021-02-05T05:47:00Z
-originalUrl: "https://www.sourcesecurity.com/tags/video-analytics/news/monitoreal-ai-smart-object-detection-appliance-co-1611327055-ga-co-1612444574-ga-npr.1612450229.html"
-webUrl: "https://www.sourcesecurity.com/tags/video-analytics/news/monitoreal-ai-smart-object-detection-appliance-co-1611327055-ga-co-1612444574-ga-npr.1612450229.html"
+originalUrl: "https://www.sourcesecurity.com/news/monitoreal-ai-smart-object-detection-appliance-co-1611327055-ga-co-1612444574-ga-npr.1612450229.html?ref=nav"
+webUrl: "https://www.sourcesecurity.com/news/monitoreal-ai-smart-object-detection-appliance-co-1611327055-ga-co-1612444574-ga-npr.1612450229.html?ref=nav"
 ampWebUrl: "https://www.sourcesecurity.com/amp/news/monitoreal-ai-smart-object-detection-appliance-co-1611327055-ga-co-1612444574-ga-npr.1612450229.html"
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/monitoreal-ai-smart-object-detection-appliance-co-1611327055-ga-co-1612444574-ga-npr.1612450229.html"
 type: article
@@ -181,6 +181,6 @@ related:
       domain: masstransitmag.com
     quality: 2
 
-secured: "Qxg/HytR1eWAgWB5E+rPLv+4m0J6lRv0ahUk+ZXqZsEf9F2rH3w7JKDqBln1BwqL0OejI1EfGyHuEonk2+Nk1mA/k8Lp+z3Nd+aA9hnnkD3fRcJFQFHkhNzrpUMrKpN0KJzbxY68mlpvuuIxHsAHB3FeBcLm746vcjSqc+1Hsn8GilCE3CRyaxHlNFaEdPOb4uQaAOY9E7hnCjNIXF5Mc7RTXEthffCJP4XXc5zzIqTSGzqn3RkKxRubmpjX2O+MD7FwbhS/U7UN5PvJcaR+un4CJ4FfBRHFCus9jfcugN2gfZTJHEEeBNGoDxOEtc9a9ZUB4okSCFBuOy0s2cT8Yv7mCTO6epG7cWceY/2w9yBf1HZ8x8gU934WtatK7POecB+gxjMXxvmcS1OyCq1DVSE6X03W00lsLc2zWI+3vv7Us2a67NvNMaJVaDUDZnpi7jcciDD4e+E4LRrEHXloQHMKF/v+t3t950JiYO7OfLCZWfARCUSN+ypPomHAr/b/rsFoOOlhABLBvA5usU6mbw==;mqw5NW0ebuPcDQViAf2E/g=="
+secured: "T+yyinN9GzgxFhVvI+dn0hMfMZg/BoPWJ4tRKcwM0xzseGu3AjoGPu3P96+DjdcbZkewA+qJZSeGk7xLiSEHq9j6eUKbUf3oTM3Qk4Da17XaYPwklb2Vszdo6b++vilMmg3osy+B0hIXg5hDQSSNZEMUPpoxlg/2lzoYpc/s8+Wl0rSCrW8Pjia8y7UIPeOr/eSl7OUzEWWae4ftMng+nHZMAuyuO2T3Ml1/f4J0vN0hXSUhPL7IiYVCdZqy+N3rFz0PEElU3FC2+55NVmLxV+F1WPoSnMQbeC3mq+8rSKthNED62LFXSattR9Bj4mQ9s/3gmDTqCy3ELbsTX9wBfee0GDO/FpMjYcyBOcn++J4=;BN91n84+rNDMgoR1oWzQFA=="
 ---
 

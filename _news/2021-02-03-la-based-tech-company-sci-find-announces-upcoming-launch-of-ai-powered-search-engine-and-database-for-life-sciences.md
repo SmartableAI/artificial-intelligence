@@ -24,20 +24,6 @@ topics:
   - AI
 
 related:
-  - title: "Fintech company launches AI-powered post-closing tech"
-    excerpt: "Fintech company Avanze Tech Labs has launched an AI-powered SaaS software that automates and expedites the post-close process. “Post-closing has been an ignored sector in the digital mortgage evolution,"
-    publishedDateTime: 2021-02-03T15:23:00Z
-    webUrl: "https://www.mpamag.com/news/fintech-company-launches-aipowered-postclosing-tech-245391.aspx"
-    type: article
-    provider:
-      name: Mortgage
-      domain: mpamag.com
-    quality: 39
-    images:
-      - url: "https://cdn-res.keymedia.com/cms/images/us/001/0270_637479405128217784.jpg"
-        width: 500
-        height: 333
-        isCached: true
   - title: "L.A based tech company Sci Find announces upcoming launch of AI-Powered search engine and database for Life Sciences"
     excerpt: "Sci Find, a Los Angeles-based tech company will be launching its search engine and comprehensive database on February 8, to promote"
     publishedDateTime: 2021-02-02T14:11:00Z

@@ -67,7 +67,7 @@ related:
   - title: "Monitoreal provides an AI-smart object detection appliance to deliver advanced analytics and real time alerts"
     excerpt: "The use of AI-computer vision technology to improve situational awareness and provide highly accurate advanced object detection analytics, reducing false alerts and delivering real time"
     publishedDateTime: 2021-02-05T05:47:00Z
-    webUrl: "https://www.sourcesecurity.com/tags/video-analytics/news/monitoreal-ai-smart-object-detection-appliance-co-1611327055-ga-co-1612444574-ga-npr.1612450229.html"
+    webUrl: "https://www.sourcesecurity.com/news/monitoreal-ai-smart-object-detection-appliance-co-1611327055-ga-co-1612444574-ga-npr.1612450229.html?ref=nav"
     ampWebUrl: "https://www.sourcesecurity.com/amp/news/monitoreal-ai-smart-object-detection-appliance-co-1611327055-ga-co-1612444574-ga-npr.1612450229.html"
     cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/monitoreal-ai-smart-object-detection-appliance-co-1611327055-ga-co-1612444574-ga-npr.1612450229.html"
     type: article

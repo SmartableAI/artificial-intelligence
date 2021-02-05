@@ -2,27 +2,21 @@
 category: news
 title: "Untether AI Partners with Colfax International to Provide Peak Performance in AI Edge Servers"
 excerpt: "Untether AI, the leader in at-memory computation and AI acceleration, today announced a partnership with Colfax International in which Untether’s tsunAImi TM accelerator cards, powered by the runAI TM devices,"
-publishedDateTime: 2021-02-04T16:38:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-toronto-ontario-computer-components-north-america-a2352441944e4f40a9c5d20269710c62"
-webUrl: "https://apnews.com/press-release/business-wire/technology-toronto-ontario-computer-components-north-america-a2352441944e4f40a9c5d20269710c62"
+publishedDateTime: 2021-02-05T08:35:00Z
+originalUrl: "https://www.financialbuzz.com/untether-ai-partners-with-colfax-international-to-provide-peak-performance-in-ai-edge-servers/"
+webUrl: "https://www.financialbuzz.com/untether-ai-partners-with-colfax-international-to-provide-peak-performance-in-ai-edge-servers/"
 type: article
-quality: 28
+quality: 8
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "EDGECORTIX partners with PALTEK to bring Edge AI Hardware Acceleration Solutions to Market"
@@ -37,6 +31,6 @@ related:
       domain: businessinsider.com
     quality: 59
 
-secured: "YARq1OJmSMx829sLjMG44coybs6GjCTBNZnNwO1tDgtR2CANoXaCteC0b9ohMX3iAskH9D8WXZYBoiYQGoovlJlIPfQhO77DZeeibQ/NBh6W69rpM8DP8f8YEHXTe3jtf+5HMyB03/j1XE0xvUcG4f23yzzNbuGC+xfvimitF4d93S3HbGOwuM0eISvnCpdcagDuHytAaThZYw2faBq3mn2us4OrRuJtpVXhRkYK5R+yU+qkZsGS+zhmYz0wfgVUUxEcmIwnd/DPFPKjoTOxeYw18VPYP9cVOHA/dHXNZ4Z6q9tz5vNC6B7YBqlTG75a5dU6HnRXJE6qpTwzNPP4jmEQ8BlAbg0wEAG7VSWcauM=;6qaUJt6P4ttDP4i9XMJBEw=="
+secured: "YKCPlupD7p5eOJZlTFwKoZSJN3zpfc7pzuVhrEgHrwZ/oM+RYNx/0QOM0aZTr+/Hg0jqng+Oj9MM6KEA8CzrBFJyNHfPoJuNrX1da8jKYTr32dqiVIvbtblDAH+B8dscHDjZaqOd1kRDditY4QQaaqog/vf4SD4qJAC1Dzzg8Q+hpTfSVm5PBjPEBI05KjDQfqnOjS33c7v/yUpR0jM1hZMIHI9gSKrUsKXPfeK1l565dIC0+POpLclNhDqCSCKfBBtpyySBEp2rUqD7zVO5vmHKTIX0uLhc37NV2xu6PPnhLWP3840InB5RVn0ap73zFpatTnl8a8aq7h4WAq5wQAIyvr83KgJhxnNWXJ2PFpA=;dP6rPxZ6iq683/ruofklhA=="
 ---
 

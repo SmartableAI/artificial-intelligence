@@ -2,6 +2,58 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2020-12-28-ai-software-market-insights-by-growthresearch-methodology-emerging-trends-and-forecast-by-2025.md",
+      "title": "AI Software Market Insights By Growth,Research Methodology, Emerging Trends and Forecast By 2025",
+      "excerpt": "The AI software market in the legal industry is projected to register a growth of over 28% over the forecast period 2020 - 2025. The law firms have always been at the forefront of using emerging technological advancements for productivity,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-software-market-insights-by-growthresearch-methodology-emerging-trends-and-forecast-by-2025-2020-12-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-software-market-insights-by-growthresearch-methodology-emerging-trends-and-forecast-by-2025-2020-12-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-27T19:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-28-this-woman-entrepreneur-aims-to-make-children-future-ready-by-introducing-them-to-stem-robotics.md",
       "title": "This woman entrepreneur aims to make children future-ready by introducing them to STEM, robotics",
       "excerpt": "Edtech startup Whizrobo, founded by husband-wife duo Dimple and Naveen Verma, offers products and training in artificial intelligence and robotics to the K-12 group.",
@@ -1122,49 +1174,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-25-beyond-the-boombox-the-race-to-artificial-intelligence.md",
-      "title": "Beyond the Boombox: The Race to Artificial Intelligence",
-      "excerpt": "And the most dramatic improvements are yet to come; I’m talking about artificial intelligence, or AI. There’s a furious race underway between semiconductor manufacturers to design the winning AI chip for data centers, self-driving cars, robotics ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneyshow.com/articles/dailyguru-55707/",
-      "originalUrl": "https://www.moneyshow.com/articles/dailyguru-55707/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.moneyshow.com/mscache/keyword-img/technology_06_lrg.jpg",
-          "width": 555,
-          "height": 370,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-25T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MoneyShow.com",
-        "domain": "moneyshow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

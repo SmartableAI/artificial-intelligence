@@ -188,20 +188,6 @@ related:
         width: 510
         height: 314
         isCached: true
-  - title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
-    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
-    publishedDateTime: 2021-02-03T08:22:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 46
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Microsoft Says It's Time to Attack Your Machine-Learning Models"
     excerpt: "With access to some training data, Microsoft's red team recreated a machine-learning system and found sequences of requests that resulted in a denial-of-service."
     publishedDateTime: 2021-02-04T22:13:00Z
@@ -258,6 +244,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
+    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance"
+    publishedDateTime: 2021-02-02T22:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 26
 
 secured: "8F0thxknVpMo1A9dEo9qo3Z6Di7rtL4oCqSpMlX32YRk69DJuP0E/7lVuM7M6hArd7avc4Uwm1iuU1RK5OBXAgcRxBhczb0JP9A66oCdTL+Db/1AwfCFF8El9MTiFUxUvb9zdWvb6ZC6Rn8r1HbuWyGg5u/8Oo0EcwWQxCLY4vBKkRgGBygMvCSpAO929dy7Cx7Q2o4kFTITj2Uk2f8zuBEDGfafpyks9eoKlqFft6QHYCe2ER4HITBq6x3FPCetUE4tCBPpTSdRr2GcNR9LSbLPdQppcqRjGEooUhHdG2T2nXWSmxpwp9sXG1FdLOZh+mm4LVDL6+Ai0ZviHkmz5wpM2PFXThTzTk12WyCXDF8=;7Nm6Wm4Vmd3uXTC6abeXFw=="
 ---

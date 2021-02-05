@@ -63,6 +63,22 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "Google engineers leave the company over controversial exit of top AI ethicist"
+    excerpt: "Google has lost a couple of talents due to the way it treated and the departure of its former top AI ethics researcher, Dr. Timnit Gebru. According to Reuters, engineering director David Baker left the tech giant last month after 16 years with the company."
+    publishedDateTime: 2021-02-05T09:41:00Z
+    webUrl: "https://www.engadget.com/google-engineers-leave-over-timnit-gebru-exit-093645678.html"
+    ampWebUrl: "https://www.engadget.com/amp/google-engineers-leave-over-timnit-gebru-exit-093645678.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-engineers-leave-over-timnit-gebru-exit-093645678.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 84
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/ijmx.rCk_5ObUU_vksjbdQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMzMz/https://s.yimg.com/os/creatr-images/2019-10/23ee7660-f6fd-11e9-bfdb-8f0dd56ea0e0"
+        width: 1999
+        height: 1333
+        isCached: true
   - title: "Two Google Employees Resign Over Firing of AI Ethics Researcher Timnit Gebru"
     excerpt: "We cannot say we believe in diversity, and then ignore the conspicuous absence of many voices from within our walls,\" one of the employees said."
     publishedDateTime: 2021-02-04T07:29:00Z

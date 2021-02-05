@@ -121,22 +121,6 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "Amazon.com announces financial results and CEO transition"
-    excerpt: "Founder and CEO Jeff Bezos will transition to role of Executive Chair in Q3, Andy Jassy to become Chief Executive Officer of Amazon."
-    publishedDateTime: 2021-02-03T11:21:00Z
-    webUrl: "https://www.telecomtv.com/content/digital-platforms-services/amazon-com-announces-financial-results-and-ceo-transition-40764/"
-    ampWebUrl: "https://www.telecomtv.com/content/digital-platforms-services/amazon-com-announces-financial-results-and-ceo-transition-40764/amp/"
-    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/digital-platforms-services/amazon-com-announces-financial-results-and-ceo-transition-40764/amp/"
-    type: article
-    provider:
-      name: TelecomTV
-      domain: telecomtv.com
-    quality: 46
-    images:
-      - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Jeff Bezos Will Step Down as Amazon CEO in Third Quarter of 2021"
     excerpt: "Jeff Bezos will step down as CEO of Amazon and become Executive Chair of the Amazon Board in 2021 third quarter. Andy Jassy will become CEO. Bezos will focus on new products and early initiatives. As"
     publishedDateTime: 2021-02-02T22:39:00Z
@@ -214,6 +198,20 @@ related:
       - url: "https://cheesecake.articleassets.meaww.com/520377/uploads/f1b1a910-65aa-11eb-bea0-fbd4614cd2cf_800_420.png"
         width: 800
         height: 420
+        isCached: true
+  - title: "Amazon.com Announces Financial Results and CEO Transition"
+    excerpt: "Founder and CEO Jeff Bezos will transition to role of Executive Chair in Q3, Andy Jassy to become Chief Executive Officer of Amazon at that timeSEATTLE--(BUSINESS WIRE)--Amazon.com, Inc. (NASDAQ: AMZN) today announced financial results for its fourth quarter ended December 31,"
+    publishedDateTime: 2021-02-02T21:22:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=415814"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 24
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/29/mark/20210129882520.jpg"
+        width: 580
+        height: 327
         isCached: true
   - title: "What Amazon CEO Jeff Bezos stepping down means for fintech"
     excerpt: "Jeff Bezos will step down as founder and CEO of Amazon and transition to chairman in 2021, allowing seasoned cloud executive Andy Jassy to take the reins of the $1.6 trillion giant. As detailed in an email to his employees,"

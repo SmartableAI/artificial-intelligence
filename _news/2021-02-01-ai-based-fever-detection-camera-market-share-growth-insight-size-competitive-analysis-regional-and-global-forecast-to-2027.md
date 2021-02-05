@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "7 FinTech Trends to Keep an Eye on in 2021"
-    excerpt: "As advancements in technology are on the rise, it seems inevitable that digitalization and innovation will change the world as we know it. And this is c"
-    publishedDateTime: 2021-02-04T07:19:00Z
-    webUrl: "https://www.albawaba.com/business/7-fintech-trends-keep-eye-2021"
-    ampWebUrl: "https://www.albawaba.com/amp/business/7-fintech-trends-keep-eye-2021"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/7-fintech-trends-keep-eye-2021"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 44
-    images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/im_new/Sama%20al%20Kurdi/7FinTechTrends-shutterstock-03Feb21.jpg?itok=dgX8RVJ2"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "United Fintech Enters the Market Data and RegTech Space with TTMzero Acquisition"
     excerpt: "United Fintech has entered the Market Data & RegTech space with the acquisition of German fintech, TTMzero. United Fintech has taken a 25% stake in the market leading firm, with the intention of increasing to 80% over the next three years."
     publishedDateTime: 2021-02-04T10:02:00Z

@@ -1,59 +1,29 @@
 ---
 category: news
 title: "Fourier Intelligence partners the National University of Singapore to advance neurorehabilitation robotics"
-excerpt: "The collaboration aims to facilitate research in rehabilitation technology, and promote its adoption in patient care and therapy."
-publishedDateTime: 2021-02-05T07:20:00Z
-originalUrl: "https://www.wfmj.com/story/43295725/fourier-intelligence-partners-the-national-university-of-singapore-to-advance-neurorehabilitation-robotics"
-webUrl: "https://www.wfmj.com/story/43295725/fourier-intelligence-partners-the-national-university-of-singapore-to-advance-neurorehabilitation-robotics"
+excerpt: "Width='300' Height='168'/><br/>Mr Zen Koh (top left) and Prof Aaron Thean (top middle) at the virtual MOU signing ceremony. Witnessed by Assoc. Prof Chew Chee"
+publishedDateTime: 2021-02-05T10:08:00Z
+originalUrl: "https://menafn.com/1101550120/Fourier-Intelligence-partners-the-National-University-of-Singapore-to-advance-neurorehabilitation-robotics"
+webUrl: "https://menafn.com/1101550120/Fourier-Intelligence-partners-the-National-University-of-Singapore-to-advance-neurorehabilitation-robotics"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
-  name: WFMJ
-  domain: wfmj.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://EINPRESSWIRE.images.worldnow.com/images/20337036_G.jpg?lastEditedDate=1612469038000"
-    width: 900
-    height: 506
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?305777"
+    width: 413
+    height: 249
     isCached: true
 
-related:
-  - title: "Lee x H&M: Collaborating For The Next Generation Of More Sustainable Denim"
-    excerpt: "H&M is proud to announce the collaboration with American denim legend, Lee, to push for the next generation of more sustainable denim. It's a holistic collaboration with advances at every stage of design and production,"
-    publishedDateTime: 2021-02-04T14:32:00Z
-    webUrl: "https://www.lelezard.com/en/news-19634974.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 37
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/business.jpg"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "New eBook from Maxim Integrated and Mouser Explores Next-Generation Applications for Healthcare Wearables"
-    excerpt: "Mouser Electronics, Inc., the New Product Introduction (NPI) leader empowering innovation, announces a new eBook in collaboration with Maxim Integrated Products, Inc. highlighting the future of wearable technology in healthcare."
-    publishedDateTime: 2021-02-05T04:57:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=417658"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 22
-    images:
-      - url: "http://us.acrofan.com/img/noImg.jpg"
-        width: 500
-        height: 324
-        isCached: true
-
-secured: "jj4JUECW4yvHu6BDesg/AOriJ7eKZ8K91hgKIHmOsdlaQ5T0tmpe4cQOdgqgeVCwyQQ0jReQkAJukMjkev5qKz76v/OhyckFH0UAo6ToMJhLQpK/lPeDEiA+YPXoUBL9UVGhUO+L5lJCSf6N/5/gXdNvYDTNjfwo14Ezi2UEzvQe1mzeaeaI7louRbw6S7dhp6P6vCNQjy09VKwOHXoSxDEu4f3AF2V3O6AwNAti5iyrQ9xGI3EKIgU5IGfu9YHHgP+c7SSvWLgGaAA89LZFkmnAey7MV7+fNvrajY2E+bl4+MyEVIG4Io/vlNsBUtDsBZAh4VfYrcFQazic4Ilqktm/LsThNI69LGdiLd8okro=;vxak8qfqs3hFX3pNsEdWIg=="
+secured: "kcNSGci6Z2W5sJnAKMAU1OPdAh98L/w6pFkkAwji23ALLhEqeJ0wZ/4OI63I5hKbVQEKtOkQKYiaHwNhbl4V4Wej5rdSQSM2BiYX9J4dcU2SBExlDnZ+USe97piS7msLYMe/1n008yuPUjKFJMIbUfVWYaoyYE87nFtksxqjyD+tX5VYBAfbne5fbaiqWVsXbb0VMhSKTU++Ym9KmwWNCLMt0+YjC+QfUuwKNuJriY2qt2yUTtehtp7Q1/zFUdkGYL6sAgzkf2PtJ5XQmM3VH6EyrkO1rGliNxAkjSGKORKosIpDPHyTW7Exbcs+cBuRp3CpCo9U3eks2v7aaxK41tOYafmFa1Z5nO6obngzhdY=;pI4z3dxsKLyM+PpmQAnxlw=="
 ---
 

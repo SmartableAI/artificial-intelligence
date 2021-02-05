@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/fintech-industry-will-continue-to-grow-stron
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/fintech-industry-will-continue-to-grow-stronger-in-2021-capital-float/amp/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,38 @@ images:
     isCached: true
 
 related:
+  - title: "Fintech, AI & ML: What you need to know in 2021"
+    excerpt: "In 2019, the use of AI in Fintech alone reached an estimated value of $6.67 billion. This is expected to grow to over $22.6 billion in just five years. And with a compound annual growth rate (CAGR) of 23."
+    publishedDateTime: 2021-02-05T09:30:00Z
+    webUrl: "https://www.itproportal.com/features/fintech-ai-and-ml-what-you-need-to-know-in-2021/"
+    ampWebUrl: "https://www.itproportal.com/amp/features/fintech-ai-and-ml-what-you-need-to-know-in-2021/"
+    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/fintech-ai-and-ml-what-you-need-to-know-in-2021/"
+    type: article
+    provider:
+      name: IT Pro Portal
+      domain: itproportal.com
+    quality: 76
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/mpr37pUgQUuEWNhxeEwmrK-1200-80.jpg"
+        width: 970
+        height: 545
+        isCached: true
+  - title: "7 FinTech Trends to Keep an Eye on in 2021"
+    excerpt: "As advancements in technology are on the rise, it seems inevitable that digitalization and innovation will change the world as we know it. And this is c"
+    publishedDateTime: 2021-02-04T07:19:00Z
+    webUrl: "https://www.albawaba.com/business/7-fintech-trends-keep-eye-2021"
+    ampWebUrl: "https://www.albawaba.com/amp/business/7-fintech-trends-keep-eye-2021"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/7-fintech-trends-keep-eye-2021"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 44
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/im_new/Sama%20al%20Kurdi/7FinTechTrends-shutterstock-03Feb21.jpg?itok=dgX8RVJ2"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "What can the world of Fintech expect in 2021?"
     excerpt: "By Björn Goß, CEO and Co-founder of Stocard Last year was a year like no other as the Covid-19 global pandemic caused us to change how we live and work. The pandemic caused huge challenges for people across the world as we sought to survive in new,"
     publishedDateTime: 2021-02-05T06:20:00Z
@@ -43,37 +75,19 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Learn How to Invest in A Trillion-Dollar Industry With This $40 Fintech Bootcamp"
-    excerpt: "The latest innovation since the internet is here and you need to invest in it. Finance meets technology in this fintech bootcamp bundle."
-    publishedDateTime: 2021-02-02T10:00:00Z
-    webUrl: "https://www.blackenterprise.com/learn-how-to-invest-in-a-trillion-dollar-industry-with-this-40-fintech-bootcamp/"
-    ampWebUrl: "https://www.blackenterprise.com/learn-how-to-invest-in-a-trillion-dollar-industry-with-this-40-fintech-bootcamp/amp/"
-    cdnAmpWebUrl: "https://www-blackenterprise-com.cdn.ampproject.org/c/s/www.blackenterprise.com/learn-how-to-invest-in-a-trillion-dollar-industry-with-this-40-fintech-bootcamp/amp/"
+  - title: "Fintech company launches AI-powered post-closing tech"
+    excerpt: "Fintech company Avanze Tech Labs has launched an AI-powered SaaS software that automates and expedites the post-close process. “Post-closing has been an ignored sector in the digital mortgage evolution,"
+    publishedDateTime: 2021-02-03T15:23:00Z
+    webUrl: "https://www.mpamag.com/news/fintech-company-launches-aipowered-postclosing-tech-245391.aspx"
     type: article
     provider:
-      name: Black Enterprise
-      domain: blackenterprise.com
+      name: Mortgage
+      domain: mpamag.com
     quality: 39
     images:
-      - url: "https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2021/01/andre-francois-mckenzie-JrjhtBJ-pGU-unsplash.jpg"
-        width: 1000
-        height: 668
-        isCached: true
-  - title: "Budget 2021: Startup ecosystem reacts to fintech provisions announced by FM Nirmala Sitharaman"
-    excerpt: "Fintech startups across the board welcomed FM Nirmala Sitharaman's Rs 1,500 crore proposal to boost digital payments, saying it was a testament to how the industry proved it worth during the COVID-19 crisis."
-    publishedDateTime: 2021-02-01T14:46:00Z
-    webUrl: "https://yourstory.com/2021/02/budget-2021-fintech-react-nirmala-sitharaman-online-payment-kunal-shah"
-    ampWebUrl: "https://yourstory.com/2021/02/budget-2021-fintech-react-nirmala-sitharaman-online-payment-kunal-shah/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/02/budget-2021-fintech-react-nirmala-sitharaman-online-payment-kunal-shah/amp"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 32
-    images:
-      - url: "https://images.yourstory.com/cs/2/f49f80307d7911eaa66f3b309d9a28f5/Fintech-06-1612189168058.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
-        width: 800
-        height: 400
+      - url: "https://cdn-res.keymedia.com/cms/images/us/001/0270_637479405128217784.jpg"
+        width: 500
+        height: 333
         isCached: true
 
 secured: "xJZgtGImR+SbQFamBJZdCPhevRVFHHYV7B5e+tPvnv8TKjJZMm2CwYeVWF2qdHW8RyR/0PhdRsOVr8l8s6euOmllez1IzqqtNrcKmCfOqN4H/01nXDVlXNluaEm6y8WsPgy5w1xo7aqWjPzMqf+mafMNJwjldw695UF12JFkn50GqogPyoo9cI0Op+ANhPEJ/fGkDYluhH4NO/6y4d4n3FNwWYu7h5uxGye+EYFGFIkbfqh+zzO+QW+O3Jhw/2B6cRQUS2RmBPf0i09LkStL6jEJm/ESkWvm9Qs2fZnaJqNpwQMiFY37kVOw1m3bNlIbEtU6a6V4+m5ahJqJp+HeMQ1+sGjQr2GkaUjVB13J8odteNaJEzggad5IMWHiWg9FG2DUpXKe6tKu7d9VAesoxYUxPi1G/7nwJCFmID7/Q3JlskmmrD8uKNAuVgxzLmamH6MRjKEL2SqDrS6+r7Hy0DsoIvTU11yIq8ssncSkCwWVVZtd84fCBMFoL0kg1yJ0RdRA5AOGUAif3LgO76vw7w==;CmPiGkPYbFpYAfvH2vkMBA=="

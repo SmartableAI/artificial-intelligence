@@ -27,47 +27,67 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) In Fintech Market Qualitative Insights on Application and Drivers & Growth Opportunity Analysis Report"
-    excerpt: "In Fintech Market Estimation, Global Share, Industry Outlook, Price Trend, Growth Opportunity and Top Regional Forecast (Latin America, North America, Asia Specific, Europe, Middle East ) \" Market Overview: Global Artificial Intelligence (AI) in Fintech Market is valued approximately USD 2."
-    publishedDateTime: 2021-02-01T13:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-qualitative-insights-on-application-and-drivers-growth-opportunity-analysis-report-2021-02-01"
+  - title: "Fintech, AI & ML: What you need to know in 2021"
+    excerpt: "In 2019, the use of AI in Fintech alone reached an estimated value of $6.67 billion. This is expected to grow to over $22.6 billion in just five years. And with a compound annual growth rate (CAGR) of 23."
+    publishedDateTime: 2021-02-05T09:30:00Z
+    webUrl: "https://www.itproportal.com/features/fintech-ai-and-ml-what-you-need-to-know-in-2021/"
+    ampWebUrl: "https://www.itproportal.com/amp/features/fintech-ai-and-ml-what-you-need-to-know-in-2021/"
+    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/fintech-ai-and-ml-what-you-need-to-know-in-2021/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
+      name: IT Pro Portal
+      domain: itproportal.com
+    quality: 76
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.mos.cms.futurecdn.net/mpr37pUgQUuEWNhxeEwmrK-1200-80.jpg"
+        width: 970
+        height: 545
         isCached: true
-  - title: "AI-Based Fever Detection Camera Market Share, Growth Insight, Size, Competitive Analysis, Regional, And Global Forecast To 2027"
-    excerpt: "How will the AI-based fever detection cameras help in battling COVID-19? Which region is likely to generate the highest revenue in the near future? Which segment would procure the largest share? What are the restraining factors of the AI-Based Fever Detection Camera Market?"
-    publishedDateTime: 2021-02-01T13:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-based-fever-detection-camera-market-share-growth-insight-size-competitive-analysis-regional-and-global-forecast-to-2027-2021-02-01"
+  - title: "Fintech industry will continue to grow stronger in 2021: Capital Float"
+    excerpt: "India is one of the fastest-growing fintech markets in the world. There is an increasing number of start-ups, an increased adoption of the Internet."
+    publishedDateTime: 2021-02-03T10:15:00Z
+    webUrl: "https://www.dqindia.com/fintech-industry-will-continue-to-grow-stronger-in-2021-capital-float/"
+    ampWebUrl: "https://www.dqindia.com/fintech-industry-will-continue-to-grow-stronger-in-2021-capital-float/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/fintech-industry-will-continue-to-grow-stronger-in-2021-capital-float/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: Dataquest
+      domain: dqindia.com
+    quality: 44
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/02/FintechBlue-750x375.jpg"
+        width: 750
+        height: 375
+        isCached: true
+  - title: "What can the world of Fintech expect in 2021?"
+    excerpt: "By Björn Goß, CEO and Co-founder of Stocard Last year was a year like no other as the Covid-19 global pandemic caused us to change how we live and work. The pandemic caused huge challenges for people across the world as we sought to survive in new,"
+    publishedDateTime: 2021-02-05T06:20:00Z
+    webUrl: "https://www.globalbankingandfinance.com/what-can-the-world-of-fintech-expect-in-2021/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/what-can-the-world-of-fintech-expect-in-2021/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/what-can-the-world-of-fintech-expect-in-2021/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 44
+    images:
+      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/06/tech-9-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Fintech company launches AI-powered post-closing tech"
+    excerpt: "Fintech company Avanze Tech Labs has launched an AI-powered SaaS software that automates and expedites the post-close process. “Post-closing has been an ignored sector in the digital mortgage evolution,"
+    publishedDateTime: 2021-02-03T15:23:00Z
+    webUrl: "https://www.mpamag.com/news/fintech-company-launches-aipowered-postclosing-tech-245391.aspx"
+    type: article
+    provider:
+      name: Mortgage
+      domain: mpamag.com
     quality: 39
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "United Fintech Enters the Market Data and RegTech Space with TTMzero Acquisition"
-    excerpt: "United Fintech has entered the Market Data & RegTech space with the acquisition of German fintech, TTMzero. United Fintech has taken a 25% stake in the market leading firm, with the intention of increasing to 80% over the next three years."
-    publishedDateTime: 2021-02-04T10:02:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-new-york-europe-new-york-city-7b404de2dd2f455587e5b5f4eb5704f0"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 19
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://cdn-res.keymedia.com/cms/images/us/001/0270_637479405128217784.jpg"
+        width: 500
+        height: 333
         isCached: true
 
 secured: "NyWsBackWuO5HMxyBkgzA9mxyFt/bZIRljA0dkbEOp+qEt+1wl1YiTpqZylB5yzCV+Zqr+MmbIRskhScjPbiWMc15Sh5XpZLQjuxNzAKsLOdFnNmWT1u84u0YFG+XakiLi8lk3/56IUnGwSiU1PWfTTPRPD7tcX/r5jrC/nYS9LVgEKNPqW1CZAP73YIpdOUdY1U6pbYSuQa6qNN+l8GCq9pH+2J7dWn3MJqh+V/+ZceOL7LRia5EGIm28+RQ+qA0fFNzvBQwZS55opqv6Nx3kNy9KxnhnjgbzP/JTq9jebuGbWabnWbd7ARz5y2yFyQ8qG8CTXzLBukFTczlq2fQL18fnzdtW+mqi5pilJBOPne+mx+UW0A2AU0/OIuu1D30iAnDY/u82lvztvI/hCxhLdJbJfIoQy2TcXHCFbbHKyYTxD9O81EfyR5JrN4xFjdtsHcrQiTKVncUFNXdvUQKZV27CKxDIK3A4lHQCbwQS1ThIRf5GpASsUcCB1ewubDGQTV38JZgviMZf6AESvZxA==;QPxvF2ib+4JuB4GdIyyXSw=="

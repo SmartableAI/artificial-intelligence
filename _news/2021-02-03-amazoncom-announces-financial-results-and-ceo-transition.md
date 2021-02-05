@@ -1,30 +1,27 @@
 ---
 category: news
-title: "Amazon.com announces financial results and CEO transition"
-excerpt: "Founder and CEO Jeff Bezos will transition to role of Executive Chair in Q3, Andy Jassy to become Chief Executive Officer of Amazon."
-publishedDateTime: 2021-02-03T11:21:00Z
-originalUrl: "https://www.telecomtv.com/content/digital-platforms-services/amazon-com-announces-financial-results-and-ceo-transition-40764/"
-webUrl: "https://www.telecomtv.com/content/digital-platforms-services/amazon-com-announces-financial-results-and-ceo-transition-40764/"
-ampWebUrl: "https://www.telecomtv.com/content/digital-platforms-services/amazon-com-announces-financial-results-and-ceo-transition-40764/amp/"
-cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/digital-platforms-services/amazon-com-announces-financial-results-and-ceo-transition-40764/amp/"
+title: "Amazon.com Announces Financial Results and CEO Transition"
+excerpt: "Founder and CEO Jeff Bezos will transition to role of Executive Chair in Q3, Andy Jassy to become Chief Executive Officer of Amazon at that timeSEATTLE--(BUSINESS WIRE)--Amazon.com, Inc. (NASDAQ: AMZN) today announced financial results for its fourth quarter ended December 31,"
+publishedDateTime: 2021-02-02T21:22:00Z
+originalUrl: "https://us.acrofan.com/detail.php?number=415814"
+webUrl: "https://us.acrofan.com/detail.php?number=415814"
 type: article
-quality: 46
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: TelecomTV
-  domain: telecomtv.com
+  name: 아크로팬
+  domain: acrofan.com
 
 topics:
-  - Google AI
-  - AI
   - AI in Finance
+  - AI
 
 images:
-  - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
-    width: 1200
-    height: 675
+  - url: "https://us.acrofan.com/news_images/2021/01/29/mark/20210129882520.jpg"
+    width: 580
+    height: 327
     isCached: true
 
 related:
@@ -231,6 +228,6 @@ related:
         height: 324
         isCached: true
 
-secured: "1NDGDxWP8oXDg7Zt17XMWI5JkH5vG9XY3t8IUUlXMFmcusYeMYr/lSvWaYyN5bzDKr5gKZuQQh+2QfuqDx6Uu4vCmT0hBXwqvPLTI2aTVEfyG5yXTEEgPBMlvaeO18k62YP2PqaSdL+mZxVQsykSnEk2bMAQhLHHED0ftJLuWbwzY5L5nDpl8+cLlAtbCu4Lgy3deWv4yeCOoKBJqeE8N6AFRyGjN6ZUUl/t8Xz0MKIECorQozrqgZoDwLD0kgNdKDG9HNMQlfDGWeu0Y4DJ3iZkXyWRXm6BDQf0xsDFMCjE6GWlCtFomwxLDZcczEiS55JSFTHrUYftT3jwPMg4+oUTAadx25hfDwccP1z274Q=;JR4zGZSlfmEcIJ9zqEPnlQ=="
+secured: "g6VJGynDbiF/zdHD+JoDdUIpSWxHq0CFzaeD1ONg3YhtgCWLdVNyx8MzGYCQFsHfo0hoHqzXjO9zYXIxQATcqyXu7q3dXtMJ5Nd0FsMOfUgpbsdA/uQL/Opduzf1ZxHdMVsgxAUTYrmzzIfYz/hiuWnadHuIwsbswE1FVIkr1C9D3JbBs1MIEZu7gsOO3QTh8krq5jFwMPIv7fC5dHZuMaqAUVUbJSkFhTQJiTojBbyGQ6bCRoVa20WyXzotH9cyzq8gp0HcTsReoGAeiKWwye9tLDNvTcWCIYbwsTdu0FET4GDljVpaMxCuSWae/jp6QmvAWDFkVGpwiRcYsH4mqfAYYRVBdnHMLmYziDBzhkg=;X+YjXH3Gb3eOcaa8DB3GZw=="
 ---
 

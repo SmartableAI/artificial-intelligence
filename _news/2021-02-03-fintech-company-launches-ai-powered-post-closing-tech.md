@@ -25,30 +25,69 @@ images:
     isCached: true
 
 related:
-  - title: "L.A based tech company Sci Find announces upcoming launch of AI-Powered search engine and database for Life Sciences"
-    excerpt: "Sci Find, a Los Angeles -based tech company will be launching its search engine and comprehensive database on February 8, to promote scientific innovation in the Life Sciences community. The AI-powered platform,"
-    publishedDateTime: 2021-02-02T18:05:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/l-a-based-tech-company-sci-find-announces-upcoming-launch-of-ai-powered-search-engine-and-database-for-life-sciences-1030033482"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/l-a-based-tech-company-sci-find-announces-upcoming-launch-of-ai-powered-search-engine-and-database-for-life-sciences-1030033482"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/l-a-based-tech-company-sci-find-announces-upcoming-launch-of-ai-powered-search-engine-and-database-for-life-sciences-1030033482"
+  - title: "Fintech, AI & ML: What you need to know in 2021"
+    excerpt: "In 2019, the use of AI in Fintech alone reached an estimated value of $6.67 billion. This is expected to grow to over $22.6 billion in just five years. And with a compound annual growth rate (CAGR) of 23."
+    publishedDateTime: 2021-02-05T09:30:00Z
+    webUrl: "https://www.itproportal.com/features/fintech-ai-and-ml-what-you-need-to-know-in-2021/"
+    ampWebUrl: "https://www.itproportal.com/amp/features/fintech-ai-and-ml-what-you-need-to-know-in-2021/"
+    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/fintech-ai-and-ml-what-you-need-to-know-in-2021/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 44
-  - title: "L.A based tech company Sci Find announces upcoming launch of AI-Powered search engine and database for Life Sciences"
-    excerpt: "Sci Find, a Los Angeles-based tech company will be launching its search engine and comprehensive database on February 8, to promote"
-    publishedDateTime: 2021-02-02T14:11:00Z
-    webUrl: "https://www.prnewswire.com/il/news-releases/la-based-tech-company-sci-find-announces-upcoming-launch-of-ai-powered-search-engine-and-database-for-life-sciences-301219845.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 14
+      name: IT Pro Portal
+      domain: itproportal.com
+    quality: 76
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+      - url: "https://cdn.mos.cms.futurecdn.net/mpr37pUgQUuEWNhxeEwmrK-1200-80.jpg"
+        width: 970
+        height: 545
+        isCached: true
+  - title: "Fintech industry will continue to grow stronger in 2021: Capital Float"
+    excerpt: "India is one of the fastest-growing fintech markets in the world. There is an increasing number of start-ups, an increased adoption of the Internet."
+    publishedDateTime: 2021-02-03T10:15:00Z
+    webUrl: "https://www.dqindia.com/fintech-industry-will-continue-to-grow-stronger-in-2021-capital-float/"
+    ampWebUrl: "https://www.dqindia.com/fintech-industry-will-continue-to-grow-stronger-in-2021-capital-float/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/fintech-industry-will-continue-to-grow-stronger-in-2021-capital-float/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 44
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/02/FintechBlue-750x375.jpg"
+        width: 750
+        height: 375
+        isCached: true
+  - title: "7 FinTech Trends to Keep an Eye on in 2021"
+    excerpt: "As advancements in technology are on the rise, it seems inevitable that digitalization and innovation will change the world as we know it. And this is c"
+    publishedDateTime: 2021-02-04T07:19:00Z
+    webUrl: "https://www.albawaba.com/business/7-fintech-trends-keep-eye-2021"
+    ampWebUrl: "https://www.albawaba.com/amp/business/7-fintech-trends-keep-eye-2021"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/7-fintech-trends-keep-eye-2021"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 44
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/im_new/Sama%20al%20Kurdi/7FinTechTrends-shutterstock-03Feb21.jpg?itok=dgX8RVJ2"
+        width: 1000
+        height: 667
+        isCached: true
+  - title: "What can the world of Fintech expect in 2021?"
+    excerpt: "By Björn Goß, CEO and Co-founder of Stocard Last year was a year like no other as the Covid-19 global pandemic caused us to change how we live and work. The pandemic caused huge challenges for people across the world as we sought to survive in new,"
+    publishedDateTime: 2021-02-05T06:20:00Z
+    webUrl: "https://www.globalbankingandfinance.com/what-can-the-world-of-fintech-expect-in-2021/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/what-can-the-world-of-fintech-expect-in-2021/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/what-can-the-world-of-fintech-expect-in-2021/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 44
+    images:
+      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/06/tech-9-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "H1j5NFAaKcfW/aGpmLQQ/cd/JRqCRWijM9HSmgCe4GOccqM7/CY1J0fJZxDCh4sbR8CRIlZPC/Az7iF7oTiHKpDiqOg5awDSm5JmrM7NIlCvP+1Tt++oJvyrotK4/YeQDCV1xbuC7L/ToHlH3LNjpt/IaUCuRWz1rmRIf4DJZC2I5QrKzEy0lOMuwZ6sBu0gldA08FqnWFLmxUxEQjL1SzDz7wGJMksrCcyk7lXppn/3qBG4sXhZjY+Sa1MbR9HK9qCiMq28kPmCSkcre7tC9d7ff1P2VHBURjWAD0CdDsDZMrqf/RWfwVpN3iEYSkjxb+36h6YUEm4sYpN44EzRHRxWS6eDgIQgn6wRDuFUWZxoStUidoH3gcYQaZxKdD+h55dwTGq/07po1EkwGzg/YzQ427rrg+0mSXgpG/XKzlD3crAa9djFRIdL+Kvtyz/79fNq9fHzO1zBd6TXggGyffcet5L+fiSYqZs1nYrH3pZ/VH5pTOhrS8FU3HIx7hByW2e1hPQx0SNfNkt6h4jonw==;MFR9zbfi6zvub/v4OxF8rA=="

@@ -35,20 +35,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 24
-  - title: "Dak Prescott part of group making investment in Plano fitness, sports medicine startup"
-    excerpt: "Dak Prescott has made a deal. No, not that deal. Plano-based OxeFit announced on Feb. 3 it has successfully closed an oversubscribed A round led by"
-    publishedDateTime: 2021-02-03T19:14:00Z
-    webUrl: "https://fortworthbusiness.com/ccbp/oxefit-gets-investments/"
-    type: article
-    provider:
-      name: Fort Worth Business Press
-      domain: fortworthbusiness.com
-    quality: 16
-    images:
-      - url: "https://fortworthbusiness.com/wp-content/uploads/2020/04/4035b1fd4d72079459dac9c8030b2e2b.jpg"
-        width: 1728
-        height: 1199
-        isCached: true
 
 secured: "88HW5e0k/7enm4BOB4bNlleszn8wpK7sN+FDuTQqcvhMJku+NwsFfNGqkMiXFLMFkwriTaTGxFiL57nCK/KtUmzqtZt1K/WvQLEJ17BhX/jnQFvP63fzSXnRVGN1erxiNLG4TOh2vPr0K/vTUV9dt7pFWi2PC2NjvZAToO1+TnUE5YTc4YR4u7B762SBsVnY6TJxGUJnWQTguIQ+jhaKo+dWRfkeTquzNISJjCZkANrmcFwB60vlWE3sNWOXumWmaFLpu95HM+ILmLC9nnozrPWz1i3BDTj/GC9ihfVjrfQ52nU3TeGiSQQG0We/PRlRkSvgFubBGRADjVC/EJLKUZX7jRVOKJRpC7VntiDAa/pb6v+wPNGHSaFJv5nUHNMdVJYinlWPj7NdEDWIjxeLEJefSkYAj6PKRkF+/K2Mo7JrRiTdFusOSsr9Jjh42ljCTsH9lICnVA8ZibUkrzHlu/u99UMlpROyBdrwLRBa7BYjC2Xm9uA9Gv9gWlzrkpj+lWNZmrsjWHPO6Swsv0K0cw==;f7WWnF2oZ6t8T2dEHiKAkA=="
 ---
