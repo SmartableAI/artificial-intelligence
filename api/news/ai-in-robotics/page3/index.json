@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-20-how-to-train-a-robot-using-ai-and-supercomputers.md",
+      "title": "How to train a robot (using AI and supercomputers)",
+      "excerpt": "Computer scientists developed a deep learning method to create realistic objects for virtual environments that can be used to train robots. The researchers used TACC's Maverick2 supercomputer to train the generative adversarial network.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2021/01/210119194329.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2021/01/210119194329.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-19T17:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-01-19-how-ai-is-being-used-in-the-legal-industry.md",
       "title": "How AI Is Being Used In The Legal Industry",
       "excerpt": "For the legal industry, there is promising potential to significantly boost efficiency by automating routine, high-volume tasks such as legal research, diligence, document drafting and electronic discovery.",
@@ -1345,49 +1388,6 @@
         "AI in Robotics",
         "AI Hardware",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-01-10-abu-dhabi-university-students-win-ega-grant-to-build-ai-powered-drones-and-robots.md",
-      "title": "Abu Dhabi University Students Win EGA Grant To Build AI-Powered Drones and Robots",
-      "excerpt": "Abu Dhabi University (ADU) has announced that Emirates Global Aluminum (EGA) has awarded an AED 150,000 grant to three proposals put forth by ADU Electr",
-      "sourceUrl": null,
-      "webUrl": "https://www.albawaba.com/business/pr/abu-dhabi-university-students-win-ega-grant-build-ai-powered-drones-and-robots-1403986",
-      "originalUrl": "https://www.albawaba.com/business/pr/abu-dhabi-university-students-win-ega-grant-build-ai-powered-drones-and-robots-1403986",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/2021-01/Project%202.jpeg?itok=Dgc7h8g-",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.albawaba.com/amp/business/pr/abu-dhabi-university-students-win-ega-grant-build-ai-powered-drones-and-robots-1403986",
-      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/abu-dhabi-university-students-win-ega-grant-build-ai-powered-drones-and-robots-1403986",
-      "publishedDateTime": "2021-01-10T01:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Bawaba News",
-        "domain": "albawaba.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

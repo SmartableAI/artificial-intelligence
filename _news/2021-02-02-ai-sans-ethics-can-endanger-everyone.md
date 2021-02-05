@@ -33,7 +33,7 @@ related:
     provider:
       name: Good Men Project
       domain: goodmenproject.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://goodmenproject.com/wp-content/uploads/2021/01/iStock-1206796363-1.jpg"
         width: 800

@@ -2,9 +2,9 @@
 category: news
 title: "Agent Factory announces collaboration with Microsoft to enable Smart Logistics solutions with advanced 3D vision technologies"
 excerpt: "AGENT FACTORY LTD., based in Israel, announces its collaboration with Microsoft's Azure Depth Platform program, aimed at democratizing"
-publishedDateTime: 2021-02-04T01:17:00Z
-originalUrl: "https://www.prnewswire.com/il/news-releases/agent-factory-announces-collaboration-with-microsoft-to-enable-smart-logistics-solutions-with-advanced-3d-vision-technologies-865633482.html"
-webUrl: "https://www.prnewswire.com/il/news-releases/agent-factory-announces-collaboration-with-microsoft-to-enable-smart-logistics-solutions-with-advanced-3d-vision-technologies-865633482.html"
+publishedDateTime: 2021-02-03T18:14:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/agent-factory-announces-collaboration-with-microsoft-to-enable-smart-logistics-solutions-with-advanced-3d-vision-technologies-301221519.html"
+webUrl: "https://www.prnewswire.com/news-releases/agent-factory-announces-collaboration-with-microsoft-to-enable-smart-logistics-solutions-with-advanced-3d-vision-technologies-301221519.html"
 type: article
 quality: 14
 heat: -1
@@ -209,20 +209,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "AI Applied in Enterprises: Information Architecture, Decision Optimization, and Operationalization"
-    excerpt: "Thomas Schaeck is an IBM Distinguished Engineer at IBM Data and AI, leading Watson Studio on IBM Cloud. On a one-year assignment in the USA in 2013 - 2014, Schaeck led transformation of ..."
-    publishedDateTime: 2021-01-31T15:20:00Z
-    webUrl: "https://www.infoq.com/articles/AI-applied-architecture-decision-optimization/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 25
-    images:
-      - url: "https://res.infoq.com/articles/AI-applied-architecture-decision-optimization/en/headerimage/deploying-ai-in-the-enterprise-big-1611926216131.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Shell, C3 AI, Baker Hughes, and Microsoft Launch the Open AI Energy Initiative, an Ecosystem of AI Solutions to Help Transform the Energy Industry"
     excerpt: "Initial Offerings Include AI-Based Reliability Applications to Improve Operational Efficiency for the Energy and Process Industries."
     publishedDateTime: 2021-02-02T03:00:00Z
@@ -233,6 +219,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "ZySGvJ1P+i1QI8MCLIYqHvObkA2bVE7ktGDBJbpnlVL+A9BPLkjEpAG3b0qSJVTi/il5C+PUXSS6srJHNUm/bU6pfjzWSy0LXxdPI+u9JsiQxVGpd1n11KU+ZN4mmqoz3V6+8WLa3MIUO3IjI3PzGeQfE7jyms5liEAkmVY53eiGRK6CIAqJM23K2Jx1H5XEuTNXIK57uelWaAmOOITsS1qFD7zjvHX9eBnv+v7mp9Qa3BvBtYzUjmeuf1oj519KAJyl7kF18Yq/FrqT+TiApsw/+KqYrKAqVZCql40MmLmbrf511DUII0evzbM8BYBFlaekz2zxWIhdcZI6J3dGzdok491tKAwqqyhbhKIRnpA=;1v0AuJhBL77UxVLGDTFfyw=="
+secured: "xjwsKfhLKNHjoxMDfXWOhj743BMEreeHCtfINNMzYSr2MERp+CHlTmv/ntldwun5wmG36S9lTpHzzUtU7o94KMEygBic64horh7TtzVXnu6EbAXMjrtB+Sr2Zw8yKftg1Vb6+CnETDtyP8jcax1cruUXB4Zl58bQQ3nOYDcy6LGcRj0iFGxtnGvF+uZ4HBIMTmDPRWvzz7YWx8zOffkH5zZKF4WhGBO4KawUotzUawPjK6LcChcBSkr+Y+c6P83fwkBFyh8BAXlhXuFXFM/pFIv+kHL7b1XTtHgmOZddIBzYzpACtCGOnmjjN1mGcH6HpZwlYBPJpfucuXPkr+/0OlVSjlaLDvUCiNF6itgA3+Y=;xSczjrjEo+JAsVzWRq4t/Q=="
 ---
 

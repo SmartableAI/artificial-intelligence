@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Here’s where AI will advance in 2021"
-    excerpt: "Advances in Transformer structures and GNNs will likely spur advances in domains that haven’t yet opened up to AI techniques and algorithms."
-    publishedDateTime: 2021-01-31T16:46:00Z
-    webUrl: "https://venturebeat.com/2021/01/31/heres-where-ai-will-advance-in-2021/"
-    ampWebUrl: "https://venturebeat.com/2021/01/31/heres-where-ai-will-advance-in-2021/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/31/heres-where-ai-will-advance-in-2021/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/01/AI-eye.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "What 2020 Taught Marketers About Data And AI"
     excerpt: "There is a strong need for marketers to understand their data and models to make predictions about the future."
     publishedDateTime: 2021-02-03T12:20:00Z

@@ -194,24 +194,10 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "AI Applied in Enterprises: Information Architecture, Decision Optimization, and Operationalization"
-    excerpt: "Thomas Schaeck is an IBM Distinguished Engineer at IBM Data and AI, leading Watson Studio on IBM Cloud. On a one-year assignment in the USA in 2013 - 2014, Schaeck led transformation of ..."
-    publishedDateTime: 2021-01-31T15:20:00Z
-    webUrl: "https://www.infoq.com/articles/AI-applied-architecture-decision-optimization/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 25
-    images:
-      - url: "https://res.infoq.com/articles/AI-applied-architecture-decision-optimization/en/headerimage/deploying-ai-in-the-enterprise-big-1611926216131.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Agent Factory announces collaboration with Microsoft to enable Smart Logistics solutions with advanced 3D vision technologies"
     excerpt: "AGENT FACTORY LTD., based in Israel, announces its collaboration with Microsoft's Azure Depth Platform program, aimed at democratizing"
-    publishedDateTime: 2021-02-04T01:17:00Z
-    webUrl: "https://www.prnewswire.com/il/news-releases/agent-factory-announces-collaboration-with-microsoft-to-enable-smart-logistics-solutions-with-advanced-3d-vision-technologies-865633482.html"
+    publishedDateTime: 2021-02-03T18:14:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/agent-factory-announces-collaboration-with-microsoft-to-enable-smart-logistics-solutions-with-advanced-3d-vision-technologies-301221519.html"
     type: article
     provider:
       name: PR Newswire
@@ -232,6 +218,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "IgoB3BIlxZ4Nh+RRwn+s/kNDP+/RXfPh17r+sb0/sIhcpEOsPv6/o9j6tZI9LaWBiXTdrIgeB3N7DCcAsxZ5bh6pnoOoqLzBBMzyu0XzzJ4DWCg2Ir6MCTTplDahrzMzboIRt2ZYGjiCty2EVuYAmEKH9K8A6ZRKNSeq7GKeIauZHcM+5TikY9ALBzKtIzvtzRVU8sN+ebs27sIGIvEismCZvg00bRNcDy3kci73r8Aj9I8o1aQBdkJnmwhO+ZM3sDKsb6rcwltulYJ8+qL3cj9Nl634Q4ES58OsZ1LaoJ1TZWa5uq4eY11UKwoBwWxJfBiD/eTMx4+ysYPJSnwkRP3k10cyjsP7kXN0sJ0BtyQ=;A/w6fbKQQpJr5YtNxBUKDw=="
+secured: "oJtgdrcd7niAnL+sDZKdzR19AcucXD9oTzwj+6OYqyTiTuQm1A5m3zysbIphxgM6qgfqh82TCbmn2rNymqvS7PFfC+4/GGEvRERTBczWe/aRSGB7LDF0UbBMMiHSk60i6jbkVPOZ/m+GpiqQMQulI79q1W1fZncSTuP5B4NjKXW258VLmtLnsCE4lHEVwsXCLb5lEeh38LVhj8ln6hwACl7CYGjfuQkRxOBUoWe1VY9SFYLZU7/i1hca9ukCzdL5WxOXr/GhQjvVLs5gT5t4+uIc6WX8eiPQvGxtXvnj5qY/Xw6HK5RmHlcD2D9buJjRnoz3cbyh7Zf7YbFkps5eLblvfJo9xZrHMHeYDV6V+tslozVAgv+81E3Mp7QPgBG876ZozrfVOcTTNsZmj01VVdC4Y7p3nf4xJLe1+OmmI9gDljhQSt8qheVJ1eeREXrh6//IqGzCLv7sMTIG2UqWcgyyec0rJ3WH+/U3YAMfe0f7FcLmAFeFX0SCD30gwxFuQJPqk5bHtUHrh+U/VSPpOw==;4P3MB5kR1cqVuko5Uhpiiw=="
 ---
 

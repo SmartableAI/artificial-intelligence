@@ -2,6 +2,49 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-01-23-ban-on-facial-recognition-technology-by-minneapolis-police-advances.md",
+      "title": "Ban on facial recognition technology by Minneapolis police advances",
+      "excerpt": "A proposal to ban the use of facial recognition technology by Minneapolis police and other city departments is advancing. A council committee advanced the measure Thursday which will go to the full council Feb.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wdio.com/news/ban-facial-recognition-minneapolis-/5986531/",
+      "originalUrl": "https://www.wdio.com/news/ban-facial-recognition-minneapolis-/5986531/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wdio.com/wdioimages/repository/2021-01/minneapolis-police.png",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.wdio.com/articles/ban-facial-recognition-minneapolis--5986531.html",
+      "cdnAmpWebUrl": "https://amp-wdio-com.cdn.ampproject.org/c/s/amp.wdio.com/articles/ban-facial-recognition-minneapolis--5986531.html",
+      "publishedDateTime": "2021-01-22T08:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WDIO",
+        "domain": "wdio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-22-sen-sherrod-brown-files-ethics-complaint-against-ted-cruz-josh-hawley.md",
       "title": "Sen. Sherrod Brown files ethics complaint against Ted Cruz, Josh Hawley",
       "excerpt": "Sen. Sherrod Brown of Ohio has joined several Democrats in filing a Senate Ethics Committee complaint against Republican Senators Ted Cruz and Josh Hawley.",
@@ -1128,57 +1171,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-ai-spacefarers-and-cosmic-testbeds-robust-robotic-systems-forge-path-for-human-space-exploration.md",
-      "title": "AI spacefarers and cosmic testbeds: Robust robotic systems forge path for human space exploration",
-      "excerpt": "With global dust storms, extreme temperature fluctuations, and cosmic radiation, life beyond the Earth's comparatively cozy confines is no picnic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-spacefarers-and-cosmic-testbeds-robust-robotic-systems-forge-path-for-human-space-exploration/",
-      "originalUrl": "https://www.techrepublic.com/article/ai-spacefarers-and-cosmic-testbeds-robust-robotic-systems-forge-path-for-human-space-exploration/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/07/16/c951a0d1-cc8b-46da-988f-c58fe571e60b/resize/1200x/c86c0af5787ca81d7c75643556e811bc/mars-2020.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-spacefarers-and-cosmic-testbeds-robust-robotic-systems-forge-path-for-human-space-exploration/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-spacefarers-and-cosmic-testbeds-robust-robotic-systems-forge-path-for-human-space-exploration/",
-      "publishedDateTime": "2021-01-21T07:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

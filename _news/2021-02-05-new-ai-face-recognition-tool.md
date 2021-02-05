@@ -41,35 +41,19 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "Here’s a way to find out if facial recognition systems used your photos"
-    excerpt: "Here's a way to find out if facial recognition systems used your photos When tech companies created the facial recognition systems that"
-    publishedDateTime: 2021-01-31T16:54:00Z
-    webUrl: "https://www.compsmag.com/news/technology/heres-a-way-to-find-out-if-facial-recognition-systems-used-your-photos/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/heres-a-way-to-find-out-if-facial-recognition-systems-used-your-photos/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/heres-a-way-to-find-out-if-facial-recognition-systems-used-your-photos/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 61
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/Heres-a-way-to-find-out-if-facial-recognition-systems.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Here’s a way to learn if facial recognition systems used your photos"
     excerpt: "An online tool targets only a small slice of what’s out there, but may open some eyes to how widely artificial intelligence research fed on personal images."
-    publishedDateTime: 2021-02-01T16:27:00Z
-    webUrl: "https://www.orlandosentinel.com/news/nationworld/ct-nw-nyt-facial-recognition-photos-20210201-idcvahi65bh7zkobkb7wjvwpgy-story.html"
-    ampWebUrl: "https://www.orlandosentinel.com/news/nationworld/ct-nw-nyt-facial-recognition-photos-20210201-idcvahi65bh7zkobkb7wjvwpgy-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/news/nationworld/ct-nw-nyt-facial-recognition-photos-20210201-idcvahi65bh7zkobkb7wjvwpgy-story.html?outputType=amp"
+    publishedDateTime: 2021-02-01T16:25:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-facial-recognition-photos-20210201-idcvahi65bh7zkobkb7wjvwpgy-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-facial-recognition-photos-20210201-idcvahi65bh7zkobkb7wjvwpgy-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-facial-recognition-photos-20210201-idcvahi65bh7zkobkb7wjvwpgy-story.html?outputType=amp"
     type: article
     provider:
-      name: Orlando Sentinel
-      domain: orlandosentinel.com
+      name: Chicago Tribune
+      domain: chicagotribune.com
     quality: 59
     images:
-      - url: "https://www.orlandosentinel.com/resizer/8u3zVMFj8ZrGh5JwqjtNcPSfTwI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SITXYEMZCKKE5TMUY7NNTYPHRY.jpg"
+      - url: "https://www.chicagotribune.com/resizer/8u3zVMFj8ZrGh5JwqjtNcPSfTwI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SITXYEMZCKKE5TMUY7NNTYPHRY.jpg"
         width: 1200
         height: 800
         isCached: true

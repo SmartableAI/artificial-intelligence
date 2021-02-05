@@ -202,24 +202,10 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "AI Applied in Enterprises: Information Architecture, Decision Optimization, and Operationalization"
-    excerpt: "Thomas Schaeck is an IBM Distinguished Engineer at IBM Data and AI, leading Watson Studio on IBM Cloud. On a one-year assignment in the USA in 2013 - 2014, Schaeck led transformation of ..."
-    publishedDateTime: 2021-01-31T15:20:00Z
-    webUrl: "https://www.infoq.com/articles/AI-applied-architecture-decision-optimization/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 25
-    images:
-      - url: "https://res.infoq.com/articles/AI-applied-architecture-decision-optimization/en/headerimage/deploying-ai-in-the-enterprise-big-1611926216131.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Agent Factory announces collaboration with Microsoft to enable Smart Logistics solutions with advanced 3D vision technologies"
     excerpt: "AGENT FACTORY LTD., based in Israel, announces its collaboration with Microsoft's Azure Depth Platform program, aimed at democratizing"
-    publishedDateTime: 2021-02-04T01:17:00Z
-    webUrl: "https://www.prnewswire.com/il/news-releases/agent-factory-announces-collaboration-with-microsoft-to-enable-smart-logistics-solutions-with-advanced-3d-vision-technologies-865633482.html"
+    publishedDateTime: 2021-02-03T18:14:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/agent-factory-announces-collaboration-with-microsoft-to-enable-smart-logistics-solutions-with-advanced-3d-vision-technologies-301221519.html"
     type: article
     provider:
       name: PR Newswire

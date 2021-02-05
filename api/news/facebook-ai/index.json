@@ -162,15 +162,15 @@
       ]
     },
     {
-      "path": "_news/2021-02-04-this-ai-maths-whiz-creates-tough-new-problems-for-humans-to-solve.md",
-      "title": "This AI maths whiz creates tough new problems for humans to solve",
+      "path": "_news/2021-02-03-ai-maths-whiz-creates-tough-new-problems-for-humans-to-solve.md",
+      "title": "AI maths whiz creates tough new problems for humans to solve",
       "excerpt": "Algorithm named after mathematician Srinivasa Ramanujan suggests interesting formulae, some of which are difficult to prove true.",
       "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/d41586-021-00304-8",
-      "originalUrl": "https://www.nature.com/articles/d41586-021-00304-8",
+      "webUrl": "https://www.nature.com/articles/d41586-021-00304-8?referral=true",
+      "originalUrl": "https://www.nature.com/articles/d41586-021-00304-8?referral=true",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -186,7 +186,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-03T10:32:00-08:00",
+      "publishedDateTime": "2021-02-02T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Nature",
@@ -200,9 +200,9 @@
         "news"
       ],
       "topics": [
+        "Facebook AI",
         "AI",
-        "Math for AI",
-        "Facebook AI"
+        "Math for AI"
       ]
     },
     {

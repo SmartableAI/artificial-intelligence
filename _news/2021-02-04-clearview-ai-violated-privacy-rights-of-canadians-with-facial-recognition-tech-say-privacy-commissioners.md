@@ -105,6 +105,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Clearview AI’s facial recognition service called an ‘illegal’ ‘mass surveillance’ tool in Canada"
+    excerpt: "What facial recognition company Clearview does is “mass surveillance”, and “illegal” — the company should \"delete all images of Canadians from its database\"."
+    publishedDateTime: 2021-02-05T08:42:00Z
+    webUrl: "https://www.medianama.com/2021/02/223-clearview-ai-illegal-canada/"
+    ampWebUrl: "https://www.medianama.com/2021/02/223-clearview-ai-illegal-canada/amp/"
+    cdnAmpWebUrl: "https://www-medianama-com.cdn.ampproject.org/c/s/www.medianama.com/2021/02/223-clearview-ai-illegal-canada/amp/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 61
+    images:
+      - url: "https://www.medianama.com/wp-content/uploads/2020/10/flat-3252983_1280.png.png"
+        width: 1280
+        height: 1066
+        isCached: true
   - title: "Image scraping facial recognition technology used in Alberta deemed illegal: report"
     excerpt: "A controversial facial recognition tool is equivalent to mass surveillance and violates the privacy rights of Canadians, an investigation has found."
     publishedDateTime: 2021-02-03T20:47:00Z

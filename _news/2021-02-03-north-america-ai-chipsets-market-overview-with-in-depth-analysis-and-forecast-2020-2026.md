@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/north-america-ai-chipset
 webUrl: "https://www.marketwatch.com/press-release/north-america-ai-chipsets-market-overview-with-in-depth-analysis-and-forecast-2020-2026-2021-02-03"
 type: article
 quality: 77
-heat: 157
+heat: 177
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 74
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Healthcare Artificial Intelligence Market Analysis, Industry Outlook, Current Trends and Forecast by 2026"
+    excerpt: "Request a sample Report of Healthcare Artificial Intelligence Market Analysis Report at:  The healthcare artificial intelligence market is anticipated to witness significant growth over the coming time period owing to increasing use of technology across numerous medical application verticals such as drug discovery,"
+    publishedDateTime: 2021-02-05T07:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-analysis-industry-outlook-current-trends-and-forecast-by-2026-2021-02-05?tesla=y"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -95,6 +109,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Organs Market Trends Detailed Analysis of Current Industry Figures with Forecasts Growth By 2026"
+    excerpt: "Request a sample Report of Artificial Organs Market Analysis Report at:  Global artificial organs market is acclaimed to be one of the most profitable verticals within the healthcare and medical devices space and is projected to grow substantially by 2026."
+    publishedDateTime: 2021-02-05T07:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-organs-market-trends-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2026-2021-02-05?tesla=y"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

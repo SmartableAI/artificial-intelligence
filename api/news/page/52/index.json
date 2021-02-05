@@ -2,6 +2,57 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2020-12-24-google-reportedly-told-ai-scientists-to-strike-a-positive-tone-in-research.md",
+      "title": "Google Reportedly Told AI Scientists To 'Strike A Positive Tone' In Research",
+      "excerpt": "Nearly three weeks after the abrupt exit of Black artificial intelligence ethicist Timnit Gebru, more details are emerging about the shady new set of policies Google has rolled out for its research team.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/google-reportedly-told-ai-scientists-to-strike-a-positi-1845944406",
+      "originalUrl": "https://gizmodo.com/google-reportedly-told-ai-scientists-to-strike-a-positi-1845944406",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/uuuqhcmntzmazuwchdbo.jpg",
+          "width": 800,
+          "height": 449,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/google-reportedly-told-ai-scientists-to-strike-a-positi-1845944406/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/google-reportedly-told-ai-scientists-to-strike-a-positi-1845944406/amp",
+      "publishedDateTime": "2020-12-23T18:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-24-deepminds-ai-agent-muzero-could-turbocharge-youtube.md",
       "title": "DeepMind's AI agent MuZero could turbocharge YouTube",
       "excerpt": "DeepMind's latest AI program can attain \"superhuman performance\" in tasks without needing to be given the rules. Like the research hub's earlier artificial intelligence agents, MuZero achieved ...",
@@ -1095,57 +1146,6 @@
         "name": "WRAL TechWire",
         "domain": "wraltechwire.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-tiktok-parent-bytedance-hiring-for-ai-drug-discovery-team.md",
-      "title": "TikTok parent ByteDance hiring for AI drug discovery team",
-      "excerpt": "ByteDance, TikTok’s Chinese parent company, is entering the health industry as it seeks to diversify a business dependent on advertising and livestreaming sales. The company, which prides itself on content algorithms,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/23/bytedance-ai-drug/",
-      "originalUrl": "https://techcrunch.com/2020/12/23/bytedance-ai-drug/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2017/06/33602814_7750651a44_o-e1608724710523.jpg?w=800",
-          "width": 800,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/12/23/bytedance-ai-drug/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/23/bytedance-ai-drug/amp/",
-      "publishedDateTime": "2020-12-23T04:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

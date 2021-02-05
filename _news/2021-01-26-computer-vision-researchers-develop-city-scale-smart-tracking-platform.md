@@ -1,28 +1,32 @@
 ---
 category: news
 title: "Computer vision researchers develop city-scale smart tracking platform"
-excerpt: "Computer vision researchers develop city-scale smart tracking platform. Surveillance cameras already spot or cover large cities, but it's"
-publishedDateTime: 2021-01-25T20:08:00Z
-originalUrl: "https://www.compsmag.com/news/pc/computer-vision-researchers-develop-city-scale-smart-tracking-platform/"
-webUrl: "https://www.compsmag.com/news/pc/computer-vision-researchers-develop-city-scale-smart-tracking-platform/"
-ampWebUrl: "https://www.compsmag.com/news/pc/computer-vision-researchers-develop-city-scale-smart-tracking-platform/amp/"
-cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/computer-vision-researchers-develop-city-scale-smart-tracking-platform/amp/"
+excerpt: "Tracking a vehicle or person moving between multiple city-scale locations will become considerably easier thanks to AI camera innovations."
+publishedDateTime: 2021-01-26T03:21:00Z
+originalUrl: "https://venturebeat.com/2021/01/25/computer-vision-researchers-develop-city-scale-smart-tracking-platform/"
+webUrl: "https://venturebeat.com/2021/01/25/computer-vision-researchers-develop-city-scale-smart-tracking-platform/"
+ampWebUrl: "https://venturebeat.com/2021/01/25/computer-vision-researchers-develop-city-scale-smart-tracking-platform/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/25/computer-vision-researchers-develop-city-scale-smart-tracking-platform/amp/"
 type: article
 
 provider:
-  name: Windows
-  domain: compsmag.com
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/Computer-vision-researchers-develop-city-scale-smart-tracking-platform.jpg"
+  - url: "https://venturebeat.com/wp-content/uploads/2021/01/anveshak.jpg?w=1200&strip=all"
     width: 1200
     height: 600
     isCached: true
 
-secured: "5jBj9cukFUdvC/f6YmXbH18ZhUU7owP04EfHisjB8R/e2ir6S3mvawjGfGasnEOVVgpQ1uNNiotK+LAOvArG8fuoESDNHWYNAx1ie+6HcllIJGJ01LwzgKoPkpxs0W9Dh4gLnayyRg3QIOWfoI1EVLWFb9Rgrb1eWR9jpFSQf3rOWkFUECAA6tFYoMbMtquau6fG/IuFt1R54w2Ub6+JanDZN56yC0vl5UTDIPcPDYVD/t23NqTDN0Rcizp/+XgmtuUbqPI5d63XSUS222K3TuYrMPEpjR8aR3P1RLm4zBTtAE9VRNTycAcpkc3kl8GMexNCU4LFKlS7Mo2MNykf/5xhEV3qdjCcdOQSjurdFYXND6dqQ9vpgNt5E4RJ6KA8B5CnUHBOBG7OH5t9lDoPD3/dMFMko2UYHTt3Q5ogI+LnXtt/865IXQsZkq3gsEb7wAPhli1nxCAcDWGE9i7mmkGNjFCW94gF/Of1QZRcbnH06+au+yClv5vEIrHjfWobbD2WKPmZjTheqv16RroAcA==;Rx3d/3CkkR+PqBu3nWyP/w=="
+secured: "rjqwisAqR1l5Fz8gNVHd0m4KggdHWmtClPGniZCyLJDK1iloPXhh9w4DTlF55E5KCYhZw2hbfM7cxDGMRUKMdwmQexTPvj2/PgGY4GZrA6CgrR1q3UWDNA/KY/yuYMsj3gRi3VpTZEufQ5a5UV4eIBUIwn+pZA+J24N0upurf/d4DIU0kUQ5RDs9LjecySns73O4yO4eFezqyG+f0XUGwi47rql2nC24mw/UUNeMhoKNlUZnU/J+E8fC5mH9wQuIbuJui3RYms83T5ydBaJHGPJLUv1e9QYfgqk8bEqVKnk2PR9JZHHnRzeC17NnjO0WobwGk1TB4THTi8XvSJGiGXkFDuHRaf3gmtVl08/lo6M=;dBiyqCjbi90jDt2qwqVriA=="
 ---
 

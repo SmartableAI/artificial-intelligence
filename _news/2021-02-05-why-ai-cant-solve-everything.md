@@ -6,7 +6,7 @@ publishedDateTime: 2021-02-05T06:20:00Z
 originalUrl: "https://goodmenproject.com/featured-content/why-ai-cant-solve-everything/"
 webUrl: "https://goodmenproject.com/featured-content/why-ai-cant-solve-everything/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - AI Ethics
 
 images:
   - url: "https://goodmenproject.com/wp-content/uploads/2021/01/iStock-1206796363-1.jpg"
@@ -40,6 +41,6 @@ related:
         height: 509
         isCached: true
 
-secured: "3NqX0X2xQ6OmC6jvp1onbji1bAAlRgDkXxt0rI1iASlevQoS+2vrV+PXhVQyA1phYBAv1Vtxo+fb4kSZ85I0PR0NjFha5Zid0IOFixHMqI1a8Ks4Hsjfxl0N8Up1CoDTYgS8GpSPvF+xQ9UhGUHn42mwuBlzaRMEbmA9a1cX+vepmza9n/BAjgrzZJdum9hbkrVaIf0tF/fDgsxYjy2nibg8/0Z5iy3v/gNE0P9eIBpLDmmG4XfJzZY9gwULbx2oW+nNhDWDIkLVSSfSIsdJYQtXib9iIKKdCH/FOCLpoLB8NDtcdpBvfCr3NoqlQqI0Zhx67BB/ke+2+xG7sJz5J54vDhogStueBaMZcFwj14w=;XKBBRF2nI/P6JwhWFGRY1Q=="
+secured: "A0oe0bDBpErAlYoMvba1Dn568+MZrOYy0waPGDXOEcuA5r8F2nKL4nkfszthutydoWyReLLHgvFWKLrgOXqr7To0bLV2QSTgqwECe5zjx7Dl+bu+80LHZBbHt0lvDMeWm8xdmrlPAUm3je+Un++YVpsxRZwKvO98k237qYtJJuT5E+nj1HK0pn1+oFSKPQSZ631vaHngTeiULXSZ5j5egnOY8qLOEqk9p7QltP+nNTRS5WseB3+Typ5jUfbdFkzJv8Vk2YsGIXEGX44fCCJzLi26+sKtyxhjnxOltt7jXxdq84wvbnDtoBbc2KphH7iZ3jAg9LJhBsO6zaJuwBMvOpEQLQmLvOZu+RpnkNZmSb+0r36AR7hhD5z7GaEb2YTvF5dLRXNxiDDDmvjTsbcloM26mKgFsYgWHb7MfaUrhcReHAaFeEF+1wAOqshVpRNnJhVy2cKQgDC/BjrABrDUy/bmELEvaUiqq9uok6fkJkGdqeldFSxhvgfBJ/qR0HK1FH9/thlLfv8sFbOjsGns+g==;UneZVdor8MzCiLvA7WTuFw=="
 ---
 

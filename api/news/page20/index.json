@@ -2,6 +2,49 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-01-21-using-natural-language-processing-to-classify-social-work-interventions.md",
+      "title": "Using Natural Language Processing to Classify Social Work Interventions",
+      "excerpt": "Natural language processing can be used for automated extraction of social work interventions from electronic health records, thereby supporting social work staffing and resource allocation decisions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ajmc.com/view/using-natural-language-processing-to-classify-social-work-interventions",
+      "originalUrl": "https://www.ajmc.com/view/using-natural-language-processing-to-classify-social-work-interventions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ajmc.com/AJMC_25Lockup.png",
+          "width": 768,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-20T08:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The American Journal of Managed Care",
+        "domain": "ajmc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-facebook-ai-gets-better-at-describing-photos-for-visually-impaired-users.md",
       "title": "Facebook AI Gets Better at Describing Photos for Visually Impaired Users",
       "excerpt": "In an effort to better accommodate users who are blind or visually impaired, Facebook this week updated its automatic alternative text (AAT) technology. The feature, introduced in 2016 (and granted the Helen Keller Achievement Award from the American Foundation for the Blind in 2018),",
@@ -1156,58 +1199,6 @@
         "AI in Autos",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-trump-pardons-former-google-self-driving-car-engineer-anthony-levandowski.md",
-      "title": "Trump pardons former Google self-driving car engineer Anthony Levandowski",
-      "excerpt": "Donald Trump has given a full pardon to Anthony Levandowski, a former Google engineer who stole trade secret on self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/20/trump-pardons-former-google-self-driving-car-engineer-anthony-levandowski/",
-      "originalUrl": "https://venturebeat.com/2021/01/20/trump-pardons-former-google-self-driving-car-engineer-anthony-levandowski/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-1176871826.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/20/trump-pardons-former-google-self-driving-car-engineer-anthony-levandowski/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/20/trump-pardons-former-google-self-driving-car-engineer-anthony-levandowski/amp/",
-      "publishedDateTime": "2021-01-20T02:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

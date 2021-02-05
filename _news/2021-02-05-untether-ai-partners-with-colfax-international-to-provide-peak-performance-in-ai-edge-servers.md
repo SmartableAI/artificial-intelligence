@@ -25,31 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "PercayAI and Saint Louis University Partner to Accelerate AI Adoption across Biomedical Sciences Research"
-    excerpt: "Biotech startup PercayAI and Saint Louis University (SLU) announced a partnership today to provide SLU researchers with access to PercayAI's augmented intelligence (AI) drug discovery platform. One of the primary components of the PercayAI platform is CompBio™,"
-    publishedDateTime: 2021-02-02T15:35:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/percayai-and-saint-louis-university-partner-to-accelerate-ai-adoption-across-biomedical-sciences-research-1030034010"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/percayai-and-saint-louis-university-partner-to-accelerate-ai-adoption-across-biomedical-sciences-research-1030034010"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/percayai-and-saint-louis-university-partner-to-accelerate-ai-adoption-across-biomedical-sciences-research-1030034010"
+  - title: "EDGECORTIX partners with PALTEK to bring Edge AI Hardware Acceleration Solutions to Market"
+    excerpt: "Through this partnership, EdgeCortix will provide PALTEK, with their low-latency, energy-efficient hardware IP (intellectual property) Dynamic Neural Accelerator® and MERA ™ compilers, to be implemented on the Xilinx Accelerator Card \"Alveo ™ U50 Data Center Accelerator Card\" *1."
+    publishedDateTime: 2021-02-05T07:10:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/edgecortix-partners-with-paltek-to-bring-edge-ai-hardware-acceleration-solutions-to-market-1030047227"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/edgecortix-partners-with-paltek-to-bring-edge-ai-hardware-acceleration-solutions-to-market-1030047227"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/edgecortix-partners-with-paltek-to-bring-edge-ai-hardware-acceleration-solutions-to-market-1030047227"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 50
-  - title: "PercayAI and Saint Louis University Partner to Accelerate AI Adoption across Biomedical Sciences Research"
-    excerpt: "Biotech startup PercayAI and Saint Louis University (SLU) announced a partnership today to provide SLU researchers with access to PercayAIs"
-    publishedDateTime: 2021-02-03T08:10:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-social-affairs-higher-education-education-2e5fb423ae57a06ac24da988b7f205a8"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 20
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+    quality: 59
 
 secured: "YARq1OJmSMx829sLjMG44coybs6GjCTBNZnNwO1tDgtR2CANoXaCteC0b9ohMX3iAskH9D8WXZYBoiYQGoovlJlIPfQhO77DZeeibQ/NBh6W69rpM8DP8f8YEHXTe3jtf+5HMyB03/j1XE0xvUcG4f23yzzNbuGC+xfvimitF4d93S3HbGOwuM0eISvnCpdcagDuHytAaThZYw2faBq3mn2us4OrRuJtpVXhRkYK5R+yU+qkZsGS+zhmYz0wfgVUUxEcmIwnd/DPFPKjoTOxeYw18VPYP9cVOHA/dHXNZ4Z6q9tz5vNC6B7YBqlTG75a5dU6HnRXJE6qpTwzNPP4jmEQ8BlAbg0wEAG7VSWcauM=;6qaUJt6P4ttDP4i9XMJBEw=="
 ---

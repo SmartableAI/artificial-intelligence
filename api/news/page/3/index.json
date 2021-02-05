@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-03-daimler-to-spin-off-trucks-in-shift-to-electric-and-self-driving-vehicles.md",
+      "title": "Daimler to spin off trucks in shift to electric and self-driving vehicles",
+      "excerpt": "German carmaker Daimler plans to spin-off Daimler Truck to focus on zero-emission vehicles and self-driving technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/02/03/daimler-to-spin-off-trucks-in-shift-to-electric-and-self-driving-vehicles.html",
+      "originalUrl": "https://www.cnbc.com/2021/02/03/daimler-to-spin-off-trucks-in-shift-to-electric-and-self-driving-vehicles.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 148,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106834715-1612368566679-gettyimages-1145508601-AFP_1GS0WF.jpeg?v=1612368644",
+          "width": 5296,
+          "height": 3283,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/02/03/daimler-to-spin-off-trucks-in-shift-to-electric-and-self-driving-vehicles.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/02/03/daimler-to-spin-off-trucks-in-shift-to-electric-and-self-driving-vehicles.html",
+      "publishedDateTime": "2021-02-03T07:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-03-if-you-have-a-luxury-handbag-to-sell-rebags-new-clair-ai-makes-it-easier.md",
       "title": "If You Have A Luxury Handbag To Sell, Rebag’s New Clair AI Makes It Easier",
       "excerpt": "In an effort to further distinguish itself amid the increasingly competitive luxury resale channel, Rebag is launching Clair AI image recognition technology for luxury products.",
@@ -573,7 +625,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/north-america-ai-chipsets-market-overview-with-in-depth-analysis-and-forecast-2020-2026-2021-02-03",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 177,
       "tags": null,
       "images": [
         {
@@ -922,6 +974,50 @@
       ]
     },
     {
+      "path": "_news/2021-02-03-ai-maths-whiz-creates-tough-new-problems-for-humans-to-solve.md",
+      "title": "AI maths whiz creates tough new problems for humans to solve",
+      "excerpt": "Algorithm named after mathematician Srinivasa Ramanujan suggests interesting formulae, some of which are difficult to prove true.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/d41586-021-00304-8?referral=true",
+      "originalUrl": "https://www.nature.com/articles/d41586-021-00304-8?referral=true",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-021-00304-8/d41586-021-00304-8_18829048.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-02T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-03-why-future-advances-in-ai-need-a-new-architecture.md",
       "title": "Why Future Advances In AI Need A New Architecture",
       "excerpt": "Businesses will need to adopt AI technologies not just because they can, but because they must - AI is the technology that will help businesses to be",
@@ -1154,93 +1250,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-abu-dhabis-etihad-airways-taps-microsoft-to-modernise-its-finance-operations.md",
-      "title": "Abu Dhabi's Etihad Airways taps Microsoft to modernise its finance operations",
-      "excerpt": "Etihad Airways has turned to Microsoft AI to transform its Finance Operations, which is comprised of the company’s Finance and Digital, Technology and Innovation divisions. The move saw the Abu Dhabi-based carrier work with Microsoft to modernise its payment inspection process using cognitive services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itp.net/emergent-tech/95876-abu-dhabis-etihad-airways-taps-microsoft-to-modernise-its-finance-operations",
-      "originalUrl": "https://www.itp.net/emergent-tech/95876-abu-dhabis-etihad-airways-taps-microsoft-to-modernise-its-finance-operations",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itp.net/emergent-tech/95876-abu-dhabis-etihad-airways-taps-microsoft-to-modernise-its-finance-operations?amp",
-      "cdnAmpWebUrl": "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/emergent-tech/95876-abu-dhabis-etihad-airways-taps-microsoft-to-modernise-its-finance-operations?amp",
-      "publishedDateTime": "2021-02-02T10:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GDPR fines",
-        "domain": "itp.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-fintech-integrator-50-.md",
-      "title": "\"Fintech Integrator\" - ინიციატივა 5.0-ის ფარგლებში ჰაკათონი ჩატარდება",
-      "excerpt": "Fintech Integrator“ ინიციატივა 5.0–ის ფარგლებში ფინტექის მიმართულებით დაგეგმილი აქტივობებს შორის ერთ–ერთი ღონისძიებაა. ჰაკათონი 13–14 მარტს გაიმართება და მასში მონაწილეობა ყველა დაინტერესებულ ადამიანს შეეძლება.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/364604",
-      "originalUrl": "https://www.entrepreneur.com/article/364604",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1612290528-image-safe-zone-check.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/364604",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/364604",
-      "publishedDateTime": "2021-02-02T10:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

@@ -2,17 +2,17 @@
 category: news
 title: "Closing the gap to win the AI marathon"
 excerpt: "Fortunately for the U.S., the race for AI superiority with China is not a sprint. An industry expert shares ideas for how Washington can come out ahead in the long run."
-publishedDateTime: 2021-02-02T21:00:00Z
-originalUrl: "https://www.navytimes.com/thought-leadership/2021/02/02/closing-the-gap-to-win-the-ai-marathon/"
-webUrl: "https://www.navytimes.com/thought-leadership/2021/02/02/closing-the-gap-to-win-the-ai-marathon/"
+publishedDateTime: 2021-02-02T21:01:00Z
+originalUrl: "https://www.airforcetimes.com/thought-leadership/2021/02/02/closing-the-gap-to-win-the-ai-marathon/"
+webUrl: "https://www.airforcetimes.com/thought-leadership/2021/02/02/closing-the-gap-to-win-the-ai-marathon/"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Navy Times
-  domain: navytimes.com
+  name: Air Force Times
+  domain: airforcetimes.com
 
 topics:
   - AI in Autos
@@ -35,6 +35,6 @@ related:
       domain: nature.com
     quality: 8
 
-secured: "vA2Adn+4Ucwb0dTnaAJKUWy7/SjdMMZsloDpSR0+554KCZnE1RzgyK81jnYHjQuE5qU9Zk4HS+ypS9FkLisoNFHRzY/lNG9trTBID175zfYM3eZ1Srfb5bAxkQH8lflKJUel46du8zc3wWpNOk9mAi/E/VN1IgEyMm/xt6Dh6xmdWdVbi0KoheR4zIcADC3P7IhUdqOH+a0Ibn1e4H8LK9IKdD3TfwoNz9avWZ4XH4vFe7dGKIk65XVSLE8SmbEgo6qeTddci2XQy43TN2sD3FbLItUWy0z0FmnDlG7hXfClcoKiX2dSapwY3UDre5E+KiFzrP5/mqKggzBN7mo8nes3ftpsUQ1Kst9BM/xDzI0=;Skxb4sdMDq9qRm7biBJssw=="
+secured: "kxyZtOtcm1/xOEHz292SsSDLiwZFsWmkyzKHwa15YzFSWcCbqAO5x8yhEaYnAkDdJpWjhDr7hsMQIYqsSpLS8XDJOPQWECgaCqYQxVWfJucX40sdwyH3Umi/MWyMKnAWAddlghePE7V6sklGl936nJd/0kJzFDAT0ddyNpnP5L9xrOVQPpO745uGN5CDNZiIgCr95BbU/nZ5bvwkW6WygAfcy2DRcZ2++BzokeClkLjZswT7JOnv+m5PoPPW+apvddGM2JejuCHOL0IcuvrFkXJQ1TKve09K8Z96dzUnfj2pWuiFVdRLn9OCgfrK2Jp7JW/BpFo0n3GleBESHfztpJirzIKaP6rwsGniGy7dry0=;PtFglCpoBFtZ9DTlxOzxAw=="
 ---
 

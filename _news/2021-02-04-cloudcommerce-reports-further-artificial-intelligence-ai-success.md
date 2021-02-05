@@ -3,8 +3,8 @@ category: news
 title: "CloudCommerce Reports Further Artificial Intelligence (AI) Success"
 excerpt: "Also, this experience demonstrates, once again, the benefit of using artificial intelligence to improve advertising performance.” The Company is developing SWARM into a cloud hosted software platform that will harness the power of artificial intelligence,"
 publishedDateTime: 2021-02-04T08:11:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-marketing-and-advertising-corporate-news-products-and-services-5118bd98078f123d8daaa004196625a1"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-marketing-and-advertising-corporate-news-products-and-services-5118bd98078f123d8daaa004196625a1"
+originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-marketing-and-advertising-corporate-news-products-and-services-5118bd98078f123d8daaa004196625a1"
+webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-marketing-and-advertising-corporate-news-products-and-services-5118bd98078f123d8daaa004196625a1"
 type: article
 quality: 52
 heat: -1
@@ -52,6 +52,6 @@ related:
       domain: smartdatacollective.com
     quality: 37
 
-secured: "+2/nZiuQZ2QO7R1P4hRZKh5ONaR75BnFh1Op+zZDZnIC6kJRvRr41eaW0ECxe7pIWQAPtmnXRU7QDwVJO1WI7LOlALIapOj8U/51GHMhleSZrsrXIewbak+kBZJ1sg83k7CX9/jUuU1e1KBxzIi3dQOW33bIQij3MgSBMGpNCm4nIrgMnl9BVhm2oG0Fe3F71H0KVe48teid+wB/tOGN9MFVjsG5CHFEewWo8W4T5714fON4qzF8vGt683daD5UAy2QMFX1QTTJvpy7Egvh30htGA23XgEBwG4im6u3CXE83++E2SGlJ3ZRN8bpyHTWe3K5hkOKqba9sWItFmTRMhEiwgtB5tyVp3jWGUTLVb00=;Jk+aHuXjCzQGwGjzdxFg4A=="
+secured: "DU6eHl5b2BR91D9On2bFLzAGZ17sHbsAob86isg8RmzDYejNr4+lH9LivdjOogN0mb0YJ0h5RDtgduGrNncai9tmN7kl2dwlHf42D/QMeEh51zSAp+K01pH+K17qnFgCCyBUnORqa5h6WK50EF8mMRtLZcVpOuktUXjgscW8QSo++UtNS+jBcMj/OfE0FYHP/21uEqfRFVYGTxOGK3YI7YOfttyQjKtwNETGNt1KolGBOe4V5NBvi6JPTFqmUXHpluBswp0VMrZsocL4SgS72MgzJahOWm4IS84aa+0l9sHsmOZ+4FwbPEm/MIJwL+x4oy1U+g3GdL79M8Lgill9sP69wETalBNK3rWEt55D/2M=;NYFMIabkgRZy6qID2NMrrg=="
 ---
 

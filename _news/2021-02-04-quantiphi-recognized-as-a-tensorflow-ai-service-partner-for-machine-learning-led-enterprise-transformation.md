@@ -1,30 +1,26 @@
 ---
 category: news
 title: "Quantiphi Recognized as a TensorFlow AI Service Partner for Machine Learning Led Enterprise Transformation"
-excerpt: "Quantiphi, an applied AI and data science company, has been selected by TensorFlow as an AI Service Partner to enable businesses across industries"
+excerpt: "Quantiphi has been selected by TensorFlow as an AI Service Partner to enable businesses across industries to benefit from AI-based systems and help them innovate faster,"
 publishedDateTime: 2021-02-04T14:25:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/quantiphi-recognized-as-a-tensorflow-ai-service-partner-for-machine-learning-led-enterprise-transformation/article_4c4c7bb7-085f-5ba9-a361-6bc04201dd08.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/quantiphi-recognized-as-a-tensorflow-ai-service-partner-for-machine-learning-led-enterprise-transformation/article_4c4c7bb7-085f-5ba9-a361-6bc04201dd08.html"
+originalUrl: "https://www.benzinga.com/pressreleases/21/02/p19489798/quantiphi-recognized-as-a-tensorflow-ai-service-partner-for-machine-learning-led-enterprise-transf"
+webUrl: "https://www.benzinga.com/pressreleases/21/02/p19489798/quantiphi-recognized-as-a-tensorflow-ai-service-partner-for-machine-learning-led-enterprise-transf"
+ampWebUrl: "https://amp.benzinga.com/amp/content/19489798"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19489798"
 type: article
 quality: 70
 heat: 90
 published: true
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
+  - TensorFlow
   - Google AI
   - AI
   - Machine Learning
-  - TensorFlow
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
 
 related:
   - title: "Lilt Included in Gartner's Market Guide for AI-Enabled Translation Services"
@@ -56,6 +52,6 @@ related:
         height: 450
         isCached: true
 
-secured: "8RUupBUHBIve/uYRSkiIwV6fxHZTFhWZt5aon7u9h38rmOVIc9S/WJzAWAXZmQ8/oiAk5okUm7U+HxdYMdx1idKbsGGvUQ8BS5h2zbPxbyc7TqtYQjOAIOhLjzvEfE6GTOg+QePkhsdGpl1mVdeV+wOESnG4Holh/2bmgYCjhGCKtlS6S6kfb2hbi8KYkuZoARiNPS0GBlzYEfKSDawYL5Fz8gP4n8ayHYAjkRNgRAjBKL8R2O+yJAmIAKoqmy2ErmlCKEuBtTdjp5Hrc849hSInsih7eObEZ2s5tefmOkflRLYnG2BS4kTJ3nZpjslJmPdkMPFVedRZnliThEiGGOUdTLw366PpzvqO1o68SXw=;H9au+9aNyoQNqLKC3Ub4mw=="
+secured: "R9t3Kq87h9xQvWGwyaQRmt25M+yqkcuKRLJCI5DFn5GTphrOLVmLimv7SGkAxZIOnZJWPEY5FxUKsWRfcPMOzNM1VL6l2OXJ3Bv5aWPAyas3q7gBfv59/7bv41ees9AS3hio2kOcBFZ29eoUQekdIPsPZHWPTycMGVQ5bZRP6gjulFl1lfnhJtVkezMWEYduaL4hvJGeh5azTSdfaW4UASRg3BJ4GTUNjzyNNroUsZVz22hmAMPYm+4V/39Ab4RnbCR231vge780vUHg3+ki8KnyOsMJ5lxLwenXdLwKLd0Jg5PE8q1jxGru9RYVuplJRnDDMl1c2mg6YbrfuwPrfL3DBhv1DAffcz6EWkGVuDM=;AOaDa6W2GI3nVDZ90RGcKg=="
 ---
 

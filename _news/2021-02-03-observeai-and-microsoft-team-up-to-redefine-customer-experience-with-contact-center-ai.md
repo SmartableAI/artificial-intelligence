@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
-excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance"
-publishedDateTime: 2021-02-02T22:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
-webUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
+excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
+publishedDateTime: 2021-02-03T08:22:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
+webUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
 type: article
-quality: 26
+quality: 46
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Microsoft's cutting-edge machine-learning tool moves from the lab to the mainstream"
@@ -238,7 +244,21 @@ related:
         width: 860
         height: 394
         isCached: true
+  - title: "Skillsoft Integrates with Microsoft Viva to Empower Learning in Today’s Flow of Work"
+    excerpt: "Skillsoft, a leader in digital learning, training, and talent solutions to help organizations unleash their edge, announces it is integrating tools and training with Microsoft Viva, which Microsoft launched today."
+    publishedDateTime: 2021-02-05T08:05:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-professional-services-4872dc3dd517417798ad767ac157b1fb"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 34
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
-secured: "e3YBddtnK7177Ku8U4+JmldC33lBDSqBJqqNjwXhRihbT2KL1SVrhS9PEp6v6MtkHLYEn3wK6jVixwO35GPFsBuJ/gGrF1EhDLMRMulYLoOH9zw/c9FFd4svLZLWhpg8alGqpVU+MPw34X2TJB1aD/7z+QfFc02B6/f8Fwlj1DVfPmjhI1geTLZue3aH8LO2MQe/0hdRk80NJc1CefothyRgXfbBNn2iBnMGiRq9BajM/DNWTCA4+agREMA428qjOX0IeN4PTvaYCJ2KKimoLZXD3Htg7cBHDDw1sHr1YkGmmrVlSX1RW3ccsBzlSNJAdAMvPLPMYsQyiKXxDf1L07X7LssDtxalgrZkVVGc2vE=;yrt6Xe9egkZl31Iou01yFg=="
+secured: "HMvzAVC9dZMk0GzSAgFhBCImlcK+ekLvBN4yqhllgAUoFbmyPDfhho024zO4dCqvLrRWjcwGq1oizh0sd+BqP2ZyAZmmWVG7JVUnYiuelLzBz8EOKy4LXeGY2Y384VW4Xax+kFRDrECRZcGphv+aCFtoUFnClCvNgBpkwGlFk3MV8OQ3COHRF/Bb48zGTttB6DT+RjCE0G8EoUx54r/oyYceXMwOrGHs5pllrhK0zzqKClJHwAAW0z6N2c3SO/O/alxpSNzLhHUupQDdYKj5e8wfwIc9edWzcSIk/WcXJcvU10Ud0nNYkMGgN7inG1oBmeUHJYVh9k4gYiYx+3Ra37eVhiz0lTFJWeyVS/1nCHo=;yxmTIibfBXxnBo2aj0iuyg=="
 ---
 
