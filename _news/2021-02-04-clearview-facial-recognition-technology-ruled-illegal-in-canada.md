@@ -234,17 +234,6 @@ related:
         width: 1266
         height: 828
         isCached: true
-  - title: "Millions of faces were scanned without approval. We need rules for facial recognition tech | Commentary"
-    excerpt: "Federal authorities say a San Francisco company scanned the faces of millions of people without their knowing it. What's needed are clear rules for how facial recognition technology can be collected and used,"
-    publishedDateTime: 2021-01-31T23:31:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/millions-of-faces-were-scanned-without-approval-we-need-rules-for-facial-recognition-tech-commentary/"
-    ampWebUrl: "https://www.seattletimes.com/business/technology/millions-of-faces-were-scanned-without-approval-we-need-rules-for-facial-recognition-tech-commentary/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/millions-of-faces-were-scanned-without-approval-we-need-rules-for-facial-recognition-tech-commentary/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 23
   - title: "Clearview’s facial recognition technology is illegal mass surveillance, Canadian privacy officials say"
     excerpt: "Clearview's facial recognition technology is illegal mass surveillance, Canadian privacy officials say Clearview AI's facial recognition"
     publishedDateTime: 2021-02-04T16:02:00Z

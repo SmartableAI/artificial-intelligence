@@ -1,29 +1,23 @@
 ---
 category: news
-title: "Delta rolls out facial recognition for domestic travel at Detroit airport"
-excerpt: "Delta Air Lines is rolling out facial recognition for some domestic travelers at its Detroit hub, an expansion of the biometric technology beyond international flights. The move comes after Atlanta-based Delta launched in 2018 what it called a “biometric terminal” for international travel using facial recognition at Hartsfield-Jackson’s Maynard H."
-publishedDateTime: 2021-02-04T20:51:00Z
-originalUrl: "https://www.ajc.com/news/business/delta-rolls-out-facial-recognition-for-domestic-travel-at-detroit-airport/67K25ANSAJEQVLR5LGZNPPULRE/"
-webUrl: "https://www.ajc.com/news/business/delta-rolls-out-facial-recognition-for-domestic-travel-at-detroit-airport/67K25ANSAJEQVLR5LGZNPPULRE/"
+title: "Delta Rolls Out Facial Recognition for Domestic Travel at Detroit Airport"
+excerpt: "Delta Air Lines is rolling out facial recognition for some domestic travelers at its Detroit hub, an expansion of the biometric technology beyond international flights. The move comes after Atlanta-based Delta launched in 2018 what it called a \"biometric terminal\" for international travel using facial recognition at Hartsfield- Jackson's Maynard H."
+publishedDateTime: 2021-02-05T15:26:00Z
+originalUrl: "https://www.aviationpros.com/airlines/news/21209027/delta-rolls-out-facial-recognition-for-domestic-travel-at-detroit-airport"
+webUrl: "https://www.aviationpros.com/airlines/news/21209027/delta-rolls-out-facial-recognition-for-domestic-travel-at-detroit-airport"
 type: article
-quality: 53
-heat: 53
+quality: 33
+heat: 33
 published: false
 
 provider:
-  name: Atlanta Journal-Constitution
-  domain: ajc.com
+  name: AviationPros
+  domain: aviationpros.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://www.ajc.com/resizer/C-G8Xr8RpZqUnRl8gGEcgY-jFgo=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/EQ2DJC3GNWFFY2Q2DAIPN7ANIU.jpg"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "1I6Vgv0ZsjCLHU3dzNHWF9pwItXzGagw9/isj6TUXvPZblJx6AIiTzk+MLQ+2GdPbydgGqVD/iqIA9E3feSOFE1PlvFU166lyoW9rgMSMt98x5j7DGEXh/c0ftc7fV2KRfHgR+XXO+iN0UgPzWKgYEp1Y8190IeuOWqggYmjn9xfnnS/RrU9AECeCdPNr5wW/59D0YO99q4xQDW/4HUnvQdMQpa5OdJrPFmaSOL9YGh/K7d/SEPNpNBeg41jaVUd7TN851zRzxqPuIOjXtZxKFByAVu7dSGMVn33/D5Q1nwlwyAF+LOJBDetjIZL+mfHIwHQTj8oJ1aOaC5jdZiaimimyx1jiCg/WwkwaHsOUDo=;5VQ2FKMlaiaVCbdBKVeeiw=="
+secured: "PbwMmTnMw1rjrLID90kw2n/eh2LbOUIpnOfTlwCBDZF9VQ0KJlJGkKF3xPbY5Jo2vXlZ/2WwImVsjTN9UJ+4HNLTPfEF9br7ZmLmB36rliZBy1SSzdVSREWUA/DoFEWzBQ/zQnfAYnJ7qAk71MvCkKKbjQg+E0PKtZmTI2hV7fo8C21KkkXY4Y9Ck0/WZWph1Q0hirMpJoyzu4BlKDFvv6ZnBNlKdK0DhHgFLbBvJAZjPBQ5+OnjHpx1dre/HZe5RpKHBOW4LF6gfs5fJSlsGjGwfrlczY4NsGqBb8eKKNJFToT+YiX1QVAdCd1m+3E1hiGEw3dOS4G4X2kmvSuy2v9DGEU4+xA/SqQCMBTOWQg=;THmy0Op31j/Haqo0dqcF7Q=="
 ---
 

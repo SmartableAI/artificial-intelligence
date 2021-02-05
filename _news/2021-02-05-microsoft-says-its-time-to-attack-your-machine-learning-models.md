@@ -104,6 +104,20 @@ related:
         width: 1157
         height: 649
         isCached: true
+  - title: "Microsoft Azure Helping to Strengthen US Microelectronics Supply Chain"
+    excerpt: "In a blog post, Mujtaba Hamid, Principal PM Manager, Microsoft Azure, discussed the company's collaboration with the Department of Defense"
+    publishedDateTime: 2021-02-05T16:06:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/microsoft-azure-helping-to-strengthen-us-microelectronics-supply-chain/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 69
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/stampede2-405x228.jpg"
+        width: 405
+        height: 228
+        isCached: true
   - title: "Why Microsoft’s Self-Driving Car Strategy Will Work"
     excerpt: "Self-driving car startup Cruise received more than $2 billion investment from Microsoft, General Motors, Honda, and institutional investors,"
     publishedDateTime: 2021-02-03T08:02:00Z
@@ -198,6 +212,20 @@ related:
         width: 510
         height: 314
         isCached: true
+  - title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
+    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
+    publishedDateTime: 2021-02-03T08:22:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 46
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Microsoft’s Custom Neural Voice technology goes out of preview"
     excerpt: "Microsoft has announced that its text-to-speech AI “Custom Neural Voice” has hit general availability. The technology enables developers to create personalized voices using their audio data and"
     publishedDateTime: 2021-02-04T16:31:00Z
@@ -240,15 +268,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
-    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance"
-    publishedDateTime: 2021-02-02T22:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 26
 
 secured: "TuNZ/pnI76r7JomjySbGngpyZDVt37CildtLEiQRXq5I6nMJdftMMeu17WCtxpUE65286lkiBiRuJvr8iT+P64Ds1qVTY6fXWZepHMJCNzATuQLtc+r6sVKp7QLPTXK4+zbC22kY/RD1Fyn99hoJ5/m0UVFXmgFn4oNfbiTvJx/axBn4lhm/Jm0r+8IyZv9kaK8XQq5V/AZN2dMXI4Kw2UvvrH9vyMw+FME43biRZki58Rn8diqHSPiuW6KRlyNrV885F4q9GlgjbNqoSRjKDB9yRms4Tprfd9XUREZEo4GT4SpjUtLomnfa3Oz9ve0YGexAuX/2Nlv6DpBMjOncG0ZoaUqAOTdTJSVKRam4FN0=;jbid7mS3/gPgyeAUC34yUA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.designnews.com/design-hardware-software/deepmind-worki
 webUrl: "https://www.designnews.com/design-hardware-software/deepmind-working-solution-bias-ai"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1178
     height: 1070
     isCached: true
-
-related:
-  - title: "Watch Google Deepmind's AlphaGo Documentary for Free"
-    excerpt: "In 2016, DeepMind, Google's subsidiary focused on artificial intelligence research, made history when AlphaGo, an AI system became one of the world's best Go players. Over the course seven days, in a best-of-five-game competition, AlphaGo bested high ..."
-    publishedDateTime: 2021-02-01T00:00:00Z
-    webUrl: "https://www.designnews.com/electronics-test/watch-google-deepminds-alphago-documentary-free"
-    type: article
-    provider:
-      name: Design News
-      domain: designnews.com
-    quality: 39
-    images:
-      - url: "https://www.designnews.com/sites/designnews.com/files/Design%20News/AlphaGoDocumentary.jpg"
-        width: 1278
-        height: 724
-        isCached: true
 
 secured: "hOa6yuihtq7iGdpb2OxhsBQd6qKAK0NYUyCcAltB0uj+ikFbAhfkSMfe3m94UypBGQXiiKz/8D4vfFLYZzavv4RAcS1bxKZ+ScUfZDulJ2H5fHY7PAO58c13LAP/Y9vMdGmxTMVTRHrgAsNsb9j+i0ttq4RUNItK+jwrtrg3lmF5yhOumKpqt9DfDNe3t72bmSg+RZgHjcwOuBZjfcdIYiPCtWpk5o5iCqT4tC0SAlyxmPfApzAHf8q2zkEcxpMmYIMPFPHqqTJh3bTTiqi83RgRRCB9OanfAyEx7f/oyUokSNDas4wvLDNP9E3K+YfeiyTF9MFOqfb9SaCf1kP83mjcQ+Cf+/HfcLrw+lrHXLU=;WZgQ5UV09sQZfmTpi1W6pg=="
 ---

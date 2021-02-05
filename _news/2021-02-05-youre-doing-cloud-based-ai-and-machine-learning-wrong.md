@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3606135/youre-doing-cloud-based-ai
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3606135/youre-doing-cloud-based-ai-and-machine-learning-wrong.amp.html"
 type: article
 quality: 104
-heat: 124
+heat: 115
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601b0551eddc6b688511ddfe%2F0x0.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Three Benefits of AI and ML in Banking and Finance"
-    excerpt: "Predictive data analysis will be offered by applying AI and ML as banks and financial institutions try to provide better services with more actionable information such as patterned customer behavior and spending behavior data sets."
-    publishedDateTime: 2021-02-01T00:00:00Z
-    webUrl: "https://www.cioapplications.com/news/three-benefits-of-ai-and-ml-in-banking-and-finance--nid-7142.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 86
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/16rfx450.jpg"
-        width: 450
-        height: 308
         isCached: true
 
 secured: "HESCZd2Y8yWF3lLHHhPYhfe/N/En4Gg7zZvH2bpBUdz2nrWqNjHJlvcNlvs8XDaCtc9GPYbL/X554YMYr/uKNqjNpi/Mj50u8Hhs52PlsG2B/l/M5wPDtyEvTMITK8PNR6ZFpMi33C31etT1VHN1JftFxMzibkfosevGvKoTtcOVKS1kn0Xr62yJ6u0VJLo1xUUhydRJus+ApsXHYApEf4zdpBqPlNvGOZtYQMWbcGp5bnz6BKNjhAYhYbVEJTUNIu4hn6gNFRruqkIIUANCBCzsHyT6cFYqZsaUvK9zL5QSnRzaBrKF4GYttSq1epddjsOTnG9RkFEFzKLdKoU769Rdfp9Hlg2nb8A8QSeTcdA=;vXRL28pz6yvbRoc9sXSNVA=="

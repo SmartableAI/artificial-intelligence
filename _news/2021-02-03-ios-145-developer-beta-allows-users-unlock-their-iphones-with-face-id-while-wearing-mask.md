@@ -45,6 +45,22 @@ related:
         width: 2400
         height: 1605
         isCached: true
+  - title: "Unlocking iPhones While Wearing a Face Mask: Now Easier, If You Have iOS 14.5—and an Apple Watch"
+    excerpt: "Apple’s next iOS software updates—iOS 14.5—includes a feature we have all been waiting for: the ability to unlock an iPhone with Face ID while wearing a mask. The catch? You need an Apple Watch."
+    publishedDateTime: 2021-02-05T16:03:00Z
+    webUrl: "https://www.wsj.com/articles/unlocking-iphones-while-wearing-a-face-mask-now-easier-if-you-have-ios-14-5and-an-apple-watch-11612540884"
+    ampWebUrl: "https://www.wsj.com/amp/articles/unlocking-iphones-while-wearing-a-face-mask-now-easier-if-you-have-ios-14-5and-an-apple-watch-11612540884"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/unlocking-iphones-while-wearing-a-face-mask-now-easier-if-you-have-ios-14-5and-an-apple-watch-11612540884"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 61
+    images:
+      - url: "https://images.wsj.net/im-295591/social"
+        width: 1279
+        height: 640
+        isCached: true
   - title: "iPhone 13 may not use the notch design and Face ID feature"
     excerpt: "News Highlights: iPhone 13 may not use the notch design and Face ID feature - Recent reports claim that the iPhone 13 does not come with Face ID facial"
     publishedDateTime: 2021-02-01T15:20:00Z

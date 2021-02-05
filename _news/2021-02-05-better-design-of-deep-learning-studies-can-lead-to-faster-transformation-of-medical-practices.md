@@ -26,6 +26,22 @@ images:
     height: 480
     isCached: true
 
+related:
+  - title: "Topological representations of crystalline compounds for the machine-learning prediction of materials properties"
+    excerpt: "Accurate theoretical predictions of desired properties of materials play an important role in materials research and development. Machine learning (ML) can accelerate the materials design by building a model from input data."
+    publishedDateTime: 2021-02-05T16:12:00Z
+    webUrl: "https://www.nature.com/articles/s41524-021-00493-w"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 3
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41524-021-00493-w/MediaObjects/41524_2021_493_Fig1_HTML.png"
+        width: 456
+        height: 685
+        isCached: true
+
 secured: "Eo/32hNGA0vFICE1qN2STnm/tt9nAxKFLNTZm+E96q27T1cZrVKuY968QSS9PaDBxHnQrpJeuT8VXylk0r7YzBDQjgrJye0hJ4WXGIOWA2Y4xStp0XMkkvhEAyeu6Pa1Js6yhP62eBHwu1/jIdk1n+h5/YbIYrevNEJDHmS9wzxbKqHjkn+WOMG/s8a4FolMVuHPlsjSV5ldvCTgnM9vCBv436ykmPod7PHqCJybCPLNc5tp3cpIRQi6TXQui+rL8ccmOGpVM8G45bh2zmRm/IZkmywNdJYDZgL0HpSsf+SPfx5LDWa/UcbQBxhY+9mkf37OlgrfAIPzIET5LqBYQQO59Jk8C6mL4U1F4fQICfE=;cp6OI3Jzb/fkFHG8XZBuIQ=="
 ---
 

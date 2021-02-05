@@ -237,17 +237,6 @@ related:
         width: 750
         height: 499
         isCached: true
-  - title: "Millions of faces were scanned without approval. We need rules for facial recognition tech | Commentary"
-    excerpt: "Federal authorities say a San Francisco company scanned the faces of millions of people without their knowing it. What's needed are clear rules for how facial recognition technology can be collected and used,"
-    publishedDateTime: 2021-01-31T23:31:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/millions-of-faces-were-scanned-without-approval-we-need-rules-for-facial-recognition-tech-commentary/"
-    ampWebUrl: "https://www.seattletimes.com/business/technology/millions-of-faces-were-scanned-without-approval-we-need-rules-for-facial-recognition-tech-commentary/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/millions-of-faces-were-scanned-without-approval-we-need-rules-for-facial-recognition-tech-commentary/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 23
   - title: "Clearview’s facial recognition technology is illegal mass surveillance, Canadian privacy officials say"
     excerpt: "Clearview's facial recognition technology is illegal mass surveillance, Canadian privacy officials say Clearview AI's facial recognition"
     publishedDateTime: 2021-02-04T16:02:00Z
@@ -274,6 +263,6 @@ related:
         height: 800
         isCached: true
 
-secured: "2IQtC2fA2hf1MCPIkUqEPXu6oX51zibhig9XFfu3C2AhOWI6FeIjgPHd7FP/XSq/0qcLfFAdENk+eUKg00wfebmlqx1ZLN5R5alkAjMaxI5BKtmflSID2cgbvyN5Og9HuMfCZVRpOcfjm6YlNhPJxiCvLWWPNpCU0q1z3KVDptItDvJdfQRl4vUBc4e7TVpYKuMQhZUkDrgSjxWZ2FxH4sDXIwpuzk1TOQrm8+8pbNBZLjFM/T3Avuy+DG6+19/shbE1rLs6U0RwmYTdvnK3y7UjF9Zz51jvnAGUa+4tfeFEdtQ+zF49jnV3bgu4Y4oEEpVcBliOKJJ3768QNcX1nJ8zQ1R1NHiE1gYrBqMXfO0=;yhiBxAx1pSa4m2BaWRiP9A=="
+secured: "3JnyJL7wKuX0zDHSMR1K5TIjUeehhlAOFDtaeuy1DjUcja6VOnlFyabTRczzMEUh2ddZ4ZmBJnELntihXzS8rYftFuUW2nq5eZHM2M/1P94WDHKOUF2pIHOppdrZbvrbJwoquf/jq1FVMA7kdRymNU/43fSk+lFQYoSOKnBQeN5toUx1tnGDHmthgF6pZ9TWhbH5FsRXuFFIhKN7HHmJ4uSyuAkkgxfBPwQzn+G2SiZL7dd9HWXX9IfrSvXV+yF48iVehExBpFt1tw8lPMwuYV4Jpl5wkosdtHnPq3zCfIJ60IFd0R2N/i3DCmKHxX5d1jgCA7vur5CETdSvATB5RFkoizx4wHsS1trffEFN9y/BZ6Bjftn6AURUrlJA9YRxLV10KGiawsULOqdMGqZzecO8fyB6yGQ7rqcdpF3EnCAQDFGznH0IkgCAsoBy+8ArUAt3920p6zKvfko+JpICjG4mPRvouMnv+khPZjBtIDXHY6ReRR3/B2h/Mr18e0l6bcpOPgDrkDhGsDlx8u5GpQ==;e8R2M9ytmVJDZAal6ey1+Q=="
 ---
 

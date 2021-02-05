@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itproportal.com/amp/features/fintech-ai-and-ml-what-you-
 cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/fintech-ai-and-ml-what-you-need-to-know-in-2021/"
 type: article
 quality: 76
-heat: 116
+heat: 127
 published: true
 
 provider:
@@ -89,6 +89,20 @@ related:
       - url: "https://cdn-res.keymedia.com/cms/images/us/001/0270_637479405128217784.jpg"
         width: 500
         height: 333
+        isCached: true
+  - title: "How Fintech Can Help Streamline Your Company’s Financial Operations"
+    excerpt: "Huge.” “Surging.” “Very hot.” Those were just a couple of the terms financial news outlets used to describe the fintech market in 2020. They weren’t just buzzwords. Fintech has seen double-digit growth in transaction numbers and volumes during the pandemic,"
+    publishedDateTime: 2021-02-05T16:18:00Z
+    webUrl: "https://hbr.org/sponsored/2021/02/how-fintech-can-help-streamline-your-companys-financial-operations"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 24
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2021/01/Tripactions.-HBR-Header-1200x675-3.png"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "rwldUmb0E0EYjo8ctnT3BpInIS4N668M4zAMTLsnnYpTEoZaoSh27i/t8hVnxJ+bD7je+TZPQML8J0u/lkekE2ECmwN4zJMeU2KcYpM5a2kLxCThBtd3KgWYw2bdTSIQKKoBirY97QF89995Rih/+TUV1sKrr8e17r7d1oyp7gacBrx+yVYitMKYvoXh9MgYBXD+sQuatWYUZbDLwdTEjCaTlgQCXMqG333v3UvBXsn++7QSqz0HsVSbJCWtKu0aAkKhZl7ordsU7RUraUq6PTfrA+vNwJsd4zbiGBMer82DqisPtiwuA0Ow0WT1pOwL4ING3I66TG1fJM/WhfV+T4PAII/Gt7vmej/n6jSPS8A=;+tEyePll5oZzEvTYMdFJfw=="

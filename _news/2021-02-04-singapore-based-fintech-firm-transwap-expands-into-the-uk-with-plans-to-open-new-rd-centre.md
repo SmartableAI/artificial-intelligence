@@ -24,17 +24,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "Singapore launches new self-driving bus trial"
-    excerpt: "Singapore has moved a step closer to a driverless public transport network with the launch of a new trial of self-driving buses."
-    publishedDateTime: 2021-02-01T01:05:00Z
-    webUrl: "https://www.thestar.com.my/index.php/tech/tech-news/2021/02/01/singapore-launches-new-self-driving-bus-trial"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 4
-
 secured: "pCN3vBuQNb2XnRBNsY+z4XI3eqIkIIrSxjBHbZDY2tNch90sA/9ydWEFXOgwXyW7Z+yYSGaDB3f2RF6RPp1R7TYV8m5m62gTohnWZonxSNC1r+od3lGrDKNrI4vaNrjXOipfh83Ds7HpzjnbwoFljVgEtFvml7RjYKnoDbdrsd44hftxa+dZVnPpNMdDXSeUjKEgnJfrg1CKVzSWFNwlKan2oieY5THTlOBJxDwJGHO97LI0ueE0oBVzWpK2K9V27rbfJDKDDilK6pIa/7voVTOFcACrmXtg8pBEbN+eEkVu/QyKCPorknsKwKrGrC7LR/ZB4M84ExaSPcq1NscNUm9gOXircs/qnDSykUNiyEo=;gGTKxTd+BXlekT+OIx4mZg=="
 ---
 

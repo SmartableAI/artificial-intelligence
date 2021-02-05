@@ -27,13 +27,18 @@ topics:
 related:
   - title: "Untether AI Partners with Colfax International to Provide Peak Performance in AI Edge Servers"
     excerpt: "Untether AI, the leader in at-memory computation and AI acceleration, today announced a partnership with Colfax International in which Untether’s tsunAImi TM accelerator cards, powered by the runAI TM devices,"
-    publishedDateTime: 2021-02-05T08:35:00Z
-    webUrl: "https://www.financialbuzz.com/untether-ai-partners-with-colfax-international-to-provide-peak-performance-in-ai-edge-servers/"
+    publishedDateTime: 2021-02-04T16:38:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-toronto-ontario-computer-components-north-america-a2352441944e4f40a9c5d20269710c62"
     type: article
     provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 8
+      name: Associated Press
+      domain: apnews.com
+    quality: 28
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "TUkFU7hwwSC6sCSxpCltYSFqer0KHPWaVrzyj4GhayYu6fVq1jr4XpKRdC7gMQUyJaljGP+4vdCNTEgjWGqdn1ODEAD2J+TF5ASYMqVOPUEEPPJ6V5MoYp0AMwsqaMWPXDBanhqnL9tuJULZglE4K8azZZ+TQbfOeTpmnRQmLr5BcGRJ/zFvregb6LdEonkd7pRA/FSK/Li/sG0fIUYFhWdrJnRhLNZFbJEZzDp6Rho22XOOtp0LKiRs+cm2SDwIxg8Qzq1MhCYZt46QUjeYRljAQ+GniPHhFtLc2OumNnVcWjXztH/p5nNH14hZbdVDRCpdTesc65ZukEsC8xkR647kxjpnnxpmHI6thfE3H3I=;Rnfmf/fZaEi0l58iiYc7OA=="
 ---

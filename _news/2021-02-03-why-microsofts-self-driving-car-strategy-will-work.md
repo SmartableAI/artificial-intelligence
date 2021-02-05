@@ -106,6 +106,20 @@ related:
         width: 1157
         height: 649
         isCached: true
+  - title: "Microsoft Azure Helping to Strengthen US Microelectronics Supply Chain"
+    excerpt: "In a blog post, Mujtaba Hamid, Principal PM Manager, Microsoft Azure, discussed the company's collaboration with the Department of Defense"
+    publishedDateTime: 2021-02-05T16:06:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/microsoft-azure-helping-to-strengthen-us-microelectronics-supply-chain/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 69
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/stampede2-405x228.jpg"
+        width: 405
+        height: 228
+        isCached: true
   - title: "From Bugs Bunny to Flo from Progressive, Microsoft's AI tech is being used to create digital voices"
     excerpt: "Microsoft Azure AI is being used to create realistic voices ranging from fictional characters to chatbots for an insurance company. Microsoft discusses how it's done and why it's important to be careful about how it's used in a recent blog post."
     publishedDateTime: 2021-02-04T12:19:00Z
@@ -184,6 +198,20 @@ related:
         width: 510
         height: 314
         isCached: true
+  - title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
+    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
+    publishedDateTime: 2021-02-03T08:22:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 46
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Microsoft Says It's Time to Attack Your Machine-Learning Models"
     excerpt: "With access to some training data, Microsoft's red team recreated a machine-learning system and found sequences of requests that resulted in a denial-of-service."
     publishedDateTime: 2021-02-04T22:13:00Z
@@ -240,15 +268,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
-    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance"
-    publishedDateTime: 2021-02-02T22:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 26
 
 secured: "3QQQHTfalMl6T2jpWqVB6jJFNvOS735PfHrJaIr7qP1IQl9axpe1XEINSJn0tbtJ1B/LJMOVLQmz8q97Z70gq9OFLzQURK9j6YVNXyMP0FSGrhefprI5VQ2uzYdIAL8NOtvw17ORzay7hzwwaTi5xxdTOoQxWzcAjD9AT91et798A4BQ9e7F0mudPaEjcBP//veuDDf5uw2WfS2j7DjpsBYp1MNGiRUlWBuzVr57IGyFrZJreZikMR5c9uURwGmgFXrVZ3dWAxA8oN/VNRcVsaTIBDNDAa3IvJL6MkjNH5iRVJC+1JQqoJOZVPYcaS4c/HEldKDdDZSzbPPWOYYn/WgvWt/MQ6R+EOpXP2EDu3LelV9QAW8qldn5uL8BX4eki0VJi2zM8Wt1cfrAhOzckDMLVjfwUXg7k6vM9cW3jEjNc36t6DtJoeiA4m94RqiQr/8MDz453IIQKa78kfn4+SaCliPUuEFR6pA2cmhMKIw6+nMEZdZXB6R1a9zrinqf3bg6EEOvKMi3LRhBNoGrCQ==;nb6SwvRyschObgkMyes7Zg=="
 ---

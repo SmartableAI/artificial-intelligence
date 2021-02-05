@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
-excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance"
-publishedDateTime: 2021-02-02T22:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
-webUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
+excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
+publishedDateTime: 2021-02-03T08:22:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
+webUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
 type: article
-quality: 26
+quality: 46
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Microsoft's cutting-edge machine-learning tool moves from the lab to the mainstream"
@@ -96,6 +102,20 @@ related:
       - url: "https://winbuzzer.com/wp-content/uploads/2021/02/AT-T-Neural-Voice-Research-Azure-Microsoft.jpg"
         width: 1157
         height: 649
+        isCached: true
+  - title: "Microsoft Azure Helping to Strengthen US Microelectronics Supply Chain"
+    excerpt: "In a blog post, Mujtaba Hamid, Principal PM Manager, Microsoft Azure, discussed the company's collaboration with the Department of Defense"
+    publishedDateTime: 2021-02-05T16:06:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/microsoft-azure-helping-to-strengthen-us-microelectronics-supply-chain/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 69
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/stampede2-405x228.jpg"
+        width: 405
+        height: 228
         isCached: true
   - title: "Why Microsoft’s Self-Driving Car Strategy Will Work"
     excerpt: "Self-driving car startup Cruise received more than $2 billion investment from Microsoft, General Motors, Honda, and institutional investors,"
@@ -248,6 +268,6 @@ related:
         height: 450
         isCached: true
 
-secured: "2xEJ644dJd1AZCea/D8M9Zx3ucKiY5VAuWm1fpknT4mtTUMtVa/Bu+3ArYBFrvHM6HsnUIvDNFlrtasn4TBiWPUL3N487KoIR6IC+brmK4dtXmyawwyAivBpm7bdiCAxxx/YQha7ZOwWZwJqPLVkKmWE2IYZrM3pJQa5nLNQ+FPetsSa8NKyKOjZEgLCgcsyxQsDUUcCcHhQjYTMhjc5XWeu7tGNDZfQdRoQDm9E0B1kjT+F+dId18G0/fFC3OxLffTKMLLpdQffDxXRijZw8XmhMLCk2sSMO6YaZmOTtlCOcYga6gn3FWBEYBiEv9aUO2N/MwGXU71QQ8P2uL9V3W0TtMRsFInss/AQsL6PRfU=;1B4z6cE1Y+DGSKNpntdWwA=="
+secured: "IgE24XEB9mnBJWXGh6YXLQvi3Ai+wJOLvKe9QX1zmwMS4NKcmCJtDoWqLMlz1sHOjYxVwajHPmAxyieuRytOmK7bgh2/37Co/nmLot0N484+DOv6xEY6pMxn9IA0X8fJH/8SU9mmBf/MnrkdI8sbwybFuwEQ5awsOw6dp9/ieHeFEBwIoHynynjBidRaVXp8+n/XSVNNcPsOxrP7SQ4t/yg+7hH61sHnqk/3FtGlzbun5GfPEQ+Z7ORRZEkd5QayISJ7ue8t8A92jJ9G/kdXAf4EqN2fP9Oyo2LFiYl4uOWhARpvZcKRU6z8lOsDQkTuxQP2e/zMol2+NBKqwCeVUk7tO/Y7PyoXif06Kop2MAU=;xhRV2NZV5+hy5CZVEV0x5g=="
 ---
 

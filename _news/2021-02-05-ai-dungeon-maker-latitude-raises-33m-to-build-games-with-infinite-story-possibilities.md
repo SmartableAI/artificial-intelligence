@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/02/04/latitude-seed-funding/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/04/latitude-seed-funding/amp/"
 type: article
 quality: 78
-heat: 89
+heat: 88
 published: true
 
 provider:

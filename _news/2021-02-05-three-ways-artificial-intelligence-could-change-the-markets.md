@@ -6,7 +6,7 @@ publishedDateTime: 2021-02-05T13:05:00Z
 originalUrl: "https://www.cmcmarkets.com/en-gb/opto/three-ways-artificial-intelligence-could-change-the-markets"
 webUrl: "https://www.cmcmarkets.com/en-gb/opto/three-ways-artificial-intelligence-could-change-the-markets"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://assets.cmcmarkets.com/images/AI0402_medium.jpg"
@@ -86,6 +87,6 @@ related:
         height: 426
         isCached: true
 
-secured: "+Fjw5Gwg0R4SRyZDBZZadoblJtoxDXCL9eyT9eCyJVsnMwU7xB4zf0TnrOO9OOA/+yLmztoWa2pqK0Gk1ekBoHtcCeqWGYTVjnA24MeXi+veAE60sZamCXbsnH8xebnR4vRZBSVwBe0Z3WN3faad6iIRNkR//kCf4QUnPJ/LYNe8YMu2VZG60bDuc/LunvDjKtmP6qEAJE5uZ8L2ftJ32E9TlJepW+o9d3kvBLr7/Fq5H508ryhdf07oUwsBLpPT2UolUfk933h+vKFeftjD4KHCUXVrfpQMl3In9ItChUWEMEpNh0txNg5lH0B0/GS4SKt7HTswSc+x6/d5l/z9zmjGOgfDLK3XAf5IdxWfD/s=;+XPv4ccmr+tariOZKaGKWg=="
+secured: "CkxfZrw2P0rrf6bNXA5MTrWPM3brqyNI5mBvnMFtt5dDX6QGLZ+xmly0OKXtr+RX8clrGfW1+sUWWvbYjQlsyH1+fnTGvV9zCh5SLz/NWTr2j9iZYJAHigbj/jwGwbeZOXAZCCcmqveYO1BjJPr8sSBxtkDISxLIkiQMc2XaH/jEQg2hd92buqdk8fbb7PWeHUTrEYOccECF660PtJCJL3j9Q2EWqf8VCTwFawzov2X9OFGG91av3S3IT4cuzEbbVTfl02nOn2XKFm0wgAL+ZnCt53/odPDnRFwXXhysuArn4F2KPsKQZAVoFDvz8IvNnc0EuSAJdznzREcnkuwM49otnuR879NopUl7uhgrhzYEPYVb7KK1apHr9qmHzrSolZsf/fGxpY1aLhH/BP0Gc8zy0Sm1DwfULlEn3Kd7PdGluUZ2DrVWnNE2/GfnQ2/mVljju2Q3QTYzKoQYje1IPzHa/UGyk9hBXSFincCMcb7SccHwC3Rtg4RhOgMb+O15+uCa5LuE/T/iXtMafIp8Aw==;TIk067sruNFBKG201XXKsw=="
 ---
 

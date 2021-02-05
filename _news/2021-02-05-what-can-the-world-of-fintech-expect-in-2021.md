@@ -89,6 +89,20 @@ related:
         width: 500
         height: 333
         isCached: true
+  - title: "How Fintech Can Help Streamline Your Company’s Financial Operations"
+    excerpt: "Huge.” “Surging.” “Very hot.” Those were just a couple of the terms financial news outlets used to describe the fintech market in 2020. They weren’t just buzzwords. Fintech has seen double-digit growth in transaction numbers and volumes during the pandemic,"
+    publishedDateTime: 2021-02-05T16:18:00Z
+    webUrl: "https://hbr.org/sponsored/2021/02/how-fintech-can-help-streamline-your-companys-financial-operations"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 24
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2021/01/Tripactions.-HBR-Header-1200x675-3.png"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "33kE7P2Kq6d4X4+KBpOshonpq1WORb7aMQED2uIdjpiwpvXsqxuXzm75zHhYxH4pVfFnnAQbLL9Uqr9bZh3o2V30vrgCSYrw486lOJm0U2MzGV9IsPW7bZCGl/BTMCMMI6VoeNY4IQiiss3XeocYeCsdA0j5Ovrs6Z6RZtBT0J22wuymXe12+0FUp4Yw5/z+LTsSBmGWeH6hVZnmXhDPWAlwYriV9H/yybWAWGQ5YZ7aMk7EWv/xe0kapu6dt6syiVTERK0pDvpyGsUlueEZCJSreIODQoEMC2NPzF0lEQcgePjRtjyAAdaDYBd80uFqfTG8A4e1QWvikRS2otpG4oUCntRgQZmlno0hPPQ0XpCiNIBKw/XXG8IobkZq/ES8wAZeUPQaYNZNLwAPgqz5rSFTuQmI0HdrNGc1x7bAfur1147sHmZD6SSPQwEEjRS0PnBzaSO/7DWvhcGrDybQEU1mQ4p5HRlw/2t3201CFYhJUWs9n3xJ+OD3D9j64KD0LRNiziwwzST8/46TFrLrcg==;HQ9nk0w0AGySo9LhcEqKAQ=="
 ---
