@@ -24,33 +24,29 @@ images:
     isCached: true
 
 related:
-  - title: "Leveraging customer data and AI to drive ecommerce growth in 2021"
-    excerpt: "Qubit’s Chief Revenue Officer Tracey Ryan O’Connor discusses pandemic-related ecommerce growth and the takeaways brands should consider this year"
-    publishedDateTime: 2021-02-01T15:24:00Z
-    webUrl: "https://www.searchenginewatch.com/2021/02/01/leveraging-customer-data-and-ai-to-drive-ecommerce-growth-in-2021/"
-    ampWebUrl: "https://www.searchenginewatch.com/2021/02/01/leveraging-customer-data-and-ai-to-drive-ecommerce-growth-in-2021/amp/"
-    cdnAmpWebUrl: "https://www-searchenginewatch-com.cdn.ampproject.org/c/s/www.searchenginewatch.com/2021/02/01/leveraging-customer-data-and-ai-to-drive-ecommerce-growth-in-2021/amp/"
+  - title: "The best Super Bowl commercial? This AI software can tell you"
+    excerpt: "Tonya Hall talks to RJ Talyor, CEO of Pattern89, a company that leverages AI to predict advertising performance."
+    publishedDateTime: 2021-02-05T14:19:00Z
+    webUrl: "https://www.zdnet.com/video/the-best-super-bowl-commercial-this-ai-software-can-tell-you/"
     type: article
     provider:
-      name: Search Engine Watch
-      domain: searchenginewatch.com
-    quality: 57
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
     images:
-      - url: "https://www.searchenginewatch.com/wp-content/uploads/2021/02/Leveraging-customer-data-and-AI-to-drive-ecommerce-growth-in-2021.png"
-        width: 728
-        height: 256
+      - url: "https://zdnet3.cbsistatic.com/hub/i/r/2021/02/05/83b2392f-1564-4e37-a4bc-d09fc1861641/thumbnail/770x578/08557f70d13bd0a9a622f986df9ccbcf/thumb.jpg"
+        width: 770
+        height: 578
         isCached: true
-  - title: "Machine Learning Automates Online Store Development for Ecommerce Startups"
-    excerpt: "Machine learning is streamlining the development of online stores for new ecommerce startups in the 21st century."
-    publishedDateTime: 2021-02-04T20:49:00Z
-    webUrl: "https://www.smartdatacollective.com/machine-learning-automates-online-store-development-for-ecommerce-startups/"
-    ampWebUrl: "https://www.smartdatacollective.com/machine-learning-automates-online-store-development-for-ecommerce-startups/amp/"
-    cdnAmpWebUrl: "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/machine-learning-automates-online-store-development-for-ecommerce-startups/amp/"
+  - title: "AI that detects gas pipeline leaks to be commercialized"
+    excerpt: "A startup is preparing to commercialize an artificial intelligence (AI) algorithm for immediately detecting the presence of gas leaks and water ingress in gas pipelines. First developed by researchers at Nanyang Technological University (NTU),"
+    publishedDateTime: 2021-02-04T17:22:00Z
+    webUrl: "https://insights.globalspec.com/article/15915/ai-that-detects-gas-pipeline-leaks-to-be-commercialized"
     type: article
     provider:
-      name: SmartData Collective
-      domain: smartdatacollective.com
-    quality: 37
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 17
 
 secured: "DU6eHl5b2BR91D9On2bFLzAGZ17sHbsAob86isg8RmzDYejNr4+lH9LivdjOogN0mb0YJ0h5RDtgduGrNncai9tmN7kl2dwlHf42D/QMeEh51zSAp+K01pH+K17qnFgCCyBUnORqa5h6WK50EF8mMRtLZcVpOuktUXjgscW8QSo++UtNS+jBcMj/OfE0FYHP/21uEqfRFVYGTxOGK3YI7YOfttyQjKtwNETGNt1KolGBOe4V5NBvi6JPTFqmUXHpluBswp0VMrZsocL4SgS72MgzJahOWm4IS84aa+0l9sHsmOZ+4FwbPEm/MIJwL+x4oy1U+g3GdL79M8Lgill9sP69wETalBNK3rWEt55D/2M=;NYFMIabkgRZy6qID2NMrrg=="
 ---

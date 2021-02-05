@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-02-02-scientists-developing-quantum-brain-for-human-thinking-robots.md",
+      "title": "Scientists Developing \"Quantum Brain\" for Human-Thinking Robots",
+      "excerpt": "It was but a matter of time before robots roam the land with a processing unit similar to that of a human brain, and according to researchers from Radboud University, that time could be now. In a new journal entry in Nature Nanotechnology,",
+      "sourceUrl": null,
+      "webUrl": "https://comicbook.com/irl/news/scientists-quantum-brain-device-revealed-artificial-intelligence/",
+      "originalUrl": "https://comicbook.com/irl/news/scientists-quantum-brain-device-revealed-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.comicbook.com/files/images/default.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://comicbook.com/irl/amp/news/scientists-quantum-brain-device-revealed-artificial-intelligence/",
+      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/irl/amp/news/scientists-quantum-brain-device-revealed-artificial-intelligence/",
+      "publishedDateTime": "2021-02-01T18:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Comicbook.com",
+        "domain": "comicbook.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-02-slas-technology-special-collection-on-artificial-intelligence-in-process-automation-now-available.md",
       "title": "SLAS Technology Special collection on artificial intelligence in process automation now available",
       "excerpt": "SLAS Technology Special collection on artificial intelligence in process automation now available Newswise - Oak Brook, IL - The February",
@@ -253,7 +296,7 @@
       "originalUrl": "https://www.compsmag.com/news/technology/safari-turns-on-speech-recognition-by-default-tech-preview-of-release/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -893,48 +936,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-01-leveraging-customer-data-and-ai-to-drive-ecommerce-growth-in-2021.md",
-      "title": "Leveraging customer data and AI to drive ecommerce growth in 2021",
-      "excerpt": "Qubit’s Chief Revenue Officer Tracey Ryan O’Connor discusses pandemic-related ecommerce growth and the takeaways brands should consider this year",
-      "sourceUrl": null,
-      "webUrl": "https://www.searchenginewatch.com/2021/02/01/leveraging-customer-data-and-ai-to-drive-ecommerce-growth-in-2021/",
-      "originalUrl": "https://www.searchenginewatch.com/2021/02/01/leveraging-customer-data-and-ai-to-drive-ecommerce-growth-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.searchenginewatch.com/wp-content/uploads/2021/02/Leveraging-customer-data-and-AI-to-drive-ecommerce-growth-in-2021.png",
-          "width": 728,
-          "height": 256,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.searchenginewatch.com/2021/02/01/leveraging-customer-data-and-ai-to-drive-ecommerce-growth-in-2021/amp/",
-      "cdnAmpWebUrl": "https://www-searchenginewatch-com.cdn.ampproject.org/c/s/www.searchenginewatch.com/2021/02/01/leveraging-customer-data-and-ai-to-drive-ecommerce-growth-in-2021/amp/",
-      "publishedDateTime": "2021-02-01T07:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Search Engine Watch",
-        "domain": "searchenginewatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-01-confidence-uncertainty-and-trust-in-ai-affect-how-humans-make-decisions.md",
       "title": "Confidence, uncertainty, and trust in AI affect how humans make decisions",
       "excerpt": "Health care applications of AI are growing fast, but there are obstacles to building robust, trustworthy systems.",
@@ -1090,7 +1091,7 @@
       "originalUrl": "https://venturebeat.com/2021/02/01/how-the-responsible-use-of-ai-can-help-create-a-better-health-system/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {

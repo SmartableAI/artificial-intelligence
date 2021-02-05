@@ -3,8 +3,8 @@ category: news
 title: "Fintech, AI & ML: What you need to know in 2021"
 excerpt: "In 2019, the use of AI in Fintech alone reached an estimated value of $6.67 billion. This is expected to grow to over $22.6 billion in just five years. And with a compound annual growth rate (CAGR) of 23."
 publishedDateTime: 2021-02-05T09:30:00Z
-originalUrl: "https://www.itproportal.com/features/fintech-ai-and-ml-what-you-need-to-know-in-2021/?ref=fintastico.com"
-webUrl: "https://www.itproportal.com/features/fintech-ai-and-ml-what-you-need-to-know-in-2021/?ref=fintastico.com"
+originalUrl: "https://www.itproportal.com/features/fintech-ai-and-ml-what-you-need-to-know-in-2021/"
+webUrl: "https://www.itproportal.com/features/fintech-ai-and-ml-what-you-need-to-know-in-2021/"
 ampWebUrl: "https://www.itproportal.com/amp/features/fintech-ai-and-ml-what-you-need-to-know-in-2021/"
 cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/fintech-ai-and-ml-what-you-need-to-know-in-2021/"
 type: article
@@ -91,6 +91,6 @@ related:
         height: 333
         isCached: true
 
-secured: "pXRVOojJTL4YQ+R75lfkJWHHKcBkTV2UPAAW0MyqQOFL8ou3vM2aLiTxzJQBW/iDeMlone+Yb+NL8HTG3d3ZLoe5LeHrv9OhJ30KtI9gKwKjDMMTiNW1X18qvBM/USrj7UbBu4ak94Gaq8B3rF6iLa+eLQYO0WcWfLhIahPrHs5eun+ZliecrqU6OrnFdwnI+JIvcsiRZlrxX+OEHPB16m6sRZc7iITY5sVZZSJdHtxbVl6JqEUxM3NOTgUIc1tfQCNi3nHlBejwr+HXVHuLEsNoIn8XNadtzb+IN7wT5OHeaY8HSHqyUVvUSP7Vo4FhTTh/XT6zfPetoNPg0LF8xDgm+aMCmsdjYXHX+Cj4M5A=;AAAgGEwrwsT1vnorIbynzQ=="
+secured: "rwldUmb0E0EYjo8ctnT3BpInIS4N668M4zAMTLsnnYpTEoZaoSh27i/t8hVnxJ+bD7je+TZPQML8J0u/lkekE2ECmwN4zJMeU2KcYpM5a2kLxCThBtd3KgWYw2bdTSIQKKoBirY97QF89995Rih/+TUV1sKrr8e17r7d1oyp7gacBrx+yVYitMKYvoXh9MgYBXD+sQuatWYUZbDLwdTEjCaTlgQCXMqG333v3UvBXsn++7QSqz0HsVSbJCWtKu0aAkKhZl7ordsU7RUraUq6PTfrA+vNwJsd4zbiGBMer82DqisPtiwuA0Ow0WT1pOwL4ING3I66TG1fJM/WhfV+T4PAII/Gt7vmej/n6jSPS8A=;+tEyePll5oZzEvTYMdFJfw=="
 ---
 

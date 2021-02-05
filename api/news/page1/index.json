@@ -2,6 +2,109 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-05-the-best-super-bowl-commercial-this-ai-software-can-tell-you.md",
+      "title": "The best Super Bowl commercial? This AI software can tell you",
+      "excerpt": "Tonya Hall talks to RJ Talyor, CEO of Pattern89, a company that leverages AI to predict advertising performance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/video/the-best-super-bowl-commercial-this-ai-software-can-tell-you/",
+      "originalUrl": "https://www.zdnet.com/video/the-best-super-bowl-commercial-this-ai-software-can-tell-you/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2021/02/05/83b2392f-1564-4e37-a4bc-d09fc1861641/thumbnail/770x578/08557f70d13bd0a9a622f986df9ccbcf/thumb.jpg",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-05T06:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-05-robot-motherships-to-launch-drone-swarms-from-sea-underwater-air-and-near-space.md",
+      "title": "Robot Motherships To Launch Drone Swarms From Sea, Underwater, Air And Near-Space",
+      "excerpt": "Metal Shark's unmanned vessel is just one of a series of new launch platforms able to deliver swarms of attack drones -- swarm-equipped boats, unmanned submarines, unmanned jets and stratospheric balloons are all on the way.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidhambling/2021/02/05/robot-motherships-to-launch-drone-swarms-from-sea-underwater-air-and-near-space/",
+      "originalUrl": "https://www.forbes.com/sites/davidhambling/2021/02/05/robot-motherships-to-launch-drone-swarms-from-sea-underwater-air-and-near-space/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601d471a948dfd8ec26c348b%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidhambling/2021/02/05/robot-motherships-to-launch-drone-swarms-from-sea-underwater-air-and-near-space/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhambling/2021/02/05/robot-motherships-to-launch-drone-swarms-from-sea-underwater-air-and-near-space/amp/",
+      "publishedDateTime": "2021-02-05T05:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-05-humanoid-robots-and-how-were-failing-at-human-relationships.md",
       "title": "Humanoid robots and how we're failing at human relationships",
       "excerpt": "Hanson Robotics didn’t make Sophia just because they could. They’re capitalizing on something in our culture that needs to be recognized. We’re failing each other.",
@@ -10,7 +113,7 @@
       "originalUrl": "https://www.christianpost.com/voices/humanoid-robots-and-how-were-failing-at-human-relationships.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -104,7 +207,7 @@
       "originalUrl": "https://www.forbes.com/sites/theyec/2021/02/05/three-ways-ai-can-help-you-evolve-your-digital-marketing-strategy/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -255,8 +358,8 @@
       "title": "Fintech, AI & ML: What you need to know in 2021",
       "excerpt": "In 2019, the use of AI in Fintech alone reached an estimated value of $6.67 billion. This is expected to grow to over $22.6 billion in just five years. And with a compound annual growth rate (CAGR) of 23.",
       "sourceUrl": null,
-      "webUrl": "https://www.itproportal.com/features/fintech-ai-and-ml-what-you-need-to-know-in-2021/?ref=fintastico.com",
-      "originalUrl": "https://www.itproportal.com/features/fintech-ai-and-ml-what-you-need-to-know-in-2021/?ref=fintastico.com",
+      "webUrl": "https://www.itproportal.com/features/fintech-ai-and-ml-what-you-need-to-know-in-2021/",
+      "originalUrl": "https://www.itproportal.com/features/fintech-ai-and-ml-what-you-need-to-know-in-2021/",
       "featuredContent": null,
       "highlight": null,
       "heat": 116,
@@ -549,17 +652,17 @@
       "title": "AI drives the evolution of technology and data governance",
       "excerpt": "Key points focusing on how AI drives the evolution of technology and data governance and how an increase in customer demand and regulatory activity will necessitate companies to take a closer look at their approach.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/publisher/6291689/index.php/article/ai-drives-the-evolution-of-technology-and-data-governance/",
-      "originalUrl": "https://www.zdnet.com/index.php/publisher/6291689/index.php/article/ai-drives-the-evolution-of-technology-and-data-governance/",
+      "webUrl": "https://www.zdnet.com/article/ai-drives-the-evolution-of-technology-and-data-governance/",
+      "originalUrl": "https://www.zdnet.com/article/ai-drives-the-evolution-of-technology-and-data-governance/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/publisher/6291689/index.php/google-amp/article/ai-drives-the-evolution-of-technology-and-data-governance/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/6291689/index.php/google-amp/article/ai-drives-the-evolution-of-technology-and-data-governance/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-drives-the-evolution-of-technology-and-data-governance/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-drives-the-evolution-of-technology-and-data-governance/",
       "publishedDateTime": "2021-02-04T14:47:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -958,7 +1061,7 @@
       "originalUrl": "https://www.openpr.com/news/2236648/image-recognition-market-will-obtain-53-0-billion-by-2025",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -997,11 +1100,11 @@
       "title": "AI reading list: 8 interesting books about artificial intelligence to check out",
       "excerpt": "These eight books about artificial intelligence cover a range of topics, including ethical issues, how AI is affecting the job market, and how organizations can use AI to gain a competitive advantage.",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
-      "originalUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
+      "webUrl": "https://www.techrepublic.com/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
+      "originalUrl": "https://www.techrepublic.com/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -1015,8 +1118,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
       "publishedDateTime": "2021-02-04T08:46:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -1040,6 +1143,7 @@
         "news"
       ],
       "topics": [
+        "AI Ethics",
         "AI"
       ]
     },
@@ -1120,110 +1224,6 @@
         "Google AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-moscows-facial-recognition-cameras-are-identifying-navalny-supporters-activists.md",
-      "title": "Moscow’s facial recognition cameras are identifying Navalny supporters: activists",
-      "excerpt": "Authorities have said that the police’s heavy-handed response to the demonstrations, which saw thousands of arrests across the country, was justified because the protests were illegal and unauthorised.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/news/world/russia-central-asia/article/3120588/moscows-facial-recognition-cameras-are-identifying",
-      "originalUrl": "https://www.scmp.com/news/world/russia-central-asia/article/3120588/moscows-facial-recognition-cameras-are-identifying",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/02/04/6b9142c6-66ec-11eb-bc00-908c10a5850a_image_hires_214543.jpg?itok=9B_TQYjx&v=1612446354",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/news/world/russia-central-asia/article/3120588/moscows-facial-recognition-cameras-are-identifying",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/russia-central-asia/article/3120588/moscows-facial-recognition-cameras-are-identifying",
-      "publishedDateTime": "2021-02-04T06:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-microsoft-launches-viva-an-ai-powered-information-hub-for-enterprises.md",
-      "title": "Microsoft launches Viva, an AI-powered information hub for enterprises",
-      "excerpt": "Microsoft today introduced Microsoft Viva, a hub of services designed to address digital workplace challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/04/microsoft-launches-viva-topics-an-ai-powered-information-curator-for-enterprises/",
-      "originalUrl": "https://venturebeat.com/2021/02/04/microsoft-launches-viva-topics-an-ai-powered-information-curator-for-enterprises/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/Jared-Spataro.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/04/microsoft-launches-viva-topics-an-ai-powered-information-curator-for-enterprises/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/04/microsoft-launches-viva-topics-an-ai-powered-information-curator-for-enterprises/amp/",
-      "publishedDateTime": "2021-02-04T06:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

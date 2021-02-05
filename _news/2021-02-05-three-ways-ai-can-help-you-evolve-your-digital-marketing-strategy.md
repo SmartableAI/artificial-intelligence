@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/theyec/2021/02/05/three-ways-ai-can-hel
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2021/02/05/three-ways-ai-can-help-you-evolve-your-digital-marketing-strategy/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -75,7 +75,21 @@ related:
         width: 800
         height: 426
         isCached: true
+  - title: "Three ways artificial intelligence could change the markets"
+    excerpt: "AI is reshaping certain businesses faster than others — in particular, transport, healthcare and the digital landscape are in for an overhaul."
+    publishedDateTime: 2021-02-05T13:05:00Z
+    webUrl: "https://www.cmcmarkets.com/en-gb/opto/three-ways-artificial-intelligence-could-change-the-markets"
+    type: article
+    provider:
+      name: CMC Markets
+      domain: cmcmarkets.com
+    quality: 39
+    images:
+      - url: "https://assets.cmcmarkets.com/images/AI0402_medium.jpg"
+        width: 768
+        height: 576
+        isCached: true
 
-secured: "Ymq3+2Nr3VBNmkD7JTQ6V0WMTFcmMJoj9IVCy11/Vf3wosd4qfXkTmnTFRAwF7qB59Yo3sY5fF0KrfrXOUBniqYgrAzPxxquC1GCgdAmZ46thgJi27N86kmPJ7tsNk6axdbmdm/ZPvdxzTRzfQZQ2J5UYztkEUAKrzbxsYtnN6dYHdHpj4ZyapM3iQIuICgyQzzbUSzK6hD65C3TOnsnH/snCKknDDKYI8XVfqGm7dHBnfO0CrEpm4vLP3C1c0+Evw/crwB7eWtMjaNMordQVU0Sd1XokETiEq3uf038dNVhX8pO7AztnmPP3GHNNTl+3d4rJEAni2Dy7a0GmJ0/vmCsvnlDrUSq4WlswFl9B6o=;eBt2K7S2/n8w8/t0By1flg=="
+secured: "wQKXAXprabxpEesBF2U5BL1ELNLx3Qu6eOeIHshcJe3GgLX6M5Z6ejC9YUkjTbVMSC3Bnmv1G/oVrN3i1JoQccECw+dpzEg+3RTo078vEsUYsqbAJexwaDzQXsXzNpt/ibZmYePPd8N+3gcsWjfNgdMvtBD8v0JztyiDVOfJEAw7QMrE5nmiSy/ApEase3JL8/YDXGGtRN4o3x7uC1Nf7fJXDWjtI+t4Ytnk5Y6LdkUOk7PeHbfTo9vyUMujxewgTTPcq33Coc45f5KSQR3fRd5jznRKigTLQfflMclis151/4wi9+m1XZ4q+Svm0Ton+hbAFW6flQcE43nUosz7n+qv5cknfhhcEYVVexH9Ojo7VP83DkBFh3gEAwiQE2tjgEk2kCPPhi2dSRc6a8dd9kQ2KKRLrjTrc5bdH//zpuRUVcKabQU3cFvZQ8LXEQdsVIdU31pB0zboEfnPkM9+7F16bQyOEDkdpVNszrX+mZxWi5XPSLLUJHDd0LDOnyRbhwwDozM+2JqkHQAORo7Huw==;k+2PMHN+eO6cqu0K2QdhVQ=="
 ---
 

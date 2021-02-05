@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Ford posts strong results, promises big bet on electric and self-driving cars"
-excerpt: "Ford reported surprisingly good financial results at the end of a tough year, and said it was increasing its commitment to vehicles of the future with a big bet on electric and autonomous driving vehicles."
-publishedDateTime: 2021-02-05T00:18:00Z
-originalUrl: "https://kyma.com/cnn-business-consumer/2021/02/04/ford-posts-strong-results-promises-big-bet-on-electric-and-self-driving-cars/"
-webUrl: "https://kyma.com/cnn-business-consumer/2021/02/04/ford-posts-strong-results-promises-big-bet-on-electric-and-self-driving-cars/"
+excerpt: "By Chris Isidore, CNN Business Ford reported surprisingly good financial results at the end of a tough year, and said it was increasing its commitment to vehicles of the future with a big"
+publishedDateTime: 2021-02-05T10:08:00Z
+originalUrl: "https://www.kten.com/story/43295286/ford-posts-strong-results-promises-big-bet-on-electric-and-self-driving-cars"
+webUrl: "https://www.kten.com/story/43295286/ford-posts-strong-results-promises-big-bet-on-electric-and-self-driving-cars"
 type: article
 quality: 21
 heat: -1
 published: false
 
 provider:
-  name: KYMA
-  domain: kyma.com
+  name: KTEN
+  domain: kten.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://kyma.b-cdn.net/2021/02/hypatia-h_4570de554ee2d8dd27155b646a32b256-h_675c7f63a7da8be24c1b6f0b4c62bac4_preview.jpg"
+  - url: "https://CNNWIRE.images.worldnow.com/images/20336791_G.jpg?lastEditedDate=1612462806000"
     width: 500
     height: 333
     isCached: true
@@ -117,6 +117,6 @@ related:
         height: 630
         isCached: true
 
-secured: "YQpl8Q3YoYdtTvuO/drhI+1xmNZ+F2BwjNbMszNS4yus7ujWsIaztUG5Ek3E4ndWD3dsuHEIT+11y17s4nah1/+YNrTyPV3POf5eGHpDsqhKjLN/I8kbgX3AS9bXF5VYnFCk2pw+xBp343lXr+ipfJz2I0acvHSuSvlavRoVIFBOnFGZ/Lcy+I6BVrRbJPgP674V+w20mwuCVcH2t6yF/HM0UU2varou8RAkjPybhxE7GnIlXm9Bu+ZS0jtQiWpVh+fzJIxoeWJN7REfLClXef9Ge8lLg6wbC1hK2f6UNEf762S27wAEEEwJdbUlksIozwQQnXV2+TK40OvS9FohB6fJ0RJVqk7c+8yo6gs0WR4=;iK/VRH1HOkLSv/g4HJWbxg=="
+secured: "U3Vbw/Pl7Z3R891+wUsQyrFwhkxN0fBb0ZgveW7alRIzKNNZAHoGUoSCXIIQohNKOB/ykK8UYYClNWFScnofgmB6wrPV6E3vckMLL5b+bnOyc7C5MK6/Yh5nDZOCF/9xdD/i66LA8PkND4XjjuliwKcdgDl4F0YUDbBBc1VL0AWb+SjfSWBSvabFZYD2WkEAyr05afV7kuLSYrYqQA0LeSq+BQBe09D9IhxPB27i6KgeCojWwH1Ej+Sk/HLc6RpoC0wwtq8OFZGVEQZASLlt/5YmCq3cdrfC0aE8THXbp1d9eVyUoQGK7p3omwPLrCzTUqQxHAn1F2AVfrEwjRGhV/Gss78LZ7PjgmHwEXFiQJg=;wh4cyKJ/A4sLA0xunwUFVw=="
 ---
 

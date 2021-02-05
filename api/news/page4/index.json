@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-03-ai-maths-whiz-creates-tough-new-problems-for-humans-to-solve.md",
+      "title": "AI maths whiz creates tough new problems for humans to solve",
+      "excerpt": "Algorithm named after mathematician Srinivasa Ramanujan suggests interesting formulae, some of which are difficult to prove true.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/d41586-021-00304-8?referral=true",
+      "originalUrl": "https://www.nature.com/articles/d41586-021-00304-8?referral=true",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-021-00304-8/d41586-021-00304-8_18829048.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-02T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-03-why-future-advances-in-ai-need-a-new-architecture.md",
       "title": "Why Future Advances In AI Need A New Architecture",
       "excerpt": "Businesses will need to adopt AI technologies not just because they can, but because they must - AI is the technology that will help businesses to be",
@@ -470,7 +514,7 @@
       "originalUrl": "https://www.vice.com/en/article/4ad5k3/how-normal-people-deployed-facial-recognition-on-capitol-hill-protesters",
       "featuredContent": null,
       "highlight": null,
-      "heat": 158,
+      "heat": 168,
       "tags": null,
       "images": [
         {
@@ -1151,49 +1195,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-scientists-developing-quantum-brain-for-human-thinking-robots.md",
-      "title": "Scientists Developing \"Quantum Brain\" for Human-Thinking Robots",
-      "excerpt": "It was but a matter of time before robots roam the land with a processing unit similar to that of a human brain, and according to researchers from Radboud University, that time could be now. In a new journal entry in Nature Nanotechnology,",
-      "sourceUrl": null,
-      "webUrl": "https://comicbook.com/irl/news/scientists-quantum-brain-device-revealed-artificial-intelligence/",
-      "originalUrl": "https://comicbook.com/irl/news/scientists-quantum-brain-device-revealed-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.comicbook.com/files/images/default.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://comicbook.com/irl/amp/news/scientists-quantum-brain-device-revealed-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/irl/amp/news/scientists-quantum-brain-device-revealed-artificial-intelligence/",
-      "publishedDateTime": "2021-02-01T18:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Comicbook.com",
-        "domain": "comicbook.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

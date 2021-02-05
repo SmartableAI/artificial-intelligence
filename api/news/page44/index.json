@@ -2,6 +2,58 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2021-01-04-why-baidu-stock-soared-556-in-december.md",
+      "title": "Why Baidu Stock Soared 55.6% in December",
+      "excerpt": "Shares of Baidu (NASDAQ:BIDU) rose 55.6% in December, according to data from YCharts. The Chinese search engine giant's stock surged following a report from Reuters",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/01/04/why-baidu-stock-soared-556-in-december/",
+      "originalUrl": "https://www.fool.com/investing/2021/01/04/why-baidu-stock-soared-556-in-december/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.ycharts.com/charts/62e0770e28ee8c68be6d542e0b5127e7.png",
+          "width": 720,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/01/04/why-baidu-stock-soared-556-in-december/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/01/04/why-baidu-stock-soared-556-in-december/",
+      "publishedDateTime": "2021-01-04T06:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-04-blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure.md",
       "title": "Blue Prism Accelerates Intelligent Automation for Cloud Users on Microsoft Azure",
       "excerpt": "\"This combination of Blue Prism and Azure Cognitive Services gives our customers a greater choice with AI-enabled, self-service experience that is provisioned via Microsoft Azure,\" says Chief ...",
@@ -1148,58 +1200,6 @@
         "AI",
         "AI in Robotics",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-03-if-microsoft-can-be-hacked-what-about-your-company-how-ai-is-transforming-cybersecurity.md",
-      "title": "If Microsoft Can Be Hacked, What About Your Company? How AI Is Transforming Cybersecurity",
-      "excerpt": "The hackers are starting to use AI, and the only way to successfully defend against future threats is for your company to use AI as well.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/glenngow/2021/01/03/if-microsoft-can-be-hacked-what-about-your-company-how-ai-is-transforming-cybersecurity/",
-      "originalUrl": "https://www.forbes.com/sites/glenngow/2021/01/03/if-microsoft-can-be-hacked-what-about-your-company-how-ai-is-transforming-cybersecurity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff0c3155de38b9230f6c8d2%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/glenngow/2021/01/03/if-microsoft-can-be-hacked-what-about-your-company-how-ai-is-transforming-cybersecurity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2021/01/03/if-microsoft-can-be-hacked-what-about-your-company-how-ai-is-transforming-cybersecurity/amp/",
-      "publishedDateTime": "2021-01-03T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

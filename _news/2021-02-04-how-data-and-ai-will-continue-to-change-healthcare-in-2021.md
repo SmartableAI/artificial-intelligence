@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/02/04/how-dat
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/02/04/how-data-and-ai-will-continue-to-change-healthcare-in-2021/amp/"
 type: article
 quality: 104
-heat: 185
+heat: 184
 published: true
 
 provider:

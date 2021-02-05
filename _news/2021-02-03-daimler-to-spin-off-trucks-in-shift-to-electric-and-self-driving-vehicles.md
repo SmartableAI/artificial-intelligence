@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/02/03/daimler-to-spin-off-trucks-in-sh
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/02/03/daimler-to-spin-off-trucks-in-shift-to-electric-and-self-driving-vehicles.html"
 type: article
 quality: 88
-heat: 148
+heat: 158
 published: true
 
 provider:
@@ -112,6 +112,20 @@ related:
       - url: "https://www.khl.com/Images/1260x628/index-20210203-101654-Scania-auto-2.jpg"
         width: 1260
         height: 628
+        isCached: true
+  - title: "Ford ups investment in self-driving and electric cars to $29B"
+    excerpt: "Ford plans to spend up big in the areas of electric vehicles and self-driving technology, CEO Jim Farley said Thursday during a conference call detailing the automaker's 2020 financial results. Key measures mentioned by the new Ford CEO include an increase in spending on EVs to $22 billion through 2025,"
+    publishedDateTime: 2021-02-05T13:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1131191_ford-ups-investment-in-self-driving-and-electric-cars-to-29b"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
+    images:
+      - url: "https://images.hgmsites.net/hug/2021-ford-mustang-mach-e_100779690_h.jpg"
+        width: 1920
+        height: 1280
         isCached: true
 
 secured: "aMQ4OKH/DTATrl2AtIgvrTPseJ2Ys5MteTl9n512h81FRv9W9xW0CiS/wKBeJ1chT3V0482MhPTDtsqXg7pUZJlN2W6cIK8SkOb9Yn4YKRzU4odmqhUe+mXwECizKb1PDx/TwYObmRbmFThKMSH96mtgJUym0tOFdD/b/c4ITQnEkCnuYlUKzW1F0H4/LB2YcVtFrtnYzF54Hho3VcmF6iM0XROwGAr2zAVPj16u4n2r7WN6UONgZ/tGUt0GKOhB4Xa40NN/fKBMA3Kwpf7hazKpUUADEUkT1NlUMiYtF+qSNtdbzaarRfQr7EbSQE7638/XlLVHjjk8fCCSgQ1xDCrBguE6qe3CT0kkHRwaK18=;mI5wpOTWfwwRWb3XEq4Rrw=="

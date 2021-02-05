@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI finds more than 1,200 gravitational lensing candidates"
+    excerpt: "A research team with participation by Berkeley Lab physicists has used artificial intelligence to identify more than 1,200 possible gravitational lenses—objects that can be powerful markers for the distribution of dark matter."
+    publishedDateTime: 2021-02-03T14:47:00Z
+    webUrl: "https://hubblesite.org/contents/articles/gravitational-lensing"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 137
+    images:
+      - url: "http://hubblesite.org/files/live/sites/hubble/files/home/resource-gallery/articles/_images/hs-article-gLens-2400x1200.jpg"
+        width: 2400
+        height: 1200
+        isCached: true
   - title: "AI detects 1,210 new potential gravitational lenses in the search for dark matter"
     excerpt: "Scientists used deep residual neural networks to search for the lenses in surveys of the sky. Their study could help unravel the mysteries of dark matter."
     publishedDateTime: 2021-02-03T21:24:00Z
@@ -42,22 +56,6 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/40501331252_d8f39000a4_o-796x664.jpg"
         width: 796
         height: 664
-        isCached: true
-  - title: "AI finds more than 1,200 gravitational lensing candidates"
-    excerpt: "A research team with participation by Berkeley Lab physicists has used artificial intelligence to identify more than 1,200 possible gravitational lenses—objects that can be powerful markers for the distribution of dark matter."
-    publishedDateTime: 2021-02-03T14:47:00Z
-    webUrl: "https://phys.org/news/2021-02-ai-gravitational-lensing-candidates.html"
-    ampWebUrl: "https://phys.org/news/2021-02-ai-gravitational-lensing-candidates.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-02-ai-gravitational-lensing-candidates.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/aifindsmoret.jpg"
-        width: 1280
-        height: 773
         isCached: true
 
 secured: "8fkDzOSaB0iI3nuQT2EMfAz0f98wraxbnOjqYxUoPP4u/GVcfs4eLS9DLLK6qNpK8HMPmnZNfIPoVlxKRFDdjBPlnHl7Qo70femBEXPxA7MJBMx3+GAJ7cBdgBjgecKyBlLVyFxJM6nODCdUiDN0uRk3OXdlkQobHO5MLeWvllsJjekNpKCio2wvV0UeSuqBqp5LuCRO//xKiYOE5cbvF/htWEDyj0EeAMcvmalCum0ZWZm6mIuUn/eP7D9TM0Zy8xuxdetrKHVxWAV5b5dIfeYG28lCaqUKphUvbKTxDLKgn0Js8QdYrX5ZDf5jbWDW+4YF5DSz5xr8GUaREAaqe8yuhIdI7/lrxnRPngg/HXhK68IgOmoHt0UGsG1wxhYP8ts/9xW774tFrQXKalzscmOAKoflr0i71q9lQ5XF0O+IEwt/rV7mAP8E+eiQEUK2PdWsAZ7dJdGW7jWH/i0SQ7Q7mPZnDf3lIk7xRdiAzW1jFJ/pBF9g7fV0dZ7U8OqViBkMsLSstCjnfWS8DJpHCw==;fc/w1N6yZKzxhV/B//GVxA=="

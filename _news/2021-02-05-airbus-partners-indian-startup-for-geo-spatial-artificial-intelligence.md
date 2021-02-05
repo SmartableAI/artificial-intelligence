@@ -7,7 +7,7 @@ originalUrl: "https://www.uniindia.com/airbus-partners-indian-startup-for-geo-sp
 webUrl: "https://www.uniindia.com/airbus-partners-indian-startup-for-geo-spatial-artificial-intelligence/south/news/2311019.html"
 type: article
 quality: 52
-heat: 52
+heat: 62
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 595
     height: 350
     isCached: true
+
+related:
+  - title: "Airbus partners Indian startup HyperVerge for geo-spatial AI"
+    excerpt: "Aerospace major Airbus on Friday said its geospatial digital platform delivering satellite imagery, analytics and services, OneAtlas, will partner with Bengaluru-based startup, HyperVerge, to implement and integrate new Artificial Intelligence (AI)-based analysis of satellite data."
+    publishedDateTime: 2021-02-05T14:36:00Z
+    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=798681"
+    type: article
+    provider:
+      name: Daijiworld
+      domain: daijiworld.com
+    quality: 37
+    images:
+      - url: "https://www.tvdaijiworld.com/images3/daya_040221_ronald8a.jpg"
+        width: 640
+        height: 427
+        isCached: true
 
 secured: "fgE+hS/ewqFnyVEej+ier51zalng30L45dIkdtW0qAUcZJOvd1bJtyQ7lO0Oikjl4w206MKjtIl8OMznP9QUhuE1ue9rdspyXxnvmeUESCoa6O0+QleJrmPuL5Rax90lnfmfoX35cLdIMAI9E57ltObnM0YoE02Ka4cV2fUBv2FaBfs8QoKJLDQmhbrjaMwE/9IJmFKs2Hmds7zeF64VZPtIgxgUnsczwv5ZPtIuUWLuKVVdlgqhE3HGJPmB/x6t0pHPC2yH3iJzmNf+6RjNGzeXbc5jTBezY3vmOIH4GxWcJBZ4w9vIWVKKvGEFM9x/d/If/zHFfp5oD4IgkeVMqd7QvvyqNFIefLFJpzTXrHw=;RdjnWGyK2We/Mre/97pZMw=="
 ---

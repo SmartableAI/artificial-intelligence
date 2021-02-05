@@ -72,6 +72,20 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Three ways artificial intelligence could change the markets"
+    excerpt: "AI is reshaping certain businesses faster than others — in particular, transport, healthcare and the digital landscape are in for an overhaul."
+    publishedDateTime: 2021-02-05T13:05:00Z
+    webUrl: "https://www.cmcmarkets.com/en-gb/opto/three-ways-artificial-intelligence-could-change-the-markets"
+    type: article
+    provider:
+      name: CMC Markets
+      domain: cmcmarkets.com
+    quality: 39
+    images:
+      - url: "https://assets.cmcmarkets.com/images/AI0402_medium.jpg"
+        width: 768
+        height: 576
+        isCached: true
 
 secured: "A0oe0bDBpErAlYoMvba1Dn568+MZrOYy0waPGDXOEcuA5r8F2nKL4nkfszthutydoWyReLLHgvFWKLrgOXqr7To0bLV2QSTgqwECe5zjx7Dl+bu+80LHZBbHt0lvDMeWm8xdmrlPAUm3je+Un++YVpsxRZwKvO98k237qYtJJuT5E+nj1HK0pn1+oFSKPQSZ631vaHngTeiULXSZ5j5egnOY8qLOEqk9p7QltP+nNTRS5WseB3+Typ5jUfbdFkzJv8Vk2YsGIXEGX44fCCJzLi26+sKtyxhjnxOltt7jXxdq84wvbnDtoBbc2KphH7iZ3jAg9LJhBsO6zaJuwBMvOpEQLQmLvOZu+RpnkNZmSb+0r36AR7hhD5z7GaEb2YTvF5dLRXNxiDDDmvjTsbcloM26mKgFsYgWHb7MfaUrhcReHAaFeEF+1wAOqshVpRNnJhVy2cKQgDC/BjrABrDUy/bmELEvaUiqq9uok6fkJkGdqeldFSxhvgfBJ/qR0HK1FH9/thlLfv8sFbOjsGns+g==;UneZVdor8MzCiLvA7WTuFw=="
 ---

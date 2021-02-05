@@ -84,6 +84,22 @@ related:
         width: 810
         height: 405
         isCached: true
+  - title: "Facial recognition may help find Capitol rioters — but it could harm many others, experts say"
+    excerpt: "Normalizing surveillance tactics that have been used disproportionately on Black and brown communities may have big consequences, activists and academics warn"
+    publishedDateTime: 2021-02-04T13:59:00Z
+    webUrl: "https://www.sandiegouniontribune.com/business/technology/story/2021-02-04/facial-recognition-surveillance-capitol-riot-black-and-brown-communities"
+    ampWebUrl: "https://www.sandiegouniontribune.com/business/technology/story/2021-02-04/facial-recognition-surveillance-capitol-riot-black-and-brown-communities?_amp=true"
+    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/technology/story/2021-02-04/facial-recognition-surveillance-capitol-riot-black-and-brown-communities?_amp=true"
+    type: article
+    provider:
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 48
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/16ad7b4/2147483647/strip/true/crop/1024x669+0+6/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7a%2Fe9%2Fb49d37bc9d1a889df0419cdeda89%2Fla-fi-tn-facebook-mobile-20160128-001"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Female entrepreneur pioneers facial recognition tech"
     excerpt: "Female entrepreneur pioneers facial recognition tech - Kommunikation - Kim Harrisberg - Charlette N'Guessan Desiree loved maths and science as a student in Ivory... - Allgemeine Zeitung"
     publishedDateTime: 2021-02-01T07:04:00Z
@@ -100,15 +116,15 @@ related:
         isCached: true
   - title: "Apple creates workaround to facial recognition blocked by face mask"
     excerpt: "This has probably happened at least once to an Apple user who is trying to unlock their iPhone with the device’s camera. The phone just can’t figure out you are you while you’re wearing a face mask. Jumping through the hoops of trying the camera,"
-    publishedDateTime: 2021-02-03T18:02:00Z
-    webUrl: "https://www.wsoctv.com/news/trending/apple-creates-workaround-facial-recognition-blocked-by-face-mask/F7GQKNQQ35C3DCUKS3MJMBR5VQ/"
+    publishedDateTime: 2021-02-03T18:17:00Z
+    webUrl: "https://www.wftv.com/news/trending/apple-creates-workaround-facial-recognition-blocked-by-face-mask/F7GQKNQQ35C3DCUKS3MJMBR5VQ/"
     type: article
     provider:
-      name: WSOC-TV
-      domain: wsoctv.com
+      name: WFTV
+      domain: wftv.com
     quality: 39
     images:
-      - url: "https://www.wsoctv.com/resizer/CBVb4qLwlF6YmcjIZ6eoh_TT_2k=/1200x628/d1hfln2sfez66z.cloudfront.net/02-03-2021/t_8fc4e0349f8b49209d662ee18ce01ca7_name_thumb.jpg"
+      - url: "https://www.wftv.com/resizer/CBVb4qLwlF6YmcjIZ6eoh_TT_2k=/1200x628/d1hfln2sfez66z.cloudfront.net/02-03-2021/t_8fc4e0349f8b49209d662ee18ce01ca7_name_thumb.jpg"
         width: 1200
         height: 628
         isCached: true

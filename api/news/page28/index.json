@@ -2,6 +2,58 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-01-15-can-an-ai-predict-the-language-of-viral-mutation.md",
+      "title": "Can an AI Predict the Language of Viral Mutation?",
+      "excerpt": "Computational biologists used an algorithm meant to model human language to instead predict how viruses could evolve to evade the immune system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/can-an-ai-predict-the-language-of-viral-mutation/",
+      "originalUrl": "https://www.wired.com/story/can-an-ai-predict-the-language-of-viral-mutation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5fffaf0723cb3490933581e8/master/pass/virus-mutation.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/can-an-ai-predict-the-language-of-viral-mutation/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/can-an-ai-predict-the-language-of-viral-mutation/amp",
+      "publishedDateTime": "2021-01-14T11:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-15-full-autonomous-self-driving-teslas-in-vegas-boring-tunnels-by-the-end-of-2021.md",
       "title": "Full Autonomous Self Driving Teslas in Vegas Boring Tunnels by the End of 2021",
       "excerpt": "The LVCVA board approved $6.25 million to Boring to operate the mile-long convention center system from Feb. 1 through June 30, 2022. At no cost, authorized access to Boring to dig tunnels connecting",
@@ -1122,49 +1174,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-ces-2021-taiwanese-startup-fiduciaedge-technologies-develops-edge-security-solution-for-a-secure-edge-computing-environment.md",
-      "title": "CES 2021 Taiwanese startup FiduciaEdge Technologies develops Edge security solution for a secure edge computing environment",
-      "excerpt": "FiduciaEdge's software/firmware platform makes edge intelligence trustworthy, while protecting data privacy at the source. With FiduciaEdge's solutions, the vulnerable edge computing landscape can be transformed into a trusted/confidential environment with ease.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ces-2021-taiwanese-startup-fiduciaedge-technologies-develops-edge-security-solution-for-a-secure-edge-computing-environment-1029967103",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ces-2021-taiwanese-startup-fiduciaedge-technologies-develops-edge-security-solution-for-a-secure-edge-computing-environment-1029967103",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/ces-2021-taiwanese-startup-fiduciaedge-technologies-develops-edge-security-solution-for-a-secure-edge-computing-environment-1029967103",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ces-2021-taiwanese-startup-fiduciaedge-technologies-develops-edge-security-solution-for-a-secure-edge-computing-environment-1029967103",
-      "publishedDateTime": "2021-01-13T23:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

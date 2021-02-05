@@ -2,6 +2,39 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2021-01-01-apple-has-won-5-design-patents-presented-in-photo-line-art-forms-covering-the-ipad-pro-magic-keyboard-combination.md",
+      "title": "Apple has Won 5 Design Patents presented in photo & line art forms covering the iPad Pro & Magic Keyboard Combination",
+      "excerpt": "Patently Apple posted design patent report titled \"Apple was Granted 13 Design Patents for their 2020 iPad Air.\" Today we discovered that the Hong Kong Patent and Trademark Office has granted Apple 5 design patent totaling 38 images covering Apple's iPad Pro and Magic Keyboard combination.",
+      "sourceUrl": null,
+      "webUrl": "https://pdfpiw.uspto.gov/.piw?PageNum=0&docid=10853717&IDKey=6E72242A6301%0D%0A&HomeUrl=http%3A%2F%2Fpatft.uspto.gov%2Fnetacgi%2Fnph-Parser%3FSect1%3DPTO2%2526Sect2%3DHITOFF%2526p%3D1%2526u%3D%25252Fnetahtml%25252FPTO%25252Fsearch-bool.html%2526r%3D31%2526f%3DG%2526l%3D50%2526co1%3DAND%2526d%3DPTXT%2526s1%3Dmicrosoft.ASNM.%2526OS%3DAN%2Fmicrosoft%2526RS%3DAN%2Fmicrosoft",
+      "originalUrl": "https://www.patentlyapple.com/patently-apple/2021/01/apple-has-won-5-design-patents-presented-in-photo-line-art-forms-covering-the-ipad-pro-magic-keyboard-combination.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-31T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patently Apple",
+        "domain": "patentlyapple.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-01-apples-back-tap-patent-also-explores-using-new-voice-recognition-technology-to-control-a-future-tv-by-apple-more.md",
       "title": "Apple's 'Back Tap' Patent also explores using new Voice Recognition Technology to control a Future TV by Apple & more",
       "excerpt": "Today the US Patent & Trademark Office published a patent application from Apple that relates to devices that could be controlled via acoustic vibration. A device could be trained to understand that a user tapping their fingers on a desk in a certain rhythm translates to a command for \"answer call and activate speaker.",
@@ -1087,58 +1120,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-shenzhen-to-focus-on-chips-ai-and-biomedicine-to-grow-gdp-40-per-cent-over-five-years-in-the-face-of-us-hostility-and-economic-slowdown.md",
-      "title": "Shenzhen to focus on chips, AI and biomedicine to grow GDP 40 per cent over five years in the face of US hostility and economic slowdown",
-      "excerpt": "China’s southern tech hub of Shenzhen aims for 40 per cent growth over five years, with the goal of becoming an international hub of innovation, despite challenges from the US for local tech giants.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/policy/article/3115999/shenzhen-focus-chips-ai-and-biomedicine-grow-gdp-40-cent-over-five",
-      "originalUrl": "https://www.scmp.com/tech/policy/article/3115999/shenzhen-focus-chips-ai-and-biomedicine-grow-gdp-40-cent-over-five",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/12/31/ce039f8a-4b44-11eb-9c55-93e83087d811_image_hires_182210.jpg?itok=5b-jJpU-&v=1609410137",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/policy/article/3115999/shenzhen-focus-chips-ai-and-biomedicine-grow-gdp-40-cent-over-five",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/policy/article/3115999/shenzhen-focus-chips-ai-and-biomedicine-grow-gdp-40-cent-over-five",
-      "publishedDateTime": "2020-12-31T03:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

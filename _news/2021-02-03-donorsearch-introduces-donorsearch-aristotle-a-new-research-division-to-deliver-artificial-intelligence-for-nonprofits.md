@@ -6,8 +6,8 @@ publishedDateTime: 2021-02-03T08:27:00Z
 originalUrl: "https://apnews.com/article/technology-business-charity-fundraising-nonprofit-business-and-finance-social-affairs-b174ca58bf34db4b7d929e40b35b4cbc"
 webUrl: "https://apnews.com/article/technology-business-charity-fundraising-nonprofit-business-and-finance-social-affairs-b174ca58bf34db4b7d929e40b35b4cbc"
 type: article
-quality: 12
-heat: 12
+quality: 14
+heat: 14
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

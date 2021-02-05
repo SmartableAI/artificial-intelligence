@@ -9,7 +9,7 @@ ampWebUrl: "https://www.christianpost.com/amp/humanoid-robots-and-how-were-faili
 cdnAmpWebUrl: "https://www-christianpost-com.cdn.ampproject.org/c/s/www.christianpost.com/amp/humanoid-robots-and-how-were-failing-at-human-relationships.html"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:
@@ -26,6 +26,6 @@ images:
     height: 300
     isCached: true
 
-secured: "Cow3HlljXO/GL0a9V3sqgBOzcgry2F/ZMb2jq+pgf8ZcEONjtbDvPj76r0DeeRWvcjbnilk+Ofix566QXXse81bh2G5li/8E7YS1O7BS3a7ot0V0qhlsVUGPUAoTm7JA6hmtKuPerEDMYbe1b9ReNblg8hmB3UvhJhKKAnqdE6KkKvBfaJ0CWXx2WgYF898K7CBkzRnOh8oge6IvEB5nMiCJAfGV4z0eehgo+EDqMn9MIYhsE0Zk4QPcAFC66bxv0jFti0SU/s8/K6WC45lg8qSnUdvBYo+JG7OecVcZ70aEFuHj5m/fbbJjWB+ZMu5ItQe1j5Sdqg6aHPqRlMkydTOLFN+QZPAkYTbrbKw1HN4=;kQkbgQbgt+JYqrZsQgoZnA=="
+secured: "fdCR1ICQCVtTIKXAxUpX+5ac5XzhdWt83JFIE42cBH2w1WI4whsjD5BspTC+8qdUNmDn+vkm1CiHaUsvOpu3bjblTHdCaTNEY4PRgnbIDqyQSXxeIayRZxqKBjL+KNHL1QxDEYGpDzMCf2eJich4biybDKzYZVkR7lzIg4f5RpEb5jNCwzrciW9XSxs9eVLGTb0jV2KgHtT+KaUoS+csdHovfXFyVIo0pnl2Rfcbw276jcHSJ4eUam/U7zya02GtH6SrkuCMaA1J8I9LL0YElRTkKxQrcRmykZsrA6PADWUeXtrLaFHtEBoe3yUKieapfqLVuNLHHwvBDVNyi5gFtRbdfnk3UVJgavhrrjhVuxp57QNmHCuxRHmTZNWDr5uWT4z3Pqrd/pPc/Jfxw8DlV0JzuXItKpcJTs0BB6gwRDrPMQo47P3FdZIXfmG9DyUEhfet7B/SaJlL04Fj8Kc8yjlHHjZnjsYGrD/tqTM6nLsYLwYsYQtGif10mbaRhXN4NcwK+q7leUlDscLCBh/PXw==;fYgNVo79YJEi+pwHStjDjw=="
 ---
 

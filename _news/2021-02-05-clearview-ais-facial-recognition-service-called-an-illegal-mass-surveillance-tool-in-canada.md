@@ -105,6 +105,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "CIBC introduces AI-powered Insights tool amid digital banking spike in Canada"
+    excerpt: "CIBC's new AI- and machine learning-driven mobile banking app gives customers actionable, personalized recommendations for better spending decisions."
+    publishedDateTime: 2021-02-05T13:56:00Z
+    webUrl: "https://www.businessinsider.com/cibc-jumps-on-ai-bandwagon-canadian-digital-banking-spikes-2021-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
+    images:
+      - url: "https://i.insider.com/6009d41dc94799001992c9e6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Clearview AI violated privacy rights of Canadians with facial recognition tech, say privacy commissioners"
     excerpt: "All four of Canada's privacy commissioners have denounced the controversial facial recognition company Clearview AI."
     publishedDateTime: 2021-02-03T16:55:00Z

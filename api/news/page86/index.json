@@ -2,6 +2,57 @@
   "page": 86,
   "value": [
     {
+      "path": "_news/2020-12-01-facebook-nears-purchase-of-startup-in-deal-that-values-it-at-1-billion.md",
+      "title": "Facebook Nears Purchase of Startup in Deal That Values It at $1 Billion",
+      "excerpt": "Facebook is nearing a deal to buy Kustomer, which specializes in customer-service platforms and chatbots, according to people familiar with the matter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/facebook-nears-purchase-of-startup-in-deal-that-values-it-at-1-billion-11606750196",
+      "originalUrl": "https://www.wsj.com/articles/facebook-nears-purchase-of-startup-in-deal-that-values-it-at-1-billion-11606750196?mod=hp_lead_pos3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-265924/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/facebook-nears-purchase-of-startup-in-deal-that-values-it-at-1-billion-11606750196",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facebook-nears-purchase-of-startup-in-deal-that-values-it-at-1-billion-11606750196",
+      "publishedDateTime": "2020-11-30T13:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-01-europe-artificial-intelligence-in-healthcare-diagnosis-markets-2019-2020-2027-ai-in-epidemic-outbreak-prediction-and-response-gaining-momentum.md",
       "title": "Europe Artificial Intelligence in Healthcare Diagnosis Markets, 2019-2020 & 2027 - AI in Epidemic Outbreak Prediction and Response Gaining Momentum",
       "excerpt": "DUBLIN, Nov. 30, 2020 /PRNewswire/ -- The \"Europe Artificial Intelligence in Healthcare Diagnosis Market Forecast to 2027 - COVID-19 Impact and Regional Analysis by Diagnostic Tool; Application ...",
@@ -1089,58 +1140,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-elon-musk-tesla-full-self-driving-beta-to-expand-in-two-weeks.md",
-      "title": "Elon Musk: Tesla Full Self-Driving beta to expand in two weeks",
-      "excerpt": "More Tesla drivers could soon be sharing warts-and-all videos of Full-Self Driving in action on public streets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/elon-musk-tesla-full-self-driving-beta-to-expand-in-two-weeks/",
-      "originalUrl": "https://www.zdnet.com/article/elon-musk-tesla-full-self-driving-beta-to-expand-in-two-weeks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/04/29/b0b2b069-530f-4f03-ab3c-f41207823389/thumbnail/1200x675/7dab00fbe159192ec9acc7344002b423/teslas-big-new-feature-autopilot-now-hal-5ea855af1c719e4526590320-1-apr-29-2020-13-36-03-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/elon-musk-tesla-full-self-driving-beta-to-expand-in-two-weeks/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/elon-musk-tesla-full-self-driving-beta-to-expand-in-two-weeks/",
-      "publishedDateTime": "2020-11-30T06:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

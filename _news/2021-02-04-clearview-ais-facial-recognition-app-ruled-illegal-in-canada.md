@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/02/03/technology/clearview-ai-illegal-c
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/03/technology/clearview-ai-illegal-canada.amp.html"
 type: article
 quality: 89
-heat: 249
+heat: 259
 published: true
 
 provider:
@@ -92,6 +92,20 @@ related:
       - url: "https://images.wsj.net/im-295201/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "CIBC introduces AI-powered Insights tool amid digital banking spike in Canada"
+    excerpt: "CIBC's new AI- and machine learning-driven mobile banking app gives customers actionable, personalized recommendations for better spending decisions."
+    publishedDateTime: 2021-02-05T13:56:00Z
+    webUrl: "https://www.businessinsider.com/cibc-jumps-on-ai-bandwagon-canadian-digital-banking-spikes-2021-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
+    images:
+      - url: "https://i.insider.com/6009d41dc94799001992c9e6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Clearview AI’s facial recognition service called an ‘illegal’ ‘mass surveillance’ tool in Canada"
     excerpt: "What facial recognition company Clearview does is “mass surveillance”, and “illegal” — the company should \"delete all images of Canadians from its database\"."

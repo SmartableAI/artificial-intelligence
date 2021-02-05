@@ -79,6 +79,20 @@ related:
         width: 608
         height: 405
         isCached: true
+  - title: "Rev Announces New Languages in Automated Speech Recognition"
+    excerpt: "The world’s most accurate speech-to-text engine, Rev, today announced the expansion of its highly accurate speech recognition service with the addition of four new languages: French, German, Portuguese,"
+    publishedDateTime: 2021-02-05T14:32:00Z
+    webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-new-products-and-services-e1adf12858cc06cd9c25c98d72ad96e9"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Nuance Dragon Medical One Earns #1 Best in KLAS Award for Speech Recognition: Front-End EMR"
     excerpt: "Nuance Communications, Inc. (NASDAQ: NUAN) today announced that Nuance Dragon® Medical One cloud-based speech recognition platform captured top honors as the 2021 Best in KLAS: Software & Services award winner,"
     publishedDateTime: 2021-02-03T07:56:00Z

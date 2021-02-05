@@ -7,7 +7,7 @@ originalUrl: "https://www.princeton.edu/news/2021/02/03/chemistry-and-computer-s
 webUrl: "https://www.princeton.edu/news/2021/02/03/chemistry-and-computer-science-join-forces-apply-artificial-intelligence-chemical"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 1440
     height: 720
     isCached: true
+
+related:
+  - title: "Chemistry and computer science join forces to apply artificial intelligence to chemical reactions"
+    excerpt: "In the past few years, researchers have turned increasingly to data science techniques to aid problem-solving in organic synthesis."
+    publishedDateTime: 2021-02-05T14:21:00Z
+    webUrl: "https://phys.org/news/2021-02-chemistry-science-artificial-intelligence-chemical.html"
+    ampWebUrl: "https://phys.org/news/2021-02-chemistry-science-artificial-intelligence-chemical.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-02-chemistry-science-artificial-intelligence-chemical.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 44
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/1-chemicalreac.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
 
 secured: "MzbLzGVnUR/BOMgsy24ts/XMHnJ1uPFANUT6mQi3u4wD8obCvsdApX+5Vd/I8Z6numvkYWzYIWtn+1YBzlsa/FohMEQQAi+H/oYh3LIH6Q1KDUA0nRNdO89JzbE393y7ceYj807+C2yvbL5AFOmxPIexHcjhvN2BhAKxY85HKTKBLgqzw/sXS+x5h1YnuY0H61+eC+k4Hpv2xU1GudQcdhH9X3PVBEBYHkxCTo/WCk3Yujfg6z+ubue3O1Jfomu5qsZPLO32OqnrbcLaG7NTZX18bWseLqkWO7gt8zYHqokau58X+hd/1unC2W5qV/gbi7VfZBfgviHVBPtDKZB5G+v22kOEqoutg1oqhNj139Mq7Wc9wnDEJ6mU51mbXyaXGcvVbTggcko65ssTS5HJYlSDwKuHV66BT3bjo75eJVqXAHAhZPPlJ6QPUuqlUpvBcULaCs1uDTlZ8LG9WXANZbaCKxzZLhpUQ2epYf4sMZJcTEzr4P3/3CZzPXF2em8yHE2eG502Wt2d5r1C4HQxAA==;UeRPtoLxmO0F0fhwfbFHFA=="
 ---

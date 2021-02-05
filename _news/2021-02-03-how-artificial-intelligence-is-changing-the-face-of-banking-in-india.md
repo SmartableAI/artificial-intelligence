@@ -24,19 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "How Machine Learning is Changing the Role of Advertising"
-    excerpt: "There's a lot of publicity around machine learning (ML). It is, in truth, one of the most burning business subjects at the moment. However, ML's vast scope of viable applications for media experts, vendors,"
-    publishedDateTime: 2021-02-01T12:00:00Z
-    webUrl: "https://www.cioapplications.com/news/how-machine-learning-is-changing-the-role-of-advertising-nid-7158.html"
+  - title: "Sony Patent Shows AI Capable Of Changing The Difficulty Of The Game In Real-Time"
+    excerpt: "Our expectations for next-gen consoles like the PlayStation 5 are high; Its power opens up a whole new world of possibilities in our games, beyond beautiful graphics thanks to the new GPU from AMD. While the demand for PlayStation 5 is increasing day by day around the world,"
+    publishedDateTime: 2021-02-05T13:11:00Z
+    webUrl: "https://techlog360.com/sony-patent-ai-capable-of-changing-the-difficulty-of-the-game-in-real-time/"
+    ampWebUrl: "https://techlog360.com/sony-patent-ai-capable-of-changing-the-difficulty-of-the-game-in-real-time/amp/"
+    cdnAmpWebUrl: "https://techlog360-com.cdn.ampproject.org/c/s/techlog360.com/sony-patent-ai-capable-of-changing-the-difficulty-of-the-game-in-real-time/amp/"
     type: article
     provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 39
+      name: techlog360.com
+      domain: techlog360.com
+    quality: 54
     images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/g8vkv450.jpg"
-        width: 450
-        height: 308
+      - url: "https://i1.wp.com/tl360.b-cdn.net/wp-content/uploads/2021/02/AI-capable-Of-Changing-The-Difficulty-Of-The-Game.jpg?fit=1200%2C630&#038;ssl=1"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "SDZH/b9VMCVzPh8pEDFgil5X9awvNYxFt0UIvFfGNnoEK+9twfmDdT7RZkDpSZmx3lTm/VnNHnnSVrnypFp58ne71MdXLpIeZBk3U2oT6oQsVqa0D6mHoMQRPgtQ2DUDgbT6SMhlfL07qClvhDIqsPsEBNawnXIntOG3gVSlunlfSZttwHPlXPj2DkpRLK909GVVgtZQT03KPqhOMrd+KMNz4+AP6ngaAY+jcch2BHnIjcfizQuFIjHb1nuCgxxBV2/tWYRfNIbYb12RvKgWN8BFTNMMTwo+m+mz8eb5Ai9pToNpqJWrgt75UukmzzQMJbtAXgSaAG8mObRyg99oxcQghmuUeWQo3fiHhOzvawU=;cFDn0q055FmndZ4PQxW6ww=="

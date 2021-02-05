@@ -9,8 +9,8 @@ ampWebUrl: "https://godanriver.com/lifestyles/humor-larry-king-will-miss-the-rob
 cdnAmpWebUrl: "https://godanriver-com.cdn.ampproject.org/c/s/godanriver.com/lifestyles/humor-larry-king-will-miss-the-robot-apocalypse/article_235149ae-e9d6-5da9-813e-caeddbf11080.amp.html"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: GoDanRiver.com
@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Hollifield: Larry King will miss the Robot Apocalypse"
-    excerpt: "Today, our disparate subjects will be the literary genius of the late Larry King and the inevitable end of the world as we know it brought about by killer robots."
-    publishedDateTime: 2021-01-31T22:00:00Z
-    webUrl: "https://journalnow.com/news/local/hollifield-larry-king-will-miss-the-robot-apocalypse/article_53c2c810-628f-11eb-8bbe-3339ac48fd6c.html"
-    ampWebUrl: "https://journalnow.com/news/local/hollifield-larry-king-will-miss-the-robot-apocalypse/article_53c2c810-628f-11eb-8bbe-3339ac48fd6c.amp.html"
-    cdnAmpWebUrl: "https://journalnow-com.cdn.ampproject.org/c/s/journalnow.com/news/local/hollifield-larry-king-will-miss-the-robot-apocalypse/article_53c2c810-628f-11eb-8bbe-3339ac48fd6c.amp.html"
-    type: article
-    provider:
-      name: Winston-Salem Journal
-      domain: journalnow.com
-    quality: 39
   - title: "SCOTT HOLLIFIELD: Larry King will miss the Robot Apocalypse"
     excerpt: "Today, our disparate subjects will be the literary genius of the late Larry King and the inevitable end of the world as we know it brought about by killer robots."
     publishedDateTime: 2021-02-04T07:00:00Z

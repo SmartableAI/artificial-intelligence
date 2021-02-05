@@ -2,24 +2,24 @@
 category: news
 title: "Apple creates workaround to facial recognition blocked by face mask"
 excerpt: "This has probably happened at least once to an Apple user who is trying to unlock their iPhone with the device’s camera. The phone just can’t figure out you are you while you’re wearing a face mask. Jumping through the hoops of trying the camera,"
-publishedDateTime: 2021-02-03T18:02:00Z
-originalUrl: "https://www.wsoctv.com/news/trending/apple-creates-workaround-facial-recognition-blocked-by-face-mask/F7GQKNQQ35C3DCUKS3MJMBR5VQ/"
-webUrl: "https://www.wsoctv.com/news/trending/apple-creates-workaround-facial-recognition-blocked-by-face-mask/F7GQKNQQ35C3DCUKS3MJMBR5VQ/"
+publishedDateTime: 2021-02-03T18:17:00Z
+originalUrl: "https://www.wftv.com/news/trending/apple-creates-workaround-facial-recognition-blocked-by-face-mask/F7GQKNQQ35C3DCUKS3MJMBR5VQ/"
+webUrl: "https://www.wftv.com/news/trending/apple-creates-workaround-facial-recognition-blocked-by-face-mask/F7GQKNQQ35C3DCUKS3MJMBR5VQ/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: WSOC-TV
-  domain: wsoctv.com
+  name: WFTV
+  domain: wftv.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.wsoctv.com/resizer/CBVb4qLwlF6YmcjIZ6eoh_TT_2k=/1200x628/d1hfln2sfez66z.cloudfront.net/02-03-2021/t_8fc4e0349f8b49209d662ee18ce01ca7_name_thumb.jpg"
+  - url: "https://www.wftv.com/resizer/CBVb4qLwlF6YmcjIZ6eoh_TT_2k=/1200x628/d1hfln2sfez66z.cloudfront.net/02-03-2021/t_8fc4e0349f8b49209d662ee18ce01ca7_name_thumb.jpg"
     width: 1200
     height: 628
     isCached: true
@@ -98,6 +98,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Facial recognition may help find Capitol rioters — but it could harm many others, experts say"
+    excerpt: "Normalizing surveillance tactics that have been used disproportionately on Black and brown communities may have big consequences, activists and academics warn"
+    publishedDateTime: 2021-02-04T13:59:00Z
+    webUrl: "https://www.sandiegouniontribune.com/business/technology/story/2021-02-04/facial-recognition-surveillance-capitol-riot-black-and-brown-communities"
+    ampWebUrl: "https://www.sandiegouniontribune.com/business/technology/story/2021-02-04/facial-recognition-surveillance-capitol-riot-black-and-brown-communities?_amp=true"
+    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/technology/story/2021-02-04/facial-recognition-surveillance-capitol-riot-black-and-brown-communities?_amp=true"
+    type: article
+    provider:
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 48
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/16ad7b4/2147483647/strip/true/crop/1024x669+0+6/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7a%2Fe9%2Fb49d37bc9d1a889df0419cdeda89%2Fla-fi-tn-facebook-mobile-20160128-001"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Female entrepreneur pioneers facial recognition tech"
     excerpt: "Female entrepreneur pioneers facial recognition tech - Kommunikation - Kim Harrisberg - Charlette N'Guessan Desiree loved maths and science as a student in Ivory... - Allgemeine Zeitung"
     publishedDateTime: 2021-02-01T07:04:00Z
@@ -127,6 +143,6 @@ related:
         height: 823
         isCached: true
 
-secured: "n2qPt0wCsqd1ZJkibikJJfN01BfA9HWan9CA5QJeXHf9ymE+XybYDlvROoGFBMI6988oyGhWKvGMpOeFhIl/VHKp9HioYQ0DoCwsizOd/yp1hI+bS/7CixDY0cykHE91+yC/sfrzFj/aCyYd5DFLtF4ZWW0iTJqkS45RX+rikEGWd+dpfTURKwctyr0Huth9TscMaeUuroLUNJFoZcnvFKmfbXCYIKiKl2KRIlcf6/TQwtP4uWWigZYOHDDf2+ALrJpBAyutNh+IEIRDVNUXVO3TAem1RntaUoNt8RmniLJJbsaR1BZxAtT7R77HGUj4Saj4oIHHVG6y8GkVRJ2bs9/x158NVcPPk/YnY7p8OYo=;12hrEAp/dLmvs7iSEyw3nQ=="
+secured: "KebW54sQAZSSL5KxqMmHl9juL7Voc5l+eLr8xqlGzGt6gl2rLX7sMDOdAVIOH1a1+9Ezfey4D2IddjHQy39/YURkhQh8LV2qJ20JjV6+99uwz6cqrVfxbJ0A+yZG/SP9JESYofP2FSOeL+aRbRxPi4PE18QhSwFi47WkBNtxenpn/RmCnnkQNsvpX2QuvniyU+iCqyo1hUVybrW8gwZAjQwBZUwiJnWCZc6YrwWv3ZJsHVtxq7yx8M+bV23cnV+gLPVf5WMLSPgyGNMPcsxlhMBhD9Tbg58cPyRPnpDw4eYxdXMVANyCjVZSFtVkVUV3ohqSFmAlrdDHHMaQXlxqgaJzyOkgjo5yNmWN+0zzrBw=;Jn16bSN530YXc3uDB+E0kQ=="
 ---
 

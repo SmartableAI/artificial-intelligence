@@ -88,16 +88,16 @@ related:
         height: 552
         isCached: true
   - title: "Ford posts strong results, promises big bet on electric and self-driving cars"
-    excerpt: "Ford reported surprisingly good financial results at the end of a tough year, and said it was increasing its commitment to vehicles of the future with a big bet on electric and autonomous driving vehicles."
-    publishedDateTime: 2021-02-05T00:18:00Z
-    webUrl: "https://kyma.com/cnn-business-consumer/2021/02/04/ford-posts-strong-results-promises-big-bet-on-electric-and-self-driving-cars/"
+    excerpt: "By Chris Isidore, CNN Business Ford reported surprisingly good financial results at the end of a tough year, and said it was increasing its commitment to vehicles of the future with a big"
+    publishedDateTime: 2021-02-05T10:08:00Z
+    webUrl: "https://www.kten.com/story/43295286/ford-posts-strong-results-promises-big-bet-on-electric-and-self-driving-cars"
     type: article
     provider:
-      name: KYMA
-      domain: kyma.com
+      name: KTEN
+      domain: kten.com
     quality: 21
     images:
-      - url: "https://kyma.b-cdn.net/2021/02/hypatia-h_4570de554ee2d8dd27155b646a32b256-h_675c7f63a7da8be24c1b6f0b4c62bac4_preview.jpg"
+      - url: "https://CNNWIRE.images.worldnow.com/images/20336791_G.jpg?lastEditedDate=1612462806000"
         width: 500
         height: 333
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/vw-group-self-driving-developme
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/vw-group-self-driving-development-in-house/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "Report: Apple to develop electric self-driving car with Hyundai"
+    excerpt: "After many years of trying to jump-start a self-driving car program internally, a new report claims that Apple Inc. is closing on a deal with Korean automotive OEM Hyundai-Kia to develop an Apple-based autonomous electric vehicle (EV)."
+    publishedDateTime: 2021-02-05T13:34:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16314/report-apple-to-develop-electric-self-driving-car-with-hyundai"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 19
   - title: "App from VEMI Lab group will help people with visual impairments, seniors enjoy ride sharing with self-driving cars"
     excerpt: "Self-driving cars will offer access to ride-sharing and ride-hailing with their suite of modern conveniences. However, many people with visual"
     publishedDateTime: 2021-02-02T16:52:00Z

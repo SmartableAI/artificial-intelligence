@@ -113,6 +113,20 @@ related:
         width: 1260
         height: 628
         isCached: true
+  - title: "Ford ups investment in self-driving and electric cars to $29B"
+    excerpt: "Ford plans to spend up big in the areas of electric vehicles and self-driving technology, CEO Jim Farley said Thursday during a conference call detailing the automaker's 2020 financial results. Key measures mentioned by the new Ford CEO include an increase in spending on EVs to $22 billion through 2025,"
+    publishedDateTime: 2021-02-05T13:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1131191_ford-ups-investment-in-self-driving-and-electric-cars-to-29b"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
+    images:
+      - url: "https://images.hgmsites.net/hug/2021-ford-mustang-mach-e_100779690_h.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
 
 secured: "1HaUSpqfuyx7ga2YrmkHOxTkVaTgeeESk+lMrrwNrwbhwn3HJs9QhSCaxObwAPEOGyVNKge4iAcehqEUwD4VM1iltnsTenSVTDlzhPZYWzX57M5A12yPUk3hbL5He6lDqJqaAs96PCO+qGsXfM0lE+v3c/2oedliCIxWFpG0cCqPzUSWUfnakTmTWOoIafwXnBGkdtyMx0RzR/AMq9BiLuFzwXXxrBi5oPDrO11GEh2EJ4YlD+xeWfymTcaBSMiB/4d0DiI7FDeJLFET12/QjyGKBZkgGMJUQl2DcinBBaJvgdCYSqMKtkUURLnCPy5wK4RA+jVq39dIsUQtH0PP2K0F/+IvKCaLIOXRojQJOJt+JndDdh20XAoBZcait3yGBjenr9mdVJpeml4mXbjXXkBRdP2TT9Fzz2Ws4NIeL6Hy3wwg2VDuZoUyCH29IxJkml+y36eIYmLHT0stoL7LNBZStsJT6QlKvjo16Jd8fhnrbOEvMSqssPX96HR9NZVVESwRauFlXzFZYiz522Ou5w==;bpKS/QQu9BB641+XlqV4Fg=="
 ---

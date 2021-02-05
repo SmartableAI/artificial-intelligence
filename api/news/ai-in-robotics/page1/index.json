@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-05-robot-motherships-to-launch-drone-swarms-from-sea-underwater-air-and-near-space.md",
+      "title": "Robot Motherships To Launch Drone Swarms From Sea, Underwater, Air And Near-Space",
+      "excerpt": "Metal Shark's unmanned vessel is just one of a series of new launch platforms able to deliver swarms of attack drones -- swarm-equipped boats, unmanned submarines, unmanned jets and stratospheric balloons are all on the way.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidhambling/2021/02/05/robot-motherships-to-launch-drone-swarms-from-sea-underwater-air-and-near-space/",
+      "originalUrl": "https://www.forbes.com/sites/davidhambling/2021/02/05/robot-motherships-to-launch-drone-swarms-from-sea-underwater-air-and-near-space/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601d471a948dfd8ec26c348b%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidhambling/2021/02/05/robot-motherships-to-launch-drone-swarms-from-sea-underwater-air-and-near-space/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhambling/2021/02/05/robot-motherships-to-launch-drone-swarms-from-sea-underwater-air-and-near-space/amp/",
+      "publishedDateTime": "2021-02-05T05:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-05-humanoid-robots-and-how-were-failing-at-human-relationships.md",
       "title": "Humanoid robots and how we're failing at human relationships",
       "excerpt": "Hanson Robotics didn’t make Sophia just because they could. They’re capitalizing on something in our culture that needs to be recognized. We’re failing each other.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.christianpost.com/voices/humanoid-robots-and-how-were-failing-at-human-relationships.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -221,49 +273,6 @@
       "provider": {
         "name": "Diginomica",
         "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-humor-larry-king-will-miss-the-robot-apocalypse.md",
-      "title": "HUMOR: Larry King will miss the Robot Apocalypse",
-      "excerpt": "Today, our disparate subjects will be the literary genius of the late Larry King and the inevitable end of the world as we know it brought about by killer robots.",
-      "sourceUrl": null,
-      "webUrl": "https://godanriver.com/lifestyles/humor-larry-king-will-miss-the-robot-apocalypse/article_235149ae-e9d6-5da9-813e-caeddbf11080.html",
-      "originalUrl": "https://godanriver.com/lifestyles/humor-larry-king-will-miss-the-robot-apocalypse/article_235149ae-e9d6-5da9-813e-caeddbf11080.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/godanriver.com/content/tncms/assets/v3/editorial/c/b6/cb66693c-fec7-5a4b-9ebf-9b31ca9db2ae/5fb3f2d04671c.image.jpg",
-          "width": 800,
-          "height": 1018,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://godanriver.com/lifestyles/humor-larry-king-will-miss-the-robot-apocalypse/article_235149ae-e9d6-5da9-813e-caeddbf11080.amp.html",
-      "cdnAmpWebUrl": "https://godanriver-com.cdn.ampproject.org/c/s/godanriver.com/lifestyles/humor-larry-king-will-miss-the-robot-apocalypse/article_235149ae-e9d6-5da9-813e-caeddbf11080.amp.html",
-      "publishedDateTime": "2021-02-03T16:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GoDanRiver.com",
-        "domain": "godanriver.com",
         "images": null,
         "publishers": null,
         "authors": null
