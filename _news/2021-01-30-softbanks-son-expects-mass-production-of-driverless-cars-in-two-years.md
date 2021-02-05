@@ -1,19 +1,19 @@
 ---
 category: news
 title: "SoftBank's Son expects mass production of driverless cars in two years"
-excerpt: "Son, who made his name for investing early in startups such as China’s Alibaba Group had said he will continue to take stakes in public companies he thinks are frontrunners in the artificial ..."
-publishedDateTime: 2021-01-29T16:08:00Z
-originalUrl: "https://www.reuters.com/article/us-davos-meeting-son-autonomous-idUSKBN29Y279"
-webUrl: "https://www.reuters.com/article/us-davos-meeting-son-autonomous-idUSKBN29Y279"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Y279"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Y279"
+excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since Free subscriber-exclusive audiobook! “No Rules Rules: Netflix and the Culture of Reinvention ..."
+publishedDateTime: 2021-01-29T16:38:00Z
+originalUrl: "https://www.businessinsider.com/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years-2021-1"
+webUrl: "https://www.businessinsider.com/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years-2021-1"
+ampWebUrl: "https://www.businessinsider.com/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years-2021-1?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/softbanks-son-expects-mass-production-of-driverless-cars-in-two-years-2021-1?amp"
 type: article
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -21,12 +21,6 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210129&t=2&i=1549571164&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0S194"
-    width: 829
-    height: 545
-    isCached: true
-
-secured: "SJHCe/CxJ73UN0Tota90JJTByy/Zljz4fwa4MgB9xIpFS6pnVBaGfvB7P/O+u2oZq51wwe/uCf3QO/Hvb4GFNt0IpmCzPZJ4up0Pa66q9Hgd/5BrvGrzVwzG5MkR7k5qBBFreMv/mCjBt3G6077k/ZdvlmGzWvoUkuSEchs15qWUfx369wHJ2W76JADRlGlKqKNXRfnjDi0xmjr6ofCzSpdonHMH0MdpaI8x0WCYK3IE9/yVSNQxo72S6Gr4EbdcpH5wFIPlCTAYEvtnausy+kV0PQLjRyGaHSuv1zeSqSPLzleer+ZTv3IucQuxnqGRBy5MRIe/DS/cj7xNsM9fjEDzciDY6V7fel+RpwmWnM8=;508gdZww6mzNXr8cIStOIQ=="
+secured: "CCrYAF0rICch8PGKrZKk+5RFeBWsYjb0seJh/4AhaRnCLz9hP7OctOtU3ZSz4hCA6dk/3jHlCVNsBP0QjmjILiJBTLx9oMwyi8N5OgjCbpOgvtffb3Dt30/OG3O+xSRCdg36HyqmTgmJsf7cQWwT+5PrrTjM6MmW5lK0xJ1k4CIfDTkKjeIsV6KsQSWW/SUsjHZhHqOXEKr7eN/WCy0zhLPD0fbQYfcsr0+q/SF+n2S3DsN9yUHwoJn4Vw2mOSFyckqK8OKfXU7RpAOwXX2LWtF/GCa34hl/RHRO9pFhrnIS0CMDTBpwKw2j4ZOTpZ+QFwxlXuf3bXs+UNFo5mBQVbGh71sVUiX4joygEV7fh1c=;YEAOQiUS3czklH/aQLnA1A=="
 ---
 

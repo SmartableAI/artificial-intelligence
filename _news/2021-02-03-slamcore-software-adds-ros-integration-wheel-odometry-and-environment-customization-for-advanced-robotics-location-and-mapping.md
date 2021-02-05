@@ -33,20 +33,6 @@ related:
         width: 840
         height: 630
         isCached: true
-  - title: "Universal Robots’ Safety Expert Recognized in ‘20 Exceptional Women in Robotics and Automation’ List by SME"
-    excerpt: "The international group of remarkable women on SME’s list published today represent a comprehensive cross section of technologies in robotics and automation. The list was developed by U.S.-based Smart Manufacturing magazine published by SME in consultation with several leaders across the robotics and automation industries."
-    publishedDateTime: 2021-02-05T07:59:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-corporate-news-north-america-1eff0989afcc4f4b93d039c22026ad6e"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 36
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Universal Robots’ Safety Expert Recognized in '20 Exceptional Women in Robotics and Automation' List by SME"
     excerpt: "Roberta Nelson Shea, Universal Robots’ Global Technical Compliance Officer, is celebrated today by SME, the professional association committed to advancing manufacturing."
     publishedDateTime: 2021-02-05T18:33:00Z
@@ -61,6 +47,15 @@ related:
         width: 500
         height: 313
         isCached: true
+  - title: "Universal Robots’ Safety Expert Recognized in ‘20 Exceptional Women in Robotics and Automation’ List by SME"
+    excerpt: "Roberta Nelson Shea, Universal Robots’ Global Technical Compliance Officer, is celebrated today by SME, the professional association committed to advancing manufacturing. SME is recognizing 20 successful female leaders working to broaden the use of robotics and automation in the smart manufacturing market globally."
+    publishedDateTime: 2021-02-05T14:09:00Z
+    webUrl: "https://www.roboticstomorrow.com/news/2021/02/05/universal-robots-safety-expert-recognized-in-‘20-exceptional-women-in-robotics-and-automation-list-by-sme/16217/"
+    type: article
+    provider:
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 16
 
 secured: "jAW0oqdq9UY2dL4KMMwoRVYB/t7GS0uGoIEAAMpAkmEvUXy3SwnZ8iAp64Av2dk5SAaHTWGTi8dovQvp2iCHyRRYmbeTdChrvjKTZD6CGjRpSD97cQ9qaqyiG59Cmlv+W3LcxcfXET7+z7Wgzz5RGj/59zej6kAn6xlbtAzJYh8Zr/MKZ82n19f4wKn5COV+XdJOC2Bfk5tORI60wSghEQ6vLSmzZtukPfR4tI6aB8Lpoc9lnpWnQYn62ZU1rtYCZf6GigL981rGUHFZqccQj/UOi13BoMW5Mk9Jq4eE2x16VzO0T3EnqENMu/wRxzk/Dlrie0bV428rs+9gTWHg7/YqeFoFl07VFLQHrOBBbog=;G7MpJOjFkpYM4cfQ83vmTQ=="
 ---

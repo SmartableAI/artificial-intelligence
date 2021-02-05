@@ -43,6 +43,22 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Serbia And Key International Sovereigns Lead With Data And AI To Become Vaccination Champions"
+    excerpt: "By leveraging the power of advanced technologies and artificial intelligence, nations like Serbia, Greece, the UAE and Israel have been able to set up an optimized and effective vaccine distribution framework."
+    publishedDateTime: 2021-02-05T21:53:00Z
+    webUrl: "https://www.forbes.com/sites/markminevich/2021/02/05/serbia-and-key-international-sovereigns-lead-with-data-and-ai-to-become-vaccination-champions/"
+    ampWebUrl: "https://www.forbes.com/sites/markminevich/2021/02/05/serbia-and-key-international-sovereigns-lead-with-data-and-ai-to-become-vaccination-champions/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/02/05/serbia-and-key-international-sovereigns-lead-with-data-and-ai-to-become-vaccination-champions/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 76
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601dbde7581359319aa2b051%2F0x0.jpg"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Budget 2021: Govt using Artificial Intelligence to track GST tax evasion"
     excerpt: "Budget 2021 saw Finance Minister Nirmala Sitharaman emphasise on the use of AI technology to enable compliance, adjudication of disputes on Ministry of Corporate Affairs"
     publishedDateTime: 2021-02-01T09:36:00Z

@@ -2,17 +2,17 @@
 category: news
 title: "Worldwide Machine Learning Industry to 2030 - Featuring BigML, Featurespace and Google Among Others - ResearchAndMarkets.com"
 excerpt: "The \"Machine Learning Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2020-2030\" report has been added to ResearchAndMarkets.com's offering. A latest study collated and analyzes the historical and present-day scenario of the global machine learning market to accurately gauge its potential future development."
-publishedDateTime: 2021-02-05T11:12:00Z
-originalUrl: "https://www.oaoa.com/news/business/worldwide-machine-learning-industry-to-2030---featuring-bigml-featurespace-and-google-among-others/article_b191664c-4a60-5db4-ae99-820059783f1c.html"
-webUrl: "https://www.oaoa.com/news/business/worldwide-machine-learning-industry-to-2030---featuring-bigml-featurespace-and-google-among-others/article_b191664c-4a60-5db4-ae99-820059783f1c.html"
+publishedDateTime: 2021-02-05T11:43:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20210205005219/worldwide-machine-learning-industry-to-2030-featuring-bigml-featurespace-and-google-among-others-researchandmarketscom"
+webUrl: "https://www.morningstar.com/news/business-wire/20210205005219/worldwide-machine-learning-industry-to-2030-featuring-bigml-featurespace-and-google-among-others-researchandmarketscom"
 type: article
 quality: 7
 heat: -1
 published: false
 
 provider:
-  name: Odessa American
-  domain: oaoa.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - Machine Learning
@@ -182,6 +182,6 @@ related:
         height: 250
         isCached: true
 
-secured: "T+JgdjsmsHUTluW2L1rRvL6vqMMNBGqPzR/Ypm87MZ6VKrt/lu3HAWM7ihWR2FTIqkyY4DORdr06eJQf1QLgUiwjsGtphmZElZaMwi8SB0oCRnjFfYAZpplZKCB4T8gtRQTKXWbdsMfhp4xwhID1tAnM3AWusB42qFptMtbj2qylppwhOD4LFeSJ6Ajmejl2tHO+bHMfOn35aP94IXiDZa59Z594mDV5CYrK5umFVDOWACfJ+v1pMlHma+SA4B/ln9lEyefb87zzwbx/eBY3zocHZ9SkH87oNFEdR+QDxR3vXQy7OHMc68LZ6x6RzycR2rJmsryfgP7QbjzwKv0nbtFGQ9HK2CErlYxx2dM69CE=;Cg+wDzwuOjiUZHzcoaIXpg=="
+secured: "S8UMYyI5nwLAMnfRYrDxXN2/dJ8Rrb6O8iUusYxoOEqayyREIJfXUYRsw4difqTcHMojY1S9sbVZpTHCJVjnjcTSrgsRfCMkY1bollmQU/N55OKQdNs/njPiv2JqhOPSKIJMiS9a7o1pgEhOxUO35J5TuI9MrD0mXJOWhAmqXBEDTKuyBdjaxxi2JnsA/IiDh4pT7zsNmS8ZWY2QtSaMm/Q/mwYD7dtA+phrI++gTvASYXRe+ZUN3Z2jEhwfJyJ4aAtVl3BrYXpcB37yXPpAzG+RXzbDhzM+lDZ1yYTVI5itTWtdTtFlI3AuUsxCC/ZVJaGGp7YOSWPxtZ43womyijzSfr3Jp201YBcQWzKuzJs=;EW3eGDz9jbvOba4M0Oiy+A=="
 ---
 

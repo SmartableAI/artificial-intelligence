@@ -6,7 +6,7 @@ publishedDateTime: 2021-02-05T19:31:00Z
 originalUrl: "https://venturebeat.com/2021/02/05/ai-weekly-what-andy-jassys-ascension-to-ceo-means-for-amazons-ai-initiatives/"
 webUrl: "https://venturebeat.com/2021/02/05/ai-weekly-what-andy-jassys-ascension-to-ceo-means-for-amazons-ai-initiatives/"
 type: article
-quality: 65
+quality: 67
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2017/11/andy-jassy-aws-reinvent-2017-e1575310104477.jpg?w=1200&#038;strip=all"
@@ -246,6 +247,6 @@ related:
         height: 324
         isCached: true
 
-secured: "RSautbGZakag1vxz74KIIF1ifx+KjBwZjOmHnhNVuG+CD6Pa2VN41zrwVzK4C9+5wW+T/e7lwx4XoGYtF0QhOjjF06WleB/txPEqY/yEtSrrbvNwOJQa3HTmKcQ5YUZArhx2jbAmNkBrs0CgNsckmT98a63REliEiLlkyGMOzYi2LWXwFe/4jQK+VhLO0rs9sE0iK3MXUlfyp3sg5mn+DRt6ag72Npxp1o/GbXbyJpaw1Sq41cmEEpmSKHCkU9tAS789MHQe8gnwxv6QyHXXZLA3zhMLYj8IOLnbZUu7aqMlLx52s2fdi9W1IiGMcv+3lph51+Kivn8G8wgQ93KFW+U17KZBpFa2RimsTD4Jh9Y=;amOyJ8UbnJsDYwMBJUMU6w=="
+secured: "ZC3nTJMDspeL8mqjDzUuybQnd45TnuGrMB/QVRQU6OAOWXsxNqUT/0U4AyBjv59vwo6lIxFmsSDyG/IYLn6m68GuO+nWIsRYGXy6mvPo9/7uYeXbf3Ah4IfKlK4CYCDjORNFURHXsNeeGanqwamDJ9rDFuR+xSaip9CJZYg1vzCLv3Jku//j/0frF7M/lvI1TYuNr2/YntSyuiir952JkuRX3b814pg92qxa1j2d1HyAqa045zXmezgvNkSzjWFND4uQvwc6uYpbSZUwHOX8m9aapNLxmEA5ZOn7cgWsL850Ja46277o8FeZSD7hGTMhr5rCOwiTdNtslc9jpvC1SdmwRtPbrLJoB6KJdKpo0X/SUfeggD5YYc6WMpfci3z+VAZ7U17Zgv12UoUFIylnS8ylfIlQpfXT7TorHNXNGTNAbkDA4JlMNU4R0t1tEFDaQP+kgGXZvfEf6+OI0Adg0auBBcAl2rY4rkwEPzGYkVyK1ZA4Za5EopooEO+A+eSCzBIxKx3KjVUljou8EtxHow==;OdDk+1teoL0o5Q9mQRPKUg=="
 ---
 

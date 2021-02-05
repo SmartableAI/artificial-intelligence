@@ -128,19 +128,30 @@ related:
         width: 320
         height: 209
         isCached: true
-  - title: "Female entrepreneur pioneers facial recognition tech"
-    excerpt: "Female entrepreneur pioneers facial recognition tech - Kommunikation - Kim Harrisberg - Charlette N'Guessan Desiree loved maths and science as a student in Ivory... - Allgemeine Zeitung"
-    publishedDateTime: 2021-02-01T07:04:00Z
-    webUrl: "https://www.az.com.na/nachrichten/female-entrepreneur-pioneers-facial-recognition-tech2021-02-01/"
+  - title: "Facial Recognition Can Find Rioters, but May Harm Others"
+    excerpt: "The AI-driven technology has been helping officials identify those who stormed the Capitol on Jan. 6, but it also has been found to have racial biases. Officials must balance the potential benefits with the risks."
+    publishedDateTime: 2021-02-05T21:44:00Z
+    webUrl: "https://www.governing.com/security/Facial-Recognition-Can-Find-Rioters-but-May-Harm-Others.html"
+    ampWebUrl: "https://www.governing.com/security/Facial-Recognition-Can-Find-Rioters-but-May-Harm-Others.html?AMP"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/Facial-Recognition-Can-Find-Rioters-but-May-Harm-Others.html?AMP"
     type: article
     provider:
-      name: Allgemeine Zeitung
-      domain: az.com.na
+      name: Governing
+      domain: governing.com
+    quality: 39
+  - title: "Law enforcement turns to facial recognition to find Capitol rioters"
+    excerpt: "Researchers such as the cybersecurity expert John Scott-Railton said they deployed facial recognition software to detect trespassers, including a retired Air Force lieutenant alleged to have been spotted on the Senate floor during the riot."
+    publishedDateTime: 2021-02-05T21:11:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21209114/law-enforcement-turns-to-facial-recognition-to-find-capitol-rioters"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
     quality: 39
     images:
-      - url: "https://cdn.my.na/assets/images/11964/female-entrepreneur-pioneers-facial-recognition-tech2021-02-010.jpg"
-        width: 1024
-        height: 602
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/02/BIZ_CPT_CAPITOL_RIOTS_FACIALRECOGNITION_ABA.601db418ce1b8.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 798
         isCached: true
   - title: "Millions of US faces scanned without approval, rules for facial recognition needed"
     excerpt: "The powers that be at UCLA thought it was a good idea at the time — using state-of-the-art technology to scan students' faces for gaining access to campus buildings. Students thought otherwise."

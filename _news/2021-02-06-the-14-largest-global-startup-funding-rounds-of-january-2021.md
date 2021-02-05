@@ -8,8 +8,8 @@ webUrl: "https://www.alleywatch.com/2021/02/global-startup-funding-top-largest-j
 ampWebUrl: "https://www.alleywatch.com/2021/02/global-startup-funding-top-largest-january-2021-vc/amp/"
 cdnAmpWebUrl: "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2021/02/global-startup-funding-top-largest-january-2021-vc/amp/"
 type: article
-quality: 42
-heat: 42
+quality: 44
+heat: 44
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://cdn.alleywatch.com/wp-content/uploads/2021/01/2021-NYC-TECH-INFLUENCERS.jpg"
@@ -25,6 +26,6 @@ images:
     height: 419
     isCached: true
 
-secured: "F6kbf+aROHTePecQ1WaTEBZIklqcTC2h35myboUKbdfbbmt1THpAz03ZsJYg+zUBLEiQiNkLg94zpynsKiVLtvmXm9xukfWJHqCTQBo/LxZ+uY8ppHjP1gAqKKBA5hY2ZOzDyYmLkW7zoO9aFR6ppKM2ysg9SSlDHcne5nZw42HlWdIuWCAtwRhhbpH4Ar0/N9XYEEOOuYPsxgec2qGCVZ8q6B7JJRcke+J8UQrgoR336kB0OQozaUMIq1SM+M+Xq1LT0NwrZN+Uv6lTSpjjCgHkoVCFtPzCOS9g3fqUkeuoC4QrcAY3R6vHv3bFmOfu1x7OMchYytd0avGqz9fQPA8xY5lq5iNCTfuF/5+VELU=;F7kDObXIxk8dW+fIhzvVTQ=="
+secured: "3FjYCxVxrfo9+f5lFDgtk1MzCewdV+THnZtrzyTqYKYMV5opVHI5mmIqoqNv3T71E01igXt2bBGa63KnDBDsYyrjSTqrwtf3jHNzhWDzYGMEtGPHaXPakcC4sp5wnhNxRJOS50g4rWT3bqFBGzJccsjvHreLfpK7TXOmiwPPz4A5rMo2FdRXX+nD5WXZSe4wSV8O/Vzh7YPLvg/efa28eXTc6YKblldlliJi6e2AXL7FnMAdsJ5SqXOsBtR0GeFLBcfTJtrDErj5eqjfZvq7Pi81yp4NKXZmS9YCo+0SfjKUtPSP2LK+eZ7bCCGvSQ87j01ugr2WcPSKu65q+T2wHk0Oq0TPF5ryJTlAvFhyv0ykk0Gkp2LE+tlGVDf37rBf82qnT8UexjEpXjIIHgsCZMrFts29R5lss3Trx46+gP0oh3UYx62/HXy+8YRXKgARLA5tT7SAuUykIHfAPGP4aa9OIIqjIMUFhuS2Lw5L0lC/mMAalQ5jLwQQsfyDMdgW1mCTzB5ttMpzi26p9ITRJA==;V1u0WB3sAGFbzcWkuAbb7g=="
 ---
 

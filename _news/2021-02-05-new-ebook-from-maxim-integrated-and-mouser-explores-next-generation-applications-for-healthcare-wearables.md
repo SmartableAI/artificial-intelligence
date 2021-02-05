@@ -39,6 +39,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Fourier Intelligence partners the National University of Singapore to advance neurorehabilitation robotics"
+    excerpt: "The collaboration aims to facilitate research in rehabilitation technology, and promote its adoption in patient care and therapy."
+    publishedDateTime: 2021-02-05T07:20:00Z
+    webUrl: "https://www.wfmj.com/story/43295725/fourier-intelligence-partners-the-national-university-of-singapore-to-advance-neurorehabilitation-robotics"
+    type: article
+    provider:
+      name: WFMJ
+      domain: wfmj.com
+    quality: 36
+    images:
+      - url: "https://EINPRESSWIRE.images.worldnow.com/images/20337036_G.jpg?lastEditedDate=1612469038000"
+        width: 900
+        height: 506
+        isCached: true
 
 secured: "jeJ5BOBPdOjxH6+J/+FdXW63cLC5ne67L8X1IuLryaEqxNrrsZQqnAjLaExomm4n08PgDBzQ/6EUE8wkfDyzYfnv9ktczLSpAUz/xtkJpo/PkZs4LQYSqTNShUMjK2/WriB5SZ6fnyOz4P+nj1SMrG0RF+WiAWL/6xEf4sc/YCZkdop9azoUhtcqjsV5B9T23MAcMosRTqZ/ROpQ2MpnOX03Y+Lvb0oE3WE/hj0P2gHwk5N3g7ByZg7+eNrj8NKvXp9hC30urcEt3iP3z2ZmyfO2Cwy4ZKk7R0SdLaJTDhgt/1o2zkggzc5JWxDYFN3fXArrEmJZ8E2IiEKx2qF8rKIdA/SDmBrWyUCxOrTwRQw=;GDWCECEioer/0Q7gj7c0tw=="
 ---

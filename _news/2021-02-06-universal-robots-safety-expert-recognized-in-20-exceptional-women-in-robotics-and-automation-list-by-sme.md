@@ -40,19 +40,14 @@ related:
         height: 630
         isCached: true
   - title: "Universal Robots’ Safety Expert Recognized in ‘20 Exceptional Women in Robotics and Automation’ List by SME"
-    excerpt: "The international group of remarkable women on SME’s list published today represent a comprehensive cross section of technologies in robotics and automation. The list was developed by U.S.-based Smart Manufacturing magazine published by SME in consultation with several leaders across the robotics and automation industries."
-    publishedDateTime: 2021-02-05T07:59:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-corporate-news-north-america-1eff0989afcc4f4b93d039c22026ad6e"
+    excerpt: "Roberta Nelson Shea, Universal Robots’ Global Technical Compliance Officer, is celebrated today by SME, the professional association committed to advancing manufacturing. SME is recognizing 20 successful female leaders working to broaden the use of robotics and automation in the smart manufacturing market globally."
+    publishedDateTime: 2021-02-05T14:09:00Z
+    webUrl: "https://www.roboticstomorrow.com/news/2021/02/05/universal-robots-safety-expert-recognized-in-‘20-exceptional-women-in-robotics-and-automation-list-by-sme/16217/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 36
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 16
   - title: "SLAMcore software adds ROS integration, wheel odometry, and environment customization for advanced robotics location and mapping"
     excerpt: "SLAMcore, a leader in Spatial Intelligence for autonomous location and mapping, today announced a new software release for developers of robots and consumer electronics products. The new release further expands SLAMcore's highly regarded location/mapping capabilities (visual inertial SLAM) for developers of robots/consumer electronics products."
     publishedDateTime: 2021-02-02T16:37:00Z

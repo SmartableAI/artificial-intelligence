@@ -9,8 +9,8 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/percayai-and-saint-loui
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/percayai-and-saint-louis-university-partner-to-accelerate-ai-adoption-across-biomedical-sciences-research-1030034010"
 type: article
 quality: 50
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: Business Insider
@@ -24,6 +24,20 @@ topics:
   - AI
 
 related:
+  - title: "Untether AI Partners with Colfax International to Provide Peak Performance in AI Edge Servers"
+    excerpt: "Untether AI, the leader in at-memory computation and AI acceleration, today announced a partnership with Colfax International in which Untether’s tsunAImi TM accelerator cards, powered by the runAI TM devices,"
+    publishedDateTime: 2021-02-04T16:38:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-toronto-ontario-computer-components-north-america-a2352441944e4f40a9c5d20269710c62"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 28
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "PercayAI and Saint Louis University Partner to Accelerate AI Adoption across Biomedical Sciences Research"
     excerpt: "Biotech startup PercayAI and Saint Louis University (SLU) announced a partnership today to provide SLU researchers with access to PercayAIs"
     publishedDateTime: 2021-02-03T08:10:00Z

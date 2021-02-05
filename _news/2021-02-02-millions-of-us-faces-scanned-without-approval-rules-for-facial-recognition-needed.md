@@ -128,20 +128,6 @@ related:
         width: 320
         height: 209
         isCached: true
-  - title: "Female entrepreneur pioneers facial recognition tech"
-    excerpt: "Female entrepreneur pioneers facial recognition tech - Kommunikation - Kim Harrisberg - Charlette N'Guessan Desiree loved maths and science as a student in Ivory... - Allgemeine Zeitung"
-    publishedDateTime: 2021-02-01T07:04:00Z
-    webUrl: "https://www.az.com.na/nachrichten/female-entrepreneur-pioneers-facial-recognition-tech2021-02-01/"
-    type: article
-    provider:
-      name: Allgemeine Zeitung
-      domain: az.com.na
-    quality: 39
-    images:
-      - url: "https://cdn.my.na/assets/images/11964/female-entrepreneur-pioneers-facial-recognition-tech2021-02-010.jpg"
-        width: 1024
-        height: 602
-        isCached: true
   - title: "Apple creates workaround to facial recognition blocked by face mask"
     excerpt: "This has probably happened at least once to an Apple user who is trying to unlock their iPhone with the device’s camera. The phone just can’t figure out you are you while you’re wearing a face mask. Jumping through the hoops of trying the camera,"
     publishedDateTime: 2021-02-03T18:17:00Z
@@ -155,6 +141,31 @@ related:
       - url: "https://www.wftv.com/resizer/CBVb4qLwlF6YmcjIZ6eoh_TT_2k=/1200x628/d1hfln2sfez66z.cloudfront.net/02-03-2021/t_8fc4e0349f8b49209d662ee18ce01ca7_name_thumb.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Facial Recognition Can Find Rioters, but May Harm Others"
+    excerpt: "The AI-driven technology has been helping officials identify those who stormed the Capitol on Jan. 6, but it also has been found to have racial biases. Officials must balance the potential benefits with the risks."
+    publishedDateTime: 2021-02-05T21:44:00Z
+    webUrl: "https://www.governing.com/security/Facial-Recognition-Can-Find-Rioters-but-May-Harm-Others.html"
+    ampWebUrl: "https://www.governing.com/security/Facial-Recognition-Can-Find-Rioters-but-May-Harm-Others.html?AMP"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/Facial-Recognition-Can-Find-Rioters-but-May-Harm-Others.html?AMP"
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 39
+  - title: "Law enforcement turns to facial recognition to find Capitol rioters"
+    excerpt: "Researchers such as the cybersecurity expert John Scott-Railton said they deployed facial recognition software to detect trespassers, including a retired Air Force lieutenant alleged to have been spotted on the Senate floor during the riot."
+    publishedDateTime: 2021-02-05T21:11:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21209114/law-enforcement-turns-to-facial-recognition-to-find-capitol-rioters"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 39
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/02/BIZ_CPT_CAPITOL_RIOTS_FACIALRECOGNITION_ABA.601db418ce1b8.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 798
         isCached: true
 
 secured: "ZzHlJZ3/VdN6G3KkzSLVDwizzHgM+G14dA7e4hvu6Db7+VZFkt0zxI1bWntuKAy+qKDZLI0yIh+S9KlvJOfi0k0IGvi4/e2NI2BfAL9g6sJldoR1rFmXwzxgnC3FhyI6z3uPly7Y0vER2W5qjt2BkyH0Af1qTtqm8riwF/2WoKuvTxlEjc1Vz6q18yx38ZCStRllX5uPEWl7BQlURZDFAHrbIfJkGDyXvxs7cHkNmqFLwgk5Jp0/TchKHP9evBTfoACFfUfHOhDT3ahcR6A1tiEr6i/kYLK0N9lhCpoFM+MmOoRMB5k/goEwco13+fM7JZ0r035w93q4O5yFlT/zC9BdCIaWWwPV5bIQvIc6pEqk0jP1btpX55rYkAxOk7SfU1bg/2EHLhZjDMEVwgzpltwzIcmPLEeg8dVjOESSSPNt0XijrrB2Nv6aktnuNQuugkhxW9+0e1axz31ZRIioYK+BjSbWmLesFDfTL0dpG2Id3U0w2ebvuC9CNh9QS/hbu7VAJWCOIToQ40Ez+TCbNA==;kaVaFb/tvFSoSV07P/gcGA=="

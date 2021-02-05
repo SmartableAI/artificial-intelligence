@@ -3,10 +3,10 @@ category: news
 title: "How an AI-powered robot could upend wine storage (for those who can afford it)"
 excerpt: "A new tech company, WineCab, is using software to improve wine management, storing wine and offering tips on what kind of wine to try next. Here's how it works."
 publishedDateTime: 2021-02-04T23:00:00Z
-originalUrl: "https://www.techrepublic.com/article/how-an-ai-powered-robot-could-upend-wine-storage-for-those-who-can-afford-it/"
-webUrl: "https://www.techrepublic.com/article/how-an-ai-powered-robot-could-upend-wine-storage-for-those-who-can-afford-it/"
-ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-an-ai-powered-robot-could-upend-wine-storage-for-those-who-can-afford-it/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-an-ai-powered-robot-could-upend-wine-storage-for-those-who-can-afford-it/"
+originalUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/how-an-ai-powered-robot-could-upend-wine-storage-for-those-who-can-afford-it/"
+webUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/how-an-ai-powered-robot-could-upend-wine-storage-for-those-who-can-afford-it/"
+ampWebUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/how-an-ai-powered-robot-could-upend-wine-storage-for-those-who-can-afford-it/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/how-an-ai-powered-robot-could-upend-wine-storage-for-those-who-can-afford-it/"
 type: article
 quality: 100
 heat: 100
@@ -30,6 +30,6 @@ images:
     height: 421
     isCached: true
 
-secured: "yyJDVsNZQNQTbaTV0BwNdlerHD8kgUCxUlTfIWgtNOODyI37QpUJmXmdlVYsj0XmSmAO3jkY468eDU8tad4aNbADJlYXrvzTscLgARLskvW2xuBU7pCMDBAJINO2StJtA9jQfOkY3liV+X08ktnX7YBMWmOSWJzOFKqsNcAgfJLEuFpxwaAmONzrhaCUJ84kj2PGqp3nMAF0Dws7wIIU4rialrucPGwIq0meUBXklhYfRqINfsIQlP8BpmjAkoIYX7Pf90d04InxCZAXNXJuZNyOQESY/rzcL3p/o8peeysSaS1p1wn2qpxOhNhZa3imdJ2KfyR7yFkrQaCzk1+xJkuuVBYzDLJvMV6ugdOGfX8=;AGVg8UhX9+1ILeRTTmnUeQ=="
+secured: "PjDPdbaFb5H2zeMUNEWGTuWfh2eO63lUA5R2Oi5ZgYYhh96zZqyOXE8Sy7dKzOrVb7s43wEwET6bXEQTAktiJBt/BNfh1GPXxbiAg+hE/rR8zuCsh015FjUaBbrxSwJfMcnSgIaYSmZwc2uNaBlgpHIAR1JkjX9xHH/CgoyzkRdDpvs2FewZPFhOIDUZhEblPpdGMboGIPMGvQAhSvtnlIWOxvY8dHuxWxesTsoV915RQBXoJ7EA3suSoYq4V4DZ9AhqiS3ZAc9nA+yWvS2XqlABwlfrSaoPeZY/A3G61NVt9G+c4T63UFpjih+0sfVJsknsbwdsntxp2+BtxKPOMjFZoCcUOObJCtoxCAeUwvM=;YSMAWqT9AVdMXJVwmqwTsg=="
 ---
 

@@ -104,7 +104,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 65
+    quality: 67
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2017/11/andy-jassy-aws-reinvent-2017-e1575310104477.jpg?w=1200&#038;strip=all"
         width: 1200

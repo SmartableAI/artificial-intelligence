@@ -42,16 +42,14 @@ related:
         height: 448
         isCached: true
   - title: "IBM Unveils Elite Hybrid Cloud Build Team Dedicated to Accelerating Modernization Across Partner Ecosystem"
-    excerpt: "The novel platform would marry standard insurance industry data with Watson AI and data from the IBM-owned Weather Company to offer clients embedded visualization charts and statistical modeling ..."
-    publishedDateTime: 2021-02-04T05:15:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/02/n19481702/ibm-unveils-elite-hybrid-cloud-build-team-dedicated-to-accelerating-modernization-across-partner-e"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19481702"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19481702"
+    excerpt: "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments"
+    publishedDateTime: 2021-02-04T05:20:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210204ny70064/ibm-unveils-elite-hybrid-cloud-build-team-dedicated-to-accelerating-modernization-across-partner-ecosystem"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 26
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 6
     images:
       - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
         width: 400

@@ -175,12 +175,12 @@ related:
         isCached: true
   - title: "Worldwide Machine Learning Industry to 2030 - Featuring BigML, Featurespace and Google Among Others - ResearchAndMarkets.com"
     excerpt: "The \"Machine Learning Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2020-2030\" report has been added to ResearchAndMarkets.com's offering. A latest study collated and analyzes the historical and present-day scenario of the global machine learning market to accurately gauge its potential future development."
-    publishedDateTime: 2021-02-05T11:12:00Z
-    webUrl: "https://www.oaoa.com/news/business/worldwide-machine-learning-industry-to-2030---featuring-bigml-featurespace-and-google-among-others/article_b191664c-4a60-5db4-ae99-820059783f1c.html"
+    publishedDateTime: 2021-02-05T11:43:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210205005219/worldwide-machine-learning-industry-to-2030-featuring-bigml-featurespace-and-google-among-others-researchandmarketscom"
     type: article
     provider:
-      name: Odessa American
-      domain: oaoa.com
+      name: Morningstar, Inc.
+      domain: morningstar.com
     quality: 7
 
 secured: "3dSo32CndnN8Yvtkf4NDk/V9wAKykkK6F70koFdH11SnfNYRGKTvfdtDJs4da4icAT3IV+mnsV27Sf9CMB7nzHoJyspBYy0wEgqabVJSxM91d621W4+4hmd6pYo8qkNq/aZSdH83PI2ZbjgWvOLjOrLBwD5nWxEvNt5EFUW3Q5r0mQ4xhPFskgumlpjlSwtO8+W02LFrZX05g/SnIJVlDqewEQalG/wK2yUuJontHxV3fdXmyBbrGkpXD9NkKENjNgoknnPW14sPJWb5inqrSnzD2CTVVc41y8zAU5NwOBAoDo1UFT2amHDcyAOHHCHxccAz4lT8saJndF2lhoU0O6C/3AMss0O7qwzhtML8HS0=;PONdmnMU9uk3OI1TtM7GaQ=="
