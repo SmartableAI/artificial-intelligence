@@ -2,93 +2,6 @@
   "page": 27,
   "value": [
     {
-      "path": "_news/2021-01-15-ai-set-to-replace-humans-in-cybersecurity-by-2030-says-trend-micro.md",
-      "title": "AI set to replace humans in cybersecurity by 2030, says Trend Micro",
-      "excerpt": "Trend Micro predicts that cybercriminals will look to home networks as a critical launch pad to compromising corporate IT and IoT networks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-set-to-replace-humans-in-cybersecurity-by-2030-says-trend-micro/",
-      "originalUrl": "https://www.zdnet.com/article/ai-set-to-replace-humans-in-cybersecurity-by-2030-says-trend-micro/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-set-to-replace-humans-in-cybersecurity-by-2030-says-trend-micro/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-set-to-replace-humans-in-cybersecurity-by-2030-says-trend-micro/",
-      "publishedDateTime": "2021-01-15T03:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-worried-about-your-firms-ai-ethics-these-startups-are-here-to-help.md",
-      "title": "Worried about your firm’s AI ethics? These startups are here to help.",
-      "excerpt": "A growing ecosystem of “responsible AI” ventures promise to help organizations monitor and fix their AI models.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2021/01/15/1016183/ai-ethics-startups/",
-      "originalUrl": "https://www.technologyreview.com/2021/01/15/1016183/ai-ethics-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/01/GettyImages-589006098.jpeg?w=3000",
-          "width": 3000,
-          "height": 1687,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2021/01/15/1016183/ai-ethics-startups/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/01/15/1016183/ai-ethics-startups/amp/",
-      "publishedDateTime": "2021-01-15T03:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2021-01-15-when-ai-has-an-overactive-imagination.md",
       "title": "When AI has an overactive imagination",
       "excerpt": "An overactive imagination can sometimes make us see things that are not really there. Now it seems artificial intelligence can have one too. Google researcher Alex Mordvintsev decided to develop this idea and turn the concept into art.",
@@ -1139,6 +1052,109 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-15-gitlab-partners-with-ibm-cloud-to-improve-collaboration-for-devops.md",
+      "title": "GitLab partners with IBM Cloud to improve collaboration for DevOps",
+      "excerpt": "GitLab is partnering with IBM Cloud designed to help DevOps teams work more efficiently by collaborating through a shared platform.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/14/gitlab-partners-with-ibm-cloud-to-improve-collaboration-for-devops/",
+      "originalUrl": "https://venturebeat.com/2021/01/14/gitlab-partners-with-ibm-cloud-to-improve-collaboration-for-devops/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/05/DevOps.GettyImages-516042304-e1610634250908.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/14/gitlab-partners-with-ibm-cloud-to-improve-collaboration-for-devops/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/14/gitlab-partners-with-ibm-cloud-to-improve-collaboration-for-devops/amp/",
+      "publishedDateTime": "2021-01-14T09:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-15-this-cute-ai-pet-will-fill-the-deep-dark-void-in-your-life.md",
+      "title": "This cute AI pet will fill the deep, dark void in your life",
+      "excerpt": "Meet Moflin, an AI pet with “emotional capabilities that evolve like living animals.” The creature, which looks like a cross between a hamster and a slipper, won the Best of Innovation Award in Robotics at CES 2021 this week.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/01/14/this-cute-ai-pet-will-fill-the-deep-dark-void-in-your-life/",
+      "originalUrl": "https://thenextweb.com/neural/2021/01/14/this-cute-ai-pet-will-fill-the-deep-dark-void-in-your-life/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/Untitled-design-2021-01-14T145203.477-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/01/14/this-cute-ai-pet-will-fill-the-deep-dark-void-in-your-life/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/14/this-cute-ai-pet-will-fill-the-deep-dark-void-in-your-life/amp/",
+      "publishedDateTime": "2021-01-14T09:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

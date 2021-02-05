@@ -191,7 +191,7 @@ related:
   - title: "General Dynamics Information Technology Offers Microsoft Azure to Federal Agencies"
     excerpt: "General Dynamics Information Technology (GDIT), a business unit of General Dynamics (NYSE:GD), announced today the signing of Microsoft Partner Agreement for Online Services-Government (AOS-G). The new agreement provides federal customers with the capability to access Azure services and offerings,"
     publishedDateTime: 2021-02-04T17:59:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-government-business-and-finance-corporate-news-products-and-services-7c7c2146254e7c0b1d0b8fe0b781d921"
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-government-business-and-finance-corporate-news-products-and-services-7c7c2146254e7c0b1d0b8fe0b781d921/gallery/c64d90f26effc8bf60e5e2bbe54359e7"
     type: article
     provider:
       name: Associated Press

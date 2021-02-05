@@ -2,111 +2,6 @@
   "page": 36,
   "value": [
     {
-      "path": "_news/2021-01-11-samsungs-digital-cockpit-is-a-futuristic-concept-for-self-driving-car-interiors.md",
-      "title": "Samsung’s Digital Cockpit is a futuristic concept for self-driving car interiors",
-      "excerpt": "Samsung has announced a concept tech that imagines turning cars of the future into mobile offices and entertainment centers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/cars/samsung-digital-cockpit-driverless-cars-ces-2021/",
-      "originalUrl": "https://www.digitaltrends.com/cars/samsung-digital-cockpit-driverless-cars-ces-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/samsung-digital-cockpit-cars-1200x630-c-ar1.91.jpg",
-          "width": 846,
-          "height": 442,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/cars/samsung-digital-cockpit-driverless-cars-ces-2021/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/samsung-digital-cockpit-driverless-cars-ces-2021/?amp",
-      "publishedDateTime": "2021-01-10T21:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-top-25-machine-learning-startups-to-watch-in-2021-based-on-crunchbase.md",
-      "title": "Top 25 Machine Learning Startups To Watch In 2021 Based On Crunchbase",
-      "excerpt": "Throughout 2020, venture capital firms continued expanding into new global markets, with London, New York, Tel Aviv, Toronto, Boston, Seattle and Singapore startups receiving increased funding.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2021/01/10/top-25-machine-learning-startups-to-watch-in-2021-based-on-crunchbase/?sh=1411d09a4038",
-      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2021/01/10/top-25-machine-learning-startups-to-watch-in-2021-based-on-crunchbase/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5dff94624e2917000783b233%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2021/01/10/top-25-machine-learning-startups-to-watch-in-2021-based-on-crunchbase/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2021/01/10/top-25-machine-learning-startups-to-watch-in-2021-based-on-crunchbase/amp/",
-      "publishedDateTime": "2021-01-10T20:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Finance"
-      ]
-    },
-    {
       "path": "_news/2021-01-11-cognitive-services-platform-market-emerging-players-growth-analysis-and-forecast-by-2023.md",
       "title": "Cognitive Services Platform Market: Emerging Players, Growth, Analysis and Forecast by 2023",
       "excerpt": "In the research report, Market Research Future (MRFR), emphasizes that the Global Cognitive Services Platform Market 2020",
@@ -1136,6 +1031,108 @@
       ],
       "topics": [
         "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-09-ai-weekly-the-future-of-tech-policy-after-an-attempted-coup.md",
+      "title": "AI Weekly: The future of tech policy after an attempted coup",
+      "excerpt": "We look at tech and AI policy issues in the U.S. Senate after Georgia runoffs and a coup attempt fueled by misinformation and white supremacy.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/08/ai-weekly-the-future-of-tech-policy-after-an-attempted-coup/",
+      "originalUrl": "https://venturebeat.com/2021/01/08/ai-weekly-the-future-of-tech-policy-after-an-attempted-coup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/GettyImages-1294935650.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/08/ai-weekly-the-future-of-tech-policy-after-an-attempted-coup/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/08/ai-weekly-the-future-of-tech-policy-after-an-attempted-coup/amp/",
+      "publishedDateTime": "2021-01-08T15:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-09-equifax-will-pay-640-million-for-kounts-ai-driven-identity-and-fraud-prevention-tools.md",
+      "title": "Equifax will pay $640 million for Kount’s AI-driven identity and fraud prevention tools",
+      "excerpt": "Equifax will pay $640 million to acquire Kount which uses artificial intelligence to drive its fraud prevention and digital identity services.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/08/equifax-will-pay-640-million-for-kounts-ai-driven-identity-and-fraud-prevention-tools/",
+      "originalUrl": "https://venturebeat.com/2021/01/08/equifax-will-pay-640-million-for-kounts-ai-driven-identity-and-fraud-prevention-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/ErPBAjWW8AEFp9P-e1610139987245.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/08/equifax-will-pay-640-million-for-kounts-ai-driven-identity-and-fraud-prevention-tools/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/08/equifax-will-pay-640-million-for-kounts-ai-driven-identity-and-fraud-prevention-tools/amp/",
+      "publishedDateTime": "2021-01-08T14:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

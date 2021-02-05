@@ -2,110 +2,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_news/2021-01-26-trinamix-unveils-3d-imaging-to-stop-facial-recognition-theft-on-smartphones.md",
-      "title": "Trinamix unveils 3D imaging to stop facial-recognition theft on smartphones",
-      "excerpt": "Trinamix is introducing a 3D imaging solution that helps prevent fraud when someone tries to log into a system using facial recognition.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/26/trinamix-unveils-3d-imaging-to-stop-facial-recognition-theft-on-smartphones/",
-      "originalUrl": "https://venturebeat.com/2021/01/26/trinamix-unveils-3d-imaging-to-stop-facial-recognition-theft-on-smartphones/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/trinamiX-secure-face-authentication-solution-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 731,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/26/trinamix-unveils-3d-imaging-to-stop-facial-recognition-theft-on-smartphones/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/26/trinamix-unveils-3d-imaging-to-stop-facial-recognition-theft-on-smartphones/amp/",
-      "publishedDateTime": "2021-01-26T05:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-edgeq-reveals-more-details-behind-its-next-gen-5gai-chip.md",
-      "title": "EdgeQ reveals more details behind its next-gen 5G/AI chip",
-      "excerpt": "G is the current revolution in wireless technology, and every chip company old and new is trying to burrow their way into this ultra-competitive — but extremely lucrative — market. One of the most interesting new players in the space is EdgeQ,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/01/26/edgeq-reveals-more-details-behind-its-next-gen-5g-ai-chip/",
-      "originalUrl": "https://techcrunch.com/2021/01/26/edgeq-reveals-more-details-behind-its-next-gen-5g-ai-chip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/11/Vinay-Ravuri_headshot.jpg?w=680",
-          "width": 680,
-          "height": 453,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/01/26/edgeq-reveals-more-details-behind-its-next-gen-5g-ai-chip/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/26/edgeq-reveals-more-details-behind-its-next-gen-5g-ai-chip/amp/",
-      "publishedDateTime": "2021-01-26T05:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-26-aeva-to-supply-lidar-sensors-to-self-driving-truck-firm-tusimple.md",
       "title": "Aeva to supply lidar sensors to self-driving truck firm TuSimple",
       "excerpt": "Aeva Inc, a firm founded by former Apple Inc engineers to supply a key self-driving car sensor, said on Tuesday it had reached a deal to supply the sensors for self-driving heavy duty trucks being developed by TuSimple.",
@@ -1219,6 +1115,110 @@
         "AI",
         "AI Ethics",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-25-model-serving-in-java-with-aws-elastic-beanstalk-made-easy-with-deep-java-library.md",
+      "title": "Model serving in Java with AWS Elastic Beanstalk made easy with Deep Java Library",
+      "excerpt": "Deploying your machine learning (ML) models to run on a REST endpoint has never been easier. Using AWS Elastic Beanstalk and Amazon Elastic Compute Cloud (Amazon EC2) to host your endpoint and Deep Java Library (DJL) to load your deep learning models for inference makes the model deployment process extremely",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/model-serving-in-java-with-aws-elastic-beanstalk-made-easy-with-deep-java-library/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/model-serving-in-java-with-aws-elastic-beanstalk-made-easy-with-deep-java-library/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-25T11:31:35-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-25-model-serving-made-easier-with-deep-java-library-and-aws-lambda.md",
+      "title": "Model serving made easier with Deep Java Library and AWS Lambda",
+      "excerpt": "Developing and deploying&nbsp;a deep learning model involves&nbsp;many steps: gathering and cleansing data, designing the model, fine-tuning model parameters, evaluating the results, and going through it again until a desirable result is achieved. Then comes the final step: deploying the model. AWS Lambda&nbsp;is",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/model-serving-made-easier-with-deep-java-library-and-aws-lambda/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/model-serving-made-easier-with-deep-java-library-and-aws-lambda/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/06/1-Graph.jpg",
+          "width": 814,
+          "height": 546,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-25T10:35:41-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
       ]
     }
   ],

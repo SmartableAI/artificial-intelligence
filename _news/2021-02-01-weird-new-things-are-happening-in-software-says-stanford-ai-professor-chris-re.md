@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/weird-new-things-are-happen
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/weird-new-things-are-happening-in-software-says-stanford-ai-professor-chris-re/"
 type: article
 quality: 84
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 3334
     height: 1423
     isCached: true
+
+related:
+  - title: "The rise of AI in Stanford’s CS curricula"
+    excerpt: "AI-related courses experienced large growth, both in terms of the number of courses and the number of students enrolling in these courses."
+    publishedDateTime: 2021-02-05T05:06:00Z
+    webUrl: "https://www.stanforddaily.com/2021/02/04/the-rise-of-ai-in-stanfords-cs-curricula/"
+    type: article
+    provider:
+      name: Stanford Daily
+      domain: stanforddaily.com
+    quality: 37
+    images:
+      - url: "https://wp.stanforddaily.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-04-at-3.00.18-PM.png"
+        width: 1918
+        height: 1296
+        isCached: true
 
 secured: "3qKBsote0oBRj38UddAKHR1bj7B+9SBG3O87fWWmQx7OfFi5LywITQidHj4av6RkawdI+5QJHGQfDYQf+kQPnS/Fmlyx5j/SYlyt0T8t1MjnzZIj7flleUm5ah4YLi/vnCNcrzADAMwD281zrvBTFhQXD/GUpMu+dcow4UNu3nf7ZxYKKId6IXlT7smlaNSl+Ann+yGW7m6ekmft1pXW22kSTP5aqNKua2UgOTSevaI3j1Pn41OLyQQwkkGvK3WmCPb7SX2GhbBuRqgXeAFCras1rsWG2DjCVgXTebHsO8MvFklnl79sXIGfFZFwVXOMBiz8ovyyIgmhZVH/3KPhxGRwqsxej5RUB4hjQt1Rimeeuv+Ua9VrvcqDn8g8QNkjMRtr5BWFsaReSYTpUN0KOfnYsP2/O5AhFNpKRivkH7AI+TtBSdidnX5BNkqFfz/nvHzXYOv7a9gaj8sQYkPZEIYXsvILqRIj6+91CXtMUxWoqwb+NFgcYGNEEKvCYUkoSZ1NDrAGoW5UpXGXRCz+kQ==;QeFfeDKpzZdutdiYXMqRJQ=="
 ---

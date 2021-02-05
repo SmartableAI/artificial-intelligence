@@ -1,30 +1,24 @@
 ---
 category: news
-title: "California to license driverless cars operated by Artificial Intelligence"
-excerpt: "The California Department of Motor Vehicles has officially issued a permit to Baidu USA to begin testing driverless vehicles on public roads in Sunnyvale, California. According to the state Department of Motor Vehicles (DMV),"
-publishedDateTime: 2021-02-02T14:24:00Z
-originalUrl: "https://thehayride.com/2021/02/california-to-license-driverless-cars-operated-by-artificial-intelligence/"
-webUrl: "https://thehayride.com/2021/02/california-to-license-driverless-cars-operated-by-artificial-intelligence/"
-ampWebUrl: "https://thehayride.com/2021/02/california-to-license-driverless-cars-operated-by-artificial-intelligence/?amp_markup=1"
-cdnAmpWebUrl: "https://thehayride-com.cdn.ampproject.org/c/s/thehayride.com/2021/02/california-to-license-driverless-cars-operated-by-artificial-intelligence/?amp_markup=1"
+title: "California to license driverless cars operated by artificial intelligence"
+excerpt: "The California Department of Motor Vehicles has officially issued a permit to Baidu USA to begin testing driverless vehicles on public roads in Sunnyvale, California."
+publishedDateTime: 2021-02-01T21:00:00Z
+originalUrl: "https://www.washingtonexaminer.com/politics/california-to-license-driverless-cars-operated-by-artificial-intelligence"
+webUrl: "https://www.washingtonexaminer.com/politics/california-to-license-driverless-cars-operated-by-artificial-intelligence"
+ampWebUrl: "https://www.washingtonexaminer.com/politics/california-to-license-driverless-cars-operated-by-artificial-intelligence?_amp=true"
+cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/politics/california-to-license-driverless-cars-operated-by-artificial-intelligence?_amp=true"
 type: article
-quality: 73
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: The Hayride
-  domain: thehayride.com
+  name: Washington Examiner
+  domain: washingtonexaminer.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://thehayride.com/wp-content/uploads/2021/02/external-content.duckduckgo.jpg"
-    width: 1280
-    height: 720
-    isCached: true
 
 related:
   - title: "Baidu green light to test driverless autonomous vehicles in California"
@@ -43,21 +37,7 @@ related:
         width: 1024
         height: 538
         isCached: true
-  - title: "SoftBank’s Son expects mass production of driverless cars in two years"
-    excerpt: "SoftBank Group Corp chief executive Masayoshi Son said on Friday he expects mass production of self-driving vehicles to start in two years."
-    publishedDateTime: 2021-01-31T13:38:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/02/01/softbank039s-son-expects-mass-production-of-driverless-cars-in-two-years"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/01/31/1027826.jpg"
-        width: 1240
-        height: 826
-        isCached: true
 
-secured: "r/5BWjwMYzRuYDHW8u3DBwbcTYDzM+tBu5Illsdvjy67CX+CbzIPa9wQXOa6R4iHHjDX3aZlbYlXMpfWSzGpGmvhqFe+nq3XT598zXjohHaf8Azt/vnFYamwzERMSWly6G6vLEk+KaQo3kb4xOio94Z5bHGnDLBNHiH+8l2O0iYDmL0x9ej8jWQiYZwxhLXKbGr1gG4N34kaVTmzQCjxgp7KbpyQ9ctr08l01aMy7WeUH8AsGLGcwfhlZae91lDTwejIXyAppjtFCL/QIsD2KyuOgPWa6GwDW3ZWt8xb1hvtwiivLDnrWYslUHARh4ycrMv3nYsdFvUJsQDeY8suP9EPGj3uZ55vXBtJeJIU9lw=;DAoN3X68VsBfUW//dUNBDA=="
+secured: "58DnJ/CzaJ8nF4zUQbyGlaO3NrfHTO1ZwjDW4toUiF5fbPd4j5l+NfPZI2/IFza6IO4Jyyq5/3xIciP/e+iTYMiBw3uoAoAd51xqzj52JpmFzyQvPZCcNClFHQAAm08LPjWCXRdKQPzbGB+rZne0QNp6OjPG75Y5ewmmU7it/5r03rdNoIZzoAbq38pIjiPNmzqEbDS+/3l5MsxmXstWtzhwo47L9/8Cm/WpYzcC7RHEOp4ihwCZbT+LmynS+ys+WBf2NdELE70NIpU3xqO218f7E1IfowdEkN8m79RviTRKbfPs8FKgg/4/yYkU58hFPyzyi1H+/gohVumG5mVVSHyGuk++cO13oNLVeVW/ala9P9oHbqswf8aJLQoWxn+h5L/XqIhO6hgOiYmmfL/ZNj5b065Z2Z5FjQq6osbkhWm2M5SWFIoc2KgoEjvl1JHLNVP0L5fndN6sa3taItHGo7ARth6x8De/qt5J87cvBCj3afiFAc/C891BM4z9TaHj1XoYEfu9BGFZgarhr3lppA==;iDp8czJ0y4VgDPUz6Hb/rQ=="
 ---
 

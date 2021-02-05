@@ -43,6 +43,22 @@ related:
         width: 750
         height: 375
         isCached: true
+  - title: "What can the world of Fintech expect in 2021?"
+    excerpt: "By Björn Goß, CEO and Co-founder of Stocard Last year was a year like no other as the Covid-19 global pandemic caused us to change how we live and work. The pandemic caused huge challenges for people across the world as we sought to survive in new,"
+    publishedDateTime: 2021-02-05T06:20:00Z
+    webUrl: "https://www.globalbankingandfinance.com/what-can-the-world-of-fintech-expect-in-2021/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/what-can-the-world-of-fintech-expect-in-2021/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/what-can-the-world-of-fintech-expect-in-2021/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 44
+    images:
+      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/06/tech-9-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Budget 2021: Startup ecosystem reacts to fintech provisions announced by FM Nirmala Sitharaman"
     excerpt: "Fintech startups across the board welcomed FM Nirmala Sitharaman's Rs 1,500 crore proposal to boost digital payments, saying it was a testament to how the industry proved it worth during the COVID-19 crisis."
     publishedDateTime: 2021-02-01T14:46:00Z

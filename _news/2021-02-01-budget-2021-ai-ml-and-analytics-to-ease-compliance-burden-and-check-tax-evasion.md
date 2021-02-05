@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/budget-2021-ai-ml-analytics-ease-compliance-
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/budget-2021-ai-ml-analytics-ease-compliance-burden-check-tax-evasion/amp/"
 type: article
 quality: 71
-heat: 171
+heat: 181
 published: true
 
 provider:
@@ -57,6 +57,22 @@ related:
       - url: "https://www.columbusceo.com/apps/pbcsi.dll/bilde?Site=OH&Date=20210202&Category=BUSINESS&ArtNo=210129905&Ref=AR"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Monitoreal provides an AI-smart object detection appliance to deliver advanced analytics and real time alerts"
+    excerpt: "The use of AI-computer vision technology to improve situational awareness and provide highly accurate advanced object detection analytics, reducing false alerts and delivering real time"
+    publishedDateTime: 2021-02-05T05:47:00Z
+    webUrl: "https://www.sourcesecurity.com/tags/video-analytics/news/monitoreal-ai-smart-object-detection-appliance-co-1611327055-ga-co-1612444574-ga-npr.1612450229.html"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/monitoreal-ai-smart-object-detection-appliance-co-1611327055-ga-co-1612444574-ga-npr.1612450229.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/monitoreal-ai-smart-object-detection-appliance-co-1611327055-ga-co-1612444574-ga-npr.1612450229.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 40
+    images:
+      - url: "https://security-img.scdn6.secure.raxcdn.com/news/612/safety-in-smart-cities-how-video-surveillance-keeps-security-front-and-centre-920x533.jpg"
+        width: 612
+        height: 355
         isCached: true
   - title: "Global Cognitive Analytics Market 2020 Size, Market Share, Key Players, Segmentation Development and Forecast by 2025"
     excerpt: "Global Cognitive Analytics Market 2020 by Company, Type and Application, Forecast to 2025 is the latest market report rolled out by MarketsandResearch.biz, one of the world’s leading market research firms."

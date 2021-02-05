@@ -2,101 +2,6 @@
   "page": 50,
   "value": [
     {
-      "path": "_news/2020-12-28-ai-software-market-insights-by-growthresearch-methodology-emerging-trends-and-forecast-by-2025.md",
-      "title": "AI Software Market Insights By Growth,Research Methodology, Emerging Trends and Forecast By 2025",
-      "excerpt": "The AI software market in the legal industry is projected to register a growth of over 28% over the forecast period 2020 - 2025. The law firms have always been at the forefront of using emerging technological advancements for productivity,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-software-market-insights-by-growthresearch-methodology-emerging-trends-and-forecast-by-2025-2020-12-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-software-market-insights-by-growthresearch-methodology-emerging-trends-and-forecast-by-2025-2020-12-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-27T19:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-28-this-woman-entrepreneur-aims-to-make-children-future-ready-by-introducing-them-to-stem-robotics.md",
-      "title": "This woman entrepreneur aims to make children future-ready by introducing them to STEM, robotics",
-      "excerpt": "Edtech startup Whizrobo, founded by husband-wife duo Dimple and Naveen Verma, offers products and training in artificial intelligence and robotics to the K-12 group.",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/herstory/2020/12/woman-entrepreneur-robotics-stem-k-12-qualcomm",
-      "originalUrl": "https://yourstory.com/herstory/2020/12/woman-entrepreneur-robotics-stem-k-12-qualcomm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/4/8e7cc4102d6c11e9aa979329348d4c3e/Untitleddesign16-1609060197399.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/herstory/2020/12/woman-entrepreneur-robotics-stem-k-12-qualcomm/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/herstory/2020/12/woman-entrepreneur-robotics-stem-k-12-qualcomm/amp",
-      "publishedDateTime": "2020-12-27T16:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-28-levelling-the-playing-field.md",
       "title": "Levelling the playing field",
       "excerpt": "IBM has been using AI in its HR processes for several years thanks to the creation of Watson, a natural language computer system predating Amazon’s Alexa, which can answer questions in a human-like way. IBM’s Andi Britt says: “We’ve been doing a ...",
@@ -1175,6 +1080,93 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-25-beyond-the-boombox-the-race-to-artificial-intelligence.md",
+      "title": "Beyond the Boombox: The Race to Artificial Intelligence",
+      "excerpt": "And the most dramatic improvements are yet to come; I’m talking about artificial intelligence, or AI. There’s a furious race underway between semiconductor manufacturers to design the winning AI chip for data centers, self-driving cars, robotics ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneyshow.com/articles/dailyguru-55707/",
+      "originalUrl": "https://www.moneyshow.com/articles/dailyguru-55707/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.moneyshow.com/mscache/keyword-img/technology_06_lrg.jpg",
+          "width": 555,
+          "height": 370,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-25T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MoneyShow.com",
+        "domain": "moneyshow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-25-asia-pacific-machine-learning-market-size-share-2021-analysis-by-manufacturers-regions-type-and-application-to-2023.md",
+      "title": "Asia-Pacific Machine Learning Market Size, Share 2021 Analysis by Manufacturers, Regions, Type and Application to 2023",
+      "excerpt": "The  is estimated to record a significant growth throughout the forecast period. The ICT sector constitutes 4.8% of the European economy. Europe's organization ERDF i.e. European Regional Development",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1101337565/Asia-Pacific-Machine-Learning-Market-Size-Share-2021-Analysis-by-Manufacturers-Regions-Type-and-Application-to-2023",
+      "originalUrl": "https://menafn.com/1101337565/Asia-Pacific-Machine-Learning-Market-Size-Share-2021-Analysis-by-Manufacturers-Regions-Type-and-Application-to-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/banners/ebdc13ce-4.jpg",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-24T21:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

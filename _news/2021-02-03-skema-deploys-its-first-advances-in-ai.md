@@ -40,22 +40,6 @@ related:
         width: 432
         height: 293
         isCached: true
-  - title: "Robust artificial intelligence tools to predict future cancer"
-    excerpt: "Researchers created a risk-assessment algorithm that shows consistent performance across datasets from US, Europe, and Asia. To catch cancer earlier, we"
-    publishedDateTime: 2021-01-31T14:38:00Z
-    webUrl: "https://scienceblog.com/520793/robust-artificial-intelligence-tools-to-predict-future-cancer/"
-    ampWebUrl: "https://scienceblog.com/520793/robust-artificial-intelligence-tools-to-predict-future-cancer/amp/"
-    cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/520793/robust-artificial-intelligence-tools-to-predict-future-cancer/amp/"
-    type: article
-    provider:
-      name: ScienceBlog
-      domain: scienceblog.com
-    quality: 57
-    images:
-      - url: "https://scienceblog.com/wp-content/uploads/2021/01/MIT-Mirai_0-scaled-1.jpg"
-        width: 1350
-        height: 900
-        isCached: true
   - title: "SKEMA deploys its first advances in AI"
     excerpt: "One year after the launch of its strategic plan 2020-2025, SKEMA is pleased to announce several concrete advances especially in"
     publishedDateTime: 2021-02-02T08:38:00Z

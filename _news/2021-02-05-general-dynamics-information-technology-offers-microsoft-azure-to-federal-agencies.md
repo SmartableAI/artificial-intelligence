@@ -3,8 +3,8 @@ category: news
 title: "General Dynamics Information Technology Offers Microsoft Azure to Federal Agencies"
 excerpt: "General Dynamics Information Technology (GDIT), a business unit of General Dynamics (NYSE:GD), announced today the signing of Microsoft Partner Agreement for Online Services-Government (AOS-G). The new agreement provides federal customers with the capability to access Azure services and offerings,"
 publishedDateTime: 2021-02-04T17:59:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-government-business-and-finance-corporate-news-products-and-services-7c7c2146254e7c0b1d0b8fe0b781d921"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-government-business-and-finance-corporate-news-products-and-services-7c7c2146254e7c0b1d0b8fe0b781d921"
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-government-business-and-finance-corporate-news-products-and-services-7c7c2146254e7c0b1d0b8fe0b781d921/gallery/c64d90f26effc8bf60e5e2bbe54359e7"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-government-business-and-finance-corporate-news-products-and-services-7c7c2146254e7c0b1d0b8fe0b781d921/gallery/c64d90f26effc8bf60e5e2bbe54359e7"
 type: article
 quality: 48
 heat: -1
@@ -240,6 +240,6 @@ related:
       domain: businesswire.com
     quality: 26
 
-secured: "odIrq9JZfFlTY8t4t66qkZXfwsRLmamIbrrbOvjT4wCONYra4wOPpfKITjYOG37p+0RBJf4GqYhmq+2J0FmcWQm0M+417MnzLD/StU8jVHrrs2z3/SHd522PtUayhmG0p8oaVf8nR4d+CAk/j7lGRZup5ISx4+7lC+qAv94r8ufGDToia8KJY0fkUS/DOYQ3raTodiNkloLBYEzMbPjuKieLUgp73+hHA6pjY4vXr2b64LMmo6DU7Me+ZFYoi7Ds10m0YDbRG/7OTqUDW0I1kV/4Ga+W1d+WvF5WG0LeOYeeHTtzBB14dT/B4+WShOJVRwEI3rr9eW+nwgmz5xf++sSoBC5RcQ/oQ99vPqDMZtU=;dKC0Nkm1tfenlBcgbZXCEg=="
+secured: "8F0thxknVpMo1A9dEo9qo3Z6Di7rtL4oCqSpMlX32YRk69DJuP0E/7lVuM7M6hArd7avc4Uwm1iuU1RK5OBXAgcRxBhczb0JP9A66oCdTL+Db/1AwfCFF8El9MTiFUxUvb9zdWvb6ZC6Rn8r1HbuWyGg5u/8Oo0EcwWQxCLY4vBKkRgGBygMvCSpAO929dy7Cx7Q2o4kFTITj2Uk2f8zuBEDGfafpyks9eoKlqFft6QHYCe2ER4HITBq6x3FPCetUE4tCBPpTSdRr2GcNR9LSbLPdQppcqRjGEooUhHdG2T2nXWSmxpwp9sXG1FdLOZh+mm4LVDL6+Ai0ZviHkmz5wpM2PFXThTzTk12WyCXDF8=;7Nm6Wm4Vmd3uXTC6abeXFw=="
 ---
 

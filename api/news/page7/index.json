@@ -2,92 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2021-01-30-inbox-it-brings-advanced-artificial-intelligence-to-targeted-email-marketing.md",
-      "title": "INbox-iT Brings Advanced Artificial Intelligence to Targeted Email Marketing",
-      "excerpt": "Hackensack, NJ – iNbox-iT co-founders Frank Corallo and Henry Skull bring some real heat to the email marketing field. Corallo arrives with a long track record of success, serving as",
-      "sourceUrl": null,
-      "webUrl": "https://www.wboc.com/story/43261705/inbox-it-brings-advanced-artificial-intelligence-to-targeted-email-marketing",
-      "originalUrl": "https://www.wboc.com/story/43261705/inbox-it-brings-advanced-artificial-intelligence-to-targeted-email-marketing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.getnews.info/uploads/00180c8d128c47aa66a8538f335f51c3.png",
-          "width": 475,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-29T16:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WBOC",
-        "domain": "wboc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-01-30-minneapolis-st-paul-airport-gets-facial-recognition-tech.md",
-      "title": "Minneapolis-St. Paul Airport gets facial recognition Tech",
-      "excerpt": "St. Paul Airport gets facial recognition Tech (TNS) - New facial recognition technology to speed international travelers",
-      "sourceUrl": null,
-      "webUrl": "https://www.compsmag.com/news/technology/minneapolis-st-paul-airport-gets-facial-recognition-tech/",
-      "originalUrl": "https://www.compsmag.com/news/technology/minneapolis-st-paul-airport-gets-facial-recognition-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/Minneapolis-St-Paul-Airport-gets-facial-recognition-Tech.jpg",
-          "width": 940,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.compsmag.com/news/technology/minneapolis-st-paul-airport-gets-facial-recognition-tech/amp/",
-      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/minneapolis-st-paul-airport-gets-facial-recognition-tech/amp/",
-      "publishedDateTime": "2021-01-29T15:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows",
-        "domain": "compsmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-30-dial-tests-computer-vision-for-added-security-distancing.md",
       "title": "DIAL tests ‘computer vision’ for added security, distancing",
       "excerpt": "After installing over 500 overhead sensors inside Terminal-3 of the Delhi airport to ensure social distancing, Delhi International Airport .",
@@ -963,7 +877,7 @@
     {
       "path": "_news/2021-01-30-softbanks-son-expects-mass-production-of-driverless-cars-in-two-years.md",
       "title": "SoftBank's Son expects mass production of driverless cars in two years",
-      "excerpt": "Automakers and tech companies, including Alphabet Inc’s Waymo and Tesla Inc ... in public companies he thinks are frontrunners in the artificial intelligence (AI) race.",
+      "excerpt": "Son, who made his name for investing early in startups such as China’s Alibaba Group had said he will continue to take stakes in public companies he thinks are frontrunners in the artificial ...",
       "sourceUrl": null,
       "webUrl": "https://www.reuters.com/article/us-davos-meeting-son-autonomous-idUSKBN29Y279",
       "originalUrl": "https://www.reuters.com/article/us-davos-meeting-son-autonomous-idUSKBN29Y279",
@@ -1183,6 +1097,99 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-cadeera-is-doing-ai-visual-search-for-home-decor.md",
+      "title": "Cadeera is doing AI visual search for home decor",
+      "excerpt": "In recent years we’ve seen a whole bunch of visual/style fashion-focused search engines cropping up, tailored to helping people find the perfect threads to buy online by applying computer vision and other AI technologies to perform smarter-than-keywords visual search which can easily match",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/01/29/cadeera-is-doing-ai-visual-search-for-home-decor/",
+      "originalUrl": "https://techcrunch.com/2021/01/29/cadeera-is-doing-ai-visual-search-for-home-decor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/01/Screenshot-2021-01-29-at-16.29.23.png?w=1024",
+          "width": 1024,
+          "height": 536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/01/29/cadeera-is-doing-ai-visual-search-for-home-decor/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/29/cadeera-is-doing-ai-visual-search-for-home-decor/amp/",
+      "publishedDateTime": "2021-01-29T07:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-pinecone-emerges-from-stealth-with-10-million-to-accelerate-ai-workloads.md",
+      "title": "Pinecone emerges from stealth with $10 million to accelerate AI workloads",
+      "excerpt": "Pinecone, a startup developing database technology to support AI workloads, emerged from stealth with $10 million in funding.Read MoreRead more",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/pinecone-emerges-from-stealth-with-$10-million-to-accelerate-ai-workloads-9748315",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/pinecone-emerges-from-stealth-with-$10-million-to-accelerate-ai-workloads-9748315",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/pinecone-emerges-from-stealth-with-$10-million-to-accelerate-ai-workloads-9748315",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/pinecone-emerges-from-stealth-with-$10-million-to-accelerate-ai-workloads-9748315",
+      "publishedDateTime": "2021-01-29T07:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

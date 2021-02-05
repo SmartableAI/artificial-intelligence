@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Atlazo Launches the World's First Edge AI System-On-Chip (SoC) for Tiny Devices"
-excerpt: "AI SoC, AZ-N1, for smart tiny devices. The device is industry's first fully integrated AI SoC featuring a highly power efficient Artificial Intelligence and Machine Learning processor (Axon I TM) for audio,"
-publishedDateTime: 2021-01-27T13:53:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/atlazo-launches-the-world-s-first-edge-ai-system-on-chip-soc-for-tiny-devices-1030007244"
-webUrl: "https://markets.businessinsider.com/news/stocks/atlazo-launches-the-world-s-first-edge-ai-system-on-chip-soc-for-tiny-devices-1030007244"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/atlazo-launches-the-world-s-first-edge-ai-system-on-chip-soc-for-tiny-devices-1030007244"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/atlazo-launches-the-world-s-first-edge-ai-system-on-chip-soc-for-tiny-devices-1030007244"
+excerpt: "Atlazo, Inc. today announced the launch of its first-generation AI SoC, AZ-N1, for smart tiny devices. The device is industry's first"
+publishedDateTime: 2021-01-27T05:23:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/atlazo-launches-the-worlds-first-edge-ai-system-on-chip-soc-for-tiny-devices-301215848.html"
+webUrl: "https://www.prnewswire.com/news-releases/atlazo-launches-the-worlds-first-edge-ai-system-on-chip-soc-for-tiny-devices-301215848.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "ZVIVQWkpWG5fVnye9JCj4cKpUAmk0Rm4kDwEpCLmYCNI5qMzOeP2BFztFix/OjZ/5Wr4b3uTrzx1EQI+73665hsF0aHYwdieYPu/Xr2CsnylqoYOmjxpO2n8OqhIXYjCr+QYC+yEkZd5K8vIvzeXLm+7M/X4eeGe9O58fzCqhwNS9Kx1d4ZGpRMOXwuhKzDM6SNC+Va7e8CSvhAuGDnytbVRclkTdcqm9m53n0CSaZxEWeXaakyKdOR8JrS7T9vrR5dWM47d0pot0zKZoQa4JC3h6LrZgSiRHyy8WOcFg9VmS7OHCpEVVuc8oE8lPsRwu73oUOsEh9LH6zWlo+Dub8KwrNbg4OoCgi4Gc1BtpL4=;xBuwjxu++Sw9Q2z+t35TzQ=="
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "AVYW28kqoGPGc7K0vsIB1Qm9Sv1bC5Jxk9Q7TOlS66TSCFQC6WizH3cF3bZm9SIdKL/sMPt/ndhcNR6CtxHUscfr4uDuPaKWfFFjOJGUJ0MKLX8TRaMFRKWqmRIMqHpJw3PuGcQ8Se1IP9mL48aNd2guWkul3YuKRVZQ5QoiCOD1en9XUefHR2FKG2xXFe5/+A641R7ZytM/KrTK4xKsFGfqdlZlRPZFwSDQ8oGPRwQ3apL+ISbtGZ1fVEDoGQNYaPW/307FHiHJ5LQuB4yTo+yERpDDJxBD+VDUyDFve/vTFkDM9VwBy05v+3omOJIjSyERCIRX2vWqNA1z+cbwLM8/jn51+ESp/E+dMOnVLy4=;2shy+kaEACT9a/eawMn7Ww=="
 ---
 

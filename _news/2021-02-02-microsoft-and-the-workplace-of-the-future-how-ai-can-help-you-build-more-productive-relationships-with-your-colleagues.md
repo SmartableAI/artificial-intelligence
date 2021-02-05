@@ -112,6 +112,33 @@ related:
         width: 399
         height: 225
         isCached: true
+  - title: "Etihad Airways transforms operations with Microsoft AI capabilities"
+    excerpt: "The Finance and Digital, Technology and Innovation divisions worked with Microsoft to modernize their payment inspection process using cognitive services"
+    publishedDateTime: 2021-02-05T05:44:00Z
+    webUrl: "https://www.zawya.com/mena/en/business/story/Etihad_Airways_transforms_operations_with_Microsoft_AI_capabilities-SNG_199629494/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_199629494/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_199629494/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 74
+    images:
+      - url: "https://images.zawya.com/images/cia/zAmp/201122084121FMQX.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Etihad partners with Microsoft AI to transform finance operations"
+    excerpt: "Etihad Airways has carried out a transformation of its Finance Operations through harnessing the power of Microsoft AI. The Finance and Digital, Technology and Innovation divisions worked with Microsoft to modernise their payment inspection process using cognitive services."
+    publishedDateTime: 2021-02-02T00:00:00Z
+    webUrl: "https://www.zawya.com/mena/en/business/story/Etihad_partners_with_Microsoft_AI_to_transform_finance_operations-SNG_199392366/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_199392366/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_199392366/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 71
   - title: "Shell, C3 AI, Baker Hughes, and Microsoft Launch the Open AI Energy Initiative"
     excerpt: "Shell, C3 AI, Baker Hughes, and Microsoft have launched the Open AI Energy Initiative (OAI), a first-of-its-kind open ecosystem of artificial intelligence (AI)-based solutions for the energy and process industries,"
     publishedDateTime: 2021-02-02T08:09:00Z

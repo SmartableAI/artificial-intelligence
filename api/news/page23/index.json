@@ -2,100 +2,6 @@
   "page": 23,
   "value": [
     {
-      "path": "_news/2021-01-19-ai-plus-iot-are-among-the-most-important-ingredients-in-pandemic-vaccine-cold-chain.md",
-      "title": "AI Plus IoT Are Among The Most Important Ingredients In Pandemic Vaccine Cold-Chain",
-      "excerpt": "Startup Youtiligent has developed an AIoT-based technology to help companies keep vaccines cold across complex distribution supply chains.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sap/2021/01/19/ai-plus-iot-are-among-the-most-important-ingredients-in-pandemic-vaccine-cold-chain/",
-      "originalUrl": "https://www.forbes.com/sites/sap/2021/01/19/ai-plus-iot-are-among-the-most-important-ingredients-in-pandemic-vaccine-cold-chain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60008351fdb13aa729a4f062%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sap/2021/01/19/ai-plus-iot-are-among-the-most-important-ingredients-in-pandemic-vaccine-cold-chain/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2021/01/19/ai-plus-iot-are-among-the-most-important-ingredients-in-pandemic-vaccine-cold-chain/amp/",
-      "publishedDateTime": "2021-01-19T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-global-healthcare-artificial-intelligence-market-2020-2027-growing-incorporation-of-ai-in-clinical-trials-to-accelerate-new-drug-launches.md",
-      "title": "Global Healthcare Artificial Intelligence Market, 2020-2027 - Growing Incorporation of AI in Clinical Trials to Accelerate New Drug Launches",
-      "excerpt": "The global healthcare artificial intelligence (AI ... growing demand for personalized therapy, positive impact due to COVID-19, rising demand to reduce healthcare costs, and rise in volume ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/global-healthcare-artificial-intelligence-market-2020-2027---growing-incorporation-of-ai-in-clinical-trials-to-accelerate-new-drug-launches-301210783.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/global-healthcare-artificial-intelligence-market-2020-2027---growing-incorporation-of-ai-in-clinical-trials-to-accelerate-new-drug-launches-301210783.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook",
-          "width": 800,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-19T05:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-19-aiml-innovations-inc-introduces-health-gauge.md",
       "title": "AI/ML Innovations Inc. Introduces Health Gauge",
       "excerpt": "PRNewswire/ -- (\"AIML\") (CSE – AIML) is pleased to introduce its operating subsidiary, Health Gauge. Health Gauge was incorporated for the purpose of commercializing new technology that could revolutionize ways to measure and track personal health biometrics,",
@@ -1132,12 +1038,12 @@
       ]
     },
     {
-      "path": "_news/2021-01-19-healthcare-artificial-intelligence-market-2027-market-is-expected-to-grow-at-a-cagr-of-414-researchandmarketscom.md",
-      "title": "Healthcare Artificial Intelligence Market, 2027 – Market is Expected to Grow at a CAGR of 41.4% – ResearchAndMarkets.com",
-      "excerpt": "Global Forecast to 2027” report has been added to ResearchAndMarkets.com’s offering. The global healthcare artificial intelligence (AI) market is expected to grow at a CAGR of 41.4% from 2020 to 2027 to reach $51.",
+      "path": "_news/2021-01-19-neurophth-and-aavnergene-enter-strategic-aav-capsids-partnership-for-next-generation-ophthalmic-gene-therapy.md",
+      "title": "Neurophth and AAVnerGene Enter Strategic AAV Capsids Partnership for Next-Generation Ophthalmic Gene Therapy",
+      "excerpt": "Neurophth Therapeutics, Inc., a subsidiary of Wuhan Neurophth Biotechnology Ltd. gene therapy company (hereafter Neurophth), and AAVnerGene Inc., a specializing AAV technology company, today announced a strategic partnership to provide Neurophth with worldwide rights to mutually select adeno-associated virus (AAV) capsids for the next generation ophthalmic gene therapy.",
       "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/healthcare-artificial-intelligence-market-2027-market-is-expected-to-grow-at-a-cagr-of-41-4-researchandmarkets-com/",
-      "originalUrl": "https://www.financialbuzz.com/healthcare-artificial-intelligence-market-2027-market-is-expected-to-grow-at-a-cagr-of-41-4-researchandmarkets-com/",
+      "webUrl": "https://www.medindia.net/health-press-release/Neurophth-and-AAVnerGene-Enter-Strategic-AAV-Capsids-Partnership-for-Next-Generation-Ophthalmic-Gene-Therapy-506755-1.htm",
+      "originalUrl": "https://www.medindia.net/health-press-release/Neurophth-and-AAVnerGene-Enter-Strategic-AAV-Capsids-Partnership-for-Next-Generation-Ophthalmic-Gene-Therapy-506755-1.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1147,11 +1053,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-19T00:44:00-08:00",
+      "publishedDateTime": "2021-01-19T00:19:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
+        "name": "Medindia",
+        "domain": "medindia.net",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1162,6 +1068,100 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-us-lawmakers-aims-to-curtail-face-recognition.md",
+      "title": "US lawmakers aims to curtail face recognition",
+      "excerpt": "Microsoft and Amazon halted facial recognition sales to police this month following nationwide protests that have demanded an end to law enforcement tactics that unfairly target African Americans and other minorities.",
+      "sourceUrl": null,
+      "webUrl": "https://tribune.com.pk/story/2280538/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers",
+      "originalUrl": "https://tribune.com.pk/story/2280538/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": " https://i.tribune.com.pk/media/images/9231611038223-0/9231611038223-0.jpg  ",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tribune.com.pk/story/2280538/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers?amp=1",
+      "cdnAmpWebUrl": "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2280538/us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers?amp=1",
+      "publishedDateTime": "2021-01-19T00:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Express Tribune",
+        "domain": "tribune.com.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-prosus-bets-on-ai-to-help-reshape-indias-350-billion-farm-industry.md",
+      "title": "Prosus Bets on AI to Help Reshape India’s $350 Billion Farm Industry",
+      "excerpt": "Prosus NV is investing in agritech company DeHaat in a bet on India’s $350 billion farming industry. The Dutch e-commerce group with assets all round the globe led a Series C funding round of $30 million that DeHaat will use to hire more staff,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-01-19/prosus-backs-dehaat-in-bet-on-india-s-350-billion-farm-sector",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-01-19/prosus-backs-dehaat-in-bet-on-india-s-350-billion-farm-sector",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRIiWt3lRAGI/v1/360x-1.jpg",
+          "width": 360,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2021-01-19/prosus-backs-dehaat-in-bet-on-india-s-350-billion-farm-sector",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2021-01-19/prosus-backs-dehaat-in-bet-on-india-s-350-billion-farm-sector",
+      "publishedDateTime": "2021-01-18T23:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

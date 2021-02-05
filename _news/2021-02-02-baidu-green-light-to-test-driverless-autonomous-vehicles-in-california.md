@@ -9,7 +9,7 @@ ampWebUrl: "https://galusaustralis.com/2021/02/1047997/baidu-green-light-to-test
 cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2021/02/1047997/baidu-green-light-to-test-driverless-autonomous-vehicles-in-california/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,36 +27,17 @@ images:
     isCached: true
 
 related:
-  - title: "California to license driverless cars operated by Artificial Intelligence"
-    excerpt: "The California Department of Motor Vehicles has officially issued a permit to Baidu USA to begin testing driverless vehicles on public roads in Sunnyvale, California. According to the state Department of Motor Vehicles (DMV),"
-    publishedDateTime: 2021-02-02T14:24:00Z
-    webUrl: "https://thehayride.com/2021/02/california-to-license-driverless-cars-operated-by-artificial-intelligence/"
-    ampWebUrl: "https://thehayride.com/2021/02/california-to-license-driverless-cars-operated-by-artificial-intelligence/?amp_markup=1"
-    cdnAmpWebUrl: "https://thehayride-com.cdn.ampproject.org/c/s/thehayride.com/2021/02/california-to-license-driverless-cars-operated-by-artificial-intelligence/?amp_markup=1"
+  - title: "California to license driverless cars operated by artificial intelligence"
+    excerpt: "The California Department of Motor Vehicles has officially issued a permit to Baidu USA to begin testing driverless vehicles on public roads in Sunnyvale, California."
+    publishedDateTime: 2021-02-01T21:00:00Z
+    webUrl: "https://www.washingtonexaminer.com/politics/california-to-license-driverless-cars-operated-by-artificial-intelligence"
+    ampWebUrl: "https://www.washingtonexaminer.com/politics/california-to-license-driverless-cars-operated-by-artificial-intelligence?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/politics/california-to-license-driverless-cars-operated-by-artificial-intelligence?_amp=true"
     type: article
     provider:
-      name: The Hayride
-      domain: thehayride.com
-    quality: 73
-    images:
-      - url: "https://thehayride.com/wp-content/uploads/2021/02/external-content.duckduckgo.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "SoftBank’s Son expects mass production of driverless cars in two years"
-    excerpt: "SoftBank Group Corp chief executive Masayoshi Son said on Friday he expects mass production of self-driving vehicles to start in two years."
-    publishedDateTime: 2021-01-31T13:38:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/02/01/softbank039s-son-expects-mass-production-of-driverless-cars-in-two-years"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/01/31/1027826.jpg"
-        width: 1240
-        height: 826
-        isCached: true
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 53
 
 secured: "pdRBIpQcG6/ceLs18fkaaswg0ABe9FOcuLbqmMig+r13iTEVG+L4ARvQEDzB9BR3or0s6ofoTzqW7pDhPFDzUDJeP8w1jdljCBpFHsmUWma2TGcbjEwcO5SCt8iciudAEPtn3FJ6TG7DMyniwChGFk0p3KU0xuejfxTNiRlWo3QoHSp0ob0hOf+YIfEUmrIcGZlM1u9lAu3jK5kbVHmVXhG1zvIZ6X8Gt0ndqfjPGOuOMDKDD1dZ0sqepBjj2UmLmJbSlkHFaw3tv0bJgAHoabHYzrVWOXX6axd0ymyo5maFOYAqpV2KJtXzb6tUYuJDaG2FOdprHedZv62RR9o8gex3Ua5KAoe5+bvdJmlflepeA6QdyttJSyLvGUqnT9r/CfeXAfj0gpdim3C8grixHoNtQqkDxkKadWQDCAQIEXNpIKKuYwyPfG4kzf/961PuyQjmYx0aYJd3qLriyeVLORXtPFxnM5VVsdcfDwB83uzNhwBXxGJ04u5LSBemmLg+oBATVg5dYG5br7sh6TfNdQ==;gtD6HbC51K0b8OQAUE8wtQ=="
 ---
