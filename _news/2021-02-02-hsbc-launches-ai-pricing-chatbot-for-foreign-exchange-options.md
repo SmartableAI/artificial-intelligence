@@ -41,6 +41,15 @@ related:
         width: 550
         height: 366
         isCached: true
+  - title: "2021 Predictions: Cashless Society, Autopay Systems Fueled by AI, and New Digital Banking Standards"
+    excerpt: "With FinTech at the forefront of this recent innovation, here are my five predictions on the horizon for the banking industry and financial institutions in 2021: 1. The global impact of the pandemic will create a hyperdrive to digital banking solutions."
+    publishedDateTime: 2021-02-02T18:09:00Z
+    webUrl: "https://www.finextra.com/blogposting/19834/2021-predictions-cashless-society-autopay-systems-fueled-by-ai-and-new-digital-banking-standards"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 20
 
 secured: "XnNfo3Y2LrTwVRNK/Ve3LVS6yDiW0kzavMlNViuJkYCtl63UnQG67evrqcsBkc94KsedO7pytbbYl4eNtIKqOnCvsAduP8Ckx0UOENjksASHEKufb+E6CPqTX3PqXKuZ3OMxvbsEIt0KrKPvJwHPxh7HP90xZjErtNWh2i9axeE7eadbFbm/R/4+BPwQ9G1j1NJKyBuPrXepbgp1mAiJG+W/cWJlps6T2qgFJx5wFpPm975xT3nQ1eae40Q/7PmAp94UQ4r610J8ycyNZT7PZ7jazUAD5Nu0fmVxIx0URhkOL4WODg5JfD37/ZdI8CGO8Z5LTNhEiGsoTNisDaiVTJgKsS2MC+riuzS/Y/mgXsjBU2l45zbxpKcZLFNXmDVT1stPdeS8Ix0QaWmRYlWDi4QrW4VVx0O1x2Qafy31Y37SadPW8y0HqiZEaBDbRZkSVQLbdrUN9GCD7SBV3cNcHQ1MXGxSmv9IBIWmWa3BdepyzlmTtFeLZ0tI4Iy89+easgPy39nHu/HZ/cSbK7LVuw==;gSrtI1h+4k2d4eG7HY5cHg=="
 ---

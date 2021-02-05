@@ -363,6 +363,49 @@
       ]
     },
     {
+      "path": "_news/2021-01-31-artificial-intelligence-for-disparities-in-knee-pain-assessment.md",
+      "title": "Artificial intelligence for disparities in knee pain assessment",
+      "excerpt": "An algorithm developed through machine learning on existing radiological data from diverse people has the potential to improve the diagnosis and management of knee pain from osteoarthritis and reduce racial disparities in the assessment of knee pain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/s41591-020-01196-3",
+      "originalUrl": "https://www.nature.com/articles/s41591-020-01196-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-020-01196-3/MediaObjects/41591_2020_1196_Figa_HTML.png",
+          "width": 406,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-30T13:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-29-artificial-intelligence-ai-in-manufacturing-market-analysis-by-growth-emerging-trends-and-future-opportunities.md",
       "title": "Artificial intelligence (AI) in manufacturing Market Analysis By Growth, Emerging Trends and Future Opportunities",
       "excerpt": "Artificial intelligence (AI) in manufacturing Market Size, Demand-sales, Suppliers By Key Applications Detailed Analysis and Growth Aspects on Manufacturing Landscapes and Regional Analysis \"Market Overview: Global Artificial Intelligence in Manufacturing Market is valued approximately USD 1 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 57.",
@@ -1422,58 +1465,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-why-chicago-is-emerging-an-ai-life-sciences-leader.md",
-      "title": "Why Chicago Is Emerging An AI-Life Sciences Leader",
-      "excerpt": "Chicago is becoming a world leader in a new frontier of precision medicine. And with continued momentum from Chicago-based academic research, venture funded startups and established enterprises—we can expect this sector to continue to expand in the years to come.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/peterandrewwilkins/2021/01/20/why-chicago-is-emerging-an-ai-life-sciences-leader/",
-      "originalUrl": "https://www.forbes.com/sites/peterandrewwilkins/2021/01/20/why-chicago-is-emerging-an-ai-life-sciences-leader/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60082c5cedfffcad1b332bb6%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5000%26cropY1%3D46%26cropY2%3D2390",
-          "width": 1200,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/peterandrewwilkins/2021/01/20/why-chicago-is-emerging-an-ai-life-sciences-leader/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peterandrewwilkins/2021/01/20/why-chicago-is-emerging-an-ai-life-sciences-leader/amp/",
-      "publishedDateTime": "2021-01-20T05:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

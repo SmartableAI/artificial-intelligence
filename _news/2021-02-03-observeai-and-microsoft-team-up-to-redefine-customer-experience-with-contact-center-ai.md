@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
-excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance"
-publishedDateTime: 2021-02-02T22:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
-webUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
+excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
+publishedDateTime: 2021-02-03T08:22:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
+webUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
 type: article
-quality: 26
+quality: 46
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Microsoft's cutting-edge machine-learning tool moves from the lab to the mainstream"
@@ -129,6 +135,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "General Dynamics Information Technology Offers Microsoft Azure to Federal Agencies"
+    excerpt: "General Dynamics Information Technology, a business unit of General Dynamics, announced today the signing of Microsoft Partner Agreement for Online Services-Government. Through the recently awarded Defense Enterprise Office Solution contract,"
+    publishedDateTime: 2021-02-04T17:30:00Z
+    webUrl: "https://www.nasdaq.com/press-release/general-dynamics-information-technology-offers-microsoft-azure-to-federal-agencies"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 58
   - title: "Microsoft Data & AI Day on March 11"
     excerpt: "Microsoft Denmark is proud to present Microsoft Data & AI Day! Within the past few years, artificial intelligence has accelerated the digitization of businesses and societies rapidly. As previous entry barriers have fallen AI has undergone a tremendous democratization – and it is now easier than ever before to get started"
     publishedDateTime: 2021-02-01T14:37:00Z
@@ -181,20 +196,6 @@ related:
       - url: "https://www.yankodesign.com/images/design_news/2021/01/these-in-ear-translator-earphones-help-you-fluently-speak-in-as-many-as-40-different-languages/worlds_first_bi_directional_translation_earbuds-510x314.jpg"
         width: 510
         height: 314
-        isCached: true
-  - title: "General Dynamics Information Technology Offers Microsoft Azure to Federal Agencies"
-    excerpt: "General Dynamics Information Technology (GDIT), a business unit of General Dynamics (NYSE:GD), announced today the signing of Microsoft Partner Agreement for Online Services-Government (AOS-G). The new agreement provides federal customers with the capability to access Azure services and offerings,"
-    publishedDateTime: 2021-02-04T17:59:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-government-business-and-finance-corporate-news-products-and-services-7c7c2146254e7c0b1d0b8fe0b781d921/gallery/c64d90f26effc8bf60e5e2bbe54359e7"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 48
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Microsoft Says It's Time to Attack Your Machine-Learning Models"
     excerpt: "With access to some training data, Microsoft's red team recreated a machine-learning system and found sequences of requests that resulted in a denial-of-service."
@@ -253,6 +254,6 @@ related:
         height: 450
         isCached: true
 
-secured: "7qzVqbj7K2cO3Kbyj8SoA19pM9hAZXp/gY/0pt8uaLtW3uZMVf++GG1WVxvWLPddGH3myxTpCazAK2/gPaaSjykO0g6niZ7EtsrfiYLYFUOyAdIlTOgL9Mt0xTpBX2tQzttgw3urNOct+wROdtxhJhqnoaYXmbrbPVL3XohLXNmqAm/R3bFHta1pO+D3cSPkTO6YFljJV1/vH+1ktKl9dp/LEDZIh3yO1Ol6CotlfQA/Hohmw/iwYoi27zl/RnKW2KRGRC5Q/k8e3ghu/+TqtplXF4/1GslWWQvAIjfKp/WtJtGuv8ZvpV4jVieju5vUIBt6eNOx//MkzIfHD6jjtypGvSTG03Xaj2u2Gln9uGE=;XTq5ifzd5OxvpgNxrGXUFA=="
+secured: "dQcjKBOGQMdWzOKEhJ6IJeD5+s95ww/raC4D4ATrwf7Y3KjDS/Yj3lhiSowsCsX4a64zLLWx9qITtj69JUZ2M9+1AFQR2FVthNEEiEJBNeK8N0tvg3OknGhq6xvgooROSX4BXWAXzr0X9voedU1mU8KahNIf/KzHCqyqYNgkS1VwFXTh91NAaYgX+Nq2x+sugVWyQn4fO1Lb05D5YCtXbJmg/3CWo+F9Ksdo4yOdwTn2v3IKMthhssnwsNHQHlzjio1xmxMB+h987ZbYGx+gT1+2IrXP5SdnNQ4o0cZ9QVLyPvleoCVLfvREG06Tnqb+hxs8jnNXpHJWHxkRXAKBCJ6DFZ2JOAjgqmBlGM6x3Bc=;HOyVNFucyzyxG6GnJ0X7GA=="
 ---
 

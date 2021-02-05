@@ -166,6 +166,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "General Dynamics Information Technology to sell Microsoft Azure to US agencies, AWS to Defense"
+    excerpt: "General Dynamics Information Technology will offer Microsoft Azure to all of its federal customers, and make Amazon Web Services available to Defense agencies through the milCloud 2.0 contract. For more breaking data center news,"
+    publishedDateTime: 2021-02-05T12:04:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/general-dynamics-information-technology-sell-microsoft-azure-us-agencies-aws-defense/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 59
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/ConnectedSoldier.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "SAS Teams With Microsoft To Offer Viya Analytics On Azure"
     excerpt: "Big data software vendor SAS is making its Viya AI, analytics and data management system available on the Microsoft Azure cloud platform."
     publishedDateTime: 2021-02-03T01:38:00Z

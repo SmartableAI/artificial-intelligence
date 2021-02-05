@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "2021 State of Marketing AI Report"
-    excerpt: "The State of Marketing AI from Marketing AI Institute and Drift provides benchmarks on AI in marketing and the future of marketing AI. Get the FREE report."
-    publishedDateTime: 2021-02-02T13:01:00Z
-    webUrl: "https://www.drift.com/insider/learn/books-reports/state-of-marketing-ai/"
-    type: article
-    provider:
-      name: Drift
-      domain: drift.com
-    quality: 58
-    images:
-      - url: "https://www.drift.com/wp-content/uploads/2021/02/StateOfMarketingAI-unfurl.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Artificial Intelligence Market: Size, Share, Outlook, and Global Opportunity Analysis, 2021-2026"
     excerpt: "Wiseguyreports.Com Adds \"Artificial Intelligence -Market Demand, Growth, Opportunities and Analysis Of Top Key Player Forecast To 2023\" To Its Research Database Artificial Intelligence is one of the fastest growing areas of computer science,"
     publishedDateTime: 2021-02-04T01:43:00Z
@@ -135,6 +121,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 31
+  - title: "Worldwide Machine Learning Industry to 2030 - Featuring BigML, Featurespace and Google Among Others - ResearchAndMarkets.com"
+    excerpt: "The \"Machine Learning Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2020-2030\" report has been added to ResearchAndMarkets.com's offering. A latest study collated and analyzes the historical and present-day"
+    publishedDateTime: 2021-02-05T11:21:00Z
+    webUrl: "https://www.lelezard.com/en/news-19636624.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 27
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
+        width: 421
+        height: 421
+        isCached: true
   - title: "Artificial Intelligence in Medicine Market to Witness a CAGR of 49.6% During Forecast Period to 2025"
     excerpt: "Allied Analytics –:Artificial Intelligence in Medicine Market by Product Type, Technology, and Application: Global Opportunity Analysis and Industry Forecast, 2017-2023,” the market was valued at $719 million in 2017 and is estimated to"
     publishedDateTime: 2021-02-05T04:02:00Z

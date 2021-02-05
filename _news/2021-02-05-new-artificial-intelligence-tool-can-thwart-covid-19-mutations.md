@@ -6,7 +6,7 @@ publishedDateTime: 2021-02-05T10:14:00Z
 originalUrl: "https://scitechdaily.com/new-artificial-intelligence-tool-can-thwart-covid-19-mutations/"
 webUrl: "https://scitechdaily.com/new-artificial-intelligence-tool-can-thwart-covid-19-mutations/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://scitechdaily.com/images/AI-Coronavirus-Concept.jpg"
@@ -185,6 +186,6 @@ related:
         height: 630
         isCached: true
 
-secured: "vDupA+YwQ1diiflXwNZAJc0YYIZNX4wgmtmj8PdwMHmjSd+3a9uEto3mCPMheshsCAFICysMi6EQ6GSgvvXKXg5p2mrpaP1JqlZhFHY+LUsNNUd/xeceaJUQGenTUUzMsaTUXGish2c0O0tFvuXMXwLPIDhC64b+RTLEtSaMuDlh4GIZdfdva4zNQxSYBgvIDp178H+XKqbtUH6j+kX0lVbblUCy/Xhjq8YmztSL/0wIJqBKpCoH8EuwCmfmJX7OtfhH3ljHQA0kMAIn0GO9+XXviNFQy1/ymEgKqzwNw8sZLYcqY+dvNJZ7au7edxCSjfb4JtjEGIw6pF1UqTMrp602hK+RnxVlW/tjtJi5vp8=;M/Z6QtpBlVZpz/G0DONELQ=="
+secured: "GLnyND+r29iWAjDo7Kp8c0BWXMtOTFp8xmQcHpeRWoRyOqaBzsDiTL4dL/SQDZ/Cv3mpZQCjB+NoWs5//6rXx2x8ArdCoSxyrbfD+B8Zak3VTgLPQ4Y+SC7bVe6Uugcav2iwNx0m0ASFYdMnkk/y30E6D+13cVF7jkzJOU3LqM+6fPi+lhpVIR9nSAgP6i+zBDWs6bTdVrgFU81qVIiTozpk7GSR+aUtYncvg9MeyyNzlet4C+tbhbjx3PeGNtOsCA2R2BvIio2nMTOdHZOJz20p4uQ7AG2p63HGV1Dnr71RGDqOOzFLSzkQNLnnk5ZeU+y2vJQTOiDktrNBQnJJfm3xAR2FQo8XJwwBifqAGcp5DSeZsL4KogBC6iGxvmQ8/TjppuDGLXr7+hAyaw/IUWUIK/s/AgXhP9lFMeU99AiypOc+nu9TfTXg4fyShiOL7I5L8YSOux+koSkDmvCWkSCa5gCAtOdn4BqMRLThmAzSZfGNsqiSE8+C0T/ZjxLHNrMiepghrk8FDMgXoLtgrg==;bbRxmeV2kVmM3D3T4UL3Xw=="
 ---
 

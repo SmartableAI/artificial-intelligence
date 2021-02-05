@@ -1,33 +1,25 @@
 ---
 category: news
 title: "Speech and Voice Recognition Market to Rise at a CAGR of 19.8%, Could-based Segment and Advent of Machine-friendly Voice Recognition Format to Boost"
-excerpt: "The report offers comprehensive market overview, covering the most significant trends prevalent in the global market. It presents insights into the key growth drivers and restraints influencing the speech and voice recognition market growth trajectory."
-publishedDateTime: 2021-02-04T12:29:00Z
-originalUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-to-rise-at-a-cagr-of-198-could-based-segment-and-advent-of-machine-friendly-voice-recognition-format-to-boost-2021-02-04"
-webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-to-rise-at-a-cagr-of-198-could-based-segment-and-advent-of-machine-friendly-voice-recognition-format-to-boost-2021-02-04"
+excerpt: "The advent of advance technologies in diverse industries such as healthcare, banking, medicine, and others is promoting"
+publishedDateTime: 2021-02-04T10:33:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/02/g19483725/speech-and-voice-recognition-market-to-rise-at-a-cagr-of-19-8-could-based-segment-and-advent-of-ma"
+webUrl: "https://www.benzinga.com/pressreleases/21/02/g19483725/speech-and-voice-recognition-market-to-rise-at-a-cagr-of-19-8-could-based-segment-and-advent-of-ma"
+ampWebUrl: "https://amp.benzinga.com/amp/content/19483725"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19483725"
 type: article
-quality: 15
-heat: 15
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "SASo4/BljE5ypQgQpAJF0V7wGrv/Mh6zMhuy6gfa7U/ARApL2r6zIeWjRNY2HFSlgJYpJrQustWGxp++g8UcwOhtay1prLY7H7VBI5TVRLtM28cs0McmcpD/N++SQJDcO9aLrcDh7dQ2hzFIliVJnLWO1SqzRXuNUkeXsrJ1D0+hC/kWrx02/Wf28RqPfq5KOg/wJBT2pY7PMcsA+0TTtGAbDl8icOdr0sg0EEXoTw3zXS8vPcxtVA2BWrOvhMl1xyQyTszOjqqK5F/Cx0mE22orcE/ZQFLA15UfD5L83RtreaypVL3D0nh2aqTUzittFh60OMvIlDIg004k0aThAbIhPM1IM/uIESFOtdbvpfE=;x3Oh5SqaGZr/4yobuvc8zA=="
+secured: "MoVJg7omKwV3ts1fU+r6+eysFJHhfc7tcLh5QYpbiC1bUiAzwxXEbQyu6dl4dXdZ0gQxNQWou58t/hZjH7L0CR3Qz4YDpn4b7qWqMiK8yFzsaF8AYToE6coxOg9fx/ZZ8z56OlYC5X3E45k4HA74zQpg29X0CaS60lHvaqFSfHMyryrXNFkcozERAoF1GNZm42VdV2tba00NDV3LP6TSTwSHrPxF9KSJecs963lyx0Q8oNely2VLsbpUXdGyXpYtx6E5kiezpM21D0vAUFxsZd5D9Hpl5nrwhty/2cv+GeLGEvEk5rliesH0DHgKCiekZSf4GaQGa6njZGviaaMCQgTJRwYFXuwvGKJ37FgrDI4=;4b0hcxN9wnnxvyxzo+naTw=="
 ---
 

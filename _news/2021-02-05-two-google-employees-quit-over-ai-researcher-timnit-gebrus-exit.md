@@ -57,6 +57,22 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "Google engineers quit after the company fired its star AI ethics researcher"
+    excerpt: "Two Google engineers have quit over the firing of AI researcher Timnit Gebru, whose exit sparked an internal backlash about ethics and diversity."
+    publishedDateTime: 2021-02-05T12:57:00Z
+    webUrl: "https://thenextweb.com/neural/2021/02/05/google-engineers-quit-after-the-company-fired-its-star-ai-ethics-researcher/"
+    ampWebUrl: "https://thenextweb.com/neural/2021/02/05/google-engineers-quit-after-the-company-fired-its-star-ai-ethics-researcher/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/05/google-engineers-quit-after-the-company-fired-its-star-ai-ethics-researcher/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 102
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/Untitled-design-2021-02-05T115807.121-796x417.png"
+        width: 796
+        height: 417
+        isCached: true
   - title: "Two Google engineers resign over firing of AI ethics researcher Timnit Gebru"
     excerpt: "An engineering director and a software developer have quit Alphabet Inc's Google over the dismissal of AI researcher Timnit Gebru, a sign of the ongoing conflicts at the search giant over diversity and ethics."
     publishedDateTime: 2021-02-04T07:26:00Z
@@ -83,7 +99,7 @@ related:
     provider:
       name: Engadget
       domain: engadget.com
-    quality: 84
+    quality: 86
     images:
       - url: "https://s.yimg.com/ny/api/res/1.2/ijmx.rCk_5ObUU_vksjbdQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMzMz/https://s.yimg.com/os/creatr-images/2019-10/23ee7660-f6fd-11e9-bfdb-8f0dd56ea0e0"
         width: 1999

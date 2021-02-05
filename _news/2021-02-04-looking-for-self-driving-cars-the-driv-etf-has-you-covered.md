@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "2021's rising stars of self-driving vehicles share their best tips for jumpstarting your career"
+    excerpt: "Insider asked bright young stars from Waymo, Aurora, and Nuro for their advice on starting your career in the fast lane."
+    publishedDateTime: 2021-02-05T11:24:00Z
+    webUrl: "https://www.businessinsider.com/career-tips-advice-rising-stars-waymo-aurora-nuro-yandex-2021-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
+    images:
+      - url: "https://i.insider.com/601ae2a301504a00197fb6e5?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Self-driving Car Technology Market"
     excerpt: "The Self driving Car Technology Market is growing at a faster pace with substantial growth rates over the last few years and is estimated that the market will grow significantly in the forecasted period i e 2020 to 2027 The"
     publishedDateTime: 2021-02-02T12:35:00Z
@@ -72,6 +86,20 @@ related:
       - url: "https://gray-wcax-prod.cdn.arcpublishing.com/resizer/kW1valWAsy9BUn8C6W97vluZHw4=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/SBKRRW7OCNLNVGCZXPAU46VP2Y.jpg"
         width: 980
         height: 552
+        isCached: true
+  - title: "Ford posts strong results, promises big bet on electric and self-driving cars"
+    excerpt: "Ford reported surprisingly good financial results at the end of a tough year, and said it was increasing its commitment to vehicles of the future with a big bet on electric and autonomous driving vehicles."
+    publishedDateTime: 2021-02-05T00:18:00Z
+    webUrl: "https://kyma.com/cnn-business-consumer/2021/02/04/ford-posts-strong-results-promises-big-bet-on-electric-and-self-driving-cars/"
+    type: article
+    provider:
+      name: KYMA
+      domain: kyma.com
+    quality: 21
+    images:
+      - url: "https://kyma.b-cdn.net/2021/02/hypatia-h_4570de554ee2d8dd27155b646a32b256-h_675c7f63a7da8be24c1b6f0b4c62bac4_preview.jpg"
+        width: 500
+        height: 333
         isCached: true
   - title: "Global Self-Driving Truck Technology Market 2020 Key Stakeholders, Subcomponent Manufacturers, Industry Association and Key Drivers Analysis to 2025"
     excerpt: "The latest market research report titled Global Self-Driving Truck Technology Market 2020 by Company, Type and Application, Forecast to 2025 reveals the overview of the global industry, encompassing the latest industry data and industry future trends,"

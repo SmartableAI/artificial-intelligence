@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Porsche: Personalised recommendations using artificial intelligence"
+    excerpt: "Porsche is equipping its Car Configurator with a new advisory function that draws on artificial intelligence. A new function has been added to the Porsche Car Configurator, to offer individuals specially tailored suggestions as to how they might configure their vehicle."
+    publishedDateTime: 2021-02-03T15:50:00Z
+    webUrl: "https://www.automotiveworld.com/news-releases/porsche-personalised-recommendations-using-artificial-intelligence/"
+    type: article
+    provider:
+      name: Automotive World
+      domain: automotiveworld.com
+    quality: 19
   - title: "Personalised immersive audio will help virtual social interaction feel more real"
     excerpt: "Imperial College London researchers have won a €5.7million EU Horizon 2020 grant to develop AI-informed immersive audio techniques. The"
     publishedDateTime: 2021-02-04T11:56:00Z

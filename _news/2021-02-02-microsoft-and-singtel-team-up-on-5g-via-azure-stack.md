@@ -131,6 +131,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "General Dynamics Information Technology Offers Microsoft Azure to Federal Agencies"
+    excerpt: "General Dynamics Information Technology, a business unit of General Dynamics, announced today the signing of Microsoft Partner Agreement for Online Services-Government. Through the recently awarded Defense Enterprise Office Solution contract,"
+    publishedDateTime: 2021-02-04T17:30:00Z
+    webUrl: "https://www.nasdaq.com/press-release/general-dynamics-information-technology-offers-microsoft-azure-to-federal-agencies"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 58
   - title: "Microsoft Data & AI Day on March 11"
     excerpt: "Microsoft Denmark is proud to present Microsoft Data & AI Day! Within the past few years, artificial intelligence has accelerated the digitization of businesses and societies rapidly. As previous entry barriers have fallen AI has undergone a tremendous democratization – and it is now easier than ever before to get started"
     publishedDateTime: 2021-02-01T14:37:00Z
@@ -173,15 +182,15 @@ related:
         width: 510
         height: 314
         isCached: true
-  - title: "General Dynamics Information Technology Offers Microsoft Azure to Federal Agencies"
-    excerpt: "General Dynamics Information Technology (GDIT), a business unit of General Dynamics (NYSE:GD), announced today the signing of Microsoft Partner Agreement for Online Services-Government (AOS-G). The new agreement provides federal customers with the capability to access Azure services and offerings,"
-    publishedDateTime: 2021-02-04T17:59:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-government-business-and-finance-corporate-news-products-and-services-7c7c2146254e7c0b1d0b8fe0b781d921/gallery/c64d90f26effc8bf60e5e2bbe54359e7"
+  - title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
+    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
+    publishedDateTime: 2021-02-03T08:22:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 48
+    quality: 46
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
@@ -243,15 +252,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
-    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance"
-    publishedDateTime: 2021-02-02T22:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 26
 
 secured: "y7tqadBbEN18tS6kPQHdEkH3gat/7jNCo/X7QfkM9Parvihbf0NdT9+PdO0/z5xeHzoN0ghlSHTlN3+HI9ErMANgEqY4+RHrqcIP7AAsDcOh0iu25uNHdZRdgRRFWotlvTfF09lYHmDK2Vt6mhkEBB/PzPbPUYtIrk0p0GnX/OInlGFx3bY5bgFR21geReqVnisSsshv9mhHYwhwZevkD4Nhjg+QdTofNjJMlFI1VF16lXDaN41cC0NJhwRpaIbHEy7ce7OxWYWofoCkkyqu07l97e4Ck7vTk1SbPnSpF3NTvwuKo3+PEqIjZpsztUTA2rwu0bbKNy/Z0mMEa3NYsMCRnucJYHz3G3+OrxyW6scxDx+ySNrwlTgXk5HXR++gjb4wVserVQbMhfqxt8S+J8bJJQ82C0Tr3WG5m4znOJ4TEFmhELwRc4KphPctxtTC9ZXC2D0og/DnI7/8Gvpr+F212vIYmxc9nxr5JpwE2fL/buRZolvB3HRt68S3Y+ruPwQ22ZbKXmhvetlveb0ZXg==;Zp8eVGZ4fCighvAjs4DyuA=="
 ---

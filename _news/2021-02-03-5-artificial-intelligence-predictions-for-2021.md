@@ -9,8 +9,8 @@ ampWebUrl: "https://www.business2community.com/business-intelligence/5-artificia
 cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-intelligence/5-artificial-intelligence-predictions-for-2021-02382937/amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Business 2 Community
@@ -40,6 +40,15 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "2021 Predictions: Cashless Society, Autopay Systems Fueled by AI, and New Digital Banking Standards"
+    excerpt: "With FinTech at the forefront of this recent innovation, here are my five predictions on the horizon for the banking industry and financial institutions in 2021: 1. The global impact of the pandemic will create a hyperdrive to digital banking solutions."
+    publishedDateTime: 2021-02-02T18:09:00Z
+    webUrl: "https://www.finextra.com/blogposting/19834/2021-predictions-cashless-society-autopay-systems-fueled-by-ai-and-new-digital-banking-standards"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 20
 
 secured: "esL/GQFszBup7AoMijZ/13Zipn1vh8z32PEH0M+O73UpAswoI+qy+nqxNUfDSIbbWlqYOo+ENr+9+yEqdFkoVKzrUV3mLDzo/x26YKybnxPBip7KVN9CjSA2TmVrhllWG2A7aNESRJOGm9tTQT6ng8bg+rM15O1sW5OrD0JIahuEkmJwTOcGYv0QmY8UzrX6hdIM+NfzeQPOhpuD1lhQ8py4uwgbV651LlIdVDWwOtwS0ycMX5kJK+2IqPHwU1TrZzxIdiY6g6ddBFj7QjPWdhkZ8gBKGfI+Jjtpwm6IVkfw9gVyNHHEyIh7Gm36JlRjRpfeHqCM1abo8kGnadmo6wuCqgKrbooFp66Thn7puFM8p2t30W0d7ZFi5mu+1yHYg9TxosHPpt5D+2aEVaWK0+aCH9U9WZerKgZww4vSmlFpakBvBp840xiDkqPdhy3jAJkuOAf7hw9QyTzFOd/0p31W8Q6dk2gq1WhyY6uMcehdrM1uuZZ9tqhNOARRrknxoTKaAQMlGblLS0T436wOdw==;rKQLtvrQ8WVgefXrYXHTPw=="
 ---

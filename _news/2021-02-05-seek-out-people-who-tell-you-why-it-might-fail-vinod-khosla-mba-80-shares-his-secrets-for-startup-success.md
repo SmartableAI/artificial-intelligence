@@ -6,8 +6,8 @@ publishedDateTime: 2021-02-05T05:41:00Z
 originalUrl: "https://www.stanforddaily.com/2021/02/04/seek-out-people-who-tell-you-why-it-might-fail-vinod-khosla-mba-80-shares-his-secrets-for-startup-success/"
 webUrl: "https://www.stanforddaily.com/2021/02/04/seek-out-people-who-tell-you-why-it-might-fail-vinod-khosla-mba-80-shares-his-secrets-for-startup-success/"
 type: article
-quality: 17
-heat: 17
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://wp.stanforddaily.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-03-at-4.36.10-PM.png"

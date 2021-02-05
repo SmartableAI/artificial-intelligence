@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/02/01/health/alzheimers-prediction-spee
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/01/health/alzheimers-prediction-speech.amp.html"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Multimodal deep learning models for early detection of Alzheimer’s disease stage"
+    excerpt: "Most current Alzheimer’s disease (AD) and mild cognitive disorders (MCI) studies use single data modality to make predictions such as AD stages. The fusion of multiple data modalities can provide a holistic view of AD staging analysis."
+    publishedDateTime: 2021-02-05T12:16:00Z
+    webUrl: "https://www.nature.com/articles/s41598-020-74399-w"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 34
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-74399-w/MediaObjects/41598_2020_74399_Fig1_HTML.png"
+        width: 576
+        height: 685
+        isCached: true
   - title: "Writing tests could help predict Alzheimer's disease"
     excerpt: "The AI programme identified that one group of ... Vice President of health care and life sciences research at IBM Thomas J. Watson Research Center in Yorktown Heights, New York, where the A.I ..."
     publishedDateTime: 2021-02-02T14:23:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/resource-library/whitepapers
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/cyber-ai-for-saas-security-protecting-your-dynamic-workforce/"
 type: article
 quality: 84
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -67,6 +67,15 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "Data Sharing Critical to AI’s Use in Cybersecurity"
+    excerpt: "Strategies for enabling the effective use of AI technologies in cyber-defense were highlighted by a panel of experts during the RSAC 365 webinar ‘AI Meets Cybersecurity: Crossing the Streams and How to Manage the Dynamic Results."
+    publishedDateTime: 2021-02-05T11:05:00Z
+    webUrl: "https://www.infosecurity-magazine.com/news/data-sharing-ai-cybersecurity/"
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 17
 
 secured: "Zyhsd3vrqfYMEmymyAGYgmK5o6Vc6UVwtI52QHFcv9dOkH+6twazf59s33Fxp0GIQJGIsvivneO8nXAtaVZRl/ioLmOj+AJPY7y1fKvL7t6yQ87csr6cHonRvpJx9IybHIjcAkOGnZX7h6Z1jL3gvgdOdtqcMDozukt7+GpCxeNfDt9LRI86PEFKJHhpI3t+3qsKHCl0z86IwIhhvwQ141aFDBnhJCSWinb1LmBjIK9J+6B9qZaTz6hk9vF8nrIVXS0QamXNlhSZnzBMIawpJqp8kis3W9VrtAYiqbXXklT/D3x0RHk3GUWZNMOjjQeRNPnW6Cm8Rx+Fuhq36710gHvU7GVGdaKO3Arz2Dw2P0M=;F0lwZ75UZghWAo3uQiNGSg=="
 ---

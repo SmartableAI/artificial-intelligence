@@ -3,10 +3,10 @@ category: news
 title: "AI drives the evolution of technology and data governance"
 excerpt: "Key points focusing on how AI drives the evolution of technology and data governance and how an increase in customer demand and regulatory activity will necessitate companies to take a closer look at their approach."
 publishedDateTime: 2021-02-04T22:47:00Z
-originalUrl: "https://www.zdnet.com/article/ai-drives-the-evolution-of-technology-and-data-governance/"
-webUrl: "https://www.zdnet.com/article/ai-drives-the-evolution-of-technology-and-data-governance/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-drives-the-evolution-of-technology-and-data-governance/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-drives-the-evolution-of-technology-and-data-governance/"
+originalUrl: "https://www.zdnet.com/index.php/publisher/6291689/index.php/article/ai-drives-the-evolution-of-technology-and-data-governance/"
+webUrl: "https://www.zdnet.com/index.php/publisher/6291689/index.php/article/ai-drives-the-evolution-of-technology-and-data-governance/"
+ampWebUrl: "https://www.zdnet.com/index.php/publisher/6291689/index.php/google-amp/article/ai-drives-the-evolution-of-technology-and-data-governance/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/6291689/index.php/google-amp/article/ai-drives-the-evolution-of-technology-and-data-governance/"
 type: article
 quality: 69
 heat: 89
@@ -21,8 +21,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - AI Ethics
+  - AI
 
 related:
   - title: "Supermarket Technology Trends: The Unstoppable Rise of AI, Speech, and Automation"
@@ -56,6 +56,6 @@ related:
         height: 512
         isCached: true
 
-secured: "KdpD6gXLnHb+vBGIWs4kdt3MFGHIfBgPXBPpYVCEsdAqFCf/hKIk5iUsv8Lhi8xSjvGIqm0nDHGqwRLNmtP9kA/tPW/65Cz55BgPI7M02ZuMRcaNwWUhx4M1UWcR+4sGbhBgkpHNSPk5MatYsHJvATOZsikTi6EvXK2tpfZcgsQHrts4UZOhn4RhQwPdYa0Dywd7HhajCuxz8UO0LaBn/rMo6yjFIcFMzUKFUpkcNmsE34f166ItXwH+p3285pXj1RWqUwCAZskxHrTAj+PpS3D+w1yJALnDP0G9jzv6hwjInbvQpSu5a5AAJa9m1wj7730iMHZ/ziRn0yl0irsyTdlYfsQ5/LfgSj6Z+bgXHES/y5ZcZF+IT/4xlm+zfJ+SaY4Neku9B47Xp/zMX88TDo20CWOD5iSkiF5zPC2gxC5aoaqOPNo6WGcDYjI/4G0R63eFClzplgy7RuC1enulshkCy8/+GdJJB3oL/kXtZSZSOIE0GHoZ7JOY91XLMfw9YNSeq+UhWNrcLSvI2cJ3jA==;igGXjmz7VlZxsRXrWp4oCg=="
+secured: "TpuAjRcPgCoN98GxotTB9khuLem93K2nfXx3/6UIZPLbXGNxPm9Y4BDpVZQpAcxAIn8eDv6NYIPLfyY9Ls+0bFkl9kNcCLfrLFhYYxO7GW0sgr7V4THWqmvW2cQdiiYiZBYzAHcAlUt50OkA9v5zZfviqFA0mQhZVhsAzLw/G84UcG1iP5nuMWOO5PS3w9KaUpzoRpm9UEGk3rh4X/bb+B7TcEdafLUWJ79gd6XqM9htN0J37VXRX47spl5G3XTkhRcEbN9pGYOywNX5uXd1jDAwytZ38BveDzlMLCutV5w0hVQ+T7bu1Z6mOmA3cNsuP8vaKkBMcm05K3PkL70Ca7E709G9D+f+K3gpFpy04SAO2DjbzZnUbyFtkKW/UYVqhwbzDDWdlihZ8w/afygaUeURFQaDr7wrFcf+u7tBF+ISNLEGWBsNrYfTkYmymKZ59eKFL4XHACPLhPz8pMzu9OklvP67gd4NfHG4/Hl1fXnouYHCJzqey6yTWENRrK6GDCzXrSu8XQRyS4xXZXR3uA==;Zmt3pX3rQ/McDsLzYCHILA=="
 ---
 

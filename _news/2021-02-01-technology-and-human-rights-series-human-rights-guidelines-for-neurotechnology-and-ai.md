@@ -28,9 +28,9 @@ related:
   - title: "AI drives the evolution of technology and data governance"
     excerpt: "Key points focusing on how AI drives the evolution of technology and data governance and how an increase in customer demand and regulatory activity will necessitate companies to take a closer look at their approach."
     publishedDateTime: 2021-02-04T22:47:00Z
-    webUrl: "https://www.zdnet.com/article/ai-drives-the-evolution-of-technology-and-data-governance/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-drives-the-evolution-of-technology-and-data-governance/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-drives-the-evolution-of-technology-and-data-governance/"
+    webUrl: "https://www.zdnet.com/index.php/publisher/6291689/index.php/article/ai-drives-the-evolution-of-technology-and-data-governance/"
+    ampWebUrl: "https://www.zdnet.com/index.php/publisher/6291689/index.php/google-amp/article/ai-drives-the-evolution-of-technology-and-data-governance/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/6291689/index.php/google-amp/article/ai-drives-the-evolution-of-technology-and-data-governance/"
     type: article
     provider:
       name: ZDNet

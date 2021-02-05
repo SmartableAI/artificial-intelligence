@@ -68,6 +68,15 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "Data Sharing Critical to AI’s Use in Cybersecurity"
+    excerpt: "Strategies for enabling the effective use of AI technologies in cyber-defense were highlighted by a panel of experts during the RSAC 365 webinar ‘AI Meets Cybersecurity: Crossing the Streams and How to Manage the Dynamic Results."
+    publishedDateTime: 2021-02-05T11:05:00Z
+    webUrl: "https://www.infosecurity-magazine.com/news/data-sharing-ai-cybersecurity/"
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 17
 
 secured: "eO50OQcBkQProYNzudNdZ1WyfrHjCiMGgBPgiOMg3MyG8LPkT3usXPBVo49Qp44rnoBUqjEoL9wvhb5+D3J/sduAxyC6JlhA0dojPdT7JvzOddVr19k/SYt1yquPveUfLe4kHnT9gzm9y7qcUiPzWN+8+yfXtbMjmhwX94hVJRlJP6b6tR8K0nEJBdKbe68fAs2wru61ibiQYP3eVOmlW6iye8Cy58Z8fhA+74xsNZY8plUnXo0U97W9V+yXNJq7VEjc4sNBKwrTJ3Ln2CIszitvFtBvWU4cBMmYjL3+NeV7vxIRgAcFLFf38aVYvkijIyxs12PUAZ9Ctw7lfuZ/gckPa5Koa2SIOKpNoopW0quNSVUtfSk6+rIZ8zC4p1lHKTCjqa9QZ5GuZlI5LNndE3eDKtB4TlC3+P4OL4itLQqhQVdVjFSQBqVSy+LdFfrSqIQjpQd5LGOwplqBBChYTqFlAUgsnm6v38cNhSJSuXKFCH05booiAQ02iwvUQjFY/jsEApmJeVTy6DKvJ51Hlg==;AewXVZkzAMnur1P61a6h1g=="
 ---

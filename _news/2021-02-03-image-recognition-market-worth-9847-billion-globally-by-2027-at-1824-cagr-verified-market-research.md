@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Text-to-Speech Market worth $5.0 billion by 2026"
+    excerpt: "Speech Market with COVID-19 Impact by Offering (Software, Services), Vertical (Enterprise, Consumer Electronics, Education,"
+    publishedDateTime: 2021-02-05T12:22:00Z
+    webUrl: "https://www.wboc.com/story/43294443/text-to-speech-market-worth-50-billion-by-2026"
+    type: article
+    provider:
+      name: WBOC
+      domain: wboc.com
+    quality: 24
+    images:
+      - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder.jpg"
+        width: 400
+        height: 225
+        isCached: true
 
 secured: "7ktVfoiy3It53Dmj+/S8e+NNlrmPve7htb4G0CP4XEloRM0LVY9a+XsYMYtQnrK36x38cDsI9exHLLBbrnRcTtwR0kwM0PmnFEHcN5jYh0WkRZGD21TX72HZfowud1aY1BQuUpZ3bMA7eqVYe5+rnCab6bz91d0JntvTuwzLTrpQBkJhmx3KowSfBmJwHdbCm05/IJq4nHVsGd1YmK8bJCp2qbpuPdfAKv+cxhON9r3ysL0qZBpz6dZxuBH5TWFuj8cvC4bgYAeqfy//O2NrN6bmqJXxg2k5eSywks+hs6fpqDEp8+xYDnzSo3ZVAKSasmhxMR0LED0ZfJKc0XcFh0uq9T7X6jH/OqbKaKjaaBc=;h09nDUcuGyLcQGWbYwK5dA=="
 ---

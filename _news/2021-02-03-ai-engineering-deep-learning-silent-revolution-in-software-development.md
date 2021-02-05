@@ -7,8 +7,8 @@ originalUrl: "https://www.cioapplications.com/press-release/ai-engineering-deep-
 webUrl: "https://www.cioapplications.com/press-release/ai-engineering-deep-learning-silent-revolution-in-software-development-nid-7187.html"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: CIO Applications
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Bingo and AI The changing relation between entertainment and artificial intelligence"
+    excerpt: "The relation between entertainment and artificial intelligence is undoubtedly influencing the quality of humans lives. It is personalizing our entertainment activities, including gaming."
+    publishedDateTime: 2021-02-03T14:44:00Z
+    webUrl: "https://www.analyticsinsight.net/bingo-and-ai-the-changing-relation-between-entertainment-and-artificial-intelligence/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 45
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/02/Bingo-and-AI-The-changing-relation-between-entertainment-and-artificial-intelligence-min.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "USC, Amazon Launch Center for Secure Machine Learning Development"
     excerpt: "The University of Southern California and Amazon have established the Center for Secure and Trusted Machine Learning, a joint research effort to develop new approaches to machine learning privacy and security."
     publishedDateTime: 2021-02-01T14:30:00Z

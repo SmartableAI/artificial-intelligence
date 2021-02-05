@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/porsche-ai-car-configurator-rec
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/porsche-ai-car-configurator-recommendation-engine/"
 type: article
 quality: 87
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNET
@@ -30,15 +30,50 @@ images:
     isCached: true
 
 related:
-  - title: "Porsche: Personalised recommendations using artificial intelligence"
-    excerpt: "Porsche is equipping its Car Configurator with a new advisory function that draws on artificial intelligence. A new function has been added to the Porsche Car Configurator, to offer individuals specially tailored suggestions as to how they might configure their vehicle."
-    publishedDateTime: 2021-02-03T15:50:00Z
-    webUrl: "https://www.automotiveworld.com/news-releases/porsche-personalised-recommendations-using-artificial-intelligence/"
+  - title: "Three Ways AI Can Help You Evolve Your Digital Marketing Strategy"
+    excerpt: "The main reason businesses use AI is for data collection. Instead of manually going through every customer interaction, businesses can use AI programs to compile this information into actionable reports."
+    publishedDateTime: 2021-02-05T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/theyec/2021/02/05/three-ways-ai-can-help-you-evolve-your-digital-marketing-strategy/"
+    ampWebUrl: "https://www.forbes.com/sites/theyec/2021/02/05/three-ways-ai-can-help-you-evolve-your-digital-marketing-strategy/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2021/02/05/three-ways-ai-can-help-you-evolve-your-digital-marketing-strategy/amp/"
     type: article
     provider:
-      name: Automotive World
-      domain: automotiveworld.com
-    quality: 19
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601c0c001884bc5a79fd7756%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "2021 State of Marketing AI Report"
+    excerpt: "The State of Marketing AI from Marketing AI Institute and Drift provides benchmarks on AI in marketing and the future of marketing AI. Get the FREE report."
+    publishedDateTime: 2021-02-02T13:01:00Z
+    webUrl: "https://www.drift.com/insider/learn/books-reports/state-of-marketing-ai/"
+    type: article
+    provider:
+      name: Drift
+      domain: drift.com
+    quality: 58
+    images:
+      - url: "https://www.drift.com/wp-content/uploads/2021/02/StateOfMarketingAI-unfurl.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "Why AI Can’t Solve Everything"
+    excerpt: "We are now seeing governments pledge support to national AI initiatives and compete in a technological and rhetorical arms race to dominate the burgeoning machine learning sector."
+    publishedDateTime: 2021-02-05T06:20:00Z
+    webUrl: "https://goodmenproject.com/featured-content/why-ai-cant-solve-everything/"
+    type: article
+    provider:
+      name: Good Men Project
+      domain: goodmenproject.com
+    quality: 41
+    images:
+      - url: "https://goodmenproject.com/wp-content/uploads/2021/01/iStock-1206796363-1.jpg"
+        width: 800
+        height: 426
+        isCached: true
 
 secured: "8xMRWY8gPoB/0XSBaUyugXsaUovj5yi9MbR6uzuoPMMO9nqrz+DI59WeZubnIbcVcMdrnq5v7jVi7shKDzmIta+QivGo/M/rAGPLntH/p4QPkwJoqGI0KStw18gcEk9k9rnd/1dH0LzvCb75Ydp7R95hD+zwTKZOX1ugtecxO/q95Vm2YfzqUySmR225/Ii/xYUQTqyVBWL1+yKQNa0PEnkP5vhCR7dsVjH0uX74lgnNo4yyVPPkN9CJ/Ad4IdjESih1VY1teYq5jMJwIYo9zO6qrqYWI6vzH3Opy2r5yWhGoWSsvOeX+swTkLiqHFMAQygyjg1luE+2hegtVWZ8Di3hwLizBXAfYQL98plI4+l0Pl5qW2jNf7ni6BfI6xdZMC6ZVdi1soXhzOT0HEkITxyslCfWp3uvtaICqQBpn3fWh1iIUaNXiB88z+5mWKSEixlP2eSR+MLHdH6/E8JKQESO8OeTCrja+Q+OfcIIvzDKi5z08JzVolGqJYoDqq2e4qmZWxmkJYkI1RwdHfqFTg==;lnGgZfuaMcP96v9h/DBvkw=="
 ---

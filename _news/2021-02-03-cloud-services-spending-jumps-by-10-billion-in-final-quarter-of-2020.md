@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/cloud-services-spend
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/cloud-services-spending-jumps-by-10-billion-in-final-quarter-of-2020/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Unilever backed customer service startup Limitless in a $10 million funding round after seeing this pitch deck"
+    excerpt: "The global customer service industry is valued at close to $40 billion."
+    publishedDateTime: 2021-02-05T11:26:00Z
+    webUrl: "https://www.businessinsider.com/unilever-ai-limitless-gig-economy-pitch-deck-2021-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 32
+    images:
+      - url: "https://i.insider.com/5f1b3f0aaee6a81da0721f24?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Global cloud services market surges by US$10 billion in Q4 2020"
     excerpt: "Cloud infrastructure services spending increased 32% to US$39.9 billion in the last quarter of 2020, following heightened customer investment with the major clo"
     publishedDateTime: 2021-02-03T06:39:00Z

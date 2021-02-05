@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/01/elder-care-wireless-ai-and-the-in
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/01/elder-care-wireless-ai-and-the-internet-of-medical-things/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/01/vb-special-issue-ai-health-care-Header.jpg?w=1200&#038;strip=all"
         width: 1200
         height: 400
-        isCached: true
-  - title: "The POWER Interview: The Importance of AI and Machine Learning"
-    excerpt: "Artificial intelligence (AI) and machine learning (ML) are becoming synonymous with the operation of power generation facilities. The increased"
-    publishedDateTime: 2021-01-31T19:28:00Z
-    webUrl: "https://www.powermag.com/the-power-interview-the-importance-of-ai-and-machine-learning/"
-    type: article
-    provider:
-      name: POWER Magazine
-      domain: powermag.com
-    quality: 54
-    images:
-      - url: "https://www.powermag.com/wp-content/uploads/2021/01/screen-shot-2021-01-29-at-9-28-06-am.png"
-        width: 885
-        height: 596
         isCached: true
   - title: "Free, online course brings together 20 global experts in the field of ethical AI"
     excerpt: "Global Perspectives seeks to bring together diverse perspectives from the field of ethical AI, to raise awareness and help institutions work towards more responsible use."

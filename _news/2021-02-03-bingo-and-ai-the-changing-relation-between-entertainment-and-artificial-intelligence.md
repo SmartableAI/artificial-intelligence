@@ -24,21 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "Discovering The Next Generation Of Soccer Talent Through AI And The Amateur Game"
-    excerpt: "Having watched my national team, Wales, all around the world (including in 2003 in San Jose), I must admit I was particularly excited to sit down recently with former Chelsea, Sunderland, Swindon and Wales defender Gareth Hall Head of Football Operations at AiSCOUT and Founder & CEO,"
-    publishedDateTime: 2021-01-31T19:19:00Z
-    webUrl: "https://www.forbes.com/sites/drgeraintevans/2021/01/31/discovering-the-next-generation-of-soccer-talent-through-ai-and-the-amateur-game/"
-    ampWebUrl: "https://www.forbes.com/sites/drgeraintevans/2021/01/31/discovering-the-next-generation-of-soccer-talent-through-ai-and-the-amateur-game/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/drgeraintevans/2021/01/31/discovering-the-next-generation-of-soccer-talent-through-ai-and-the-amateur-game/amp/"
+  - title: "AI Engineering & Deep Learning Silent Revolution in Software Development"
+    excerpt: "The most important trend in the year 2021 will be AI engineering and a silent revolution in software development caused by Deep Learning. I believe that DL and its amazing possibilities will have a tremendous impact."
+    publishedDateTime: 2021-02-03T02:01:00Z
+    webUrl: "https://www.cioapplications.com/press-release/ai-engineering-deep-learning-silent-revolution-in-software-development-nid-7187.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 82
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 55
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6016f7feb80f1ecb9673bf86%2F0x0.jpg%3FcropX1%3D255%26cropX2%3D4899%26cropY1%3D75%26cropY2%3D2687"
-        width: 1200
-        height: 675
+      - url: "https://www.cioapplications.com/newstransfer/upload/ieczb450.jpg"
+        width: 450
+        height: 308
+        isCached: true
+  - title: "USC, Amazon Launch Center for Secure Machine Learning Development"
+    excerpt: "The University of Southern California and Amazon have established the Center for Secure and Trusted Machine Learning, a joint research effort to develop new approaches to machine learning privacy and security."
+    publishedDateTime: 2021-02-01T14:30:00Z
+    webUrl: "https://healthitanalytics.com/news/usc-amazon-launch-center-for-secure-machine-learning-development"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2017-05-17SQL-security.jpg"
+        width: 689
+        height: 435
         isCached: true
 
 secured: "/solXkIcrY4sEoBdDwt/BX+mGLcZwaoO6KvLHlaOIm+1Dcim/49kzXPw4SywpEmqveqXr+7TfdliQl0L2WceSCNIPefhpdlMeFKg3mOyEh0EsUCP+B8UQ9sVkaKdpMEpOxppjczwhubKukgyotpXlO0ywV3ovqGEGD9LpyFLVu8FPK1zmsHeP2bW3ECElgUBlqZXMD8L89BPK74qrS/6HmnrVQhR5rry2JxXxPYGkee6XM51yCvbpFQUUVEldK2+Ir3p18kCLry4FHm32qMcP65SicJ3Nu89ok9nd852vmNsmQDWmnac5O9Zu+2D6fTHukjvr+Occ7Kpf7WlqId/ZrrVRmX2+tVZl+8/97bheSk=;RurAuzEcgkm9+mdf+b0S9Q=="

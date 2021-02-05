@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2236648/image-recognition-market-will-obt
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2236648/image-recognition-market-will-obtain-53-0-billion-by-2025"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Text-to-Speech Market worth $5.0 billion by 2026"
+    excerpt: "Speech Market with COVID-19 Impact by Offering (Software, Services), Vertical (Enterprise, Consumer Electronics, Education,"
+    publishedDateTime: 2021-02-05T12:22:00Z
+    webUrl: "https://www.wboc.com/story/43294443/text-to-speech-market-worth-50-billion-by-2026"
+    type: article
+    provider:
+      name: WBOC
+      domain: wboc.com
+    quality: 24
+    images:
+      - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder.jpg"
+        width: 400
+        height: 225
         isCached: true
   - title: "Image Recognition Market Worth $ 98.47 Billion, Globally, by 2027 at 18.24% CAGR: Verified Market Research"
     excerpt: "Verified Market Research recently published a report, \"Image Recognition Market\" By Technology (Object Recognition, Facial Recognition, Digital"

@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Unilever backed customer service startup Limitless in a $10 million funding round after seeing this pitch deck"
+    excerpt: "The global customer service industry is valued at close to $40 billion."
+    publishedDateTime: 2021-02-05T11:26:00Z
+    webUrl: "https://www.businessinsider.com/unilever-ai-limitless-gig-economy-pitch-deck-2021-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 32
+    images:
+      - url: "https://i.insider.com/5f1b3f0aaee6a81da0721f24?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "Pr9XogmMMTSilUur1vQh/otDz/WlXjGWvVIw6SJi6OGvqjiOCFRplOTt8uVrSYkOag+tyMRBhaIwoFYzErhJg0+hrCS2Bqbs3hiHN9RZpvCjDpDC8kHlQaVLqz9/U3+XAuqhyNUqmgHMqbAFaYcNN6czuMHF8aaagS02dN4UquNN2QXiyY26Z6h+VSyx1LXL2xP5m0LOZbeoS/qgw0vsxgXqb2xp6tpOhv55hmKoqHiZi33PJ7TbCBoap1mtoDHQ4rgOXR9NVcCAC1qvNZd4q7VPLQV/dl/OGrPT2lbQv2KppdphfNrspzJoyN5Q+5gs7V3eeZYS4gHDIDrF94OE5UU/nRxILQbai0xhtT5Qgmg=;Dmd7wzV+RGiyTsX7O9vYdg=="
 ---

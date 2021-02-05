@@ -24,29 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "Three Benefits of AI and ML in Banking and Finance"
-    excerpt: "Predictive data analysis will be offered by applying AI and ML as banks and financial institutions try to provide better services with more actionable information such as patterned customer behavior and spending behavior data sets."
-    publishedDateTime: 2021-02-01T00:00:00Z
-    webUrl: "https://www.cioapplications.com/news/three-benefits-of-ai-and-ml-in-banking-and-finance--nid-7142.html"
+  - title: "How Machine Learning is Changing the Role of Advertising"
+    excerpt: "There's a lot of publicity around machine learning (ML). It is, in truth, one of the most burning business subjects at the moment. However, ML's vast scope of viable applications for media experts, vendors,"
+    publishedDateTime: 2021-02-01T12:00:00Z
+    webUrl: "https://www.cioapplications.com/news/how-machine-learning-is-changing-the-role-of-advertising-nid-7158.html"
     type: article
     provider:
       name: CIO Applications
       domain: cioapplications.com
-    quality: 86
+    quality: 39
     images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/16rfx450.jpg"
+      - url: "https://www.cioapplications.com/newstransfer/upload/g8vkv450.jpg"
         width: 450
         height: 308
         isCached: true
-  - title: "2021 Predictions: Cashless Society, Autopay Systems Fueled by AI, and New Digital Banking Standards"
-    excerpt: "With FinTech at the forefront of this recent innovation, here are my five predictions on the horizon for the banking industry and financial institutions in 2021: 1. The global impact of the pandemic will create a hyperdrive to digital banking solutions."
-    publishedDateTime: 2021-02-02T18:09:00Z
-    webUrl: "https://www.finextra.com/blogposting/19834/2021-predictions-cashless-society-autopay-systems-fueled-by-ai-and-new-digital-banking-standards"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 20
 
 secured: "SDZH/b9VMCVzPh8pEDFgil5X9awvNYxFt0UIvFfGNnoEK+9twfmDdT7RZkDpSZmx3lTm/VnNHnnSVrnypFp58ne71MdXLpIeZBk3U2oT6oQsVqa0D6mHoMQRPgtQ2DUDgbT6SMhlfL07qClvhDIqsPsEBNawnXIntOG3gVSlunlfSZttwHPlXPj2DkpRLK909GVVgtZQT03KPqhOMrd+KMNz4+AP6ngaAY+jcch2BHnIjcfizQuFIjHb1nuCgxxBV2/tWYRfNIbYb12RvKgWN8BFTNMMTwo+m+mz8eb5Ai9pToNpqJWrgt75UukmzzQMJbtAXgSaAG8mObRyg99oxcQghmuUeWQo3fiHhOzvawU=;cFDn0q055FmndZ4PQxW6ww=="
 ---

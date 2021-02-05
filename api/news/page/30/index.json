@@ -2,6 +2,288 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-01-14-oracle-extends-database-leadership-with-oracle-database-21c.md",
+      "title": "Oracle Extends Database Leadership with Oracle Database 21c",
+      "excerpt": "Oracle Database 21c contains more than 200 new innovations, including immutable blockchain tables, In-Database JavaScript, native JSON binary data type, AutoML for in-database machine learning (ML ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/oracle-extends-database-leadership-with-oracle-database-21c-301207193.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/oracle-extends-database-leadership-with-oracle-database-21c-301207193.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/467598/Oracle_Logo.jpg?p=facebook",
+          "width": 2700,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-13T08:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-14-oracle-database-21c-spotlights-in-memory-processing-and-ml-adds-new-low-code-apex-cloud-service.md",
+      "title": "Oracle Database 21c spotlights in-memory processing and ML, adds new low-code APEX cloud service",
+      "excerpt": "Because COVID drove customers to postpone upgrades last year, the latest annual update of Oracle database packs two years’ worth of new features. And it’s adding icing to the cake with a new low-code/no-code developer cloud service with a free tier to draw rookie developers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/oracle-database-21c-spotlights-in-memory-processing-and-ml-in-adds-new-low-code-apex-cloud-service/",
+      "originalUrl": "https://www.zdnet.com/article/oracle-database-21c-spotlights-in-memory-processing-and-ml-in-adds-new-low-code-apex-cloud-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2021/01/08/ce523dd4-fe30-4673-b761-3850204c001b/low-code.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/oracle-database-21c-spotlights-in-memory-processing-and-ml-in-adds-new-low-code-apex-cloud-service/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/oracle-database-21c-spotlights-in-memory-processing-and-ml-in-adds-new-low-code-apex-cloud-service/",
+      "publishedDateTime": "2021-01-13T08:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-14-humanai-nabs-32m-seed-to-build-personal-intelligence-platform.md",
+      "title": "Human.ai nabs $3.2M seed to build personal intelligence platform",
+      "excerpt": "The last we heard from Luther.ai, the startup was participating in the TechCrunch Disrupt Battlefield in September. The company got a lot of attention from that appearance, which culminated in a $3.2 million seed round it announced today.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/01/13/human-ai-nabs-3-2m-seed-to-build-personal-intelligence-platform/",
+      "originalUrl": "https://techcrunch.com/2021/01/13/human-ai-nabs-3-2m-seed-to-build-personal-intelligence-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/01/GettyImages-1193843525.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/01/13/human-ai-nabs-3-2m-seed-to-build-personal-intelligence-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/13/human-ai-nabs-3-2m-seed-to-build-personal-intelligence-platform/amp/",
+      "publishedDateTime": "2021-01-13T08:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-qualcomm-to-snap-up-chip-startup-nuvia-for-14b.md",
+      "title": "Qualcomm To Snap Up Chip Startup Nuvia For $1.4B",
+      "excerpt": "Qualcomm has clinched a deal to buy chip startup Nuvia for about $1.4 billion, to help the supplier of mobile phone chips meet the demands of next-generation 5G computing.  With this acquisition, Qualcomm (QCOM) will be able to put Nuvia’s processors into its portfolio of products,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/qualcomm-to-snap-up-chip-startup-nuvia-for-%241.4b-2021-01-13",
+      "originalUrl": "https://www.nasdaq.com/articles/qualcomm-to-snap-up-chip-startup-nuvia-for-%241.4b-2021-01-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/qualcomm-to-snap-up-chip-startup-nuvia-for-%241.4b-2021-01-13?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/qualcomm-to-snap-up-chip-startup-nuvia-for-%241.4b-2021-01-13?amp",
+      "publishedDateTime": "2021-01-13T07:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-apple-reportedly-weighed-buying-arguably-the-most-fascinating-ev-startup.md",
+      "title": "Apple reportedly weighed buying arguably the most fascinating EV startup",
+      "excerpt": "Apple reportedly weighed acquiring or investing in electric vehicle startup Canoo, potentially tapping its innovative drive-by-wire platform as it works on its own autonomous EVs. While",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/apple-canoo-acquisition-investment-report-electric-vehicle-skateboard-platform-autonomous-ev-roadmap-13654915/",
+      "originalUrl": "https://www.slashgear.com/apple-canoo-acquisition-investment-report-electric-vehicle-skateboard-platform-autonomous-ev-roadmap-13654915/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/01/canoo_Design_Exterior_07.jpg",
+          "width": 1280,
+          "height": 721,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/apple-canoo-acquisition-investment-report-electric-vehicle-skateboard-platform-autonomous-ev-roadmap-13654915/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/apple-canoo-acquisition-investment-report-electric-vehicle-skateboard-platform-autonomous-ev-roadmap-13654915/amp/",
+      "publishedDateTime": "2021-01-13T07:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-automotive-artificial-intelligence-ai-market-to-boost-business-scope-with-key-players.md",
+      "title": "Automotive Artificial Intelligence (AI) Market to Boost Business Scope with Key Players",
+      "excerpt": "Global Automotive Artificial Intelligence (AI) Market valued approximately USD 641 billion in 2016 is anticipated to",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-to-boost-business-scope-with-key-players-2021-01-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-to-boost-business-scope-with-key-players-2021-01-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-13T07:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-13-ces-2021s-chip-announcements-mobile-takes-center-stage.md",
       "title": "CES 2021's Chip Announcements: Mobile Takes Center Stage",
       "excerpt": "Virtual or not, CES has plenty of chip news from the big name companies, many with renewed or new focus on the world of laptops.",
@@ -925,263 +1207,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-chinese-facial-recognition-unicorn-megvii-prepares-china-ipo.md",
-      "title": "Chinese facial recognition unicorn Megvii prepares China IPO",
-      "excerpt": "Megvii, one of China’s largest facial recognition startups, is gearing up for an initial public offering in Shanghai. The company is working with CITIC Securities to prepare for its planned listing, according to an announcement posted by the China Securities Regulatory Commission on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/01/12/megvii-ipo-china/",
-      "originalUrl": "https://www.msn.com/en-us/news/technology/chinese-facial-recognition-unicorn-megvii-prepares-china-ipo/ar-BB1cHL4R",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/05/megvii-e1557323313961.jpg?w=1024",
-          "width": 1024,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/01/12/megvii-ipo-china/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/12/megvii-ipo-china/amp/",
-      "publishedDateTime": "2021-01-12T23:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "https://techcrunch.com/2021/01/12/megvii-ipo-china/",
-        "domain": "https://techcrunch.com/2021/01/12/megvii-ipo-china/",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-fda-releases-artificial-intelligencemachine-learning-action-plan.md",
-      "title": "FDA Releases Artificial Intelligence/Machine Learning Action Plan",
-      "excerpt": "Today, the U.S. Food and Drug Administration released the agency’s first Artificial Intelligence/Machine Learning (AI/ML)-Based Software as a Medical Device (SaMD) Action Plan. This action plan describes a multi-pronged approach to advance the Agency’s oversight of AI/ML-based medical software.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-medical-devices-health-care-it-services-government-regulations-9f8625b1abf64126683b061f486c043c",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-medical-devices-health-care-it-services-government-regulations-9f8625b1abf64126683b061f486c043c",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-12T22:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-rugged-computer-artificial-intelligence-ai-edge-supercomputing.md",
-      "title": "rugged computer artificial intelligence (AI) edge supercomputing",
-      "excerpt": "News Highlights: rugged computer artificial intelligence (AI) edge supercomputing. SUGAR LAND, Texas - System Inc. in Sugar Land, Texas, introduces the",
-      "sourceUrl": null,
-      "webUrl": "https://www.compsmag.com/news/pc/rugged-computer-artificial-intelligence-ai-edge-supercomputing/",
-      "originalUrl": "https://www.compsmag.com/news/pc/rugged-computer-artificial-intelligence-ai-edge-supercomputing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/rugged-computer-artificial-intelligence-AI-edge-supercomputing.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.compsmag.com/news/pc/rugged-computer-artificial-intelligence-ai-edge-supercomputing/amp/",
-      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/rugged-computer-artificial-intelligence-ai-edge-supercomputing/amp/",
-      "publishedDateTime": "2021-01-12T22:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows",
-        "domain": "compsmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-controversial-chatbot-leaves-lessons-on-ai-use-ethics.md",
-      "title": "Controversial chatbot leaves lessons on AI use ethics",
-      "excerpt": "Developers of an artificial intelligence (AI) based chatbot have suspended the service after unfiltered inflammatory remarks it delivered sparked controversy, leaving both developers and users to reflect on the ethics of AI use.",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/tech/2021/01/129_302390.html",
-      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2021/01/129_302390.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202101/0573ca44e97c4371b32c6db43eedfa53.jpg",
-          "width": 640,
-          "height": 453,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=302390",
-      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=302390",
-      "publishedDateTime": "2021-01-12T22:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "koreatimes.co.kr",
-        "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-gowin-embeds-winbond-64mb-hyperram-to-goai-20.md",
-      "title": "Gowin embeds Winbond 64Mb HyperRAM to GoAI 2.0",
-      "excerpt": "Winbond Electronics Corporation, a leading global supplier of semiconductor memory solutions, today announced that FPGA manufacturer Gowin Semiconductor has embedded a Winbond 64Mb HyperRAM fast memory device in its new GoAI 2.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitimes.com/news/a20210112PR201.html&chid=9",
-      "originalUrl": "https://www.digitimes.com/news/a20210112PR201.html&chid=9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitimes.com/newsshow/20210112PR201_files/2_b.jpg",
-          "width": 640,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-12T20:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digi Times",
-        "domain": "digitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-ces-2021-day-two-highlights-bold-ideas-and-lots-of-bending-oleds.md",
-      "title": "CES 2021 day two highlights: Bold ideas and lots of bending OLEDs",
-      "excerpt": "Looking for the latest CES 2021 news? We've got you covered. In this daily roundup, we'll bring you all the biggest developments of the day.",
-      "sourceUrl": null,
-      "webUrl": "https://spectrum.ieee.org/computing/software/many-experts-say-we-shouldnt-worry-about-superintelligent-ai-theyre-wrong",
-      "originalUrl": "https://www.digitaltrends.com/news/ces-2021-day-2-highlights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 152,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-12T16:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

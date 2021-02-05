@@ -26,21 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "How I Learned To Stop Worrying And Love AI"
-    excerpt: "In recent years people’s concerns about artificial intelligence have heightened, especially anxiety that the technology will replace human workers throughout the economy."
-    publishedDateTime: 2021-02-03T20:26:00Z
-    webUrl: "https://www.forbes.com/sites/stevevassallo/2021/02/03/how-i-learned-to-stop-worrying-and-love-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/stevevassallo/2021/02/03/how-i-learned-to-stop-worrying-and-love-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevevassallo/2021/02/03/how-i-learned-to-stop-worrying-and-love-ai/amp/"
+  - title: "We Need To Talk About An Energy Label For AI"
+    excerpt: "Could this phenomenon inspire us to develop more energy-efficient AI systems? Our computational power has risen exponentially, enabling the widespread use of artificial intelligence, a technology that relies on processing huge amounts of data to recognize patterns."
+    publishedDateTime: 2021-02-05T12:10:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/05/we-need-to-talk-about-an-energy-label-for-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/05/we-need-to-talk-about-an-energy-label-for-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/05/we-need-to-talk-about-an-energy-label-for-ai/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601b0551eddc6b688511ddfe%2F0x0.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f33fae78e26add3d640245e%2F0x0.jpg"
         width: 1200
-        height: 800
+        height: 836
         isCached: true
 
 secured: "gAKv2LXnpNzWJrzoq97QNOt+be05SzwPxPWLkUOZXfby0Qtt2v9S3jiZzsGIKiInBM9G2xXRdB7dwq5qtsVWQJ3aOYMQUkqZKkJw8aNrEW241lZJl/Azt9zm/B0ADhwCIIwVRLG4eFf0jnDQOiCzUJvokMzryQXBHyDXB2xcOkbFhZ+5D6RP9sLOZ3n2i7kDPvx2NWgdAHMO44vrdigclocrZa4x4QUnGWH/GBuc+cZ+wM3TKfv75GPSV4luJjS6bNa/8ZQdIgwTbljg3S0+M9xnzNWBaC00GdRyLpOMd8uxZd4tb6teOTe95I34jmx9N9U2jMtKxN7BTmbI+omb/1PQ9pLxcGeqkEyzdDETp/A763ZxQqWmIo+1z9WBr4sUlWEkNLjFtpfdERVU8XL1KDQo5rfRnYX5Vclh4+DZw9yPR76TjEO4CSkv5EzLa2orepV8r7L5ZX0yVFPcEK5+cj4WOeMs1OHyGsbwQu2lC3LDA/2Kyr9HpqTkJm+r58ntW+vV1aOSxe3y8f8DbVREHA==;ojh8Lyl5d5acv9bmHoTj2g=="

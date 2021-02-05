@@ -137,7 +137,7 @@ related:
     provider:
       name: SciTech Daily
       domain: scitechdaily.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://scitechdaily.com/images/AI-Coronavirus-Concept.jpg"
         width: 2000
@@ -186,6 +186,6 @@ related:
         height: 630
         isCached: true
 
-secured: "NCWLd8D+Oh3+pfahAtAsNOQMznuEunQobDKIVmbvzJx+0Q4DA4D2eUw53fH5e8lMYgS1DJqi0ZgiUx1orDdONdv79crAD1y+A2Ke/62/phPwCG4gwEX8XKna1vDZQw+wDjg7ii3tgDCKzZbUPQnsn5+ssKbZ/FUamDuIO9Knlc0KcUW21CqOWN+ARZHMh9U7QySzHH7t6rPTnGBKfqesnAhYt1GBGJCOHV30bccinBN/foGvqGRl35QMVmGYGc4Ye92Kd/jZWmPhUPwSIQTXasz7wO/1gi+DOJ2ltjPP0ySRY4LJat9zSFhW9v4mXJlblSBfwaz8cQ5+Fwxs6vxCUT0a4p9ONSTyrx1c/9mlm28=;uwH2RrSfT10o1CtEwOBt9w=="
+secured: "0XPnaLnZl6iZjnA3WAQSf3sF7DJN0dpKAvNz6hCc4RNhC4JHgbH07ZNEMHenloTR/6MYMqFtEYkHRekkdTwkA3yLLmxLlUJm7Bop20NYbncQoxQkQHVHRospvdw9dftbCbWaQSmRmOP0z77brDicaXZVqG6RxNIvFdHTYxGQ/ZoZUsYuyyopQY1Hc0oXKHgmEGvOD8imDzIbizhJLQx91qJjxmX/DEhKjt8xfjSGL7IZd0eV1cBp3LoZ2RXbUJx+M1RVMBYCMwTcvchuH/8IIYDJEXRKvf48cK8DylFmsNDS88CkJq0f6zCpMxf8MgqEUFGjFAzql0w3TZ49BgeK/67wlPfafBIg8yewrPERFxdvWXu4w/ze4s89l1t41aoY/P5X09UE+HHk4FP4vR+MNtV0gxIjDPTtknlwqb54l+Z1yBkMCcUBipPA/h1RdJvE+97gqI58tYTxkkbTHJ8tcwuRjKK/SFwR3XWX3JAYtbCDfxBTQvA8HhVMNN/JFuxptfoM4Pw57g4JZZGMiSpzIA==;9Qu6YCMkWsqgAnQNru7YKw=="
 ---
 

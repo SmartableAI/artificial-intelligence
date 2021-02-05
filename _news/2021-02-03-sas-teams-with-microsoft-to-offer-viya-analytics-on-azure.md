@@ -180,6 +180,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "General Dynamics Information Technology to sell Microsoft Azure to US agencies, AWS to Defense"
+    excerpt: "General Dynamics Information Technology will offer Microsoft Azure to all of its federal customers, and make Amazon Web Services available to Defense agencies through the milCloud 2.0 contract. For more breaking data center news,"
+    publishedDateTime: 2021-02-05T12:04:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/general-dynamics-information-technology-sell-microsoft-azure-us-agencies-aws-defense/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 59
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/ConnectedSoldier.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Talking Medicines Launches AI-Powered Patient Intelligence Platform to Revolutionize Marketing for World’s Leading Drug Brands"
     excerpt: "Talking Medicines has today (Thursday 4 February) launched an AI-powered social intelligence service, PatientMetRx, giving the world’s leading drug brands insights on patient experience on a scale and depth never previously possible."
     publishedDateTime: 2021-02-04T11:13:00Z

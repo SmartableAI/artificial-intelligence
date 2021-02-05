@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Deep Vision: Near-infrared imaging and machine learning can identify hidden tumors"
-excerpt: "Gastrointestinal stromal tumors are tumors of the digestive tract that grow underneath the mucus layer covering our organs. Because they are deep inside the tissue, these ''submucosal tumors'' are difficult to detect and diagnose,"
-publishedDateTime: 2021-02-02T18:09:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2021-02/tuos-dvn020221.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2021-02/tuos-dvn020221.php"
+excerpt: "Gastrointestinal stromal tumors are tumors of the digestive tract that grow underneath the mucus layer covering our organs. Because they are deep inside the tissue, these 'submucosal tumors' are difficult to detect and diagnose,"
+publishedDateTime: 2021-02-03T01:30:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2021/02/210202164508.htm"
+webUrl: "https://www.sciencedaily.com/releases/2021/02/210202164508.htm"
 type: article
-quality: 33
+quality: 43
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/255237_web.jpg"
-    width: 720
-    height: 547
-    isCached: true
 
 related:
   - title: "Near-infrared imaging and machine learning can identify hidden tumors"
@@ -74,6 +72,6 @@ related:
         height: 480
         isCached: true
 
-secured: "fYeB6qqWW0T7z3YiyISkOyLTYyLUqHAOh94cmunZxqRVcuTrV4EHxhKtoR6CKYldXI24g/t26fm+ceKEErq5WZDAF6UYZnrHDFsOg3weSaTzhvEthjrxliHpYlUi7euGezU/OnXwkmygM9uHRtdhzziQpg4gdwXyUttziKEMthVihc4kva+tZlWOULvcUphJKnZXqH7ezaJdSU24/BF803LtNcFUypoQIOn40UV+Of/2kgWlJNectdIMOgRURHrYE7UPhQOoV41oNAYIa5BlyzKyE3STeeDwxDy5RO3gjOBPhM2WHr8Ie8FwFTycy6Gstb7H6hlCNohM88/BVpbH7wH/5iy3jystxBULzbWy8I8=;iyCRXgtjqo7V7584vgCk6A=="
+secured: "KVA9/BvsMr56g8vTn7dP1A/aNLXf+Jjc6cFgceSNsF3OfKZcOeSjmraovcH8b486PHUiEZDntcOo37fQk98+DHZ6bAcbZf5VbKdYx1j6EVKmEMVvG3nYqKxRuP7vK7jbNCJzHuA47BSUf2GGK7+BY0kxRQ11YmjavddNbWDpaB99ZpTfV0enz/ArwoT0jcvpIC7gB7WRDdz6XP13RZjyK9qZcfp/83cPnBFcwpze3VXTAGLs/Rgd9Qp0top/0P3vrAJPJ5aAorXpkvVSufSX3bYPta1KCnosuHvht2VupUm0wPHXwoEAtSGCU1g775/7OxfVeC6TCNxF+CKe0cta2lbDg06xVck3/7UjDl1lUuo=;C8X/aRBMAN8tZqK/kmFtFQ=="
 ---
 

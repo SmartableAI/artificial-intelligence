@@ -60,19 +60,14 @@ related:
         height: 480
         isCached: true
   - title: "Deep Vision: Near-infrared imaging and machine learning can identify hidden tumors"
-    excerpt: "Gastrointestinal stromal tumors are tumors of the digestive tract that grow underneath the mucus layer covering our organs. Because they are deep inside the tissue, these ''submucosal tumors'' are difficult to detect and diagnose,"
-    publishedDateTime: 2021-02-02T18:09:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-02/tuos-dvn020221.php"
+    excerpt: "Gastrointestinal stromal tumors are tumors of the digestive tract that grow underneath the mucus layer covering our organs. Because they are deep inside the tissue, these 'submucosal tumors' are difficult to detect and diagnose,"
+    publishedDateTime: 2021-02-03T01:30:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/02/210202164508.htm"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 33
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/255237_web.jpg"
-        width: 720
-        height: 547
-        isCached: true
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 43
 
 secured: "O8E3XcKRRaG2unh8sb9FQ/B2bSRvyauz98VgVxyoOU45zi9g2AuUppd/md2RRGv/GiM3p81LM7ub8b8+vZsuggWk6eeTa/T+VFkEtoowns821bQpD/eIzepd2myV052H6ezH9Lw5eBc33IWVtAsVdIzYyI9sNJmhVkwK9mpv8ha7SsscILrLe4/a6/+Wol3h9yi3bKDxZZmaWPYw2xz8dEvGj5Lce2nnsiHzA/ZXLLshaYzGRSReAKR9cgHOfBGIL3czHEpzHWirAPJCmrStUflLagovywWru+3Nxlo4Bv6UoSNp3CcZ7tb6FXZSOroFg0GWOUtCtfsB71q7mrq4ahKqbzcPEJEizFD+Ehlb8/nF0e1StaJXDRBR00/iSq8ewGvI6rQtemSz917JupO33ZRDx7pl+ofkVjF4Hkr1/a0wjNe9eJXf6M9d4AvvU4ulm/E5choW00M27nnWncmIT7J/y5XoYCS6iSoUzloIQwp3f+eZaQRTLkyxqMaZPiJkkvfsiA5MjXiDJpvw5CLt8w==;t00MY9AYM25EVHBA40ulQw=="
 ---

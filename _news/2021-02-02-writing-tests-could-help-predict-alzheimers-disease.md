@@ -41,6 +41,20 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Multimodal deep learning models for early detection of Alzheimer’s disease stage"
+    excerpt: "Most current Alzheimer’s disease (AD) and mild cognitive disorders (MCI) studies use single data modality to make predictions such as AD stages. The fusion of multiple data modalities can provide a holistic view of AD staging analysis."
+    publishedDateTime: 2021-02-05T12:16:00Z
+    webUrl: "https://www.nature.com/articles/s41598-020-74399-w"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 34
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-74399-w/MediaObjects/41598_2020_74399_Fig1_HTML.png"
+        width: 576
+        height: 685
+        isCached: true
   - title: "Who will develop Alzheimer’s? Prediction may be found in writing tests"
     excerpt: "Is it possible to predict who will develop Alzheimer’s disease simply by looking at writing patterns years before there are symptoms? According to a new study by IBM researchers, the answer is yes."
     publishedDateTime: 2021-02-02T19:06:00Z
