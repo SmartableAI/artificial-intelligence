@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "China growing use of emotion recognition tech raises rights concerns"
-    excerpt: "Technology that measures emotions based on biometric indicators such as facial movements, tone of voice or body movements, is increasingly being marketed in China, researchers say, despite concerns about its accuracy and wider human rights implications."
-    publishedDateTime: 2021-02-01T04:12:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/02/01/china-growing-use-of-emotion-recognition-tech-raises-rights-concerns"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/01/31/1027888.jpg"
-        width: 1240
-        height: 826
-        isCached: true
   - title: "Nuance Dragon Medical One Earns #1 Best in KLAS Award for Speech Recognition: Front-End EMR"
     excerpt: "Nuance Communications, Inc. today announced that Nuance Dragon ® Medical One cloud-based speech recognition platform captured top honors as the 2021 Best in KLAS: Software& Services award winner, earning praise from clinicians as the #1 conversational AI speech recognition solution helping deliver and document better patient care."
     publishedDateTime: 2021-02-02T13:30:00Z
@@ -95,18 +81,18 @@ related:
         height: 405
         isCached: true
   - title: "Rev Announces New Languages in Automated Speech Recognition"
-    excerpt: "The world's most accurate speech-to-text engine, Rev, today announced the expansion of its highly accurate speech recognition service with the addition of four"
-    publishedDateTime: 2021-02-05T14:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/rev-announces-new-languages-in-automated-speech-recognition/article_9d9e2693-3850-514a-9dc4-c2b3d69251bf.html"
+    excerpt: "The world’s most accurate speech-to-text engine, Rev, today announced the expansion of its highly accurate speech recognition service with the addition of four new languages: French, German, Portuguese,"
+    publishedDateTime: 2021-02-05T14:32:00Z
+    webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-new-products-and-services-e1adf12858cc06cd9c25c98d72ad96e9"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: Associated Press
+      domain: apnews.com
     quality: 39
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/7/12/712f0cfb-9316-516f-8c16-14cee40223d6/601d93f68f8bf.image.jpg?resize=1120%2C630"
-        width: 1120
-        height: 630
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "qO1R8zsuOaEjxuzOTEmr9Jtv2kmIoHJmqN+oeISa1P+fM6eOC4p2PYwWHEsDWAYjQqg1ach+5GwF5U8HsPdSwrnvVZeD//5onbfGJOnYVNdljwVVlOtEVR9a/fEP8azCjFCb4Z8PrNDl8wW2OUmvCzUmcun44mIED39UGTwAu+rWDnxFeyEzkcIdSOvl4fOPv/zJlaZQNz/JRGBtkaIRo1gL3wraqnRm5JwJZGYx1pJL7+XMawLUddgrhcOcigfGNM1xnPCk2ejedh3RDqiULJurBs4w0b+BAAPIivOafaZGuS32MsBdui3//4wKFbnUoiGH4UT/2lGJOeutOWtCQUL4GCH7jDq+JQTY6C3vliw=;5RhLc8m9uf3GAtGCJOL8nw=="

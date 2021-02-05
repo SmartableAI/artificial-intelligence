@@ -95,6 +95,20 @@ related:
         width: 2000
         height: 1000
         isCached: true
+  - title: "AI Weekly: What Andy Jassy’s ascension to CEO means for Amazon’s AI initiatives"
+    excerpt: "VentureBeat examines how Andy Jassy's ascention to Amazon CEO could impact the company's AI initiatives and sales of facial recognition tech."
+    publishedDateTime: 2021-02-05T19:31:00Z
+    webUrl: "https://venturebeat.com/2021/02/05/ai-weekly-what-andy-jassys-ascension-to-ceo-means-for-amazons-ai-initiatives/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 65
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2017/11/andy-jassy-aws-reinvent-2017-e1575310104477.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 797
+        isCached: true
   - title: "Jeff Bezos is stepping down as Amazon CEO and will be replaced by AWS boss Andy Jassy"
     excerpt: "Bezos announced the change in an email to staff on Tuesday afternoon and as the company reported bumper 2020 Q4 earnings of more than $100billion."
     publishedDateTime: 2021-02-03T09:31:00Z

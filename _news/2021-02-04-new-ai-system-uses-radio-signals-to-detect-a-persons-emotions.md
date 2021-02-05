@@ -42,21 +42,19 @@ related:
         width: 796
         height: 448
         isCached: true
-  - title: "Scientists awarded £3m for project to use brain stem cells to power artificial intelligence"
-    excerpt: "Scientists at Loughborough University have been awarded more than £3m to work on a project which will see human brain stem cells used to power artificial intelligence (AI) device"
-    publishedDateTime: 2021-02-01T04:00:00Z
-    webUrl: "https://www.leicestermercury.co.uk/news/local-news/scientists-awarded-3m-project-use-4943363"
-    ampWebUrl: "https://www.leicestermercury.co.uk/news/local-news/scientists-awarded-3m-project-use-4943363.amp"
-    cdnAmpWebUrl: "https://www-leicestermercury-co-uk.cdn.ampproject.org/c/s/www.leicestermercury.co.uk/news/local-news/scientists-awarded-3m-project-use-4943363.amp"
+  - title: "Crop Protection Company Invests in Artificial Intelligence"
+    excerpt: "Syngenta Crop Protection is collaborating with Insilico Medicine, an artificial intelligence company, to accelerate the invention and development of new, more effective crop protection solutions."
+    publishedDateTime: 2021-02-05T20:18:00Z
+    webUrl: "https://www.greenhousegrower.com/technology/crop-protection-company-invests-in-artificial-intelligence/"
     type: article
     provider:
-      name: Leicester Mercury
-      domain: leicestermercury.co.uk
-    quality: 66
+      name: Greenhouse Grower
+      domain: greenhousegrower.com
+    quality: 37
     images:
-      - url: "https://i2-prod.leicestermercury.co.uk/incoming/article4943747.ece/ALTERNATES/s615/0_image001.jpg"
-        width: 615
-        height: 409
+      - url: "https://www.greenhousegrower.com/wp-content/uploads/2021/02/Syngenta-Artificial-Intelligence.jpg"
+        width: 896
+        height: 504
         isCached: true
 
 secured: "JAOntMz24n4RTJcqT7tPZ6yAMiIaJpQWYQat4gLzNNLQY034y0bJAq6S00jzBFvo16R4ytQQHetvjerMyrSd/i5DQX6VwCrBHylfEsC8ktb7Fx/Og9IA8ElX+JM5V6DEl4igzWwvh6hFJ2ZD7Pw5JCVmrXDxHicK1arrZ59Si1bp3zSl73AglchoXeD1bj3akq+lfa7hjillqQHhlfGTMkbjbQJjFfPM9zzNPfH/ABREnsm97elUHnMiJmyD1/VIYC6A8o++OkGsf4wdpu+Hk0/Fa2LEZaCYTjjVpc//cEniM7CAkWO9OLiVNXXvD3uLyYsGQzHRW114AF3m5YSsnE2H35NYOWGA4v3+v+qxNTJwOvd9SSYqvvs5YPht/uRmjQJRaSGXT9+WSwQUt/66oNgvv9qxdu3xZhdhLFYtd144HQ8twYJ8q2og8agZutw4tBy6M2iOAIAeFUAPuCs+H0zNfGGgsoKp3J6TzniimbH0oNkn9Pwjykp/zWhHLQNWQHr38kO8LXDBTEQjhTbSuA==;2m3ITe1Sv2X7uipYvhSnIg=="

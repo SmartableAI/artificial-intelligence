@@ -6,8 +6,8 @@ publishedDateTime: 2021-02-05T18:45:00Z
 originalUrl: "https://roboticsandautomationnews.com/2021/02/05/top-robotics-companies-to-invest-in-right-now/40247/"
 webUrl: "https://roboticsandautomationnews.com/2021/02/05/top-robotics-companies-to-invest-in-right-now/40247/"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://roboticsandautomationnews.com/wp-content/uploads/2021/02/forex.jpg"
@@ -24,6 +25,6 @@ images:
     height: 500
     isCached: true
 
-secured: "qa5qqT4SR4BhLwNh2SsXxSr6RuaZhawziG2j+SER2JppLCaG5U/xzAlS7EF1ynB+aAfwO4PG9ikzhESBCjRmet34piKxyFT7m5gTr6VTUZr2tHNR5ONhqL0myEmw1cgTzQ4HiNrejal7xWGLKk/GtUCkUd6XLtcLlUXEr9kMkB8ZficTUUMHNDdzPV4hBsxP+JJ+HgeAejQI8goOKb5z70DuE6liq1e41V6cowKLOKenXBBE7n2tSHcnL67yMpsR0HD9XNcEtw4XYcUEDRbyxcPSm7NYo5k77ND1skQyqcIJd4873hDWFgoQnx8RPAQNxv2hu1sFk8DrlkMqZ5ox4ml4gQFiz4fzlfVeYzMZQ+k=;93r4q7hvm08oSYG6cZuWnw=="
+secured: "7p05Nv/Oq0E/hQA02M1+VXWmTgGQdzDS2dEMRtxxZHeNVGYdG9c9OJeZyxrURye5EvKBnGJfOUL6ENdkkpScm162YA0XXkSj6/rEk3HRVnFcK5XRY0MBZuthQ6PHROhCHlM4ATLiseXuiTis2EziXj9uEO38sFe7ScEBZPWwzl0u+K8HylaMWyQoyAcFPbbl9FgAjMglPqjCFSzVbm7xcMo+/B2/eo0IyvKe3yvgvA/yYG/pDpc5OtSHb9iNtIkSVwLmNQ88nbgHGn28fp2Fqz6dhENjD5Fz25AEhByqsMo1hrU54o4TwkzFG67BVamw5wrqB5sCK56KJyolqUVmhNmyT2kKd39pNHM+pG08lM+CQMufJ9TLnr0yUOqMX2jkBkgxRMArCc+3is/GZlLMVZPzip3UmO5Nef4ZXyHjvd3GjG/0S/gRuCNfhw6fopsFXKSrJx/GmXyorjGouqlKbD7dCRk14/8k0AnMsx+hnqt1ZujF5VGllGNYW9FZoSj5wZJPEd1awbACIsLkrrZ24A==;RAjg0jbgzloinTzuJV8z0g=="
 ---
 

@@ -8,7 +8,7 @@ webUrl: "https://www.ibtimes.com/top-ai-startups-watch-2021-3138837"
 ampWebUrl: "https://www.ibtimes.com/top-ai-startups-watch-2021-3138837?amp=1"
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/top-ai-startups-watch-2021-3138837?amp=1"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/05/top-ai-startups-watch-2021.jpg"

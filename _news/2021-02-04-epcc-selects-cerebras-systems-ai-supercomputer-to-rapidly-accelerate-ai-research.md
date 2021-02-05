@@ -61,6 +61,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "EPCC Selects Cerebras Systems AI Supercomputer to Rapidly Accelerate AI Research"
+    excerpt: "Cerebras Systems, the high performance artificial intelligence (AI) compute company, and EPCC, the supercomputing centre at the University of Edinburgh, today announced the selection of what Cerebras said is the world’s fastest AI computer,"
+    publishedDateTime: 2021-02-05T20:26:00Z
+    webUrl: "https://insidehpc.com/2021/02/epcc-selects-cerebras-systems-ai-supercomputer-to-rapidly-accelerate-ai-research/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 34
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2018/07/CIRC.jpg"
+        width: 325
+        height: 325
+        isCached: true
 
 secured: "O0cl+yVVydqwGdkFDr7uHoX2CavB9L8HqL+7pFBfWia65DW+Yfn9OJQF9+ZXFsF51TDgBE8wb6ze7R2D7Jin5ZLSSydvtF+0Rl6fxYchnitNGo/rVjhQgW4TKeBtH2vvSEbvisHzMSgD/u/txF2ETgoVC4rka/A8fGwXDyJeTlQdbQZD4OhvhHhDuAho2/Jj8HMesUQ8Bf8Gyayvtk2oAJzIfLqy6k4HZjev2eeEjtRiTvMxjq78F1fNArVnBpHe5reGvyEcDEEs1pu9J8s8NJBO6PI7cp4YHaHC9+KI16fO5f3hptL4TvmzRujGiT+vTD/FmOBaYMzglb+sFVummgaAx5MRZ8w3Qd5nAnseN1k=;s1lA1BUUUPabDEg0OCBbPg=="
 ---

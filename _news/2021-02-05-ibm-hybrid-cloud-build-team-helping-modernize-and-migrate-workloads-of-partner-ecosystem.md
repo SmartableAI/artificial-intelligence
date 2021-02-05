@@ -43,17 +43,19 @@ related:
         isCached: true
   - title: "IBM Unveils Elite Hybrid Cloud Build Team Dedicated to Accelerating Modernization Across Partner Ecosystem"
     excerpt: "The novel platform would marry standard insurance industry data with Watson AI and data from the IBM-owned Weather Company to offer clients embedded visualization charts and statistical modeling ..."
-    publishedDateTime: 2021-02-04T05:02:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/ibm-unveils-elite-hybrid-cloud-build-team-dedicated-to-accelerating-modernization-across-partner-ecosystem-899515528.html"
+    publishedDateTime: 2021-02-04T05:15:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/02/n19481702/ibm-unveils-elite-hybrid-cloud-build-team-dedicated-to-accelerating-modernization-across-partner-e"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19481702"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19481702"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 6
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 26
     images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
-        width: 2698
-        height: 1414
+      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+        width: 400
+        height: 209
         isCached: true
 
 secured: "aka3vZ2GUl3DDMlKPuOpw9pm5m+/WlycgoiRjs5Zw2ITk/tybvuC+v95JNV8uyvX4JfNWhdDpz3yzvZOwH4h4rbj6CsbN6dCx7TWcjy/CrXf05tTTym+GsR4naCyxUMxAPZyR4uRgmHbxm4bLONfUP5EeGagFLJSWw+vP+8/XSpd1E+snsjrSRM85AJfvL2XTIu/wwoWOwTfAvtLOJUoFfZzstU2g60Kz4R+8cwoKrkJc1A87QejkJBi7xCfYcStl6m8vOmI6vk2MHc5ggeNgJUcjlqImZeQAaQEfX3uTFJRrogSYkykNSzuiHgEsXWEXJJrqcMEd0S6GeyQ/YRgnYj0rERQooiGhXpVWC5NJNY=;zBHt4BwHrIiGYDwxD5AHRA=="

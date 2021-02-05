@@ -1,24 +1,34 @@
 ---
 category: news
 title: "Daimler to spin off trucks in shift to electric, self-driving vehicles"
-excerpt: "German carmaker Daimler plans to spin-off Daimler Truck, the world's largest truck and bus maker, to allow it to focus on zero-emission vehicles and self-driving technologies. Feb 3 (Reuters) - German carmaker Daimler plans to spin-off Daimler Truck,"
-publishedDateTime: 2021-02-03T16:00:00Z
-originalUrl: "https://www.nasdaq.com/articles/daimler-to-spin-off-trucks-in-shift-to-electric-self-driving-vehicles-2021-02-03"
-webUrl: "https://www.nasdaq.com/articles/daimler-to-spin-off-trucks-in-shift-to-electric-self-driving-vehicles-2021-02-03"
-ampWebUrl: "https://www.nasdaq.com/articles/daimler-to-spin-off-trucks-in-shift-to-electric-self-driving-vehicles-2021-02-03?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/daimler-to-spin-off-trucks-in-shift-to-electric-self-driving-vehicles-2021-02-03?amp"
+excerpt: "German carmaker Daimler plans to spin-off Daimler Truck, the world's largest truck and bus maker, to allow it to focus on zero-emission vehicles and self-driving technologies."
+publishedDateTime: 2021-02-03T21:05:00Z
+originalUrl: "https://www.reuters.com/article/us-daimler-trucks-divestiture-idCAKBN2A329T"
+webUrl: "https://www.reuters.com/article/us-daimler-trucks-divestiture-idCAKBN2A329T"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN2A329T"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2A329T"
 type: article
-quality: 69
-heat: -1
-published: false
+quality: 89
+heat: 159
+published: true
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210203&t=2&i=1550192910&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH121KT"
+    width: 824
+    height: 545
+    isCached: true
 
 related:
   - title: "Daimler to spin off trucks in shift to electric and self-driving vehicles"
@@ -123,6 +133,6 @@ related:
         height: 1280
         isCached: true
 
-secured: "QJ1WYXV2Pq18HMG1JouyvZU7XbABu5M1m3uCZotdcTzmLxDQSn0y1zdgJrFy2i5kI8s2R4lkfarU0xAVCreqXKcIp66l5P4D1VyFxXV1WwmJknk8NKZi+44xI5xYK3fLieJHhsvaWfpl9CHAjqGWciYrecC9pu06ZTPuWGUhdh9mSMbuUVaiIGsEKUl44T36HV48y+lPOXg3TmyY3dDpCuTt/8/ZrrKj2JfiRGaOGCSrS5k1w452rQa9I1aKl6vR+t7PkKMfGBC/eUZMD12kbW/BdUhWTRqvToNbjo0NM24i/hWrv2zqVuSfJ5nphPiHPeq/x3wPVvje3D0ccjcoDvIsKDMDDd/r5lxZR4cOHR3w7pVgd/cG1a851WYUHJWb9H1SjX+rZOsCUK6wMb4MA8kFS1u/rj3cwrBaSRGgmVoOBXNadi7R7TzVTuZkhbcdDyon2tMeIcKQ7hqngeuTvUWpEZVxAVgMGbalPTc0HpkdRDX3Y5H0c7pEnMvgGydN4axURhlhN0PqPoV5kLa66w==;LvNeRaK54RpILWQ9bgBI6w=="
+secured: "VQSRhTjez22dNxaeTFAEp9tUWrE4SLZUusmuHSgo6lkepISQ9rI7xBXh4KXUTYjeZPVVXv5QHQ5XMG5nyeML2l5GngJEd9rQOmUM6ApM+jknzU48IdBkCEQmuBKx/z/YdNSN5TL8AjoiiqmjKd2ibC3gUyT8S7DByUwrfGKp2TGCbI82kICSdUACcAjNuhP4/2bBeMeizY0NL5aHf+YHIfKpQYLjOfhrajEeclCOvI1eDV88ebOY1Hi21YsWeft5U1lpvlIzDX1sBYAGgQjiT9phUAIP7zUVUztzqb3qfZLBTddG5dm79XkF/rT5qmQLzRJf8lHUkl6O8ZAjJsvD/j81F9+67emNXC8Soh5imno=;q9bw1PU95ZEw4n+5yiBdUA=="
 ---
 

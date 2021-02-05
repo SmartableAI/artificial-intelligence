@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsofts-cutting-e
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/"
 type: article
 quality: 150
-heat: 320
+heat: 330
 published: true
 
 provider:
@@ -229,6 +229,20 @@ related:
       - url: "https://www.onmsft.com/wp-content/uploads/2021/01/Microsoft-Campus.jpg"
         width: 1024
         height: 768
+        isCached: true
+  - title: "How Microsoft brought Swiss voice assistants to life"
+    excerpt: "Microsoft’s Custom Neural Voice is now generally available. In Switzerland, the technology has been already used to create unique voice assistants."
+    publishedDateTime: 2021-02-05T20:26:00Z
+    webUrl: "https://news.microsoft.com/de-ch/2021/02/05/how-microsoft-brought-swiss-voice-assistants-to-life/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 39
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/418/2021/02/sctv4-socialmedia-1200x630-1-1024x538.jpg"
+        width: 1024
+        height: 538
         isCached: true
   - title: "Microsoft Partnership Will Bring New Cloud Service to DOD Microelectronics Project"
     excerpt: "Microsoft announced new partnerships Thursday that will support two major Defense Department projects using the tech giant’s Azure cloud services. Microsoft is working with ten companies on a technology solution for the secure design of microelectronics using a new service in the Azure Government cloud region in support of a Defense Department program,"

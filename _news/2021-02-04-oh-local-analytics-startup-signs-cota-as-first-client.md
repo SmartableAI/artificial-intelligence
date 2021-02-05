@@ -178,6 +178,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Atlanta partners with Austin startup Olea Edge Analytics for AI-driven analysis of water meters"
+    excerpt: "Olea Edge Analytics uses machine learning and artificial intelligence to identify any problems or inefficiencies in city-owned water meters in order to recover lost revenue and help city workers target maintenance resources."
+    publishedDateTime: 2021-02-05T19:52:00Z
+    webUrl: "https://www.bizjournals.com/atlanta/inno/stories/news/2021/02/05/atlanta-partners-with-olea-edge-analytics.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 5
 
 secured: "5E80K/QnlVCZcXqOw+r8np4Ax/xT92IvUPD2ehiYqYrBRI69H8aSOQ6IZDvXU4CEH0i/uXwwXY7URCh7szhK3LE7aWpuNg4uJOnoeLFqnf1b9RY/9QrOftf3hGdK8O/jMKaEuMzNgClCftmWHoHaELZlxiUKpe6TkSRnkDtXL4ZWl+vLM5E3qWznGMUJzZc4pWtbmtozsPv1icGa3Ziqmh00xEyBAJkv5iF2UNSbv8QzLjh/wq/uVCQ3nhG8xNvzgdHLC8bkvjZDRkFppusga/H/WpPOUn1yIh5cq/F8EA9aGd2s1df75PkL/IFSOUounLquOaoDXZYSQqnPQK+1Y94cRSR7ovJlcbcfNI9Uvm4=;Bwu5WYLh0GvtPPiWFrNrAg=="
 ---

@@ -240,6 +240,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "How Microsoft brought Swiss voice assistants to life"
+    excerpt: "Microsoft’s Custom Neural Voice is now generally available. In Switzerland, the technology has been already used to create unique voice assistants."
+    publishedDateTime: 2021-02-05T20:26:00Z
+    webUrl: "https://news.microsoft.com/de-ch/2021/02/05/how-microsoft-brought-swiss-voice-assistants-to-life/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 39
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/418/2021/02/sctv4-socialmedia-1200x630-1-1024x538.jpg"
+        width: 1024
+        height: 538
+        isCached: true
   - title: "Skillsoft Integrates with Microsoft Viva to Empower Learning in Today’s Flow of Work"
     excerpt: "Skillsoft, a leader in digital learning, training, and talent solutions to help organizations unleash their edge, announces it is integrating tools and training with Microsoft Viva, which Microsoft launched today."
     publishedDateTime: 2021-02-05T08:05:00Z
@@ -264,6 +278,6 @@ related:
       domain: businesswire.com
     quality: 26
 
-secured: "QHw4Y5tv5upvGeF9CA5sS9dMuJOuAAIMts+KX+pGMSb7xVPUAY56apYRZBjD0UYFBEIEYHAz1WFTgpthrRSPKK/F9LaLCoLJMPZG/pQ1HJ15/yaM4YaFLh4u/Eg9MxjT8ODhRxRuAe5xMSpofGi9Fjntby/haY8+80e9+bKtlRFjHZMcwoo0dUlT3cI18RNZNb3TeSDAdUmZwEEhXwexvMGkrq6hsaB5u6qfEdkkY5rJliroA6eJbNt9G4NuwHsOb0U3ZOGWrwOlTYV5ia9Q2iclpaNMv9i04BLETXmgxB0I2lPIZF5wl8qakchNpYTyGjdHP8yEtujou1IHJJuIHKfZpOvjMhzRmhfVGxKkc74=;mUEktQOH2sR1d9PgQaAU6Q=="
+secured: "MOJnez95efkVXiO+vEcWZdhDYMZF2NVIFSpR9/KtZ7Ct+RfS2CIFfhVVqym45qwYWucdG9ORNcT8MPxVgszDN1i77bySTTs4Ih62hMHY678qsfUTQ7d3HhSWd19lmMurYoi7cFtP1g7NxVIWGYD2YTGy6Yh7w67jb4yjKit2jwXM/2EJJLMTfqQWR4g7CQkbUfohzkPquWYlx3nTAIStWPI9o6B2Q99PsI0aYBXUW35lg+RSEXuojLfgoB3V9qvMfEPjJF/iQwd8VsIyKl+ELIjhkPhPPkgr6P65P6eyO12g996U4yuoj4ixk3z7AOJu0r3CiNblkJJPiNnrn2BG6xdzlQftZZfKBu7z88518kqW4i0PqeBdnS63KwMG94CX3WP831Iq7J04oWzZaQIQeziFYdxy/Zdik1p4JIip5aryC/TlDOVHcUjonEuja6QM/romQLDXYLy/W99eExWBSICEglOLH7sKizhj69rLIXCzGqJC07Z7olXeRXmQAWx5DPppVf+LkKrJ8sjUBdowrw==;LjgTBjm1biGrcAOQsTUADA=="
 ---
 

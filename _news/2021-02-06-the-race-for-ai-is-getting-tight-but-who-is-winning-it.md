@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/video/the-race-for-ai-is-getting-tight-but-w
 webUrl: "https://www.zdnet.com/video/the-race-for-ai-is-getting-tight-but-who-is-winning-it/"
 type: article
 quality: 67
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -57,6 +57,6 @@ related:
         height: 500
         isCached: true
 
-secured: "Mm6Icn9ILeXFfcZ8E0pvZlJyb4LGENNHAN6QOf+AhsLX27HUyg1WXSdrY34jPoGF0jooc/hwOmmylVLoJkQ2KRifqFdQbdNg/+XO1zq6CFOtmbIPG4+Eoa/Wq12RlKc8O6KISg65LPfRSGq5bgbXvtPaAwPGrRxABqByR0zaL1v51vCZaRr9g38eA+i65OvBRYjMMiDVJHAjk1KXfPxEP7RxGMlzu8bmyOdtwtiwrg08/RfJeht5WDSbEFoe/7b19W/qCuTsDC38WUOoo91L/WMe9zSWogIRZSj6jFfzOdf2LWZBXlT402JBThGeExV6NQPsQ/6kB1GVx0AWBbMiseDKQTRqk50DITlfQfDBXs4=;o742ijIMiDIGEfXoHorYCg=="
+secured: "z0OlFDfdxor2oXezynLw9rWe17DoYnXO7Q1+4s74/A9Iqh5ZhCFS9yYgoG0OGXlE5G3APnBtyQyYygT70ZI6qkvbZrEYWnwHieY6vV8/w6j5zc+nXxfHbUDySxugcm6ZrRvVsStvUs0HqYjBgxR7HkHc8w9BF5Wee0enfJwPbB0Bf0/cOviWW8bxxB/bKzs3wx2jBjtTlHZiBnhLT8kghTGxTaO4ZBgPcg1sGQCb9nzXX5Dt6wvA6YDXQw0b90xin9n1HQKX0k5pq7ofqd89JDf9/6iT/NRD6rDiaFpkgFlCCBBAWSa/4fsO55EJM7faMij33lcImc6aL8G8lbT8idJnwz9J0DJiGw82Eq3D0v8FdMcH20WIgqW1cFa/TvDYUx0bLWIy0+MXZGTtqaSKMIs9TllspJebfrrDozf6zIXqoWtZF16kc1ND2FsIDa7s4hmMEX8GrISrcrnFXoPO5Bt47VFSYki37PFUl8zMVDXz8N2869Pi4RUQ33Ter6zW3ilv9WHQixhukWPFhXNdfw==;s/2P9xdMOeRMO8t1uKlGOA=="
 ---
 

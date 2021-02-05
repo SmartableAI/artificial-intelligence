@@ -124,7 +124,7 @@ related:
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/05/top-ai-startups-watch-2021.jpg"
         width: 1200

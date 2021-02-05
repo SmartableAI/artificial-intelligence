@@ -69,6 +69,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "CBP built out more face biometrics capabilities during COVID doldrums of 2020"
+    excerpt: "According to a new DHS report, the system, which officials refer to as biometric facial comparison technology, had a match rate of 97 percent."
+    publishedDateTime: 2021-02-05T19:56:00Z
+    webUrl: "https://www.biometricupdate.com/202102/cbp-built-out-more-face-biometrics-capabilities-during-covid-doldrums-of-2020"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 21
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/11/19124818/CBP-NEC-facial-recognition-biometric-exit.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
 
 secured: "EfDFn37JLRzl7xvHuis+rmqDIOYxPhWMgN8vNRfid9onQzTfvL3M2Xpmcv7A+3nUr7uRTVDi1PSd9bTokrYoUdOtnvtrGGydH6HRcCUFEd3srorAe5hVB6fZ2X1nzLBcQVaMaSDd+Zn9Uv2unjLZY1GwgspAvX5wpie0FMPTCf96Mhv6ivp8FDKmQev141k37mSxmjB4FRWLWV/oI3HJSQct+vnZo1wnOaXp0h9h7amJOff8rP2nsziNd43ml2x+Na/4IUHXNNElRRyoMpnfYRmOd6PKTn6b69axkJJ7WaHHJzcvCKHNB94IGsZMqRVeUt7GX/M+wqp0eHmg9H6L3kHgRP8g9DskdXujzFCieek=;pONxOrHcQGo1QNPJdEF0RQ=="
 ---

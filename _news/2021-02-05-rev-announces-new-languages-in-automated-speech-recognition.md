@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Rev Announces New Languages in Automated Speech Recognition"
-excerpt: "The world's most accurate speech-to-text engine, Rev, today announced the expansion of its highly accurate speech recognition service with the addition of four"
-publishedDateTime: 2021-02-05T14:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/rev-announces-new-languages-in-automated-speech-recognition/article_9d9e2693-3850-514a-9dc4-c2b3d69251bf.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/rev-announces-new-languages-in-automated-speech-recognition/article_9d9e2693-3850-514a-9dc4-c2b3d69251bf.html"
+excerpt: "The world’s most accurate speech-to-text engine, Rev, today announced the expansion of its highly accurate speech recognition service with the addition of four new languages: French, German, Portuguese,"
+publishedDateTime: 2021-02-05T14:32:00Z
+originalUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-new-products-and-services-e1adf12858cc06cd9c25c98d72ad96e9"
+webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-new-products-and-services-e1adf12858cc06cd9c25c98d72ad96e9"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/7/12/712f0cfb-9316-516f-8c16-14cee40223d6/601d93f68f8bf.image.jpg?resize=1120%2C630"
-    width: 1120
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -56,20 +56,6 @@ related:
       - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Apple-Safari-builds-in-speech-recognition-on-the-web-with.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "China growing use of emotion recognition tech raises rights concerns"
-    excerpt: "Technology that measures emotions based on biometric indicators such as facial movements, tone of voice or body movements, is increasingly being marketed in China, researchers say, despite concerns about its accuracy and wider human rights implications."
-    publishedDateTime: 2021-02-01T04:12:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/02/01/china-growing-use-of-emotion-recognition-tech-raises-rights-concerns"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/01/31/1027888.jpg"
-        width: 1240
-        height: 826
         isCached: true
   - title: "Nuance Dragon Medical One Earns #1 Best in KLAS Award for Speech Recognition: Front-End EMR"
     excerpt: "Nuance Communications, Inc. today announced that Nuance Dragon ® Medical One cloud-based speech recognition platform captured top honors as the 2021 Best in KLAS: Software& Services award winner, earning praise from clinicians as the #1 conversational AI speech recognition solution helping deliver and document better patient care."
@@ -109,6 +95,6 @@ related:
         height: 450
         isCached: true
 
-secured: "SPsZSUDE360wg4SaRlbPLRLjhgpZhbZyOSaKWFIrhql67sUdCJWXM0AtWELg4SsyEwTHjR7CbPwiztBqNe2Enzrg2KcshguXUhXDftwYEKvuEIyof79W4Of72A6QMJJ3a8l9woYLHY7qLBrm/Jef0VWLWOTH1VdgbuU5KK3zpojIq/BarNUfw2yo5heAYuoMnyDffw3NaNGqDgRuTd7Gtgd5JSzTWPMVaGe7RCvayxLlioSXh3RVkF/hW+uIrS1pRyUdF0a+Bkk/LtJPoIHdQkrOMj+QRVJ0rCvL23skUawh4+TLn97lxb3yzmBOQI3Iwi23biS9G8yE0dQhnn0Mo7e1lKSrYBbLbmFBU5utxtg=;cgzJo4JQnJP+AgPnwtedKg=="
+secured: "PIBR8H2UJMh+DUseYwp6xvoAZpVLi+0n/rdLa2xvWtTFD426hOPOHyHhfbxBbFUTjaT2Y/eMx5cnJ7Sx6e+h2mzFJJ4EqEAHm/QuBDERGFaiCZPIM6M3g7K7Vum90rmEKGCOcoN26fab5pqUZDjHf5wY0+Y4OY3vM/42AhL90IRWoiWuGoctzRMdNxIc/zgB+phzQhhCZH0VWW2mPSj4D89GJQWb+ojMV7eL0GjVOPneKK391WSpLNY7BNcEngOc8aAdV0zNKXcDKAmw58kkEuXYDaow593cL69heJa9Gv1wFyvTKngFTJgnaPjhdtqfvsX4XKq4Np7OdpwBMBqJGWuPAmadhofbwGNFSe6Bjfk=;oyVLAsd0I6QPITcxOnX4MQ=="
 ---
 

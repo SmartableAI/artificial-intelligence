@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/02/03/scientists-invented-an-ai-t
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/03/scientists-invented-an-ai-to-detect-racist-people/amp/"
 type: article
 quality: 87
-heat: 108
+heat: 107
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Scientists awarded £3m for project to use brain stem cells to power artificial intelligence"
-    excerpt: "Scientists at Loughborough University have been awarded more than £3m to work on a project which will see human brain stem cells used to power artificial intelligence (AI) device"
-    publishedDateTime: 2021-02-01T04:00:00Z
-    webUrl: "https://www.leicestermercury.co.uk/news/local-news/scientists-awarded-3m-project-use-4943363"
-    ampWebUrl: "https://www.leicestermercury.co.uk/news/local-news/scientists-awarded-3m-project-use-4943363.amp"
-    cdnAmpWebUrl: "https://www-leicestermercury-co-uk.cdn.ampproject.org/c/s/www.leicestermercury.co.uk/news/local-news/scientists-awarded-3m-project-use-4943363.amp"
-    type: article
-    provider:
-      name: Leicester Mercury
-      domain: leicestermercury.co.uk
-    quality: 66
-    images:
-      - url: "https://i2-prod.leicestermercury.co.uk/incoming/article4943747.ece/ALTERNATES/s615/0_image001.jpg"
-        width: 615
-        height: 409
-        isCached: true
   - title: "New AI system uses radio signals to detect a person's emotions"
     excerpt: "Scientists have developed a new artificial intelligence system that uses radio wave signals and a deep-learning neural network to remotely detect a subject's emotions."
     publishedDateTime: 2021-02-03T22:38:00Z
@@ -61,6 +45,20 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi_com/1251612379914/2021/1/28dbe164e23e3fd494bb339aff55d2ee/v1.5/New-AI-system-uses-radio-signals-to-detect-a-persons-emotions.jpg"
         width: 800
         height: 533
+        isCached: true
+  - title: "Crop Protection Company Invests in Artificial Intelligence"
+    excerpt: "Syngenta Crop Protection is collaborating with Insilico Medicine, an artificial intelligence company, to accelerate the invention and development of new, more effective crop protection solutions."
+    publishedDateTime: 2021-02-05T20:18:00Z
+    webUrl: "https://www.greenhousegrower.com/technology/crop-protection-company-invests-in-artificial-intelligence/"
+    type: article
+    provider:
+      name: Greenhouse Grower
+      domain: greenhousegrower.com
+    quality: 37
+    images:
+      - url: "https://www.greenhousegrower.com/wp-content/uploads/2021/02/Syngenta-Artificial-Intelligence.jpg"
+        width: 896
+        height: 504
         isCached: true
 
 secured: "7+bHhOvk6byIz89nUTNBmsyYfc38y8z6LtQXya4Nm3688ou6ZHVPX0jBZ0GNzjrFso/eNjzdvmuBf/098XhdIlsSXN8AuT7NvFfDvGioGDdFJJrLQJEcqgps9Ftc+V5e/uXqmFyhRElGZTZc56FT6zC2aIxbTh7sjTL6kr369eIqzpVWxkZqupcRa+M70bL2Uk0BjlUi0SjvawK7fsHtaTwEz1cLXwIC29W4ymBWt+iKPt4AWxAXB31R8zx+kdjy2DbQdbe7r9wZjbrK0gzL6esyaRQFulDha2YZd/Glkto4X07ffqZoSimMSFc+7WPvpVhwWpudIP48uh2pSPIAOdP0d9mjBzf/8e94S7OCwqrC/BL9uqz6MNasG142JV4E/fqQ/EC79agAO3pTUflN/0L4RBhbGWBVSVeNObtMhALqDeI3wPdnxP+1M0kbkR7tDS26rxRHfRHxfCkfqdlT8mXn3brsoEef9d566v+tCzQG1Swzq1lIX0A0KFTChgNIRocL42VS7RtXrYwJmOUYjQ==;iedTRup90f5S6CWTy1BTlA=="

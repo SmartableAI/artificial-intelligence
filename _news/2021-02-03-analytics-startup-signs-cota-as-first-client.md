@@ -170,6 +170,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Atlanta partners with Austin startup Olea Edge Analytics for AI-driven analysis of water meters"
+    excerpt: "Olea Edge Analytics uses machine learning and artificial intelligence to identify any problems or inefficiencies in city-owned water meters in order to recover lost revenue and help city workers target maintenance resources."
+    publishedDateTime: 2021-02-05T19:52:00Z
+    webUrl: "https://www.bizjournals.com/atlanta/inno/stories/news/2021/02/05/atlanta-partners-with-olea-edge-analytics.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 5
   - title: "OH: Local analytics startup signs COTA as first client"
     excerpt: "Ikonos is positioned to establish process and governance around the use of data in organizations, such as COTA."
     publishedDateTime: 2021-02-04T12:22:00Z

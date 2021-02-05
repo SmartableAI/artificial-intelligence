@@ -167,17 +167,17 @@
       "title": "Artificial Intelligence Takes Center Stage Early in 2021",
       "excerpt": "AI is the most significant technology of the last 30 years and its innovation is accelerating in the early part of 2021.",
       "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/pc-hardware/artificial-intelligence-takes-center-stage-early-in-2021",
-      "originalUrl": "https://www.eweek.com/pc-hardware/artificial-intelligence-takes-center-stage-early-in-2021",
+      "webUrl": "https://www.eweek.com/web/index.php/pc-hardware/artificial-intelligence-takes-center-stage-early-in-2021",
+      "originalUrl": "https://www.eweek.com/web/index.php/pc-hardware/artificial-intelligence-takes-center-stage-early-in-2021",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.eweek.com/imagesvr_ez/b2bezp/2017/07/IBM.Watson2.JPG?alias=social_image",
-          "width": 560,
-          "height": 300,
+          "url": "https://www.eweek.com/wp-content/uploads/2021/02/IBM.Watson2.jpg",
+          "width": 720,
+          "height": 480,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -211,10 +211,7 @@
       ],
       "topics": [
         "IBM AI",
-        "AI",
-        "AI in Healthcare",
-        "AWS AI",
-        "AI in Autos"
+        "AI"
       ]
     },
     {

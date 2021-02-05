@@ -9,7 +9,7 @@ ampWebUrl: "https://www.eetindia.co.in/wafer-scale-chip-to-power-ai-supercompute
 cdnAmpWebUrl: "https://www-eetindia-co-in.cdn.ampproject.org/c/s/www.eetindia.co.in/wafer-scale-chip-to-power-ai-supercomputers/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -51,6 +51,20 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/cs-wafer-comparison-gpu-black_cer.2e16d0ba.fill-1200x630.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "EPCC Selects Cerebras Systems AI Supercomputer to Rapidly Accelerate AI Research"
+    excerpt: "Cerebras Systems, the high performance artificial intelligence (AI) compute company, and EPCC, the supercomputing centre at the University of Edinburgh, today announced the selection of what Cerebras said is the world’s fastest AI computer,"
+    publishedDateTime: 2021-02-05T20:26:00Z
+    webUrl: "https://insidehpc.com/2021/02/epcc-selects-cerebras-systems-ai-supercomputer-to-rapidly-accelerate-ai-research/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 34
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2018/07/CIRC.jpg"
+        width: 325
+        height: 325
         isCached: true
   - title: "EPCC Selects Cerebras Systems AI Supercomputer to Rapidly Accelerate AI Research"
     excerpt: "Cerebras Systems, the pioneer in high performance artificial intelligence (AI) compute, and EPCC, the supercomputing centre at the University of Edinburgh, today announced the selection of the world’s fastest AI computer,"
