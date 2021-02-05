@@ -68,6 +68,22 @@ related:
       name: inc42.com
       domain: inc42.com
     quality: 43
+  - title: "Budget 2021: Language translation mission to local language content development"
+    excerpt: "In 2020, during the peak months of covid-19, the government had tied up with Reverie Technologies and had deployed their language translation technology Anuvadak to translate and publish the MyGov Cov"
+    publishedDateTime: 2021-02-01T09:20:00Z
+    webUrl: "https://www.livemint.com/budget/news/budget-2021-language-translation-mission-to-local-language-content-development-11612169795358.html"
+    ampWebUrl: "https://www.livemint.com/budget/news/budget-2021-language-translation-mission-to-local-language-content-development/amp-11612169795358.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/budget/news/budget-2021-language-translation-mission-to-local-language-content-development/amp-11612169795358.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 40
+    images:
+      - url: "https://images.livemint.com/img/2021/02/01/600x338/000_6610_Nirmala_Sitharaman_1612170979498_1612170995958.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "J1WLGYu3a2In6FBb2VWx0h+9JvkFHQ3K+JXi87Rw1boIkWLdnulG7scKvu9+itwQHYUoWak3VbnmkBeK0Jib7AupEGW/NZT72T5T8y+oZWaAgJuDVb/Aht0qbP+Ooqz8ID6bbxwRVfU7Vu4jp0b619ca/khfiJggn7TuaV8VgN0unyfmpwI2uxJna1vYEMCq+ZH8MhldP3Wn/pF+qMQ07IVgZYzDsIeCLd0G/ZOJTGytmE+N5fQioqZXbOVOZahj9yJbrbRRJiWEPWk+ACmP97aa1mUaXttV8tHuFC6FmdOuhsEMz7Pd1WMx64U8+ttVRtTYRauGbQBXrULz+n3vxRw1rz+sNeSD8f3JY/c7GYHVLwzsinbgKW8ttFxIsLd6KHt8LFZcDwnHKLvrcaULsSqOCCcidHh6cFb8rNAi5NnTFGaimjyLfHE6v8anrWJjyMfHYTpZk8FbeCpc4DGy5MEFiNY4C904ADpfxHnXkFRalkSRqdOgsis7cfJuRwbvhcAtxkL4JJq3xLjtEjumfA==;cR8SPhz655J+0xtEFbrsuQ=="
 ---

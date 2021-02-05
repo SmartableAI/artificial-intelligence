@@ -1,12 +1,12 @@
 ---
 category: news
 title: "SoftBank's Son expects mass production of driverless cars in two years"
-excerpt: "SoftBank Group Corp Chief Executive Masayoshi Son said on Friday he expects mass production of self-driving vehicles to start in two years."
-publishedDateTime: 2021-01-29T21:00:00Z
-originalUrl: "https://www.reuters.com/article/us-davos-meeting-son-autonomous-idINKBN29Y279"
-webUrl: "https://www.reuters.com/article/us-davos-meeting-son-autonomous-idINKBN29Y279"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN29Y279"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29Y279"
+excerpt: "Son, who made his name for investing early in startups such as China’s Alibaba Group had said he will continue to take stakes in public companies he thinks are frontrunners in the artificial ..."
+publishedDateTime: 2021-01-29T16:08:00Z
+originalUrl: "https://www.reuters.com/article/us-davos-meeting-son-autonomous-idUSKBN29Y279"
+webUrl: "https://www.reuters.com/article/us-davos-meeting-son-autonomous-idUSKBN29Y279"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Y279"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Y279"
 type: article
 
 provider:
@@ -27,6 +27,6 @@ images:
     height: 545
     isCached: true
 
-secured: "4yhk2/c1VPyQjb2S5yNFAyBnh90bzmHIx/mX0hNEG6rspV4KK7mt0wKLdNglqm7PXx3fHEE8GXvN9IIXE/oMqXrXAxhWC9alxTJK4Ghz/bMzRrwhFGro3t/LtwOE+BltiAh8kHEBxeEybz3pnBTEIqMGI0lCifts99gkAllPP8qzBUo+AyM6+sQak21pmbi/Tgp9xavphcpWQBcwNmMoOfmyFKdczcaDUaXEkxhKtdTv7l4e0sSSOZZZZDrpR/dQWbPVRvjyljxSDJiB2p2I6q0YAtLTYjw7+dVL/pMaHpjFyvItCIQbbK854WQ88axvmcu81iBf04R3Xm/AbkX+RkmOtqK1pcvR0ZbC0meXUNo=;/dYYJ0hralMimqj2VFduEw=="
+secured: "9E1R1l1hncRpr68JroUOE0gmgnU9SwFlG7dgI1Aar58/qZMKBP3oHbrkWeX4ubbVnIDV99Ev67GCUQ5kTxRPuXgBQE6H49WAKCNi+fo6+5jKozdfUg/cHjcbqjNCWZz0KuGDCbk78zf/iyHcLe6/bsk0T7I9Ux6ZUQsAO77bgO96QBgOG+7VxdZvItEndZQIuYNRHNA+0KHGzhPxf5UmJmGhzwhU234gELbxPWXSK2NB1kcy+Bx8tXIOo0hQh8oudqZuhISuqsV4llBuh/R4OSoCLdzfdJe3puNXJxk0isyidbBg8ETi4nO2ghwz6JKSUEgL2lznbDl4ynKAM0b6R/R2UiXTanZDTh2cCTtzxQk=;jUfcpPdo5Z18MT2CQY8WVQ=="
 ---
 

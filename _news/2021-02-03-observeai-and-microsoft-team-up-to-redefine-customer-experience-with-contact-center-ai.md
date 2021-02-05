@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
-excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
-publishedDateTime: 2021-02-03T08:22:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
-webUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
+excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance"
+publishedDateTime: 2021-02-02T22:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
+webUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
 type: article
-quality: 46
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Microsoft's cutting-edge machine-learning tool moves from the lab to the mainstream"
@@ -205,7 +199,7 @@ related:
   - title: "Microsoft Says It's Time to Attack Your Machine-Learning Models"
     excerpt: "With access to some training data, Microsoft's red team recreated a machine-learning system and found sequences of requests that resulted in a denial-of-service."
     publishedDateTime: 2021-02-04T22:13:00Z
-    webUrl: "https://www.darkreading.com/vulnerabilities---threats/advanced-threats/microsoft-says-its-time-to-attack-your-machine-learning-models/d/d-id/1340072"
+    webUrl: "https://www.darkreading.com/vulnerabilities---threats/advanced-threats/microsoft-says-its-time-to-attack-your-machine-learning-models/d/d-id/1340072?_mc=rss_x_drr_edt_aud_dr_x_x-rss-simple"
     type: article
     provider:
       name: Dark Reading
@@ -231,6 +225,6 @@ related:
         height: 768
         isCached: true
 
-secured: "V/Ej3cdHtQqm1QRlWjRSngI5P6d2AuoZi9hNLFESchaEQVfJap+56+MxLbi2D9K7KmvtXlIuxw7MF1KTuhk6hWxAd6kFz+hjSgM5N7RlODlt7TQpRk1pL809YXGuiWK9bos++nHto6k1DK2mpOGHOEpzi9qYaXgBYMISIhqGKBWXA6c+3FqcYvw8N3L/SFJlX+vpB66kj/h0CN3RDzuWq+251cszROaFDAAUfYvjSbHjmB2wZfPaCIx76dODYNxxsANTpkUL9Jv211Vf5rmWQxuKfZOpizb6q0VH+gPjU3EiFVa98GwQsuUSEGNiNFXokhvN8jOWQ7nPQJGoQ57MBcDuLf2klZi6gR2B0jHY8Xk=;9Qv2tykKW3ik8VUnrGKVDw=="
+secured: "oP53qNa8NQe+6CNWzX0f6Bn3+IMkF7tHfBWZKQdOAuJQSoQH/be+DUt+mWnpNLTKBTDFdf8S2O3NumOrqwG2zV2IJY0tAnYiwlKuLHc16vQuvrJbmSl828MPcYx3E3QgjR64Ejf+uZV6AEQ9DQZxznCYXVo2x8tafcMnTUdN4thNscLWQwRq855ZMMT+VzuNB/cUvL5VmfGAtJTPYDrHqSLzLCc9XFTaK237hhjs+ip9P/aPrLuBa/TDjFKJ5A4ZaDst/o9j6m2KpPXHHxJoZLZ9L5xEgE+dnBGciU8OLQ5VPvKSPpu1vKP27uH3+drOAl0ddxza41rBA/MfZV8rvWhzjJFMt5h+AHS0//MvXZw=;/JI5gd/YnORkNaFqYYZ+RA=="
 ---
 

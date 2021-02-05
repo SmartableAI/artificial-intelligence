@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/vw-group-self-driving-developme
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/vw-group-self-driving-development-in-house/"
 type: article
 quality: 74
-heat: 86
+heat: 84
 published: true
 
 provider:

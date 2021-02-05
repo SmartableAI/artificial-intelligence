@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Daimler to spin off trucks in shift to electric, self-driving vehicles"
+    excerpt: "German carmaker Daimler plans to spin-off Daimler Truck, the world's largest truck and bus maker, to allow it to focus on zero-emission vehicles and self-driving technologies."
+    publishedDateTime: 2021-02-03T21:05:00Z
+    webUrl: "https://www.reuters.com/article/us-daimler-trucks-divestiture-idCAKBN2A329T"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN2A329T"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2A329T"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210203&t=2&i=1550192910&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH121KT"
+        width: 824
+        height: 545
+        isCached: true
   - title: "Daimler to spin off trucks in shift to electric and self-driving vehicles"
     excerpt: "German carmaker Daimler plans to spin-off Daimler Truck to focus on zero-emission vehicles and self-driving technologies."
     publishedDateTime: 2021-02-03T15:16:00Z
@@ -61,17 +77,6 @@ related:
         width: 824
         height: 545
         isCached: true
-  - title: "Daimler to spin off trucks in shift to electric, self-driving vehicles"
-    excerpt: "German carmaker Daimler plans to spin-off Daimler Truck, the world's largest truck and bus maker, to allow it to focus on zero-emission vehicles and self-driving technologies. Feb 3 (Reuters) - German carmaker Daimler plans to spin-off Daimler Truck,"
-    publishedDateTime: 2021-02-03T16:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/daimler-to-spin-off-trucks-in-shift-to-electric-self-driving-vehicles-2021-02-03"
-    ampWebUrl: "https://www.nasdaq.com/articles/daimler-to-spin-off-trucks-in-shift-to-electric-self-driving-vehicles-2021-02-03?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/daimler-to-spin-off-trucks-in-shift-to-electric-self-driving-vehicles-2021-02-03?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
   - title: "Daimler to split in two companies, Daimler Truck to focus on EV, self-driving"
     excerpt: "Germany's Daimler AG , the company behind well-known auto brands such as Mercedes Benz and truck and bus makers Freightliner and Thomas Built,"
     publishedDateTime: 2021-02-04T06:15:00Z

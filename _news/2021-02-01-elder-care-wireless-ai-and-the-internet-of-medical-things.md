@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/01/elder-care-wireless-ai-and-the-in
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/01/elder-care-wireless-ai-and-the-internet-of-medical-things/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://www.powermag.com/wp-content/uploads/2021/01/screen-shot-2021-01-29-at-9-28-06-am.png"
         width: 885
         height: 596
+        isCached: true
+  - title: "Free, online course brings together 20 global experts in the field of ethical AI"
+    excerpt: "Global Perspectives seeks to bring together diverse perspectives from the field of ethical AI, to raise awareness and help institutions work towards more responsible use."
+    publishedDateTime: 2021-02-04T20:20:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-02/ntso-foc020321.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 49
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/255422_web.jpg"
+        width: 1440
+        height: 810
         isCached: true
   - title: "Perimeter Medical Imaging AI Announces Acceleration of Expiry Date of Warrants"
     excerpt: "Perimeter Medical Imaging AI, Inc. (TSX-V:PINK)(OTC:PYNKF) (FSE:4PC) (“Perimeter” or the “Company”), a medical technology company driven to transform"

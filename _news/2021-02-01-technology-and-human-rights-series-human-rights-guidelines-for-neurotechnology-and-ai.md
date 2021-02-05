@@ -35,7 +35,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 67
+    quality: 69
   - title: "Supermarket Technology Trends: The Unstoppable Rise of AI, Speech, and Automation"
     excerpt: "Technology food retail solutions have exploded in recent years, and never more than in the past pandemic year. Harnessing the power of artificial intelligence, machine learning and data has become a necessity as consumers rapidly transition from in-store shopping to e-commerce while expecting stores to deliver a personalized,"
     publishedDateTime: 2021-02-01T13:47:00Z

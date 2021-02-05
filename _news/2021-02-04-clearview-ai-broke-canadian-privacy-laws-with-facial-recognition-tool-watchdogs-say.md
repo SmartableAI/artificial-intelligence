@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 1074
         isCached: true
+  - title: "Canada (politely) asks Clearview AI to stop scraping citizens’ photos"
+    excerpt: "The country's regulators said Clearview violated Canada's privacy laws by scraping photos of citizens from the internet without permission."
+    publishedDateTime: 2021-02-04T18:58:00Z
+    webUrl: "https://thenextweb.com/neural/2021/02/04/canada-politely-asks-clearview-ai-to-stop-scraping-citizens-photos/"
+    ampWebUrl: "https://thenextweb.com/neural/2021/02/04/canada-politely-asks-clearview-ai-to-stop-scraping-citizens-photos/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/04/canada-politely-asks-clearview-ai-to-stop-scraping-citizens-photos/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 87
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/Untitled-design-2021-02-04T164520.518-796x417.png"
+        width: 796
+        height: 417
+        isCached: true
   - title: "Clearview AI Raises Disquiet at Privacy Regulators"
     excerpt: "In Europe, North America, the U.K. and Australia, the facial-recognition company is looking down investigations, lawsuits and reprimands, and adjusting accordingly."
     publishedDateTime: 2021-02-04T22:15:00Z

@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "HOLLIFIELD: Larry King will miss the Robot Apocalypse"
-    excerpt: "Today, our disparate subjects will be the literary genius of the late Larry King and the inevitable end of the world as we know it brought about by killer robots."
-    publishedDateTime: 2021-01-31T08:45:00Z
-    webUrl: "https://heraldcourier.com/community/hollifield-larry-king-will-miss-the-robot-apocalypse/article_0eb64c84-7593-53b2-9aab-cc89f63f0239.html"
-    ampWebUrl: "https://heraldcourier.com/community/hollifield-larry-king-will-miss-the-robot-apocalypse/article_0eb64c84-7593-53b2-9aab-cc89f63f0239.amp.html"
-    cdnAmpWebUrl: "https://heraldcourier-com.cdn.ampproject.org/c/s/heraldcourier.com/community/hollifield-larry-king-will-miss-the-robot-apocalypse/article_0eb64c84-7593-53b2-9aab-cc89f63f0239.amp.html"
-    type: article
-    provider:
-      name: Bristol Herald Courier
-      domain: heraldcourier.com
-    quality: 59
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/heraldcourier.com/content/tncms/assets/v3/editorial/1/f3/1f39f51e-b959-11e8-aa23-5b9e7b3fa293/5b9dc17bef052.image.jpg"
-        width: 421
-        height: 220
-        isCached: true
   - title: "HUMOR: Larry King will miss the Robot Apocalypse"
     excerpt: "Today, our disparate subjects will be the literary genius of the late Larry King and the inevitable end of the world as we know it brought about by killer robots."
     publishedDateTime: 2021-02-04T00:20:00Z

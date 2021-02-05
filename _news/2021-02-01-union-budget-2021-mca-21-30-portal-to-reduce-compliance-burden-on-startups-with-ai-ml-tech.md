@@ -53,6 +53,22 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Budget 2021: Language translation mission to local language content development"
+    excerpt: "In 2020, during the peak months of covid-19, the government had tied up with Reverie Technologies and had deployed their language translation technology Anuvadak to translate and publish the MyGov Cov"
+    publishedDateTime: 2021-02-01T09:20:00Z
+    webUrl: "https://www.livemint.com/budget/news/budget-2021-language-translation-mission-to-local-language-content-development-11612169795358.html"
+    ampWebUrl: "https://www.livemint.com/budget/news/budget-2021-language-translation-mission-to-local-language-content-development/amp-11612169795358.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/budget/news/budget-2021-language-translation-mission-to-local-language-content-development/amp-11612169795358.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 40
+    images:
+      - url: "https://images.livemint.com/img/2021/02/01/600x338/000_6610_Nirmala_Sitharaman_1612170979498_1612170995958.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "How to Improve Automatic Machine Translation Evaluation? Add Humans, Scientists Say"
     excerpt: "Scientists propose new system to standardize automatic evaluation of NLP systems by adding humans in the loop."
     publishedDateTime: 2021-02-04T07:31:00Z

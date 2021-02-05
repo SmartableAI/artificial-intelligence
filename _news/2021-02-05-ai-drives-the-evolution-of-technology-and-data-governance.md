@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/ai-drives-the-evolution-of-technology-and
 ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-drives-the-evolution-of-technology-and-data-governance/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-drives-the-evolution-of-technology-and-data-governance/"
 type: article
-quality: 67
-heat: 87
+quality: 69
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 related:
   - title: "Supermarket Technology Trends: The Unstoppable Rise of AI, Speech, and Automation"

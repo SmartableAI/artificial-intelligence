@@ -3,13 +3,13 @@ category: news
 title: "Meet Robby Megabyte, Bosnia's first robot rock band musician"
 excerpt: "Bosnia's most popular rock band, Dubioza Kolektiv, has a new recruit who sings and plays musical instruments - a humanoid robot called Robby Megabyte."
 publishedDateTime: 2021-02-04T18:45:00Z
-originalUrl: "https://www.reuters.com/article/us-bosnia-robot/meet-robby-megabyte-bosnias-first-robot-rock-band-musician-idUSKBN2A41U5"
-webUrl: "https://www.reuters.com/article/us-bosnia-robot/meet-robby-megabyte-bosnias-first-robot-rock-band-musician-idUSKBN2A41U5"
+originalUrl: "https://www.reuters.com/article/bosnia-robot/meet-robby-megabyte-bosnias-first-robot-rock-band-musician-idUSL8N2KA2Z3"
+webUrl: "https://www.reuters.com/article/bosnia-robot/meet-robby-megabyte-bosnias-first-robot-rock-band-musician-idUSL8N2KA2Z3"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A41U5"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A41U5"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 545
     isCached: true
 
-secured: "NWnN526BBmEzU4MX55NHApxT/I+1JnH4dpdndh62ap4bd27g30fpdGC4HDvzoMDvdMcCTTstf8HjtQXpp2XKcDJ8b0Zcu042y5/tCuIm5sQsV5PKCREKqLCewNqHOOWC/r3wDdkgYZv0a05XNyO3G2sorhqFGIW+uwi9923azKPcc0rYdOCxoxv4Ai4fObgrpZR3YWVPqXFGh2jwAgY8sKxiUUjCy3BLJqYnJfCJmE/PVtoCVzUIyImabAMmHN4QPcozwRs1qGKuieuUq7JWKH1Amo9Hc9Na/EyraiG4As0E7NJs8v8bwjnbBdEP0KS2TnPrhi9veIi67sVD1h1L28YBeUiT8n0aI2TjB8cgoj6hryV0nOjZFb+/QURukFOxLTwqErnukG/uw8SLsm6cdvWWZM07cs4EW1lLEnDtxHyccSr36lb/cPo5uFQx4qGrJumQIGRnL2Q+jd5KbVffJtBdZ4o3rzX5zXZ443wtyhwXhj7XP2H2NG6AyDCejKBwrtsm0FSrqHqpZCQaaLbOiw==;ENMdWAO4HGRHA/f30L0atA=="
+secured: "98RsOS1KbX4EkQYL8tG+sgpuClnxcYyiDLbBbuuYysBF0y5hG5nlMLI7tiRZWEU9ct5kXsRQ0AFWb/m+/TA9nc4qOFe6tha6TEJzi/9a70o7a5dxVLjkkL70Yiu6HoR63fI3PzbvFWygmo7PiXuizH1FOEBtJSj0G97WL4TWF8loPPSO4EjqdA0ruFpVh0yZN7IjJq7Ylsou1TEJxZqgzutfFr341/UXdgpH62WGcP4AHkI6sbDKz8mmE3AFIyUUGWD5n3yqAx4a0xCAQ3e2+h1vrBPq3T1uIX9W0BHTik3rIvCpOI0CNdUGfDEf0+Y23Ieon+gyirq8LgyQFMzPd1GJdPsHZ14wGc9rFzg4RJ4=;nTzYXzZctQAxIEvzWmbv5g=="
 ---
 

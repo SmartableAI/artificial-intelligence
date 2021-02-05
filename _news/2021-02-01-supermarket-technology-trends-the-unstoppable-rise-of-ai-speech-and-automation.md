@@ -37,7 +37,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 67
+    quality: 69
   - title: "Technology And Human Rights Series: Human Rights Guidelines For Neurotechnology And AI"
     excerpt: "On Friday, the Institute for the Study of Human Rights hosted “Neurorights: Human Rights Guidelines for Neurotechnology and Artificial Intelligence,” as part of their Technology and Human Rights Series."
     publishedDateTime: 2021-01-31T21:07:00Z

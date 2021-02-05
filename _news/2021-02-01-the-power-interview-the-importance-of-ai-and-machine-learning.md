@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 400
         isCached: true
+  - title: "Free, online course brings together 20 global experts in the field of ethical AI"
+    excerpt: "Global Perspectives seeks to bring together diverse perspectives from the field of ethical AI, to raise awareness and help institutions work towards more responsible use."
+    publishedDateTime: 2021-02-04T20:20:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-02/ntso-foc020321.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 49
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/255422_web.jpg"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "Perimeter Medical Imaging AI Announces Acceleration of Expiry Date of Warrants"
     excerpt: "Perimeter Medical Imaging AI, Inc. (TSX-V:PINK)(OTC:PYNKF) (FSE:4PC) (“Perimeter” or the “Company”), a medical technology company driven to transform"
     publishedDateTime: 2021-02-02T04:15:00Z

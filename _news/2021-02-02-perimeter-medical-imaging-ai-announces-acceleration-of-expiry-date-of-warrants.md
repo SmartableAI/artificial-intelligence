@@ -62,6 +62,20 @@ related:
         width: 885
         height: 596
         isCached: true
+  - title: "Free, online course brings together 20 global experts in the field of ethical AI"
+    excerpt: "Global Perspectives seeks to bring together diverse perspectives from the field of ethical AI, to raise awareness and help institutions work towards more responsible use."
+    publishedDateTime: 2021-02-04T20:20:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-02/ntso-foc020321.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 49
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/255422_web.jpg"
+        width: 1440
+        height: 810
+        isCached: true
 
 secured: "1l0lca2+mp4XCAffJEpyAkpaLU9rAPi0cSq18nl63UslKjeXMEnkgWKLPhGUiBOz6aS7mWSFqT3PzfZugMPE5/KcRwxaNQfUv4zo5VGFeELd3OhNrR8xEWLQxbz3PL/FqdWxv3QN+gvrLhTfHbs/j8P1QkZB5/AzNopATIiNAHtBD+lgQ45fNNii6VSxqAixHJ676Sz94LN0H5ttlWTbCb/cJ4IeCfdqi20OtI+Ot6yuij2LQ2e0VVnN9+zzvkaATrns0pzj8Qg7/O2RYbh4UKskORFUxdUPoxrjRphp4Jgp3hLDSZL2BjkJsan/1fr/Pr5luKoXLXvh0xUWVGQh6LCksER+XTzpRYKHDOjS3QE=;IBZ7w+0ZikxlsBIJB3fIFw=="
 ---
