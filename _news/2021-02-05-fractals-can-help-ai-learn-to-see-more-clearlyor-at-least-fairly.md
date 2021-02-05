@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2021/02/04/1017486/fractals-ai-lear
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/02/04/1017486/fractals-ai-learn-see-more-ethically-bias-imagenet-training/amp/"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -36,7 +36,7 @@ related:
     provider:
       name: MIT Technology Review
       domain: technologyreview.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2021/02/fractal.jpeg?w=3000"
         width: 3000

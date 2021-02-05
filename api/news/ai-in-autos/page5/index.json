@@ -2,6 +2,93 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-01-ai-in-sales-how-artificial-intelligence-will-transform-b2b-sales-in-2021.md",
+      "title": "AI in Sales: How Artificial Intelligence will Transform B2B Sales in 2021",
+      "excerpt": "Artificial intelligence (AI) is helping companies boost lead volume, close rate, and overall sales performance. As a result, you're free to focus on what matters: revenue.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/ai-sales-how-artificial-intelligence-ransform-b2b-2021-akbar-khan/",
+      "originalUrl": "https://www.linkedin.com/pulse/ai-sales-how-artificial-intelligence-ransform-b2b-2021-akbar-khan/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQGfpzLsvpk2cQ/article-cover_image-shrink_720_1280/0/1609515030330?e=1616025600&v=beta&t=ncomGpJUyNmqtcQQdHIUwWPa-gZonynKpo-muU485Ag",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-31T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-01-01-3-top-artificial-intelligence-stocks-to-buy-in-january.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy in January",
+      "excerpt": "Artificial intelligence and related technology giving ... generating but promising upstarts like autonomous vehicle outfit Waymo and life sciences technologist Verily. Even if Google's core ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-january-2020-12-31",
+      "originalUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-january-2020-12-31",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-january-2020-12-31?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-january-2020-12-31?amp",
+      "publishedDateTime": "2020-12-31T14:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-01-how-apples-self-driving-car-plans-might-transform-the-company-itself.md",
       "title": "How Apple’s self-driving car plans might transform the company itself",
       "excerpt": "Core Apple tenets like controlling its own manufacturing and not collecting much user data may not stand up to the self-driving business.",
@@ -1244,92 +1331,6 @@
         "name": "Nasdaq",
         "domain": "nasdaq.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-toyota-wants-to-sell-self-driving-shuttles-which-double-as-on-the-go-offices.md",
-      "title": "Toyota wants to sell self-driving shuttles which double as on-the-go offices",
-      "excerpt": "Toyota Motor Corp. is aiming to commercialize an autonomous shipping-container-like vehicle within a few years that it says could double as a mobile store or roving office. Toyota’s e-Palette ...",
-      "sourceUrl": null,
-      "webUrl": "https://mybroadband.co.za/news/motoring/380996-toyota-wants-to-sell-self-driving-shuttles-which-double-as-on-the-go-offices.html",
-      "originalUrl": "https://mybroadband.co.za/news/motoring/380996-toyota-wants-to-sell-self-driving-shuttles-which-double-as-on-the-go-offices.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mybroadband.co.za/news/motoring/380996-toyota-wants-to-sell-self-driving-shuttles-which-double-as-on-the-go-offices.html/amp",
-      "cdnAmpWebUrl": "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/motoring/380996-toyota-wants-to-sell-self-driving-shuttles-which-double-as-on-the-go-offices.html/amp",
-      "publishedDateTime": "2020-12-23T03:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MyBroadband",
-        "domain": "mybroadband.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-elon-musk-says-apple-ceo-refused-talks-for-tesla-at-us60-billion-amid-reports-apple-is-to-enter-driverless-car-market.md",
-      "title": "Elon Musk says Apple CEO refused talks for Tesla at US$60 billion amid reports Apple is to enter driverless car market",
-      "excerpt": "This week, Apple’s stock has climbed, while Tesla has slipped on a Reuters report that Apple is aiming to produce a driverless ... driving technology and artificial intelligence focus.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/tech-leaders-and-founders/article/3115042/elon-musk-says-apple-ceo-refused-talks-tesla-us60",
-      "originalUrl": "https://www.scmp.com/tech/tech-leaders-and-founders/article/3115042/elon-musk-says-apple-ceo-refused-talks-tesla-us60",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/12/23/0bc60ba4-44c5-11eb-be92-09cd005df0bf_image_hires_101925.jpg?itok=0DSgdTBW&v=1608689972",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/tech-leaders-and-founders/article/3115042/elon-musk-says-apple-ceo-refused-talks-tesla-us60",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-leaders-and-founders/article/3115042/elon-musk-says-apple-ceo-refused-talks-tesla-us60",
-      "publishedDateTime": "2020-12-22T18:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

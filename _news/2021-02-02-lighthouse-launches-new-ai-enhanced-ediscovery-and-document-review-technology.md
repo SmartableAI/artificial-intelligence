@@ -38,6 +38,20 @@ related:
         width: 500
         height: 335
         isCached: true
+  - title: "Signal Group launches hunt for tech start-ups to support AI drive"
+    excerpt: "Signal Group's new investment arm is seeking entrepreneurs and technology start-ups to work with on new digital solutions for shipping. The Thenamaris aframax chartering spin-off has launched Signal"
+    publishedDateTime: 2021-02-03T08:09:00Z
+    webUrl: "https://www.tradewindsnews.com/technology/signal-group-launches-hunt-for-tech-start-ups-to-support-ai-drive/2-1-956121"
+    type: article
+    provider:
+      name: TradeWinds
+      domain: tradewindsnews.com
+    quality: 37
+    images:
+      - url: "https://images-global.nhst.tech/image/dUF5UjV0dGp4aDFNSzRWbjZKeE1PQWJBUEdCdmh4b1l5dlU4cDZKYmRxYz0=/nhst/binary/334fbbc256a7cc4972711a381f88d06f?image_version=720"
+        width: 720
+        height: 361
+        isCached: true
 
 secured: "3zSTOo+K6r/Ge0FK0eEgQZRvlWz5gi8Y2osFxdqCai1rjWLTkZ2wOohXaC7QSDiV7pqVVTcK0UrnVdJFLN+fLvsv5H9cJ+wb4DG6ouOHbqNWflJL8a36UMElA8Vgaq/Xnde7EOGwMKa2dKSLA8fKZbqhsAogjlGiP8+JAaMg29I35lIEXuCpfEBtRotfznKlhRz++KPa3f3W4oxbD7r8gpE4O+kF+xHOGRRF7NjWj3QAYs/xflzkNI0Q22Zwagkbm9ikQ3xPe9+qlnzkuam/7Mf10f5PlQYgO6kn1BgECaolVCuy0ZqVSfIo0lZxF9kqEC3ZFUpN3PeM+u8JepRZ+aBrH8MUU6F9+0Uga/+3pPw=;9GunHEbIfQ43y8u0PtU4KQ=="
 ---

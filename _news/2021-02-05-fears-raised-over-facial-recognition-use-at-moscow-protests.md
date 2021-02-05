@@ -57,6 +57,50 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Short Amazon’s facial recognition ban. Go long on selling Rekognition to cops again"
+    excerpt: "Will Amazon begin selling its facial recognition technology to any governmental body when its self-imposed moratorium ends."
+    publishedDateTime: 2021-02-04T19:11:00Z
+    webUrl: "https://www.biometricupdate.com/202102/short-amazons-facial-recognition-ban-go-long-on-selling-rekognition-to-cops-again"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 65
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/06/11110622/amazon-biometric-facial-recognition.jpg"
+        width: 810
+        height: 405
+        isCached: true
+  - title: "Apple solves facial recognition problem caused by masks"
+    excerpt: "SINCE the coronavirus pandemic has made it necessary for everyone to wear masks, using FaceID on iPhones isn’t quite as good as it was supposed to be. The"
+    publishedDateTime: 2021-02-02T09:31:00Z
+    webUrl: "https://www.euroweeklynews.com/2021/02/02/apple-solves-facial-recognition-problem-caused-by-masks/"
+    ampWebUrl: "https://www.euroweeklynews.com/2021/02/02/apple-solves-facial-recognition-problem-caused-by-masks/"
+    cdnAmpWebUrl: "https://www-euroweeklynews-com.cdn.ampproject.org/c/s/www.euroweeklynews.com/2021/02/02/apple-solves-facial-recognition-problem-caused-by-masks/"
+    type: article
+    provider:
+      name: Euro Weekly News
+      domain: euroweeklynews.com
+    quality: 59
+    images:
+      - url: "https://cdn.euroweeklynews.com/wp-content/uploads/2021/02/mask-5008668_1280.jpg?x53461"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Female entrepreneur pioneers facial recognition tech"
+    excerpt: "Female entrepreneur pioneers facial recognition tech - Kommunikation - Kim Harrisberg - Charlette N'Guessan Desiree loved maths and science as a student in Ivory... - Allgemeine Zeitung"
+    publishedDateTime: 2021-02-01T07:04:00Z
+    webUrl: "https://www.az.com.na/nachrichten/female-entrepreneur-pioneers-facial-recognition-tech2021-02-01/"
+    type: article
+    provider:
+      name: Allgemeine Zeitung
+      domain: az.com.na
+    quality: 39
+    images:
+      - url: "https://cdn.my.na/assets/images/11964/female-entrepreneur-pioneers-facial-recognition-tech2021-02-010.jpg"
+        width: 1024
+        height: 602
+        isCached: true
   - title: "Apple creates workaround to facial recognition blocked by face mask"
     excerpt: "This has probably happened at least once to an Apple user who is trying to unlock their iPhone with the device’s camera. The phone just can’t figure out you are you while you’re wearing a face mask. Jumping through the hoops of trying the camera,"
     publishedDateTime: 2021-02-03T18:17:00Z
@@ -70,6 +114,20 @@ related:
       - url: "https://www.wftv.com/resizer/CBVb4qLwlF6YmcjIZ6eoh_TT_2k=/1200x628/d1hfln2sfez66z.cloudfront.net/02-03-2021/t_8fc4e0349f8b49209d662ee18ce01ca7_name_thumb.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Millions of US faces scanned without approval, rules for facial recognition needed"
+    excerpt: "The powers that be at UCLA thought it was a good idea at the time — using state-of-the-art technology to scan students' faces for gaining access to campus buildings. Students thought otherwise."
+    publishedDateTime: 2021-02-02T03:03:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/02/02/millions-of-us-faces-scanned-without-approval-rules-for-facial-recognition-needed"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 33
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/02/02/1029532.jpeg"
+        width: 1240
+        height: 823
         isCached: true
 
 secured: "FyrXm5I5fgj/Mar8aVcl9bwJ8X5VzFGwWjtpAnRIAuvBfKZzjIvP/yoN9zjGEeUIE5FyEWDkQ2O2Rn8cBy+vTMbv9CFUaua48Pzjed5/62VUv8A80RrmsiV2HnyCUCUjPdAKpPnkfNusEf4HhP9YvLjE9hkEYJfsOkRXc332ikhqElzKbJmE2LjFkCuqDbTQNyOOIT59j3UVPH2xHPNYcFU6dyH+0nz2XKQ+YzLvGFRP0RMv+amn55gW0fSoJsxERkTkqc+dFJ3YgOtFbCZDpV3YD0N2vID066eTSQaiN40n/OEpIB/Gd9ve4kRXpwqSEbEtLdxg2tq3vZtzA/6fIXQtYuVJis6h0QEgbhFwIqk=;6igLbTLLtINzwPW9c20HnA=="

@@ -2,6 +2,94 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-12-31-facial-recognition-technology-law-yet-to-catch-up.md",
+      "title": "Facial recognition technology: law yet to catch up",
+      "excerpt": "There are currently 16 different facial recognition tracking (FRT ... threat to the fundamental rights to privacy and freedom of speech and expression because it does not satisfy the threshold ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/news/cities/Delhi/facial-recognition-technology-law-yet-to-catch-up/article33458380.ece",
+      "originalUrl": "https://www.thehindu.com/news/cities/Delhi/facial-recognition-technology-law-yet-to-catch-up/article33458380.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindu.com/news/cities/Delhi/191ho3/article33458375.ece/ALTERNATES/LANDSCAPE_615/TOPSHOT-US-IT-LIFESTYLE-CES",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/news/cities/Delhi/facial-recognition-technology-law-yet-to-catch-up/article33458380.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Delhi/facial-recognition-technology-law-yet-to-catch-up/article33458380.ece/amp/",
+      "publishedDateTime": "2020-12-30T16:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-12-31-black-man-files-lawsuit-after-being-jailed-due-to-error-in-facial-recognition-technology.md",
+      "title": "Black Man Files Lawsuit After Being Jailed Due to Error in Facial Recognition Technology",
+      "excerpt": "A Black man in New Jersey has filed a lawsuit against police and county prosecutors after a misidentification by facial recognition technology resulted in him being jailed for 10 days.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theroot.com/black-man-files-lawsuit-after-being-jailed-due-to-error-1845967661",
+      "originalUrl": "https://www.theroot.com/black-man-files-lawsuit-after-being-jailed-due-to-error-1845967661",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/zteeev6ysq3g5brz0w6r.jpg",
+          "width": 800,
+          "height": 484,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theroot.com/black-man-files-lawsuit-after-being-jailed-due-to-error-1845967661/amp",
+      "cdnAmpWebUrl": "https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/black-man-files-lawsuit-after-being-jailed-due-to-error-1845967661/amp",
+      "publishedDateTime": "2020-12-30T10:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Root",
+        "domain": "theroot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-12-30-covid-19-impact-on-facial-recognition-market-size-growth-analysis-report-2019-2025.md",
       "title": "COVID-19 Impact on Facial Recognition Market Size & Growth Analysis Report, 2019-2025",
       "excerpt": "The global facial recognition market size was valued at 3 4 billion in 2019 and is expected to grow at a CAGR of 14 from 2019 to 2025 The technology is improving evolving and expanding at an explosive rate Technologies",
@@ -1270,84 +1358,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-accurate-neural-network-computer-vision-without-the-black-box.md",
-      "title": "Accurate neural network computer vision without the 'black box'",
-      "excerpt": "New research offers clues to what goes on inside the minds of machines as they learn to see. Instead of attempting to account for a neural network's decision-making on a post hoc basis, their method shows how the network learns along the way,",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2020/12/201215140827.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2020/12/201215140827.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-15T12:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-insight-named-a-strong-performer-in-first-computer-vision-consultancies-report-by-top-independent-research.md",
-      "title": "Insight Named a Strong Performer in First Computer Vision Consultancies Report by Top Independent Research",
-      "excerpt": "--(BUSINESS WIRE)--Insight Enterprises (NASDAQ: NSIT), the global integrator of Insight Intelligent Technology Solutions™ for organizations of all sizes, has been named a strong performer in the report, The Forrester New Wave™: Computer Vision ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201215005797/en/Insight-Named-a-Strong-Performer-in-First-Computer-Vision-Consultancies-Report-by-Top-Independent-Research",
-      "originalUrl": "https://www.businesswire.com/news/home/20201215005797/en/Insight-Named-a-Strong-Performer-in-First-Computer-Vision-Consultancies-Report-by-Top-Independent-Research",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-15T07:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

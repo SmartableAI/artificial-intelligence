@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Signal Group launches hunt for tech start-ups to support AI drive"
+    excerpt: "Signal Group's new investment arm is seeking entrepreneurs and technology start-ups to work with on new digital solutions for shipping. The Thenamaris aframax chartering spin-off has launched Signal"
+    publishedDateTime: 2021-02-03T08:09:00Z
+    webUrl: "https://www.tradewindsnews.com/technology/signal-group-launches-hunt-for-tech-start-ups-to-support-ai-drive/2-1-956121"
+    type: article
+    provider:
+      name: TradeWinds
+      domain: tradewindsnews.com
+    quality: 37
+    images:
+      - url: "https://images-global.nhst.tech/image/dUF5UjV0dGp4aDFNSzRWbjZKeE1PQWJBUEdCdmh4b1l5dlU4cDZKYmRxYz0=/nhst/binary/334fbbc256a7cc4972711a381f88d06f?image_version=720"
+        width: 720
+        height: 361
+        isCached: true
   - title: "Lighthouse Launches New AI-Enhanced Ediscovery and Document Review Technology"
     excerpt: "Lighthouse, a leader in technology-enabled legal services, today announced the launch of Lighthouse Prism™, a new in-house technology that uses AI and machine learning to radically improve document review legal processes."
     publishedDateTime: 2021-02-01T19:38:00Z

@@ -2,11 +2,11 @@
 category: news
 title: "Meet Robby Megabyte, Bosnia's first robot rock band musician"
 excerpt: "Bosnia's most popular rock band, Dubioza Kolektiv, has a new recruit who sings and plays musical instruments - a humanoid robot called Robby Megabyte."
-publishedDateTime: 2021-02-04T18:45:00Z
-originalUrl: "https://www.reuters.com/article/bosnia-robot/meet-robby-megabyte-bosnias-first-robot-rock-band-musician-idUSL8N2KA2Z3"
-webUrl: "https://www.reuters.com/article/bosnia-robot/meet-robby-megabyte-bosnias-first-robot-rock-band-musician-idUSL8N2KA2Z3"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A41U5"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A41U5"
+publishedDateTime: 2021-02-05T01:31:00Z
+originalUrl: "https://www.reuters.com/article/us-bosnia-robot-idINKBN2A41U5"
+webUrl: "https://www.reuters.com/article/us-bosnia-robot-idINKBN2A41U5"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2A41U5"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2A41U5"
 type: article
 quality: 89
 heat: 89
@@ -30,6 +30,6 @@ images:
     height: 545
     isCached: true
 
-secured: "4XZl5uF+xQFoxyEI7DwrEp9z7rYXWxcPijI/We9fbbPhtQPJXxyz0iC1ZT1pjz1vsYJaWlYRfCHMoIe6R6q1IfK32QcYE506wllNHdiX6QYAvVA+ezy+tqJoEMrcln4XsSEis8oIgs1a+FNO4nsTjXvZI8TaMVS2hcq1wNlj4IlLe3k1Uz6GQGdHM2BrcI42wLeFubf5hCFM79d/QXcjxDVWCjRSYgrdjTLsxc167GNXjo9Tb5gUpDguzer7UqZbIZ19VQPic1CA6Zjq7hV7TTRjfm/I4RLCBKU8yfCZSilO9a+STOZ/G9qo0qFS/ru9xAz/MBgjyJiJOZb1eeczH2nKPjhGUd0MeW/X4YyT3B4=;RjhCk5F/vXDdm/9W9IOYTw=="
+secured: "bm1SMrrO3zp7RMMMuHOd875qcmzqY/DBHB1RIuy4jOXvKrwde+dsUdzMkbY0B0hpDREOUy+hrPZzCq6tjGScPp7nr+PA4k7KoX4MhMsSVVzwOExjuzizTMcoHNYEG1FSWGp0RXQtGYkK28k4r/Op+g+TBPkhxg8ltBjErgsz++yzqRIjvTxxBLXZwDDLNQSUDK1vZhiikyEQFZ5aERTCShuS5YROSsLUz8S9vs9M5WcPrrt5eaNdgonuX2PdVGT47sUvkCieEd1jwGptfycAQoaa4kY5zIh1fcnUbrxBsgNrMRCOO4BLUY9C8Jsct8qCGNvdtktZqUL3WPeWZ0NYGHMX8sHEHcA7nMPigBNjX6w=;T9jOcR0q4aNeC2BBPRWHsw=="
 ---
 

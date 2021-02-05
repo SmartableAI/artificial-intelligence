@@ -3,23 +3,23 @@ category: news
 title: "As Jeff Bezos steps down, Amazon stakes its future on the cloud"
 excerpt: "In his 2014 annual letter to shareholders, Amazon CEO Jeff Bezos wrote that a \"dreamy business offering\" comprises at least four elements: \"Customers love it, it can grow to very"
 publishedDateTime: 2021-02-04T17:20:00Z
-originalUrl: "https://tulsaworld.com/lifestyles/technology/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_409521a9-4084-5c25-814c-66321c2cec71.html"
-webUrl: "https://tulsaworld.com/lifestyles/technology/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_409521a9-4084-5c25-814c-66321c2cec71.html"
+originalUrl: "https://omaha.com/lifestyles/technology/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_bd0dbaf0-3abf-5418-bba3-4c405fad7daf.html"
+webUrl: "https://omaha.com/lifestyles/technology/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_bd0dbaf0-3abf-5418-bba3-4c405fad7daf.html"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Tulsa World
-  domain: tulsaworld.com
+  name: Omaha.com
+  domain: omaha.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/a/4b/a4b80c15-0025-5c29-aaa2-c8bc8fe84457/601c55e50d45a.image.jpg?resize=576%2C324"
+  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/5/2a/52a57f52-8222-5f86-8f10-64507dda120d/601c566d9342f.image.jpg?resize=576%2C324"
     width: 576
     height: 324
     isCached: true
@@ -230,6 +230,6 @@ related:
         height: 450
         isCached: true
 
-secured: "9b2oE57Ay46DT98y60FZ1D0iZvSNrmHeT8NXbgSOsT3sYuHJD5fZEqelUfVzrettcIJUqfJ8+iorU3qgm9KRQlqGMdPt7p84YtbRKHDJrEgB9AyiTNFKjk6P3iBjDoR7g5vczGvBL2GRztj2RdvQWVF6Qq6RXRC0sAC+QQew8noA33PZT9IFRVvFFoU7vxbhwIjiX0hSPUCKoMjRdFs24lzWAw/QgDPE8s9ZGXhT+2POdJDwyLynvasrJkhbwK3hm4tyP/FQv9uT5CvUJK6LGdeoML5raXYeqmsjT+mooaWucmYI3Q9EKwxOgSZGgS8qAWn6+oWMdwy2Z0w8TGP7rW5zJXCbyt386QEofDDNh48PAqVPOF68fCy9MDXk4r8+seb9x242QyUtfRPjskXzxNDULeOtCv+bk3oVmiW80fBE9hfS58DFPumAcNuShKm3RIB+nZ28nK/9VxWrPutiAE7by5djBoEHmscxg1DsKjKivBgQeLH5fI1iVjQus1jdYvMREaCEOA9vqT6WZus/ow==;qQHc1p8Q4U0B/sVLLzSV0Q=="
+secured: "UtkK8G4RIjy04qqJ2dmdw2kb/BSoisMlT/XSEMrCkkVygWi6OlFPaZEvmJMwBuk+t5mC6IctX5LR5jt3ssGSm1RN+KpXYhv0Jv+p/9Ny7iCOzoUQKHIJXMid12hcR5k8tbS/Toin20Ngnt5iCM/IPWhW/buf9zBEhLF+iX7nDU8ebQvMGaz7I4bYDyd+23ftqRfwyfcNlpfBm27atjHJTi1f9+pxfl2Ffu35VAW1QDVhY96eTQeVhoBq6UpbM1IOQloEMBJicjKLz3wD7UKR1atTrIBbKFRxyRoVUdgGLYP/CP/ws6+2UeHIsOSXED5hQrkT4vVXGsfgA7oOGGbqNEiRzxI+6Ds18cfKJgb77AA=;IO8gK2Papp3FfVvOWKLq6w=="
 ---
 

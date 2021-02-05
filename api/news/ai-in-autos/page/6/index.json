@@ -2,6 +2,92 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-12-23-toyota-wants-to-sell-self-driving-shuttles-which-double-as-on-the-go-offices.md",
+      "title": "Toyota wants to sell self-driving shuttles which double as on-the-go offices",
+      "excerpt": "Toyota Motor Corp. is aiming to commercialize an autonomous shipping-container-like vehicle within a few years that it says could double as a mobile store or roving office. Toyota’s e-Palette ...",
+      "sourceUrl": null,
+      "webUrl": "https://mybroadband.co.za/news/motoring/380996-toyota-wants-to-sell-self-driving-shuttles-which-double-as-on-the-go-offices.html",
+      "originalUrl": "https://mybroadband.co.za/news/motoring/380996-toyota-wants-to-sell-self-driving-shuttles-which-double-as-on-the-go-offices.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mybroadband.co.za/news/motoring/380996-toyota-wants-to-sell-self-driving-shuttles-which-double-as-on-the-go-offices.html/amp",
+      "cdnAmpWebUrl": "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/motoring/380996-toyota-wants-to-sell-self-driving-shuttles-which-double-as-on-the-go-offices.html/amp",
+      "publishedDateTime": "2020-12-23T03:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MyBroadband",
+        "domain": "mybroadband.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-23-elon-musk-says-apple-ceo-refused-talks-for-tesla-at-us60-billion-amid-reports-apple-is-to-enter-driverless-car-market.md",
+      "title": "Elon Musk says Apple CEO refused talks for Tesla at US$60 billion amid reports Apple is to enter driverless car market",
+      "excerpt": "This week, Apple’s stock has climbed, while Tesla has slipped on a Reuters report that Apple is aiming to produce a driverless ... driving technology and artificial intelligence focus.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/tech-leaders-and-founders/article/3115042/elon-musk-says-apple-ceo-refused-talks-tesla-us60",
+      "originalUrl": "https://www.scmp.com/tech/tech-leaders-and-founders/article/3115042/elon-musk-says-apple-ceo-refused-talks-tesla-us60",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/12/23/0bc60ba4-44c5-11eb-be92-09cd005df0bf_image_hires_101925.jpg?itok=0DSgdTBW&v=1608689972",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/tech-leaders-and-founders/article/3115042/elon-musk-says-apple-ceo-refused-talks-tesla-us60",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-leaders-and-founders/article/3115042/elon-musk-says-apple-ceo-refused-talks-tesla-us60",
+      "publishedDateTime": "2020-12-22T18:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-23-apple-is-reportedly-advancing-plans-to-develop-a-self-driving-car-heres-what-it-means-for-the-sector.md",
       "title": "Apple is reportedly advancing plans to develop a self-driving car — here's what it means for the sector",
       "excerpt": "Apple is moving ahead with its self-driving car technology and targeting 2024 as the year it produces a passenger vehicle, according to a report from Reuters. Five experts weigh in on what this ...",
@@ -1294,92 +1380,6 @@
       "provider": {
         "name": "Daily Times",
         "domain": "dailytimes.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-mobileye-looks-to-build-its-own-lidar-to-drive-down-self-driving-costs.md",
-      "title": "Mobileye looks to build its own lidar to drive down self-driving costs",
-      "excerpt": "The chief executive of Intel Corp-owned Mobileye on Tuesday laid out plans for a self-driving car system for 2025 that could use house-built lidar sensors rather than units from Luminar Technologies Inc.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-intel-mobileye/mobileye-looks-to-build-its-own-lidar-to-drive-down-self-driving-costs-idUSKBN28P2I7?edition-redirect=ca",
-      "originalUrl": "https://www.reuters.com/article/us-intel-mobileye/mobileye-looks-to-build-its-own-lidar-to-drive-down-self-driving-costs-idUSKBN28P2I7?edition-redirect=ca",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-15T20:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-china-search-giant-baidu-considers-making-own-electric-vehicles-sources.md",
-      "title": "China search giant Baidu considers making own electric vehicles: Sources",
-      "excerpt": "Baidu has held preliminary talks - without ... tech giant Sony Corp in January unveiled an electric concept car with self-driving functions. Building cars would represent a dramatic development ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/world/china-search-giant-baidu-considers-making-own-electric-vehicles-sources-6232731.html",
-      "originalUrl": "https://www.moneycontrol.com/news/world/china-search-giant-baidu-considers-making-own-electric-vehicles-sources-6232731.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2018/07/baidu-770x433.jpg?impolicy=website&width=770&height=431",
-          "width": 770,
-          "height": 431,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/world/china-search-giant-baidu-considers-making-own-electric-vehicles-sources-6232731.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/china-search-giant-baidu-considers-making-own-electric-vehicles-sources-6232731.html/amp",
-      "publishedDateTime": "2020-12-15T19:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
         "images": null,
         "publishers": null,
         "authors": null

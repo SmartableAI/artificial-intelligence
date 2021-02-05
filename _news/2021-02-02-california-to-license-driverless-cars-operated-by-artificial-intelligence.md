@@ -1,30 +1,24 @@
 ---
 category: news
-title: "California to license driverless cars operated by Artificial Intelligence"
-excerpt: "The California Department of Motor Vehicles has officially issued a permit to Baidu USA to begin testing driverless vehicles on public roads in Sunnyvale, California. According to the state Department of Motor Vehicles (DMV),"
-publishedDateTime: 2021-02-02T14:24:00Z
-originalUrl: "https://thehayride.com/2021/02/california-to-license-driverless-cars-operated-by-artificial-intelligence/"
-webUrl: "https://thehayride.com/2021/02/california-to-license-driverless-cars-operated-by-artificial-intelligence/"
-ampWebUrl: "https://thehayride.com/2021/02/california-to-license-driverless-cars-operated-by-artificial-intelligence/?amp_markup=1"
-cdnAmpWebUrl: "https://thehayride-com.cdn.ampproject.org/c/s/thehayride.com/2021/02/california-to-license-driverless-cars-operated-by-artificial-intelligence/?amp_markup=1"
+title: "California to license driverless cars operated by artificial intelligence"
+excerpt: "The California Department of Motor Vehicles has officially issued a permit to Baidu USA to begin testing driverless vehicles on public roads in Sunnyvale, California."
+publishedDateTime: 2021-02-01T21:00:00Z
+originalUrl: "https://www.washingtonexaminer.com/politics/california-to-license-driverless-cars-operated-by-artificial-intelligence"
+webUrl: "https://www.washingtonexaminer.com/politics/california-to-license-driverless-cars-operated-by-artificial-intelligence"
+ampWebUrl: "https://www.washingtonexaminer.com/politics/california-to-license-driverless-cars-operated-by-artificial-intelligence?_amp=true"
+cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/politics/california-to-license-driverless-cars-operated-by-artificial-intelligence?_amp=true"
 type: article
-quality: 73
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: The Hayride
-  domain: thehayride.com
+  name: Washington Examiner
+  domain: washingtonexaminer.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://thehayride.com/wp-content/uploads/2021/02/external-content.duckduckgo.jpg"
-    width: 1280
-    height: 720
-    isCached: true
 
 related:
   - title: "Baidu green light to test driverless autonomous vehicles in California"
@@ -58,6 +52,6 @@ related:
         height: 826
         isCached: true
 
-secured: "odIs4sXGu2Yku0E7SKvXYZdp/ovk5+nXiEv0BTSS32ilu0/0s8tmvRSDr6Dg8NsXz88IX5nTwAFDR63mHMuQBbfulHfLvgppbgH8r/7H65O9xny9Ao+fzSAIBPpfHc5JC2zO93hYgN/1/ES6uiC66MAUFAPBsg0MVKSlBIsOfDD8Yxq8esPMO8HhIh1RUHvxLmHS41mrJ+wJDpg6nLOPRq8tVEU/PiBnc1JKf47jXqpPsA1ZRZXiEMZzye/bRb488z9Va69jBBgtsNAXNqo+CQnEiR5X6Sv1N9HQivjBx5kMWcMQLoFv8Jubr60f3eJm6rbirgGAHMEAwHtNgkiqiQEiXalAPU+PIg7o5gT/Hk8=;VD2aWKOjs0/1kfCtuhrzRg=="
+secured: "QodRizTf3PJcARC4Nov5+uXVL0siOHZQAIasl4UaMcsoSqt/seiaHtjsq8J2sVk+A7QOYHBiGjs1i4X6I1BoPBTlWzq2M8b+YYiWIY8OkocQsCZZ5nMAbxZuWH5u1Yj+YgldYSEoeHguSkqA9JxCVYejij/92IC5cNpoahYqSOUvW8jjqtV3wgJGlEko/K/bkhyDsJJxzd7L74M+DlNTY/iJTIysJfwCz5JzaNYIiyGe1bAmbOM0yILrTPGFDgzasGkROepQSnqkRWCNHYhwkeZebfTvGUGCQ7IFFMz3XYqwra4S2vcC0iNtz1E8+ubo69MS1r37mc8JCuRPVy5TWK0ZTWxIeFfR52+vH7tbbONM/JXbGWWikFxRureG+GJndIgEFAGyDVP+349zN13SxzitQltelVfi2p+UWiw0QuSRHSCNdPlF33NC+2sWahgxlON8ssiJK6x8/IggQH2vczo4A0spWPESiOoASTGnFZpk/5bQ5FMPvBSbmeLiCa6vIV4MH5teLbTXoJDbkw6r9w==;Lu/C4mlY7FPalupn4gmnIQ=="
 ---
 

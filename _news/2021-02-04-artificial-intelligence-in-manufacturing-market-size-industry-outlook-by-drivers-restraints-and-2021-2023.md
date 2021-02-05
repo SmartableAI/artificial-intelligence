@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-size-industry-outlook-by-drivers-restraints-and-2021-2023-2021-02-04"
 type: article
 quality: 63
-heat: 143
+heat: 153
 published: true
 
 provider:
@@ -133,6 +133,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Global Mobile Speech Recognition Software Market Report 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026"
+    excerpt: "The Mobile Speech Recognition Software market is expected to grow from USD X.X million in 2020 to USD X.X million by 2026, at a CAGR of X.X% during the forecast period. The global Mobile Speech Recognition Software market report is a comprehensive research that focuses on the overall consumption structure,"
+    publishedDateTime: 2021-02-05T02:09:00Z
+    webUrl: "https://menafn.com/1101548486/Global-Mobile-Speech-Recognition-Software-Market-Report-2020-by-Key-Players-Types-Applications-Countries-Market-Size-Forecast-to-2026"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 5
+    images:
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
         isCached: true
 
 secured: "0vmO+vcCrgUk/P9ChbruY6Rb8y41tTqbXfXfzE9i8ds7hPybVRSoNuDT4vOPN96G4oHEk/7alJeMt4AIr1hL02SoDzOrbgXak41AgSk6/VT0W7OrWxUhWfFvEdD8Fd6LjR6SVMy7HdEYE4Fot2W2thlPDlgJM+5Qk0LcEQbsb7LVk6GrkLDgjLqXdFu0iz4L4cDTPcqjvVtQVMWFECAtSW2DSB/CtZAJ4njWfPP1hwJUhaGNXfYuRJHxUiwtK/3QCCEDW/I/yJAn0DMBxjM3s6TFikzRZL5vROUc8w/8Jr76dKjZAl/DCQKKIxfVS/QZvw7yCLkiqvoZ+IWdmyOsoS+JZb8dVxFXmYS6WK5yq7w=;Ll0+IwgRIuA2jZex7VPqhg=="

@@ -26,53 +26,48 @@ images:
     isCached: true
 
 related:
-  - title: "Here’s a Way to Learn if Facial Recognition Systems Used Your Photos"
-    excerpt: "An online tool targets only a small slice of what’s out there, but may open some eyes to how widely artificial intelligence research fed on personal images."
-    publishedDateTime: 2021-01-31T10:00:00Z
-    webUrl: "https://www.nytimes.com/2021/01/31/technology/facial-recognition-photo-tool.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/31/technology/facial-recognition-photo-tool.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/31/technology/facial-recognition-photo-tool.amp.html"
+  - title: "How Normal People Deployed Facial Recognition on Capitol Hill Protesters"
+    excerpt: "Facial recognition is now freely accessible to random people on Twitter using a Polish website called Pimeyes."
+    publishedDateTime: 2021-02-02T17:21:00Z
+    webUrl: "https://www.vice.com/en/article/4ad5k3/how-normal-people-deployed-facial-recognition-on-capitol-hill-protesters"
+    ampWebUrl: "https://www.vice.com/amp/en/article/4ad5k3/how-normal-people-deployed-facial-recognition-on-capitol-hill-protesters"
+    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/4ad5k3/how-normal-people-deployed-facial-recognition-on-capitol-hill-protesters"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 91
+      name: VICE
+      domain: vice.com
+    quality: 88
     images:
-      - url: "https://static01.nyt.com/images/2021/01/22/business/22facedata/merlin_182626764_00ff9955-a389-4061-a12f-e547bae6948d-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://video-images.vice.com/articles/601989938019b80095f88ce7/lede/1612286477494-gettyimages-1230453278.jpeg?crop=1xw:0.8429xh;0xw,0.1571xh"
+        width: 5128
+        height: 2881
         isCached: true
-  - title: "Check if your photos were used to develop facial recognition systems with this free tool"
-    excerpt: "A new online tool called Exposing.AI can help you find out if photos of your face were used in AI surveillance research."
-    publishedDateTime: 2021-02-01T13:11:00Z
-    webUrl: "https://thenextweb.com/neural/2021/02/01/check-if-your-photos-were-used-to-develop-facial-recognition-systems-with-this-free-tool/"
-    ampWebUrl: "https://thenextweb.com/neural/2021/02/01/check-if-your-photos-were-used-to-develop-facial-recognition-systems-with-this-free-tool/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/01/check-if-your-photos-were-used-to-develop-facial-recognition-systems-with-this-free-tool/amp/"
+  - title: "Fears raised over facial recognition use at Moscow protests"
+    excerpt: "Russian authorities are deploying facial recognition cameras to identify protesters during rallies in support of Kremlin critic Alexei Navalny in Moscow, human rights groups said, warning that the technology is being used to stifle peaceful dissent."
+    publishedDateTime: 2021-02-04T17:45:00Z
+    webUrl: "https://www.reuters.com/article/russia-protests-tech-idUSL8N2KA54T"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL8N2KA54T"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2KA54T"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 80
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/Untitled-design-2021-02-01T125910.904-796x417.png"
-        width: 796
-        height: 417
-        isCached: true
-  - title: "Here’s a way to find out if facial recognition systems used your photos"
-    excerpt: "Here's a way to find out if facial recognition systems used your photos When tech companies created the facial recognition systems that"
-    publishedDateTime: 2021-01-31T16:54:00Z
-    webUrl: "https://www.compsmag.com/news/technology/heres-a-way-to-find-out-if-facial-recognition-systems-used-your-photos/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/heres-a-way-to-find-out-if-facial-recognition-systems-used-your-photos/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/heres-a-way-to-find-out-if-facial-recognition-systems-used-your-photos/amp/"
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+  - title: "Facial Recognition Tech May Be Being Used Against Russian Protestors"
+    excerpt: "Navalny protests using facial recognition tools, detainees claim. As massive protests sweep across the nation, activists fear Russia has been deploying facial recognition technology to clamp down on dissent."
+    publishedDateTime: 2021-02-01T21:37:00Z
+    webUrl: "https://www.coindesk.com/street-cameras-arrest-protesters-moscow"
+    ampWebUrl: "https://www.coindesk.com/street-cameras-arrest-protesters-moscow?amp=1"
+    cdnAmpWebUrl: "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/street-cameras-arrest-protesters-moscow?amp=1"
     type: article
     provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 61
+      name: CoinDesk
+      domain: coindesk.com
+    quality: 74
     images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/Heres-a-way-to-find-out-if-facial-recognition-systems.jpg"
-        width: 1050
-        height: 550
+      - url: "https://static.coindesk.com/wp-content/uploads/2021/02/GettyImages-1024092068-1200x628.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Apple solves facial recognition problem caused by masks"
     excerpt: "SINCE the coronavirus pandemic has made it necessary for everyone to wear masks, using FaceID on iPhones isn’t quite as good as it was supposed to be. The"
@@ -90,22 +85,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Here’s a way to learn if facial recognition systems used your photos"
-    excerpt: "An online tool targets only a small slice of what’s out there, but may open some eyes to how widely artificial intelligence research fed on personal images."
-    publishedDateTime: 2021-02-01T16:27:00Z
-    webUrl: "https://www.orlandosentinel.com/news/nationworld/ct-nw-nyt-facial-recognition-photos-20210201-idcvahi65bh7zkobkb7wjvwpgy-story.html"
-    ampWebUrl: "https://www.orlandosentinel.com/news/nationworld/ct-nw-nyt-facial-recognition-photos-20210201-idcvahi65bh7zkobkb7wjvwpgy-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/news/nationworld/ct-nw-nyt-facial-recognition-photos-20210201-idcvahi65bh7zkobkb7wjvwpgy-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Orlando Sentinel
-      domain: orlandosentinel.com
-    quality: 59
-    images:
-      - url: "https://www.orlandosentinel.com/resizer/8u3zVMFj8ZrGh5JwqjtNcPSfTwI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SITXYEMZCKKE5TMUY7NNTYPHRY.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Female entrepreneur pioneers facial recognition tech"
     excerpt: "Female entrepreneur pioneers facial recognition tech - Kommunikation - Kim Harrisberg - Charlette N'Guessan Desiree loved maths and science as a student in Ivory... - Allgemeine Zeitung"
     publishedDateTime: 2021-02-01T07:04:00Z
@@ -119,6 +98,20 @@ related:
       - url: "https://cdn.my.na/assets/images/11964/female-entrepreneur-pioneers-facial-recognition-tech2021-02-010.jpg"
         width: 1024
         height: 602
+        isCached: true
+  - title: "Apple creates workaround to facial recognition blocked by face mask"
+    excerpt: "This has probably happened at least once to an Apple user who is trying to unlock their iPhone with the device’s camera. The phone just can’t figure out you are you while you’re wearing a face mask. Jumping through the hoops of trying the camera,"
+    publishedDateTime: 2021-02-03T18:17:00Z
+    webUrl: "https://www.wftv.com/news/trending/apple-creates-workaround-facial-recognition-blocked-by-face-mask/F7GQKNQQ35C3DCUKS3MJMBR5VQ/"
+    type: article
+    provider:
+      name: WFTV
+      domain: wftv.com
+    quality: 39
+    images:
+      - url: "https://www.wftv.com/resizer/CBVb4qLwlF6YmcjIZ6eoh_TT_2k=/1200x628/d1hfln2sfez66z.cloudfront.net/02-03-2021/t_8fc4e0349f8b49209d662ee18ce01ca7_name_thumb.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Millions of US faces scanned without approval, rules for facial recognition needed"
     excerpt: "The powers that be at UCLA thought it was a good idea at the time — using state-of-the-art technology to scan students' faces for gaining access to campus buildings. Students thought otherwise."
@@ -134,17 +127,6 @@ related:
         width: 1240
         height: 823
         isCached: true
-  - title: "Moscow police use facial recognition system to detect participants in unauthorized rally"
-    excerpt: "The system detected those who had been put on the database for their repeated participation in unauthorized events"
-    publishedDateTime: 2021-02-01T03:13:00Z
-    webUrl: "https://tass.com/society/1250959"
-    ampWebUrl: "https://tass.com/society/1250959/amp"
-    cdnAmpWebUrl: "https://tass-com.cdn.ampproject.org/c/s/tass.com/society/1250959/amp"
-    type: article
-    provider:
-      name: TASS
-      domain: tass.com
-    quality: 30
 
 secured: "hJQgUnP/FdZiG1HJSZj4ZkG3V6xwUTflX4Odw+zIEN7QGVg0rg4dKU1+r3PBILm9mE3/pumgU/Db34CVK7D2y8crQch5LNp/BjIsIq2YdqsysyqyI2L69boNJrFrjLn0ngmoascNr9CfoDvt7UIhqcSq5c5ZZTMiNQtYvgkMYlcZF31iv/OO3kshDOsVkiV8KPL8MlMq4+re065rmJAcdnGpkcK7HDdiRQ4XmXj8+rxvDikMZXjj3iPuBn1m3NkzvlmWHHmJskkpwQrwlF9MU2aqttJhmZ6yELqzzxAEQY8i1n+flkmvohkP0xt8WS3fjJFzXsichwEVRaNZQD9G9bkGqe8PRz5BmeePW3EQRJg0Ssl4epTVc9/UC9KHhKU8tvHRhEPpJjoOhwGeRbGRBvm/fcXOilVJriHQIRRDTCJjYmNevAede7TYozBeDNncojzVvn6n6COdQg6pW1El8GrTLARL3tr4jmP5rgwLVIyJ5zxa66MRb/3NkGlEheazaHw5n6S2C+wju0ou4hb49Q==;xoVc30PE4yCiDoR7ku8Txg=="
 ---

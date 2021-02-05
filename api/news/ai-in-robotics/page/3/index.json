@@ -235,6 +235,49 @@
       ]
     },
     {
+      "path": "_news/2021-01-16-what-the-heck-is-going-on-in-wandavision-these-comic-book-storylines-might-explain.md",
+      "title": "What the heck is going on in ‘WandaVision’? These comic book storylines might explain",
+      "excerpt": "Although he’s basically a robot, he has human thoughts and feelings ... both to her suffering a mental breakdown and to being mind controlled. For now, either could explain what is happening ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/entertainment-arts/tv/story/2021-01-15/wandavision-disney-plus-marvel-comic-book-explained",
+      "originalUrl": "https://www.latimes.com/entertainment-arts/tv/story/2021-01-15/wandavision-disney-plus-marvel-comic-book-explained",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/205265d/2147483647/strip/true/crop/3298x2154+0+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fab%2F44%2F2db3677a4918acffe9ba7b9cd92e%2Fwvk0100-101-comp-v016-r709-v02-658c8a82.jpeg",
+          "width": 320,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/entertainment-arts/tv/story/2021-01-15/wandavision-disney-plus-marvel-comic-book-explained?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/entertainment-arts/tv/story/2021-01-15/wandavision-disney-plus-marvel-comic-book-explained?_amp=true",
+      "publishedDateTime": "2021-01-15T11:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-16-global-x-robotics-artificial-intelligence-etf-nasdaqbotz-short-interest-down-604-in-december.md",
       "title": "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Short Interest Down 60.4% in December",
       "excerpt": "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) saw a significant drop in short interest during the month of December. As of December 31st, there was short interest totalling 197,600 shares,",
@@ -1345,49 +1388,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-10-young-and-fearless-startups-enter-global-race-for-space-robotics-and-ai.md",
-      "title": "Young and fearless: Startups enter global race for space, robotics and AI",
-      "excerpt": "While overseas global corporations such as Elon Musk‘s Space X, are leading to charge to turn the stuff of science fiction into reality, in South Korea, the brave companies eyeing the",
-      "sourceUrl": null,
-      "webUrl": "https://business.inquirer.net/315518/young-and-fearless-startups-enter-global-race-for-space-robotics-and-ai",
-      "originalUrl": "https://business.inquirer.net/315518/young-and-fearless-startups-enter-global-race-for-space-robotics-and-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://business.inquirer.net/files/2021/01/20210107000667_0-620x465.jpg",
-          "width": 620,
-          "height": 465,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://business.inquirer.net/315518/young-and-fearless-startups-enter-global-race-for-space-robotics-and-ai/amp",
-      "cdnAmpWebUrl": "https://business-inquirer-net.cdn.ampproject.org/c/s/business.inquirer.net/315518/young-and-fearless-startups-enter-global-race-for-space-robotics-and-ai/amp",
-      "publishedDateTime": "2021-01-09T22:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Philippine Daily Inquirer",
-        "domain": "inquirer.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

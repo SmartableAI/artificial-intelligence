@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/amazon-plans-to-install-ai-powe
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-plans-to-install-ai-powered-cameras-in-delivery-vehicles/"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -77,6 +77,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601b2d2f839ace54f5face8c%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3999%26cropY1%3D206%26cropY2%3D2456"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Amazon adding AI-equipped cameras to delivery vans to monitor safety, sparking privacy concerns"
+    excerpt: "Amazon delivery drivers keeping their eyes on the road could have Amazon keeping an eye on them according to reports that the company is planning to use AI-equipped cameras inside vehicles to"
+    publishedDateTime: 2021-02-05T01:19:00Z
+    webUrl: "https://www.geekwire.com/2021/amazon-adding-ai-equipped-cameras-delivery-vans-monitor-safety-sparking-privacy-concerns/"
+    ampWebUrl: "https://www.geekwire.com/2021/amazon-adding-ai-equipped-cameras-delivery-vans-monitor-safety-sparking-privacy-concerns/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/amazon-adding-ai-equipped-cameras-delivery-vans-monitor-safety-sparking-privacy-concerns/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 75
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2021/02/amazonvan-630x420.jpg"
+        width: 630
+        height: 420
         isCached: true
   - title: "Privacy advocates say Amazon’s plans to put AI cameras in vans will create ‘mobile surveillance machines’"
     excerpt: "Amazon’s plans to install AI-powered cameras in its delivery vans have been slammed by privacy advocates as “the largest expansion of corporate surveillance in human history.” The e-commerce giant has been testing a system that provides real-time monitoring of the roads and drivers."

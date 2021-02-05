@@ -1,45 +1,29 @@
 ---
 category: news
 title: "Carecard Launches Artificial Intelligence-Powered Platform to Tackle the $450 Billion Dollar Prescription Market"
-excerpt: "Carecard launches to make healthcare affordable for everyone by tackling the $450 billion dollar prescription market. Carecard is powered by advanced AI technology, and the Company has secured relationships with major pharmacies nationwide,"
-publishedDateTime: 2021-02-03T14:36:00Z
-originalUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-health-care-costs-medication-4d765d736591a663ef4230894bf2a559"
-webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-health-care-costs-medication-4d765d736591a663ef4230894bf2a559"
+excerpt: "Carecard launches to make healthcare affordable for everyone by tackling the $450 billion dollar prescription market. Carecard is powered"
+publishedDateTime: 2021-02-03T14:08:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/carecard-launches-artificial-intelligence-powered-platform-to-tackle-the-450-billion-dollar-prescription-market-301220937.html"
+webUrl: "https://www.prnewswire.com/news-releases/carecard-launches-artificial-intelligence-powered-platform-to-tackle-the-450-billion-dollar-prescription-market-301220937.html"
 type: article
 quality: 18
 heat: 18
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1431680/Carecard_Logo.jpg?p=facebook"
+    width: 1590
+    height: 832
     isCached: true
 
-related:
-  - title: "Cloud Collaboration Leader Dialpad Achieves Major AI Milestone After Analyzing More Than One Billion Minutes of Voice"
-    excerpt: "Dialpad, Inc., the leading AI-powered cloud communications platform, today announced a significant breakthrough regarding its proprietary Voice Intelligence (Vi™) AI technology. Dialpad’s Voice Intelligence combines automated speech recognition (ASR) and natural language processing to deliver real-time business optimization,"
-    publishedDateTime: 2021-02-03T08:11:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-software-industry-information-technology-desktop-and-enterprise-application-software-db3a849a91434638bca025005ab1b900"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 16
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-
-secured: "9a3f/vy4ojqRkTAT0/u4y75OrTSvTUNIF9MQDcsFZ7bT5ts5LJZsKrd9RxobSfZ+oBy/3N/+e10krf0GOvjj802GKUjCH+YB/aXDw1Fa8g78T5PIyem3aKw3g6pjx4MOOe7i9a7dUZvB7eP9g+kPQ796k8bx4975vun/ue8vDsh7XQl/9eVJW+aSJQQPjq3b33phcl9hY1lVizGV51gJe4wJbIjJMTyEuBrIXq8oiZ39vMdHyIVpq8JsjUvOGMxp7Tx2xYr4vFPdEsfEKLvFRJtfkLXObxfPyVUSuMLcFVWk+/EQWFcBuVCOdVI0ipiWC5D7FAgPoiiwQU8b9/2wyY472M7EPqSMAJkm9yOx8Kk=;kr99I934K+1v5msV0syIRg=="
+secured: "/db959XMVpmRDPzZQHSrXxMJUcvixVaU0ct636OQV3CRNdxZ98gjB3yEkp+/PZlsPk8ihfvtHMFdSP5RmHHMCHoCJOoiM1wMYSb7ABSjEyAdeuTUuuKB3PMQagq9wZTY+li3FF9NGR/Vrw+Tv8GRU6pHSctm8HnN2LssvMMwKdqPQOjsT8fvlk0TDpdOCjw9+HKhMnTdb0ekDx1YzmeBl3NibY9j42spnXxfuaf0aetbBGkaWiqM2iTYyYJinW7lBRwr0SKFwdEQ6q8bbUJt2eVM5J2Eg09tESoXeV7AIBMEaL/iJ9EgmqC19VKrpvTW1hAkqp/xO22g5miAcaW68DljQ7jAXpR85bp6MxMagIw=;NDQjrIY320cwdVi6QgmVAw=="
 ---
 

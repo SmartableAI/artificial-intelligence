@@ -94,6 +94,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Amazon adding AI-equipped cameras to delivery vans to monitor safety, sparking privacy concerns"
+    excerpt: "Amazon delivery drivers keeping their eyes on the road could have Amazon keeping an eye on them according to reports that the company is planning to use AI-equipped cameras inside vehicles to"
+    publishedDateTime: 2021-02-05T01:19:00Z
+    webUrl: "https://www.geekwire.com/2021/amazon-adding-ai-equipped-cameras-delivery-vans-monitor-safety-sparking-privacy-concerns/"
+    ampWebUrl: "https://www.geekwire.com/2021/amazon-adding-ai-equipped-cameras-delivery-vans-monitor-safety-sparking-privacy-concerns/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/amazon-adding-ai-equipped-cameras-delivery-vans-monitor-safety-sparking-privacy-concerns/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 75
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2021/02/amazonvan-630x420.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Next Insurance doubles gross written premium with AI-powered coverage"
     excerpt: "Next Insurance's AI-powered coverage has proved increasingly popular among small businesses during the pandemic."
     publishedDateTime: 2021-02-04T13:55:00Z
