@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-20-healthcare-artificial-intelligence-ai-market-worth-513-billion-by-2027-at-a-cagr-of-414.md",
+      "title": "Healthcare Artificial Intelligence (AI) Market Worth $51.3 Billion by 2027 at a CAGR of 41.4%",
+      "excerpt": "According to this latest publication from Meticulous Research(R), the healthcare artificial intelligence market is",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-worth-513-billion-by-2027-at-a-cagr-of-414-2021-01-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-worth-513-billion-by-2027-at-a-cagr-of-414-2021-01-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-20T06:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-20-why-chicago-is-emerging-an-ai-life-sciences-leader.md",
       "title": "Why Chicago Is Emerging An AI-Life Sciences Leader",
       "excerpt": "Chicago is becoming a world leader in a new frontier of precision medicine. And with continued momentum from Chicago-based academic research, venture funded startups and established enterprises—we can expect this sector to continue to expand in the years to come.",
@@ -348,20 +400,20 @@
     },
     {
       "path": "_news/2021-01-19-facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare.md",
-      "title": "Facebook to use AI in predicting if COVID-19 patients need better healthcare",
-      "excerpt": "Washington [US], January 19 (ANI): American social media giant Facebook is publishing a research conducted by its artificial intelligence (AI) unit in an effort to help healthcare providers ...",
+      "title": "Facebook to use AI in predicting if Covid-19 patients need better healthcare",
+      "excerpt": "Washington [: American social media giant Facebook is publishing a research conducted by its artificial intelligence (AI) unit in an effort to help healthcare providers predict in advance if a ...",
       "sourceUrl": null,
-      "webUrl": "https://www.aninews.in/news/tech/others/facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare20210119005324/",
-      "originalUrl": "https://www.aninews.in/news/tech/others/facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare20210119005324/",
+      "webUrl": "https://www.livemint.com/companies/news/facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare-11611015950906.html",
+      "originalUrl": "https://www.livemint.com/companies/news/facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare-11611015950906.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://aniportalimages.s3.amazonaws.com/media/details/wfsa4753.jpg",
+          "url": "https://images.livemint.com/img/2021/01/19/600x338/2021-01-18T135851Z_33186576_RC2DAL9C6WEM_RTRMADP_3_HUNGARY-MEDIA-REGULATIONS_1611020801836_1611020835549.JPG",
           "width": 600,
-          "height": 450,
+          "height": 338,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -369,13 +421,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-18T17:36:00-08:00",
+      "ampWebUrl": "https://www.livemint.com/companies/news/facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare/amp-11611015950906.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare/amp-11611015950906.html",
+      "publishedDateTime": "2021-01-18T23:17:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Asian News International",
-        "domain": "aninews.in",
+        "name": "Mint",
+        "domain": "livemint.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1282,49 +1334,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-artificial-intelligence-leads-2020-technology-news.md",
-      "title": "Artificial intelligence leads 2020 technology news",
-      "excerpt": "Artificial intelligence hype currently exceeding capability ... First surgery using Orbit subretinal delivery system to deliver AMD gene therapy performed The first surgery using the Orbit ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.healio.com/news/ophthalmology/20210108/artificial-intelligence-leads-2020-technology-news",
-      "originalUrl": "https://www.healio.com/news/ophthalmology/20210108/artificial-intelligence-leads-2020-technology-news",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.healio.com/~/media/images/fscss/i3wyanokecdncom/healio_safe_image.png",
-          "width": 1024,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-10T10:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Healio",
-        "domain": "healio.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

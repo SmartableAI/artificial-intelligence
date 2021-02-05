@@ -1,10 +1,10 @@
 ---
 category: news
 title: "IBM Unveils Elite Hybrid Cloud Build Team Dedicated to Accelerating Modernization Across Partner Ecosystem"
-excerpt: "IBM (NYSE: IBM) today unveiled its highly-specialized Hybrid Cloud Build Team to support the migration and modernization of ecosystem"
-publishedDateTime: 2021-02-04T05:01:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/ibm-unveils-elite-hybrid-cloud-build-team-dedicated-to-accelerating-modernization-across-partner-ecosystem-301221852.html"
-webUrl: "https://www.prnewswire.com/news-releases/ibm-unveils-elite-hybrid-cloud-build-team-dedicated-to-accelerating-modernization-across-partner-ecosystem-301221852.html"
+excerpt: "The novel platform would marry standard insurance industry data with Watson AI and data from the IBM-owned Weather Company to offer clients embedded visualization charts and statistical modeling ..."
+publishedDateTime: 2021-02-04T05:02:00Z
+originalUrl: "https://www.prnewswire.co.uk/news-releases/ibm-unveils-elite-hybrid-cloud-build-team-dedicated-to-accelerating-modernization-across-partner-ecosystem-899515528.html"
+webUrl: "https://www.prnewswire.co.uk/news-releases/ibm-unveils-elite-hybrid-cloud-build-team-dedicated-to-accelerating-modernization-across-partner-ecosystem-899515528.html"
 type: article
 quality: 6
 heat: -1
@@ -12,7 +12,7 @@ published: false
 
 provider:
   name: PR Newswire
-  domain: prnewswire.com
+  domain: prnewswire.co.uk
 
 topics:
   - IBM AI
@@ -56,6 +56,6 @@ related:
         height: 627
         isCached: true
 
-secured: "TRcAhmGNFi/qE7Et6lgia4n+TF1BSE5geS9aEKPidXkuh2YgECVazTYAhhvWG+LQFIVgJ6kuyVc93gagc0QiZMwxYo/2UeaqPcOFzOuJnvz8uDim52K8XdJrRc6nXI5wNFTRa0IUbtYnsuoM6J4eErhQNZNaFp/5Vm4VKsYzm3IbkSutlA+jM0qEIQKDkbyNwhDIHuA45rK+cPaf4+OIcvdg3Emcnopce+surFt93js+FzdnK7qbykMnvsmOfunxOoZHfW+IL8l7nRGIA+TacmkUGecg2P8swOcVJNG/8WbTFrrJhGYgYGYiMPlcUR6L/OSNKdJrN0Q9NyL5sheCpn8kBhkOjlx93u3jymfLTxY=;jnFZvOZQZ9gk0qbV5R/3Tg=="
+secured: "iacOeE/vEBtcnMaNFr5OIpxVj8sbH2ad9VXEge8oss7x6dthBsM7dowKR63TkMelEOAPFI9+IPuILwR0iWZ93OR+mVPLjN8voMop2IQnInsXrcYFiLdc/BVRS87ns4NYzQ5g2yOjw0BfBJsaKVxXfJaOKcbGyyWY89Cc96bnh+/MwLk0LWKcqs3+RapRaWTMsNoip4O/mTgrggLkeSgcQqCfKgFKnFkD6BsWnw8arEFqFGTBTK1WuQkYtR8VGvWwFhGj3R92KcWc5F2R/GzhBieLAXPm3Xr3k059a52aDIoB5I5QHupkBHen+SZo8R9buR91mtOiV1IgHGgYTPb0Wu7NTDLvLENqHtV2ZIiGLAE=;amt7Yim5orKqp/cBbOsUvg=="
 ---
 

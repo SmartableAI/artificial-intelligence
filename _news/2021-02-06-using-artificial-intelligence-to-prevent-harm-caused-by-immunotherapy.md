@@ -1,29 +1,26 @@
 ---
 category: news
 title: "Using Artificial Intelligence to prevent harm caused by immunotherapy"
-excerpt: "Until recently, researchers and oncologists had placed these lung cancer patients into two broad categories: those who would benefit from immunotherapy, and those who likely would not."
-publishedDateTime: 2021-02-05T16:04:00Z
-originalUrl: "https://www.hindustantimes.com/lifestyle/health/using-artificial-intelligence-to-prevent-harm-caused-by-immunotherapy-101612536419735.html"
-webUrl: "https://www.hindustantimes.com/lifestyle/health/using-artificial-intelligence-to-prevent-harm-caused-by-immunotherapy-101612536419735.html"
-ampWebUrl: "https://www.hindustantimes.com/lifestyle/health/using-artificial-intelligence-to-prevent-harm-caused-by-immunotherapy-101612536419735-amp.html"
-cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/lifestyle/health/using-artificial-intelligence-to-prevent-harm-caused-by-immunotherapy-101612536419735-amp.html"
+excerpt: "Until recently, researchers and oncologists had placed lung cancer patients into two broad categories: those who would benefit from immunotherapy, and those who likely would not. Now, researchers, using artificial intelligence (AI) to analyze simple tissue scans,"
+publishedDateTime: 2021-02-05T18:11:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2021/02/210204192459.htm"
+webUrl: "https://www.sciencedaily.com/releases/2021/02/210204192459.htm"
 type: article
-quality: 57
-heat: 67
-published: false
+quality: 64
+heat: 74
+published: true
 
 provider:
-  name: Hindustan Times
-  domain: hindustantimes.com
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - AI in Healthcare
   - AI
-
-images:
-  - url: "https://images.hindustantimes.com/img/2021/02/05/550x309/pexels-photo-2599244_1612540955952_1612540965595.jpeg"
-    width: 549
-    height: 309
-    isCached: true
 
 related:
   - title: "Using Artificial Intelligence to prevent harm caused by immunotherapy"
@@ -38,6 +35,6 @@ related:
       domain: medicalxpress.com
     quality: 54
 
-secured: "EKdClXfXu6HSLpTI0DqSUMsnb59XygMMy1SyzX4HsTjP0A7jwCE3QcPXqRqJX5ly6SKgDvQF6EqTNJSvaHyoaALdiUwHbGKi1nFGQcjK3qZOAtw4b7BWuKHH5V4CBQUIdMe9qfPPuPI+CJBQJGSXe4io4wBEPuAgPzkUCq3mm/nrXoCQbdVoE049PiLSNuzUjl3QhcVKmztaD1cVbLQ0zDiRvAs5Z38I5cK26HEBxDfpdpMfQCRpuL/JbgikYEgqsftqdwVbpZXtTzwKjfJeMEOBVGtAfEV0wxSgjzPmZs+ZSOaiuXyu92gnZi1c3U8Kn9+vGDeTQaU9MUIT9L6VfgmLTn29e3v7WaCG0XQAPqE=;Srt3xOeUUmW/bGTxi42fFA=="
+secured: "Skzc5kkwBZcQomydTDG1drcYX6WgEjxDKGpdpVA+qS6ASGEBT517G5wfQ/hRT8FK2hEUJXeU2F7zceO+KqM18og+D2VcSqsvU60/7YKl/aoJO1vIZjo6ribgUtmBT29jr4VwxN8NYzdFLFj2EU2ynFIQw7y04eV6sfm5O9O40Nn2HlL0SttaEi7bzAUufQ7KJT8fbd+ht0NwsB3963PO9M9OiygR/aH21G/aIfIQS11XuYHcieAHymDK3UsOKOUmL0v1dJCyfSa9fGQcLYZJsh7Jij1wTZhdMJTs7PTvy4BD2Cb+yf/dFzKwQOU4XKbpCdQ2VwuBbSSR+gcljUNqnNOUntsnVd5/pdoWv1RgzUg=;xigYAY/u8T8FvHahJwm3rg=="
 ---
 

@@ -46,13 +46,13 @@ related:
         height: 627
         isCached: true
   - title: "IBM Unveils Elite Hybrid Cloud Build Team Dedicated to Accelerating Modernization Across Partner Ecosystem"
-    excerpt: "IBM (NYSE: IBM) today unveiled its highly-specialized Hybrid Cloud Build Team to support the migration and modernization of ecosystem"
-    publishedDateTime: 2021-02-04T05:01:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ibm-unveils-elite-hybrid-cloud-build-team-dedicated-to-accelerating-modernization-across-partner-ecosystem-301221852.html"
+    excerpt: "The novel platform would marry standard insurance industry data with Watson AI and data from the IBM-owned Weather Company to offer clients embedded visualization charts and statistical modeling ..."
+    publishedDateTime: 2021-02-04T05:02:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/ibm-unveils-elite-hybrid-cloud-build-team-dedicated-to-accelerating-modernization-across-partner-ecosystem-899515528.html"
     type: article
     provider:
       name: PR Newswire
-      domain: prnewswire.com
+      domain: prnewswire.co.uk
     quality: 6
     images:
       - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"

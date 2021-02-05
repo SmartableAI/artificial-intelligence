@@ -47,6 +47,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Universal Robots’ Safety Expert Recognized in '20 Exceptional Women in Robotics and Automation' List by SME"
+    excerpt: "Roberta Nelson Shea, Universal Robots’ Global Technical Compliance Officer, is celebrated today by SME, the professional association committed to advancing manufacturing."
+    publishedDateTime: 2021-02-05T18:33:00Z
+    webUrl: "https://www.automation.com/en-us/articles/february-2021/universal-robots-safety-expert-robotics-sme"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 36
+    images:
+      - url: "https://www.automation.com/getmedia/a9c6e7b5-36cb-48aa-bc8d-6d956355093f/Universal-robots-Feb-5-2021-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
 
 secured: "jAW0oqdq9UY2dL4KMMwoRVYB/t7GS0uGoIEAAMpAkmEvUXy3SwnZ8iAp64Av2dk5SAaHTWGTi8dovQvp2iCHyRRYmbeTdChrvjKTZD6CGjRpSD97cQ9qaqyiG59Cmlv+W3LcxcfXET7+z7Wgzz5RGj/59zej6kAn6xlbtAzJYh8Zr/MKZ82n19f4wKn5COV+XdJOC2Bfk5tORI60wSghEQ6vLSmzZtukPfR4tI6aB8Lpoc9lnpWnQYn62ZU1rtYCZf6GigL981rGUHFZqccQj/UOi13BoMW5Mk9Jq4eE2x16VzO0T3EnqENMu/wRxzk/Dlrie0bV428rs+9gTWHg7/YqeFoFl07VFLQHrOBBbog=;G7MpJOjFkpYM4cfQ83vmTQ=="
 ---

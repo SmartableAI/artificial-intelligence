@@ -2,6 +2,206 @@
   "page": 78,
   "value": [
     {
+      "path": "_news/2020-12-05-improving-ophthalmologic-care-through-artificial-intelligence.md",
+      "title": "Improving ophthalmologic care through artificial intelligence",
+      "excerpt": "For some, hearing the words artificial intelligence, or AI, sparks imaginative scenes of robot overlords, self-driving cars, dystopian surveillance, chatbots, and machines replacing humans at work.",
+      "sourceUrl": null,
+      "webUrl": "https://med.stanford.edu/ophthalmology/news-and-media/annualreport_2020/artificial-intelligence.html",
+      "originalUrl": "https://med.stanford.edu/ophthalmology/news-and-media/annualreport_2020/artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://med.stanford.edu/content/dam/sm/ophthalmology/images/artificial_intelligence.jpeg",
+          "width": 3024,
+          "height": 4032,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-04T12:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stanford News",
+        "domain": "stanford.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-12-05-language-services-market-globalization-of-businesses-to-boost-the-market-growth-technavio.md",
+      "title": "Language Services Market | Globalization of Businesses to Boost the Market Growth | Technavio",
+      "excerpt": "The language services market is expected to grow by USD 9.72 billion during 2020-2024. The report also provides competitive insights into the market impact and new opportunities created due to the COVID-19 pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.globalbankingandfinance.com/category/news/language-services-market-globalization-of-businesses-to-boost-the-market-growth-technavio/",
+      "originalUrl": "https://www.globalbankingandfinance.com/category/news/language-services-market-globalization-of-businesses-to-boost-the-market-growth-technavio/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-04T12:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "List of Banks in Belarus",
+        "domain": "globalbankingandfinance.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-05-getting-there-structured-data-semantics-robotics-and-the-future-of-ai.md",
+      "title": "Getting there: Structured data, semantics, robotics, and the future of AI",
+      "excerpt": "Leveraging structure in data is key to making progress in AI, says AI prodigy Gary Marcus. A forward-looking view on Software 2.0, AI chips, robotics, and the future of AI",
+      "sourceUrl": null,
+      "webUrl": "https://montrealartificialintelligence.com/aidebate2.html",
+      "originalUrl": "https://www.zdnet.com/article/getting-there-structured-data-semantics-robotics-and-the-future-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://montrealartificialintelligence.com/aidebate2mosaic1440x720v8.jpg",
+          "width": 1440,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-04T12:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-12-05-new-wmg-ai-algorithms-raises-hope-for-human-like-robot-hands.md",
+      "title": "New WMG AI algorithms raises hope for human-like Robot hands",
+      "excerpt": "Researchers at WMG, University of Warwick, have produced groundbreaking artificial intelligence algorithms that enable a robot to perform dexterous manipulation of objects just like humans. While dexterous manipulation of objects is a basic and perfunctory task for humans,",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2020/12/04/new-wmg-ai-algorithms-raises-hope-for-human-like-robot-hands/",
+      "originalUrl": "https://www.gizmochina.com/2020/12/04/new-wmg-ai-algorithms-raises-hope-for-human-like-robot-hands/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2020/12/robot.png",
+          "width": 600,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-04T11:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-05-government-to-seek-advice-on-facial-recognition-tech-laws.md",
       "title": "Government to seek advice on facial recognition tech laws",
       "excerpt": "A new report has raised serious concerns over a \"regulation gap\" determining how the government uses facial recognition.",
@@ -982,196 +1182,6 @@
         "AWS AI",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-ntt-co-authored-papers-at-neurips-to-advance-machine-learning-efficiency-and-performance.md",
-      "title": "NTT Co-authored Papers at NeurIPS to Advance Machine Learning Efficiency and Performance",
-      "excerpt": "Ground-breaking Topics Include Neural Network Pruning, Meta Learning and Alternative Bayes",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/press-releases/2020-12-03/ntt-co-authored-papers-at-neurips-to-advance-machine-learning-efficiency-and-performance",
-      "originalUrl": "https://www.bloomberg.com/press-releases/2020-12-03/ntt-co-authored-papers-at-neurips-to-advance-machine-learning-efficiency-and-performance",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-03T20:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-global-artificial-intelligence-ai-chips-market-report-future-prospects-growth-outlook-and-forecast-2020-2027.md",
-      "title": "Global Artificial Intelligence (AI) Chips Market Report Future Prospects, Growth, Outlook and Forecast 2020-2027",
-      "excerpt": "This report predicted drivers, restraints, challenges, and opportunities pertaining to the target product's market. The objective of the study is to define market sizes of different segments and countries in previous years and to forecast the values to the next Five years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chips-market-report-future-prospects-growth-outlook-and-forecast-2020-2027-2020-12-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chips-market-report-future-prospects-growth-outlook-and-forecast-2020-2027-2020-12-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 198,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-03T20:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-the-journey-to-make-robots-more-human.md",
-      "title": "The journey to make robots more human",
-      "excerpt": "The latest exhibition at the Hong Kong Science Museum shows the 500-year journey to make machines more realistic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/yp/discover/news/hong-kong/article/3112505/journey-make-robots-more-human",
-      "originalUrl": "https://www.scmp.com/yp/discover/news/hong-kong/article/3112505/journey-make-robots-more-human",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_young_post/public/d8/images/2020/12/04/20201112_0062b.jpg?itok=ZcDEbaOz",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/yp/discover/news/hong-kong/article/3112505/journey-make-robots-more-human",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/yp/discover/news/hong-kong/article/3112505/journey-make-robots-more-human",
-      "publishedDateTime": "2020-12-03T20:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-seoul-fintech-lab-to-hold-online-meet-up-with-singapore-fintech-association-on-december-10.md",
-      "title": "Seoul Fintech Lab to Hold Online Meet-up With Singapore Fintech Association on December 10",
-      "excerpt": "Seoul Fintech Lab holds an online Seoul Fintech Meet with Singapore Fintech Association on Dec 10 to support startups' entry to the global market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201203006158/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20201203006158/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-03T20:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

@@ -60,20 +60,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Three ways artificial intelligence could change the markets"
-    excerpt: "AI is reshaping certain businesses faster than others — in particular, transport, healthcare and the digital landscape are in for an overhaul."
-    publishedDateTime: 2021-02-05T13:05:00Z
-    webUrl: "https://www.cmcmarkets.com/en-gb/opto/three-ways-artificial-intelligence-could-change-the-markets"
-    type: article
-    provider:
-      name: CMC Markets
-      domain: cmcmarkets.com
-    quality: 41
-    images:
-      - url: "https://assets.cmcmarkets.com/images/AI0402_medium.jpg"
-        width: 768
-        height: 576
-        isCached: true
   - title: "Why AI Can’t Solve Everything"
     excerpt: "We are now seeing governments pledge support to national AI initiatives and compete in a technological and rhetorical arms race to dominate the burgeoning machine learning sector."
     publishedDateTime: 2021-02-05T06:20:00Z
@@ -87,6 +73,20 @@ related:
       - url: "https://goodmenproject.com/wp-content/uploads/2021/01/iStock-1206796363-1.jpg"
         width: 800
         height: 426
+        isCached: true
+  - title: "Three ways artificial intelligence could change the markets"
+    excerpt: "AI is reshaping certain businesses faster than others — in particular, transport, healthcare and the digital landscape are in for an overhaul."
+    publishedDateTime: 2021-02-05T13:05:00Z
+    webUrl: "https://www.cmcmarkets.com/en-au/opto/three-ways-artificial-intelligence-could-change-the-markets"
+    type: article
+    provider:
+      name: CMC Markets
+      domain: cmcmarkets.com
+    quality: 39
+    images:
+      - url: "https://assets.cmcmarkets.com/images/AI0402_medium.jpg"
+        width: 768
+        height: 576
         isCached: true
 
 secured: "8xMRWY8gPoB/0XSBaUyugXsaUovj5yi9MbR6uzuoPMMO9nqrz+DI59WeZubnIbcVcMdrnq5v7jVi7shKDzmIta+QivGo/M/rAGPLntH/p4QPkwJoqGI0KStw18gcEk9k9rnd/1dH0LzvCb75Ydp7R95hD+zwTKZOX1ugtecxO/q95Vm2YfzqUySmR225/Ii/xYUQTqyVBWL1+yKQNa0PEnkP5vhCR7dsVjH0uX74lgnNo4yyVPPkN9CJ/Ad4IdjESih1VY1teYq5jMJwIYo9zO6qrqYWI6vzH3Opy2r5yWhGoWSsvOeX+swTkLiqHFMAQygyjg1luE+2hegtVWZ8Di3hwLizBXAfYQL98plI4+l0Pl5qW2jNf7ni6BfI6xdZMC6ZVdi1soXhzOT0HEkITxyslCfWp3uvtaICqQBpn3fWh1iIUaNXiB88z+5mWKSEixlP2eSR+MLHdH6/E8JKQESO8OeTCrja+Q+OfcIIvzDKi5z08JzVolGqJYoDqq2e4qmZWxmkJYkI1RwdHfqFTg==;lnGgZfuaMcP96v9h/DBvkw=="

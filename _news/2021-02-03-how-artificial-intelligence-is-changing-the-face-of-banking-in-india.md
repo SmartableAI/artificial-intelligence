@@ -24,19 +24,31 @@ images:
     isCached: true
 
 related:
-  - title: "Sony Patent Shows AI Capable Of Changing The Difficulty Of The Game In Real-Time"
-    excerpt: "Our expectations for next-gen consoles like the PlayStation 5 are high; Its power opens up a whole new world of possibilities in our games, beyond beautiful graphics thanks to the new GPU from AMD. While the demand for PlayStation 5 is increasing day by day around the world,"
-    publishedDateTime: 2021-02-05T13:11:00Z
-    webUrl: "https://techlog360.com/sony-patent-ai-capable-of-changing-the-difficulty-of-the-game-in-real-time/"
-    ampWebUrl: "https://techlog360.com/sony-patent-ai-capable-of-changing-the-difficulty-of-the-game-in-real-time/amp/"
-    cdnAmpWebUrl: "https://techlog360-com.cdn.ampproject.org/c/s/techlog360.com/sony-patent-ai-capable-of-changing-the-difficulty-of-the-game-in-real-time/amp/"
+  - title: "The race for AI is getting tight, but who is winning it?"
+    excerpt: "Daphné Leprince-Ringuet says global superpowers are competing to win the AI race, but the winners and losers aren't so clear-cut. Read more:"
+    publishedDateTime: 2021-02-05T17:07:00Z
+    webUrl: "https://www.zdnet.com/video/the-race-for-ai-is-getting-tight-but-who-is-winning-it/"
     type: article
     provider:
-      name: techlog360.com
-      domain: techlog360.com
-    quality: 54
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
     images:
-      - url: "https://i1.wp.com/tl360.b-cdn.net/wp-content/uploads/2021/02/AI-capable-Of-Changing-The-Difficulty-Of-The-Game.jpg?fit=1200%2C630&#038;ssl=1"
+      - url: "https://zdnet3.cbsistatic.com/hub/i/r/2021/02/05/74033f3c-63ec-45af-8941-ed95f206ca34/thumbnail/770x578/1f14bcfbfbb7b59c91385d1fef650225/20210205-daphne-karen-race.jpg"
+        width: 770
+        height: 578
+        isCached: true
+  - title: "Closing the gap to win the AI marathon"
+    excerpt: "Fortunately for the U.S., the race for AI superiority with China is not a sprint. An industry expert shares ideas for how Washington can come out ahead in the long run."
+    publishedDateTime: 2021-02-02T21:00:00Z
+    webUrl: "https://www.navytimes.com/thought-leadership/2021/02/02/closing-the-gap-to-win-the-ai-marathon/"
+    type: article
+    provider:
+      name: Navy Times
+      domain: navytimes.com
+    quality: 39
+    images:
+      - url: "https://www.armytimes.com/resizer/p3zemX6HJKBa4qaZxvSnd7xISxo=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/SY7J6A2BH5ACZDPUZLELFFKBNU.png"
         width: 1200
         height: 630
         isCached: true

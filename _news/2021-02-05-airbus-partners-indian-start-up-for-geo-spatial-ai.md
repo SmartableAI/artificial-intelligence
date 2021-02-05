@@ -41,19 +41,16 @@ related:
         height: 350
         isCached: true
   - title: "Airbus partners Indian startup HyperVerge for geo-spatial AI"
-    excerpt: "Aerospace major Airbus on Friday said its geospatial digital platform delivering satellite imagery, analytics and services, OneAtlas,"
-    publishedDateTime: 2021-02-05T15:34:00Z
-    webUrl: "https://www.glamsham.com/world/technology/airbus-partners-indian-startup-hyperverge-for-geo-spatial-ai"
+    excerpt: "Aerospace major Airbus on Friday said its geospatial digital platform delivering satellite imagery, analytics and services, OneAtlas, will partner with Bengaluru-based startup, HyperVerge, to implement and integrate new Artificial Intelligence (AI)-based analysis of satellite data."
+    publishedDateTime: 2021-02-05T14:24:00Z
+    webUrl: "https://www.sify.com/news/airbus-partners-indian-startup-hyperverge-for-geo-spatial-ai-news-education-vcfplPhgbibei.html"
+    ampWebUrl: "https://www.sify.com/news/airbus-partners-indian-startup-hyperverge-for-geo-spatial-ai-news-education-vcfplPhgbibei.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/airbus-partners-indian-startup-hyperverge-for-geo-spatial-ai-news-education-vcfplPhgbibei.html"
     type: article
     provider:
-      name: glamsham.com
-      domain: glamsham.com
+      name: Sify.com
+      domain: sify.com
     quality: 37
-    images:
-      - url: "https://www.glamsham.com/wp-content/uploads/2021/02/b9372d74bea2fdeef8bef78e6f24e778.jpg"
-        width: 400
-        height: 300
-        isCached: true
 
 secured: "yFwghrRPVWMCnP4owLKBA5v05alKIFbyq5NyYY4DXwXu76xK3Jm4vElydRctS3ECR8bdlWpPzqrDdGjAT1NdFLq2bZ3or7VzbHwgvbhD4UmKD6xIglksQqh08QSLjWfX0fX/kuTr3aGNUjNciw8SHibF6JoZRsd13RII2ZhfvlwlEWDQB4S7HH9qDkWjofjXa6P+MJx9gy82rYIFUKTw+h8FboCNCoEGNDxsFtIw13yNaVIK6ywokeE840quuNE1wljPgnUjO7ZMQUjmh93Z8LRkm2iTf0lBoYdTGo01JWnl3vECySfvJMeHjohWDB0gj0wN/op8ObzYSrKMAP8DFppyK3XNmlHVDybvM12FQHE=;TPqjiYyUbnjiK5aJMWgCng=="
 ---

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-05-ai-drives-the-evolution-of-technology-and-data-governance.md",
+      "title": "AI drives the evolution of technology and data governance",
+      "excerpt": "Key points focusing on how AI drives the evolution of technology and data governance and how an increase in customer demand and regulatory activity will necessitate companies to take a closer look at their approach.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-drives-the-evolution-of-technology-and-data-governance/",
+      "originalUrl": "https://www.zdnet.com/article/ai-drives-the-evolution-of-technology-and-data-governance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-drives-the-evolution-of-technology-and-data-governance/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-drives-the-evolution-of-technology-and-data-governance/",
+      "publishedDateTime": "2021-02-04T14:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-04-two-google-engineers-resign-over-firing-of-ai-ethics-researcher.md",
       "title": "Two Google engineers resign over firing of AI ethics researcher",
       "excerpt": "An engineering director and a software developer have quit Alphabet's Google over the dismissal of AI researcher Timnit Gebru, a sign of the ongoing conflicts at the search giant over diversity and ethics.",
@@ -1414,49 +1457,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-new-google-union-condemns-investigation-of-ai-ethics-researcher.md",
-      "title": "New Google union condemns investigation of AI ethics researcher",
-      "excerpt": "A union of workers at Google and its parent company Alphabet is condemning Google's investigation of an AI ethics researcher.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxbusiness.com/technology/google-union-investigation-ai-ethics-researcher",
-      "originalUrl": "https://www.foxbusiness.com/technology/google-union-investigation-ai-ethics-researcher",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.foxbusiness.com/BrightCove/854081161001/202012/226/854081161001_6218250239001_6218243109001-vs.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxbusiness.com/technology/google-union-investigation-ai-ethics-researcher.amp",
-      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/google-union-investigation-ai-ethics-researcher.amp",
-      "publishedDateTime": "2021-01-21T10:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox Business",
-        "domain": "foxbusiness.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

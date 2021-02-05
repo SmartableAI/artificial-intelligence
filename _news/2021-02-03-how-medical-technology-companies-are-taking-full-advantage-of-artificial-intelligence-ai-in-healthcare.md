@@ -104,6 +104,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 67
+  - title: "Top AI Startups to Watch in 2021"
+    excerpt: "An abundance of startup companies that introduce new applications of artificial intelligence have emerged over the years. In 2020, Crunchbase’s records show that the number of AI startups is already about the breach the 10,000 mark. The number has ..."
+    publishedDateTime: 2021-02-05T16:34:00Z
+    webUrl: "https://www.ibtimes.com/top-ai-startups-watch-2021-3138837"
+    ampWebUrl: "https://www.ibtimes.com/top-ai-startups-watch-2021-3138837?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/top-ai-startups-watch-2021-3138837?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 57
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/05/top-ai-startups-watch-2021.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "How AI Will Reshape Healthcare After The Pandemic"
     excerpt: "The Covid-19 crisis has affected healthcare workers and the healthcare system in many profound ways. In an article for The New Yorker, Dr. Siddhartha Mukherjee showed that the healthcare industry has failed to provide adequate support and care to its patients and practitioners,"
     publishedDateTime: 2021-02-03T11:09:00Z

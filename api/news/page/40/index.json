@@ -2,6 +2,179 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2021-01-07-intels-new-realsense-id-packs-on-device-facial-recognition.md",
+      "title": "Intel's new RealSense ID packs on-device facial recognition",
+      "excerpt": "Intel's new RealSense ID will cost $99 and launch in Q1 2021 with built-in anti-spoofing technology protecting your data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/77159/intels-new-realsense-id-packs-on-device-facial-recognition/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/77159/intels-new-realsense-id-packs-on-device-facial-recognition/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tweaktown.com/news/7/7/77159_03_intels-new-realsense-id-packs-on-device-facial-recognition.png",
+          "width": 620,
+          "height": 387,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tweaktown.com/news/77159/intels-new-realsense-id-packs-on-device-facial-recognition/amp.html",
+      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/77159/intels-new-realsense-id-packs-on-device-facial-recognition/amp.html",
+      "publishedDateTime": "2021-01-06T22:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-need-a-covid-test-look-for-a-vending-machine.md",
+      "title": "Need a COVID test? Look for a vending machine",
+      "excerpt": "\"Our unique cloud architecture allows us to service many use cases like Wellness 4 Humanity, while having machine learning power our operations,\" Smith said. Swyft's other customers include CVS, Best Buy, and 7-Eleven. These companies use Swyft's automated ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/need-a-covid-test-look-for-a-vending-machine/",
+      "originalUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/need-a-covid-test-look-for-a-vending-machine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2021/01/06/94c4c6b9-7324-42c8-a7e1-a8b8dec10bea/resize/1200x/9b85599fd04562d09f3944361b6379d2/istock-1224323409.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/need-a-covid-test-look-for-a-vending-machine/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/need-a-covid-test-look-for-a-vending-machine/",
+      "publishedDateTime": "2021-01-06T21:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-video-search-pioneer-panopto-hires-ibm-ai-marketing-executive.md",
+      "title": "Video Search Pioneer Panopto Hires IBM AI Marketing Executive",
+      "excerpt": "Neway brings a unique combination of marketing leadership, B2B expertise, and B2C brand experience to Panopto. Panopto’s video management system helps large enterprises and higher educational institutions build,",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210107005168/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20210107005168/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-06T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-aws-invites-registrations-for-free-online-event-on-artificial-intelligence-here-are-the-details.md",
+      "title": "AWS Invites Registrations for Free Online Event on Artificial Intelligence: Here Are the Details",
+      "excerpt": "AWS has invited organisations and individuals to take part in a free event on artificial intelligence called “Amazon AI Conclave” AWS has invited individuals and businesses to take part in a free online event on artificial intelligence. The event ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/aws-invites-registrations-free-online-event-artificial-intelligence-details/",
+      "originalUrl": "https://www.dqindia.com/aws-invites-registrations-free-online-event-artificial-intelligence-details/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2020/05/online-5059828_640.jpg",
+          "width": 674,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/aws-invites-registrations-free-online-event-artificial-intelligence-details/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/aws-invites-registrations-free-online-event-artificial-intelligence-details/amp/",
+      "publishedDateTime": "2021-01-06T20:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-researchers-use-ai-to-separate-conspiracy-from-fact.md",
       "title": "Researchers Use AI to Separate Conspiracy From Fact",
       "excerpt": "Researchers at UCLA have created a model to distinguish conspiracy theories from actual conspiracies which will possibly allow robots to differentiate between things like Pizzagate and Bridgegate in the future.",
@@ -1029,196 +1202,6 @@
         "AI Hardware",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-researchers-find-machine-learning-models-still-struggle-to-detect-hate-speech.md",
-      "title": "Researchers find machine learning models still struggle to detect hate speech",
-      "excerpt": "Detecting hate speech is a task even state-of-the-art machine learning models struggle with. That’s because harmful speech comes in many different forms, and models must learn to differentiate ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/06/researchers-find-machine-learning-models-still-struggle-to-detect-hate-speech/",
-      "originalUrl": "https://venturebeat.com/2021/01/06/researchers-find-machine-learning-models-still-struggle-to-detect-hate-speech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/06/researchers-find-machine-learning-models-still-struggle-to-detect-hate-speech/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/06/researchers-find-machine-learning-models-still-struggle-to-detect-hate-speech/amp/",
-      "publishedDateTime": "2021-01-06T06:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-ai-draws-dog-walking-baby-radish-in-a-tutu.md",
-      "title": "AI draws dog-walking baby radish in a tutu",
-      "excerpt": "These pictures were generated from the command \"An illustration of a baby daikon radish in a tutu walking a dog\" Avocado-shaped armchairs, radishes in tutus and cats in sunglasses are among some surreal works of art created by an artificial-intelligence system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/technology-55559463",
-      "originalUrl": "https://www.bbc.com/news/technology-55559463",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/15F6E/production/_116366998_radish.png",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/amp/technology-55559463",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-55559463",
-      "publishedDateTime": "2021-01-06T06:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-openai-model-generates-whimsical-images-from-text-prompts.md",
-      "title": "OpenAI model generates whimsical images from text prompts",
-      "excerpt": "AI research laboratory OpenAI has shared a multimodel AI system - dubbed DALL.E - which combines natural language processing and computer vision to generate images from text captions. DALL.E uses a 12 billion parameter version of GPT-3 – a model for ...",
-      "sourceUrl": null,
-      "webUrl": "https://eandt.theiet.org/content/articles/2021/01/openai-model-generates-whimsical-images-from-text-prompts/",
-      "originalUrl": "https://eandt.theiet.org/content/articles/2021/01/openai-model-generates-whimsical-images-from-text-prompts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://eandt.theiet.org/media/14700/dalle-blue-strawberry-stained-glass.jpg?crop=0,0,0,0.50564971751412424&cropmode=percentage&width=1200&height=450&rnd=132544117900000000",
-          "width": 1200,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-06T05:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IET",
-        "domain": "theiet.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-singapore-central-bank-reports-successful-first-phase-of-ethical-ai-project.md",
-      "title": "Singapore central bank reports successful first phase of ethical AI project",
-      "excerpt": "The Monetary Authority of Singapore (MAS) today announced the successful conclusion of the first phase of the Veritas initiative which saw the development of the fairness assessment methodology in credit risk scoring and customer marketing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.finextra.com/pressarticle/85615/singapore-central-bank-reports-successful-first-phase-of-ethical-ai-project",
-      "originalUrl": "https://www.finextra.com/pressarticle/85615/singapore-central-bank-reports-successful-first-phase-of-ethical-ai-project",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-06T05:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

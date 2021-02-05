@@ -2,6 +2,152 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-06-using-artificial-intelligence-to-prevent-harm-caused-by-immunotherapy.md",
+      "title": "Using Artificial Intelligence to prevent harm caused by immunotherapy",
+      "excerpt": "Until recently, researchers and oncologists had placed lung cancer patients into two broad categories: those who would benefit from immunotherapy, and those who likely would not. Now, researchers, using artificial intelligence (AI) to analyze simple tissue scans,",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2021/02/210204192459.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2021/02/210204192459.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-05T10:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-05-anomaly-detection-with-amazon-lookout-for-metrics.md",
+      "title": "Anomaly detection with Amazon Lookout for Metrics",
+      "excerpt": "This is a guest blog post from Quantiphi, an AWS Advanced Consulting Partner that specializes in artificial intelligence, machine learning, and data and analytics solutions. We’ve all heard the saying “time is money,” and that’s especially true for the retail industry. In a highly competitive environment",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/anomaly-detection-with-amazon-lookout-for-metrics/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/anomaly-detection-with-amazon-lookout-for-metrics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/03/LookoutforMetrics.jpg",
+          "width": 800,
+          "height": 312,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-05T09:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-06-the-race-for-ai-is-getting-tight-but-who-is-winning-it.md",
+      "title": "The race for AI is getting tight, but who is winning it?",
+      "excerpt": "Daphné Leprince-Ringuet says global superpowers are competing to win the AI race, but the winners and losers aren't so clear-cut. Read more:",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/video/the-race-for-ai-is-getting-tight-but-who-is-winning-it/",
+      "originalUrl": "https://www.zdnet.com/video/the-race-for-ai-is-getting-tight-but-who-is-winning-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2021/02/05/74033f3c-63ec-45af-8941-ed95f206ca34/thumbnail/770x578/1f14bcfbfbb7b59c91385d1fef650225/20210205-daphne-karen-race.jpg",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-05T09:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-05-airbus-partners-indian-start-up-for-geo-spatial-ai.md",
       "title": "Airbus partners Indian start-up for geo-spatial AI",
       "excerpt": "OneAtlas, the Airbus geospatial digital platform delivering satellite imagery, analytics and services, will partner with Bengaluru-based start-up, HyperVerge, to implement and integrate new Artificial",
@@ -177,6 +323,49 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-05-vantagepoint-ai-publishes-weekly-stock-study-to-demonstrate-the-power-of-artificial-intelligence.md",
+      "title": "Vantagepoint AI Publishes Weekly \"Stock Study\" To Demonstrate the Power of Artificial Intelligence",
+      "excerpt": "Vantagepoint AI was the first company in the world to give independent traders the power of artificial intelligence for their home computers. Company founder, Louis Mendelsohn, rocked the financial trading world when he introduced his strategy back-testing using artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/vantagepoint-ai-publishes-weekly-stock-study-to-demonstrate-the-power-of-artificial-intelligence-1030048342",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/vantagepoint-ai-publishes-weekly-stock-study-to-demonstrate-the-power-of-artificial-intelligence-1030048342",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/vantagepoint-ai-publishes-weekly-stock-study-to-demonstrate-the-power-of-artificial-intelligence-1030048342",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/vantagepoint-ai-publishes-weekly-stock-study-to-demonstrate-the-power-of-artificial-intelligence-1030048342",
+      "publishedDateTime": "2021-02-05T05:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
         "AI"
       ]
     },
@@ -628,7 +817,7 @@
       "originalUrl": "https://www.reuters.com/article/us-bosnia-robot-idINKBN2A41U5",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -676,8 +865,8 @@
       "title": "How an AI-powered robot could upend wine storage (for those who can afford it)",
       "excerpt": "A new tech company, WineCab, is using software to improve wine management, storing wine and offering tips on what kind of wine to try next. Here's how it works.",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/how-an-ai-powered-robot-could-upend-wine-storage-for-those-who-can-afford-it/",
-      "originalUrl": "https://www.techrepublic.com/article/how-an-ai-powered-robot-could-upend-wine-storage-for-those-who-can-afford-it/",
+      "webUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/how-an-ai-powered-robot-could-upend-wine-storage-for-those-who-can-afford-it/",
+      "originalUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/how-an-ai-powered-robot-could-upend-wine-storage-for-those-who-can-afford-it/",
       "featuredContent": null,
       "highlight": null,
       "heat": 100,
@@ -694,8 +883,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-an-ai-powered-robot-could-upend-wine-storage-for-those-who-can-afford-it/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-an-ai-powered-robot-could-upend-wine-storage-for-those-who-can-afford-it/",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/how-an-ai-powered-robot-could-upend-wine-storage-for-those-who-can-afford-it/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/how-an-ai-powered-robot-could-upend-wine-storage-for-those-who-can-afford-it/",
       "publishedDateTime": "2021-02-04T15:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -728,17 +917,17 @@
       "title": "AI drives the evolution of technology and data governance",
       "excerpt": "Key points focusing on how AI drives the evolution of technology and data governance and how an increase in customer demand and regulatory activity will necessitate companies to take a closer look at their approach.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/publisher/6291689/index.php/article/ai-drives-the-evolution-of-technology-and-data-governance/",
-      "originalUrl": "https://www.zdnet.com/index.php/publisher/6291689/index.php/article/ai-drives-the-evolution-of-technology-and-data-governance/",
+      "webUrl": "https://www.zdnet.com/article/ai-drives-the-evolution-of-technology-and-data-governance/",
+      "originalUrl": "https://www.zdnet.com/article/ai-drives-the-evolution-of-technology-and-data-governance/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 79,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/publisher/6291689/index.php/google-amp/article/ai-drives-the-evolution-of-technology-and-data-governance/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/6291689/index.php/google-amp/article/ai-drives-the-evolution-of-technology-and-data-governance/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-drives-the-evolution-of-technology-and-data-governance/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-drives-the-evolution-of-technology-and-data-governance/",
       "publishedDateTime": "2021-02-04T14:47:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -762,6 +951,7 @@
         "news"
       ],
       "topics": [
+        "AI Ethics",
         "AI"
       ]
     },
@@ -1006,203 +1196,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-ibm-rolls-out-an-all-new-elite-hybrid-cloud-build-team-for-ai-partners.md",
-      "title": "IBM rolls out an all-new Elite Hybrid Cloud Build team for AI partners",
-      "excerpt": "IBM today announced the formation of its Elite Hybrid Cloud Build Team. According to Big Blue, this group of AI and cloud computing experts was assembled to help bring its partners into the cutting edge of hybrid solution systems.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/02/04/ibm-rolls-out-an-all-new-elite-hybrid-cloud-build-team-for-ai-partners/",
-      "originalUrl": "https://thenextweb.com/neural/2021/02/04/ibm-rolls-out-an-all-new-elite-hybrid-cloud-build-team-for-ai-partners/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/08/ibm-796x448.jpg",
-          "width": 796,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/02/04/ibm-rolls-out-an-all-new-elite-hybrid-cloud-build-team-for-ai-partners/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/04/ibm-rolls-out-an-all-new-elite-hybrid-cloud-build-team-for-ai-partners/amp/",
-      "publishedDateTime": "2021-02-04T12:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-ai-dungeon-maker-latitude-raises-33m-to-build-games-with-infinite-story-possibilities.md",
-      "title": "AI Dungeon-maker Latitude raises $3.3M to build games with ‘infinite’ story possibilities",
-      "excerpt": "Latitude, a startup building games with stories are generated by artificial intelligence, is announcing that it has raised $3.3 million in seed funding. The idea of an AI-generated story might make you think of hilariously nonsensical experiments like “Sunspring,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/02/04/latitude-seed-funding/",
-      "originalUrl": "https://techcrunch.com/2021/02/04/latitude-seed-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/02/AID-Gameplay-Edit-AI-Output.jpg?w=680",
-          "width": 680,
-          "height": 356,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/02/04/latitude-seed-funding/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/04/latitude-seed-funding/amp/",
-      "publishedDateTime": "2021-02-04T09:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-image-recognition-market-will-obtain-530-billion-by-2025.md",
-      "title": "Image Recognition Market will obtain $53.0 billion by 2025",
-      "excerpt": "According to a new market research report Image Recognition Market by Technology Digital Image Processing Facial Recognition Pattern Recognition Component Hardware Software and Services Deployment Mode On premises Cloud Application Vertical and Region Global Forecast to 2025 published by",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2236648/image-recognition-market-will-obtain-53-0-billion-by-2025",
-      "originalUrl": "https://www.openpr.com/news/2236648/image-recognition-market-will-obtain-53-0-billion-by-2025",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/2/U204746962_g.jpg",
-          "width": 650,
-          "height": 439,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2236648/image-recognition-market-will-obtain-53-0-billion-by-2025",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2236648/image-recognition-market-will-obtain-53-0-billion-by-2025",
-      "publishedDateTime": "2021-02-04T08:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-ai-reading-list-8-interesting-books-about-artificial-intelligence-to-check-out.md",
-      "title": "AI reading list: 8 interesting books about artificial intelligence to check out",
-      "excerpt": "These eight books about artificial intelligence cover a range of topics, including ethical issues, how AI is affecting the job market, and how organizations can use AI to gain a competitive advantage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/category/2381/index.php/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
-      "originalUrl": "https://www.techrepublic.com/index.php/category/2381/index.php/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2021/02/02/12791f95-34d0-4745-b925-969861beab17/resize/1200x900/c78d0cc8a33af41d91857d238e02bdef/t-minus-ai.jpg",
-          "width": 603,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
-      "publishedDateTime": "2021-02-04T08:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

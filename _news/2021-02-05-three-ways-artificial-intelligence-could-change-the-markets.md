@@ -3,10 +3,10 @@ category: news
 title: "Three ways artificial intelligence could change the markets"
 excerpt: "AI is reshaping certain businesses faster than others — in particular, transport, healthcare and the digital landscape are in for an overhaul."
 publishedDateTime: 2021-02-05T13:05:00Z
-originalUrl: "https://www.cmcmarkets.com/en-gb/opto/three-ways-artificial-intelligence-could-change-the-markets"
-webUrl: "https://www.cmcmarkets.com/en-gb/opto/three-ways-artificial-intelligence-could-change-the-markets"
+originalUrl: "https://www.cmcmarkets.com/en-au/opto/three-ways-artificial-intelligence-could-change-the-markets"
+webUrl: "https://www.cmcmarkets.com/en-au/opto/three-ways-artificial-intelligence-could-change-the-markets"
 type: article
-quality: 41
+quality: 39
 heat: -1
 published: false
 
@@ -15,9 +15,8 @@ provider:
   domain: cmcmarkets.com
 
 topics:
-  - AI in Autos
-  - AI
   - AI in Healthcare
+  - AI
 
 images:
   - url: "https://assets.cmcmarkets.com/images/AI0402_medium.jpg"
@@ -87,6 +86,6 @@ related:
         height: 426
         isCached: true
 
-secured: "CkxfZrw2P0rrf6bNXA5MTrWPM3brqyNI5mBvnMFtt5dDX6QGLZ+xmly0OKXtr+RX8clrGfW1+sUWWvbYjQlsyH1+fnTGvV9zCh5SLz/NWTr2j9iZYJAHigbj/jwGwbeZOXAZCCcmqveYO1BjJPr8sSBxtkDISxLIkiQMc2XaH/jEQg2hd92buqdk8fbb7PWeHUTrEYOccECF660PtJCJL3j9Q2EWqf8VCTwFawzov2X9OFGG91av3S3IT4cuzEbbVTfl02nOn2XKFm0wgAL+ZnCt53/odPDnRFwXXhysuArn4F2KPsKQZAVoFDvz8IvNnc0EuSAJdznzREcnkuwM49otnuR879NopUl7uhgrhzYEPYVb7KK1apHr9qmHzrSolZsf/fGxpY1aLhH/BP0Gc8zy0Sm1DwfULlEn3Kd7PdGluUZ2DrVWnNE2/GfnQ2/mVljju2Q3QTYzKoQYje1IPzHa/UGyk9hBXSFincCMcb7SccHwC3Rtg4RhOgMb+O15+uCa5LuE/T/iXtMafIp8Aw==;TIk067sruNFBKG201XXKsw=="
+secured: "YTP9ukqOAm2wU0n0fLn6Og5XpfwV3CiKVU0R6qmkL6HcaYQEY4dSg/wdXbc+sYMDfkq6oGRiCQaQnD1/UJl3/tL/aituaEBJV+YaLZh/Ya69nvcAoGyCXey17b9IlumShJakX3tHlZNAoe2sVmChXsyYPKhu0jtvfL3YB+D6GeOzt0JGLa2lRE0P+HN0OrdHMgaxS57+uvLm6QxEo5JD9hUeMGEqXXf/YcPZzG65h1EJHSWkIWMvXePSHVP3Fje2LuDiDYFXYyhUUxGf2wWnzxDAS2IhziHTFkZpCkuBdQGoCEtL6HL3tc0QC+RjD0hsm2WxTUyTyS2JQyy6kEUBjQe30MJMwSNpaMoMlFKVg+U=;lve0LrdpmuSLN6147Wp7rw=="
 ---
 

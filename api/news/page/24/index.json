@@ -2,6 +2,188 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-01-19-hybrid-chip-containing-processors-and-memory-runs-ai-on-smart-devices.md",
+      "title": "Hybrid chip containing processors and memory runs AI on smart devices",
+      "excerpt": "A group of researchers from Stanford have developed a way to combine processors and memory on multiple hybrid chips to allow AI to run on battery-powered devices such as smartphones and tablets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/hybrid-chip-containing-processors-and-memory-runs-ai-on-smart-devices-19655762/",
+      "originalUrl": "https://www.slashgear.com/hybrid-chip-containing-processors-and-memory-runs-ai-on-smart-devices-19655762/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/01/hybrid-chip.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/hybrid-chip-containing-processors-and-memory-runs-ai-on-smart-devices-19655762/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/hybrid-chip-containing-processors-and-memory-runs-ai-on-smart-devices-19655762/amp/",
+      "publishedDateTime": "2021-01-19T03:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-amesite-expands-sales-marketing-team-to-target-k-12-learning-software-market.md",
+      "title": "Amesite Expands Sales & Marketing Team to Target K-12 Learning Software Market",
+      "excerpt": "ANN ARBOR, Mich., Jan. 19, 2021 /PRNewswire/ -- AmesiteInc. (Nasdaq: AMST), an artificial intelligence software company providing online learning",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/amesite-expands-sales-marketing-team-to-target-k-12-learning-software-market-1029980247",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/amesite-expands-sales-marketing-team-to-target-k-12-learning-software-market-1029980247",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/amesite-expands-sales-marketing-team-to-target-k-12-learning-software-market-1029980247",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/amesite-expands-sales-marketing-team-to-target-k-12-learning-software-market-1029980247",
+      "publishedDateTime": "2021-01-19T03:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Marketing",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-youtuber-challenges-scientist-to-create-an-ai-version-of-him-for-100.md",
+      "title": "YouTuber challenges scientist to create an AI version of him for $100",
+      "excerpt": "That's the question YouTuber Tom Scott set out to find the answer to in his latest video, for which he challenged AI in neuroscience researcher Jordan Harrod to create a fake version of him for $100.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/video/tom-scott-ai-version/",
+      "originalUrl": "https://mashable.com/video/tom-scott-ai-version/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2021%252F01%252F19%252F7c%252Fa83dec8cc13c4aee9a190a98c71b0445.2df2f.jpg%252F1200x630.jpg?signature=WHlUQxZOgk3BSKB27uIxxqkHDck=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/video/tom-scott-ai-version.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/tom-scott-ai-version.amp",
+      "publishedDateTime": "2021-01-19T03:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official.md",
+      "title": "Delhi Airport Evaluating 'computer Vision' Tech To Track Flyers, Ensure Social Distancing: Official",
+      "excerpt": "Delhi airport is evaluating a computer vision technology to track passengers, reduce waiting time and ensure social distancing at its terminals, a top official of the facility's operator said on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.republicworld.com/india-news/city-news/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official.html",
+      "originalUrl": "https://www.republicworld.com/india-news/city-news/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/8aiou9s6bqizw6uw_1611054674.jpeg?tr=f-jpeg",
+          "width": 1242,
+          "height": 708,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-19T03:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RepublicWorld",
+        "domain": "republicworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-19-how-to-manage-your-power-bill-while-adopting-ai.md",
       "title": "How to manage your power bill while adopting AI",
       "excerpt": "Because AI and ML tend to run intense calculations at very high utilization rates, power and cooling costs can consume a higher proportion of the budget than an IT group might expect. It's not a new problem,",
@@ -441,6 +623,50 @@
       ]
     },
     {
+      "path": "_news/2021-01-19-facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare.md",
+      "title": "Facebook to use AI in predicting if Covid-19 patients need better healthcare",
+      "excerpt": "Washington [: American social media giant Facebook is publishing a research conducted by its artificial intelligence (AI) unit in an effort to help healthcare providers predict in advance if a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/companies/news/facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare-11611015950906.html",
+      "originalUrl": "https://www.livemint.com/companies/news/facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare-11611015950906.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2021/01/19/600x338/2021-01-18T135851Z_33186576_RC2DAL9C6WEM_RTRMADP_3_HUNGARY-MEDIA-REGULATIONS_1611020801836_1611020835549.JPG",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/companies/news/facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare/amp-11611015950906.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare/amp-11611015950906.html",
+      "publishedDateTime": "2021-01-18T23:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-01-19-us-lawmakers-aim-to-curtail-face-recognition-even-as-the-technology-ids-capitol-attackers.md",
       "title": "U.S. lawmakers aim to curtail face recognition even as the technology IDs Capitol attackers",
       "excerpt": "U.S. lawmakers are moving ahead with efforts to ban facial recognition software even as the technology helps identify supporters of President Donald Trump who ransacked their workplace and forced them to evacuate this month.",
@@ -584,50 +810,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare.md",
-      "title": "Facebook to use AI in predicting if COVID-19 patients need better healthcare",
-      "excerpt": "Washington [US], January 19 (ANI): American social media giant Facebook is publishing a research conducted by its artificial intelligence (AI) unit in an effort to help healthcare providers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aninews.in/news/tech/others/facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare20210119005324/",
-      "originalUrl": "https://www.aninews.in/news/tech/others/facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare20210119005324/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://aniportalimages.s3.amazonaws.com/media/details/wfsa4753.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-18T17:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asian News International",
-        "domain": "aninews.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Healthcare"
       ]
     },
     {
@@ -947,186 +1129,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-artificial-intelligence-beats-us-in-chess-but-not-in-memory.md",
-      "title": "Artificial Intelligence Beats Us in Chess, but Not in Memory",
-      "excerpt": "In the last decades, artificial intelligence (AI) has shown to be very good at achieving exceptional goals in several fields. Chess is one of them: in 1996, for the first time, the computer Deep Blue beat a human player,",
-      "sourceUrl": null,
-      "webUrl": "https://www.labmanager.com/news/artificial-intelligence-beats-us-in-chess-but-not-in-memory-24877",
-      "originalUrl": "https://www.labmanager.com/news/artificial-intelligence-beats-us-in-chess-but-not-in-memory-24877",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lmg-labmanager.s3.amazonaws.com/assets/articleNo/24877/aImg/46116/artificial-intelligence-vs-human-intelligence-m.png",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.labmanager.com/news/artificial-intelligence-beats-us-in-chess-but-not-in-memory-24877/amp",
-      "cdnAmpWebUrl": "https://www-labmanager-com.cdn.ampproject.org/c/s/www.labmanager.com/news/artificial-intelligence-beats-us-in-chess-but-not-in-memory-24877/amp",
-      "publishedDateTime": "2021-01-18T11:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Lab Manager",
-        "domain": "labmanager.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-how-artificial-intelligence-will-power-amazon-into-2021.md",
-      "title": "How Artificial Intelligence Will Power Amazon into 2021",
-      "excerpt": "Stock Market News, Stock Advice & Trading Tips Going into 2021, it seems like a really bad idea to bet against Amazon",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/how-artificial-intelligence-will-power-amazon-stock-into-2021-1029978223",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/how-artificial-intelligence-will-power-amazon-stock-into-2021-1029978223",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/how-artificial-intelligence-will-power-amazon-stock-into-2021-1029978223",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/how-artificial-intelligence-will-power-amazon-stock-into-2021-1029978223",
-      "publishedDateTime": "2021-01-18T09:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-deepminds-new-ai-can-destroy-you-in-games-without-knowing-the-rules.md",
-      "title": "DeepMind's New AI Can Destroy You In Games Without Knowing The Rules",
-      "excerpt": "Following their massive success in uncovering predicting protein folding in 2020, Google’s DeepMind has now released another AI that is less about solving complex biological problems, and more about dominating it’s opponents in strategy games ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.iflscience.com/technology/deepminds-new-ai-can-destroy-you-in-games-without-knowing-the-rules/",
-      "originalUrl": "https://www.iflscience.com/technology/deepminds-new-ai-can-destroy-you-in-games-without-knowing-the-rules/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.iflscience.com/images/2080a3f8-6b4f-54c6-b158-ffe681d97cbc/default-1610976793-ms-pac-man-in-an-arcade.jpg",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.iflscience.com/technology/deepminds-new-ai-can-destroy-you-in-games-without-knowing-the-rules/",
-      "cdnAmpWebUrl": "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/deepminds-new-ai-can-destroy-you-in-games-without-knowing-the-rules/",
-      "publishedDateTime": "2021-01-18T08:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IFLScience",
-        "domain": "iflscience.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-curefit-acquires-ai-body-tracker-onyx-to-enable-two-way-workout-videos.md",
-      "title": "Cure.fit acquires AI body tracker Onyx to enable two-way workout videos",
-      "excerpt": "Now India’s most funded health startup is making a move to bridge that gap, using a California company’s AI system to replace human fitness coaches at users’ homes. Currently offered as an ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/18/cure-fit-acquires-ai-body-tracker-onyx-to-enable-two-way-workout-videos/",
-      "originalUrl": "https://venturebeat.com/2021/01/18/cure-fit-acquires-ai-body-tracker-onyx-to-enable-two-way-workout-videos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/onyxcurefit.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/18/cure-fit-acquires-ai-body-tracker-onyx-to-enable-two-way-workout-videos/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/18/cure-fit-acquires-ai-body-tracker-onyx-to-enable-two-way-workout-videos/amp/",
-      "publishedDateTime": "2021-01-18T08:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

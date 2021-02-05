@@ -9,7 +9,7 @@ ampWebUrl: "https://www.vice.com/amp/en/article/4ad5k3/how-normal-people-deploye
 cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/4ad5k3/how-normal-people-deployed-facial-recognition-on-capitol-hill-protesters"
 type: article
 quality: 88
-heat: 168
+heat: 178
 published: true
 
 provider:
@@ -87,6 +87,20 @@ related:
       - url: "https://cdn.euroweeklynews.com/wp-content/uploads/2021/02/mask-5008668_1280.jpg?x53461"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Fears raised over facial recognition use at Moscow protests"
+    excerpt: "Lawyers say several people were held after being identified by surveillance cameras in Moscow during protests last week"
+    publishedDateTime: 2021-02-04T12:45:00Z
+    webUrl: "https://news.trust.org/item/20210204114516-3ztzg"
+    type: article
+    provider:
+      name: Thomson Reuters Foundation
+      domain: trust.org
+    quality: 54
+    images:
+      - url: "https://d8zcwdvc14g2e.cloudfront.net/contentAsset/image/6c581121-1e5d-4ba3-ac44-8fedff5da105/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100"
+        width: 1100
+        height: 736
         isCached: true
   - title: "Facial recognition may help find Capitol rioters — but it could harm many others, experts say"
     excerpt: "Normalizing surveillance tactics that have been used disproportionately on Black and brown communities may have big consequences, activists and academics warn"

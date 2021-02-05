@@ -1,27 +1,23 @@
 ---
 category: news
 title: "Airbus partners Indian startup HyperVerge for geo-spatial AI"
-excerpt: "Aerospace major Airbus on Friday said its geospatial digital platform delivering satellite imagery, analytics and services, OneAtlas,"
-publishedDateTime: 2021-02-05T15:34:00Z
-originalUrl: "https://www.glamsham.com/world/technology/airbus-partners-indian-startup-hyperverge-for-geo-spatial-ai"
-webUrl: "https://www.glamsham.com/world/technology/airbus-partners-indian-startup-hyperverge-for-geo-spatial-ai"
+excerpt: "Aerospace major Airbus on Friday said its geospatial digital platform delivering satellite imagery, analytics and services, OneAtlas, will partner with Bengaluru-based startup, HyperVerge, to implement and integrate new Artificial Intelligence (AI)-based analysis of satellite data."
+publishedDateTime: 2021-02-05T14:24:00Z
+originalUrl: "https://www.sify.com/news/airbus-partners-indian-startup-hyperverge-for-geo-spatial-ai-news-education-vcfplPhgbibei.html"
+webUrl: "https://www.sify.com/news/airbus-partners-indian-startup-hyperverge-for-geo-spatial-ai-news-education-vcfplPhgbibei.html"
+ampWebUrl: "https://www.sify.com/news/airbus-partners-indian-startup-hyperverge-for-geo-spatial-ai-news-education-vcfplPhgbibei.html"
+cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/airbus-partners-indian-startup-hyperverge-for-geo-spatial-ai-news-education-vcfplPhgbibei.html"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: glamsham.com
-  domain: glamsham.com
+  name: Sify.com
+  domain: sify.com
 
 topics:
   - AI
-
-images:
-  - url: "https://www.glamsham.com/wp-content/uploads/2021/02/b9372d74bea2fdeef8bef78e6f24e778.jpg"
-    width: 400
-    height: 300
-    isCached: true
 
 related:
   - title: "Airbus partners Indian start-up for geo-spatial AI"
@@ -55,6 +51,6 @@ related:
         height: 350
         isCached: true
 
-secured: "e+OBaiXgWPFvGiYXE6TNOdJp+DShlAZR1S1vXwU+uZxlVvAWIgyttnG438mlnlFQOiHZnvP995QdAOgUhtqNJ45bYl61sOKVtUXRK0/a8YkgGLfYX5V5qJAQVZGl1EImyvyUHi3l22cUwPnAioCBxPSt4X5izIshWB4mlQnrTXrZmLnvgDTv3yUqy6Veoc9fGQvxJUJT3t3XizVIcB4Fo8YlzIOLhGGj91oFhBo5Y5Vzw1Z4PnaadUh1T5yZUkRm+Kr2KdD4+36QB85sULkrmodJawu8uE/MpIAw0GFzWuFe7yBjGBImfK/NHsp4dxOOUF/Zekz58zXuZs5mxfhHeQVmI2019wX+belzY0/0nG8=;mLLlxK1E5nM99uhRhhb6lg=="
+secured: "+MeOwUbPxtVEtdpMPVw+HDgacYxFs7anUuT1M9RLKXI7PHG9QhjO5cPTcRiRg2ZLPUowPgzgErojXdSXsVi+38zCfooMQJ65l25+O2F+cA5Ve5cUo5xuTmXKlYQK3mmvAJtFkbkreEIIf4/TwwZGdNkGSzHu2NjNT0rvoS0GyJkeBmBlcWSZsSlQloJokmNELeVczg9OcRfx55+khuzT1zylrqgfQ5PUXAFG0iitALf4N7nDKEwE3DVpsLrIFDEz0C3F219VWkxhNtsBCL00rBcAo61K3Qq568Qlfi7wI0ciGypmhhhcXsjUHyTNE58LyeM3Xy1U1Dtyg6wT+8qT4VkkpOlR6c5dGDsdxZJPqxk=;eZIQhprdDEAbdbIW/BnXng=="
 ---
 

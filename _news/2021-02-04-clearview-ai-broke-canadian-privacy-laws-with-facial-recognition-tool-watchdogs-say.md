@@ -89,6 +89,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Cyber Daily: Clearview AI Raises Disquiet at Privacy Regulators"
+    excerpt: "Facial recognition company Clearview AI is navigating lawsuits, investigations and regulatory reprimands in jurisdictions around the world. The company is having to adjust to differences in how regional laws define biometric data and privacy rights,"
+    publishedDateTime: 2021-02-05T17:21:00Z
+    webUrl: "https://www.wsj.com/articles/cyber-daily-clearview-ai-raises-disquiet-at-privacy-regulators-11612539617"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://s.wsj.net/img/meta/wsj-social-share.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "CIBC introduces AI-powered Insights tool amid digital banking spike in Canada"
     excerpt: "CIBC's new AI- and machine learning-driven mobile banking app gives customers actionable, personalized recommendations for better spending decisions."
     publishedDateTime: 2021-02-05T13:56:00Z

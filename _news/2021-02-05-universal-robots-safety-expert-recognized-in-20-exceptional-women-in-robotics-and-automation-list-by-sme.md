@@ -39,6 +39,20 @@ related:
         width: 840
         height: 630
         isCached: true
+  - title: "Universal Robots’ Safety Expert Recognized in '20 Exceptional Women in Robotics and Automation' List by SME"
+    excerpt: "Roberta Nelson Shea, Universal Robots’ Global Technical Compliance Officer, is celebrated today by SME, the professional association committed to advancing manufacturing."
+    publishedDateTime: 2021-02-05T18:33:00Z
+    webUrl: "https://www.automation.com/en-us/articles/february-2021/universal-robots-safety-expert-robotics-sme"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 36
+    images:
+      - url: "https://www.automation.com/getmedia/a9c6e7b5-36cb-48aa-bc8d-6d956355093f/Universal-robots-Feb-5-2021-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
   - title: "SLAMcore software adds ROS integration, wheel odometry, and environment customization for advanced robotics location and mapping"
     excerpt: "SLAMcore, a leader in Spatial Intelligence for autonomous location and mapping, today announced a new software release for developers of robots and consumer electronics products. The new release further expands SLAMcore's highly regarded location/mapping capabilities (visual inertial SLAM) for developers of robots/consumer electronics products."
     publishedDateTime: 2021-02-02T16:37:00Z

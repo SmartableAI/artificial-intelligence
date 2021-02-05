@@ -84,6 +84,20 @@ related:
         width: 810
         height: 405
         isCached: true
+  - title: "Fears raised over facial recognition use at Moscow protests"
+    excerpt: "Lawyers say several people were held after being identified by surveillance cameras in Moscow during protests last week"
+    publishedDateTime: 2021-02-04T12:45:00Z
+    webUrl: "https://news.trust.org/item/20210204114516-3ztzg"
+    type: article
+    provider:
+      name: Thomson Reuters Foundation
+      domain: trust.org
+    quality: 54
+    images:
+      - url: "https://d8zcwdvc14g2e.cloudfront.net/contentAsset/image/6c581121-1e5d-4ba3-ac44-8fedff5da105/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100"
+        width: 1100
+        height: 736
+        isCached: true
   - title: "Facial recognition may help find Capitol rioters — but it could harm many others, experts say"
     excerpt: "Normalizing surveillance tactics that have been used disproportionately on Black and brown communities may have big consequences, activists and academics warn"
     publishedDateTime: 2021-02-04T13:59:00Z

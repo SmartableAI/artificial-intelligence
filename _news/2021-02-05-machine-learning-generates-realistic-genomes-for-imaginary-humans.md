@@ -24,6 +24,22 @@ images:
     height: 916
     isCached: true
 
+related:
+  - title: "Machine learning generates realistic genomes for imaginary humans"
+    excerpt: "Machines, thanks to novel algorithms and advances in computer technology, can now learn complex models and even generate high-quality synthetic data such as photo-realistic images or even resumes of imaginary humans."
+    publishedDateTime: 2021-02-05T17:33:00Z
+    webUrl: "https://phys.org/news/2021-02-machine-realistic-genomes-imaginary-humans.html"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 39
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/13-machinelearn.jpg"
+        width: 1440
+        height: 1436
+        isCached: true
+
 secured: "VhmxuuJIDJSuCtGTQHWyN4LDG3g2HFXRqlof0IbKGpWYltARm+3w+iLpeUceAtvZqroxfh1gH12vV8xHM/XPEla3KkIyUR6pHtzZ7GfBTEttFRNlcaC01aJ0kIjuqnu4S7GB+qGWz5GT00Dwdtk0C4p5iJNR77UY/ELS1wMFZusese6Om2IPbZ1ijCSMKM6aL6VgeghkkRFbcU1ecUJAQgB0aXU49rDwoPWyoNXoHZf9Tlbua/89meExJzh93JQTiybJU4wVKRpE6XeV/hGJcl/bQnM6aWQkpBBlzUjP1gucDxxEpeNNLmenh/818WGLZks/mkNGmLdOcKYyG/fT497UwDv/6sb/QKGAlF2oCPc=;OlQtbhXbjkBGmTsBauX7gg=="
 ---
 
