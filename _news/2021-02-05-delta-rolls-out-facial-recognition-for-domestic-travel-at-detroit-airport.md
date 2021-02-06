@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Delta Rolls Out Facial Recognition for Domestic Travel at Detroit Airport"
-excerpt: "Delta Air Lines is rolling out facial recognition for some domestic travelers at its Detroit hub, an expansion of the biometric technology beyond international flights. The move comes after Atlanta-based Delta launched in 2018 what it called a \"biometric terminal\" for international travel using facial recognition at Hartsfield- Jackson's Maynard H."
-publishedDateTime: 2021-02-05T15:26:00Z
-originalUrl: "https://www.aviationpros.com/airlines/news/21209027/delta-rolls-out-facial-recognition-for-domestic-travel-at-detroit-airport"
-webUrl: "https://www.aviationpros.com/airlines/news/21209027/delta-rolls-out-facial-recognition-for-domestic-travel-at-detroit-airport"
+title: "Delta rolls out facial recognition for domestic travel at Detroit airport"
+excerpt: "Delta Air Lines is rolling out facial recognition for some domestic travelers at its Detroit hub, an expansion of the biometric technology beyond international flights. The move comes after Atlanta-based Delta launched in 2018 what it called a “biometric terminal” for international travel using facial recognition at Hartsfield-Jackson’s Maynard H."
+publishedDateTime: 2021-02-04T20:51:00Z
+originalUrl: "https://www.ajc.com/news/business/delta-rolls-out-facial-recognition-for-domestic-travel-at-detroit-airport/67K25ANSAJEQVLR5LGZNPPULRE/"
+webUrl: "https://www.ajc.com/news/business/delta-rolls-out-facial-recognition-for-domestic-travel-at-detroit-airport/67K25ANSAJEQVLR5LGZNPPULRE/"
 type: article
-quality: 33
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: AviationPros
-  domain: aviationpros.com
+  name: Atlanta Journal-Constitution
+  domain: ajc.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://www.ajc.com/resizer/C-G8Xr8RpZqUnRl8gGEcgY-jFgo=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/EQ2DJC3GNWFFY2Q2DAIPN7ANIU.jpg"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Delta expanding facial recognition technology to domestic flights in Detroit"
@@ -50,6 +56,6 @@ related:
         height: 509
         isCached: true
 
-secured: "06j5m28KPaFLsaeE7d0ueqaT5qDPSPy1LgU+kxaOOOrKDwu6n+dfKXulB5x2ArsPg4GTV3+0H6iMSMN3UL/gUATfmZmRzT9yBhC73ZfTYM4o1PhYSR7VPPT+T868CciM7GRoFrBTyKYHRsIpnfLAE8Iekh/YGmoTQM7Ns0byC8sUv5H6ObiteiDCeCV44QnUVdyYqkgBV8qaTyS84Q8QHRHO17Y8jgKNBE7MA6Kr1/fmFr6bfc+pNJ30U/kwMzN+oeKAqQ8lSm2GC7nWafRX7iSLaimRfy0IWaN5RdHNC5rTxFLSsyMv4USkJrqD137Tyc4AJi3xw3QRuLH2GiGxG19vC5EoIGGWeGv4cYWEW6E=;23QngpsT3kq/KX3nJ+CfJA=="
+secured: "XwnnFnJA+y/NxdB/vCPmydzL1AyurGXWRwtttBWT5oG7Sx3BWyqHCzYFf8Xu6BW3o7YVkyMizsTal8RGaM/mRN2u72g8MCvSG9bHkUqad+5sC2NdazlIS/9/zvISzQbqe/J/vhD1Znn5j97Wf1zCOxz8WgNt3vHCCIv6Vsx1Azl+t85CdsfyszwxlfgrVmuR6Yt/Bq7vI/bXz6hmSthcPWvSgrcbPNCOfip9UIWtjSmnp4LJeD7HZwN7xclxz9oMv5Dhpuh2UqxGroCl3pYlAnWHAj1wBGeO527cMo7Wykyj9dyha3VYUqtePi4RCkV/k1n48SICb8dHK2b2GhaM234kErQC4zd5QXm6797ZVjg=;/or4L2V4kJ6HrjrVbHAM6Q=="
 ---
 

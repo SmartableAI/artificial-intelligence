@@ -61,6 +61,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Will it be self-driving car, “electric car?"
+    excerpt: "Will it be a self-driving car, an electric car? The Apple car that has long been rumored may finally become a reality. After being"
+    publishedDateTime: 2021-02-06T17:14:00Z
+    webUrl: "https://www.compsmag.com/news/apple/will-it-be-self-driving-car-electric-car/"
+    ampWebUrl: "https://www.compsmag.com/news/apple/will-it-be-self-driving-car-electric-car/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/apple/will-it-be-self-driving-car-electric-car/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 24
 
 secured: "k0N/Gn87XgIzmRWlAwzuN1+zf6wRfVq/fZ/SOreCppL2PSg/XJKzCCz3HeZVsP7Kz64HETyC82IhIxPB4PruR9m3R04vQGxV1OLlX7pdO/OVBFJtzptsUT/uLSgJX6GENr2q8bWHDpT6FeL5mfQDwGmSn0GD0pjJfjd+ZBaVv4GK0/MJyPHkKWP+B6GQuyZoTrvJYx31i0fLV9SxfksX7wxTvRe5pg03zGa6OBnth1NPwq+WFhwDQT7VoP0GgcBdpHiGRWnswvQU/r+vWTyHodJYyGEVFDW94VvllyTXPhVSp3anw3DvHztLxb6OPso0Eq/6Ka/L3fbN0F2x/5a1wM+qNZB1xKPdLE4p1+aiCAw=;fc8tIrdOB7kekWCFXhEn5Q=="
 ---

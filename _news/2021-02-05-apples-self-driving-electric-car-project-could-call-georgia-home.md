@@ -53,6 +53,17 @@ related:
         width: 500
         height: 500
         isCached: true
+  - title: "Will it be self-driving car, “electric car?"
+    excerpt: "Will it be a self-driving car, an electric car? The Apple car that has long been rumored may finally become a reality. After being"
+    publishedDateTime: 2021-02-06T17:14:00Z
+    webUrl: "https://www.compsmag.com/news/apple/will-it-be-self-driving-car-electric-car/"
+    ampWebUrl: "https://www.compsmag.com/news/apple/will-it-be-self-driving-car-electric-car/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/apple/will-it-be-self-driving-car-electric-car/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 24
   - title: "Apple and Hyundai-Kia nearing deal to build self-driving car in US - report"
     excerpt: "Apple is close to finalising an agreement with Hyundai-Kia to build an Apple-branded autonomous electric vehicle in West Point, Georgia, according to unnamed sources cited by CNBC. The deal reportedly depends on the automaker allowing Apple to control the software and hardware that will go into the vehicle."
     publishedDateTime: 2021-02-04T08:43:00Z

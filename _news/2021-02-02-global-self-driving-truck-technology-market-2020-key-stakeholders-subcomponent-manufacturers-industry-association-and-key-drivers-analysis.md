@@ -121,20 +121,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 31
-  - title: "Worldwide Machine Learning Industry to 2030 - Featuring BigML, Featurespace and Google Among Others - ResearchAndMarkets.com"
-    excerpt: "The “Machine Learning Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2020-2030” report has been added to ResearchAndMarkets.com’s offering. A latest study collated and analyzes the historical and present-day scenario of the global machine learning market to accurately gauge its potential future development."
-    publishedDateTime: 2021-02-06T08:04:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-information-technology-97a4402fba5f422483e604c3a2baf2be"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 27
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Artificial Intelligence in Medicine Market to Witness a CAGR of 49.6% During Forecast Period to 2025"
     excerpt: "Allied Analytics –:Artificial Intelligence in Medicine Market by Product Type, Technology, and Application: Global Opportunity Analysis and Industry Forecast, 2017-2023,” the market was valued at $719 million in 2017 and is estimated to"
     publishedDateTime: 2021-02-05T04:02:00Z
@@ -185,6 +171,15 @@ related:
     provider:
       name: Morningstar, Inc.
       domain: morningstar.com
+    quality: 7
+  - title: "Worldwide Machine Learning Industry to 2030 – Featuring BigML, Featurespace and Google Among Others – ResearchAndMarkets.com"
+    excerpt: "The “Machine Learning Market – Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2020-2030” report has been added to ResearchAndMarkets.com’s offering. A latest study collated and analyzes the historical and present-day scenario of the global machine learning market to accurately gauge its potential future development."
+    publishedDateTime: 2021-02-06T08:41:00Z
+    webUrl: "https://www.financialbuzz.com/worldwide-machine-learning-industry-to-2030-featuring-bigml-featurespace-and-google-among-others-researchandmarkets-com/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
     quality: 7
   - title: "Global Mobile Speech Recognition Software Market Report 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026"
     excerpt: "The Mobile Speech Recognition Software market is expected to grow from USD X.X million in 2020 to USD X.X million by 2026, at a CAGR of X.X% during the forecast period. The global Mobile Speech Recognition Software market report is a comprehensive research that focuses on the overall consumption structure,"

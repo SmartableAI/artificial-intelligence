@@ -1,29 +1,26 @@
 ---
 category: news
 title: "Sequoia Leads $20M Series B in Physna, an Ohio-Based Geometric Deep-Learning Startup"
-excerpt: "Physna®, the geometric deep-learning and 3D search solutions company, today announced it raised $20M in Series B funding. The round was led"
-publishedDateTime: 2021-01-29T14:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/sequoia-leads-20m-series-b-in-physna-an-ohio-based-geometric-deep-learning-startup-301218034.html"
-webUrl: "https://www.prnewswire.com/news-releases/sequoia-leads-20m-series-b-in-physna-an-ohio-based-geometric-deep-learning-startup-301218034.html"
+excerpt: "Physna ®, the geometric deep-learning and 3D search solutions company, today announced it raised $20M in Series B funding. The round was led by Sequoia Capital with participation from Drive Capital, which led Physna’s Series A round in 2019."
+publishedDateTime: 2021-01-29T14:45:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-search-technology-north-america-c1e2ae292ba25d2151f9994865972769"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-search-technology-north-america-c1e2ae292ba25d2151f9994865972769"
 type: article
-quality: 17
-heat: 17
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://i1.ytimg.com/vi/D5qmw0ZN4Yc/hqdefault.jpg"
-    width: 480
-    height: 360
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "6TY9Zde3sbj7N11f4J7l4dsOfTOcDb2j7RoVygh43NgnvIeel66xoPLKaP4SD6MyYTpsqZ4cRpnAEzB36u/6hcr6zSzPkjFK1/iMz4mNt8PMWw+jMLGpXKMcZsGpL7B/yfSJj5F3b2q9bt8Byzp4IY+6U2wT2Zh+xdB6z9DANUzFKtnlmZd+hbspE9zXnngZSVLgMWx4EehffriGvJ2tFaYXxEsigNXquh3od9umIG0YwU9wzS8QdAxkB4RuFfcdvKe5gl0joK3Zlh1TPuoPP/sdp0cAUixbO66yLJJI7PIrqb4jagrtLXS/xwwRUsaVZ2DmKceMpsH+EOF7VETybkn/U6Z/htGdgaaH4hMLVaKScAI1xMs/9vHfgF+CF0nryMT1r0KcjDUjMrVs8+jJMTzD5+7gQrxH1ImPqhNYKe1VxI6zMPpg2ZCA6peAWXKl7lcqXQ4tEsop4C0H3AGi6oxP9/MX4jiBvZ5aBI4q7D2veeNzAE202L9hvGK2pvPm6+LXGxPUBTExsG58LWRvfw==;/2bzVwzGVP0+EmeFBsTyfg=="
+secured: "GOsyavdij6Ex3TbCIAEUou6JdRcM/by0zhIXjvXbl7pGv2WK+FN1zz3pBYf5nLRsmDIny3G5m1jb7M5DcYv5cdUxaJWB8vOTgxo6bo1v5QIwq14LKbrNKIjN/Il2bTB44oN5ppnyyHlE7/1OrDhhNz5y2Ph26Y97383XFnyoj7bAzKWSMwB7fqfZNVtM9bp1KNuk+cvFAgEU6x+3dlH266o+c4Zsnuu6HFNHJTxtns3Dil7Gc41a/YAV4Ci1A1kJ3dwRi/dueuU4NXl4hIAW4ntqi7I4zYJGEc3Q0fj5/cHvVSocLN5DVjGpajyIt2j+vDk/K7D0kGoHfXT/UcP9mnjVZzqHYbQh/Vq99HXC9n4=;zqwy8ogG8/mMaYmlztcg2g=="
 ---
 

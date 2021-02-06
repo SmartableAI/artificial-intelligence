@@ -22,19 +22,16 @@ topics:
 
 related:
   - title: "Skinopathy Files Provisional Patent for Artificial Intelligence and Augmented Reality Powered Technology that will Guide Skin Cancer Surgeries"
-    excerpt: "Skinopathy, a Canadian medical company founded in 2020, has filed a provisional patent with the United States Patent and Trademark Office (USPTO) for Artificial Intelligence (AI) and Augmented Reality (AR) technology that will help guide"
-    publishedDateTime: 2021-02-02T15:58:00Z
-    webUrl: "https://www.lelezard.com/en/news-19630114.html"
+    excerpt: "Skinopathy, a Canadian medical company founded in 2020, has filed a provisional patent with the United States Patent and"
+    publishedDateTime: 2021-02-02T15:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/02/g19444946/skinopathy-files-provisional-patent-for-artificial-intelligence-and-augmented-reality-powered-tech"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19444946"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19444946"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 3
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "2J8f5lCd9iYPv+Q7apuIWEL4rma17y7UJHmZd7chU/ucZojfKbM/79cFHtKEY+BdqnGwj5daZ+C3vHPgUJlaFGVXDYKw74vCmBOQkx5RYv0XV6etLI+LAZp/vvLa0UKpX1fN+MlSriTfpJzO/1Lh2bZt7eMWGF5BnsdSo0udvER/mNZqry7W7T6kV2vsu7DjoHel5Or+21xx9GN2vOpUPf5PapC+TVig7eZxmE3W3XLvajp3Mz6mRZygNBRyMkXjdcrGFONnINJoT/3KlpPX0WdSW03Vz0no/OCMl58Fp+BKBcLjJ11YMOnHAbY/cJiAEXljrqfU5lMKOy9D4qeVxbt0O6s353KLXPZnp2CGhJ8=;LzKy0JqiBpFZCQBEf5QVNw=="
 ---

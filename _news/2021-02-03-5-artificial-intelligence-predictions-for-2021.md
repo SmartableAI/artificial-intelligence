@@ -9,7 +9,7 @@ ampWebUrl: "https://www.business2community.com/business-intelligence/5-artificia
 cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-intelligence/5-artificial-intelligence-predictions-for-2021-02382937/amp"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
     images:
       - url: "https://www.thetradenews.com/wp-content/uploads/2020/12/LiTDX-260x260-1-300x300.jpg"
         width: 300
+        height: 300
+        isCached: true
+  - title: "10 African venture and startup predictions for 2021"
+    excerpt: "A top 10 list of predictions – some more speculative than others – on Africa’s growing startup and venture sector for the year ahead."
+    publishedDateTime: 2021-02-06T17:41:00Z
+    webUrl: "https://www.howwemadeitinafrica.com/10-african-venture-and-startup-predictions-for-2021/92135/"
+    type: article
+    provider:
+      name: Passwell
+      domain: howwemadeitinafrica.com
+    quality: 24
+    images:
+      - url: "https://www.howwemadeitinafrica.com/wp-content/uploads/2019/06/entrepreneur1-600x300.jpg"
+        width: 600
         height: 300
         isCached: true
   - title: "2021 Predictions: Cashless Society, Autopay Systems Fueled by AI, and New Digital Banking Standards"

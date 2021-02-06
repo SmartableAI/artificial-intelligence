@@ -1,25 +1,25 @@
 ---
 category: news
-title: "AI Startup Growing in Indy"
-excerpt: "An Indianapolis-based Software-as-a-Service company is planning to expand its central Indiana operations. Catipult.AI, which has developed an artificial intelligence platform to help businesses manage"
-publishedDateTime: 2021-01-28T14:26:00Z
-originalUrl: "https://www.insideindianabusiness.com/story/43252015/ai-startup-growing-in-indy"
-webUrl: "https://www.insideindianabusiness.com/story/43252015/ai-startup-growing-in-indy"
+title: "AI startup growing in Indy"
+excerpt: "Catipult.AI, which has developed an artificial intelligence platform to help businesses manage and track strategic goals, says it will invest more than $2.6 million to secure a larger office space in Indy and create up to 51 jobs by the end of 2024."
+publishedDateTime: 2021-01-28T14:12:00Z
+originalUrl: "https://www.wishtv.com/news/inside-indiana-business/ai-startup-growing-in-indy/"
+webUrl: "https://www.wishtv.com/news/inside-indiana-business/ai-startup-growing-in-indy/"
 type: article
 
 provider:
-  name: INside INdiana Business
-  domain: insideindianabusiness.com
+  name: WISHTV8
+  domain: wishtv.com
 
 topics:
   - AI
 
 images:
-  - url: "https://INSIDEINDIANA.images.worldnow.com/images/20307337_G.jpg?lastEditedDate=1611824691000"
+  - url: "https://i2.wp.com/www.wishtv.com/wp-content/uploads/2021/01/Peter-Fuller-Catipult.jpg?fit=960%2C540&#038;ssl=1"
     width: 960
     height: 540
     isCached: true
 
-secured: "ri/ATVRqatTX0KlFTJ1gHQomzKB3WRz8hDBWOUJH9sEgAlw96AN4CBWuK4hB7fY4MijPJYqiDmF4TLItK/N5Fnl1XVp9/Bgt0lZigyZjH4rCkB9RwAFbtSQgIkATHAbWlhho2Cck+TJQHJqxVr9lTvkPWQnrFKcWvT+hnLybH/CxS0EHRuA2IyXq8epPmzrQL5GfmEZdarFAdCqgnpzchspjRn6eo45HbGcyKH0LVGLMwxg1FLODZ5i6kgZZ6HkVN1zHAr8R7xaaIo6SNGHj4xQAwQdn8BlLObrybaqwIaoxBzhDacV/+9doq78TpMgHIbk6i+WwPx7SFYQYV7gFqrF8eQzzGMZ5g+hJU0+/l9A=;yTcOsgpFnpPv+kBoetVw/g=="
+secured: "SI+DzRjagnWaTHTjXbykNw5cv8r1nADFHJ81Q18geaieWCa7gHovFGbWk9zbAPmJVITtJTvpAD0DHDVb48lcbjgl5MZiRiJfjkH5mOihDVwP//5MI18An8CQ8Nlhv1PvS841MYNJ7xiccx/vKpucjDGteacD5Y0Bbfu9iCTEBqgga5t/6/x6wWYybE6GTTqvhv6iBvAzlTIsYZqD9ZMf9dZ2picIE8Ep9wWr2JFL03S/2dqM9Usv3eyxVDC0Au1vMgpWasgKOG9Cs9/KKJy9aU75qSt8cIMah+SCc3LfjaicIKzBwy/WxmLKbgQWNp55BlVnobao7kM0XV00UZ2RusKbRuE9rozOkgWQgkBFetk=;WeT4hkr2zI29OR+DZ9P1+g=="
 ---
 

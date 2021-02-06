@@ -60,22 +60,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft launches Open AI Energy Initiative in partnership with Shell, C3 AI, others"
-    excerpt: "Microsoft has launched the Open AI Energy Initiative in collaboration with Shell, C3 AI, and Baker Hughes. It aims to offer AI-based scalable and interoperable solutions for the energy sector."
-    publishedDateTime: 2021-02-02T02:54:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-launches-open-ai-energy-initiative-in-partnership-with-shell-c3-ai-others"
-    ampWebUrl: "https://www.neowin.net/amp/microsoft-launches-open-ai-energy-initiative-in-partnership-with-shell-c3-ai-others/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-launches-open-ai-energy-initiative-in-partnership-with-shell-c3-ai-others/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 97
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2017/07/1499866975_microsoft-ai-for-earth_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
   - title: "Etihad Airways Transforms Its Finance Operations by Leveraging Microsoft AI Capabilities"
     excerpt: "Etihad Airways has carried out a transformation of its Finance Operations through harnessing the power of Microsoft AI. The Finance and Digital, Technol"
     publishedDateTime: 2021-02-03T07:30:00Z
@@ -308,6 +292,20 @@ related:
         width: 510
         height: 314
         isCached: true
+  - title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
+    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
+    publishedDateTime: 2021-02-03T08:22:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 46
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Microsoft Says It's Time to Attack Your Machine-Learning Models"
     excerpt: "With access to some training data, Microsoft's red team recreated a machine-learning system and found sequences of requests that resulted in a denial-of-service."
     publishedDateTime: 2021-02-04T22:13:00Z
@@ -392,15 +390,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
-    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance"
-    publishedDateTime: 2021-02-02T22:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 26
   - title: "Agent Factory announces collaboration with Microsoft to enable Smart Logistics solutions with advanced 3D vision technologies"
     excerpt: "AGENT FACTORY LTD., based in Israel, announces its collaboration with Microsoft's Azure Depth Platform program, aimed at democratizing"
     publishedDateTime: 2021-02-03T18:14:00Z
@@ -415,15 +404,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Shell, C3 AI, Baker Hughes, and Microsoft Launch the Open AI Energy Initiative, an Ecosystem of AI Solutions to Help Transform the Energy Industry"
-    excerpt: "Initial Offerings Include AI-Based Reliability Applications to Improve Operational Efficiency for the Energy and Process Industries."
-    publishedDateTime: 2021-02-02T03:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210201005886/en/Shell-C3-AI-Baker-Hughes-and-Microsoft-Launch-the-Open-AI-Energy-Initiative-an-Ecosystem-of-AI-Solutions-to-Help-Transform-the-Energy-Industry"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "MIKYwVQHsPimz7bnlAtW8s0ML18XEghMW9+5n7n5jmKK5REMDJc/860fzjomTb20WuAOp81BsDAP1yA+uMzLRznHbOE5N9Fi/aoZGca+95I91+rReeAgfKBW/V7Konw3q9A87KMuVdWuXqMaJsDo2C1Z5IWrpPI+T2GMMfLqrUrwdhgk7enUEMWABm+9LW2Ul2q2JWjtWCV1NoxHeEtie3cIy1B72gGhXXNSlTdcm4Boya0bY3uaa9IZV7NQGhxNtn+5vvEeybsh8PG5aMkFmfa9hKcu0sp8O7dDncnvSzxXuV5L5HWGAhOCnKuq+yGu/18IowljpBJTTy3zor4plegn16YAf6NWcc0hzy8JLBPSfGn/TFzdF1dFJmcurWZNp0YaHjyCtL25nmUwaJ2Y0siKr68w1FnpZALEzavzGgo0CIT3zoEvo9b0GclMWgON/wTXLnP/G9QJNH1Jcav7WlfO/dSEJWdZGW5lm1uX2vfCzSSb/4lJk+tWFye5C3raykDdymZ31Od2obx1nUxwcw==;/SDrDPKpX00MSa9ggxi5WQ=="
 ---

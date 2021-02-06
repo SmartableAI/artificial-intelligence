@@ -41,6 +41,20 @@ related:
         width: 550
         height: 366
         isCached: true
+  - title: "10 African venture and startup predictions for 2021"
+    excerpt: "A top 10 list of predictions – some more speculative than others – on Africa’s growing startup and venture sector for the year ahead."
+    publishedDateTime: 2021-02-06T17:41:00Z
+    webUrl: "https://www.howwemadeitinafrica.com/10-african-venture-and-startup-predictions-for-2021/92135/"
+    type: article
+    provider:
+      name: Passwell
+      domain: howwemadeitinafrica.com
+    quality: 24
+    images:
+      - url: "https://www.howwemadeitinafrica.com/wp-content/uploads/2019/06/entrepreneur1-600x300.jpg"
+        width: 600
+        height: 300
+        isCached: true
   - title: "2021 Predictions: Cashless Society, Autopay Systems Fueled by AI, and New Digital Banking Standards"
     excerpt: "With FinTech at the forefront of this recent innovation, here are my five predictions on the horizon for the banking industry and financial institutions in 2021: 1. The global impact of the pandemic will create a hyperdrive to digital banking solutions."
     publishedDateTime: 2021-02-02T18:09:00Z

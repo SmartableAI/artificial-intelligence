@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
-excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance"
-publishedDateTime: 2021-02-02T22:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
-webUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
+excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
+publishedDateTime: 2021-02-03T08:22:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
+webUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
 type: article
-quality: 26
+quality: 46
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Microsoft launches Custom Neural Voice in limited access"
@@ -50,22 +56,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/02/Jared-Spataro.jpg?w=1200&strip=all"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Microsoft launches Open AI Energy Initiative in partnership with Shell, C3 AI, others"
-    excerpt: "Microsoft has launched the Open AI Energy Initiative in collaboration with Shell, C3 AI, and Baker Hughes. It aims to offer AI-based scalable and interoperable solutions for the energy sector."
-    publishedDateTime: 2021-02-02T02:54:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-launches-open-ai-energy-initiative-in-partnership-with-shell-c3-ai-others"
-    ampWebUrl: "https://www.neowin.net/amp/microsoft-launches-open-ai-energy-initiative-in-partnership-with-shell-c3-ai-others/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-launches-open-ai-energy-initiative-in-partnership-with-shell-c3-ai-others/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 97
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2017/07/1499866975_microsoft-ai-for-earth_story.jpg"
-        width: 760
-        height: 428
         isCached: true
   - title: "Etihad Airways transforms its Finance Operations by leveraging Microsoft AI capabilities"
     excerpt: "Etihad Airways has carried out a transformation of its Finance Operations through harnessing the power of Microsoft AI. The Finance and Digital, Technology and Innovation divisions worked with Microsoft to modernize their payment inspection process using cognitive services."
@@ -413,16 +403,7 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Shell, C3 AI, Baker Hughes, and Microsoft Launch the Open AI Energy Initiative, an Ecosystem of AI Solutions to Help Transform the Energy Industry"
-    excerpt: "Initial Offerings Include AI-Based Reliability Applications to Improve Operational Efficiency for the Energy and Process Industries."
-    publishedDateTime: 2021-02-02T03:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210201005886/en/Shell-C3-AI-Baker-Hughes-and-Microsoft-Launch-the-Open-AI-Energy-Initiative-an-Ecosystem-of-AI-Solutions-to-Help-Transform-the-Energy-Industry"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
-secured: "tikLiJ5NbLPJU8XN70jRHj2Ha9dc/UAeQ9C3Tfren9iD5BZYs4cCix5j81vjq19ZizESwg7MrX+mNp5+9rE4+qBjQQhUWD0W2oy7U2ZeKuYICk2Q8jILHkDC+eoG/mENV/QDxcyYrEGni0PA+RWsOvy4VdbrN9mQtYzp+VwmvKafNLPUEn5yS5igdwHPGRI8RFphOJIULo2wN7wYhV089vdMUavVwjolfFuxKChjPtMoOVbBvhNEz6YwxEko5/JzUxs3ocLNK6KSnxWXqzQhvHwN6/idwbWXFF4O67lsgvE9NedW6Uz+yY3AoYdvPX9/Yb8o4pUNKJz56uuZImNy1YA9Vb6cDuqe9L0Deg3Lofw=;TwmEqAbhhVAugMnGa+Lyzw=="
+secured: "EvocJWBCKfJ7iNrrjREu3U8cVmz+Alpp/Jg8ZtVVxGPoxjm4gIcyx1NkdSVwfsLNoqd4u92NP8DJQbsuGkQUIbV8HprPG5z18+YBHoX3nR4P1fApQk2ZZdSV+3zGVTjm1xFZc/fBAQxvH15Z9CAEf0gnBTf8eSSFM+XHr6MbcBWweApyFvuBQFrv0S9NmfSfsTcdj9p6C+bxgog3gLwllj7EczMDNVq//zdF//X/sfRbH2Xf/tR8pdbvLzO0HjsUy2eUh8Y4V4MUMsi4es6TO+vyD85zXDmBoJtqfD9PXKCQr1QV5+xxMmqXu8b/71yKZOiSYNaA/s0s7rdOX0SQoRhNtIt/GkR227aphB5u2JM=;C2Pz1nsc6/jcvHIcyhUWQA=="
 ---
 

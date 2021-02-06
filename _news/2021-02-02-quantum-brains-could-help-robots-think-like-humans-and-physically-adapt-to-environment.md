@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ibtimes.co.in/quantum-brains-could-help-robots-think-lik
 cdnAmpWebUrl: "https://amp-ibtimes-co-in.cdn.ampproject.org/c/s/amp.ibtimes.co.in/quantum-brains-could-help-robots-think-like-humans-physically-adapt-environment-claim-researchers-832748"
 type: article
 quality: 66
-heat: -1
+heat: 66
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 570
     height: 380
     isCached: true
-
-related:
-  - title: "Scientists Developing \"Quantum Brain\" for Human-Thinking Robots"
-    excerpt: "It was but a matter of time before robots roam the land with a processing unit similar to that of a human brain, and according to researchers from Radboud University, that time could be now. In a new journal entry in Nature Nanotechnology,"
-    publishedDateTime: 2021-02-02T02:52:00Z
-    webUrl: "https://comicbook.com/irl/news/scientists-quantum-brain-device-revealed-artificial-intelligence/"
-    ampWebUrl: "https://comicbook.com/irl/amp/news/scientists-quantum-brain-device-revealed-artificial-intelligence/"
-    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/irl/amp/news/scientists-quantum-brain-device-revealed-artificial-intelligence/"
-    type: article
-    provider:
-      name: Comicbook.com
-      domain: comicbook.com
-    quality: 74
-    images:
-      - url: "https://media.comicbook.com/files/images/default.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "kpV+KnBep+gfMNw6i7u+7RsoMvmisZ5mgeJmBkJ4MbxH20P3gwMG3r/0FQ2TB2AFwB/XNX4lk7roqAz9+/vFbkrn+w4uZ7t7IgIKiXHJBqIAXlMHHeoHma9FudRPnk0w2qSyp3XUh863il/peHmF9RoR4LIGUGj0bVCOOYkF5g6W7VF/Ahp8ozPQP2liulz8gr2ZjHpNu66TrahgWyhhvzlewNPdTjxkDMviQVHoq2dJcUK/YIoRZ3S7hxJ0N5UyH8NledkQP73kL/4GKV35zIA5BywjFn4HVPG0G+DUIkNnq51+FGM5oW4mQY/nB3ejPvAF5+SXDrc5d9B2DRhanZVUMnNsSBDLip58jXr2/fJS4y6nskA6zXYT8z/WZmv3bfOmSgF2dS2c4FiQ2pul++HccuXs4ojWEl00LxQDK7eHj/nOZhsOE3X21S2kQreIWYFIi9C4L1e45YD8EvM7DP8AprUTCOKqE/yi1BaatlRR6L2tMRc/bySkkvaZsyA3LvhW6qM4SSGbPpd6RjkCBg==;St7m4hD0yIEiA2wOiHsusw=="
 ---
