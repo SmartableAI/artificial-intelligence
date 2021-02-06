@@ -2,6 +2,41 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-01-22-the-impact-of-advanced-machine-learning-in-anti-money-laundering-and-beyond.md",
+      "title": "The Impact of Advanced Machine Learning in Anti-Money Laundering and Beyond",
+      "excerpt": "As part of @Nasdaq’s Singapore Fintech Festival coverage, Darren Innes, Head of AML Technology at Nasdaq, spoke about why advanced machine ... across many financial services functions, but ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/the-impact-of-advanced-machine-learning-in-anti-money-laundering-and-beyond-2021-01-21",
+      "originalUrl": "https://www.nasdaq.com/articles/the-impact-of-advanced-machine-learning-in-anti-money-laundering-and-beyond-2021-01-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/the-impact-of-advanced-machine-learning-in-anti-money-laundering-and-beyond-2021-01-21?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-impact-of-advanced-machine-learning-in-anti-money-laundering-and-beyond-2021-01-21?amp",
+      "publishedDateTime": "2021-01-21T17:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-01-22-the-new-raspberry-pi-pico-is-an-incredibly-powerful-little-chip-for-just-4.md",
       "title": "The new Raspberry Pi Pico is an incredibly powerful little chip for just $4",
       "excerpt": "The Pico is the first microcontroller board from Raspberry Pi and has been built around the new, custom RP2040 chip.",
@@ -1155,48 +1190,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-transforming-the-energy-industry-with-ai.md",
-      "title": "Transforming the energy industry with AI",
-      "excerpt": "In the oil and gas industry, digitalization is improving project economics and streamlining operations, with AI as the key for sustainable growth and security against cyberthreats.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2021/01/21/1016460/transforming-the-energy-industry-with-ai/",
-      "originalUrl": "https://www.technologyreview.com/2021/01/21/1016460/transforming-the-energy-industry-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/01/MITTR-Seimens-webart-Cover.png",
-          "width": 1500,
-          "height": 1129,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2021/01/21/1016460/transforming-the-energy-industry-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/01/21/1016460/transforming-the-energy-industry-with-ai/amp/",
-      "publishedDateTime": "2021-01-21T05:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

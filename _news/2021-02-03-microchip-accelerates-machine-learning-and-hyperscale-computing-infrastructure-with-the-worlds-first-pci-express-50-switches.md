@@ -64,20 +64,6 @@ related:
         width: 600
         height: 600
         isCached: true
-  - title: "How Amazon, Google, other hyperscalers are transforming the auto industry"
-    excerpt: "Cloud computing already runs everything from online shopping to streaming and gaming, but it is now expected to play a significant role for the auto industry as intelligent, automated data analytics become a central tool for managing all aspects of the business."
-    publishedDateTime: 2021-02-02T05:12:00Z
-    webUrl: "https://europe.autonews.com/automakers/how-amazon-google-other-hyperscalers-are-transforming-auto-industry"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 23
-    images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/BMW%20cloud%20AWS%20photo%20900x540.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "RdrSsczID6H0fnhUARYkaXw6bF7oBc7oBbf8ZRtgpmyWLbqZ4D8+4ovp73Q/HVM1G9s5f5Ryrougw6ZaKwsU1a31YbZgQUtqfjIE3zrk1WHqUd/jwRit1Ylr8pCG0GEyzpEGw9Cz+2IVEh0FY6LVeWIE/lk8BhCc2P5m02dihnLtcoll/zJs7C6xFi4MQMO6Q2K87Qfz/UfKwMN1Gdp/Gl1v6dy1nwlJ6P11mMOFRR+LX0q21aWm6F998FdCC3lfhSqz8NSEMWyYMgkwfrE8As8tZ0yQ44Ulk4QQdAbibmUhA8xclkiFql/tQI3mJzZXzur7Kt0zlQwWHhjB8xS8qSUjFKH3wmTTy1B69AkojV4=;EfAY2xLPlnvqLeD9oumqPw=="
 ---

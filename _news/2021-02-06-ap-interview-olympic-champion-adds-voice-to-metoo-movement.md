@@ -43,6 +43,20 @@ related:
         width: 864
         height: 486
         isCached: true
+  - title: "Olympic champion adds voice to #MeToo movement"
+    excerpt: "The most successful female athlete in Greek sporting history says a senior national sailing federation official sexually assaulted her almost 23 years ago."
+    publishedDateTime: 2021-02-06T21:30:00Z
+    webUrl: "https://www.pressherald.com/2021/02/06/olympic-champion-adds-voice-to-metoo-movement/"
+    type: article
+    provider:
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 24
+    images:
+      - url: "https://multifiles.pressherald.com/uploads/sites/10/2021/02/Greece_Sexual_Misconduct_23373.jpg"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "5Bj1GqGoK1pprPyapG4UxuJzAWwvwdPLXCgJmXJv3Xs0k96FbyT1jpOPOM5ug0EiAbZC6jkrbGwZHsGhW7Mbzw7OAKZ19zraIhyp8AOd5OvpRAznzbka2tBJB9QZ43r5tfNWHlLBG4rZm6q+jz6BaCnYGLneJqncgRe5bRmItvexk3ZCGZfhsFC3rJRGNy4nVSDS+JLktxBDwJSVUXHcnJcMoGQm9Y1XqXu/yIGpzv4C156o4Fh45GnHGVc5/tCVqK4wTP7QvEJfK/sHAZYySk0rhpOR4ByDWM0pECC80XpJoUVjWoplXyCRHeVQXz0ki1YQOBKN/R3tPxN9kMpMjkPTIK01Xs+TsfreziJPtjDLmn6Yud8zNiCMUPjPxxLwuSpz8Vrwg6ZNSttkv1PIU7H4nETHTsC5HQ+OT7CLdrTKGv0QIveBUz4Su4zXTWj9x7dX9d4tev57BaULPdhU9RK91z3Ebu06FKhY6TAi9vU94GjbFToFR5PdF+ZUUjDywt032Rgov6LAnxohZF4u4g==;5OthgLkhFu/5nmyHai4K9Q=="
 ---

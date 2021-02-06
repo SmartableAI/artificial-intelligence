@@ -2,26 +2,26 @@
 category: news
 title: "As Jeff Bezos steps down, Amazon stakes its future on the cloud"
 excerpt: "Among them, Jassy has championed one of Amazon's most controversial products: the facial recognition software, Rekognition. Amazon generally doesn't identify its Rekognition customers, but they ..."
-publishedDateTime: 2021-02-04T20:26:00Z
-originalUrl: "https://tulsaworld.com/lifestyles/technology/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_409521a9-4084-5c25-814c-66321c2cec71.html"
-webUrl: "https://tulsaworld.com/lifestyles/technology/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_409521a9-4084-5c25-814c-66321c2cec71.html"
+publishedDateTime: 2021-02-04T20:24:00Z
+originalUrl: "https://tucson.com/lifestyles/technology/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_79ecfde9-7203-53e8-a0ff-2f08976bf244.html"
+webUrl: "https://tucson.com/lifestyles/technology/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_79ecfde9-7203-53e8-a0ff-2f08976bf244.html"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Tulsa World
-  domain: tulsaworld.com
+  name: Arizona Daily Star
+  domain: tucson.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/a/4b/a4b80c15-0025-5c29-aaa2-c8bc8fe84457/601c55e50d45a.image.jpg?resize=576%2C324"
-    width: 576
-    height: 324
+  - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/custom/image/80e87ada-cfb0-11e7-b59b-a75438cf81bb.png"
+    width: 620
+    height: 290
     isCached: true
 
 related:
@@ -183,20 +183,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AWS CEO Andy Jassy Named New Amazon CEO, Replacing Bezos"
-    excerpt: "CEO Andy Jassy – credited as the ‘father’ of cloud computing – will be the new CEO of parent company Amazon.com when founder Jeff Bezos steps down in the third quarter"
-    publishedDateTime: 2021-02-02T05:30:00Z
-    webUrl: "https://www.crn.com/news/cloud/aws-ceo-andy-jassy-named-new-amazon-ceo-replacing-bezos"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 39
-    images:
-      - url: "https://www.crn.com/resources/0266-117bc3194e6d-9c898b9db5c2-1000/jassy-andy-aws-cover.jpg"
-        width: 610
-        height: 457
-        isCached: true
   - title: "Who is Andy Jassy? All about Amazon's new CEO after Jeff Bezos steps down between July and September 2021"
     excerpt: "Andy Jassy helped launch the Amazon Web Services (AWS) with a team of 57 people in 2003 and eventually became the CEO of the division. As of November 2020, Jassy's estimated net worth is $377 million"
     publishedDateTime: 2021-02-02T23:59:00Z
@@ -242,6 +228,6 @@ related:
         height: 450
         isCached: true
 
-secured: "Szrs3H1B0jkC/MharTTCDkB4nnb4QyNHRJhMA+GK2E1CrTCpWF0fU7JtTPOTnXTRacEPtH+XqC3Z5vEN71kPJVFwhmw5qkwZhiZF6JN9zS/sQ5kJvbhaJKR2RdAraK+TQEug9/Fd3ln/afyXSWbnfYCaFNv4W0usT5U7FvUG4j2gh7EZXFCKjHEk77NmINStBbWQ3xW4WaabdRn1wILUDXA7aGL3V09U9xiQd73Vc1SIjnsH19r2ulr0wup3yT8RxC0kzgNxWfFW0jjf0LmKehDV89wUS558ux2hUu/xKtyvJ7/xWBaMh6WzjGYoBek8OQXpzc34Zuj4v01GchQdrHNzvZV07+G0Ivigw7J+Gc0=;bDD8/c9BPeS13Z8YeW82Uw=="
+secured: "7jg4XP32WgLqqe5aukkvQF4+GJUuiJuF2gEaFMufEQJBojT6rMz4HTU3r1+N+aWJiVpbn/Qa2fsv9u5CiUe7aIU2x77iCYn66A6GUaUc4FVahBWv0BS+OorxvAi1rT5mJ8AJR5w49viXp4HqAxS8cJo7DGCB0oI6FwdEV0CfagTFSQkO0sh6I5UNnGW3z0o43/+THalgvKPX4T730X2Pj7WZNsGheDu47BMVRcWCQyGywopLvNBmwTzwILBggpe28g2+9YEC5qEz72p3OGrjk2RzRIGFVPyr5f9UpwD2aWylzZgBUEADInYbfO8+yGRl4XaF9Ts+2ruqzoFp0JR6o/nXxjGuz25wS9dRJ2Gkb68=;E1LUuNajKymCAXUzKwvisw=="
 ---
 

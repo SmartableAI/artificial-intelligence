@@ -53,20 +53,6 @@ related:
         width: 600
         height: 600
         isCached: true
-  - title: "How Amazon, Google, other hyperscalers are transforming the auto industry"
-    excerpt: "Cloud computing already runs everything from online shopping to streaming and gaming, but it is now expected to play a significant role for the auto industry as intelligent, automated data analytics become a central tool for managing all aspects of the business."
-    publishedDateTime: 2021-02-02T05:12:00Z
-    webUrl: "https://europe.autonews.com/automakers/how-amazon-google-other-hyperscalers-are-transforming-auto-industry"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 23
-    images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/BMW%20cloud%20AWS%20photo%20900x540.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Microchip Accelerates Machine Learning and Hyperscale Computing Infrastructure with the World’s First PCI Express® 5.0 Switches"
     excerpt: "CHANDLER, Ariz., Feb. 02, 2021 (GLOBE NEWSWIRE) — Applications such as data analytics, autonomous-driving and medical diagnostics are driving extraordinary demands for machine learning and hyperscale compute infrastructure. To meet these demands ..."
     publishedDateTime: 2021-02-03T14:27:00Z

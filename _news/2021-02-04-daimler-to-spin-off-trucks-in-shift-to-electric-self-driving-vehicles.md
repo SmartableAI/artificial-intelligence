@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN2A329T"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2A329T"
 type: article
 quality: 89
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -89,20 +89,6 @@ related:
       - url: "https://i.insider.com/601c68a119cbd800188afd52?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "The next self-driving vehicle"
-    excerpt: "While self-driving cars get all the coverage, autonomous tractors might actually be closer to reality and even more practical in global terms, says a report in Protocol. But what do farmers and industry experts think?"
-    publishedDateTime: 2021-02-02T06:03:00Z
-    webUrl: "https://www.linkedin.com/news/story/the-next-self-driving-vehicle-5365698/"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E1AAQERw_rNDm7ubA/storylineheaderimage-shrink_400_400/0/1611939572202?e=1612339200&v=beta&t=Iip9iEc4xiyOcZOhY0DsEIy_oHwSAAYSPd3puMJyrzI"
-        width: 400
-        height: 268
         isCached: true
   - title: "Self-driving trucks join the motorway"
     excerpt: "Scania has been granted permission by the Swedish Transport Agency to test self-driving trucks on the E4 motorway between Södertälje and Jönköping. The tests will occur in collaboration with TuSimple,"

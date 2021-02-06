@@ -89,20 +89,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "The next self-driving vehicle"
-    excerpt: "While self-driving cars get all the coverage, autonomous tractors might actually be closer to reality and even more practical in global terms, says a report in Protocol. But what do farmers and industry experts think?"
-    publishedDateTime: 2021-02-02T06:03:00Z
-    webUrl: "https://www.linkedin.com/news/story/the-next-self-driving-vehicle-5365698/"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E1AAQERw_rNDm7ubA/storylineheaderimage-shrink_400_400/0/1611939572202?e=1612339200&v=beta&t=Iip9iEc4xiyOcZOhY0DsEIy_oHwSAAYSPd3puMJyrzI"
-        width: 400
-        height: 268
-        isCached: true
   - title: "Self-driving trucks join the motorway"
     excerpt: "Scania has been granted permission by the Swedish Transport Agency to test self-driving trucks on the E4 motorway between Södertälje and Jönköping. The tests will occur in collaboration with TuSimple,"
     publishedDateTime: 2021-02-03T10:48:00Z

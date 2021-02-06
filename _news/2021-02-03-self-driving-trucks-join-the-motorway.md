@@ -100,20 +100,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "The next self-driving vehicle"
-    excerpt: "While self-driving cars get all the coverage, autonomous tractors might actually be closer to reality and even more practical in global terms, says a report in Protocol. But what do farmers and industry experts think?"
-    publishedDateTime: 2021-02-02T06:03:00Z
-    webUrl: "https://www.linkedin.com/news/story/the-next-self-driving-vehicle-5365698/"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E1AAQERw_rNDm7ubA/storylineheaderimage-shrink_400_400/0/1611939572202?e=1612339200&v=beta&t=Iip9iEc4xiyOcZOhY0DsEIy_oHwSAAYSPd3puMJyrzI"
-        width: 400
-        height: 268
-        isCached: true
   - title: "Ford ups investment in self-driving and electric cars to $29B"
     excerpt: "Ford plans to spend up big in the areas of electric vehicles and self-driving technology, CEO Jim Farley said Thursday during a conference call detailing the automaker's 2020 financial results. Key measures mentioned by the new Ford CEO include an increase in spending on EVs to $22 billion through 2025,"
     publishedDateTime: 2021-02-05T13:00:00Z

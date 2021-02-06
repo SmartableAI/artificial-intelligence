@@ -173,20 +173,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AWS CEO Andy Jassy Named New Amazon CEO, Replacing Bezos"
-    excerpt: "CEO Andy Jassy – credited as the ‘father’ of cloud computing – will be the new CEO of parent company Amazon.com when founder Jeff Bezos steps down in the third quarter"
-    publishedDateTime: 2021-02-02T05:30:00Z
-    webUrl: "https://www.crn.com/news/cloud/aws-ceo-andy-jassy-named-new-amazon-ceo-replacing-bezos"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 39
-    images:
-      - url: "https://www.crn.com/resources/0266-117bc3194e6d-9c898b9db5c2-1000/jassy-andy-aws-cover.jpg"
-        width: 610
-        height: 457
-        isCached: true
   - title: "Who is Andy Jassy? All about Amazon's new CEO after Jeff Bezos steps down between July and September 2021"
     excerpt: "Andy Jassy helped launch the Amazon Web Services (AWS) with a team of 57 people in 2003 and eventually became the CEO of the division. As of November 2020, Jassy's estimated net worth is $377 million"
     publishedDateTime: 2021-02-02T23:59:00Z
@@ -233,17 +219,17 @@ related:
         isCached: true
   - title: "As Jeff Bezos steps down, Amazon stakes its future on the cloud"
     excerpt: "Among them, Jassy has championed one of Amazon's most controversial products: the facial recognition software, Rekognition. Amazon generally doesn't identify its Rekognition customers, but they ..."
-    publishedDateTime: 2021-02-04T20:26:00Z
-    webUrl: "https://tulsaworld.com/lifestyles/technology/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_409521a9-4084-5c25-814c-66321c2cec71.html"
+    publishedDateTime: 2021-02-04T20:24:00Z
+    webUrl: "https://tucson.com/lifestyles/technology/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_79ecfde9-7203-53e8-a0ff-2f08976bf244.html"
     type: article
     provider:
-      name: Tulsa World
-      domain: tulsaworld.com
+      name: Arizona Daily Star
+      domain: tucson.com
     quality: 24
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/a/4b/a4b80c15-0025-5c29-aaa2-c8bc8fe84457/601c55e50d45a.image.jpg?resize=576%2C324"
-        width: 576
-        height: 324
+      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/custom/image/80e87ada-cfb0-11e7-b59b-a75438cf81bb.png"
+        width: 620
+        height: 290
         isCached: true
 
 secured: "z7eEd+dbp7q+2SlMXYJjwHvb1jp5TKKS/OvSmSBkuv9tHyrw0gwISMe/X1lEIBNsn851IO5YUm+6IIfgwEWjd99V1T+3T4hWzCB6gDyVcdAYWQ392SqIe+QB5UN+5O6Ul0xWdev8u/Lv36UR8nSY04WERaL3+AhsEPr70Bq2th1N0Z37HKeks8+yvx7XgE28khxmgfR4FXhoD2/aeP0wqr4l4HOkAr90mXybB9NYPwpqvH9j6kE0sGscciCG1+OsvDTlqXaJPmFr2TkXZ6yU0kBAzKmaaE201ETWS/yoykgsf6/kWeARHXrykgQjRuJs1sN7bN6gIwG22x/3DO9WWOD7gnwHfkaXQnUpLz/lqgMvo7lJp6/47rPUk6DRmNk33xg71sv6i7PaCSyFn+QdIzT1hCNLMYvLB7d15ZvOHBsGTgvXRwkANaKW05qxACsH+0xbf13+KpZxvC5FwlxjAHVMux0ZHNVZL+4lP6iScUkLVf5f+5j7ZmgcHw063ZNV135fsaRTrYlXjp8aPuutGA==;PCONrz8TFIZX9LKsEVolSw=="

@@ -185,20 +185,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AWS CEO Andy Jassy Named New Amazon CEO, Replacing Bezos"
-    excerpt: "CEO Andy Jassy – credited as the ‘father’ of cloud computing – will be the new CEO of parent company Amazon.com when founder Jeff Bezos steps down in the third quarter"
-    publishedDateTime: 2021-02-02T05:30:00Z
-    webUrl: "https://www.crn.com/news/cloud/aws-ceo-andy-jassy-named-new-amazon-ceo-replacing-bezos"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 39
-    images:
-      - url: "https://www.crn.com/resources/0266-117bc3194e6d-9c898b9db5c2-1000/jassy-andy-aws-cover.jpg"
-        width: 610
-        height: 457
-        isCached: true
   - title: "Amazon.com Announces Financial Results and CEO Transition"
     excerpt: "Founder and CEO Jeff Bezos will transition to role of Executive Chair in Q3, Andy Jassy to become Chief Executive Officer of Amazon at that timeSEATTLE--(BUSINESS WIRE)--Amazon.com, Inc. (NASDAQ: AMZN) today announced financial results for its fourth quarter ended December 31,"
     publishedDateTime: 2021-02-02T21:22:00Z
@@ -229,17 +215,17 @@ related:
         isCached: true
   - title: "As Jeff Bezos steps down, Amazon stakes its future on the cloud"
     excerpt: "Among them, Jassy has championed one of Amazon's most controversial products: the facial recognition software, Rekognition. Amazon generally doesn't identify its Rekognition customers, but they ..."
-    publishedDateTime: 2021-02-04T20:26:00Z
-    webUrl: "https://tulsaworld.com/lifestyles/technology/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_409521a9-4084-5c25-814c-66321c2cec71.html"
+    publishedDateTime: 2021-02-04T20:24:00Z
+    webUrl: "https://tucson.com/lifestyles/technology/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_79ecfde9-7203-53e8-a0ff-2f08976bf244.html"
     type: article
     provider:
-      name: Tulsa World
-      domain: tulsaworld.com
+      name: Arizona Daily Star
+      domain: tucson.com
     quality: 24
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/a/4b/a4b80c15-0025-5c29-aaa2-c8bc8fe84457/601c55e50d45a.image.jpg?resize=576%2C324"
-        width: 576
-        height: 324
+      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/custom/image/80e87ada-cfb0-11e7-b59b-a75438cf81bb.png"
+        width: 620
+        height: 290
         isCached: true
 
 secured: "jIGS1sm3BWZOYpYcsMic7HvjeJqQ2QLJGSrdJ/BrPOacpXMBt7ckp352oBNCXC8T6H20TCtdM3CwFb4izqaY9KWciEHOYvG6P4oEyFAOesv18Jt7q5xt0TIEE6YHCn7JGfcMwbotbjsTwiYFaEAD43DtdhFX+qHOeuUURRzfFIaeKTs6ITBbVbN5JJt0cg8fXoIt6XS936uqOybSlfvdbcaeGIo+dQj5Mxj2bEVT5KKjmEgT6Q6ci0hO+3JXP/Lrh61x1dKRLCIP+QbB+9S5OMRH8SaxCr6QpCFxHs3O84ols5WkLSD4xGpXKHp3P2p1BNJGxg/QG+NCrRVlVZW4+PzPzj4m4lDZGiTTEMe+ctM=;VbOyTM0cohYp8v/aLTsHiQ=="
