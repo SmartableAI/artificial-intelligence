@@ -1,27 +1,26 @@
 ---
 category: news
-title: "Jvion Partners with Community Health Network to Mitigate Impact of Deferred Care"
-excerpt: "Jvion, a leader in clinical artificial intelligence, today announced that Community Health Network, an integrated health system with over 200 sites of care and affiliates throughout Central Indiana, will leverage Jvion's prescriptive clinical AI CORE to target outreach to Accountable Care Organization members who are likely to suffer negative"
-publishedDateTime: 2021-02-03T16:18:00Z
-originalUrl: "https://insurancenewsnet.com/oarticle/jvion-partners-with-community-health-network-to-mitigate-impact-of-deferred-care"
-webUrl: "https://insurancenewsnet.com/oarticle/jvion-partners-with-community-health-network-to-mitigate-impact-of-deferred-care"
+title: "Artificial intelligence could predict whether you’ll die from COVID-19"
+excerpt: "Artificial intelligence could predict who is most likely to die from the coronavirus. In doing so, it can also help decide who should be at the front of the line for the precious vaccines now being administered across Denmark."
+publishedDateTime: 2021-02-06T11:16:00Z
+originalUrl: "https://knowridge.com/2021/02/artificial-intelligence-could-predict-whether-youll-die-from-covid-19/"
+webUrl: "https://knowridge.com/2021/02/artificial-intelligence-could-predict-whether-youll-die-from-covid-19/"
 type: article
-quality: 19
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Insurancenewsnet.com
-  domain: insurancenewsnet.com
+  name: Knowridge
+  domain: knowridge.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://insurancenewsnet.com/wp-content/uploads/2018/04/inn-og-default.jpg"
-    width: 1200
-    height: 630
+  - url: "https://k6b8f3f9.stackpathcdn.com/wp-content/uploads/2021/02/Artificial-intelligence-could-predict-whether-youll-die-from-COVID-19.jpg"
+    width: 800
+    height: 533
     isCached: true
 
 related:
@@ -141,20 +140,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Artificial intelligence could predict whether you’ll die from COVID-19"
-    excerpt: "Artificial intelligence could predict who is most likely to die from the coronavirus. In doing so, it can also help decide who should be at the front of the line for the precious vaccines now being administered across Denmark."
-    publishedDateTime: 2021-02-06T11:16:00Z
-    webUrl: "https://knowridge.com/2021/02/artificial-intelligence-could-predict-whether-youll-die-from-covid-19/"
-    type: article
-    provider:
-      name: Knowridge
-      domain: knowridge.com
-    quality: 37
-    images:
-      - url: "https://k6b8f3f9.stackpathcdn.com/wp-content/uploads/2021/02/Artificial-intelligence-could-predict-whether-youll-die-from-COVID-19.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Mass General uses artificial intelligence to bust imaging language barriers during COVID-19 pandemic"
     excerpt: "The COVID-19 pandemic has disproportionately affected members of minority communities, leaving some unable to obtain imaging services in a timely fashion. One Boston-based provider, however, is busting these care disparities,"
     publishedDateTime: 2021-02-02T07:53:00Z
@@ -169,7 +154,21 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Jvion Partners with Community Health Network to Mitigate Impact of Deferred Care"
+    excerpt: "Jvion, a leader in clinical artificial intelligence, today announced that Community Health Network, an integrated health system with over 200 sites of care and affiliates throughout Central Indiana, will leverage Jvion's prescriptive clinical AI CORE to target outreach to Accountable Care Organization members who are likely to suffer negative"
+    publishedDateTime: 2021-02-03T16:18:00Z
+    webUrl: "https://insurancenewsnet.com/oarticle/jvion-partners-with-community-health-network-to-mitigate-impact-of-deferred-care"
+    type: article
+    provider:
+      name: Insurancenewsnet.com
+      domain: insurancenewsnet.com
+    quality: 19
+    images:
+      - url: "https://insurancenewsnet.com/wp-content/uploads/2018/04/inn-og-default.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "cQwfjjkPLlk+QClU5bpL8L4TM4m+MP10MSrtUCS9h+gUbcQeJcV/6yGj8BA21EAQGIzNIPDstLgYkWu4KexHXPB4CT5AWHgWVhRRihpUIOCNoY1mYuA0YtVSnjFTw0cXMlijoNmRorFu5jkxAsWocg+f/R172ntNavNR1dupEQ/78iLq+FIZb3kDSECGNJOzyCX4re4bXMNmRO6V/mYxgvCR2hzAngnTRfQq2YJ0gF2+ngh7/jrvDcXOg+4ke7OOxwY2WeXc+X/UfkTqIgePk2obt3D4bBzcBngVare5MDEh83rAkXkr3px4pkqj2ECSbF5Bm2u7XK/kg4S9xq5tpPm78gO5IjsTRfdmWkML24E=;4Yt6yUmFPD+jZmSYR5OBVw=="
+secured: "hE3OL/BOYJ7o9U9GGvW1Xu3k9yNycRmLrric8mKXLKnUG3O0Pbxz8HmJdrhMbSqxdi3S3GAn2aTrhbXX+9mKc4DihTWKJ9LNc25uFS7rueT/1cWED5HdOUrNDmc5kEHEJjE76qwTbluIOfPjYGfE6tUyV5k2WPnUsDuf7m4XjZX1iZO0yhX9e3qXM1bvjYKol5rpeOQQE1wRE/esZGNXU9XTYCH2XRSbBxCLbUdKTtBhIKyyfFfeIfRjwT/xnCN/vYvpgwOC4JgXhcmQLCmlvcA0uLOb1NR4LiVtkCD3FAGsss8AaXVCxFWnyOwWJ92mY1+jvUokmZYPTx0+dRrVgtovH5XiCkv/j8hNnlNzKOE=;+5YCF4Kl56ZFuT+Kld5XsQ=="
 ---
 

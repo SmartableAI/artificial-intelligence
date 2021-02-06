@@ -33,20 +33,6 @@ related:
         width: 272
         height: 270
         isCached: true
-  - title: "DISA, General Dynamics roll out AWS across milCloud"
-    excerpt: "The Defense Information Systems Agency and General Dynamics introduce the first commercial cloud hosting service to be made available on the milCloud 2.0 platform."
-    publishedDateTime: 2021-02-01T20:01:00Z
-    webUrl: "https://washingtontechnology.com/articles/2021/02/01/milcloud-amazon-available.aspx"
-    type: article
-    provider:
-      name: Washington Technology
-      domain: washingtontechnology.com
-    quality: 39
-    images:
-      - url: "https://washingtontechnology.com/~/media/GIG/Washington%20Technology/WTlogo.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "DISA, General Dynamics roll out AWS across milCloud 2.0"
     excerpt: "The Defense Information Systems Agency and General Dynamics introduce the first commercial cloud hosting service to be made available on the milCloud 2.0 platform."
     publishedDateTime: 2021-02-03T15:26:00Z

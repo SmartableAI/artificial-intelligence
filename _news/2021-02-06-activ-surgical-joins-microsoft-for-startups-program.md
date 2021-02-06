@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Skillsoft Integrates with Microsoft Viva to Empower Learning in Today’s Flow of Work"
-excerpt: "Skillsoft, a leader in digital learning, training, and talent solutions to help organizations unleash their edge, announces it is integrating tools and training with Microsoft Viva, which Microsoft launched today."
-publishedDateTime: 2021-02-05T08:05:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-professional-services-4872dc3dd517417798ad767ac157b1fb"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-professional-services-4872dc3dd517417798ad767ac157b1fb"
+title: "Activ Surgical Joins Microsoft for Startups Program"
+excerpt: "Activ Surgical ™, a digital surgery pioneer, today announced it has been named the newest member of Microsoft for Startups --a global program that helps B2B startups successfully scale. As a member in the program,"
+publishedDateTime: 2021-02-06T07:56:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-medical-technology-8b307d5ac5643e16b5d2666cbd482a80"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-medical-technology-8b307d5ac5643e16b5d2666cbd482a80"
 type: article
-quality: 34
+quality: 39
 heat: -1
 published: false
 
@@ -15,9 +15,8 @@ provider:
   domain: apnews.com
 
 topics:
-  - Machine Learning
-  - AI
   - Microsoft AI
+  - AI
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"
@@ -361,20 +360,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Activ Surgical Joins Microsoft for Startups Program"
-    excerpt: "Activ Surgical ™, a digital surgery pioneer, today announced it has been named the newest member of Microsoft for Startups --a global program that helps B2B startups successfully scale. As a member in the program,"
-    publishedDateTime: 2021-02-06T07:56:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-medical-technology-8b307d5ac5643e16b5d2666cbd482a80"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "How Microsoft brought Swiss voice assistants to life"
     excerpt: "Microsoft’s Custom Neural Voice is now generally available. In Switzerland, the technology has been already used to create unique voice assistants."
     publishedDateTime: 2021-02-05T20:26:00Z
@@ -402,6 +387,20 @@ related:
       - url: "https://cdn.nextgov.com/media/img/upload/2021/02/04/NGmicrosfot20210204/860x394.jpg"
         width: 860
         height: 394
+        isCached: true
+  - title: "Skillsoft Integrates with Microsoft Viva to Empower Learning in Today’s Flow of Work"
+    excerpt: "Skillsoft, a leader in digital learning, training, and talent solutions to help organizations unleash their edge, announces it is integrating tools and training with Microsoft Viva, which Microsoft launched today."
+    publishedDateTime: 2021-02-05T08:05:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-professional-services-4872dc3dd517417798ad767ac157b1fb"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 34
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
     excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance"
@@ -436,6 +435,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "3pKp6i2LPqPQc+5EQAqcFsxqoBmF4ao3CcDLAFfhhtUMWWGoG0EjEy1MMxjry1EMmPfqttR8wvSkoqJBPS4sNVT370dxDXaxQW+DSkrDTnt4OnupzVCoZ+qBG2kWaot0URRYwdsWy8KezrW2v9q5e7cRRC2/xstpIXVv+n4bdscJV2xJWBIiXVvqWZI9pRtp5pMijq0Px0g/P1lhNONZhO2Jz3Q4dsod6+Qg2wPIGkhSCIF9mdO+oFTFQI1h4B1xKrD1P3/VlfjaJ6caqJK0GGYVufRYdPj8V+c+QIxojBZwko+TnImwB3sgPkRJ159Di9Fa3Ax1X7xnJG0y4s0GpQ1qr54zybAk4mpQ+RUODTs=;H4Y4hm3rf3eJ9UdJrn5SfA=="
+secured: "GxKSE9T/Mvz75ywLIua/Ka8FHidG8A3ompCY2peUF0Kmt8RqQbnqDCxuOdHPTHVggX9JhDyRQIKb3kr8VkyEh7V/2lo9QStEy0q3H9G5O7O+kn6bKolg/kP63sF6BhLM5j4JQzZGClyBCvzoP6DeFNQhPrK6KzKx+zvdzNByPjjTqt0jwNj8MfqZOQkguzkZlYMl6ntZJ8no07Qi/Fu5c7H8N3cb/6BYWe/5eUy5wBBrZ1liCIMo/O5kabovaCPMae5oRTxbC9IXFXcesnkAVeL6GjvfDi04K1lN746/JFMzXm2ycTTnBurj6avoiyaaHJkwtFnQupdhqR5JnElicVL8lPmciqq4AG+B75pBpNk=;G3WKIO8A/twaPUCRJEM0Ig=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/03/microsoft-launches-custom-neural-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/03/microsoft-launches-custom-neural-voice-in-limited-access/amp/"
 type: article
 quality: 139
-heat: 419
+heat: 429
 published: true
 
 provider:
@@ -349,6 +349,20 @@ related:
       - url: "https://www.onmsft.com/wp-content/uploads/2021/01/Microsoft-Campus.jpg"
         width: 1024
         height: 768
+        isCached: true
+  - title: "Activ Surgical Joins Microsoft for Startups Program"
+    excerpt: "Activ Surgical ™, a digital surgery pioneer, today announced it has been named the newest member of Microsoft for Startups --a global program that helps B2B startups successfully scale. As a member in the program,"
+    publishedDateTime: 2021-02-06T07:56:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-medical-technology-8b307d5ac5643e16b5d2666cbd482a80"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "How Microsoft brought Swiss voice assistants to life"
     excerpt: "Microsoft’s Custom Neural Voice is now generally available. In Switzerland, the technology has been already used to create unique voice assistants."

@@ -130,19 +130,19 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Research proposals to address COVID-19 challenges sought"
-    excerpt: "Washington University's McDonnell International Scholars Academy and Social Policy Institute seek proposals from WashU researchers and their international partners to identify and address the challenges of COVID-19 through artificial intelligence,"
-    publishedDateTime: 2021-02-01T20:28:00Z
-    webUrl: "https://source.wustl.edu/2021/02/research-proposals-to-address-covid-19-challenges-sought/"
+  - title: "Artificial intelligence could predict whether you’ll die from COVID-19"
+    excerpt: "Artificial intelligence could predict who is most likely to die from the coronavirus. In doing so, it can also help decide who should be at the front of the line for the precious vaccines now being administered across Denmark."
+    publishedDateTime: 2021-02-06T11:16:00Z
+    webUrl: "https://knowridge.com/2021/02/artificial-intelligence-could-predict-whether-youll-die-from-covid-19/"
     type: article
     provider:
-      name: Washington University in St. Louis
-      domain: wustl.edu
-    quality: 24
+      name: Knowridge
+      domain: knowridge.com
+    quality: 37
     images:
-      - url: "https://source.wustl.edu/wp-content/uploads/2021/01/shutterstock_1656386548.jpg"
+      - url: "https://k6b8f3f9.stackpathcdn.com/wp-content/uploads/2021/02/Artificial-intelligence-could-predict-whether-youll-die-from-COVID-19.jpg"
         width: 800
-        height: 500
+        height: 533
         isCached: true
   - title: "Mass General uses artificial intelligence to bust imaging language barriers during COVID-19 pandemic"
     excerpt: "The COVID-19 pandemic has disproportionately affected members of minority communities, leaving some unable to obtain imaging services in a timely fashion. One Boston-based provider, however, is busting these care disparities,"

@@ -1,17 +1,15 @@
 ---
 category: news
-title: "Facebook to use AI in predicting if Covid-19 patients need better healthcare"
-excerpt: "Washington [: American social media giant Facebook is publishing a research conducted by its artificial intelligence (AI) unit in an effort to help healthcare providers predict in advance if a ..."
-publishedDateTime: 2021-01-19T07:17:00Z
-originalUrl: "https://www.livemint.com/companies/news/facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare-11611015950906.html"
-webUrl: "https://www.livemint.com/companies/news/facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare-11611015950906.html"
-ampWebUrl: "https://www.livemint.com/companies/news/facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare/amp-11611015950906.html"
-cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare/amp-11611015950906.html"
+title: "Facebook to use AI in predicting if COVID-19 patients need better healthcare"
+excerpt: "Washington [US], January 19 (ANI): American social media giant Facebook is publishing a research conducted by its artificial intelligence (AI) unit in an effort to help healthcare providers ..."
+publishedDateTime: 2021-01-19T01:36:00Z
+originalUrl: "https://www.aninews.in/news/tech/others/facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare20210119005324/"
+webUrl: "https://www.aninews.in/news/tech/others/facebook-to-use-ai-in-predicting-if-covid-19-patients-need-better-healthcare20210119005324/"
 type: article
 
 provider:
-  name: Mint
-  domain: livemint.com
+  name: Asian News International
+  domain: aninews.in
 
 topics:
   - Facebook AI
@@ -19,11 +17,11 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://images.livemint.com/img/2021/01/19/600x338/2021-01-18T135851Z_33186576_RC2DAL9C6WEM_RTRMADP_3_HUNGARY-MEDIA-REGULATIONS_1611020801836_1611020835549.JPG"
+  - url: "https://aniportalimages.s3.amazonaws.com/media/details/wfsa4753.jpg"
     width: 600
-    height: 338
+    height: 450
     isCached: true
 
-secured: "tbgiD9kgVMgu6yrgKucFJSoxwJgmc96KOg7iB3mOaEzxvQvykuBFsiFqTF5oPTYwrwtjrpjPgfe4yCXhZYi9cCEP1IrA2Yvfw7A+cC6/e5mL2NJqyJzDGyMUAaFVh6kcbWW0pNHuJc7oxizJeWtF6YCb4oofv4gwnXROeFOv4PHGHKfLrA80HWllc00fAKo6dY64Df2wuboidgzaR1Wng7E/5Bs1H2raXQrLzPTL8FG62jY2894hfNR4VNKvWEFDTWNMCJYSqiLxFo8kFCd7pzx/DPW61BvUOjI/tOgaRibPCZRbBTWMa1xuDvz3PlZReZcvEgEycwuhYLb4en/UmZClyHpSMspzpAcZVZickrQ=;LVx/hnSafo7PrtL/MrG6hg=="
+secured: "fP0bETFepvuuswt24SFDtvxa6mcJT6QJBMSFQq9yOXzC8qcA4RaiIstdpI/SZnmjg+onR2Me6ZPKZedjoEniRIJJkSr+sJFZnYVHi1uj19CDph0utflVM8vB8c3BvtLR5XCBzjZpIRzisHYlUXwQgy9YD0vv9NHLK6YvLKKSkflAXDiim92Wbm8G3LF5DtLmV9Xg4XvY5JM5YMUAP98rUxlBI4G7pIQTD5MhZPSUBe+6aoXcvcRkCfHX9zYHkEcpqngJzXjacEHt69iKgG+j7EQKTFJ7zvjk3JCAH1CTA5DsUfH6L0b6QkJPa+PvZTJndDgfRzf/GzRZRfeCxaWeV42I5N9Gtw6P+Yxj8zyVhSw=;76HXYkYFIec08pzdWL/9qA=="
 ---
 

@@ -364,6 +364,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Activ Surgical Joins Microsoft for Startups Program"
+    excerpt: "Activ Surgical ™, a digital surgery pioneer, today announced it has been named the newest member of Microsoft for Startups --a global program that helps B2B startups successfully scale. As a member in the program,"
+    publishedDateTime: 2021-02-06T07:56:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-medical-technology-8b307d5ac5643e16b5d2666cbd482a80"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Microsoft Partnership Will Bring New Cloud Service to DOD Microelectronics Project"
     excerpt: "Microsoft announced new partnerships Thursday that will support two major Defense Department projects using the tech giant’s Azure cloud services. Microsoft is working with ten companies on a technology solution for the secure design of microelectronics using a new service in the Azure Government cloud region in support of a Defense Department program,"
     publishedDateTime: 2021-02-05T02:57:00Z
