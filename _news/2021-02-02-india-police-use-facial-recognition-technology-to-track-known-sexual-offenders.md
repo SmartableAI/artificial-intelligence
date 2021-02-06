@@ -42,15 +42,20 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Delta Rolls Out Facial Recognition for Domestic Travel at Detroit Airport"
-    excerpt: "Delta Air Lines is rolling out facial recognition for some domestic travelers at its Detroit hub, an expansion of the biometric technology beyond international flights. The move comes after Atlanta-based Delta launched in 2018 what it called a \"biometric terminal\" for international travel using facial recognition at Hartsfield- Jackson's Maynard H."
-    publishedDateTime: 2021-02-05T15:26:00Z
-    webUrl: "https://www.aviationpros.com/airlines/news/21209027/delta-rolls-out-facial-recognition-for-domestic-travel-at-detroit-airport"
+  - title: "Delta rolls out facial recognition for domestic travel at Detroit airport"
+    excerpt: "Delta Air Lines is rolling out facial recognition for some domestic travelers at its Detroit hub, an expansion of the biometric technology beyond international flights. The move comes after Atlanta-based Delta launched in 2018 what it called a “biometric terminal” for international travel using facial recognition at Hartsfield-Jackson’s Maynard H."
+    publishedDateTime: 2021-02-04T20:51:00Z
+    webUrl: "https://www.ajc.com/news/business/delta-rolls-out-facial-recognition-for-domestic-travel-at-detroit-airport/67K25ANSAJEQVLR5LGZNPPULRE/"
     type: article
     provider:
-      name: AviationPros
-      domain: aviationpros.com
-    quality: 33
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 53
+    images:
+      - url: "https://www.ajc.com/resizer/C-G8Xr8RpZqUnRl8gGEcgY-jFgo=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/EQ2DJC3GNWFFY2Q2DAIPN7ANIU.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "5iWG6i2szRpVZiUWPKJ307VicqMaJT/phbw8VmShDUzIU/mxrXJHBxfnQayYkvXhSV9lUvN2lpgpVk6fK8gVRBfEgpX+bj5tKjPUHd2ADQlvc/7io2/tS5g5B674pyH0qiFBOUBW//PAS8bQ+CTXlQj8zvhzD/804tb1ih7ltW97yXCCje8Vvy7wic2u0AfO3r4fz00jjphQGWiRfuQuJPGLQE6S9kDjxXI5Xl/zujAyJSmUV2fs+eOlCzfzR1dqoXNJpIk6iK/A1sd0QY5IIBmY9ybJ8T6/E+FrLAGqyNi1ghCANOR2zBxhfBdl1/uGDzgfSEkVSwMB+Fnh89iD6w5P6PQ2q/e/ha9ndOe2pqVE6DJzbQVmIVDwMUGw8JpJThbsV01SuV0gzaU4Fb9lsU7aXPUQXqdX/AW+8zsLV3cIhHfzyJP3DcWkNVjlM7ieJSd2XLFkjHtcFD3wRfTcJRljMCWpX5Auk9YTVpiQ/IqVE6G/7uydu9KJo/hnN3iGg1C8FZSoFwhvOi2iySMoRw==;gguAG1ZPMkQ1ly6kB44Row=="
 ---

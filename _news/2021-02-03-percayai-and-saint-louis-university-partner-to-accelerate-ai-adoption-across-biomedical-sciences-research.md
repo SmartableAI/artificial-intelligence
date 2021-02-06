@@ -37,13 +37,27 @@ related:
     quality: 50
   - title: "Untether AI Partners with Colfax International to Provide Peak Performance in AI Edge Servers"
     excerpt: "Untether AI, the leader in at-memory computation and AI acceleration, today announced a partnership with Colfax International in which Untether’s tsunAImi TM accelerator cards, powered by the runAI TM devices,"
-    publishedDateTime: 2021-02-05T08:35:00Z
-    webUrl: "https://www.financialbuzz.com/untether-ai-partners-with-colfax-international-to-provide-peak-performance-in-ai-edge-servers/"
+    publishedDateTime: 2021-02-04T16:38:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-toronto-ontario-computer-components-north-america-a2352441944e4f40a9c5d20269710c62"
     type: article
     provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 8
+      name: Associated Press
+      domain: apnews.com
+    quality: 28
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Perimeter Medical Imaging AI Announces Acceleration of Expiry Date of Warrants"
+    excerpt: "Perimeter Medical Imaging AI, Inc. (TSX-V:PINK)(OTC:PYNKF) (FSE:4PC) (“Perimeter” or the “Company”), a medical technology company driven to transform"
+    publishedDateTime: 2021-02-02T04:15:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210201005963/en/Perimeter-Medical-Imaging-AI-Announces-Acceleration-of-Expiry-Date-of-Warrants"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 13
 
 secured: "0w9LT1bcPS30ZWE3byxZgarNOGydccTNrOY07kcN0LcR9zj0/ffuI0dqEEtWFJUP4NCMF2llvA5/ll6c1G2ZMWGGBhLwO6phm7r3PQ4MUoq+rwwZvEL7UuTzeYAtMm5I6LGSr4dnAKwSRQ2dLK4HVAiXGVnis7Yj8D/sSof68fSUaEumeKvRdMXoQaxmYbkLIxA+Y+lUldl1+FZTjH6IM28CyqtabVkBtBDt1pSlcotZP3q6Ub76obIeoHBNTKPdPhGVJ6+vhTC3dmh7qsygSEcJR2Xsul4dhQIlySmEDtSUPpIQp26375rpwkWisYELGucpbHyQp6mZM9gAB2/IxndsYYgV/5qcfnFUgaOOIEE=;6Z/BD3Td+EgHes0qRQibgg=="
 ---

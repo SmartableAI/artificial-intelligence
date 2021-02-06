@@ -40,20 +40,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Aizon Launches GxP AI Bioreactor Application for the Pharma Industry to Scale Manufacturing & Quality"
-    excerpt: "Aizon launches its Bioreactor Application, the pharma industry’s first predictive analysis and deep knowledge management application. The Aizon Bioreactor Application adds the bioreactor process to the “Smart Manufacturing” transformation that is accelerating across the Pharma and Biotech industry."
-    publishedDateTime: 2021-02-01T15:06:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-biotechnology-pharmaceutical-manufacturing-health-care-industry-fd2b871fd80a4b279c2b86574f118597"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 22
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "Zrg0ga+JbWdgJVnrr0w82Yp2sw14Tc94QXvc0Xz4G0JCrmfJpIwz5B1zEtQPUVLAPhIReeC4qmIsMiaxF9EMsLX6zmKROv2k/TrJKTuvA+VcrcqVxHEE0E7hIMdyn5SKLwOXVDL0NSA6PdwjNM9nhh8J+EteJql1XuhJbbgzOeO/nDmBtBjEptGamQBMYhLv4ABrAgzm6rda2Xs7ombpG5Nb7xLhvcHlomSaVC7/2YQ6+yThv/NzPjun2guzoCPVsOPYA+ERQ4Vyfa/lkmj+OHlU60b4Az1MMFi2EmtEi09Dq8eu9NtnRLhPP0I9pxzQVcExEywV/svtPa7hBs8F20Kgzdmz55bR5PI5qOl4Vco=;v2BhsT2BLErZYvBymcsikA=="
 ---

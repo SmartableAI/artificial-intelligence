@@ -25,45 +25,78 @@ images:
     isCached: true
 
 related:
-  - title: "Elder care, wireless AI, and the Internet of Medical Things"
-    excerpt: "Senior citizens are accustomed to constant probes by doctors, but wireless AI tech is enabling massive-scale, nonintrusive data monitoring."
-    publishedDateTime: 2021-02-01T15:14:00Z
-    webUrl: "https://venturebeat.com/2021/02/01/elder-care-wireless-ai-and-the-internet-of-medical-things/"
-    ampWebUrl: "https://venturebeat.com/2021/02/01/elder-care-wireless-ai-and-the-internet-of-medical-things/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/01/elder-care-wireless-ai-and-the-internet-of-medical-things/amp/"
+  - title: "The Role Of Bias In Artificial Intelligence"
+    excerpt: "Artificial intelligence (AI) has evolved exponentially, from driverless vehicles to voice automation in households, and is no longer just a term from sci-fi books and movies. The future of artificial intelligence comes sooner than the projections that were seen in the futuristic Minority Report film."
+    publishedDateTime: 2021-02-04T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/04/the-role-of-bias-in-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/04/the-role-of-bias-in-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/04/the-role-of-bias-in-artificial-intelligence/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: Forbes
+      domain: forbes.com
     quality: 89
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/02/Elder-care-wireless-AI-and-the-Internet-of-Medical-Things-01.jpg?w=1200&strip=all"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7376dc40469ab26495a8e5%2F0x0.jpg"
         width: 1200
-        height: 598
+        height: 900
         isCached: true
-  - title: "VB Special Issue: AI and the future of health care"
-    excerpt: "In this issue, we examine how the medical field is using AI and data to tackle the challenges of this extraordinary time"
-    publishedDateTime: 2021-02-01T15:45:00Z
-    webUrl: "https://venturebeat.com/vb-special-issue-ai-and-the-future-of-health-care/"
+  - title: "DeepMind Is Working on a Solution to Bias in AI"
+    excerpt: "In DeepMind's hypothetical college admissions example: qualifications (Q), gender (G), and choice of department (D), all factor into whether a candidate is admitted (A). A Causal Bayesian Network can identify causal and non casual relationships between ..."
+    publishedDateTime: 2021-02-02T00:00:00Z
+    webUrl: "https://www.designnews.com/design-hardware-software/deepmind-working-solution-bias-ai"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
+      name: Design News
+      domain: designnews.com
+    quality: 54
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/01/vb-special-issue-ai-health-care-Header.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 400
+      - url: "https://www.designnews.com/sites/designnews.com/files/Design%20News/DeepMind%20CBN%20example.png"
+        width: 1178
+        height: 1070
         isCached: true
-  - title: "Perimeter Medical Imaging AI Announces Acceleration of Expiry Date of Warrants"
-    excerpt: "Perimeter Medical Imaging AI, Inc. (TSX-V:PINK)(OTC:PYNKF) (FSE:4PC) (“Perimeter” or the “Company”), a medical technology company driven to transform"
-    publishedDateTime: 2021-02-02T04:15:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210201005963/en/Perimeter-Medical-Imaging-AI-Announces-Acceleration-of-Expiry-Date-of-Warrants"
+  - title: "She was named one of the 100 most brilliant women in AI ethics"
+    excerpt: "Computer science professor Tina Eliassi-Rad says she’s proud to be named on an industry list of “ 100 Brilliant Women in AI Ethics,” which identifies her as one of the top t"
+    publishedDateTime: 2021-02-03T00:00:00Z
+    webUrl: "https://news.northeastern.edu/2021/02/03/she-was-named-one-of-the-100-most-brilliant-women-in-ai-ethics/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 13
+      name: Northeastern University
+      domain: northeastern.edu
+    quality: 54
+    images:
+      - url: "https://news.northeastern.edu/wp-content/uploads/2021/01/Eliassi-Rad_Tina_1400.jpg"
+        width: 1400
+        height: 933
+        isCached: true
+  - title: "Closing the gap to win the AI marathon"
+    excerpt: "Fortunately for the U.S., the race for AI superiority with China is not a sprint. An industry expert shares ideas for how Washington can come out ahead in the long run."
+    publishedDateTime: 2021-02-02T21:01:00Z
+    webUrl: "https://www.airforcetimes.com/thought-leadership/2021/02/02/closing-the-gap-to-win-the-ai-marathon/"
+    type: article
+    provider:
+      name: Air Force Times
+      domain: airforcetimes.com
+    quality: 39
+    images:
+      - url: "https://www.armytimes.com/resizer/p3zemX6HJKBa4qaZxvSnd7xISxo=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/SY7J6A2BH5ACZDPUZLELFFKBNU.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The rise of AI in Stanford’s CS curricula"
+    excerpt: "AI-related courses experienced large growth, both in terms of the number of courses and the number of students enrolling in these courses."
+    publishedDateTime: 2021-02-05T05:06:00Z
+    webUrl: "https://www.stanforddaily.com/2021/02/04/the-rise-of-ai-in-stanfords-cs-curricula/"
+    type: article
+    provider:
+      name: Stanford Daily
+      domain: stanforddaily.com
+    quality: 37
+    images:
+      - url: "https://wp.stanforddaily.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-04-at-3.00.18-PM.png"
+        width: 1918
+        height: 1296
+        isCached: true
 
 secured: "sUD24gIXnfgeic6G4WlHSNS02wXSylc8gfNb4MM5lrfx41wlB0qRZuqJjVPSbIgmnYwPXrGs9B5OdlO64G3LbEFJv+Oi4QQWV6WXJZzGgiIIcxPbyX0xDPbPDgsyjO2gxgGZ+O9mOYFreJLochizamWByYGfqi5JF3XY9fTlp8tjguqeVjXENDutB/Boaj8d/vDLkE+GDMjcl0wMu43q474SRYMTV9sOivvERLFy8OhwEssyG4doeQzKJG+VmBc8VFltSKuFil9sweOOI3zAOK1zby4mlYBH5Sz6Kk1qEP4GY7y1h86MzbnjxaRAS6Et9AkmDZ8peM23YQ12NXNe24iuJmKhoV4WVuAYwLO6ElE=;HqxDaRAF7s9cwqxJXXXuCg=="
 ---

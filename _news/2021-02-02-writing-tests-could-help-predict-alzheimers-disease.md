@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Alzheimer’s Prediction May Be Found in Writing Tests"
-    excerpt: "IBM researchers trained artificial intelligence to pick up hints of changes ... health care and life sciences research at IBM Thomas J. Watson Research Center in Yorktown Heights, N.Y., where ..."
-    publishedDateTime: 2021-02-01T16:27:00Z
-    webUrl: "https://www.nytimes.com/2021/02/01/health/alzheimers-prediction-speech.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/01/health/alzheimers-prediction-speech.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/01/health/alzheimers-prediction-speech.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 74
-    images:
-      - url: "https://static01.nyt.com/images/2021/02/02/science/00SCI-SPEECH1/00SCI-SPEECH1-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
   - title: "Multimodal deep learning models for early detection of Alzheimer’s disease stage"
     excerpt: "Most current Alzheimer’s disease (AD) and mild cognitive disorders (MCI) studies use single data modality to make predictions such as AD stages. The fusion of multiple data modalities can provide a holistic view of AD staging analysis."
     publishedDateTime: 2021-02-05T12:16:00Z

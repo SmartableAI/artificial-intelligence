@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/video/the-race-for-ai-is-getting-tight-but-w
 webUrl: "https://www.zdnet.com/video/the-race-for-ai-is-getting-tight-but-who-is-winning-it/"
 type: article
 quality: 67
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Closing the gap to win the AI marathon"
-    excerpt: "Fortunately for the U.S., the race for AI superiority with China is not a sprint. An industry expert shares ideas for how Washington can come out ahead in the long run."
-    publishedDateTime: 2021-02-02T21:00:00Z
-    webUrl: "https://www.navytimes.com/thought-leadership/2021/02/02/closing-the-gap-to-win-the-ai-marathon/"
-    type: article
-    provider:
-      name: Navy Times
-      domain: navytimes.com
-    quality: 39
-    images:
-      - url: "https://www.armytimes.com/resizer/p3zemX6HJKBa4qaZxvSnd7xISxo=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/SY7J6A2BH5ACZDPUZLELFFKBNU.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "How artificial intelligence is changing the face of banking in India?"
     excerpt: "Artificial intelligence in Indian banking is in its nascent stage and will evolve exponentially with soaring demand for a better customer experience. Here are the top Indian banks using AI."
     publishedDateTime: 2021-02-03T11:17:00Z

@@ -99,20 +99,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Autonomous Cars Market | Worldwide Industry Share, Size, Gross Margin, Trend, Future Demand, Analysis by Top Leading Player and Forecast Till 2027"
-    excerpt: "Autonomous Cars Market is set to grow exponentially owing to the increasing development of the ride-hailing technology. Hence, numerous industry giants are investing hefty amounts of money in the field of driverless ride-sharing."
-    publishedDateTime: 2021-02-01T15:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/autonomous-cars-market-worldwide-industry-share-size-gross-margin-trend-future-demand-analysis-by-top-leading-player-and-forecast-till-2027-2021-02-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 16
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "w7eKTVjSDOD6BzFZUJ8BBuYBwHkazcx5E+of5Ou+xLJL19vmeO4ElIJwY45HnkRqdMRl+wZL31VbQsUlQMnuSPjjg/66GnKL6z3RUipk4yoCaym3lUTZ65h/x9Q8G+0zA5v5ydpFXslMZWD0zQyPDwpd0jUEkl8PP5AVswhLuXT5GqmQnjp+esVrsEzLrbxkvq6NtiiTRjTwpFywKBCclt22akrz/IKQ71OjPp/KPvq/TAOG0Vw7G9CJ2cpGAWubfxzSv9hgxr01UbBmBVGfWC72BGUlz57oJ8SGzfq2znR2OaLq8lnnzhKV+r1Ck3BMad7kKhPzZAQU+BBIpmhhWATwsL+gnxRQkWUhsGT+CSk=;uPN5GVPl8+TrMDvMgIsg9w=="
 ---

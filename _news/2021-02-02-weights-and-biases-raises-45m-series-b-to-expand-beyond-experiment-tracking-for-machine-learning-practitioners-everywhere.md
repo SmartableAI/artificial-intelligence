@@ -26,51 +26,61 @@ images:
     isCached: true
 
 related:
-  - title: "Weights & Biases raises $45M for its machine learning tools"
-    excerpt: "Weights & Biases, a startup building tools for machine learning practitioners, is announcing that it’s raised $45 million in Series B funding. The company was founded by Lukas Biewald, Chris Van Pelt and Shawn Lewis — Biewald and Van Pelt previously founded CrowdFlower/Figure Eight"
-    publishedDateTime: 2021-02-01T16:35:00Z
-    webUrl: "https://techcrunch.com/2021/02/01/weights-and-biases-series-b/"
-    ampWebUrl: "https://techcrunch.com/2021/02/01/weights-and-biases-series-b/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/01/weights-and-biases-series-b/amp/"
+  - title: "Rescale Raises $50 Million in Series C Funding"
+    excerpt: "Rescale, the leading hybrid HPC cloud platform enabling intelligent computing for digital R&D, today announced it has closed $50 million in Series C funding from Hitachi Ventures, Microsoft's M12, Nautilus Venture Partners,"
+    publishedDateTime: 2021-02-02T14:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/rescale-raises-50-million-in-series-c-funding-2021-02-02"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 104
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/02/image-5.jpg?w=680"
-        width: 680
-        height: 412
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Hourly job-matching startup Landed raises $1.4M"
-    excerpt: "Landed, a startup aiming to improve the hiring process for hourly employers and job applicants, is officially launching its mobile app today. It’s also announcing that it has raised $1.4 million in seed funding."
-    publishedDateTime: 2021-02-02T19:53:00Z
-    webUrl: "https://techcrunch.com/2021/02/02/landed-seed-funding/"
-    ampWebUrl: "https://techcrunch.com/2021/02/02/landed-seed-funding/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/02/landed-seed-funding/amp/"
+  - title: "Rescale Raises $50 Million in Series C Funding"
+    excerpt: "Rescale, the leading hybrid HPC cloud platform enabling intelligent computing for digital R&D, today announced it has closed $50 million in Series C funding from Hitachi Ventures, Microsoft’s M12, Nautilus Venture Partners,"
+    publishedDateTime: 2021-02-03T07:58:00Z
+    webUrl: "https://apnews.com/article/business-technology-science-genomics-products-and-services-3e1356013d10e82c6e1290414a7c7500"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/02/LANDED_IMAGE_TC.jpg?w=1024"
-        width: 1024
-        height: 618
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "Machine learning experiment tracking startup Weights and Biases raises $45M"
-    excerpt: "Machine learning startup Weights and Biases Inc. said today it has raised $45 million in a new round of funding that brings its total amount raised to $65 million. The Series B round was led by Insight Partners with participation from Coatue,"
-    publishedDateTime: 2021-02-02T03:44:00Z
-    webUrl: "https://siliconangle.com/2021/02/01/machine-learning-experiment-tracking-startup-weights-biases-raises-45m/"
+  - title: "Superb AI Raises $9.3M in Series A Funding"
+    excerpt: "Superb AI, a San Mateo, Calif.-based provider of AI-enabled training data platforms, completed a $9.3m Series A round of financing"
+    publishedDateTime: 2021-02-02T19:00:00Z
+    webUrl: "https://www.finsmes.com/2021/02/superb-ai-raises-9-3m-in-series-a-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 39
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2021/02/Superb-AI.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Microsoft, Nvidia join $50M round for high-performance computing startup Rescale"
+    excerpt: "Rescale Inc., a startup developing software for running high-performance computing applications in the cloud, today announced that it has raised a $50 million funding round from Microsoft Corp., Nvidia Corp."
+    publishedDateTime: 2021-02-02T12:05:00Z
+    webUrl: "https://siliconangle.com/2021/02/02/microsoft-nvidia-join-50m-round-high-performance-computing-startup-rescale/"
     type: article
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 52
+    quality: 36
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/5f3ea98410a400266d2579b5_image-15.jpg"
-        width: 761
-        height: 544
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/unsplash-1.png"
+        width: 1050
+        height: 700
         isCached: true
 
 secured: "SdEa1h33hINvsrwmemZGMQxDMV3x6raT8Zq4ZXxQo6Ud0saFipQXlfC8nMeTopkCT4OlcTZLDq4HB0DpsKhLbrSYEof9NJFZ03FUpdjFJaFgSURM9wysDo4LHH8cFakJKPKUIv2llFitaUgkiZ+yhEZANI3AR1Nn/cRywj1caJ+Iu824+iQxGX+JHLSqHLhlBmqf/Xx1mpjvRZX4I0ioDPAgA9eZjHkHO6s1AmpWknTaUp58xR95YRutMznsHOCS0D/uJA0heYuhBQWAbCZkzUW1XbKRzFFvKcFkKSPOgrEzzSCsBfdlIUM3VJufvfli20pkvIRkA/j/+KYrxMrt6Ga67HWL7yj/fVsKs5kbmeI=;ipJb/Ufwe5r6kl8Y+8OIZA=="

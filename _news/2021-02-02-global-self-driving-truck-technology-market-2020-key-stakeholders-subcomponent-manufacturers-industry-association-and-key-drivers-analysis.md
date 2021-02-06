@@ -29,96 +29,176 @@ images:
     isCached: true
 
 related:
-  - title: "Self-Driving Cars Are Faced With Too Many Moving Objects And Too Little Time"
-    excerpt: "A surprising difficulty for self-driving cars involves having a multitude of objects in-motion nearby and being short on time to computationally analyze the frenzy."
-    publishedDateTime: 2021-02-01T16:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/02/01/self-driving-cars-are-faced-with-too-many-moving-objects-and-too-little-time/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/02/01/self-driving-cars-are-faced-with-too-many-moving-objects-and-too-little-time/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/01/self-driving-cars-are-faced-with-too-many-moving-objects-and-too-little-time/amp/"
+  - title: "Artificial Intelligence in Manufacturing Market: Size, Industry Outlook By Drivers, Restraints And 2021-2023"
+    excerpt: "Market Analysis: AI in manufacturing market is estimated to be $330.5 million in 2017 and is expected to reach $4,012.5 million by 2023, growing at a CAGR of 51.6% during the forecast period 2017-2023."
+    publishedDateTime: 2021-02-04T13:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-size-industry-outlook-by-drivers-restraints-and-2021-2023-2021-02-04"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 73
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6e8ecc36de110ecd54a5fc%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2501%26cropY1%3D176%26cropY2%3D1583"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "Looking for Self-Driving Cars? The DRIV ETF Has You Covered"
-    excerpt: "I ncreasing demand for electric automobiles is opening up opportunities for ETF investors to focus on the sector with funds like the Global X Autonomous & Electric Vehicles ETF (DRIV). DRIV seeks to invest in companies involved in the development of autonomous vehicle technology,"
-    publishedDateTime: 2021-02-03T21:35:00Z
-    webUrl: "https://www.nasdaq.com/articles/looking-for-self-driving-cars-the-driv-etf-has-you-covered-2021-02-03"
-    ampWebUrl: "https://www.nasdaq.com/articles/looking-for-self-driving-cars-the-driv-etf-has-you-covered-2021-02-03?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/looking-for-self-driving-cars-the-driv-etf-has-you-covered-2021-02-03?amp"
+  - title: "Artificial Intelligence Market: Size, Share, Outlook, and Global Opportunity Analysis, 2021-2026"
+    excerpt: "Wiseguyreports.Com Adds \"Artificial Intelligence -Market Demand, Growth, Opportunities and Analysis Of Top Key Player Forecast To 2023\" To Its Research Database Artificial Intelligence is one of the fastest growing areas of computer science,"
+    publishedDateTime: 2021-02-04T01:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-share-outlook-and-global-opportunity-analysis-2021-2026-2021-02-03"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
-  - title: "2021's rising stars of self-driving vehicles share their best tips for jumpstarting your career"
-    excerpt: "Insider asked bright young stars from Waymo, Aurora, and Nuro for their advice on starting your career in the fast lane."
-    publishedDateTime: 2021-02-05T11:24:00Z
-    webUrl: "https://www.businessinsider.com/career-tips-advice-rising-stars-waymo-aurora-nuro-yandex-2021-2"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
     images:
-      - url: "https://i.insider.com/601ae2a301504a00197fb6e5?width=1200&format=jpeg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 600
+        height: 630
         isCached: true
-  - title: "Self-driving Car Technology Market"
-    excerpt: "The Self driving Car Technology Market is growing at a faster pace with substantial growth rates over the last few years and is estimated that the market will grow significantly in the forecasted period i e 2020 to 2027 The"
-    publishedDateTime: 2021-02-02T12:35:00Z
-    webUrl: "https://www.openpr.com/news/2234913/self-driving-car-technology-market-latest-trends"
-    ampWebUrl: "https://www.openpr.com/amp/2234913/self-driving-car-technology-market-latest-trends"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2234913/self-driving-car-technology-market-latest-trends"
+  - title: "Global Computer Vision Market 2020 Manufacturer Analysis, Technology Advancements, Industry Scope and Forecast to 2025"
+    excerpt: "MarketsandResearch.biz has added a new report Global Computer Vision Market 2020 by Company, Type and Application, Forecast to 2025 that contains aggregate information of the market’s current situation and future prospects."
+    publishedDateTime: 2021-02-03T11:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-computer-vision-market-2020-manufacturer-analysis-technology-advancements-industry-scope-and-forecast-to-2025-2021-02-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Computer Vision Market 2021 Global Trends, Market Share, Industry Size, Growth, Opportunities, and Market Forecast to 2027"
+    excerpt: "New Study Reports \"Computer Vision Market 2021 Global Market Opportunities, Challenges, Strategies and Forecasts 2027\" has been Added on WiseGuyReports. This report provides in depth study of \"Computer Vision Market\" using SWOT analysis i."
+    publishedDateTime: 2021-02-02T20:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2021-global-trends-market-share-industry-size-growth-opportunities-and-market-forecast-to-2027-2021-02-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Smart Retail Market Size & Growth Analysis Report, 2021-2027"
+    excerpt: "The global smart retail market is expected to grow from 21 6 billion in 2020 to 62 5 billion in 2025 It is growing at a 23 CAGR The key factors driving the growth of this market are the increased"
+    publishedDateTime: 2021-02-02T08:25:00Z
+    webUrl: "https://www.openpr.com/news/2234587/smart-retail-market-size-growth-analysis-report-2021-2027"
+    ampWebUrl: "https://www.openpr.com/amp/2234587/smart-retail-market-size-growth-analysis-report-2021-2027"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2234587/smart-retail-market-size-growth-analysis-report-2021-2027"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 24
-  - title: "Goodyear invests in self-driving trucking company TuSimple"
-    excerpt: "TuSimple operates self-driving trucks out of its facilities in Arizona, Texas, China, Japan and Europe using digital maps, terminals and an autonomous fleet operations system."
-    publishedDateTime: 2021-02-04T16:44:00Z
-    webUrl: "https://www.bizjournals.com/cleveland/news/2021/02/04/goodyear-invests-in-self-driving-trucking-company.html"
-    ampWebUrl: "https://www.bizjournals.com/cleveland/news/2021/02/04/goodyear-invests-in-self-driving-trucking-company.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/cleveland/news/2021/02/04/goodyear-invests-in-self-driving-trucking-company.amp.html"
+    quality: 39
+  - title: "Natural Language Processing Market Size, Gross Margin, Trends, Future Demand, Analysis by Top Leading Players and Forecast till 2026"
+    excerpt: "The overall natural language processing market is expected to grow from USD 8.61 Billion in 2018 to USD 80.68 Billion"
+    publishedDateTime: 2021-02-05T10:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-size-gross-margin-trends-future-demand-analysis-by-top-leading-players-and-forecast-till-2026-2021-02-05"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 24
-  - title: "Vt. transportation officials to hold forum on self-driving cars"
-    excerpt: "Vermont transportation officials next week will be giving an update on self-driving cars and their future in the Green Mountain State."
-    publishedDateTime: 2021-02-04T19:32:00Z
-    webUrl: "https://www.wcax.com/2021/02/04/vt-transportation-officials-to-hold-forum-on-self-driving-cars/"
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Natural Language Processing in Healthcare and Life Sciences Market 2021 Growth, COVID Impact, Trends Analysis Report 2027"
+    excerpt: "The global Natural Language Processing NLP in healthcare and life sciences market size to grow from USD 1 5 billion in 2020 to USD 3 7 billion by 2025 at a Compound Annual Growth Rate CAGR of 20 5 during"
+    publishedDateTime: 2021-02-04T12:44:00Z
+    webUrl: "https://www.openpr.com/news/2236397/natural-language-processing-in-healthcare-and-life-sciences"
+    ampWebUrl: "https://www.openpr.com/amp/2236397/natural-language-processing-in-healthcare-and-life-sciences"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2236397/natural-language-processing-in-healthcare-and-life-sciences"
     type: article
     provider:
-      name: WCAX3
-      domain: wcax.com
+      name: openpr.com
+      domain: openpr.com
+    quality: 31
+  - title: "Worldwide Machine Learning Industry to 2030 - Featuring BigML, Featurespace and Google Among Others - ResearchAndMarkets.com"
+    excerpt: "The “Machine Learning Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2020-2030” report has been added to ResearchAndMarkets.com’s offering. A latest study collated and analyzes the historical and present-day scenario of the global machine learning market to accurately gauge its potential future development."
+    publishedDateTime: 2021-02-06T08:04:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-information-technology-97a4402fba5f422483e604c3a2baf2be"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 27
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Artificial Intelligence in Medicine Market to Witness a CAGR of 49.6% During Forecast Period to 2025"
+    excerpt: "Allied Analytics –:Artificial Intelligence in Medicine Market by Product Type, Technology, and Application: Global Opportunity Analysis and Industry Forecast, 2017-2023,” the market was valued at $719 million in 2017 and is estimated to"
+    publishedDateTime: 2021-02-05T04:02:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2021-02-05/artificial-intelligence-in-medicine-market-to-witness-a-cagr-of-496-during-forecast-period-to-2025"
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
     quality: 24
     images:
-      - url: "https://gray-wcax-prod.cdn.arcpublishing.com/resizer/kW1valWAsy9BUn8C6W97vluZHw4=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/SBKRRW7OCNLNVGCZXPAU46VP2Y.jpg"
-        width: 980
-        height: 552
+      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+        width: 1200
+        height: 448
         isCached: true
-  - title: "Ford posts strong results, promises big bet on electric and self-driving cars"
-    excerpt: "By Chris Isidore, CNN Business Ford reported surprisingly good financial results at the end of a tough year, and said it was increasing its commitment to vehicles of the future with a big"
-    publishedDateTime: 2021-02-05T10:08:00Z
-    webUrl: "https://www.kten.com/story/43295286/ford-posts-strong-results-promises-big-bet-on-electric-and-self-driving-cars"
+  - title: "Artificial Industrial in Manufacturing Market Size by Regional Production Volume, Consumption Volume, Revenue and Growth Rate to 2027"
+    excerpt: "Feb 05, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" Global “Artificial Industrial"
+    publishedDateTime: 2021-02-05T10:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-industrial-in-manufacturing-market-size-by-regional-production-volume-consumption-volume-revenue-and-growth-rate-to-2027-2021-02-05"
     type: article
     provider:
-      name: KTEN
-      domain: kten.com
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 21
     images:
-      - url: "https://CNNWIRE.images.worldnow.com/images/20336791_G.jpg?lastEditedDate=1612462806000"
-        width: 500
-        height: 333
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Speech and Voice Recognition Market Revenue, Industry Growing Demand, Size, Share, Business Opportunities, Top Companies, Regional Outlook 2027"
+    excerpt: "Global Speech and Voice Recognition Market is valued approximately at USD 12.3 Billion in 2019 and is anticipated to"
+    publishedDateTime: 2021-02-03T21:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-revenue-industry-growing-demand-size-share-business-opportunities-top-companies-regional-outlook-2027-2021-02-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 18
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Worldwide Machine Learning Industry to 2030 - Featuring BigML, Featurespace and Google Among Others - ResearchAndMarkets.com"
+    excerpt: "The \"Machine Learning Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2020-2030\" report has been added to ResearchAndMarkets.com's offering. A latest study collated and analyzes the historical and present-day scenario of the global machine learning market to accurately gauge its potential future development."
+    publishedDateTime: 2021-02-05T11:43:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210205005219/worldwide-machine-learning-industry-to-2030-featuring-bigml-featurespace-and-google-among-others-researchandmarketscom"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 7
+  - title: "Global Mobile Speech Recognition Software Market Report 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026"
+    excerpt: "The Mobile Speech Recognition Software market is expected to grow from USD X.X million in 2020 to USD X.X million by 2026, at a CAGR of X.X% during the forecast period. The global Mobile Speech Recognition Software market report is a comprehensive research that focuses on the overall consumption structure,"
+    publishedDateTime: 2021-02-05T02:09:00Z
+    webUrl: "https://menafn.com/1101548486/Global-Mobile-Speech-Recognition-Software-Market-Report-2020-by-Key-Players-Types-Applications-Countries-Market-Size-Forecast-to-2026"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 5
+    images:
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
         isCached: true
 
 secured: "vn+KEcTBh+p92Z/mP/WR+OATtWCfa/AtafUkwx9kyxXGA3GLwO8dSGc7Q1nPGWBptugRue3r/V/ytb8gQev81KZRwNs7TvfhBL+j09UkMqayBzfYsbcg6hbNGSGl1MAzIvK2tgCofBICnIidWgtd6HSwsZ9pl6m/fJDo2ZuCC9tGxMzDT6S6xm+QTUeawqoWM4uOohzHmGnWARYAyuxM295yVsQbIpEwhJqGwAZoDMs0ZPQ3kTAcKFWtmpMfPPcfkrCDfyMFpU6nQ75iDzLE+IZlHIUi4pvWDUfqXn3OrIKbqZj5jMpnibaDHH6QN9LaIoBSxq2+/YePBPcGS8WjJZLr9jgx8/rPmORNUNWUS2I=;R+qAC8as/qXqG0IwnRh5qA=="

@@ -1,30 +1,26 @@
 ---
 category: news
 title: "Quantiphi Recognized as a TensorFlow AI Service Partner for Machine Learning Led Enterprise Transformation"
-excerpt: "Quantiphi, an applied AI and data science company, has been selected by TensorFlow as an AI Service Partner to enable businesses across industries"
+excerpt: "Quantiphi has been selected by TensorFlow as an AI Service Partner to enable businesses across industries to benefit from AI-based systems and help them innovate faster,"
 publishedDateTime: 2021-02-04T14:25:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/quantiphi-recognized-as-a-tensorflow-ai-service-partner-for-machine-learning-led-enterprise-transformation/article_4c4c7bb7-085f-5ba9-a361-6bc04201dd08.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/quantiphi-recognized-as-a-tensorflow-ai-service-partner-for-machine-learning-led-enterprise-transformation/article_4c4c7bb7-085f-5ba9-a361-6bc04201dd08.html"
+originalUrl: "https://www.benzinga.com/pressreleases/21/02/p19489798/quantiphi-recognized-as-a-tensorflow-ai-service-partner-for-machine-learning-led-enterprise-transf"
+webUrl: "https://www.benzinga.com/pressreleases/21/02/p19489798/quantiphi-recognized-as-a-tensorflow-ai-service-partner-for-machine-learning-led-enterprise-transf"
+ampWebUrl: "https://amp.benzinga.com/amp/content/19489798"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19489798"
 type: article
 quality: 70
 heat: 90
 published: true
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - TensorFlow
-  - Google AI
-  - AI
   - Machine Learning
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
+  - AI
+  - Google AI
+  - TensorFlow
 
 related:
   - title: "Lilt Included in Gartner's Market Guide for AI-Enabled Translation Services"
@@ -56,6 +52,6 @@ related:
         height: 450
         isCached: true
 
-secured: "AeFB+7OQqGu+QcN8N9OMJY/V+actobPQD6STO3dhj8anQd+ah+XvBwG7hDDosF/WSRDcM0SvIqvAWkSthY7im1TJQHow7hZzCvw4OjUvQO60tYpNBqOp+T05Z+EiFHDLCiN2qi//KOVGH05JVOD9veZz+setnc1LPaFnKykH/LjYvUCEDl2xg29KUcbMRCaHjCj9CQPRG6nYMy8GNdDvrlbFp+jAdIybJRYLUGagwnsTPH+LvqmirbfgX69qimNQnv1l7BlQ57S+fpMo1JzHgWcHo+lTGtuOqCWXDyb2x0AtCzTSDzlmGdB0CKksDHebpVgLSEdi/zqvzoiE4Gwp0/duQE8Ki/d+a2+nKeVn694=;B2AJBJE0Evhqw3CC6KJrsg=="
+secured: "4fQIqqEwbsperuNl/VfxF5g7OAZ8s8sYjGQffDVQ2vblhAZU4yMwdlBwLKw59awod5ogr4NXYmO6oIsjheDyjGi4Rv936RBk6Ci5radriHGRS93mzc1IbVZ3GMC1LMbbulkhFu0bAbMS5zfeLuLZ6qLkr+7tGYIuLLw2RtF4G+yVLBff76Sk+jhmcQWEXKA3lFM6CRop5hk9DedMidTv0oe4pa+kHwJ5ijGL0zNBvJfrXMYmmzRJbFcShlJCV+qgOw0bA2ocK1M80tM78t6MoMM+IueykiB1/MkixkLcn57oQWz0YX+KhOanMP1J48otypRJKiR3KVv2V5odygCBx5JjUgmArDbUJN5R8sACRHM=;bAGngceXFzRJbjEL97pkiQ=="
 ---
 

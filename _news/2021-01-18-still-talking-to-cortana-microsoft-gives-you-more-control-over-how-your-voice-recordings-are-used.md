@@ -1,16 +1,13 @@
 ---
 category: news
 title: "Still talking to Cortana? Microsoft gives you more control over how your voice recordings are used"
-excerpt: "Microsoft still wants to re-use your voice clips, but will now ask for permission first. Users of Microsoft's voice-enabled services such as Cortana will now be able to decide whether or not the audio recordings of their interactions can be used by the company to improve its speech recognition algorithms."
-publishedDateTime: 2021-01-18T07:35:00Z
-originalUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/article/still-talking-to-cortana-microsoft-gives-you-more-control-over-how-your-voice-recordings-are-used/"
-webUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/article/still-talking-to-cortana-microsoft-gives-you-more-control-over-how-your-voice-recordings-are-used/"
-ampWebUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/still-talking-to-cortana-microsoft-gives-you-more-control-over-how-your-voice-recordings-are-used/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/still-talking-to-cortana-microsoft-gives-you-more-control-over-how-your-voice-recordings-are-used/"
+excerpt: "\"This new meaningful consent release is about making sure that we're transparent with users about how we are using this audio data to improve our speech recognition technology,\" said Saran."
+publishedDateTime: 2021-01-18T15:35:00Z
+originalUrl: "https://www.zdnet.com/article/still-talking-to-cortana-microsoft-gives-you-more-control-over-how-your-voice-recordings-are-used/"
+webUrl: "https://www.zdnet.com/article/still-talking-to-cortana-microsoft-gives-you-more-control-over-how-your-voice-recordings-are-used/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/still-talking-to-cortana-microsoft-gives-you-more-control-over-how-your-voice-recordings-are-used/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/still-talking-to-cortana-microsoft-gives-you-more-control-over-how-your-voice-recordings-are-used/"
 type: article
-quality: 77
-heat: 87
-published: true
 
 provider:
   name: ZDNet
@@ -31,22 +28,6 @@ images:
     height: 675
     isCached: true
 
-related:
-  - title: "Microsoft Give Users of Cortana Control Over Voice Recording Access"
-    excerpt: "Microsoft says users of Cortana and other voice-enabled service can now opt in or out of allowing the company to accessing audio recordings."
-    publishedDateTime: 2021-01-19T15:20:00Z
-    webUrl: "https://winbuzzer.com/2021/01/19/microsoft-give-users-of-cortana-control-over-voice-recording-access-xcxwbn/"
-    type: article
-    provider:
-      name: winbuzzer.com
-      domain: winbuzzer.com
-    quality: 41
-    images:
-      - url: "https://winbuzzer.com/wp-content/uploads/2018/09/hi-im-cortana-resized.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-
-secured: "QH9zA3fr9CSLYHX9o/yxITF70CtAG6Lc9mGzBJnB7kMX+dMmfXVj1JmRWCeA0xeHL/BuyIoEMH8Yq6oJcPXtdZChQ5AlAqCy8YdQjGEU2gHa+URjTFC7DVZXdWUUGRx7rS3/9HpwaK6mDaG0B0abneSg19C+jdHHYGl/p/CdYVsxpgfnVx6tOqieKKtUGK3f0UuOlZy39HMI7W6AZIv7KcYR2Gxl4OfK1Z4ZNmDLZYr043dWvIjKkkHKtqm0yQon97LH0lciJi8y2N+rYO76sQIU7YTphLzAfWlRWdH4CmcGkQvsAG/S5NhQi6ZRKJDrkNrMWKyhoLq/d9Uzf6WcWDbJaxvFQqccG2NnqeGQtkmglltXNxUKNqWx2HFbGL9e9rTfGi1868E1SbCJchQYE5w3pDloRziEFHCn9X/h1NmBkwmu14gIDyw71ILgOadX9rXG37HDX8huS8sdrGa70WfXcgaAPzrloYhqhOAe1UckkBDodAF/N2Ec3Va3AsaCZ27QD66BVt/lOyzIokcW6Q==;o4MqzyY/LtrA9PvWUKqcLA=="
+secured: "WXeixjJorYSI2/EebypB8SzFRaJ4wbVIWfYSW9zOsoYOucEQ8/c5SqYiboY7BT/XUWww5ewFRSBg1V7PVIBTcXCwYanU16WFaDl1lrnEAOx17bmBWIywcmFcu0eU4DR+72650jazUbyxBdAZOinAkJZHHM9cjw7Y+J4mMVXa/kwJMmtFYqPjRWnBEKUHuPjWnPgDXiTtGlXSB8JMOCVyfyPoJrPmQS5I6nxJXLFE1D015Z9X/xRQOtUDleYrvEiNiFAqzp5Lyl1T8MeX0+L1J3poMrA8JhaujgJYvnKIKmaVb9RNnord76GDO3kiEmX8qAQ9hzY98UjK3ngfnHP1CSk6huztCo0RFrnOzygUTX4=;VsTX1aPGTXF+MG12MC1xpg=="
 ---
 

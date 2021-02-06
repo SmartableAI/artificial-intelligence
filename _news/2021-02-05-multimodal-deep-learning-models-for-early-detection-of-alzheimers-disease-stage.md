@@ -7,7 +7,7 @@ originalUrl: "https://www.nature.com/articles/s41598-020-74399-w"
 webUrl: "https://www.nature.com/articles/s41598-020-74399-w"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Alzheimer’s Prediction May Be Found in Writing Tests"
-    excerpt: "IBM researchers trained artificial intelligence to pick up hints of changes ... health care and life sciences research at IBM Thomas J. Watson Research Center in Yorktown Heights, N.Y., where ..."
-    publishedDateTime: 2021-02-01T16:27:00Z
-    webUrl: "https://www.nytimes.com/2021/02/01/health/alzheimers-prediction-speech.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/01/health/alzheimers-prediction-speech.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/01/health/alzheimers-prediction-speech.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 74
-    images:
-      - url: "https://static01.nyt.com/images/2021/02/02/science/00SCI-SPEECH1/00SCI-SPEECH1-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
   - title: "Writing tests could help predict Alzheimer's disease"
     excerpt: "The AI programme identified that one group of ... Vice President of health care and life sciences research at IBM Thomas J. Watson Research Center in Yorktown Heights, New York, where the A.I ..."
     publishedDateTime: 2021-02-02T14:23:00Z

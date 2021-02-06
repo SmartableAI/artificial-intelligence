@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
-excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance"
-publishedDateTime: 2021-02-02T22:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
-webUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
+excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
+publishedDateTime: 2021-02-03T08:22:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
+webUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
 type: article
-quality: 26
+quality: 46
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Microsoft launches Custom Neural Voice in limited access"
@@ -420,6 +426,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "s+ols+SSrccqXfZ+o3ZuLN5SrM5+Jr61fQFwdUXGM9I6/BXWuLGGMkSiLLDbyx0ChrWBROg0A8UvACLMV+okfqEINtpZ3Y0gGgfXXDMnCrHL0Ipab5F0wjPOuppU+/oFlTeyfLmVWaO9rECoj5uHYQ2ztVAChK8Z9TJQokY3BiZ7PLbFZ6EWXqZAWgLCxy6z5/dT1QF8UmRw6nbftIKJJ5OvXR3C+g0eZb60TOu0luU15/h+EkNw60bw09N5NMV1tAxxW0rpVPM4eyO2nTIGBGvvYUFYiQCDWG8u+/932I41eHe0HmndA16+xCrZF2EELd6eIfiVRkLgDr/IlrO+55yPtLlmmWWcxgxU+J40pRM=;GPhEuereh3SS2DnPBtQWvw=="
+secured: "O6A7uJdtxslk5GR3AtQkAnTqWv2X/RlI7ZvpM8j3Y8uobqur/A7CDZNOVsCP2CYVO6NfWPZFfAUU/gcoZkRd37oT5mQqPRWxU+Z453OJJ90qCQS5OLDvgiVmK5b0UF7WW01UafYhxi+erL6PHx6BkhqiShfLKqEYklAvtyOkvAkw1iL6opxeUrZH4mZRi1gDkpErIE/6V52Z9gP4WFdR2QRBkcyhM1RBTLLE4BY+oxKRZjq0iSAEXdPFUx3EW2SLP3Uv1JFe+8hWd/L99kC2Az1oJ09N6M0wcAdC0XyPqoESbppDvsT0B+BmhdLxLxAiQ5a29QnAKK7Ko5A1N77V5kmbnvqFiYYVCjfQuQ26Sq8=;V+EHMtztYCEuw2kMdkqpcg=="
 ---
 

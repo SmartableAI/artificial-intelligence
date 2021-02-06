@@ -1,28 +1,32 @@
 ---
 category: news
 title: "Baidu gets California nod for testing empty self-driving cars"
-excerpt: "Currently, 58 companies have permits in California to test self-driving cars with such a backup driver, including most major automakers and Apple Inc."
-publishedDateTime: 2021-01-28T06:18:00Z
-originalUrl: "https://www.thehindu.com/sci-tech/technology/baidu-gets-california-nod-for-testing-empty-self-driving-cars/article33682117.ece"
-webUrl: "https://www.thehindu.com/sci-tech/technology/baidu-gets-california-nod-for-testing-empty-self-driving-cars/article33682117.ece"
-ampWebUrl: "https://www.thehindu.com/sci-tech/technology/baidu-gets-california-nod-for-testing-empty-self-driving-cars/article33682117.ece/amp/"
-cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/baidu-gets-california-nod-for-testing-empty-self-driving-cars/article33682117.ece/amp/"
+excerpt: "Baidu Inc has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor Vehicles said on Wednesday."
+publishedDateTime: 2021-01-28T02:37:00Z
+originalUrl: "https://www.reuters.com/article/us-baidu-autonomous-idUSKBN29W2OT"
+webUrl: "https://www.reuters.com/article/us-baidu-autonomous-idUSKBN29W2OT"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29W2OT"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29W2OT"
 type: article
 
 provider:
-  name: The Hindu
-  domain: thehindu.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.thehindu.com/sci-tech/technology/6dgq1r/article33526855.ece/ALTERNATES/LANDSCAPE_615/baidu-reutersjpg"
-    width: 615
-    height: 384
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210127&t=2&i=1549286737&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0Q1KU"
+    width: 817
+    height: 545
     isCached: true
 
-secured: "JLdqdyviOx4vUBLZY53p0jIjGo6p6Pl4tKMjPWAhtw1OHL4GMlVK48eOtUvVtgWsMZQWeY3E4ElVBIRG9LO8ArrffplEuvOWOddw4EpxpB23amkm8fO5VX+ktXOQ5MRfKvnGT4Vs2x2kXQmLoOPA6IFS4a5njcNk7EHyERgte1nkkUQKKC70xJHpgq/ZOobRAYRjmLtFoxHGQnPGxdIUZUqG0yJCwPYrIMmIL+s5Yk9JVukMTSyqwtzLDhDBau82O3KX8ByRAm52eZXO2AYjvxhDPI+hII6cIj/uuVqO1F2xXXjsDJgjS0O1x8o4e4QNfpIs+djxYZLXM4wEZy5qpW34TZuMFyTTQqBb/eaoWGs=;WI8yaM9IENM+vUBJf9bvcw=="
+secured: "oW/8GQBs+IIaaVkis/q71oaCBNhh+VxRMkWmOKtdsDvDwgRZUHIkmHigGbSiHKMGhLTWtx/9VBH8dTPr+4DuU1OTy+NSWB0sbzWWvHQhz/RLGgdpJV12UyoqORLNsOCQeqqh7I5yUPl2NkqoE8G9Ia4VNRZKUByggnNEaAEX7xTmq0eC82NrnJBflpWRVU1muuNPiuBIwBanWJ+5/u0yyLbM+4xEEo9jxHN1PMWEtEWxNt2cBc0RQsyeuiS4eGh/gFxIn6bU/HTaavEPqa5lvFa0Qp1y080ICCQ97kpFLuV6R/Jan8M6iG5NHmyBYrLIqgXcnd4B/3Jr6+omeXXhvWBDWPsP3dSx1zGGhT0QL3w=;tVRoXtCZ07OE+3mArZPpHg=="
 ---
 

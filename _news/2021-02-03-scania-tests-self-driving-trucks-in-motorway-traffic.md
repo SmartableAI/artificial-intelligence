@@ -9,8 +9,8 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/scania-tests-self-drivi
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/scania-tests-self-driving-trucks-in-motorway-traffic-1030037027"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Business Insider
@@ -25,19 +25,30 @@ topics:
   - AI
 
 related:
-  - title: "Schiphol Tests Self-Driving Baggage Tractor"
-    excerpt: "The trial, which will last until the end of the month, is being carried out in collaboration with KLM Ground Services and Smart Airport Systems."
-    publishedDateTime: 2021-02-01T15:52:00Z
-    webUrl: "https://www.aviationpros.com/gse/gse-technology/press-release/21208232/schiphol-schiphol-tests-selfdriving-baggage-tractor"
+  - title: "Goodyear invests in self-driving trucking company TuSimple"
+    excerpt: "TuSimple operates self-driving trucks out of its facilities in Arizona, Texas, China, Japan and Europe using digital maps, terminals and an autonomous fleet operations system."
+    publishedDateTime: 2021-02-04T16:44:00Z
+    webUrl: "https://www.bizjournals.com/cleveland/news/2021/02/04/goodyear-invests-in-self-driving-trucking-company.html"
+    ampWebUrl: "https://www.bizjournals.com/cleveland/news/2021/02/04/goodyear-invests-in-self-driving-trucking-company.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/cleveland/news/2021/02/04/goodyear-invests-in-self-driving-trucking-company.amp.html"
     type: article
     provider:
-      name: AviationPros
-      domain: aviationpros.com
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 24
+  - title: "Vt. transportation officials to hold forum on self-driving cars"
+    excerpt: "Vermont transportation officials next week will be giving an update on self-driving cars and their future in the Green Mountain State."
+    publishedDateTime: 2021-02-04T19:32:00Z
+    webUrl: "https://www.wcax.com/2021/02/04/vt-transportation-officials-to-hold-forum-on-self-driving-cars/"
+    type: article
+    provider:
+      name: WCAX3
+      domain: wcax.com
     quality: 24
     images:
-      - url: "https://img.aviationpros.com/files/base/cygnus/cavc/image/2021/02/zt_5.601822e68e878.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 900
+      - url: "https://gray-wcax-prod.cdn.arcpublishing.com/resizer/kW1valWAsy9BUn8C6W97vluZHw4=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/SBKRRW7OCNLNVGCZXPAU46VP2Y.jpg"
+        width: 980
+        height: 552
         isCached: true
 
 secured: "9MjLQcDvWPOdEykttJq3HoqHLvgqljY4rkz62hGGdnRFiVvw8fuxHigRaEtv7x6ZP4/4ged+2amH8eVF9zalp6zkWsBPa4h+BljNC6Rw+TOTx+RKQgUm4SgtRni3NopI8vtCFzzIKKqoDfa0A9askqk0/R2WBNGc93BObVYuPNzizVeGgW8kqcIjUb6GnLd7dQyh/c0Y4QRndUPaJUR83zTZ1c4q0RHLcVLSKROvg55Cr1PR/rUYiqGMvzeCVN2zsqpXvedJXb3KHUNLm8s2apXBUTojbUL53I/1CCnTj7iMWqqen9pRJA8zawcAzs3qrBmobxqmqeq1f3TsCW8wFw3FTWKbZX3RsfSnR7ckIRk=;UWD+mE/XHPShflsFv7a8nw=="

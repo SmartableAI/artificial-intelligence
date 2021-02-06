@@ -25,21 +25,44 @@ images:
     isCached: true
 
 related:
-  - title: "First self-driving robotaxis hit the road in China"
-    excerpt: "Fully driverless robotaxis are now open for public rides in the streets of Shenzen -- a maiden move in China by AutoX."
-    publishedDateTime: 2021-02-02T00:51:00Z
-    webUrl: "https://techwireasia.com/2021/02/first-self-driving-robotaxis-hit-the-road-in-china/"
-    ampWebUrl: "https://techwireasia.com/amp/2021/02/first-self-driving-robotaxis-hit-the-road-in-china/"
-    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/02/first-self-driving-robotaxis-hit-the-road-in-china/"
+  - title: "Looking for Self-Driving Cars? The DRIV ETF Has You Covered"
+    excerpt: "I ncreasing demand for electric automobiles is opening up opportunities for ETF investors to focus on the sector with funds like the Global X Autonomous & Electric Vehicles ETF (DRIV). DRIV seeks to invest in companies involved in the development of autonomous vehicle technology,"
+    publishedDateTime: 2021-02-03T21:35:00Z
+    webUrl: "https://www.nasdaq.com/articles/looking-for-self-driving-cars-the-driv-etf-has-you-covered-2021-02-03"
+    ampWebUrl: "https://www.nasdaq.com/articles/looking-for-self-driving-cars-the-driv-etf-has-you-covered-2021-02-03?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/looking-for-self-driving-cars-the-driv-etf-has-you-covered-2021-02-03?amp"
     type: article
     provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 44
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
+  - title: "2021's rising stars of self-driving vehicles share their best tips for jumpstarting your career"
+    excerpt: "Insider asked bright young stars from Waymo, Aurora, and Nuro for their advice on starting your career in the fast lane."
+    publishedDateTime: 2021-02-05T11:24:00Z
+    webUrl: "https://www.businessinsider.com/career-tips-advice-rising-stars-waymo-aurora-nuro-yandex-2021-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
     images:
-      - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/02/AutoXDriverlessPassenger2-450x300.jpg"
-        width: 450
-        height: 300
+      - url: "https://i.insider.com/601ae2a301504a00197fb6e5?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Insurance exec reveals his plan for handling the self-driving cars that could kill his $1.3 trillion industry"
+    excerpt: "As vehicles change and develop, the tools for insuring them do, too. Insurance companies are adapting their coverage models for an autonomous future."
+    publishedDateTime: 2021-02-04T15:20:00Z
+    webUrl: "https://www.businessinsider.com/how-insurance-companies-are-preparing-for-self-driving-cars-2021-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 35
+    images:
+      - url: "https://i.insider.com/601c0bfbee136f00183aa420?width=700"
+        width: 700
+        height: 525
         isCached: true
 
 secured: "gqUJfrl7PwmXifhyGxn0nQMeE7tacjVcgRtodzoEegYKv3ZKTsfLgeIXsUf50q2dY/BvGDstcQdtqOdRplYxRzJGgQclDF7sm6DrqhMcG42p6/0gXe1cKfcVwPLprjDAq/9kxZ/OKfg+1suUrQXzp8HyJdeA1xnr3WmsJ5s7uO1pZ7pUwniVKjo3hCexZrnJaYTpeCvYLMMbV0Py6MFndUohcSdCXBke4RRU1dSxerhsiPwMZqBhtEFPJ1FlE4HAKOdS/l8BdFXg263eErNHE5qGA3DwUDXwD7TZ/n+qu7jdIoaTZYzcel7OZARNMWHxbqUyjiAyzWISqFjAEbwfC5XnxC5kChSFIfH2+AwWciYxsIYzCQ3VcSft62AFkyx/11TLSa505cOD80uErXY1lvpUHwO/c4x7J0WQzm1cC2DyvzTzD5IHv9d7UKVfu22WgNrflXIqEM759GJdIKNQPm2umhkGrQ4TAEKyB633ew0DJ4sScB4tm75Q57MjfmA/pUXKmwisX0ECR/BtbNa/XA==;lzegfjzLzgjckbVvGsQ2Fw=="

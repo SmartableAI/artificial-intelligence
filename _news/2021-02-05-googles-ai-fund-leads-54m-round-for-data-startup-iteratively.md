@@ -24,68 +24,36 @@ images:
     isCached: true
 
 related:
-  - title: "Google’s AI-focused venture fund leads $5.4M investment for Seattle analytics startup Iteratively"
-    excerpt: "Seattle startup Iteratively raised a $5.4 million round led by Gradient Ventures, Google's AI-focused venture fund. Founded in 2019 by veterans of Atlassian and"
-    publishedDateTime: 2021-02-04T23:52:00Z
-    webUrl: "https://www.geekwire.com/2021/googles-ai-focused-venture-fund-leads-5-4m-investment-seattle-analytics-startup-iteratively/"
-    ampWebUrl: "https://www.geekwire.com/2021/googles-ai-focused-venture-fund-leads-5-4m-investment-seattle-analytics-startup-iteratively/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/googles-ai-focused-venture-fund-leads-5-4m-investment-seattle-analytics-startup-iteratively/amp/"
+  - title: "Hourly job-matching startup Landed raises $1.4M"
+    excerpt: "Landed, a startup aiming to improve the hiring process for hourly employers and job applicants, is officially launching its mobile app today. It’s also announcing that it has raised $1.4 million in seed funding."
+    publishedDateTime: 2021-02-02T19:53:00Z
+    webUrl: "https://techcrunch.com/2021/02/02/landed-seed-funding/"
+    ampWebUrl: "https://techcrunch.com/2021/02/02/landed-seed-funding/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/02/landed-seed-funding/amp/"
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 54
-  - title: "Viking Analytics and pour-tech AB sign contract to provide AI operators to iron foundries"
-    excerpt: "Viking Analytics, a Swedish startup in advanced analytics solution for predictive operations, and pour-tech AB, specialized in"
-    publishedDateTime: 2021-02-03T10:20:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/viking-analytics-and-pour-tech-ab-sign-contract-to-provide-ai-operators-to-iron-foundries-301221068.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 28
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+      - url: "https://techcrunch.com/wp-content/uploads/2021/02/LANDED_IMAGE_TC.jpg?w=1024"
+        width: 1024
+        height: 618
         isCached: true
-  - title: "Viking Analytics and Pour-tech AB Sign Contract to Provide AI Operators to Iron Foundries"
-    excerpt: "Automation is well established in foundries, but companies also must take on digital transformation. The Viking Analytics / pour-tech AB partnership shows the potential Artificial Intelligence use in the metal industry."
-    publishedDateTime: 2021-02-04T20:39:00Z
-    webUrl: "https://www.automation.com/en-us/articles/february-2021/viking-analytics-pour-tech-ab-contract-ai-iron"
+  - title: "Machine learning experiment tracking startup Weights and Biases raises $45M"
+    excerpt: "Machine learning startup Weights and Biases Inc. said today it has raised $45 million in a new round of funding that brings its total amount raised to $65 million. The Series B round was led by Insight Partners with participation from Coatue,"
+    publishedDateTime: 2021-02-02T03:44:00Z
+    webUrl: "https://siliconangle.com/2021/02/01/machine-learning-experiment-tracking-startup-weights-biases-raises-45m/"
     type: article
     provider:
-      name: Automation
-      domain: automation.com
-    quality: 28
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 52
     images:
-      - url: "https://www.automation.com/getmedia/c471b09e-28ab-4216-bcd8-972b5c9f81a8/Viking-news-Feb-4-2021-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/5f3ea98410a400266d2579b5_image-15.jpg"
+        width: 761
+        height: 544
         isCached: true
-  - title: "Strategy Analytics Reveals Research to Maximize Success for AI-Enhanced Product Development"
-    excerpt: "Strategy Analytics today released complimentary research which explores the link between the level of understanding of the buyer journey and the success of AI projects. The report “ Defining the AI Buyer Journey ” clearly shows that both AI vendors and users can succeed through a thorough understanding of customer journeys."
-    publishedDateTime: 2021-02-04T14:32:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-new-products-and-services-68226491913d4cd2a19db72f2d5970c4"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 27
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Atlanta partners with Austin startup Olea Edge Analytics for AI-driven analysis of water meters"
-    excerpt: "Olea Edge Analytics uses machine learning and artificial intelligence to identify any problems or inefficiencies in city-owned water meters in order to recover lost revenue and help city workers target maintenance resources."
-    publishedDateTime: 2021-02-05T19:52:00Z
-    webUrl: "https://www.bizjournals.com/atlanta/inno/stories/news/2021/02/05/atlanta-partners-with-olea-edge-analytics.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 5
 
 secured: "CJZPDiOcsGrBioeXe45t6Raep2bVo+8ubV7NKtYIG7rL8b6xQCpnCyBQFX7b42qUWzzlLPR9xpwN5XMz6MWE+5IDgtN547oW8WtZGf8DHN6j2pnricMy9RwcM4hgMWLb0venw/H4ePY9uPtAv4WN85eGNo2C4dsdCwUQllOaBkTu6Db9TGeRa4+eW6nTkWDweU2ITrWKIMgXkuSsz65FmlN0u9SKUvudC5tYfdIgxtmhqi45thT4joVBoPkxGunmzAvOlCCgU5dYDcpVRK748Lf+4/TdXBA6mq8TEnRpX8Rl19DAAsBS903CG9t3zNZrGcKAb4xbvwJRPRZ0aUGbX525hW3a4I7dnipVi22KrBBODhi26C7ZDx5wpz9U2c1h3B94ThJjJr3pbPTFGLm6mAiL/EOo/doUeD9o3YXdDCPDlOBxBikcYIulmScFwrS5ZL8m7UM3kk/JOyvNMPPINo/Xe7xLlazAqhHyY1c1dYpKyqWY2NU0/zUkVJBd5K68FCq0iRBUDIeVEuPZhEV07g==;RQHmEvhUyK+dmEXm1caXMA=="
 ---

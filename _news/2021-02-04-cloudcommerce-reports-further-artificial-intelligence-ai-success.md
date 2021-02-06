@@ -3,8 +3,8 @@ category: news
 title: "CloudCommerce Reports Further Artificial Intelligence (AI) Success"
 excerpt: "Also, this experience demonstrates, once again, the benefit of using artificial intelligence to improve advertising performance.” The Company is developing SWARM into a cloud hosted software platform that will harness the power of artificial intelligence,"
 publishedDateTime: 2021-02-04T08:11:00Z
-originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-marketing-and-advertising-corporate-news-products-and-services-5118bd98078f123d8daaa004196625a1"
-webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-marketing-and-advertising-corporate-news-products-and-services-5118bd98078f123d8daaa004196625a1"
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-marketing-and-advertising-corporate-news-products-and-services-5118bd98078f123d8daaa004196625a1"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-marketing-and-advertising-corporate-news-products-and-services-5118bd98078f123d8daaa004196625a1"
 type: article
 quality: 52
 heat: -1
@@ -48,6 +48,6 @@ related:
       domain: globalspec.com
     quality: 17
 
-secured: "DU6eHl5b2BR91D9On2bFLzAGZ17sHbsAob86isg8RmzDYejNr4+lH9LivdjOogN0mb0YJ0h5RDtgduGrNncai9tmN7kl2dwlHf42D/QMeEh51zSAp+K01pH+K17qnFgCCyBUnORqa5h6WK50EF8mMRtLZcVpOuktUXjgscW8QSo++UtNS+jBcMj/OfE0FYHP/21uEqfRFVYGTxOGK3YI7YOfttyQjKtwNETGNt1KolGBOe4V5NBvi6JPTFqmUXHpluBswp0VMrZsocL4SgS72MgzJahOWm4IS84aa+0l9sHsmOZ+4FwbPEm/MIJwL+x4oy1U+g3GdL79M8Lgill9sP69wETalBNK3rWEt55D/2M=;NYFMIabkgRZy6qID2NMrrg=="
+secured: "kG9/OXQvbjEhyFoMyDfxalHmTpXuevpvx1BOXy3M9y73/HQiOy5L1Nnenpm/F7yLMDNeiTnBeqfohlukLDxDkOMKYDIXpTgN4tKLzrYun5sRZcqhJelUOxk3vkg48Alj9Ua8jpUN8FX+U/xpgT+CB+NLrvF/wwUz3M3S8LW15Dl5istr2hkjCPP5pmSK25ShUgh92rfvLfKRTrqWthhS/LWU7xzycHGzTibyzz8olP9+lYvupE8Hv1gvWzGvFh0WBkd9LnxS8KGWpl78f5WYJgsPLFBzpHaEiPYjPFMDje3/sat7yVcwMkwPU8y/Jmy0ok+qF97wN3mhXkEnw2AErXVgobA2pi4caJNO5Xs3sAs=;CnxVA7B2AcaMhtfZu+qgwg=="
 ---
 

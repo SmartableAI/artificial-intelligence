@@ -2,11 +2,11 @@
 category: news
 title: "Who is Andy Jassy, the longtime Amazon executive set to become its new CEO?"
 excerpt: "The Amazon vet runs its most profitable division. Here's what his appointment tells us about the company's future."
-publishedDateTime: 2021-02-04T12:20:00Z
-originalUrl: "https://www.cbsnews.com/news/andy-jassy-amazon-ceo-executive/"
-webUrl: "https://www.cbsnews.com/news/andy-jassy-amazon-ceo-executive/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/andy-jassy-amazon-ceo-executive/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/andy-jassy-amazon-ceo-executive/"
+publishedDateTime: 2021-02-03T22:22:00Z
+originalUrl: "https://www.cbsnews.com/news/who-is-andy-jassy-amazon-ceo/"
+webUrl: "https://www.cbsnews.com/news/who-is-andy-jassy-amazon-ceo/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/who-is-andy-jassy-amazon-ceo/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/who-is-andy-jassy-amazon-ceo/"
 type: article
 quality: 42
 heat: -1
@@ -242,6 +242,6 @@ related:
         height: 324
         isCached: true
 
-secured: "GHGL7xM0af4VBUiTXB/xJ71SDgXGbvxznCTQVwUNipmszf2JiLij6W3xMfWZw7hphcRSXgqni3lRTV4tOdVGyaZbQnEPt4ERwyiDq5Q+mc+K+LDEhjH07iGkdpDmp/SvozT0CK6YmMSz97CWzKORiQVq7D1yjs0abRD+qsPLm/eSrF4Xoiuxkfo488NpoUoHw4SM//iP9t4lanQkVX5K6BUj6lsKEmpXUM94ujyLofrDiyOGtwpKgEh84gWPN0XngRbizYenxeHEj/f+7QOsSuiJCR805NsMjX5Gv2Ljj44aa24caOZOior/X19ugTSblo//vJi6AoXkm/9Y3TKjB9XKR42eF3yPvUXpuWkLFgcEhacQBQ7eIXT9+dVcDkoKk6/55umzkTe5Yv1UoCLbTKY3pHRgLu+vtTwKqFp3z6MzeNnkRevMiqMKjTs9MAtyfu9Gsem9P2UP0/HS/Nj3vGFO7iA2aZO3Tr0ueTNV4kqv92Sl5LgU5rtIu8Pt3nWtyNZei6i97b7Jq+IE7izn/A==;/z0GsSjKfWQR3MFUPkn/yg=="
+secured: "z9LnGfHgsXX+4azgMtmD8qn3OceYokfIspGpVwVt8Z3rIZqXBrQr5gt/Bw6EGDX//JP6MpYtBhN7mbFptx2B/21+L9ZUH1hrUQK0ZgzQXuVt3zaIRhoaaUcuoqNUBg7t03OujBCsmd5Il7r0y49YEB1VeQjr5EEnSBM1rZmnwMHmxFalrbZGiEeiNvtnNZuXfDOBgd+PokpQBML9lclb3+cdXNIH3uLrN4FNsMY+r5fpjEOpC7s2bDOYPrixmA8O08XDZho4tmnyb+4jN3GpR5jTLmZ+LMCghrIL34Mo2kjcH38Ln+YVwV9mpCPgelL/Tnl4YQYapdWvF0W+TEIKDIx1T0VtKAX1bl9Sb4fkY6g=;4LxhvzgnV4IytjkjmnHnnA=="
 ---
 

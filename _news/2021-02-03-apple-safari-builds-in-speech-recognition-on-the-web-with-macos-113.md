@@ -66,19 +66,33 @@ related:
         width: 608
         height: 405
         isCached: true
-  - title: "Rev Announces New Languages in Automated Speech Recognition"
-    excerpt: "The world’s most accurate speech-to-text engine, Rev, today announced the expansion of its highly accurate speech recognition service with the addition of four new languages: French, German, Portuguese,"
-    publishedDateTime: 2021-02-05T14:32:00Z
-    webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-new-products-and-services-e1adf12858cc06cd9c25c98d72ad96e9"
+  - title: "New A.I. face recognition tool"
+    excerpt: "When you post photos of yourself or friends and family online, you may not imagine they could be used to develop facial-recognition systems that can identify individuals offline. A new"
+    publishedDateTime: 2021-02-05T04:45:00Z
+    webUrl: "https://www.fox10tv.com/news/daily_dot_com/new-a-i-face-recognition-tool/article_5dceafd6-6753-11eb-9920-135d6b072d2c.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: FOX10 News
+      domain: fox10tv.com
     quality: 39
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://bloximages.newyork1.vip.townnews.com/fox10tv.com/content/tncms/assets/v3/editorial/3/d0/3d0c8992-3f6a-5603-9191-e9a72f968aa5/601cc71f95c27.image.jpg?resize=1120%2C630"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "Rev Announces New Languages in Automated Speech Recognition"
+    excerpt: "The world's most accurate speech-to-text engine, Rev, today announced the expansion of its highly accurate speech recognition service with the addition of four"
+    publishedDateTime: 2021-02-05T14:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/rev-announces-new-languages-in-automated-speech-recognition/article_9d9e2693-3850-514a-9dc4-c2b3d69251bf.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/7/12/712f0cfb-9316-516f-8c16-14cee40223d6/601e58914ebd0.image.jpg?resize=1120%2C630"
+        width: 1120
+        height: 630
         isCached: true
   - title: "Nuance Dragon Medical One Earns #1 Best in KLAS Award for Speech Recognition: Front-End EMR"
     excerpt: "Nuance Communications, Inc. (NASDAQ: NUAN) today announced that Nuance Dragon® Medical One cloud-based speech recognition platform captured top honors as the 2021 Best in KLAS: Software & Services award winner,"

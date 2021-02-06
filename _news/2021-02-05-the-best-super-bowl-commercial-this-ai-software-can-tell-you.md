@@ -31,7 +31,7 @@ related:
   - title: "CloudCommerce Reports Further Artificial Intelligence (AI) Success"
     excerpt: "Also, this experience demonstrates, once again, the benefit of using artificial intelligence to improve advertising performance.” The Company is developing SWARM into a cloud hosted software platform that will harness the power of artificial intelligence,"
     publishedDateTime: 2021-02-04T08:11:00Z
-    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-marketing-and-advertising-corporate-news-products-and-services-5118bd98078f123d8daaa004196625a1"
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-marketing-and-advertising-corporate-news-products-and-services-5118bd98078f123d8daaa004196625a1"
     type: article
     provider:
       name: Associated Press

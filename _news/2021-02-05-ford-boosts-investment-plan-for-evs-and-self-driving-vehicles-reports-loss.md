@@ -9,7 +9,7 @@ ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-02-04/ford-boosts
 cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-02-04/ford-boosts-investment-plan-for-evs-and-self-driving-vehicles-reports-loss?context=amp"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://o.aolcdn.com/images/dims3/GLOB/crop/4032x2268+0+403/resize/800x450!/format/jpg/quality/85/https://s.yimg.com/os/creatr-uploaded-images/2021-02/a2049ab0-67be-11eb-9f7f-36d2fa48d0e8"
         width: 800
         height: 450
+        isCached: true
+  - title: "Ford posts strong results, promises big bet on electric and self-driving cars"
+    excerpt: "By Chris Isidore, CNN Business Ford reported surprisingly good financial results at the end of a tough year, and said it was increasing its commitment to vehicles of the future with a big"
+    publishedDateTime: 2021-02-05T10:08:00Z
+    webUrl: "https://www.kten.com/story/43295286/ford-posts-strong-results-promises-big-bet-on-electric-and-self-driving-cars"
+    type: article
+    provider:
+      name: KTEN
+      domain: kten.com
+    quality: 21
+    images:
+      - url: "https://CNNWIRE.images.worldnow.com/images/20336791_G.jpg?lastEditedDate=1612462806000"
+        width: 500
+        height: 333
         isCached: true
 
 secured: "KNVMsv+kOc2GYdTXUfZI9PSQBTNmY5CIPeFTqudNfeDDY+djIPnStPwdtCO2KU06XI/cPhlbekSW9j646PkIgrRLJXDys1lgVEQn/by99ti6M3qqN6N1ocbFMd5ONThu0b+tvNo2yIAyjx5s6Zi4pPzWqxvhZ7xtNqgf6pHi/v41AU7oWsqisMmHXacCnrSYPkoK4AMG+bbtAfv78G9LlX0v6HrgL2JlJ0ooiUkSYd9fv0/IunOnx8SU4G+CCo0IZ2AkWtNV51FXxQVwpuTSltQqZyHRZ+u3Szn+vUem53D6ROHMPaM4cCogEYxmwl3nzHa442fOLZrpzxJSVb0KiQF1+9UMvqs1NGitLszk6bCo/t+D3Fy8iq6fvmsfe1nr5S2WArybCKzWRqMHKCl9XQfIFrCjueKntkOAlPwAzrdUsXALikagvN1mY1CubpEieTLS2vPdhwUrnYk3m098Qq7AV4Hc1/fCkwuaTBRAWGWELVGodPOdg0doaHD/YFXy2gCt2l13xooVDdajGm4ibQ==;XffCte/4h6FDMWurYsT4nA=="

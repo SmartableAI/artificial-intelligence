@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Weights & Biases raises $45M for its machine learning tools"
-    excerpt: "Weights & Biases, a startup building tools for machine learning practitioners, is announcing that it’s raised $45 million in Series B funding. The company was founded by Lukas Biewald, Chris Van Pelt and Shawn Lewis — Biewald and Van Pelt previously founded CrowdFlower/Figure Eight"
-    publishedDateTime: 2021-02-01T16:35:00Z
-    webUrl: "https://techcrunch.com/2021/02/01/weights-and-biases-series-b/"
-    ampWebUrl: "https://techcrunch.com/2021/02/01/weights-and-biases-series-b/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/01/weights-and-biases-series-b/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 104
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/02/image-5.jpg?w=680"
-        width: 680
-        height: 412
-        isCached: true
   - title: "Hourly job-matching startup Landed raises $1.4M"
     excerpt: "Landed, a startup aiming to improve the hiring process for hourly employers and job applicants, is officially launching its mobile app today. It’s also announcing that it has raised $1.4 million in seed funding."
     publishedDateTime: 2021-02-02T19:53:00Z
@@ -57,19 +41,19 @@ related:
         width: 1024
         height: 618
         isCached: true
-  - title: "Weights and Biases Raises $45M Series B to Expand Beyond Experiment Tracking for Machine Learning Practitioners Everywhere"
-    excerpt: "Weights and Biases, the Experiment Tracking platform that is transforming how teams build and collaborate on Machine Learning (ML) models and operations (MLOps), announced today that it has raised a $45 million Series B investment round led by Insight Partners,"
-    publishedDateTime: 2021-02-02T08:30:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-investment-management-financial-services-venture-capital-98a44334895d88e6adbd6305da1774ef"
+  - title: "Google’s AI fund leads $5.4M round for data startup Iteratively"
+    excerpt: "Iteratively Inc. today announced that it has closed a $5.4 million financing round led by Google LLC’s Gradient Ventures fund, which focuses on backing promising artificial intelligence startups. Fika Ventures and PSL Ventures participated in the round as well."
+    publishedDateTime: 2021-02-04T21:44:00Z
+    webUrl: "https://siliconangle.com/2021/02/04/googles-ai-fund-leads-5-4m-round-data-startup-iteratively/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 30
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/data.png"
+        width: 820
+        height: 500
         isCached: true
 
 secured: "iRndOGv6FEkJxoUFvPuqWF+jRmFf/Oq3O1iIPVhuUpZSfE8yaYuBs0vqfgwVe5cjB2PDqsyNcHT16ogIW+ixE12rlliJvWW53bweQJg8P4tUjJiJ5SYNpSjH7jZPw7n7NG/n2bYKoK7cEtnWFyCCAPOeZLT+GXFTgXgH9xEFki2rtJDL4WIdRMM7Y3LfKhoEkpBOVULkR5/3VmRFMgbX+a2ffK+1FGj+HfsS5oqJVOrBT/8N6yvbksMI1BR3sRdlEwViFzgIuSgPsjt/NDPj38tVH0ckyNBzIKi+T3wEAia7TrW7lLrgUHBB3q4kfPuw8kgZSLl+Laj/ovahlOR5tCZN32Rh8pTbOQeAkHXatAonC6GfVP/vIDQtB1NngrGopa9K2vUoIz75gBVLLMuHntJeiQuUI7dTT3oeGpq64bhXVZQBvNQajssst9LDOtK5ylX06WfsXbrrCdHuDRKxJ4WR5VLAdeCCM9wrOjob2Hp1K5bkZDLFmYLgLxPJPUlSJ+Y/ZLw6enJxEk62bEsHyg==;kDJ8ScH1JaDLgnUiPJ+shA=="
