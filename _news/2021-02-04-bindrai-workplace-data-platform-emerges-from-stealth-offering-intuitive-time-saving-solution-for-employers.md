@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "NWO.ai Emerges From Stealth With $3.5 Million To Scale Its Global Trendcasting Platform"
-    excerpt: "NWO.ai, the predictive AI platform that helps leading enterprises identify microtrends before they become exponential, announces a $3.5 million seed round. The round was co-led by Hyperplane, Wavemaker,"
-    publishedDateTime: 2021-02-01T12:31:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/b30307506490974d0d55bdd793196cdd"
+  - title: "Customer data platform startup Leadspace reels in $46M"
+    excerpt: "Leadspace Inc., a startup competing in the increasingly crowded customer data platform market, today said that it has closed a $46 million funding round led by JVP. Alongside its funding news, Leadspace announced today that it has appointed analytics industry veteran Alex Yoder as chief executive officer to lead growth efforts growing forward."
+    publishedDateTime: 2021-02-03T18:17:00Z
+    webUrl: "https://siliconangle.com/2021/02/03/customer-data-platform-startup-leadspace-reels-46m/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 29
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 22
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/leadspace.png"
+        width: 718
+        height: 400
         isCached: true
 
 secured: "Je/56bBpQVI4QHLn//rmm+A9qHpG9npLbVd5RfcSaZmbVcURAflVwPjOPeGTiuho5XbHYXp84mT5SqI5ruRitXf1uIA7ZMDGhygAmERx4pWXz8DFgk9vpI/aQ7xPBTKsrEGEil08+SsfNWtDiCB80rcCf4Pq5snOpdwI1Ee8XO4+ZXIHzC3tAF2px3TEopJtvcrA9iW8xr+1AwirmY1zuGDsBDpXarVnlvjemCh1zp4MhljN/SH265NwEZhzbMwhkYl5PxaflrtiX9AzUlp7eHO5haSjpytcUZANmwZVMvFpGrZK5ISmHS7f24ZTyXkOZDEELrKKuKTDwb5EhLqWhJQOfWNznWpEokqHDuLzqSQ=;cWpYaHaU9CHVe4zgmgAHTA=="

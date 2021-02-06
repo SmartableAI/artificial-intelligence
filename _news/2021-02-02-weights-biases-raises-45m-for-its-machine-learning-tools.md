@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/02/01/weights-and-biases-series-b/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/01/weights-and-biases-series-b/amp/"
 type: article
 quality: 104
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -90,20 +90,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "Weights and Biases Raises $45M Series B to Expand Beyond Experiment Tracking for Machine Learning Practitioners Everywhere"
-    excerpt: "Weights and Biases, the Experiment Tracking platform that is transforming how teams build and collaborate on Machine Learning (ML) models"
-    publishedDateTime: 2021-02-01T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/weights-and-biases-raises-45m-series-b-to-expand-beyond-experiment-tracking-for-machine-learning-practitioners-everywhere-301218743.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 28
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
         isCached: true
 
 secured: "rYzl5m52Zn9BfZDxwcyKHXT0UJ0qd8ZFvBZri23TEyapEbPY7Mun7JFhGk8wnfbzl5+v8oNclbH9973nKuhXGaEesu/4jxSGMEuvxRg4f4oBi9lallaxwxzFAX5KiOJdG67QKD5VaeIYB5lttg+IfsJg7mc4TyXpzl76XojXtHejgNDuN+yYp8vOFEGle3dSpkSBOdoD1J2vnjpGc7nY3VImV9NldX1blkXal4nGh9pWWPeUGNPnF60UZSp26IbOgAebhb8hkz5313dQXQ1veK/SpSkk+466xFiTnc6YfqMqd+ok+/Y5VlC6NAjxUbUW1Vz8goflCG3NaGYOJqmm3IsSctDbl0K+jOJobgADz5cUO3Qr3Dvbk79L6Fd9AfFWI2QOFpQz9MjBUbfULKeOMSnHAhcxBSMrBWaRXi9AliqrFSYDd2p+1QSG5FlmOS5WZcIm0wd29Z/0vWEnvXiHOBM8SCTeWZFthrBT+gdrja0HNeA0nxRwNe2TI+s9MGgMu+RqCjep8SIhqTgOlaJkgA==;aMW4rxJpiUaF8haQ1pWFLg=="

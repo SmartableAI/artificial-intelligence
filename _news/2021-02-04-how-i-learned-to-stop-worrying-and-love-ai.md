@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Machines Are Learning From Each Other, But It's A Good Thing"
+    excerpt: "The ability to transfer learning from one machine to another within the same domain is how machine learning becomes accessible and affordable for most businesses."
+    publishedDateTime: 2021-02-03T13:20:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/03/machines-are-learning-from-each-other-but-its-a-good-thing/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/03/machines-are-learning-from-each-other-but-its-a-good-thing/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/03/machines-are-learning-from-each-other-but-its-a-good-thing/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60198d97a09e56a8d5a45d7a%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "g19efZUX8JIkGvZ2Ahk9NKaJ64v0SUP7o6NCJPLsHUW8f/sm5ecqX/VuwDqnzSoSlYHInkZZeB4e3M9tOWeuWD8Hr8uz3ZZq1GAWxZ888pDT1N9hEPK6HMBb1JQ6Rnv0l2PcZ4NhR6M5sC30MPSb6henSufxs/1B0WyErB1oE5sPccwRcSwCrGsU0NPM6Ax3MMkwtFNx/7i+HI0H2lcI3olneVA03t+0hLkmwQAy9xbOxhriWRyGLQ3ZAMy5Mu3A2jZAI0tUSVgciW+B07DBIXshI4XIs9krIfWasneluifM7rweQkzQ+JjDCfruqAxNuKA1aZ+4IG/d17oQvk2WaE3bQsrIpgXPwLoMfVup51PDi4+rjRgB1vK7igCkPcde19R89jjZdl1FDzOemkPp9l74lEdcZ2Dl4Ggm/Yv3+jUVZ/+InMnj3ecDPc2tr7lidg4u32bFFVEI57oF0boZqFJLJ3uPHAWllYkAstULz8kZpo+viU4dP4Xu3uQuIuhMUiPdTwovFXrvrIFk4TLPvQ==;6zgUioLa6OXnop4WdqAL4g=="
 ---

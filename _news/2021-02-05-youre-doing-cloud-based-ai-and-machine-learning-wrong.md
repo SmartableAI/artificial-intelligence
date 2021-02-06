@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3606135/youre-doing-cloud-based-ai
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3606135/youre-doing-cloud-based-ai-and-machine-learning-wrong.amp.html"
 type: article
 quality: 104
-heat: 115
+heat: 125
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 87
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601b0551eddc6b688511ddfe%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Machines Are Learning From Each Other, But It's A Good Thing"
+    excerpt: "The ability to transfer learning from one machine to another within the same domain is how machine learning becomes accessible and affordable for most businesses."
+    publishedDateTime: 2021-02-03T13:20:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/03/machines-are-learning-from-each-other-but-its-a-good-thing/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/03/machines-are-learning-from-each-other-but-its-a-good-thing/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/03/machines-are-learning-from-each-other-but-its-a-good-thing/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60198d97a09e56a8d5a45d7a%2F0x0.jpg"
         width: 1200
         height: 800
         isCached: true

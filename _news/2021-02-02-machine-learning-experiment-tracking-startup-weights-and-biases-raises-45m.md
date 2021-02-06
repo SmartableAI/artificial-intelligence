@@ -87,20 +87,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Weights and Biases Raises $45M Series B to Expand Beyond Experiment Tracking for Machine Learning Practitioners Everywhere"
-    excerpt: "Weights and Biases, the Experiment Tracking platform that is transforming how teams build and collaborate on Machine Learning (ML) models"
-    publishedDateTime: 2021-02-01T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/weights-and-biases-raises-45m-series-b-to-expand-beyond-experiment-tracking-for-machine-learning-practitioners-everywhere-301218743.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 28
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "iRndOGv6FEkJxoUFvPuqWF+jRmFf/Oq3O1iIPVhuUpZSfE8yaYuBs0vqfgwVe5cjB2PDqsyNcHT16ogIW+ixE12rlliJvWW53bweQJg8P4tUjJiJ5SYNpSjH7jZPw7n7NG/n2bYKoK7cEtnWFyCCAPOeZLT+GXFTgXgH9xEFki2rtJDL4WIdRMM7Y3LfKhoEkpBOVULkR5/3VmRFMgbX+a2ffK+1FGj+HfsS5oqJVOrBT/8N6yvbksMI1BR3sRdlEwViFzgIuSgPsjt/NDPj38tVH0ckyNBzIKi+T3wEAia7TrW7lLrgUHBB3q4kfPuw8kgZSLl+Laj/ovahlOR5tCZN32Rh8pTbOQeAkHXatAonC6GfVP/vIDQtB1NngrGopa9K2vUoIz75gBVLLMuHntJeiQuUI7dTT3oeGpq64bhXVZQBvNQajssst9LDOtK5ylX06WfsXbrrCdHuDRKxJ4WR5VLAdeCCM9wrOjob2Hp1K5bkZDLFmYLgLxPJPUlSJ+Y/ZLw6enJxEk62bEsHyg==;kDJ8ScH1JaDLgnUiPJ+shA=="
 ---

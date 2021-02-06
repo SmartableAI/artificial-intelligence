@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-23-how-to-drive-brand-awareness-and-marketing-with-natural-language-processing.md",
+      "title": "How to drive brand awareness and marketing with natural language processing",
+      "excerpt": "To grow brand awareness, a successful marketing campaign must be data-driven, using market research into customer sentiment, the buyer’s journey, social segments, social prospecting, competitive analysis and content strategy. For sophisticated results, this research needs to dig into unstructured data",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/12/how-to-drive-brand-awareness-and-marketing-with-natural-language-processing/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2020/12/how-to-drive-brand-awareness-and-marketing-with-natural-language-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/12/2020_10_16blog_imagery_NLP_1980x996_v3-990x498.jpg",
+          "width": 990,
+          "height": 498,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-23T08:06:47-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "Natural Language Processing",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2020-12-23-ibm-providing-ai-solutions-to-government.md",
       "title": "IBM Providing AI Solutions to Government",
       "excerpt": "including a deeper context of AI in health and human services, agency examples and outcomes achieved via IBM Watson, and IBM’s future plans. IBM Watson Health improves health and human services ...",
@@ -1351,58 +1404,6 @@
       "topics": [
         "IBM AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-driving-the-next-generation-of-ai.md",
-      "title": "Driving The Next Generation of AI",
-      "excerpt": "This article is a response to an article arguing that an AI Winter maybe inevitable. However, I believe that there are fundamental differences between what happened in the 1970s (the fist AI winter) a",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/driving-next-generation-ai-imtiaz-adam/",
-      "originalUrl": "https://www.linkedin.com/pulse/driving-next-generation-ai-imtiaz-adam/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQGdtt_w-pUR5g/article-cover_image-shrink_720_1280/0/1606922606203?e=1613001600&v=beta&t=Wz2Px5Ibh7-7pHdKOJ9TuY-fGNj1_adkVDYZ23zdZsE",
-          "width": 1080,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-02T15:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

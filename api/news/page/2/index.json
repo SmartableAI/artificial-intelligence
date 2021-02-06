@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-05-ai-drives-the-evolution-of-technology-and-data-governance.md",
+      "title": "AI drives the evolution of technology and data governance",
+      "excerpt": "Key points focusing on how AI drives the evolution of technology and data governance and how an increase in customer demand and regulatory activity will necessitate companies to take a closer look at their approach.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-drives-the-evolution-of-technology-and-data-governance/",
+      "originalUrl": "https://www.zdnet.com/article/ai-drives-the-evolution-of-technology-and-data-governance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-drives-the-evolution-of-technology-and-data-governance/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-drives-the-evolution-of-technology-and-data-governance/",
+      "publishedDateTime": "2021-02-04T14:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-05-stylescan-is-disrupting-fashion-industry-with-ai.md",
       "title": "StyleScan Is Disrupting Fashion Industry With AI",
       "excerpt": "The fashion commerce market-wide need attracted competition for a digital sizing solution. StyleScan is a standout.",
@@ -454,11 +497,11 @@
       "title": "AI reading list: 8 interesting books about artificial intelligence to check out",
       "excerpt": "These eight books about artificial intelligence cover a range of topics, including ethical issues, how AI is affecting the job market, and how organizations can use AI to gain a competitive advantage.",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
-      "originalUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
+      "webUrl": "https://www.techrepublic.com/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
+      "originalUrl": "https://www.techrepublic.com/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -472,8 +515,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
       "publishedDateTime": "2021-02-04T08:46:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -497,6 +540,7 @@
         "news"
       ],
       "topics": [
+        "AI Ethics",
         "AI"
       ]
     },
@@ -537,19 +581,19 @@
     {
       "path": "_news/2021-02-04-quantiphi-recognized-as-a-tensorflow-ai-service-partner-for-machine-learning-led-enterprise-transformation.md",
       "title": "Quantiphi Recognized as a TensorFlow AI Service Partner for Machine Learning Led Enterprise Transformation",
-      "excerpt": "Quantiphi, an applied AI and data science company, has been selected by TensorFlow as an AI Service Partner to enable businesses across industries",
+      "excerpt": "Quantiphi, an applied AI and data science company, has been selected by TensorFlow as an AI Service Partner to enable businesses across industries to benefit from AI-based systems and help them innovate faster,",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/quantiphi-recognized-as-a-tensorflow-ai-service-partner-for-machine-learning-led-enterprise-transformation/article_4c4c7bb7-085f-5ba9-a361-6bc04201dd08.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/quantiphi-recognized-as-a-tensorflow-ai-service-partner-for-machine-learning-led-enterprise-transformation/article_4c4c7bb7-085f-5ba9-a361-6bc04201dd08.html",
+      "webUrl": "https://www.lelezard.com/en/news-19635111.html",
+      "originalUrl": "https://www.lelezard.com/en/news-19635111.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 92,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
+          "width": 640,
+          "height": 480,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -559,11 +603,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-04T06:25:00-08:00",
+      "publishedDateTime": "2021-02-04T06:45:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -573,9 +617,10 @@
         "news"
       ],
       "topics": [
-        "Google AI",
+        "AI in Finance",
         "AI",
         "Machine Learning",
+        "Google AI",
         "TensorFlow"
       ]
     },
@@ -629,58 +674,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-microsoft-launches-viva-an-ai-powered-information-hub-for-enterprises.md",
-      "title": "Microsoft launches Viva, an AI-powered information hub for enterprises",
-      "excerpt": "Microsoft today introduced Microsoft Viva, a hub of services designed to address digital workplace challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/04/microsoft-launches-viva-topics-an-ai-powered-information-curator-for-enterprises/",
-      "originalUrl": "https://venturebeat.com/2021/02/04/microsoft-launches-viva-topics-an-ai-powered-information-curator-for-enterprises/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 244,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/Jared-Spataro.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/04/microsoft-launches-viva-topics-an-ai-powered-information-curator-for-enterprises/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/04/microsoft-launches-viva-topics-an-ai-powered-information-curator-for-enterprises/amp/",
-      "publishedDateTime": "2021-02-04T06:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     },
     {
@@ -875,6 +868,58 @@
       ]
     },
     {
+      "path": "_news/2021-02-04-this-is-crazy-tesla-recalls-100k-cars-stock-goes-up.md",
+      "title": "This Is Crazy: Tesla Recalls 100K+ Cars, Stock Goes Up!",
+      "excerpt": "Tesla will recall about 135k Model S and Model Y luxury vehicles due to some touch-screen related issues, making it one of the electric vehicle bellwether’s largest recalls to date. However, despite the news Tesla stock actually jumped by about 4% in Tuesday’s trading.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/greatspeculations/2021/02/04/this-is-crazy-tesla-recalls-100k-cars-stock-goes-up/",
+      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2021/02/04/this-is-crazy-tesla-recalls-100k-cars-stock-goes-up/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f193cce4da8f6e9a2215488%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2021/02/04/this-is-crazy-tesla-recalls-100k-cars-stock-goes-up/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2021/02/04/this-is-crazy-tesla-recalls-100k-cars-stock-goes-up/amp/",
+      "publishedDateTime": "2021-02-04T04:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-04-artificial-intelligence-helping-to-prevent-disinformation-for-investors.md",
       "title": "Artificial Intelligence Helping to Prevent Disinformation for Investors",
       "excerpt": "That’s further proof investors have turned to chat rooms for investing ideas. Unfortunately, not all information gathered in such chat rooms is truthful information. However, with a good deal of rampant disinformation,",
@@ -935,7 +980,7 @@
       "originalUrl": "https://www.wired.com/story/ai-list-dirty-naughty-obscene-bad-words/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -986,7 +1031,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/02/04/how-data-and-ai-will-continue-to-change-healthcare-in-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 194,
+      "heat": 196,
       "tags": null,
       "images": [
         {
@@ -1166,50 +1211,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-ecloudvalley-supports-aisas-multilingual-translation-solution-with-well-architected-deployment-on-aws.md",
-      "title": "eCloudvalley Supports AISA's Multilingual Translation Solution with Well-Architected Deployment on AWS",
-      "excerpt": "PRNewswire/ -- eCloudvalley, who won the title of ASEAN 2020 'AWS Consulting Partner of the Year', provided AISA with a",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ecloudvalley-supports-aisa-s-multilingual-translation-solution-with-well-architected-deployment-on-aws-1030041081",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ecloudvalley-supports-aisa-s-multilingual-translation-solution-with-well-architected-deployment-on-aws-1030041081",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/ecloudvalley-supports-aisa-s-multilingual-translation-solution-with-well-architected-deployment-on-aws-1030041081",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ecloudvalley-supports-aisa-s-multilingual-translation-solution-with-well-architected-deployment-on-aws-1030041081",
-      "publishedDateTime": "2021-02-03T20:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

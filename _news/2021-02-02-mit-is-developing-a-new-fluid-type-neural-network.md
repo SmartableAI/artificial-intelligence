@@ -9,7 +9,7 @@ ampWebUrl: "https://galusaustralis.com/2021/02/1047995/mit-is-developing-a-new-f
 cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2021/02/1047995/mit-is-developing-a-new-fluid-type-neural-network/amp/"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI: MIT scientists develop a new ‘liquid’ neural network – ‘future of robot control’"
-    excerpt: "MIT scientists have developed a type of neural network that learns on the job, not just during its training phase. These flexible algorithms, dubbed “liquid” networks, change their underlying equations to continuously adapt to new data inputs."
-    publishedDateTime: 2021-02-01T11:06:00Z
-    webUrl: "https://www.tunisiesoir.com/science/ai-mit-scientists-develop-a-new-liquid-neural-network-future-of-robot-control-26558-2021/"
-    ampWebUrl: "https://www.tunisiesoir.com/science/ai-mit-scientists-develop-a-new-liquid-neural-network-future-of-robot-control-26558-2021/?amp"
-    cdnAmpWebUrl: "https://www-tunisiesoir-com.cdn.ampproject.org/c/s/www.tunisiesoir.com/science/ai-mit-scientists-develop-a-new-liquid-neural-network-future-of-robot-control-26558-2021/?amp"
-    type: article
-    provider:
-      name: Tunisie Soir
-      domain: tunisiesoir.com
-    quality: 84
-    images:
-      - url: "https://www.tunisiesoir.com/wp-content/uploads/2021/02/AI-MIT-scientists-develop-a-new-‘liquid-neural-network-‘future-of-robot-control.jpg"
-        width: 600
-        height: 400
-        isCached: true
   - title: "MIT’s New Neural Network: “Liquid” Machine-Learning System Adapts to Changing Conditions"
     excerpt: "The new type of neural network could aid decision making in autonomous driving and medical diagnosis. MIT researchers have developed a type of neural network that learns on the job, not just during its training phase."
     publishedDateTime: 2021-02-02T14:28:00Z

@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft launches Custom Neural Voice in limited access"
+    excerpt: "Microsoft today launched Custom Neural Voice in limited preview, a service that allows customers to create custom voices using AI."
+    publishedDateTime: 2021-02-03T17:02:00Z
+    webUrl: "https://venturebeat.com/2021/02/03/microsoft-launches-custom-neural-voice-in-limited-access/"
+    ampWebUrl: "https://venturebeat.com/2021/02/03/microsoft-launches-custom-neural-voice-in-limited-access/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/03/microsoft-launches-custom-neural-voice-in-limited-access/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 139
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Microsoft launches Viva, an AI-powered information hub for enterprises"
     excerpt: "Microsoft today introduced Microsoft Viva, a hub of services designed to address digital workplace challenges."
     publishedDateTime: 2021-02-04T14:02:00Z
@@ -63,22 +79,6 @@ related:
         width: 450
         height: 300
         isCached: true
-  - title: "Microsoft and the workplace of the future: How AI can help you build more productive relationships with your colleagues"
-    excerpt: "Microsoft wants to help organizations use their data to deliver experiences, insights and outcomes. But careful design, clear ethics and full transparency are required to keep the AI in check."
-    publishedDateTime: 2021-02-02T11:22:00Z
-    webUrl: "https://www.techrepublic.com/article/microsoft-and-the-workplace-of-the-future-how-ai-can-help-you-build-more-productive-relationships-with-your-colleagues/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-and-the-workplace-of-the-future-how-ai-can-help-you-build-more-productive-relationships-with-your-colleagues/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-and-the-workplace-of-the-future-how-ai-can-help-you-build-more-productive-relationships-with-your-colleagues/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 82
-    images:
-      - url: "https://tr3.cbsistatic.com/hub/i/r/2021/02/02/0913614a-f6f7-4acd-ae1b-db7ac3fbdf31/resize/1200x/76e6ecdbcb386ba09f38fbb29f53d792/ms-365-mwt-building-blocks.jpg"
-        width: 1200
-        height: 678
-        isCached: true
   - title: "Etihad Airways Transforms Its Finance Operations by Leveraging Microsoft AI Capabilities"
     excerpt: "Etihad Airways has carried out a transformation of its Finance Operations through harnessing the power of Microsoft AI. The Finance and Digital, Technol"
     publishedDateTime: 2021-02-03T07:30:00Z
@@ -94,6 +94,22 @@ related:
       - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2021-02/Etihad%20image%201.jpg?itok=tMPbQ2Tz"
         width: 960
         height: 640
+        isCached: true
+  - title: "Moving from the Lab to the Mainstream - Microsoft's Machine-Learning Tool"
+    excerpt: "Now techniques developed by Microsoft are emerging from the lab and moving into production. Perhaps the most significant embodiment of this development is Personalizer, part of Azure Cognitive Services on the Azure AI Platform³."
+    publishedDateTime: 2021-02-02T17:27:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=11966"
+    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=11966"
+    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=11966"
+    type: article
+    provider:
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 75
+    images:
+      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_11966_16122866370551170.jpg"
+        width: 1103
+        height: 469
         isCached: true
   - title: "Etihad Airways transforms operations with Microsoft AI capabilities"
     excerpt: "Etihad Airways has carried out a transformation of its finance operations through harnessing the power of Microsoft AI. The Finance and"
@@ -154,6 +170,66 @@ related:
         width: 605
         height: 500
         isCached: true
+  - title: "Microsoft Debuts Custom Neural Voice for Azure Cognitive Services"
+    excerpt: "With Custom Neural Voice, Azure Cognitive Services developers can use AI to generate human-like speech-to-voice for their apps."
+    publishedDateTime: 2021-02-04T13:48:00Z
+    webUrl: "https://winbuzzer.com/2021/02/04/microsoft-debuts-custom-neural-voice-for-azure-cognitive-services-xcxwbn/"
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 69
+    images:
+      - url: "https://winbuzzer.com/wp-content/uploads/2021/02/AT-T-Neural-Voice-Research-Azure-Microsoft.jpg"
+        width: 1157
+        height: 649
+        isCached: true
+  - title: "Microsoft Azure Helping to Strengthen US Microelectronics Supply Chain"
+    excerpt: "In a blog post, Mujtaba Hamid, Principal PM Manager, Microsoft Azure, discussed the company's collaboration with the Department of Defense"
+    publishedDateTime: 2021-02-05T16:06:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/microsoft-azure-helping-to-strengthen-us-microelectronics-supply-chain/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 69
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/stampede2-405x228.jpg"
+        width: 405
+        height: 228
+        isCached: true
+  - title: "Why Microsoft’s Self-Driving Car Strategy Will Work"
+    excerpt: "Self-driving car startup Cruise received more than $2 billion investment from Microsoft, General Motors, Honda, and institutional investors,"
+    publishedDateTime: 2021-02-03T08:02:00Z
+    webUrl: "https://www.techfinancials.co.za/2021/02/03/why-microsofts-self-driving-car-strategy-will-work/"
+    ampWebUrl: "https://www.techfinancials.co.za/2021/02/03/why-microsofts-self-driving-car-strategy-will-work/?amp"
+    cdnAmpWebUrl: "https://www-techfinancials-co-za.cdn.ampproject.org/c/s/www.techfinancials.co.za/2021/02/03/why-microsofts-self-driving-car-strategy-will-work/?amp"
+    type: article
+    provider:
+      name: techfinancials
+      domain: techfinancials.co.za
+    quality: 61
+    images:
+      - url: "https://n9v2j5d8.rocketcdn.me/wp-content/uploads/2020/05/Microsoft.png"
+        width: 512
+        height: 341
+        isCached: true
+  - title: "From Bugs Bunny to Flo from Progressive, Microsoft's AI tech is being used to create digital voices"
+    excerpt: "Microsoft Azure AI is being used to create realistic voices ranging from fictional characters to chatbots for an insurance company. Microsoft discusses how it's done and why it's important to be careful about how it's used in a recent blog post."
+    publishedDateTime: 2021-02-04T12:19:00Z
+    webUrl: "https://www.windowscentral.com/bugs-bunny-flo-progressive-microsofts-ai-tech-being-used-create-digital-voices"
+    ampWebUrl: "https://www.windowscentral.com/bugs-bunny-flo-progressive-microsofts-ai-tech-being-used-create-digital-voices?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/bugs-bunny-flo-progressive-microsofts-ai-tech-being-used-create-digital-voices?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 60
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/11/microsoft-logo-ignite-2019.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Microsoft launches Custom Neural Voice in limited access – Jaweb"
     excerpt: "Microsoft today announced the general availability of Custom Neural Voice, an Azure Cognitive Services product that lets developers create synthetic voices with neural text-to-speech technology. It’s in limited access,"
     publishedDateTime: 2021-02-03T17:41:00Z
@@ -184,29 +260,161 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "SAS Teams With Microsoft To Offer Viya Analytics On Azure"
-    excerpt: "Big data software vendor SAS is making its Viya AI, analytics and data management system available on the Microsoft Azure cloud platform."
-    publishedDateTime: 2021-02-03T01:38:00Z
-    webUrl: "https://www.crn.com/news/applications-os/sas-teams-with-microsoft-to-offer-viya-analytics-on-azure"
+  - title: "General Dynamics Information Technology Offers Microsoft Azure to Federal Agencies"
+    excerpt: "General Dynamics Information Technology, a business unit of General Dynamics, announced today the signing of Microsoft Partner Agreement for Online Services-Government. Through the recently awarded Defense Enterprise Office Solution contract,"
+    publishedDateTime: 2021-02-04T17:30:00Z
+    webUrl: "https://www.nasdaq.com/press-release/general-dynamics-information-technology-offers-microsoft-azure-to-federal-agencies"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 58
+  - title: "Microsoft Data & AI Day on March 11"
+    excerpt: "Microsoft Denmark is proud to present Microsoft Data & AI Day! Within the past few years, artificial intelligence has accelerated the digitization of businesses and societies rapidly. As previous entry barriers have fallen AI has undergone a tremendous democratization – and it is now easier than ever before to get started"
+    publishedDateTime: 2021-02-01T14:37:00Z
+    webUrl: "https://news.microsoft.com/da-dk/2021/02/01/microsoft-data-ai-day-on-march-11/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 56
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/53/2021/02/banner-600-x-300.png"
+        width: 600
+        height: 300
+        isCached: true
+  - title: "Microsoft and Singtel team up on 5G via Azure Stack"
+    excerpt: "Microsoft Azure customers in Singapore will soon be able to use Singtel’s 5G infrastructure to power 5G applications through the telco’s edge computing platform"
+    publishedDateTime: 2021-02-02T08:34:00Z
+    webUrl: "https://www.computerweekly.com/news/252495728/Microsoft-and-Singtel-team-up-on-5G-via-Azure-Stack"
+    ampWebUrl: "https://www.computerweekly.com/news/252495728/Microsoft-and-Singtel-team-up-on-5G-via-Azure-Stack?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252495728/Microsoft-and-Singtel-team-up-on-5G-via-Azure-Stack?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 54
+  - title: "Observe.AI and Microsoft Team Up on Contact Center AI"
+    excerpt: "Observe.AI, a contact center artificial intelligence technology provider, is working with Microsoft to bring automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
+    publishedDateTime: 2021-02-02T17:29:00Z
+    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=145046"
+    type: article
+    provider:
+      name: Destination CRM
+      domain: destinationcrm.com
     quality: 54
     images:
-      - url: "https://www.crn.com/resources/0266-117c11a50dd5-9301b525dd7b-1000/digital_data_cloud_futuristic_cloud_with_blockchain_technology.jpeg"
-        width: 1500
-        height: 843
+      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/135080-0121_Trends_480x610-ORG.png"
+        width: 480
+        height: 610
         isCached: true
-  - title: "Talking Medicines Launches AI-Powered Patient Intelligence Platform to Revolutionize Marketing for World’s Leading Drug Brands"
-    excerpt: "Talking Medicines has today (Thursday 4 February) launched an AI-powered social intelligence service, PatientMetRx, giving the world’s leading drug brands insights on patient experience on a scale and depth never previously possible."
-    publishedDateTime: 2021-02-04T11:13:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/science-business-technology-products-and-services-media-1e1bfb36d8944678a13496401aafdf00"
+  - title: "GDIT Signs Microsoft Partner Agreement to Deliver Azure to Federal Agencies"
+    excerpt: "General Dynamics Information Technology (GDIT), a business unit of General Dynamics, has signed a Microsoft Partner Agreement for Online Services-Government (AOS-G), GDIT reported on Thursday. \"Clients across the federal government are rapidly adopting cloud and Software-as-a-Service solutions,"
+    publishedDateTime: 2021-02-05T00:00:00Z
+    webUrl: "https://www.executivegov.com/2021/02/gdit-signs-microsoft-partner-agreement-to-deliver-azure-to-federal-agencies/"
+    type: article
+    provider:
+      name: Executive Gov
+      domain: executivegov.com
+    quality: 52
+    images:
+      - url: "https://executivegov-media.s3.amazonaws.com/2021/01/22/95/47/f5/8c/f7/58/f8/e4/gdit_20200722.png"
+        width: 272
+        height: 270
+        isCached: true
+  - title: "This Microsoft self-driving car concept takes aim at the ambitious Apple Project Titan"
+    excerpt: "With the Microsoft Surface car concept, that feud extends into the world of transportation too! Meet the Microsoft Surface Car, an automobile that beautifully channels the sleek aesthetic of Microsoft’s Surface laptops into its automotive design."
+    publishedDateTime: 2021-02-03T23:30:00Z
+    webUrl: "https://www.yankodesign.com/2021/02/03/this-microsoft-self-driving-car-concept-takes-aim-at-the-ambitious-apple-project-titan/"
+    type: article
+    provider:
+      name: Yanko Design
+      domain: yankodesign.com
+    quality: 48
+    images:
+      - url: "https://www.yankodesign.com/images/design_news/2021/01/these-in-ear-translator-earphones-help-you-fluently-speak-in-as-many-as-40-different-languages/worlds_first_bi_directional_translation_earbuds-510x314.jpg"
+        width: 510
+        height: 314
+        isCached: true
+  - title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
+    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
+    publishedDateTime: 2021-02-03T08:22:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 28
+    quality: 46
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Microsoft Says It's Time to Attack Your Machine-Learning Models"
+    excerpt: "With access to some training data, Microsoft's red team recreated a machine-learning system and found sequences of requests that resulted in a denial-of-service."
+    publishedDateTime: 2021-02-04T22:13:00Z
+    webUrl: "https://www.darkreading.com/vulnerabilities---threats/advanced-threats/microsoft-says-its-time-to-attack-your-machine-learning-models/d/d-id/1340072"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 41
+    images:
+      - url: "https://img.deusm.com/darkreading/Jan21_DR_cartoon.jpg"
+        width: 800
+        height: 637
+        isCached: true
+  - title: "Microsoft’s Custom Neural Voice technology goes out of preview"
+    excerpt: "Microsoft has announced that its text-to-speech AI “Custom Neural Voice” has hit general availability. The technology enables developers to create personalized voices using their audio data and"
+    publishedDateTime: 2021-02-04T16:31:00Z
+    webUrl: "https://www.onmsft.com/news/microsofts-custom-neural-voice-technology-goes-out-of-preview"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 39
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2021/01/Microsoft-Campus.jpg"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "How Microsoft brought Swiss voice assistants to life"
+    excerpt: "Microsoft’s Custom Neural Voice is now generally available. In Switzerland, the technology has been already used to create unique voice assistants."
+    publishedDateTime: 2021-02-05T20:26:00Z
+    webUrl: "https://news.microsoft.com/de-ch/2021/02/05/how-microsoft-brought-swiss-voice-assistants-to-life/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 39
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/418/2021/02/sctv4-socialmedia-1200x630-1-1024x538.jpg"
+        width: 1024
+        height: 538
+        isCached: true
+  - title: "Microsoft Partnership Will Bring New Cloud Service to DOD Microelectronics Project"
+    excerpt: "Microsoft announced new partnerships Thursday that will support two major Defense Department projects using the tech giant’s Azure cloud services. Microsoft is working with ten companies on a technology solution for the secure design of microelectronics using a new service in the Azure Government cloud region in support of a Defense Department program,"
+    publishedDateTime: 2021-02-05T02:57:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2021/02/microsoft-partnership-will-bring-new-cloud-service-dod-microelectronics-project/171872/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 35
+    images:
+      - url: "https://cdn.nextgov.com/media/img/upload/2021/02/04/NGmicrosfot20210204/860x394.jpg"
+        width: 860
+        height: 394
+        isCached: true
+  - title: "Skillsoft Integrates with Microsoft Viva to Empower Learning in Today’s Flow of Work"
+    excerpt: "Skillsoft, a leader in digital learning, training, and talent solutions to help organizations unleash their edge, announces it is integrating tools and training with Microsoft Viva, which Microsoft launched today."
+    publishedDateTime: 2021-02-05T08:05:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-professional-services-4872dc3dd517417798ad767ac157b1fb"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 34
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

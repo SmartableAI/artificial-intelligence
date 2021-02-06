@@ -29,156 +29,90 @@ images:
     isCached: true
 
 related:
-  - title: "Budget 2021: AI, ML and analytics to ease compliance burden and check tax evasion"
-    excerpt: "The Union Budget 2021 presented by Finance Minister Nirmala Sitharaman threw emphasis on technologies like Artificial Intelligence and Machine Learning, and their application to the e-Governance, GST and easing"
-    publishedDateTime: 2021-02-01T12:45:00Z
-    webUrl: "https://www.dqindia.com/budget-2021-ai-ml-analytics-ease-compliance-burden-check-tax-evasion/"
-    ampWebUrl: "https://www.dqindia.com/budget-2021-ai-ml-analytics-ease-compliance-burden-check-tax-evasion/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/budget-2021-ai-ml-analytics-ease-compliance-burden-check-tax-evasion/amp/"
+  - title: "Artificial Intelligence Robots Market 2020: Expected Development, Share, Demand And Study Of Key Players"
+    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence (AI) Robots Market with the reasons given for variations in the growth of the industry in certain regions. Browse the full report here:  Artificial intelligence (AI) Robots is arguably the foremost exciting field in artificial intelligence."
+    publishedDateTime: 2021-02-03T12:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2020-expected-development-share-demand-and-study-of-key-players-2021-02-03"
     type: article
     provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 71
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
     images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/02/AI-analytics-Union_Buget_2021.jpg"
-        width: 850
-        height: 400
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Analytics startup signs COTA as first client"
-    excerpt: "Ikonos Analytics is the brainchild of Women in Analytics founder Rehgan Avon and operations specialist Allie Dauterman."
-    publishedDateTime: 2021-02-02T23:42:00Z
-    webUrl: "https://www.columbusceo.com/business/20210202/analytics-startup-signs-cota-as-first-client"
-    ampWebUrl: "https://www.columbusceo.com/business/20210202/analytics-startup-signs-cota-as-first-client?template=ampart"
-    cdnAmpWebUrl: "https://www-columbusceo-com.cdn.ampproject.org/c/s/www.columbusceo.com/business/20210202/analytics-startup-signs-cota-as-first-client?template=ampart"
+  - title: "Automotive Artificial Intelligence Market 2020: Expected Development, Share, Demand And Study Of Key Players"
+    excerpt: "The Automotive Artificial Intelligence Market is expected to exceed more than US$ 10.5 Billion by 2024 at a CAGR of 37.5% in the given forecast period. Browse Full Report Here:  The Automotive Artificial Intelligence Market is segmented on the Basis of Technology type,"
+    publishedDateTime: 2021-02-03T10:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-2020-expected-development-share-demand-and-study-of-key-players-2021-02-03"
     type: article
     provider:
-      name: Columbus CEO
-      domain: columbusceo.com
-    quality: 42
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
     images:
-      - url: "https://www.columbusceo.com/apps/pbcsi.dll/bilde?Site=OH&Date=20210202&Category=BUSINESS&ArtNo=210129905&Ref=AR"
-        width: 1024
-        height: 683
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Monitoreal provides an AI-smart object detection appliance to deliver advanced analytics and real time alerts"
-    excerpt: "The use of AI-computer vision technology to improve situational awareness and provide highly accurate advanced object detection analytics, reducing false alerts and delivering real time"
-    publishedDateTime: 2021-02-05T05:47:00Z
-    webUrl: "https://www.sourcesecurity.com/news/monitoreal-ai-smart-object-detection-appliance-co-1611327055-ga-co-1612444574-ga-npr.1612450229.html?ref=nav"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/monitoreal-ai-smart-object-detection-appliance-co-1611327055-ga-co-1612444574-ga-npr.1612450229.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/monitoreal-ai-smart-object-detection-appliance-co-1611327055-ga-co-1612444574-ga-npr.1612450229.html"
+  - title: "Global Deep Learning Market 2020 Regional Demand, Industry Top Players Study, Key Trends and SWOT Analysis to 2025"
+    excerpt: "The latest report entitled Global Deep Learning Market 2020 by Company, Type and Application, Forecast to 2025 firstly focuses on some important aspects of the market such as revenue rate, market share,"
+    publishedDateTime: 2021-02-03T03:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-market-2020-regional-demand-industry-top-players-study-key-trends-and-swot-analysis-to-2025-2021-02-02"
     type: article
     provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 40
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
     images:
-      - url: "https://security-img.scdn6.secure.raxcdn.com/news/612/safety-in-smart-cities-how-video-surveillance-keeps-security-front-and-centre-920x533.jpg"
-        width: 612
-        height: 355
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Viking Analytics and pour-tech AB sign contract to provide AI operators to iron foundries"
-    excerpt: "Viking Analytics, a Swedish startup in advanced analytics solution for predictive operations, and pour-tech AB, specialized in"
-    publishedDateTime: 2021-02-03T10:20:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/viking-analytics-and-pour-tech-ab-sign-contract-to-provide-ai-operators-to-iron-foundries-301221068.html"
+  - title: "Artificial Intelligence as a Service Market 2021 Global Demand, Growth, Opportunities, Top Key Players and Forecast to 2027"
+    excerpt: "New Study Reports \"Artificial Intelligence as a Service Market 2021 Global Market Opportunities, Challenges, Strategies and Forecasts 2027\" has been Added on WiseGuyReports. This report provides in depth study of \"Artificial Intelligence as a Service Market\" using SWOT analysis i."
+    publishedDateTime: 2021-02-03T00:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-2021-global-demand-growth-opportunities-top-key-players-and-forecast-to-2027-2021-02-02"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 28
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Viking Analytics and Pour-tech AB Sign Contract to Provide AI Operators to Iron Foundries"
-    excerpt: "Automation is well established in foundries, but companies also must take on digital transformation. The Viking Analytics / pour-tech AB partnership shows the potential Artificial Intelligence use in the metal industry."
-    publishedDateTime: 2021-02-04T20:39:00Z
-    webUrl: "https://www.automation.com/en-us/articles/february-2021/viking-analytics-pour-tech-ab-contract-ai-iron"
+  - title: "Edge AI Hardware Market Global Forecast to 2024 by Devices, Processor, Power Consumption, Process, End-User Industry, Top Key Players, and Regions"
+    excerpt: "The edge AI hardware market is expected to register a shipment of 610 million units in 2019 and is likely to reach 1559.3 million units by 2024, at a CAGR of 20.64% during the forecast period. Major drivers for the market's growth are growing demand for low latency and real-time processing on edge devices and emergence of AI coprocessors for edge computing."
+    publishedDateTime: 2021-02-03T14:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/edge-ai-hardware-market-global-forecast-to-2024-by-devices-processor-power-consumption-process-end-user-industry-top-key-players-and-regions-2021-02-03"
     type: article
     provider:
-      name: Automation
-      domain: automation.com
-    quality: 28
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
     images:
-      - url: "https://www.automation.com/getmedia/c471b09e-28ab-4216-bcd8-972b5c9f81a8/Viking-news-Feb-4-2021-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Strategy Analytics Reveals Research to Maximize Success for AI-Enhanced Product Development"
-    excerpt: "Strategy Analytics today released complimentary research which explores the link between the level of understanding of the buyer journey and the success of AI projects. The report “ Defining the AI Buyer Journey ” clearly shows that both AI vendors and users can succeed through a thorough understanding of customer journeys."
-    publishedDateTime: 2021-02-04T14:32:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-new-products-and-services-68226491913d4cd2a19db72f2d5970c4"
+  - title: "Autonomous Cars Market | Worldwide Industry Share, Size, Gross Margin, Trend, Future Demand, Analysis by Top Leading Player and Forecast Till 2027"
+    excerpt: "Autonomous Cars Market is set to grow exponentially owing to the increasing development of the ride-hailing technology. Hence, numerous industry giants are investing hefty amounts of money in the field of driverless ride-sharing."
+    publishedDateTime: 2021-02-01T15:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/autonomous-cars-market-worldwide-industry-share-size-gross-margin-trend-future-demand-analysis-by-top-leading-player-and-forecast-till-2027-2021-02-01"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 27
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 16
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "SAS Viya delivers innovation and analytics for all"
-    excerpt: "Analytics leader SAS continues to innovate by making it easier to access its powerful, cloud-native SAS® Viya® platform. Recent"
-    publishedDateTime: 2021-02-02T14:49:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/sas-viya-delivers-innovation-and-analytics-for-all-301219567.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 24
-    images:
-      - url: "https://mma.prnewswire.com/media/1431107/doctor_with_tablet_SAS_Viya.jpg?p=facebook"
-        width: 800
-        height: 418
-        isCached: true
-  - title: "SAS Viya Delivers Innovation And Analytics For All"
-    excerpt: "Customers benefit from easier cloud migration and management of analytic workloads; SAS continues to strengthen its partnership with Microsoft Azure Mumbai, Maharashtra, India Business Wire India Analytics leader SAS continues to innovate by making it easier to access its powerful,"
-    publishedDateTime: 2021-02-03T08:05:00Z
-    webUrl: "https://www.republicworld.com/business-news/india-business/sas-viya-delivers-innovation-and-analytics-for-all.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 24
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/wf9zahdas70tznpq_1612339428.jpeg?tr=f-jpeg"
-        width: 1242
-        height: 710
-        isCached: true
-  - title: "Law.com Litigation Trendspotter: Why Trial Lawyers Owe It to Their Clients to Embrace AI and Data Analytics"
-    excerpt: "Now, more than ever, litigators may be doing their clients a disservice by not taking advantage of legal technology."
-    publishedDateTime: 2021-02-05T03:08:00Z
-    webUrl: "https://www.law.com/2021/02/04/law-com-litigation-trendspotter-why-trial-lawyers-owe-it-to-their-clients-to-embrace-ai-and-data-analytics/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 19
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/292/2021/02/Robot-Article-202102042052.jpg"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "Atlanta partners with Austin startup Olea Edge Analytics for AI-driven analysis of water meters"
-    excerpt: "Olea Edge Analytics uses machine learning and artificial intelligence to identify any problems or inefficiencies in city-owned water meters in order to recover lost revenue and help city workers target maintenance resources."
-    publishedDateTime: 2021-02-05T19:52:00Z
-    webUrl: "https://www.bizjournals.com/atlanta/inno/stories/news/2021/02/05/atlanta-partners-with-olea-edge-analytics.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 5
-  - title: "OH: Local analytics startup signs COTA as first client"
-    excerpt: "Ikonos is positioned to establish process and governance around the use of data in organizations, such as COTA."
-    publishedDateTime: 2021-02-04T12:22:00Z
-    webUrl: "https://www.masstransitmag.com/technology/news/21208795/oh-local-analytics-startup-signs-cota-as-first-client"
-    type: article
-    provider:
-      name: Mass Transit
-      domain: masstransitmag.com
-    quality: 2
 
 secured: "Tj0Y4qUdOOfh7S0oVivFA6wAfawkMXjEeVN4J5MJlC1v3RBjhwvbbjtrEzTRZrT1uu3CAkR+BlxHNn6nKnJmSB4i/+Ok79blkZgqfDnWiCrAC40cVjTGhsJuL4p4Shq0524ZMrBATTsXN+4RaFjNzOkJZYY7bIiVqi1h2gjkrp7nVd1NBZsH/qpb2tSXfufr4GrDC305cot+cid/Aqbumu94PUo2LQ8g/yby+CKeCA3T1okRWPP2kih9/CE9AKF6hiteBqxGpdBK1UP8IymWsyvN0Bq8OfW4xIuajdNEPg53s0e0UuZoWry0ULdoOzVV2CzSbLwFvQIMCzGF3sHt8HRMCS3Au1Sh09bIChS4WFM=;z3QidM2NR9PMqqHxE5ki1Q=="
 ---

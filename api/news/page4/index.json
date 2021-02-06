@@ -2,6 +2,102 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-03-granulate-raises-30-million-for-ai-that-optimizes-server-workloads.md",
+      "title": "Granulate raises $30 million for AI that optimizes server workloads",
+      "excerpt": "Granulate, a startup developing AI technologies to optimize server workloads, has raised $30 million in venture funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/03/granulate-raises-30-million-for-ai-that-optimizes-server-workloads/",
+      "originalUrl": "https://venturebeat.com/2021/02/03/granulate-raises-30-million-for-ai-that-optimizes-server-workloads/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/05/shutterstock_771480475-e1585240349686.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/03/granulate-raises-30-million-for-ai-that-optimizes-server-workloads/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/03/granulate-raises-30-million-for-ai-that-optimizes-server-workloads/amp/",
+      "publishedDateTime": "2021-02-03T06:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-03-short-interest-in-global-x-robotics-artificial-intelligence-etf-nasdaqbotz-increases-by-391.md",
+      "title": "Short Interest in Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Increases By 39.1%",
+      "excerpt": "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) was the recipient of a significant growth in short interest in January. As of January 15th, there was short interest totalling 295,500 shares,",
+      "sourceUrl": null,
+      "webUrl": "https://theenterpriseleader.com/2021/02/03/short-interest-in-global-x-robotics-artificial-intelligence-etf-nasdaqbotz-increases-by-39-1.html",
+      "originalUrl": "https://theenterpriseleader.com/2021/02/03/short-interest-in-global-x-robotics-artificial-intelligence-etf-nasdaqbotz-increases-by-39-1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
+          "width": 450,
+          "height": 323,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theenterpriseleader.com/2021/02/03/short-interest-in-global-x-robotics-artificial-intelligence-etf-nasdaqbotz-increases-by-39-1.html/amp",
+      "cdnAmpWebUrl": "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2021/02/03/short-interest-in-global-x-robotics-artificial-intelligence-etf-nasdaqbotz-increases-by-39-1.html/amp",
+      "publishedDateTime": "2021-02-03T04:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theenterpriseleader.com",
+        "domain": "theenterpriseleader.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-03-artificial-intelligence-robots-market-2020-expected-development-share-demand-and-study-of-key-players.md",
       "title": "Artificial Intelligence Robots Market 2020: Expected Development, Share, Demand And Study Of Key Players",
       "excerpt": "The scope of the report includes a detailed study of Artificial Intelligence (AI) Robots Market with the reasons given for variations in the growth of the industry in certain regions. Browse the full report here:  Artificial intelligence (AI) Robots is arguably the foremost exciting field in artificial intelligence.",
@@ -10,7 +106,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2020-expected-development-share-demand-and-study-of-key-players-2021-02-03",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -218,7 +314,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/north-america-ai-chipsets-market-overview-with-in-depth-analysis-and-forecast-2020-2026-2021-02-03",
       "featuredContent": null,
       "highlight": null,
-      "heat": 177,
+      "heat": 167,
       "tags": null,
       "images": [
         {
@@ -502,6 +598,49 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-03-sas-teams-with-microsoft-to-offer-viya-analytics-on-azure.md",
+      "title": "SAS Teams With Microsoft To Offer Viya Analytics On Azure",
+      "excerpt": "Big data software vendor SAS is making its Viya AI, analytics and data management system available on the Microsoft Azure cloud platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/news/applications-os/sas-teams-with-microsoft-to-offer-viya-analytics-on-azure",
+      "originalUrl": "https://www.crn.com/news/applications-os/sas-teams-with-microsoft-to-offer-viya-analytics-on-azure",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crn.com/resources/0266-117c11a50dd5-9301b525dd7b-1000/digital_data_cloud_futuristic_cloud_with_blockchain_technology.jpeg",
+          "width": 1500,
+          "height": 843,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-02T17:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -1057,154 +1196,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-salesforces-ai-ethics-chief-shares-3-ways-to-use-tech-when-planning-a-safe-return-to-the-office.md",
-      "title": "Salesforce's AI ethics chief shares 3 ways to use tech when planning a safe return to the office",
-      "excerpt": "With vaccinations rolling out, companies must carefully plan next steps and map out how to get employees back to their desks safely.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/salesforces-ai-ethics-chief-kathy-baxter-safely-return-office-2021-2",
-      "originalUrl": "https://www.businessinsider.com/salesforces-ai-ethics-chief-kathy-baxter-safely-return-office-2021-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60198cb101504a00197fb2d1?width=1200&format=jpeg",
-          "width": 1085,
-          "height": 542,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-02T10:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-uk-has-launched-first-ethical-automated-facial-recognition-framework.md",
-      "title": "UK Has Launched First Ethical Automated Facial Recognition Framework",
-      "excerpt": "The British Security Industry Association has put out a unique ethical guide to use AI responsibly for businesses that use automated facial recognition in their security systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/uk-has-launched-first-ethical-automated-facial-recognition-framework/",
-      "originalUrl": "https://www.analyticsinsight.net/uk-has-launched-first-ethical-automated-facial-recognition-framework/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/02/‘Industry-first-ethical-Automated-Facial-Recognition-framework-launched-by-BSIA.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-02T09:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-how-normal-people-deployed-facial-recognition-on-capitol-hill-protesters.md",
-      "title": "How Normal People Deployed Facial Recognition on Capitol Hill Protesters",
-      "excerpt": "Facial recognition is now freely accessible to random people on Twitter using a Polish website called Pimeyes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en/article/4ad5k3/how-normal-people-deployed-facial-recognition-on-capitol-hill-protesters",
-      "originalUrl": "https://www.vice.com/en/article/4ad5k3/how-normal-people-deployed-facial-recognition-on-capitol-hill-protesters",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 198,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com/articles/601989938019b80095f88ce7/lede/1612286477494-gettyimages-1230453278.jpeg?crop=1xw:0.8429xh;0xw,0.1571xh",
-          "width": 5128,
-          "height": 2881,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en/article/4ad5k3/how-normal-people-deployed-facial-recognition-on-capitol-hill-protesters",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/4ad5k3/how-normal-people-deployed-facial-recognition-on-capitol-hill-protesters",
-      "publishedDateTime": "2021-02-02T09:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

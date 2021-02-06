@@ -2,6 +2,166 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-11-ionq-ceo-peter-chapman-on-quantum-computing-adoption-innovation-and-whats-next.md",
+      "title": "IonQ CEO Peter Chapman on quantum computing adoption, innovation and what's next",
+      "excerpt": "ZDNet caught up with IonQ CEO Peter Chapman to discuss quantum computing applications, how the cloud will accelerate adoption, software developers and riding innovation curves.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ionq-ceo-peter-chapman-on-quantum-computing-adoption-innovation-and-whats-next/",
+      "originalUrl": "https://www.zdnet.com/article/ionq-ceo-peter-chapman-on-quantum-computing-adoption-innovation-and-whats-next/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2021/01/08/67ab248d-d155-4a4d-ba2d-7f6706f609c6/thumbnail/1200x675/26f35f92fc7f6b52fa9db9a786bb5f86/20210106-chapman-larry.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ionq-ceo-peter-chapman-on-quantum-computing-adoption-innovation-and-whats-next/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ionq-ceo-peter-chapman-on-quantum-computing-adoption-innovation-and-whats-next/",
+      "publishedDateTime": "2021-01-11T03:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-11-review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.md",
+      "title": "Review: Microsoft Azure AI and Machine Learning aims for the enterprise",
+      "excerpt": "Microsoft Azure combines a wide range of cognitive services and a solid platform for machine learning that supports automated ML, no-code/low-code ML, and Python-based notebooks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3602597/review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.html",
+      "originalUrl": "https://www.infoworld.com/article/3602597/review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 230,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2021/01/microsoft-azure-ai-02-100872638-large.jpg",
+          "width": 1200,
+          "height": 1137,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3602597/review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3602597/review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.amp.html",
+      "publishedDateTime": "2021-01-11T03:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-01-11-top-cloud-providers-in-2021-aws-microsoft-azure-and-google-cloud-hybrid-saas-players.md",
+      "title": "Top cloud providers in 2021: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players",
+      "excerpt": "Cloud computing in 2021 has become the de facto choice of IT due to digital transformation shifts accelerated by remote work and the COVID-19 pandemic. Here's a look the cloud leaders stack up, the hybrid market,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/the-top-cloud-providers-of-2021-aws-microsoft-azure-google-cloud-hybrid-saas/",
+      "originalUrl": "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/the-top-cloud-providers-of-2021-aws-microsoft-azure-google-cloud-hybrid-saas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/01/21/9d349185-abe0-4f78-aed7-f1aa4a2010ee/istock-925557862.jpg",
+          "width": 1600,
+          "height": 1068,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/the-top-cloud-providers-of-2021-aws-microsoft-azure-google-cloud-hybrid-saas/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/the-top-cloud-providers-of-2021-aws-microsoft-azure-google-cloud-hybrid-saas/",
+      "publishedDateTime": "2021-01-11T01:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-11-the-most-valuable-software-developer-skills-to-get-hired-now.md",
       "title": "The most valuable software developer skills to get hired now",
       "excerpt": "We identify some of the hot areas where software developers can focus their attention to better stand out from the crowd in a challenging job market.",
@@ -1278,137 +1438,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-28-how-prepared-are-schools-for-online-pre-board-check-details-here.md",
-      "title": "How prepared are schools for online pre-board, check details here",
-      "excerpt": "Choubey takes pride in the “high cognitive abilities” of his students ... Many among them would be taking their pre-boards via Microsoft Teams with cameras installed to ensure cheating-free ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/home/education/news/how-prepared-are-schools-for-online-pre-board-check-details-here/articleshow/79989645.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/home/education/news/how-prepared-are-schools-for-online-pre-board-check-details-here/articleshow/79989645.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/msid-79989609/79989609.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/home/education/news/how-prepared-are-schools-for-online-pre-board-check-details-here/amp_articleshow/79989645.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/home/education/news/how-prepared-are-schools-for-online-pre-board-check-details-here/amp_articleshow/79989645.cms",
-      "publishedDateTime": "2020-12-28T06:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-25-13-acquisitions-highlight-big-techs-ai-talent-grab-in-2020.md",
-      "title": "13 acquisitions highlight Big Tech’s AI talent grab in 2020",
-      "excerpt": "industry-specific data models — and data is what underpins AI. Microsoft said it would combine ADRM’s data models with storage and compute from Azure to support the creation of data lakes.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/25/13-acquisitions-highlight-big-techs-ai-talent-grab-in-2020/",
-      "originalUrl": "https://venturebeat.com/2020/12/25/13-acquisitions-highlight-big-techs-ai-talent-grab-in-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/Untitled-2.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/25/13-acquisitions-highlight-big-techs-ai-talent-grab-in-2020/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/25/13-acquisitions-highlight-big-techs-ai-talent-grab-in-2020/amp/",
-      "publishedDateTime": "2020-12-25T07:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-25-baidu-virgin-galactic-micron-microsoft-and-cloudera-as-zacks-bull-and-bear-of-the-day.md",
-      "title": "Baidu, Virgin Galactic, Micron, Microsoft and Cloudera as Zacks Bull and Bear of the Day",
-      "excerpt": "Zacks Equity Research highlights Baidu BIDU as the Bull of the Day and Virgin Galactic SPCE as the Bear of the Day. In addition, Zacks Equity Research provides analysis on Micron Technology MU , Microsoft MSFT and Cloudera CLDR.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/baidu-virgin-galactic-micron-microsoft-and-cloudera-as-zacks-bull-and-bear-of-the-day-2020",
-      "originalUrl": "https://www.nasdaq.com/articles/baidu-virgin-galactic-micron-microsoft-and-cloudera-as-zacks-bull-and-bear-of-the-day-2020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/baidu-virgin-galactic-micron-microsoft-and-cloudera-as-zacks-bull-and-bear-of-the-day-2020?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-virgin-galactic-micron-microsoft-and-cloudera-as-zacks-bull-and-bear-of-the-day-2020?amp",
-      "publishedDateTime": "2020-12-24T09:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

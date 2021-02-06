@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft's cutting-edge machine-learning tool moves from the lab to the mainstream"
-    excerpt: "Machine learning that can explore the world can solve different problems. These are the Microsoft services that make it something mainstream developers can use."
-    publishedDateTime: 2021-02-01T12:37:00Z
-    webUrl: "https://www.techrepublic.com/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsofts-cutting-edge-machine-learning-tool-moves-from-the-lab-to-the-mainstream/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 150
-    images:
-      - url: "https://tr3.cbsistatic.com/hub/i/r/2021/02/01/1b622622-e749-47c0-9c60-ed09ab784bbe/resize/400x/f50dcab974e7e9400bbc49f5c9acb474/rl-wikipedia-2.jpg"
-        width: 400
-        height: 388
-        isCached: true
   - title: "Microsoft launches Custom Neural Voice in limited access"
     excerpt: "Microsoft today launched Custom Neural Voice in limited preview, a service that allows customers to create custom voices using AI."
     publishedDateTime: 2021-02-03T17:02:00Z
@@ -56,6 +40,70 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Microsoft launches Viva, an AI-powered information hub for enterprises"
+    excerpt: "Microsoft today introduced Microsoft Viva, a hub of services designed to address digital workplace challenges."
+    publishedDateTime: 2021-02-04T14:02:00Z
+    webUrl: "https://venturebeat.com/2021/02/04/microsoft-launches-viva-topics-an-ai-powered-information-curator-for-enterprises/"
+    ampWebUrl: "https://venturebeat.com/2021/02/04/microsoft-launches-viva-topics-an-ai-powered-information-curator-for-enterprises/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/04/microsoft-launches-viva-topics-an-ai-powered-information-curator-for-enterprises/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/02/Jared-Spataro.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Microsoft launches Open AI Energy Initiative in partnership with Shell, C3 AI, others"
+    excerpt: "Microsoft has launched the Open AI Energy Initiative in collaboration with Shell, C3 AI, and Baker Hughes. It aims to offer AI-based scalable and interoperable solutions for the energy sector."
+    publishedDateTime: 2021-02-02T02:54:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-launches-open-ai-energy-initiative-in-partnership-with-shell-c3-ai-others"
+    ampWebUrl: "https://www.neowin.net/amp/microsoft-launches-open-ai-energy-initiative-in-partnership-with-shell-c3-ai-others/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-launches-open-ai-energy-initiative-in-partnership-with-shell-c3-ai-others/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 97
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2017/07/1499866975_microsoft-ai-for-earth_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
+  - title: "Etihad Airways transforms its Finance Operations by leveraging Microsoft AI capabilities"
+    excerpt: "Etihad Airways has carried out a transformation of its Finance Operations through harnessing the power of Microsoft AI. The Finance and Digital, Technology and Innovation divisions worked with Microsoft to modernize their payment inspection process using cognitive services."
+    publishedDateTime: 2021-02-02T12:28:00Z
+    webUrl: "https://www.zawya.com/uae/en/press-releases/story/Etihad_Airways_transforms_its_Finance_Operations_by_leveraging_Microsoft_AI_capabilities-ZAWYA20210202122859/"
+    ampWebUrl: "https://www.zawya.com/uae/en/story/amp/ZAWYA20210202122859/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/ZAWYA20210202122859/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 82
+    images:
+      - url: "https://images.zawya.com/pr/images/2021/Etiha1_2021_02_02.jpg"
+        width: 450
+        height: 300
+        isCached: true
+  - title: "Etihad Airways Transforms Its Finance Operations by Leveraging Microsoft AI Capabilities"
+    excerpt: "Etihad Airways has carried out a transformation of its Finance Operations through harnessing the power of Microsoft AI. The Finance and Digital, Technol"
+    publishedDateTime: 2021-02-03T07:30:00Z
+    webUrl: "https://www.albawaba.com/business/pr/etihad-airways-transforms-its-finance-operations-leveraging-microsoft-ai-capabilities"
+    ampWebUrl: "https://www.albawaba.com/amp/business/pr/etihad-airways-transforms-its-finance-operations-leveraging-microsoft-ai-capabilities"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/etihad-airways-transforms-its-finance-operations-leveraging-microsoft-ai-capabilities"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 82
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2021-02/Etihad%20image%201.jpg?itok=tMPbQ2Tz"
+        width: 960
+        height: 640
         isCached: true
   - title: "Moving from the Lab to the Mainstream - Microsoft's Machine-Learning Tool"
     excerpt: "Now techniques developed by Microsoft are emerging from the lab and moving into production. Perhaps the most significant embodiment of this development is Personalizer, part of Azure Cognitive Services on the Azure AI Platform³."
@@ -73,21 +121,64 @@ related:
         width: 1103
         height: 469
         isCached: true
-  - title: "Machines Are Learning From Each Other, But It's A Good Thing"
-    excerpt: "The ability to transfer learning from one machine to another within the same domain is how machine learning becomes accessible and affordable for most businesses."
-    publishedDateTime: 2021-02-03T13:20:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/03/machines-are-learning-from-each-other-but-its-a-good-thing/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/03/machines-are-learning-from-each-other-but-its-a-good-thing/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/03/machines-are-learning-from-each-other-but-its-a-good-thing/amp/"
+  - title: "Etihad Airways transforms operations with Microsoft AI capabilities"
+    excerpt: "Etihad Airways has carried out a transformation of its finance operations through harnessing the power of Microsoft AI. The Finance and"
+    publishedDateTime: 2021-02-04T14:27:00Z
+    webUrl: "https://www.khaleejtimes.com/business/aviation/etihad-airways-transforms-operations-with-microsoft-ai-capabilities"
+    ampWebUrl: "https://amp.khaleejtimes.com/business/aviation/etihad-airways-transforms-operations-with-microsoft-ai-capabilities"
+    cdnAmpWebUrl: "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/business/aviation/etihad-airways-transforms-operations-with-microsoft-ai-capabilities"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: Khaleej Times
+      domain: khaleejtimes.com
     quality: 74
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60198d97a09e56a8d5a45d7a%2F0x0.jpg"
+      - url: "https://images.khaleejtimes.com/storyimage/KT/20210204/ARTICLE/210209551/AR/0/AR-210209551.jpg&NCS_modified=20210204151537&MaxH=225&imageVersion=16by9"
+        width: 399
+        height: 225
+        isCached: true
+  - title: "Etihad Airways transforms operations with Microsoft AI capabilities"
+    excerpt: "The Finance and Digital, Technology and Innovation divisions worked with Microsoft to modernize their payment inspection process using cognitive services"
+    publishedDateTime: 2021-02-05T05:44:00Z
+    webUrl: "https://www.zawya.com/mena/en/business/story/Etihad_Airways_transforms_operations_with_Microsoft_AI_capabilities-SNG_199629494/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_199629494/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_199629494/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 74
+    images:
+      - url: "https://images.zawya.com/images/cia/zAmp/201122084121FMQX.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Etihad partners with Microsoft AI to transform finance operations"
+    excerpt: "Etihad Airways has carried out a transformation of its Finance Operations through harnessing the power of Microsoft AI. The Finance and Digital, Technology and Innovation divisions worked with Microsoft to modernise their payment inspection process using cognitive services."
+    publishedDateTime: 2021-02-02T00:00:00Z
+    webUrl: "https://www.zawya.com/mena/en/business/story/Etihad_partners_with_Microsoft_AI_to_transform_finance_operations-SNG_199392366/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_199392366/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_199392366/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 71
+  - title: "Shell, C3 AI, Baker Hughes, and Microsoft Launch the Open AI Energy Initiative"
+    excerpt: "Shell, C3 AI, Baker Hughes, and Microsoft have launched the Open AI Energy Initiative (OAI), a first-of-its-kind open ecosystem of artificial intelligence (AI)-based solutions for the energy and process industries,"
+    publishedDateTime: 2021-02-02T08:09:00Z
+    webUrl: "https://www.hartenergy.com/news/shell-c3-ai-baker-hughes-and-microsoft-launch-open-ai-energy-initiative-192146"
+    ampWebUrl: "https://www.hartenergy.com/news/shell-c3-ai-baker-hughes-and-microsoft-launch-open-ai-energy-initiative-192146?amp"
+    cdnAmpWebUrl: "https://www-hartenergy-com.cdn.ampproject.org/c/s/www.hartenergy.com/news/shell-c3-ai-baker-hughes-and-microsoft-launch-open-ai-energy-initiative-192146?amp"
+    type: article
+    provider:
+      name: Hart Energy
+      domain: hartenergy.com
+    quality: 70
+    images:
+      - url: "https://www.hartenergy.com/themes/custom/hart_energy/screenshot.png"
+        width: 605
+        height: 500
         isCached: true
   - title: "Microsoft Debuts Custom Neural Voice for Azure Cognitive Services"
     excerpt: "With Custom Neural Voice, Azure Cognitive Services developers can use AI to generate human-like speech-to-voice for their apps."
@@ -149,6 +240,36 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Microsoft launches Custom Neural Voice in limited access – Jaweb"
+    excerpt: "Microsoft today announced the general availability of Custom Neural Voice, an Azure Cognitive Services product that lets developers create synthetic voices with neural text-to-speech technology. It’s in limited access,"
+    publishedDateTime: 2021-02-03T17:41:00Z
+    webUrl: "https://elmoudjaweb.com/microsoft-launches-custom-neural-voice-in-limited-access-jaweb/"
+    ampWebUrl: "https://elmoudjaweb.com/microsoft-launches-custom-neural-voice-in-limited-access-jaweb/?amp"
+    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/microsoft-launches-custom-neural-voice-in-limited-access-jaweb/?amp"
+    type: article
+    provider:
+      name: Elmoudjaweb
+      domain: elmoudjaweb.com
+    quality: 59
+    images:
+      - url: "https://elmoudjaweb.com/wp-content/uploads/2021/02/Microsoft-launches-Custom-Neural-Voice-in-limited-access-–-Jaweb.png"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "General Dynamics Information Technology to sell Microsoft Azure to US agencies, AWS to Defense"
+    excerpt: "General Dynamics Information Technology will offer Microsoft Azure to all of its federal customers, and make Amazon Web Services available to Defense agencies through the milCloud 2.0 contract. For more breaking data center news,"
+    publishedDateTime: 2021-02-05T12:04:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/general-dynamics-information-technology-sell-microsoft-azure-us-agencies-aws-defense/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 59
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/ConnectedSoldier.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "General Dynamics Information Technology Offers Microsoft Azure to Federal Agencies"
     excerpt: "General Dynamics Information Technology, a business unit of General Dynamics, announced today the signing of Microsoft Partner Agreement for Online Services-Government. Through the recently awarded Defense Enterprise Office Solution contract,"
     publishedDateTime: 2021-02-04T17:30:00Z
@@ -196,6 +317,20 @@ related:
       - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/135080-0121_Trends_480x610-ORG.png"
         width: 480
         height: 610
+        isCached: true
+  - title: "GDIT Signs Microsoft Partner Agreement to Deliver Azure to Federal Agencies"
+    excerpt: "General Dynamics Information Technology (GDIT), a business unit of General Dynamics, has signed a Microsoft Partner Agreement for Online Services-Government (AOS-G), GDIT reported on Thursday. \"Clients across the federal government are rapidly adopting cloud and Software-as-a-Service solutions,"
+    publishedDateTime: 2021-02-05T00:00:00Z
+    webUrl: "https://www.executivegov.com/2021/02/gdit-signs-microsoft-partner-agreement-to-deliver-azure-to-federal-agencies/"
+    type: article
+    provider:
+      name: Executive Gov
+      domain: executivegov.com
+    quality: 52
+    images:
+      - url: "https://executivegov-media.s3.amazonaws.com/2021/01/22/95/47/f5/8c/f7/58/f8/e4/gdit_20200722.png"
+        width: 272
+        height: 270
         isCached: true
   - title: "This Microsoft self-driving car concept takes aim at the ambitious Apple Project Titan"
     excerpt: "With the Microsoft Surface car concept, that feud extends into the world of transportation too! Meet the Microsoft Surface Car, an automobile that beautifully channels the sleek aesthetic of Microsoft’s Surface laptops into its automotive design."
@@ -281,7 +416,30 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Agent Factory announces collaboration with Microsoft to enable Smart Logistics solutions with advanced 3D vision technologies"
+    excerpt: "AGENT FACTORY LTD., based in Israel, announces its collaboration with Microsoft's Azure Depth Platform program, aimed at democratizing"
+    publishedDateTime: 2021-02-03T18:14:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/agent-factory-announces-collaboration-with-microsoft-to-enable-smart-logistics-solutions-with-advanced-3d-vision-technologies-301221519.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 14
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Shell, C3 AI, Baker Hughes, and Microsoft Launch the Open AI Energy Initiative, an Ecosystem of AI Solutions to Help Transform the Energy Industry"
+    excerpt: "Initial Offerings Include AI-Based Reliability Applications to Improve Operational Efficiency for the Energy and Process Industries."
+    publishedDateTime: 2021-02-02T03:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210201005886/en/Shell-C3-AI-Baker-Hughes-and-Microsoft-Launch-the-Open-AI-Energy-Initiative-an-Ecosystem-of-AI-Solutions-to-Help-Transform-the-Energy-Industry"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
-secured: "6pHK7OTIurDmtNlOpD6nO9pemXPh4Amlkd5aaBWt6R9Aeo0V11wvZxbKZaYOSqxKR8M0ZvskQg1hcSMqumeKxcdDBQjb70rofr2YNRkxtqHwzmK9bpSeJbIOzheZb7dP+xqIPl1gl3kFZegQh63tgefgROrXreVdNuOHFEtrCKDiJe3gV5YU4MI/cjevY5h0XydEJBFHKD+Q935TIjqfpDJVvQCdEfjFKR7/iWbLYD4Kx2cubMDO/1TsdIe/UmABy3c+CPA8zce3OjbFTQVRHXTif6ED8oSCvNJ8tVWTN6oQqmHBxfyDys9Tdyb/kjvLUy1hE8ENpX79rQRyrE8ASvmJF4HawV+JojvqPFZG3es=;5fWV9yShglF1loYH0/QPCw=="
+secured: "h/ayLOYaCEJWQ3AmmCVmLSIbkrXqxKyN4kIHpLNWZV1S0X2VtnCfXBJYUAam5UFbCgY1Cc95Wmbxjk6tX1YRvrWsOj0ZsPBlDIi8NUx62uVJyjY57O9TisaGCXf9CqOkkYjU2QsCpZBAdjRh4VBZqLboL01CQIb2Db0NxU3T7K1EKJxl2w/FYuSL+mnZkQYvtSGPlXMk++vt3YlLEL2J6DuhAFbbLk5vOGJxmltyr8Yv4gc5yMcAuwu+9J4FPRqctzg+zUxpqNXZbYzoXbawL5hY7gvjP/t6pIwYPuhtgCrg5cIRTCpRh/IZDbQgzqYWi5sVruTqSFuj4G0ReHP2XMCPOvL2ewOFzMT4xXgxSXs=;kYz+6gThLhWSLfoDAeZpnw=="
 ---
 

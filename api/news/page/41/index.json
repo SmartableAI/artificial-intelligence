@@ -2,6 +2,249 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2021-01-07-ai-math-solver-app-qanda-emerges-as-no1-education-app-in-indonesia.md",
+      "title": "AI Math-Solver App QANDA Emerges as No.1 Education App in Indonesia",
+      "excerpt": "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net SEOUL, South Korea, Jan. 7, 2021 /PRNewswire/ -- Seoul-based edtech startup Mathpresso announced that its AI-based math ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-math-solver-app-qanda-emerges-as-no-1-education-app-in-indonesia-1029939006",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-math-solver-app-qanda-emerges-as-no-1-education-app-in-indonesia-1029939006",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1393974/Mathpresso_Indonesia_PR_Image.jpg",
+          "width": 400,
+          "height": 279,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-06T18:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-this-stealth-startup-is-using-electrical-stimulation-to-help-people-walk-again.md",
+      "title": "This Stealth Startup Is Using Electrical Stimulation to Help People Walk Again",
+      "excerpt": "Some 33 million people in the U.S., or 1 in 7 Americans, have disabilities related to mobility, according to the Center for Disease Control and Prevention. Considered something of a silent health epidemic,",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/this-stealth-startup-is-using-electrical-stimulation-to-1845997982",
+      "originalUrl": "https://gizmodo.com/this-stealth-startup-is-using-electrical-stimulation-to-1845997982",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/f_auto,pg_1/adosm3mf3bvj0qcngv4v.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/this-stealth-startup-is-using-electrical-stimulation-to-1845997982/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/this-stealth-startup-is-using-electrical-stimulation-to-1845997982/amp",
+      "publishedDateTime": "2021-01-06T18:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-microsoft-deberta-surpasses-human-performance-on-the-superglue-benchmark.md",
+      "title": "Microsoft DeBERTa surpasses human performance on the SuperGLUE benchmark",
+      "excerpt": "The Microsoft AI model DeBERTa—being integrated into the next version of Microsoft Turing—set a new state of the art in natural language understanding. Learn how it uses 3 novel techniques to surpass human performance on and top the SuperGLUE leaderboard.",
+      "sourceUrl": null,
+      "webUrl": "https://www.microsoft.com/en-us/research/blog/microsoft-deberta-surpasses-human-performance-on-the-superglue-benchmark/",
+      "originalUrl": "https://www.microsoft.com/en-us/research/blog/microsoft-deberta-surpasses-human-performance-on-the-superglue-benchmark/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.microsoft.com/en-us/research/uploads/prod/2021/01/1400x788_Deberta_nologo_still-scaled.jpg",
+          "width": 2560,
+          "height": 1441,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-06T16:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-brief-novartis-microsoft-announce-artificial-intelligence-collaboration.md",
+      "title": "BRIEF-Novartis, Microsoft Announce Artificial Intelligence Collaboration",
+      "excerpt": "JOINT RESEARCH ACTIVITIES WILL INCLUDE PERSONALIZED THERAPIES FOR MACULAR DEGENERATION, CELL & GENE THERAPY, DRUG DESIGN Source text for Eikon: Further company coverage: (Berlin Speed Desk ...",
+      "sourceUrl": null,
+      "webUrl": "https://uk.reuters.com/article/brief-novartis-microsoft-announce-artifi/brief-novartis-microsoft-announce-artificial-intelligence-collaboration-idUKASP0017LB",
+      "originalUrl": "https://uk.reuters.com/article/brief-novartis-microsoft-announce-artifi/brief-novartis-microsoft-announce-artificial-intelligence-collaboration-idUKASP0017LB",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKASP0017LB",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKASP0017LB",
+      "publishedDateTime": "2021-01-06T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-kenya-africa-hurdles-in-artificial-intelligence-race.md",
+      "title": "Kenya, Africa hurdles in artificial intelligence race",
+      "excerpt": "Kenya is still miles behind in positioning itself for the takeoff of Artificial Intelligence ... is the format used to create algorithms for self-driving cars, weather forecasting, crucial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessdailyafrica.com/bd/corporate/technology/kenya-africa-hurdles-in-artificial-intelligence-race-3249180",
+      "originalUrl": "https://www.businessdailyafrica.com/bd/corporate/technology/kenya-africa-hurdles-in-artificial-intelligence-race-3249180",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.businessdailyafrica.com/resource/blob/3249182/966dcf7e64b7aa712da263fe44aa12be/ai-data.jpg",
+          "width": 890,
+          "height": 445,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessdailyafrica.com/bd/corporate/technology/kenya-africa-hurdles-in-artificial-intelligence-race-3249180?view=htmlamp",
+      "cdnAmpWebUrl": "https://www-businessdailyafrica-com.cdn.ampproject.org/c/s/www.businessdailyafrica.com/bd/corporate/technology/kenya-africa-hurdles-in-artificial-intelligence-race-3249180?view=htmlamp",
+      "publishedDateTime": "2021-01-06T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Daily Africa",
+        "domain": "businessdailyafrica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-openais-dall-e-turns-weird-text-into-weird-images.md",
       "title": "OpenAI's DALL-E turns weird text into weird images",
       "excerpt": "OpenAI is known for developing impressive AI models like GPT-2 and GPT-3, which are capable of writing believable fake news but can also become essential tools",
@@ -976,255 +1219,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-the-us-needs-more-foreign-artificial-intelligence-know-how.md",
-      "title": "The US Needs More Foreign Artificial Intelligence Know-How",
-      "excerpt": "Jason Furman, a top economic adviser to President Obama, says good ideas come from everywhere—but Trump has dissuaded tech workers from coming to the US.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/us-needs-more-foreign-artificial-intelligence-know-how/",
-      "originalUrl": "https://www.wired.com/story/us-needs-more-foreign-artificial-intelligence-know-how/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ff51e1eadb00d267b4a3569/master/pass/Business-Jason-Furman-1022466816.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/us-needs-more-foreign-artificial-intelligence-know-how/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/us-needs-more-foreign-artificial-intelligence-know-how/amp",
-      "publishedDateTime": "2021-01-06T04:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-what-buddhism-can-do-for-ai-ethics.md",
-      "title": "What Buddhism can do for AI ethics",
-      "excerpt": "Buddhism teaches us to focus our energy on eliminating suffering in the world. The explosive growth of artificial intelligence has fostered hope that it will help us solve many of the world’s most intractable problems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2021/01/06/1015779/what-buddhism-can-do-ai-ethics/",
-      "originalUrl": "https://www.technologyreview.com/2021/01/06/1015779/what-buddhism-can-do-ai-ethics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/01/SA_celine-haeberly-DwpmtAo01fY-unsplash.jpeg?w=3000",
-          "width": 3000,
-          "height": 1688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2021/01/06/1015779/what-buddhism-can-do-ai-ethics/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/01/06/1015779/what-buddhism-can-do-ai-ethics/amp/",
-      "publishedDateTime": "2021-01-06T03:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-how-to-merge-data-in-python-using-pandas-merge.md",
-      "title": "How to merge data in Python using Pandas merge",
-      "excerpt": "Use the popular Pandas library for data manipulation and analysis to read data from two files and join them into a single dataset.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3600911/how-to-merge-data-in-python-using-pandas-merge.html",
-      "originalUrl": "https://www.infoworld.com/article/3600911/how-to-merge-data-in-python-using-pandas-merge.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2015/09/convergence-railroad-tracks-merge-aquisitions-100613703-large.jpg",
-          "width": 1200,
-          "height": 795,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3600911/how-to-merge-data-in-python-using-pandas-merge.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3600911/how-to-merge-data-in-python-using-pandas-merge.amp.html",
-      "publishedDateTime": "2021-01-06T03:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-tencent-invests-in-chinese-ai-chip-start-up-as-part-of-279-million-funding-round.md",
-      "title": "Tencent invests in Chinese A.I. chip start-up as part of $279 million funding round",
-      "excerpt": "China has been looking to ramp up its capabilities in both AI and semiconductors as the tech war with the U.S. continues.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/01/06/tencent-invests-in-chinese-ai-chip-start-up-enflame.html",
-      "originalUrl": "https://www.cnbc.com/2021/01/06/tencent-invests-in-chinese-ai-chip-start-up-enflame.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106692661-1599449811224-gettyimages-1267327926-pre_9603.jpeg?v=1606698747",
-          "width": 2122,
-          "height": 1412,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/01/06/tencent-invests-in-chinese-ai-chip-start-up-enflame.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/06/tencent-invests-in-chinese-ai-chip-start-up-enflame.html",
-      "publishedDateTime": "2021-01-06T01:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-temasek-fund-backs-india-startup-bringing-ai-technology-to-farms.md",
-      "title": "Temasek Fund Backs India Startup Bringing AI Technology to Farms",
-      "excerpt": "CropIn, an artificial intelligence and data-based agritech startup, has raised $20 million in a funding round led by Temasek Holdings Pte-backed ABC World Asia, as the coronavirus pandemic accelerates the adoption of digital technologies in farming.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-01-06/temasek-fund-backs-india-startup-bringing-ai-technology-to-farms",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-01-06/temasek-fund-backs-india-startup-bringing-ai-technology-to-farms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBCBhH8vKSWs/v0/360x-1.jpg",
-          "width": 360,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2021-01-06/temasek-fund-backs-india-startup-bringing-ai-technology-to-farms",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2021-01-06/temasek-fund-backs-india-startup-bringing-ai-technology-to-farms",
-      "publishedDateTime": "2021-01-06T00:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

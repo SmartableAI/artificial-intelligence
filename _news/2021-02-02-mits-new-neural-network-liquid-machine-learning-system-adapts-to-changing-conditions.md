@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI: MIT scientists develop a new ‘liquid’ neural network – ‘future of robot control’"
-    excerpt: "MIT scientists have developed a type of neural network that learns on the job, not just during its training phase. These flexible algorithms, dubbed “liquid” networks, change their underlying equations to continuously adapt to new data inputs."
-    publishedDateTime: 2021-02-01T11:06:00Z
-    webUrl: "https://www.tunisiesoir.com/science/ai-mit-scientists-develop-a-new-liquid-neural-network-future-of-robot-control-26558-2021/"
-    ampWebUrl: "https://www.tunisiesoir.com/science/ai-mit-scientists-develop-a-new-liquid-neural-network-future-of-robot-control-26558-2021/?amp"
-    cdnAmpWebUrl: "https://www-tunisiesoir-com.cdn.ampproject.org/c/s/www.tunisiesoir.com/science/ai-mit-scientists-develop-a-new-liquid-neural-network-future-of-robot-control-26558-2021/?amp"
-    type: article
-    provider:
-      name: Tunisie Soir
-      domain: tunisiesoir.com
-    quality: 84
-    images:
-      - url: "https://www.tunisiesoir.com/wp-content/uploads/2021/02/AI-MIT-scientists-develop-a-new-‘liquid-neural-network-‘future-of-robot-control.jpg"
-        width: 600
-        height: 400
-        isCached: true
   - title: "MIT is developing a new fluid-type neural network"
     excerpt: "In a blog post on January 28, 2021, a team of researchers from the Massachusetts Institute of Technology presented their research on a new type of neural network. According to their writings, this deep learning algorithm would be a training technique better suited to processing sequential data,"
     publishedDateTime: 2021-02-01T21:39:00Z

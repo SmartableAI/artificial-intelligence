@@ -35,6 +35,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 44
+  - title: "Talking Medicines Launches AI-Powered Patient Intelligence Platform to Revolutionize Marketing for World’s Leading Drug Brands"
+    excerpt: "Talking Medicines has today (Thursday 4 February) launched an AI-powered social intelligence service, PatientMetRx, giving the world’s leading drug brands insights on patient experience on a scale and depth never previously possible."
+    publishedDateTime: 2021-02-04T11:13:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/science-business-technology-products-and-services-media-1e1bfb36d8944678a13496401aafdf00"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 28
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "tX94tkxI83tbIybpg1kTjwDXw1JyFrJDBoZ9paQd7AghKEraJpIMPRmyQWiSH/aFiV1BoZwop2OMk0y8Hkg1fXXvIIjczNhXJLM/XbLiz82P6nXY0C6MGdRQA9LtEEMZRxO40prjoppnXGVM1eiyCsLf5Iok8cGLshPyvBRXs28nDr5rCqoRThX5M81bnGZIVxS5QmZHs3q02d1PwYthjQSeU3EkEdZUC0IxZ37CtzK0S6prsL7WdbqWb1sQqCTO8zEe07dy+ciTcErW4atlOgtSeMUEDajh9xO3HDrUGVIXimsCnBW/B5hlADPoNby3HXIxe/AMh3NtmXJKICZ973J7QkAERiqOThonH53L7hU=;oUR9pONgqZ6THflGveDxrw=="
 ---

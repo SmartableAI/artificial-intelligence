@@ -359,50 +359,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-03-uk-has-launched-first-ethical-automated-facial-recognition-framework.md",
-      "title": "UK Has Launched First Ethical Automated Facial Recognition Framework",
-      "excerpt": "The British Security Industry Association has put out a unique ethical guide to use AI responsibly for businesses that use automated facial recognition in their security systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/uk-has-launched-first-ethical-automated-facial-recognition-framework/",
-      "originalUrl": "https://www.analyticsinsight.net/uk-has-launched-first-ethical-automated-facial-recognition-framework/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/02/‘Industry-first-ethical-Automated-Facial-Recognition-framework-launched-by-BSIA.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-02T09:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_news/2021-02-03-how-normal-people-deployed-facial-recognition-on-capitol-hill-protesters.md",
       "title": "How Normal People Deployed Facial Recognition on Capitol Hill Protesters",
       "excerpt": "Facial recognition is now freely accessible to random people on Twitter using a Polish website called Pimeyes.",
@@ -1458,6 +1414,40 @@
       "provider": {
         "name": "Windows",
         "domain": "compsmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-svi-teams-with-idemia-nss-to-offer-worlds-most-advanced-fmcw-4d-lidar-biometric-recognition-solution.md",
+      "title": "SVI Teams with IDEMIA NSS to Offer World’s Most Advanced FMCW 4D LiDAR Biometric Recognition Solution",
+      "excerpt": "The solution combines NSS’s world-class biometric software with SVI’s superior 4D FMCW LiDAR system technology. FMCW LiDAR, which is short for “frequency-modulated continuous wave light detection and ranging,",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/globe-newswire/8140476/svi-teams-with-idemia-nss-to-offer-worlds-most-advanced-fmcw-4d-lidar-biometric-recognition-solution",
+      "originalUrl": "https://www.morningstar.com/news/globe-newswire/8140476/svi-teams-with-idemia-nss-to-offer-worlds-most-advanced-fmcw-4d-lidar-biometric-recognition-solution",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-25T08:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
         "images": null,
         "publishers": null,
         "authors": null

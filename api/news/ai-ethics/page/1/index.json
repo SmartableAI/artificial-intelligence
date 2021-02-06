@@ -97,6 +97,58 @@
       ]
     },
     {
+      "path": "_news/2021-02-05-ai-reading-list-8-interesting-books-about-artificial-intelligence-to-check-out.md",
+      "title": "AI reading list: 8 interesting books about artificial intelligence to check out",
+      "excerpt": "These eight books about artificial intelligence cover a range of topics, including ethical issues, how AI is affecting the job market, and how organizations can use AI to gain a competitive advantage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
+      "originalUrl": "https://www.techrepublic.com/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2021/02/02/12791f95-34d0-4745-b925-969861beab17/resize/1200x900/c78d0cc8a33af41d91857d238e02bdef/t-minus-ai.jpg",
+          "width": 603,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
+      "publishedDateTime": "2021-02-04T08:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-04-two-google-engineers-resign-over-firing-of-ai-ethics-researcher.md",
       "title": "Two Google engineers resign over firing of AI ethics researcher",
       "excerpt": "An engineering director and a software developer have quit Alphabet's Google over the dismissal of AI researcher Timnit Gebru, a sign of the ongoing conflicts at the search giant over diversity and ethics.",
@@ -287,21 +339,21 @@
       ]
     },
     {
-      "path": "_news/2021-02-03-uk-has-launched-first-ethical-automated-facial-recognition-framework.md",
-      "title": "UK Has Launched First Ethical Automated Facial Recognition Framework",
-      "excerpt": "The British Security Industry Association has put out a unique ethical guide to use AI responsibly for businesses that use automated facial recognition in their security systems.",
+      "path": "_news/2021-02-02-microsoft-and-the-workplace-of-the-future-how-ai-can-help-you-build-more-productive-relationships-with-your-colleagues.md",
+      "title": "Microsoft and the workplace of the future: How AI can help you build more productive relationships with your colleagues",
+      "excerpt": "Microsoft wants to help organizations use their data to deliver experiences, insights and outcomes. But careful design, clear ethics and full transparency are required to keep the AI in check.",
       "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/uk-has-launched-first-ethical-automated-facial-recognition-framework/",
-      "originalUrl": "https://www.analyticsinsight.net/uk-has-launched-first-ethical-automated-facial-recognition-framework/",
+      "webUrl": "https://www.techrepublic.com/article/microsoft-and-the-workplace-of-the-future-how-ai-can-help-you-build-more-productive-relationships-with-your-colleagues/",
+      "originalUrl": "https://www.techrepublic.com/article/microsoft-and-the-workplace-of-the-future-how-ai-can-help-you-build-more-productive-relationships-with-your-colleagues/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 82,
       "tags": null,
       "images": [
         {
-          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/02/‘Industry-first-ethical-Automated-Facial-Recognition-framework-launched-by-BSIA.jpg",
-          "width": 900,
-          "height": 500,
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2021/02/02/0913614a-f6f7-4acd-ae1b-db7ac3fbdf31/resize/1200x/76e6ecdbcb386ba09f38fbb29f53d792/ms-365-mwt-building-blocks.jpg",
+          "width": 1200,
+          "height": 678,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -309,14 +361,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-02T09:50:00-08:00",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-and-the-workplace-of-the-future-how-ai-can-help-you-build-more-productive-relationships-with-your-colleagues/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-and-the-workplace-of-the-future-how-ai-can-help-you-build-more-productive-relationships-with-your-colleagues/",
+      "publishedDateTime": "2021-02-02T03:22:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -325,9 +386,9 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
+        "AI Ethics",
         "AI",
-        "AI Ethics"
+        "Microsoft AI"
       ]
     },
     {
@@ -1414,49 +1475,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-ai-systems-to-get-an-ethics-code-dod.md",
-      "title": "AI Systems to get an Ethics Code: DoD",
-      "excerpt": "Ethical considerations will go into Artificial Intelligence (AI)’s design and employment because it enables autonomy, decision making and system execution at incredibly fast speeds, a DoD official said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.defenseworld.net/news/28810/AI_Systems_to_get_an_Ethics_Code__DoD",
-      "originalUrl": "https://www.defenseworld.net/news/28810/AI_Systems_to_get_an_Ethics_Code__DoD",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.defenseworld.net/uploads//news/big/autonomou_1608524511.jpg",
-          "width": 640,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-21T21:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Defense World",
-        "domain": "defenseworld.net",
-        "images": null,
         "publishers": null,
         "authors": null
       },

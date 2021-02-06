@@ -161,12 +161,12 @@ related:
         isCached: true
   - title: "Worldwide Machine Learning Industry to 2030 - Featuring BigML, Featurespace and Google Among Others - ResearchAndMarkets.com"
     excerpt: "The \"Machine Learning Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2020-2030\" report has been added to ResearchAndMarkets.com's offering. A latest study collated and analyzes the historical and present-day scenario of the global machine learning market to accurately gauge its potential future development."
-    publishedDateTime: 2021-02-05T11:43:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210205005219/worldwide-machine-learning-industry-to-2030-featuring-bigml-featurespace-and-google-among-others-researchandmarketscom"
+    publishedDateTime: 2021-02-05T11:12:00Z
+    webUrl: "https://www.oaoa.com/news/business/worldwide-machine-learning-industry-to-2030---featuring-bigml-featurespace-and-google-among-others/article_b191664c-4a60-5db4-ae99-820059783f1c.html"
     type: article
     provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
+      name: Odessa American
+      domain: oaoa.com
     quality: 7
   - title: "Global Mobile Speech Recognition Software Market Report 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026"
     excerpt: "The Mobile Speech Recognition Software market is expected to grow from USD X.X million in 2020 to USD X.X million by 2026, at a CAGR of X.X% during the forecast period. The global Mobile Speech Recognition Software market report is a comprehensive research that focuses on the overall consumption structure,"

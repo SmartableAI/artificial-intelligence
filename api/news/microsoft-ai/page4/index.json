@@ -2,6 +2,137 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-28-how-prepared-are-schools-for-online-pre-board-check-details-here.md",
+      "title": "How prepared are schools for online pre-board, check details here",
+      "excerpt": "Choubey takes pride in the “high cognitive abilities” of his students ... Many among them would be taking their pre-boards via Microsoft Teams with cameras installed to ensure cheating-free ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/home/education/news/how-prepared-are-schools-for-online-pre-board-check-details-here/articleshow/79989645.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/home/education/news/how-prepared-are-schools-for-online-pre-board-check-details-here/articleshow/79989645.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/msid-79989609/79989609.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/home/education/news/how-prepared-are-schools-for-online-pre-board-check-details-here/amp_articleshow/79989645.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/home/education/news/how-prepared-are-schools-for-online-pre-board-check-details-here/amp_articleshow/79989645.cms",
+      "publishedDateTime": "2020-12-28T06:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-25-13-acquisitions-highlight-big-techs-ai-talent-grab-in-2020.md",
+      "title": "13 acquisitions highlight Big Tech’s AI talent grab in 2020",
+      "excerpt": "industry-specific data models — and data is what underpins AI. Microsoft said it would combine ADRM’s data models with storage and compute from Azure to support the creation of data lakes.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/25/13-acquisitions-highlight-big-techs-ai-talent-grab-in-2020/",
+      "originalUrl": "https://venturebeat.com/2020/12/25/13-acquisitions-highlight-big-techs-ai-talent-grab-in-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/Untitled-2.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/25/13-acquisitions-highlight-big-techs-ai-talent-grab-in-2020/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/25/13-acquisitions-highlight-big-techs-ai-talent-grab-in-2020/amp/",
+      "publishedDateTime": "2020-12-25T07:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-25-baidu-virgin-galactic-micron-microsoft-and-cloudera-as-zacks-bull-and-bear-of-the-day.md",
+      "title": "Baidu, Virgin Galactic, Micron, Microsoft and Cloudera as Zacks Bull and Bear of the Day",
+      "excerpt": "Zacks Equity Research highlights Baidu BIDU as the Bull of the Day and Virgin Galactic SPCE as the Bear of the Day. In addition, Zacks Equity Research provides analysis on Micron Technology MU , Microsoft MSFT and Cloudera CLDR.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/baidu-virgin-galactic-micron-microsoft-and-cloudera-as-zacks-bull-and-bear-of-the-day-2020",
+      "originalUrl": "https://www.nasdaq.com/articles/baidu-virgin-galactic-micron-microsoft-and-cloudera-as-zacks-bull-and-bear-of-the-day-2020",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/baidu-virgin-galactic-micron-microsoft-and-cloudera-as-zacks-bull-and-bear-of-the-day-2020?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-virgin-galactic-micron-microsoft-and-cloudera-as-zacks-bull-and-bear-of-the-day-2020?amp",
+      "publishedDateTime": "2020-12-24T09:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-24-galvanize-now-supports-complianceai-with-strategic-partnership-for-modernized-grc-solutions.md",
       "title": "Galvanize Now Supports Compliance.ai with Strategic Partnership for Modernized GRC Solutions",
       "excerpt": "Galvanize, the global leader in SaaS governance, risk, and compliance (GRC) software, today announced a strategic partnership with Compliance.ai, the leading AI-driven regulatory compliance technology,",
@@ -1216,153 +1347,6 @@
         "AI",
         "AI Hardware",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-c3ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade.md",
-      "title": "C3.ai IPO adds to enterprise software deal boom with 100%-plus gains in opening day trade",
-      "excerpt": "C3.ai, an enterprise software start-up founded by Tom Siebel, soared by more than 100% in its first day of trading amid a hot initial public offering market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/12/09/c3ai-ipo-adds-to-software-deal-boom-with-100percent-gain-in-trading.html",
-      "originalUrl": "https://www.cnbc.com/2020/12/09/c3ai-ipo-adds-to-software-deal-boom-with-100percent-gain-in-trading.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106797794-1605567570876-NYSE_Trading_Floor-Photo-20201116-Press-16.jpg?v=1605567655",
-          "width": 6271,
-          "height": 4181,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/12/09/c3ai-ipo-adds-to-software-deal-boom-with-100percent-gain-in-trading.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/09/c3ai-ipo-adds-to-software-deal-boom-with-100percent-gain-in-trading.html",
-      "publishedDateTime": "2020-12-09T19:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-microsoft-doubles-its-money-after-backing-c3ai-as-it-goes-public.md",
-      "title": "Microsoft doubles its money after backing C3.ai as it goes public",
-      "excerpt": "The two companies announced a partnership in 2018 to promote C3's software running on Microsoft's public cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/12/09/microsoft-sees-gain-on-c3ai-investment-concurrent-with-ipo.html",
-      "originalUrl": "https://www.cnbc.com/2020/12/09/microsoft-sees-gain-on-c3ai-investment-concurrent-with-ipo.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106808319-1607474344177-gettyimages-962079778-FRANCE_VIVA_TECH.jpeg?v=1607474512",
-          "width": 4000,
-          "height": 2667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/12/09/microsoft-sees-gain-on-c3ai-investment-concurrent-with-ipo.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/09/microsoft-sees-gain-on-c3ai-investment-concurrent-with-ipo.html",
-      "publishedDateTime": "2020-12-09T09:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-microsoft-msft-makes-azure-digital-twins-generally-available.md",
-      "title": "Microsoft (MSFT) Makes Azure Digital Twins Generally Available",
-      "excerpt": "Azure Digital Twins modeling platform is in general release and is being integrated with an offering from Johnson Controls (JCI).",
-      "sourceUrl": null,
-      "webUrl": "https://www.investopedia.com/microsoft-makes-azure-digital-twins-generally-available-5090654",
-      "originalUrl": "https://www.investopedia.com/microsoft-makes-azure-digital-twins-generally-available-5090654",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.investopedia.com/thmb/gCCXHPyDiwd9l0cbPqW68Iyk2Vo=/6000x4001/filters:fill(auto,1)/hand-holding-tablet-with-wifi-icon-on-city-and-network-connection-concept--bangkok-smart-city-and-wireless-communication-network--abstract-image-visual--internet-of-things--627698790-593f28255f9b58d58add7427.jpg",
-          "width": 6000,
-          "height": 4001,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-09T08:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Investopedia",
-        "domain": "investopedia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],
