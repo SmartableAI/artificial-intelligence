@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-06-delta-expanding-facial-recognition-technology-to-domestic-flights-in-detroit.md",
+      "title": "Delta expanding facial recognition technology to domestic flights in Detroit",
+      "excerpt": "Delta Air Lines is bringing facial recognition technology to domestic flights. Last week, the airline announced that it is launching its digital ID technology for domestic flights out of Detroit Metropolitan Wayne County Airport.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/travel/delta-expands-facial-recognition-domestic-detroit",
+      "originalUrl": "https://www.foxnews.com/travel/delta-expands-facial-recognition-domestic-detroit",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Delta_iStock-1263361477.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/travel/delta-expands-facial-recognition-domestic-detroit.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/travel/delta-expands-facial-recognition-domestic-detroit.amp",
+      "publishedDateTime": "2021-02-05T17:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-05-the-ai-industry-is-built-on-geographic-and-social-inequality-research-shows.md",
       "title": "The AI industry is built on geographic and social inequality, research shows",
       "excerpt": "Researchers find that the AI industry is build on geographic and social inequality, but opportunities exist to change this.",
@@ -515,7 +567,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/01/self-driving-cars-are-faced-with-too-many-moving-objects-and-too-little-time/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 133,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -1406,40 +1458,6 @@
       "provider": {
         "name": "Windows",
         "domain": "compsmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-svi-teams-with-idemia-nss-to-offer-worlds-most-advanced-fmcw-4d-lidar-biometric-recognition-solution.md",
-      "title": "SVI Teams with IDEMIA NSS to Offer World’s Most Advanced FMCW 4D LiDAR Biometric Recognition Solution",
-      "excerpt": "The solution combines NSS’s world-class biometric software with SVI’s superior 4D FMCW LiDAR system technology. FMCW LiDAR, which is short for “frequency-modulated continuous wave light detection and ranging,",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/globe-newswire/8140476/svi-teams-with-idemia-nss-to-offer-worlds-most-advanced-fmcw-4d-lidar-biometric-recognition-solution",
-      "originalUrl": "https://www.morningstar.com/news/globe-newswire/8140476/svi-teams-with-idemia-nss-to-offer-worlds-most-advanced-fmcw-4d-lidar-biometric-recognition-solution",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-25T08:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
         "images": null,
         "publishers": null,
         "authors": null

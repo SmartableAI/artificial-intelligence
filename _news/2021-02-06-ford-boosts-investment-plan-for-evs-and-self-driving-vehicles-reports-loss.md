@@ -27,36 +27,17 @@ images:
     isCached: true
 
 related:
-  - title: "Ford boosts investment plan for EVs and self driving vehicles, reports loss"
-    excerpt: "Ford Motor Co on Thursday more than doubled the amount of money it plans to invest on electric and autonomous vehicles, to $29 billion, even as it posted a fourth-quarter net loss of $2.8 billion."
-    publishedDateTime: 2021-02-05T05:46:00Z
-    webUrl: "https://www.reuters.com/article/us-ford-motor-results-idUSKBN2A42VN"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A42VN"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A42VN"
+  - title: "Ford Boosts Investment Plan for EVs and Self Driving Vehicles, Reports Loss"
+    excerpt: "Ford Motor Co on Thursday boosted the amount of money it plans to invest on electric and autonomous vehicles to $29 billion even as it posted a fourth-quarter net loss of $2.8 billion. The No. 2 U.S."
+    publishedDateTime: 2021-02-04T21:24:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-02-04/ford-boosts-investment-plan-for-evs-and-self-driving-vehicles-reports-loss"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-02-04/ford-boosts-investment-plan-for-evs-and-self-driving-vehicles-reports-loss?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-02-04/ford-boosts-investment-plan-for-evs-and-self-driving-vehicles-reports-loss?context=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 87
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210204&t=2&i=1550375700&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH131PT"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Ford posts strong results, promises big bet on electric and self-driving cars"
-    excerpt: "By Chris Isidore, CNN Business Ford reported surprisingly good financial results at the end of a tough year, and said it was increasing its commitment to vehicles of the future with a big"
-    publishedDateTime: 2021-02-05T10:08:00Z
-    webUrl: "https://www.kten.com/story/43295286/ford-posts-strong-results-promises-big-bet-on-electric-and-self-driving-cars"
-    type: article
-    provider:
-      name: KTEN
-      domain: kten.com
-    quality: 21
-    images:
-      - url: "https://CNNWIRE.images.worldnow.com/images/20336791_G.jpg?lastEditedDate=1612462806000"
-        width: 500
-        height: 333
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 67
 
 secured: "fAPYlfjzBzjVlEHmBOovf6JlLzkMOqUD7H0fRCQDWPFl/zGaQROpohGsPvSEoqPAIP1jpoi8F6zbz9fdlvIEE5l4NHxLAUQ36IStoODQyBI8GRxae33v3fOA6Vr4GKKOlNkZ0CsAzCsB1pXtxhU6XUQ3tu89KDoXbE7qUPb4Q0njRFTT5jJHYyZ28XP8laOn+nEjXrs91xxQmrpn2tfFvCpUxk7Cm468wcQBJL5KO2JH2vmj5vHQJqrl7DU44Eh0i/O+B+s0/DqFEHv0d4CWlcNVHR6qiQ/4jKyICEIrIlvydHK1GOUKB2antjSCpOx691m6ulfar+YSglP0QaO3hao98d9jRLr0EtOmzjmZ1n0=;ikYup9Nk2OU4ty8655uyMA=="
 ---

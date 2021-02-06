@@ -43,20 +43,6 @@ related:
         width: 850
         height: 400
         isCached: true
-  - title: "Cognitive Analytics Market size Rising Trends and New Technologies Research Forecast to 2026"
-    excerpt: "The Cognitive Analytics market is anticipated to reach over USD 48 billion by 2026 according to a new research published by The marker research report. In 2017, the large enterprises segment dominated the global market,"
-    publishedDateTime: 2021-02-01T10:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-size-rising-trends-and-new-technologies-research-forecast-to-2026-2021-02-01?tesla=y"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Analytics startup signs COTA as first client"
     excerpt: "Ikonos Analytics is the brainchild of Women in Analytics founder Rehgan Avon and operations specialist Allie Dauterman."
     publishedDateTime: 2021-02-02T23:42:00Z

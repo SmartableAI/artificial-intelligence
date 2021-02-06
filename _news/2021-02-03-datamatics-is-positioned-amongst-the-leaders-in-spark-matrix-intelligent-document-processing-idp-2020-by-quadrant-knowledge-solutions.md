@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Datamatics is Positioned amongst the Leaders in SPARK Matrix: Intelligent Document Processing (IDP), 2020 by Quadrant Knowledge Solutions"
-excerpt: "Datamatics, a global IT, Consulting, BPM and Data Management Company, has been ranked by global advisory and consulting firm Quadrant Knowledge Solutions amongst"
+excerpt: "Datamatics, a global IT, Consulting, BPM and Data Management Company, has been ranked by global advisory and consulting firm Quadrant"
 publishedDateTime: 2021-02-03T12:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/datamatics-is-positioned-amongst-the-leaders-in-spark-matrix-intelligent-document-processing-idp-2020-by/article_ecaf0ba9-d752-5971-8e3d-22bcda5e1b3a.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/datamatics-is-positioned-amongst-the-leaders-in-spark-matrix-intelligent-document-processing-idp-2020-by/article_ecaf0ba9-d752-5971-8e3d-22bcda5e1b3a.html"
+originalUrl: "https://www.prnewswire.com/news-releases/datamatics-is-positioned-amongst-the-leaders-in-spark-matrix-intelligent-document-processing-idp-2020-by-quadrant-knowledge-solutions-301221125.html"
+webUrl: "https://www.prnewswire.com/news-releases/datamatics-is-positioned-amongst-the-leaders-in-spark-matrix-intelligent-document-processing-idp-2020-by-quadrant-knowledge-solutions-301221125.html"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/17/5176e5a2-6f84-5cef-9a86-bb14fc4711b2/601bed21a33e2.image.jpg?resize=800%2C407"
+  - url: "https://mma.prnewswire.com/media/746706/Quadrant_Knowledge_Solutions_Logo.jpg?p=facebook"
     width: 800
-    height: 407
+    height: 419
     isCached: true
 
 related:
@@ -42,6 +42,6 @@ related:
         height: 233
         isCached: true
 
-secured: "Qfm0oByoqn+bhNhGbE9cVv2pyQs38I42ppY/2ckYWlFXAN01mX8DEPCmWKv54zXfezzMv6Oqw1kScGsxkKMVSUIg4zCUnZZRYg6lj34P1wP2Wni+WtyzHuesc/krCwIp+yG9lf1t3ITef0atDyksR2k7A18+kZs7paVnU1gETieNoxC4/sQgvHP08pTCJ7d8yxmVIXFqQ87e/WgdvUDaH1qmEkXO3vwTcUawxpBE107z3WHZdZVe8gJMLkvaw2IrIdu6b+tDScmxTDZVL3k/CHKU0dEqH2RQdtUexHbwa5IIdDDfoBCc3pTjsTvG4/W50kYv7NarACJGrWKu+En8Wmc/HwsRSfCEqsBaSo1QBtQ=;R+L1oIE4/5CTh9YW5uBfjw=="
+secured: "GGOoLZabPUNPYpwljBy7L5eIs62qZJ1tSCcTzK5ZCnMuolXBA3CRhWmf1lXVkK45W0qKT+PA0J/suuyGooH3FZ8TaGrWaF5tRrUXda04TE2I87CKC/CdsExw4lfhPSp/sKcdpojCDHJlKPiDcWb2VWaQyhXX3+VzWiRsjFqWQ1rViOLHD4aa2vGmtrEH50oFWk3pju4zNHyvnkECO8ifbgSgSFJP+FssvTQ8miqJXT0sqy7+WZAiD1Hmge021ucxPgcw02hWSelTpFyIeoJHUv8ATkBOc1nvqz8uOpBNxB55b+3qVRE1CzSYxZiYsSvzVle0pmJRSVijyZ/4cZJ7A7SZD5dp6Q1pNWpoQC9VGs4=;Dj1Cv/EsBRcePVOG9bJIgw=="
 ---
 

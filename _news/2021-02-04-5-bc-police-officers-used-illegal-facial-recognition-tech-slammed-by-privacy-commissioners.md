@@ -43,20 +43,6 @@ related:
         width: 1020
         height: 574
         isCached: true
-  - title: "India police use facial recognition technology to track known sexual offenders"
-    excerpt: "The use of modern technology has to become part of policing in everyday life, Lucknow inspector-general Laxmi Singh said.. Read more at straitstimes.com."
-    publishedDateTime: 2021-02-02T13:28:00Z
-    webUrl: "https://www.straitstimes.com/asia/south-asia/india-police-use-facial-recognition-technology-to-track-known-sexual-offenders"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 37
-    images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/02/02/yq-indiawoman-210202.jpg?itok=YnJTxhW1"
-        width: 763
-        height: 509
-        isCached: true
 
 secured: "o+GIIOKPSFFo2u9Q2vrrmK+j2UpwjRBTd3llxrQ3DzFmD4wEJLLSrWGXwGVAZgzgheQK09oFwPIUWbW8l3G5QbQrjtZ8XEtJMsrjHXUBIaMabuW5nh6L1BrYhAAMzbve0JlzSJYSgPW0Yxr7mIXkwMt4Zztb/wRruM/ydoOcJQvZ2Yf/QAhrdkRnNoh5prfWdAsXrNaUiPmakMM/C1FMjQKhQ5ewCBM8yoQM4h4qAgsLSmAEU5Po8EwgXkLAsYGAf779E1bFv990ADv7+gAPU8wdYw/x/OR3bjouo6wXc0wAblsWGKOp9fgvVNODbA4WK27Y4w56vol4NIZckKQXYyWWVv1PNhKk/49Tp7A8a6g=;Uzw1V5+zHhHHA9HsUouKow=="
 ---

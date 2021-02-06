@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-06-delta-expanding-facial-recognition-technology-to-domestic-flights-in-detroit.md",
+      "title": "Delta expanding facial recognition technology to domestic flights in Detroit",
+      "excerpt": "Delta Air Lines is bringing facial recognition technology to domestic flights. Last week, the airline announced that it is launching its digital ID technology for domestic flights out of Detroit Metropolitan Wayne County Airport.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/travel/delta-expands-facial-recognition-domestic-detroit",
+      "originalUrl": "https://www.foxnews.com/travel/delta-expands-facial-recognition-domestic-detroit",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Delta_iStock-1263361477.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/travel/delta-expands-facial-recognition-domestic-detroit.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/travel/delta-expands-facial-recognition-domestic-detroit.amp",
+      "publishedDateTime": "2021-02-05T17:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-06-aiops-and-the-quest-for-the-grail.md",
       "title": "AIOps And The Quest For The Grail",
       "excerpt": "For those unfamiliar with the term, AIOps simply means applying machine learning to IT operations functions. But implementing AIOps into a complex environment requires patience and a carefully planned strategy.",
@@ -586,49 +638,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-05-vantagepoint-ai-publishes-weekly-stock-study-to-demonstrate-the-power-of-artificial-intelligence.md",
-      "title": "Vantagepoint AI Publishes Weekly \"Stock Study\" To Demonstrate the Power of Artificial Intelligence",
-      "excerpt": "Vantagepoint AI was the first company in the world to give independent traders the power of artificial intelligence for their home computers. Company founder, Louis Mendelsohn, rocked the financial trading world when he introduced his strategy back-testing using artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/vantagepoint-ai-publishes-weekly-stock-study-to-demonstrate-the-power-of-artificial-intelligence-1030048342",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/vantagepoint-ai-publishes-weekly-stock-study-to-demonstrate-the-power-of-artificial-intelligence-1030048342",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/vantagepoint-ai-publishes-weekly-stock-study-to-demonstrate-the-power-of-artificial-intelligence-1030048342",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/vantagepoint-ai-publishes-weekly-stock-study-to-demonstrate-the-power-of-artificial-intelligence-1030048342",
-      "publishedDateTime": "2021-02-05T05:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-05-humanoid-robots-and-how-were-failing-at-human-relationships.md",
       "title": "Humanoid robots and how we're failing at human relationships",
       "excerpt": "Hanson Robotics didn’t make Sophia just because they could. They’re capitalizing on something in our culture that needs to be recognized. We’re failing each other.",
@@ -1016,58 +1025,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-05-ford-boosts-investment-plan-for-evs-and-self-driving-vehicles-reports-loss.md",
-      "title": "Ford boosts investment plan for EVs and self driving vehicles, reports loss",
-      "excerpt": "Ford Motor Co on Thursday more than doubled the amount of money it plans to invest on electric and autonomous vehicles, to $29 billion, even as it posted a fourth-quarter net loss of $2.8 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-ford-motor-results-idUSKBN2A42VN",
-      "originalUrl": "https://www.reuters.com/article/us-ford-motor-results-idUSKBN2A42VN",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210204&t=2&i=1550375700&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH131PT",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2A42VN",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A42VN",
-      "publishedDateTime": "2021-02-04T21:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-05-apple-hyundai-kia-near-deal-to-build-self-driving-electric-apple-car.md",
       "title": "Apple, Hyundai-Kia near deal to build self-driving electric Apple Car",
       "excerpt": "CNBC's Phil LeBeau explains his scoop about the deal talks between Hyundai-Kia and Apple to manufacture an Apple Car as soon as 2024.",
@@ -1221,6 +1178,49 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-02-05-ai-drives-the-evolution-of-technology-and-data-governance.md",
+      "title": "AI drives the evolution of technology and data governance",
+      "excerpt": "Key points focusing on how AI drives the evolution of technology and data governance and how an increase in customer demand and regulatory activity will necessitate companies to take a closer look at their approach.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-drives-the-evolution-of-technology-and-data-governance/",
+      "originalUrl": "https://www.zdnet.com/article/ai-drives-the-evolution-of-technology-and-data-governance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-drives-the-evolution-of-technology-and-data-governance/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-drives-the-evolution-of-technology-and-data-governance/",
+      "publishedDateTime": "2021-02-04T14:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     }
   ],

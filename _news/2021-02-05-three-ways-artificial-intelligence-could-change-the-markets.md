@@ -6,7 +6,7 @@ publishedDateTime: 2021-02-05T13:05:00Z
 originalUrl: "https://www.cmcmarkets.com/en/opto/three-ways-artificial-intelligence-could-change-the-markets"
 webUrl: "https://www.cmcmarkets.com/en/opto/three-ways-artificial-intelligence-could-change-the-markets"
 type: article
-quality: 41
+quality: 43
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - AI
   - AI in Autos
   - AI in Healthcare
+  - AI in Robotics
 
 images:
   - url: "https://assets.cmcmarkets.com/images/AI0402_medium.jpg"

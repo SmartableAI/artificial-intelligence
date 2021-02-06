@@ -2,6 +2,49 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2021-01-12-data-addiction-overhauls-forecasting-for-aware-super.md",
+      "title": "Data Addiction overhauls forecasting for Aware Super",
+      "excerpt": "The Sydney-based Microsoft data and artificial intelligence specialist used the vendor’s Azure Machine Learning to build a new forecasting platform for Aware, reducing its reporting time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.arnnet.com.au/article/685467/data-addiction-overhauls-forecasting-aware-super/",
+      "originalUrl": "https://www.arnnet.com.au/article/685467/data-addiction-overhauls-forecasting-aware-super/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/microsoft_azure_1crop.jpg",
+          "width": 800,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-11T08:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-mammography-expert-finds-deep-learning-artificial-intelligence-may-improve-cancer-detection.md",
       "title": "Mammography expert finds deep-learning artificial intelligence may improve cancer detection",
       "excerpt": "The journal Nature Medicine has published a study co-authored by Gopal Vijayaraghavan, MD, finding that an artificial intelligence model for computer-aided reading of mammograms may improve the detection of breast cancer.",
@@ -1145,50 +1188,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-agdhi-to-use-machine-learning-and-computer-vision-in-agriculture.md",
-      "title": "Agdhi to use machine learning and computer vision in agriculture",
-      "excerpt": "Agdhi will use machine learning, computer vision, edge computing and spectral imaging techniques to detect the defects in seeds and crops",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/agdhi-use-machine-learning-computer-vision-agriculture/",
-      "originalUrl": "https://www.dqindia.com/agdhi-use-machine-learning-computer-vision-agriculture/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2015/10/Agriculture1.jpg",
-          "width": 800,
-          "height": 529,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/agdhi-use-machine-learning-computer-vision-agriculture/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/agdhi-use-machine-learning-computer-vision-agriculture/amp/",
-      "publishedDateTime": "2021-01-11T00:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -2,6 +2,40 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-12-10-global-deep-learning-market-report-2020-focus-on-medical-image-processing-2020-2030-researchandmarketscom.md",
+      "title": "Global Deep Learning Market Report 2020: Focus on Medical Image Processing, 2020-2030 - ResearchAndMarkets.com",
+      "excerpt": "The \"Deep Learning Market: Focus on Medical Image Processing, 2020-2030\" report has been added to ResearchAndMarkets.com's offering. The 'Deep Learning Market: Focus on Medical Image Processing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/12/b18728995/global-deep-learning-market-report-2020-focus-on-medical-image-processing-2020-2030-researchandmar",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/12/b18728995/global-deep-learning-market-report-2020-focus-on-medical-image-processing-2020-2030-researchandmar",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/18728995",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18728995",
+      "publishedDateTime": "2020-12-10T03:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-machine-learning-a-cheat-sheet.md",
       "title": "Machine learning: A cheat sheet",
       "excerpt": "This comprehensive guide explains what machine learning really means. Artificial intelligence (AI), which has been around since the 1950s, has seen ebbs and flows in popularity over the last 60 ...",
@@ -1382,58 +1416,6 @@
         "AI",
         "Machine Learning",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-deep-learning-chipset-market-2020-analysis-and-in-depth-research-on-market-dynamics-trends-emerging-growth-factors-and-forecasts-to-2026.md",
-      "title": "Deep Learning Chipset Market 2020 Analysis and In-Depth Research on Market Dynamics, Trends, Emerging Growth Factors and Forecasts To 2026",
-      "excerpt": "Global “Deep Learning Chipset Market” report 2020 is an overview of the market is provided with prime focus on",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chipset-market-2020-analysis-and-in-depth-research-on-market-dynamics-trends-emerging-growth-factors-and-forecasts-to-2026-2020-12-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-chipset-market-2020-analysis-and-in-depth-research-on-market-dynamics-trends-emerging-growth-factors-and-forecasts-to-2026-2020-12-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-02T21:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

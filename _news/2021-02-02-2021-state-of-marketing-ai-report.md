@@ -67,7 +67,7 @@ related:
     provider:
       name: CMC Markets
       domain: cmcmarkets.com
-    quality: 41
+    quality: 43
     images:
       - url: "https://assets.cmcmarkets.com/images/AI0402_medium.jpg"
         width: 768

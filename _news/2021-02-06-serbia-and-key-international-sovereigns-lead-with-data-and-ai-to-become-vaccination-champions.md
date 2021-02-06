@@ -46,38 +46,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Budget 2021: Govt using Artificial Intelligence to track GST tax evasion"
-    excerpt: "Budget 2021 saw Finance Minister Nirmala Sitharaman emphasise on the use of AI technology to enable compliance, adjudication of disputes on Ministry of Corporate Affairs"
-    publishedDateTime: 2021-02-01T09:36:00Z
-    webUrl: "https://yourstory.com/2021/02/budget-2021-artificial-intelligence-being-used-track-gst-tax"
-    ampWebUrl: "https://yourstory.com/2021/02/budget-2021-artificial-intelligence-being-used-track-gst-tax/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/02/budget-2021-artificial-intelligence-being-used-track-gst-tax/amp"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 56
-    images:
-      - url: "https://images.yourstory.com/cs/2/604090802d6d11e9aa979329348d4c3e/agritechbudget2021-1612015767538.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
-        width: 800
-        height: 400
-        isCached: true
-  - title: "Budget 2021: Language translation mission to local language content development"
-    excerpt: "In 2020, during the peak months of covid-19, the government had tied up with Reverie Technologies and had deployed their language translation technology Anuvadak to translate and publish the MyGov Cov"
-    publishedDateTime: 2021-02-01T09:20:00Z
-    webUrl: "https://www.livemint.com/budget/news/budget-2021-language-translation-mission-to-local-language-content-development-11612169795358.html"
-    ampWebUrl: "https://www.livemint.com/budget/news/budget-2021-language-translation-mission-to-local-language-content-development/amp-11612169795358.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/budget/news/budget-2021-language-translation-mission-to-local-language-content-development/amp-11612169795358.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 40
-    images:
-      - url: "https://images.livemint.com/img/2021/02/01/600x338/000_6610_Nirmala_Sitharaman_1612170979498_1612170995958.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "How to Improve Automatic Machine Translation Evaluation? Add Humans, Scientists Say"
     excerpt: "Scientists propose new system to standardize automatic evaluation of NLP systems by adding humans in the loop."
     publishedDateTime: 2021-02-04T07:31:00Z

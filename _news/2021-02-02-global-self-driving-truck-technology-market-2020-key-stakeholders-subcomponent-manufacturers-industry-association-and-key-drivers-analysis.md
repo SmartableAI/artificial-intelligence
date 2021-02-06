@@ -106,6 +106,20 @@ related:
         width: 980
         height: 552
         isCached: true
+  - title: "Ford posts strong results, promises big bet on electric and self-driving cars"
+    excerpt: "By Chris Isidore, CNN Business Ford reported surprisingly good financial results at the end of a tough year, and said it was increasing its commitment to vehicles of the future with a big"
+    publishedDateTime: 2021-02-05T10:08:00Z
+    webUrl: "https://www.kten.com/story/43295286/ford-posts-strong-results-promises-big-bet-on-electric-and-self-driving-cars"
+    type: article
+    provider:
+      name: KTEN
+      domain: kten.com
+    quality: 21
+    images:
+      - url: "https://CNNWIRE.images.worldnow.com/images/20336791_G.jpg?lastEditedDate=1612462806000"
+        width: 500
+        height: 333
+        isCached: true
 
 secured: "vn+KEcTBh+p92Z/mP/WR+OATtWCfa/AtafUkwx9kyxXGA3GLwO8dSGc7Q1nPGWBptugRue3r/V/ytb8gQev81KZRwNs7TvfhBL+j09UkMqayBzfYsbcg6hbNGSGl1MAzIvK2tgCofBICnIidWgtd6HSwsZ9pl6m/fJDo2ZuCC9tGxMzDT6S6xm+QTUeawqoWM4uOohzHmGnWARYAyuxM295yVsQbIpEwhJqGwAZoDMs0ZPQ3kTAcKFWtmpMfPPcfkrCDfyMFpU6nQ75iDzLE+IZlHIUi4pvWDUfqXn3OrIKbqZj5jMpnibaDHH6QN9LaIoBSxq2+/YePBPcGS8WjJZLr9jgx8/rPmORNUNWUS2I=;R+qAC8as/qXqG0IwnRh5qA=="
 ---

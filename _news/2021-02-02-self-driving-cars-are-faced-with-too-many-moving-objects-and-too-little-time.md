@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/02/01/self-driving-cars
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/01/self-driving-cars-are-faced-with-too-many-moving-objects-and-too-little-time/amp/"
 type: article
 quality: 73
-heat: 133
+heat: 143
 published: true
 
 provider:
@@ -92,6 +92,20 @@ related:
       - url: "https://gray-wcax-prod.cdn.arcpublishing.com/resizer/kW1valWAsy9BUn8C6W97vluZHw4=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/SBKRRW7OCNLNVGCZXPAU46VP2Y.jpg"
         width: 980
         height: 552
+        isCached: true
+  - title: "Ford posts strong results, promises big bet on electric and self-driving cars"
+    excerpt: "By Chris Isidore, CNN Business Ford reported surprisingly good financial results at the end of a tough year, and said it was increasing its commitment to vehicles of the future with a big"
+    publishedDateTime: 2021-02-05T10:08:00Z
+    webUrl: "https://www.kten.com/story/43295286/ford-posts-strong-results-promises-big-bet-on-electric-and-self-driving-cars"
+    type: article
+    provider:
+      name: KTEN
+      domain: kten.com
+    quality: 21
+    images:
+      - url: "https://CNNWIRE.images.worldnow.com/images/20336791_G.jpg?lastEditedDate=1612462806000"
+        width: 500
+        height: 333
         isCached: true
   - title: "Global Self-Driving Truck Technology Market 2020 Key Stakeholders, Subcomponent Manufacturers, Industry Association and Key Drivers Analysis to 2025"
     excerpt: "The latest market research report titled Global Self-Driving Truck Technology Market 2020 by Company, Type and Application, Forecast to 2025 reveals the overview of the global industry, encompassing the latest industry data and industry future trends,"

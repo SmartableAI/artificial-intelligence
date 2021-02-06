@@ -2,6 +2,59 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2020-12-28-neurals-ai-predictions-for-2021.md",
+      "title": "Neural’s AI predictions for 2021",
+      "excerpt": "It’s that time of year again! We’re continuing our long–running tradition of publishing a list of predictions from AI experts who know what’s happening on the ground, in the research labs, and at the boardroom tables.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/12/28/neurals-ai-predictions-for-2021/",
+      "originalUrl": "https://thenextweb.com/neural/2020/12/28/neurals-ai-predictions-for-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 241,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/2021touchscreen-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/12/28/neurals-ai-predictions-for-2021/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/28/neurals-ai-predictions-for-2021/amp/",
+      "publishedDateTime": "2020-12-28T00:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-12-28-this-startup-is-revolutionizing-asias-mobility-market.md",
       "title": "This Startup Is Revolutionizing Asia's Mobility Market",
       "excerpt": "Bussr provides an app for mobility companies and passengers that combines all options for real-time trip planning, scheduling, payment and more through one app",
@@ -1138,49 +1191,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-26-15-biggest-tech-companies-how-big-can-they-get.md",
-      "title": "15 Biggest Tech Companies: How Big Can They Get?",
-      "excerpt": "In this article, we are going to list the 15 biggest tech companies in the world. Click to skip ahead and jump to the 5 biggest tech companies in",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/15-biggest-tech-companies-how-big-can-they-get-911336/?singlepage=1",
-      "originalUrl": "https://www.insidermonkey.com/blog/15-biggest-tech-companies-how-big-can-they-get-911336/?singlepage=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2017/11/09050314/technology-2818664_960_720.jpg",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-25T12:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

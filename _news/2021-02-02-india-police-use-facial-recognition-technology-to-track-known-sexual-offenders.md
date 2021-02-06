@@ -26,38 +26,31 @@ images:
     isCached: true
 
 related:
-  - title: "5 B.C. police officers used 'illegal' facial recognition tech slammed by privacy commissioners"
-    excerpt: "The privacy commissioner of British Columbia has revealed five individual police officers in the province used a controversial facial recognition service that 'illegally' harvested billions of social media images."
-    publishedDateTime: 2021-02-03T17:49:00Z
-    webUrl: "https://bc.ctvnews.ca/5-b-c-police-officers-used-illegal-facial-recognition-tech-slammed-by-privacy-commissioners-1.5294049"
-    ampWebUrl: "https://beta.ctvnews.ca/local/british-columbia/2021/2/3/1_5294049.html"
-    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/british-columbia/2021/2/3/1_5294049.html"
+  - title: "Delta expanding facial recognition technology to domestic flights in Detroit"
+    excerpt: "Delta Air Lines is bringing facial recognition technology to domestic flights. Last week, the airline announced that it is launching its digital ID technology for domestic flights out of Detroit Metropolitan Wayne County Airport."
+    publishedDateTime: 2021-02-06T01:58:00Z
+    webUrl: "https://www.foxnews.com/travel/delta-expands-facial-recognition-domestic-detroit"
+    ampWebUrl: "https://www.foxnews.com/travel/delta-expands-facial-recognition-domestic-detroit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/travel/delta-expands-facial-recognition-domestic-detroit.amp"
     type: article
     provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 47
+      name: Fox News
+      domain: foxnews.com
+    quality: 86
     images:
-      - url: "https://beta.ctvnews.ca/content/dam/ctvnews/videos/axis/2021/2/3/2132304/_jcr_content/renditions/videothumbnail.1612384764775.jpg"
-        width: 1020
-        height: 574
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Delta_iStock-1263361477.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "5 B.C. police officers who used 'illegal' facial recognition tech slammed by privacy commissioners"
-    excerpt: "The privacy commissioner of British Columbia has revealed five individual police officers in the province used a controversial facial recognition service that 'illegally' harvested billions of social media images."
-    publishedDateTime: 2021-02-03T17:49:00Z
-    webUrl: "https://bc.ctvnews.ca/5-b-c-police-officers-who-used-illegal-facial-recognition-tech-slammed-by-privacy-commissioners-1.5294049"
-    ampWebUrl: "https://beta.ctvnews.ca/local/british-columbia/2021/2/3/1_5294049.html"
-    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/british-columbia/2021/2/3/1_5294049.html"
+  - title: "Delta Rolls Out Facial Recognition for Domestic Travel at Detroit Airport"
+    excerpt: "Delta Air Lines is rolling out facial recognition for some domestic travelers at its Detroit hub, an expansion of the biometric technology beyond international flights. The move comes after Atlanta-based Delta launched in 2018 what it called a \"biometric terminal\" for international travel using facial recognition at Hartsfield- Jackson's Maynard H."
+    publishedDateTime: 2021-02-05T15:26:00Z
+    webUrl: "https://www.aviationpros.com/airlines/news/21209027/delta-rolls-out-facial-recognition-for-domestic-travel-at-detroit-airport"
     type: article
     provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 45
-    images:
-      - url: "https://beta.ctvnews.ca/local/british-columbia/2021/2/3/1_5294049/_jcr_content/root/responsivegrid/image.coreimg.jpg"
-        width: 1020
-        height: 574
-        isCached: true
+      name: AviationPros
+      domain: aviationpros.com
+    quality: 33
 
 secured: "5iWG6i2szRpVZiUWPKJ307VicqMaJT/phbw8VmShDUzIU/mxrXJHBxfnQayYkvXhSV9lUvN2lpgpVk6fK8gVRBfEgpX+bj5tKjPUHd2ADQlvc/7io2/tS5g5B674pyH0qiFBOUBW//PAS8bQ+CTXlQj8zvhzD/804tb1ih7ltW97yXCCje8Vvy7wic2u0AfO3r4fz00jjphQGWiRfuQuJPGLQE6S9kDjxXI5Xl/zujAyJSmUV2fs+eOlCzfzR1dqoXNJpIk6iK/A1sd0QY5IIBmY9ybJ8T6/E+FrLAGqyNi1ghCANOR2zBxhfBdl1/uGDzgfSEkVSwMB+Fnh89iD6w5P6PQ2q/e/ha9ndOe2pqVE6DJzbQVmIVDwMUGw8JpJThbsV01SuV0gzaU4Fb9lsU7aXPUQXqdX/AW+8zsLV3cIhHfzyJP3DcWkNVjlM7ieJSd2XLFkjHtcFD3wRfTcJRljMCWpX5Auk9YTVpiQ/IqVE6G/7uydu9KJo/hnN3iGg1C8FZSoFwhvOi2iySMoRw==;gguAG1ZPMkQ1ly6kB44Row=="
 ---

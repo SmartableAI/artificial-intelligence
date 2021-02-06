@@ -2,6 +2,48 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2021-01-12-burnley-to-use-artificial-intelligence-in-search-for-future-stars.md",
+      "title": "Burnley to use artificial intelligence in search for future stars",
+      "excerpt": "Burnley have announced they are to use artificial intelligence to help them identify young talent. The Clarets have partnered with talent identification platform AiSCOUT and launc",
+      "sourceUrl": null,
+      "webUrl": "https://www.sportsmole.co.uk/football/burnley/news/burnley-to-use-artificial-intelligence-in-search-for-future-stars_430220.html",
+      "originalUrl": "https://www.sportsmole.co.uk/football/burnley/news/burnley-to-use-artificial-intelligence-in-search-for-future-stars_430220.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.imgix.net/21/01/sean-dyche_1.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sportsmole.co.uk/football/burnley/news/burnley-to-use-artificial-intelligence-in-search-for-future-stars_430220.html",
+      "cdnAmpWebUrl": "https://www-sportsmole-co-uk.cdn.ampproject.org/c/s/www.sportsmole.co.uk/football/burnley/news/burnley-to-use-artificial-intelligence-in-search-for-future-stars_430220.html",
+      "publishedDateTime": "2021-01-12T03:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sports Mole",
+        "domain": "sportsmole.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-collaborating-through-open-source-to-advance-ai.md",
       "title": "Collaborating through open source to advance AI",
       "excerpt": "That something is open source. The sheer number of open source tools available to developers - from libraries to frameworks, IDEs, data lakes, streaming, model serving and inference solutions, and even the recent end-to-end tool aggregator,",
@@ -1155,50 +1197,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-smarter-phones-in-your-hacks-with-tensorflow-lite.md",
-      "title": "Smarter Phones In Your Hacks With TensorFlow Lite",
-      "excerpt": "If your neural network was written using Google’s TensorFlow framework then you’ve had the option of using TensorFlow Mobile, but it doesn’t use any of the phone’s accelerated hardware ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2017/11/23/smarter-phones-in-your-hacks-with-tensorflow-lite/",
-      "originalUrl": "https://hackaday.com/2017/11/23/smarter-phones-in-your-hacks-with-tensorflow-lite/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2017/11/tensor_flow_lite_demo_fe.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-11T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
       ]
     }
   ],

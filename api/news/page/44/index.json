@@ -2,6 +2,57 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2021-01-05-italian-court-rules-against-discriminatory-deliveroo-rider-ranking-algorithm.md",
+      "title": "Italian court rules against ‘discriminatory’ Deliveroo rider-ranking algorithm",
+      "excerpt": "A court in Italy has dealt a blow to unalloyed algorithmic management after a legal challenge brought by three unions. The Bologna court ruled that a reputational-ranking algorithm used by on-demand food delivery platform Deliveroo discriminated against gigging delivery workers by breaching local",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/01/04/italian-court-rules-against-discriminatory-deliveroo-rider-ranking-algorithm/",
+      "originalUrl": "https://techcrunch.com/2021/01/04/italian-court-rules-against-discriminatory-deliveroo-rider-ranking-algorithm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2018/07/GettyImages-991304512.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/01/04/italian-court-rules-against-discriminatory-deliveroo-rider-ranking-algorithm/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/04/italian-court-rules-against-discriminatory-deliveroo-rider-ranking-algorithm/amp/",
+      "publishedDateTime": "2021-01-04T18:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-05-google-workers-form-new-labor-union-a-tech-industry-rarity.md",
       "title": "Google workers form new labor union, a tech industry rarity",
       "excerpt": "A group of Google engineers and other workers announced Monday they have formed a union, creating a rare foothold for the labor movement in the tech industry. About 225 employees at",
@@ -1134,58 +1185,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-04-amp-robotics-raises-55-million-for-ai-that-picks-and-sorts-recyclables.md",
-      "title": "AMP Robotics raises $55 million for AI that picks and sorts recyclables",
-      "excerpt": "AMP Robotics, a startup developing robotics systems that pick and sort recyclables, has raised $55 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/04/amp-robotics-raises-55-million-for-ai-that-picks-and-sorts-recyclables/",
-      "originalUrl": "https://venturebeat.com/2021/01/04/amp-robotics-raises-55-million-for-ai-that-picks-and-sorts-recyclables/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/IMpact-20-2020-Amp-Robotics-AMP-9-3-e1609706384371.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/04/amp-robotics-raises-55-million-for-ai-that-picks-and-sorts-recyclables/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/04/amp-robotics-raises-55-million-for-ai-that-picks-and-sorts-recyclables/amp/",
-      "publishedDateTime": "2021-01-04T05:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

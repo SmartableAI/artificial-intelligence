@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-02-05-ai-drives-the-evolution-of-technology-and-data-governance.md",
-      "title": "AI drives the evolution of technology and data governance",
-      "excerpt": "Key points focusing on how AI drives the evolution of technology and data governance and how an increase in customer demand and regulatory activity will necessitate companies to take a closer look at their approach.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-drives-the-evolution-of-technology-and-data-governance/",
-      "originalUrl": "https://www.zdnet.com/article/ai-drives-the-evolution-of-technology-and-data-governance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-drives-the-evolution-of-technology-and-data-governance/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-drives-the-evolution-of-technology-and-data-governance/",
-      "publishedDateTime": "2021-02-04T14:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-05-stylescan-is-disrupting-fashion-industry-with-ai.md",
       "title": "StyleScan Is Disrupting Fashion Industry With AI",
       "excerpt": "The fashion commerce market-wide need attracted competition for a digital sizing solution. StyleScan is a standout.",
@@ -144,6 +101,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-05-ford-boosts-investment-plan-for-evs-and-self-driving-vehicles-reports-loss.md",
+      "title": "Ford Boosts Investment Plan for EVs and Self Driving Vehicles, Reports Loss",
+      "excerpt": "Ford Motor Co on Thursday boosted the amount of money it plans to invest on electric and autonomous vehicles to $29 billion even as it posted a fourth-quarter net loss of $2.8 billion. The No. 2 U.S.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/top-news/articles/2021-02-04/ford-boosts-investment-plan-for-evs-and-self-driving-vehicles-reports-loss",
+      "originalUrl": "https://www.usnews.com/news/top-news/articles/2021-02-04/ford-boosts-investment-plan-for-evs-and-self-driving-vehicles-reports-loss",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.usnews.com/news/top-news/articles/2021-02-04/ford-boosts-investment-plan-for-evs-and-self-driving-vehicles-reports-loss?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-02-04/ford-boosts-investment-plan-for-evs-and-self-driving-vehicles-reports-loss?context=amp",
+      "publishedDateTime": "2021-02-04T13:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -454,11 +454,11 @@
       "title": "AI reading list: 8 interesting books about artificial intelligence to check out",
       "excerpt": "These eight books about artificial intelligence cover a range of topics, including ethical issues, how AI is affecting the job market, and how organizations can use AI to gain a competitive advantage.",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
-      "originalUrl": "https://www.techrepublic.com/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
+      "webUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
+      "originalUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -472,8 +472,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
       "publishedDateTime": "2021-02-04T08:46:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -497,7 +497,6 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -538,24 +537,33 @@
     {
       "path": "_news/2021-02-04-quantiphi-recognized-as-a-tensorflow-ai-service-partner-for-machine-learning-led-enterprise-transformation.md",
       "title": "Quantiphi Recognized as a TensorFlow AI Service Partner for Machine Learning Led Enterprise Transformation",
-      "excerpt": "Quantiphi has been selected by TensorFlow as an AI Service Partner to enable businesses across industries to benefit from AI-based systems and help them innovate faster,",
+      "excerpt": "Quantiphi, an applied AI and data science company, has been selected by TensorFlow as an AI Service Partner to enable businesses across industries",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/02/p19489798/quantiphi-recognized-as-a-tensorflow-ai-service-partner-for-machine-learning-led-enterprise-transf",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/02/p19489798/quantiphi-recognized-as-a-tensorflow-ai-service-partner-for-machine-learning-led-enterprise-transf",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/quantiphi-recognized-as-a-tensorflow-ai-service-partner-for-machine-learning-led-enterprise-transformation/article_4c4c7bb7-085f-5ba9-a361-6bc04201dd08.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/quantiphi-recognized-as-a-tensorflow-ai-service-partner-for-machine-learning-led-enterprise-transformation/article_4c4c7bb7-085f-5ba9-a361-6bc04201dd08.html",
       "featuredContent": null,
       "highlight": null,
       "heat": 90,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/19489798",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19489798",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-02-04T06:25:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null

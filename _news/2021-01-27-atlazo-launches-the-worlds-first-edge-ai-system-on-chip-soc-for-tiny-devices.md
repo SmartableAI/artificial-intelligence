@@ -2,19 +2,25 @@
 category: news
 title: "Atlazo Launches the World's First Edge AI System-On-Chip (SoC) for Tiny Devices"
 excerpt: "AI SoC, AZ-N1, for smart tiny devices. The device is industry's first fully integrated AI SoC featuring a highly power efficient Artificial Intelligence and Machine Learning processor (Axon I TM) for audio,"
-publishedDateTime: 2021-01-26T23:23:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20210127la60539/atlazo-launches-the-worlds-first-edge-ai-system-on-chip-soc-for-tiny-devices"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20210127la60539/atlazo-launches-the-worlds-first-edge-ai-system-on-chip-soc-for-tiny-devices"
+publishedDateTime: 2021-01-27T13:53:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/atlazo-launches-the-world-s-first-edge-ai-system-on-chip-soc-for-tiny-devices-1030007244"
+webUrl: "https://markets.businessinsider.com/news/stocks/atlazo-launches-the-world-s-first-edge-ai-system-on-chip-soc-for-tiny-devices-1030007244"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/atlazo-launches-the-world-s-first-edge-ai-system-on-chip-soc-for-tiny-devices-1030007244"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/atlazo-launches-the-world-s-first-edge-ai-system-on-chip-soc-for-tiny-devices-1030007244"
 type: article
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
-secured: "QXEzD9rC9IJM4bZ7WqzWlCeR+ec+zvNyRfFW0bs9jzraRxd2MlnEfRJL/ra0n1H/Bv225v8+e1KoTjCYpkDD+XbltOzkDJRtlWNolJmimcDy45qPVVZF2UTici2xLz2PzBtTc9ZugYFJFrNLyAXt6WEDhocExroOZ5WmtpaD4BDzkklyQuH2DOhE801TiXMvCwV4zFEeyBgyyubU+Yfdzs5CQRdzfh2ICQKYu150H0XHVuMv9vraOodex9LcKiAQcNdGRH6OqnLDONmzEJNuLHMuAXpxU5vrCdSQstIwu4WCKd68c2cfPfLGHyimiw2aWygDkLbbyuQVHGcrxn+JJlCYQNou+LGskzhlmutCwdc=;KJrDsbxUGlMhdcX+fWNnRA=="
+secured: "GlO9stXXsMXpW4vzztQ6qJUVMceLrtgJLT0g2gLerj+A78ApBSQHoDb6jfPYHwJoHmf1BM9lWSsI9dKfHq4pWWFGhVUtipEaMBav7BjTjj+BpJtoUcOKgTQsUlb2uP+SJ6VmG0HeR7teprXjVS5Dpl8OetKk4a6WQY6eg2N/I0SxUr1jzgJPaUX+IwWTYxI77vVhT8vGsYKk73yo3DfbWAipNy3AO2s7pNH3KbVO4yGKfo+t2qsfTXxLp50Ue77tixZMdS7NrZhi8mPlWYStVTxDsjfTOPIh3Qtq0A1GOykzwha//E2Q2bzaAcPYhQanXG/EsTjvfHhwUrHPWSa+LZA0xokpvpb0KhahCvyGkW0=;gMlV9FHOEepFqfmqyUnYwA=="
 ---
 

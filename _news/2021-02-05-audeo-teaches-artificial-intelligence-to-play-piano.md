@@ -7,7 +7,7 @@ originalUrl: "https://www.miragenews.com/audeo-teaches-artificial-intelligence-t
 webUrl: "https://www.miragenews.com/audeo-teaches-artificial-intelligence-to-play-510057/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,15 @@ images:
     isCached: true
 
 related:
+  - title: "'Audeo' teaches artificial intelligence to play the piano"
+    excerpt: "A University of Washington team wondered if artificial intelligence could recreate that delight using only visual cues -- a silent, top-down video of someone playing the piano. The researchers used machine learning to create a system,"
+    publishedDateTime: 2021-02-06T01:53:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/02/210204192543.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 47
   - title: "'Audeo' teaches artificial intelligence to play the piano"
     excerpt: "A University of Washington team created Audeo, a system that can generate music using only visual cues of someone playing the piano."
     publishedDateTime: 2021-02-04T21:25:00Z

@@ -6,8 +6,8 @@ publishedDateTime: 2021-02-05T17:12:00Z
 originalUrl: "https://www.analyticsinsight.net/beyond-the-unknown-applications-of-artificial-intelligence-in-space/"
 webUrl: "https://www.analyticsinsight.net/beyond-the-unknown-applications-of-artificial-intelligence-in-space/"
 type: article
-quality: 17
-heat: 17
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/02/Here-are-few-ways-how-AI-can-help-us-venture-in-space.jpg"

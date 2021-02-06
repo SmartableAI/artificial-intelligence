@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-02-05-vantagepoint-ai-publishes-weekly-stock-study-to-demonstrate-the-power-of-artificial-intelligence.md",
-      "title": "Vantagepoint AI Publishes Weekly \"Stock Study\" To Demonstrate the Power of Artificial Intelligence",
-      "excerpt": "Vantagepoint AI was the first company in the world to give independent traders the power of artificial intelligence for their home computers. Company founder, Louis Mendelsohn, rocked the financial trading world when he introduced his strategy back-testing using artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/vantagepoint-ai-publishes-weekly-stock-study-to-demonstrate-the-power-of-artificial-intelligence-1030048342",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/vantagepoint-ai-publishes-weekly-stock-study-to-demonstrate-the-power-of-artificial-intelligence-1030048342",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/vantagepoint-ai-publishes-weekly-stock-study-to-demonstrate-the-power-of-artificial-intelligence-1030048342",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/vantagepoint-ai-publishes-weekly-stock-study-to-demonstrate-the-power-of-artificial-intelligence-1030048342",
-      "publishedDateTime": "2021-02-05T05:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-05-fintech-ai-ml-what-you-need-to-know-in-2021.md",
       "title": "Fintech, AI & ML: What you need to know in 2021",
       "excerpt": "In 2019, the use of AI in Fintech alone reached an estimated value of $6.67 billion. This is expected to grow to over $22.6 billion in just five years. And with a compound annual growth rate (CAGR) of 23.",
@@ -386,7 +343,7 @@
       "originalUrl": "https://www.dqindia.com/budget-2021-ai-ml-analytics-ease-compliance-burden-check-tax-evasion/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 191,
+      "heat": 181,
       "tags": null,
       "images": [
         {
@@ -1399,6 +1356,58 @@
         "name": "Associated Press",
         "domain": "apnews.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-2021-year-of-fintech-product-opportunities.md",
+      "title": "2021: Year of Fintech Product Opportunities",
+      "excerpt": "It is no secret that the COVID-19 outbreak has boosted the acceptance of some of the fintech technology developments that are most exciting. Shifting to a digital-only format was essential for stability for some financial industry players.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/2021-year-fintech-product-opportunities-rick-shah",
+      "originalUrl": "https://www.linkedin.com/pulse/2021-year-fintech-product-opportunities-rick-shah",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQGuQNAK71M15A/article-cover_image-shrink_600_2000/0/1611136368089?e=1617840000&v=beta&t=KpxRT7Viedla0Z_bel_0zm-Jq58uyTZBvbKitXdvaEk",
+          "width": 1080,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-19T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

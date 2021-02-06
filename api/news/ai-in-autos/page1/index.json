@@ -2,58 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-02-05-ford-boosts-investment-plan-for-evs-and-self-driving-vehicles-reports-loss.md",
-      "title": "Ford boosts investment plan for EVs and self driving vehicles, reports loss",
-      "excerpt": "Ford Motor Co on Thursday more than doubled the amount of money it plans to invest on electric and autonomous vehicles, to $29 billion, even as it posted a fourth-quarter net loss of $2.8 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-ford-motor-results-idUSKBN2A42VN",
-      "originalUrl": "https://www.reuters.com/article/us-ford-motor-results-idUSKBN2A42VN",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210204&t=2&i=1550375700&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH131PT",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2A42VN",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A42VN",
-      "publishedDateTime": "2021-02-04T21:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-05-apple-hyundai-kia-near-deal-to-build-self-driving-electric-apple-car.md",
       "title": "Apple, Hyundai-Kia near deal to build self-driving electric Apple Car",
       "excerpt": "CNBC's Phil LeBeau explains his scoop about the deal talks between Hyundai-Kia and Apple to manufacture an Apple Car as soon as 2024.",
@@ -106,38 +54,29 @@
       ]
     },
     {
-      "path": "_news/2021-02-05-ai-reading-list-8-interesting-books-about-artificial-intelligence-to-check-out.md",
-      "title": "AI reading list: 8 interesting books about artificial intelligence to check out",
-      "excerpt": "These eight books about artificial intelligence cover a range of topics, including ethical issues, how AI is affecting the job market, and how organizations can use AI to gain a competitive advantage.",
+      "path": "_news/2021-02-05-ford-boosts-investment-plan-for-evs-and-self-driving-vehicles-reports-loss.md",
+      "title": "Ford Boosts Investment Plan for EVs and Self Driving Vehicles, Reports Loss",
+      "excerpt": "Ford Motor Co on Thursday boosted the amount of money it plans to invest on electric and autonomous vehicles to $29 billion even as it posted a fourth-quarter net loss of $2.8 billion. The No. 2 U.S.",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
-      "originalUrl": "https://www.techrepublic.com/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
+      "webUrl": "https://www.usnews.com/news/top-news/articles/2021-02-04/ford-boosts-investment-plan-for-evs-and-self-driving-vehicles-reports-loss",
+      "originalUrl": "https://www.usnews.com/news/top-news/articles/2021-02-04/ford-boosts-investment-plan-for-evs-and-self-driving-vehicles-reports-loss",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 77,
       "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2021/02/02/12791f95-34d0-4745-b925-969861beab17/resize/1200x900/c78d0cc8a33af41d91857d238e02bdef/t-minus-ai.jpg",
-          "width": 603,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
-      "publishedDateTime": "2021-02-04T08:46:00-08:00",
+      "ampWebUrl": "https://www.usnews.com/news/top-news/articles/2021-02-04/ford-boosts-investment-plan-for-evs-and-self-driving-vehicles-reports-loss?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-02-04/ford-boosts-investment-plan-for-evs-and-self-driving-vehicles-reports-loss?context=amp",
+      "publishedDateTime": "2021-02-04T13:24:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -470,7 +409,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/01/self-driving-cars-are-faced-with-too-many-moving-objects-and-too-little-time/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 133,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -1046,28 +985,37 @@
     },
     {
       "path": "_news/2021-01-28-baidu-gets-california-nod-for-testing-empty-self-driving-cars.md",
-      "title": "Baidu Gets California Nod for Testing Empty Self-Driving Cars",
-      "excerpt": "Baidu Inc has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor Vehicles said on Wednesday. Although self-driving vehicles are designed to eliminate the need for a driver,",
+      "title": "Baidu gets California nod for testing empty self-driving cars",
+      "excerpt": "Baidu Inc has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor Vehicles said on Wednesday.",
       "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2021-01-27/baidu-gets-california-nod-for-testing-driverless-vehicles",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-01-27/baidu-gets-california-nod-for-testing-driverless-vehicles",
+      "webUrl": "https://www.reuters.com/article/us-baidu-autonomous-idUSKBN29W2OT",
+      "originalUrl": "https://www.reuters.com/article/us-baidu-autonomous-idUSKBN29W2OT",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210127&t=2&i=1549286737&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0Q1KU",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2021-01-27/baidu-gets-california-nod-for-testing-driverless-vehicles?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-01-27/baidu-gets-california-nod-for-testing-driverless-vehicles?context=amp",
-      "publishedDateTime": "2021-01-28T01:25:00-08:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29W2OT",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29W2OT",
+      "publishedDateTime": "2021-01-27T18:37:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1473,6 +1421,49 @@
       "provider": {
         "name": "com/2021/01/26/xpeng-rolls-out-autonomous-driving-features-in-challenge-to-tesla.html",
         "domain": "com/2021/01/26/xpeng-rolls-out-autonomous-driving-features-in-challenge-to-tesla.html",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-01-25-elon-musk-fires-back-at-waymos-ceo-after-he-said-tesla-was-no-competitor-at-all.md",
+      "title": "Elon Musk fires back at Waymo's CEO after he said Tesla was 'no competitor at all'",
+      "excerpt": "Earlier this year, Waymo dropped \"self-driving\" from its vocabulary, saying \"some automakers use the term in an inaccurate way.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/elon-musk-waymo-ceo-self-driving-autopilot-2021-1",
+      "originalUrl": "https://www.msn.com/en-in/autos/news/elon-musk-fires-back-at-waymo-s-ceo-after-he-said-tesla-was-no-competitor-at-all/ar-BB1d4YIx?;pfr=1%3fc&mkt=en-gb%2cen-us&c=11865511300118058293",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 263,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/600ee0f61958200011554bc1?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/elon-musk-waymo-ceo-self-driving-autopilot-2021-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-waymo-ceo-self-driving-autopilot-2021-1?amp",
+      "publishedDateTime": "2021-01-25T07:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "businessinsider.com/elon-musk-waymo-ceo-self-driving-autopilot-2021-1",
+        "domain": "businessinsider.com/elon-musk-waymo-ceo-self-driving-autopilot-2021-1",
         "images": null,
         "publishers": null,
         "authors": null
