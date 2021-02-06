@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "3d Facial Recognition Market According to latest research on focusing on Leading Manufacturers"
-    excerpt: "Facial Recognition Market Report Contain Size Analysis, Competitive Landscape, Revenue Status, Future Opportunities, Regional Analysis (Latin America, North America, Asia Specific, Europe, Middle East ) and Demand By Top Key Players \"Market Overview: Global 3D Facial Recognition Market is valued approximately at USD XXX billion in 2018 and is anticipated to grow with a healthy growth rate of more than XX % over the forecast period 2019-2026."
-    publishedDateTime: 2021-02-01T13:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-market-according-to-latest-research-on-focusing-on-leading-manufacturers-2021-02-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Market: Size, Share, Outlook, and Global Opportunity Analysis, 2021-2026"
     excerpt: "Wiseguyreports.Com Adds \"Artificial Intelligence -Market Demand, Growth, Opportunities and Analysis Of Top Key Player Forecast To 2023\" To Its Research Database Artificial Intelligence is one of the fastest growing areas of computer science,"
     publishedDateTime: 2021-02-04T01:43:00Z
@@ -175,12 +161,12 @@ related:
         isCached: true
   - title: "Worldwide Machine Learning Industry to 2030 - Featuring BigML, Featurespace and Google Among Others - ResearchAndMarkets.com"
     excerpt: "The \"Machine Learning Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2020-2030\" report has been added to ResearchAndMarkets.com's offering. A latest study collated and analyzes the historical and present-day scenario of the global machine learning market to accurately gauge its potential future development."
-    publishedDateTime: 2021-02-05T11:12:00Z
-    webUrl: "https://www.oaoa.com/news/business/worldwide-machine-learning-industry-to-2030---featuring-bigml-featurespace-and-google-among-others/article_b191664c-4a60-5db4-ae99-820059783f1c.html"
+    publishedDateTime: 2021-02-05T11:43:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210205005219/worldwide-machine-learning-industry-to-2030-featuring-bigml-featurespace-and-google-among-others-researchandmarketscom"
     type: article
     provider:
-      name: Odessa American
-      domain: oaoa.com
+      name: Morningstar, Inc.
+      domain: morningstar.com
     quality: 7
 
 secured: "3dSo32CndnN8Yvtkf4NDk/V9wAKykkK6F70koFdH11SnfNYRGKTvfdtDJs4da4icAT3IV+mnsV27Sf9CMB7nzHoJyspBYy0wEgqabVJSxM91d621W4+4hmd6pYo8qkNq/aZSdH83PI2ZbjgWvOLjOrLBwD5nWxEvNt5EFUW3Q5r0mQ4xhPFskgumlpjlSwtO8+W02LFrZX05g/SnIJVlDqewEQalG/wK2yUuJontHxV3fdXmyBbrGkpXD9NkKENjNgoknnPW14sPJWb5inqrSnzD2CTVVc41y8zAU5NwOBAoDo1UFT2amHDcyAOHHCHxccAz4lT8saJndF2lhoU0O6C/3AMss0O7qwzhtML8HS0=;PONdmnMU9uk3OI1TtM7GaQ=="

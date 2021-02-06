@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/fake-news-rampant-here-how-artifici
 webUrl: "https://www.linkedin.com/pulse/fake-news-rampant-here-how-artificial-intelligence-ai-bernard-marr"
 type: article
 quality: 52
-heat: -1
+heat: 52
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 1183
     height: 720
     isCached: true
-
-related:
-  - title: "AI No Silver Bullet for Cloud Security, but Here’s How It Can Help"
-    excerpt: "In this article, the author look at the real role of artificial intelligence in cloud security – the hype, the reality, and how we can resolve the gap between them. He encourages the reader to focus on making cloud security platforms that allow humans to provide truly intelligent threat responses,"
-    publishedDateTime: 2021-02-01T13:07:00Z
-    webUrl: "https://www.infoq.com/articles/ai-cloud-security/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 54
-    images:
-      - url: "https://res.infoq.com/articles/ai-cloud-security/en/headerimage/AI-no-silver-bullet-for-cloud-security-big-1611928293018.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "/7S+Uj8PY4fId6BsUMp9T75ZimYEzifFQqzqceWY0l/6fzzHj+TKecKf9Te+V47z3dkEFLNxatXdPXXjWi7a/0HxnHl3K26KvbEomdZNt9tD9foyHv2yYFw8fEQ1Xlml7/dNu+EnSNSJDAdEr5GOpmnrO4E7+MqTkp3YGUAk/zYNyRcToqxsrWQUs+fi2EXK5wfBAiZs2QMHln7VLVBElxnsvU26Lptye7ypjj9TkMe6Exq8e+fSoSzLCZuWPV0mj5sjmhStSAQvOIl8Gw+avyvLHBtHUEakKedAcpePuPsME2WZO7mydcFuy8FWVCdtBl+2PGt3vqBDDoXcOl45Y15iU7QSvL+Hzw5tj6UtxV/cGhi1ktBBxsLnxRlazMZu81hHY6yVnIFCpVH8MBqxpR9bfiID+1fZSJblr4VIeMJ7jqwwwBNuVUpY+1wX0tqkgSk788dnQu9g5hzlTUSsZWIbRGf2JkOgN2DhuKyjYShjIMqa2GrVUQMSPZDQcBZw/LCntAAXp5NiJD/dzas2Kg==;fgGkBqu/yt+arSbwVxdgVg=="
 ---

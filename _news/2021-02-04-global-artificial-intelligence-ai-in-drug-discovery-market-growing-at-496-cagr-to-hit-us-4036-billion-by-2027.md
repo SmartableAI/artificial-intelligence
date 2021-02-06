@@ -7,7 +7,7 @@ originalUrl: "https://www.pharmiweb.com/press-release/2021-02-04/global-artifici
 webUrl: "https://www.pharmiweb.com/press-release/2021-02-04/global-artificial-intelligence-ai-in-drug-discovery-market-growing-at-496-cagr-to-hit-us-403"
 type: article
 quality: 16
-heat: -1
+heat: 16
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 448
     isCached: true
-
-related:
-  - title: "AI In Telecommunication Market Size USD 13450 Million By 2026 At CAGR Of 49.8% - Valuates Reports"
-    excerpt: "Artificial Intelligence in Telecommunication Market is Segmented by Type Machine Learning and Deep Learning, Natural Language Processing,"
-    publishedDateTime: 2021-02-01T13:35:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/ai-in-telecommunication-market-size-usd-13450-million-by-2026-at-cagr-of-49-8-valuates-reports-881123483.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 26
-    images:
-      - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
-        width: 920
-        height: 482
-        isCached: true
 
 secured: "/XRtzrdm2MWA0Szrs1zFtAew4byzWY93ykkTtY3xI3U+paxTmrAwqhQm9m6PowDvEfg+Vw+/NB+TEMMbRzG04LVnnFqHwJ2DZyiumdHOjQ41PerPDBaoPOcfQifsVi3400PcIeFetRzTNnL8ZCrColWZ6dkyCMqf01zh0eES/Uij2sRdxp7Vu4R8Zn2AlWPKb2I+5603V0dp9bSib/IK94UtaKMUpOmLfZj66DiuAtFo/8jOFFJM2lDs+2dQtHO10EQQQ3UOHB+XKJLQRv4HLByTodREs1U6u7peEdYOS8C2lm8Vc9K6B/4p1OmgK4twVtCkSWWjzdHubhzWk8vCpmaMZy3vQoJX3gqejr5v+J0=;Y1wDOz2Yc+LmA10VrHXmfg=="
 ---

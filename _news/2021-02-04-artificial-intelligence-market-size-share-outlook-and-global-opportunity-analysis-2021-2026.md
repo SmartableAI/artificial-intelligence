@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "3d Facial Recognition Market According to latest research on focusing on Leading Manufacturers"
-    excerpt: "Facial Recognition Market Report Contain Size Analysis, Competitive Landscape, Revenue Status, Future Opportunities, Regional Analysis (Latin America, North America, Asia Specific, Europe, Middle East ) and Demand By Top Key Players \"Market Overview: Global 3D Facial Recognition Market is valued approximately at USD XXX billion in 2018 and is anticipated to grow with a healthy growth rate of more than XX % over the forecast period 2019-2026."
-    publishedDateTime: 2021-02-01T13:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-market-according-to-latest-research-on-focusing-on-leading-manufacturers-2021-02-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Computer Vision Market 2020 Manufacturer Analysis, Technology Advancements, Industry Scope and Forecast to 2025"
     excerpt: "MarketsandResearch.biz has added a new report Global Computer Vision Market 2020 by Company, Type and Application, Forecast to 2025 that contains aggregate information of the market’s current situation and future prospects."
     publishedDateTime: 2021-02-03T11:59:00Z
@@ -165,12 +151,12 @@ related:
         isCached: true
   - title: "Worldwide Machine Learning Industry to 2030 - Featuring BigML, Featurespace and Google Among Others - ResearchAndMarkets.com"
     excerpt: "The \"Machine Learning Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2020-2030\" report has been added to ResearchAndMarkets.com's offering. A latest study collated and analyzes the historical and present-day scenario of the global machine learning market to accurately gauge its potential future development."
-    publishedDateTime: 2021-02-05T11:12:00Z
-    webUrl: "https://www.oaoa.com/news/business/worldwide-machine-learning-industry-to-2030---featuring-bigml-featurespace-and-google-among-others/article_b191664c-4a60-5db4-ae99-820059783f1c.html"
+    publishedDateTime: 2021-02-05T11:43:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210205005219/worldwide-machine-learning-industry-to-2030-featuring-bigml-featurespace-and-google-among-others-researchandmarketscom"
     type: article
     provider:
-      name: Odessa American
-      domain: oaoa.com
+      name: Morningstar, Inc.
+      domain: morningstar.com
     quality: 7
   - title: "Global Mobile Speech Recognition Software Market Report 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026"
     excerpt: "The Mobile Speech Recognition Software market is expected to grow from USD X.X million in 2020 to USD X.X million by 2026, at a CAGR of X.X% during the forecast period. The global Mobile Speech Recognition Software market report is a comprehensive research that focuses on the overall consumption structure,"

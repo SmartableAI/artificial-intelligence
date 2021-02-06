@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Review: Microsoft Azure AI and Machine Learning aims for the enterprise"
-excerpt: "Microsoft has a presence in most enterprise development and IT shops, so it’s not a surprise that the Azure AI and Machine Learning platform has a presence in most enterprise development, data analysis, and data science shops. Enterprise AI often has ..."
-publishedDateTime: 2021-01-21T04:57:00Z
-originalUrl: "https://www.reseller.co.nz/article/685477/review-microsoft-azure-ai-machine-learning-aims-enterprise/"
-webUrl: "https://www.reseller.co.nz/article/685477/review-microsoft-azure-ai-machine-learning-aims-enterprise/"
+excerpt: "Microsoft Azure combines a wide range of cognitive services and a solid platform for machine learning that supports automated ML, no-code/low-code ML, and Python-based notebooks."
+publishedDateTime: 2021-01-21T05:29:00Z
+originalUrl: "https://www.reseller.co.nz/article/685477/review-microsoft-azure-ai-machine-learning-aims-enterprise/?fpid=1"
+webUrl: "https://www.reseller.co.nz/article/685477/review-microsoft-azure-ai-machine-learning-aims-enterprise/?fpid=1"
 type: article
 
 provider:
@@ -22,6 +22,6 @@ images:
     height: 493
     isCached: true
 
-secured: "PxQZj+i2OsYu6Rkmo2AvNJxzdr7Fj/ZAOmEV3d/c5ShuN4aRxGLL6/zP0pI/6/3a7ozxwXgInP8Jr+NY78mD03dKwyS1GojGPACYCKWfZ7+npxK8O6QOblvkWYaARcn/XDHOzLEqMDglirxWPjdsU+HJqx/9ZdYENwHAP4VfQ0Hpyz54pB9R6y0o3IjUD9z4WBVB5YuxG4Rx6pUB+bbIK6WG3LYLLKi1jWEY7D+6ILtI/Lbgu5edWb23F39wZgmMKu7GUqrAsRtwVa4DZaO39YJodO2LyN0vJ2xvtqR0HI6c/dEsTXG19N4oa8zwuipVEGiacbwTmhDgnX8OEBDSabJ1KbcwHiOpBxXlfiUVMTw=;4Gl8FnwZCAt1CyYNC6+arQ=="
+secured: "NdNFpzDYeVJqt/c0ogk5ctaYxILblUV/O1LnDrdJAlTXchvxfp4Gu0HoiRjOMSNkNNT58bgYJe2qg1MK2ssK0fVe18ndSaH/pow5Ku7rrNkolLwNniisFz/sTc6QvlrYv+Tdd1Ki9Y3N6aMD41NGa1rvfzdfWzGAt4c7bgWozkojFrWXqjE/6nT42ufWelrmuJQY2MO/CgazD7uLxm+XVv9hP7UFtsXO9++mlPspkyNUnQEDCi/4PSVkDzHOchypllwZPmpu+Uaga1BedEXcebyVl87t8v2kMTuAB6zFDlXuQ5Vo1ZzXsu7qO9RSL/Oar67fnzaYkXlQdQ7d3VDVkIroToBSWrw+UKKZPeaEoqw=;RTWlbNxk/XmnMH3PIz6MoA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/02/01/weights-and-biases-series-b/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/01/weights-and-biases-series-b/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Weights and Biases raises $45 million to advance MLOps governance"
-    excerpt: "Weights and Biases, provider of a platform for enabling collaboration and governance across teams building machine learning models, today revealed it has raised a $45 million series B round led by Insight Partners."
-    publishedDateTime: 2021-02-01T13:02:00Z
-    webUrl: "https://venturebeat.com/2021/02/01/weights-and-biases-raises-45-million-to-advance-mlops-governance/"
-    ampWebUrl: "https://venturebeat.com/2021/02/01/weights-and-biases-raises-45-million-to-advance-mlops-governance/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/01/weights-and-biases-raises-45-million-to-advance-mlops-governance/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/01/WeightsandBiases.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Hourly job-matching startup Landed raises $1.4M"
     excerpt: "Landed, a startup aiming to improve the hiring process for hourly employers and job applicants, is officially launching its mobile app today. It’s also announcing that it has raised $1.4 million in seed funding."
     publishedDateTime: 2021-02-02T19:53:00Z

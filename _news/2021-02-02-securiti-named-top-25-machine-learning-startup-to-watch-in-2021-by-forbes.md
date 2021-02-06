@@ -7,7 +7,7 @@ originalUrl: "https://www.financialbuzz.com/securiti-named-top-25-machine-learni
 webUrl: "https://www.financialbuzz.com/securiti-named-top-25-machine-learning-startup-to-watch-in-2021-by-forbes/"
 type: article
 quality: 20
-heat: -1
+heat: 20
 published: false
 
 provider:
@@ -18,17 +18,6 @@ topics:
   - Machine Learning
   - AI
   - AI in Finance
-
-related:
-  - title: "Securiti Named Top 25 Machine Learning Startup to Watch in 2021 by Forbes"
-    excerpt: "One of the most innovative startups in cybersecurity, combining AI and ML to secure sensitive data in multi-cloud and mixed platform environments."
-    publishedDateTime: 2021-02-01T14:36:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210201005173/en/Securiti-Named-Top-25-Machine-Learning-Startup-to-Watch-in-2021-by-Forbes"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 20
 
 secured: "/iIuMxHt9o8CrPGNXqKcbgVbcXxusF6uHUPgtyw738pNH4u7OnLqaKwsy1wy81kWx4JvWM8DKH+rLtkOppywzJE02w9C3jDx6LmTPgAbgyP8t/n5vViUcJTsYFSpSjmV8+oJY2yG3yA9vL7YdEXCpol2X8wk9WUK5Q1hdvgXZZ2X40ZwXaRwkIP0O7LWupEavIkFt4exRchj50H6Tci0yxVq2TSvhJ3mpY1rRytRSDI+tQ1jAcoHBE1lJRrb37PDpxh3wCqp7ddkI0qb5acKSalxf5wpe8lfjgOGkG9ga/as+sTitjivvcesS7MRil+QBIsBkT2M2QD97xi4ihSG0gOT5LESw+CM6Cx7cNny2F0=;7lT2a82S1Ry1d4kSKruV7g=="
 ---

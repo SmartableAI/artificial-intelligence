@@ -38,20 +38,6 @@ related:
         width: 450
         height: 308
         isCached: true
-  - title: "USC, Amazon Launch Center for Secure Machine Learning Development"
-    excerpt: "The University of Southern California and Amazon have established the Center for Secure and Trusted Machine Learning, a joint research effort to develop new approaches to machine learning privacy and security."
-    publishedDateTime: 2021-02-01T14:30:00Z
-    webUrl: "https://healthitanalytics.com/news/usc-amazon-launch-center-for-secure-machine-learning-development"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2017-05-17SQL-security.jpg"
-        width: 689
-        height: 435
-        isCached: true
 
 secured: "/solXkIcrY4sEoBdDwt/BX+mGLcZwaoO6KvLHlaOIm+1Dcim/49kzXPw4SywpEmqveqXr+7TfdliQl0L2WceSCNIPefhpdlMeFKg3mOyEh0EsUCP+B8UQ9sVkaKdpMEpOxppjczwhubKukgyotpXlO0ywV3ovqGEGD9LpyFLVu8FPK1zmsHeP2bW3ECElgUBlqZXMD8L89BPK74qrS/6HmnrVQhR5rry2JxXxPYGkee6XM51yCvbpFQUUVEldK2+Ir3p18kCLry4FHm32qMcP65SicJ3Nu89ok9nd852vmNsmQDWmnac5O9Zu+2D6fTHukjvr+Occ7Kpf7WlqId/ZrrVRmX2+tVZl+8/97bheSk=;RurAuzEcgkm9+mdf+b0S9Q=="
 ---

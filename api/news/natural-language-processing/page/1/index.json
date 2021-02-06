@@ -355,50 +355,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-03-ai-engineering-deep-learning-silent-revolution-in-software-development.md",
-      "title": "AI Engineering & Deep Learning Silent Revolution in Software Development",
-      "excerpt": "The most important trend in the year 2021 will be AI engineering and a silent revolution in software development caused by Deep Learning. I believe that DL and its amazing possibilities will have a tremendous impact.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cioapplications.com/press-release/ai-engineering-deep-learning-silent-revolution-in-software-development-nid-7187.html",
-      "originalUrl": "https://www.cioapplications.com/press-release/ai-engineering-deep-learning-silent-revolution-in-software-development-nid-7187.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cioapplications.com/newstransfer/upload/ieczb450.jpg",
-          "width": 450,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-02T18:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO Applications",
-        "domain": "cioapplications.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2021-02-03-why-future-advances-in-ai-need-a-new-architecture.md",
       "title": "Why Future Advances In AI Need A New Architecture",
       "excerpt": "Businesses will need to adopt AI technologies not just because they can, but because they must - AI is the technology that will help businesses to be",
@@ -1460,6 +1416,58 @@
         "Facebook AI",
         "AI Ethics",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-researchers-find-conventional-voice-ai-overlooks-trans-and-nonbinary-users.md",
+      "title": "Researchers find conventional voice AI overlooks trans and nonbinary users",
+      "excerpt": "A study published in the Association for Computing Machinery finds issues with the way conventional voice assistants treat",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/20/researchers-find-conventional-voice-ai-overlooks-trans-and-nonbinary-users/",
+      "originalUrl": "https://venturebeat.com/2021/01/20/researchers-find-conventional-voice-ai-overlooks-trans-and-nonbinary-users/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/amazon-alexa-echo-studio-echo-flex-fire-tv-cube-2.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 697,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/20/researchers-find-conventional-voice-ai-overlooks-trans-and-nonbinary-users/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/20/researchers-find-conventional-voice-ai-overlooks-trans-and-nonbinary-users/amp/",
+      "publishedDateTime": "2021-01-20T12:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],

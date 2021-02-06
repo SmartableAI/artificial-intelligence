@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-facial-recogni
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-facial-recognition-photos-20210201-idcvahi65bh7zkobkb7wjvwpgy-story.html?outputType=amp"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Check if your photos were used to develop facial recognition systems with this free tool"
-    excerpt: "A new online tool called Exposing.AI can help you find out if photos of your face were used in AI surveillance research."
-    publishedDateTime: 2021-02-01T13:11:00Z
-    webUrl: "https://thenextweb.com/neural/2021/02/01/check-if-your-photos-were-used-to-develop-facial-recognition-systems-with-this-free-tool/"
-    ampWebUrl: "https://thenextweb.com/neural/2021/02/01/check-if-your-photos-were-used-to-develop-facial-recognition-systems-with-this-free-tool/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/01/check-if-your-photos-were-used-to-develop-facial-recognition-systems-with-this-free-tool/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 80
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/Untitled-design-2021-02-01T125910.904-796x417.png"
-        width: 796
-        height: 417
-        isCached: true
   - title: "New A.I. face recognition tool"
     excerpt: "When you post photos of yourself or friends and family online, you may not imagine they could be used to develop facial-recognition systems that can identify individuals offline. A new"
     publishedDateTime: 2021-02-05T04:45:00Z

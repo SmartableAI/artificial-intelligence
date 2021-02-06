@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Check if your photos were used to develop facial recognition systems with this free tool"
-    excerpt: "A new online tool called Exposing.AI can help you find out if photos of your face were used in AI surveillance research."
-    publishedDateTime: 2021-02-01T13:11:00Z
-    webUrl: "https://thenextweb.com/neural/2021/02/01/check-if-your-photos-were-used-to-develop-facial-recognition-systems-with-this-free-tool/"
-    ampWebUrl: "https://thenextweb.com/neural/2021/02/01/check-if-your-photos-were-used-to-develop-facial-recognition-systems-with-this-free-tool/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/01/check-if-your-photos-were-used-to-develop-facial-recognition-systems-with-this-free-tool/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 80
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/Untitled-design-2021-02-01T125910.904-796x417.png"
-        width: 796
-        height: 417
-        isCached: true
   - title: "Here’s a way to learn if facial recognition systems used your photos"
     excerpt: "An online tool targets only a small slice of what’s out there, but may open some eyes to how widely artificial intelligence research fed on personal images."
     publishedDateTime: 2021-02-01T16:25:00Z

@@ -25,33 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) In Fintech Market Qualitative Insights on Application and Drivers & Growth Opportunity Analysis Report"
-    excerpt: "In Fintech Market Estimation, Global Share, Industry Outlook, Price Trend, Growth Opportunity and Top Regional Forecast (Latin America, North America, Asia Specific, Europe, Middle East ) \" Market Overview: Global Artificial Intelligence (AI) in Fintech Market is valued approximately USD 2."
-    publishedDateTime: 2021-02-01T13:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-qualitative-insights-on-application-and-drivers-growth-opportunity-analysis-report-2021-02-01"
+  - title: "Learn How to Invest in A Trillion-Dollar Industry With This $40 Fintech Bootcamp"
+    excerpt: "The latest innovation since the internet is here and you need to invest in it. Finance meets technology in this fintech bootcamp bundle."
+    publishedDateTime: 2021-02-02T10:00:00Z
+    webUrl: "https://www.blackenterprise.com/learn-how-to-invest-in-a-trillion-dollar-industry-with-this-40-fintech-bootcamp/"
+    ampWebUrl: "https://www.blackenterprise.com/learn-how-to-invest-in-a-trillion-dollar-industry-with-this-40-fintech-bootcamp/amp/"
+    cdnAmpWebUrl: "https://www-blackenterprise-com.cdn.ampproject.org/c/s/www.blackenterprise.com/learn-how-to-invest-in-a-trillion-dollar-industry-with-this-40-fintech-bootcamp/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI-Based Fever Detection Camera Market Share, Growth Insight, Size, Competitive Analysis, Regional, And Global Forecast To 2027"
-    excerpt: "How will the AI-based fever detection cameras help in battling COVID-19? Which region is likely to generate the highest revenue in the near future? Which segment would procure the largest share? What are the restraining factors of the AI-Based Fever Detection Camera Market?"
-    publishedDateTime: 2021-02-01T13:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-based-fever-detection-camera-market-share-growth-insight-size-competitive-analysis-regional-and-global-forecast-to-2027-2021-02-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: Black Enterprise
+      domain: blackenterprise.com
     quality: 39
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2021/01/andre-francois-mckenzie-JrjhtBJ-pGU-unsplash.jpg"
+        width: 1000
+        height: 668
         isCached: true
 
 secured: "I5oQRXCL+kX/xjrJ/hHKFN2dlBSZAGT2hL6rOHFG3xKoDj1zyAPi/iDDdphfCxOlzYyrhgfNt6xVvm08DX6X++ecGBKIyu54fMTgzOyT9aR+xW/7+IjcPkKS5BB92on+NGGfcO65tFfwz8yEKfIKNBqjEZBzLYFy9v0eUWQ1uwLNeDOc3J27OXXl3TTn242fqlTPYEh+MfvvY3pX7IJ7jJsotM2sWAlCTmcY2bqwWGSl1PVqeZd5tkTaD1O5qlBCfHcNpVAQpjXjGlCRb6sVAa4LRw+6hGAD+WQJXNHecVbxiEkWgvVPnjheQONVye70eJHIwoK2xpu1qthzbqBVT+T2mTxCkHZoZD23Yid9sJU=;opduNdka0nvSc+d5JVKlAA=="

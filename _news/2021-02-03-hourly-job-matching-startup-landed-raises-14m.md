@@ -46,22 +46,6 @@ related:
         width: 680
         height: 412
         isCached: true
-  - title: "Weights and Biases raises $45 million to advance MLOps governance"
-    excerpt: "Weights and Biases, provider of a platform for enabling collaboration and governance across teams building machine learning models, today revealed it has raised a $45 million series B round led by Insight Partners."
-    publishedDateTime: 2021-02-01T13:02:00Z
-    webUrl: "https://venturebeat.com/2021/02/01/weights-and-biases-raises-45-million-to-advance-mlops-governance/"
-    ampWebUrl: "https://venturebeat.com/2021/02/01/weights-and-biases-raises-45-million-to-advance-mlops-governance/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/01/weights-and-biases-raises-45-million-to-advance-mlops-governance/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/01/WeightsandBiases.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Machine learning experiment tracking startup Weights and Biases raises $45M"
     excerpt: "Machine learning startup Weights and Biases Inc. said today it has raised $45 million in a new round of funding that brings its total amount raised to $65 million. The Series B round was led by Insight Partners with participation from Coatue,"
     publishedDateTime: 2021-02-02T03:44:00Z
