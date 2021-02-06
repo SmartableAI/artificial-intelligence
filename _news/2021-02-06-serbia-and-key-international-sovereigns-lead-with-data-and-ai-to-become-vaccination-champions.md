@@ -62,17 +62,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Union Budget 2021: MCA-21 3.0 Portal To Reduce Compliance Burden On Startups With AI, ML Tech"
-    excerpt: "Finance Minister Nirmala Sitharaman has proposed to use data analytics, artificial intelligence, machine learning for MCA"
-    publishedDateTime: 2021-02-01T08:53:00Z
-    webUrl: "https://inc42.com/infocus/union-budget-2021/union-budget-2021-mca-21-3-0-portal-to-reduce-compliance-burden-on-startups-with-ai-ml-tech/"
-    ampWebUrl: "https://inc42.com/infocus/union-budget-2021/union-budget-2021-mca-21-3-0-portal-to-reduce-compliance-burden-on-startups-with-ai-ml-tech/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/infocus/union-budget-2021/union-budget-2021-mca-21-3-0-portal-to-reduce-compliance-burden-on-startups-with-ai-ml-tech/amp/"
-    type: article
-    provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 43
   - title: "Budget 2021: Language translation mission to local language content development"
     excerpt: "In 2020, during the peak months of covid-19, the government had tied up with Reverie Technologies and had deployed their language translation technology Anuvadak to translate and publish the MyGov Cov"
     publishedDateTime: 2021-02-01T09:20:00Z
@@ -104,6 +93,6 @@ related:
         height: 400
         isCached: true
 
-secured: "ZMBx8xI1l8hWLD/Db5uDz3OZHtpO4H6Og2ywaZ+U9bLA2uWGcMJ++gNFfvjhfbYqtRBO37KQnPGtq1FHUjE96avEZ9l/BscVGdaZGAzhhkLE/s7B8I8Qw3CLQAnoHArKNwJ7Obi1Y9Uj7HvOKqg51gRmREOeeLtHS5oQxxJlxztlGShLlU79Ii80AU1url4zE2CF5On6eMj932JlyCVIM65R92Hj7yNWXK2aIGJblG8SXpAjUlKejoJAJJFZjRVVHHf13fodXzKpPODHSQrxP/rEDwtVRuHOfAZfO/VFVqipIUballQ+Wuv7yBU3Bv5xN/cDw7OGxSfFH/b9Z0PRIbdApmaQNlHwSLjUYQKaGLk=;k2Js4qQJesGJYaepa+Rrdw=="
+secured: "LobvC9XEpw1mMFb9WrL5pr+Nox/dlJxY52O07xMynBeWnea5zclhwMxCK+9h2+cQkSd9oeFZ4CYoheqhMHHmw4mNChhHRt2R/ZzHz6m+FBfryb3SzEsC9cPq2QMujvUdWef+q7m2UpMqy7n8rR2Wdmb3HfAqtxJbsMVcxvbj+/WO9GuuwWqCK7lBjwV3WQg/3t9FivjbHttwqoC7yl6ksxFF/YfmVc3byRNk7ftvjELKgmoBBE1iCIQ2QNa1f7xWO7XDJYItzMikPsIYSP2RzcuuWYWl1HZNiH3+ZZvPixe2NdYheT2lJRmBLkutkTX6S6tqLVripsmD4nxDkJTplm0OWut7GgjNgcixfgNfOQwgpqgiIJGh+hAXpVUZM/CxlfFehE6B7Lz4H3U3wrzvibOehfLFQ0AjkzFc+RvH7VpJBtQycQmbacgPDiNNlTKAKrjprrlo/Ag3WASiLO2hCHCbjcI6G40fr+f4ZInIKEuVgSfeUFBGou1DCnEV2sZbaFVPwUZRVd/Brt0lvJZPoQ==;08OpDeNEMX4vC5O0YDil3w=="
 ---
 

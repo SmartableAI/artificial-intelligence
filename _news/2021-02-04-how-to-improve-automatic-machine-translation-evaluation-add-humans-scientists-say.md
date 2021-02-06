@@ -73,17 +73,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Union Budget 2021: MCA-21 3.0 Portal To Reduce Compliance Burden On Startups With AI, ML Tech"
-    excerpt: "Finance Minister Nirmala Sitharaman has proposed to use data analytics, artificial intelligence, machine learning for MCA"
-    publishedDateTime: 2021-02-01T08:53:00Z
-    webUrl: "https://inc42.com/infocus/union-budget-2021/union-budget-2021-mca-21-3-0-portal-to-reduce-compliance-burden-on-startups-with-ai-ml-tech/"
-    ampWebUrl: "https://inc42.com/infocus/union-budget-2021/union-budget-2021-mca-21-3-0-portal-to-reduce-compliance-burden-on-startups-with-ai-ml-tech/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/infocus/union-budget-2021/union-budget-2021-mca-21-3-0-portal-to-reduce-compliance-burden-on-startups-with-ai-ml-tech/amp/"
-    type: article
-    provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 43
   - title: "Budget 2021: Language translation mission to local language content development"
     excerpt: "In 2020, during the peak months of covid-19, the government had tied up with Reverie Technologies and had deployed their language translation technology Anuvadak to translate and publish the MyGov Cov"
     publishedDateTime: 2021-02-01T09:20:00Z

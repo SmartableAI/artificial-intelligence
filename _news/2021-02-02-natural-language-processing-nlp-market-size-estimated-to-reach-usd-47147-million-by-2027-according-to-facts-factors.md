@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/natural-language-process
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-size-estimated-to-reach-usd-47147-million-by-2027-according-to-facts-factors-2021-02-01"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Natural Language Processing (NLP) Market Size Estimated to Reach USD 47,147 Million By 2027, According to Facts & Factors"
-    excerpt: "Facts and Factors have published a new research report titled \"Natural Language Processing (NLP) Market Size &"
-    publishedDateTime: 2021-02-01T07:49:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/02/g19413090/natural-language-processing-nlp-market-size-estimated-to-reach-usd-47-147-million-by-2027-accordin"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19413090"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19413090"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 29
   - title: "Market Size of AI in Agriculture is Projected to Reach USD 2,400 Million by 2026, According to Facts & Factors"
     excerpt: "Facts and Factors have published a new research report titled \"AI in Agriculture Market By Technology (Machine"
     publishedDateTime: 2021-02-02T12:00:00Z

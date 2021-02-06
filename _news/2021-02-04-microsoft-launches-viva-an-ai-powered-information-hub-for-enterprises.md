@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/04/microsoft-launches-viva-topics-an
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/04/microsoft-launches-viva-topics-an-ai-powered-information-curator-for-enterprises/amp/"
 type: article
 quality: 104
-heat: 245
+heat: 244
 published: true
 
 provider:

@@ -35,17 +35,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing (NLP) Market Size Estimated to Reach USD 47,147 Million By 2027, According to Facts & Factors"
-    excerpt: "Facts and Factors have published a new research report titled \"Natural Language Processing (NLP) Market Size &"
-    publishedDateTime: 2021-02-01T07:49:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/02/g19413090/natural-language-processing-nlp-market-size-estimated-to-reach-usd-47-147-million-by-2027-accordin"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19413090"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19413090"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 29
   - title: "Artificial Intelligence in Diagnostics Market is Estimated to Achieve CAGR of 33.2% By 2027"
     excerpt: "The global artificial intelligence in Diagnostics market is expected to grow at a CAGR of 33.2% during the forecast period 2020 - 2027. According to the report titled ‘Artificial Intelligence in Diagnostics Market Size study,"
     publishedDateTime: 2021-02-04T07:06:00Z

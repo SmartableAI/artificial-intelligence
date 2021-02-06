@@ -75,17 +75,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Union Budget 2021: MCA-21 3.0 Portal To Reduce Compliance Burden On Startups With AI, ML Tech"
-    excerpt: "Finance Minister Nirmala Sitharaman has proposed to use data analytics, artificial intelligence, machine learning for MCA"
-    publishedDateTime: 2021-02-01T08:53:00Z
-    webUrl: "https://inc42.com/infocus/union-budget-2021/union-budget-2021-mca-21-3-0-portal-to-reduce-compliance-burden-on-startups-with-ai-ml-tech/"
-    ampWebUrl: "https://inc42.com/infocus/union-budget-2021/union-budget-2021-mca-21-3-0-portal-to-reduce-compliance-burden-on-startups-with-ai-ml-tech/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/infocus/union-budget-2021/union-budget-2021-mca-21-3-0-portal-to-reduce-compliance-burden-on-startups-with-ai-ml-tech/amp/"
-    type: article
-    provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 43
   - title: "How to Improve Automatic Machine Translation Evaluation? Add Humans, Scientists Say"
     excerpt: "Scientists propose new system to standardize automatic evaluation of NLP systems by adding humans in the loop."
     publishedDateTime: 2021-02-04T07:31:00Z
