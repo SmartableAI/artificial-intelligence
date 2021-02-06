@@ -169,10 +169,10 @@ related:
         isCached: true
   - title: "Who is Andy Jassy, the longtime Amazon executive set to become its new CEO?"
     excerpt: "The Amazon vet runs its most profitable division. Here's what his appointment tells us about the company's future."
-    publishedDateTime: 2021-02-03T22:22:00Z
-    webUrl: "https://www.cbsnews.com/news/who-is-andy-jassy-amazon-ceo/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/who-is-andy-jassy-amazon-ceo/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/who-is-andy-jassy-amazon-ceo/"
+    publishedDateTime: 2021-02-04T12:20:00Z
+    webUrl: "https://www.cbsnews.com/news/andy-jassy-amazon-ceo-executive/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/andy-jassy-amazon-ceo-executive/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/andy-jassy-amazon-ceo-executive/"
     type: article
     provider:
       name: CBS News
@@ -228,16 +228,16 @@ related:
         height: 450
         isCached: true
   - title: "As Jeff Bezos steps down, Amazon stakes its future on the cloud"
-    excerpt: "In his 2014 annual letter to shareholders, Amazon CEO Jeff Bezos wrote that a \"dreamy business offering\" comprises at least four elements: \"Customers love it, it can grow to very"
-    publishedDateTime: 2021-02-04T17:20:00Z
-    webUrl: "https://tulsaworld.com/lifestyles/technology/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_409521a9-4084-5c25-814c-66321c2cec71.html"
+    excerpt: "Among them, Jassy has championed one of Amazon's most controversial products: the facial recognition software, Rekognition. Amazon generally doesn't identify its Rekognition customers, but they ..."
+    publishedDateTime: 2021-02-04T20:54:00Z
+    webUrl: "https://www.winonadailynews.com/lifestyles/technology/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_1cead50b-95db-5c87-a1c1-1dd71fa958fd.html"
     type: article
     provider:
-      name: Tulsa World
-      domain: tulsaworld.com
+      name: Winona Daily News
+      domain: winonadailynews.com
     quality: 24
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/a/4b/a4b80c15-0025-5c29-aaa2-c8bc8fe84457/601c55e50d45a.image.jpg?resize=576%2C324"
+      - url: "https://bloximages.chicago2.vip.townnews.com/winonadailynews.com/content/tncms/assets/v3/editorial/8/70/870981ad-021e-5b6c-905d-973eeb61e393/601c56bed278d.image.jpg?resize=576%2C324"
         width: 576
         height: 324
         isCached: true

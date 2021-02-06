@@ -3,10 +3,10 @@ category: news
 title: "Etihad Airways transforms operations with Microsoft AI capabilities"
 excerpt: "The Finance and Digital, Technology and Innovation divisions worked with Microsoft to modernize their payment inspection process using cognitive services"
 publishedDateTime: 2021-02-05T05:44:00Z
-originalUrl: "https://www.zawya.com/mena/en/business/story/Etihad_Airways_transforms_operations_with_Microsoft_AI_capabilities-SNG_199629494/"
-webUrl: "https://www.zawya.com/mena/en/business/story/Etihad_Airways_transforms_operations_with_Microsoft_AI_capabilities-SNG_199629494/"
-ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_199629494/"
-cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_199629494/"
+originalUrl: "https://www.zawya.com/uae/en/business/story/Etihad_Airways_transforms_operations_with_Microsoft_AI_capabilities-SNG_199629494/"
+webUrl: "https://www.zawya.com/uae/en/business/story/Etihad_Airways_transforms_operations_with_Microsoft_AI_capabilities-SNG_199629494/"
+ampWebUrl: "https://www.zawya.com/uae/en/story/amp/SNG_199629494/"
+cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/SNG_199629494/"
 type: article
 quality: 74
 heat: -1
@@ -318,6 +318,20 @@ related:
         width: 510
         height: 314
         isCached: true
+  - title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
+    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
+    publishedDateTime: 2021-02-03T08:22:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 46
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Microsoft Says It's Time to Attack Your Machine-Learning Models"
     excerpt: "With access to some training data, Microsoft's red team recreated a machine-learning system and found sequences of requests that resulted in a denial-of-service."
     publishedDateTime: 2021-02-04T22:13:00Z
@@ -402,15 +416,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
-    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance"
-    publishedDateTime: 2021-02-02T22:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 26
   - title: "Agent Factory announces collaboration with Microsoft to enable Smart Logistics solutions with advanced 3D vision technologies"
     excerpt: "AGENT FACTORY LTD., based in Israel, announces its collaboration with Microsoft's Azure Depth Platform program, aimed at democratizing"
     publishedDateTime: 2021-02-03T18:14:00Z
@@ -435,6 +440,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "oJtgdrcd7niAnL+sDZKdzR19AcucXD9oTzwj+6OYqyTiTuQm1A5m3zysbIphxgM6qgfqh82TCbmn2rNymqvS7PFfC+4/GGEvRERTBczWe/aRSGB7LDF0UbBMMiHSk60i6jbkVPOZ/m+GpiqQMQulI79q1W1fZncSTuP5B4NjKXW258VLmtLnsCE4lHEVwsXCLb5lEeh38LVhj8ln6hwACl7CYGjfuQkRxOBUoWe1VY9SFYLZU7/i1hca9ukCzdL5WxOXr/GhQjvVLs5gT5t4+uIc6WX8eiPQvGxtXvnj5qY/Xw6HK5RmHlcD2D9buJjRnoz3cbyh7Zf7YbFkps5eLblvfJo9xZrHMHeYDV6V+tslozVAgv+81E3Mp7QPgBG876ZozrfVOcTTNsZmj01VVdC4Y7p3nf4xJLe1+OmmI9gDljhQSt8qheVJ1eeREXrh6//IqGzCLv7sMTIG2UqWcgyyec0rJ3WH+/U3YAMfe0f7FcLmAFeFX0SCD30gwxFuQJPqk5bHtUHrh+U/VSPpOw==;4P3MB5kR1cqVuko5Uhpiiw=="
+secured: "jLaNxrV8U2OKyQ63bjwNhX+sYZaS5vQQhmtgEo47XWh12Rc6Ru/rfT5JfYxiVm4b9Ht1JlkcG97AZIRmd44c/MD5nXxgJoPdHlR00jwbzWkzUGZ8P4IOzGtWcBKKvJEIaELSXxmEu/nm4Vlt/+83+mht1Qqm85InDFWy2QlPmWHjk4BmNpcI3uUvoeDxSNbZ+jNqN6o3TN6wyXJnqa4YuNbTAfI8RIiNVeVGdC5cox0ylkNUyE1L56DjtrX7Mr720kIuttfMaqaETe+kIIR00W/kqxwMwE+JRnJGcxzhL6qhX78ta2uXrpk94gvor3TpjNO2JhOE5kjkJUt5jQYOmVA2Zcd1/tFJby1zpci17b4=;BkLPMWvrwrO2Zz2ZwPLT1w=="
 ---
 

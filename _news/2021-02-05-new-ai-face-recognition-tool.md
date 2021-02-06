@@ -7,7 +7,7 @@ originalUrl: "https://www.fox10tv.com/news/daily_dot_com/new-a-i-face-recognitio
 webUrl: "https://www.fox10tv.com/news/daily_dot_com/new-a-i-face-recognition-tool/article_5dceafd6-6753-11eb-9920-135d6b072d2c.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,88 +25,61 @@ images:
     isCached: true
 
 related:
-  - title: "Safari turns on ‘Speech Recognition’ by default Tech Preview of release"
-    excerpt: "Safari turns on 'Speech Recognition' by default Tech Preview of release on February 1, 2021 at 2.30 p.m. Apple's Safari browser is"
-    publishedDateTime: 2021-02-01T21:18:00Z
-    webUrl: "https://www.compsmag.com/news/technology/safari-turns-on-speech-recognition-by-default-tech-preview-of-release/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/safari-turns-on-speech-recognition-by-default-tech-preview-of-release/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/safari-turns-on-speech-recognition-by-default-tech-preview-of-release/amp/"
+  - title: "Take Image Recognition and Computer Vision to the Next Level"
+    excerpt: "Enhancing AI with powerful image and signal processing capabilities. Digital Harmonic is a leading innovator in image processing for artificial intelligence (AI) and machine learn"
+    publishedDateTime: 2021-02-05T22:25:00Z
+    webUrl: "https://www.cio.com/article/3606471/take-image-recognition-and-computer-vision-to-the-next-level.html"
     type: article
     provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 59
+      name: CIO
+      domain: cio.com
+    quality: 39
     images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Safari-turns-on-Speech-Recognition-by-default-Tech-Preview-of.png"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "Apple Safari builds in speech recognition on the web with MacOS 11.3"
-    excerpt: "Apple Safari builds in speech recognition on the web with MacOS 11.3 Illustration by Stephen Shanlkland / CNET Apple has added support"
-    publishedDateTime: 2021-02-03T11:45:00Z
-    webUrl: "https://www.compsmag.com/news/gaming/apple-safari-builds-in-speech-recognition-on-the-web-with-macos-11-3/"
-    ampWebUrl: "https://www.compsmag.com/news/gaming/apple-safari-builds-in-speech-recognition-on-the-web-with-macos-11-3/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/apple-safari-builds-in-speech-recognition-on-the-web-with-macos-11-3/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 59
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Apple-Safari-builds-in-speech-recognition-on-the-web-with.jpg"
+      - url: "https://images.idgesg.net/images/article/2021/02/digital-harmonic-100876398-large.jpg"
         width: 1200
-        height: 630
+        height: 800
         isCached: true
-  - title: "Nuance Dragon Medical One Earns #1 Best in KLAS Award for Speech Recognition: Front-End EMR"
-    excerpt: "Nuance Communications, Inc. today announced that Nuance Dragon ® Medical One cloud-based speech recognition platform captured top honors as the 2021 Best in KLAS: Software& Services award winner, earning praise from clinicians as the #1 conversational AI speech recognition solution helping deliver and document better patient care."
-    publishedDateTime: 2021-02-02T13:30:00Z
-    webUrl: "https://www.nasdaq.com/press-release/nuance-dragon-medical-one-earns-1-best-in-klas-award-for-speech-recognition%3A-front"
+  - title: "Ping Identity service uses video facial recognition to verify new customer accounts"
+    excerpt: "Ping Identity Holding Corp., a provider of identity management services, Tuesday launched PingOne Verify, a new cloud service that businesses can use to more quickly verify customer identities for rapid account onboarding,"
+    publishedDateTime: 2021-02-03T20:52:00Z
+    webUrl: "https://siliconangle.com/2021/02/03/ping-identity-service-uses-video-facial-recognition-verify-new-customer-accounts/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 39
-  - title: "Spotify patent hints at speech recognition for music recommendations"
-    excerpt: "Spotify has been granted a patent for the invention of a system to use speech recognition and analysis to create individually recommended music choices."
-    publishedDateTime: 2021-02-02T19:28:00Z
-    webUrl: "https://www.biometricupdate.com/202102/spotify-patent-hints-at-speech-recognition-for-music-recommendations"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 33
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/02142013/spotify-patent-personalization-speech-recognition.jpg"
-        width: 608
-        height: 405
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/face-detection-4760281_1280.jpg"
+        width: 1280
+        height: 853
         isCached: true
-  - title: "Rev Announces New Languages in Automated Speech Recognition"
-    excerpt: "The world’s most accurate speech-to-text engine, Rev, today announced the expansion of its highly accurate speech recognition service with the addition of four new languages: French, German, Portuguese,"
-    publishedDateTime: 2021-02-05T14:32:00Z
-    webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-new-products-and-services-e1adf12858cc06cd9c25c98d72ad96e9"
+  - title: "It is time to bid farewell to QR codes and get ready to enter the age of face recognition"
+    excerpt: "Facial Payment is an advanced innovation which can make payments simply by scanning your face and most likely replace the conventional digital payments system. Applications of facial recognition are quite prominent across different industries like healthcare,"
+    publishedDateTime: 2021-02-03T14:24:00Z
+    webUrl: "https://www.analyticsinsight.net/can-facial-recognition-replace-traditional-digital-payment-system/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 30
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/02/Can-Facial-Recognition-replace-Traditional-Digital-Payment-System.jpg"
+        width: 900
+        height: 500
         isCached: true
-  - title: "Nuance Dragon Medical One Earns #1 Best in KLAS Award for Speech Recognition: Front-End EMR"
-    excerpt: "Nuance Communications, Inc. (NASDAQ: NUAN) today announced that Nuance Dragon® Medical One cloud-based speech recognition platform captured top honors as the 2021 Best in KLAS: Software & Services award winner,"
-    publishedDateTime: 2021-02-03T07:56:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-health-voice-recognition-computing-and-information-technology-5cd52a89fd3eb2b038ccf842a9781924"
+  - title: "Privacy investigation finds U.S. tech firm violated Canadian rules with facial-recognition tool"
+    excerpt: "Watch Privacy investigation finds U.S. tech firm violated Canadian rules with facial-recognition tool Video Online, on GlobalNews.ca"
+    publishedDateTime: 2021-02-04T02:49:00Z
+    webUrl: "https://globalnews.ca/video/7618882/privacy-investigation-finds-u-s-tech-firm-violated-canadian-rules-with-facial-recognition-tool"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 29
+      name: Global News
+      domain: globalnews.ca
+    quality: 12
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://i2.wp.com/media.globalnews.ca/videostatic/news/csb5en8tzl-ko7w5ykfhw/JPEG_FACIAL_RECOG_TED_CHERN.jpg?w=500&quality=70&strip=all"
+        width: 500
+        height: 281
         isCached: true
 
 secured: "kdj9tJOvngowE8Dny+QUOtt8ArFmplDO+Oj8ecZETb0ZrrWvsbpXTx0sk+gMUBO8mgM9gtXjz4YY5c4r8B0+cvH7hf1fn9koIK1+uUhRnM1+TRns0hskikz8d+nhox+U29txANJnznqUTdEw6UgrY5HJAHQrU78GnRjhP9ehQcmTNgRdOEyafKM/cIBcR0cExjGDk5UYOWp8HSCfni5mrRFr9FYrNqXSb9E3k8VQTtQEEXUTwF6Eu9GShy7fYzHMF1GiySyGwNzLeny6IQpxk7Df68revqiwO7rdbWTO8GtCGC4gFksuaHd2f/1oc3TZO0419lzqzvDvAaqwRrul8jv1PJHsosHO2OUxESDDILzPtEKBDWGfw/FiITNWwmPGi2g0DF+PW/pMz7fh3tTqxqaMoM2YICVzGQrpZ3OSX+OfadDfCxrqitzsMNDiJwx806n4eRw+oy4gjcChle6jFxppYEXBFd5GXgQmi0r3WzBkcKaeSV8t0Ujq5d2/HVGmeaWHYuCFb7l6xCg8Sn0xhA==;E56NvUcVXIwc9PaEMlJmeg=="

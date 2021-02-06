@@ -1,47 +1,53 @@
 ---
 category: news
 title: "United Fintech Enters the Market Data and RegTech Space with TTMzero Acquisition"
-excerpt: "United Fintech has entered the Market Data & RegTech space with the acquisition of German fintech, TTMzero. United Fintech has taken a 25% stake in the market leading firm, with the intention of increasing to 80% over the next three years."
-publishedDateTime: 2021-02-04T10:02:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-new-york-europe-new-york-city-7b404de2dd2f455587e5b5f4eb5704f0"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-new-york-europe-new-york-city-7b404de2dd2f455587e5b5f4eb5704f0"
+excerpt: "United Fintech, which plans to transform banks and fintechs in capital markets, enters the Market Data & RegTech space with the acquisition of TTMzero"
+publishedDateTime: 2021-02-04T13:34:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210204005132/en/United-Fintech-Enters-the-Market-Data-and-RegTech-Space-with-TTMzero-Acquisition"
+webUrl: "https://www.businesswire.com/news/home/20210204005132/en/United-Fintech-Enters-the-Market-Data-and-RegTech-Space-with-TTMzero-Acquisition"
 type: article
-quality: 19
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
 related:
-  - title: "Learn How to Invest in A Trillion-Dollar Industry With This $40 Fintech Bootcamp"
-    excerpt: "The latest innovation since the internet is here and you need to invest in it. Finance meets technology in this fintech bootcamp bundle."
-    publishedDateTime: 2021-02-02T10:00:00Z
-    webUrl: "https://www.blackenterprise.com/learn-how-to-invest-in-a-trillion-dollar-industry-with-this-40-fintech-bootcamp/"
-    ampWebUrl: "https://www.blackenterprise.com/learn-how-to-invest-in-a-trillion-dollar-industry-with-this-40-fintech-bootcamp/amp/"
-    cdnAmpWebUrl: "https://www-blackenterprise-com.cdn.ampproject.org/c/s/www.blackenterprise.com/learn-how-to-invest-in-a-trillion-dollar-industry-with-this-40-fintech-bootcamp/amp/"
+  - title: "SMR-focused fintech Thrive starts £2 million crowdfunding campaign"
+    excerpt: "Thrive, a fintech that promises to automate financial admin for SMEs has announced a crowdfunding campaign on Birchal, with the goal of raising up to $2m to fund its launch plans for later this year."
+    publishedDateTime: 2021-02-04T15:21:00Z
+    webUrl: "https://www.finextra.com/pressarticle/86037/smr-focused-fintech-thrive-starts-2-million-crowdfunding-campaign"
     type: article
     provider:
-      name: Black Enterprise
-      domain: blackenterprise.com
+      name: Finextra
+      domain: finextra.com
     quality: 39
     images:
-      - url: "https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2021/01/andre-francois-mckenzie-JrjhtBJ-pGU-unsplash.jpg"
-        width: 1000
-        height: 668
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
+  - title: "SME-focused fintech Thrive starts £2 million crowdfunding campaign"
+    excerpt: "Thrive, a fintech that promises to automate financial admin for SMEs has announced a crowdfunding campaign on Birchal, with the goal of raising up to $2m to fund its launch plans for later this year."
+    publishedDateTime: 2021-02-05T12:13:00Z
+    webUrl: "https://www.finextra.com/pressarticle/86037/sme-focused-fintech-thrive-starts-2-million-crowdfunding-campaign"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
         isCached: true
 
-secured: "I5oQRXCL+kX/xjrJ/hHKFN2dlBSZAGT2hL6rOHFG3xKoDj1zyAPi/iDDdphfCxOlzYyrhgfNt6xVvm08DX6X++ecGBKIyu54fMTgzOyT9aR+xW/7+IjcPkKS5BB92on+NGGfcO65tFfwz8yEKfIKNBqjEZBzLYFy9v0eUWQ1uwLNeDOc3J27OXXl3TTn242fqlTPYEh+MfvvY3pX7IJ7jJsotM2sWAlCTmcY2bqwWGSl1PVqeZd5tkTaD1O5qlBCfHcNpVAQpjXjGlCRb6sVAa4LRw+6hGAD+WQJXNHecVbxiEkWgvVPnjheQONVye70eJHIwoK2xpu1qthzbqBVT+T2mTxCkHZoZD23Yid9sJU=;opduNdka0nvSc+d5JVKlAA=="
+secured: "JWp9L6RoChkN4/vK2fhSaLVnitXzj8HUBe3g6FLxU8x4o1nYG0tG/MgYjiWsQ3uNzxGdrNMyCPY3TcOn7HHExcOkOUNSbJNsyDLustChQj9+hQpmU9wzHwRbrDHt2fS/2EDZ805I6nThB/u6nFr/BhAxZAx9pP/uPex7lBSIUH2MQ6Qh3IxRswTvVJ9rnM5bCKqe1kPJRl95tfAsULUQUM+yVm/m6kwAkNhgQYOMzFsTI0CoSsemwaZNpuk5FLV/5WN8N0jj+6gae7zd4qUE2irDcJSeoErBdxLARnqhcFStJB9kiCRBdpkiEp6478MO+ODmSIchOXipGUIh1qghcTtB4hL9qRM/gHe5gdID5yGZpssnYf6N9LwN7FpQXx2eCJLhfygreF7e4nEkDOAFk3wcsNvrPKNMMUEZlwu3MMI1+C/5vxwO9IVcMSjlbkx2DA6/sTa7cKqVfqyAMoiYzUZim8ddl4zwtbAzDuyibm5FlQmfZYdyOuhMvXhbC8Ub/vjo8Txhco1eO1rVPIEMlA==;5vnIVCIbORPI4QQMiZDrKA=="
 ---
 

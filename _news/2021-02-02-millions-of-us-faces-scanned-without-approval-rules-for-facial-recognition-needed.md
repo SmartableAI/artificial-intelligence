@@ -52,22 +52,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 84
-  - title: "Facial Recognition Tech May Be Being Used Against Russian Protestors"
-    excerpt: "Navalny protests using facial recognition tools, detainees claim. As massive protests sweep across the nation, activists fear Russia has been deploying facial recognition technology to clamp down on dissent."
-    publishedDateTime: 2021-02-01T21:37:00Z
-    webUrl: "https://www.coindesk.com/street-cameras-arrest-protesters-moscow"
-    ampWebUrl: "https://www.coindesk.com/street-cameras-arrest-protesters-moscow?amp=1"
-    cdnAmpWebUrl: "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/street-cameras-arrest-protesters-moscow?amp=1"
-    type: article
-    provider:
-      name: CoinDesk
-      domain: coindesk.com
-    quality: 74
-    images:
-      - url: "https://static.coindesk.com/wp-content/uploads/2021/02/GettyImages-1024092068-1200x628.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Short Amazon’s facial recognition ban. Go long on selling Rekognition to cops again"
     excerpt: "Will Amazon begin selling its facial recognition technology to any governmental body when its self-imposed moratorium ends."
     publishedDateTime: 2021-02-04T19:11:00Z

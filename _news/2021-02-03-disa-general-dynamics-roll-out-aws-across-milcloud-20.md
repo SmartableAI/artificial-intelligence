@@ -7,7 +7,7 @@ originalUrl: "https://washingtontechnology.com/articles/2021/02/01/milcloud-amaz
 webUrl: "https://washingtontechnology.com/articles/2021/02/01/milcloud-amazon-available.aspx"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "GDIT Announces AWS Availability on milCloud 2.0 Contract; Dave Levy Quoted"
-    excerpt: "General Dynamics Information Technology (GDIT) has announced the availability of Amazon Web Services (AWS) under the milCloud 2.0 contract, GDIT reported on Monday. AWS availability will provide the Department of Defense (DoD) access to an expanded portfolio of secure cloud services."
-    publishedDateTime: 2021-02-01T21:42:00Z
-    webUrl: "https://www.executivegov.com/2021/02/gdit-announces-aws-availability-on-milcloud-2-0-contract-dave-levy-quoted/"
-    type: article
-    provider:
-      name: Executive Gov
-      domain: executivegov.com
-    quality: 52
-    images:
-      - url: "https://executivegov-media.s3.amazonaws.com/2021/02/01/56/77/7e/91/c4/a2/48/44/dave-levy-wash100.png"
-        width: 272
-        height: 270
-        isCached: true
   - title: "MilCloud adds AWS option"
     excerpt: "The Defense Department’s MilCloud 2.0 contract now gives Defense Information Services Agency and other non-combat DOD agencies access to cloud services from Amazon Web Services."
     publishedDateTime: 2021-02-02T21:15:00Z

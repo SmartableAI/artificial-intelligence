@@ -64,6 +64,22 @@ related:
         width: 700
         height: 525
         isCached: true
+  - title: "Is Apple making an electric, self-driving car? If it does, here are 5 things you could see"
+    excerpt: "Apple is reportedly in negotiations to build a self-driving, electric car in the U.S. Here's what we might be able to expect."
+    publishedDateTime: 2021-02-06T13:43:00Z
+    webUrl: "https://www.freep.com/story/money/cars/2021/02/06/apple-car-rumors-self-driving-car-electric-vehicle/4393554001/"
+    ampWebUrl: "https://amp.freep.com/amp/4393554001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/4393554001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 34
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/242214685120f6c2626b23e244fa91ba248e67db/c=0-38-1632-956/local/-/media/2021/01/09/USATODAY/usatsports/apples-keynote-event_tim_cook-03252019.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "gqUJfrl7PwmXifhyGxn0nQMeE7tacjVcgRtodzoEegYKv3ZKTsfLgeIXsUf50q2dY/BvGDstcQdtqOdRplYxRzJGgQclDF7sm6DrqhMcG42p6/0gXe1cKfcVwPLprjDAq/9kxZ/OKfg+1suUrQXzp8HyJdeA1xnr3WmsJ5s7uO1pZ7pUwniVKjo3hCexZrnJaYTpeCvYLMMbV0Py6MFndUohcSdCXBke4RRU1dSxerhsiPwMZqBhtEFPJ1FlE4HAKOdS/l8BdFXg263eErNHE5qGA3DwUDXwD7TZ/n+qu7jdIoaTZYzcel7OZARNMWHxbqUyjiAyzWISqFjAEbwfC5XnxC5kChSFIfH2+AwWciYxsIYzCQ3VcSft62AFkyx/11TLSa505cOD80uErXY1lvpUHwO/c4x7J0WQzm1cC2DyvzTzD5IHv9d7UKVfu22WgNrflXIqEM759GJdIKNQPm2umhkGrQ4TAEKyB633ew0DJ4sScB4tm75Q57MjfmA/pUXKmwisX0ECR/BtbNa/XA==;lzegfjzLzgjckbVvGsQ2Fw=="
 ---

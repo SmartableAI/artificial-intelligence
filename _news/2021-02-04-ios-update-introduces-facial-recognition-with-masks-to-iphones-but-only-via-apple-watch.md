@@ -87,22 +87,6 @@ related:
         width: 740
         height: 448
         isCached: true
-  - title: "Apple iOS 14.5 Beta Adds Support For Masked Face ID Unlock With A Big Caveat"
-    excerpt: "With iOS 14.5, you'll be able to unlock your iPhone while still wearing your mask. But there is one rather big \"gotcha\" to enable this trick: you will also need to be wearing Your iPhone will perform a partial facial scan,"
-    publishedDateTime: 2021-02-01T22:27:00Z
-    webUrl: "https://hothardware.com/news/apple-ios-145-beta-adds-masked-face-unlock-with-a-caveat"
-    ampWebUrl: "https://amp.hothardware.com/news/apple-ios-145-beta-adds-masked-face-unlock-with-a-caveat"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/apple-ios-145-beta-adds-masked-face-unlock-with-a-caveat"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 41
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/54152/content/iphone_mask.jpg"
-        width: 708
-        height: 472
-        isCached: true
   - title: "Apple is testing “new way to create “iPhone without removing “face mask"
     excerpt: "Apple is testing a new way to create a iPhone without removing a face mask Apple (AAPL) is testing new iOS software that allows people to"
     publishedDateTime: 2021-02-02T23:30:00Z

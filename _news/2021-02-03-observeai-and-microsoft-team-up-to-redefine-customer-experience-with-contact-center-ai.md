@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
-excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance"
-publishedDateTime: 2021-02-02T22:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
-webUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
+excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
+publishedDateTime: 2021-02-03T08:22:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
+webUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
 type: article
-quality: 26
+quality: 46
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Microsoft launches Custom Neural Voice in limited access"
@@ -134,9 +140,9 @@ related:
   - title: "Etihad Airways transforms operations with Microsoft AI capabilities"
     excerpt: "The Finance and Digital, Technology and Innovation divisions worked with Microsoft to modernize their payment inspection process using cognitive services"
     publishedDateTime: 2021-02-05T05:44:00Z
-    webUrl: "https://www.zawya.com/mena/en/business/story/Etihad_Airways_transforms_operations_with_Microsoft_AI_capabilities-SNG_199629494/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_199629494/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_199629494/"
+    webUrl: "https://www.zawya.com/uae/en/business/story/Etihad_Airways_transforms_operations_with_Microsoft_AI_capabilities-SNG_199629494/"
+    ampWebUrl: "https://www.zawya.com/uae/en/story/amp/SNG_199629494/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/SNG_199629494/"
     type: article
     provider:
       name: Zawya
@@ -434,6 +440,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "xgkB37xMe6oL3RmG0rWwTHc+h0xrdrluY7pkZnZBA59Y+WgJ+LMydySOe2IGz0Ic340PeLMTcL8YFPick2DLfhVhLkNKu6TBG3ffafjZ3rXmEvQx4cFPwM9NkXAey8o61z1tKTAQ1JrrsZuLQuODSnT2iRQTy8JKKIfuzMsQBRXXtjnAfMbANXI6NT67fv6zmKqI66nIHrl+LGRz3scmVnz4m7JArL4+dTgbZUjYOkHEWdo9/nQVAFk/Uwontzh53CIV5+48oaDRoCaZeMP2hozfyHBSW7690j1C5XRzwiIeVP3dgos91F9x+oer2dbAGuIyM5JeoJdmrceqoCL53hpCStJq++Sz3zEB3GF2+Iw=;YHtF69BoIlJ0xP+lZQf/vQ=="
+secured: "p35YSvZM+YsGP7KEhz1mJCxiwiMqHcRbOfM2q6eqOWJtM9rOXDxX4/+Pu4NTYYpQeI+ibAdJcAOUgJGQU9NFBFHd2pCRpcOpMeqmkVCH/isqcYtlDuv2yOvyNU6scX2vlHTptJirSJcIHGvcwT27wxHzIUgRk+IUWxGT5TzUKOnMh6bVBAb6BcKaXcTVSiWWMAEXabI4prqc18sqUwiDTS1K8WRUB8UCm5ctugxic084y5NTgazoiODPsjt4/T+Xl2pHmGkVlDSwbCp7LhrYxxtRhTtB6bRJOIHQ2RIJD78ld/JuEtGLgLNg7CBW+uiP2hLLk7egELKVd90n+NxK+DeyRWYj5Ki7/UgmMpLISfk=;wZ8o0VOPhihlVuKZPHjJ/w=="
 ---
 

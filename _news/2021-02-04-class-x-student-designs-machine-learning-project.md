@@ -41,6 +41,20 @@ related:
         width: 613
         height: 419
         isCached: true
+  - title: "Class X student designs Machine Learning project to identify Down Syndrome through photographs"
+    excerpt: "Saanvi Mehra of The Shriram Millennium School hopes to work with paediatricians to offer early diagnosis of Down Syndrome in children Fifteen-year-old Saanvi Mehra has designed a project to identify children afflicted with Down Syndrome,"
+    publishedDateTime: 2021-02-06T14:29:00Z
+    webUrl: "https://www.tribuneindia.com/news/schools/class-x-student-designs-machine-learning-project-to-identify-down-syndrome-through-photographs-208822"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 27
+    images:
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/2/2021_2$largeimg_584612899.jpg"
+        width: 600
+        height: 627
+        isCached: true
 
 secured: "olfkZypKhnF0eqzl+u6Gg+RGs+Hw7+DN+mYT/OVPXG4xFHuqara38FJYWSX8neqZ2Dja+H2IvR22xhjbt6STTd8FGgtREn6BgffMoMKRNxKdPRlUdFVcPcIZUMFnHEvgNALz6yT/mhi1JyJU2Uv4UejBOD4wsp8R7I4GSN3agHPbu42mfXRzaKxq79djIuk9IFnD9bZdtgV1aKv6VbF3+Vwew5NLxqMO7rlmtKhpxICEmWdkoptaIlcBW7awByfBvDUrkSf4AaNGfp8SoUitUEZ1khqHG+bFIH4UTM8zYZ8n5cU2D1PDzlDrFQMhlgT5PLx5RBzBb1raMV4Grx9PuxYaW7NR6wgleeXp7VN6RNU=;5vvLMSIeE3FDbsdUWhi7Lg=="
 ---

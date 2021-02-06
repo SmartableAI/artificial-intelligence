@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Spotify patent hints at speech recognition for music recommendations"
+    excerpt: "Spotify has been granted a patent for the invention of a system to use speech recognition and analysis to create individually recommended music choices."
+    publishedDateTime: 2021-02-02T19:28:00Z
+    webUrl: "https://www.biometricupdate.com/202102/spotify-patent-hints-at-speech-recognition-for-music-recommendations"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/02142013/spotify-patent-personalization-speech-recognition.jpg"
+        width: 608
+        height: 405
+        isCached: true
   - title: "Spotify patents technology that tracks your speech and derives emotions from it"
     excerpt: "Spotify patents technology that tracks your speech and derives emotions from it Targeted ads are often incredibly perfect, leading some"
     publishedDateTime: 2021-02-03T03:58:00Z

@@ -90,20 +90,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Machine Learning as a Service Market 2020 with Covid-19 Impact Analysis and Forecast by 2025"
-    excerpt: "Global Machine Learning as a Service Market 2020 by Company, Type and Application, Forecast to 2025 provides a comprehensive assessment of market values, with corrective calculations and forecasts for sales by kind and by application in terms of volume and worth."
-    publishedDateTime: 2021-02-01T21:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-as-a-service-market-2020-with-covid-19-impact-analysis-and-forecast-by-2025-2021-02-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Organs Market Trends Detailed Analysis of Current Industry Figures with Forecasts Growth By 2026"
     excerpt: "Request a sample Report of Artificial Organs Market Analysis Report at:  Global artificial organs market is acclaimed to be one of the most profitable verticals within the healthcare and medical devices space and is projected to grow substantially by 2026."
     publishedDateTime: 2021-02-05T07:36:00Z

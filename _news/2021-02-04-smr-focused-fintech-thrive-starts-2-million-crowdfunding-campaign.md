@@ -39,6 +39,15 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "United Fintech Enters the Market Data and RegTech Space with TTMzero Acquisition"
+    excerpt: "United Fintech, which plans to transform banks and fintechs in capital markets, enters the Market Data & RegTech space with the acquisition of TTMzero"
+    publishedDateTime: 2021-02-04T13:34:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210204005132/en/United-Fintech-Enters-the-Market-Data-and-RegTech-Space-with-TTMzero-Acquisition"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "g9vkZSYXfv236woy3DHIsq7IAD1SA6jwI9jkE/J7bIxeuIeCw/JxU8pW9trTm+IRuGFH4xQADNblFwVsbLno/skaFpM2ZBt6osVdVi8aurJr2KpgDf3v3zVYIS+G7WsAmiU+PapDNeiD5jkuLqBuROj6YPRU/xtfhp+gduigmDaRiNj2dprNbnRowJoHdAUhyTNbNdehBfMFvbJq9T0V3H2WZbR6zya7HWrQFQ6XryQni32XLwj1xW5MA5Dd2HSejQuExI26mhP4KR59lbyPdrAN9TRUsooWvSdB00zarK790msbdwjWzK/NoeOFmQMqGXTA8Gy4cUSisDtjwhzMFt23yGHdjo3Zo+DYiYQEmf4=;1s1DM/BCSHAfp5MUoLnVug=="
 ---
