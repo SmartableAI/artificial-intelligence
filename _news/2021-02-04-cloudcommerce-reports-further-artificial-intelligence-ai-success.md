@@ -3,8 +3,8 @@ category: news
 title: "CloudCommerce Reports Further Artificial Intelligence (AI) Success"
 excerpt: "Also, this experience demonstrates, once again, the benefit of using artificial intelligence to improve advertising performance.” The Company is developing SWARM into a cloud hosted software platform that will harness the power of artificial intelligence,"
 publishedDateTime: 2021-02-04T08:11:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-marketing-and-advertising-corporate-news-products-and-services-5118bd98078f123d8daaa004196625a1"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-marketing-and-advertising-corporate-news-products-and-services-5118bd98078f123d8daaa004196625a1"
+originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-marketing-and-advertising-corporate-news-products-and-services-5118bd98078f123d8daaa004196625a1"
+webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-marketing-and-advertising-corporate-news-products-and-services-5118bd98078f123d8daaa004196625a1"
 type: article
 quality: 52
 heat: -1
@@ -48,6 +48,6 @@ related:
       domain: globalspec.com
     quality: 17
 
-secured: "kG9/OXQvbjEhyFoMyDfxalHmTpXuevpvx1BOXy3M9y73/HQiOy5L1Nnenpm/F7yLMDNeiTnBeqfohlukLDxDkOMKYDIXpTgN4tKLzrYun5sRZcqhJelUOxk3vkg48Alj9Ua8jpUN8FX+U/xpgT+CB+NLrvF/wwUz3M3S8LW15Dl5istr2hkjCPP5pmSK25ShUgh92rfvLfKRTrqWthhS/LWU7xzycHGzTibyzz8olP9+lYvupE8Hv1gvWzGvFh0WBkd9LnxS8KGWpl78f5WYJgsPLFBzpHaEiPYjPFMDje3/sat7yVcwMkwPU8y/Jmy0ok+qF97wN3mhXkEnw2AErXVgobA2pi4caJNO5Xs3sAs=;CnxVA7B2AcaMhtfZu+qgwg=="
+secured: "SRbILFCtE9TIJdUauipZ4ho5OsRnQFXETMny8R/1yoLas3TfePkVxj6OfTitqaXOQm2XdF5VDJVwtTc0AitVGG1QxwHiK4awpMIGkkncmNeYXGfzGWHysWEJ2d2Bx9qcxYFOqX4q19JZmHuuqzMMSgsWUEI/M/vqtU9WaBe6SEcvwaK3UXaSjqOlKZVOEnV8F8MN0BvYbj86v7I5sH+yVHs00CY9ANZdyqZjcQXHbfCAGluFh85pdKP/N7MGTyYlR1uOkHhFv9zRfZcrQ9TBElogi628bcjGi0BEAOXUbfxVgpo/k/mdPIeETBrBJDx8k/7zDT63oqMdsuYB06CgwvLjgVKiPCb1SICMGiauY8c=;koCDE/QQfkODJZ1Rj4mw0g=="
 ---
 

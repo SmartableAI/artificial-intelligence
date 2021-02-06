@@ -73,22 +73,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The robots are coming: how 5G won a Covid kick-start"
-    excerpt: "Much of the global economy moved out of the office to keep the economy ticking over through the pandemicThe network technology worked unexpectedly wellSo,"
-    publishedDateTime: 2021-02-01T17:14:00Z
-    webUrl: "https://www.telecomtv.com/content/5g/the-robots-are-coming-how-5g-won-a-covid-kick-start-40750/"
-    ampWebUrl: "https://www.telecomtv.com/content/5g/the-robots-are-coming-how-5g-won-a-covid-kick-start-40750/amp/"
-    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/5g/the-robots-are-coming-how-5g-won-a-covid-kick-start-40750/amp/"
-    type: article
-    provider:
-      name: TelecomTV
-      domain: telecomtv.com
-    quality: 59
-    images:
-      - url: "https://assets.telecomtv.com/assets/telecomtv/factory-5498.jpg?w=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Community Health Network prescribes AI to combat COVID-19 – Jaweb"
     excerpt: "AI is about to play a much larger role in identifying individuals who are at risk for contracting COVID-19 in Indiana. Community Health Network (CHN), an accountable care organization (ACO), revealed today that it is beginning to employ an AI platform from Jvion to analyze members’ electronic health care records that are stored in a"
     publishedDateTime: 2021-02-03T15:00:00Z

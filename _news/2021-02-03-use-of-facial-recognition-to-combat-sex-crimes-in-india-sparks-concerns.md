@@ -24,17 +24,6 @@ images:
     height: 509
     isCached: true
 
-related:
-  - title: "Greek Police to Introduce Live Facial Recognition"
-    excerpt: "Police in Greece are to be issued new devices that will allow them to carry out real-time facial recognition and fingerprint identification while out on the beat. The plan to disseminate the new technology is part of the 4."
-    publishedDateTime: 2021-02-01T17:52:00Z
-    webUrl: "https://www.infosecurity-magazine.com/news/greek-police-to-introduce-live/"
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 19
-
 secured: "WGGdES2iX8hK/AAVIufZX9IgIVFI4kk2gGHvpCJDOBHMb8Fp4CK78ugCbKcp2xm1fs7Q8hhqmzUidUCoZIc6eGjk7B3MeLGsroa/sfmTAmSly4lg/vLKd6Ki+zWrjbXLV6CP+iKWtqreyKgVpLTrDvDT4QWnYqusHZGd/QuzRTnT5tMeQ+z15NFdDcpMlfXO5V+mPRiO2y5kQgi+3CQ5x+UgB7nR/W3rSI7JdQosF2omE4GldgRHuu+iU1JeHZIk0HC8/m4CjFYXFsGlI00rQfUGKius5f1JqSBuCgF1+U/cp+e/y3dASzdZckJS4xfqKoaDUMu/YDYUJjUQ+lzdpxcTmVqqZoXcsO8J3T+zVlrq78L+u2Arj/UUb8E6ltn6yBHYCycV86bRE2/zFmsQxXaUGT4k1QoZ7TorKUtexHQnaixchpkCX/G7IrCbqWni/4TEvEnHmlyutX9Vb6pTTEPBlXM2lvN6SrYH1bBiP2VkjdAE9NDKZWjqnOyi47w2AiJZ8VDZTZ91ryFZkVOHbQ==;L3H5pcmP0lMcgAYwttJX6g=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/iphone-face-id-mask-ios-beta/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/iphone-face-id-mask-ios-beta/amp"
 type: article
 quality: 72
-heat: 132
+heat: 142
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
       - url: "https://www.gizchina.com/wp-content/uploads/images/2021/02/Face-ID-b.jpg"
         width: 740
         height: 448
+        isCached: true
+  - title: "Apple iOS 14.5 Beta Adds Support For Masked Face ID Unlock With A Big Caveat"
+    excerpt: "With iOS 14.5, you'll be able to unlock your iPhone while still wearing your mask. But there is one rather big \"gotcha\" to enable this trick: you will also need to be wearing Your iPhone will perform a partial facial scan,"
+    publishedDateTime: 2021-02-01T22:27:00Z
+    webUrl: "https://hothardware.com/news/apple-ios-145-beta-adds-masked-face-unlock-with-a-caveat"
+    ampWebUrl: "https://amp.hothardware.com/news/apple-ios-145-beta-adds-masked-face-unlock-with-a-caveat"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/apple-ios-145-beta-adds-masked-face-unlock-with-a-caveat"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 41
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/54152/content/iphone_mask.jpg"
+        width: 708
+        height: 472
         isCached: true
   - title: "iOS update introduces facial recognition with masks to iPhones, but only via Apple Watch"
     excerpt: "Apple has released a new iOS developer beta featuring Face ID biometric unlocking by users wearing masks on iPhones."

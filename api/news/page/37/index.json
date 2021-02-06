@@ -2,6 +2,41 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2021-01-11-infiniq-to-enter-global-market-by-establishing-european-sales-headquarters-and-participating-in-ces-2021.md",
+      "title": "INFINIQ to Enter Global Market by Establishing European Sales Headquarters and Participating in CES 2021",
+      "excerpt": "This platform provides automatic object recognition algorithms and annotation tools that can be effectively utilized by companies that need to build a dataset for autonomous driving. These ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210111005450/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20210111005450/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-11T03:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2021-01-11-chinese-search-giant-baidu-teams-up-with-geely-to-build-electric-cars.md",
       "title": "Chinese search giant Baidu teams up with Geely to build electric cars",
       "excerpt": "Hong Kong (CNN Business)Chinese search giant Baidu is teaming up with carmaker Geely to build electric vehicles, the latest move by a tech company to shape the future of the autos industry.",
@@ -1139,57 +1174,6 @@
         "Machine Learning",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-01-10-this-ai-enabled-56-inch-touchscreen-will-be-in-mercedes-new-electric-cartake-a-look.md",
-      "title": "This AI-enabled, 56-inch touchscreen will be in Mercedes' new electric car—take a look",
-      "excerpt": "The Mercedes \"Hyperscreen\" incorporates multiple displays within one sheet of curved glass that extends completely from one side of the vehicle to the other.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/01/10/photos-56-inch-ai-touchscreen-in-mercedes-electric-sedan.html",
-      "originalUrl": "https://www.cnbc.com/2021/01/10/photos-56-inch-ai-touchscreen-in-mercedes-electric-sedan.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106124705-1568233045516gettyimages-1167204689.jpeg?v=1610137376",
-          "width": 3010,
-          "height": 1781,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/01/10/photos-56-inch-ai-touchscreen-in-mercedes-electric-sedan.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/10/photos-56-inch-ai-touchscreen-in-mercedes-electric-sedan.html",
-      "publishedDateTime": "2021-01-10T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

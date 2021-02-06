@@ -2,6 +2,40 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2020-12-18-missouri-farm-bureau-selects-ssc-for-insurance-accounting.md",
+      "title": "Missouri Farm Bureau Selects SS&C for Insurance Accounting",
+      "excerpt": "SS&C Technologies Holdings, Inc. today announced that Jefferson City- based Missouri Farm Bureau will migrate its insurance investment accounting to SS&C SmartSource SM services powered by Singularity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/press-release/missouri-farm-bureau-selects-ssc-for-insurance-accounting-2020-12-17",
+      "originalUrl": "https://www.nasdaq.com/press-release/missouri-farm-bureau-selects-ssc-for-insurance-accounting-2020-12-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-17T15:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-18-intel-reveals-new-clover-falls-ai-powered-coprocessor-for-intel-evo-platform.md",
       "title": "Intel reveals new Clover Falls AI-powered coprocessor for Intel Evo platform",
       "excerpt": "Intel unveiled their latest enhancement to their Intel Evo mobile computing platform this week: Clover Falls, an AI-powered coprocessor that Intel says will noticeably improve laptop power efficiency and battery life going forward.",
@@ -1133,58 +1167,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-lantern-pharma-announces-collaboration-with-world-leading-brain-cancer-program-at-johns-hopkins-to-further-develop-lp-184-as-therapy-for-glioblastoma.md",
-      "title": "Lantern Pharma Announces Collaboration with World Leading Brain Cancer Program at Johns Hopkins to Further Develop LP-184 as Therapy for Glioblastoma",
-      "excerpt": "We leverage advances in machine learning, genomics, and artificial intelligence by using a proprietary A.I. platform to discover biomarker signatures that help identify patients more likely to ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/lantern-pharma-announces-collaboration-with-world-leading-brain-cancer-program-at-johns-hopkins-to-further-develop-lp-184-as-therapy-for-glioblastoma-1029901874",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/lantern-pharma-announces-collaboration-with-world-leading-brain-cancer-program-at-johns-hopkins-to-further-develop-lp-184-as-therapy-for-glioblastoma-1029901874",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1216507/Lantern_Pharma_Logo.jpg",
-          "width": 400,
-          "height": 296,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-17T04:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

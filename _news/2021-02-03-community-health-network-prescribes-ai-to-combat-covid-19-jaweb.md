@@ -71,22 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The robots are coming: how 5G won a Covid kick-start"
-    excerpt: "Much of the global economy moved out of the office to keep the economy ticking over through the pandemicThe network technology worked unexpectedly wellSo,"
-    publishedDateTime: 2021-02-01T17:14:00Z
-    webUrl: "https://www.telecomtv.com/content/5g/the-robots-are-coming-how-5g-won-a-covid-kick-start-40750/"
-    ampWebUrl: "https://www.telecomtv.com/content/5g/the-robots-are-coming-how-5g-won-a-covid-kick-start-40750/amp/"
-    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/5g/the-robots-are-coming-how-5g-won-a-covid-kick-start-40750/amp/"
-    type: article
-    provider:
-      name: TelecomTV
-      domain: telecomtv.com
-    quality: 59
-    images:
-      - url: "https://assets.telecomtv.com/assets/telecomtv/factory-5498.jpg?w=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Computer vision in the fight against the COVID-19 pandemic"
     excerpt: "Computer vision technology helped Taiwan nip COVID-19 dissemination in the bud. The technology proved efficient for virus spread prevention."
     publishedDateTime: 2021-02-05T09:01:00Z
