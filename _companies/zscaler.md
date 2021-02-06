@@ -2,7 +2,7 @@
 name: "Zscaler"
 overview: "Secure, simplify, and transform IT with the world's largest cloud security platform. Join us at #ZenithLive: https://t.co/BABEthjTgO 🚀"
 type: "profile"
-heat: 129
+heat: 150
 
 website: https://www.zscaler.com
 
@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "zscaler"
   url: "https://twitter.com/zscaler"
-  followers: 9153
+  followers: 9156
 
 locations:
   - San Jose, CA
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Zscaler"
 
-secured: "P4VpSCX9aigRClDvDdxLxpHY8yPlKEu+2cFJHSI2gFrfjhtHvjOpZ3zVesh10f8VlFW2OE8gtQa/0uuECjMvd7wzI54I2LLHr0SUQ7KIRVCRrU8lS084D0ww/+8beW0nDFvcxxk8lVBViWQn2ta8C85Qfw/cXikLGb75R/WuhZ5fSbgcEEXP5Z/Rpo7iDMbuYK6g+bqxNZWc3kdQ9HpaZyzUdJQ2ZVbTSrC8uUNKUPp9Zs6xaFNtNEX7ri0BrI/rvQiV/nNEAbSlOmgXnuLyN6HfBdbdjM5HMR7QDT5IWVjEENnAZoH5Z+tv+TmK53mSbt9fYOC0VLH1KIFoW2otuRlTu/kUed8ru6bkdA/k9GQz91/tAmqoJmpTTFzE9UAqq7ucSUbO2nO3e9uO6PaOVQ==;/Si6/Muv48CW6xQUpHVepQ=="
+secured: "wA95c3B8myYo3r74wQ55LDSUgVKTXWU3l8RjCKR/R9FWnYbl8XltmuWkZQnRcqc4emz8mXJ2IYasMSBtE8346RBlV9bTBolYnjzgD2PGkRsLbS7pO5A6JTHMyo33y5HigWMFwSJVEtciIr5qu1rZUYflVKAMtlcwYVHoMs1+BvXTcvvuR/yrdBwdE5DqN6Ttq6gUN6ZNwZOtXJdhEI4cEuVxTKnyP3mW4c3eSH2i8WPjcDFmDg+ZCmg/uNoIQHdUBoADtwh4Uw9fhf0V7/pRnlaH1s2aUhY1UNqsOnfzlB8zgUf0oKKozi5ejeL4ssqmTvKrz/U++q82Pibn5SFGd57q3e/RBKbnQs3txLsM45mblsg0LaaJhGRqbd86Z1MPM5mPahCI1HaMq7kYj1kZMA==;lezJDsfW9CUM6ZFPRi19+w=="
 ---
 
