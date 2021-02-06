@@ -55,19 +55,19 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "New technology uses near infrared imaging and machine learning to find hidden tumors"
-    excerpt: "New technology uses near infrared imaging and machine learning to find hidden tumors Tumors can damage surrounding blood vessels and"
-    publishedDateTime: 2021-02-03T05:35:00Z
-    webUrl: "https://www.compsmag.com/news/technology/new-technology-uses-near-infrared-imaging-and-machine-learning-to-find-hidden-tumors/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/new-technology-uses-near-infrared-imaging-and-machine-learning-to-find-hidden-tumors/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/new-technology-uses-near-infrared-imaging-and-machine-learning-to-find-hidden-tumors/amp/"
+  - title: "New technology uses near-infrared imaging and machine learning to find hidden tumors"
+    excerpt: "Tumors can be damaging to surrounding blood vessels and tissues even if they're benign. If they're malignant, they're aggressive and sneaky, and often irrevocably damaging. In the latter case, early detection is key to treatment and recovery."
+    publishedDateTime: 2021-02-03T05:15:00Z
+    webUrl: "https://www.news-medical.net/news/20210203/New-technology-uses-near-infrared-imaging-and-machine-learning-to-find-hidden-tumors.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210203/New-technology-uses-near-infrared-imaging-and-machine-learning-to-find-hidden-tumors.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210203/New-technology-uses-near-infrared-imaging-and-machine-learning-to-find-hidden-tumors.aspx"
     type: article
     provider:
-      name: Windows
-      domain: compsmag.com
+      name: News Medical
+      domain: news-medical.net
     quality: 52
     images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/New-technology-uses-near-infrared-imaging-and-machine-learning-to.jpg"
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Gastroenterology-620x480.jpg"
         width: 620
         height: 480
         isCached: true

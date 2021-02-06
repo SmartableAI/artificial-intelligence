@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-12-samsung-introduces-the-5nm-exynos-2100-with-10-faster-cpu-40-faster-gpu.md",
+      "title": "Samsung introduces the 5nm Exynos 2100 with 10% faster CPU, 40% faster GPU",
+      "excerpt": "Samsung has formally introduced its latest flagship mobile processor, the Exynos 2100. It features an octa-core CPU with a top-tier Cortex-X1 core, and up to 40% more graphics performance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/samsung-introduces-the-5nm-exynos-2100-with-10-faster-cpu-40-faster-gpu",
+      "originalUrl": "https://www.neowin.net/news/samsung-introduces-the-5nm-exynos-2100-with-10-faster-cpu-40-faster-gpu",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2021/01/1610461044_exynos_2100_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/samsung-introduces-the-5nm-exynos-2100-with-10-faster-cpu-40-faster-gpu/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/samsung-introduces-the-5nm-exynos-2100-with-10-faster-cpu-40-faster-gpu/",
+      "publishedDateTime": "2021-01-12T01:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-gpu-database-market-overview-by-top-players-regions-segments-demand-and-forecast-till-2023.md",
       "title": "GPU Database Market Overview by Top Players, Regions, Segments, Demand and Forecast till 2023",
       "excerpt": "Jan (Heraldkeepers) -- Market Research Future (MRFR) reveals different parameters that can contribute to the rise of the Global GPU database",
@@ -1386,58 +1438,6 @@
         "Facebook AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-12-28-how-nvidias-ampere-gpus-could-drive-growth.md",
-      "title": "How NVIDIA's Ampere GPUs Could Drive Growth",
-      "excerpt": "GPUs are the core of the chipmaker's accelerated computing products. They bring market-leading performance and energy efficiency to various industries, from graphics and design to data science and artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/12/28/how-nvidias-ampere-gpus-could-drive-growth/",
-      "originalUrl": "https://www.fool.com/investing/2020/12/28/how-nvidias-ampere-gpus-could-drive-growth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F606194%2Fnvidia-a100-gpu1.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 767,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/12/28/how-nvidias-ampere-gpus-could-drive-growth/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/28/how-nvidias-ampere-gpus-could-drive-growth/",
-      "publishedDateTime": "2020-12-28T05:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

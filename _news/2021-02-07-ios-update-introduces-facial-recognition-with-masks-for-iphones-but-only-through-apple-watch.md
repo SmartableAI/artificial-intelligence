@@ -1,36 +1,42 @@
 ---
 category: news
-title: "The iPhone's Face ID Will Soon Work With a Mask—If You Have an Apple Watch"
-excerpt: "Apple is facing our face-masked future. This week, the company started testing some new software for the iPhone that will let device owners unlock the handset while wearing a. There’s a catch though,"
-publishedDateTime: 2021-02-02T12:02:00Z
-originalUrl: "https://www.wired.com/story/iphone-face-id-mask-ios-beta/"
-webUrl: "https://www.wired.com/story/iphone-face-id-mask-ios-beta/"
-ampWebUrl: "https://www.wired.com/story/iphone-face-id-mask-ios-beta/amp"
-cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/iphone-face-id-mask-ios-beta/amp"
+title: "iOS update introduces facial recognition with masks for iPhones, but only through Apple Watch"
+excerpt: "News Highlights: iOS update introduces facial recognition with masks for iPhones, but only through Apple Watch Apple released a new iOS developer beta"
+publishedDateTime: 2021-02-06T18:26:00Z
+originalUrl: "https://www.compsmag.com/news/apple/ios-update-introduces-facial-recognition-with-masks-for-iphones-but-only-through-apple-watch/"
+webUrl: "https://www.compsmag.com/news/apple/ios-update-introduces-facial-recognition-with-masks-for-iphones-but-only-through-apple-watch/"
+ampWebUrl: "https://www.compsmag.com/news/apple/ios-update-introduces-facial-recognition-with-masks-for-iphones-but-only-through-apple-watch/amp/"
+cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/apple/ios-update-introduces-facial-recognition-with-masks-for-iphones-but-only-through-apple-watch/amp/"
 type: article
-quality: 72
-heat: 142
-published: true
+quality: 28
+heat: -1
+published: false
 
 provider:
-  name: Wired
-  domain: wired.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Windows
+  domain: compsmag.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://media.wired.com/photos/6018a6413453f789506008b6/master/pass/Gear-iPhone-Mask-1211881889.jpg"
-    width: 2400
-    height: 1605
-    isCached: true
-
 related:
+  - title: "The iPhone's Face ID Will Soon Work With a Mask—If You Have an Apple Watch"
+    excerpt: "Apple is facing our face-masked future. This week, the company started testing some new software for the iPhone that will let device owners unlock the handset while wearing a. There’s a catch though,"
+    publishedDateTime: 2021-02-02T12:02:00Z
+    webUrl: "https://www.wired.com/story/iphone-face-id-mask-ios-beta/"
+    ampWebUrl: "https://www.wired.com/story/iphone-face-id-mask-ios-beta/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/iphone-face-id-mask-ios-beta/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 72
+    images:
+      - url: "https://media.wired.com/photos/6018a6413453f789506008b6/master/pass/Gear-iPhone-Mask-1211881889.jpg"
+        width: 2400
+        height: 1605
+        isCached: true
   - title: "Unlocking iPhones While Wearing a Face Mask: Now Easier, If You Have iOS 14.5—and an Apple Watch"
     excerpt: "Apple’s next iOS software updates—iOS 14.5—includes a feature we have all been waiting for: the ability to unlock an iPhone with Face ID while wearing a mask. The catch? You need an Apple Watch."
     publishedDateTime: 2021-02-05T16:03:00Z
@@ -91,17 +97,6 @@ related:
         width: 721
         height: 420
         isCached: true
-  - title: "iOS update introduces facial recognition with masks for iPhones, but only through Apple Watch"
-    excerpt: "News Highlights: iOS update introduces facial recognition with masks for iPhones, but only through Apple Watch Apple released a new iOS developer beta"
-    publishedDateTime: 2021-02-06T18:26:00Z
-    webUrl: "https://www.compsmag.com/news/apple/ios-update-introduces-facial-recognition-with-masks-for-iphones-but-only-through-apple-watch/"
-    ampWebUrl: "https://www.compsmag.com/news/apple/ios-update-introduces-facial-recognition-with-masks-for-iphones-but-only-through-apple-watch/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/apple/ios-update-introduces-facial-recognition-with-masks-for-iphones-but-only-through-apple-watch/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 28
   - title: "Apple is testing “new way to create “iPhone without removing “face mask"
     excerpt: "Apple is testing a new way to create a iPhone without removing a face mask Apple (AAPL) is testing new iOS software that allows people to"
     publishedDateTime: 2021-02-02T23:30:00Z
@@ -128,6 +123,6 @@ related:
         height: 462
         isCached: true
 
-secured: "TVkrsnWygOfx7rLrxhmQEfE4L/5Qm+uiLXJxjWg3XZC49mRcuQ/2Ww9WgI6QM5lKp8djxnInHZnAwgLZgGc3Ax7kSvRxQD4skbM1MDHyaxGxi5cHtITKzhrKynwVfne1wWbyNks/pYIONGSrgcV2OulWwWqRDBXLpBCMa+qU6QA7Cru25XRy8uWR0fmcsuw3M9jVjT6BfsWP1uP1JJ9Xg/rzJBxDGNSYJAaUEc0pq/8Rf4sA2rFKlplxQ1vxL9zQ4mNBj7bj93W1DEmzWA5pIL7+LpLS8U9LvdAvfdFqHlZm991d18jk90axSi0sHzL3YddcHIQjZT/GBuliIrDFc+A6sfPtWnrAR47Kn0f6xbM=;YzFQe90v1mDWm+Jfg9JEPQ=="
+secured: "gC0DaGEO7Z4Qac7riHKkzMKjIbAudUHnA0zDvHS2CC8X+YUs8aMBiai+gSP5tseQ8o81aNQPymc0XjX9lqppW6WjrgGzZ37Yq2OMG0fGaDuxD6AerW4LH0PNP92r1fb4xA03ntM14sMe/5Raf4pIBV1anJ0OL+99QNHiLH3nu6pPiova4zUJjAdWJeAZY4JIO1jTM7d5psDf5VUp8ct33kTl3hTG3NCXz4zUfkuakuiTiFVaE/wM5sCGRNd0sWmIbxsD9bzVwFeVf69nFESyfXhoEnCIPumfb3Kvi3ECw22dGKce+8n2Bfes4OjMEqHpA3CJJxId8B7J4sjkTB8I26Vqni0aMdYlU6rfZpaugOE=;O+TlCCtzrhbs3RAh6uQqWA=="
 ---
 

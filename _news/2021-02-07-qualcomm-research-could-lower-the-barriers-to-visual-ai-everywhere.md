@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/02/06/qualcomm-research-could-lower-the-ba
 ampWebUrl: "https://venturebeat.com/2021/02/06/qualcomm-research-could-lower-the-barriers-to-visual-ai-everywhere/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/06/qualcomm-research-could-lower-the-barriers-to-visual-ai-everywhere/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/02/Qualcomm.jpg?w=1200&strip=all"
@@ -29,6 +30,6 @@ images:
     height: 683
     isCached: true
 
-secured: "KysuDTtf+HPgYdI1PNjcKUeYN2v8nDnGtvYAqCH63lPsin63nnkCqTLO0E6FvOr14s1f3FAzbqzx8KBoWoHVfmtmtfnA7kmvtsHoxh7iqvVU5r49ajCMBf6GfUz/OYSH7dlDWQ+pXN7mtRSXEbY+k4Qnk8gQ/1eq2emHjsl1z4mCBYUAjSh+pI4nRvPEsoboVAenYdDVx24U3k+HqQa8A9acTsWSz8eulvYvWUqyzXa900aZ2LrrpjFWIkJV6JdNGwkIStCDqSElEUAz/BnZVWOeGnqZF+XxnuwaqzbAapBniiJHm/45nR9gksNUZpwHQtGk7zafXyhWM5C3SjIeGTc6MN8sGFRARIZs2SO8iZA=;bwBt8FKW0C2Prae0c4iWxA=="
+secured: "R2TrGc8t5WaWIe2G4uXQ82Bxyh4SVGoFuo88tGIGpYr24aZ7kKrOz//2VzJHJgiCWFl+N0WT/kwYZiU8viYXvQZzY4vBMmYkonSIlkoLsJfmI5zoGeSdDCzEzh+TZPmm91rLXFnpFVujngjke/gmdYQpA8c5THp2mTLpJmlPihdsnXWUBXsK2+KEoIJn7NaByJ7k7VqRqvzqm7yx06Orqgs/qKZR+SVqhW4aAIFVFdZrAordRcFCmahrBwoOXxbbUQkSnp3tqllV9MaUE77JqRrbgGJV67wDKnAcbSb021mGvlFwKbTcziBJR3LtA0E0r3aP8Yuk9wArYqBtiVqIvoexOAoLJgiLMCDtk79WcQuHev/gTDFGc089zsx92xN6O2Td1h20xW2RF2S3Xy/MPI7MjGmK6+yprceklSJrEWtf1N2MfhqE1YPlbZ0ktodK6QLX57Uyolas8PfCWar+78G7YuKH2VXqOqQ3wITDkIzimNTKHBy6JruuH8FJnaNk6HHnTmLNmbHosyTbYDODSA==;3stzRCHKZ/dVG8QPFEjhUg=="
 ---
 

@@ -2,27 +2,21 @@
 category: news
 title: "Untether AI Partners with Colfax International to Provide Peak Performance in AI Edge Servers"
 excerpt: "Untether AI, the leader in at-memory computation and AI acceleration, today announced a partnership with Colfax International in which Untether’s tsunAImi TM accelerator cards, powered by the runAI TM devices,"
-publishedDateTime: 2021-02-04T16:38:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-toronto-ontario-computer-components-north-america-a2352441944e4f40a9c5d20269710c62"
-webUrl: "https://apnews.com/press-release/business-wire/technology-toronto-ontario-computer-components-north-america-a2352441944e4f40a9c5d20269710c62"
+publishedDateTime: 2021-02-05T08:35:00Z
+originalUrl: "https://www.financialbuzz.com/untether-ai-partners-with-colfax-international-to-provide-peak-performance-in-ai-edge-servers/"
+webUrl: "https://www.financialbuzz.com/untether-ai-partners-with-colfax-international-to-provide-peak-performance-in-ai-edge-servers/"
 type: article
-quality: 28
+quality: 8
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "PercayAI and Saint Louis University Partner to Accelerate AI Adoption across Biomedical Sciences Research"
@@ -50,16 +44,7 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Perimeter Medical Imaging AI Announces Acceleration of Expiry Date of Warrants"
-    excerpt: "Perimeter Medical Imaging AI, Inc. (TSX-V:PINK)(OTC:PYNKF) (FSE:4PC) (“Perimeter” or the “Company”), a medical technology company driven to transform"
-    publishedDateTime: 2021-02-02T04:15:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210201005963/en/Perimeter-Medical-Imaging-AI-Announces-Acceleration-of-Expiry-Date-of-Warrants"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 13
 
-secured: "2dgCKHHElw7FmQckZYeygUq6fs6i7pbhvE0dOeKxvMjKpdhxuOPFx3BQvHWyDZRzYzy3iuIoLe0L46PDO/5b/kIBQfKcWylRmOY8M7knbw4KeFLPSH9vgCtYNILqYfJzwB7B+RknepPCpzJWdm/RrGk9YLCW9bpVOgp8Xw/z3Voe0ZXzs1vVmhFLQ3kP1OVFiie7xR0XRv1XkhWmzDhp1h/rErbI9LK27LuYp6fePsf87Rglqae903Nf5opfAye+FPaCic2T5J4jGf6QCE7hKSFUCH/aHr9yk0r2Jrui4CiSPnPU/7KxoyqK3jRDcKQVzfeh6RxSkx8bjnMQx3DElfs1sfAgc1nKtsD9HwB5Crg=;jW2WTQPkrYlyoVpbxOciwQ=="
+secured: "8lwwse2hAVIGgrUwIKGSaoEZRubpMQLdWF8rmdnq8Us7T7vnWiIRgIx3FwuUBylbQ7UxZmyBsxfHIuLZUcYLFsmyj88Em5T6DivQ2B0jwo8tF1AcaIQwd0o+8K1wviFWgDGAwkNVuW9470kWeNsx601wMic/630TkPkaKh+0nFLnc6K+o+EOqhNcjk3AAYYGIHfEJDxj3FwzTBKvu6lrAgUK19y3mCEmAvGuU5zM3Mr0eSl0LxRY7vBRHBGRmbivoDvBTWJ1Meew5qj75VMNogvKCqHBuAtYVDXOCi2eDKXafAJ4PzzlImb3HOFpGP7AUkCIdtzpMm599605Vc3KHA77BR2kFOptMaGwva0Q8Hk=;ylzmPLv3fQSqJeaZG/NAMA=="
 ---
 

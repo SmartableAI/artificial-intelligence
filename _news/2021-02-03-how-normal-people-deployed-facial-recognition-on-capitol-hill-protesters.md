@@ -9,7 +9,7 @@ ampWebUrl: "https://www.vice.com/amp/en/article/4ad5k3/how-normal-people-deploye
 cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/4ad5k3/how-normal-people-deployed-facial-recognition-on-capitol-hill-protesters"
 type: article
 quality: 88
-heat: 188
+heat: 178
 published: true
 
 provider:
@@ -156,20 +156,6 @@ related:
       - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/02/BIZ_CPT_CAPITOL_RIOTS_FACIALRECOGNITION_ABA.601db418ce1b8.png?auto=format&fit=max&w=1200"
         width: 1200
         height: 798
-        isCached: true
-  - title: "Millions of US faces scanned without approval, rules for facial recognition needed"
-    excerpt: "The powers that be at UCLA thought it was a good idea at the time — using state-of-the-art technology to scan students' faces for gaining access to campus buildings. Students thought otherwise."
-    publishedDateTime: 2021-02-02T03:03:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/02/02/millions-of-us-faces-scanned-without-approval-rules-for-facial-recognition-needed"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 33
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/02/02/1029532.jpeg"
-        width: 1240
-        height: 823
         isCached: true
 
 secured: "QoTgUK6vFjcxK7TYQMUsyAeVndzSl9/aO6NwvtlD6+30O10QPQ5xRZMadelCLToYHtZcBN63AJENzFL4YFLR+DYqFswogFNr2ttPdLJHK2B1vEI1K/Q98ga655+3xdL4GuFLYJ4VPNVNjmUqLwssna8XHr7AwMe1lVJ5som/mM746jVM6tI1zWZSd15SWcn1JtXpo4c1QeP3qJOGjHWqEHKZdiHYHxyky9QCPxek3PbP6CLdslb68d4vewyjOopXuMkII9alYCHnXcYwkfNCdDxjLQxPTKwhnZ+x08XsDStrdIIQmm15MVpC6ukZVYDLam+68ZdjB8KyCttiTFxvKV3evDk/qIuyeafAuiPj5PK72RzDTT+P7psqQlZ2Dw7QYXQdqtPzILtWtJQihObJNXXE6EjCj6+MMa1W3zPaDkKQGhdD7WZ9COnmxgmu6Em0rNV1Hu50cBGWimbMgOGOtgTD4nYXq58L8Pg3X3BBKl7GBH+64Xt6ePCmwSWEjTKSpYBmWouiuEqmW22pu2IDGw==;jWHHybbD3jMRfnir0PfE3A=="

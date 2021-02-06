@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/03/community-health-network-prescrib
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/03/community-health-network-prescribes-ai-to-combat-covid-19/amp/"
 type: article
 quality: 89
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -88,20 +88,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Artificial Intelligence Covid breakthrough will save lives"
-    excerpt: "A team from the University of Cambridge is developing artificial intelligence (AI) algorithms to support doctors to decide what action to take on the front-line, such as giving oxygen and medications,"
-    publishedDateTime: 2021-02-02T03:03:00Z
-    webUrl: "https://cambridgenetwork.co.uk/news/612121"
-    type: article
-    provider:
-      name: Cambridge Network
-      domain: cambridgenetwork.co.uk
-    quality: 39
-    images:
-      - url: "https://cambridgenetwork.co.uk/sites/default/files/Collaboration_Zoom.width-840.jpg"
-        width: 700
-        height: 393
         isCached: true
   - title: "New Artificial Intelligence Tool Can Thwart COVID-19 Mutations"
     excerpt: "USC researchers have developed a new method to counter emergent mutations of the coronavirus and hasten vaccine development to stop the pathogen responsible for killing thousands of people and ruining the economy."

@@ -99,20 +99,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Covid breakthrough will save lives"
-    excerpt: "A team from the University of Cambridge is developing artificial intelligence (AI) algorithms to support doctors to decide what action to take on the front-line, such as giving oxygen and medications,"
-    publishedDateTime: 2021-02-02T03:03:00Z
-    webUrl: "https://cambridgenetwork.co.uk/news/612121"
-    type: article
-    provider:
-      name: Cambridge Network
-      domain: cambridgenetwork.co.uk
-    quality: 39
-    images:
-      - url: "https://cambridgenetwork.co.uk/sites/default/files/Collaboration_Zoom.width-840.jpg"
-        width: 700
-        height: 393
-        isCached: true
   - title: "Artificial intelligence could predict whether you’ll die from COVID-19"
     excerpt: "Artificial intelligence could predict who is most likely to die from the coronavirus. In doing so, it can also help decide who should be at the front of the line for the precious vaccines now being administered across Denmark."
     publishedDateTime: 2021-02-06T11:16:00Z

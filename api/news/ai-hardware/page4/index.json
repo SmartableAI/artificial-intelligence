@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-28-how-nvidias-ampere-gpus-could-drive-growth.md",
+      "title": "How NVIDIA's Ampere GPUs Could Drive Growth",
+      "excerpt": "GPUs are the core of the chipmaker's accelerated computing products. They bring market-leading performance and energy efficiency to various industries, from graphics and design to data science and artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/12/28/how-nvidias-ampere-gpus-could-drive-growth/",
+      "originalUrl": "https://www.fool.com/investing/2020/12/28/how-nvidias-ampere-gpus-could-drive-growth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F606194%2Fnvidia-a100-gpu1.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 767,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/12/28/how-nvidias-ampere-gpus-could-drive-growth/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/28/how-nvidias-ampere-gpus-could-drive-growth/",
+      "publishedDateTime": "2020-12-28T05:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-28-ai-software-market-insights-by-growthresearch-methodology-emerging-trends-and-forecast-by-2025.md",
       "title": "AI Software Market Insights By Growth,Research Methodology, Emerging Trends and Forecast By 2025",
       "excerpt": "The AI software market in the legal industry is projected to register a growth of over 28% over the forecast period 2020 - 2025. The law firms have always been at the forefront of using emerging technological advancements for productivity,",
@@ -1397,50 +1449,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-12-4-cutting-edge-ai-stocks-to-buy.md",
-      "title": "4 Cutting-Edge AI Stocks to Buy",
-      "excerpt": "Stock Market News, Stock Advice & Trading Tips No longer the domain of science fiction, artificial intelligence (AI) is",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/4-cutting-edge-ai-stocks-to-buy-ibm-ayx-crm-nvda-1029900162",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/4-cutting-edge-ai-stocks-to-buy-ibm-ayx-crm-nvda-1029900162",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-11T11:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "IBM AI"
       ]
     }
   ],

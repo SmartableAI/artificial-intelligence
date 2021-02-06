@@ -91,6 +91,17 @@ related:
         width: 721
         height: 420
         isCached: true
+  - title: "iOS update introduces facial recognition with masks for iPhones, but only through Apple Watch"
+    excerpt: "News Highlights: iOS update introduces facial recognition with masks for iPhones, but only through Apple Watch Apple released a new iOS developer beta"
+    publishedDateTime: 2021-02-06T18:26:00Z
+    webUrl: "https://www.compsmag.com/news/apple/ios-update-introduces-facial-recognition-with-masks-for-iphones-but-only-through-apple-watch/"
+    ampWebUrl: "https://www.compsmag.com/news/apple/ios-update-introduces-facial-recognition-with-masks-for-iphones-but-only-through-apple-watch/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/apple/ios-update-introduces-facial-recognition-with-masks-for-iphones-but-only-through-apple-watch/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 28
   - title: "Apple is testing “new way to create “iPhone without removing “face mask"
     excerpt: "Apple is testing a new way to create a iPhone without removing a face mask Apple (AAPL) is testing new iOS software that allows people to"
     publishedDateTime: 2021-02-02T23:30:00Z

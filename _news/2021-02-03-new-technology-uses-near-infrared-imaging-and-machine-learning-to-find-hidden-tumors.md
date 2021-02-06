@@ -1,27 +1,27 @@
 ---
 category: news
-title: "New technology uses near infrared imaging and machine learning to find hidden tumors"
-excerpt: "New technology uses near infrared imaging and machine learning to find hidden tumors Tumors can damage surrounding blood vessels and"
-publishedDateTime: 2021-02-03T05:35:00Z
-originalUrl: "https://www.compsmag.com/news/technology/new-technology-uses-near-infrared-imaging-and-machine-learning-to-find-hidden-tumors/"
-webUrl: "https://www.compsmag.com/news/technology/new-technology-uses-near-infrared-imaging-and-machine-learning-to-find-hidden-tumors/"
-ampWebUrl: "https://www.compsmag.com/news/technology/new-technology-uses-near-infrared-imaging-and-machine-learning-to-find-hidden-tumors/amp/"
-cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/new-technology-uses-near-infrared-imaging-and-machine-learning-to-find-hidden-tumors/amp/"
+title: "New technology uses near-infrared imaging and machine learning to find hidden tumors"
+excerpt: "Tumors can be damaging to surrounding blood vessels and tissues even if they're benign. If they're malignant, they're aggressive and sneaky, and often irrevocably damaging. In the latter case, early detection is key to treatment and recovery."
+publishedDateTime: 2021-02-03T05:15:00Z
+originalUrl: "https://www.news-medical.net/news/20210203/New-technology-uses-near-infrared-imaging-and-machine-learning-to-find-hidden-tumors.aspx"
+webUrl: "https://www.news-medical.net/news/20210203/New-technology-uses-near-infrared-imaging-and-machine-learning-to-find-hidden-tumors.aspx"
+ampWebUrl: "https://www.news-medical.net/amp/news/20210203/New-technology-uses-near-infrared-imaging-and-machine-learning-to-find-hidden-tumors.aspx"
+cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210203/New-technology-uses-near-infrared-imaging-and-machine-learning-to-find-hidden-tumors.aspx"
 type: article
 quality: 52
 heat: -1
 published: false
 
 provider:
-  name: Windows
-  domain: compsmag.com
+  name: News Medical
+  domain: news-medical.net
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/New-technology-uses-near-infrared-imaging-and-machine-learning-to.jpg"
+  - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Gastroenterology-620x480.jpg"
     width: 620
     height: 480
     isCached: true
@@ -69,6 +69,6 @@ related:
       domain: sciencedaily.com
     quality: 43
 
-secured: "FBEcMQTNPElGIweN42se+ecjPZkLcWHDLpWnvlIHprefvDXdKbNmmAwHaFN8/8qSInKqXm70EAvdOjnoiZ65Xz5XbGQlgczUr6Dn4J8xiC+IcbDnVUbP9Z+OK01iY66nHqQjNAFZf5Q33k4K1ZZ+tVOh6sKUYgMvw5wU5LUxaRNEeBH5K0tRAvo5prlQ6Dr/jh4Xy812ji/hn/m25/sUAelMyIKx1Q1WOIXi70d4vGEX97RQHp8JRd3n8yA11y+8D7e97Uk+vBzr8g9muVD8c8/U5mvsqJxX+8NGSm1r5tGNTdG+TcevWrWBSmkbCkL9qFndIUYEbp0tIkWMDJ2xepiBdl7sELiChDUynz3WW1AOhSpaGoML4bD/0+PA3wQuCgypAgvRu5KhwDos+pIv2b3zqK9iXKawoA8iq+r4S/gt39+GL+5KkJqvE+vhGeoCdHaVKxnzfHiY7NnEZbfImYo0D059/9kQDA+BfbTCln1xXEKlImC3/KwyfbjCgM/GcELhFwbAYYsDP27eM04DCw==;npaOT7H3bJ6d0f/bK2yzWw=="
+secured: "G9JoQsxg4DUvbqN24stEHmLdclDZ+N64ywmm/XPW2+MAdUhlXAXcYCYqS4x3htNv3ZNJ3aUzjFbJvtfzPDf7XCMhFfkdG9MDTI7deNCw2EqFhv9/QqvGE3qcNYlHLBMsdsD37dzIIEJ22D8IuA07X8D9IJNbjO/7TzrdfFi2sEXcpNPc1PvQZeTirQhcXmu0cEVXSZ8KvW46h27u1HjKdFsrCFBB2JSs3fRDzJbJt50cCItQ6d67R9DPegqFzDT6NcMMTfdqlPmzEb9FaOjl0uxpchZmrapvokyVINvuRnvaD3O88KLRKOaRsEStv0gVoJtJ9WA2btom/EJMGpDsUrqd5fRGnq1SxJP1rErjII8=;zbToApR/SNm8KoxLL6rAeQ=="
 ---
 

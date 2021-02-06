@@ -239,19 +239,19 @@
     {
       "path": "_news/2021-02-04-quantiphi-recognized-as-a-tensorflow-ai-service-partner-for-machine-learning-led-enterprise-transformation.md",
       "title": "Quantiphi Recognized as a TensorFlow AI Service Partner for Machine Learning Led Enterprise Transformation",
-      "excerpt": "Quantiphi, an applied AI and data science company, has been selected by TensorFlow as an AI Service Partner to enable businesses across industries",
+      "excerpt": "Quantiphi, an applied AI and data science company, has been selected by TensorFlow as an AI Service Partner to enable businesses across industries to benefit from AI-based systems and help them innovate faster,",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/quantiphi-recognized-as-a-tensorflow-ai-service-partner-for-machine-learning-led-enterprise-transformation/article_4c4c7bb7-085f-5ba9-a361-6bc04201dd08.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/quantiphi-recognized-as-a-tensorflow-ai-service-partner-for-machine-learning-led-enterprise-transformation/article_4c4c7bb7-085f-5ba9-a361-6bc04201dd08.html",
+      "webUrl": "https://www.lelezard.com/en/news-19635111.html",
+      "originalUrl": "https://www.lelezard.com/en/news-19635111.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 92,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
+          "width": 640,
+          "height": 480,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -261,11 +261,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-04T06:25:00-08:00",
+      "publishedDateTime": "2021-02-04T06:45:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -275,10 +275,11 @@
         "news"
       ],
       "topics": [
-        "TensorFlow",
-        "Google AI",
+        "AI in Finance",
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "Google AI",
+        "TensorFlow"
       ]
     },
     {
@@ -1355,19 +1356,19 @@
     {
       "path": "_news/2021-01-29-sequoia-leads-20m-series-b-in-physna-an-ohio-based-geometric-deep-learning-startup.md",
       "title": "Sequoia Leads $20M Series B in Physna, an Ohio-Based Geometric Deep-Learning Startup",
-      "excerpt": "Physna ®, the geometric deep-learning and 3D search solutions company, today announced it raised $20M in Series B funding. The round was led by Sequoia Capital with participation from Drive Capital, which led Physna’s Series A round in 2019.",
+      "excerpt": "Physna®, the geometric deep-learning and 3D search solutions company, today announced it raised $20M in Series B funding. The round was led",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-search-technology-north-america-c1e2ae292ba25d2151f9994865972769",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-search-technology-north-america-c1e2ae292ba25d2151f9994865972769",
+      "webUrl": "https://www.prnewswire.com/news-releases/sequoia-leads-20m-series-b-in-physna-an-ohio-based-geometric-deep-learning-startup-301218034.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/sequoia-leads-20m-series-b-in-physna-an-ohio-based-geometric-deep-learning-startup-301218034.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://i1.ytimg.com/vi/D5qmw0ZN4Yc/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1377,11 +1378,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-29T06:45:00-08:00",
+      "publishedDateTime": "2021-01-29T06:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null
