@@ -1,26 +1,43 @@
 ---
 category: news
-title: "Looking for Self-Driving Cars? The DRIV ETF Has You Covered"
-excerpt: "I ncreasing demand for electric automobiles is opening up opportunities for ETF investors to focus on the sector with funds like the Global X Autonomous & Electric Vehicles ETF (DRIV). DRIV seeks to invest in companies involved in the development of autonomous vehicle technology,"
-publishedDateTime: 2021-02-03T21:35:00Z
-originalUrl: "https://www.nasdaq.com/articles/looking-for-self-driving-cars-the-driv-etf-has-you-covered-2021-02-03"
-webUrl: "https://www.nasdaq.com/articles/looking-for-self-driving-cars-the-driv-etf-has-you-covered-2021-02-03"
-ampWebUrl: "https://www.nasdaq.com/articles/looking-for-self-driving-cars-the-driv-etf-has-you-covered-2021-02-03?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/looking-for-self-driving-cars-the-driv-etf-has-you-covered-2021-02-03?amp"
+title: "Is Apple making an electric, self-driving car? If it does, here are 5 things you could see"
+excerpt: "Apple is reportedly in negotiations to build a self-driving, electric car in the U.S. Here's what we might be able to expect."
+publishedDateTime: 2021-02-06T16:01:00Z
+originalUrl: "https://www.tennessean.com/story/money/cars/2021/02/06/apple-car-rumors-self-driving-car-electric-vehicle/4393554001/"
+webUrl: "https://www.tennessean.com/story/money/cars/2021/02/06/apple-car-rumors-self-driving-car-electric-vehicle/4393554001/"
+ampWebUrl: "https://amp.tennessean.com/amp/4393554001"
+cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/4393554001"
 type: article
-quality: 54
-heat: 104
-published: true
+quality: 34
+heat: -1
+published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Tennessean
+  domain: tennessean.com
 
 topics:
   - AI in Autos
   - AI
 
+images:
+  - url: "https://www.gannett-cdn.com/-mm-/242214685120f6c2626b23e244fa91ba248e67db/c=0-38-1632-956/local/-/media/2021/01/09/USATODAY/usatsports/apples-keynote-event_tim_cook-03252019.jpg?auto=webp&format=pjpg&width=1200"
+    width: 1200
+    height: 675
+    isCached: true
+
 related:
+  - title: "Looking for Self-Driving Cars? The DRIV ETF Has You Covered"
+    excerpt: "I ncreasing demand for electric automobiles is opening up opportunities for ETF investors to focus on the sector with funds like the Global X Autonomous & Electric Vehicles ETF (DRIV). DRIV seeks to invest in companies involved in the development of autonomous vehicle technology,"
+    publishedDateTime: 2021-02-03T21:35:00Z
+    webUrl: "https://www.nasdaq.com/articles/looking-for-self-driving-cars-the-driv-etf-has-you-covered-2021-02-03"
+    ampWebUrl: "https://www.nasdaq.com/articles/looking-for-self-driving-cars-the-driv-etf-has-you-covered-2021-02-03?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/looking-for-self-driving-cars-the-driv-etf-has-you-covered-2021-02-03?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "2021's rising stars of self-driving vehicles share their best tips for jumpstarting your career"
     excerpt: "Insider asked bright young stars from Waymo, Aurora, and Nuro for their advice on starting your career in the fast lane."
     publishedDateTime: 2021-02-05T11:24:00Z
@@ -65,22 +82,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Is Apple making an electric, self-driving car? If it does, here are 5 things you could see"
-    excerpt: "Apple is reportedly in negotiations to build a self-driving, electric car in the U.S. Here's what we might be able to expect."
-    publishedDateTime: 2021-02-06T16:01:00Z
-    webUrl: "https://www.tennessean.com/story/money/cars/2021/02/06/apple-car-rumors-self-driving-car-electric-vehicle/4393554001/"
-    ampWebUrl: "https://amp.tennessean.com/amp/4393554001"
-    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/4393554001"
-    type: article
-    provider:
-      name: Tennessean
-      domain: tennessean.com
-    quality: 34
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/242214685120f6c2626b23e244fa91ba248e67db/c=0-38-1632-956/local/-/media/2021/01/09/USATODAY/usatsports/apples-keynote-event_tim_cook-03252019.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "When will self-driving cars hit the road?"
     excerpt: "Tech afficionados often know when the latest gizmos and gadgets are slated to hit the market and be made available to consumers."
     publishedDateTime: 2021-02-05T10:01:00Z
@@ -96,6 +97,6 @@ related:
         height: 630
         isCached: true
 
-secured: "H6YDZfBXKQ4alqjyD0oRyitsIFcthl1SMAPLOfWWB+5hRZQOfA8Q7zq7sT1Etv60mRnS51M0bIFF2Urs82YYsxu8bLCRVNZEmYYdxJmBab9UfphbvtvCSsUxYPEoaylC3Ketky/SxbOErq5Rr8YjSPTp3kgFfri28Jgh6Fj3CkI3bimP0DCwKSokrOBSXU1TE6Q9Yb5HbdePuL0SxSskb42x2Od6h6wYST7PsQyJmGG9a1Z+NhHywGsqNNwsNnHXx205fP2vtcGbtm0wdIdbc3rVquUqcnlWWs3m0hIdp6hzpnC1VoHehyxNXnxjMNGZC4yKmT1rrUpiivaZ/mZ+TywLc7/5pyfJ1IU/g2+hKg07zey8DrcqGLKNxhiUUbH0Pcy3lmiXKPpadsguhCdyFwfoPrGiEW2mXyb4DLRlmOrziZjhmm4J59lvPbDeqs9NsNs2PyexgWnKtxUYpD1kNIRzlbsufmXAE2D9zSe3PMRs3L6Gm3iUcYhvAlobfvC1E6Rbkezj9RgeViYuhVJDnw==;g2AQRHkWEnYr4WPfg4dmgQ=="
+secured: "4Wgst5DzJ/A66Lvv28UNRuOgKmYSLDVQbimgtoGyef/d6EEoD/UheHt+JxW+2ycy025t5mlygbsbJyfj0uw5HgJsNYvqWZqCQZbFCmPboB9uwOTn5NEF6cv8FOl14/QzPIEoEyuvBTZbSIzPFyDsKpzDo1CXsZo1D2Tk5pbr14hof7UOub2tVjSzDyrC5aIvE8nZ9w/jqYEe/t18+23pdXfW76FBskDogbegoNrFAkyp+i5raw2eqiqC+jJlW9CBVA2YG9AwEnWvHlkjvUsvRfpL82O4pnj1HlsBAEkUJHPbFlf2ejKJ01FvV3iY4g9WoetAHcGbMZIdnuTq/zb2Yg7oumOlhTDsMEaKS4WjbPc=;yXVr9bMwlrfwGXe0gMH8uw=="
 ---
 

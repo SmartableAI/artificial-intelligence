@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/tech/technology/ai-ml-to-drive-budget-20
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/ai-ml-to-drive-budget-2021-national-language-translation-mission/amp_articleshow/80674800.cms"
 type: article
 quality: 76
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601dbde7581359319aa2b051%2F0x0.jpg"
         width: 1200
         height: 700
+        isCached: true
+  - title: "AI-Powered Cooperation Will Transform U.S. Military Operations"
+    excerpt: "And as 2021 shifts into gear, the U.S. military is operating against a backdrop of not just these changes, but also an evolving threat landscape. Chiefs across the service branches over the past year made clear their sharp focus on technology-driven dominance over near-peer adversaries,"
+    publishedDateTime: 2021-02-06T15:29:00Z
+    webUrl: "https://www.hstoday.us/subject-matter-areas/information-technology/ai-powered-cooperation-will-transform-u-s-military-operations/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 37
+    images:
+      - url: "https://www.hstoday.us/wp-content/uploads/2021/02/1000w_q95-6.jpg"
+        width: 1000
+        height: 667
         isCached: true
   - title: "How to Improve Automatic Machine Translation Evaluation? Add Humans, Scientists Say"
     excerpt: "Scientists propose new system to standardize automatic evaluation of NLP systems by adding humans in the loop."

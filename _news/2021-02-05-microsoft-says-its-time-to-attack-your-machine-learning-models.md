@@ -154,17 +154,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Etihad partners with Microsoft AI to transform finance operations"
-    excerpt: "Etihad Airways has carried out a transformation of its Finance Operations through harnessing the power of Microsoft AI. The Finance and Digital, Technology and Innovation divisions worked with Microsoft to modernise their payment inspection process using cognitive services."
-    publishedDateTime: 2021-02-02T00:00:00Z
-    webUrl: "https://www.zawya.com/mena/en/business/story/Etihad_partners_with_Microsoft_AI_to_transform_finance_operations-SNG_199392366/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_199392366/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_199392366/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 71
   - title: "Shell, C3 AI, Baker Hughes, and Microsoft Launch the Open AI Energy Initiative"
     excerpt: "Shell, C3 AI, Baker Hughes, and Microsoft have launched the Open AI Energy Initiative (OAI), a first-of-its-kind open ecosystem of artificial intelligence (AI)-based solutions for the energy and process industries,"
     publishedDateTime: 2021-02-02T08:09:00Z
@@ -333,20 +322,6 @@ related:
         width: 510
         height: 314
         isCached: true
-  - title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
-    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
-    publishedDateTime: 2021-02-03T08:22:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 46
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Microsoft’s Custom Neural Voice technology goes out of preview"
     excerpt: "Microsoft has announced that its text-to-speech AI “Custom Neural Voice” has hit general availability. The technology enables developers to create personalized voices using their audio data and"
     publishedDateTime: 2021-02-04T16:31:00Z
@@ -417,6 +392,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
+    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance"
+    publishedDateTime: 2021-02-02T22:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 26
   - title: "Agent Factory announces collaboration with Microsoft to enable Smart Logistics solutions with advanced 3D vision technologies"
     excerpt: "AGENT FACTORY LTD., based in Israel, announces its collaboration with Microsoft's Azure Depth Platform program, aimed at democratizing"
     publishedDateTime: 2021-02-03T18:14:00Z

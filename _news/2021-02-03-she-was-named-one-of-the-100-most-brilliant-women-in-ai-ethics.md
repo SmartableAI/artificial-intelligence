@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "DeepMind Is Working on a Solution to Bias in AI"
-    excerpt: "In DeepMind's hypothetical college admissions example: qualifications (Q), gender (G), and choice of department (D), all factor into whether a candidate is admitted (A). A Causal Bayesian Network can identify causal and non casual relationships between ..."
-    publishedDateTime: 2021-02-02T00:00:00Z
-    webUrl: "https://www.designnews.com/design-hardware-software/deepmind-working-solution-bias-ai"
-    type: article
-    provider:
-      name: Design News
-      domain: designnews.com
-    quality: 54
-    images:
-      - url: "https://www.designnews.com/sites/designnews.com/files/Design%20News/DeepMind%20CBN%20example.png"
-        width: 1178
-        height: 1070
-        isCached: true
   - title: "Free, online course brings together 20 global experts in the field of ethical AI"
     excerpt: "Global Perspectives seeks to bring together diverse perspectives from the field of ethical AI, to raise awareness and help institutions work towards more responsible use."
     publishedDateTime: 2021-02-04T20:20:00Z

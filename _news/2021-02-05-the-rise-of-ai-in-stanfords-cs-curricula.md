@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "DeepMind Is Working on a Solution to Bias in AI"
-    excerpt: "In DeepMind's hypothetical college admissions example: qualifications (Q), gender (G), and choice of department (D), all factor into whether a candidate is admitted (A). A Causal Bayesian Network can identify causal and non casual relationships between ..."
-    publishedDateTime: 2021-02-02T00:00:00Z
-    webUrl: "https://www.designnews.com/design-hardware-software/deepmind-working-solution-bias-ai"
-    type: article
-    provider:
-      name: Design News
-      domain: designnews.com
-    quality: 54
-    images:
-      - url: "https://www.designnews.com/sites/designnews.com/files/Design%20News/DeepMind%20CBN%20example.png"
-        width: 1178
-        height: 1070
-        isCached: true
   - title: "She was named one of the 100 most brilliant women in AI ethics"
     excerpt: "Computer science professor Tina Eliassi-Rad says she’s proud to be named on an industry list of “ 100 Brilliant Women in AI Ethics,” which identifies her as one of the top t"
     publishedDateTime: 2021-02-03T00:00:00Z

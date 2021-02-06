@@ -57,20 +57,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Using AI To Speed Up the Covid Vaccination Process (Podcast)"
-    excerpt: "Sean Lane, CEO of Olive, talks about using technology to speed up the Covid vaccination process. Bloomberg News Investing Reporter Annie Massa shares insight on Robinhood relaxing trading curbs. Bloomberg Businessweek Editor Joel Weber and Businessweek Economics Editor Peter Coy discuss the story “Market Manipulation Is a Controversial Concept in Securities Law."
-    publishedDateTime: 2021-02-01T23:21:00Z
-    webUrl: "https://www.bloomberg.com/news/audio/2021-02-01/using-ai-to-speed-up-the-covid-vaccination-process-podcast"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/s3/bbiz/images/social_fallbacks/bloomberg_default-a4f15fa7ee.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Computer vision in the fight against the COVID-19 pandemic"
     excerpt: "Computer vision technology helped Taiwan nip COVID-19 dissemination in the bud. The technology proved efficient for virus spread prevention."
     publishedDateTime: 2021-02-05T09:01:00Z

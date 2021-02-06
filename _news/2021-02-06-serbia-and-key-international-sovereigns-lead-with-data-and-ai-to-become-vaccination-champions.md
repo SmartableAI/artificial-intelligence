@@ -46,6 +46,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "AI-Powered Cooperation Will Transform U.S. Military Operations"
+    excerpt: "And as 2021 shifts into gear, the U.S. military is operating against a backdrop of not just these changes, but also an evolving threat landscape. Chiefs across the service branches over the past year made clear their sharp focus on technology-driven dominance over near-peer adversaries,"
+    publishedDateTime: 2021-02-06T15:29:00Z
+    webUrl: "https://www.hstoday.us/subject-matter-areas/information-technology/ai-powered-cooperation-will-transform-u-s-military-operations/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 37
+    images:
+      - url: "https://www.hstoday.us/wp-content/uploads/2021/02/1000w_q95-6.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "How to Improve Automatic Machine Translation Evaluation? Add Humans, Scientists Say"
     excerpt: "Scientists propose new system to standardize automatic evaluation of NLP systems by adding humans in the loop."
     publishedDateTime: 2021-02-04T07:31:00Z

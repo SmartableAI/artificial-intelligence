@@ -1,27 +1,26 @@
 ---
 category: news
-title: "How to Improve Automatic Machine Translation Evaluation? Add Humans, Scientists Say"
-excerpt: "Scientists propose new system to standardize automatic evaluation of NLP systems by adding humans in the loop."
-publishedDateTime: 2021-02-04T07:31:00Z
-originalUrl: "https://slator.com/machine-translation/how-to-improve-automatic-machine-translation-evaluation-add-humans-scientists-say/"
-webUrl: "https://slator.com/machine-translation/how-to-improve-automatic-machine-translation-evaluation-add-humans-scientists-say/"
+title: "AI-Powered Cooperation Will Transform U.S. Military Operations"
+excerpt: "And as 2021 shifts into gear, the U.S. military is operating against a backdrop of not just these changes, but also an evolving threat landscape. Chiefs across the service branches over the past year made clear their sharp focus on technology-driven dominance over near-peer adversaries,"
+publishedDateTime: 2021-02-06T15:29:00Z
+originalUrl: "https://www.hstoday.us/subject-matter-areas/information-technology/ai-powered-cooperation-will-transform-u-s-military-operations/"
+webUrl: "https://www.hstoday.us/subject-matter-areas/information-technology/ai-powered-cooperation-will-transform-u-s-military-operations/"
 type: article
-quality: 33
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Slator
-  domain: slator.com
+  name: Homeland Security Today
+  domain: hstoday.us
 
 topics:
-  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://slator.com/assets/2021/02/How-to-Improve-Automatic-Machine-Translation-Evaluation_-Add-Humans-Scientists-Say.png"
-    width: 600
-    height: 400
+  - url: "https://www.hstoday.us/wp-content/uploads/2021/02/1000w_q95-6.jpg"
+    width: 1000
+    height: 667
     isCached: true
 
 related:
@@ -57,21 +56,21 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "AI-Powered Cooperation Will Transform U.S. Military Operations"
-    excerpt: "And as 2021 shifts into gear, the U.S. military is operating against a backdrop of not just these changes, but also an evolving threat landscape. Chiefs across the service branches over the past year made clear their sharp focus on technology-driven dominance over near-peer adversaries,"
-    publishedDateTime: 2021-02-06T15:29:00Z
-    webUrl: "https://www.hstoday.us/subject-matter-areas/information-technology/ai-powered-cooperation-will-transform-u-s-military-operations/"
+  - title: "How to Improve Automatic Machine Translation Evaluation? Add Humans, Scientists Say"
+    excerpt: "Scientists propose new system to standardize automatic evaluation of NLP systems by adding humans in the loop."
+    publishedDateTime: 2021-02-04T07:31:00Z
+    webUrl: "https://slator.com/machine-translation/how-to-improve-automatic-machine-translation-evaluation-add-humans-scientists-say/"
     type: article
     provider:
-      name: Homeland Security Today
-      domain: hstoday.us
-    quality: 37
+      name: Slator
+      domain: slator.com
+    quality: 33
     images:
-      - url: "https://www.hstoday.us/wp-content/uploads/2021/02/1000w_q95-6.jpg"
-        width: 1000
-        height: 667
+      - url: "https://slator.com/assets/2021/02/How-to-Improve-Automatic-Machine-Translation-Evaluation_-Add-Humans-Scientists-Say.png"
+        width: 600
+        height: 400
         isCached: true
 
-secured: "J1WLGYu3a2In6FBb2VWx0h+9JvkFHQ3K+JXi87Rw1boIkWLdnulG7scKvu9+itwQHYUoWak3VbnmkBeK0Jib7AupEGW/NZT72T5T8y+oZWaAgJuDVb/Aht0qbP+Ooqz8ID6bbxwRVfU7Vu4jp0b619ca/khfiJggn7TuaV8VgN0unyfmpwI2uxJna1vYEMCq+ZH8MhldP3Wn/pF+qMQ07IVgZYzDsIeCLd0G/ZOJTGytmE+N5fQioqZXbOVOZahj9yJbrbRRJiWEPWk+ACmP97aa1mUaXttV8tHuFC6FmdOuhsEMz7Pd1WMx64U8+ttVRtTYRauGbQBXrULz+n3vxRw1rz+sNeSD8f3JY/c7GYHVLwzsinbgKW8ttFxIsLd6KHt8LFZcDwnHKLvrcaULsSqOCCcidHh6cFb8rNAi5NnTFGaimjyLfHE6v8anrWJjyMfHYTpZk8FbeCpc4DGy5MEFiNY4C904ADpfxHnXkFRalkSRqdOgsis7cfJuRwbvhcAtxkL4JJq3xLjtEjumfA==;cR8SPhz655J+0xtEFbrsuQ=="
+secured: "4rCykE0gFz+qF1LB8+8VWbw6A1l8I1bXU0v/i7q9EorYuUu2ip+1+4N1EO3GtyWpP54F8k29OkePiTtzHZxmtKx1TT7lZbUoV/e0SYYOwa56G6cz4/Ez1cZX6K7tndYbLz8fgsuL2aRuOXCSTMv3bFuEgOwLc7AJHxKx0IhZKKKnwES97b5z7me0boUWdyOoIh242IpUR4vxKEF0/6RQ1eKtoGlyiweQntITTXaztjYgB05sXqKraQs/0ZmRSvdGXWAA4+6NQH3MkHXlDkJVatDvLV3feL3o4bLuGxt64eZNLs/PQoksChB94ZAsM8t9fvWbDCjODtCpxLetfV0jndM5OHKIu0r+P3R1kdcMUdA=;xKmG56iaQ4jAEVdRojeemg=="
 ---
 

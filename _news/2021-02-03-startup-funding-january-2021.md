@@ -24,19 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "This month in AWS Machine Learning: January edition"
-    excerpt: "Hello and welcome to our first “This month in AWS Machine Learning” of 2021! Every day there is something new going on in the world of AWS Machine Learning—from launches to new to use cases to interactive trainings. We’re packaging some of the not-to-miss information from the ML Blog and beyond for easy"
-    publishedDateTime: 2021-02-01T23:06:23Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/this-month-in-aws-machine-learning-january-edition/"
+  - title: "The 14 Largest Global Startup Funding Rounds of January 2021"
+    excerpt: "Everything you need to need to know about the largest global startup funding rounds of January 2021; broken down by industry, stage, investors, and"
+    publishedDateTime: 2021-02-05T20:13:00Z
+    webUrl: "https://www.alleywatch.com/2021/02/global-startup-funding-top-largest-january-2021-vc/"
+    ampWebUrl: "https://www.alleywatch.com/2021/02/global-startup-funding-top-largest-january-2021-vc/amp/"
+    cdnAmpWebUrl: "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2021/02/global-startup-funding-top-largest-january-2021-vc/amp/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 106
+      name: alleywatch.com
+      domain: alleywatch.com
+    quality: 44
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/01/January-Edition-01.jpg"
-        width: 801
-        height: 401
+      - url: "https://cdn.alleywatch.com/wp-content/uploads/2021/01/2021-NYC-TECH-INFLUENCERS.jpg"
+        width: 800
+        height: 419
         isCached: true
 
 secured: "Qsmg8al5/VCvYcmtWXq/LmhR+xtcjv4LzotBSMbIR4zhV+T7BPBG+7X5HyFnulMXlU4/PrHH2OjFj7Q+oIOEQgv0gz7HsaC5hRpVLq7MY9PfxjtJfHcdzHgpTvwcWQMg1d0vNhQLRKemVdq25gylHItGpQdlRCuXOvomyWs8tOoZhdeu1n4O0h6REfJ7+9PYHEOXROSw2I7StNKmT2uHex++2ZCecAm6H6pmTNF2GeK26ii6lBuyWlh69On0wZ2T7P3ZRt3RNaHhCEbSQ4GoCcz5Mm9R83wOgcQpFRH7Y1HWgoqklPb0FLIH0DVgyhT8eS+MlGxoIbpHJ5nYg1xHFG0y9PGCFcW/ZA2oKWMUBBHHPlJtD5mtGkj32KDPGd+BLAJ4t6XBkIbyR8FYbSE4axavMFB4C4SeZ91xsXYMP8BjJJ2mA8kYkQdnJE1ySXHEZZpbiTAWDVlWP4IZctO5ilhW6mrHDDdINSu40coAcajggaXMKT8CVFcu9QNikO2RTKj0DXWdfP61pvV9qt2Itg==;Z8WcQCVFacbeQ0AHg9R5Xg=="

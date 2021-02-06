@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Observe.AI and Microsoft Team Up to Redefine Customer Experience with Contact Center AI"
-excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance customer experiences, improve compliance, and boost agent performance."
-publishedDateTime: 2021-02-03T08:22:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
-webUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-eda49552cd434fd1b02c714c7a78f8b1"
+excerpt: "Observe.AI, a leader in Contact Center AI, today announced that they will be working with Microsoft to bring the power of automation and AI to enhance"
+publishedDateTime: 2021-02-02T22:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
+webUrl: "https://www.businesswire.com/news/home/20210202005918/en/Observe.AI-and-Microsoft-Team-Up-to-Redefine-Customer-Experience-with-Contact-Center-AI"
 type: article
-quality: 46
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Microsoft launches Custom Neural Voice in limited access"
@@ -153,17 +147,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Etihad partners with Microsoft AI to transform finance operations"
-    excerpt: "Etihad Airways has carried out a transformation of its Finance Operations through harnessing the power of Microsoft AI. The Finance and Digital, Technology and Innovation divisions worked with Microsoft to modernise their payment inspection process using cognitive services."
-    publishedDateTime: 2021-02-02T00:00:00Z
-    webUrl: "https://www.zawya.com/mena/en/business/story/Etihad_partners_with_Microsoft_AI_to_transform_finance_operations-SNG_199392366/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_199392366/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_199392366/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 71
   - title: "Shell, C3 AI, Baker Hughes, and Microsoft Launch the Open AI Energy Initiative"
     excerpt: "Shell, C3 AI, Baker Hughes, and Microsoft have launched the Open AI Energy Initiative (OAI), a first-of-its-kind open ecosystem of artificial intelligence (AI)-based solutions for the energy and process industries,"
     publishedDateTime: 2021-02-02T08:09:00Z
@@ -440,6 +423,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "p35YSvZM+YsGP7KEhz1mJCxiwiMqHcRbOfM2q6eqOWJtM9rOXDxX4/+Pu4NTYYpQeI+ibAdJcAOUgJGQU9NFBFHd2pCRpcOpMeqmkVCH/isqcYtlDuv2yOvyNU6scX2vlHTptJirSJcIHGvcwT27wxHzIUgRk+IUWxGT5TzUKOnMh6bVBAb6BcKaXcTVSiWWMAEXabI4prqc18sqUwiDTS1K8WRUB8UCm5ctugxic084y5NTgazoiODPsjt4/T+Xl2pHmGkVlDSwbCp7LhrYxxtRhTtB6bRJOIHQ2RIJD78ld/JuEtGLgLNg7CBW+uiP2hLLk7egELKVd90n+NxK+DeyRWYj5Ki7/UgmMpLISfk=;wZ8o0VOPhihlVuKZPHjJ/w=="
+secured: "tikLiJ5NbLPJU8XN70jRHj2Ha9dc/UAeQ9C3Tfren9iD5BZYs4cCix5j81vjq19ZizESwg7MrX+mNp5+9rE4+qBjQQhUWD0W2oy7U2ZeKuYICk2Q8jILHkDC+eoG/mENV/QDxcyYrEGni0PA+RWsOvy4VdbrN9mQtYzp+VwmvKafNLPUEn5yS5igdwHPGRI8RFphOJIULo2wN7wYhV089vdMUavVwjolfFuxKChjPtMoOVbBvhNEz6YwxEko5/JzUxs3ocLNK6KSnxWXqzQhvHwN6/idwbWXFF4O67lsgvE9NedW6Uz+yY3AoYdvPX9/Yb8o4pUNKJz56uuZImNy1YA9Vb6cDuqe9L0Deg3Lofw=;TwmEqAbhhVAugMnGa+Lyzw=="
 ---
 

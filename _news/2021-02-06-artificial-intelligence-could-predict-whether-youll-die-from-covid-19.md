@@ -54,20 +54,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Using AI To Speed Up the Covid Vaccination Process (Podcast)"
-    excerpt: "Sean Lane, CEO of Olive, talks about using technology to speed up the Covid vaccination process. Bloomberg News Investing Reporter Annie Massa shares insight on Robinhood relaxing trading curbs. Bloomberg Businessweek Editor Joel Weber and Businessweek Economics Editor Peter Coy discuss the story “Market Manipulation Is a Controversial Concept in Securities Law."
-    publishedDateTime: 2021-02-01T23:21:00Z
-    webUrl: "https://www.bloomberg.com/news/audio/2021-02-01/using-ai-to-speed-up-the-covid-vaccination-process-podcast"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/s3/bbiz/images/social_fallbacks/bloomberg_default-a4f15fa7ee.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Community Health Network prescribes AI to combat COVID-19 – Jaweb"
     excerpt: "AI is about to play a much larger role in identifying individuals who are at risk for contracting COVID-19 in Indiana. Community Health Network (CHN), an accountable care organization (ACO), revealed today that it is beginning to employ an AI platform from Jvion to analyze members’ electronic health care records that are stored in a"
     publishedDateTime: 2021-02-03T15:00:00Z
@@ -169,6 +155,6 @@ related:
         height: 630
         isCached: true
 
-secured: "hE3OL/BOYJ7o9U9GGvW1Xu3k9yNycRmLrric8mKXLKnUG3O0Pbxz8HmJdrhMbSqxdi3S3GAn2aTrhbXX+9mKc4DihTWKJ9LNc25uFS7rueT/1cWED5HdOUrNDmc5kEHEJjE76qwTbluIOfPjYGfE6tUyV5k2WPnUsDuf7m4XjZX1iZO0yhX9e3qXM1bvjYKol5rpeOQQE1wRE/esZGNXU9XTYCH2XRSbBxCLbUdKTtBhIKyyfFfeIfRjwT/xnCN/vYvpgwOC4JgXhcmQLCmlvcA0uLOb1NR4LiVtkCD3FAGsss8AaXVCxFWnyOwWJ92mY1+jvUokmZYPTx0+dRrVgtovH5XiCkv/j8hNnlNzKOE=;+5YCF4Kl56ZFuT+Kld5XsQ=="
+secured: "B2yz3fxpwOE7ULHWxLWvogR3NXaFEk77YmGNjA08oJGnxEa712wmkC+jjGU4WkUp3EtNim27uhJp90129eVwYbqbx/Hn2+P9rBWVLcztNjtbfu3rstM+NAZDnZARqg67vzEREqehwZrTLs4jQcID8hHns10mPMssIlQ1FyyhNqUIoAn4vMAXhCp6REtIClSq9BJdcywSE1gH/nkVAJyTLoFk5+EAtvyarnkvosQjappx8cyP9yGtXqn21R5Nr0mwlrm0rWJe3YQAWvhNoyQ2z7zUnkNkSXNmclfnSkEvwT/9pIlms+uWLESZ7r2jdeHI3S9EDQhLkpD4FT2ylwd8TkoMsaOnuzeWetfW1LKsPmJxZ4M4cp5PEd8Bd3mUmhqnBIad4OKZtMVE2ccDUdjV/ftBVIqAqZrh240z3slWBSDTtdZ4LB/QECkSmeuHvnkAXC0bUIDnGWhEnyKK3/wvX66j6oiRCfMmva6ER9qxJ+Kke/fo3KzExMtIvr55NsoHI172gbr3ZZ9yltkR1equhg==;oxG2pXPLPJ9bYNe3Z0WU9Q=="
 ---
 

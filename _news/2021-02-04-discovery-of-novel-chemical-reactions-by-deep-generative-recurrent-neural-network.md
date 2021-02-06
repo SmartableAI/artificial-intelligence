@@ -27,8 +27,8 @@ images:
 related:
   - title: "Machine learning made easy for optimizing chemical reactions"
     excerpt: "An accessible machine-learning tool has been developed that can accelerate the optimization of a wide range of synthetic reactions — and reveals how cognitive bias might have undermined optimization by humans."
-    publishedDateTime: 2021-02-03T20:32:00Z
-    webUrl: "https://www.nature.com/articles/d41586-021-00209-6?error=cookies_not_supported&code=e0a7cfd4-77d0-4846-a118-249b484d1628"
+    publishedDateTime: 2021-02-03T23:16:37Z
+    webUrl: "https://www.nature.com/articles/d41586-021-00209-6"
     type: article
     provider:
       name: Nature
