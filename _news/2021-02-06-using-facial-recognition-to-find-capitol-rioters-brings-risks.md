@@ -68,22 +68,6 @@ related:
         width: 810
         height: 405
         isCached: true
-  - title: "Apple solves facial recognition problem caused by masks"
-    excerpt: "SINCE the coronavirus pandemic has made it necessary for everyone to wear masks, using FaceID on iPhones isn’t quite as good as it was supposed to be. The"
-    publishedDateTime: 2021-02-02T09:31:00Z
-    webUrl: "https://www.euroweeklynews.com/2021/02/02/apple-solves-facial-recognition-problem-caused-by-masks/"
-    ampWebUrl: "https://www.euroweeklynews.com/2021/02/02/apple-solves-facial-recognition-problem-caused-by-masks/"
-    cdnAmpWebUrl: "https://www-euroweeklynews-com.cdn.ampproject.org/c/s/www.euroweeklynews.com/2021/02/02/apple-solves-facial-recognition-problem-caused-by-masks/"
-    type: article
-    provider:
-      name: Euro Weekly News
-      domain: euroweeklynews.com
-    quality: 59
-    images:
-      - url: "https://cdn.euroweeklynews.com/wp-content/uploads/2021/02/mask-5008668_1280.jpg?x53461"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Fears raised over facial recognition use at Moscow protests"
     excerpt: "Lawyers say several people were held after being identified by surveillance cameras in Moscow during protests last week"
     publishedDateTime: 2021-02-04T12:45:00Z

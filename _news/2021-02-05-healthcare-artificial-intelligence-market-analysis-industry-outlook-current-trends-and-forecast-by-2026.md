@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) Chipsets Market Share, Growth Insight, Size, Competitive Analysis, Regional, And Global Forecast To 2027"
-    excerpt: "https://www.fortunebusinessinsights.com/enquiry/customization/artificial-intelligence-ai-chipsets-market-104500 8.1.1.1. Graphics Processing Unit (GPU) 8.1.1.2. Field Programmable Gate Arrays (FPGAs) 8.1.1.3. Application-specific Integrated Circuit (ASIC ..."
-    publishedDateTime: 2021-02-02T10:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-share-growth-insight-size-competitive-analysis-regional-and-global-forecast-to-2027-2021-02-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 74
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Chipsets Market 2020 Industry Development and Growth Forecast to 2025"
     excerpt: "The scope of the report includes a detailed study of Artificial Intelligence Chipsets Market with the reasons given for variations in the growth of the industry in certain regions. Browse the full report here:  Due to high growth in computing applications,"
     publishedDateTime: 2021-02-03T11:02:00Z

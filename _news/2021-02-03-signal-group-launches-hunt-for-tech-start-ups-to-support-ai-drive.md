@@ -7,7 +7,7 @@ originalUrl: "https://www.tradewindsnews.com/technology/signal-group-launches-hu
 webUrl: "https://www.tradewindsnews.com/technology/signal-group-launches-hunt-for-tech-start-ups-to-support-ai-drive/2-1-956121"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,20 +24,17 @@ images:
     isCached: true
 
 related:
-  - title: "TU Delft launches new AI labs"
-    excerpt: "Delft University of Technology has launched a new series of eight AI labs, aimed at accelerating scientific progress and helping to solve societal issues in areas such as automated driving, the built environment and energy systems."
-    publishedDateTime: 2021-02-02T10:04:00Z
-    webUrl: "https://bits-chips.nl/artikel/tu-delft-launches-new-ai-labs/"
+  - title: "Recruiter com Group makes its case for harnessing video, acquires AI-focused tech startup"
+    excerpt: "CEO Evan Sohn tells Proactive how the group has harnessed video to help it achieve its recruiting goals. In the fourth quarter, Recruiter.com launched three new initiatives: On Demand, a gig platform for recruiter services;"
+    publishedDateTime: 2021-02-02T18:21:00Z
+    webUrl: "https://www.proactiveinvestors.com/companies/news/940204/recruiter-com-group-makes-its-case-for-harnessing-video-acquires-ai-focused-tech-startup-940204.html"
+    ampWebUrl: "https://www.proactiveinvestors.com/companies/amp/news/940204"
+    cdnAmpWebUrl: "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/940204"
     type: article
     provider:
-      name: Bits&Chips
-      domain: bits-chips.nl
-    quality: 39
-    images:
-      - url: "https://bits-chips.nl/wp-content/uploads/2021/02/AI.jpg"
-        width: 500
-        height: 335
-        isCached: true
+      name: Proactiveinvestors
+      domain: proactiveinvestors.com
+    quality: 28
 
 secured: "ktOKAeXro+Vp5ETXxtFegajvvuNwvQTvpfz3x6mw42djockfflhnbzuZBebtFn+3fQwOj1pW6CSzlbHv/vXyNrj8cl5E46cOmtWeOdl8nEu3j9W0ujYZ1McSKKWGcuhM6LmahTNpAQ9kkEau2SXeHDSYsJ6XImAsmTo6xIhTpkD+9i4jRc3E6Il6JL0nGBu6vmhbUROB11txNhzFE+iHjLPLBxIsdMJC2uFWDuA+LZ1Qb5ljkRCnDOqHW4ReTpNrFIoYcd2AcX5AZeKIvUICnKp2llHwT689VtkZUQ57QL93oDnq8EjXVfiWeZZgS5FSUMSWcnb/N1uEMp2bhbSOxKATZTwC8jBBrcDyG0N+nUY=;fi7UeVPBZ/io+4/9dQ+ZOw=="
 ---

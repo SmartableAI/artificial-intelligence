@@ -9,7 +9,7 @@ ampWebUrl: "https://www.proactiveinvestors.com/companies/amp/news/940204"
 cdnAmpWebUrl: "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/940204"
 type: article
 quality: 28
-heat: 28
+heat: -1
 published: false
 
 provider:
@@ -20,17 +20,20 @@ topics:
   - AI
 
 related:
-  - title: "Recruiter.com acquires Scouted.io, a tech startup focused on..."
-    excerpt: "The acquisition unlocks a prestigious client roster — spanning top global hedge funds, venture capital firms, and tech giants — to accelerate"
-    publishedDateTime: 2021-02-02T16:10:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/940194/recruitercom-acquires-scoutedio-a-tech-startup-focused-on-unlocking-deep-insights-into-candidates-using-video-screening-and-ai-based-scoring-algorithms-940194.html"
-    ampWebUrl: "https://www.proactiveinvestors.com/companies/amp/news/940194"
-    cdnAmpWebUrl: "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/940194"
+  - title: "Signal Group launches hunt for tech start-ups to support AI drive"
+    excerpt: "Signal Group's new investment arm is seeking entrepreneurs and technology start-ups to work with on new digital solutions for shipping. The Thenamaris aframax chartering spin-off has launched Signal"
+    publishedDateTime: 2021-02-03T08:09:00Z
+    webUrl: "https://www.tradewindsnews.com/technology/signal-group-launches-hunt-for-tech-start-ups-to-support-ai-drive/2-1-956121"
     type: article
     provider:
-      name: Proactiveinvestors
-      domain: proactiveinvestors.com
-    quality: 22
+      name: TradeWinds
+      domain: tradewindsnews.com
+    quality: 37
+    images:
+      - url: "https://images-global.nhst.tech/image/dUF5UjV0dGp4aDFNSzRWbjZKeE1PQWJBUEdCdmh4b1l5dlU4cDZKYmRxYz0=/nhst/binary/334fbbc256a7cc4972711a381f88d06f?image_version=720"
+        width: 720
+        height: 361
+        isCached: true
 
 secured: "HsVg6Iz3A6oTb0PCsKaruTyIiCE89QoLlKNIG3Mc/uxhikhZZMGC/NnON2qrdMMmAqdUj9ibzIUj3GxMD5DBtGAQuZS+wtTeJudhiWhIMqDpaKbYhGloZHjV15TysRsmrWU02Vy6uBqdGCqIt77KNAL/9NeqPTC7GYfD+dcEgj4d1u4ZyyzyMcXCccrgixzGKV6LYA3AfQeYTuzqmUqPssFmC6z/wmtQMJ9D3HQfV0nBhTWPaLKrSL7Y0cyWireL14GEZ3c2C5xVTRGL5tdwQr3TskH4d07uQ/GUjZqkEPw0vnewo1QLrHz4rCP3x/WHYl3zG1XsI5nlFPUlpzxErrXMqUzUSBRiuEeazZgZYiFiDMy/HBnzkvtJ9dB1hTsPUGC6jwWq8jjT5RE85IfQUwd5o4iZOEETgCCHw4EkrtedR6W5f9vRjq4arE7WcL23LaqOpfqi0gLoWGpI4xH8+S6h7fKEy5vzCkPVWeG4ZDgDxvdDLSp3y+dawm4rgIGGyJttn9kuOmCmldyEQpqsRQ==;n9NOitaInbY18ti/143U/w=="
 ---

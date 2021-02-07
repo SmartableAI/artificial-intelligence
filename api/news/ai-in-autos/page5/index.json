@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-05-2-tesla-analysts-break-down-fundamentals-valuation-china-prospects-after-q4-delivery-report.md",
+      "title": "2 Tesla Analysts Break Down Fundamentals, Valuation, China Prospects After Q4 Delivery Report",
+      "excerpt": "Tesla Inc (NASDAQ: TSLA) nearly met what many thought was an insurmountable 2020 deliveries target in the wake of the COVID-19 pandemic — and beat Street projections.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/01/02/tesla-tsla-q4-2020-vehicle-delivery-and-production-numbers.html",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/2-tesla-analysts-break-down-fundamentals-valuation-china-prospects-after-q4-delivery-report-1029931521",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 178,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106806378-1607090735605-gettyimages-1229775377-CHINA-SHANGHAI-TESLA-GIGAFACTORY_CN.jpeg?v=1607090789",
+          "width": 4000,
+          "height": 2833,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/01/02/tesla-tsla-q4-2020-vehicle-delivery-and-production-numbers.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/02/tesla-tsla-q4-2020-vehicle-delivery-and-production-numbers.html",
+      "publishedDateTime": "2021-01-04T12:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-01-04-why-baidu-stock-soared-556-in-december.md",
       "title": "Why Baidu Stock Soared 55.6% in December",
       "excerpt": "Shares of Baidu (NASDAQ:BIDU) rose 55.6% in December, according to data from YCharts. The Chinese search engine giant's stock surged following a report from Reuters",
@@ -1341,40 +1393,6 @@
       "provider": {
         "name": "MoneyShow.com",
         "domain": "moneyshow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-25-a-legal-first-bc-man-accused-of-dangerous-driving-for-sleeping-in-self-driving-speeding-tesla.md",
-      "title": "‘A legal first’: B.C. man accused of dangerous driving for sleeping in self-driving, speeding Tesla",
-      "excerpt": "In what Canadian legal experts are calling an unprecedented case, a B.C. man has been charged with dangerous driving in Alberta after he was allegedly caught sleeping in a self-driving Tesla as it ...",
-      "sourceUrl": null,
-      "webUrl": "https://globalnews.ca/news/7534323/a-legal-first-b-c-man-accused-of-dangerous-driving-for-sleeping-in-self-driving-speeding-tesla/",
-      "originalUrl": "https://globalnews.ca/news/7534323/a-legal-first-b-c-man-accused-of-dangerous-driving-for-sleeping-in-self-driving-speeding-tesla/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://globalnews.ca/news/7534323/a-legal-first-b-c-man-accused-of-dangerous-driving-for-sleeping-in-self-driving-speeding-tesla/amp/",
-      "cdnAmpWebUrl": "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/7534323/a-legal-first-b-c-man-accused-of-dangerous-driving-for-sleeping-in-self-driving-speeding-tesla/amp/",
-      "publishedDateTime": "2020-12-24T17:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Global News",
-        "domain": "globalnews.ca",
         "images": null,
         "publishers": null,
         "authors": null

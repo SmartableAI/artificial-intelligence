@@ -34,20 +34,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) Chipsets Market Share, Growth Insight, Size, Competitive Analysis, Regional, And Global Forecast To 2027"
-    excerpt: "https://www.fortunebusinessinsights.com/enquiry/customization/artificial-intelligence-ai-chipsets-market-104500 8.1.1.1. Graphics Processing Unit (GPU) 8.1.1.2. Field Programmable Gate Arrays (FPGAs) 8.1.1.3. Application-specific Integrated Circuit (ASIC ..."
-    publishedDateTime: 2021-02-02T10:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-share-growth-insight-size-competitive-analysis-regional-and-global-forecast-to-2027-2021-02-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 74
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Healthcare Artificial Intelligence Market Analysis, Industry Outlook, Current Trends and Forecast by 2026"
     excerpt: "Request a sample Report of Healthcare Artificial Intelligence Market Analysis Report at:  The healthcare artificial intelligence market is anticipated to witness significant growth over the coming time period owing to increasing use of technology across numerous medical application verticals such as drug discovery,"
     publishedDateTime: 2021-02-05T07:14:00Z

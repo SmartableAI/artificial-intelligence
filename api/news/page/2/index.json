@@ -548,8 +548,8 @@
       "title": "AI reading list: 8 interesting books about artificial intelligence to check out",
       "excerpt": "These eight books about artificial intelligence cover a range of topics, including ethical issues, how AI is affecting the job market, and how organizations can use AI to gain a competitive advantage.",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
-      "originalUrl": "https://www.techrepublic.com/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
+      "webUrl": "https://www.techrepublic.com/index.php/category/2184/index.php/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
+      "originalUrl": "https://www.techrepublic.com/index.php/category/2184/index.php/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
       "featuredContent": null,
       "highlight": null,
       "heat": 98,
@@ -566,8 +566,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/category/2184/index.php/google-amp/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/2184/index.php/google-amp/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
       "publishedDateTime": "2021-02-04T08:46:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -631,19 +631,19 @@
     {
       "path": "_news/2021-02-04-quantiphi-recognized-as-a-tensorflow-ai-service-partner-for-machine-learning-led-enterprise-transformation.md",
       "title": "Quantiphi Recognized as a TensorFlow AI Service Partner for Machine Learning Led Enterprise Transformation",
-      "excerpt": "Quantiphi, an applied AI and data science company, has been selected by TensorFlow as an AI Service Partner to enable businesses across industries",
+      "excerpt": "Quantiphi, an applied AI and data science company, has been selected by TensorFlow as an AI Service Partner to enable businesses across industries to benefit from AI-based systems and help them innovate faster,",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/quantiphi-recognized-as-a-tensorflow-ai-service-partner-for-machine-learning-led-enterprise-transformation/article_4c4c7bb7-085f-5ba9-a361-6bc04201dd08.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/quantiphi-recognized-as-a-tensorflow-ai-service-partner-for-machine-learning-led-enterprise-transformation/article_4c4c7bb7-085f-5ba9-a361-6bc04201dd08.html",
+      "webUrl": "https://www.lelezard.com/en/news-19635111.html",
+      "originalUrl": "https://www.lelezard.com/en/news-19635111.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 92,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
+          "width": 640,
+          "height": 480,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -653,11 +653,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-04T06:25:00-08:00",
+      "publishedDateTime": "2021-02-04T06:45:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -667,10 +667,11 @@
         "news"
       ],
       "topics": [
-        "TensorFlow",
-        "Google AI",
+        "AI in Finance",
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "Google AI",
+        "TensorFlow"
       ]
     },
     {
@@ -1064,58 +1065,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-04-artificial-intelligence-helping-to-prevent-disinformation-for-investors.md",
-      "title": "Artificial Intelligence Helping to Prevent Disinformation for Investors",
-      "excerpt": "That’s further proof investors have turned to chat rooms for investing ideas. Unfortunately, not all information gathered in such chat rooms is truthful information. However, with a good deal of rampant disinformation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-helping-to-prevent-disinformation-for-investors-2021-02-04-41974517",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-helping-to-prevent-disinformation-for-investors-2021-02-04-41974517",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-04T04:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-04-ai-and-the-list-of-dirty-naughty-obscene-and-otherwise-bad-words.md",
       "title": "AI and the List of Dirty, Naughty, Obscene, and Otherwise Bad Words",
       "excerpt": "It started as a way to restrict autocompletes on Shutterstock. Now it grooms search suggestions on Slack and influences Google's artificial intelligence research.",
@@ -1215,6 +1164,49 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-04-noida-girl-designs-machine-learning-project-to-identify-down-syndrome-through-photographs.md",
+      "title": "Noida Girl Designs Machine Learning Project to Identify Down Syndrome Through Photographs",
+      "excerpt": "Designed as part of a project submitted to Google India Code to Learn contest 2020, this tool has the potential of saving more than 20,000 children's lives annually in India alone",
+      "sourceUrl": null,
+      "webUrl": "https://www.india.com/viral/noida-girl-designs-machine-learning-project-to-identify-down-syndrome-through-photographs-4397923/",
+      "originalUrl": "https://www.india.com/viral/noida-girl-designs-machine-learning-project-to-identify-down-syndrome-through-photographs-4397923/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.india.com/wp-content/uploads/2021/02/11-2.jpg",
+          "width": 613,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.india.com/viral/noida-girl-designs-machine-learning-project-to-identify-down-syndrome-through-photographs-4397923/amp/",
+      "cdnAmpWebUrl": "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/viral/noida-girl-designs-machine-learning-project-to-identify-down-syndrome-through-photographs-4397923/amp/",
+      "publishedDateTime": "2021-02-04T03:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India.com",
+        "domain": "india.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }
